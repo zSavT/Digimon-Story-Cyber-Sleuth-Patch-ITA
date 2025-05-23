@@ -1,0 +1,111 @@
+ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
+1,2000,"","...?","……？","","…?","...?"
+2,3004,"","Yeah. Hang on just... one... sec!","嗯……等我一下下……嘿咻！","","응… 조금만 기다려… 됐다!","Ja. Nur ... ein ... Moment noch!"
+3,3004,"","Haha, here it is! The site log.
+Now we can track down the data that was deleted.","嘿嘿！有了！這是那個網站的紀錄……
+這樣就可以追蹤那些被刪除的資料了。","","헤헤, 있다있어, 그 사이트의 로그다…
+이제 삭제됐다던 데이터를 찾아볼 수 있겠어","Haha, da haben wir es! Das Protokoll der Seite.
+Jetzt können wir die gelöschten Daten finden."
+4,3004,"","Even when users think they've deleted data, it
+still exists on the server.","資料這種東西，就算用戶自以為刪除了，
+還是會留在伺服器裡的。","","데이터 같은 건, 유저가 삭제했다 해도
+서버에 남아 있는 법이지","Auch wenn Nutzer meinen, Daten gelöscht zu haben,
+bestehen sie noch auf dem Server."
+5,3004,"","The region where it's stored is protected and the
+data itself is encrypted, but...","只是存放這些資料的領域被加以保護，
+資料本身也被加密……","","격리되어있는 영역에 프로텍트가 걸려있는데다
+데이터 그 자체도 암호화되어 있거나 하지만…","Sie sind verschlüsselt und in einem geschützten
+Bereich gespeichert, aber ..."
+6,3004,"","If I can break into EDEN's ordinary servers,
+then this should be a snap for me.","但如果只是要駭進EDEN的通用伺服器，
+憑我的程度就辦得到。","","EDEN의 범용 서버에 침입하는 것 정도면
+나 정도여도 이렇게 간단하단 거지","Wenn ich in die normalen Server von EDEN komme,
+dann dürfte das hier ein Kinderspiel sein."
+7,3006,"","Oh-ho... That's brilliant.","喔？技術很不錯嘛！","","호오… 훌륭하군","Oho ... Das ist wirklich schlau."
+8,3004,"","Oh, it's nothing, really.","還好啦！不算什麼！","","뭐, 별거 아님다","Ach, ist doch nicht weiter der Rede wert."
+9,3004,"","Now, do you want to look for the data in question?
+If we restore the comments we should be able to
+find what we're looking for.","那要來找相關資料嗎？
+只要復原留言，順著找回去，應該就能找到線索……","","그럼, 목표 데이터를 찾아보실까
+코멘트를 복원해서 거슬러 올라가면, 그럴싸한 게 나올 텐데…―","So, wollt ihr jetzt also die fraglichen Daten
+suchen? Wenn wir die Kommentare wiederherstellen,
+sollten wir sie finden."
+10,2000,"","...?","……？？","","…??","...?"
+11,3004,"","What is this data?","嗯？這個資料是什麼……","","뭐야, 이 데이터…","Was sind das denn für Daten?"
+12,3006,"","Hmm... If that's what we're looking for, then it
+was put together by a very unique program.","嗯……如果這就是我們要的資料，
+它似乎是以非常特殊的程式構成的。","","…흐음, 그게 목표 데이터라면
+상당히 특수한 프로그램에 의해 조성되어 있는 모양이군","Hm ... Wenn das die richtigen sind, dann wurden
+sie von einem ganz besonderen Programm erstellt."
+13,3004,"","Could this be... Is this a Digimon program?
+I've never been able to properly analyze one.","這該不會……是「數碼寶貝程式」吧？
+話說我還沒有好好分析過耶……","","설마, 이거…「디지몬 프로그램」인가?
+그러고 보니, 제대로 분석해 본 적이 없었지…","Ist das etwa ... Ist das ein Digimon-Programm?
+Ich konnte noch nie eins ordentlich analysieren."
+14,3006,"","I see... The structure is certainly similar but...
+If so, then it's been significantly altered.","原來如此，結構的確很像……
+但如果真的是，那應該已經過大幅度的突變。","","과연, 확실히 구조는 비슷하지만…
+그렇다면, 상당히 변이된 상태라고 할 수 있겠군","Verstehe ... Die Struktur ist ähnlich, aber ...
+Wenn, dann wurde es stark modifiziert."
+15,3006,"","It's been affected by ""something"" that can't be
+expressed with 0s and 1s. Or maybe that's what
+that very something is.","可能受到了「0」、「1」以外的「某種東西」所影響，
+或者它根本就是「某種東西」本身？","","""0""과 ""1""로는 나타낼 수 없는「무언가」의 영향을 받았거나
+혹은, 원래부터 그런 것이거나","„Etwas“ hat darauf Einfluss genommen, das sich
+nicht mit Nullen und Einsen beschreiben lässt.
+Oder vielleicht ist es genau das."
+16,3004,"","It's also possible that an Eater was involved!","搞不好跟侵食者也有關吧？","","이터가 연관되어 있을 가능성도 있다고?","Womöglich war auch ein Verschlinger am Werk!"
+17,3004,"","Ha! This is pretty cool! If I keep running across
+stuff like this, maybe I could be a cyber sleuth,
+too.","嘿嘿，這真是太有趣了……！
+如果能遇到這麼有趣的東西，我也想當電腦偵探……","","헤헷, 이거 재밌구만…!
+이런 것과 맞닥뜨릴 수 있다면, 나도 전뇌탐정이 될까…","Ha! Das ist alles ziemlich cool! Wenn ich noch
+mehr solche Sachen finde, hätte ich vielleicht
+auch das Zeug zum Cyber-Detektiv."
+18,3004,"","But hanging around here won't help!
+Let's check it out, [p]!","嗯，在這裡磨蹭下去也不是辦法！
+去確認看看吧，[p]！","","이런, 여기서 이러니저러니 해도 소용 없겠지!
+가서 확인해 보자고, [p]!","Aber hier herumhängen bringt nichts!
+Gehen wir mal nachsehen, [p]!"
+19,3004,"","Unsurprisingly enough, this weird data was sent on
+to Kowloon after it was deleted.","正好這些可疑的資料被刪掉後，
+最後都流向「Kowloon」。","","안성맞춤이게도, 이 묘한 데이터는
+삭제된 후,「쿠롱」에 흘러 들어갔어","Es überrascht nicht, dass diese seltsamen
+Daten nach ihrer Löschung auch nach Kowloon
+geschickt wurden."
+20,3004,"","This way we can check it directly, and if it's a
+nasty program like an Eater we can just use our
+Digimon to fight it off.","這樣我們就可以“親自”去確認，
+就算對方是像侵食者那樣恐怖的程式，也可以靠數碼寶貝來對抗——","","그렇다면 ""직접"" 확인할 수도 있고, 가령 이터 같은
+위험한 프로그램이었다고 해도, 디지몬으로 대항할 수 있어―","So können wir sie direkt überprüfen. Wenn es
+ein mieses Programm wie ein Verschlinger ist,
+können wir es mit unseren Digimon bekämpfen."
+21,3004,"","We should strike while the iron is hot!
+Let's meet at Galacta Park in Kowloon!","既然決定了就事不宜遲！
+那我們就到「Kowloon的破銅爛鐵公園」會合！","","그렇게 정해졌으면 쇠뿔도 단김에 빼야지!
+그럼,「쿠롱의 잡동사니 공원」에서 합류다!","Schmieden wir das Eisen, solange es heiß ist!
+Treffen wir uns im Galacta-Park in Kowloon!"
+22,2000,"","...","………","","………","..."
+23,3006,"","Well, you've got one talented partner there!","呵呵，很優秀的助手嘛！","","훗, 무척이나 우수한 조수인걸","Na, da hast du aber einen begabten Partner!"
+24,3006,"","If he's your assistant...
+Then that makes him my assistant's assistant.","不對，既然他是你的助手……
+也就是我的助手的助手囉？","","아니, 네 조수라고 한다면…
+요컨대, 내 조수의 조수로군","Wenn er dein Hilfsdetektiv ist ...
+Dann ist er mein Hilfshilfsdetektiv."
+25,3006,"","Well, then, my assistant! Yield to your
+assistant's zeal!","那麼小助手，
+你就跟著你的小助手，乘著他的氣勢出發吧。","","그럼, 조수 군
+지금은 조수의 조수 군의 기세에 맡기도록","Nun denn, Helferlein!
+Teile mal die Begeisterung deines Helferleins!"
+26,3006,"","There's an old saying. ""With skill comes luck.""","運氣也是實力的一部份，這句話雖然老套……","","운도 실력이라는 건, 오래된 표현이지만…","Es gibt ein altes Sprichwort:
+„Den Tüchtigen ist das Glück hold.“"
+27,3006,"","When you really look at it, the fact that you and
+he have formed this connection shows your own
+luck... along with your skill.","但從旁觀者的角度來看，你跟他之間的緣分，
+以及你的運氣……都是實力的一部份。","","네가 그와 인연을 맺은 것도, 전체적으로 보면
+네 운… 실력, 이다","Dass du dieses Verhältnis zu ihm aufgebaut hast,
+zeugt von Glück ... und davon, dass du
+tüchtig bist."
+28,3006,"","Respect that, or you're sure to regret it.","若不好好珍惜，可是會遭天譴的。","","소홀히 했다간 벌을 받을 거다","Denk immer daran, sonst bereust du es irgendwann."
+29,2000,"","!","！","","!","!"
+30,2000,"","I've got to meet Arata at Galacta Park in Kowloon!","前往「Kowloon的破銅爛鐵公園」跟新會合……！","","「쿠롱의 잡동사니 공원」에서 아라타와 합류하자…!","Ich muss Arata im Galacta-Park in Kowloon treffen!"

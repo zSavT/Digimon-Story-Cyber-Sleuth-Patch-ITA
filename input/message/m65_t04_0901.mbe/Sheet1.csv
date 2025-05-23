@@ -1,0 +1,340 @@
+ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
+1,1392,"","Could she have lost her memory?","怎麼會，艾莉卡的記憶消失了……","","설마 에리카의 기억이 없어져 버릴 줄은…","Hat sie etwa ihr Gedächtnis verloren?"
+2,2020,"","...","…………","","…………","..."
+3,4014,"","It would be best to come back tomorrow.","今天就先回去會比較好喔。","","오늘은 이만 돌아가는게 좋겠어","Es wäre wohl am besten, morgen wiederzukommen."
+4,4014,"","I'm sorry.
+We don't know much about her condition yet.","對不起，目前還沒辦法說她的狀態到底如何。","","미안해. 병세는 아직 뭐라고 할 수 없어","Es tut mir leid.
+Wir wissen noch nicht viel über ihren Zustand."
+5,4014,"","Although I heard it was caused when her link to
+the server was broken by a shutdown.","原因雖然是因為關閉伺服器的影響，
+切斷了和伺服器的連接……","","셧다운의 영향으로 서버와의 링크가 끊어진 것이
+원인이라고 하지만……","Wobei ich gehört habe, die Ursache wäre gewesen,
+dass ihre Verbindung zum Server durch ein
+Herunterfahren unterbrochen wurde."
+6,4014,"","Erika's treatment is special. We have to be
+meticulous, and it will take time. We're doing
+everything we can for her.","但是艾莉卡的治療是很特殊的，沒辦法輕率行動。
+治療也會花很多時間，之後就交給我們吧。","","에리카의 치료는 특별하니까 서툰 짓은 할 수 없어.
+처치에도 시간이 걸린다는 모양이니 뒷일은 우리에게 맡겨줘","Erikas Behandlung ist speziell. Wir müssen äußerst
+gründlich arbeiten, und es wird eine Weile dauern.
+Wir tun für sie, was wir können."
+7,1392,"","I doubt there's anything we can do.
+It's times like these when I wish Ryuji was here.","我們什麼忙都幫不上嗎……
+在我們這樣的時候……龍司他也……","","우리가 할 수 있는 일은 아무것도 없는 걸까
+이러고 있는 동안에도…류지는……","Ich bezweifle, dass wir helfen können.
+In solchen Momenten wünschte ich, Ryuji wäre hier."
+8,2020,"","...","…………","","…………","..."
+9,7140,"","Ah, you're here too?","哎呀哎呀，你們也來了啊。","","야아야아, 당신들도 와 있었습니까","Ah, Sie sind auch hier?"
+10,2020,"","?!","！？","","!?","?!"
+11,1392,"","Suedou?!
+What are you doing here?","末堂明實！？
+你怎麼會在這……？","","스에도 아케미!?
+어째서 여기에…?","Suedou?!
+Was tun Sie hier?"
+12,3009,"","Actually, I'm the one who developed the basic
+theory behind her treatment.","沒什麼，畢竟想出她的治療基礎理論的人
+就是我啊。","","아뇨, 뭘 감출까요, 그녀가 받는 치료의 기초이론을
+생각한 건 접니다.","Nun ja, ich habe die Theorie entwickelt, welche
+die Grundlage für ihre Behandlung ist."
+13,2020,"","?!","！？！？","","!?!?","?!"
+14,1392,"","You developed her treatment?!","艾莉卡的治療方法……是你！？","","에리카의 치료 방법을… 당신이!?","Sie haben ihre Behandlung entwickelt?"
+15,3009,"","That's right. Well, I just came up with the basic
+theory. I'm not involved in her actual treatment.","對，是我。
+話雖如此，但我只有建構出基本理論，
+沒有參與到治療……","","예에, 그렇습니다.
+뭐 기초적인 이론을 구축했을 뿐, 치료에는 관여하지 않았지만…","Ganz recht. Also, die grundlegende Theorie dazu
+stammt von mir. Mit ihrer Behandlung an sich
+habe ich nichts zu tun."
+16,3009,"","I heard that there had been an unusual accident.
+The doctor in charge called me to take a look.","我是聽說發生了特殊的意外，
+才被主治醫生給叫來了喔。","","변칙적인 사고가 발생했다, 고 듣고
+담당 의사가 불러서 이렇게 온 겁니다","Ich hatte gehört, es habe einen ungewöhnlichen
+Unfall gegeben. Der zuständige Arzt bat mich,
+einen Blick auf den Fall zu werfen."
+17,1392,"","So you know how to restore her memory?!","那麼，你知道讓艾莉卡的記憶恢復的方法嗎！？","","그렇다면 에리카의 기억을 원래대로 되돌릴 방법도 알아!?","Also wissen Sie, wie ihr Gedächtnis
+wiederhergestellt werden kann?!"
+18,1392,"","It looks like the link was broken when the memory
+server was shut down.","好像是我太亂來，關閉了記憶伺服器的錯，
+才中斷了連線……！","","억지로 기억 서버를 종료한 탓에
+링크가 끊어져버린 모양이야…!","Wie es aussieht, wurde die Verbindung beim
+Herunterfahren ihres Erinnerungsservers
+unterbrochen."
+19,3009,"","Hmm... Tell me everything.","嗯……能告訴我詳細情況嗎？","","흠……자세하게 들려주시겠습니까?","Hm ... Erzähl mir alles."
+20,3009,"","Hmph... So that's how it happened?!","呵、呵呵呵……哎呀哎呀，原來是這樣啊！","","쿠후, 쿠후후… 아니아니 그랬습니까!","Hmpf ... So ist das also passiert?!"
+21,3009,"","She deciphered my paper and gained direct access
+to the Mother Eater!","解讀了我的論文，直接登入侵食者母體……！","","제 논문을 해독해서 마더 이터에게 직접 액세스를…!","Sie hat meine Arbeit entziffert und sich direkten
+Zugriff auf die Verschlinger-Procreatrix
+verschafft!"
+22,3009,"","Fascinating! I never cease to be amazed by the
+creativity of youth!","這真是有趣！
+年輕人的感性真是美好啊！","","이건 재미있군요!
+역시 젊은이의 감성은 굉장합니다!","Faszinierend! Die Kreativität der Jugend verblüfft
+mich stets aufs Neue!"
+23,3009,"","Although the conditions make it difficult, it's an
+effective way of accessing the Mother Eater.","雖說條件太過特殊相當困難，
+但登入侵食者母體真是非常快速有效的手段啊！","","조건이 너무 특수해서 어려움은 있습니다만
+마더 이터에 접속하는덴 매우 즉효성 있는 수단입니다!","Trotz der erschwerenden Bedingungen ist es eine
+effektive Methode, auf die Verschlinger-
+Procreatrix zuzugreifen."
+24,3009,"","But it seems that she underestimated the Eaters.
+And this is the result.","但是……好像太過小看侵食者了啊，
+才會有這樣的結果。","","하지만… 이터를 너무 만만하게 보셨나 보군요.
+그 결과가 이것입니다","Aber wie es aussieht, hat sie die Verschlinger
+unterschätzt. Und das ist das Ergebnis."
+25,3009,"","To gain a fundamental understanding of Eaters,
+you need to change your perspective.","要從根本掌握侵食者的話，
+得再換個視點才能對應啊。","","이터를 근본적으로 장악하려면
+좀 더 시각을 바꾸어 대응하지 않으면 안 됩니다","Um die Verschlinger grundsätzlich zu verstehen,
+muss man seinen Blickwinkel ändern."
+26,3009,"","For example, by imagining you are an Eater.","例如說，變成侵食者本身、或者是一部分──","","예를 들면 이터 그 자체나 그 일부가 된다던가――","Zum Beispiel, indem man sich in einen Verschlinger
+hineinversetzt."
+27,3009,"","Yes, that's an excellent approach, even if I do
+say so myself. I must look into it.","喔、哦喔……？　我也真是想出了好點子啊！
+就來徹底探討這辦法吧。","","야, 야야야…? 제 생각이지만 이건 좋은 생각이군요!
+진지하게 검토해보도록 하죠","Ja, das ist ein ausgezeichneter Ansatz, wenn ich
+mich selbst loben darf. Dem muss ich nachgehen."
+28,1392,"","Never mind all that!
+Can Erika get her memory back?","那種事情隨便啦！
+你能恢復艾莉卡的記憶嗎？　恢復得了嗎！？","","그런 건 아무래도 좋아!
+에리카의 기억을 원래대로 돌릴 수 있어? 없어!?","Das spielt doch keine Rolle!
+Kann Erika ihr Gedächtnis zurückerhalten?"
+29,3009,"","Of course it's possible.
+She has a backup device in her memory server.","啊，當然可以。
+她的記憶伺服器，具有備份裝置。","","아, 물론 가능합니다.
+그녀의 기억 서버에는 백업 장치가 준비되어 있습니다","Natürlich ist das möglich. Sie hat ja ein
+Sicherungsgerät in ihrem Erinnerungsserver."
+30,3009,"","Even if the link is broken, that device saves all
+her memories until just before the shutdown.","就算連線中斷，也能用那裝置
+保護切斷前的記憶。","","비록 링크가 끊어지더라도 그 장치를 통해
+셧다운 직전까지의 기억은 보호되고 있을 겁니다","Sogar bei einem Verbindungsabbruch speichert
+das Gerät all ihre Erinnerungen bis direkt vor
+dem Herunterfahren."
+31,3009,"","The server contains a program that reestablishes
+the link when the server is booted. If you can
+activate it, her memories will be restored.","裝置也有在啟動時重新連線的程式，
+只要能啟動裝置，就能恢復小姐的記憶了。","","기동시에 링크를 다시 연결하는 프로그램도 탑재되어 있으니
+그걸 기동하기만 하면 에리카 씨의 기억은 원래대로 돌아오겠죠","Der Server enthält Software, welche die Verbindung
+beim Hochfahren wiederherstellt. Könnt ihr sie
+aktivieren, erhält sie ihre Erinnerungen zurück."
+32,2020,"","...!","……！","","……!","...!"
+33,3009,"","But it won't be easy.","但是，這不是馬上就能辦到的事情。","","하지만 곧바로 가능하다고는 할 수 없습니다","Es wird aber nicht einfach."
+34,3009,"","To access the server externally, you'll need a
+team of highly skilled engineers.","從外部登入伺服器，
+必須集結專門的技術人員慎重行事才行。","","외부 서버에 액세스하려면 전문 기술자를 모아
+신중하게 일을 진행하지 않으면 안 되니까요","Um von außen auf den Server zuzugreifen, werdet
+ihr ein Team hoch kompetenter Techniker brauchen."
+35,1392,"","Then we have to help Ryuji as soon as possible.","怎麼會……我們必須盡快去幫助龍司才行啊……","","그런…… 우리들은 한시라도 빨리 류지를
+구하러 가지 않으면 안 되는데…","Dann müssen wir Ryuji sobald wie möglich helfen."
+36,3009,"","In that case, there is another way.","……這樣的話，還有別的方法。","","……그렇다면 다른 방법도 있습니다","In diesem Fall gibt es einen weiteren Weg."
+37,3009,"","You can infiltrate the sever directly from EDEN
+and activate the backup.","你們就直接從EDEN侵入伺服器，
+啟動備份裝置吧。","","당신들이 EDEN에 직접 서버로
+침입해서 백업을 기동하면 됩니다","Ihr könnt den Server direkt von EDEN aus
+infiltrieren und die Sicherung aktivieren."
+38,1392,"","Directly?!","直接……！？","","직접…!?","Direkt?!"
+39,3009,"","Usually, as the owner, only Erika is allowed to
+access the memory server.
+However, you're a Wormmon, aren't you?","基本上，記憶伺服器是不允許
+擁有者以外的人入侵的。
+……但是，你是蟲蟲獸對吧？","","기본적으로는 기억 서버엔 소유자인 에리카 씨 외엔 
+침입이 허용되지 않습니다
+……만 당신, 추추몬 씨였던가요? ","Normalerweise hat nur Erika als Besitzerin die
+Zugriffsrechte auf den Erinnerungsserver.
+Aber du bist doch ein Wormmon, nicht wahr?"
+40,3009,"","I assume you and Erika share memories.
+What's more, your memories were unaffected
+when the memory server was shut down.","你好像跟艾莉卡共享記憶呢。
+而且，就算關閉了記憶伺服器，
+你的記憶也沒有任何損傷……","","에리카 씨와 기억을 공유한다는 모양이더군요.
+게다가 기억 서버가 셧다운 된 후에도
+당신의 기억에는 손상이 없다…","Ich gehe davon aus, dass du und Erika Erinnerungen
+teilt. Außerdem wurden deine Erinnerungen beim
+Herunterfahren des Servers nicht beeinträchtigt."
+41,3009,"","Essentially you are like another backup for
+Erika's memory.","所以，你應該成為了
+艾莉卡小姐記憶的“另一份備份”的功能吧。","","그렇다는 것은 당신은 에리카 씨의 기억에서
+""또 하나의 백업""과 같은 역할을 수행하고 있다는 뜻이겠죠","Im Grunde bist du wie eine zusätzliche Sicherung
+von Erikas Erinnerungen."
+42,1392,"","I'm a backup for Erika's memory?","我是……艾莉卡記憶的備份？","","내가… 에리카의 기억의 백업?","Ich bin eine Sicherung von Erikas Erinnerungen?"
+43,3009,"","You might be able to access the server as if you
+were her.","只要有你在的話，應該就能跟本人一樣
+登入伺服器了吧。","","당신이 있다면 아마도 본인과 마찬가지로 서버에
+액세스할 수 있겠죠","Du kannst eventuell auf den Server zugreifen,
+als wärst du sie."
+44,3009,"","I see no reason why that shouldn't be the case.","我想記憶是不會拒絕相同的記憶的。","","기억이 같은 기억을 거부하진 않을 테니까요","Ich wüsste nichts, was dagegenspricht."
+45,1392,"","So if we can get into the server and activate the
+backup memory, Erika will wake up!","那麼……只要我們去入侵伺服器，
+啟動備份記憶的話，
+就能喚醒艾莉卡對吧！","","그럼… 우리가 서버에 침입해서 백업 기억을 기동하면
+에리카는 눈을 뜨는 거네!","Wenn wir also in den Server gelangen und die
+gesicherten Erinnerungen aktivieren können,
+wird Erika aufwachen!"
+46,3009,"","Correct, but of course the server is equipped with
+security measures to prevent intruders.","是的，但是伺服器內，當然有
+對付侵入者用的防範措施。","","예에, 하지만 서버 내에는 당연히 침입자 대책용
+보안도 포함되어 있습니다","Korrekt, aber natürlich wurde der Server mit
+Sicherheitsmaßnahmen ausgestattet,
+um Eindringlinge abzuwehren."
+47,3009,"","There's no guarantee you'll make it back.","能夠縮短多少時間……就要看你們了。","","얼마나 시간을 단축할 수 있을지는… 
+당신들 하기 나름이지요","Es gibt keine Garantie dafür, dass ihr es
+zurückschaffen werdet."
+48,1392,"","Even so, we have to try!
+You'll come, won't you?","就算這樣，我們也得上！
+……你會跟我一起行動對吧？","","그래도 해야만 해!
+저기……같이 가 줄거지?","Und wenn schon, wir müssen es trotzdem versuchen!
+Du kommst doch mit, oder?"
+49,2020,"","!","！！","","!!","!"
+50,3009,"","Then please take my paper on memory servers.
+Read it before you try to gain access.","那麼，我就把記憶伺服器的基礎論文給你們吧，
+要侵入的話，就好好看這份資料。","","그럼, 기억 서버의 기초 논문을 당신들에게 드리죠.
+안으로 침입하겠다면 읽어두는 편이 좋을 겁니다","Dann nehmt bitte meine Arbeit über
+Erinnerungsserver. Lest sie, bevor ihr
+versucht, Zugriff zu erlangen."
+51,1392,"","Thank you. You've done so much for Erika.","……謝謝你，你真是艾莉卡的恩人呢。","","…고마워. 당신은 에리카의 은인이었구나","Danke. Sie haben so viel für Erika getan."
+52,3009,"","It's nothing, really. My papers do nothing more
+than illustrate the underlying theory.","不不不……沒有那麼了不起。
+我寫的論文，只能算是處置方法罷了。","","아뇨아뇨… 그렇게 대단한 건 아닙니다.
+제가 쓴 논문은 어디까지나 임시 대책에 지나지 않습니다","Nicht der Rede wert. Meine Arbeiten leisten
+nichts als eine Veranschaulichung der zugrunde
+liegenden Theorie."
+53,3009,"","Unfortunately the cure for her disease is nowhere
+to be found in this world.","能根治她的病情的方法……
+很遺憾，不存在於這世界。","","그녀의 병을 완치하는 방법은……아쉽지만 이
+세계의 어디를 찾아본다 해도 발견하는 건 불가능합니다","Leider ist das Heilmittel gegen ihre Krankheit
+nirgends in dieser Welt zu finden."
+54,2020,"","...","…………","","…………","..."
+55,3009,"","If you want my personal opinion, I don't think you
+should restore her memory.","真要說的話，我個人
+反對恢復她的記憶。","","……제 개인의 의견을 말씀드리자면
+그녀의 기억을 원래대로 돌리는 것은 반대입니다","Wenn ihr meine persönliche Meinung hören wollt:
+Ich glaube nicht, dass ihr ihre Erinnerungen
+wiederherstellen solltet."
+56,2020,"","...?!","……！？","","……!?","...?!"
+57,1392,"","Why?","怎麼說……？","","무슨 뜻이야…?","Warum nicht?"
+58,3009,"","Heh... This is...fate.
+Let me explain.","呵呵呵……這也算是種緣份，
+那就告訴你們吧。","","쿠후후… 이것도 무언가의 인연입니다.
+당신들에게는 말씀드려 두도록 하죠","Hehe ... Es ist ... Schicksal.
+Lass es mich dir erklären."
+59,3009,"","This world is about to change, drastically.","這世界……馬上就要改變了，所有的一切都會改變。","","이 세계는……곧 바뀝니다. 모든 것이","Die Welt steht vor einem drastischen Wandel."
+60,2020,"","...?","…………？","","…………?","...?"
+61,3009,"","The strange phenomenon affecting this world stems
+from a disaster in the Digital World.","襲擊這世界的奇怪現象，起因是在
+與我們世界相鄰的其他世界，數碼世界裡。","","이 세계를 휩쓸고 있는 괴현상은 우리들의 세계와 인접한
+다른 세계, 디지털 월드의 이변에서 비롯되어 일어난 것입니다","Das seltsame Phänomen, das in dieser Welt
+auftritt, ist das Resultat einer Katastrophe
+in der Digitalen Welt."
+62,3009,"","It has caused a major Digital Shift in the world,
+making it possible to artificially overwrite it.","但也因為這樣，世界發生了大規模的Digital Shift，
+使得世界能夠以人為來進行改寫。","","그러나 그 덕분에 세계에 대규모 디지털 시프트를 일으켜
+인위적인 수정이 가능해졌습니다","Sie hat eine große digitale Verschiebung in der
+Welt nach sich gezogen, wodurch diese künstlich
+überschrieben werden kann."
+63,3009,"","Even if you do nothing, sadness will soon vanish,
+completely. I will remake the world.","你們就算什麼都不做，
+這世界也會馬上就沒有悲傷了……
+我，會將世界重新改寫。","","당신들이 아무것도 하지 않아도 곧 세계에서 슬픔이 사라진다…
+제가 세계를 그렇게 바꾸는 겁니다","Selbst, wenn ihr nichts tut, wird sämtliche Trauer
+bald verschwunden sein. Ich werde die Welt
+neu gestalten."
+64,3009,"","Once I have done so, all sadness will be gone, or,
+more accurately, the concept will no longer exist.","如此一來，世上的所有悲傷將會消失──
+不對，悲傷的概念將消失不復存在！","","그러면 이 세계의 모든 슬픔이 사라지고――
+아니, 개념적으로 존재하지 않게 된다!","Sobald ich das getan habe, wird sämtliche Trauer
+gewichen sein, oder um genauer zu sein:
+Das Konzept wird nicht mehr existieren."
+65,3009,"","The sadness that afflicts Erika Mishima will also
+disappear.","御島艾莉卡的悲傷與痛苦，也將一同消滅。","","미시마 에리카 씨를 괴롭히던 슬픔도 저절로 소멸하겠죠","Auch die Traurigkeit, an der Erika Mishima leidet,
+wird verschwinden."
+66,2020,"","???","？？？","","???","???"
+67,3009,"","Hehehe... I don't expect you to understand.","呵呵呵……無法理解也是沒辦法的。","","쿠후후… 뭐, 이해하지 못하는 것도 무리는 아닙니다","Hehehe ... Ich erwarte nicht von euch, dass ihr
+es versteht."
+68,3009,"","Even I'm not exactly sure what will happen once
+the world has been overwritten.","改寫世界究竟會帶來什麼樣的結果……
+我也無法確定。","","세계를 다시 쓴 결과 어떤 작용이 일어날지……
+저도 확실한 것은 모르니까요","Nicht einmal ich weiß nicht genau, was passieren
+wird, nachdem die Welt überschrieben wurde."
+69,3009,"","Put simply, once my plan succeeds, everything
+you've done...","但簡單說的話，就是只要我的計畫成功，
+你們所作的一切──","","간단하게 말하자면, 제 계획이 성공하면
+당신들이 해온 일――","Einfach ausgedrückt: Wenn mein Plan gelingt,
+wird alles, was ihr bis dahin getan habt ..."
+70,3009,"","...and everything you will do could become
+completely meaningless.","以及你們之後要去做的，都可能變成徒勞吧。","","잎으로 하게 될 일이 모두 무의미하게 될 지도
+모른다, 는 말입니다","... und alles, was ihr danach tut,
+jegliche Bedeutung verlieren."
+71,2020,"","...?!","……！？","","……!?","...?!"
+72,3009,"","That time has nearly come.","那時刻，馬上就要到了。","","그 때는 이제 곧 옵니다","Diese Zeit ist fast gekommen."
+73,3009,"","If the world's about to change, what's the point
+of returning such painful memories to her?","世界本身就要改變的話，再讓她
+取回難受的記憶，又有什麼意義呢？","","세계 자체가 바뀐다면 그녀에게 괴로운 기억을
+다시 심어주는 것이 무슨 의미가 있을까요","Wenn die Welt sich bald verändern wird,
+wozu sollte man ihr dann so schmerzliche
+Erinnerungen zurückgeben?"
+74,3009,"","Just let her sleep in peace.
+She's forgotten all the sadness.","就讓她安穩的睡下去吧，
+現在這樣的話，她就能夠忘記悲傷……","","이대로 잠들게 놔두세요.
+지금 이대로라면 그녀는 슬픔을 잊을 수 있습니다……","Lasst sie in Frieden schlafen.
+Sie hat all ihre Trauer vergessen."
+75,1392,"","...","…………","","…………","..."
+76,3009,"","So? Do you still intend to wake her?","……你要怎麼做呢？
+聽了這些後，你還是要讓她醒來嗎？","","……어떻습니까?
+제 이야기를 듣고도 아직 그녀를 깨우고 싶습니까?","Also – habt ihr immer noch vor, sie aufzuwecken?"
+77,2020,"","...","…………","","…………","..."
+78,2020,"","Maybe Erika would be happier this way.
+Erika wouldn't want that!","這樣睡下去說不定比較幸福……
+艾莉卡才不希望這樣！","","에리카는 이대로 잠든 채 놔두는 편이 행복할지도 몰라…
+그런 걸 에리카가 원할 리 없어!","Vielleicht wäre Erika so glücklicher.
+Erika würde das nicht wollen!"
+79,1392,"","I don't think so.","……我不這麼想。","","……나는 그렇게 생각하지 않아","Ich glaube nicht."
+80,2020,"","...!","……！","","……!","...!"
+81,1392,"","That's what I think!","……我也是這麼想的！","","……나도 그렇게 생각해!","Ganz meine Meinung!"
+82,1392,"","Erika's memories are still inside me.
+I can hear her voice.","在我體內，留有艾莉卡的記憶……
+我聽得到她的聲音。","","내 안에는 에리카의 기억이 남아 있어…
+그 에리카의 목소리가 들리는걸","Erikas Erinnerungen sind noch in mir.
+Ich kann ihre Stimme hören."
+83,1392,"","I won't leave her like this.
+I want to return Hudie to Ryuji.","她不想這樣睡下去……
+她要親手把hudie還給龍司。","","이대로 잠들고 싶지 않아…
+자신의 손으로 류지에게 후디에를 돌려주고 싶다고","Ich werde sie nicht diesem Zustand überlassen.
+Ich will Ryuji Hudie zurückgeben."
+84,1392,"","Even if it's all for nothing, I still want to do
+everything I can.","就算現在做的一切都會失去意義……
+但在那之前，我要去做自己能做得到的事。","","설령 지금까지 한 일이 모두 허사가 되더라도
+……그 때까지는 할 수 있는 것을 하고 싶어","Selbst, wenn alles zwecklos wäre, will ich doch
+alles tun, was ich kann."
+85,1392,"","That's what Erika would say!","艾莉卡，她一定會這麼說！","","에리카는 분명 그렇게 말할 거야!","Das ist, was Erika sagen würde!"
+86,2020,"","...!","……！！","","……!!","...!"
+87,3009,"","I see.
+And are you of the same opinion?","……這樣啊，
+你也跟她同樣意見嗎？","","……그렇습니까.
+당신도 그녀와 같은 의견입니까?","Ich verstehe. Und teilst du diese Meinung?"
+88,2020,"","...","…………","","…………","..."
+89,3009,"","Hehehe... There's no denying the strength of the
+human ego. It's what drives me, after all.","呵呵呵……非常好。我並不否認人類的自私。
+畢竟，我的所作所為，也是……自私啊。","","쿠후후……좋습니다. 저는 사람의 에고를 부정하지 않아요.
+왜냐하면 제 행위 그 자체가 에고… 니까요","Hehehe ... Die Stärke des menschlichen Egos ist
+nicht zu leugnen. Sie ist immerhin mein Antrieb."
+90,3009,"","If you've made up your mind, I wish you luck.
+Here's the server URL.","……既然有這種決心，那你們就去吧，
+我給你們伺服器的URL。","","……그만한 각오가 있다면 가십시오.
+서버의 URL을 전송해 드리죠","Wenn ihr euch entschieden habt, so wünsche ich
+euch Glück. Hier ist die URL des Servers."
+91,3009,"","She's in your hands now.","她就交給你們了。","","에리카 씨에 대해선 당신에게 맡기도록 하죠","Erikas Wohl ist jetzt in euren Händen."
+92,3009,"","Why run when they know its all pointless?
+Some things, I will never understand.","就算明白一切都將化為徒勞……
+依然要奮力向前嗎？
+……真的是，難以理解呢。","","모든 것이 허사가 되리라는 것을 알면서도……달려나갑니까
+……도저히 이해하기 어렵습니다","Wozu sich verausgaben, wenn alles zwecklos ist?
+Es gibt Dinge, die ich nie begreifen werde."
+93,3009,"","Or perhaps it's just human nature.","但是，那才是人類應有的姿態──
+說不定是這樣子呢。","","하지만 그것 또한 사람의 마땅한 모습――
+그런 것일지도 모르겠군요","Oder vielleicht ist es nur die menschliche Natur."
+94,3009,"","...","…………","","…………","..."
+95,3009,"","Now it's time for me to go.
+It's time to make my wish come true. Hehehe...","……那麼，我也出發吧。
+為了實現我的願望……呵呵、呵呵呵……","","……그러면 저도 가보도록 하죠.
+저의 소원을 이루기 위해……쿠후, 쿠후후","Jetzt wird es Zeit, dass ich gehe.
+Es wird Zeit, meinen Traum wahr werden zu lassen.
+Hehehe ..."

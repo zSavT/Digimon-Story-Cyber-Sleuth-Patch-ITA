@@ -1,0 +1,12 @@
+ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
+1,5004,"","Enter the password.","請輸入密碼。","","패스워드를 입력해주세요","Gib das Passwort ein."
+3,2020,"","(It doesn't look like I can go any further without
+the password. What now?)","（後面得有密碼才能進入，
+　該怎麼辦呢……）","","(여기서부턴 패스워드가 없으면 진행할 수 없는 것 같다…
+ 어떻게 할까)","(Ohne das Passwort komme ich wohl nicht weiter.
+Und jetzt?)"
+2,2020,"","I'll use a brute-force attack.
+I'll take a guess.","靠推算來突破
+總之隨便輸入看看","","무차별 대입으로 돌파한다
+우선 적당히 입력한다","Ich versuche einen Brute-Force-Angriff.
+Ich versuche es mit Raten."

@@ -1,0 +1,125 @@
+ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
+1,3045,"","How are things in EDEN, Wormmon?","蟲蟲獸，EDEN的狀況怎麼樣了？","","EDEN의 상태는 어때? 추추몬","Wie sieht es in EDEN aus, Wormmon?"
+2,1392,"","Recovering.","目前正在復原喔。","","복구됐어","Es wird langsam besser."
+3,1392,"","After the big fight in Under Zero, they did some
+emergency maintenance.","在Under Zero的混亂後，
+進行了一次緊急維修的樣子。","","언더 제로에서의 소동 이후 한번
+긴급 점검에 들어갔던 모양이네","Nach dem großen Kampf in Unter Null haben sie
+eine Notwartung durchgeführt."
+4,1392,"","They're still making adjustments in the
+background. Thanks to Chitose's malware, we've got
+quick access to info.","現在也一直在幕後進行調整。
+……多虧了千歲的惡性軟體，情報收集得很迅速。","","지금도 백그라운드에서 조사가 이어지고 있어.
+…치토세의 악성코드 덕분에 바로 정보 수집이 가능해","Im Hintergrund passen sie immer noch Dinge an.
+Dank Chitoses Malware kommen wir schnell an
+Infos ran."
+5,2020,"","...","…………","","…………","..."
+6,3045,"","The security on the Avalon Server might be a bit
+slack while they're doing the recovery work.","現在都忙著進行復原工作，那阿瓦隆伺服器
+那邊的保全應該也變薄弱了吧。","","복구 작업에 쫓기고 있는 지금이라면 아발론 서버의
+보안도 허술해졌을지도","Während sie alles reparieren, ist der
+Avalon-Server vielleicht nicht so gut gesichert."
+7,3045,"","Let's break in there quick.","立刻去入侵吧。","","바로 침입하자","Lasst uns schnell dort einbrechen."
+8,2020,"","?","？？","","??","?"
+9,3045,"","What do we do after we break in?
+It's obvious, isn't it?","你問為什麼要入侵那邊？
+那不是很明顯嗎？","","침입해서 어쩔거냐고?
+그거야 정해져 있지","Was wir danach tun?
+Na, ist doch logisch, oder?"
+10,3045,"","We get proof of Kishibe's connection with the
+cops.","我要取得能把岸部移送法辦的決定性證據。","","키시베를 경찰에 찌를 결정적인 증거를 입수할 거야","Wir holen uns Beweise zu Kishibes Beziehungen zur
+Polizei."
+11,3045,"","The data Ryuji erased on the Cyber Crimes
+Investigation Unit Server, about Kamishiro's dirty
+dealings.","就是電腦犯罪搜查課伺服器內，
+被哥哥刪除的資料……
+神代企業不法勾當的那份證據。","","전뇌범죄수사과 서버에서 오빠가 지운 데이터……
+카미시로의 부정한 거래의 증거를 말이지","Die Daten, die Ryuji vom Server der
+Ermittlungseinheit für Cyberkriminalität gelöscht
+hat. Über Kamishiros schmutzige Geschäfte."
+12,1392,"","But you just said Ryuji erased it...?","但是，那不是被龍司刪掉了嗎……？","","하지만 그건 류지가 지워버렸던 게…?","Aber wenn Ryuji sie doch gelöscht hat ...?"
+13,3045,"","Knowing Kishibe and how she loves to blackmail,
+I'm sure she's got a copy of the data stashed away
+somewhere.","岸部那種角色，絕對不會輕易放棄
+能當成把柄的資料。
+她一定在某處偷偷藏著備份。","","키시베 같은 무리는 남을 위협할 데이터를 절대 손에서 놓지 않아.
+분명 어딘가로 복사해서 숨겨두고 있을 거야","So gern, wie unsere liebe Kishibe Leute erpresst,
+hat sie doch ganz bestimmt irgendwo eine Kopie."
+14,3045,"","There's a top-secret area deep inside Kamishiro's
+main server, the Avalon Server, that only the CEO
+can access.","在神代企業的主伺服器“阿瓦隆伺服器”的深處，
+好像有個只有CEO才能進入的最高機密區域。","","카미시로의 메인 서버, ""아발론 서버"" 안쪽에는
+CEO만이 들어갈 수 있는 최고 기밀 에어리어가 있다고 해","Es gibt einen streng geheimen Bereich im Inneren
+von Kamishiros Hauptserver, dem Avalon-Server.
+Da hat nur die Geschäftsleitung Zugang."
+15,3045,"","They call it the Hidden Room.
+If it's anywhere, it's there.","通稱“祕密房間”──證據一定就在那裡。","","통칭 ""비밀의 방"" ――거기라면 틀림없이 있어","Sie nennen ihn den versteckten Raum. Wenn
+überhaupt, finden wir sie dort."
+16,3045,"","Even if the data we want doesn't exist, by
+exposing the network they use to launder data,
+we can take down Kishibe for sure.","就算沒有我們要找的檔案，
+只要把那裡的檔案通通都丟到網路上，
+也夠搞倒岸部了。","","설령 목적한 데이터가 없더라도
+그곳의 데이터를 깡그리 인터넷에 뿌려버리면
+키시베를 쫓아버릴 수 있어","Auch wenn es diese Daten nicht gibt, können wir
+Kishibe erledigen, indem wir das Netzwerk
+aufdecken, mit dem sie Datenwäsche betreibt."
+17,3045,"","There must be plenty of dirt on her in there.
+Heh heh... She's going to provide the rope to hang
+herself.","反正岸部做的壞事肯定不只一件。
+哼哼哼……就讓她為自己做的壞事付出代價吧。","","키시베의 악행이 하나 뿐일거라고 생각되진 않으니까.
+후후… 자신의 악행이 자신의 목을 조르게 되는거지","Dort finden wir bestimmt jede Menge Belastendes
+über sie. So schaufelt sie sich dann ihr eigenes
+Grab."
+18,2020,"","...","…………","","…………","..."
+19,1392,"","Yikes...scary!
+I've never seen you this angry before...","好、好可怕……
+我第一次看到艾莉卡這麼生氣……","","히, 히에에에……
+저렇게 화내는 에리카는 처음 봤어…","Huch, da kriegt man ja Angst!
+So wütend habe ich dich noch nie gesehen ..."
+20,3045,"","...You're right.
+I've never been this angry.","……說不定喔。
+這一定是第一次，我會這麼生氣。","","……그러네.
+이렇게 화난 건 분명 처음이야","... Da hast du recht.
+So wütend war ich auch noch nie."
+21,3045,"","...Guess I'm weird, huh.","……我這樣很奇怪嗎？","","……나 이상한걸까","... Ich bin wohl ein bisschen komisch, hm."
+22,2020,"","You're so scary that I believe in you!
+The Demon Queen Erika has arrived!
+Please try to control your anger!","太可怕了，反而很可靠喔！
+大魔神大人駕到！！！
+拜託您不要拿小的出氣！","","너무 무서워서 오히려 믿음직스러워!
+대마신 에리카 님 강림!!!
+화풀이만은 참아주세요!","Du machst mir zwar Angst, aber auch Mut!
+Dämonenkönigin Erika ist da!
+Bitte lass deinen Zorn nicht mit dir durchgehen!"
+23,3045,"","...Keep messing around and it's Memetan for you.","……你太得意忘形的話，我就再來一次“小梅梅”喔。","","…너무 까불면 또 ""메메땅""이야","... Hör auf herumzualbern, sonst zeigt Memetan
+es dir!"
+24,2020,"","!!!","！！！","","!!!","!!!"
+25,3045,"","Hee hee, I'm joking.","……呵呵，開玩笑的。","","……후후, 농담이야","Hihi, war nur Spaß."
+26,3045,"","So...can I count on you?","那個……我可以信賴你嗎？","","저기……의지해도 괜찮겠지?","Also ... kann ich auf dich zählen?"
+27,1392,"","Erika, you can count on me too!","艾莉卡，我當然也會來幫忙的喔！","","에리카, 물론 나도 도와줄게!","Erika, du kannst auch auf mich zählen!"
+28,3045,"","You're my Digimon, so that goes without saying.","你是我的數碼寶貝，這是當然的吧。","","너는 내 디지몬이니까 당연하잖아","Du bist mein Digimon, das versteht sich also von
+selbst."
+29,1392,"","Huh?! You don't feel grateful to me?","咦──！？　就不用感謝我嗎？","","에엑!? 나한테는 안 고마워하는 거야?","Wie?! Du bist mir nicht dankbar?"
+30,3045,"","Hee hee...I wonder?
+Why don't you search our memory and see?","呵呵……你說呢？　要去看看我的記憶嗎？","","후후… 글쎄? 기억을 찾아보던가?","Hihi ... Bin ich das nicht?
+Durchforste doch unser Gedächtnis und schau nach."
+31,3045,"","We can't afford any mishaps with security
+restrictions. I'm going with you this time.","……這次可不能被通訊限制擋下腳步了，
+我也會一起去。","","…통신 제한에 발목 잡혀있을 여유는 없어.
+이번엔 나도 같이 갈 거야","Wir können uns keine Fehler bei der Sicherheit
+leisten. Dieses Mal komme ich mit dir mit."
+32,3045,"","The malware you put in before will be the back
+door. Hack in through here.","之前你放的惡性軟體能拿來當後門，
+就從這來入侵。","","이전에 네가 설치했던 악성코드가 뒷문(백도어)가 될 거야.
+여기서부터 침입해줘","Deine Malware von vorher wird uns als Hintertür
+dienen. Hack dich da rein."
+33,3045,"","Rie Kishibe... You'll pay for what you've done.","岸部里繪……為妳目前做過的事情付出代價吧。","","키시베 리에… 지금까지 저질러온 짓에 대해 책임져줘야겠어","Rie Kishibe ... du wirst dafür bezahlen, was du
+getan hast."
+34,1392,"","Good old fashioned payback, eh Erika!","就是所謂的算清總帳吧！　艾莉卡！","","빚을 받아내겠다는 얘기였지! 에리카!","Rache auf die klassische Art ist doch etwas
+Schönes, nicht wahr, Erika?"
+35,3045,"","Exactly.
+You all ready? ...Start the hack!","就是那樣。
+準備好了嗎？　……開始入侵了喔。","","그런 거지.
+준비됐어? ……해킹 개시야","So ist es.
+Seid ihr alle bereit? Fang an zu hacken!"

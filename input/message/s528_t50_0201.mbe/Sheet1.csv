@@ -1,0 +1,120 @@
+ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
+1,2020,"","(It's a case from an Inoden High School student!
+I don't recognize the name, but she must know me.
+What should I do?)","（是井之電的學生的委託……！
+　雖然是沒見過的名字，但對方說不定知道
+　我是誰…… 該怎麼辦才好……）","","(이노덴 학생의 의뢰다…!
+ 모르는 이름이지만 저쪽은 나를
+ 알고 있을지도 몰라… 어쩌지…)","(Ein Fall von einer Schülerin an der Inoden High
+School! Der Name sagt mir nichts, aber die kennt
+mich bestimmt. Was soll ich machen?)"
+3,3047,"","What's the matter with you? You look like you've
+seen a ghost.","哦，怎麼啦？　一臉鐵青。","","오, 왜 그래? 얼굴이 새파래져선","Was ist denn mit dir los? Du siehst ja aus, als
+hättest du ein Gespenst gesehen."
+4,3047,"","You accidentally took a case from an Inoden High
+School student?","不小心接受了井之電學生的委託？","","이노덴 학생의 의뢰를 실수로 받아버렸다고?","Du hast aus Versehen einen Fall von einer
+Schülerin der Inoden High School angenommen?"
+5,3047,"","I see. The school think's you're some kind of
+malicious hacker. I understand how it might be
+difficult to meet with the client.","啊啊～原來如此，
+這樣一來，會被學校那邊認為是惡劣駭客，
+也不好跟委託人碰面是嗎？","","아아~ 과연.
+넌 학교에서 악질 해커로 몰렸다고 했었지.
+의뢰인의 얼굴을 보기 괴롭다는 거네","Verstehe. Die Schule hält dich für einen bösen
+Hacker. Da wird ein Treffen mit der Klientin
+wohl eher schwierig."
+6,3047,"","I know! How about I talk to her for you?","沒問題！　既然這樣就讓我來助你一臂之力！
+讓我來代替你去找委託人，這樣就沒問題了吧？","","좋았어! 그렇다면 내가 발 벗고 나서주지!
+너를 대신해 의뢰인의 이야기를 들어줄게.
+그러면 되겠지?","Ich hab’s! Ich könnte doch an deiner Stelle mit
+ihr reden!"
+7,3047,"","Cool. I'll do it now...","好，那就立刻……","","좋았어, 그럼 바로…","Super. Dann mach ich das jetzt."
+8,7374,"","Hello. Are you with Hudie? I'm Kuraji, president
+of the Inoden Digital Club.","喂……是hudie的人嗎？
+我是井之電的社長，叫倉地。","","여보세요…후디에 분이십니까.
+전 이노덴 부장 쿠라치라고 합니다","Hallo. Gehörst du zu Hudie? Ich heiße Kuraji und
+bin Vorsitzende des Inoden-Informatikclubs."
+9,3047,"","Pleased to meet you. How can we help?","好的好的，妳好。
+那關於妳想和我們商量的事情是？","","예이예이, 안녕하세요.
+그래서 우리에게 상의하고 싶다는 게 뭐야?","Schön, dich kennenzulernen. Was können wir für
+dich tun?"
+10,7374,"","We need someone to provide backup for the
+programming championship tomorrow.","……其實是關於明天舉行的高中生程式大賽，
+我想要拜託你們當我們的幫手。","","……실은, 내일 있을 고교생 프로그램 선수권에
+조력을 부탁드리고 싶습니다","Wir brauchen jemanden als Verstärkung für den
+Programmierwettbewerb morgen."
+11,3047,"","Huh? I thought professionals weren't allowed to
+take part?","嗯？　在高中生大賽裡要專業人士出馬，
+這樣會不會太耍詐了？","","응? 고등학생 대회에 프로가 나가는 건
+반칙 아냐~?","Wie? Ich dachte, dass Profis da nicht mitmachen
+dürfen."
+12,7374,"","The rules say academics and hackers are allowed to
+act as advisors.","不，因為目的是測試研究成果，
+所以引用學者或駭客是被認可的……
+有這樣的規矩存在。","","아뇨, 연구 성과를 시험하는 게 목적이기 때문에
+학자나 해커를 인용해도 무방하다…
+그런 규칙이 있어요","Den Regeln zufolge dürfen Akademiker und Hacker
+als Berater tätig werden."
+13,3047,"","Could people hired for backup really be considered
+advisors?","是喔……但是幫手是可以引用嗎？","","헤에…하지만 조력을 인용이라고 할 수 있어?","Wären wir denn wirklich nur Berater, wenn ihr uns
+als Verstärkung anheuert?"
+14,7374,"","It's a bit of a gray area, but we're in a
+difficult situation.","我知道那是遊走在灰色地帶的做法，
+但是我也是有我的苦衷……","","아슬아슬하다는 건 알고 있습니다.
+다만 사정이 있어서…","Es ist eine gewisse Grauzone, aber wir stecken in
+einer schwierigen Situation."
+15,7374,"","We have reliable information that Nishinomori High
+School is planning to sabotage the finals.","其實因為某些原因，我收到了對戰對手
+西之森高中正試圖對我們
+進行妨礙手段……的情報。","","실은 어느 루트를 통해 
+결승전에서 맞붙는 니시노모리 고교가 방해 공작을
+꾸미고 있다…라는 정보가 들어왔거든요","Wir wissen aus verlässlicher Quelle, dass die
+Nishinomori High School das Finale sabotieren
+will."
+16,3047,"","Sabotage?","妨礙手段？","","방해 공작?","Sabotieren?"
+17,7374,"","We don't know any details, but the reputations of
+both schools are on the line.","詳細並不清楚。
+只是……這次的決賽賭上了兩校的名譽。","","자세한 건 모릅니다.
+다만…이 결승전은 두 학교의 명예가 걸려있습니다","Wir wissen nichts Genaueres, aber hier steht der
+Ruf beider Schulen auf dem Spiel."
+18,7374,"","Because we've been alternating championships for
+so long, and they were the runners-up last year,
+they must be determined to win this year.","我們每年都相互爭奪冠軍，
+去年獲得亞軍的西之森高中，
+今年應該是無論如何都想獲得優勝……","","매년 번갈아 우승하고 있기도 해서
+작년 준우승이었던 니시노모리는 올해는 어떻게 해서든
+우승하고 싶겠죠……","Wir haben so lange abwechselnd gewonnen, und wir
+waren letztes Jahr Sieger. Da wollen sie wohl
+dieses Jahr unbedingt gewinnen."
+19,7374,"","They're likely to resort to any means necessary.","為了成功而不擇手段，
+會想使用卑鄙手段來取勝也完全可以理解。","","필사적으로 이리저리 궁리한 끝에
+비겁한 수단을 쓰겠다고 마음먹었다고 해도 
+이상할 것이 없습니다","Da wird ihnen jedes Mittel recht sein."
+20,7374,"","I hope our fears are unfounded, but...","當然，如果最後只是我自己在杞人憂天就算了……","","물론 기우로 끝난다면 그걸로 상관없습니다만……","Ich hoffe, dass unsere Sorge unbegründet ist,
+aber ..."
+21,3047,"","It's better to be safe than sorry?","但為了小心起見，還是想先做好防範對策……","","주의에 주의를 기울여 대책을 마련하고 싶다는 거구나…","Lieber auf Nummer sicher gehen?"
+22,3047,"","In that case, we'll do it. You basically just need
+bodyguards, right?","嗯，如果是這樣的話，我願意接受。
+總之就是負責當你們的保鑣就行了吧？","","뭐, 그런 거라면 맡아주겠어.
+요컨대 경호원을 해 달라는 거잖아?","Dann machen wir das. Ihr braucht mehr oder weniger
+nur Leibwächter, oder?"
+23,7374,"","Thank you! See you tomorrow.","謝謝你！
+那當天就請多指教了。","","감사합니다!
+그러면 당일에 잘 부탁드리겠습니다","Danke! Wir sehen uns morgen."
+24,3047,"","You okay with that?","……就是這樣，應該沒關係吧？","","…그렇다는데. 별로 상관없잖아?","Bist du damit einverstanden?"
+25,3047,"","There's no turning back now. I'll help. I can't
+ignore a damsel in distress. And being a secret
+bodyguard sounds like fun!","已經騎虎難下啦，也讓我幫忙吧。
+我可沒辦法放著有困難的可愛女孩坐視不管。
+最重要的是當秘密保鑣這件事好像很有趣！","","내친김에 나도 도와줄게.
+귀여운 여자아이가 곤란해 하는 걸 그냥 지나칠 수도 없고
+무엇보다 비밀 경호라니 재미있어 보이니까!","Wir können jetzt keinen Rückzieher mehr machen.
+Ich werde helfen, ich kann es einem Mädchen nicht
+abschlagen. Und Leibwache zu sein klingt spaßig!"
+26,3047,"","Ryuji...isn't here. Where did he go? Never mind.","龍司他……不在啊。
+去哪了？　算了。","","류지……는 없네. 어디 갔지? 뭐 상관없나","Ryuji ... ist nicht da. Wo ist er denn hin?
+Na, egal."
+27,3047,"","Let's invite Erika! I think she's free.","順便也邀小姐一起吧！
+反正她一定也很閒！","","하는 김에 아가씨도 부르자!
+어차피 한가할 테니까!","Fragen wir doch Erika! Die hat, glaube ich,
+Zeit."

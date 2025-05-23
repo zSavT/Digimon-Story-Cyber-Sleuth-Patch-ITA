@@ -1,0 +1,29 @@
+ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
+100,4001,"","You're here from a different dimension?
+Uhh, is that some kinda joke? Are you okay?","你說你是從異世界來的？　喂喂，那是在開什麼玩笑啊？
+你的腦袋沒問題吧？","","이세계에서 왔다고? 어이어이, 뭔 농담이야?
+너, 머리 괜찮아?","Du bist aus einer anderen Dimension gekommen?
+Soll das ein Witz sein? Geht’s dir gut?"
+150,4004,"","""Where is this?"" Look around, it's Shinjuku.
+Is this your first time here? Class trip?","你問我這裡是哪裡？　看就知道了吧，這裡是新宿啊。
+你是第一次來新宿？　是來校外教學的學生嗎？","","여기가 어디냐고… 보면 알겠지만, 신주쿠야
+너, 신주쿠는 처음이야? 수학 여행으로 온 걸까?","„Wo bin ich?“ Schau dich um, wir sind in Shinjuku.
+Bist du zum ersten Mal hier? Auf Klassenfahrt?"
+200,4002,"","Ahh, I wanna ditch work so bad...
+If only I could be swept off to some other world!","啊～，真不想工作……
+好想飛到某個遙遠的世界去啊。","","아―… 일 농땡이 치고 싶어…
+어딘가 머나먼 다른 세계에라도 날아가 버리고 싶은 기분이야","Ach, ich möchte die Arbeit so gern hinwerfen ...
+Wenn ich doch bloß in eine andere Welt
+entkommen könnte!"
+250,4004,"","I need to bring fruit to the visit, but what kind?","該買什麼水果去拜訪才好呢？","","거래처에 사 갈 과일, 뭐가 좋을까?","Ich sollte als Gastgeschenk Obst mitbringen,
+aber welches?"
+300,3013,"","Ready to come back to this world?
+
+->Yes/No selection","是否要回到原本的世界？
+
+⇒「是」「否」的選項","","원래 세계로 돌아갈래?","Bereit, in diese Welt zurückzukehren?
+
+->Auswahl: Ja/Nein"
+350,3013,"","Dummy text","暫定內容","","","Dummy-Text"
+400,0,"","","","","",""
+450,0,"","","","","",""

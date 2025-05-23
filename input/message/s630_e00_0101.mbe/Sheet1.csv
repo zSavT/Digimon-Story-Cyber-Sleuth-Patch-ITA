@@ -1,0 +1,19 @@
+ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
+2,5004,"","Happy Hacker's Record
+Here I write about hacker terminology.","某位幸福駭客的紀錄。
+在此記下幾個駭客用語。","","어느 행복한 해커의 기록
+이곳에 해커어를 몇 가지 적어둔다","Aufzeichnungen eines glücklichen Hackers
+Hier erläutere ich Hackerbegriffe."
+3,5004,"","Bugs","【Bug】","","【버그】","Fehler/Bugs"
+4,5004,"","A bug is something that causes a program to
+malfunction.","引起程式動作不良的原因。","","프로그램의 동작 불량을 일으키는 원인이 되는 것","Ein Fehler (Bug) ist etwas, das eine Fehlfunktion
+eines Programms verursacht."
+5,5004,"","The term was supposedly coined in the 1940s when
+a naval reserve officer fixed an error by removing
+an actual bug that was trapped in a relay.","曾有位海軍預備將校，因機器狀況不良，
+把一隻卡在繼電器的蟲夾出後就解決了……
+此語就是源自於這個事件。","","옛날 어느 해군 예비역 장교가, 머신의 고장이 잘 고쳐지지 않아
+회로 접점에 끼어있던 진짜 벌레를 꺼냈더니 상태가 좋아졌다…
+는 사건에서 유래되었다","Der Begriff entstand angeblich in den Vierzigern,
+als ein Marineoffizier einen Fehler durch das
+Entfernen eines Käfers aus einem Relais behob."

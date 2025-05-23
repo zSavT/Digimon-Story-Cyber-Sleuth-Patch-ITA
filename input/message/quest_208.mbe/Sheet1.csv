@@ -1,0 +1,769 @@
+ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
+101,4126,"","Oh... It's you, huh?","……啊。
+是你啊……","","…………아아
+너구나…","Ach ... Du bist es, was?"
+102,4126,"","Do you... Do you know what I am?","……你知道，你自己是什麼人嗎？","","…너는 네가 누구인지 알고 있어?","Weißt du ... Weißt du, was ich bin?"
+103,4126,"","Because I don't...","我……不知道……","","나는… 몰라","Ich weiß es nämlich nicht ..."
+104,4126,"","I don't feel anything at all... Not a...thing...","我沒有……實感……","","실감이… 나지 않아","Ich spüre gar nichts ... kein ... bisschen ..."
+105,2001,"","!?","……！？","","…윽!!?","?!"
+106,3006,"","What happened?","怎麼了？","","왜 그러지?","Was ist geschehen?"
+107,3006,"","What...? Pete disappeared in front of you?","……什麼？　皮特不見了？","","…뭐? 피트가 없어졌다고?","Was ...? Pete ist direkt vor deinen Augen
+verschwunden?"
+108,3006,"","Hmm... Just come back here for now.
+A new case just came in that's cause for concern.","……你先回來一趟吧。
+剛好來了一件讓人很在意的委託。","","…한번 돌아오도록
+마침 신경 쓰이는 의뢰가 들어온 참이다","Hm ... Komm erst mal wieder her.
+Wir haben gerade einen neuen Fall erhalten,
+der mir Sorgen macht."
+109,3006,"","It could be related to what you just witnessed.","或許跟皮特的事有關係。","","뭔가 관계가 있을지도 모른다","Es könnte mit dem zu tun haben, was du gesehen
+hast."
+110,4126,"","I don't feel a thing... Not even that I'm even...
+really here...","不只這樣，我明明在這裡，卻沒有……實感。","","뿐만 아니라 여기에 있는데도, 실감이… 나지 않아","Ich spüre nichts ... noch nicht mal, dass ich ...
+wirklich hier bin ..."
+201,3006,"","This case comes in from Old Man Mizushima.","委託是來自水嶋老人的「尋貓」。","","의뢰는 미즈시마 할아버지로부터의「고양이 찾기」다","Dieser Fall kommt von dem alten Mizushima."
+202,3006,"","You might remember him as the one behind those
+four urban legends you recently investigated with
+the occult club members.","這位老先生就是超自然研究社之前解開的
+中野都市傳說的真相，你還記得嗎？","","이 분은 전에 오컬트 연구부와 해명한 나카노의 도시전설 사건의
+정체였던 인물인데, 기억하고 있나?","Vielleicht erinnerst du dich an ihn. Er steckte
+hinter den Großstadtlegenden, die du vor Kurzem
+mit dem Okkultismus-Club erforscht hast."
+203,3006,"","It well and truly is a small world out there, even
+when it feels bigger than ever in some ways...","緣分乃不可思議之物，正所謂萍水相逢也是前世緣……
+若是巧妙的緣分就更好了。","","인연이란 참 묘하지. 소매만 스쳐도 전생의 연인…이라
+재미있는 인연이면 더욱 좋고 말이야","Die Welt ist wirklich ein Dorf, auch wenn sie
+manchmal irgendwie größer als je zuvor wirkt ..."
+204,3006,"","Anyway, he's tasked us with tracking down his cat.
+Frankly, during times like this, there's something
+to be said for a down-to-earth gig like this one.","委託是找他飼養的貓——
+在這種非常時期，像這種日常感或許很珍貴呢。","","의뢰는 그가 키우는 고양이 찾기―
+비상시에 이 일상적인 느낌은 귀중할지도 모르겠군","Jedenfalls hat er uns gebeten, seinen Kater zu
+finden. Und ehrlich gesagt, hat ein einfacher
+Auftrag in Zeiten wie diesen etwas."
+205,3006,"","Mizushima said he'd be waiting for you at K-Cafe,
+although he didn't actually state when...","但是，他沒有指定時間，
+只說了句「在K-Cafe等你」。","","하지만 시간 지정도 없고
+단지「K-카페에서 기다리겠다」라고만 말해 왔다","Mizushima meinte, er würde im K-Café auf dich
+warten, allerdings hat er nicht gesagt, wann ..."
+206,3006,"","It wouldn't hurt to go on ahead and check things
+out at the cafe, so go do that.","總之，你先去看看情況吧。","","우선 상태를 보고 오도록","Es kann nichts schaden, wenn du schon mal
+hingehst und dich im Café umschaust."
+231,3006,"","Old Man Mizushima is waiting for you at K-Cafe.
+Now that I think about it, that's where you first
+met him, too, isn't it?","水嶋老人是在「K-Cafe」等你。
+話說回來，你們和那位老人也是在那裡相遇的呢。","","미즈시마 할아버지가 기다리고 있는 건「K-카페」다
+그러고 보면 너희들이 그 할아버지와 만난 것도 거기였군","Der alte Mizushima wartet im K-Café auf dich.
+Da fällt mir ein, dass du ihn dort zum ersten
+Mal getroffen hast, nicht wahr?"
+251,2001,"","!?","！！？","","!!?","?!"
+252,2001,"","It feels like it's stopped. I wonder if it was an
+earthquake...?","……好像停了，是地震嗎？","","…멈춘 것 같다. 지진인 걸까","Es hat wohl aufgehört. Ob das ein Erdbeben war?"
+281,3006,"","So Old Man Mizushima's not in right now. All
+right.","這樣啊……水嶋老人不在嗎？","","그렇군… 미즈시마 할아버지는 안 계셨나","Der alte Mizushima ist also gerade nicht da.
+Verstehe."
+282,3006,"","You originally met him there early in the morning,
+right? Might as well come back around the same
+time and see if he shows up.","之前見到他時是在早上吧。
+那麼你先回來，早上再去一次K-Cafe看看吧。","","이전에 만났던 건 아침이었지
+일단 돌아와서 아침에 다시 한 번 K-카페로 가 보도록","Beim ersten Mal hast du ihn dort früh am Morgen
+getroffen, oder? Dann geh wieder zur gleichen Zeit
+hin, vielleicht triffst du ihn dann."
+283,2001,"","The next day, early morning...","翌日凌晨。","","―다음 날 해뜰 무렵","Am nächsten Tag, früh am Morgen ..."
+301,4133,"","Oh, it's you again. I've been waiting, you know.","嗨，是你啊……
+我等好久了啊。","","오, 너구나…
+기다리고 있었단다","Ach, du bist es. Ich habe schon gewartet."
+302,4133,"","Hmm? You stopped by yesterday afternoon, but
+couldn't find me?","嗯？　你早上有來但沒遇到我？","","응? 낮에 왔지만 못 만났다구?","Hm? Du bist gestern Nachmittag hergekommen,
+konntest mich aber nicht finden?"
+303,4133,"","You must have just had bad timing, kid!
+I've been waiting here forever for you!","那是因為你來的時機不好吧。
+我一直都在這裡等著哦。","","그건 꽤나 타이밍이 나빴구먼
+나는 계속 여기서 기다리고 있었단다","Das war wohl schlechtes Timing, Jungchen!
+Ich warte hier schon sehr lange auf dich!"
+304,4133,"","What's done is done. Let's just let bygones be
+bygones and start searching now.","……那麼，就立刻請你幫我找找吧。","","…그럼 바로 찾아내 주려무나","Nun ja, das ist jetzt passé. Schwamm drüber.
+Fang jetzt einfach mit der Suche an."
+305,4133,"","My Miko, you see... He's inside this wall here.","我的「咪子」在這裡。
+……在這面牆裡。","","내「미코」는 여기 있다
+…이 벽 안에 말이야","Mein Miko ... ist nämlich hier in der Wand."
+306,2001,"","!?","……！！？","","…!!?","?!"
+307,4133,"","...","……","","………","..."
+308,3006,"","Are you at K-Cafe right now?","你現在在K-Cafe嗎？","","지금 K-카페에 있는 건가?","Bist du gerade im K-Café?"
+309,3006,"","I'm picking up readings of really strong Digital
+Wave vibrations from the fourth floor. It's a
+really huge current coursing through there.","我偵測到BW的4樓有強烈的數碼波震動……
+是股不小的亂流。","","BW 4층에 무시무시한 디지털 웨이브의 진동을
+감지했다. 대 난기류다","Ich empfange wirklich starke Vibrationen von
+digitalen Wellen aus dem dritten Stock.
+Dort gibt es einen massiven Strom."
+310,3006,"","My money's on that old ""time capsule"" being the
+cause of them.","那個“時空膠囊＂恐怕就是來源。","","아마도 그 ""타임 캡슐""이 발생원이겠지","Ich wette, dass diese alte „Zeitkapsel“ dafür
+verantwortlich ist."
+311,3006,"","...What's that? An earthquake?","……什麼？地震？","","…뭐야, 지진?","... Was ist das? Ein Erdbeben?"
+312,3006,"","No, I can confirm it's definitely not. There's no
+movement here on the first floor. You're just
+sensing the intense Digital Wa--","不，1樓並沒有搖晃，
+那只是數碼波的震動讓你有地震的感覺而已——","","아니, 1층은 흔들리지 않는다
+디지털 웨이브의 진동을 네가 그렇게 느끼고 있을 뿐―","Nein, ich kann bestätigen, dass es keins ist.
+Hier im Erdgeschoss bewegt sich nichts.
+Du spürst nur die intensiven digitalen We–"
+313,2001,"","!!!","！！","","!!","!!!"
+314,4133,"","It's...","喔喔……","","오오…","Es ist ..."
+315,4126,"","I don't wanna know...
+It's better not knowing...","……什麼都不知道就好。
+……什麼都不知道比較好。","","…몰라도 괜찮아
+…모르는 게 좋아","Ich will es nicht wissen ...
+Es ist besser, es nicht zu wissen ..."
+316,4126,"","Things are fine just as they are now...
+It's better if they don't change...","現在這樣，就好。
+現在這樣，比較好。","","지금 이대로 괜찮아
+지금 이대로가 좋아","Momentan ist alles Ordnung ...
+Es ist besser, wenn sich das nicht ändert ..."
+317,4126,"","Please, stop... Don't wake me up from this...","不要吵……別叫醒我……","","그만해… 나를 깨우지 마…","Bitte, aufhören ... Ich will nicht aufwachen ..."
+318,4133,"","It's Miko!","咪——子——","","미코야―","Das ist Miko!"
+319,4126,"","No, I'm Pete!","我是皮特！","","나는 피트야!","Nein, ich bin Pete!"
+320,4133,"","Whatever you are, Miko, just...come back to me!","已經沒事了……回到我身邊吧，咪子。","","정말, 괜찮단다… 내 곁으로 돌아오렴, 미코","Egal, was du bist, Miko ... Komm einfach
+zu mir zurück!"
+321,4126,"","No, I can't... That's...too much to ask of me...
+I'm not...","不……不要……
+這樣……太自私了……我……還沒……","","싫… 어…
+그런 거… 너무 제멋대로잖아… 나는…… 아직……","Nein, ich kann nicht ... Das ... ist zu viel
+verlangt ... Ich bin nicht ..."
+322,4126,"","[p], please...
+Leave me alone. Let things stay...just the way
+they are...","[p]……拜託你…… 我……像現在這樣就好……——","","[p]… 부탁이야… 나는… 지금 이대로……―","[p], bitte ...
+Lass mich in Ruhe. Lass die Dinge so ...
+so, wie sie sind ..."
+323,4133,"","I'm sorry, Miko... I'm sorry...","抱歉啊，咪子……真是抱歉……","","미안하구나, 미코… 미안하다…","Es tut mir leid, Miko ... Es tut mir leid ..."
+324,3006,"","Ah, did I finally get through to you again?","……連上了嗎？","","…연결됐나","Hörst du mich endlich wieder?"
+325,3006,"","The vibrations have stopped for now, but the
+Digital Waves are still as intense as ever.
+There's something big brewing in there.","震動雖然停了，但濃度依舊強烈，
+就像是大漩渦……或是大龍捲風。","","진동은 멎었지만 농도는 변함없이 엄청나다
+마치 큰 소용돌이나… 커다란 폭풍 같군","Die Vibrationen haben erst mal aufgehört, aber
+die digitalen Wellen sind immer noch so intensiv.
+Irgendwas Großes bahnt sich da an."
+326,3006,"","As I suspected earlier, they're coming from that
+old vacuum tube computer inside the wall.","原因是真空管式電腦。","","원인은 진공관식 컴퓨터다","Wie ich vermutet hatte, kommen sie aus dem alten
+Röhrencomputer in der Wand."
+327,3006,"","The Digital Waves are just gushing out of there
+from the old intranet lines that computer is
+hooked up to.","以電腦為中心，在舊線路的內部網路中，
+出現了數碼波的激流。","","그걸 중심으로 구 회선의 인트라넷 내에서
+디지털 웨이브의 격류가 발생하고 있어","Die digitalen Wellen sprudeln aus den alten
+Intranetverbindungen hervor, die der Computer
+nutzt."
+328,3006,"","So much so, in fact, that they're forming a
+cybernetic ley line...a ""Digital Line"" of sorts.","沒錯。
+它正在形成電腦性龍脈「數碼線」。","","―그래
+전뇌적 용맥「디지털 라인」을 형성하고 있는 거지","Und zwar mit solcher Kraft, dass eine
+kybernetische Ley-Linie entstanden ist ... eine
+Art „digitale Leitung“."
+329,3006,"","If this thing persists, it's only a matter of time
+before its effects are felt in the real world.","再這樣下去，
+早晚會影響到現實世界。","","이대로는
+현실 세계에 영향을 미치는 건 시간의 문제일 거다","Wenn sie weiterhin besteht, ist es nur eine Frage
+der Zeit, bis die Auswirkungen in der echten
+Welt zu spüren sind."
+330,3006,"","[p], I need you to go inside
+that vacuum tube computer and do what you can to
+stop it.","麻煩你用你的力量……
+試著處理引起激流的原因，真空管式電腦。","","원인인 진공관식 컴퓨터…
+네 힘으로 어떻게든 해봐주지 않겠나","[p], du musst in den
+Röhrencomputer springen und alles geben,
+um das zu verhindern."
+331,3006,"","I'm counting on you.","拜託你了。","","부탁한다","Ich verlasse mich auf dich."
+351,4133,"","I'm sorry... I'm so sorry...","抱歉……抱歉啊……","","미안… 미안하구나…","Es tut mir leid ... Es tut mir so leid ..."
+401,4878,"","Please, let me be...
+Don't wake me from this dream...","不要找我……
+不要叫醒我……","","나를 찾지 말아줘…
+나를 깨우지 말아줘…","Bitte lass mich ...
+Ich will nicht aus diesem Traum aufwachen ..."
+402,2001,"","What's going on with Pete?
+Only one way to find out...","皮特……到底發生了什麼事？
+往前進吧……","","피트… 대체 무슨 일이?
+앞으로 나아가자","Was ist mit Pete los?
+Es gibt nur einen Weg, das herauszufinden ..."
+501,4878,"","Why... Why do you have to know who I really am...?","為什麼……你試圖想了解我……","","어째서…… 나를 알려고 하는 거야……","Warum ... Warum musst du wissen, wer ich
+wirklich bin ...?"
+502,2001,"","No response.","……沒有回應。","","…답이 없다","Keine Antwort."
+503,2001,"","Let's find Pete!","去找皮特吧……！","","피트를 찾자…!","Suchen wir nach Pete!"
+601,4965,"","""Nakano Broadway Construction: Part 1""","「百老匯建設當時的演變①」","","「브로드웨이 건축 당시의 시퀀스①」","„Bau von Nakano-Broadway: Teil 1“"
+602,4965,"","""Construction plans for Nakano Broadway (hereby
+abbreviated as 'NB') were announced in 1959,
+ultimately taking 7 years to complete.""","百老匯（以下簡稱BW）的建築計畫於1959年發表，
+到開幕為止花費了近7年的時間建造……","","브로드웨이(이하 BW)의 건설 계획은
+1959년에 발표되어, 오픈될 때까지
+7년의 세월이 걸렸다","„Pläne für den Bau von Nakano-Broadway
+(nachfolgend ‚NB‘) wurden 1959 bekanntgegeben.
+Nach 7 Jahren wurden sie abgeschlossen.“"
+603,4965,"","""The reason for the lengthy duration was due to a
+major issue that routinely manifested throughout
+the process.""","會花費如此長的時間才完成，
+是因為一直到完工前，曾發生過幾次大問題。","","완성에 시간이 걸린 데에는 이유가 있다
+준공할 때까지 매번 커다란 트러블이 있었기 때문이다","„Der Grund für die lange Dauer war ein
+schwerwiegendes Problem, das während der
+Bauarbeiten immer wieder auftrat.“"
+604,4965,"","""During land leveling, underground water leaked,
+resulting in an immediate halt to any and all work
+within the area.""","在整地的階段時便湧出地下水，
+從那之後，建築工程就中斷了。","","사전 작업 단계에서 지하수가 터져
+그 뒤로 공사가 중단된 것이다","„Während des Planierens quoll unterirdisches
+Wasser hervor, was jegliche Arbeiten in dem Gebiet
+sofort zum Stillstand brachte.“"
+605,4965,"","""A large lake formed, and the site was left alone
+for a long time. Mysteriously, large fish appeared
+en masse, attracting fishermen.""","湧出地下水的地方變成了大水池，長期放置不管後，
+不知為何出現許多不知名的大魚，吸引許多人來此釣魚。","","그 곳이 커다란 연못이 되어 그대로 장기간 방치되었다
+어째서인지 수수께끼의 대어가 잔뜩 낚여서, 낚시꾼으로 붐볐다고 한다","„Ein großer See entstand. Die Baustelle wurde lang
+stillgelegt. Seltsamerweise fand man viele große
+Fische, die Fischer anlockten.“"
+606,4965,"","""Records also indicate people bathed there in
+large numbers and that a child at one point
+drowned in the lake.""","也有許多人來此玩水，
+甚至留有一名小孩溺死的紀錄。","","물놀이를 하는 사람도 많아서
+아이 한 명이 익사했다는 기록까지 있다","„Den Aufzeichnungen zufolge badeten dort auch
+viele Leute. Einmal ertrank sogar ein Kind in dem
+See.“"
+651,4965,"","""Nakano Broadway Construction: Part 2""","「百老匯建設當時的演變②」","","「브로드웨이 건축 당시의 시퀀스②」","„Bau von Nakano-Broadway: Teil 2“"
+652,4965,"","""No blueprints exist for NB.""","BW並沒有設計圖。","","BW에는 설계도가 존재하지 않는다","„Für NB gibt es keine Blaupausen.“"
+653,4965,"","""1961 saw the Japanese government commence its
+'Income Doubling Plan' in order to reenergize the
+post-war economy.""","1961年，內閣開始實施所得倍增計畫，
+是高度經濟成長的開始。","","1961년 내각이 소득배증 계획을 스타트한다
+고도 경제 성장의 시작이다","„1961 begann die japanische Regierung mit der
+Umsetzung des ‚Einkommensverdopplungsplans‘, um
+die Wirtschaft nach dem Krieg anzukurbeln.“"
+654,4965,"","""In tandem with unemployment policies, public
+works projects flooded the country, with major
+construction companies allotted huge budgets.""","政府配合失業政策，建立許多公共支援事業，
+將預算撥給大規模的建築承包商。","","정부는 실업대학과 함께 공동지원사업을 난립시켜
+대형 건설사에 예산을 뿌렸다","„Um zudem die Arbeitslosigkeit zu bekämpfen,
+gab es landesweit viele öffentliche Bauprojekte.
+Große Baufirmen erhielten riesige Budgets.“"
+655,4965,"","""Around 1962, one such project, the main route for
+the Shuto Expressway, was completed ahead of
+schedule.""","1962年時，計畫之一的「首都高速公路」的主要路線
+比預定日期還要早完成。","","1962년 경, 그런 프로젝트 중 하나인
+「수도 고속도로」의 메인 루트가 예정보다 빨리 완성되어 버렸다","„Im Jahr 1962 wurde ein solches Projekt, die
+Hauptroute zur Stadtautobahn Tokio, früher als
+vorgesehen fertiggestellt.“"
+656,4965,"","""It was at that point that attention turned back
+towards NB.""","因此，被放置不管的BW就被相中。","","그 때 방치되어 있던 BW에 시선이 모였다","„Zu diesem Zeitpunkt erinnerte man sich wieder
+an NB.“"
+657,4965,"","""Idle laborers and resources were funneled into
+the area from central Tokyo, at which point work
+on the building commenced in earnest.""","許多勞工及建材從都心遷至BW，
+突然開始了建造工程。","","넘쳐나는 노동자와 자원이 도심에서 여기로 운반되어
+갑작스럽게 공사가 시작되었다","„Verfügbare Arbeiter und Ressourcen wurden aus der
+Innenstadt von Tokio in das Gebiet gebracht und
+die Bauarbeiten wurden fortgesetzt.“"
+658,4965,"","""It's likely that there wasn't time to even think
+of preparing proper blueprints for NB at that
+stage.""","應該是沒有時間準備設計圖吧。","","설계도 같은 걸 준비할 틈은 없었을 것이다","„Wahrscheinlich war damals solche Eile geboten,
+dass man keine Zeit für vernünftige Baupläne für
+NB hatte.“"
+701,4965,"","""Nakano Broadway Construction: Part 3""","「百老匯建設當時的演變③」","","「브로드웨이 건축 당시의 시퀀스③」","„Bau von Nakano-Broadway: Teil 3“"
+702,4965,"","""With no blueprints to draw upon, concrete was
+poured and rebar was erected, tailored to the land
+around the site.""","沒有設計圖就開始的工程只是配合土地的形狀，
+立起鋼筋並灌進水泥。","","설계도도 없이 개시된 공사는, 그저 땅 모양에 맞춰
+철근을 세우고 시멘트를 흘려보내는 것이었다","„Beton und Bewehrungsstahl wurden passend zur
+Umgebung der Baustelle und ohne Baupläne verbaut
+und errichtet.“"
+703,4965,"","""When construction was concluded four years later,
+the final building had three underground floors,
+as well as ten floors above ground.""","4年後，仔細算算完成的大樓，
+可以得知是棟地下3層，地上10層樓的建築。","","그리고 4년 후, 완성된 빌딩의 층수를 세어 보니
+지하 3층, 지상 10층이 되어 있었다는 이야기다","„Als die Bauarbeiten vier Jahre später
+fertiggestellt wurden, verfügte das Gebäude über
+drei unterirdische und zehn überirdische Etagen.“"
+704,4965,"","""East Asia's greatest commercial building was
+therefore constructed on little more than sheer
+willpower.""","東洋第一的商業大樓只憑著一股氣勢就蓋成了。","","동양 제일의 상업 빌딩은 기세만으로 만들어졌다","„Das größte Gewerbegebäude in Ostasien wurde
+mit wenig mehr als schierer Willenskraft erbaut.“"
+705,4965,"","""However, this came at a cost to some aspect's of
+NB's integrity. The escalator, for instance, only
+connects the first three floors.""","因為手扶梯的角度不對，
+所以從1樓直接連接至3樓。","","에스컬레이터의 각도를 잘못 만들어서
+1층과 3층이 바로 이어지거나","„Allerdings mangelte es NB deshalb an einigen
+Aspekten. So verbindet der Lift beispielsweise
+nur die ersten drei Etagen.“"
+706,4965,"","""Most of the underground floors have also gone
+unused in the ensuing years.""","還有幾乎沒有使用的地下樓層——","","거의 쓰이지 않는 지하층이 있거나―","„Die meisten unterirdischen Stockwerke blieben in
+den folgenden Jahren ungenutzt.“"
+707,4965,"","""Such quirks are a direct results of the
+circumstances surrounding the building's
+inception.""","這棟大樓的構造會如此奇怪，
+便是因為當時的這些原因所致。","","이 빌딩이 매우 이해하기 힘든 구조인 것은
+이 때의 이런 사정 때문이다","„Diese Eigenheiten sind ein direktes Ergebnis
+der Umstände zu Beginn des Gebäudebaus.“"
+751,4965,"","""Nakano Broadway Construction: Part 4""","「百老匯建設當時的演變④」","","「브로드웨이 건축 당시의 시퀀스④」","„Bau von Nakano-Broadway: Teil 4“"
+752,4965,"","""In most cases, large commercial buildings are run
+by their owners, who control everything from PR to
+tenants and internal bylaws.""","一般來說，大型商業大樓是以負責總管理的業主為主，
+訂立整體的印象策略，選擇入駐店家，
+並制訂詳細的規約。","","통상적으로, 큰 상업 빌딩은 건물주가 메인이 되어
+전체의 이미지 전략을 세우고 입점 업체를 고르거나
+세세한 약관을 정하는 법이다","„In den meisten Fällen werden große Gewerbegebäude
+von ihren Eigentümern betrieben. Sie bestimmen
+über Marketing, Mieter und interne Regelungen.“"
+753,4965,"","""BW was an exception to that rule. From the very
+start, shop and residential spaces alike were sold
+piecemeal.""","但是，BW並非如此。
+一開始就將店面及住家分別零星賣出。","","하지만 BW는 달랐다
+처음부터 점포도 주거지도 제각각 판매해 버린 것이다","„NB war eine Ausnahme. Von Anfang an wurden
+die Läden und Wohnflächen einzeln verkauft.“"
+754,4965,"","""People who bought their real estate inside the
+building were then free to utilize it however they
+pleased.""","然後購買者能夠自由使用其空間。","","그리고 구입한 사람은 그 스페이스를 자유롭게
+활용할 수 있게 했다","„Personen, die im Gebäude Immobilien kauften,
+konnten diese ihren eigenen Wünschen
+entsprechend nutzen.“"
+755,4965,"","""Because of this, soon after NB opened, shop
+owners and residents started remodeling work on
+their respective stores and apartments.""","因此才剛開幕，
+各個店家及住戶便依個人喜好改造自己的店或房間。","","그래서 오픈 초기부터 각각의 점주나 주민은
+자신의 가게나 방을 마음대로 개조하기 시작했다","„Aus diesem Grund begannen kurz nach der Eröffnung
+von NB die Eigentümer und Bewohner mit dem
+Umbau ihrer Läden und Wohnungen.“"
+756,4965,"","""In the end, this meant that formal blueprints for
+NB weren't drafted until eight years after the
+building was originally completed.""","結果，這棟大樓的設計圖是在完工8年後完成。","","결국 이 빌딩의 설계도는 완성된 지 8년 후에 만들어졌다","„Erst acht Jahre nach Fertigstellung des Gebäudes
+entstanden formelle Baupläne für NB.“"
+757,4965,"","""Even in those early days, the building's layout
+had already become too unwieldy for anyone to
+fully grasp at that stage.""","在當時，已經成了誰也無法掌握
+整體狀況的情形了。","","그 시점에서는 이제 누구도 전체를 파악할 수 없는
+상황이 된 것이다","„Selbst zu Anfangszeiten war der Aufbau des
+Gebäudes schon völlig unübersichtlich.“"
+801,4965,"","""Nakano Broadway Construction: Part 5""","「百老匯建設當時的演變⑤」","","「브로드웨이 건축 당시의 시퀀스⑤」","„Bau von Nakano-Broadway: Teil 5“"
+802,4965,"","""The basement of Broadway once housed a vacuum
+tube computer within its walls.""","BW的地下有台真空管式電腦。","","BW의 지하에는 진공관식 컴퓨터가 있었다","„Früher befand sich im Keller, in den Wänden des
+Broadway-Gebäudes, ein Röhrencomputer.“"
+803,4965,"","""It had been brought into the building after the
+end of WWII by war criminals who evaded arrest,
+shielded from the prying eyes of MacArthur's GHQ.""","據說這是在第二次世界大戰結束後，逃過逮捕的戰犯偷偷帶進來，
+以避免被GHQ奪走的東西。","","이것은 제2차 세계대전 종결 후 전범 체포에서 도망친 자들이
+몰래 가지고 들어와 GHQ의 손으로부터 지켰다고 한다","„Nach Kriegsende wurde er von Kriegsverbrechern
+auf der Flucht ins Gebäude gebracht, um ihn
+vor MacArthurs Hauptquartier zu verstecken.“"
+804,4965,"","""The vacuum tube computer's purpose in those days
+remains a mystery.""","而那是作為計算裝置使用，
+還是用來解讀暗號……","","연산 장치로 쓰인 것인지
+암호 해독용으로 쓰인 것인지…","„Wozu der Röhrencomputer damals verwendet wurde,
+ist nicht bekannt.“"
+805,4965,"","""It's possible it could have been utilized for
+things such as mathematical computations or code-
+breaking, but such speculation is unconfirmed.""","用途不明。","","용도는 정확하지 않다","„Es ist möglich, dass er für mathematische
+Berechnungen oder Dechiffrierung von Codes diente,
+aber dafür gibt es keinerlei Beweise.“"
+806,4965,"","""As time went on, there was eventually nobody
+left to carry on the originally purpose set forth
+for the terminal.""","在時過境遷，
+已經沒有人繼承隱藏在裡頭的意志時……","","시간이 흘러 진공관식 컴퓨터에 담겨 있는 의사를 이어받을 자가
+아무도 없어졌을 무렵…","„Mit der Zeit gab es niemanden mehr, der das
+Terminal im ursprünglichen Sinne bedienen konnte.“"
+807,4965,"","""At that point, the computer was apparently buried
+inside a wall somewhere.""","似乎就這樣不為人知地被埋在牆中。","","아무도 모르게 벽 안에 넣어 메워졌다고 한다","„Zu dem Zeitpunkt wurde der Computer wohl
+irgendwo in einer Wand versteckt.“"
+851,4965,"","""Today something terrible happened.""","今天發生了大事。","","오늘은 큰일이 있었다","„Heute ist etwas Furchtbares geschehen.“"
+852,4965,"","""A strange Digimon appeared in the middle of my
+bed. It was so cold in there...""","有一隻數碼寶貝跑進我的床裡。
+好冷好冷……就算求救……","","내 침상 안으로 디지몬이 들어왔다
+춥고 너무 추워서… 도와줘― 라고 말해도…","„Mitten auf meinem Bett erschien ein fremdes
+Digimon. Es war dort so kalt ...“"
+853,4965,"","""Even when I tried calling out for help, nobody
+came for me...""","也沒有人來幫我。","","아무도 와 주지 않았다","„Als ich versuchte, um Hilfe zu rufen, kam
+niemand ...“"
+854,4965,"","""But these two detectives eventually showed up.""","但是，偵探大人們來救了我。","","하지만 탐정님들이 와 줬다","„Doch schließlich kamen zwei Detektive.“"
+855,4965,"","Kyoko and [p].","杏子和[p]。","","쿄코와 [p]","Kyoko und [p]."
+856,4965,"","[p] asked me who I was,
+but I said I didn't know.","[p]問我，我是誰？
+我回說，我也不知道。","","[p]에게 넌 누구야? 라는 질문을 받았다
+나는 모른다고 대답했다","[p] fragte mich, wer ich war,
+aber ich sagte, dass ich es nicht wisse."
+857,4965,"","So Kyoko gave me a name.","然後，杏子就幫我取了個名字。","","그랬더니 쿄코가 이름을 지어 주었다","Also gab Kyoko mir einen Namen."
+858,4965,"","She decided to call me ""Pete"" because I'm some
+sort of ""time capsule.""","因為我是個時空膠囊，
+所以取名叫『皮特』。","","타임 캡슐이니까
+『피트』라고","Sie nannte mich „Pete“, weil ich eine Art
+„Zeitkapsel“ war."
+859,4965,"","Yep, Pete. That's my name.","我的名字是『皮特』。","","내 이름『피트』","Jep, Pete. So heiße ich."
+860,4965,"","It made me so happy to have one.
+Names really are special things to have.","我好開心。
+有名字真好。","","굉장히 기뻤다
+이름이란 건 좋네","Ich war so froh, einen Namen zu haben.
+Namen sind etwas Besonderes."
+901,4965,"","""Yoshito really likes this girl named 'Fuyume
+Yuki.'""","嘉人最喜歡“雪冬女＂了。","","요시토는 ""유우키 후유메""를 정말 좋아한다","„Yoshito mag das Mädchen mit den Namen ‚Fuyume
+Yuki‘ sehr.“"
+902,4965,"","""He always sits me on his lap and tells me all
+about her.""","他總是把我放在他的大腿上，說著雪冬女的事。","","언제나 나를 무릎에 앉히고 유우키 후유메에 대한 이야기를 한다","„Er nimmt mich immer auf seinen Schoß und
+erzählt mir von ihr.“"
+903,4965,"","""Everything is perfect about her, he says. Her
+singing, her dancing, her looks, everything. He
+says she's one in a million among idols.""","不僅能歌善舞，身材也很完美，
+他說再也沒有那麼完美的偶像了。","","노래도 춤도 용모도 완벽
+그렇게 모든 걸 갖추고 있는 아이돌은 없다고 한다","„Alles an ihr sei perfekt, meint er. Ihr Singen,
+ihr Tanzen, ihr Aussehen, alles. Er sagt, sie
+sei ein einzigartiges Idol.“"
+904,4965,"","""I can't do any of those things. I can't sing and
+I can't dance. But what I can do is curl up and
+fall asleep on Yoshito's lap. I love doing that.""","我無法唱歌跳舞，
+還喜歡在嘉人的腿上睡覺。","","나는 노래도 춤도 못하고
+요시토의 무릎 위에서 자는 걸 좋아하지만","„Ich habe dafür kein Talent. Ich kann weder singen
+noch tanzen. Aber ich kann mich zusammenrollen
+und auf Yoshitos Schoß schlafen. Ich liebe es.“"
+905,4965,"","""I also just love hearing Yoshito talk to me so
+happily.""","但是，我最喜歡聽嘉人開心地說話了。","","하지만 요시토가 즐거운 듯이 이야기를 하는 건 정말 좋아해","„Außerdem mag ich es, wenn Yoshito so glücklich
+ist, während er mit mir redet.“"
+951,4965,"","""Yoshito told me that he and his son have been to
+a 'world's fair' once.""","嘉人好像曾經跟兒子去過“萬博＂。","","요시토는 아들이랑 ""만국 박람회""에 간 적이 있다고 한다","„Yoshito hat mir erzählt, dass er und sein Sohn
+einmal bei einer ‚Weltausstellung‘ waren.“"
+952,4965,"","""He said that the line to see the 'moon rocks' was
+really long, so long that it made them tired.
+But he said his son still had a good time.""","為了看“月石＂，還排了很長的隊伍，很累人。
+但是，他的兒子們好像很開心。","","""월석""을 보는 줄이 엄청 길어서 녹초가 됐다고 한다
+하지만 아들들은 즐거워 보였다고","„Er meinte, die Schlange für das ‚Mondgestein‘ sei
+so lang gewesen, dass sie müde wurden. Aber
+sie hatten beide trotzdem Spaß.“"
+953,4965,"","""People also call Yoshito 'Chief Mizushima.'
+His full name is 'Yoshito Mizushima.'""","嘉人也被稱作“水嶋主任＂，
+他的名字叫做『水嶋嘉人』。","","요시토는 ""미즈시마 주임""이라고도 불린다
+『미즈시마 요시토』가 요시토의 이름","„Die Leute nennen Yoshito ‚Herrn Mizushima‘.
+Sein voller Name lautet ‚Yoshito Mizushima‘.“"
+954,4965,"","""Yoshito is a big, important man in the 'computer
+room,' so he doesn't get to go out with his son
+much. He's glad they got to see the world's fair.""","嘉人是電腦室的重要人物，
+平常沒有辦法帶兒子出門，所以去萬博那天似乎玩得很開心。","","요시토는 컴퓨터 룸의 높은 사람이라
+아들과 함께 놀러갈 시간이 없어서, 만국 박람회가 즐거웠던 것 같다","„Im ‚Computerraum‘ ist Yoshito sehr wichtig.
+Deshalb hat er nicht viel Zeit für seinen Sohn.
+Er ist froh, dass sie bei der Ausstellung waren.“"
+955,4965,"","""I wish I could have seen the world's fair with
+Yoshito, too. But he and I are always together
+in the computer room.""","我也好想跟嘉人去啊。
+但是，我一直都和嘉人待在電腦室。","","나도 요시토랑 가고 싶었어
+하지만 나는 언제나 컴퓨터 룸에서 요시토랑 함께지","„Ich wünschte, ich hätte die Ausstellung mit
+Yoshito gesehen. Aber wir sind ja im
+Computerraum immer zusammen.“"
+956,4965,"","""So that's okay. I'm content.""","所以不要緊。","","그러니까 괜찮아","„Das ist also in Ordnung. Ich bin zufrieden.“"
+1001,4965,"","""Yoshito always has me sitting on his lap, petting
+my head all nice and gently.""","嘉人總是把我放在他的大腿上，
+不停地撫摸著我的頭。","","요시토는 언제나 나를 무릎 위에 앉히고
+머리를 계속 쓰다듬어 준다","„Yoshito nimmt mich immer auf den Schoß und
+streichelt ganz zärtlich meinen Kopf.“"
+1002,4965,"","""I love Yoshito.""","我最喜歡嘉人了。","","나는 요시토가 정말 좋아","„Ich liebe Yoshito.“"
+1003,4965,"","""Yoshito always calls me...""","嘉人總是，","","요시토는 언제나, 나를","„Yoshito nennt mich immer ...“"
+1004,4965,"","""Miko.""","叫我『咪子』。","","『미코』라고 불러 준다","„Miko.“"
+1005,4965,"","""Miko is a girl's name.""","雖然，我是公貓。","","나, 수컷이지만","„Miko ist ein Mädchenname.“"
+1006,4965,"","""But Yoshito gave it to me, so I love it.""","但我最喜歡嘉人幫我取的名字。","","요시토가 불러 주는 이름이 정말 좋아","„Aber Yoshito hat ihn mir gegeben, also liebe
+ich ihn.“"
+1051,4965,"","""It's dark in here.""","好黑。","","깜깜해","„Hier ist es dunkel.“"
+1052,4965,"","""All dark. I can't see a thing.""","變得好黑喔。","","깜깜해져 버렸어","„Ganz dunkel. Ich kann nichts sehen.“"
+1053,4965,"","""I'm okay being in the dark. I'm not scared of
+it or anything. But it's never been this dark
+before.""","雖然我不怕黑，
+但這還是第一次變得這麼黑。","","나는 어두운 곳에서도 아무렇지 않지만
+이렇게 깜깜한 건 처음","„Die Dunkelheit macht mir nichts aus. Ich habe
+keine Angst vor ihr. Aber so dunkel war
+es noch nie.“"
+1054,4965,"","""Yoshito's not here.""
+""I don't even smell him.""","嘉人不在，
+也沒有他的味道。","","요시토가 없어
+냄새도 없어","„Yoshito ist nicht hier.“
+„Ich kann ihn nicht mal riechen.“"
+1055,4965,"","""I can't go back outside.""
+""Yoshito, where are you?""","我沒有辦法出去。
+嘉人在哪裡？","","밖으로 나갈 수 없어
+요시토 어디야?","„Ich kann nicht wieder nach draußen.“
+„Yoshito, wo bist du?“"
+1056,4965,"","""Yoshito.""
+""Yoshito.""","嘉人，
+嘉人。","","요시토
+요시토","„Yoshito.“
+„Yoshito.“"
+1057,4965,"","""Please, sit me on your lap.""
+""And pet my head again.""","摸摸我的頭，
+把我放在大腿上。","","머리 쓰다듬어 줘
+무릎에 앉혀 줘","„Bitte nimm mich auf deinen Schoß.“
+„Und streichle wieder meinen Kopf.“"
+1058,4965,"","""Yoshito.""
+""Yoshi...""","嘉人，
+嘉——","","요시토
+요시―","„Yoshito.“
+„Yoshi ...“"
+1059,4965,"","""to...""","人——","","토―","„...to ...“"
+1101,4878,"","Now you know... Now you know who I really am...","……你知道了呢。
+……被你知道了呢。","","…알아 버렸구나
+…알려지고 말았구나","Jetzt weißt du es ... Jetzt weißt du, wer ich
+wirklich bin ..."
+1102,4878,"","I'm...","我……","","나는…","Ich bin ..."
+1103,4878,"","I'm......!","我……","","나는………","Ich bin ...!"
+1201,3006,"","So it's begun...! Though I have to say this is a
+bit more than what I bargained for!","開始了嗎……！
+比預想中的……還要糟糕啊……！","","시작됐나…!
+예상, 했던 것보다도, 터무니없이, 엄청나, 군…!","Es hat also begonnen ...! Wobei ich sagen muss,
+dass ich mir das so nicht vorgestellt hatte!"
+1202,3006,"","If this keeps up, the building's going to collapse
+for sure!","再這樣下去，這棟大樓會倒塌！","","지금 이대로는, 빌딩, 이 무너, 지, 고 말아!","Wenn das so weitergeht, stürzt das Gebäude mit
+Sicherheit ein!"
+1301,4879,"","Who...am...I...?","我……是誰？","","나는……… 누구?","Wer ... bin ... ich ...?"
+1302,4879,"","Somebody...anybody...tell me...","誰來……告訴我……","","누군가…… 알려줘","Sag ... es mir ... doch jemand ..."
+1401,4879,"","Please... Who am...I...?","我是……誰……告訴我……","","나는…… 누구…… 알려줘……","Bitte ... Wer bin ... ich ...?"
+1402,4879,"","Pete...?","皮特……？","","피트…?","Pete ...?"
+1403,4879,"","No... That's...not right... That's not right!","不……對……不對！","","아니… 야… 아니야!","Nein ... Das ... stimmt nicht ... Das stimmt
+nicht!"
+1404,4879,"","Yoshito...Mizushima?","水嶋……嘉人……？","","미즈시마… 요시토…?","Yoshito ... Mizushima?"
+1405,4879,"","Ah, aaaaaugh! No, that's not me! I'm...I'm...!","啊啊……啊啊啊！　不對，我是……！","","아아… 아아아! 아니야, 나는…!","Ah, arrrgh! Nein, das bin nicht ich! Ich bin ...
+Ich bin ...!"
+1406,4879,"","Miko...?","咪子……？","","미코…?","Miko ...?"
+1407,4879,"","I'm...Miko... Ah, aaaaargh!","我是……咪子……啊，啊啊啊啊！","","나는… 미코…… 아아, 아아아아!","Ich bin ... Miko ... Ah, aaaaaargh!"
+1501,4880,"","Yeah, that's right... My name is Miko...","對啊……我是咪子。","","맞아… 나는, 미코","Ja, das stimmt ... Mein Name ist Miko ..."
+1502,4880,"","Yoshito is...my friend.
+Pete is...your friend...","嘉人是……我的朋友。
+皮特是……你的朋友。","","요시토는…… 친구
+피트는…… 네 친구","Yoshito ist ... mein Freund.
+Pete ist ... dein Freund ..."
+1503,4880,"","Yoshito's calling out for me...
+He's been looking for me this whole time...","……嘉人在叫我，
+嘉人一直都在找我。","","…요시토가 부르고 있어
+요시토, 계속 찾아줬구나","Yoshito ruft nach mir ...
+Er hat mich die ganze Zeit über gesucht ..."
+1504,4880,"","He found me...","你找到了我……","","나를 찾아 줬어…","Er hat mich gefunden ..."
+1505,4880,"","Yoshito.","嘉人。","","요시토","Yoshito."
+1601,3006,"","Whew, looks like the tremors have stopped.
+Just in the nick of time, too.","……平息了嗎？
+唉……好像趕上了呢。","","…진정됐나
+이런이런… 늦지 않았던 것 같군","Puh, das Rütteln hat wohl aufgehört.
+Gerade rechtzeitig."
+1602,3006,"","That's my assistant for you. You've done well.
+Now I don't have to worry about any broken coffee
+cups, heehee...","真不愧是我的助手……技術真好。
+多虧了他，那些咖啡杯都完好無缺。","","역시 내 조수… 좋은 실력이다
+덕분에 커피 컵이 깨지지 않고 끝났다","So ist mein Hilfsdetektiv eben. Gute Arbeit.
+Jetzt brauche ich mir wegen kaputter
+Kaffeetassen keine Sorgen mehr machen, haha ..."
+1701,4133,"","Miko... Miko, it's really you!","喔喔……咪子……是咪子啊……！","","오옷… 미코… 미코야……!","Miko ... Miko, du bist es wirklich!"
+1702,4134,"","Yoshito... I'm so sorry.
+You've been waiting for me for so long...","……嘉人……對不起，
+讓你等了那麼、那麼久……","","…요시토… 미안해
+계속, 계속 기다리게 해서…","Yoshito ... Es tut mir so leid.
+Du hast so lange auf mich gewartet ..."
+1703,4133,"","I'm the one who should be apologizing here, Miko.
+I'm the one who left you alone this whole time...
+I'm so sorry, my friend...","該道歉的是我啊……
+咪子，讓你這麼孤單，真的很抱歉。","","사과하는 건 내 쪽이란다…
+미코, 혼자 둬서 정말 미안하구나","Ich sollte mich entschuldigen, Miko. Ich habe
+dich so lange allein gelassen ... Es tut mir
+so leid, mein Lieber ..."
+1704,4134,"","No, it's okay, really. You don't have to be sorry.
+I know you've been waiting for me since the day
+you had to go.","不會，不要緊的……
+因為嘉人一直都在等著我啊。","","아니, 괜찮아…
+왜냐하면 요시토는 계속 나를 기다려 줬으니까","Nein, ist schon gut. Du musst dich nicht
+entschuldigen. Ich weiß, du hast auf mich
+gewartet seit dem Tag, an dem du gehen musstest."
+1705,4133,"","Oh, Miko...","咪子……","","미코","Ach, Miko ..."
+1706,4133,"","Thank you... If it wasn't for you, I'd have never
+lived to see Miko with my own eyes again...","謝謝你……多虧了你，
+我才能再次見到咪子……","","고맙구나… 네 덕분에
+미코와 다시 재회할 수 있었다","Danke ... Ohne dich hätte ich Miko nie wieder
+mit eigenen Augen gesehen ..."
+1707,2001,"","...?","……？","","…?","...?"
+1708,4133,"","I should probably explain... You see, back when
+the vacuum tube computer room was still around, I
+lived here in this building, away from my family.","喔……其實，當真空管式電腦室還存在時，
+我是和家人分居，住在這個館內的。","","아아… 실은 말이지, 진공관식 컴퓨터 룸이 존재했던 당시
+나는 가족과 떨어져 이 관내에 살고 있었단다","Das sollte ich vielleicht erklären ... Als es den
+Raum mit dem Röhrencomputer noch gab, wohnte
+ich in diesem Gebäude, nicht bei meiner Familie."
+1709,4133,"","That computer room was where I used to work.","因為我的工作地點就是電腦室。","","컴퓨터 룸은 내 직장이었지","In dem Computerraum habe ich gearbeitet."
+1710,4133,"","The only family I ever had with me that whole time
+was Miko here.","唯一一個帶來這裡的家人，就是咪子。","","유일하게 데려온 가족이, 이 미코란다","Miko war die ganze Zeit über die einzige
+Familie, die ich hatte."
+1711,4133,"","I talked with Miko about everything there... My
+memories of my family, Fuyume Yuki... Anything to
+help keep my loneliness at bay in there.","我對咪子說了很多與家人的回憶，
+以及喜歡偶像雪冬女的熱情，
+藉此消除寂寞。","","미코를 상대로 가족과의 추억이나
+마음에 드는 아이돌 유우키 후유메를 향한 뜨거운 마음을 이야기하며
+외로움을 달래고 있었지","Ich redete mit Miko über alles ... Meine
+Erinnerungen an meine Familie, Fuyume Yuki ...
+Alles, um dort nicht so einsam zu sein."
+1712,4133,"","He would join me in the computer room and we spent
+many, many hours together over the years...","咪子也跟我來到電腦室，
+我跟咪子一起共度了很長一段時間。","","미코는 컴퓨터 룸에도 따라왔다
+긴 시간을 미코와 함께 보냈단다","Er kam zu mir in den Computerraum und wir haben
+dort über die Jahre viele, viele Stunden
+zusammen verbracht ..."
+1713,4133,"","Eventually, they closed down the room and sealed
+the whole thing off with a thick wall, like it was
+never there to begin with.","但電腦室終究決定要關閉，
+連房間的門都一起被塗成厚牆……","","이윽고 컴퓨터 룸의 폐쇄가 결정되어
+방의 문까지 통째로 두꺼운 벽으로 덧칠해졌지…","Schließlich wurde der Raum geschlossen und
+hinter einer dicken Wand versteckt.
+Es war fast, als ob es ihn nie gegeben hätte ..."
+1714,4133,"","It was around that time that I lost Miko, too.
+I couldn't find him wherever I looked...","咪子剛好就在那時不見了。","","미코가 없어진 건 마침 그 무렵이었단다","Zu dem Zeitpunkt habe ich auch Miko verloren.
+Egal, wo ich suchte, er war nicht zu finden ..."
+1715,4133,"","I had a bad feeling about where he might have
+ended up and came back here who knows how many
+times to rescue him...","我曾想，牠該不會在裡頭吧。
+所以不斷地來到這裡。","","설마, 라고는 생각했지
+몇 번이나 이 곳으로 발길을 옮겼다","Ich hatte so ein ungutes Gefühl, was mit ihm
+geschehen war, weshalb ich immer wieder herkam,
+um ihn zu retten ..."
+1716,4133,"","But in the end, I couldn't do anything for him.
+I gave up and over time nearly forgot about him...","但是，我什麼也辦不到，
+一段時間後我就放棄了，並棄之於遺忘的深淵——","","하지만 어떻게 할 수도 없어서
+머지않아 포기하고 망각의 저편으로 보내서―","Doch letztendlich konnte ich nichts für ihn tun.
+Ich gab auf und vergaß ihn mit der Zeit fast ..."
+1717,4133,"","Before I knew it, it had been decades since we'd
+last been together.","當我注意到時，已經過了幾十年。","","깨닫고 보니 수십 년의 세월이 흘렀더구나","Bevor ich mich versah, waren Jahrzehnte vergangen,
+seit wir uns zuletzt gesehen hatten."
+1718,4133,"","I can't thank you enough for making this happen.
+We couldn't have been reunited without you, kid...","我能夠像這樣與咪子再次相會，都是多虧了你啊。","","이렇게 미코와 재회할 수 있었던 건 네 덕분이다","Ich kann dir dafür nicht genug danken. Ohne dich
+hätte es kein Wiedersehen gegeben, Jungchen ..."
+1719,4133,"","Thank you... Thank you so much...
+Now we can go back to living together again...","謝謝……謝謝你……
+多虧了你，我能再度和咪子一起生活……","","고마워… 고맙구나…
+덕분에 다시 미코와 함께 살 수 있어","Danke ... Vielen, vielen Dank ...
+Jetzt können wir wieder zusammenleben!"
+1720,4133,"","Thank you. I'll never, ever forget this day!","真的，很謝謝你……！","","정말, 고맙다…！","Danke. Diesen Tag werde ich nie im Leben
+vergessen!"
+1801,3006,"","I see... Nice work. I can only imagine how hard it
+was, but you really did a good job.","這樣啊——
+辛苦你了。","","그렇군―
+수고했다","Ich verstehe ... Gute Arbeit. Ich kann mir nur
+ausmalen, wie schwer es war, aber das hast
+du wirklich gut gemacht."
+1802,3006,"","So our Pete was actually a cat named Miko, sealed
+deep inside a wall along with that old vacuum tube
+computer from the American occupation days...","和真空管式電腦一起
+被封在牆壁中的貓，咪子……","","진공관식 컴퓨터와 함께
+벽 속에 갇힌 고양이, 미코","Unser Pete war also ein Kater namens Miko, der
+seit der US-Besatzung in einer Wand mit dem alten
+Röhrencomputer eingeschlossen war ..."
+1803,3006,"","And somehow, using the building's intranet...or
+rather the power of its ley line, he merged with
+the computer and became a Digimon.","那隻咪子透過內部網路……得到龍脈的力量，
+與電腦同化，變成了數碼寶貝。","","그 미코가, 인트라넷… 용맥의 힘을 얻어
+컴퓨터와 동화해 디지몬의 모습이 되었다","Und irgendwie, mithilfe des Intranets des Gebäudes
+oder dank der Kraft der Ley-Linie, ist er mit dem
+Computer verschmolzen und ein Digimon geworden."
+1804,3006,"","That old cat's had a hell of a life, wouldn't you
+agree, [p]?","那就是我們所知的“皮特＂。","","그것이 우리가 아는 ""피트""다","Der alte Kater hat ganz schön was erlebt, meinst
+du nicht, [p]?"
+1805,3006,"","We can't say for sure what the actual assimilation
+process entailed, but at this point, we know
+better than to doubt it happened.","雖然不知道它被同化的詳細過程，
+但我們可以知道這種事是有可能發生的。","","동화한 자세한 프로세스는 불명이지만
+우리는 그런 현상이 일어날 수 있다는 걸 알고 있다","Wir wissen nicht mit Sicherheit, wie die
+Verschmelzung passiert ist, aber es gibt keine
+Zweifel, dass sie stattgefunden hat."
+1806,3006,"","It's amazing just how much and yet how little the
+digital and real worlds are siphoned off from one
+another...","電腦世界與現實世界的牆相當厚，也相當薄……","","전뇌세계와 현실세계의 벽은 두껍기도 하고, 얇기도 하다…","Es ist erstaunlich, wie sehr und wie wenig die
+Digitale Welt und die echte Welt sich überschneiden ..."
+1807,3006,"","I imagine the reason Pete showed up again after
+all those years is because of the Digital Wave
+abnormalities we've seen.","經過數十年的時光，皮特會再次出現，
+是受到最近數碼波異常的影響吧。","","수십 년의 시간을 건너 피트가 나타난 이유는
+최근 발생한 디지털 웨이브 이상의 영향이겠지","Ich glaube, dass Pete aufgrund der abnormen
+digitalen Wellen nach all den Jahren wieder
+erschienen ist."
+1808,3006,"","But you know... There's still one thing about the
+whole story that bugs me a little.","但是，有一件事我很在意。","","…하지만 한 가지 신경 쓰이는 점이 있다","Aber weißt du was ... Ein Aspekt an der ganzen
+Geschichte stört mich immer noch etwas."
+1809,2001,"","?","？？","","??","?"
+1810,3006,"","You mentioned that towards the end, Old Man
+Mizushima said ""Now we can go back to living
+together again,"" right?","聽你說，水嶋老人說，
+「能再度和咪子一起生活」……對吧？","","네 이야기에 따르면, 미즈시마 할아버지는
+「다시 함께 살 수 있다」… 그렇게 말했다고 했지?","Du hast erwähnt, dass der alte Mizushima am Ende
+sagte: „Jetzt können wir wieder zusammenleben!“
+Richtig?"
+1811,3006,"","...What do you think he meant by that?","你覺得……那是什麼意思呢？","","그건… 어떤 의미라고 생각하나?","... Was er damit wohl gemeint hat?"
+1812,3006,"","Not only that, but in the case you solved earlier
+where he was the one behind the urban legends...
+How did he keep breaking into the building?","而且，在我們知道水嶋老人是都市傳說真相的事件中——
+他是怎麼入侵至館內的？","","게다가 미즈시마 할아버지가 도시전설의 정체라는 걸 알게 된 사건―…
+그는 어떻게 관내에 침입했던 거지?","Nicht nur das. Auch bei dem Fall, den ihr
+gelöst habt, steckte er hinter den Legenden.
+Wie gelangte er immer wieder in das Gebäude?"
+1813,3006,"","Let's assume for the sake of argument that he
+somehow had access to an entrance that let him
+come and go at the timing he did.","就算在那個時間還有出入口開著——","","설사 그 타이밍에 열려 있는
+출입구가 있었다고 해도―","Sagen wir mal, dass er irgendwie Zugang zu einem
+Eingang hatte, mit dessen Hilfe er zu gewissen
+Zeiten kommen und gehen konnte."
+1814,3006,"","If he'd physically been getting into the building
+so much that way that he was being reported, you'd
+think something would have gone differently.","如果頻繁地進出到出現目擊證詞，那又是另外一回事了。","","목격자가 생길 정도로 빈번히 출입하고 있었다고 하면 이야기는 달라진다","Wenn er so oft ein und aus ging, dass es anderen
+aufgefallen wäre, dann wäre die Geschichte
+vielleicht anders verlaufen."
+1815,2001,"","...!","……！","","…윽!","...!"
+1816,3006,"","Got any theories you'd like to propose?","關於這個謎題，你能說出令人信服的推理嗎？","","이 수수께끼에 너는 납득이 가는 추리를 펼칠 수 있나?","Hast du andere Theorien?"
+1817,3006,"","Yoshito Mizushima...","……水嶋嘉人。","","…미즈시마 요시토","Yoshito Mizushima ..."
+1818,3006,"","If we looked into his backstory, we might be able
+to find our answers pretty easily...","如果調查看看這個人，
+或許會比較容易得到解答。","","이 인물을 조사한다면
+쉽게 답을 얻을지도 모르겠군","Wenn wir uns seine Vorgeschichte ansehen, finden
+wir vielleicht schnell unsere Antworten ..."
+1819,3006,"","What do you think? Should we dig a little more?","你想確認看看嗎？","","너는 그걸 확인하고 싶은가?","Was meinst du? Sollten wir noch etwas
+nachforschen?"
+1820,4878,"","""Please, leave us be... Don't go looking for us.""","“不要找尋　我們＂","","""우리를 찾지 말아줘""","„Bitte lasst uns in Ruhe ... Sucht nicht nach
+uns.“"
+1821,3006,"","Ah, that's understandable... Then it's probably
+best we do indeed let sleeping dogs lie.","……是啊……對，那才是正確解答吧。","","…그렇군… 그래, 그게 정답이겠지","Ach, das ist verständlich ... Dann ist es wohl am
+besten, schlafende Hunde nicht zu wecken."
+1822,3006,"","Alternatively, we could let the occult club kids
+know about this. I bet they'd have a real field
+day going after it.","不過，若是讓超自然研究社的人聽到，
+應該會欣喜若狂吧。","","하지만 오컬트 연구부 녀석들이 알게 되면
+분명 기뻐서 춤을 추겠지","Oder wir könnten den Kids vom Okkultismus-Club
+Bescheid sagen. Das wäre ein gefundenes
+Fressen für sie."
+1823,3006,"","I mean, they came face-to-face with a real--","畢竟，他們看到的是真正的——","","뭐니뭐니 해도 그들이 직접 본 건 진짜로―","Ich meine, sie haben persönlich einen echten–"
+1824,3006,"","...You know what, nah, let's keep it to ourselves.","……呵，不，還是算了。","","……훗, 아니, 그만두지","... Weißt du was? Behalten wir es für uns."
+1901,3006,"","Not all mysteries in this world need to be solved.","這世界上有很多謎是不需要解開的。","","해명할 필요가 없는 수수께끼도 이 세상에는 잔뜩 있다","Nicht alle Rätsel in dieser Welt müssen gelöst
+werden."
+1902,3006,"","Nakano Broadway brings many things together...","中野這個地方……","","여기는, 이 나카노는…","Nakano-Broadway verbindet viele Dinge ..."
+1903,3006,"","The world of spirits, and the world of the
+living...","黃泉與現世。","","영계와 현세","Die Geisterwelt und die Welt der Lebenden ..."
+1904,3006,"","The normal and the surreal...","常規與怪異。","","상도와 괴이","Das Normale und das Surreale ..."
+1905,3006,"","Even the physical and the digital...","真實與數碼的模糊界線。","","리얼과 디지털의 교차점","Selbst das Analoge und das Digitale ..."
+2001,3006,"","Truly, nothing is impossible in this crazy hole
+in the wall we call home.","……也就是說，凡事都有可能。","","…즉, 무슨 일이든 있을 수 있다는 거다","In diesem verrückten Loch in der Wand, das unser
+Zuhause ist, ist wirklich nichts unmöglich."
+3000,5000,"","Use Keyword
+Pete/Yoshito Mizushima/Miko
+The correct choice is Miko.","使用關鍵字
+皮特／水嶋嘉人／咪子
+正確的選項為咪子。","","키워드 사용
+피트 / 미즈시마 요시토 / 미코
+정답인 선택지는 미코","Benutze Stichwort
+Pete/Yoshito Mizushima/Miko
+Miko ist korrekt."
+3001,5000,"","Use Keyword
+Penalty applied if wrong keyword is chosen.
+Proceed as if Pete was chosen.","使用關鍵字
+使用錯誤關鍵字將會受到處罰，
+您選擇了皮特繼續前進。","","키워드 사용
+틀린 키워드 사용으로 페널티 있음
+피트를 선택하면 진행할 수 있습니다","Benutze Stichwort
+Das falsche Stichwort wird bestraft.
+Fahre fort, als ob Pete gewählt wurde."
+4000,4041,"","An earthquake? No, I didn't feel anything of the
+sort.","地震？　沒有，我沒有感覺啊。","","지진? 아니, 알아차리지 못했는데","Ein Erdbeben? Nein, so etwas habe ich nicht
+bemerkt."
+4100,4262,"","Welcome! Grab a drink, have a seat, and stay as
+long as you like!","歡迎光臨～　請您慢慢坐——","","어서오세요~ 천천히 둘러보세요","Willkommen! Hol dir was zu trinken, setz dich
+und bleib solange du willst!"
+4200,2001,"","Let's head for the K-Cafe. Old Man Mizushima
+should hopefully be there at this hour...","去K-Cafe看看吧。
+現在這個時間，水嶋老人會在嗎……？","","K-카페로 가 보자
+이 시간이라면 미즈시마 할아버지가 있을까…?","Gehen wir zum K-Café. Der alte Mizushima sollte
+um diese Zeit da sein ..."
+4250,2000,"","Let's head for the K-Cafe.","去K-Cafe看看吧。","","K-카페로 가 보자","Gehen wir zum K-Café."

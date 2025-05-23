@@ -1,0 +1,68 @@
+ID,Japanese,English,Chinese,EnglishCensored,Korean,German
+1,"","Releases Lv. 1 Firewall (Yellow)","解除Lv. 1防火牆","","Lv.1 방화벽을 해제한다.","Deakt. Firewall Lv. 1 (gelb)."
+2,"","Releases Lv. 2 Firewall (Green)","解除Lv. 1～2防火牆","","Lv.1~2 방화벽을 해제한다.","Deakt. Firewall Lv. 2 (grün)."
+3,"","Releases Lv. 3 Firewall (Red)","解除Lv. 1～3防火牆","","Lv.1~3 방화벽을 해제한다.","Deakt. Firewall Lv. 3 (rot)."
+4,"","Releases Lv. 4 Firewall (Purple)","解除Lv. 1～4防火牆","","Lv.1~4 방화벽을 해제한다.","Deakt. Firewall Lv. 4 (lila)."
+5,"","Reduces or expands the spread box.","壓縮／展開檔案夾","","스프레드 박스를 압축/전개한다.","Verändert den Trefferbereich."
+6,"","Analyzes & unlocks encrypted data.","分析、解除加密檔案","","암호화된 데이터를 해석/해제한다.","Entschlüsselt Daten."
+7,"","Analyzes & unlocks securely encrypted data.","分析、解除高度加密檔案","","고도로 암호화된 데이터를 해석/해제한다.","Entschlüsselt sichere Daten."
+8,"","Records/overwrites data plate characteristics.","複製／貼上數據的規格及參數","","데이터 플레이트의 성질을 기억/덮어쓰기 한다.","Überschreibt Datenscheiben."
+9,"","Makes yourself transparent.","將自己透明化","","자신의 모습을 투명화한다.","Macht dich transparent."
+10,"","Reduces encounters.","降低遭遇敵人的機率","","적과의 조우확률을 저하시킨다.","Reduziert Begegnungen."
+11,"","Greatly reduces encounters.","大幅降低遭遇敵人的機率","","적과의 조우확률을 상당히 저하시킨다.","Reduziert Begegnungen stark."
+12,"","Eliminates encounters.","將遭遇敵人的機率降為零","","적과의 조우확률을 제로로 한다.","Verhindert Begegnungen."
+13,"","Increases encounters.","提昇遭遇敵人的機率","","적과의 조우확률을 상승시킨다.","Steigert Begegnungen."
+14,"","Forces encounters.","強制遭遇敵人","","적과 강제적으로 조우한다.","Erzwingt Begegnungen."
+15,"","Make/delete floors","地板出現／地板消失","","바닥을 출현/소실시킨다.","Ebenen erstellen/löschen."
+16,"","Turn power on/off","開啟電力／關閉電力","","전력을 온/오프로 전환한다.","Strom an-/abschalten."
+17,"","Restore broken objects","修復毀損的檔案","","파괴된 오브젝트를 수복한다.","Kaputte Objekte wiederherst."
+18,"","Perceive hidden traps","將看不到的陷阱可視化","","보이지 않는 트랩을 보이게 한다.","Versteckte Fallen entdecken."
+19,"","Return to dungeon entrance","回到迷宮入口","","던전 입구로 돌아간다.","Zurück zum Dungeon-Eingang."
+20,"","Raise movement speed","移動速度上升","","이동 속도를 올린다.","Bewegungstempo erhöhen."
+101,"","Opens Lv. 1 Firewall (Yellow).","解除Lv. 1防火牆
+開通道路","","Lv.1 방화벽을
+해제하여 진행을 가능하게 한다.","Öffnet Firewall Lv. 1 (gelb)."
+102,"","Opens Lv. 2 Firewall (Green).","解除Lv. 1～2防火牆
+開通道路","","Lv.1~2 방화벽을
+해제하여 진행을 가능하게 한다.","Öffnet Firewall Lv. 2 (grün)."
+103,"","Opens Lv. 3 Firewall (Red).","解除Lv. 1～3防火牆
+開通道路","","Lv.1~3 방화벽을
+해제하여 진행을 가능하게 한다.","Öffnet Firewall Lv. 3 (rot)."
+104,"","Opens Lv. 4 Firewall (Purple).","解除Lv. 1～4防火牆
+開通道路","","Lv.1~4 방화벽을
+해제하여 진행을 가능하게 한다.","Öffnet Firewall Lv. 4 (lila)."
+105,"","Make the spread box smaller
+or larger.","壓縮（變小）／展開（變大）檔案夾","","스프레드 박스를
+압축(작게)/전개(크게)한다.","Vergrößert oder verkleinert
+den Trefferbereich."
+106,"","Analyzes and unlocks
+encrypted data.","分析、解除
+加密檔案","","암호화된 데이터를
+해석/해제한다.","Analysiert und entsperrt
+verschlüsselte Daten."
+107,"","Analyzes and unlocks securely
+encrypted data.","分析、解除
+高度加密檔案","","고도로 암호화된 데이터를
+해석/해제한다.","Analysiert und entsperrt
+sicher verschlüsselte Daten."
+108,"","Copies/pastes characteristics
+of a data plate.","複製（copy）／貼上（paste）
+數據的規格及參數","","데이터 플레이트의 성질을
+복사/덮어쓰기 한다.","Kopiert und schreibt
+Datenscheiben-Eigenschaften."
+109,"","Makes yourself transparent.","將自己透明化","","자신의 모습을 투명화한다.","Macht dich transparent."
+110,"","Reduces encounters.","降低遭遇敵人的機率","","적과의 조우확률을 저하시킨다.","Reduziert Begegnungen."
+111,"","Greatly reduces encounters.","大幅降低遭遇敵人的機率","","적과의 조우확률을 상당히 저하시킨다.","Reduziert Begegnungen stark."
+112,"","Eliminates encounters.","將遭遇敵人的機率降為零","","적과의 조우확률을 제로로 한다.","Verhindert Begegnungen."
+113,"","Increases encounters.","提昇遭遇敵人的機率","","적과의 조우확률을 상승시킨다.","Steigert Begegnungen."
+114,"","Forces encounters with foes
+(in areas with encounters).","強制遭遇敵人
+（僅限於會遭遇敵人的區域）","","적과 강제적으로 조우한다.
+(적과 조우하는 에어리어 한정)","Erzwingt Gegner-Begegnungen
+(in entsprechenden Bereichen)."
+115,"","Make/delete floors","地板出現／地板消失","","바닥을 출현/소실시킨다.","Ebenen erstellen/löschen."
+116,"","Turn power on/off","開啟電力／關閉電力","","전력을 온/오프로 전환한다.","Strom an-/abschalten."
+117,"","Restore broken objects","修復毀損的檔案","","파괴된 오브젝트를 수복한다.","Kaputte Objekte wiederherst."
+118,"","Perceive hidden traps","將看不到的陷阱可視化","","보이지 않는 트랩을 보이게 한다.","Versteckte Fallen entdecken."
+119,"","Return to dungeon entrance","回到迷宮入口","","던전 입구로 돌아간다.","Zurück zum Dungeon-Eingang."
+120,"","Raise movement speed","移動速度上升","","이동 속도를 올린다.","Bewegungstempo erhöhen."

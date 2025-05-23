@@ -1,0 +1,821 @@
+ID,Japanese,English,Chinese,EnglishCensored,Korean,German
+301,"","Max HP +50
+/Equipment","最大HP+50
+／裝備","","최대 HP+50
+/장비품","Max. TP +50
+/Ausrüstung"
+302,"","Max HP +100
+/Equipment","最大HP+100
+／裝備","","최대 HP+100
+/장비품","Max. TP +100
+/Ausrüstung"
+303,"","Max HP +150
+/Equipment","最大HP+150
+／裝備","","최대 HP+150
+/장비품","Max. TP +150
+/Ausrüstung"
+304,"","Max HP +200
+/Equipment","最大HP+200
+／裝備","","최대 HP+200
+/장비품","Max. TP +200
+/Ausrüstung"
+305,"","Max HP +250
+/Equipment","最大HP+250
+／裝備","","최대 HP+250
+/장비품","Max. TP +250
+/Ausrüstung"
+306,"","Max SP +5
+/Equipment","最大SP+5
+／裝備","","최대 SP+5
+/장비품","Max. SP +5
+/Ausrüstung"
+307,"","Max SP +10
+/Equipment","最大SP+10
+／裝備","","최대 SP+10
+/장비품","Max. SP +10
+/Ausrüstung"
+308,"","Max SP +15
+/Equipment","最大SP+15
+／裝備","","최대 SP+15
+/장비품","Max. SP +15
+/Ausrüstung"
+309,"","Max SP +20
+/Equipment","最大SP+20
+／裝備","","최대 SP+20
+/장비품","Max. SP +20
+/Ausrüstung"
+310,"","Max SP +25
+/Equipment","最大SP+25
+／裝備","","최대 SP+25
+/장비품","Max. SP +25
+/Ausrüstung"
+311,"","ATK +5
+/Equipment","ATK+5
+／裝備","","공격력+5
+/장비품","ANG +5
+/Ausrüstung"
+312,"","ATK +10
+/Equipment","ATK+10
+／裝備","","공격력+10
+/장비품","ANG +10
+/Ausrüstung"
+313,"","ATK +15
+/Equipment","ATK+15
+／裝備","","공격력+15
+/장비품","ANG +15
+/Ausrüstung"
+314,"","ATK +20
+/Equipment","ATK+20
+／裝備","","공격력+20
+/장비품","ANG +20
+/Ausrüstung"
+315,"","ATK +25
+/Equipment","ATK+25
+／裝備","","공격력+25
+/장비품","ANG +25
+/Ausrüstung"
+316,"","DEF +5
+/Equipment","DEF+5
+／裝備","","방어력+5
+/장비품","VER +5
+/Ausrüstung"
+317,"","DEF +10
+/Equipment","DEF+10
+／裝備","","방어력+10
+/장비품","VER +10
+/Ausrüstung"
+318,"","DEF +15
+/Equipment","DEF+15
+／裝備","","방어력+15
+/장비품","VER +15
+/Ausrüstung"
+319,"","DEF +20
+/Equipment","DEF+20
+／裝備","","방어력+20
+/장비품","VER +20
+/Ausrüstung"
+320,"","DEF +25
+/Equipment","DEF+25
+／裝備","","방어력+25
+/장비품","VER +25
+/Ausrüstung"
+321,"","INT +5
+/Equipment","INT+5
+／裝備","","지력+5
+/장비품","INT +5
+/Ausrüstung"
+322,"","INT +10
+/Equipment","INT+10
+／裝備","","지력+10
+/장비품","INT +10
+/Ausrüstung"
+323,"","INT +15
+/Equipment","INT+15
+／裝備","","지력+15
+/장비품","INT +15
+/Ausrüstung"
+324,"","INT +20
+/Equipment","INT+20
+／裝備","","지력+20
+/장비품","INT +20
+/Ausrüstung"
+325,"","INT +25
+/Equipment","INT+25
+／裝備","","지력+25
+/장비품","INT +25
+/Ausrüstung"
+326,"","SPD +5
+/Equipment","SPD+5
+／裝備","","민첩+5
+/장비품","GES +5
+/Ausrüstung"
+327,"","SPD +10
+/Equipment","SPD+10
+／裝備","","민첩+10
+/장비품","GES +10
+/Ausrüstung"
+328,"","SPD +15
+/Equipment","SPD+15
+／裝備","","민첩+15
+/장비품","GES +15
+/Ausrüstung"
+329,"","SPD +20
+/Equipment","SPD+20
+／裝備","","민첩+20
+/장비품","GES +20
+/Ausrüstung"
+330,"","SPD +25
+/Equipment","SPD+25
+／裝備","","민첩+25
+/장비품","GES +25
+/Ausrüstung"
+331,"","ACU +5%
+/Equipment","ACU+5%
+／裝備","","명중률+5%
+/장비품","GEN +5 %
+/Ausrüstung"
+332,"","ACU +10%
+/Equipment","ACU+10%
+／裝備","","명중률+10%
+/장비품","GEN +10 %
+/Ausrüstung"
+333,"","ACU +15%
+/Equipment","ACU+15%
+／裝備","","명중률+15%
+/장비품","GEN +15 %
+/Ausrüstung"
+334,"","EVA +3%
+/Equipment","EVA+3%
+／裝備","","회피율+3%
+/장비품","AWN +3 %
+/Ausrüstung"
+335,"","EVA +6%
+/Equipment","EVA+6%
+／裝備","","회피율+6%
+/장비품","AWN +6 %
+/Ausrüstung"
+336,"","EVA +9%
+/Equipment","EVA+9%
+／裝備","","회피율+9%
+/장비품","AWN +9 %
+/Ausrüstung"
+337,"","CRT +5%
+/Equipment","CRT+5%
+／裝備","","크리티컬 발생 확률+5%
+/장비품","KRT +5 %
+/Ausrüstung"
+338,"","CRT +10%
+/Equipment","CRT+10%
+／裝備","","크리티컬 발생 확률+10%
+/장비품","KRT +10 %
+/Ausrüstung"
+339,"","CRT +15%
+/Equipment","CRT+15%
+／裝備","","크리티컬 발생 확률+15%
+/장비품","KRT +15 %
+/Ausrüstung"
+340,"","HP +100, SP +10
+/Equipment","HP+100　SP+10
+／裝備","","HP+100, SP+10 
+/장비품","TP +100, SP +10
+/Ausrüstung"
+341,"","HP +100, ATK +10
+/Equipment","HP+100　ATK+10
+／裝備","","HP+100, 공격력+10 
+/장비품","TP +100, ANG +10
+/Ausrüstung"
+342,"","HP +100, DEF +10
+/Equipment","HP+100　DEF+10
+／裝備","","HP+100, 방어력+10 
+/장비품","TP +100, VER +10
+/Ausrüstung"
+343,"","HP +100, INT +10
+/Equipment","HP+100　INT+10
+／裝備","","HP+100, 지력+10 
+/장비품","TP +100, INT +10
+/Ausrüstung"
+344,"","HP +100, SPD +10
+/Equipment","HP+100　SPD+10
+／裝備","","HP+100, 민첩+10 
+/장비품","TP +100, GES +10
+/Ausrüstung"
+345,"","SP +10, ATK +10
+/Equipment","SP+10　ATK+10
+／裝備","","SP+10, 공격력+10 
+/장비품","SP +10, ANG +10
+/Ausrüstung"
+346,"","SP +10, DEF +10
+/Equipment","SP+10　DEF+10
+／裝備","","SP+10, 방어력+10 
+/장비품","SP +10, VER +10
+/Ausrüstung"
+347,"","SP +10, INT +10
+/Equipment","SP+10　INT+10
+／裝備","","SP+10, 지력+10 
+/장비품","SP +10, INT +10
+/Ausrüstung"
+348,"","SP +10, SPD +10
+/Equipment","SP+10　SPD+10
+／裝備","","SP+10, 민첩+10 
+/장비품","SP +10,GES +10
+/Ausrüstung"
+349,"","ATK +10, DEF +10
+/Equipment","ATK+10　DEF+10
+／裝備","","공격력+10, 방어력+10 
+/장비품","ANG +10, VER +10
+/Ausrüstung"
+350,"","ATK +10, INT +10
+/Equipment","ATK+10　INT+10
+／裝備","","공격력+10, 지력+10 
+/장비품","ANG +10, INT +10
+/Ausrüstung"
+351,"","ATK +10, SPD +10
+/Equipment","ATK+10　SPD+10
+／裝備","","공격력+10, 민첩+10
+/장비품","ANG +10, GES +10
+/Ausrüstung"
+352,"","DEF +10, INT +10
+/Equipment","DEF+10　INT+10
+／裝備","","방어력+10, 지력+10 
+/장비품","VER +10, INT +10
+/Ausrüstung"
+353,"","DEF +10, SPD +10
+/Equipment","DEF+10　SPD+10
+／裝備","","방어력+10, 민첩+10 
+/장비품","VER +10, GES +10
+/Ausrüstung"
+354,"","INT +10, SPD +10
+/Equipment","INT+10　SPD+10
+／裝備","","지력+10, 민첩+10 
+/장비품","INT +10, GES +10
+/Ausrüstung"
+355,"","INT +10, ACU +5%
+/Equipment","INT+10　ACU+5%
+／裝備","","지력+10, 명중률+5%
+/장비품","INT +10, GEN +5 %
+/Ausrüstung"
+356,"","SPD +10, EVA +5%
+/Equipment","SPD+10　EVA+5%
+／裝備","","민첩+10, 회피율+5%
+/장비품","GES +10, AWN +5 %
+/Ausrüstung"
+357,"","ATK +10, CRT +5%
+/Equipment","ATK+10　CRT+5%
+／裝備","","공격력+10, 크리티컬 발생 확률+5%
+/장비품","ANG +10, KRT +5 %
+/Ausrüstung"
+358,"","Max HP +50, Max SP +5, ATK +5
+DEF +5, INT +5, SPD +5 /Equipment","最大HP+50　最大SP+5　ATK+5
+DEF+5　INT+5　SPD+5／裝備","","최대HP+50, 최대SP+5, 공격력+5
+방어력+5, 지력+5, 민첩+5 /장비품","Max. TP +50, max. SP +5, ANG +5,
+VER +5, INT +5, GES +5 /Ausrüstung"
+359,"","Fire attribute damage -20%
+/Equipment","火屬性傷害減少20%
+／裝備","","불속성 대미지 20% 감소
+/장비품","Feuerschaden –20 %
+/Ausrüstung"
+360,"","Fire attribute damage -30%,
+Plant attribute damage +10% /Equipment","火屬性傷害減少30%，
+木屬性傷害增加10%／裝備","","불속성 대미지 30% 감소
+풀속성 대미지 10% 증가 /장비품","Feuerschaden –30 %,
+Pflanzenschaden +10 % /Ausrüstung"
+361,"","Water attribute damage -20%
+/Equipment","水屬性傷害減少20%
+／裝備","","물속성 대미지 20% 감소
+/장비품","Wasserschaden –20 %
+/Ausrüstung"
+362,"","Water attribute damage -30%,
+Fire attribute damage +10% /Equipment","水屬性傷害減少30%，
+火屬性傷害增加10%／裝備","","물속성 대미지 30% 감소
+불속성 대미지 10% 증가 /장비품","Wasserschaden –30 %,
+Feuerschaden +10 % /Ausrüstung"
+363,"","Plant attribute damage -20%
+/Equipment","木屬性傷害減少20%
+／裝備","","풀속성 대미지 20% 감소
+/장비품","Pflanzenschaden –20 %
+/Ausrüstung"
+364,"","Plant attribute damage -30%,
+Water attribute damage +10% /Equipment","木屬性傷害減少30%，
+水屬性傷害增加10%／裝備","","풀속성 대미지 30% 감소
+물속성 대미지 10% 증가 /장비품","Pflanzenschaden –30 %,
+Wasserschaden +10 % /Ausrüstung"
+365,"","Electric attribute damage -20%
+/Equipment","雷屬性傷害減少20%
+／裝備","","전기속성 대미지 20% 감소
+/장비품","Elektroschaden –20 %
+/Ausrüstung"
+366,"","Electric attribute damage -30%,
+Wind attribute damage +10% /Equipment","雷屬性傷害減少30%，
+風屬性傷害增加10%／裝備","","전기속성 대미지 30% 감소
+바람속성 대미지 10% 증가 /장비품","Elektroschaden –30 %,
+Windschaden +10 % /Ausrüstung"
+367,"","Earth attribute damage -20%
+/Equipment","土屬性傷害減少20%
+／裝備","","땅속성 대미지 20% 감소
+/장비품","Erdschaden –20 %
+/Ausrüstung"
+368,"","Earth attribute damage -30%,
+Electric attribute damage +10% /Equipment","土屬性傷害減少30%，
+雷屬性傷害增加10%／裝備","","땅속성 대미지 30% 감소
+전기속성 대미지 10% 증가 /장비품","Erdschaden –30 %,
+Elektroschaden +10 % /Ausrüstung"
+369,"","Wind attribute damage -20%
+/Equipment","風屬性傷害減少20%
+／裝備","","바람속성 대미지 20% 감소
+/장비품","Windschaden –20 %
+/Ausrüstung"
+370,"","Wind attribute damage -30%,
+Earth attribute damage +10% /Equipment","風屬性傷害減少30%，
+土屬性傷害增加10%／裝備","","바람속성 대미지 30% 감소
+땅속성 대미지 10% 증가 /장비품","Windschaden –30 %,
+Erdschaden +10 % /Ausrüstung"
+371,"","Light attribute damage -20%
+/Equipment","光屬性傷害減少20%
+／裝備","","빛속성 대미지 20% 감소
+/장비품","Lichtschaden –20 %
+/Ausrüstung"
+372,"","Light attribute damage -30%,
+Dark attribute damage +10% /Equipment","光屬性傷害減少30%，
+闇屬性傷害增加10%／裝備","","빛속성 대미지 30% 감소
+어둠속성 대미지 10% 증가 /장비품","Lichtschaden –30 %,
+Dunkelheitsschaden +10 % /Ausrüstung"
+373,"","Dark attribute damage -20%
+/Equipment","闇屬性傷害減少20%
+／裝備","","어둠속성 대미지 20% 감소
+/장비품","Dunkelheitsschaden –20 %
+/Ausrüstung"
+374,"","Dark attribute damage -30%,
+Light attribute damage +10% /Equipment","闇屬性傷害減少30%，
+光屬性傷害增加10%／裝備","","어둠속성 대미지 30% 감소
+빛속성 대미지 10% 증가 /장비품","Dunkelheitsschaden –30 %,
+Lichtschaden +10 % /Ausrüstung"
+375,"","Neutral attribute damage -20%
+/Equipment","無屬性傷害減少20%
+／裝備","","무속성 대미지 20% 감소
+/장비품","Neutralschaden –20 %
+/Ausrüstung"
+376,"","Neutral attribute damage -30%,
+Non-neutral attribute damage +5% /Equipment","無屬性傷害減少30%，
+無屬性以外的傷害增加5%／裝備","","무속성 대미지 30% 감소
+무속성 외의 대미지 5% 증가 /장비품","Neutralschaden –30 %,
+sonstiger Schaden +5 % /Ausrüstung"
+377,"","All attribute damage -10%
+/Equipment","全屬性傷害減少10%
+／裝備","","모든 속성 대미지 10% 감소
+/장비품","Jeglicher Schaden –10 %
+/Ausrüstung"
+378,"","Halves Poison success rate
+/Equipment","陷入“劇毒”狀態的機率減半
+／裝備","","""맹독""에 걸릴 확률 반감
+/장비품","Halbe Vergiftungsrate
+/Ausrüstung"
+379,"","Prevents Poison
+/Equipment","不會陷入“劇毒”狀態
+／裝備","","""맹독""에 걸리지 않게 됨
+/장비품","Verhindert Vergiftung
+/Ausrüstung"
+380,"","Halves Confusion success rate
+/Equipment","陷入“混亂”狀態的機率減半
+／裝備","","""혼란""에 걸릴 확률 반감
+/장비품","Halbe Verwirrungsrate
+/Ausrüstung"
+381,"","Prevents Confusion
+/Equipment","不會陷入“混亂”狀態
+／裝備","","""혼란""에 걸리지 않게 됨
+/장비품","Verhindert Verwirrung
+/Ausrüstung"
+382,"","Halves Paralysis success rate
+/Equipment","陷入“麻痺”狀態的機率減半
+／裝備","","""마비""에 걸릴 확률 반감
+/장비품","Halbe Lähmungsrate
+/Ausrüstung"
+383,"","Prevents Paralysis
+/Equipment","不會陷入“麻痺”狀態
+／裝備","","""마비""에 걸리지 않게 됨
+/장비품","Verhindert Lähmung
+/Ausrüstung"
+384,"","Halves Sleep success rate
+/Equipment","陷入“睡眠”狀態的機率減半
+／裝備","","""수면""에 걸릴 확률 반감
+/장비품","Halbe Schlafrate
+/Ausrüstung"
+385,"","Prevents Sleep
+/Equipment","不會陷入“睡眠”狀態
+／裝備","","""수면""에 걸리지 않게 됨
+/장비품","Verhindert Schlaf
+/Ausrüstung"
+386,"","Halves Stun success rate
+/Equipment","陷入“暈眩”狀態的機率減半
+／裝備","","""마비""에 걸릴 확률 반감
+/장비품","Halbe Betäubungsrate
+/Ausrüstung"
+387,"","Prevents Stun
+/Equipment","不會陷入“暈眩”狀態
+／裝備","","""마비""에 걸리지 않게 됨
+/장비품","Verhindert Betäubung
+/Ausrüstung"
+388,"","Halves Dot success rate
+/Equipment","陷入“液晶化”狀態的機率減半
+／裝備","","""액정화""에 걸릴 확률 반감
+/장비품","Halbe Verpixelungsrate
+/Ausrüstung"
+389,"","Prevents Dot
+/Equipment","不會陷入“液晶化”狀態
+／裝備","","""액정화""에 걸리지 않게 됨
+/장비품","Verhindert Verpixeln
+/Ausrüstung"
+390,"","Halves Bug success rate
+/Equipment","陷入“Bug”狀態的機率減半
+／裝備","","""버그""에 걸릴 확률 반감
+/장비품","Halbe Fehlerrate
+/Ausrüstung"
+391,"","Prevents Bug
+/Equipment","不會陷入“Bug”狀態
+／裝備","","""버그""에 걸리지 않게 됨
+/장비품","Verhindert Fehler
+/Ausrüstung"
+392,"","Halves Instant Death success rate
+/Equipment","陷入“即死”狀態的機率減半
+／裝備","","""즉사""에 걸릴 확률 반감
+/장비품","Halbe Soforttodrate
+/Ausrüstung"
+393,"","Prevents Instant Death
+/Equipment","不會陷入“即死”狀態
+／裝備","","""즉사""에 걸리지 않게 됨
+/장비품","Verhindert Soforttod
+/Ausrüstung"
+394,"","Halves Instant Death success rate
+/Equipment","陷入“所有異常狀態”的機率減半
+／裝備","","""모든 상태이상""에 걸릴 확률 반감
+/장비품","Halbiert die Wahrscheinlichkeit 
+von Statusleiden /Ausrüstung"
+395,"","Combo rate +10%
+/Equipment","連擊發生機率+10%
+／裝備","","콤보 발생 확률+10%
+/장비품","Komborate +10 %
+/Ausrüstung"
+396,"","Always successful escaping from battle.
+/Equipment","逃脫必定成功
+／裝備","","도주에 반드시 성공
+/장비품","Immer erfolgreiche Flucht
+/Ausrüstung"
+397,"","Increases EXP earned in battle.
+/Equipment","增加戰鬥時獲取的EXP
+／裝備","","배틀로 얻는 EXP가 증가
+/장비품","Mehr EP durch Kämpfe
+/Ausrüstung"
+398,"","Increases yen earned in battle.
+/Equipment","增加戰鬥時獲取的YEN
+／裝備","","배틀로 얻는 YEN가 증가
+/장비품","Mehr Yen durch Kämpfe
+/Ausrüstung"
+399,"","Increases foe drop rate for items.
+/Equipment","增加敵人掉落道具的機率
+／裝備","","적이 아이템을 드롭할 확률 증가
+/장비품","Mehr Items von 
+Gegnern. /Ausrüstung"
+400,"","Increases data obtained when scanning.
+/Equipment","增加掃描時獲取的數據
+／裝備","","스캔 시 획득하는 데이터 증가
+/장비품","Mehr Daten durch Scannen
+/Ausrüstung"
+401,"","All attribute damage -10%
+/Equipment","全屬性傷害減少10%
+／裝備","","모든 속성 대미지 10% 감소
+/장비품","Jeglicher Schaden –10 %
+/Ausrüstung"
+402,"","Reduces DEF/INT-penetrating
+damage 100%. /Equipment","DEF．INT貫穿損傷減少100%
+／裝備","","방어와 지력 관통 대미지 100% 감소
+/장비품","Reduziert ABW-/INT-durchdringenden
+Schaden um 100 %. /Ausrüstung"
+403,"","Reduces DEF/INT-penetrating
+damage 30%. /Equipment","DEF．INT貫穿損傷減少30%
+／裝備","","방어와 지력 관통 대미지 30% 감소
+/장비품","Reduziert ABW-/INT-durchdringenden
+Schaden um 30 %. /Ausrüstung"
+10101,"","Latest Digivice worn by a certain Cyber
+Sleuth. /Accessory","某位電腦偵探也有配戴的
+最新型Digivice/飾品","","어떤 전뇌탐정이 사용했다는
+최신형 디지바이스 /액세서리","Aktuelles Digivice, getragen von einem
+gewissen Cyber-Detektiv. /Accessoire"
+12401,"","Color swap for the latest Digivice worn
+by a certain Cyber Sleuth. /Accessory","某位電腦偵探戴的
+最新型Digivice別色款／飾品","","어떤 전뇌탐정이 사용했다는
+최신형 디지바이스 /액세서리","Neue Farbe für das aktuelle Digivice
+des Cyber-Detektivs. /Accessoire"
+10201,"","High-powered visor worn by a certain
+hacker. /Accessory","某位駭客戴的
+高性能顯示器／飾品","","어떤 해커가 사용했다는
+고성능 바이저 /액세서리","Leistungsfähiges Visier eines gewissen
+Hackers. /Accessoire"
+12501,"","Color swap for the high-powered visor
+worn by a certain hacker. /Accessory","某位駭客戴的
+高性能顯示器別色款／飾品","","어떤 해커가 사용했다는
+색다른 고성능 바이저 /액세서리","Neue Farbe für leistungsfähiges Visier
+eines gewissen Hackers. /Accessoire"
+10301,"","A Japanese New Year's decoration.
+The standard fare. /Accessory","日本傳統新年飾品。
+標準的貢品麻糬／飾品","","일본의 전통적인 정월 장식.
+표준적인 찰떡 /액세서리","Eine japanische Neujahrs-Deko.
+Ganz traditionell. /Accessoire"
+10302,"","A Japanese New Year's decoration.
+Red and white for extra pep. /Accessory","日本傳統新年飾品。
+紅白能提昇喜氣？／飾品","","일본의 전통적인 정월 장식.
+홍백이라 상서로움이 상승? /액세서리","Eine japanische Neujahrs-Deko.
+Schicker in Rot und Weiß. /Accessoire"
+12601,"","A Japanese New Year's decoration.
+Have a gorgeous New Year! /Accessory","日本傳統新年飾品。能過個
+豪華的一年……大概吧／飾品","","일본의 전통적인 정월 장식. 
+멋진 1년이 될…지도 모른다 /액세서리","Eine japanische Neujahrs-Deko.
+Für ein luxuriöses Neujahr! /Accessoire"
+10401,"","Bold use of Motimon in a Japanese New
+Year's decoration. Do not eat! /Accessory","大膽用年糕獸來當日本傳統
+新年飾品。不能吃喔！／飾品","","일본의 전통적인 정월 장식에 모티몬을
+대담하게 기용. 먹으면 안 돼! /액세서리","Kühner Einsatz von Motimon für
+Neujahrs-Deko. Nicht essen! /Accessoire"
+10501,"","Heart-shaped chocolate. Slightly bitter
+flavor for adults. /Accessory","心型的巧克力。
+有點成熟的苦味／飾品","","하트형 초콜릿
+조금 어른스러운 쓴 맛 /액세서리","Leicht bittere, herzförmige Schokolade
+für Erwachsene. /Accessoire"
+10502,"","Heart-shaped white chocolate. Overflows
+with a happy sweetness. /Accessory","心型的白巧克力。
+滿滿甜味的幸福滋味／飾品","","하트형 화이트 초콜릿
+달콤함이 가득한 행복의 맛 /액세서리","Herzförmige weiße Schokolade.
+So richtig schön süß. /Accessoire"
+12701,"","Heart emoji. Slap it on the person you
+like and they like you back! /Accessory","愛心的表情符號。給喜歡的人裝，
+心情就是兩情相悅！／飾品","","하트 이모션 마크. 좋아하는 아이에게
+붙여주면 사랑이 이루어진 기분! /액세서리","Herz-Emoji. Verpass es deiner geliebten
+Person für erwiderte Liebe! /Accessoire"
+12702,"","Broken heart emoji. Perfect for the
+lovelorn... /Accessory","破碎愛心的表情符號。
+心情進入失戀模式...／飾品","","갈라진 하트 이모션 마크.
+기분이 순식간에 실연 모드로… /액세서리","Gebrochenes-Herz-Emoji. Perfekt
+für Liebeskummer ... /Accessoire"
+12801,"","Golden heart emoji. Shows the strength
+of your feelings!(?) /Accessory","黃金愛心的表情符號。
+能展現出感情的強度！？／飾品","","금색 하트 이모션 마크.
+강한 감정을 표현할 수 있나?! /액세서리","Goldenes-Herz-Emoji. Zeigt, wie stark
+deine Gefühle sind! /Accessoire"
+12901,"","A popular flower that blooms in spring.
+Famous bloom from Holland. /Accessory","春天綻放的知名花種。
+出產國的荷蘭也跟著出名／飾品","","봄 무렵에 피는 인기있는 꽃.
+생산국으로는 네덜란드가 유명 /액세서리","Ein beliebter Frühlingsblüher aus
+Holland. /Accessoire"
+13001,"","A golden tulip. It should mean ""shining
+love"" in flower language. /Accessory","金色鬱金香。
+想展現「耀眼的愛情」／飾品","","금색 튤립. 꽃말은
+「빛나는 사랑」을 이루고 싶다 /액세서리","Eine goldene Tulpe. Sie bedeutet:
+„wunderbare Liebe“. /Accessoire"
+10701,"","Replica of Taomon's headgear. Wearing it
+won't let you use spells. /Accessory","道士獸戴的烏帽子複製品。
+戴上也使不出陰陽術／飾品","","도사몬이 쓰고 있는 모자의 레플리카.
+써봤자 음양술은 사용하지 못한다 /액세서리","Kopie von Taomons Kopfbedeckung.
+Verhindert Zauberei. /Accessoire"
+10801,"","Replica of BanchoLeomon's hat.
+It should suit some Digimon. /Accessory","番長獅子獸的帽子複製品。
+給適合的數碼寶貝戴吧／飾品","","반쵸레오몬 모자의 레플리카.
+어울리는 디지몬에게 씌워보자 /액세서리","Kopie von BanchoLeomons Hut.
+Passt einigen Digimon. /Accessoire"
+10901,"","Replica of a police officer's hat. Lets
+you police Digimon. ...Maybe? /Accessory","警察帽子複製品。能以數碼寶貝警察
+來大幅活躍……大概吧／飾品","","경찰 모자의 레플리카. 디지몬 경찰로서
+활약할 수 있을…지도 모른다 /액세서리","Kopie einer Polizistenmütze. Sorgt bei
+Digimon für Ordnung? /Accessoire"
+10902,"","Replica of a captain's hat. Set sail to
+protect the seas. ...Or don't? /Accessory","艦長帽子複製品。負起守護
+海洋和平的任務……大概吧／飾品","","함장 모자의 레플리카. 바다의 평화를 지키는
+임무에 취임…할 지도 모른다 /액세서리","Kopie einer Kapitänsmütze. Segle los und
+schütze die Meere. Oder so. /Accessoire"
+13101,"","Green-striped DigiEgg decoration. The
+start and end of all Digimon. /Accessory","綠色橫紋數碼蛋的複製飾品。
+是數碼寶貝結束與開始的姿態／飾品","","녹색 줄무늬 디지타마를 본뜬 장식.
+디지몬의 끝과 시작을 상징한다 /액세서리","Grün gestreifte Digi-Ei-Deko. Der Anfang
+und das Ende aller Digimon. /Accessoire"
+13102,"","Red polka-dotted DigiEgg decoration. The
+start and end of all Digimon. /Accessory","紅色點點數碼蛋的複製飾品。
+是數碼寶貝結束與開始的姿態／飾品","","붉은 물방울 무늬 디지타마를 본뜬 장식.
+디지몬의 끝과 시작을 상징한다 /액세서리","Rot gepunktete Digi-Ei-Deko. Der Anfang
+und das Ende aller Digimon. /Accessoire"
+13201,"","Gold-speckled DigiEgg decoration. The
+start and end of all Digimon. /Accessory","金色點點數碼蛋的複製飾品。
+是數碼寶貝結束與開始的姿態／飾品","","금색 물방울 무늬 디지타마를 본뜬 장식. 
+디지몬의 끝과 시작을 상징한다 /액세서리","Golden gesprenkelte Digi-Ei-Deko. Anfang
+und Ende aller Digimon. /Accessoire"
+11001,"","Festival flag celebrating growing boys...
+adorned with Seadramon. /Accessory","祝賀男孩子成長的旗幟……
+但上面加了海龍獸／飾品","","남자아이의 성장을 축하하는 축제 장식…에
+시드라몬을 달아놓은 것 /액세서리","Ein Banner mit Seadramon zur Feier
+heranwachsender Jungen. /Accessoire"
+11101,"","Festival flag celebrating growing boys...
+adorned with Airdramon. /Accessory","祝賀男孩子成長的旗幟……
+但上面加了飛龍獸／飾品","","남자아이의 성장을 축하하는 축제 장식…에
+에어드라몬을 달아놓은 것 /액세서리","Ein Banner mit Airdramon zur Feier
+heranwachsender Jungen. /Accessoire"
+13301,"","Festival flag celebrating growing boys.
+Edo-style black carp. /Accessory","祝賀男孩子成長的旗幟。
+只有鯉魚的江戶風格／飾品","","남자아이의 성장을 축하하는 축제 장식.
+평범한 잉어를 단 에도 스타일 /액세서리","Banner mit schwarzem Edo-Karpfen zur
+Feier wachsender Jungen. /Accessoire"
+13401,"","Festival flag celebrating growing boys.
+Gorgeous swimming carp. /Accessory","祝賀男孩子成長的旗幟。
+特徵是豪華的游泳鯉魚／飾品","","남자아이의 성장을 축하하는 축제 장식.
+우아하게 헤엄치는 잉어가 특징 /액세서리","Banner zur Feier wachsender Jungen. 
+Schwimmender Karpfen. /Accessoire"
+11201,"","Doll shaped like ShellNumemon. Keep it
+for rainy days! /Accessory","貝殼鼻涕獸的人偶。
+雨天的同伴！／飾品","","달팽이워매몬을 본딴 인형.
+비오는 날에 함께! /액세서리","Eine Puppe in Form von ShellNumemon.
+Für Notzeiten! /Accessoire"
+11301,"","Doll shaped like BlackKingNumemon.
+Won't raise your drop rate. /Accessory","黑帝鼻涕獸的人偶。
+並不會增加掉落率／飾品","","블랙킹워매몬을 본딴 인형.
+드롭률은 증가하지 않는다 /액세서리","Puppe in Form von BlackKingNumemon.
+Keine Beuteerhöhung. /Accessoire"
+13501,"","Doll shaped like BlackKingNumemon tinted
+gold. Not a new Digimon. /Accessory","金色塗裝的黑帝鼻涕獸人偶。
+並不是新數碼寶貝喔／飾品","","블랙킹워매몬 인형을 금색으로 코팅.
+신종 디지몬이 아니다 /액세서리","BlackKingNumemon-Puppe in Gold.
+Kein neues Digimon. /Accessoire"
+11401,"","Decoration shaped like a yellow star.
+Sparkles like the real thing. /Accessory","黃色星形飾品。
+這正是星星的光輝／飾品","","황금색 별모양 장식.
+이것이야말로 스타의 반짝임 /액세서리","Deko in Form eines gelben Sterns.
+Funkelt wie ein echter Stern. /Accessoire"
+11402,"","Decoration shaped like a blue star.
+Known for its soft coloring. /Accessory","藍色星形飾品。
+特徵是溫和的配色／飾品","","파란색 별모양 장식.
+우아하고 부드러운 색감이 특징 /액세서리","Deko in Form eines blauen Sterns.
+Berühmt für den Pastellton. /Accessoire"
+11403,"","Decoration shaped like a red star.
+Shines like a morning star. /Accessory","紅色星形飾品。
+以燃燒的明星為印象／飾品","","빨간색 별모양 장식.
+뜨겁게 타오르는 샛별의 이미지 /액세서리","Deko in Form eines roten Sterns.
+Funkelt wie ein Morgenstern. /Accessoire"
+13601,"","Three decorations shaped like yellow
+stars. No, you're not dizzy. /Accessory","黃色星形飾品x3。
+可不是混亂狀態喔／飾品","","금색 별모양 장식
+혼란에 걸린 것이 아니다 /액세서리","Drei Dekos in Form von gelben Sternen.
+Dir ist nicht schwindlig. /Accessoire"
+11501,"","Straw hat wrapped in red ribbon.
+Feel the summer sunshine. /Accessory","綁上紅色緞帶的草帽。
+可以感受到夏日陽光／飾品","","빨간 리본이 달린 밀짚모자.
+여름의 햇살이 느껴진다 /액세서리","Ein Strohhut mit rotem Band. Genieße die
+Sommersonne. /Accessoire"
+11601,"","A straw hat with a blue ribbon. You can
+feel the gentle wind. /Accessory","綁上藍色緞帶的草帽。
+可以感受到清爽微風／飾品","","파란 리본이 달린 밀짚모자.
+상쾌한 바람이 느껴진다 /액세서리","Ein Strohhut mit blauem Band. Spürst
+du die sanfte Brise? /Accessoire"
+13701,"","A popular flower reminiscent of summer.
+Means ""I can see only you."" /Accessory","作為夏季象徵的知名花卉。花語是
+「僅僅注視著你」／飾品","","여름의 풍물로 인기있는 꽃. 꽃말은
+「당신만을 바라보고 있어요」 /액세서리","Eine Blume, die an den Sommer erinnert.
+Deutung: „Ich sehe nur dich.“ /Accessoire"
+13801,"","A flower that blooms on Palmon's head.
+Just a replica, honest. /Accessory","巴魯獸頭上綻放的花。
+當然，這是複製品。當然／飾品","","팔몬의 머리에 피어있는 꽃.
+물론 당연히 레플리카 /액세서리","Eine Blume, die auf Palmons Kopf blüht.
+Nur eine Kopie, versprochen. /Accessoire"
+13901,"","A flower sparkling gold. Talk about
+flashy. /Accessory","閃耀金色的花朵。
+一口氣提昇豪華度／飾品","","금색으로 빛나는 꽃.
+화려함이 순식간에 올라간다 /액세서리","Eine golden funkelnde Blume.
+Wie protzig. /Accessoire"
+11701,"","A dumpling offered to the moon. The
+standard type. /Accessory","賞月時獻給月亮的丸子。
+最基本的樣式／飾品","","한가위에 달님에게 올리는 경단.
+가장 표준적인 형태 /액세서리","Ein Kloß für den Mond.
+Die herkömmliche Variante. /Accessoire"
+11702,"","A dumpling offered to the moon. Variant
+mixed with red bean jam. /Accessory","賞月時獻給月亮的丸子。
+搭上紅豆的特殊樣式／飾品","","대보름에 달님에게 올리는 경단.
+팥소를 넣은 특이한 종류 /액세서리","Ein Kloß für den Mond.
+Mit Rote-Bohnen-Paste. /Accessoire"
+11703,"","A dumpling offered to the moon. Contains
+a mashed soybean paste. /Accessory","賞月時獻給月亮的丸子。毛豆味。
+搭上毛豆泥的樣式／飾品","","대보름에 달님에게 올리는 경단. 즌다맛.
+즌다는 풋콩을 으깬 페이스트를 의미 /액세서리","Ein Kloß für den Mond.
+Mit Sojabohnen-Paste. /Accessoire"
+14001,"","Scholar hat from Digital World Academy.
+Wear it to look smart. /Accessory","據說是數碼世界大學的博士帽。
+戴上就會看來很聰明／飾品","","디지털 월드 대학의 것이라고 생각되는 박사 모자.
+쓰면 현명해 보인다 /액세서리","Gelehrten-Hut der Akademie der Digitalen
+Welt. Damit wirkst du klug. /Accessoire"
+14101,"","Scholar hat from Digital World Academy.
+Said to be for premium types. /Accessory","據說是數碼世界大學的博士帽。
+謠傳相當高級／飾品","","디지털 월드 대학의 것이라고 생각되는 박사 모자.
+상당한 고급품이라는 소문도 /액세서리","Gelehrten-Hut der Akademie der Digitalen
+Welt. Für Überflieger. /Accessoire"
+11801,"","A pumpkin decoration for Halloween. Also 
+known as a Jack-O'-Lantern. /Accessory","萬聖節裝飾的南瓜。
+別名：南瓜燈籠／飾品","","할로윈에 장식하는 호박.
+별명 : 잭 오 랜턴 /액세서리","Eine Kürbis-Deko zu Halloween. Man kann
+sie als Laterne benutzen. /Accessoire"
+11802,"","A pumpkin decoration for Halloween.
+Black for greater devilry. /Accessory","萬聖節裝飾的南瓜。
+黑色南瓜，提昇了惡魔感／飾品","","할로윈에 장식하는 호박.
+검은 호박으로 악마도가 상승 /액세서리","Eine Kürbis-Deko zu Halloween.
+Teuflischer in Schwarz. /Accessoire"
+14201,"","A pumpkin decoration for Halloween.
+Gold to ward off evil spirits! /Accessory","萬聖節裝飾的南瓜。
+用金色光芒驅除邪靈！／飾品","","할로윈에 장식하는 호박.
+황금의 반짝임으로 악령퇴치! /액세서리","Eine Kürbis-Deko zu Halloween. In Gold
+vertreibt sie böse Geister! /Accessoire"
+11901,"","A doll of the puppet Digimon Pumpkinmon.
+Perhaps it'll do a jig? /Accessory","布偶型數碼寶貝的南瓜獸娃娃。
+不會動喔？／飾品","","퍼펫형 디지몬 펌프몬의
+문자 그대로 인형. 움직이지 않는답니다? /액세서리","Puppe des Puppen-Digimon Pumpkinmon.
+Vielleicht kann sie tanzen? /Accessoire"
+12001,"","Replica of a mushroom with digital
+particles. Don't give it up! /Accessory","有數碼粒子的蘑菇複製品。
+就算哭也不給你！／飾品","","디지털 입자가 있는 버섯의 레플리카.
+조르더라도 주지 말도록! /액세서리","Kopie eines Pilzes mit digitalen
+Partikeln. Behalte ihn! /Accessoire"
+12002,"","Replica of an HP+10 mushroom. Cannot
+be used at the Farm. /Accessory","能讓體力+10蘑菇複製品。
+不能用在農場／飾品","","체력을 +10 올리는 버섯의 레플리카.
+팜에서 사용할 수는 없다 /액세서리","Kopie eines Pilzes mit +10 TP. Auf der
+Farm nicht nutzbar. /Accessoire"
+12003,"","Replica of a suspicious poison mushroom.
+Wouldn't recommend eating it. /Accessory","外觀很奇怪的毒菇複製品。
+不推薦食用／飾品","","척 봐도 수상한 독버섯의 레플리카.
+먹지 않기를 권한다 /액세서리","Kopie eines suspekten Giftpilzes.
+Koste ihn lieber nicht. /Accessoire"
+14301,"","Replica of a sparkling golden mushroom.
+To be clear: Do. Not. Eat. /Accessory","散發金色光芒的蘑菇複製品。
+當然不能吃／飾品","","금빛으로 찬란한 버섯의 레플리카.
+물론 식용 불가 /액세서리","Kopie eines funkelnden goldenen Pilzes.
+Nicht zum Verzehr geeignet. /Accessoire"
+12101,"","Your average Santa Claus hat. Christmas
+time is here! /Accessory","普通的聖誕帽。
+聖誕節必備道具／飾品","","이른바 보통 산타 모자.
+크리스마스의 기본 아이템 /액세서리","Eine typische Weihnachtsmannmütze.
+Es weihnachtet! /Accessoire"
+12102,"","The hat of Dark Santa Claus. Ho ho...
+horrible? /Accessory","「黑聖誕老人」的聖誕帽。
+有沒有壞小孩啊？／飾品","","「검은 산타클로스」의 산타 모자.
+나쁜 아이는 어디 있느냐? /액세서리","Die Mütze des bösen Weihnachtsmanns.
+Gruslig? /Accessoire"
+12103,"","A green Santa Claus hat. Green is a
+Christmas color too, right? /Accessory","綠色的聖誕帽。綠……聖誕快樂……
+綠色聖誕……沒有這種聯想／飾品","","초록색 산타 모자. 녹색… 메리 크리스마스…
+메리 크리스마스가 연상되지 않는다… /액세서리","Eine grüne Weihnachtsmannmütze. Grün
+ist doch weihnachtlich? /Accessoire"
+14401,"","A white present box. Bet a tasty cake
+would look good in there. /Accessory","白色禮物盒。
+裡面好像會放蛋糕的顏色／飾品","","하얀 선물 상자.
+케이크가 들어있을 법한 색조 /액세서리","Ein weißes Geschenk. Darin würde
+sich eine Torte gut machen. /Accessoire"
+14402,"","A red present box. Its contents are up
+to your imagination. /Accessory","紅色禮物盒。
+內容物就請自行想像／飾品","","붉은 선물 상자.
+무슨 선물인지는 상상에 맡기겠습니다 /액세서리","Ein rotes Geschenk. Der Inhalt ist
+deiner Fantasie überlassen. /Accessoire"
+14501,"","A present box. Might even look good
+hanging off the tree! /Accessory","禮物盒。
+最適合用來裝飾聖誕樹！／飾品","","선물 상자.
+트리 장식에 최적! /액세서리","Ein Geschenk. Würde sogar am Baum
+gut aussehen! /Accessoire"
+12201,"","A crown fit for a king. Those who don it
+become the Digimon King. /Accessory","國王戴的頭冠。
+戴上這個，就是數碼寶貝之王／飾品","","임금님이 쓸 법한 모자.
+이걸 쓰면 디지몬 킹 /액세서리","Eine Krone für einen König. Wer sie
+aufsetzt, wird Digimon-König. /Accessoire"
+12301,"","A golden crown. The magnificent sheen
+is proof of royalty! /Accessory","金色的王冠。光輝的金色是王者的證明！
+／飾品","","금색 왕관. 당당하게 빛나는 패자의 증표!
+/액세서리","Eine goldene Krone. Der tolle Glanz ist
+ein Beweis für blaues Blut! /Accessoire"
+12302,"","A silver crown. Proof you've moved on up
+in the world. Good for you! /Accessory","銀色的王冠。告別中遊的證明。
+這樣也很厲害了喔！／飾品","","은색 왕관. 중수에서 졸업한 증표.
+여기까지 온 것도 충분히 굉장해! /액세서리","Eine silberne Krone. Ein Beweis für
+deinen Erfolg. Gut gemacht! /Accessoire"
+12303,"","A bronze crown. Proof you're not still
+some newbie. Time to shine! /Accessory","銅色的王冠。告別新手的證明。
+接下來才開始！／飾品","","구리색 왕관. 초보자를 졸업한 증표.
+지금부터가 진짜야! /액세서리","Eine bronzene Krone. Ein Beweis, dass du
+kein Neuling bist. Super! /Accessoire"

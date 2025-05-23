@@ -1,0 +1,9 @@
+ID,Japanese,English,Chinese,EnglishCensored,Korean,German
+0,"","None","無","","없음","–"
+1,"","Self","自己","","자신","Selbst"
+2,"","Single Ally","我方單體","","아군 1체","Ein Verbündeter"
+3,"","Single Ally/All Allies","我方單體全體","","아군 1체/전체","Ein/alle Verbündeten"
+4,"","Single Foe","敵方單體","","적 1체","Ein Gegner"
+5,"","All Foes","敵方全體","","적 전체","Alle Gegner"
+6,"","Single Foe/Single Ally","敵我雙方單體","","아군 1체/적 1체","Ein Gegner/Verbündeter"
+7,"","All","全體","","전체","Alle"

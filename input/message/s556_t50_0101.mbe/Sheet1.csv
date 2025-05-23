@@ -1,0 +1,92 @@
+ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
+1,2020,"","(It's a case from an electricity company manager.
+I'll contact him and ask for details.)","（來自電力公司職員的委託啊……
+　總之先連絡，聽聽看詳細的委託內容吧）","","(전력회사의 직원이 보낸 의뢰…인가.
+ 일단 연락을 취해서 의뢰 내용을 자세하게 들어보자)","(Das ist ein Fall von einem Manager eines
+Elektrizitätsunternehmens. Ich werde ihn
+kontaktieren und um genauere Infos bitten.)"
+2,7341,"","Are you from Hudie? I'm the client.","你是hudie的人吧。
+我就是委託人。","","후디에 쪽 분이시죠.
+제가 의뢰인입니다.","Gehörst du zu Hudie? Ich bin der Klient."
+3,7341,"","There have been lots of power outages around town
+lately, as I'm sure you know.","我想你們駭客應該也知道，
+最近街上頻繁地發生了停電。","","요즘 거리에 정전이 빈발하고 있는 건
+당신들 해커도 알고 계시겠죠","In der Stadt gab es in letzter Zeit viele
+Stromausfälle, wie du sicher weißt."
+4,7341,"","I discovered a malfunction at the Power Plant
+Server and sent some people to investigate, but
+something stopped them.","我們認為是發電廠伺服器出現異常，
+所以打算派職員前往調查，
+卻被不知名人士阻礙了。","","당사에서는 발전소 서버에 이상이 있다고 보고
+직원을 보내 조사하려고 하는데
+누군가가 막고 있어서요","Beim Server des Kraftwerks habe ich eine
+Fehlfunktion festgestellt und Leute hingeschickt,
+aber etwas hat sie aufgehalten."
+5,7341,"","I don't know what that something is, but it
+attacks anyone who accesses the server.","我只能說是不知名人士。
+因為只要是為了調查而登入，
+就會受到攻擊。","","누군가가, 라고 말할 수밖에 없어요.
+조사하려고 접속하면
+공격을 받거든요","Ich weiß nicht, was es ist, aber es greift jeden
+an, der auf den Server zugreift."
+6,7341,"","We don't have any security systems like that, so
+we can only conclude that something is attacking
+us intentionally.","我們並沒有設定這種防範措施，
+所以認定是不知名人士意圖性地攻擊。","","그런 보안은 깔아두지 않으니까
+누군가가 의도적으로 공격하고 있다고 봐요","Wir haben keine derartigen Sicherheitssysteme und
+können nur annehmen, dass jemand uns mit
+Absicht angreift."
+7,7341,"","No, I don't suspect it's a hacker, but I can't
+rule out the possibility.","不，我們並不是在懷疑駭客。
+但由於無法確定是何方神聖的所作所為，
+所以也不能說完全沒有懷疑。","","아니요, 해커를 의심하는 건 아니에요.
+다만, 누구 짓인지 특정할 수 없으니까
+완전히 의심하지 않을 수는 없지만요","Nein, ich nehme nicht an, dass es ein Hacker ist,
+aber ich kann es nicht ausschließen."
+8,7341,"","Of course I don't suspect you. That's why I've
+come to you for help.","當然，並沒有懷疑你們。
+所以才會像這樣委託你們。","","물론 당신은 의심하지 않습니다.
+그러니까 이렇게 의뢰를 한 거예요","Natürlich verdächtige ich dich nicht. Ich bin
+zu dir gekommen, um dich um Hilfe zu bitten."
+9,7341,"","I need you to access the Power Plant Server and
+find out what's causing the malfunction.","能不能用你們的力量侵入發電廠伺服器，
+並調查出伺服器異常的原因呢？","","당신의 힘으로 발전소 서버에 침입해서
+서버 이상의 원인을 알아내기 위해
+조사를 해줄 수 있을까요","Du musst auf den Server des Kraftwerks zugreifen
+und herausfinden, was die Fehlfunktion verursacht."
+10,7341,"","I'll see that you're well paid for the task. Will
+you do it?","我們會支付多一點的報酬，
+希望你們務必接受這個委託。","","보수는 넉넉히 드릴 테니
+부디 의뢰를 맡아주셨으면 합니다","Ich werde dafür sorgen, dass du für den Auftrag
+gut bezahlt wirst. Übernimmst du ihn?"
+11,7341,"","Thank you! Our company's failure to resolve these
+power outages is a major threat to our reputation.","是嗎，你願意接受嗎！
+畢竟若不能解決頻繁的停電情況，
+會演變成有損公司顏面的大事件。","","그런가요, 맡아주시겠나요!
+여하튼 빈발하는 정전이 해소되지 않으면
+당사의 면목이 걸린 큰 문제가 될 테니까요","Danke! Weil es unserem Unternehmen nicht gelingt,
+die Stromausfälle zu beenden, ist unser Ruf
+ernsthaft in Gefahr."
+12,7341,"","This case is strictly unofficial. Please keep your
+investigation secret and ensure that no
+information is leaked to the public.","還有，這是一個非公開的委託。
+關於調查的事，希望別洩漏了資訊。
+請你秘密進行。","","또한, 이건 어디까지나 비공식적인 의뢰입니다.
+조사에 대해 외부에 정보를 누설하지 않도록
+어디까지나 비밀리에 부탁드립니다","Dieser Fall ist ganz inoffiziell. Bitte halte die
+Ermittlung geheim und lass keine Informationen
+an die Öffentlichkeit kommen."
+13,7341,"","You will of course be compensated for this
+additional requirement.","當然，報酬也會因此提高的。
+萬事拜託了。","","물론 그만큼 보수는 올려드릴 테니
+잘 부탁드려요","Für diesen zusätzlichen Aspekt wirst du natürlich
+kompensiert."
+14,2020,"","(The power plant... I wonder if Arata's operation
+has anything to do with it?)","（發電廠……是和新他們的作戰影響到了嗎？）","","(발전소……아라타 일행과의 작전때문에 
+ 영향을 받은 걸까?)","(Das Kraftwerk ... Ich frage mich, ob Aratas Plan
+etwas damit zu tun hat?)"
+15,2020,"","(Whatever it is, I need to investigate the cause.
+I'll go to the Power Plant Server.)","（總之，先查出原因最要緊。
+　前往發電廠伺服器看一看吧）","","(어쨌든 원인을 알아보는 게 먼저다.
+ 발전소 서버에 가보자)","(Was es auch sein mag, ich muss die Ursache
+ergründen. Ich gehe zum Server des Kraftwerks.)"

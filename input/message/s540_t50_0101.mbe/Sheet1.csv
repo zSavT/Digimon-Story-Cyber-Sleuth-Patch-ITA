@@ -1,0 +1,87 @@
+ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
+1,2020,"","(It's a case from a Kamishiro subcontractor. I'll
+contact him and ask for details.)","（委託人是神代的外包商嗎……
+　總之先連絡他，了解詳細的委託內容吧）","","(카미시로의 하청업자에게서 온 의뢰…인가.
+ 일단 연락을 취해서 의뢰 내용을 자세하게 들어보자)","(Das ist ein Fall von einem Kamishiro-Arbeiter.
+Ich werde ihn kontaktieren und um genauere
+Informationen bitten.)"
+2,7220,"","Hello there. Are you a hacker with Hudie?","呦，你好，
+你就是hudie的駭客嗎？","","여어, 안녕
+네가 후디에의 해커니?","Hallo. Bist du ein Hacker von Hudie?"
+3,7220,"","My boss told me to find a hacker to handle this
+problem, but will Hudie really take on any case?","上頭的人交待說，這類雜務就交給你們駭客，
+聽說你們hudie只要委託，
+什麼事都願意做，這是真的嗎？","","이런 류의 잡일은 해커에게 맡기라고 위쪽에서 그러던데
+너희 후디에는 의뢰하면
+뭐든 해준다는 게 정말이야?","Mein Chef hat mir aufgetragen, einen Hacker zu
+finden, der das Problem löst. Nimmt Hudie wirklich
+alle Fälle an?"
+4,7220,"","So you'll take on any problem you think you can
+solve? That's good to hear! We're in quite a
+difficult situation.","喔，只要是駭客能解決的事都行嗎。
+真可靠，太好了！說實話，我們真的很困擾啊。","","호오, 해커가 해결할 수 있는 일이라면 뭐든지라. 든든하네.
+다행이다! 사실은 정말 곤란했거든","Du übernimmst also jedes Problem, von dem du
+glaubst, dass du es lösen kannst? Gut! Wir sind
+in einer schwierigen Lage."
+5,7220,"","We don't know the cause, but we've had a series of
+complaints about a bad smell coming from garbage
+data that has been illegally dumped in EDEN.","不知道原因是什麼，
+總之最近EDEN中不斷出現非法遺棄垃圾資料，
+而且還發出＂惡臭＂的事件。","","뭐가 원인인지 모르지만, 요즘 EDEN 내에서
+불법투기된 쓰레기 데이터에서 ""악취""가 난다고
+민원이 잇달아서","Wir wissen nicht, warum, aber es gab mehrere
+Beschwerden über stinkenden, illegal deponierten
+Datenmüll in EDEN."
+6,7220,"","They want us to find and remove it.","希望你能幫忙找出那惡臭根源的資料，
+然後將資料刪除。","","악취 소동의 근원이 되는 쓰레기 데이터를 찾아서
+제거해줬으면 해","Wir sollen den Müll finden und beseitigen."
+7,2020,"","???","？？","","??","???"
+8,7220,"","I don't understand how data could possibly give
+off a bad smell.","啊，你當然會覺得很怪，
+資料居然還會傳出惡臭，很怪吧？","","그래, 물론 데이터에서 악취가 난다니
+이상한 이야기지?","Ich verstehe nicht, wie Daten stinken sollten."
+9,7220,"","It's not as if there could be any real garbage in
+EDEN, but all the complaints have said that's what
+it smells like.","說起來，這EDEN裡不可能會出現廚餘，
+但申訴很明確地表示，是跟廚餘類似的味道。","","애초에 EDEN 안에 썩는 쓰레기가 있을 리 없어.
+하지만, 클레임에 따르면 확실히 그런 쓰레기에 가까운
+냄새가 난대","Es ist ja nicht so, als ob es in EDEN echten Müll
+geben könnte, aber laut der Beschwerden
+riecht es so."
+10,7220,"","I suspect there's some error data disrupting the
+EDEN avatars' simulated sense of smell.","我想可能是混入了會讓EDEN化身設定的
+模擬感覺……會讓模擬嗅覺出錯的資料吧……","","아마 EDEN 아바타에 설정되어있는
+유사감각…그중에 후각을 이상하게 만드는
+에러 데이터가 어딘가에 섞여 들어간 것 같은데…","Ich nehme an, dass es fehlerhafte Daten gibt, die
+den simulierten Geruchssinn von EDEN-Avataren
+stören."
+11,7220,"","We try to make the senses in EDEN as realistic as
+possible. Although I think we could do without
+recreating bad smells.","但就算EDEN以追求真實感受為賣點，
+也不用連惡臭也一起重現吧……","","리얼한 감각이 세일즈 포인트인 EDEN이라고 해도
+이런 악취까지 재현하지는 않아도 될 텐데 말이지…","Wir versuchen, die Sinne in EDEN so realistisch
+wie möglich nachzuempfinden. Obwohl man Gestank
+nicht unbedingt braucht."
+12,7220,"","But anyway, I need you to find the cause as soon
+as possible. The constant complaints are starting
+to get in the way of our work.","總之情況就是這樣，
+希望你能找出原因來，
+一直被申訴也會影響到我們的工作。","","어쨌든, 그렇게 되었으니까
+부디 원인을 알아내줘.
+민원에 쫓겨서 우리도 일에 영향을 받고 있거든","Egal, du musst jedenfalls die Ursache so schnell
+wie möglich finden. Die ständigen Beschwerden
+behindern unsere Arbeit."
+13,7220,"","The complaints all state that the bad smell is
+coming from somewhere in EDEN's public area.","申訴聞到惡臭的地點，
+似乎是在EDEN公共區域的某處。","","악취가 난다는 클레임이 들어온 건
+EDEN의 공공 에이리어의 어딘가래","Laut der Beschwerden kommt der Gestank von einem
+Teil des öffentlichen Bereichs von EDEN."
+14,7220,"","Let me know if you find anything.","就請你馬上進行調查吧。","","바로 조사를 부탁할게","Sag Bescheid, falls du etwas findest."
+15,2020,"","(A bad smell in cyberspace... What a weird case.)","（電腦空間的惡臭……真是奇妙的委託）","","(전뇌 공간의 악취 소동…이라니 묘한 의뢰다)","(Gestank im Cyberspace ... Was für ein seltsamer
+Fall.)"
+16,2020,"","(EDEN's public area... He must mean the Community
+Area. I'll head right over.)","（EDEN的公共區域……
+　總之先去看看吧）","","(EDEN의 공공 에어리어라면…커뮤니티 에어리어인가.
+ 우선 가보자)","(Der öffentliche Bereich in EDEN ... Er meint
+sicher den Gemeinschaftsbereich. Ich gehe gleich
+hin.)"

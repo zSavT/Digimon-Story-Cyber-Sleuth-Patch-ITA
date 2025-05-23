@@ -1,0 +1,84 @@
+ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
+1,3045,"","And so you want me to crack the code?","嗯，所以希望我可以解讀這個暗號是吧。","","흐응, 그래서 내가 암호 해석을 해줬으면 하는 거네","Also willst du, dass ich den Code knacke?"
+6,3045,"","Okay. Let me take a look.","我知道了。可以唷，給我看看。","","알았어. 좋아, 보여줘","Okay. Lass mich mal sehen."
+7,3045,"","I see...","……原來如此。","","……과연","Verstehe ..."
+8,3045,"","Do I understand it?","你問我知道嗎？","","아느냐고?","Ob ich das verstehe?"
+9,3045,"","Of course not. I have no idea what these
+characters are.","我才不知道這種東西，
+根本找不到是哪種文字。","","알 리가 없잖아, 이런 거.
+무슨 문자인지 짐작도 할 수 없는걸","Natürlich nicht. Ich habe keine Ahnung, was diese
+Zeichen darstellen."
+10,3045,"","But I don't actually need to.","……但就是說，只要知道這個
+“是什麼東西”就行了吧？","","…하지만 요컨대 이게 ""무엇인지""만 알면 되는 거지?","Aber das ist eigentlich nicht nötig."
+11,2020,"","???","？？？","","???","???"
+12,3045,"","I glanced at the code, and it looks like the text
+entry field is linked to a certain area.","我迅速的確認了一下密碼了……
+這個輸入對話框，似乎設計成
+會連接到某個區域的連結喔。","","잠깐 코드를 확인해봤는데…
+이 입력 다이얼로그는 어딘가에 있는 에어리어로
+링크가 연결되어 있는 것 같아","Ich habe mir den Code angesehen, anscheinend
+ist das Textfeld mit einem bestimmten Bereich
+verlinkt."
+13,3045,"","If you crack the code and enter the correct word,
+you'll get a URL that leads somewhere.","只要解開暗號，輸入正確的文字後，
+就能夠得到通往哪裡的URL。","","암호를 해석해서 올바른 단어를 입력하면
+어딘가의 URL을 입수할 수 있는 거지","Wenn du den Code knackst und den richtigen Begriff
+eingibst, erhältst du eine URL, die irgendwohin
+führt."
+14,3045,"","I'm guessing it's where the treasure's hidden?","那邊，肯定就是藏著寶藏的地方了吧？","","거기가 분명 보물이 숨겨진 장소겠지?","Ich schätze mal, zum Versteck des Schatzes?"
+15,3045,"","Why so worried? There's nothing to worry about,
+and there's no need to break the code.","你在煩惱什麼？　沒什麼需要好煩惱的吧
+因為根本不需要解讀呀。","","뭘 고민하고 있어? 고민할 필요는 전혀 없잖아
+해독할 필요따윈 없으니까","Du brauchst dir keine Sorgen machen, es ist
+nämlich nicht nötig, den Code zu knacken."
+16,2020,"","???","？？？","","???","???"
+17,3045,"","Breaking codes is for police and detectives. We're
+hackers.","解讀是警察或是偵探的工作。
+我們……可是駭客唷。","","해독하는 건 경찰이나 탐정의 일.
+우리는……해커야","Codes zu knacken ist ein Job für die Polizei und
+Ermittler; wir sind Hacker."
+18,3045,"","Our goal isn't to break the code, it's to find
+where the data is hidden. So...","目的不是解讀暗號，而是……
+找出隱藏數據的地方吧。那麼――","","목적은 암호 해독이 아니라 그 다음…
+숨겨진 데이터가 있는 장소를 발견하는 거잖아 그렇다면――","Unser Ziel ist nicht, den Code zu knacken, sondern
+das Versteck der Daten zu finden. Also ..."
+19,3045,"","I just need to force it open and steal the link
+data.","只要硬是“撬開”連結數據，
+成功盜出的話就行了吧。","","억지로 ""비틀어서"" 링크 데이터를 훔치면
+되는 거지","... muss ich das Ding nur aufbrechen und die
+Linkdaten stehlen."
+20,3045,"","Okay, I've got the URL.","好了，URL，已經拿到了唷。","","자, URL. 입수했어","Okay, ich habe die URL."
+21,2020,"","!!!","！！！","","!!!","!!!"
+22,1392,"","Wow, that was amazing!","不虧是艾莉卡，真是精彩的本事呀！","","역시 에리카, 깔끔한 솜씨네!","Wow, das war fantastisch!"
+23,3045,"","Every hacker can do this, but I'm probably the
+fastest.","這種只要是駭客誰都會啦。
+但論速度……我可能是最快的也說不定呢。","","이런 건 해커라면 누구라도 할 수 있어.
+속도는……내가 최고일지도 모르지만","Jeder Hacker kann das, aber ich bin wahrscheinlich
+die Schnellste."
+24,3045,"","I've sent the URL to that PC over there.","我已經把URL傳到那台電腦了。","","거기 PC로 URL을 보내둘테니까","Ich habe die URL an den PC da drüben geschickt."
+25,3045,"","But you should know, I didn't do that for free.","我先說喔，
+剛才的工作，可不是做白工的啊。","","말해두겠지만
+이번 일은 공짜가 아니라구","Aber du solltest wissen, dass ich das nicht
+aus Spaß an der Freude getan habe."
+26,3045,"","Bring me something sweet later.","等一下買點什麼甜食過來。","","나중에 뭔가 단 것이라도 사와","Bring mir später was Süßes vorbei."
+27,3045,"","Although I did enjoy the change of pace.","不過……是有讓我轉換一點心情。","","뭐…괜찮은 기분전환은 되었지만","Wobei mir die Abwechslung ganz gut getan hat."
+28,1392,"","I hope we can all get back to solving cases like
+this soon!","希望可以快點像這樣子，
+跟大家一起處理委託就好了呢，艾莉卡！","","빨리 다시 이렇게 다 같이
+의뢰를 해결하게 됐으면 좋겠네, 에리카!","Ich hoffe, wir können bald alle wieder solche
+Fälle lösen!"
+29,3045,"","Me too.","…………嗯。","","…………응","Ich auch."
+30,3045,"","Hurry up and contact Makiko Date. I'm sure she
+won't want to be kept waiting.","快去跟伊達真希子聯絡吧。
+那個人，如果讓她等的話，一定會很吵的。","","자, 빨리 다테 마키코에게 연락해.
+그 사람 기다리게 했다간 틀림없이 시끄러울걸, 분명","Beeil dich und kontaktiere Makiko Date. Ich bin
+sicher, sie möchte nicht, dass du sie warten
+lässt."
+31,3015,"","You cracked the code?! Great work!","喲，暗號解讀完成了嗎？
+幹得好啊！","","오, 암호를 해독한건가?
+제법이잖아, 너!","Du hast den Code geknackt?! Gute Arbeit!"
+32,3015,"","Send me the URL! I'll meet you there!","那麼，也把URL傳給我吧！
+到現場匯合吧！","","그러면 이쪽으로도 URL 보내둬!
+현장에서 합류하자!","Schick mir die URL! Wir treffen uns vor Ort!"
+33,2020,"","(I'll access the URL and meet Date.)","（連結上URL，跟伊達小姐匯合吧……）","","(URL에 엑세스해서 다테 씨와 합류하자…)","(Ich werde die URL abrufen und mich mit Date
+treffen.)"

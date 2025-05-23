@@ -1,0 +1,428 @@
+ID,Japanese,English,Chinese,EnglishCensored,Korean,German
+1,,"Hai ottenuto un
+""Pass gratuito"".",獲得【通行車票】,,"【프리패스】
+를 입수했습니다.","Du hast eine „Freikarte“
+erhalten."
+2,,Tutorial sul Campo 1,新手教學1,,필드 튜토리얼 1,Praxisanleitung 1
+3,,"Questo è un mondo digitale creato da un
+programma per computer.",這裡是由電腦程式所創造出來的電腦世界。,,"이곳은 컴퓨터 프로그램에 의해서
+창조된 전뇌세계입니다.","Dies ist eine digitale Welt, die von einem
+Computerprogramm erschaffen wird."
+4,,"Puoi attraversare un varco da un
+punto di accesso situato nel mondo reale.","可以透過現實世界中所設置的登入地點
+穿越出入口來到電腦世界。",,"현실세계에 설치된 액세스 포인트로부터
+게이트를 통해 올 수 있습니다.","Zugangspunkte in der echten Welt fungieren als
+Tor."
+5,,"Se scegli di disconnetterti,
+tornerai nel mondo reale.","只要選擇登出
+就可以回到現實世界",,"로그아웃을 선택하면
+원래의 현실세계로 돌아갈 수 있습니다.","Wenn du dich ausloggst, kehrst du in die echte
+Welt zurück."
+6,,Tutorial sul campo 2,新手教學2,,필드 튜토리얼 2,Praxisanleitung 2
+7,,Nel mondo digitale ci sono delle DigiFarm dove puoi cambiare la tua squadra.,電腦世界裡有可以整編隊伍的數碼農場,,"전뇌세계에는 파티 편성을 변경할 수 있는
+디지팜이 있습니다.","In der Digitalen Welt gibt es Digifarmen, auf denen du
+deine Gruppe verändern kannst."
+8,,"Una volta che hai raccolto dati di Digimon scansionati, vai a una DigiFarm e prova a cambiare il tuo party!","掃描完的數碼寶貝數據累積到一定程度後
+就回到數碼農場裡試著重新整編隊伍吧",,"스캔한 디지몬 데이터가 쌓이면
+디지팜에 가서
+파티 편성을 변경해 봅시다.","Wenn du Digimon-Scandaten gesammelt hast, versuche
+auf einer Digifarm deine Gruppe zu verändern."
+9,,Tutorial sul Campo 3,新手教學3,,필드 튜토리얼 3,Praxisanleitung 3
+10,,"Sembra che tu abbia raccolto dei
+dati di scansione Digimon.",數碼寶貝的掃描數據已經累積完成了,,"디지몬의 스캔 데이터가
+모여있는 것 같습니다.",Anscheinend hast du Digimon-Scandaten gesammelt.
+11,,"Vai in una DigiFarm e prova ad aggiungere il
+Digimon scansionato alla tua squadra!","回到數碼農場
+將掃描完的數碼寶貝加到隊伍裡吧！",,"디지팜에 가서
+스캔한 디지몬을
+파티에 넣어봅시다!","Besuche eine Digifarm und füge das gescannte
+Digimon zu deiner Gruppe hinzu."
+12,,è stato aggiunto al Digifarm!,已經加入農場島了！,,이 팜에 추가되었습니다!, wurde zur Farm hinzugefügt!
+13,,"Hai ottenuto un
+""Digivice"".",獲得【Digivice】,,"【디지바이스】
+를 입수했습니다.",Du hast ein „Digivice“ erhalten.
+14,,Il varco del biglietto è chiuso.,剪票口閘門關閉中,,개찰구는 닫혀 있다.,Die Ticketschranke ist geschlossen.
+15,,"Hai usato il tuo Pass Gratuito per
+aprire il tornello.","使用通行車票
+開啟剪票口閘門",,"프리패스를 사용해
+개찰구를 열었다.","Du hast deine Freikarte benutzt, um die
+Ticketschranke zu öffnen."
+16,,"C'è un semaforo rosso!
+Non puoi attraversare ora!","紅燈
+還不能過馬路",,"적신호다.
+아직 건널 수 없어.",Die Ampel ist rot! Du kannst jetzt nicht rüber!
+17,,"ATTENZIONE
+Se scendi dai binari, non potrai
+tornare alla piattaforma.","～注意～
+跳下鐵軌後
+無法重回月台",,"                 ～ 주의 ～
+               선로로 내려오면
+홈으로 돌아갈 수 없게 됩니다","                 ACHTUNG
+Wenn du der Strecke folgst, kannst du nicht
+zur Plattform zurückkehren."
+18,,Non puoi comprare questo nella demo.,"試玩版
+無法購物",,"평가판에서는
+쇼핑을 할 수 없습니다.",Dies kannst du in der Demo nicht kaufen.
+19,,Scansione completata.,掃描完畢,,스캔을 완료했다.,Scan abgeschlossen.
+22,,"Hai ottenuto la Parola chiave ""[2 Kowloon]""!",獲得關鍵字【[2Kowloon]】！,,"키워드【[2쿠롱]】
+을 획득!",Du hast das Stichwort „[2Kowloon]“ erhalten!
+23,,"Hai ottenuto ""???"".",獲得【？？？】,,"【？？？】
+을 입수했습니다.",Du hast „???“ erhalten.
+24,,Seguiamo Nokia!,追上諾奇雅,,노키아를 쫓아가자.,Folgen wir Nokia!
+25,,"Non puoi andare in questa strada.
+Dovremo trovare un'altra strada.","現在過不去
+找別條路吧",,"지금은 지나갈 수 없어.
+다른 길을 찾아보자.","Du kannst diese Straße nicht entlanggehen.
+Wir müssen eine andere finden."
+26,,Ce l'ha Arata.,新在等待,,아라타가 기다리고 있다.,Arata kann weiterhelfen.
+32,,"Premi il pulsante A davanti al
+distributore automatico accanto a te.","請在隔壁的自動販賣機前
+按下A鍵",,"주변 자판기 앞에서
+A 버튼을 눌러주세요","Stell dich vor den Verkaufsautomaten neben dir und
+drücke den A-Knopf."
+33,,Controlla la bacheca dei casi all'agenzia.,請回報至事務所裡的委託板,,"사무실에 있는
+의뢰보드에 보고해주세요.",Sieh auf dem Schwarzen Brett im Büro nach.
+37,,Hai ottenuto il cellulare del ragazzo figo.,獲得道具「帥氣男子的手機」,,아이템「훈남의 핸드폰」을 입수했다.,Du hast das Handy des heißen Typen erhalten.
+38,,Hai dato il cellulare del belloccio al belloccio.,將「帥氣男子的手機」交給帥氣的男子,,잘생긴 남자에게「훈남의 핸드폰」을 건넸다.,Du hast dem heißen Typen sein Handy gegeben.
+39,,Hai ottenuto la tessera dell'associazione pugilistica.,獲得道具「拳擊協會人員的名片」,,아이템「복싱협회 사람의 명함」을 입수했다.,Du hast die Karte vom Boxverband erhalten.
+40,,Hai stracciato la carta.,主角撕破了名片,,주인공은 명함을 찢어버렸다.,Du hast die Karte zerrissen.
+41,,"Hai convinto Gaomon.
+Riferisci al cliente.","成功說服迦奧獸
+向委託人報告吧",,"가오몬의 설득에 성공했다.
+의뢰인에게 보고하자.",Du hast Gaomon überzeugt. Melde das dem Klienten.
+42,,Dovremmo tornare da Hagurumon.,回到齒輪獸身邊,,톱니몬이 있는 곳으로 돌아가자.,Wir sollten zu Hagurumon zurückkehren.
+43,,Hai inserito l'ingranaggio in Hagurumon.,為齒輪獸裝上齒輪,,주인공은 톱니몬에게 톱니바퀴를 끼웠다.,Du hast das Zahnrad in Hagurumon eingefügt.
+44,,Hai ottenuto l'osso di Ogremon.,獲得奧加獸的骨頭,,우가몬의 뼈를 입수했다.,Du hast Ogremons Knochen erhalten.
+45,,Hai consegnato l'osso di Ogremon.,交出奧加獸的骨頭,,우가몬의 뼈를 건네주었다.,Du hast Ogremons Knochen abgegeben.
+46,,Hai ottenuto i noodle fatti in casa di Growlmon.,獲得古拉獸的手作拉麵,,그라우몬의 수제 라면을 입수했다.,Du hast Growlmons selbstgemachte Nudeln erhalten.
+47,,Hai consegnato i noodles fatti in casa di Growlmon.,交出古拉獸的手作拉麵,,그라우몬의 수제 라면을 건네주었다.,"Du hast Growlmons selbstgemachte Nudeln
+vorbeigebracht."
+48,,Hai ottenuto i chicchi di caffè.,獲得咖啡豆,,커피콩을 입수했다.,Du hast die Kaffeebohnen erhalten.
+49,,Hai ottenuto la maschera degli Zaxon.,獲得Zaxon的面具,,잭슨 가면을 입수했다.,Du hast die Zaxon-Maske erhalten.
+50,,[p] ha ottenuto dati sul Digivice.,[p]用Digivice接收了資料,,[p]의 디지바이스가 데이터를 받았다.,[p] hat Daten auf dem Digivice empfangen.
+1000,,I dati 1 sono corrotti.,DATA1已毀損,,DATA1이 망가져 있습니다.,Datei 1 ist beschädigt.
+1001,,Data 2 è corrotta.,DATA2已毀損,,DATA2가 망가져 있습니다.,Datei 2 ist beschädigt.
+1002,,Il Data 3 è corrotto.,DATA3已毀損,,DATA3이 망가져 있습니다.,Datei 3 ist beschädigt.
+1003,,Salvataggio in corso...,保存中,,저장하고 있습니다.,Speichern ...
+1004,,Salvataggio riuscito.,保存完畢,,저장을 완료했습니다.,Erfolgreich gespeichert.
+1005,,"Non c'è spazio sufficiente.
+Elimina o sovrascrivi dei dati di salvataggio.","保存空間不足
+請刪除或覆蓋保存資料",,"공간이 부족합니다.
+저장 데이터를 삭제하거나 덮어쓰기 해주세요.","Zu wenig Speicherplatz.
+Bitte lösche oder überschreibe Speicherdaten."
+1006,,"Non c'è spazio sufficiente.
+Elimina o sovrascrivi alcuni dati di salvataggio.","保存空間不足
+請刪除或覆蓋其他保存資料",,"공간이 부족합니다.
+다른 저장 데이터를 삭제하거나 덮어쓰기 해주세요.","Zu wenig Speicherplatz.
+Bitte lösche oder überschreibe Speicherdaten."
+1007,,Salvataggio fallito.,保存失敗,,저장에 실패했습니다.,Speichern fehlgeschlagen.
+1008,,Caricamento...,讀取中,,불러오고 있습니다.,Ladevorgang ...
+1009,,Caricamento completato.,讀取完畢,,불러오기가 완료되었습니다.,Erfolgreich geladen.
+1010,,Caricamento fallito.,讀取失敗,,불러오기에 실패했습니다.,Laden fehlgeschlagen.
+1011,,File corrotto.,檔案毀損,,파일이 깨져있습니다.,Datei ist beschädigt.
+1012,,Eliminazione dati salvati...,正在刪除保存資料,,저장 데이터를 삭제하고 있습니다.,Lösche Speicherdaten ...
+1013,,Eliminazione completata.,刪除完畢,,삭제가 완료되었습니다.,Erfolgreich gelöscht.
+1014,,Eliminazione fallita.,刪除失敗,,삭제에 실패했습니다.,Löschen fehlgeschlagen.
+1015,,"Sono presenti contenuti scaricati che non sono leggibili.
+Si prega di riscaricarli dal Nintendo eShop.","找不到可正常讀取的下載內容
+請從Nintendo eShop中再次下載",,"정상적으로 읽지 못한 다운로드 콘텐츠가 있습니다
+「닌텐도 e숍」에서 다시 다운로드하십시오","Heruntergeladener Inhalt nicht lesbar. Bitte noch
+einmal vom Nintendo eShop herunterladen."
+1200,,Non puoi spostare Digimon nello stesso posto.,無法移動至同一個場所,,같은 장소에는 디지몬을 이동할 수 없습니다.,"Du kannst Digimon nicht an denselben Ort
+verschieben."
+1201,,Supera la Memoria di Gruppo e non può essere spostato.,超過隊伍上限，無法移動,,파티 메모리를 초과하기 때문에 이동할 수 없습니다.,"Übersteigt den Gruppenspeicher und kann nicht
+verschoben werden."
+1202,,"Questa azione rimuoverebbe dei Digimon dal Party,
+quindi questo Digimon non può essere selezionato.","因隊伍中將沒有數碼寶貝
+故無法選擇此數碼寶貝",,"파티에 디지몬이 없어지기 때문에
+이 디지몬은 선택할 수 없습니다.","Dies würde alle Digimon aus der Gruppe entfernen.
+Das Digimon kann daher nicht ausgewählt werden."
+1203,,"La DigiBanca è piena, quindi non puoi DigiConvertire
+ora.","銀行空間不足
+無法孵化數碼寶貝",,"뱅크에 빈 공간이 없어
+디지털 컨버트를 할 수 없습니다.","Digi-Umwandlung ist zurzeit nicht möglich, da die
+Digibank voll ist."
+1204,,Non puoi caricare un Digimon al livello massimo.,等級已達上限，無法吸收數碼寶貝,,레벨이 최대이기 때문에 디지몬 로드가 불가능합니다.,Du kannst kein Digimon auf maximalem Level laden.
+1205,,"Questa azione rimuoverebbe i Digimon dal Party,
+quindi non puoi restituire questo Digimon ai dati di scansione.","因隊伍中將沒有數碼寶貝
+故無法回復為掃描數據",,"파티에 디지몬이 없어지기 때문에
+이 디지몬은 스캔 데이터로 되돌릴 수 없습니다.","Dies würde alle Digimon aus der Gruppe entfernen.
+Das Umwandeln in Scandaten ist daher nicht möglich."
+1206,,"Dati scansionati restituiti.
+[d0]：[n0]%=>[4[n1]%]","已回復為掃描數據
+[d0]：[n0]％⇒[4[n1]％]",,"스캔 데이터로 되돌렸습니다.
+[d0]：[n0]％⇒[4[n1]％]","In Scandaten umgewandelt.
+[d0]: [n0] % =>[4[n1] %]"
+1207,,"Hai superato la memoria della squadra.
+Riduci l'utilizzo di memoria della squadra.","超過隊伍上限
+請減少隊伍的消耗容量",,"파티 메모리를 초과했습니다.
+파티의 소비 메모리를 줄여주세요.","Der Gruppenspeicher wurde überschritten.
+Bitte reduziere den Speicherbedarf der Gruppe."
+1208,,"[d0] ha imparato 20 o più mosse.
+Elimina una mossa appresa.","[d0]習得技能已超過20個
+請減少習得技能",,"[d0]이 기억한 스킬이 20개 이상입니다.
+기억한 스킬을 줄여주세요.","[d0] hat 20 oder mehr Fertigkeiten erlernt.
+Bitte lösche eine erlernte Fertigkeit."
+1209,,La DigiBanca è piena.,銀行空間不足,,뱅크에 빈 공간이 없습니다.,Die Digibank ist voll.
+1210,,Il gruppo è pieno.,隊伍空間不足,,파티에 빈 자리가 없습니다.,Die Gruppe ist voll.
+1211,,"AVVERTIMENTO: Se Digievolvi o De-Digievolvi questo
+Digimon, non sarà possibile annullare l'operazione.","此數碼寶貝一旦進化、退化後就無法復原
+進化、退化時請特別留意",,"이 디지몬은 진화/퇴화하면 원래대로 되돌릴 수 없습니다.
+진화/퇴화를 할 때 주의해주세요.","ACHTUNG: Die Digitation oder De-Digitation dieses
+Digimon kannst du nicht rückgängig machen."
+1300,,Nuovi casi aggiunti: [4[n0]],新增了[4[n0]]件委託,,새로운 [4[n0]]건의 의뢰가 추가되었습니다.,Neue Fälle hinzugefügt: [4[n0]]
+1301,,"Non puoi iniziare a investigare questo perché
+sei già impegnato in un altro caso.","尚有調查中的委託
+無法開始調查",,"조사 중인 의뢰가 있어
+조사를 개시할 수 없습니다.","Du kannst nicht mit den Ermittlungen beginnen,
+weil du bereits an einem anderen Fall arbeitest."
+1302,,"[d0]:
+Inizio indagine!",開始調查[d0]！,,[d0]의 조사 개시!,"Ermittlungsbeginn:
+„[d0]“"
+1303,,"Indagine su [d0]
+completata! Riferisci all'Agenzia Investigativa!","[d0]調查完畢！
+前往偵探事務所回報！",,"[d0]의 조사 완료!
+탐정사무소에 보고하러 가자!","„[d0]“
+abgeschlossen! Erstatte dem Detektivbüro Bericht."
+1304,,Diventato [4[d0]]!,變成[4[d0]]了！,,[4[d0]](이)가 되었다!,Neuer Rang: [4[d0]]
+1305,,"Diventato [4[d0]]!
+Imparato [4[d1]]!","變成[4[d0]]了！
+習得[4[d1]]了！",,"[4[d0]](이)가 되었다!
+[4[d1]]을(를) 습득했다!","Zu [4[d0]] geworden!
+[4[d1]] erlernt!"
+1400,,Controllo dati del sistema...,系統數據查詢中,,시스템 데이터를 체크하고 있습니다.,Prüfe Systemdaten ...
+1600,,Non ci sono Digimon che corrispondono ai criteri di ricerca.,沒有符合條件的數碼寶貝,,검색 조건에 해당하는 디지몬이 없습니다.,"Es gibt keine Digimon, die den Suchkriterien
+entsprechen"
+1700,,"Le abilità apprese hanno superato il limite massimo.
+Si prega di ridurre il numero di abilità a 20.","習得技能數已超過上限
+請將習得技能數減少至20個",,"기억한 스킬이 상한을 넘었습니다.
+기억한 스킬을 20개 이내로 해주세요.","Die maximale Anzahl erlernter Fertigkeiten wurde
+überschritten. Bitte reduziere die Anzahl auf 20."
+1900,,Impossibile usare al momento.,現在無法使用,,지금은 사용할 수 없습니다.,Kann im Moment nicht verwendet werden.
+1901,,Questo non avrà alcun effetto se utilizzato.,即使使用也沒有任何效果,,사용해도 효과가 없습니다.,Die Benutzung wird wirkungslos sein.
+1902,,"Memoria del party aumentata di [n0]!
+[n1] => [4[n2]]","隊伍上限的最大值增加[n0]！
+[n1]　⇒　[4[n2]]",,"파티 메모리의 최대치가 [n0]증가했다!
+[n1]　⇒　[4[n2]]","Maximaler Gruppenspeicher um [n0] erhöht!
+[n1] => [4[n2]]"
+1903,,[d0] ha ottenuto [4[n0]] ESP!,[d0]獲得[4[n0]]EXP！,,[d0]은(는) EXP를 [4[n0]] 획득했다!,[d0] hat [4[n0]] EP erhalten!
+1904,,"La CAM di [d0] è aumentata
+di [4[n0]]!",[d0]的友情提升[4[n0]]！,,[d0]의 우정이 [4[n0]]상승했다!,"KAM von [d0] ist um
+[4[n0]] gestiegen!"
+1905,,"La personalità di [d0] è
+cambiata in [4[d1]]!",[d0]的個性變成[4[d1]]！,,[d0]의 개성이 [4[d1]]이 되었다!,"Die Persönlichkeit von [d0] hat sich
+zu [4[d1]] verändert!"
+1906,,[d0]'s Il valore di aumento dei PS massimi è diminuito!,[d0]的最大HP上升值下降！,,[d0]의 최대 HP의 상승치가 떨어졌다!,"Steigerung der max. TP von [d0]
+ist gesunken!"
+1907,,"[d0]'s Il valore massimo di AP aumentato
+è diminuito!",[d0]的最大SP上升值下降！,,[d0]의 최대 SP의 상승치가 떨어졌다!,"Steigerung der max. SP von [d0]
+ist gesunken!"
+1908,,L'ATK di [d0] è diminuito!,[d0]的ATK上升值下降！,,[d0]의 공격력의 상승치가 떨어졌다!,"Steigerung für ANG von [d0]
+ist gesunken!"
+1909,,"[d0]'s DEF valore di aumento
+è diminuito!",[d0]的DEF上升值下降！,,[d0]의 방어력의 상승치가 떨어졌다!,"Steigerung für VER von [d0]
+ist gesunken!"
+1910,,[d0]'s valore INT è diminuito!,[d0]的INT上升值下降！,,[d0]의 지력의 상승치가 떨어졌다!,"Steigerung für INT von [d0]
+ist gesunken!"
+1911,,[d0]'s il valore di aumento SPD è diminuito!,[d0]的SPD上升值下降！,,[d0]의 민첩의 상승치가 떨어졌다!,"Steigerung für GES von [d0]
+ist gesunken!"
+1912,,Hai ottenuto [4[d0]] x [n0].,獲得[n0]個[4[d0]],,[4[d0]]을(를) [n0]개 입수했다.,[n0] x [4[d0]] erhalten.
+1913,,"Ma il tuo inventario è pieno,
+quindi non puoi contenerne altri.","持有物品數過多
+無法拿取",,"하지만 소지품이 꽉 차서
+가져갈 수 없다.","Aber dein Inventar ist voll und du kannst keine
+weiteren Items aufnehmen."
+1914,,Ottenuti [4[d0]].,獲得[4[d0]],,[4[d0]]을(를) 입수했다.,[4[d0]] erhalten.
+1915,,Ottenuti [4[d0]] x [n0].,獲得[n0]個[4[d0]],,[4[d0]]을(를) [n0]개 입수했다.,[n0] x [4[d0]] erhalten.
+1916,,Consegnato [4[d0]].,交出[4[d0]],,[4[d0]]을(를) 건네주었다.,[4[d0]] abgegeben.
+1917,,Consegnato [n0] x [4[d0]].,交出[n0]個[4[d0]],,[4[d0]]을(를) [n0]개 건네주었다.,[n0] x [4[d0]] abgegeben.
+1918,,Impossibile usare ora.,現在無法使用,,지금은 사용할 수 없습니다.,Kann im Moment nicht verwendet werden.
+2000,,"Hai ottenuto la Parola chiave ""[2[d0]]""!",獲得關鍵字【[2[d0]]】！,,키워드【[2[d0]]】을(를) 획득!,"Du hast das Stichwort 
+„[2[d0]]“ erhalten."
+2100,,Impossibile disconnettersi ora!,現在無法登出,,지금은 로그아웃 할 수 없습니다.,Du kannst dich jetzt nicht ausloggen.
+2300,,Nessun altro Digimon potrà combattere.,將沒有可以戰鬥的數碼寶貝,,싸울 수 있는 디지몬이 없어집니다.,Es können keine weiteren Digimon kämpfen.
+2400,,Puoi andare a [d0] ora!,可以前往[d0]了！,,[d0]에 갈 수 있게 되었다!,Neuer Zielort: [d0]!
+2500,,Non puoi inviare o ricevere messaggi qui.,這個地點無法收發訊息,,이 장소에서는 메시지의 송수신을 할 수 없습니다.,"Du kannst hier keine Nachrichten senden oder
+empfangen."
+2900,,Combattere [d0]?,您要和[d0]對戰嗎？,,[d0]과 대전하겠습니까?,Gegen [d0] kämpfen?
+2901,,Combattere di nuovo?,您要再次對戰嗎？,,다시 한번 도전하겠습니까?,Erneut kämpfen?
+2902,,Continuare a cercare un avversario?,您要搜尋下一個對戰對手嗎？,,이어서 대전 상대를 찾으시겠습니까?,Weiter nach einem Gegner suchen?
+2903,,Continuare a combattere?,您要繼續對戰嗎？,,이어서 대전을 하시겠습니까?,Weiterkämpfen?
+2904,,Connessione,連線中,,통신 중,Verbinde
+2905,,Impossibile connettersi.,連線失敗,,접속할 수 없습니다.,Verbindung konnte nicht hergestellt werden.
+2906,,Disconnesso dall'avversario.,連線中斷,,대전 상대에 의해 통신이 끊어졌습니다.,Verbindung zum Gegner getrennt.
+2907,,Si è verificato un errore di connessione.,連線錯誤,,통신 에러가 발생했습니다.,Es ist ein Verbindungsfehler aufgetreten.
+2908,,"Hai superato la memoria di squadra.
+Riduci la memoria di squadra a 100 o meno.","已超過隊伍上限。
+請將隊伍上限減少至100以下。",,"파티 메모리가 초과되었습니다.
+파티 메모리를 100이하로 줄여주세요.","Der Gruppenspeicher wurde überschritten. Bitte
+reduziere den Gruppenspeicher auf maximal 100."
+2909,,"Ti sei disconnesso da Nintendo Switch Online.
+Impossibile visualizzare le classifiche o partecipare a battaglie via Internet.","已登出Nintendo Switch Online
+現在無法瀏覽排名與網路連線對戰",,"Nintendo Switch Online에서 로그아웃했습니다
+랭킹 열람과 인터넷 통신 대전을 할 수 없습니다","Du wurdest von Nintendo Switch Online abgemeldet.
+Ranglisten und Online-Kämpfe sind nicht verfügbar."
+2910,,Ti sei disconnesso.,連線中斷,,통신이 끊어졌습니다.,Die Verbindung wurde getrennt.
+2911,,Ricerca di un avversario...,正在搜尋對戰對手,,대전 상대를 찾고 있습니다.,Suche Gegner
+2912,,Impossibile trovare un avversario.,沒有找到對戰對手,,대전 상대가 발견되지 않았습니다.,Es konnte kein Gegner gefunden werden.
+2913,,Sessione scaduta.,連線取消,,통신이 취소되었습니다.,Die Sitzung ist abgelaufen.
+2914,,L'avversario si è ritirato.,對戰對手已取消,,대전 상대가 취소했습니다.,Abbruch durch den Gegner.
+2915,,In attesa della risposta dell'avversario...,等待對戰對手的回覆,,대전 상대의 답변을 기다리고 있습니다.,Warte auf Antwort des Gegners
+2916,,La battaglia è stata annullata.,已取消對戰,,대전을 취소했습니다.,Der Kampf wurde abgebrochen.
+2917,,Questo servizio non è al momento disponibile.,現在無法使用此項服務,,현재 이 서비스는 이용할 수 없습니다.,Dieser Dienst ist derzeit nicht verfügbar.
+3000,,"Il Digimon [d0] ha
+iniziato l'allenamento!",[d0]的數碼寶貝開始特訓！,,[d0]의 디지몬은 훈련을 개시했다!,"Digimon [d0] hat
+mit dem Training begonnen!"
+3001,,"Il Digimon [d0] ha
+iniziato a svilupparsi!",[d0]的數碼寶貝開始開發！,,[d0]의 디지몬은 개발을 개시했다!,"Digimon [d0] hat
+mit der Entwicklung begonnen!"
+3002,,"Il Digimon [d0] ha
+iniziato a indagare!",[d0]的數碼寶貝開始調查！,,[d0]의 디지몬은 조사를 개시했다!,"Digimon [d0] hat
+mit den Ermittlungen begonnen!"
+3003,,"Hai già 99 [d0].
+Non puoi averne altri.","已持有99個[d0]
+無法領取",,"[d0]을 99개 가지고 있습니다.
+이 이상은 받을 수 없습니다.","Du hast bereits 99 x [d0].
+Mehr kannst du nicht besitzen."
+3004,,"L'affiatamento è aumentato [n0]!
+[n1] => [4[n2]]","友情提升[n0]！
+[n1]　⇒　[4[n2]]",,"우정이 [n0] 상승했다!
+[n1]　⇒　[4[n2]]","Kameradschaft ist um [n0] gestiegen!
+[n1] => [4[n2]]"
+3005,,"La tua CAM con [d0] è già al 100%.
+Non puoi aumentarla ulteriormente.","和[d0]的友情已達100%
+友情值將不再上升",,"[d0]과의 우정이 이미 100%입니다.
+더 이상 우정이 오르지 않습니다.","KAM mit [d0] beträgt bereits 100 %.
+Mehr ist nicht möglich."
+3006,,"Non ci sono Digimon sull'Isola Fattoria,
+quindi non puoi dare un comando.","農場島沒有數碼寶貝時
+將無法下達指令",,"팜 섬에 디지몬이 없을 때는
+지시를 내릴 수 없습니다.","Du kannst keinen Befehl erteilen,
+da auf der Farminsel keine Digimon sind."
+3007,,Ci devono essere almeno due Digimon sull'Isola Farm per poter cambiare il leader.,"農場島上沒有2隻以上的數碼寶貝時
+將無法變更隊長",,"팜 섬에 디지몬이 2마리 이상 없을 경우
+리더 변경은 불가능합니다.","Auf der Farminsel müssen mindestens zwei Digimon
+sein, damit du den Anführer ändern kannst."
+3008,,Non puoi aumentare ulteriormente il [d0]'s [d1].,[d0]的[d1]將不再上升,,[d0]의 [d1]은(는) 이 이상 올라가지 않습니다.,[d1] von [d0] nicht weiter steigerbar.
+3100,,Impossibile salvare ora.,現在無法保存,,지금은 저장 할 수 없습니다.,Speichern ist im Moment nicht möglich.
+5000,,"Il [1[i602]] è pulitamente
+strappato e gettato via.",小心翼翼地將[1[i602]]撕破,,"[1[i602]]을
+꼼꼼하게 찢어 버렸다.","Die [1[i602]] wurde ordentlich
+zerrissen und entsorgt."
+5001,,Mostri a [1[i606]].,把[1[i606]]給對方看,,[1[i606]]을 넘겨주었다.,Du zeigst die [1[i606]].
+5002,,Hai imparato l'ID account e la password di Naoya.,記住了「直也」的帳號和密碼,,「나오야」의 계정 ID와 비밀번호를 외웠다.,Du hast Naoyas Anmeldenamen und Passwort erfahren.
+5003,,"Il timbro di Pabumon è stato aggiunto alla tua
+carta timbri.",在集章卡上蓋上了泡沫獸的印章,,"스탬프 카드에 뽀글몬의 스탬프를 
+찍었다.","Pabumons Stempel wurde zu deiner Stempelkarte
+hinzugefügt."
+5004,,"Il timbro di Tanemon è stato aggiunto alla tua
+scheda timbri.",在集章卡上蓋上了種子獸的印章,,"스탬프 카드에 시드몬의 스탬프를 
+찍었다.","Tanemons Stempel wurde zu deiner Stempelkarte
+hinzugefügt."
+5005,,"Il timbro di Tokomon è stato aggiunto alla tua
+tessera dei timbri.",在集章卡上蓋上了迪哥獸的印章,,"스탬프 카드에 토코몬의 스탬프를
+찍었다.","Tokomons Stempel wurde zu deiner Stempelkarte
+hinzugefügt."
+5006,,Il timbro di Bukamon è stato aggiunto alla tua carta timbri.,在集章卡上蓋上了布加獸的印章,,"스탬프 카드에 둥실몬의 스탬프를 
+찍었다.","Bukamons Stempel wurde zu deiner Stempelkarte
+hinzugefügt."
+5007,,Il timbro di Nyaromon è stato aggiunto alla tua scheda timbri.,在集章卡上蓋上了貓貓獸的印章,,"스탬프 카드에 야옹몬의 스탬프를 
+찍었다.","Nyaromons Stempel wurde zu deiner Stempelkarte
+hinzugefügt."
+5008,,"Il timbro di Yokomon è stato aggiunto alla tua
+tessera timbri.",在集章卡上蓋上了比高獸的印章,,"스탬프 카드의 어니몬의 스탬프를 
+찍었다.","Yokomons Stempel wurde zu deiner Stempelkarte
+hinzugefügt."
+5009,,Hai raccolto 8 [1[i620]]s.,集滿8個[1[i620]]了,,[1[i620]]이(가) 8개 모였다.,Du hast 8 x [1[i620]] gesammelt.
+5010,,"Ottenuto
+l'URL di [m3000].",獲得[m3000]的URL,,"[m3000]의 URL을
+입수했다.",URL erhalten: [m3000].
+5011,,"Ottenuto
+l'URL di [m1030].",獲得[m1030]的URL,,"[m1030]의 URL을
+입수했다.",URL erhalten: [m1030].
+5012,,"Ottenuto
+L'URL di [m1003].",獲得[m1003]的URL,,"[m1003]의 URL을
+입수했다.",URL erhalten: [m1003].
+5013,,Consegnato [i613].,遞出[i613],,[i613]을 전달했다.,[i613] übergeben.
+5014,,Consegnato [i614].,遞出[i614],,[i614]을 전달했다.,[i614] übergeben.
+5015,,Consegnato [i615].,遞出[i615],,[i615]을 전달했다.,[i615] übergeben.
+5016,,Consegnato [i616].,遞出[i616],,[i616]을 전달했다.,[i616] übergeben.
+5017,,"Raccolti [i611] e [i612].
+Sono dati, ma hanno una fragranza.","湊齊[i611]和[i612]了
+明明是數據卻有氣味……",,"[i611]과 [i612]이 모였다.
+데이터인데도 냄새가 나는 것 같아…","[i611] und [i612] gesammelt.
+Es sind zwar Daten, aber sie duften."
+5018,,Dai a tutti e quattro i Digimon delle medicine.,讓4隻數碼寶貝都喝下藥了,,4마리 전체 디지몬에게 약을 먹였다.,Du gibst allen vier Digimon Medizin.
+5019,,"Sbloccata la Digievoluzione in
+[1[c1038]].",開放[1[c1038]]的進化,,"[1[c1038]]의
+진화가 해방되었다.","Digitation freigeschaltet:
+[1[c1038]]."
+5020,,"Sbloccata la Digievoluzione in
+[1[c1036]].",開放[1[c1036]]的進化,,"[1[c1036]]의
+진화가 해방되었다.","Digitation freigeschaltet:
+[1[c1036]]."
+5021,,"Sbloccata la Digievoluzione in
+[1[c1034]].",開放[1[c1034]]的進化,,"[1[c1034]]의
+진화가 해방되었다.","Digitation freigeschaltet:
+[1[c1034]]."
+5022,,"Sbloccata la Digievoluzione a
+[1[c1037]].",開放[1[c1037]]的進化,,"[1[c1037]]의
+진화가 해방되었다.","Digitation freigeschaltet:
+[1[c1037]]."
+5023,,"Sbloccata la Digievoluzione in
+[1[c1035]].",開放[1[c1035]]的進化,,"[1[c1035]]의
+진화가 해방되었다.","Digitation freigeschaltet:
+[1[c1035]]."
+5024,,"Sbloccata la Digievoluzione in
+[1[c1040]]/[1[c1439]].",開放[1[c1040]]、[1[c1439]]的進化,,"[1[c1040]] / [1[c1439]]의
+진화가 해방되었다","Digitation freigeschaltet:
+[1[c1040]]/[1[c1439]]."
+5025,,"Sbloccata la Digievoluzione a
+[1[c1390]]/[1[c1039]]/[1[c1435]].",開放[1[c1390]]、[1[c1039]]、[1[c1435]]的進化,,"[1[c1390]] / [1[c1039]] / [1[c1435]]의
+진화가 해방되었다.","Digitation freigeschaltet:
+[1[c1390]]/[1[c1039]]/[1[c1435]]."
+5026,,"Sbloccata Digievoluzione a
+[1[c1417]].",開放[1[c1417]]的進化,,"[1[c1417]]의
+진화가 해방되었다.","Digitation freigeschaltet:
+[1[c1417]]."
+5027,,"Sbloccata la Digievoluzione a
+[1[c1382]]/[1[c1751]].",開放[1[c1382]]、[1[c1751]]的進化,,"[1[c1382]] / [1[c1751]]의
+진화가 해방되었다.","Digitation freigeschaltet:
+[1[c1382]]/[1[c1751]]."
+5028,,"Sbloccata la Digievoluzione a
+[1[c1739]].",開放[1[c1739]]的進化,,"[1[c1739]]의
+진화가 해방되었다.","Digitation freigeschaltet:
+[1[c1739]]."
+5029,,"Sbloccata la Digievoluzione a
+[1[c1086]]/[1[c1734]].",開放[1[c1086]]、[1[c1734]]的進化,,"[1[c1086]] / [1[c1734]]의
+진화가 해방되었다.","Digitation freigeschaltet:
+[1[c1086]]/[1[c1734]]."
+5030,,"Sbloccata la Digievoluzione a
+[1[c1738]]/[1[c1703]].",開放[1[c1738]]、[1[c1703]]的進化,,"[1[c1738]] / [1[c1703]]의
+진화가 해방되었다.","Digitation freigeschaltet:
+[1[c1738]]/[1[c1703]]."
+5031,,"Sbloccata Digievoluzione a
+[1[c1215]].",開放[1[c1215]]的進化,,"[1[c1215]]의
+진화가 해방되었다.","Digitation freigeschaltet:
+[1[c1215]]."
+5032,,"Sbloccata Digievoluzione a
+[1[c1688]]/[1[c1749]].",開放[1[c1688]]、[1[c1749]]的進化,,"[1[c1688]] / [1[c1749]]의
+진화가 해방되었다.","Digitation freigeschaltet:
+[1[c1688]]/[1[c1749]]."
+5033,,"Sbloccata la Digievoluzione a
+[1[c1088]]/[1[c1416]]/[1[c1126]].",開放[1[c1088]]、[1[c1416]]、[1[c1126]]的進化,,"[1[c1088]] / [1[c1416]] / [1[c1126]]의
+진화가 해방되었다.","Digitation freigeschaltet:
+[1[c1088]]/[1[c1416]]/[1[c1126]]."
+5034,,"Sbloccata Digievoluzione in
+[1[c1420]].",開放[1[c1420]]的進化,,"[1[c1420]]의
+진화가 해방되었다.","Digitation freigeschaltet:
+[1[c1420]]."
+5035,,[p] ha ottenuto dati sul Digivice.,[p]用Digivice接收了資料,,[p]의 디지바이스로 데이터를 받았다.,[p] hat Daten auf dem Digivice empfangen.
+5036,,Rinunci alle medaglie.,放棄獎牌,,메달을 포기했다.,Du gibst die Medaillen ab.
+5037,,"[p] consegna a Mirei le sette
+""Prove del Peccato"".","[p]將七大罪的證明
+交給米蕾",,"[p]은(는) 7가지 죄의 증거를
+미레이에게 전달했다.","[p] übergibt Mirei die sieben
+„Beweise der Sünde“."
+5049,,"Hai ottenuto l'Abilità Hacker ""Occultamento""!",獲得駭客技能「Stealth Hide」,,해킹 스킬「스텔스 하이드」를 입수했다.,"Du hast die Hacking-Fertigkeit „Tarnkappe“
+erhalten."

@@ -1,0 +1,24 @@
+ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
+2,5004,"","Happy Hacker's Record
+Here I write about hacker terminology.","某位幸福駭客的紀錄。
+在此記下幾個駭客用語。","","어느 행복한 해커의 기록
+이곳에 해커어를 몇 가지 적어둔다","Aufzeichnungen eines glücklichen Hackers
+Hier erläutere ich Hackerbegriffe."
+3,5004,"","Firewalls","【防火牆】","","【방화벽】","Firewalls"
+4,5004,"","Firewalls were originally systems that prevented
+users from causing damage.","又稱為防火牆代碼。
+原本是為了防止用戶引發故障而設置的系統。","","방화벽 코드라고도 한다.
+원래는 유저가 장애를 일으키지 않게
+하기 위한 시스템이었다","Firewalls waren ursprünglich Systeme, die Nutzer
+davon abhalten sollten, Schaden anzurichten."
+5,5004,"","However, EDEN hackers have now modified them, and
+they are often used as barriers in turf wars.","但是被EDEN的駭客改造後，
+大多被用來當作爭地盤時的屏障。","","하지만 EDEN의 해커가 개조하여
+에어리어의 구역 싸움을 위한 방벽으로 이용되는 경우가 많다","Allerdings haben EDEN-Hacker sie mittlerweile
+modifiziert. Oft werden sie als Barrieren bei
+Revierkämpfen eingesetzt."
+6,5004,"","They range in strength, but a certain level of
+skill is required in order to get past them.","強度有分難易度，如果要通過防火牆，
+需要展現出一定的技術。","","강도에는 난이도가 있어서 
+통과하기 위해서는 일정 이상의 기술이 필요하다","Sie sind unterschiedlich stark, aber man braucht
+gute Fertigkeiten, um sie zu überwinden."

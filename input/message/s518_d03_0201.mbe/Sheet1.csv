@@ -1,0 +1,96 @@
+ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
+1,3001,"","I've been waiting for you.
+I assume you're from Hudie?","喔，我等你很久了喔。
+hudie是派你來啊。","","야아, 기다리고 있었어.
+후디에에서는 네가 와준 건가","Ich habe auf dich gewartet.
+Ich nehme an, du kommst von Hudie?"
+2,3001,"","I haven't seen your hacking skills yet. It's not
+an easy job, but I expect it to be done well.","……我還沒見識過你身為駭客的實力呢。
+這雖然不是簡單的工作，但我很期待你的出色發揮喔。","","…너의 해커로서의 실력은 아직까지 본 적이 없었지.
+단순한 일은 아니지만 깔끔한 일처리를 기대하고 있을게","Ich habe deine Hacking-Fertigkeiten noch nicht
+begutachtet. Es ist kein leichter Job, aber ich
+verlange gute Arbeit."
+3,3001,"","Hehe... Did that sound threatening? I didn't mean
+it to. Just do what you would usually do.","呵呵……嚇到你了嗎？
+不用怕，跟你平常一樣做就好了","","후후…… 조금 겁을 주고 말았나.
+아니, 평소처럼 해 주면 돼","Hehe ... Klang das bedrohlich? So meinte ich das
+nicht. Tu einfach, was du normalerweise tust."
+4,3001,"","Anyway, I'd better explain the case.
+Have you heard of an organization called
+""Dreamin'""?","那麼，我說明下委託內容。
+……你知道「Dreamin」這組織嗎？","","그럼 의뢰에 대해 설명할게.
+……너는「드리밍」이라는 조직을 알고 있어?","Also, ich sollte den Fall erklären.
+Hast du von einer Organisation mit dem Namen
+„Sandman“ gehört?"
+5,3001,"","Dreamin' is a group that abuses EDEN's systems to
+scam money from people.","「Dreamin」是濫用EDEN的系統，
+對無辜的人騙取金錢的詐騙組織。","","「드리밍」은 EDEN의 시스템을 악용해
+죄 없는 사람들로부터 돈을 짜내는 사기 그룹이다","Sandman ist eine Gruppe, die EDENs Systeme
+ausnutzt, um Leute auszunehmen."
+6,3001,"","This is their MO...","他們的手法是……","","…수법은 이래","Sie gehen so vor ..."
+7,3001,"","First they host an event in EDEN and invite people
+to take part.","首先，在EDEN主辦某種活動，徵求參加者。","","일단 EDEN에서 어떤 이벤트를 개최해 참가자를 모아","Erst veranstalten sie ein Event in EDEN und
+laden Leute zur Teilnahme ein."
+8,3001,"","Then they hypnotize everyone who attends. This
+makes them hand over their financial details,
+which the group uses to steal money.","再對參加者下“催眠暗示”，
+趁機竊取個人資料，奪取大量金額。","","모은 참가자에게 ""최면암시""를 걸고 그 틈에
+신용카드 정보를 빼내서 고액의 돈을 갈취하지","Dann werden alle Teilnehmer hypnotisiert.
+So geben sie ihre finanziellen Daten
+heraus, die dann zum Diebstahl genutzt werden."
+9,3001,"","Lots of people have fallen victim to them, but
+they always get away without leaving a trace.","已經有相當多使用者受害了，
+但他們都沒有留下線索，一直四處躲藏。","","이미 수많은 유저가 피해를 입은 모양이지만
+놈들은 어디에도 단서를 남기지 않고 도망다니고 있어","Viele Leute sind ihnen zum Opfer gefallen, aber
+sie kommen immer wieder davon, ohne eine
+Spur zu hinterlassen."
+10,3001,"","Hypnosis shouldn't be possible in cyberspace.
+It must be some type of hack.","在電腦空間進行催眠……怎麼想都很奇怪，
+可能是一種入侵的方法吧。","","전뇌공간에서의 최면암시…라니 기묘하다고 생각하겠지만
+아마도 이건 해킹의 일종일 거야","Hypnose sollte im Cyberspace nicht möglich sein.
+Es muss sich um eine Art Hacking handeln."
+11,3001,"","My guess is that they somehow disrupt the virtual
+feelings received by EDEN's avatars.","我的推測……可能是對參加者們，
+進行某種搗亂EDEN化身接收感覺的攻擊。","","EDEN 아바타로부터 전달되는 유사감각을 교란시키는
+공격을 참가자들에게 걸고 있다…고 나는 추측하고 있지","Ich vermute, dass sie irgendwie die virtuellen
+Gefühle manipulieren, die die EDEN-Avatare
+empfangen."
+12,3001,"","Be careful. They've even scammed some Zaxon
+members.","……提高警戒行動吧。
+其實，Zaxon的成員內也有受害者。","","……마음을 단단히 먹고 임해줘.
+실은 잭슨 멤버 중에도 피해자가 나왔어","Sei vorsichtig. Sie haben sogar schon Mitglieder
+von Zaxon hinters Licht geführt."
+13,2020,"","!!!","！！","","!!","!!!"
+14,3001,"","Ordinary users, I could understand, but even we're
+vulnerable...","如果只有一般使用者就算了，連我們
+都無法躲開的強大入侵攻擊……","","일반 유저라면 몰라도 우리들까지 회피할 수 없는
+강력한 해킹 공격……","Bei normalen Nutzern könnte ich es ja verstehen,
+aber sogar wir sind potenzielle Opfer ..."
+15,3001,"","They must be formidable hackers.","敵人應該是技術相當厲害的駭客。","","상대는 상당히 실력 있는 해커로 보여","Es muss sich um wirklich gute Hacker handeln."
+16,3001,"","If we leave them to their own devices, no one will
+be safe.","繼續放任他們的話，受害人數一定會越來越多。","","이대로 방치하면 더욱 피해가 확대되겠지","Wenn wir nicht einschreiten, wird niemand
+mehr sicher sein."
+17,3001,"","I can't allow people like them to prey on the
+innocent. There's no place for them in EDEN.","我絕對不能原諒Dreamin這種傢伙，
+EDEN不是為了這種人存在的地方。","","난 드리밍같은 놈들을 절대 용서할 수 없어.
+EDEN은 그런 놈들을 위한 장소가 아니야","Ich kann nicht zulassen, dass solche Leute
+Unschuldige ausnutzen. So etwas wird in EDEN
+nicht toleriert."
+18,3001,"","I swear on Zaxon's reputation that they will be
+brought to justice.","賭上Zaxon的榮譽，我一定要親手制裁他們……","","잭슨의 긍지를 걸고 반드시 이 손으로 심판해주겠어……","Ich schwöre beim Ruf von Zaxon, dass sie zur
+Rechenschaft gezogen werden."
+19,3001,"","My associates are searching for their location.","我的夥伴們，現在正在找出他們的位置。","","지금 동료가 놈들의 위치를 찾고 있어","Unsere Mitglieder versuchen gerade herauszufinden,
+wo sie sich aufhalten."
+20,3001,"","To coordinate such a crime wave in EDEN, they must
+have a base somewhere in cyberspace.","既然在EDEN進行犯罪，
+這電腦空間內一定有他們成立的據點。","","EDEN에서 범죄를 저지르고 있는 이상
+반드시 전뇌공간 내 어딘가에 거점을 설치해두고 있을 거야","Um eine solche Welle von Verbrechen in EDEN zu
+koordinieren, müssen sie irgendwo hier im
+Cyberspace eine Basis haben."
+21,3001,"","Rendezvous with Fei and join the investigation.","你就去跟先出發的菲會合，一起進行調查吧。","","너는 먼저 간 페이와 합류해서 함께 조사에 들어가줘","Triff dich mit Fei und nimm an der Suche teil."
+22,3001,"","She's not an easy person to find.","雖然她總是在各處移動──","","그녀는 계속 여기저기 이동하고 있는 것 같지만――","Sie ist oft nicht leicht zu finden."
+23,3001,"","But someone on the forum should know where she is.
+Ask around.","但這討論區裡一定有人知道她去哪了，
+去問看看吧。","","이 포럼의 누군가는 행방을 알고 있을 거야.
+물어보면 돼","Aber jemand im Forum sollte wissen, wo sie sich
+aufhält. Frag einfach herum."

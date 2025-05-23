@@ -1,0 +1,97 @@
+ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
+1,3047,"","Wow, I didn't expect Yuugo to make first contact.","哎呀，沒想到「YUGO」已經先知會過了啊。","","이야―― 설마 ""유고""가 미리 말을 해뒀을 줄이야―","Wow, ich hätte nicht gedacht, das Yuugo den ersten
+Schritt macht."
+2,3047,"","We should've just approached her normally from the
+start! Ah well, no use crying over spilled milk.","早知道一開始正常去搭話就好了──！
+哎呀──別在意、別在意！","","그러면 처음부터 평범하게 말을 걸었으면 좋았을걸―!
+이야― 잘됐어 잘됐어!","Wir hätten sie von Anfang an ganz normal
+ansprechen sollen! Nun ja, jetzt ist es schon zu
+spät."
+3,2020,"","...","……………………","","……………………","..."
+4,3047,"","Uhhh... Hey, uh, I wonder how Ryuji and the little
+lady are getting on?","啊──……
+對、對了，龍司，小姐的狀況如何？","","아…… 그, 그렇지, 류지. 아가씨의 상태는 어때?","Ähm ... He, äh, ich frage mich, wie es wohl bei
+Ryuji und der Kleinen läuft?"
+5,3046,"","...It's been nothing but the silent treatment.","……在那之後，一直悶不吭聲。","","……그 이후론 침묵 중이야","... Sie schweigt mich die ganze Zeit an."
+6,3047,"","Ruh roh...guess she's in a mood, huh?","哎呀……心情非常不好啊。","","어라라… 완전히 삐져버렸나","Oha ... Mit der ist wohl nicht gut Kirschen essen,
+wie?"
+7,3046,"","Anyway, we got the account. Time to break into
+that server.","總而言之，帳號拿到手了，
+那開始入侵伺服器吧。","","어쨌든 계정은 입수했다.
+서버에 침입을 시작한다","Wir haben das Konto jedenfalls. Zeit, in den
+Server einzubrechen."
+8,3047,"","That being said, any idea what data we're looking
+for in there?","可是啊，已經知道我們要找哪一個資料了嗎？","","그런데 목표인 데이터에 대한 전략은 세워뒀어?","Aber hat eigentlich jemand eine Idee, was wir
+dort genau suchen?"
+9,3046,"","Nope. Yuugo's case asked for proof of ""collusion
+between Rie Kishibe and hackers,"" not specific
+data.","沒有，YUGO的委託是找到
+足以證明「岸部里繪和駭客之間有所掛鉤」，
+沒有具體說明要哪一個資料。","","아니, 유고의 의뢰는「키시베 리에와 해커의 유착」을
+증명할 무언가지 구체적인 데이터가 아냐","Nee. Yuugo wollte Beweise für die Zusammenarbeit
+von Kishibe und Hackern. Keine spezifischen
+Daten."
+10,3046,"","That's why we're installing malware on Kamishiro's
+main server, the Avalon Server.","所以這次才要入侵神代企業的
+主要伺服器「阿瓦隆伺服器」，放置惡性軟體。","","그래서 이번엔 카미시로의 메인 서버인
+「아발론 서버」에 악성코드를 설치한다","Deshalb installieren wir Malware auf dem
+Hauptserver von Kamishiro, dem Avalon-Server."
+11,3047,"","I see. So we set up a net and monitor the data
+flowing in and out of the server.","原來如此，先在伺服器裡佈好局，
+之後再來監視交流用的資料啊。","","과연. 그물을 치고 서버 내에서 주고받는 데이터를
+감시한다는 거군","Verstehe. Wir legen also ein Netz aus und
+überwachen die Daten, die beim Server eintreffen
+und hinausgehen."
+12,3046,"","Chitose and I will create a diversion here in the
+real world to throw off server security.","我和千歲會先在現實（這裡）的終端發動佯攻，
+來攪亂伺服器內的防範措施。","","일단 나와 치토세가 현실(이쪽)에서 단말로 양동을 걸어
+서버 내의 보안을 교란시킨다","Chitose und ich sorgen für eine Ablenkung hier
+in der echten Welt, um die Security irrezuführen."
+13,3046,"","Meanwhile [p] will break into the
+sever from EDEN and install malware at a specific
+point.","在這期間，[p]就從EDEN入侵伺服器，
+到指定地點設置惡性軟體。","","그 사이 [p] 쪽은 EDEN 내에서 서버에 침입해
+지정 포인트에 악성코드를 설치한다","Derweil bricht [p] von EDEN aus in den
+Server ein und installiert an einem bestimmten
+Punkt Malware."
+14,3046,"","Once that's done, we'll be able to gather some
+highly classified information.","這樣一來，就能收集到機密度更高的資料。","","이걸로 보다 기밀도 높은 정보를 모을 수 있게 될 거다","Sobald das erledigt ist, können wir ein paar
+hoch geheime Informationen abfangen."
+15,2020,"","?!","！？！？","","!?!?","?!"
+16,3047,"","What're you getting all worked up for? This is the
+easiest kind of job there is, man!","幹麼這麼害怕啦。
+這可是這次的作戰中，最簡單的工作耶。","","왜 당황하고 그래.
+이번 작전에선 가장 쉬운 작업인데?","Was regst du dich denn so auf? Das ist die
+leichteste Art Aufgabe, die es gibt, Mensch!"
+17,3047,"","Diversion and support requires sophisticated,
+master-level hacking skills.","佯攻和支援都要有十分熟練的駭客技術才做得到。","","양동이나 서포트는 고도로 숙련된 해킹 기술이 필요해","Für Ablenkungsmanöver und Unterstützung braucht
+man meisterhafte Profi-Hacker."
+18,3047,"","Plus, our opponent is THE Kamishiro... Playing the
+support role would be too much for you.","而且對手還是天下無敵的神代大人……
+[p]也還沒辦法支援嘛。","","심지어 상대는 천하의 카미시로 님……
+서포트는 [p]에겐 아직 무리야","Außerdem ist Kamishiro der Gegner ... Da kommst du
+mit der Unterstützungsrolle nicht klar."
+19,2020,"","...","…………","","…………","..."
+20,3046,"","This is a good chance to graduate from your
+newbie status. Give it a go!","這是從「新人」畢業的好機會，
+你就試試看吧。","","""신입""을 졸업할 좋은 기회야.
+잘 해봐","Das ist eine gute Gelegenheit, deinen Status als
+Grünschnabel abzulegen. Probier es mal!"
+21,3046,"","Usually avatars are updated each time you log in,
+but this time we'll work it so it doesn't happen.","原本登入時，會同時更新化身資料，
+我們這邊會想辦法，讓系統略過這部分。","","원래는 로그인할 때 아바타 정보의 갱신이 이루어지지만
+이번엔 그 부분을 패스하도록 이쪽에서 세공할게","Avatare werden normal bei jedem Einloggen
+aktualisiert. Aber dieses Mal schauen wir, dass
+das nicht passiert."
+22,3046,"","Might feel a bit uncomfortable, but deal with it.","你可能多少會有點不適應，忍耐一下吧。","","약간 위화감이 있겠지만 참아","Das fühlt sich vielleicht etwas unangenehm an,
+aber damit musst du klarkommen."
+23,3047,"","I'm telling you it's gonna be fine! You've got the
+guts for it, after all!","不會有問題啦！
+畢竟你還蠻有毅力的！","","괜찮다니까!
+넌 제법 근성이 있으니까!","Ich sage doch, das wird schon! Du hast schließlich
+den Mut dazu."
+24,3046,"","...Get in position. We'll signal you when we're
+ready to get started.","……各就各位。
+準備好了，就給個暗號。","","……네 자리에서 대기해.
+준비가 되는 대로 신호한다","... Geh in Stellung. Wir melden uns, wenn wir
+bereit sind, loszulegen."

@@ -1,0 +1,85 @@
+ID,Japanese,English,Chinese,EnglishCensored,Korean,German
+1,,Compra,購買,,구입한다,Kaufen
+2,,Vendi,販賣,,매각한다,Verkaufen
+3,,Uscita,取消,,그만둔다,Verlassen
+1000,,Benvenuto!,歡迎光臨,,어서오세요,Willkommen!
+1001,,Grazie mille.,謝謝惠顧,,감사합니다,Vielen Dank.
+1002,,Come posso esserti d'aiuto?,請問您有什麼需求呢？,,무슨 용건이시죠?,Wie kann ich dir helfen?
+1003,,Cosa vuoi comprare?,您要購買什麼商品呢？,,무엇을 구입하겠습니까?,Was möchtest du kaufen?
+1004,,Quanti ne vuoi comprare?,您要購買幾個呢？,,몇 개 구입하겠습니까?,Wie viel davon möchtest du kaufen?
+1005,,Cosa vuoi vendere?,您要販賣什麼商品呢？,,무엇을 매각하겠습니까?,Was möchtest du verkaufen?
+1006,,Quanti ne vuoi vendere?,您要販賣幾個呢？,,몇 개 매각하겠습니까?,Wie viel davon möchtest du verkaufen?
+1007,,Aspetto il tuo ordine.,請說出需求,,주문해주세요,Ich erwarte deine Bestellung.
+1008,,Torna presto a trovarci.,誠摯恭候您的再度光臨,,다음 방문을 기다리겠습니다,Komm bald wieder.
+1011,,C'è qualcosa in cui posso esserti d'aiuto?,有什麼能夠為您服務的嗎？,,도움이 필요하십니까?,Kann ich dir behilflich sein?
+1012,,C'è una forte reazione digitale sulla piattaforma del treno...,車站的月臺傳來了強烈的數碼反應呢……,,역 플랫폼에 강한 디지털 반응이 있네요...,"Auf dem Bahnsteig gibt es eine starke digitale
+Reaktion ..."
+1019,,"Benvenuto!?
+Sarà pure un'emergenza, ma mi prenderò comunque i tuoi
+soldi!","歡、歡迎光臨～！
+在這種非常時期下，還是要收錢的！
+要收錢的啊－－！！",,"어, 어서오세요~!?
+이런 비상시라도 돈은 받습니다!
+받고말고요!!","Willkommen?!
+Es ist vielleicht ein Notfall, aber ich nehme
+trotzdem dein Geld!"
+1020,,"Umm... Be-be-benvenuto!?
+È sempre servizio con un sorriso,
+non importa cosa!","歡、歡、歡迎光臨～！
+無、無、無論發生什麼事，都要在顧客前保持笑容！
+這才叫做專業！",,"어,어,어, 어서오세요오오오~!
+어,어, 어떤 때라도 손님 앞에서는 미소로!
+그것이 프로입니다!","Ähm ... W-Wi-Willkommen?!
+Hier wirst du immer mit einem Lächeln bedient,
+egal was passiert!"
+1021,,Non esitare a tornare.,若有什麼需求，歡迎再度光臨,,또 용건이 있으면 다시 찾아와주세요,Schau jederzeit wieder vorbei.
+1050,,Benvenuto!,歡迎光臨,,어서오세요,Willkommen!
+1051,,Seleziona una transazione.,請選擇您要交易的項目,,거래할 내용을 선택해주세요,Bitte wähle eine Transaktion.
+1052,,Cosa vuoi comprare?,您要購買什麼商品呢？,,무엇을 구입하겠습니까?,Was möchtest du kaufen?
+1053,,Inserisci la quantità che vuoi acquistare.,請輸入您要購買的數量,,구입할 개수를 선택해주세요,Gib die gewünschte Kaufmenge ein.
+1054,,Cosa vuoi vendere?,您要販賣什麼商品呢？,,무엇을 매각하겠습니까?,Was möchtest du verkaufen?
+1055,,Inserisci la quantità che vuoi vendere.,請輸入您要販賣的數量,,매각할 개수를 입력해주세요,Gib die gewünschte Verkaufsmenge ein.
+1056,,La ringrazio molto.,謝謝您的惠顧,,이용 감사합니다,Vielen Dank.
+1057,,"Benvenuto!
+Questo è il DigiMercato.","歡迎光臨。
+歡迎來到數碼市場。",,"어서오세요.
+디지마켓에 온 것을 환영합니다.","Willkommen!
+Dies ist der DigiMarkt."
+1058,,Seleziona il Digimon di tua scelta.,請選一隻喜歡的數碼寶貝。,,좋아하는 디지몬을 선택해 주세요.,Bitte wähle das gewünschte Digimon aus.
+1059,,"Grazie mille!
+Torni a trovarci.","謝謝惠顧。
+期待您再度利用。",,"감사합니다.
+다시 방문하시길 기다리고 있겠습니다.","Vielen Dank!
+Bis bald."
+1060,,"Benvenuto!
+Abbiamo aggiunto prodotti che saranno sicuramente utili
+a un Hudie come te.","歡迎光臨。
+進了一批對hudie很有用的商品喔。",,"어서오세요.
+후디에 멤버에게 도움이 될 만한
+상품을 들여놨습니다.","Willkommen! Wir haben Produkte hinzugefügt, die
+für ein Hudie-Mitglied wie dich bestimmt nützlich
+sind."
+1061,,Seleziona una transazione.,請選擇交易內容,,거래 내용을 선택해줘,Bitte wähle eine Transaktion.
+1062,,Cosa compri?,要買什麼呢？,,뭘 구입할거야?,Was möchtest du kaufen?
+1063,,Scegli quanti ne vuoi comprare.,請輸入要購買的數量,,구입할 개수를 입력해줘,"Wähle, wie viel du kaufen möchtest."
+1064,,Cosa vendi?,要賣什麼呢？,,뭘 매각할거야?,Was möchtest du verkaufen?
+1065,,Scegli quanti ne vuoi vendere.,請輸入要販賣的數量,,매각할 개수를 입력해줘,"Wähle, wie viel du verkaufen möchtest."
+1066,,"Grazie per la sua preferenza!
+Torni pure se ha bisogno di altro.","謝謝惠顧
+如有需要，請再次利用",,"고마워.
+필요하면 또 이용해줘.","Danke für deinen Einkauf! Komm wieder, wenn du
+noch etwas brauchst."
+1067,,"Sono il maestro delle medaglie. Posso aiutarti con la tua
+collezione.","嗨，我是獎牌大師
+會幫忙你收集獎牌喔",,"여어, 나는 메달 마스터.
+너의 메달 수집을 서포트 해주지","Ich bin der Medaillenmeister. Ich kann dir mit
+deiner Sammlung helfen."
+1068,,Anche tu puoi diventare un maestro delle medaglie!,你也加油吧！獎牌大師！,,너도 노려봐! 메달 마스터!,Du kannst auch ein Medaillenmeister sein!
+1069,,Dovrai pagarmi. Non sono un ente di beneficenza.,"我會確實收取金額的喔
+這可是確認你對獎牌的愛啊",,"대금은 착실하게 받아갈게.
+네 메달 사랑을 확인하고 싶으니까","Du musst mich bezahlen. Ich bin kein
+Wohlfahrtsverein."
+1070,,Quale medaglia vuoi?,想要那個獎牌呢？,,어떤 메달이 필요해?,Welche Medaille willst du?
+1071,,Quanti ne vuoi comprare?,要買幾個呢？,,몇 개 구입할래?,Wie viel davon möchtest du kaufen?
+1072,,Quale vuoi vendere?,要賣什麼呢？,,뭘 매각할래?,Was möchtest du verkaufen?
+1073,,Quanti ne vuoi vendere?,要賣幾個呢？,,몇 개 구입할래?,Wie viel davon möchtest du verkaufen?

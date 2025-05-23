@@ -1,0 +1,62 @@
+ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
+2,5004,"","Happy Hacker's Record","某位幸福駭客的紀錄。","","어느 행복한 해커의 기록","Aufzeichnungen eines glücklichen Hackers"
+3,5004,"","Here I define several things about hackers.","在此寫下幾個關於駭客的定義。","","이곳에 해커에 대한 몇 가지 정의를 적어둔다","Hier definiere ich verschiedene Aspekte des
+Hackerdaseins."
+4,5004,"","For anyone who aspires to be a hacker, please read
+this and take it as a guide about what not to do.","如有日後志願成為駭客的人，可以作為參考。
+也可以把這個當作負面教材，以別的駭客為目標。","","훗날 해커를 지망하는 자가 있다면, 이것을 참고해도 좋고
+이것을 반면교사 삼아 다른 해커를 지망하는 것도 좋다","Alle, die Hacker werden möchten, sollten dies
+lesen und es als Anleitung betrachten, was man
+nicht tun sollte."
+5,5004,"","If you simply have an interest in hacking, this
+overview will give you a glimpse into the weird
+and wonderful word of hackers.","純粹感到有興趣的人，或許可以透過此紀錄，
+窺看一部份有趣又奇怪的駭客世界。","","흥미가 있을 뿐인 자도, 이 기록을 통해
+재미있고 요상한 해커들의 세계의 일부를 엿볼 수 있겠지","Wenn du einfach nur am Hacking Interesse hast,
+erfährst du hier mehr über die seltsame und
+wunderbare Welt der Hacker."
+6,5004,"","Hackers","【關於駭客】","","【해커에 대하여】","Hacker"
+7,5004,"","The word ""hacker"" has various meanings.","駭客一詞存在著許多意義。","","해커라는 말에는 다양한 의미가 존재한다","Das Wort „Hacker“ hat mehrere Bedeutungen."
+8,5004,"","People who enjoy fiddling with the finer points of
+programmable systems and finding ways to enhance
+them.","探究可以程式化的系統細節，
+並熱衷於探究該機能的擴張方式而感到喜悅的人。","","프로그래밍 가능한 시스템의 세세한 부분을 탐색하거나
+그 기능 확장에 대해 열심히 탐구하며 기쁨을 느끼는 자","Leute, die Spaß daran haben, programmierbare
+Systeme auszunutzen und Wege zu finden,
+sie zu verbessern."
+9,5004,"","People who program with such enthusiasm that it is
+like they are possessed.","熱衷、癡迷於程式設計者。","","열중하여 무언가에 홀린 듯이 프로그래밍하는 자","Leute, die mit solchem Enthusiasmus programmieren,
+dass sie wie besessen scheinen."
+10,5004,"","People who are employed to keep data safe from
+other hackers by looking for loopholes and
+vulnerabilities.","朝著看似徒勞的目標前進，
+能理解耗費勞力的理由及動機而衍生出來的價值，
+也就是駭客價值之人。","","언뜻 쓸모없어 보이는 목표를 향해, 노력하는 이유나 동기로서
+들 수 있는 가치, 소위 말하는 해킹 가치를 인식할 수 있는 자","Leute, deren Job es ist, Daten vor anderen Hackern
+zu schützen, indem sie nach Lücken und
+Schwachstellen suchen."
+11,5004,"","People who specialize in programming at great
+speed... These are just a few examples.","亦或是擅長快速設計程式的人。
+……等等。","","빠른 프로그래밍이 특기인 자.
+…등이 있다","Leute, die auf superschnelle Programmierung
+spezialisiert sind ... Dies sind nur einige
+Beispiele."
+12,5004,"","There are even those for whom the word is
+synonymous with creative pranks.","也有駭客說這個詞有著
+「具有獨創性的惡作劇」之含義。","","이 말에는「독창적인 장난」이라는 의미가 있다고
+말한 해커도 존재한다","Dann gibt es noch solche, für die das Wort ein
+Synonym für kreative Streiche ist."
+13,5004,"","As such, the word ""hacker"" has different meanings
+depending on the time, place, and context in which
+it is used.","……像這樣，非法入侵這個詞會根據使用的時代、
+場所、世代、人物而含有各種的意義。","","……이렇듯, 해킹이라는 말에는 사용되는 시대
+장소, 세대, 인물에 따라 다양한 의미가 담겨있다","Das Wort „Hacker“ hat also verschiedene
+Bedeutungen, je nach Zeit, Ort und Umgebung, auf
+die es sich bezieht."
+14,5004,"","I wonder what meaning it will have for the reader
+when this article is released.","當這個紀錄被公開時，
+不知道閱覽者的周遭是怎麼使用這個詞的？","","이 기록이 명시되었을 때, 열람자의 주변에서는
+어떤 의미로 사용되고 있을 것인가","Es wäre interessant zu wissen, welche Bedeutung es
+für den Leser haben wird, wenn dieser Text
+veröffentlicht wird."
+15,5004,"","I love hacking!","祝非法入侵愉快！","","해피 해킹!","Ich liebe Hacking!"

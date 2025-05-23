@@ -1,0 +1,91 @@
+ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
+1,2020,"","(The client is the aquarium manager. We helped him
+with the theft case before.)","（委託人是水族館的館長嗎……
+　我記得他是之前水族館竊盜事件的委託人吧……）","","(의뢰인은 수족관 관장…인가.
+ 이 사람은 분명 전에 수족관에 도둑이 든 사건으로
+ 의뢰했던 사람이지…)","(Der Klient ist der Direktor des Aquariums. Wir
+haben ihm schon bei dem Diebstahlfall geholfen.)"
+2,2020,"","(Something else must have happened. I'll contact
+him and ask for details on the case.)","（看來又遇到什麼麻煩了，
+　總之先連絡他，了解詳細的委託內容吧）","","(또 무슨 일이 있었던 것 같다.
+ 일단 연락을 취해서 의뢰 내용을 자세하게 들어보자)","(Es muss noch etwas passiert sein. Ich werde ihn
+kontaktieren und um genauere Informationen zu dem
+Fall bitten.)"
+3,7211,"","Hello again. I'm the manager of the Ikebukuro
+Aquarium. I'm sure you remember me. Thank you for
+your help with the theft case from before.","啊，你好。
+我是池袋水族館的館長水下。
+竊賊那件事多虧你們幫忙了。","","아아, 안녕하십니까.
+이케부쿠로 수족관 관장 미즈시타입니다.
+도둑 건으로는 신세를 졌습니다","Hallo. Ich bin der Direktor des Aquariums in
+Ikebukuro. Du erinnerst dich sicher an mich.
+Danke für die Hilfe mit dem Diebstahlfall."
+4,7211,"","We have another problem, and I would like Hudie's
+help once again.","其實，又發生了一件很讓人困擾的事……
+希望能請hudie的人助一臂之力。","","사실은, 또 곤란한 일이 일어나서…
+후디에 분의 힘을 빌리고 싶습니다","Wir haben wieder ein Problem und ich möchte
+noch mal die Hilfe von Hudie in Anspruch nehmen."
+5,7211,"","Thank you. I suspect it might be another hacking
+incident.","非常感謝。
+這次的事件很可能是駭客做出的事件……","","감사합니다.
+이번에도 모종의 해킹 행위일 가능성이
+있는 사건이어서…","Danke. Ich gehe davon aus, dass wieder Hacker
+am Werk sind."
+6,7211,"","Something strange started happening with the
+aquarium's public announcement's a little while
+ago.","不久之前，水族館的館內廣播發生了奇妙的問題。","","얼마 전부터, 수족관 관내 방송에 이상한 일이
+일어나기 시작했습니다","Seit Kurzem passiert etwas Seltsames mit den
+öffentlichen Ankündigungen im Aquarium."
+7,2020,"","?","？","","?","?"
+8,7211,"","If the equipment was broken, we could just fix it,
+but that's not the problem.","不，不是廣播器材故障，
+要委託你們的不是這種問題。","","아니오, 방송 기재가 망가진 것을 고쳐달라는
+의뢰는 아닙니다","Wenn es an den Geräten läge, könnten wir sie
+reparieren lassen, aber das ist nicht das Problem."
+9,7211,"","For some time now, customers or employees who hear
+an announcement burst into tears for no apparent
+reason.","從某個時期開始，只要一聽到館內廣播，
+無論是客人還是工作人員都會突然哭出來，
+或是變得無精打睬。","","어느 시기부터, 관내 방송을 들은 관람객과 종업원들이
+울음을 터트리거나 무기력해지기 시작했습니다.","Seit einiger Zeit brechen Kunden und Mitarbeiter,
+die eine Ankündigung hören, aus unerfindlichem
+Grund in Tränen aus."
+10,7211,"","No, we don't play any sad music, just our usual
+announcements.","不，我們並沒有撥放讓人悲傷的音樂，
+撥放的只是平常在撥的廣播……","","아니오, 슬퍼지는 음악을 튼 것은 아닙니다.
+나오는 것은 평소와 같은 방송이고……","Nein, wir spielen keine traurige Musik, nur unsere
+üblichen Ankündigungen."
+11,7211,"","There's no doubt it only ever happens when an
+announcement is made.","不過這奇妙的現象，
+確實只有在撥放廣播時才會發生。","","하지만 틀림없이 그 묘한 현상은
+관내 방송이 발생할 때만 일어납니다","Es steht fest, dass es nur passiert, wenn eine
+Ankündigung gemacht wird."
+12,7211,"","Perhaps someone's tampered with the public
+announcement equipment?","這說不定是廣播器材被植入了什麼程式……","","그래도 어쩌면 방송 기재에 무언가 심어졌을 수도
+있을 것 같아서…","Vielleicht hat sich jemand an den Geräten für die
+öffentlichen Ankündigungen zu schaffen gemacht?"
+13,7211,"","We've stopped making announcements for now, but
+that's not a permanent solution.","現在為了安全起見，
+館內廣播暫時停止了。
+不過總不成一直都這樣下去。","","일단은 안전을 위해 관내 방송을
+중지하고 있지만
+계속 이러고 있을 수도 없습니다","Wir haben die Ankündigungen erst mal eingestellt,
+aber das ist keine dauerhafte Lösung."
+14,7211,"","They're essential for informing visitors when
+shows are about to start. Not to mention when
+children get lost.","畢竟無論是表演的通知還是協尋走失孩童等等，
+都需要用到廣播。","","쇼 안내나 미아 안내 시에도
+방송은 빼놓을 수 없으니까요","Sie sind wichtig, um Gäste zu informieren, wann
+die Shows beginnen. Und wenn Kinder von ihren
+Eltern getrennt werden."
+15,7211,"","Can you please look into it?","能請你幫我進行調查嗎？","","부디, 조사를 부탁드릴 수 있을까요?","Kannst du dich bitte darum kümmern?"
+16,7211,"","Thank you.","謝謝，就萬事拜託了。","","감사합니다.
+잘 부탁드립니다","Danke."
+17,2020,"","(The aquarium seems to have no end of bad luck...
+I'll start by going there and asking around about
+the announcements.)","（這間水族館真常被捲入麻煩啊……
+　先到水族館內，問關於館內廣播的情報吧）","","(자주 재난에 휘말리는 수족관이다…
+ 우선 수족관에 가서, 관내 방송에 대해
+ 탐문을 해보자)","(Das Aquarium scheint vom Pech verfolgt zu werden.
+Ich gehe zuerst mal hin und frage wegen der
+Ankündigungen herum.)"

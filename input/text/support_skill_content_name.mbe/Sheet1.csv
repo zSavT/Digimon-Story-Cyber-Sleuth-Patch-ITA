@@ -1,0 +1,402 @@
+ID,Japanese,English,Chinese,EnglishCensored,Korean,German
+1,"","Increases ATK by 15%.","ATK提升15%。","","공격력이 15% 상승한다.","Erhöht ANG um 15 %."
+2,"","Increases DEF by 15%.","DEF提升15%。","","방어력이 15% 상승한다.","Erhöht VER um 15 %."
+3,"","Increases INT by 15%.","INT提升15%。","","지력이 15% 상승한다.","Erhöht INT um 15 %."
+4,"","Increases SPD by 15%.","SPD提升15%。","","민첩이 15% 상승한다.","Erhöht GES um 15 %."
+5,"","Increases ACU by 15%.","ACU提升15%。","","명중률이 15% 상승한다.","Erhöht GEN um 15 %."
+6,"","Increases EVA by 7%.","EVA提升15%。","","회피율이 15% 상승한다.","Erhöht AWN um 7 %."
+7,"","Increases CRT by 15%.","CRT提升15%。","","크리티컬 발생률이 15% 상승한다.","Erhöht KRT um 15 %."
+8,"","Increases damage from
+Neutral skills by 15%.","無屬性技能造成的傷害增加15%。","","무속성 스킬의 대미지가
+15% 증가한다.","Erhöht den Schaden von Neutralfertigkeiten
+um 15 %."
+9,"","Increases damage from
+Fire skills by 15%.","火屬性技能造成的傷害增加15%。","","불속성 스킬의 대미지가
+15% 증가한다.","Erhöht den Schaden von Feuerfertigkeiten
+um 15 %."
+10,"","Increases damage from
+Water skills by 15%.","水屬性技能造成的傷害增加15%。","","물속성 스킬의 대미지가
+15% 증가한다.","Erhöht den Schaden von Wasserfertigkeiten
+um 15 %."
+11,"","Increases damage from
+Plant skills by 15%.","木屬性技能造成的傷害增加15%。","","풀속성 스킬의 대미지가
+15% 증가한다.","Erhöht den Schaden von Pflanzenfertigkeiten
+um 15 %."
+12,"","Increases damage from
+Electric skills by 15%.","雷屬性技能造成的傷害增加15%。","","전기속성 스킬의 대미지가
+15% 증가한다.","Erhöht den Schaden von Elektrofertigkeiten
+um 15 %."
+13,"","Increases damage from
+Earth skills by 15%.","土屬性技能造成的傷害增加15%。","","땅속성 스킬의 대미지가
+15% 증가한다.","Erhöht den Schaden von Erdfertigkeiten
+um 15 %."
+14,"","Increases damage from
+Wind skills by 15%.","風屬性技能造成的傷害增加15%。","","바람속성 스킬의 대미지가
+15% 증가한다.","Erhöht den Schaden von Windfertigkeiten
+um 15 %."
+15,"","Increases damage from
+Light skills by 15%.","光屬性技能造成的傷害增加15%。","","빛속성 스킬의 대미지가
+15% 증가한다.","Erhöht den Schaden von Lichtfertigkeiten
+um 15 %."
+16,"","Increases damage from
+Dark skills by 15%.","闇屬性技能造成的傷害增加15%。","","어둠속성 스킬의 대미지가
+15% 증가한다.","Erhöht den Schaden von Dunkelfertigkeiten
+um 15 %."
+17,"","Prevents poison.","不會陷入劇毒狀態","","맹독에 걸리지 않는다.","Verhindert Vergiftung."
+18,"","Prevents confusion.","不會陷入混亂狀態","","혼란에 걸리지 않는다.","Verhindert Verwirrung."
+19,"","Prevents paralysis.","不會陷入麻痺狀態","","마비에 걸리지 않는다.","Verhindert Lähmung."
+20,"","Prevents sleep.","不會陷入睡眠狀態","","수면에 걸리지 않는다.","Verhindert Schlaf."
+21,"","Prevents stunning.","不會陷入暈眩狀態","","스턴에 걸리지 않는다.","Verhindert Betäubung."
+22,"","Prevents dotting.","不會陷入液晶化狀態","","액정화에 걸리지 않는다.","Verhindert Verpixelung."
+23,"","Prevents instant death.","不會陷入即死狀態","","즉사에 걸리지 않는다.","Verhindert Soforttod."
+24,"","10% chance of poisoning target
+when attacking.","發動攻擊時，
+有10%的機率使對方中毒。","","공격을 할 때 10%의 확률로 
+대상을 맹독 상태로 만든다.","10 % Chance, das Ziel bei einem Angriff zu
+vergiften."
+25,"","10% chance of confusing target
+when attacking.","發動攻擊時，
+有10%的機率使對方混亂。","","공격을 할 때 10%의 확률로 
+대상을 혼란 상태로 만든다.","10 % Chance, das Ziel bei einem Angriff zu
+verwirren."
+26,"","10% chance of paralyzing target
+when attacking.","發動攻擊時，
+有10%的機率使對方麻痺。","","공격을 할 때 10%의 확률로 
+대상을 마비 상태로 만든다.","10 % Chance, das Ziel bei einem Angriff zu
+lähmen."
+27,"","10% chance of putting target to sleep
+when attacking.","發動攻擊時，
+有10%的機率使對方睡眠。","","공격을 할 때 10%의 확률로 
+대상을 잠재운다.","10 % Chance, das Ziel bei einem Angriff
+einzuschläfern."
+28,"","10% chance of stunning target
+when attacking.","發動攻擊時，
+有10%的機率使對方暈眩。","","공격을 할 때 10%의 확률로 
+대상을 스턴 상태로 만든다.","10 % Chance, das Ziel bei einem Angriff zu
+betäuben."
+29,"","10% chance of dotting target
+when attacking.","發動攻擊時，
+有10%的機率使對方液晶化。","","공격을 할 때 10%의 확률로 
+대상을 액정화 상태로 만든다.","10 % Chance, das Ziel bei einem Angriff zu
+verpixeln."
+30,"","10% chance of instantly killing target
+when attacking.","發動攻擊時，
+有10%的機率使對方立即死亡。","","공격을 할 때 10%의 확률로 
+대상을 즉사시킨다.","10 % Chance, das Ziel bei einem Angriff
+sofort zu töten."
+31,"","Increases probability of combos occurring and
+continuing by 10%.","連擊的發生、持續機率提升10%","","콤보가 발생/이어질 확률이
+10% 상승한다.","Erhöht die Wahrscheinlichkeit, Kombos
+auszuführen oder fortzusetzen, um 10 %."
+32,"","Makes it easier to escape from battle.","逃脫變得更容易成功。","","도주에 성공하기 쉬워진다.","Erleichtert die Flucht aus dem Kampf."
+33,"","Increases EXP earned in battle.","增加戰鬥時獲取的EXP。","","배틀로 얻는 EXP가 증가한다.","Erhöht die in Kämpfen gewonnenen EP."
+34,"","Increases YEN earned in battle.","增加戰鬥時獲取的YEN。","","배틀로 얻는 YEN이 증가한다.","Erhöht die in Kämpfen gewonnenen Yen."
+35,"","Increases foe drop rate for items.","增加敵人掉落道具的機率。","","적이 아이템을 떨어뜨릴 확률이 증가한다.","Sorgt dafür, dass Gegner mehr Beute
+zurücklassen."
+36,"","Increases scan values by 10%.","掃描值提升10%。","","스캔치가 10% 상승한다.","Erhöht Scanwerte um 10 %."
+37,"","Increases given stat boost effects by 5%.","狀態提升效果增加5%。","","획득하는 스테이터스 상승 효과가 5% 증가한다.","Erhöht bestehende Werteboni um 5 %."
+38,"","Decreases received stat reduction effects
+by 5%.","狀態降低效果減少5%。","","하락하는 스테이터스 하강 효과가 5% 감소한다.","Reduziert bestehende Wertemalusse um 5 %."
+39,"","Restores 6% of Max HP every turn.","每回合回復最大HP的6%。","","매 턴, 최대 HP의 6%를 회복한다.","Stellt bei jedem Zug 6 % der maximalen TP
+wieder her."
+40,"","Restores 5% of Max SP every turn.","每回合回復最大SP的5%。","","매 턴, 최대 SP의 5%를 회복한다.","Stellt bei jedem Zug 5 % der maximalen SP
+wieder her."
+41,"","Increases HP recovery effects by 20%.","HP回復效果增加20%。","","HP회복 효과가 20% 증가한다.","Verstärkt TP-Heilungseffekte um 20 %."
+42,"","Increases damage given by 20%,
+but also increases damage received by 20%.","給予敵人的傷害增加20%，
+但受到的傷害也增加20%。","","주는 대미지가 20% 증가하지만
+받는 대미지도 20% 증가한다.","Erhöht den verursachten aber auch den
+erlittenen Schaden um 20 %."
+43,"","Increases ATK by 20% when
+HP drops below 50%.","HP在50%以下時，
+ATK提升25%。","","HP 50% 이하가 되었을 때
+공격력이 20% 상승한다.","Erhöht ANG um 20 %, wenn die TP unter 50 %
+fallen."
+44,"","Reduces physical damage received by 15%.","受到的物理傷害減少15%。","","받는 물리 대미지가 15% 경감한다.","Reduziert den erlittenen physischen Schaden
+um 15 %."
+45,"","Increases damage dealt to Royal Knights by 50%.","給予皇家騎士的傷害增加50%。","","로얄 나이츠에게 주는 대미지가 
+50% 증가한다.","Erhöht den Schaden gegen Royal Knights
+um 50 %."
+46,"","Makes sure you always move first in battle.
+(Only affects the caster.)","戰鬥開始時必定能先採取行動。
+（本技能只影響本人）","","배틀 시작 시 반드시 선제공격 할 수 있다.
+(이 스킬은 사용자에게만 영향을 준다)","Sorgt dafür, dass du im Kampf immer zuerst am
+Zug bist. (Betr. nur d. ausführende Digimon.)"
+47,"","Increases ACU and EVA by 5%,
+and CRT by 10%.","ACU和EVA提升5%，CRT提升10%。","","명중률과 회피율이 5% 상승하고
+크리티컬 발생률이 10% 상승한다.","Erhöht GEN und AWN um 5 % sowie 
+KRT um 10 %."
+48,"","Increases SPD by 10%, and damage from
+Fire and Light skills by 10%.","SPD提升10%，
+火、光屬性技能造成的傷害增加10%。","","민첩이 10% 상승하고 불/빛속성 스킬로
+주는 대미지가 10% 증가한다.","Erhöht GES sowie den Schaden von Feuer- und
+Lichtfertigkeiten um 10 %."
+49,"","Increases DEF by 10%, and damage from
+Water and Dark skills by 10%.","DEF提升10%，
+水、闇屬性技能造成的傷害增加10%。","","방어력이 10% 상승하고 물/어둠속성 스킬로
+주는 대미지가 10% 증가한다.","Erhöht VER sowie den Schaden von Wasser- 
+und Dunkelfertigkeiten um 10 %."
+50,"","If HP is over 50% of Max HP, a fatal attack
+will instead leave you with 1 HP.","HP在50%以上，遭受導致無法戰鬥的攻擊時，
+能以HP1的狀態承受住。","","HP 50% 이상으로 전투불능이 되는 공격을
+받았을 때, HP를 1 남긴다.","Bei über 50 % der maximalen TP reduziert ein
+andernfalls tödlicher Angriff die TP auf 1."
+51,"","Reduces damage received by 10%.","受到的傷害減少10%。","","받은 대미지를 10% 경감한다.","Reduziert den erlittenen Schaden um 10 %."
+52,"","Cuts the rate of abnormal statuses received
+by 50%.","陷入異常狀態的機率降低50%。","","상태이상이 될 확률이 50% 저하된다.","Reduziert die Häufigkeit von Statusleiden
+um 50 %."
+53,"","Increases ATK, DEF, INT and SPD by 5%.","ATK、DEF、INT、SPD提升5%。","","공격력/방어력/지력/민첩이
+5% 상승한다.","Erhöht ANG, VER, INT und GES um 5 %."
+54,"","Increases ATK and INT by 10%.","ATK和INT提升10%。","","공격력과 지력이 10% 상승한다.","Erhöht ANG und INT um 10 %."
+55,"","Increases damage from Fire and Wind
+skills by 10%.","火、風屬性技能造成的傷害增加10%. ","","불/바람속성 스킬로
+주는 대미지가 10% 증가한다.","Erhöht den Schaden von Feuer- und
+Windfertigkeiten um 10 %."
+56,"","Reduces SP consumed by skills by 20%.","使用技能時消費的SP減少20%。","","스킬로 소비하는 SP가 20% 감소한다.","Reduziert den SP-Verbrauch von Fertigkeiten
+um 20 %."
+57,"","Increases EVA and CRT by 5%,
+and SPD by 10%.","EVA和CRT提升5%，SPD提升10%。","","회피율과 크리티컬 발생률이 5% 상승하고
+민첩이 10% 상승한다.","Erhöht AWN und KRT um
+5 % sowie GES um 10 %."
+58,"","Increases ATK by 50% when
+HP drops below 10%.","HP在10%以下時，
+ATK提升50%。","","HP 10% 이하가 되면
+공격력이 50% 상승한다.","Erhöht ANG um 50 %, wenn die TP unter 10 %
+fallen."
+59,"","Has a 10% chance of reducing
+damage received by 75%.","有10%的機率使受到的傷害減少75%。","","10%의 확률로 받는 대미지를
+75% 경감한다.","10 % Chance, den erlittenen Schaden um 75 %
+zu reduzieren."
+60,"","Increases damage from attributes
+with good affinity by 15%.","給予有利屬性的傷害增加15%","","유리한 속성에 주는 대미지가
+15% 증가한다.","Erhöht den Schaden von Attributen mit guter
+Affinität um 15 %."
+61,"","Increases INT by 50% when HP drops below 25%.","HP在25%以下時，
+INT提升50%。","","HP 25% 이하가 되었을 때
+지력이 50% 상승한다.","Erhöht INT um 50 %, wenn die TP unter 25 %
+fallen."
+62,"","Increases amount of HP and SP
+received from absorption effects by 20%.","因HP吸收效果、SP吸收效果
+回復量增加20%。","","HP흡수/SP흡수 효과에 의한 회복률이
+20% 증가한다.","Erhöht die durch Absorption erhaltene TP- und
+SP-Menge um 20 %."
+63,"","Reduces HP by 5% of Max HP
+and increases ATK by 5% every turn.","每回合減少最大HP的5%，
+ATK提升5%。","","매 턴, 최대 HP의 5%만큼 HP가 감소하고
+공격력이 5% 상승한다.","Verbraucht bei jedem Zug 5 % der maximalen 
+TP und erhöht gleichzeitig ANG um 5 %."
+64,"","Prevents Sleep, and has a 30% chance of
+putting target to sleep when attacking.","不會陷入睡眠狀態。且在發動攻擊時，
+有30%的機率使對方睡眠。","","수면에 걸리지 않는다. 또한 공격했을 때
+30%의 확률로 대상을 잠재운다.","Verhindert Schlaf. 30 % Chance, das Ziel bei
+einem Angriff einzuschläfern."
+65,"","30% chance of instantly killing target when
+attacking if lower than Ultimate.","發動攻擊時，對方若為完全體以下，
+有30%的機率使對方立即死亡。","","공격했을 때 대상이 완전체 이하일 경우
+30% 확률로 즉사시킨다.","30 % Chance, ein Ziel unter der Ultra-Stufe
+bei einem Angriff sofort zu töten."
+66,"","Increases damage done to targets by 15%
+if they are Mega or above.","對方為究極體以上時，
+給予的傷害增加15%。","","대상이 궁극체 이상일 때
+주는 대미지가 15% 증가한다.","Erhöht den Schaden gegen Ziele auf 
+Mega-Stufe oder höher um 15 %."
+67,"","Reduces damage received from physical
+attacks by 10% and converts it to SP.","受到物理攻擊時，
+傷害減少10%並轉換為SP。","","물리공격을 받았을 때
+대미지의 10%를 경감하고 SP로 변환한다.","Reduziert den Schaden durch physische
+Angriffe um 10 % und wandelt ihn in SP um."
+68,"","Increases damage from
+all attribute skills by 5%.","全屬性技能造成的傷害增加5%。","","모든속성의 스킬 대미지가
+5% 증가한다.","Erhöht den Schaden von Fertigkeiten aller
+Attribute um 5 %"
+69,"","Reduces damage received from magic
+attacks by 10% and converts it to HP.","受到魔法攻擊時，
+傷害減少10%並轉換為HP。","","마법공격을 받았을 때
+대미지의 10%를 경감하고 HP로 변환한다.","Reduziert den Schaden durch magische
+Angriffe um 10 % und wandelt ihn in TP um."
+70,"","Increases DEF and INT by 10%.","DEF和INT提升10%。","","방어력과 지력이 10% 상승한다.","Erhöht DEF und INT um 10 %."
+71,"","Increases ATK and SPD by 10%.","ATK和SPD提升10%。","","공격력과 민첩이 10% 상승한다.","Erhöht ANG und GES um 10 %."
+72,"","Reduces damage received from species
+with bad affinity by 15%.","受到不利種族造成的傷害減少15%。","","불리한 종족으로부터 받는 대미지를
+15% 경감한다.","Reduziert den durch Wesen mit schlechter
+Affinität erlittenen Schaden um 15 %."
+73,"","Increases Light and Dark skill damage by 10%
+and increases HP recovery effects by 10%.","光、闇屬性技能造成的傷害增加10%，
+HP回復效果增加10%。","","빛/어둠속성 스킬로 받는 대미지가 10%
+증가하고 HP회복 효과가 10% 증가한다.","Erhöht TP-Regeneration sowie den Schaden 
+von Licht- und Dunkelfertigkeiten um 10 %."
+74,"","Restores 3% of Max HP and SP every turn.","每回合回復最大HP和最大SP的3%。","","매 턴, HP와 SP가
+최대 3% 회복한다.","Stellt bei jedem Zug 3 % der maximalen TP
+und SP wieder her."
+75,"","Increases ACU and EVA by 1%.","ACU和EVA提升1%。","","명중률과 회피율이 1% 상승한다.","Erhöht GEN und AWN um 1 %."
+76,"","Increases SPD and EVA by 25%
+when HP drops below 25%.","HP在25%以下時，
+SPD和EVA提升25%。","","HP 25% 이하가 되었을 때
+민첩과 회피율이 25% 상승한다.","Erhöht GES und AWN um 25 %, wenn die TP
+unter 25 % fallen."
+77,"","Increases damage from Water and Light skills
+by 10%.","水、光屬性技能造成的傷害增加10%。","","물/빛속성 스킬 대미지가
+10% 증가한다.","Erhöht den Schaden von Wasser- und
+Lichtfertigkeiten um 10 %."
+78,"","Increases amount of SP received from
+absorption effects by 30%.","SP吸收效果的回復量增加30%。","","SP흡수 효과로 회복량이
+30% 증가한다.","Erhöht die durch Absorption erhaltene
+SP-Menge um 30 %."
+79,"","Increases ATK by 10% and amount of HP
+received from absorption effects by 30%.","攻擊力增加10%，HP吸收效果的回復量增加30%。","","공격력이 10% 증가하고 HP흡수 효과에 의한
+회복량이 30% 증가한다.","Erhöht ANG um 10 % und die durch Absorption
+erhaltene TP-Menge um 30 %."
+80,"","Increases ACU and CRT by 10%.
+","命中率與CRT發生率上升10%","","명중률과 크리티컬 발동률이
+10% 상승한다.","Erhöht GEN und KRT um 10 %.
+"
+81,"","Increases damage given by 30%, but also
+increases damage received by 30%.","給予的傷害增加30%，
+但受到的傷害也會增加30%。","","주는 대미지가 30% 증가하지만
+받는 대미지도 30% 증가한다.","Erhöht den verursachten aber auch den
+erlittenen Schaden um 30 %."
+82,"","Increases damage from Wind and Light skills
+by 10%.","風‧光屬性技能所給予的傷害增加10%","","바람/빛속성 스킬 대미지가
+10% 증가한다.","Erhöht den Schaden von Wind- und
+Lichtfertigkeiten um 10 %."
+83,"","Increases magic damage received by 50%, but also
+increases ATK by 25%.","受到的魔法傷害增加50%，
+但攻擊力提升25%。","","받는 마법 대미지가 50% 증가하는 대신
+공격력이 25% 증가한다.","Erhöht den erlittenen magischen Schaden 
+um 50%, aber auch ANG um 25 %."
+84,"","Increases physical damage received by 20%,
+but also increases INT by 13%","受到的物理傷害增加20%，
+但AVD提昇13%。","","받는 물리 대미지가 20% 증가하는 대신
+회피율이 13% 상승한다.","Erhöht den erlittenen physischen Schaden
+um 20 %, aber auch INT um 13 %."
+85,"","Increases damage from Electric and Wind
+skills by 10%.","雷‧風屬性所給予的傷害增加10%。","","전기/바람속성 스킬 대미지가
+10% 증가한다.","Erhöht den Schaden von Elektro- und
+Windfertigkeiten um 10 %."
+86,"","Restores 5% max HP every turn, and increases
+HP received from absorption effects by 20%.","每回合回復HP最大值的5%，
+因HP吸收效果，回復量增加20%。","","매 턴, 최대 HP의 5%만큼 HP를 회복하고 
+HP흡수 효과로 회복률이 20% 증가한다.","Regeneriert jeden Zug 5 % der maximalen TP,
+erhöht die absorbierte TP-Menge um 20 %."
+87,"","Reduces chance of Instant Death by 50%, and
+increases CRT by 10%.","降低受到即死效果的機率50%，
+提昇CRT發生率10%。","","즉사에 걸릴 확률을 50% 저하하고
+크리티컬 발생률이 10% 상승한다.","Reduziert Chance auf Soforttod um 50 %,
+erhöht KRT um 10 %."
+88,"","Increases HP received from absorption effects
+by 25%.","增加依照HP吸取效果的回復量25%。","","HP흡수 효과에 따른 회복량이
+25% 증가한다.","Erhöht die absorbierte TP-Menge um 25 %."
+89,"","Reduces damage taken from attacks from bad
+matchups by 10% and converts it to SP.","受到適性不利的種族攻擊時，
+減輕傷害10%，變換為SP。","","불리한 종족으로부터 공격을 받았을 때
+대미지의 10%를 경감하고 SP로 변환한다.","Reduziert Angriffsschaden bei schlechten
+Kombos um 10 % und wandelt ihn in SP um."
+90,"","Increases ATK, DEF, INT and SPD by 10%.","ATK．DEF．INT．SPD
+上升10%。","","공격력/방어력/지력/민첩이
+10% 상승한다.","Erhöht ANG, VER, INT und GES um 10 %."
+91,"","Increases SPD by 20%, but reduces ATK by 10%.","SPD上升20%。
+ATK減少10%。","","민첩이 20% 상승하는 대신
+공격력이 10% 감소한다.","Erhöht GES um 20 %, senkt ANG um 10 %."
+92,"","Increases ATK by 20%, but reduces SPD by 10%.","ATK上升20%。
+SPD減少10%。","","공격력이 20% 상승하는 대신
+민첩이 10% 감소한다.","Erhöht ANG um 20 %, senkt GES um 10 %."
+93,"","Increases damage dealt by Fire, Wind, Plant
+and Earth skills by 8%.","增加 火．風．草．土屬性技能
+所給予的傷害8%。","","불/바람/풀/땅 속성 스킬로
+주는 대미지가 8% 증가한다.","Erhöht den Schaden von Feuer-, Wind-,
+Pflanzen- und Erdfertigkeiten um 8 %."
+94,"","Increases damage dealt by Electric, Water,
+Light and Dark skills by 8%.","增加 雷．水．光．闇屬性技能
+所給予的傷害8%。","","전기/물/빛/어둠속성 스킬로
+주는 대미지가 8% 증가한다.","Erhöht den Schaden von Elektro-, Wasser-,
+Licht- und Dunkelfertigkeiten um 8 %."
+95,"","Increases ATK and INT by 10%, and increases
+damage done by Light skills by 10%.","ATK與INT上升10%，增加光屬性技能
+所給予的傷害10%。","","공격력과 지력이 10% 상승하고 빛속성 스킬로
+주는 대미지가 10% 증가한다.","Erhöht ANG und INT um 10 %. Erhöht den
+Schaden von Lichtfertigkeiten um 10 %."
+96,"","Has a 5% chance to raise ATK and lower DEF by
+50% when damage is received.","被攻擊時，5%的機率上升ATK50%
+DEF減少50%。","","대미지를 받았을 때 5%의 확률로 공격력이
+50% 증가하고 방어력이 50% 감소한다.","Chance von 5 % auf ANG +50 % und 
+VER –50 % bei erlittenem Schaden."
+97,"","Increases SPD and damage dealt by Wind skills
+by 10%.","增加風屬性技能所給予的傷害，
+且SPD也增加10%。","","바람속성 스킬로 주는 대미지와
+민첩이 10% 증가한다.","Erhöht GES und den Schaden von
+Windfertigkeiten um 10 %."
+98,"","Increases ATK and damage dealt by Earth
+skills by 10%.","增加土屬性技能所給予的傷害，
+且ATK也增加10%。","","땅속성 스킬로 주는 대미지와
+공격력이 10% 증가한다.","Erhöht ANG und den Schaden von
+Erdfertigkeiten um 10 %."
+99,"","Increases damage given by 10%.","增加所給予的傷害10%。","","주는 대미지가 10% 증가한다.","Erhöht den verursachten Schaden um 10 %."
+100,"","Reduces damage received by 10%.","減輕受到的傷害10%。","","받는 대미지를 10% 경감한다.","Reduziert den erlittenen Schaden um 10 %."
+101,"","Slightly increases EXP from battles, and
+reduces damage taken by 5%.","增加在戰鬥中所得到的EXP，
+減輕受到的傷害5%。","","배틀로 얻는 EXP가 조금 증가하고
+받는 대미지를 5% 경감한다.","Erhöht EP bei Kämpfen leicht, senkt
+erlittenen Schaden um 5 %."
+102,"","Increases ATK and probability of combos
+occurring by 8%.","提高ATK及連擊發生．接續的機率8%。","","공격력과 콤보의 발생/이어질 확률이
+8% 상승한다.","Erhöht ANG und die Wahrscheinlichkeit,
+Kombos auszuführen, um 8 %."
+103,"","Cuts the rate of abnormal statuses received
+by 10%, and recovers 5% of HP per turn.","降低受到異常狀態的機率10%，
+每一回合回復HP5%。","","상태이상 확률이 10% 저하하고
+매 턴 HP를 5% 회복한다.","Reduziert die Häufigkeit von Statusleiden
+um 10 %. Regeneriert pro Zug 5 % TP."
+104,"","Increases damage dealt by Light and Dark
+skills by 10%.","增加光．闇屬性技能所給予的傷害10%。","","빛/어둠속성 스킬로 주는 대미지가
+10% 증가한다.","Erhöht den Schaden von Licht- und
+Dunkelfertigkeiten um 10 %."
+105,"","Increases HP from absorption effects by 25%,
+and damage dealt by Dark skills by 10%.","依照HP吸取效果回復量25%，
+增加闇屬性技能所給予的傷害10%。","","HP 흡수 효과에 따른 회복량이 25%, 어둠속성
+스킬로 주는 대미지가 10% 증가한다.","Erhöht absorbierte TP-Menge um 25 % sowie
+den Schaden von Dunkelfertigkeiten um 10 %."
+106,"","Increases EXP earned in battle.","增加在戰鬥中所獲得的EXP。","","배틀로 얻는 EXP가 증가한다.","Erhöht die in Kämpfen gewonnenen EP."
+107,"","Increases both ATK and damage dealt by
+Fire and Dark skills by 10%.","ATK上升10%，且增加火．闇屬性技能
+所給予的傷害10%。","","공격력이 10% 올라가고 불/어둠속성 스킬로
+주는 대미지가 10% 증가한다.","Erhöht ANG und den Schaden von Feuer- und
+Dunkelfertigkeiten um 10 %."
+108,"","Greatly decreases EVA, but also reduces
+damage received by 15%.","EVA大幅下降，
+但所受損傷減少15%。","","회피율이 크게 떨어지는 대신
+받는 대미지를 15% 경감한다.","Reduziert AWN erheblich, verringert aber auch
+den erlittenen Schaden um 15 %."
+109,"","Reduces SP consumed by skills by 15%.","技能消費SP減少15%。","","스킬로 소비되는 SP가 15% 감소한다.","Reduziert den SP-Verbrauch von Fertigkeiten
+um 15 %."
+110,"","Cuts the rate of abnormal statuses received
+by 30%.","受到異常狀態機率減少30%。","","상태이상이 될 확률을 30% 저하한다.","Reduziert die Häufigkeit von Statusleiden
+um 30 %."
+111,"","Raise CRT and probability of combos by 10%.","產生、持續連擊的機率，
+與CRT發生率提昇10%。","","콤보의 발생/이어질 확률과
+크리티컬 발생률을 10% 올린다.","Erhöht KRT und die Wahrscheinlichkeit, 
+Kombos auszuführen, um 10 %."
+112,"","Increases damage dealt to Royal Knights 
+by 50%.","對皇家騎士的損傷增加50%","","로얄 나이츠에 주는 대미지가
+50% 증가한다.","Erhöht den Schaden gegen Royal Knights
+um 50 %."
+113,"","Increases damage dealt by 5%, and decreases
+damage received by 5%.","增加造成損傷5%，
+減少受到損傷5%。","","주는 대미지가 5% 증가하고
+받는 대미지가 5% 경감한다.","Erhöht den Schaden um 5 %, reduziert
+erlittenen Schaden um 5 %."
+114,"","Increases yen earned in battle, and ensures
+successful escape from battle if possible.","增加戰鬥時能得到的YEN，
+在能逃走的戰鬥，一定能成功逃走。","","배틀로 획득하는 YEN이 증가하고
+도주 가능한 전투에서 반드시 도주에 성공한다.","Erhöht die in Kämpfen gewonnenen Yen. 
+Sichert Flucht aus Kämpfen, wenn möglich."
+201,"","Nullifies received stat reduction effects.","無效基本狀態下降效果。","","받는 스테이터스 하락 효과를 무효화한다.","Negiert bestehende Wertemalusse."
+202,"","Ensures successful escape from any battle you
+can escape from.","有逃脫的機會的戰鬥，絕對能逃脫成功。","","도주 가능한 전투에서 반드시 도주에 성공한다.","Sichert erfolgreiche Flucht von allen
+Kämpfen, bei denen man fliehen kann."
+203,"","Significantly increases EXP earned in battle.","大幅的增加在戰鬥中獲得的EXP。","","배틀로 얻는 EXP가 크게 증가한다.","Erhöht die in Kämpfen gewonnenen EP stark."
+115,"","Increases ATK and CRT by 10%.","ATK跟CRT發生率上升10%。","","공격력과 크리티컬 발생률이 10% 상승한다.","Erhöht ANG und KRT um 10 %."
+116,"","Increases damage from Neutral skills by 20%,
+but decreases all other skill damage by 10%.","增加無屬性技能造成的損傷20％，
+但會減少其他屬性造成的損傷10％。","","무속성 스킬의 대미지가 20% 증가하지만
+다른 속성 스킬의 대미지가 10% 감소한다.","Neutralfertigkeiten bewirken +20 % Schaden,
+andere Fertigkeiten bewirken –10 % Schaden."

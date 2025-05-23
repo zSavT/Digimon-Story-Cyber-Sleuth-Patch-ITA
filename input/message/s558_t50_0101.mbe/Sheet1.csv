@@ -1,0 +1,87 @@
+ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
+1,2020,"","(The client is Detective Matayoshi. I'll contact
+him and ask for details on the case.)","（委託人是又吉刑警啊…
+　首先就先聯絡看看，聽聽委託的詳情吧）","","(의뢰인은 마타요시 형사…인가.
+ 일단 연락을 취해서 의뢰 내용을 자세하게 들어보자)","(Der Klient ist Kommissar Matayoshi. Ich werde
+ihn kontaktieren und um genauere
+Informationen zu dem Fall bitten.)"
+2,3007,"","Oh, you've taken my case. I expect good things.","你會接下這委託嗎，
+我可是很期待喔？","","네가 의뢰를 받아준 거냐.
+기대하고 있겠다","Ach, du hast meinen Fall angenommen. Ich erwarte
+Gutes von dir."
+3,3007,"","I'll get right to the point. I'm a little pushed
+for time.","馬上開始說明委託吧，
+我們也有點急迫啊。","","그럼 바로 의뢰 설명으로 들어가도록 하마.
+이쪽도 조금 서두르고 있어서 말이지","Ich komme gleich zur Sache. Ich habe nicht viel
+Zeit."
+4,3007,"","This is somewhat embarrassing, but the Cyber
+Crimes Investigation Unit's sever was hacked
+recently.","雖然這講出來很丟臉……
+但之前，電腦犯罪搜查課的伺服器被入侵了。","","우리 망신이다만……
+요전에 전뇌범죄수사과 서버가 해킹당했거든","Das ist etwas peinlich, aber der Server der
+Ermittlungseinheit für Cyberkriminalität
+wurde vor Kurzem gehackt."
+5,3007,"","Do you have an idea who did it? If so, please let
+me know.","嗯？　你知道什麼嗎？
+那就提供情報給我吧。","","음? 뭔가 짚이는 게 있냐?
+그러면 정보를 제공해줘","Hast du eine Idee, wer es gewesen sein könnte?
+Wenn ja, sag mir bitte Bescheid."
+6,3007,"","Whoever it was is highly skilled. We had no idea
+we'd been infiltrated.","入侵的那傢伙技術好像很厲害，
+我們只知道被人入侵了。","","그 녀석 제법 솜씨가 좋은 것 같아서
+침입했다는 것밖에 알아내지 못했어","Wer auch immer es war, die Person war sehr fähig.
+Wir hatten keine Ahnung, dass wir infiltriert
+worden waren."
+7,3007,"","They didn't leave a single clue. Do you know
+anything about it?","完全沒有留下那傢伙的任何線索，
+要是你知道什麼的話，能不能告訴我們啊？","","녀석을 알 수 있는 단서는 남아 있지 않았다.
+뭔가 안다면 알려주지 않겠냐?","Die Person hat nicht einen Hinweis hinterlassen.
+Weißt du irgendwas dazu?"
+8,3007,"","Not even an inkling? ...Fine. Never mind.","這樣啊，你不知道。
+……算了，就這樣吧。","","그래, 짚이는 데가 없나.
+……뭐, 상관없지","Nicht die leiseste Ahnung? Egal."
+9,3007,"","I don't need you to find the perpetrator.","反正這次的委託也不是要找嫌疑人啦。","","이번 의뢰는 용의자 찾기가 아니거든","Du musst den Täter nicht für mich finden."
+10,3007,"","And we've already beefed up security.","……因為被入侵的關係，
+我們決定更加強化安全措施。","","……그래서, 침입을 당한 우리는
+보안을 더 강하게 만들기로 했어","Und wir haben die Sicherheitsvorkehrungen bereits
+verstärkt."
+11,3007,"","We've equipped the Cyber Crimes Investigation
+Unit's server with a new Security Wall.","其中一環就是在電腦犯罪搜查課的伺服器上，
+引進最新型的防火牆。","","그 일환으로 전뇌범죄수사과 서버에
+최신 방화벽을 도입했거든","Wir haben den Server der Ermittlungseinheit für
+Cyberkriminalität mit einem neuen
+Sicherheitswall ausgestattet."
+12,3007,"","But it's been acting up lately.","但是，那防火牆最近的狀況實在是很奇怪。","","그런데, 아무래도 그 방화벽의
+상태가 요즘 이상해","Aber in letzter Zeit spielt er etwas verrückt."
+13,3007,"","Authorized IDs and programs have been attacked
+indiscriminately.","就連有許可的ID或程式，
+都會無差別地進行攻擊。","","허가한 ID와 프로그램까지
+무차별적으로 공격해","Autorisierte Profile und Programme werden wahllos
+angegriffen."
+14,3007,"","I tried to handle it, but it wouldn't allow me to
+do anything at all.","我們雖然也想盡了辦法，
+但現在居然也不接受我們的操作了。","","이쪽도 어떻게든 해보려고 했는데
+이쪽 조작은 받아들이질 않더군","Ich habe versucht, das zu regeln, aber ich konnte
+nichts unternehmen."
+15,3007,"","That's why I need you to find the cause and fix
+the Security Wall. Are you up to the task?","所以，我想找你來調查這狀況的原因，
+並且修好防火牆，能拜託你嗎？","","그래서 이렇게 된 원인을 조사해서
+방화벽을 고쳐줬으면 해. 부탁할 수 있겠나?","Darum will ich, dass du die Ursache findest und
+den Sicherheitswall reparierst. Schaffst du das?"
+16,3007,"","The main character nods.","","","","Die Hauptfigur nickt."
+17,3007,"","Thanks. I'm counting on you.","你幫了大忙啊。
+那麼，就拜託你了。","","고맙다.
+그럼, 잘 부탁해","Danke. Ich verlasse mich auf dich."
+18,3007,"","Oh, one more thing...","──啊，還有一件事忘了說。","","――아아 그리고, 하나 잊어버렸군","Ach, eins noch ..."
+19,3007,"","No pranks this time.","這次可別再惡作劇了喔？","","이번엔 장난치지 마라?","Dieses Mal keine Streiche."
+20,3007,"","Hahaha! The look on your face... You may be a
+skilled hacker, but you're still wet behind the
+ears.","哈哈哈！　還會有那種反應的話，
+就算你實力進步了也依然是菜鳥啊。","","핫핫하! 그렇게 반응하다니
+실력은 있어도 아직 햇병아리구나","Hahaha! Dein Gesicht ... Du magst ein guter
+Hacker sein, aber du bist trotzdem noch grün
+hinter den Ohren."
+21,3007,"","I don't have any evidence, just my gut feeling...","反正，沒有留下證據一類的東西。
+這也只是單純的刑警直覺啦……","","뭐, 증거도 뭣도 없지만
+그냥 형사의 감이란 거다……","Ich habe keine Beweise, bloß meinen Instinkt ..."
+22,3007,"","Okay, I'll leave you to it.","那麼，就萬事拜託了喔？","","그럼, 아무쪼록 부탁 좀 하마?","Also gut, dann mal ran an die Arbeit."

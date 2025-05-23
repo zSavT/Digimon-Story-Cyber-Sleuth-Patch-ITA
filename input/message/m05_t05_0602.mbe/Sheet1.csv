@@ -1,0 +1,104 @@
+ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
+1,3003,"","I see...","原來是這樣啊……","","…그렇게 된 거군요","Verstehe ..."
+2,3006,"","What do you say? We really need your help with the
+investigation.","如何？
+希望妳能協助我們調查。","","어떤가?
+부디, 조사에 협력해 줬으면 한다만","Was meinst du? Wir brauchen deine Hilfe für
+diesen Fall wirklich."
+3,3003,"","That's... fine. I want to know if my suspicions
+are correct as well, after all.","我願意……
+因為我也想知道那個嫌疑的真相……","","그건… 상관없어요
+저도, 그 의혹에 대한 진상은 알고 싶으니까요…","Das ... geht schon in Ordnung. Ich möchte
+schließlich auch wissen, ob mein Verdacht
+begründet ist."
+4,3007,"","Ah ha!","喔喔！","","오오!","Aha!"
+5,3003,"","But I am a minor, and as such, my authority
+within the company is rather restricted.","只是因為我還未成年，
+所以在公司裡面的權限受到大幅限制。","","하지만… 전, 미성년자라는 이유로
+사내에서의 권한이 크게 제한되어 있어요","Aber ich bin noch minderjährig und habe daher
+nicht viel zu sagen in der Firma."
+6,3003,"","I doubt I'll be able to do much more than get you
+into the lobby of the main office.","我能做到的……
+應該只有邀請你們到總公司大廳吧。","","제가 할 수 있는 건, 아마…
+본사 로비에 초대하는 것 정도예요","Ich werde euch kaum weiter bringen können als
+in die Lobby der Hauptniederlassung."
+7,3003,"","Let me think about this... If I were inviting
+friends from school to take a tour...","我想想……
+用招待學校的朋友來參觀這個名目……","","그러네요…
+학교 친구를 견학에 초대한다는 명목으로라면―","Lasst mich nachdenken ... Wenn ich Freunde aus
+der Schule mitbringen würde für eine Führung ..."
+8,3003,"","It shouldn't be an issue getting you in to the
+lobby, I think.","就可以在不被懷疑的情況下，
+帶你們到總公司大廳了。","","본사 로비까지는 의심 받지 않고
+데리고 갈 수 있을 거라 생각해요","Euch in die Lobby zu bringen, dürfte wohl kein
+Problem sein."
+9,3007,"","It'd be hard passing me and Kyo-chan off as your
+friends. Worst case, they might recognize us, too.","說我跟小杏是妳的朋友有點勉強……
+一個不小心，說不定還會被揪出身份。","","뭐, 나나 쿄짱이 친구가 되는 건 힘들겠지…
+어쩌면, 얼굴이 알려져 있을지도 몰라","Mich und Kyo-chan wirst du kaum als deine Freunde
+verkaufen können. Am Ende werden wir
+noch erkannt."
+10,3006,"","Hmm. So long as you could get my assistant in,
+that would be terrific. Could you manage that?","呵呵，只要能送一個助手進去就夠了。
+麻煩了！","","훗, 조수 한 명 보내면 되겠지
+…잘 부탁한다","Hm. Wenn du zumindest meinen Hilfsdetektiv
+reinkriegen würdest, wäre das fabelhaft. Ginge
+das?"
+11,3003,"","But then how do we get to the confidential
+database? Do you have some means of doing that?","可是要怎麼從大廳到機密資料庫……？
+你有什麼方法嗎？","","하지만, 그 다음 어떻게 기밀정보 데이터베이스에…?
+뭔가… 수단이 있는 건가요?","Aber wie kommen wir dann an die vertrauliche
+Datenbank? Habt ihr da einen Weg?"
+12,2000,"","...!","……！","","…!","...!"
+13,3003,"","Even if your assistant WERE a world-class hacker,
+I doubt it's even possible.","就算這個人是巫師級的駭客，
+我也覺得不太可能……","","이 사람이, 가령 위저드급의 해커라 해도…
+불가능할 거라고 생각하는데요…","Selbst wenn dein Hilfsdetektiv ein Hacker von
+Weltklasse WÄRE, glaube ich nicht, dass das
+möglich ist."
+14,2000,"","...","………","","………","..."
+15,2000,"","A cyber sleuth can make the impossible possible.
+I guess we're lucky I'm a cyber sleuth.","電腦偵探就是要將不可能化為可能。
+我求之不得呢。","","…불가능을 가능하게 만드는 것이 전뇌탐정입니다
+그보다, 더할 나위 없다는 느낌이네요","Ein Cyber-Detektiv macht das Unmögliche möglich.
+Nur gut, dass ich ein Cyber-Detektiv bin."
+16,3003,"","...","…………","","…………","..."
+17,3006,"","Well, there we have it, Yuuko.
+Leave the domain of cyber sleuthing to us!","事情就是這樣，神代悠子小姐。
+這是電腦偵探的擅長領域，就儘管交給他吧！","","…그런 거다, 카미시로 유코 씨
+그 부분은 전뇌탐정의 영역, 맡겨 주도록","Na bitte, Yuuko.
+Überlasse die Cyber-Detektivarbeit nur uns."
+18,3003,"","...","……………","","……………","..."
+19,3003,"","Very well.
+I'll go and get things set up.","我知道了，
+那麼我會去安排的。","","……알겠습니다
+그럼, 준비하겠습니다","Gut.
+Ich werde alles vorbereiten."
+20,3007,"","What are you actually going to do, Kyo-chan?","那……實際上到底是怎樣？小杏？","","그래서… 실제로는 어떤 거야, 쿄짱?","Was hast du denn eigentlich vor, Kyo-chan?"
+21,3006,"","To get in?
+I have an idea, actually...","侵入方法嗎？
+關於這個我有個方法……","","침입 방법 말인가요?
+…그것에 관해선 생각이 있습니다","Um reinzukommen?
+Da habe ich sogar eine Idee ..."
+22,3007,"","Oh-ho?","喔？","","호오?","Oho?"
+23,3006,"","There was this one case where I got my hands on a 
+little program...","我因為某個委託，
+獲得了一個“小程式”。","","어느 의뢰에서 ""좀 그런 프로그램""을
+입수했거든요","Ich hatte mal einen Fall, für den ich mir ein
+kleines Programm geholt hatte ..."
+24,3006,"","I'm thinking of having it customized for my
+assistant, with the help of someone I know.","我想借助友人的力量，
+把這個程式改裝成助手專用的。","","지인의 손을 빌려서, 조수 전용으로
+커스터마이즈해서 사용하고자 합니다","Ich glaube, ich lasse das von einer Bekannten für
+meinen Hilfsdetektiv anpassen."
+25,3006,"","Shall we get started with the preparations?","那我立刻去準備。","","그럼, 바로 준비에 들어가도록 하지","Wollen wir mit den Vorbereitungen beginnen?"
+26,3006,"","My dear assistant, start by heading to Mirei
+Mikagura's place.","小助手，你就先到「御神樂米蕾」那去吧！","","조수 군, 우선「미카구라 미레이」에게
+가도록","Mein lieber Hilfsdetektiv, schau doch als Erstes
+bei Mirei Mikagura vorbei."
+27,3006,"","I'll let her know you're coming and why.
+You can get the details from her.","我會先跟對方講好。
+到那邊之後，再麻煩你仔細確認。","","그쪽에 얘기를 해 두겠다
+자세한 사정은 그쪽에서 확인하도록","Ich gebe ihr Bescheid.
+Nähere Informationen erhältst du dann von ihr."
+28,2000,"","...!","……！","","…!","...!"

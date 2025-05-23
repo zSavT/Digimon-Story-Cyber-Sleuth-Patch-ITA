@@ -1,0 +1,102 @@
+ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
+1,2020,"","(I don't see Erika anywhere. What in the
+world...?)","（不管哪裡都找不到……
+　到底該怎麼辦──）","","(어디를 찾아봐도 에리카가 보이지 않는다…
+ 대체 어떻게 해야――)","(Ich sehe Erika nirgends. Was zum Teufel ...?)"
+2,7101,"","...","…………","","…………","..."
+3,2020,"","...","…………","","…………","..."
+4,2020,"","?!","！？！？","","!?!?","?!"
+5,3045,"","How long have I been here...? Um, since you logged
+in to EDEN...","你問我什麼時候在這的？
+從你登入EDEN的時候就在了。","","언제부터 거기에……라니
+네가 EDEN에 로그인 했을 때부터","Wie lange ich schon hier bin ...? Ähm, seit du
+dich in EDEN eingeloggt hast ..."
+6,2020,"","?!","！？","","!?","?!"
+7,3045,"","I didn't know when to catch your attention...","……找、找不到時機……能叫你。","","……마, 말을 걸 타이밍을……모르겠어서","Ich wusste nicht, wann ich dich auf mich
+aufmerksam machen sollte ..."
+8,2020,"","...","…………","","…………","..."
+9,3045,"","...","…………","","…………","..."
+10,2020,"","...","…………","","…………","..."
+11,3045,"","...","………………","","………………","..."
+12,2020,"","...","………………","","………………","..."
+13,3045,"","Well, uh... Let's go...check the malware Chitose
+talked about.","……那個，千歲說……要檢查惡性軟體。","","……그러니까, 치토세가 부탁한 악성코드 점검…할 테니까","Also, äh ... Gehen wir los und überprüfen die
+Schadsoftware, die Chitose erwähnt hatte."
+14,3045,"","...Let me just ask: You know what malware is,
+don't you?","……我還是問一下，你知道什麼是惡性軟體吧？","","……일단 묻겠는데 악성코드가 뭔지 알아?","... Eine Frage: Du weißt, was Schadsoftware ist,
+nicht wahr?"
+15,2020,"","...","…………","","…………","..."
+16,3045,"","My poor head... You really did use one without
+knowing what it was.","頭好痛……
+你果然是不知道就拿來用了……","","머리 아파……
+역시 모르고 쓰고 있었구나…","Mein armer Kopf ... Du hast sie wirklich benutzt,
+ohne zu wissen, was es ist."
+17,3045,"","...Malware is a special virus program made by
+executing a process on Digimon programs.","……所謂的惡性軟體，就是把數碼寶貝程式
+再加工後製作的特殊病毒軟體。","","……악성코드라는 건, 디지몬 프로그램에
+손을 써서 만든 특수한 바이러스 프로그램을 말하는 거야","Schadsoftware ist ein besonderes Virenprogramm,
+das durch Ausführung eines Prozesses mit
+Digimon-Programmen entsteht."
+18,3045,"","That kind of programming's always been Chitose's
+forte. Area surveillance, scanners, logs of users
+passing through...","千歲從以前就很擅長這種程式編輯 ，
+他把有各種特殊用途的軟體，配置在EDEN的各處。","","치토세는 옛날부터 프로그래밍이 특기야.
+에어리어의 감시, 스캐닝 설치, 통과 유저 기록――","Diese Art von Programmierung war schon immer
+Chitoses Stärke. Überwachung,
+scannen, Nutzerprotokolle für einen Bereich ..."
+19,3045,"","These little guys are installed all around EDEN,
+each with their own special skills.","例如監視區域、掃描裝置、
+通過的使用者紀錄等等。","","여러 특기를 가진 아이들을 EDEN의
+온갖 장소에 설치해두고 있어","Die lieben Kleinen sind in ganz EDEN installiert.
+Jedes von ihnen hat besondere Fertigkeiten."
+20,3045,"","My brother thought up this method since waiting
+for a case to come in before gathering info
+already puts us behind schedule.","這方法是哥哥認為，等到接下委託
+再來收集情報就太遲了的關係才想出來的。","","의뢰가 들어오고 나서야 정보수집을 시작하면 늦으니까
+오빠가 이 방법을 생각했어","Mein Bruder hat sich das ausgedacht, da wir
+sonst im Nachteil sind, wenn wir erst nach
+Erhalt eines Falls Daten sammeln."
+21,3045,"","If these malware show the slightest abnormality,
+they'll be caught by security, so maintenance is
+absolutely necessary.","惡性軟體們，只要動作稍微有點異常，
+就會被網路保全發現，所以需要檢查維修。","","악성코드들은 동작에 조금이라도 이상이 있으면
+바로 보안에 걸리니까 점검은 필수","Wenn diese Schadsoftware Auffälligkeiten zeigt,
+wird das Sicherheitssystem aufmerksam.
+Deshalb ist die Wartung so wichtig."
+22,3045,"","I'm not saying Chitose's programming is shabby or
+anything...","當然啦，千歲的程式沒有那麼粗糙……","","물론 치토세의 프로그램은 그렇게
+허술하지 않지만……","Ich sage nicht, dass Chitoses Programmierung
+schlampig ist oder so ..."
+23,3045,"","It's just that EDEN's admin team is comprised of
+the best engineers, plus there are brilliant
+hackers in other teams like Zaxon.","但EDEN的營運團隊也有許多優秀的技術人員在，
+Zaxon和其他團隊也都有優秀的駭客。","","EDEN의 운영 팀에는 우수한 기술자가 모여있고
+잭슨이나 다른 팀에도 솜씨 좋은 해커가 있어","Aber das Adminteam von EDEN besteht aus den besten
+Technikern. Und dann gibt es noch andere geniale
+Hacker in anderen Teams, wie Zaxon."
+24,3045,"","There's even that unidentified hacker ""Mr. Navit""
+around, so we've gotta be extra careful, okay?","更何況還有「NAVIT」這不明來歷的駭客在活動。
+所以一定要更加慎重……知道了嗎？","","「내빗군」이라는 정체불명의 해커도 활동하고 있고
+더욱 신중을 기할 필요가 있어. ……알겠어?","Es gibt sogar einen nicht identifizierten Hacker
+mit dem Namen „Herr Navit“. Wir müssen also
+besonders vorsichtig sein. Verstanden?"
+25,2020,"","...","…………","","…………","..."
+26,3045,"","...Did you hear anything I just said?","…………你有好好聽我說話嗎？","","…………제대로 들었어?","... Hast du mir überhaupt zugehört?"
+27,3045,"","...Huh? I look happy when I talk about programs?","……在說程式的時候很開心？　我嗎？","","…프로그램 이야기를 할 땐 즐거워 보여? 내가?","... Was? Ich strahle regelrecht, wenn ich über
+Programme rede?"
+28,3045,"","...Well, sure. It's fun.","……嗯，很開心喔。","","…응, 즐거워","... Na klar. Es macht ja auch Spaß."
+29,3045,"","I like programs...the digital world...EDEN.
+In this world, I'm...I'm free.","程式……應該說，我很喜歡網路──EDEN的世界。
+這裡的世界……很自由。","","프로그램이…아니, 네트워크 세계가――EDEN이 좋아.
+이 세계는……자유로운걸","Ich mag Programme ... die Digitale Welt ...
+EDEN. In dieser Welt bin ich ... frei."
+30,3045,"","...And you? Do you like EDEN?","……那你呢？　你喜歡EDEN嗎？","","……너는? EDEN, 좋아해?","... Und du? Magst du EDEN?"
+31,2020,"","...","…………","","…………","..."
+32,2020,"","Yeah, I like it.
+I could take it or leave it.","喜歡
+算不上喜歡","","좋아해
+그렇지도 않아","Ja, ich mag es.
+Mir ist es ziemlich schnuppe."
+33,3045,"","...Yeah?","……呵，這樣啊。","","……흐응, 그래","... Ja?"
+34,3045,"","...I see.","……這樣啊。","","……그래","... Verstehe."
+35,3045,"","...All right, let's get started.","……那麼，開始檢查吧。","","……그럼, 점검, 시작하자","... Na schön ...Los geht’s."

@@ -1,0 +1,25 @@
+ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
+2,5004,"","Happy Hacker's Record
+Here I write about hacker terminology.","某位幸福駭客的紀錄。
+在此記下幾個駭客用語。","","어느 행복한 해커의 기록
+이곳에 해커어를 몇 가지 적어둔다","Aufzeichnungen eines glücklichen Hackers
+Hier erläutere ich Hackerbegriffe."
+3,5004,"","Back Doors","【後門】","","【뒷문(백도어)】","Hintertüren"
+4,5004,"","These are security holes that designers and
+maintenance staff deliberately leave in systems.","設計者和維護者刻意留下的系統資安漏洞。","","설계자나 보수담당자가 일부러 남겨둔
+시스템 보안의 구멍","Dies sind Sicherheitslücken, die Designer und
+Wartungstechniker absichtlich in Systemen
+hinterlassen."
+5,5004,"","Once EDEN hackers find such back doors, they use
+them for their own purposes while ensuring that no
+one finds out.","EDEN的駭客們發現了後門，
+但小心翼翼地不讓別人知道他們發現了，
+然後時常當作自己的東西來使用。","","EDEN의 해커들은 이것을 발견하고
+발견했다는 사실을 들키지 않도록 함으로써
+자신의 물건처럼 상용한다","Wenn EDEN-Hacker solche Hintertüren finden,
+nutzen sie sie zu ihren eigenen Zwecken und halten
+sie nach außen hin geheim."
+6,5004,"","There are even some elite hackers who are capable
+of forcibly creating their own back doors.","優秀的駭客中，也有人能夠強制地創造出後門。","","뛰어난 해커 중에는 이것을 강제로 만들어낼 수 있는
+자도 있다고 한다","Es gibt sogar Elite-Hacker, die eigene Hintertüren
+erschaffen können."

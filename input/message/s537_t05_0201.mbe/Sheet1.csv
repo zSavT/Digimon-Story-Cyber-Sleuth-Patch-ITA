@@ -1,0 +1,84 @@
+ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
+1,7205,"","Hey there. I'm a regular gamer here.","啊，你等等，就是你。
+我嗎？我是這間店的老玩家。","","아~너, 잠깐, 너.
+난 이 가게의 단골 게이머인데","Hallo. Ich spiele hier regelmäßig."
+2,7205,"","I overheard just now. You're here to fix Death
+Fist 5, right?","剛才你和店長的對話我可是聽到了。
+你是被找來修理「滅拳5」的？","","아까 이야기 들었어!
+너,「멸권5」를 고치려고 불려왔다며?","Ich habe gerade zufällig euer Gespräch gehört.
+Du sollst Death Fist 5 reparieren, richtig?"
+3,7205,"","Great! Hurry up. Everyone's playing it.","真的假的！那就快處理吧。
+那款遊戲現在超流行的。","","정말이냐! 그럼 빨리 좀 해줘.
+그 아케이드 게임 진짜 지금 유행이라서","Toll! Beeil dich. Alle wollen es spielen."
+4,7205,"","If I miss even a few sessions, other players will
+beat my score in no time.","只要有點空窗期，分數馬上會被其他玩家追過。","","조금이라도 공백기가 생기면 순식간에 다른 플레이어한테
+스코어가 밀려버리거든","Wenn ich nur ein paar Runden verpasse,
+überbieten andere im Nu meinen Punktestand."
+5,2020,"","...!","……！","","……!","...!"
+6,7205,"","What? You want me to show you the problem?","嗯？如果我很拿手的話，希望我能協助調查？
+你要我試玩給你看看嗎？","","음? 잘하는 게임이라면 조사에 협력해달라고?
+시험 삼아 플레이해보라고?","Was? Ich soll dir zeigen, was das Problem ist?"
+7,7205,"","Okay. Look, it's pretty much unplayable.","我知道了。
+看好了，這真的會玩不下去啊。","","알았어.
+잘 보라고~ 정말 게임이 안 되니까","Na gut. Siehst du, es ist so gut wie unspielbar."
+8,7205,"","The menu screens are fine, but as soon as a battle
+starts...","選單和準備畫面都很普通，
+但是只要一開始對戰就……","","메뉴나 준비화면은 멀쩡해.
+그런데 정작 대전이 시작되면……","Die Menüanzeigen sind in Ordnung, aber sobald
+der Kampf beginnt ..."
+9,7205,"","See! Frames keep dropping! Even though this is
+single-player mode, the lag's terrible!","你看！你看到了吧！畫面掉幀數了！
+明明是對CPU，但是延遲的超級嚴重！","","봐봐! 지금 봤지! 프레임 드랍!
+CPU 전인데도 이 랙좀 봐!","Siehst du! Die Bildrate geht runter! Es laggt so
+furchtbar, obwohl es ein Spiel für Einzelspieler
+ist!"
+10,7205,"","Then it completely freezes, just like this. And
+when it starts up again...I've lost.","最後會變這樣……
+幾乎都定格了……
+等畫面恢復正常時……就這樣輸掉了。","","최종적으로는 이렇게……
+거의 굳어버려서……
+그게 풀리면……이렇게 지는 거야","Dann geht gar nichts mehr, wie du siehst.
+Wenn es dann wieder weitergeht ... habe ich
+verloren."
+11,7205,"","And then there's the rankings screen. Weird,
+right? All the places from 1st to 100th have the
+name ""TOY.""","還有這結算畫面後的排行！
+這也很怪啊！
+從第1名到第100名全都成了「TOY」這個名字。","","그리고 결과 화면 다음에 나오는 랭킹!
+이것도 이상하지? 1위부터 100위까지 전부
+「TOY」라는 이름이야","Und dann die Anzeige mit den Rängen. Komisch,
+oder? Alle Platzierungen von 1 bis 100 tragen den
+Namen „TOY“."
+12,2020,"","???","？？？","","???","???"
+13,7205,"","It's bizarre. It's such a great game, but this
+bug's ruined it.","看到了啊？很莫名奇妙是吧？
+遊戲明明就很讚，
+也不知道什麼時候出了這樣的問題……","","그치? 영문을 모르겠지?
+게임은 정말 좋은데
+어느새 이런 버그가 생겨서……","Es ist bizarr. Es ist so ein tolles Spiel, aber
+der Fehler hat es ruiniert."
+14,7205,"","It was completely normal before. You can fix it,
+right?","之前玩起來明明都很正常，
+你真的要快點修好啊。","","그 전까지는 아무렇지 않게 플레이했는데 말이지.
+정말 빨리 좀 고쳐줘","Vorher war alles ganz normal. Du kannst es
+reparieren, nicht wahr?"
+15,2020,"","(The cabinet itself seems normal. I'll talk to the
+owner again.)","（……機台本身好像沒有問題，
+　再問一下店長好了）","","(……본체 자체는 이상이 없는 것 같다.
+ 한 번 더 주인과 이야기를 해보자)","(Mit der Maschine selbst ist wohl alles in
+Ordnung. Ich spreche noch mal mit der Besitzerin.)"
+16,7204,"","The Death Fist 5 distribution server?","什麼？你問「滅拳5」的服務伺服器嗎？","","어?「멸권5」의 배포 서버요?","Der Verteilserver für Death Fist 5?"
+17,7204,"","The cabinet itself seems normal, so you want to
+check the distribution server where the ranking
+data is compiled?","你說既然機台本身沒有問題，
+就打算調查排行榜資料所在的服務伺服器嗎？","","본체 그 자체에는 이상이 없는 것 같으니
+랭킹 데이터의 기초가 되는
+통신 서버를 조사하고 싶다고요?","Mit der Maschine ist alles in Ordnung, deshalb
+willst du den Verteilserver überprüfen, wo die
+Rangdaten berechnet werden?"
+18,7204,"","I see. I'll send you the server URL.","原來如此，我了解了。
+我這就將伺服器的URL給你。","","그렇군요, 알겠습니다.
+그럼 서버 URL을 알려드릴게요","Verstehe. Ich schicke dir die URL des Servers."
+19,2020,"","(I'll go to the server and see if I can find the
+cause.)","（飛往這個伺服器，直接調查原因吧……）","","(이 서버로 가서 직접 원인을 찾아보자…)","(Ich werde den Server besuchen und versuchen,
+die Ursache herauszufinden.)"

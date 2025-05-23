@@ -1,0 +1,779 @@
+ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
+1,3047,"","A case from Detective Matayoshi?","你說是又吉先生發的委託？","","마타요시 씨의 의뢰라고?","Ein Fall von Kommissar Matayoshi?"
+2,3046,"","Yeah. And it looks like someone's finally lost his
+mind.","沒錯，看來終於發瘋了啊。","","그래. 아무래도 결국
+이상해지고 만 모양이야","Ja. Und sieht ganz so aus, als wäre jemand endlich
+durchgedreht."
+3,2020,"","Who?
+Chitose?","什麼啊？
+是說千歲嗎？","","누가?
+치토세가?","Wer denn?
+Chitose?"
+4,3046,"","You'll see.","那就是……","","누가라니 그야 뭐…","Du wirst schon sehen."
+5,3047,"","Hey, you trying to start something with me?","你是想吵架嗎？","","너, 나한테 시비거는 거야?","He, willst du dich mit mir anlegen?"
+6,3045,"","Look at this photo.","看這張照片。","","이 사진을 봐","Sieh dir dieses Foto an."
+7,3047,"","What's that? Hahaha, they look so stupid. What's
+with the weird poses?","這什麼？　啊哈哈，這群傢伙是笨蛋嗎。
+全員都穿著奇怪的衣服，還擺出奇怪的姿勢耶。","","뭐야 이거? 아하하, 바보아냐? 이 녀석들.
+다같이 이상한 꼴로 이상한 포즈를 하고 있네","Was ist das denn? Haha, wie dämlich die aussehen.
+Was sollen denn die komischen Posen?"
+8,3045,"","They may look stupid, but let's zoom in and take a
+closer look.","為了讓你搞清楚誰才是笨蛋，
+我放大一下喔。","","바보인지 어떤지는 둘째치고
+조금 줌해볼게","Die sehen dämlich aus, aber zoomen wir doch mal
+heran und schauen genauer hin."
+9,3047,"","Eh?","咦！？","","엑","Hä?"
+10,2020,"","...!!!","……！！","","…!!","...!"
+11,3045,"","In the front row, doing the weird pose...","在最後排，像千歲說穿著奇怪的衣服，
+擺出奇怪姿勢的人……","","맨 뒤에서 치토세가 말하는 이상한 꼴로
+이상한 포즈를 취하고 있는 사람…","In der ersten Reihe, in der komischen Pose ..."
+12,3045,"","That's you, isn't it?","這百分之百是千歲吧？","","이거 틀림없이 치토세지?","Das bist doch du, oder?"
+13,3047,"","It looks like me...but it can't be! I'd never do
+anything like that!","是我…………不過，不是我啦！
+我才不可能做這種事啊！","","나…………지만 내가 아냐!
+내가 이런 짓을 할 리가 없잖아!","Sieht zwar aus wie ich, aber ... das kann nicht
+ich sein! So etwas würde ich doch nicht machen!"
+14,2020,"","...","…………","","…………","..."
+15,3007,"","Well, well... So even a member of Hudie has fallen
+victim.","哎呀哎呀，
+連hudie裡都有受害人啊。","","이런이런
+후디에에도 피해자가 있었군","So, so ... dann ist wohl sogar ein Mitglied von
+Hudie betroffen."
+16,3007,"","Chitose has just helped confirm it.","多虧千歲才能確認。","","치토세 덕분에 확인됐다","Chitose hat uns das gerade bestätigt."
+17,3007,"","This is a large-scale hacking incident.","這下子，果然是大規模的入侵事件啊。","","이건 역시 대규모 해킹 사건이란 결론이 나오는군","Das ist eine groß angelegte Hacking-Aktion."
+18,3047,"","I dunno what's going on, but I'm glad to be of
+help. Hehehe.","雖然搞不太清楚，但好像幫上忙了，我好高興喔。
+嘿嘿嘿。","","영문은 모르겠지만 도움이 되었다니 기쁘네요.
+에헤헤","Ich habe keine Ahnung, was los ist, freue mich
+aber, behilflich zu sein. Hehehe."
+19,3007,"","You're unbelievable! How shameful for a hacker to
+be hacked!","大笨蛋！
+駭客還被人入侵，也太丟臉了吧！","","멍청아!
+해커가 해킹을 당해선 꼴이 말이 아니잖아!","Ist es denn zu fassen! Es sollte dir peinlich
+sein, als Hacker gehackt zu werden!"
+20,3047,"","Hey! Hang on!","嗚哇！！
+等、等一下啦又吉先生！","","히약!!
+자, 잠깐 기다려요, 마타요시 씨!","He! Warten Sie mal!"
+21,3047,"","We don't know for certain that's what happened.","還不能確定我是被入侵了吧？","","아직 제가 해킹당했다고 결론이 난 건 아니잖아요?","Wir wissen nicht mit Sicherheit,
+dass das wirklich passiert ist."
+22,3046,"","Where did you get this image?","這照片的出處是哪裡呢？","","이 영상의 출처는 어딥니까?","Wo haben Sie denn das Bild her?"
+23,3007,"","It was among some data we confiscated from an EDEN
+user we arrested in relation to something else.","這照片，是別件案子所逮捕的EDEN使用者，
+從他身上沒收的資料裡找到的。","","이 영상은 다른 사건으로 체포된 EDEN 유저로부터
+압수한 데이터 속에 있던 영상이다","Es war unter den Daten, die wir von einem
+EDEN-Nutzer konfisziert haben, der für etwas
+anderes festgenommen wurde."
+24,3007,"","He was secretly filming things going on in EDEN
+using a video tool attached to his avatar.","那傢伙在化身上裝了影像工具，
+據說紀錄著EDEN發生的任何事情，
+是熱愛偷拍的傢伙。","","그 녀석은 아바타에 설치한 비디오 툴로
+EDEN에서 일어난 일들을 뭐든지 기록하던
+도촬 마니아거든","Er hat mithilfe eines Video-Tools an seinem Avatar
+in EDEN heimlich gefilmt."
+25,3007,"","But he claims not to remember seeing any of it.","但是，他卻說沒看過這種場景。","","그런데 이런 풍경은 기억에 없다고 지껄이더군","Er behauptet jedoch, sich nicht zu erinnern,
+je etwas davon gesehen zu haben."
+26,3007,"","The timestamp shows that it was recorded while he
+was asleep.","調查資料的紀錄時間後，發現是在晚上，
+當事人睡著的時候。","","데이터에 기록된 일시와 비교해보니 밤에 자고있던
+사이에 일어난 일이라는 것이 밝혀졌다","Dem Zeitstempel nach wurde das aufgenommen,
+während er geschlafen hat."
+27,3045,"","Who are the people dancing?","那群跳舞的人是誰呢？","","이 춤추고 있는 사람들은 누구야?","Wer sind denn die Leute, die da tanzen?"
+28,3007,"","They're all EDEN users. I've interviewed them one
+by one, but just like him, none of them have any
+recollection of it.","全都是EDEN的使用者。
+雖然逐一去跟他們詢問，但全員都是一樣的反應。
+完全沒有任何印象。","","모두 EDEN 유저다.
+일일히 탐문해봤지만 전부 이 녀석과 같은 반응이었지.
+짐작가는 곳이 없다고 하더군","Es sind alles EDEN-Nutzer. Ich habe einen nach dem
+anderen befragt, aber wie er kann sich niemand
+an etwas erinnern."
+29,3007,"","When I asked for more details, it turns out they
+all fell asleep while connected to EDEN.","再深入調查後，發現他們都是跟EDEN
+連線著就睡著了──也就是打瞌睡吧。","","더 자세히 이야기를 들어보니 EDEN에 접속한 채
+잠들었다―― 즉, 접속 중에 자고 있었다고 하더군","Als ich weiter nachgefragt habe, stellte sich
+heraus, dass sie alle eingeschlafen sind, während
+sie mit EDEN verbunden waren."
+30,3007,"","How could anyone fall asleep while in cyberspace?
+Some people...","電腦空間有什麼這麼好玩啊……
+真是辛苦喔～","","전뇌공간의 뭐가 그렇게 재미있는지…
+수고가 많구먼","Wie kann man denn im Cyberspace einschlafen?
+Manche Leute aber auch ..."
+31,3047,"","Oh, I sometimes fall asleep while connected to
+EDEN.","嗚……我有時候也會跟EDEN連線著就睡著了……","","으…나도 가끔 EDEN에 접속한 상태로 자버리는
+경우가 있지만…","Ich schlafe manchmal ein, während ich mit EDEN
+verbunden bin."
+32,3046,"","Could it be that they were just half asleep and
+don't remember?","會不會是睡昏頭忘記了？","","잠결이라 기억하지 못하는 건 아닌가?","Könnte es sein, dass sie nur halb geschlafen
+haben und sich nicht mehr erinnern?"
+33,3007,"","That's possible for some of them, but not every
+single one.","那也不可能全員都不記得吧。","","그렇다고 전원이 다 기억하지 못할 리는 없겠지","Bei manchen ist das möglich, aber nicht allen."
+34,3007,"","And some of them were wearing those health monitor
+gizmos that measure your heart rate and stuff.","而且，其中也有幾人有裝活動量計？
+就是那個可以測量脈搏跟其他什麼數值
+來顯示健康狀態的機器啦。","","게다가 녀석들 중 몇 명은 활동계량이라고 하던가?
+심박인지 뭔지를 계측해서 건강 상태를 모니터하는 기계를
+쓰고 있었거든","Und manche haben diese Gesundheitstracker
+getragen, die den Puls messen und so weiter."
+35,3007,"","The data from those things proves they were fast
+asleep at the time they were supposedly doing this
+silly dance.","根據那機器，證明了他們在跳
+這很笨的舞蹈時，確實是熟睡狀態喔。","","거기에 따르면 그 바보춤을 추고 있던 시간엔
+분명히 숙면 중이었다는 것이 증명되었다","Diese Daten beweisen, dass sie zu der Zeit, in der
+sie angeblich diesen albernen Tanz aufgeführt
+haben, fest geschlafen haben."
+36,3046,"","Activity tracker information? Digivices are also
+equipped with them.","原來是這樣，活動記錄器的資訊啊。
+這麼說來，Digivice也有這功能。","","과연, 액티브 트래커 정보인가.
+그러고보니 디지바이스에 달려있었지","Trackerdaten? Digivices haben so etwas auch."
+37,3007,"","In short, this is a major hacking incident. A
+large number of EDEN accounts have been hacked.","也就是說，這是相當大規模的入侵事件。
+有人入侵了大量的EDEN帳號。","","말하자면 이건 상당히 대규모의 해킹 사건이라는 것이 되지.
+EDEN의 계정을 대량으로 해킹한 녀석이 있는 거다","Kurz gesagt ist das ein größerer Hacking-Vorfall.
+Eine große Anzahl EDEN-Konten wurde gehackt."
+38,3007,"","The perpetrator assembled all the stolen avatars
+in one place.","犯人把奪取控制的化身集中到特定的場所……","","범인은 가로챈 계정 아바타를 어느
+장소에 모았다…","Der Täter hat die gestohlenen Avatare alle an
+einem Ort versammelt."
+39,3007,"","To avoid alerting the owners, they must have
+talked to avatars late at night and targeted the
+ones that didn't respond.","為了不被本人發現，在半夜裡
+選上了搭話也沒有反應的化身吧。","","당사자들이 눈치채지 못하도록 한밤중에
+말을 걸어도 반응이 없는 아바타를 노렸겠지","Damit die Besitzer nichts merken, hat er die
+Avatare wohl spät nachts angesprochen und sich
+die geschnappt, die nicht geantwortet haben."
+40,3045,"","But why make them do such an embarrassing dance?","然後，讓他們跳這很丟臉的舞嗎？","","그리고 이런 식으로 부끄러운 춤을 추게 했다?","Aber was soll denn der peinliche Tanz?"
+41,3046,"","Hang on. So they hacked lots of accounts, but all
+they did was have a weird dance party?","……請等一下。
+入侵了這麼大量的帳號，
+卻只讓他們做這種奇怪的跳舞大會？","","…잠깐 기다려.
+이 정도로 대량의 계정을 해킹해서
+한다는게 괴상한 댄스 파티?","Moment. Derjenige hat also eine Menge Konten
+gehackt, hatte es aber nur auf diese komische
+Tanzveranstaltung abgesehen?"
+42,3046,"","It doesn't look like the victims have much to
+worry about.","這樣也沒對被害者造成任何麻煩吧？","","피해자들은 전혀 곤란할 게 없잖아","Dann brauchen sich die Opfer ja wohl keine
+weiteren Sorgen machen."
+43,3047,"","They do! I'm pretty damn worried! They've made me
+look like a fool!","不對，很麻煩啊！　我超困擾的！
+居然讓我打扮得這麼丟臉！","","아니 곤란해! 나는 초 곤란해!
+이렇게 부끄러운 꼴로 만들다니!","Das müssen sie wohl! Ich mache mir sogar ziemliche
+Sorgen! Der lässt mich wie einen Trottel
+dastehen!"
+44,3007,"","No one's been harmed yet, but that could change.","目前還沒傳出危害。","","다른 피해가 나오지 않았을 때 이야기지","Noch ist niemandem etwas passiert, aber das kann
+sich auch noch ändern."
+45,3007,"","The avatars people use in EDEN look exactly the
+same as they do in the real world.","但EDEN裡，會用跟現實一樣造型的化身。","","EDEN에서는 현실과 같은 모습의 아바타를 사용하도록 되어있다","Die Avatare in EDEN sehen genau so aus wie diese
+Personen in der echten Welt."
+46,3007,"","Because avatars are linked to real-world accounts,
+they can do anything the real person can.","化身也連接著現實的帳號，
+能夠代替本人做任何事情喔。","","아바타는 현실의 계정과 이어져 있으니
+본인을 대신해 무슨 일이든 가능하단 거다","Da Avatare an Konten in der echten Welt geknüpft
+sind, können sie alles tun, was auch die reale
+Person tun kann."
+47,3007,"","Bank withdrawals, shopping, legal procedures, and
+even crime. They can become someone else and do
+whatever they want.","不管是銀行領錢還是購物、就連行政手續都可以。
+就算要用在犯罪，也能偽裝本人身份來肆意妄為。","","은행이체든 쇼핑이든 행정 수속이든
+범죄든 본인인 양 행세하며 마음껏 할 수 있지","Geld abheben, einkaufen, sie haben alle Rechte
+und könnten sogar Verbrechen begehen. Sie können
+Leute imitieren und tun, was sie wollen."
+48,2020,"","!!!","！！","","!!","!!!"
+49,3046,"","Right. And if an account is raided while an avatar
+is hijacked, there would be no way to trace who
+did it.","沒錯，狩獵帳號也是。
+用別人來下手，就能完全不留痕跡。","","그래. 계정 사냥도
+다른 사람에게 시키면 꼬리가 잡힐 일도 없지","Genau. Und wenn ein Konto geklaut wird, während
+der Avatar gekapert wurde, kann man nicht mehr
+nachvollziehen, wer das war."
+50,3046,"","For someone capable of taking over an avatar like
+that, it would be a simple matter to steal the
+victim's account itself.","既然能讓化身做出這種行動，
+那也能用來奪取整個帳號吧。","","아바타를 이렇게까지 움직일 수 있다면 계정 그 자체를
+노릴 수도 있다는 말이군요","Wer einen Avatar so problemlos übernehmen kann,
+schafft es auch ohne Weiteres, das eigentliche
+Konto des Opfers zu stehlen."
+51,3007,"","Exactly.","就是這樣。","","바로 그거지","Genau."
+52,3007,"","Despite the advanced techniques used to hack all
+these accounts, there's no sign of any serious
+misuse.","明明用了很厲害的技術來入侵帳號，
+卻沒有用在壞事上的痕跡。","","상당한 기술을 써서 계정 해킹을 성공시켰으면서
+악용한 흔적이 없다","Diese Konten wurden zwar mit ausgefeilten
+Techniken gehackt, aber es gibt keine Anzeichen
+von ernsthaftem Missbrauch."
+53,3007,"","All they've done so far is make people do a stupid
+dance. The perpetrator must be something of a
+joker.","要說做了什麼，也只有跳這很呆的舞蹈。
+犯人可能很愛惡作劇，或者是個笨蛋吧。","","한 짓이라곤 그저 멍청한 춤을 추게 한 정도지.
+범인은 어지간히 장난을 좋아하거나 그냥 바보거나","Bisher wurden Leute nur dazu gebracht, einen
+dummen Tanz aufzuführen. Der Täter ist wohl ein
+Scherzkeks."
+54,3046,"","I don't think so.","我覺得，兩種都不是。","","어느 쪽도 아니라고 생각합니다","Das glaube ich nicht."
+55,3046,"","I fear they may be planning something terrible.","犯人可能計畫著某種驚人的事情。","","아마도 범인은 뭔가 큰 것을 꾸미고 있습니다","Ich fürchte, dass derjenige womöglich etwas
+Schlimmes im Schilde führt."
+56,3046,"","I suspect this small stuff is just a trial run.","目前所作的奇怪舉動，
+全都是為了之後的目的所做的實驗。","","지금 하는 이상한 짓은 전부
+그걸 위한 실험이 아닐까요","Diese kleinen Tricks sind vermutlich nur ein
+Versuchslauf."
+57,3007,"","Great minds think alike. I suspect the same.","不愧是龍司，我也是這麼想的。","","역시 류지로군. 나도 그렇게 생각한다","Große Denker. Ich habe eine ähnliche Vermutung."
+58,3007,"","So far we know of about 100 accounts that have
+been hijacked, but that's surely just the tip of
+the iceberg.","目前知道被操縱的帳號只有約百人的程度，
+但這些一定只是冰山一角。","","조종당한 계정은 알려진 것만으로도 백 명 정도지만
+이건 분명 빙산의 일각이야","Bisher wissen wir, dass etwa 100 Konten gekapert
+wurden, aber das ist sicherlich erst der Anfang."
+59,3007,"","The real figure could be ten or even a hundred
+times higher.","說不定已經有十倍、不對百倍的帳號
+被犯人拿到手了。","","혹시 그 10배, 아니 100배의 계정이
+이미 범인의 손에 들어갔을지도 모른다","Die Dunkelziffer könnte 10- oder sogar 100-mal
+höher liegen."
+60,3007,"","Imagine if someone was able to make 10,000 avatars
+do exactly what they want...","要是有一萬人的化身，
+同時被隨心所欲的操縱的話……","","혹시 1만 명 이상의 아바타를 일제히 마음대로 움직일 수
+있다고 한다면…","Stellt euch vor, wenn jemand 10 000 Avatare nach
+Belieben befehligen könnte ..."
+61,3045,"","Then there's the worst case scenario...","而最恐怖的……","","가장 무서운 건…","Das ist dann der schlimmstmögliche Fall ..."
+62,2020,"","!!!","！！","","!!","!!!"
+63,3007,"","Yes. Cyberterrorism on an unprecedented scale.","沒錯，就算要進行大規模的
+電腦恐怖行動也辦得到。","","그래.
+대규모 전뇌 테러도 가능하다","Ja. Das wäre Cyberterrorismus ungeahnten Ausmaßes."
+64,3007,"","Based on the perpetrator's meticulous level of
+preparation so far, we have to consider the
+possibility.","既然會這麼周到地重複進行實驗跟準備，
+那這種狀況也是很有可能發生的。","","이 정도로 주도면밀하게 실험과 준비를 반복했다면
+그럴 가능성도 생각해볼 수 있지","In Anbetracht dessen, wie sorgfältig der Täter
+bisher alles vorbereitet hat, müssen wir das in
+Erwägung ziehen."
+65,3007,"","We must stop this from going any further. Ideally
+I want to locate the perpetrator without bringing
+this to anyone's attention.","這一定得在事先阻止才行。
+得不讓犯人發現，祕密地逮住他才行。","","어떻게든 미연에 방지해야만 해.
+눈치채지 못 하게 몰래 움직여 범인을 잡아줬으면 한다","Das muss jetzt aufhören. Ich würde den Täter gerne
+ausfindig machen, ohne dass jemand Wind von
+der Sache bekommt."
+66,3046,"","Thank you for your consideration.","又吉先生，謝謝你的擔心。","","마타요시 씨, 배려해 주셔서 감사합니다","Danke für Ihr Verständnis."
+67,3046,"","If it ever got out that one of our members had
+been hacked, Hudie would lose all credibility.","要是我們的成員傳出被人入侵的消息，
+那hudie的名聲可就不保了吧？","","멤버가 해킹당했다는 게 공공연하게 알려지면
+후디에의 체면이 서지 않잖냐?","Wenn sich das herumspricht, dass einer von uns
+gehackt wurde, wäre Hudies Ruf dahin."
+68,3046,"","That's why he wants to resolve this in secrecy,
+and why he's come to us.","所以又吉先生才會祕密地把這件事告訴我們啊。","","그래서 극비로 그칠 수 있는 선에서 우리 후디에 쪽에
+의뢰해주신 거다","Deshalb möchte er das diskret lösen, und deshalb
+ist er zu uns gekommen."
+69,3045,"","Nice one, Chitose!","千歲也真是的。","","정말, 치토세도 참","Sauber hingekriegt, Chitose!"
+70,3047,"","I'm sorry!","真是對不起！","","죄송합니다!","Es tut mir ja leid!"
+71,3007,"","That's right. So let's put an end to this, for you
+and for me.","就是這樣啦。
+為了我也為了你們自己，這事就萬事拜託啦。","","뭐 그렇지.
+나를 위해서도 너희를 위해서도 잘 부탁한다","So ist es. Also setzen wir der Sache ein Ende. Das
+liegt in eurem Interesse und in meinem."
+72,3007,"","Call me if you find anything. Bye for now.","要是知道什麼就跟我聯絡啊，
+再見啦。","","뭔가 알아내면 연락해다오
+그럼 이만.","Meldet euch, wenn ihr etwas herausfindet.
+Bis dann."
+73,3046,"","At least we have a clue thanks to Chitose. Let's
+start with this image.","反正，多虧千歲我們獲得了線索，
+就從這照片來追查吧。","","뭐, 치토세 덕분에 단서가 생겼다.
+이 영상부터 추적해보도록 할까","Wenigstens haben wir dank Chitose einen Hinweis.
+Fangen wir mit diesem Bild an."
+74,3047,"","Come on! Don't look at it anymore!","不要啊──！
+不要仔細看那東西──！","","그만해!
+그렇게 물끄러미 보지 말아줘!","Ach, komm schon! Hör auf, dir das anzuschauen!"
+75,3045,"","Leave it to me. I'll start by looking into the
+strange dance.","交給我吧。
+首先先從這奇怪的舞開始調查。","","나한테 맡겨줘
+일단 이 이상한 춤부터 조사해볼까","Überlass mir das. Ich befasse mich mal mit dem
+seltsamen Tanz."
+76,2020,"","?","？","","?","?"
+77,3045,"","I'll extract 3D poses from the image and run a
+search based on them. As there are several images,
+I can compile the poses for a video search, too.","我會從照片取出3D姿勢，並用這資料來搜尋。
+既然有多張照片，那就可以用連續動作來搜尋。","","영상에서 3D 포즈를 추출해서 그걸 기반으로 탐색해봤어.
+영상은 몇 갠가 있으니까 포즈를 이어서 영상 검색이 가능해보여","Ich extrahiere Posen in 3-D aus dem Bild und
+suche danach. Da es mehrere Bilder gibt, kann ich
+auch Posen für eine Videosuche kompilieren."
+78,3045,"","What do you make of this?","哥哥，你覺得呢？","","어때, 오빠","Was haltet ihr davon?"
+79,3046,"","Let me see.","讓我看看。","","보여줘봐","Lass mal sehen."
+80,3047,"","What is it?","這是什麼？","","뭐야 이거","Was ist das?"
+81,3045,"","It could be a fan dance?","這是打藝嗎？","","이거 오타쿠 퍼포먼스인가?","Könnte ein Fan-Tanz sein?"
+82,2020,"","???","？？","","??","???"
+83,3045,"","A fan dance. It's a dance that pop music fans do
+at concerts.","打藝，就是御宅族的技藝。
+在偶像明星的演唱會上，
+歌迷們用來聲援歌手的舞蹈。","","오타쿠 퍼포먼스라는 건
+아이돌 라이브에서 팬들이 하는 응원 안무를 말하는 거야","Ein Fan-Tanz. Ein Tanz, den Popmusikfans auf
+Konzerten hinlegen."
+84,3045,"","I've identified it. The movements in this video
+are almost exactly the same as in the images.","我找到了。
+這影片的動作，跟照片的姿勢幾乎一模一樣。","","특정했어.
+이 영상의 안무가 영상 포즈와 거의 일치하고 있어","Ich weiß, um welchen Tanz es sich handelt. Die
+Bewegungen in dem Video sind mit den Bildern fast
+identisch."
+85,3045,"","This video must have been taken at a live
+performance. It looks like the audience is dancing
+in front of a stage.","這是演唱會的影片吧。
+看最前面，觀眾席就在做打藝。","","이건 라이브 영상일까.
+앞쪽 관객석에서 저렇게 오타쿠 퍼포먼스를 하고 있잖아","Das Video muss bei einer Live-Aufführung
+aufgenommen worden sein. Das Publikum scheint vor
+einer Bühne zu tanzen."
+86,3047,"","That's terrible. They're all out of sync and have
+no sense of rhythm.","這是成果發表會嗎？
+該說很俗呢，還是很沒有品味呢……","","이건 학예회?
+뭔가 엉망이라고 할지 센스가 없다고 할지","Das ist ja furchtbar. Die sind nicht synchron und
+haben keinerlei Rhythmusgefühl."
+87,3046,"","You're one to talk. It's not as if your attempt in
+EDEN was any better.","你沒資格說。
+你可是在EDEN裡大跳一樣的舞喔。","","네가 할 말이냐.
+똑같은 춤을 EDEN에서 화려하게 추고 있었잖아","Da redet der Richtige. Dein Versuch in EDEN war ja
+auch nicht gerade besser."
+88,3047,"","Oh yeah, I forgot about that...","嗚啊啊啊啊，對喔……","","으아아아아, 그랬었지…","Ach ja, das hatte ich vergessen ..."
+89,3046,"","Erika, do you know who the singer is?","艾莉卡，知道這是誰的歌嗎？","","에리카, 누구의 무슨 곡인지 알겠나?","Erika, weißt du, wer da singt?"
+90,3045,"","Kumi Minamiasagaya. Claims to be 17 years old.
+Actual age: 31. Occupation: Singer.","南阿佐谷久美，供稱17歲，實際年齡31歲。
+職業是歌手。","","미나미아사가야 쿠미, 공식 17세, 실연령 31세.
+직업은 가수","Kumi Minamiasagaya. Behauptet, 17 Jahre alt zu
+sein. In Wahrheit: 31. Beruf: Sängerin."
+91,3046,"","What's with the age thing? It's a bit of a
+stretch.","喂喂喂，這年齡太奇怪了吧？
+謊報太誇張了吧！","","어이어이어이, 연령이 이상하지 않냐.
+나이를 너무 속였잖아","Was soll das mit dem Alter? Das ist ja nun arg
+weit hergeholt."
+92,3047,"","A lot of singers lie about their age.","雖然不是全部人都這樣，
+但地下偶像就是這樣子喔。","","모두가 다 그런 것은 아니겠지만
+지하 아이돌이라는 건 대체로 그런 거야","Viele Sänger lügen beim Thema Alter."
+93,3047,"","Although her occupation should probably be
+""Self-Proclaimed Singer""...","希望她在職業那邊也加個自稱兩字啊。","","직업 가수라는 것도 ""자칭""을 붙여줬으면 좋겠네","Wobei als Beruf vermutlich dastehen sollte:
+Selbst erklärte Sängerin."
+94,3045,"","But she performs at the Punsuka live music club in
+Nakano every week, and records her shows. It's
+always a full house.","不過，她每個禮拜都有上中野的Livehouse
+「森七七」喔。紀錄上每次都是大爆滿呢。","","그래도 착실하게 나카노 라이브 하우스『분스카』에
+매번 나오고 있어. 기록에 따르면 매번 초만원이야","Aber sie tritt jede Woche im Punsuka-Club in
+Nakano auf, und nimmt den Auftritt auf. Er ist
+offenbar jedes Mal gutbesucht."
+95,3047,"","Punsuka? Is that the one in the corner of the
+second floor?","「森七七」是那邊二樓角落吧？
+那裡是Livehouse嗎？","","『분스카』라니 저기 2층 구석의?
+라이브 하우스였나?","Punsuka? Ist das der in der Ecke im 2. Stock?"
+96,3045,"","It's usually a maid cafe. It looks like they just
+added some old audio equipment and a makeshift
+stage. They only have seven seats.","平常是女僕咖啡店。
+店裡面備有寒酸的音響器材，位子只有七人。","","평소엔 메이드 카페인가봐.
+싸구려 음향기재를 들여논 정도라는 느낌일까. 객석은 7석","Normalerweise ist es ein Maid-Café. Sie haben
+alte Tonanlagen und eine provisorische Bühne
+reingestellt. Es gibt nur sieben Plätze."
+97,3047,"","So a full house is seven people!","還說大爆滿咧，這不是只有七個人嘛！","","초만원이라니 고작해야 7명이잖아!","Gut besucht bedeutet also sieben Leute!"
+98,3045,"","And it looks like it's the same seven customers
+every time.","而且，好像每次都是同樣一批客人。","","게다가 매번 관객 멤버는 똑같은 7명인가봐","Sieht außerdem aus, als wären es jedes Mal die
+gleichen sieben Kunden."
+99,3046,"","I don't know if that means she's good or bad.","這樣到底厲害不厲害
+我都搞不清楚了……","","굉장한지 굉장하지 않은지
+잘 모르겠군…","Weiß nicht, ob das heißt, dass sie gut oder
+schlecht ist."
+100,3045,"","It seems she's just made a major debut with a new
+song.","好像還是有公開出道喔。
+出道樂曲是「好想吐」。","","일단 메이저 데뷔는 했나봐.
+그 데뷔곡이 이『진짜 게로피』라는데","Sie hat wohl gerade einen großen Auftritt mit
+einem neuen Song hingelegt."
+101,3047,"","Is there any point?","出那種歌有意義嗎？","","그런 걸 내는 의미가 있나?","Und was bringt ihr das?"
+102,3045,"","You might want to take that back. The song reached
+number three in the sales rankings in the first
+week it was released.","你最好修正一下那句話喔。
+這首歌，在發售第一週登上了銷售前三名。","","그 발언은 정정하는 편이 좋겠네.
+그 곡, 발매 첫주 판매량이 랭크 3위에 들었었어","Eine ganze Menge. Der Song hat in seiner ersten
+Woche die Top drei der Verkaufscharts erreicht."
+103,3047,"","Seriously?","真假？","","진짜?","Im Ernst jetzt?"
+104,3045,"","But it seems that one person bought 10,000 copies.","但實際上，好像是有一個人買了一萬張的樣子。","","라고 생각했는데, 혼자 1만장을 산 사람이 있나봐","Sieht aber aus, als hätte eine Person 10 000
+Exemplare gekauft."
+105,3047,"","Did you hack the sales site already? You're so
+fast!","妳入侵了販賣網站嗎？
+小姐妳速度真快啊。","","판매 사이트를 해킹한 거야?
+빠르네, 아가씨","Du hast die Verkaufsseite schon gehackt? Wie
+schnell bist du denn?"
+106,3045,"","No. Someone's boasting about it on the Punsuka
+message board. I just read it on there.","不是，是「森七七」的布告欄上，
+有個歌迷寫了這訊息在炫耀。","","아니,『분스카』게시판에서 그렇게 자랑하는
+팬의 글을 봤을 뿐이야","Nein, aber jemand prahlt damit im Forum von
+Punsuka. Hab es gerade gelesen."
+107,3046,"","One of the seven people at the live performance?","那傢伙就是那七個常客嗎？","","그 녀석이 라이브 단골 7명 중에 있다는 건가?","Einer der sieben beim Live-Auftritt?"
+108,3045,"","Yeah.","嗯，沒有錯。","","응. 맞아","Genau."
+109,3045,"","The rest of the Sacred Seven bought 100 copies
+each, but that one really went above and beyond.","神之七人的其他人也都買了幾百張，
+但留言的那個人買得特別多喔。","","갓세븐이 그 외에도 100장 단위로 샀다지만
+이 사람 혼자 차원이 다르다는데","Der Rest der Heiligen Sieben hat jeweils 100
+Exemplare gekauft, aber einer hat sich wirklich
+ins Zeug gelegt."
+110,3046,"","The Sacred Seven? What's that?","神之七人？　那什麼啊？","","갓세븐? 뭐냐 그건","Die Heiligen Sieben? Wer soll das sein?"
+111,3045,"","It's what the seven people at the live
+performances call themselves.","演唱會的七個常客，是這麼自稱的喔。","","라이브 단골 7명이 그렇게 자칭하고 있어","So nennen die sieben Leute bei den Auftritten
+sich selbst."
+112,3046,"","All this is starting to give me a headache.","可惡，我開始頭痛了……","","제길, 머리가 아파지는군…","Langsam brummt mir von der ganzen Sache der
+Schädel."
+113,3047,"","How about the singer herself? What's she like?","那重點的偶像本人是什麼樣的人呢？","","중요한 아이돌 양 본인은 어떤 애야?","Was ist denn mit der Sängerin selbst? Wie ist die
+so drauf?"
+114,3045,"","Hang on. I'll check her social media.","等一下喔……
+我找到她的社群網站了。","","잠시만 기다려…
+SNS를 찾았어","Warte mal. Ich schau mal in den sozialen
+Netzwerken nach."
+115,3047,"","Wow, so many selfies and poems. She clearly sees
+herself as something of a star.","嗚哇，都是自拍跟詩集啊。
+自以為明星也要有點限度吧。","","으헤에, 셀카랑 자작시가 가득하잖아.
+스타 행세는 작작 좀 해달라구","Oha, ganz schön viele Selfies und Gedichte. Die
+hält sich offenbar für einen Star."
+116,2020,"","I guess those sales kind of make her a star.
+She looks like she's having a good time.","這種營業額也能算是明星了吧
+她好像很開心呢","","이 판매량이라면 뭐 스타일지도
+이 사람 즐거워보여","Mit den Verkaufszahlen ist sie ja auch einer.
+Immerhin scheint sie Spaß zu haben."
+117,3045,"","I agree. At least she brings joy to those seven
+people.","我也是這麼想的。
+至少，她讓那七個人很快樂。","","나도 그렇게 생각해.
+적어도 그녀는 이 7명을 기쁘게 해주고 있잖아","Stimmt. Die sieben Leute freuen sich wenigstens."
+118,3047,"","That's true. As long as she's happy, I guess it
+doesn't really matter what other people think.","可能的確是這樣，
+開不開心跟旁人的觀感無關啊。","","하긴 그건 그럴지도.
+즐거운 것에 타인의 시선같은 건 상관 없으니까","Stimmt auch wieder. Solange sie glücklich ist, ist
+es ja eigentlich egal, was andere denken."
+119,3045,"","She doesn't seem to have noticed she only has
+seven fans.","嗯，看來她本人沒注意到
+歌迷就只有這七個人。","","응, 팬이 7명밖에 없다는 걸
+본인은 깨닫지 못하는 것 같고","Sie scheint nicht bemerkt zu haben, dass sie nur
+sieben Fans hat."
+120,3047,"","It wouldn't be the first time something like this
+has happened.","唉～還有這種世界啊……","","하~ 이런 세계도 있구나…","Das wäre ja nicht das erste Mal."
+121,3047,"","Snow white was happy with the seven dwarves...","公主能讓七位小矮人幸福，那也不錯啊。
+我都要這麼想了呢。","","프린세스도 7명의 난쟁이와 행복하다면 그걸로 충분할지도
+라는 생각이 들기 시작하는데","Schneewittchen war mit den sieben Zwergen ja auch
+glücklich."
+122,3045,"","That's not all. Look at this announcement.","可是啊，那好像不可能了。
+快看這公告。","","그게, 그렇게 잘 풀리진 않게 됐나봐.
+왜냐면, 봐봐 이 공지사항","Das ist aber noch nicht alles. Schaut euch mal
+diese Ankündigung an."
+123,3045,"","Kumi Minamiasagaya to hold a huge concert in EDEN!
+Ticket sales are expected to reach 10,000! If the
+target is met, it will be her retirement concert!","南阿佐谷久美，終於要在EDEN辦大型演唱會！
+配合視訊轉播，目標銷售一萬張門票！
+只要未達成目標，便直接進行告別演出！","","미나미아사가야 쿠미, 드디어 EDEN에 대규모 라이브!
+생방송과 더불어 목표 티켓 총수는 1만 장!
+목표를 달성하지 못하면 이대로 은퇴 라이브!","Kumi Minamiasagaya gibt ein riesiges Konzert in
+EDEN! Es sollen bis zu 10 000 Karten verkauft
+werden! Wenn das klappt, wird es ihr Abschied!"
+124,3045,"","Hmm...","……這麼寫喔。","","…라는데","Hm ..."
+125,3046,"","She probably won't have trouble selling 10,000.
+I'm sure the Sacred Seven will see to that.","一萬張對她而言是小意思吧，
+畢竟還有那神之七人在支持啊。","","그녀라면 1만장쯤은 문제없겠지.
+어쨌든 갓세븐이 붙어있으니까","10 000 wird sie ohne Weiteres verkaufen.
+Darum werden die Heiligen Sieben sich kümmern."
+126,3045,"","You're right. They've already sold out.","哥哥答對了，門票已經賣完了喔。","","오빠 정답이야. 이미 매진되었어","Da hast du recht. Es ist schon ausverkauft."
+127,3045,"","Looks like one of them bought all 10,000 tickets.
+The other six are complaining about it on the
+message board.","看來好像是一個人一口氣買光了一萬張票喔。
+還在布告欄上向其他六個人炫耀。","","아무래도 혼자서 티켓 1만장을 독점했는지
+다른 6명이 게시판에서 푸념하고 있어","Einer hat wohl alle 10 000 Karten aufgekauft.
+Die anderen sechs meckern deswegen im Forum."
+128,3045,"","They're devastated they couldn't get a ticket. One
+of them has even written a complaint that's over
+20,000 words long.","還有人因為買不到票，
+悲憤地在布告欄上寫了四萬字的抱怨評論。","","티켓을 사지 못한 게 분해서
+4만자의 불평 덧글을 쓴 사람도 있네","Sie sind sehr traurig, weil sie keine kriegen
+konnten. Einer beschwert sich sogar in über
+20 000 Worten."
+129,2020,"","Whoa...
+Unbelievable...","嗚哇……
+真厲害……","","으헤에……
+굉장하다……","Oha ...
+Ist ja unglaublich ..."
+130,3045,"","That's everything we know so far.","這些就是目前整理出來的情報。","","여기까지가 현 상황을 추적해서 얻은 정보야","Mehr wissen wir bisher nicht."
+131,3045,"","If this was a mystery novel, this is where the
+detective would show up and crack the case.","要是這是推理小說，這時候就會有偵探出來
+來解釋幕後的手法了吧。","","추리소설이라면 여기쯤에서 탐정이 등장해 모든
+트릭을 밝혀줄텐데","Wenn das ein Krimi wäre, würde jetzt der Kommissar
+aufkreuzen und den Fall lösen."
+132,3047,"","""Now I have presented you with all of the clues.
+Have you worked out the truth?"" Something like
+that?","就是那種「現在已經提示了所有的線索，
+你能夠找出事件的真相嗎？」對吧？","","「단서는 모두 제시했습니다.
+당신에게는 진상이 보이지 않습니까」라면서?","„Ich habe euch alle Hinweise aufgezeigt. Habt ihr
+die Wahrheit schon ergründet?“ Irgendwie so?"
+133,3047,"","Except we still don't have enough to go on.","不過，只靠這些情報根本什麼都不明白啊。","","그치만 그 정보만 가지곤 아무것도 모르겠는걸","Aber leider reicht uns das noch nicht."
+134,3046,"","At least we don't need to go as far as determining
+the motive.","反正，還不用推理到動機上。","","뭐 동기까지 추리할 필요는 없지","Wenigstens müssen wir nicht auch noch das Motiv
+erschließen."
+135,3046,"","The perpetrator must be the one who bought all the
+tickets. Isn't that right, Sherlock?","犯人，就是買光這些票的傢伙。
+沒有錯吧，名偵探？","","범인은 이 티켓을 매점한 녀석이다.
+그렇지? 명탐정","Der Täter ist wohl derjenige, der die ganzen
+Karten aufgekauft hat. Stimmt das, Sherlock?"
+136,3045,"","Sherlock? Do you mean me?","名、名偵探，是在說我嗎？","","며, 명탐정이라니 나 말야?","Sherlock? Redest du mit mir?"
+137,3047,"","Explain it in a way even I can understand.","說明得讓我也能理解啦。","","나한테도 이해되게 설명해줘","Erklär das mal so, dass selbst ich es kapiere."
+138,3045,"","His objective might be to create an audience.","他的目的，我想是“埋暗樁”吧。","","그의 목적은 아마도 ""티켓 사재기""야","Sein Ziel könnte sein, ihr ein Publikum zu
+verschaffen."
+139,3045,"","He feels the need to provide a legion of adoring
+fans for his beloved Kumi.","為了自己支持的偶像……為了誤會的公主，
+身為僕人的歌迷，得去準備暗樁才行。","","밀고 있는 아이돌…소중한 프린세스를 위해
+하인은 사재기를 준비해야 한다는 압박에 쫓긴 거지","Er hat das Bedürfnis, seiner geliebten Kumi eine
+Schar höriger Fans zu verschaffen."
+140,3047,"","You mean artificially create a large audience for
+her concert in EDEN?","暗樁，就是指安插客人的意思吧？
+為了EDEN的那場演唱會嗎？","","사재기라니, 음반이나 티켓을 매점한다는 뜻이지?
+EDEN에서 하는 라이브를 위해?","Du meinst, künstlich ein großes Publikum für ihr
+Konzert in EDEN zu erzeugen?"
+141,3045,"","Buying up all the tickets is easy. It just costs
+money. But the seats would still be empty.","只要有錢就能把票都買光，
+但場地依然是空蕩蕩的一片。","","티켓을 사는 정도라면 돈만 낼 수 있으면 가능하지만
+좌석은 텅텅 비어버리잖아","Die Karten aufkaufen ist einfach. Dazu ist nur
+Geld nötig. Aber die Plätze wären ja dennoch leer."
+142,3045,"","When she sees that, she'll finally realize the
+truth. That she's not a big star...","演唱會還會用網路轉播，
+這樣就算她再怎麼遲鈍，也會察覺真相吧。","","라이브는 인터넷을 통해 생중계되니
+아무리 그녀라도 진상을 눈치채겠지","Und wenn sie das sieht, wird sie endlich einsehen
+müssen, dass sie doch kein Star ist."
+143,3045,"","But if he could fill those 10,000 seats, she won't
+realize the truth, and it might even drum up
+publicity for her.","不過，就算花錢去請一萬人來當歌迷，
+真相也一定會浮出水面，說不定還會害到她本人。","","하지만 그걸 위해 사람을 1만 명이나 고용했다간
+어딘가에서 진상이 새나갈테고 본인 귀에도 들어갈지도 몰라","Aber wenn er diese 10 000 Plätze füllen kann,
+erkennt sie das nicht, und kriegt dadurch
+vielleicht sogar noch gute Presse."
+144,3046,"","People are sure to talk about a concert that big.","就是指人嘴封不住吧。","","사람의 입에 자물쇠를 채울 수는 없다고 하니까","Über so ein riesiges Konzert reden die Leute mit
+Sicherheit."
+145,3045,"","So this is his only option. Hijack multiple
+accounts and make them into her fans.","所以，犯人只能用這種方法了。
+收集帳號，偽裝成歌迷。","","그래서 그에겐 이 방법밖에 없었던 거지.
+계정을 모아 그녀의 팬을 연기하게 하는 거야","Das ist also die einzige Lösung für ihn. Mehrere
+Konten stehlen und sie zu Fans machen."
+146,3047,"","But how can he guarantee that everyone will be
+logged in to EDEN during the concert?","等一下，演唱會是現場轉播吧？
+也不一定所有人在那時間都在EDEN上啊。","","기다려. 라이브는 생방송인데?
+그 시간에 전원이 EDEN에 로그인 하고 있을 거란 보장이 없잖아","Aber wie kann er dafür sorgen, dass alle während
+des Konzerts bei EDEN eingeloggt sind?"
+147,3045,"","Because he's taken over people's accounts.","他可是能奪取帳號的人。","","계정을 탈취했으니까","Indem er die Konten übernimmt."
+148,3045,"","He can pose as someone's friend and ask them to
+meet in EDEN or something. There are lots of ways.","假裝成熟人，把人叫到EDEN來見面等等，
+有非常多種手段能夠達成喔。","","아는 사람인 척 해서 EDEN에서 만나자고 불러낸다던가
+방법은 얼마든지 있어","Er kann sich als Freund ausgeben und Leute bitten,
+ihn in EDEN zu treffen oder so. Da gibt es viele
+Möglichkeiten."
+149,3047,"","But then everyone would find out that their
+accounts had been used while they were asleep.","要是沒有打瞌睡，帳號卻突然被操控了，
+不就會被發現了嗎？","","잠들지 않는다면 계정을 멋대로 조종당한다는 걸
+들켜버리잖아?","Aber dann würden sie alle herausfinden, dass
+jemand ihre Konten benutzt hat, während sie
+geschlafen haben."
+150,3045,"","It doesn't matter. That would be the last time he
+would need to hack their accounts.","沒關係，反正那時候就會是最後一次的帳號出錯了。","","상관없어. 어차피 그 때가 마지막 계정 해킹이 될 테니까","Das ist egal. Es wäre ja das letzte Mal, dass er
+die Konten hackt."
+151,3045,"","Even if people found out, and even if they called
+the police, they wouldn't catch him until the next
+day.","就算被發現，被傳達給警方，
+警方最快要得要到隔天才會採取行動。","","눈치채고 경찰에 신고한다고 해도 대처에 들어가는 건
+아무리 빨라봤자 다음날이지","Selbst wenn die Leute es merken und sogar die
+Polizei rufen, würden sie ihn ja frühestens am
+nächsten Tag erwischen."
+152,3045,"","I think he's been making all of his preparations
+late at night to avoid being found out before the
+day of the concert.","我想是因為，要是在演唱會當天之前被人發現
+就不妙了，犯人才會在深夜偷偷摸摸地做準備吧。","","라이브 당일 전에 들키면 안되니까
+한밤중에 몰래몰래 준비한 거라고 생각해","Ich denke, er hat bisher immer nachts agiert,
+damit er nicht vor dem Konzert erwischt wird."
+153,3045,"","I imagine it must be difficult to make 10,000
+people all dance at the same time. That's probably
+why he's practicing.","的確，要一次讓一萬人跳舞是很困難，
+所以才需要練習吧。","","분명 1만명을 한번에 춤추게 하는 건 어려울테니까
+연습하고 있던 건 아닐까","Es ist sicher nicht einfach, 10 000 Leute
+gleichzeitig zum Tanzen zu kriegen. Deshalb übt
+er wahrscheinlich."
+154,3045,"","But it's by no means impossible. Everyone would be
+doing the same movements, after all.","而且，我覺得這是有辦法做到的喔，
+畢竟全員都是同個動作嘛。","","하지만 절대 불가능하진 않을 거라고 생각해
+전원이 같은 움직임이라면","Aber unmöglich ist es nicht. Schließlich sollen
+sie ja alle die gleichen Bewegungen ausführen."
+155,3045,"","Let's give it a try. Chitose, can you log in to
+EDEN?","我實際試看看。
+千歲，你能登入EDEN嗎？","","그럼 실제로 해볼까.
+치토세, EDEN에 로그인 해볼래?","Probieren wir es mal aus. Chitose, kannst du dich
+bei EDEN einloggen?"
+156,3047,"","Um, sure...","喔、好。","","오, 오우","Ähm, klar ..."
+157,3045,"","Just a moment. I need to analyze Chitose's avatar.","等我一下喔，我要解析千歲的化身。","","잠깐 기다려. 치토세의 아바타를 해석할테니까","Einen Moment. Ich muss Chitoses Avatar
+analysieren."
+158,3045,"","I've found a back door. That's how he gets in.","……果然有後門呢。
+就是從這裡入侵的吧。","","…역시 백도어가 있었어.
+여기로 침입해볼게","Ich habe eine Hintertür gefunden.
+Die nutzt er für seinen Zugriff."
+159,3047,"","Seriously?! Delete it!","真的假的！
+快把它拿掉！","","진짜냐!
+빨리 꺼내줘!","Echt?! Lösch sie!"
+160,3045,"","I can't do that.","不行。","","안 돼","Das kann ich nicht."
+161,3045,"","If I delete the back door before we catch him,
+he'll realize we're on to him.","要是在抓到犯人之前，後門被解除的話，
+犯人就會發現了吧。","","잡기 전에 백도어를 꺼내면
+범인이 눈치채잖아","Wenn ich die Hintertür lösche, bevor wir ihn
+dingfest gemacht haben, weiß er, dass er
+aufgeflogen ist."
+162,3047,"","Yeah, I know that...but I still don't like it.","那也是啦……
+嗚啊啊啊，感覺好噁心喔。","","그거야 그렇겠지만…
+으에에에, 뭔가 기분 나빠","Ja, das verstehe ich schon ... aber es passt mir
+trotzdem nicht."
+163,3045,"","Okay, I've connected to Chitose's avatar via his
+account. You can control him from this terminal.
+Give it a try, [p].","好了，我藉由千歲的帳號連上了EDEN的化身喔。
+可以用這終端來操控，[p]來試看看吧。","","자, 치토세의 계정을 경유해서 EDEN의
+아바타에 접속했어. 이 단말로 움직일 수 있으니까
+[p], 잠깐 해봐","So, ich habe mich über Chitoses Konto mit seinem
+Avatar verbunden. Du kannst ihn von diesem
+Terminal aus steuern. Probier es mal, [p]."
+164,3047,"","Whoa! My body's moving by itself!","嗚哇啊啊啊！
+身體自己動起來了！？","","우와아앗!
+모, 몸이 멋대로 움직여!?","Hoppla! Mein Körper bewegt sich von alleine!"
+165,3047,"","Ouch! Hey, come on! Be gentle!","好痛！　喂不要亂來啊！
+給我溫柔點啦！","","아얏! 어이 무리시키지 마!
+부드럽게 해!","Aua! He, pass auf! Nicht so grob!"
+166,2020,"","This is pretty easy.
+This is quite difficult.","很簡單呢
+有點難耶","","꽤 간단하다
+상당히 어렵다","Das ist eigentlich ganz leicht.
+Das ist ganz schön schwierig."
+167,3047,"","Cut it out! I'm giving you exactly one second to 
+stop that, before I come after you!","不要隨便亂說！
+你不在一秒內停手我就揍飛你喔！","","멋대로 지껄이지 말라고!
+1초 안에 그만두지 않으면 날려버린다!","Lass das! Ich gebe dir genau eine Sekunde, um
+damit aufzuhören, bevor es etwas setzt!"
+168,3047,"","Well, stop then! I'm not made for this kind of
+rough handling!","做不到就給我住手啊！
+我可是很精緻的啊！
+這樣會嫁不出去的啊！","","못하겠으면 그만둬!
+나는 섬세하게 이루어져 있다고!
+장가갈 수 없게 되잖아!","Dann hör gefälligst auf! Ich bin nicht so robust!"
+169,3045,"","And that's how he does it. You can log out now,
+Chitose.","總之，就是這種感覺。
+千歲，你可以登出了喔。","","뭐, 이런 느낌일까.
+치토세, 이제 로그아웃 해도 돼","Und so macht er das. Du kannst dich jetzt
+ausloggen, Chitose."
+170,3047,"","Experiencing it firsthand has made me appreciate
+the gravity of the situation.","哈啊、哈啊……
+親身體驗才感覺到這事情的嚴重啊。","","하아, 하아…
+몸을 가지고 있다는 것의 소중함을 실감했다","Jetzt, wo ich das selbst erlebt habe, ist mir der
+Ernst der Lage klar."
+171,3046,"","Okay. I'll report to Matayoshi.","好，跟又吉先生報告吧。","","좋아, 마타요시 씨에게 보고하자","Gut, ich erstatte Matayoshi Bericht."
+172,3047,"","Be quick. We haven't got much time.","拜託你啦龍司，這事情得分秒必爭。","","부탁한다 류지, 이건 일각을 다투는 일이야","Beeil dich. Wir haben nicht viel Zeit."
+173,3047,"","And [p]! I won't forget what you
+just did! I'm gonna get back at you for that!","還有啊，[p]！！
+這屈辱我可不會忘記的！
+總有一天我會討回來！","","그리고, [p]!!
+이 굴욕은 잊지 않을 테다!
+언젠가 반드시 복수해주겠어!","Und du, [p]! Das vergesse ich nicht!
+Das zahle ich dir heim!"
+174,2020,"","...","…………","","…………","..."
+175,3046,"","I've just heard from Matayoshi.","那件事情，又吉先生聯絡我們了。","","그 문제로 마타요시 씨의 연락이 왔다","Ich habe gerade von Matayoshi gehört."
+176,3046,"","Because no one's come to any actual harm, it's
+possible the case won't be pursued any further.","這事件也沒有實際的被害人，
+就這樣讓事件落幕吧。他是這麼說的。","","이 사건은 실제 피해자가 나오지 않았으니
+이걸로 일단 종결하게 될 거라는군","Weil niemand echten Schaden erlitten hat, kann es
+sein, dass dem Fall nicht weiter nachgegangen
+wird."
+177,3047,"","What? That's not like him.","什麼？　這樣真不像大叔耶。","","뭐라고? 그 아저씨 답지 않은데","Wie? Das sieht ihm ja gar nicht ähnlich."
+178,3046,"","He also said we should forget we ever heard
+anything about this incident.","他說得更明白呢，
+要我們當作完全不知道這件事。","","더 분명한 대답이 있었지.
+이 건에 대해선 우리는 일절 모르는 걸로 하라던데","Er meinte auch, dass wir vergessen sollten, jemals
+etwas von diesem Vorfall gehört zu haben."
+179,3046,"","The security of all accounts will be updated at
+noon tomorrow, in absolute secrecy.","帳號的安全問題，會在明天中午處理，
+是所有帳號同時進行，而且祕密地進行升級。","","계정 보안 업데이트는
+내일 정오에 일제히, 그것도 극비리에 실행된다고 한다","Die Sicherheitsfeatures aller Konten werden morgen
+Mittag ganz geheim aktualisiert."
+180,3046,"","That's the end of the matter.","他們打算這樣就結束了。","","이걸로 상황은 종료되는 거지","Und damit ist die Sache abgehakt."
+181,3045,"","Just like that?","就這樣嗎？","","그게 다야?","Einfach so?"
+182,3046,"","Knowing Matayoshi, he probably put pressure on
+Kamishiro.","以又吉先生的角度來看，這算是
+賣給神代企業一個大人情吧。","","마타요시 씨 입장에선 카미시로에 빚을
+만들어 둔 셈이 되겠지","Wie ich Matayoshi kenne, hat er Kamishiro
+vermutlich unter Druck gesetzt."
+183,3046,"","It could be the end for Kamishiro if people found
+that EDEN's security had been compromised.","安全系統被破解的這件事，
+可是會對營運EDEN的神代企業造成重大威脅。","","보안이 깨졌다는 사실은 EDEN을 운영하는
+카미시로에게는 치명적일 테니까","Kamishiro könnte erledigt sein, wenn Leute
+herausfinden, dass die Sicherheit von EDEN
+gefährdet war."
+184,3047,"","That's all well and good for Matayoshi. But what
+about my wounded pride as a hacker?","那樣只有又吉先生得到好處啊。
+我們被犯人踐踏的駭客自尊又該怎麼辦啊？","","그러면 마타요시 씨만 재미있게 되는 거잖아.
+그놈들에게 짓밟힌 내 해커로서의
+자존심은 어떻게 되는 건데?","Ist ja für Matayoshi alles schön und gut. Aber was
+ist mit meinem verletzten Stolz als Hacker?"
+185,3046,"","You'll just have to suck it up this time.","那些事就用酬勞來彌補吧，
+忍耐點。","","그 점을 참작해서 개런티는 받아다주지.
+그걸로 참아","Da musst du dieses Mal wohl durch."
+186,3047,"","Hmph...","唉……","","뿌우……","Hmpf ..."
+187,3047,"","I guess this means Kumi Minamiasagaya's fairytale
+must come to an end. There's no way her concert
+can go ahead now.","童話故事不會一直持續下去呢，
+南阿佐谷久美的演唱會也會毀了吧。","","동화는 언제까지고 계속되지 않는 법이구나.
+미나미아사가야 쿠미의 라이브도 이제 끝이려나","Das heißt wohl, dass Kumis Märchen enden muss.
+Unter den Umständen kann ihr Konzert doch auf
+keinen Fall stattfinden."
+188,3045,"","I don't think so. All the information I can find
+says it's going ahead as scheduled, tonight where
+the Demons' Den used to be.","咦？　沒有那種情報吧？
+今晚還是會照預定計畫，在惡魔巢穴舉辦喔。","","응? 그런 정보는 나와있지 않은데?
+라이브는 예정대로 
+오늘 밤 데몬즈 아지트에서 이어서 개최된대","Das glaube ich nicht. Soweit ich sehe, heißt es,
+dass es wie geplant durchgeführt wird. Heute
+Abend, in der früheren Demons-Höhle."
+189,3047,"","But how?","咦？　這怎麼回事？","","뭐어? 어떻게 된 거야?","Aber wie das?"
+190,3047,"","What's Kamishiro thinking?! Are they just going to
+look the other way after what's happened?","EDEN的營運團隊在想什麼啊！？
+只要沒用在犯罪上就隨便了嗎？","","EDEN의 운영 측은 뭘 생각하는 거지!?
+범죄에 사용되지만 않으면 무시해도 상관없다는 건가?","Was denken die sich bei Kamishiro denn?! Lassen
+die das alles einfach so durchgehen?"
+191,3046,"","Maybe Kamishiro made a secret deal with the
+perpetrator.","……說不定是犯人跟神代企業間有什麼私下交易吧。","","…범인과 카미시로 사이에 뒷거래가 있었던 건지도
+모르겠군","Vielleicht hat Kamishiro insgeheim eine Abmachung
+mit dem Täter getroffen."
+192,3046,"","To allow it to go ahead as long as no criminal
+acts are committed.","可能只要不用在犯罪上，今晚就放過他。","","범죄행위에 이르지만 않는다면 오늘 밤 일어날 일은 눈감아 준다고","Dass das Ganze stattfinden darf, solange nichts
+Kriminelles passiert."
+193,3047,"","How could they?! You can't let someone get away
+with hijacking other people's accounts, regardless
+of the reason why!","那種理由我哪能接受啊！
+居然隨意操縱別人的帳號，
+管你有什麼目的都不能原諒啊！","","그런 걸 납득할 수 있겠냐!
+남의 계정을 멋대로 조종하다니
+어떤 목적이든 용서할 수 없어!","Wie könnten sie das tun?! Kontendiebstahl darf nie
+ungestraft bleiben. Der Grund ist egal!"
+194,3047,"","[p], you've had your account stolen.
+Surely you understand how I feel?","喂，[p]
+被人獵走帳號的你，一定能懂我的心情吧？","","그렇지, [p]
+계정을 사냥당한 너라면 내 기분을
+알아주겠지?","[p], dir wurde doch mal das Konto geklaut.
+Du verstehst doch bestimmt, wie es mir geht?"
+195,2020,"","It's unforgivable.
+We can't let him get away with it.","不可能原諒
+絕對不會原諒","","용서할 수 없지
+절대 용서 못해","Das ist unverzeihlich.
+Das dürfen wir nicht durchgehen lassen."
+196,3047,"","Right, [p]!","對吧！　喂龍司！","","그렇지!? 이봐 류지!","Genau, [p]!"
+197,3046,"","In any case, Hudie's case is over. We were told to
+forget we ever heard anything about it.","不管怎樣，對hudie的委託都結束了……
+不對，是從來沒有這件事發生。","","어차피 후디에에 들어온 의뢰는
+이미 종료…아니, 없었던 걸로 하라는 이야기니까","Für Hudie ist der Fall jedenfalls beendet. Es
+hieß, wir sollen vergessen, je was davon gehört zu
+haben."
+198,3045,"","Ryuji!","哥哥……！","","오빠…!","Ryuji!"
+199,3046,"","Which means that neither Matayoshi nor Kamishiro
+get to have a say in whatever we do next.","所以，接下來我們要做什麼，
+又吉先生跟神代企業都沒有資格過問。","","그렇게 됐으니 이 다음에 우리가 뭘 하든
+마타요시 씨로부터도 카미시로로부터도 불평을 들을
+이유는 없다는 거다","Das heißt, dass weder Matayoshi noch Kamishiro
+bestimmen können, was wir als Nächstes tun."
+200,3046,"","Isn't that right, Chitose?","對吧，千歲？","","그렇지? 치토세","Stimmt’s, Chitose?"
+201,3047,"","Yeah!","龍司……！！　那麼！！","","류지…!! 그럼!!","Genau!"
+202,3046,"","It's almost time for the concert. I guess we just
+have to gatecrash it.","離演唱會開始已經沒多少時間了。
+只能直接過去了。","","라이브까지 이제 시간이 없어.
+직접 돌입할 수밖에 없겠군","Es ist fast Zeit für das Konzert. Da müssen wir
+wohl mal hereinplatzen."
+203,3046,"","We'll meet up at the Demons' Den tonight.","今晚全員出動，
+各自在惡魔巢穴集合。","","오늘 밤 전원이 간다.
+각자 데몬즈 아지트에서 합류하자","Wir treffen uns heute Abend an der 
+Demons-Höhle."

@@ -1,0 +1,115 @@
+ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
+1,1805,"","Everyone's gone home at last. Well done.","……總算是全員都回來了啊，辛苦了。","","……겨우 다들 돌아갔군. 수고했어","Endlich sind alle nach Hause gegangen.
+Gut gemacht."
+2,1805,"","Oh? That's your Digivice, isn't it? Got a message?","嗯？　那是你的Digivice吧？
+是郵件嗎？","","응? 댁의 디지바이스지?
+메일인가?","Oh? Das ist dein Digivice, oder? Hast du eine
+Nachricht bekommen?"
+3,4246,"","Congratulations, [p]! You won two
+million yen in the lottery! Click here to claim
+your winnings!","[p]　先生
+恭喜您！　隨機抽選中了200萬圓！　
+↓領取手續請參照這裡","","[p] 님.
+축하드립니다! 추첨을 통해
+200만 엔에 당첨됐습니다! ↓수령 절차는 이쪽에서","Glückwunsch, [p]! Du hast zwei Millionen
+Yen in der Lotterie gewonnen! Klicke hier, um
+deinen Gewinn einzufordern!"
+4,4246,"","Congratulations, [p]! You've been
+infected with a VERY SERIOUS virus! Click here to
+download antivirus software!","[p]　先生
+恭喜您！　感染了非常嚴重的病毒！　
+↓清除工具請於此處下載","","[p] 님.
+축하드립니다! 심각한 바이러스에 감염됐습니다!
+↓제거 툴 다운로드는 이쪽에서","Glückwunsch, [p]! Du wurdest mit einem SEHR
+ERNSTEN Virus infiziert! Klicke hier, um
+Antivirussoftware herunterzuladen!"
+5,1805,"","What's up? Did you get a strange message? Let me
+take a look.","什麼東西啊？　是什麼奇怪的郵件嗎？
+讓我看一下。","","뭐야? 이상한 메일이었어?
+잠깐 보여줘봐","Was ist denn los? Hast du eine merkwürdige
+Nachricht bekommen? Lass mich mal sehen."
+6,1805,"","...","……………………","","……………………","..."
+7,1805,"","Hahaha! What's that?! The wording's almost exactly
+the same! That's hilarious!","噗……哈哈哈哈哈！　這是什麼啦！
+文章也太像了吧！　真的太好玩了啦！","","풉……하하하하핫! 뭐야 이거!
+문장이 너무 비슷해! 완전 웃기네!","Hahaha! Was ist das denn?! Die Formulierung ist ja
+fast dieselbe! Das ist doch lächerlich!"
+8,1805,"","You're a hacker. How could you catch such a simple
+virus?","你是駭客吧？
+竟然會中這麼簡單的病毒，到底是怎樣啦？","","댁, 해커잖아?
+이런 간단한 바이러스에 걸리다니 뭐야?","Du bist ein Hacker. Wie konntest du dir so einen
+einfachen Virus einfangen?"
+9,1805,"","There's no point deleting the message. You'll just
+get another one. That's how these viruses work.","這個，就算把郵件刪掉，還是會有類似的
+再傳過來喔。一旦感染了病毒，郵件就會
+傳給感染病毒的人。","","이건 메일을 삭제해도 또 비슷한 게 온다고.
+바이러스에 감염되면 감염처로 발송되는 거야","Die Nachricht zu löschen, bringt nichts. Du
+kriegst dann einfach eine neue. So ist das mit
+diesen Viren."
+10,1805,"","Hold on a sec.","你等我一下。","","잠깐 기다려봐","Warte kurz."
+11,1805,"","All done. The virus is gone.","……清除病毒完成了。","","……바이러스 제거, 완료","Erledigt. Der Virus ist weg."
+12,1805,"","I deleted the virus and beefed up your defenses.
+I'm surprised you stayed safe as long as you did
+with that level of security.","除了清除之外，還順便幫你加強了防範措施的
+防火牆。說起來，你到目前為止，都用這種
+防火牆還能沒事，也是蠻厲害的。","","제거하는 김에 보안 방화벽 강화도 해뒀어.
+그나저나 지금까지 잘도 이런 방화벽으로 괜찮았구만","Ich habe den Virus gelöscht und deinen Schutz
+gestärkt. Ich bin überrascht, dass dir so lange
+nichts passiert ist, bei den Sicherheitsmängeln."
+13,2020,"","What did you just do?!
+That's impressive!
+Just as I'd expect from the former leader of Jude!","剛剛的，是怎麼辦到的！？
+真是厲害的本事……！
+不虧是前Jude的隊長！","","방금 거 어떻게 한 거야?!
+훌륭한 실력……!
+역시 쥬드의 전 리더!","Was hast du gerade gemacht?!
+Das ist beeindruckend!
+So erwarte ich das vom ehemaligen Gamma-Anführer!"
+14,1805,"","You're still new to hacking, aren't you?","話說回來，你還是駭客初學者吧。","","그러고 보니 댁은 해커 초보자였지","Du hast mit dem Hacken gerade erst angefangen,
+oder?"
+15,1805,"","You're an expert on Digimon, but this really is
+Hacking 101. I guess you're still learning?","明明數碼寶貝就很強，卻還在學習
+這種基本駭客技術啊？","","디지몬은 강한 주제에 이런 기본 해킹은
+아직 공부 중이란 건가?","Du bist ein Experte für Digimon, aber das sind
+Grundlagen des Hackens. Ich schätze, du lernst
+noch dazu?"
+16,1805,"","What are you talking about? Anyone can do that, so
+it's a walk in the park for a hacker.","你在那邊佩服什麼啊，普通人就算了，
+這種程度的事情，對駭客可是常識級的水準喔。","","뭘 감탄하는 거야. 이 정도쯤이야
+일반인이면 모를까 해커라면 상식 수준이라고","Wovon sprichst du? So was kann jeder, also ist es
+für einen Hacker ein Kinderspiel."
+17,1805,"","But I don't think many people could do it as fast
+as me.","……但是，能夠這麼快完成的人，
+我想應該也不多吧。","","……하지만 뭐, 이만큼 빠르게 해낼 수 있는 놈은
+웬만해선 없을 거라고 보지만 말이지","Aber ich glaube nicht, dass viele Leute es so
+schnell können wie ich."
+18,1805,"","That's nothing to do with it. Anyone can do that,
+so it should be a piece of cake for a hacker.","跟那個沒關係吧！　如果是普通人就算了，
+這種程度的事情，對駭客可是三兩下就能解決的喔。","","그건 관계없다고! 이런 거 일반인이면 모를까
+해커라면 당연히 바로 대처할 수 있어야지","Das hat nichts damit zu tun. Jeder kann das, also
+sollte es für einen Hacker ein Kinderspiel sein."
+19,1805,"","You need to get your act together.","真是的，你有點脫線啊……振作一點好嗎？","","진짜 얼빵하다니까……정신 좀 차리라고","Du musst dich am Riemen reißen."
+20,1805,"","I guess you are still new to all this.","啊……真是沒辦法。既然你是那些傢伙的後輩，
+也等於是我的後輩呢。","","아……어쩔 수 없구만.
+그놈들 후배라면 내 후배나 마찬가지지","Ich schätze, das alles ist noch neu für dich."
+21,1805,"","If you want, I can teach you some basic hacking
+knowledge and skills, in the field.","喂，要我教你也是可以啦，
+用實踐的方法，教你常識水準的駭客知識跟技術。","","이봐, 댁한테 가르쳐줘도 괜찮다고.
+상식 수준의 해킹 지식과 기술을, 실천을 통해 말이지","Wenn du willst, kann ich dir ein paar einfache
+Tipps und Tricks beim Hacken verraten, während
+wir unterwegs sind."
+22,1805,"","Great.","……就是該這樣才行。","","……그렇게 나오셔야지","Prima."
+23,1805,"","But I'll warn you, I'm not as lenient as Chitose.","但是我可不像千歲人這麼好啊。
+這部分，要先做好準備喔？","","하지만 난 치토세처럼 물렁하진 않으니까
+그런 점은 각오해두라고","Aber ich warne dich, ich bin nicht so nachsichtig
+wie Chitose."
+24,1805,"","By the way, do you want this? I brought more than
+I need.","啊，對了。你需要這種東西嗎？
+我把多的帶過來了，就給你用吧。","","아, 그렇지. 댁, 이런 거 필요해?
+여분으로 챙겨왔으니까 써도 괜찮아","Übrigens, möchtest du das hier? Ich habe mehr
+dabei, als ich brauche."
+25,1805,"","We'll start your training next time. We're done
+for today.","那麼，下次開始練習吧。
+今天就先到此解散。","","그럼 다음부터 연습 시작할까.
+오늘은 이만 해산하자","Nächstes Mal fangen wir mit deinem Training an.
+Für heute sind wir fertig."

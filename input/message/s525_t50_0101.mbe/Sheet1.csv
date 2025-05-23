@@ -1,0 +1,507 @@
+ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
+1,3047,"","Getting all of us together for a job... That's
+pretty extravagant. Who's the client?","居然是全員一起的工作啊，還真豪華呢──
+龍司，委託人是誰啊？","","전원이 모여 작업한다니 호화롭네―
+의뢰인은 누구야, 류지?","Alle von uns für einen Auftrag ... Schweres
+Geschütz. Wer ist denn der Klient?"
+2,3047,"","The aquarium in Ikebukuro!","……喔，是從池袋的水族館來的啊！","","…오, 이케부쿠로의 수족관에서 온 거잖아!","Das Aquarium in Ikebukuro!"
+3,3045,"","So the client is a fish?","……這麼說，委託人是魚囉？","","…그러면 의뢰인은 물고기야?","Der Klient ist also ein Fisch?"
+4,3046,"","Of course not. It's the aquarium manager. It's a
+theft case. It seems some thieves have been
+breaking in.","……怎麼可能啊。委託人是水族館館長。
+這是竊盜事件，池袋的水族館好像出現小偷了。","","…그럴 리가 있겠냐. 의뢰인은 수족관 관장이다.
+도난사건이로군. 이케부쿠로 수족관에 도둑이 들었다고 한다","Natürlich nicht. Der Direktor des Aquariums. Es
+geht um Diebstahl. Dort wurde wohl mehrfach
+eingebrochen."
+5,3047,"","Too bad. It just sounds like an ordinary case.","小姐，真是可惜啊，感覺只是普通的事件。","","유감이야 아가씨. 평범해보이는 사건이었네","Schade. Klingt nach einem stinknormalen Fall."
+6,3047,"","But theft? Surely that's more of a police matter?","……但是，你說偷竊？
+那種普通小事拜託警察就好啦。","","…그런데 도난?
+그런 흔해빠진 사건이라면 경찰에게 부탁하면 될 텐데","Aber ist Diebstahl nicht eher ein Fall für die
+Polizei?"
+7,3046,"","The police have passed on the case to us.","就是警察那邊，把這件事交給了我們。","","그 경찰 측에서 이쪽으로 패스한 거다","Die Polizei hat den Fall weitergereicht."
+8,3045,"","So it's not just an ordinary case?","……那麼，果然不是普通的事件吧？","","…그렇다면 역시 평범하지 않은 사건이라는 뜻?","Also doch kein gewöhnlicher Fall?"
+9,3007,"","I see you're all here. Thanks for agreeing to
+this.","喔，全員都在啊。
+又要拜託你們啦。","","좋아, 전원이 모였군.
+또 신세를 지겠다","Ihr seid also alle da. Danke, dass ihr euch
+bereit erklärt habt."
+10,3007,"","Let me introduce the client. This is Mr.
+Mizushita, manager of the Ikebukuro Aquarium.","馬上就介紹一下委託人吧。
+這是池袋水族館的館長水下先生。","","바로 의뢰인을 소개해 두마.
+이케부쿠로 수족관의 관장인 미즈시타 씨다","Darf ich euch den Klienten vorstellen? Das ist
+Herr Mizushita, Direktor des Aquariums von
+Ikebukuro."
+11,3007,"","Keep in mind that everything we discuss must be
+kept absolutely confidential.","之前雖然也說過，但依照慣例，
+這次商量也要保密啊。","","미리 말해두겠지만 여느 때처럼 이 의뢰는
+비밀로 해두길 바란다","Vergiss nicht, alles, was wir hier besprechen,
+ist streng vertraulich."
+12,7364,"","Then I'll explain the situation.","那麼，我來說明一下狀況吧。","","그럼 제가 상황을 설명하겠습니다","Ich erkläre dann mal, wie die Lage aussieht."
+13,7364,"","Fish have been going missing from our tanks every
+night for some time now.","……其實最近開始，每天晚上
+水族館的水槽內都不斷有魚被偷走。","","…실은 한동안 수족관 수조에서
+매일 밤 물고기 도난이 이어지고 있었습니다","Seit einer ganzen Weile verschwinden jede Nacht
+Fische aus unseren Becken."
+14,7364,"","Because of the cunning methods employed by the
+thieves, it took us more than a month to notice
+that anything was wrong.","而偷竊的手法實在是太巧妙了……
+我們被偷竊了超過一個月，
+都沒有發現魚被人偷走了。","","그 수법이 너무나도 깔끔해서…
+저희가 1개월 이상이나 물고기를 도난당했다는 걸
+눈치채지 못했을 정도입니다","Die Diebe sind so listig, dass wir über einen
+Monat gebraucht haben, um zu merken, dass etwas
+nicht stimmt."
+15,3046,"","Hang on a sec. Can I ask something first?","……請等一下，館長先生。
+我有些事情要先確認。","","…기다려, 관장님.
+일단 확인하고 싶은 것이 있는데","Einen Moment. Dürfte ich etwas fragen?"
+16,7364,"","Yes, what?","是什麼事呢？","","뭔가요?","Ja, was denn?"
+17,3046,"","What fish have been stolen?","什麼魚被偷走了？","","무슨 물고기가 도난당했지?","Was wurden denn für Fische gestohlen?"
+18,7364,"","For starters, sea bream, flounders, and seahorses.","一開始是鯛魚，接下來是比目魚，
+海馬也被偷走了。","","처음에는 도미, 그 다음엔 넙치
+해마도 도난당했습니다","Zum Beispiel Seebrassen, Flundern und
+Seepferdchen."
+19,3047,"","Wow. Maybe the thieves want to start their own
+aquarium.","什麼？　犯人是想打造龍宮城喔。","","하앙? 범인은 용궁이라도 만들려는 생각인가","Oha. Wollen die Diebe vielleicht ein eigenes
+Aquarium aufmachen?"
+20,3046,"","This is no laughing matter. You should take it
+more seriously.","不要開玩笑，給我認真點。","","놀고있는 게 아냐. 진지하게 해","Das ist kein Witz hier. Du solltest das mal
+ernster nehmen."
+21,3047,"","Hey.","好～","","네이~","He."
+22,3047,"","You laugh and he gets mad at me.","喂，都是你笑了才害我被罵啊。","","어이, 네가 웃는 바람에 나까지 혼났잖아","Du lachst, und auf mich wird er sauer."
+23,3046,"","What else was stolen?","……然後呢？　其他還有什麼被偷了嗎？","","…그리고? 그 외엔 뭘 훔쳐갔지?","Was wurde denn noch gestohlen?"
+24,7364,"","Some sharks.","有的，
+連活著的鯊魚都有直接被偷過的狀況。","","예.
+살아있는 상어를 그대로 훔쳐간 적도 있습니다","Ein paar Haifische."
+25,3047,"","I thought sharks were huge. How could they steal
+them?","鯊魚不是很大嗎，
+那種東西也能偷喔？","","상어는 엄청나게 크잖아?
+그런 걸 훔칠 수가 있나?","Sind Haifische nicht riesig? Wie konnten sie denn
+die klauen?"
+26,7364,"","The sharks in our aquarium are a small species.
+They're only about 30 centimeters long.","啊，本水族館的鯊魚是小型的品種，
+體長大約只有30公分左右。","","아아, 이 수족관의 상어는 작은 종류라서요.
+몸길이 30센티 정도일까요","Die Haie in unserem Aquarium sind eine kleinere
+Art und nur etwa 30 cm lang."
+27,3047,"","I never knew there were small sharks. They don't
+sound very scary.","啊～也有小隻的鯊魚啊。
+好像很沒氣勢……","","아~ 쪼그만 상어도 있구나.
+박력 없겠다…","Ich wusste gar nicht, dass es auch kleine Haie
+gibt. Die klingen ja wenig furchterregend."
+28,7364,"","Clownfish, conger eels, jellyfish, sardines,
+spider crabs, and even penguins and sea otters
+have also been stolen.","其他還有小丑魚、花園鰻、赤水母、沙丁魚、
+長腳蟹，以及企鵝跟海獺都被偷走了。","","그 외엔 흰동가리도, 붕장어도, 해파리도, 정어리도
+거미게도, 그리고 펭귄하고 해달도 도난당했습니다","Clownfische, Meeraale, Quallen, Sardinen,
+Seespinnen und sogar Pinguine und Seeotter wurden
+entwendet."
+29,3046,"","That many?","……你說什麼？","","…뭐?","So viel?"
+30,7364,"","Let me see... What else?","我說了，是小丑魚、花園鰻、赤水母、
+長腳蟹，以及──","","그러니까 흰동가리랑, 붕장어랑, 해파리랑
+거미게, 그리고――","Lasst mich überlegen ... was denn noch?"
+31,3045,"","Ah, what about cod? Were any cod stolen?","那、那個，磯鱸呢？
+磯鱸有被偷、偷走嗎？","","저, 저기 벤자리는?
+벤자리도 도, 도둑맞았나요?","Wie ist es mit Dorschen? Wurden Dorsche gestohlen?"
+32,7364,"","No, we don't have cod in the aquarium.","磯鱸……本水族館沒有耶。","","벤자리는…이 수족관엔 없으니까요","Nein, wir haben keine Dorsche in unserem Aquarium."
+33,3045,"","Oh, I see...","是這樣啊……","","그렇습니까…","Aha, verstehe ..."
+34,3046,"","Erika, the issue isn't what was stolen.","艾莉卡，問題不只在什麼被偷了。","","에리카, 문제는 뭘 도난당했는지가 아냐","Erika, es geht nicht darum, was gestohlen wurde."
+35,3046,"","How could you not notice all those missing animals
+for a whole month?","這麼多都被偷走了，卻超過一個月也沒發現，
+這怎麼想都很奇怪。","","그만큼이나 훔쳐갔는데도 1개월이나 알아차리지 못한 건
+아무리 생각해도 이상한 이야기다","Wie konnten Sie denn einen ganzen Monat lang nicht
+merken, dass so viele Tiere verschwunden sind?"
+36,7364,"","Erm...well...","是，就是這樣。","","예에 예에","Ähm ... also ..."
+37,7364,"","The thieves... They...employ very cunning methods.","所以，才會說他們的手法……太過巧妙了……","","그 점이 놈들의 깔끔한 수법…이라고 부를 부분이라…","Die Diebe ... setzen ... sehr listige Methoden
+ein."
+38,3047,"","Yeah, right! Are you sure it's not because you old
+geezers aren't up to the job? ","不對不對，不是犯人手法太過巧妙，
+是大叔你們太鬆散了吧？","","아니아니, 범인의 수법이 깔끔해서가 아니라
+아저씨들이 얼빠졌을 뿐이잖아?","Ja, schon klar! Sind Sie sicher, dass Sie nicht
+einfach nur zu alt sind, um den Durchblick zu
+haben? "
+39,7364,"","I...I don't know what to say to that.","這點……我實在是不知道該怎麼說。","","그건 그…뭐라고 말씀드려야 좋을지","Ich ... weiß nicht, was ich darauf sagen soll."
+40,3007,"","Hey, show some respect for your elders.","你們啊，不要對長輩這麼沒禮貌。","","너희들, 어른에게 실례되는 소리 하지 마라","He, leg mal ein bisschen Respekt für das Alter
+an den Tag."
+41,3007,"","Hackers rely on information to do their jobs, so
+you should listen to everything the client has to
+say. Isn't that right, Ryuji?","而且，你們是利用情報的駭客吧，
+委託人說的話要好好聽到最後。
+……沒錯吧，龍司？","","게다가 너희는 정보를 취급하는 해커잖냐.
+의뢰자의 이야기는 끝까지 들어야지.
+…안 그러냐, 류지?","Hacker verlassen sich auf Informationen, um ihre
+Aufgaben zu erledigen, also solltest du dem
+Klienten zuhören, nicht wahr, Ryuji?"
+42,3046,"","That's right.","是的，又吉先生說的沒錯。","","네. 마타요시 씨의 말씀대로입니다","So ist es."
+43,3046,"","Sorry for the interruption. Please continue.","……館長先生，抱歉打斷你們談話，
+請你繼續說吧。","","…관장님, 말을 잘라서 미안하다.
+이야기를 마저 계속해줘","Entschuldigen Sie die Unterbrechung.
+Bitte fahren Sie fort."
+44,7364,"","We don't know why, but the thieves always return
+the animals to where they belong after a few
+hours.","那個，這是我們也搞不清楚的一點。
+被犯人偷走的動物，幾小時候又回到了原來的地方。","","저, 이게 저희도 이해하지 못하는 부분입니다만
+범인은 훔친 물고기를 몇 시간 후에 원래 자리로 돌려놨습니다","Wir wissen nicht, warum, aber die Diebe bringen
+die Tiere immer nach wenigen Stunden wieder
+zurück."
+45,3047,"","Huh? What the...?","啥？　怎麼回事啊？","","뭐? 무슨 소리야?","Was? Wie meinen?"
+46,7364,"","So the exhibits are stolen during the night and
+returned before we open the next day.","也因為這樣……在晚上被偷走的展示物，
+在隔天開始營業前，就已經回到原本的位置了。","","그러니까…야간에 도난당한 전시물은 전부 다음날
+영업 개시 전에 원래 자리로 돌아왔다는 겁니다","Die Exemplare werden nachts gestohlen und
+zurückgebracht, bevor wir am nächsten Tag wieder
+öffnen."
+47,7364,"","More specifically, they're usually returned after
+about an hour.","說得更仔細點的話，大約都會在
+被偷走的一小時內回來。","","덧붙여 말씀드리자면 대부분 도난당하고 1시간 후 
+원래 자리로 돌아온 모양입니다","Genauer gesagt werden sie meistens nach etwa
+einer Stunde zurückgebracht."
+48,7364,"","That's why we didn't notice it for over a month.","這就是我們超過一個月以來，
+都沒能發現被偷了的原因。","","그게 저희가 1개월 간 범행을 알아차리지 못했던 이유입니다","Deshalb ist es uns mehr als einen Monat lang
+nicht aufgefallen."
+49,3046,"","I can see why.","原來如此，這樣的確無法察覺……","","과연. 확실히 그래선 알아차리지 못할 만도 하지…","Das kann ich nachvollziehen."
+50,3045,"","How?","……怎麼發現的？","","…어떻게?","Wie?"
+51,7364,"","Pardon me?","什麼？","","예?","Wie meinen?"
+52,3047,"","She means how did you eventually notice what was
+going on?","小姐想問的，是你們怎麼在這種狀況下，
+發現到被人偷的。","","아가씨가 하고 싶은 말은, 그런 상황인데 반대로
+어떻게 범행을 알아차렸냐는 거야","Soll heißen: Wie haben Sie denn überhaupt bemerkt,
+was los ist?"
+53,7364,"","Oh, I see.","喔，是這樣啊。","","아아, 그런 뜻이군요","Ach so, verstehe."
+54,7364,"","Unless something happens, the CCTV camera footage
+is wiped every month without being watched.","監視攝影機的影像，只要沒有發生特殊事件，
+一個月沒播放就會刪除掉。","","감시 카메라 영상은 특별히 사건이 일어나지 않는 한
+재생되지 않고 1개월 단위로 삭제되도록 설정되어
+있습니다","Wenn nichts passiert, werden die Aufnahmen der
+Überwachungskameras jeden Monat gelöscht, ohne
+dass sie sich jemand ansieht."
+55,7364,"","A member of our staff noticed what was happening
+while erasing the footage. It showed some masked
+men carrying away the tanks at lightning speed.","而在刪除作業中，工作人員發現了這齣犯行。
+影像拍到了有群蒙面男子，用難以置信的高速
+把水槽給運了出去。","","그 삭제 작업 중에 스탭이 범행을 눈치챈 겁니다.
+복면의 남자들이 알아볼 수 없을 정도의 속도로 수조를
+옮기는 것이 영상에 비춰졌습니다","Aber ein Angestellter hat beim Löschen bemerkt,
+was vor sich ging. Er sah maskierte Männer, die
+die Aquarien blitzschnell wegtrugen."
+56,7364,"","Then they returned in about an hour and put them
+back in exactly the same place, right down to the
+millimeter.","大約一個小時候又再次的入侵，把同樣的東西
+放回同樣場所，連一公分的偏差都沒有。","","훔친 후 약 1시간 후에 다시 침입해 같은 것을 같은 자리에
+옮기고 1밀리의 어긋남도 없이 다시 세트해두는 것도","Eine Stunde später sind sie zurückgekehrt und
+haben sie millimetergenau wieder dort hingestellt,
+wo sie ursprünglich standen."
+57,3046,"","That sure is strange. Why would they do such a
+thing?","……真是奇怪的狀況。
+他們有什麼目的要做這種事？","","……묘한 이야기로군.
+무슨 목적으로 그런 짓을 하는 거지?","Das ist reichlich seltsam. Was sollte denn das
+bringen?"
+58,3007,"","That's what makes this case so bizarre.","就是說。
+正因為不明白，才覺得很詭異。","","글쎄.
+그걸 알 수가 없으니 기분 나쁘다는 거다","Deshalb ist dieser Fall so ungewöhnlich."
+59,3007,"","They risk being caught just to return what they
+took.","這犯人居然冒著被抓的危險，
+也要把東西給好好還回來。","","일부러 체포될 위험을 감수하면서까지 이 범인은
+착실하게 훔친 것을 돌려주러 오고 있어","Sie riskieren, erwischt zu werden, um
+zurückzubringen, was sie sich geholt hatten."
+60,2020,"","Isn't it the police's job to investigate this?","警察的工作不就是要調查這點嗎？","","그걸 조사하는 게 경찰이 할 일이잖아요?","Ist das nicht eigentlich ein Fall für die Polizei?"
+61,3007,"","Ordinarily, yes. But my superiors have been at
+loggerheads about how to handle it.","你說得真是直接啊。
+其實，上層也很猶豫要怎麼處理這起事件。","","솔직하게 말해주는군.
+실은 이 사건을 어떻게 취급할지 위에서도 옥신각신하고 있어","Wäre es normalerweise schon. Aber meine
+Vorgesetzten können sich nicht einigen, was
+zu tun ist."
+62,3007,"","I'll spare you the details, but this case isn't
+technically classified as theft.","……我就省略詳細說明，
+但這起事件很可能不被當成竊盜案。","","…자세한 설명은 생략하고
+이 사건은 도난죄에는 해당하지 않을 가능성이 높아","Ich erspare euch die Details, aber dieser Fall ist
+streng genommen kein Diebstahl."
+63,2020,"","?","是這樣嗎？","","?","?"
+64,3007,"","Legally, theft is the intention to permanently
+deprive the owner of property. If that can't be
+proven, it can't be considered theft.","警方的用語叫做“意圖所有”，
+要是無法證明這點，就無法成立竊盜罪。","","이쪽 용어로 ""불법영득의사""라고 하는데
+이게 입증되지 않으면 도난죄가 성립하지 않거든","Rechtlich gesehen beinhaltet Diebstahl die
+Absicht, jemandem sein Eigentum dauerhaft zu
+entziehen. Die müssten wir nachweisen."
+65,3007,"","The perpetrators' behavior of always returning the
+exhibits means that the owner isn't permanently
+deprived of his property.","而且，犯人將「贓物送回」這行為，
+便能證明他們沒有違反這點。
+不只意義不清楚，還很麻煩啊。","","그 놈들이「훔친 것을 돌려준다」는 행위는
+그 점을 찌르고 있지. 의미불명인데다 귀찮은 상황이다","Da die Täter die Tiere aber immer zurückbringen,
+wird dem Eigentümer kein Eigentum dauerhaft
+entzogen."
+66,3007,"","Of course if we knew who they are, we could nail
+them for trespassing on private property. But
+trespassing cases aren't a high priority.","當然，只要知道犯人的真面目，便能用
+非法侵入私有土地來起訴，但要是沒有
+實際損害，也就無法進行搜查。","","물론 놈들의 정체만 밝혀지면 사유지 불법침입으로
+걸리겠지만 실제로 해를 끼치지 않는 이상 조사 우선도도
+떨어지지","Wenn wir wüssten, wer es ist, wären sie wegen
+widerrechtlichen Betretens eines Privatgrundstücks
+dran. Aber solche Fälle haben keine Priorität."
+67,3007,"","My superiors have decided that we can't spare the
+resources to investigate this case right now.","……也因此，上層判斷把這起事件
+延後再進行搜查。","","…즉 윗쪽의 판단으로는 이 사건의 조사는
+뒤로 미루라는 거다","Meine Vorgesetzten haben entschieden, dass wir für
+diesen Fall aktuell keine Ressourcen übrig haben."
+68,3047,"","Come off it! That just sounds like an excuse for
+being lazy!","那種都是你們的理由啊！
+在我聽來，你們只是在怠慢職務吧。","","그런 거 제멋대로잖아!
+직무태만을 변명하는 걸로밖에 들리지 않네","Ach, Quatsch! Das klingt nach einer Ausrede für
+Faulheit!"
+69,3046,"","That's a bit of an exaggeration. Detective
+Matayoshi can't be everywhere at once.","你說得太過火了，千歲。
+又吉先生也是有辦不到的事情啊。","","말이 지나치다, 치토세.
+마타요시 씨도 어떻게 해볼 수 없는 게 있어","Da übertreibst du aber. Kommissar Matayoshi kann
+schließlich nicht überall gleichzeitig sein."
+70,3007,"","It's okay, Ryuji. I've got a thick skin.","沒關係啦，龍司。
+被他這麼一說我也無法反駁什麼。","","됐다, 류지.
+그 점을 찌르면 변명할 말도 없지","Lass nur, Ryuji. Ich kann das ab."
+71,3007,"","That why I've resorted to bringing Mr. Mizushita
+here to meet with you in secret.","但也因為這樣，所以我才私下找館長來幫忙，
+把這事件交給你們來解決。","","그러니 이렇게 뒤에서 관장님에게 협력하기 위해
+너희에게 의뢰를 넣어야겠다고 생각한 거지","Deshalb habe ich ein geheimes Treffen zwischen
+euch und Herrn Mizushita arrangiert."
+72,7364,"","The aquarium is actually scheduled to undergo a
+major renovation soon.","其實本水族館，預定最近進行大幅度的改裝。","","사실 이 수족관은 조만간 대규모 리모델링이 예정되어 있습니다","Das Aquarium soll demnächst komplett renoviert
+werden."
+73,7364,"","If word of this gets out, we might end up losing
+our grant and might even have to shut down
+permanently.","但是，要是這事件被傳出去的話，便無法拿到
+改裝的補助金額，總有一天連營運都會暫停。","","하지만 이러한 사건이 잘못해서 소문이라도 났다간
+리모델링 보조금도 삭감되고 언젠가 운영이 동결되고 맙니다","Aber wenn sich das hier herumspricht, verlieren
+wir womöglich unsere Fördergelder und müssen
+dauerhaft schließen."
+74,3046,"","I suppose it would be risky to give a grant to an
+aquarium where thieves can come and go at will.","的確是這樣啊。
+畢竟不能給被小偷隨便亂闖的水族館發補助金。","","그렇겠지.
+도둑이 마음대로 드나드는 수족관에 보조금을 낼 수는 없겠지","Ein Aquarium, wo Diebe jederzeit hereinspazieren
+können, ist wohl eine eher riskante Investition."
+75,3007,"","The CCTV footage is evidence of trespassing.","監視攝影機的影像可以作為非法入侵的證據。","","감시 카메라 영상은 불법침입의 증거가 되지","Die Überwachungsvideos beweisen widerrechtliches
+Betreten eines Grundstücks."
+76,3007,"","If you can find out who they are, I'll arrest
+them.","只要你們找出他們的真面目，
+就放心交給我們去逮捕吧。","","너희들이 놈들의 정체를 밝혀낸다면 잡는 건
+이쪽에 맡겨두면 된다","Wenn ihr herausfindet, wer die sind, dann nehme
+ich die Bande fest."
+78,3046,"","Please tell us everything else you know. Then
+we'll decide whether or not to take the case.","請告訴我們其他知道的事情。
+我會聽過後，在決定要不要接受委託。","","그 외에 알고 계신 것을 알려주십시오.
+의뢰를 받을지 어떨지는 그 후 결정하겠습니다","Bitte sagen Sie uns alles, was Sie wissen. Dann
+entscheiden wir, ob wir den Fall nehmen."
+79,7364,"","The thieves always make their move during gaps in
+the security guards' patrol schedule. Of course we
+change the routes and handover times every day...","他們是在閉館後，趁著警衛的巡邏時間的空檔進行。
+雖然巡邏路線跟換班時間每天都會變換……","","범행은 폐관 후 경비원의 순회 시간이 비는 틈을 
+노리고 실행됩니다.
+물론 순회 코스나 교대 시간을 매일 바꾸고 있습니다만…","Die Diebe schlagen immer dann zu, wenn der Plan
+der Sicherheitsleute Lücken hat. Dabei ändern wir
+die Strecken und Schichtwechsel täglich ..."
+80,7364,"","Even so, they always know the times when there are
+the fewest guards.","但現狀，是他們依然會看穿警備薄弱的時間下手。","","그런데도 경비가 허술한 시간대를 모조리 간파당하고
+마는 게 현 상황입니다","Aber irgendwie wissen die immer, wann am wenigsten
+Sicherheitsleute im Einsatz sind."
+81,3047,"","How about security? Do you have motion sensors or
+infrared beams?","保全系統呢？
+有動態感側器跟紅外線裝置吧？","","보안 시스템은?
+동체 센서나 적외선 정도는 있잖아?","Was ist mit Sicherheitssystemen? Gibt es
+Bewegungsmelder oder Infrarotstrahlen?"
+82,7364,"","The thieves disable our security system, so the
+alarm never goes off.","在犯人進行犯行時，保全系統也會被他們關閉。
+就連入侵警報都不會響。","","범행 사이엔 보안 시스템도 놈들에게 정지당해버려서
+침입 알람이 울리지 않았습니다","Die Diebe schalten das Sicherheitssystem aus,
+sodass der Alarm nicht anschlägt."
+83,3047,"","Is it some crappy old security system?","唉～你們是用什麼爛保全系統啊。","","하아아, 대체 얼마나 허접한 보안 시스템을 쓰고 있는 거야","Ist das etwa so ein uraltes Mistding?"
+84,7364,"","Far from it! It's brand new.","沒有這回事！
+本水族館的保全系統是最新型的。","","말도 안됩니다!
+저희 수족관의 보안은 최신식입니다","Nicht doch! Es ist brandneu."
+85,7364,"","One of the thieves must be a highly skilled
+hacker. I heard there are lots of top-notch
+hackers in EDEN.","犯罪集團裡一定有相當厲害的駭客。
+我聽說EDEN裡也有很多優秀的駭客隊伍……","","아마도 범행 그룹엔 상당히 솜씨 좋은 해커가
+있는 게 틀림없습니다.
+EDEN엔 우수한 해커 팀이 많다고 들었고…","Dann muss ein Dieb ein fähiger Hacker sein. Ich
+habe gehört, dass es davon viele in EDEN gibt."
+86,3045,"","You don't suspect us, do you?","……難道你是在懷疑我們嗎？","","…혹시 우리들, 의심받고 있어?","Verdächtigen Sie jetzt etwa uns?"
+87,7364,"","Of course not! Matayoshi told me about all you.","不不不，怎麼會！
+我有聽又吉先生說過，
+你們是「做不出這種事」的……","","아뇨, 설마!
+당신들에 대해선 마타요시 씨로부터 들었습니다.","Natürlich nicht! Matayoshi hat mir alles über
+euch erzählt."
+987,7364,"","He said you wouldn't be capable of something like
+this.","好像是說「不到那種程度」……","","「그런 수준이 아니다」라고…","Er meinte, so etwas könntet ihr gar nicht tun."
+88,3046,"","How nice of him to say that...","……又吉先生，我能拒絕這工作吧？","","…마타요시 씨. 이 의뢰를 거절해도 됩니까?","Wenn er das so sagt ..."
+89,3007,"","I didn't mean that! I just meant you wouldn't be
+capable of committing a crime like that.","不對不對，不要誤會啦！
+我只有說「你們是不會做這種事的壞傢伙」而已啊。","","아니아니, 오해하지 마!
+「그런 범행을 할 나쁜 놈들이 아니다」라고 한 거다","So war es nicht gemeint! Ich meinte nur, so ein
+Verbrechen würdet ihr nie begehen."
+90,3007,"","Otherwise we wouldn't be asking for your help.","不然我就不會拜託你們來解決了啊。
+對吧？　館長先生？","","그렇지 않고서야 너희에게 해결을 부탁할 리가 없지","Sonst würden wir euch ja nicht um Hilfe bitten."
+990,3007,"","Isn't that right, Mr. Mizushita?","對吧？　館長先生？","","그렇지? 관장님?","Nicht wahr, Herr Mizushita?"
+91,7364,"","Right! Sorry, I phrased that badly.","是、是的！　真是抱歉，
+是我說話的方法不對……","","아, 예! 죄송합니다.
+제 표현이 좋지 않았었나 봅니다…","Genau! Entschuldigung, ich habe das schlecht
+formuliert."
+92,7364,"","I would really like Hudie to uncover the truth and
+catch the culprits.","請hudie的各位，一定要找出
+這事件的真相，捉出幕後的犯人。","","부디 후디에 여러분께서 이 사건의 진상을
+밝히고 범인을 잡아주셨으면 합니다","Es wäre mir wirklich lieb, wenn Hudie die
+Wahrheit herausfände und die Schuldigen stellte."
+93,3046,"","So what's it gonna be?","……原來如此，這件事你怎麼看？","","……과연. 어떻게 생각해?","Also, was meinst du?"
+94,2020,"","I think we should take the case.
+I don't think we should take the case.","接受委託
+拒絕委託","","의뢰를 받는다
+의뢰를 거절한다","Ich denke, wir sollten den Fall annehmen.
+Ich denke, wir sollten den Fall nicht nehmen."
+95,3046,"","Then let's take it. I'm a little curious to find
+out exactly what's going on.","……既然你這麼說了，那就接下吧。
+我也有點在意這事件的真相呢。","","……네가 그렇게 말한다면 받아들이도록 할까.
+나도 약간 진상이 신경쓰이던 참이니까","Dann nehmen wir ihn. Ich bin auch etwas neugierig,
+was genau da los ist."
+96,3046,"","I don't like the thought of cleaning up after the
+police, but Detective Matayoshi has done a lot for
+us.","……我也懂你不想幫警察收爛攤子的心情，
+但我們很受又吉先生照顧。","","……경찰의 뒤치다꺼리를 하는 게 내키지 않는 건 알겠지만
+마타요시 씨에게는 신세를 지고 있지","Es gefällt mir zwar nicht, für die faule Polizei
+einzuspringen, aber Kommissar Matayoshi hat viel
+für uns getan."
+97,3046,"","It might also be useful to have the police owe us
+a favor.","而且，賣人情給警察，打好交情
+對我們駭客來說也是很重要的。","","게다가 경찰에게 은혜를 베풀어 커넥션을 만들어 두는 것도
+우리 해커에게는 중요한 일이다","Es könnte außerdem nützlich sein, wenn die Polizei
+uns einen Gefallen schuldet."
+98,3046,"","Detective Matayoshi could be useful.","……又吉先生可是“派得上用場”的男人喔。","","…마타요시 씨는 ""쓸만한"" 남자야","Kommissar Matayoshi könnte uns nützlich sein."
+99,3007,"","I can't believe you said that with me standing
+right here.","真是的，在我本人面前還真敢說啊。","","정말, 본인을 앞에 두고 잘도 말하는군","Unglaublich, dass du das sagst, obwohl ich direkt
+vor dir stehe."
+100,3046,"","We'll take the case. Leave it to us.","又吉先生，這委託，我們hudie接下了。
+請你就當作上了大船吧。","","마타요시 씨. 이 의뢰는 후디에가 받았습니다.
+안심하고 계십시오","Wir nehmen den Fall. Überlassen Sie das uns."
+101,3007,"","I knew you'd take it. Thanks.","我就相信你會接下的，謝謝你啦。","","받아줄거라고 믿고 있었지. 감사한다","Ich wusste, dass ihr das macht. Danke."
+102,7364,"","Thank you!","真是太感謝你們了！","","감사합니다!","Danke!"
+103,3046,"","Let me just check two things.","最後有兩點我要確認一下。","","마지막으로 두 가지만 확인해줘","Lassen Sie mich zwei Dinge überprüfen."
+104,3046,"","Every single stolen exhibit was returned, right?","被偷出去的東西裡，每一樣都是完完整整地回來嗎？","","도난당한 것은 하나도 빠짐없이 돌아온 건가?","Jedes einzelne gestohlene Tier wurde
+zurückgebracht, ja?"
+105,7364,"","Yes. I checked with our keeper. Nothing is
+missing.","是的，飼育員確認過，都沒有缺失。","","예. 사육 담당에게 확인한 바로는 빠진 것은 없습니다","Ja, ich habe unseren Pfleger gefragt. Es fehlt
+nichts."
+106,3046,"","And finally, was anything added?","另一點，
+有多出什麼東西嗎？","","또 한가지.
+뭔가 늘어난 것은 없나?","Wurde stattdessen etwas hinzugefügt?"
+107,7364,"","Added?","多出來的東西……嗎？","","늘어난 것…입니까?","Hinzugefügt?"
+108,3046,"","Please check for any unfamiliar decorations,
+stones, or anything else.","例如沒見過的擺飾或石頭，
+任何物品都好，請確認一下有沒有這種東西。","","예를 들면 평소에 보이지 않던 오브제나 바위 같은 거다.
+뭐든 상관없어. 그런 것은 없었는지 확인해줘","Schauen Sie doch bitte mal nach Dekoration,
+Steinen oder sonstigem, was nicht hingehört."
+109,7364,"","I will. What should I do if I find something?","我知道了。
+要是有發現的話，我們該怎麼做呢？","","알겠습니다.
+그 뭔가를 발견했을 경우, 어떻게 할까요?","Mache ich. Und wenn ich etwas finde?"
+110,3046,"","Contact us straight away. Make sure you don't
+touch it.","立刻聯絡我。
+找到東西的話，完全不要碰觸。","","바로 나에게 연락해.
+발견한 것엔 일절 손대지 말고","Kommen Sie direkt zu uns und berühren es auf
+keinen Fall."
+111,7364,"","Understood. Thanks again.","我知道了，就拜託你們了。","","알겠습니다. 잘 부탁드립니다","In Ordnung. Danke noch mal."
+112,3007,"","Then I'll leave it to you.","那就萬事拜託啦。","","그럼 맡겨두겠다","Dann überlasse ich das jetzt euch."
+113,3047,"","Okay, let's go over the case!","……那麼，我們來統整一下委託的狀況吧！","","…그러면 의뢰 내용을 정리해 보실까!","So, dann gehen wir den Fall mal durch!"
+114,3047,"","Every night, a group of masked men evade the
+security guards and steal one of the aquarium's
+exhibits.","黑蒙面犯罪集團，會趁著警備薄弱時，
+每晚都偷走水族館的一項展示品。","","검은 복면의 범행 그룹이 경비를 재빨리 피해서
+매일 밤 수족관의 전시물 하나를 훔쳐간다","Jede Nacht umgeht eine Gruppe maskierter Männer
+die Sicherheitsleute und stiehlt ein
+Ausstellungsstück aus dem Aquarium."
+115,3047,"","Then they come back and return it soon after...
+Hmm, I see...","之後，馬上就會還回來……
+嗯嗯，原來如此。","","그 후 바로 돌려주러 온다…
+흠흠, 과연 그렇군","Dann kommen sie kurz darauf zurück und bringen es
+wieder ... Hmmm, verstehe ..."
+116,3045,"","What do you mean? Do you know who they are?","……說原來如此，你知道犯人的真面目了嗎？","","…과연 그렇군이라니 범인의 정체를 알았어?","Was meinst du? Weißt du, wer die sind?"
+117,3047,"","No idea. How about you, new boy?","咦，完全不知道？
+新人你怎麼看啊？","","아니, 전혀?
+신입 군은 어때?","Nein, keinen Schimmer. Und du, Grünschnabel?"
+118,3045,"","Maybe the criminals love fish? It's not enough to
+just look at them, they want to swim with them?","犯人會不會是很喜歡魚呢？
+只用看的不滿足，而想把牠們
+帶回自己的池裡嗎？","","물고기를 정말 좋아하는 범인이 아닐까?
+보는 것만으론 만족하지 못하고 자기 집 연못에서
+헤엄치게 해보고 싶었다던가?","Vielleicht mögen die Kriminellen ja Fische? Und
+wollen sie nicht nur anschauen, sondern neben
+ihnen schwimmen?"
+119,3046,"","Then why go to the trouble of returning them?","那樣的話，就不用特地還回來了吧。","","그렇다면 굳이 돌려줄 필요는 없잖아","Aber warum dann den Aufwand, sie wieder
+zurückzubringen?"
+120,3045,"","Maybe they realized they're too difficult to keep?","會不會是偷了之後，
+才發現飼養起來太過困難了呢？","","훔치고 보니 역시 기르는 건 어렵겠다고
+생각한 거 아닐까?","Vielleicht haben sie gemerkt, dass die Pflege
+zu aufwendig ist?"
+121,3045,"","You have to control the water temperature, water
+quality and stuff like that. It's difficult even
+for a professional.","例如說，像水溫跟水質管理之類的，
+就算對職業人士來說也很困難。","","수온이나 수질 관리같은 건
+프로라도 어렵다고 하니까","Man muss die Wassertemperatur, die Qualität und
+das alles kontrollieren. Ist selbst für Profis
+nicht einfach."
+122,3047,"","So the next day they steal different fish, within
+an hour realize they're also difficult to keep,
+and then return them...and repeat that 30 times?","那隔天偷其他的魚，是因為一小時內
+就覺得太難養，才連續做了30次嗎？","","그래서 다음 날 다른 물고기를 훔치고선 1시간 사이에
+역시 어렵겠다는 생각이 들어 돌려주길 30회 반복했다는 거?","Also stehlen sie am nächsten Tag einen anderen
+Fisch, merken, dass der auch aufwendig ist,
+bringen ihn zurück und wiederholen das 30-mal?"
+123,3047,"","They'd have to be really stupid...","那樣的話也太蠢了……
+還是該說太呆了……","","그건 좀 머리가 너무 나쁘다고 할까…
+바보같다고나 할까…","Die müssten ganz schön dumm sein ..."
+124,3046,"","Or there's something we're missing. In any case,
+we need more clues.","或者……是有什麼我們猜想不到的內情吧。
+不管怎樣，都得再獲得更多線索才行。","","혹은 우리가 생각도 못할 사정이 있는가…로군.
+어쨌든 조금 더 단서를 얻어둘 필요가 있어","Oder uns entgeht noch was. Wir brauchen jedenfalls
+mehr Hinweise."
+125,3047,"","I agree. Hang on a sec.","喔喔，等我一下喔。","","네이네이, 조금만 기다려줘","Sehe ich auch so. Einen Moment."
+126,3047,"","I've connected to the aquarium server. I'll take a
+look at the security system logs.","我從網路連上水族館的伺服器囉。
+……來看看安全系統的紀錄吧。","","네트워크를 통해 수족관 서버에 접속했어.
+…보안 시스템의 로그라도 살펴둘까","Ich habe mich mit dem Server des Aquariums
+verbunden und werde die Protokolle des
+Sicherheitssystems durchgehen."
+127,3047,"","Hmm...","……嗯～","","…음~","Hm ..."
+128,3046,"","Found something?","你發現什麼了嗎？","","뭔가 단서를 잡을 것 같나?","Hast du was gefunden?"
+129,3047,"","It looks like the thieves accessed it via
+cyberspace.","他們好像有從電腦空間登入伺服器喔。","","그 놈들 전뇌공간에서 서버로 엑세스 한 모양이야","Die Diebe haben wohl über den Cyberspace darauf
+zugegriffen."
+130,3047,"","They've deleted the logs, but that's not enough to
+stop me.","他們雖然消除了整個侵入紀錄，
+但可逃不過我的法眼喔。","","침입한 로그 자체는 지운 것 같지만
+내 눈은 속일 수 없지","Sie haben die Protokolle gelöscht, aber das reicht
+nicht, um mir zu entkommen."
+131,3047,"","They've been careful, but not careful enough.
+There are still traces of the deleted logs.","真是藏頭露尾的傢伙，
+把紀錄消除掉，卻留下了紀錄的痕跡。","","머리는 숨겨도 꼬리는 숨기지 못하는 놈이군.
+로그를 지웠다는 로그 흔적을 남겼어","Sie waren vorsichtig, aber nicht vorsichtig genug.
+Es gibt noch Spuren der gelöschten Protokolle."
+132,3047,"","This should do it... Damn, they've covered their
+tracks.","從這邊應該能解開……
+嘖，果然有偽裝啊。","","여기서부터 역으로 추적할 수 있겠는데…
+칫, 역시 위장하고 있나","Damit sollte es klappen ... Mist, sie haben ihre
+Spuren verwischt."
+133,3045,"","Chitose, forward the data to me. I think I know
+how to uncover their route.","千歲，把到手的資料傳到這邊，
+我來解析偽裝路徑。","","치토세, 빼낸 데이터를 이쪽으로 전송해줘
+내쪽에서 위장 경로를 해석할테니까","Chitose, leite mir die Daten weiter. Ich glaube,
+ich weiß, wie ich ihren Verlauf aufdecke."
+134,3047,"","Okay. You take things from here.","好的，接下來就交給小姐啦。","","알았어. 뒤는 아가씨에게 맡길게","Okay, dann übernimm du das."
+135,3046,"","Once we know where they accessed the server from,
+[p] and I will hack them.","知道侵入點的話，我跟[p]
+便會入侵過去。","","침입원을 알았으니 나와 [p] 녀석이
+해킹을 걸겠다","Sobald wir wissen, von wo sie auf den Server
+zugegriffen haben, werden [p] und ich
+sie hacken."
+136,3046,"","That sound good to you?","知道了吧？","","알겠지?","Einverstanden?"
+137,3045,"","I've got the address.","我找到路徑了喔，哥哥。","","주소를 알았어, 오빠","Ich habe die Adresse."
+139,3046,"","Great, let's go!","好，出發吧。","","좋아, 간다","Super, dann wollen wir mal!"
+140,3045,"","Be careful.","……小心點喔。","","…조심해","Sei vorsichtig."
+141,2020,"","(Did she say that to Ryuji? I'm sure she did...)","（是對龍司說的嗎？
+一定是這樣吧……）","","(류지에게 한 말일까?
+ 틀림없이 그럴 거야…)","(Hat sie damit Ryuji gemeint? Bestimmt hat sie
+das ...)"

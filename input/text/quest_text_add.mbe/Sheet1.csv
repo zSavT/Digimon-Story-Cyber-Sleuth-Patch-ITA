@@ -1,0 +1,2473 @@
+ID,Japanese,English,Chinese,EnglishCensored,Korean,German
+1,"","Case closed: report to the BBS.","向BBS報告委託完成吧","","BBS로 의뢰 완료를 보고하자.","Abschließender Fallbericht an der ATL."
+2,"","Contact friends.","聯絡夥伴","","동료들에게 연락하자.","Rede mit Freunden."
+3,"","Take out hacker boss","打倒敵人駭客隊伍的首領","","적 해커 팀 보스를 쓰러뜨리자.","Besiege Hackerboss."
+4,"","Hacker Defeat quest!","接下討伐駭客任務","","해커 토벌 퀘스트를 받자.","Besiege Hackerquest!"
+5,"","Take out the hacker.","打倒討伐目標的駭客","","토벌 대상 해커를 쓰러뜨리자.","Den Hacker erledigen."
+6,"","(I found a blacklisted hacker! Time to beat them
+back.)","（好像找到了黑名單上的駭客……
+　前去討伐駭客吧）","","(블랙리스트 해커를 발견한 모양이다…
+ 해커 토벌에 나서자)","(Ich habe einen Hacker von der schwarzen Liste
+gefunden! Zeit, ihn zurückzuschlagen.)"
+7,"","(There seems to be a Digimon in trouble. I'll go
+and hear what it has to say.)","（好像有困擾的數碼寶貝在……
+　先過去問問情況吧）","","(난처해하는 디지몬이 있는 모양이다…
+ 우선 이야기를 들으러 가자)","(Ein Digimon scheint in Schwierigkeiten zu
+stecken. Ich hör mir mal an, was es zu sagen hat.)"
+20,"","That’ll work in Ikebukuro!","可以在池袋辦到的事！","","이케부쿠로에서 할 수 있는걸!","Das geht in Ikebukuro!"
+21,"","Chitose","千歲","","치토세","Chitose"
+22,"","There’s a Tokyo Handy in Ikebukuro.
+I need some stuff from there.
+I’ll send a list when you take a case.","池袋不是有東京手創館嗎？
+在店裡有些東西希望你能去買。
+要是你接下委託，我就發給你購物清單。","","이케부쿠로에 도쿄 핸디가 있잖아?
+거기서 몇 가지 사와줬으면 하는 것이 있어.
+의뢰를 받아주면 사야 할 목록을 보낼게.","Es gibt einen Laden namens
+„Tokyo Handy“ in Ikebukuro.
+Ich schicke eine Einkaufsliste."
+23,"","Ryuji","龍司","","류지","Ryuji"
+24,"","No shirking!","可別偷懶，完成工作啊","","농땡이 부리지 말고 해","Kneifen gilt nicht!"
+30,"","Checked the shopping list.","已確認購物清單","","구매할 목록을 확인했다.","Einkaufsliste überprüft."
+31,"","Head to Tokyo Handy in Ikebukuro.","前往池袋的東京手創館","","이케부쿠로에 있는 도쿄 핸디로 향하자.","Geh zu „Tokyo Handy“ in Ikebukuro."
+32,"","Take care of Tokyo Handy task.","在東京手創館完成委託","","도쿄 핸디에 가서 심부름을 마치자.","Besorgung bei „Tokyo Handy“."
+40,"","That’ll work in Nakano!","可以在中野辦到的事！","","나카노에서 할 수 있는걸!","Das geht in Nakano!"
+41,"","Chitose","千歲","","치토세","Chitose"
+42,"","There’s a PC junk shop in Nakano where
+hackers hang. I’ll send a shopping list.","在中野有駭客認證的PC商店，
+我會把要買的購物清單發給你，麻煩你跑腿啦。","","나카노 해커 상인들의 PC 정크상이 있어.
+사 왔으면 하는 목록 보낼 테니까, 심부름 부탁할게.","In Nakano gibt’s einen Ersatzteilladen.
+Ich schicke eine Einkaufsliste."
+43,"","Erika","艾莉卡","","에리카","Erika"
+44,"","More task than case.","與其說這是委託，不如說只是“跑腿”吧。","","의뢰라기보단 이건 그냥 ""심부름""","Eher Bitte als Fall."
+45,"","Chitose","千歲","","치토세","Chitose"
+46,"","Start with this!","一開始做這些就好了啦！","","처음엔 이 정도면 충분하다니까!","Fang hiermit an!"
+50,"","Checked the shopping list.","已確認購物清單","","구입할 목록을 확인했다.","Einkaufsliste überprüft."
+51,"","I'm off to Nakano!","前往中野","","나카노로 향하자.","Auf nach Nakano!"
+52,"","Take care of the junk shop task.","在廢品店完成委託","","정크상에 가서 심부름을 마치자.","Erledige das im Ersatzteilladen."
+53,"","To K-Cafe, for Yu.","前往K-Café聽優說話吧","","유우의 이야기를 들으러 K-카페로 향하자.","Ins K-Café für Yu."
+60,"","Evangelist of Love! Sistermon!","愛的傳教！修女獸！","","사랑의 전도! 시스터몬!","Liebespredigerin Sistermon!"
+61,"","Noir","漆黑","Ciel","느와르","Ciel"
+62,"","Help needed at Noir & Blanc’s Digimon
+gym! You want a tough, cute boss?
+Come see us at Kowloon Lv. 3!","漆黑與雪白的數碼寶貝健身房，現正徵求助手！！
+想在強悍的女孩底下工作的你！想不想來我們身邊
+工作啊！？　我們在Kowloon Lv.3等著你！","Help needed at Ciel & Blanc’s Digimon
+gym! You want a tough, cute boss?
+Come see us at Kowloon Lv. 3!","느와르&블랑의 디지몬 체육관을 도와줄 사람 구함!!
+강하고 귀여운 여자아이 밑에서 일하고 싶은 당신!
+우리가 있는 곳에서 일하지 않겠어!? 쿠롱 Lv.3에서 너를 기다릴게!","Aushilfe gesucht im Studio Ciel & Blanc
+für Digimon! Strenge, aber niedliche
+Chefs! Ebene 3 von Kowloon!"
+63,"","Nonamemon","無名獸","","이름없는몬","Inkognitomon"
+64,"","Demand for a gym?","有人會需要數碼寶貝訓練健身房嗎？","","디지몬 체육관같은 게 수요가 있어?","Fitness gefällig?"
+65,"","Woof!","呼啊呼啊","","이영차","Wau!"
+66,"","Notice the cuties!","居然有可愛的女孩，我好在意啊","","귀여운 여자애라니 엄청 신경 쓰여","Schaue dir die Süßen an!"
+67,"","More of a love letter than a case...
+Head to Kowloon Lv. 3 for the time being.","總覺得這文章比起委託更像是推銷……
+總之，先到Kowloon Lv.3去吧","","왠지 의뢰라기보다는 권유 같은 글이다……
+일단, 쿠롱 Lv.3로 향하자.","Mehr Liebesbrief als Fall ... Geh zuerst
+zur Ebene 3 von Kowloon."
+70,"","Head to client at Kowloon Lv. 3.","前往位在Kowloon Lv.3的委託人所在地","","쿠롱 Lv.3에 의뢰인이 있는 곳으로 향하자.","Geh zum Klienten, Eb. 3 in Kowloon."
+71,"","Train Agumon and Gabumon.","鍛鍊亞古獸、加布獸","","아구몬, 파피몬을 단련시키자.","Trainiere Agumon und Gabumon."
+72,"","Show off training from Noir & Blanc.","讓漆黑跟雪白見識特訓成果","Show off training from Ciel & Blanc.","느와르와 블랑에게 특훈의 성과를 보여주자.","Zeig das Training von Ciel & Blanc vor."
+80,"","Battle for DigiMarket","數碼市場存活戰爭","","디지마켓 존속 전쟁","Kampf um den DigiMarkt"
+81,"","Erika","艾莉卡","","에리카","Erika"
+82,"","Cases from both those opposed to and in
+favor of DigiMarket. What a pain.
+[p] could really help out.","同時來了數碼市場保存派與廢除派的委託
+狀況變得麻煩了啊
+[p]能夠接下委託就太好了","","디지마켓의 폐지파와 존속파의 의뢰가 겹쳐서
+귀찮은 상황이 되어버렸어.
+[p], 네가 받아들여 줬으면 좋겠어.","Fälle von Befürwortern und Gegnern des
+DigiMarkts. Wie ätzend. [p]
+könnte uns wirklich helfen."
+83,"","Fanta Pops","歐耶歐爺","","환타영감","Ururopa"
+84,"","Both pro and con?","居然有廢存派跟保存派嗎？","","폐지파하고 존속파란 게 있어?","Befürworter und Gegner?"
+85,"","Stinky Maru","噴噴丸","","풍풍마루","Wütende Maru"
+86,"","Could ruin Kowloon.","這是Kowloon會大亂的預感","","이건 쿠롱이 거칠어질 예감","Kowloons Ruin?"
+90,"","Head to Erika's place.","前往艾莉卡的房間","","에리카의 방으로 향하자.","Gehe zu Erika nach Hause."
+91,"","Case description received from Erika.","聽艾莉卡說明委託","","에리카에게 의뢰 설명을 들었다.","Beschreibung von Erika erhalten."
+92,"","Hear the con faction at Hacker Forum.","到駭客討論區聽廢存派的意見","","해커 포럼에서 폐지파의 의견을 듣자.","Argumente im Hackerforum."
+93,"","Hear the pro faction at the Free Area.","到自由區域聽保存派的意見","","프리 에어리어에서 존속파의 의견을 듣자.","Argumente im Freien Bereich."
+94,"","Ask Erika which side","跟艾莉卡討論要幫助哪邊","","어느 쪽에 협력할지 에리카와 상의하자.","Erikas Seite erfragen."
+95,"","Head to Hacker Forum","前往駭客討論區","","해커 포럼으로 향하자.","Geh zum Hackerforum."
+96,"","Decide which side","決定要幫助那邊","","어느 쪽에 협력할지 결정하자.","Entscheide dich."
+100,"","Mr. Navit","「NAVIT」","","「내빗씨」","Navit-san"
+101,"","V.P. Golden Dawn","黃金黎明團-副團長-","","황금 여명회 부단장","V.P. Golden Dawn"
+102,"","Find Mr. Navit, the mystery person
+appearing in Ikebukuro, from the rumors!","請你找出最近到處流傳，
+在池袋出沒的神秘角色「NAVIT」吧！","","최근 거리에서 이케부쿠로에 출몰하는 소문의 수수께끼의
+마스코트 캐릭터 ""내빗씨""를 찾아주세요!","Finde den mysteriösen Navit-san in
+Ikebukuro, durch die Gerüchte!"
+103,"","Audrey","奧戴利","","오드리","Audrey"
+104,"","City Legend!","都市傳說來啦！","","도시 전설 떴다~!","Stadtlegende!"
+105,"","Nonamemon","無名獸","","이름없는몬","Inkognitomon"
+106,"","What's that? Is it an 
+imitation of Mr. Navit?","那啥鬼啊？　不是NAVIT吧？","","뭐야 그거? 내빗군을 잘못 쓴 거잖아?","Was ist das? Ist das eine
+Fälschung von Herr Navit?"
+110,"","Accepted the mystery case.","接下神秘委託","","수수께끼의 의뢰를 받았다.","Den mysteriösen Fall angenommen."
+111,"","Gather data on Mr. Navit in Ikebukuro.","在池袋收集NAVIT的情報","","이케부쿠로에서 내빗씨에 대해 탐문을 하자.","Daten zu Navit-san in Ikebukuro."
+112,"","Head to where the witnesses were.","前往有目擊情報的場所","","목격 정보가 있던 장소로 향하자.","Gehe dorthin, wo die Zeugen waren."
+113,"","Duck in to Hudie!","逃進hudie！","","후디에로 도망치자!","Schnell zu Hudie!"
+114,"","Hear Inoden Occult!","向井之電靈異研究社打聽目擊情報","","이노덴 오컬트 연구부에게 목격정보를 들어보자.","Inoden-Club anhören!"
+115,"","Head to where the witnesses were.","前往有目擊情報的遊樂中心","","목격정보가 있던 게임 센터로 향하자.","Gehe dorthin, wo die Zeugen waren."
+120,"","Mr. Navit Returns!","「NAVIT」之夜","","「내빗씨」리턴즈","Navit-san kehrt zurück!"
+121,"","Makiko Date","伊達真希子","","다테 마키코","Makiko Date"
+122,"","There’s some punk in Shinjuku. Go help out,
+but try to avoid attracting attention.
+Something isn't quite right here.","新宿好像有很可怕的傢伙在
+不過，要是不清楚實情就無法逮捕他
+來幫我吧，那傢伙很危險……集中精神上吧","","신주쿠에 위험한 녀석이 있다고 하더군.
+하지만 뒤를 잡지 못하면 연행할 수 없으니까 협력해라.
+그놈은 상당히 화가 나 있다고 해……기합 넣고 가자.","Es gibt Ärger in Shinjuku.
+Wir sollten verdeckt ermitteln.
+Hilfst du mir dabei?"
+130,"","Join client in Shinjuku.","在新宿跟委託人會合","","신주쿠에서 의뢰인과 합류하자.","Geh zum Klienten in Shinjuku."
+131,"","Touch the immobile Mr. Navit.","接觸無法行動的NAVIT","","움직이지 않는 내빗씨에게 접촉하자.","Berühre den unbeweglichen Navit-san."
+132,"","Gather data on fugitive Mr. Navit.","收集逃走的NAVIT的情報","","도망친 내빗씨에 대해 탐문을 하자.","Daten zum flüchtigen Navit-san."
+133,"","Head to where the witnesses were.","前往有目擊情報的場所","","목격 정보가 있던 장소로 향하자.","Gehe dorthin, wo die Zeugen waren."
+140,"","Mr. Navit Of The Dead","「NAVIT」活屍","","「내빗씨」오브 더 데드","Navit-san des Todes"
+141,"","V.P. Golden Dawn","黃金黎明團-副團長-","","황금 여명회 부단장","V.P. Golden Dawn"
+142,"","You looked into Mr. Navit before, but
+now we hear he’s at Nakano BW! Stop
+him! Boss is asking, so please!","之前委託調查的神秘吉祥物“NAVIT”
+這次有出現在中野的情報！
+找出他的真實身份吧！……部長是這麼說的，拜託你了！","","전에 조사를 부탁했던 수수께끼의 마스코트 캐릭터 ""내빗씨""말입니다만
+이번에는 나카노BW에 나타났다는 정보가 있었습니다!
+정체를 알고 싶어! ……하고 부장이 말하니 부탁드리겠습니다!","Du warst Navit-san schon mal auf der
+Spur, aber jetzt ist er im Broadway!
+Halte ihn auf! Der Boss bittet dich!"
+143,"","Takkun","小拓","","탓군","Takkun"
+144,"","I saw Mr. Navit in
+Shinjuku! Scary!","我有在新宿看到NAVIT喔
+超可怕的啦","","내빗씨라면 신주쿠에서 봤는데
+엄청 무서웠어","Ich habe Navit-san
+in Shinjuku gesehen!"
+145,"","Kristina Sachiyo","克莉絲汀幸代","","크리스티나 사치요","Kristina Sachiyo"
+146,"","Not Ikebukuro? It's not so much scary as
+interesting.","不是在池袋嗎？
+但與其說可怕……我覺得他的動作很好笑","","이케부쿠로를 잘못 말한 거겠지?
+무섭다고 할까…움직임이 기묘한 것 같은데","Nicht Ikebukuro? Es ist eher interessant
+als furchterregend."
+150,"","Join client at Nakano BW.","在中野BW跟委託人會合","","나카노BW에서 의뢰인과 합류하자.","Zum Klienten im Nakano-Broadway."
+151,"","Gather witness data at Nakano BW, 1F.","在中野BW1F蒐集NAVIT的目擊情報","","나카노BW 1F에서 목격정보를 모으자.","Befrage Zeugen in Broadway, 1. St."
+152,"","Gather witness data at Nakano BW, 3F.","在中野BW3F蒐集NAVIT的目擊情報","","나카노BW 3F에서 내빗씨의 목격정보를 모으자.","Befrage Zeugen in Broadway, 3. St."
+153,"","Gather witness data at Nakano BW, 4F.","在中野BW4F蒐集NAVIT的目擊情報","","나카노BW 4F에서 목격정보를 모으자.","Befrage Zeugen in Broadway, 4. St."
+154,"","Chase fugitive Mr. Navit.","追上逃走的NAVIT","","도망친 내빗씨를 쫓아가자.","Jage den flüchtigen Navit-san."
+155,"","Join Date in Ikebukuro.","在池袋跟伊達小姐會合","","이케부쿠로에서 다테 마키코와 합류하자.","Gehe zu Date in Ikebukuro."
+160,"","A Treasured Smile","那份笑臉便是寶物","","그 미소가 보물","Ein kostbares Lächeln"
+161,"","Mina","米娜","","미나","Mina"
+162,"","I want a ticket to the EDEN upgrade preview.
+I need you to get one for me. I'll be waiting in
+the community area.","我想要EDEN辦的“版本升級體驗會”參加票喔！
+拜託便利店幫我拿到票
+米娜會在公共區域等你","","EDEN ""버전 업 체험회""라는 것이 있대.
+해결사 씨, 부탁이야! 미나에게 티켓을 구해줬으면 해.
+미나는 커뮤니티 에어리어에서 기다리고 있을게.","Ich will eine Eintrittskarte zur
+Upgrade-Vorschau. Besorg mir eine.
+Ich warte im Gemeinschaftsbereich."
+163,"","Gelatin","明明膠","","제라찡","Gelatine"
+164,"","Got nothing on upgrades in EDEN.","我沒聽說EDEN要版本升級啊？","","EDEN에서 버전 업이라니 들어본 적 없는데?","Ich weiß nichts zu Updates in EDEN."
+165,"","Nonamemon","無名獸","","이름없는몬","Inkognitomon"
+166,"","Ends with medals! LOL!","報酬只有獎牌喔～有夠窮酸的啦～","","보수가 메달ㅋㅋㅋㅋ김 빠지네ㅋㅋㅋㅋ","Gibt Medaillen! LOL!"
+170,"","Find info on the upgrade preview.","調查版本升級體驗會的情報","","EDEN 버전 업 체험회 정보를 모아보자.","Informationen zur Upgrade-Vorschau."
+171,"","Ask the client for more info directly.","直接向委託人問詳細情報","","의뢰인에게서 직접 자세한 이야기를 들어보자.","Klienten nach mehr Infos fragen."
+172,"","Ask Erika how to get tickets.","跟艾莉卡商量獲得參加票的方法","","티켓 입수 방법에 대해 에리카에게 상담하자.","Frag Erika, wie du Tickets bekommst."
+173,"","Search for Ticket Seller in Ikebukuro.","在池袋找賣票商人","","이케부쿠로에 있는 티켓 판매자를 찾아보자.","Suche den Tickethändler in Ikebukuro."
+174,"","Go to Kowloon Lv. 2.","前往Kowloon Lv.2","","쿠롱 Lv.2로 향하자.","Geh nach Kowloon, Ebene 2."
+175,"","Go deep into Kowloon Lv. 2.","前往Kowloon Lv.2的最深處","","쿠롱 Lv.2의 가장 안쪽으로 향하자.","Geh tief nach Kowloon, Ebene 2."
+176,"","Deliver ticket to client.","把獲得的票交給委託人","","손에 넣은 티켓을 의뢰인에게 가져다주자.","Bring dem Klienten das Ticket."
+180,"","Lend me your one-day girlfriend.","請當我的一日女友","","1일 애인, 빌려주세요","Leih mir deine Freundin für einen Tag."
+181,"","Yu Nogi","乃木優","","노기 유우","Yu Nogi"
+182,"","A friend asked me to verify some places, but I'm
+too embarrassed to go alone. I want you to help, [p].","朋友拜託我去調查約會地點……
+但我一個人會很丟臉，希望[p]
+你能來幫忙","","친구가 검증을 부탁해서……
+혼자선 부끄러우니까, 
+[p]가 협력해줬으면 해.","Ich soll für einen Freund Orte prüfen,
+brauche dazu aber deine Hilfe."
+190,"","Checked case from Yu.","已確認優的委託","","유우의 의뢰를 확인했다.","Fall von Yu geprüft."
+191,"","Head to Tokyo Handy.","前往東京手創館","","도쿄 핸디로 향하자.","Geh zu „Tokyo Handy“."
+192,"","Head to aquarium in Ikebukuro.","前往池袋的水族館","","이케부쿠로의 수족관으로 향하자.","Geh zum Aquarium in Ikebukuro."
+193,"","Completed check of aquarium.","已完成水族館的調查","","수족관 검증을 완료했다.","Das Aquarium überprüft."
+194,"","Head to Under Kowloon Lv. 1","前往Under Kowloon Lv.1","","언더 쿠롱 Lv.1로 향하자.","Geh zur Ebene 1 in Unter Kowloon."
+195,"","Head to K-Cafe.","前往K-Café","","K-카페로 향하자.","Geh zum K-Café."
+200,"","Fugitive Hero","逃犯英雄","","도망자 히어로","Flüchtiger Held"
+201,"","Nonamemon","無名獸","","이름없는몬","Inkognitomon"
+202,"","I’m the hacker from Roppongi. Remember?
+I sorta need your help again. I’ll be
+waiting near the arcade in Akihabara.","喔，我是在六本木受你照顧的駭客啦，
+知道我是誰吧？又有一些事想找你幫忙
+我會在秋葉原的遊戲中心附近等你","","여, 롯폰기에서 신세 졌던 해커다. 기억나지?
+또 조금만 도와줬으면 해.
+아키하바라 게임 센터 근처에서 기다릴게.","Ich bin der Hacker aus Roppongi, weißt
+du noch? Ich brauche wieder Hilfe. Ich
+warte an der Spielhalle in Akihabara."
+210,"","Accepted the mystery case.","接下了不明委託人的委託","","발신인 불명의 의뢰를 받았다.","Den mysteriösen Fall angenommen."
+211,"","Join client in Akihabara.","在秋葉原與委託人會合","","아키하바라에서 의뢰인과 합류하자.","Geh zum Klienten in Akihabara."
+212,"","Join client in Ueno.","在上野與委託人會合","","우에노에서 의뢰인과 합류하자.","Geh zum Klienten in Ueno."
+213,"","Ask in Ueno.","在上野打聽消息","","우에노에서 탐문을 하자.","Hör dich in Ueno um."
+214,"","Head to museum.","前往博物館","","박물관으로 향하자.","Geh zum Museum."
+215,"","Search for Arata’s friend in museum.","在博物館內找新的朋友","","박물관 안에서 아라타의 친구를 찾자.","Suche Aratas Freund im Museum."
+216,"","Leave museum with Arata & his friend.","跟新一行人逃離博物館","","아라타와 친구를 데리고 박물관에서 탈출하자.","Mit Arata und Freund aus Museum."
+220,"","Yasu, Wracked by Love","戀愛煩惱的阿康心","","사랑에 고민하는 야스의 마음","Liebestoller Yasu"
+221,"","Rebel Yasu","反叛者的阿康","","리벨리온즈의 야스","Rebel Yasu"
+222,"","I need your help protecting Digimon! I
+need to be a tougher member of the
+Rebels to face that person I like!","我想拜託你來幫忙保護數碼寶貝！
+為了讓我最喜歡的人能看見我
+我想作為反叛者的成員大幅活躍一下！","","디지몬의 보호를 당신이 도와주셨으면 합니다!
+좋아하는 그 사람이 돌아볼 수 있도록
+리벨리온즈의 멤버로서, 제대로 활약하고 싶슴다!","Hilf mir, Digimon zu beschützen! Ich
+muss ein zäherer Rebel werden, bevor ich
+meine Angebetete ansprechen kann!"
+223,"","Nonamemon","無名獸","","이름없는몬","Inkognitomon"
+224,"","Curious about Digimon Protection","保護數碼寶貝，還真好事啊","","디지몬 보호라던가 유별나네","Interessiert an Digimonschutz"
+225,"","Sabaton","薩巴頓","","사바톤","Sabaton"
+226,"","Better to help humans in the real world.","不如去保護現實的人類啦","","그보다 현실에서 인간을 보호해줘","Es ist besser, echten Menschen zu helfen."
+230,"","Go to Shibuya.","到涉谷去","","시부야로 가자.","Geh nach Shibuya."
+231,"","Protect Digimon in Shibuya.","在涉谷保護數碼寶貝","","시부야에서 디지몬을 보호하자.","Beschütze Digimon in Shibuya."
+232,"","Protect Digimon in Akihabara.","在秋葉原保護數碼寶貝","","아키하바라에서 디지몬을 보호하자.","Beschütze Digimon in Akihabara."
+233,"","Convince Gotsumon and Gazimon.","說服礦石獸跟加支獸","","울퉁몬과 가지몬을 설득하자.","Überzeuge Gotsumon und Gazimon."
+234,"","Follow Gaomon in Akihabara.","在秋葉原追上迦奧獸","","아키하바라에서 가오몬을 쫓아가자.","Folge Gaomon in Akihabara."
+235,"","Support Yasu's duel.","幫助阿康單挑","","야스의 승부를 응원하자.","Hilf Yasu bei seinem Duell."
+240,"","Part-Timer Graduation!","畢業？　打工妹妹宣言！","","졸업? 알바 양 선언!","Abschluss? Nein, Aushilfe!"
+241,"","Part-Timer","打工妹妹","","알바 양","Aushilfe"
+242,"","I know it’s sudden, but I have to quit
+Hudie. It’s harsh doing it this way
+but could you let the owner know?","雖然很突然，但我要辭掉hudie的打工
+這種方法雖然很失禮
+但請幫我跟店長說一聲","","갑작스럽지만, 후디에 아르바이트를 그만두겠습니다.
+이런 방식으로 전달하는 건 실례라고 생각하지만
+오너에게 전해주세요.","Es ist zwar plötzlich, aber ich muss
+Hudie verlassen. Könntest du es der
+Besitzerin bitte sagen?"
+250,"","Heard Part-Timer’s story from Chitose.","跟千歲打聽打工妹妹的事","","치토세에게서 알바 양의 이야기를 들었다.","Von Chitose alles zur Aushilfe gehört."
+251,"","Gather information in Open Space","在開放空間打聽情報","","EDEN 오픈 스페이스에서 탐문을 하자.","Sammle Infos im Offenen Raum."
+252,"","Head to Under Kowloon Lv. 3.","前往Under Kowloon Lv.3","","언더 쿠롱 Lv.3에서 알바 양을 찾자.","Geh zur Ebene 3 in Unter Kowloon."
+253,"","Report to Chitose.","向千歲報告調查結果","","치토세에게 조사 내용을 보고하자.","Sprich mit Chitose."
+254,"","Rescue Part-Timer","救出打工妹妹","","알바 양을 구출하자.","Rette die Aushilfe."
+260,"","Senpai Rehabilitation","前輩復健","","선배의 재활","Den Senpai rehabilitieren"
+261,"","Chitose","千歲","","치토세","Chitose"
+262,"","I can only ask [p] this.
+I can’t write the details here.
+Come to the hospital when you can.","有件事只能拜託[p]
+……抱歉，但詳情不能寫在這
+有空的話就到醫院來吧","","[p]한테만 부탁하고 싶은 것이 있어.
+……미안하지만, 자세한 것은 여기에 적을 수 없어.
+형편이 되거든 병원으로 마중 와줘.","Ich kann nur [p] bitten. Kann hier
+keine Details schreiben. Komm so
+bald wie möglich ins Krankenhaus."
+270,"","Meet Chitose at Central Hospital","在中央醫院和千歲會面","","센트럴 병원에서 치토세를 만나자.","Triff Chitose im Zentralkrankenhaus."
+271,"","Meet at Junk Plaza on Kowloon Lv. 1","在破銅爛鐵公園和千歲會面","","잡동사니 광장에서 치토세를 만나자.","Zur Müll-Plaza im Galacta-Park."
+272,"","Beat Chitose","贏過千歲","","치토세를 이기자.","Besiege Chitose."
+273,"","Beat Nokia","贏過諾奇雅","","노키아를 이기자.","Besiege Nokia."
+274,"","Report case closed.","報告委託完成","","의뢰 완료 보고를 하자.","Melde den Fall als abgeschlossen."
+280,"","That Man Could Escape","那男子，有種失控感","","그 남자, 현재 폭주 중","Meister der Flucht"
+281,"","Ryuji","龍司","","류지","Ryuji"
+282,"","There’s something I want you all to see.
+I'll be waiting in Ikebukuro.","我有件事想讓你看看
+我在池袋等你","","너희들이 지켜봐 줬으면 하는 것이 있어.
+이케부쿠로에서 기다리마.","Ich will euch allen etwas zeigen. Ich
+warte in Ikebukuro."
+290,"","Listen to Ryuji’s rumors.","聽聽龍司的傳聞","","류지에 대한 소문을 듣자.","Hör dir Ryujis Gerüchte an."
+291,"","Meet Ryuji in Ikebukuro","在池袋與龍司會面","","이케부쿠로에 있는 류지를 만나자.","Ryuji in Ikebukuro treffen"
+292,"","Report case closed.","報告委託完成","","의뢰의 완료 보고를 하자.","Melde den Fall als abgeschlossen."
+300,"","Rina Shinomiya's Crazy Journey","四之宮莉娜的邂逅美食之旅","","시노미야 리나의 미식 대모험","Rina Shinomiyas verrückte Reise"
+301,"","Rina Shinomiya","四之宮莉娜","","시노미야 리나","Rina Shinomiya"
+302,"","Is it true that handymen can solve stuff
+quickly? I need a guide to good eats.
+Help me and my friends to eat up!","嘿～！　便利店什麼事情都能迅速解決是真的嗎？
+那就拜託帶我去找“這邊世界”的美味食物吧～～～！
+要讓莉娜跟夥伴們都能吃飽飽喔！","","헤이! 해결사면 뭐든 바로 해결해준다는 게 진짜!?
+""이쪽 세계""의 맛집 순례 안내를 부탁해~~~~!
+리나와 그 동료들의 배를 잔뜩 채워주머니!","Die Handymen lösen auch Fälle? Ich
+brauche einen Tipp für gutes Essen.
+Hilf uns, satt zu werden!"
+303,"","Mr. Taro","太郎地瓜君","","타로고구마군","Herr Taro"
+304,"","Are you here from that other world?","是從其他世界來的訪客嗎？","","이세계에서 온 내방자인가?","Bist du aus dieser anderen Welt hier?"
+305,"","Nonamemon","無名獸","","이름없는몬","Inkognitomon"
+306,"","Gourmet from the parallel world? LOL","為了美食的自稱平行世界人哈哈","","미식이 목적인 자칭 평행세계인ㅋㅋ","Gourmet aus einer Parallelwelt? LOL!"
+310,"","Join client in Shibuya.","在涉谷跟委託人會合","","시부야에서 의뢰인과 합류하자.","Geh zum Klienten in Shibuya."
+311,"","Head to Fashionable Shop in Shibuya","前往涉谷的時髦店家","","시부야의 화려한 가게로 향하자.","Geh zum Modeladen in Shibuya."
+312,"","Head to Sweets Restaurant in Shinjuku","前往新宿的甜點店","","신주쿠의 디저트 가게로 향하자.","Geh zum Restaurant in Shinjuku."
+313,"","Head to Under Kowloon Lv. 5.","前往Under Kowloon Lv.5","","언더 쿠롱 Lv.5로 향하자.","Geh zur Ebene 5 in Unter Kowloon."
+314,"","Beat Rina & Friends in Battle","戰勝四之宮莉娜一夥","","시노미야 리나 일행과의 배틀에서 이기자.","Besiege Rina Shinomiya und Freunde."
+315,"","Run from Rina Shinomiya","逃離四之宮莉娜一夥","","시노미야 리나로부터 도망치자.","Flieh vor Rina Shinomiya."
+320,"","Mysterious Digital Face's Treasure","怪人數碼面相的財寶","","괴도 디지면상의 부활","Schatz des Cybergesichts"
+321,"","Makiko Date","伊達真希子","","다테 마키코","Makiko Date"
+322,"","Meet at Shibuya!! Come now!!
+Or I’ll arrest you on the spot!","到涉谷集合啦！！　給我立刻過來！！
+不然我就立刻逮捕你！","","시부야에 집합이다!! 바로 와라!!
+안 그러면 당장 체포할 거니까!","Treffen wir uns in Shibuya! Schnell!
+Sonst nehme ich dich sofort fest!"
+330,"","Join client in Shibuya.","在涉谷和委託人會合","","시부야에서 의뢰인과 합류하자.","Geh zum Klienten in Shibuya."
+331,"","Get Erika to help break encryption.","請艾莉卡幫忙解讀暗號","","에리카에게 암호해독을 도와달라고 하자.","Lass Erika bei Verschlüsselung helfen."
+332,"","Head to Mysterious Digital Face Server","前往怪人數碼面相的伺服器","","괴도 디지면상의 서버로 향하자.","Geh zum Cybergesicht-Server."
+333,"","Find the stolen data","找出怪人數碼面相的寶藏","","괴도 디지면상의 보물을 찾자.","Finde den Schatz des Cybergesichts."
+334,"","Beat Mysterious Digital Face","打倒怪人數碼面相","","괴도 디지면상을 쓰러뜨리자.","Schlag das Cybergesicht."
+340,"","Ai’s Hand for Lost Demon","向迷惑的惡魔伸出Ai之手","","헤매는 악마에게 SARANG의 손을","Der verlorene Demon"
+341,"","Masao Tanaka","田中正男","","타나카 마사오","Masao Tanaka"
+342,"","There’s someone I want to meet. He’s
+really down in the dumps now.
+Could you make him feel better.","我這有想讓你見見的人
+他現在非常沮喪，我一點辦法都沒有
+你能讓他打起精神來嗎？","","만나줬으면 하는 사람이 있습니다.
+그는 심하게 침울해진 듯해서 손 쓸 수가 없는데
+기운 나게 해주지 않겠습니까?","Ich möchte dich jemandem vorstellen. Es
+geht ihm wirklich schlecht. Könntest
+du ihn aufheitern?"
+350,"","Join client at Nakano BW.","在中野BW跟委託人會合","","나카노BW에서 의뢰인과 합류하자.","Zum Klienten im Nakano-Broadway."
+351,"","Lead Jimiken to fan.","把吉米肯帶到歌迷那","","지미켄을 시부야의 팬들에게 데리고 가자.","Bring Jimiken zum Fan."
+352,"","Join battle and help Jimiken.","幫助參加戰鬥的吉米肯","","배틀에 참가해서 지미켄을 도와주자.","Kämpfe mit und hilf Jimiken."
+360,"","A Hacker’s Justice","某位駭客的正義","","어느 해커의 정의","Gerechtigkeit eines Hackers"
+361,"","Yuugo","YUGO","","유고","Yuugo"
+362,"","Dreamin’ is creating problems in EDEN.
+They need to be reined in.
+Help Hudie as well.","「Dreamin」在EDEN的詐欺行為已經變成嚴重的問題
+不能繼續放任他們，我要委託hudie也來幫忙","","「드리밍」이 저지르는 EDEN의 사기행위가 문제시되고 있어.
+녀석들을 이대로 방치할 수는 없지.
+후디에에게도 협력을 의뢰할게.","Sandman macht Ärger in EDEN. Die
+brauchen einen Dämpfer. Hilf außerdem
+Hudie."
+363,"","Digimon Lover","最愛數碼寶貝人","","디지몬 정말 좋아맨","Digimonfreund"
+364,"","Dreamin’ hurt my friends too!
+Get ‘em, Hudie!","我的朋友也被Dreamin給害了！
+收拾掉他們吧，hudie！","","드리밍이라면 친구도 피해를 받았었어!
+해치워버려, 후디에!","Sandman hat auch meinen Freunden
+wehgetan! Schnappt sie euch, Hudie!"
+365,"","Nonamemon","無名獸","","이름없는몬","Inkognitomon"
+366,"","Could ruin EDEN.","這是EDEN會大亂的預感","","이건 EDEN이 거칠어질 예감","EDENs Ruin?"
+367,"","(Yuugo might be at the Zaxon Forum. I'll go and
+ask for details.)","（委託人的YUGO似乎在Zaxon討論區）
+　去那邊問清楚詳細情形吧）","","(의뢰인인 유고는 잭슨 포럼에 있는 듯하다.
+ 가서 자세한 이야기를 들어보자)","(Yuugo könnte im Zaxon-Forum sein. Ich gehe mal
+und bitte um Details.)"
+370,"","Talk to Yuugo at the Zaxon Forum.","到Zaxon討論區向YUGO詢問","","잭슨 포럼에서 유고와 대화하자.","Sprich mit Yuugo im Zaxon-Forum."
+371,"","Ask at Zaxon Forum","在Zaxon討論區打聽情報","","잭슨 포럼에서 탐문을 하자.","Hör dich im Zaxon-Forum um."
+372,"","Head to Under Kowloon Lv. 1","前往Under Kowloon Lv.1","","언더 쿠롱 Lv.1로 향하자.","Geh zur Ebene 1 in Unter Kowloon."
+373,"","Head to Dreamin' Hideout","前往Dreamin的基地","","드리밍 아지트로 향하자.","Geh zum Sandman-Versteck."
+374,"","Defeat Dreamin' Leader","前往Dreamin的首領","","드리밍 리더를 쓰러뜨리자.","Besiege die Sandman-Anführerin."
+380,"","What are friends?","請教我何謂朋友","","친구에 대해 가르쳐주세요","Was sind Freunde?"
+381,"","Yuuko","悠子","","유코","Yuuko"
+382,"","I want to find out about friendship,
+but it’s hard for me to look into it.
+Could you help me find materials?","我很想理解「朋友」
+所以我做了各種調查，但對我來說有點困難……
+你能陪我找參考資料嗎？","","「친구」라는 것에 대해
+이해하고 싶어서 조사하고 있습니다만, 제게는 조금 어려워서…
+참고자료 탐색에 협력해주지 않으시겠습니까?","Ich möchte etwas über Freundschaft
+erfahren, aber es ist schwer für mich.
+Könntest du mir Materialien suchen?"
+390,"","Join client at Nakano BW.","在中野BW跟委託人會合","","나카노BW에서 의뢰인과 합류하자.","Zum Klienten im Nakano-Broadway."
+391,"","Ask Ryuji at Hudie","在hudie跟龍司商量","","후디에로 돌아가 류지와 상의하자.","Frag Ryuji bei Hudie."
+392,"","Deliver chosen book to client.","把所選的書送去給委託人","","선택한 책을 의뢰인에게 가져다주자.","Bring das gewählte Buch zum Klienten."
+393,"","Find Chitose at Hudie.","在hudie尋找千歲","","후디에로 돌아가 치토세를 찾자.","Finde Chitose bei Hudie."
+394,"","Ask Chitose at Ikebukuro","在池袋跟千歲商量","","이케부쿠로에서 치토세와 상의하자.","Frag Chitose in Ikebukuro."
+395,"","Deliver chosen book to client.","把所選的書送去給委託人","","선택한 책을 의뢰인에게 가져다주자.","Bring das gewählte Buch zum Klienten."
+396,"","Ask Erika at Hudie","在hudie跟艾莉卡商量","","후디에로 돌아가 에리카와 상의하자.","Frag Erika bei Hudie."
+397,"","Deliver chosen book to client.","把所選的書送去給委託人","","고른 책을 의뢰인에게 가져다주자.","Bring das gewählte Buch zum Klienten."
+400,"","Learning About Digital Waves","數碼波的學習法","","디지털 웨이브를 배우는 방법","Über digitale Wellen"
+401,"","bu773rfly","彩蝶","","버터플라이","bu773rfly"
+402,"","There’s way too much you don’t know.
+Get the basics down!","你知道的事情太少了。
+至少要把基礎知識學會才行。","","너, 이것저것 몰라도 너무 모르잖아.
+기초적인 지식 정도는 배워둬.","Du weißt viel zu vieles nicht. Lern die
+Grundlagen!"
+410,"","Find out about Digital Waves","調查數碼波的相關資訊","","디지털 웨이브에 대해 조사하자.","Erfahre etwas über digitale Wellen."
+411,"","Head to place the blond said.","到金髮女子指定的位置","","금발의 여성이 지정한 장소로 가자.","Zum Ort, den die Blondine erwähnte."
+412,"","Ask the blond.","向金髮女性詢問詳情","","금발의 여성에게서 이야기를 듣자.","Frag die Blondine."
+413,"","Ask the blond again.","再次向金髮女性詢問詳情","","다시 금발의 여성에게서 이야기를 듣자.","Frag die Blondine erneut."
+420,"","YHS - 428","YHS★428","","YHS★428","YHS - 428"
+421,"","Lily Horiguchi","洞口莉莉","","호라구치 릴리","Lily Horiguchi"
+422,"","Help that girl you like. Lily. What do
+I mean? Do it with her!","對你有興趣的那個女孩，莉莉會想辦法做點什麼的♪
+所．以．啊……來跟莉莉一起做那．個．吧♪","","너에게 흥미를 느껴버린 그녀를 릴리가 어떻게든 해줄게♪
+그 러 니 까……릴리하고 같이 그 거 하자♪","Hilf dem Mädchen, das du magst, Lily.
+Was ich meine? Arbeitet zusammen!"
+423,"","Shimborun","新八路","","신보룬","Shimborun"
+424,"","Get the deets on that.","那是什麼詳細希望","","그게 뭔지 자세하게 좀","Erfahre Genaueres darüber."
+430,"","Join client in Shibuya.","在涉谷和委託人會合","","시부야에서 의뢰인과 합류하자.","Geh zum Klienten in Shibuya."
+431,"","Find Pitiful Girl's Device","找出可憐的女高中生的本體","","애처로운 여고생의 본체를 찾자.","Finde das Gerät des armen Mädchens."
+432,"","Defeat Digimon that appear","打倒出現的數碼寶貝","","나타난 디지몬을 쓰러뜨리자.","Besiege Digimon, die erscheinen."
+433,"","Touch device that appears","接觸出現的本體","","나타난 본체와 접촉하자.","Berühre das Gerät, das erscheint."
+434,"","Chase Pitiful High School Girl","追上可憐的女高中生","","애처로운 여고생을 쫓아가자.","Folge dem armen Schulmädchen."
+435,"","Calm the Pitiful High School Girl","讓可憐的女高中生平靜下來","","애처로운 여고생을 진정시키자.","Beruhige das arme Schulmädchen."
+436,"","Investigate another Pitiful H.S. Girl.","調查其他可憐的女高中生","","애처로운 여고생을 찾아보자.","Zwecks weiterem Mädchen ermitteln."
+440,"","True Identity of Delivery Boy","進貨人的真實身份","","재료를 조달하는 사람의 정체","Die wahre Identität des Botenjungen"
+441,"","Mirei Mikagura","御神樂米蕾","","미카구라 미레이","Mirei Mikagura"
+442,"","There’s something I want to ask you.
+I’m at the usual place. Come when you
+can. I’ll explain when we meet.","我有事要拜託你
+我會在老地方，有空的時候就過來吧
+……見面後再跟你說明詳細情形","","당신한테 부탁하고 싶은 것이 있어.
+항상 있던 곳에 있으니까 여유로울 때 와줘.
+……자세한 것은 만나면 설명할게.","Ich wollte dich etwas fragen. Ich bin am
+üblichen Platz. Komm, wenn du Zeit hast.
+Ich erkläre dann alles."
+450,"","Get details from Mirei in the DigiLab","到數碼實驗室聽米蕾的說明","","디지랩에서 미레이에게 설명을 듣자.","Erhalte Infos von Mirei im DigiLab."
+451,"","Get bean paste in Shinjuku.","在新宿獲得紅豆餡","","신주쿠에서 단팥을 입수하자.","Besorge Bohnen-Paste in Shinjuku."
+452,"","Get apple vinegar in Akihabara.","在秋葉原獲得蘋果醋","","아키하바라에서 사과 식초를 입수하자.","Besorge Apfelessig in Akihabara."
+453,"","Get apple vinegar in Ikebukuro.","在池袋獲得蘋果醋","","이케부쿠로에서 사과 식초를 입수하자.","Besorge Apfelessig in Ikebukuro."
+454,"","Get sea grapes in Asakusa.","在淺草獲得海葡萄","","아사쿠사에서 바다포도를 입수하자.","Besorge Meertrauben in Asakusa."
+455,"","Go to Pollack Roe Server.","前往明太屋的伺服器","","명란 가게 서버로 가자.","Geh zum Pollackrogen-Server."
+456,"","Get ultimate pollack roe.","獲得極上明太子","","최고의 명란젓을 입수하자.","Besorge besten Pollackrogen."
+457,"","Defeat the Roe Bros!","打倒史前明太子","","명란젓's를 쓰러뜨리자.","Besiege die Rogenbrüder!"
+460,"","Metropolitan Office Dimension","新都廳境界","","신 도청 디멘션","ZV-Dimension"
+461,"","Metropolitan Office Staff","新都廳員工","","신 도청 직원","ZV-Angestellter"
+462,"","A strange giant Digimon has infiltrated
+the Metropolitan Office. That’s
+happening lots. Help us!","恐怖的巨大數碼寶貝侵入了新都廳大樓內
+現在東京各處都發生了那種狀況
+很難請警察過來……請快點把他趕走！","","기분 나쁜 거대한 디지몬이 신 도청 빌딩 안에 침입했어.
+지금, 도내 여기저기서 그런 일이 일어나고 있으니까
+경찰이 움직여주질 않아서…빨리 쫓아내줘!","Ein komisches Riesendigimon ist in der
+Zentralverwaltung. Das passiert oft.
+Hilf uns!"
+463,"","Nonamemon","無名獸","","이름없는몬","Inkognitomon"
+464,"","Risky if Metropolitan Office is captured.","新都廳被佔據的話可就糟了吧？","","신 도청 점령이라니 위험하지 않나?","Gefährlich, falls das Gebäude fällt."
+465,"","Mikki","咪旗","","밋키","Mikki"
+466,"","Tokyo’s done for.","東京完蛋啦","","도쿄 끝났네","Tokio ist erledigt."
+470,"","Head to Metro. Office with Wormmon.","跟蟲蟲獸一起前往新都廳","","추추몬과 함께 신 도청으로 향하자.","Mit Wormmon zur Zentralverwaltung."
+471,"","Get explanation from client","聽委託人說明詳情","","의뢰인에게서 설명을 듣자.","Hol dir eine Erklärung vom Klienten."
+472,"","Head to roof in elevator.","搭乘電梯前往屋頂","","엘리베이터를 타고 옥상으로 향하자.","Nimm den Aufzug zum Dach."
+473,"","Find UlforceVeedramon","尋找究極V龍獸","","알포스브이드라몬을 찾자.","Finde UlforceVeedramon."
+474,"","Stop Craniamon","阻止千年獸","","크레니엄몬을 막자.","Halte Craniamon auf."
+500,"","Secret Cafe Menu","咖啡店的隱藏飲料","","카페의 비밀 메뉴","Geheime Spezialität"
+501,"","Sawako Matsukawa","松川爽子","","마츠카와 사와코","Sawako Matsukawa"
+502,"","I really want to sip the specials from
+the secret menu at K-Cafe in Nakano BW.
+Find out and report back to me.","我無論如何都想喝到在中野BW的K-Café
+它的隱藏菜單上的珍品飲料
+要是願意接下委託的話，請通知我一聲","","나카노BW에 있는 K-카페의 비밀 메뉴.
+어떻게 해서든 그 명품을 마셔보고 싶어요.
+의뢰를 받아주신다면 답장 부탁드립니다.","Ich möchte das geheime Angebot im K-Café
+im Broadway kosten. Finde etwas dazu
+heraus und melde dich wieder."
+503,"","Tarako","鱈子","","타라코","Tarako"
+504,"","I’ve never heard of a secret menu at K-Cafe before.","我還是第一次聽說K-Café有隱藏菜單呢","","K-카페에 비밀 메뉴가 있다니 처음 들었어","Von einem geheimen Angebot im K-Café
+weiß ich nichts."
+505,"","Nonamemon","無名獸","","이름없는몬","Inkognitomon"
+506,"","The clerk is adorable.","那裡的店員很可愛喔","","점원 귀엽지","Der Verkäufer ist niedlich."
+510,"","Contact the client.","跟委託人聯絡","","의뢰인과 연락을 취하자.","Kontaktiere den Klienten."
+511,"","Join client in front of K-Cafe","在K-Café前跟委託人會合","","K-카페 앞에서 의뢰인과 합류하자.","Triff den Klienten vor dem K-Café."
+512,"","Order special menu at K-Cafe.","在K-Café點特別菜單","","K-카페에서 특별 메뉴를 부탁하자.","Bestell die Spezialität im K-Café."
+513,"","Find out what happened in cyberspace.","調查電腦空間內有什麼","","전뇌공간에서 무슨 일이 있었는지 조사하자.","Erfahre, was im Cyberspace passiert ist."
+514,"","Defeat Digimon that appear","打倒出現的數碼寶貝","","나타난 디지몬을 쓰러뜨리자.","Besiege Digimon, die erscheinen."
+520,"","Thief Who Doesn’t Steal","不偷竊的小偷","","훔치지 않는 도둑","Ein Dieb, der nichts stiehlt"
+521,"","Mizushita, Dir. Aquarium","池袋水族館館長-水下-","","이케부쿠로 수족관 관장 미즈시타","Mizushita, Dir. Aquarium"
+522,"","We have an odd thief. He doesn’t seem
+to steal anything. Can you
+find out what he wants?","我們遇到了奇怪的小偷
+那小偷什麼都沒偷走
+請你確認他的真正目的","","이상한 도둑의 피해를 받았습니다.
+그 도둑은 아무것도 훔치지 않았습니다.
+그 목적을 밝혀주세요.","Hier gibt es einen komischen Dieb, der
+gar nichts stiehlt. Kannst du bestimmen,
+worauf er es abgesehen hat?"
+530,"","Checked case from aquarium.","確認來自水族館的委託","","수족관에서의 의뢰를 확인하자.","Fall des Aquariums geprüft."
+531,"","Defeat Minamo Takitsuse","打倒瀧津瀨水面","","타키츠세 미나모를 쓰러뜨리자.","Besiege Minamo Takitsuse."
+532,"","Get the details from Ryuji","聽龍司說明事件","","류지에게서 사건의 이야기를 듣자.","Erfahre Näheres von Ryuji."
+533,"","Use the Aquarium Back Door in EDEN.","從EDEN前往水族館的後門","","EDEN을 통해 수족관의 백도어로 향하자.","Geh über EDEN zur Aquariumshintertür."
+540,"","Snow White and 10,000 Dwarves","白雪公主與一萬名小矮人","","백설 공주와 1만 명의 난쟁이","Schneewittchen und die 10 000 Zwerge"
+541,"","Matayoshi","又吉","","마타요시","Matayoshi"
+542,"","There’s a mass hacking of EDEN accounts.
+Quietly find out who and why at Hudie.","似乎有大量的EDEN帳號被入侵了
+我希望“祕密”委託hudie來調查","","EDEN 계정이 대량으로 해킹당했다.
+범인과 그 목적을 후디에가 ""비밀리""에 조사해줬으면 한다.","EDEN-Konten werden massenhaft gehackt.
+Finde bei Hudie raus, von wem und warum."
+550,"","Ask about the case.","詢問發生的事件詳情","","사건에 대해 이야기를 들어보자.","Frag nach dem Fall."
+551,"","Go to the Demons' Den.","前往惡魔巢穴","","준비를 갖추고 데몬즈 아지트로 향하자.","Geh zur Demons-Höhle."
+552,"","Defeat Idol Maniac Hacker","打倒偶像宅的駭客","","아이돌 오타쿠 해커를 쓰러뜨리자.","Besiege den Star verehrenden Hacker."
+553,"","Find culprit on Under Kowloon Lv. 3. ","到Under Kowloon Lv.3找出犯人","","언더 쿠롱 Lv.3에서 범인을 찾자.","Täter auf Ebene 3 in Unter Kowloon."
+554,"","Watch the Punsuka video.","看「森七七」的轉播影片","","『분스카』의 생방송을 보자.","Sieh dir das Punsuka-Video an."
+560,"","Blind Love","溺愛","","지나친 사랑","Liebe macht blind"
+561,"","Shizuko Kawauchi","川內靜子","","카와우치 시즈코","Shizuko Kawauchi"
+562,"","This friend has become a recluse.
+That’s kinda strange, so help him
+if you can.","我的男生朋友變成繭居族了……
+而且他的狀況還很奇怪
+請一定要救他出來","","친구인 남성이 은둔형 외톨이가 되었는데요…
+심지어 조금 이상한 상태라
+어떻게든 구해주셨으면 합니다.","Der Freund ist zum Einsiedler geworden.
+Das ist seltsam. Hilf ihm, wenn
+möglich."
+563,"","Nonamemon @ Got it.","無名獸＠瞭解","","이름없는몬@알겠습니다","Inkognitomon: Verstanden."
+564,"","Knock it off! You’re bothering me.","不要管啦，你只是給人家添麻煩","","그만두라고, 달갑잖으니까","Lass das! Du nervst mich."
+565,"","Mocchi","麻吉","","못치","Mocchi"
+566,"","Fieldwork could help.","要讓他能自立的話，去種田好像不錯喔","","자립하기에는 농업이 좋은 모양이야","Einsatz vor Ort könnte helfen."
+570,"","Get case info from Shizuko Kawauchi.","聽川內靜子說明委託詳情","","카와우치 시즈코에게 의뢰에 대한 설명을 듣자.","Erfahre Infos von Shizuko Kawauchi."
+571,"","Ask Hudie Members","跟hudie的夥伴商量","","후디에의 멤버와 상담하자.","Frag Hudie-Mitglieder."
+572,"","Head to Natsume Keshikawa Forum","前往芥子川夏目的討論區","","케시카와 나츠메의 포럼으로 향하자.","Geh zum Natsume-Keshikawa-Forum."
+573,"","Defeat Lotosmon","打倒蓮花獸","","로터스몬을 쓰러뜨리자.","Besiege Lotosmon."
+580,"","High School Hacking","高中入侵","","하이스쿨 해킹","Highschool-Hacker"
+581,"","Kuraji, CDO at Inoden","井之電數位社-部長倉地-","","이노덴 디지털부, 부장 쿠라치","Kuraji, IT-Leiter bei Inoden"
+582,"","I need your help at the high school
+programming finals. Let me know
+if you can help.","高中生編寫程式選手權決賽上
+我有件事想拜託你
+要是願意接下這委託，請跟我聯絡","","고교생 프로그램 선수권 결승전에서
+부탁드리고 싶은 것이 있습니다.
+받아들여 주시겠다면 연락해주세요.","Ich brauche deine Hilfe beim Highschool-
+Programmierwettbewerb. Sag Bescheid,
+ob du helfen kannst."
+590,"","Have Chitose talk to the client.","跟千歲打聽委託人的狀況","","의뢰인의 이야기를 치토세로부터 듣자.","Lass Chitose mit dem Klienten reden."
+591,"","Go to the Championship Control Server.","前往程式編寫選手權管理伺服器","","프로그램 선수권 관리 서버로 향하자.","Geh zum Wettbewerb-Kontrollserver."
+592,"","Defeat the Sato Triplets","打倒佐藤三兄弟","","사토 3형제를 쓰러뜨리자.","Besiege die Sato-Drillinge."
+593,"","Go to the Championship Control Server.","前往程式編寫選手權管理伺服器","","프로그램 선수권 관리 서버로 향하자.","Geh zum Wettbewerb-Kontrollserver."
+594,"","Decide whether to fight with Ryuji","選擇是否與龍司戰鬥","","류지와 싸울지 선택하자.","Entscheide, ob du gegen Ryuji kämpfst."
+600,"","Disappearing Elevator","人會消失的電梯","","사람이 사라지는 엘리베이터","Der verschwindende Aufzug"
+601,"","Rico","莉子","","리코","Rico"
+602,"","This elevator in Nakano goes to a weird
+place, where girls disappear.
+Find my sister!","我在中野搭電梯到了奇怪的地方
+而姊姊在那邊消失了
+請幫我找姊姊","","나카노의 엘리베이터에서 이상한 장소가 나오더니
+그 장소에서 언니가 사라져버렸어요.
+언니를 찾아주세요.","Dieser Aufzug in Nakano verschwindet
+einfach, und Mädchen mit ihm.
+Finde meine Schwester!"
+603,"","Nonamemon","無名獸","","이름없는몬","Inkognitomon"
+604,"","Will this team help find her?","這隊伍連找人都會幫忙嗎？","","이 팀, 사람 수색까지 하는 거야?","Wird dieses Team helfen?"
+605,"","Tarojiro","太郎次郎","","타로지로","Tarojiro"
+606,"","I’ve been on that Nakano elevator
+but it was normal.","我也坐過中野的電梯，
+很普通啊？","","나카노 엘리베이터에 탔던 적은 있지만
+평범했는데?","Ich war schon in diesem Aufzug, aber der
+war normal."
+610,"","Ask client at K-Cafe.","在K-Café向委託人詢問詳情","","K-카페에서 의뢰인의 이야기를 들어보자.","Frag den Klienten im K-Café."
+611,"","Check the Nakano BW elevator.","調查中野BW的電梯","","나카노BW의 엘리베이터를 조사하자.","Prüfe den Aufzug im Broadway."
+612,"","Investigate K-Cafe?","調查K-Café？","","K-카페?를 조사하자.","Untersuche das K-Café."
+613,"","Defeat Sangloupmon","打倒血狼獸","","상굴몬을 쓰러뜨리자.","Besiege Sangloupmon."
+614,"","Check out the situation at the arcade.","到遊戲中心觀察狀況","","게임 센터 주변 상황을 보러 가자.","Untersuche die Lage in der Spielhalle."
+615,"","Investigate K-Cafe. ","調查K-Café","","K-카페를 조사하자.","K-Café untersuchen."
+616,"","Search for Rico's sister in the dungeon. ","在迷宮裡找出莉子的姊姊","","던전 안에서 리코의 언니를 찾자.","Such Ricos Schwester im Dungeon. "
+617,"","Go to the deserted Nakano Broadway.","前往無人的中野BW","","인적 없는 나카노BW로 가자.","Zum verlassenen Nakano-Broadway."
+620,"","Ten people here!","有十個人在！","","10명 있다!","Zehn Leute hier!"
+621,"","Ken Akao","赤尾賢","","아카오 켄","Ken Akao"
+622,"","I can’t forget it. We were playing a
+game when suddenly this featureless
+thing was there. Check it out!","我忘不了那時候的事情。在玩籠中鳥的時候
+一回頭卻出現了無臉怪……
+到底發生了什麼，請你找出真相","","그때의 일이 머리에서 떠나질 않아. 카고메카고메를
+하다가 돌아보면 달걀귀신이 거기에…
+대체 뭐가 일어난 것인지 해명해줬으면 해.","Unvergesslich. Wir haben gespielt, als
+plötzlich dieses gesichtslose Ding da
+war. Sieh es dir an!"
+630,"","Ask about case from Ken Akao","向赤尾賢詢問詳情","","아카오 켄에게 의뢰의 설명을 듣자.","Frag nach dem Fall von Ken Akao."
+631,"","Defeat Impmon","打倒小妖獸","","임프몬을 쓰러뜨리자.","Besiege Impmon."
+632,"","Ask the group of kids.","跟集合的小孩們打聽情報","","모여있는 아이들로부터 이야기를 듣자.","Befrage die Kinder."
+640,"","Cheat Strategy","作弊大作戰","","커닝 대작전","Schummelstrategie"
+641,"","Matsuyama, Inoden High Teacher","井之電高中教師-松山-","","이노덴 고등학교 교사 마츠야마","Matsuyama, Inoden-Lehrer"
+642,"","Students are cheating en masse, using
+high-tech equipment. I need to stop
+them. Can you help?","學生們用高科技機器
+在進行集體作弊
+無論如何都要阻止他們，請幫我一把！","","학생이 첨단 기기를 사용해서
+집단 커닝을 하고 있습니다.
+어떻게든 막고 싶으니, 힘을 빌려주세요!!","Die Schüler schummeln massenhaft mit
+moderner Technologie. Das muss aufhören.
+Können Sie mir helfen?"
+650,"","Have Ryuji talk to the client.","把委託人的狀況告訴龍司","","의뢰인의 이야기를 류지로부터 듣자.","Lass Ryuji mit dem Klienten reden."
+651,"","Head to Grade 3 Class C Shelter","前往三年C班的避難所","","3학년 C반의 피난처로 향하자.","Zum Unterschlupf (St. 3, Klasse C)."
+652,"","Defeat Shigenobu","打倒重信","","시게노부를 쓰러뜨리자.","Besiege Shigenobu."
+653,"","Ask the Inoden student in Shinjuku. ","到新宿跟井之電的學生打聽消息","","신주쿠에서 이노덴 학생에 대해 탐문하자.","Inoden-Schüler in Shinjuku befragen."
+654,"","Go to the Grade 3 Class C Hideaway.","到3年C班的避難所找出學生","","3학년 C반의 피난처로 가서 학생들을 찾아보자.","Zum Unterschlupf (St. 3, Klasse C)."
+655,"","Go farther and look for the students. ","到更裡面去找出學生","","더 안쪽으로 들어가서 학생들을 찾자.","Gehe weiter und such die Schüler. "
+700,"","Lovely Melody","華美的旋律","","아름다운 멜로디","Wunderschöne Melodie"
+701,"","Music School Girl","上音樂學校的女孩","","음악학교를 다니는 여자애","Schülerin d. Musikschule"
+702,"","I heard beautiful singing in EDEN but I
+don’t know who’s singing.
+Help me find out!","在EDEN能聽見優美的歌聲
+但不知道是誰唱的……
+拜託你，請幫我找究竟是誰唱的！","","EDEN에서 아름다운 노랫소리가 들려오지만
+누가 부르는 것인가, 알 수 없어요……
+부탁이에요, 목소리의 주인 찾기를 도와주세요!","Man hört wunderschönen Gesang in EDEN,
+aber ich weiß nicht, wer da singt. Hilf
+mir, es herauszufinden!"
+703,"","Nonamemon","無名獸","","이름없는몬","Inkognitomon"
+704,"","Ain’t it impossible to find someone in EDEN?","在EDEN要找人是不可能的吧？","","EDEN에서 사람 찾기라니 무리 아냐?","Ist es nicht unmöglich, jemanden in EDEN
+zu finden?"
+705,"","Music Fan Michiko","最愛音樂的滿子","","음악 정말 좋아하는 미치코","Musikfan Michiko"
+706,"","It’s gotta be Jimiken’s voice!
+Has to be!","優美的歌聲，那一定是吉米肯大人！
+一定是吉米肯大人啦！","","아름다운 노랫소리라면 분명 지미켄님이야!
+당연히 지미켄님이지!","Das muss Jimikens Stimme sein!
+Unbedingt!"
+710,"","Get explanation from client","聽委託人說明詳情","","의뢰인에게 설명을 듣자.","Hol dir eine Erklärung vom Klienten."
+711,"","Join client in Junk Plaza.","在破銅爛鐵公園和委託人會合","","잡동사니 광장에서 의뢰인과 합류하자.","Triff den Klienten am Müll-Plaza."
+712,"","Check Kowloon Lv. 1 with client.","跟委託人調查Kowloon Lv.1","","의뢰인과 쿠롱 Lv.1을 조사하자.","Überprüft Ebene 1 von Kowloon."
+713,"","Find singer in Kowloon Lv. 1.","在Kowloon Lv.1找出歌聲的來源","","쿠롱 Lv.1에서 노랫소리의 주인을 찾자.","Finde den Sänger auf Ebene 1."
+714,"","Defeat Lalamon","打倒拉拉獸","","라라몬을 쓰러뜨리자.","Besiege Lalamon."
+720,"","Immediate Delivery","立即送達！","","바로 전해드리겠습니다!","Eillieferung"
+721,"","Digitamamon","蛋蛋獸","","디지타몬","Digitamamon"
+722,"","Customers are angry because orders
+aren’t arriving! Delivery crews won’t
+come back either. Help!","客人因為下訂的商品一直沒送到在生氣了！
+出門送貨的員工也一直沒回來
+現在非常緊急，想點辦法啊～～～！","","주문한 상품이 도착하지 않았다고 손님이 화냈어!
+배달 간 스태프는 전혀 돌아오지 않고
+서둘러서 어떻게든 해줘~~~!","Kunden sind sauer, weil Bestellungen
+nicht ankommen! Die Lieferanten kommen
+auch nicht zurück. Hilfe!"
+723,"","Betamon","比特獸","","베타몬","Betamon"
+724,"","Help with customer service, Digitamamon!","蛋蛋獸，對抗客訴要加油喔～","","디지타몬, 클레임 대응 힘내~","Hilf mit dem Kundendienst, Digitamamon!"
+725,"","Nonamemon","無名獸","","이름없는몬","Inkognitomon"
+726,"","Complaints from everywhere!","不管哪裡都會有囉唆的傢伙呢","","어디든 불평하는 녀석은 있구나","Von überall Beschwerden!"
+730,"","Get explanation from client","聽委託人說明詳情","","의뢰인으로부터 설명을 듣자.","Hol dir eine Erklärung vom Klienten."
+731,"","Finder crew in Kowloon Lv. 4.","在Kowloon Lv.4找出送貨員","","쿠롱 Lv.4에서 배달원을 찾자.","Lieferanten auf Ebene 4 von Kowloon."
+732,"","Check Distributor Zone","調查分配送貨區域","","배달담당구역을 조사하자.","Prüfe die Verteiler-Zone."
+733,"","Deactivate the Security Wall.","解除防火牆","","방화벽을 해제하자.","Deaktiviere den Sicherheitswall."
+734,"","Ask Pagumon.","向柏古獸詢問狀況","","퍼그몬에게 이야기를 듣자.","Frag Pagumon."
+735,"","Find DemiDevimon in Distributor Zone","在分配送貨區域找出小惡魔獸","","배달담당구역에서 피코데블몬을 찾자.","DemiDevimon in der Verteiler-Zone."
+736,"","Defeat WereGarurumon","打倒獸人加魯魯獸","","워가루몬을 쓰러뜨리자.","Besiege WereGarurumon."
+740,"","Bugs?","Bug？","","버그?","Fehler?"
+741,"","Arcade Staff","遊戲中心店長","","게임 센터 점주","Spielhallen-Mitarbeiterin"
+742,"","I work at the arcade. Something’s wrong
+with one of the battle games. We’re
+losing money. Please help.","我是遊戲中心的人
+最近高人氣的大型機台狀況不好
+這樣下去可做不了生意，麻煩你們調查一下","","게임 센터 주인입니다.
+인기 대전 아케이드 게임의 상태가 이상합니다.
+이대로라면 장사를 할 수 없어요. 조사를 부탁드립니다.","Ich arbeite in der Spielhalle. Mit einem
+der Kampfspiele stimmt etwas nicht. Wir
+verlieren Geld. Bitte hilf uns."
+743,"","Nonamemon","無名獸","","이름없는몬","Inkognitomon"
+744,"","That’s been buggy lately.","最近那邊常出現Bug喔","","요즘 거기 게임에서 버그가 있었지","Das ist verbuggt."
+750,"","Get answers from client at Nakano TRF","到中野聽委託人說明詳情","","나카노TRF에서 의뢰인에게 설명을 듣자.","Infos vom Klienten in Nakano TRF."
+751,"","Investigate arcade game case","調查機台","","본체를 조사하자.","Untersuche den Fall in der Spielhalle."
+752,"","Investigate game server","調查遊戲的通訊伺服器","","게임 통신 서버를 조사하자.","Untersuche den Spielserver."
+753,"","Find cause of bugs","找出Bug的原因","","버그의 원인을 찾아보자.","Finde die Fehlerquelle."
+754,"","Teach them how to play with children.","教導與孩童遊玩的方法","","아이들과 노는 방법을 가르쳐주자.","Zeig ihnen, wie man mit Kindern spielt."
+760,"","Avoid Fights","不要再吵啦","","싸움은 그만두죠","Vermeide Kämpfe"
+761,"","Ophanimon","神聖天女獸","","오파니몬","Ophanimon"
+762,"","I hate it when friends fight. Could you
+help to get them to stop fighting?","我的同伴爭吵了起來，實在是非常困擾
+能拜託你來阻止那兩人的爭吵嗎？","","동료끼리 싸워버려서 무척 곤란하게 되었습니다.
+부디, 둘의 싸움을 막아주지 않으시겠습니까?","Ich mag nicht, wenn Freunde kämpfen.
+Kannst du sie dazu bringen, aufzuhören?"
+763,"","Vegiemon","鼻屎獸","","베지몬","Vegiemon"
+764,"","Ophanimon’s in trouble too.","神聖天女獸也真辛苦啊──","","오파니몬도 큰일이네~","Ophanimon steckt auch in der Klemme."
+765,"","Lalamon","拉拉獸","","라라몬","Lalamon"
+766,"","I’m staying away when those two fight.","那兩人居然會吵架啊，我絕對不想靠近","","그 둘이 싸우다니, 절대로 다가가고 싶지 않아","Ich bleibe weg, wenn die zwei kämpfen."
+770,"","Get explanation from client","聽委託人說明詳情","","의뢰인에게 설명을 듣자.","Hol dir eine Erklärung vom Klienten."
+771,"","Head to Angel Server","前往天使的伺服器","","천사 서버로 향하자.","Geh zum Engel-Server."
+772,"","Check Angel Server","調查天使的伺服器","","천사 서버를 조사하자.","Prüfe den Engel-Server."
+773,"","Beat Seraphimon & Kerpymon (Good).","打倒究極天使獸跟基路比獸(善)","","세라피몬&켈비몬(선)을 쓰러뜨리자.","Besiege Seraphimon/Kerpymon (Gut)."
+780,"","Airdramon’s Escape","逃亡的飛龍獸","","도망치는 에어드라몬","Airdramons Flucht"
+781,"","DigiMarket Wholesaler","數碼市場的卸貨業者","","디지마켓 도매업자","DigiMarkt-Großhändler"
+782,"","Airdramon ran away just as we planned to
+deliver to DigiMarket! The deadline is
+soon! We’ll pay, so catch him!","預定要送到數碼市場的飛龍獸逃走了！
+送達期限就是明天了！
+我會付優渥報酬的，拜託抓回他吧！","","디지마켓에 납품 예정인 에어드라몬이 도망쳐버렸어!
+납품 기한이 가까운데!
+보수는 잔뜩 낼 테니까, 잡아와줘!","Airdramon ist ausgerissen, als wir es
+an den DigiMarkt liefern wollten! Fang
+es schnell, wir zahlen auch dafür!"
+783,"","Hayashida","林田","","하야시다","Hayashida"
+784,"","Once they’re gone, that’s it?","啊～都逃掉了，不太可能再抓回來吧？","","아~아, 도망쳤다면 이미 잡는 건 무리 아니야?","Weg ist weg!"
+785,"","Nonamemon","無名獸","","이름없는몬","Inkognitomon"
+786,"","Looks like we've got to catch him!","看來只能再抓回來了","","또 잡는 수밖에 없다고 본다","Wir müssen es fangen!"
+790,"","Get explanation from client","聽委託人說明詳情","","의뢰인에게서 설명을 듣자.","Hol dir eine Erklärung vom Klienten."
+791,"","Head to Under Kowloon Lv. 2","前往Under Kowloon Lv.2","","언더 쿠롱 Lv.2로 향하자.","Gehe zur Ebene 2 in Unter Kowloon."
+792,"","Look for eyewitnesses.","找出目擊者","","목격자를 찾자.","Suche Augenzeugen."
+793,"","Chase Airdramon further.","追著飛龍獸前往深處","","에어드라몬을 쫓아 안쪽으로 나아가자.","Verfolge Airdramon weiter."
+794,"","Defeat Airdramon","打倒飛龍獸","","에어드라몬을 쓰러뜨리자.","Besiege Airdramon."
+800,"","By the Nose","只要捏緊鼻子","","코를 쥐면","Immer der Nase nach"
+801,"","Kamishiro Subcontractor","神代企業的外包業者","","카미시로 하청업자","Kamishiro-Mitarbeiter"
+802,"","Someone illegally dumped trash in EDEN
+and there are complaints it stinks. Find
+out why and get rid of it.","我們接到抱怨，說EDEN內
+非法丟棄的垃圾發出惡臭
+希望你們能除去發出惡臭的垃圾","","EDEN 안에 불법 투기한 쓰레기에서
+고약한 냄새가 난다는 불평이 들어왔어.
+고약한 냄새의 원인이 되는 쓰레기를 없애줬으면 해.","Jemand hat illegalerweise Müll in EDEN
+abgeladen, und der stinkt. Ermittle und
+schaffe ihn weg."
+803,"","Mr. Hungry for Bao","好想吃肉包","","고기만두 먹고 싶어 씨","Klößchenfreund"
+804,"","I’ve never noticed a smell in cyberspace.","人家從沒注意過電腦空間有味道耶","","전뇌공간에서 냄새 따위 신경 쓴 적도 없어","Ich habe im Cyberspace nie was gerochen."
+805,"","Nonamemon","無名獸","","이름없는몬","Inkognitomon"
+806,"","Just turn your avatar’s virtual senses off.","把化身的虛擬感覺關掉不就好了","","아바타의 유사 감각을 OFF로 하면 되잖아","Schalte die Sinne des Avatars aus."
+810,"","Get explanation from client","聽委託人說明詳情","","의뢰인에게서 설명을 듣자.","Hol dir eine Erklärung vom Klienten."
+811,"","Get info in the community area.","在公共領域打聽情報","","오픈 스페이스에서 정보를 모으자.","Sammle Infos im Gemeinschaftsbereich."
+812,"","Head to Odorous Space.","前往惡臭空間","","고약한 냄새 공간으로 향하자.","Geh zum Stinkenden Raum."
+813,"","Find cause of stink","找出惡臭的原因","","고약한 냄새의 원인을 찾자.","Finde den Ursprung."
+814,"","Chase Garurumon and stop the stink.","追上加魯魯獸，阻止原因","","가루몬을 쫓아 고약한 냄새의 원인을 밝혀내자.","Verfolge Garurumon; stoppe Gestank."
+815,"","Defeat Raremon","打倒爛泥獸","","레어몬을 쓰러뜨리자.","Besiege Raremon."
+816,"","Pass program to destroy stink data.","交出惡臭破壞程式","","고약한 냄새 데이터 파괴 프로그램을 건네주자.","Zerstöre Gestanksdaten."
+820,"","Hammering Curse","詛咒的槌聲","","저주의 망치 소리","Verfluchtes Gehämmer"
+821,"","Obo","小尾","","오비","Obo"
+822,"","I heard this hammering in Under Kowloon
+they say will curse all who hear it.
+Don’t believe in curses, but that’s loud","我在Under Kowloon聽到了
+傳說只要聽到就會受詛咒的槌聲……
+雖然我不相信詛咒，但請你去阻止那聲音","","들은 사람은 저주에 걸린다는 소문인 저주의 망치 소리를
+언더 쿠롱에서 들어버렸어……
+저주 따위 믿지 않지만 그 소리를 멈춰줬으면 해.","Ich habe Gehämmer in Unter Kowloon gehört,
+das einen angeblich verflucht, wenn man
+es hört. Glaub ich nicht, aber es nervt."
+823,"","Shining Wizard","閃光巫師","","샤이닝 위저드","Strahlender Zauberer"
+824,"","That noise is scary.","槌聲超可怕","","망치 소리 무서워","Gruseliger Lärm."
+825,"","Foot Stamp","腳印","","풋 스탬프","Fußabdruck"
+826,"","Saw this on the occult boards","這話題我有在靈異版看過","","이 화제, 오컬트 게시판에서 봤어","Hab das im Okkultismus-Forum gesehen"
+830,"","Get explanation from client","聽委託人說明詳情","","의뢰인에게서 설명을 듣자.","Hol dir eine Erklärung vom Klienten."
+831,"","Ask on Under Kowloon Lv. 4.","在Under Kowloon Lv.4詢問詳情","","언더 쿠롱 Lv.4에서 탐문을 하자.","Frag auf Ebene 4 in Unter Kowloon."
+832,"","Head to the back of Under Kowloon Lv. 4","前往Under Kowloon Lv.4深處","","언더 쿠롱 Lv.4의 안으로 향하자.","Schreite auf Ebene 4 weiter voran."
+833,"","Checked the source of the sound.","確認發出聲音的源頭","","소리의 발생원을 확인하자.","Die Geräuschquelle geprüft."
+834,"","Defeat Zudomon","打倒祖頓獸","","쥬드몬을 쓰러뜨리자.","Besiege Zudomon."
+835,"","Make Zudomon stop making the noise.","阻止祖頓獸發出槌聲","","쥬드몬이 망치 소리를 내는 것을 그만두게 하자.","Lass Zudomon den Lärm einstellen."
+840,"","Black cat curse?","黑貓的詛咒？","","검은 고양이의 저주?","Fluch der schwarzen Katze?"
+841,"","Okamoto","岡本","","오카모토","Okamoto"
+842,"","Odd stuff has been happening since
+I saw that black cat. It must be bad luck.
+Find that cat and break the curse.","自從被奇怪的黑貓從面前走過後
+就一直發生怪事，那一定是不幸的象徵
+請你找出黑貓的真面目，阻止這詛咒","","별난 검은 고양이 앞을 가로질렀더니 이상한 일만 일어나고 있어.
+분명 그건 불행의 상징이었던 게 틀림없어.
+그 검은 고양이의 정체를 밝혀서 저주를 풀어줬으면 해.","Seit ich die schwarze Katze gesehen hab,
+passiert Seltsames. Vom Pech verfolgt.
+Finde die Katze und heb den Fluch auf."
+843,"","It’s me, Nonamemon","喂喂，是我，無名獸啦","","나야 나, 나라고, 이름없는몬","Hier Inkognitomon!"
+844,"","If there’s really cats in cyberspace, that’d be cool","電腦空間居然有貓，如果是真的那就太厲害啦","","전뇌공간에서 고양이라니 진짜라면 굉장하겠네","Katzen im Cyberspace wären schon cool."
+845,"","Kakinhei","課金兵","","과금전사","Kakinhei"
+846,"","No way. Some hacker’s jerking you around.","怎麼可能有啊，是駭客的惡作劇吧","","있을 리 없다니까. 해커의 장난이겠지","Nee. Da veralbert dich ein Hacker."
+850,"","Get explanation from client","聽委託人說明詳情","","의뢰인의 설명을 듣자.","Hol dir eine Erklärung vom Klienten."
+851,"","Ask at Occult Forum","在靈異討論區打聽情報","","오컬트 포럼에서 탐문을 하자.","Frag im Okkultismus-Forum."
+852,"","Follow the black cat","追上黑貓","","검은 고양이를 쫓아가자.","Folge der schwarzen Katze."
+853,"","Defeat BlackGatomon","打倒黑迪路獸","","블랙가트몬을 쓰러뜨리자.","Besiege BlackGatomon."
+854,"","Explain to BlackGatomon","說服黑迪路獸","","블랙가트몬을 설득하자.","Kläre BlackGatomon auf."
+860,"","Phantom Cyberghosts","神出鬼沒的電腦幽靈","","신출귀몰한 전뇌 유령","Cybergeister"
+861,"","Miyuki","美雪","","미유키","Miyuki"
+862,"","I saw an avatar from a dead friend in
+EDEN. What was that? Could you look into
+it? No one should be using it.","我在EDEN看到了已經死去朋友的化身
+那到底是什麼……你能幫我調查嗎？","","죽어서 사용될 리 없는
+친구의 아바타를 EDEN에서 봤어요.
+그건 뭐였는지……조사해주실 수 없나요?","Ich habe den Avatar eines toten Freundes
+in EDEN gesehen. Kannst du dem
+nachgehen? Den sollte niemand benutzen."
+863,"","Sato","佐藤","","사토","Sato"
+864,"","An operational error?","只是營運方出錯了吧？","","운영진의 실수잖아?","Ein Betriebsfehler?"
+865,"","Nonamemon, the Prophet","預言者的無名獸","","예언자는 이름없는몬","Inkognitomon, der Prophet"
+866,"","It has to be the dead returned","不對，這一定是死者復活了","","아니, 죽은 사람이 부활한 게 틀림없어","Es muss eine Auferstehung sein"
+870,"","Get explanation from client","聽委託人說明詳情","","의뢰인에게서 설명을 듣자.","Hol dir eine Erklärung vom Klienten."
+871,"","Ask management at Kamishiro HQ","到神代企業營運總部詢問詳情","","카미시로 본사에서 운영진에게 이야기를 듣자.","Frag Manager in Kamishiro-Zentrale."
+872,"","Head to Under Kowloon Lv. 1","前往Under Kowloon Lv.1","","언더 쿠롱 Lv.1로 향하자.","Geh zur Ebene 1 in Unter Kowloon."
+873,"","Check Under Kowloon Lv. 1","調查Under Kowloon Lv.1","","언더 쿠롱 Lv.1을 조사하자.","Schau auf Ebene 1 in Unter Kowloon."
+874,"","Investigate Kowloon Lv. 4.","調查Kowloon Lv.4","","쿠롱 Lv.4를 조사하자.","Ermittle auf Ebene 4 von Kowloon."
+875,"","Defeat Puppetmon","打倒木偶獸","","피노키몬을 쓰러뜨리자","Besiege Puppetmon."
+880,"","Blue Aquarium","憂鬱的水族館","","블루한 수족관","Blaues Aquarium"
+881,"","Mizushita, Dir. Aquarium","池袋水族館館長-水下-","","이케부쿠로 수족관 관장 미즈시타","Mizushita, Dir. Aquarium"
+882,"","People listening to the aquarium PA
+start crying and grow listless. Find out
+what’s causing this phenomenon.","發生了聽到水族館館內廣播的人
+突然開始哭泣，變得渾身無力的奇怪現象
+請你們查明原因","","수족관 관내 방송을 들은 사람들이 갑자기 울기 시작하거나
+무기력하게 되어버리는 이상한 현상이 일어나고 있습니다.
+원인을 밝혀주세요.","Durchsagen im Aquarium machen Leute
+traurig und apathisch. Finde die Ursache
+dafür heraus."
+890,"","Get explanation from client","聽委託人說明詳情","","의뢰인에게서 설명을 듣자.","Hol dir eine Erklärung vom Klienten."
+891,"","Ask at aquarium.","在水族館調查情報","","수족관에서 탐문을 하자.","Hör dich im Aquarium um."
+892,"","Check noisy tank.","調查發出聲音的水槽","","소리가 나는 수조를 조사하자.","Prüfe das geräuschvolle Becken."
+893,"","Find Plesiomon in Ikebukuro.","在池袋找出蛇頸龍獸","","이케부쿠로에서 플레시오몬을 찾자.","Finde Plesiomon in Ikebukuro."
+894,"","Defeat Plesiomon","打倒蛇頸龍獸","","플레시오몬을 쓰러뜨리자.","Besiege Plesiomon."
+895,"","Convince Plesiomon","說服蛇頸龍獸","","플레시오몬을 설득하자.","Überzeuge Plesiomon"
+900,"","Corridor Ward","迴廊病房","","회랑 병동","Krankenhausflure"
+901,"","Matayoshi","又吉","","마타요시","Matayoshi"
+902,"","I can’t write anything down, but help us
+find missing people ASAP!","雖然不能寫出詳情，但希望你們來幫忙找出失蹤的人
+要是能盡早接下委託就太好了","","자세히는 못 적지만, 행방불명이 된 사람의 탐색을 도와줬으면 한다.
+가능한 빨리 받아주면 고맙겠다.","Ich kann nichts schreiben, aber wir
+müssen Vermisste finden!"
+910,"","Get explanation from client","聽委託人說明詳情","","의뢰인에게서 설명을 듣자.","Hol dir eine Erklärung vom Klienten."
+911,"","Ask at the 1st floor, Central Hospital.","在中央醫院1F打聽情報","","센트럴 병원 1F에서 탐문을 하자.","Frag im Erdgeschoss der Klinik."
+912,"","Ask at the 12th floor, Central Hospital.","在中央醫院12F打聽情報","","센트럴 병원 12F에서 탐문을 하자.","Frag im 12. Stock des ZK."
+913,"","Search 12th floor room of Central Hosp.","調查中央醫院12F的病房","","센트럴 병원 12F에서 병실을 조사하자.","Untersuche den 12. Stock des ZK."
+914,"","Head to 1F in elevator.","搭電梯回到1F","","엘리베이터를 타고 1F로 돌아가자.","Fahre mit dem Aufzug ins EG."
+915,"","Check Central Hospital escape routes","找出逃離中央醫院的方法","","센트럴 병원에서 탈출할 수단을 찾자.","Prüfe Fluchtwege aus Krankenhaus."
+916,"","Chase Socerimon","追上冰巫師獸","","소서리몬을 쫓자.","Verfolge Socerimon."
+917,"","Defeat Kuzuhamon","打倒葛葉獸","","쿠즈하몬을 쓰러뜨리자.","Besiege Kuzuhamon."
+920,"","Ghost Mixer","幽靈聯誼","","유령 단체 미팅","Geisterparty"
+921,"","Four-Eyes Boy","眼鏡男子","","안경 남자","Vieräugiger Junge"
+922,"","We’re planning a mixer, but I hear that
+there are ghosts at the venue. Could you
+find out for us?","我正在計畫，要在某處舉辦聯誼。但預定當會場的地方
+最近卻有“白色幽靈”出現的傳聞
+希望你能幫我去找出真相","","어느 장소에서 단체 미팅 개최 계획을 세우고 있는데 회장으로
+예정된 곳에 최근 ""하얀 유령""이 나온다는 소문이 있습니다.
+진짜인지 어떤지 정체를 밝혀줬으면 합니다.","Wir planen eine Party, aber am
+Veranstaltungsort sollen Geister sein.
+Kannst du für uns nachsehen?"
+923,"","TETSU ","TETSU","","TETSU","TETSU "
+924,"","Do you mean the White Ghost Boy?","白色幽靈是那個“白色少年的幽靈”嗎？","","하얀 유령이라니 그 ""하얀 소년의 유령""?","Meinst du den weißen Geisterjungen?"
+925,"","Akira","晶","","아키라","Akira"
+926,"","Too Much Internet","網路看太多了啦","","인터넷 너무 봤어","Zu viel Internet"
+930,"","Get explanation from client","聽委託人說明詳情","","의뢰인의 설명을 듣자.","Hol dir eine Erklärung vom Klienten."
+931,"","Check Kowloon Lv. 2.","調查Kowloon Lv.2","","쿠롱 Lv. 2를 조사하자.","Sieh auf Ebene 2 von Kowloon nach."
+932,"","Defeat Dracmon and Bakemon.","打倒德古獸跟猛鬼獸","","드라큐몬과 고스몬을 쓰러뜨리자.","Besiege Dracmon und Bakemon."
+940,"","Missing Girl","失蹤女友","","행방불명인 그녀","Das vermisste Mädchen"
+941,"","Royal Generation 3","皇家三世","","로얄 3세","Royal Generation 3"
+942,"","My lover went missing in Kowloon!
+Where’s my better half?
+Please, someone find her!","我的戀人在Kowloon失蹤了
+啊，我的另一半到底到哪去了？
+誰都好，幫我找到她吧！！","","내 애인이 쿠롱에서 행방불명이 되어버렸어.
+아아, 내 반쪽은 대체 어디로 가버린 거야?
+누구라도 좋으니까, 그녀를 찾아줘!!","Mein Schatz ist in Kowloon verschwunden!
+Wo ist meine bessere Hälfte?
+So such sie doch jemand!"
+943,"","Itsuro @ Adorable Maid","逸郎＠女僕小姐超萌","","코하마@메이드 씨 모에-","Itsuro: niedliches Mädel"
+944,"","Go to management. Not this BBS!","應該去找營運方，而不是在這種布告欄發吧","","이런 게시판 말고 운영진한테 가는 게 어때?","Gehe zur Verwaltung von EDEN,
+nicht zur ATL!"
+950,"","Get explanation from client","聽委託人說明詳情","","의뢰인에게 설명을 듣자.","Hol dir eine Erklärung vom Klienten."
+951,"","Ask at Junk Plaza.","在破銅爛鐵公園打聽消息","","잡동사니 광장에서 탐문을 하자.","Frag an der Müll-Plaza."
+952,"","Defeat Lunamon","打倒露娜獸","","루나몬을 쓰러뜨리자.","Besiege Lunamon."
+953,"","Convince Lunamon","說服露娜獸","","루나몬을 설득하자.","Überzeuge Lunamon."
+960,"","Fighting Beetles","戰鬥甲蟲","","싸우는 딱정벌레","Kampfkäfer"
+961,"","Self-Styled Entomologist","自稱蟲博士","","자칭 벌레박사","Insektenkundler"
+962,"","I was checking bugs online when I found
+a beetle I had never seen before! I need
+you to find more about it!","我在影片網站調查昆蟲時
+居然發現了我不知道的甲蟲！
+我無論如何都想知道真實身份，請幫我調查！","","영상 사이트에서 곤충을 조사하고 있었더니
+이 내가 모르는 딱정벌레가 있었어!
+어떻게 해서든 이 녀석들의 정체를 밝혀내고 싶으니까 조사해줘!!","Ich habe einen Käfer gefunden, den ich
+noch nie gesehen habe! Du musst mehr
+darüber herausfinden!"
+963,"","Pomeranian Fan","最愛博美了","","포메라니안 정말 좋아 씨","Zwergspitzfan"
+964,"","They can check new species of insects
+at the museum for you.","如果把可能是新品種的蟲帶到博物館
+好像就能請他們調查唷","","신종일지도 모르는 벌레를 발견해서 박물관에 가져다주면
+조사해주는 듯해","Neue Insektenarten können sie im Museum
+für dich prüfen."
+965,"","Nonamemon","無名獸","","이름없는몬","Inkognitomon"
+966,"","It’s not a new species! How many
+insects do you think are in Japan?","絕對不是新品種啦
+你以為光日本就有多少蟲啊","","절대 신종은 아니야
+일본에 벌레가 얼마나 있는 줄 알기나 해?","Das ist keine neue Art! Was glaubst du,
+wie viele Insekten es in Japan gibt?"
+970,"","Get explanation from client","聽委託人說明詳情","","의뢰인에게 설명을 듣자.","Hol dir eine Erklärung vom Klienten."
+971,"","Check Beetle Arena","調查甲蟲決鬥場","","딱정벌레 결투장을 조사하자.","Prüfe die Käfer-Arena."
+972,"","Defeat Cherrymon and Woodmon","打倒祖利獸跟朽木獸","","쥬레이몬과 우드몬을 쓰러뜨리자.","Besiege Cherrymon und Woodmon."
+973,"","Search for beetles","尋找甲蟲","","딱정벌레들을 찾자.","Suche nach Käfern."
+974,"","Get sap from a plant Digimon.","從植物數碼寶貝拿到樹液","","식물 디지몬으로부터 수액을 받자.","Hol Saft von einem Pflanzen-Digimon."
+975,"","Deliver sap","交出拿到的樹液","","손에 넣은 수액을 가져다주자.","Gib den Saft ab."
+980,"","Bird Pest Control","驅除鳥害","","새로 인한 피해 구제","Die Vögel"
+981,"","Metropolitan Office Woman","新都廳的女性員工","","신 도청의 여성 직원","Frau aus der ZV"
+982,"","There are a lot of bird monsters on top of the
+Metropolitan Office. They're a real pain. Can
+you get rid of them?","新都廳的屋頂上出現好多鳥型的怪物。
+我被他們害慘了，真的是很困擾啊。
+你能想點辦法處理怪物嗎？","","신 도청 옥상에 새의 모습을 한 디지몬이 잔뜩 나타났습니다.
+이것 때문에 엄청난 민폐입니다.
+괴물을 어떻게든 처리해 주시지 않겠습니까?","Auf der Zentralverwaltung hocken viele
+Vogelmonster. Sehr lästig. Kannst du
+die loswerden?"
+983,"","Aida","會田","","아이다","Aida"
+984,"","It was filthy up there.
+Please do something quickly.","那邊非常的骯髒呢
+希望能快點想想辦法","","그 근처 금방 더러워졌었지
+빨리 해결해줬으면 해","Da oben ist es so dreckig.
+Bitte mach schnell was."
+985,"","Kazu","知","","카즈","Kazu"
+986,"","The birds are pretty loud.","鳥叫聲一類的聲音的確是很吵呢","","새의 울음소리같은 건 확실히 시끄러웠었지~","Die Vögel machen ganz schön Radau."
+990,"","Get explanation from client","聽委託人說明詳情","","의뢰인의 설명을 듣자.","Hol dir eine Erklärung vom Klienten."
+991,"","Defeat rookie bird Digimon.","打倒成長期的鳥類數碼寶貝","","성장기인 새 디지몬들을 쓰러뜨리자.","Besiege Rookie-Vogel-Digimon."
+992,"","Head to roof.","前往屋頂","","옥상으로 향하자.","Geh aufs Dach."
+993,"","Defeat champion bird Digimon.","打倒成熟期的鳥類數碼寶貝","","성숙기인 새 디지몬들을 쓰러뜨리자.","Besiege Champion-Vogel-Digimon."
+994,"","Head to roof.","前往屋頂","","옥상으로 향하자.","Geh aufs Dach."
+995,"","Defeat mega & ultimate bird Digimon.","打倒究極體、完全體的鳥類數碼寶貝","","궁극체, 완전체 새 디지몬들을 쓰러뜨리자.","Besiege Mega- und Ultra-Vogel-Digimon."
+1000,"","Hard Worker","工作狂","","하드 워커","Arbeitsmoral"
+1001,"","Wakamoto","若本","","와카모토","Wakamoto"
+1002,"","My colleague is non-stop without food or sleep.
+Doesn’t listen to anyone!
+Can you persuade him to rest?","公司內的同期員工不眠不休一直～在工作著
+就算周遭人都勸他也不聽……
+請阻止他吧！","","회사의 동기가 자지도 먹지도 않고 계~속 일을 하고 있습니다.
+주위에서 막으려고 해도 듣지도 않고……
+부디 그를 막아주세요!","Mein Kollege isst und schläft gar nicht.
+Er hört auf niemanden! Kriegst du ihn
+dazu, sich mal zu erholen?"
+1003,"","Mr. Off to Hawaii","好想去夏威夷","","하와이에 가고 싶어 씨","Hawaii-Liebhaber"
+1004,"","Maybe a runner’s high?","這是所謂的跑者的愉悅感嗎？","","러너스 하이라는 거?","Glückshormone durch Sport?"
+1005,"","Gomamon","哥瑪獸","","쉬라몬","Gomamon"
+1006,"","People are incredible.
+That must be awful!","人類真厲害呢
+那樣子不是很辛苦嗎？","","인간은 굉장하네~
+그렇게 일하는 거 힘들지 않을까~?","Unglaublich.
+Das klingt ja schlimm!"
+1010,"","Get explanation from client","聽委託人說明詳情","","의뢰인에게 설명을 듣자.","Hol dir eine Erklärung vom Klienten."
+1011,"","Check Syncing Computer","調查同期員工的電腦","","동기의 컴퓨터를 조사하자.","Prüfe den synchron. Computer."
+1012,"","Get password from client.","向委託人詢問密碼","","의뢰인으로부터 비밀번호를 알아내자.","Besorge das Passwort vom Klienten."
+1013,"","Clear wall with password","以密碼解除防火牆","","비밀번호로 잠금을 해제하자.","Benutze das Passwort am Computer."
+1014,"","Check Syncing Computer","調查同期員工的電腦","","동기의 컴퓨터를 조사하자.","Prüfe den synchron. Computer."
+1015,"","Defeat MudFrigimon","打倒泥熊獸","","머드프리지몬을 쓰러뜨리자.","Besiege MudFrigimon."
+1020,"","Welcome to Play Land!","歡迎來到遊樂園！","","어서 오세요, 플레이 랜드에!","Willkommen im Spielland!"
+1021,"","Play Land Director","遊樂園園長","","플레이 랜드의 원장","Leiter des Spiellands"
+1022,"","We made a new play land for Digimon in
+digital space! I asked you to help test
+it! Come when you’re free!","在數碼空間內新成立了數碼寶貝用的遊樂園！
+我想招待你來玩，順便當作測試營運！
+有空的時候請一定要來玩喔！","","디지털 공간에 새로운 디지몬 전용 플레이 랜드를 만들었어!
+시운전을 위해 당신을 초대합니다!
+한가로울 때, 반드시 꼭 놀러 와줘!","Wir haben Digimon einen Vergnügungspark
+im Cyberspace gebaut! Hilf beim Testen!
+Schau vorbei, wenn du Zeit hast!"
+1023,"","Nonamemon","無名獸","","이름없는몬","Inkognitomon"
+1024,"","A Play Land for Digimon? Is there a demand?","數碼寶貝用的遊樂園？　會有人需要嗎？","","디지몬 전용 플레이 랜드? 수요 있어?","Themenpark für Digimon? Braucht den wer?"
+1030,"","Get explanation from client","聽委託人說明詳情","","의뢰인의 설명을 듣자.","Hol dir eine Erklärung vom Klienten."
+1031,"","Head to Play Land","前往遊樂園","","플레이 랜드로 향하자.","Geh zum Spielland."
+1032,"","Take Play Land quiz","挑戰遊樂園的謎題","","플레이 랜드의 퀴즈에 도전하자.","Mach das Spielland-Quiz."
+1033,"","Defeat CatchMamemon","打倒捕捉豆豆獸","","캐치콩알몬을 쓰러뜨리자.","Besiege CatchMamemon."
+1040,"","Believing in God","相信神明","","신을 믿으십시오","Glaube an Gott"
+1041,"","Dragon Follower","龍的從者","","용의 하인","Drachen-Gläubiger"
+1042,"","We seek those who might help us prepare
+for the days at hand. Please reach out
+for more information.","為了終有到來之日，現正募集
+願與吾等聯手，援助吾等力量之人
+願聞詳請，請與吾等聯繫","","다가올 날에 대비해 저희와 손을 잡고
+힘을 빌려주실 분을 모집하고 있습니다.
+자세한 이야기를 듣고 싶으신 분은 가벼운 마음으로 연락 주세요.","Wir suchen Helfer, um uns auf die
+kommenden Tage vorzubereiten. Wende
+dich an uns für mehr Informationen."
+1043,"","Matsui","小糟糕","","마츠이","Matsui"
+1044,"","I was saved by the dragon god!
+His followers are doubtlessly good!","我真的被龍神大人拯救了
+從者大人是毋庸置疑的善人","","용신 님에게는 정말로 구원받았습니다.
+하인 님은 틀림없이 선인입니다.","Ich wurde vom Drachengott gerettet!
+Seine Anhänger müssen gut sein!"
+1045,"","Miichan","小咪","","미짱","Miichan"
+1046,"","A cult?!","邪教嗎？","","사이비?","Ein Kult?!"
+1050,"","Get explanation from client at K-Cafe.","在K-Café聽委託人說明詳情","","K-카페에서 의뢰인에게 설명을 듣자.","Hol dir Infos vom Klienten im K-Café."
+1051,"","Hand out flyers in Akihabara.","在秋葉原發傳單","","아키하바라에서 전단지를 돌리자.","Verteile Handzettel in Akihabara."
+1052,"","Ask Matayoshi about the church.","跟又吉刑警打聽教團","","마타요시 형사에게서 교단의 이야기를 듣자.","Frag Matayoshi nach der Kirche."
+1053,"","Ask the victim once more.","再次跟受害OL打聽詳情","","피해자 OL에게서 다시 이야기를 듣자.","Frag erneut das Opfer."
+1054,"","Send victim’s report to client.","將受害者OL的警告傳達給委託人","","피해자 OL에게 받은 경고를 의뢰인에게 전해주자.","Schick den Opferbericht zum Klienten."
+1055,"","Head to Dragon God Shrine","前往龍神的神座","","용신의 신좌로 향하자.","Geh zum Drachengott-Schrein."
+1056,"","Defeat Goldramon","打倒神龍獸","","갓드라몬을 쓰러뜨리자.","Besiege Goldramon."
+1060,"","Where the Bees Are Headed","蜜蜂們的行蹤","","벌들의 행방","Bienenwanderung"
+1061,"","Scholar","學者","","학자","Wissenschaftler"
+1062,"","Bee Digimon have disappeared from my
+research facility. We need
+your help.","蜜蜂的數碼寶貝從我的研究設施中脫逃了
+我想請你們來幫忙","","제 연구 시설에서
+벌 디지몬이 모습을 감춰버렸습니다.
+여러분께 도움을 요청하고 싶습니다.","Bienen-Digimon verschwinden aus meiner
+Forschungseinrichtung. Wir brauchen
+deine Hilfe."
+1070,"","Get explanation from client","聽委託人說明詳情","","의뢰인에게 설명을 듣자.","Hol dir eine Erklärung vom Klienten."
+1071,"","Check the research server","調查研究伺服器","","연구 서버를 조사하자.","Prüfe den Forschungsserver."
+1072,"","Go help FanBeemon","前去幫助幻蜂獸","","아기벌몬을 도우러 가자.","Hilf FanBeemon."
+1073,"","Defeat Dinobeemon","打倒恐蜂獸","","다이노몬을 쓰러뜨리자.","Besiege Dinobeemon."
+1080,"","Stop Fighting","不要起爭議啦","","싸움은 그만두자","Vertragt euch endlich"
+1081,"","Chuumon","芝蒙獸","","츄몬","Chuumon"
+1082,"","I hate that my colleagues won’t get
+along. It’s hurting work. Stop them.","我的同事關係很差真是困擾
+這樣會影響到工作，拜託你阻止他們！","","동료들 사이가 험악해져서 곤란해.
+일에 지장이 생기니까 둘의 싸움을 막아줬으면 해!","Meine Kollegen sollen aufhören, sich zu
+streiten. Die Arbeit leidet darunter."
+1083,"","Gaomon","迦奧獸","","가오몬","Gaomon"
+1084,"","Who are Chuumon’s colleagues?","芝蒙獸的夥伴是誰啊？","","츄몬의 동료라니 누구였더라?","Wer sind Chuumons Kollegen?"
+1085,"","MarineAngemon","海天使獸","","마린엔젤몬","MarineAngemon"
+1086,"","Fighting’s no good.","吵架是不行的喔","","싸움은 좋지 않아","Kämpfe sind schlimm."
+1090,"","Get explanation from client","聽委託人說明詳情","","의뢰인의 설명을 듣자.","Hol dir eine Erklärung vom Klienten."
+1091,"","Head to the Nakano Underpass.","前往中野地下道","","나카노 지하도로 향하자.","Geh zur Nakano-Unterführung."
+1092,"","Proceed along Nakano Underpass","深入中野地下道","","나카노 지하도를 나아가자.","Geh durch die Nakano-Unterführung."
+1093,"","Look for fighting Digimon","找出正在爭吵的數碼寶貝","","싸우고 있는 디지몬을 찾자.","Suche nach kämpfenden Digimon."
+1094,"","Defeat fighting Digimon","打倒襲擊而來的數碼寶貝","","덤벼드는 디지몬을 쓰러뜨리자.","Besiege kämpfende Digimon."
+1095,"","Send reason for fights to client.","把爭吵的理由告訴委託人","","싸운 이유를 의뢰인에게 전하자.","Rede mit dem Klienten über Kämpfe."
+1100,"","Legendary Digimon","黃金鄉的數碼寶貝","","황금향의 디지몬","Legendäres Digimon"
+1101,"","Solarmon","太陽獸","","황금톱니몬","Solarmon"
+1102,"","Find my dream chief and learn the secret
+of how to obtain that glorious
+shining body!","請你接觸我憧憬的主任
+找出要怎麼樣才能得到
+那光輝榮耀的身體的祕密","","동경하는 주임님에게 접촉해서
+그 눈부시게 빛나는 영광의 보디를 손에 넣으려면
+뭘 하면 좋을지 그 비밀을 찾아줬으면 해.","Finde meinen Traumchef und erfahre das
+Geheimnis seines glänzenden Körpers!"
+1103,"","GoldNumemon","黃金鼻涕獸","","골드워매몬","GoldNumemon"
+1104,"","Is the chief golden? That would be
+awesome, right?","那位主任是黃金的嗎？　黃金身體真是太酷了
+他很懂喔～","","주임은 황금인 건가? 황금으로 된 몸은 최고로 근사하지
+뭘 좀 아네~","Ist der Chef goldfarben? Das wäre doch
+toll, oder?"
+1105,"","PlatinumSukamon","白金大便獸","","플래티넘워매몬","PlatinumSukamon"
+1106,"","Platinum is better, though.","喂，明明是白金比較好","","어이, 플래티넘 쪽이 좋은 게 당연하잖아","Platin ist aber noch besser."
+1110,"","Get explanation from client","聽委託人說明詳情","","의뢰인의 설명을 듣자.","Hol dir eine Erklärung vom Klienten."
+1111,"","Clear the firewall.","解除防火牆","","방화벽을 해제하자.","Überwinde die Firewall."
+1112,"","Defeat Guardromon (Gold)","打倒守衛獸(金)","","가드로몬(금)을 쓰러뜨리자.","Besiege Guardromon (Gold)."
+1113,"","Learn the secret.","問出身體的祕密","","몸의 비결을 캐묻자.","Lerne das Geheimnis."
+1120,"","Energy Hog Beast","噬電獸","","전기를 먹는 짐승","Energiefraß-Bestie"
+1121,"","Electric Company Employee","電力公司的員工","","전력회사 직원","Stromkonzern-Mitarbeiter"
+1122,"","Did you know there have been many 
+blackouts lately? The cause is in the 
+power plant server. Solve the mystery!","你知道最近這陣子，經常發生停電嗎？
+原因似乎跟發電廠的伺服器有關連……
+電力公司想要避開醜聞，所以希望能私下解決。","","최근, 정전이 자주 일어나는 건 알고 있나요?
+아무래도 발전소 서버 안에 원인이 있는 듯합니다만……
+전력회사의 불상사를 피할 수 있도록, 비밀리에 해결해주셨으면 합니다.","Wusstest du, dass es immer mehr
+Stromausfälle gibt? Das liegt am Server
+des Kraftwerks. Untersuche das!"
+1130,"","Get explanation from client","聽委託人說明詳情","","의뢰인에게 설명을 듣자.","Hol dir eine Erklärung vom Klienten."
+1131,"","Head to power plant server","前往發電廠伺服器","","발전소 서버로 향하자.","Geh zum Server des Kraftwerks."
+1132,"","Check the power plant server","調查發電廠伺服器","","발전소 서버를 조사하자.","Prüfe den Server des Kraftwerks."
+1133,"","Defeat Chaosdramon","打倒混沌龍獸","","카오스드라몬을 쓰러뜨리자.","Besiege Chaosdramon."
+1140,"","Reason for Anonymous Hope","希望匿名的理由","","익명을 희망하는 이유","Hoffnung für einen Anonymen"
+1141,"","Anonymous Guy","希望匿名的男子","","익명 희망인 남자","Anonymer Typ"
+1142,"","I can’t get my account back from the
+hackers. Could you find it for me?","我的帳號被駭客奪走後就要不回來了
+希望你能幫我找回來","","해커에게 빼앗긴 내 계정이 돌아오질 않아.
+찾아서 회수해서 가져와 줬으면 해.","Ich kriege mein Konto nicht von den
+Hackern wieder. Kannst du es finden?"
+1150,"","Get explanation from client","聽委託人說明詳情","","의뢰인의 설명을 듣자.","Hol dir eine Erklärung vom Klienten."
+1151,"","Head to Hosaka server","前往保坂伺服器","","호사카 서버로 향하자.","Geh zu Hosakas Server."
+1152,"","Defeat manipulated avatar.","打被被操控的化身","","조종당하는 아바타를 쓰러뜨리자.","Besiege den manipulierten Avatar."
+1153,"","Follow Piximon.","追上妖精獸","","피콜몬을 쫓아가자.","Folge Piximon."
+1154,"","Defeat Piximon and client’s avatar.","打倒妖精獸跟委託人的化身","","피콜몬과 의뢰인의 아바타를 쓰러뜨리자.","Besiege Piximon und Klienten-Avatar."
+1155,"","Give retrieved account to client.","把拿回來的帳號交給委託人","","의뢰인에게 되찾은 계정을 넘겨주자.","Gib dem Klienten sein Konto wieder."
+1160,"","Crazed Security","錯亂的保全設施","","정신나간 보안","Übertriebene Sicherheit"
+1161,"","Matayoshi","又吉","","마타요시","Matayoshi"
+1162,"","We've introduced the latest security wall, but
+it's been acting up. Can you look into it?","最近雖然裝設了最新的防火牆，
+但狀況實在很奇怪，能幫忙調查一下嗎？","","최근, 서버에 방화벽을 도입했는데
+아무래도 이 녀석의 상태가 이상하니 
+조금 조사해주지 않겠나?","Der neue Sicherheitswall macht Probleme.
+Kannst du dich darum kümmern?"
+1170,"","Get explanation from Matayoshi","聽又吉刑警說明詳情","","마타요시 형사에게 설명을 듣자.","Hol dir eine Erklärung von Matayoshi."
+1171,"","Check the police server","調查警視廳伺服器","","경시청 서버를 조사하자.","Prüfe den Polizeiserver."
+1172,"","Deactivate the Security Wall.","解除防火牆","","방화벽을 해제하자.","Deaktiviere den Sicherheitswall."
+1173,"","Go further and find the error’s cause.","前往深處，找出錯誤的原因","","안으로 나아가, 에러의 원인을 찾자.","Geh weiter und finde die Fehlerquelle."
+1174,"","Defeat Gryphonmon","打倒獅鷲獸","","그리폰몬을 쓰러뜨리자.","Besiege Gryphonmon."
+1180,"","Gluttonous Case","暴食發出的委託","","폭식으로부터의 의뢰","Fall von Gefräßigkeit"
+1181,"","Beelzemon","墮天地獄獸","","베르제브몬","Beelzemon"
+1182,"","There’s this ugly guy I don’t like. The
+Security Wall keeps him safe, though.
+Can you deactivate it for me?","有我看不順眼的人渣在
+雖然我想讓他消失，但防火牆阻礙了我
+你代替我去把防火牆弄消失吧","","마음에 들지 않는 쓰레기 녀석이 있다.
+녀석을 지우고 싶지만, 방화벽이 방해된다.
+내 대신에 이 벽을 해제해줬으면 한다.","Es gibt diesen hässlichen Typen, den ich
+nicht mag. Der Sicherheitswall schützt
+ihn. Kannst du ihn deaktivieren?"
+1183,"","Stingmon","飛蟲獸","","스팅몬","Stingmon"
+1184,"","Has someone made Beelzemon angry?
+He needs to learn some fear!","居然有惹墮天地獄獸生氣的傢伙……
+真是不知死活啊……","","베르제브몬을 화나게 한 녀석이 있는 건가…
+이 무슨 겁대가리 상실한…","Hat jemand Beelzemon verärgert?
+Der muss das Fürchten lernen!"
+1185,"","Lilithmon","莉莉絲獸","","리리스몬","Lilithmon"
+1186,"","Interesting! I’ll go take a look.
+Maybe.","好像很有趣，我去看看吧？
+……開玩笑的啦","","재밌어 보이니까 보러 갈까?
+…농담이야","Interessant. Ich schaue es mir an.
+Vielleicht."
+1190,"","Get explanation from client","聽委託人說明詳情","","의뢰인에게 설명을 듣자.","Hol dir eine Erklärung vom Klienten."
+1191,"","Find and deactivate Security Wall","找出防火牆並解除","","방화벽을 찾아내 해제하자.","Deaktiviere den Sicherheitswall."
+1192,"","Find SkullMeramon","找出死神火焰獸","","데드메라몬을 찾자.","Finde SkullMeramon."
+1193,"","Defeat SkullMeramon","打倒死神火焰獸","","데드메라몬을 쓰러뜨리자.","Besiege SkullMeramon."
+1200,"","Spirit Fox and Girl","妖狐與少女","","여우 요괴와 소녀","Das Mädchen und der Geisterfuchs"
+1201,"","Terriermon","大耳獸","","테리어몬","Terriermon"
+1202,"","My friend Renamon won’t come back from
+Asakusa. I’m worried. help find him.","我的朋友妖狐獸去了淺草後就沒回來了
+我很擔心他，希望你能找到他","","친구인 레나몬이 아사쿠사에 가서 돌아오질 않아.
+걱정이니까 찾아줬으면 해.","Mein Freund Renamon kommt nicht wieder
+aus Asakusa. Hilf mir, ihn zu finden."
+1203,"","Nyaromon","貓貓獸","","야옹몬","Nyaromon"
+1204,"","What’s that about Renamon? I’m worried too.","妖狐獸怎麼了嗎？　好擔心喔──","","레나몬 무슨 일 있는 걸까? 걱정이야","Was ist mit Renamon? Ich mache mir auch
+Sorgen."
+1205,"","Impmon","小妖獸","","임프몬","Impmon"
+1206,"","Be careful! That thing
+is there too... hehehe","小心點比較好喔
+畢竟現在那裡有他……嘻嘻","","조심하는 편이 좋을걸
+뭐라 해도 지금 거기에는 그 녀석이…크큭","Vorsicht! Das Ding ist auch hier ...
+Hehehe."
+1210,"","Get explanation from client","聽委託人說明詳情","","의뢰인에게 설명을 듣자.","Hol dir eine Erklärung vom Klienten."
+1211,"","Ask in Asakusa.","在淺草打聽情報","","아사쿠사에서 탐문을 하자.","Hör dich in Asakusa um."
+1212,"","Find Renamon and the girl","找出妖狐獸跟女孩","","레나몬과 여자 아이를 찾자.","Finde Renamon und das Mädchen."
+1213,"","Find the girl","找出女孩","","여자 아이를 찾자.","Finde das Mädchen."
+1214,"","Help Renamon","幫助妖狐獸","","레나몬을 구하자.","Hilf Renamon."
+1215,"","Defeat MegaSeadramon","打倒超海龍獸","","메가시드라몬을 쓰러뜨리자.","Besiege MegaSeadramon."
+1220,"","Evil Dragon Amok","失控的邪龍","","폭주하는 사룡","Tobender böser Drache"
+1221,"","Leomon","獅子獸","","레오몬","Leomon"
+1222,"","My friend, WarGrowlmon, is in trouble!
+Please, help me save him!","我的朋友大古拉獸出事了！
+拜託，幫我救救他吧！","","친구인 메가로그라우몬에게 큰일이 일어났다!
+부탁이다, 녀석을 구하기 위해 힘을 빌려줘!","Mein Freund WarGrowlmon steckt in der
+Klemme! Hilf mir, ihn zu retten!"
+1223,"","Tsunomon","獨角獸","","뿔몬","Tsunomon"
+1224,"","You mean the Digimon amok in Shibuya?
+I saw him nearby, but he’s scary.","那是指在涉谷大鬧的數碼寶貝吧
+當時我剛好在那附近，真是可怕啊","","그거 시부야에서 날뛰는 디지몬을 말하는 거려나
+마침 근처에 있었는데 무서웠어","Du meinst das Digimon-Chaos in Shibuya?
+Er war da, aber er ist furchteinflößend."
+1225,"","Dorumon","多路獸","","돌몬","Dorumon"
+1226,"","Someone, hurry!","誰快點想想辦法啊！","","누가 빨리 어떻게든 해줘!","Hilfe, schnell!"
+1230,"","Join client in Shibuya.","在涉谷和委託人會合","","시부야에서 의뢰인과 합류하자.","Geh zum Klienten in Shibuya."
+1231,"","Find Megidramon running amok","找出失控的大古拉獸","","폭주하는 메기드라몬을 찾자.","Finde das wütende Megidramon."
+1232,"","Convince Megidramon","說服大古拉獸","","메기드라몬을 설득하자.","Überzeuge Megidramon."
+1233,"","Go to Shibuya.","前往涉谷","","시부야로 향하자.","Geh nach Shibuya."
+1240,"","Fossil Paradise","化石樂園","","화석낙원","Fossilienparadies"
+1241,"","Museum Director","博物館館長","","박물관 관장","Direktor des Museums"
+1242,"","We’re trying to restore the museum, but
+are stymied because a monster lives in
+a painting. Help us, please!","我們正計畫要修復損毀的博物館
+但館內有部份區域被那些怪物們佔據無法調查
+請你想點辦法處理他們……","","파손된 박물관의 수복을 계획하고 있습니다만
+관내의 한 구획에 문제의 고스몬이 있어서 조사가 진행되지 않습니다.
+어떻게든 그들을 해결해주셨으면 합니다만……","Wir versuchen das Museum zu renovieren,
+aber da lebt ein Monster in einem
+Gemälde. Hilf uns bitte!"
+1243,"","Nakano Housewife","中野的主婦","","나카노의 주부","Hausfrau aus Nakano"
+1244,"","The kids love that museum in Ueno.
+The sooner they restore the better.","小孩子最喜歡上野博物館了
+要是能早點復原就好了","","우에노의 박물관, 우리 애가 정말 좋아해
+빨리 복구되면 좋겠는데","Die Kinder lieben das Museum in Ueno.
+Hoffentlich ist es bald renoviert."
+1245,"","Tankmon","坦克獸","","탱크몬","Tankmon"
+1246,"","There’s a real pain there.","也有給人添麻煩的傢伙呢","","민폐 끼치는 녀석도 다 있네","Da sind echt lästige Typen."
+1250,"","Join client in Ueno.","在上野和委託人會合","","우에노에서 의뢰인과 합류하자.","Geh zum Klienten in Ueno."
+1251,"","Look for Digimon in the museum.","找出留在博物館內的數碼寶貝","","박물관에 자리 잡은 디지몬을 찾자.","Suche im Museum nach Digimon."
+1252,"","Defeat the Digimon in the museum.","打倒留在博物館內的數碼寶貝","","박물관에 자리 잡은 디지몬을 쓰러뜨리자.","Besiege das Digimon im Museum."
+1260,"","Dr. Datamon’s New Challenge","分子獸博士的新挑戰","","데이터몬 박사의 새로운 도전","Dr. Datamons neue Herausforderung"
+1261,"","Togemon","仙人掌獸","","니드몬","Togemon"
+1262,"","I’m Togemon. I’m hot, and woozy.
+I might be coming down with something.
+Somebody, cure me!","我是仙人掌獸。身體好熱，頭昏昏的……
+說不定是生了重病
+誰來治好我的病……！","","난 니드몬. 몸이 뜨거워서, 빙빙거려…
+혹시 나쁜 병에 걸린 걸지도.
+누가 내 병을 치료해줘…!","Ich bin Togemon. Mir ist heiß und
+schwindelig. Ich werde wohl krank. So
+heil mich doch jemand!"
+1263,"","Lopmon","黑大耳獸","","로프몬","Lopmon"
+1264,"","Is Togemon okay?","仙人掌獸，沒事吧？","","니드몬 괜찮아?","Geht es Togemon gut?"
+1265,"","Tokomon","迪哥獸","","토코몬","Tokomon"
+1266,"","Someone help, please!","誰來救救他啊──","","누가 구해줘-","So hilf doch bitte jemand!"
+1270,"","Join client and check symptoms.","和委託人會合查看症狀","","의뢰인과 합류해서 증상을 보자.","Prüfe die Symptome des Klienten."
+1271,"","Ask at Hacker Forum","在駭客討論區打聽消息","","해커 포럼에서 탐문을 하자.","Hör dich im Hackerforum um."
+1272,"","Go to Dr. Datamon Foraging Area","前往分子獸博士的採集場","","데이터몬 박사의 채취장으로 향하자.","Zum Dr.-Datamon-Sammelbereich."
+1273,"","Find Dr. Datamon","找出分子獸博士","","데이터몬 박사를 찾자.","Finde Dr. Datamon."
+1274,"","Give Togemon medicine","將藥劑給予仙人掌獸","","니드몬에게 약을 투여하자.","Gib Togemon Medizin."
+1275,"","Defeat berserk Togemon","打倒失控的仙人掌獸","","폭주한 니드몬을 쓰러뜨리자.","Besiege das wütende Togemon."
+1280,"","Invitation to the Abyss","前往深淵的邀請","","심연으로의 초대","Einladung in den Abgrund"
+1281,"","Mirei Mikagura","御神樂米蕾","","미카구라 미레이","Mirei Mikagura"
+1282,"","Waves of evil were detected deep in
+cyberspace, and they’re getting larger
+over time. Find out what’s causing them.","在電腦空間的最深處，察覺到了邪惡的波動
+這波動隨著時間不斷地增大著
+你能找出這波動的真面貌嗎？","","전뇌공간 깊숙한 곳에서 사악한 파동을 감지했어.
+파동은 시간이 지날수록 거대하게 커져가고 있어.
+그 파동의 정체를 밝혀줬으면 해.","Tief im Cyberspace wurden böse Wellen
+entdeckt, die immer größer werden. Geh
+dem Ursprung auf den Grund."
+1283,"","Patamon","巴達獸","","파닥몬","Patamon"
+1284,"","It’s Mirei!
+She looks aloof but she’s very nice!","啊，是米蕾小姐
+米蕾小姐看起來很冷淡，實際上很溫柔喔","","아, 미레이 씨다~
+미레이 씨는 차가워 보이지만 굉장히 상냥하지","Das ist Mirei! Sie wirkt hochnäsig, ist
+aber sehr nett!"
+1285,"","BlueMeramon","藍色火焰獸","","블루메라몬","BlueMeramon"
+1286,"","Mirei needs your help, so hurry up!
+If you’re rude to her, I’ll burn you up!","喂，米蕾小姐很困擾啊，快點去解決這狀況！
+要是敢對米蕾小姐失禮，我就把你燒成灰喔","","어이, 미레이 씨가 곤란해하시니까, 냉큼 해결해오라고!
+미레이 씨에게 실례했다간 이글이글 태워주겠어","Mirei braucht Hilfe, also schnell! Wenn
+du fies zu ihr bist, versenge ich dich!"
+1290,"","Get the case details at the DigiLab","到數碼實驗室詢問詳情","","디지랩에서 의뢰의 자세한 내용을 듣자.","Hol dir Infos zum Fall im DigiLab."
+1291,"","Check the Abyss Server","調查深淵伺服器","","어비스 서버를 조사하자.","Prüfe den Abyss-Server."
+1292,"","Defeat VenomMyotismon","打倒究極吸血魔獸","","베놈묘티스몬을 쓰러뜨리자.","Besiege VenomMyotismon."
+1293,"","Report to Mirei in DigiLab","到數碼實驗室向米蕾報告","","디지랩에서 미레이에게 보고하자.","Melde dich bei Mirei im DigiLab."
+1294,"","Check the Abyss Server again","再次調查深淵伺服器","","다시, 어비스 서버를 조사하자.","Prüfe den Abyss-Server erneut."
+1295,"","Defeat GranDracmon","打倒大德古獸","","그랜드라크몬을 쓰러뜨리자.","Besiege GranDracmon."
+1296,"","Report to Mirei in DigiLab again","再次到數碼實驗室向米蕾報告","","다시, 디지랩에서 미레이에게 보고하자.","Melde dich wieder bei Mirei im DigiLab."
+1300,"","Territory Contest: Tokyo Shock Groove","領域爭奪戰：東京觸電嗨","","엠블럼 쟁탈전 : 도쿄 감전 그루브","Revierkampf: Tokyo Shock Groove"
+1301,"","Fei","菲","","페이","Fei"
+1302,"","Tokyo Shock Groove is ruining EDEN.
+Can they risk making Zaxon mad?
+Let 'em know.","「東京觸電嗨」在EDEN裡作亂
+就讓他們明白……
+惹火了Zaxon會有什麼下場吧","","「도쿄 감전 그루브」가 EDEN을 휘젓고 다니고 있습니더.
+잭슨을 화나게하믄 어찌 되는지……
+깨닫게 해드리소.","Tokyo Shock Groove ruiniert EDEN. Können
+wir riskieren, Zaxon zu verärgern?
+Zeig es Ihnen!"
+1303,"","Honey Lemon","蜂蜜檸檬","","벌꿀 레몬","Honey Lemon"
+1304,"","It would have been a cinch for me, but I
+had a job to do. Transfer to Hudie?","要是我出場的話就能更快解決
+但我有其他事要辦，這次就讓給hudie吧","","내가 나서면 손쉽겠지만
+일이 있으니 이번에는 후디에에게 양보하지","Leichte Aufgabe für mich, aber ich bin
+auf Arbeit. Ich übergebe an Hudie!"
+1305,"","Knowledgeable Hacker","情報通的Zaxon駭客","","정보통 잭슨 해커","Gebildeter Hacker"
+1306,"","The team with a lot of electric Digimon?
+Effective when there are earth Digimon.","他們是使用大量雷屬性數碼寶貝的隊伍
+用土屬性的數碼寶貝應該會很有利","","전기 계열 디지몬을 많이 쓰는 팀이네
+땅 계열 디지몬이 있으면 유리하게 될 것 같아","Das Team mit den Elektro-Digimon?
+Erd-Digimon sind effektiv dagegen."
+1320,"","Territory Capture: Cat Ear","領域爭奪戰：萌萌貓耳","","엠블럼 쟁탈전 : 캣 이어","Revierübernahme: Cat Ear"
+1321,"","Fei","菲","","페이","Fei"
+1322,"","Cat Ear is attempting to occupy part of EDEN.
+You can take care of it, right?","打算佔據EDEN一部分的
+「萌萌貓耳」似乎行動了
+該你們出場了吧？","","EDEN 일부를 독점하려고
+「캣 이어」가 움직이는 듯 합니더.
+당신들의 차례지예?","Cat Ear versucht, einen Teil von EDEN zu
+belagern. Du kümmerst dich, ja?"
+1323,"","Iki Sukkiri","清爽氣息","","상쾌한 숨 씨","Iki Sukkiri"
+1324,"","If you underestimate cute Digimon, you'll be in
+for a tough battle.","要是看他們的數碼寶貝很可愛就輕視的話
+可是會陷入苦戰的喔","","귀여운 디지몬이라고 얕봤다간
+꽤 고전할 수도 있어","Wenn du niedliche Digimon unterschätzt,
+wird das ein harter Kampf für dich."
+1325,"","Knowledgeable Hacker","情報通的Zaxon駭客","","정보통 잭슨 해커","Gebildeter Hacker"
+1326,"","They use a lot of Vaccine Digimon. Use Data
+ones to get an edge, but beware of the leader.","他們是使用許多疫苗種數碼寶貝的隊伍
+用資料種的數碼寶貝會很有利……但要注意隊長","","백신종 디지몬을 많이 쓰는 팀이네
+데이터종이 유리하지만…리더는 신중하게 골라","Sie benutzen Serum-Dig. Mit Datei-Dig. hast
+du Vorteile, aber Vorsicht vor dem Anführer."
+1340,"","Territory Capture: Masked Maids","領域爭奪戰：假面女僕","","엠블럼 쟁탈전 : 마스크 메이드","Revierübernahme: Masked Maids"
+1341,"","Fei","菲","","페이","Fei"
+1342,"","Everyone’s mocking Zaxon. What’ll happen
+when we’re around? Let them know they’ve
+been warned.","你們這群人，居然敢小看Zaxon……
+就讓他們徹底瞭解一下
+惹惱我們會有什麼樣的下場","","이놈이고 저놈이고, 잭슨을 얕보다니…
+내한테 대들믄 어떻게 되는지
+깨닫게 해드리겠습니더.","Alle veralbern Zaxon. Was passiert, wenn
+wir da sind? Verpass ihnen einen
+Denkzettel."
+1343,"","Bad Headache","頭痛好痛啊","","두통이 아파","Kopfschmerzen"
+1344,"","All these little attacks, making things
+crazy, is infuriating!","居然一直用引發異常狀態的攻擊
+一直用個不停，超火大的啊！","","상태 이상을 일으킬 듯한 공격만
+찔끔찔끔해대니 빡친다고!","Diese ständigen kleinen Angriffe machen
+mich wahnsinnig!"
+1345,"","Knowledgeable Hacker","情報通的Zaxon駭客","","정보통 잭슨 해커","Gebildeter Hacker"
+1346,"","Vaccine type Dark attr. Digimon are coming. 
+Vac. type Light attr. Digimon will really help.","他們有非常多的病毒種及闇屬性的數碼寶貝
+用疫苗種或光屬性的數碼寶貝便十分有利","","바이러스종인 암속성 디지몬을 많이 데리고 다니는 듯해
+백신종에 광속성이라면 압도적으로 유리해","Viele Dunkelheit-Digimon des Virustyps.
+Serum-Licht-Digimon helfen."
+1360,"","Territory Capture: Rabbit Circle","領域爭奪戰：兔籠","","엠블럼 쟁탈전 : 래빗 서클","Revierübernahme: Rabbit Circle"
+1361,"","Fei","菲","","페이","Fei"
+1362,"","The Hacker Team is all over.
+I’ll leave the minions to you.
+Go for it!","這駭客隊伍好像佔據了領域
+嘍囉就交給你負責了
+要好好加油啊","","해커 팀이 에리어를 점거하려고 합니더.
+송사리 상대는 당신들한테 맡기지예.
+분발해주소.","Das Hackerteam ist zerstreut. Ich
+überlasse die Schergen dir. Na los!"
+1363,"","Zaxon Lover Hacker","熱愛Zaxon的駭客","","잭슨을 사랑하는 해커","Zaxon-Anhänger"
+1364,"","I thought you were against Zaxon but my
+Digimon fell asleep at some point.","雖然我之前還在想，為什麼要我去處理Zaxon的敵人
+但在不知不覺間，我的數碼寶貝居然都睡著了","","잭슨의 적 따위 내가 해치우려 했는데
+어느 틈엔가 내 디지몬이 잠들었어","Ich dachte, du bist gegen Zaxon. Aber
+mein Digimon ist eingeschlafen."
+1365,"","Knowledgeable Hacker","情報通的Zaxon駭客","","정보통 잭슨 해커","Gebildeter Hacker"
+1366,"","Using a lot of Data Digimon, I see.
+Virus Digimon would be helpful.","他們是使用許多資料種數碼寶貝的隊伍
+用病毒種的數碼寶貝會很有利","","데이터종 디지몬을 많이 쓰는 팀이네
+바이러스종 디지몬이 있으면 유리할 거야","Viele Datei-Digimon, wie ich sehe.
+Virus-Digimon wären nützlich."
+1380,"","Territory Capture: Dust Alliance","領域爭奪戰：塵埃同盟","","엠블럼 쟁탈전 : 더스트 동맹","Revierübernahme: Dust Alliance"
+1381,"","Fei","菲","","페이","Fei"
+1382,"","Dust Alliance is ruining this area.
+I don’t have time for these kids.
+Take care of them all!","塵埃同盟似乎在領域內大鬧
+但我沒有空陪小鬼們玩
+就拜託你們去應付他們啦","","더스트 동맹이 에리어를 휘젓고 있습니더.
+얼라를 상대할 여유는 없으니께
+당신들이 상대하고 오소.","Dust Alliance ruiniert diese Gegend. Ich
+habe keine Zeit für diese Kiddies.
+Erledige sie alle!"
+1383,"","Micchi","小滿","","밋치","Micchi"
+1384,"","That’s a team we don’t want to fight.
+Why do kids like a mess like this?","他們是讓人很不想應付的隊伍之一
+為什麼小孩子會這麼喜歡髒東西呢……","","상대하고 싶지 않은 팀 중 하나네
+애들은 어째서 이렇게 더러운 것을 좋아하는 걸까…","Gegen das Team wollen wir nicht kämpfen.
+Warum mögen Kinder solches Chaos?"
+1385,"","Knowledgeable Hacker","情報通的Zaxon駭客","","정보통 잭슨 해커","Gebildeter Hacker"
+1386,"","Nothing but Virus abnormal status
+attacks. Use Vaccine Digimon to counter.","他們使用病毒種數碼寶貝，而且都用異常狀態攻擊
+需要帶疫苗種數碼寶貝跟做好異常狀態的對策","","바이러스종으로 상태 이상 공격만 해오는 모양이야
+백신종 디지몬에게 상태 이상 대책이 필요하겠네","Nur Virus-Statusleiden. Kontere sie mit
+Serum-Digimon."
+1400,"","Territory Capture: Spike & Shield","領域爭奪戰：尖刺與大盾","","엠블럼 쟁탈전 : 스파이크&실드","Revierübernahme: Spike & Shield"
+1401,"","Fei","菲","","페이","Fei"
+1402,"","I hate fighting idiots, be they octopus
+or scallops. Teach them that they don’t
+belong in Kowloon.","我不知道他們是章魚還是扇貝啦
+但我沒興趣當笨蛋的對手
+教教他們，這Kowloon是屬於誰的吧","","문언지 가리빈지 모르겠는디
+바보를 상대하는 건 취미가 아니니
+쿠롱이 누구 것인지 가르쳐주소.","Ich kämpfe nicht gern gegen Nichtsnutze,
+Tintenfische oder sonst was. Zeig ihnen,
+dass sie nicht nach Kowloon gehören."
+1403,"","Home Security Guard","自家警衛","","자택경비원","Haushüter"
+1404,"","It would have been a cinch for me, but I
+am pretty sick. Next time in Hudie?","要是我出場的話就能更快解決
+但我現在狀況不好，這次就讓給hudie吧","","내가 나서면 손쉽겠지만
+지금 컨디션이 안 좋으니 이번에는 후디에에게 양보하지","Wär leicht für mich gewesen, aber ich
+bin krank. Nächstes Mal bei Hudie?"
+1405,"","Knowledgeable Hacker","情報通的Zaxon駭客","","정보통 잭슨 해커","Gebildeter Hacker"
+1406,"","Lots of Physics Digimon, so Magic will
+work. Use Instant Death attacks.","他們有很多物理型的數碼寶貝，用魔法會很有效
+先做好即死攻擊的對策會比較好喔","","물리형 디지몬이 많으니까 마법이 유효한 모양이야
+즉사 공격에 대해선 대책을 세워두는 편이 좋을 거야","Viele physische Digimon, also wird Magie
+klappen. Nutze Soforttod-Angriffe."
+1420,"","Territory Capture: Dinosaurists","領域爭奪戰：恐龍教","","엠블럼 쟁탈전 : 다이노소어교","Revierübernahme: Dinosauristen"
+1421,"","Fei","菲","","페이","Fei"
+1422,"","So many idiots. My head hurts. Yuugo
+shouldn’t dirty his hands with this.
+Leaving it to you.","笨蛋實在太多，我頭都痛了……
+但這也勞煩YUGO大人的貴手
+這事就拜託你們啦","","바보가 많아서 머리가 아파…
+유고 씨의 아름다운 손을 번거롭게 할 수는
+없으니 당신들에게 맡기지요.","So viele Trottel. Mein Kopf. Yuugo
+sollte sich damit nicht herumschlagen.
+Ich überlasse das dir."
+1423,"","NEET Taro","尼特太郎","","니트타로","NEET Taro"
+1424,"","That team used a lot of big Digimon,
+like dinosaurs. Looks pretty powerful!","他們是用恐龍大小的巨大數碼寶貝的隊
+很有魄力，好像很強喔","","공룡 같은 커다란 디지몬을 사용하는 팀이다
+뭔가 박력 있어서 강해 보였어","Das Team benutzt große Digimon, wie
+Dinosaurier. Sieht stark aus!"
+1425,"","Knowledgeable Hacker","情報通的Zaxon駭客","","정보통 잭슨 해커","Gebildeter Hacker"
+1426,"","The Digimon balance is good, so strategy
+is hard. Free Digimon are better.","他們有著相當平衡的隊伍，不好採取對策
+但用自由種就能不用在意相性來進行戰鬥","","종족을 밸런스 좋게 갖추고 있으니까 대책을 세우기 어려울지도
+프리종이라면 상성에 신경 쓰지 않고 싸울 수 있어","Verschiedenste Digimon, also ist die
+Strategie schwer. Freie sind besser."
+1440,"","Territory Capture: Akiba Flannel","領域爭奪戰：秋葉格紋","","엠블럼 쟁탈전 : 아키바 플란넬","Revierübernahme: Akiba Flannel"
+1441,"","Fei","菲","","페이","Fei"
+1442,"","The more idiots in Kowloon, the more
+work! That’s what you’re here for!
+Flatten ‘em out!","Kowloon的笨蛋增加，工作也就增加了真是困擾
+就是為了這種時候才找你們的吧？
+麻煩你們去做準備喔","","쿠롱에 바보가 늘면 일이 늘어서 곤란합니더.
+이런 때를 위한 당신들이재?
+사전 작업은 맡기겠소.","Je mehr Deppen in Kowloon, desto mehr
+Arbeit! Dazu bist du doch hier!
+Mach sie platt!"
+1443,"","Gorizo","哥利佐","","고리조","Gorizo"
+1444,"","These are tougher than I thought. Risky.
+Getting angry, remembering our losses!","這群傢伙比想像中還強還棘手
+一想起輸給他們我就好不爽！","","이 녀석들, 상상 이상으로 강해서 성가셔
+졌을 때의 일이 떠올라서 화가나!","Die sind zäher als gedacht. Riskant.
+Ich denke an unsere Verluste!"
+1445,"","Knowledgeable Hacker","情報通的Zaxon駭客","","정보통 잭슨 해커","Gebildeter Hacker"
+1446,"","Touch team with good support skills.
+Cut that off, and we can win.","他們是能活用輔助技能的強悍隊伍
+只要封鎖住輔助技能，應該能打得比較輕鬆","","서포트 스킬을 잘 다루는 강한 팀인 모양이야
+서포트 스킬을 막으면 싸우기 쉬울 듯해","Zähes Team mit guter Unterstützung.
+Blockier die, dann können wir gewinnen."
+1460,"","Territory Capture: Legend Angels","領域爭奪戰：傳說天使","","엠블럼 쟁탈전 : 레전드 천사","Revierübernahme: Legend Angels"
+1461,"","Fei","菲","","페이","Fei"
+1462,"","I love these hackers. I want to handle
+them myself, but you can handle them.
+Crush their pretty faces.","我最喜歡這種駭客了
+雖然我想親自出手，但就交給你們了
+把他們的美麗臉孔給狠狠打爛吧","","이런 해커는 내가 가장 좋아해서
+내가 직접 나서고 싶지만 맡기지예.
+녀석들의 예쁜 얼굴, 아작내버리소.","Ich liebe diese Hacker. Ich wollte sie
+selber fertigmachen, aber du darfst.
+Gib ihnen aufs Gesicht."
+1463,"","Barbée","芭比","","바비","Barbée"
+1464,"","Using a lot of godlike Digimon. And
+those Mega Digimon are really tough.","他們好像都用神聖的數碼寶貝
+也有究極體在，是很強的隊伍喔","","뭔가 성스러운 디지몬만 사용하는 모양이야
+궁극체인 디지몬도 있고 강한 팀이야","Viele gottgleiche Digimon. Und die
+Mega-Digimon sind harte Brocken."
+1465,"","Knowledgeable Hacker","情報通的Zaxon駭客","","정보통 잭슨 해커","Gebildeter Hacker"
+1466,"","Using a lot of tough Vaccine Digimon.
+Data Digimon would be helpful.","他們是使用許多強大疫苗種數碼寶貝的隊伍
+用資料種的數碼寶貝會很有利","","백신종의 강한 디지몬을 많이 사용하는 팀이네
+데이터종의 디지몬이 있으면 유리하게 될 거야","Viele zähe Serum-Digimon. Datei-Digimon
+wären hier nützlich."
+1480,"","Territory Capture: Steam Dealer","領域爭奪戰：蒸氣領薪族","","엠블럼 쟁탈전 : 스팀리맨","Revierübernahme: Steam Dealers"
+1481,"","Fei","菲","","페이","Fei"
+1482,"","These weird hackers are lording over
+EDEN. Jimiken was enough of a jerk.
+Finish them off.","EDEN裡有越來越多打扮奇特的駭客了
+那種假貨，光有吉米肯一個就夠多了
+去把他們徹底擊倒吧","","개그 해커팀이 EDEN에 활개 치고 있습니더.
+짝퉁은 지미켄 하나도 충분히 많지예.
+철저하게 응징해버리도록 하소.","Komische Hacker, die sich in EDEN
+aufführen. Jimiken hat schon gereicht.
+Mach sie fertig."
+1483,"","Terry @ Training","特里@特訓中","","테리@특훈중","Terry: Training"
+1484,"","That hacker’s been around a long time.
+Looks like he learned some new tricks.","好像是很久以前就在的資深駭客
+但好像被人打倒了，進行相當多的訓練……","","상당히 전부터 있던 화석 해커네
+누군가에게 당하고 난 후 상당히 수련한 모양이지만…","Der Hacker ist schon lange Zeit
+unterwegs. Hat wohl neue Tricks gelernt."
+1485,"","Knowledgeable Hacker","情報通的Zaxon駭客","","정보통 잭슨 해커","Gebildeter Hacker"
+1486,"","Lots of powerfully defensive Digimon. If
+there was some way to damage them...","他們使用許多高DEF的數碼寶貝
+只要有能製造損傷的手段便能輕鬆戰鬥","","방어력이 높은 디지몬이 많은 모양이야
+대미지를 줄 수단만 있다면 싸우기 쉬울 거야","Viele starke Defensivdigimon. Wenn du
+denen irgendwie schaden kannst ..."
+1500,"","Correct the Young At Heart","懲罰「童心」","","「하트 오브 차일드」를 응징해줘","Zeig es Young at Heart"
+1501,"","Mirei Mikagura","御神樂米蕾","","미카구라 미레이","Mirei Mikagura"
+1502,"","Bad hackers are lording it over cyber-
+space. They must be thinking they’re hot
+Use Domination Battles to run them off.","邪惡的駭客隊伍似乎在電腦世界內擴大勢力
+難道他們以為自己是優秀的駭客嗎？
+用“鎮壓戰鬥”給他們好看吧","","전뇌세계에서 나쁜 해커팀이 활개 치는 모양이야.
+자신들이 우수한 해커라고 생각하는 걸까?
+""도미네이션 배틀""로 깨닫게 해줘.","Böse Hacker stolzieren im Cyberspace
+herum. Nutze Dominanzkämpfe, um sie
+zu vertreiben."
+1503,"","Jerk","野生男子","","야생남","Trottel"
+1504,"","We tried, but lost... =(","我試著挑戰看看卻輸了……orz","","도전해봤지만 져버렸어…orz","Wir haben es versucht, aber verloren :("
+1505,"","Takkun","小拓","","탓군","Takkun"
+1506,"","They’re using Champions? That strong?","他們不是都用成熟期的嗎？　有那麼強嗎？","","저 녀석들 성숙기 같은 걸 쓰잖아? 그렇게 강해?","Die haben Champions? So stark?"
+1507,"","Contact friends.","聯絡夥伴","","동료들에게 연락하자.","Rede mit Freunden."
+1508,"","Take out hacker boss","打倒敵方駭客隊伍的首領","","적 해커 팀의 보스를 쓰러뜨리자.","Besiege Hackerboss."
+1509,"","Report on case status.","報告委託完成","","의뢰달성을 보고하자","Melde den Fallstatus."
+1520,"","Correct Black Silver","懲罰「黑銀」","","「블랙 실버」를 응징해줘","Zeig es Black Silver"
+1521,"","Mirei Mikagura","御神樂米蕾","","미카구라 미레이","Mirei Mikagura"
+1522,"","There are some older hackers in EDEN too
+What’ll happen if we let them get away
+with it? Teach them a lesson.","EDEN裡好像有一群很有活力的老人駭客……
+但就算是老人，也要讓他們知道……
+太過胡來會有什麼下場，給他們點教訓吧","","EDEN에 기운 넘치는 노인 해커들이 있는 모양이야…
+노인이라 해도 장난이 지나치면
+어떻게 되는지…깨닫게 해줬으면 해.","Es gibt auch ältere Hacker in EDEN. Die
+dürfen sich nicht alles erlauben.
+Erteile ihnen eine Lektion."
+1523,"","Snow Girl","冰雪女孩","","눈걸","Schneemädchen"
+1524,"","Really tough for an antique Digimon","明明是老舊的數碼寶貝卻意外的厲害呢……","","케케묵은 디지몬 주제에 의외로 강하네…","Echt zäh für ein uraltes Digimon"
+1525,"","I’m a Sukiyaki Eater","吃壽喜燒人","","스키야키 먹는맨","Sukiyaki-Fan"
+1526,"","Those oldsters are too good.","那爺爺也太有活力了啦","","그 할아버지들 기운이 너무 넘친다고","Diese alten Hasen sind zu gut."
+1527,"","Contact friends.","聯絡夥伴","","동료들에게 연락하자.","Rede mit Freunden."
+1528,"","Take out hacker boss","打倒敵方駭客隊伍的首領","","적 해커 팀의 보스를 쓰러뜨리자.","Besiege Hackerboss."
+1529,"","Report on case status.","報告委託完成","","의뢰달성을 보고하자.","Melde den Fallstatus."
+1540,"","Teach Fire Powers a lesson.","懲罰「火焰熱力」","","「파이어 파워즈」를 응징해줘","Erteile Fire Power eine Lektion."
+1541,"","Mirei Mikagura","御神樂米蕾","","미카구라 미레이","Mirei Mikagura"
+1542,"","This one hacker team is pretty hot.
+Teach them a lesson, and EDEN will cool
+down a little, right?","好像有群讓人很受不了的駭客在……
+去懲罰他們一下的話，EDEN會不會
+涼快一些呢？","","상당히 숨 막히게 더운 해커 팀이 있는 모양이네…
+따끔한 맛을 보여주면, EDEN도 조금은 시원해
+지지 않을까?","Dieses Hackerteam führt sich ziemlich
+auf. Erteile ihnen eine Lektion, dann
+ist wieder etwas Ruhe, ja?"
+1543,"","Shikibu Purple","紫色式部","","퍼플시키부","Shikibu Purple"
+1544,"","They heat things up!","那群人光是存在就讓人熱得要命啊！","","그 녀석들이 있는 것만으로 숨 막힌다고!","Die drehen voll auf!"
+1545,"","Nameless Gonta","無名欣太","","이름 없는 곤타","Namenloser Gonta"
+1546,"","I want to see who'll win!","哪邊會贏呢，好精彩喔！！","","어느 쪽이 이길지 이거 볼만하겠네!!","Ich will sehen, wer gewinnt!"
+1547,"","Contact friends.","聯絡夥伴","","동료들에게 연락하자.","Rede mit Freunden."
+1548,"","Take out hacker boss","打倒敵方駭客隊伍的首領","","적 해커 팀의 보스를 쓰러뜨리자.","Besiege Hackerboss."
+1549,"","Report on case status.","報告委託完成","","의뢰달성을 보고하자.","Melde den Fallstatus."
+1560,"","Teach Spread Wings a lesson.","懲罰「展翅高飛隊」","","「날개 편 부대」를 응징해줘","Erteile Spread Wings eine Lektion."
+1561,"","Mirei Mikagura","御神樂米蕾","","미카구라 미레이","Mirei Mikagura"
+1562,"","Another group of nasty hackers in EDEN.
+Can you lend a hand?","EDEN裡好像又出現壞駭客隊伍了
+能拜託你嗎？","","또 EDEN에 질 나쁜 해커 팀이
+나타난 모양이야. 부탁할 수 있을까?","Wieder eine Gruppe fieser Hacker in
+EDEN. Kannst du helfen?"
+1563,"","Internet Surfer","網路瀏覽員","","인터넷서퍼","Internetsurfer"
+1564,"","Those beast Digimon were tough!","他們有像動物的數碼寶貝，超強的喔～","","그 녀석들의 짐승 같은 디지몬, 진심 강했어~","Diese Tier-Digimon waren zäh!"
+1565,"","Aaaaaaah!","啊啊啊啊","","아아아아","Aaaaaah!"
+1566,"","Idiot! They’re using bird Digimon. LOL","樓上鍵盤大濕，他們用的是像鳥的數碼寶貝啦呵呵","","낚시 수고ㅋ 그 녀석들 새 같은 디지몬 사용하그등ㅋ","Trottel! Sie benutzen Vogel-Digimon. LOL!"
+1567,"","Contact friends.","聯絡夥伴","","동료들에게 연락하자.","Rede mit Freunden."
+1568,"","Take out hacker boss","打倒敵方駭客隊伍的首領","","적 해커 팀의 보스를 쓰러뜨리자.","Besiege Hackerboss."
+1569,"","Report on case status.","報告委託完成","","의뢰달성을 보고하자.","Melde den Fallstatus."
+1580,"","Teach Forest Girls a lesson.","懲罰「森林女孩」","","「포레스트 걸스」를 응징해줘","Erteile Forest Girls eine Lektion."
+1581,"","Mirei Mikagura","御神樂米蕾","","미카구라 미레이","Mirei Mikagura"
+1582,"","We just can’t get rid of these bad hackers.
+You need to teach them a lesson.","EDEN裡怎麼總是會有壞駭客隊伍啊
+能用你的力量給他們點教訓吧","","아무래도, EDEN에서 나쁜 해커들은
+없어지지 않는 모양이네.
+당신의 힘으로 녀석들에게 따끔한 맛을 보여줬으면 해.","Wir werden diese fiesen Hacker einfach
+nicht los. Du musst ihnen eine Lektion
+erteilen."
+1583,"","Self-styled gal @ cautionary","自稱女孩@自重中","","자칭갸루@자중하는 중","Mädchen: vorsichtig"
+1584,"","What a joke! Using Plant Digimon?! LOL","他們都用草木的數碼寶貝，簡直要長草了","","이거 풀나겠네ㅋ 풀 디지몬만 써대니ㅋㅋㅋ","Was ein Witz! Pflanzen-Digimon?! LOL!"
+1585,"","Cool Guy","酷哥","","쿨가이","Cooler Typ"
+1586,"","That last comment? Ugh.","樓上超無聊……","","위 댓글 쓸모없네…","Die letzte Bemerkung da? Boah."
+1587,"","Contact friends.","聯絡夥伴","","동료들에게 연락하자.","Rede mit Freunden."
+1588,"","Take out hacker boss","打倒敵方駭客隊伍的首領","","적 해커 팀의 보스를 쓰러뜨리자.","Besiege Hackerboss."
+1589,"","Report on case status.","報告委託完成","","의뢰달성을 보고하자.","Melde den Fallstatus."
+1600,"","Teach Ocean Animals a lesson.","懲罰「海洋動物」","","「오션 애니멀즈」를 응징해줘","Erteile Ocean Animals eine Lektion."
+1601,"","Mirei Mikagura","御神樂米蕾","","미카구라 미레이","Mirei Mikagura"
+1602,"","Cute name, but they are some nasty
+hackers. Teach them a lesson, and save
+EDEN’s Digimon.","雖然名字很可愛，但實際上是一群
+很壞的駭客隊伍喔。為了EDEN的
+數碼寶貝們，去懲罰他們吧","","귀여운 듯한 이름이지만, 실제로 하는 짓을 보면
+질 나쁜 해커들이야. EDEN의 디지몬들을 위해
+조용하게 만들어줘.","Niedlicher Name, aber die sind ziemlich
+gemein. Erteile ihnen eine Lektion und
+rette die Digimon von EDEN."
+1603,"","Lippy Bear","那美噗","","핥는푸","Vorlauter Bär"
+1604,"","The Water Digimon are just minions.","他們的水屬性數碼寶貝不過是嘍囉","","그 녀석들의 물속성 디지몬 따위 결국 잡몹이야","Die Wasser-Digimon sind nur Diener."
+1605,"","Geisha Apprentice","見習舞者","","견습기생","Angehende Geisha"
+1606,"","Their minions are Plant Digimon?!","他們不是有弱小的木屬性數碼寶貝嗎？！","","그 녀석들이 잡몹이라니 풀속성 디지몬 소지자?!","Ihre Diener sind Pflanzen-Digimon?!"
+1607,"","Contact friends.","聯絡夥伴","","동료들에게 연락하자.","Rede mit Freunden."
+1608,"","Take out hacker boss","打倒敵方駭客隊伍的首領","","적 해커 팀의 보스를 쓰러뜨리자.","Besiege Hackerboss."
+1609,"","Report on case status.","報告委託完成","","의뢰달성을 보고하자.","Melde den Fallstatus."
+1620,"","Teach 101 a lesson.","懲罰「101」","","「원 오 원」을 응징해줘","Erteile 101 eine Lektion."
+1621,"","Mirei Mikagura","御神樂米蕾","","미카구라 미레이","Mirei Mikagura"
+1622,"","Another Domination Battle.
+These hackers use fierce Digimon.
+Stay on your guard.","又有要進行鎮壓戰鬥的委託喔
+這次是使用猙獰數碼寶貝的駭客
+要當心喔","","또, 도미네이션 배틀 의뢰야.
+다음은 사나운 디지몬을 사용하는 해커들이야.
+방심하지 마.","Wieder ein Dominanzkampf. Diese Hacker
+nutzen wilde Digimon. Bleib wachsam."
+1623,"","Cat Freak","貓奴","","고양이마니아","Katzennarr"
+1624,"","Those beast-like Digimon are too tough. LOL","他們的野獸型數碼寶貝太強了啦","","그 녀석들의 짐승 같은 디지몬 너무 강해서 웃었다ㅋ","Diese Digimonbestien sind zu schwer. LOL"
+1625,"","Lala, Animal Lover","熱愛動物的拉拉","","동물 좋아하는 라라","Lala, Tierliebhaberin"
+1626,"","It’s Beast Time! (‘O’)","動物時代來啦──────(゜∀゜)──────！！","","짐승의 시대 왔다――――――――――――!!","Bestialische Zeiten brechen an!"
+1627,"","Contact friends.","聯絡夥伴","","동료들에게 연락하자.","Rede mit Freunden."
+1628,"","Take out hacker boss","打倒敵方駭客隊伍的首領","","적 해커 팀의 보스를 쓰러뜨리자.","Besiege Hackerboss."
+1629,"","Report on case status.","報告委託完成","","의뢰달성을 보고하자.","Melde den Fallstatus."
+1640,"","Teach Muscle Gym a lesson.","懲罰「肌肉健身房」","","「머슬 짐」을 응징해줘","Erteile Muscle Gym eine Lektion."
+1641,"","Mirei Mikagura","御神樂米蕾","","미카구라 미레이","Mirei Mikagura"
+1642,"","You like muscles? Never mind...
+More bad hackers on the scene.
+Teach them all a lesson.","你喜歡肌肉嗎？　……不過無所謂
+又有壞駭客出現了
+去懲罰他們所有人吧","","너, 근육은 좋아해? …뭐 아무래도 상관없지만
+또 질 나쁜 해커들이 나타났어.
+전원 한꺼번에 따끔한 맛을 보여줘.","Du magst Muckis? Egal ... wieder fiese
+Hacker unterwegs. Erteile ihnen allen
+eine Lektion."
+1643,"","Shopkeeper","商店店員","","숍점원","Ladenbesitzerin"
+1644,"","I should drink protein and buff up too.","我是不是也該喝點高蛋白來鍛鍊一下呢","","나도 프로틴 마시면서 단련해볼까","Ich sollte auch Muckis ansetzen."
+1645,"","Horse Bone","沒用咖","","말뼈다귀","Pferdeknochen"
+1646,"","All those calories and you’ll chub up.","要是只攝取高卡路里的東西會胖喔","","고칼로리인 것만 섭취하면 살쪄","Bei so viel Kalorien wirst du dick."
+1647,"","Contact friends.","聯絡夥伴","","동료들에게 연락하자.","Rede mit Freunden."
+1648,"","Take out hacker boss","打倒敵方駭客隊伍的首領","","적 해커 팀의 보스를 쓰러뜨리자.","Besiege Hackerboss."
+1649,"","Report on case status.","報告委託完成","","의뢰달성을 보고하자.","Melde den Fallstatus."
+1660,"","Teach Nakano Stripes a Lesson","懲罰「中野條紋」","","「나카노 스트라이프스」를 응징해줘","Erteile Nakano Stripes eine Lektion"
+1661,"","Mirei Mikagura","御神樂米蕾","","미카구라 미레이","Mirei Mikagura"
+1662,"","Digimon will never be safe as long as
+there are nasty hackers in EDEN. I’m
+leaving it to you.","只要EDEN裡還有壞駭客在
+數碼寶貝就沒有安穩的一天
+去吧，這次也拜託了喔","","EDEN에서 나쁜 해커가 없어지지 않는 한
+디지몬들에게 평온은 없어.
+자, 또 잘 부탁해.","Solange es fiese Hacker in EDEN gibt,
+sind Digimon nicht sicher. Ich überlasse
+das dir."
+1663,"","Bamboo Fan","竹林老翁","","뱀부옹","Bambusfan"
+1664,"","Those stripes are making me dizzy!","光看那些一條一條的條紋，我頭都要暈了……","","그 줄무늬를 보는 것만으로도 현기증이 나…","Von den Streifen wird mir schwindlig!"
+1665,"","Kirarin @ New Coed","亮晶晶＠最近DJ出道","","키라링@최근JD데뷔","Kirarin: neue Studentin"
+1666,"","Now, the Nakano Stripes are up?","終於要打倒中野條紋了！","","마침내 나카노 스트라이프스 무너지나!","So, die Nakano Stripes sind dran?"
+1667,"","Contact friends.","聯絡夥伴","","동료들에게 연락하자.","Rede mit Freunden."
+1668,"","Take out hacker boss","打倒敵方駭客隊伍的首領","","적 해커 팀의 보스를 쓰러뜨리자.","Besiege Hackerboss."
+1669,"","Report on case status.","報告委託完成","","의뢰달성을 보고하자.","Melde den Fallstatus."
+1680,"","Teach the Wheel Lovers a lesson.","懲罰「輪圈愛好家」","","「휠 애호가」를 응징해줘","Erteile Wheel Lovers eine Lektion."
+1681,"","Mirei Mikagura","御神樂米蕾","","미카구라 미레이","Mirei Mikagura"
+1682,"","Beat back the bad hackers for the
+Digimon. It’s your destiny. Go on,
+they’re back.","為了數碼寶貝，討伐邪惡駭客……
+這也是你的命運喔
+來，出發吧，他們又出現了喔","","디지몬들을 위해, 나쁜 해커를 토벌한다…
+이것도, 당신의 운명이야.
+자, 가도록 해. 또 녀석들이 나타났어.","Schlage die fiesen Hacker zum Wohl der
+Digimon. Das ist deine Bestimmung. Na
+los, sie sind wieder da."
+1683,"","Mitsuboshi Housewife","三星主婦","","별3개주부","Hausfrau aus Mitsuboshi"
+1684,"","Those Machine Digimon are noisy!!","他們的機械系數碼寶貝吵死啦！！","","그 녀석들의 기계류 디지몬 너무 시끄러워!!","Diese Maschinen-Digimon machen Radau!"
+1685,"","I’m a Sushi Eater","愛吃壽司人","","초밥 먹는맨","Sushi-Fan"
+1686,"","Go for it!","上吧上吧","","에잉 쯔쯔쯧","Tob dich aus!"
+1687,"","Contact friends.","聯絡夥伴","","동료들에게 연락하자.","Rede mit Freunden."
+1688,"","Take out hacker boss","打倒敵方駭客隊伍的首領","","적 해커 팀의 보스를 쓰러뜨리자.","Besiege Hackerboss."
+1689,"","Report on case status.","報告委託完成","","의뢰달성을 보고하자.","Melde den Fallstatus."
+1700,"","Anti-Agumon League!","VS亞古獸軍團！","","VS 아구몬 군단!","Anti-Agumon-Liga!"
+1701,"","Mirei Mikagura","御神樂米蕾","","미카구라 미레이","Mirei Mikagura"
+1702,"","The Digimon in cyberspace are going
+crazy again. Could be that weird
+phenomenon. Subdue: Domination Battle.","電腦世界似乎有數碼寶貝正在大鬧
+這也是奇怪現象的影響嗎……
+請用“鎮壓戰鬥”讓他們停下來吧","","전뇌세계에서 디지몬이 날뛰고 있는 모양이야.
+이것도, 괴현상의 영향인 걸까…
+""도미네이션 배틀""로 진정시켜줘.","Die Digimon im Cyberspace drehen wieder
+durch. Könnte dieses Phänomen sein.
+Zähme sie durch Dominanzkämpfe."
+1703,"","Informed Hacker","情報通的駭客","","정보통 해커","Informierter Hacker"
+1704,"","Agumon, Patamon, and DemiDevimon are acting up.","這是指亞古獸、巴達獸、小惡魔獸在大鬧吧","","아구몬, 파닥몬, 피코데블몬이 나쁜 짓을 하는 건이네요","Agumon, Patamon und DemiDevimon stiften
+Ärger."
+1705,"","Nurse @ Newbie Hacker","護理師@新手駭客","","간호사@초보해커","Krankenschwester: Hacker-Neuling"
+1706,"","All kinds of Digimon there. Find the
+right balance to attack with!","好像有全種族的數碼寶貝在喔
+用適合相性的數碼寶貝來戰鬥吧！","","모든 종족의 디지몬이 있는 모양이네
+상성이 좋은 디지몬을 싸우게 하면 이길 수 있어!","Verschiedenste Digimon. Finde die
+richtige Mischung für den Angriff!"
+1707,"","Contact friends.","聯絡夥伴","","동료들에게 연락하자.","Rede mit Freunden."
+1708,"","Take out hacker boss","打倒敵方駭客隊伍的首領","","적 해커 팀의 보스를 쓰러뜨리자.","Besiege Hackerboss."
+1709,"","Report on case status.","報告委託完成","","의뢰달성을 보고하자.","Melde den Fallstatus."
+1720,"","Anti-Guardromon League!","VS守衛獸軍團！","","VS 가드로몬 군단!","Anti-Guardromon-Liga!"
+1721,"","Mirei Mikagura","御神樂米蕾","","미카구라 미레이","Mirei Mikagura"
+1722,"","More Digimon running amok! Calm them
+with a Domination Battle.","又出現狂暴化的數碼寶貝了
+用鎮壓戰鬥讓他們老實點","","또 흉포화된 디지몬이 나타났어.
+도미네이션 배틀로 얌전하게 만들어줘.","Mehr Digimon drehen durch! Beruhige sie
+mit einem Dominanzkampf."
+1723,"","Informed Hacker","情報通的駭客","","정보통 해커","Informierter Hacker"
+1724,"","Guardromon and Hagurumon are acting up.","這是指守衛獸跟齒輪獸在大鬧吧","","가드로몬과 톱니몬들이 나쁜 짓을 하는 건이네요","Guardromon und Hagurumon stiften Ärger."
+1725,"","Full-speed MAX","幹勁MAX君","","의욕MAX군","Volles Tempo"
+1726,"","All virus? Take ‘em out with vaccines! Easy!","全都是病毒種啊！　用疫苗種來對抗應該很輕鬆吧？","","전부 바이러스잖아! 백신으로 대항하면 여유 아냐?","Nur Virus-Digimon? Besiege sie mit
+Serum-Digimon! Einfach!"
+1727,"","Contact friends.","聯絡夥伴","","동료들에게 연락하자.","Rede mit Freunden."
+1728,"","Take out hacker boss","打倒敵方駭客隊伍的首領","","적 해커 팀의 보스를 쓰러뜨리자.","Besiege Hackerboss."
+1729,"","Report on case status.","報告委託完成","","의뢰달성을 보고하자.","Melde den Fallstatus."
+1740,"","Anti-Devimon League!","VS惡魔獸軍團！","","VS 데블몬 군단!","Anti-Devimon-Liga!"
+1741,"","Mirei Mikagura","御神樂米蕾","","미카구라 미레이","Mirei Mikagura"
+1742,"","A group of Devimon are going crazy
+again. Use a Domination Battle before
+the damages spread.","惡魔獸一夥聚集起來正在大鬧著
+在損害擴大之前，請想點辦法吧
+沒錯，我就是指用鎮壓戰鬥","","데블몬들이 무리 지어서 날뛰는 모양이야.
+피해가 커지기 전에 어떻게든 해줘.
+그래, 도미네이션 배틀로 말이지.","Es drehen wieder Devimon durch. Nutze
+einen Dominanzkampf, bevor noch mehr
+Schaden entsteht."
+1743,"","Informed Hacker","情報通的駭客","","정보통 해커","Informierter Hacker"
+1744,"","Devimon, Ogremon, and Kuwagamon are acting up.","這是指惡魔獸、奧加獸、古加獸在大鬧吧","","데블몬, 우가몬, 쿠가몬이 나쁜 짓을 하는 건이네요","Devimon, Ogremon und Kuwagamon stiften
+Ärger."
+1745,"","Mamemon Fan","最愛豆豆獸","","워매몬 정말 좋아하는 아이","Mamemon-Fan"
+1746,"","Use Data Digimon to wipe ‘em out.","要是帶資料種的數碼寶貝，會全滅的喔～","","데이터 종족 디지몬으로 가면 전멸할 거야~","Nutze Datei-Digimon, um sie umzuhauen."
+1747,"","Contact friends.","聯絡夥伴","","동료들에게 연락하자.","Rede mit Freunden."
+1748,"","Take out hacker boss","打倒敵方駭客隊伍的首領","","적 해커 팀의 보스를 쓰러뜨리자.","Besiege Hackerboss."
+1749,"","Report on case status.","報告委託完成","","의뢰달성을 보고하자.","Melde den Fallstatus."
+1760,"","Anti-MetalGreymon League!","VS機械暴龍獸軍團！","","VS 메탈그레이몬 군단!","Anti-MetalGreymon-Liga!"
+1761,"","Mirei Mikagura","御神樂米蕾","","미카구라 미레이","Mirei Mikagura"
+1762,"","Amok Digimon are taking over. Calm them
+with a Domination Battle.","狂暴化的數碼寶貝佔據了區域
+用鎮壓戰鬥讓他們老實點吧","","흉포화한 디지몬이 에리어를 점거한 모양이야.
+도미네이션 배틀로 얌전하게 만들어줘.","Randalierende Digimon setzen sich durch.
+Beruhige sie mit einem Dominanzkampf."
+1763,"","Informed Hacker","情報通的駭客","","정보통 해커","Informierter Hacker"
+1764,"","MetalGreymon, RizeGreymon,
+and SkullGreymon are acting up.","這是指機械暴龍獸、閃光暴龍獸跟喪屍暴龍獸
+在大鬧吧","","메탈그레이몬, 라이즈그레이몬, 스컬그레이몬이
+나쁜 짓을 하는 건이네요","MetalGreymon, RiseGreymon und
+SkullGreymon stiften Ärger."
+1765,"","DIY Master","DIY大師","","DIY마스터","Bastlermeister"
+1766,"","Take Data Digimon. That’ll help. But
+SkullGreymon knocked me flat.","帶資料種數碼寶貝去的話，一開始會很順利
+但遇到喪屍暴龍獸就會被打得七零八落……","","데이터 종족을 데려가니 그럭저럭 잘 풀렸어.
+하지만 스컬그레이몬에게 엉망진창으로 당했지…","Nimm Datei-Digimon mit. Das wird dir
+helfen. Aber SkullGreymon haut rein."
+1767,"","Contact friends.","聯絡夥伴","","동료들에게 연락하자.","Rede mit Freunden."
+1768,"","Take out hacker boss","打倒敵方駭客隊伍的首領","","적 해커 팀의 보스를 쓰러뜨리자.","Besiege Hackerboss."
+1769,"","Report on case status.","報告委託完成","","의뢰달성을 보고하자.","Melde den Fallstatus."
+1780,"","Anti-WarGrowlmon League!","VS大古拉獸軍團！","","VS 메가로그라우몬 군단!","Anti-WarGrowlmon-Liga!"
+1781,"","Mirei Mikagura","御神樂米蕾","","미카구라 미레이","Mirei Mikagura"
+1782,"","It’s your turn. WarGrowlmon and friends
+are going crazy. Stop them before they
+hurt someone.","該你出場了喔
+大古拉獸一夥失控了
+在他們傷到人前阻止他們","","당신 차례야.
+메가로그라우몬들이 폭주하고 있어.
+누가 다치기 전에 막아줬으면 해.","Du bist dran. WarGrowlmon und Co. drehen
+durch. Halte sie auf, bevor sie jemandem
+etwas tun."
+1783,"","Informed Hacker","情報通的駭客","","정보통 해커","Informierter Hacker"
+1784,"","WarGrowlmon, Rapidmon, and
+Taomon are acting up.","這是指大古拉獸、拉比獸、祭師獸
+在大鬧吧","","메가로그라우몬, 래피드몬, 도사몬이
+나쁜 짓을 하는 건이네요","WarGrowlmon, Rapidmon und Taomon stiften
+Ärger."
+1785,"","Worker","工作獸","","활동몬","Arbeiterin"
+1786,"","All types of Digimon are there.
+And they’re all Ultimate!","好像有所有種族的數碼寶貝喔
+而且還都是完全體～","","모든 종족의 디지몬이 있는 모양이네
+거기다 세대가 완전체인가~…","Alle Digimontypen vorhanden.
+Und alle sind ultra!"
+1787,"","Contact friends.","聯絡夥伴","","동료들에게 연락하자.","Rede mit Freunden."
+1788,"","Take out hacker boss","打倒敵方駭客隊伍的首領","","적 해커 팀의 보스를 쓰러뜨리자.","Besiege Hackerboss."
+1789,"","Report on case status.","報告委託完成","","의뢰달성을 보고하자.","Melde den Fallstatus."
+1800,"","Anti-Mamemon League","VS豆豆獸軍團","","VS 워매몬 군단!","Anti-Mamemon-Liga"
+1801,"","Mirei Mikagura","御神樂米蕾","","미카구라 미레이","Mirei Mikagura"
+1802,"","Now Mamemons are running amok. Stop them
+before things get ugly.","這次是豆豆獸們在大鬧……
+請你在狀況變糟前阻止他們吧","","이번에는 콩알몬들이 날뛰는 모양이네…
+일이 심각해지기 전에 막아줬으면 해.","Jetzt drehen Mamemon durch. Setze dem
+ein Ende, bevor es schlimm wird."
+1803,"","Informed Hacker","情報通的駭客","","정보통 해커","Informierter Hacker"
+1804,"","Mamemon, MetalMamemon,
+and CatchMamemon are acting up.","這是指豆豆獸、鋼鐵豆豆獸、捕捉豆豆獸
+在大鬧吧","","콩알몬, 메탈콩알몬, 캐치콩알몬
+이 나쁜 짓을 하는 건이네요","Mamemon, MetalMamemon und CatchMamemon
+stiften Ärger."
+1805,"","Thief Cat","小偷貓","","도둑고양이","Diebische Katze"
+1806,"","Virus Digimon will cinch it for you!","明明只要帶病毒種的數碼寶貝
+就能輕鬆獲勝的說～！","","바이러스 종족 디지몬을 갖고 있으면 편하게 이겼을 텐데~!","Mit Virus-Digimon hast du das im Sack!"
+1807,"","Contact friends.","聯絡夥伴","","동료들에게 연락하자.","Rede mit Freunden."
+1808,"","Take out hacker boss","打倒敵方駭客隊伍的首領","","적 해커 팀의 보스를 쓰러뜨리자.","Besiege Hackerboss."
+1809,"","Report on case status.","報告委託完成","","의뢰달성을 보고하자.","Melde den Fallstatus."
+1820,"","Anti-Flamedramon League!","VS烈焰獸軍團！","","VS 화염드라몬 군단!","Anti-Flamedramon-Liga!"
+1821,"","Mirei Mikagura","御神樂米蕾","","미카구라 미레이","Mirei Mikagura"
+1822,"","The more Digimon there are, the greater
+the threat. I need you. Use a Domination
+Battle to stop them.","就算是數碼寶貝，數量眾多也會變成威脅……
+我想借助你的力量
+請你用鎮壓戰鬥，來阻止那群孩子吧","","디지몬들도 머릿수가 모이면 위협이 돼…
+당신의 힘을 빌리고 싶어.
+도미네이션 배틀로 그 아이들을 막아줬으면 해.","Je mehr Digimon da sind, desto größer
+die Bedrohung. Halte sie mit einem
+Dominanzkampf auf."
+1823,"","Informed Hacker","情報通的駭客","","정보통 해커","Informierter Hacker"
+1824,"","Flamedramon, Stingmon, and
+Aquilamon are acting up.","這是指烈焰獸、飛蟲獸、亞古拉獸
+在大鬧吧","","화염드라몬, 스팅몬, 아큐라몬이
+나쁜 짓을 하는 건이네요","Flamedramon, Stingmon und Aquilamon
+stiften Ärger."
+1825,"","Miracle Dad","奇蹟大叔","","미라클부모","Heldenhafter Papa"
+1826,"","Lots of Free Digimon...
+Could be hard to fight them.","有著許多自由種呢……
+看來無法依種族針對弱點了","","프리 종족이 모여있네…
+종족에 따른 약점은 없는 모양이야","Viele Freie Digimon ... Das könnte
+schwierig werden."
+1827,"","Contact friends.","聯絡夥伴","","동료들에게 연락하자.","Rede mit Freunden."
+1828,"","Take out hacker boss","打倒敵方駭客隊伍的首領","","적 해커 팀의 보스를 쓰러뜨리자.","Besiege Hackerboss."
+1829,"","Report on case status.","報告委託完成","","의뢰달성을 보고하자.","Melde den Fallstatus."
+1840,"","Anti-Paildramon League!","VS機甲龍獸軍團！","","VS 파일드라몬 군단!","Anti-Paildramon-Liga!"
+1841,"","Mirei Mikagura","御神樂米蕾","","미카구라 미레이","Mirei Mikagura"
+1842,"","This is very urgent, but Paildramons are
+in EDEN now. Use Domination Battles to
+quiet them down.","雖然很抱歉，但這事情很急……
+EDEN內出現了機甲龍獸一夥
+希望你能用鎮壓戰鬥去阻止他們","","서둘러서 미안하지만…
+EDEN에 파일드라몬들이 나타났어.
+도미네이션 배틀로 진정시켜줬으면 해.","Das ist dringend. Paildramon sind jetzt
+in EDEN. Halte sie mit Dominanzkämpfen
+im Zaum."
+1843,"","Informed Hacker","情報通的駭客","","정보통 해커","Informierter Hacker"
+1844,"","Paildramon, BurningGreymon, and
+KendoGarurumon are acting up.","這是指機甲龍獸、炎龍獸、銀狼獸
+在大鬧吧","","파일드라몬, 브리트라몬, 가름몬이
+나쁜 짓을 하는 건이네요","Paildramon, BurningGreymon und
+KendoGarurumon stiften Ärger."
+1845,"","Bunny","小兔兔子","","토끼뿅아이","Hase"
+1846,"","I want to see how you win.","該怎麼打倒可是看點喔","","어떻게 쓰러뜨릴지 보고 싶네","Ich will sehen, wie du gewinnst."
+1847,"","Contact friends.","聯絡夥伴","","동료들에게 연락하자.","Rede mit Freunden."
+1848,"","Take out hacker boss","打倒敵方駭客隊伍的首領","","적 해커 팀의 보스를 쓰러뜨리자.","Besiege Hackerboss."
+1849,"","Report on case status.","報告委託完成","","의뢰달성을 보고하자.","Melde den Fallstatus."
+1860,"","Anti-Imperialdramon League!","VS帝皇龍甲獸軍團！","","VS 황제드라몬 군단!","Anti-Imperialdramon-Liga!"
+1861,"","Mirei Mikagura","御神樂米蕾","","미카구라 미레이","Mirei Mikagura"
+1862,"","We’re in trouble. The Imperialdramons
+are running amok. Teach them a lesson,
+before the damage piles up.","發生了困擾的事情
+帝皇龍甲獸一夥正在大鬧
+請你在被害擴大前，去懲罰一下他們","","곤란한 일이 일어났어.
+황제드라몬들이 날뛰는 모양이야.
+피해가 커지기 전에 응징해줘.","Wir haben Probleme. Die Imperialdramon
+drehen durch. Erteile ihnen eine
+Lektion, bevor sie alles verwüsten."
+1863,"","Informed Hacker","情報通的駭客","","정보통 해커","Informierter Hacker"
+1864,"","Imperialdramon DM, KaiserGreymon, and
+MagnaGarurumon are acting up.","這是指帝皇龍甲獸DM、凱撒暴龍獸、
+鎧甲加魯魯獸在大鬧吧","","황제드라몬DM, 카이젤그레이몬,
+매그너가루몬이 나쁜 짓을 하는 건이네요","Imperialdramon DM, KaiserGreymon und
+MagnaGarurumon stiften Ärger."
+1865,"","JOY Woman","JOY女士","","JOY우먼","Frohe Frau"
+1866,"","Their attributes? None, Fire, and Light.","他們的屬性好像是無、火、光喔","","녀석들의 속성은 무, 불, 빛인 듯해","Ihre Attribute? Keins, Feuer und Licht."
+1867,"","Contact friends.","聯絡夥伴","","동료들에게 연락하자.","Rede mit Freunden."
+1868,"","Take out hacker boss","打倒敵方駭客隊伍的首領","","적 해커 팀의 보스를 쓰러뜨리자.","Besiege Hackerboss."
+1869,"","Report on case status.","報告委託完成","","의뢰달성을 보고하자.","Melde den Fallstatus."
+1880,"","Anti-Imperialdramon League! Again!!","VS帝皇龍甲獸軍團！再現！","","VS 황제드라몬 군단! 다시!!","Anti-Imperialdramon-Liga! Wieder mal!"
+1881,"","Mirei Mikagura","御神樂米蕾","","미카구라 미레이","Mirei Mikagura"
+1882,"","The Imperialdramons are going crazy
+again. This time teach them a real
+lesson before things get out of hand.","……帝皇龍甲獸好像又在大鬧了
+不能再放任下去
+這次一定要徹底教訓他們才行","","……또 황제드라몬이 날뛰는 모양이야.
+이 이상, 가만히 놔둘 수 없어.
+이번에야말로, 철저하게 응징해줘.","Die Imperialdramon drehen wieder durch.
+Setze dieses Mal ein echtes Zeichen,
+bevor das aus dem Ruder läuft."
+1883,"","Informed Hacker","情報通的駭客","","정보통 해커","Informierter Hacker"
+1884,"","Imperialdramon FM is acting up. There’s
+one more Digimon, but what...","這是指帝皇龍甲獸FM在大鬧吧
+另一個數碼寶貝是……　這傢伙是什麼啊……","","황제드라몬FM이 나쁜 짓을 하는 건이네요.
+또 하나 있는 디지몬… 뭐야 이 녀석은…","Imperialdramon FM stiftet Ärger. Es gibt
+noch ein Digimon, aber welches ..."
+1885,"","Game Kids","遊戲小子","","게임키드","Spielkinder"
+1886,"","Hey! Too little info!","喂喂，這情報太少了吧","","어이어이, 정보가 너무 적잖아","He! Das sind nicht genug Infos!"
+1887,"","Contact friends.","聯絡夥伴","","동료들에게 연락하자.","Rede mit Freunden."
+1888,"","Take out hacker boss","打倒敵方駭客隊伍的首領","","적 해커 팀의 보스를 쓰러뜨리자.","Besiege Hackerboss."
+1889,"","Report on case status.","報告委託完成","","의뢰달성을 보고하자.","Melde den Fallstatus."
+1900,"","Beat the evil hackers!","討伐惡劣駭客吧！","","악질 해커를 토벌해라!","Schlag die bösen Hacker!"
+1901,"","Mirei Mikagura","御神樂米蕾","","미카구라 미레이","Mirei Mikagura"
+1902,"","There’s something I want to ask you.
+I’m at the usual place. Come when you can. I’ll explain when we meet.","……我有件事要請你幫忙
+我會直接跟你說明詳情
+有空時就到老地方來吧","","…당신한테 부탁하고 싶은 것이 있어.
+자세한 것은 직접 설명할게.
+시간이 될 때 평소의 그곳으로 와줘.","Ich wollte dich etwas fragen. Ich bin am
+üblichen Platz. Komm, wenn du Zeit hast.
+Ich erkläre dann alles."
+1903,"","Chopped Eel Bowl","鰻魚三吃","","히츠마부시","Wiener Schnitzel"
+1904,"","Who’re the bad hackers?","惡劣駭客是指誰啊？","","악질 해커라니 누구야?","Wer sind die bösen Hacker?"
+1905,"","Nonamemon","無名獸","","이름없는몬","Inkognitomon"
+1906,"","Lots of that in Kowloon.","那種傢伙Kowloon裡有一堆啊","","그런 거 쿠롱에 산더미처럼 있잖아","Da gibt es viele in Kowloon."
+1910,"","Get details from Mirei in the DigiLab","到數碼實驗室聽米蕾說明","","디지랩에서 미레이에게 설명을 듣자.","Erhalte Infos von Mirei im DigiLab."
+1911,"","Head to Under Kowloon Lv. 1","前往Under Kowloon Lv.1","","언더 쿠롱 Lv.1으로 향하자.","Geh zur Ebene 1 in Unter Kowloon."
+1912,"","Report to Mirei in DigiLab","回數碼實驗室跟米蕾報告","","디지랩에서 미레이에게 보고하자.","Melde dich bei Mirei im DigiLab."
+1920,"","Take out Satsuki, the ticket fiend!","討伐最快購票的五月吧！","","티켓 초고속 구입자 사츠키를 토벌해라!","Erledige Satsuki, die Ticket-Besessene!"
+1921,"","Mirei Mikagura","御神樂米蕾","","미카구라 미레이","Mirei Mikagura"
+1922,"","Digimon have found blacklisted hackers.
+On Under Kowloon Lv. 1.
+Your turn! Go get ‘em!","數碼寶貝找出被列入黑名單的駭客了喔
+看來他在Under Kowloon Lv.1
+該你出場了，去吧","","디지몬들이 블랙리스트 해커를 발견했어.
+아무래도 언더 쿠롱 Lv.1에 있는 모양이야.
+당신 차례야. 다녀오도록 해.","Digimon haben Hacker von der schwarzen
+Liste gefunden. Ebene 1 in Unter Kowloon.
+Du bist gefragt! Schnapp sie dir!"
+1923,"","Taxi Driver","計程車司機","","택시드라이버","Taxifahrer"
+1924,"","Is that the ticket fiend?","是傳說可以偷跑拿到票的人吧","","티켓을 플라잉 겟하고 있다는 소문이 도는 사람이네","Ist das die Ticket-Besessene?"
+1925,"","Earl Grey","伯爵茶","","어~얼그레이","Earl Grey"
+1926,"","Aren’t ticket sale times controlled?","咦，票的販售日不是都被管理著嗎？","","어, 티켓 판매시간같은 걸 관리하는 게 아닐까?","Werden Verkaufszeiten nicht gesteuert?"
+1930,"","Head to Under Kowloon Lv. 1","前往Under Kowloon Lv.1","","언더 쿠롱 Lv.1으로 향하자.","Geh zur Ebene 1 in Unter Kowloon."
+1940,"","Beat Juice Lover Daiki!","討伐最愛果汁的大輝吧！","","주스를 정말 좋아하는 다이키를 토벌해라!","Schlag Saftliebhaber Daiki!"
+1941,"","Mirei Mikagura","御神樂米蕾","","미카구라 미레이","Mirei Mikagura"
+1942,"","Digimon have found blacklisted hackers.
+On Kowloon Lv. 1.
+After them, for the Digimon!","數碼寶貝找出被列入黑名單的駭客了喔
+看來他在Kowloon Lv.1
+為了數碼寶貝們，去吧","","디지몬들이 블랙리스트 해커를 발견했어.
+아무래도 쿠롱 Lv.1에 있는 모양이야.
+자, 디지몬들을 위해 다녀오도록 해.","Digimon haben Hacker auf der schwarzen
+Liste gefunden. Auf Ebene 1 von Kowloon.
+Auf sie, zum Wohl der Digimon!"
+1943,"","Asachan","小朝","","아사짱","Asachan"
+1944,"","He was talking about hacks.","這傢伙之前在說什麼密技喔","","이 녀석 숨겨진 기술이 어떻다든가 했었지","Er hat von Hacks geredet."
+1945,"","Piyopon","小雞兔子","","피요퐁","Piyopon"
+1946,"","Hacks? I’ve only heard about juice.","密技？我只有聽過果汁的傳聞啊？","","숨겨진 기술? 나는 주스 이야기 밖에 못 들었는데?","Hacks? Ich weiß nur was von Saft."
+1950,"","Head to Kowloon Lv. 1","前往Kowloon Lv.1","","쿠롱 Lv.1으로 향하자","Geh nach Kowloon, Ebene 1."
+1960,"","Beat the Capsule Fan Hacker Hero!","討伐喜歡轉蛋的駭客廣吧！","","뽑기 좋아하는 해커 히로를 토벌해라!","Schlag Kapselfan-Hacker Hero!"
+1961,"","Mirei Mikagura","御神樂米蕾","","미카구라 미레이","Mirei Mikagura"
+1962,"","Digimon have found blacklisted hackers.
+On Kowloon Lv. 1.
+Help out, for the Digimon!","數碼寶貝找出被列入黑名單的駭客了喔
+看來他在Kowloon Lv.1
+為了數碼寶貝們，請你盡一份力吧","","디지몬들이 블랙리스트 해커를 발견했어.
+아무래도 쿠롱 Lv.1에 있는 모양이야.
+디지몬들을 위해 힘쓰도록 해.","Digimon haben Hacker auf der schwarzen
+Liste gefunden. Auf Ebene 1 von Kowloon.
+Hilf uns, für die Digimon!"
+1963,"","Shark Boy","鯊魚太郎","","사메타로","Haijunge"
+1964,"","That guy always finds rare capsules","這個人轉蛋都會中稀有款，太異常了","","이 사람, 이상할 정도로 뽑기에서 레어를 뽑는 사람이야","Der Typ findet immer seltene Kapseln"
+1965,"","Wildster Friends","暴坊好朋友","","망나니프렌즈","Wilder Freund"
+1966,"","I was proud of that before.","我之前也被他現過","","나한테도 전에 자랑했었어","Früher war ich da stolz drauf."
+1970,"","Head to Kowloon Lv. 1","前往Kowloon Lv.1","","쿠롱 Lv.1으로 향하자.","Geh nach Kowloon, Ebene 1."
+1980,"","Beat Cheating Center Yuuji!","討伐作弊玩家雄二吧！","","치트 게이머 유지를 토벌해라!","Schlag Gamer-Betrüger Yuuji!"
+1981,"","Mirei Mikagura","御神樂米蕾","","미카구라 미레이","Mirei Mikagura"
+1982,"","Digimon have found blacklisted hackers.
+On Under Kowloon Lv. 2.
+The Digimon need you!","數碼寶貝找出被列入黑名單的駭客了喔
+看來他在Under Kowloon Lv.2
+數碼寶貝們需要你的力量喔","","디지몬들이 블랙리스트 해커를 발견했어.
+아무래도 언더 쿠롱 Lv.2에 있는 모양이야.
+디지몬에게는 당신의 힘이 필요해.","Digimon haben Hacker von der schwarzen
+Liste gefunden. Ebene 2 in Unter Kowloon.
+Die Digimon brauchen deine Hilfe!"
+1983,"","Kab (^~^)","Kab（＾ω＾）","","Kab(^~^)","Kab (^.^)"
+1984,"","That’s the cheater we heard about.","這不是謠傳作弊的傢伙嗎","","이 녀석 치트 쓰고 있다는 소문의 녀석이잖아","Das ist der Betrüger."
+1985,"","Lauren","浪玲","","루링","Lauren"
+1986,"","What’s so great about cheating?","真的假的，作弊有什麼好玩的？","","진짜냐? 치트를 쓰는 게 뭐가 재밌는 건데?","Was soll an Schummelei so toll sein?"
+1990,"","Head to Under Kowloon Lv. 2","前往Under Kowloon Lv.2","","언더 쿠롱 Lv.2로 향하자.","Gehe zur Ebene 2 in Unter Kowloon."
+2000,"","Beat Wily Merchant Akinori!","討伐惡毒商人秋則吧！","","악랄한 상인 아키노리를 토벌해라!","Schlag den schlauen Händler Akinori!"
+2001,"","Mirei Mikagura","御神樂米蕾","","미카구라 미레이","Mirei Mikagura"
+2002,"","Digimon have found blacklisted hackers.
+In the Hacker Forum.
+Teach them a solid lesson!","數碼寶貝找出被列入黑名單的駭客了喔
+看來他在駭客討論區
+去徹底教訓教訓他們吧","","디지몬들이 블랙리스트 해커를 발견했어.
+아무래도 해커 포럼에 있는 모양이야.
+철저하게 응징해줬으면 해.","Digimon haben Hacker auf der schwarzen
+Liste gefunden. Im Hackerforum.
+Erteile ihnen eine ordentliche Lektion!"
+2003,"","Up for Anything","得意忘形阿助","","기세타는보조","Für alles zu haben"
+2004,"","You found some rare Digimon!","他很會找稀有數碼寶貝喔","","자주 희귀한 디지몬을 찾는 녀석이네","Du hast seltene Digimon gefunden!"
+2005,"","Moon Pic","月繪","","달그림","Mondbild"
+2006,"","I heard you need tricks to grab them?","我聽說他為了抓數碼寶貝會不擇手段？","","잡기 위해서는 수단을 가리지 않는다고 들었는데?","Man braucht wohl Tricks für die?"
+2010,"","Head to Hacker Forum","前往駭客討論區","","해커 포럼으로 향하자.","Geh zum Hackerforum."
+2020,"","Beat Digi-Art Contributor Rin!","討伐數碼表演上傳者凜吧！","","디지몬 개그영상 업로더 린을 토벌해라!","Schlag Digi-Künstlerin Rin!"
+2021,"","Mirei Mikagura","御神樂米蕾","","미카구라 미레이","Mirei Mikagura"
+2022,"","Digimon have found blacklisted hackers.
+In Zaxon Forum. Teach that
+Digimon abuser a lesson!","數碼寶貝找出被列入黑名單的駭客了喔
+看來他在Zaxon討論區
+讓數碼寶貝受苦的人，需要給他們一點懲罰","","디지몬들이 블랙리스트 해커를 발견했어.
+아무래도 잭슨 포럼에 있는 모양이야.
+디지몬을 괴롭히는 사람에게는 벌이 필요해.","Digimon haben Hacker auf der schwarzen
+Liste gefunden. Im Zaxon-Forum. Erteil
+dem Digimonquäler eine Lektion!"
+2023,"","Napolitan","拿波里麵","","나폴리탄","Napolitaner"
+2024,"","He made the Digimon do cool tricks!","是用數碼寶貝表演好笑技藝的人耶！","","디지몬에게 재밌는 재주를 시켰던 사람이다!","Das Digimon hat für ihn Tricks gemacht!"
+2025,"","Japanese Doll @ Jimiken Fan","市松人偶@吉米肯粉","","이치마츠인형@지미켄팬","Japanische Puppe: Jimiken-Fan"
+2026,"","It’s in now. Does my Digimon do tricks?","最近很流行呢，我的數碼寶貝也能做嗎","","최근에 유행하고 있지. 내 디지몬도 해볼 수 없을까","Das ist in. Macht mein Digimon Tricks?"
+2030,"","Head to Zaxon Forum","前往Zaxon討論區","","잭슨 포럼으로 향하자.","Geh zum Zaxon-Forum."
+2040,"","Beat Envious Hacker Konami!","討伐忌妒駭客木乃實吧！","","질투 해커 코노미를 토벌해라!","Schlag den neidischen Konami!"
+2041,"","Mirei Mikagura","御神樂米蕾","","미카구라 미레이","Mirei Mikagura"
+2042,"","Digimon have found blacklisted hackers.
+On Under Kowloon Lv. 2.
+The Digimon need to live in peace!","數碼寶貝找出被列入黑名單的駭客了喔
+看來他在Under Kowloon Lv.2
+這是為了讓數碼寶貝能過安穩生活喔","","디지몬들이 블랙리스트 해커를 발견했어.
+아무래도 언더 쿠롱 Lv.2에 있는 모양이야.
+이건 디지몬이 평화롭게 지내는 데 필요한 일이야.","Digimon haben Hacker auf der schwarzen
+Liste gefunden. Ebene 2 in Unter Kowloon.
+Digimon sollen in Frieden leben können!"
+2043,"","Tanpoppo","蒲公英","","민들레","Tanpoppo"
+2044,"","Haven’t I seen this online?","之前好像有在社群網站上看過耶？","","SNS에서 전에 본 기분이 드는데?","Hab ich das nicht online gesehen?"
+2045,"","Komorin","小森森","","코모링","Komorin"
+2046,"","Everything’s online. It’s all alike. LOL","社群網站上到處都是這種人啦","","SNS면 닮은 녀석 어디에든 있잖아ㅋ","Alles ist online. Immer das Gleiche. LOL"
+2050,"","Head to Under Kowloon Lv. 2","前往Under Kowloon Lv.2","","언더 쿠롱 Lv.2로 향하자.","Gehe zur Ebene 2 in Unter Kowloon."
+2060,"","Beat Greedy Hacker Yoku!","討伐貪心駭客翊吧！","","탐욕스러운 해커 요쿠를 토벌해라!","Schlag den gierigen Hacker Yoku!"
+2061,"","Mirei Mikagura","御神樂米蕾","","미카구라 미레이","Mirei Mikagura"
+2062,"","Digimon have found a hacker on the blacklist.
+They're in the Demons' Den. Show them the penalty
+for greed!","數碼寶貝找出被列入黑名單的駭客了喔
+看來他在惡魔巢穴喔
+就讓他承受...貪心的懲罰吧","","디지몬들이 블랙리스트 해커를 발견했어.
+아무래도 데몬즈 아지트에 있는 모양이야.
+강한 욕심은 죄…벌을 받게 해주도록 해.","Digimon haben Hacker auf der schwarzen
+Liste gefunden. In der Demons-Höhle.
+Bestrafe sie für ihre Gier!"
+2063,"","Daichan","阿大","","대짱","Daichan"
+2064,"","The person who took my Digimon!","是之前搶走我的數碼寶貝的人！","","전에 내 디지몬을 뺏은 사람이다!","Der, der meine Digimon geklaut hat!"
+2065,"","Hiro","阿廣","","히로","Hiro"
+2066,"","Who would steal someone’s Digimon? Creep!","居然奪走別人的數碼寶貝，真是太差勁了！","","남의 디지몬을 뺏다니 최저네!","Wer stiehlt denn anderer Leute Digimon?!"
+2070,"","Go to the Demons' Den.","前往惡魔巢穴","","데몬즈 아지트로 향하자.","Geh zur Demons-Höhle."
+2080,"","Beat Spam Ad Hacker Yasu!","討伐無許可廣告駭客裕康吧！","","무단 광고 해커 히로야스를 토벌해라!","Schlage Spamwerbung-Hacker Yasu!"
+2081,"","Mirei Mikagura","御神樂米蕾","","미카구라 미레이","Mirei Mikagura"
+2082,"","Digimon have found blacklisted hackers.
+On Kowloon Lv. 2.
+No words for pests like that!","數碼寶貝找出被列入黑名單的駭客了喔
+看來他在Kowloon Lv.2
+居然給人和數碼寶貝製造麻煩，這可不能原諒","","디지몬들이 블랙리스트 해커를 발견했어.
+아무래도 쿠롱 Lv.2에 있는 모양이야.
+사람과 디지몬에게 민폐를 끼치다니, 언어도단이야.","Digimon haben Hacker auf der schwarzen
+Liste gefunden. Auf Ebene 2 von Kowloon.
+So eine unsägliche Plage!"
+2083,"","Bibimpa","石鍋拌飯","","비빔밥","Bibimpa"
+2084,"","So many ads online now.","最近只要一上網，到處都是廣告","","최근 인터넷을 켜면 쓸데없이 광고가 나왔어","Online sieht man jetzt so viel Werbung."
+2085,"","Year-round Ulcer","整年都在腸胃炎","","연중위장염","Dauernde Bauchschmerzen"
+2086,"","Probably infected at a weird site.","你是不是去了奇怪的網站中毒啦？","","이상한 사이트에서 바이러스라도 걸린 거 아니야?","Wohl auf einer Seite infiziert."
+2090,"","Go to Kowloon Lv. 2.","前往Kowloon Lv.2","","쿠롱 Lv.2로 향하자.","Geh nach Kowloon, Ebene 2."
+2100,"","Beat Bonehead Hacker Ittetsu!","討伐頑固駭客一鐵吧！","","고집불통 해커 잇테츠을 토벌해라!","Schlag Armleuchter Ittetsu!"
+2101,"","Mirei Mikagura","御神樂米蕾","","미카구라 미레이","Mirei Mikagura"
+2102,"","Digimon have found blacklisted hackers.
+On Kowloon Lv. 2.
+Hammer out the mistaken!","數碼寶貝找出被列入黑名單的駭客了喔
+看來他在Kowloon Lv.2
+你不覺得搞不清楚狀況的人……需要來點鐵鎚嗎？","","디지몬들이 블랙리스트 해커를 발견했어.
+아무래도 쿠롱 Lv.2에 있는 모양이야.
+잘못된 생각을 가진 사람에게는…제재가 필요하다고 생각되지 않아?","Digimon haben Hacker auf der schwarzen
+Liste gefunden. Auf Ebene 2 von Kowloon.
+Mach sie fertig!"
+2103,"","Saburo-san","","","326씨","Saburo-san"
+2104,"","I did nothing, and some hacker came for me.","明明什麼都沒做就被奇怪的駭客訓話了","","아무것도 하지 않았는데 이상한 해커한테 설교받았었지","Ich habe nichts gemacht, und ein Hacker
+hat mich angegriffen."
+2105,"","Nonamemon","無名獸","","이름없는몬","Inkognitomon"
+2106,"","That old guy?","難不成他是老爺爺嗎？","","혹시 그거 할아버지였어?","Der alte Kerl?"
+2110,"","Go to Kowloon Lv. 2.","前往Kowloon Lv.2","","쿠롱 Lv.2로 향하자.","Geh nach Kowloon, Ebene 2."
+2120,"","Beat Bluffing Hacker Satoru!","討伐逞強駭客智吧！","","허세를 부리는 해커 사토루를 토벌해라!","Schlag den bluffenden Hacker Satoru!"
+2121,"","Mirei Mikagura","御神樂米蕾","","미카구라 미레이","Mirei Mikagura"
+2122,"","Digimon have found blacklisted hackers.
+On Under Kowloon Lv. 3.
+Your powers will be tested!","數碼寶貝找出被列入黑名單的駭客了喔
+看來他在Under Kowloon Lv.3
+現在正是……測試你的實力之時","","디지몬들이 블랙리스트 해커를 발견했어.
+아무래도 언더 쿠롱 Lv.3에 있는 모양이야.
+당신의 힘이…지금이야말로 시험받을 때야.","Digimon haben Hacker auf der schwarzen
+Liste gefunden. Ebene 3 in Unter Kowloon.
+Da wirst du auf die Probe gestellt!"
+2123,"","Nonamemon","無名獸","","이름없는몬","Inkognitomon"
+2124,"","I saw some freaked out hackers.","是之前那個，明明是駭客卻嚇得直發抖的傢伙吧","","요전에 해커인데도 떨던 녀석을 봤었지","Ich habe verängstigte Hacker gesehen."
+2125,"","Hilltop Nonamemon","山丘上的無名獸","","언덕 위의 이름없는몬","Inkognitomon auf dem Berg"
+2126,"","Could be a Rookie Hacker.","說不定是新人駭客啊","","신입 해커였던 걸지도","Könnte ein angehender Hacker sein."
+2130,"","Head to Under Kowloon Lv. 3.","前往Under Kowloon Lv.3","","언더 쿠롱 Lv.3로 향하자.","Geh zur Ebene 3 in Unter Kowloon."
+2140,"","Beat Mooch Tadanori!","討伐最愛免費忠則吧！","","꽁짜를 좋아하는 타다노리를 토벌해라!","Schlag Schnorrer Tadanori!"
+2141,"","Mirei Mikagura","御神樂米蕾","","미카구라 미레이","Mirei Mikagura"
+2142,"","Digimon have found blacklisted hackers.
+On Under Kowloon Lv. 3.
+Show me your bond with Digimon!","數碼寶貝找出被列入黑名單的駭客了喔
+看來他在Under Kowloon Lv.3
+請讓我見識……你和數碼寶貝的牽絆吧","","디지몬들이 블랙리스트 해커를 발견했어.
+아무래도 언더 쿠롱 Lv.3에 있는 모양이야.
+디지몬과 당신의 유대…보여줘.","Digimon haben Hacker auf der schwarzen
+Liste gefunden. Ebene 3 in Unter Kowloon.
+Zeig mir, was du für Digimon tust!"
+2143,"","1999 Anime Freak","1999年的動畫是正義","","1999년 애니는 정의씨","Fan von 1999er-Anime"
+2144,"","Can you read e-books for free?","可以免費看電子書是真的嗎？","","무료로 e-book을 읽는다는게 진짜?","Kann man E-Books gratis lesen?"
+2145,"","Kakinhei Nonamemon","課金兵無名獸","","과금전사 이름없는몬","Kakinhei-Inkognitomon"
+2146,"","Reading for free? How will authors write
+more books? Pay for what you read!","給你看免費的，作者就不會再寫了啦！
+想看就好好付錢啊！","","무료로 봤다간 작가가 다음 책을 쓸 리가 없잖아!
+읽고 싶으면 제대로 돈 내라고!","Gratis lesen? Wovon sollen die Autoren
+dann leben? Zahl für deine Bücher!"
+2150,"","Head to Under Kowloon Lv. 3.","前往Under Kowloon Lv.3","","언더 쿠롱 Lv.3로 향하자.","Geh zur Ebene 3 in Unter Kowloon."
+2160,"","Beat Hijacking Hacker Saya!","討伐盜帳駭客沙也加吧！","","강탈하는 해커 사야카를 토벌해라!","Schlag Kontendieb Saya!"
+2161,"","Mirei Mikagura","御神樂米蕾","","미카구라 미레이","Mirei Mikagura"
+2162,"","Digimon have found blacklisted hackers.
+On Kowloon Lv. 3.
+Strange people everywhere!","數碼寶貝找出被列入黑名單的駭客了喔
+看來他在Kowloon Lv.3
+好像到處都有奇妙的人呢……","","디지몬들이 블랙리스트 해커를 발견했어.
+아무래도 쿠롱 Lv.3에 있는 모양이야.
+어디에나 묘한 사람은 있는 법이네……","Digimon haben Hacker auf der schwarzen
+Liste gefunden. Auf Ebene 3 von Kowloon.
+Überall komische Leute!"
+2163,"","Porolon","小破破","","포로롱","Porolon"
+2164,"","My account might’ve been hacked","我的帳號好像也被盜了","","내 계정 빼앗겼을지도…","Mein Konto wurde vielleicht gehackt"
+2165,"","Nonamemon","無名獸","","이름없는몬","Inkognitomon"
+2166,"","For reals? That sucks","真假，真可憐","","진짜냐? 불쌍하네","Echt jetzt? Wie ätzend."
+2170,"","Head to Kowloon Lv. 3.","前往Kowloon Lv.3","","쿠롱 Lv.3로 향하자.","Geh nach Kowloon, Ebene 3."
+2180,"","Beat Auction Scammer Tetsuji!","討伐拍賣詐欺哲志吧 ！","","옥션 사기꾼 테츠지를 토벌해라!","Schlag Auktionsbetrüger Tetsuji!"
+2181,"","Mirei Mikagura","御神樂米蕾","","미카구라 미레이","Mirei Mikagura"
+2182,"","Digimon have found blacklisted hackers.
+On Kowloon Lv. 1.
+Go beat up the bad guys!","數碼寶貝找出被列入黑名單的駭客了喔
+看來他在Kowloon Lv.3
+既有惡人必誅之……好了，出發吧","","디지몬들이 블랙리스트 해커를 발견했어.
+아무래도 쿠롱 Lv.3에 있는 모양이야.
+악이 있다면. 칠뿐이야…자, 다녀오도록 해.","Digimon haben Hacker auf der schwarzen
+Liste gefunden. Auf Ebene 1 von Kowloon.
+Geh die Bösewichte vermöbeln!"
+2183,"","Online Sales Fan","最愛網購","","통신판매 정말 좋아씨","Online-Shopping-Fan"
+2184,"","My auction purchases aren’t arriving!
+They’ve been shipped but...","我在拍賣上買的商品都沒送來──
+明明寫已出貨了……","","옥션에서 산 물건이 오질 않아-
+발송했다고 되어있는데…","Meine Auktionskäufe kommen nicht an!
+Sie wurden versandt, aber ..."
+2185,"","Piyokichi","小雞阿吉","","피요요시","Piyokichi"
+2186,"","Was the shipping late? Ask if you’re worried.","會不會是延後送貨了？擔心的話就詢問一下吧","","발송이 늦은 걸지도? 걱정이면 문의해봐","Ist der Lieferdienst spät dran?
+Frag halt nach."
+2190,"","Head to Kowloon Lv. 3.","前往Kowloon Lv.3","","쿠롱 Lv.3로 향하자.","Geh nach Kowloon, Ebene 3."
+2200,"","Beat Groupie Hacker Hitomi!","討伐跟蹤駭客仁美吧 ！","","사생팬 해커 히토미를 토벌해라!","Schlag Groupie-Hackerin Hitomi!"
+2201,"","Mirei Mikagura","御神樂米蕾","","미카구라 미레이","Mirei Mikagura"
+2202,"","Digimon have found blacklisted hackers.
+On Under Kowloon Lv. 4.
+Show me your Digimon abilities!","數碼寶貝找出被列入黑名單的駭客了喔
+看來他在Under Kowloon Lv.4
+就讓我見識你跟數碼寶貝的可能性吧……","","디지몬들이 블랙리스트 해커를 발견했어.
+아무래도 언더 쿠롱 Lv.4에 있는 모양이야.
+보도록 하겠어, 당신과 디지몬의 가능성을…","Digimon haben Hacker auf der schwarzen
+Liste gefunden. Ebene 4 in Unter Kowloon.
+Zeig mir, was du mit Digimon kannst!"
+2203,"","Loverboy Sandwich","火熱甜蜜沙漠","","러브러브샌드","Casanova-Sandwich"
+2204,"","That person was an actor’s groupie.","這個人，就是跟蹤偶像而出名的人吧？","","이 사람, 인기배우를 쫓아다니던 유명한 사람이었지?","Groupie für einen Schauspieler."
+2205,"","Nonamemon","無名獸","","이름없는몬","Inkognitomon"
+2206,"","Where’s the line between groupie and stalker?","跟蹤和跟蹤狂的分界線在哪啊？","","팬과 스토커의 경계선은 어딜까","Wo ist die Grenze zwischen Groupie und
+Stalker?"
+2210,"","Head to Under Kowloon Lv. 4","前往Under Kowloon Lv.4","","언더 쿠롱 Lv.4로 향하자.","Gehe zur Ebene 4 in Unter Kowloon."
+2220,"","Beat Mail Thief Shunsaku!","討伐信件小偷俊作吧！","","메일 도둑 순사쿠를 토벌해라!","Schlag Postdieb Shunsaku!"
+2221,"","Mirei Mikagura","御神樂米蕾","","미카구라 미레이","Mirei Mikagura"
+2222,"","Digimon have found blacklisted hackers.
+On Under Kowloon Lv. 4.
+Get ‘em before they escape!","數碼寶貝找出被列入黑名單的駭客了喔
+看來他在Under Kowloon Lv.4
+請你在他逃掉之前逮到他吧","","디지몬들이 블랙리스트 해커를 발견했어.
+아무래도 언더 쿠롱 Lv.4에 있는 모양이야.
+도망치기 전에 잡도록 해.","Digimon haben Hacker auf der schwarzen
+Liste gefunden. Ebene 4 in Unter Kowloon.
+Schnapp sie dir, bevor sie entkommen!"
+2223,"","Nonamemon","無名獸","","이름없는몬","Inkognitomon"
+2224,"","The emails I send never arrive...","最近應該寄出的郵件都消失了耶～","","얼마 전에 전송했던 메일이 사라졌지~","Meine E-Mails kommen nie an ..."
+2225,"","Chinchirolin","十八辣","","친치로린","Chinchirolin"
+2226,"","Were you half-asleep?","會不會是你睡昏了，或者根本搞錯啦？","","잠에서 덜 깼다거나 기분 탓 아니야?","Hast du halb geschlafen?"
+2230,"","Head to Under Kowloon Lv. 4","前往Under Kowloon Lv.4","","언더 쿠롱 Lv.4로 향하자.","Gehe zur Ebene 4 in Unter Kowloon."
+2240,"","Beat Venting Hacker Takeo!","討伐遷怒駭客武雄吧！","","화풀이 해커 타케오를 토벌해라!","Schlag den schimpf. Hacker Takeo!"
+2241,"","Mirei Mikagura","御神樂米蕾","","미카구라 미레이","Mirei Mikagura"
+2242,"","Digimon have found blacklisted hackers.
+On Kowloon Lv. 4.
+Make EDEN a better place without them!","數碼寶貝找出被列入黑名單的駭客了喔
+看來他在Kowloon Lv.4
+只要讓這些壞人減少，EDEN也能變得越來越好","","디지몬들이 블랙리스트 해커를 발견했어.
+아무래도 쿠롱 Lv.4에 있는 모양이야.
+그들을 줄인다면 조금은 EDEN이 좋아질 거야.","Digimon haben Hacker auf der schwarzen
+Liste gefunden. Auf Ebene 4 von Kowloon.
+Befreie EDEN von ihnen!"
+2243,"","Stinky Taro","噴噴太郎","","풍풍타로","Stinkende Taro"
+2244,"","He vented his way into battle!","他就生氣亂遷怒，找我進行戰鬥！","","왠지 화풀이로 배틀을 받았었는데~!","Er hat sich in den Kampf gestürzt!"
+2245,"","Gon @ Relaxed Generation","權＠寬鬆世代","","곤@유토리 세대","Gon: entspannte Generation"
+2246,"","They’re always around, those hackers.","有時候會有這種討人厭的駭客呢","","가끔 있지, 그런 민폐 해커","Die sind immer da, diese Hacker."
+2250,"","Head to Kowloon Lv. 4","前往Kowloon Lv.4","","쿠롱 Lv.4로 향하자.","Geh nach Kowloon, Ebene 4."
+2260,"","Beat Wall Maniac Takami!","討伐牆壁愛好者高見吧！","","벽 마니아 타카미를 토벌해라!","Schlag Wall-Fanatikerin Takami!"
+2261,"","Mirei Mikagura","御神樂米蕾","","미카구라 미레이","Mirei Mikagura"
+2262,"","Digimon have found blacklisted hackers.
+On Under Kowloon Lv. 5.
+Be careful! They’re crafty!","數碼寶貝找出被列入黑名單的駭客了喔
+看來他在Under Kowloon Lv.5
+他好像會用奇妙的手段，小心點喔","","디지몬들이 블랙리스트 해커를 발견했어.
+아무래도 언더 쿠롱 Lv.5에 있는 모양이야.
+묘한 수를 쓰는 모양이야, 조심해.","Digimon haben Hacker auf der schwarzen
+Liste gefunden. Ebene 5 in Unter Kowloon.
+Vorsicht! Sie sind listig!"
+2263,"","Windcry","風在哭泣","","바람이 울고 있어 씨","Heulender Wind"
+2264,"","The Security Wall is throughout Kowloon.","Kowloon裡也有防火牆啊？","","쿠롱 안에 방화벽이 있었다만","Der Sicherheitswall ist in ganz Kowloon."
+2265,"","My name is Nonamemon.","我的名字是無名獸","","내 이름은 이름없는몬","Ich heiße Inkognitomon"
+2266,"","Who would put that thing up?","咦，是誰做這種妨礙人的事啊","","에-, 누구야 그런 민폐스러운 짓을 한 녀석","Wer sollst du sein?"
+2270,"","Head to Under Kowloon Lv. 5.","前往Under Kowloon Lv.5","","언더 쿠롱 Lv.5로 향하자.","Geh zur Ebene 5 in Unter Kowloon."
+2280,"","Beat Rogue Hacker Gouta!","討伐落單駭客鄉太吧！","","외톨이 해커 고타를 토벌해라!","Schlag Schurken-Hacker Gouta!"
+2281,"","Mirei Mikagura","御神樂米蕾","","미카구라 미레이","Mirei Mikagura"
+2282,"","Digimon have found blacklisted hackers.
+On Kowloon Lv. 4.
+Be on your guard, even for one person!","數碼寶貝找出被列入黑名單的駭客了喔
+看來他在Kowloon Lv.4
+可別因為他只有一個人就大意了喔","","디지몬들이 블랙리스트 해커를 발견했어.
+아무래도 쿠롱 Lv.4에 있는 모양이야.
+혼자라고 해서 방심하면 안 돼.","Digimon haben Hacker auf der schwarzen
+Liste gefunden. Auf Ebene 4 von Kowloon.
+Sei vorsichtig, selbst bei einem Gegner!"
+2283,"","Paripi","派對咖","","파리피 씨","Paripi"
+2284,"","The Dinosaurist Hackers were crazy!","好像有恐龍教的駭客在大鬧啊","","뭔가 다이노소어교의 해커가 날뛰었지","Die Dinosauristen waren irre!"
+2285,"","Dinosaur Joe","恐龍教的喬","","다이노소어의 죠","Dinosauristentyp"
+2286,"","Forgive me! I left that team!","饒了我們吧！那傢伙已經脫離隊伍啦！","","좀 봐달라고! 그 녀석 팀에서 빠진 녀석이라고!","Verzeih mir! Ich bin nicht mehr im Team!"
+2290,"","Head to Kowloon Lv. 4","前往Kowloon Lv.4","","쿠롱 Lv.4로 향하자.","Geh nach Kowloon, Ebene 4."
+2300,"","Beat Account Scammer Teruaki!","討伐銀行詐欺的耀陽吧！","","계좌 부정 이용자 테루아키를 토벌해라!","Schlag Accountdieb Teruaki!"
+2301,"","Mirei Mikagura","御神樂米蕾","","미카구라 미레이","Mirei Mikagura"
+2302,"","Digimon have found blacklisted hackers.
+On Kowloon Lv. 5.
+A happy hacker, it seems. For how long?","數碼寶貝找出被列入黑名單的駭客了喔
+看來他在Kowloon Lv.5
+好像很得意呢……他能繼續得意到什麼時候呢？","","디지몬들이 블랙리스트 해커를 발견했어.
+아무래도 쿠롱 Lv.5에 있는 모양이야.
+기분 좋은 해커인 것 같네…언제까지 계속하려는 걸까?","Digimon haben Hacker auf der schwarzen
+Liste gefunden. Auf Ebene 5 von Kowloon.
+Wohl ein froher Hacker, aber wie lang?"
+2303,"","Gnocchi","麵疙瘩","","뇨키","Gnocchi"
+2304,"","I saw this happily singing hacker before.","我剛才看到了心情好得在哼歌的駭客喔","","아까, 기분 좋은 듯이 노래하던 해커를 봤었어","Den singenden Hacker kannte ich schon"
+2305,"","Matsuda","松田","","마츠다","Matsuda"
+2306,"","But that song was nasty.","感覺唱歌的內容應該很可怕","","뭔가 노래 가사가 위험하단 느낌이었어","Aber das Lied war scheußlich."
+2310,"","Head to Kowloon Lv. 5.","前往Kowloon Lv.5","","쿠롱 Lv.5로 향하자.","Geh nach Kowloon, Ebene 5."
+2320,"","Beat Annoying Trainer Akira!","討伐擾人修行者章吧！","","민폐 수행자 아키라를 토벌해라!","Schlage den nervigen Trainer Akira!"
+2321,"","Mirei Mikagura","御神樂米蕾","","미카구라 미레이","Mirei Mikagura"
+2322,"","Digimon have found blacklisted hackers.
+On Kowloon Lv. 5.
+Get ‘em before the damage spreads!","數碼寶貝找出被列入黑名單的駭客了喔
+看來他在Kowloon Lv.5
+在被害擴大之前，前去討伐他吧","","디지몬들이 블랙리스트 해커를 발견했어.
+아무래도 쿠롱 Lv.5에 있는 모양이야.
+피해가 커지기 전에 토벌해줬으면 해.","Digimon haben Hacker auf der schwarzen
+Liste gefunden. Ebene 5 von Kowloon.
+Erledige das, bevor sie alles verwüsten!"
+2323,"","Nonamemon","無名獸","","이름없는몬","Inkognitomon"
+2324,"","I saw someone attack security, as training!","我有看到嘴巴喊修行！就去攻擊防範措施的傢伙喔！","","수행! 이라면서 보안을 공격하고 있던 녀석 봤었어","Ich sah, wie jemand zum Training die
+Security angreift!"
+2325,"","Pilori","皮羅力","","피로리","Pilori"
+2326,"","What training?","咦，那什麼修行啊","","허어, 무슨 수행인데ㅋㅋㅋ","Was ist Training?"
+2330,"","Head to Kowloon Lv. 5.","前往Kowloon Lv.5","","쿠롱 Lv.5로 향하자.","Geh nach Kowloon, Ebene 5."
+2340,"","Beat Underworld Handyman Eiji!","討伐地下社會便利店映司吧！","","뒷세계의 해결사 에이지를 토벌해라!","Schlag Unterwelt-Handyman Eiji"
+2341,"","Mirei Mikagura","御神樂米蕾","","미카구라 미레이","Mirei Mikagura"
+2342,"","Digimon have found blacklisted hackers.
+In Asakusa.
+Someone you know? Who will win?","數碼寶貝找出被列入黑名單的駭客了喔
+看來他在淺草的樣子，他跟你是同行業者嗎？
+我很期待知道你們誰比較強喔","","디지몬들이 블랙리스트 해커를 발견했어.
+아무래도 아사쿠사에 있는 모양이야.
+동업자려나? 어느 쪽이 강할지, 기대되네.","Digimon haben Hacker auf der schwarzen
+Liste gefunden. In Asakusa. Kennst du
+denjenigen? Wer wird gewinnen?"
+2343,"","Cilantro Fan","最愛香菜","","고수 정말 좋아","Korianderfan"
+2344,"","Hacker handymen are on the rise.","駭客便利店變多了呢","","해커 해결사 늘었지","Es gibt immer mehr Handymen."
+2345,"","Nonamemon","無名獸","","이름없는몬","Inkognitomon"
+2346,"","We can still trust Hudie, though.","不過可靠的只有hudie吧？","","뭐 신용할만한 건 후디에 정도 아니야?","Hudie können wir aber noch trauen."
+2350,"","Head to Asakusa.","前往淺草","","아사쿠사로 향하자.","Geh nach Asakusa."
+2360,"","Beat Vexing Attacker Yuusuke!","討伐擾人攻擊者遊助吧！","","민폐 어태커 유스케를 토벌해라!","Schlag den irritierenden Yuusuke!"
+2361,"","Mirei Mikagura","御神樂米蕾","","미카구라 미레이","Mirei Mikagura"
+2362,"","Digimon have found blacklisted hackers.
+In Akihabara.
+Treating people like games! Stop them!","數碼寶貝找出被列入黑名單的駭客了喔
+看來他在秋葉原的樣子
+用玩遊戲的態度給人製造麻煩……真是過份","","디지몬들이 블랙리스트 해커를 발견했어.
+아무래도 아키하바라에 있는 모양이야.
+게임 감각으로 사람에게 민폐를 끼치다니…해서는 안 될 일이야.","Digimon haben Hacker auf der schwarzen
+Liste gefunden. In Akihabara. Die machen
+Spielchen mit Menschen! Halte sie auf!"
+2363,"","Envoy Kawara","敕使河原","","테시가하라","Abgesandter Kawara"
+2364,"","Battle game servers are slow lately.","最近的遊戲對戰伺服器好卡喔","","최근 대전 게임 서버가 느려졌지","Kampfserver sind in letzter Zeit lahm."
+2365,"","Kusa","草酸","","쿠사 씨","Kusa"
+2366,"","They’re under attack.","好像偶爾會被攻擊的樣子呢","","가끔 공격받는 듯해","Sie werden angegriffen."
+2370,"","Head to Akihabara!","前往秋葉原","","아키하바라로 향하자.","Geh nach Akihabara!"
+2380,"","Beat Princess Hacker Layla!","討伐大小姐駭客玲蘭吧！","","아가씨 해커 레이라를 토벌해라!","Schlag Prinzessin-Hackerin Layla!"
+2381,"","Mirei Mikagura","御神樂米蕾","","미카구라 미레이","Mirei Mikagura"
+2382,"","Digimon have found blacklisted hackers.
+In Shinjuku.
+They say quality lies in action.","數碼寶貝找出被列入黑名單的駭客了喔
+看來他在新宿的樣子
+讓他知道，高尚的品格是用行動來表現的吧","","디지몬들이 블랙리스트 해커를 발견했어.
+아무래도 신주쿠에 있는 모양이야.
+품위는 행동으로 나타난다고 하지.","Digimon haben Hacker auf der schwarzen
+Liste gefunden. In Shinjuku. Lass auf deine
+Worte Taten folgen."
+2383,"","Egg-on-Rice","TKG","","TKG 씨","Reis mit Ei"
+2384,"","The hacker seems to be a princess.","好像有個大小姐樣的駭客呢","","왠지 아가씨 같은 해커인 모양이네","Die Hackerin ist wohl eine Prinzessin."
+2385,"","Yo Sorrow","沒有問題","","요소로","Yo Sorrow"
+2386,"","What? I want to get close!","咦，那什麼？我想跟她認識一下","","에, 뭐야 그거? 친해지고 싶은데","Was? Ich will näher ran!"
+2390,"","Head to Shinjuku.","前往新宿","","신주쿠로 향하자.","Geh nach Shinjuku."
+2400,"","Aloof Hacker Kazuyoshi","孤高駭客和義","","고고한 해커 카즈요시","Reserv. Hacker Kazuyoshi"
+2401,"","Mirei Mikagura","御神樂米蕾","","미카구라 미레이","Mirei Mikagura"
+2402,"","Digimon have found blacklisted hackers.
+In the EDEN Free Area.
+Prevent them from causing a ruckus.","數碼寶貝找出被列入黑名單的駭客了喔
+看來他在EDEN自由區域的樣子
+請你去拒絕他的擾人邀請吧","","디지몬들이 블랙리스트 해커를 발견했어.
+아무래도 EDEN 프리 에어리어에 있는 모양이야.
+남에게 민폐스러운 권유행위는 사절이야.","Digimon haben Hacker auf der schwarzen
+Liste gefunden. In EDENs Freiem
+Bereich. Verhindere ein Chaos."
+2403,"","Nonamemon","無名獸","","이름없는몬","Inkognitomon"
+2404,"","I heard some strange hackers teamed up.","他突然跑來問我說要不要組駭客隊伍喔","","이상한 해커에게 팀을 짜고 있느냐고 갑자기 질문받았어","Komische Hacker tun sich zusammen."
+2405,"","Yocchin","小吉","","욧친","Yocchin"
+2406,"","Looking for Team Members?","他是在找隊伍夥伴嗎？","","팀 멤버라도 찾고 있었던 걸까?","Suchst du Teammitglieder?"
+2410,"","Go to the Free Area.","前往自由區域","","프리 에어리어로 향하자.","Geh zum Freien Bereich."
+2420,"","Beat Waifu Lover Kazuhisa!","討伐最愛二次元老婆的和久吧！","","전뇌 신부를 좋아하는 카즈히사를 토벌해라!","Schlag den Waifu liebenden Kazuhisa!"
+2421,"","Mirei Mikagura","御神樂米蕾","","미카구라 미레이","Mirei Mikagura"
+2422,"","Digimon have found blacklisted hackers.
+On Under Kowloon Lv. 5.
+Waifu? What does that mean?","數碼寶貝找出被列入黑名單的駭客了喔
+看來他在Under Kowloon Lv.5
+二次元老婆……？　說實在我不懂他在說什麼呢","","디지몬들이 블랙리스트 해커를 발견했어.
+아무래도 언더 쿠롱 Lv.5에 있는 모양이야.
+전뇌 신부? 솔직히 무슨 소리를 하고 있는지 모르겠어.","Digimon haben Hacker auf der schwarzen
+Liste gefunden. Ebene 5 in Unter Kowloon.
+Waifu? Was soll das denn heißen?"
+2423,"","Sharkskin","鮫肌","","상어피부 씨","Haihaut"
+2424,"","That hacker was surrounded by female Digimon.","是之前被女性數碼寶貝包圍的駭客吧","","전에 여성형 디지몬에게 둘러싸여 있던 해커네","Der Hacker war von weiblichen Digimon
+umgeben."
+2425,"","Nonamemon","無名獸","","이름없는몬","Inkognitomon"
+2426,"","He did well to raise them.","居然能養育到那種地步，真努力呢","","거기까지 키우다니 엄청 힘냈네","Er hat sich um sie gekümmert."
+2430,"","Head to Under Kowloon Lv. 5.","前往Under Kowloon Lv.5","","언더 쿠롱 Lv.5로 향하자.","Geh zur Ebene 5 in Unter Kowloon."
+2440,"","Beat Beauty Sleuth Mika!","討伐美麗探索者美香吧！","","미의 추구자 미카를 토벌해라!","Schlag die schöne Detektivin Mika!"
+2441,"","Mirei Mikagura","御神樂米蕾","","미카구라 미레이","Mirei Mikagura"
+2442,"","Digimon have found blacklisted hackers.
+In Shibuya.
+Research is one thing. Nuisance another.","數碼寶貝找出被列入黑名單的駭客了喔
+看來他在涉谷的樣子
+要探索當然沒問題，但可不能做出擾人的行為","","디지몬들이 블랙리스트 해커를 발견했어.
+아무래도 시부야에 있는 모양이야.
+탐구하는 건 좋지만 민폐 행위는 안되지.","Digimon haben Hacker auf der schwarzen
+Liste gefunden. In Shibuya. Sie stören.
+Mach Schluss damit."
+2443,"","Nonamemon","無名獸","","이름없는몬","Inkognitomon"
+2444,"","This hacker suddenly said I wasn’t pretty.","只要不美麗，這駭客便會突然襲擊過來喔","","이 해커한테 아름답지 않다면서 갑자기 습격받았어","Der Hacker sagte plötzlich, ich wäre
+nicht schön."
+2445,"","Devil’s Smile","惡魔微笑","","데빌즈스마일 씨","Teuflisches Lächeln"
+2446,"","Me too. And so strong!","我也遇到了，而且還超強的","","나도야, 그런 주제에 굉장히 강했어","Ich auch. Und so stark!"
+2450,"","Go to Shibuya.","前往涉谷","","시부야로 향하자.","Geh nach Shibuya."
+2460,"","Beat Power Sleuth Junki!","討伐力量探索者純喜吧！","","힘의 탐구자 쥰키를 토벌해라!","Schlag Super-Detektiv Junki!"
+2461,"","Mirei Mikagura","御神樂米蕾","","미카구라 미레이","Mirei Mikagura"
+2462,"","Digimon have found blacklisted hackers.
+In Ueno.
+Use your powers!","數碼寶貝找出被列入黑名單的駭客了喔
+看來他在上野的樣子
+請你想點辦法吧","","디지몬들이 블랙리스트 해커를 발견했어.
+아무래도 우에노에 있는 모양이야.
+당신의 힘으로, 어떻게든 해줬으면 해.","Digimon haben Hacker auf der schwarzen
+Liste gefunden. In Ueno. Setze deine
+Kräfte ein!"
+2463,"","Balsamic Vinegar","義大利香醋","","발사믹 식초","Balsamessig"
+2464,"","I went to battle to improve Digimon.","他說想要鑽研數碼寶貝之道，就突然要戰鬥了","","디지몬의 길을 마스터한다던가 하면서 배틀을 걸어왔었어","Ich kämpfte, um Digimon zu verbessern."
+2465,"","Nonamemon","無名獸","","이름없는몬","Inkognitomon"
+2466,"","Improve Digimon! Yow! LOL","鑽研數碼寶貝之道！笑死了","","디지몬의 길을 마스터한다!  엌ㅋㅋㅋ","Digimon verbessern! Jawoll! LOL"
+2470,"","Head to Ueno.","前往上野","","우에노로 향하자.","Geh nach Ueno."
+2480,"","Beat Hacker Hunter Kiyomi!","討伐狩獵駭客的清美吧！","","해커 사냥꾼 키요미를 토벌해라!","Schlag Hacker-Jägerin Kiyomi!"
+2481,"","Mirei Mikagura","御神樂米蕾","","미카구라 미레이","Mirei Mikagura"
+2482,"","Digimon have found blacklisted hackers.
+In Ikebukuro.
+Hacker hunting isn’t nice! Go!","數碼寶貝找出被列入黑名單的駭客了喔
+看來他在池袋的樣子
+狩獵駭客可不是安穩的行為。請你想點辦法吧","","디지몬들이 블랙리스트 해커를 발견했어.
+아무래도 이케부쿠로에 있는 모양이야.
+해커 사냥은 좋지 않지. 가보도록 해.","Digimon haben Hacker auf der schwarzen
+Liste gefunden. In Ikebukuro. Hackerjagd
+ist nichts Schönes, muss aber sein!"
+2483,"","Nonamemon","無名獸","","이름없는몬","Inkognitomon"
+2484,"","Rumored Hacker Hunter Jun.","這不是傳聞的狩獵駭客嗎？","","소문으로 돌던 해커 사냥이잖아","Angeblicher Hackerjäger Jun"
+2485,"","Tetchan","小鐵","","테츠짱","Tetchan"
+2486,"","No mercy for hackers? Scary!","聽說他對駭客都不留情……好可怕！","","해커에게는 용서없다는 소문의…무셔!","Keine Gnade für Hacker? Übel!"
+2490,"","Head to Ikebukuro.","前往池袋","","이케부쿠로로 향하자.","Geh nach Ikebukuro."
+2500,"","Lekismon’s Lost Item","雷克斯獸的失物","","레키스몬의 분실물","Lekismons Verlust"
+2501,"","Lekismon","雷克斯獸","","레키스몬","Lekismon"
+2502,"","It fell in Under Kowloon Lv. 1.
+Help me find it!","請幫我找掉在Under Kowloon Lv.1的重要物品！","","언더 쿠롱 Lv.1에서 떨어뜨린
+소중한 것을 찾아줘!","Es ging auf Ebene 1 in Unter Kowloon
+verloren. Hilf mir bei der Suche!"
+2510,"","Meet client in Under Kowloon Lv. 1","到Under Kowloon Lv.1跟委託人見面","","언더 쿠롱 Lv.1의 의뢰인을 만나자.","Geh zum Klienten, Eb. 1 in Unter Kowloon."
+2511,"","Search Under Kowloon Lv. 1","在Under Kowloon Lv.1尋找","","언더 쿠롱 Lv.1의 탐색을 하자.","Suche auf Ebene 1 in Unter Kowloon."
+2512,"","Return Lekismon’s lost item.","將失物交給雷克斯獸","","레키스몬에게 분실물을 전해주자.","Gib Lekismon das Verlorene zurück."
+2520,"","Crescemon’s Lost Item","新月獸的失物","","크레세몬의 분실물","Crescemons Verlust"
+2521,"","Crescemon","新月獸","","크레세몬","Crescemon"
+2522,"","It fell in Under Kowloon Lv. 3.
+Help me find it!","請幫我找掉在Under Kowloon Lv.3的重要物品！","","언더 쿠롱 Lv.3에서 떨어뜨린
+소중한 것을 찾아줘!","Es ging auf Ebene 3 in Unter Kowloon
+verloren. Hilf mir bei der Suche!"
+2530,"","Meet client in Under Kowloon Lv. 3","到Under Kowloon Lv.3跟委託人見面","","언더 쿠롱 Lv.3의 의뢰인을 만나자.","Geh zum Klienten, Eb. 3 in Unter Kowloon."
+2531,"","Search Under Kowloon Lv. 3","在Under Kowloon Lv.3尋找","","언더 쿠롱 Lv.3의 탐색을 하자.","Suche auf Ebene 3 in Unter Kowloon."
+2532,"","Return Crescemon’s lost item.","將失物交給新月獸","","크레세몬의 분실물을 전해주자.","Gib Crescemon das Verlorene zurück."
+2540,"","Golemon’s lost item.","岩石獸的失物","","록몬의 분실물","Golemons Verlust"
+2541,"","Golemon","岩石獸","","록몬","Golemon"
+2542,"","I want you to look for something
+precious I dropped in Kowloon Lv. 2!","請幫我找掉在Kowloon Lv.2的重要物品！","","쿠롱 Lv.2에서 떨어뜨린
+소중한 것을 찾아줘!","Ich habe etwas Wertvolles auf Ebene 2 von
+Kowloon verloren!"
+2550,"","Meet client in Kowloon Lv. 2","到Kowloon Lv.2跟委託人見面","","쿠롱 Lv.2의 의뢰인을 만나자.","Geh zum Klienten, Eb. 2 von Kowloon."
+2551,"","Search Kowloon Lv. 2","在Kowloon Lv.2尋找","","쿠롱 Lv.2의 탐색을 하자.","Suche in Kowloon, Ebene 2."
+2552,"","Return Golemon’s lost item.","將失物交給岩石獸","","록몬의 분실물을 전해주자.","Gib Golemon das Verlorene zurück."
+2560,"","Strikedramon’s Lost Item","強襲龍獸的失物","","스트라이크드라몬의 분실물","Strikedramons Verlust"
+2561,"","Strikedramon","強襲龍獸","","스트라이크드라몬","Strikedramon"
+2562,"","It fell in Under Kowloon Lv. 2.
+Help me find it!","請幫我找掉在Under Kowloon Lv.2的重要物品！","","언더 쿠롱 Lv.2에서 떨어뜨린
+소중한 것을 찾아줘!","Es ging auf Ebene 2 in Unter Kowloon
+verloren. Hilf mir bei der Suche!"
+2570,"","Meet client in Under Kowloon Lv. 2","到Under Kowloon Lv.2跟委託人見面","","언더 쿠롱 Lv.2의 의뢰인을 만나자.","Geh zum Klienten, Eb. 2 in Unter Kowloon."
+2571,"","Search Under Kowloon Lv. 2","在Under Kowloon Lv.2尋找","","언더 쿠롱 Lv.2의 탐색을 하자.","Suche auf Ebene 2 in Unter Kowloon."
+2572,"","Return Strikedramon’s lost item","將失物交給強襲龍獸","","스트라이크드라몬의 분실물을 전해주자.","Gib Strikedramon das Verlorene zurück."
+2580,"","Dorugoramon’s Lost Item","多路戰龍獸的失物","","돌고라몬의 분실물","Dorugoramons Verlust"
+2581,"","Dorugoramon","多路戰龍獸","","돌고라몬","Dorugoramon"
+2582,"","I want you to look for something
+precious I dropped in Kowloon Lv. 5!","請幫我找掉在Kowloon Lv.5的重要物品！","","쿠롱 Lv.5에서 떨어뜨린
+소중한 것을 찾아줘!","Ich habe etwas Wertvolles auf Ebene 5 von
+Kowloon verloren!"
+2590,"","Meet client in Kowloon Lv. 5","到Kowloon Lv.5跟委託人見面","","쿠롱 Lv.5의 의뢰인을 만나자.","Geh zum Klienten, Eb. 5 von Kowloon."
+2591,"","Search Kowloon Lv. 5","在Kowloon Lv.5尋找","","쿠롱 Lv.5의 탐색을 하자.","Suche auf Ebene 5 von Kowloon."
+2592,"","Return Dorugoramon’s lost item.","將失物交給多路戰龍獸","","돌고라몬의 분실물을 전해주자.","Gib Dorugoramon das Verlorene zurück."
+2600,"","Chuumon’s Lost Item","芝蒙獸的失物","","츄몬의 분실물","Chuumons Verlust"
+2601,"","Chuumon","芝蒙獸","","츄몬","Chuumon"
+2602,"","It fell in Kowloon Lv. 1.
+Help me find it!","請幫我找掉在Kowloon Lv.1的重要物品！","","쿠롱 Lv.1에서 떨어뜨린
+소중한 것을 찾아줘!","Es ging auf Ebene 1 von Kowloon
+verloren. Hilf mir bei der Suche!"
+2610,"","Meet client in Kowloon Lv. 1","到Kowloon Lv.1跟委託人見面","","쿠롱 Lv.1의 의뢰인을 만나자.","Geh zum Klienten, Eb. 1 von Kowloon."
+2611,"","Search Kowloon Lv. 1","在Kowloon Lv.1尋找","","쿠롱 Lv.1의 탐색을 하자.","Suche auf Ebene 1 von Kowloon."
+2612,"","Return Chuumon’s lost item.","將失物交給芝蒙獸","","츄몬의 분실물을 전해주자.","Gib Chuumon das Verlorene zurück."
+2620,"","Raptordramon’s Lost Item","猛禽龍獸的失物","","라프타드라몬의 분실물","Raptordramons Verlust"
+2621,"","Raptordramon","猛禽龍獸","","라프타드라몬","Raptordramon"
+2622,"","I want you to look for something
+precious I dropped in Kowloon Lv. 2!","請幫我找掉在Kowloon Lv.2的重要物品！","","쿠롱 Lv.2에서 떨어뜨린
+소중한 것을 찾아줘!","Ich habe etwas Wertvolles auf Ebene 2 von
+Kowloon verloren!"
+2630,"","Meet client in Kowloon Lv. 2","到Kowloon Lv.2跟委託人見面","","쿠롱 Lv.2의 의뢰인을 만나자.","Geh zum Klienten, Eb. 2 von Kowloon."
+2631,"","Search Kowloon Lv. 2","在Kowloon Lv.2尋找","","쿠롱 Lv.2의 탐색을 하자.","Suche in Kowloon, Ebene 2."
+2632,"","Return Raptordramon’s lost item","將失物交給猛禽龍獸","","라프타드라몬의 분실물을 전해주자.","Gib Raptordramon das Item zurück."
+2640,"","Grademon’s Lost Item","黃金劍士獸的失物","","그레이드몬의 분실물","Grademons Verlust"
+2641,"","Grademon","黃金劍士獸","","그레이드몬","Grademon"
+2642,"","It fell in Kowloon Lv. 3.
+Help me find it!","請幫我找掉在Kowloon Lv.3的重要物品！","","쿠롱 Lv.3에서 떨어뜨린
+소중한 것을 찾아줘!","Es ging auf Ebene 3 von Kowloon
+verloren. Hilf mir bei der Suche!"
+2650,"","Meet client in Kowloon Lv. 3","到Kowloon Lv.3跟委託人見面","","쿠롱 Lv.3의 의뢰인을 만나자.","Geh zum Klienten, Eb. 3 von Kowloon."
+2651,"","Search Kowloon Lv. 3","在Kowloon Lv.3尋找","","쿠롱 Lv.3의 탐색을 하자.","Suche auf Ebene 3 von Kowloon."
+2652,"","Return Grademon’s lost item.","將失物交給黃金劍士獸","","그레이드몬의 분실물을 전해주자.","Gib Grademon das Verlorene zurück."
+2660,"","Triceramon’s Lost Item","三觭龍獸的失物","","트리케라몬의 분실물","Triceramons Verlust"
+2661,"","Triceramon","三觭龍獸","","트리케라몬","Triceramon"
+2662,"","It fell in Under Kowloon Lv. 3.
+Help me find it!","請幫我找掉在Under Kowloon Lv.3的重要物品！","","언더 쿠롱 Lv.3에서 떨어뜨린
+소중한 것을 찾아줘!","Es ging auf Ebene 3 in Unter Kowloon
+verloren. Hilf mir bei der Suche!"
+2670,"","Meet client in Under Kowloon Lv. 3","到Under Kowloon Lv.3跟委託人見面","","언더 쿠롱 Lv.3의 의뢰인을 만나자.","Geh zum Klienten, Eb. 3 in Unter Kowloon."
+2671,"","Search Under Kowloon Lv. 3","在Under Kowloon Lv.3尋找","","언더 쿠롱 Lv.3의 탐색을 하자.","Suche auf Ebene 3 in Unter Kowloon."
+2672,"","Return Triceramon’s lost item.","將失物交給三觭龍獸","","트리케라몬의 분실물을 전해주자.","Gib Triceramon das Verlorene zurück."
+2680,"","Pandamon’s Lost Item","熊貓獸的失物","","팬더몬의 분실물","Pandamons Verlust"
+2681,"","Pandamon","熊貓獸","","팬더몬","Pandamon"
+2682,"","It fell in Kowloon Lv. 4.
+Help me find it!","請幫我找掉在Kowloon Lv.4的重要物品！","","쿠롱 Lv.4에서 떨어뜨린
+소중한 것을 찾아줘!","Es ging auf Ebene 4 von Kowloon
+verloren. Hilf mir bei der Suche!"
+2690,"","Meet client in Kowloon Lv. 4","到Kowloon Lv.4跟委託人見面","","쿠롱 Lv.4의 의뢰인을 만나자.","Geh zum Klienten, Eb. 4 von Kowloon."
+2691,"","Search Kowloon Lv. 4","在Kowloon Lv.4尋找","","쿠롱 Lv.4의 탐색을 하자.","Suche auf Ebene 4 von Kowloon."
+2692,"","Return Pandamon’s lost item.","將失物交給熊貓獸","","팬더몬의 분실물을 전해주자.","Gib Pandamon das Verlorene zurück."
+2700,"","HippoGryphonmon’s Lost Item","仙鷹獸的失物","","히포그리포몬의 분실물","HippoGryphonmons Verlust"
+2701,"","HippoGryphonmon","仙鷹獸","","히포그리포몬","HippoGryphonmon"
+2702,"","It fell in Under Kowloon Lv. 4.
+Help me find it!","請幫我找掉在Under Kowloon Lv.4的重要物品！","","언더 쿠롱 Lv.4에서 떨어뜨린
+소중한 것을 찾아줘!","Es ging auf Ebene 4 in Unter Kowloon
+verloren. Hilf mir bei der Suche!"
+2710,"","Meet client in Under Kowloon Lv. 4","到Under Kowloon Lv.4跟委託人見面","","언더 쿠롱 Lv.4의 의뢰인을 만나자.","Geh zum Klient, Eb. 4 in Unter Kowloon."
+2711,"","Search Under Kowloon Lv. 4","在Under Kowloon Lv.4尋找","","언더 쿠롱 Lv.4의 탐색을 하자.","Suche auf Ebene 4 in Unter Kowloon."
+2712,"","Return HippoGryphonmon’s lost item.","將失物交給仙鷹獸","","히포그리포몬의 분실물을 전해주자.","Gib HippoGryphonmon das Item zurück."
+2720,"","Turuiemon’s Lost Item","兔爺獸的失物","","토리에몬의 분실물","Turuiemons Verlust"
+2721,"","Turuiemon","兔爺獸","","토리에몬","Turuiemon"
+2722,"","I dropped it in the Demons' Den. Please find it!","請幫我找掉在惡魔巢穴的重要物品！","","데몬즈 아지트에서 떨어뜨린
+소중한 것을 찾아줘!","Ich habe es in der Demons-Höhle fallen
+gelassen. Bitte finde es!"
+2730,"","Meet the client in the Demons' Den.","到惡魔巢穴跟委託人見面","","데몬즈 아지트의 의뢰인을 만나자.","Triff den Klienten in der Demons-Höhle."
+2731,"","Search the Demons' Den.","在惡魔巢穴尋找","","데몬즈 아지트의 탐색을 하자.","Durchsuch die Demons-Höhle."
+2732,"","Return Turuiemon’s lost item.","將失物交給兔爺獸","","토리에몬의 분실물을 전해주자.","Gib Turuiemon das Verlorene zurück."
+2740,"","TyrantKabuterimon’s Lost Item","暴君比多獸的失物","","타이런트캅테리몬의 분실물","TyrantKabuterimons Verlust"
+2741,"","TyrantKabuterimon","暴君比多獸","","타이런트캅테리몬","TyrantKabuterimon"
+2742,"","It fell in Under Kowloon Lv. 5.
+Help me find it!","請幫我找掉在Under Kowloon Lv.5的重要物品！","","언더 쿠롱 Lv.5에서 떨어뜨린
+소중한 것을 찾아줘!","Es ging auf Ebene 5 in Unter Kowloon
+verloren. Hilf mir bei der Suche!"
+2750,"","Meet client in Under Kowloon Lv. 5","到Under Kowloon Lv.5跟委託人見面","","언더 쿠롱 Lv.5의 의뢰인을 만나자.","Geh zum Klient, Eb. 5 in Unter Kowloon."
+2751,"","Search Under Kowloon Lv. 5","在Under Kowloon Lv.5尋找","","언더 쿠롱 Lv.5의 탐색을 하자.","Suche auf Ebene 5 in Unter Kowloon."
+2752,"","Return TyrantKabuterimon’s lost item.","將失物交給暴君比多獸","","타이런트캅테리몬의 분실물을 전해주자.","Gib TyrantKabuterimon das Item."
+2760,"","Coelamon’s Lost Item","希拉獸的失物","","씨라몬의 분실물","Coelamons Verlust"
+2761,"","Coelamon","希拉獸","","씨라몬","Coelamon"
+2762,"","I want you to look for something
+precious that I dropped in Zaxon Forum!","請幫我找掉在Zaxon討論區的重要物品！","","잭슨 포럼에서 떨어뜨린
+소중한 것을 찾아줘!","Ich habe etwas Wertvolles im
+Zaxon-Forum verloren!"
+2770,"","Meet client in Zaxon Forum","到Zaxon討論區跟委託人見面","","잭슨 포럼의 의뢰인을 만나자.","Geh zum Klienten im Zaxon-Forum."
+2771,"","Search Zaxon Forum","在Zaxon討論區尋找","","잭슨 포럼의 탐색을 하자.","Suche im Zaxon-Forum."
+2772,"","Return Coelamon’s lost item.","將失物交給希拉獸","","씨라몬의 분실물을 전해주자.","Gib Coelamon das Verlorene zurück."
+2780,"","Monochromon’s Lost Item","角龍獸的失物","","모노크로몬의 분실물","Monochromons Verlust"
+2781,"","Monochromon","角龍獸","","모노크로몬","Monochromon"
+2782,"","I want you to look for something
+precious that I dropped in Zaxon Forum!","請幫我找掉在Zaxon討論區的重要物品！","","잭슨 포럼에서 떨어뜨린
+소중한 것을 찾아줘!","Ich habe etwas Wertvolles im
+Zaxon-Forum verloren!"
+2790,"","Meet client in Zaxon Forum","到Zaxon討論區跟委託人見面","","잭슨 포럼의 의뢰인을 만나자.","Geh zum Klienten im Zaxon-Forum."
+2791,"","Search Zaxon Forum","在Zaxon討論區尋找","","잭슨 포럼을 탐색하자.","Suche im Zaxon-Forum."
+2792,"","Return Monochromon’s lost item.","將失物交給角龍獸","","모노크로몬의 분실물을 전해주자.","Gib Monochromon das Item zurück."
+2800,"","Monodramon’s Lost Item","單角龍獸的失物","","모노드라몬의 분실물","Monodramons Verlust"
+2801,"","Monodramon","單角龍獸","","모노드라몬","Monodramon"
+2802,"","It fell in Kowloon Lv. 1.
+Help me find it!","請幫我找掉在Kowloon Lv.1的重要物品！","","쿠롱 Lv.1에서 떨어뜨린
+소중한 것을 찾아줘!","Es ging auf Ebene 1 von Kowloon
+verloren. Hilf mir bei der Suche!"
+2810,"","Meet client in Kowloon Lv. 1","到Kowloon Lv.1跟委託人見面","","쿠롱 Lv.1의 의뢰인을 만나자.","Geh zum Klienten, Eb. 1 von Kowloon."
+2811,"","Search Kowloon Lv. 1","在Kowloon Lv.1尋找","","쿠롱 Lv.1의 탐색을 하자.","Suche auf Ebene 1 von Kowloon."
+2812,"","Return Monodramon’s lost item.","將失物交給單角龍獸","","모노드라몬의 분실물을 전해주자.","Gib Monodramon das Verlorene zurück."
+2820,"","Unimon’s Lost Item","獨角馬獸的失物","","유니몬의 분실물","Unimons Verlust"
+2821,"","Unimon","獨角馬獸","","유니몬","Unimon"
+2822,"","It fell in Under Kowloon Lv. 2.
+Help me find it!","請幫我找掉在Under Kowloon Lv.2的重要物品！","","언더 쿠롱 Lv.2에서 떨어뜨린
+소중한 것을 찾아줘!","Es ging auf Ebene 2 in Unter Kowloon
+verloren. Hilf mir bei der Suche!"
+2830,"","Meet client in Under Kowloon Lv. 2","到Under Kowloon Lv.2跟委託人見面","","언더 쿠롱 Lv.2의 의뢰인을 만나자.","Geh zum Klient, Eb. 2 in Unter Kowloon."
+2831,"","Search Under Kowloon Lv. 2","在Under Kowloon Lv.2尋找","","언더 쿠롱 Lv.2의 탐색을 하자.","Suche auf Ebene 2 in Unter Kowloon."
+2832,"","Return Unimon's lost item.","將失物交給獨角馬獸","","유니몬의 분실물을 전해주자.","Gib Unimon das Verlorene zurück."
+2840,"","Zubamon’s Lost Item","茲巴獸的失物","","즈바몬의 분실물","Zubamons Verlust"
+2841,"","Zubamon","茲巴獸","","즈바몬","Zubamon"
+2842,"","It fell in Under Kowloon Lv. 1.
+Help me find it!","請幫我找掉在Under Kowloon Lv.1的重要物品！","","언더 쿠롱 Lv.1에서 떨어뜨린
+소중한 것을 찾아줘!","Es ging auf Ebene 1 in Unter Kowloon
+verloren. Hilf mir bei der Suche!"
+2850,"","Meet client in Under Kowloon Lv. 1","到Under Kowloon Lv.1跟委託人見面","","언더 쿠롱 Lv.1의 의뢰인을 만나자.","Geh zum Klienten, Eb. 1 in Unter Kowloon."
+2851,"","Search Under Kowloon Lv. 1","在Under Kowloon Lv.1尋找","","언더 쿠롱 Lv.1의 탐색을 하자.","Suche auf Ebene 1 in Unter Kowloon."
+2852,"","Return Zubamon’s lost item.","將失物交給茲巴獸","","즈바몬의 분실물을 전해주자.","Gib Zubamon das Verlorene zurück."
+2860,"","ZubaEagermon’s Lost Item","兹巴伊戈獸的失物","","즈바이거몬의 분실물","ZubaEagermons Verlust"
+2861,"","ZubaEagermon","兹巴伊戈獸","","즈바이거몬","ZubaEagermon"
+2862,"","I dropped it in the Demons' Den. Please find it!","請幫我找掉在惡魔巢穴的重要物品！","","데몬즈 아지트에서 떨어뜨린
+소중한 것을 찾아줘!","Ich habe es in der Demons-Höhle fallen
+gelassen. Bitte finde es!"
+2870,"","Meet the client in the Demons' Den.","到惡魔巢穴跟委託人見面","","데몬즈 아지트의 의뢰인을 만나자.","Triff den Klienten in der Demons-Höhle."
+2871,"","Search the Demons' Den.","在惡魔巢穴尋找","","데몬즈 아지트의 탐색을 하자.","Durchsuch die Demons-Höhle."
+2872,"","Return ZubaEagermon’s lost item.","將失物交給兹巴伊戈獸","","즈바이거몬의 분실물을 전해주자.","Gib ZubaEagermon das Item zurück."
+2880,"","Duramon’s Lost Item","杜蘭獸的失物","","듀라몬의 분실물","Duramons Verlust"
+2881,"","Duramon","杜蘭獸","","듀라몬","Duramon"
+2882,"","It fell in Kowloon Lv. 3.
+Help me find it!","請幫我找掉在Kowloon Lv.3的重要物品！","","쿠롱 Lv.3에서 떨어뜨린
+소중한 것을 찾아줘!","Es ging auf Ebene 3 von Kowloon
+verloren. Hilf mir bei der Suche!"
+2890,"","Meet client in Kowloon Lv. 3","到Kowloon Lv.3跟委託人見面","","쿠롱 Lv.3의 의뢰인을 만나자.","Geh zum Klienten, Eb. 3 von Kowloon."
+2891,"","Search Kowloon Lv. 3","在Kowloon Lv.3尋找","","쿠롱 Lv.3의 탐색을 하자.","Suche auf Ebene 3 von Kowloon."
+2892,"","Return Duramon’s lost item.","將失物交給杜蘭獸","","듀라몬의 분실물을 전해주자.","Gib Duramon das Verlorene zurück."

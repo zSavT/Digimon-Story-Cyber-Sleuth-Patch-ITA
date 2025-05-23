@@ -1,0 +1,93 @@
+ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
+1000,4309,"","Mirei Mikagura from the Consultation Room...
+She's really gorgeous! Though she's never around.","那間諮商室的御神樂米蕾小姐……真的很漂亮耶！
+雖然我很少看到她就是了！","","저기 있는 상담소의 미카구라 미레이 씨… 정말 미인이라니깐…!
+거의 안 보이지만 말이야!","Mirei Mikagura vom Beratungsraum ...
+Sie ist so hübsch! Allerdings ist sie nie da."
+1050,4309,"","I never see Mirei from the consultation room
+around anymore... Not that she was around that
+much to begin with...","最近都沒有看到諮商室的米蕾小姐啊……
+算了，反正我原本就很少看見她了。","","상담소의 미레이 씨, 최근에 안 보이네…
+뭐, 애초에 거의 안 보였지만 말이야","Ich sehe Mirei vom Beratungsraum gar nicht mehr.
+Nicht, dass sie früher viel da war."
+1051,4309,"","Ahh... I wanna consult with her...","啊～好想找她諮商～","","아~, 상담하고 싶어~","Ahh ... Von ihr möchte ich gern beraten werden ..."
+1100,4310,"","This is Mirei Mikagura's consultation room...
+Her advice is really solid.
+If you have life questions, you should go.","御神樂米蕾的諮商室……大家都誇說她的建議很準確呢……
+如果對人生……對未來感到煩惱的話，你可以去找她商量哦。","","미카구라 미레이의 상담소… 어드바이스가 정확하다고 평판이 좋아…
+인생을 살아가면서… 갈 길을 잃으면 상담을 받아 보는 게 좋아…","Dies ist der Beratungsraum von Mirei Mikagura ...
+Ihre Ratschläge sind sehr hilfreich. Wenn du
+nicht weiterweißt, solltest du hingehen."
+1150,4310,"","I want to speak with Ms. Mirei, but she's not in.
+She's never around...","我很想找米蕾小姐商量，可是她一直都不在耶……
+她也太常不在了……","","미레이 씨에게 상담하고 싶은데… 없어…
+너무 자주 없어…","Ich möchte mit Ms. Mirei sprechen, aber sie ist
+nicht da. Sie ist nie da ..."
+3000,4240,"","Thank you for playing our game! We have something
+for you as a token of our thanks!","非常感謝您下載本內容！","","해당 콘텐츠를 다운로드해 주셔서
+감사합니다!","Vielen Dank, dass Du unser Spiel spielst! Wir
+haben ein kleines Dankeschön für dich."
+3010,4240,"","This is bonus content. Enjoy it!","這是本次發布的下載內容。
+請您小心保管哦！","","이쪽이, 이번에 배포하는 다운로드 콘텐츠입니다
+소중히 사용해 주세요!","Hier ist der Bonusinhalt!"
+3020,4240,"","I hope to help you again soon!","那麼，期待您的下次惠顧！","","그럼, 다음 이용을 기다리고 있겠습니다!","Ich hoffe, ich kann dir bald wieder helfen!"
+3030,4240,"","...Oh dear.
+It seems you don't have enough memory free.","……哎呀，
+可用容量似乎不夠呢。","","………어머
+메모리가 부족하신 것 같네요","... Oje.
+Anscheinend hast du nicht genug Speicherplatz."
+3031,4240,"","To download bonus content [4[d0]], you need at least
+[1[n0]] free party memory.","要下載內容
+[4[d0]]，
+隊伍上限的空位需要有[1[n0]]以上。","","다운로드 콘텐츠
+[4[d0]]를(을) 손에 넣으시려면
+파티 메모리의 빈 공간이 [1[n0]] 이상 필요합니다","Um den Bonusinhalt [4[d0]] herunterzuladen,
+benötigst du mindestens [1[n0]] an 
+verfügbarem Gruppenspeicher."
+3032,4240,"","Speak with me again once you've freed up some
+party memory!","請將隊伍上限清出空位後，
+再過來找我！","","파티 메모리에 빈 공간을 만드시면
+다시 말을 걸어 주세요!","Sprich noch mal mit mir, wenn du mehr Platz
+im Gruppenspeicher hast!"
+3033,4240,"","To download bonus content [c1143] and [c1713], you need at least
+[1[n0]] free party memory.","要下載本次內容
+[c1143]、[c1713]，
+隊伍上限的空位需要有[1[n0]]以上。","","이 다운로드 콘텐츠
+[c1143], [c1713]를(을) 손에 넣으시려면
+파티 메모리의 빈 공간이 [1[n0]] 이상 필요합니다","Um den Bonusinhalt [c1143] & [c1713] herunterzuladen,
+benötigst du mindestens [1[n0]] an 
+verfügbarem Gruppenspeicher."
+3040,4240,"","...Oh dear.
+It seems your party memory is full.","……哎呀，
+同行數碼寶貝的數量似乎已經到達上限了呢。","","………어머
+파티 디지몬이 가득 차신 것 같네요","Oje.
+Dein Gruppenspeicher ist voll."
+3041,4240,"","To download bonus content [c1143] and [c1713], you need at least
+[1two] empty Party Digimon slots.","要下載本次內容
+[c1143]、[c1713]，
+同行數碼寶貝需要有[12]個空位。","","이 다운로드 콘텐츠
+[c1143], [c1713]를(을) 손에 넣으시려면
+파티 디지몬에 [12]체분의 빈 공간이 필요합니다","Um den Bonusinhalt [c1143] & [c1713] herunterzuladen,
+benötigst du mindestens [1zwei] leere Plätze 
+in deiner Digimongruppe."
+3042,4240,"","To download bonus content [4[d0]], you need at least
+[1one] empty Party Digimon slot.","要下載內容
+[4[d0]]，
+同行數碼寶貝需要有[11]個空位。","","다운로드 콘텐츠
+[4[d0]]를(을) 손에 넣으시려면
+파티 디지몬에 [11]체분의 빈 공간이 필요합니다","Um den Bonusinhalt [4[d0]] herunterzuladen, benötigst du
+mindestens [1einen] leeren Platz
+in deiner Digimongruppe."
+3043,4240,"","Speak with me again once you've rearranged your
+Party Digimon!","請將同行數碼寶貝整理出空位後，
+再過來找我！","","파티 디지몬의 정리를 끝내시면
+다시 말을 걸어 주세요!","Sprich noch mal mit mir, wenn du deine
+Digimongruppe umgestellt hast!"
+3050,4240,"","WARNING: If you Digivolve or De-Digivolve
+[4[d0]],
+it will not be possible to undo it.","這個[4[d0]]
+在進化、退化後，將會無法恢復原狀。
+在執行進化、退化時，請多加注意哦。","","이 [4[d0]]는(은)
+진화 및 퇴화를 하면 원래대로 돌아올 수 없습니다
+진화 및 퇴화를 하실 때는 주의해 주세요","ACHTUNG: Wenn du [4[d0]] digitierst oder
+de-digitierst, kannst du das nicht rückgängig machen."

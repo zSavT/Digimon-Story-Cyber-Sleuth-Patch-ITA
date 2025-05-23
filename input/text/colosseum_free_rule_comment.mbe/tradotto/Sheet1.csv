@@ -1,0 +1,49 @@
+ID,Japanese,English,Chinese,EnglishCensored,Korean,German
+1,,Piacere di conoscerti.,請多多指教,,잘 부탁드립니다,"Freut mich, dich kennenzulernen."
+2,,Grazie per la lotta!,感謝跟我對戰,,대전 감사합니다,Danke für den Kampf!
+3,,Ottimo lavoro.,辛苦你了,,수고하셨습니다,Gute Arbeit.
+4,,"Per favore, smettila.",晚安,,안녕히 주무세요,Bitte hör auf damit.
+5,,È stato divertente!,真是開心,,즐거웠습니다,Das hat Spaß gemacht!
+6,,Grazie per oggi.,今天謝謝你了,,오늘은 감사했습니다,Danke für heute.
+7,,Sì.,好,,예,Ja.
+8,,Okay.,OK,,OK입니다,Okay.
+9,,No.,不是,,아니오,Nein.
+10,,Mi dispiace.,對不起,,죄송합니다,Tut mir leid.
+11,,Aspetta.,請等我一下,,잠시만 기다려 주세요,Moment mal.
+12,,Grazie.,謝謝,,감사합니다,Danke.
+13,,Prego.,不客氣,,천만에요,Gern geschehen.
+14,,Cerco avversario! Chiunque va bene.,徵求對戰對手中！　歡迎所有人,,대전 상대 모집중! 아무나 오세요,Suche Gegner! Alle willkommen.
+15,,Cerco avversario! Principianti benvenuti.,徵求對戰對手中！　歡迎新手,,대전 상대 모집중! 초보자 환영,Suche Gegner! Anfänger willkommen.
+16,,Cerco avversario! Diamo inizio allo scontro.,徵求對戰對手中！　來認真比試吧,,대전 상대 모집중! 진지하게 합시다,Suche Gegner! Starke willkommen.
+17,,Sentiti libero di richiedere regole.,有想選的規則嗎？,,원하시는 룰이 있다면 말씀하세요,Du kannst um Regeln bitten.
+18,,Va bene con queste impostazioni.,這樣就好,,이대로 OK입니다,Einstellungen okay.
+19,,Combattiamo!,進行對戰吧,,대전 부탁합니다,Kämpfen wir!
+20,,Sei pronto?,準備好了嗎？,,준비 되셨나요?,Bist du bereit?
+21,,Preparazione in corso.,正在準備,,준비 중입니다,Bereite mich vor.
+22,,Combattere di nuovo?,要再對戰一次嗎？,,다시 한번 대전하지 않겠습니까?,Erneut kämpfen?
+23,,Finiamola con il prossimo.,下一場就結束,,다음 판으로 끝냅시다,Der Nächste entscheidet alles.
+24,,Combatti senza regole.,以無限制規則進行對戰,,무제한 룰로 대전,Ohne Regeln kämpfen.
+25,,Combatti con regole uniformi.,以平等規則進行對戰,,플랫룰로 대전,Mit normalen Regeln kämpfen.
+26,,Combatti senza impostazioni del livello di restrizione.,以等級限制「無限制」進行對戰,,레벨 설정「제한 없음」으로 대전,Kampfeinstellung: keine Lv-Einschränkung
+27,,Combatti con Impostazione Livello Fisso a 50.,以等級設定「平等50級」進行對戰,,레벨 설정「50플랫」으로 대전,Kampfeinstellung: alle auf Level 50
+28,,Combatti con le Impostazioni di Memoria Senza Restrizioni.,以隊伍上限「無限制」進行對戰,,메모리 설정「제한 없음」으로 대전,Kampfeinstellung: ohne Speicher-Einschr.
+29,,Combatti con un'impostazione della memoria inferiore a 100.,以隊伍上限「100以內」進行對戰,,메모리 설정「100위 이내」로 대전,Kampfeinstellung: unter 100 Speicher
+30,,Combatti con i Potenziamenti attivati.,以「使用」強化值進行對戰,,강화치「사용한다」로 대전,Mit Verbesserungen kämpfen.
+31,,Combatti con potenziamenti disattivati.,以「不使用」強化值進行對戰,,강화치「사용하지 않는다」로 대전,Ohne Verbesserungen kämpfen.
+32,,Puoi cambiare il gruppo utilizzato?,能拜託你變更使用隊伍嗎？,,사용할 파티의 변경을 부탁드려도 될까요?,Kann benutzte Gruppe geändert werden?
+33,,Me ne vado.,退出,,빠지겠습니다,Ich werde gehen.
+34,,Aprirò un posto.,我要暫時離開,,잠시 자리를 비우겠습니다,Ich werde Platz machen.
+35,,"Ho qualcosa da fare, ci vediamo dopo.",我還有事，再見,,일이 있어서 실례하겠습니다,Ich habe etwas zu tun. Bis dann.
+36,,Cambierò le regole.,變更規則,,룰을 변경하겠습니다,Ich werde die Regeln ändern.
+37,,Cambierò la squadra da utilizzare.,變更使用隊伍,,사용할 파티를 변경하겠습니다,Ich werde die Gruppe ändern.
+38,,La connessione di rete non è stabile.,網路狀況很糟,,네트워크 상태가 좋지 않습니다,Netzwerkverbindung ist instabil.
+39,,Sono un principiante.,新手,,초보자입니다,Ich bin ein Anfänger.
+40,,Mi ci sto appassionando parecchio.,認真比試,,진지하게 합니다,Mir gefällt das gut.
+41,,Combatterò con il mio Digimon preferito.,用喜歡的數碼寶貝來戰鬥,,좋아하는 디지몬으로 배틀하겠습니다,Ich kämpfe mit meinen Lieblingsdigimon.
+42,,Divertiamoci un po'.,來開心打一場吧,,즐겁게 합시다,Amüsieren wir uns.
+43,,Facciamolo sul serio.,來認真打一場吧,,진지하게 합시다,Geben wir alles!
+44,,Sei tosto!,真是厲害,,강하시네요,Du bist ziemlich hart im Nehmen!
+45,,La prossima volta vincerò!,下一次我會贏！,,다음엔 이긴다!,Nächstes Mal gewinne ich!
+46,,Così vicino!,我不甘心！,,분하다!,Das war knapp!
+47,,La prossima volta farò sul serio!,下一次我會用全力！,,다음엔 진심으로 간다!,Nächstes Mal wird es ernst!
+48,,Bella partita!,真是場好比試,,좋은 승부였다,Guter Kampf!

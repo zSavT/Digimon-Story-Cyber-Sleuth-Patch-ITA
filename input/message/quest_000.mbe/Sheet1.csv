@@ -1,0 +1,151 @@
+ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
+0,3006,"","Your job is to take a case and work on it until
+it's completely solved. I hope I can rely on you!","接到的委託案，要一直到完成任務的報告才算結束。
+那就拜託你囉。","","받은 의뢰는 완료했다고 보고하기 전까지 일이다
+제대로 해주기 바란다","Deine Aufgabe ist es, einen Fall zu übernehmen und
+ihn zu bearbeiten, bis er gelöst ist. Ich hoffe,
+ich kann mich auf dich verlassen!"
+50,3006,"","How is the case going? I hope you manage to solve
+it. Good luck!","委託案進行得怎麼樣了？
+好好努力解決案件吧。","","의뢰는 어떻게 되어가고 있지?
+해결을 위해 힘내도록 해라","Wie läuft der Fall? Ich hoffe, du schaffst es, ihn
+zu lösen. Viel Glück!"
+100,2000,"","Maybe we should go back to the client...","回去委託人那裡吧……","","의뢰인에게 돌아갈까…","Vielleicht sollten wir wieder zum Klienten gehen."
+150,2000,"","Today, let's just focus on the case at hand.","現在還是專注在眼前的委託好了……","","지금은 눈앞의 의뢰에 집중하자…","Konzentrieren wir uns heute lieber auf
+den aktuellen Fall."
+200,3013,"","I hear you beat Rina and UlforceVeedramon!?","聽說你打贏
+莉娜和究極V龍獸了？","","이야기 들었어
+리나와 알포스브이드라몬에게 이겼다면서?","Wie ich höre, hast du Rina und
+UlforceVeedramon besiegt?!"
+201,3013,"","It seems you're much stronger than before...
+...I might have a few pointers for you.","你的實力已經強到不可同日而語了呢……
+既然如此，我有一個提議。","","예전과는 비교할 수 없을 정도로 강해졌구나…
+…그런 네게 제안을 하나 할게","Du wirkst jetzt viel stärker ...
+Vielleicht habe ich ein paar Tipps für dich."
+202,3013,"","I have fought so many powerful Digimon now...
+I have tried to make a ""copy"" that goes beyond
+even their strength.","那些奮戰至今的強力數碼寶貝……
+我試著做了將它們力量提升到更高層次的“複製品”。","","지금까지 몇 번이나 싸워온 강력한 디지몬들…
+그 힘을 더욱더 강하게 만든 ""카피""를 만들어봤는데","Ich habe schon gegen so viele mächtige Digimon
+gekämpft ... Ich habe versucht, eine „Kopie“ zu
+erstellen, die ihre Stärke noch übertrumpft."
+203,3013,"","How would you like to try a battle to test out
+your skills?","你要不要和它們打打看，當作測試自己的實力？","","실력도 시험해보는 겸 싸워보지 않을래?","Was hältst du von einem Kampf, um deine
+Fertigkeiten auszuprobieren?"
+204,3013,"","Heehee, well, the choice is yours, but if you win,
+there could be an awesome prize in it for you...","呵呵，要不要戰鬥是你的自由，
+但是如果你贏了，或許會有精美的獎品哦？","","후후. 할지 하지 않을지는 네 자유지만
+만약 이기면 멋진 보상이 있을지도 몰라","Hihi, es liegt ganz bei dir, aber wenn du
+gewinnst, erhältst du vielleicht einen
+tollen Preis ..."
+205,3013,"","The first person you should talk to is in the
+Zaxon Forum. If you are interested, by all means
+make your way there.","第一個對手在「Zaxon廣場」，
+有興趣的話就過去找它吧。","","제일 첫 상대는「잭슨 포럼」에 있어
+관심이 있다면 한 번 가보도록 해","Die erste Person, mit der du reden solltest,
+ist im Zaxon-Forum. Wenn du Interesse hast,
+solltest du unbedingt hingehen."
+250,1382,"","I accept the challenge!","這場戰鬥，我接下了！","","그 승부, 받아주겠다!","Ich nehme die Herausforderung an!"
+251,1751,"","I will show you just how big a difference there is
+between us!","讓你看看我們力量的差距！","","역량의 차이를 보여주겠다!","Ich werde dir zeigen, wie unterschiedlich wir
+sind!"
+300,3013,"","Looks like you beat Magnamon. Right then,
+next up...go to the Tokyo Metropolitan Office.
+You definitely won't be disappointed!","看來你連金甲龍獸也打贏了呢。
+那麼下一個對手……就去東京新都廳吧，
+它一定可以滿足你的。","","매그너몬도 이겼구나
+그럼 다음은… 도쿄 신 도청으로 가 봐
+분명 너도 만족할 수 있을 거야","Du hast also Magnamon besiegt. Na schön.
+Geh als Nächstes zum Tokioer Metropolitan-
+Gebäude. Du wirst nicht enttäuscht werden!"
+350,1739,"","I am a master of strategy. Have a taste of this!","讓你嘗嘗我崇高智謀的厲害！","","나의 숭고한 수많은 지략들을 충분히 맛보아라!","Ich bin ein Meister der Strategie.
+Mal sehen, wie dir das schmeckt!"
+400,3013,"","Looks like you beat Leopardmon. Right then,
+next up...go to Kowloon Lv. 5.
+You definitely won't be disappointed!","看來你連芳香獸也打贏了呢。
+那麼下一個對手……就去Kowloon Lv. 5吧，
+它一定可以滿足你的。","","두프트몬도 이겼구나
+그럼 다음은… 쿠롱 Lv.5로 가 봐
+분명 너도 만족할 수 있을 거야","Du hast also Duftmon besiegt. Na schön.
+Geh als Nächstes zur fünften Ebene in
+Kowloon. Du wirst nicht enttäuscht werden!"
+450,1086,"","Are you challenging me? This should be fun...","你想挑戰我們嗎？有趣。","","내게 도전하는 건가. 재미있군","Forderst du mich heraus? Das könnte lustig werden."
+451,1734,"","Show me this strength of yours!","展現你的實力吧！","","그 실력을 보여봐라!","Zeig mir jetzt mal, wie stark du wirklich bist!"
+500,3013,"","Looks like you beat Kentaurosmon and Craniamon.
+Right then, next up...go to Roppongi Underground
+Research Lab. You won't be disappointed!","看來你連八腳馬獸、顱骨獸也打贏了呢。
+那麼下一個對手……就去六本木地下研究設施吧，
+它一定可以滿足你的。","","슬레이프몬, 크레니엄몬도 이겼구나
+그럼 다음은… 롯폰기 지하 연구시설로 가 봐
+분명 너도 만족할 수 있을 거야","Du hast also Kentaurosmon und Craniamon besiegt.
+Geh jetzt zum unterirdischen Forschungslabor in
+Roppongi. Du wirst nicht enttäuscht werden!"
+550,1738,"","An unwise challenge... I accept!","我就接受你不自量力的挑戰吧！","","그 무모한 도전, 받아주겠다!","Eine unkluge Herausforderung ... Ich nehme sie an!"
+551,1703,"","Have you any idea how foolish you are?
+I will show you!","你會知道自己的行為是多麼愚蠢！","","네놈이 얼마나 어리석은 행동을 하고 있는지 깨달아라!","Ist dir eigentlich klar, welch ein Narr du bist?
+Ich werde es dir zeigen!"
+600,3013,"","Looks like you beat Dynasmon and Crusadermon.
+Right then, next up...go to Odaiba Bay.
+You definitely won't be disappointed!","看來你連杜納斯獸、劍皇獸都打贏了呢。
+那麼下一個對手……就去御台場 灣岸線吧，
+它一定可以滿足你的。","","듀나스몬, 로드나이트몬도 이겼구나
+그럼 다음은… 오다이바 완간선으로 가 봐
+분명 너도 만족할 수 있을 거야","Du hast also Dynasmon und Crusadermon besiegt.
+Na schön. Geh als Nächstes zur Odaiba-Bucht.
+Du wirst nicht enttäuscht werden!"
+650,1215,"","Ahhhhhhhhhhhhhhhhhh!!!","吼喔喔喔喔喔喔喔喔喔喔喔————！！！！！","","우오오오오오오오오오오오오오오오오오오오오오오!!!!!","Aaaahhhhhh!"
+700,3013,"","Looks like you beat Examon.
+Right then, next up...go to Demon's Den.
+You definitely won't be disappointed!","看來你連艾克薩獸也打贏了呢。
+那麼下一個對手……就去惡魔巢穴吧，
+它一定可以滿足你的。","","엑자몬도 이겼구나
+그럼 다음은… 데몬즈 아지트로 가 봐
+분명 너도 만족할 수 있을 거야","Du hast also Examon besiegt. Na schön.
+Geh als Nächstes zur Demons-Höhle.
+Du wirst nicht enttäuscht werden!"
+750,1688,"","I applaud your bravery in challenging us!","前來挑戰我等的勇氣值得讚許！","","우리에게 도전하는 용기는 칭찬해 주겠다!","Ich bewundere deinen Mut, uns herauszufordern!"
+751,1749,"","All right, let's go!","一決勝負吧！","","자, 승부다!","Also, los geht’s!"
+800,3013,"","Looks like you beat Gankoomon and Jesmon.
+Right then, next up...go to the Valhalla Server.
+You definitely won't be disappointed!","看來你連頑固獸、傑斯獸都打贏了呢。
+那麼下一個對手……就去瓦爾哈拉伺服器吧，
+它一定可以滿足你的。","","간쿠몬, 제스몬도 이겼구나
+그럼 다음은… 발할라 서버로 가 봐
+분명 너도 만족할 수 있을 거야","Du hast Gankoomon und Jesmon besiegt.
+Geh als Nächstes zum Walhalla-Server.
+Du wirst nicht enttäuscht werden!"
+850,1088,"","As a knight, I cannot refuse a challenge!","身為一名騎士，
+有人向我提出決鬥，我當然不能拒絕。","","기사인 이상, 결투 신청을 받았으니
+거절할 수는 없지","Als Knight kann ich keine Herausforderung
+ablehnen!"
+851,1416,"","The honorable choice is probably to reconsider and
+step down, but...","我認為改變想法然後撤退，
+也是一種有勇氣的選擇……","","다시 생각해보는 것도
+용기 있는 선택이라고 생각한다만…","Wahrscheinlich wäre es ehrenvoll, es zu überdenken
+und zu unterlassen, aber ..."
+852,1126,"","Even so, if you challenge me I will show you
+no mercy. Attack me with all you've got!","但是既然你仍要向我們挑戰，那我們就不會手下留情。
+儘管放馬過來吧！","","그래도 도전한다면 봐주지는 않겠다
+전력으로 덤벼라!","Wenn du mich herausforderst, zeige ich keine
+Gnade. Greif mich mit allem an,
+was du zu bieten hast!"
+900,3013,"","Omnimon, Alphamon, and Gallantmon...
+You're telling me you beat those three?
+...That's amazing!","奧米加獸、阿爾法獸、紅蓮騎士獸……
+沒想到你竟然打贏那三隻數碼寶貝……真是太棒了。","","오메가몬, 알파몬, 듀크몬…
+설마 정말로 그 3마리를 이기다니… 굉장해","Omnimon, Alphamon und Gallantmon ...
+Willst du mir sagen, du hast die drei besiegt?
+... Das ist unglaublich!"
+901,3013,"","I'm sure you'll take Imperialdramon down no
+problem...","這樣你一定也可以打贏帝皇龍甲獸的……","","너라면 분명
+황제드라몬도 쓰러뜨릴 수 있을 거야…","Du wirst Imperialdramon sicher ohne Probleme aus
+dem Weg räumen ..."
+902,3013,"","He's in the Digital World.
+Go show him what you're made of!","它就在數碼世界，
+讓它瞧瞧你的實力吧！","","그는 디지털 월드에 있어
+너의 힘을 보여줘!","Er ist in der Digitalen Welt. Zeig ihm, was du kannst!"
+950,1420,"","Do tell me of your fighting prowess, good sir.
+Please, show me this strength you boast of!","我耳聞閣下武功高超。
+毋須客氣，就讓我見識一番吧！","","귀공의 무공은 들었다
+양보는 필요 없다. 그 실력을 보여다오!","Gern möchte ich deine Kampfkünste bewundern.
+Zeig mir doch, wie stark du bist!"

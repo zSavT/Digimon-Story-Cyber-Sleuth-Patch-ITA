@@ -1,0 +1,82 @@
+ID,Japanese,English,Chinese,EnglishCensored,Korean,German
+1,"","There is at least one Digimon.","需要1隻以上的數碼寶貝","","디지몬이 1마리 이상 필요하다.","Mindestens ein Digimon in der
+Gruppe."
+2,"","There are four or more Digimon
+which are Rookie or better.","需要4隻以上
+世代為「成長期」以上的數碼寶貝","","세대가「성장기」이상인 디지몬이
+4마리 이상 필요하다.","Mindestens vier Digimon auf
+Rookie-Stufe oder höher."
+3,"","There are four or more Digimon
+which are Champion or better.","需要4隻以上
+世代為「成熟期」以上的數碼寶貝","","세대가「성숙기」이상인 디지몬이
+4마리 이상 필요하다.","Mindestens vier Digimon auf
+Champion-Stufe oder höher."
+4,"","There are four or more Digimon
+which are Ultimate or better.","需要4隻以上
+世代為「完全體」以上的數碼寶貝","","세대가「완전체」이상인 디지몬이
+4마리 이상 필요하다.","Mindestens vier Digimon auf
+Ultra-Stufe oder höher."
+5,"","There are two or more Digimon
+which are data types.","需要2隻以上
+種族為「資料種」的數碼寶貝","","종족이「데이터」인 디지몬이
+2마리 이상 필요하다.","Mindestens zwei Digimon vom
+Typus Datei."
+6,"","There is a Digimon which
+is a data type.","需要種族為「資料種」的數碼寶貝","","종족이「데이터」인 디지몬이 필요하다.","Ein Digimon vom Typus Datei."
+7,"","There are at least one Fire,
+Water, or Plant Digimon.","需要屬性「火」「水」「木」
+各1隻以上的數碼寶貝","","속성「불」,「물」,「풀」디지몬이
+각 1마리 이상 필요하다.","Mindestens ein Feuer-,
+Wasser- oder Pflanzen-Digimon."
+8,"","There is a vaccine Digimon.","需要種族為「疫苗種」的數碼寶貝","","종족이「백신」인 디지몬이 필요하다.","Ein Digimon vom Typus Serum."
+9,"","There is a virus Digimon.","需要種族為「病毒種」的數碼寶貝","","종족이「바이러스」인 디지몬이 필요하다.","Ein Digimon vom Typus Virus."
+10,"","There is at least one Digimon
+which is Ultimate or better.","需要1隻以上
+世代為「完全體」以上的數碼寶貝","","세대가「완전체」이상인 디지몬이
+1마리 이상 필요하다.","Mindestens ein Digimon auf
+Ultra-Stufe oder höher."
+11,"","There is at least one Digimon
+which is Mega or better.","需要1隻以上
+世代為「究極體」以上的數碼寶貝","","세대가「궁극체」이상인 디지몬이
+2마리 이상 필요하다.","Mindestens ein Digimon auf
+Mega-Stufe oder höher."
+12,"","There are five or more Digimon
+which are Mega or better.","需要5隻以上
+世代為「究極體」以上的數碼寶貝","","세대가「궁극체」이상인 디지몬이
+5마리 이상 필요하다.","Mindestens fünf Digimon auf
+Mega-Stufe oder höher."
+13,"","There is a Free Type Digimon.","需要種族為「自由種」的數碼寶貝","","종족이「프리」인 디지몬이 필요하다.","Ein Digimon vom Freien Typ."
+14,"","There is a Free Type Digimon
+which is Rookie or better.","需要種族為「自由種」
+並為「成長期」以上的數碼寶貝","","종족이「프리」이며「성장기」이상인 
+디지몬이 필요하다.","Ein Digimon vom Freien Typ
+auf Rookie-Stufe oder höher."
+15,"","Have one or more Champion-level
+Digimon in your possession.","有一隻以上的，世代在
+「成熟期」以上的數碼寶貝","","세대가「성숙기」이상인 디지몬이
+1마리 이상 필요하다.","Besitze mindestens ein Digimon
+auf Champion-Stufe."
+16,"","Have one or more Electric
+Digimon in your possession.","有一隻以上的「雷」屬性數碼寶貝","","속성이「전기」인 디지몬이 
+1마리 이상 필요하다.","Besitze mindestens ein
+Elektro-Digimon."
+17,"","Have a Vaccine Digimon at
+Champion level or higher","有「疫苗種」且「成熟期」
+以上的數碼寶貝","","종족이「백신」이고「성숙기」이상인
+디지몬이 필요하다.","Besitze ein Serum-Digimon auf
+Champion-St. oder höher."
+18,"","Have a Data Digimon at Champion
+level or higher","有「資料種」且「成熟期」
+以上的數碼寶貝","","종족이「데이터」고「성숙기」이상인
+디지몬이 필요하다.","Besitze ein Datei-Digimon auf
+Champion-St. oder höher."
+19,"","Have a Free Digimon at
+Champion level or higher.","有「自由種」且「成熟期」
+以上的數碼寶貝","","종족이「프리」고「성숙기」이상인
+디지몬이 필요하다.","Besitze ein Freies Digimon auf
+Rookie-Stufe oder höher."
+20,"","Have a Virus Digimon at Champion
+level or higher","有「病毒種」且「成熟期」
+以上的數碼寶貝","","종족이「바이러스」고「성숙기」이상인
+디지몬이 필요하다.","Besitze ein Virus-Digimon auf
+Champion-St. oder höher."

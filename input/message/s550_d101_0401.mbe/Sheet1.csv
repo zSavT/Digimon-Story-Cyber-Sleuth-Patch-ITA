@@ -1,0 +1,9 @@
+ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
+1,5004,"","Enter the password.","請輸入密碼。","","패스워드를 입력해주세요","Gib das Passwort ein."
+2,2020,"","(I'll try the password the client told me about.)","（輸入委託人提到的密碼吧）","","(의뢰인에게서 들은 패스워드를 넣어보자)","(Ich probiere das Passwort, von dem der Klient
+mir erzählt hat.)"
+3,5004,"","Possunt quia posse videntur","Possunt quia posse videntur","","Possunt quia posse videntur","Possunt quia posse videntur"
+4,5004,"","...... ...... ...... ......","…… …… …… ……","","……　……　……　……","...... ...... ...... ......"
+5,5004,"","Password verified.","密碼　通過　認証
+請　進入","","패스워드 인증 되었습니다
+지나가십시오","Passwort bestätigt."
