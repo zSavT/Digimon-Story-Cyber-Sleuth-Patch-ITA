@@ -1,0 +1,76 @@
+ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
+1,3045,,"...Oh, sei tornato.",……啊，你回來了。,,"……아, 돌아왔다","... Ach, da bist du ja wieder."
+2,2020,,!!!,！！,,!!,!!!
+3,7115,,"[1Processo illegale scoperto.
+Processo illegale scoperto.]","[1發現不當處理。
+發現不當處理。]",,"부정한 접속을 발견했습니다
+부정한 접속을 발견했습니다","Illegaler Vorgang festgestellt.
+Illegaler Vorgang festgestellt."
+4,7115,,[1Vieni immediatamente al centro di sicurezza--],[1立刻向資安中心回──],,즉시 보안 센터에――,Komm sofort zur Sicherheitszentrale ...
+5,3045,,Allora? Dove sei andato/a?,那麼，你到哪去了？,,"그래서, 어디에 갔었어?",Also? Wo warst du?
+6,2020,,...?!,……！？,,……!?,...?!
+7,3045,,Cosa? Ti ho mandato senza sapere dove saresti andato?,你說我都不知道就把你送過去了？,,모르고 보낸거였냐고?,"Was? Ich habe dich geschickt, ohne zu wissen,
+wo es hingeht?"
+8,3045,,"Ehi, volevo andarci io stesso, ma continuavo a venire
+respinto. Ho perso le tue tracce lungo il percorso, inoltre.","我也想過去啊，但被擋住了沒有辦法，
+你的蹤跡也在途中就追丟了。",,"나도 가고싶었지만 튕겨나와버렸는걸.
+네 흔적도 도중에 끊겨버렸고","Ich wollte ja selbst hingehen, aber ich wurde
+immer wieder abgewiesen. Dabei habe ich
+dich auch aus den Augen verloren."
+9,3045,,Dammi i tuoi dati di registro più tardi. Proverò ad analizzarli.,之後給我你的紀錄吧，我試著分析看看。,,나중에 네 로그를 줘. 해석해볼게,"Gib mir später dein Protokoll. Ich werde
+versuchen, es zu analysieren."
+10,3045,,"Voglio anche dati soggettivi. Ciò che hai osservato
+con i tuoi stessi occhi. Cosa c'era lì?","不過，我想要你親眼見識的主觀資料，
+你在那發生什麼了？",,"그래도 네 눈을 통한 주관적인 데이터도 필요해.
+저쪽에서 무슨 일이 있었어?","Außerdem will ich subjektive Daten. Was du selbst
+beobachtet hast. Was war dort los?"
+11,3045,,"...Hmm. Capisco. Beh, è abbastanza. Andiamo.","……嗯，這樣啊。
+那麼，就這樣。走吧",,"……흐응. 그런가.
+아니, 이제 됐어. 가자",... Hm. Verstehe. Das genügt jetzt. Gehen wir.
+12,2020,,?!,！？,,!?,?!
+13,3045,,Non vorrei sapere chi è quella donna?,你問我難道不在意她是誰嗎？,,그녀가 누군지 신경쓰이지 않느냐고?,"Ob ich nicht wissen will, wer diese Frau ist?"
+14,3045,,"Non proprio. La mia congettura era praticamente nel
+segno, quindi...","不會，已經無所謂了。
+我覺得我的推測大部分都是正確的。",,"별로. 이제 충분해.
+내 추측이 대부분 맞았다고 생각하고 있고","Nicht wirklich. Meine Vermutung war ziemlich
+nah dran, also ..."
+15,3045,,"Dalla tua storia, dovrei indovinare...",照你所說的來推測──,,네 이야기로 추측해보건대――,"Deiner Geschichte nach zu urteilen, würde ich
+raten ..."
+16,3045,,"...che hai incontrato la cyber-strega. Deve essere un'hacker
+notevole.","你所遇到「電腦魔女」，
+一定是很高超的駭客。",,"네가 만난「전뇌마녀」
+분명 솜씨 좋은 해커일 거야","... dass du die Cyberhexe getroffen hast. Sie
+muss eine außergewöhnliche Hackerin sein."
+17,2020,,...?!,……！？,,……!?,...?!
+18,3045,,Tutto torna se la pensi in quel modo.,這麼想的話就都說得通了。,,그렇게 생각하면 이치에 맞는걸,"Wenn man davon ausgeht, ergibt alles Sinn."
+19,3045,,"La ragione per cui non riusciamo a percepire la stanza nascosta nel
+Cyberspazio è perché lei continua a spostarla.","之所以無法發現「電腦空間的隱藏房間」，
+是因為她一直在移動那整個區域。",,"「전뇌공간의 숨겨진 방」을 포착할 수 없는 건
+그 사람이 계속 에어리어를 옮겨다니기 때문","Der Grund, warum wir den versteckten Raum im
+Cyberspace nicht sehen können, ist,
+dass sie ihn immer wieder verlegt."
+20,3045,,"Non puoi fare una cosa del genere in un posto come EDEN senza
+processori su scala enorme.","雖然在這EDEN要做到這種事，
+得需要相當大規模的演算裝置才行……",,"이 EDEN에서 그런 짓을 하려면 상당히 방대한
+규모의 연산장치가 반드시 필요하지만……","An einem Ort wie EDEN geht das nicht ohne
+Unmengen an Prozessoren."
+21,3045,,È possibile che una cosa del genere esista in EDEN.,但仔細想想，EDEN裡不可能沒有這種東西吧。,,잘 생각해보면 EDEN에 그런 게 없는 것도 아니고 말이지,"Es ist möglich, dass es so etwas in EDEN gibt."
+22,3045,,Visto? Dopotutto non erano storie di occulto.,看吧，這果然不是超自然現象。,,"봐봐, 역시 오컬트가 아니었지","Siehst du? Es waren doch keine okkulten
+Geschichten."
+23,3045,,"Il gatto? Se analizziamo il log vedremo che era
+solo un...","那隻貓？
+那個分析紀錄後就只是──",,"그 고양이?
+그것도 로그를 해석해보면 단순한――","Die Katze? Wenn wir das Protokoll analysieren,
+werden wir sehen, dass es bloß ..."
+24,3045,,"...Accidenti, pensa con la tua testa per una volta!",……真是的！　你自己想想看嘛。,,……정말! 조금쯤은 스스로 생각하라고!,"... Himmel, nun denk doch einmal selbst nach!"
+25,7105,,Hyaaaaaaaaaaaahhh!,呀──────！,,꺄아――――――――!,Aaaaaaaaahhhhhh!
+26,3045,,?!,！？,,!?,?!
+27,7105,,Aiuuuutoooo!,救、救命啊──！,,"사, 살려줘어―――――!",Hilfeeeeee!
+28,3045,,Cosa...eh? Un Digimon sta attaccando un altro Digimon?,"那是……什麼？
+數碼寶貝在襲擊數碼寶貝！？",,"뭐야……저거?
+디지몬이 디지몬에게 쫓기고 있어!?","Was ... wie? Ein Digimon greift ein anderes
+Digimon an?"
+29,7106,,Nngyeeeeep! Ho finito di fare fffffrrrr!,呀啊啊………！　我、我不行了～～～！,,"히에에……! 이, 이제 틀렸어유~~~!",Arrrgggh! Das Ende naht!
+30,3045,,...!,…………！,,…………!,...!
+31,3045,,...Vai avanti e aiutalo!,……我們去救他！,,……도와줘!,"... Na los, geh hin und hilf!"
+32,2020,,...!,……！,,……!,...!

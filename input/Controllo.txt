@@ -1,0 +1,11 @@
+C:\Users\franc\Repo\Digimon-Story-Cyber-Sleuth-Patch-ITA\input\text\digimon_book_explanation.mbe\tradotto\Sheet1.csv:
+	 Un Digimon enorme che si nasconde nelle profondità marine della rete, che rappresenta la classe più grande di Digimon giganti nel Digital World. La sua pura grandezza significa che non può essere elaborato da computer ordinari a causa di tutti i suoi dati.
+È possibile confermare specie simili nell'area di File Island, ma Whamon, che abita la costa del Folder Continent, ha superato l'attacco e la forza vitale dei suoi simili e si è digievoluto in una forma Ultimate.
+Usa Tidal Wave come sua mossa speciale, che è un attacco tsunami distruttivo.
+
+
+C:\Users\franc\Repo\Digimon-Story-Cyber-Sleuth-Patch-ITA\input\text\digimon_book_explanation.mbe\tradotto\Sheet1.csv:
+	 Un Digimon di ghiaccio avvolto in neve e cristalli di ghiaccio. Il suo aspetto freddo cela una personalità gentile e calorosa. Vedere i movimenti deliberati e i dolci gesti di questo Digimon scaldano il cuore e Frigimon stesso non ama il combattimento. Non va d'accordo con i Digimon ossessionati dalla battaglia, specialmente Meramon.
+La sua mossa speciale Sub-zero Ice Punch viene lanciata con il suo corpo massiccio.
+
+

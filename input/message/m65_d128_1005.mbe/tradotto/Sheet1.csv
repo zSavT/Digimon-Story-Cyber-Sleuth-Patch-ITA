@@ -1,0 +1,85 @@
+ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
+1,1392,,Quello era il ricordo di Erika.,剛才的……是艾莉卡的記憶吧。,,방금 그건……에리카의 기억이네,Das war Erikas Erinnerung.
+2,2020,,...?,……？,,……?,...?
+3,1392,,"Non te lo ricordi?
+Qualcosa di simile è successo sul server di K...Yu.","你忘了嗎？
+在K……優的伺服器不是也有類似的狀況嗎？",,"저기, 기억 안나?
+K……유우의 서버에서도 비슷한 일이 있었잖아","Weißt du nicht mehr?
+Auf K... Yus Server ist etwas Ähnliches passiert."
+4,1392,,"Toccando il corpo di dati che somigliava a Yu,
+siamo stati in grado di visualizzare i suoi dati di memoria.","碰了跟優很像的資料體後，
+我們就能看他的記憶資料了。",,"유우랑 똑같은 데이터체를 만졌더니 우리들이
+그의 기억 데이터를 열람할 수 있게 됐었지","Indem wir den Datenkorpus berührten,
+der wie Yu aussah, konnten wir seine
+Erinnerungsdaten aufrufen."
+5,1392,,Forse è qualcosa del genere.,這個，大概就跟那時候是類似的狀況。,,이건 아마 그것과 비슷한거야,Vielleicht ist das auch so etwas.
+6,1392,,"Ma con Yu, era un falso ricordo creato dal
+Digimon che lo controllava.","優那時候，是操縱他的數碼寶貝
+所做出的模擬記憶……",,"유우의 경우는 그를 조종했던 디지몬이 의사적으로 만든
+기억이었지만…","Aber bei Yu war es eine falsche Erinnerung,
+die das Digimon erschaffen hatte,
+das ihn kontrollierte."
+7,1392,,Penso che questa sia un'IA virtuale creata intenzionalmente dagli ingegneri della Kamishiro.,"艾莉卡的這個，
+我想是神代技術人員刻意做出來的模擬AI。",,"에리카의 것은 카미시로의 기술자가 의도적으로 만든
+가상 AI라고 생각해","Ich glaube, das hier ist eine virtuelle KI,
+die mit Absicht von den Kamishiro-Technikern
+geschaffen wurde."
+8,2020,,???,？？？,,???,???
+9,1392,,Secondo il manuale che ci ha dato Suedou...,嗯，依據末堂明實給的手冊──,,그러니까 스에도 아케미에게서 받은 매뉴얼에 따르면――,Suedous Handbuch sagt Folgendes:
+10,1392,,"...quando estraiamo la memoria dal server,
+Erika può connettersi alla rete con essa in tempo reale, proprio come
+una normale memoria.","艾莉卡在將記憶從伺服器取出時，能夠像普通的記憶一樣，
+以網路連結幾乎即時性的處理……",,"에리카의 기억을 서버에서 꺼낼 때 통상 기억과
+마찬가지로 거의 실시간으로 네트워크가 가능하지만…","Wenn wir die Erinnerungen vom Server ziehen,
+kann Erika in Echtzeit darauf zugreifen,
+wie auf gewöhnliche Erinnerungen auch."
+11,1392,,"Quando viene utilizzato, si attiva un'elaborazione speciale che
+causa un periodo di strano ""tempo di ricerca"".","但原則上使用時，應該會因為要插入特殊處理
+而發生“奇怪的空檔(讀取時間)”。",,"원래는 그것을 사용할 때 특수한 처리가 추가되어서
+""탐색 시간""이 발생해","Bei der Verwendung setzen besondere Prozesse ein,
+auf die eine merkwürdige „Suchzeit“ folgt."
+12,1392,,"Questo rende impossibile estrarre informazioni
+correttamente e difficile stabilire
+una comunicazione.","也因此，無法取出正確的資訊，
+很難將此機能運用在對話上。",,"그 때문에 정확한 정보를 끌어내지 못해서
+커뮤니케이션 이용이 어려워지게 돼","Das macht es unmöglich, Daten korrekt abzurufen,
+und erschwert den Aufbau von Kommunikation."
+13,1392,,"In altre parole, per far funzionare correttamente la memoria,
+è essenziale avere la struttura e l'attività
+di una mente che serva da meccanismo.","這也就是說，要讓記憶正常發揮機能，
+名為「精神」的人類構造以及其活動，
+是使程序成立不可或缺的。",,"즉, 기억을 올바르게 기능시키려면 인간이「정신」이라고
+부르는 것의 구조 및 활동이 메커니즘으로서 불가결해","Mit anderen Worten, damit die Erinnerungen richtig
+funktionieren, braucht es einen Mechanismus mit
+der Struktur und den Aktivitäten eines Verstandes."
+14,1392,,"Questa IA virtuale è la soluzione a quel problema.
+È una rappresentazione artificiale della mente di Erika.","要解決這問題，便是由這模擬AI，
+來擔任艾莉卡的模擬“精神”。",,"그 문제를 해결해주는 것이 이 가상 AI
+에리카의 의사적인 ""정신""이라는 거지","Diese virtuelle KI ist die Lösung zu diesem
+Problem. Sie ist ein künstliches Abbild von
+Erikas Verstand."
+15,1392,,"Il server esegue un'IA modellata sui pensieri di Erika
+per evitare che si verifichino tempi di ricerca.","這伺服器，是以模擬艾莉卡自身思考的AI，
+在伺服器上運作來迴避掉發生
+“奇怪的空檔(讀取時間)”的狀況。",,"이 서버에서는 에리카 자신의 사고를 본뜬 AI를 서버상에 올려
+""탐색 시간""의 발생을 회피하고 있는 거야","Auf dem Server läuft eine KI, die Erikas Gedanken
+nachempfunden ist, damit keine Suchzeit auftritt."
+16,2020,,...,…………,,…………,...
+17,1392,,"Non hai capito niente di quello che ho detto, vero?",……你聽不懂對吧？,,……못 알아듣고 있지,"Du hast kein Wort davon verstanden, oder?"
+18,1392,,"Fondamentalmente, è come una mente che regola la memoria di Erika.","總之，那是為了正常管理的記憶，
+來模擬出的“精神”一類的東西。",,"아무튼 저건 에리카의 기억을 정상적으로 관리하기 위한
+""정신""같은 것이라는 거야","Im Grunde ist es ein Verstand, der Erikas
+Erinnerungen reguliert."
+19,1392,,Non so perché tu l'abbia visto nel mondo reale.,"為什麼你會在現實世界看到那種東西，
+雖然不知道確切原因──",,"왜 네가 그런 것을 현실세계에서 봤는지는
+잘 모르겠지만――","Ich weiß nicht, warum du ihn in der echten
+Welt gesehen hast."
+20,1392,,Forse ha qualcosa a che fare con lo Spostamento Digitale.,但應該，也是Digital Shift造成的影響吧,,이것도 디지털 시프트의 영향일지도 모르겠네,"Vielleicht hat es etwas mit der digitalen
+Verschiebung zu tun."
+21,2020,,...,…………,,…………,...
+22,1392,,"Comunque, continuiamo a muoverci.",總之，往前進吧。,,어쨌든 앞으로 나아가자,Wie dem auch sei – gehen wir weiter.
+23,1392,,"Ripristinare la memoria di Erika è la nostra priorità principale.
+Cerchiamo la memoria di backup.","現在該做的是取回艾莉卡的記憶。
+找出有備份記憶的地方吧。",,"지금은 에리카의 기억을 되찾는게 선결이야.
+백업 기억이 있는 장소를 찾자","Erikas Erinnerungen wiederherzustellen hat oberste
+Priorität. Suchen wir die Sicherung."

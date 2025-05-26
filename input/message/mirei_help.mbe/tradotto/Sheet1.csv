@@ -1,0 +1,139 @@
+ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
+1000,3013,,"Oh cielo, ti sei allontanato e ti sei perso?
+Sembra proprio così...","唉呀，難不成你是迷失了方向嗎？
+說的也是呢……",,"어머 너, 혹시 길을 잃은 거니?
+그러네…","Huch, bist du umhergelaufen und hast dich verirrt?
+So wirkt es jedenfalls ..."
+1001,3013,,"Hee hee... Se ti perdi di nuovo, torna pure.",呵呵呵，如果你不知道接下來該怎麼辦的話，就再來找我吧。,,"우후후, 만약 길을 잃으면 언제든 찾아 오렴","Hihi ... Wenn du dich wieder verirrst,
+komm ruhig zurück."
+1010,3013,,"Ma ancora una volta, il nostro tempo è scaduto. Forse dovresti tornare al tuo vero lavoro, ""Cyber Sleuth""?","時候還沒到呢。
+你只要繼續從事本行……繼續當你的偵探就行了吧？",,"아직, 때는 되지 않았어
+본직… 탐정 업무를 하면 괜찮지 않을까?","Wieder einmal läuft uns die Zeit davon. Vielleicht
+solltest du dich um deinen richtigen
+Job kümmern, „Cyber-Detektiv“?"
+1020,3013,,"Perché non porti quello che hai imparato a
+Kyoko? Non è che non voglia chiacchierare, ma
+c'è qualcuno a cui devi fare rapporto, e non sono io.","試著把獲得的情報告訴在事務所的杏子如何？
+我不是不了解你想見我一面的心情，
+但你應該報告的對象可不是我哦。",,"입수한 정보를, 사무소의 쿄코에게 전해 주는 건 어때?
+나를 보고 싶은 마음을 모르진 않지만,
+네가 보고해야 할 상대는, 내가 아닐 거야","Warum berichtest du Kyoko nicht davon, was du
+erfahren hast? Ich plaudere ja gern, aber es ist
+dein Job, ihr Bericht zu erstatten."
+1500,3013,,"Ti darò una buona spiegazione dei terminali
+qui. Quindi assicurati di ricordarli tutti.","我來一一為你介紹這裡的設施。
+你可要牢牢記住使用方法。",,"이곳에 있는 시설에 대해, 하나하나 소개할게
+사용법을 제대로 기억해 둬","Ich werde dir die Terminals hier gut erklären.
+Ich hoffe, du wirst dich an alle erinnern."
+1505,3013,,Non ho ancora finito di spiegare.,我還沒說明完哦。,,아직 설명 도중이야,Ich bin mit meiner Erklärung noch nicht fertig.
+1510,3013,,"Hai capito il DigiLab?
+Tutto qui è fatto per assisterti.
+Quindi, per favore, usali bene.","你瞭解數碼實驗室了嗎？
+這裡所有的東西都能幫上你的忙，
+你要好好利用它們哦。",,"디지랩에 관해서 이해가 됐을까?
+이곳에 있는 것은 모두 네 힘이 되어 주는 것들이야
+잘 이용하도록 하렴","Hast du das DigiLab verstanden?
+Alles, was du hier findest, soll dir helfen.
+Bitte setze es also klug ein."
+1520,3013,,"Stavate andando a Kowloon, sospetto?
+Solo per questa volta, vi farò usare l'uscita speciale.","你正在前往「Kowloon」嗎？
+唯獨這次，我就破例幫你連接上出口吧。",,"「쿠롱」으로 향하던 도중이었던 걸까?
+이번 만은, 특별히 출구를 연결해 줄게","Du wolltest nach Kowloon, nicht wahr?
+Nur dieses eine Mal lasse ich dich den
+Spezialausgang benutzen."
+1521,3013,,"La prossima volta, vada al punto d'accesso, se possibile.",接著就從“登入地點＂開始找起吧。,,"다음부터는 ""접속 포인트""를 통해서 방문해 줘",Geh nächstes Mal bitte zum Zugangspunkt.
+2000,3013,,Hai parlato con la donna di fronte al negozio di CD? E non dimenticare la richiesta di Kyoko di prendere altri chicchi di caffè. Il negozio è a Nakano Broadway.,"你有跟唱片行前面的女孩子說話嗎？
+還有，你也要記得完成杏子所委託的「咖啡豆採購」任務哦。
+中野館內有買得到咖啡豆的店。",,"CD 숍의 앞에 있는 여자애와는 이미 대화를 나눈 걸까?
+그리고, 쿄코의 의뢰「커피콩의 조달」도 잊으면 안 돼
+커피콩을 살 수 있는 가게는, 나카노 관내에 있어","Hast du mit der Frau vor dem CD-Laden gesprochen?
+Und vergiss nicht Kyokos Bitte um mehr
+Kaffeebohnen. Das Geschäft ist in Nakano-Broadway."
+2005,3013,,...Tsk. Ti sei dimenticato dove stavi andando?,……你已經不知道該做些什麼了？,,"…정말이지, 목적지를 까먹은 거니?","Also wirklich. Hast du vergessen, wo du
+hinwolltest?"
+2006,3013,,"Guarda. Controlla ogni anfratto
+del Nakano Broadway.",聽好囉？　總之你先徹底走遍整個中野館內吧。,,"잘 들어. 일단, 나카노 관내를 구석구석까지 걸어 보렴","Hör zu. Du musst dich in
+Nakano-Broadway genau umschauen."
+2007,3013,,E allora... buona fortuna!,還有……　今後請多多指教。,,그리고… 앞으로도 잘 부탁해,Also dann ... viel Glück!
+2010,3013,,"Non conosci la strada per Shinjuku? ...Quando
+lasci Broadway, puoi selezionare una destinazione.
+Qui è un po' affollato, ma ci si abitua.","難不成你不知道怎樣去新宿嗎？
+只要離開中野館內，就能選擇想去的地方囉。
+這裡有些複雜，所以你或許會走到迷路，不過你就試著早點習慣吧。",,"너 혹시, 신주쿠로 가는 법을 모르는 거니?
+나카노 관내에서 나가면, 가고 싶은 장소를 선택할 수 있어
+이곳은 조금 복잡하니까 헤맬지도 모르지만, 빨리 익숙해지렴","Kennst du den Weg nach Shinjuku nicht? Wenn du
+Broadway verlässt, wähl einen Zielort aus.
+Man gewöhnt sich an das Gedränge hier."
+2011,3013,,"Quindi non sei stato oggetto di voci di corridoio a
+Shinjuku? Mi chiedo, hai almeno chiesto in giro?
+È importante parlare con un sacco di persone.","「新宿」是不是正流傳著你的事啊？
+你是不是沒有「打聽」過啊？
+你就去找各種人問問吧。",,"「신주쿠」에서 너에 대한 소문이 나지 않았는지
+「탐문 조사」를 하기로 하지 않았니?
+여러 사람에게 말을 걸어 보렴","Über dich kursieren in Shinjuku also keine
+Gerüchte? Hast du herumgefragt?
+Es ist wichtig, mit vielen Leuten zu sprechen."
+2020,3013,,"L'interrogatorio è l'elemento più basilare del lavoro di detective.
+Perché non provi a chiedere alle persone intorno all'ingresso di EDEN?
+Sicuramente qualcuno può offrirti le informazioni di cui hai bisogno.","打聽是偵探這行的基本功吧？
+你就試著到EDEN的入口那裡去跟各種人打聽看看吧。
+那裡肯定會有人告訴你你想知道的情報哦。",,"탐문 조사는 탐정업의 기본이잖아?
+EDEN의 엔트런스에서 여러 사람에게 말을 걸어 보는 건 어때?
+네가 알고 싶어하는 정보를 주는 사람이, 분명 있을 거야","Befragungen sind das A und O der Detektivarbeit.
+Warum befragst du nicht Leute am EDEN-Eingang?
+Irgendwer weiß sicher, was du wissen möchtest."
+2030,3013,,"Zaxon, eh? Probabilmente troverai persone che ne sanno
+qualcosa a Kowloon. Quando le persone tirano fuori argomenti
+che ti interessano, puoi imparare molto.","「Zaxon」嗎……
+Kowloon那一帶或許會有很熟悉這方面的人呢。
+你就拋出對方會感興趣的話題，藉以套出情報吧。",,"「잭슨」이구나…
+쿠롱 주변에라면 자세히 아는 사람이 있을지도 몰라
+상대가 흥미를 갖고 있는 화제를 꺼내서, 정보를 캐내는 거야","Zaxon? Leute, die dazu etwas wissen, gibt es in
+Kowloon. Wenn Leute über interessante Themen
+sprechen, kannst du viel lernen."
+2040,3013,,"Immagino tu sappia dov'è il Forum Zaxon, giusto?
+Puoi arrivarci tramite terminale o EDEN Spot.
+Buon viaggio!","你應該已經知道「Zaxon廣場」在哪裡了吧？
+只要利用終端或EDEN點，應該就能抵達那裡了。
+路上小心啊。",,"「잭슨 포럼」의 장소를 알아냈잖아?
+단말기나 EDEN 스폿을 이용하면 갈 수 있을 거야
+조심히 다녀 오렴","Ich nehme an, du weißt, wo das Zaxon-Forum ist?
+Du kommst per Terminal oder EDEN-Station
+dorthin. Gute Reise!"
+2050,3013,,"Quindi, sei entrato in possesso di una maschera Zaxon.
+Con quella, puoi addentrarti più a fondo a Kowloon.
+E quello...dovrai scoprirlo da solo.","你已經拿到「Zaxon的面具」了吧。
+只要有那個東西，你應該就能進入Kowloon的深處囉。
+而正在那裡等著你的……　呵呵，你就用自己的眼睛去確認吧。",,"「잭슨의 가면」을 손에 넣었구나
+그게 있으면, 쿠롱의 안쪽으로 나아갈 수 있을 거야
+그곳에서 널 기다리고 있는 건… 후후, 자신의 눈으로 확인해 보렴","Du hast also eine Zaxon-Maske gefunden. Damit
+kannst du Kowloon weiter erkunden.
+Und das ... Sieh einfach selbst."
+2051,3013,,"Puoi raggiungere Kowloon livello 2 dall'ascensore
+del livello 1. Troverai Digimon più potenti
+laggiù, quindi fai molta attenzione.","要去Kowloon Lv. 2可以搭Lv. 1的電梯過去。
+出現在那裡的數碼寶貝應該會比較強，所以你要小心哦。",,"쿠롱 Lv.2로는 Lv.1에 있는 엘리베이터로 갈 수 있어
+나타나는 디지몬도 강해졌을 테니까 주의해","Zur zweiten Ebene in Kowloon kommst du mit dem Lift auf
+der ersten Ebene. Dort oben gibt es mächtigere Digimon.
+Sei also vorsichtig."
+2060,3013,,"Che tu stia cercando una persona, un enigma o un
+tesoro, probabilmente lo troverai nel luogo più
+remoto--e più pericoloso--. Fai molta attenzione.","無論是找人、解謎還是尋寶……
+目標物大多會出現在最深處哦。
+當然，困難度應該也會隨之增加，所以你要小心啊……",,"찾는 사람도, 수수께끼도, 보물도… 원하는 것은
+대체로 최심부에 있는 법이야
+물론, 더욱 위험해질 테니까 조심해…","Egal, ob du eine Person, ein Rätsel oder einen
+Schatz suchst, sie befinden sich stets am
+entferntesten und gefährlichsten Ort. Vorsicht."
+3000,3013,,"Devi incontrare quel bambino a Kowloon, vero?
+Continua, non sarebbe bene fare tardi.","你跟她約在Kowloon碰面對吧？
+絕對不可以遲到哦，快去找她吧。",,"쿠롱에서 그 아이와 만나기로 약속했잖아?
+지각은 엄금이야, 빨리 가서 만나 주렴","Du sollst dich mit dem Kind in Kowloon treffen,
+nicht wahr? Na dann mal los.
+Du willst ja nicht zu spät kommen."
+3010,3013,,"Fortunato che stesse bene.
+Poi, trovare il Digimon che stava cercando.","幸好她平安無事啊。
+接下來得幫她找出她正在找的數碼寶貝才行呢。",,"그 아이가 무사해서 다행이야
+다음은 그 아이가 찾고 있는 디지몬을 찾아 줘야겠지","Zum Glück ging es ihr gut.
+Als Nächstes musst du die Digimon finden,
+die sie gesucht hat."

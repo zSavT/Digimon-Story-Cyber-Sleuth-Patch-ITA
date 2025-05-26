@@ -1,0 +1,82 @@
+ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
+1,3046,,"Abbiamo ricevuto una richiesta di lavoro da Zaxon. Prima, dai un'occhiata a questo.","從Zaxon那來了工作的委託，
+首先，先看這個。",,"잭슨에서 의뢰가 들어왔다.
+일단은 이걸 봐줘","Wir haben eine Anfrage von Zaxon. Schau dir erst
+mal das hier an."
+2,3001,,Membri di Hudie: Ecco la vostra prossima missione.,hudie的各位，有新委託要拜託你們。,,"후디에 제군, 너희들에게 새로운 의뢰다","Mitglieder von Hudie, hier ist eure nächste
+Mission."
+3,3001,,Sai che dei disertori hanno lasciato Zaxon.,Zaxon裡出現了背叛者，想必大家都知道了吧。,,잭슨에서 배반자가 나온 것은 너희들도 이미 알고있겠지,"Ihr wisst, dass Abtrünnige Zaxon verlassen haben."
+4,3001,,"La loro nuova squadra di hacker si chiama ""Demoni"" e
+Jimmy KEN è il loro leader.","他們的團隊名稱為――惡魔亂舞。
+以Jimmy Ken為中心的新駭客團隊。",,"그들의 이름은――팀 데몬즈.
+지미KEN을 중심으로 한 새로운 해커팀이다","Ihr neues Hackerteam nennt sich „Demons“ und der
+Anführer ist Jimmy KEN."
+5,3001,,"Secondo le informazioni che abbiamo ottenuto da una fonte affidabile, qualcuno sta tirando i fili dietro le quinte del loro tradimento.","從可靠管道得到的消息指出――
+似乎是有人在背後唆使他們背叛。",,"확실한 출처에서 나온 정보에 따르면――
+그들의 배신을 뒤에서 조종하는 자가 있는 모양이다","Einer verlässlichen Quelle zufolge steckt da ein
+Drahtzieher hinter diesem Verrat."
+6,3001,,"Quella persona... è Rie Kishibe, una delle
+massime dirigenti delle Imprese Kamishiro.","那位人物的名字是……岸部里繪。
+是神代企業的幹部。",,"그 인물의 이름은……키시베 리에.
+카미시로의 간부다","Beziehungsweise eine Drahtzieherin ... Rie
+Kishibe, eine der obersten Führungskräfte von
+Kamishiro Enterprises."
+7,3047,,Kamishiro...?!,你說……神代企業嗎！？,,카미시로…라고!?,Kamishiro ...?!
+8,3001,,"Quella donna potrebbe usare il potere degli hacker per
+fare di Kamishiro cosa sua.","那位女性可能是想利用駭客們的力量，
+將神代企業佔為己有。",,"그녀는 필시 해커들의 힘을 이용해서 카미시로를
+사유화 하려고 하고 있어","Die Frau benutzt womöglich Hacker, um Kamishiro
+ganz zu übernehmen."
+9,3001,,"Vogliamo che tu ne ottenga una prova. Per riportare
+EDEN alla normalità, dobbiamo epurare Kamishiro.
+La prima ragione per questo è--","希望你們可以找到證據，
+想要讓EDEN正常化，就需要淨化神代企業本身。
+話又說回來，我立志想要淨化EDEN的契機就是――",,"너희들은 그 증거를 잡아주었으면 해.
+EDEN가 정상화하려면 카미시로 자체에 대한 정화가 필요해.
+애초 내가 EDEN의 정화를 목표로 삼은 계기는――","Dafür sollt ihr Beweise beschaffen. Wenn EDEN
+wieder normal werden soll, müssen wir Kamishiro
+ausmerzen. Der erste Grund dafür ..."
+10,3046,,"...Fidati, continuerebbe a parlare all'infinito.",……接下來就只是在講故事罷了。,,……이 다음은 그냥 장황한 이야기다,"... Glaub mir, der würde endlos weiterreden."
+11,3046,,"In breve, invadiamo il server principale di Kamishiro e rubiamo i dati che provano attività illecite da parte loro.","簡單來說，就是先入侵神代企業的主要伺服器，
+再把證明神代企業犯法的資料搶過來，就這樣。",,"쉽게 말해 카미시로 메인 서버에 침입해서
+카미시로의 부정을 증명할 데이터를 뽑아와라, 라는 거다","Lange Rede, kurzer Sinn: Wir brechen in den
+Hauptserver von Kamishiro ein und klauen Daten,
+die ihre illegalen Machenschaften beweisen."
+12,3047,,"Il server principale di Kamishiro... il Server Avalon?!
+Yuugo ce ne ha raccontata un'altra delle sue...","神代企業的主要伺服器……
+不就是「阿瓦隆伺服器」嗎！
+YUGO那傢伙，又給了一個這麼大的難題啊。",,"카미시로의 서버라니……""아발론 서버""냐!
+유고 자식, 또 크게 나왔구만","Kamishiros Hauptserver ... der Avalon-Server?!
+Da hat uns Yuugo ja wieder mal was aufgetischt ..."
+13,3047,,"Avremo bisogno della testimonianza di una talpa per entrare, giusto?
+Ci stanno chiedendo di fare irruzione nell'account di qualcuno?","要入侵那裡，必須要有相關人員的帳號吧？
+不會吧，是要我們去盜取別人的帳號嗎？",,"거기에 침입하려면 관계자의 계정이 필요하다고?
+설마 누군가의 계정을 사냥하란 말이냐?","Dafür brauchen wir aber ein Insider-Konto, oder?
+Sollen wir etwa ein Konto stehlen?"
+14,2020,,...,…………,,…………,...
+15,3046,,Non preoccuparti. Non c'è bisogno di questo.,放心吧，沒有那個必要。,,안심해. 그럴 필요는 없어,Keine Sorge. Das wird nicht nötig sein.
+16,3046,,"Yuugo ci ha detto di contattare la figlia dell'ex
+presidente, Yuuko Kamishiro. Potrebbe essere
+disposta a cooperare con noi.","YUGO要我們去接近神代前社長的女兒「神代悠子」，
+她有可能會幫忙。",,"유고는 카미시로 전 사장 영애「카미시로 유코」와 접촉하라고 했다.
+그녀라면 협력해줄 가능성이 있다더군","Yuugo hat uns gesagt, wir sollen uns an die
+Tochter des früheren Direktors wenden, Yuuko
+Kamishiro. Sie ist eventuell kooperationsbereit."
+17,3046,,Lascerò a [p] e Chitose capire come entrare in contatto con lei.,至於怎麼接近她，就交給[p]和千歲了。,,접촉 방법은 [p]하고 치토세에게 맡기지,"Ich überlasse es [p] und Chitose,
+wie wir mit ihr in Kontakt treten."
+18,2020,,...!,……！,,……!,...!
+19,3045,,E io?,那我呢？,,나는?,Und was ist mit mir?
+20,3046,,Ti riposi.,妳去休息吧。,,너는 자고 있어,Du ruhst dich aus.
+21,3045,,Sto bene. Posso almeno fornire supporto--,我已經沒事了喔，只是支援的話――,,이제 괜찮아. 서포트 정도는――,"Es geht mir gut. Ich kann euch zumindest
+unterstützen ..."
+22,3046,,Fuori discussione.,不行。,,안 돼,Das kommt gar nicht in Frage.
+23,3045,,...,…………,,…………,...
+24,3046,,"...Ho delle piccole commissioni da sbrigare.
+Fammi sapere quando hai l'account.","……我出去辦點雜事，
+拿到帳號的話，就告訴我一聲。",,"……나는 용무가 있어서 나간다.
+계정을 입수하면 알려줘","... Ich muss mich um eine kleine Sache kümmern.
+Sagt Bescheid, wenn ihr das Konto habt."
+25,3047,,"Ricevuto! Ok, andiamo.",OK，那我們出發吧。,,오케~. 그럼 가자,"Verstanden! So, dann wollen wir mal."
+26,2020,,...,…………,,…………,...
+27,3046,,"Comportati bene, Erika.",艾莉卡，乖一點。,,"에리카, 얌전히 있어라","Benimm dich, Erika."
+28,3045,,...,…………,,…………,...
