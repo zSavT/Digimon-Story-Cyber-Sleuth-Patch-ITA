@@ -1,0 +1,388 @@
+ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
+1,4338,,"Ah, ti stavo aspettando. Scusa per averti fatto
+venire fin qui.","啊，等你很久了。
+不好意思啊還讓你跑一趟。",,"안녕, 기다리고 있었어.
+여기까지 찾아오게 해서 미안하구나","Ah, ich habe auf dich gewartet. Entschuldige, dass
+ich dich extra herkommen lasse."
+2,4238,,Benvenuto!,歡迎光臨～♪,,어서 오세요~♪,Willkommen!
+3,4238,,Gli hai chiesto di aiutare con il problema di Rico?,店長，難道莉子那件事你委託的是……,,"마스터, 혹시 리코 문제를
+부탁했다는 게…",Hast du ihn wegen Ricos Problem um Hilfe gebeten?
+4,4338,,"Sì, sono sicuro che sia l'uomo giusto per il lavoro.",是啊，我想他們的話應該沒問題。,,"그래, 이 애라면 문제없을 거라고 생각했거든","Ja. Ich bin mir sicher, dass er dafür der Richtige
+ist."
+5,4338,,"Questa giovane donna è Rico, la cliente.",這邊的小姑娘就是委託人莉子。,,이쪽 아가씨가 의뢰인인 리코야,"Die junge Dame ist Rico, die Klientin."
+6,7347,,Ehm... È mia sorella maggiore... È scomparsa.,那個……就是……姊姊不見了……所以……,,"저기…그게…언니가 없어져서…
+그…","Ähm ... Es geht um meine große Schwester.
+Sie wird vermisst."
+7,2020,,???,？？,,??,???
+8,4238,,Lo metterò al corrente della situazione.,讓我來說明吧。,,제가 사정을 설명할게요,Ich erkläre ihm alles.
+9,4238,,"Hai sentito la voce sulle sparizioni
+negli ascensori?",……客人你們聽過“電梯內神秘失蹤”的謠言嗎？,,"…손님은 ""엘리베이터 행방불명""이란 소문을 알고 계신가요?","Hast du das Gerücht über Leute gehört, die im
+Aufzug verschwinden?"
+10,4238,,"È più una leggenda metropolitana. Dice che le persone
+scompaiono misteriosamente mentre viaggiano in ascensore
+e vengono portate in un'altra dimensione.","與其說謠言……其實比較像都市傳說，
+據說只要搭上電梯就會神秘失蹤，
+在異次元空間中迷路。",,"소문…이라고 할까, 도시전설 같은 건데요.
+엘리베이터에 타면 다른 차원으로 빨려 들어가
+행방불명 된다는 이야기가 있어요","Das ist mehr so ein Mythos. Angeblich verschwinden
+Leute auf geheimnisvolle Weise aus Aufzügen und
+landen in einer anderen Dimension."
+11,4238,,"Non conosco i dettagli, ma è roba che fa paura.
+Voi due fate attenzione quando usate gli ascensori.","詳細經過我也不清楚，總之聽起來很可怕吧？
+店長和客人們搭電梯時也要多小心唷。",,"자세한 건 몰라도 어쨌든 무섭죠?
+마스터도 손님도 엘리베이터에 탈 땐
+조심해주세요","Ich weiß nichts Genaueres, aber das jagt mir
+Angst ein. Passt auf, wenn ihr im Aufzug fahrt."
+12,4338,,Ti preoccupi per me? Che gentile.,"你連我也擔心嗎？
+真開心～",,"나를 걱정해주는 거냐?
+기쁜걸",Du machst dir Sorgen um mich? Wie nett.
+13,4238,,"Se proprio devi sparire, per favore assicurati di
+pagarmi lo stipendio di questo mese prima.","店長你要神秘失蹤前，
+記得先付清這個月的打工薪水。",,"마스터가 행방불명 되는 건
+이번 달 알바 급료를 지급한 이후로 부탁드릴게요","Wenn du unbedingt verschwinden musst, dann bezahle
+mich bitte erst für diesen Monat."
+14,4338,,"Oh, quindi non sono io la tua preoccupazione. Ahahaha...","嗚嗚嗚……
+擔心的是薪水不是我嗎……",,"걱정하는 건 내가 아니라 알바비냐.
+흑흑…","Ah, es geht also doch nicht um mich. Hahaha ..."
+15,7347,,Ehm...,那、那個……,,"저, 저기…",Ähm ...
+16,4338,,"Oh, ci siamo un po' persi. Scusami per questo.","啊，話題扯遠了。
+不好意思。",,"이런, 이야기가 탈선했군.
+미안하다","Wir sind ein bisschen vom Thema abgekommen.
+Entschuldigt."
+17,4338,,"Quella leggenda metropolitana circola a
+Nakano da secoli. Ogni scolaretto la conosce.","中野從以前就有神秘失蹤的都市傳說，
+就像學校會有七大不可思議一樣。",,"이 행방불명 도시전설은 나카노에도 옛날부터 있었어.
+학교의 7대 불가사의처럼 말이지.
+어디에나 공통적으로 있는 괴담 같은 거지","Diese Legende geht schon ewig in Nakano um. Jedes
+Schulkind hört davon."
+18,4338,,Ma potrebbe essere più di una semplice leggenda metropolitana...,但是……現在卻不再是單純的謠言了。,,그렇지만…그게 소문으로 끝나지 않게 되어버린 거다,Aber vielleicht ist es mehr als nur eine Legende.
+19,4238,,"Sembra che la sorella di Rico sia scomparsa proprio in
+questo edificio.",莉子的姊姊，就是在這棟建築物內失蹤的樣子。,,"이 리코의 언니가 이 관내에서
+행방불명이 되고 말았다고 해요","Ricos Schwester ist wohl aus diesem Gebäude
+verschwunden."
+20,4238,,E... è stato dopo essere salito in un ascensore.,而且……是在搭上電梯後。,,그것도……엘리베이터에 탄 후에,"Und zwar ... nachdem sie in einen Aufzug gestiegen
+ist."
+21,2020,,...?,……？？,,……??,...?
+22,4338,,"So cosa stai pensando. Che questa sia una questione
+per la polizia, non per un hacker. Ho ragione?","我懂你們想講什麼。
+是不是想說這不該找駭客，而是該找警察？",,"네가 하고 싶은 말은 안다.
+이건 해커가 아니라 경찰이 할 일 아니냐는
+말을 하고 싶은 거지?","Ich weiß schon, was du denkst. Das ist etwas für
+die Polizei und nicht für einen Hacker. Stimmt’s?"
+23,4338,,"L'abbiamo segnalato, ma la sorella di Rico ha 16 anni.","其實已經報警了。
+但是莉子的姊姊今年才16歲……",,"신고는 했어.
+하지만 리코의 언니가 16세라는 이유로 말이지","Wir haben es gemeldet, aber Ricos Schwester ist
+16."
+24,4238,,"La polizia dice che probabilmente è solo scappata di
+casa e sta da un'amica. Non sono
+interessati. Terribile, vero?!","所以被說搞不好是離家出走、在外遊蕩之類的，
+警察完全不當一回事！
+是不是很過分！？",,"가출이거나 아니면 밤놀이 아니겠냐면서
+제대로 접수해주지 않아요!
+너무하지 않나요!?","Die Polizisten meinten, sie wäre vermutlich
+ausgebüxt und bei einer Freundin. Es interessiert
+sie nicht. Schlimm, oder?!"
+25,7347,,"Si sbagliano! È salita su un ascensore e poi è
+scomparsa! Deve essere ancora in questo edificio
+da qualche parte.","姊姊才不是離家出走！
+是搭了電梯才消失的！
+她一定還在這房子裡迷路。",,"언니는 가출한게 아닌걸!
+엘리베이터에 타고 사라져버렸는걸!
+아직 틀림없이 이 건물 안에서 미아가 되어있는 거야","Sie irren sich! Sie ist in einen Aufzug gestiegen
+und verschwunden! Sie muss noch irgendwo in
+diesem Gebäude sein."
+26,7347,,"Ho raccontato loro tutto, ma non mi hanno creduto.
+Anche i miei genitori hanno detto che probabilmente tornerà
+prima o poi. Non sono preoccupati.","可是……人家這麼說……警察叔叔不肯相信……
+爸爸媽媽也說姊姊過幾天就會回家了，
+好像一點都不擔心…………",,"하지만 그렇게 말해도 경찰 아저씨는 믿어주지 않아서…
+아빠도 엄마도 곧 있으면 돌아올 거라고
+그다지 걱정하지 않는 것 같아서…","Ich habe ihnen alles erzählt, aber sie haben mir
+nicht geglaubt. Sogar meine Eltern sagen, dass
+sie schon wiederkommen wird. Ohne jede Sorge."
+27,4238,,"Devono fidarsi davvero molto di lei. Se non tornassi a casa
+entro l'ora stabilita dai miei genitori, sarei così punito...","因為他們很信任妳姊姊吧？
+我家的話，只要沒遵守門禁就不准吃晚餐。",,"언니를 믿어주고 있는 걸까요.
+저희 집에선 통금을 어기면 저녁밥을 안 주는데 말이죠","Sie vertrauen ihr wohl blind. Wenn ich nicht zur
+vorgegebenen Zeit wieder da bin, habe ich sofort
+Hausarrest."
+28,4338,,Suppongo che i tuoi genitori non si fidino di te...,小莎妳完全不受父母信賴啊……,,삿짱은 부모님으로부터 신뢰를 못 받고 있구나…,Deine Eltern vertrauen dir wohl nicht ...
+29,4238,,Vorrei che smettessero di trattarmi come un bambino.,店長～你剛說什麼嗎？,,"마스터, 뭔가 말씀하셨나요?","Ich wünschte, sie würden aufhören, mich wie ein
+Kind zu behandeln."
+30,4338,,"Continua, Rico.",啊，莉子妳繼續講！,,"자, 이야기를 계속해줘, 리코","Erzähl weiter, Rico."
+31,7347,,"Ho provato a cercarla da solo, ma non sono
+riuscito a trovarla da nessuna parte. Ero davvero sconvolto, ma lui ha detto
+che mi aiuterà.","所以我就想靠自己來找姊姊……
+但是完全找不到……
+不知道怎麼辦的時候，店長幫了人家……",,"그래서 난 혼자서라도 언니를 찾아야겠다고 생각해서…
+하지만 전혀 찾을 수가 없어서…
+곤란해하고 있었는데 마스터가 도와준 거야","Ich habe versucht, sie selbst zu finden, aber
+ohne Erfolg. Ich war traurig, aber dann hat
+er gesagt, er hilft mir."
+32,4338,,Non potevo semplicemente stare lì a non fare niente.,我沒辦法放著哭泣的女孩子不管嘛。,,울고 있는 여자아이를 내버려 둘 수는 없으니까,"Ich konnte ja nicht einfach zuschauen und nichts
+tun."
+33,4338,,"Ho provato a chiedere anche alla polizia. L'hanno
+registrata come una fuggitiva, ma in realtà non stanno
+facendo niente per cercarla.","了解原因後，我也跟警察確認過。
+他們把姊姊歸類成離家出走，還在持續搜索……
+不過態度很消極。",,"사정을 듣고 나도 경찰에 확인해봤다.
+그들도 언니를 가출자로 수색하고는
+있는 것 같지만…아무래도 움직임이 굼떠","Ich habe es auch bei der Polizei versucht. Sie
+haben sie als Ausreißerin notiert, werden sie aber
+nicht suchen."
+34,4338,,"Rico, raccontagli di quando è scomparsa.",莉子，妳可以告訴他們姊姊不見時的狀況嗎？,,"리코, 언니가 사라져 버렸을 때 이야기를
+이 애한테도 해주지 않을래?","Rico, erzähl ihm, wie sie verschwunden ist."
+35,7347,,Beh... Siamo venuti qui insieme.,"嗯……
+就是，姊姊是和我一起來這裡的。",,"응…
+있잖아, 여기엔 언니랑 같이 왔었어",Nun ... wir sind zusammen hergekommen.
+36,7347,,"Dopo aver giocato alla macchinetta delle capsule al primo
+piano, mia sorella ha detto di andare alla sala giochi al
+quarto piano, quindi abbiamo preso l'ascensore.","我們在1樓轉了轉蛋後，
+姊姊說我們去4樓的遊樂場吧。
+然後……搭了電梯……",,"1층에서 디지메달 뽑기를 하고 나서
+4층 게임 센터로 가자고 언니가 그래서…
+엘리베이터에 탔었어","Wir haben im Erdgeschoss an dem Automaten
+gespielt, dann meinte sie, gehen wir in die
+Spielhalle im 4. Stock. Also rein in den Aufzug."
+37,4238,,"L'ascensore? È lì che è scomparsa? L'hai
+davvero vista sparire?","果然跟電梯有關……是在裡面啪一聲消失嗎？
+這麼一來可疑的點就是……唔唔唔……",,"역시 엘리베이터인가…거기서 팟 하고 사라졌어?
+그렇다면 수상한 건…으으음","Der Aufzug? Ist sie da verschwunden? Hast du es
+selbst gesehen?"
+38,7347,,"Beh, ehm...",那、那個……,,"아니, 저기…","Also, ähm ..."
+39,4338,,Non metterle fretta. Lasciala finire.,"好了好了，別慌張，
+先聽莉子講完吧。",,"자자, 그렇게 그렇게 허둥대지 말고
+일단 리코의 이야기를 마지막까지 듣자",Lass ihr Zeit zum Ausreden.
+40,4338,,E sarà lui a investigare. Tu sarai impegnato a lavorare qui.,"而且是交給他們調查喔！
+小莎還有女服務生的工作該做呢。",,"게다가 조사를 하는 건 이 애야.
+삿짱은 웨이트리스 일을 하고 있어야지","Und er wird der Sache nachgehen. Du hast hier zu
+tun."
+41,4238,,Hai ragione. Mi sono fatto prendere un po' la mano.,"說、說的也是。
+我太著急了。",,"그, 그랬죠.
+조금 초조해지고 말았네요",Natürlich. Ich war etwas voreilig.
+42,4238,,"Scusa, Rico. Cosa è successo dopo?",莉子，抱歉喔……繼續講吧。,,"미안해? 리코.
+이야기를 계속해줘","Tut mir leid, Rico. Was ist dann passiert?"
+43,7347,,"Abbiamo preso l'ascensore per il quarto piano, ma
+qualcosa non andava.","然後電梯到了4樓，
+那個時候，我一直覺得哪裡怪怪的……",,"그래서 엘리베이터로 4층까지 올라갔는데
+그때부터 뭔가 이상하다고 생각했어","Wir haben den Aufzug in den vierten Stock
+genommen, aber etwas hat nicht gestimmt."
+44,4238,,"Questo bar è al quarto piano. C'era
+qualcosa di insolito in questo piano?","4樓就是我們店的樓層嘛。
+這層樓有哪裡不對勁嗎？",,"4층이라면 우리 가게 있는 층이지.
+이곳 상태가 이상했어?","Dieses Café ist im vierten Stock. War daran
+irgendetwas ungewöhnlich?"
+45,7347,,Sì. Tutte le luci erano spente. Era buio pesto.,嗯，燈都沒開，黑漆漆的……,,"응.
+전기가 끊기고 새까매지고……",Ja. Alle Lichter waren aus. Es war stockdunkel.
+46,4238,,C'è stato un blackout ultimamente?,最近有停電過嗎？,,요새 정전같은 게 있었던가요?,Gab es in letzter Zeit einen Stromausfall?
+47,4338,,Non che io ricordi. Cosa è successo dopo?,"沒吧，我沒這印象。
+……然後呢？",,"아니, 기억나지 않는데.
+…그래서?","Nicht, dass ich wüsste. Was ist als Nächstes
+passiert?"
+48,7347,,"Il corridoio era completamente buio. E non è
+tutto. Non c'era nessun altro!","走廊幾乎全黑……
+而且一個人都沒有……",,"복도는 거의 새까매서…
+그것뿐만이 아니라 아무도 없고…","Der Gang war völlig dunkel. Und vor allem war
+sonst auch niemand hier."
+49,7347,,"Faceva paura, ma ci siamo guardati intorno. Questo era
+l'unico posto con delle luci accese.","雖然很害怕，可是我還是和姊姊一起探險～
+然後，只有這間店亮著……",,"무서웠지만 언니랑 둘이서 탐험했어.
+그랬더니 이 가게에만 불이 들어와 있어서…","Wir hatten Angst, aber wir haben uns umgesehen.
+Nur an einer Stelle war Licht an."
+50,4238,,Intendi il K-Cafe?,這間店……是指K-Café嗎？,,이 가게라니……K-카페?,Du meinst im K-Café?
+51,7347,,Sì. E abbiamo sentito un cane abbaiare dentro.,嗯，店裡有狗狗的叫聲。,,"응.
+안에서 멍멍이 소리가 들렸어",Ja. Und drinnen haben wir Hundebellen gehört.
+52,4238,,Un cane? Qui dentro? Impossibile.,我們店裡沒養狗啊……,,우리 가게에 개는 없는데…,Hundebellen? Hier drin? Das ist unmöglich.
+53,7347,,"Ce n'era uno. Quando ci siamo avvicinati alla porta, è uscito un
+grosso cane nero.","真的有啦～
+靠近店門口，就從裡面跑出一隻黑色的大狗狗喔！",,"있었는걸. 가게로 다가갔더니
+안에서 검고 커다란 멍멍이가 나왔어","Doch. Als wir uns der Tür genähert haben, kam ein
+großer schwarzer Hund raus."
+54,4238,,"Ne sai qualcosa al riguardo? Hai tenuto
+un cane come animale domestico qui?",店長，我們有辦過一日狗狗咖啡廳這類活動嗎？,,"마스터, 그런 걸 하고 있었나요?
+다른 날엔 애견 카페를 한다던가","Sagt dir das was? Hältst du hier heimlich einen
+Hund?"
+55,4338,,Certo che no. Sei qui tutti i giorni. Lo sapresti.,"才沒辦過。
+妳每天都排班哪會不知道……",,"안 해.
+너, 매일 가게에 나오잖아","Natürlich nicht. Du bist doch jeden Tag hier. Du
+würdest davon wissen."
+56,4238,,È vero...,說的也是。,,생각해보니 그러네요,Das stimmt ...
+57,4338,,"No, non abbiamo avuto clienti con un cane.",甚至連帶狗光臨的客人也沒遇過。,,"아니, 개를 데려온 손님도 없었는데","Nein, wir hatten auch keine Kunden mit einem Hund."
+58,7347,,"Ero spaventato, ma mia sorella l'ha accarezzato. Poi è
+rientrata.","我覺得很害怕，但是姊姊很開心地摸狗狗。
+接著就跟狗狗一起走進店裡面。",,"나는 무서웠지만 언니는 좋아하면서 멍멍이를 쓰다듬으며
+그대로 같이 가게로 들어가 버렸어","Ich hatte Angst, aber meine Schwester hat ihn
+gestreichelt. Dann ist sie hier reingegangen."
+59,7347,,"Stavo per seguirla dentro quando la porta si è chiusa.
+L'ho spinta più forte che potevo, ma non si apriva.","我也想跟上去，可是門關起來……
+不管怎麼用力推或拉，門都不打開……",,"나도 따라가려고 했더니 문이 닫혀버려서…
+열심히 밀고 당겨봤지만
+아무리 해도 열리지 않아서","Ich wollte ihr folgen, aber dann ging die Tür zu.
+Ich habe mit aller Kraft gedrückt, aber sie
+ging nicht auf."
+60,7347,,"L'ho chiamata, ma non ha risposto. E
+non sentivo nemmeno il cane.","我在外面喊姊姊，也沒人回應……
+而且也聽不見狗狗的叫聲了……",,"언니! 하고 불렀는데도 대답이 없고…
+그러다 멍멍이 소리도 없어져서…","Ich habe sie gerufen, aber sie hat nicht
+geantwortet. Und den Hund konnte ich auch nicht
+mehr hören."
+61,7347,,"Ero super spaventato, quindi sono corso indietro all'ascensore.
+Volevo arrivare ad un altro piano e trovare un adulto
+che mi aiutasse.","剩下我自己一個人覺得好可怕，
+就趕快跑回電梯……
+想說可以去別層樓找大人……",,"혼자가 되니까 무서워져서
+서둘러 엘리베이터로 돌아갔어.
+다른 층에서 어른을 찾아보려고…","Ich hatte solche Angst, dass ich zurück zum Aufzug
+gerannt bin. Ich wollte in einen anderen Stock
+und einen Erwachsenen um Hilfe bitten."
+62,4238,,Pronto intervento.,莉子很聰明呢！,,리코는 야무지구나,Gut mitgedacht.
+63,4238,,"Niente a che vedere col mio capo. Si è perso appena ha
+messo piede fuori da questo edificio e ha finito per chiamarmi
+in lacrime.","跟某個一出大樓就立刻迷路，
+哭著打給我求救的店長完全不同。",,"이 빌딩을 나가면 바로 미아가 돼서 울면서
+저에게 전화를 거는 마스터와는 천지차이네요","Gar nicht so wie mein Chef. Der hat sich
+verlaufen, als er kaum aus dem Gebäude getreten
+war, und hat mich ganz aufgelöst angerufen."
+64,4338,,Er...Sacchan...non parliamone proprio adesso.,呃……嗯……小莎……這件事晚點再說啦……,,아아…응…삿짱…그 이야기는 나중으로 미뤄줘,"Ähm ... Sacchan ... Lass uns jetzt nicht darüber
+reden."
+65,7347,,"Quando sono entrato nell'ascensore, la porta si è chiusa da
+sola e le luci nell'ascensore si sono spente.","結果進電梯後門自己關起來，
+這次換電梯裡的電燈熄滅。",,"그래서 엘리베이터에 탔더니 문이 멋대로 닫히고
+이번엔 엘리베이터의 전기가 꺼져버린 거야","Als ich in den Aufzug gestiegen bin, ging die Tür
+von alleine zu und das Licht ging aus."
+66,7347,,"Non sapevo cosa fare, ma poi le luci si sono riaccese e la porta si è aperta.","才在想該怎麼辦的時候，電燈亮了……
+電梯門很快又打開……",,"어떡하지 하고 생각하고 있었더니 전기가 들어오고…
+바로 문이 열렸어","Ich wusste nicht, was ich tun soll. Aber dann ging
+das Licht wieder an und die Tür auf."
+67,4238,,E poi?,……然後，外面怎麼了嗎？,,"……그래서, 이번엔 어떻게 됐어?",Und dann?
+68,7347,,"Le luci nel corridoio erano accese, e c'erano
+persone, nel corridoio, nei negozi... Un sacco di
+persone! Non c'erano pochi secondi prima.","走廊的電燈都亮著，也有人喔！
+走廊上跟店裡面有好多人！
+剛才明明一個人都沒有的說……",,"이번엔 복도에 불이 들어와 있었고 사람도 있었어.
+복도에도 가게에도 잔뜩!
+방금 전까진 아무도 없었는데…","Das Licht im Gang war an und es waren Leute dort
+und in den Läden ... viele Leute. Sie waren ein
+paar Sekunden vorher nicht da."
+69,7347,,"Sono corso al bar. Pensavo che mia sorella sarebbe tornata, ma non è tornata...","然後我就趕快跑到剛才的店。
+想說姊姊一定也在，可是……",,"그래도 다시 달려서 가게로 갔어.
+언니도 돌아와 있을 거라고 생각해서. 그렇지만…","Ich bin ins Café gelaufen. Ich dachte, meine
+Schwester würde zurückkommen, ist sie aber nicht."
+70,4338,,"Sacchan e io eravamo qui come al solito. Non avevamo visto
+né sua sorella né un cane.","店裡和平常一樣，只有我和小莎。
+姊姊跟那隻狗都不見了……就是這樣吧。",,"가게엔 평소처럼 나와 삿짱이 영업하고 있었고
+언니도 그 개도 없었다…라는 거야","Sacchan und ich waren hier wie immer. Wir hatten
+weder ihre Schwester noch einen Hund gesehen."
+71,7347,,Non mi credi? Proprio come la polizia?,"我講的話……很奇怪嗎？
+哥哥你也跟警察叔叔一樣不相信嗎……？",,"내 이야기…이상해?
+오빠도 경찰 아저씨처럼 믿어주지 않는 거야…?",Glaubst du mir nicht? Wie die Polizei auch?
+72,2020,,"Certo che ti credo.
+Prometto che risolverò il caso.","當然相信
+接了委託就會好好處理",,"물론 당연히 믿어
+의뢰를 받은 이상 해결할 거야","Natürlich glaube ich dir.
+Ich verspreche dir, das zu lösen."
+73,7347,,Grazie! Sei così gentile!,……謝謝！　哥哥你人好好！,,…고마워! 오빠는 친절하구나!,Danke! Du bist aber nett!
+74,7347,,Grazie! Sei proprio un pro...professionista.,"……謝謝！
+哥哥就是所謂的“專業人士”對吧！",,"…고마워!
+오빠는 ""프로페셔널"" 하구나",Danke! Du bist ja richtig pro... professionell.
+75,4238,,"Wow, che parolone. Sei proprio intelligente.",莉子知道好多詞喔～,,리코는 아는 것이 많구나,"Puh, langes Wort. Du bist richtig schlau."
+76,4338,,Mi vengono in mente due possibilità.,關於這件事的原因，大致有兩種可能。,,"이 사건의 원인은 크게 두 가지 가능성을
+꼽을 수 있지",Mir fallen zwei Möglichkeiten ein.
+77,4338,,"Una misteriosa scomparsa legata all'occulto,
+o un incidente causato da un malfunzionamento dell'ascensore.","照字面往超自然方向解讀成神秘失蹤現象。
+或是因為電梯故障所造成的事故……",,"오컬트적인 문자 그대로 행방불명이거나
+아니면 엘리베이터의 오작동으로 일어난 무슨 사고거나…","Ein geheimnisvolles Verschwinden durch okkulte
+Machenschaften, oder ein Unfall durch einen
+defekten Aufzug."
+78,4338,,"Probabilmente è meglio iniziare con quella più
+realistica.",我想先從比較科學的方面著手調查。,,일단 현실적인 부분부터 손을 써볼 생각이야,"Wir sollten wohl mit der realistischeren Option
+anfangen."
+79,4338,,"La ragione per cui ho assunto Hudie è perché ho bisogno di qualcuno
+che investigui il sistema di controllo dell'ascensore.","所以才會委託你們hudie，
+調查電梯管理系統。
+萬事拜託囉。",,"엘리베이터의 관리 시스템을 조사해보고 싶어서
+너희 후디에에 의뢰를 넣은 거다. 잘 부탁한다","Ich habe Hudie eingeschaltet, weil sich jemand
+das Steuerungssystem für die Aufzüge ansehen
+muss."
+80,7346,,"E giusto tra noi due, non sarebbe
+terrificante se fosse qualcosa che coinvolge l'
+occulto?! Uso quell'ascensore ogni giorno!","……而且偷偷跟你說。
+如果真的是超自然現象不就很恐怖嗎！",,"…그리고 여기서만의 이야기인데
+혹시 정말로 오컬트라면 엄청 무섭잖아!
+나는 매일 저 엘리베이터를 쓰고 있다고!?","Ganz unter uns gesagt, wäre es nicht furchtbar,
+wenn es doch okkulte Machenschaften sind?! Ich
+fahre jeden Tag mit dem Aufzug!"
+81,7346,,"Non voglio finire maledetto o qualcosa del genere. Mi chiedo
+se una maledizione sia solo metà tanto brutta se due persone vengono
+maledette nello stesso momento?","我才不想隨便招惹然後被詛咒或作祟咧！
+要是找你作伴的話，就有人分擔詛咒對吧？",,"어설프게 손을 댔다가 저주받거나 지벌을 받는 건 사양이야.
+두 명이라면 저주를 받더라도 반씩 나누게 되겠지?","Ich will nicht verflucht werden oder so was. Ob
+ein Fluch wohl halb so schlimm ist, wenn zwei
+Leute gleichzeitig damit belegt werden?"
+82,7346,,"Non possiamo ignorare ciò che è successo alla sorella di Rico. Se
+dovessi essere maledetto, spero solo che tu sia lì con me!","加上也放心不下莉子……
+出事的時候你陪我，拜託啦！",,"리코도 내버려 둘 수 없고…
+지벌을 받을 땐 같이 잘 부탁해!","Wir können nicht einfach ignorieren, was mit Ricos
+Schwester passiert ist. Ich hoffe nur, dass du
+dabei bist, falls ich doch verflucht werde!"
+83,4238,,Di cosa state sussurrando?,"店長？
+你們在講什麼悄悄話？",,"마스터?
+뭘 속닥속닥 이야기하고 있는 건가요?",Was tuschelt ihr denn da?
+84,4338,,"Oh, niente.",唔，咳咳，沒什麼沒什麼。,,"흠, 어흠. 아무것도 아냐, 아무것도 아냐","Ach, nichts."
+85,4338,,"Che ne dici se ripercorriamo i passi di Rico e di sua sorella?
+Potrebbe essere d'aiuto per l'indagine.","再來關於該怎麼調查……
+你覺得我們照走一遍莉子和姊姊的行程怎麼樣？",,"자, 어떻게 조사를 진행할지 하는 거 말인데…
+지금부터 리코와 언니가 한 것을
+다시 한번 따라 해보는 건 어떨까?","Sollen wir den Weg von Rico und ihrer Schwester
+nachvollziehen? Das könnte hilfreich sein."
+86,4238,,Che cosa vuoi dire?,什麼意思？,,무슨 의미인가요?,Was meinst du damit?
+87,4338,,Esattamente. Ricreiamo esattamente quello che è successo.,"就字面上的意思啊。
+重現一次莉子經歷到的事情。",,"말 그대로의 의미야.
+리코에게 일어난 일을 그대로 재현하는 거지","Ganz einfach. Wir stellen nach, was passiert ist."
+88,4338,,"Inizia scendendo al primo piano e prendendo
+l'ascensore.",回到1樓，從搭上電梯開始重現。,,"1층으로 돌아가 엘리베이터를
+타는 지점부터지","Fang damit an, dass du ins Erdgeschoss runtergehst
+und dort in den Aufzug steigst."
+89,4338,,"Se le voci sono vere, la sorella di Rico non è l'unica persona a essere scomparsa in circostanze misteriose.","如果那些謠言屬實，
+表示除了莉子的姊姊以外，
+還有其他孩子神秘失蹤吧？",,"예전부터 돌던 소문이 정말이라면 리코의 언니 말고도
+행방불명 된 아이가 있을 테지?","Wenn die Gerüchte wahr sind, ist Ricos Schwester
+nicht die einzige, die unter ungeklärten Umständen
+verschwunden ist."
+90,4338,,Facciamo esattamente la stessa cosa e vediamo se riusciamo a trovare qualcosa di insolito con il sistema di controllo dell'ascensore.,"換言之不是偶發性事件。
+要是依照相同流程，遇上電梯管理系統異常，
+就表示我們找對了。",,"그 말은 즉, 재현성이 있다는 뜻이야.
+같은 순서에 따라 그걸로 엘리베이터의 관리 시스템에
+이상을 발견한다면 빙고다","Machen wir alles genau so wie damals und schauen,
+ob wir etwas Ungewöhnliches am Steuerungssystem
+der Aufzüge bemerken."
+91,4338,,Penso sia un buon posto per iniziare. Tu che ne dici?,我覺得這方式蠻可行的，你認為呢？,,정통적인 조사 순서라고 생각하는데 어때?,"Das halte ich für einen guten Ausgangspunkt. Und
+du?"
+92,4338,,"Okay, facciamolo.",那就趕快開始進行吧。,,그러면 곧바로 실행해보자,"Gut, dann wollen wir mal."
+93,4238,,Eh? Vai anche tu? E il bar?,"咦，店長也要去嗎？
+店要怎麼辦？該不會……",,"엑, 마스터도 가는 건가요?
+가게는? 설마……",Wie? Du gehst auch? Und was ist mit dem Café?
+94,4338,,"Lascio il comando a te. Devo andare, per arrivare
+in fondo a questo mistero di Nakano. No, aspetta...
+Voglio dire, per salvare la sorella di Rico.","店就拜託小莎了！！
+為了探索中野不可思議……不對，
+為了拯救莉子的姊姊，我不能缺席！",,"가게는 삿짱에게 맡겨둔다!!
+나는 나카노의 불가사의를 탐색하기 위해……아니
+리코의 언니를 구하기 위해 가야만 해","Du übernimmst. Ich muss los, um dieses Rätsel
+von Nakano zu ergründen. Nein, Moment ...
+Um Ricos Schwester zu retten natürlich."
+95,4238,,"Okay. Di solito chiederei il doppio della paga, ma siccome è
+per la sorella di Rico, questa volta te la faccio passare liscia.","我就知道……
+薪水加倍……原本想這麼說的，
+但畢竟是為了莉子的姊姊，這次不跟你計較！",,"역시 그렇군요…
+그렇다면 시급을 두 배로…라고 말하고 싶지만
+리코와 언니를 위해서니까 이번엔 져드릴게요","Na gut. Normalerweise würde ich doppelten Lohn
+einfordern, aber da es um Ricos Schwester geht,
+lasse ich es dieses Mal gut sein."
+96,4238,,"Ma assicurati di dirmelo non appena trovi
+qualcosa!","相對的，如果有什麼進展要告訴我唷。
+一定要講喔！",,"그 대신 뭔가 알아내면 가르쳐주세요.
+꼭이에요!","Aber sag mir Bescheid, sobald du etwas findest!"
+97,4338,,"Lo farò. D'accordo, andiamo!","嗯，知道了。
+那我們走吧！",,"그래, 알았다.
+그럼 곧바로 가보자!","Mache ich. So, gehen wir!"
