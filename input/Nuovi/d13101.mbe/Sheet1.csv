@@ -1,0 +1,85 @@
+ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
+0,9081,"","He-he-hey! Yo-yo-you there! Make sure you always
+have a recovery item!","喔、喔喔喔……你！　那裡的你！
+一、一、一、一定要記得帶回復道具啊……！","","너, 너너너…너! 거기 있는 너!
+회, 회, 회, 회복 아이템은 반드시 들고 다니라고…!","He-he-hey! Du-Du-Du da! Achte darauf, immer
+ein Heilungsitem bei dir zu haben!"
+1,9081,"","And if the g-g-ground around you lights up, keep
+your eyes open! Medals and other items might fall!","還、還、還……還有，如果腳邊有東西在亮的話
+要注意啊！有可能是掉落了獎牌或是道具啊……！","","그, 그, 그…그리고 발밑이 빛나면 조심해!
+메달이라던가, 아이템이 떨어져 있는 경우가 있으니까…!","Und wenn der B-B-Boden um dich herum aufleuchtet,
+halte die Augen offen! Medaillen und andere
+Items können herabfallen!"
+2,9082,"","You there! You're not ready for the lower floor.
+Start again.","那裡的你！　下一層對你來說還太早了。
+先回去鍛鍊再給我過來！","","거기 있는 너! 아래층은 너한텐 아직 이르니까
+되돌아갔다가 다시 와","Du da! Du bist nicht bereit für den unteren
+Stock. Fang noch mal an."
+100,9081,"","It's dangerous outside. I d-d-don't wanna go back.
+You can't use recovery items if you get hurt out
+there. Or...do they work out there now?","外、外……外面很危險所以不想回去啊……
+外面的話，就算受傷了回復道具也沒有效……
+嗯？　還是說，現在會有效呢……？","","바, 바바…밖은 위험하니까 돌아가고 싶지 않아…
+밖에선 내가 다쳐도 회복 아이템으로 회복할 수도 없고…
+응? 아니, 지금이라면 효과 있으려나…?","Draußen ist es gefährlich. Ich w-will nicht raus.
+Wird man draußen verletzt, kann man keine Items
+zur Heilung nutzen. Oder funktioniert das jetzt?"
+200,9085,"","Shiga? I don't know him. I can never remember the
+names of EDEN hackers.","志賀？　不知道啊。
+EDEN駭客的名字，才沒有辦法全部一一記得啊。","","시가? 모르겠는데.
+EDEN의 해커 이름 따윌 일일이 기억할 수 있겠냐","Shiga? Den kenne ich nicht. Ich kann mich nie an
+die Namen der EDEN-Hacker erinnern."
+201,9086,"","Is this your first time in Under Kowloon? This is
+the deepest part of Kowloon. You only find real
+hardcore hackers here.","第一次來“Under Kowloon”嗎？
+這裡只有真正的駭客會過來，
+是Kowloon的深層區域。","","""언더 쿠롱""은 처음이야?
+여긴 뼛속까지 해커인 놈들만 어슬렁대는 쿠롱의 심층 에어리어야","Bist du zum ersten Mal in Unter Kowloon? Tiefer geht
+es in Kowloon nicht. Hier findet man nur echt
+hartgesottene Hacker."
+202,9086,"","Your average hacker wouldn't even be able to find
+this place.","沒用的駭客，
+光是要找到這個區域就很難了啦……","","반편이인 해커는
+이 에어리어를 발견하는 것조차 불가능하지…","Ein durchschnittlicher Hacker könnte diesen Ort
+nicht mal finden."
+203,9087,"","Some hackers have been raiding accounts like crazy
+recently.","最近好像有那種盜取他人的帳號，
+還樂在其中的人出現啊。","","최근 계정 사냥을 하면서, 들떠있는 녀석이 있는 모양이네","In letzter Zeit haben ein paar Hacker unglaublich
+viele Konten gestohlen."
+204,9087,"","It seems to be the work of a strange team that
+wears masks. Could it be a new team?","似乎是一個帶著面具的奇怪隊伍做的事……
+難道是新的隊伍不成？","","가면을 쓴 묘한 팀의 소행이라던데……
+새로운 팀이려나?","Ein seltsames Team, das Masken trägt, scheint
+dahinterzustecken. Vielleicht ein neues Team?"
+205,9088,"","That round thing with the arrow is the access
+point! You can use it to travel around EDEN.","那裡的箭頭符號，所指著的圓圈圈就是出發點，
+想去EDEN內別的區域的話，就調查看看那邊吧。","","거기 있는 화살표 마크의 둥근 것이 발착 포인트야.
+EDEN 안의 다른 에어리어로 갈 때는 거기를 조사하면 돼","Das runde Ding mit dem Pfeil ist der Zugangspunkt!
+Von dort aus kannst du in EDEN herumreisen."
+206,9088,"","Why am I telling you?! As an EDEN hacker, surely
+you already know.","……開玩笑的啦！
+如果是EDEN的駭客就一定會知道的吧。","","…뭐! EDEN의 해커라면 당연히 알고 있겠지","Warum sag ich das überhaupt ... Als EDEN-Hacker
+weißt du das sicher bereits."
+207,2000,"","(So I need to gather information about Shiga from
+the hackers in Under Kowloon, then install malware
+when I find the suspicious person?)","（從Under Kowloon的駭客，收集關於“志賀”
+　的情報，看到奇怪的傢伙就對他設下惡性
+　軟體……）","","(언더 쿠롱의 해커에게서 ""시가""에 대한 정보를 모아서
+ 수상한 녀석을 발견하면 악성코드를 설치한다…인가)","(Ich muss mir also Informationen über Shiga von
+den Hackern in Unter Kowloon holen und Malware
+installieren, wenn ich den Verdächtigen finde?)"
+208,2000,"","(This is my first job as a hacker. I've never done
+anything like this before, but I'll just get it
+done step-by-step.)","（這是我身為駭客以來的第一個工作）
+（雖然是第一次，但還是逐一完成吧）","","(이게 내 해커로서의 첫 일이다)
+ 처음 하는 일이지만 차근차근 해내도록 하자)","(Dies ist mein erster Job als Hacker. Ich habe so
+etwas noch nie getan. Ich erledige einfach einen
+Schritt nach dem anderen.)"
+209,2000,"","(I've asked all the hackers around here, but
+haven't learned anything. Maybe I should go
+farther in?)","（這附近的駭客雖然都問完一遍了，
+　還是沒得到什麼情報啊……
+　要再去更深處會比較好嗎？）","","(이 근처에 있는 해커에게 모든 얘길 들었지만 허탕이야…
+ 좀 더 안으로 들어가 볼까?)","(Ich habe alle Hacker in der Umgebung befragt,
+aber nichts erfahren. Vielleicht sollte ich weiter
+hineingehen?)"

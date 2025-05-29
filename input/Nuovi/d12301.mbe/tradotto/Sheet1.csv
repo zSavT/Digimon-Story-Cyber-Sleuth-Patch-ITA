@@ -1,0 +1,44 @@
+ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
+0,2000,,(Sembra una stazione di controllo...),（……這好像就是控制終端）,,(…이게 제어 단말인 듯하다),(Sieht wie eine Kontrollstation aus ...)
+1,2000,,"(Dovrei hackerarlo e controllare se ci sono problemi
+con il sistema di alimentazione.)",（……入侵終端，調查電源系統有無異常吧）,,"(단말에 해킹을 걸어서 전원 시스템에
+ 이상이 없는지 조사해보자)","(Ich sollte sie hacken und nachsehen, ob es
+Probleme mit der Stromversorgung gibt.)"
+2,2000,,(Non c'è niente di sbagliato in questa stazione. L'anomalia deve provenire da un'altra stazione.),"（……這台終端正常運作著。
+　看來異常原因，不是這台終端）",,"(…이 단말은 정상적으로 동작하고 있다.
+ 이상의 원인은 이 단말이 아닌 것 같다)","(Mit dieser Station ist alles in Ordnung.
+Die Anomalie muss einen anderen Ursprung haben.)"
+3,2000,,(Non c'è niente di sbagliato in questa stazione.),（……這台終端也正常運作著）,,(…이 단말도 정상적으로 동작하고 있다),(Mit dieser Station ist alles in Ordnung.)
+4,2000,,(Dovrei dare un'occhiata alle altre stazioni.),（調查剩下的終端吧）,,(남은 단말도 조사해보자),(Ich sollte mir die anderen Stationen ansehen.)
+100,2000,,Sento molta energia elettrica vorticare qui intorno.,感覺到這邊有巨大電氣能源在旋轉。,,부근의 거대한 전기 에너지가 소용돌이치는 것이 느껴진다,Hier fließt jede Menge elektrische Energie.
+101,2000,,"Questa deve essere la sicurezza del server della Centrale Elettrica.
+I miei alleati sarebbero paralizzati non appena la battaglia
+inizia.","這應該是發電廠伺服器的防範措施吧。
+戰鬥開始時，我方很可能會陷入麻痺。",,"이것이 발전소 서버의 보안일까?
+전투개시 시 아군이 마비에 걸릴 것 같다","Das muss das Sicherheitssystem des Kraftwerks
+sein. Meine Verbündeten wären bei Kampfbeginn
+sofort gelähmt."
+102,2000,,L'unico modo per disattivare questa sicurezza è ridurre la potenza nel server.,"要解除這防範措施，
+只能減少伺服器內的電力了。",,"이 보안을 해제하려면
+서버 내의 전기를 감소하게 만드는 수밖에 없어","Das Sicherheitssystem kann nur durch eine
+Energieverringerung am Server deaktiviert werden."
+103,2000,,"Forse potrei interrompere l'alimentazione a quest'area con un
+po' di hacking del terminale. Ci proverò.","只要入侵那邊的終端，
+說不定就能關閉這區域的電力。
+趕快試看看吧。",,"저쪽 단말을 해킹하면
+이 에어리어의 전력을 제어할 수 있을지도 몰라.
+바로 시험해보자","Vielleicht kann ich die Stromversorgung dieses
+Bereichs abstellen, indem ich das Terminal hacke.
+Ich versuche es."
+200,2000,,"Bene, ho abbassato l'energia che fluiva in tutta quest'area! I miei alleati non dovrebbero più essere paralizzati ora.","這區的電力減弱了。
+這樣我方就不會麻痺了。",,"이 에어리어 일대의 전력이 약해진 것 같다.
+이제 아군이 마비에 걸릴 일은 없어졌겠지","Alles klar, ich habe die Stromversorgung in diesem
+ganzen Bereich zurückgefahren! Die Digimon sollten
+nun etwas schwächer sein."
+300,2000,,"Bene, ho abbassato un po' la potenza, ma la
+sicurezza è ancora attiva.","電力雖然減弱了一點，
+但防範措施的效果依然存在。",,"전력은 약간 약해진 모양이지만
+보안 효과는 유지되고 있어","Tja, ich habe zwar die Stromversorgung etwas
+zurückgefahren, aber das Sicherheitssystem läuft
+noch."
+301,2000,,Meglio hackerare qualche terminale in più.,也入侵其他終端吧。,,다른 단말도 해킹해보자,Ich sollte besser noch ein paar Terminals hacken.

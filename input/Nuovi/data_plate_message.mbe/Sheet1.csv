@@ -1,0 +1,144 @@
+ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
+0,5004,"","Something is written on it...","上頭寫著某些字……","","무언가 적혀 있다…","Es steht etwas geschrieben ..."
+1,5004,"","Data analysis complete","資料分析成功。","","데이터의 해석에 성공했다","Datenanalyse abgeschlossen"
+2,5038,"","[4Unlock code...>]","[4Unlock code･･･＞]","","[4Unlock code･･･＞]","[4Freischaltcode ...>]"
+3,5004,"","It's some kind of locked data...","有某些資料被上鎖……","","어떤 데이터가 록 되어 있다…","Es sind irgendwelche gesperrten Daten ..."
+4,5004,"","Looks like the log of a hacker who passed through
+long ago, left as a message for hackers to come.","這似乎是以前來過這裡的駭客所留下的記錄……
+他留了一些訊息要給之後來的駭客。","","전에 이곳을 지나간 해커의 로그인 모양이다…
+뒤따라 올 해커를 위한 메시지가 남겨져 있다","Sieht nach dem Protokoll eines Hackers aus, das er
+vor langer Zeit als Nachricht an zukünftige
+Hacker hier hinterlassen hat."
+100,5038,"","[4If you want to go deeper,
+paste the red data on the right pedestal.
+by　[c4101]]","[4想到深處去的人，
+就把RED資料貼到右邊的台座上。
+by　[c4101]]","","[4안쪽으로 가고 싶은 자는
+오른쪽의 받침대에, RED 데이터를 페이스트하라
+ｂｙ　[c4101]]","[4Willst du weiter hinein, dann füge die
+roten Daten auf dem richtigen Podest ein.
+Von [c4101]]"
+20400,5004,"","...It says nothing.
+Just empty data.","……這是什麼都沒寫的空白資料。","","…아무것도 적혀 있지 않다
+텅 빈 데이터다","... Da steht nichts.
+Nur leere Daten."
+70200,5038,"","[4Hacker Hint: ""Darkness lies ahead.""]","[4【駭客心得「前途莫測」】]","","[4【해커의 마음가짐「한 치 앞은 어둠」】]","[4Hacker-Tipp: „Vor dir liegt Dunkelheit.“]"
+70201,5038,"","[4If you think you're a great hacker--]","[4如果你自認為是有才能的駭客——]","","[4네가 유능한 해커라고
+스스로 생각하고 있다면―]","[4Wenn du meinst, du bist ein toller Hacker ...]"
+70202,5038,"","[4then you know not to underestimate
+what looks like nothing at all.]","[4就算乍看之下是空無一物的地方，
+最好也要多加小心。]","","[4언뜻 보기에는 아무것도 없는 장소여도
+방심하지 않는 게 좋아]","[4... dann weißt du, dass man auch „nichts“
+nicht unterschätzen darf.]"
+70203,5038,"","[4EDEN is just a collection of data.]","[4EDEN是由資料所構成的世界。]","","[4EDEN은 데이터의 집합 세계다]","[4EDEN ist lediglich eine Sammlung von Daten.]"
+70204,5038,"","[4It's easy to forget with the barrage
+of data sent to avatars' five senses,
+but this is not the real world.]","[4化身會如實刺激用戶的五官，
+所以有時會讓人不小心遺忘這個事實。
+即使如此，EDEN仍舊跟現實世界是不同的。]","","[4아바타가 오감을 충실히 자극해 오니까
+깜빡 잊어버리는 일도 있지만
+그래도 역시, 현실 세계와는 달라]","[4Durch das stetige Datenbombardement auf die
+fünf Sinne des Avatars vergisst man leicht, dass
+das hier nicht die echte Welt ist.]"
+70205,5038,"","[4A place you thought was a path can suddenly
+become something completely different.]","[4你原本以為是道路的地方，
+有時會突然變化成某種別的東西。]","","[4길이라고 생각했던 장소가
+갑자기, 다른 무언가로 변하는 일도 있어]","[4Was man für einen Weg hält, kann plötzlich
+etwas ganz anderes werden.]"
+70206,5038,"","[4Darkness. It's what lies ahead.]","[4這就是前途莫測。]","","[4한 치 앞은 어둠, 이다]","[4Dunkelheit liegt vor dir.]"
+70207,5038,"","[4If you're a skilled enough hacker to be able
+to decrypt this log, you should be able to
+figure out what that really means.]","[4如果是能夠解讀這個記錄的駭客，
+自然就會察覺我這句話的意思吧。]","","[4이 로그를 해독할 수 있을 정도의 해커라면
+이게 무슨 의미인지 스스로 알 수 있겠지]","[4Wenn du gut genug im Hacking bist, um dieses
+Protokoll zu entschlüsseln, dann kommst du
+auch drauf, was das bedeutet.]"
+70300,5038,"","[4Hacker Hint: ""Nothing ventured, nothing
+gained.""]","[4【駭客心得「不入虎穴焉得虎子」】]","","[4【해커의 마음가짐「호랑이를 잡으려면 호랑이굴에 들어가야 한다」】]","[4Hacker-Tipp: „Wer nicht wagt, der
+nicht gewinnt.“]"
+70301,5038,"","[4If you think you're a great hacker--]","[4如果你自認為是有才能的駭客——]","","[4네가 유능한 해커라고
+스스로 생각하고 있다면―]","[4Wenn du meinst, du bist ein toller Hacker ...]"
+70302,5038,"","[4then you won't hesitate to go anywhere,
+even places you thought were dangerous.]","[4就算是大家都認為很危險的地方，
+你也要特意闖一闖。]","","[4설령 위험하다고 생각되는 장소여도
+한번 뛰어들어 보도록]","[4... dann traust du dich überallhin, auch dort,
+wo du es für gefährlich hältst.]"
+70303,5038,"","[4We're hackers, aren't we?]","[4我們是駭客對吧？]","","[4우리들은 해커잖아?]","[4Schließlich sind wir doch Hacker?]"
+70304,5038,"","[4An ""off-limits"" path, or a ""secret"" door?
+Those restrictions don't apply to us.]","[4無論是別人擅自認定無法通行的道路，還是秘密之門，
+對駭客都不管用。]","","[4타인이 멋대로 정한 지나갈 수 없는 길도, 비밀의 문도
+해커에게는 소용없어]","[4„Verbotene“ Wege, „geheime“ Türen?
+Für uns gelten diese Beschränkungen nicht.]"
+70305,5038,"","[4No one can tell a hacker what to do.]","[4任何人都無法限制駭客的行動。]","","[4그 누구도 해커의 행동을 제한할 수 없어]","[4Niemand sagt einem Hacker, was er tun soll.]"
+70306,5038,"","[4Even whether to go ahead or turn back, that's
+something you should decide for yourself.]","[4自己要前進與否，
+自己決定就行了。]","","[4네가 이 앞으로 나아갈지, 나아가지 않을지도
+네가 정하면 돼]","[4Auch die Frage, ob du weitergehst oder
+umdrehst, solltest du selbst entscheiden.]"
+70307,5038,"","[4But don't forget...
+Nothing ventured, nothing gained.]","[4但是，最好不要忘記「不入虎穴焉得虎子」
+這句話哦。]","","[4하지만, 호랑이를 잡으려면 이라는 말을
+잊지 않는 편이 좋아]","[4Aber denk dran ...
+Wer nicht wagt, der nicht gewinnt.]"
+180201,5038,"","[4PATTERN RED: OK]","[4PATTERN RED  ：OK]","","[4PATTERN RED  ：OK]","[4ROTES MUSTER: O.K.]"
+180301,5038,"","[4LEFT PATTERN BLUE: OK
+RIGHT PATTERN GREEN: OK]","[4LEFT PATTERN BLUE ：OK
+RIGHT PATTERN GREEN ：OK]","","[4LEFT PATTERN BLUE ：OK
+RIGHT PATTERN GREEN ：OK]","[4BLAUES MUSTER LINKS: O.K.
+GRÜNES MUSTER RECHTS: O.K.]"
+200201,5038,"","[4PATTERN RED: ERROR!
+PATTERN RED: ERROR!]","[4PATTERN RED   ：ERROR!
+PATTERN RED   ：ERROR!]","","[4PATTERN RED   ：ERROR!
+PATTERN RED   ：ERROR!]","[4ROTES MUSTER: FEHLER!
+ROTES MUSTER: FEHLER!]"
+200310,5038,"","[4PATTERN BLUE: ERROR!
+PATTERN GREEN: OK]","[4PATTERN BLUE  ：ERROR!
+PATTERN GREEN  ：OK]","","[4PATTERN BLUE  ：ERROR!
+PATTERN GREEN  ：OK]","[4BLAUES MUSTER: FEHLER!
+GRÜNES MUSTER: O.K.]"
+200311,5038,"","[4PATTERN YELLOW: ERROR!
+PATTERN PURPLE: ERROR!]","[4PATTERN YELLOW ：ERROR!
+PATTERN PURPLE ：ERROR!]","","[4PATTERN YELLOW ：ERROR!
+PATTERN PURPLE ：ERROR!]","[4GELBES MUSTER: FEHLER!
+LILA MUSTER: FEHLER!]"
+200320,5038,"","[4PATTERN BLUE: OK
+PATTERN GREEN: ERROR!]","[4PATTERN BLUE   ：OK
+PATTERN GREEN  ：ERROR!]","","[4PATTERN BLUE   ：OK
+PATTERN GREEN  ：ERROR!]","[4BLAUES MUSTER: O.K.
+GRÜNES MUSTER: FEHLER!]"
+200321,5038,"","[4PATTERN YELLOW: ERROR!
+PATTERN PURPLE: ERROR!]","[4PATTERN YELLOW ：ERROR!
+PATTERN PURPLE ：ERROR!]","","[4PATTERN YELLOW ：ERROR!
+PATTERN PURPLE ：ERROR!]","[4GELBES MUSTER: FEHLER!
+LILA MUSTER: FEHLER!]"
+200330,5038,"","[4PATTERN BLUE: ERROR!
+PATTERN GREEN: ERROR!]","[4PATTERN BLUE   ：ERROR!
+PATTERN GREEN  ：ERROR!]","","[4PATTERN BLUE   ：ERROR!
+PATTERN GREEN  ：ERROR!]","[4BLAUES MUSTER: FEHLER!
+GRÜNES MUSTER: FEHLER!]"
+200331,5038,"","[4PATTERN YELLOW: OK
+PATTERN PURPLE: ERROR!]","[4PATTERN YELLOW ：OK
+PATTERN PURPLE ：ERROR!]","","[4PATTERN YELLOW ：OK
+PATTERN PURPLE ：ERROR!]","[4GELBES MUSTER: O.K.
+LILA MUSTER: FEHLER!]"
+200340,5038,"","[4PATTERN BLUE: ERROR!
+PATTERN GREEN: OK]","[4PATTERN BLUE   ：ERROR!
+PATTERN GREEN  ：OK]","","[4PATTERN BLUE   ：ERROR!
+PATTERN GREEN  ：OK]","[4BLAUES MUSTER: FEHLER!
+GRÜNES MUSTER: O.K.]"
+200341,5038,"","[4PATTERN YELLOW: ERROR!
+PATTERN PURPLE: ERROR!]","[4PATTERN YELLOW ：ERROR!
+PATTERN PURPLE ：ERROR!]","","[4PATTERN YELLOW ：ERROR!
+PATTERN PURPLE ：ERROR!]","[4GELBES MUSTER: FEHLER!
+LILA MUSTER: FEHLER!]"
+240300,5038,"","[4ACCESSING SERVER...
+DATA DOWNLOAD COMPLETE]","[4登入伺服器……
+資料下載完畢。]","","[4서버에 접속…
+데이터의 다운로드를 완료했습니다]","[4ZUGRIFF AUF SERVER ...
+DOWNLOAD ABGESCHLOSSEN]"
+70308,2000,"","Looks like the log of a hacker who passed through
+long ago, left as a message for hackers to come.","這似乎是以前來過這裡的駭客所留下的記錄……
+他留了一些訊息要給之後來的駭客。","","전에 이곳을 지나간 해커의 로그인 모양이다…
+뒤따라 올 해커를 위한 메시지가 남겨져 있다","Sieht nach dem Protokoll eines Hackers aus, das er
+vor langer Zeit als Nachricht an zukünftige
+Hacker hier hinterlassen hat."
