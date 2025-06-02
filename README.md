@@ -11,7 +11,7 @@ La realizzazione della patch è stata resa possibile in larga misura grazie al c
 
 
 
-![Immagine](./img/2.jpeg)
+![Immagine](./img/1.png)
 
 # Crediti e collaboratori
 
