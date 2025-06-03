@@ -1,24 +1,24 @@
 ﻿ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
-1,3006,,"Quindi il cliente è un tuo amico? Non
-possiamo scegliere i nostri clienti, sai.
+1,3006,,"Quindi il cliente è una tua amica? Lo sai
+che non possiamo sceglierci i clienti.
 Dobbiamo accontentarci di chiunque possa pagare.","也就是說，這次的委託人是你的朋友？
 怎麼了？只要能獲得酬勞，我是不會挑委託人的。",,"즉, 의뢰인은 네 친구인가
 뭘, 보수만 받을 수 있으면 의뢰인은 가리지 않아","Die Klientin ist also eine Freundin von dir?
 Wir können uns unsere Klienten nicht aussuchen.
 Wir müssen alle nehmen, die zahlen können."
 2,3002,,"No, è solo che io...
-avevo qualcosa da chiedere a [p], ma...","沒有……那個……其實我只是有事……
+volevo chiedere una cosa a [p], ma...","沒有……那個……其實我只是有事……
 想拜託[p]而已啊……！",,"아니, 그… [p]에게 부탁할 일이 있을 뿐…
 인, 데, 요…?","Nein, ich ... wollte
 [p] nur etwas fragen, aber ..."
-3,3006,,Non è così che funziona.,那可不行。,,그럴 수는 없지,So läuft das hier nicht.
+3,3006,,Non funziona così.,那可不行。,,그럴 수는 없지,So läuft das hier nicht.
 4,3006,,"Nokia Shiramine,il tuo amico qui è una cyber detective
-professionista che guadagna uno stipendio per il suo lavoro.","白峰諾奇雅小姐，他現在已經是個
+professionista che si fa pagare per fare il suo lavoro.","白峰諾奇雅小姐，他現在已經是個
 領錢辦事的專業偵探了。",,"…시라미네 노키아 군, 이 아이는 이미 보수를 받으면서
 일을 완수하는 프로 탐정이다","Nokia Shiramine, du bist hier mit einem Profi
 befreundet, der für seine Arbeit bezahlt wird."
 5,3006,,"L'unico modo per chiedere qualcosa a un
-professionista è pagare una tariffa da professionista per
+professionista è pagare una tariffa per
 un caso. Inoltre, [p] è il mio assistente.","既然妳有事拜託專業偵探，就表示這是一件委託案。
 況且，他也是我的助手。",,"프로에게의 부탁이라면, 즉 의뢰와 다름없지
 덧붙이자면, 내 조수이기도 해","Wenn man etwas von einem Profi will, dann
@@ -29,11 +29,11 @@ me. Mi sono spiegata?","有事委託我的助手，也就是委託我。
 這樣妳懂了嗎？",,"내 조수에게의 의뢰는, 결국 나에게의 의뢰이지
 …이해가 갔나?","Und ein Fall für meinen Hilfsdetektiv ist ein Fall
 für mich. Verstanden?"
-7,3002,,Whoa... Chiarissima.,唔……我！知！道！了！啦！,,우와앗… 알 겠 습 니 다…,"Uff ... Ja, kapiert."
-8,3002,,"Non pensavo che sarebbe stato un
-problema così grande.",我本來沒打算把事情搞大的……,,이렇게 일을 키울 생각은 없었는데…,"Ich wusste nicht, dass ihr so ein Aufheben
+7,3002,,Whoa... Cristallina.,唔……我！知！道！了！啦！,,우와앗… 알 겠 습 니 다…,"Uff ... Ja, kapiert."
+8,3002,,"Non pensavo sarebbe stato un problema
+così grande.",我本來沒打算把事情搞大的……,,이렇게 일을 키울 생각은 없었는데…,"Ich wusste nicht, dass ihr so ein Aufheben
 machen würdet."
-9,3006,,"Bene, che tipo di caso è?",那麼，妳想要委託的是什麼樣的案子？,,"그래서, 어떤 의뢰지?","Nun, was ist es denn jetzt für ein Fall?"
+9,3006,,"Bene, di cosa si tratta?",那麼，妳想要委託的是什麼樣的案子？,,"그래서, 어떤 의뢰지?","Nun, was ist es denn jetzt für ein Fall?"
 10,3002,,"Ah, giusto.
 In realtà, voglio che [p]
 cerchi alcuni Digimon.","啊，是的。
@@ -49,8 +49,8 @@ I Digimon che mi hanno aiutata a Kowloon.","你應該還記得吧？
 Die Digimon, die mir in Kowloon geholfen haben."
 13,3002,,Agumon e Gabumon.,也就是亞古獸和加布獸。,,…아구몬이랑 파피몬 말이야,Agumon und Gabumon.
 14,3002,,È tutto quello che voglio che tu faccia.,我無論如何……,,계속…,Mehr will ich gar nicht.
-15,3002,,"Non importa cos'altro succeda.
-Non importa cosa!","無論如何、無論如何、無論如何、
+15,3002,,"Non importa come. Dobbiamo
+riuscirci ad ogni costo!","無論如何、無論如何、無論如何、
 無論如何無論如何無論如何～～～～～",,"계속, 계속, 계속
 계속계속, 계~~~~속!","Egal, was sonst passiert.
 Ganz egal!"
@@ -69,7 +69,7 @@ Aiutami! È una richiesta... cioè, un caso per te.","所以求求妳！幫幫�
 interessante. Hmph.",對數碼寶貝異常執著，還真是位有趣的女孩……呵呵。,,"디지몬에게 집념이라니, 재밌는 아가씨군 …후후","Ihre Zuneigung zu Digimon ist interessant.
 Hehe."
 20,3006,,"Beh, ha chiesto specificamente di te.
-Sarei propensa a lasciarlo a te. Cosa ne dici?","好，既然她指名找你，
+Sarei propensa a lasciartela. Cosa ne dici?","好，既然她指名找你，
 那這件事就全權交給你處理吧……如何？",,"그럼, 그녀의 지명은 너다
 이 건은 너에게 맡기고자 한다만… 어떤가?","Nun, sie hat ja speziell nach dir gefragt.
 Ich würde es dir überlassen. Was meinst du?"
@@ -113,13 +113,13 @@ Eccellente. Inizia con le tue indagini.","呵呵，不錯……
 那就快點進行調查吧！",,"후후, 좋아…
 그럼 바로, 조사를 개시하도록","Hihi! Ausgezeichnet.
 Dann leg mal los mit deiner Untersuchung."
-29,3006,,"Cos'è? Sembro più felice del
-solito? Se è così ovvio, non lo negherò.","嗯？我看起來比平常還要開心？
+29,3006,,"Come? Sembro più felice del
+solito? Beh, non lo nego.","嗯？我看起來比平常還要開心？
 如果你這麼覺得的話，那我也不否認。",,"응? 내가 평소보다 즐거워 보인다고?
 …그렇게 보인다면, 부정은 하지 않겠어","Wie? Ich wirke fröhlicher als sonst?
 Wenn das so offensichtlich ist, gebe ich es zu."
 30,3006,,"Ma, ad essere onesta...
-Sono un po' perplessa da questo caso insolito. A
+Sono un po' perplessa da questo caso. A
 caccia di Digimon!","但是，老實說……
 「尋找數碼寶貝」這麼特殊的委託，
 我其實有點疑惑。",,"하지만, 사실을 고하자면…
@@ -139,4 +139,4 @@ Hee hee hee hee...","還挺有趣的嘛！
 呵呵呵呵呵……",,"참으로 재밌지 않은가
 후후후후후…","Das wird wirklich interessant.
 Hihihihi ..."
-33,2000,,?,……？,,……?,?
+33,2000,,...?,……？,,……?,?
