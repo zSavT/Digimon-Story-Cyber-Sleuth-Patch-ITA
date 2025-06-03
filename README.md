@@ -65,8 +65,8 @@ Come ultimo passo, andiamo a premere "Install Mods" in basso. Inizierà un caric
 
 Per segnalare errori nella traduzione, bisogna farlo, anche qui, tramite la mia repository su GitHub, tramite la sezione "*issue*" della repo e selezionare il template "**Errori di traduzione**". Successivamente bisogna riportare tutte le informazioni richieste per poter correggere l'errore.
 Se il tuo problema è un crash del gioco, puoi creare invece l'issue dedicata al crash del gioco, seguendo sempre le linee guida riportate.
-![Immagine](./img/issue1.png)
-![Immagine](./img/issue2.png)
+![Immagine](./img/Issue1.png)
+![Immagine](./img/Issue2.png)
 
 # Video dimostrativo
 
