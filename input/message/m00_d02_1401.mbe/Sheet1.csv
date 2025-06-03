@@ -1,0 +1,46 @@
+﻿ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
+1,1151,,Che cosa dovremmo fare? È troppo forte!,怎、怎麼辦……它太強了……！,,"어, 어쩌지… 너무 강해…!",Was sollen wir tun? Es ist zu stark!
+2,1050,,"Io... Perché sono così
+debole? Dobbiamo aiutare Nokia e gli altri!","我……我為什麼會這麼弱……！
+我想要保護諾奇雅……想要保護大家……！",,"나… 어째서 이렇게나 약한 걸까…!
+노키아를… 모두를 지키고 싶은데…!","Warum ... bin ich so schwach?
+Wir müssen Nokia und den anderen helfen!"
+3,2000,,!!!,……！！,,…!!,!!!
+4,3004,,"Okay! La serratura è stata sistemata.  Puoi
+disconnetterti!",好！解開密碼鎖了！可以登出了！,,좋아! 록을 해제했어. 로그아웃 할 수 있어!,"So! Die Sperre ist erledigt. Ihr könnt euch
+ausloggen!"
+5,3004,,"Forza, Nokia! Sbrigati!",喂！諾奇雅！動作快！,,"야 노키아, 서둘러!","Na los, Nokia! Schnell!"
+6,3002,,Ma che ne sarà di loro?!,可……可是他們還沒……！,,"하, 하지만, 저 애들이, 아직…!?",Was ist mit ihnen?!
+7,3004,,Non lo capisci? Li stai trattenendo!,妳還不懂嗎？礙手礙腳的人是妳啊！,,모르겠어? 네가 짐이라고!,Verstehst du nicht?! Du hältst sie auf!
+8,3004,,Non possono fare nulla finché non te ne vai!,只要妳成功逃離這裡，他們會有辦法的……！,,"너만 도망치면, 저 녀석들은 어떻게든 할 수 있다고…!","Sie können nichts machen, solange du hier bist!"
+9,3002,,Eh?!,……唔！,,…읏!!,Wie?!
+10,3004,,"[p]!
+Nokia si è disconnessa! Tocca a me
+adesso! Tu sbrigati a seguirci, okay!?","[p]！諾奇雅登出了，我也會跟著登出……！
+你也要快點登出！聽到了嗎？",,"[p]! 노키아는 로그아웃했어, 이제 나도 따라가겠어…!
+너도 서둘러! 알겠지!?","[p]!
+Nokia hat sich ausgeloggt! Jetzt ich!
+Dann kommst du schnell nach, okay?"
+11,5004,,Ritrova i tuoi ricordi...,“來找我們（記憶）――”,,"""기억(우리들)을, 찾아줘――""",Finde deine Erinnerungen ...
+12,4246,,--Attenzione,——警告,,―경고,– Achtung
+13,4246,,"Si è verificato un errore imprevisto
+durante il processo di disconnessione per [p] Aiba--","相羽[p]的登出系統作業
+發生非預期的錯誤——",,"아이바 [p] 씨의 로그아웃 처리중에
+예기치 못한 에러가 발생했습니다―","Während des Ausloggvorgangs von [p] Aiba
+ist ein unerwarteter Fehler aufgetreten –"
+14,4246,,Il processo di disconnessione non può continuare... ... ...,無法進行登出系統作業…　…　…,,로그아웃 처리를 계속 할 수 없습니다… … …,Der Vorgang kann nicht fortgesetzt werden ...
+15,4246,,Il processo di disconnessione non può continuare... ... ...,無法進行登出系統作業…　…　…,,로그아웃 처리를 계속 할 수 없습니다… … …,Der Vorgang kann nicht fortgesetzt werden ...
+16,4246,,L'uscita non può essere completata... ... ...,無法進行登出系統作業…　…　…,,로그아웃 처리를 계속 할 수 없습니다… … …,Der Vorgang kann nicht fortgesetzt werden ...
+17,4246,,... ... ...Il processo di disconnessione continuerà.,…　…　…登出系統作業進行中。,,… … …로그아웃 처리를 계속합니다,... Der Vorgang wird fortgesetzt.
+18,4246,,"Disconnessione
+riuscita. Ci vediamo al prossimo accesso. Grazie.","已成功登出。
+歡迎再度光臨。",,"로그아웃을 성공했습니다
+다음 로그인 때 다시 뵙겠습니다","Erfolgreich ausgeloggt.
+Bis zum nächsten Login. Vielen Dank."
+19,4246,,"EDEN è una rete umana che
+connette il mondo al futuro, gestita dalle
+Kamishiro Enterprises.","EDEN是連繫全世界、開創未來的人類網路，
+由「神代企業」所經營。",,"EDEN은 세계를 연결하고 미래를 자아내는 휴먼 네트워크
+「카미시로 엔터프라이즈」가 운영하고 있습니다","EDEN ist ein von Menschenhand geschaffenes
+Netzwerk der Kamishiro Enterprises, das die Welt
+mit der Zukunft verbindet."
