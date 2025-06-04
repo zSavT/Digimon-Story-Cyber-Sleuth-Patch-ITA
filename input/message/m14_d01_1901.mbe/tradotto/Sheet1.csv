@@ -1,242 +1,97 @@
 ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
-1,3005,,"Ehi... Tu cosa ne pensi, {player_name}?",喂……[p]你是怎麼想的？,,저기…… [p]는(은) 어떻게 생각해?,"He ... Was denkst du, [p]?"
+1,3005,,"Ehi... Che ne pensi, [p]?",喂……[p]你是怎麼想的？,,저기…… [p]는(은) 어떻게 생각해?,"He ... Was denkst du, [p]?"
 2,2000,,...?,？,,…?,...?
-3,3005,,"Queste cose hanno anche un minimo di intelletto?
-Si limitano a mangiare e mangiare come pazzi.","這些傢伙沒有所謂的意志嗎？
+3,3005,,"Sono questi mostri in qualche modo intelligenti?
+Non fanno altro che mangiare continuamente.","這些傢伙沒有所謂的意志嗎？
 是像笨蛋一樣，只是一味地想吃嗎？",,"이 녀석들에게 의사라는 건 없는 걸까?
 바보처럼, 그저 오로지 먹고 싶어하는 것 뿐인 건가?","Sind diese Viecher irgendwie intelligent?
 Sie fressen einfach nur die ganze Zeit."
-4,3005,,Quale potrebbe essere il loro scopo?!,這些傢伙的目的到底是什麼啊！？,,"이 녀석들의 목적은, 도대체 뭐야!?",Wozu sollen die nur gut sein?!
-5,4277,,Permettimi di rispondere io a questo.,這個就由我來回答吧。,,…그건 제가 대답해 드리도록 하죠,"Das kann ich dir beantworten, wenn ich darf."
+4,3005,,A cosa dovrebbero mai servire?!,這些傢伙的目的到底是什麼啊！？,,"이 녀석들의 목적은, 도대체 뭐야!?",Wozu sollen die nur gut sein?!
+5,4277,,"Te lo posso rispondere, se mi è permesso.",這個就由我來回答吧。,,…그건 제가 대답해 드리도록 하죠,"Das kann ich dir beantworten, wenn ich darf."
 6,3005,,Suedou?!,末堂！？,,―스에도!?,Suedou?!
-7,3005,,"Basta stronzate, amico! Appari sempre quando
-ti pare! Te ne stai lì seduto a guardare questo
-disastro che si svolge come se fosse un forma di intrattenimento?","你別說笑了！每次都自顧自地出現！
+7,3005,,"Smettila! Spunti sempre quando ti fa comodo! Sfrutti questo caos per il tuo divertimento personale, eh?","你別說笑了！每次都自顧自地出現！
 是要對這慘狀袖手旁觀嗎！？",,"너 이 자식, 웃기지 말라고! 항상 상황 좋게 나타나고 말이야!
 이 참상을 방관한 거냐!?","Lass den Mist! Kreuzt immer auf, wann es dir
 gerade passt! Du nutzt dieses Chaos zu deiner
 persönlichen Unterhaltung, wie?"
-8,3009,,"L'osservazione e l'analisi sono il dovere di un ricercatore.
-Vado dove devo. Resto semplicemente in silenzio mentre vado.","觀察和分析就是研究人員的職責，
+8,3009,,Osservazione e analisi sono i compiti di un ricercatore. Vado dove devo andare. Sono solo silenzioso nel farlo.,"觀察和分析就是研究人員的職責，
 我只是默默地做我該做的事情。",,"관찰과 분석이야말로 연구자의 책무
 전 제가 해야 할 일을, 그저 조용히 하고 있을 뿐입니다","Beobachtung und Analyse sind Aufgaben eines
 Forschers. Ich gehe dorthin, wo ich hin muss.
 Ich bin dabei nur leise."
-9,3009,,"Capisco, sei anche affascinato dagli Eater...
-E li stai studiando.",研究新也很感興趣的侵食者……,,아라타 군도 흥미진진해 하는 이터의 연구를 말이지요…,"Euch faszinieren Verschlinger offenbar auch ...
+9,3009,,"A quanto pare, anche voi siete affascinati dai Divoratori...
+E li studiate.",研究新也很感興趣的侵食者……,,아라타 군도 흥미진진해 하는 이터의 연구를 말이지요…,"Euch faszinieren Verschlinger offenbar auch ...
 Und ihr erforscht sie."
-10,3005,,Sai cosa vogliono gli Eater?!,你知道侵食者的目的嗎！？,,"……너, 이터의 목적을 알고 있는 거야!?","Weißt du, worauf die Verschlinger es abgesehen
+10,3005,,"Sai, a cosa puntano i Divoratori?!",你知道侵食者的目的嗎！？,,"……너, 이터의 목적을 알고 있는 거야!?","Weißt du, worauf die Verschlinger es abgesehen
 haben?!"
-11,3009,,"Hehe... Sì, sei decisamente affascinato da loro. Pensavo che se qualcuno lo fosse, saresti tu.","呵呵……你果然有興趣嗎？
+11,3009,,"Hehe... Sì, ti affascinano decisamente.
+Me lo sarei aspettato proprio da te.","呵呵……你果然有興趣嗎？
 我就猜你一定會有興趣。",,"쿠후… 역시 흥미가 있으시군요
 …당신이라면 분명 그럴 거라고 생각했습니다","Hehe ... Ja, dich faszinieren sie ganz eindeutig.
 Von dir hätte ich es auch am ehesten erwartet."
-12,3009,,"Potrebbe volerci un po', ma per rispetto della
-tua curiosità intellettuale, permettimi di condividere
-con te le mie ricerche finora.","雖然會有點長，但我對你的率直的探求心表示敬意，
+12,3009,,"Potrebbe volerci un po', ma permettimi di soddisfare la tua sete di conoscenza con i miei risultati di ricerca finora ottenuti.","雖然會有點長，但我對你的率直的探求心表示敬意，
 讓我告訴你至今為止的研究成果吧。",,"다소 길어지겠지만, 당신의 솔직한 탐구심에 경의를 표해
 지금까지의 연구 성과를 알려 드리도록 하지요","Das könnte ein Weilchen dauern, aber erlaube mir,
 deinen Wissensdurst mit meinen bisherigen
 Forschungsergebnissen zu befriedigen."
-13,3009,,"A proposito, Arata, perché mangi?
-Qual è il tuo obiettivo in questo atto?","話說回來，新，
+13,3009,,"A proposito, Arata – perché mangi? Qual è il tuo scopo con questo?","話說回來，新，
 你為什麼要吃飯？　目的是什麼？",,"…그런데 아라타 군
 당신은 어째서 식사를 하는 거죠? 목적은 무엇인가요?","Übrigens, Arata – warum isst du denn?
 Was ist dabei dein Ziel?"
-14,3005,,"Il mio obiettivo? È un po' casuale. Non c'è un vero
-obiettivo nel mangiare. Se non mangio, morirò. Sono una
-creatura vivente.","你忽然問什麼問題……？吃飯哪有什麼目的。
+14,3005,,"Il mio obiettivo? Che domanda strana. In realtà non ne ho davvero uno. Come essere vivente, devo mangiare, altrimenti morirò di fame.","你忽然問什麼問題……？吃飯哪有什麼目的。
 生物不吃飯會死啊。",,"뭐야 갑자기? …식사에 목적이고 뭐고 없어
 안 먹으면 죽잖아, 생물이니까","Mein Ziel? Was für eine komische Frage. Gibt
 eigentlich keins. Als Lebewesen muss ich essen,
 sonst verhungere ich."
-15,3009,,"Esatto! Noi mangiamo per vivere.
-Ora, allora, perché vivono gli umani?","沒錯！吃飯是為了生存，
+15,3009,,"Esatto! Mangiamo per poter vivere.
+E perché vivono gli esseri umani?","沒錯！吃飯是為了生存，
 那麼，為什麼人要生存呢？",,"그렇습니다! 먹는 건, 살기 위해서입니다
 그럼 어째서 사람은 사는 걸까요?","Genau! Wir essen, um leben zu können.
 Und warum leben Menschen?"
-16,3005,,"Abbastanza facile. Non vogliamo morire, giusto?",那是……因為不想死吧？,,…그야…죽고 싶지 않아서잖아?,"Das ist einfach. Weil wir nicht sterben wollen,
+16,3005,,"È semplice. Perché non vogliamo morire, giusto?",那是……因為不想死吧？,,…그야…죽고 싶지 않아서잖아?,"Das ist einfach. Weil wir nicht sterben wollen,
 stimmt’s?"
-17,3009,,"Quello è solo un istinto biologico, cavalcando le
-scintille di emozione e logica. Pensa a un livello
-più rudimentale!","那只是把感情和邏輯的爭論，套用在生物的本能上……
+17,3009,,"Questo è un istinto biologico che è intrecciato con pensieri ed emozioni.
+Pensa in termini più semplici!","那只是把感情和邏輯的爭論，套用在生物的本能上……
 我希望你的思考再原始一點！",,"그건 생물의 본능에, 감정과 논리라는 불꽃이 붙어 있는 것뿐입니다…
 좀 더 좀 더, 원시적으로 생각해 주셨음 합니다!","Das ist ein biologischer Instinkt, der mit
 Gedanken und Emotionen verwoben ist.
 Denk in einfacheren Begriffen!"
-18,3009,,"Le creature vivono per salvare la propria progenie. Questo è il motivo per cui
-ci adattiamo ai nostri ambienti mentre tramandiamo
-i nostri geni.","生物生存是為了保留物種，
+18,3009,,"Gli esseri viventi vogliono proteggere la loro prole.
+Per questo ci adattiamo alle condizioni di vita
+e trasmettiamo i nostri geni.","生物生存是為了保留物種，
 為此，生物一直在適應環境，改寫基因……",,"생물이 사는 건, 종을 보존하기 위해
 그 때문에 생물은 환경에 적응하고, 유전자를 바꿔 왔지요…","Lebewesen wollen ihre Nachkommen schützen.
 Deshalb passen wir uns an Lebensbedingungen an
 und geben unsere Gene weiter."
-19,3009,,"In altre parole, è un imperativo evolutivo.",也就是“進化”呀。,,"…즉, ""진화""입니다","Mit anderen Worten, ein evolutionärer Imperativ."
-20,3005,,Digievoluzione?,進化……？,,진화…?,Evolution?
-21,3009,,"Esattamente. E a questo proposito, umani e Eater
-sono identici!","正是如此……
+19,3009,,"In altre parole, un imperativo evolutivo.",也就是“進化”呀。,,"…즉, ""진화""입니다","Mit anderen Worten, ein evolutionärer Imperativ."
+20,3005,,Evoluzione?,進化……？,,진화…?,Evolution?
+21,3009,,"Esatto. E a questo proposito, gli umani non si differenziano minimamente dagli Sventratori!","正是如此……
 人類和侵食者都一樣！",,"그렇습니다…
 그리고 그건, 인간도 이터도 다르지 않습니다!","Genau. Und diesbezüglich unterscheiden sich
 Menschen nicht im Geringsten von Verschlingern!"
-22,3009,,Gli Eater analizzano e assorbono ciò che hanno mangiato come dati. Hanno anche il potere di sovrascrivere tali dati.,"侵食者有將捕食對象做為資料，進行分解、吸收
+22,3009,,"I Divoratori elaborano la loro preda come dati.
+Possono anche sovrascrivere questi dati.","侵食者有將捕食對象做為資料，進行分解、吸收
 並隨意改寫的能力，",,"이터는, 포식한 것을 데이터로 분해 및 흡수하여
 자유롭게 바꾸는 능력을 갖고 있습니다","Verschlinger verarbeiten ihre Beute als Daten.
 Sie können diese Daten auch überschreiben."
-23,3009,,"Questo è il fenomeno che conoscete come
-""bugging"" dei dati. Questa è solo una reazione a
-quell'abilità.","你們也知道，這就是所謂的“Bug化”現象……
+23,3009,,"Lo conosci. Quando si descrivono i dati come ""buggati"", è esattamente questo fenomeno.","你們也知道，這就是所謂的“Bug化”現象……
 但這也只是某個能力的反作用之一。",,"그것이 당신들도 알고 계신 ""버그화""라 불리는 현상입니다만…
 이건 어느 능력의 반작용 중 하나에 불과했죠","Das kennst du. Wenn man Daten als „verbuggt“
 beschreibt, ist das genau dieses Phänomen."
-24,3009,,Ma il vero potere degli Eater non risiede nell'infiltrazione di bug.,侵食者真正的能力並非Bug化……,,이터의 진정한 능력은 버그화가 아니라…,"Aber das ist nicht die wahre Macht der
+24,3009,,Ma questo non è il vero potere dei Divoratori.,侵食者真正的能力並非Bug化……,,이터의 진정한 능력은 버그화가 아니라…,"Aber das ist nicht die wahre Macht der
 Verschlinger."
-25,3009,,"Il loro vero potere risiede nella loro capacità di prendere
-i dati che hanno assorbito e ristrutturarli dentro
-loro stessi!","它們真正的能力是，
+25,3009,,La sua grande forza risiede nel poter ristrutturare i dati assorbiti al suo interno!,"它們真正的能力是，
 將吸收的資料在自體內部重新構成！",,"그들의 진정한 능력은, 흡수한 데이터를
 자신들에게 재구성하는 힘을 갖고 있다는 겁니다!","Ihre große Stärke liegt darin, die absorbierten
 Daten in sich neu strukturieren zu können!"
-26,3009,,"Consumando i loro bersagli, si sovrascrivono
-e rinascono come nuova vita!","透過捕食對象，將自身改寫，
+26,3009,,"Divorano le loro vittime, contemporaneamente si sovrascrivono e rinascono!","透過捕食對象，將自身改寫，
 重生為新生命！",,"대상을 포식하는 것으로 스스로를 바꿔서
 새로운 생명으로 다시 태어나는 것!","Sie fressen ihre Opfer, überschreiben sich selbst
 dabei und werden wiedergeboren!"
-27,3009,,"E questo, in altre parole, è l'evolvere!
-Gli Eater continuano a evolversi mentre divorano
-le loro prede!","那就是……進化！
+27,3009,,"E questo è ciò che si chiama Evoluzione!
+I Divoratori si evolvono divorando la loro preda!","那就是……進化！
 侵食者一邊反覆捕食，一邊繼續進化！",,"즉 그것은… 진화!
 이터는 포식을 반복하면서 계속 진화하고 있는 겁니다!","Und genau das nennt man Evolution!
 Verschlinger entwickeln sich durch das
 Verschlingen ihrer Beute weiter!"
-28,3005,,Quindi stanno mangiando per evolvere?,侵食者也是……為了進化而進食嗎？,,"이터도, …진화하기 위해서 먹고 있다는 거야?","Sie fressen, um sich weiterzuentwickeln?"
-29,3009,,"Esatto! La vita, per gli Eater, è evoluzione.
-Solo continuando a evolversi possono vivere!","沒錯！　對侵食者而言，所謂生存就是進化，
-只有繼續進化，才能繼續生存！",,"그렇습니다! 이터에게 있어서 살아가는 것이란, 진화하는 것
-…계속해서 진화를 해야만, 살아갈 수 있는 겁니다!","So ist es! Für Verschlinger besteht das Leben aus
-Weiterentwicklung. Nur so können sie bestehen."
-30,3009,,"Non trovi che sia un'abilità così meravigliosa?
-Questo, questo è ciò di cui tratta lo studio della vita!","不覺得這種能力很了不起嗎？
-即使稱之為生命的最終形態也不為過！",,"정말 훌륭한 능력이라고 생각하지 않으십니까?
-이것이야말로, 생명의 궁극적인 모습이라 해도 과언이 아닙니다!","Ist das nicht eine wundersame Fähigkeit?
-Die Quintessenz der Lehre von den Lebewesen!"
-31,3009,,"Per gli Eater, ogni esistenza è una possibilità di evolvere.",對於侵食者而言，所有的存在都是進化的契機。,,"이터에게 있어서는, 온갖 존재가 진화의 계기인 겁니다","Ein Verschlinger sieht seine ganze Existenz nur
-als Chance zur Weiterentwicklung."
-32,3009,,"Elimina il muro che separa la realtà dal digitale. Non gli importa. Per loro, è solo cibo.","即使是隔開現實和數碼的牆，
-對它們而言，也不過是餌食。",,"그것이 설령, 현실과 디지털을 막고 있는 벽이라 해도
-그들에게 있어서는 그저 먹이에 불과하지요","Wenn die Trennung zwischen echt und digital
-aufgelöst wird, ist denen das egal.
-Hauptsache Futter."
-33,3009,,"E l'abilità dei divoratori di dare la caccia alle prede permette loro
-di ottenere in un istante ciò che all'uomo ha richiesto 
-un'eternità!","侵食者利用各自的捕食作用，
-轉眼間就能完成人類幾經歲月才能到達的境界。",,"인간이 오랜 세월을 거쳐야 겨우 도달할 수 있는 경지를
-이터는 각자의 포식 기능으로 단숨에 이룰 수 있는 것입니다!","Über ihre Beute können Verschlinger in einem
-Augenblick erreichen, wofür wir Menschen ewig
-gebraucht haben!"
-34,3005,,"Hai permesso agli Eater di mangiare la Barriera Dimensionale così
-che potessero evolvere? Cosa state tramando tu e Kishibe?","你是說為了進化，讓侵食者吃了次元之壁……？
-你和岸部到底打算做什麼？",,"진화를 위해서, 이터에게 차원의 벽을 먹였다는 거냐?
-…너와 키시베는 대체 뭘 꾸미고 있는 거야?","Du hast sie den Dimensionswall auffressen lassen,
-damit sie sich weiterentwickeln können?
-Du und Kishibe, was habt ihr vor?"
-35,3009,,"Sì, ho lavorato con la signorina Kishibe, è vero.
-I nostri obiettivi erano allineati per un certo periodo.","我的確幫助了岸部小姐，
-因為我們當時的目的一致。",,"…확실히 전 키시베 씨에게 협력했었습니다
-당시의 목적은 일치했었으니까요","Ich habe tatsächlich mit Fräulein Kishibe
-gearbeitet. Für eine Zeit lang lagen unsere Ziele
-im Einklang."
-36,3009,,"Ma questo si estendeva solo fino al crollo della
-Barriera Dimensionale...","但是，我和岸部小姐的共同目的，
-只到“次元之壁的崩壞”為止……",,"하지만, 저와 키시베 씨가 같은 목적을 갖고 있었던 것은
-""차원의 벽의 붕괴""까지…","Doch das endete mit dem Niedergang des
-Dimensionswalls ..."
-37,3009,,"Come Kishibe stessa ha detto, voleva aprire la
-Porta Dimensionale.",啊，岸部小姐是用“開啟次元之門”來形容呢……,,"아, 키시베 씨는 ""차원의 문을 연다""라고 표현했습니다만…","Kishibe hat selbst gesagt, dass sie das
-Dimensionstor öffnen wollte."
-38,3009,,"Ero più interessato al Wall. Semanticamente
-sono la stessa cosa, una volta superata l'astrazione...","我是覺得用「牆壁」來形容比較合適啦！
-雖然就意思上來說「門」也一樣，但覺得有點太抽象了——",,"전 벽이라는 표현 쪽이 확 와닿는단 말이지요
-의미적으로는 문도 같습니다만, 너무 추상적이라고―","Mich interessierte der Wall selbst. Auf dem Papier
-kein Unterschied, aber praktisch ..."
-39,3005,,"Muro, porta, portale. È tutto uguale! Non importa
-tutto questo. Stai dicendo che avevi un'altra agenda?!","啊～壁也好，門也好，都沒差啦！
-比起這個，你是有別的目的嗎？",,"아―, 벽이든 문이든 어느 쪽이든 상관없다고!
-그보다, 너에겐 다른 목적이 있다는 거야!?","Wall, Tor, Portal! Ist doch völlig gleichgültig!
-Du hattest noch einen anderen Plan, nicht wahr?"
-40,3009,,"Hehehehe... Una volta che gli Eater eroderanno il muro, il
-confine tra il nostro mondo e il Digimondo
-sarà storia!","呵呵呵呵……透過讓侵食者侵蝕次元之壁，
-和我們世界臨接的數碼世界的邊界就會消失。",,"쿠후후후… 이터에게 차원의 벽을 침식시킴으로써
-우리들의 세계와 인접한 디지털 월드의 경계는 소실됩니다","Hehehe ... Sobald die Verschlinger den Wall
-einreißen, gibt es keine Trennung mehr zwischen
-unserer Welt und der digitalen!"
-41,3009,,"Il mondo reale sentirà gli effetti del
-Digiworld mentre i Digital Shift continuano!","現實世界因此受到數碼世界的影響，
-持續發生Digital Shift……！",,"결과, 현실 세계는 디지털 월드의 영향을 받아
-상시 디지털 시프트를 일으킵니다…!","Digitale Verschiebungen werden weiter stattfinden
-und die echte Welt wird die Auswirkungen der
-digitalen zu spüren bekommen!"
-42,3009,,"Sarà una completa fusione del reale e del
-digitale! Pensa a cosa sarà possibile quando ciò
-accadrà!","現實與數碼的完全融合！
-若能實現，你覺得能做什麼？",,"현실과 전뇌의 완전한 융합!
-그것이 실현되면, 무엇을 할 수 있을 거라 생각하십니까?","Die Realität und das Digitale werden vollständig
-verschmelzen! Stell dir nur vor, was dann möglich
-wird!"
-43,3009,,"Non è una questione di *cosa* sarà possibile!
-Qualsiasi e tutte le cose diventeranno possibili!","不該問能做什麼！
-一切都有可能呀！",,"무언가를 할 수 있다, 라는 레벨이 아닙니다!
-…온갖 것들이 가능해집니다!","Denk gar nicht lange darüber nach:
-Absolut ALLES wird möglich sein!"
-44,3009,,"Sarà possibile modificare il mondo reale a
-volontà! Come sovrascrivere un programma nel Digitale
-Mondo!","要自由自在地改變現實世界也是可能的！
-就像改寫電腦世界的程式！",,"현실 세계를 자유자재로 개변하는 것도 가능합니다!
-전뇌세계의 프로그램을 고쳐 쓰듯이!","Dann können wir die echte Welt beliebig
-manipulieren, wie wenn man in der Digitalen
-Welt ein Programm überschreibt!"
-45,3009,,"Finché non raggiungerai la perfezione che desideri!
-Ancora e ancora!","在能得到自己追求的完美境界之前，
-要改多少次都可以！",,"자신이 바라는 완벽한 것을 얻을 때까지
-몇 번이고, 몇 번이고!","Bis die gewünschte Perfektion erreicht ist!
-Immer wieder aufs Neue!"
-46,3005,,Questo è il tuo obiettivo?,那就是你的目的嗎……,,그게 네 목적인가…,Das ist dein Ziel?
-47,3005,,Sembra che tu stia parlando dell'evoluzione stessa della razza umana.,"難不成是
-“人類本身的進化”……？",,"그건 혹시
-""인간 그 자체의 진화""이기도 한 거야…?","Hört sich an, als würdest du von der Evolution
-der Menschheit reden."
-48,3009,,"Questo è un modo per dirlo. Per ottenere nuovo potere. Potremmo chiamarla evoluzione, suppongo.","沒錯……
-我們能將獲得“新的力量”稱為進化。",,"그렇, 군요…
-""새로운 힘""의 획득은, 진화라 부를 수 있겠지요","Könnte man so sagen. Wir erlangen neue Macht.
-Man könnte es wohl Evolution nennen."
-49,3005,,Per ottenere nuovo potere?,獲得……新的力量……？,,새로운 힘의… 획득…?,Neue Macht?
-50,3009,,"Se c'è qualcosa che desideri essere in grado di fare...
-Se vuoi raggiungere il Nirvana...","如果有想要達成的事……
-有想到達的目的地……",,"이루고 싶은 게 있다면…
-도달하고 싶은 경지가 있다면","Wenn du etwas schaffen willst ...
-Wenn du das Nirvana erreichen willst ..."
-51,3009,,"Ingozzati di qualcosa col potere di riscrivere
-te stesso! Quello è il metodo fondamentale tramite
-il quale avviene l'evoluzione!","請吃掉有力量的東西，改寫自己，
-那就是進化的必然儀式。",,"힘 있는 자를 먹고, 자신을 바꾸십시오
-그건, 진화를 위한 필연적인 의식입니다","Dann verputz etwas, was das kann, und schreibe
-dich neu! Das ist die Grundlage der Evolution!"
-52,3009,,Sarebbe negligente lamentarsi della propria situazione senza fare nulla per cambiarla!,什麼都不做而埋怨現狀，只不過是怠惰！,,"아무것도 하지 않고 현재를 한탄하는 것은, 그저 태만일 뿐이라구요!?","Man darf sich schließlich nicht über seine Lage
-beschweren, ohne etwas dagegen zu tun!"
-53,3009,,"E tu, Arata? Cosa farai?
-Cosa vuoi? Cosa diventerai?","快呀，新，你要怎麼做？
-想怎麼做？想變成怎樣？",,"자 아라타 군, 당신은 어떻게 하겠습니까?
-어떻게 하고 싶습니까? 어떻게 되고 싶습니까?","Und du, Arata? Was wirst du tun?
-Was wünschst du dir? Was willst du werden?"
-54,3005,,"Io, chi?!",我、我……！,,"나, 난…!","Wer, ich?!"
-55,3009,,"A proposito, Arata...",啊，對了，新。,,"이거, 그보다 말이죠, 아라타 군","Übrigens, Arata ..."
-56,3005,,C-Cos'è? C'è qualcosa che--,怎、怎樣啊，又有什麼――,,"…뭐, 뭐야, 또 뭔가―",W-Was? Ist etwas ...
-57,3009,,Faresti meglio a stare attento.,你最好小心一點唷。,,조심하는 편이 좋아요,Pass nur gut auf.
-58,3005,,...Eh?,嗯？,,………응?,... Was?
-59,3009,,Alle... tue... spalle.,後、面。,,"뒤, 쪽, 을",Hin ... ter dir.
-60,2000,,?!,！？！,,!?!,?!
-61,3009,,"Coloro che non possono evolvere verranno eliminati.
-Non devi indugiare.","無法進化的東西，遲早會被淘汰的……
-猶豫是大忌。",,"진화하지 못하는 자는, 언젠가 도태됩니다…
-방심은 금물입니다","Weiterentwickeln oder zugrunde gehen.
-Du darfst keine Zeit verschenken."
+28,3005,,Mangiano per evolversi?,侵食者也是……為了進化而進食嗎？,,"이터도, …진화하기 위해서 먹고 있다는 거야?","Sie fressen, um sich weiterzuentwickeln?"

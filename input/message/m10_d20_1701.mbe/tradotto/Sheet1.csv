@@ -1,135 +1,126 @@
 ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
-1,3006,,"Ev-- una ---tte?
-Riesci a --entire --oice?","大－家沒……吧？
+1,3006,,"Tutto... ... ...osto?
+Mi s... ...entite?","大－家沒……吧？
 聽得……我——聲音嗎？",,"모― 두, 무……… 한가?
 내…… 목소리가―― 는가?","All ... ... ...dnung?
 Könnt ihr m ... ...ören?"
-2,3002,,È Kyoko!,杏子姊！,,쿄코 씨!,Kyoko!
-3,3006,,"Sembra che alla fine ce l'abbia fatta.
-Non credo di avere molto tempo, però.","看來成功連上了！
+2,3002,,Kyoko!,杏子姊！,,쿄코 씨!,Kyoko!
+3,3006,,"Sono finalmente riuscito a passare.
+Però probabilmente non ho molto tempo.","看來成功連上了！
 不過似乎沒辦法說太久！",,"…무사히 연결된 모양이군
 하지만 아무래도, 그다지 길게 얘기할 수는 없을 것 같다","Endlich bin ich durchgekommen.
 Vermutlich habe ich aber nicht viel Zeit."
-4,3002,,Che sta succedendo?! Che diavolo è questo?,這到底是怎麼回事？到底發生了什麼事……,,어떻게 된 거예요!? 이건 대체…,Was ist hier los?! Was zum Teufel geschieht hier?
-5,3006,,"Da quanto posso capire, qualcuno ha inviato un'Onda Digitale ad alta densità nella tua zona.","“某人”似乎已將高密度的數碼波，
+4,3002,,Cosa sta succedendo qui?! Cosa diavolo sta succedendo qui?,這到底是怎麼回事？到底發生了什麼事……,,어떻게 된 거예요!? 이건 대체…,Was ist hier los?! Was zum Teufel geschieht hier?
+5,3006,,Qualcuno ha inviato un'onda digitale molto densa alla vostra posizione.,"“某人”似乎已將高密度的數碼波，
 流入這個區域裡。",,"…""누군가""에 의해, 그 에어리어에
 고밀도의 디지털 웨이브가 흘려 넣어지고 있는 모양이다","Jemand hat eine sehr dichte digitale Welle an
 euren Standort geschickt."
-6,3005,,"Qualcuno? Dev'essere Kishibe.
-Cosa possiamo EFFETTIVAMENTE fare al riguardo?","什麼“某人”……除了岸部還能有誰……
+6,3005,,"Qualcuno? Dev'essere per forza Kishibe.
+Ma cosa FACCIAMO a riguardo?","什麼“某人”……除了岸部還能有誰……
 那現在這個狀況，到底該怎麼辦才好？",,"누군가라니… 키시베인 게 뻔하잖아…
 그래서, 어쩌면 좋은 거야, 이 상황?","Jemand? Das kann nur Kishibe sein.
 Aber was TUN wir dagegen?"
-7,3006,,"La risposta è relativamente semplice.
-Gli Eater sono attratti dalle Onde Digitali.","解決辦法非常簡單，
+7,3006,,"È evidente.
+Onde digitali attirano i Divoratori.","解決辦法非常簡單，
 侵食者受數碼波所吸引……",,"타개책은 매우 심플하다
 이터들은 디지털 웨이브에 유인되고 있어…","Das liegt auf der Hand.
 Digitale Wellen locken Verschlinger an."
-8,3006,,"Stando così le cose, devi fermare
-l'Onda Digitale alla sua fonte.",那只要封住引導數碼波的“流入口”就行了。,,"그렇다면, 디지털 웨이브를 흘려 넣고 있는
+8,3006,,Di conseguenza dovete arginare l'onda digitale alla sua origine.,那只要封住引導數碼波的“流入口”就行了。,,"그렇다면, 디지털 웨이브를 흘려 넣고 있는
 ""유입구""를 막으면 돼","Demzufolge müsst ihr die digitale Welle an ihrem
 Ursprung eindämmen."
-9,3006,,"Fai così, e nessun altro Eater dovrebbe comparire.",這麼一來，侵食者應該就不會再出現了。,,"그러면, 이터가 이 이상 나타나는 일은 없겠지","Wenn ihr das tut, erscheinen keine weiteren
+9,3006,,"Se lo fate, non appariranno altri Divoratori.",這麼一來，侵食者應該就不會再出現了。,,"그러면, 이터가 이 이상 나타나는 일은 없겠지","Wenn ihr das tut, erscheinen keine weiteren
 Verschlinger."
-10,3005,,"La fai sembrare così facile.
-Basta tappare la fonte. Come facciamo a riuscirci?!","說得這麼簡單……
+10,3005,,"Per te suona così semplice. Basta collegarlo.
+E come facciamo, poi?!","說得這麼簡單……
 封住流入口……可是現在這種狀況！",,"간단하게 말해 주는구만…
 유입구를 막는다고 해도… 이 상황이라고!?","Bei dir klingt das so simpel. Einfach zustöpseln.
 Wie machen wir das denn?!"
-11,3002,,"Non capisco cosa sta succedendo, ma non mi lascerò
-inghiottire dal nulla!","我根本搞不清楚現在的狀況！
+11,3002,,"Non capisco cosa stia succedendo, ma non mi farò assolutamente mangiare!","我根本搞不清楚現在的狀況！
 完全無法理解耶！！",,"나 애초에 이 상황이 잘 이해되지 않는데요
 전혀 이해하지 못했는데요!!","Ich verstehe zwar nicht, was los ist, aber ich
 lasse mich auf keinen Fall auffressen!"
-12,3002,,"Che succede?! Aiuto!
-Ahi! Ahi! Ahiiii!","到底是怎麼樣嘛！？救救我們啊！
+12,3002,,"Cosa sta succedendo qui?! Aiuto!
+Oh! Aah! Aaaah!","到底是怎麼樣嘛！？救救我們啊！
 呀－呀－呀－！！",,"어떻게 된 거야!? 살려줘!
 꺄아― 꺄아― 꺄아―!!","Was geht hier vor?! Hilfe!
 Huch! Aah! Aaaah!"
-13,3005,,"Argh! State zitti!
-Spiegherò dopo, quindi state zitti!","啊啊！吵死了！
+13,3005,,"Argh! Stai zitto!
+Te lo spiego dopo, quindi stai solo calmo!","啊啊！吵死了！
 詳細情形之後再說，現在先給我閉嘴！",,"아아! 꺄아꺄아 시끄럽구만!
 사정은 나중에 설명해 줄 테니까, 좀 조용히 해!","Argh! Halt die Klappe!
 Ich erklär es dir später, also sei einfach ruhig!"
-14,3006,,"Heehee... Non importa in che condizioni sei,
-ti m--vi sempre alla st----a andatura.","呵呵，你們——在這種情況下，
+14,3006,,"Hihi... Non importa quali siano le... circostanze, voi
+rima...nete... sem...pre... uguali.","呵呵，你們——在這種情況下，
 還是——一如——常。",,"…후후후, 너희…― 은 그런 상황에 처해도
 평― 와 변함… 는 페이스인―― 이군","Hihi ... Egal, was di ... Umstände sind, ihr
 blei ... doch imm ... gleich."
-15,3006,,"Sono un po' sollevato...
-Tu dovresti--essere in grado di--uscire da qu--esta brutta situazione.","我稍微放心了……
+15,3006,,"Meno male...
+Voi dov... ... blocco... ...ire potere.","我稍微放心了……
 你——一定可以超越——危機的。",,"조금 안심했다…
 너…… 라면 그 위기― 헤쳐 나올―― 있겠지","Ein Glück ...
 Ihr soll ... ... Klemme ...ieren können."
-16,3006,,"Avrò una pentola della mia speciale beva--- ad aspettarti.
-Assicurati di tornare in ma--- sicurezza.","我會——特製咖——等你——
+16,3006,,Sto finendo di preparare una brocca della mia... miscela speciale. Che torni sano e salvo...,"我會——特製咖——等你——
 你們——定要平安——來。",,"특제 블― 드를 준비… 기다리고― 겠다
 …반드시, 무사히 돌― 오렴","Ich mache eine Kanne von mei ... Spezialmischung
 fertig. Kommt heil ...der zurück."
-17,3005,,"La sua miscela speciale? È questo quello che ha detto?
-Sono così felice che potrei piangere.","她說特製咖啡嗎？
+17,3005,,"La sua miscela speciale? Ho sentito bene?
+Mi vengono già le lacrime di gioia.","她說特製咖啡嗎？
 哼，我開心到都快流淚了！",,"특제 블렌드… 라고 했나…?
 …핫, 기뻐서 눈물이 나올 것 같구만","Ihre Spezialmischung? Habe ich das richtig gehört?
 Mir kommen schon die Freudentränen."
-18,3012,,"La fonte dell'Onda Digitale?
-Credo sia quella.","數碼波的流入口，
+18,3012,,"L'origine dell'onda digitale?
+Credo che sia lui.","數碼波的流入口，
 好像是那個……",,"…디지털 웨이브의 유입구
 ……저거인 것 같군요","Der Ursprung der digitalen Welle?
 Ich glaub, das da ist er."
-19,3002,,"Per il momento, facciamo una tregua temporanea!
-Dobbiamo tappare quel buco!","總之現在先停戰，
+19,3002,,"Per ora, una tregua tra noi!
+Dobbiamo tappare questo buco!","總之現在先停戰，
 快點塞住那個洞吧！",,"일단 지금은 일시 휴전이야!
 저 구멍, 후딱 막아 버리자!","Erst mal Waffenruhe zwischen uns!
 Wir müssen dieses Loch stopfen!"
 20,3001,,"Signorina Rie... Perché?
-Perché farebbe una cosa del genere?","里繪姊……為什麼？
+Perché lo fa?","里繪姊……為什麼？
 為什麼要做這種事？",,"…리에 씨… 어째서?
 어째서 이런 짓을…?","Fräulein Rie ... Warum?
 Warum tun Sie das?"
-21,3002,,Non è il momento di preoccuparsi di questo!,現在不是在意那種事的時候了吧？,,지금은 그런 걸 신경 쓸 때가 아니잖아!,Dafür ist jetzt nicht der richtige Zeitpunkt!
-22,1088,,"Esatto. Se gli Eater continuano a diffondersi,
-saremo in pericolo anche noi.","沒錯……
+21,3002,,Adesso non è il momento giusto per questo!,現在不是在意那種事的時候了吧？,,지금은 그런 걸 신경 쓸 때가 아니잖아!,Dafür ist jetzt nicht der richtige Zeitpunkt!
+22,1088,,"Esatto. Se gli Sbranatori continueranno a diffondersi, saremo anche noi in pericolo.","沒錯……
 侵食者如果再繼續增加，連我們都會有危險！",,"맞아…
 이대로 이터가 계속 늘어나면, 우리들도 위험해","Stimmt. Wenn die Verschlinger sich weiter
 ausbreiten, sind wir auch in Gefahr."
-23,3002,,GaruruGreymon! Qualche idea?,加魯魯暴龍獸！你有什麼好方法嗎！？,,가루그레이몬! …뭔가 방법은 없어!?,GaruruGreymon! Hast du einen Plan?
-24,1088,,Garuru...Grey...mon?,加魯魯……暴龍獸？,,가루…그레이…몬?,Garuru ... Grey ... mon?
-25,3002,,"Da quando MetalGarurumon e WarGreymon si sono fusi, il tuo
-nome dovrebbe essere GaruruGreymon! O preferisci
-GreyGarurumon?","鋼鐵加魯魯獸和戰鬥暴龍獸的合體，
+23,3002,,GaruruGreymon! Hai un piano?,加魯魯暴龍獸！你有什麼好方法嗎！？,,가루그레이몬! …뭔가 방법은 없어!?,GaruruGreymon! Hast du einen Plan?
+24,1088,,Garuru... Grey... mon?,加魯魯……暴龍獸？,,가루…그레이…몬?,Garuru ... Grey ... mon?
+25,3002,,"Dato che MetalGarurumon e WarGreymon si sono fusi, dovresti chiamarti GaruruGreymon! O preferisci GreyGarurumon?","鋼鐵加魯魯獸和戰鬥暴龍獸的合體，
 就是加魯魯暴龍獸吧！
 還是戰鬥加魯魯獸比較好！？",,"메탈가루몬과 워그레이몬이
 합체한 거니까 가루그레이몬이잖아!
 아니면 그레이가루몬이야!?","Da MetalGarurumon und WarGreymon verschmolzen
 sind, solltest du GaruruGreymon heißen!
 Oder ist dir GreyGarurumon lieber?"
-26,1088,,Io sono Omnimon. Puoi chiamarmi così.,我是奧米加獸……請這樣稱呼我。,,난 오메가몬… 그렇게 불러 줘,Ich bin Omnimon. So kannst du mich nennen.
-27,3005,,"Argh! A chi importa come ti chiami adesso?!
-Hai qualche idea oppure no?","啊啊！稱呼現在一點都不重要！
+26,1088,,Sono Omnimon. Così puoi chiamarmi.,我是奧米加獸……請這樣稱呼我。,,난 오메가몬… 그렇게 불러 줘,Ich bin Omnimon. So kannst du mich nennen.
+27,3005,,"Argh! A chi interessa ora il tuo nome?!
+Hai un piano o no?","啊啊！稱呼現在一點都不重要！
 喂！你有什麼方法嗎？",,"아악―! 호칭이야말로, 지금 아무래도 좋잖아!?
 야, 뭔가 좋은 수는 없어?","Argh! Wen interessiert jetzt dein Name?!
 Hast du einen Plan oder nicht?"
-28,1088,,"Gli Eater vengono manipolati da un'Onda Digitale ad alta
-densità.",侵食者是被高密度的數碼波所操縱。,,"이터들은, 고밀도의 디지털 웨이브에 의해
+28,1088,,I Divoratori vengono manipolati da un'onda digitale ad alta densità.,侵食者是被高密度的數碼波所操縱。,,"이터들은, 고밀도의 디지털 웨이브에 의해
 조종되고 있어","Die Verschlinger werden von einer digitalen Welle
 hoher Dichte manipuliert."
-29,1088,,"Oltre alla fonte, ci sono punti di connessione
-che alimentano l'Onda Digitale. Dovremo
-disattivarli anche quelli.","除了流入口之外，
+29,1088,,"Oltre all'origine, ci sono anche punti di connessione che mantengono l'onda. Dobbiamo spegnere anche quelli.","除了流入口之外，
 應該還有其他數碼波流入的“連結點”才對……
 如果不同時封住連接點，那就沒意義了。",,"유입구 외에, 디지털 웨이브를 흘려 넣고 있는
 ""접속 포인트""가 있을 거야…
 그것도 막지 않으면 의미가 없어","Zusätzlich zum Ursprung gibt es auch
 Verbindungspunkte, die die Welle aufrechterhalten.
 Die müssen wir ebenfalls ausschalten."
-30,3002,,Oh! Guarda lì! Lassù!,啊！看那邊！上面！,,아! 저기 좀 봐봐! 위에!,Oh! Schaut mal! Da oben!
-31,1088,,"Molto bene, andrò a tappare le aperture!
-Voi due! Tenete d'occhio Nokia per me!","好，我去封住那裡！
+30,3002,,Oh! Guardate! Lassù!,啊！看那邊！上面！,,아! 저기 좀 봐봐! 위에!,Oh! Schaut mal! Da oben!
+31,1088,,"Bene, sigillerò le aperture.
+Voi due! Prendetevi cura di Nokia per me!","好，我去封住那裡！
 兩位！這段時間諾奇雅就拜託你們了！",,"좋아, 내가 막고 오겠어!
 너희 둘! 그때까지 노키아를 부탁해!","Nun gut, ich werde die Öffnungen verschließen.
 Ihr zwei! Passt für mich auf Nokia auf!"
-32,1088,,Proteggetela dagli Eater finché non ritorno!,請保護她不被侵食者攻擊！,,이터에게서 지켜 줘!,"Beschützt sie vor den Verschlingern, bis ich
+32,1088,,Proteggeteli dai Divoratori finché non torno!,請保護她不被侵食者攻擊！,,이터에게서 지켜 줘!,"Beschützt sie vor den Verschlingern, bis ich
 zurückkomme!"
-33,3005,,Ngh. Immagino che non abbiamo scelta!,嘖！真拿你沒辦法！,,"칫, 어쩔 수 없구만…!",Hmpf. Wir haben wohl keine andere Wahl!
-34,3002,,Sono qui!,來、來了！,,"와, 왔어!",Sie sind hier!
-35,3005,,Andiamo!,要上囉！,,……간다!,Los!
+33,3005,,Hmpf. A quanto pare non abbiamo altra scelta!,嘖！真拿你沒辦法！,,"칫, 어쩔 수 없구만…!",Hmpf. Wir haben wohl keine andere Wahl!
+34,3002,,Lei è qui!,來、來了！,,"와, 왔어!",Sie sind hier!
+35,3005,,Forza!,要上囉！,,……간다!,Los!

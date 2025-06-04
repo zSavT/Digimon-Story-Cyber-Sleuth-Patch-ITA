@@ -1,478 +1,293 @@
 ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
 1,3003,,"Ah! [p]!
-Bentornato a casa.","啊，[p]……！
+Benvenuto a casa.","啊，[p]……！
 你回來了……",,"앗, [p] 씨…!
 어서 오세요…","Ach! [p]!
 Willkommen zu Hause."
-2,3003,,"Grazie al cielo! Oh, sono così felice che tu stia bene.
-Non sei ferito? Stai bene?
-Dove eri, e cosa stavi facendo?!","太好了……真的是太好了……
+2,3003,,"Grazie al cielo! Sono così felice che tu stia
+bene! Non ti fa male niente, vero?
+Dove sei stato, e cosa hai combinato?!","太好了……真的是太好了……
 沒有受傷吧？身體有沒有異常？
 你到底去哪裡做了些什麼？",,"다행이에요… 정말, 다행이에요…
 다치신 곳은 없으신가요? 몸에 이상은?
 대체, 어디서 뭘 하고 계셨던 거예요?","Dem Himmel sei Dank! Ich bin so froh, dass es dir
 gut geht! Tut dir auch ganz sicher nichts weh?
 Wo warst du bloß, und was hast du getrieben?!"
-3,3005,,"Come ho detto, fate le domande una alla volta!",所以說，不要一次問那麼多問題啦！,,"그러니까, 한꺼번에 질문하지 말라고!","Ich habe doch gesagt, eine Frage nach der anderen!"
-4,3002,,"È inutile, Arata...",那是辦不到的呀，新大爺～,,"그건 어려운 요구입니다요, 아라타 나리~","Lass gut sein, Arata ..."
+3,3005,,Ti ho detto di fare una domanda alla volta!,所以說，不要一次問那麼多問題啦！,,"그러니까, 한꺼번에 질문하지 말라고!","Ich habe doch gesagt, eine Frage nach der anderen!"
+4,3002,,"Lascia stare, Arata...",那是辦不到的呀，新大爺～,,"그건 어려운 요구입니다요, 아라타 나리~","Lass gut sein, Arata ..."
 5,3002,,"Avresti dovuto vedere Yuuko quando
-[p] è sparito!
-Era così, così, così, così preoccupata!","因為小悠子她呀，在這孩子消失後～
+[p] è scomparso!
+Si è preoccupata così tanto!","因為小悠子她呀，在這孩子消失後～
 超♪超☆超★擔心的啊～！",,"유콧치가 글쎄, 얘가 사라지고서~
 초ㅋ초♪초☆초♡ 걱정했다니깐~!","Du hättest Yuuko sehen sollen, als
 [p] verschwunden ist!
 Sie hat sich solche Sorgen gemacht!"
-6,3003,,N-Non fraintendere!,請、請不要誤會……！,,"오, 오해하지 말아 주세요…!",V-Versteh mich nicht falsch!
-7,3003,,"Sei sparito prima che potessi dirti un grazie come si deve!
-E ho dormito male tutta la settimana, tutto qui.","我只是因為還沒好好道謝，你就失蹤，
+6,3003,,N-Non fraintendermi!,請、請不要誤會……！,,"오, 오해하지 말아 주세요…!",V-Versteh mich nicht falsch!
+7,3003,,"Sei sparito prima che potessi ringraziarti come si deve! Inoltre, ho dormito male tutta la settimana. Niente di più.","我只是因為還沒好好道謝，你就失蹤，
 所以這一個禮拜都睡不好。",,"감사도 제대로 못 드린 채 행방불명이 되신 탓에
 이 일주일간, 기분이 개운하지 않았던 것 뿐이에요","Du bist verschwunden, bevor ich mich ordentlich
 bedanken konnte! Außerdem habe ich die ganze
 Woche schlecht geschlafen. Mehr nicht."
-8,3003,,"Se hai intenzione di sparire, lasciami dire grazie
-prima, così possiamo concludere le cose per bene.",…如果要失蹤的話，請等我好好地道謝後再失蹤。,,"…행방불명이 될 거면, 제대로 제가 감사를 드리고
+8,3003,,"Se devi già sparire, allora lasciami
+prima ringraziarti.",…如果要失蹤的話，請等我好好地道謝後再失蹤。,,"…행방불명이 될 거면, 제대로 제가 감사를 드리고
 다 마무리한 다음에 해 주세요","Wenn du schon verschwinden musst, dann lass mich
 erst danke sagen."
-9,3005,,"Non credi che questo atteggiamento da ""difficile da conquistare"" sia un po'... al di sotto della tua levatura?",妳……這傲嬌的等級也太高了吧……,,"댁… 그 새침함, 레벨이 너무 높잖아…","Hast du diese gewollt coole Fassade wirklich
+9,3005,,Hai davvero bisogno di questa facciata forzatamente cool?,妳……這傲嬌的等級也太高了吧……,,"댁… 그 새침함, 레벨이 너무 높잖아…","Hast du diese gewollt coole Fassade wirklich
 nötig?"
-10,3003,,"Ad ogni modo, grazie mille per quello che hai fatto.",總、總而言之……那時謝謝你了。,,"어, 어쨌든… 그때는, 감사했습니다",Vielen lieben Dank für alles.
-11,3005,,"Non eravamo gli unici a essere preoccupati.
-Kyoko ti ha cercato tutto il tempo.",擔心的不只是我們喔，杏子姊也一直在找你。,,"걱정했던 건, 우리들만이 아니라고
+10,3003,,Grazie mille per tutto.,總、總而言之……那時謝謝你了。,,"어, 어쨌든… 그때는, 감사했습니다",Vielen lieben Dank für alles.
+11,3005,,"Non solo noi eravamo preoccupati.
+Kyoko ti ha cercato per tutto il tempo.",擔心的不只是我們喔，杏子姊也一直在找你。,,"걱정했던 건, 우리들만이 아니라고
 쿄코 씨도, 계속 널 찾고 있었어","Nicht nur wir haben uns Sorgen gemacht.
 Kyoko hat dich die ganze Zeit gesucht."
-12,3005,,Ma è sparita dai radar un po' di tempo fa.,只是，從稍早就一直聯絡不上她。,,"…다만, 얼마 전부터 연락이 안 돼",Aber sie ist vor einer Weile untergetaucht.
+12,3005,,Ma si è nascosta un po' di tempo fa.,只是，從稍早就一直聯絡不上她。,,"…다만, 얼마 전부터 연락이 안 돼",Aber sie ist vor einer Weile untergetaucht.
 13,2000,,?,！？,,!?,?
-14,3002,,"Vorresti dire a Kyoko che sei al sicuro e di ritorno
-con noi? Dovresti riuscire a contattarla con il tuo
-Digivice.","要不要先告訴杏子姊你已經平安回來了？
+14,3002,,Potresti dire a Kyoko che stai bene e sei di nuovo con noi? Con il tuo Digivice puoi sicuramente raggiungerla.,"要不要先告訴杏子姊你已經平安回來了？
 用你的Digivice，或許能連絡上她喔？",,"무사히 돌아온 거, 쿄코 씨에게 알리는 게 어때?
 네 디지바이스로 연락하면, 받으실지도 모르잖아?","Könntest du Kyoko sagen, dass du wohlauf und
 wieder bei uns bist? Mit deinem Digivice kannst du
 sie bestimmt erreichen."
-15,3005,,Anche tu non stai avendo fortuna con il tuo?,連你的Digivice也不行嗎……,,댁의 디지바이스로도 안 되나…,Du kommst auch nicht durch?
-16,3002,,"Kyoko, dove sei andata a finire?",杏子姊……到底去哪裡了……？,,쿄코 씨… 어디 가신 걸까…,Wo ist Kyoko bloß hin ...?
-17,4099,,"Il governo si sta affrettando a rispondere allo
-strano fenomeno che sta ancora avvolgendo
-l'area metropolitana di Tokyo.","席捲全關東的怪異現象，還沒有好轉的跡象，
+15,3005,,Anche tu non riesci a passare?,連你的Digivice也不行嗎……,,댁의 디지바이스로도 안 되나…,Du kommst auch nicht durch?
+16,3002,,Dove sarà finita Kyoko...?,杏子姊……到底去哪裡了……？,,쿄코 씨… 어디 가신 걸까…,Wo ist Kyoko bloß hin ...?
+17,4099,,Le autorità stanno ancora lavorando alacremente per reagire al misterioso fenomeno nell'area metropolitana di Tokyo.,"席捲全關東的怪異現象，還沒有好轉的跡象，
 正迫切需要政府的應變。",,"관동 전역에서 발생하고 있는 괴현상은, 아직 해결될 기미가 보이지 않고
 정부의 대응이 시급한 상황입니다","Die Behörden arbeiten immer noch mit Hochdruck
 daran, auf das rätselhafte Phänomen im Großraum
 Tokio zu reagieren."
-18,4099,,"Abbiamo chiesto a degli specialisti riguardo questo strano
-fenomeno, che fa sembrare come se le vittime si fossero
-perse in una specie di mondo virtuale, e--",針對彷彿誤入虛擬現實世界般的怪異現象，專家表示――,,"마치 가상현실 세계에 빠져든 듯한
-기괴한 현상에 대해, 전문가는…―","Wir haben Spezialisten zu diesem Phänomen
-befragt, dessen Opfer scheinbar in einer Art
-virtuellen Welt gefangen sind und ..."
-19,3005,,"Hai guardato fuori? Il mondo reale è
-cambiato da allora.",看到外面了吧？從那之後，世界就完全變了一個樣……,,"바깥 봤지? 그 이후, 세계가 변해 버렸어…","Schon mal aus dem Fenster geschaut?
-Die echte Welt verändert sich seither."
-20,3005,,"Non si parla d'altro al telegiornale.
-""Esperti"" che non sanno niente avanzano teoria dopo teoria.","就連電視也老在報導這則新聞，
-什麼都不知道的“自稱專家”天天高談闊論……",,"텔레비전도 이 뉴스만 해대고 있어
-아무것도 모르는 ""자칭 전문가"" 씨가 매일 고견을 내뱉고 계시지…","Mehr bringen sie im Fernsehen nicht zustande.
-Nichtsnutzige „Experten“ mit einer Theorie nach
-der anderen."
-21,3003,,"Una grande Alterazione Digitale si sta verificando da quando la
-Porta Dimensionale si è aperta, e non mostra segni
-di risolversi presto.","因為次元之門開啟，發生了大規模的Digital Shift，
-至今沒有結束的跡象。",,"차원의 문이 열린 영향으로 대규모 디지털 시프트가 일어나고 있어요
-…원래대로 돌아갈 기미는 보이지 않아요","Seit das Dimensionstor geöffnet wurde, findet
-eine massive digitale Verschiebung statt.
-Es gibt keine Anzeichen eines Rückgangs."
-22,3003,,E i Digimon vagano liberi per Tokyo.,數碼寶貝們也在現實的東京自由地闊步橫行……,,"디지몬들도, 현실의 도쿄를 자유롭게 활보하고 있어요…",Und in Tokio spazieren Digimon frei herum.
-23,3005,,"Non sono preoccupato per i Digimon. Sono gli Eater
-che stanno attaccando le persone indiscriminatamente.","數碼寶貝實體化還好……不妙的是侵食者。
-因為那些傢伙會不分青紅皂白的攻擊人啊。",,"디지몬이 현실화하는 건 아직 괜찮아… 위험한 건 이터다
-녀석들은 마구잡이로 사람을 덮치니까 말이야","Die Digimon sind nicht das Problem.
-Sondern die Verschlinger, die wahllos auf Leute
-losgehen."
-24,3005,,Argh! Se solo potessi averli fermati più velocemente!,可惡！如果我能更早些阻止的話……！,,…젠장! 내가 좀 더 빨리 멈췄다면…!,"Ach! Wenn ich sie doch nur früher aufgehalten
-hätte!"
-25,3002,,"L'abbiamo già detto che non ci andiamo, Arata!",真是的，新，不是已經說好別再提了嘛！,,"정말~… 아라타, 그건 말하지 않기로 정했잖아~!","Arata, wir haben doch schon gesagt, dass wir das
-sein lassen!"
-26,3005,,"Come fai a essere così indifferente?
-Gli Eater stanno attaccando le persone proprio mentre parliamo!","現在還有時間說那些嗎……！？
-在這一刻，也有人正被侵食者襲擊喔？",,"그런 느긋한 소릴 할 수 있겠냐…!?
-지금 이 순간에도, 누군가가 이터에게 습격당하고 있다고!?","Wie kannst du das so locker nehmen?
-Menschen werden in diesem Augenblick von
-Verschlingern angegriffen!"
-27,3002,,"Può anche essere vero, ma...",嗚呃……話是沒錯啦～,,으으… 그건 그렇지만~,"Das mag stimmen, aber ..."
-28,3002,,"E poi c'è Kishibe... Crusadermon, giusto?
-Ancora totalmente a piede libero!","話、話說回來，岸部……是叫劍皇獸來著嗎？
-還沒有找到？",,"…그, 그러고 보니, 키시베… 로드나이트몬, 이었나?
-아직 발견하지 못한 느낌?","Und Kishibe ... Crusadermon, nicht wahr?
-Die spukt auch noch herum!"
-29,3003,,"Esatto. Non abbiamo ancora trovato
-la sua traccia.",是的……還沒能掌握到她的行蹤。,,"네… 아직, 행방을 찾지 못했어요","Das stimmt. Ihre Spur haben wir immer noch nicht
-gefunden."
-30,3003,,"Degli hacker hanno rapito Rie Kishibe, la CEO di
-Kamishiro. O almeno questo è ciò che gli idioti nei
-media stanno speculando.","神代的CEO――岸部里繪被駭客拘束，
-媒體不清楚事實，發布揣測性的報導。",,"카미시로의 CEO, 키시베 리에는 해커에게 구속되었다―
-사실을 모르는 매스컴은, 그런 억측을 보도하고 있지만요","Rie Kishibe, Geschäftsführerin von Kamishiro,
-wurde von Hackern entführt. Behaupten die Idioten
-in den Medien zumindest."
-31,3002,,"Non importa di cosa si tratti. Gli hacker sono responsabili
-di tutte le cose brutte che stanno succedendo.
-Tutti sono felici di dipingerli come i cattivi.","什麼都怪到駭客頭上……
-好像把駭客當作壞人準沒錯？",,"뭐든지 다 해커 탓으로 되고 있네…
-해커를 나쁜 녀석으로 해 두면 올 오케이… 같은?","Ist ja egal, was. Hacker sind für alles Schlechte
-verantwortlich, was gerade passiert. Die nimmt
-jeder gern als Bösewichte."
-32,3005,,"Non è una grande sorpresa. Solitamente gli hacker NON fanno niente di buono
-nelle loro attività quotidiane. Ma questa volta
-il vero danno è arrivato quando gli hacker hanno fallito.","這也沒辦法……駭客平常行為不檢也是事實
-實際上也因為“駭客”失敗而釀成災害。",,"무리는 아니지… 평소의 행실이 나쁜 건 사실이고
-실제로 ""해커""가 실패한 탓에, 피해가 생겼잖아","Das ist kaum überraschend. Meistens führen Hacker
-ja auch nichts Gutes im Schilde. Aber dieses Mal
-ist was passiert, als sie gescheitert sind."
-33,3002,,Credevo avessimo detto...,所～以～說，那是……！,,"그~러~니~까, 그건…!","Ich dachte, wir hätten uns geeinigt ..."
-34,3005,,"Ma la tua scomparsa? Cosa è successo?
-Raccontacelo.","比起這個，在你失蹤的期間，到底發生了什麼事？
-說來聽聽吧。",,"…그보다 댁이 행방불명된 동안, 대체 무슨 일이 있었던 거야?
-들려 줘","Aber weshalb bist du denn nun verschwunden?
-Was ist passiert? Erzähl es uns."
-35,3005,,"Non sai spiegarlo?
-Di sicuro non è stato solo un sogno o qualcosa del genere.","都是些難以評論的事情啊，
-看來這一切似乎也不全是幻想。",,"…뭐라 할 수 없는 얘기구만
-전부가 다, 환상이 것 같지는 않은데","Du kannst es nicht erklären?
-Du hast doch nicht etwa nur geträumt oder so."
-36,3003,,... Hai... Hai davvero incontrato mio fratello?,你、你真的……見到了哥哥嗎？,,"저, 정말로… 오빠와 만나신 건가요?",Du ... hast wirklich meinen Bruder gesehen?
-37,3003,,"Giace all'Ospedale Centrale, incosciente e in coma dopo aver ceduto alla Sindrome di EDEN.","哥哥在得到EDEN症候群後，
-一直沉睡在中央醫院裡，昏迷不醒。",,"오빠는, EDEN 증후군에 걸려서 센트럴 병원에서
-줄곧 의식불명인 채로 잠들어 있어요","Der liegt im Zentralkrankenhaus im Koma, wegen des
-EDEN-Syndroms."
-38,3003,,E pensare che tu gli hai parlato...,居然可以和哥哥說上話……,,"그 오빠와, 대화를 나눴다니…",Und du hast mit ihm geredet ...
-39,3002,,Era come se fosse un avatar proveniente da EDEN?,類似EDEN的化身……是吧？,,"EDEN의 아바타… 같은 것, 이었던 거지?",War es wie ein Avatar aus EDEN?
-40,3003,,"Ti ha ringraziato per avermi aiutato?
-Mio fratello ha detto questo?","「謝謝你救了我妹妹」……？
-哥哥他，是那樣說的嗎？",,"절 구해 줘서 고맙다, 고…?
-그렇게, 오빠가 말한 건가요?","Er hat dir dafür gedankt, dass du mir geholfen
-hast? Mein Bruder?"
-41,3003,,Mio... fratello...,哥哥……,,오… 빠…,Mein ... Bruder ...
-42,3003,,"Voglio salvarlo!
-Troverò una cura per la Sindrome di EDEN.","我想要救哥哥……！
-我要找出EDEN症候群的治療方法。",,"저, 오빠를 구하고 싶어요…!
-EDEN 증후군의 치료법을 찾아내겠어요","Ich will ihn retten! Ich werde ein Heilmittel für
-das EDEN-Syndrom finden."
-43,3003,,"Salverà le innumerevoli persone che soffrono di
-Sindrome di EDEN e salverà l'EDEN che mio padre ha costruito.","且進而拯救許多EDEN症候群的患者，
-還能拯救爸爸所創造的EDEN……！",,"더 나아가서는 그게, 수많은 EDEN 증후군 환자를 구하고
-아버지가 만드신 EDEN을 구하는 것으로 이어질 테니까요…!","Damit würde ich unzählige Leute retten, die am
-Syndrom leiden, und das EDEN meines Vaters."
-44,3003,,"A tal fine, devo trovare quella persona e concludere
-le cose una volta per tutte. Troviamo Rie Kishibe...
-intendo Crusadermon!","為此……我要再見一次那個人，並做個了結。
-岸部里繪……不，劍皇獸！",,"그러기 위해서도… 전, 다시 한 번 그 사람과 만나서 결착을 짓겠어요
-키시베 리에… 아뇨, 로드나이트몬과!","Dazu muss ich aber jemand Bestimmtes finden und
-die Sache ein für alle Mal beenden. Suchen wir Rie
-Kishibe ... beziehungsweise Crusadermon!"
-45,3003,,"Deve essere coinvolta nella morte di mio padre, e scommetto che sa anche di più sugli Eater.","那個人一定和爸爸的死有關係，
-而且應該也很了解侵食者。",,"…그 사람은, 아버지의 죽음에 분명 연관되어 있어요
-그리고, 이터에 대해서도 자세히 알고 있을 거예요","Sie muss am Tod meines Vaters beteiligt gewesen
-sein. Und über die Verschlinger weiß sie bestimmt
-auch mehr."
-46,3005,,Non posso perdonare Kishibe. Ha usato l'esistenza degli hacker per il suo tornaconto personale.,"我也不會原諒岸部……
-那傢伙隨自己的慾望利用了駭客的存在。",,"나도 키시베는 용서할 수 없어… 그 녀석은 해커의 존재를
-자기 형편 좋을 대로 이용했어","Ich kann Kishibe nie verzeihen. Sie hat Hacker für
-ihre Zwecke ausgenutzt."
-47,3005,,"I Royal Knights sono Digimon di alto livello, giusto? Devo
-trovare un modo per respingerli, e anche gli Eaters.","所謂皇家騎士，是級別非常高的數碼寶貝吧？
-得找出對抗強大的數碼寶貝或侵食者的方法啊。",,"로얄 나이츠라는 건, 꽤 상위의 디지몬이잖아?
-…강력한 디지몬이나 이터에게 대항할 수단을 찾아야겠구만","Royal Knights sind starke Digimon, oder?
-Wir müssen ein Mittel gegen sie finden, und gegen
-die Verschlinger auch."
-48,3002,,Sono preoccupato per i Digimon...,我很擔心數碼寶貝們……,,"난, 디지몬들이 신경 쓰여…",Ich mache mir Sorgen um die Digimon ...
-49,3002,,"Probabilmente sono in panico a causa di tutti gli improvvisi
-cambiamenti. Non sanno cosa sta succedendo e
-potrebbero reagire violentemente per paura.","事情忽然變成這樣，似乎也有許多孩子因此驚慌失措……
-搞不清楚狀況，有時害怕，有時胡鬧……",,"갑자기 이런 일이 되어서, 패닉 상태에 빠진 애들도 잔뜩
-있는 모양이야… 상황을 몰라서, 떨면서 난동을 부리거나…","Sie sind wegen der plötzlichen Veränderungen
-vermutlich in Panik. Sie verstehen nicht, was
-los ist, und greifen aus Angst vielleicht an."
-50,3002,,"Lasciando le cose come stanno, una vera e propria guerra potrebbe scoppiare tra umani e Digimon.","如果就這樣放著不管，
-恐怕人類和數碼寶貝真的會打起來……",,"이대로 내버려 뒀다간, 인간과 디지몬이
-정말로 전쟁을 시작할지도 모른다고…","Unter diesen Umständen könnte ein Krieg
-zwischen Menschen und Digimon ausbrechen."
-51,3002,,"Omnimon dice di voler mettere fine a tutto questo!
-E così i Ribelli aiuteranno Omnimon!","奧米加獸說它想要阻止這樣的事發生！
-我們反叛者要幫助奧米加獸！",,"오메가몬은, 그걸 막고 싶다고 했어!
-우리들 리벨리온즈는, 오메가몬을 도울 거야!","Omnimon sagt, das will er verhindern!
-Die Rebels werden Omnimon also helfen!"
-52,3002,,"In altre parole, è ora di eseguire la Strategia Digimon Super
-Amore al Massimo!","也就是，發動
-「LOVE LOVE 數碼寶貝☆羈絆大作戰MAX」吧！！",,"즉,「러브러브 디지몬♡인연 대작전 MAX」
-발동이DA―――!!","Das heißt, es ist Zeit für die Ultimative
-Megastrategie der Digimonliebe!"
-53,3005,,"Sembra che abbiamo deciso cosa vogliamo... no, cosa
-dobbiamo fare.","看來，已經決定好想做的事情……
-不，必須做的事情了呢！",,"…아무래도, 하고 싶은 일―
-아니, 해야만 하는 일이 정해진 것 같구만","Wir wissen also, was wir tun wollen ...
-Nein, tun müssen."
-54,2000,,Cosa dovrei fare?,我該怎麼辦……,,난 어떡할까…,Was soll ich tun?
 55,2000,,!,！！,,……읏!!,!
 56,3002,,Cos'era quello? [p]?,剛、剛剛的是什麼！？[p]！？,,"바, 방금 그건 뭐야!? [p]!?",Was war das denn? [p]?
-57,3005,,"Ehi, [p]...",喂，你……,,"야, 너……","He, [p] ..."
+57,3005,,"Ehi, [p] ...",喂，你……,,"야, 너……","He, [p] ..."
 58,3003,,Stai bene?,你、你沒事嗎？,,"괘, 괜찮으세요?",Geht es dir gut?
-59,3005,,"Ehi, il tuo corpo mezzo cyber...",“半電腦體”嗎？,,"…""반 전뇌체""인가","He, dein halb digitaler Körper ..."
-60,3005,,"Si sta verificando uno Shift Digitale su larga scala.
-Potrebbe avere effetto anche sul tuo corpo.","發生了這種規模的Digital Shift……
+59,3005,,"Ehi, il tuo corpo semi-digitale...",“半電腦體”嗎？,,"…""반 전뇌체""인가","He, dein halb digitaler Körper ..."
+60,3005,,"È in atto un massiccio slittamento digitale.
+Questo potrebbe forse influire anche su di te.","發生了這種規模的Digital Shift……
 恐怕也對你的身體造成了影響吧。",,"이 규모의 디지털 시프트가 일어났다고…
 댁의 몸에도, 영향이 끼친 걸지도 몰라","Es findet eine massive digitale Verschiebung statt.
 Die wirkt sich vielleicht auch auf dich aus."
 61,2000,,...,………,,………,...
-62,3002,,"Oh, Detective!",啊，刑警先生！？,,"앗, 형사 아저씨!?","Ach, Herr Kommissar!"
-63,3007,,Avrei dovuto immaginare che sareste stati tutti qui.,哦～你們果然聚集在這裡啊。,,"오, 역시 이곳에 모여 있었구나","Ich hätte mir denken sollen, dass ihr alle hier
+62,3002,,"Ah, Signor Commissario!",啊，刑警先生！？,,"앗, 형사 아저씨!?","Ach, Herr Kommissar!"
+63,3007,,"Avrei dovuto immaginarlo, che eravate tutti qui.",哦～你們果然聚集在這裡啊。,,"오, 역시 이곳에 모여 있었구나","Ich hätte mir denken sollen, dass ihr alle hier
 seid."
-64,3003,,Kyoko non è qui. Possiamo aiutarla con qualcosa?,杏子姊不在……怎麼了嗎？,,쿄코 씨는 자리를 비우셨는데요… 무슨 일이신가요?,Kyoko ist nicht da. Können wir dir helfen?
-65,3007,,"Beh, in realtà sono venuto per vedere...",不，我有事要找的是……,,"…아니, 볼일이 있는 건―",Eigentlich wollte ich gerne mit ...
-66,3005,,"Sono io, vero?",是……我吧？,,"…나, 지?","Mit mir sprechen, nicht wahr?"
-67,3007,,L'hai capito subito.,你竟然知道了……,,…용케 알았구나,Bist ein helles Köpfchen.
-68,3005,,"Sapevo che saresti venuto a cercarmi prima o poi.
-Riguarda quel caso di hacking, giusto?","我在想差不多是該來的時候了。
+64,3003,,Kyoko non c'è. Possiamo aiutarti?,杏子姊不在……怎麼了嗎？,,쿄코 씨는 자리를 비우셨는데요… 무슨 일이신가요?,Kyoko ist nicht da. Können wir dir helfen?
+65,3007,,"In realtà, mi sarebbe piaciuto con...",不，我有事要找的是……,,"…아니, 볼일이 있는 건―",Eigentlich wollte ich gerne mit ...
+66,3005,,"Vuoi parlare con me, vero?",是……我吧？,,"…나, 지?","Mit mir sprechen, nicht wahr?"
+67,3007,,Sei un tipo sveglio.,你竟然知道了……,,…용케 알았구나,Bist ein helles Köpfchen.
+68,3005,,"Me lo immaginavo che prima o poi saresti venuto a cercarmi. Si tratta del caso con gli hacker, vero?","我在想差不多是該來的時候了。
 是有關那件非法入侵的事情吧？",,"슬슬 올 때라고 생각하고 있었어
 …그 해킹 건에 대해서지?","Ich dachte mir schon, dass du früher oder später
 nach mir fragst. Geht um den Fall mit den
 Hackern, stimmt’s?"
-69,3007,,"Sì. Tra non molto, tu--Arata Sanada--sarai nella lista dei ricercati.","是啊……再過不久你――
+69,3007,,"Sì. Non ci vorrà molto, poi sarai ricercato, Arata Sanada.","是啊……再過不久你――
 真田新將會被通緝。",,"그래… 곧 너에게―
 사나다 아라타에게 지명수배가 내려지기로 되어 있다","Ja. Es wird nicht lange dauern, dann wird nach
 dir, Arata Sanada, gefahndet."
 70,2000,,?,！？,,!?,?
-71,3002,,Cosa? P-P-P-Perché dovrebbe succedere?!,欸！？為為為為什麼！？,,에!? 어어어어째서 그런 일이!?,Was? W-W-Warum das denn?
-72,3007,,"È arrivato un mandato durante il blackout, e poi c'è stata
-la scomparsa del CEO di Kamishiro...","因為前陣子的非法入侵讓整個東京停電，拘票已經發出。
+71,3002,,Cosa? P-P-Perché mai?,欸！？為為為為什麼！？,,에!? 어어어어째서 그런 일이!?,Was? W-W-Warum das denn?
+72,3007,,Il mandato d'arresto è stato emesso durante il blackout. Poi è scomparsa anche la signora di Kamishiro...,"因為前陣子的非法入侵讓整個東京停電，拘票已經發出。
 還有「神代CEO的失蹤」事件啊……",,"도쿄 전체를 정전시킨 얼마 전의 해킹으로 영장이 나왔어
 그리고「카미시로 CEO 실종」의 건으로도, 말이지…","Der Haftbefehl wurde während des Stromausfalls
 erlassen. Dann ist noch die Dame von Kamishiro
 verschwunden ..."
-73,3003,,"Aspetta! Certo, stava hackerando, ma aveva una giusta causa!
-E per quanto riguarda la scomparsa della signorina Rie...","請等一下！非法入侵的行為是事實……
+73,3003,,"Un momento! Certo, ha hackerato, però per una buona causa! E per quanto riguarda la signorina Rie...","請等一下！非法入侵的行為是事實……
 但那有正當的理由！里繪小姐的失蹤也是……",,"기다려 주세요…! 해킹 행위는 사실이지만…
 거기에는 정당한 이유가…! 리에 씨의 실종에 관해서도…―","Moment mal! Klar hat er Hacking betrieben, aber
 doch für einen guten Zweck! Und was Fräulein Rie
 angeht ..."
-74,3007,,"Lo so, ma i miei superiori vogliono che Arata venga portato qui per essere interrogato, come persona di interesse.","我知道……但上級打算傳喚真田新為重要證人，
+74,3007,,Lo so. Ma i miei superiori vogliono interrogare Arata come persona di particolare interesse.,"我知道……但上級打算傳喚真田新為重要證人，
 訊問他這些事件。",,"알고 있어… 하지만 위쪽은, 그 건들로
 사나다 아라타를 중요 참고인으로서 조사할 생각이야","Ich weiß. Aber meine Vorgesetzten wollen Arata
 als Person von besonderem Interesse verhören."
-75,3005,,"Hanno scelto un capro espiatorio nella speranza di
-placare il panico pubblico, giusto?","是企圖憑空捏造“簡單易瞭的敵人”，
+75,3005,,"Hanno scelto un capro espiatorio per prevenire un panico di massa, giusto?","是企圖憑空捏造“簡單易瞭的敵人”，
 平息世人的恐慌吧？",,"여기서 ""알기 쉬운 적""을 꾸며내서
 여론의 패닉을 진정시키려는 속셈이지?","Sie haben sich einen Sündenbock ausgesucht, um
 eine Massenpanik zu verhindern, ja?"
-76,3005,,Ecco come la pensano i pezzi grossi.,很像上級會幹的事。,,…높으신 분들이 생각할 만한 방법이구만,So läuft das in den obersten Etagen.
-77,3007,,"Mi dispiace dirlo, ma hai ragione.
-Ho sentito i fatti da Kyo-chan, però.","雖然很不甘心，但正是如此。
+76,3005,,Così funziona ai piani alti.,很像上級會幹的事。,,…높으신 분들이 생각할 만한 방법이구만,So läuft das in den obersten Etagen.
+77,3007,,"Mi dispiace, ma hai ragione.
+Kyo-chan però mi ha passato i fatti.","雖然很不甘心，但正是如此。
 不過，我已經從小杏那邊聽說事情的狀況了。",,"분하지만 네 말대로다
 …하지만 난, 쿄짱에게서 사정을 들었어","Es tut mir leid, aber du hast recht.
 Kyo-chan hat mir aber die Fakten durchgegeben."
-78,3007,,"Magari non ne so quanto voi ragazzi, ma sto
-iniziando a capire cosa sta succedendo
-ultimamente in tutta Tokyo.","有關目前發生在東京的事情，雖然沒有你們那麼清楚，
+78,3007,,"Forse non so tanto quanto voi, ma a poco a poco capisco cosa sta succedendo ultimamente a Tokyo.","有關目前發生在東京的事情，雖然沒有你們那麼清楚，
 但我自認為多少瞭解了一些……",,"지금 도쿄에서 일어나고 있는 일에 대해서도, 너희들 정도는 아니지만
 다소는 이해하고 있다…","Ich weiß vielleicht nicht so viel wie ihr, aber so
 langsam begreife ich, was in letzter Zeit in Tokio
 los ist."
-79,3007,,"Parlerò con il mio capo. Quindi Arata, il tuo compito è restare qui sotto la protezione della polizia, okay?","我一定會和上級報告的……所以真田，
+79,3007,,"Parlerò con il mio superiore. Quindi, Arata, il tuo compito ora è restare qui sotto protezione della polizia, sì?","我一定會和上級報告的……所以真田，
 暫時先乖乖地接受警察的保護……好嗎？",,"반드시 내가 위쪽과 얘기를 해 두겠다… 그러니 사나다
 여기선 얌전히 경찰의 보호를 받아 줘… 알겠지?","Ich werde mit meinem Vorgesetzten reden. Also,
 Arata, deine Aufgabe ist jetzt, hier unter
 Polizeischutz zu bleiben, ja?"
 80,3005,,...,………,,………,...
-81,3005,,Che schifo.,我不要。,,…싫어,So ein Mist.
+81,3005,,Dannazione!,我不要。,,…싫어,So ein Mist.
 82,2000,,?,！？,,!?,?
 83,3007,,"Ehi!
-Se scappi da noi, ti cacciarai ancora più nei guai!","喂喂。
+Se scappi, non farai che peggiorare le cose!","喂喂。
 你如果逃跑，可是正中上級的下懷！",,"…어이어이
 도망쳤다간, 그거야말로 위쪽이 바라던 바라고!?","He!
 Wenn du wegläufst, machst du alles noch schlimmer!"
 84,3007,,Sei ancora minorenne. Ascoltami. Sono un adulto.,你還未成年……乖乖聽大人的話吧。,,넌 아직 미성년자야… 어른의 말을 들어 줘,"Du bist noch minderjährig. Hör auf mich.
 Ich bin ein Erwachsener."
-85,3002,,"Ehi, Arata? Non sarebbe meglio fare quello che dice
-il Detective, tanto per cambiare?","喂、喂～新……
+85,3002,,"Ehi, Arata? Non pensi che non farebbe male, per una volta, dare ascolto al Commissario?","喂、喂～新……
 還是聽刑警先生的話比較好吧？",,"저, 저기~, 아라타… 역시 여기선
 형사 아저씨의 말씀대로 하는 게 좋지 않아?","He, Arata? Meinst du nicht, dass es nicht schaden
 könnte, zur Abwechslung auf den Kommissar zu
 hören?"
-86,3003,,"Inoltre, la ragione per cui stava hackerando fin dall'inizio faceva parte di un piano per salvare me.","而且……
+86,3003,,"Inoltre, tutto l'hacking era dopotutto solo parte di un piano per salvarmi.","而且……
 那次非法入侵是為了救出我才實行。",,"그리고… 애초에 제 구출을 목적으로 한 작전으로
 실행된 해킹이에요","Außerdem war die ganze Hackerei doch nur Teil
 eines Plans, um mich zu retten."
-87,3003,,"Siamo tutti coinvolti in questi casi. Siamo tutti
-ugualmente colpevoli. Se vuoi interrogare Arata,
-allora dovremmo tutti condividere la responsabilità.","一連串的事件都和我們所有人有關…
+87,3003,,"Siamo tutti coinvolti in questi casi e ugualmente colpevoli. Se volete interrogare Arata, dovremmo anche assumerci la responsabilità.","一連串的事件都和我們所有人有關…
 說起來我們都是共犯，如果新先生被問罪，
 那我們也應該同罪。",,"일련의 사건에는, 저희들 전원이 관련되어 있어요…
 말하자면 저희들은 공범, 아라타 씨에게 죄를 묻는다면
 저희들도 같은 죄일 거예요","Wir sind alle an diesen Fällen beteiligt und
 gleichermaßen schuldig. Wenn ihr Arata verhören
 wollt, sollten wir auch Verantwortung übernehmen."
-88,3005,,"Ehi, aspetta, Yuuko?
-La situazione sta diventando un po' troppo caotica.","喂喂，神代悠子小姐？
+88,3005,,"Ehi, un momento, Yuuko.
+Lo rendi troppo complicato.","喂喂，神代悠子小姐？
 這樣子事情會變得很麻煩喔？",,"…야야, 카미시로 유코 씨?
 얘기가 복잡해졌는데요?","He, Moment mal, Yuuko.
 Du machst es zu kompliziert."
-89,3003,,"È la verità. Non dovresti sopportare tutto questo 
-da solo/a. Smettila di fare il/la duro/a.","這是事實……這不應該是你一個人要負的責任。
+89,3003,,È vero. Non devi affrontare tutto questo da solo. Smettila di voler fare il duro.,"這是事實……這不應該是你一個人要負的責任。
 請不要耍帥。",,"이건 사실이에요… 당신 혼자서 짊어져야 할 책임이 아니에요
 …폼 잡는 건 그만 두세요","Es stimmt doch. Du musst das nicht alleine
 durchstehen. Hör auf, den harten Kerl spielen zu
 wollen."
-90,3005,,"Ma d'altra parte, eri ""Yuugo"".
-Saprai cosa sto per dire.","話說回來，妳曾經是“YUGO”吧？
+90,3005,,"Dopotutto, eri tu ""Yuugo"".
+Quindi sai cosa sto per dire.","話說回來，妳曾經是“YUGO”吧？
 那麼，應該知道我想說什麼吧？",,"…그러고 보니, 댁은 ""유고""였지
 그렇다면, 내가 하고 싶은 말이 뭔지 알잖아?","Immerhin warst du ja „Yuugo“.
 Da weißt du, was ich gleich sagen werde."
-91,3005,,"Non sto cercando di prendere posizione, aspettando che qualcuno mi copra le spalle.","我並不是期待最後會有人來收拾殘局，
+91,3005,,Non sto qui ad aspettare che qualcun altro scenda in campo per me.,"我並不是期待最後會有人來收拾殘局，
 才一個人堅持己見的呀。",,"…최종적으로 누군가가 도와줄 거라고 기대하고서
 혼자서 짊어진 게 아니야","Ich warte hier nicht darauf, dass jemand anderes
 für mich in die Bresche springt."
-92,3005,,Cosa succede se i poliziotti mettono tutti noi nei guai?,而且，大家全都被警察盯上要怎麼辦啊？,,"그리고, 전원이 경찰에게 찍히면 어쩌자는 거야","Was, wenn die Polizei uns alle als Sündenböcke
+92,3005,,E se la polizia ci presentasse tutti come capri espiatori?,而且，大家全都被警察盯上要怎麼辦啊？,,"그리고, 전원이 경찰에게 찍히면 어쩌자는 거야","Was, wenn die Polizei uns alle als Sündenböcke
 vorführt?"
-93,3005,,"Devo fare delle cose, giusto?",我們有必須要做的事情吧？,,"…우리들은, 해야만 하는 일이 있잖아?","Ich muss etwas tun, oder?"
+93,3005,,"Devo fare qualcosa, no?",我們有必須要做的事情吧？,,"…우리들은, 해야만 하는 일이 있잖아?","Ich muss etwas tun, oder?"
 94,3003,,...,………,,………,...
-95,3005,,"Facciamo finta che quella scenata di poco fa non sia mai
-successa, Detective Matayoshi. Probabilmente l'avresti
-fatto comunque.","又吉先生，我剛說的話，請你當作沒聽見。
+95,3005,,"Facciamo finta che questo incidente non sia mai avvenuto,
+Commissario Matayoshi. Probabilmente l'avresti fatto comunque.","又吉先生，我剛說的話，請你當作沒聽見。
 算了，我想就算不說，你也會照做吧。",,"방금 한 대화는 못 들은 걸로 해 줘, 마타요시 씨
 뭐, 말 안 해도, 그렇게 해 줄 거라고 생각하지만","Tun wir so, als wäre dieser Ausbruch nie passiert,
 Kommissar Matayoshi. Das hättest du doch
 vermutlich ohnehin getan."
-96,3005,,"Se Yuuko e gli altri sono colpevoli, allora lo sei anche
-tu. Hai ricevuto ""informazioni"" da Kyoko, giusto?","如果悠子等人是共犯的話，那你也是……吧。
+96,3005,,"Se Yuuko e gli altri hanno delle colpe, allora anche tu. Tu hai pur ricevuto delle 'informazioni' da Kyoko, non è vero?","如果悠子等人是共犯的話，那你也是……吧。
 畢竟已經從杏子小姐那邊聽說了“原因”吧？",,"얘내들이 공범이라면, 당신도… 지
 쿄코 씨에게서 ""사정""을 들었잖아?","Wenn Yuuko und die anderen Schuld tragen, dann
 auch du. Du hast doch „Informationen“ von Kyoko
 bekommen, nicht wahr?"
-97,3007,,"...
-Cosa? Di cosa stai parlando?","……
+97,3007,,Come? Cosa dici?,"……
 嗯？你在說什麼？",,"……
 …응? 무슨 얘기지?","...
 Wie? Was redest du da?"
-98,3007,,"Scusa. Stavo pensando se Date stesse tramando
-di nuovo qualcosa di illecito. Ero distratto e
-non stavo ascoltando.","抱歉，因為我很擔心伊達又捅了什麼婁子。
+98,3007,,Scusa. Stavo proprio pensando se Date stesse di nuovo combinando qualcosa di proibito. Questo mi ha distratto e non ho ascoltato.,"抱歉，因為我很擔心伊達又捅了什麼婁子。
 心神不寧，所以沒有聽你說話。",,"미안, 다테가 또 뭔가 저지르지 않았나 걱정이 되서 말이야
 마음이 들떠서 못 듣고 있었다","Entschuldige. Ich habe gerade überlegt, ob Date
 wieder Verbotenes anstellt. Das hat mich abgelenkt
 und ich habe nicht zugehört."
 99,3005,,"Grazie.
-E mi dispiace, ma non posso seguire i tuoi
-suggerimenti.","你幫了一個大忙。
+E inoltre, mi dispiace, ma purtroppo non posso accettare la tua proposta.","你幫了一個大忙。
 還有，雖然很不好意思，我還是無法聽從你的建議。",,"…고마워
 그리고, 미안하지만, 역시 당신의 제안에는 응할 수 없어 ","Danke.
 Und außerdem tut es mir leid, aber ich kann
 auf deinen Vorschlag leider nicht eingehen."
-100,3005,,"Io, sotto la protezione di un vecchio adulto noioso
-come te? Nah, non succederà.",我一點也不想被像你這種嚴肅的大人保護。,,"당신 같은 꼰대에게 보호받는 건
+100,3005,,"Lasciarmi proteggere da un adulto bacchettone come te? Passo, grazie.",我一點也不想被像你這種嚴肅的大人保護。,,"당신 같은 꼰대에게 보호받는 건
 딱 질색이니까 말이야","Mich von einem spießigen Erwachsenen wie dir
 beschützen lassen? Ich verzichte dankend."
-101,3007,,"Non hai paura di dire quello che pensi, ragazzino. Ancora.
-Non sei nella posizione di fare il duro, lo sai.","老是任意妄為。
+101,3007,,"Non sei uno che si tiene la lingua in tasca, giovanotto.
+Tuttavia. Non puoi permetterti di fare il duro.","老是任意妄為。
 我說啊，現在的情況由不得你逞強吧？",,"…제멋대로 떠들기만 하고 말이야
 이봐, 지금은 허세를 부릴 상황이 아니라고?","Du bist nicht auf den Mund gefallen, junger Mann.
 Trotzdem. Du kannst es dir nicht leisten,
 den harten Kerl abzugeben."
-102,3005,,"Non è questo...
-Non credo che la polizia capirebbe la mia storia.","不是那樣啦……
+102,3005,,"Non è di questo che si tratta.
+Non credo che la polizia mi capirebbe.","不是那樣啦……
 我不認為對警察說明狀況，他們就能理解。",,"그런 게 아니야…
 경찰이, 사정을 듣고서 이해해 줄 상대라고는 생각하지 않거든","Darum geht es nicht.
 Ich glaube nicht, dass die Polizei mich verstehen
 würde."
-103,3005,,"Immagino che mi fidi di te, però.",哎，雖然我相信你啦。,,"…뭐, 당신은 신뢰하고 있지만 말이야","Aber ich denke, dir kann ich vertrauen."
-104,3005,,"Quindi ora sono un ricercato fuggitivo a livello nazionale.
-Un elemento in più spuntato dalla mia lista dei desideri. Eccellente!","所以說，我終於當上全國通緝犯啦。
+103,3005,,Ma penso di potermi fidare di te.,哎，雖然我相信你啦。,,"…뭐, 당신은 신뢰하고 있지만 말이야","Aber ich denke, dir kann ich vertrauen."
+104,3005,,"Quindi ora sono ricercato.
+Ancora un sogno realizzato! Super!","所以說，我終於當上全國通緝犯啦。
 又要創造一個本大爺的傳說嗎？很好、很好！",,"그렇게 됐으니, 이제부터 정식으로 전국지명수배범이란 거다
 또 하나 이 몸 레전드 달성인가? …좋아, 좋아!","Jetzt wird nach mir also gefahndet.
 Wieder einen Traum verwirklicht! Super!"
-105,3005,,"Ma questo significa che...
-Non potrò più stare con voi.","但是……
+105,3005,,"Questo significa però...
+Che le nostre strade si separano qui.","但是……
 我已經不能再和你們在一起了。",,"하지만……
 더 이상, 댁들과는 함께 있을 수 없겠구만","Das heißt aber ...
 Dass sich unsere Wege hier trennen."
 106,3002,,Arata?,新！？,,…아라타!?,Arata?
-107,3007,,"Aspetta, Sanada! Non fare pazzie!",喂，真田，等等！不要輕舉妄動！,,"어이, 기다려 사나다! 제멋대로 굴지 마!","Warte, Sanada! Mach keine Dummheiten!"
-108,3005,,"Ahahaha! Chi è lo sciocco adesso? Quando hai mai
-sentito di un hacker che si tira indietro perché qualcuno
-gli ha detto di smetterla?","哈哈哈，你是笨蛋嗎？
+107,3007,,"Aspetta, Sanada! Non fare stupidaggini!",喂，真田，等等！不要輕舉妄動！,,"어이, 기다려 사나다! 제멋대로 굴지 마!","Warte, Sanada! Mach keine Dummheiten!"
+108,3005,,"Hahaha, ci sei rimasto, eh? Da quando gli hacker lasciano stare qualcosa solo perché qualcuno lo dice?","哈哈哈，你是笨蛋嗎？
 你叫我等，我就乖乖等？哪有這種駭客啊！",,"하하하, 바보 아니야?
 기다리라고 해서 기다리는 해커는, 없다고!","Hahaha, da guckst du, was? Seit wann lassen Hacker
 etwas gut sein, nur weil es jemand sagt?"
 109,3007,,Argh!,呃……！,,큭…!,Argh!
-110,3005,,"Ah ah! È proprio comodo, essere in grado di evocare
-Digimon a piacimento! Con questo posso scappare senza
-problemi!","哈哈！　能隨意呼喚數碼寶貝真方便啊！
+110,3005,,"Haha, è già pratico poter richiamare Digimon in qualsiasi momento! Così posso sparire senza problemi!","哈哈！　能隨意呼喚數碼寶貝真方便啊！
 這樣一來，我輕輕鬆鬆就能逃走吧？",,"하핫! 자유롭게 디지몬을 불러낼 수 있는 건 편리한걸!
 이거라면 나, 여유롭게 도망칠 수 있는 거 아니야?","Haha, schon praktisch, jederzeit Digimon rufen zu
 können! So kann ich problemlos verschwinden!"
 111,2000,,!,！,,…!,!
-112,3005,,"Ah, sì, è vero, [p].",哎呀，對了，[p]。,,"아차, 맞다, [p]","Ach, stimmt ja. [p]."
-113,3005,,"Sei davvero troppo buono di cuore.
-Al posto tuo, mi farei curare.","你人真的太好了，
+112,3005,,"Ah, giusto. [p].",哎呀，對了，[p]。,,"아차, 맞다, [p]","Ach, stimmt ja. [p]."
+113,3005,,"Sei davvero troppo buono.
+Dovresti cambiarci qualcosa, ogni tanto.","你人真的太好了，
 改一下你那麻煩的性格吧。",,"댁, 진짜로 사람이 너무 좋으니까
 그 귀찮은 성격, 조금은 고쳐 두라고","Du bist wirklich zu gutmütig.
 Solltest du mal was dran ändern."
-114,3005,,"Bene, allora! È stato forte passare del tempo
-con tutti voi! Ciao!","那麼再～見啦！和你們玩耍還蠻開心的。
+114,3005,,"Allora, è stato bello stare con voi!
+A presto!","那麼再～見啦！和你們玩耍還蠻開心的。
 再會了！",,"그럼 안녕! 댁들하고 노는 거, 꽤 즐거웠다고
 …잘 지내라","Also dann, war nett mit euch!
 Bis dann!"
 115,3007,,"Sanada, aspetta!",等、等等，真田～！,,"기, 기다려, 사나다―!","Sanada, warte!"
-116,3002,,Arata... Perché? Cosa faremo?,新……為、為什麼……？怎、怎麼辦～！？,,"아라타… 어, 어째서…? 어, 어쩌지~!?",Arata ... Warum? Was machen wir jetzt?
-117,3003,,"Se Arata sembra colpevole, allora il resto di noi è
-libero di muoversi come prima. Dobbiamo sbrigarci
-e risolvere il caso il prima possibile.","多虧了新先生替我們承擔罪責，我們才能像以前一樣
+116,3002,,Arata... Perché? Cosa facciamo adesso?,新……為、為什麼……？怎、怎麼辦～！？,,"아라타… 어, 어째서…? 어, 어쩌지~!?",Arata ... Warum? Was machen wir jetzt?
+117,3003,,"Se Arata diventa il principale sospettato, possiamo continuare a muoverci liberamente. Dobbiamo risolvere il caso il prima possibile.","多虧了新先生替我們承擔罪責，我們才能像以前一樣
 自由的行動……這樣一來，事件也有希望能盡快解決……",,"…아라타 씨가 죄를 뒤집어써 주신 덕분에, 저희들은 지금까지 그랬던 것처럼
 자유롭게 움직일 수 있어요… 이로써, 사건의 조기해결도 기대할 수 있어요…","Wenn Arata zum Hauptverdächtigen wird, können
 wir uns weiterhin frei bewegen. Wir müssen den
 Fall so schnell wie möglich lösen."
-118,3003,,"Risolvilo, e potremo provare l'innocenza di Arata.
-Ecco cosa sta cercando di ottenere per noi qui.","事件解決，應該就能證明新先生是無辜的。
+118,3003,,"Così potremmo provare la sua innocenza.
+È proprio qui che vuole andare a parare.","事件解決，應該就能證明新先生是無辜的。
 那就是新先生的目的。",,"사건이 해결되면, 아라타 씨의 누명도 증명할 수 있을 거예요
 …그게, 아라타 씨의 목적이에요","So könnten wir seine Unschuld beweisen.
 Genau darauf will er hier hinaus."
-119,3002,,"Cosa? Davvero? Se è così, allora dovrebbe
-dirlo e basta! Che seccatura! E che impostore! Arata,
-buffone che ti pavoneggi!","咦！？啊，是這樣！？是這樣的話早說嘛～
+119,3002,,"Cosa? Davvero? Sì, perché non lo dice e basta? Che rompiscatole! E un fanfarone! Arata, stupido presuntuoso!","咦！？啊，是這樣！？是這樣的話早說嘛～
 真麻～煩！真見～外！新好愛耍帥～！",,"에!? 아, 그런 거야!? 그렇다면 그렇다고 말해 달라구―!
 성가시잖아! 섭섭하잖아! 폼 잡는 아라타―!","Was? Wirklich? Ja, warum sagt er denn das nicht
 einfach? So eine Nervensäge! Und ein Angeber!
 Arata, du eingebildeter Dummkopf!"
-120,3003,,"Certo che si sta mettendo in mostra. È come un
-difetto per lui.",的確，他愛耍帥的程度……簡直有病。,,확실히 저 폼 잡는 건… 거의 병 수준이네요,"Eingebildet ist er allerdings.
+120,3003,,"È presuntuoso, però.
+È come una malattia per lui.",的確，他愛耍帥的程度……簡直有病。,,확실히 저 폼 잡는 건… 거의 병 수준이네요,"Eingebildet ist er allerdings.
 Das ist wie eine Krankheit bei ihm."
-121,3003,,"Ma si è preso un grosso rischio.
-Non lasceremo che sia stato vano.","但是，為此他也背負了很大的風險，
+121,3003,,"Ma ha corso un alto rischio.
+Questo non deve essere invano!","但是，為此他也背負了很大的風險，
 不能讓新先生的決心徒勞無功。",,"…하지만, 그 때문에 짊어진 리스크는 커요
 아라타 씨의 각오, 헛되게 하진 않겠어요","Aber er hat ein hohes Risiko in Kauf genommen.
 Das darf nicht umsonst sein!"
-122,3002,,"Hai ragione!
-Dobbiamo fare anche noi il nostro lavoro!","對呀！
+122,3002,,"Giusto!
+Dobbiamo fare la nostra parte!","對呀！
 我們必須要做我們能做的事情！",,"…그러네!
 우리들은 우리들이 할 수 있는 일을 해야겠지!","Stimmt!
 Wir müssen unseren Teil beitragen!"
-123,3003,,"Cercherò Miss Rie.
-Mi farò sentire se troverò qualcosa.","我……去追查里繪小姐的下落。
+123,3003,,"Cerco la signorina Rie.
+Ti contatterò se trovo qualcosa.","我……去追查里繪小姐的下落。
 如果知道了什麼，再聯絡你們。",,"전… 리에 씨의 행방을 쫓겠어요
 뭔가 알아내면, 연락드릴게요","Ich suche Fräulein Rie.
 Ich melde mich, falls ich etwas finde."
-124,3002,,"Lavorerò alla Strategia Digimon Super Amore al
-Massimo, raccogliendo informazioni, amicizia e amore dai
-Digimon!","我會一邊大膽實行數碼寶貝相親相愛☆羈絆大作戰MAX
+124,3002,,Sto lavorando alla Megastrategia Definitiva dell'Amore Digimon! Così otteniamo informazioni e affetto dai Digimon!,"我會一邊大膽實行數碼寶貝相親相愛☆羈絆大作戰MAX
 一邊試著從數碼寶貝收集情報、友情和愛情♪",,"난 디지몬 러브러브♡인연 대작전 MAX를 실행하면서
 디지몬들에게서 정보라든가 우정이라든가 애정이라든가, 모아 볼게♪","Ich arbeite an der Ultimativen Megastrategie
 der Digimonliebe! So kriegen wir
 Infos und Zuneigung von den Digimon!"
 125,2000,,...,………,,………,...
-126,2000,,"Arata rimarrà nella lista dei ricercati, scommetto.
-Mi chiedo dove sia andata Kyoko.
-Cosa dovrei fare ora?","新會就這樣變成通緝犯嗎……？
+126,2000,,"Si continuerà sicuramente a ricercare Arata.
+Chissà dov'è finita Kyoko?
+Cosa dovrei fare adesso?","新會就這樣變成通緝犯嗎……？
 杏子姊去了哪裡呢……？
 接下來該怎麼辦……？",,"아라타는 이대로 지명수배범이 되어 버리는 걸까…
 쿄코 씨는 어디에 가 버리신 걸까…
 …이제 어떻게 하지?","Nach Arata wird sicher weiter gefahndet.
 Wo Kyoko wohl hin ist?
 Was sollte ich jetzt tun?"
-127,2000,,Immagino che farò tutto quello che posso!,總而言之，只能盡力而為了……！,,"어쨌든, 지금 할 수 있는 일을 할 수밖에 없어…!","Ich tue einfach, was ich kann!"
+127,2000,,Faccio solo quello che posso!,總而言之，只能盡力而為了……！,,"어쨌든, 지금 할 수 있는 일을 할 수밖에 없어…!","Ich tue einfach, was ich kann!"

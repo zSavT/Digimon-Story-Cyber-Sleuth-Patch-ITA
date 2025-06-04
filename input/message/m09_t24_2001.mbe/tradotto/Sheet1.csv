@@ -1,53 +1,47 @@
 ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
-1,3005,,"Ci ha visti, vero? Quel vecchio?",那個大叔，剛才看了這邊一眼吧？,,"…이쪽 봤지, 저 아저씨","Der hat uns doch gesehen, oder? Der Alte?"
+1,3005,,"Quello ci ha visti, no? Il vecchio?",那個大叔，剛才看了這邊一眼吧？,,"…이쪽 봤지, 저 아저씨","Der hat uns doch gesehen, oder? Der Alte?"
 2,2000,,...,……,,……,...
-3,3005,,"Ci ha fatto un piccolo cenno per farci capire che ci aveva notato.
-Eppure non ci ha traditi!","那一眼是給我們的“暗號”啊！
+3,3005,,"Ci ha fatto un segno, ci ha notati. Ma non ci ha traditi!","那一眼是給我們的“暗號”啊！
 意思是他早發現我們了，但是並不打算對我們出手……",,"우리들을 눈치채고 있다고, ""신호""를 보낸 거야…
 그리고, 손을 댈 생각은 없댄다","Er hat ein Zeichen gegeben, dass er uns bemerkt
 hat. Aber er hat uns nicht verraten!"
-4,3005,,"Aargh! Non ci capisco niente! È contro di noi?
-O dalla nostra parte? Quale dei due è?","啊啊！我腦袋都要打結了……
+4,3005,,Aargh! Non ci capisco niente! È contro di noi? O è dalla nostra parte? Chi lo sa?,"啊啊！我腦袋都要打結了……
 他到底是敵是友！？",,"아악! 정말 영문을 모르겠어…
 적이야? 같은 편이야? 어느 쪽이야!?","Aargh! Ich blicke nicht durch! Ist er gegen uns?
 Oder doch auf unserer Seite? Wer weiß?"
-5,3006,,Hai le informazioni?,你們獲得資訊了吧？,,정보는 이미 입수한 거지?,Habt ihr die Daten?
-6,3005,,"Sì. Si chiama ""Il Diario Strappalacrime di Rie"".
-Una biblioteca di informazioni top-secret della Kamishiro.","是啊，看來這本「里繪的心怦怦日記」，
+5,3006,,Avete i dati?,你們獲得資訊了吧？,,정보는 이미 입수한 거지?,Habt ihr die Daten?
+6,3005,,"Sì. Titolo: „Diario straziante di Rie“.
+Una raccolta di dati altamente segreti di Kamishiro.","是啊，看來這本「里繪的心怦怦日記」，
 就是最高機密資訊的函式庫。",,"아아, 아무래도 이「리에의 심쿵 일기」라는 게
 극비 정보의 라이브러리인 것 같아","Ja. Titel: „Ries herzzereißendes Tagebuch“.
 Eine Sammlung hochgeheimer Kamishiro-Daten."
-7,3005,,Abbiamo una copia perfetta. Aspetteremo a decriptare fino a quando non saremo tornati.,"內容已經全部拷貝完成，
+7,3005,,Abbiamo una copia esatta. Possiamo decifrarla non appena saremo tornati.,"內容已經全部拷貝完成，
 回去再慢慢解讀就好！ ",,"카피는 이미 확실히 해 뒀어
 해독은 그쪽으로 돌아간 다음에 천천히 하면 돼","Wir haben eine genaue Kopie. Entschlüsseln können
 wir sie, sobald wir zurück sind."
 8,3006,,"Eccellente.
-Esci da lì appena puoi.","做得很好。
+Sparite da lì il più presto possibile.","做得很好。
 那你們盡快離開那裡吧。",,"훌륭하군
 그럼 바로 그곳에서 탈출하도록","Hervorragend.
 Verschwindet so schnell wie möglich von dort."
-9,3006,,"Con tutta la confusione che c'è adesso, dovresti
-poter uscire direttamente dall'ingresso principale.","趁現在情況還很混亂，
+9,3006,,"Nel caos che regna lì in questo momento, dovreste semplicemente poter uscire tranquillamente dall'ingresso principale.","趁現在情況還很混亂，
 你們應該能正大光明從正門出去。",,"혼란이 발생한 지금이라면
 당당하게 정문으로 나올 수 있겠지","Im Chaos, das dort gerade herrscht, solltet ihr
 einfach zum Haupteingang rausspazieren können."
-10,3005,,Ma possiamo lasciare gli Eater al luogo dell'anteprima?,……但是，體驗會場的侵食者就這麼放著不管好嗎？,,"…하지만, 체험 회장의 이터는 내버려 둬도 되는 거야?","Und die Verschlinger beim Event einfach sein
+10,3005,,"E i Mangia-Dati all'evento, semplicemente lasciarli stare?",……但是，體驗會場的侵食者就這麼放著不管好嗎？,,"…하지만, 체험 회장의 이터는 내버려 둬도 되는 거야?","Und die Verschlinger beim Event einfach sein
 lassen?"
-11,3006,,"I server di EDEN sono stati chiusi per il momento.
-Non dovrebbero esserci altre vittime oggi.","目前EDEN的伺服器已經停止運作，
+11,3006,,"I server di EDEN sono attualmente spenti.
+Oggi non dovrebbero esserci più vittime.","目前EDEN的伺服器已經停止運作，
 應該不會再波及更多人。",,"EDEN의 서버는 현재 정지 상태다
 이 이상, 피해자는 늘어나지 않을 거다","Die EDEN-Server sind aktuell heruntergefahren.
 Heute sollte es keine Opfer mehr geben."
-12,3006,,"Capisco il tuo desiderio di sbarazzarti degli
-Eater, ma pensaci bene.",雖然我很欣賞你想收拾所有侵食者的那份心意……,,이터를 모두 없애려 하는 열의는 높이 사겠다만…,"Ich verstehe, dass du die Verschlinger beseitigen
+12,3006,,"Capisco che tu voglia eliminare i Divoratori, ma riflettici un attimo.",雖然我很欣賞你想收拾所有侵食者的那份心意……,,이터를 모두 없애려 하는 열의는 높이 사겠다만…,"Ich verstehe, dass du die Verschlinger beseitigen
 willst, aber denk doch mal nach."
-13,3006,,"Entrare in contatto con uno comporterebbe il rischio di
-distruggere le informazioni confidenziali.","但如果因接觸侵食者，而使得來不易的機密情報變成bug，
+13,3006,,Il contatto potrebbe distruggere i dati segreti.,"但如果因接觸侵食者，而使得來不易的機密情報變成bug，
 那就得不償失了！",,"녀석들과 접촉해서, 소중한 기밀정보가
 버그화되면 모든 게 헛수고가 되어 버려","Der Kontakt würde die geheimen Daten
 möglicherweise vernichten."
-14,3005,,"Ricevuto.
-[p], torniamo all'agenzia.","我知道了……
+14,3005,,"Ricevuto, ricevuto. Torniamo all'ufficio, [p].","我知道了……
 [p]，我們回事務所去吧。",,"…라저
 [p], 사무소로 돌아가자","Roger, roger.
 Gehen wir zurück zum Büro, [p]."

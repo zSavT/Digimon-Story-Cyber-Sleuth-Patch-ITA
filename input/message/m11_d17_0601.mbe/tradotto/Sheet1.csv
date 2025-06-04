@@ -1,150 +1,137 @@
 ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
-1,3006,,"Mi sono perso qualcosa? Improvvisamente indossate tutti
-dei pattini a rotelle o qualcosa del genere?","抱歉有點突然，
+1,3006,,"Mi sono perso qualcosa? Avete improvvisamente dei pattini a rotelle, o cosa?","抱歉有點突然，
 你們穿了有滑輪的鞋子嗎？",,"…갑작스럽지만 너희들은
 롤러가 달린 신발이라도 신고 있는 건가?","Habe ich etwas verpasst? Habt ihr plötzlich
 Rollschuhe an, oder was?"
-2,3006,,"O ti sei lanciato in una corsa a perdifiato, ansimando
-senza fiato, per arrivare al fianco di Yuuko?","或是為了趕快到悠子身邊，
+2,3006,,Oder vi precipitate senza fiato attraverso il tunnel per andare in aiuto di Yuuko?,"或是為了趕快到悠子身邊，
 才氣喘吁吁地全力衝刺嗎？",,"아니면, 유코 군의 곁으로 서두르기 위해
 숨을 헐떡이며 전력 질주라도 하고 있는 건가?","Oder rast ihr atemlos durch den Tunnel, um
 Yuuko zu Hilfe zu eilen?"
-3,3002,,"Cosa? Di cosa stai parlando, Kyoko? Stiamo camminando
-normalmente. Forse anche più lentamente. Perché?","咦？杏子小姐，妳在說什麼啊？
+3,3002,,"Come? Che cosa stai dicendo, Kyoko? Andiamo normalmente. Forse persino più lentamente. Perché?","咦？杏子小姐，妳在說什麼啊？
 我們很普通地在前進喔？甚至有放慢速度耶？",,"에? 갑자기 무슨 소리예요, 쿄코 씨
 평범하게 걷고 있는데요? 오히려 페이스 다운이 됐는데요?","Wie? Was redest du denn, Kyoko? Wir gehen ganz
 normal. Vielleicht sogar langsamer. Warum?"
-4,3006,,"Mmm... Allora perché ricevevo un segnale dai vostri
-Digivice ad Akasaka dopo circa venti minuti?","嗯……那麼才過了幾十分鐘，你們的Digivice反應
+4,3006,,"Hm... Allora perché, dopo circa 20 minuti, ho ricevuto un segnale dai vostri Digivice da Akasaka?","嗯……那麼才過了幾十分鐘，你們的Digivice反應
 就已經在赤坂了，是怎麼一回事啊？",,"흐음… 그럼 불과 몇십 분 만에, 너희들의 디지바이스 반응이
 아카사카에 있는 건 어떻게 된 일이지","Hm ... Wieso habe ich dann nach etwa 20 Minuten
 ein Signal von euren Digivices aus Akasaka
 empfangen?"
 5,2000,,?!,！？,,!?,?!
-6,3002,,"Akasaka?! No, anche se corressimo a perdifiato per
-salvare Yuuko, non arriveremmo mai così in fretta.","赤、赤坂！？不、不，就算是我們為了奪回小悠子，
+6,3002,,"Akasaka?! No, anche se sprintassimo, non saremmo così veloci.","赤、赤坂！？不、不，就算是我們為了奪回小悠子，
 再怎樣拼命快跑，也不可能這麼快抵達赤坂吧……",,"아, 아카사카!? 아니아니, 아무리 우리들이 유콧치 탈환을 위해
 필사적으로 달리고 있다지만, 이렇게 빨리 아카사카에 도착하는 건 무리죠…","Akasaka?! Nein, selbst wenn wir sprinten würden,
 wären wir nicht so schnell."
-7,3006,,"Eppure il tuo segnale proviene decisamente
-proprio da sotto Akasaka in questo momento. Perché?","但是，你們現在確實
+7,3006,,Il tuo segnale però al momento arriva chiaramente dalla zona sotto Akasaka. Ma perché?,"但是，你們現在確實
 在赤坂指定地的正下方附近耶……？",,"하지만, 틀림없이 너희들은 지금
 아카사카 고요치의 바로 아래쪽 부근에 있는 것 같다만…?","Euer Signal kommt aktuell aber eindeutig aus dem
 Bereich unterhalb von Akasaka. Aber warum?"
-8,3006,,"Hmm... Il labirinto potrebbe avere un leggero
-effetto fisico su di te qui.","嗯……原來異空間化即使很微弱，
+8,3006,,Hm... Il labirinto potrebbe avere un certo effetto fisico su di voi.,"嗯……原來異空間化即使很微弱，
 也會對物理原則造成這麼大的影響。",,"흐음… 마요이가란, 아무리 미미하다 해도
 이렇게까지 물리원칙에 영향을 끼치는 거로군","Hm ... Das Labyrinth hat womöglich eine gewisse
 physische Wirkung auf euch."
-9,3002,,Eh? Cosa? Cosa vuoi dire?,咦？咦？怎麼回事？,,에? 에? 무슨 소리예요?,Wie? Was? Was meinst du?
-10,3006,,"La distanza da Roppongi si è accorciata a causa dello
-Scambio Digitale.","因為Digital Shift的緣故，
+9,3002,,Come? Cosa? Cosa intendi?,咦？咦？怎麼回事？,,에? 에? 무슨 소리예요?,Wie? Was? Was meinst du?
+10,3006,,La distanza per Roppongi si è accorciata a causa del dislocamento digitale.,"因為Digital Shift的緣故，
 你們到六本木的距離變短了。",,"디지털 시프트 때문에
 롯폰기까지의 거리가 짧아졌다","Die Entfernung nach Roppongi ist durch die
 digitale Verschiebung kürzer geworden."
-11,3006,,"Non puoi dirlo, essendo sottoterra, ma la distorsione
-spaziale ha contratto la distanza, permettendoti
-di raggiungere Roppongi più velocemente del previsto.","或許在地底下不容易發現，但空間好像已被扭曲縮短。
+11,3006,,"Sottoterra non ve ne accorgete, ma la curvatura spaziale ha accorciato la distanza, così arriverete più velocemente a Roppongi.","或許在地底下不容易發現，但空間好像已被扭曲縮短。
 看樣子，可以比預料中更快到達六本木呢。",,"지하라서 눈치채기 힘들지만, 공간이 일그러져서, 단축된 모양이다
 이거, 생각보다 빨리 롯폰기에 도착할 수 있겠군","Unter der Erde merkt ihr das nicht, aber die
 räumliche Krümmung hat die Entfernung verkürzt,
 sodass ihr schneller nach Roppongi gelangt."
-12,3002,,"Davvero?! Fantastico! Ho capito solo metà di quello che
-hai detto, ma immagino che la Digital Shift sia a nostro
-favore?","真的嗎！？太好了～！雖然不是很懂，
+12,3002,,"Davvero?! Ottimo! Ho capito solo la metà, ma l'onda digitale ora è un bene per noi, vero?","真的嗎！？太好了～！雖然不是很懂，
 Digital Shift有時候也是有用的嘛！",,"정말!? 아싸! 전혀 무슨 말인지 모르겠지만
 디지털 시프트도 가끔은 도움이 되잖아!","Wirklich?! Toll! Ich habe nur die Hälfte
 verstanden, aber die digitale Welle ist jetzt wohl
 gut für uns?"
-13,3006,,Ho notato anche qualcos'altro.,然後……我剛剛才發現……,,그리고… 지금 알게 된 것이다만…,Mir ist gerade noch etwas aufgefallen.
-14,3006,,"C'è un segnale da un altro Digivice dietro
-di te. Potrebbe essere un nemico. Stai in guardia.","在你們的後面，有另一個Digivice的反應。
+13,3006,,Ho appena notato un'altra cosa.,然後……我剛剛才發現……,,그리고… 지금 알게 된 것이다만…,Mir ist gerade noch etwas aufgefallen.
+14,3006,,"C'è un segnale da un altro Digivice
+dietro di voi. Forse non un amico.
+Tenete gli occhi aperti.","在你們的後面，有另一個Digivice的反應。
 可能是敵人派來的刺客……小心點。",,"너희들의 뒤쪽에, 또 하나의 디지바이스 반응이 있다
 적의 스파이일지도 몰라… 주의하도록","Da ist ein Signal von einem weiteren Digivice
 hinter euch. Womöglich kein Freund.
 Haltet die Augen offen."
-15,3002,,Cosa?! En garde? Ora facciamo scherma?,咦！？敵人的此刻？,,에!? 적의 스페어?,Aber ... wir haben doch hinten keine Augen?
+15,3002,,Ma... non abbiamo mica gli occhi dietro?,咦！？敵人的此刻？,,에!? 적의 스페어?,Aber ... wir haben doch hinten keine Augen?
 16,2000,,?!,！？,,!?,?!
 17,3012,,...,………,,………,...
-18,3002,,"Aaaaahhhhhhh!!!
-Cosa ci fai in un posto come questo?!","啊啊啊啊啊啊～～～～！！
+18,3002,,"Aaahhhhhh!!!
+Cosa ci fai qui?!","啊啊啊啊啊啊～～～～！！
 妳為什麼在這種地方啊！？",,"아아아아아――――!!
 너, 어째서 이런 곳에 있는 거야!?","Aaahhhhhh!!!
 Was suchst du denn hier?!"
-19,3012,,"State andando a salvare Yuuko, vero?",你們……是去拯救悠子大人的吧？,,당신들… 유코 씨를 구하러 가는 거잖아?,"Ihr geht Yuuko retten, oder?"
-20,3002,,"Yuuko o Yuugo... Il che mi ricorda.
-Sapevi fin dall'inizio che Yuugo era Yuuko?","該說是悠子呢，還是YUGO呢……
+19,3012,,"Andate a salvare Yuuko, vero?",你們……是去拯救悠子大人的吧？,,당신들… 유코 씨를 구하러 가는 거잖아?,"Ihr geht Yuuko retten, oder?"
+20,3002,,"Yuuko o Yuugo... Ora che ci penso.
+Tu hai sempre saputo che Yuugo è Yuuko?","該說是悠子呢，還是YUGO呢……
 總之，妳知道YUGO就是小悠子？",,"유코라고 할까, 유고라고 할까…
 그보다 너, 유고가 유콧치인 걸 알고 있었던 거야?","Yuuko oder Yuugo ... Da fällt mir ein.
 Du wusstest die ganze Zeit, dass Yuugo Yuuko ist?"
-21,3012,,"Certo, lo sapevo.",當然知道呀……,,…물론 알고 있었지,Aber natürlich wusste ich das.
-22,3002,,"Cosa ci faceva Yuuko con un avatar diverso?
+21,3012,,Ma certo che lo sapevo.,當然知道呀……,,…물론 알고 있었지,Aber natürlich wusste ich das.
+22,3002,,"Cosa voleva Yuuko con un altro avatar?
 Perché l'ha fatto?","小悠子還特地改變化身，是在做什麼？
 有什麼目的……？",,"일부러 아바타까지 바꿔서, 유콧치는 뭘 하고 있었던 거야?
 뭘 위해서 그런 일을…","Was wollte Yuuko denn mit einem anderen Avatar?
 Warum hat sie das gemacht?"
-23,3012,,Quella era la forma del fratello di Yuuko.,那個模樣，好像是悠子大人的哥哥……,,"그 모습은, 유코 씨의 오빠의 모습이야…",Es war die Gestalt von Yuukos Bruder.
-24,3002,,Suo fratello?,小悠子的，哥哥？,,"유콧치의, 오빠?",Ihrem Bruder?
-25,3012,,"Sì. Ha la Sindrome EDEN.
-È fuori da anni ormai. Suo fratello maggiore,
-Yuugo.","是的……就是得到EDEN症候群，
+23,3012,,Era la figura del fratello di Yuuko.,那個模樣，好像是悠子大人的哥哥……,,"그 모습은, 유코 씨의 오빠의 모습이야…",Es war die Gestalt von Yuukos Bruder.
+24,3002,,A suo fratello?,小悠子的，哥哥？,,"유콧치의, 오빠?",Ihrem Bruder?
+25,3012,,Sì. Suo fratello maggiore Yuugo. Soffre della Sindrome di EDEN ed è malato da anni.,"是的……就是得到EDEN症候群，
 從幾年前就一直臥病在床的哥哥——「勇吾」大人呀。",,"그래… EDEN 증후군에 걸려서
 몇 년 전부터 계속 누워 있는 오빠,「유고」씨야","Ja. Ihr älterer Bruder Yuugo. Er leidet am
 EDEN-Syndrom und ist schon seit Jahren krank."
-26,3012,,"Yuuko usava quell'avatar per proteggere l'EDEN che
-suo padre aveva costruito.","悠子大人使用了那個化身，
+26,3012,,Yuuko ha usato questo avatar per proteggere l'EDEN che suo padre ha creato.,"悠子大人使用了那個化身，
 守護了悠子父親所創造的EDEN。",,"그 아바타를 사용해서, 유코 씨는
 유코 씨의 아버지가 만든 EDEN을 지키고 있었어","Yuuko hat diesen Avatar benutzt, um das EDEN zu
 beschützen, das ihr Vater geschaffen hat."
-27,3012,,"Sotto le spoglie dell'hacker Zaxon, Yuugo.",做為Zaxon的駭客「YUGO」……,,잭슨의 해커「유고」로서…,In Gestalt des Zaxon-Hackers Yuugo.
-28,3002,,C-Come mai l'ha fatto?!,為為為為什麼要做那種事情！？,,…어어어어째서 그런 일을!?,W-Warum hat sie das denn gemacht?
-29,3012,,"I legami di Yuuko con la sua famiglia erano deboli. Penso che lei
-desiderasse ardentemente qualcosa per rimanere connessa.","因為悠子大人她啊，是和家人關係很淺的人……
+27,3012,,Nelle sembianze dell'hacker Zaxon Yuugo.,做為Zaxon的駭客「YUGO」……,,잭슨의 해커「유고」로서…,In Gestalt des Zaxon-Hackers Yuugo.
+28,3002,,P-Perché mai l'ha fatto?,為為為為什麼要做那種事情！？,,…어어어어째서 그런 일을!?,W-Warum hat sie das denn gemacht?
+29,3012,,"Della sua famiglia a Yuuko non rimase molto...
+Le mancava forse un senso di appartenenza.","因為悠子大人她啊，是和家人關係很淺的人……
 所以想和家人的“某方面”有所聯繫吧……",,"유코 씨는, 가족과의 연이 옅은 사람이니까…
 가족과의 ""무언가""를, 계속 잇고 싶었던 게 아닐까…","Von ihrer Familie blieb Yuuko nicht viel ...
 Ihr fehlte wohl ein Gefühl der Verbundenheit."
-30,3002,,"Qualcosa per la sua famiglia?
-Yuuko... Era questo quello che cercava?","和家人的“某方面”？
+30,3002,,"Per la sua famiglia?
+È questo che Yuuko stava cercando?","和家人的“某方面”？
 小悠子……是這樣啊……",,"가족과의 ""무언가""?
 …유콧치 …그랬었구나","Für ihre Familie?
 Ist es das, was Yuuko gesucht hat?"
-31,3012,,"Yuuko mi ha aiutato quando ne avevo bisogno.
-Mi ha dato un posto dove potevo essere me stesso.","悠子大人是對我伸出援手，
+31,3012,,"Yuuko mi ha aiutato nel momento del bisogno.
+Con lei potevo essere completamente me stesso.","悠子大人是對我伸出援手，
 給我歸屬的重要的人啊……",,"유코 씨는, 내에게 손을 내밀어 주었어
 내에게 있을 곳을 준 소중한 사람이야…","Yuuko hat mir in der Not geholfen.
 Bei ihr konnte ich ganz ich selbst sein."
-32,3012,,Quindi per favore... Lasciatemi venire con tutti voi.,拜託……可以帶我一起去嗎？,,부탁이야… 내도 함께 데려가 주지 않겠어?,"Also, bitte ... Lasst mich euch begleiten."
-33,3002,,Eh?,咦……？,,…에?,Wie jetzt?
+32,3012,,"Quindi, per favore... lasciate che vi accompagni.",拜託……可以帶我一起去嗎？,,부탁이야… 내도 함께 데려가 주지 않겠어?,"Also, bitte ... Lasst mich euch begleiten."
+33,3002,,Come?!,咦……？,,…에?,Wie jetzt?
 34,3012,,"Voglio salvare Yuuko!
-Lasciami aiutare!","我想要救悠子大人呀……！
+Lasciatemi aiutarvi!","我想要救悠子大人呀……！
 拜託……！",,"유코 씨를 구하고 싶어…!
 부탁드립니다…!","Ich will Yuuko retten!
 Lasst mich euch helfen!"
-35,3002,,"Aspetta un attimo.
-[p], fa sul serio?",等等，[p]，你是認真的嗎！？,,"잠깐, [p], 진심이야!?","Moment.
+35,3002,,"Momento.
+[p], lo dice sul serio?",等等，[p]，你是認真的嗎！？,,"잠깐, [p], 진심이야!?","Moment.
 [p], meint die das ernst?"
-36,3002,,"Voglio dire, immagino che voglia la stessa cosa che vogliamo noi.
+36,3002,,"In realtà, abbiamo lo stesso obiettivo.
 Salvare Yuuko.","不過……
 我們想救悠子的心情確實是一樣的……",,"……하지만 확실히
 유콧치를 구하고 싶다는 마음은 똑같지…","Eigentlich haben wir ja das gleiche Ziel.
 Yuuko zu retten."
-37,3002,,"Okay! Facciamolo insieme!
-Insieme probabilmente possiamo salvare Yuuko!","好～！一起去吧！
+37,3002,,"Va bene! Allora uniamoci!
+Insieme probabilmente possiamo farcela!","好～！一起去吧！
 一起救出悠子吧！",,"…좋았어! 함께 가자!
 함께 유콧치를 구해 내자!","Na gut! Tun wir uns eben zusammen!
 Gemeinsam können wir es wahrscheinlich schaffen!"
 38,3012,,"N-Nokia...
-Grazie.","諾……諾奇雅小姐……
+Grazie a te.","諾……諾奇雅小姐……
 謝謝妳……",,"노…, 노키아 씨…
 감사합니다…","N-Nokia ...
 Danke dir."
-39,3002,,Lascia perdere i ringraziamenti! Mi metti a disagio! Cerchiamo di mantenere le cose come al solito.,"哎、哎唷，不用謝什麼啦！
+39,3002,,"Oh, smettila. Mi mette a disagio!
+Continuiamo semplicemente come prima.","哎、哎唷，不用謝什麼啦！
 讓我好不自在！像平常一樣就好了！",,"자, 잠깐 감사라던가 하지 말라구!
 난처해지잖아! 평소처럼 하면 돼!","Ach, lass das doch. Das ist mir unangenehm!
 Machen wir einfach weiter wie bisher."
-40,3012,,Sempre la solita... S-sciattona...,像平常一樣是指……醜、醜女——,,"평소처럼이라니… 모, 못난―",Wie bisher ... Du h-hässliche ...
-41,3002,,"Abbassa i toni!
-Okay! Si parte!","那個就免了！
+40,3012,,Come prima... Tu b-brutto...,像平常一樣是指……醜、醜女——,,"평소처럼이라니… 모, 못난―",Wie bisher ... Du h-hässliche ...
+41,3002,,"Okay, un po' più gentile però!
+Allora! Si parte!","那個就免了！
 喂！　趕快走囉！",,"그건 기각!
 자! 어서 가자!","Okay, ein bisschen netter aber schon!
 So! Los geht’s!"
