@@ -5,12 +5,15 @@ Sei un detective orso marino?","什麼？你有事情想問？
 嗯……？電腦偵探？",,"뭐? 묻고 싶은 게 있다고?
 …응? 전뇌탐정이라고?","Du willst mich Sachen fragen?
 Bist ein Seebär-Detektiv?"
-3,4292,,Non mi importa affatto se sei un detective o della polizia. Sono un professionista. Non rivelo nulla sui miei clienti.,"我管你是偵探還是警察，我是不可能透漏顧客資訊的，
+3,4292,,"Non mi importa affatto se sei un detective 
+o della polizia. Sono un professionista. 
+Non rivelo nulla sui miei clienti.","我管你是偵探還是警察，我是不可能透漏顧客資訊的，
 畢竟我也是專業的。",,"탐정이든 경찰이든, 고객의 정보는 알려줄 수 없겠는걸
 이쪽은 프로거든","Ist mir total egal, ob du ein Detektiv bist oder
 von der Polizei. Ich bin ein Profi. Ich verrate
 nichts über meine Kunden."
-4,4292,,La fiducia dei clienti è nel mio negozio dopotutto tutto.,在這個業界裡，違背了顧客的信賴就完蛋了。,,"고객의 신뢰를 잃으면 끝장이라고, 이 업계는","Das Vertrauen der Kunden ist in meinem Geschäft
+4,4292,,"La fiducia dei clienti è nel 
+mio negozio dopotutto.",在這個業界裡，違背了顧客的信賴就完蛋了。,,"고객의 신뢰를 잃으면 끝장이라고, 이 업계는","Das Vertrauen der Kunden ist in meinem Geschäft
 schließlich alles."
 5,4292,,"Vuoi essere un detective-orso marino?
 Ma che c'entra l'orso marino?","話說回來，你剛剛說你是電腦偵探？
@@ -22,7 +25,9 @@ Era ovvio che ci fosse una cosa del genere adesso.","喔……電腦偵探啊？
 原來現在還有這種職業……",,"호오… 전뇌탐정 말이지
 요즘은 그런 직종도 있는 건가…","Ach, Cyber-Detektiv.
 War ja klar, dass es so was jetzt gibt."
-7,4292,,"A pensarci bene, il vecchio Matayoshi una volta ha detto che il suo dipartimento è una cosa del genere.","又吉大叔好像也說過，
+7,4292,,"A pensarci bene, il vecchio Matayoshi una 
+volta ha detto che il suo dipartimento 
+è una cosa del genere.","又吉大叔好像也說過，
 他被派到相關部門……",,"…그러고 보니 마타요시 아저씨도
 그런 부서에 배속됐다고 했던가…","Wenn ich es mir recht überlege, hat der alte
 Matayoshi mal gesagt, dass seine Abteilung so was
@@ -64,11 +69,12 @@ Da dove dovrei saperlo?","嗯……？去哪了？
 거, 거기까진 저도 잘…","Wohin?
 Woher soll ich das wissen?"
 15,4292,,"Ti dico la verità! Davvero!
-Non mento!","真的啦！我是說真的！
+Non ti sto mentendo!","真的啦！我是說真的！
 小的不會說謊的！",,"정말정말, 진짜입니다
 전 거짓말을 하지 않습니다!","Ich sage dir die Wahrheit! Ganz ehrlich!
 Ich lüge nicht!"
-16,4292,,"Potresti salutare Matayoshi da parte mia, quando lo vedi?","所以……
+16,4292,,"Potresti salutare Matayoshi 
+da parte mia, quando lo vedi?","所以……
 可以幫我跟又吉大叔問聲好嗎？",,"그러니 마타요시 씨에게는 그…
 부디 잘 전해 주셨으면 하고―","Würdest du Matayoshi bitte von mir grüßen, wenn du
 ihn siehst?"

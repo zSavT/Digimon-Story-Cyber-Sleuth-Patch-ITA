@@ -1,5 +1,6 @@
 ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
-1,3002,,Oh no! Lei è troppo forte! Non posso tenerle testa! Agumon... Gabumon... Mi dispiace così tanto!,"騙、騙人……好強！我居然完全打不過她……！
+1,3002,,"Oh no! Lei è troppo forte! Non posso tenerle testa!
+ Agumon... Gabumon... Mi dispiace così tanto!","騙、騙人……好強！我居然完全打不過她……！
 亞古獸……加布獸……對不起……！",,"거, 거짓말… 강해…! 전혀 상대가 안 된다니…!
 아구몬… 파피몬… 미안해…!","Oh nein! Sie ist zu stark! Mit der kann ich es
 nicht aufnehmen! Agumon ... Gabumon ...
@@ -9,7 +10,8 @@ Lascia stare.","菲！
 適可而止！",,"페이!
 …그 정도로 해 둬","Fei!
 Lass es gut sein."
-3,3012,,"Ah! Mai! Se è tutto quello che ha, le spaccherò il sedere!","哼！不行不行！
+3,3012,,"Ah! Mai! Se è tutto quello 
+che ha, le spaccherò il sedere!","哼！不行不行！
 就這點程度，這個醜到沒藥救的蠢姑娘完全不會受到教訓！",,"핫! 안 됩니다, 안 됩니다
 이 정도로는, 이 못생긴 바보 아가씨에겐, 전혀 안 먹힙니다","Ha! Niemals! Wenn sie mehr nicht draufhat,
 versohle ich ihr den Hintern!"
@@ -24,10 +26,12 @@ Non ti tradirei mai...","呃……不、不是的！我怎麼可能會忤逆你�
 내가… 당신을 배반할 리… 없잖습니까…","Oh ... Natürlich nicht! Nie im Leben!
 Ich würde dich nie ... verraten ..."
 6,3012,,Non dire nemmeno una cosa del genere...,壞心眼……你別這麼說啦……,,짓궂은 사람… 그런 말 말아요……,Sag so was doch gar nicht erst ...
-7,3001,,Questo incidente è sorto per una mia negligenza. Chiedo perdono.,這次的事是我的疏忽……抱歉！,,이번 일은 내 잘못이다… 미안하다,"Dieser Vorfall ist durch eine Nachlässigkeit von
+7,3001,,"Questo incidente è sorto per una 
+mia negligenza. Chiedo perdono.",這次的事是我的疏忽……抱歉！,,이번 일은 내 잘못이다… 미안하다,"Dieser Vorfall ist durch eine Nachlässigkeit von
 mir entstanden. Ich bitte um Verzeihung."
 8,2000,,?!,！？,,!?,?!
-9,3001,,"Lui voleva un pubblico più ampio, quindi abbiamo dirottato le frequenze radio.","他只是單純想招集更多聽眾，
+9,3001,,"Lui voleva un pubblico più ampio, quindi 
+abbiamo dirottato le frequenze radio.","他只是單純想招集更多聽眾，
 所以才使用非法插播的方法。",,"그는, 순수하게 청중을 부르고 싶어서
 전파 잭이라는 방법을 사용한 거야","Er wollte ein größeres Publikum, also haben wir
 die Funkfrequenzen gekapert."
@@ -37,18 +41,22 @@ Questo significa...","神、神代！？
 那……",,"카, 카미시로!?
 그럼…","Kamishiro?!
 Das heißt ..."
-12,3001,,Jimiken non è altro che una marionetta di Kamishiro.,所以那個男人也不過是神代的一顆棋子。,,"…결국, 그 남자도 카미시로의 장기 말 중 하나에 불과했다는 거다","Jimiken ist nichts weiter als eine Marionette
+12,3001,,"Jimiken non è altro che una 
+marionetta di Kamishiro.",所以那個男人也不過是神代的一顆棋子。,,"…결국, 그 남자도 카미시로의 장기 말 중 하나에 불과했다는 거다","Jimiken ist nichts weiter als eine Marionette
 von Kamishiro."
-13,3001,,Senza dubbio Rie Kishibe lo ha istigato a farlo e gli ha fornito il programma necessario.,"對他灌輸了這些觀念的人，恐怕就是……岸部里繪。
+13,3001,,"Senza dubbio Rie Kishibe lo ha istigato a 
+farlo e gli ha fornito il programma necessario.","對他灌輸了這些觀念的人，恐怕就是……岸部里繪。
 給他能夠非法插播的程式的，應該也是她吧！",,"모든 아이디어를 낸 것은, 아마도… 키시베 리에
 전파 잭을 가능하게 하는 프로그램을 넘긴 것도 그녀겠지","Zweifelsohne hat ihn Rie Kishibe dazu angestiftet
 und ihm das nötige Programm zugespielt."
 14,3002,,Se Jimiken quindi testimoniasse a riguardo...,那、那只要吉米肯出來作證……！,,"그, 그럼, 그 사실을 지미켄에게 증언하게 하면…!",Wenn Jimiken darüber also aussagen würde ...
-15,3001,,Non basta. Dopotutto ha collaborato volontariamente.,"那可不行……因為，
+15,3001,,"Non basta. Dopotutto ha collaborato 
+volontariamente.","那可不行……因為，
 他畢竟還是靠自己的意志在行動。",,"그건 불가능해… 왜냐면 그는
 어디까지나 그의 의지로 행동한 거니까 말이지","Das reicht nicht. Er hat immerhin freiwillig
 kooperiert."
-16,3001,,"Lui è stato manipolato altrettanto abilmente quanto le sue ragazze, mediante le suggestioni post-ipnotiche.","就像他藉由後催眠操縱那些少女一樣，
+16,3001,,"Lui è stato manipolato altrettanto abilmente 
+quanto le sue ragazze, mediante le suggestioni post-ipnotiche.","就像他藉由後催眠操縱那些少女一樣，
 他自己也中了巧妙的操縱。",,"후최면으로 소녀들을 조종했던 것처럼
 그 자신도 교묘하게 조종당하고 있었던 거야","Er wurde genauso gekonnt manipuliert wie seine
 Mädchen mit den posthypnotischen Suggestionen."
@@ -63,19 +71,23 @@ Stai fuori da questa faccenda.","醜姑娘，我不是說了嗎？
 太深入對妳沒有好處唷。",,"못생긴 아가씨, 말했잖습니까?
 깊이 관여하는 건 금물이라고","Habe ich es dir nicht gesagt, kleine Hexe?
 Halt dich da raus."
-20,3001,,"Ti invio le coordinate del luogo dove le ragazze si riuniscono nel mondo reale, sul tuo terminale.","我會將現實世界的少女們聚集處的位置資訊，
+20,3001,,"Ti invio le coordinate del luogo dove le 
+ragazze si riuniscono nel mondo reale, 
+sul tuo terminale.","我會將現實世界的少女們聚集處的位置資訊，
 傳送到你的終端。",,"너의 단말기에, 현실 세계의 소녀들이 모여 있는 장소의
 위치 정보를 보내 두겠다","Ich schicke dir die Koordinaten für den Ort, wo
 die Mädchen sich in der echten Welt sammeln,
 auf dein Terminal."
 21,2000,,?!,！？,,!?,?!
-22,3001,,"Mi dispiace che dobbiate sistemare la questione... Vi ringrazio per questo. Andiamo, Fei.","不好意思讓你善後……拜託你了，
+22,3001,,"Mi dispiace che dobbiate sistemare la questione... 
+Vi ringrazio per questo. Andiamo, Fei.","不好意思讓你善後……拜託你了，
 我們走吧，菲。",,"뒤처리를 맡겨서 미안하지만…… 잘 부탁한다
 가자, 페이","Tut mir leid, dass ihr die Sache aus der Welt
 schaffen müsst ... Ich danke euch dafür.
 Gehen wir, Fei."
 23,3012,,Non così in fretta!,等、等等我！,,"잠깐, 기다려 주시지요!",Nicht so schnell!
-24,3012,,Sei fortunato che io abbia un debole per creature deboli e brutte.,"我喜歡弱者和醜八怪，
+24,3012,,"Sei fortunato che io abbia un debole 
+per creature deboli e brutte.","我喜歡弱者和醜八怪，
 喜歡得不得了。",,"내는 약한 녀석이랑 못생긴 녀석이
 좋아서 좋아서 참을 수가 없습니다…","Du hast Glück, dass ich etwas für schwache und
 hässliche Wesen übrig habe."
@@ -85,16 +97,19 @@ La prossima volta non ti prenderò così delicatamente.","而且想破壞它們�
 …다음에 만나면, 봐주지 않겠습니다","Jetzt will ich aber auf eine Wand einprügeln.
 Nächstes Mal fasse ich dich nicht so zart an."
 26,3002,,C-Che problema ha quella?,什、什麼啊？那個女人……,,"뭐, 뭐야, 저 여자…",W-Was hat die denn für ein Problem?
-27,3002,,"Yuugo questo, Kamishiro quello, è semplicemente tutto troppo complicato! Stupido!","不管是YUGO也好，神代也好……
+27,3002,,"Yuugo questo, Kamishiro quello, è semplicemente 
+tutto troppo complicato! Stupido!","不管是YUGO也好，神代也好……
 總覺得事情越來越複雜了。",,"유고도 그렇고 카미시로도 그렇고…
 왠지 복잡한 일이 된 것 같네","Yuugo dies, Kamishiro das, es ist einfach alles
 viel zu kompliziert! Doof!"
 28,2000,,...,……,,……,...
-29,3002,,"Ah, già! È vero! Volevamo salvare le vittime dell'oscuro pellegrinaggio di Jimiken!","啊！！對了！
+29,3002,,"Ah, già! È vero! Volevamo salvare le vittime
+ dell'oscuro pellegrinaggio di Jimiken!","啊！！對了！
 我們是來救吉米肯惡魔巡禮的參加人的！",,"하웃!! 그랬지!
 지미켄의 악마순례에 참가한 모두를 구하러 온 거였지!","Ach ja! Stimmt ja! Wir wollten die Opfer von
 Jimikens dunkler Pilgerfahrt retten!"
-30,3002,,"Sakura! Voi tutti, che siete stati attratti nel suo influsso! State bene?!","小櫻！中了雨下效應的各位！
+30,3002,,"Sakura! Voi tutti, che siete stati attratti 
+nel suo influsso! State bene?!","小櫻！中了雨下效應的各位！
 大家都沒事吧！？",,"사쿠랏치! 포메라니안 효과에 걸린 모두들!
 괜찮아!?","Sakura! Ihr alle, die ihr in seinen Bann gezogen
 wurdet! Geht es euch gut?!"

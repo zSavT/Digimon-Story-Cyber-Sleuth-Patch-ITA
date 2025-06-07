@@ -4,7 +4,9 @@ Allora avevamo proprio ragione.","嗯……有人拿獎牌來賣嗎？
 看來這條線果然沒有錯。",,"…흐음, 메달을 팔러 온 녀석이 있었다, 인가
 역시 그쪽이 맞았던 모양이군","Hm ... Der Typ wollte die Medaille verkaufen?
 Da lagen wir wohl richtig."
-2,3006,,"E il compratore ti ha trattato in modo completamente diverso, quando Matayoshi è stato menzionato? Il vecchio deve avere un'influenza insospettabile.","嗯？一拿出又吉刑警的名字，商家的態度就一百八十度大轉變？
+2,3006,,"E il compratore ti ha trattato in modo completamente 
+diverso, quando Matayoshi è stato menzionato? 
+Il vecchio deve avere un'influenza insospettabile.","嗯？一拿出又吉刑警的名字，商家的態度就一百八十度大轉變？
 哈哈哈，那是因為叔叔的人脈夠廣啊！",,"응? 마타요시 형사님의 이름을 꺼냈더니 상인의 태도가 일변했다고?
 하하하, 아저씨의 얼굴은 잘 먹히거든","Und der Käufer hat dich ganz anders behandelt,
 als Matayoshi erwähnt wurde? Der Alte hat wohl
@@ -14,32 +16,38 @@ E sa alcuni segreti su di loro.","受他恩惠的人多到數不清，
 當然也有些人是被他抓住了把柄……",,"은혜를 느끼고 있는 녀석은 얼마든지 있겠지
 …물론, 약점을 잡힌 녀석도지만","Ihm schulden vermutlich viele Leute was.
 Und er weiß einige Geheimnisse über sie."
-4,3006,,"A proposito, anch'io sono andato avanti. Ho rilevato il segnale di una Medaglia Digimon.","說到這個，其實我們的調查也有進展，
+4,3006,,"A proposito, anch'io sono andato avanti. 
+Ho rilevato il segnale di una Medaglia Digimon.","說到這個，其實我們的調查也有進展，
 我檢測了那個數碼寶貝獎牌的反應。",,"그건 그렇고, 실은 이쪽의 조사에서도 진전이 있었다―
 그 디지몬 메달의 반응을 탐지했다","Ich bin übrigens auch weitergekommen. Ich habe das
 Signal einer Digimon-Medaille erfasst."
-5,3006,,"Una medaglia Digimon molto rara, a cui è stato assegnato un ID unico. L'ho trovata, ma è tutto qui.","稀有度高的數碼寶貝獎牌似乎會有特殊的ID，
+5,3006,,"Una medaglia Digimon molto rara, a cui è stato 
+assegnato un ID unico. L'ho trovata, ma è tutto qui.","稀有度高的數碼寶貝獎牌似乎會有特殊的ID，
 也就是說，我只是追蹤了那個ID……",,"레어도가 높은 디지몬 메달에는, 특별한 ID가
 주어진 모양이어서 말이지
 요컨대, 그걸 추적한 것 뿐이다만…","Einer sehr seltenen Digimon-Medaille, der eine
 einzigartige ID zugewiesen wurde. Ich habe sie
 gefunden, aber das ist auch schon alles."
-6,3006,,Le impostazioni sulla privacy dell'ID impediscono che il proprietario e l'indirizzo vengano mostrati.,"可是為了預防持有者和所在地被鎖定，
+6,3006,,"Le impostazioni sulla privacy dell'ID impediscono 
+che il proprietario e l'indirizzo vengano mostrati.","可是為了預防持有者和所在地被鎖定，
 所以ID被設定為不公開。",,"소유자나 소재지의 특정을 막기 위해, ID는 비공개 설정으로
 되어 있다","Die Datenschutzeinstellungen der ID verhindern,
 dass Eigentümer und Adresse gezeigt werden."
-7,3006,,"L'analisi è stata un osso duro.
+7,3006,,"L'analisi è stata difficile.
 La protezione è già piuttosto buona. Hehe!","解析這個ID需要花一點時間，
 這個保護程式還挺頑強……呵呵。",,"그 설정을 해석하는데, 좀 애를 먹어서 말이지
 꽤나, 완강한 프로텍트였어… 후후","Die Analyse war eine harte Nuss.
 Der Schutz ist schon ziemlich gut. Hehe!"
 8,3006,,Comunque...,總而言之——,,어쨌든―,Jedenfalls ...
-9,3006,,"Il software di tracciamento ha trovato segnali in tutto il mondo, ma solo uno in EDEN.","經過追蹤，在全世界都有檢測到反應，
+9,3006,,"Il software di tracciamento ha trovato 
+segnali in tutto il mondo, ma solo uno in EDEN.","經過追蹤，在全世界都有檢測到反應，
 但在EDEN網路裡，只有檢測到一個反應。",,"추적 결과, 반응은 세계 곳곳에서 탐지되었다만
 EDEN 네트워크 내에서는, 하나 뿐이었다","Die Aufspürsoftware hat Signale auf der ganzen
 Welt gefunden, aber nur eines in EDEN."
 10,3006,,Questo è probabilmente la medaglia del cliente.,用不著推理了，這個就是委託人的獎牌吧。,,"추리할 것도 없이, 이게 의뢰인의 메달이겠지",Das ist vermutlich die Medaille des Klienten.
-11,3006,,"Il segnale è arrivato dal quarto livello di Kowloon, e precisamente da un'area piuttosto in profondità. Per favore, vai subito a dare un'occhiata.","反應出現在「Kowloon Lv.4」，
+11,3006,,"Il segnale è arrivato dal quarto livello di Kowloon, 
+e precisamente da un'area piuttosto in profondità. 
+Per favore, vai subito a dare un'occhiata.","反應出現在「Kowloon Lv.4」，
 而且是在該區域的深處。
 請你儘速趕往那裡。",,"반응은「쿠롱 Lv.4」―
 그 에어리어의, 제법 깊숙한 포인트에 있다
