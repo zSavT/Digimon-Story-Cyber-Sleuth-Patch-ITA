@@ -1,5 +1,6 @@
-ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
-1,3002,,Oh! Siamo adesso sottoterra? Chi avrebbe mai pensato che qui ci fosse un tunnel così grande?,"哇喔……！　這裡就是地下道啊……
+﻿ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
+1,3002,,"Oh! Siamo adesso sottoterra? Chi avrebbe mai
+pensato che qui ci fosse un tunnel così grande?","哇喔……！　這裡就是地下道啊……
 在地底下居然有這麼大的隧道……",,"와우…! 여기가 지하도인가…
 지하에 이런 커다란 터널이 있었다니…","Hui! Wir sind jetzt unter der Erde? Wer hätte
 gedacht, dass hier so ein Riesentunnel ist?"
@@ -10,27 +11,33 @@ Sfarfallano?","感覺好潮濕，牆壁也歪歪扭扭的。
 딱 지하란 느낌… 응? 미끌미끌?","Ganz schön muffig hier, und die Wände flackern
 so. Echt unterirdisch. Moment mal.
 Flackern?"
-3,3002,,Sta succedendo qui proprio ora un mini-spostamento digitale?,咦！？這裡是不是產生了些微的Digital Shift？！,,어!? 여기 약간 디지털 시프트가 일어나지 않았어!?,"Passiert hier gerade eine digitale
+3,3002,,"Sta succedendo qui proprio ora un
+mini-spostamento digitale?",咦！？這裡是不是產生了些微的Digital Shift？！,,어!? 여기 약간 디지털 시프트가 일어나지 않았어!?,"Passiert hier gerade eine digitale
 Mini-Verschiebung?"
-4,3006,,Mm. L'effetto dell'onda digitale è diventato più forte.,嗯……數碼波的影響比之前還要明顯啊。,,흐음… 이전보다 디지털 웨이브의 영향이 짙어졌군,"Hm. Der Effekt der digitalen Welle ist stärker
+4,3006,,"Mm. L'effetto dell'onda digitale è diventato
+più forte.",嗯……數碼波的影響比之前還要明顯啊。,,흐음… 이전보다 디지털 웨이브의 영향이 짙어졌군,"Hm. Der Effekt der digitalen Welle ist stärker
 geworden."
-5,3006,,"Probabilmente appariranno Digimon e Divoratori.
-Siate in guardia.","恐怕是數碼寶貝或侵食者也出現了吧。
+5,3006,,"Probabilmente appariranno Digimon e
+Divoratori. Siate in guardia.","恐怕是數碼寶貝或侵食者也出現了吧。
 皮繃緊一點。",,"아마도 디지몬이나 이터도 나타나겠지
 긴장을 풀지 말도록","Wahrscheinlich werden Digimon und Verschlinger
 auftauchen. Seid auf der Hut."
-6,3002,,"Bene! Se ci esauriamo troppo presto, non potremo aiutare Yuuko! Forza, [p]!","OK～！　如果在救出小悠子前就沒力氣，
+6,3002,,"Bene! Se ci esauriamo troppo presto, non
+potremo aiutare Yuuko! Forza, [p]!","OK～！　如果在救出小悠子前就沒力氣，
 豈不是賠了夫人又折兵～！出發囉！[p]！",,"오케이~! 유콧치를 구하기 전에 힘이 다 빠졌다간
 모든 게 헛수고가 되어 버리니까―! 가자―! [p]!","Gut! Wenn wir uns zu früh verausgaben, können wir
 Yuuko nicht helfen! Los geht’s, [p]!"
 7,3002,,Andiamo a Roppongi!,朝著六本木，let’s wal……king！？,,"롯폰기를 향해, 렛츠 워키… 잉!?",Auf nach Roppongi!
 8,3002,,Un momento. Dobbiamo forse andare a piedi?!,咦……！？難道要走到六本木！？,,"…에!? 혹시 롯폰기까지, 걸어서 가는 거야!?",Moment mal. Sollen wir etwa zu Fuß gehen?!
-9,3006,,Ti accorgi solo ora che Roppongi è a circa dieci chilometri di distanza? A piedi vi ci vogliono circa due ore.,"喔？妳現在才發現嗎？
+9,3006,,"Ti accorgi solo ora che Roppongi è a circa
+dieci chilometri di distanza? A piedi vi ci
+vogliono circa due ore.","喔？妳現在才發現嗎？
 到六本木大概將近10公里，需時大約2小時吧。",,"음? 지금 눈치챈 건가?
 롯폰기까지 약 10km, 시간으로는 2시간 정도다","Fällt dir erst jetzt auf, dass Roppongi ungefähr
 zehn Kilometer weit weg ist? Zu Fuß braucht ihr
 etwa zwei Stunden."
-10,3002,,Z-Dieci chilometri? Due ore? Come faremo mai...,"10、10公里？2、2小時……？
+10,3002,,"Z-Dieci chilometri? Due
+ore? Come faremo mai...","10、10公里？2、2小時……？
 怎、怎麼辦……體力上……",,"10, 10km? …2, 2시간?
 …어, 어쩌지… 체력적인 의미로…","Z-Zehn Kilometer? Zwei Stunden?
 Wie schaffen wir das bloß ..."

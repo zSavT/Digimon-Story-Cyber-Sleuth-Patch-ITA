@@ -1,13 +1,13 @@
-ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
-1,3002,,"Sono così contento che tu l'abbia trovato!
-Era quindi da Yuuko?","哎呀～找到了真是太好了～！
+﻿ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
+1,3002,,"Sono così contento che tu l'abbia
+trovato! Era quindi da Yuuko?","哎呀～找到了真是太好了～！
 說是在小悠子的地方找到的？",,"이거~ 찾아서 정말 다행이야~!
 유콧치하고 같이 있었다구?","Ich bin so froh, dass du ihn gefunden hast!
 Er war also bei Yuuko?"
 2,1750,,Grazie per avermi aiutato nella ricerca!,也謝謝姊姊幫我一起找～,,"누나도, 찾아 줘서 고마워~","Danke, dass ihr mir bei der Suche geholfen habt!"
 3,1325,,Grazie!,謝謝～！,,고마워~!,Danke!
-4,3002,,"Hihi! Potete contare su di noi!
-I Ribelli sono sempre qui per i Digimon smarriti!","呵呵～我辦事很牢靠吧☆
+4,3002,,"Hihi! Potete contare su di noi! I
+Ribelli sono sempre qui per i Digimon smarriti!","呵呵～我辦事很牢靠吧☆
 反叛者是迷途小數碼寶貝的伙伴呢☆",,"으흠~ 선처한 것이니라♡
 리벨리온즈는 헤매는 디지몬 아이들의 편이니라♡","Hihi! Auf uns könnt ihr euch verlassen!
 Die Rebels sind jederzeit für verirrte Digimon da!"
@@ -16,31 +16,33 @@ Potete tornare nel vostro mondo?","對了，你們有自己的家嗎？
 能回到本來所在的世界嗎？",,"그런데 너희들, 돌아갈 집은 있는 거야?
 원래 있던 세계로는 돌아갈 수 있어?","Habt ihr zwei denn ein Zuhause?
 Könnt ihr in eure Welt zurück?"
-6,1750,,Siamo caduti da questo enorme buco che si è aperto nel cielo!,"前不久天空上開了一個大洞，
+6,1750,,"Siamo caduti da questo enorme
+buco che si è aperto nel cielo!","前不久天空上開了一個大洞，
 我們是從那裡掉下來的。",,"…우리들, 얼마 전에 열린
 하늘의 커다란 구멍에서 떨어졌어","Wir sind aus diesem riesigen Loch gefallen,
 das sich am Himmel geöffnet hat!"
-7,1750,,"Ci siamo persi di vista mentre scappavamo dagli Inghiottitori, che anche loro sono caduti fuori da lì.","我們和侵食者一起掉下來，
+7,1750,,"Ci siamo persi di vista mentre scappavamo
+dagli Inghiottitori, che anche loro sono
+caduti fuori da lì.","我們和侵食者一起掉下來，
 在逃離它們的時候走散了……",,"함께 떨어진 이터로부터 도망쳐 다니는 도중에
 떨어져 버려서…","Wir haben uns aus den Augen verloren, als wir vor
 den Verschlingern weggelaufen sind, die auch
 da rausgefallen sind."
 8,3002,,"Capisco!
-Bene!
-Allora venite pure da me!","是這樣啊……
+Bene! Allora venite pure da me!","是這樣啊……
 那麼！暫時先來我這吧！",,"그렇구나…
 그럼 있잖아! 일단, 내가 지내는 곳으로 와!","Verstehe!
 Nun gut! Dann kommt doch mit zu mir!"
 9,1750,,Da te?,姊姊的……？,,누나네…?,Zu dir?
-10,3002,,"Creiamo insieme a Omnimon un rifugio
-per i Digimon che altrimenti non hanno nessun altro posto dove andare.
+10,3002,,"Creiamo insieme a Omnimon un rifugio per i Digimon che
+altrimenti non hanno nessun altro posto dove andare.
 Più siamo, più ci divertiamo!","我正和奧米加獸一起保護無處可去的數碼寶貝！
 有很多伙伴們在也比較安心吧？",,"지금, 오메가몬과 함께, 갈 곳이 없는 디지몬들을
 보호하고 있어! 동료가 잔뜩 있는 편이 안심되잖아?","Wir erschaffen zusammen mit Omnimon eine Zuflucht
 für Digimon, die sonst nirgends hinkönnen.
 Je mehr, desto lustiger!"
-11,1750,,"Omnimon? Dei Cavalieri Reali?
-Wow! Possiamo incontrarlo?","妳說的奧米加獸，是皇家騎士的奧米加獸？
+11,1750,,"Omnimon? Dei Cavalieri
+Reali? Wow! Possiamo incontrarlo?","妳說的奧米加獸，是皇家騎士的奧米加獸？
 好厲害！可以見到它？",,"오메가몬이라면, 로얄 나이츠의 오메가몬!?
 굉장해~! 만날 수 있어?","Omnimon? Von den Royal Knights?
 Wow! Den dürfen wir treffen?"
@@ -49,10 +51,13 @@ Lascia a me questi due, [p]!","當～然了♪來吧！讓你們見面！
 [p]，這些孩子交給我吧！",,"물론~♪ 같이 가자! 만나게 해 줄 테니까!
 [p], 이 애들은 나에게 맡겨 줘!","Klar doch! Kommt mit! Ich stelle euch vor.
 Überlass die zwei hier mir, [p]!"
-13,3002,,Devi fare un buon lavoro da detective mentre Kyoko è via!,你要代替杏子姊好好處理偵探業務唷～！,,"넌, 쿄코 씨 대신에
+13,3002,,"Devi fare un buon lavoro da detective
+mentre Kyoko è via!",你要代替杏子姊好好處理偵探業務唷～！,,"넌, 쿄코 씨 대신에
 확실히 탐정업을 해나가라구~!","Du musst gute Detektivarbeit leisten, während
 Kyoko weg ist!"
-14,3002,,"Se la reputazione dell'ufficio subisce danni mentre Kyoko non è qui, allora saranno guai per te!","杏子姊不在的期間，你要是讓事務所的評價暴跌，
+14,3002,,"Se la reputazione dell'ufficio subisce
+danni mentre Kyoko non è qui,
+allora saranno guai per te!","杏子姊不在的期間，你要是讓事務所的評價暴跌，
 之後會有地獄咖啡的攻擊等著你喔～！",,"쿄코 씨가 부재중인 사이에 사무소의 평판을 뚝 떨어뜨렸다간
 나중에 지옥의 커피 고문이 기다릴 거야~!","Wenn der Ruf des Büros Schaden nimmt, während
 Kyoko nicht hier ist, dann darfst du dich

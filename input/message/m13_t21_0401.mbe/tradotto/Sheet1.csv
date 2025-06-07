@@ -1,4 +1,4 @@
-ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
+﻿ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
 1,3003,,"Ah, [p].",[p]……,,………[p] 씨,"Ach, [p]."
 2,2000,,...,………,,………,...
 3,3003,,...,………,,………,...
@@ -9,65 +9,78 @@ ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
 8,1750,,Ehi! Questo è Tokomon!,啊～！是迪哥獸～！,,아一! 토코몬이다一!,Hey! Das ist Tokomon!
 9,1325,,Evviva! Lopmon!,啾啾～！黑大耳獸～！,,뀨뀨一! 로프몬~!,Jippieee! Lopmon!
 10,3003,,...,………,,………,...
-11,1750,,"Tokomon! Meno male!
-Ti abbiamo cercato!","迪哥獸～！　
+11,1750,,"Tokomon! Meno
+male! Ti abbiamo cercato!","迪哥獸～！　
 太好了～！我找你找得好苦呀～！",,"토코몬一! 다행이야一!
 찾고 있었어一!","Tokomon! Ein Glück!
 Wir haben dich gesucht!"
 12,1325,,Mi dispiace che tu ti sia preoccupato.,讓你擔心了，對～不起！,,"걱정 끼쳐서, 죄송합니다~!","Tut mir leid, dass du dir Sorgen gemacht hast!"
 13,3003,,Capisco. Avete cercato il piccolo qui.,是這樣啊，找那個孩子找到這裡來……,,"그런가요, 저 아이를 찾아서 이곳에…",Verstehe. Ihr habt den Kleinen hier gesucht.
-14,3003,,"Mentre pattugliavo EDEN, era rannicchiato qui nell'angolo per tutto il tempo e tremava. Il poverino.","我巡視EDEN時，發現它在角落發抖……
+14,3003,,"Mentre pattugliavo EDEN, era rannicchiato qui
+nell'angolo per tutto il tempo e tremava. Il
+poverino.","我巡視EDEN時，發現它在角落發抖……
 所以有點困擾。",,"EDEN의 순찰을 하고 있었는데, 구석에서 떨고 있길래…
 좀 곤란해 하던 참이었어요","Während ich EDEN patrouilliert habe, hockte er die
 ganze Zeit hier in der Ecke und hat gezittert.
 Der Arme."
 15,2000,,?,……？,,…?,?
-16,3003,,"Come? Pattuglia?
-Ho controllato in EDEN.","咦？你說巡視什麼？　
+16,3003,,"Come?
+Pattuglia? Ho controllato in EDEN.","咦？你說巡視什麼？　
 其實我是在檢查EDEN。",,"에? 무슨 순찰이냐고요?
 실은 EDEN의 점검을 하고 있었어요","Wie? Patrouille?
 Ich habe in EDEN nach dem Rechten gesehen."
-17,3003,,"Alla Kamishiro il personale è scarso al momento...
-Quindi, aiuto quando posso.","因為神代現在人手不足……
+17,3003,,"Alla Kamishiro il personale è scarso al
+momento... Quindi, aiuto quando posso.","因為神代現在人手不足……
 只要我能辦到，不管是多小的事情，我都想做……",,"카미시로는 지금, 일손 부족이어서…
 제가 할 수 있는 일을, 아무리 사소한 것이라도 하고 싶어서요…","Bei Kamishiro ist gerade das Personal knapp ...
 Also helfe ich, wenn ich kann."
-18,3003,,"Inoltre, cerco di portare alla luce la verità sulla Signorina Rie.","還有……其實，
+18,3003,,"Inoltre, cerco di portare alla luce la
+verità sulla Signorina Rie.","還有……其實，
 我正為了揭露里繪姊的所作所為而行動。",,"그리고… 실은 지금, 리에 씨가 해 온 일들을
 세상에 드러내기 위해 움직이고 있어요","Außerdem versuche ich, die Wahrheit über Fräulein
 Rie ans Licht zu bringen."
-19,3003,,"Non appena tutti sapranno che Rie Kishibe – o meglio Crusadermon – è la colpevole, Arata non sarà più sospettato.","真正的犯人是岸部里繪……不，是劍皇獸。
+19,3003,,"Non appena tutti sapranno che Rie
+Kishibe – o meglio Crusadermon – è la colpevole,
+Arata non sarà più sospettato.","真正的犯人是岸部里繪……不，是劍皇獸。
 只要世人能瞭解，也一定能還新先生一個清白……",,"진범인은 키시베 리에… 아뇨, 로드나이트몬이라고
 세상이 알아 주면, 아라타 씨의 혐의도 분명 풀릴 거예요…","Sobald alle wissen, dass Rie Kishibe – oder
 vielmehr Crusadermon – die Schuldige ist, wird
 Arata nicht mehr verdächtigt."
 20,2000,,!,……！,,…!,!
-21,3003,,"In cambio, riporterò i dirigenti che la Signorina Rie aveva licenziato.","為此，我們正在說服被里繪姊逐出的幹部們，
+21,3003,,"In cambio, riporterò i dirigenti che la
+Signorina Rie aveva licenziato.","為此，我們正在說服被里繪姊逐出的幹部們，
 請他們回來。",,"그걸 위해서, 리에 씨에게 쫓겨난 임원들에게
 돌아와 달라고 부탁하고 있어요","Dafür bringe ich die Führungskräfte zurück, die
 Fräulein Rie gefeuert hatte."
-22,3003,,"Con il suo aiuto pubblico le informazioni che Rie aveva tenuto segrete, affinché possiamo creare un nuovo EDEN.","借助他們的力量，向世人公開里繪姊所隱瞞的種種資訊……　
+22,3003,,"Con il suo aiuto pubblico le
+informazioni che Rie aveva tenuto segrete,
+affinché possiamo creare un nuovo EDEN.","借助他們的力量，向世人公開里繪姊所隱瞞的種種資訊……　
 重新創造新的EDEN。",,"그들의 힘을 빌려서, 리에 씨가 은폐해 온 모든 정보를
 세상에 공표해서… 다시, 새로운 EDEN을 만들겠어요","Mit ihrer Hilfe veröffentliche ich die
 Informationen, die Rie geheim gehalten hatte,
 damit wir ein neues EDEN schaffen können."
-23,3003,,"Che EDEN sia di nuovo operativo così velocemente, è merito loro. Non sono molti, ma sono maestri nel loro mestiere.","這次EDEN能這麼快恢復原狀，也是多虧有他們的幫忙。
+23,3003,,"Che EDEN sia di nuovo operativo così
+velocemente, è merito loro. Non sono molti, ma sono
+maestri nel loro mestiere.","這次EDEN能這麼快恢復原狀，也是多虧有他們的幫忙。
 雖然人數很少，但他們都很優秀。",,"이번 EDEN의 조속한 복구도, 그들의 협력이 있었기 때문이에요
 인수는 적지만, 우수한 분들이 모여 계시니까요","Dass EDEN so schnell schon wieder läuft, ist
 ihnen zu verdanken. Sie sind nicht viele, aber sie
 sind Meister ihres Metiers."
-24,3003,,Il fatto che ora i Digimon si aggirino per Tokyo sta causando scalpore.,東京現在因為數碼寶貝的出現，非常的混亂。,,"…도쿄는 지금, 디지몬의 출현으로 큰 혼란에 빠져 있어요","Dass in Tokio jetzt Digimon herumlaufen, sorgt für
+24,3003,,"Il fatto che ora i Digimon si aggirino per Tokyo sta causando
+scalpore.",東京現在因為數碼寶貝的出現，非常的混亂。,,"…도쿄는 지금, 디지몬의 출현으로 큰 혼란에 빠져 있어요","Dass in Tokio jetzt Digimon herumlaufen, sorgt für
 Furore."
-25,3003,,"Pertanto, la rete EDEN deve essere solida come base della trasmissione di informazioni.","正因為如此，傳達資訊的關鍵——
+25,3003,,"Pertanto, la rete EDEN deve essere solida come
+base della trasmissione di informazioni.","正因為如此，傳達資訊的關鍵——
 EDEN網路系統必須正常運作。",,"그렇기 때문에, 정보 전달의 요점인 EDEN 네트워크가
 제 기능을 하고 있지 않으면 안 돼요","Daher muss das EDEN-Netzwerk als Grundlage der
 Informationsvermittlung solide sein."
 26,3003,,Fei mi aiuta anche.,菲也在幫我們。,,…페이도 도와주고 있어요,Fei hilft mir auch.
-27,3003,,"Lei sorveglia EDEN, mentre io inseguo la Signorina Rie.",我去追里繪姊的時候，她應該會保護EDEN。,,"제가 리에 씨를 쫓고 있는 동안에는
+27,3003,,"Lei sorveglia EDEN, mentre io inseguo la
+Signorina Rie.",我去追里繪姊的時候，她應該會保護EDEN。,,"제가 리에 씨를 쫓고 있는 동안에는
 그녀가 EDEN을 지켜 줄 거예요","Sie passt auf EDEN auf, während ich Fräulein Rie
 verfolge."
-28,1750,,"Grazie, [p].
-Grazie, gentile signorina.",偵探大人、姊姊，謝謝～,,"탐정님, 누나, 고마워一","Danke, [p].
+28,1750,,"Grazie,
+[p]. Grazie, gentile signorina.",偵探大人、姊姊，謝謝～,,"탐정님, 누나, 고마워一","Danke, [p].
 Danke, nette junge Dame."
 29,1325,,Grazie!,謝謝～！,,고마워~!,Danke!
 30,3003,,"L'EDEN di mio padre ci ha rubato così tanto.
@@ -75,8 +88,8 @@ Ma il vero EDEN non dovrebbe essere così.","爸爸創造的EDEN奪走了許多�
 但是，EDEN本來不應該是這樣。",,"…아버지가 만든 EDEN이, 많은 것들을 빼앗아 버렸어요
 하지만, EDEN의 본래 모습은, 이렇지 않았을 거예요","Das EDEN meines Vaters hat uns so viel geraubt.
 Aber das wahre EDEN sollte nicht so sein."
-31,3003,,"Dovrebbe unire persone e Digimon,
-gli uni con gli altri e tra loro!","連結人與人，連結數碼寶貝與數碼寶貝，
+31,3003,,"Dovrebbe unire persone e Digimon, gli
+uni con gli altri e tra loro!","連結人與人，連結數碼寶貝與數碼寶貝，
 連結人與數碼寶貝……",,"사람과 사람을 잇고, 디지몬과 디지몬을 잇고
 사람과 디지몬을 이어 주는…","Es sollte Menschen und Digimon zusammenführen,
 miteinander und untereinander!"
@@ -85,14 +98,14 @@ Aspetta e vedrai.","我要讓今後的EDEN……變成那樣的地方。
 一定……",,"앞으로의 EDEN을… 그런 장소로 만들어 보이겠어요
 ……반드시","Das neue EDEN wird so sein.
 Warte nur ab."
-33,3003,,"Fammi sapere se c'è qualcosa di nuovo.
-Aiuto se posso.","有什麼進展的話，請告訴我……
+33,3003,,"Fammi sapere se c'è qualcosa di
+nuovo. Aiuto se posso.","有什麼進展的話，請告訴我……
 我打算全力協助。",,"뭔가 진전이 있으면, 알려 주세요…
 협력을 아낄 생각은 없으니까요","Sag mir Bescheid, wenn es etwas Neues gibt.
 Ich helfe, wenn ich kann."
-34,3002,,"Inutile, [p].
-A Shibuya non c'erano testimoni.
-Cosa proviamo adesso?","[p]～沒有成果啊～
+34,3002,,"Inutile,
+[p]. A Shibuya non c'erano
+testimoni. Cosa proviamo adesso?","[p]～沒有成果啊～
 涉谷完全沒有目擊情報……該怎麼辦呢？",,"[p]~ 아무것도 없었어~
 시부야에서는 목격 정보 nothing… 이제 어떻게 할까","Zwecklos, [p].
 In Shibuya gab es keine Zeugen.
@@ -102,8 +115,8 @@ Ottimo lavoro! Sai il fatto tuo!","咦！？　說是已經找到了！？　太
 話說回來，你這傢伙很厲害嘛～♪",,"…에!? 이미 찾았다고!? 다행이다一!!
 그보다, 꽤 하잖아~ 요놈요놈~♪","Wie? Du hast ihn schon gefunden? Spitze!
 Super Arbeit! Du kennst dich aus!"
-36,3002,,"È così che fa un vero detective! Un professionista!
-O è di nuovo come Progetto Z?","不愧是本行！
+36,3002,,"È così che fa un vero detective! Un
+professionista! O è di nuovo come Progetto Z?","不愧是本行！
 你專業的樣子可以媲美「Project Z」！",,"역시 본직? 프로페셔널함이
 「프로젝트 Z」급, 같은?","So macht das ein wahrer Detektiv! Ein Profi!
 Oder ist das wieder wie Projekt Z?"
