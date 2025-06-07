@@ -9,7 +9,7 @@ La realizzazione della patch è stata resa possibile in larga misura grazie al c
 
 # Come installare la patch
 
-Per installare bisogna selezionare la sezione [Releases](https://github.com/zSavT/Yakuza5-Patch-ITA/releases) su GitHub e selezionare l'ultima versione della patch disponibile. Selezionate l'installer da scaricare in base al sistema operativo scelto ed avviate l'installer.
+Per installare bisogna selezionare la sezione [Releases](https://github.com/zSavT/Digimon-Story-Cyber-Sleuth-Patch-ITA/releases) su GitHub e selezionare l'ultima versione della patch disponibile. Selezionate l'installer da scaricare in base al sistema operativo scelto ed avviate l'installer.
 
 ![](img/Installer1.png)
 
@@ -17,7 +17,7 @@ L'installazione è guidata e semplice, ma in ogni caso basterà sempre cliccare 
 
 ![](img/Installer2.png)
 
-Successivamente bisogna accettare i termini d'uso e poi nella schermata successiva, selezionare la cartella dove è installato Yakuza 4 (Di default è impostato il percorso classico) e cliccare su "_Installa Patch_".
+Successivamente bisogna accettare i termini d'uso e poi nella schermata successiva, selezionare la cartella dove è installato il gioco (Di default è impostato il percorso classico) e cliccare su "_Installa Patch_".
 
 ![](img/Installer3.png)
 
