@@ -1,20 +1,21 @@
-ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
-1,3003,,"L'ufficio è in subbuglio da un po' ormai.
-Era tutto a posto?","剛才公司裡面一陣喧嘩……
-發生了什麼事嗎？",,"조금 전부터 사내가 술렁거리고 있습니다만…
+﻿"ID","Speaker","Japanese","English","Chinese","EnglishCensored","Korean","German"
+"1","3003","","Tanto l'ufficio era già un casino.
+Tutto a posto?","剛才公司裡面一陣喧嘩……
+發生了什麼事嗎？","","조금 전부터 사내가 술렁거리고 있습니다만…
 무슨 일 있었나요?","Im Büro ist schon seit einer Weile die Hölle los.
 Hat alles geklappt?"
-2,3003,,"Non ti hanno trovato, vero?",難道說，被發現了……？,,"설마, 들킨 건…?","Sie haben dich nicht gefunden, oder?"
-3,3003,,"Capisco. Allora probabilmente stanno usando tutta questa
+"2","3003","","Non ti hanno trovato, vero?","難道說，被發現了……？","","설마, 들킨 건…?","Sie haben dich nicht gefunden, oder?"
+"3","3003","","Capisco. Allora probabilmente stanno usando tutta questa
 storia degli hacker per ripulire le cose.","原來如此……
-那可能會被當作是駭客幹的好事。",,"…과연, 그렇다면 해커들이
+那可能會被當作是駭客幹的好事。","","…과연, 그렇다면 해커들이
 한 짓이라는 걸로 마무리될지도 모르겠네요","Verstehe. Dann nutzen sie wohl diese Hackersache,
 um ihre Spuren zu vertuschen."
-4,3003,,"Dubito che Kamishiro ammetterebbe pubblicamente di essere
-stata infiltrata da hacker. Sarebbe un enorme scandalo.","而且神代不可能向外宣佈
-遭駭客入侵這種醜聞。",,"그리고, 해커에게 침입당했다는 스캔들을
+"4","3003","","Dubito che la Kamishiro ammetterebbe mai
+di essere stata attaccata dagli hacker. Sarebbe
+uno scandalo.","而且神代不可能向外宣佈
+遭駭客入侵這種醜聞。","","그리고, 해커에게 침입당했다는 스캔들을
 지금의 카미시로가 공표할 리도 없고요…","Kamishiro wird wohl kaum öffentlich zugeben,
 dass Hacker hier eingedrungen sind. Das wäre ein
 enormer Skandal."
-5,3003,,Immagino che manterranno la cosa segreta.,我想事情不會外傳。,,"아마, 표면화도 안 될 거라고 생각해요",Sie werden es also unter den Teppich kehren.
-6,3003,,"Torniamo all'agenzia investigativa, allora.",總之，先回偵探事務所吧！,,"…그럼, 탐정사무소로 돌아가죠",Lass uns ins Detektivbüro zurückkehren.
+"5","3003","","Manterrano sicuramente il segreto.","我想事情不會外傳。","","아마, 표면화도 안 될 거라고 생각해요","Sie werden es also unter den Teppich kehren."
+"6","3003","","Per il momento, torniamo all'agenzia.","總之，先回偵探事務所吧！","","…그럼, 탐정사무소로 돌아가죠","Lass uns ins Detektivbüro zurückkehren."

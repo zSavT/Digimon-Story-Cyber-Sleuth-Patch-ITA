@@ -1,110 +1,115 @@
-ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
-1,3006,,Come vanno le cose?,還順利嗎？,,…진행 상황은 어떤가?,Wie läuft es?
-2,3006,,Credo che il mio assistente fosse nel bel mezzo di un'operazione quando ho notato l'interruzione del collegamento.,"目前我助手的通訊位址消失，
-就代表他正在進行作戰行動吧？",,"통신처가 소실된 걸 보아하니, 조수는
+﻿"ID","Speaker","Japanese","English","Chinese","EnglishCensored","Korean","German"
+"1","3006","","Come vanno le cose?","還順利嗎？","","…진행 상황은 어떤가?","Wie läuft es?"
+"2","3006","","Penso che il mio assistente fosse nel bel mezzo di
+un'operazione, quando ho notato la disconnessione.","目前我助手的通訊位址消失，
+就代表他正在進行作戰行動吧？","","통신처가 소실된 걸 보아하니, 조수는
 작전행동중인 것 같다만","Mein Hilfsdetektiv war gerade mit etwas
 beschäftigt, als die Verbindung abgebrochen ist."
-3,3003,,"Sì. Qui non c'è niente di strano.
-Tutto sta ancora andando secondo i piani.","是的……完全沒有引起騷動，
-目前還算順利……",,"네… 소동도 일어나지 않았고
+"3","3003","","Sì. Qui non c'è niente di strano. Tutto sta
+ancora andando secondo i piani.","是的……完全沒有引起騷動，
+目前還算順利……","","네… 소동도 일어나지 않았고
 아직은 순조로운 것 같아요…","Ja. Hier gibt es nichts Ungewöhnliches.
 Noch läuft alles nach Plan."
-4,3006,,"Hmm.
-Sono delle abilità impressionanti.",嗯，幹得漂亮。,,"흐음, 꽤 솜씨가 좋군","Hm.
+"4","3006","","Hmm.
+Sono delle abilità impressionanti.","嗯，幹得漂亮。","","흐음, 꽤 솜씨가 좋군","Hm.
 Beeindruckendes Talent."
-5,3003,,Sì. Anch'io sono rimasto un po' sorpreso.,嗯嗯……我也有點驚訝……,,"예… 저도 조금, 놀랐어요…","Ja, ich war auch etwas überrascht."
-6,3003,,Per vedere quanto [p] sia diventato abile nell'usare programmi Digimon.,沒想到[p]居然能將數碼寶貝程式運用自如……,,"[p] 씨가, 이렇게까지 디지몬 프로그램을
+"5","3003","","Sì. Anch'io sono rimasto un po' sorpreso.","嗯嗯……我也有點驚訝……","","예… 저도 조금, 놀랐어요…","Ja, ich war auch etwas überrascht."
+"6","3003","","Nel vedere quanto [p] sia diventato
+abile nell'utilizzare i programmi Digimon.","沒想到[p]居然能將數碼寶貝程式運用自如……","","[p] 씨가, 이렇게까지 디지몬 프로그램을
 잘 다루고 있다니…","Wie problemlos [p] mittlerweile mit
 Digimon-Programmen umgehen kann."
-7,3006,,"No. Sto parlando di te, Yuuko Kamishiro.",不，這一切都要歸功於妳啊，神代悠子小姐。,,"아니― 네 얘기다, 카미시로 유코 씨","Nein. Ich rede von dir, Yuuko Kamishiro."
-8,3003,,...!,……！,,…!,...!
-9,3006,,"Il modo in cui hai organizzato il tour dell'ufficio, e
-il modo in cui hai risposto a tutto.
-Sei piuttosto bravo a improvvisare.","參觀公司的手續也好，
-妳處理任何事情都又快又正確。",,"사내 견학의 준비라고는 해도, 모든 일의 대응이
+"7","3006","","No. Sto parlando di te, Yuuko Kamishiro.","不，這一切都要歸功於妳啊，神代悠子小姐。","","아니― 네 얘기다, 카미시로 유코 씨","Nein. Ich rede von dir, Yuuko Kamishiro."
+"8","3003","","...!","……！","","…!","...!"
+"9","3006","","Il modo in cui hai organizzato il tour
+dell'ufficio, e il modo in cui hai risposto a tutto.
+Sei piuttosto brava a improvvisare.","參觀公司的手續也好，
+妳處理任何事情都又快又正確。","","사내 견학의 준비라고는 해도, 모든 일의 대응이
 정확하고 재빠르군","Wie du das mit der Führung arrangiert hast,
 und wie du seither auf alles reagierst.
 Du bist ein helles Köpfchen."
-10,3006,,"Direi che sei un veterano in questo genere di cose.
+"10","3006","","Possiamo dire tu sia una veterana in questo.
 Ma tu, esattamente, chi sei?","看起來……非常地熟練。
-妳到底是何方神聖？",,"상당히 익숙한… 것처럼 보이는군
+妳到底是何方神聖？","","상당히 익숙한… 것처럼 보이는군
 넌 대체, 누구지?","Fast so, als wärst du schon ein alter Hase in
 diesen Dingen. Wer bist du genau?"
-11,3003,,Non so cosa dire...,就……就算妳這麼說……,,"그, 그렇게 말씀하셔도…","Ich weiß nicht, was ich sagen soll ..."
-12,3003,,"Sono solo... io.
-Non so chi altro dovrei essere.","我……就是我……
-其他什麼都不是。",,"전… 저예요
+"11","3003","","Non so cosa dire...","就……就算妳這麼說……","","그, 그렇게 말씀하셔도…","Ich weiß nicht, was ich sagen soll ..."
+"12","3003","","Sono solo... io.
+Non so chi altri dovrei essere.","我……就是我……
+其他什麼都不是。","","전… 저예요
 다른 그 누구도 아니에요","Ich bin ... ich.
 Ich wüsste nicht, wer ich sonst sein sollte."
-13,3006,,Mmm...,嗯……,,흐음……,Hm ...
-14,3006,,Eh?!,嗯？,,……응?,Huch?!
-15,3003,,C'era qualcos'altro?,又怎麼了嗎？,,"또, 뭔가 있으신가요?",War noch etwas?
-16,3006,,Oh no! Siamo stati scoperti!,啊！這是……被擺了一道！,,호오…! 이거… 당했군,Auweia! Man hat uns erwischt!
-17,3003,,...?,……？,,……?,...?
-18,3003,,C-Cos'era quello di poco fa?,！？　剛、剛才那是……？,,"!? 바, 방금 그건…!?",W-Was war das denn gerade?
-19,3006,,"Potremmo essere nei guai.
-Sembra che la nostra conversazione sia origliata.","事情不好了，
-我們的對話似乎被竊聽了。",,"…위험한 상황이 될 것 같군
+"13","3006","","Mmm...","嗯……","","흐음……","Hm ..."
+"14","3006","","Eh?!","嗯？","","……응?","Huch?!"
+"15","3003","","Volevi dirmi altro?","又怎麼了嗎？","","또, 뭔가 있으신가요?","War noch etwas?"
+"16","3006","","Oh no! Siamo stati scoperti!","啊！這是……被擺了一道！","","호오…! 이거… 당했군","Auweia! Man hat uns erwischt!"
+"17","3003","","...?","……？","","……?","...?"
+"18","3003","","Cos'era quella cosa di poco fa?","！？　剛、剛才那是……？","","!? 바, 방금 그건…!?","W-Was war das denn gerade?"
+"19","3006","","Forse siamo nei guai.
+Ci stavano ascoltando.","事情不好了，
+我們的對話似乎被竊聽了。","","…위험한 상황이 될 것 같군
 아무래도, 우리들의 대화가 도청되고 있는 것 같다","Könnte Ärger bedeuten.
 Da lauscht wohl jemand unserer Unterhaltung."
-20,3003,,Cosa?!,什……！？,,에…!?,Was?!
-21,3006,,"Con ogni probabilità, qualcuno ha piazzato un programma di intercettazione
-sul tuo Digivice nel mondo reale.","可能是妳在現實世界中的Digivice
-被安裝了竊聽程式。",,"아마, 현실 세계의 네 디지바이스에
+"20","3003","","Cosa?!","什……！？","","에…!?","Was?!"
+"21","3006","","Probabilmente, qualcuno ha piazzato un pogramma
+di intercettazione nel tuo Digivice nel mondo reale.","可能是妳在現實世界中的Digivice
+被安裝了竊聽程式。","","아마, 현실 세계의 네 디지바이스에
 도청 프로그램이 설치되어 있는 거겠지","Wahrscheinlich hat jemand deinem Digivice in
 der echten Welt ein Wanzenprogramm verpasst."
-22,3006,,"Avrei dovuto accorgermene prima. Ci vuole una certa
-abilità per manipolare una frequenza così specifica.","我應該早點發現……
-這種手法相當巧妙，使用了「特殊」頻率。",,"좀 더 빨리 눈치챘어야 했나…
+"22","3006","","Me ne sarei dovuta accorgere. Ci vuole esperienza
+per manipolare una frequenza così
+specifica.","我應該早點發現……
+這種手法相當巧妙，使用了「特殊」頻率。","","좀 더 빨리 눈치챘어야 했나…
 특수한 주파수대를 사용한 꽤나 교묘한 ""세공""이다","Ich hätte es früher bemerken sollen. Exakt
 diese Frequenz vorzutäuschen, erfordert viel
 Geschick."
-23,3006,,"Hmph. Chiunque stia facendo questo, se ne intende.",哼……對手很行嘛！,,훗… 상대는 꽤나 수완가로군,"Hmpf. Wer es auch ist, die Person kennt sich
+"23","3006","","Chiunque sia dietro tutto questo, se
+ne intende.","哼……對手很行嘛！","","훗… 상대는 꽤나 수완가로군","Hmpf. Wer es auch ist, die Person kennt sich
 jedenfalls aus."
-24,3003,,Ascoltare di nascosto? Ma questo significa...,竊、竊聽……怎麼會……,,"도, 도청… 그, 그럴 수가……",Jemand lauscht? Aber das bedeutet ...
-25,3006,,"Sì. Mi dispiace doverlo dire, ma devi
-ritirarti da lì SUBITO. Consideralo una sorta di
+"24","3003","","Origliare? Ma questo vuol dire che...","竊、竊聽……怎麼會……","","도, 도청… 그, 그럴 수가……","Jemand lauscht? Aber das bedeutet ..."
+"25","3006","","Sì. Mi dispiace dirlo, ma te ne devi andare
+IMMEDIATAMENTE. Considerala come una
 valorosa ritirata.","嗯……雖然不太情願，但還是提早撤退吧！
-這就是所謂撤退的勇氣。",,"음… 바라던 바가 아니지만, 서둘러 물러나도록 하겠어
+這就是所謂撤退的勇氣。","","음… 바라던 바가 아니지만, 서둘러 물러나도록 하겠어
 용기 있는 후퇴, 라는 거다","Ja. Ich sage das nur ungern, aber ihr müsst da
 schleunigst raus. Sieh es als eine Art
 heldenhaften Rückzug."
-26,3006,,"Chi va piano va sano e va lontano. Questo lavoro
-richiede un carattere paziente e diligente.","欲速則不達……這種作戰的基本精神，
-就是不能急，要一步一步慢慢來。",,"급하면 돌아서 가는 법… 이런 종류의 작전은
+"26","3006","","Chi va piano va sano e va lontano.
+Questo lavoro richiede un carattere
+paziente e diligente.","欲速則不達……這種作戰的基本精神，
+就是不能急，要一步一步慢慢來。","","급하면 돌아서 가는 법… 이런 종류의 작전은
 착실하고 초조해하지 않는걸 기본으로 삼아야 할 정신이다","Die Schildkröte schlägt den Hasen.
 In diesem Metier muss man geduldig und
 sorgfältig sein."
-27,3003,,Ma [p] è ancora dentro!,可、可是那個人還在裡面……！,,"하, 하지만, 아직 그 사람이 안에…!?",Aber [p] ist noch nicht zurück!
-28,3006,,"Sì.
-Dubito che sarà facile ottenere l'ordine di ""annullare la missione"".","嗯……
-要通知他作戰中止似乎有難度。",,"…음
+"27","3003","","Ma [p] è ancora dentro!","可、可是那個人還在裡面……！","","하, 하지만, 아직 그 사람이 안에…!?","Aber [p] ist noch nicht zurück!"
+"28","3006","","Sì. Dubito anche che sarà difficile
+dirgli di ""annullare la missione"".","嗯……
+要通知他作戰中止似乎有難度。","","…음
 작전의 중지를 전하는 건 어려울 것 같군","Ja.
 Es wird nicht einfach sein, den Rückzugsbefehl
 durchzugeben."
-29,3006,,"Ma [p] è il mio assistente,
-e dovrebbe essere in grado di capire qualcosa.","不過他是我的助手，
-一定會自己想辦法的。",,"뭘, 내 조수다
+"29","3006","","Ma [p] è il mio assistente, e dovrebbe
+essere in grado di capire.","不過他是我的助手，
+一定會自己想辦法的。","","뭘, 내 조수다
 스스로 어떻게든 할 거다","Aber als mein Hilfsdetektiv wird [p]
 sich schon etwas einfallen lassen."
-30,3003,,Ma questo è...,怎、怎麼這樣～！？,,"그, 그런―!?",Aber das ist ...
-31,3006,,Non sei nella posizione di preoccuparti di nessun altro al momento. Sbrigati e vattene da lì.,"妳沒有時間擔心別人，
-妳也快點離開這裡吧！",,"다른 사람 걱정을 할 때가 아니다
+"30","3003","","Ma questo è...","怎、怎麼這樣～！？","","그, 그런―!?","Aber das ist ..."
+"31","3006","","Al momento non sei nella posizione per
+preoccuparti. Vattene subito da lì.","妳沒有時間擔心別人，
+妳也快點離開這裡吧！","","다른 사람 걱정을 할 때가 아니다
 너도 급히 자리를 뜨도록","Du solltest dir über andere gerade nicht den
 Kopf zerbrechen. Beeil dich und verschwinde da."
-32,3003,,!,……！,,……!,!
-33,3006,,"Aspetterò che qualsiasi cosa abbia causato il
-piccolo atto di sparizione del mio assistente svanisca.",我會繼續等，直到我助手的“透明人化”失效。,,"난 조수의 ""투명인간화"" 효과가 사라지는 걸 기다리겠다","Ich warte, bis der Hokuspokus Verschwindibus
+"32","3003","","!","……！","","……!","!"
+"33","3006","","Aspetterò che qualsiasi cosa abbia causato
+la sparizione del mio assistente se ne vada.","我會繼續等，直到我助手的“透明人化”失效。","","난 조수의 ""투명인간화"" 효과가 사라지는 걸 기다리겠다","Ich warte, bis der Hokuspokus Verschwindibus
 meines Hilfsdetektivs wieder aufhört."
-34,3006,,"Mentre te ne vai, dovrebbe essere possibile coprire
-le tue tracce e impiegare un po' di depistaggio dall'
-esterno.","逃脫時，
-從外面也有辦法消去足跡，矇混過去……",,"탈출 시, 발자취를 없애거나 속이는 것 정도는
+"34","3006","","Mentre ne te vai, copri le tue tracce e impiega
+un po' di depistaggio dall'esterno.","逃脫時，
+從外面也有辦法消去足跡，矇混過去……","","탈출 시, 발자취를 없애거나 속이는 것 정도는
 밖에서도 가능하겠지…","Verwischen wir deine Spuren auf deinem Rückweg
 und sorgen für Ablenkung von außen."
-35,3006,,"È troppo rischioso continuare questa conversazione.
-Sto per interrompere la linea.","總之，繼續對話下去的話會有危險……
-我先切斷了。",,"어쨌든, 이 이상 대화하는 건 위험하다
+"35","3006","","È troppo pericoloso continuare a parlare. Sto
+per terminare la conversazione.","總之，繼續對話下去的話會有危險……
+我先切斷了。","","어쨌든, 이 이상 대화하는 건 위험하다
 …이만 통신을 끊겠다","Dieses Gespräch ist zu riskant.
 Ich lege jetzt auf."
-36,3003,,...,…………,,…………,...
+"36","3003","","...","…………","","…………","..."

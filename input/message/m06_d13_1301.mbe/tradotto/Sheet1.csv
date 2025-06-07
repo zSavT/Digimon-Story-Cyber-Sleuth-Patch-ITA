@@ -1,44 +1,50 @@
-ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
-1,4113,,...,……………,,……………,...
-2,2000,,È quel tipo strano. Devono aver preso anche lui!,是噁心男……他也被犯人綁架來了嗎？,,극혐남이다… 저 사람도 범인에게 유괴된 걸까?,"Da ist dieser komische Typ. Den haben sie sich
+﻿"ID","Speaker","Japanese","English","Chinese","EnglishCensored","Korean","German"
+"1","4113","","...","……………","","……………","..."
+"2","2000","","È quel tipo strano. Anche lui dev'essere
+stato preso!","是噁心男……他也被犯人綁架來了嗎？","","극혐남이다… 저 사람도 범인에게 유괴된 걸까?","Da ist dieser komische Typ. Den haben sie sich
 auch geholt!"
-3,3004,,"Sì, chi è questo tipo? Lo conosci? Non è un membro del forum Comimani e non era sulla lista.","嗯……？你認識這個男人嗎？
-他不是漫畫狂熱廣場的成員，也沒在名單上。",,"…어, 누구야 이 녀석, 아는 녀석이야?
+"3","3004","","Sì, chi è questo? Lo conosci? Non è
+un membro di Comimani e non era sulla
+lista.","嗯……？你認識這個男人嗎？
+他不是漫畫狂熱廣場的成員，也沒在名單上。","","…어, 누구야 이 녀석, 아는 녀석이야?
 코믹마니의 멤버도 아니고, 리스트에도 없었지?","Ja, wer ist das denn? Kennst du den? Der ist nicht
 Mitglied bei Comimani und stand nicht auf
 der Liste."
-4,3004,,"Ma non è un po' duro chiamarlo ""lo
-strano"" in quel modo?",而且你叫他噁心男……不會太過分了點嗎？,,"그보다, 극혐남이라니… 너무 심한 거 아니야?","Aber das ist ja nicht gerade nett, ihn einfach
+"4","3004","","Ma non è carino chiamarlo semplicemente
+""quel tipo strano"".","而且你叫他噁心男……不會太過分了點嗎？","","그보다, 극혐남이라니… 너무 심한 거 아니야?","Aber das ist ja nicht gerade nett, ihn einfach
 „den komischen Typen“ zu nennen."
-5,2000,,...,………,,………,...
-6,2000,,"Perché la stava pedinando!
+"5","2000","","...","………","","………","..."
+"6","2000","","Perché la pedinava!
 Pensava fosse la fioraia!","因為他跟蹤大姊姊！！
-因為他幻想大姊姊是花店店員！！",,"누님을 스토킹하고 있었으니까!!
+因為他幻想大姊姊是花店店員！！","","누님을 스토킹하고 있었으니까!!
 누님을 꽃집 점원이라고 망상하고 있었으니까!!","Weil er sie gestalkt hat!
 Er dachte, sie wäre die Blumenhändlerin!"
-7,3004,,Cosa? Di cosa stai parlando?,什麼？你在說什麼啊？,,하? 뭐야 그게?,Was? Wovon redest du denn?
-8,3004,,"Non lo capisco bene, ma non ha niente a che fare
-con il manga che è stato caricato sul sito.","我也搞不太清楚，
-但這傢伙也不一定……",,"…잘 모르겠지만, 이 녀석은
+"7","3004","","Cosa? Di cosa stai parlando?","什麼？你在說什麼啊？","","하? 뭐야 그게?","Was? Wovon redest du denn?"
+"8","3004","","Non capisco, ma non ha niente a che fare con
+il manga che è stato caricato.","我也搞不太清楚，
+但這傢伙也不一定……","","…잘 모르겠지만, 이 녀석은
 사이트에 올라온 만화와는 무관계―","Verstehe ich nicht, aber hat auch nichts mit
 dem Manga zu tun, das hochgeladen wurde."
-9,3004,,Ma questo potrebbe non bastare. Solo perché non è un membro del forum non è una prova di niente.,"和上傳到網站上的漫畫無關……
-不是漫畫狂熱廣場的成員，並不能證明什麼。",,"라고는, 단정 지을 수 없겠지…
+"9","3004","","Ma questo potrebbe non bastare. Il fatto che non
+sia un membro del forum non prova nulla.","和上傳到網站上的漫畫無關……
+不是漫畫狂熱廣場的成員，並不能證明什麼。","","라고는, 단정 지을 수 없겠지…
 코믹마니의 멤버가 아니라는 것만으로는 증명이 안 되니까","Aber das reicht nicht unbedingt. Dass er kein
 Forumsmitglied ist, beweist noch nichts."
-10,2000,,...?,……？,,……?,...?
-11,3004,,Come faccio a sapere che non è un membro?,你問我為什麼知道他不是成員？,,…어째서 멤버가 아닌지 아는 거냐… 고?,"Woher ich weiß, dass er kein Mitglied ist?"
-12,3004,,"Beh, lui è... Non lo so...
-C'è solo... qualcosa in lui.","因為……這個……
-他給人的感覺吧……",,"그건, 뭐… 그거야
+"10","2000","","...?","……？","","……?","...?"
+"11","3004","","Come faccio a sapere che non è un membro?","你問我為什麼知道他不是成員？","","…어째서 멤버가 아닌지 아는 거냐… 고?","Woher ich weiß, dass er kein Mitglied ist?"
+"12","3004","","Ehm, perché lui... Non so...
+Semplicemente... ha qualcosa.","因為……這個……
+他給人的感覺吧……","","그건, 뭐… 그거야
 분위기… 일까…","Ähm, weil er ... Weiß auch nicht ...
 Er hat einfach ... etwas an sich."
-13,3004,,"Non sembra proprio un membro del forum Comimani, sai?","你看……他是個噁心男，
-感覺很不漫畫狂熱廣場？",,"그 있잖아… 이 녀석, 극혐남이잖아?
+"13","3004","","Non sembra proprio un membro dei 
+Comimani, capisci?","你看……他是個噁心男，
+感覺很不漫畫狂熱廣場？","","그 있잖아… 이 녀석, 극혐남이잖아?
 코믹마니의 멤버란 느낌이 아니라고 할까?","Er sieht einfach nicht wie ein Comimani-Mitglied
 aus, verstehst du?"
-14,2000,,...?,……？？,,……??,...?
-15,3004,,"Quindi, tipo... cosa pensi che sia?",話說回來……你覺得那是什麼……？,,"그, 그런데 있잖아… 뭐라고 생각해, 저거…?","So, hm ... Was meinst du, was das ist?"
-16,3004,,Non l'ho mai visto prima. Vuoi andare a controllare?,我第一次看到……調查看看吧！,,처음 보는걸… 조사해 볼까?,"Das habe ich noch nie gesehen. Wollen wir mal
+"14","2000","","...?","……？？","","……??","...?"
+"15","3004","","Quindi, hm... Cosa pensi che sia?","話說回來……你覺得那是什麼……？","","그, 그런데 있잖아… 뭐라고 생각해, 저거…?","So, hm ... Was meinst du, was das ist?"
+"16","3004","","Non ho mai visto niente del genere.
+Diamo un'occhiata?","我第一次看到……調查看看吧！","","처음 보는걸… 조사해 볼까?","Das habe ich noch nie gesehen. Wollen wir mal
 schauen?"
-17,2000,,...,………,,………,...
+"17","2000","","...","………","","………","..."

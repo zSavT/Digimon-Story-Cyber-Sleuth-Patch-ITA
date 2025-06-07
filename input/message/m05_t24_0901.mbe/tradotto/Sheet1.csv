@@ -1,153 +1,156 @@
-ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
-1,4285,,"Cavolo, tratta anche le persone come spazzatura.",真是的，那傢伙真會使喚人！,,"―정말이지, 그 녀석도 사람 참 거칠게 다룬다니깐~","Oh Mann, der behandelt Leute auch wie Dreck."
-2,4286,,"Ehi, smettila!",喂！不要說了！,,"야, 그만해!","He, lass das!"
-3,4287,,Uffa... C'è davvero un motivo per cui siamo di guardia?,"嘖……
-在這邊監視真的有意義嗎？",,"칫…
+﻿"ID","Speaker","Japanese","English","Chinese","EnglishCensored","Korean","German"
+"1","4285","","Caspita, tratta anche le persone come immondizia.","真是的，那傢伙真會使喚人！","","―정말이지, 그 녀석도 사람 참 거칠게 다룬다니깐~","Oh Mann, der behandelt Leute auch wie Dreck."
+"2","4286","","Ehi, smettila!","喂！不要說了！","","야, 그만해!","He, lass das!"
+"3","4287","","Uffa... Ma perché dobbiamo essere di guardia?","嘖……
+在這邊監視真的有意義嗎？","","칫…
 그보다, 의미 있는 거냐고, 망보기라니","Gibt es überhaupt einen Grund, warum wir hier
 Wache schieben müssen?"
-4,4285,,"Lo so, vero? Le misure di sicurezza di Kamishiro sono
-di prim'ordine. Nessuno le supera così facilmente.","就是說啊！要突破神代企業這間大公司的防盜裝置，
-哪有這麼容易。",,"그렇지? 천하의 카미시로 님의 보안이
+"4","4285","","Chi lo sa? Le misure di sicurezza di Kamishiro sono
+di prim'ordine. Nessuno le può superare così facilmente.","就是說啊！要突破神代企業這間大公司的防盜裝置，
+哪有這麼容易。","","그렇지? 천하의 카미시로 님의 보안이
 그렇게 간단히 뚫릴 리 없잖아","Echt mal. Die Sicherheit von Kamishiro ist erste
 Sahne. Da kommt so leicht keiner durch."
-5,4285,,Di cosa hai tanta paura?,太膽小啦！,,너무 쫄았다니깐!,Was machst du dir dann ins Hemd?
-6,2000,,...,………,,………,...
-7,2000,,Oh no! Sento arrivare uno starnuto elettrico!,糟糕……我快要打出「電氣噴嚏」來了！,,!? …이런!「전기 재채기」가 나올 것 같아…!?,"Oh nein! Es bahnt sich ein elektronischer Nieser
+"5","4285","","Di cosa hai paura?","太膽小啦！","","너무 쫄았다니깐!","Was machst du dir dann ins Hemd?"
+"6","2000","","...","………","","………","..."
+"7","2000","","Oh no! Sto per fare uno starnuto elettrico!","糟糕……我快要打出「電氣噴嚏」來了！","","!? …이런!「전기 재채기」가 나올 것 같아…!?","Oh nein! Es bahnt sich ein elektronischer Nieser
 an!"
-8,2000,,"Dovrei spiegare cos'è! È un
-fenomeno fisiologico che il corpo digitale
-sperimenta durante un'immersione nel Mondo Digitale.","說明一下，「電氣噴嚏」就是指，
-電腦體才會有的生理現象，發生於潛入電腦世界時！",,"…설명하지,「전기 재채기」란!
+"8","2000","","Spiegherò cos'è! Si tratta di un fenomeno
+fisiologico che il corpo digitale sperimenta durante
+un'immersione nel Mondo Digitale.","說明一下，「電氣噴嚏」就是指，
+電腦體才會有的生理現象，發生於潛入電腦世界時！","","…설명하지,「전기 재채기」란!
 전뇌세계에 다이브한 도중에 일어나는 전뇌체 특유의 생리현상이다!","Ich sollte erklären, was das ist! Es handelt
 sich um eine physiologische Reaktion, die im
 digitalen Körper auftreten kann."
-9,2000,,"Essenzialmente, non c'è differenza tra quello
-e uno starnuto nel mondo reale!",性質與現實世界的噴嚏沒什麼兩樣！,,그 성질은 현실 세계의 재채기와 전혀 다를 게 없다!,"Im Prinzip ist es genau das Gleiche wie ein
+"9","2000","","Non c'è praticamente nessuna differenza da questo
+e quello nel mondo reale!","性質與現實世界的噴嚏沒什麼兩樣！","","그 성질은 현실 세계의 재채기와 전혀 다를 게 없다!","Im Prinzip ist es genau das Gleiche wie ein
 Nieser in der echten Welt!"
-10,2000,,"È solo uno starnuto, ma è un tipo di movimento involontario
-che il tuo corpo non può trattenere!",總而言之，就是「噴嚏」這種無法自我控制的非隨意運動。,,"즉「재채기」또는「분체」이며
+"10","2000","","È solo uno starnuto, ma è un movimento che il
+corpo non riesce a trattenere.","總而言之，就是「噴嚏」這種無法自我控制的非隨意運動。","","즉「재채기」또는「분체」이며
 스스로 제어할 수 없는 불수의운동의 한 종류이다!","Nur ein Nieser, aber eben eine unwillkürliche
 Reaktion, die der Körper nicht unterdrücken kann!"
-11,2000,,E ora non è il momento per uno!,現在不是說明的時候吧！？,,"…아니, 이럴 때가 아닌데!?","Und jetzt ist absolut nicht der richtige Zeitpunkt
+"11","2000","","E ora non è il momento per farne uno!","現在不是說明的時候吧！？","","…아니, 이럴 때가 아닌데!?","Und jetzt ist absolut nicht der richtige Zeitpunkt
 dafür!"
-12,4285,,Che seccatura. Ma che seccatura!,麻煩死了～啊～麻煩死了啦～！,,"귀찮아~ 아~, 귀찮아~!",Wie nervig. Wie absolut nervig!
-13,4286,,"Ti ho detto di smetterla! È qui che
-stanno combinando guai. Sono sicuro di averlo sentito da qualche parte.","不是叫你不要再講了嗎？這裡等於那群人的肚子裡。
-搞不好有人在偷聽呢！？",,"그만하라고 했잖아!? 여긴 그 녀석들의 배 속이라고!?
+"12","4285","","Che seccatura. Davvero!","麻煩死了～啊～麻煩死了啦～！","","귀찮아~ 아~, 귀찮아~!","Wie nervig. Wie absolut nervig!"
+"13","4286","","Smettila! È qui che stanno arrivando i problemi.
+Sono sicuro di averlo sentito da qualche
+parte.","不是叫你不要再講了嗎？這裡等於那群人的肚子裡。
+搞不好有人在偷聽呢！？","","그만하라고 했잖아!? 여긴 그 녀석들의 배 속이라고!?
 어디서 듣고 있을지 모른다고!?","Ich habe doch gesagt, du sollst das lassen. Hier
 schnüffeln sie rum. Bin ziemlich sicher, dass
 ich das irgendwo gehört habe."
-14,2000,,Ahhh... Ahh...!,………………！！,,……~~~―――으!!,"Haa ..., haa ...!"
-15,2000,,"Acciù!
+"14","2000","","Ahhh... Ahh...!","………………！！","","……~~~―――으!!","Haa ..., haa ...!"
+"15","2000","","Acciù!
 Etciù!
 Ah-etciù!","哈啾！！
 哈、啾……！
-哈～啾☆",,"푸엣취이이!!
+哈～啾☆","","푸엣취이이!!
 …에, 취!
 에취♡","Hatschi!
 Hatschöö!
 Hatschühassa!"
-16,4286,,"Sì, qualcosa apparirebbe improvvisamente tipo...--",對對對，就會像這樣突然冒出來……,,"맞아맞아, 이렇게 갑자기 나타난다던가―","Ja, plötzlich taucht einfach was auf,
+"16","4286","","Sì, potrebbe apparire qualsiasi cosa all'improvviso,
+tipo...","對對對，就會像這樣突然冒出來……","","맞아맞아, 이렇게 갑자기 나타난다던가―","Ja, plötzlich taucht einfach was auf,
 wie ..."
-17,4286,,Ma che diavolo?!,嗯？,,"………어, 어?",Was zum Geier?!
-18,4287,,Tu?! Da dove sei sbucato?!,你……！？　是從哪裡冒出來的？,,네… 네놈!? 어디서 튀어 나온 거야!?,Du?! Wo kommst du denn her?!
-19,4285,,"Ma chi diavolo sei?!
-Sei davvero riuscito a intrufolarti?!","這、這傢伙是誰！？
-難道真的是入侵者！？",,"뭐, 뭐야 이 녀석!?
+"17","4286","","Ma che diavolo?!","嗯？","","………어, 어?","Was zum Geier?!"
+"18","4287","","Tu?! Da dove sei sbucato?!","你……！？　是從哪裡冒出來的？","","네… 네놈!? 어디서 튀어 나온 거야!?","Du?! Wo kommst du denn her?!"
+"19","4285","","E tu chi diavolo sei!? Come hai fatto
+a intrufolarti qui!?","這、這傢伙是誰！？
+難道真的是入侵者！？","","뭐, 뭐야 이 녀석!?
 진짜 침입자!?","Wer bist du?!
 Du bist tatsächlich eingebrochen?!"
-20,4286,,"Ma questo... Stiamo parlando di Kamishiro!
-Ma tu chi diavolo sei?","這裡可是……天下無敵的神代企業耶！
-你到底是什麼人……？",,"여기… 천하의 카미시로 님이라고?
+"20","4286","","Cioè... Parliamo della Kamishiro...!
+Tu chi diavolo sei?","這裡可是……天下無敵的神代企業耶！
+你到底是什麼人……？","","여기… 천하의 카미시로 님이라고?
 뭐하는 놈이냐, 너…","Aber ... wir sind hier bei Kamishiro!
 Wer zum Henker bist du?"
-21,4287,,"Quindi, tipo, cosa facciamo con questo sfigato?",是說……我們該怎麼處理這傢伙？,,"그보다, 이 녀석… 어떻게 하지?","So, was machen wir jetzt mit diesem Möchtegern?"
-22,4285,,"Cosa faremo? Quello che ci è stato ordinato
-di fare! Occupiamoci dell'intruso!","那當然是……
-解決掉他啊～這是命令嘛！",,"어떻게 하냐니, 그야~…
+"21","4287","","Quindi, che facciamo con questo sfigato?","是說……我們該怎麼處理這傢伙？","","그보다, 이 녀석… 어떻게 하지?","So, was machen wir jetzt mit diesem Möchtegern?"
+"22","4285","","Cosa facciamo? Quello che ci hanno ordinato!
+Occupiamoci di lui!","那當然是……
+解決掉他啊～這是命令嘛！","","어떻게 하냐니, 그야~…
 처리할 수밖에 없잖아~, 명령이니까","Was wir machen? Genau das, was man uns gesagt
 hat! Den Eindringling ausschalten!"
-23,4277,,Ehi tu. Cosa ci fai qui?,你們……在這裡做什麼……！,,"너희들… 여기서, 뭘 하는 거지…!",Hallo. Was tut ihr denn hier?
-24,4285,,Oh cavolo! Yuugo?!,啊……YUGO！？,,"켁, 유, 유고!?",Verflixt! Yuugo?!
-25,4286,,Ma che diavolo ci fa Yuugo qui?!,為什麼YUGO會在這裡！？,,"어, 어째서 유고가 이런 곳에!?",Was zum Teufel macht Yuugo denn hier?!
-26,4287,,Ma che ne so io?!,嘖……我哪知道啊……！,,칫… 내가 알겠냐…!,Wie zum Teufel soll ich das wissen?!
-27,3001,,"Hai dei falsi tesserini da dipendente della Kamishiro o...?
-No, ti sono stati concessi dei privilegi di accesso, giusto?","你們……偽裝神代員工的ID……
-不對，是他們給了你們權限？",,"너희들… 카미시로의 회원 ID로 위장하고 있는 건가…
+"23","4277","","Ehi tu. Cosa ci fai qui?","你們……在這裡做什麼……！","","너희들… 여기서, 뭘 하는 거지…!","Hallo. Was tut ihr denn hier?"
+"24","4285","","Oh cavolo! Yuugo?!","啊……YUGO！？","","켁, 유, 유고!?","Verflixt! Yuugo?!"
+"25","4286","","Ma che diavolo ci fa Yuugo qui?!","為什麼YUGO會在這裡！？","","어, 어째서 유고가 이런 곳에!?","Was zum Teufel macht Yuugo denn hier?!"
+"26","4287","","Ma che ne so io?!","嘖……我哪知道啊……！","","칫… 내가 알겠냐…!","Wie zum Teufel soll ich das wissen?!"
+"27","3001","","Hai dei falsi tesserini da dipendente
+della Kamishiro o...? No, ti sono stati
+concessi dei privilegi di accesso, giusto?","你們……偽裝神代員工的ID……
+不對，是他們給了你們權限？","","너희들… 카미시로의 회원 ID로 위장하고 있는 건가…
 아니, 권한이 부여되어 있… 다고?","Habt ihr gefälschte Mitarbeiterprofile von
 Kamishiro, oder ...? Nein, ihr habt
 Zugangsberechtigungen erhalten, stimmt’s?"
-28,3001,,Qualcuno della Kamishiro ti ha assunto?,是神代的人找你們來的……？,,"카미시로의 인간이, 불러 들인 건가…?",Jemand bei Kamishiro hat euch angeheuert?
-29,3001,,Chi è stato? Chi ti ha portato qui?,是誰？到底是誰找你們來這裡……？,,"…누구지? 누가, 너희들을 이곳에…?",Wer war es? Wer hat euch hergebracht?
-30,4286,,"E-Ehi, tipo, chi lo sa, no?",你說呢……！,,"그, 글쎄, 그렇지…?","H-Hey, wie sollen wir das noch wissen?"
-31,4285,,Non dobbiamo certo rendere conto a te!,我們有義務回答你嗎～？,,"대, 대답할 의무라던가~… 우리들에게 있을까요~?",Du hast uns gar nichts zu sagen!
-32,4287,,"Ehm, davvero?",就是啊！,,"그, 그렇지―?",Oder?
-33,3001,,...,…………,,…………,...
-34,3001,,Intendi disonorare il nome degli Zaxon?,你們想要毀了Zaxon的名聲嗎？,,…잭슨의 긍지를 더럽히겠다는 건가,Ihr wollt also den Namen Zaxon beschämen?
-35,4973,,Yo!,噫……！？,,힉…!?,Aaah!
-36,3010,,Yuuuuuuhuuuuuu!!!,呀呼—————！！,,히―――햐앗하―――――!!,Juuuhuuu!!!
-37,3001,,...!,……！,,…!,...!
-38,2000,,?,……！？,,…!?,?
-39,3010,,"Ciao a tutti!
+"28","3001","","Qualcuno della Kamishiro ti ha assunto?","是神代的人找你們來的……？","","카미시로의 인간이, 불러 들인 건가…?","Jemand bei Kamishiro hat euch angeheuert?"
+"29","3001","","Chi è stato? Chi ti ha portato qui?","是誰？到底是誰找你們來這裡……？","","…누구지? 누가, 너희들을 이곳에…?","Wer war es? Wer hat euch hergebracht?"
+"30","4286","","E-Ehi, chi lo sa, no?","你說呢……！","","그, 글쎄, 그렇지…?","H-Hey, wie sollen wir das noch wissen?"
+"31","4285","","Non dobbiamo certo rendere conto a te!","我們有義務回答你嗎～？","","대, 대답할 의무라던가~… 우리들에게 있을까요~?","Du hast uns gar nichts zu sagen!"
+"32","4287","","Ehm, davvero?","就是啊！","","그, 그렇지―?","Oder?"
+"33","3001","","...","…………","","…………","..."
+"34","3001","","Intendi disonorare il nome degli Zaxon?","你們想要毀了Zaxon的名聲嗎？","","…잭슨의 긍지를 더럽히겠다는 건가","Ihr wollt also den Namen Zaxon beschämen?"
+"35","4973","","Yo!","噫……！？","","힉…!?","Aaah!"
+"36","3010","","Yuuuuuuhuuuuuu!!!","呀呼—————！！","","히―――햐앗하―――――!!","Juuuhuuu!!!"
+"37","3001","","...!","……！","","…!","...!"
+"38","2000","","?","……！？","","…!?","?"
+"39","3010","","Ciao a tutti!
 Sono arrivati tutti. Ahahah.","哈囉！
-大家都聚在一起嗎？",,"안녕하심~~~까!
+大家都聚在一起嗎？","","안녕하심~~~까!
 모두, 모여 계시네요~~ㅋㅋㅋ","Was geht ab?
 Sind ja alle da. Lolz."
-40,4973,,"È proprio lui! Jimiken e la sua Air Guitar per
-Far Impazzire i Demoni!","出、出現了～～！
-吉米肯先生“連惡魔也陶醉的空氣吉他＂！",,"나, 나왔다~~! 지미켄 씨의
+"40","4973","","È proprio lui! Jimiken e la sua Air Guitar, che
+fa Impazzire i demoni!","出、出現了～～！
+吉米肯先生“連惡魔也陶醉的空氣吉他＂！","","나, 나왔다~~! 지미켄 씨의
 ""악마도 넋을 잃는 에어 에어기타""!","Er ist es wirklich! Jimiken und seine Luftgitarre,
 welche alle Demons ausflippen lässt!"
-41,3010,,"Sì! Sono Jimiken!
+"41","3010","","Sì! Sono Jimiken!
 Yaaaa-hooooooooooo!!!","Yes～～I'm Jimmy Ken！
-呀～～～～～呼～～～～～～～～～～！",,"예~~~스, 아이 앰, 지미 켄!
+呀～～～～～呼～～～～～～～～～～！","","예~~~스, 아이 앰, 지미 켄!
 이야~~~~~앗호우~~~~~~~~~~!!","Jaha! Ich bin Jimiken!
 Juuuhuuu!!!"
-42,3001,,?,……！？,,…!?,?
-43,3010,,"Grazie mille, Yuugo. Lolz.",YUGO，你好啊，辛苦了。,,"…안녕하심까, 수고 많으십니다 유고 씨ㅋㅋㅋ","Danke auch, Yuugo. Lolz."
-44,3010,,"Che coincidenza incontrarti qui.
-Una coincidenza così che spacca! Ahahah.","我們居然會在這種地方遇到，真巧啊～
-巧到反而很Rock！",,"이~런 곳에서 만나다니 우연이네요~
+"42","3001","","?","……！？","","…!?","?"
+"43","3010","","Grazie mille, Yuugo. Lolz.","YUGO，你好啊，辛苦了。","","…안녕하심까, 수고 많으십니다 유고 씨ㅋㅋㅋ","Danke auch, Yuugo. Lolz."
+"44","3010","","Che coincidenza incontrarti qui. Una coincidenza
+che spacca i culi! Ahahaha.","我們居然會在這種地方遇到，真巧啊～
+巧到反而很Rock！","","이~런 곳에서 만나다니 우연이네요~
 너무 우연이라서, 오히려 록하네요~ㅋㅋㅋ","So ein Zufall, dass du hier bist.
 Der Zufall rockt! Lolz."
-45,3010,,Mi segui? / Capisci cosa intendo?,啊，懂我要表達什麼嗎？這種Feeling！,,"…아, 전해져? 이 필링","Kapierst du, was ich dir hier verklickern will?"
-46,3001,,"Sei coinvolto anche tu in questo?
-Cosa sta succedendo qui?",連你也在……這到底是怎麼回事……？,,"너까지… 대체, 어떻게 된 거지…?","Du bist auch involviert?
+"45","3010","","Capisci cosa intendo dire?","啊，懂我要表達什麼嗎？這種Feeling！","","…아, 전해져? 이 필링","Kapierst du, was ich dir hier verklickern will?"
+"46","3001","","Anche tu sei rimasto coinvolto?
+Che sta succedendo qui?","連你也在……這到底是怎麼回事……？","","너까지… 대체, 어떻게 된 거지…?","Du bist auch involviert?
 Was geht hier vor?"
-47,3010,,"Già, cosa infatti? Cosa potrebbe essere?
-Lasciami rigirare la stessa domanda a te!","怎麼回事～？究竟是怎麼回事？
-反過來說，你覺得是怎麼回事呢？",,"글쎄, 어떻게 된 걸까~? 어떻게 된 일일까?
+"47","3010","","Già, che sta succedendo? Cosa potrebbe
+significare? Lascia che ti rifaccia io la domanda.","怎麼回事～？究竟是怎麼回事？
+反過來說，你覺得是怎麼回事呢？","","글쎄, 어떻게 된 걸까~? 어떻게 된 일일까?
 역으로 어떻게 된 일이라고 생각하십니까?","Tja, was nur? Was könnte es nur sein?
 Die Frage geb ich dir doch gleich mal zurück!"
-48,3010,,"Quindi, tipo, perché?
-Perché sei qui? Lolz.","你覺得Why？
-你為什麼會在這裡呢？嘻嘻！",,"그보다~, 와이?
+"48","3010","","Quindi, allora, perché? Perché sei qui? Lolz.","你覺得Why？
+你為什麼會在這裡呢？嘻嘻！","","그보다~, 와이?
 당신은 왜 여기 있는 건데요?ㅋㅋㅋ","Also, na, was?
 Was machst du hier? Lolz."
-49,3010,,"Intendo dire, è questa la tua scusa? Lolz.",是說，他在這裡沒問題嗎？嘻嘻！,,"그보다~, 쟤는 괜찮은 겁니까?ㅋㅋㅋ",Soll heißen: Was ist denn deine Ausrede? Lolz.
-50,2000,,!!!,……！！,,…!!,!!!
-51,3001,,...,…………,,…………,...
-52,3010,,"AH AH AH. Il gatto ti ha mangiato la lingua?
+"49","3010","","Voglio dire, che scuse hai? Lolz.","是說，他在這裡沒問題嗎？嘻嘻！","","그보다~, 쟤는 괜찮은 겁니까?ㅋㅋㅋ","Soll heißen: Was ist denn deine Ausrede? Lolz."
+"50","2000","","!!!","……！！","","…!!","!!!"
+"51","3001","","...","…………","","…………","..."
+"52","3010","","AH AH AH. Il gatto ti ha mangiato la lingua?
 Capisco. Ah ah ah. Sì, ha senso. AH AH AH AH AH","噗哈哈！默不作聲嗎？
-是喔？我想也是！",,"푸흡ㅋㅋㅋ 침묵입니까ㅋㅋㅋ
+是喔？我想也是！","","푸흡ㅋㅋㅋ 침묵입니까ㅋㅋㅋ
 그런가요ㅋㅋㅋ 뭐 그렇겠죠ㅋㅋㅋㅋㅋ","Roffels, hat’s dir die Sprache verschlagen?
 Verstehe. Lolz. Ja nee, ist klar. LOL!"
-53,3010,,"Fammi indovinare. Non puoi dirmi, vero, Yuugo,
-piccolo tesoro che non sei altro?",說不出口吧……小YUGO～？,,"…말할 수 있을 리, 없겠지… 유 고 ""야~앙""?","Lass mich raten. Du darfst es mir nicht sagen,
+"53","3010","","Fammi indovinare. Non puoi dirmelo, vero, Yuugo?
+Piccolo tesoruccio che non sei altro?","說不出口吧……小YUGO～？","","…말할 수 있을 리, 없겠지… 유 고 ""야~앙""?","Lass mich raten. Du darfst es mir nicht sagen,
 stimmt’s, Yuugo, du kleiner Schönling?"
-54,3001,,?,……！？,,…!?,?
-55,3010,,"Okay, okay... Okay okay, okay!
+"54","3001","","?","……！？","","…!?","?"
+"55","3010","","Okay, okay... Okay okay, okay!
 Ma ad ogni modo, passiamo a cose più importanti!","OK！OK！OK！OK！OK！
-比起那個～～Death Yo！",,"오케이오케이… 오케이오케이, 오케이!
+比起那個～～Death Yo！","","오케이오케이… 오케이오케이, 오케이!
 그~~~런 것보다, MALI―JYO!","Okay, okay ... Okay okay, okay!
 Aber egal auch, reden wir über Wichtigeres!"
-56,3010,,"Diciamo che ti sono debitore di un favore abbastanza grande per l'altro giorno, uh-huh?",之前受你不少照顧啊～！啊哈～！,,저번에는 꽤 신세를 졌었지~ 아~하~?,"Sagen wir mal, dass ich dir für neulich noch was
+"56","3010","","Diciamo che sono in debito con te per un favore
+fatto l'altro giorno, Okkkkaaay?","之前受你不少照顧啊～！啊哈～！","","저번에는 꽤 신세를 졌었지~ 아~하~?","Sagen wir mal, dass ich dir für neulich noch was
 schulde, hm-hmm?"
-57,3010,,"Come mio modo speciale di dirti ""grazie,""
-ti stenderò, pieno di lividi!","當作之前的謝禮……
-讓我來打得你滿地找牙～～",,"그때의 답례로 말이야~…?
+"57","3010","","E per sdebitarmi a dovere, ti stenderò per bene,
+riempiendoti di lividi!","當作之前的謝禮……
+讓我來打得你滿地找牙～～","","그때의 답례로 말이야~…?
 완전히 박살을 내 줄 테니까 말이야~…?","Als ganz besonderes, persönliches Dankeschön
 gibt’s ordentlich ein paar auf’s Maul!"
-58,3010,,Che ne dite di fare i bravi bambini e le brave bambine...,你們幾個給我乖乖的……,,"너희들, 얌전히…",Dann seid doch mal alle brave Jungs und Mädels ...
-59,3010,,...e diventare i miei nuovi fan numero uno!,當我的“傀儡人偶（歌迷）”吧～～！,,"이 몸의 ""목각 인형(팬)""이 되지 그래애애애~!?",... und werdet meine neuen allertreusten Fans!
-60,2000,,!,！！,,!!,!
+"58","3010","","Che ne dite di fare i bravi bambini e le brave bambine...","你們幾個給我乖乖的……","","너희들, 얌전히…","Dann seid doch mal alle brave Jungs und Mädels ..."
+"59","3010","","...e diventare i miei nuovi fan numero uno!","當我的“傀儡人偶（歌迷）”吧～～！","","이 몸의 ""목각 인형(팬)""이 되지 그래애애애~!?","... und werdet meine neuen allertreusten Fans!"
+"60","2000","","!","！！","","!!","!"

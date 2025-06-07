@@ -1,36 +1,37 @@
-ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
-1,3004,,"Guarda, laggiù!",喂！你看那個……！,,"야, 저거…!","Schau mal, da drüben!"
-2,3004,,Mari!,「真里」！！,,「마리」!!,Mari!
-3,2000,,?!,！？,,!?,?!
-4,3004,,"Mari! Ehi, Mari! Riprenditi!",真里！喂！小真！？妳振作點！？,,"마리! 야, 마릿페!? 정신차려!?","Mari! He, Mari! Komm zu dir!"
-5,4115,,...,……………,,……………,...
-6,3004,,"Perché Mari?
-Si è fatta coinvolgere in tutto questo per caso?","什麼？真里……
-妳是偶然間被捲進來的嗎……？",,"어째서, 마리가…
+﻿"ID","Speaker","Japanese","English","Chinese","EnglishCensored","Korean","German"
+"1","3004","","Guarda, laggiù!","喂！你看那個……！","","야, 저거…!","Schau mal, da drüben!"
+"2","3004","","Mari!","「真里」！！","","「마리」!!","Mari!"
+"3","2000","","?!","！？","","!?","?!"
+"4","3004","","Mari! Ehi, Mari! Riprenditi!","真里！喂！小真！？妳振作點！？","","마리! 야, 마릿페!? 정신차려!?","Mari! He, Mari! Komm zu dir!"
+"5","4115","","...","……………","","……………","..."
+"6","3004","","Perché lei? Si sarà fatta coinvolgere
+per caso?","什麼？真里……
+妳是偶然間被捲進來的嗎……？","","어째서, 마리가…
 우연히 말려든 건가…?","Warum ausgerechnet Mari?
 Ist sie zufällig erwischt worden?"
-7,3004,,Impossibile. Chiunque ci sia dietro tutto questo ha preso anche lei?,難道說……在那之後妳被犯人……！？,,"설마… 그 다음, 범인에게…!?","Auf keinen Fall. Haben die Drahtzieher dieser
+"7","3004","","Impossibile. Perché hanno preso di
+mira anche Mari?","難道說……在那之後妳被犯人……！？","","설마… 그 다음, 범인에게…!?","Auf keinen Fall. Haben die Drahtzieher dieser
 Sache es auch auf sie abgesehen?"
-8,2000,,"Mantieni la calma!
-Uhhh... Mantieni la calma e porta i bagagli?","冷靜點！
-你你你你冷靜點啊……！",,"진정해!
+"8","2000","","Mantieni la calma!
+Fai un respiro profondo, un, due!","冷靜點！
+你你你你冷靜點啊……！","","진정해!
 지지지, 진정진정, 진정해…!?","Nur die Ruhe!
 Erst mal tief durchatmen. Eins, zwei ..."
-9,3004,,"Sì... lo so, lo so.
+"9","3004","","Sì... Sì, lo so.
 Farsi prendere dal panico non risolverà nulla.","嗯、嗯嗯……我知道！
-我們再慌張也沒用。",,"그, 그래… 알고 있어
+我們再慌張也沒用。","","그, 그래… 알고 있어
 우리들이 패닉에 빠진다 해서 어떻게 되는 건 아니니까","Ja, ich weiß.
 Blinde Panik löst keine Probleme."
-10,3004,,"Dobbiamo occuparci di questo Eater. Allora questo
-fenomeno scomparirà e Mari tornerà alla
-normalità.","只要解決掉侵食者，這個現象消失後，
-真里就能恢復原狀了吧……",,"이터를 없애고, 이 현상이 사라지면…
+"10","3004","","Occupiamoci di questo Eater.
+Questo fenomeno poi scomparirà e Mari
+tornerà tra noi.","只要解決掉侵食者，這個現象消失後，
+真里就能恢復原狀了吧……","","이터를 없애고, 이 현상이 사라지면…
 마리도 원래대로 돌아오겠지…","Wir müssen diesen Verschlinger beseitigen.
 Dann löst sich das hier alles auf, und Mari wird
 wieder normal."
-11,3004,,"Okay, riprendiamo l'investigazione.",好，那就重新展開調查……,,"좋아, 그럼 조사 재개다…","Gut, führen wir unsere Untersuchung fort."
-12,3004,,"Potrebbero esserci altre persone coinvolte in tutto questo.
+"11","3004","","Bene, riprendiamo l'investigazione.","好，那就重新展開調查……","","좋아, 그럼 조사 재개다…","Gut, führen wir unsere Untersuchung fort."
+"12","3004","","Potrebbero esserci altre persone coinvolte.
 Diamo un'occhiata in giro.","說不定還有其他被捲進來的人，
-去找找看吧！",,"그 밖에도 말려든 사람이 있을지도 몰라
+去找找看吧！","","그 밖에도 말려든 사람이 있을지도 몰라
 찾아 보자고","Vielleicht hat es noch andere Leute erwischt.
 Sehen wir uns mal um."

@@ -1,33 +1,36 @@
-ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
-1,4289,,Sì? Fiorista? Di cosa stai parlando?,嗯……？「花店店員」？什麼意思……？,,"…네?「꽃집 점원」씨? 뭔가요, 그게…",Ja? Blumenladen? Worum geht es hier?
-2,4289,,Cosa? Perché sto guardando quella persona?,嗯……？你問我為什麼在看那個人？,,"……네? 왜, 저 사람을 보고 있냐고, 요?",Wie? Warum ich diese Person ansehe?
-3,4289,,...,………,,………,...
-4,4289,,"Ecco, beh... perché io...",嗯……其實……我……,,"…그건, 그… 사실, 저…","Nun, weil ... weil ..."
-5,4289,,Perché quel tipo strano mi sta perseguitando!,其實我被那個噁心男跟蹤了……！,,"저 극혐남에게, 스토킹을 당하고 있어요…!",Weil dieser komische Typ mich stalkt!
-6,2000,,...,………,,………,...
-7,2000,,"Lo sapevo!
-Sì, agente, è proprio lui!
-Logica elementare, questa!","說的也是！
+﻿"ID","Speaker","Japanese","English","Chinese","EnglishCensored","Korean","German"
+"1","4289","","Mh? Fioraia? In che senso?","嗯……？「花店店員」？什麼意思……？","","…네?「꽃집 점원」씨? 뭔가요, 그게…","Ja? Blumenladen? Worum geht es hier?"
+"2","4289","","Cosa? Perché sto guardando quella persona?","嗯……？你問我為什麼在看那個人？","","……네? 왜, 저 사람을 보고 있냐고, 요?","Wie? Warum ich diese Person ansehe?"
+"3","4289","","...","………","","………","..."
+"4","4289","","Ecco, beh... perché...","嗯……其實……我……","","…그건, 그… 사실, 저…","Nun, weil ... weil ..."
+"5","4289","","Perché quel tipo strano mi sta perseguitando!","其實我被那個噁心男跟蹤了……！","","저 극혐남에게, 스토킹을 당하고 있어요…!","Weil dieser komische Typ mich stalkt!"
+"6","2000","","...","………","","………","..."
+"7","2000","","Lo sapevo!
+Esatto agente, è proprio lui!
+Elementare, Watson!","說的也是！
 看吧，警察叔叔，果然是那個人！
-這是很基本的推理！",,"…그렇겠죠!
+這是很基本的推理！","","…그렇겠죠!
 봐요 경찰 아저씨, 역시 저 사람이에요!
 초보적인 추리, 여유입니다!","Wusste ich’s doch!
 Jawoll, Frau Polizistin, der war es!
 Elementare Logik, das hier!"
-8,4289,,Quindi mi nascondo qui finché quel pervertito non se ne va.,"所以那個噁心男離開之前，
-我一直躲在這裡……",,"그래서, 저 극혐남이 사라질 때까지
+"8","4289","","Mi nascondo qui finché quel tipo
+non se ne va.","所以那個噁心男離開之前，
+我一直躲在這裡……","","그래서, 저 극혐남이 사라질 때까지
 여기서 숨어 있는 거예요…","Ich verstecke mich also hier, bis dieser komische
 Typ verschwindet."
-9,4289,,Odierei se mi seguisse fino a casa.,因為我不想一直被他跟蹤……,,뒤쫓아 오거나 하면 곤란해서요…,"Ich will auf gar keinen Fall, dass er mir bis
+"9","4289","","Non vorrei mai che mi seguisse
+fino a casa.","因為我不想一直被他跟蹤……","","뒤쫓아 오거나 하면 곤란해서요…","Ich will auf gar keinen Fall, dass er mir bis
 nach Hause folgt."
-10,4289,,"A proposito, tu chi sei?
+"10","4289","","A proposito, tu chi sei?
 Non sarai mica...","話說回來……你是什麼人？
-難道你也是……",,"그런데… 당신, 대체 누구신가요?
+難道你也是……","","그런데… 당신, 대체 누구신가요?
 설마, 당신도…","Wer bist du eigentlich?
 Du bist nicht zufällig ..."
-11,4289,,"Cosa? Un detective?
-Quel tipo strano... ti ha assunto per chiedermi di me?","咦……偵探……？
-難道是……那個噁心男找你來打聽我的事嗎？",,"에… 탐정… 씨?
+"11","4289","","Come scusa? Un detective?
+Quel tipo ti ha assunto... per chiedere
+informazioni su di me?","咦……偵探……？
+難道是……那個噁心男找你來打聽我的事嗎？","","에… 탐정… 씨?
 저 극혐남에게… 저에 대해 물어봐 달라고 부탁을 받았다고요…?","Wie? Ein Detektiv?
 Der komische Typ ... hat dich auf mich angesetzt?"
-12,4289,,Ehm... Puoi dirgli qualcosa per me?,那你可以幫我轉告那個噁心男嗎？,,"저기… 그럼, 극혐남에게 전해주실 수 있나요…?",Ähm ... Könntest du ihm etwas ausrichten?
+"12","4289","","Ehm... Potresti dirgli qualcosa da parte mia?","那你可以幫我轉告那個噁心男嗎？","","저기… 그럼, 극혐남에게 전해주실 수 있나요…?","Ähm ... Könntest du ihm etwas ausrichten?"

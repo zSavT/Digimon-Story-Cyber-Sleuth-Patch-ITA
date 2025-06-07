@@ -1,71 +1,72 @@
-ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
-1,2000,,...,……………,,……………,...
-2,3004,,"Eh? Stai bene?
-Sei stato in silenzio per un po'.","嗯？怎麼了？
-對了，你從剛才就一直保持沉默。",,"…앙? 왜 그래?
+﻿"ID","Speaker","Japanese","English","Chinese","EnglishCensored","Korean","German"
+"1","2000","","...","……………","","……………","..."
+"2","3004","","Ehi, tutto ok?
+Ti sei ammutolito per un po'.","嗯？怎麼了？
+對了，你從剛才就一直保持沉默。","","…앙? 왜 그래?
 그러고 보니, 아까부터 계속 조용하잖아?","Wie? Alles klar bei dir?
 Du bist jetzt schon seit einer Weile still."
-3,3004,,"Cosa? ""Devo fare rapporto all'agenzia""?
-""Ma non c'è connessione""?","啥？「想跟事務所報告狀況」？
-「可是連不上」？",,"하?「사무소에 상황을 보고하고 싶어」?
+"3","3004","","Come? ""Devo fare rapporto all'agenzia""?
+""Non c'è connessione""?","啥？「想跟事務所報告狀況」？
+「可是連不上」？","","하?「사무소에 상황을 보고하고 싶어」?
 「하지만 연결이 안 돼」?","Wie? „Ich muss dem Büro Bericht erstatten, habe
 aber keine Verbindung“?"
-4,3004,,Di cosa stai parlando? Quale agenzia?,那個「事務所」是什麼東西啊？,,"…그보다, 뭐야? 사무소라니?",Was redest du denn da? Was für ein Büro?
-5,3004,,"Cosa? L'agenzia investigativa per cui lavori?
-Sei un cyber detective ""super-forte""?","喔？你「工作的偵探事務所」？
-「我當上電腦偵探了，嘿嘿」？",,"헤?「일하고 있는 탐정사무소」?
+"4","3004","","In che senso? Di che agenzia parli?","那個「事務所」是什麼東西啊？","","…그보다, 뭐야? 사무소라니?","Was redest du denn da? Was für ein Büro?"
+"5","3004","","Come? L'agenzia per cui lavori?
+Sei un Cyber Detective ""Super forte""?","喔？你「工作的偵探事務所」？
+「我當上電腦偵探了，嘿嘿」？","","헤?「일하고 있는 탐정사무소」?
 「전뇌탐정이 됐어, 에헴뿌이」?","Wie? Das Detektivbüro, in dem du arbeitest?
 Du bist ein „obercooler“ Cyber-Detektiv?"
-6,3004,,Super fico?,嘿嘿！？,,"에, 에헴뿌이!?",Obercool?
-7,3004,,"Voglio dire, un cyber detective?
-Un detective digitale?!","你說……電腦偵探！？
-電腦的……偵探！？",,"…이게 아니라, 전뇌탐정!?
+"6","3004","","Super forte?","嘿嘿！？","","에, 에헴뿌이!?","Obercool?"
+"7","3004","","Volevo dire, un Cyber Detective?
+Cioè un Detective Digitale!?","你說……電腦偵探！？
+電腦的……偵探！？","","…이게 아니라, 전뇌탐정!?
 전뇌의… 탐정!?","Ein Cyber-Detektiv?
 Ein digitaler Detektiv?!"
-8,3004,,"Davvero? È incredibile.
-Non lo capisco bene, ma è incredibile!","真的假的……太厲害了！
-雖然不太懂是怎麼回事……總之你太厲害了！",,"진짜냐… 굉장하잖아, 야
+"8","3004","","Davvero? Assurdo.
+Non ci capisco nulla, ma è incredibile!","真的假的……太厲害了！
+雖然不太懂是怎麼回事……總之你太厲害了！","","진짜냐… 굉장하잖아, 야
 뭔가, 잘 모르겠지만… 어쨌든 굉장하잖아","Wirklich?! Das ist unglaublich!
 Ich kapier es nicht ganz, aber es ist unglaublich!"
-9,3004,,"Sei davvero qualcosa di speciale, non è vero?",你果然很出乎人意料！,,"역시 댁, 내 상상을 뛰어넘는구만","Du bist echt anders als andere, wie?"
-10,3004,,"No, quello è... Quello non era un complimento.",不，我不是在稱讚你……,,"아니, 칭찬한 거 아니거든…","Nein, das ... Das sollte kein Kompliment sein."
-11,3004,,"Beh, le comunicazioni sono interrotte. Ci sto provando
-anche io da un po', e qui dentro non c'è
-nessuna connessione internet.","算了，總之你還是放棄通話吧……我也一直在試，
-但進入這裡之後，就完全連不上網路。",,"뭐, 어쨌든 통신은 포기해… 나도 아까부터 시도해 보고 있는데,
+"9","3004","","Sei davvero speciale, non è così?","你果然很出乎人意料！","","역시 댁, 내 상상을 뛰어넘는구만","Du bist echt anders als andere, wie?"
+"10","3004","","No, quello... Non era un complimento.","不，我不是在稱讚你……","","아니, 칭찬한 거 아니거든…","Nein, das ... Das sollte kein Kompliment sein."
+"11","3004","","Comunque sì, le comunicazioni sono interrotte.
+Ci sto provando da un po', ma non c'è nessuna
+connessione ad internet.","算了，總之你還是放棄通話吧……我也一直在試，
+但進入這裡之後，就完全連不上網路。","","뭐, 어쨌든 통신은 포기해… 나도 아까부터 시도해 보고 있는데,
 이곳에 들어온 뒤로 네트워크와 연결될 기미는 0이야","Nun, hier gibt es keine Verbindung. Ich versuche
 es auch schon eine Weile, und bekomme
 überhaupt kein Signal."
-12,3004,,L'Onda Digitale deve essere instabile.,大概是「數碼波」的狀態不太穩定吧！,,「디지털 웨이브」의 상태가 불안정한 거겠지,Die digitale Welle muss instabil sein.
-13,2000,,?,……？,,……?,?
-14,3004,,Ma dai. Mi farai spiegare cosa sono le Onde Digitali?,"你該不會……是想讓我說明……
-什麼是數碼波吧？",,"…설마, 디지털 웨이브에 대한 설명을
+"12","3004","","L'Onda Digitale deve essere instabile.","大概是「數碼波」的狀態不太穩定吧！","","「디지털 웨이브」의 상태가 불안정한 거겠지","Die digitale Welle muss instabil sein."
+"13","2000","","?","……？","","……?","?"
+"14","3004","","Ma dai. Non sai nemmeno cosa siano
+le Onde Digitali?","你該不會……是想讓我說明……
+什麼是數碼波吧？","","…설마, 디지털 웨이브에 대한 설명을
 나에게 시키려 하는 건 아니겠지?","Ach nein. Ich muss dir wirklich digitale Wellen
 erklären?"
-15,3004,,Cercalo più tardi. Fai una ricerca.,你等等自己上網搜尋吧！,,"나중에 검색해, 검색",Schlag es später nach. Suchmaschine oder so.
-16,3004,,Ancor più importante...,比起那個……,,"그런 것보다, 있잖아…",Was jetzt wichtiger ist ...
-17,3004,,"Parliamo di questa cosa del cyber detective.
-Voglio saperne di più a riguardo.","剛才那個電腦偵探的事情……
-可以再說詳細一點嗎？",,"아까 말했던 전뇌탐정 얘기…
+"15","3004","","Cercatelo più tardi.","你等等自己上網搜尋吧！","","나중에 검색해, 검색","Schlag es später nach. Suchmaschine oder so."
+"16","3004","","Ma parlando di cose importanti...","比起那個……","","그런 것보다, 있잖아…","Was jetzt wichtiger ist ..."
+"17","3004","","Dimmi di più sulla questione Cyber Detective.
+Voglio saperne di più.","剛才那個電腦偵探的事情……
+可以再說詳細一點嗎？","","아까 말했던 전뇌탐정 얘기…
 좀 더 자세히 듣고 싶은데?","Reden wir über diesen Cyber-Detektiv-Job.
 Darüber will ich mehr wissen."
-18,3004,,Non fraintendermi!,沒有……你可別誤會唷！,,"…아니, 오해는 하지 말라고?",Aber versteh mich nicht falsch!
-19,3004,,"Non è perché penso sia interessante o perché
-voglio provarlo.","我可不是因為好像很有趣……自己也想試試……
-絕對不是這樣的唷！",,"딱히 재밌어 보여~ 라든가, 해 보고 싶어~ 라든가
+"18","3004","","Non fraintendermi!","沒有……你可別誤會唷！","","…아니, 오해는 하지 말라고?","Aber versteh mich nicht falsch!"
+"19","3004","","Non è perché la trovo una cosa interessante
+o perché voglia farlo.","我可不是因為好像很有趣……自己也想試試……
+絕對不是這樣的唷！","","딱히 재밌어 보여~ 라든가, 해 보고 싶어~ 라든가
 그런 거 아니니까","Nicht, weil ich es interessant finde oder es
 selber gerne ausprobieren würde."
-20,3004,,"È semplice curiosità intellettuale.
-Un interesse stuzzicato.",我是單純好奇……只是問問而已。,,순수한 지적 호기심이야… 단순한 흥미,"Rein theoretisches Interesse.
+"20","3004","","È solo curiosità.
+Giusto per parlare.","我是單純好奇……只是問問而已。","","순수한 지적 호기심이야… 단순한 흥미","Rein theoretisches Interesse.
 Geweckte Neugierde."
-21,3004,,"Deve essere strano, però, essere un cyber detective.
-Com'è? L'ho letto solo nei fumetti.","因為……電腦偵探實在太奇怪了！
-這到底是什麼設定啊？我只在漫畫裡面看過。",,"그렇지만… 이상하잖아, 전뇌탐정
+"21","3004","","Dev'essere strano però essere un Cyber
+Detective, eh. L'ho letto solo nei fumetti.","因為……電腦偵探實在太奇怪了！
+這到底是什麼設定啊？我只在漫畫裡面看過。","","그렇지만… 이상하잖아, 전뇌탐정
 대체 어떤 설정이야, 만화책에서밖에 본 적 없다고","Muss komisch sein, so als Cyber-Detektiv.
 Wie ist das so? Ich kenne das nur aus Comics."
-22,3004,,"No, basta così.
+"22","3004","","No, anzi, basta così.
 Ho già perso interesse.","算了算了……
-我其實沒什麼興趣！",,"…됐어, 이제
+我其實沒什麼興趣！","","…됐어, 이제
 정말, 그다지 흥미 없으니까","Nein, das reicht.
 Schon nicht mehr interessiert."
-23,3004,,Cavolo.,嘖……,,………칫,Mist.
+"23","3004","","Caspita.","嘖……","","………칫","Mist."

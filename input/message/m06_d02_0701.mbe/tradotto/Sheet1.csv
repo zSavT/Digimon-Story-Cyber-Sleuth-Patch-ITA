@@ -1,27 +1,27 @@
-ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
-1,3004,,"Questa dev'essere la volta buona.
-Okidoke. Vedrò cosa posso fare.","不會錯！就是這個……
-等一下，我探查看看。",,"틀림없어, 이거야…
+﻿"ID","Speaker","Japanese","English","Chinese","EnglishCensored","Korean","German"
+"1","3004","","Questa dev'essere
+la volta buona. Okidoke. Vedrò cosa posso fare.","不會錯！就是這個……
+等一下，我探查看看。","","틀림없어, 이거야…
 어디, 한번 봐 볼까","Das müssen sie sein.
 Na gut. Dann schau ich mal, was ich tun kann."
-2,3004,,"Hmm. Non è affatto protetto...
-Ma qui non c'è quasi nessun dato...","嗯……有受到保護……
-而且裡面的容量幾乎是空的……",,"응, 프로텍트는 안 걸려있군…
+"2","3004","","Hmm. Non è affatto protetto... Ma
+qui non c'è quasi nessun dato...","嗯……有受到保護……
+而且裡面的容量幾乎是空的……","","응, 프로텍트는 안 걸려있군…
 그보다, 용량이 거의 텅 비어 있어…","Hm. Überhaupt nicht geschützt ...
 Aber hier sind kaum Daten ..."
-3,3004,,"Aspetta, cos'è questo?
+"3","3004","","Aspetta un attimo, e questo cos'è?
 Sto ricevendo uno strano feedback.
-Questo si collega a qualcos'altro?","嗯？
-這個奇妙的手感是什麼……有連接到其他地方嗎？",,"하지만, 대체 뭐지…?
+Forse si collega a qualcos'altro?","嗯？
+這個奇妙的手感是什麼……有連接到其他地方嗎？","","하지만, 대체 뭐지…?
 이 미묘한 반응… 어딘가로 링크되어 있는 건가…?","Moment, was ist das?
 Da ist dieses komische Feedback.
 Führt dieser Link irgendwohin?"
-4,2000,,?!,！？！,,!?!,?!
-5,3004,,"Attento, [p]!
-Ho avuto accesso a qualcosa di strano dall'altra parte di
-quel link.","喂！[p]！小心！
-我不小心點到奇怪的連結了……",,"야, 조심해 [p]!!
+"4","2000","","?!","！？！","","!?!","?!"
+"5","3004","","Attento, [p]!
+Ho avuto accesso a qualcosa di strano
+dall'altra parte di quel link.","喂！[p]！小心！
+我不小心點到奇怪的連結了……","","야, 조심해 [p]!!
 링크 너머의 이상한 것에 접속해 버렸어…","Pass auf, [p]!
 Am anderen Ende dieses Links bin ich auf
 etwas Seltsames gestoßen."
-6,3004,,Sta arrivando!,來了！,,온다!,Und es kommt her!
+"6","3004","","Sta arrivando!","來了！","","온다!","Und es kommt her!"

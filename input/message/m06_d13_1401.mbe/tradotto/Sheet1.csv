@@ -1,110 +1,113 @@
-ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
-1,4289,,Devo disegnare... di più... Devo disegnare...,得繼續畫才行……得畫更多才行……得繼續畫才行……,,그려야 해… 더 그려야 해… 그려야 해…,Mehr ... zeichnen ... Muss mehr zeichnen ...
-2,2000,,!,！？！,,!?!,!
-3,2000,,"Il libraio?!
+﻿"ID","Speaker","Japanese","English","Chinese","EnglishCensored","Korean","German"
+"1","4289","","Devo disegnare... di più... Devo disegnare...","得繼續畫才行……得畫更多才行……得繼續畫才行……","","그려야 해… 더 그려야 해… 그려야 해…","Mehr ... zeichnen ... Muss mehr zeichnen ..."
+"2","2000","","!","！？！","","!?!","!"
+"3","2000","","Il libraio?!
 La fioraia?!","書店店員！？
-花店店員！？",,"서점 점원 씨!?
+花店店員！？","","서점 점원 씨!?
 꽃집 점원 씨!?","Die Buchhändlerin?!
 Die Floristin?!"
-4,3004,,"Ma no, dai!",什麼……不會吧……？,,"무슨… 거짓말, 이지…",Nicht im Ernst.
-5,3004,,SEI tu il colpevole dietro quelle sparizioni?!,「妳」就是神秘失蹤事件的……犯人……！？,,"「당신」이 행방불명의… 범인, 이야…!?","DU bist verantwortlich für die verschwundenen
+"4","3004","","Ma no, dai!","什麼……不會吧……？","","무슨… 거짓말, 이지…","Nicht im Ernst."
+"5","3004","","SEI tu il colpevole dietro quelle
+sparizioni?!","「妳」就是神秘失蹤事件的……犯人……！？","","「당신」이 행방불명의… 범인, 이야…!?","DU bist verantwortlich für die verschwundenen
 Leute?!"
-6,4289,,"Oh mio, Sanada? Sei tu, Sanada?
-Evvai, è Sanada! È proprio Sanada!","哎呀，真田……？你是真田嗎？
-哇！是真田！真的是真田……！",,"어머, 사나다 군…? 에, 사나다 군이야?
+"6","4289","","Oh cavolo, Sanada? Sei tu, Sanada?
+Evvai, sei tu! Sei proprio tu!","哎呀，真田……？你是真田嗎？
+哇！是真田！真的是真田……！","","어머, 사나다 군…? 에, 사나다 군이야?
 와아, 사나다 군! 진짜 사나다 군이야…!","Ach, Arata? Bist du es, Sanada?
 Juhu, es ist Sanada! Es ist wirklich Sanada!"
-7,3004,,"Nishino, seriamente? Cosa stai facendo?",「西野」小姐……不會吧……妳在做什麼……？,,"「니시노」씨… 진짜냐고… 뭘 하고, 있는 거야…?","Nishino, ganz ernsthaft! Was tust du da?"
-8,4116,,"Non si capisce guardando?
-Sto disegnando un manga! Tieni, guarda! Guarda!","你看不出來嗎？
-我在畫漫畫啊！你看……你看！你看！",,"뭐냐니… 보면 몰라?
+"7","3004","","Nishino, che succede? Cosa stai facendo?","「西野」小姐……不會吧……妳在做什麼……？","","「니시노」씨… 진짜냐고… 뭘 하고, 있는 거야…?","Nishino, ganz ernsthaft! Was tust du da?"
+"8","4116","","Non si capisce guardandomi?
+Sto disegnando un manga! Guarda!","你看不出來嗎？
+我在畫漫畫啊！你看……你看！你看！","","뭐냐니… 보면 몰라?
 나, 만화를 그리고 있어! 자… 봐봐, 자!","Sieht man das nicht?
 Ich zeichne ein Manga! Hier, schau! Schau!"
-9,4116,,"Guarda, guarda, guarda, guarda! Vedi quanto ho fatto?
-Sono stato capace di disegnare quanto volevo!","你看！你看你看你看！我畫了這麼多！
-我可以盡情畫出這麼多……！",,"봐봐, 이것 좀 봐봐! 이렇게나, 이렇게나!
+"9","4116","","Guarda, guarda, guarda! Vedi quanto ho
+fatto? Sono riuscito a disegnare quanto
+volevo!","你看！你看你看你看！我畫了這麼多！
+我可以盡情畫出這麼多……！","","봐봐, 이것 좀 봐봐! 이렇게나, 이렇게나!
 이렇게나, 내가 생각한 대로 그려져…!","Schau, schau, schau! Siehst du, wie viel ich
 geschafft habe? Ich konnte so viel zeichnen, wie
 ich wollte!"
-10,4116,,"Non è una fanfiction! È un'opera originale!
-È originale al 100%!","這不是二次創作……全部都是原創的！
-這些都是完完全全的原創作品！！",,"2차 창작이 아니야… 오리지널이라구!?
+"10","4116","","Non è una fanfiction! È un'opera
+originale! È originale al 100%!","這不是二次創作……全部都是原創的！
+這些都是完完全全的原創作品！！","","2차 창작이 아니야… 오리지널이라구!?
 완전히, 유일무이야!!","Das ist kein Fanfiction! Das ist ein Original!
 Ein hundertprozentiges Originalwerk!"
-11,3004,,Nishino...,西野小姐……,,니시노 씨…,Nishino ...
-12,4116,,"Com'è?! Cosa ne pensi, Sanada?
+"11","3004","","Nishino...","西野小姐……","","니시노 씨…","Nishino ..."
+"12","4116","","Com'è?! Cosa ne pensi, Sanada?
 S-Sono incredibile, vero?","如何？你覺得怎麼樣？真田！？
-我很厲害吧……！？",,"어때!? 어때, 사나다 군!?
+我很厲害吧……！？","","어때!? 어때, 사나다 군!?
 괴, 굉장하지, 나…!?","Wie sieht es aus?! Was meinst du, Arata?
 I-Ich bin großartig, oder nicht?"
-13,4116,,"Se riesco a disegnare così bene, non dovrei avere problemi a
-sfondare nel settore e diventare un professionista!","我那麼會畫，出道應該不成問題吧……！？
-我應該可以成為職業漫畫家吧！？",,"이렇게나 그릴 수 있으면, 아무 문제 없이 데뷔할 수 있겠지…!?
+"13","4116","","Se riesco a disegnare così bene, non dovrei avere
+problemi a sfondare nel settore e diventare un professionista!","我那麼會畫，出道應該不成問題吧……！？
+我應該可以成為職業漫畫家吧！？","","이렇게나 그릴 수 있으면, 아무 문제 없이 데뷔할 수 있겠지…!?
 프로 만화가가 될 수 있겠지!?","Wenn ich das gut zeichne, sollte ich meinen
 Durchbruch schaffen und zum Profi werden!"
-14,3004,,"Dici che stai disegnando un manga? Non lo capisco.
-Come fa ad essere un manga?","妳說妳在畫漫畫……？
-莫名其妙……再說，這哪裡是漫畫啊？",,"만화를 그리고 있다, 고…?
+"14","3004","","Dici che stai disegnando un manga? Non lo
+capisco. Come fa ad essere un manga?","妳說妳在畫漫畫……？
+莫名其妙……再說，這哪裡是漫畫啊？","","만화를 그리고 있다, 고…?
 영문을 모르겠어… 그게, 어딜 봐서 만화야?","Du sagst, du zeichnest ein Manga? Versteh ich
 nicht. Was ist denn daran ein Manga?"
-15,3004,,"Seriamente, non sto ridendo.",完全笑不出來！,,"웃을 수가 없는데, 진짜로",Im Ernst. Ich finde das nicht zum Lachen.
-16,4116,,...,……………,,……………,...
-17,4116,,"Anche se stai stracciando il mio manga, Sanada.",居然連真田都貶低我的漫畫。,,"…사나다 군도, 내 만화를 욕하는구나","Sogar du redest mein Manga schlecht, Arata."
-18,4116,,"Sapevo che avresti reagito così.
-Lo sapevo.","果然……
-果然是這樣……",,"역시, 그렇구나…
+"15","3004","","Seriamente, non sto ridendo.","完全笑不出來！","","웃을 수가 없는데, 진짜로","Im Ernst. Ich finde das nicht zum Lachen."
+"16","4116","","...","……………","","……………","..."
+"17","4116","","Anche se stai stracciando il mio manga, Sanada.","居然連真田都貶低我的漫畫。","","…사나다 군도, 내 만화를 욕하는구나","Sogar du redest mein Manga schlecht, Arata."
+"18","4116","","Sapevo che avresti
+reagito così. Lo sapevo.","果然……
+果然是這樣……","","역시, 그렇구나…
 그렇구나……","Ich wusste, dass du so reagierst.
 Ich wusste es einfach."
-19,4116,,... ... ...,…………,,…………,...
-20,2000,,?!,！？！,,!?!,?!
-21,3004,,"Whoa, quel Digimon!
-Perché diavolo è così dannatamente grosso?!","那隻數碼寶貝……！？
-體積大得不像話！！",,"앗, 저 디지몬은…!?
+"19","4116","","... ... ...","…………","","…………","..."
+"20","2000","","?!","！？！","","!?!","?!"
+"21","3004","","Whoa, che Digimon! Ma come
+fa ad essere così grosso!?","那隻數碼寶貝……！？
+體積大得不像話！！","","앗, 저 디지몬은…!?
 그보다 대체 뭐야, 저 터무니없는 크기는!?","Boah, das Digimon!
 Warum zum Henker ist das so groß?!"
-22,4116,,"Sei uguale agli altri, Sanada.",真田，你也跟那群人一樣……,,"사나다 군도, 그 녀석들과 똑같구나…","Du bist genau wie die anderen, Arata."
-23,4116,,"Ignori, poi insulti... il mio... lavoro, poi
-calpesti... i miei... sogni, ridendo e
-vergognandomi...","無意義地、貶低、我的、作品……妨礙、我的、夢想……
-看不起我、嘲笑我、羞辱我……",,"나의, 작품을, 무의미하게, 욕하고, 나의, 꿈을, 방해하고
+"22","4116","","Sei uguale agli altri, Sanada.","真田，你也跟那群人一樣……","","사나다 군도, 그 녀석들과 똑같구나…","Du bist genau wie die anderen, Arata."
+"23","4116","","Ignori, poi insulti... il mio...
+lavoro, poi calpesti... i miei... sogni,
+ridendo e vergognandomi...","無意義地、貶低、我的、作品……妨礙、我的、夢想……
+看不起我、嘲笑我、羞辱我……","","나의, 작품을, 무의미하게, 욕하고, 나의, 꿈을, 방해하고
 바보 취급하고, 비웃고, 창피 주고―","Du beachtest mich nicht, beschimpfst meine Arbeit,
 trampelst dann lachend auf ... meinen Träumen
 herum und machst mich runter ..."
-24,4116,,Sorridi e continui a vivere come se niente fosse successo.,然後還若無其事地笑著、活著。,,"아무 일도 없었던 것처럼, 웃으면서, 살아가는구나","Dann grinst du und machst weiter, als ob nichts
+"24","4116","","Sorridi e continui a vivere come se niente
+fosse successo.","然後還若無其事地笑著、活著。","","아무 일도 없었던 것처럼, 웃으면서, 살아가는구나","Dann grinst du und machst weiter, als ob nichts
 gewesen ist."
-25,3004,,"Oh oh, [p].
-Penso che le manchino un paio di viti.",[p]……這傢伙不妙！,,"[p]… 이거, 위험하겠는걸","Oha, [p].
+"25","3004","","Oh no, [p]. Penso che stia
+svalvolando.","[p]……這傢伙不妙！","","[p]… 이거, 위험하겠는걸","Oha, [p].
 Ich glaube, die hat ein paar Schrauben locker."
-26,2000,,...!!!,……！！,,…!!,...!!!
-27,4116,,"Ma ho cancellato quel sorrisetto dalle loro facce.
-Qui, qualunque cosa dica, conta.","是我讓他們笑不出來的……
-在這裡的話，一切都能如我所願……",,"나, 그 녀석들을, 웃을 수 없게 해 줬어…
+"26","2000","","...!!!","……！！","","…!!","...!!!"
+"27","4116","","Ma ho cancellato quel sorrisetto dalle loro
+facce. Qui, qualunque cosa dica, conta.","是我讓他們笑不出來的……
+在這裡的話，一切都能如我所願……","","나, 그 녀석들을, 웃을 수 없게 해 줬어…
 여기서는, 뭐든지 내 마음대로… 돼","Aber das Grinsen ist ihnen allen vergangen.
 Hier habe ich die Zügel in der Hand."
-28,4116,,"Qualunque cosa disegni nel mio manga diventa realtà.
+"28","4116","","Qualunque cosa disegni nel mio manga diventa realtà.
 Non riderai di me ancora per molto, Sanada.","我畫的漫畫……都會成真。
-真田，我也要讓你笑不出來。",,"만화로 그린 것이… 현실이 돼
+真田，我也要讓你笑不出來。","","만화로 그린 것이… 현실이 돼
 사나다 군도, 웃을 수 없게 해 줄게","Was ich in meinem Manga zeichne, wird wahr.
 Lange lachst du nicht mehr, Arata."
-29,4116,,"Certo, non ucciderò nessuno.
-Dopo tutto, una volta che il mio manga sarà completo...","可是，我絕對不會殺了你。
-因為等我的漫畫完成後……",,"하지만… 절대로, 죽이거나 하지는 않아?
+"29","4116","","Certo, non ucciderò nessuno. Dopo
+tutto, una volta che il mio manga sarà completo...","可是，我絕對不會殺了你。
+因為等我的漫畫完成後……","","하지만… 절대로, 죽이거나 하지는 않아?
 왜냐면, 내 만화가 완성하면…","Natürlich töte ich niemanden.
 Sobald mein Manga fertig ist ..."
-30,4116,,"...Avrò bisogno che voi ragazzi siate i miei lettori!
+"30","4116","","...Avrò bisogno che voi ragazzi siate i miei lettori!
 Sarete completamente prigionieri della mia genialità fumettistica!","我要你們……我要你們成為我的讀者……！
-成為我漫畫的俘虜……！",,"너희들이… 너희들이, 내 독자가…!
+成為我漫畫的俘虜……！","","너희들이… 너희들이, 내 독자가…!
 내 만화의 포로가…! 되야 하니까…!","... braucht es euch schließlich als Leser!
 Ihr werdet meinem Comictalent ausgeliefert sein!"
-31,4116,,"Ora potresti fare silenzio finché non ho finito?
+"31","4116","","Ora potresti fare silenzio finché non ho finito?
 Per favore, finché non è pronto, non guardare niente!","所以在那之前……拜託！不要多嘴！
-拜託！在那之前，什麼都不要看！",,"그때까지, 부탁이야, 입 다물고 있어 줘?
+拜託！在那之前，什麼都不要看！","","그때까지, 부탁이야, 입 다물고 있어 줘?
 부탁이야, 그때까지, 아무것도 보지 말아 줘?","Könntet ihr jetzt bitte ruhig sein, bis ich fertig
 bin? Bitte nicht hinschauen, bis es fertig ist!"
-32,4116,,"Non guardare, non guardare, non guardare, non guardare
-nonguardarenonguardarenonguardarenonguardare...","不要看！不要看！不要看！不要看！
-不要看不要看不要看不要看——",,"보지 말아 줘, 보지 말아 줘, 보지 말아 줘, 보지 말아 줘
+"32","4116","","Non guardare, non guardare,
+non guardare, non guardare nonguardarenonguardare","不要看！不要看！不要看！不要看！
+不要看不要看不要看不要看——","","보지 말아 줘, 보지 말아 줘, 보지 말아 줘, 보지 말아 줘
 보지말아줘보지말아줘보지말아줘보지말아줘보지말아줘―","Nicht hinschauen!
 Nicht hinschauen, nicht hinschauen ..."
-33,4116,,NON GUARDAREEEEE!!!,不要看—————！！,,보지 말아 줘―――――!!,NICHT HINSCHAUEN!!!
-34,2000,,!!!,！！！,,!!!,!!!
+"33","4116","","NON GUARDAREEEEE!!!","不要看—————！！","","보지 말아 줘―――――!!","NICHT HINSCHAUEN!!!"
+"34","2000","","!!!","！！！","","!!!","!!!"
