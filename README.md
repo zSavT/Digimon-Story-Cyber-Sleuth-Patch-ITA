@@ -91,7 +91,7 @@ Se il tuo problema è un crash del gioco, puoi creare invece l'issue dedicata a
 
 # Video dimostrativo
 
-
+[![Digimon Story Cyber Sleuth Patch ITA v1 [By Lowrentio e SavT]](http://googleusercontent.com/image_collection/image_retrieval/11498767948163120270)](https://www.youtube.com/watch?v=OEWC2SCIWIE)
 
 # Crediti e collaboratori
 
