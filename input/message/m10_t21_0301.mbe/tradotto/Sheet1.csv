@@ -1,4 +1,4 @@
-ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
+﻿ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
 1,3002,,Accidenti! Sei sempre così in ritardo!,真是的，你怎麼老是慢吞吞～！！,,"정말이지, 넌 항상 늦다니깐~~!!",Mensch! Immer bist du so spät dran!
 2,3002,,"Che c'è? Ancora qualcosa?
 Di nuovo in giro a spese della capa?!","搞什麼嘛！還是說？你以為自己是什麼大人物嗎！？
@@ -8,29 +8,35 @@ Mal wieder auf Kosten der Chefin unterwegs?!"
 3,1027,,"Calmati, Nokia.
 Non essere così brusca questa volta.",好了好了，諾奇雅，這次妳就放他一馬吧！,,"자자 노키아, 이번엔 너그러이 봐 주자고","Ganz ruhig, Nokia.
 Sei dieses Mal doch nicht so schroff."
-4,3002,,Hai ragione. [p] è dopotutto un aiuto importante per i Rebels. Non sarò così per una volta.,"……也～是～啦～[p]是我們反叛者重要的幫手嘛～
+4,3002,,"Hai ragione. [p] è dopotutto un
+aiuto importante per i Rebels. Non sarò così
+per una volta.","……也～是～啦～[p]是我們反叛者重要的幫手嘛～
 這次我就大人不計小人過！",,"…그러~네~ [p]는(은) 우리들 리벨리온즈의
 소중한 도우미니까~ 선처하도록 할까~","Da hast du recht. [p] ist den Rebels
 schließlich eine wichtige Hilfe. Ich will mal
 nicht so sein."
 5,2000,,?,？？,,??,?
-6,3002,,"Allora, gente! Ecco il mio supporto per l'allenamento di oggi!",各位——！接下來向大家介紹今天的特訓小幫手喔！,,모두! 오늘의 특훈 도우미를 소개할게!,"So, allerseits! Hier ist meine Unterstützung für
+6,3002,,"Allora, gente! Ecco il mio supporto per
+l'allenamento di oggi!",各位——！接下來向大家介紹今天的特訓小幫手喔！,,모두! 오늘의 특훈 도우미를 소개할게!,"So, allerseits! Hier ist meine Unterstützung für
 das heutige Training!"
-7,3002,,"L'inarrestabile Cyber-Detective e da poco anche Super-Hacker: [p], il prodigio dorato!","讓我們歡迎神秘MAX的電腦偵探、幹練新星超級駭客——
+7,3002,,"L'inarrestabile Cyber-Detective e da poco
+anche Super-Hacker:
+[p], il prodigio dorato!","讓我們歡迎神秘MAX的電腦偵探、幹練新星超級駭客——
 「[p]☆Golden Maniacs」！",,"불가해함 MAX인 전뇌탐정이자 수완가인 신인 슈퍼 해커
 「[p]☆골든 매니악스」입니다!","Der unaufhaltsame Cyber-Detektiv und seit Neuestem
 auch Super-Hacker: [p],
 das Goldene Wunderkind!"
 8,2000,,?!,！？！？,,!?!?,?!
-9,4801,,"[p] Il prodigio dorato?
-Non hai eliminato quello strano gruppo di hacker,
-i Demons?!","[p]☆Golden Maniacs
+9,4801,,"[p] Il prodigio
+dorato? Non hai eliminato quello strano
+gruppo di hacker, i Demons?!","[p]☆Golden Maniacs
 不就是打爆了那個奇怪的駭客集團——惡魔亂舞的人嗎！？",,"[p]☆골든 매니악스라면
 그 묘한 해커 집단, 데몬즈를 날려 버렸다는!?","[p] das Goldene Wunderkind?
 Hast du nicht diese komische Hackergruppe
 ausgeschaltet, die Demons?!"
 10,4802,,"[p] Il prodigio d'oro?
-Non ti sei forse persino hackerato alla Kamishiro?","我記得[p]☆Golden Maniacs
+Non ti sei forse persino hackerato
+alla Kamishiro?","我記得[p]☆Golden Maniacs
 是成功潛入神代的駭客高手……",,"[p]☆골든 매니악스라고 하면
 그 카미시로의 잠입에 성공한 솜씨 좋은 해커였지…","[p] das Goldene Wunderkind?
 Hast du dich nicht sogar bei Kamishiro
@@ -42,14 +48,16 @@ Mia carissima e preziosissima persona di fiducia!","說的沒錯！你們口中�
 난, 절친을 능가하는 LOVE친구란 말씀!","Jawohl!
 [p] das Goldene Wunderkind.
 Meine liebste und geschätzteste Vertrauensperson!"
-12,3002,,"Allora, cosa ne dici? Chi potrebbe allenare i Rebels meglio? E allora, non perdiamo tempo, [p] il prodigio d'oro!","如何？還有比他更適合當特訓對手的人嗎？
+12,3002,,"Allora, cosa ne dici? Chi potrebbe
+allenare i Rebels meglio? E allora, non perdiamo
+tempo, [p] il prodigio d'oro!","如何？還有比他更適合當特訓對手的人嗎？
 那接下來就拜託你啦，[p]☆Golden Maniacs！",,"어때? 우리들 리벨리온즈의 특훈 상대로 더할 나위 없지!?
 그럼 잘 부탁해, [p]☆골든 매니악스!","Na, was meinst du? Wer könnte die Rebels denn
 besser trainieren! Also dann, nichts wie los,
 [p] das Goldene Wunderkind!"
 13,2000,,?,？？,,??,?
-14,4801,,"Ok, io per primo!
-Andiamo!","好！我要當第一個！
+14,4801,,"Ok, io per
+primo! Andiamo!","好！我要當第一個！
 上啊——！！",,"좋았어, 맨 처음은 나다!
 간다아아아――!!","Okay, ich zuerst!
 Los geht’s!"

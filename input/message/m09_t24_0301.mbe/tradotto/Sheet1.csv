@@ -1,4 +1,4 @@
-ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
+﻿ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
 1,4297,,"Accidenti, guarda un po'!
 Questo è in effetti un aggiornamento piuttosto consistente.","喔喔，太厲害了！
 大幅更新真不是蓋的！",,"오오, 이거 굉장하구만
@@ -9,20 +9,23 @@ Tempo per il piano.","不對！現在不是感動的時候，
 作戰要開始了。",,"…아니, 감탄할 때가 아니지
 작전을 개시해 볼까","Aber zum Anschauen haben wir keine Zeit.
 Zeit für den Plan."
-3,4297,,Ma prima... Non ti senti strano con quest'aspetto?,"是說，
+3,4297,,"Ma
+prima... Non ti senti strano con
+quest'aspetto?","是說，
 你這身裝扮也太格格不入了吧？",,"…그 전에
 이 모습으로는, 위화감이 심하잖아?","Aber zuerst ...
 Kommst du dir in dieser Aufmachung nicht komisch
 vor?"
-4,4297,,"Ho giocato un po' con la mimetizzazione, che hai già usato.","你們之前使用的「Stealth Hide」，
+4,4297,,"Ho giocato un po' con la
+mimetizzazione, che hai già usato.","你們之前使用的「Stealth Hide」，
 我稍微動了點手腳。",,"전에 댁이 사용했다던「스텔스 하이드」
 그걸 약간 손 봤어","Ich habe ein bisschen mit der Tarnkappe gespielt,
 die du schon benutzt hast."
 5,4298,,?,？？,,??,?
 6,2000,,!!!,！！,,!!,!!!
 7,3005,,Così ci riconosciamo a vicenda.,不維持這個模樣，很難辨識彼此。,,"역시 이게 아니면, 서로 식별하기 힘드니까",So erkennen wir uns gegenseitig.
-8,3005,,"Non preoccuparti.
-Per tutti gli altri sembriamo diversi.","放心吧，
+8,3005,,"Non
+preoccuparti. Per tutti gli altri sembriamo diversi.","放心吧，
 在旁人眼中，我們看起來的確是不同人。",,"…걱정할 필요 없어
 주위에서는 제대로 다른 사람으로 보이고 있을 거야","Nur keine Sorge.
 Für alle anderen sehen wir anders aus."
@@ -32,12 +35,13 @@ Für alle anderen sehen wir anders aus."
 12,3005,,"Oh no, non di nuovo!",可惡！又是這個嗎？,,"제길, 또 이거냐…!","Och nein, nicht schon wieder!　"
 13,2000,,...,……,,……,...
 14,3005,,Hai visto anche questo proprio adesso?,你剛才也看到了嗎？,,"지금 그거, 댁에게도 보였어?",Hast du das auch gerade gesehen?
-15,3005,,"Puh... Meno male. A quanto pare, sono ancora a posto con la testa.","是嗎？那就好，
+15,3005,,"Puh... Meno male. A
+quanto pare, sono ancora a posto con la testa.","是嗎？那就好，
 不是我腦子有問題。",,"그런가… 그럼 아직 다행이야…
 내 머리가 이상해진 건 아니란 거군","Puh ... Gut zu wissen.
 Dann bin ich wohl doch noch ganz richtig im Kopf."
-16,3005,,"Ma cos'era *mai* quello, allora?
-Anomalie digitali... o qualcosa del genere?","但那到底是什麼？
+16,3005,,"Ma cos'era *mai* quello,
+allora? Anomalie digitali... o qualcosa del genere?","但那到底是什麼？
 數碼的……雜訊之類的嗎？",,"…그건 그렇고 대체 뭘까…
 디지털의… 노이즈 같은 무언가, 인가…?","Aber was WAR das denn dann?
 Digitale ... Störungen oder so etwas?"
@@ -47,20 +51,23 @@ Avanti con il piano.","算了，現在沒有時間在這邊思考了……
 先專注在我們的作戰上吧！",,"뭐, 지금 생각에 잠길 여유는 없지…
 우선 작전에 대해서만 생각하자고","Darüber haben wir jetzt keine Zeit nachzudenken.
 Weiter mit dem Plan."
-19,3005,,Devi trovare un terminale ed eseguire un salto di connessione. Contattami dal database.,"你先找出終端，登入跳躍，
+19,3005,,"Devi trovare un terminale ed
+eseguire un salto di connessione.
+Contattami dal database.","你先找出終端，登入跳躍，
 進入機密資料庫後再聯絡我！",,"댁은, 단말기를 찾아서 커넥트 점프를 해
 기밀정보의 데이터베이스에 들어가면, 나에게 연락을 줘","Du musst ein Terminal finden und einen
 Verbindungssprung ausführen. Kontaktiere mich
 von der Datenbank aus."
-20,3005,,"Non preoccuparti! Faccio un po' di baccano, per distrarre gli impiegati.","不用擔心，我會先引起一陣騷動，
+20,3005,,"Non preoccuparti! Faccio un po' di baccano,
+per distrarre gli impiegati.","不用擔心，我會先引起一陣騷動，
 來吸引神代社員的注意力。",,"걱정하지 마, 내가 약간 소란을 피워서
 카미시로 사원의 눈을 속여 줄 테니까","Keine Sorge! Ich mache ein wenig Radau, um die
 Angestellten abzulenken."
 21,3005,,Wow! È incredibile!,唔哇！這個太厲害了！,,"우오―! 엄청나구만, 이건―!",Wau! Das ist ja unglaublich!
 22,3005,,Pazzesco! Sembra quasi il mondo reale!,好酷喔！跟現實世界幾乎沒兩樣！,,굉장해―! …현실 세계랑 다를 게 없구만!,Abgefahren! Sieht fast aus wie die echte Welt!
 23,3005,,Assolutamente pazzesco! Davvero!,好酷喔！超酷的！！,,굉장해―! 진짜 굉장해―!!,Total abgefahren! Echt mal!
-24,4299,,"Ehm, giovane uomo...
-Devo chiederle di fare silenzio.","這、這位客人……
+24,4299,,"Ehm, giovane
+uomo... Devo chiederle di fare silenzio.","這、這位客人……
 會場內請保持安靜！",,"소, 손님…
 회장에서는 조금 조용히…!","Ähm, junger Mann ...
 Ich muss Sie bitten, leise zu sein."

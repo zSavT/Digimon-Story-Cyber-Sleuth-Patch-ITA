@@ -1,10 +1,11 @@
-ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
-1,3005,,"Quindi hai allenato tutta la notte con loro?
-Sei troppo buono.","所以你就陪他們特訓一直到天亮……
+﻿ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
+1,3005,,"Quindi hai allenato tutta la notte con
+loro? Sei troppo buono.","所以你就陪他們特訓一直到天亮……
 爛好人也該有個限度吧！",,"…그래서, 그 특훈이라는 거에 결국 아침까지 어울려 줬다는 건가
 ……사람이 좋은 것에도 정도가 있다고, 댁","Du hast also die ganze Nacht mit ihnen trainiert?
 Du bist zu gutmütig."
-2,3005,,"Tu non potrai mai dare abbastanza a Nokia. Lei ti sfrutta e poi ti molla. No, grazie.","配合那傢伙，不管有多少時間都不夠。
+2,3005,,"Tu non potrai mai dare abbastanza a
+Nokia. Lei ti sfrutta e poi ti molla. No, grazie.","配合那傢伙，不管有多少時間都不夠。
 只會吃盡苦頭、被耍得團團轉，我才不幹！",,"그 녀석에게 어울려 줬다간, 시간이 아무리 많아도 부족해
 이리저리 휘둘려서 고생하는 건, 난 사양이야","Nokia wirst du nie genug bieten können. Die nutzt
 dich aus und lässt dich dann fallen. Nein danke."
@@ -12,30 +13,36 @@ dich aus und lässt dich dann fallen. Nein danke."
 4,2000,,!,！！,,!!,!
 5,3002,,"Ah, e Arata c'è anche, per giunta!",哇！還附上新！,,"아, 덤으로 아라타도!","Ach, und Arata ist als Dreingabe auch noch dabei!"
 6,3005,,Che significa di nuovo adesso?,什麼……當我是贈品啊！,,뭐야… 덤이냐,Was soll das denn jetzt wieder heißen?
-7,3002,,Non l'hai sentito? Zaxon partecipa all'attacco a Sotto Zero!,"對了，你們聽說了嗎！？
+7,3002,,"Non l'hai sentito? Zaxon partecipa
+all'attacco a Sotto Zero!","對了，你們聽說了嗎！？
 Zaxon要開始攻略Under Zero了喔！！",,"저기, 저기, 들었어들었어!?
 잭슨이, 언더 제로 공략에 착수했다는 얘기!!","Hast du’s nicht gehört? Zaxon macht mit beim
 Angriff auf Unter Null!"
-8,3005,,"Sì, a quanto pare la comunità di hacker non ha proprio più nient'altro in testa.",噢，這件事在駭客圈裡引起不小的騷動……,,"…그 얘기로 꽤나 떠들썩한 모양이던데
+8,3005,,"Sì, a quanto pare la comunità di hacker non
+ha proprio più nient'altro in testa.",噢，這件事在駭客圈裡引起不小的騷動……,,"…그 얘기로 꽤나 떠들썩한 모양이던데
 해커 녀석들은","Ja, was anderes hat die Hackergemeinschaft
 offenbar gar nicht mehr im Kopf."
-9,3002,,Sapevi che Sotto Zero è una specie di terra promessa per gli hacker? Ma probabilmente non te ne importa.,"新，原來你知道啊？而且還一副興趣缺缺的樣子……
+9,3002,,"Sapevi che Sotto Zero è una specie di terra
+promessa per gli hacker? Ma probabilmente non te ne
+importa.","新，原來你知道啊？而且還一副興趣缺缺的樣子……
 Under Zero對駭客來說不是聖地嗎？",,"아라타, 알고 있었어!? 왠지 꽤나 흥미 없어 보이는데…
 언더 제로는, 해커에게 있어서 성지인 거잖아?","Wusstest du, dass Unter Null für Hacker so was
 wie das gelobte Land ist? Ist dir aber vermutlich
 egal."
-10,3005,,"Come? Terra Promessa? Non dire sciocchezze.
-Questa è solo un'area obsoleta su un
+10,3005,,"Come? Terra Promessa? Non dire
+sciocchezze. Questa è solo un'area obsoleta su un
 server arcaico.","妳說什麼？聖地？真是蠢斃了！
 不過是個老舊伺服器裡的老舊區域。",,"하아? 성지라고? 바보 같구만
 그런 건 그저 낡아빠진 서버의 안에 있는, 낡아빠진 에어리어일 뿐이라고","Wie? Gelobtes Land? Rede doch keinen Unsinn.
 Das ist nur ein veralteter Bereich auf einem
 Uralt-Server."
-11,3002,,Ma dovresti vedere le loro facce quando si tratta di riconquistarlo.,"可是大家都殺紅了眼，
+11,3002,,"Ma dovresti vedere le loro facce quando
+si tratta di riconquistarlo.","可是大家都殺紅了眼，
 說要奪回聖地什麼的！",,"하지만, 성지를 되찾겠다니 어쩌겠다니 하면서
 모두 눈빛이 변했잖아","Aber du solltest ihre Gesichter sehen, wenn es
 darum geht, ihn zurückzuerobern."
-12,3002,,"Abbiamo anche alcuni tra i Ribelli che si sono allenati apposta e vogliono mettersi alla prova.
+12,3002,,"Abbiamo anche alcuni tra i Ribelli che si sono
+allenati apposta e vogliono mettersi alla prova.
 Hanno intenzione di partecipare.","就連我們反叛者當中，
 也有不少人說要展現特訓的成果，
 便跑去參加……",,"실제로 우리들 리벨리온즈의 멤버 중에서도
@@ -43,27 +50,33 @@ Hanno intenzione di partecipare.","就連我們反叛者當中，
 참가하려고 하는 사람도 있고…","Wir haben auch ein paar bei den Rebels, die extra
 trainiert haben und sich beweisen wollen.
 Die haben vor, mitzumachen."
-13,3005,,"Beh, con una leader del genere, non mi sorprende che quei sempliciotti si ritrovino.",哈，隊長是這種程度的人，大概也只能招集一堆草包吧！,,"…헷, 리더가 리더니까 말이야
+13,3005,,"Beh, con una leader del genere, non mi
+sorprende che quei sempliciotti si ritrovino.",哈，隊長是這種程度的人，大概也只能招集一堆草包吧！,,"…헷, 리더가 리더니까 말이야
 단세포인 녀석들이 모인 거겠지","Na, bei der Anführerin wundert es mich nicht,
 dass die Einfallspinsel zueinander finden."
 14,3002,,Grmpf!,怒！,,…빠직!,Grmpf!
-15,3002,,"Cosa ne pensi, [p]?
-Ci sei anche tu all'attacco a Unter Null?","[p]，
+15,3002,,"Cosa ne pensi,
+[p]? Ci sei anche tu all'attacco a Unter Null?","[p]，
 我們要不要也去挑戰看看Under Zero？",,"……저기 [p]
 우리들도, 언더 제로에 도전해 보지 않을래?","Was meinst du, [p]?
 Bist du auch dabei beim Angriff auf Unter Null?"
 16,5016,,?!,！？,,!?,?!
-17,3002,,È come scalare una montagna perché è lì! O sfondare una parete perché lo si può fare!,"就當作是測試實力……就好像看到眼前有山就爬，
+17,3002,,"È come scalare una montagna perché è
+lì! O sfondare una parete perché lo si
+può fare!","就當作是測試實力……就好像看到眼前有山就爬，
 有牆就拆的那種感覺？",,"실력 테스트라고 할까, 저쪽에 산이 있으니 올라간다고 할까
 벽이 있으니 부숴 버린다! 같은!","Das ist wie auf einen Berg klettern, weil er da
 ist! Oder durch eine Wand brechen, weil man
 es kann!"
-18,3002,,E un'opportunità per farsi notare da noi. Ho finalmente fondato il gruppo di Domatori.,"而且你看，好不容易組成了馴獸師集團，
+18,3002,,"E un'opportunità per farsi notare da
+noi. Ho finalmente fondato il gruppo di
+Domatori.","而且你看，好不容易組成了馴獸師集團，
 可是我們還沒打開知名度吧？",,"그리고 있잖아, 기껏 테이머 집단을 결성했는데
 우리들의 지명도는 아직 보잘것없잖아?","Und eine Gelegenheit, auf uns aufmerksam zu
 machen. Ich habe die Zähmer-Gruppe schließlich
 gegründet."
-19,3002,,"Se i Rebels riescono ad arrivare a Sotto Zero prima di Zaxon, diventeremo Superstars!","如果我們可以突破Zaxon的目標Under Zero，
+19,3002,,"Se i Rebels riescono ad arrivare a
+Sotto Zero prima di Zaxon, diventeremo Superstars!","如果我們可以突破Zaxon的目標Under Zero，
 反叛者一定會一夕成名！",,"잭슨이 목표로 삼고 있는 언더 제로를
 우리들이 돌파하면, 리벨리온즈의 지명도도 급상승!","Wenn die Rebels es vor Zaxon schaffen, in
 Unter Null zu gelangen, werden wir Superstars!"
@@ -76,21 +89,23 @@ Lì farete una fine miserevole.","那裡可不是你們這種門外漢到得了�
 도달할 수 있는 장소가 아니야… 도리어 당할 게 뻔해","Noobs wie ihr werden da nicht rankommen.
 Da werdet ihr kläglich untergehen."
 24,3002,,"Ops, un momento, ehi! Chi è un Noob qui?!
-Abbiamo fatto un sacco di allenamento speciale
-e ora siamo fortissimi! Vero, [p]?!","門、門門外漢是什麼意思！
+Abbiamo fatto un sacco di allenamento
+speciale e ora siamo fortissimi! Vero, [p]?!","門、門門外漢是什麼意思！
 我們也經過了無數次的特訓，變得超級強耶！
 對吧？！[p]！？",,"아아아아마추어는 또 뭐야! 우리들도
 특훈에 특훈을 거듭해서 디럭스하게 강해졌다고!
 …그렇지!? [p]!?","Hoppla, Moment mal, he! Wer ist hier ein Noob?!
 Wir haben ganz viel Spezialtraining hinter uns
 und sind jetzt superstark! Stimmt’s, [p]?!"
-25,3002,,"E va bene! Allora lo faccio da solo!
-E ci riuscirò sicuramente prima di Zaxon!","算了！就算只有我一個人也要去！
+25,3002,,"E va bene! Allora lo faccio da solo! E
+ci riuscirò sicuramente prima di Zaxon!","算了！就算只有我一個人也要去！
 人家一定會搶在Zaxon之前攻下來！！",,"됐어! 나 혼자서 갈 거야!
 반드시 잭슨보다 먼저 공략해 주겠어!!","Na schön! Dann mache ich es eben alleine!
 Und schaffe es ganz bestimmt vor Zaxon!"
 26,2000,,...,………,,………,...
-27,3005,,"Lasciala pure. Se con questa cosa mezza pensata inciampa, sarà solo colpa sua.","不要管她！
+27,3005,,"Lasciala pure. Se con questa
+cosa mezza pensata inciampa, sarà
+solo colpa sua.","不要管她！
 讓她擅自行動，吃點苦頭吧。",,"…내버려 둬
 멋대로 뛰쳐나가서, 호되게 당하라 그래","Lass sie doch. Wenn sie bei dieser halb
 durchdachten Sache auf die Nase fällt, ist sie
@@ -111,8 +126,8 @@ Se va così come l'ultima volta...","Under Zero那地方太危險了。
 Wenn es so läuft wie letztes Mal ..."
 34,2000,,?,？？,,??,?
 35,3005,,Dobbiamo comunque seguire Nokia.,……總之，快去追諾奇雅吧！,,"…어쨌든, 노키아를 뒤쫓자",Wir müssen Nokia jedenfalls folgen.
-36,3005,,"Devo prima „preparare“ qualcosa.
-Incontriamoci a EDEN!","我動點“小手腳”再趕過去……
+36,3005,,"Devo prima „preparare“
+qualcosa. Incontriamoci a EDEN!","我動點“小手腳”再趕過去……
 在「EDEN」會合喔！",,"난 잠깐, ""준비""를 한 다음 갈게…
 「EDEN」에서 만나자!","Ich muss erst etwas „vorbereiten“.
 Treffen wir uns in EDEN!"

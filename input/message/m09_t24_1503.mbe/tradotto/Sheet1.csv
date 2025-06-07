@@ -1,23 +1,24 @@
-ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
+﻿ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
 1,3005,,"E adesso?
 Come? «Il diario straziante di Rie»?","這次又是什麼啦？
 嗯？「里繪的心怦怦日記」？",,"…이번엔 또 뭐야?
 ……응?「리에의 심쿵 일기」?","Was denn jetzt?
 Wie? „Ries herzzereißendes Tagebuch“?"
-2,3005,,"Allora, vediamo un po'...","我看看……
+2,3005,,"Allora, vediamo un
+po'...","我看看……
 ……",,"어디어디…
 ……","So, dann wollen wir mal sehen ...
 ..."
-3,3005,,"Il contenuto dev'essere criptato.
-Non può essere! Siamo già
+3,3005,,"Il contenuto dev'essere
+criptato. Non può essere! Siamo già
 nella zona confidenziale!","內容好像被加密了，
 該不會……這就是最高機密的函式庫？",,"안쪽은 암호화되어 있는 모양이구만
 설마… 이게 극비 정보의 라이브러리라는 거야?","Der Inhalt ist wohl verschlüsselt.
 Das kann doch nicht sein! Wir sind doch schon
 im vertraulichen Bereich!"
 4,2000,,!,！,,!,!
-5,2000,,"Qui è la squadra di ricerca della stanza segreta!
-Buon giorno, quale pizza desidera?
+5,2000,,"Qui è la squadra di ricerca della
+stanza segreta! Buon giorno, quale pizza desidera?
 Qui è la vigilanza di quartiere di Arata!","你好！這裡是機密屋搜查隊！
 您好！這裡是電電軒拉麵店！
 這裡是“守護新搜索民宅協會”！",,"네! 이쪽은 비밀의 방 수색대!
@@ -28,7 +29,8 @@ Hier ist Aratas Nachbarschaftswache!"
 6,3006,,State bene voi due?!,你們兩個都沒事吧！？,,"…둘 다, 무사한가!?",Geht es euch beiden gut?!
 7,2000,,?,？？,,??,?
 8,3005,,"È successo qualcosa, Kyoko?",發生什麼事了嗎？杏子姊！,,"무슨 일 있었던 거야, 쿄코 씨!?","Ist etwas passiert, Kyoko?"
-9,3006,,A quanto pare c'è stato un incidente all'evento di prova.,更新體驗會上好像發生騷動了。,,업데이트 체험회에서 소란이 일어난 모양이다,"Offenbar gab es einen Vorfall beim Schnupper-
+9,3006,,"A quanto pare c'è stato un incidente all'evento
+di prova.",更新體驗會上好像發生騷動了。,,업데이트 체험회에서 소란이 일어난 모양이다,"Offenbar gab es einen Vorfall beim Schnupper-
 Event."
 10,3005,,"Un incidente? Che significa?
 Nella Sala Eventi?","騷動？怎麼了？

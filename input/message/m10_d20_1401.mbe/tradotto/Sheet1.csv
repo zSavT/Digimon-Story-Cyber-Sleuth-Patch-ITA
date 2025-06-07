@@ -1,4 +1,4 @@
-ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
+﻿ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
 1,3012,,Non ci credo...,怎、怎麼會這樣？,,"이, 이럴 수가…",Ich fasse es nicht ...
 2,3001,,"Fei?!
 Cosa diavolo è questo Digimon?","菲……！？
@@ -15,31 +15,33 @@ Volevo solo salvare il sogno di mio padre!","為什麼要阻撓我！？
 我只是想要守護父親留下來的夢想世界啊！",,"어째서 방해하는 거야!? …난
 아버지가 남긴 꿈의 세계를 지키고 싶은 것 뿐인데…!","Warum müsst ihr euch einmischen?!
 Ich wollte nur den Traum meines Vaters retten!"
-5,3005,,"Ehi, ehi, che succede adesso?
-Ti comporti all'improvviso come una ragazza.
-E che mi dici di tuo padre?","喂，你怎麼突然變得那麼娘娘腔？
+5,3005,,"Ehi, ehi, che succede
+adesso? Ti comporti all'improvviso come una
+ragazza. E che mi dici di tuo padre?","喂，你怎麼突然變得那麼娘娘腔？
 父親是怎麼回事？",,"야야, 뭐야, 갑자기 여자애처럼…
 아버지라니 무슨…","He, he, was ist denn jetzt los?
 Du benimmst dich plötzlich wie ein Mädchen.
 Und was war das mit deinem Vater?"
 6,3008,,"Sì, sì, va bene, va bene! Basta!",好了好了～～辛苦你們了～～★,,"네네네~~~, 수고하셨습니다~♥","Ja, ja, ist ja gut, ist ja gut! Das reicht!"
 7,5016,,!,！！,,!!,!
-8,3008,,"Hai fatto proprio bene!
-Davvero ammirevole, tesoro!","做得非常好，
+8,3008,,"Hai fatto proprio
+bene! Davvero ammirevole, tesoro!","做得非常好，
 姊姊我好感動唷～～♪",,"열심히 해 줬네~
 누나, 정~말 감탄했어~~♪","Das hast du fein gemacht!
 Ganz bewundernswert, Schätzchen!"
 9,3001,,Signorina Rie?!,里繪姊！？,,…리에 씨!?,Fräulein Rie?!
-10,3008,,"Vai pure e mettiti comodo.
-Hai finito qui ora.","你可以去休息了，
+10,3008,,"Vai pure e mettiti
+comodo. Hai finito qui ora.","你可以去休息了，
 你的任務已經結束了喔★",,"이젠 쉬어도 괜찮아
 네 역할은, 이걸로 끝났으니까♥","Geh ruhig und mach es dir gemütlich.
 Du bist hier jetzt fertig."
-11,3008,,Il tuo compito come Yuugo era di portare tutti qui!,"把大家帶來這裡，
+11,3008,,"Il tuo compito come Yuugo era di
+portare tutti qui!","把大家帶來這裡，
 就是你YUGO的任務喔♪",,"이곳에 모두를 데려오는 게 너의…
 유고 군의 역할이었어♪","Deine Aufgabe als Yuugo war es, alle
 hierherzubringen!"
-12,3008,,"E cosa abbiamo detto che succederà dopo, ora che tutti sono qui?","按照計畫，你把大家聚集到這裡，
+12,3008,,"E cosa abbiamo detto che succederà dopo,
+ora che tutti sono qui?","按照計畫，你把大家聚集到這裡，
 接下來呢——",,"각본대로, 이곳에 모두를 모아 주면―?
 그러면―?","Und was haben wir gesagt, was als Nächstes kommt,
 jetzt, wo alle hier sind?"

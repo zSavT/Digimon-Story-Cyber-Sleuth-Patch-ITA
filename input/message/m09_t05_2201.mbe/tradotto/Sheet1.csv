@@ -1,5 +1,6 @@
-ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
-1,3003,,[p]? Cosa succede? È emerso qualcos'altro?,"[p]……?
+﻿ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
+1,3003,,"[p]?
+Cosa succede? È emerso qualcos'altro?","[p]……?
 怎麼了？還有什麼事嗎…",,"[p] 씨…?
 무슨 일이신가요, 아직 무언가…","[p]?
 Was ist los? Hat sich noch etwas ergeben?"
@@ -8,7 +9,8 @@ Was ist los? Hat sich noch etwas ergeben?"
 你是擔心我才追上來的嗎？",,"…혹시
 걱정이 돼서 쫓아와 주신 건가요?","Bist du mir nach, weil du dir Sorgen machst?"
 4,3003,,Grazie a te.,謝謝你。,,…감사합니다,Danke dir.
-5,3003,,Posso chiederti qualcosa?,"……
+5,3003,,"Posso
+chiederti qualcosa?","……
 我可以問你一件事嗎？",,"……
 …한 가지, 물어봐도 되나요?","...
 Kann ich dich etwas fragen?"
@@ -32,8 +34,8 @@ Ich werde tun, was ich ganz offensichtlich
 tun muss."
 12,3003,,Devo andare adesso. Addio.,那麼，我先失陪了。,,"…그럼, 실례하겠습니다",Ich muss jetzt gehen. Lebwohl.
 13,2000,,...,……,,……,...
-14,4800,,"Argh! Oh mio Dio... Il mio collo!
-Oh no, è la fine?","咳嗯——！！我、我的喉嚨！
+14,4800,,"Argh! Oh mio Dio... Il
+mio collo! Oh no, è la fine?","咳嗯——！！我、我的喉嚨！
 可惡……到此為止……了嗎？",,"가학――!! 모, 목이―!
 젠장… 여기까지…인가…?","Argh! Oh Gott ... Mein Hals!
 Oh nein, ist das das Ende?"
