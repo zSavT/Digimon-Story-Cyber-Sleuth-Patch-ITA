@@ -1,12 +1,13 @@
-ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
-1,4841,,[f1Errore grave rilevato. Ricerca] [f1Rilevato. Eliminare immediatamente],"[f1シンコクナ　えらーガ　ハッセイ
+﻿ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
+1,4841,,"[f1Errore grave rilevato.
+Ricerca] [f1Rilevato. Eliminare immediatamente]","[f1シンコクナ　えらーガ　ハッセイ
 ケンサク]―　[f1ハッケン　タダチニハイジョ　スル]",,"[f1シンコクナ　えらーガ　ハッセイ
 ケンサク]―　[f1ハッケン　タダチニハイジョ　スル]","[f1シンコクナ　えらーガ　ハッセイ
 ケンサク]　[f1ハッケン　タダチニハイジョ　スル]"
 2,3002,,C-Che cos'era?,這、這是什麼聲音！？,,"뭐, 뭐야 이 소리!?",W-Was war das?
 3,3003,,Rimanete tutti vigili!,大家，請小心！,,"여러분, 조심하세요!",Bleibt alle wachsam!
-4,1416,,"Questo è König Drasil_7D6.
-Un vero terminal di König Drasil.","這是「世界樹7D6」，
+4,1416,,"Questo è König
+Drasil_7D6. Un vero terminal di König Drasil.","這是「世界樹7D6」，
 是貨真價實的世界樹終端。",,"…이건「위그드라실7D6」
 틀림없는, 위그드라실의 단말이다","Das ist König Drasil_7D6.
 Ein echtes König Drasil-Terminal."
@@ -15,46 +16,51 @@ I Devoratori lo hanno completamente divorato!","世界樹……好像把我們�
 它果然被侵食者侵蝕殆盡了嗎！",,"위그드라실이… 우리들을 이물로 간주한 모양이다…
 역시, 이터에게 침식되어 버린 건가!","König Drasil sieht uns als Fremdkörper.
 Verschlinger haben ihn total zerfressen!"
-6,1416,,"Re Drasil non ha più alcuna volontà.
-Non riesco neanche a sentire la sua voce.","世界樹已經失去意志、
+6,1416,,"Re Drasil non ha più alcuna volontà. Non
+riesco neanche a sentire la sua voce.","世界樹已經失去意志、
 也聽不見它的聲音了。",,"더 이상, 위그드라실의 의지는 존재하지 않는다
 …목소리도 들리지 않는다","König Drasil verfügt über keinen Willen mehr.
 Ich kann auch seine Stimme nicht hören."
-7,1416,,"Davanti a noi, un muro ci sbarra il cammino.
-È solo un programma.","在我們眼前的是，阻擋我們去路的障壁——
+7,1416,,"Davanti a noi, un muro ci sbarra il
+cammino. È solo un programma.","在我們眼前的是，阻擋我們去路的障壁——
 只是個程式。",,"눈앞에 있는 건, 우리들의 앞길을 가로막는 장벽―
 단순한 프로그램이다","Vor uns versperrt uns ein Wall den Weg.
 Es ist lediglich ein Programm."
 8,3002,,Hmpf! Se è... solo un muro...!,哼～只是個障壁吧……這樣的話！,,"흐~응, 단순한 장벽 말이지… 그렇다면!",Hmpf! Wenn es ... nur ein Wall ist ...!
 9,3003,,Allora dobbiamo proprio... sfondarlo.,只能突破了……對吧？,,돌파할 뿐… 이네요,Dann müssen wir ihn eben ... durchbrechen.
 10,3005,,Vi aiuto. Per rimediare!,我也來幫忙……就當作是復健吧。,,나도 돕겠어… 재활 치료라는 거다,Ich helfe euch. Zur Wiedergutmachung!
-11,3002,,"Wow, che forza! Da quando sei così forte, Arata?",哇，看起來好厲害！新，你是什麼時候！？,,"우왓, 엄청 강해 보여! 아라타, 어느 틈에!?","Hui, wie kräftig! Seit wann bist du denn so stark,
+11,3002,,"Wow, che forza! Da quando sei così forte,
+Arata?",哇，看起來好厲害！新，你是什麼時候！？,,"우왓, 엄청 강해 보여! 아라타, 어느 틈에!?","Hui, wie kräftig! Seit wann bist du denn so stark,
 Arata?"
 12,3005,,"Hehe! Cosa credi, con chi hai a che fare?",嘿，妳以為我是誰？,,"헷, 날 누구라고 생각하는 거야?","Hehe! Was meinst du, mit wem du es zu tun hast?"
-13,3003,,"Super! Anche se non è in perfetta forma, è comunque fantastico. Un applauso al primo leader di Gamma.","不愧是Jude的前隊長，
+13,3003,,"Super! Anche se non è in perfetta
+forma, è comunque fantastico. Un applauso
+al primo leader di Gamma.","不愧是Jude的前隊長，
 好歹也是傳說啊……",,"역시, ""썩어도"" 레전드…
 쥬드의 전 리더라는 건가요","Super! Selbst, wenn er nicht in Topform ist,
 ist er immer noch großartig. Ein Hoch auf den
 ersten Anführer von Gamma."
-14,3003,,Che tu ti sia procurato in così poco tempo Digimon che possano tener testa ai miei...,"居然在這麼短的期間內，得到可以和我的數碼寶貝
+14,3003,,"Che tu ti sia procurato in così poco tempo
+Digimon che possano tener testa ai miei...","居然在這麼短的期間內，得到可以和我的數碼寶貝
 匹敵的數碼寶貝……",,"이 단기간에 제 디지몬에 필적할 정도의 디지몬을
 손에 넣다니…","Dass du dir in so kurzer Zeit Digimon geholt hast,
 die es mit meinen aufnehmen können ..."
-15,3003,,"Sei proprio un nerd.
-E inoltre un cattivo perdente.","好驚人的宅度……
+15,3003,,"Sei proprio un
+nerd. E inoltre un cattivo perdente.","好驚人的宅度……
 就算是好勝心強，也該有個限度啊。",,"골수 오타쿠 농도예요…
 지기 싫어하는 것에도 정도가 있지, 같은","Du bist echt ein Nerd.
 Und außerdem ein schlechter Verlierer."
-16,3003,,"Onestamente, questo non lo trovo affatto attraente.",老實說，我有點嚇到。,,"…솔직히 말해서, 좀 깨지만요","Das finde ich, ehrlich gesagt, so gar nicht
+16,3003,,"Onestamente, questo non lo trovo affatto
+attraente.",老實說，我有點嚇到。,,"…솔직히 말해서, 좀 깨지만요","Das finde ich, ehrlich gesagt, so gar nicht
 attraktiv."
 17,3005,,Ehi! Non sono un nerd! Sono un geek!,什麼！？我才不是宅男，叫我科技鬼才！！,,"아앙!? 오타쿠 아니거든, 기크라고 불러!!",He! Ich bin kein Nerd! Ich bin ein Geek!
-18,3005,,"Ma Yuuko, cosa ti succede?
-La tua personalità non è cambiata?","話說，悠子……妳以前是這樣的人嗎？
+18,3005,,"Ma Yuuko, cosa ti
+succede? La tua personalità non è cambiata?","話說，悠子……妳以前是這樣的人嗎？
 妳的個性是不是變啦？",,"…그보다, 유코… 너, 그랬던가…?
 캐릭터가 바뀌지 않았어…?","Aber Yuuko, was ist denn mit dir?
 Hat sich deine Persönlichkeit nicht verändert?"
-19,1416,,"*Sospiro* Ho creduto in tutti voi.
-Dovreste rendervene conto.","哎呀呀……你們姑且是我所相信的可能性啊。
+19,1416,,"*Sospiro* Ho creduto in tutti
+voi. Dovreste rendervene conto.","哎呀呀……你們姑且是我所相信的可能性啊。
 你們可要有點自覺。",,"이거이거… 너희들은 일단, 내가 믿은 가능성이다
 그 점을 좀 더, 자각해 주도록","*Seufz* Ich habe an euch alle geglaubt.
 Das solltet ihr euch bewusst machen."
