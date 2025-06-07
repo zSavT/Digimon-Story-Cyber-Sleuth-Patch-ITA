@@ -1,57 +1,50 @@
 ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
-1,1687,,"Sapevo che non potevo vincere. Non ancora.
-Mi dispiace tanto, master.","現在的我……果然沒有辦法打贏……
+1,1687,,"Sapevo che non potevo vincere. Ancora no. Mi dispiace tanto, Maestro.","現在的我……果然沒有辦法打贏……
 師父，對不起。",,"역시 이기지 못했어… 지금의 나로선…
 …스승님, 죄송해요","Ich wusste, dass ich nicht gewinnen konnte. Noch
 nicht. Es tut mir so leid, Meister."
-2,1049,,"Cos'è questo? È questo il limite del tuo potere?
-Hai perso anche la volontà di rialzarti?","哎呀呀……你只有這點力量嗎？
+2,1049,,"Come? Sei già finito?
+Non riesci nemmeno a rialzarti?","哎呀呀……你只有這點力量嗎？
 連站起來的力氣都沒了？",,"뭐야뭐야… 네 힘은 고작 그 정도인가?
 일어설 기력조차 없어진 거냐?","Wie? Bist du etwa schon am Ende?
 Kannst du noch nicht einmal aufstehen?"
-3,1687,,"Sapevo che non ci sarebbe stato modo che io potessi mai diventare un
-Royal Knight.",我要成為皇家騎士，果然是癡人說夢……,,"내가 로얄 나이츠가 되는 건, 역시 무리였던 거야…","Ich wusste, dass ich nicht das Zeug zum Royal
+3,1687,,Sapevo di non avere la stoffa per essere un Royal Knight.,我要成為皇家騎士，果然是癡人說夢……,,"내가 로얄 나이츠가 되는 건, 역시 무리였던 거야…","Ich wusste, dass ich nicht das Zeug zum Royal
 Knight habe."
-4,1049,,Sei diventato imprudente nella tua ricerca della forza.,你一路走來，只為了追求力量，不顧一切。,,"…넌 강함만을 추구하며, 무작정 달려 왔다","Du bist auf deiner Suche nach Macht unvorsichtig
+4,1049,,Sei diventato imprudente nella tua ricerca di potere.,你一路走來，只為了追求力量，不顧一切。,,"…넌 강함만을 추구하며, 무작정 달려 왔다","Du bist auf deiner Suche nach Macht unvorsichtig
 geworden."
-5,1049,,"Non è un errore, ma non diventerai mai
-un vero uomo in quel modo.","你並沒有錯。
+5,1049,,"Questo non è un errore, ma così non raggiungerai mai la vera forza.","你並沒有錯。
 但是啊，光是這樣，沒有辦法成為真正的男子漢。",,"그건 틀리지 않았어
 하지만 말이야, 그것만으로 진정한 사나이는 될 수 없어","Das ist zwar kein Fehler, doch so wirst du niemals
 wahre Stärke erlangen."
-6,1049,,"Un vero uomo ha bisogno di una vera preparazione.
-Tu ce l'hai?","要成為真正的男子漢，需要「真正的覺悟」。
+6,1049,,Per questo serve la giusta prontezza per agire. Ce l'hai?,"要成為真正的男子漢，需要「真正的覺悟」。
 你有那樣的覺悟嗎？",,"진정한 사나이가 되려면,「진정한 각오」가 필요해
 너에게 그 각오는 있나?","Man braucht dazu die rechte Bereitschaft für dein
 Handeln. Hast du sie?"
-7,1687,,Preparazione... Non lo so.,什麼覺悟……　我沒有……,,각오라니… 나에게 그런 건…,Bereitschaft ... Ich weiß es nicht.
-8,1049,,"Allora la tua battaglia finisce qui.
-Porterò il tuo allenamento a una conclusione!","那麼，你的戰鬥就到此為止。
+7,1687,,Prontezza... non lo so.,什麼覺悟……　我沒有……,,각오라니… 나에게 그런 건…,Bereitschaft ... Ich weiß es nicht.
+8,1049,,"Allora la tua lotta finisce qui.
+Metterò fine al tuo addestramento!","那麼，你的戰鬥就到此為止。
 讓我來幫你終結你的修行吧！",,"그럼 네 싸움은 여기까지로군
 네 수행, 내가 끝을 내 주마!","Dann endet dein Kampf hier.
 Ich werde dein Training beenden!"
-9,1049,,Ma tu chi diavolo sei?!,你是誰！？,,누구냐 네놈은!?,Wer zum Teufel bist du?!
-10,1687,,"Tu... Ti avevo detto di non seguirmi, no?
-Non c'è più niente da fare. È finita.","你……我不是叫你別跟過來嗎？
+9,1049,,Chi diavolo sei?!,你是誰！？,,누구냐 네놈은!?,Wer zum Teufel bist du?!
+10,1687,,Io... te l'avevo detto di non seguirmi! Non puoi fare più nulla. È finita.,"你……我不是叫你別跟過來嗎？
 已經無所謂了……我已經……",,"…너… 따라오지 말라고 했잖아?
 이제 됐어… 난 더 이상…","Ich ... habe dir doch gesagt, du sollst mir nicht
 folgen! Du kannst nichts mehr tun. Es ist vorbei."
-11,1687,,"Perché il mio padrone mi ha ordinato di farlo.
-Non c'è bisogno di tutto questo!","為什麼？就算師父交代，
+11,1687,,"Perché? Perché il mio maestro l'ha detto.
+Tutto questo è inutile!","為什麼？就算師父交代，
 你也用不著這樣！",,"…어째서? 스승님에게 부탁받았다고 해서
 이런 짓 안 해도 돼!","Warum? Weil mein Meister das gesagt hat.
 Das hier ist alles unnötig!"
 12,1049,,"Hackmon...
-Guardando la schiena di [p],
-ancora non capisci?","哈克獸……
+Non capisci ancora, anche se tu
+[p] guardi sulla schiena?","哈克獸……
 就算看著這傢伙的背影，你還是不瞭解嗎！？",,"…헉몬
 그 녀석의 등을 보고도, 아직 넌 깨닫지 못하는 것이냐!?","Hackmon ...
 Verstehst du immer noch nicht, obwohl du
 [p] auf den Rücken schaust?"
-13,1687,,Schiena? Per proteggere la... schiena...,背影？保護我的……背影。,,등…? 날 지키는… 등,Rücken? Den Rücken ... stärken ...
-14,1688,,"Hackmon... L'appellativo di Royal Knight non ti viene
-concesso da qualcuno. Vien chiamato per la prima volta
-""Royal Knight"" quando proteggi il mondo.","哈克獸呀！
+13,1687,,Schiena? La schiena... rafforzare...,背影？保護我的……背影。,,등…? 날 지키는… 등,Rücken? Den Rücken ... stärken ...
+14,1688,,Hackmon... Cavaliere Reale non è un titolo che qualcuno ti conferisce. Tu ne diventi uno quando proteggi il mondo.,"哈克獸呀！
 皇家騎士的稱號不是別人給的。
 是人們自然而然地將守護世界者稱為皇家騎士。",,"헉몬이여… 로얄 나이츠의 칭호는
 누군가에게서 받는 게 아니다
@@ -59,34 +52,32 @@ concesso da qualcuno. Vien chiamato per la prima volta
 jemand verleiht. Du wirst zu einem, wenn du
 die Welt beschützt."
 15,1688,,"Diventa un protettore, Hackmon.
-Del mondo, del Digital World, dei tuoi
-amici!","成為守護者吧！哈克獸！
+Un protettore del mondo, del Mondo Digitale
+e dei tuoi amici!","成為守護者吧！哈克獸！
 守護世界、數碼世界、以及重要的朋友……！",,"지키는 자가 되어라, 헉몬
 세계를, 디지털 월드를, 소중한 친구를…!","Werde ein Beschützer, Hackmon.
 Ein Beschützer der Welt, der Digitalen Welt
 und deiner Freunde!"
-16,1688,,"Quella volontà d'acciaio ti condurrà al sentiero della
-Cavalleria Reale!",那份鋼鐵的意志，一定會引領你成為皇家騎士！,,"그 강철의 의지가, 너를 반드시 로얄 나이츠로 인도해 줄 것이다!","Dein stählerner Wille wird dir den Weg zum
+16,1688,,La tua volontà d'acciaio ti spianerà la strada all'esistenza come Royal Knight!,那份鋼鐵的意志，一定會引領你成為皇家騎士！,,"그 강철의 의지가, 너를 반드시 로얄 나이츠로 인도해 줄 것이다!","Dein stählerner Wille wird dir den Weg zum
 Dasein als Royal Knight ebnen!"
-17,1687,,Capisco... Mi stavo solo allenando per diventare più forte.,原來如此……我一路修行過來，只追求變強。,,"그렇구나… 난 강해지는 것만을 추구하면서, 수행해 왔어","Verstehe ... Ich habe nur trainiert, um stärker
+17,1687,,Capisco... Mi sono solo allenato per diventare più forte.,原來如此……我一路修行過來，只追求變強。,,"그렇구나… 난 강해지는 것만을 추구하면서, 수행해 왔어","Verstehe ... Ich habe nur trainiert, um stärker
 zu werden."
-18,1687,,"Ma mi sbagliavo! Il significato dietro al combattimento...
-La cosa importante... Era quello!","但光是那樣還不夠！
+18,1687,,Ma quello è stato un errore! Perché si combatte... è l'importante! Era quello il qualcosa!,"但光是那樣還不夠！
 戰鬥的意義……才是……最重要的！",,"하지만, 그래선 안 됐던 거야!
 싸우는 의미… 중요한 건… 그거였던 거야!","Aber das war ein Fehler! Warum man kämpft ...
 ist das Wichtige! Das war das Etwas!"
 19,1687,,"Combatterò!
-Per proteggere la persona che mi sostiene!","我要戰鬥！
+Per proteggere la persona che mi supporta!","我要戰鬥！
 為了守護這個保護我的人！",,"난 싸우겠어!
 날 지켜 주는, 이 사람을 지키기 위해서!","Ich werde kämpfen!
 Um die Person zu schützen, die mich unterstützt!"
-20,1049,,"Oh-ho.
-Sembra che tu sia migliorato un po'.","哈哈……
+20,1049,,"Complimenti.
+Ti sei probabilmente un po' ripreso.","哈哈……
 你的神情有比較像樣了呢。",,"호오…
 조금은 괜찮은 얼굴이 됐잖아","Alle Achtung.
 Du hast dich wohl ein wenig zusammengenommen."
-21,1049,,"Vedrò quanto sei preparato ora!
-Attaccami con tutto quello che hai!","那是不是真正的覺悟，讓我再試試看吧！
+21,1049,,"Vediamo come sei pronto ora!
+Attaccami con tutto quello che puoi!","那是不是真正的覺悟，讓我再試試看吧！
 使出全力上吧！",,"그 각오가 진짜인지 어떤지, 다시 한 번 시험해 주마!
 전력으로 덤벼라!","Mal sehen, wie es nun um deine Bereitschaft steht!
 Greif mich mit allem an, was du kannst!"
