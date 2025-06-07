@@ -1,12 +1,12 @@
-ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
-1,3002,,"Argh! Graaah! Sono così arrabbiato!
-Che problema ha questo tipo incappucciato?","啊啊啊啊！氣死我了！
+﻿ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
+1,3002,,"Argh! Graaah! Sono così
+arrabbiato! Che problema ha questo tipo incappucciato?","啊啊啊啊！氣死我了！
 那個連帽外套男，什麼東西嘛！",,"아아아아―――! 열 받아아아아~!
 대체 뭐야, 저 후드남!!","Argh! Graaah! Ich bin so sauer!
 Was hat dieser Kapuzenheini für ein Problem?"
 2,3002,,"Si crede proprio il più grande.
-Guardatemi! Sono così fatalista.
-Sono così bello, sono così fantastico!","他自以為很帥氣嗎？
+Guardatemi! Sono così fatalista. Sono
+così bello, sono così fantastico!","他自以為很帥氣嗎？
 自以為「我最神秘、我最冷酷、我最帥」嗎？",,"쟤 자기가 멋지다고 생각하고 있나?
 무정한 나, 쿨한 나, 완전 멋져! 같은!?","Der hält sich wohl für den Größten.
 Schaut mich an! Ich bin ja so fatalistisch.
@@ -26,7 +26,8 @@ Er ist wirklich toll."
 7,3002,,C'è solo una cosa...,既然這樣！！,,이렇게 된 이상!!,Da gibt’s nur eins ...
 8,3002,,Io sono la leader!,那就由我當隊長就是了！,,내가 리더를 해 버릴 테야!,Ich bin die Anführerin!
 9,2000,,?!,！！！！！！！！！！？？？？？？？？,,!!!!!!!!!!!????????,?!
-10,3002,,Cosa guardi così? Non devi fare così lo scioccato! E così dubbioso!,你幹嘛？居然一臉驚訝和疑問！,,잠깐 뭐야! 그 성대한 놀람과 의문은!,"Was schaust du denn so? Ganz so schockiert
+10,3002,,"Cosa guardi così? Non devi fare
+così lo scioccato! E così dubbioso!",你幹嘛？居然一臉驚訝和疑問！,,잠깐 뭐야! 그 성대한 놀람과 의문은!,"Was schaust du denn so? Ganz so schockiert
 brauchst du nicht zu tun! Und so zweifelnd!"
 11,3002,,"[p]!
 Tu mi aiuti a reclutare membri, sì?","[p]！
@@ -36,7 +37,8 @@ Du hilfst mir, Mitglieder zu rekrutieren, ja?"
 12,2000,,...,…………………………,,…………………………,...
 13,3002,,Cosa?! Ma perché hai esitato così a lungo?,幹嘛幹嘛？這麼長的沉默和猶豫是什麼意思？,,뭐야뭐야! 그 장대한 침묵과 망설임은!,Was?! Warum hast du denn so lange gezögert?
 14,3002,,"Non hai voglia? Non ti va?
-Ora ho DAVVERO paura di come dovrebbe continuare!","你不願意嗎！？你竟然不願意嗎！？
+Ora ho DAVVERO paura di come dovrebbe
+continuare!","你不願意嗎！？你竟然不願意嗎！？
 你一臉憂心忡忡的樣子！",,"싫은 거야!? 싫은 겁니까!?
 …무진~장 앞날이 불안하다는 느낌이잖아!","Hast du keine Lust? Magst nicht?
 Jetzt habe ich WIRKLICH Angst, wie es weitergehen
@@ -47,7 +49,8 @@ Ho qui un obiettivo chiaro!","哼哼哼～不用擔心。
 생각해 둔 건 제대~로 있으니까!","Oho! Mach dir mal keine Sorgen!
 Ich habe hier ein klares Ziel!"
 16,2000,,???,？？？,,???,???
-17,3002,,Credo che Yuugo dei Zaxons forse mi capirà un po' meglio!,"我覺得如果是Zaxon的YUGO，
+17,3002,,"Credo che Yuugo dei Zaxons
+forse mi capirà un po' meglio!","我覺得如果是Zaxon的YUGO，
 搞不好會願意聽我說！",,"나, 잭슨의 유고라면
 조금은 얘기가 통하지 않을까 하고 생각해!","Ich glaube, dass mich Yuugo von den Zaxons wohl
 ein bisschen besser verstehen wird!"
@@ -56,13 +59,16 @@ Dove c'è una volontà, c'è una via!","一定會有辦法！不試試看就沒�
 失敗是因為不夠努力！",,"하면 된다! 어떤 일도 하지 않으면 되지 않는다!
 되지 않는 건 사람이 하지 않기 때문이다~!!","Que sera, sera!
 Wo ein Wille, da ein Weg!"
-19,3002,,Cominciamo col cercare di coinvolgere Yuugo!,先去問問看YUGO吧！,,우선 유고부터 권유해 보자!,"Fangen wir damit an, dass wir versuchen, Yuugo ins
+19,3002,,"Cominciamo col cercare di
+coinvolgere Yuugo!",先去問問看YUGO吧！,,우선 유고부터 권유해 보자!,"Fangen wir damit an, dass wir versuchen, Yuugo ins
 Boot zu holen!"
 20,3002,,Ah! E Fei non deve venire a sapere niente di questa cosa!,啊！但是菲不行唷！,,아! 페이라는 녀석은 NG야!,Ach! Und Fei darf von der Sache nichts mitkriegen!
 21,2000,,???,？？？,,???,???
-22,3002,,"Beh, quello è già un po' inquietante, vero?",因為那傢伙太變態了！,,"왜냐면 그 녀석, 변태 같잖아!","Na, die ist doch schon ein bisschen gruselig,
+22,3002,,"Beh, quello è già un po' inquietante,
+vero?",因為那傢伙太變態了！,,"왜냐면 그 녀석, 변태 같잖아!","Na, die ist doch schon ein bisschen gruselig,
 oder?"
-23,3002,,"Quella parla in modo strano, e il suo stile... Decisamente una svampita da manuale!","那種講話方式和穿著……
+23,3002,,"Quella parla in modo strano, e il suo
+stile... Decisamente una svampita da manuale!","那種講話方式和穿著……
 她絕對是變態！變．態！",,"그 말투라든가 그 복장이라든가…
 그 녀석 분~명히 변태일 거야! 변 태!","Die redet komisch, und ihr Stil ...
 Eindeutig eine kapitale Tussi!"
@@ -70,25 +76,26 @@ Eindeutig eine kapitale Tussi!"
 25,3002,,"Cosa?
 Sei un'amica di [p]?",嗯？　[p]的朋友？,,…?? 어? [p]의 친구?,"Wie?
 Bist du eine Freundin von [p]?"
-26,3003,,"Siete apparentemente impegnati al momento.
-Tornerò un'altra volta.","你們好像正在忙……
+26,3003,,"Siete apparentemente impegnati al
+momento. Tornerò un'altra volta.","你們好像正在忙……
 我換個時間再來！",,"바쁘신 것 같네요…
 나중에 다시 올게요","Ihr seid offenbar gerade beschäftigt.
 Ich komme ein andermal wieder."
-27,3002,,"No, non siamo affatto occupati!
-E non stiamo decisamente parlando di ragazze!","我……我們才沒有在、
+27,3002,,"No, non siamo affatto occupati! E
+non stiamo decisamente parlando di ragazze!","我……我們才沒有在、
 在忙著聊變態！",,"벼, 별로 바쁘지 않아!
 변태 일로 바쁘다니 말도 안 된다구!!","Nein, wir sind gar nicht beschäftigt!
 Und reden definitiv nicht über Tussis!"
 28,3002,,...,…………,,…………,...
 29,3002,,Eh?,嗯？,,……어?,Hä?
-30,3002,,"Ehi, aspetta un attimo! Non sei tu Yuuko Kamishiro?
-Della Kamishiro Enterprises?","咦？咦咦！？妳該不會是神代悠子！？
+30,3002,,"Ehi, aspetta un attimo! Non sei tu Yuuko
+Kamishiro? Della Kamishiro Enterprises?","咦？咦咦！？妳該不會是神代悠子！？
 那……那個神代企業的！？",,"에! 에에!? 당신 혹시, 카미시로 유코 씨!?
 그, 카미시로 엔터프라이즈의…?","He, Sekunde mal! Bist du nicht Yuuko Kamishiro?
 Von Kamishiro Enterprises?"
 31,3003,,Ma...,是、是的……,,"네, 네…",Doch ...
-32,3002,,"Wow! Lei è davvero una tua amica, [p]!","唔哇！
+32,3002,,"Wow! Lei è davvero una tua amica,
+[p]!","唔哇！
 [p]，她真的是你的朋友啊！？",,"우와―!
 [p], 진짜 친구였구나!?","Wow! Sie ist wirklich eine Freundin von dir,
 [p]!"
@@ -97,13 +104,15 @@ Von Kamishiro Enterprises?"
 我們也算是朋友嗎！？",,"그럼, 혹시혹시…
 우리들도 친구라는 걸까!?","Heißt das also, dass wir auch Freunde sind?"
 35,3003,,Cosa?!,咦！？,,에!?,Was?!
-36,3002,,"Giusto, no? L'amico del mio amico è il mio amico. Questo è da sempre e per sempre così.","因為朋友的朋友就是朋友，
+36,3002,,"Giusto, no? L'amico del mio amico è il mio
+amico. Questo è da sempre e per sempre così.","因為朋友的朋友就是朋友，
 這不是世間常理嗎？",,"그야 그렇겠지! 친구의 친구는 친구라고
 아~주 먼 옛날부터 세상의 섭리였으니까!","Stimmt doch, oder? Der Freund meines Freundes ist
 mein Freund. Das ist schon immer und ewig so."
 37,3003,,Sì... ehm...,呃……嗯……,,에… 뭐…,Ja ... äh ...
 38,3002,,Sono Nokia Shiramine!,我叫白峰諾奇雅！,,"나, 시라미네 노키아!",Ich bin Nokia Shiramine!
-39,3002,,Chiamami Nokia! O anche Akkino! Quello era il mio soprannome alle elementari!,"叫我諾奇雅就行了！要叫我雅奇諾也可以唷！
+39,3002,,"Chiamami Nokia! O anche Akkino! Quello era il
+mio soprannome alle elementari!","叫我諾奇雅就行了！要叫我雅奇諾也可以唷！
 啊……這是我國小時的外號！",,"노키아라고 불러도 된다구? 앗키노여도 괜찮지만!
 아, 이거, 초등학생 때부터의 별명이야!!","Nenn mich Nokia! Oder auch Akkino! Das war mein
 Spitzname in der Grundschule!"
@@ -115,19 +124,22 @@ Spitzname in der Grundschule!"
 „Yukkorin“ wär aber auch total niedlich!"
 42,3003,,Io... Io tornerò più tardi!,我……我之後再來！,,"…나, 나중에 다시 올게요…!",Ich ... Ich komme später wieder!
 43,3002,,"Nessun problema, Yuuko! A dopo!",小悠子！再見囉～！,,유콧치! 나중에 또 봐~!,"Kein Problem, Yuuko! Bis dann!"
-44,3002,,"È buffo, quanto buone relazioni tu abbia, nonostante tu non abbia esattamente un carattere ben sviluppato.","是說你這個人，
+44,3002,,"È buffo, quanto buone relazioni tu abbia,
+nonostante tu non abbia esattamente un
+carattere ben sviluppato.","是說你這個人，
 雖然沒什麼個性，但人際關係倒是建立得滿深厚的！",,"…그건 그렇고 넌 정말
 존재감은 옅으면서, 인간 관계는 꽤 짙단 말이지","Schon lustig, wie gute Beziehungen du hast, obwohl
 du nicht gerade einen gut entwickelten
 Charakter hast."
 45,2000,,...,……,,……,...
-46,3002,,Non importa! Andiamo a Kowloon e troviamo Yuugo!,"總之！
+46,3002,,"Non
+importa! Andiamo a Kowloon e troviamo Yuugo!","總之！
 到Kowloon去找YUGO吧！",,"어쨌든!
 쿠롱에 가서 유고를 찾자!","Egal!
 Gehen wir nach Kowloon und finden Yuugo!"
 47,3002,,Come? Ti presenti solo ora in ufficio?,嗯？要先回事務所報備去處？,,…에? 일단 사무소로 돌아가서 행선지를 보고하겠다고?,Wie? Du meldest dich erst im Büro?
-48,3002,,"Va bene! Allora ci vediamo a Kowloon!
-Solito posto. Sbrigati!","了解了！那我在「Kowloon」等你！
+48,3002,,"Va bene! Allora ci vediamo a
+Kowloon! Solito posto. Sbrigati!","了解了！那我在「Kowloon」等你！
 在之前集合的地方！要快點來唷！",,"알겠어! 그럼「쿠롱」에서 만나자!
 전에 집합했던 곳에서! 빨리 와!","Geht klar! Dann treffen wir uns in Kowloon!
 Gleicher Ort wie immer. Beeil dich!"

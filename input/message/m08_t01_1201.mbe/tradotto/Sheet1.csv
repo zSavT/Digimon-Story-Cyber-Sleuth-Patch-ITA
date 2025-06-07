@@ -1,5 +1,6 @@
-ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
-1,3004,,Come? Cosa succede? Perché ti interessa all'improvviso una Stazione EDEN?,"哦？怎麼了？
+﻿ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
+1,3004,,"Come? Cosa succede? Perché ti interessa
+all'improvviso una Stazione EDEN?","哦？怎麼了？
 突然調查起「EDEN點」來了？",,"오? …왜 그래?
 갑자기「EDEN 스폿」같은 걸 조사하고","Wie? Was ist? Warum interessiert dich plötzlich
 eine EDEN-Station?"
@@ -10,8 +11,8 @@ Oltre alla connessione con EDEN?","嗯？你感應到通往EDEN以外的……
 Neben der Verbindung zu EDEN?"
 3,3004,,"Un momento, cosa stai dicendo, d—",喂喂，你怎麼突然說出這種話？,,"야야야, 갑자기 무슨 소리를…","Moment mal, was redest du d–"
 4,3004,,Cosa?,！？,,…!?,Wie?
-5,3004,,"Sparito senza lasciare traccia!
-Urgh! Che diavolo sta succedendo qui?!","消……消失了？
+5,3004,,"Sparito senza lasciare
+traccia! Urgh! Che diavolo sta succedendo qui?!","消……消失了？
 喂喂喂！這到底是怎麼回事？",,"…사, 사라졌어…?
 야야야야! 어떻게 된 거야, 진짜로!","Spurlos verschwunden!
 Urgh! Was zum Teufel ist hier los?!"
