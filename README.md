@@ -9,51 +9,72 @@ La realizzazione della patch è stata resa possibile in larga misura grazie al c
 
 # Come installare la patch
 
-Per chi ha già inserito delle mod all'interno del gioco, probabilmente questo tutorial sembrerà molto scontato. Chi, invece, non lo ha mai fatto e ha cercato con questa mod l'occasione giusta per poterlo fare, di seguito vi spiegherò passo per passo come rendere in italiano il vostro gioco.
+Per installare bisogna selezionare la sezione [Releases](https://github.com/zSavT/Yakuza5-Patch-ITA/releases) su GitHub e selezionare l'ultima versione della patch disponibile. Selezionate l'installer da scaricare in base al sistema operativo scelto ed avviate l'installer.
 
-## Materiali necessari
+![](img/Installer1.png)
 
-Per prima cosa avremo bisogno di:
-- La Patch italiana, nel formato .zip come lo avete scaricato.
-- [SimpleDSCSModManager](https://gamebanana.com/tools/8918) ([Link Github](https://github.com/Pherakki/SimpleDSCSModManager))
+L'installazione è guidata e semplice, ma in ogni caso basterà sempre cliccare su "_Avanti_". Attendere la verifica dell'integrità dei file della Patch e cliccare successivamente su "_Avanti_".
 
-### Primo passo
+![](img/Installer2.png)
 
-Scarichiamo tutto il materiale.
-Per chi non sa dove andare a premere per scaricare il programma da GitHub, vi lascio l'indicazione qui di seguito:
+Successivamente bisogna accettare i termini d'uso e poi nella schermata successiva, selezionare la cartella dove è installato Yakuza 4 (Di default è impostato il percorso classico) e cliccare su "_Installa Patch_".
 
-![Immagine](./img/t1.png)
+![](img/Installer3.png)
 
-###  Secondo passo
+# Funzionamento installer (Per chi vuole auto generarsi l'installer)
 
-Estraiamo da qualche parte la cartella del programma.
-Dovrebbe uscirvi una cosa del genere.
-![Immagine](./img/t2.png)
-![Immagine](./img/t3.png)
+Per poter creare correttamente l'installer bisogna prima di tutto utilizzare ```packager.py``` per poter generare il file criptato della cartella dove sono presenti tutti i file patchati (Bisogno comunque prima fare un passaggio con il programma "[SimpleDSCSModManager](https://gamebanana.com/tools/8918)"). Lo script è guidato e bisogna solo indicare il percorso della cartella con le modifiche della Patch ed il nome del file pkg criptato. Nel file "chiave.txt" bisogna inserire la chiave di criptazione scelta.
 
-###  Terzo passo
+## Creazione dell'eseguibile
 
-Per proseguire, dobbiamo aprire l'eseguibile della cartella SimpleDSCSModManager, che ci aprirà il programma per caricare all'interno del gioco tutte le nostre modifiche.
+Per poter generare l'eseguibile dello script bisogna utilizzare la libreria "__pyinstaller__" e generare l'eseguibile con i comandi in base al sistema operativo di arrivo.
 
-![Immagine](./img/t4.png)
-![Immagine](./img/t5.png)
+### Windows
 
-###  Quarto passo
+Per generare l'eseguibile dell'installer per Windows, bisogna utilizzare il seguente comando:
+```ps
+pyinstaller --onefile --windowed --hidden-import=webbrowser --hidden-import=pyzipper --hidden-import=sys --hidden-import=os --hidden-import=platform --hidden-import=traceback --hidden-import=PyQt6 --icon=assets/logo.png --add-data "assets:assets" --add-data "patch.pkg:." --add-data "chiave.txt:." installer.py
+```
+Nella cartella "_dist_", è presente l'eseguibile.
+### Linux (Steam Deck)
 
-Andiamo nella locandina in alto del programma, su File, e selezioniamo "Add Mod...". Questo ci aprirà il nostro Esplora Risorse. Andiamo nel luogo del computer dove abbiamo messo la mod (nel formato .zip) e carichiamolo. Assicuriamoci che a sinistra della mod sia presente la spunta blu accesa. In caso contrario, attivarla premendoci sopra.
+Per generare l'eseguibile per Linux, bisogna fare qualche passaggio in più. L'installer è creato tramite la WSL per Windows.
+Per prima cosa bisogna creare l'ambiente virtuale per python tramite il comando:
+```ps
+python3 -m venv venv
+```
+Se non fosse presente la funzione nell'ambiente, si può installare tramite il seguente comando:
+```ps
+sudo apt-get install -y python3-venv
+```
+Con il comando seguente, attiviamo l'ambiente:
+```ps
+source venv/bin/activate
+```
+Dopo aver attivato l'ambiente bisogna installare pyinstaller con il comando:
+```ps
+pip3 install pyinstaller
+```
+Se pip non è presente nell'ambiente, bisogna installarlo con il comando:
+```ps
+sudo apt install -y python3-pip
+```
+Successivamente bisogna installare tutte le librerie utilizzate, presenti nel file requirements.txt, che in ogni caso sono:
 
-![Immagine](./img/t6.png)
-![Immagine](./img/t7.png)
-![Immagine](./img/t8.png)
+- PyQt6
+- pyzipper
 
-###  Quinto passo
+Successivamente bisogna avviare il comando per la creazione del file eseguibile:
+```ps
+pyinstaller --onefile --windowed --hidden-import=webbrowser --hidden-import=pyzipper --hidden-import=sys --hidden-import=os --hidden-import=platform --hidden-import=traceback --hidden-import=PyQt6 --icon=assets/logo.png --add-data "assets:assets" --add-data "patch.pkg:." --add-data "chiave.txt:." installer.py
+```
 
-Come ultimo passo, andiamo a premere "Install Mods" in basso. Inizierà un caricamento di circa 20/30 secondi. Una volta che avrà finito, uscirà scritto "Mods Successfully installed". Fatto ciò, non vi resta che andare a premere "Launch Game". In questo modo, il programma avvierà il gioco, con la mod installata.
+Una volta terminato, si può disattivare l'ambiente con il commando:
+```ps
+deactivate
+```
 
-
-![Immagine](./img/t9.png)
-![Immagine](./img/t10.png)
-![Immagine](./img/t11.png)
+Nella cartella "_dist_", è presente l'eseguibile (la versione per Linux non ha tipo/estensione).
 
 # Immagini progetto
 
