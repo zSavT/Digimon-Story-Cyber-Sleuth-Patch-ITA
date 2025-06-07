@@ -1,49 +1,55 @@
-ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
-1,3006,,"Hmm... Capisco. Quindi anche questo è successo.
-Non dev'essere stato facile.","嗯……原來如此，有過這種事啊。
+﻿ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
+1,3006,,"Hmm... Capisco. Quindi anche questo è
+successo. Non dev'essere stato facile.","嗯……原來如此，有過這種事啊。
 你也很辛苦呢。",,"흐음… 과연, 그런 일이 있었나
 여러모로 큰일이었던 모양이군","Hmm ... Verstehe. Das ist also auch passiert.
 Das kann nicht einfach gewesen sein."
 2,2000,,...,……,,……,...
 3,3006,,"Oh... Scusa per le chiamate senza risposta.
-Ho individuato i Royal Knights al loro apparire.
-È stato più difficile del previsto.","啊……不好意思，沒和你聯絡。
+Ho individuato i Royal Knights al loro
+apparire. È stato più difficile del previsto.","啊……不好意思，沒和你聯絡。
 我忙著搜尋現身人界的皇家騎士的動向，
 沒想到還挺棘手的。",,"아아… 연락을 못했던 건 미안했다
 난 나대로, 지상에 나타난 로얄 나이츠의 동향을 살피고 있었다만
 예상외로, 애를 먹었거든","Ach ... Entschuldige die unbeantworteten Anrufe.
 Ich habe Royal Knights bei ihrem Erscheinen
 aufgespürt. Das war schwieriger als gedacht."
-4,3006,,"Ma dopo tutta quella fatica, sono finalmente riuscito a individuare le loro posizioni.","不過，幸好辛苦有了代價，
+4,3006,,"Ma dopo tutta quella fatica, sono finalmente riuscito a
+individuare le loro posizioni.","不過，幸好辛苦有了代價，
 我已經掌握了它們大概的位置。",,"…하지만 고생한 보람이 있었다
 그들의 위치는 대강 파악할 수 있었어","Aber nach all der Mühe konnte ich ihre Standorte
 endlich bestimmen."
-5,3006,,"Le firme dei Royal Knights emanano da quattro località: Odaiba, Shibuya, Ueno ed EDEN.","現在有四個地方偵測到皇家騎士的反應，
+5,3006,,"Le firme dei Royal Knights emanano da
+quattro località: Odaiba, Shibuya, Ueno ed EDEN.","現在有四個地方偵測到皇家騎士的反應，
 御台場、涉谷、上野……還有EDEN。",,"지금, 로얄 나이츠의 반응이 있는 장소는 4군데
 오다이바, 시부야, 우에노… 그리고 EDEN이다","Die Signaturen der Royal Knights gehen von vier
 Standorten aus: Odaiba, Shibuya, Ueno und EDEN."
-6,3006,,"Il segnale più chiaro viene da Odaiba.
-Lì si trova Examon.","在這之中，反應最明確的是御台場――
+6,3006,,"Il segnale più chiaro viene da
+Odaiba. Lì si trova Examon.","在這之中，反應最明確的是御台場――
 這裡有「艾克薩獸」。",,"그 중에서, 가장 명확한 반응을 보이고 있는 것은 오다이바―
 이곳에는「엑자몬」이 있어","Das deutlichste Signal kommt aus Odaiba.
 Dort hält sich Examon auf."
-7,3006,,"Examon possiede il potere più devastante tra tutti i Royal Knight, ma è stato ostacolato e danneggiato dai Divoratori.","艾克薩獸擁有皇家騎士中屈指可數的破壞力……
+7,3006,,"Examon possiede il potere più devastante tra
+tutti i Royal Knight, ma è stato
+ostacolato e danneggiato dai Divoratori.","艾克薩獸擁有皇家騎士中屈指可數的破壞力……
 但現在它似乎遭侵食者所侵蝕，因而行動遲緩。",,"엑자몬은, 로얄 나이츠 중에서도 굴지의 파괴력을 갖고 있지…
 하지만 지금은 이터에게 침식당해, 활동이 둔해진 모양이야","Examon verfügt von allen Royal Knights über die
 verheerendste Macht, doch er wurde von
 Verschlingern behindert und lädiert."
-8,3006,,"Quando il varco dimensionale si è aperto, hai sicuramente visto Examon. Insieme ai Divoratori, che lo stavano corrodendo.","次元之門打開的時候，
+8,3006,,"Quando il varco dimensionale si è aperto, hai
+sicuramente visto Examon. Insieme ai Divoratori, che lo
+stavano corrodendo.","次元之門打開的時候，
 你也有看到被侵食者侵蝕的艾克薩獸吧？",,"차원의 문이 열렸을 때, 이터에게 먹히고 있는 엑자몬을
 너도 봤잖아?","Als das Dimensionstor sich geöffnet hat, hast du
 Examon sicher gesehen. Mitsamt den Verschlingern,
 die an ihm nagten."
-9,3006,,"Le truppe hanno circondato Examon.
-Propongo di lasciarlo a loro per ora.","現在防衛隊正包圍艾克薩獸，監視著它的活動。
+9,3006,,"Le truppe hanno circondato
+Examon. Propongo di lasciarlo a loro per ora.","現在防衛隊正包圍艾克薩獸，監視著它的活動。
 我覺得暫時交給他們比較好。",,"지금은 방위대가 엑자몬을 에워싸고, 움직임을 감시하고 있다
 당분간은 그들에게 맡겨 두는 편이 좋을 것 같군","Die Streitkräfte haben Examon umstellt.
 Ich schlage vor, wir überlassen das vorerst denen."
-10,3006,,"Il prossimo segnale a Shibuya è Magnamon.
-Gankoomon è a Ueno...
+10,3006,,"Il prossimo segnale a Shibuya è
+Magnamon. Gankoomon è a Ueno...
 E quello in EDEN è Kentaurosmon.","剩下的三個地方……　涉谷的反應是「金甲龍獸」，
 上野的反應是「頑固獸」……
 從EDEN裡查出了「八腳馬獸」的反應。",,"나머지 셋… 시부야의 반응은「매그너몬」
@@ -51,51 +57,60 @@ E quello in EDEN è Kentaurosmon.","剩下的三個地方……　涉谷的反�
 EDEN 내에서는「슬레이프몬」의 반응을 검출했다","Das nächste Signal in Shibuya ist Magnamon.
 Gankoomon ist in Ueno ...
 Und das in EDEN ist Kentaurosmon."
-11,3006,,"Questi sono gli unici da cui provengono attualmente segnali.
-Il resto blocca probabilmente i propri segnali.","現在有反應的皇家騎士就是這些。
+11,3006,,"Questi sono gli unici da cui provengono
+attualmente segnali. Il resto blocca probabilmente i
+propri segnali.","現在有反應的皇家騎士就是這些。
 剩下的傢伙恐怕是故意隱藏了反應。",,"지금 반응이 있는 로얄 나이츠는 이 정도다
 나머지 녀석들은 아마도, 의도적으로 반응을 없애고 있는 거겠지","Das sind die einzigen, von denen aktuell Signale
 ausgehen. Der Rest blockiert seine Signale
 vermutlich."
-12,3006,,Allora. Sai cosa devi fare dopo?,那麼，你知道接下來該做什麼了吧？,,"…그럼, 다음 해야 할 일은, 알고 있겠지?","Also dann. Weißt du, was du als Nächstes tun
+12,3006,,"Allora. Sai cosa devi fare
+dopo?",那麼，你知道接下來該做什麼了吧？,,"…그럼, 다음 해야 할 일은, 알고 있겠지?","Also dann. Weißt du, was du als Nächstes tun
 musst?"
-13,3006,,Hmm... Dobbiamo contenere l'influenza dei Royal Knights il più possibile.,"嗯……　
+13,3006,,"Hmm... Dobbiamo contenere l'influenza dei
+Royal Knights il più possibile.","嗯……　
 我們應該盡可能分裂皇家騎士的勢力――",,"음… 우리들이 해야 할 일은
 로얄 나이츠의 세력을 조금이라도 분단시키는 것―","Hmm ... Wir müssen den Einfluss der Royal Knights
 so gut wie möglich eindämmen."
 14,3006,,"Stringere nuove amicizie dove possiamo, e ...",可能的話，拉攏它成為伙伴……然後――,,가능하다면 동료로 끌어들이고… 그리고―,"Neue Freunde gewinnen, wo wir können, und ..."
-15,3006,,"Che succede?
-Sembri un po' andato.
+15,3006,,"Che
+succede? Sembri un po' andato.
 Tutto a posto?","你怎麼了？
 看起來好像有點沒精神……不要緊嗎？",,"……왜 그러지?
 얼굴에 좀 긴장감이 없는 것 같다만… 괜찮은가?","Was ist denn?
 Du siehst ein bisschen weggetreten aus.
 Alles in Ordnung?"
 16,3006,,"Hmm. Nessun problema, ma tirarsi indietro non vale qui.",嗯……那就好。沒精神可沒辦法好好工作。,,"흐음… 그렇다면 상관없지만, 긴장감이 없으면 일이 안 될 거다","Hmm. Kein Problem, aber kneifen gilt hier nicht."
-17,3006,,"Bene, allora concediti un po' di caffeina prima di partire. Devo comunque prepararmi di nuovo qualcosa.","好，出發之前先去攝取咖啡因吧。
+17,3006,,"Bene, allora concediti un po' di caffeina
+prima di partire. Devo comunque prepararmi di
+nuovo qualcosa.","好，出發之前先去攝取咖啡因吧。
 我也久違地大展身手吧！",,"좋아, 출발 전에 카페인을 섭취하고 가도록
 나도, 오랜만에 솜씨를 발휘하겠다","So, dann gönn dir ein bisschen Koffein, bevor du
 losziehst. Ich muss mir ohnehin wieder etwas
 zusammenbrauen."
 18,3006,,"Non ci sei più abituato, quindi bevi lentamente.",這是久違的一杯，你好好享用吧。,,"오래간만의 한 잔이다, 느긋히 맛보도록","Du bist es nicht mehr gewöhnt, also trink langsam."
-19,3006,,"Le tue papille gustative si sono sviluppate dall'ultima volta? Se sai apprezzare questo caffè, sei adulto.","哦……沒見面的這段期間，你的味覺似乎也成長了。
+19,3006,,"Le tue papille gustative si sono
+sviluppate dall'ultima volta? Se sai
+apprezzare questo caffè, sei adulto.","哦……沒見面的這段期間，你的味覺似乎也成長了。
 如果能瞭解這杯咖啡的味道，你就能獨當一面了。",,"호오… 잠깐 못 만난 사이에, 미각이 성장한 모양이군
 이 커피의 맛을 안다면 어른이 된 거다","Haben sich deine Geschmacksknospen seit dem
 letzten Mal entwickelt? Wenn du diesen Kaffee
 zu schätzen weißt, bist du erwachsen."
 20,3006,,"Allora, adesso al lavoro.
-Ottieni quanti più Royal Knights possibili come alleati!","好了，工作的時間到了。
+Ottieni quanti più Royal Knights possibili
+come alleati!","好了，工作的時間到了。
 盡可能讓皇家騎士站到我們這一邊吧！",,"…자, 일할 시간이다
 로얄 나이츠의 세력을, 가능한 한 우리 편으로 삼고 와라!","So, jetzt aber an die Arbeit.
 Gewinne so viele Royal Knights als Verbündete
 wie möglich!"
-21,4823,,"Ehi, tutto a posto?
-Uahh?! C-Cosa puzza così qui?!","你、你沒事嗎！？
+21,4823,,"Ehi, tutto a
+posto? Uahh?! C-Cosa puzza così qui?!","你、你沒事嗎！？
 嗚哇！？這、這股怪味是哪來的！？",,"괘, 괜찮아 당신!?
 윽!? 뭐, 뭐야 이 이상한 냄새는!?","He, alles in Ordnung?
 Uahh?! W-Was stinkt denn hier so?!"
-22,4824,,"Che schifo!
-Ti stai sbavando addosso!",呀———！嘴巴裡跑出不知名的液體！,,꺄아―――! 입에서 정체불명의 액체가!,"Igitt!
+22,4824,,"Che
+schifo! Ti stai sbavando addosso!",呀———！嘴巴裡跑出不知名的液體！,,꺄아―――! 입에서 정체불명의 액체가!,"Igitt!
 Du besabberst dich da gerade!"
-23,3006,,Hihi! Senza questi giochini ci mancherebbe proprio qualcosa!,呵呵，少了這種對話，就不來勁啊。,,"…후후, 역시 시작할 때는 이 대화가 있어야지","Hihi! Ohne diese Spielchen würde uns doch glatt
+23,3006,,"Hihi! Senza questi giochini ci mancherebbe
+proprio qualcosa!",呵呵，少了這種對話，就不來勁啊。,,"…후후, 역시 시작할 때는 이 대화가 있어야지","Hihi! Ohne diese Spielchen würde uns doch glatt
 etwas fehlen!"
