@@ -40,7 +40,7 @@ def resource_path(relative_path):
 
 # --- Costanti Globali ---
 CHIAVE = "chiave.txt"
-DEFAULT_FOLDER_NAME = "Digimon Story Cyber Sleuth Complete Edition/resources"
+DEFAULT_FOLDER_NAME = ""
 LOG_FILE = "install_log.txt"
 PACKAGE_FILE = "patch.pkg"
 IMG_FILE = resource_path("assets/img.png")
@@ -762,14 +762,8 @@ class InstallScreen(QWidget):
             # Usa la base trovata o il default dell'utente
             base = found_base if found_base else os.path.expanduser("~")
 
-            # Costruisci il path finale che punta a 'resources'
-            # DEFAULT_FOLDER_NAME è "Digimon Story Cyber Sleuth Complete Edition/resources"
-            # Quindi qui uniamo la base trovata (es. '.../common') con il NOME DEL GIOCO + /resources
-            # Se la base già include il nome del gioco, usiamo solo 'resources'
-            if os.path.basename(base) == target_game_folder:
-                 default_path = os.path.join(base, "resources")
-            else:
-                 default_path = os.path.join(base, DEFAULT_FOLDER_NAME)
+
+            default_path = os.path.join(base, DEFAULT_FOLDER_NAME)
 
 
         except Exception as e:
@@ -789,7 +783,7 @@ class InstallScreen(QWidget):
         # Se anche il genitore non è valido, usa la home
         if not os.path.isdir(start_dir): start_dir = os.path.expanduser("~")
         # Apri il dialogo
-        folder = QFileDialog.getExistingDirectory(self, "Seleziona la cartella 'resources' di Digimon Story Cyber Sleuth: Complete Edition", start_dir)
+        folder = QFileDialog.getExistingDirectory(self, "Seleziona la cartella principale di Digimon Story Cyber Sleuth: Complete Edition", start_dir)
         if folder: self.path_input.setText(folder.replace("\\", "/")) # Usa slash per consistenza
 
     def update_icon_position(self, value):
