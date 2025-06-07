@@ -51,6 +51,8 @@ GH_ICON = resource_path("assets/github.png")
 WEB_ICON = resource_path("assets/web.png")
 VERSIONE = "v1"
 CREDITI = "Patch By SavT e Lowrentio"
+EXE_SUBFOLDER = "Digimon Story Cyber Sleuth Complete Edition/app_digister"
+
 LICENZA = """1) La presente patch va utilizzata esclusivamente sul gioco originale legittimamente detenuto per il quale è stata creata.
 2) Questa patch è stata creata senza fini di lucro.
 3) È assolutamente vietato vendere o cedere a terzi a qualsiasi titolo il gioco già patchato;
@@ -741,30 +743,38 @@ class InstallScreen(QWidget):
                 ]
 
             found_base = None
-            target_game_folder = os.path.join(DEFAULT_FOLDER_NAME) # Solo il nome della cartella gioco
+            target_game_folder = "Digimon Story Cyber Sleuth Complete Edition" # Solo il nome della cartella gioco
 
             # 1. Cerca la cartella esatta del gioco
             for base_path in potential_bases:
                 if os.path.isdir(os.path.join(base_path, target_game_folder)):
-                    found_base = base_path
+                    found_base = os.path.join(base_path, target_game_folder)
                     break
 
             # 2. Se non trovata, cerca almeno la cartella 'common' genitore
             if not found_base:
                  for base_path in potential_bases:
                      if os.path.isdir(base_path):
+                         # Non abbiamo trovato il gioco, ma 'common' esiste. L'utente sceglierà.
                          found_base = base_path
                          break
 
             # Usa la base trovata o il default dell'utente
-            base = found_base if found_base else base
+            base = found_base if found_base else os.path.expanduser("~")
 
-            # Costruisci il path finale
-            default_path = os.path.join(base, target_game_folder)
+            # Costruisci il path finale che punta a 'resources'
+            # DEFAULT_FOLDER_NAME è "Digimon Story Cyber Sleuth Complete Edition/resources"
+            # Quindi qui uniamo la base trovata (es. '.../common') con il NOME DEL GIOCO + /resources
+            # Se la base già include il nome del gioco, usiamo solo 'resources'
+            if os.path.basename(base) == target_game_folder:
+                 default_path = os.path.join(base, "resources")
+            else:
+                 default_path = os.path.join(base, DEFAULT_FOLDER_NAME)
+
 
         except Exception as e:
             print(f"Error determining default path: {e}")
-            # Fallback al path utente + nome gioco
+            # Fallback al path utente + nome gioco/resources
             default_path = os.path.join(os.path.expanduser("~"), DEFAULT_FOLDER_NAME)
 
         # Normalizza e imposta
@@ -779,7 +789,7 @@ class InstallScreen(QWidget):
         # Se anche il genitore non è valido, usa la home
         if not os.path.isdir(start_dir): start_dir = os.path.expanduser("~")
         # Apri il dialogo
-        folder = QFileDialog.getExistingDirectory(self, "Seleziona la cartella principale di Digimon Story Cyber Sleuth: Complete Edition", start_dir)
+        folder = QFileDialog.getExistingDirectory(self, "Seleziona la cartella 'resources' di Digimon Story Cyber Sleuth: Complete Edition", start_dir)
         if folder: self.path_input.setText(folder.replace("\\", "/")) # Usa slash per consistenza
 
     def update_icon_position(self, value):
@@ -941,7 +951,7 @@ class InstallerWizard(QWidget):
         self.stack.setCurrentWidget(self.check_pkg)
 
     def confirm_installation(self):
-        """Mostra conferma prima di installare."""
+        """Mostra conferma prima di installare, usando la variabile globale per il percorso dell'exe."""
         dest_path = self.install.path_input.text()
         if not dest_path:
             QMessageBox.warning(self, "Percorso Mancante", "Specifica la cartella di installazione.")
@@ -949,25 +959,33 @@ class InstallerWizard(QWidget):
 
         do_backup = self.install.backup_checkbox.isChecked()
         dest_path = os.path.normpath(dest_path)
-        abs_path = os.path.abspath(dest_path)
-        base_dir = os.path.dirname(abs_path)
+        game_root_path = os.path.dirname(dest_path)
 
-        if not os.path.isdir(base_dir):
-            QMessageBox.warning(self, "Percorso Non Valido", f"La directory base '{base_dir}' non esiste o non è valida.")
+        if not os.path.isdir(game_root_path):
+            QMessageBox.warning(self, "Percorso Non Valido", f"La directory base '{game_root_path}' non esiste o non è valida.")
             return
 
-        common_files = ['Digimon Story CS.exe', 'data', '_CommonRedist']
-        found = [f for f in common_files if os.path.exists(os.path.join(dest_path, f))]
+        # Costruisce il percorso completo dove cercare l'eseguibile, usando la variabile globale EXE_SUBFOLDER.
+        exe_search_path = os.path.join(game_root_path, EXE_SUBFOLDER)
+        executable_full_path = os.path.join(exe_search_path, 'Digimon Story CS.exe')
+        
+        # Controlla l'esistenza del file eseguibile nel percorso specificato.
+        found = os.path.isfile(executable_full_path)
+        
         warn_msg = ""
         icon = self.style().standardIcon(QStyle.StandardPixmap.SP_MessageBoxQuestion)
         icon_pixmap = icon.pixmap(QSize(48, 48))
 
-        if not found and os.path.isdir(dest_path):
-            warn_msg = "<b>Attenzione:</b> La cartella selezionata esiste ma non sembra contenere Digimon Story Cyber Sleuth: Complete Edition."
+        # Mostra un avviso se l'eseguibile non è stato trovato nel percorso definito.
+        if not found:
+            warn_msg = (f"<b>Attenzione:</b> Non è stato possibile trovare 'Digimon Story CS.exe' nel percorso atteso:<br>"
+                        f"<em>{os.path.normpath(exe_search_path)}</em><br><br>"
+                        "Verifica il percorso selezionato e la variabile 'EXE_SUBFOLDER' nello script.")
             warn_icon = self.style().standardIcon(QStyle.StandardPixmap.SP_MessageBoxWarning)
             icon_pixmap = warn_icon.pixmap(QSize(48, 48))
         elif not os.path.exists(dest_path):
-            warn_msg = f"Nota: La cartella '{os.path.basename(dest_path)}' verrà creata."
+            target_folder_name = os.path.basename(dest_path)
+            warn_msg = f"Nota: La cartella '{target_folder_name}' verrà creata."
 
         dialog = CustomConfirmDialog(
             parent=self, title="Conferma Installazione",
@@ -977,6 +995,7 @@ class InstallerWizard(QWidget):
         )
         if dialog.exec() == QDialog.DialogCode.Accepted:
             self.perform_installation(dest_path, do_backup)
+
 
     def perform_installation(self, dest_path, do_backup):
         """Avvia l'installazione nel thread."""
