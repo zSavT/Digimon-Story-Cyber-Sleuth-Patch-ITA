@@ -21,6 +21,60 @@ Successivamente bisogna accettare i termini d'uso e poi nella schermata successi
 
 ![](img/Installer3.png)
 
+# Funzionamento installer (Per chi vuole auto generarsi l'installer)
+
+Per poter creare correttamente l'installer bisogna prima di tutto utilizzare ```packager.py``` per poter generare il file criptato della cartella dove sono presenti tutti i file patchati (Bisogno comunque prima fare un passaggio con il programma "[SimpleDSCSModManager](https://gamebanana.com/tools/8918)"). Lo script è guidato e bisogna solo indicare il percorso della cartella con le modifiche della Patch ed il nome del file pkg criptato. Nel file "chiave.txt" bisogna inserire la chiave di criptazione scelta.
+
+## Creazione dell'eseguibile
+
+Per poter generare l'eseguibile dello script bisogna utilizzare la libreria "__pyinstaller__" e generare l'eseguibile con i comandi in base al sistema operativo di arrivo.
+
+### Windows
+
+Per generare l'eseguibile dell'installer per Windows, bisogna utilizzare il seguente comando:
+```ps
+pyinstaller --onefile --windowed --hidden-import=webbrowser --hidden-import=pyzipper --hidden-import=sys --hidden-import=os --hidden-import=platform --hidden-import=traceback --hidden-import=PyQt6 --icon=assets/logo.png --add-data "assets:assets" --add-data "patch.pkg:." --add-data "chiave.txt:." installer.py
+```
+Nella cartella "_dist_", è presente l'eseguibile.
+### Linux (Steam Deck)
+
+Per generare l'eseguibile per Linux, bisogna fare qualche passaggio in più. L'installer è creato tramite la WSL per Windows.
+Per prima cosa bisogna creare l'ambiente virtuale per python tramite il comando:
+```ps
+python3 -m venv venv
+```
+Se non fosse presente la funzione nell'ambiente, si può installare tramite il seguente comando:
+```ps
+sudo apt-get install -y python3-venv
+```
+Con il comando seguente, attiviamo l'ambiente:
+```ps
+source venv/bin/activate
+```
+Dopo aver attivato l'ambiente bisogna installare pyinstaller con il comando:
+```ps
+pip3 install pyinstaller
+```
+Se pip non è presente nell'ambiente, bisogna installarlo con il comando:
+```ps
+sudo apt install -y python3-pip
+```
+Successivamente bisogna installare tutte le librerie utilizzate, presenti nel file requirements.txt, che in ogni caso sono:
+
+- PyQt6
+- pyzipper
+
+Successivamente bisogna avviare il comando per la creazione del file eseguibile:
+```ps
+pyinstaller --onefile --windowed --hidden-import=webbrowser --hidden-import=pyzipper --hidden-import=sys --hidden-import=os --hidden-import=platform --hidden-import=traceback --hidden-import=PyQt6 --icon=assets/logo.png --add-data "assets:assets" --add-data "patch.pkg:." --add-data "chiave.txt:." installer.py
+```
+
+Una volta terminato, si può disattivare l'ambiente con il commando:
+```ps
+deactivate
+```
+
+Nella cartella "_dist_", è presente l'eseguibile (la versione per Linux non ha tipo/estensione).
 
 # Immagini progetto
 
