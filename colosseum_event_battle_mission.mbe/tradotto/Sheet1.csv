@@ -1,0 +1,79 @@
+ID,Japanese,English,Chinese,EnglishCensored,Korean,German
+1,,Ottieni [d0] vittorie.,對戰勝利[d0]次,,전투에서 [d0]회 승리한다,Erringe [d0] Siege.
+2,,Combatti [d0] volte.,進行[d0]次戰鬥,,배틀을 [d0]회 한다,Kämpfe [d0]-mal.
+3,,"Infliggi oltre [d0] danni a un singolo nemico
+in una volta in una battaglia.",戰鬥時，一次對敵方單體造成[d0]以上的損傷,,배틀 시 한 번에 [d0]이상의 대미지를 적 1체에 입힌다,"Verursache in einem Kampf bei einem Gegner
+auf einmal über [d0] Schaden."
+4,,"Infliggi più di [d0] danni totali a tutti
+i nemici in una battaglia.",戰鬥時，一次對敵方全體造成[d0]以上的損傷,,배틀 시 적 전체에 합계 [d0]이상의 대미지를 한 번에 입힌다,"Verursache in einem Kampf bei allen Gegnern
+insgesamt über [d0] Schaden."
+5,,Combatti [d0] volte con Omnimon nel tuo party.,將奧米加獸加入戰鬥成員，並戰鬥[d0]次,,배틀 멤버에 오메가몬을 넣고 [d0]회 전투한다,Kämpfe [d0]-mal mit Omnimon in deiner Gruppe.
+6,,"Combatti [d0] volte con un Digimon nella tua
+squadra con ""Mamemon"" nel suo nome.","將名稱有「豆豆獸」的數碼寶貝加入戰鬥成員，
+並戰鬥[d0]次",,"배틀 멤버에「콩알몬」이라는 이름이 들어간
+디지몬을 넣고 [d0]회 전투한다","Kämpfe [d0]-mal mit einem Digimon in deiner
+Gruppe, das „Mamemon“ im Namen hat."
+7,,"Combatti [d0] volte con un Digimon nel tuo
+gruppo con ""Numemon"" nel suo nome.","將名稱有「鼻涕獸」的數碼寶貝加入戰鬥成員，
+並戰鬥[d0]次",,"배틀 멤버에「워매몬」이라는 이름이 들어간
+디지몬을 넣고 [d0]회 전투한다","Kämpfe [d0]-mal mit einem Digimon in deiner
+Gruppe, das „Numemon“ im Namen hat."
+8,,Combatti [d0] volte con Pumpkinmon nella tua squadra.,將南瓜獸加入戰鬥成員，並戰鬥[d0]次,,배틀 멤버에 펌프몬을 넣고 [d0]회 전투한다,Kämpfe [d0]-mal mit Pumpkinmon in deiner Gruppe.
+9,,"Combatti [d0] volte con Otamamon, Gekomon e
+ShogunGekomon nel tuo party.","將蝌蚪獸、怪蛙獸、怪蛙皇加入戰鬥成員，
+並戰鬥[d0]次",,"올챙몬, 개굴몬, 왕개굴몬을 
+배틀 멤버에 넣고 [d0]회 전투한다","Kämpfe [d0]-mal mit Otamamon, Gekomon und
+ShogunGekomon in deiner Gruppe."
+10,,"Fai in modo che [d0] o meno Digimon alleati 
+diventino impossibilitati a combattere in una singola battaglia.","在一次戰鬥時，陷入無法戰鬥的我方數碼寶貝
+不超過[d0]個",,한 번의 배틀에서 전투 불능이 된 아군 디지몬이 [d0]체 이하,"Lass in einem Kampf [d0] oder weniger verbündete
+Digimon kampfunfähig werden."
+11,,"Non far sì che nessun Digimon alleato diventi 
+incapace di combattere in una singola battaglia.",在一次戰鬥時，我方數碼寶貝未曾陷入無法戰鬥狀態,,한 번의 배틀에서 아군 디지몬이 한 번도 전투 불능이 되지 않는다,"Lass in einem Kampf keine verbündeten
+Digimon kampfunfähig werden."
+12,,Vinci [d0] battaglie senza usare abilità di recupero.,戰鬥時，一次都未使用回復技能，並獲勝[d0]次,,배틀 시 회복 스킬을 사용하지 않고 [d0]회 승리한다,"Gewinne [d0] Kämpfe, ohne Heilungsfertigkeiten
+einzusetzen."
+13,,"Subisci meno di [d0] danni in una volta in una
+battaglia.",戰鬥時，一次接受的傷害在[d0]以下,,배틀 시 한 번에 받는 대미지가 [d0] 이하,"Erleide in einem Kampf weniger als
+[d0] Schaden auf einmal."
+14,,"Combatti [d0] volte con 3 Digimon di attributo Fuoco
+nel tuo party.",以三個火屬性數碼寶貝為戰鬥成員，並戰鬥[d0]次,,배틀 멤버 3체를 모두 불속성 디지몬으로 편성하고 [d0]회 전투한다,"Kämpfe [d0]-mal mit 3 Feuer-Digimon in deiner
+Gruppe."
+15,,"Combatti [d0] volte con 3 Digimon di 
+attributo Acqua nel tuo party.",以三個水屬性數碼寶貝為戰鬥成員，並戰鬥[d0]次,,배틀 멤버 3체를 모두 물속성 디지몬으로 편성하고 [d0]회 전투한다,"Kämpfe [d0]-mal mit 3 Wasser-Digimon in deiner
+Gruppe."
+16,,"Combatti [d0] volte con 3 Digimon di attributo Pianta
+nel tuo party.",以三個木屬性數碼寶貝為戰鬥成員，並戰鬥[d0]次,,배틀 멤버 3체를 모두 풀속성 디지몬으로 편성하고 [d0]회 전투한다,"Kämpfe [d0]-mal mit 3 Pflanzen-Digimon in deiner
+Gruppe."
+17,,"Combatti [d0] volte con 3 Digimon di attributo 
+Vento nella tua squadra.",以三個風屬性數碼寶貝為戰鬥成員，並戰鬥[d0]次,,배틀 멤버 3체를 모두 바람속성 디지몬으로 편성하고 [d0]회 전투한다,"Kämpfe [d0]-mal mit 3 Wind-Digimon in deiner
+Gruppe."
+18,,"Combatti [d0] volte con 3 Digimon di attributo 
+Terra nel tuo party.",以三個土屬性數碼寶貝為戰鬥成員，並戰鬥[d0]次,,배틀 멤버 3체를 모두 땅속성 디지몬으로 편성하고 [d0]회 전투한다,"Kämpfe [d0]-mal mit 3 Erd-Digimon in deiner
+Gruppe."
+19,,"Combatti [d0] volte con 3 Digimon di attributo 
+Elettro nel tuo party.",以三個雷屬性數碼寶貝為戰鬥成員，並戰鬥[d0]次,,배틀 멤버 3체를 모두 전기속성 디지몬으로 편성하고 [d0]회 전투한다,"Kämpfe [d0]-mal mit 3 Elektro-Digimon in deiner
+Gruppe."
+20,,"Combatti [d0] volte con 3 Digimon di attributo Luce
+nel tuo party.",以三個光屬性數碼寶貝為戰鬥成員，並戰鬥[d0]次,,배틀 멤버 3체를 모두 빛속성 디지몬으로 편성하고 [d0]회 전투한다,"Kämpfe [d0]-mal mit 3 Licht-Digimon in deiner
+Gruppe."
+21,,"Combatti [d0] volte con 3 Digimon di attributo Oscurità
+nel tuo party.",以三個闇屬性數碼寶貝為戰鬥成員，並戰鬥[d0]次,,배틀 멤버 3체를 모두 어둠속성 디지몬으로 편성하고 [d0]회 전투한다,"Kämpfe [d0]-mal mit 3 Dunkelheit-Digimon in
+deiner Gruppe."
+22,,"Combatti [d0] volte con 3 Digimon di attributo 
+Neutrale nella tua squadra.",以三個無屬性數碼寶貝為戰鬥成員，並戰鬥[d0]次,,배틀 멤버 3체를 모두 무속성 디지몬으로 편성하고 [d0]회 전투한다,"Kämpfe [d0]-mal mit 3 Neutral-Digimon in deiner
+Gruppe."
+23,,"Usa Attacco più di [d0] volte in battaglia 
+(inclusi contrattacchi e combo).","戰鬥時，使用攻擊[d0]次以上
+(反擊、連擊也列入計算)",,"배틀 시 공격 커맨드를 [d0]회 이상 사용한다
+(반격/콤보도 카운트됩니다)","Nutze beim Kampf mehr als [d0]-mal Angriff
+(einschließlich Konter und Kombos)."
+24,,"Usa Mosse Speciali più di [d0] volte in battaglia
+(inclusi contrattacchi e combo).",戰鬥時，使用必殺技[d0]次以上,,배틀 시 필살기 커맨드를 [d0]회 이상 사용한다,"Nutze beim Kampf mehr als [d0]-mal Spezialmoves
+(einschließlich Konter und Kombos)."
+25,,"Combatti [d0] volte con 3 Digimon Campioni
+nel tuo party.",以三個成熟期數碼寶貝為戰鬥成員，並戰鬥[d0]次,,배틀 멤버 3체를 모두 성숙기 디지몬으로 편성하고 [d0]회 전투한다,"Kämpfe [d0]-mal mit 3 Champion-Digimon in deiner
+Gruppe."
+26,,"Combatti [d0] volte con 3 Digimon Ultimate
+nel tuo party.",以三個完全體數碼寶貝為戰鬥成員，並戰鬥[d0]次,,배틀 멤버 3체를 모두 완전체 디지몬으로 편성하고 [d0]회 전투한다,"Kämpfe [d0]-mal mit 3 Ultra-Digimon in deiner
+Gruppe."

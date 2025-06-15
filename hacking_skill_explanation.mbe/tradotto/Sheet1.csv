@@ -1,0 +1,68 @@
+ID,Japanese,English,Chinese,EnglishCensored,Korean,German
+1,,Rilascia Firewall Lv. 1 (Giallo),解除Lv. 1防火牆,,Lv.1 방화벽을 해제한다.,Deakt. Firewall Lv. 1 (gelb).
+2,,Rilascia Firewall Lv. 2 (Verde),解除Lv. 1～2防火牆,,Lv.1~2 방화벽을 해제한다.,Deakt. Firewall Lv. 2 (grün).
+3,,Rilascia Firewall Lv. 3 (Rosso),解除Lv. 1～3防火牆,,Lv.1~3 방화벽을 해제한다.,Deakt. Firewall Lv. 3 (rot).
+4,,Rilascia Firewall Lv. 4 (Viola),解除Lv. 1～4防火牆,,Lv.1~4 방화벽을 해제한다.,Deakt. Firewall Lv. 4 (lila).
+5,,Riduce o espande la scatola di espansione.,壓縮／展開檔案夾,,스프레드 박스를 압축/전개한다.,Verändert den Trefferbereich.
+6,,Analizza e sblocca dati criptati.,分析、解除加密檔案,,암호화된 데이터를 해석/해제한다.,Entschlüsselt Daten.
+7,,Analizza e sblocca dati crittografati in modo sicuro.,分析、解除高度加密檔案,,고도로 암호화된 데이터를 해석/해제한다.,Entschlüsselt sichere Daten.
+8,,Registra le caratteristiche della data plate.,複製／貼上數據的規格及參數,,데이터 플레이트의 성질을 기억/덮어쓰기 한다.,Überschreibt Datenscheiben.
+9,,Ti rende trasparente.,將自己透明化,,자신의 모습을 투명화한다.,Macht dich transparent.
+10,,Riduce gli incontri.,降低遭遇敵人的機率,,적과의 조우확률을 저하시킨다.,Reduziert Begegnungen.
+11,,Riduce notevolmente gli incontri.,大幅降低遭遇敵人的機率,,적과의 조우확률을 상당히 저하시킨다.,Reduziert Begegnungen stark.
+12,,Elimina gli incontri.,將遭遇敵人的機率降為零,,적과의 조우확률을 제로로 한다.,Verhindert Begegnungen.
+13,,Aumenta gli incontri.,提昇遭遇敵人的機率,,적과의 조우확률을 상승시킨다.,Steigert Begegnungen.
+14,,Forze incontrate.,強制遭遇敵人,,적과 강제적으로 조우한다.,Erzwingt Begegnungen.
+15,,Crea/elimina piani,地板出現／地板消失,,바닥을 출현/소실시킨다.,Ebenen erstellen/löschen.
+16,,Accendi/spegni l'alimentazione,開啟電力／關閉電力,,전력을 온/오프로 전환한다.,Strom an-/abschalten.
+17,,Ripristina oggetti danneggiati,修復毀損的檔案,,파괴된 오브젝트를 수복한다.,Kaputte Objekte wiederherst.
+18,,Percepire trappole nascoste,將看不到的陷阱可視化,,보이지 않는 트랩을 보이게 한다.,Versteckte Fallen entdecken.
+19,,Torna all'ingresso del dungeon,回到迷宮入口,,던전 입구로 돌아간다.,Zurück zum Dungeon-Eingang.
+20,,Aumenta la velocità di movimento,移動速度上升,,이동 속도를 올린다.,Bewegungstempo erhöhen.
+101,,Apre Firewall Lv. 1 (Giallo).,"解除Lv. 1防火牆
+開通道路",,"Lv.1 방화벽을
+해제하여 진행을 가능하게 한다.",Öffnet Firewall Lv. 1 (gelb).
+102,,Apre Firewall di Liv. 2 (Verde).,"解除Lv. 1～2防火牆
+開通道路",,"Lv.1~2 방화벽을
+해제하여 진행을 가능하게 한다.",Öffnet Firewall Lv. 2 (grün).
+103,,Apre Firewall Lv. 3 (Rosso).,"解除Lv. 1～3防火牆
+開通道路",,"Lv.1~3 방화벽을
+해제하여 진행을 가능하게 한다.",Öffnet Firewall Lv. 3 (rot).
+104,,Apre Firewall Lv. 4 (Viola).,"解除Lv. 1～4防火牆
+開通道路",,"Lv.1~4 방화벽을
+해제하여 진행을 가능하게 한다.",Öffnet Firewall Lv. 4 (lila).
+105,,"Rendi la casella di diffusione più piccola
+o più grande.",壓縮（變小）／展開（變大）檔案夾,,"스프레드 박스를
+압축(작게)/전개(크게)한다.","Vergrößert oder verkleinert
+den Trefferbereich."
+106,,"Analizza e sblocca
+dati criptati.","分析、解除
+加密檔案",,"암호화된 데이터를
+해석/해제한다.","Analysiert und entsperrt
+verschlüsselte Daten."
+107,,"Analizza e sblocca dati
+criptati in modo sicuro.","分析、解除
+高度加密檔案",,"고도로 암호화된 데이터를
+해석/해제한다.","Analysiert und entsperrt
+sicher verschlüsselte Daten."
+108,,"Copia/incolla le caratteristiche
+di una placca dati.","複製（copy）／貼上（paste）
+數據的規格及參數",,"데이터 플레이트의 성질을
+복사/덮어쓰기 한다.","Kopiert und schreibt
+Datenscheiben-Eigenschaften."
+109,,Ti rende trasparente.,將自己透明化,,자신의 모습을 투명화한다.,Macht dich transparent.
+110,,Riduce gli incontri.,降低遭遇敵人的機率,,적과의 조우확률을 저하시킨다.,Reduziert Begegnungen.
+111,,Riduce notevolmente gli incontri.,大幅降低遭遇敵人的機率,,적과의 조우확률을 상당히 저하시킨다.,Reduziert Begegnungen stark.
+112,,Elimina gli incontri.,將遭遇敵人的機率降為零,,적과의 조우확률을 제로로 한다.,Verhindert Begegnungen.
+113,,Aumenta gli incontri.,提昇遭遇敵人的機率,,적과의 조우확률을 상승시킨다.,Steigert Begegnungen.
+114,,"Forza incontri con nemici
+(nelle aree con incontri).","強制遭遇敵人
+（僅限於會遭遇敵人的區域）",,"적과 강제적으로 조우한다.
+(적과 조우하는 에어리어 한정)","Erzwingt Gegner-Begegnungen
+(in entsprechenden Bereichen)."
+115,,Crea/elimina piani,地板出現／地板消失,,바닥을 출현/소실시킨다.,Ebenen erstellen/löschen.
+116,,Attiva/disattiva alimentazione,開啟電力／關閉電力,,전력을 온/오프로 전환한다.,Strom an-/abschalten.
+117,,Ripristina oggetti danneggiati,修復毀損的檔案,,파괴된 오브젝트를 수복한다.,Kaputte Objekte wiederherst.
+118,,Percepisci trappole nascoste,將看不到的陷阱可視化,,보이지 않는 트랩을 보이게 한다.,Versteckte Fallen entdecken.
+119,,Ritorna all'entrata del dungeon,回到迷宮入口,,던전 입구로 돌아간다.,Zurück zum Dungeon-Eingang.
+120,,Aumenta la velocità di movimento,移動速度上升,,이동 속도를 올린다.,Bewegungstempo erhöhen.

@@ -1,0 +1,483 @@
+ID,Japanese,English,Chinese,EnglishCensored,Korean,German
+1,,Detective Cibernetico Maschio,網路偵探男主角,,사이버 슬루스 남주인공,Cyber-Detektiv (M)
+2,,Cyber Sleuth Femminile,網路偵探女主角,,사이버 슬루스 여주인공,Cyber-Detektiv (W)
+3,,Cyber Sleuth M (Uniforme),網路偵探男主角（制服）,,사이버 슬루스 남주인공(교복),Herrenuniform (CS)
+4,,Cyber Sleuth F (Uniforme),網路偵探女主角（制服）,,사이버 슬루스 여주인공(교복),Damenuniform (CS)
+5,,T-shirt C. Sleuth M,網路偵探男主角T Shirt,,사이버 슬루스 남주인공 티셔츠,Herren-T-Shirt (CS)
+6,,T-shirt da Cyber Detective F,網路偵探女主角T Shirt,,사이버 슬루스 여주인공 티셔츠,Damen-T-Shirt (CS)
+7,,Memoria H. Protagonista,駭客追憶主角,,해커스 메모리 주인공,Hauptfigur (HM)
+8,,Memoria H (Uniforme),駭客追憶主角（制服）,,해커스 메모리 주인공(교복),Uniform (HM)
+9,,Maglietta P. Memoria H.,駭客追憶主角T Shirt,,해커스 메모리 주인공 티셔츠,Hauptf.-T-Shirt (HM)
+10,,Yuugo,YUGO,,유고,Yuugo
+11,,Nokia,諾奇雅,,노키아,Nokia
+12,,Yuuko,悠子,,유코,Yuuko
+13,,Arata (Cappuccio Alzato),真田新(戴帽),,아라타(후드 씀),Arata (Kapuze auf)
+14,,Arata (Cappuccio Abbassato),真田新(脫帽),,아라타(후드 벗음),Arata (Kapuze runt.)
+15,,Kyoko,杏子,,쿄코,Kyoko
+16,,Matayoshi,又吉,,마타요시,Matayoshi
+17,,Kishibe,岸部,,키시베,Kishibe
+18,,Suedou,末堂,,스에도,Suedou
+19,,Jimiken,Jimmy Ken,,지미켄,Jimiken
+20,,Fei,菲,,페이,Fei
+21,,Mirei,米蕾,,미레이,Mirei
+22,,Rina,莉娜,,리나,Rina
+23,,Data,伊達,,다테,Date
+24,,Ryota,良太,,료타,Ryota
+25,,Sakura,櫻,,사쿠라,Sakura
+26,,Sayo,小夜,,사요,Sayo
+27,,Reiko Tawa,田和玲子,,타와 레이코,Reiko Tawa
+28,,Yuugo,勇吾,,유고,Yuugo
+29,,Erika,艾莉卡,,에리카,Erika
+30,,Ryuji,龍司,,류지,Ryuji
+31,,Chitose,千歲,,치토세,Chitose
+32,,Yu,圭介,,유우,Yu
+33,,Erika (Ospedale),艾莉卡(病人服),,에리카(환자복),Erika (Krankenhaus)
+34,,K,K,,K,K
+35,,Ryota,良太,,료타,Ryota
+36,,Sakura,櫻,,사쿠라,Sakura
+37,,Victory Uchida,V內田,,V우치다,Viktor Uchida
+38,,Mefisto,梅菲斯特先生,,메피스토씨,Mephisto
+39,,Makoto Yamashina,山科誠,,야마시나 마코토,Makoto Yamashina
+40,,Chika Yamashina,山科千夏,,야마시나 치카,Chika Yamashina
+41,,La madre di Sakura,櫻的母親,,사쿠라의 어머니,Sakuras Mutter
+44,,Maestro,店長,,주인장,Meister
+45,,Mei Kokusho,國生梅,,코쿠쇼 메이,Mei Kokusho
+46,,Kenji Kotoge,小峠建司,,코토게 켄지,Kenji Kotoge
+47,,Manaka Nonomiya,野野宮愛加,,노노미야 마나카,Manaka Nonomiya
+48,,Ragazza Fantasma,女幽靈高中生,,유령 여고생,Geistermädchen
+49,,Lily Horaguchi,洞口莉莉,,호라구치 릴리,Lily Horaguchi
+50,,Signor Navit,NAVIT,,내빗씨,Navit-san
+51,,Youji Shiga,志賀陽司,,시가 요우지,Youji Shiga
+52,,Tooru Kayaba,茅場透,,카야바 토오루,Tooru Kayaba
+53,,Akira Hosaka,保坂晶,,호사카 아키라,Akira Hosaka
+54,,Uomo d'affari (Occhiali) #1,上班族(戴眼鏡)①,,샐러리맨(안경)①,Geschäft. (Brille) 1
+55,,Uomo d'affari (Occhiali) #2,上班族(戴眼鏡)②,,샐러리맨(안경)②,Geschäft. (Brille) 2
+56,,Uomo d'affari (Occhiali) #3,上班族(戴眼鏡)③,,샐러리맨(안경)③,Geschäft. (Brille) 3
+57,,Impiegato #1,上班族①,,샐러리맨①,Geschäftsmann 1
+58,,Uomo d'affari #2,上班族②,,샐러리맨②,Geschäftsmann 2
+59,,Uomo d'affari #3,上班族③,,샐러리맨③,Geschäftsmann 3
+60,,Giovane Uomo #1,年輕男性①,,젊은 남성①,Junger Mann 1
+61,,Giovane Uomo #2,年輕男性②,,젊은 남성②,Junger Mann 2
+62,,Giovane Uomo #3,年輕男性③,,젊은 남성③,Junger Mann 3
+63,,Impiegata #1,OL大姊姊①,,OL누님①,Bürodame 1
+64,,Impiegata #2,OL大姊姊②,,OL누님②,Bürodame 2
+65,,Impiegata #3,OL大姊姊③,,OL누님③,Bürodame 3
+66,,Cameriera #1,女僕小姐①,,메이드 양①,Maid 1
+67,,Cameriera #2,女僕小姐②,,메이드 양②,Maid 2
+68,,Cameriera #3,女僕小姐③,,메이드 양③,Maid 3
+69,,Infermiera #1,護理師①,,간호사①,Krankenschwester 1
+70,,Infermiera #2,護理師②,,간호사②,Krankenschwester 2
+71,,Infermiera #3,護理師③,,간호사③,Krankenschwester 3
+72,,Studente Maschio #1,男學生①,,남학생①,Schüler 1
+73,,Studentessa #1,女學生①,,여학생①,Schülerin 1
+74,,Agente di polizia,警察,,경찰관,Polizist
+75,,Soldato della Difesa,防衛隊員,,방위대원,Schutzpolizist
+76,,Giovane Donna #1,年輕女性①,,젊은 여성①,Junge Frau 1
+77,,Giovane Donna #2,年輕女性②,,젊은 여성②,Junge Frau 2
+78,,Ragazza #3,年輕女性③,,젊은 여성③,Junge Frau 3
+79,,Ragazzo #1,男孩子①,,남자 아이①,Junge 1
+80,,Ragazzo #2,男孩子②,,남자 아이②,Junge 2
+81,,Ragazzo n. 3,男孩子③,,남자 아이③,Junge 3
+82,,Ragazza #1,女孩子①,,여자 아이①,Mädchen 1
+83,,Ragazza #2,女孩子②,,여자 아이②,Mädchen 2
+84,,Ragazza #3,女孩子③,,여자 아이③,Mädchen 3
+85,,Donna adulta #1,成年女性①,,성인 여성①,Erwachsene 1
+86,,Donna adulta #2,成年女性②,,성인 여성②,Erwachsene 2
+87,,Donna adulta #3,成年女性③,,성인 여성③,Erwachsene 3
+88,,Uomo di Mezza Età #1,中年男性①,,중년 남성①,Mann mittl. Alters 1
+89,,Uomo di mezza età #2,中年男性②,,중년 남성②,Mann mittl. Alters 2
+90,,Uomo di mezza età #3,中年男性③,,중년 남성③,Mann mittl. Alters 3
+91,,Nonno #1,老爺爺①,,할아버지①,Großvater 1
+92,,Nonno n. 2,老爺爺②,,할아버지②,Großvater 2
+93,,Nonno #3,老爺爺③,,할아버지③,Großvater 3
+94,,Secchione #1,宅男①,,오타쿠①,Nerd 1
+95,,Secchione #2,宅男②,,오타쿠②,Nerd 2
+96,,Secchione #3,宅男③,,오타쿠③,Nerd 3
+97,,Commerciante #1,商店店員①,,숍 점원①,Ladenbesitzerin 1
+98,,Commerciante #2,商店店員②,,숍 점원②,Ladenbesitzerin 2
+99,,Commerciante #3,商店店員③,,숍 점원③,Ladenbesitzerin 3
+100,,Hacker Zaxon (Maschio) #1,Zaxon男駭客①,,잭슨 해커(남)①,Zaxon-Hacker 1
+101,,Hacker Zaxon (Maschio) #2,Zaxon男駭客②,,잭슨 해커(남)②,Zaxon-Hacker 2
+102,,Hacker Zaxon (Maschio) #3,Zaxon男駭客③,,잭슨 해커(남)③,Zaxon-Hacker 3
+103,,Hacker Zaxon (Maschio) #4,Zaxon男駭客④,,잭슨 해커(남)④,Zaxon-Hacker 4
+104,,Hacker Zaxon (Maschio) #5,Zaxon男駭客⑤,,잭슨 해커(남)⑤,Zaxon-Hacker 5
+105,,Hacker Zaxon (Maschio) n. 6,Zaxon男駭客⑥,,잭슨 해커(남)⑥,Zaxon-Hacker 6
+106,,Hacker Demoniaco (Maschio) #1,惡魔亂舞男駭客①,,데몬즈 해커(남)①,Demons-Hacker 1
+107,,Hacker Demoniaco (Maschio) #2,惡魔亂舞男駭客②,,데몬즈 해커(남)②,Demons-Hacker 2
+108,,Hacker Demoniaco (Maschio) #3,惡魔亂舞男駭客③,,데몬즈 해커(남)③,Demons-Hacker 3
+109,,Hacker Demoniaco (Maschio) #4,惡魔亂舞男駭客④,,데몬즈 해커(남)④,Demons-Hacker 4
+110,,Hacker Demoniaco (Maschio) #5,惡魔亂舞男駭客⑤,,데몬즈 해커(남)⑤,Demons-Hacker 5
+111,,Hacker Demoniaco (Maschio) #6,惡魔亂舞男駭客⑥,,데몬즈 해커(남)⑥,Demons-Hacker 6
+112,,Hacker Demoniaco (Maschio) #7,惡魔亂舞男駭客⑦,,데몬즈 해커(남)⑦,Demons-Hacker 7
+113,,Hacker Demoniaco (Maschio) #8,惡魔亂舞男駭客⑧,,데몬즈 해커(남)⑧,Demons-Hacker 8
+114,,Hacker Demoniaco (Maschio) #9,惡魔亂舞男駭客⑨,,데몬즈 해커(남)⑨,Demons-Hacker 9
+115,,Hacker Solitario (Maschio) #1,無隊伍男駭客①,,무소속 해커(남)①,Solo-Hacker 1
+116,,Hacker Solitario (Maschio) #2,無隊伍男駭客②,,무소속 해커(남)②,Solo-Hacker 2
+117,,Hacker Solitario (Maschio) #3,無隊伍男駭客③,,무소속 해커(남)③,Solo-Hacker 3
+118,,Hacker Solitario (Maschio) #4,無隊伍男駭客④,,무소속 해커(남)④,Solo-Hacker 4
+119,,Hacker Solitario (Maschio) #5,無隊伍男駭客⑤,,무소속 해커(남)⑤,Solo-Hacker 5
+120,,Hacker Solitario (Maschile) #6,無隊伍男駭客⑥,,무소속 해커(남)⑥,Solo-Hacker 6
+121,,Hacker Solitario (Maschio) #7,無隊伍男駭客⑦,,무소속 해커(남)⑦,Solo-Hacker 7
+122,,Hacker Solitario (Maschio) #8,無隊伍男駭客⑧,,무소속 해커(남)⑧,Solo-Hacker 8
+123,,Hacker Solitario (Maschio) #9,無隊伍男駭客⑨,,무소속 해커(남)⑨,Solo-Hacker 9
+124,,Hacker Zaxon (Femmina) #1,Zaxon男駭客①,,잭슨 해커(여)①,Zaxon-Hackerin 1
+125,,Hacker Zaxon (Femmina) #2,Zaxon男駭客②,,잭슨 해커(여)②,Zaxon-Hackerin 2
+126,,Hacker Zaxon (Femmina) #3,Zaxon男駭客③,,잭슨 해커(여)③,Zaxon-Hackerin 3
+127,,Hacker Zaxon (Femmina) #4,Zaxon男駭客④,,잭슨 해커(여)④,Zaxon-Hackerin 4
+128,,Hacker Zaxon (Donna) #5,Zaxon男駭客⑤,,잭슨 해커(여)⑤,Zaxon-Hackerin 5
+129,,Hacker Zaxon (Femmina) #6,Zaxon男駭客⑥,,잭슨 해커(여)⑥,Zaxon-Hackerin 6
+130,,Hacker Zaxon (Femmina) #7,Zaxon男駭客⑦,,잭슨 해커(여)⑦,Zaxon-Hackerin 7
+131,,Hacker Zaxon (Femmina) #8,Zaxon男駭客⑧,,잭슨 해커(여)⑧,Zaxon-Hackerin 8
+132,,Hacker Zaxon (Femmina) #9,Zaxon男駭客⑨,,잭슨 해커(여)⑨,Zaxon-Hackerin 9
+133,,Hacker Solitario (Femmina) #1,無隊伍女駭客①,,무소속 해커(여)①,Solo-Hackerin 1
+134,,Hacker Solitaria (Femmina) #2,無隊伍女駭客②,,무소속 해커(여)②,Solo-Hackerin 2
+135,,Hacker Solitario (Femmina) #3,無隊伍女駭客③,,무소속 해커(여)③,Solo-Hackerin 3
+136,,Hacker Solitario (Femmina) #4,無隊伍女駭客④,,무소속 해커(여)④,Solo-Hackerin 4
+137,,Hacker Solitario (Femmina) #5,無隊伍女駭客⑤,,무소속 해커(여)⑤,Solo-Hackerin 5
+138,,Hacker Solitario (Femmina) #6,無隊伍女駭客⑥,,무소속 해커(여)⑥,Solo-Hackerin 6
+139,,Hacker Solitario (Femmina) #7,無隊伍女駭客⑦,,무소속 해커(여)⑦,Solo-Hackerin 7
+140,,Hacker Solitario (Femmina) #8,無隊伍女駭客⑧,,무소속 해커(여)⑧,Solo-Hackerin 8
+141,,Hacker Solitario (Femmina) #9,無隊伍女駭客⑨,,무소속 해커(여)⑨,Solo-Hackerin 9
+142,,Sig. Navit,NAVIT,,내빗군,Herr Navit
+143,,Guardia di sicurezza,警衛,,경비원,Wachmann
+144,,Gatto Bianco,白貓,,흰 고양이,Weiße Katze
+145,,Gatto Nero,黑貓,,검은 고양이,Schwarze Katze
+146,,Impiegato Kamishiro,神代企業員工,,카미시로 사원,Kamishiro-Mitarbeiter
+147,,Impiegata dell'Ufficio Kamishiro,神代企業OL,,카미시로 OL,Kamishiro-Bürodame
+148,,Peccatore di Kamishiro,神代企業高層,,카미시로 중역,Kamishiro-Manager
+149,,Giovane Uomo #4,年輕男性④,,젊은 남성④,Junger Mann 4
+150,,Giovane Uomo #5,年輕男性⑤,,젊은 남성⑤,Junger Mann 5
+151,,Giovane Uomo #6,年輕男性⑥,,젊은 남성⑥,Junger Mann 6
+152,,Impiegata #4,OL大姊姊④,,OL누님④, Bürodame 4
+153,,Impiegata #5,OL大姊姊⑤,,OL누님⑤, Bürodame 5
+154,,Impiegata #6,OL大姊姊⑥,,OL누님⑥, Bürodame 6
+155,,Giovane Donna #4,年輕女性④,,젊은 여성④,Junge Frau 4
+156,,Giovane Donna #5,年輕女性⑤,,젊은 여성⑤,Junge Frau 5
+157,,Giovane Donna #6,年輕女性⑥,,젊은 여성⑥,Junge Frau 6
+158,,Donna Adulta #4,成年女性④,,성인 여성④,Erwachsene 4
+159,,Donna adulta #5,成年女性⑤,,성인 여성⑤,Erwachsene 5
+160,,Donna adulta #6,成年女性⑥,,성인 여성⑥,Erwachsene 6
+161,,Uomo di mezza età n. 4,中年男性④,,중년 남성④,Mann mittl. Alters 4
+162,,Uomo di mezza età #5,中年男性⑤,,중년 남성⑤,Mann mittl. Alters 5
+163,,Uomo di mezza età #6,中年男性⑥,,중년 남성⑥,Mann mittl. Alters 6
+164,,Studente Maschio #2,男學生②,,남학생②,Schüler 2
+165,,Studente maschio #3,男學生③,,남학생③,Schüler 3
+166,,Studentessa #2,女學生②,,여학생②,Schülerin 2
+167,,Studentessa #3,女學生③,,여학생③,Schülerin 3
+168,,Vestiti Neri,黑衣人,,검은 옷,Schwarze Kleidung
+169,,Rivenditori di Steam,蒸氣領薪族,,스팀리맨,Steam Dealers
+170,,Cameriere Mascherate #1,假面女僕①,,마스크 메이드①,Masked Maids 1
+171,,Cameriere Mascherate #2,假面女僕②,,마스크 메이드②,Masked Maids 2
+172,,Cameriere Mascherate #3,假面女僕③,,마스크 메이드③,Masked Maids 3
+173,,Cerchio del Coniglio #1,兔籠①,,래빗 서클①,Rabbit Circle 1
+174,,Circolo del Coniglio #2,兔籠②,,래빗 서클②,Rabbit Circle 2
+175,,Circolo del Coniglio #3,兔籠③,,래빗 서클③,Rabbit Circle 3
+176,,Hacker di alto livello #1,高級駭客①,,상급 해커①,Hochrang. Hacker 1
+177,,Hacker di alto livello #2,高級駭客②,,상급 해커②,Hochrang. Hacker 2
+178,,Hacker di alto livello #3,高級駭客③,,상급 해커③,Hochrang. Hacker 3
+179,,Argento Nero #1,黑銀①,,블랙 실버①,Black Silver 1
+180,,Argento Nero #2,黑銀②,,블랙 실버②,Black Silver 2
+181,,Argento Nero #3,黑銀③,,블랙 실버③,Black Silver 3
+182,,Flanella di Akiba #1,秋葉格紋①,,아키바 플란넬①,Akiba Flannel 1
+183,,Akiba Flanella #2,秋葉格紋②,,아키바 플란넬②,Akiba Flannel 2
+184,,Akiba Flanella #3,秋葉格紋③,,아키바 플란넬③,Akiba Flannel 3
+185,,Animali dell'oceano #1,海洋動物群①,,오션 애니멀즈①,Ocean Animals 1
+186,,Animali marini #2,海洋動物群②,,오션 애니멀즈②,Ocean Animals 2
+187,,Animali marini #3,海洋動物群③,,오션 애니멀즈③,Ocean Animals 3
+188,,Orecchie da gatto #1,萌萌貓耳①,,캣 이어①,Cat Ears 1
+189,,Orecchie da gatto #2,萌萌貓耳②,,캣 이어②,Cat Ears 2
+190,,Orecchie da gatto #3,萌萌貓耳③,,캣 이어③,Cat Ears 3
+191,,Angeli Leggendari #1,傳說天使①,,레전드 천사①,Legend Angels 1
+192,,Angeli Leggendari n. 2,傳說天使②,,레전드 천사②,Legend Angels 2
+193,,Angeli Leggendari #3,傳說天使③,,레전드 천사③,Legend Angels 3
+194,,Palestra Muscle,肌肉健身房,,머슬 짐,Muscle Gym
+195,,Alleanza Polvere #1,塵埃同盟①,,더스트 동맹①,Dust Alliance 1
+196,,Alleanza Polvere #2,塵埃同盟②,,더스트 동맹②,Dust Alliance 2
+197,,Alleanza Polvere #3,塵埃同盟③,,더스트 동맹③,Dust Alliance 3
+198,,Giovane nel cuore #1,童心①,,하트 오브 차일드①,Young at Heart 1
+199,,Giovane nel Cuore #2,童心②,,하트 오브 차일드②,Young at Heart 2
+200,,Giovane nel cuore #3,童心③,,하트 오브 차일드③,Young at Heart 3
+201,,Amanti delle Ruote #1,輪圈愛好者①,,휠 애호가①,Wheel Lovers 1
+202,,Amanti delle Ruote #2,輪圈愛好者②,,휠 애호가②,Wheel Lovers 2
+203,,Amanti delle Ruote #3,輪圈愛好者③,,휠 애호가③,Wheel Lovers 3
+204,,101 #1,101①,,원 오 원①,„101“ 1
+205,,101 #2,101②,,원 오 원②,„101“ 2
+206,,101 #3,101③,,원 오 원③,„101“ 3
+207,,Dinosauristi #1,恐龍教①,,다이너소어교①,Dinosauristen 1
+208,,Dinosauristi #2,恐龍教②,,다이너소어교②,Dinosauristen 2
+209,,Dinosauristi #3,恐龍教③,,다이너소어교③,Dinosauristen 3
+210,,Spike & Shield #1,尖刺與大盾①,,스파이크&실드①,Spike & Shield 1
+211,,Spike & Shield #2,尖刺與大盾②,,스파이크&실드②,Spike & Shield 2
+212,,Spina & Scudo #3,尖刺與大盾③,,스파이크&실드③,Spike & Shield 3
+213,,Nakano Stripes #1,中野條紋①,,나카노 스트라이프스①,Nakano Stripes 1
+214,,Righe di Nakano #2,中野條紋②,,나카노 스트라이프스②,Nakano Stripes 2
+215,,Strisce di Nakano #3,中野條紋③,,나카노 스트라이프스③,Nakano Stripes 3
+216,,Tokyo Shock Groove #1,東京觸電嗨①,,도쿄 감전 그루브①,Tokyo Shock Groove 1
+217,,Tokyo Shock Groove #2,東京觸電嗨②,,도쿄 감전 그루브②,Tokyo Shock Groove 2
+218,,Tokyo Shock Groove #3,東京觸電嗨③,,도쿄 감전 그루브③,Tokyo Shock Groove 3
+219,,Poteri di Fuoco #1,火焰熱力①,,파이어 파워즈①,Fire Power 1
+220,,Poteri di Fuoco #2,火焰熱力②,,파이어 파워즈②,Fire Power 2
+221,,Poteri di Fuoco #3,火焰熱力③,,파이어 파워즈③,Fire Power 3
+222,,Spiega le Ali #1,展翅高飛隊①,,날개 편 부대①,Spread Wings 1
+223,,Spiega le Ali #2,展翅高飛隊②,,날개 편 부대②,Spread Wings 2
+224,,Spiega le Ali #3,展翅高飛隊③,,날개 편 부대③,Spread Wings 3
+225,,Ragazze della foresta #1,森林女孩①,,포레스트 걸스①,Forest Girls 1
+226,,Ragazze della Foresta #2,森林女孩②,,포레스트 걸스②,Forest Girls 2
+227,,Ragazze della Foresta #3,森林女孩③,,포레스트 걸스③,Forest Girls 3
+228,,Ryuji (Ospedale),龍司(病人服),,류지(환자복),Ryuji (Krankenhaus)
+229,,Chitose (Ospedale),千歲(病人服),,치토세(환자복),Chitose (Krankenh.)
+230,,Fei (Ospedale),菲(病人服),,페이(환자복),Fei (Krankenhaus)
+231,,K (Personaggio Principale),K(主角),,K(주인공),K (Hauptfigur)
+232,,K (Vero Volto),K(素顏),,K(맨얼굴),K (Wahres Gesicht)
+233,,Cyber Sleuth Maglietta M (1),網路偵探男T-Shirt（1）,,사이버 슬루스(남) 티셔츠(1),Cyber-Detektiv-Shirt (M) 1
+234,,Cyber Sleuth Maglietta M (2),網路偵探男T-Shirt（2）,,사이버 슬루스(남) 티셔츠(2),Cyber-Detektiv-Shirt (M) 2
+235,,Cyber Sleuth Maglietta M (3),網路偵探男T-Shirt（3）,,사이버 슬루스(남) 티셔츠(3),Cyber-Detektiv-Shirt (M) 3
+236,,T-Shirt Cyber Sleuth M (4),網路偵探男T-Shirt（4）,,사이버 슬루스(남) 티셔츠(4),Cyber-Detektiv-Shirt (M) 4
+237,,Cyber Sleuth Maglietta M (5),網路偵探男T-Shirt（5）,,사이버 슬루스(남) 티셔츠(5),Cyber-Detektiv-Shirt (M) 5
+238,,Maglietta Cyber Sleuth M (6),網路偵探男T-Shirt（6）,,사이버 슬루스(남) 티셔츠(6),Cyber-Detektiv-Shirt (M) 6
+239,,Maglietta Cyber Sleuth M (7),網路偵探男T-Shirt（7）,,사이버 슬루스(남) 티셔츠(7),Cyber-Detektiv-Shirt (M) 7
+240,,T-Shirt Cyber Sleuth M (8),網路偵探男T-Shirt（8）,,사이버 슬루스(남) 티셔츠(8),Cyber-Detektiv-Shirt (M) 8
+241,,Cyber Sleuth T-Shirt M (9),網路偵探男T-Shirt（9）,,사이버 슬루스(남) 티셔츠(9),Cyber-Detektiv-Shirt (M) 9
+242,,T-shirt Cyber Sleuth M (10),網路偵探男T-Shirt（10）,,사이버 슬루스(남) 티셔츠(10),Cyber-Detektiv-Shirt (M) 10
+243,,T-Shirt Cyber Sleuth M (11),網路偵探男T-Shirt（11）,,사이버 슬루스(남) 티셔츠(11),Cyber-Detektiv-Shirt (M) 11
+244,,Cyber Sleuth T-Shirt M (12),網路偵探男T-Shirt（12）,,사이버 슬루스(남) 티셔츠(12),Cyber-Detektiv-Shirt (M) 12
+245,,T-shirt Cyber Sleuth M (13),網路偵探男T-Shirt（13）,,사이버 슬루스(남) 티셔츠(13),Cyber-Detektiv-Shirt (M) 13
+246,,Cyber Sleuth Maglietta M (14),網路偵探男T-Shirt（14）,,사이버 슬루스(남) 티셔츠(14),Cyber-Detektiv-Shirt (M) 14
+247,,Cyber Sleuth T-Shirt M (15),網路偵探男T-Shirt（15）,,사이버 슬루스(남) 티셔츠(15),Cyber-Detektiv-Shirt (M) 15
+248,,T-Shirt Cyber Sleuth M (16),網路偵探男T-Shirt（16）,,사이버 슬루스(남) 티셔츠(16),Cyber-Detektiv-Shirt (M) 16
+249,,T-shirt Cyber Sleuth M (17),網路偵探男T-Shirt（17）,,사이버 슬루스(남) 티셔츠(17),Cyber-Detektiv-Shirt (M) 17
+250,,Cyber Sleuth Maglietta M (18),網路偵探男T-Shirt（18）,,사이버 슬루스(남) 티셔츠(18),Cyber-Detektiv-Shirt (M) 18
+251,,Cyber Sleuth T-Shirt M (19),網路偵探男T-Shirt（19）,,사이버 슬루스(남) 티셔츠(19),Cyber-Detektiv-Shirt (M) 19
+252,,T-Shirt Cyber Sleuth M (20),網路偵探男T-Shirt（20）,,사이버 슬루스(남) 티셔츠(20),Cyber-Detektiv-Shirt (M) 20
+253,,T-shirt Cyber Sleuth M (21),網路偵探男T-Shirt（21）,,사이버 슬루스(남) 티셔츠(21),Cyber-Detektiv-Shirt (M) 21
+254,,Cyber Sleuth Maglietta M (22),網路偵探男T-Shirt（22）,,사이버 슬루스(남) 티셔츠(22),Cyber-Detektiv-Shirt (M) 22
+255,,T-Shirt Cyber Sleuth M (23),網路偵探男T-Shirt（23）,,사이버 슬루스(남) 티셔츠(23),Cyber-Detektiv-Shirt (M) 23
+256,,T-Shirt Cyber Sleuth M (24),網路偵探男T-Shirt（24）,,사이버 슬루스(남) 티셔츠(24),Cyber-Detektiv-Shirt (M) 24
+257,,Cyber Sleuth T-Shirt M (25),網路偵探男T-Shirt（25）,,사이버 슬루스(남) 티셔츠(25),Cyber-Detektiv-Shirt (M) 25
+258,,Cyber Sleuth Maglietta M (26),網路偵探男T-Shirt（26）,,사이버 슬루스(남) 티셔츠(26),Cyber-Detektiv-Shirt (M) 26
+259,,T-shirt Cyber Sleuth M (27),網路偵探男T-Shirt（27）,,사이버 슬루스(남) 티셔츠(27),Cyber-Detektiv-Shirt (M) 27
+260,,Maglietta Cyber Sleuth M (28),網路偵探男T-Shirt（28）,,사이버 슬루스(남) 티셔츠(28),Cyber-Detektiv-Shirt (M) 28
+261,,T-shirt Cyber Sleuth M (29),網路偵探男T-Shirt（29）,,사이버 슬루스(남) 티셔츠(29),Cyber-Detektiv-Shirt (M) 29
+262,,T-shirt Cyber Sleuth M (30),網路偵探男T-Shirt（30）,,사이버 슬루스(남) 티셔츠(30),Cyber-Detektiv-Shirt (M) 30
+263,,Cyber Sleuth T-shirt M (31),網路偵探男T-Shirt（31）,,사이버 슬루스(남) 티셔츠(31),Cyber-Detektiv-Shirt (M) 31
+264,,Cyber Sleuth T-shirt M (32),網路偵探男T-Shirt（32）,,사이버 슬루스(남) 티셔츠(32),Cyber-Detektiv-Shirt (M) 32
+265,,T-Shirt Cyber Sleuth M (33),網路偵探男T-Shirt（33）,,사이버 슬루스(남) 티셔츠(33),Cyber-Detektiv-Shirt (M) 33
+266,,T-Shirt Cyber Sleuth M (34),網路偵探男T-Shirt（34）,,사이버 슬루스(남) 티셔츠(34),Cyber-Detektiv-Shirt (M) 34
+267,,Cyber Sleuth Maglietta M (35),網路偵探男T-Shirt（35）,,사이버 슬루스(남) 티셔츠(35),Cyber-Detektiv-Shirt (M) 35
+268,,T-shirt C. Sleuth M (Uchida),網路偵探男主角（內田）,,사이버 슬루스 남주인공(우치다),"Cyb.-Det.-Shirt (M, Uchida)"
+269,,Cyber Sleuth Maglietta M (BE),網路偵探男T-Shirt（ＢＥ）,,사이버 슬루스(남) 티셔츠(BE),Cyber-Detektiv-Shirt (M) BE
+270,,T-shirt Cyber Sleuth M (36),網路偵探男T-Shirt（36）,,사이버 슬루스(남) 티셔츠(36),Cyber-Detektiv-Shirt (M) 36
+271,,Maglietta Cyber Sleuth M (37),網路偵探男T-Shirt（37）,,사이버 슬루스(남) 티셔츠(37),Cyber-Detektiv-Shirt (M) 37
+272,,Cyber Sleuth Maglietta M (38),網路偵探男T-Shirt（38）,,사이버 슬루스(남) 티셔츠(38),Cyber-Detektiv-Shirt (M) 38
+273,,Cyber Sleuth T-shirt M (SC),網路偵探男T-Shirt（ＳＣ）,,사이버 슬루스(남) 티셔츠(SC),Cyber-Detektiv-Shirt (M) SC
+274,,T-shirt Cyber Sleuth M (39),網路偵探男T-Shirt（３９）,,사이버 슬루스(남) 티셔츠(39),Cyber-Detektiv-Shirt (M) 39
+300,,Promettente Recluta,期待的新人馴獸師,,기대되는 루키 테이머,Vielverspr. Rookie
+301,,Investigatore Kuremi,暮海偵探助手,,쿠레미 탐정 조수,Kuremi-Detektiv
+302,,Hacker Farfalla,hudie駭客,,후디에 해커,Hudie-Hacker
+303,,Hacker Bronzo,銅級駭客,,브론즈 해커,Bronze-Hacker
+304,,Hacker Argento,銀級駭客,,실버 해커,Silber-Hacker
+305,,Hacker d'Oro,金級駭客,,골드 해커,Gold-Hacker
+306,,Hacker di Platino,白金駭客,,플래티나 해커,Platin-Hacker
+307,,Hacker Leggendario,傳說駭客,,레전드 해커,Legenden-Hacker
+308,,Hacker Esperto,大師駭客,,마스터 해커,Meister-Hacker
+309,,Re della Dominazione,鎮壓之王,,킹 오브 도미네이터,König der Dominanz
+310,,Osserva l'Abisso,凝視深淵之人,,심연을 들여다보는 자,Abyss-Abenteurer
+311,,Re Digimon,數碼寶貝之王,,디지몬 킹,Digimon-König
+312,,Domatore Coraggioso,勇氣馴獸師,,브레이브 테이머,Tapferer Zähmer
+313,,Allenatore d'Élite,精英馴獸師,,엘리트 테이머,Elite-Zähmer
+314,,Tamer Veterano,老練馴獸師,,베테랑 테이머,Erfahrener Zähmer
+315,,Digiprescelti,被選上的孩子,,선택받은 아이,DigiAuserwählter
+316,,Agente Libero,自律探員,,자율 에이전트,Freier Agent
+317,,Digimon Kaiser,數碼寶貝皇帝,,디지몬 카이저,Digimon-Kaiser
+318,,Regina Digimon,數碼寶貝女王,,디지몬 퀸,Digimon-Königin
+319,,Guardiano di Digimon,防禦馴獸師,,가드 테이머,Wachmann-Zähmer
+320,,Erede dello Spirito,繼承靈魂之人,,스피릿을 계승하는 자,Erbe des Geists
+321,,Fratello Maggiore,大哥,,형님,Großer Bruder
+322,,Hacker Perfetto,完美馴獸師,,퍼펙트 테이머,Perfekter Hacker
+323,,Generale Furia di Fuoco,火烈將軍,,화열 장군,Feuereifer-General
+324,,Generale della Luce Lunare,月光將軍,,월광 장군,Mondlicht-General
+325,,Generale Tigre d'Acqua,水虎將軍,,수호 장군,Wassertiger-General
+326,,Generale Pirata Dorato,金賊將軍,,금적 장군,Goldpiraten-General
+327,,Generale del Sole,日輪將軍,,일륜 장군,Sonnen-General
+328,,Generale Spirito del Legno,木精將軍,,목정 장군,Holzgeist-General
+329,,Generale dello Spirito della Terra,土神將軍,,토신 장군,Erdgeist-General
+330,,Domatore di gatti,貓咪馴獸師,,야옹이 테이머,Kätzchen-Zähmer
+331,,Uomo Analogico,類比古人,,아날로그맨,Analoger Mann
+332,,Ruggito del Drago,龍吼,,드래곤즈 로어,Drachengebrüll
+333,,Nature Spirits,自然之魂,,네이처 스피릿,Naturgeister
+334,,Guardiani del Vento,風之守衛者,,윈드 가디언즈,Windwächter
+335,,Soldati della Giungla,叢林騎兵,,정글 트루퍼즈,Dschungelsoldaten
+336,,Salvatori Profondi,深境救援者,,딥 세이버즈,Deep Savers
+337,,Impero di Metallo,金屬帝國,,메탈 엠파이어,Leitfähigkeit
+338,,Nightmare Soldiers,夢魘士兵,,나이트메어 솔져스,Albtraumsoldaten
+339,,Virus Busters,病毒破壞者,,바이러스 버스터즈,Virenjäger
+340,,Sconosciuto,不明,,언노운,Unbekannt
+341,,Apprendista Bancho,番長見習生,,반쵸 견습생,Angehender Bancho
+342,,Bancho leggendario,傳說的番長,,전설의 반쵸,Legendärer Bancho
+343,,Zanna di Luce,光之牙,,라이트 팽,Light Fang
+344,,Artiglio Notturno,夜之爪,,나이트 크로우,Night Claw
+345,,Pacificatore,調停之人,,조정자,Friedensbringer
+346,,Soldato della Cancellazione,刪除部隊人員,,삭제부대원,Löschsoldat
+347,,Guerriero Leggendario,傳說的鬥士,,전설의 투사,Legendärer Krieger
+348,,Capodanno Omni,恭賀新年奧米加獸,,복 많이 받으시오메가몬,Omni-Neujahr
+349,,Mastro di Fagioli,豆男,,마메오,Mame-Meister
+350,,Giocatore Rana,青蛙演奏者,,개구리 연주자,Froschspieler
+351,,Domatore di Nume,鼻涕馴獸師,,워매테이머,Nume-Zähmer
+352,,Re Zucca,南瓜之王,,펌프 킹,Pumpkin-König
+353,,Distruttore di Natale,聖誕破壞者,,크리스 매셔,Weihnachtsschläger
+354,,Via del Caos,混沌之道,,카오스 로드,Chaosweg
+355,,Tamer Comando,指令馴獸師,,커맨드 테이머,Kommando-Zähmer
+356,,Grande Tamer,高級馴獸師,,그레이트 테이머,Toller Zähmer
+357,,Hacker Digitale,數位破壞者,,디지털 크래커,Digitaler Cracker
+358,,Potere Definitivo,究極之力,,궁극 파워,Ultimative Macht
+359,,Sadico,虐待狂,,진성 S,Sadist
+360,,Distruttore di Mura,高牆粉碎者,,방화벽 크래셔,Wall-Zermalmer
+361,,Squadra Crank,破解隊,,크랙 팀,Cracking-Team
+362,,Server Crusher,伺服器破壞者,,서버 크래셔,Server-Zermalmer
+363,,Creatore di Genocidi,殲滅者,,제노사이더,Vernichtungsass
+364,,Mordi e Fuggi,千鈞一髮！,,위기 일발!,Auf Messers Schneide
+365,,Debugger,除錯者,,디버거,Debugger
+366,,Guaritore,治療者,,힐러,Heiler
+367,,Crusader,十字軍,,크루세이더,Kreuzritter
+368,,Tamer Iperprotettivo,保護過度馴獸師,,과보호 테이머,Übereifriger Zähmer
+369,,Dottore Digimon,數碼寶貝博士,,디지몬 닥터,Digimon-Arzt
+370,,Avventato,橫衝直撞,,저돌맹진,Draufgänger
+371,,Treno Impazzito,失控快車,,폭주 특급,Führerloser Zug
+372,,Masochista,受虐狂,,진성 M,Masochist
+373,,Protettore,保護者,,프로텍터,Beschützer
+374,,Guardiano,防衛者,,가디언,Wächter
+375,,Incarnazione del Firewall,防火牆的化身,,방화벽의 화신,Firewall-Inkarnation
+376,,Bloccante,阻絕者,,블로커,Blockierer
+377,,Programmatore della Sicurezza,保全程式員,,보안 프로그래머,Sicherheits-Coder
+378,,Architettura Astuta,厲害建築師,,민완 아키텍쳐,Kluge Architektur
+379,,Attaccante,攻擊者,,어태커,Angreifer
+380,,Combatti per la tua vita!,賭命的男人戰鬥！,,사나이의 싸움은 사생결단!,Kämpf um dein Leben!
+381,,Berserker,狂戰士,,버서커,Berserker
+382,,Mietitore,劊子手,,리퍼,Sensenmann
+383,,Attaccante Speciale,特殊攻擊者,,스페셜 어태커,Spezialangreifer
+384,,War Gamer,策略玩家,,워 게이머,Kriegsspiel-Gamer
+385,,Uragano Digimon,數碼寶貝旋風,,디지몬 허리케인,Digimon-Hurrikan
+386,,Allenatore Esperto,成人馴獸師,,어덜트 테이머,Erwachsener Zähmer
+387,,Emblema del Coraggio,勇氣徽章之主,,용기의 문장 소유자,Mutwappen
+388,,Emblema dell'Amicizia,友情徽章之主,,우정의 문장 소유자,Freundschaftswappen
+389,,Stemma dell'Amore,愛情徽章之主,,사랑의 문장 소유자,Liebeswappen
+390,,Stemma della Conoscenza,知識徽章之主,,지식의 문장 소유자,Wissenswappen
+391,,Emblema della Sincerità,純真徽章之主,,순수의 문장 소유자,Aufrichtigkeitswapp.
+392,,Stemma dell'Affidabilità,誠實徽章之主,,성실의 문장 소유자,Zuverlässigkeitswap.
+393,,Emblema della Speranza,希望徽章之主,,희망의 문장 소유자,Hoffnungswappen
+394,,Emblema della Luce,光之徽章之主,,빛의 문장 소유자,Lichtwappen
+395,,Stemma della Gentilezza,溫柔徽章之主,,친절의 문장 소유자,Gütewappen
+396,,Ipnologo,沉眠員工,,히프노스의 직원,Hypnotiseur
+397,,Wild Bunch,野性之拳,,와일드 번치,Wilde Bande
+398,,Il Miglior Bancho,日本第一的打架番長,,일본 최고의 싸움대장,Der beste Bancho
+399,,Soldato DATS,DATS隊員,,DATS 대원,DATS-Soldat
+400,,Esploratore del Digiworld,數碼世界探險隊,,디지털 월드 탐험대,Digit.-Welt-Erkunder
+401,,Generale Cuore Croce,合體將軍,,크로스 하트 제너럴,Kreuzherz-General
+402,,Generale Blue Flare,藍軍將軍,,블루 플레어 제너럴,Bl.-Flammen-General
+403,,Generale Crepuscolo,暮光將軍,,트와일라잇 제너럴,Dämmerungs-General
+404,,Generale della Morte,死亡將軍,,데스 제너럴,Todes-General
+405,,Croce Argentea,銀色十字,,실버 크로스,Silbernes Kreuz
+406,,Falco Blu,藍色飛鷹,,블루 팔콘,Blauer Falke
+407,,Spada Nera,黑暗之劍,,블랙 소드,Schwarzes Schwert
+408,,Notti Cruente,血腥之夜,,블러디 나이츠,Blutige Nächte
+409,,D.S.G.,D.S.G.,,D.S.G.,DSE
+410,,Hacker Ribelli,反叛者駭客,,리벨리온즈 해커,Rebel-Hacker
+411,,Hacker Zaxon,Zaxon駭客,,잭슨 해커,Zaxon-Hacker
+412,,Hacker Demoniaco,惡魔亂舞駭客,,데몬즈 해커,Demons-Hacker
+413,,Membro Hudie,hudie成員,,후디에 멤버,Hudie-Mitglied
+414,,Alias,分身,,에일리어스,Alias
+415,,Occhiali ereditati,繼承風鏡之人,,고글을 계승하는 자,Geerbte Brille
+416,,Stile Shibuya,涉谷系,,시부야계,Shibuya-Stil
+417,,Impiegato della GIGO Company,GIGO企業員工,,GIGO컴퍼니 직원,GIGO-Fabrikarbeiter
+418,,Arcadia,阿卡迪,,아르카디아,Arkadi
+419,,Avventura,冒險,,어드벤처,Abenteuer
+420,,Allenatori,馴獸師,,테이머즈,Zähmer
+421,,Frontier,邊疆,,프론티어,Grenze
+422,,Savers,救星,,세이버즈,Retter
+423,,Xros Wars,合體戰爭,,크로스워즈,Xros-Krieg
+424,,X-Evoluzione,X進化,,제볼루션,X-Evolution
+425,,Addestratore al 100%,100% 馴獸師,,100% 테이머,100 % Zähmer
+426,,T-Shirt Cyber Sleuth F (1),網路偵探女T-Shirt（1）,,사이버 슬루스(여) 티셔츠(1),Cyber-Detektiv-Shirt (W) 1
+427,,Cyber Sleuth Maglietta F (2),網路偵探女T-Shirt（2）,,사이버 슬루스(여) 티셔츠(2),Cyber-Detektiv-Shirt (W) 2
+428,,Cyber Sleuth T-Shirt F (3),網路偵探女T-Shirt（3）,,사이버 슬루스(여) 티셔츠(3),Cyber-Detektiv-Shirt (W) 3
+429,,Cyber Sleuth Maglietta F (4),網路偵探女T-Shirt（4）,,사이버 슬루스(여) 티셔츠(4),Cyber-Detektiv-Shirt (W) 4
+430,,Cyber Sleuth Maglietta F (5),網路偵探女T-Shirt（5）,,사이버 슬루스(여) 티셔츠(5),Cyber-Detektiv-Shirt (W) 5
+431,,T-shirt Cyber Sleuth F (6),網路偵探女T-Shirt（6）,,사이버 슬루스(여) 티셔츠(6),Cyber-Detektiv-Shirt (W) 6
+432,,T-Shirt Cyber Sleuth F (7),網路偵探女T-Shirt（7）,,사이버 슬루스(여) 티셔츠(7),Cyber-Detektiv-Shirt (W) 7
+433,,Cyber Sleuth T-Shirt F (8),網路偵探女T-Shirt（8）,,사이버 슬루스(여) 티셔츠(8),Cyber-Detektiv-Shirt (W) 8
+434,,T-Shirt Cyber Sleuth F (9),網路偵探女T-Shirt（9）,,사이버 슬루스(여) 티셔츠(9),Cyber-Detektiv-Shirt (W) 9
+435,,Cyber Sleuth Maglietta F (10),網路偵探女T-Shirt（10）,,사이버 슬루스(여) 티셔츠(10),Cyber-Detektiv-Shirt (W) 10
+436,,Cyber Sleuth Maglietta F (11),網路偵探女T-Shirt（11）,,사이버 슬루스(여) 티셔츠(11),Cyber-Detektiv-Shirt (W) 11
+437,,Cyber Sleuth Maglietta F (12),網路偵探女T-Shirt（12）,,사이버 슬루스(여) 티셔츠(12),Cyber-Detektiv-Shirt (W) 12
+438,,T-shirt Cyber Sleuth F (13),網路偵探女T-Shirt（13）,,사이버 슬루스(여) 티셔츠(13),Cyber-Detektiv-Shirt (W) 13
+439,,T-Shirt Cyber Sleuth F (14),網路偵探女T-Shirt（14）,,사이버 슬루스(여) 티셔츠(14),Cyber-Detektiv-Shirt (W) 14
+440,,Cyber Sleuth Maglietta F (15),網路偵探女T-Shirt（15）,,사이버 슬루스(여) 티셔츠(15),Cyber-Detektiv-Shirt (W) 15
+441,,Cyber Sleuth Maglietta F (16),網路偵探女T-Shirt（16）,,사이버 슬루스(여) 티셔츠(16),Cyber-Detektiv-Shirt (W) 16
+442,,Cyber Sleuth Maglietta F (17),網路偵探女T-Shirt（17）,,사이버 슬루스(여) 티셔츠(17),Cyber-Detektiv-Shirt (W) 17
+443,,Cyber Sleuth T-Shirt F (18),網路偵探女T-Shirt（18）,,사이버 슬루스(여) 티셔츠(18),Cyber-Detektiv-Shirt (W) 18
+444,,T-Shirt Cyber Sleuth F (19),網路偵探女T-Shirt（19）,,사이버 슬루스(여) 티셔츠(19),Cyber-Detektiv-Shirt (W) 19
+445,,T-Shirt Cyber Sleuth F (20),網路偵探女T-Shirt（20）,,사이버 슬루스(여) 티셔츠(20),Cyber-Detektiv-Shirt (W) 20
+446,,Cyber Sleuth Maglietta F (21),網路偵探女T-Shirt（21）,,사이버 슬루스(여) 티셔츠(21),Cyber-Detektiv-Shirt (W) 21
+447,,Cyber Sleuth Maglietta F (22),網路偵探女T-Shirt（22）,,사이버 슬루스(여) 티셔츠(22),Cyber-Detektiv-Shirt (W) 22
+448,,Cyber Sleuth Maglietta F (23),網路偵探女T-Shirt（23）,,사이버 슬루스(여) 티셔츠(23),Cyber-Detektiv-Shirt (W) 23
+449,,T-Shirt Cyber Sleuth F (24),網路偵探女T-Shirt（24）,,사이버 슬루스(여) 티셔츠(24),Cyber-Detektiv-Shirt (W) 24
+450,,Cyber Sleuth T-Shirt F (25),網路偵探女T-Shirt（25）,,사이버 슬루스(여) 티셔츠(25),Cyber-Detektiv-Shirt (W) 25
+451,,Cyber Sleuth Maglietta F (26),網路偵探女T-Shirt（26）,,사이버 슬루스(여) 티셔츠(26),Cyber-Detektiv-Shirt (W) 26
+452,,Cyber Sleuth T-Shirt F (27),網路偵探女T-Shirt（27）,,사이버 슬루스(여) 티셔츠(27),Cyber-Detektiv-Shirt (W) 27
+453,,Cyber Sleuth Maglietta F (28),網路偵探女T-Shirt（28）,,사이버 슬루스(여) 티셔츠(28),Cyber-Detektiv-Shirt (W) 28
+454,,Cyber Sleuth Maglietta F (29),網路偵探女T-Shirt（29）,,사이버 슬루스(여) 티셔츠(29),Cyber-Detektiv-Shirt (W) 29
+455,,Maglietta Cyber Sleuth F (30),網路偵探女T-Shirt（30）,,사이버 슬루스(여) 티셔츠(30),Cyber-Detektiv-Shirt (W) 30
+456,,Cyber Sleuth T-Shirt F (31),網路偵探女T-Shirt（31）,,사이버 슬루스(여) 티셔츠(31),Cyber-Detektiv-Shirt (W) 31
+457,,T-shirt Cyber Sleuth F (32),網路偵探女T-Shirt（32）,,사이버 슬루스(여) 티셔츠(32),Cyber-Detektiv-Shirt (W) 32
+458,,T-Shirt Cyber Sleuth F (33),網路偵探女T-Shirt（33）,,사이버 슬루스(여) 티셔츠(33),Cyber-Detektiv-Shirt (W) 33
+459,,Cyber Sleuth T-Shirt F (34),網路偵探女T-Shirt（34）,,사이버 슬루스(여) 티셔츠(34),Cyber-Detektiv-Shirt (W) 34
+460,,Cyber Sleuth Maglietta F (35),網路偵探女T-Shirt（35）,,사이버 슬루스(여) 티셔츠(35),Cyber-Detektiv-Shirt (W) 35
+461,,Maglietta C. Sleuth F (Uchida),網路偵探女T-Shirt（內田）,,사이버 슬루스 여주인공(우치다),"Cyb.-Det.-Shirt (W, Uchida)"
+462,,Cyber Sleuth T-Shirt F (BE),網路偵探女T-Shirt（ＢＥ）,,사이버 슬루스(여) 티셔츠(BE),Cyber-Detektiv-Shirt (W) BE
+463,,Cyber Sleuth Maglietta F (36),網路偵探女T-Shirt（36）,,사이버 슬루스(여) 티셔츠(36),Cyber-Detektiv-Shirt (W) 36
+464,,Cyber Sleuth T-Shirt F (37),網路偵探女T-Shirt（37）,,사이버 슬루스(여) 티셔츠(37),Cyber-Detektiv-Shirt (W) 37
+465,,T-Shirt Cyber Sleuth F (38),網路偵探女T-Shirt（38）,,사이버 슬루스(여) 티셔츠(38),Cyber-Detektiv-Shirt (W) 38
+466,,Cyber Sleuth T-Shirt F (SC),網路偵探女T-Shirt（ＳＣ）,,사이버 슬루스(여) 티셔츠(SC),Cyber-Detektiv-Shirt (W) SC
+467,,Cyber Sleuth T-Shirt F (39),網路偵探女T-Shirt（３９）,,사이버 슬루스(여) 티셔츠(39),Cyber-Detektiv-Shirt (W) 39
+468,,Maglietta Hacker Memory (1),駭客追憶T-Shirt（1）,,해커스 메모리 티셔츠(1),Hacker-Memory-Shirt 1
+469,,T-shirt Hacker Memory (2),駭客追憶T-Shirt（2）,,해커스 메모리 티셔츠(2),Hacker-Memory-Shirt 2
+470,,T-shirt Hacker Memory (3),駭客追憶T-Shirt（3）,,해커스 메모리 티셔츠(3),Hacker-Memory-Shirt 3
+471,,T-shirt Hacker Memory (4),駭客追憶T-Shirt（4）,,해커스 메모리 티셔츠(4),Hacker-Memory-Shirt 4
+472,,T-shirt Hacker Memory (5),駭客追憶T-Shirt（5）,,해커스 메모리 티셔츠(5),Hacker-Memory-Shirt 5
+473,,T-shirt Hacker Memory (6),駭客追憶T-Shirt（6）,,해커스 메모리 티셔츠(6),Hacker-Memory-Shirt 6
+474,,T-shirt Hacker Memory (7),駭客追憶T-Shirt（7）,,해커스 메모리 티셔츠(7),Hacker-Memory-Shirt 7
+475,,T-shirt Hacker Memory (8),駭客追憶T-Shirt（8）,,해커스 메모리 티셔츠(8),Hacker-Memory-Shirt 8
+476,,T-shirt Hacker Memory (9),駭客追憶T-Shirt（9）,,해커스 메모리 티셔츠(9),Hacker-Memory-Shirt 9
+477,,T-shirt Hacker Memory (10),駭客追憶T-Shirt（10）,,해커스 메모리 티셔츠(10),Hacker-Memory-Shirt 10
+478,,T-shirt Hacker Memory (11),駭客追憶T-Shirt（11）,,해커스 메모리 티셔츠(11),Hacker-Memory-Shirt 11
+479,,T-shirt Hacker Memory (12),駭客追憶T-Shirt（12）,,해커스 메모리 티셔츠(12),Hacker-Memory-Shirt 12
+480,,Maglietta Hacker Memory (13),駭客追憶T-Shirt（13）,,해커스 메모리 티셔츠(13),Hacker-Memory-Shirt 13
+481,,T-Shirt Hacker Memory (14),駭客追憶T-Shirt（14）,,해커스 메모리 티셔츠(14),Hacker-Memory-Shirt 14
+482,,T-shirt Memoria Hacker (15),駭客追憶T-Shirt（15）,,해커스 메모리 티셔츠(15),Hacker-Memory-Shirt 15
+483,,T-Shirt Hacker Memory (16),駭客追憶T-Shirt（16）,,해커스 메모리 티셔츠(16),Hacker-Memory-Shirt 16
+484,,T-shirt Hacker Memory (17),駭客追憶T-Shirt（17）,,해커스 메모리 티셔츠(17),Hacker-Memory-Shirt 17
+485,,Maglietta Hacker Memory (18),駭客追憶T-Shirt（18）,,해커스 메모리 티셔츠(18),Hacker-Memory-Shirt 18
+486,,T-shirt Hacker Memory (19),駭客追憶T-Shirt（19）,,해커스 메모리 티셔츠(19),Hacker-Memory-Shirt 19
+487,,Maglietta Hacker Memory (20),駭客追憶T-Shirt（20）,,해커스 메모리 티셔츠(20),Hacker-Memory-Shirt 20
+488,,T-shirt Hacker Memory (21),駭客追憶T-Shirt（21）,,해커스 메모리 티셔츠(21),Hacker-Memory-Shirt 21
+489,,T-shirt Hacker Memory (22),駭客追憶T-Shirt（22）,,해커스 메모리 티셔츠(22),Hacker-Memory-Shirt 22
+490,,T-Shirt Hacker Memory (23),駭客追憶T-Shirt（23）,,해커스 메모리 티셔츠(23),Hacker-Memory-Shirt 23
+491,,T-shirt Hacker Memory (24),駭客追憶T-Shirt（24）,,해커스 메모리 티셔츠(24),Hacker-Memory-Shirt 24
+492,,Maglietta Hacker Memory (25),駭客追憶T-Shirt（25）,,해커스 메모리 티셔츠(25),Hacker-Memory-Shirt 25
+493,,T-shirt Hacker Memory (26),駭客追憶T-Shirt（26）,,해커스 메모리 티셔츠(26),Hacker-Memory-Shirt 26
+494,,T-shirt Hacker Memory (27),駭客追憶T-Shirt（27）,,해커스 메모리 티셔츠(27),Hacker-Memory-Shirt 27
+495,,T-shirt Hacker Memory (28),駭客追憶T-Shirt（28）,,해커스 메모리 티셔츠(28),Hacker-Memory-Shirt 28
+496,,T-Shirt Hacker Memory (29),駭客追憶T-Shirt（29）,,해커스 메모리 티셔츠(29),Hacker-Memory-Shirt 29
+497,,T-Shirt Hacker Memory (30),駭客追憶T-Shirt（30）,,해커스 메모리 티셔츠(30),Hacker-Memory-Shirt 30
+498,,Maglietta Hacker Memory (31),駭客追憶T-Shirt（31）,,해커스 메모리 티셔츠(31),Hacker-Memory-Shirt 31
+499,,Maglietta Hacker Memory (32),駭客追憶T-Shirt（32）,,해커스 메모리 티셔츠(32),Hacker-Memory-Shirt 32
+500,,T-shirt Hacker Memory (33),駭客追憶T-Shirt（33）,,해커스 메모리 티셔츠(33),Hacker-Memory-Shirt 33
+501,,Maglietta Hacker Memory (34),駭客追憶T-Shirt（34）,,해커스 메모리 티셔츠(34),Hacker-Memory-Shirt 34
+502,,Maglietta Hacker Memory (35),駭客追憶T-Shirt（35）,,해커스 메모리 티셔츠(35),Hacker-Memory-Shirt 35
+503,,Protag memoria H. (Uchida),網路偵探主角（內田）,,해커스 메모리 주인공(우치다),Hacker-Memory-Uchida
+504,,Maglietta Hacker Memory (BE),駭客追憶T-Shirt（ＢＥ）,,해커스 메모리 티셔츠(BE),Hacker-Memory-Shirt BE
+505,,T-shirt Hacker Memory (36),駭客追憶T-Shirt（36）,,해커스 메모리 티셔츠(36),Hacker-Memory-Shirt 36
+506,,T-shirt Hacker Memory (37),駭客追憶T-Shirt（37）,,해커스 메모리 티셔츠(37),Hacker-Memory-Shirt 37
+507,,T-shirt Hacker Memory (38),駭客追憶T-Shirt（38）,,해커스 메모리 티셔츠(38),Hacker-Memory-Shirt 38
+508,,T-Shirt Hacker Memory (SC),駭客追憶T-Shirt（ＳＣ）,,해커스 메모리 티셔츠(SC),Hacker-Memory-Shirt SC
+509,,T-shirt Hacker Memory (39),駭客追憶T-Shirt（３９）,,해커스 메모리 티셔츠(39),Hacker-Memory-Shirt 39
