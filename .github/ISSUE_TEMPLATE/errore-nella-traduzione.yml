@@ -33,12 +33,13 @@ body:
     id: tipo-contesto
     attributes:
       label: Contesto dell'errore
-      description: Scegli dove hai trovato l'errore di traduzione.
+      description: Scegli la categoria del problema.
       options:
         - Menu Principale
         - Interfaccia di Gioco (HUD)
         - Dialoghi / Sottotitoli
         - Descrizione Oggetti / Abilità
+        - Crash del gioco
         - Altro (specifica nelle Info Extra)
     validations:
       required: true
@@ -47,7 +48,7 @@ body:
     id: save-file
     attributes:
       label: Allega file salvataggio della porzione del gioco dove è presente l'errore.
-      description: Allega il file del salvataggio del gioco, per permettermi di analizzare più facilmente l'errore.
+      description: Allega il file del salvataggio del gioco, per permettermi di analizzare più facilmente l'errore. I salvataggi si trovano in %LOCALAPPDATA%\BANDAI NAMCO Ent ertainment\Digimon Story Cyber Sleuth Complete Edition\Saved\S aveGames<user-id>*.bin
       placeholder: "Allega file..."
     validations:
       required: false
