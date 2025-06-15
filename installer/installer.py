@@ -3,7 +3,7 @@
 # -----------------------------------------------------------------------------
 # Installer Patch ITA Digimon Story Cyber Sleuth Complete Edition
 # Autore: SavT
-# Versione: v1
+# Versione: v2
 # -----------------------------------------------------------------------------
 
 import sys
@@ -49,7 +49,7 @@ HEAD_ICON_PATH = resource_path("assets/head_icon.png")
 YT_ICON = resource_path("assets/youtube.png")
 GH_ICON = resource_path("assets/github.png")
 WEB_ICON = resource_path("assets/web.png")
-VERSIONE = "v1"
+VERSIONE = "v2"
 CREDITI = "Patch By SavT e Lowrentio"
 EXE_SUBFOLDER = "Digimon Story Cyber Sleuth Complete Edition/app_digister"
 
