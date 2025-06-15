@@ -1,48 +1,48 @@
-﻿ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
-1,4297,,"Beh, siamo entrati nell'evento
-senza problemi. Tuttavia, non è un bene per i
-nervi, tutto questo.","順利參加了體驗會，
-可是這身裝扮真叫人心驚膽跳！",,"…무사히, 체험회에 참가했네
+﻿"ID","Speaker","Japanese","English","Chinese","EnglishCensored","Korean","German"
+"1","4297","","Beh, siamo entrati all'evento senza
+problemi. Anche se tutto questo mette
+un po' di ansia.","順利參加了體驗會，
+可是這身裝扮真叫人心驚膽跳！","","…무사히, 체험회에 참가했네
 …하지만…생각보다 두근거리는걸, 이거","Nun, in das Event sind wir problemlos
 reingekommen. Trotzdem nicht gut für die Nerven,
 das alles hier."
-2,4298,,"Ehi, Arata! Sei
-nervoso? Non sei mica tanto coraggioso,
-Arata. Sei però...","嘿！新！你會怕哦！
+"2","4298","","Ehi, Arata! Non sarai mica nervoso?
+Pensavo fossi più coraggioso di così, Arata.
+Non sarai mica...","嘿！新！你會怕哦！
 沒想到新那麼膽小！
-新你真是的…… 新就是這樣……",,"헤이, 아라타! 쫄았어!?
+新你真是的…… 新就是這樣……","","헤이, 아라타! 쫄았어!?
 아라타는 의외로 간이 작네
 아라타도 참… 이래서 아라타는","He, Arata! Bist du nervös?
 Sonderlich mutig bist du aber nicht, Arata.
 Du bist aber ..."
-3,4297,,"Zitto! Non pronunciare il mio vero nome!
-Per colpa tua verremo scoperti, [p]!
-Che sconsideratezza!","噓！不要叫我的名字！
-如果被發現我們變裝怎麼辦？笨[p]！",,"쉿! 고유명사는 말하지 말라고!
+"3","4297","","Zitto! Non pronunciare il mio vero nome!
+Se ci scoprono sarà colpa tua, [p]!
+Che sciocco!","噓！不要叫我的名字！
+如果被發現我們變裝怎麼辦？笨[p]！","","쉿! 고유명사는 말하지 말라고!
 변장했다는 게 들키면 어쩌려고, 바보 [p]!","Klappe! Nenn doch nicht meinen echten Namen!
 Wegen dir fliegen wir noch auf, [p]!
 Wie leichtsinnig!"
-4,4298,,...,……,,……,...
-5,4297,,Ops. Mi dispiace...,啊……抱歉……,,이런… 미안미안…,Hoppla. Tut mir leid ...
-6,4297,,"Se ci smascherano, è
-finita. Facciamo attenzione.","總、總之，被發現的話就得不償失了，
-謹慎行事吧！",,"어, 어쨌든, 여기서 들키면 다 헛수고가 되니까
+"4","4298","","...","……","","……","..."
+"5","4297","","Ops. Mi spiace.","啊……抱歉……","","이런… 미안미안…","Hoppla. Tut mir leid ..."
+"6","4297","","Se ci scoprono, è la nostra fine.
+Dobbiamo essere cauti.","總、總之，被發現的話就得不償失了，
+謹慎行事吧！","","어, 어쨌든, 여기서 들키면 다 헛수고가 되니까
 …신중하게 가자고","Wenn sie unsere Verkleidung durchschauen, ist
 alles vorbei. Lass uns vorsichtig sein."
-7,4299,,Eccoli...,新……,,그…,Da sind sie ja ...
-8,4297,,?!,！？,,!?,?!
-9,4299,,"... i nostri visitatori per l'evento di oggi.
-Grazie a tutti voi per la vostra pazienza.","新EDEN體驗會……
-讓各位久等了。",,"…럼
+"7","4299","","Eccovi qua...","新……","","그…","Da sind sie ja ..."
+"8","4297","","?!","！？","","!?","?!"
+"9","4299","","...I nostri ospiti di oggi per l'evento.
+Grazie per la vostra pazienza.","新EDEN體驗會……
+讓各位久等了。","","…럼
 여러분, 오래 기다리셨습니다"," ... unsere Besucher für das heutige Event.
 Danke Ihnen allen für Ihre Geduld."
-10,4299,,"Qui è l'ingresso all'area di anteprima
-dell'aggiornamento. Per favore, mi segua.","這裡是更新體驗區的入口，
-請跟我過來。",,"이쪽이 버전 업 체험 에어리어의 입구입니다
+"10","4299","","Da qui si entra nell'area di anteprima
+dell'aggiornamento. Prego, seguitemi.","這裡是更新體驗區的入口，
+請跟我過來。","","이쪽이 버전 업 체험 에어리어의 입구입니다
 저를 따라서, 오시면 되겠습니다","Hier ist der Eingang zum Vorschaubereich des
 Updates. Bitte folgen Sie mir."
-11,4297,,"Puh, mi ha fatto prendere un
-colpo! Non deve più succedere!","哼……說什麼新EDEN嘛……
-混淆視聽！",,후우… 정말이지 ,"Puh, der hat mich vielleicht erschreckt.
+"11","4297","","Puh, mi è quasi venuto un colpo!
+Non deve più accadere!","哼……說什麼新EDEN嘛……
+混淆視聽！","","후우… 정말이지 ","Puh, der hat mich vielleicht erschreckt.
 Das muss nicht noch mal sein!"
-12,4297,,L'evento è lì. Andiamo!,會場似乎在那裡……走吧！,,회장은 저쪽인 모양이야… 가자,Das Event ist da drüben. Gehen wir!
+"12","4297","","L'evento è lì. Andiamo!","會場似乎在那裡……走吧！","","회장은 저쪽인 모양이야… 가자","Das Event ist da drüben. Gehen wir!"

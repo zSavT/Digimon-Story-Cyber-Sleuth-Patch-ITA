@@ -1,101 +1,100 @@
-﻿ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
-1,3002,,È stato davvero tosto...,事情越來越不得了了……,,…엄청난 일이 되어 버렸네…,Das war ganz schön hart ...
-2,3005,,...,………,,………,...
-3,3002,,Arata!,新！,,…아라타!,Arata!
-4,3005,,"Non capisco molto qui, ma una cosa mi è
-chiara. Ovvero, chi è il nemico.","雖然還有很多謎團，
-但我終於知道……到底誰才是敵人了！",,"모르는 것투성이지만 말이야
+﻿"ID","Speaker","Japanese","English","Chinese","EnglishCensored","Korean","German"
+"1","3002","","È stata dura...","事情越來越不得了了……","","…엄청난 일이 되어 버렸네…","Das war ganz schön hart ..."
+"2","3005","","...","………","","………","..."
+"3","3002","","Arata!","新！","","…아라타!","Arata!"
+"4","3005","","Non ci capisco nulla, ma una cosa mi è
+chiara. Sappiamo chi è il nemico.","雖然還有很多謎團，
+但我終於知道……到底誰才是敵人了！","","모르는 것투성이지만 말이야
 확실히 알았어… 누가 적인지","Ich verstehe hier so einiges nicht, aber eines ist
 mir klar. Nämlich, wer der Feind ist."
-5,3002,,"E
-allora? C-C-Cosa facciamo adesso?","那……
-那那那該怎麼辦？",,"…그래서?
+"5","3002","","E allora? C-C-C-Che facciamo adesso?","那……
+那那那該怎麼辦？","","…그래서?
 어어어어, 어떡하게?","Und?
 W-W-Was machen wir jetzt?"
-6,3005,,"Ha fatto leva sul nostro orgoglio e ci ha
-ingannati. Devo vendicare i miei compagni. E
-precisamente come singolo hacker.","竟敢玩弄我們、踐踏我們的尊嚴， 
-我一定要為大家報仇……以一名駭客的身份！",,"…손바닥 위에서 놀아나고, 긍지를 짓밟혔어
+"6","3005","","Ha fatto leva sul nostro orgoglio,
+ingannandoci. Devo vendicare i miei
+compagni... come hacker solitario.","竟敢玩弄我們、踐踏我們的尊嚴， 
+我一定要為大家報仇……以一名駭客的身份！","","…손바닥 위에서 놀아나고, 긍지를 짓밟혔어
 모두의 원수를 갚아야 해… 한 사람의 해커로서","Sie hat sich auf unseren Stolz verlassen und uns
 hereingelegt. Ich muss meine Kameraden rächen.
 Und zwar als einzelner Hacker."
-7,3002,,Arata ...,新……,,아라타…,Arata ...
-8,3005,,"Allora. Devi andare a casa.
-Prima che tu venga coinvolto troppo a fondo.","那……妳也早點回去，
-免得被捲進麻煩事件中。",,"그럼 간다… 너도 빨리 돌아가라고
+"7","3002","","Arata...","新……","","아라타…","Arata ..."
+"8","3005","","Devi andartene a casa. Prima che tu
+venga coinvolta eccessivamente.","那……妳也早點回去，
+免得被捲進麻煩事件中。","","그럼 간다… 너도 빨리 돌아가라고
 성가신 일에 말려들기 전에","So. Du musst nach Hause gehen.
 Bevor du zu tief in die Sache verwickelt wirst."
-9,3002,,...,……,,……,...
-10,3002,,"Oh! GaruruGreymon!
+"9","3002","","...","……","","……","..."
+"10","3002","","Oh! GaruruGreymon!
 Grazie per il tuo aiuto!","啊！加魯魯暴龍獸！
-謝謝你剛剛幫我！",,"아! 가루그레이몬!
+謝謝你剛剛幫我！","","아! 가루그레이몬!
 아깐 구해 줘서 고마웠어!","Oh! GaruruGreymon!
 Danke für deine Hilfe!"
-11,1088,,"Mi chiamo
-Omnimon. Faccio parte dei Royal Knights.","我叫奧米加獸，
-是皇家騎士的一員。",,"난 오메가몬
+"11","1088","","Io sono Omnimon. Faccio parte
+dei Royal Knights.","我叫奧米加獸，
+是皇家騎士的一員。","","난 오메가몬
 로얄 나이츠의 일원이다","Ich heiße Omnimon.
 Ich gehöre zu den Royal Knights."
-12,3002,,"Ah, giusto. Omnimon!
+"12","3002","","Ah, giusto. Omnimon!
 Uh, Royal Knights?","喔！對對！應該是奧米加獸才對。
-嗯……你說什麼皇家騎士？",,"아, 맞아맞아, 오메가몬이었지!
+嗯……你說什麼皇家騎士？","","아, 맞아맞아, 오메가몬이었지!
 …어, 로얄 나이츠?","Ach, stimmt ja. Omnimon!
 Äh, Royal Knights?"
-13,1088,,Devo dirti qualcosa di importante.,我有很重要的事要跟妳說,,너에게 얘기해야만 하는 중요한 일이 있어,Ich muss dir etwas Wichtiges mitteilen.
-14,1088,,"Da quando mi sono fuso con Omnimon, so
-di nuovo perché sono venuto in questo mondo.","我進化為奧米加獸之後，
-終於回想起自己來到這個世界的原因了……",,"난 오메가몬으로 합체한 덕분에
+"13","1088","","Devo dirti qualcosa di importante.","我有很重要的事要跟妳說","","너에게 얘기해야만 하는 중요한 일이 있어","Ich muss dir etwas Wichtiges mitteilen."
+"14","1088","","Quando mi sono fuso in Omnimon, mi sono
+ricordato perché sono venuto al mondo.","我進化為奧米加獸之後，
+終於回想起自己來到這個世界的原因了……","","난 오메가몬으로 합체한 덕분에
 내가 이 세계에 온 이유를 기억해냈어…","Seit ich zu Omnimon fusioniert bin, weiß ich
 wieder, warum ich in diese Welt gekommen bin."
-15,3002,,"È qualcosa di
-importante? Perché sei venuto in questo mondo?","很重要的事？
-來到這個世界的原因？",,"…얘기해야만 하는 중요한 일?
+"15","3002","","È qualcosa di importante?
+Perché sei venuto al mondo?","很重要的事？
+來到這個世界的原因？","","…얘기해야만 하는 중요한 일?
 ……이 세계에 온 이유??","Ist es etwas Wichtiges?
 Warum du in diese Welt gekommen bist?"
-16,3002,,"Non ci sto capendo molto, ma non
-importa! Nokia ce la farà!","雖然我聽不太懂，但是沒問題的！
-一切就包在我諾奇雅的身上吧！",,"…뭔지 잘 모르겠지만 괜찮아!
+"16","3002","","Non ci capisco nulla, ma non importa!
+Nokia ce la farà sicuramente!","雖然我聽不太懂，但是沒問題的！
+一切就包在我諾奇雅的身上吧！","","…뭔지 잘 모르겠지만 괜찮아!
 이 노키아 씨에게 파아악팍 맡겨만 달라고!","Ich komme nicht so ganz mit, aber egal!
 Nokia macht das schon!"
-17,1088,,Nokia ...,諾奇雅……,,노키아…,Nokia ...
-18,1088,,"Non solo il Mondo Digitale è in grave pericolo.
-Anche il mondo in cui vivi è minacciato.","不只是數碼世界，
-連你們所居住的世界也正面臨非常大的危機。",,"디지털 월드만이 아닌, 너희들이 사는 이 세계도
+"17","1088","","Nokia...","諾奇雅……","","노키아…","Nokia ..."
+"18","1088","","Non è solo il Mondo Digitale in pericolo.
+Anche quello da dove vieni tu lo è.","不只是數碼世界，
+連你們所居住的世界也正面臨非常大的危機。","","디지털 월드만이 아닌, 너희들이 사는 이 세계도
 커다란 위기를 맞이하려 하고 있어","Nicht nur die Digitale Welt ist in großer Gefahr.
 Auch die, in der du lebst, wird bedroht."
-19,1088,,"Diventerai parte di una guerra che va oltre
-ciò che hai mai visto finora.
-Sarai al nostro fianco?","你們將會被捲入比以往還要可怕的戰鬥中……
-即使這樣，妳仍願意助我一臂之力嗎？",,"너희들을, 지금까지 이상의 싸움에 말려들게 할 거야…
+"19","1088","","Prenderai parte ad una guerra che va oltre
+a ciò che tu abbia mai visto finora. Rimarrai
+al nostro fianco?","你們將會被捲入比以往還要可怕的戰鬥中……
+即使這樣，妳仍願意助我一臂之力嗎？","","너희들을, 지금까지 이상의 싸움에 말려들게 할 거야…
 그래도, 힘을 빌려 주겠니…?","Du wirst Teil eines Krieges, der weiter reicht,
 als du bisher gesehen hast.
 Wirst du uns beistehen?"
-20,3002,,"Sì, naturalmente lo farò!",那還用說！！,,당연하잖아!!,"Ja, natürlich werde ich das!"
-21,3002,,"Anche se il mondo intero è contro di noi
-e persone strane mi fissano di nuovo stranamente...","就算跟全世界為敵，就算人家性感又可愛的曼妙身體，
-被捲入下流的東西裡，迷得神魂顛倒……",,"설령 세계가 적이 되더라도, 나의 에로귀염보디가
+"20","3002","","Naturalmente!","那還用說！！","","당연하잖아!!","Ja, natürlich werde ich das!"
+"21","3002","","Anche se il mondo dovesse mettersi contro di noi
+e le persone dovessero di nuovo fissarmi strano...","就算跟全世界為敵，就算人家性感又可愛的曼妙身體，
+被捲入下流的東西裡，迷得神魂顛倒……","","설령 세계가 적이 되더라도, 나의 에로귀염보디가
 역겨운 것에 말려들어서 맥을 못 추더라도…","Auch wenn die ganze Welt gegen uns ist und
 komische Leute mich wieder komisch anglotzen ..."
-22,3002,,"Combatto per voi, finché il mio cuore batte
-nel mio petto!","只要我諾奇雅的精神不滅，
-不管到哪裡我都願意幫忙唷！",,"이 노키아의 정신(마음)이 죽지 않는 한
+"22","3002","","Combatterò con voi, finché il cuore che ho in petto
+non smetterà di battere!","只要我諾奇雅的精神不滅，
+不管到哪裡我都願意幫忙唷！","","이 노키아의 정신(마음)이 죽지 않는 한
 언제까지고 힘을 빌려 줄 거야!","Ich kämpfe für euch, solange mein Herz in meiner
 Brust schlägt!"
-23,1088,,Nokia ...,諾奇雅……,,노키아…,Nokia ...
-24,1088,,"Ti ringrazio. Eppure hai qualcosa...
-di familiare in te.","謝謝妳！
-妳果然……很令人懷念。",,"고마워
+"23","1088","","Nokia...","諾奇雅……","","노키아…","Nokia ..."
+"24","1088","","Ti ringrazio. Eppure... In te vedo
+qualcosa di familiare.","謝謝妳！
+妳果然……很令人懷念。","","고마워
 역시 넌, …어딘가 그리운 느낌이 들어…","Ich danke dir. Du hast doch irgendetwas ...
 Vertrautes an dir."
-25,3002,,"Okay, forza, si parte!
-Il nostro scontro inizia adesso!","好～～～衝吧————！！
-我們的戰鬥……現在才開始呢！",,"좋았어어어어―――, 가자아아――――!!
+"25","3002","","Ok, forza, si parte! Lo scontro
+inizia adesso!","好～～～衝吧————！！
+我們的戰鬥……現在才開始呢！","","좋았어어어어―――, 가자아아――――!!
 우리들의 싸움은, …지금부터다!","Okay, dann mal looos!
 Unser Kampf beginnt jetzt!"
-26,3012,,"Stupido... Per come parla lei, suona più
-come la fine che come un nuovo inizio.",笨蛋……講這種話反倒像故事快完結了……,,"바보… 그런 대사를 하면, 반대로
+"26","3012","","Idiota... Per come parla lei, sembra più
+una fine che un inizio.","笨蛋……講這種話反倒像故事快完結了……","","바보… 그런 대사를 하면, 반대로
 이제 이것으로 끝인 것 같잖아…","Dummkopf ... So, wie sie redet, klingt das eher
 nach dem Ende als nach einem Neuanfang."
-27,3012,,...,……,,………,...
-28,3012,,"Yuugo ... No, Yuuko.",YUGO……不，是悠子大人……,,"유고… 아니, 유코 씨…","Yuugo ... Nein, Yuuko."
-29,3012,,"Ti prego, ti prego, sii in sicurezza.",求求妳，一定要平安無事……,,"부디, 무사히 있어 줘요…","Bitte, bitte, sei in Sicherheit."
+"27","3012","","...","……","","………","..."
+"28","3012","","Yuugo ... No, Yuuko.","YUGO……不，是悠子大人……","","유고… 아니, 유코 씨…","Yuugo ... Nein, Yuuko."
+"29","3012","","Ti prego, ti scongiuro, tieniti in salvo.","求求妳，一定要平安無事……","","부디, 무사히 있어 줘요…","Bitte, bitte, sei in Sicherheit."

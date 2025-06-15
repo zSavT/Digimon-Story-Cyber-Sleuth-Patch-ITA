@@ -1,66 +1,65 @@
-﻿ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
-1,3002,,"Ce l'ho fatta! Oggi è la nascita
+﻿"ID","Speaker","Japanese","English","Chinese","EnglishCensored","Korean","German"
+"1","3002","","Ce l'ho fatta! Oggi è la nascita
 dell'Alleanza dei Ribelli di Akkinos!","太好了———！
-聚集到這些人就夠了！反叛者開始行動吧！",,"해냈다―――!
+聚集到這些人就夠了！反叛者開始行動吧！","","해냈다―――!
 이 정도 모이면 충분! 리벨리온즈 시동이네!!","Ich hab’s geschafft! Heute ist die Geburtsstunde
 von Akkinos Allianz der Rebels!"
-2,3002,,"E così! Ora possiamo proteggere i
-Digimon dai cattivi hacker!","好————！
-我們要保護數碼寶貝遠離壞蛋駭客！",,"좋았어어――――!
+"2","3002","","Esatto! Ora possiamo proteggere i
+Digimon dagli hacker maligni!","好————！
+我們要保護數碼寶貝遠離壞蛋駭客！","","좋았어어――――!
 이제 나쁜 해커들로부터 디지몬들을 지키는 거야!!","Sooo! Jetzt können wir Digimon vor fiesen
 Hackern beschützen!"
-3,3002,,"Seguitemi
-tutti! Ribelli! Radunatevi e via!","各位！跟著我來吧！！
-反叛者！GO！！！！",,"자 모두, 날 따라와!!
+"3","3002","","Seguitemi tutti, ribelli!
+Radunatevi e andiamo!","各位！跟著我來吧！！
+反叛者！GO！！！！","","자 모두, 날 따라와!!
 리벨리온즈, 파이팅―!!!!","Alle mir nach!
 Rebels! Sammeln und los!"
-4,2000,,...,……,,……,...
-5,3001,,"Dove
-vorrà andare?","……
-要去哪裡呢……",,"……
+"4","2000","","...","……","","……","..."
+"5","3001","","Dove vuole andare?","……
+要去哪裡呢……","","……
 어디로… 가는 걸까","...
 Wo sie wohl hinwill?"
-6,2000,,?!,！？,,!?,?!
-7,3001,,"Cosa c'è? Sembri molto sbalordito. Hai
+"6","2000","","?!","！？","","!?","?!"
+"7","3001","","Che c'è? Mi sembri spaventato. Hai
 di nuovo pensato che fossi un fantasma?","怎麼了？這麼驚訝的表情，
-又以為我是幽靈了嗎？",,"왜 그러지? 그렇게 놀란 얼굴을 다 하고
+又以為我是幽靈了嗎？","","왜 그러지? 그렇게 놀란 얼굴을 다 하고
 또 유령이라고 생각한 건가?","Was ist los? Du siehst sehr verblüfft aus.
 Dachtest du wieder, ich sei ein Geist?"
-8,2000,,"Perché sei
-qui? L'avevi
-previsto? Ti unirai ai Rebels?","你怎麼會在這裡？
+"8","2000","","Perché sei qui?
+L'avevi previsto?
+Ti unirai ai ribelli?","你怎麼會在這裡？
 難道你全部都看到了？
-你果然還是想加入反叛者嗎？",,"어째서 여기에 있는 거야?
+你果然還是想加入反叛者嗎？","","어째서 여기에 있는 거야?
 혹시 다 보고 있었어?
 역시 리벨리온즈에 들어가는 거야?","Warum bist du hier?
 Hast du das vorausgesehen?
 Wirst du dich den Rebels anschließen?"
-9,3001,,Se...,如果……,,……만약,Falls ...
-10,3001,,"Se si trovasse davvero di fronte a
+"9","3001","","Se...","如果……","","……만약","Falls ..."
+"10","3001","","Se si trovasse davvero di fronte a
 hacker malvagi, voglio che tu la protegga.","她真的要跟壞蛋駭客戰鬥的話，
-我希望你能保護她。",,"만약 그녀가, 정말로 나쁜 해커들과
+我希望你能保護她。","","만약 그녀가, 정말로 나쁜 해커들과
 싸우게 된다면… 지켜 줬으면 해","Falls sie sich wirklich bösen Hackern gegenüber
 findet, möchte ich, dass du sie beschützt."
-11,2000,,???,？？？,,???,???
-12,3001,,"Non posso permettere che lei si metta davvero
+"11","2000","","???","？？？","","???","???"
+"12","3001","","Non posso permettere che lei si metta davvero
 in pericolo nella sua crociata per la
 protezione dei Digimon.","她只是單純想幫助數碼寶貝，
-我不忍心讓她遇到危險……",,"순수하게 디지몬을 도우려 하는 그녀를
+我不忍心讓她遇到危險……","","순수하게 디지몬을 도우려 하는 그녀를
 위험에 처하게 할 수는 없어…","Ich kann nicht zulassen, dass sie sich auf ihrem
 Kreuzzug zum Schutz der Digimon wirklich in
 Gefahr begibt."
-13,3001,,Inoltre...,而且……,,그리고…,Außerdem ...
-14,3001,,"Non voglio che ci siano altre vittime in
-EDEN.",我也不想再看到EDEN裡有人犧牲了。,,"이 이상, 이 EDEN에서
+"13","3001","","Inoltre...","而且……","","그리고…","Außerdem ..."
+"14","3001","","Non voglio che ci siano altre vittime in
+EDEN.","我也不想再看到EDEN裡有人犧牲了。","","이 이상, 이 EDEN에서
 희생자를 내고 싶지 않아","Möchte ich nicht, dass es in EDEN noch mehr Opfer
 gibt."
-15,2000,,"Perché
-io? Ma chi diavolo sei tu?
-Allora vieni da noi.","為什麼說這種話？
+"15","2000","","Perché io?
+Ma tu chi sei?
+Vieni con noi.","為什麼說這種話？
 你到底是誰？
-那就加入我們……",,"어째서 그런 말을?
+那就加入我們……","","어째서 그런 말을?
 넌 대체?
 그럼 동료가…","Warum ich?
 Wer zum Himmel bist du eigentlich?
 Dann komm doch zu uns."
-16,3001,,Ci rivedremo.,下次再會……,,…나중에 또 만나자,Wir werden uns wiedersehen.
+"16","3001","","Ci rivedremo.","下次再會……","","…나중에 또 만나자","Wir werden uns wiedersehen."

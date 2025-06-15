@@ -1,290 +1,285 @@
-﻿ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
-1,3005,,"Mi dispiace di avervi fatto aspettare. Ho
-avuto bisogno di un po' di tempo per i preparativi.","抱歉，讓你們久等了，
-事前調查花了點時間。",,"기다리게 해서 미안
+﻿"ID","Speaker","Japanese","English","Chinese","EnglishCensored","Korean","German"
+"1","3005","","Mi spiace avervi fatto aspettare. Dovevo
+sistemare alcuni preparativi.","抱歉，讓你們久等了，
+事前調查花了點時間。","","기다리게 해서 미안
 좀 사전 조사에 시간이 걸려서 말이지","Tut mir leid, dass ich euch warten lassen habe.
 Ich habe etwas Zeit für Vorbereitungen gebraucht."
-2,3006,,"Va bene così. Non vedo l'ora del
+"2","3006","","Non importa. Non vedo l'ora di sapere il
 tuo piano su come raggiungere Kamishiro.","無所謂，我對於你的神代潛入計畫，
-有相當大的期待。",,"상관없어, 네 카미시로 잠입 계획에는
+有相當大的期待。","","상관없어, 네 카미시로 잠입 계획에는
 나도 기대하는 점이 많거든","Das ist schon in Ordnung. Ich freue mich auf
 deinen Plan, wie wir an Kamishiro rankommen."
-3,3003,,"Scusa, ma a cosa esattamente mi servi?",請問……為什麼要找我來呢？,,"…저기, 전 어째서 불린 거죠?","Entschuldigung, aber wozu genau brauchst du mich?"
-4,3005,,"Ah, Yuuko Kamishiro. Scusa se ti ho
-chiamato così all'improvviso.",突然把妳叫來真是抱歉，神代悠子小姐。,,"갑자기 불러서 미안하구만, 카미시로 유코 씨","Ach, Yuuko Kamishiro. Entschuldige, dass ich dich
+"3","3003","","Scusa, ma io cosa c'entro?","請問……為什麼要找我來呢？","","…저기, 전 어째서 불린 거죠?","Entschuldigung, aber wozu genau brauchst du mich?"
+"4","3005","","Ah, Yuuko Kamishiro. Scusa se ti ho chiamata
+così all'improvviso.","突然把妳叫來真是抱歉，神代悠子小姐。","","갑자기 불러서 미안하구만, 카미시로 유코 씨","Ach, Yuuko Kamishiro. Entschuldige, dass ich dich
 so plötzlich hergerufen habe."
-5,3005,,"Allora, il nostro cyber-detective qui
+"5","3005","","Allora, il nostro cyber-detective qui
 padroneggia il Salto di Connessione, io sono bravo
 nell'hacking e tu hai conoscenze.","電腦偵探的「登入跳躍」、
-我的「駭客技能」、加上妳的「門路」……",,"전뇌탐정의「커넥트 점프」
+我的「駭客技能」、加上妳的「門路」……","","전뇌탐정의「커넥트 점프」
 내「해킹」, 그리고 댁의「인맥」…","Also, unser Cyber-Detektiv hier beherrscht
 den Verbindungssprung, ich bin gut im Hacking
 und du hast Beziehungen."
-6,3005,,"Il mio piano prevede di combinare questi
-tre per la prima volta.",只要將這三個要素加起來，就能實現這個計畫。,,"이 계획은 그 3개가 합쳐져야, 비로소 실현되거든","Mein Plan sieht vor, diese drei zum ersten
+"6","3005","","Il mio piano prevede di combinare questi
+tre per la prima volta.","只要將這三個要素加起來，就能實現這個計畫。","","이 계획은 그 3개가 합쳐져야, 비로소 실현되거든","Mein Plan sieht vor, diese drei zum ersten
 Mal zu kombinieren."
-7,3003,,Salto di connessione?,登入、跳躍？,,"커넥트, 점프…?",Verbindungssprung?
-8,3005,,"Ah, non lo sai ancora?
+"7","3003","","Salto di connessione?","登入、跳躍？","","커넥트, 점프…?","Verbindungssprung?"
+"8","3005","","Ah, non lo sai ancora?
 Spiegalo a lei, [p].","啊啊……妳不知道啊？
-[p]，你來說明一下。",,"아아, 당신은 모르고 있었나
+[p]，你來說明一下。","","아아, 당신은 모르고 있었나
 [p], 설명해 줘","Ach, das weißt du noch nicht?
 Erklär es ihr, [p]."
-9,3003,,"Un corpo che è per metà
+"9","3003","","Un corpo che è per metà
 digitale? È davvero possibile?","半電腦體？
-這、這種事居然會發生在現實生活中……",,"…반 전뇌체!?
+這、這種事居然會發生在現實生活中……","","…반 전뇌체!?
 그, 그런 게 현실에서 일어나다니…","Ein Körper, der halb digital ist?
 Ist das überhaupt möglich?"
-10,3003,,"Aha. Ora capisco, credo.
-Per questo a volte è...
-misterioso, dove appari e scompari di nuovo.","原來如此，但這樣我就能理解了，
-難怪你有時候會使用不可思議的移動。",,"…과연, 하지만 납득했어요
+"10","3003","","Ah. Ora capisco, credo.
+Per questo a volte è... strano,
+dove appari e scompari.","原來如此，但這樣我就能理解了，
+難怪你有時候會使用不可思議的移動。","","…과연, 하지만 납득했어요
 그래서 가끔가다 불가사의한 이동을 했었던 거군요","Aha. Jetzt verstehe ich, glaube ich.
 Deshalb ist es manchmal ... geheimnisvoll,
 wo du erscheinst und wieder verschwindest."
-11,3003,,Quindi soffri anche tu della Sindrome di EDEN...,EDEN症候群……你“也”——,,"EDEN 증후군… 당신""도""―",Dann leidest du also auch am EDEN-Syndrom ...
-12,2000,,?,？？,,??,?
-13,3003,,"Ah,
-niente. Scusa
-l'interruzione. Continua pure.","不，沒什麼。
-不好意思，打斷你們談話，請繼續吧。",,"…아뇨, 아무것도 아녜요
+"11","3003","","Quindi soffri anche tu della Sindrome di EDEN...","EDEN症候群……你“也”——","","EDEN 증후군… 당신""도""―","Dann leidest du also auch am EDEN-Syndrom ..."
+"12","2000","","?","？？","","??","?"
+"13","3003","","Ah, niente. Scusa l'interruzione.
+Continua pure.","不，沒什麼。
+不好意思，打斷你們談話，請繼續吧。","","…아뇨, 아무것도 아녜요
 얘기를 방해해서 죄송해요. 계속해 주세요","Ach, nichts.
 Entschuldige die Unterbrechung.
 Erzähl bitte weiter."
-14,3005,,Spiego ora la strategia fondamentale.,那接下來說明作戰內容。,,"그럼, 작전의 본론을 설명하겠어",Ich erkläre jetzt die grundlegende Strategie.
-15,3005,,"Il nostro obiettivo è il database segreto
+"14","3005","","Spiegherò ora la mia strategia.","那接下來說明作戰內容。","","그럼, 작전의 본론을 설명하겠어","Ich erkläre jetzt die grundlegende Strategie."
+"15","3005","","Il nostro obiettivo è il database segreto
 sul server Avalon di Kamishiro.","這次入侵計畫的最終目標就是
-神代的阿瓦隆伺服器裡的機密資料庫。",,"이번 침입 플랜의 골은 카미시로의
+神代的阿瓦隆伺服器裡的機密資料庫。","","이번 침입 플랜의 골은 카미시로의
 아발론 서버에 있는 기밀정보 데이터베이스","Unser Ziel ist die geheime Datenbank auf dem
 Avalon-Server von Kamishiro."
-16,3005,,"Dietro si trova un'area altamente segreta, che
-viene chiamata la 'Stanza Segreta'.","當中有個更機密的區域，
-通稱“機密屋”。",,"―의, 더욱 안쪽에 있는 톱 시크릿 에어리어
+"16","3005","","Dietro si trova un'area altamente segreta, che
+viene chiamata la ''Stanza Segreta''.","當中有個更機密的區域，
+通稱“機密屋”。","","―의, 더욱 안쪽에 있는 톱 시크릿 에어리어
 통칭 ""비밀의 방""이다","Dahinter befindet sich ein hochgeheimer Bereich,
 den man „Geheimraum“ nennt."
-17,3003,,“Stanza segreta”?,“機密屋”？,,"""비밀의 방""…?",„Geheimraum“?
-18,3005,,"Sì. Lì si trovano i dati più riservati di
-Kamishiro.",也就是神代最高機密的區域，,,"즉, 카미시로의 최고 기밀 에어리어란 거지","Ja. Dort liegen die vertraulichsten Daten von
+"17","3003","","“Stanza segreta”?","“機密屋”？","","""비밀의 방""…?","„Geheimraum“?"
+"18","3005","","Sì. Lì si trovano i dati più riservati di
+Kamishiro.","也就是神代最高機密的區域，","","즉, 카미시로의 최고 기밀 에어리어란 거지","Ja. Dort liegen die vertraulichsten Daten von
 Kamishiro."
-19,3005,,"Così, ad esempio, anche i dossier
+"19","3005","","Cioè, ad esempio, anche i dossier
 sui dirigenti della Kamishiro, incluso
 Kishibe.","換句話說，就是歷代CEO……
-現在是岸部的個人文件夾。",,"바꿔 말하자면, 역대 CEO…
+現在是岸部的個人文件夾。","","바꿔 말하자면, 역대 CEO…
 지금은 키시베의 개인 폴더야","So zum Beispiel auch die Ordner über die
 Geschäftsführer von Kamishiro, darunter auch
 Kishibe."
-20,3005,,"Una volta aperta la cartella, potete buttarvi
+"20","3005","","Una volta aperta la cartella, potete buttarvi
 sul database confidenziale di Kamishiro.","我聽說杏子姊曾經
-潛入神代的機密資料庫裡。",,"듣자 하니, 쿄코 씨들은 전에 카미시로의
+潛入神代的機密資料庫裡。","","듣자 하니, 쿄코 씨들은 전에 카미시로의
 기밀정보 데이터베이스까지는 다이브를 했었던 모양이잖아","Sobald der Ordner geöffnet ist, könnt ihr euch auf
 Kamishiros vertrauliche Datenbank stürzen."
-21,3005,,"Questo ufficio investigativo sta diventando lentamente più
+"21","3005","","Questo ufficio investigativo sta diventando lentamente più
 terrificante di qualsiasi squadra di hacker che io conosca...","真是的，這個偵探事務所，
-比外面的駭客集團還要可怕。",,"…정말이지, 어디에나 있는 해커 팀보다
+比外面的駭客集團還要可怕。","","…정말이지, 어디에나 있는 해커 팀보다
 무서운 탐정사무소구만, 여긴","Dieses Detektivbüro wird langsam furchterregender
 als jedes Hackerteam, das ich kenne ..."
-22,3006,,"Lo prendo come un
-complimento. Ma dopotutto lo sforzo non è
-servito a niente.","我就坦率地接受你的稱讚吧！
-但那時的成果可說是無疾而終。",,"찬사는 솔직하게 받아 두도록 하지
+"22","3006","","Lo prendo come un complimento.
+Comunque, lo sforzo purtroppo
+non è servito a nulla.","我就坦率地接受你的稱讚吧！
+但那時的成果可說是無疾而終。","","찬사는 솔직하게 받아 두도록 하지
 …하지만, 그때의 성과는 결국, 헛수고로 끝났거든","Das nehme ich mal als Kompliment.
 Aber der Einsatz hatte ja letztendlich doch
 nichts gebracht."
-23,3006,,"Ora capisco.
+"23","3006","","Ora capisco.
 Punti ad accedere a un livello
 ancora più profondo.","原來如此，
-所以這次才以更深處的區域為目標？",,"그렇군
+所以這次才以更深處的區域為目標？","","그렇군
 …그래서, 더욱 안쪽에 있는 에어리어에 주목했다는 거로군","Jetzt verstehe ich.
 Du hast es darauf abgesehen, auf eine noch
 tiefere Ebene zuzugreifen."
-24,3005,,Questo è almeno il piano.,就是這樣。,,그런 거지,Das ist zumindest der Plan.
-25,3005,,"Con un salto di connessione, ce la facciamo
-fino al database riservato.","只要使用登入跳躍，
-就有可能入侵機密資料庫。",,"커넥트 점프를 사용하면
+"24","3005","","Questo è il piano.","就是這樣。","","그런 거지","Das ist zumindest der Plan."
+"25","3005","","Con il Salto di Connessione, dovremmo
+farcela fino al database riservato.","只要使用登入跳躍，
+就有可能入侵機密資料庫。","","커넥트 점프를 사용하면
 기밀정보 데이터베이스까지 침입하는 건 가능해","Mit einem Verbindungssprung schaffen wir es bis zur
 vertraulichen Datenbank."
-26,3005,,"Per prima cosa, useremo le nostre relazioni alla Kamishiro,
+"26","3005","","Per prima cosa, useremo le nostre relazioni alla Kamishiro,
 per ottenere inviti a questo evento di prova
 presso la sede centrale della Kamishiro.","首先，先使用神代的「門路」，用特別招待的方式，
-邀請我們參加神代總公司體驗會吧！",,"우선, 카미시로의「인맥」을 사용해서, 특별초대라는 명목으로
+邀請我們參加神代總公司體驗會吧！","","우선, 카미시로의「인맥」을 사용해서, 특별초대라는 명목으로
 우리들을 카미시로 본사의 체험회에 초대해 줘","Erst nutzen wir unsere Beziehungen bei Kamishiro,
 um Einladungen zu diesem Schnupper-Event
 im Kamishiro HQ zu bekommen."
-27,3005,,"Rie Kishibe, la direttrice di Kamishiro,
+"27","3005","","Rie Kishibe, la direttrice di Kamishiro,
 l'aveva menzionato, vero? Un'anteprima
 dell'aggiornamento completo per EDEN.","神代的CEO岸部里繪不是說了嗎？
-會舉辦EDEN的大規模更新體驗會。",,"카미시로의 CEO, 키시베 리에가 말했었잖아?
+會舉辦EDEN的大規模更新體驗會。","","카미시로의 CEO, 키시베 리에가 말했었잖아?
 EDEN의 대규모 업데이트의 체험회 말이야","Das hatte Rie Kishibe, Geschäftsführerin von
 Kamishiro, doch erwähnt, oder? Eine Vorschau auf
 das umfassende Update für EDEN."
-28,3005,,"Allora [p] si infiltra tramite
-un terminale lì nel database riservato.","[p]就從那個會場的終端，
-入侵機密資料庫。",,"[p]는(은) 그 회장의 단말기로부터
+"28","3005","","[p] si infiltrerà tramite un terminale
+lì, nel database riservato.","[p]就從那個會場的終端，
+入侵機密資料庫。","","[p]는(은) 그 회장의 단말기로부터
 기밀정보 데이터베이스로 침입해 줘야겠어","Dann dringt [p] über ein Terminal
 dort in die vertrauliche Datenbank vor."
-29,3005,,"Allora mi mandi un invito URL per il
-database, così posso entrare anch'io.","入侵之後，再將機密資料庫的邀請URL轉寄給我，
-這麼一來，我也可以入侵。",,"침입하면, 기밀정보 데이터베이스의 초대 URL을 나에게 전송해 줘
+"29","3005","","Poi mi manderai un invito URL, così
+che possa venire anche io.","入侵之後，再將機密資料庫的邀請URL轉寄給我，
+這麼一來，我也可以入侵。","","침입하면, 기밀정보 데이터베이스의 초대 URL을 나에게 전송해 줘
 그러면, 나도 침입할 수 있게 돼","Du schickst mir dann eine URL-Einladung für die
 Datenbank, dann komme ich auch rein."
-30,3006,,"E poi ti ritrovi nella stanza segreta, giusto?",接下來就是潛入“機密屋”了。,,"그 다음, ""비밀의 방""에 잠입한다는 거로군","Und dann gelangst du in den Geheimraum, ja?"
-31,3005,,"Sì. Una volta che avremo i dati lì, il puzzle
+"30","3006","","E poi ti ritrovi nella stanza segreta, giusto?","接下來就是潛入“機密屋”了。","","그 다음, ""비밀의 방""에 잠입한다는 거로군","Und dann gelangst du in den Geheimraum, ja?"
+"31","3005","","Sì. Una volta che avremo i dati lì, il puzzle
 dovrebbe ricomporsi. Anche per quanto
 riguarda i veri motivi di Suedou.","沒錯……只要將保管在那裡的資訊弄到手，
-末堂的意圖和神代的謎團就都可以解開了。",,"아아… 그곳에 보관되어 있는 정보만 입수하면
+末堂的意圖和神代的謎團就都可以解開了。","","아아… 그곳에 보관되어 있는 정보만 입수하면
 스에도의 의도도, 카미시로의 비밀도, 모두 풀릴 거야","Ja. Sobald wir die Daten dort haben, sollte sich
 das Puzzle zusammenfügen. Auch, was Suedous
 wahre Beweggründe betrifft."
-32,3003,,...,……,,……,...
-33,3005,,"Ma per questo abbiamo bisogno ancora una volta
-delle tue conoscenze, Yuuko.",另外還想請妳再使用一個「門路」。,,"그리고, 댁은 한 번 더
+"32","3003","","...","……","","……","..."
+"33","3005","","Ma per questo abbiamo bisogno ancora una volta
+delle tue conoscenze, Yuuko.","另外還想請妳再使用一個「門路」。","","그리고, 댁은 한 번 더
 「인맥」을 써 줬으면 해","Aber dazu brauchen wir wieder einmal deine
 Beziehungen, Yuuko."
-34,3003,,?,？？,,??,?
-35,3005,,"Il passcode per la stanza segreta viene
-cambiato ogni giorno, giusto?",進入“機密屋”的通行密碼似乎每天都在改變。,,"""비밀의 방""에 들어가기 위한 패스코드는
+"34","3003","","?","？？","","??","?"
+"35","3005","","Il passcode per la stanza segreta viene
+cambiato ogni giorno, giusto?","進入“機密屋”的通行密碼似乎每天都在改變。","","""비밀의 방""에 들어가기 위한 패스코드는
 매일 변경되는 것 같거든","Der Passcode für den Geheimraum wird täglich
 geändert, stimmt’s?"
-36,3005,,"L'unica che lo conosce è Kishibe. Devi
-raggiungerla. Tra di noi, sei l'unico
+"36","3005","","L'unica che lo conosce è Kishibe. Devi
+raggiungerla. Tra di noi, sei l'unica
 che può farlo.","而知道通行密碼的只有CEO岸部……
-能夠接近岸部的，就只有妳。",,"패스코드를 갖고 있는 건, CEO인 키시베 뿐…
+能夠接近岸部的，就只有妳。","","패스코드를 갖고 있는 건, CEO인 키시베 뿐…
 키시베에게 다가갈 수 있는 건, 댁 뿐이야","Die Einzige, die ihn kennt, ist Kishibe. Du musst
 an sie rankommen. Von uns bist du die Einzige,
 die das kann."
-37,3003,,Dovrei prenderle il passcode?,你是要我偷出通行密碼嗎？,,"…저에게, 패스코드를 훔쳐 내라는 거죠?",Ich soll ihr den Passcode abnehmen?
-38,3005,,Ecco il piano.,嗯，就是這樣。,,"…뭐, 그런 거지",So sieht der Plan aus.
-39,3005,,"Non appena siamo nell'area super segreta,
+"37","3003","","Dovrei prenderle il passcode?","你是要我偷出通行密碼嗎？","","…저에게, 패스코드를 훔쳐 내라는 거죠?","Ich soll ihr den Passcode abnehmen?"
+"38","3005","","Esatto.","嗯，就是這樣。","","…뭐, 그런 거지","So sieht der Plan aus."
+"39","3005","","Non appena siamo nell'area super segreta,
 disattiverò i sistemi di sicurezza per
 poter comunicare con Kyoko.","只要進入最高機密區域，我就會解除那裡的防範措施，
-這樣就能跟杏子姊連線了。",,"최고 기밀 에어리어에 들어가면, 쿄코 씨와 통신할 수 있도록
+這樣就能跟杏子姊連線了。","","최고 기밀 에어리어에 들어가면, 쿄코 씨와 통신할 수 있도록
 보안을 해제해 둘게","Sobald wir im hochgeheimen Bereich sind, heble ich
 die Sicherheitssysteme aus, damit wir mit
 Kyoko kommunizieren können."
-40,3005,,"Allora puoi trasmetterci il Passcode
-tramite Kyoko.",然後再透過杏子姊，告訴我們通行密碼。,,"쿄코 씨를 경유해서, 우리들에게 패스코드를 알려 줘","Dann kannst du uns den Passcode über Kyoko
+"40","3005","","Tramite lei potrai trasmetterci
+il Passcode.","然後再透過杏子姊，告訴我們通行密碼。","","쿄코 씨를 경유해서, 우리들에게 패스코드를 알려 줘","Dann kannst du uns den Passcode über Kyoko
 vermitteln."
-41,3003,,...,……,,……,...
-42,3005,,"Hm? Che c'è? Non dirmi che ti stanno venendo i
-piedi freddi all'improvviso?","嗯？怎麼了？事到如今，
-妳不會說沒辦法幫我們吧？",,"…응? 왜 그래? 이제 와서 협력 못해~ 라는
+"41","3003","","...","……","","……","..."
+"42","3005","","Mh? Che succede? Non dirmi che
+ti sta salendo un po' di paura?","嗯？怎麼了？事到如今，
+妳不會說沒辦法幫我們吧？","","…응? 왜 그래? 이제 와서 협력 못해~ 라는
 소릴 하는 건 아니겠지?","Hm? Was ist? Sag bloß nicht, dass du plötzlich
 kalte Füße bekommst?"
-43,3003,,"No, non dovete preoccuparvi di questo.",不是的，我可以幫忙。,,"…아뇨, 그건 상관없습니다만","Nein, darum braucht ihr euch nicht sorgen."
-44,3003,,Ma avrei una richiesta.,只是，我有個請求。,,"…한 가지, 부탁이 있어요",Aber eine Bitte hätte ich.
-45,2000,,?,？？,,??,?
-46,3003,,"Mio padre, Satoru Kamishiro... Le sue note e i
+"43","3003","","No, non è questo.","不是的，我可以幫忙。","","…아뇨, 그건 상관없습니다만","Nein, darum braucht ihr euch nicht sorgen."
+"44","3003","","Avrei una richiesta.","只是，我有個請求。","","…한 가지, 부탁이 있어요","Aber eine Bitte hätte ich."
+"45","2000","","?","？？","","??","?"
+"46","3003","","Mio padre, Satoru Kamishiro... Le sue note e i
 dati di ricerca dovrebbero essere ancora
 nella stanza segreta.","在那個“機密屋”裡，
-應該有我父親神代悟留的筆記和研究資料。",,"""비밀의 방""에는, 아마도 아버지의…
+應該有我父親神代悟留的筆記和研究資料。","","""비밀의 방""에는, 아마도 아버지의…
 카미시로 사토루의 수기나 연구 데이터도 남아 있을 거예요","Mein Vater, Satoru Kamishiro ... Seine Notizen
 und Forschungsdaten sollten auch noch im
 Geheimraum sein."
-47,3003,,Potreste procurarmeli anche?,可以幫我一起弄到手嗎？,,그것도 같이 입수해 주실 수 있나요?,Könntet ihr die für mich auch besorgen?
-48,3003,,"La verità sul suicidio di mio padre e
-informazioni sulla Sindrome di EDEN sono
-sicuramente contenute anche lì.","裡面應該會有父親自殺的真相，
-以及跟EDEN症候群相關的資訊。",,"거기에는 분명, 아버지의 자살에 대한 진상이나
+"47","3003","","Potreste recuperarmeli?","可以幫我一起弄到手嗎？","","그것도 같이 입수해 주실 수 있나요?","Könntet ihr die für mich auch besorgen?"
+"48","3003","","La verità sul suo suicidio e le informazioni
+sulla Sindrome di EDEN dovrebbero
+trovarsi lì.","裡面應該會有父親自殺的真相，
+以及跟EDEN症候群相關的資訊。","","거기에는 분명, 아버지의 자살에 대한 진상이나
 EDEN 증후군에 관한 정보도 있을 테니까요","Die Wahrheit über den Selbstmord meines Vaters
 und Informationen über das EDEN-Syndrom sind
 dort ganz bestimmt auch enthalten."
-49,3006,,"Capisco. L'ultima volta comunque non abbiamo
-trovato niente di concreto.","原來如此……
-上次的確沒有找到決定性的資訊。",,"그렇군… 확실히 저번에는
+"49","3006","","Capisco. L'ultima volta non abbiamo
+trovato granché.","原來如此……
+上次的確沒有找到決定性的資訊。","","그렇군… 확실히 저번에는
 결정적인 정보를 찾아낼 수 없었다","Verstehe. Letztes Mal konnten wir jedenfalls
 nichts Konkretes finden."
-50,3006,,"Semmai, lo troviamo probabilmente nella
-stanza segreta.",“機密屋”裡面的話，搞不好就會有……,,"""비밀의 방""에라면, 어쩌면, 이라는 건가…","Wenn überhaupt, dann finden wir es wahrscheinlich
+"50","3006","","Se ci sono, li troveremo nella
+stanza segreta.","“機密屋”裡面的話，搞不好就會有……","","""비밀의 방""에라면, 어쩌면, 이라는 건가…","Wenn überhaupt, dann finden wir es wahrscheinlich
 im Geheimraum."
-51,3005,,"Non ho alcuna obiezione. Per
-questo la missione non diventerà neanche più difficile.","嗯嗯，這件事沒有問題，
-不會多花多少工夫的。",,"그래, 그런 거라면 상관없어
+"51","3005","","Non ho obiezioni in merito. Non
+renderà neanche la missione più difficile.","嗯嗯，這件事沒有問題，
+不會多花多少工夫的。","","그래, 그런 거라면 상관없어
 수고가 더 드는 것도 아니니까","Ich habe keine Einwände.
 Die Mission wird deshalb auch nicht schwerer."
-52,3005,,"Non sappiamo se i dati siano neanche
-lì, ma&nbsp;...",反正也不知道那裡是不是真的有那些資料。,,"뭐, 무엇보다, 그곳에 그 데이터가
+"52","3005","","Non sappiamo se quei dati siano
+ancora lì, ma...","反正也不知道那裡是不是真的有那些資料。","","뭐, 무엇보다, 그곳에 그 데이터가
 정말로 있을지 어떨지는 모르지만","Wir wissen zwar nicht, ob die Daten dort überhaupt
 sind, aber ..."
-53,3003,,"Hai ragione.
-C'è ancora un possibile luogo,
-dove i dati vengono conservati.","說的也是。
-其實我還知道一個可能保管資料的地方……",,"그러네요
+"53","3003","","Hai ragione. C'è ancora un
+luogo in cui potrebbero venire
+conservati quei dati.","說的也是。
+其實我還知道一個可能保管資料的地方……","","그러네요
 …하나 더, 데이터의 보관 장소에 대해 짐작 가는 데가 있습니다만…","Du hast recht.
 Es gibt noch einen möglichen Ort,
 wo Daten verwahrt werden."
-54,2000,,?,？？,,??,?
-55,3003,,"Il server Valhalla, su cui sono
+"54","2000","","?","？？","","??","?"
+"55","3003","","Il server Valhalla, su cui sono
 archiviati il controllo e i processori quantistici per EDEN.","EDEN的量子演算處理及控制中樞，
-「瓦爾哈拉伺服器」。",,"EDEN의 양자적 연산처리 및 제어의 중추인
+「瓦爾哈拉伺服器」。","","EDEN의 양자적 연산처리 및 제어의 중추인
 「발할라 서버」","Der Walhalla-Server, auf dem die Steuerung
 und Quantenprozessoren für EDEN hinterlegt sind."
-56,3003,,"Sul server deve essere registrata
+"56","3003","","Sul server deve essere registrata
 l'intera cronaca di EDEN, fin dall'inizio.","我記得EDEN從初期開始的所有紀錄，
-都留在那裡——",,"EDEN 초기부터의 온갖 이력을 기록하는
+都留在那裡——","","EDEN 초기부터의 온갖 이력을 기록하는
 그곳에라면 확실히―","Auf dem Server muss die gesamte Chronik von
 EDEN verzeichnet sein, ganz von Anfang an."
-57,3005,,"Ehi, ehi, un momento!",喂喂喂，等一下！,,"…야야야, 잠깐 기다려!","He, he, Moment mal kurz!"
-58,3005,,"Il server Walhalla? Lo menzioni così casualmente, come
-se si trattasse di un Wi-Fi dell'aeroporto.","瓦爾哈拉伺服器，
-妳居然搬出這麼可怕的名字。",,"발할라 서버라니
+"57","3005","","Ehi, ehi, un momento!","喂喂喂，等一下！","","…야야야, 잠깐 기다려!","He, he, Moment mal kurz!"
+"58","3005","","Il server Valhalla? Ne parli così dal nulla, come
+se fosse il nome di una rete wi-fi pubblica.","瓦爾哈拉伺服器，
+妳居然搬出這麼可怕的名字。","","발할라 서버라니
 꽤나 위험한 이름을 꺼냈구만","Der Walhalla-Server? Du erwähnst den so beiläufig,
 als ginge es um ein Flughafen-WLAN."
-59,3005,,"Anche i più leggendari hacker non ci si
-avvicinano nemmeno lontanamente. Ha i sistemi di
-sicurezza più sofisticati di tutto il mondo!","那可是連傳說等級的駭客也無法接近，
-全球數一數二超難破解的伺服器耶！",,"그건, 레전드 클래스의 해커도 접근할 수 없는
+"59","3005","","Anche gli hacker leggendari se ne tengono
+alla larga. Ha i sistemi di sicurezza più
+sofisticati al mondo!","那可是連傳說等級的駭客也無法接近，
+全球數一數二超難破解的伺服器耶！","","그건, 레전드 클래스의 해커도 접근할 수 없는
 세계 유수의 최고난도 보안의 덩어리라고!?","Selbst die legendärsten Hacker kommen an das Ding
 nicht annähernd ran. Es hat die schärfsten
 Sicherheitssysteme auf der ganzen Welt!"
-60,3006,,"Aha? Ci arrendiamo già? Ma questo non ti si
-addice affatto. Hai già fatto brutte
-esperienze lì?","喔？自信滿滿的你居然會說喪氣話，還真難得，
-你吃過苦頭嗎？",,"호오? 자신가인 네가 약한 소리를 내다니, 드문 일인걸
+"60","3006","","Mh? Ci arrendiamo di già? Non ti si addice
+affatto. Hai già avuto brutte esperienze?","喔？自信滿滿的你居然會說喪氣話，還真難得，
+你吃過苦頭嗎？","","호오? 자신가인 네가 약한 소리를 내다니, 드문 일인걸
 호되게 당한 경험이라도 있는 건가?","Aha? Geben wir schon auf? Das passt aber gar nicht
 zu dir. Dort schon schlechte Erfahrungen
 gemacht?"
-61,3005,,"Vuoi darmi fastidio? Non
-importa. Il server è tabù. Non possiamo semplicemente
-hackerarlo.","吵、吵死了！反正那裡不行啦！
-至少那不是駭客技術可以闖進的地方。",,"시, 시끄럽구만! 어쨌든, 거긴 안 돼
+"61","3005","","Cerchi rogne? Vabbè, lasciamo stare.
+Quel server è tabù. Non si può hackerare.","吵、吵死了！反正那裡不行啦！
+至少那不是駭客技術可以闖進的地方。","","시, 시끄럽구만! 어쨌든, 거긴 안 돼
 적어도, 해킹으로 어떻게 할 수 있는 곳이 아니야","Willst du mich ärgern? Egal.
 Der Server ist tabu. Den können wir nicht einfach
 hacken."
-62,3003,,"Ma se per hackerare venisse usato un
-programma Digimon, ci sarebbe forse un modo...","可是，我們一定沒辦法應付
-使用數碼寶貝程式的駭客技術……",,"……하지만, 디지몬 프로그램을 이용한 해킹에는
+"62","3003","","Ma se invece venisse usato un programma
+Digimon, forse ci sarebbe un modo...","可是，我們一定沒辦法應付
+使用數碼寶貝程式的駭客技術……","","……하지만, 디지몬 프로그램을 이용한 해킹에는
 분명 대처할 수 없을 거예요…","Aber wenn zum Hacken ein Digimon-Programm benutzt
 wird, gäbe es vielleicht einen Weg ..."
-63,3005,,Cosa hai detto?,妳說什麼？,,뭐라고?,Was hast du da gesagt?
-64,3003,,Niente...,沒有……,,아뇨…,Nichts ...
-65,3005,,"La questione della stanza segreta è
-già rischiosa. Il Server Valhalla è ancora
-tutt'altro calibro.","總之，光是潛入“機密屋”，就已經像是在走鋼索了。
-如果要我去瓦爾哈拉伺服器，那就另當別論。",,"…어쨌든, ""비밀의 방""에 잠입하는 시점에서 이미 모험이라고
+"63","3005","","Cosa hai detto?","妳說什麼？","","뭐라고?","Was hast du da gesagt?"
+"64","3003","","Niente...","沒有……","","아뇨…","Nichts ..."
+"65","3005","","Già la Stanza Segreta è una bella gatta da
+pelare, figuriamoci poi il Server Valhalla.","總之，光是潛入“機密屋”，就已經像是在走鋼索了。
+如果要我去瓦爾哈拉伺服器，那就另當別論。","","…어쨌든, ""비밀의 방""에 잠입하는 시점에서 이미 모험이라고
 발할라 서버까지 가라고 한다면, 얘기는 별개야","Das mit dem Geheimraum ist schon riskant.
 Der Walhalla-Server ist noch einmal ein ganz
 anderes Kaliber."
-66,3005,,Non voglio avere niente a che fare con quello.,我會退出。,,난 손을 떼겠어,Damit will ich nichts zu schaffen haben.
-67,3006,,Hm...,嗯……,,…흐음,Hm ...
-68,3006,,"Se ti tiri indietro ora, possiamo
-dimenticare tutto. Oggi, comunque, puntiamo alla
-stanza segreta.","如果你在這裡退出，那就得不償失了。
-這次就先鎖定“機密屋”為目標吧！",,"……여기서 네가 빠지면 모두 헛수고가 돼
+"66","3005","","Non voglio avere niente a che fare con quello.","我會退出。","","난 손을 떼겠어","Damit will ich nichts zu schaffen haben."
+"67","3006","","Hm...","嗯……","","…흐음","Hm ..."
+"68","3006","","Se ora ti tiri indietro, perderemo tutto.
+Oggi però, puntiamo alla stanza segreta.","如果你在這裡退出，那就得不償失了。
+這次就先鎖定“機密屋”為目標吧！","","……여기서 네가 빠지면 모두 헛수고가 돼
 그럼 이번엔 ""비밀의 방""으로 타깃을 좁히도록 하지","Wenn du jetzt einen Rückzieher machst, können wir
 alles vergessen. Heute peilen wir jedenfalls den
 Geheimraum an."
-69,3003,,"Allora resta così.
-Chi due lepri rincorre, nessuna ne prende.","也只能這樣了。
-逐二兔者，不得其一……",,"…어쩔 수 없네요
+"69","3003","","Allora rimaniamo così.
+Chi troppo vuole, nulla stringe.","也只能這樣了。
+逐二兔者，不得其一……","","…어쩔 수 없네요
 두 마리 토끼를 쫓는 자는 한 마리도 얻지 못한다…","Dann bleibt es dabei.
 Wer zwei Hasen hinterherläuft, fängt keinen."
-70,2000,,"Bisogna concentrarsi su una cosa sola? Non
-si possono servire due padroni contemporaneamente? Chi
-corre dietro a due lepri non ne prende nessuna?","應該是魚與熊掌，不可兼得啊！
+"70","2000","","Concentriamoci solo su una cosa?
+Non si servono due padroni assieme?
+Chi troppo vuole nulla stringe?","應該是魚與熊掌，不可兼得啊！
 這就叫貪多必失？
-逐二兔者，不得其一嗎？",,"이것저것 탐내면 하나도 못 얻는다, 지?
+逐二兔者，不得其一嗎？","","이것저것 탐내면 하나도 못 얻는다, 지?
 욕심이 깊으면 재앙이 찾아온다, 라는 거?
 두 마리 토끼를 쫓는 자는 한 마리도 얻지 못한다, 지?","Man muss sich auf eine Sache konzentrieren?
 Man kann nicht zwei Meistern gleichzeitig dienen?
 Wer zwei Hasen hinterherläuft, fängt keinen?"
-71,3003,,Ci sono.,我可以接受。,,"저는, 그걸로 상관없어요",Ich bin dabei.
-72,3005,,"Bene, allora iniziamo la missione!",好……那就開始作戰啦！,,좋았어… 그럼 작전 개시다!,"Gut, dann legen wir mal los mit der Mission!"
+"71","3003","","Per me va bene.","我可以接受。","","저는, 그걸로 상관없어요","Ich bin dabei."
+"72","3005","","Bene, allora iniziamo la missione!","好……那就開始作戰啦！","","좋았어… 그럼 작전 개시다!","Gut, dann legen wir mal los mit der Mission!"
