@@ -3,6 +3,10 @@
 ![Immagine](./img/LogoDigimon.png)
 ![GitHub contributors](https://img.shields.io/github/contributors/zSavT/Digimon-Story-Cyber-Sleuth-Patch-ITA)
 ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/zSavT/Digimon-Story-Cyber-Sleuth-Patch-ITA/total)
+![GitHub last commit](https://img.shields.io/github/last-commit/zSavT/Digimon-Story-Cyber-Sleuth-Patch-ITA?label=Ultima%20modifica)
+![GitHub Issues or Pull Requests](https://img.shields.io/github/issues/zSavT/Digimon-Story-Cyber-Sleuth-Patch-ITA?label=Problemi%20non%20risolti)
+![GitHub Issues or Pull Requests](https://img.shields.io/github/issues-closed/zSavT/Digimon-Story-Cyber-Sleuth-Patch-ITA?label=Problemi%20risolti)
+
 
 
 
@@ -80,6 +84,7 @@ Nella cartella "_dist_", è presente l'eseguibile (la versione per Linux non ha 
 # Immagini progetto
 
 ![Immagine](./img/1.png)
+![Immagine](./img/4.jpg)
 ![Immagine](./img/2.png)
 ![Immagine](./img/3.png)
 
