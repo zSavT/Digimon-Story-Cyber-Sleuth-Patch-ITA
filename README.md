@@ -1,4 +1,4 @@
-# Digimon-Story-Cyber-Sleuth-Patch-ITA [![Donate](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://www.paypal.com/paypalme/verio12)
+# Digimon Story Cyber Sleuth Patch ITA [![Donate](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://www.paypal.com/paypalme/verio12)
 
 ![Immagine](./img/LogoDigimon.png)
 ![GitHub contributors](https://img.shields.io/github/contributors/zSavT/Digimon-Story-Cyber-Sleuth-Patch-ITA)
@@ -11,6 +11,19 @@
 
 
 La realizzazione della patch è stata resa possibile in larga misura grazie al contributo dell'utente "**Lowrentio**". Egli si è dedicato alla comprensione del funzionamento del tool per la modifica dei file di gioco e all'adattamento delle immagini.
+
+- [Digimon Story Cyber Sleuth Patch ITA ](#digimon-story-cyber-sleuth-patch-ita-)
+- [Come installare la patch](#come-installare-la-patch)
+- [Funzionamento installer (Per chi vuole auto generarsi l'installer)](#funzionamento-installer-per-chi-vuole-auto-generarsi-linstaller)
+  - [Creazione dell'eseguibile](#creazione-delleseguibile)
+    - [Windows](#windows)
+    - [Linux (Steam Deck)](#linux-steam-deck)
+- [Immagini progetto](#immagini-progetto)
+- [Come segnalare un errore nella traduzione](#come-segnalare-un-errore-nella-traduzione)
+- [Video dimostrativo](#video-dimostrativo)
+- [Crediti e collaboratori](#crediti-e-collaboratori)
+
+
 
 # Come installare la patch
 
