@@ -1,162 +1,162 @@
-﻿"ID","Speaker","Japanese","English","Chinese","EnglishCensored","Korean","German"
-"1","3006","","Capisco. Quindi è questo che ha causato tutto quel casino.","原來如此……真是飛來橫禍。","","…과연, 그것 참 재난이었군","Verstehe. Das war also das Chaos."
-"2","3006","","Eppure, allo stesso tempo, è una fortuna.","但也沒有比這更幸運的事了。","","그와 동시에, 더할 나위 없는 행운이기도 해","Aber irgendwie ist es alles auch ein Glück."
-"3","3006","","Informazioni che normalmente sono difficili da
+﻿ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
+1,3006,,Capisco. Quindi è questo che ha causato tutto quel casino.,原來如此……真是飛來橫禍。,,"…과연, 그것 참 재난이었군",Verstehe. Das war also das Chaos.
+2,3006,,"Eppure, allo stesso tempo, è una fortuna.",但也沒有比這更幸運的事了。,,"그와 동시에, 더할 나위 없는 행운이기도 해",Aber irgendwie ist es alles auch ein Glück.
+3,3006,,"Informazioni che normalmente sono difficili da
 reperire in una normale indagine erano
 proprio lì davanti a noi.","通常難以透過一般調查獲得的情報，
-你居然能親眼看到。","","통상의 조사로는 얻기 어려운 정보를,
+你居然能親眼看到。",,"통상의 조사로는 얻기 어려운 정보를,
 직접 입수할 수 있었다…","So sind Informationen, an die man über normale
 Recherche kaum rankommt, direkt vor unserer
 Nase aufgetaucht."
-"4","3006","","Un po' di fortuna serve anche agli investigatori.","像這種“好運”，也是身為偵探必要的能力之一。","","그런 ""운""도, 탐정 업무에는 필요한 법이지","Auch Detektive brauchen manchmal Glück."
-"5","3006","","Come possiamo chiamare questo caso? Per il
+4,3006,,Un po' di fortuna serve anche agli investigatori.,像這種“好運”，也是身為偵探必要的能力之一。,,"그런 ""운""도, 탐정 업무에는 필요한 법이지",Auch Detektive brauchen manchmal Glück.
+5,3006,,"Come possiamo chiamare questo caso? Per il
 momento, nominiamolo ""Labirinto di Shinjuku"".","回到正題，這次的事件……
-我們就先稱它為新宿「迷途之村」事件吧。","","그럼, 이번 사건… 임시로 신주쿠「마요이가」
+我們就先稱它為新宿「迷途之村」事件吧。",,"그럼, 이번 사건… 임시로 신주쿠「마요이가」
 사건으로 해 둘까","Wie sollen wir diesen Fall denn bezeichnen?
 Nennen wir ihn vorerst das Labyrinth von Shinjuku."
-"6","3006","","Un ""labirinto"" è parte degli inferi nel folklore,
-altrimenti conosciuto come ""Mayohiga"".","迷途之村……從日本民俗學上來說，就是所謂的「異世界」。","","마요이가란, 민족학에서 말하는「이계」다","In volkstümlichen Geschichten ist ein Labyrinth
+6,3006,,"Un ""labirinto"" è parte degli inferi nel folklore,
+altrimenti conosciuto come ""Mayohiga"".",迷途之村……從日本民俗學上來說，就是所謂的「異世界」。,,"마요이가란, 민족학에서 말하는「이계」다","In volkstümlichen Geschichten ist ein Labyrinth
 oder „Mayohiga“ Teil der Unterwelt."
-"7","3006","","Il mondo degli spiriti, l'oltretomba, la
+7,3006,,"Il mondo degli spiriti, l'oltretomba, la
 terra dei morti... È un mondo che va oltre
 il nostro. Esterno, diciamo.","黃泉、靈界或妖怪棲息的領域……也就是，不同於我們的世界，
-位於界線另一端、不同相位的世界。","","저승, 영계, 요괴가 사는 영역… 즉, 우리들이 사는 세계의
+位於界線另一端、不同相位的世界。",,"저승, 영계, 요괴가 사는 영역… 즉, 우리들이 사는 세계의
 경계 너머에 있는, 위상이 다른 세계를 가리키고 있지","Seelenwelt, Jenseits, Land der Toten ...
 Jedenfalls eine Welt jenseits der unseren,
 in einer Art anderen Dimension."
-"8","3006","","Deve essere quello il fenomeno spaziale
+8,3006,,"Deve essere quello il fenomeno spaziale
 apparso a Shinjuku. Forse ""labirinto"" non è proprio la
 parola giusta, ma ci si avvicina.","這次出現在新宿的異空間就是這種現象。
-沒有比「迷途之村」更適合的稱呼了！","","이번 신주쿠에 출현한 공간이, 바로 그것이다
+沒有比「迷途之村」更適合的稱呼了！",,"이번 신주쿠에 출현한 공간이, 바로 그것이다
 이를 마요이가라 부르지 않고, 뭐라 부르겠나","Das muss diese räumliche Erscheinung in Shinjuku
 sein. Labyrinth ist vielleicht nicht das richtige
 Wort, aber es kommt ungefähr hin."
-"9","3006","","Il riferimento viene da una collezione di racconti
+9,3006,,"Il riferimento viene da una collezione di racconti
 folcloristici di Kunio Yanagida, se mai fossi interessato
 ad approfondire l'argomento.","順帶一提，這個字是取自柳田國男博士的著作，
-遠野物語中的「迷途之家」傳說……如果你有興趣的話，可以研究看看。","","참고로 인용 출처는, 야나기타 쿠니오 박사가 토오노 모노가타리에
+遠野物語中的「迷途之家」傳說……如果你有興趣的話，可以研究看看。",,"참고로 인용 출처는, 야나기타 쿠니오 박사가 토오노 모노가타리에
 기술한「마요이가」전설이다… 흥미가 생겼다면, 조사해 보도록 해","Die Idee stammt aus einer Erzählungssammlung
 von Kunio Yanagida, falls du dich mal genauer
 damit befassen willst."
-"10","3006","","Il punto importante è che, proprio come in
+10,3006,,"Il punto importante è che, proprio come in
 queste fiabe sui labirinti, i fenomeni
-ricorrono più e più volte.","重點是，迷途之村的現象就像傳說般不斷發生。","","여기서 중요한 점은 전승에도 남아 있듯이
+ricorrono più e più volte.",重點是，迷途之村的現象就像傳說般不斷發生。,,"여기서 중요한 점은 전승에도 남아 있듯이
 마요이가 같은 현상은 자주 발생하고 있다는 것이다","Wichtig ist, dass diese Phänomene immer und immer
 wieder auftreten, ähnlich den Geschichten
 über Labyrinthe."
-"11","3006","","In un certo senso, sono invidioso che tu l'abbia
+11,3006,,"In un certo senso, sono invidioso che tu l'abbia
 sperimentato in prima persona. I mondi
 paralleli ESISTONO davvero.","真叫人羨慕！而你居然能親身體驗這個現象……
-原來「異世界」真的存在！","","참으로 부러울 따름이지만, 너는 그것을 실제로 체험했다…
+原來「異世界」真的存在！",,"참으로 부러울 따름이지만, 너는 그것을 실제로 체험했다…
 「이세계」는, 확실히 존재하고 있어","In gewisser Hinsicht bin ich neidisch, dass du das
 erleben durftest. Parallelwelten gibt
 es also wirklich."
-"12","2000","","Il Mondo... Digitale...","數碼……世界……","","디지털… 월드…","Die Digitale Welt ..."
-"13","3006","","!","……！！","","…!!","!"
-"14","3006","","Mondo Digitale? Dove hai sentito
-questo nome?","數碼世界……你是從哪裡得知這個稱呼的？","","디지털 월드… 그 이름을, 넌 어디서 알았지?","Digitale Welt? Wo hast du das denn gehört?"
-"15","2000","","...","………","","………","..."
-"16","2000","","Ho già fornito i dettagli nel mio
-rapporto.","我將來龍去脈一五一十地告訴了她……","","경위를 전부 보고했다…","Das habe ich in meinem Bericht schon genau
+12,2000,,Il Mondo... Digitale...,數碼……世界……,,디지털… 월드…,Die Digitale Welt ...
+13,3006,,!,……！！,,…!!,!
+14,3006,,"Mondo Digitale? Dove hai sentito
+questo nome?",數碼世界……你是從哪裡得知這個稱呼的？,,"디지털 월드… 그 이름을, 넌 어디서 알았지?",Digitale Welt? Wo hast du das denn gehört?
+15,2000,,...,………,,………,...
+16,2000,,"Ho già fornito i dettagli nel mio
+rapporto.",我將來龍去脈一五一十地告訴了她……,,경위를 전부 보고했다…,"Das habe ich in meinem Bericht schon genau
 ausgeführt."
-"17","3006","","Capisco. Quindi dopo aver accettato il
+17,3006,,"Capisco. Quindi dopo aver accettato il
 caso di Nokia Shiramine, ti sei diretto
 subito a Shinjuku. Non lo sapevo.","原來如此，白峰諾奇雅的委託案結束後，
-我讓你直接去了新宿………所以來不及聽你的報告。","","그런가, 시라미네 노키아의 의뢰 후, 바로 신주쿠에
+我讓你直接去了新宿………所以來不及聽你的報告。",,"그런가, 시라미네 노키아의 의뢰 후, 바로 신주쿠에
 향하도록 했었으니… 보고를 듣지 못했었군","Verstehe. Nachdem du Nokia Shiramines Fall
 übernommen hast, bist du also direkt nach
 Shinjuku. Das war mir entgangen."
-"18","3006","","In più mi dici che i Digimon non sono
+18,3006,,"In più mi dici che i Digimon non sono
 programmi creati da umani, ma forme di vita
 intelligenti di un mondo parallelo.","所以說數碼寶貝並非人類創造出的程式，
-而是來自異世界，具有智慧的生命體？","","디지몬은, 인간이 만들어 낸 프로그램이 아니라
+而是來自異世界，具有智慧的生命體？",,"디지몬은, 인간이 만들어 낸 프로그램이 아니라
 이세계에서 온 지적 생명체였다, 고","Du behauptest, dass Digimon keine Programme sind,
 die Menschen geschrieben haben, sondern
 intelligente Wesen aus einer Parallelwelt."
-"19","3006","","Ma certo che ti credo. Io conosco
+19,3006,,"Ma certo che ti credo. Io conosco
 molto poco del Mondo Digitale.","我當然相信。
-畢竟我也對數碼世界有些……","","물론, 난 믿어
+畢竟我也對數碼世界有些……",,"물론, 난 믿어
 디지털 월드에 관해서는, 나도 조금이지만…―","Natürlich glaube ich dir.
 Ich weiß praktisch nichts über die Digitale Welt."
-"20","3006","","...","……………","","……………","..."
-"21","3006","","Mettiamo da parte il Mondo Digitale, per ora.
+20,3006,,...,……………,,……………,...
+21,3006,,"Mettiamo da parte il Mondo Digitale, per ora.
 Non è qualcosa che possiamo risolvere, attualmente.","沒什麼……我看，數碼世界的話題就先到此為止吧。
-這個謎題也不急著現在解開。","","아니… 우선, 디지털 월드에 관한 것은 제쳐 두겠다
+這個謎題也不急著現在解開。",,"아니… 우선, 디지털 월드에 관한 것은 제쳐 두겠다
 지금 해명해야 할 수수께끼는 아니니까 말이지","Lassen wir das mit der Digitale Welt vorerst.
 Dieses Rätsel werden wir nicht sofort lösen."
-"22","3006","","Facciamo un passo indietro e parliamo del
-Labirinto di Shinjuku.","把話題拉回新宿迷途之村事件上吧。","","신주쿠 마요이가 사건 얘기로 되돌리도록 하지","Reden wir noch mal über das Labyrinth von
+22,3006,,"Facciamo un passo indietro e parliamo del
+Labirinto di Shinjuku.",把話題拉回新宿迷途之村事件上吧。,,신주쿠 마요이가 사건 얘기로 되돌리도록 하지,"Reden wir noch mal über das Labyrinth von
 Shinjuku."
-"23","3006","","Proprio prima che ti prendessi come assistente,
+23,3006,,"Proprio prima che ti prendessi come assistente,
 c'erano alcuni casi irrisolti a Shinjuku.","老實說，在你當上我助手之前不久，
-新宿一帶就發生許多與不可思議現象有關的事件。","","사실, 네가 조수가 되기 조금 전부터, 신주쿠 주변에서
+新宿一帶就發生許多與不可思議現象有關的事件。",,"사실, 네가 조수가 되기 조금 전부터, 신주쿠 주변에서
 불가사의한 현상과 관련된 사건이 증가하고 있었다","Kurz bevor ich dich eingestellt habe, gab es
 einige ungelöste Fälle in Shinjuku."
-"24","3006","","Poi hai scoperto il caso di Shinjuku, per non
+24,3006,,"Poi hai scoperto il caso di Shinjuku, per non
 parlare poi del labirinto.","剛好我也是在新宿找到你的，
-加上這次又發生了迷途之村事件。","","너를 발견한 것도 신주쿠―
+加上這次又發生了迷途之村事件。",,"너를 발견한 것도 신주쿠―
 그리고 이번에, 마요이가 사건이 발생했다","Dann hast du den Fall von Shinjuku aufgedeckt,
 von dem mit dem Labyrinth mal ganz zu schweigen."
-"25","3006","","La mia teoria è che tutto questo derivi da delle
+25,3006,,"La mia teoria è che tutto questo derivi da delle
 irregolarità con le Onde Digitali.","所以我推測，
-這些事件全是因「數碼波異常」所引起的。","","어느 쪽도「디지털 웨이브의 이상」이
+這些事件全是因「數碼波異常」所引起的。",,"어느 쪽도「디지털 웨이브의 이상」이
 발단이었다고, 난 추측한다","Ich glaube trotz allem, dass dies alles
 durch Anomalien in den digitalen Wellen entsteht."
-"26","3006","","Queste Onde stanno diventando instabili in tutta
+26,3006,,"Queste Onde stanno diventando instabili in tutta
 Tokyo, non solo a Shinjuku.","現在不只新宿，整個東京都內的主要都市裡，
-數碼波的狀態都很不穩定……","","현재, 신주쿠뿐만이 아니라, 도내 전체 주요 도시에서
+數碼波的狀態都很不穩定……",,"현재, 신주쿠뿐만이 아니라, 도내 전체 주요 도시에서
 디지털 웨이브의 상태가 불안정해져 있어…","Diese digitalen Wellen werden an wichtigen Punkten
 in ganz Tokio instabil, nicht nur in Shinjuku."
-"27","3006","","Dato che non influisce sulla nostra vita quotidiana,
+27,3006,,"Dato che non influisce sulla nostra vita quotidiana,
 ignoriamo la cosa e la consideriamo solo
 un piccolo errore.","由於還沒有嚴重到會影響我們的生活，
-所以眾人將其歸類為誤差，視而不見。","","우리들의 생활에 지장을 초래할 레벨은 아니기에
+所以眾人將其歸類為誤差，視而不見。",,"우리들의 생활에 지장을 초래할 레벨은 아니기에
 오차의 범주로서 간과되고 있지만, 말이지","Da sich das nicht unmittelbar auf unseren Alltag
 auswirkt, ignorieren wir es und denken,
 das liegt in der Fehlermarge."
-"28","3006","","Il problema non è l'irregolarità che continua a
+28,3006,,"Il problema non è l'irregolarità che continua a
 crescere, ma cosa la sta causando. Perché
 adesso?","但問題不在於不穩定狀態，
-而在於異常狀況發生的“原因”。","","문제는 불안정해진 상태가 아니라
+而在於異常狀況發生的“原因”。",,"문제는 불안정해진 상태가 아니라
 어째서 이상이 발생하고 있는가… 그 ""요인""에 있다","Das Problem ist nicht die zunehmende Instabilität,
 sondern die Ursache dahinter. Warum ausgerechnet
 jetzt?"
-"29","3006","","È una cosa naturale? Oppure una interferenza
+29,3006,,"È una cosa naturale? Oppure una interferenza
 umana? È una cosa aliena o un fenomeno
 paranormale?","是自然現象？還是人為干涉？
-或者是更為異質的原因……比如說超自然現象？","","자연 현상인지, 혹은 인위적인 간섭인지
+或者是更為異質的原因……比如說超自然現象？",,"자연 현상인지, 혹은 인위적인 간섭인지
 아니면 더욱 이질적인… 초현실적인 현상인지","Ist die Natur oder menschliche Einwirkung
 verantwortlich? Sind Außerirdische
 oder Übernatürliches beteiligt?"
-"30","3006","","Questo è un caso interessante.
-Dovremmo insistere con la nostra indagine.","這個事件實在是太有意思了，今後也繼續調查吧。","","실로 흥미로운 사건이다, 앞으로도 조사를 계속하도록 하지","Das ist ein interessanter Fall.
+30,3006,,"Questo è un caso interessante.
+Dovremmo insistere con la nostra indagine.",這個事件實在是太有意思了，今後也繼續調查吧。,,"실로 흥미로운 사건이다, 앞으로도 조사를 계속하도록 하지","Das ist ein interessanter Fall.
 Wir sollten ihm weiter nachgehen."
-"31","2000","","!","……！！","","…!!","!"
-"32","3006","","A proposito...","對了。","","…그건 그렇고","Übrigens ..."
-"33","2000","","?!","！？！？","","!?!?","?!"
-"34","3006","","Mentre io e te non eravamo in contatto, ho deciso di
+31,2000,,!,……！！,,…!!,!
+32,3006,,A proposito...,對了。,,…그건 그렇고,Übrigens ...
+33,2000,,?!,！？！？,,!?!?,?!
+34,3006,,"Mentre io e te non eravamo in contatto, ho deciso di
 sfruttare al meglio il mio tempo, e così ho preparato una
 nuova miscela di caffè speciale.","之前聯絡不上你，我有效利用了這段時間，
-「發明」出新的咖啡！","","너와 연락이 안 되는 시간을 유익하게 활용해서
+「發明」出新的咖啡！",,"너와 연락이 안 되는 시간을 유익하게 활용해서
 새로운 블렌드를「발명」해 봤다","Während wir keinen Kontakt hatten, wollte ich
 meine Zeit nutzen und habe eine besondere neue
 Kaffeemischung gezaubert."
-"35","3006","","Ero certo che saresti tornato con dei
+35,3006,,"Ero certa che saresti tornato con dei
 risultati. È stata una deduzione elementare.","我已經料到你一定會滿載而歸！
-這是很基本的推理。","","네가 성과를 가져 올 것은 예측하고 있었지…
+這是很基本的推理。",,"네가 성과를 가져 올 것은 예측하고 있었지…
 초보적인 추리로 말이야","Ich wusste, du würdest mir Ergebnisse bringen.
 Das war eine einfache Schlussfolgerung."
-"36","3006","","Ti stai davvero impegnando al massimo.
-Il tuo lavoro è stato eccellente.","辛苦你了，你做得非常好。","","수고했다, 훌륭한 활약이었다","Du hast dich wirklich ordentlich ins Zeug gelegt.
+36,3006,,"Ti stai davvero impegnando al massimo.
+Il tuo lavoro è stato eccellente.",辛苦你了，你做得非常好。,,"수고했다, 훌륭한 활약이었다","Du hast dich wirklich ordentlich ins Zeug gelegt.
 Du leistest bisher hervorragende Arbeit."
-"37","3006","","E ora, come ricompensa, ho una sorpresa per te!
+37,3006,,"E ora, come ricompensa, ho una sorpresa per te!
 Hee hee. Ci ho messo un sacco di impegno!","也就是說，這咖啡是給你的獎勵，快喝吧！
-呵呵，其實這次可是我的自信之作。","","즉 상이다, 바로 대접하도록 하지
+呵呵，其實這次可是我的自信之作。",,"즉 상이다, 바로 대접하도록 하지
 후후… 실은, 회심의 작품이라 자부하고 있거든","Als Belohnung habe ich also was Leckeres für dich!
 Hihi. Da hab ich mich auch angestrengt!"
-"38","3006","","Non è incredibile?","你相信嗎？","","너는 믿을 수 있을까?","Ist er nicht fantastisch?"
-"39","3006","","La miracolosa armonia di caffè, yogurt e
+38,3006,,Non è incredibile?,你相信嗎？,,너는 믿을 수 있을까?,Ist er nicht fantastisch?
+39,3006,,"La miracolosa armonia di caffè, yogurt e
 alghe bollite nella soia.","咖啡、優格與海苔醬所合奏出的奇蹟，
-居然存在於這世上——","","커피와 요구르트와 김 조림이 연주하는
+居然存在於這世上——",,"커피와 요구르트와 김 조림이 연주하는
 하모니의 기적을―","Eine herrliche Komposition von Kaffee, Joghurt und
 in Soja gekochten Meeresalgen."
