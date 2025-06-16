@@ -44,6 +44,19 @@ body:
     validations:
       required: true
 
+    - type: dropdown
+    id: versione
+    attributes:
+      label: Contesto dell'errore
+      description: Scegli la versione della patch che stai utilizzando.
+      options:
+        - v1.1
+        - v1.0
+        - Altro
+    validations:
+      required: true
+
+
   - type: textarea
     id: save-file
     attributes:
@@ -57,7 +70,7 @@ body:
     id: info-extra
     attributes:
       label: Info extra
-      description: Inserisci qui sotto eventuali informazioni utili (es. versione del gioco, contesto specifico se hai scelto 'Altro' nel menu a tendina, ecc.).
+      description: Inserisci qui sotto eventuali informazioni utili (es. contesto specifico se hai scelto 'Altro' nel menu a tendina, ecc.).
       placeholder: "Versione gioco 1.2.3, errore presente dopo l'ultimo aggiornamento..."
     validations:
       required: false
