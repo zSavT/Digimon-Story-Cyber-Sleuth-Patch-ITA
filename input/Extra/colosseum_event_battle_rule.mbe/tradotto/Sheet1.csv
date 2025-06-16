@@ -1,0 +1,300 @@
+ID,Japanese,English,Chinese,EnglishCensored,Korean,German
+1,,"・Livello 50 fisso/potenziamenti non validi
+・Memoria massima 100
+・CRT +50%","．等級固定在50／強化值無效
+．隊伍容量100以內
+．CRT發生率提昇50%",,"・레벨 50 고정/강화치 무효
+・메모리 100 이내
+・크리티컬 발생률 50% 상승","・Level 50 festgelegt/Verbesserungen ungültig
+・Speicher maximal 100
+・KRT +50 %"
+2,,"・Livello 50 fisso/potenziamenti non validi
+・Memoria massima 30
+・Forma una squadra composta solo da Digimon di livello Campione o inferiore
+・Digimon duplicati non ammessi nella squadra","．等級固定在50／強化值無效
+．隊伍容量30以內
+．僅能使用成熟期以下數碼寶貝
+．隊伍內禁止使用相同數碼寶貝",,"・레벨 50 고정/강화치 무효
+・메모리 30 이내
+・성숙기 이하 한정으로 파티 구성
+・파티 내에서 같은 디지몬 사용 금지","・Level 50 festgelegt/Verbesserungen ungültig
+・Speicher maximal 30
+・Gruppe nur mit Champion-Level oder darunter
+・Doppelte Digimon nicht in Gruppe erlaubt"
+3,,"・Nessuna restrizione di livello/potenziamenti non validi
+・Memoria massima 150
+・Statistiche base +50% per Digimon di attributo Terra
+・Danno fisico +100%, danno magico -50%","．等級無限制／強化值無效
+．隊伍容量150以內
+．地屬性數碼寶貝基本屬性強化50%
+．物理威力提昇100%，魔法威力下降50%",,"・레벨 제한 없음/강화치 무효
+・메모리 150 이내
+・땅속성 디지몬의 기본 스테이터스 50% 상승
+・물리위력 100% 상승 & 마법위력 50% 저하","・Keine Level-Einschr./Verbesserungen ungültig
+・Speicher maximal 150
+・Grundwerte für Erd-Digimon +50 %
+・Phys. Schaden +100 %, mag. Schaden –50 %"
+4,,"・Nessuna restrizione di livello/potenziamenti non validi
+・Memoria massima 100
+・Statistiche base +50% per Digimon di tipo Vaccine
+・Concede status anomalo casuale alla fine del turno","．等級無限制／強化值無效
+．隊伍容量100以內
+．疫苗種數碼寶貝基本屬性強化50%",,"・레벨 제한 없음/강화치 무효
+・메모리 100 이내
+・백신종의 기본 스테이터스 50% 상승
+・턴 종료 시 랜덤으로 상태이상 부여","・Keine Level-Einschr./Verbesserungen ungültig
+・Speicher maximal 100
+・Grundwerte für Serum-Digimon +50 %
+・Zufällige Statusleiden am Ende des Zugs"
+5,,"・Livello 50 fisso/potenziamenti non validi
+・Memoria massima 35
+・Forma un gruppo di soli livelli Campione o inferiori","．等級固定在50／強化值無效
+．隊伍容量35以內
+．僅能使用成熟期以下數碼寶貝",,"・레벨 50 고정/강화치 무효
+・메모리 35 이내
+・성숙기 이하 한정으로 파티 구성","・Level 50 festgelegt/Verbesserungen ungültig
+・Speicher maximal 35
+・Gruppe nur mit Champion-Level oder darunter"
+6,,"・Livello 50 fisso/potenziamenti non validi
+・Memoria massima 100
+・Statistiche base +50% per Digimon di attributo Vento
+・Ordine delle mosse invertito","．等級固定在50／強化值無效
+．隊伍容量100以內
+．風屬性數碼寶貝基本屬性強化50%
+．行動順序逆轉",,"・레벨 50 고정/강화치 무효
+・메모리 100 이내
+・바람속성 디지몬의 기본 스테이터스 50% 상승
+・행동 순서 역전","・Level 50 festgelegt/Verbesserungen ungültig
+・Speicher maximal 100
+・Grundwerte für Wind-Digimon +50 %
+・Aktionsreihenfolge umgekehrt"
+7,,"・Nessuna restrizione di livello/potenziamenti non validi
+・Memoria massima 50
+・Forma una squadra di soli Digimon di livello Mega o inferiore
+・Digimon duplicati non permessi nella squadra","．等級無限制／強化值無效
+．隊伍容量50以內
+．僅能使用完全體以下數碼寶貝
+．隊伍內禁止使用相同數碼寶貝",,"・레벨 무제한/강화치 무효
+・메모리 50 이내
+・완전체 이하 한정으로 파티 구성
+・파티 내에서 같은 디지몬 사용 금지","・Level 50 festgelegt/Verbesserungen ungültig
+・Speicher maximal 50
+・Gruppe nur mit Ultra-Level oder darunter
+・Doppelte Digimon nicht in Gruppe erlaubt"
+8,,"・Livello 99 fisso/potenziamenti non validi
+・Memoria massima 150
+・Statistiche base +50% per Digimon di tipo Data
+・Danno fisico +100%, danno magico -50%","．等級固定在99／強化值無效
+．隊伍容量150以內
+．資料種數碼寶貝基本屬性強化
+．物理威力提昇100%，魔法威力下降50%",,"・레벨 99 고정/강화치 무효
+・메모리 150 이내
+・데이터종의 기본 스테이터스 50% 상승
+・물리공격력 100% 상승 & 마법위력 50% 저하","・Level 99 festgelegt/Verbesserungen ungültig
+・Speicher maximal 150
+・Grundwerte für Datei-Digimon +50 %
+・Phys. Schaden +100 %, mag. Schaden –50 %"
+9,,"・Livello 50 fisso/potenziamenti non validi
+・PS e PM Recluta +50% ・Mem. max. 30
+・Statistiche base +200% per Digimon Recluta
+・Digimon duplicati non permessi nel party","．等級固定在50／強化值無效．隊伍容量30以內
+．成長期數碼寶貝HP、SP提昇50%
+．成長期數碼寶貝基本屬性強化200%
+．隊伍內禁止使用相同數碼寶貝",,"・레벨 50 고정/강화치 무효, 메모리 30 이내
+・성장기의 HP, SP 50% 상승
+・HP, SP 이외의 스테이터스 200% 상승
+・파티 내에서 같은 디지몬 사용 금지","・Level 50 festg./Verb. ung.・Speicher max. 30
+・TP und SP für Rookies +50 %
+・Grundwerte für Rookie-Digimon +200 %
+・Doppelte Digimon nicht in Gruppe erlaubt"
+10,,"・Livello 50 fisso/potenziamenti non validi
+・Memoria massima 100
+・Statistiche base +50% per Digimon con attributo Pianta
+・Annulla l'effetto dell'affinità di tipo","．等級固定在50／強化值無效
+．隊伍容量100以內
+．木屬性數碼寶貝基本屬性強化50%
+．種族相性無效",,"・레벨 50 고정/강화치 무효
+・메모리 100 이내
+・풀속성 디지몬의 기본 스테이터스 50% 상승
+・종족별 상성 무효","・Level 50 festgelegt/Verbesserungen ungültig
+・Speicher maximal 100
+・Grundwerte für Pflanzen-Digimon +50 %
+・Negiert Wirkung von Typ-Affinität"
+11,,"・Nessuna restrizione di livello/potenziamenti non validi
+・Memoria massima 150
+・Statistiche base +50% per i Digimon di tipo Virus
+・Concede uno status anomalo casuale alla fine del turno","．等級無限制／強化值無效
+．隊伍容量150以內
+．病毒種數碼寶貝基本屬性強化50%
+．回合結束時隨機狀態異常",,"・레벨 무제한/강화치 무효
+・메모리 150 이내
+・바이러스종의 기본 스테이터스 50% 상승
+・턴 종료시 랜덤으로 상태이상 부여","・Keine Level-Einschr./Verbesserungen ungültig
+・Speicher maximal 150
+・Grundwerte für Virus-Digimon +50 %
+・Zufällige Statusleiden am Ende des Zugs"
+12,,"・Livello 50 fisso/potenziamenti non validi
+・Memoria massima 50
+・Statistiche base +50% per Digimon con attributo Acqua
+・Annulla l'effetto dell'affinità di tipo","．等級固定在50／強化值無效
+．隊伍容量50以內
+．水屬性數碼寶貝基本屬性強化50%
+．種族相性無效",,"・레벨 50 고정/강화치 무효
+・메모리 50 이내
+・물속성 디지몬의 기본 스테이터스 50% 상승
+・종족별 상성 무효","・Level 50 festgelegt/Verbesserungen ungültig
+・Speicher maximal 50
+・Grundwerte für Wasser-Digimon +50 %
+・Negiert Wirkung von Typ-Affinität"
+13,,"・Livello 50 fisso/potenziamenti non validi
+・Forma un gruppo solo di Digimon di livello Ultimate o inferiore
+・Statistiche base +50% per i Digimon di tipo Free
+・CRT +50% ・Mem. max. 50","．等級固定在50／強化值無效．隊伍容量50以內
+．只能由完全體以下來組成隊伍
+．自由種基本屬性提昇100%
+．CRT發生率提昇50%",,"・레벨 50 고정/강화치 무효, 메모리 50 이내
+・완전체 이하 한정으로 파티 구성
+・프리종 기본 스테이터스 100% 상승
+・크리티컬 발생률 50% 상승","・Level 50 festg./Verb. ung.・Speicher max. 50
+・Gruppe nur mit Ultra-Level oder darunter
+・Grundwerte für freie Digimon +50 %
+・KRT +50 %"
+14,,"・Livello 99 fissato/potenziamenti non validi
+・Memoria massima 100
+・Statistiche base +50% per i Digimon di attributo Electric
+・Inverte l'effetto dell'affinità di tipo","．等級固定在99／強化值無效
+．隊伍容量100以內
+．雷屬性數碼寶貝基本屬性提昇50%
+．種族相性無效",,"・레벨 99 고정/강화치 무효
+・메모리 100 이내
+・전기속성 디지몬의 기본 스테이터스 50% 상승
+・종족별 상성 무효","・Level 99 festgelegt/Verbesserungen ungültig
+・Speicher maximal 100
+・Grundwerte für Elektro-Digimon +50 %
+・Kehrt Wirkung von Typ-Affinität um"
+15,,"・Livello 50 fisso/potenziamenti non validi
+・Memoria massima 100
+・Statistiche base +50% per Digimon di attributo Fuoco
+・Annulla attacchi magici","．等級固定在50／強化值無效
+．隊伍容量100以內
+．火屬性數碼寶貝基本屬性提昇50%
+．魔法攻擊無效",,"・레벨 50 고정/강화치 무효
+・메모리 100 이내
+・불속성 디지몬의 기본 스테이터스 50% 상승
+・마법 공격 무효","・Level 50 festgelegt/Verbesserungen ungültig
+・Speicher maximal 100
+・Grundwerte für Feuer-Digimon +50 %
+・Negiert magische Angriffe"
+16,,"・Livello 50 fisso/potenziamenti non validi
+・Memoria massima 100
+・Statistiche base +50% per i Digimon di attributo Dark
+・Annulla gli attacchi fisici (escluso Attacco)","．等級固定在50／強化值無效
+．隊伍容量100以內
+．闇屬性數碼寶貝基本屬性提昇50%
+．物理攻擊無效（攻擊除外）",,"・레벨 50 고정/강화치 무효
+・메모리 100 이내
+・어둠속성 디지몬의 기본 스테이터스 50% 상승
+・마법 공격 무효","・Level 50 festgelegt/Verbesserungen ungültig
+・Speicher maximal 100
+・Grundwerte für Dunkelheit-Digimon +50 %
+・Negiert phys. Angriffe (ausgenommen Attacke)"
+17,,"・Livello 99 fisso/potenziamenti non validi
+・Memoria massima 20
+・Forma una squadra solo di livello Campione o inferiore
+・Le riserve non possono essere utilizzate","．等級固定在99／強化值無效
+．隊伍容量20以內
+．僅能使用成熟期以下數碼寶貝
+．禁止使用候補",,"・레벨 99 고정/강화치 무효
+・메모리 20 이내
+・성숙기 이하 한정으로 파티 구성
+・리저브 사용 금지","・Level 99 festgelegt/Verbesserungen ungültig
+・Speicher maximal 20
+・Gruppe nur mit Champion-Level oder darunter
+・Reserve kann nicht eingesetzt werden"
+18,,"・Livello 50 fisso/potenziamenti non validi
+・Memoria massima 100
+・Ordine delle mosse invertito","．等級固定在50／強化值無效
+．隊伍容量100以內
+．行動順序逆轉",,"・레벨 50 고정/강화치 무효
+・메모리 100 이내
+・행동 순서 역전","・Level 50 festgelegt/Verbesserungen ungültig
+・Speicher maximal 100
+・Aktionsreihenfolge umgekehrt"
+19,,"・Livello 50 fisso/potenziamenti non validi
+・Memoria massima 150
+・Statistiche base +50% per Digimon di attributo Neutrale
+・Digimon duplicati non permessi nel party","．等級固定在50／強化值無效
+．隊伍容量150以內
+．無屬性數碼寶貝基本屬性提昇50%
+．隊伍內禁止使用相同數碼寶貝",,"・레벨 50 고정/강화치 무효
+・메모리 150 이내
+・무속성 디지몬의 기본 스테이터스 50% 상승
+・파티 내에서 같은 디지몬 사용 금지","・Level 50 festgelegt/Verbesserungen ungültig
+・Speicher maximal 150
+・Grundwerte für Neutral-Digimon +50 %
+・Doppelte Digimon nicht in Gruppe erlaubt"
+20,,"・Nessuna restrizione di livello/potenziamenti non validi
+・Statistiche base +30% per Digimon di tipo Virus
+・Danno da attributo Oscurità +50% ・Mem. max. 100
+・Inverte l'effetto dell'affinità di tipo","．等級無限制／強化值無效．隊伍容量100以內
+．病毒種數碼寶貝基本屬性提昇30%
+．闇屬性攻擊威力提昇50%
+．種族相性逆轉",,"・레벨 무제한/강화치 무효 ・메모리 100 이내
+・바이러스종의 기본 스테이터스 30% 상승
+・어둠속성 공격의 위력 50% 상승
+・종족별 상성 역전","・Keine Level-Einschr./Verb. ung.
+・Grundwerte für Virus-Digimon +30 %
+・Dunkelheitsschaden +50 %・Speicher max. 100
+・Kehrt Wirkung von Typ-Affinität um"
+21,,"・Livello 99 fisso/potenziamenti non validi
+・Memoria massima 150
+・Statistiche base +50% per Digimon di tipo Data
+・Danno magico +100%, danno fisico -50%","．等級固定在99／強化值無效
+．隊伍容量100以內
+．資料種數碼寶貝基本屬性提昇50%
+．魔法攻擊威力提昇100%＆物理攻擊威力下降50%",,"・레벨 99 고정/강화치 무효
+・메모리 150 이내
+・데이터종의 기본 스테이터스 50% 상승
+・마법 공격 위력 100% 상승 & 물리 위력 50% 저하","・Level 99 festgelegt/Verbesserungen ungültig
+・Speicher maximal 150
+・Grundwerte für Datei-Digimon +50 %
+・Mag. Schaden +100 %, phys. Schaden –50 %"
+22,,"・Livello 30 fisso/potenziamenti non validi
+・Memoria massima 50
+・Statistiche base +50% per i Digimon Neutrali
+・CRT +30%","．等級固定在30／強化值無效
+．隊伍容量50以內
+．自由種數碼寶貝基本屬性提昇50%
+．CRT發生率提昇30%",,"・레벨 30 고정/강화치 무효
+・메모리 50 이내
+・프리종의 기본 스테이터스 50% 상승
+・크리티컬 발생률 30% 상승","・Level 30 festgelegt/Verbesserungen ungültig
+・Speicher maximal 50
+・Grundwerte für freie Digimon +50 %
+・KRT +30 %"
+23,,"・Livello 50 fisso/potenziamenti non validi
+・Forma una squadra solo con Digimon di livello Campione o inferiore
+・Danni da attributo Fuoco +50% ・Livello <35
+・Digimon duplicati non permessi nella squadra","．等級固定在50／強化值無效
+．隊伍容量35以內
+．火屬性攻擊威力提昇100%
+．隊伍內禁止使用相同數碼寶貝",,"・레벨 50 고정/강화치 무효, 메모리 35 이내
+・성숙기 이하 한정으로 파티 구성
+・불속성 공격의 위력 100% 상승
+・파티 내에서 같은 디지몬 사용 금지","・Level 50 festg./Verb. ung.・Speicher max. 35
+・Gruppe nur mit Champion-Level oder darunter
+・Feuerschaden +50 %
+・Doppelte Digimon nicht in Gruppe erlaubt"
+24,,"・Nessuna restrizione/potenziamenti di livello non validi
+・Statistiche base +50% per Digimon Vaccine
+・Statistiche base +50% per Digimon Luce
+・Annulla condizioni anomale ・ Mex. Max 100","．等級無限制／強化值無效．隊伍容量100以內
+．疫苗種數碼寶貝基本屬性提昇50%
+．光屬性數碼寶貝基本屬性提昇50%
+．基本狀態異常無效",,"・레벨 무제한/강화치 무효, 메모리 100 이내
+・백신종의 기본 스테이터스 50% 상승
+・빛속성 디지몬의 기본 스테이터스 50% 상승
+・기본 상태이상 무효","・Keine Level-Einschr./Verb. ung.
+・Grundwerte für Serum-Digimon +50 %
+・Grundwerte für Licht-Digimon +50 %
+・Negiert einf. Statusleiden・Speicher max. 100"

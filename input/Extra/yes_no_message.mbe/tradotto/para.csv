@@ -1,0 +1,154 @@
+﻿ID,Japanese,English,Chinese,EnglishCensored,Korean,German
+1,,Accedere al Mondo Digitale?,您要登入至電腦世界嗎？,,전뇌세계에 접속하겠습니까?,Die Digitale Welt betreten?
+2,,Disconnettersi?,您要登出嗎？,,로그아웃하겠습니까?,Ausloggen?
+5,,Sei sicuro di voler effettuare il Salto di Connessione?,您要登入跳躍嗎？,,커넥트 점프를 하겠습니까?,Möchtest du wirklich einen Verbindungssprung durchführen?
+6,,Disconnettersi dall'ospedale?,您要登出至醫院嗎？,,병원으로 로그아웃하겠습니까?,Aus dem Krankenhaus ausloggen?
+7,,Hai dei rapporti sui casi da compilare. Vuoi farlo ora?,有可以報告的委託，您要報告嗎？,,보고 가능한 의뢰가 있습니다. 보고하겠습니까?,Einige Fallberichte sind offen. Jetzt erledigen?
+8,,Accettare questo caso?,您要接受這份委託嗎？,,이 의뢰를 수락하겠습니까?,Diesen Fall annehmen?
+9,,Rimandare questo caso?,您要中止這份委託嗎？,,이 의뢰를 중단하겠습니까?,Diesen Fall verschieben?
+10,,Da che parte andrai?,您要前往什麼地點？,,어디로 가겠습니까?,Welchen Weg wählst du?
+11,,Andare al DigiLab?,您要前往數碼實驗室嗎？,,디지랩에 가겠습니까?,Zum DigiLab gehen?
+12,,Salto di Connessione sul cellulare dello staff?,您要登入跳躍至職員的手機嗎？,,사원의 핸드폰으로 커넥트 점프 하겠습니까?,Verbindungssprung in das Mitarbeiterhandy?
+13,,Salto di Connessione sul sito dell'Associazione di Boxe?,您要登入跳躍至拳擊協會的網站嗎？,,복싱협회 사이트로 커넥트 점프 하겠습니까?,Verbindungssprung zur Website des Boxverbands?
+14,,Andare dal cliente?,您要前往委託人的所在地嗎？,,의뢰인이 있는 곳으로 가겠습니까?,Zum Klienten gehen?
+15,,Investigare il cellulare del Belloccio?,您要調查帥氣男子的手機嗎？,,훈남의 핸드폰을 조사하겠습니까?,Das Handy des heißen Typen untersuchen?
+16,,Tornare all'Agenzia Investigativa?,您要返回偵探事務所嗎？,,탐정사무소로 돌아가겠습니까?,Ins Detektivbüro zurückkehren?
+17,,Andare alla lobby di EDEN?,您要移動至EDEN大廳嗎？,,EDEN 로비로 이동하겠습니까?,Zur Lobby von EDEN gehen?
+18,,Sei pronto?,您準備好了嗎？,,준비됐나요?,Bist du bereit?
+19,,Disconnettersi dal DigiLab?,您要從數碼實驗室登出嗎？,,디지랩에서 로그아웃하겠습니까?,Aus dem DigiLab ausloggen?
+100,,Giocare come maschio?,您要以男性身份開始遊戲嗎？,,남성으로 플레이하겠습니까?,Als Junge spielen?
+1000,,Sei sicuro di voler sovrascrivere?,您確定要覆蓋保存資料嗎？,,덮어쓰기 하겠습니까?,Wirklich überschreiben?
+1001,,Caricare questi dati?,您要讀取這個保存資料嗎？,,이 데이터를 불러오겠습니까?,Diese Daten laden?
+1002,,Eliminare questi dati salvati?,您要刪除這個保存資料嗎？,,이 저장 데이터를 삭제하겠습니까?,Diese gespeicherten Daten löschen?
+1100,,Acquistare questo?,您要購買嗎？,,구입하겠습니까?,Das kaufen?
+1101,,Vendere questo?,您要販賣嗎？,,매각하겠습니까?,Das verkaufen?
+1200,,Svuotare la tua Fattoria?,您確定要將農場島淨空嗎？,,팜이 비어도 괜찮습니까?,Deine Farm räumen?
+1201,,Digievolvere in [d0]?,要進化成[d0]嗎？,,[d0]으로 진화하겠습니까?,Zu [d0] digitieren?
+1202,,Consumare [d0] per la DNA Digievoluzione?,您要消耗[d0]進行融合進化嗎？,,[d0]을 소비해 조그레스 진화하겠습니까?,[d0] für DNA-Digitation absorbieren?
+1203,,De-Digievolvere a [d0]?,要退化成[d0]嗎？,,[d0]으로 퇴화하겠습니까?,Zu [d0] de-digitieren?
+1204,,Cambiare modalità in [d0]?,您要變更模式為[d0]嗎？,,[d0]으로 모드체인지 하겠습니까?,Moduswechsel zu [d0]?
+1205,,Caricare il Digimon?,您要吸收數碼寶貝嗎？,,디지몬 로드를 실행하겠습니까?,Das Digimon laden?
+1206,,Convertire [d0]?,您要孵化[d0]嗎？,,[d0]을 컨버트하겠습니까?,[d0] umwandeln?
+1207,,Restituire [d0] ai dati di scansione?,您要將[d0]回復為掃描數據嗎？,,[d0]을 스캔 데이터로 되돌리겠습니까?,[d0] in Scandaten umwandeln?
+1300,,Iniziare a investigare questo caso?,您要開始調查這個委託嗎？,,이 의뢰의 조사를 시작하겠습니까?,Mit den Ermittlungen in diesem Fall beginnen?
+1301,,Posticipare le indagini su questo caso?,您要中止調查這份委託嗎？,,이 의뢰의 조사를 중지하겠습니까?,Die Ermittlungen in diesem Fall verschieben?
+1302,,Abbandonare questo caso?,您要中斷調查這份委託嗎？,,이 의뢰의 조사를 중단하겠습니까?,Diesen Fall abbrechen?
+1500,,Accedere con i dati inseriti?,您確定要以此輸入內容登入嗎？,,이 입력 내용으로 로그인 합니다. 괜찮겠습니까?,Mit den eingegebenen Daten einloggen?
+1700,,Eliminare l'abilità selezionata?,您要捨棄選中的技能嗎？,,선택한 스킬을 포기하겠습니까?,Die ausgewählte Fertigkeit entfernen?
+1900,,Tornare alla tua base?,您要返回據點嗎？,,거점으로 돌아가겠습니까?,Zum Unterschlupf zurückkehren?
+1901,,Tornare all'entrata?,您要返回入口嗎？,,입구로 돌아가겠습니까?,Zum Eingang zurückkehren?
+2200,,Le modifiche alle opzioni non sono state salvate. Continuare?,您變更的選項內容並不會被記錄，仍然要執行嗎？,,옵션 변경은 저장되지 않습니다만 괜찮겠습니까?,Änderungen wurden nicht gespeichert. Fortfahren?
+2600,,Annullare la modifica?,您要取消交換嗎？,,교체를 취소하겠습니까?,Änderung rückgängig machen?
+2601,,Fuggire?,您要逃脫嗎？,,도주하겠습니까?,Fliehen?
+2900,,Combattere [d0]?,您要和[d0]對戰嗎？,,[d0]과 대전하겠습니까?,Gegen [d0] kämpfen?
+2901,,Combattere di nuovo?,您要再次對戰嗎？,,다시 한번 대전하겠습니까?,Erneut kämpfen?
+2902,,Continuare a cercare un avversario?,您要繼續尋找對戰對手嗎？,,이어서 대전 상대를 탐색하겠습니까?,Weiter nach einem Gegner suchen?
+2903,,Continuare a combattere?,您要繼續進行對戰嗎？,,이어서 대전하겠습니까?,Weiterkämpfen?
+2904,,Accedere a Nintendo Switch Online?,要登入Nintendo Switch Online嗎？,,Nintendo Switch Online에 로그인하시겠습니까?,Bei Nintendo Switch Online anmelden?
+3000,,Questo interromperà i comandi in corso. Procedere?,進行中的指令將會中止，確定要執行嗎？,,실행중인 지시를 중지하겠습니까?,Dies unterbricht die aktuellen Befehle. Weiter?
+3001,,Lasciare la DigiFarm?,您要結束數碼農場嗎？,,디지팜을 종료하겠습니까?,Die Digifarm verlassen?
+3002,,Rendere [d0] il leader?,您要將隊長變更為[d0]嗎？,,리더를 [d0]으로 변경하겠습니까?,[d0] zum Anführer machen?
+3003,,[d0] ha raggiunto la dimensione massima. Nutrire comunque?,[d0]已成長至最大，確定要給予食物嗎？,,[d0]은 이미 최대입니다. 음식을 주겠습니까?,[d0] ist auf höchster Stufe. Trotzdem füttern?
+5000,,Andare in un'altra area?,您要前往其他區域嗎？,,다른 에어리어로 이동하겠습니까?,In ein anderes Gebiet gehen?
+5001,,Combattere nel Colosseo?,您要挑戰競技場嗎？,,콜로세움에 도전하겠습니까?,Im Kolosseum kämpfen?
+5002,,Andare al Sottopassaggio di Nakano?,您要前往中野地下道嗎？,,나카노 지하도로 향하겠습니까?,Zur Nakano-Unterführung gehen?
+5003,,Lasciare il DigiLab?,您要離開數碼實驗室嗎？,,디지랩에서 나오겠습니까?,Das DigiLab verlassen?
+5004,,Tornare all'entrata del sottopassaggio di Nakano?,您要返回中野地下道入口嗎？,,나카노 지하도 입구로 돌아가겠습니까?,Zum Eingang der Nakano-Unterführung zurückkehren?
+5050,,Usare l'account del ragazzo e iniziare una chat?,您要使用少年的帳號啟動聊天室嗎？,,소년의 계정을 사용해 채팅을 시작하겠습니까?,Den Account des Jungen benutzen und chatten?
+5051,,Connettersi e saltare nel sito di chat?,您要登入跳躍至聊天室網站嗎？,,채팅룸으로 커넥트 점프하겠습니까?,Verbindungssprung zur Chatseite?
+5052,,Ascoltare la richiesta di [c1701]?,您要聽取[c1701]的請求嗎？,,[c1701]의 부탁을 받아들이겠습니까?,[c1701]s Bitte anhören?
+5053,,Tentare un giro di medaglia per [n0] yen?,您要使用[n0]YEN來進行1次數碼寶貝獎牌轉蛋嗎？,,1회 [n0]YEN으로 디지메달 뽑기를 하겠습니까?,Ein Medaillenspiel für [n0] Yen versuchen?
+5054,,Vendere tutte le medaglie?,您要販賣所有獎牌嗎？,,메달을 전부 매각하겠습니까?,Alle Medaillen verkaufen?
+5055,,Salvare?,您要保存嗎？,,저장하겠습니까?,Speichern?
+5056,,Facciamo una pausa...,稍微休息一下吧……,,조금 쉴까…,Zeit für ein Päuschen ...
+5057,,Entrare?,您要進入嗎？,,들어가겠습니까?,Reingehen?
+5058,,Sei pronto ad entrare nel Mondo Digitale?,……準備好要進入數碼世界了嗎？,,…디지털 월드에 돌입할 준비가 되었나?,"Bist du bereit, die Digitale Welt zu betreten?"
+5059,,Recuperare per [n0] yen?,回復需要消費[n0]YEN，確定要執行嗎？,,회복에는 [n0]YEN이 드는데 괜찮습니까?,Für [n0] Yen wiederherstellen?
+5060,,Tornare in cima all'Ufficio Metropolitano?,要返回新都廳的天台嗎？,,신 도청 옥상으로 돌아가겠습니까?,Zur obersten Etage des Metropolitan-Gebäudes zurück?
+5061,,Saltare giù?,您要降落嗎？,,뛰어내리겠습니까?,Abspringen?
+5062,,Tornare indietro?,你要返回嗎？,,돌아오겠습니까?,Zurückkehren?
+5063,,Torniamo a prepararci?,做好返回的準備了嗎？,,돌아가서 준비를 갖출거야?,Sollen wir zurückgehen und Vorbereitungen treffen?
+5064,,Tornare a Tokyo?,您要返回東京嗎？,,도쿄로 돌아오겠습니까?,Nach Tokio zurückkehren?
+5065,,Parlare con l'hacker?,您要向駭客搭話嗎？,,해커에게 말을 걸겠습니까?,Mit dem Hacker sprechen?
+5066,,Leggere il diario di Kishibe?,您要閱讀岸部的日記嗎？,,키시베의 일기를 읽겠습니까?,Kishibes Tagebuch lesen?
+5067,,Accedere a un'area potenziata di EDEN?,您要登入至EDEN版本升級體驗會場嗎？,,EDEN 버전업 체험장으로 로그인하겠습니까?,In aktualisierten Bereich von EDEN einloggen?
+5068,,Lasciare il Mirror Dungeon e tornare al DigiLab?,您要離開鏡像迷宮，返回數碼實驗室嗎？,,미러 던전에서 이탈하여 디지랩으로 돌아가겠습니까?,Spiegel-Dungeon verlassen und zum DigiLab zurück?
+5069,,Recuperare?,您要開始回復嗎？,,회복하겠습니까?,Wiederherstellen?
+1003,,Usare questi dati di salvataggio per giocare dall'inizio?,確定繼承此保存資料重新開始遊戲嗎？,,이 데이터를 계승하여 처음부터 플레이하겠습니까?,Mit diesen Daten von Anfang an spielen?
+1501,,Modificare le opzioni? (Le puoi modificare anche in seguito.),確定變更設定？（稍後亦可變更設定）,,옵션을 변경하겠습니까? (나중에 변경할 수 있습니다),Optionen ändern? (Optionen sind später änderbar.)
+2201,,Iniziare il gioco con queste impostazioni?,確定以此設定開始遊戲嗎？,,이 설정으로 게임을 시작합니다. 괜찮습니까?,Spiel mit diesen Einstellungen beginnen?
+5070,,Ripristinare i PV del Digimon?, ,,디지몬의 체력을 회복시키겠습니까?,TP des Digimon wiederherstellen?
+5071,,"Tornare alla schermata del titolo? (I progressi non salvati andranno
+persi.)",返回標題畫面？ 　※將喪失目前進度。,,타이틀 화면으로 돌아가겠습니까? ※저장은 되지 않습니다.,"Zurück zum Titelbildschirm? (Nicht 
+gespeicherter Fortschritt geht verloren.)"
+5072,,Analizzare questa memory?,解析這份記憶嗎？,,이 기억을 해석하겠습니까?,Diese Erinnerung analysieren?
+1004,,Eliminare comunque questi dati salvati?,依然要刪除此保存資料嗎？,,그래도 이 저장 데이터를 삭제하시겠습니까?,Diese Speicherdaten trotzdem löschen?
+10100,,Registrare questa squadra?,登錄目前成員。確定嗎？,,이 멤버를 등록합니다. 괜찮습니까?,Diese Gruppe anmelden?
+10101,,"Modifiche alla squadra completate (le modifiche non sono state
+salvate). Procedere?","結束成員編輯。（不保存變更）
+確定嗎？",,"파티의 편집을 종료합니다. (변경은 저장되지 않습니다)
+괜찮습니까?","Gruppenänderung abgeschlossen (Änderungen nicht
+gespeichert). Fortfahren?"
+10102,,"Questa azione è irreversibile, vuoi cancellarlo?",一但刪除便無法復原。 　要刪除嗎？,,삭제하면 복구할 수 없습니다. 삭제하겠습니까?,Willst du das löschen? Nicht rückgängig zu machen.
+10103,,Cambiare con questo nome?,變更此名稱？,,이 명칭으로 변경하겠습니까?,Zu diesem Namen wechseln?
+10110,,Accedere a EDEN?,請問要登入EDEN嗎？,,EDEN에 로그인하겠습니까?,In EDEN einloggen?
+2905,,Cambiare squadra?,變更成員。確定嗎？,,파티를 변경합니다. 괜찮습니까?,Deine Gruppe ändern?
+5500,,Uscire dalla stanza?,退出房間，確定嗎？,,룸에서 나갑니다. 괜찮습니까?,Den Raum verlassen?
+5501,,Rimuovere questo membro dalla stanza?,將此成員退出房間，確定嗎？,,이 멤버를 룸에서 강제 퇴장합니다. 괜찮습니까?,Dieses Mitglied aus dem Raum entfernen?
+5502,,Sei sicuro di voler inviare questo commento?,要發出此評論嗎？,,이 코멘트를 전송하겠습니까?,Diesen Kommentar wirklich senden?
+5503,,"Rimuovere le condizioni di reclutamento e lasciare la
+Tabella di Battaglia?","解除募集狀態，退出對戰。
+確定嗎？",,"모집 상태를 해제하고 대전 테이블에서 퇴장합니다.
+괜찮습니까?",Bedingungen entfernen und Kampftisch verlassen?
+5504,,Rifiutare la richiesta di battaglia dell'avversario?,拒絕對手的對戰邀請。確定嗎？,,상대의 대전 신청을 거절합니다. 괜찮습니까?,Gegnerische Kampfanfrage ablehnen?
+6000,,Installare malware?,要設置惡性軟體嗎？,,악성코드를 설치하겠습니까?,Schadsoftware installieren?
+6001,,Utilizzare il dispositivo?,要操作終端嗎？,,단말을 조작하겠습니까?,Das Gerät benutzen?
+6002,,Usare il PC?,請問要操作PC嗎？,,PC를 조작하겠습니까?,Den PC benutzen?
+6003,,Prendere il controllo dell'emblema?,要鎮壓徽章嗎？,,엠블럼을 제압하겠습니까?,Das Emblem erobern?
+6004,,Vuoi che l'ospite protegga l'emblema?,要請訪客守護徽章嗎？,,게스트에게 엠블럼의 보호를 부탁하겠습니까?,"Willst du, dass der Gast das Emblem schützt?"
+6005,,Restituire l'ospite?,要送回訪客嗎？,,게스트를 돌려보내겠습니까?,Den Gast zurückbringen?
+6006,,In attesa?,要待命嗎？,,대기하겠습니까?,Warten?
+6007,,Riprovare?,要重新嘗試嗎？,,재도전하겠습니까?,Neuer Versuch?
+6008,,Disattivare la barriera di sicurezza?,要解除安全裝置嗎？,,보안을 해제하겠습니까?,Sicherheitswall deaktivieren?
+6009,,Bevi un caffè?,要喝咖啡嗎？,,커피를 마시겠습니까?,Kaffee trinken?
+6010,,"Percepisci una potente pressione in avanti...
+Preparati e affronta la battaglia?","前方傳來強大的壓迫感……
+準備好後再前進吧。",,"이 너머에서 강한 위압감이 느껴진다…
+각오를 다지고 전투에 임하겠습니까?","Ein mächtiger Gegner wartet ...
+In den Kampf ziehen?"
+6011,,"Oltre questo punto non si torna indietro.
+Andare alla battaglia finale?","一旦前進便無法返回了。
+要邁向最後的戰鬥嗎？",,"이 앞으로 진행하면 더 이상 되돌아갈 수 없습니다.
+마지막 전투를 시작하겠습니까?","Ab hier gibt es kein Zurück mehr.
+In den letzten Kampf ziehen?"
+6012,,Andare al Laboratorio Sotterraneo di Roppongi?,要前往六本木的地下設施嗎？,,롯폰기 지하 연구시설로 가겠습니까?,Zum unterirdischen Labor in Roppongi gehen?
+6013,,Andare a EDEN?,要前往EDEN嗎？,,EDEN으로 가겠습니까?,Nach EDEN gehen?
+6014,,Fuggire annullerà il caso. Procedere?,"脫離的話，將會取消委託。
+確定嗎？",,이탈하면 의뢰가 취소됩니다. 이대로 진행하겠습니까?,"Wenn du gehst, brichst du den Fall ab. Fortfahren?"
+6015,,Salvare i dati di gioco completati?,要保存過關資料嗎？,,클리어 데이터를 저장하겠습니까?,Daten von abgeschlossenem Spiel speichern?
+6016,,Tornare alla schermata del titolo senza salvare?,不進行保存，回到標題嗎？,,저장하지 않고 타이틀로 돌아가겠습니까?,"Zurück zum Titelbildschirm, ohne zu speichern?"
+6017,,Andare all'Ospedale Centrale?,要到中央醫院去嗎？,,센트럴 병원으로 가겠습니까?,Zum Zentralkrankenhaus?
+6018,,Lasciare Abyss Server?,要離開深淵伺服器嗎？,,어비스 서버에서 나가겠습니까?,Abyss-Server verlassen?
+6019,,Combattere il leader del team nemico?,要跟敵方隊伍的隊長戰鬥嗎？,,적 팀의 리더와 싸우겠습니까?,Gegen gegnerischen Anführer kämpfen?
+6020,,Vuoi uscire da qui?,要立刻離開這裡嗎？,,이 장소에서 신속히 퇴거하겠습니까?,Willst du hier weg?
+1502,,Iniziare la storia di Cyber Sleuth?,要開始「網路偵探」的故事對嗎？,,「사이버 슬루스」의 이야기를 시작할거야?,Die Geschichte von Cyber Sleuth beginnen?
+1503,,Iniziare la storia di Hacker's Memory?,要開始「駭客追憶」的故事對嗎？,,「해커스 메모리」의 이야기를 시작할거야?,Die Geschichte von Hacker's Memory beginnen?
+1504,,Iniziare il gioco condividendo i dati da un'altra storia?,要繼承其他故事的資料，並開始遊戲嗎？,,다른 시나리오 데이터를 공유하여 게임을 시작하겠습니까?,Spiel beginnen und Geschichtsdaten übernehmen?
+1005,,Iniziare il gioco condividendo questi dati?,要繼承這資料，並開始遊戲嗎？,,이 데이터를 공유하여 게임을 시작하겠습니까?,Spiel beginnen und diese Daten übernehmen?
+1006,,Annullare la condivisione dei dati da un'altra storia?,要終止繼承其他故事的資料嗎？,,다른 시나리오 데이터의 공유를 그만두겠습니까?,Geschichtsdatenübernahme abbrechen?
+1007,,Importare dati da una partita precedente?,要自前作繼承此資料嗎？,,전작에서 이 데이터를 이어받겠습니까?,Daten aus früherem Spiel importieren?
+1008,,Quale storia vuoi giocare?,要遊玩哪個故事呢？,,어느 스토리를 플레이하겠습니까?,Welche Geschichte möchtest du spielen?
+1009,,"La sovrascrittura eliminerà i dati salvati di Hacker's Memory.
+Sei sicuro?","若保存於此，將會刪除
+「駭客追憶」的保存資料，確定嗎？",,"여기에 덮어씌우면「해커스 메모리」의
+저장 데이터가 사라집니다. 덮어씌우겠습니까?","Speicherdaten für Hacker's Memory werden durch
+Überschreiben gelöscht. Bist du sicher?"
+1010,,"Sovrascrivere cancellerà i dati di salvataggio di Cyber Sleuth.
+Sei sicuro?","若保存於此，將會刪除
+「網路偵探」的保存資料，確定嗎？",,"여기에 덮어씌우면「사이버 슬루스」의
+저장 데이터가 사라집니다. 덮어씌우겠습니까?","Speicherdaten für Cyber Sleuth werden durch
+Überschreiben gelöscht. Bist du sicher?"
+1011,,Sei proprio sicuro?,您真的確定嗎？,,정말 괜찮습니까?,Ganz sicher?
+1401,,Importare dati di salvataggio da una partita precedente?,要繼承前作的資料嗎？,,전작의 저장 데이터를 이어받겠습니까?,Speicherdaten aus früherem Spiel importieren? 
+1505,,Sei sicuro di voler usare questo nome?,確定用這名稱嗎？,,이 이름으로 진행하겠습니까?,Bist du dir mit diesem Namen sicher?
+20000,,Uscire dal gioco?,確定要退出遊戲嗎？,,게임을 종료하겠습니까?,Das Spiel abbrechen?

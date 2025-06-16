@@ -49,7 +49,7 @@ HEAD_ICON_PATH = resource_path("assets/head_icon.png")
 YT_ICON = resource_path("assets/youtube.png")
 GH_ICON = resource_path("assets/github.png")
 WEB_ICON = resource_path("assets/web.png")
-VERSIONE = "v2"
+VERSIONE = "v1.1"
 CREDITI = "Patch By SavT e Lowrentio"
 EXE_SUBFOLDER = "Digimon Story Cyber Sleuth Complete Edition/app_digister"
 
@@ -505,6 +505,7 @@ class CompletionDialog(QDialog):
         if url:
             print(f"Opening URL: {url}")
             try:
+                webbrowser.open(WEB_URL)
                 webbrowser.open(url)
                 QTimer.singleShot(2000, QApplication.instance().quit)
             except Exception as e:

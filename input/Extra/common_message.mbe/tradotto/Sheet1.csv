@@ -1,0 +1,212 @@
+ID,Japanese,English,Chinese,EnglishCensored,Korean,German
+3,,SÌ,YES,,YES,JA
+4,,NO,NO,,NO,NEIN
+1000,,NESSUN DATO,NO DATA,,NO DATA,KEINE DATEN
+1001,,Tempo di Gioco,遊戲時間,,플레이 시간,Spielzeit:　
+1002,,ore,小時,,시간, Std. 
+1003,,min,分,,분, Min.
+1200,,Gruppo,隊伍,,파티,Gruppe
+1201,,Isola Farm 1,農場島１,,팜 섬 1,Farminsel 1
+1202,,Isola Fattoria 2,農場島２,,팜 섬 2,Farminsel 2
+1203,,Isola Fattoria 3,農場島３,,팜 섬 3,Farminsel 3
+1204,,Isola Fattoria 4,農場島４,,팜 섬 4,Farminsel 4
+1205,,Isola Fattoria 5,農場島５,,팜 섬 5,Farminsel 5
+1206,,DigiBanca,數碼銀行,,디지털 뱅크,Digibank
+1207,,Non puoi andare qui.,無法移動到這裡,,여기로는 이동할 수 없습니다.,Nicht zugänglich.
+1208,,Spostati a [d0],移動到[d0],,[d0]에 이동,Nach: [d0]
+1209,,Trasferito a [d0],已移動到[d0],,[d0]에 이동했습니다.,Jetzt: [d0]
+1210,,Tasso di scansione,掃描率,,스캔율,Scanwert
+1211,,%,%,,%, %
+1212,,Non ci sono Digimon.,沒有數碼寶貝,,디지몬이 없습니다.,Kein Digimon vorhanden.
+1213,,Vuoto,Empty,,Empty,Leer
+1214,,???,？？？,,???,???
+1215,,Requisiti,必要條件,,필요조건,Anforderungen
+1216,,Livello,等級,,레벨,Level 
+1217,,o superiore,以上,,이상, oder höher
+1218,,HP MAX è,最大HP,,최대 HP가 ,Max. TP =
+1219,,SP MAX è,最大SP,,최대 SP가 ,Max. SP =
+1220,,ATT è,ATK,,공격력이 ,ANG = 
+1221,,DIF è,DEF,,방어력이 ,VER = 
+1222,,INT è,INT,,지력이 ,INT = 
+1223,,SPD è,SPD,,민첩이 ,GES = 
+1224,,ABI è,才能,,재능이 ,FÄH = 
+1225,,richiesto,必要,, 필요, erforderlich
+1226,,CAM è,友情,,우정이 ,KAM = 
+1227,,% richiesto,%必要,,% 필요, % erforderlich
+1228,,tenuto,擁有,,을(를) 가지고 있다., in Besitz
+1229,,CAM 100%,友情100%的,,우정 100%의 ,KAM 100 % 
+1230,,è tuo amico.,在同伴中,,가(이) 동료에 있다, ist Freund.
+1231,,Hai già scoperto questo Digimon.,曾見過這種數碼寶貝,,이 디지몬을 발견한 적이 있다.,Du hast dieses Digimon bereits entdeckt.
+1232,,DNA Digievoluzione Possibile!,合體進化完成！,,조그레스 진화 OK!,DNA-Digitation möglich!
+1233,,DNA Digievoluzione non possibile...,合體進化失敗．．．,,조그레스 진화 NG…,DNA-Digitation unmöglich!
+1234,,Può eseguire un Cambio di Modalità incondizionatamente.,可無條件地變更模式,,모드체인지는 무조건 할 수 있습니다.,Moduswechsel uneingeschränkt möglich.
+1235,,Le statistiche non cambieranno durante un Cambio di Mode:,即使變更模式，以下狀態也不會產生變化,,모드체인지를 해도 이하의 스테이터스는 변화하지 않습니다.,Keine Wertänderung bei Moduswechsel:
+1236,,- Livello,・等級,,* 레벨,- Level
+1237,,- Livello massimo,・最高等級,,* 최대 레벨,- Max. Level
+1238,,- ESP,・EXP,,* EXP,- EP
+1239,,- Abilità,・才能,,* 재능,- Fähigkeiten
+1240,,- Cameratismo,・友情,,* 우정,- Kameradschaft
+1241,,- Personalità,・個性,,* 개성,- Persönlichkeit
+1300,,Difficoltà,難易度,,난이도,SchwGr.
+1301,,★,★,,★,★
+1302,,completato!,已過關,,을(를) 클리어 했습니다., abgeschlossen!
+1303,,Ricompensa in denaro,報酬金,,보수금,Verdienst
+1304,,Yen,YEN,,YEN, Yen
+1305,,CSP Ottenuti,獲得CSP,,획득 CSP,CDP
+1306,,CSP,CSP,,CSP,CDP
+1307,,x,×,,x,x
+1308,,-,‐,,-,–
+1500,,Maschio,男性,,남성,Männlich
+1501,,Femmina,女性,,여성,Weiblich
+1600,,---,---,,---,–
+1601,,Da A a B,從a到b,,ㄱ∼ㄴ,A bis B
+1602,,Da C a F,從c到d,,ㄷ∼ㄸ,C bis F
+1603,,Da G a G,從e到g,,ㄹ∼ㄹ,G
+1604,,Da H a K,從h到h,,ㅁ∼ㅁ,H bis K
+1605,,Da L a L,從j到j,,ㅂ∼ㅃ,L
+1606,,Da M a M,從k到l,,ㅅ∼ㅆ,M
+1607,,Da N a P,從m到r,,ㅇ∼ㅇ,N bis P
+1608,,Da R a S,從s到t,,ㅈ∼ㅌ,R bis S
+1609,,Da T a U,從v到x,,ㅍ∼ㅍ,T bis U
+1610,,Da V a Z,從y到z,,ㅎ∼ㅎ,V bis Z
+1611,,Impossibile digievolvere ulteriormente.,無法繼續進化,,이 이상 진화할 수 없습니다.,Nicht weiter digitierbar.
+1612,,Impossibile de-digievolvere ulteriormente.,無法繼續退化,,이 이상 퇴화할 수 없습니다.,Nicht weiter de-digitierbar.
+1700,,abilità appresa!,習得技能　了！,, 스킬을 배웠다!, Fertigkeit erlernt!
+1701,,I dati di scansione sono stati inviati alla DigiFarm.,掃描數據已傳送至數碼農場。,,"스캔 데이터가
+디지팜에 전송되었습니다.",Scandaten wurden an Digifarm gesendet.
+1702,,Abilità apprese,習得技能,,가지고 있는 스킬,Neue Fertigkeit
+1703,,Abilità Perdute,捨棄技能,,삭제한 스킬,Verl. Fert.
+1704,,Spec.,必殺技,,필살기,Spez.
+1705,,Eredità.,繼承技,,승계기,Geerb.
+1706,,PS,SP,,SP,SP
+1707,,SP MAX,最大SP,,최대 SP,Max. SP
+1708,,Seleziona un'Abilità da perdere (,請選擇要捨棄的技能（尚餘,,삭제할 스킬을 선택해 주세요 (앞으로 ,Zu verlernende Fertigkeit wählen (
+1709,,).,個）,,개),).
+1710,,Inutilizzabile,無法使用,,사용불가,Unben.
+1800,,Digimon,隻,,마리, Digimon
+1801,,Casi,件,,건, Fälle
+1802,,m,分,,분, Min.
+1803,,ore,小時,,시간, Std. 
+1804,,Nessuno,無,,없음,Keiner
+1805,,Avanti,NEXT,,NEXT,Weiter
+2100,,Sì,Yes,,예,Ja
+2101,,No,No,,아니오,Nein
+2102,,EDEN,EDEN,,EDEN,EDEN
+2103,,DigiLab,數碼實驗室,,디지랩,DigiLab
+2200,,Volume Musica,BGM音量,,BGM 볼륨,Musik
+2201,,Volume effetti,SE音量,,SE 볼륨,Soundeffekte
+2202,,Volume della voce,VOICE音量,,Voice 볼륨,Dialog
+2203,,Minimappa,小地圖,,미니맵,Minikarte
+2204,,Digimon Partner,同行數碼寶貝,,데리고 다닐 디지몬,Partnerdigimon
+2205,,Cutscene di Battaglia,戰鬥演出,,배틀 연출,Kampfvideos
+2206,,Voci Digimon,數碼寶貝VOICE,,디지몬 VOICE,Digimon-Stimmen
+2207,,Ripristina Impostazioni Predefinite,回復初始設定,,초기 설정으로 돌아간다,Standardeinstellungen
+2208,,Applica Impostazioni,套用,,설정을 반영한다,Einstellungen anwenden
+2209,,0%,0%,,0%,0 %
+2210,,10%,10%,,10%,10 %
+2211,,20%,20%,,20%,20 %
+2212,,30%,30%,,30%,30 %
+2213,,40%,40%,,40%,40 %
+2214,,50%,50%,,50%,50 %
+2215,,60%,60%,,60%,60 %
+2216,,70%,70%,,70%,70 %
+2217,,80%,80%,,80%,80 %
+2218,,90%,90%,,90%,90 %
+2219,,100%,100%,,100%,100 %
+2220,,Mostra,顯示,,표시,Anzeigen
+2221,,Nascondi,不顯示,,비표시,Verberg.
+2222,,Normale,一般,,통상,Normal
+2223,,Breve,簡略,,단축,Kurz
+2224,,Acceso,ON,,ON,An
+2225,,Spento,OFF,,OFF,Aus
+2500,,Rispondi,回覆,,회신한다,Antwort
+2501,,Rispose,已回覆,,회신 완료,Beantw.
+2502,,Seleziona una risposta.,請選擇回覆內容,,회신 내용을 선택해 주세요,Wähle eine Antwort aus.
+2800,,Completamento (N.,解鎖狀況（No.,,컴플리트 상황 (NO.,Fortschritt (Nr. 
+2801,,-,～,,~,–
+2802,,):,）：,,):,): 
+2803,,/ ,／,,/ ,/ 
+2900,,Posizione #{rank}   {rating} Punti,{rank}名　　{rating}Pt,,{rank}위　　{rating}Pt,Rang {rank}   {rating} Pkt.
+2901,,{rating} Punti (+{point}),{rating}Pt（＋{point}）,,{rating}Pt（＋{point}）,{rating} Pkt. (+{point})
+2902,,{rating} Punti,{rating}Pt,,{rating}Pt,{rating} Pkt.
+2226,,Difficoltà Battaglia,戰鬥難易度,,배틀 난이도,Kampfniveau
+2227,,Normale,NORMAL,,노멀,Normal
+2228,,Difficile,HARD,,하드,Schwer
+2229,,Molto Difficile,VERY HARD,,베리 하드,Extrem
+2230,,Inizia con queste impostazioni,以此設定開始,,이 설정으로 시작한다,Einstellungen übernehmen
+3100,,AVANTI,NEXT,,NEXT,Lv. UP
+3200,,Liv.,Lv,,Lv,Lv.
+3201,,PS Massimi,最大HP,,최대HP,Max. TP
+3202,,SP Massimi,最大SP,,최대SP,Max. SP
+3203,,ATT,ATK,,공격력,ANG
+3204,,DIF,DEF,,방어력,VER
+3205,,INT,INT,,지력,INT
+3206,,VEL,SPD,,민첩,GES
+3207,,Chiudi,關閉,,닫는다,Schließen
+3208,,Impostazioni,設定,,세팅,Einstellungen
+3300,,Vuoto,Empty,,Empty,Leer
+3400,,Vuoto,Empty,,Empty,Leer
+3500,,Progressione Attuale,現在的進行狀況,,현재 진행상황,Aktueller Fortschritt
+3501,,Dati di archiviazione online,網路硬碟的資料,,온라인 스토리지의 데이터,Online-Speicherdaten
+3502,,Nintendo Switch™,Nintendo Switch™,,Nintendo Switch™,Nintendo Switch™
+3503,,Nintendo Switch™,Nintendo Switch™,,Nintendo Switch™,Nintendo Switch™
+3504,,Non acquisito,未取得,,미취득,Nicht erhalten
+3505,,Nessun Dato,NO DATA,,NO DATA,Keine Daten
+3506,,Danneggiato,已破損,,파손되어 있습니다.,Beschädigt
+3507,,Versione Differente,版本不一致,,버전이 다릅니다.,Andere Version
+3508,,Data dell'aggiornamento: [d3]:[d4] [d1]/[d2]/[d0],更新日期與時間　[d0]/[d1]/[d2]　[d3]：[d4],,갱신날짜 [d0]/[d1]/[d2]　[d3]：[d4],Updatedatum: [d2].[d1].[d0] [d3]:[d4]
+3509,,Tempo di gioco: [n0] min,遊戲時間　[n0]分,,플레이 시간 [n0]분,Spielzeit: [n0] Min.
+3510,,Tempo di gioco: [n0] ore [n1] minuti,遊戲時間　[n0]小時[n1]分,,플레이 시간 [n0]시간 [n1]분,Spielzeit: [n0] Std. [n1] Min.
+3511,,Connettiti a Internet.,與網路連接,,인터넷에 접속 중입니다.,Mit dem Internet verbinden.
+3512,,Caricare i dati?,將上傳資料，確定繼續？,,데이터를 업로드합니다. 괜찮습니까?,Daten hochladen?
+3513,,Caricamento in corso...,上傳中,,업로드 중,Hochladen ...
+3514,,Caricamento fallito. Riprovare?,上傳失敗，是否重新嘗試？,,업로드에 실패했습니다. 재시도하겠습니까?,Hochladen fehlgeschlagen. Erneut versuchen?
+3515,,Upload completato.,上傳成功,,업로드가 완료되었습니다.,Hochladen abgeschlossen.
+3516,,Iniziare il gioco usando i dati scaricati?,將以下載資料開始遊戲，確定繼續？,,다운로드한 데이터로 게임을 시작합니다. 괜찮으십니까?,Spiel mit heruntergeladenen Daten beginnen?
+3517,,Sì,Yes,,예,Ja
+3518,,No,No,,아니오,Nein
+3519,,OK,ＯＫ,,OK,OKAY
+10000,,Digimon Story: Cyber Sleuth - Hacker's Memory,數碼寶貝物語 網路偵探,,디지몬 스토리 사이버 슬루스,Digimon Story: Cyber Sleuth - Hacker's Memory
+10001,,Digimon Story: Cyber Sleuth,數碼寶貝物語 網路偵探,,디지몬 스토리 사이버 슬루스,DIGIMON STORY CYBER SLEUTH
+4000,,．,…,,．,．
+4001,,　,　,,　,　
+3520,,: ,　,,: ,: 
+3521,,Importare dati da una partita precedente?,要自前作繼承此資料嗎？,,이 데이터를 전작으로부터 이어받겠습니까?,Daten aus früherem Spiel importieren?
+1242,,Cyber Sleuth,網路偵探,,사이버 슬루스,Cyber Sleuth
+1243,,Hacker's Memory,駭客追憶,,해커스 메모리,Hacker's Memory
+1244,,Invia a [d0],發送給[d0],,[d0]로 보낸다,An [d0] schicken
+4100,,Min.,分,,분,Min.
+4101,,Ore,時,,시간,Std.
+4102,,Giorni,日,,일,Tage
+1004,,capitolo,chapter,,chapter,Kapitel
+4103,,Digimon nella squadra,隊伍數碼寶貝,,파티 디지몬,Digimongruppe
+2903,,"Grado #{rank}   {rating} Punti (+{point})
+Monete: +{coin}","{rank}名　{rating}Pt（＋{point}）
+獲得硬幣：＋{coin}　",,"{rank}위　{rating}Pt(+{point})
+획득 코인 : +{coin}　","Rang {rank}   {rating} Pkt. (+{point})
+Münzen: +{coin}"
+2904,,"Grado #{rank}   {rating} Punti (-{point})
+Monete: +{coin}","{rank}名　{rating}Pt（＋{point}）
+獲得硬幣：＋{coin}　",,"{rank}위　{rating}Pt(-{point})
+획득 코인 : +{coin}　","Rang {rank}   {rating} Pkt. (-{point})
+Münzen: +{coin}"
+2905,,"Grado #{rank}   {rating} Punti
+Monete: +{coin}","{rank}名　{rating}Pt
+獲得硬幣：＋{coin}　",,"{rank}위　{rating}Pt
+획득 코인 : +{coin}　","Rang {rank}   {rating} Pkt.
+Münzen: +{coin}"
+5000,,,,,,
+4200,,Punti Hacker,駭客點數,,해커 포인트,Hackerpunkte
+4201,,"""[d0]"" completato.",已達成「[d0]」的委託,,「[d0]」의 의뢰를 달성했습니다.,„[d0]“ abgeschlossen.
+4300,,file[d0],file[d0],,file[d0],Datei [d0]
+3522,,Inizia una partita con i dati scaricati. Seleziona una storia.,"以下載資料開始遊戲。
+請選擇故事。",,"다운로드한 데이터로 게임을 시작합니다.
+시나리오를 선택해 주세요.",Spiel mit heruntergeladenen Daten starten. Bitte wähl eine Geschichte.
+2231,,Solo Uno Spettacolo,只顯示一個,,한 마리만 표시,Nur 1 zeigen
+2232,,Suono personalizzato,自訂音效,,커스텀 사운드,Indiv. Sound
+2906,,#[n0],第[n0]名,,[n0]위,Nr. [n0]
+3000,,Riprova,重新嘗試,,재도전,Neuer Versuch
+3001,,Torna al titolo,返回標題,,타이틀로 돌아간다,Zum Hauptmenü
+2251,,Accordo sull'Utilizzo dei Dati,關於使用資料同意,,데이터 사용에 관한 동의,Datennutzungsrichtlinie
+2252,,Accetta,接受,,수락한다,Akzeptieren
+2253,,Non accettare,不接受,,수락하지 않는다,Nicht akzeptieren
