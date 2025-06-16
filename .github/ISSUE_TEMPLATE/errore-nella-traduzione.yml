@@ -44,7 +44,7 @@ body:
     validations:
       required: true
 
- - type: dropdown
+  - type: dropdown
     id: versione-patch
     attributes:
       label: Versione Patch
