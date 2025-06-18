@@ -70,7 +70,7 @@ ID,Japanese,English,Chinese,EnglishCensored,Korean,German
 ・Aktionsreihenfolge umgekehrt"
 7,,"・Nessuna restrizione di livello/potenziamenti non validi
 ・Memoria massima 50
-・Forma una squadra di soli Digimon di livello Mega o inferiore
+・Forma una squadra di soli Digimon di livello Ultra o inferiore
 ・Digimon duplicati non permessi nella squadra","．等級無限制／強化值無效
 ．隊伍容量50以內
 ．僅能使用完全體以下數碼寶貝
@@ -95,8 +95,8 @@ ID,Japanese,English,Chinese,EnglishCensored,Korean,German
 ・Grundwerte für Datei-Digimon +50 %
 ・Phys. Schaden +100 %, mag. Schaden –50 %"
 9,,"・Livello 50 fisso/potenziamenti non validi
-・PS e PM Recluta +50% ・Mem. max. 30
-・Statistiche base +200% per Digimon Recluta
+・PS e PM Intermedio +50% ・Mem. max. 30
+・Statistiche base +200% per Digimon Intermedio
 ・Digimon duplicati non permessi nel party","．等級固定在50／強化值無效．隊伍容量30以內
 ．成長期數碼寶貝HP、SP提昇50%
 ．成長期數碼寶貝基本屬性強化200%
