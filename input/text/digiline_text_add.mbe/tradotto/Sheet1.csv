@@ -3629,7 +3629,7 @@ Trainieren"
 10224,,Coltello,菜刀,,식칼이네,Messer
 10225,,Ouryuken,王龍劍,,왕룡검이잖아,Ouryuken
 10226,,Arcadiamon (in formazione),阿卡迪獸幼年期？,,알카디몬 유년기?,Ausbildungs-Arkadimon
-10227,,Arcadiamon (Principiante),我想是阿卡迪獸成長期,,알카디몬 성장기였을 거야,Rookie-Arkadimon
+10227,,Arcadiamon (Intermedio),我想是阿卡迪獸成長期,,알카디몬 성장기였을 거야,Rookie-Arkadimon
 10228,,Arcadiamon (Campione),不是阿卡迪獸成熟期嗎？,,알카디몬 성숙기 아니야?,Champion-Arkadimon
 10229,,Matrice di punti,點陣,,신,Pixel-Matrix
 10230,,Matrice di Dio,神之,,갓,Gottesmatrix
@@ -3891,7 +3891,7 @@ corretto! È un Digimon fantasma.","答對了答對了！　是「死神獸」�
 死神獸是鬼魂型喔！",,"정답!「팬텀몬」이야.
 팬텀몬은 고스트형이야","„Phantomon“ ist richtig!
 Es ist ein Geist-Digimon."
-11041,,"Rookie ""Renamon"" ha
+11041,,"Intermedio ""Renamon"" ha
 ragione! Sei fantastico!","答對了答對了！　是成長期的「妖狐獸」喔
 你好厲害喔！",,"정답! 성장기인「레나몬」이야.
 너는 역시 굉장해!","„Rookie-Renamon“ ist richtig!
@@ -4053,7 +4053,7 @@ Du bist fantastisch!"
 11075,,"""Axe"" è corretto! Sei fantastico!","答對了答對了！　是「斧頭」喔
 你好厲害喔！",,"정답!「도끼」야.
 너는 역시 굉장해!",„Axt“ ist richtig! Du bist fantastisch!
-11076,,"""Arcadiamon (Principiante)"" è
+11076,,"""Arcadiamon (Intermedio)"" è
 corretto! Sei fantastico!","答對了答對了！　是「阿卡迪獸成長期」喔
 你好厲害喔！",,"정답!「알카디몬 성장기」야.
 너는 역시 굉장해!","„Rookie-Arkadimon“ ist richtig!
@@ -4277,7 +4277,7 @@ corretto! È un Digimon fantasma.","「死神獸」……答對了。
 死神獸是鬼魂型",,"「팬텀몬」…정답이다.
 덧붙여서 팬텀몬은 고스트형이다.","„Phantomon“ ist richtig!
 Es ist ein Geist-Digimon."
-12041,,"""Dragomon"" principiante...
+12041,,"""Dragomon"" Intermedio...
 Esatto. Non male!",成長期的「妖狐獸」……答對了。厲害,,성장기인「레나몬」…정답이다. 제법이군.,"„Rookie-Dragomon“ ... Richtig.
 Nicht schlecht"
 12042,,"""SkullSatamon""...
@@ -4370,7 +4370,7 @@ Nicht schlecht!"
 Esatto. Niente male!",「1900年～1999年」……答對了。厲害,,「1900년~1999년」…정답이다. 제법이군.,"„1900–1999“ ... Richtig.
 Nicht schlecht!"
 12075,,"""Ascia""... Esatto. Non male!",「斧頭」……答對了。厲害,,「도끼」…정답이다. 제법이군.,„Axt“ ... Richtig. Nicht schlecht!
-12076,,"""Arcadiamon (Principiante)""...
+12076,,"""Arcadiamon (Intermedio)""...
 Esatto. Non male!",「阿卡迪獸成長期」……答對了。厲害,,「알카디몬 성장기」…정답이다. 제법이군.,"„Rookie-Arkadimon“ ... Richtig.
 Nicht schlecht!"
 12077,,"""God Matrix""...
@@ -4559,7 +4559,7 @@ risposta è ""Phantomon""! È un Digimon fantasma.","喔，答對了！　答案
 덧붙여서 팬텀몬은 고스트형이야.","Wow, das stimmt! Die Antwort ist
 „Phantomon“. Es ist ein Geist-Digimon."
 13041,,"Wow, hai
-capito! La risposta è Rookie ""Renamon""!",喔，答對了！　答案是「妖狐獸」！,,"오, 정답이군! 답은 성장기인「레나몬」이지!","Wow, das stimmt!
+capito! La risposta è ""Renamon"" Intermedio!",喔，答對了！　答案是「妖狐獸」！,,"오, 정답이군! 답은 성장기인「레나몬」이지!","Wow, das stimmt!
 Die Antwort ist „Rookie-Renamon“!"
 13042,,"Wow, hai capito! La risposta è
 ""SkullSatamon""! Porta con sé un bastone.","喔，答對了！　答案是「骷髏撒旦獸」！
@@ -4669,7 +4669,7 @@ indovinato! La risposta è ""1900 e 1999""!","喔，答對了！
 Die Antwort ist „1900–1999“!"
 13075,,"Wow, hai capito bene! La risposta è ""Ascia""!",喔，答對了！　答案是「斧頭」！,,"오, 정답이군! 답은「도끼」지!","Wow, das stimmt! Die Antwort ist „Axt“!"
 13076,,"Wow, hai
-indovinato! La risposta è ""Arcadiamon (Principiante)""!",喔，答對了！　答案是「阿卡迪獸成長期」！,,"오, 정답이군! 답은「알카디몬 성장기」지!","Wow, das stimmt!
+indovinato! La risposta è ""Arcadiamon (Intermedio)""!",喔，答對了！　答案是「阿卡迪獸成長期」！,,"오, 정답이군! 답은「알카디몬 성장기」지!","Wow, das stimmt!
 Die Antwort ist „Rookie-Arkadimon“!"
 13077,,"Wow, hai capito
 bene! La risposta è ""Dio Matrix""!",喔，答對了！　答案是「神之」！,,"오, 정답이군! 답은「갓」이지!","Wow, das stimmt!
@@ -4827,8 +4827,7 @@ Einer muss ja suchen."
 死神獸是鬼魂型",,"정답이야! 답은「팬텀몬」.
 덧붙여서 팬텀몬은 고스트형이야.","Korrekto! Die Antwort ist
 „Phantomon“. Es ist ein Geist-Digimon."
-14041,,"Corretto! La risposta è
-Rookie ""Renamon""!",答對了！　答案是「妖狐獸」！,,정답이야! 답은 성장기인「레나몬」.,"Korrekto! Die Antwort ist
+14041,,"Corretto! La risposta è ""Renamon"" Intermedio!",答對了！　答案是「妖狐獸」！,,정답이야! 답은 성장기인「레나몬」.,"Korrekto! Die Antwort ist
 „Rookie-Renamon“!"
 14042,,"Corretto! La risposta è
 ""SkullSatamon""! Porta con sé un bastone.","答對了！　答案是「骷髏撒旦獸」！
@@ -4912,7 +4911,7 @@ steigen“!"
 „1900–1999“!"
 14075,,"Corretto! La risposta è ""Ascia""!",答對了！　答案是「斧頭」！,,정답이야! 답은「」.,Korrekto! Die Antwort ist „Axt“!
 14076,,"Corretto! La risposta è
-""Arcadiamon (Principiante)""!",答對了！　答案是「阿卡迪獸成長期」！,,정답이야! 답은「알카디몬 성장기」.,"Korrekto! Die Antwort ist
+""Arcadiamon (Intermedio)""!",答對了！　答案是「阿卡迪獸成長期」！,,정답이야! 답은「알카디몬 성장기」.,"Korrekto! Die Antwort ist
 „Rookie-Arkadimon“!"
 14077,,"Corretto! La risposta
 è ""Dio Matrix""!",答對了！　答案是「神之」！,,정답이야! 답은「갓」.,"Korrekto! Die Antwort ist
@@ -5037,7 +5036,7 @@ corretto! È un Digimon fantasma.","真厲害，答對了！　答案是「死�
 死神獸是鬼魂型",,"굉장해, 맞았어!「팬텀몬」이 답이야.
 덧붙여서 팬텀몬은 고스트형이지","Wahnsinn! „Phantomon“ ist richtig!
 Es ist ein Geist-Digimon."
-15041,,"Beh, lo farò. Rookie ""Renamon"" ha ragione!",真厲害，答對了！　答案是「妖狐獸」！,,"굉장해, 맞았어! 성장기인「레나몬」이 답이야.",Wahnsinn! „Rookie-Renamon“ ist richtig!
+15041,,"Beh, lo farò. ""Renamon"" Intermedio ha ragione!",真厲害，答對了！　答案是「妖狐獸」！,,"굉장해, 맞았어! 성장기인「레나몬」이 답이야.",Wahnsinn! „Rookie-Renamon“ ist richtig!
 15042,,"Beh, lo farò. ""SkullSatamon"" è
 corretto! Porta un bastone.","真厲害，答對了！　答案是「骷髏撒旦獸」！
 骷髏撒旦獸拿的是杖",,"굉장해, 맞았어!「스컬사탄몬」이 답이야.
@@ -5113,7 +5112,7 @@ richtig!"
 答案是「1900年～1999年」！",,"굉장해, 맞았어!
 「1900년~1999년」이 답이야.",Wahnsinn! „1900–1999“ ist richtig!
 15075,,"Beh, lo farò. ""Axe"" è corretto!",真厲害，答對了！　答案是「斧頭」！,,"굉장해, 맞았어!「도끼」가 답이야.",Wahnsinn! „Axt“ ist richtig!
-15076,,"Beh, lo farò. ""Arcadiamon (Principiante)""
+15076,,"Beh, lo farò. ""Arcadiamon (Intermedio)""
 è corretto!",真厲害，答對了！　答案是「阿卡迪獸成長期」！,,"굉장해, 맞았어!
 「알카디몬 성장기」가 답이야.","Wahnsinn! „Rookie-Arkadimon“ ist
 richtig!"
@@ -5256,8 +5255,7 @@ Einer muss ja suchen."
 死神獸是鬼魂型",,"정답입니다. 답은「팬텀몬」.
 덧붙여서 팬텀몬은 고스트형입니다","Sehr gut, die Antwort ist „Phantomon“.
 Es ist ein Geist-Digimon."
-16041,,"Ben fatto, la risposta è
-Rookie ""Renamon""!",答對了。答案是「妖狐獸」。你很厲害嘛,,정답입니다. 답은 성장기인「레나몬」. 제법이군요.,"Sehr gut, die Antwort ist
+16041,,"Ben fatto, la risposta è ""Renamon"" Intermedio!",答對了。答案是「妖狐獸」。你很厲害嘛,,정답입니다. 답은 성장기인「레나몬」. 제법이군요.,"Sehr gut, die Antwort ist
 „Rookie-Renamon“!"
 16042,,"Ben fatto, la risposta è
 ""SkullSatamon""! Porta con sé un bastone.","答對了。答案是「骷髏撒旦獸」
@@ -5347,7 +5345,7 @@ steigen“!"
 „1900–1999“!"
 16075,,"Ben fatto, la risposta è ""Axe""!",答對了。答案是「斧頭」。你很厲害嘛,,정답입니다. 답은「도끼」. 제법이군요.,"Sehr gut, die Antwort ist „Axt“!"
 16076,,"Ben fatto, la risposta è
-""Arcadiamon (Principiante)""!","答對了。答案是「阿卡迪獸成長期」
+""Arcadiamon (Intermedio)""!","答對了。答案是「阿卡迪獸成長期」
 你很厲害嘛",,"정답입니다. 답은「알카디몬 성장기」.
 제법이군요","Sehr gut, die Antwort ist
 „Rookie-Arkadimon“!"
@@ -5596,8 +5594,7 @@ Viel Glück beim nächsten Mal!"
 死神獸是鬼魂型喔！",,"땡! 답은「팬텀몬」
 팬텀몬은 고스트형이야.","Schade, die Antwort ist „Phantomon“.
 Es ist ein Geist-Digimon."
-21041,,"Peccato che la risposta sia
-Rookie ""Renamon"". La prossima volta andrà meglio!","答錯了！　是成長期的「妖狐獸」
+21041,,"Peccato che la risposta sia ""Renamon"" Intermedio. La prossima volta andrà meglio!","答錯了！　是成長期的「妖狐獸」
 下次要加油喔！",,"땡! 답은 성장기인「레나몬」
 다음엔 맞추자!","Schade, die Antwort ist
 „Rookie-Renamon“. Viel Glück noch!"
@@ -5761,7 +5758,7 @@ Auguri di buona fortuna la prossima volta!","答錯了！　答案是「斧頭�
 下次要加油喔！",,땡! 답은「도끼」. 다음엔 맞추자!,"Schade, die Antwort ist „Axt“.
 Viel Glück beim nächsten Mal!"
 21076,,"Peccato che la risposta sia
-""Arcadiamon (Principiante)"". La prossima volta andrà meglio!","答錯了！　答案是「阿卡迪獸成長期」
+""Arcadiamon (Intermedio)"". La prossima volta andrà meglio!","答錯了！　答案是「阿卡迪獸成長期」
 下次要加油喔！",,"땡! 답은「알카디몬 성장기」
 다음엔 맞추자!","Schade, die Antwort ist
 „Rookie-Arkadimon“. Viel Glück noch!"
@@ -6046,8 +6043,7 @@ Pass besser auf."
 死神獸是鬼魂型",,"틀렸다. 답은「팬텀몬」
 덧붙여서 팬텀몬은 고스트형이다.","Falsch, die Antwort ist „Phantomon“.
 Das ist ein Geist-Digimon."
-22041,,"Sbagliato, la risposta è Rookie
-""Renamon"". Attenzione, ora.","答錯了。是成長期的「妖狐獸」
+22041,,"Sbagliato, la risposta è ""Renamon"" Intermedio. Attenzione, ora.","答錯了。是成長期的「妖狐獸」
 下次別答錯了",,"틀렸다. 답은 성장기인「레나몬」
 다음엔 틀리지 마라.","Falsch, die Antwort ist „Rookie-
 Renamon“. Pass besser auf."
@@ -6200,7 +6196,7 @@ Pass besser auf."
 下次別答錯了",,틀렸다. 답은「도끼」. 다음엔 틀리지 마라.,"Falsch, die Antwort ist „Axt“.
 Pass besser auf."
 22076,,"Sbagliato, la risposta è
-""Arcadiamon (Principiante)"". Attenzione, ora.","答錯了。答案是「阿卡迪獸成長期」
+""Arcadiamon (Intermedio)"". Attenzione, ora.","答錯了。答案是「阿卡迪獸成長期」
 下次別答錯了",,"틀렸다. 답은「알카디몬 성장기」
 다음엔 틀리지 마라.","Falsch, die Antwort ist
 „Rookie-Arkadimon“. Pass besser auf."
@@ -6484,8 +6480,8 @@ Versuch’s noch mal!"
 死神獸是鬼魂型",,"틀렸어. 정답은「팬텀몬」이야.
 덧붙여서 팬텀몬은 고스트형이라고","Mist, die Antwort ist „Phantomon“.
 Es ist ein Geist-Digimon."
-23041,,"Accidenti, la risposta è Rookie
-""Renamon"". Riprova!","答錯了。是成長期的「妖狐獸」
+23041,,"Accidenti, la risposta è 
+""Renamon"" Intermedio. Riprova!","答錯了。是成長期的「妖狐獸」
 下次可不要答錯啊！",,"틀렸어. 정답은 성장기인「레나몬」이야.
 다음엔 틀리지 말라구!","Mist, die Antwort ist „Rookie-Renamon“.
 Versuch’s noch mal!"
@@ -6647,7 +6643,7 @@ Versuch’s noch mal!"
 下次可不要答錯啊！",,틀렸어. 정답은「도끼」야. 다음엔 틀리지 말라구!,"Mist, die Antwort ist „Axt“.
 Versuch’s noch mal!"
 23076,,"Accidenti, la
-risposta è ""Arcadiamon (Principiante)"". Riprova!","答錯了。答案是「阿卡迪獸成長期」
+risposta è ""Arcadiamon (Intermedio)"". Riprova!","答錯了。答案是「阿卡迪獸成長期」
 下次可不要答錯啊！",,"틀렸어. 정답은「알카디몬 성장기」야.
 다음엔 틀리지 말라구!","Mist, die Antwort ist
 „Rookie-Arkadimon“. Versuch’s noch mal! "
@@ -6932,7 +6928,7 @@ Beim nächsten Mal!"
 덧붙여서 팬텀몬은 고스트형이야.","Verflixt, die Antwort ist
 „Phantomon“. Es ist ein Geist-Digimon."
 24041,,"Accidenti, la risposta è
-Rookie ""Renamon"". Il prossimo lo prenderai tu!","可惜...是成長期的「妖狐獸」
+""Renamon"" Intermedio. Il prossimo lo prenderai tu!","可惜...是成長期的「妖狐獸」
 下次要答對喔",,"유감이야… 답은 성장기인「레나몬」
 다음엔 맞추도록 해.","Verflixt, die Antwort ist
 „Rookie-Renamon“. Beim nächsten Mal!"
@@ -7095,7 +7091,7 @@ Il prossimo ti aspetta!","可惜...答案是「斧頭」
 下次要答對喔",,유감이야… 답은「도끼」. 다음엔 맞추도록 해.,"Verflixt, die Antwort ist „Axt“.
 Beim nächsten Mal!"
 24076,,"Accidenti, la risposta è
-""Arcadiamon (Principiante)"". Il prossimo lo prenderai tu!","可惜...答案是「阿卡迪獸成長期」
+""Arcadiamon (Intermedio)"". Il prossimo lo prenderai tu!","可惜...答案是「阿卡迪獸成長期」
 下次要答對喔",,"유감이야… 답은「알카디몬 성장기」
 다음엔 맞추도록 해.","Verflixt, die Antwort ist
 „Rookie-Arkadimon“. Beim nächsten Mal!"
@@ -7397,7 +7393,7 @@ du liegst also falsch."
 死神獸是鬼魂型",,"답은「팬텀몬」이니까 틀렸어.
 덧붙여서 팬텀몬은 고스트형이야","Die Antwort ist „Phantomon“.
 Es ist ein Geist-Digimon."
-25041,,"La risposta è Rookie ""Renamon"",
+25041,,"La risposta è ""Renamon"" Intermedio,
 quindi questa volta ti sbagli.","可惜...是成長期的「妖狐獸」，你答錯了喔
 下次要答對喔",,"답은 성장기인「레나몬」이니까 틀렸어.
 다음엔 맞춰줘.","Die Antwort ist „Rookie-Renamon“,
@@ -7566,7 +7562,7 @@ quindi questa volta ti sbagli.","答案是「斧頭」，你答錯了喔
 下次要答對喔",,"답은「도끼」니까 틀렸어.
 다음엔 맞춰줘.","Die Antwort ist „Axt“,
 du liegst also falsch."
-25076,,"La risposta è ""Arcadiamon (Principiante)"",
+25076,,"La risposta è ""Arcadiamon (Intermedio)"",
 quindi questa volta ti sbagli.","答案是「阿卡迪獸成長期」，你答錯了喔
 下次要答對喔",,"답은「알카디몬 성장기」니까 틀렸어.
 다음엔 맞춰줘.","Die Antwort ist „Rookie-Arkadimon“,
@@ -7888,7 +7884,7 @@ Probier’s noch mal."
 덧붙여서 팬텀몬은 고스트형입니다.","Negativ. Die Antwort ist
 „Phantomon“. Es ist ein Geist-Digimon."
 26041,,"Sbagliato. La
-risposta è Rookie ""Renamon"". Riprova.","答錯了。是成長期的「妖狐獸」
+risposta è ""Renamon"" Intermedio. Riprova.","答錯了。是成長期的「妖狐獸」
 下次請答對",,"틀렸습니다. 답은 성장기인「레나몬」
 다음에는 맞춰주세요.","Negativ. Die Antwort ist
 „Rookie-Renamon“. Probier’s noch mal."
@@ -8063,7 +8059,7 @@ Fai un altro tentativo.","答錯了。答案是「斧頭」
 다음에는 맞춰주세요.","Negativ. Die Antwort ist „Axt“.
 Probier’s noch mal."
 26076,,"Sbagliato. La risposta
-è ""Arcadiamon (Principiante)"". Riprova.","答錯了。答案是「阿卡迪獸成長期」
+è ""Arcadiamon (Intermedio)"". Riprova.","答錯了。答案是「阿卡迪獸成長期」
 下次請答對",,"틀렸습니다. 답은「알카디몬 성장기」
 다음에는 맞춰주세요.","Negativ. Die Antwort ist
 „Rookie-Arkadimon“. Probier’s noch mal."

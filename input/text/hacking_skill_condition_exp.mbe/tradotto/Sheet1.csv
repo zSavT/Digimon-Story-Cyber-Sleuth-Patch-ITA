@@ -2,7 +2,7 @@ ID,Japanese,English,Chinese,EnglishCensored,Korean,German
 1,,C'è almeno un Digimon.,需要1隻以上的數碼寶貝,,디지몬이 1마리 이상 필요하다.,"Mindestens ein Digimon in der
 Gruppe."
 2,,"Ci sono quattro o più Digimon
-che sono Rookie o superiori.","需要4隻以上
+che sono Intermedio o superiori.","需要4隻以上
 世代為「成長期」以上的數碼寶貝",,"세대가「성장기」이상인 디지몬이
 4마리 이상 필요하다.","Mindestens vier Digimon auf
 Rookie-Stufe oder höher."
@@ -46,7 +46,7 @@ che sono Mega o superiori.","需要5隻以上
 Mega-Stufe oder höher."
 13,,C'è un Digimon di Tipo Libero.,需要種族為「自由種」的數碼寶貝,,종족이「프리」인 디지몬이 필요하다.,Ein Digimon vom Freien Typ.
 14,,"C'è un Digimon di tipo Libero
-che è Recluta o superiore.","需要種族為「自由種」
+che è Intermedio o superiore.","需要種族為「自由種」
 並為「成長期」以上的數碼寶貝",,"종족이「프리」이며「성장기」이상인 
 디지몬이 필요하다.","Ein Digimon vom Freien Typ
 auf Rookie-Stufe oder höher."
@@ -68,7 +68,7 @@ Champion-St. oder höher."
 디지몬이 필요하다.","Besitze ein Datei-Digimon auf
 Champion-St. oder höher."
 19,,"Avere un Digimon libero a
-livello Campione o superiore.","有「自由種」且「成熟期」
+livello Intermedio o superiore.","有「自由種」且「成熟期」
 以上的數碼寶貝",,"종족이「프리」고「성숙기」이상인
 디지몬이 필요하다.","Besitze ein Freies Digimon auf
 Rookie-Stufe oder höher."
