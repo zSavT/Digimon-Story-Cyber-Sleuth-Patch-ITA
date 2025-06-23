@@ -85,15 +85,18 @@ Digimon combattenti e ripristina 100 HP.","解除全體戰鬥成員的異常狀�
 並回復100HP",,"배틀 멤버 전체의 상태이상을 해제하고
 HP를 100 회복한다.","Heilt alle Verbündeten von Statusleiden
 und stellt 100 TP wieder her."
-23,,Rianima un alleato con il 50% degli HP massimi.,"回復我方單體的無法戰鬥狀態
+23,,"Rianima un alleato con 
+il 50% degli HP massimi.","回復我方單體的無法戰鬥狀態
 並回復50%HP",,"아군 1마리의 전투불능을 회복하고
 HP를 50% 회복한다.","Belebt einen Verbündeten mit 50 % der
 maximalen TP wieder."
-24,,Riporta in vita un alleato con HP al massimo.,"回復我方單體的無法戰鬥狀態
+24,,"Riporta in vita un alleato 
+con HP al massimo.","回復我方單體的無法戰鬥狀態
 並回復所有HP",,"아군 1마리의 전투불능을 회복하고
 HP를 완전 회복한다.","Belebt einen Verbündeten mit vollen TP
 wieder."
-25,,Riporta in vita tutti i Digimon combattenti con HP al massimo.,"回復全體戰鬥成員的無法戰鬥狀態
+25,,"Riporta in vita tutti i Digimon 
+combattenti con HP al massimo.","回復全體戰鬥成員的無法戰鬥狀態
 並回復所有HP",,"배틀 멤버 전체의 전투불능을 회복하고
 HP를 완전 회복한다.","Belebt alle Digimon mit vollen TP
 wieder."
@@ -117,7 +120,8 @@ per 5 turni in battaglia.","戰鬥時，使我方單體的
 SPD提升20% 5回合。",,"배틀 시 5턴 동안
 아군 1마리의 민첩이 20% 상승한다.","Erhöht GES eines Verbündeten im Kampf
 5 Züge lang um 20 %."
-30,,Aumenta l'ACU di un alleato del 20% per 5 turni in battaglia.,"戰鬥時，使我方單體的
+30,,"Aumenta l'ACU di un alleato 
+del 20% per 5 turni in battaglia.","戰鬥時，使我方單體的
 ACU提升20% 5回合。",,"배틀 시 5턴 동안
 아군 1마리의 명중률이 20% 상승한다.","Erhöht GEN eines Verbündeten im Kampf
 5 Züge lang um 20 %."
@@ -139,9 +143,11 @@ CRT提升20% 5回合。",,"배틀 시 5턴 동안 아군 1마리의
 54,,+40.000 ESP per un Digimon,單體數碼寶貝+40000 EXP,,디지몬 1마리에 +40000EXP,+40.000 EP für ein Digimon
 55,,Aumenta la CAM del 10.,友情值提升10,,우정치를 10 상승시킨다.,Erhöht KAM um 10.
 56,,Aumenta la CAM del 25.,友情值提升25,,우정치를 25 상승시킨다.,Erhöht KAM um 25.
-57,,Può essere utilizzato per tornare immediatamente alla tua base.,可以在一瞬間回到據點入口,,순식간에 거점으로 돌아갈 수 있다.,"Damit kannst du sofort zum Unterschlupf
+57,,"Può essere utilizzato per tornare 
+immediatamente alla tua base.",可以在一瞬間回到據點入口,,순식간에 거점으로 돌아갈 수 있다.,"Damit kannst du sofort zum Unterschlupf
 zurückkehren."
-58,,Riporta immediatamente il gruppo all'entrata del dungeon.,瞬間返回迷宮的入口,,순식간에 던전 입구로 돌아간다.,"Bringt die Gruppe zum Dungeon-Eingang
+58,,"Riporta immediatamente il 
+gruppo all'entrata del dungeon.",瞬間返回迷宮的入口,,순식간에 던전 입구로 돌아간다.,"Bringt die Gruppe zum Dungeon-Eingang
 zurück."
 60,,"Un Digi-Uovo inciso con uno stemma
 coraggioso.",刻有勇氣徽章的數碼裝甲,,용기의 문장이 새겨진 디지멘탈,"Ein Digi-Ei, in das ein Tapferkeitswappen
@@ -251,7 +257,8 @@ den maximalen Gruppenspeicher um 10."
 „Entwickler“."
 107,,Cambia la personalità del Digimon in Cercatore.,將單體數碼寶貝的個性變更為調查型,,디지몬 1마리의 개성을 조사형으로 바꾼다.,"Verändert die Digimon-Persönlichkeit zu
 „Sucher“."
-110,,Riduce leggermente gli HP massimi aumentati di un Digimon.,"稍微降低單體數碼寶貝
+110,,"Riduce leggermente gli HP 
+massimi aumentati di un Digimon.","稍微降低單體數碼寶貝
 強化後的最大HP",,"디지몬 1마리의
 강화한 최대 HP를 약간 떨어뜨린다.","Reduziert leicht die erhöhten max. TP
 eines Digimon."
@@ -280,7 +287,8 @@ potenziati di un Digimon.","大幅降低單體數碼寶貝
 強化後的最大SP",,"디지몬 1마리의
 강화한 최대 SP를 크게 떨어뜨린다.","Reduziert deutlich die erhöhten max. SP
 eines Digimon."
-116,,Riduce leggermente l'ATK potenziato di un Digimon.,"稍微降低單體數碼寶貝
+116,,"Riduce leggermente l'ATK 
+potenziato di un Digimon.","稍微降低單體數碼寶貝
 強化後的ATK",,"디지몬 1마리의
 강화한 공격력을 약간 떨어뜨린다.","Reduziert leicht den erhöhten ANG-Wert
 eines Digimon."
@@ -294,7 +302,8 @@ ATT potenziato di un Digimon.","大幅降低單體數碼寶貝
 強化後的ATK",,"디지몬 1마리의
 강화한 공격력을 크게 떨어뜨린다.","Reduziert deutlich den erhöhten ANG-Wert
 eines Digimon."
-119,,Riduce leggermente la DIF potenziata di un Digimon.,"稍微降低單體數碼寶貝
+119,,"Riduce leggermente la DIF 
+potenziata di un Digimon.","稍微降低單體數碼寶貝
 強化後的DEF",,"디지몬 1마리의
 강화한 방어력을 약간 떨어뜨린다.","Reduziert den erhöhten VER-Wert
 eines Digimon."
@@ -303,23 +312,28 @@ di un Digimon.","降低單體數碼寶貝
 強化後的DEF",,"디지몬 1마리의
 강화한 방어력을 떨어뜨린다.","Reduziert deutlich den erhöhten VER-Wert
 eines Digimon."
-121,,Riduce notevolmente la DIF potenziata di un Digimon.,"大幅降低單體數碼寶貝
+121,,"Riduce notevolmente la DIF 
+potenziata di un Digimon.","大幅降低單體數碼寶貝
 強化後的DEF",,"디지몬 1마리의
 강화한 방어력을 크게 떨어뜨린다.","Reduziert deutlich den erhöhten VER-Wert
 eines Digimon."
-122,,Riduce leggermente l'INT potenziata di un Digimon.,"稍微降低單體數碼寶貝
+122,,"Riduce leggermente l'INT 
+potenziata di un Digimon.","稍微降低單體數碼寶貝
 強化後的INT",,"디지몬 1마리의
 강화한 지력을 약간 떨어뜨린다.","Reduziert leicht den erhöhten INT-Wert
 eines Digimon."
-123,,Riduce l'INT potenziata di un Digimon.,"降低單體數碼寶貝
+123,,"Riduce l'INT potenziata 
+di un Digimon.","降低單體數碼寶貝
 強化後的INT",,"디지몬 1마리의
 강화한 지력을 떨어뜨린다.","Reduziert den erhöhten INT-Wert
 eines Digimon."
-124,,Riduce notevolmente l'INT potenziata di un Digimon.,"大幅降低單體數碼寶貝
+124,,"Riduce notevolmente l'INT 
+potenziata di un Digimon.","大幅降低單體數碼寶貝
 強化後的INT",,"디지몬 1마리의
 강화한 지력을 크게 떨어뜨린다.","Reduziert deutlich den erhöhten INT-Wert
 eines Digimon."
-125,,Riduce leggermente la SPD potenziata di un Digimon.,"稍微降低單體數碼寶貝
+125,,"Riduce leggermente la SPD 
+potenziata di un Digimon.","稍微降低單體數碼寶貝
 強化後的SPD",,"디지몬 1마리의
 강화한 민첩을 약간 떨어뜨린다.","Reduziert leicht den erhöhten GES-Wert
 eines Digimon."
@@ -328,7 +342,8 @@ di un Digimon.","降低單體數碼寶貝
 強化後的SPD",,"디지몬 1마리의
 강화한 민첩을 떨어뜨린다.","Reduziert den erhöhten GES-Wert
 eines Digimon."
-127,,Riduce notevolmente la SPD potenziata di un Digimon.,"大幅降低單體數碼寶貝
+127,,"Riduce notevolmente la SPD 
+potenziata di un Digimon.","大幅降低單體數碼寶貝
 強化後的SPD",,"디지몬 1마리의
 강화한 민첩을 크게 떨어뜨린다.","Reduziert deutlich den erhöhten GES-Wert
 eines Digimon."
@@ -989,43 +1004,53 @@ penetrante DIF/INT. /Equipaggiamento","DEF．INT貫穿損傷減少100%
 ／裝備",,"방어/지력 관통 대미지 100% 감소
 /장비품","Reduziert VER-/INT-durchdringenden
 Schaden um 100 %. /Ausrüstung"
-403,,Riduce del 30% i danni che penetrano DEF/INT. /Equipaggiamento,"DEF．INT貫穿損傷減少30%
+403,,"Riduce del 30% i danni che penetrano 
+DEF/INT. /Equipaggiamento","DEF．INT貫穿損傷減少30%
 ／裝備",,"방어/지력 관통 대미지 30% 감소
 /장비품","Reduziert VER-/INT-durchdringenden
 Schaden um 30 %. /Ausrüstung"
-501,,Aumenta l'ESP per i Digimon di attributo Fuoco. /Oggetti Fattoria,"增加火屬性數碼寶貝獲得的EXP
+501,,"Aumenta l'ESP per i Digimon di 
+attributo Fuoco. /Oggetti Fattoria","增加火屬性數碼寶貝獲得的EXP
 ／農場道具",,"불속성 디지몬의 획득 EXP 증가
 /팜 굿즈","Erhöht EP für Feuer-Digimon.
 /Farmprodukte"
-502,,Aumenta l'ESP per Digimon con attributo Acqua. /Oggetti Fattoria,"增加水屬性數碼寶貝獲得的EXP
+502,,"Aumenta l'ESP per Digimon con 
+attributo Acqua. /Oggetti Fattoria","增加水屬性數碼寶貝獲得的EXP
 ／農場道具",,"물속성 디지몬의 획득 EXP 증가
 /팜 굿즈","Erhöht EP für Wasser-Digimon.
 /Farmprodukte"
-503,,Aumenta l'ESP per i Digimon di attributo Plant. /Oggetti della Fattoria,"增加木屬性數碼寶貝獲得的EXP
+503,,"Aumenta l'ESP per i Digimon di 
+attributo Pianta. /Oggetti della Fattoria","增加木屬性數碼寶貝獲得的EXP
 ／農場道具",,"풀속성 디지몬의 획득 EXP 증가
 /팜 굿즈","Erhöht EP für Pflanzen-Digimon.
 /Farmprodukte"
-504,,Aumenta l'ESP per i Digimon di attributo Terra. /Oggetti Fattoria,"增加土屬性數碼寶貝獲得的EXP
+504,,"Aumenta l'ESP per i Digimon di 
+attributo Terra. /Oggetti Fattoria","增加土屬性數碼寶貝獲得的EXP
 ／農場道具",,"땅속성 디지몬의 획득 EXP 증가
 /팜 굿즈","Erhöht EP für Erd-Digimon.
 /Farmprodukte"
-505,,Aumenta l'EXP per i Digimon di attributo Electric. /Beni della Fattoria,"增加雷屬性數碼寶貝獲得的EXP
+505,,"Aumenta l'EXP per i Digimon di 
+attributo Elettrico. /Beni della Fattoria","增加雷屬性數碼寶貝獲得的EXP
 ／農場道具",,"전기속성 디지몬의 획득 EXP 증가
 /팜 굿즈","Erhöht EP für Elektro-Digimon.
 /Farmprodukte"
-506,,Aumenta l'ESP per Digimon di attributo Vento. /Merci della Fattoria,"增加風屬性數碼寶貝獲得的EXP
+506,,"Aumenta l'ESP per Digimon di 
+attributo Vento. /Merci della Fattoria","增加風屬性數碼寶貝獲得的EXP
 ／農場道具",,"바람속성 디지몬의 획득 EXP 증가
 /팜 굿즈","Erhöht EP für Wind-Digimon.
 /Farmprodukte"
-507,,Aumenta l'ESP per i Digimon di attributo Luce. /Beni del DigiFarm,"增加光屬性數碼寶貝獲得的EXP
+507,,"Aumenta l'ESP per i Digimon di 
+attributo Luce. /Beni del DigiFarm","增加光屬性數碼寶貝獲得的EXP
 ／農場道具",,"빛속성 디지몬의 획득 EXP 증가
 /팜 굿즈","Erhöht EP für Licht-Digimon.
 /Farmprodukte"
-508,,Aumenta l'ESP per Digimon di attributo Dark. /Beni della Farm,"增加闇屬性數碼寶貝獲得的EXP
+508,,"Aumenta l'ESP per Digimon di 
+attributo Dark. /Beni della Farm","增加闇屬性數碼寶貝獲得的EXP
 ／農場道具",,"어둠속성 디지몬의 획득 EXP 증가
 /팜 굿즈","Erhöht EP für Dunkelheit-Digimon.
 /Farmprodukte"
-509,,Aumenta l'ESP per Digimon di attributo Neutrale. /Oggetti della Fattoria,"增加無屬性數碼寶貝獲得的EXP
+509,,"Aumenta l'ESP per Digimon di 
+attributo Neutrale. /Oggetti della Fattoria","增加無屬性數碼寶貝獲得的EXP
 ／農場道具",,"무속성 디지몬의 획득 EXP 증가
 /팜 굿즈","Erhöht EP für Neutral-Digimon.
 /Farmprodukte"
@@ -1049,7 +1074,8 @@ tramite allenamento. /Oggetti Fattoria","稍微增加在特訓中強化最大SP�
 ／農場道具",,"특훈의 최대 SP가 강화될 때
 강화치가 약간 증가 /팜 굿즈","Erhöht leicht die Max.-SP-Steigerung
 durch Training. /Farmprodukte"
-524,,Aumenta leggermente l'ATT potenziato tramite allenamento. /Oggetti della Farm,"稍微增加在特訓中強化ATK時的數值
+524,,"Aumenta leggermente l'ATT potenziato 
+tramite allenamento. /Oggetti della Farm","稍微增加在特訓中強化ATK時的數值
 ／農場道具",,"특훈의 공격력이 강화될 때
 강화치가 약간 증가 /팜 굿즈","Erhöht leicht die ANG-Steigerung
 durch Training. /Farmprodukte"
@@ -1133,7 +1159,8 @@ foto di fiori.","帥氣男子的手機
 手機裡滿滿地都是花的圖片",,"잘생긴 남자의 핸드폰
 속에는 꽃 그림 파일로 가득하다.","Das Handy des heißen Typen ist voller
 Blumenfotos."
-602,,Una scheda di un membro dell'Associazione di Boxe. C'è un URL sopra.,"拳擊協會人員遞給自己的名片
+602,,"Una scheda di un membro 
+dell'Associazione di Boxe. C'è un URL sopra.","拳擊協會人員遞給自己的名片
 印有拳擊協會官方網站的URL",,"복싱 협회 사람이 준 명함
 협회 HP의 URL이 기재되어 있다.","Eine Karte eines Mitgliedes vom
 Boxverband. Darauf steht eine URL."
@@ -1298,7 +1325,8 @@ Was passiert, wenn du sie alle sammelst?"
 是杏子創作活動時的材料",,"질 좋은 향이 감도는 커피콩
 쿄코의 창작활동 소재.","Diese Kaffeebohnen duften fantastisch.
 Sie sind eine Zutat für Kyokos Arbeit."
-652,,Prova di essere un membro degli hacker Zaxon. Può essere equipaggiato come parte avatar.,"駭客集團Zaxon成員的證明
+652,,"Prova di essere un membro degli hacker 
+Zaxon. Può essere equipaggiato come parte avatar.","駭客集團Zaxon成員的證明
 可以做為化身用的裝備",,"해커팀 잭슨의 일원이라는 증거.
 아바타 파츠로 장착 가능.","Beweis für die Mitgliedschaft bei Zaxon.
 Kann vom Avatar getragen werden."
@@ -1432,7 +1460,8 @@ ricordano un Cyber Sleuth. /Costume","以◎符號的電腦偵探為印象的T-S
 ／換裝道具",,"◎인장으로 전뇌탐정을 이미지한 티셔츠
  /코스튬","T-Shirt mit Kreissymbolen, die an einen
 Cyber-Detektiv erinnern. /Kostüm"
-808,,T-shirt traboccante dell'amore di Nokia verso i Digimon. /Costume,"能感受到滿滿對數碼寶貝的愛，
+808,,"T-shirt traboccante dell'amore 
+di Nokia verso i Digimon. /Costume","能感受到滿滿對數碼寶貝的愛，
 諾奇雅顏色的T-Shirt／換裝道具",,"넘쳐흐르는 디지몬 러브가 느껴지는
 노키아 컬러 티셔츠 /코스튬","T-Shirt, das Nokias Liebe für Digimon
 ausdrückt. /Kostüm"
@@ -1501,7 +1530,8 @@ motivi a teschio. /Costume","有著帥氣骷髏設計的T-Shirt
 ／換裝道具",,"해골 모양이 멋진 티셔츠
  /코스튬","Ein cooles T-Shirt mit Schädelmuster.
 /Kostüm"
-822,,Una T-shirt alla moda decorata con motivi a teschio. /Costume,"有著帥氣骷髏設計的T-Shirt
+822,,"Una T-shirt alla moda decorata 
+con motivi a teschio. /Costume","有著帥氣骷髏設計的T-Shirt
 ／換裝道具",,"해골 모양이 멋진 티셔츠
  /코스튬","Ein cooles T-Shirt mit Schädelmuster.
 /Kostüm"
@@ -1530,11 +1560,13 @@ Kowloon. /Costume","以Under Kowloon為印象所設計的
 科技感T-Shirt／換裝道具",,"언더 쿠롱을 이미지한 사이버 느낌의 티셔츠
  /코스튬","Ein Cyber-T-Shirt mit Unter-Null-Motiv.
 /Kostüm"
-828,,T-shirt che sembra un'uniforme da basket. /Costume,"以籃球球衣為印象所設計的T-Shirt
+828,,"T-shirt che sembra 
+un'uniforme da basket. /Costume","以籃球球衣為印象所設計的T-Shirt
 ／換裝道具",,"농구 유니폼을 이미지한 티셔츠
  /코스튬","Ein Basketballtrikot.
 /Kostüm"
-829,,T-shirt che assomiglia a un'uniforme da football. /Costume,"以美式足球球衣為印象所設計的T-Shirt
+829,,"T-shirt che assomiglia a 
+un'uniforme da football. /Costume","以美式足球球衣為印象所設計的T-Shirt
 ／換裝道具",,"미식 축구를 이미지한 티셔츠
  /코스튬","Ein Fußballtrikot.
 /Kostüm"
@@ -1608,7 +1640,8 @@ del campo estivo. /Costume","有著男裝品牌「SUMMER CAMP」的
 T-Shirt／換裝道具",,"남성용 브랜드「SUMMER CAMP」
 로고가 들어간 티셔츠 /코스튬","T-Shirt mit dem Markenlogo für „Summer
 Camp“. /Kostüm"
-844,,T-shirt con schizzi di vernice con il logo del marchio di abbigliamento maschile Summer Camp. /Costume,"印有男裝品牌「SUMMER CAMP」
+844,,"T-shirt con schizzi di vernice con il logo del 
+marchio di abbigliamento maschile Summer Camp. /Costume","印有男裝品牌「SUMMER CAMP」
 花樣的T-Shirt／換裝道具",,"남성용 브랜드「SUMMER CAMP」
 페인트 모양 티셔츠 /코스튬","Bekleckstes T-Shirt mit dem Markenlogo
 für „Summer Camp“. /Kostüm"
@@ -1627,20 +1660,25 @@ Ryuji e Kishibe.",記錄著龍司與岸部的對話,,류지와 키시베의 대�
 Ryuji und Kishibe."
 907,,Il ricordo di Ryuji di Arcadiamon che lo mangia.,被阿卡迪獸吞噬的龍司記憶,,알카디몬에게 먹힌 류지의 기억.,"Ryujis Erinnerung daran, wie ihn
 Arkadimon gefressen hat."
-908,,Registrazione di Chitose che parla con i Digimon.,記錄著千歲與數碼寶貝的對話,,치토세와 디지몬의 대화가 기록되어 있다.,"Aufzeichnung eines Gesprächs zwischen
+908,,"Registrazione di Chitose 
+che parla con i Digimon.",記錄著千歲與數碼寶貝的對話,,치토세와 디지몬의 대화가 기록되어 있다.,"Aufzeichnung eines Gesprächs zwischen
 Chitose und Digimon."
-909,,Il ricordo di Yu del suono nella sua testa.,優與腦中聲音對話的記憶,,머릿속에서 들려오는 목소리와 대화하는 유우의 기억.,"Yus Erinnerung an die Stimme in seinem
+909,,"Il ricordo di Yu del 
+suono nella sua testa.",優與腦中聲音對話的記憶,,머릿속에서 들려오는 목소리와 대화하는 유우의 기억.,"Yus Erinnerung an die Stimme in seinem
 Kopf."
-910,,Il ricordo che Yu ha della voce nella sua testa.,優與腦中聲音對話的記憶,,머릿속에서 들려오는 목소리와 대화하는 유우의 기억.,"Yus Erinnerung an die Stimme in seinem
+910,,"Il ricordo che Yu ha 
+della voce nella sua testa.",優與腦中聲音對話的記憶,,머릿속에서 들려오는 목소리와 대화하는 유우의 기억.,"Yus Erinnerung an die Stimme in seinem
 Kopf."
-911,,Il ricordo di Yu della voce nella sua testa.,優與腦中聲音對話的記憶,,머릿속에서 들려오는 목소리와 대화하는 유우의 기억.,"Yus Erinnerung an die Stimme in seinem
+911,,"Il ricordo di Yu della 
+voce nella sua testa.",優與腦中聲音對話的記憶,,머릿속에서 들려오는 목소리와 대화하는 유우의 기억.,"Yus Erinnerung an die Stimme in seinem
 Kopf."
 912,,"Registro delle attività passate di Jude.
 *I dati sono vecchi e parzialmente corrotti.","記錄著過去Jude的活動
 ※因檔案陳舊而有部分毀損",,"과거 쥬드의 활동을 기록하고 있다.
 ※낡은 데이터라 일부가 파손되어 있다.","Aufzeichnungen zu Aktionen von Gamma.
 *Alte Daten, teilweise beschädigt."
-913,,Registro di Suedou a Kamishiro.,記錄著末堂在神代企業的狀況,,스에도가 카미시로에서 한 활동이 기록되어 있다.,"Aufzeichnung von Suedous Zeit bei
+913,,"Registro di Suedou 
+a Kamishiro.",記錄著末堂在神代企業的狀況,,스에도가 카미시로에서 한 활동이 기록되어 있다.,"Aufzeichnung von Suedous Zeit bei
 Kamishiro."
 914,,Diario che registra i giorni passati con un amante.,記錄著與所愛之人的日常日記,,사랑하는 사람과 함께한 하루하루를 기록한 일기.,"Tagebuch über Erlebnisse mit einer
 geliebten Person."
@@ -1648,9 +1686,11 @@ geliebten Person."
 916,,"Registrazione per tramandare un certo evento alla
 posterità.",為將某事件流傳後世的紀錄,,어떤 사건을 후세에 전하기 위한 기록.,"Aufzeichnungen eines bestimmten
 Ereignisses für die Nachwelt."
-917,,Resoconto della vita quotidiana in una certa scuola maschile.,記錄著某位男高中生的日常,,어느 남자고교생의 일상이 기록되어 있다.,"Aufzeichnungen zum Alltag in einer
+917,,"Resoconto della vita quotidiana 
+in una certa scuola maschile.",記錄著某位男高中生的日常,,어느 남자고교생의 일상이 기록되어 있다.,"Aufzeichnungen zum Alltag in einer
 bestimmten Schule für Jungen."
-918,,Registrazione dei ricordi di un certo cavaliere sacro.,記錄著某位聖騎士的思念,,어느 성기사의 마음이 기록되어 있다.,"Aufzeichnungen der Erinnerungen eines
+918,,"Registrazione dei ricordi 
+di un certo cavaliere sacro.",記錄著某位聖騎士的思念,,어느 성기사의 마음이 기록되어 있다.,"Aufzeichnungen der Erinnerungen eines
 bestimmten heiligen Ritters."
 919,,Registrazione di dati sonori misteriosi.,記錄著神秘的語音資料,,수수께끼의 음성 데이터가 기록되어 있다.,Aufzeichnung geheimnisvoller Tondaten.
 920,,"Cantante con un enorme appeal indie.
@@ -4268,7 +4308,7 @@ Rarità: ★★★★","藍超比多獸的獎牌
 稀有度：★★★★",,"아트라캅테리몬(청) 메달
 레어리티 : ★★★★","Eine Medaille von einem MegaKabuterimon
 (Blau). Seltenheit: ★★★★"
-1507,,"Una medaglia da un Argomon (Evoluto).
+1507,,"Una medaglia da un Argomon (Mega).
 Rarità: ★★★★","亞爾哥獸(完全體)的獎牌
 稀有度：★★★★",,"아르고몬(완전체) 메달
 레어리티 : ★★★★","Eine Medaille von einem Ultimativen 
@@ -5273,7 +5313,8 @@ Abbiate uno splendido nuovo anno! /Accessorio","日本傳統新年飾品。能�
 豪華的一年……大概吧／飾品",,"일본의 전통적인 정월 장식. 
 멋진 1년이 될…지도 모른다 /액세서리","Eine japanische Neujahrs-Deko.
 Für ein luxuriöses Neujahr! /Accessoire"
-10401,,Uso audace di Motimon in una decorazione di Capodanno giapponese. Non mangiare! /Accessorio,"大膽用年糕獸來當日本傳統
+10401,,"Uso audace di Motimon in una decorazione 
+di Capodanno giapponese. Non mangiare! /Accessorio","大膽用年糕獸來當日本傳統
 新年飾品。不能吃喔！／飾品",,"일본의 전통적인 정월 장식에 모티몬을
 대담하게 기용. 먹으면 안 돼! /액세서리","Kühner Einsatz von Motimon für
 Neujahrs-Deko. Nicht essen! /Accessoire"
@@ -5397,7 +5438,8 @@ Brilla come una stella del mattino. /Accessorio","紅色星形飾品。
 以燃燒的明星為印象／飾品",,"빨간색 별모양 장식.
 뜨겁게 타오르는 샛별을 이미지 /액세서리","Deko in Form eines roten Sterns.
 Funkelt wie ein Morgenstern. /Accessoire"
-13601,,"Tre decorazioni a forma di stelle gialle. No, non hai le vertigini. /Accessorio","黃色星形飾品x3。
+13601,,"Tre decorazioni a forma di stelle gialle. 
+No, non hai le vertigini. /Accessorio","黃色星形飾品x3。
 可不是混亂狀態喔／飾品",,"금색 별모양 장식
 혼란에 걸린 것이 아니다 /액세서리","Drei Dekos in Form von gelben Sternen.
 Nein, dir ist nicht schwindlig. /Accessoire"
@@ -5451,7 +5493,8 @@ Si dice sia per tipi premium. /Accessorio","據說是數碼世界大學的博士
 謠傳相當高級／飾品",,"디지털 월드 대학의 것이라고 생각되는 박사 모자.
 상당한 고급품이라는 소문도 /액세서리","Gelehrten-Hut der Akademie der Digitalen
 Welt. Für Überflieger. /Accessoire"
-11801,,Una decorazione di zucca per Halloween. Conosciuta anche come Jack-O'-Lantern. /Accessorio,"萬聖節裝飾的南瓜。
+11801,,"Una decorazione di zucca per Halloween. 
+Conosciuta anche come Jack-O'-Lantern. /Accessorio","萬聖節裝飾的南瓜。
 別名：南瓜燈籠／飾品",,"할로윈에 장식하는 호박.
 별명 : 잭 오 랜턴 /액세서리","Eine Kürbis-Deko zu Halloween. Man kann
 sie als Laterne benutzen. /Accessoire"
@@ -5470,7 +5513,8 @@ Forse farà una giga? /Accessorio","布偶型數碼寶貝的南瓜獸娃娃。
 不會動喔？／飾品",,"퍼펫형 디지몬 펌프몬의
 문자 그대로 인형. 움직이지 않아요? /액세서리","Eine Puppe des Puppen-Digimon Pumpkinmon.
 Vielleicht kann sie tanzen? /Accessoire"
-12001,,Replica di un fungo con particelle digitali. Non arrenderti! /Accessorio,"有數碼粒子的蘑菇複製品。
+12001,,"Replica di un fungo con particelle 
+digitali. Non arrenderti! /Accessorio","有數碼粒子的蘑菇複製品。
 就算哭也不給你！／飾品",,"디지털 입자가 있는 버섯의 레플리카.
 조르더라도 주지 말도록! /액세서리","Kopie eines Pilzes mit digitalen
 Partikeln. Behalte ihn! /Accessoire"
@@ -5489,7 +5533,8 @@ Per essere chiari: Non. Mangiare. /Accessorio","散發金色光芒的蘑菇複�
 當然不能吃／飾品",,"금빛으로 찬라난 버섯의 레플리카.
 물론 식용 불가 /액세서리","Kopie eines funkelnden goldenen Pilzes.
 Nicht zum Verzehr geeignet. /Accessoire"
-12101,,Un normale cappello da Babbo Natale. Il periodo natalizio è arrivato! /Accessorio,"普通的聖誕帽。
+12101,,"Un normale cappello da Babbo Natale. 
+Il periodo natalizio è arrivato! /Accessorio","普通的聖誕帽。
 聖誕節必備道具／飾品",,"이른바 보통 산타 모자.
 크리스마스의 기본 아이템 /액세서리","Eine typische Weihnachtsmannmütze.
 Es weihnachtet! /Accessoire"
@@ -5513,7 +5558,8 @@ lasciato alla tua immaginazione. /Accessorio","紅色禮物盒。
 內容物就請自行想像／飾品",,"붉은 선물 상자.
 무슨 선물인지는 상상에 맡기겠습니다 /액세서리","Ein rotes Geschenk. Der Inhalt ist
 deiner Fantasie überlassen. /Accessoire"
-14501,,Una scatola regalo. Potrebbe persino stare bene appesa all'albero! /Accessorio,"禮物盒。
+14501,,"Una scatola regalo. Potrebbe persino 
+stare bene appesa all'albero! /Accessorio","禮物盒。
 最適合用來裝飾聖誕樹！／飾品",,"선물 상자.
 트리 장식에 최적! /액세서리","Ein Geschenk. Würde sogar am Baum
 gut aussehen! /Accessoire"

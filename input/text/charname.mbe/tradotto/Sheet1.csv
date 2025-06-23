@@ -1,4 +1,4 @@
-ID,Japanese,English,Chinese,EnglishCensored,Korean,German
+﻿ID,Japanese,English,Chinese,EnglishCensored,Korean,German
 1009,,Hagurumon,齒輪獸,,톱니몬,Hagurumon
 1010,,Meramon,火焰獸,,메라몬,Meramon
 1012,,Garurumon,加魯魯獸,,가루몬,Garurumon
@@ -806,7 +806,7 @@ ID,Japanese,English,Chinese,EnglishCensored,Korean,German
 4588,,Hacker Zaxon Sospetto,可疑的Zaxon駭客,,수상한 잭슨 해커,Dubioser Zaxon-Hacker
 4589,,Hacker Cane Pazzo Zaxon,狂犬Zaxon駭客,,광견 잭슨 해커,Irrer Zaxon-Hacker
 4590,,Guardiano del Gate Zaxon Hacker,守門人Zaxon駭客,,문지기 잭슨 해커,Zaxon-Torwächter
-4591,,Hacker Carino/a,可愛的駭客,,깜찍한 해커,Süßer Hacker
+4591,,Hacker Carino,可愛的駭客,,깜찍한 해커,Süßer Hacker
 4592,,Hacker Arguto,淡然的駭客,,무미건조한 해커,Gewitzter Hacker
 4593,,Hacker Spiccio,冷淡的駭客,,냉담한 해커,Ruppiger Hacker
 4594,,Hacker Zaxon Neutrale,投機分子的Zaxon駭客,,관망하는 잭슨 해커,Neutraler Zaxon-Hacker
@@ -910,7 +910,7 @@ ID,Japanese,English,Chinese,EnglishCensored,Korean,German
 4804,,Belva Affamata (Digimon),飢餓的野獸(數碼寶貝),,굶주린 야수(디지몬),Hungriges Tier (Digimon)
 4805,,Figura in attesa,觀察動靜的人影,,상황을 살피는 그림자,Wartende Gestalt
 4806,,Yuuko?,悠子？,,유코?,Yuuko?
-4807,,Bambino/a?,小孩？,,어린아이?,Kind?
+4807,,Bambino?,小孩？,,어린아이?,Kind?
 4808,,Bambino!?,小孩？？,,어린아이??,Kind?!
 4809,,Bambino!?,小孩！？,,어린아이!?,Kind?!
 4810,,Infantile!!?,小孩！？！,,어린아이!?!,Kind?!
@@ -1140,7 +1140,7 @@ ID,Japanese,English,Chinese,EnglishCensored,Korean,German
 1064,,Arcadiamon Campione,阿卡迪獸成熟期,,알카디몬 성숙기,Champion-Arkadimon
 1067,,Arcadiamon Evoluto,阿卡迪獸超究極體,,알카디몬 초궁극체,Ultimatives Arkadimon
 1063,,Arcadiamon Intermedio,阿卡迪獸成長期,,알카디몬 성장기,Rookie-Arkadimon
-1062,,Arcadiamon In-Tr.,阿卡迪獸幼年期,,알카디몬 유년기,Ausbild.-Arkadimon
+1062,,Arcadiamon Primo Stadio,阿卡迪獸幼年期,,알카디몬 유년기,Ausbild.-Arkadimon
 1117,,Varodurumon,瓦爾德獸,,발두르몬,Valdurmon
 1680,,Lobomon,野狼獸,,볼프몬,Lobomon
 1679,,BurningGreymon,炎龍獸,,브리트라몬,BurningGreymon

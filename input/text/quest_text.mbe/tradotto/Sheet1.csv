@@ -1,6 +1,7 @@
 ID,Japanese,English,Chinese,EnglishCensored,Korean,German
 20,,Broadway in fiamme!,灼熱百老匯,,작열 브로드웨이,Brandheißes Broadway!
-21,,"C'è qualcosa che non va con l'aria condizionata di Broadway. Fa decisamente troppo caldo!
+21,,"C'è qualcosa che non va con l'aria condizionata 
+di Broadway. Fa decisamente troppo caldo!
 Vuoi controllare qual è il problema?","百老匯裡的空調又出了狀況
 這次是因為溫度上升而熱得不得了呀……
 能拜託你調查原因嗎？",,"또 브로드웨이 내의 공기 상태가 이상해.
@@ -46,7 +47,7 @@ Luogo: Shinjuku","【委託人】帥氣的男子
 【所在地】新宿",,"【의뢰인】잘생긴 남자
 【장소】신주쿠","Klient: Heißer Typ
 Ort: Shinjuku"
-63,,Esegui un Salto Connettivo,在手機上登入跳躍，尋找原因,,핸드폰으로 커넥트 점프하여 원인을 찾아내자.,Verbindungssprung machen
+63,,Esegui un Salto di Connessione,在手機上登入跳躍，尋找原因,,핸드폰으로 커넥트 점프하여 원인을 찾아내자.,Verbindungssprung machen
 80,,Pugni Rossi e Sudore Caldo!,熱血之拳、沸騰汗水！,,"붉게 타오르는 주먹, 끓어오르는 땀!",Rote Fäuste und rinnender Schweiß!
 81,,"Le visualizzazioni del sito per l'associazione sono
 alle stelle! Il sito è andato giù...
@@ -437,7 +438,8 @@ Ort: K-Café"
 503,,Connect Jump K-Cafe,在K-Cafe的電腦上登入跳躍,,K-카페의 PC로 커넥트 점프를 하자.,Verbindungssprung K-Café
 504,,Trova il criminale,在數碼空間裡尋找犯人,,디지털 스페이스에서 범인을 찾자.,Verbrecher finden
 520,,Il Dott. Datamon Sviluppa una Medicina,分子獸博士的新藥開發,,데이터몬 박사의 신약 개발,Dr. Datamon entwickelt Medizin
-521,,"Sono un famoso esperto nella creazione di medicine per Digimon. Chiamami ""Dott. Datamon"".
+521,,"Sono un famoso esperto nella creazione di 
+medicine per Digimon. Chiamami ""Dott. Datamon"".
 Ho bisogno di aiuto con la mia ricerca.","為數碼寶貝製作藥物而聞名的博士
 －－分子獸博士指的就是我
 麻煩你協助我開發新藥",,"디지몬을 위한 약 만들기로 유명한 박사
@@ -454,7 +456,8 @@ Ort: Zentralkrankenhaus"
 524,,Trova delle erbe,尋找藥草,,약초를 찾으러 가자.,Kräuter suchen
 525,,Trova due ingredienti,尋找作為藥物材料的2項道具,,약의 소재가 될 아이템을 2개 찾아오자.,Zwei Zutaten suchen
 540,,La Prova della Medicina del Dott. Datamon,分子獸博士的新藥實驗,,데이터몬 박사의 신약 실험,Dr. Datamons medizinischer Test
-541,,"Sono un famoso esperto nel preparare medicine per Digimon. Chiamatemi ""Dott. Datamon"".
+541,,"Sono un famoso esperto nel preparare medicine 
+per Digimon. Chiamatemi ""Dott. Datamon"".
 Ho bisogno di aiuto con il mio prototipo.","為數碼寶貝製作藥物而聞名的博士
 －－分子獸博士指的就是我
 這次我也想要借助你的力量執行新藥的實驗",,"디지몬을 위한 약 만들기로 유명한 박사
@@ -470,7 +473,8 @@ Ort: Zentralkrankenhaus"
 543,,Inizia all'ospedale,從醫院某處前往委託人的所在地,,병원 어딘가에서 의뢰인이 있는 곳으로 향하자.,Start im Krankenhaus
 544,,Dai la medicina a 4,讓4隻數碼寶貝服下藥物,,약을 4마리의 디지몬에게 먹여보자.,4-mal Medizin geben
 560,,Medicina Dott. Datamon Completa,分子獸博士的新藥完成,,데이터몬 박사의 신약 완성,Dr. Datamons vollendete Medizin
-561,,"Sono un famoso esperto nella creazione di medicine per Digimon. Chiamami ""Dott. Datamon"".
+561,,"Sono un famoso esperto nella creazione di medicine 
+per Digimon. Chiamami ""Dott. Datamon"".
 Ho bisogno di aiuto con il mio esperimento finale!","為數碼寶貝製作藥物而聞名的博士
 －－分子獸博士指的就是我
 藥物的最終實驗……希望你能幫忙",,"디지몬을 위한 약 만들기로 유명한 박사
@@ -568,7 +572,9 @@ Ort: Shibuya Records, Shibuya"
 1065,,Che cosa sta succedendo?,調查淘兒唱片店內的異狀,,타워레코드의 이변을 조사하자.,Was ist da los?
 1066,,Trova Etemon,尋找悟空獸,,에테몬을 찾자.,Etemon finden
 1080,,Tour Gastronomico di Broadway,走訪BW美食,,BW 미식 탐방,Restauranttour durch Broadway
-1081,,Sono un recensore gastronomico sotto copertura e ho bisogno di qualcuno che mi aiuti a investigare qualcosa...,"委託人是美食排名的匿名評審員
+1081,,"Sono un recensore gastronomico sotto 
+copertura e ho bisogno di qualcuno che 
+mi aiuti a investigare qualcosa...","委託人是美食排名的匿名評審員
 他委託我代替他撰寫食記及評分
 基於調查這一點……還算是偵探的業務範圍吧",,"미식 랭킹 복면 심사의원이 의뢰인이다.
 맛에 대한 감상과 채점 대행을 의뢰받았다.
@@ -717,7 +723,9 @@ Luogo: Nakano Broadway","【委託人】臨時委託14
 Ort: Nakano-Broadway"
 1263,,Parla con la cameriera,向米蕾身旁的女僕搭話,,미레이 옆에 있는 메이드에게 말을 걸자,Mit Maid sprechen
 1280,,Sotterraneo di Nakano,中野地下道,,나카노 언더 그라운드,Der Untergrund von Nakano
-1281,,Questo è un caso del governo. La porta nel Sottopassaggio di Nakano è stata sbloccata. Cosa aspetta dall'altra parte?,"來自區公所的委託
+1281,,"Questo è un caso del governo. La porta nel 
+Sottopassaggio di Nakano è stata sbloccata. 
+Cosa aspetta dall'altra parte?","來自區公所的委託
 打開中野地下道的門
 ……裡面究竟有什麼呢？",,"관공서에서 온 의뢰다.
 나카도 지하도 문의 해제―
@@ -1032,7 +1040,8 @@ Ort: DigiLab"
 2084,,Laboratorio Sotterraneo di Roppongi,在六本木地下研究設施裡小試身手,,롯폰기 지하 연구시설에서 힘을 시험하자.,Roppongi – U-Labor
 2100,,Grande Sfida 5,偉大的挑戰⑤,,위대한 도전⑤,Große Herausforderung 5
 2101,,"L'hai fatto sembrare una passeggiata.
-Non mi è rimasto molto per sfidarti... Che ne dici di un viaggio a Odaiba?","竟然輕輕鬆鬆地打倒了……
+Non mi è rimasto molto per sfidarti... 
+Che ne dici di un viaggio a Odaiba?","竟然輕輕鬆鬆地打倒了……
 雖然我也快要沒有伎倆了
 對了……御台場如何呢？很懷念吧？",,"그렇게 쉽게 쓰러뜨려버릴 줄이야…
 내 쪽 도전자가 슬슬 떨어지고 있지만
@@ -1187,7 +1196,9 @@ Luogo: Ueno","【委託人】政則
 Ort: Ueno"
 3303,,Incontra il cliente a Ueno,在上野和委託人見面,,우에노에서 의뢰인을 만나자.,Zum Klienten in Ueno
 3360,,I leggendari Buster di Nakano,中野都市傳說撲滅者,,나카노 도시전설 버스터스,Nakanos legendäre Jäger
-3361,,Questo è un caso dalla direzione di Broadway. Ci sono strane voci a Broadway. Risolvile con questi ragazzi.,"來自百老匯管理委員會的委託
+3361,,"Questo è un caso dalla direzione di Broadway. 
+Ci sono strane voci a Broadway. 
+Risolvile con questi ragazzi.","來自百老匯管理委員會的委託
 希望你能弄清楚在百老匯館內流傳的
 都市傳說的謠言……和他們一起",,"브로드웨이 관리조합에서 온 의뢰다.
 브로드웨이 관내에 퍼진 도시전설 소문…
@@ -1238,7 +1249,7 @@ Ort: Broadway"
 3485,,Network digitale,前往數碼網路世界內部,,디지털 네트워크 내를 조사하자.,Digitales Netzwerk
 3486,,Cerca Pete,尋找皮特的同時，一邊調查周圍,,피트를 찾으면서 주변을 조사하자.,Pete suchen
 3487,,Spiega chi è Pete,告訴他皮特的真實身分,,피트의 정체를 가르쳐주자.,Pete vorstellen
-4000,,Fagioli di Qualità Superiore,咖啡豆就是要高品質,,콩은 고품질,Beste Bohnen
+4000,,Chicchi di Qualità Superiore,咖啡豆就是要高品質,,콩은 고품질,Beste Bohnen
 4001,,"Acquista chicchi di caffè al K-Cafe.
 Puoi trovare il posto da solo.
 Assicurati di salutare tutti.","去K-Cafe幫我買咖啡豆

@@ -1,50 +1,49 @@
-﻿ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
-100,4450,,"Vuoi entrare nel museo? Sei
-pazzo?! Non è più un museo, è una tana di
-mostri!","你要進去博物館？　……別這麼做啊別這麼做！
-現在根本變成了數碼寶貝的怪物們的巢穴啊！",,"박물관에 들어간다고? …그만둬라 그만둬!
+ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
+100,4450,"","You want to go into the museum? Are you crazy?!
+It's not a museum anymore, it's a monsters' den!","你要進去博物館？　……別這麼做啊別這麼做！
+現在根本變成了數碼寶貝的怪物們的巢穴啊！","","박물관에 들어간다고? …그만둬라 그만둬!
 지금은 디지몬인가 하는 괴물들의 소굴이 되어버렸다고!","Du willst ins Museum? Bist du wahnsinnig?!
 Das ist jetzt eine Monsterhöhle und kein Museum
 mehr!"
-101,4451,,"Mi piaceva andare al museo a vedere
-esemplari di animali insoliti. Immagino non ci sia
-più bisogno di andare al museo per quello!","我喜歡去博物館，觀賞沒見過的生物標本……
-但是這樣一來，似乎不用特地跑去博物館了呢。",,"박물관에서 본 적도 없는 생물들의 표본을
+101,4451,"","I used to like going to the museum to see
+specimens of unusual animals. I guess there's no
+need to go to the museum for that anymore!","我喜歡去博物館，觀賞沒見過的生物標本……
+但是這樣一來，似乎不用特地跑去博物館了呢。","","박물관에서 본 적도 없는 생물들의 표본을
 보러 가는 걸 좋아했는데…
 이러면 굳이 박물관에 갈 필요도 없겠네","Früher bin ich gerne ins Museum gegangen, um
 ungewöhnliche Tiere zu sehen. Dazu muss ich
 jetzt wohl nicht mehr ins Museum gehen!"
-102,4452,,"La TV sta parlando di mostri e di una sorta di
-fenomeno, ma cosa sta succedendo veramente? Gli
-esperti sembrano confusi quanto tutti gli altri.","電視每天都在說什麼現象跟怪物的事情啊。
+102,4452,"","The TV's talking about monsters and some kind of
+phenomenon, but what's actually going on?
+The experts seem as clueless as everyone else.","電視每天都在說什麼現象跟怪物的事情啊。
 實際上到底是怎樣呢……
-專家說的話，一點都不可信啊……",,"TV에선 매일 뭐시기 현상이나 괴물에 대해 떠들고 있는데
+專家說的話，一點都不可信啊……","","TV에선 매일 뭐시기 현상이나 괴물에 대해 떠들고 있는데
 실제론 뭐가 어떻게 되어가는 걸까…
 전문가가 하는 소리도 전혀 믿을 수도 없고…","Im Fernsehen reden sie von Monstern und einem
 Phänomen, aber was ist da los? Die Experten
 wirken so ahnungslos wie alle anderen."
-103,1070,,"Ci dite di smetterla di distruggere tutti i
-tesori nazionali, ma cos'è un tesoro
-nazionale? Noi non ne abbiamo da dove veniamo!","叫我們不要破壞文化財，文化財是什麼東西啦！
-那種東西跟我們哪有什麼關係啦！",,"문화재를 부수지 말라고 하는데, 문화재라는 게 뭐야~!
+103,1070,"","You tell us to stop destroying all the national
+treasures, but what's a national treasure? We
+don't have them where we come from!","叫我們不要破壞文化財，文化財是什麼東西啦！
+那種東西跟我們哪有什麼關係啦！","","문화재를 부수지 말라고 하는데, 문화재라는 게 뭐야~!
 그런 게 우리랑 무슨 관계가 있다고~!","Wir sollen keine nationalen Schätze zerstören,
 aber was ist ein nationaler Schatz? Wo wir
 herkommen, gibt es so etwas nicht!"
-104,4453,,"Rrk, um, uh, beh in quel
-caso...permettimi di istruirti. Un tesoro nazionale è...","這樣啊……那就讓我來從頭開始教你吧！
-聽好囉！　文化財就是指……！",,"으으으…그렇다면 처음부터 가르쳐 주마!
+104,4453,"","Rrk, um, uh, well in that case...allow me to
+educate you. A national treasure is...","這樣啊……那就讓我來從頭開始教你吧！
+聽好囉！　文化財就是指……！","","으으으…그렇다면 처음부터 가르쳐 주마!
 알겠냐! 문화재라는 것은 말이다…!","Ähm, äh, wenn das so ist ... werde ich es
 erklären. Ein nationaler Schatz ist ..."
-105,4454,,"Richiedo rinforzi immediati a Ueno... Sì, ho confermato la
-presenza di un certo numero di Digimon rintanati
-all'interno... In attesa di nuovi ordini, passo.","──這裡是上野博物館前。
+105,4454,"","Requesting immediate backup in Ueno... Yes, I've
+confirmed the presence of a number of Digimon
+holed up inside... Awaiting new orders, over.","──這裡是上野博物館前。
 博物館內部似乎聚集了許多數碼寶貝。
-請立即前往上野公園支援……",,"―여기는 우에노 박물관 앞. 박물관 안에는 다수의 디지몬이
+請立即前往上野公園支援……","","―여기는 우에노 박물관 앞. 박물관 안에는 다수의 디지몬이
 모여있는 모양. 어서 우에노 공원으로 증원 바랍니다…","Bitte um sofortige Unterstützung in Ueno ...
 Ja, mehrere Digimon im Inneren bestätigt ...
 Erwarte neue Befehle, over."
-106,1112,,"Ovunque andiamo, finisce sempre nel caos.
-Dove dovremmo andare, allora?","不論去哪都會引起騷動，好頭痛啊。
-我們到底該去哪才行呢？",,"어디에 있든 큰 소동이 일어나.
+106,1112,"","Wherever we go, it always ends in chaos. Where are
+we supposed to go, then?","不論去哪都會引起騷動，好頭痛啊。
+我們到底該去哪才行呢？","","어디에 있든 큰 소동이 일어나.
 우리는 어디로 가야 하는 걸까?","Egal, wo wir hingehen, es endet immer mit Chaos.
 Wo sollen wir denn dann hin?"
