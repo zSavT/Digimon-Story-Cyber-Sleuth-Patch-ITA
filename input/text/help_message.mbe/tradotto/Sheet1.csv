@@ -3,7 +3,7 @@ ID,Japanese,English,Chinese,EnglishCensored,Korean,German
 1000,,Seleziona una posizione di salvataggio.,請選擇您要保存的位置。,,저장을 할 장소를 골라주세요.,Wähle einen Speicherort.
 1001,,Seleziona i dati da caricare.,請選擇您要讀取的檔案。,,불러올 데이터를 선택하십시오.,Wähle die zu ladenden Daten.
 1200,,"Sposta i tuoi Digimon nel Party, DigiBank o Isola Farm.",可以將持有數碼寶貝移動到隊伍、數碼銀行、農場島中。,,"소유한 디지몬을 파티, 디지털 뱅크, 팜 섬으로 이동할 수 있습니다.","Verschiebe Digimon in die Gruppe, Digibank oder Farminsel."
-1201,,Digievolvi o DigeDigievolvi il tuo Digimon.,可以使持有數碼寶貝進化、退化。,,"소유한 디지몬의 진화, 퇴화가 가능합니다.",Lass deine Digimon digitieren oder de-digitieren.
+1201,,Digievolvi o De-Digievolvi il tuo Digimon.,可以使持有數碼寶貝進化、退化。,,"소유한 디지몬의 진화, 퇴화가 가능합니다.",Lass deine Digimon digitieren oder de-digitieren.
 1202,,Consuma fino a cinque Digimon per potenziare uno dei tuoi Digimon.,最多可以消耗5隻持有數碼寶貝來強化1隻數碼寶貝。,,소유한 디지몬을 최대 5마리 소비하여 1마리의 디지몬을 강화합니다.,"Absorbiere bis zu fünf Digimon, um ein Digimon zu stärken."
 1203,,Materializza i Digimon con percentuali di Scan superiori al 100%.,掃描率超過100%的數碼寶貝將會實體化。,,스캔율이 100%를 넘어선 디지몬을 실체화합니다.,Materialisiere Digimon mit einem Scanwert über 100 %.
 1204,,Riporta i tuoi Digimon ai dati di scansione.,將持有數碼寶貝回復為掃描數據。,,소유한 디지몬을 스캔 데이터로 되돌립니다.,Wandle deine Digimon in Scandaten um.

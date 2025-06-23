@@ -95,7 +95,7 @@ ID,Japanese,English,Chinese,EnglishCensored,Korean,German
 ・Grundwerte für Datei-Digimon +50 %
 ・Phys. Schaden +100 %, mag. Schaden –50 %"
 9,,"・Livello 50 fisso/potenziamenti non validi
-・PS e PM Intermedio +50% ・Mem. max. 30
+・PS e PM Recluta +50% ・Mem. max. 30
 ・Statistiche base +200% per Digimon Intermedio
 ・Digimon duplicati non permessi nel party","．等級固定在50／強化值無效．隊伍容量30以內
 ．成長期數碼寶貝HP、SP提昇50%
@@ -147,7 +147,7 @@ ID,Japanese,English,Chinese,EnglishCensored,Korean,German
 ・Grundwerte für Wasser-Digimon +50 %
 ・Negiert Wirkung von Typ-Affinität"
 13,,"・Livello 50 fisso/potenziamenti non validi
-・Forma un gruppo solo di Digimon di livello Ultimate o inferiore
+・Forma un gruppo solo di Digimon di livello Ultra o inferiore
 ・Statistiche base +50% per i Digimon di tipo Free
 ・CRT +50% ・Mem. max. 50","．等級固定在50／強化值無效．隊伍容量50以內
 ．只能由完全體以下來組成隊伍
@@ -222,7 +222,7 @@ ID,Japanese,English,Chinese,EnglishCensored,Korean,German
 ・Aktionsreihenfolge umgekehrt"
 19,,"・Livello 50 fisso/potenziamenti non validi
 ・Memoria massima 150
-・Statistiche base +50% per Digimon di attributo Neutral
+・Statistiche base +50% per Digimon di attributo Neutrale
 ・Digimon duplicati non permessi nel party","．等級固定在50／強化值無效
 ．隊伍容量150以內
 ．無屬性數碼寶貝基本屬性提昇50%
@@ -261,7 +261,7 @@ ID,Japanese,English,Chinese,EnglishCensored,Korean,German
 ・Mag. Schaden +100 %, phys. Schaden –50 %"
 22,,"・Livello 30 fisso/potenziamenti non validi
 ・Memoria massima 50
-・Statistiche base +50% per i Digimon di tipo Libero
+・Statistiche base +50% per i Digimon Neutrali
 ・CRT +30%","．等級固定在30／強化值無效
 ．隊伍容量50以內
 ．自由種數碼寶貝基本屬性提昇50%
@@ -286,8 +286,9 @@ ID,Japanese,English,Chinese,EnglishCensored,Korean,German
 ・Feuerschaden +50 %
 ・Doppelte Digimon nicht in Gruppe erlaubt"
 24,,"・Nessuna restrizione/potenziamenti di livello non validi
-・Statistiche base +50% per Digimon di tipo Vaccine e attributo Luce ・Mem. max 100
-・Annulla le condizioni anomale base","．等級無限制／強化值無效．隊伍容量100以內
+・Statistiche base +50% per Digimon Vaccine
+・Statistiche base +50% per Digimon Luce
+・Annulla condizioni anomale ・ Mex. Max 100","．等級無限制／強化值無效．隊伍容量100以內
 ．疫苗種數碼寶貝基本屬性提昇50%
 ．光屬性數碼寶貝基本屬性提昇50%
 ．基本狀態異常無效",,"・레벨 무제한/강화치 무효, 메모리 100 이내

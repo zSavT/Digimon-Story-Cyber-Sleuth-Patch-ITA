@@ -492,7 +492,8 @@ alle Gegner."
 並有10%的機率使對方立即死亡。",,"적 1체에 빛속성 위력 100의 마법공격.
 대상을 10%의 확률로 즉사시킨다.","Magischer Angriff, 100 Lichtschaden gegen
 einen Gegner. 10 % Chance auf Soforttod."
-1125,,"Attacco fisico, 115 danni Neutri a un nemico. 40% di possibilità di stordire il bersaglio.","對敵方單體發動威力115的無屬性物理攻擊，
+1125,,"Attacco fisico, 115 danni Neutri a un nemico. 
+40% di possibilità di stordire il bersaglio.","對敵方單體發動威力115的無屬性物理攻擊，
 並有40%的機率使對方暈眩。",,"적 1체에 무속성 위력 115의 물리공격.
 대상을 40%의 확률로 스턴 상태로 만든다.","Physischer Angriff, 115 Neutralschaden gegen
 einen Gegner. 40 % Chance auf Betäuben."
@@ -675,7 +676,8 @@ un nemico. Tende a critici più spesso.","對敵方單體發動6次威力20的�
 容易產生爆擊。",,"적 1체에 전기속성 위력 20의 물리공격을 6회 한다.
 크리티컬이 발생하기 쉽다.","6 physische Angriffe, 20 Elektroschaden gegen
 einen Gegner. Häufiger kritische Treffer."
-1170,,Potente attacco di tipo Terra che ignora la DIF su un singolo nemico.,對敵方單體發動土屬性高威力的DEF貫穿攻擊。,,적 1체에 땅속성 강한 위력 방어력 관통공격.,"VER-durchdringender starker Erdangriff auf
+1170,,"Potente attacco di tipo Terra che ignora 
+la DIF su un singolo nemico.",對敵方單體發動土屬性高威力的DEF貫穿攻擊。,,적 1체에 땅속성 강한 위력 방어력 관통공격.,"VER-durchdringender starker Erdangriff auf
 einen Gegner."
 1171,,"3 attacchi fisici, 80 danni Fuoco a un nemico.
 Non può muovere per rinculo per un turno.","對敵方單體發動3次威力80的火屬性物理攻擊，
@@ -747,7 +749,8 @@ einen Gegner. Stößt Ziele zurück."
 並有25%的機率使對方睡眠。",,"적 전체에 물속성 중간 위력 지력 관통공격.
 대상을 25%의 확률로 잠재운다.","INT-durchdringender durchschn. Wasserangriff
 auf alle Gegner. 25 % Chance auf Schlaf."
-1186,,"Attacco magico, 130 danni da Elettricità a un nemico.",對敵方單體發動威力130的雷屬性魔法攻擊。,,적 1체에 전기속성 위력 130의 마법공격.,"Magischer Angriff, 130 Elektroschaden gegen
+1186,,"Attacco magico, 130 danni da 
+Elettricità a un nemico.",對敵方單體發動威力130的雷屬性魔法攻擊。,,적 1체에 전기속성 위력 130의 마법공격.,"Magischer Angriff, 130 Elektroschaden gegen
 einen Gegner."
 1187,,"8 attacchi fisici, 20 danni Oscurità a un
 nemico. 90% di precisione.","對敵方單體發動8次威力20的闇屬性物理攻擊，
@@ -759,9 +762,11 @@ einen Gegner. 90 % Trefferquote."
 並有50%的機率使對方睡眠。",,"적 전체에 어둠속성 중간 위력 지력 관통공격.
 대상을 50%의 확률로 잠재운다.","INT-durchdringender durchschn. Dunkelangriff
 auf alle Gegner. 50 % Chance auf Schlaf."
-1189,,"Attacco magico, 90 danni di Fuoco a tutti i nemici.",對敵方全體發動威力90的光屬性魔法攻擊。,,적 전체에 빛속성 위력 90의 마법공격.,"Magischer Angriff, 90 Feuerschaden gegen
+1189,,"Attacco magico, 90 danni di 
+Fuoco a tutti i nemici.",對敵方全體發動威力90的光屬性魔法攻擊。,,적 전체에 빛속성 위력 90의 마법공격.,"Magischer Angriff, 90 Feuerschaden gegen
 alle Gegner."
-1190,,"Attacco magico, 95 danni di Luce a tutti i nemici.",對敵方全體發動威力95的光屬性魔法攻擊。,,적 전체에 빛속성 위력 95의 마법공격.,"Magischer Angriff, 95 Lichtschaden gegen
+1190,,"Attacco magico, 95 danni 
+di Luce a tutti i nemici.",對敵方全體發動威力95的光屬性魔法攻擊。,,적 전체에 빛속성 위력 95의 마법공격.,"Magischer Angriff, 95 Lichtschaden gegen
 alle Gegner."
 1191,,"Attacco fisico, 130 danni Neutri a un
 nemico. 40% di probabilità di confondere il bersaglio.","對敵方單體發動威力130的無屬性物理攻擊，
@@ -796,7 +801,8 @@ einen Gegner. 80 % Chance auf Betäuben."
 1198,,"2 attacchi fisici,
 45 danni Acqua a tutti i nemici.",對敵方全體發動2次威力45的水屬性物理攻擊。,,적 전체에 물속성 위력 45의 물리공격을 2회 한다.,"2 physische Angriffe, 45 Wasserschaden
 gegen alle Gegner."
-1199,,"Attacco fisico, 140 danni Neutri a un nemico. Colpisce sempre.","對敵方單體發動威力140的無屬性物理攻擊，
+1199,,"Attacco fisico, 140 danni 
+Neutri a un nemico. Colpisce sempre.","對敵方單體發動威力140的無屬性物理攻擊，
 必定命中。",,적 1체에 무속성 위력 140의 물리공격. 필중.,"Physischer Angriff, 140 Neutralschaden gegen
 einen Gegner. Trifft immer."
 1200,,"Attacco magico, 130 danni Acqua a un nemico.",對敵方單體發動威力130的水屬性魔法攻擊。,,적 1체에 물속성 위력 130의 마법공격.,"Magischer Angriff, 130 Wasserschaden gegen
@@ -816,7 +822,8 @@ nemico. 35% di probabilità di avvelenare il bersaglio.","對敵方單體發動�
 並有35%的機率使對方中毒。",,"적 1체에 어둠속성 특대 위력 지력 관통공격.
 대상을 35%의 확률로 맹독 상태로 만든다.","INT-durchdr. mächtiger Dunkelangriff gg.
 einen Gegner. 35 % Chance auf Vergiften."
-1204,,"Attacco magico, 90 danni da Elettricità a tutti i nemici.",對敵方全體發動威力90的雷屬性魔法攻擊。,,적 전체에 전기속성 위력 90의 마법공격.,"Magischer Angriff, 90 Elektroschaden gegen
+1204,,"Attacco magico, 90 danni da 
+Elettricità a tutti i nemici.",對敵方全體發動威力90的雷屬性魔法攻擊。,,적 전체에 전기속성 위력 90의 마법공격.,"Magischer Angriff, 90 Elektroschaden gegen
 alle Gegner."
 1205,,"4 attacchi fisici, 30 danni da Oscurità a un nemico.
 30% di probabilità di aumentare SPD del 20%.","對敵方單體發動4次威力30的闇屬性物理攻擊，
@@ -833,15 +840,16 @@ assorbe il 50% come HP. 30% di possibilità di paralisi.","對敵方單體發動
 並有20%的機率使對方混亂。",,"적 전체에 빛속성 위력 75의 마법공격.
 대상을 20%의 확률로 혼란 상태로 만든다.","Magischer Angriff, 75 Lichtschaden gegen
 alle Gegner. 20 % Chance auf Verwirrung."
-1208,,"Attacco fisico, 150 danni di Luce a un
-nemico. 30% di probabilità di infliggere alterazioni di stato al bersaglio.","對敵方單體發動威力150的光屬性物理攻擊，
+1208,,"Attacco fisico, 150 danni di Luce a un nemico. 30% di 
+probabilità di infliggere alterazioni di stato al bersaglio.","對敵方單體發動威力150的光屬性物理攻擊，
 並有30%的機率使對方液晶化。",,"적 1체에 빛속성 위력 150의 물리공격.
 대상을 30%의 확률로 액정화 상태로 만든다.","Physischer Angriff, 150 Lichtschaden gegen
 einen Gegner. 30 % Chance auf Verpixeln."
 1209,,"Attacco fisico, 115 danni da Fuoco a tutti i nemici.",對敵方全體發動威力115的火屬性物理攻擊。,,"적 전체에 불속성 위력 115의 물리공격.
 ","Physischer Angriff, 115 Feuerschaden gegen
 alle Gegner."
-1210,,"Attacco Acqua potente, a penetrazione INT, su un singolo nemico.",對敵方單體發動水屬性高威力的INT貫穿攻擊。,,적 1체에 물속성 강한 위력 지력 관통공격.,"INT-durchdringender Wasserangriff auf einen
+1210,,"Attacco Acqua potente, a penetrazione 
+INT, su un singolo nemico.",對敵方單體發動水屬性高威力的INT貫穿攻擊。,,적 1체에 물속성 강한 위력 지력 관통공격.,"INT-durchdringender Wasserangriff auf einen
 Gegner."
 1211,,"Attacco fisico, 145 danni di tipo Terra a un nemico.
 35% di probabilità di stordire il bersaglio. 95% di precisione.","對敵方單體發動威力145的土屬性物理攻擊，
@@ -907,7 +915,8 @@ e assorbe il 50% dei danni come HP.","對敵方單體發動2次威力60的火屬
 並吸收50%HP。",,"적 1체에 불속성 위력 60의 물리공격을 2회 하고
 50%를 HP로 흡수한다.","2 physische Angriffe, 60 Feuerschaden gegen
 einen Gegner. Absorbiert 50 % als TP."
-1232,,Attacco di Fuoco extra forte con penetrazione della DIF su un nemico. 30% di probabilità di stordire il bersaglio.,"對敵方單體發動火屬性超高威力的DEF貫穿攻擊，
+1232,,"Attacco di Fuoco extra forte con penetrazione della DIF 
+su un nemico. 30% di probabilità di stordire il bersaglio.","對敵方單體發動火屬性超高威力的DEF貫穿攻擊，
 並有30%的機率使對方暈眩。",,"적 1체에 불속성 특대 위력 방어력 관통공격.
 대상을 30%의 확률로 스턴 상태로 만든다.","VER-durchdringender mächtiger Feuerangriff
 gg. einen Gegner. 30 % Chance auf Betäuben."
@@ -1532,7 +1541,8 @@ ihn kampfunfähig machen würde."
 nächsten Zug."
 3136,,Fugge dalla battaglia.,從戰鬥中逃離。,,배틀에서 이탈한다.,Flucht aus dem Kampf.
 3137,,Aumenta ACU di un Digimon in battaglia del 10%.,單體戰鬥成員的ACU提升10%。,,배틀멤버 1체의 명중률을 10% 올린다.,Erhöht GEN eines kämpfenden Digimon um 10 %.
-3138,,Rimuove le riduzioni delle statistiche base da tutti i membri del gruppo in battaglia.,解除全體戰鬥成員被降低的基本狀態。,,배틀멤버 전체의 기본 스테이터스 다운을 해제한다.,"Hebt bei allen Mitstreitern einfache
+3138,,"Rimuove le riduzioni delle statistiche base da 
+tutti i membri del gruppo in battaglia.",解除全體戰鬥成員被降低的基本狀態。,,배틀멤버 전체의 기본 스테이터스 다운을 해제한다.,"Hebt bei allen Mitstreitern einfache
 Wertemalusse auf."
 4000,,Ripristina 250 HP a un alleato.,回復我方單體250HP,,아군 1체의 HP를 250 회복.,Stellt 250 TP 1 Verbündeten wieder her.
 4001,,Ripristina 750 HP a un alleato.,回復我方單體750HP,,아군 1체의 HP를 750 회복.,Stellt 750 TP 1 Verbündeten wieder her.
@@ -1569,7 +1579,8 @@ auf, sofern sie nicht kampfunfähig sind."
 4023,,"Ripristina completamente un alleato che non è in grado di
 combattere.",完全回復我方單體的無法戰鬥狀態,,아군 1체의 전투불능에서 완전 회복.,"Regeneriert einen kampfunfähigen Verbündeten
 vollständig."
-4024,,Ripristina completamente tutti gli alleati che sono incapaci di combattere.,完全回復我方全體的無法戰鬥狀態,,아군 전체의 전투불능을 완전 회복.,"Regeneriert alle kampfunfähigen Verbündeten
+4024,,"Ripristina completamente tutti gli alleati 
+che sono incapaci di combattere.",完全回復我方全體的無法戰鬥狀態,,아군 전체의 전투불능을 완전 회복.,"Regeneriert alle kampfunfähigen Verbündeten
 vollständig."
 4025,,Aumenta l'ATT di un alleato per 5 turni in battaglia.,戰鬥時，提升我方單體的ATK 5回合,,배틀 시 5턴간 아군 1체의 공격력이 상승.,"Erhöht ANG eines Verbündeten für 5 Züge
 im Kampf."
@@ -1660,7 +1671,8 @@ nemico. Il danno tende a fluttuare.","給予敵單體威力150的無屬性物理
 傷害值易產生浮動。",,"적 1체에 무속성 위력 150의 물리공격.
 대미지가 변화하기 쉽다.","Physischer Angriff, 150 Neutralschaden gegen
 einen Gegner. Schwankender Schaden."
-1252,,Potente attacco di tipo Oscurità ad alta penetrazione INT su 1 nemico. 50% di probabilità di infliggere Cristallizzazione.,"對敵方單體發動闇屬性特高威力的INT貫穿攻擊。
+1252,,"Potente attacco di tipo Oscurità ad alta penetrazione 
+INT su 1 nemico. 50% di probabilità di infliggere Cristallizzazione.","對敵方單體發動闇屬性特高威力的INT貫穿攻擊。
 對手將有50%的機率液晶化。",,"적 1체에 어둠속성 특대 위력 지력 관통공격.
 대상을 50% 확률로 액정화 상태로 만든다.","INT-durchdringender mächtiger Dunkelangriff gg. 
 1 Gegner. 50 % Chance: Kristallisierung. "
@@ -1853,7 +1865,8 @@ Non è possibile muoversi per contraccolpo per un turno.","對敵方全體發動
 使用後將因反作用力一回合無法行動。",,"적 전체에 불속성 강한 위력 방어력 관통공격.
 공격 후, 반동으로 1턴간 행동불능이 된다.","VER-durchdringender Feuerangriff gg. alle 
 Gegner. Ein Zug Pause durch Rückstoß."
-1299,,"Attacco fisico, 115 danni di Luce a tutti i nemici. Tende a critici più spesso.","對敵方全體發動光屬性威力115的物理攻擊。
+1299,,"Attacco fisico, 115 danni di Luce a tutti i nemici. 
+Tende a critici più spesso.","對敵方全體發動光屬性威力115的物理攻擊。
 容易產生CRT。",,"적 전체에 빛속성 위력 115의 물리공격.
 크리티컬이 발생하기 쉽다.","Physischer Angriff, 115 Lichtschaden gegen
 alle Gegner. Häufiger kritische Treffer."
@@ -1991,7 +2004,8 @@ Aumenta SPD del 10%.","對敵方單體發動無屬性高威力的DEF貫穿攻擊
 提升自我SPD 10%。",,"적 1체에 무속성 강한 위력 방어력 관통공격.
 자신의 민첩을 10% 올린다.","VER-durchdr. starker Neutralangriff gg. einen
 Gegner. Erhöht GES um 10 %."
-1330,,"5 attacchi fisici, 25 danni di Terra a un nemico. Tende a eseguire spesso colpi critici.","對敵方單體發動土屬性威力25的物理攻擊5次。
+1330,,"5 attacchi fisici, 25 danni di Terra a un nemico. 
+Tende a eseguire spesso colpi critici.","對敵方單體發動土屬性威力25的物理攻擊5次。
 容易產生CRT。",,"적 1체에 땅속성 위력 25의 물리공격을 5회 한다.
 크리티컬이 발생하기 쉽다.","5 phys. Angriffe, 25 Erdschaden gegen
 einen Gegner. Häufiger kritische Treffer."
@@ -2034,7 +2048,8 @@ alle Gegner."
 einen Gegner."
 1345,,"Attacco magico, 95 danni Acqua a tutti i nemici.",對敵方全體發動水屬性威力95的魔法攻擊。,,적 전체에 물속성 위력 95의 마법공격.,"Magischer Angriff, 95 Wasserschaden gegen
 alle Gegner."
-1346,,"Ha una probabilità del 50% di infliggere Veleno, Confusione e Paralisi a tutti i nemici.","全體敵人各50%的機率會產生
+1346,,"Ha una probabilità del 50% di infliggere 
+Veleno, Confusione e Paralisi a tutti i nemici.","全體敵人各50%的機率會產生
 劇毒、混亂、麻痺的異常狀態。",,"적 전체에 각각 50%의 확률로
 상태이상 맹독, 혼란, 마비를 건다.","50 % Chance, bei allen Gegnern Gift,
 Lähmung und Verwirrung zu verursachen."
@@ -2129,7 +2144,8 @@ Trifft immer. Entfernt einfache Statusleiden."
 alle Gegner."
 1377,,"4 attacchi fisici, 30 danni Oscurità a un nemico.",對敵方單體發動闇屬性威力30的物理攻擊4次。,,적 1체에 어둠속성 위력 30의 물리공격을 4회 한다.,"4 physische Angriffe, 30 Dunkelschaden gegen
 einen Gegner."
-1378,,Attacco extra forte di Fuoco con penetrazione DEF su un nemico.,對敵方單體發動火屬性特大威力的DEF貫穿攻擊。,,적 1체에 불속성 특대 위력 방어력 관통공격.,"VER-durchdringender mächtiger Feuerangriff
+1378,,"Attacco extra forte di Fuoco con penetrazione 
+DEF su un nemico.",對敵方單體發動火屬性特大威力的DEF貫穿攻擊。,,적 1체에 불속성 특대 위력 방어력 관통공격.,"VER-durchdringender mächtiger Feuerangriff
 gg. einen Gegner."
 3644,,,,,,
 3645,,,,,,

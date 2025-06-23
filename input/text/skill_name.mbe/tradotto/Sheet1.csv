@@ -135,7 +135,7 @@ ID,Japanese,English,Chinese,EnglishCensored,Korean,German
 1119,,Bomba a Fossa,位元炸彈,,비트 봄,Grubenbombe
 1120,,Allievo Oscuro,黑暗瞳孔,,다크 퓨필,Dunkler Schüler
 1121,,Fiamma Fredda,寒冷火花,,콜드플레임,Kalte Flamme
-1122,,Bacio Volante Non Identificato,惡魔飛吻,,악마의 키스날리기,Fliegender Kuss
+1122,,Bacio Volante,惡魔飛吻,,악마의 키스날리기,Fliegender Kuss
 1123,,Onda Anomala,大海嘯,,타이달 웨이브,Flutwelle
 1124,,Porta del Paradiso,天國之門,,천국의 문,Himmelstor
 1125,,Pugno Vincente,勝利拳擊,,위닝 너클,Siegesknöchel
@@ -410,8 +410,8 @@ ID,Japanese,English,Chinese,EnglishCensored,Korean,German
 3514,,X-Cura,X治癒,,엑스 힐,X-Heilung
 3515,,[f1Gioca],[f1あそぶ],,[f1あそぶ],[f1あそぶ]
 3516,,[f1へんしん],[f1へんしん],,[f1へんしん],[f1へんしん]
-3517,,[f1Guarisci],[f1なおす],,[f1なおす],[f1なおす]
-3518,,[f1ripristina],[f1もどす],,[f1もどす],[f1もどす]
+3517,,[f1なおす],[f1なおす],,[f1なおす],[f1なおす]
+3518,,[f1もどす],[f1もどす],,[f1もどす],[f1もどす]
 3519,,Sto osservando...,觀察中……,,관찰하고 있다…,Beobachtet ...
 3520,,Campo di Texture,結構力場,,텍스쳐 필드,Texturfeld
 3521,,Assorbimento Vitale,生命耗竭,,라이프 드레인,Lebensentzug

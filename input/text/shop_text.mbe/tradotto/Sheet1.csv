@@ -12,10 +12,11 @@ ID,Japanese,English,Chinese,EnglishCensored,Korean,German
 1007,,Aspetto il tuo ordine.,請說出需求,,주문해주세요,Ich erwarte deine Bestellung.
 1008,,Torna presto a trovarci.,誠摯恭候您的再度光臨,,다음 방문을 기다리겠습니다,Komm bald wieder.
 1011,,C'è qualcosa in cui posso esserti d'aiuto?,有什麼能夠為您服務的嗎？,,도움이 필요하십니까?,Kann ich dir behilflich sein?
-1012,,C'è una forte reazione digitale sulla piattaforma del treno...,車站的月臺傳來了強烈的數碼反應呢……,,역 플랫폼에 강한 디지털 반응이 있네요...,"Auf dem Bahnsteig gibt es eine starke digitale
+1012,,"C'è una forte reazione digitale 
+sulla piattaforma del treno...",車站的月臺傳來了強烈的數碼反應呢……,,역 플랫폼에 강한 디지털 반응이 있네요...,"Auf dem Bahnsteig gibt es eine starke digitale
 Reaktion ..."
-1019,,"Benvenuto!?
-Sarà pure un'emergenza, ma mi prenderò comunque i tuoi
+1019,,"Benvenuto!? Sarà pure un'emergenza, 
+ma mi prenderò comunque i tuoi
 soldi!","歡、歡迎光臨～！
 在這種非常時期下，還是要收錢的！
 要收錢的啊－－！！",,"어, 어서오세요~!?
@@ -51,8 +52,8 @@ Torni a trovarci.","謝謝惠顧。
 期待您再度利用。",,"감사합니다.
 다시 방문하시길 기다리고 있겠습니다.","Vielen Dank!
 Bis bald."
-1060,,"Benvenuto!
-Abbiamo aggiunto prodotti che saranno sicuramente utili
+1060,,"Benvenuto! Abbiamo aggiunto prodotti 
+che saranno sicuramente utili
 a un Hudie come te.","歡迎光臨。
 進了一批對hudie很有用的商品喔。",,"어서오세요.
 후디에 멤버에게 도움이 될 만한
@@ -75,7 +76,8 @@ collezione.","嗨，我是獎牌大師
 너의 메달 수집을 서포트 해주지","Ich bin der Medaillenmeister. Ich kann dir mit
 deiner Sammlung helfen."
 1068,,Anche tu puoi diventare un maestro delle medaglie!,你也加油吧！獎牌大師！,,너도 노려봐! 메달 마스터!,Du kannst auch ein Medaillenmeister sein!
-1069,,Dovrai pagarmi. Non sono un ente di beneficenza.,"我會確實收取金額的喔
+1069,,"Dovrai pagarmi. Non 
+sono un ente di beneficenza.","我會確實收取金額的喔
 這可是確認你對獎牌的愛啊",,"대금은 착실하게 받아갈게.
 네 메달 사랑을 확인하고 싶으니까","Du musst mich bezahlen. Ich bin kein
 Wohlfahrtsverein."

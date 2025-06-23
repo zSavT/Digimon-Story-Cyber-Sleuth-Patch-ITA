@@ -2,7 +2,7 @@ ID,Japanese,English,Chinese,EnglishCensored,Korean,German
 1,,C'è almeno un Digimon.,需要1隻以上的數碼寶貝,,디지몬이 1마리 이상 필요하다.,"Mindestens ein Digimon in der
 Gruppe."
 2,,"Ci sono quattro o più Digimon
-che sono Intermedio o superiori.","需要4隻以上
+che sono Intermedi o superiori.","需要4隻以上
 世代為「成長期」以上的數碼寶貝",,"세대가「성장기」이상인 디지몬이
 4마리 이상 필요하다.","Mindestens vier Digimon auf
 Rookie-Stufe oder höher."
@@ -12,7 +12,7 @@ che sono Campioni o superiori.","需要4隻以上
 4마리 이상 필요하다.","Mindestens vier Digimon auf
 Champion-Stufe oder höher."
 4,,"Ci sono quattro o più Digimon
-che sono Evoluti o superiori.","需要4隻以上
+che sono Ultra o superiori.","需要4隻以上
 世代為「完全體」以上的數碼寶貝",,"세대가「완전체」이상인 디지몬이
 4마리 이상 필요하다.","Mindestens vier Digimon auf
 Ultra-Stufe oder höher."
@@ -23,14 +23,15 @@ che sono tipi di dati.","需要2隻以上
 Typus Datei."
 6,,"Esiste un Digimon che
 è un tipo di dati.",需要種族為「資料種」的數碼寶貝,,종족이「데이터」인 디지몬이 필요하다.,Ein Digimon vom Typus Datei.
-7,,"Ci sono almeno un Digimon di tipo Fuoco, Acqua o Pianta.","需要屬性「火」「水」「木」
+7,,"Ci sono almeno un Digimon di 
+tipo Fuoco, Acqua o Pianta.","需要屬性「火」「水」「木」
 各1隻以上的數碼寶貝",,"속성「불」,「물」,「풀」디지몬이
 각 1마리 이상 필요하다.","Mindestens ein Feuer-,
 Wasser- oder Pflanzen-Digimon."
 8,,C'è un Digimon di tipo Vaccino.,需要種族為「疫苗種」的數碼寶貝,,종족이「백신」인 디지몬이 필요하다.,Ein Digimon vom Typus Serum.
 9,,C'è un Digimon Virus.,需要種族為「病毒種」的數碼寶貝,,종족이「바이러스」인 디지몬이 필요하다.,Ein Digimon vom Typus Virus.
 10,,"C'è almeno un Digimon
-che è Evoluti o superiore.","需要1隻以上
+che è Ultra o superiore.","需要1隻以上
 世代為「完全體」以上的數碼寶貝",,"세대가「완전체」이상인 디지몬이
 1마리 이상 필요하다.","Mindestens ein Digimon auf
 Ultra-Stufe oder höher."
@@ -50,7 +51,8 @@ che è Intermedio o superiore.","需要種族為「自由種」
 並為「成長期」以上的數碼寶貝",,"종족이「프리」이며「성장기」이상인 
 디지몬이 필요하다.","Ein Digimon vom Freien Typ
 auf Rookie-Stufe oder höher."
-15,,Avere uno o più Digimon di livello Campione in tuo possesso.,"有一隻以上的，世代在
+15,,"Avere uno o più Digimon di 
+livello Campione in tuo possesso.","有一隻以上的，世代在
 「成熟期」以上的數碼寶貝",,"세대가「성숙기」이상인 디지몬이
 1마리 이상 필요하다.","Besitze mindestens ein Digimon
 auf Champion-Stufe."
@@ -63,7 +65,8 @@ livello Campione o superiore","有「疫苗種」且「成熟期」
 以上的數碼寶貝",,"종족이「백신」이고「성숙기」이상인
 디지몬이 필요하다.","Besitze ein Serum-Digimon auf
 Champion-St. oder höher."
-18,,Avere un Digimon di tipo Dati a livello Campione o superiore.,"有「資料種」且「成熟期」
+18,,"Avere un Digimon di tipo Dati 
+a livello Campione o superiore.","有「資料種」且「成熟期」
 以上的數碼寶貝",,"종족이「데이터」고「성숙기」이상인
 디지몬이 필요하다.","Besitze ein Datei-Digimon auf
 Champion-St. oder höher."
@@ -72,7 +75,8 @@ livello Intermedio o superiore.","有「自由種」且「成熟期」
 以上的數碼寶貝",,"종족이「프리」고「성숙기」이상인
 디지몬이 필요하다.","Besitze ein Freies Digimon auf
 Rookie-Stufe oder höher."
-20,,Avere un Digimon di tipo Virus a livello Campione o superiore.,"有「病毒種」且「成熟期」
+20,,"Avere un Digimon di tipo Virus 
+a livello Campione o superiore.","有「病毒種」且「成熟期」
 以上的數碼寶貝",,"종족이「바이러스」고「성숙기」이상인
 디지몬이 필요하다.","Besitze ein Virus-Digimon auf
 Champion-St. oder höher."
