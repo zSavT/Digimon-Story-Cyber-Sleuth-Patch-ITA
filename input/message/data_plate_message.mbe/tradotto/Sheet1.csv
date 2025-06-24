@@ -1,31 +1,33 @@
 ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
-0,5004,,Qualcosa è scritto sopra...,上頭寫著某些字……,,무언가 적혀 있다…,Es steht etwas geschrieben ...
+0,5004,,Qualcosa è scritto sopra...,上頭寫著某些字……,,무언가 적혀 있다…,Es steht etwas geschrieben ...
 1,5004,,Analisi dati completata,資料分析成功。,,데이터의 해석에 성공했다,Datenanalyse abgeschlossen
-2,5038,,[4Codice di sblocco...>],[4Unlock code･･･＞],,[4Unlock code･･･＞],[4Freischaltcode ...>]
-3,5004,,Si tratta di una specie di dato bloccato...,有某些資料被上鎖……,,어떤 데이터가 록 되어 있다…,Es sind irgendwelche gesperrten Daten ...
-4,5004,,"Sembra il registro di un hacker che è passato molto tempo fa, lasciato come messaggio per gli hacker che verranno.","這似乎是以前來過這裡的駭客所留下的記錄……
+2,5038,,[4Codice di sblocco...>],[4Unlock code･･･＞],,[4Unlock code･･･＞],[4Freischaltcode ...>]
+3,5004,,Si tratta di una specie di dato bloccato...,有某些資料被上鎖……,,어떤 데이터가 록 되어 있다…,Es sind irgendwelche gesperrten Daten ...
+4,5004,,"Sembra il registro di un hacker che è passato
+molto tempo fa, lasciato come messaggio
+per gli hacker che verranno.","這似乎是以前來過這裡的駭客所留下的記錄……
 他留了一些訊息要給之後來的駭客。",,"전에 이곳을 지나간 해커의 로그인 모양이다…
 뒤따라 올 해커를 위한 메시지가 남겨져 있다","Sieht nach dem Protokoll eines Hackers aus, das er
 vor langer Zeit als Nachricht an zukünftige
 Hacker hier hinterlassen hat."
-100,5038,,"[4Se vuoi andare più a fondo,
-incolla i dati rossi sul piedistallo di destra.
-da　[c4101]]","[4想到深處去的人，
+100,5038,,"[4Se vuoi andare più a fondo, incolla
+i dati rossi sul piedistallo di
+destra. da　[c4101]]","[4想到深處去的人，
 就把RED資料貼到右邊的台座上。
 by　[c4101]]",,"[4안쪽으로 가고 싶은 자는
 오른쪽의 받침대에, RED 데이터를 페이스트하라
 ｂｙ　[c4101]]","[4Willst du weiter hinein, dann füge die
 roten Daten auf dem richtigen Podest ein.
 Von [c4101]]"
-20400,5004,,"...Non c'è scritto niente.
-Solo dati vuoti.",……這是什麼都沒寫的空白資料。,,"…아무것도 적혀 있지 않다
+20400,5004,,"...Non c'è scritto
+niente. Solo dati vuoti.",……這是什麼都沒寫的空白資料。,,"…아무것도 적혀 있지 않다
 텅 빈 데이터다","... Da steht nichts.
 Nur leere Daten."
 70200,5038,,"[4Suggerimento dell'Hacker: ""L'oscurità si cela davanti.""]",[4【駭客心得「前途莫測」】],,[4【해커의 마음가짐「한 치 앞은 어둠」】],[4Hacker-Tipp: „Vor dir liegt Dunkelheit.“]
 70201,5038,,[4Se pensi di essere un grande hacker--],[4如果你自認為是有才能的駭客——],,"[4네가 유능한 해커라고
-스스로 생각하고 있다면―]","[4Wenn du meinst, du bist ein toller Hacker ...]"
-70202,5038,,"[4allora sai di non dover sottovalutare
-ciò che sembra non essere niente.]","[4就算乍看之下是空無一物的地方，
+스스로 생각하고 있다면―]","[4Wenn du meinst, du bist ein toller Hacker ...]"
+70202,5038,,"[4allora sai di non dover sottovalutare ciò
+che sembra non essere niente.]","[4就算乍看之下是空無一物的地方，
 最好也要多加小心。]",,"[4언뜻 보기에는 아무것도 없는 장소여도
 방심하지 않는 게 좋아]","[4... dann weißt du, dass man auch „nichts“
 nicht unterschätzen darf.]"
@@ -46,50 +48,52 @@ diventare qualcosa di completamente diverso.]","[4你原本以為是道路的地
 etwas ganz anderes werden.]"
 70206,5038,,[4Oscurità. È ciò che ci attende.],[4這就是前途莫測。],,"[4한 치 앞은 어둠, 이다]",[4Dunkelheit liegt vor dir.]
 70207,5038,,"[4Se sei un hacker abbastanza abile da essere in grado
-di decriptare questo registro, dovresti essere in grado
-di capire cosa significa veramente.]","[4如果是能夠解讀這個記錄的駭客，
+di decriptare questo registro, dovresti essere in
+grado di capire cosa significa veramente.]","[4如果是能夠解讀這個記錄的駭客，
 自然就會察覺我這句話的意思吧。]",,"[4이 로그를 해독할 수 있을 정도의 해커라면
 이게 무슨 의미인지 스스로 알 수 있겠지]","[4Wenn du gut genug im Hacking bist, um dieses
 Protokoll zu entschlüsseln, dann kommst du
 auch drauf, was das bedeutet.]"
-70300,5038,,"[Suggerimento dell'Hacker: ""Chi non risica non rosica.""]",[4【駭客心得「不入虎穴焉得虎子」】],,[4【해커의 마음가짐「호랑이를 잡으려면 호랑이굴에 들어가야 한다」】],"[4Hacker-Tipp: „Wer nicht wagt, der
+70300,5038,,"[4Suggerimento dell'Hacker: ""Chi non
+risica non rosica.""]",[4【駭客心得「不入虎穴焉得虎子」】],,[4【해커의 마음가짐「호랑이를 잡으려면 호랑이굴에 들어가야 한다」】],"[4Hacker-Tipp: „Wer nicht wagt, der
 nicht gewinnt.“]"
 70301,5038,,[4Se pensi di essere un grande hacker--],[4如果你自認為是有才能的駭客——],,"[4네가 유능한 해커라고
-스스로 생각하고 있다면―]","[4Wenn du meinst, du bist ein toller Hacker ...]"
-70302,5038,,"[4allora non esiterai ad andare ovunque,
-anche in posti che pensavi fossero pericolosi.]","[4就算是大家都認為很危險的地方，
+스스로 생각하고 있다면―]","[4Wenn du meinst, du bist ein toller Hacker ...]"
+70302,5038,,"[4allora non esiterai ad andare ovunque, anche in
+posti che pensavi fossero pericolosi.]","[4就算是大家都認為很危險的地方，
 你也要特意闖一闖。]",,"[4설령 위험하다고 생각되는 장소여도
 한번 뛰어들어 보도록]","[4... dann traust du dich überallhin, auch dort,
 wo du es für gefährlich hältst.]"
 70303,5038,,"[4Siamo hacker, no?]",[4我們是駭客對吧？],,[4우리들은 해커잖아?],[4Schließlich sind wir doch Hacker?]
-70304,5038,,"[4Un sentiero ""vietato"" o una porta ""segreta""?
-Queste restrizioni non si applicano a noi.]","[4無論是別人擅自認定無法通行的道路，還是秘密之門，
+70304,5038,,"[4Un sentiero ""vietato"" o una porta
+""segreta""? Queste restrizioni non si applicano a noi.]","[4無論是別人擅自認定無法通行的道路，還是秘密之門，
 對駭客都不管用。]",,"[4타인이 멋대로 정한 지나갈 수 없는 길도, 비밀의 문도
 해커에게는 소용없어]","[4„Verbotene“ Wege, „geheime“ Türen?
 Für uns gelten diese Beschränkungen nicht.]"
 70305,5038,,[4Nessuno può dire a un hacker cosa fare.],[4任何人都無法限制駭客的行動。],,[4그 누구도 해커의 행동을 제한할 수 없어],"[4Niemand sagt einem Hacker, was er tun soll.]"
-70306,5038,,"[4Anche se andare avanti o tornare indietro, è qualcosa che dovresti decidere tu stesso.]","[4自己要前進與否，
+70306,5038,,"[4Anche se andare avanti o tornare
+indietro, è qualcosa che dovresti decidere tu stesso.]","[4自己要前進與否，
 自己決定就行了。]",,"[4네가 이 앞으로 나아갈지, 나아가지 않을지도
 네가 정하면 돼]","[4Auch die Frage, ob du weitergehst oder
 umdrehst, solltest du selbst entscheiden.]"
-70307,5038,,"[4Ma non dimenticare...
-Chi non risica, non rosica.]","[4但是，最好不要忘記「不入虎穴焉得虎子」
+70307,5038,,"[4Ma non
+dimenticare... Chi non risica, non rosica.]","[4但是，最好不要忘記「不入虎穴焉得虎子」
 這句話哦。]",,"[4하지만, 호랑이를 잡으려면 이라는 말을
-잊지 않는 편이 좋아]","[4Aber denk dran ...
+잊지 않는 편이 좋아]","[4Aber denk dran ...
 Wer nicht wagt, der nicht gewinnt.]"
 180201,5038,,[4PATTERN ROSSO: OK],[4PATTERN RED  ：OK],,[4PATTERN RED  ：OK],[4ROTES MUSTER: O.K.]
-180301,5038,,"[4SINISTRA MOTIVO BLU: OK
-DESTRA MOTIVO VERDE: OK]","[4LEFT PATTERN BLUE ：OK
+180301,5038,,"[4SINISTRA MOTIVO BLU:
+OK DESTRA MOTIVO VERDE: OK]","[4LEFT PATTERN BLUE ：OK
 RIGHT PATTERN GREEN ：OK]",,"[4LEFT PATTERN BLUE ：OK
 RIGHT PATTERN GREEN ：OK]","[4BLAUES MUSTER LINKS: O.K.
 GRÜNES MUSTER RECHTS: O.K.]"
-200201,5038,,"[4PATTERN ROSSO: ERRORE!
-PATTERN ROSSO: ERRORE!]","[4PATTERN RED   ：ERROR!
+200201,5038,,"[4PATTERN ROSSO:
+ERRORE! PATTERN ROSSO: ERRORE!]","[4PATTERN RED   ：ERROR!
 PATTERN RED   ：ERROR!]",,"[4PATTERN RED   ：ERROR!
 PATTERN RED   ：ERROR!]","[4ROTES MUSTER: FEHLER!
 ROTES MUSTER: FEHLER!]"
-200310,5038,,"[4PATTERN BLU: ERRORE!
-PATTERN VERDE: OK]","[4PATTERN BLUE  ：ERROR!
+200310,5038,,"[4PATTERN BLU:
+ERRORE! PATTERN VERDE: OK]","[4PATTERN BLUE  ：ERROR!
 PATTERN GREEN  ：OK]",,"[4PATTERN BLUE  ：ERROR!
 PATTERN GREEN  ：OK]","[4BLAUES MUSTER: FEHLER!
 GRÜNES MUSTER: O.K.]"
@@ -118,8 +122,8 @@ PATTERN VIOLA: ERRORE!]","[4PATTERN YELLOW ：OK
 PATTERN PURPLE ：ERROR!]",,"[4PATTERN YELLOW ：OK
 PATTERN PURPLE ：ERROR!]","[4GELBES MUSTER: O.K.
 LILA MUSTER: FEHLER!]"
-200340,5038,,"[4SCHEMA BLU: ERRORE!
-SCHEMA VERDE: OK]","[4PATTERN BLUE   ：ERROR!
+200340,5038,,"[4SCHEMA BLU:
+ERRORE! SCHEMA VERDE: OK]","[4PATTERN BLUE   ：ERROR!
 PATTERN GREEN  ：OK]",,"[4PATTERN BLUE   ：ERROR!
 PATTERN GREEN  ：OK]","[4BLAUES MUSTER: FEHLER!
 GRÜNES MUSTER: O.K.]"
@@ -131,10 +135,11 @@ LILA MUSTER: FEHLER!]"
 240300,5038,,"[4ACCESSO AL SERVER...
 DOWNLOAD DATI COMPLETATO]","[4登入伺服器……
 資料下載完畢。]",,"[4서버에 접속…
-데이터의 다운로드를 완료했습니다]","[4ZUGRIFF AUF SERVER ...
+데이터의 다운로드를 완료했습니다]","[4ZUGRIFF AUF SERVER ...
 DOWNLOAD ABGESCHLOSSEN]"
 70308,2000,,"Sembra il registro di un hacker che è passato
-molto tempo fa, lasciato come messaggio per gli hacker che verranno.","這似乎是以前來過這裡的駭客所留下的記錄……
+molto tempo fa, lasciato come messaggio
+per gli hacker che verranno.","這似乎是以前來過這裡的駭客所留下的記錄……
 他留了一些訊息要給之後來的駭客。",,"전에 이곳을 지나간 해커의 로그인 모양이다…
 뒤따라 올 해커를 위한 메시지가 남겨져 있다","Sieht nach dem Protokoll eines Hackers aus, das er
 vor langer Zeit als Nachricht an zukünftige
