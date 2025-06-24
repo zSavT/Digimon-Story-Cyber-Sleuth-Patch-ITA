@@ -1,365 +1,354 @@
-﻿ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
-1,3002,,"Scusaci per il ritardo! Allora, Kyoko,
-diamoci dentro con il briefing strategico!","久～等了～！！
-那麼～杏子小姐，開始作戰會議吧！",,"기다리셨죠~!!
+﻿"ID","Speaker","Japanese","English","Chinese","EnglishCensored","Korean","German"
+"1","3002","","Scusa per il ritardo! Allora, Kyoko,
+partiamo subito con la riunione strategica!","久～等了～！！
+那麼～杏子小姐，開始作戰會議吧！","","기다리셨죠~!!
 그럼 쿄코 씨, 작전 회의를 시작해요!","Entschuldige, dass wir so spät sind! Also, Kyoko,
 legen wir los mit der Strategiebesprechung!"
-2,3006,,Manca ancora una persona importante.,不，還有一個重要的角色還沒來。,,"아니, 아직 한 명 중요한 캐스트가 안 왔다",Es fehlt noch eine wichtige Person.
-3,3002,,Una persona importante? Oltre a me...?,重要的角色？除了我們之外還有誰……？,,중요한 캐스트? 우리들 이외에 누가…,Eine wichtige Person? Außer mir ...?
-4,3002,,Ugh? Non vorrai mica dire...?,咦？重要的角色……該不會是？,,엑? 중요한 캐스트라는 게… 설마?,Boah? Du meinst doch nicht etwa ...?
-5,3005,,Uff.,真是的……,,…정말이지,Uff.
-6,3005,,"Sono qui per la riunione strategica su
-come sconfiggere Kishibe. Ma a quanto vedo,
-c'è anche il nostro piccolo monello.","聽說要開作戰會議，將岸部逼到走投無路，所以我才過來看看……
-失控蠻幹少女也在喔……真叫人不放心。",,"키시베를 몰아넣기 위한 작전 회의라고 들어서 와 봤더니…
+"2","3006","","Manca ancora una persona chiave.","不，還有一個重要的角色還沒來。","","아니, 아직 한 명 중요한 캐스트가 안 왔다","Es fehlt noch eine wichtige Person."
+"3","3002","","Una persona chiave? A parte me...?","重要的角色？除了我們之外還有誰……？","","중요한 캐스트? 우리들 이외에 누가…","Eine wichtige Person? Außer mir ...?"
+"4","3002","","Ugh? Non vorrai mica dire...?","咦？重要的角色……該不會是？","","엑? 중요한 캐스트라는 게… 설마?","Boah? Du meinst doch nicht etwa ...?"
+"5","3005","","Uffa.","真是的……","","…정말이지","Uff."
+"6","3005","","Sono qui per la riunione sulla strategia su come fare 
+fuori Kishibe. Ma vedo che c'è anche la nostra 
+piccola peste.","聽說要開作戰會議，將岸部逼到走投無路，所以我才過來看看……
+失控蠻幹少女也在喔……真叫人不放心。","","키시베를 몰아넣기 위한 작전 회의라고 들어서 와 봤더니…
 폭주 멧돼지 어택 소녀도 있었냐… 왠지 불안하구만","Ich bin hier wegen der Strategiebesprechung,
 wie wir Kishibe ausschalten. Aber wie ich sehe,
 ist unser kleiner Wildfang auch da."
-7,3002,,"Parla proprio quello giusto! Tu rendi sempre
-tutto più complicato perché ti credi chissà chi!
-Immaturo emotivamente, idiota completo!","吼～～～！　那才是我的台詞吧～！
+"7","3002","","Senti chi parla! Sei tu quello che complica sempre 
+tutto, perché ti credi chissà chi! Ma piantala, 
+immaturo del cavolo!","吼～～～！　那才是我的台詞吧～！
 你是有多計較什麼“傳奇”的啊～？
-你這個……重度中二病少年！",,"빠지이이익~! 그건 이쪽 대사거든요~!
+你這個……重度中二病少年！","","빠지이이익~! 그건 이쪽 대사거든요~!
 ""레전드""라니, 얼마나 문제를 일으키고 다닌 겁니까~?
 이… 중2병이라든가 이것저것 꼬인 소년!","Da redet der Richtige! Du machst immer alles
 komplizierter, weil du dich für sonstwen hältst!
 Du emotional unreifer Volldepp!"
-8,3002,,"Sei sempre stato così! Scompari in Sottozero
-semplicemente da solo! Non vali niente per le
+"8","3002","","Sei sempre stato così! Scompari a Under Zero
+completamente da solo! Non vali niente per le
 missioni di squadra! Lasciaci in pace!","話說回來到底是怎樣啊～！在Under Zero也一個人不見！
-你才不適合團體戰，拜託你不要扯後腿唷。",,"애초에 뭐야! 언더 제로에서도 혼자서 사라지고 말이야!
+你才不適合團體戰，拜託你不要扯後腿唷。","","애초에 뭐야! 언더 제로에서도 혼자서 사라지고 말이야!
 너야말로 팀전에 안 맞으니까, 발목이나 잡지 말라구","Du warst schon immer so! Verschwindest in Unter
 Null einfach alleine! Du taugst gar nichts für
 Teameinsätze! Lass uns in Ruhe!"
-9,3006,,"Purtroppo, questa strategia dipende da
-tutti voi.",不好意思，這個作戰只要少了任何一個人，就無法成立。,,"미안하지만 이 작전은, 누구 하나라도 빠지면 성립하지 않아","Bei dieser Strategie kommt es leider auf euch
+"9","3006","","Purtroppo, questa strategia dipende 
+da tutti voi.","不好意思，這個作戰只要少了任何一個人，就無法成立。","","미안하지만 이 작전은, 누구 하나라도 빠지면 성립하지 않아","Bei dieser Strategie kommt es leider auf euch
 alle an."
-10,3006,,"Il nostro piccolo scapestrato e il nostro ragazzo
-immaturo devono collaborare.","希望失控蠻幹少女和
-雖然是個傳奇卻很中二的少年都能幫忙。",,"폭주 멧돼지 어택 소녀도
+"10","3006","","La nostra scapestrata e il nostro immaturo 
+devono collaborare.","希望失控蠻幹少女和
+雖然是個傳奇卻很中二的少年都能幫忙。","","폭주 멧돼지 어택 소녀도
 레전드지만 중2병으로 꼬인 소년도 협력해 줬으면 한다","Unser kleiner Wildfang und unser unreifer Junge
 müssen zusammenarbeiten."
-11,3005,,"Non mi importa affatto, purché sconfiggiamo
-Kishibe. Iniziamo.","只要能教訓岸部，我都行啦。
-快點開始吧。",,"…뭐 난 키시베를 공격할 수 있다면 뭐든 좋아
+"11","3005","","A me non frega niente, basta battere Kishibe.
+Cominciamo.","只要能教訓岸部，我都行啦。
+快點開始吧。","","…뭐 난 키시베를 공격할 수 있다면 뭐든 좋아
 어서 시작해 줘","Mir ganz egal, solange wir Kishibe besiegen.
 Fangen wir an."
-12,3006,,"Ecco quanto su
-Arata. Obiezioni dal piccolo monello?","他是這麼說的。
-失控蠻幹少女也沒有異議嗎？",,"그렇다는군
+"12","3006","","Parole di Arata.
+Obiezioni dalla piccola peste?","他是這麼說的。
+失控蠻幹少女也沒有異議嗎？","","그렇다는군
 폭주 멧돼지 어택 소녀도 이론은 없나?","So viel von Arata.
 Einsprüche vom kleinen Wildfang?"
-13,3002,,"Un
-momento! Voglio dirvi una cosa!","嗯……但在那之前！
-有一～些些事情想請大家聽聽……！",,"……아, 그 전에!
+"13","3002","","Aspettate un secondo!
+Devo dirvi una cosa!","嗯……但在那之前！
+有一～些些事情想請大家聽聽……！","","……아, 그 전에!
 잠~깐 모두가 들어줬으면 하는 얘기가 있어서…!","Einen Moment mal!
 Ich will euch allen was erzählen!"
-14,3006,,"Hm... Questo è quindi il piano
-„Paradiso Perduto“. Capisco.","嗯……那就是「失樂園計畫」的全貌啊……
-原來如此呢。",,"흐음… 그게「파라다이스 로스트 계획」의 전모인가
+"14","3006","","Mmh... Quindi questo è il piano 
+""Paradiso Perduto"", eh? Capito.","嗯……那就是「失樂園計畫」的全貌啊……
+原來如此呢。","","흐음… 그게「파라다이스 로스트 계획」의 전모인가
 …그렇군","Hm ... Das ist also der Plan „Verlorenes
 Paradies“. Verstehe."
-15,3005,,"Distruggere il mondo umano?
-Davvero? Non avrei pensato che fosse così grave...","說什麼人類世界的毀滅……真的假的。
-事情有變得那麼嚴重嗎……？",,"인간 세계의 파멸이라니… 진짜냐
+"15","3005","","Distruggere il mondo reale? Ma davvero?
+Non pensavo fosse una cosa così seria...","說什麼人類世界的毀滅……真的假的。
+事情有變得那麼嚴重嗎……？","","인간 세계의 파멸이라니… 진짜냐
 그렇게까지 얘기가 커진 거냐…","Die Menschenwelt zerstören? Wirklich?
 Ich hätte nicht gedacht, dass es so ernst ist ..."
-16,3006,,"Hihi. Ora tutte le mie teorie sono state confermate.
-Grazie, scavezzacollo.","呵呵……多虧了這個情報，我的假設也全被證明了呢。
-感謝妳，失控蠻幹少女。",,"후후… 그 정보 덕분에, 내 가설도 전부 입증됐다
+"16","3006","","Hihi. Ecco, tutte le mie teorie si sono avverate.
+Grazie, piccola peste.","呵呵……多虧了這個情報，我的假設也全被證明了呢。
+感謝妳，失控蠻幹少女。","","후후… 그 정보 덕분에, 내 가설도 전부 입증됐다
 감사하지, 폭주 멧돼지 어택 소녀","Hihi. Jetzt wurden alle meine Theorien bestätigt.
 Danke, Wildfang."
-17,3002,,"Non ringraziare me. Omnimon si è meritato il
-ringraziamento. E Kyoko, potresti smetterla con il termine
-""maschiaccio"", per favore?","沒有啦～　別謝我，應該謝奧米加獸啦……
-還有，杏子小姐，請不要再那樣稱呼我……",,"이거~ 나 덕분이라고 할까 오메가몬 덕분이라고 할까…
+"17","3002","","Non ringraziare me, il merito è tutto di Omnimon.
+E Kyoko, la smetti di chiamarmi ""Piccola peste""?","沒有啦～　別謝我，應該謝奧米加獸啦……
+還有，杏子小姐，請不要再那樣稱呼我……","","이거~ 나 덕분이라고 할까 오메가몬 덕분이라고 할까…
 쿄코 씨, 그렇게 부르는 거 이제 그만둬 주셨으면 할까…","Dank nicht mir. Omnimon hat den Dank verdient.
 Und Kyoko, könntest du das mit „Wildfang“
 bitte lassen?"
-18,3006,,"Hihi... Direi che è ora di discutere
-seriamente della questione.",呵呵呵……那麼讓我們重新開始作戰會議吧。,,후후후… 그럼 다시 작전 회의를 시작하지,"Hihi ... Es ist wohl Zeit, ernsthaft über die
+"18","3006","","Hihì... Direi che è ora di parlare 
+seriamente della questione.","呵呵呵……那麼讓我們重新開始作戰會議吧。","","후후후… 그럼 다시 작전 회의를 시작하지","Hihi ... Es ist wohl Zeit, ernsthaft über die
 Angelegenheit zu beraten."
-19,3006,,"Abbiamo il nostro Fatto A: Rie Kishibe ha
-l'obiettivo di creare una breccia nel Muro Dimensionale, come
-una sorta di portale dimensionale.","首先是事實A——已經弄清了岸部里繪的目的
-是在「次元之壁」上鑿洞，打開「次元之門」。",,"우선 사실A, 키시베 리에의 목적은「차원의 벽」에 구멍을 뚫는 것―
+"19","3006","","Ok, quindi il piano di Rie Kishibe è aprire un varco 
+nel muro dimensionale, una specie di portale.","首先是事實A——已經弄清了岸部里繪的目的
+是在「次元之壁」上鑿洞，打開「次元之門」。","","우선 사실A, 키시베 리에의 목적은「차원의 벽」에 구멍을 뚫는 것―
 「차원의 문」을 여는 것이라고, 판명됐다","Wir haben unseren Fakt A: Rie Kishibe hat das
 Ziel, ein Loch in den Dimensionswall zu reißen,
 als eine Art Dimensionstor."
-20,3006,,Fatto B: Rie Kishibe ha rapito Yuuko Kamishiro.,事實B——「神代悠子」被那個岸部里繪給綁架了。,,"사실B, 그 키시베 리에에 의해「카미시로 유코」가 납치됐다",Fakt B: Rie Kishibe hat Yuuko Kamishiro entführt.
-21,3006,,"Questi due devono essere collegati.
+"20","3006","","Fatto B: Rie Kishibe ha rapito Yuuko Kamishiro.","事實B——「神代悠子」被那個岸部里繪給綁架了。","","사실B, 그 키시베 리에에 의해「카미시로 유코」가 납치됐다","Fakt B: Rie Kishibe hat Yuuko Kamishiro entführt."
+"21","3006","","Questi due fatti devono essere collegati.
 L'implementazione di A dipende da B.","事實AB恐怕有關連。
-為了達成A， B的執行應該是不可或缺的。",,"이 AB의 사실은, 아마도 무관계가 아니다
+為了達成A， B的執行應該是不可或缺的。","","이 AB의 사실은, 아마도 무관계가 아니다
 A를 달성하기 위해서, B의 행동이 불가결했던 거겠지","Diese beiden müssen zusammenhängen.
 Die Umsetzung von A hängt von B ab."
-22,3006,,E ancora non ha superato A.,然後，A尚未被達成。,,"그리고, A는 아직 달성되지 않았어",Und noch hat sie A nicht geschafft.
-23,3006,,"La nostra strategia deve quindi comprendere sia
-il salvataggio di Yuuko Kamishiro sia lo
-sventamento del piano ""Paradiso Perduto"".","因此這次的作戰行動，是要能同時達成「奪回神代悠子」
-及「完全阻止失樂園計畫」。",,"따라서 이번 작전 행동으로「카미시로 유코의 탈환」및
+"22","3006","","E ancora non ce l'ha fatta.","然後，A尚未被達成。","","그리고, A는 아직 달성되지 않았어","Und noch hat sie A nicht geschafft."
+"23","3006","","Quindi, la nostra strategia deve includere sia il 
+salvataggio di Yuuko Kamishiro che il far saltare 
+in aria il piano ""Paradiso Perduto"".","因此這次的作戰行動，是要能同時達成「奪回神代悠子」
+及「完全阻止失樂園計畫」。","","따라서 이번 작전 행동으로「카미시로 유코의 탈환」및
 「파라다이스 로스트 계획의 전면 저지」를 동시에 달성 가능하다","Unsere Strategie muss daher sowohl die Rettung von
 Yuuko Kamishiro als auch die Vereitelung des
 Plans „Verlorenes Paradies“ umfassen."
-24,3006,,Sventamento del piano „Paradiso Perduto“.,能同時達成「完全阻止失樂園計畫」。,,「파라다이스 로스트 계획의 전면 저지」를 동시에 달성 가능하다,... Vereitelung des Plans „Verlorenes Paradies“.
-25,3002,,Argh! Mi sta già venendo il mal di testa!,啊嗚，腦袋快要爆炸了…！,,"아우우, 느닷없이 머리가 펑…!",Argh! Ich kriege jetzt schon Kopfschmerzen!
-26,3005,,"Non possiamo pensare adesso ai retroscena
-di B. Il piano è già di per sé troppo azzardato.","…執行B的理由，是說在這情況就別在意呢，
-但不管怎麼說也太牽強了吧。",,"…B 실행의 이유는, 지금은 신경 쓰지 말라는 건가
+"24","3006","","...Sventare il piano ""Paradiso Perduto"".","能同時達成「完全阻止失樂園計畫」。","","「파라다이스 로스트 계획의 전면 저지」를 동시에 달성 가능하다","... Vereitelung des Plans „Verlorenes Paradies“."
+"25","3002","","Argh! Già mi sta venendo il mal di testa!","啊嗚，腦袋快要爆炸了…！","","아우우, 느닷없이 머리가 펑…!","Argh! Ich kriege jetzt schon Kopfschmerzen!"
+"26","3005","","Non possiamo starci a scervellare sui retroscena 
+di B, ora. Il piano è già abbastanza azzardato così.","…執行B的理由，是說在這情況就別在意呢，
+但不管怎麼說也太牽強了吧。","","…B 실행의 이유는, 지금은 신경 쓰지 말라는 건가
 아무리 그래도 너무 억지잖아","Über die Hintergründe von B können wir jetzt
 nicht nachdenken. Der Plan ist so schon zu gewagt."
-27,3006,,"Un'ipotesi astuta, sì.",所謂名推理，往往都是這個樣子。,,"명추리란, 보통 그런 거다","Eine schlaue Vermutung, ja."
-28,3006,,"Ma ho alcune nuove prove che vorrei
-mostrarvi. Queste dovrebbero dissipare ogni dubbio.","但是……為了掃除你們理所當然的疑慮，
-我就公開新到手的證據吧。",,"…하지만, 지극히 정직한 네 의문을 풀기 위해
+"27","3006","","Una supposizione azzeccata, direi.","所謂名推理，往往都是這個樣子。","","명추리란, 보통 그런 거다","Eine schlaue Vermutung, ja."
+"28","3006","","Però ho delle nuove prove da farvi vedere. 
+Dovrebbero togliervi ogni dubbio.","但是……為了掃除你們理所當然的疑慮，
+我就公開新到手的證據吧。","","…하지만, 지극히 정직한 네 의문을 풀기 위해
 내가 새로 손에 넣은 증거를 보여 주도록 하지","Aber ich habe einige neue Beweise, die ich euch
 zeigen möchte. Die sollten Zweifel ausräumen."
-29,3005,,Non ti esprimerai mai neanche più concretamente.,還是和往常一樣，讓人摸不著頭緒啊……！,,"여전히, 종잡을 수가 없구만…!",Du wirst dich auch nie konkreter ausdrücken.
-30,3006,,"Grazie a simulazioni sull'insorgenza
-dei labirinti e sulle correnti dell'onda
-digitale...","針對最近發生”迷途之村”事件的地方，
-以及現在可偵測的數碼波的流動，進行模擬的結果……",,"최근에 일어난 마요이가 사건의 발생 장소, 그리고 현재 탐지 가능한
+"29","3005","","Astuta come sempre! Non cambi mai!","還是和往常一樣，讓人摸不著頭緒啊……！","","여전히, 종잡을 수가 없구만…!","Du wirst dich auch nie konkreter ausdrücken."
+"30","3006","","Grazie alle simulazioni sui labirinti e sul flusso
+dell'onda digitale...","針對最近發生”迷途之村”事件的地方，
+以及現在可偵測的數碼波的流動，進行模擬的結果……","","최근에 일어난 마요이가 사건의 발생 장소, 그리고 현재 탐지 가능한
 디지털 웨이브의 흐름을 시뮬레이트한 결과…","Mithilfe von Simulationen zum Auftreten der
 Labyrinthe und zu den Strömungen der digitalen
 Welle ..."
-31,3006,,"Ho individuato un grande, stabile e
-regolarmente emergente epicentro di energia.","發現了常保安定狀態的
-大規模「能源場」。",,"정상적으로 안정 상태에 있는
+"31","3006","","Ho individuato un picco energetico bello grosso, 
+stabile e che si ripete regolarmente.","發現了常保安定狀態的
+大規模「能源場」。","","정상적으로 안정 상태에 있는
 대규모「에너지장」의 존재가 나왔다","Habe ich ein großes, stabiles und regelmäßig
 erscheinendes Energie-Epizentrum ausgemacht."
-32,3002,,...,………,,………,...
-33,3006,,"Si tratta di un flusso
-energetico circolare che copre tutta Tokyo. Ho
-chiamato questa rete la linea digitale.","覆蓋了整個東京的圓環狀能源流——
-我把這個環狀網路命名為「數碼線」。",,"도쿄 전역을 덮는, 원형 모양의 에너지 흐름―
+"32","3002","","...","………","","………","..."
+"33","3006","","È un flusso di energia circolare che copre tutta 
+Tokyo. Ho chiamato questa rete ""Linea Digitale"".","覆蓋了整個東京的圓環狀能源流——
+我把這個環狀網路命名為「數碼線」。","","도쿄 전역을 덮는, 원형 모양의 에너지 흐름―
 난, 이 원형 네트워크를「디지털 라인」이라 이름 지었다","Es handelt sich um einen kreisförmigen
 Energiefluss, der ganz Tokio abdeckt. Ich habe
 dieses Netzwerk die digitale Leitung genannt."
-34,3006,,"L'epicentro energetico, che consiste di
-onde digitali, si trova
-sorprendentemente sotto controllo umano.","令人驚訝的是，這個以數碼波建造的能源場，
-受到人為的控制。",,"놀랍게도, 디지털 웨이브로 구축된
+"34","3006","","L'epicentro energetico, fatto di onde digitali,
+è stranamente sotto il controllo degli umani.","令人驚訝的是，這個以數碼波建造的能源場，
+受到人為的控制。","","놀랍게도, 디지털 웨이브로 구축된
 이 에너지장에는, 인위적인 제어가 이루어지고 있다","Das Energie-Epizentrum, das aus digitalen Wellen
 besteht, befindet sich überraschenderweise
 unter menschlicher Kontrolle."
-35,3006,,"Probabilmente è sotto il controllo di
-Kishibe alla Kamishiro.",十之八九是操縱在神代——岸部等人的手裡。,,"십중팔구, 카미시로― 키시베 일행의 손에 의해서 말이야","Wahrscheinlich unterliegt es der Kontrolle von
+"35","3006","","Probabilmente è sotto il controllo di Kishibe 
+che lavora per Kamishiro.","十之八九是操縱在神代——岸部等人的手裡。","","십중팔구, 카미시로― 키시베 일행의 손에 의해서 말이야","Wahrscheinlich unterliegt es der Kontrolle von
 Kishibe bei Kamishiro."
-36,3006,,"Anche le stazioni EDEN in città sembrano
-essere collegate a questo epicentro energetico.","看來在各地配置的EDEN點
-也和能源場的建造有關連。",,"각지에 배치된 EDEN 스폿도
+"36","3006","","Sembra che anche le stazioni EDEN in città siano collegate
+a questo epicentro energetico.","看來在各地配置的EDEN點
+也和能源場的建造有關連。","","각지에 배치된 EDEN 스폿도
 아무래도 에너지장의 구축과 관련되어 있는 모양이다","Auch die EDEN-Stationen in der Stadt scheinen
 mit diesem Energie-Epizentrum zusammenzuhängen."
-37,3005,,Ora capisco!,這樣啊……！,,…그런가!,Jetzt verstehe ich!
-38,3005,,"La rete a Shinjuku, dove [p]
-è saltato, ne faceva parte anche!","在新宿[p]所跳躍到的網路
-就是這個鬼東西嗎……！",,"신주쿠에서 [p]가(이) 점프했던 네트워크는
+"37","3005","","Ora ho capito!","這樣啊……！","","…그런가!","Jetzt verstehe ich!"
+"38","3005","","Anche la rete di Shinjuku in cui [p] ha fatto 
+irruzione ne faceva parte!","在新宿[p]所跳躍到的網路
+就是這個鬼東西嗎……！","","신주쿠에서 [p]가(이) 점프했던 네트워크는
 이거였던 거구만…!","Das Netzwerk in Shinjuku, wo [p]
 gesprungen ist, gehörte auch dazu!"
-39,2000,,!!!,！！,,!!,!!!
-40,3002,,...,……………,,……………,...
-41,3005,,"Questo è il segreto delle stazioni
-EDEN. Sono quindi percorsi, simili a linfonodi?","原來在EDEN點裡頭，竟然有這樣的秘密啊……
-總之，就是出現了一條像“龍脈”的道路吧？",,"EDEN 스폿에, 그런 비밀이 있었을 줄이야…
+"39","2000","","!!!","！！","","!!","!!!"
+"40","3002","","...","……………","","……………","..."
+"41","3005","","Ecco svelato il mistero delle stazioni EDEN.
+Quindi sono come delle vie, un po' come i linfonodi?","原來在EDEN點裡頭，竟然有這樣的秘密啊……
+總之，就是出現了一條像“龍脈”的道路吧？","","EDEN 스폿에, 그런 비밀이 있었을 줄이야…
 즉, ""용맥"" 같은 길이 형성되어 있다는 거잖아?","Das ist das Geheimnis der EDEN-Stationen.
 Sie sind also Bahnen, ähnlich wie Lymphknoten?"
-42,3006,,"Esatto. Questa rete assomiglia a linee
-telluriche, ovvero condotti con energia soprannaturale, che
-furono postulate nell'antichità.","完全正確……這個網路和自古就存在的
-「龍脈」、「龍線」等超自然能源場非常相似。",,"그래… 이 네트워크는「용맥」「레이 라인」등으로
+"42","3006","","Esatto. Questa rete è un po' come le Leyline,
+quelle specie di condotti di energia sovrannaturale
+di cui si parlava nell'antichità, no?","完全正確……這個網路和自古就存在的
+「龍脈」、「龍線」等超自然能源場非常相似。","","그래… 이 네트워크는「용맥」「레이 라인」등으로
 오래 전부터 존재하는 초자연적인 에너지장과 흡사하다","Genau. Dieses Netzwerk ähnelt Leylinien,
 also Leitungen mit übernatürlicher Energie, die in
 der Antike postuliert wurden."
-43,3006,,"Una versione digitale di una conduttura
-energetica... Kishibe deve averci lavorato a lungo per
-creare questa conduttura digitale.","數碼用的能源線——
-岸部他們花了很長的時間在整備數碼線吧。",,"디지털 형태의 에너지 라인―
+"43","3006","","Una versione digitale di una linea energetica...
+Kishibe ci ha messo un bel po' a creare questa
+linea digitale.","數碼用的能源線——
+岸部他們花了很長的時間在整備數碼線吧。","","디지털 형태의 에너지 라인―
 키시베 일행은, 오랜 시간을 들여서 디지털 라인을
 정비하고 있었던 거겠지","Eine digitale Version einer Energieleitung ...
 Kishibe muss lange daran gearbeitet haben, diese
 digitale Leitung zu erschaffen."
-44,3006,,"L'edificio da cui provengono le onde
-digitali sembra essere una specie di reattore energetico.","讓數碼波循環的構造，
-顯示其本身即為“能源反應爐”。",,"디지털 웨이브를 순환시키는 구조는, 그 자체가
+"44","3006","","Sembra che l'edificio da cui partono queste onde 
+digitali sia una specie di reattore energetico.","讓數碼波循環的構造，
+顯示其本身即為“能源反應爐”。","","디지털 웨이브를 순환시키는 구조는, 그 자체가
 ""에너지 반응로""임을 나타내고 있다","Das Gebäude, von dem die digitalen Wellen
 ausgehen, scheint eine Art Energiereaktor zu sein."
-45,3006,,"L'edificio è davvero fantastico.
-Immagazzina e amplifica energia e la
-rilascia nuovamente.","積存、激發、增幅、放出……
-真是個出色的構造。",,"축적하고, 활성화하고, 증폭시켜, 방출한다
+"45","3006","","Il posto è assurdo.
+Immagazzina, amplifica e rilascia energia.","積存、激發、增幅、放出……
+真是個出色的構造。","","축적하고, 활성화하고, 증폭시켜, 방출한다
 …참으로 잘 만들어진 구조다","Das Gebäude ist wirklich fantastisch.
 Es speichert und verstärkt Energie und gibt sie
 wieder frei."
-46,3006,,"Credo che questo portale si aprirà, quando
-l'enorme quantità di energia nella linea
-digitale verrà rilasciata come un'onda digitale.","我認為，放射出積存於數碼線內能源量龐大的數碼波，
-「門」才會開啟。",,"이 디지털 라인에 축적된 방대한 에너지량의
+"46","3006","","Penso che questo portale si aprirà quando 
+l'enorme quantità di energia nella rete digitale 
+verrà rilasciata come un'onda digitale.","我認為，放射出積存於數碼線內能源量龐大的數碼波，
+「門」才會開啟。","","이 디지털 라인에 축적된 방대한 에너지량의
 디지털 웨이브를 방출하는 것으로「문」이 열리는 거라고 난 생각한다","Ich glaube, dass dieses Tor sich öffnen wird,
 wenn die enorme Energiemenge in der digitalen
 Leitung als digitale Welle freigesetzt wird."
-47,3006,,"A giudicare dalla quantità di energia, il piano
-""Paradiso Perduto"" potrebbe essere attivato da
+"47","3006","","Se non sbaglio, con tutta l'energia che c'è in giro, 
+il piano ""Paradiso Perduto"" potrebbe partire da 
 un momento all'altro.","從能源的激發狀態來推測，失樂園計畫
-可以說是什麼時候執行都不奇怪了。",,"에너지의 활성화 상태로부터 추측하건대, 파라다이스 로스트 계획은
+可以說是什麼時候執行都不奇怪了。","","에너지의 활성화 상태로부터 추측하건대, 파라다이스 로스트 계획은
 언제 실행되도 이상하지 않은 상태라고 할 수 있다","So, wie ich die Energiemenge einschätze, könnte
 der Plan „Verlorenes Paradies“ jeden Moment
 zum Einsatz kommen."
-48,3002,,...,…………………,,…………………,...
-49,3006,,"Inoltre il flusso di energia sta cambiando
-drasticamente proprio in questo momento in un punto...","然後，目前在能源流中，
-可以看到有個地點的變化相當顯著……",,"그리고, 현재 에너지의 흐름에
+"48","3002","","...","…………………","","…………………","..."
+"49","3006","","Inoltre, il flusso di energia sta cambiando
+drasticamente proprio in questo momento, in un punto...","然後，目前在能源流中，
+可以看到有個地點的變化相當顯著……","","그리고, 현재 에너지의 흐름에
 현저한 변화를 보이는 포인트가 있다…","Außerdem ändert sich der Energiefluss gerade in
 diesem Moment an einer Stelle drastisch ..."
-50,3006,,"Se lo rintracciamo, arriviamo a
-Roppongi.",追隨能源流，到達的目的地是「六本木」。,,"에너지의 흐름을 따라서, 도달한 곳은「롯폰기」다","Wenn wir das zurückverfolgen, kommen wir nach
+"50","3006","","Se seguiamo questa traccia, arriviamo a
+Roppongi.","追隨能源流，到達的目的地是「六本木」。","","에너지의 흐름을 따라서, 도달한 곳은「롯폰기」다","Wenn wir das zurückverfolgen, kommen wir nach
 Roppongi."
-51,3006,,"Sotto Roppongi si trova un laboratorio di
+"51","3006","","Sotto Roppongi c'è un laboratorio di 
 ricerca sotterraneo di Kamishiro.","在六本木的地底下，有神代的研究設施，
-似乎被稱作「六本木地下設施」。",,"롯폰기의 지하에는, 카미시로의 연구시설이 있다
+似乎被稱作「六本木地下設施」。","","롯폰기의 지하에는, 카미시로의 연구시설이 있다
 「롯폰기 지하시설」이라 불리는 모양이다","Unterhalb von Roppongi liegt ein unterirdisches
 Forschungslabor von Kamishiro."
-52,3006,,"Quando si sente parlare del laboratorio di
-ricerca sotterraneo a Roppongi, si pensa che appartenga
-al governo.","真沒創意——
-不覺得像是“政府相關設施”的名稱嗎？",,"참으로 딱딱한―
+"52","3006","","A sentire parlare del laboratorio di ricerca sotterraneo 
+di Roppongi, uno penserebbe che sia roba del governo.","真沒創意——
+不覺得像是“政府相關設施”的名稱嗎？","","참으로 딱딱한―
 ""정부관련시설"" 같은 명칭이라고 생각하지 않는가?","Wenn man vom unterirdischen Forschungslabor in
 Roppongi hört, meint man, es würde der Regierung
 gehören."
-53,2000,,!!!,！！！,,!!!,!!!
-54,3006,,"Esatto. Il sottopassaggio che hai già
-investigato una volta. Questa struttura si trova lì.","…沒錯，以前調查過的地下道——
-裡頭的“那個設施”呀。",,"…그래, 전에 조사했던 지하도―
+"53","2000","","!!!","！！！","","!!!","!!!"
+"54","3006","","Esatto. Il sottopassaggio che hai già controllato. 
+Lì dentro c'è quella struttura.","…沒錯，以前調查過的地下道——
+裡頭的“那個設施”呀。","","…그래, 전에 조사했던 지하도―
 그 안쪽에 있었던, ""그 시설""이다","Genau. Die Unterführung, die du schon einmal
 untersucht hast. Diese Einrichtung liegt dort."
-55,3006,,"Ho esaminato i tuoi dati di protocollo.
-Le coordinate si trovano lì, dove hai visto
-Yuuko l'ultima volta. Deve essere il nodo.","我追蹤你的紀錄，結果顯示座標軸和神代悠子分開的
-地點一致……他們的大本營肯定是在這裡。",,"너의 로그 정보를 추적한 결과, 카미시로 유코와 헤어진 지점과
+"55","3006","","Ho analizzato i tuoi dati di registro. Le coordinate 
+corrispondono a dove hai visto Yuuko l'ultima volta. 
+Deve essere il punto.","我追蹤你的紀錄，結果顯示座標軸和神代悠子分開的
+地點一致……他們的大本營肯定是在這裡。","","너의 로그 정보를 추적한 결과, 카미시로 유코와 헤어진 지점과
 좌표축이 일치했다… 중추부는 틀림없이, 여기다","Ich habe deine Protokolldaten untersucht. Die
 Koordinaten liegen dort, wo du Yuuko zuletzt
 gesehen hast. Das muss der Knotenpunkt sein."
-56,3005,,"Se attacchiamo lì, riavremo Yuuko.
-Questo è un passo, ma come sventiamo il
-piano di Kishibe?","只要攻下那裡就能奪回悠子……可以確實拿下一場勝利。
-但是，能否阻止計畫還很難說。",,"그곳을 함락시키면 유코 탈환… 1승은 확실하다는 건가
+"56","3005","","Se attacchiamo lì, riprendiamo Yuuko. È un passo 
+avanti, ma come freghiamo Kishibe?","只要攻下那裡就能奪回悠子……可以確實拿下一場勝利。
+但是，能否阻止計畫還很難說。","","그곳을 함락시키면 유코 탈환… 1승은 확실하다는 건가
 …하지만, 계획 저지까지는 미묘한걸","Wenn wir dort angreifen, bekommen wir Yuuko
 zurück. Das ist ein Schritt, aber wie vereiteln
 wir Kishibes Plan?"
-57,3005,,"Se B è una condizione per A e si verifica,
-ma anche C è una condizione per A, allora B...","若要達成A必須實行B，在B被實行的時間點，
-達成A的必要的「條件C」成立的話，則B已經——",,"A 달성에 B 실행이 필요하다고 치고, B가 실행된 시점에서
+"57","3005","","Se B è una condizione di A e si verifica, ma anche
+ C è una condizione per A, allora B...","若要達成A必須實行B，在B被實行的時間點，
+達成A的必要的「條件C」成立的話，則B已經——","","A 달성에 B 실행이 필요하다고 치고, B가 실행된 시점에서
 A 달성에 필요한「조건C」가 성립되었다면, 이미 B는―","Wenn B Bedingung von A ist und eintritt, aber
 auch C Bedingung für A ist, dann wird B ..."
-58,3002,,Smettila! Il mio cervello sta per sciogliersi!,別、別再說了！我的腦子已經到極限了啊……！,,"이, 이제 그만해! 내 뇌는 이미 한계야…!",Aufhören! Mein Hirn schmilzt gleich!
-59,3002,,"Taci e basta, Arata, tu nerd.
-D'ora in poi ti chiamiamo „Nerdata“!",你給我閉嘴，宅男新簡稱宅新！,,"…그보다 입 다물어 오타쿠 아라타, 줄여서 오라타!","Halt einfach die Klappe, Arata, du Nerd.
+"58","3002","","Basta! Mi si sta sciogliendo il cervello!","別、別再說了！我的腦子已經到極限了啊……！","","이, 이제 그만해! 내 뇌는 이미 한계야…!","Aufhören! Mein Hirn schmilzt gleich!"
+"59","3002","","Stai zitto e basta, Arata, brutto nerd.
+Da oggi ti chiamerò ""Nerdone""!","你給我閉嘴，宅男新簡稱宅新！","","…그보다 입 다물어 오타쿠 아라타, 줄여서 오라타!","Halt einfach die Klappe, Arata, du Nerd.
 Dich nennen wir ab jetzt „Nerdata“!"
-60,3005,,Come scusa?!,啊！？,,앙!?,Wie bitte?!
-61,3006,,"Hmpf. Va bene, Nerdata.",呵，宅新，我有萬全之計。,,"훗, 빠뜨린 건 없어, 오라타 군","Hmpf. Schon gut, Nerdata."
-62,3006,,"Dobbiamo disturbare il loro controllo sulle
-onde digitali.",要干擾控制數碼波的機制「本身」。,,디지털 웨이브의 제어「자체」를 방해하는 거다,"Wir müssen ihre Kontrolle über die digitalen
+"60","3005","","Ma che dici?!","啊！？","","앙!?","Wie bitte?!"
+"61","3006","","Va bene, Nerdone, non fare storie.","呵，宅新，我有萬全之計。","","훗, 빠뜨린 건 없어, 오라타 군","Hmpf. Schon gut, Nerdata."
+"62","3006","","Dobbiamo interrompere il loro 
+controllo sulle onde digitali.","要干擾控制數碼波的機制「本身」。","","디지털 웨이브의 제어「자체」를 방해하는 거다","Wir müssen ihre Kontrolle über die digitalen
 Wellen stören."
-63,3006,,"Come ho già spiegato, la linea digitale
-è un costrutto artificiale per controllare
-il flusso di onde digitali.","就像剛剛說明的，數碼線是
-為控制數碼波的流動所建造的人造物。",,"설명한 대로, 디지털 라인은
+"63","3006","","Come ti dicevo, la linea digitale è una cosa artificiale 
+creata apposta per controllare il flusso 
+delle onde digitali.","就像剛剛說明的，數碼線是
+為控制數碼波的流動所建造的人造物。","","설명한 대로, 디지털 라인은
 디지털 웨이브의 흐름을 제어해서 구축된 인공물이다","Wie ich schon erklärt habe, ist die digitale
 Leitung ein künstliches Konstrukt, um den Fluss
 digitaler Wellen zu steuern."
-64,3006,,"Questo avviene tramite diversi terminali,
-come ad esempio le stazioni EDEN.","透過以EDEN點為首的各種裝置的運轉和
-電腦操作來控制數碼波的流動。",,"그 제어는, EDEN 스폿을 비롯한 각종 장치의 가동과
+"64","3006","","Si fa tutto da vari terminali, tipo le stazioni EDEN.","透過以EDEN點為首的各種裝置的運轉和
+電腦操作來控制數碼波的流動。","","그 제어는, EDEN 스폿을 비롯한 각종 장치의 가동과
 컴퓨터 오퍼레이팅으로 행해지고 있다","Das geschieht über diverse Terminals, wie zum
 Beispiel die EDEN-Stationen."
-65,3006,,Se potessimo quindi in qualche modo disturbarli...,也就是說，如果能干擾那些裝置的話——,,"즉, 그것들을 방해하면―",Wenn wir sie also irgendwie stören könnten ...
-66,3005,,"Esatto! Intendi in modo analogico! Gli
-togliamo semplicemente la corrente, vero?!","哈！真是土法煉鋼的辦法啊！
-總之就是“把電源關掉”吧！？",,"핫! 참 아날로그한 방법이구만!
+"65","3006","","Se riuscissimo a disturbarli in qualche modo...","也就是說，如果能干擾那些裝置的話——","","즉, 그것들을 방해하면―","Wenn wir sie also irgendwie stören könnten ..."
+"66","3005","","Esatto! Vuoi dire alla vecchia maniera, no?
+Gli stacchiamo la corrente e via, che ne dici?!","哈！真是土法煉鋼的辦法啊！
+總之就是“把電源關掉”吧！？","","핫! 참 아날로그한 방법이구만!
 요컨대 ""전원을 내려 버려""라는 거잖아!?","Genau! Du meinst auf analoge Art und Weise!
 Wir drehen ihnen schlicht den Strom ab, ja?!"
-67,3006,,"Esatto. Ma loro conoscono sicuramente i loro punti
-deboli e hanno riserve di energia d'emergenza.","完全正確……但對方應該也知道自己的弱點。
-他們會準備一兩個預備電源吧。",,"그래… 하지만 저쪽도 그게 약점인 건 알고 있을 거다
+"67","3006","","Esatto. Ma di sicuro conoscono i loro punti deboli 
+e hanno delle riserve di energia d'emergenza.","完全正確……但對方應該也知道自己的弱點。
+他們會準備一兩個預備電源吧。","","그래… 하지만 저쪽도 그게 약점인 건 알고 있을 거다
 예비전원 한둘은 준비해 뒀겠지","Genau das. Aber die kennen ihre Schwachstellen
 sicher und haben Notfallenergiereserven."
-68,3006,,"Dobbiamo quindi colpire contemporaneamente in
-più punti, altrimenti l'intero piano sarà inutile.",但是，如果同時在多處動手腳，應該會露出破綻。,,"하지만, 동시다발적으로 공작을 하면, 반드시 구멍이 생길 거다","Wir müssen also an mehreren Punkten gleichzeitig
+"68","3006","","Quindi dobbiamo colpire in più punti 
+contemporaneamente, altrimenti tutto questo è inutile.","但是，如果同時在多處動手腳，應該會露出破綻。","","하지만, 동시다발적으로 공작을 하면, 반드시 구멍이 생길 거다","Wir müssen also an mehreren Punkten gleichzeitig
 zuschlagen, sonst ist der ganze Plan umsonst."
-69,3002,,"Raduniamo quindi un sacco di
-gente e poi li facciamo fuori?",召集一堆人，同時把電源關掉......之類的？,,"사람을 잔뜩 모아서, 일제히 전원을 OFF한다…던가?","Wir trommeln also einen Haufen Leute zusammen
+"69","3002","","Quindi raduniamo un sacco di 
+gente e poi li freghiamo?","召集一堆人，同時把電源關掉......之類的？","","사람을 잔뜩 모아서, 일제히 전원을 OFF한다…던가?","Wir trommeln also einen Haufen Leute zusammen
 und drehen ihnen dann den Saft ab?"
-70,3005,,"Allora tutta Tokyo è al buio.
-Lascia fare a me, Kyoko.","笨蛋，那樣的話讓整個東京停電不就好了。
-這就交給我吧，杏子小姐。",,"바보야, 그런 건 도쿄 전체를 정전시키면 한 방이잖아
+"70","3005","","Allora, tutta Tokyo sarà al buio.
+Ci penso io, Kyoko.","笨蛋，那樣的話讓整個東京停電不就好了。
+這就交給我吧，杏子小姐。","","바보야, 그런 건 도쿄 전체를 정전시키면 한 방이잖아
 그쪽은 나에게 맡겨 줘, 쿄코 씨","Dann sitzt ganz Tokio im Dunkeln.
 Überlass das mir, Kyoko."
-71,3002,,Un momento... tutta Tokyo? Ma chi potrebbe...?!,等等，整個東京……所以說，到底要怎麼做！？,,"잠깐, 도쿄 전체라니… 그러니까, 어떻게!?",Moment mal ... ganz Tokio? Aber wer könnte ...?!
-72,3005,,"Ma cosa chiedi? Sono pur sempre un hacker, no? E gli
-hacker possono fare solo una cosa, vero?","什麼？我可是駭客唷？
-駭客還能做別的事嗎？",,"하아? 난 해커라고?
+"71","3002","","Un momento... tutta Tokyo? Ma chi potrebbe...?!","等等，整個東京……所以說，到底要怎麼做！？","","잠깐, 도쿄 전체라니… 그러니까, 어떻게!?","Moment mal ... ganz Tokio? Aber wer könnte ...?!"
+"72","3005","","Ma che domande fai? Sono un hacker, no?
+E gli hacker sanno fare solo una cosa, giusto?","什麼？我可是駭客唷？
+駭客還能做別的事嗎？","","하아? 난 해커라고?
 해커가 할 일은 하나 뿐이잖아?","Was fragst du denn? Ich bin doch ein Hacker, oder?
 Und Hacker können nur eins, stimmt’s?"
-73,3005,,"Raduno tutti i miei compagni, poi hackeremo la
-fornitura di energia della città... e lo
-faremo tutti contemporaneamente!","招集認識的伙伴，同時非法入侵各地的電力供給系統……
-大幹一票啊！",,"아는 녀석들을 모아서, 각지의 전력공급 시스템에
+"73","3005","","Chiamo a raccolta tutti i miei amici, poi
+piratiamo la rete elettrica della città...
+tutti insieme!","招集認識的伙伴，同時非法入侵各地的電力供給系統……
+大幹一票啊！","","아는 녀석들을 모아서, 각지의 전력공급 시스템에
 해킹을 하는 거지 …일제히, 화려하게 말이야!","Ich versammle alle meine Kumpels, dann hacken
 wir die Energieversorgung der Stadt ...
 und zwar alle gleichzeitig!"
-74,3005,,"Procederemo con cautela. Ci vorrà un
-po' di tempo, ma limiteremo l'area
-interessata al minimo.","哎，我會好好斟酌啦……把影響控制在必要的最小範圍內……
-但會比較花時間。",,"뭐, 적당히 할 거야… 영향범위는 필요최저한으로 좁히겠어
+"74","3005","","Ci muoveremo con calma. Ci vorrà un po', ma
+cercheremo di limitare i danni il più possibile.","哎，我會好好斟酌啦……把影響控制在必要的最小範圍內……
+但會比較花時間。","","뭐, 적당히 할 거야… 영향범위는 필요최저한으로 좁히겠어
 …그만큼, 시간은 걸리겠지만","Wir werden behutsam vorgehen. Es wird etwas
 dauern, aber wir begrenzen den betroffenen Bereich
 auf ein Minimum."
-75,3006,,"Capisco. Volevo anche chiedervi di
-hackerare le varie stazioni EDEN...","原來如此……我本來打算委託你
-非法入侵各地的EDEN點……",,"그렇군…, 너에게는 각지에 있는 EDEN 스폿의
+"75","3006","","Capito. Volevo chiedervi di hackerare 
+le varie stazioni EDEN...","原來如此……我本來打算委託你
+非法入侵各地的EDEN點……","","그렇군…, 너에게는 각지에 있는 EDEN 스폿의
 해킹을 의뢰하려고 했다만…","Verstehe. Ich wollte euch auch bitten, die
 diversen EDEN-Stationen zu hacken ..."
-76,3006,,"Se supponiamo che Kishibe menta
-spudoratamente, allora dovremmo eliminare
-prima i punti deboli.","但若想確實趁岸部沒有防備時攻擊，
-應該要從背後下手。",,"확실히 키시베의 허를 찌르려면, 약점부터 공격해야겠지","Wenn wir mal annehmen, dass Kishibe lügt wie
+"76","3006","","Mettiamo che Kishibe spari un sacco di balle. 
+In quel caso, dovremmo neutralizzare i punti 
+deboli per primi.","但若想確實趁岸部沒有防備時攻擊，
+應該要從背後下手。","","확실히 키시베의 허를 찌르려면, 약점부터 공격해야겠지","Wenn wir mal annehmen, dass Kishibe lügt wie
 gedruckt, dann sollten wir die Schwachstellen
 zuerst ausschalten."
-77,3006,,"„Sii infinitamente sottile, sì, spingiti fino ai
-confini del senza forma“, come si dice così bene.","「微乎微乎，至於無形」……
-作戰名稱就叫「無形之陣」吧。",,"…「미세하게 다가오니, 형체가 없구나」
+"77","3006","","""Sii infinitamente sottile, spingiti fino ai confini
+dell'informe"", come si suol dire.","「微乎微乎，至於無形」……
+作戰名稱就叫「無形之陣」吧。","","…「미세하게 다가오니, 형체가 없구나」
 작전명「무형의 진」이라고 해 둘까","„Sei unendlich subtil, ja geh bis an die Grenzen
 des Formlosen“, wie es so schön heißt."
-78,3005,,"Ah, molto bene! Sunzi! „Sii infinitamente
-misterioso, sì, spingiti fino ai limiti del silenzio!“","哦！不錯唷，孫子！
-「神乎神乎，至於無聲」！",,"오! 좋네, 손자병법!
+"78","3005","","Ah, ottimo! Sun Tzu! ""Sii infinitamente misterioso, 
+fino al punto di essere impercettibile""!","哦！不錯唷，孫子！
+「神乎神乎，至於無聲」！","","오! 좋네, 손자병법!
 「귀신같이 다가오니, 소리가 없구나」!","Ah, sehr gut! Sunzi! „Sei unendlich geheimnisvoll,
 ja geh bis an die Grenzen des Lautlosen“!"
-79,3002,,"Tutto chiaro... Non capisco proprio niente di tutto
-questo, ma in qualche modo sì! Non ho capito niente,
-eppure è tutto chiaro!","嗯……哎……雖然不懂，可是懂了！
-好像不懂～還是懂了！",,"응―… 뭐―… 잘 모르겠지만, 알겠어!
+"79","3002","","Ok... Non ci ho capito una mazza,
+ma in un certo senso sì! Boh, niente di chiaro,
+ma tutto a posto!","嗯……哎……雖然不懂，可是懂了！
+好像不懂～還是懂了！","","응―… 뭐―… 잘 모르겠지만, 알겠어!
 잘 모르는 것 같으면서도, 알겠어!","Aaalles klar ... Ich verstehe das Ganze zwar
 nicht, aber irgendwie doch! Nichts kapiert, und
 doch alles klar!"
-80,3002,,"Se Arata se ne occupa, allora
-controlliamo. Yuuko! Vero, [p]?","新往這邊去，我們就去小悠子那邊！
-是這個意思吧，[p]！",,"아라타가 그쪽이면, 우리들은 유콧치네!
+"80","3002","","Se ci pensa Arata, noi andiamo a cercare
+Yuuko! Giusto, [p]?","新往這邊去，我們就去小悠子那邊！
+是這個意思吧，[p]！","","아라타가 그쪽이면, 우리들은 유콧치네!
 그렇지, [p]!","Wenn Arata das übernimmt, dann schauen wir nach
 Yuuko! Stimmt’s, [p]?"
-81,3006,,"Hmpf. Che bello che tu l'abbia capito così in
-fretta.",呼，理解真快，真是幫了我大忙。,,"훗, 이해가 빨라서 다행이군","Hmpf. Wie schön, dass du das so schnell erfasst
+"81","3006","","Ah, bene! Vedo che ci sei arrivata subito.","呼，理解真快，真是幫了我大忙。","","훗, 이해가 빨라서 다행이군","Hmpf. Wie schön, dass du das so schnell erfasst
 hast."
-82,3006,,"Andate ora alla Nakano-sottopassaggio e da
-lì al centro sotterraneo di Roppongi.","那麼，你們從「地下道」
-往「六本木地下設施」前進吧。",,"그럼, 너희들은「지하도」를 통해
+"82","3006","","Ora filate al sottopassaggio di Nakano e 
+da lì al centro sotterraneo di Roppongi.","那麼，你們從「地下道」
+往「六本木地下設施」前進吧。","","그럼, 너희들은「지하도」를 통해
 「롯폰기 지하시설」로 향하도록","Geht jetzt zur Nakano-Unterführung und von dort
 zum unterirdischen Zentrum in Roppongi."
-83,3006,,"[p] conosce già la strada, credo.",[p]應該已經掌握了路程。,,"길은, [p]가(이) 파악하고 있을 거다","[p] kennt den Weg schon, glaube ich."
-84,3005,,"Allora prendiamo di mira i nostri obiettivi
-contemporaneamente. Vi lascio Yuuko.",那麼，同時作戰開始……悠子拜託你們了。,,"그럼, 동시작전 개시다… 유코는 맡긴다","Dann nehmen wir unsere Ziele gleichzeitig ins
+"83","3006","","[p] dovrebbe sapere già la strada, credo.","[p]應該已經掌握了路程。","","길은, [p]가(이) 파악하고 있을 거다","[p] kennt den Weg schon, glaube ich."
+"84","3005","","Allora puntiamo ai nostri obiettivi 
+contemporaneamente. Yuuko la lascio a voi.","那麼，同時作戰開始……悠子拜託你們了。","","그럼, 동시작전 개시다… 유코는 맡긴다","Dann nehmen wir unsere Ziele gleichzeitig ins
 Visier. Ich überlasse Yuuko euch."
-85,3002,,"Okay! Salveremo sicuramente Yuuko!
-E fermeremo questo piano del semolino perduto!","好～要救出悠子～！
-但也一定要阻止什麼ParaPara Dance計畫的！",,"좋았어~, 유콧치를 구해내자~!
+"85","3002","","Okay! Yuuko la salviamo di sicuro!
+E fermiamo 'sto piano del Parastinco Perduto!","好～要救出悠子～！
+但也一定要阻止什麼ParaPara Dance計畫的！","","좋았어~, 유콧치를 구해내자~!
 그리고 파라파라댄스 계획이란 것도, 반드시 저지하는 거야!","Okay! Wir werden Yuuko bestimmt retten!
 Und diesen Plan vom verlorenen Grieß aufhalten!"
-86,2000,,!!!,！！！,,!!!,!!!
+"86","2000","","!!!","！！！","","!!!","!!!"
