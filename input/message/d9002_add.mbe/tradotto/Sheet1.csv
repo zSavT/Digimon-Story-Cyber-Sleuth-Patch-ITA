@@ -1,28 +1,35 @@
-ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
-100,4352,,"Se hai intenzione di mangiarmi, per favore fallo in fretta.
-Non masticarmi; ingoiami intero.","如果要吃我的話，拜託趕快吃掉就好……
+﻿ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
+100,4352,,"Se hai intenzione di mangiarmi, per
+favore fallo in fretta. Non masticarmi; ingoiami
+intero.","如果要吃我的話，拜託趕快吃掉就好……
 嚼碎的話，感覺會很痛所以不行。
 不如直接一次吞下去……",,"나를 먹을 거라면 한입에 부탁해…
 씹히는 것은 아프니까 싫어. 차라리 통째로 삼켜줘…","Wenn du mich fressen willst, mach es bitte
 schnell. Kau nicht auf mir rum. Schluck mich ganz
 runter."
-101,4354,,Shibuya e Shinjuku non sono sicure a causa degli hacker e dei mostri. Dovremmo andare da qualche altra parte?,"涉谷也好新宿也好，都有駭客或怪物騷動，很危險啊。
+101,4354,,"Shibuya e Shinjuku non sono sicure a causa degli
+hacker e dei mostri. Dovremmo andare da qualche
+altra parte?","涉谷也好新宿也好，都有駭客或怪物騷動，很危險啊。
 要不要去別的地方比較好？",,"시부야건 신주쿠건 해커랑 괴물 소동으로 위험할 것 같네.
 다른 장소로 가볼까?","Wegen der Hacker und Monster ist es in Shibuya
 und Shinjuku nicht sicher. Sollen wir woanders
 hingehen?"
-102,4355,,"Sì, caro. Ma va bene. Ti p-proteggerò.","說、說得也是呢……
+102,4355,,"Sì, caro. Ma va bene.
+Ti p-proteggerò.","說、說得也是呢……
 但是，沒問題的……我、我會保護妳……",,"그, 그렇네요…
 하지만, 괜찮아요…제, 제가 지킬게요…","Ja, Schatz. Aber es ist schon in Ordnung. Ich
 werde dich b-beschützen."
-103,4354,,"Uh... Sì, ovvio! Non che questo sia il momento.
-Dovresti dire che dobbiamo andarcene da qui!","……咦？　那是理所當然的吧！
+103,4354,,"Uh... Sì, ovvio! Non che questo sia il
+momento. Dovresti dire che dobbiamo andarcene
+da qui!","……咦？　那是理所當然的吧！
 說起來，你應該要對我說那裡很危險
 趕快一起避難才對吧！",,"…하아? 그런 거 당연하잖아!
 그보다 거긴 위험하니까 피난하자고 좀 말하라고!","Äh ... Eher nicht. Das ist nicht der richtige
 Moment. Du solltest sagen, dass wir hier weg
 müssen!"
-104,4354,,"Oppure prendimi in braccio e portami fuori di qui! E già che ci sei, fammi diventare una donna onesta!","或是將我公主抱起來一起帶我跑啊！
+104,4354,,"Oppure prendimi in braccio e portami fuori di
+qui! E già che ci sei, fammi diventare una
+donna onesta!","或是將我公主抱起來一起帶我跑啊！
 順便再對我說，「我們結婚吧」啊！！",,"혹은 나를 공주님 안기하고서 달려가 좀!
 덤으로, 호적에 올리자고 하라고!!","Oder nimm mich in den Arm und trag mich hier raus!
 Und beenden wir die wilde Ehe, wenn wir schon mal
@@ -30,26 +37,26 @@ dabei sind!"
 105,4355,,"Okay! Qu-qualsiasi cosa tu dica, caro!","是、是的……！！
 我、我、們結結結結結……！！",,"예, 예…!!
 호, 호, 호호호호호호……!","Okay! W-Wie du meinst, Schatz!"
-106,4464,,"Queste scale conducono nel sottosuolo di Shinjuku,
-ma di sicuro non le scenderei. È pericoloso!
-Mi piace troppo vivere!","要去新宿地下街的話，從那裡的階梯
+106,4464,,"Queste scale conducono nel sottosuolo di
+Shinjuku, ma di sicuro non le scenderei.
+È pericoloso! Mi piace troppo vivere!","要去新宿地下街的話，從那裡的階梯
 下去就能到了，但是……
 太危險了，還是趕快離開這裡會比較好喔！",,"신주쿠 지하는 거기 있는 계단을 내려가면 갈 수 있지만…
 위험하니까 빨리 여기서 벗어나는 편이 좋을 거야!","Diese Treppe da führt in den Bereich unterhalb von
 Shinjuku, aber da würde ich nicht runtergehen.
 Zu gefährlich! Ich bin ganz gern am Leben!"
-107,4466,,"Lo so che è una situazione terribile, ma non è
-una ragione per andare a casa dei tuoi genitori! Cosa
-mangerò se non sei qui?!","雖然現在的確是有點不太妙，
+107,4466,,"Lo so che è una situazione terribile, ma
+non è una ragione per andare a casa dei
+tuoi genitori! Cosa mangerò se non sei qui?!","雖然現在的確是有點不太妙，
 但是也不需要回去娘家吧……！
 如果妳不在的話……我還能吃什麼啊！？",,"확실히 큰일이 일어나긴 했지만
 그렇다고 처가로 돌아가는 건 아니지…!
 네가 없어지면…난 뭘 먹고 살면 되는 거야!?","Ich weiß, es ist eine furchtbare Situation, aber
 das ist kein Grund, zu deinen Eltern zu gehen!
 Was soll ich essen, wenn du nicht hier bist?!"
-108,4465,,"Non ho mai detto che sarei andato senza di te! Smettila di
-lamentarti e vieni con me! Preparerò la tua
-torta di fragole preferita!","誰說要一個人回去了啊！
+108,4465,,"Non ho mai detto che sarei andato senza di te!
+Smettila di lamentarti e vieni con me! Preparerò la
+tua torta di fragole preferita!","誰說要一個人回去了啊！
 別抱怨了，只要你跟我一起回去不就好了！
 都說了要讓你吃“草莓煮”了啊！",,"누가 혼자 돌아간다고 했노!
 잔소리 말고, 당신도 따라오면 되잖아!
@@ -57,16 +64,16 @@ torta di fragole preferita!","誰說要一個人回去了啊！
 auf, dich zu beschweren und komm mit! Ich backe
 deinen Lieblingserdbeerkuchen!"
 109,4466,,"Non è che i tuoi genitori non mi piacciano, ma
-semplicemente non credo che potrei sopportare di passare così tanto
-tempo con loro.","為、為什麼從剛剛開始就在講關西腔！？
+semplicemente non credo che potrei sopportare di passare
+così tanto tempo con loro.","為、為什麼從剛剛開始就在講關西腔！？
 妳是秋田縣出身的吧！？
 而且……草莓煮是青森的料理吧！！",,"왜, 왜 아까부터 칸사이 사투리 쓰는 거야!? 넌 아키타 출신이잖아!?
 게다가… 이치고니는 아오모리의 향토 요리다!!","Nicht, dass ich deine Eltern nicht mag, aber ich
 glaube, ich halte es nicht aus, so viel Zeit mit
 ihnen zu verbringen."
 110,4356,,"Non sono solo i mostri. Anche gli hacker sono
-fuori controllo. Cosa sta succedendo? È tutta colpa
-loro questo casino?","不僅是怪物，就連駭客也跟著一起失控了。
+fuori controllo. Cosa sta succedendo? È tutta
+colpa loro questo casino?","不僅是怪物，就連駭客也跟著一起失控了。
 到底是發生了什麼事？
 這個騷動全部都是那些人害的嗎？",,"괴물만이 아니라, 해커까지 폭주하고 있다니
 대체 무슨 일인 거야? 이 소동은 전부 녀석들 탓인 건가?","Es sind nicht nur die Monster. Sogar die Hacker
@@ -75,9 +82,9 @@ all dem Chaos schuld?"
 111,1090,,Non mangio persone. Rilassati.,"我是不會吃人類的喔，
 打起精神來嘛。",,"나는 사람을 잡아먹진 않아~
 기운 내라고~",Ich verschlinge keine Menschen. Entspann dich.
-112,1359,,"È già abbastanza brutto che ci siamo ritrovati improvvisamente in
-questo posto, ma anche gli umani non sono molto carini!
-Non c'è un posto senza umani?","我們也因為突然被放到這裡，感到很困擾……
+112,1359,,"È già abbastanza brutto che ci siamo ritrovati
+improvvisamente in questo posto, ma anche gli umani non sono
+molto carini! Non c'è un posto senza umani?","我們也因為突然被放到這裡，感到很困擾……
 人類還真是一點都不溫柔呢！
 有沒有哪裡是沒有人類的地方啊……",,"우리도 갑자기 이런 곳으로 튕겨져서 고생하는데…
 인간은 전혀 다정하지 않구나!
@@ -85,8 +92,8 @@ Non c'è un posto senza umani?","我們也因為突然被放到這裡，感到�
 die Menschen sind auch nicht sonderlich nett!
 Gibt es keinen Ort ohne Menschen?"
 113,1087,,"Nessun viaggio nel mondo umano sarebbe completo
-senza assaggiare la cucina. Devo provare alcuni
-ristoranti. Spero solo di non spaventare la gente.","人類世界的觀光，美食之遊似乎是
+senza assaggiare la cucina. Devo provare
+alcuni ristoranti. Spero solo di non spaventare la gente.","人類世界的觀光，美食之遊似乎是
 不可或缺的事情……趕快隨便進去一間店看看吧。
 希望不要被我的這副模樣給嚇到就好。",,"인간 세계의 관광에는 미식 순례라는 걸 빼놓을 수 없다고 해…
 어서 아무 가게나 들어가 볼까.

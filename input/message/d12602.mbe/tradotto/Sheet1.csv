@@ -1,31 +1,33 @@
-ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
-100,9101,,"Cosa sta succedendo? Una specie di promozione per un
-film di effetti speciali?","這、這是什麼……？
+﻿ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
+100,9101,,"Cosa sta succedendo? Una specie di promozione per un film
+di effetti speciali?","這、這是什麼……？
 是特攝電影的宣傳之類的東西嗎……？",,"뭐, 뭐야, 이거…? 특수 촬영 영화의 선전 같은 거겠지…?","Was ist los? Ist das Werbung für einen Film mit
 Spezialeffekten?"
-101,9102,,"Wow, mostri nel mondo reale! Questa sì che è
-impressionante 3D!","怪物竟然出現在現實世界裡了……！
+101,9102,,"Wow, mostri nel mondo reale! Questa sì
+che è impressionante 3D!","怪物竟然出現在現實世界裡了……！
 這才是真正的3D啊……！",,"괴물이 현실 세계에 있다니…!
 이거야말로 진정한 3D야……!","Wow, Monster in der echten Welt! Der 3D-Effekt
 ist echt beeindruckend!"
-102,9103,,"Non riesco a credere a cosa sta succedendo a Ikebukuro.
-Non è proprio il momento per me di lanciare nuovi
-giochi, vero?","感覺，池袋變得有點不太妙了啊……
+102,9103,,"Non riesco a credere a cosa sta succedendo a
+Ikebukuro. Non è proprio il momento per me di
+lanciare nuovi giochi, vero?","感覺，池袋變得有點不太妙了啊……
 我……現在不應該在這裡賣什麼
 新商品才對吧……？",,"뭔가, 이케부쿠로가 굉장한 상황이 되어버렸는데…
 나…신상품 따위나 팔고 있을 상황이 아니지 않나…?","Ich kann nicht fassen, was in Ikebukuro geschieht.
 Kein guter Zeitpunkt, um zu versuchen, neue
 Spiele zu verkaufen, oder?"
 103,9104,,"Che la Sindrome di EDEN e tutte le altre strane
-cose che sono successe finora abbiano
-portato a questo grande fenomeno?!","該不會，至今所發生的奇怪的事情或是
+cose che sono successe finora abbiano portato a
+questo grande fenomeno?!","該不會，至今所發生的奇怪的事情或是
 EDEN症候群都是這個大規模怪奇現象的
 前兆吧……哈、哈哈……怎麼會嘛！",,"어쩌면 지금까지 일어났던 이상한 일이나 EDEN 증후군은
 이 대규모 괴현상의 전조였던 게……
 하, 하하…설마!","Kann es sein, dass das EDEN-Syndrom und alle
 anderen seltsamen Dinge nur die Vorboten dieses
 Phänomens waren?"
-104,9105,,"Acquista i tuoi prodotti di uso quotidiano al Tokyo Handy down sulla destra! Per l'acquario, prendi la scala mobile! Ma fai attenzione ai mostri! È meglio che torni a casa...","想、想買生活用品就去左後方的東京手創館……
+104,9105,,"Acquista i tuoi prodotti di uso quotidiano al Tokyo Handy
+down sulla destra! Per l'acquario, prendi la scala
+mobile! Ma fai attenzione ai mostri! È meglio che torni a casa...","想、想買生活用品就去左後方的東京手創館……
 想去水族館，就搭裡面的手扶梯下去……但是
 要注意怪物喔……我也差不多該回去了吧……",,"새, 생활용품을 사려면 왼쪽 안에 있는 도쿄 핸디…
 수족관에 가고 싶다면 그 안쪽의 에스컬레이터를 내려가면 돼….
@@ -34,20 +36,23 @@ rechts unten kaufen! Zum Aquarium die Treppe
 nehmen! Vorsicht vor Monstern! Ich sollte heim ..."
 105,9106,,Non riesco a credere a cosa è successo in questo posto.,沒想到一直居住的地方會變成這樣……,,"설마 지금껏 살아온 도시가 이런 꼴이
 돼버릴 줄이야……","Ich kann nicht glauben, was hier passiert ist."
-106,9107,,Mi chiedo cosa succederà. Sono preoccupato per i miei nipoti.,"接下來會變成什麼樣……
+106,9107,,"Mi chiedo cosa succederà. Sono
+preoccupato per i miei nipoti.","接下來會變成什麼樣……
 很擔心即將出生的孫子啊……",,"앞으로 어떻게 되는 걸까…
 태어날 손자가 걱정이야…","Ich frage mich, was passieren wird. Ich mache mir
 Sorgen um meine Enkel."
-107,9109,,"Capo! Ho lavorato di nuovo in EDEN oggi.
-È disponibile una nuova patch di sicurezza. Penso che dovremmo
-aggiornare.","部長！　今天也是在EDEN做生意啊！
+107,9109,,"Capo! Ho lavorato di nuovo in EDEN
+oggi. È disponibile una nuova patch di
+sicurezza. Penso che dovremmo aggiornare.","部長！　今天也是在EDEN做生意啊！
 已經到手最新的防範措施了，
 趕快更新一下比較好喔！",,"부장님! 오늘도 EDEN에서 영업이셨군요!
 최신 보안을 갖췄으니까
 업데이트해두시는 편이 좋을 겁니다!","Chef! Ich habe heute wieder in EDEN gearbeitet.
 Ein neuer Sicherheits-Patch ist verfügbar.
 Ich glaube, wir sollten das Update installieren."
-108,9108,,I giovani si adattano così velocemente. Sembra che tu sappia il fatto tuo. Sei sicuro di non essere un hacker?,"不虧是年輕人啊，很快就能適應環境了……
+108,9108,,"I giovani si adattano così velocemente. Sembra
+che tu sappia il fatto tuo. Sei sicuro di non
+essere un hacker?","不虧是年輕人啊，很快就能適應環境了……
 你竟然會這麼了解，該不會你是駭客吧？",,"역시 젊은 녀석은 환경에 적응하는 것도 빠르네…
 묘하게 자세한데, 설마 해커는 아니겠지?","Junge Leute passen sich so schnell an. Du scheinst
 dich auszukennen. Bist du sicher, dass du kein
@@ -55,18 +60,20 @@ Hacker bist?"
 109,9109,,Cosa? Ma dai! Come se! Haha...ha...,"咦？　討厭啦！　怎麼可能嘛──！
 啊哈哈……哈……",,"에? 설마요! 그럴 리가 없잖습니까~!
 아하하…하…",Was? Auf keinen Fall! Als ob! Haha ... ha ...
-110,9110,,"Vi prego di stare lontani dall'area colpita dallo
-strano fenomeno.",請不要靠近怪奇現象發生的場所。,,괴현상이 일어나고 있는 장소에는 다가가지 말아 주세요,"Bitte halte dich von dem Bereich fern, in dem
+110,9110,,"Vi prego di stare lontani
+dall'area colpita dallo strano fenomeno.",請不要靠近怪奇現象發生的場所。,,괴현상이 일어나고 있는 장소에는 다가가지 말아 주세요,"Bitte halte dich von dem Bereich fern, in dem
 das seltsame Phänomen aufgetreten ist."
 111,1061,,"Ehi, cos'è un acquario? E cos'è un cinema?","那個那個，水族館是做什麼的地方呀？
 電影院又是做什麼的地方呀？",,"저기저기, 수족관이란 건 뭐 하는 곳이야?
 영화관은 뭐 하는 곳이고~?","Hey, was ist ein Aquarium? Und was ist ein Kino?"
-112,1058,,"Sembrano divertenti! Siamo venuti fin qui; tanto
-vale divertirci!","感覺這裡好熱鬧喔！
+112,1058,,"Sembrano divertenti! Siamo venuti fin
+qui; tanto vale divertirci!","感覺這裡好熱鬧喔！
 好不容易都來到這裡了，就來好好享受一下吧～",,"뭔가 시끌벅적한 곳이네~!
 모처럼 왔으니까 실컷 즐겨야지~","Wie cool! Wir haben eine lange Reise hinter uns.
 Wir könnten etwas Spaß vertragen!"
-113,9212,,Hai sentito la diceria sull'abilità di hacking Stealth Hide? Dicono che ti permetta di muoverti per Kowloon senza essere visto dagli hacker.,"你知道叫Stealth Hide的駭客技能嗎？
+113,9212,,"Hai sentito la diceria sull'abilità di
+hacking Stealth Hide? Dicono che ti permetta di muoverti
+per Kowloon senza essere visto dagli hacker.","你知道叫Stealth Hide的駭客技能嗎？
 據說只要用那技能，就能不被駭客發現，
 自由探索Kowloon耶。",,"스텔스 하이드란 해킹 스킬에 대한 소문은 들었어?
 이걸 쓰면 해커들에게 발견되지 않고
@@ -74,32 +81,35 @@ Wir könnten etwas Spaß vertragen!"
 „Tarnkappe“ gehört? Man kann sich damit in Kowloon
 bewegen, ohne von Hackern gesehen zu werden."
 114,9212,,"Ma saranno in grado di vederti se sono in
-stato di massima allerta, come durante una Conquista del Territorio.","不過在領域爭奪戰、敵方駭客戒心很重時，
+stato di massima allerta, come durante una
+Conquista del Territorio.","不過在領域爭奪戰、敵方駭客戒心很重時，
 好像還是會被發現喔。",,"엠블럼 쟁탈전같이 적 해커의 경계심이 강한 경우엔
 탐지되고 마는 것 같지만","Aber sie können dich sehen, wenn sie gerade in
 Alarmbereitschaft sind, wie zum Beispiel während
 einer Revierübernahme."
-200,9101,,"Ho visto un mostro enorme uscire da quell'edificio.
-Era terrificante. Pensavo che sarei spacciato.","我從那裡的建築物，看到了有巨大的怪物跑出來。
+200,9101,,"Ho visto un mostro enorme uscire da
+quell'edificio. Era terrificante.
+Pensavo che sarei spacciato.","我從那裡的建築物，看到了有巨大的怪物跑出來。
 非常有氣勢，還以為我會死掉呢……",,"그쪽 건물에서 거대한 괴물이 나오는 걸 봤어.
 굉장한 박력이라 이제 죽는 건가 싶었어……","Ich habe gesehen, wie ein riesiges Monster aus
 dem Gebäude kam. Es war furchterregend. Ich
 dachte, mein Ende naht."
-201,9102,,"È stata un'esplosione enorme. È un miracolo che
-non si siano fatti male più persone.","明明發生了那麼大的爆炸，幸好傷者
+201,9102,,"È stata un'esplosione enorme. È un miracolo
+che non si siano fatti male più persone.","明明發生了那麼大的爆炸，幸好傷者
 只有一些人而已。幾乎可以說是奇蹟了呢……",,"그렇게 굉장한 폭발이었는데 다행히 다친 사람이 좀 나온 정도로
 끝난 모양이야. 정말 기적 같은 일도 다 있네…","Das war eine unglaubliche Explosion. Ein Wunder,
 dass nicht mehr Leute verletzt wurden."
-202,9103,,"Ora c'è un enorme mostro sopra a tutto
-il resto che è successo. Non ne posso più!
+202,9103,,"Ora c'è un enorme mostro sopra a tutto il
+resto che è successo. Non ne posso più!
 Boss! Penso che sia ora che mi dimetta!","街道變得怪怪的還有巨大的怪物跑出來，
 我已經受夠了！店長！
 我可以辭職了嗎！？",,"도시는 이상해졌고, 거대한 괴물은 나오고, 이젠 싫어~!
 점장님~! 알바 관둬도 되나요~!?","Zusätzlich zu allem anderen gibt es jetzt auch
 noch ein riesiges Monster! Ich kann nicht mehr!
 Chef! Ich glaube, ich muss kündigen!"
-204,9105,,"Acquista i tuoi prodotti di uso quotidiano al Tokyo Handy down sulla destra! Per l'acquario, prendi la scala mobile!
-Qualunque mostro si faccia vivo, io sarò sempre qui!","想買生活用品，就去左後方的東京手創館！
+204,9105,,"Acquista i tuoi prodotti di uso quotidiano al Tokyo Handy
+down sulla destra! Per l'acquario, prendi la scala
+mobile! Qualunque mostro si faccia vivo, io sarò sempre qui!","想買生活用品，就去左後方的東京手創館！
 想去水族館，就搭裡面的手扶梯下去！
 不論有什麼怪物跑出來，大叔我都會在這裡喔！",,"생활용품을 사려면 왼쪽 안에 있는 도쿄 핸디!
 수족관에 가고 싶다면 그 안쪽의 에스컬레이터를 내려가면 돼!
@@ -111,28 +121,34 @@ che non siamo più al sicuro nemmeno nelle nostre case.","聽說從建築物裡�
 這樣子的話，就連家裡也可能不是安全的了……",,"건물 안에서 갑자기 거대한 괴물이 나왔다면서?
 이젠 집도 안전하지 않을지도 모르겠어…","Ein riesiges Monster kam aus dem Gebäude? Nicht
 mal in unseren Häusern sind wir mehr sicher."
-206,9107,,"Forse dovrei andarmene, per il bene dei miei nipoti.",為了孫子，搬去其他縣市應該會比較好呢……,,"손주를 위해서도, 지방으로 이사하는 편이 좋으려나…","Vielleicht sollte ich wegziehen, um meiner Enkel
+206,9107,,"Forse dovrei andarmene, per il bene dei miei
+nipoti.",為了孫子，搬去其他縣市應該會比較好呢……,,"손주를 위해서도, 지방으로 이사하는 편이 좋으려나…","Vielleicht sollte ich wegziehen, um meiner Enkel
 willen."
-207,9108,,"Prima quello strano fenomeno, e ora una creatura gigante. Non riesco a lavorare così. Penso che chiederò al mio manager se posso evacuare in periferia.","怪奇現象導致巨大生物出沒，沒辦法
+207,9108,,"Prima quello strano fenomeno, e ora una creatura
+gigante. Non riesco a lavorare così. Penso che chiederò al
+mio manager se posso evacuare in periferia.","怪奇現象導致巨大生物出沒，沒辦法
 安心營業下去啊。要不要跟社長商量看看，
 趁現在趕快去郊外避難。",,"괴현상에 거대생물까지 나오니 마음 놓고 영업도 못 하겠어.
 지금 이 틈에 도시 주변으로 피난 가자고 사장님께 건의해볼까","Erst das seltsame Phänomen und jetzt ein riesiges
 Wesen. So kann ich nicht arbeiten. Ich frage den
 Chef, ob ich die Stadt verlassen darf."
-208,9109,,Sono sicuro che la compagnia coprirà le spese di trasloco.,搬家的資金之類……有辦法向公司請款嗎……,,이사 수당 같은 걸…회사에서 받을 수는 없을까… ,"Die Firma wird die Kosten für die Verlegung sicher
+208,9109,,"Sono sicuro che la compagnia coprirà le spese
+di trasloco.",搬家的資金之類……有辦法向公司請款嗎……,,이사 수당 같은 걸…회사에서 받을 수는 없을까… ,"Die Firma wird die Kosten für die Verlegung sicher
 übernehmen."
-209,9110,,"C'è il rischio che dei detriti cadano da questo edificio. Per favore, mantieni una distanza di sicurezza.","這個建築物，可能會有物體砸落的危險。
+209,9110,,"C'è il rischio che dei detriti cadano da
+questo edificio. Per favore, mantieni
+una distanza di sicurezza.","這個建築物，可能會有物體砸落的危險。
 請勿靠近。",,"이 건물은, 낙하물 등이 떨어질 위험이 있으니
 다가가지 말아 주세요","Es besteht ein Risiko, dass von dem Gebäude
 Trümmerteile hinabfallen. Bitte halte einen
 Sicherheitsabstand ein."
-210,1081,,"Che Digimon era quello uscito da lì?
-Non ne ho mai visto uno simile prima.","從那邊跑出來的數碼寶貝，是什麼數碼寶貝啊？
+210,1081,,"Che Digimon era quello uscito da lì? Non ne ho
+mai visto uno simile prima.","從那邊跑出來的數碼寶貝，是什麼數碼寶貝啊？
 沒有見過那種數碼寶貝呢。",,"거기서 나온 디지몬, 무슨 디지몬이었을까~?
 본 적도 없는 디지몬이었어~","Was war das Digimon, das dort herauskam? So eins
 habe ich noch nie gesehen."
-211,1058,,"C'era un umano sulla spalla di quel Digimon gigante!
-Era così figo!","在很大隻的數碼寶貝的肩上坐著人類！
+211,1058,,"C'era un umano sulla spalla di quel
+Digimon gigante! Era così figo!","在很大隻的數碼寶貝的肩上坐著人類！
 好帥氣啊！",,"커다란 디지몬의 어깨에 인간이 타고 있었어!
 멋지더라~!","Auf der Schulter des großen Digimon befand sich
 ein Mensch! Das war so cool!"

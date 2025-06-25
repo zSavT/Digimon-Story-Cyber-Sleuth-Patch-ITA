@@ -1,52 +1,57 @@
-ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
-100,4343,,"Vai dritto e finirai sulla strada principale,
-ma dovresti sbrigarti a tornare a casa!","從這裡直直走，就會是繁華大街了……
+﻿ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
+100,4343,,"Vai dritto e finirai sulla strada
+principale, ma dovresti sbrigarti a tornare a casa!","從這裡直直走，就會是繁華大街了……
 你也快點回家會比較好喔！",,"여기를 쭉 가면 번화가인데…
 너도 빨리 집으로 돌아가는 편이 좋을 거야!","Geh weiter geradeaus, dann kommst du zur
 Hauptstraße. Du solltest aber schnell heimgehen!"
-101,4344,,"Wow! Cos'è quella cosa che striscia sul muro?! Forse
-è quella projection mapping di cui ho sentito parlare?!
-Ed è persino in 3D! La città è davvero avanzata!","嗚啊！　那個牆壁上軟軟扭扭的是什麼！？
+101,4344,,"Wow! Cos'è quella cosa che striscia sul muro?!
+Forse è quella projection mapping di cui ho sentito
+parlare?! Ed è persino in 3D! La città è davvero avanzata!","嗚啊！　那個牆壁上軟軟扭扭的是什麼！？
 該不會，這就是傳說中的光雕投影！？
 連影像都是立體化的啊，都市好前衛喔！",,"우햐~! 저 벽에 미끌미끌거리는건 뭐야!?
 혹시 이게 소문으로만 듣던 프로젝션 매핑!?
 영상도 입체적이라니, 도시는 엄청나네~!","Wow! Was schlängelt sich denn dort an der Wand?!
 Vielleicht das Projektionsmapping, von dem ich
 gehört habe? Und sogar in 3D! So fortschrittlich!"
-102,4345,,Di cosa stai parlando?! Sei un vero campagnolo! Questo non è un semplice trambusto!,"哪有可能啦！　到底是有多鄉巴佬啦！
+102,4345,,"Di cosa stai parlando?! Sei un vero
+campagnolo! Questo non è un semplice trambusto!","哪有可能啦！　到底是有多鄉巴佬啦！
 好像有什麼不可思議的事情正在發生啊！！",,"그럴 리가 없잖아! 얼마나 촌놈인 거야!
 뭔가 터무니없는 일이 일어난 거라고~!!","Wovon redest du?! Du bist so ein Landei!
 Dieser Krach ist nicht normal!"
-103,4346,,"Non vedevo l'ora di andare a pranzo. Come
-posso godermi un pranzo tranquillo con tutto questo
-che succede?! Cosa hanno combinato quegli hacker di EDEN?!","本來很期待中午可以出去吃東西的說……
+103,4346,,"Non vedevo l'ora di andare a pranzo. Come posso
+godermi un pranzo tranquillo con tutto questo che succede?!
+Cosa hanno combinato quegli hacker di EDEN?!","本來很期待中午可以出去吃東西的說……
 這樣一來，無法安心下來吃午餐了啊！
 EDEN的駭客真是的，都做了些什麼啊！",,"점심을 밖에서 먹는 게 즐거움이었는데….
 이래선 마음 놓고 점심도 먹을 수 없잖아!
 EDEN의 해커들은 대체 무슨 짓을 한 거야!","Ich hatte mich auf mein Mittagessen gefreut.
 Wie soll ich es bei diesem Chaos in Ruhe genießen?
 Was haben die EDEN-Hacker bloß getan?!"
-104,4347,,Attenzione a tutti i cittadini: Siete pregati di ritornare alle vostre case e rimanere all'interno finché la crisi non sarà risolta!,"大家，外面非常的危險！
+104,4347,,"Attenzione a tutti i cittadini: Siete pregati
+di ritornare alle vostre case e rimanere
+all'interno finché la crisi non sarà risolta!","大家，外面非常的危險！
 請回到家中，盡量不要外出！",,"여러분, 밖은 위험합니다!
 자택으로 돌아가시고 최대한 외출은 삼가세요!","Bürger, ich bitte um Ihre Aufmerksamkeit: Bitte
 kehren Sie in Ihre Häuser zurück und bleiben
 Sie dort, bis Entwarnung gegeben wurde!"
-105,1053,,"Cos'è per pranzo? Se fuori fa paura, ti farò compagnia.","午餐是什麼？　如果外面很可怕的話，
+105,1053,,"Cos'è per pranzo? Se fuori fa
+paura, ti farò compagnia.","午餐是什麼？　如果外面很可怕的話，
 我可以陪妳一起去喔？",,점심이 뭐야~? 밖이 무섭다면 같이 있어 줄까?,"Was ist Mittagessen? Wenn es draußen beängstigend
 ist, leiste ich dir Gesellschaft."
-106,1320,,"Le persone continuano a fissarmi. Sono tutti così spaventosi.
-Non mi piace. *sniff*","大家都用很恐怖的表情看著我。
+106,1320,,"Le persone continuano a fissarmi. Sono
+tutti così spaventosi. Non mi piace. *sniff*","大家都用很恐怖的表情看著我。
 好可怕喔。嗚嗚、嗚嗚。",,"다들 무서운 얼굴로 우릴 보고 있어.
 무서워~ 훌쩍, 훌쩍","Die Leute starren mich dauernd an. Sie machen mir
 alle Angst. Das gefällt mir nicht. *schnüff*"
-107,1096,,"Ci deve essere un posto tranquillo dove posso rilassarmi.
-Ho sentito che i ""bar"" sono un bene, ma dove posso trovarne uno?","有沒有哪裡是又安靜，又能夠靜下來的地方啊？
+107,1096,,"Ci deve essere un posto tranquillo dove posso
+rilassarmi. Ho sentito che i ""bar"" sono un
+bene, ma dove posso trovarne uno?","有沒有哪裡是又安靜，又能夠靜下來的地方啊？
 聽說一個叫做“BAR”的地方很不錯，是在哪裡呢？",,"어딘가 조용하고 진정되는 장소 없으려나~
 ""바""라는 곳이 좋다고 들었는데, 어디에 있는 걸까?","Es muss einen ruhigen Ort geben, an dem ich mich
 entspannen kann. Ich habe gehört, dass „Bars“ gut
 sind, aber wo finde ich eine?"
-108,4347,,"*sospiro* Cosa diavolo sta succedendo qui...?
-E come diavolo lo fermiamo...?","究竟發生了什麼事……接下來會發生什麼事……
+108,4347,,"*sospiro* Cosa diavolo sta
+succedendo qui...? E come diavolo lo fermiamo...?","究竟發生了什麼事……接下來會發生什麼事……
 我們也一無所知……！",,"대체 뭐가 일어난 것인지…앞으로 뭐가 일어날지…
 저희도 모릅니다…!","*Seufz* Was ist hier nur los ...?
 Und was können wir dagegen tun ...?"

@@ -1,4 +1,4 @@
-ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
+﻿ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
 1,3045,,"Mi dispiace, mi dispiace, mi dispiace...",對不起、對不起喔、對不起……,,"미안, 미안해, 미안해…","Tut mir leid, tut mir leid, tut mir leid ..."
 2,3045,,Perché? Perché? Perché?,為什麼？　為什麼？　怎麼了？,,어떻게? 왜? 어째서?,Warum? Warum? Warum?
 3,3045,,"Madre, padre, morto",媽媽、爸爸、死掉了,,"엄마, 아빠, 죽어버렸어","Mutter, Vater, tot ..."
@@ -8,5 +8,6 @@ ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
 7,3045,,"Io sono, a letto, codice, connetti",我、躺在床上、連接著、纜線,,"나는, 침대에서, 코드, 연결되서","Ich bin, im Bett, Code, verbinden ..."
 8,3045,,"Testa, fa male, corpo, dolorante.",頭、好痛、身體、好難受,,"머리, 아파, 몸, 괴로워","Kopf, tut weh, Körper, schmerzhaft ..."
 9,3045,,"Io, cosa succederà? Corpo, perché?",我、會怎麼樣？　身體、為什麼會這樣？,,"나는, 어떻게? 몸, 어째서?","Ich, was wird geschehen? Körper, warum?"
-10,3045,,"Mi dispiace, mi dispiace, Fratello...Mi dispiace",對不起、對不起、哥哥……對不起,,"미안해, 미안해, 오빠…미안해","Es tut mir leid, es tut mir leid, Bruder ...
+10,3045,,"Mi dispiace, mi dispiace,
+Fratello...Mi dispiace",對不起、對不起、哥哥……對不起,,"미안해, 미안해, 오빠…미안해","Es tut mir leid, es tut mir leid, Bruder ...
 Es tut mir leid ..."

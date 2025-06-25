@@ -1,20 +1,20 @@
-ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
+﻿ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
 100,4581,,"Kowloon appartiene agli hacker adesso! I forti,
-gli intelligenti, i tosti! E l'unica regola qui è
-fare qualsiasi cosa diavolo tu voglia!","聽好了！「Kowloon」區是我們駭客的地盤！
+gli intelligenti, i tosti! E l'unica regola qui
+è fare qualsiasi cosa diavolo tu voglia!","聽好了！「Kowloon」區是我們駭客的地盤！
 在這裡，強悍的人、聰明的人以及自由的人就是正義！",,"잘 들어!「쿠롱」에어리어는 우리 해커들의 것이다!
 이곳에선 강한 녀석! 현명한 녀석! 그리고 자유로운 녀석이 정의다!","Kowloon gehört jetzt den Hackern! Den Starken
 und Schlauen und Harten! Und die einzige Regel
 hier ist, dass es keine Regeln gibt!"
-150,4581,,"Dei mostri potrebbero cadere dal cielo e
-Digimon potrebbero correre selvaggi per le strade, ma tutta
+150,4581,,"Dei mostri potrebbero cadere dal cielo e Digimon
+potrebbero correre selvaggi per le strade, ma tutta
 Kowloon è nostra ora!","管他怪物從天而降，還是街上充滿了數碼寶貝，
 這個「Kowloon」區都是我們駭客的地盤！！",,"하늘에서 괴물이 내려오든 거리가 디지몬으로 넘쳐나든…
 이「쿠롱」에어리어는 우리들 해커의 것이다!!","Es fallen zwar Monster vom Himmel und auf den
 Straßen wüten Digimon, aber Kowloon gehört
 jetzt ganz uns!"
-200,4583,,"Ehi, solo un consiglio, velocissimo. Assicurati di tenere con te
-un mucchio di tipi diversi di Digimon,
+200,4583,,"Ehi, solo un consiglio, velocissimo. Assicurati di
+tenere con te un mucchio di tipi diversi di Digimon,
 altrimenti potresti finire in una brutta situazione.","要記得事先把各種種族的數碼寶貝加入隊伍裡哦。
 如果隊員的種族偏向其中一兩種的話，
 遇到棘手種族的強敵時，就會被壓著打哦。",,"파티에는 여러 종족의 디지몬을 넣어 둬
@@ -22,8 +22,8 @@ altrimenti potresti finire in una brutta situazione.","要記得事先把各種�
 상성이 나쁜 종족의 강한 적을 만났을 때, 일방적으로 당한다고?","He, nur kurz ein Tipp. Nimm immer ein paar
 unterschiedliche Typen von Digimon mit,
 sonst steckst du schnell in der Klemme."
-250,4583,,"Cerco sempre di mantenere la mia squadra totalmente diversificata.
-Poi di nuovo... Immagino che se vuoi colpire una
+250,4583,,"Cerco sempre di mantenere la mia squadra totalmente
+diversificata. Poi di nuovo... Immagino che se vuoi colpire una
 debolezza specifica o un mostro, potrebbe funzionare.","隊伍裡最好是每種種族的數碼寶貝都有一位。
 不過，故意只挑某種種族的數碼寶貝作為隊員，
 組成不怕特定種族的隊伍或許也算是一種戰略吧。",,"파티는 여러 종족의 디지몬으로 구성하는 게 제일…
@@ -31,55 +31,56 @@ debolezza specifica o un mostro, potrebbe funzionare.","隊伍裡最好是每種
 짜는 것도 전략 중 하나일지도 모르겠네","Ich sorge immer für Vielfalt in meiner Gruppe.
 Wobei ... wenn du dich an bestimmte Schwächen
 oder Monster anpasst, geht das auch."
-300,4582,,"La cosa più importante da ricordare in una battaglia
-Digimon è la relazione tra tipi e
-attributi. Beh, comunque la seconda cosa più importante.","在數碼寶貝對戰裡，「種族」跟「屬性」的契合度是很重要的。
+300,4582,,"La cosa più importante da ricordare in una
+battaglia Digimon è la relazione tra tipi e attributi.
+Beh, comunque la seconda cosa più importante.","在數碼寶貝對戰裡，「種族」跟「屬性」的契合度是很重要的。
 如果能針對契合度調整戰鬥方式的話，你就算是合格的駭客了！",,"디지몬 배틀은「종족」과「속성」의 상성이 중요해
 상성을 신경 쓰면서 싸울 수 있다면, 이제 남 못지 않은 해커야!","Das Wichtigste bei Digimon-Kämpfen ist das
 Verhältnis zwischen Typen und Attributen.
 Na, das Zweitwichtigste zumindest."
-350,4582,,"La cosa più importante, ovviamente, è la tua relazione
-con i tuoi Digimon. Voglio dire, devi fidarti di loro
-e loro devono fidarsi di te. Questo è il segreto.","你都有針對「種族」跟「屬性」的契合度調整戰鬥方式？
+350,4582,,"La cosa più importante, ovviamente, è la tua relazione con i
+tuoi Digimon. Voglio dire, devi fidarti di loro e loro
+devono fidarsi di te. Questo è il segreto.","你都有針對「種族」跟「屬性」的契合度調整戰鬥方式？
 那麼，你也算是合格的駭客了呢！",,"「종족」과「속성」의 상성을 신경 쓰면서 배틀을 하고 있어?
 …그렇다면, 너도 남 못지 않은 해커야!","Das Allerwichtigste ist natürlich dein Verhältnis
 zu deinen Digimon. Du musst ihnen vertrauen
 und sie müssen dir vertrauen."
-400,4585,,"Lo status Confusione è IL PEGGIORE! Seriamente! Ti...
-Ti fa... Oh, cavolo. Cosa fa?
-Oh, sì! Il tuo Digimon non prenderà ordini! Credo.","混亂狀態相當棘手對吧？只要中了那個狀態，就會變得無法命令數碼寶貝。
+400,4585,,"Lo status Confusione è IL PEGGIORE!
+Seriamente! Ti... Ti fa... Oh, cavolo. Cosa fa? Oh,
+sì! Il tuo Digimon non prenderà ordini! Credo.","混亂狀態相當棘手對吧？只要中了那個狀態，就會變得無法命令數碼寶貝。
 如果有增加混亂抵抗力或使混亂狀態無效的裝備，應該會很方便吧。",,"혼란상태는 꽤 성가셔… 디지몬에게 명령을 내릴 수 없게 되고
 혼란내성이나, 혼란무효의 장비품이 있으면 편리할 거야","Verwirrung ist absolut der SCHLIMMSTE Status!
 Da wird man so ... Mensch, wie war das noch?
 Ach ja! Digimon folgen keinen Befehlen mehr."
 450,4585,,"Quindi, dopo la mia piccola scappatella con la... Confusione,
-ho preso dell'equipaggiamento che la neutralizza. Evvai! Devo
-solo preoccuparmi di... tutti gli altri ora.","只要拿到使混亂狀態無效的裝備，就再也不用害怕混亂狀態了！
+ho preso dell'equipaggiamento che la neutralizza.
+Evvai! Devo solo preoccuparmi di... tutti gli altri ora.","只要拿到使混亂狀態無效的裝備，就再也不用害怕混亂狀態了！
 ……雖然會對其他異常狀態毫無抵抗力就是了！",,"혼란무효의 장비품을 손에 넣었으니까, 혼란대책은 완벽해!
 …다른 상태이상에는 통 약하지만!","Nach dem Vorfall mit der ... Verwirrung habe ich
 also Ausrüstung dagegen gekriegt. Sauber!
 Jetzt bleibt nur noch ... Alles andere."
-500,2000,,"Mostra [i652].
-Non mostrare [i652].","拿出[i652]。
+500,2000,,"Mostra
+[i652]. Non mostrare [i652].","拿出[i652]。
 不拿出[i652]。",,"[i652]를(을) 보여 준다
 [i652]를(을) 보여 주지 않는다","[i652] vorzeigen.
 [i652] nicht vorzeigen."
-600,4588,,"Woah, ragazzo! Alt. Aspetta. Ferma. E anche desisti.","喔～！？
+600,4588,,"Woah, ragazzo! Alt. Aspetta. Ferma. E anche
+desisti.","喔～！？
 喔～喔、喔喔！？",,"어어~라아!?
 어라어라, 어라라!?","Heda! Stopp! Halt. Stell sofort alle Handlungen
 ein."
 601,4588,,"Lasciami prendere un secondo qui. Questo posto, per quanto
-chiaramente fantastico. Anzi, oltre la normale scala
-di fantasticità. Non è per te... Quindi sparisci.","你給我等一下。
+chiaramente fantastico. Anzi, oltre la normale scala di
+fantasticità. Non è per te... Quindi sparisci.","你給我等一下。
 這裡現在禁止通行啊。
 你可以滾到別的地方去嗎？",,"잠깐 멈춰 주시죠?
 이곳은 절찬, 통행금지 중이거든요…
 다른 곳으로 꺼져 주시겠습니까?","Ein kleines Momentchen mal. Das ist echt super
 hier. So was kennt man sonst gar nicht.
 Aber nichts für dich. Also hau ab."
-602,4588,,"Senti, ragazzo, non costringermi a cacciarti via. Perché
-lo farò. E ti darò la caccia. E poi ti
-catturerò. E poi... Ehehehe...","不然我就要獵你囉？我真的會獵你哦？
+602,4588,,"Senti, ragazzo, non costringermi a
+cacciarti via. Perché lo farò. E ti darò la caccia. E poi
+ti catturerò. E poi... Ehehehe...","不然我就要獵你囉？我真的會獵你哦？
 嘿嘿嘿……",,"안 그러면 사냥해 버린다? 사냥해 버립니다?
 우헤헷…","Jetzt zwinge mich nicht, dir nachzusetzen.
 Das mache ich sonst nämlich. Und dann kriege ich
@@ -87,62 +88,63 @@ dich. Und dann ... hehehe ..."
 610,4588,,Hmm? ...Hmmmmm? ...HMMMMMMMMMM?!,"唉呀？
 唉呀唉呀？唉呀！？",,"어라?
 어라어라어라아, 어라어라라!?",Hm? ... Hmmmmm? ... HMMMMMMMMMM?!
-611,4588,,"Aspetta, cosa?! Sei uno di noi Zaxon? Forza, dov'è la tua maschera? Non le diamo per divertimento, sai!","什～麼嘛，原來你也是同伴啊！
+611,4588,,"Aspetta, cosa?! Sei uno di noi
+Zaxon? Forza, dov'è la tua maschera? Non
+le diamo per divertimento, sai!","什～麼嘛，原來你也是同伴啊！
 真是的，既然如此，你要記得戴上面具啦！",,"뭐~야, 너도 동료잖아앙~!
 정~말, 그럼 제대~로 가면을 써 두라고~옹!","Moment, was?! Du gehörst zu uns, zu Zaxon?
 Wo ist denn dann deine Maske? Die verteilen
 wir ja schließlich nicht zum Spaß!"
-612,4588,,"Se non lo indossi, un poveraccio come me potrebbe
-scambiarti per, uh... il tipo sbagliato. E allora
-dovrei mettermi a darti la caccia...","不然我們搞不好會誤以為你是外人，
+612,4588,,"Se non lo indossi, un poveraccio come me
+potrebbe scambiarti per, uh... il tipo sbagliato. E
+allora dovrei mettermi a darti la caccia...","不然我們搞不好會誤以為你是外人，
 不小心把你打趴在地上喲♪　嘿嘿☆",,"안 그러면 우리들… 널 착각해서
 사냥해 버릴지도 모른다고♪… 우헤♡","Wenn du sie nicht anziehst, dann hält ein armer
 Tropf wie ich dich vielleicht für jemand ...
 Unerwünschten. Und dann gibt’s Ärger ..."
-620,4588,,"Solo i membri sono ammessi qui dentro? Sei un membro?
-Già, no. Non lo pensavo.","我不能讓外人進入。
+620,4588,,"Solo i membri sono ammessi qui dentro? Sei un
+membro? Già, no. Non lo pensavo.","我不能讓外人進入。
 你是我們的同伴嗎？　應該不是吧？",,"동료가 아닌 녀석은 통과시킬 수 없어
 너 동료야? 동료 아니지?","Hier ist nur für Mitglieder. Bist du Mitglied?
 Nein? Das dachte ich mir."
-621,4588,,"In quel caso, vorresti gentilmente toglierti dalle scatole? Eheheh... Poteva sembrare una domanda, ma non fraintendere. Fuori.","你可以滾到別的地方去嗎？
+621,4588,,"In quel caso, vorresti gentilmente toglierti dalle
+scatole? Eheheh... Poteva sembrare una domanda, ma non
+fraintendere. Fuori.","你可以滾到別的地方去嗎？
 不然我就要獵你囉？我真的會獵你哦？
 嘿嘿嘿……",,"다른 곳으로 꺼져 주시겠습니까?
 안 그러면 사냥해 버린다? 사냥해 버립니다?
 우헤헷…","Würdest du dich dann bitte schön verziehen?
 Hehehe ... Verstehe meine höfliche Frage nicht
 falsch. Hau ab."
-700,4589,,"Ahll wrepuh ausittas ideyet fodinsaxn eritorah!
-(Farò a pezzi quegli estranei se metteranno piede
+700,4589,,"Ahll wrepuh ausittas ideyet fodinsaxn eritorah! (Farò a pezzi quegli estranei se metteranno piede
 nel territorio di Zaxon)","歪人曉戴蔗裡慌來慌去，小形勞子宅了你哦！？
 （外人少在這裡晃來晃去，小心老子宰了你哦！？）",,"부외자가속써성거리믄발바부린다마아!?
 (부외자가 계속 서성거리면 밟아 버린다 임마!?)","Fremde, wo in unser Tärtorjum gehn, krieschn paar
 aufs Mowl!"
-710,4589,,"Oibe adtobe udoooow!
-(Sarò felice di darti una lezione!)","喲，李有哉豐狂低收類嗎！？
+710,4589,,Oibe adtobe udoooow! (Sarò felice di darti una lezione!),"喲，李有哉豐狂低收類嗎！？
 （喲，你有在瘋狂地狩獵嗎！？）",,"그래싸냐응잘하겠냐마아!?
 (그래, 사냥은 잘 하고 있냐 임마!?)",Isch mach disch zu Hackfloisch!
-720,4589,,"Ettano epuin saxonritor!
-(Meglio non addentrarsi nel territorio di Zaxon!)","歪人曉戴蔗裡慌來慌去，小形勞子宅了你哦！？
+720,4589,,Ettano epuin saxonritor! (Meglio non addentrarsi nel territorio di Zaxon!),"歪人曉戴蔗裡慌來慌去，小形勞子宅了你哦！？
 （外人少在這裡晃來晃去，小心老子宰了你哦！？）",,"부외자가속써성거리믄발바부린다마아!?
 (부외자가 계속 서성거리면 밟아 버린다 임마!?)",Bleib bloß wech vom Zaxon-Tärtorjum!
 800,4590,,"Che hai da fissare, moccioso?!",你看什麼看啊！,,빤히 쳐다보지 말라고,Was glotzt du denn so blöd?!
-810,4590,,"Ehi, se devi nasconderti dietro una maschera, forse dovresti dirlo
-subito. Capito?","既然有面具一開始就要說啊。
+810,4590,,"Ehi, se devi nasconderti dietro una
+maschera, forse dovresti dirlo subito. Capito?","既然有面具一開始就要說啊。
 你應該知道規矩吧？",,"가면을 갖고 있으면 처음부터 말하라고
 룰 알고 있잖아?","He, wenn du eine Maske hast, hättest du
 das vielleicht gleich sagen sollen. Kapiert?"
 820,4590,,"Solo per i membri, gamberetto.",我不能放外人進去。,,동료 외에는 통과시킬 수 없어,"Nur für Mitglieder, du Weichei."
 1000,4586,,"Ucciderei per una pausa. Beh, questo posto sembra
-perfetto per sedersi un po'. Eheh... Digimon
-o semplici umani, non ha senso lavorare come pazzi.","呼……就在這裡休息一會兒吧。
+perfetto per sedersi un po'. Eheh... Digimon o semplici
+umani, non ha senso lavorare come pazzi.","呼……就在這裡休息一會兒吧。
 你也要時常替受傷的數碼寶貝治療啊。
 無論是數碼寶貝還是人類都不能亂來哦！",,"후우… 여기서 잠깐 쉴까
 너도 상처 입은 디지몬은 꼼꼼히 회복해 주라고
 디지몬도 인간도, 무리는 금물이야!","Was würde ich nicht geben für eine Pause. Ach,
 hier kann ich mich doch schön hinsetzen.
 Man kann sich auch totarbeiten."
-1050,4586,,"Whooo! Credo sia ora di un'altra pausa. Ehi,
-ragazzo! Stai usando oggetti potenziamento o qualcosa del genere?
+1050,4586,,"Whooo! Credo sia ora di un'altra pausa. Ehi, ragazzo!
+Stai usando oggetti potenziamento o qualcosa del genere?
 Essere avaro non ti aiuterà quando sarai nei guai.","呼……先暫時休息一下。
 對了，你有在用增幅器類的道具嗎？
 遇到強敵時可要儘管用啊，絕對不可以勉強哦！",,"후우… 잠깐 휴식, 휴식
@@ -153,9 +155,9 @@ Geiz rächt sich früher oder später."
 1100,4587,,"Aspetta! Aspetta! Sei ancora solo un novellino, giusto?","等一下！
 你應該才剛成為駭客不久吧？",,"잠깐 기다리시지!
 …너, 막 해커가 된 참이지?","Warte! Warte! Du bist immer noch ein Rookie, oder?"
-1101,4587,,"Ti darò un piccolo consiglio, ok? Passato
-di qui, se non hai Abilità di Supporto,
-le Cose finiranno in lacrime.","我就給你一個建議吧！
+1101,4587,,"Ti darò un piccolo consiglio, ok? Passato di qui, se
+non hai Abilità di Supporto, le Cose
+finiranno in lacrime.","我就給你一個建議吧！
 如果你要繼續前進的話，至少要先能將「輔助技能」
 運用自如哦，不然你可能會吃苦頭！",,"한 가지, 어드바이스를 해 주마!
 이 앞으로 갈 거면「서포트 스킬」정도는
@@ -163,117 +165,127 @@ le Cose finiranno in lacrime.","我就給你一個建議吧！
 kommst du ohne Unterstützungsfertigkeiten
 nicht weit."
 1102,4587,,"Le Abilità di Supporto sono fondamentali. Fanno un sacco di
-cose. Inoltre, quasi ogni Digimon ne ha
-almeno una.","所謂的「輔助技能」，
+cose. Inoltre, quasi ogni Digimon ne ha almeno una.","所謂的「輔助技能」，
 就是每個數碼寶貝一定會持有的一樣能力。",,"「서포트 스킬」이란 것은
 어느 디지몬이든 반드시 1개는 갖고 있는 능력이야","Unterstützungsfertigkeiten können alles Mögliche.
 Fast jedes Digimon hat mindestens eine."
-1103,4587,,"Se vuoi essere un hacker decente, faresti meglio a
-imparare le Abilità di Supporto della tua squadra. Puoi
-controllarle nel Manuale sul Campo.","如果你也想成為強悍的駭客，
+1103,4587,,"Se vuoi essere un hacker decente, faresti meglio
+a imparare le Abilità di Supporto della tua
+squadra. Puoi controllarle nel Manuale sul Campo.","如果你也想成為強悍的駭客，
 就要事先掌握隊伍裡的數碼寶貝的輔助技能！
 你可以用圖鑑進行確認哦。",,"너도 강한 해커가 되고 싶으면
 파티 디지몬의 서포트 스킬은 알아 두라고!
 도감에서 확인할 수 있으니까","Wenn du ein passabler Hacker sein willst, musst du
 die Unterstützungsfertigkeiten deiner Gruppe
 kennen. Du kannst sie im Digiführer nachlesen."
-1110,4587,,"Beh, non posso stare qui tutto il giorno a far niente.
-A dopo!","唉呀，一直待在這種地方可是會有危險的。
+1110,4587,,"Beh, non posso stare qui tutto il giorno
+a far niente. A dopo!","唉呀，一直待在這種地方可是會有危險的。
 掰啦！",,"아차, 이런 곳에서 계속 있으면 위험하겠구만
 잘 가라!","Huch, ich kann doch nicht den ganzen Tag nur
 herumstehen. Tschüs!"
-1200,4594,,"Qui ultimamente è tutto così folle.
-Fei è persino andato a cancellare completamente l'intero account di Jimiken!","聽說吉米肯的帳號被菲給刪除了。
+1200,4594,,"Qui ultimamente è tutto così folle. Fei è persino
+andato a cancellare completamente l'intero account di Jimiken!","聽說吉米肯的帳號被菲給刪除了。
 畢竟他最近都怪怪的……",,"지미켄이 페이에게 계정을 삭제당한 모양이야
 요즘 들어 상태가 이상했으니까 말이지…","Hier spielen in letzter Zeit alle verrückt.
 Fei hat sogar Jimikens ganzen Account gelöscht!"
 1201,4594,,"D'altra parte, le cose vanno male da un po'.
-Troppi attacchi, Jimmy che sta diventando un po' matto.","不，他怪也不是第一天的事了，
+Troppi attacchi, Jimmy che sta diventando
+un po' matto.","不，他怪也不是第一天的事了，
 該說他是有些衝過頭，還是像發瘋一樣呢……",,"아니, 텐션이 이상한 건 전부터 그랬지만…
 좀 지나쳤다고 할까 광기가 어렸다고 할까…","Wobei es ja schon seit einer Weile aus dem Ruder
 läuft. Zu viele Angriffe, Jimmy ist etwas
 durchgedreht."
-1202,4594,,"Certo, l'""un po' pazzo"" è ciò che rende Jimmy un tipo così interessante. Haha...",感覺就像是被惡魔纏身一樣……,,"아니면 정말로, 악마에게 홀렸다던가…","Sein Knall ist natürlich das Interessante
+1202,4594,,"Certo, l'""un po' pazzo"" è ciò che rende Jimmy un tipo
+così interessante. Haha...",感覺就像是被惡魔纏身一樣……,,"아니면 정말로, 악마에게 홀렸다던가…","Sein Knall ist natürlich das Interessante
 an ihm. Haha ..."
-1203,4594,,"Comunque, è un peccato. Era più che solo fumo
-e specchi e atmosfera rock 'n' roll. Dopotutto, era
-destinato a essere uno dei nostri uomini migliori.","總之，真的很遺憾啊，畢竟他是個很有意思的人……
+1203,4594,,"Comunque, è un peccato. Era più che solo fumo e
+specchi e atmosfera rock 'n' roll. Dopotutto, era destinato a
+essere uno dei nostri uomini migliori.","總之，真的很遺憾啊，畢竟他是個很有意思的人……
 再怎麼說，他以前也是因為兼具實力與聲望，
 才會被選為幹部的……",,"어쨌든 유감이야… 계속 봐도 질리지 않는 녀석이었고…
 이래저래, 실력도 인망도 있었으니까
 간부로 선정된 거였는데…","Trotzdem ist es schade. Der konnte viel mehr
 als Theater und Rock ’n’ Roll. Er war schließlich
 einer unserer wichtigsten Leute."
-1204,4594,,...Penso che probabilmente comprerò comunque il suo prossimo album.,如果他有出新單曲的話，就買一下好了。,,…신곡이 나오면 사 줄까,"... Sein nächstes Album werde ich mir wohl
+1204,4594,,"...Penso che probabilmente comprerò comunque il
+suo prossimo album.",如果他有出新單曲的話，就買一下好了。,,…신곡이 나오면 사 줄까,"... Sein nächstes Album werde ich mir wohl
 trotzdem holen."
-1300,4595,,"Quei Demoni sono super inquietanti! Un tipo continuava
-a provarci con me. Ho dovuto respingerlo.","之前有個叫做「惡魔亂舞」的隊伍的男性成員跑來邀我入隊，
+1300,4595,,"Quei Demoni sono super inquietanti! Un
+tipo continuava a provarci con me. Ho
+dovuto respingerlo.","之前有個叫做「惡魔亂舞」的隊伍的男性成員跑來邀我入隊，
 不過他真是個混球。",,"얼마 전에「데몬즈」라는 팀의 남자에게
 권유를 받았는데… 정말 터무니없는 악당이었어","Diese Demons sind total widerlich! Einer wollte
 mich ständig anbaggern. Ich musste ihn in die
 Wüste schicken."
-1301,4595,,"Anche dopo che gli ho detto di sparire, dopo avergli detto che
-non mi univo a una di quelle squadre, è andato fuori di
+1301,4595,,"Anche dopo che gli ho detto di sparire, dopo
+avergli detto che non mi univo a una di quelle squadre, è andato fuori di
 testa con me e ha evocato il suo Digimon!","我才以「不打算加入任何隊伍」為由拒絕他，
 他就馬上翻臉叫數碼寶貝攻擊我哦。",,"「어느 팀에도 들어갈 생각은 없어」라고 거절했더니
 갑자기 이성을 잃더니, 디지몬으로 공격해 왔어","Als ich ihm gesagt habe, dass ich nicht
 mitmache und er abhauen soll, ist der ausgeflippt
 und hat seine Digimon gerufen!"
-1302,4595,,"Ho chiamato il mio per cercare di staccarmi, ma lui
-ha continuato ad arrivare. Sono a malapena riuscito a
-scappare prima che cancellasse il mio account.","我一直下意識地提防著他，所以才能立即以數碼寶貝防禦，
+1302,4595,,"Ho chiamato il mio per cercare di staccarmi, ma lui ha
+continuato ad arrivare. Sono a malapena riuscito a scappare
+prima che cancellasse il mio account.","我一直下意識地提防著他，所以才能立即以數碼寶貝防禦，
 並且趁隙逃走……
 但我的帳號差點就要被破壞掉了。",,"미리 경계하고 있었다 보니, 순간적으로 디지몬으로 방어한 틈에
 도망칠 수 있었는데…
 하마터면 계정이 파괴될 뻔 했어","Ich habe meine eigenen gerufen, um zu entkommen,
 aber er hat nicht nachgelassen. Fast hätte
 er meinen Account gelöscht."
-1303,4595,,"Quindi ricordati solo, stai all'erta quando sei vicino a quei
-tipi... Sono ma-tti.",如果有看見惡魔亂舞的成員，你最好也多加提防比較好哦。,,"너도 데몬즈를 만나면, 경계하는 게 좋아","Also denk dran, pass gut auf bei den Typen.
+1303,4595,,"Quindi ricordati solo, stai all'erta quando sei vicino a
+quei tipi... Sono ma-tti.",如果有看見惡魔亂舞的成員，你最好也多加提防比較好哦。,,"너도 데몬즈를 만나면, 경계하는 게 좋아","Also denk dran, pass gut auf bei den Typen.
 Die spinnen total."
-1400,4596,,"Non credo che nessuno sia ancora arrivato a Sotto Zero, eh?",目前還沒有任何人到達「Under Zero」對吧？,,"「언더 제로」에는, 그 누구도 도달한 적이 없는 거지…?","Nach Unter Null hat es wohl noch nie jemand
+1400,4596,,"Non credo che nessuno sia ancora arrivato
+a Sotto Zero, eh?",目前還沒有任何人到達「Under Zero」對吧？,,"「언더 제로」에는, 그 누구도 도달한 적이 없는 거지…?","Nach Unter Null hat es wohl noch nie jemand
 geschafft, oder?"
 1401,4596,,"D'altro canto, se qualcuno può farlo, è Yuugo.",不過，如果是Zaxon……如果是YUGO的話，說不定真的能做到。,,"하지만, 잭슨이라면… 유고라면, 실현할 수 있을지도…","Wenn es einer schaffen kann, dann Yuugo."
-1402,4596,,"Voglio dire, è semplicemente la bellezza fatta persona. È semplicemente...
-incredibile.","因為，他真的是太美了……
+1402,4596,,"Voglio dire, è semplicemente la bellezza fatta
+persona. È semplicemente... incredibile.","因為，他真的是太美了……
 他從頭到腳就只有美麗二字可以形容……",,"왜냐하면… 아름다운걸…
 그저 한결같이… 아름다운걸…","Es ist einfach so wunderschön.
 Es ist ... unglaublich."
-1403,4596,,Scommetto che persino gli dei accoglierebbero Yuugo nel luogo più sacro nell'Under Zero.,就連神明……應該也會讓YUGO進入“聖地”吧……,,"하나님도… 유고를 ""성지""로 받아들여 줄 거야…","Ich wette, sogar die Götter würden Yuugo im
+1403,4596,,"Scommetto che persino gli dei
+accoglierebbero Yuugo nel luogo più sacro nell'Under Zero.",就連神明……應該也會讓YUGO進入“聖地”吧……,,"하나님도… 유고를 ""성지""로 받아들여 줄 거야…","Ich wette, sogar die Götter würden Yuugo im
 Heiligtum von Unter Null willkommen heißen."
-1500,4597,,"E allora se dei Digimon selvatici attaccano? Questo è il cyberspazio, amico mio! Niente può danneggiare i nostri corpi reali. Che vengano pure!","如果是在電腦空間裡，就算被殘暴的數碼寶貝襲擊，
+1500,4597,,"E allora se dei Digimon selvatici attaccano?
+Questo è il cyberspazio, amico mio! Niente può danneggiare
+i nostri corpi reali. Che vengano pure!","如果是在電腦空間裡，就算被殘暴的數碼寶貝襲擊，
 只要想說「反正我們是化身～肉體絕對不會受到傷害啦～」，
 我們也能冷靜地迎擊……",,"전뇌공간에선, 흉폭한 야생 디지몬에게 습격당한다 해도
 이쪽은 아바타니까~? 육체가 상처를 입는 건 아니니까~?
 같은 느낌으로, 침착하게 요격할 수 있는 여유가 있었는데…","Wilde Digimon könnten angreifen? Na und?
 Wir sind hier im Cyberspace! Unseren echten
 Körpern kann nichts passieren!"
-1501,4597,,È solo una grande opportunità per avere dei nuovi membri nella mia squadra.,"甚至還會覺得那是捕獲數碼寶貝的大好機會，
+1501,4597,,"È solo una grande opportunità per avere
+dei nuovi membri nella mia squadra.","甚至還會覺得那是捕獲數碼寶貝的大好機會，
 但是……",,"오히려, 캡처할 찬스! 정도밖에
 생각하지 않았는데…","Das ist eine großartige Gelegenheit, brandneue
 Mitglieder in mein Team zu holen."
-1502,4597,,"Se tutto questo fosse vita vera? Psh! Dimenticalo! Non
-esiste proprio che combatta una battaglia là fuori.","如果在現實世界裡遭到襲擊的話，情況就又不一樣了吧。
+1502,4597,,"Se tutto questo fosse vita vera? Psh! Dimenticalo!
+Non esiste proprio che combatta una battaglia
+là fuori.","如果在現實世界裡遭到襲擊的話，情況就又不一樣了吧。
 跟數碼寶貝戰鬥……那種事我辦不到啊。",,"현실 세계에서 습격당하는 거면 별개의 문제지
 배틀을 한다던가… 나에게는 무리야","Ob ich mir das im echten Leben vorstellen könnte?
 Nichts da! Da draußen kämpfe ich ganz sicher
 nicht."
-1600,4598,,"Zaxon? Quei perdenti? Non sono niente! Gli hacker sono
-fatti per essere liberi, non solo un'orda servile.","「Zaxon」真是叫人不爽啊。
+1600,4598,,"Zaxon? Quei perdenti? Non sono niente! Gli
+hacker sono fatti per essere liberi, non solo
+un'orda servile.","「Zaxon」真是叫人不爽啊。
 駭客原本才不是會聚集在一起的生物。",,"마음에 안 들어…「잭슨」
 본래, 해커는 무리를 짓지 않는 법이야","Zaxon? Diese Verlierer? Die sind das Letzte!
 Hacker sollen doch frei sein, und nicht nur ein
 Fanclub."
-1601,4598,,"Ma quegli idioti se ne stanno lì a bighellonare, blaterando
-e blaterando del loro codice d'onore da hacker, del loro
-orgoglio da hacker. Imbecilli!","可是他們卻大聲強調
+1601,4598,,"Ma quegli idioti se ne stanno lì a bighellonare, blaterando e
+blaterando del loro codice d'onore da hacker, del loro orgoglio da
+hacker. Imbecilli!","可是他們卻大聲強調
 什麼駭客的榮譽啦、信念啦之類的。",,"그럼에도 불구하고, 해커의 긍지이니 신념이니 하면서
 큰 소리로 외치고 있어","Aber diese Trottel hängen nur rum und faseln
 von ihrem Ehrenkodex und ihrem Stolz als Hacker.
 Vollidioten!"
-1602,4598,,"Stanno solo cercando di incastrare i VERI hacker!
-Non si tratta di codici e regole. Si tratta di
-libertà!","用一些空泛的主張和規範約束駭客……
+1602,4598,,"Stanno solo cercando di incastrare i VERI
+hacker! Non si tratta di codici e
+regole. Si tratta di libertà!","用一些空泛的主張和規範約束駭客……
 還說什麼“自由的存在”嘛，聽得我都傻眼了。",,"규칙이니 규율이니 하면서 붙잡아 놓고는…
 ""자유로운 존재""라니, 어처구니가 없구만","Damit wollen sie nur den ECHTEN Hackern in die
 Quere kommen! Es geht hier nicht um Regeln.

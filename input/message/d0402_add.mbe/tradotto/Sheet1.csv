@@ -1,20 +1,20 @@
-ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
-0,4581,,"I forti, gli intelligenti e i tosti! Kowloon
-appartiene a noi hacker!","很強的傢伙！　聰明的傢伙！　還有自由的傢伙！
+﻿ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
+0,4581,,"I forti, gli intelligenti e i tosti! 
+Kowloon appartiene a noi hacker!","很強的傢伙！　聰明的傢伙！　還有自由的傢伙！
 「Kowloon」是屬於我們這些駭客的東西！",,"강한 녀석! 영리한 녀석! 그리고 자유로운 녀석!
 「쿠롱」은 그러한 우리 해커의 것이다!","Stark, klug und cool! Kowloon gehört uns Hackern!"
-1,4582,,"L'affinità tra specie e attributi è
-vitale in una battaglia Digimon. Ma i Digimon che puoi
-portare sono limitati, quindi devi trovare un equilibrio.","有關數碼寶貝戰鬥，「種族」和「屬性」
+1,4582,,"L'affinità tra specie e attributi è vitale in una
+battaglia Digimon. Ma i Digimon che puoi portare
+sono limitati, quindi devi trovare un equilibrio.","有關數碼寶貝戰鬥，「種族」和「屬性」
 的適性是非常重要的喔。但能夠帶出去的數碼寶貝
 有限，整編隊伍要好好的考量平衡喔！",,"디지몬 배틀은「종족」과「속성」의 상성이 중요해.
 하지만 데려갈 수 있는 디지몬은 제한이 있으니까
 균형을 생각하면서 파티를 잘 짜둬야 해!","Bei einem Digimon-Kampf ist die Affinität zwischen
 Spezies und Attribut sehr wichtig. Aber man kann
 nur wenige mitnehmen und muss sie gut auswählen."
-2,4583,,"I Digimon con un'alta VEL sono buoni perché possono
-muovere subito dopo l'inizio della battaglia, ma molti di
-loro sono deboli e hanno un basso ATT.","「SPD」高的數碼寶貝，在戰鬥開始時，很快就能
+2,4583,,"I Digimon con un'alta VEL sono buoni perché
+possono muovere subito dopo l'inizio della
+battaglia, ma molti di loro sono deboli e hanno un basso ATT.","「SPD」高的數碼寶貝，在戰鬥開始時，很快就能
 行動，所以很方便。但缺點則是較脆弱，以及
 攻擊力低的數碼寶貝居多。",,"「민첩」이 높은 디지몬은
 배틀을 개시했을 때, 빨리 행동할 수 있으니까 편리하지.
@@ -28,14 +28,14 @@ equipaggiamento che le resista e le annulli.","千萬不要小看異常狀態喔
 상태 이상 내성이라던가, 무효 효과가 붙은 장비는 뺄 수가 없어","Statusleiden sind schlimm, vor allem Verwirrung.
 Deshalb braucht man Ausrüstung, die gegen sie
 resistent macht oder sie negiert."
-100,4581,,"Il cielo può essersi aperto e possono star piovendo
-Digimon, ma Kowloon appartiene a noi hacker!","……不管是天空破個洞也好，還是有數碼寶貝
+100,4581,,"Il cielo può essersi aperto e possono star
+piovendo Digimon, ma Kowloon appartiene a noi hacker!","……不管是天空破個洞也好，還是有數碼寶貝
 從那個洞掉下來也好……
 這「Kowloon」都是我們駭客的東西！！",,"…하늘이 갈라지든, 거기서 디지몬이 내려오든…
 이「쿠롱」은 우리 해커의 것이다아앗!!","Auch wenn der Himmel aufgebrochen ist und es
 Digimon regnet – Kowloon gehört uns Hackern!"
-101,4582,,"Stai tenendo d'occhio l'affinità tra
-specie e attributi? Una volta che hai un gruppo che
+101,4582,,"Stai tenendo d'occhio l'affinità tra specie e
+attributi? Una volta che hai un gruppo che
 funziona per te, puoi competere con i migliori hacker!","你有注意「種族」和「適性」的平衡來戰鬥嗎？
 如果有好好整編出輕易戰鬥的隊伍，
 你就算得上是一位好駭客了喔！",,"「종족」과「상성」의 균형을 신경 쓰며 배틀하고 있어?
@@ -43,17 +43,17 @@ funziona per te, puoi competere con i migliori hacker!","你有注意「種族�
 너도 누구 못지않은 해커야!","Behältst du die Affinität zwischen Spezies und
 Attributen im Augen? Wenn deine Gruppe gut ist,
 kannst du es mit den besten Hackern aufnehmen!"
-102,4583,,"Avevo un party composto solo da Digimon con SPD alta.
-Hanno tutti attaccato non appena è iniziata la battaglia!
-Ottenere il primo colpo fa tutta la differenza!","組了個只有「SPD」高的數碼寶貝的隊伍，
+102,4583,,"Avevo un party composto solo da Digimon con SPD alta. Hanno
+tutti attaccato non appena è iniziata la
+battaglia! Ottenere il primo colpo fa tutta la differenza!","組了個只有「SPD」高的數碼寶貝的隊伍，
 在剛開始戰鬥時，全部一起攻擊真是爽快！
 先下手為強啊！",,"「민첩」이 높은 디지몬만으로 파티를 짰어
 배틀이 시작된 직후에 일제 공격할 수 있어서 상쾌해! 선수 필승이지!","Ich hatte eine Gruppe, bei der alle Digimon hohe
 GES hatten. Sie griffen alle sofort nach
 Kampfbeginn an! Das war entscheidend!"
-103,4585,,"Gli attacchi veleno sono brutti, ma proteggermi
-da essi potrebbe lasciarmi esposto alla Confusione... Oh, dove
-sono? Come sono finito qui?","我太害怕劇毒攻擊，所以裝了劇毒耐性的裝備，
+103,4585,,"Gli attacchi veleno sono brutti, ma
+proteggermi da essi potrebbe lasciarmi esposto alla
+Confusione... Oh, dove sono? Come sono finito qui?","我太害怕劇毒攻擊，所以裝了劇毒耐性的裝備，
 卻陷入了混亂狀態……。
 咦，回家的路要怎麼走……？",,"맹독 공격이 무서워서 맹독 내성인 장비를 달았더니, 혼란 상태에
 빠져서 큰일이었어… 어라, 돌아가는 길은 어느쪽이었지…?","Giftangriffe sind schlimm, aber schütze ich mich
