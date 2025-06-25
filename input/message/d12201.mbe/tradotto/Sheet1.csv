@@ -1,19 +1,20 @@
-ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
-0,9140,,"Ho sentito che ti sei unito a Hudie. Assicurati solo di non
-intralciare i miei affari.","……你變成hudie的一員了啊，
+﻿ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
+0,9140,,"Ho sentito che ti sei unito a Hudie.
+Assicurati solo di non intralciare i miei affari.","……你變成hudie的一員了啊，
 別來打擾我做生意啊。",,"…너, 후디에의 일원이 되었던데
 장사 방해만은 하지 말아 달라고","Ich habe gehört, dass du jetzt bei Hudie bist.
 Komm meinen Geschäften bloß nicht in die Quere."
-1,9141,,"Il DigiMarket è così conveniente. È un grande aiuto
-per gli hacker novellini che non sanno come convertire.","在數碼市場，只要花錢就能夠得到數碼寶貝，
+1,9141,,"Il DigiMarket è così conveniente. È un grande
+aiuto per gli hacker novellini che non sanno
+come convertire.","在數碼市場，只要花錢就能夠得到數碼寶貝，
 相當的方便呢。對於連轉換都不曉得的初學者
 駭客來說，應該是獲益良多喔？",,"디지마켓은 돈만 가져다주면 디지몬을 손에 넣을 수 있으니
 꽤 편리하지. 컨버트 방법도 모르는 해커 초보자는
 굉장히 신세를 지게 될걸?","Der DigiMarkt ist so praktisch. Für neue Hacker,
 die nicht wissen, wie man umwandelt, ist er eine
 große Hilfe."
-2,9142,,"Credo che quei vecchi laggiù facciano parte di un forte
-team di hacker. Stai attento a loro. Credo si
+2,9142,,"Credo che quei vecchi laggiù facciano parte di un
+forte team di hacker. Stai attento a loro. Credo si
 chiamino Black Silver o qualcosa del genere.","在那裡的大叔們，聽說是某個蠻厲害的
 駭客隊伍的人，所以要小心一點喔。
 好像是叫做「黑銀」吧。",,"저쪽에 있는 할아버지들 꽤 강한 해커팀 사람
@@ -21,41 +22,47 @@ chiamino Black Silver o qualcosa del genere.","在那裡的大叔們，聽說是
 「블랙 실버」라던가, 그렇게 말했던가","Ich glaube, die alten Typen da drüben gehören zu
 einem starken Hackerteam. Nimm dich in Acht. Ich
 glaube, sie heißen Black Silver oder so."
-3,9143,,"Cosa? Noi? Pericolosi? Non ho mai sentito una cosa più
-folle in tutta la mia vita! Eheheh!","什麼？　靠近我們的話可是會燒傷的喔？
+3,9143,,"Cosa? Noi? Pericolosi? Non ho mai sentito una cosa
+più folle in tutta la mia vita! Eheheh!","什麼？　靠近我們的話可是會燒傷的喔？
 ……開玩笑的啦！！　呼哈哈哈哈！！",,"뭐냐? 우리한테 접근했다간 화상 입는다?
 …랄까나!! 홋홋홋홋홋!!","Was? Wir? Gefährlich? So etwas Verrücktes habe ich
 im Leben noch nicht gehört! Hehehe!"
-4,9144,,"Cercare di truffare gli anziani?! Non provi vergogna?!
-Ho una mezza idea di darti una bella lezione!","竟敢欺騙老人，自己還一副不在乎的模樣……！
+4,9144,,"Cercare di truffare gli anziani?! Non
+provi vergogna?! Ho una mezza idea di darti una
+bella lezione!","竟敢欺騙老人，自己還一副不在乎的模樣……！
 小兔崽子，就由我代替老天爺來懲罰你！",,"늙은이를 속여놓고, 뻔뻔한 얼굴을 하다니…!
 애송이 녀석, 하늘을 대신해서 내가 벌을 주마!","Versuchst du, alte Leute abzuzocken?! Schämst du
 dich nicht?! Ich habe Lust, dir eine Tracht Prügel
 zu verpassen!"
-5,9145,,"M-M-Mi dispiace! Prometto che non lo farò mai più!
-Per favore, perdonami!","嗚……嗚……真的很對不起……！
+5,9145,,"M-M-Mi dispiace! Prometto che non lo farò mai
+più! Per favore, perdonami!","嗚……嗚……真的很對不起……！
 我不會再敲詐了啦，原諒我……！",,"흑…흑…죄송합니다…!
 더는 삥 뜯지 않을 테니까, 용서해주세요…!","E-E-Es tut mir leid! Ich verspreche, es nie wieder
 zu tun! Bitte vergib mir!"
-100,9140,,Ci sono Digimon a Tokyo che non ho mai visto a Kowloon. Deve esserci un modo per catturarli così posso venderli.,"……東京似乎出現了在Kowloon見不到的數碼寶貝啊。
+100,9140,,"Ci sono Digimon a Tokyo che non ho mai
+visto a Kowloon. Deve esserci un modo
+per catturarli così posso venderli.","……東京似乎出現了在Kowloon見不到的數碼寶貝啊。
 有沒有什麼好辦法能抓到手，再拿去賣嗎……",,"…도쿄에 쿠롱에서는 볼 수 없었던 디지몬이 나타났
 다는 듯해. 어떻게든 손에 넣어서 팔 수는 없으려나…","In Tokio gibt es Digimon, die ich noch nie in
 Kowloon gesehen habe. Ich muss sie irgendwie
 fangen, damit ich sie verkaufen kann."
-101,9141,,Non ci sono tanti clienti qui come c'erano una volta. Ma in realtà mi piace che non sia così affollato.,"最近，感覺來這裡的客人變少了……
+101,9141,,"Non ci sono tanti clienti qui come c'erano una
+volta. Ma in realtà mi piace che non sia così
+affollato.","最近，感覺來這裡的客人變少了……
 反正對我來說很開心啊，這樣就可以悠閒的購物了。",,"최근, 여기에 오는 손님도 줄어든 기분이 들어…
 뭐, 나는 느긋하게 쇼핑할 수 있어서 기쁘지만","Hier sind nicht so viele Kunden wie sonst. Aber
 mir gefällt es, dass es hier nicht so überlaufen
 ist."
-103,9143,,"Mio nipote vive a Tokyo. Non è un hacker, quindi
-sono preoccupato che possa essere in pericolo.","我孫子一個人在東京生活呢。
+103,9143,,"Mio nipote vive a Tokyo. Non è un
+hacker, quindi sono preoccupato che possa essere
+in pericolo.","我孫子一個人在東京生活呢。
 那孩子不是駭客，真擔心他會不會碰到危險的事情……",,"손주가 도쿄에 혼자 살고 있어. 그 녀석은 해커가
 아니니까, 위험한 일을 당하는 건 아닐까 걱정이야…","Mein Enkel lebt in Tokio. Er ist kein Hacker.
 Deshalb mache ich mir Sorgen, dass er in Gefahr
 sein könnte."
-104,9144,,"Un Digimon è atterrato vicino a casa mia. L'ho cacciato via,
-ma le mie gambe non sono più quelle di una volta. Non come
-in EDEN.","家裡的旁邊掉下了數碼寶貝，雖然我想馬上過去
+104,9144,,"Un Digimon è atterrato vicino a casa
+mia. L'ho cacciato via, ma le mie gambe non
+sono più quelle di una volta. Non come in EDEN.","家裡的旁邊掉下了數碼寶貝，雖然我想馬上過去
 趕跑他們啦……但膝蓋已經不聽我使喚了。
 沒辦法跟EDEN一樣啊。",,"집 옆에 디지몬이 내려오길래 당장에 쫓아내려고
 했었는데…무릎이 말을 듣지 않아서 말이지
@@ -63,39 +70,44 @@ EDEN하고 똑같이는 움직이지 못하겠더구나","In der Nähe meines Ha
 gelandet. Ich habe es weggejagt, aber außerhalb
 von EDEN sind meine Beine nicht mehr wie früher."
 105,9145,,Questa è la mia occasione per fuggire!,……好，趁現在趕快逃……！,,"…좋아, 지금 이 틈에 도망가자…!",Dies ist meine Chance zu fliehen!
-106,9144,,Ehi! Non ho ancora finito con te! Non mi sfuggirai! Non in EDEN!,"我還沒講完啊！！！
+106,9144,,"Ehi! Non ho ancora finito con te!
+Non mi sfuggirai! Non in EDEN!","我還沒講完啊！！！
 讓我在EDEN碰到的話，絕不讓你逃啊！！！",,"아직 설교는 끝나지 않았다아아!!!
 EDEN에선 절대로 놓치지 않겠다아아아아아아!!","He! Ich bin noch nicht mit dir fertig! Mir
 entwischst du nicht! Nicht in EDEN!"
 200,9140,,...,…………,,…………,...
-201,2000,,"(Le creature nella gabbia non assomigliano a niente che io abbia
-mai visto prima.)",（籠子裡有沒見過的生物）,,(처음 보는 생물이 우리 안에 있어),"(So etwas wie die Kreaturen im Käfig habe 
+201,2000,,"(Le creature nella gabbia non assomigliano a niente
+che io abbia mai visto prima.)",（籠子裡有沒見過的生物）,,(처음 보는 생물이 우리 안에 있어),"(So etwas wie die Kreaturen im Käfig habe 
 ich noch nie gesehen.)"
-202,2000,,"(Questo è il mio primo lavoro come hacker. Non ho mai fatto
-niente del genere prima, ma lo farò
-passo dopo passo.)",（跟籠子前的駭客打聽情報吧）,,(우리 앞에 있는 저 해커에게도 정보를 들어보자),"(Dies ist mein erster Job als Hacker. Ich habe so
+202,2000,,"(Questo è il mio primo lavoro come hacker.
+Non ho mai fatto niente del genere prima, ma
+lo farò passo dopo passo.)",（跟籠子前的駭客打聽情報吧）,,(우리 앞에 있는 저 해커에게도 정보를 들어보자),"(Dies ist mein erster Job als Hacker. Ich habe so
 etwas noch nie getan. Ich erledige einfach einen
 Schritt nach dem anderen.)"
-301,9141,,"Ho sentito che alcune persone sono riuscite ad arrivare a Sotto Zero.
-Se non mi sbrigo, mi perderò un momento storico!","你也是來買數碼寶貝的嗎？
+301,9141,,"Ho sentito che alcune persone sono
+riuscite ad arrivare a Sotto Zero. Se non
+mi sbrigo, mi perderò un momento storico!","你也是來買數碼寶貝的嗎？
 市場的商人就在那籠子前面。",,"너도 디지몬을 사러 왔냐?
 마켓 상인은 저 우리 앞에 있어","Offenbar haben es ein paar Leute nach Unter
 Null geschafft. Wenn ich mich nicht beeile,
 verpasse ich das Ereignis des Jahrhunderts!"
-302,9142,,"Una gigantesca cosa simile a un mostro in Under Zero ha decimato
-Jude in un batter d'occhio.","你沒有數碼寶貝呢。
+302,9142,,"Una gigantesca cosa simile a un mostro in Under Zero ha
+decimato Jude in un batter d'occhio.","你沒有數碼寶貝呢。
 那樣毫無防備，在Kowloon可是會被狩獵的啊。",,"너, 디지몬을 갖고있지 않네.
 그런 무방비한 상태로는 쿠롱에서 사냥당할 뿐이야","Ein riesiges, monströses Ding hat Gamma bei Unter
 Null im Handumdrehen dezimiert."
-303,9143,,(Proverò a chiedere informazioni all'hacker vicino alla gabbia.),志賀？　老子才不知道那種傢伙。,,"시가? 그런 녀석, 난 모른다","(Ich werde versuchen, den Hacker am Käfig um
+303,9143,,"(Proverò a chiedere informazioni
+all'hacker vicino alla gabbia.)",志賀？　老子才不知道那種傢伙。,,"시가? 그런 녀석, 난 모른다","(Ich werde versuchen, den Hacker am Käfig um
 Informationen zu bitten.)"
-304,9142,,"Hmm... Penso che opterò per un Digimon vaccino. Ah,
-ma non voglio perdermi un tipo data o virus...","嗯，要買疫苗種的數碼寶貝嗎？
+304,9142,,"Hmm... Penso che opterò per un
+Digimon vaccino. Ah, ma non voglio
+perdermi un tipo data o virus...","嗯，要買疫苗種的數碼寶貝嗎？
 啊～可是資料種跟病毒種也難以取捨啊……",,"으음, 백신종 디지몬으로 할까.
 아니, 하지만 데이터종이나 바이러스종도 버리기 어렵네……","Hm ... Ich denke, ich nehme ein Serum-Digimon.
 Aber ich will auch auf eins vom Datei- oder
 Virus-Typ nicht verzichten ..."
-305,9142,,Chi sei? Sono occupato. Non parlarmi.,"……你要幹麼？
+305,9142,,"Chi sei? Sono occupato. Non
+parlarmi.","……你要幹麼？
 我現在很忙，別跟我說話。",,"……이봐, 너?
 난 지금 바빠. 말 걸지 말아줘","Wer bist du? Ich bin beschäftigt. Lass mich in
 Ruhe."
@@ -110,23 +122,26 @@ doch mal das Mädchen mit der Mütze da drüben."
 308,9141,,È un'habitué e potrebbe sapere qualcosa.,"她是這裡的常客，
 說不定會知道什麼。",,"그녀는 여기 단골이니까
 뭔가 알고 있을지도 몰라",Sie ist regelmäßig hier und weiß vielleicht was.
-309,9141,,"Hai chiesto alla ragazza laggiù? È un'habitué,
-quindi potrebbe sapere qualcosa della persona
-che stai cercando.","你問過那邊那位姊姊了嗎？
+309,9141,,"Hai chiesto alla ragazza laggiù? È
+un'habitué, quindi potrebbe sapere qualcosa della
+persona che stai cercando.","你問過那邊那位姊姊了嗎？
 如果是她這熟客，說不定會知道什麼喔。",,"저쪽에 있는 누님에게 말 걸어 봤어?
 여기 단골인 그녀라면 네가 찾는 사람에 대해서
 뭔가 알고 있을지도 몰라","Hast du das Mädchen da drüben gefragt? Die kommt
 regelmäßig her und weiß vielleicht etwas zur
 Person, die du suchst."
-310,9142,,"Conosco un hacker di nome Shiga? No, non conosco nessuno con quel nome.","你問我知不知道叫志賀的駭客？
+310,9142,,"Conosco un hacker di nome Shiga? No, non
+conosco nessuno con quel nome.","你問我知不知道叫志賀的駭客？
 不，我認識的人裡沒有叫這名字的……",,"시가라는 해커를 모르냐고?
 아니, 아는 사람 중엔 그런 이름을 가진 사람이 없는데……","Ob ich einen Hacker namens Shiga kenne? Nein, ich
 kenne niemanden, der so heißt."
-311,9142,,"Se stai cercando qualcuno, faresti meglio a chiedere ai venditori del mercato.","但要找人的話，比起我
+311,9142,,"Se stai cercando qualcuno, faresti meglio a
+chiedere ai venditori del mercato.","但要找人的話，比起我
 去問市場的商人應該更好喔。",,"사람을 찾고 있다면 나보단
 마켓 상인에게 물어보는 편이 낫지 않을까?","Wenn du jemanden suchst, solltest du lieber die
 Verkäufer auf dem Markt fragen."
-312,9142,,Il mercato aprirà presto. Dovrebbero essere qui tra non molto.,"市場馬上就要開了，
+312,9142,,"Il mercato aprirà presto. Dovrebbero essere qui tra non
+molto.","市場馬上就要開了，
 他也應該馬上就會出現了。",,"곧 마켓이 오픈할 시간이니
 슬슬 여기에 나타날 거야","Der Markt macht bald auf. Sie sollten bald hier
 sein."

@@ -1,28 +1,28 @@
-ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
+﻿ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
 200,4746,,......,……,,………,...
-201,3002,,"Uh, ciao, ciao! Mi scusi. Se potessi solo... sgattaiolare
-proprio di qui. Ehehehe! Grazie!","那、那個～？我們想要過去耶，
+201,3002,,"Uh, ciao, ciao! Scusami. Se potessi solo...
+sgattaiolare proprio di qui. Ehehehe! Grazie!","那、那個～？我們想要過去耶，
 可以麻煩你讓開嗎？",,"…저, 저기요~? 저희들 이 앞으로 가고 싶으니
 비켜 주셨으면 하는데요~?","Ach, hallo! Entschuldigung. Ich müsste nur ...
 eben vorbei. Hihihi! Danke!"
 202,4746,,Shhh! Sto cercando di concentrarmi!,"噓！！
 不要跟我說話！！！",,"…쉿!!
 말 걸지 말아 줘!!",Pssst! Ich versuche mich zu konzentrieren!
-203,4746,,"Ho lavorato alla risoluzione di questo enigma per secoli.
-Seeeeecoli... Ci sono così vicino.","我煩惱已久的問題，
+203,4746,,"Ho lavorato alla risoluzione di questo enigma per
+secoli. Seeeeecoli... Ci sono così vicino.","我煩惱已久的問題，
 差一點點就能想出答案了！",,"지금… 계속 고민하던 문제의 답이…
 목구멍까지 나왔단 말이야…!","Ich tüftle schon seit Ewigkeiten an diesem Rätsel.
 Eeewigkeiten ... Ich bin so nah dran."
-204,3002,,"Uh... Certo... È decisamente salutare. Qual è
-l'indovinello, comunque?","啊？
+204,3002,,"Uh... Certo... È decisamente
+salutare. Qual è l'indovinello, comunque?","啊？
 順便問一下，你正在煩惱的問題是……？",,"어, 뭐?
 혹시, 무슨 문제인데…?","Äh ... klar ... Ist ja auch völlig normal.
 Um welches Rätsel geht es denn überhaupt?"
-205,4746,,"Uno dei più problematici dei nostri tempi:
-Come... faccio a trovarmi una ragazza?",就是……「要怎麼做才能交到女朋友」啦。,,"…어떻게 하면, 여자 친구가 생길까… 다","Um das große Rätsel unserer Zeit:
+205,4746,,"Uno dei più problematici dei nostri
+tempi: Come... faccio a trovarmi una ragazza?",就是……「要怎麼做才能交到女朋友」啦。,,"…어떻게 하면, 여자 친구가 생길까… 다","Um das große Rätsel unserer Zeit:
 Wie ... finde ich eine Freundin?"
-206,3002,,"Oh... OH! Già, beh, è dura. Io in realtà
-devo proprio andare e--","……………………喂，
+206,3002,,"Oh... OH! Già, beh, è dura. Io in
+realtà devo proprio andare e--","……………………喂，
 我可是急著去找我的朋友耶！",,"………………………저기
 난 친구를 찾아야만 해서―","Oh ... OH! Ah, ja, das ist knifflig.
 Ich, äh, muss aber weg und ..."
@@ -33,19 +33,23 @@ nessuno, accidenti! Non conosci il mio dolore.","妳懂屁啊！？我都快三�
 애인이 없는 내 기분을 알아!?","„Knifflig“?! Das ist ein wenig untertrieben!
 Es ist schier unmöglich! Ich bin fast 30 und
 habe niemanden! Du weißt ja nicht, wie das ist."
-208,4746,,Non potrai mai conoscere il mio dolore... Lasciami... solo con il mio dolore. Un giorno. Un giorno troverò il mio modo... per una tipa super-sexy!,"不明白的話就不要管我！
+208,4746,,"Non potrai mai conoscere il mio dolore...
+Lasciami... solo con il mio dolore. Un giorno. Un
+giorno troverò il mio modo... per una tipa super-sexy!","不明白的話就不要管我！
 我就快要想出答案了！",,"모르겠으면 내버려 둬…!
 답을 생각해 낼 것 같단 말이야","Du wirst diesen Schmerz nie kennen ...
 Lass mich einfach allein damit. Eines Tages
 werde ich ... eine heiße Schnitte klarmachen!"
-209,3002,,"Beh... quel tipo ha dei problemi fondamentali
-che devono essere risolti, ma penso che dobbiamo concentrarci
+209,3002,,"Beh... quel tipo ha dei problemi fondamentali che
+devono essere risolti, ma penso che dobbiamo concentrarci
 sul trovare Agumon e gli altri.","唔唔，那確實是很重大、很迫切的問題……
 不過人家想快點去找亞古獸他們啦～",,"으, 윽… 확실히 심각하지만… 절실하지만…
 하지만 빨리 아구몬과 파피몬을 찾으러 가고 싶은데~","Ähm ... Der Gute hat ein paar Probleme zu
 verarbeiten, aber wir müssen vor allem Agumon
 und die anderen finden."
-210,3002,,"Fine... Fine, fine, fine! Aiuterò, okay? Aiuterò. Solo, fammi chiedere in giro e vedere se posso darti qualche buon consiglio.","啊～！真是的！既然如此，只好先去打聽了！
+210,3002,,"Ok... Ok, ok, ok! Aiuterò, ok?
+Aiuterò. Solo, fammi chiedere in giro e
+vedere se posso darti qualche buon consiglio.","啊～！真是的！既然如此，只好先去打聽了！
 去打聽看看要怎麼做才能交到女朋友！",,"아―! 정말! 이렇게 된 이상 탐문 조사야!
 어떻게 하면 여자 친구가 생기는지에 대해!","Na gut ... ist ja gut! Ich helf dir ja, okay?
 Ich höre mich ein bisschen um und schaue,
@@ -57,87 +61,97 @@ andare in giro a cercarti.","不過我懶得跑太遠，只能在Kowloon問哦�
 빠르게 끝내 버리자!","Bleib aber in Kowloon. Ich habe schon genug
 um die Ohren und will dir nicht auch noch
 nachlaufen müssen."
-212,4750,,"Ehi, come hai conosciuto la tua ragazza? Lei è... Wow...",欸，你是怎樣遇到現在這個女朋友的啊？,,"저기, 너 있잖아, 지금 사귀고 있는 여자 친구랑
+212,4750,,"Ehi, come hai conosciuto la tua
+ragazza? Lei è... Wow...",欸，你是怎樣遇到現在這個女朋友的啊？,,"저기, 너 있잖아, 지금 사귀고 있는 여자 친구랑
 어떻게 만난 거야?","He, wo hast du denn deine Freundin getroffen?
 Die ist ja ... wow ..."
-213,4751,,"Dai, parliamo di qualcos'altro. È un po' imbarazzante.","你突然問這個幹嘛啊？
+213,4751,,"Dai, parliamo di qualcos'altro.
+È un po' imbarazzante.","你突然問這個幹嘛啊？
 嘿嘿，說來實在是有些不好意思啊。",,"뭐야, 갑자기
 헤헤… 좀 부끄러운데","Ach, reden wir doch über etwas anderes.
 Das ist mir unangenehm."
-214,4751,,"Noi... *sospiro* Ci siamo incontrati grazie ai nostri Digimon. Vedi,
-avevamo entrambi lo stesso e... Beh, è successo
-così.","我們其實是透過『數碼寶貝』認識的。
+214,4751,,"Noi... *sospiro* Ci siamo incontrati
+grazie ai nostri Digimon. Vedi, avevamo entrambi
+lo stesso e... Beh, è successo così.","我們其實是透過『數碼寶貝』認識的。
 因為我們擁有相同的數碼寶貝，基於這個緣分就在一起了。",,"실은,『디지몬』을 통해서 알게 됐어…
 같은 디지몬을 갖고 있어서, 그 인연을 계기로…","Wir ... *Seufz* ... haben uns über unsere
 Digimon kennengelernt. Weißt du, wir hatten beide
 das gleiche und ... So war das eben."
-215,4750,,"Aspetta, davvero? I Digimon ti procureranno delle ragazze?!","真的假的！
+215,4750,,"Aspetta, davvero? I
+Digimon ti procureranno delle ragazze?!","真的假的！
 只要擁有數碼寶貝就能交到女朋友嗎？",,"진짜냐―!
 디지몬을 갖고 있으면 여자 친구가 생기는 거냐!?","Warte, im Ernst jetzt?
 Mit Digimon kriegt man Mädels?!"
-216,4752,,"Come si fa ad avere una ragazza? Ha! HA! Sembra forse
-che sappia come conquistare una ragazza super-figa
-e perfettamente ideale?","交女朋友的方法……？
+216,4752,,"Come si fa ad avere una ragazza? Ha! HA! Sembra
+forse che sappia come conquistare una ragazza
+super-figa e perfettamente ideale?","交女朋友的方法……？
 嘖，那種事連我也想知道啦！",,"여자 친구를 만드는 방법…?
 칫, 그런 건 나도 알고 싶다고!","Wie man eine Freundin findet? Ha! HA! Sehe ich
 vielleicht aus, als wüsste ich, wie man eine
 perfekte Schönheit abschleppt?"
 217,4003,,Forse dovremmo origliare un po'.,剛才偷聽過的人的第二次對話。,,엿듣고 있었던 사람과 두 번째 대화,Vielleicht sollten wir ein wenig lauschen gehen.
-1000,4584,,Vuoi andare più avanti? Guarda dove metti i piedi.,你要到深處去是嗎？　那要小心落差哦。,,이 안쪽으로 가는 거냐? 그렇다면 바닥의 높낮이차를 조심해라,"Du willst weitergehen?
+1000,4584,,"Vuoi andare più
+avanti? Guarda dove metti i piedi.",你要到深處去是嗎？　那要小心落差哦。,,이 안쪽으로 가는 거냐? 그렇다면 바닥의 높낮이차를 조심해라,"Du willst weitergehen?
 Dann pass auf, wo du hintrittst."
-1001,4584,,"Se cadi, non c'è modo di risalire.
-Assicurati di tenerti ben saldo.","那裡面的落差，只要不小心掉下去，就無法爬上來了。
+1001,4584,,"Se cadi, non c'è modo di risalire. Assicurati
+di tenerti ben saldo.","那裡面的落差，只要不小心掉下去，就無法爬上來了。
 走路時要仔細看著腳邊，注意不要失足掉下去囉。",,"한 번 내려가면 그곳으로 다시 올라갈 수 없어
 확 떨어지지 않도록 발밑을 잘 보면서 걷도록 해","Wenn du fällst, kommst du nicht mehr raus.
 Halt dich gut fest."
-1100,4602,,Ho sentito dire che i Demoni si sono sciolti. Non è vero? Non gli hanno cancellato tutti gli account o qualcosa del genere?,"聽說惡魔亂舞似乎解散了耶？
+1100,4602,,"Ho sentito dire che i Demoni si sono sciolti.
+Non è vero? Non gli hanno cancellato tutti gli
+account o qualcosa del genere?","聽說惡魔亂舞似乎解散了耶？
 而且大部分的成員好像連帳號都被刪除了……",,"데몬즈가 해산된 것 같던데?
 멤버 대부분이 계정째 삭제당한 모양이야…","Ich habe gehört, die Demons wurden aufgelöst.
 Stimmt das nicht? Wurden die Accounts nicht
 alle gelöscht oder so etwas?"
-1101,4602,,"Non riesco a credere che si spingerebbero così lontano. Zaxon è
+1101,4602,,"Non riesco a credere che si
+spingerebbero così lontano. Zaxon è
 brutale! Yuugo è... orribile.","也、也不用做得那麼絕吧。
 Zaxon好可怕，YUGO好可怕！",,"그, 그렇게까지 안 해도 될 텐데…
 잭슨 무서워…… 유고 무서워!","Ich kann nicht fassen, dass sie es so weit
 treiben würden. Zaxon ist gnadenlos!
 Yuugo ... macht mir Angst."
-1200,4603,,"Sotto Zero, totale annientamento. Se liberassi le mie
-vere abilità? Le mie capacità reali? Ahahaha! Tutto
-EDEN verrebbe spazzato via.","只要我發動我的技能，不只Under Zero，
+1200,4603,,"Sotto Zero, totale annientamento. Se liberassi
+le mie vere abilità? Le mie capacità reali?
+Ahahaha! Tutto EDEN verrebbe spazzato via.","只要我發動我的技能，不只Under Zero，
 搞不好連整個EDEN都會被我炸飛呢……",,"내 스킬이 발동되면, 언더 제로는커녕
 이 EDEN의 모든 것이 날아갈지도 몰라…","Unter Null, wen interessiert’s. Wenn ich alles
 geben würde, meine vollen Fähigkeiten nutzen,
 dann wäre ganz EDEN hin und weg. Haha! "
 1201,4603,,"E non possiamo permettere che accada, vero? Ecco
-perché resterò proprio qui. Dove non posso fare del male
-a nessuno.","如果做出那種事，不可能會有人願意原諒我吧？
+perché resterò proprio qui. Dove non posso fare
+del male a nessuno.","如果做出那種事，不可能會有人願意原諒我吧？
 所以，我只能待在這裡不動啦。",,"그런 게… 용서될 리, 없잖아?
 그래서, 난… 여기서 가만히 있을 수밖에 없어","Und das dürfen wir ja nicht zulassen, nicht wahr?
 Deshalb bleibe ich hier. Wo ich niemandem
 etwas tun kann."
-1202,4603,,"Il dolore è costante. I miei Digi-occhi bruciano, trattenendo
-l'assoluta forza della mia potenza!","唔……！
+1202,4603,,"Il dolore è costante. I miei Digi-occhi
+bruciano, trattenendo l'assoluta forza
+della mia potenza!","唔……！
 我的“電磁眼”正在隱隱作痛！",,"큭…!
 내 ""전자안(디지안)""이… 욱신거리는군…!","Ich habe ständig Schmerzen. Meine Digiaugen
 brennen, während ich meine geballte Macht
 zurückhalte!"
-1300,4604,,"Sai, una volta ero uno Zaxon. Quando ho ottenuto il mio
-Digimon, volevo convertirli così tanto.","其實我曾經加入過Zaxon呢。
+1300,4604,,"Sai, una volta ero uno Zaxon. Quando ho
+ottenuto il mio Digimon, volevo
+convertirli così tanto.","其實我曾經加入過Zaxon呢。
 因為我希望他們能幫我孵化我捕捉到的數碼寶貝。",,"실은 나, 잭슨에 들어간 적이 있어
 캡처한 디지몬을 컨버트하고 싶어서 말이야","Ich war früher mal bei Zaxon, weißt du. Als ich
 meine Digimon bekommen habe, wollte ich sie
 unbedingt umwandeln."
-1301,4604,,"Una volta che ho sentito delle conversioni ""Oscure"", ah,
-me ne sono andato subito. Tutta quella storia di giustizia e
-orgoglio... Troppo folle per me.","不過，在知道有以“違法手段”進行孵化的方法後，
+1301,4604,,"Una volta che ho sentito delle conversioni
+""Oscure"", ah, me ne sono andato subito. Tutta quella
+storia di giustizia e orgoglio... Troppo folle per me.","不過，在知道有以“違法手段”進行孵化的方法後，
 我就立即退出了。
 那種常把榮耀與正義掛在嘴邊的正經團體本來就不適合我。",,"하지만, ""뒷세계""에서 컨버트를 하는 방법이 있다는 걸 알고
 바로 팀을 빠져나왔어
 애초에 긍지라든가 정의라든가, 딱딱한 건 성미에 맞지 않거든","Als ich von den sogenannten dunklen Umwandlungen
 gehört habe, war es für mich vorbei. Das
 Gedöns von wegen Stolz und so ... zu abgefahren."
-1302,4604,,"Sì, costa un po' di soldi e sì, non è esattamente ""sicuro"" ma quel brivido è qualcosa di speciale!
-Questo è ciò che significa hackerare!","雖然要花錢，而且會遭遇各種危險，
+1302,4604,,"Sì, costa un po' di soldi e sì, non è esattamente
+""sicuro"" ma quel brivido è qualcosa di speciale! Questo è ciò che significa
+hackerare!","雖然要花錢，而且會遭遇各種危險，
 但那樣反而更刺激、更有駭客的感覺不是嗎？",,"돈도 들고 여러모로 위험하지만…
 그쪽이 더 스릴이 있고, 해커답다고 생각하지 않아?","Ja, es kostet Geld, und ja, es ist nicht
 ungefährlich, aber das Adrenalin! Deshalb sind wir
