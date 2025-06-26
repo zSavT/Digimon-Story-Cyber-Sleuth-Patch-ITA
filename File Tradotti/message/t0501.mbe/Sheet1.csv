@@ -1,22 +1,32 @@
-ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
-0,2000,,È ora di andare a incontrare persone nell'edificio.,現在先在館內到處跟人打招呼吧。,,지금은 관내에서 인사를 하고 다니자,"Es wird Zeit, sich mit den Leuten im Gebäude zu
+﻿ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
+0,2000,,"È ora di andare a incontrare gente
+nell'edificio.",現在先在館內到處跟人打招呼吧。,,지금은 관내에서 인사를 하고 다니자,"Es wird Zeit, sich mit den Leuten im Gebäude zu
 unterhalten."
 1000,4300,,"Quelle scale mobili ti porteranno fino al
-terzo piano. Per raggiungere gli altri piani,
-dovresti prendere l'ascensore o le scale.","只要搭那裡的電扶梯，就能直接到達3樓哦。
+terzo piano. Per raggiungere gli altri
+piani, dovresti prendere l'ascensore o le scale.","只要搭那裡的電扶梯，就能直接到達3樓哦。
 如果想去別的樓層，你可以走樓梯或搭電梯。",,"저기 있는 에스컬레이터를 타면 3F까지 단숨에 갈 수 있어
 다른 층에 가고 싶으면 계단이나 엘리베이터를 사용하면 돼","Die Rolltreppe führt direkt zum dritten Stock.
 Um zu den anderen Etagen zu gelangen,
 solltest du den Lift oder die Treppe nehmen."
 1050,4300,,"Quelle scale mobili ti porteranno fino al
-terzo piano. Per raggiungere gli altri piani,
-dovresti prendere l'ascensore o le scale.","只要搭那裡的電扶梯，就能直接到達3樓哦。
+terzo piano. Per raggiungere gli altri
+piani, dovresti prendere l'ascensore o le scale.","只要搭那裡的電扶梯，就能直接到達3樓哦。
 如果想去別的樓層，你可以走樓梯或搭電梯。",,"저기 있는 에스컬레이터를 타면 3F까지 단숨에 갈 수 있어
 다른 층에 가고 싶으면 계단이나 엘리베이터를 사용하면 돼","Die Rolltreppe führt direkt zum dritten Stock.
 Um zu den anderen Etagen zu gelangen,
 solltest du den Lift oder die Treppe nehmen."
-1100,4301,,"C'è un negozio di CD al secondo piano e un caffè
-al quarto... Urg, questo edificio è un labirinto. Farei
+1100,4301,,"C'è un negozio di CD al secondo piano e un bar al
+quarto... Urg, questo edificio è un labirinto. Farò meglio
+a controllare la lista dei negozi vicino agli ascensori...","2樓有唱片行，4樓有咖啡廳……
+嗚嗚，總覺得會在這棟建築物裡迷路。
+先去看看電梯的樓層簡介吧。",,"2F에는 CD 숍이 있고, 4F에는 카페가 있고
+…으, 이 건물에서는 헤맬 것만 같아
+엘리베이터에 있는 안내판이라도 보고 올까","Im zweiten Stock gibt es einen CD-Laden und im
+vierten ein Café ... Was für ein Labyrinth. Ich
+werfe mal einen Blick auf die Ladenliste am Lift."
+1150,4301,,"C'è un negozio di CD al secondo piano e un caffè al
+quarto... Urg, questo edificio è un labirinto. Farei
 meglio a controllare la lista dei negozi vicino agli ascensori...","2樓有唱片行，4樓有咖啡廳……
 嗚嗚，總覺得會在這棟建築物裡迷路。
 先去看看電梯的樓層簡介吧。",,"2F에는 CD 숍이 있고, 4F에는 카페가 있고
@@ -24,48 +34,44 @@ meglio a controllare la lista dei negozi vicino agli ascensori...","2樓有唱�
 엘리베이터에 있는 안내판이라도 보고 올까","Im zweiten Stock gibt es einen CD-Laden und im
 vierten ein Café ... Was für ein Labyrinth. Ich
 werfe mal einen Blick auf die Ladenliste am Lift."
-1150,4301,,"C'è un negozio di CD al secondo piano e una caffetteria
-al quarto... Urg, questo edificio è un labirinto. Farei
-meglio a controllare la lista dei negozi vicino agli ascensori...","2樓有唱片行，4樓有咖啡廳……
-嗚嗚，總覺得會在這棟建築物裡迷路。
-先去看看電梯的樓層簡介吧。",,"2F에는 CD 숍이 있고, 4F에는 카페가 있고
-…으, 이 건물에서는 헤맬 것만 같아
-엘리베이터에 있는 안내판이라도 보고 올까","Im zweiten Stock gibt es einen CD-Laden und im
-vierten ein Café ... Was für ein Labyrinth. Ich
-werfe mal einen Blick auf die Ladenliste am Lift."
-1200,4302,,"Se giri a destra prima della scala mobile, ci sono una stanza per consultazioni e un'agenzia investigativa.","聽說在那邊的電扶梯前面轉彎後，
+1200,4302,,"Se giri a destra prima della scala mobile, ci
+sono una stanza di consultazione e
+un'agenzia investigativa.","聽說在那邊的電扶梯前面轉彎後，
 有諮商室跟偵探事務所。",,"저기 있는 에스컬레이터의 앞쪽으로 꺾어 들어간 곳에
 상담소랑, 탐정사무소가 있대","Wenn du vor der Rolltreppe rechts abbiegst,
 findest du einen Beratungsraum und
 ein Detektivbüro."
-1250,4302,,Stavo parlando con un amico nell'area community di EDEN quando uno sciame di Digimon è apparso dal nulla! Fortunatamente siamo riusciti a scappare...,"昨天在EDEN的公共區域跟朋友聊天時，數碼寶貝的集團突然出現！
+1250,4302,,"Stavo parlando con un amico nell'area comunitaria di
+EDEN quando uno sciame di Digimon è apparso dal
+nulla! Fortunatamente siamo riusciti a scappare...","昨天在EDEN的公共區域跟朋友聊天時，數碼寶貝的集團突然出現！
 我當時嚇得轉身就跑，所以還算是平安無事……",,"어제 EDEN의 커뮤니티 에어리어에서 친구랑 수다를 떨고 있었는데
 갑자기 디지몬 집단이 나타났어!
 서둘러 도망쳤다 보니, 어떻게든 무사했지만…","Als ich mit einem Freund im Gemeinschaftsbereich
 in EDEN geplaudert habe, erschien eine Horde
 Digimon! Zum Glück konnten wir entkommen ..."
-1300,4303,,"Hmph, l'intero posto sembra davvero losco.
-Quasi sempre, quella ""sala consultazioni"" non ha
-nessuno con cui consultarsi. È ancora aperta?","哦……總覺得兩邊都很可疑呢。
+1300,4303,,"Hmph, questo posto sembra decisamente losco. Quasi
+sempre, in quella ""stanza delle consulenze"" non c'è nessuno
+con cui consultarsi. È ancora aperta?","哦……總覺得兩邊都很可疑呢。
 而且諮商室那邊常常沒人在對吧？
 他們是真的有在營業嗎？",,"헤에―… 왠지 둘 다 수상쩍네
 게다가 상담소는, 사람이 없을 때도 많잖아?
 정말 영업하고 있는 걸까?","Hmpf, dieser Ort wirkt sehr zwielichtig auf mich.
 Im „Beratungsraum“ scheint es keinen Berater zu
 geben. Hat es überhaupt offen?"
-1350,4303,,"Ma che...? Stanno succedendo cose folli anche in EDEN.
-Non ho intenzione di accedere per un po'...","那是怎麼回事……EDEN也變得很誇張呢。
+1350,4303,,"Ma che...? Stanno succedendo cose folli
+anche in EDEN. Io per un po' non mi connetterò...","那是怎麼回事……EDEN也變得很誇張呢。
 我看我暫時不要登入EDEN好了……",,"뭐야 그게… EDEN에도 큰일이 났구나
 당분간 EDEN에 로그인은, 하지 말아야지…","Was zum?! Auch in EDEN passieren die verrücktesten
 Dinge. Ich logge mich erst mal nicht mehr ein ..."
 1450,4304,,"È pericoloso fuori, entra nell'edificio!",外面非常危險，請快點到建築物裡面避難！,,"밖은 몹시 위험합니다, 빨리 건물 안으로 피난해 주세요!","Draußen ist es gefährlich, alle ins Gebäude!"
-1500,4305,,"Mi piaceva molto EDEN, ma c'erano così tanti hacker che ho smesso. È ancora così?","剛開始登入EDEN時真的很好玩，
+1500,4305,,"Mi piaceva molto EDEN, ma c'erano così tanti
+hacker che ho smesso. È ancora così?","剛開始登入EDEN時真的很好玩，
 但是因為駭客越來越多，所以我就沒有再登入了
 ……現在也還是那樣嗎？",,"EDEN을 처음 할 때는 즐거웠는데, 해커가
 늘어나서 그만 뒀었어… 지금도 그럴까?","EDEN hat mir wirklich gefallen, aber es gab zu
 viele Hacker. Ist das immer noch so?"
-2000,4306,,"Un posto dove Sakura ama andare? Oh, direi
-[m2002].
+2000,4306,,"Un posto dove Sakura ama andare? Oh,
+direi [m2002].
 Prende sempre il tè con Ryota.","小櫻常去的地方？應該是「[m2002]」吧。
 她經常跟良太在那裡喝茶哦。",,"사쿠라가 자주 갔었던 장소? 그렇다면「[m2002]」이겠지
 료타와 자주 거기서 차를 마시던데","Ein Ort, an den Sakura gern geht? Ich würde

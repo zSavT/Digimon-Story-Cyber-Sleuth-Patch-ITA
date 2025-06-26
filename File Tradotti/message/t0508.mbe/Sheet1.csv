@@ -1,17 +1,18 @@
-ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
-100,4326,,"Mi ha mandato un messaggio DigiLine, quindi gli ho risposto,
-ma continuo ad aspettare e la risposta non arriva!","因為他一直用數碼連線傳來訊息，所以我也回信了，
+﻿ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
+100,4326,,"Mi ha mandato un messaggio DigiLine, così
+gli ho risposto, ma continuo ad aspettare
+e la risposta non è arrivata!","因為他一直用數碼連線傳來訊息，所以我也回信了，
 可是等了半天他都沒有回信……",,"디지라인으로 그 사람으로부터 메시지가 와서 답장을 했는데
 아무리 기다려도 그에게서 답장이 오질 않아…","Er hat mir eine Digiline-Nachricht geschickt, also
 habe ich zurückgeschrieben und dann gewartet,
 aber es kam noch keine Antwort!"
-150,4326,,"Ha risposto al mio messaggio DigiLine...
-Questo significa che è interessato a me, giusto?","他用數碼連線回信了！
+150,4326,,"Ha risposto al mio messaggio
+DigiLine... Significa che gli piaccio, vero?","他用數碼連線回信了！
 這表示他對我有意思吧！？",,"디지라인으로 그 사람으로부터 메시지가 왔어!
 이건 즉, 나에게 마음이 있다는 거겠지!?","Er hat auf meine Digiline-Nachricht geantwortet.
 Das heißt, dass er mich mag, nicht wahr?"
-200,4327,,"Questo perché non ne ha ancora inviato uno.
-Forse non sa cosa dire.
+200,4327,,"È perché non ne ha
+ancora mandata una. Forse non sa cosa dire.
 Ma se è interessato, ti risponderà.","對方也有可能不想回應吧。
 哎呀，如果他也對妳有意思的話，
 就會再傳訊息給妳啦！",,"그야 상대에게서 답장이 안 오는 일도 있을 수 있겠지
@@ -19,13 +20,14 @@ Ma se è interessato, ti risponderà.","對方也有可能不想回應吧。
 다시 메시지를 보내 줄 거야!","Er hat noch keine geschickt.
 Vielleicht weiß er nicht, was er sagen soll.
 Wenn er Interesse hat, schreibt er dir."
-250,4327,,Forse! ...Anche se è anche possibile che l'abbia mandato solo per togliersi te dai piedi.,"或許真是那樣沒錯啦……
+250,4327,,"Forse! ...Anche se è anche possibile che l'abbia mandato solo
+per togliersi di torno [p].","或許真是那樣沒錯啦……
 但對方也有可能是覺得很煩才回妳的哦。",,"그럴지도 모르지만…
 성가셔서 답장을 했다는 가능성도 없진 않지","Kann sein. Oder er hat sie geschickt,
 um dich loszuwerden."
-400,4328,,"Da qualche parte dove Sakura potrebbe essere andata?
-Huh... non siamo poi così vicini...
-Forse [m2040]?","櫻可能會去的地方？嗯～，我跟她沒有很要好耶，
+400,4328,,"Da qualche parte dove Sakura
+potrebbe essere andata? Uhm...non siamo 
+poi così intimi... Forse [m2040]?","櫻可能會去的地方？嗯～，我跟她沒有很要好耶，
 [m2040]……之類的？",,"사쿠라가 갈 만한 장소? 으음, 그렇게 사이가 좋은 편이 아닌데
 [m2040]… 이라던가?","Ein Lieblingsort von Sakura?
 Hm ... So gut kennen wir uns nicht ...

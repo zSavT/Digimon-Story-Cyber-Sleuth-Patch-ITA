@@ -1,35 +1,40 @@
-ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
-100,4529,,"Non vorrai mai rimanere a corto di oggetti per fuggire dai
-dungeon! La tua Esportazione, il tuo Varco Domestico...","只要是能脫離迷宮的道具，我都會想攜帶充足的數量。
+﻿ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
+100,4529,,"Non vorrai mai rimanere a corto di
+oggetti per fuggire dai dungeon! Il tuo
+Export, il tuo Home Gate...","只要是能脫離迷宮的道具，我都會想攜帶充足的數量。
 像是EXPORT啦，HOMEGATE啦……",,"던전에서 탈출할 수 있는 아이템은 항상 충분히 갖고 있고 싶어.
 그 있잖아, 익스포트라든가 홈 게이트라든가…","Achte darauf, dass dir die Fluchtitems
 für Dungeons nie ausgehen! Exporte,
 und Heimattore ..."
-101,4529,,"...Whoa! Cos'è successo al tuo avatar?
-Dovresti dire agli amministratori di fare qualcosa!","嗚哇！　你那個化身是怎麼了？
+101,4529,,"...Whoa! Cosa c'è che non va nel tuo
+avatar? Dovresti dire agli
+amministratori di fare qualcosa!","嗚哇！　你那個化身是怎麼了？
 快找營運單位幫你處理一下比較好吧……？",,"어, 으앗! 너, 그 아바타 왜 그래?
 운영진을 불러서 어떻게든 조치를 받는 게 좋지 않아…?","Wow! Was ist denn mit deinem Avatar los?
 Du solltest den Admins sagen, dass sie etwas
 unternehmen müssen!"
-102,4529,,"Come diavolo hai fatto a finire per sembrare
-così!? È una sorta di errore? Un hack?","要怎樣弄才會變成那個樣子啊……？
+102,4529,,"Come diavolo hai fatto a finire per
+sembrare così!? È una sorta di errore? Un hack?","要怎樣弄才會變成那個樣子啊……？
 是發生了什麼錯誤嗎？　還是被駭客攻擊了？",,"어떻게 하면 그렇게 되는 거야…?
 뭔가 에러? 해킹?","Wie kommt es denn, dass du so aussiehst?!
 Ist das ein Fehler? Wurdest du gehackt?"
-110,4529,,"Non vuoi mai rimanere a corto di oggetti per fuggire
-dai dungeon! Il tuo Export, il tuo Home Gate...","只要是能脫離迷宮的道具，我都會想攜帶充足的數量。
+110,4529,,"Non vorrai mai rimanere a corto di
+oggetti per fuggire dai dungeon! La tua
+Export, il tuo Home Gate...","只要是能脫離迷宮的道具，我都會想攜帶充足的數量。
 像是EXPORT啦，HOMEGATE啦……",,"던전에서 탈출할 수 있는 아이템은 항상 충분히 갖고 있고 싶어.
 그 있잖아, 익스포트라든가 홈 게이트라든가…","Achte darauf, dass dir die Fluchtitems
 für Dungeons nie ausgehen! Exporte,
 und Heimattore ..."
-150,4529,,"Non vuoi mai rimanere a corto di oggetti per fuggire dai dungeon! Il tuo Export, il tuo Home Gate...","只要是能脫離迷宮的道具，我都會想攜帶充足的數量。
+150,4529,,"Non vorrai mai rimanere a corto di
+oggetti per fuggire dai dungeon! Il tuo
+Export, il tuo Home Gate...","只要是能脫離迷宮的道具，我都會想攜帶充足的數量。
 像是EXPORT啦，HOMEGATE啦……",,"던전에서 탈출할 수 있는 아이템은 항상 충분히 갖고 있고 싶어.
 그 있잖아, 익스포트라든가 홈 게이트라든가…","Achte darauf, dass dir die Fluchtitems
 für Dungeons nie ausgehen! Exporte,
 und Heimattore ..."
-200,4530,,"C-cosa stai facendo?
-Questo spazio dovrebbe essere solo per i membri!
-Come sei entrato qui senza un pass!","你、你是誰啊！？
+200,4530,,"C-che cosa stai
+facendo? Questo spazio dovrebbe essere solo per
+i membri! Come sei entrato qui senza un pass!","你、你是誰啊！？
 這裡明明是會員專用的聊天室耶……
 為什麼沒有會員權限的傢伙進得來啊？",,"뭐, 뭐야 너!?
 이곳은 회원 한정의 대화 공간인데…
@@ -41,93 +46,104 @@ Sei una specie di hacker alle prime armi?","而且化身還變得很奇怪……
 你是剛當上駭客嗎？",,"게다가 아바타의 상태도 이상하고…
 신종 해커인가?","Und dein Avatar ist echt seltsam ...
 Bist du etwa ein frischgebackener Hacker?"
-210,4530,,"C-quindi, anche tu sei un hacker?
-Ultimamente, un tizio strano ha fatto irruzione nel nostro spazio...","你、你也是駭客嗎？
+210,4530,,"C-quindi, sei anche tu un
+hacker? Ultimamente, uno strano tizio si è
+introdotto nel nostro spazio...","你、你也是駭客嗎？
 最近有奇怪的傢伙會擅自入侵這個聊天室……",,"너, 너도 해커야?
 최근 이 대화 공간에, 이상한 녀석이 무단으로 침입하고 있어…","D-Du bist also auch ein Hacker?
 Vor Kurzem ist so ein seltsamer Typ in
 unseren Raum eingebrochen ..."
-211,4530,,Forse è meglio che smetta... Gli hacker fanno paura...,要不要乾脆退出算了……　駭客好可怕啊……,,탈퇴할까… 해커 무서워…,"Vielleicht sollte ich lieber offline gehen ...
+211,4530,,"Forse è meglio che smetta... Gli
+hacker fanno paura...",要不要乾脆退出算了……　駭客好可怕啊……,,탈퇴할까… 해커 무서워…,"Vielleicht sollte ich lieber offline gehen ...
 Hacker machen mir Angst ..."
-250,4530,,S-suppongo che tutto questo non faccia così tanta paura a un hacker.,"如果是駭客的話，
+250,4530,,"S-suppongo che tutto questo non faccia così
+paura a un hacker.","如果是駭客的話，
 就算身處這種狀況，應該也不會感到害怕吧。",,"해커라면
 이런 상황도 무섭지 않겠지만 말이야","F-Für einen Hacker ist es wahrscheinlich nicht
 so furchterregend."
-300,4531,,"Come sei entrato qui?
-So di aver chiuso a chiave la stanza... È un bug?","你是怎麼進入這個房間的？
+300,4531,,"Come sei entrato
+qui? So di aver chiuso a chiave la
+stanza... È un bug?","你是怎麼進入這個房間的？
 我明明有把房間鎖上啊……是BUG嗎？",,"어떻게 이 방에 들어온 거야?
 방의 잠금은 제대로 걸려 있는데… 버그인가?","Wie bist du hier reingekommen?
 Ich weiß, dass ich den Raum verschlossen hatte ...
 Ist das ein Fehler?"
-310,4531,,"Ho studiato i miglioramenti alla sicurezza.
-Mi proteggerò, da solo!","我正在學習強化資安防護的相關程式。
+310,4531,,"Ho studiato miglioramenti
+alla sicurezza. Mi
+proteggerò, da solo!","我正在學習強化資安防護的相關程式。
 自己的個人資料得由自己保護才行！",,"보안을 강화하는 프로그램의 공부를 하고 있어
 자신의 몸은 스스로 지켜야 하니까!","Ich habe mich über Sicherheitsvorkehrungen
 schlaugemacht. Ich werde mich
 ganz allein schützen!"
-311,4531,,"E poi sei entrato di soppiatto senza invito? Argh!
-Dimmi come hai fatto, subito! Devo aggiungere
-quei dati al mio programma di difesa!","呃，你也是擅自闖進來的吧！？　真討厭！
+311,4531,,"E poi sei piombato dentro senza invito?
+Argh! Dimmi come hai fatto, subito! Devo
+aggiungere questi dati al mio programma di difesa!","呃，你也是擅自闖進來的吧！？　真討厭！
 快告訴我你是如何入侵的啦！
 我要進行分析，然後寫出程式來對抗你！",,"앗, 너도 무단으로 들어왔잖아!? 정말―!
 어떻게 침입한 건지 가르쳐 줘!
 분석해서 대항 프로그램을 짜 줄 테니까―!","Und dann kommst du einfach ungebeten herein?
 Argh! Sag mir sofort, wie du das gemacht hast!
 Die Daten füttere ich an mein Abwehrprogramm!"
-350,4531,,"Ho contattato la direzione di EDEN e si sono rifiutati
-di riparare la porta della mia chatroom...
-Immagino che EDEN abbia problemi più grandi in questo momento.","就算聯絡EDEN的管理部門，
+350,4531,,"Ho contattato la gestione di EDEN e si sono
+rifiutati di riparare la porta della mia chatroom...
+Immagino che EDEN abbia problemi più grandi al momento.","就算聯絡EDEN的管理部門，
 他們應該也不會幫忙修好聊天室的門吧。
 畢竟EDEN現在的狀況很混亂呢。",,"EDEN의 관리부에 연락해도, 대화 공간의
 문을 수정해 주진 않겠지
 지금, EDEN에 큰일이 났으니까","Ich habe das EDEN-Management kontaktiert. Sie
 wollen meine Chatraum-Tür nicht reparieren ...
 EDEN hat wahrscheinlich gerade größere Probleme."
-400,4532,,"Ch-ch-chi dovresti essere tu!?
-Sei un membro di questa chatroom?
-Non ho mai visto quell'avatar prima d'ora!","你你你你你、你是誰啊！？
+400,4532,,"C-c-chi credi di
+essere!? Sei un membro di questa chatroom?
+Non ho mai visto un avatar del genere prima!","你你你你你、你是誰啊！？
 你是這個聊天室的會員嗎？
 你用那個化身，根本看不出你是誰耶……",,"뭐뭐뭐뭐뭐, 뭐야 넌!?
 이 대화 공간의 멤버니?
 그 아바타로는, 누군인지 전혀 모르겠어…","W-Wer bist du denn?!
 Bist du ein Mitglied dieses Chatraums?
 Den Avatar habe ich noch nie gesehen!"
-410,4532,,"Se non sei stato invitato qui, allora...
-Ack! Quindi sei un hacker!?
-V-vattene via, t-ti denuncerò!","怪了，我不記得有邀請你啊……
+410,4532,,"Se non sei stato invitato qui,
+allora... Ack! Quindi sei un
+hacker!? V-vai via, t-ti denuncerò!","怪了，我不記得有邀請你啊……
 啊，難道……你是駭客！？
 快、快滾出去，不、不然我要通報管理員囉！？",,"그런데, 널 초대한 기억은 없다만…
 앗, 그렇다면… 해커!?
 나, 나가, 시, 신고한다!?","Wenn du nicht eingeladen warst, dann ...
 Ach! Du bist also ein Hacker?!
 R-Raus hier, ich w-werde dich melden!"
-411,4532,,"Accidenti, il controllo qualità di EDEN sta proprio peggiorando,
-lasciando che gli hacker vadano in giro a casaccio!","真是的，EDEN的品質也下滑啦。
+411,4532,,"Mamma mia, il controllo qualità di
+EDEN sta davvero scivolando, lasciando che
+gli hacker vadano in giro come gli pare!","真是的，EDEN的品質也下滑啦。
 居然讓可惡的駭客如此橫行霸道……",,"정말이지… EDEN도 질이 떨어졌구만
 해커 놈들을 내버려 두다니…","Die Qualitätskontrolle bei EDEN lässt
 langsam echt zu wünschen übrig, wenn Hacker
 einfach machen können, was sie wollen!"
-450,4532,,"S-sei tu quello che si è intrufolato qui prima!
-Sapevo che eri uno di quegli hacker!","你、你是上次那個擅自闖入的入侵者！
+450,4532,,"S-sei tu quello che si è
+intrufolato qui prima! Sapevo che eri
+uno di quegli hacker!","你、你是上次那個擅自闖入的入侵者！
 你果然也是駭客的一員嗎！？",,"너, 넌 저번의 그 무단 침입자!
 너도 역시 해커의 동료냐!?","D-Du hast dich doch schon mal hier
 reingeschlichen! Ich wusste, dass du einer
 von diesen Hackern bist!"
-500,4533,,"Non si hanno mai abbastanza oggetti curativi... Questa è conoscenza comune tra gli hacker.
-Io ne ho sempre uno o tre in più.","回復道具多帶一點反而剛剛好。
+500,4533,,"Non ci sono mai troppi
+oggetti di recupero... Questa è conoscenza comune
+tra hacker. Io ne ho sempre uno o tre in più.","回復道具多帶一點反而剛剛好。
 這是駭客的常識呢。
 我時常會多帶一些在身上哦。",,"회복 아이템은 넘치는 정도가 딱 좋아…
 해커의 상식이지
 난 항상 여분을 갖고 있어","Man kann nie genug Items zur
 Wiederherstellung haben, das weiß jeder Hacker.
 Ich habe immer einen oder drei auf Vorrat."
-501,4533,,"...Ugh, cosa sto facendo a parlare con un novellino come te? Spero che nessuno mi abbia visto... Forza, sparisci.","……呃，我是在跟你這種來路不明的人說些什麼啊。
+501,4533,,"...Uffa, cosa ci faccio a parlare con un
+pivello come te? Spero che nessuno mi abbia
+visto... Forza, sparisci.","……呃，我是在跟你這種來路不明的人說些什麼啊。
 你快走吧，不然連我都要被當成怪人了。",,"…나도 참, 너 같은 잘 모르는 상대에게 무슨 얘기를 하는 거람
 냉큼 가 줘. 나까지 주위에서 이상한 눈으로 보이겠어","Huch, was rede ich mit einem Noob wie dir?
 Hoffentlich hat das niemand gesehen ...
 Los, zieh Leine."
-510,4533,,"Non si hanno mai abbastanza oggetti di recupero... È conoscenza comune tra gli hacker.
-Io ne ho sempre uno o tre in più.","回復道具多帶一點反而剛剛好。
+510,4533,,"Non si hanno mai troppi
+oggetti di recupero... Questa è semplice conoscenza
+comune da hacker. Io ne ho sempre uno o tre in più.","回復道具多帶一點反而剛剛好。
 這是駭客的常識呢。
 我時常會多帶一些在身上哦。",,"회복 아이템은 넘치는 정도가 딱 좋아…
 해커의 상식이지
@@ -135,31 +151,31 @@ Io ne ho sempre uno o tre in più.","回復道具多帶一點反而剛剛好。
 Wiederherstellung haben, das weiß jeder Hacker.
 Ich habe immer einen oder drei auf Vorrat."
 511,4533,,"Eh? Se ho degli extra, condividerli con te?
-Ma nemmeno per sogno! Il mondo dell'hacking è molto più spietato di
-questo!","咦？　如果有多的就分給你？
+Ma nemmeno per sogno! Il mondo dell'hacking
+è molto più duro di così!","咦？　如果有多的就分給你？
 駭客的世界才沒有那麼天真呢。",,"에? 여분을 갖고 있다면 나눠 달라고?
 해커의 세계는 그렇게 만만하지 않아","Hä? Ich soll meinen Vorrat mit dir teilen?
 Du träumst wohl! So freundlich ist die
 Welt der Hacker nicht!"
 550,4533,,"Non si hanno mai troppi
-oggetti curativi... È una cosa risaputa tra gli hacker.
-Io ne ho sempre uno o tre di scorta.","回復道具多帶一點反而剛剛好。
+oggetti curativi... È una regola fondamentale per
+gli hacker. Ne ho sempre uno o tre di scorta.","回復道具多帶一點反而剛剛好。
 這是駭客的常識呢。
 我時常會多帶一些在身上哦。",,"회복 아이템은 넘치는 정도가 딱 좋아…
 해커의 상식이지
 난 항상 여분을 갖고 있어","Man kann nie genug Items zur
 Wiederherstellung haben, das weiß jeder Hacker.
 Ich habe immer einen oder drei auf Vorrat."
-551,4533,,"Huh? Se ho degli extra, dividerli con te?
-Ma nemmeno per sogno! Il mondo dell'hacking è molto più spietato di
-così!","咦？　如果有多的就分給你？
+551,4533,,"Huh? Se ho degli extra, condividerli con te?
+Neanche per sogno! Il mondo dell'hacking
+è molto più duro di così!","咦？　如果有多的就分給你？
 駭客的世界才沒有那麼天真呢。",,"에? 여분을 갖고 있다면 나눠 달라고?
 해커의 세계는 그렇게 만만하지 않아","Hä? Ich soll meinen Vorrat mit dir teilen?
 Du träumst wohl! So freundlich ist die
 Welt der Hacker nicht!"
-600,4534,,"Qualsiasi hacker che si rispetti non prende alla leggera le
-alterazioni di stato. Potrebbero svanire col tempo,
-ma sarai in svantaggio se le ignori!","聽好囉，身為一名駭客，絕對不可以小看異常狀態哦。
+600,4534,,"Qualsiasi hacker che si rispetti non prende alla
+leggera gli status anomali. Potrebbero svanire col
+tempo, ma sarai in svantaggio se li ignori!","聽好囉，身為一名駭客，絕對不可以小看異常狀態哦。
 就算在戰鬥結束時會自己解除，
 但放著不管的話，絕對會讓情況變得不利啊！",,"잘 들어, 해커라면 상태이상을 얕보면 안 돼
 배틀 종료시에 해제된다 해도
@@ -167,50 +183,56 @@ ma sarai in svantaggio se le ignori!","聽好囉，身為一名駭客，絕對�
 leichte Schulter. Sie lassen zwar nach, aber wenn
 du sie ignorierst, bist du im Nachteil!"
 601,4534,,"...Aaaaaugh!!!
-Che... che ti succede!?","……哇啊啊啊啊！
+Che... che ti prende!?","……哇啊啊啊啊！
 你、你那個模樣是怎麼回事！？",,"………으와아아아―!
 뭐, 뭐야 너의 그 모습은!?","Aaargh!
 Wie ... Wie bist du denn drauf?!"
-602,4534,,"N-no, non devi dirlo.
-Hai dato al tuo avatar uno stato anomalo, eh?","不，等等，你用不著說。
+602,4534,,"N-no, non devi dirlo. Il
+tuo avatar ha subito un'alterazione di
+stato anormale, eh?","不，等等，你用不著說。
 是你的化身發生了異常狀態對吧？",,"아니, 잠깐, 말할 필요 없어
 아바타가 상태이상을 일으키고 있는 거지?","N-Nein, sag lieber nichts.
 Dein Avatar hat sich wohl ein Statusleiden
 eingefangen, was?"
-603,4534,,"Un hacker esperto come me sa tutto al riguardo.
-Quindi, lascia che ti dia questo consiglio!","身為駭客老手的我非常清楚哦。
+603,4534,,"Un hacker esperto come me sa tutto al
+riguardo. Quindi, lascia che ti dia
+questo consiglio!","身為駭客老手的我非常清楚哦。
 我這個前輩能給你的建議就只有一個！",,"선배 해커인 나라면 잘 알고 말고
 선배로서 해 줄 말은 단 하나다!","Ein erfahrener Hacker wie ich weiß darüber
 Bescheid. Ich will dir deshalb einen
 guten Rat geben!"
-604,4534,,Vai dagli amministratori e fallo sistemare!!!,你現在馬上去找營運單位幫你修好！,,지금 바로 운영측에게 고쳐 달라고 해―!,"
+604,4534,,"Vai dagli amministratori e fatti
+aggiustare questa cosa!!!",你現在馬上去找營運單位幫你修好！,,지금 바로 운영측에게 고쳐 달라고 해―!,"
 Melde es den Admins, damit es behoben wird!
 "
-610,4534,,"Qualsiasi hacker che si rispetti non prende alla leggera gli status anomali. Potrebbero svanire col tempo, ma sarai in svantaggio se li lasci lì!","聽好囉，身為一名駭客，絕對不可以小看異常狀態哦。
+610,4534,,"Nessun hacker degno di questo nome prende alla
+leggera le alterazioni di stato. Potrebbero svanire col
+tempo, ma sarai in svantaggio se le ignori!","聽好囉，身為一名駭客，絕對不可以小看異常狀態哦。
 就算在戰鬥結束時會自己解除，
 但放著不管的話，絕對會讓情況變得不利啊！",,"잘 들어, 해커라면 상태이상을 얕보면 안 돼
 배틀 종료시에 해제된다 해도
 내버려 두면 절대로 불리해질 테니까!","Kein erfahrener Hacker nimmt Statusleiden auf die
 leichte Schulter. Sie lassen zwar nach, aber wenn
 du sie ignorierst, bist du im Nachteil!"
-611,4534,,"...Eh? Perché ho deciso di diventare un hacker?
-Perché mi sento affine agli hacker. E non mi vergogno
-a dirlo a nessuno!","咦？　你問我為什麼會認為你是駭客嗎？
+611,4534,,"...Eh? Perché ho deciso di diventare un
+hacker? Perché mi sento affine agli hacker. E non mi
+vergogno di dirlo a nessuno!","咦？　你問我為什麼會認為你是駭客嗎？
 當然是因為你身上有同伴的氣味囉。那可不是任何人都散發得出來的哦？",,"……에? 어째서 날 해커라고 생각한 거냐, 고?
 그야 동족의 냄새라는 거지. 이 사람 저 사람 상관없이 말하는 게 아니라고?","Warum ich beschlossen habe, ein Hacker zu
 werden? Weil ich sie verstehe. Und ich schäme
 mich nicht, das zu sagen!"
-650,4534,,"Nessun hacker degno di questo nome prende alla leggera
-le alterazioni di stato. Potrebbero svanire col tempo,
-ma sarai in svantaggio se le ignori!","聽好囉，身為一名駭客，絕對不可以小看異常狀態哦。
+650,4534,,"Nessun hacker degno di questo nome prende alla
+leggera gli stati alterati. Potrebbero svanire col tempo,
+ma sarete in svantaggio se li lasciate lì!","聽好囉，身為一名駭客，絕對不可以小看異常狀態哦。
 就算在戰鬥結束時會自己解除，
 但放著不管的話，絕對會讓情況變得不利啊！",,"잘 들어, 해커라면 상태이상을 얕보면 안 돼
 배틀 종료시에 해제된다 해도
 내버려 두면 절대로 불리해질 테니까!","Kein erfahrener Hacker nimmt Statusleiden auf die
 leichte Schulter. Sie lassen zwar nach, aber wenn
 du sie ignorierst, bist du im Nachteil!"
-651,4534,,"...Eh? Perché ho deciso di diventare un hacker?
-Perché mi sento affine agli hacker. E non mi vergogno a dirlo a nessuno!","咦？　你問我為什麼會認為你是駭客嗎？
+651,4534,,"...Eh? Perché ho deciso di diventare un
+hacker? Perché mi sento affine agli hacker. E non mi
+vergogno di dirlo a nessuno!","咦？　你問我為什麼會認為你是駭客嗎？
 當然是因為你身上有同伴的氣味囉。那可不是任何人都散發得出來的哦？",,"……에? 어째서 날 해커라고 생각한 거냐, 고?
 그야 동족의 냄새라는 거지. 이 사람 저 사람 상관없이 말하는 게 아니라고?","Warum ich beschlossen habe, ein Hacker zu
 werden? Weil ich sie verstehe. Und ich schäme

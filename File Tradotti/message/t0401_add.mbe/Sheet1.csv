@@ -1,11 +1,13 @@
-ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
-0,4410,,"Per un controllo, compila cortesemente questo rapido modulo di anamnesi e riportacelo. Siamo piuttosto pieni, quindi potresti dover aspettare.","看診的病人請持病歷表等候，
+﻿ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
+0,4410,,"Per un controllo, compila questo breve modulo
+anamnestico e riportacelo. Siamo abbastanza
+pieni, quindi potresti dover aspettare.","看診的病人請持病歷表等候，
 由於今日人數眾多，可能需要等待一陣子。",,"진찰받으실 분이라면, 문진표를 작성하시고 기다려주세요.
 오늘은 혼잡해서 좀 기다리셔야 할지도 모르겠네요","Fülle für eine Vorsorgeuntersuchung bitte dieses
 kurze Anamneseformular aus und gib es ab. Du
 musst aber eventuell eine Weile warten."
-1,4411,,"Questo ospedale è affiliato con Kamishiro. Dicono che
-tutta la loro roba sia nuova di zecca e che i loro dottori
+1,4411,,"Questo ospedale è affiliato con Kamishiro. Dicono che le
+loro cose siano tutte nuove di zecca e che i loro dottori
 siano di prim'ordine.","這間是神代企業旗下的醫院。
 聽說不只採用最新設備，
 也有許多優秀醫生，風評很好喔。",,"이 병원은 카미시로 계열이야.
@@ -13,96 +15,106 @@ siano di prim'ordine.","這間是神代企業旗下的醫院。
 우수한 의사도 많다는 평판이야","Das Krankenhaus gehört zu Kamishiro. Die Leute
 sagen, alles wäre brandneu und die Ärzte wären
 Spitzenleute."
-2,4412,,"Ho sentito una fitta allo stomaco all'improvviso. Ti prego, che non sia niente di grave...","肚子突然痛了起來……
+2,4412,,"Mi è venuto un dolore lancinante allo stomaco
+all'improvviso. Ti prego, che non sia niente di
+serio...","肚子突然痛了起來……
 希望不是嚴重的病就好了。",,"갑자기 배가 아파졌어…
 심한 병이 아니었으면 좋겠지만","In meinem Bauch war plötzlich so ein stechender
 Schmerz. Ich hoffe nur, dass das nichts Ernstes
 ist ..."
-3,4413,,"Anche i quartieri alti hanno reparti di pediatria. So che i corpi
-si deteriorano con l'età, è naturale. Ma le malattie dei bambini...
-quelle sono difficili da digerire.","上面的病房也有小兒科啊，
+3,4413,,"Anche i quartieri alti hanno pediatria. So che i
+corpi si deteriorano con l'età, è naturale. Ma le
+malattie dei bambini...quelle sono difficili da digerire.","上面的病房也有小兒科啊，
 上了年紀身體不好是難免的，
 但小小年紀就生病，還真是可憐啊……",,"윗층 병동에는 소아과도 있어.
 나이를 먹어서 몸이 망가지는 건 어쩔 수 없다고 해도
 어린 환자는 참 안타깝지…","In den oberen Stockwerken haben sie auch eine
 Pädiatrie. Der Körper lässt mit dem Alter nach,
 natürlich. Aber kranke Kinder ... Das ist hart."
-4,4414,,Sei qui in visita? Il Reparto Generale è al 12° piano. Prendi l'ascensore proprio laggiù.,"是來探病的嗎？　普通病房在12樓喔。
+4,4414,,"Sei qui in visita? Il Reparto Generale è al 12°
+piano. Prenda l'ascensore proprio lì.","是來探病的嗎？　普通病房在12樓喔。
 從那邊的電梯就能到了。",,"입원 환자의 문병이니? 일반 병동은 12층이야.
 거기의 엘리베이터로 갈 수 있단다","Besuchst du jemanden? Die Normalstation ist im 12.
 Stock. Nimm den Aufzug da drüben."
-5,4415,,"Secondo te cosa stanno curando al piano del Reparto Speciale? Non... non sarà mica quella Sindrome di EDEN di cui si parla, vero?","特別病房的樓層，都住著什麼疾病的患者呢……？
+5,4415,,"Cosa pensi stiano curando al Piano Speciale?
+Non... non sarà mica quella Sindrome EDEN di cui
+parlano tutti, vero?","特別病房的樓層，都住著什麼疾病的患者呢……？
 該不會，是傳說中的EDEN症候群的病人吧。",,"특별 병동 플로어에는 무슨 병을 앓는 환자가
 들어가는 걸까…?
 혹시 소문으로만 듣던 EDEN 증후군이라는 걸까","Was sie wohl auf der Spezialstation behandeln?
 Doch nicht etwa dieses EDEN-Syndrom, von dem alle
 reden, oder?"
-6,4416,,"Beh, sono venuto per un controllo fisico, ma ho pensato: perché non
-donare il sangue visto che sono qui? Ottieni un premio se lo
-fai spesso!","做完健康檢查後，順便捐個血好了。
+6,4416,,"Beh, sono venuto per una visita medica, ma
+ho pensato perché non donare il sangue
+mentre sono qui? Si riceve un premio se lo fai spesso!","做完健康檢查後，順便捐個血好了。
 捐多一點還能拿到紀念品呢～",,"건강검진 받으러 온 김에 헌혈이라도 할까.
 많이 하면 기념품도 받을 수 있으니까~","Ich bin wegen einer Vorsorgeuntersuchung hier,
 dachte mir aber, ich könnte doch gleich Blut
 spenden! Da verdient man sich sogar einen Preis!"
-7,4419,,"Il piano del Reparto Speciale è interdetto al
-pubblico. Si prega di stare alla larga.","特別病房樓層，除了相關人士以外禁止進入，
+7,4419,,"Il piano del Reparto Speciale è interdetto al pubblico. Si
+prega di tenersi a distanza.","特別病房樓層，除了相關人士以外禁止進入，
 請不要靠近喔。",,"특별 병동 플로어는 관계자 이외엔 출입 금지입니다.
 가까이 가지 않도록 해주세요","Die Spezialstation ist nicht öffentlich. Bitte
 treten Sie zurück."
-8,4420,,"Alla gente piace questo ospedale, ma ci sono anche voci
-losche. Esperimenti umani e cose del genere. Puoi
-fare il check-in, ma non puoi fare il check-out...vivo!!!","這家醫院雖然評價很好，但也有不好的傳聞喔～
+8,4420,,"La gente apprezza questo ospedale, ma circolano anche
+delle voci losche. Esperimenti sugli umani e cose
+simili. Puoi entrare, ma non puoi più uscire...vivo!!!","這家醫院雖然評價很好，但也有不好的傳聞喔～
 例如用罕見疾病的患者做人體實驗……
 一旦住院就無法活著出來……有這類的傳聞喔。",,"이 병원, 평판은 좋지만 어두운 소문도 있어~
 난치병 환자에게 인체실험을 한다던가…
 한번 입원하면 살아서 나올 수 없다…같은","Dieses Krankenhaus ist beliebt, aber es gibt auch
 ungute Gerüchte. Von wegen Experimente an
 Menschen. Lebend kommt hier niemand raus!!!"
-9,4723,,"Ehi, sono in forma smagliante! Non guardarmi come se fossi... un invalido!","我很健康！
+9,4723,,"Ehi, sono in formissima! Non guardarmi
+come...come un invalido!","我很健康！
 不要把我當病人看待！",,"나는 아무데도 아프지 않아!
 환자 취급했다간 혼낼 거다!","He, ich bin noch topfit! Glotz mich nicht an wie
 ’nen ... Krüppel!"
-10,4722,,"Così tante cose da fare! Questionari, poi riordinare i documenti, poi controllare il Reparto Generale...
-Ho bisogno di una bella rinfrescata in EDEN dopo il lavoro.","啊～忙死了！　問診完之後還要整理資料，
+10,4722,,"Così tante cose da fare! Questionari, poi riordinare documenti,
+poi controllare il Reparto Generale... Ho bisogno di una bella
+rinfrescata in EDEN dopo il lavoro.","啊～忙死了！　問診完之後還要整理資料，
 整理完之後還得到普通病房去……
 好想在工作結束後到EDEN去轉換一下心情……",,"아~, 바쁘다! 문진 다음엔 서류 정리,
 이게 끝나면 일반 병동도 보러 가지 않으면…
 일이 끝나면 EDEN에서 기분 전환하고 싶어…","So viel Arbeit! Formulare, Papierkram, dann Visite
 auf der Normalstation ... Danach muss ich mich
 in EDEN richtig erholen."
-100,4410,,"Sospiro... Sono tutti così giù di morale per questa furia
-mostruosa, e abbiamo molti più pazienti
-in arrivo...","因為妖怪騷動而感到鬱悶的人變多了。
+100,4410,,"Uffa... Sono tutti così giù di morale per
+questa furia dei mostri, e abbiamo ancora così
+tanti pazienti in arrivo...","因為妖怪騷動而感到鬱悶的人變多了。
 外來的患者增加，變得更忙了……",,"괴물 소동으로 우울해진 사람이 많아.
 외래 환자가 늘어서 큰일이야…","*Seufz* ... Alle machen sich Sorgen wegen dieser
 wütenden Monster, und wir kriegen so viele
 zusätzliche Patienten ..."
-101,4411,,Sembra che alcune persone siano state ferite gravemente. Tutte queste persone che passano sulle barelle...,"好像有受傷的人……
+101,4411,,"Sembra che alcune persone siano state davvero ferite. Tutta questa gente che
+passa sulle barelle...","好像有受傷的人……
 從剛才開始，就有好幾個人，
 因為打架而被送來這裡。",,"다친 사람이 있는 모양이네…
 아까부터 들것에 실려서 오는 사람이 몇 명이나 있어","Es gab wohl Schwerverletzte. So viele Leute auf
 Tragen ..."
-102,4414,,Sei qui in visita? Il Reparto Generale è al 12° piano. Prendi l'ascensore proprio laggiù.,"是來探病的嗎？　普通病房在12樓喔。
+102,4414,,"Sei qui in visita? Il reparto di degenza è al 12°
+piano. Prendi l'ascensore proprio lì.","是來探病的嗎？　普通病房在12樓喔。
 從那邊的電梯就能到了。",,"입원 환자를 문병하러 왔니? 일반 병동은 12층이야.
 거기 엘리베이터로 갈 수 있단다","Besuchst du jemanden? Die Normalstation ist im 12.
 Stock. Nimm den Aufzug da drüben."
-103,4415,,"Ho visto qualcuno portato al piano del Reparto Speciale.
-Mi chiedo se questo trambusto stia dando a più persone...quella malattia...","我看到了被送往特別病房的患者。
+103,4415,,"Ho visto qualcuno essere portato al piano del Quartiere
+Speciale. Mi chiedo se questo trambusto stia contagiando
+più persone...con quella malattia...","我看到了被送往特別病房的患者。
 說不定會因為這場騷動，
 而讓那個疾病的患者增加……",,"특별 병동 플로어로 후송된 환자를 봤어.
 이 소동으로 그 병에 걸린 환자도 늘어난 걸까…","Ich habe jemanden auf dem Weg zur Spezialstation
 gesehen. Ob in diesem Chaos wohl mehr Leute ...
 diese Krankheit bekommen ..."
-104,4417,,"Mi sono completamente perso a uno dei piani superiori
-e sono inciampato in questa stanza piena di macchinari strani.
-Che diavolo era tutta quella roba?","在上面樓層迷路時，發現了有奇怪機器的房間。
+104,4417,,"Mi sono perso in uno dei piani superiori e mi sono
+imbattuto in questa stanza piena di strani
+macchinari. Che diavolo era tutta quella roba?","在上面樓層迷路時，發現了有奇怪機器的房間。
 那個機器是做什麼用的啊……",,"위층을 헤메다가 묘한 기계가 있는 방을 발견했어.
 그거 무슨 기계였을까…","Ich hab mich in einer der oberen Etagen verlaufen
 und bin in einen Raum voller komischer Maschinen
 gestolpert. Was war das bloß alles?"
-105,4418,,"Sono stato colpito da un pezzo di cemento lanciato da questo mostro
-infuriato e mi sono fatto male a una gamba...ma poi questi altri
-mostri mi hanno portato qui. Strano, vero?","我在妖怪作亂時被他破壞的水泥砸到，
+105,4418,,"Sono stato colpito da un pezzo di cemento scagliato
+da questo mostro infuriato e mi sono fatto male a una
+gamba... ma poi questi altri mostri mi hanno portato qui. Strano, vero?","我在妖怪作亂時被他破壞的水泥砸到，
 扭到腳了……但是其他的妖怪，
 卻幫忙把我送到這裡……很妙吧？",,"괴물이 날뛰어서 부순 콘크리트에 맞아서
 다리를 접질러버렸어… 하지만 다른 괴물이
@@ -110,7 +122,7 @@ mostri mi hanno portato qui. Strano, vero?","我在妖怪作亂時被他破壞�
 Zementbrocken am Bein verletzt ... Aber dann
 haben andere Monster mich hergetragen. Komisch!"
 106,4722,,"Eravamo già impegnati, e poi questo trambusto!
-Voglio solo più ore al giorno! Aspetta... no, allora
+Vorrei solo più ore nella giornata! Aspetta... no, allora
 probabilmente mi farebbero solo lavorare più a lungo...","本來就已經很忙了，因為這場騷動又更忙了……
 如果一天有48小時就好了！
 啊啊……但如果真變成那樣，工作一定也會加倍……",,"안그래도 바쁜데 이 소동으로 야단법석이야…
@@ -118,12 +130,14 @@ probabilmente mi farebbero solo lavorare più a lungo...","本來就已經很忙
 아아…하지만 그랬다간 일도 두배로 늘어나겠지…","Wir hatten schon viel zu tun, und dann dieses
 Chaos! Der Tag braucht mehr Stunden ... Nein, dann
 müsste ich vermutlich noch mehr arbeiten ..."
-200,2000,,"(Non posso credere che Erika fosse malata... Se lo avessi saputo,
-non l'avrei portata fuori o qualcosa del genere...)","（艾莉卡居然生病了……
+200,2000,,"(Non posso credere che Erika stesse male... Se
+l'avessi saputo, non l'avrei portata fuori o qualcosa
+del genere...)","（艾莉卡居然生病了……
 　如果知道的話，我就不會帶她出去了……）",,"(에리카가 병에 걸렸었다니……
  알았다면 밖으로 데리고 나갈 생각 따윈……)","(Ich kann nicht glauben, dass Erika krank war ...
 Ich hätte sie nie mitgenommen, hätte ich das
 gewusst ...)"
 201,2000,,...,………………,,………………,...
-202,2000,,(Immagino che prenderò qualcosa dai distributori automatici.),（…………在自動販賣機那買點什麼吧）,,(…………자판기에서 뭐라도 사자),"(Dann gehe ich mir wohl etwas aus dem Automaten
+202,2000,,"(Immagino che prenderò qualcosa dai distributori
+automatici.)",（…………在自動販賣機那買點什麼吧）,,(…………자판기에서 뭐라도 사자),"(Dann gehe ich mir wohl etwas aus dem Automaten
 holen.)"

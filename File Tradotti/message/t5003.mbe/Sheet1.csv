@@ -1,37 +1,40 @@
-ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
-0,9111,,"Benvenuto! Quante ore vorresti... oh, sei tu...
-Il proprietario dice che i membri di Hudie possono entrare
-gratis.","歡迎光臨～請問要使用幾個小時呢～
+﻿ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
+0,9111,,"Benvenuto! Quante ore vorresti...oh, sei
+tu... Il proprietario dice che i membri di
+Hudie possono entrare gratis.","歡迎光臨～請問要使用幾個小時呢～
 ……啊、什麼嘛，是你啊～
 老闆跟我說過，“hudie”的人是免費的喔～",,"어서 오세요~ 몇 시간 이용하시나요~
 …아, 뭐야, 너구나~
 ""후디에""의 사람은 무료라고, 오너한테 들었어~","Willkommen! Wie viele Stunden würdest du ... Ach,
 du bist es ... Der Besitzer meint, dass Mitglieder
 von Hudie nicht bezahlen müssen."
-1,9112,,"Questo negozio è un tesoro nascosto... con di tutto,
-dagli ultimi lavori ai classici... Dal
-mainstream alle serie hardcore.","這間店從最新作品到知名作品，甚至冷門作品
+1,9112,,"Questo negozio è un tesoro nascosto...
+con di tutto dagli ultimi lavori ai
+classici... Dal mainstream alle serie hardcore.","這間店從最新作品到知名作品，甚至冷門作品
 都相當齊全，是隱藏的名店喔。",,"이 가게, 신작부터 명작, 메이저한 것부터 마이너한 것까지
 제대로 갖추고 있는, 숨겨진 명소야","Dieser Laden ist eine wahre Goldgrube ... Es gibt
 von Klassikern bis zu den neuesten Sachen alles.
 Egal, ob Mainstream oder für hartgesottene Fans."
-2,9112,,"Comunque, a volte c'è qualcosa di strano sugli
-scaffali. Mi chiedo cosa potrebbe essere?","但是，有時候書櫃上常常會夾些奇怪的東西。
+2,9112,,"Comunque, a volte c'è qualcosa di strano
+sugli scaffali. Mi chiedo cosa possa essere?","但是，有時候書櫃上常常會夾些奇怪的東西。
 那個到底是什麼東西啊？",,"하지만 가끔은 책꽂이에 이상한 것이 꽂혀 있어.
 그거, 대체 뭘까?","Aber manchmal findet man etwas Seltsames im
 Regal. Ich frage mich, was es sein könnte?"
-3,9113,,"Adoro proprio i bei bar! Guarda questa
-selezione, come potrei non continuare a tornare?","我最喜歡自助飲料吧了，
+3,9113,,"Adoro proprio un buon bar! Guarda solo questa
+selezione, come potrei non
+continuare a tornare?","我最喜歡自助飲料吧了，
 這裡的種類很豐富，常常跑來這裡喝呢。",,"나는 드링크 바가 정말 좋단다.
 여기는 종류가 풍부하니까, 자주 마시러 오지","Ich liebe gute Coffee-Shops! Schau dir mal diese
 Auswahl an! Wie kann man da nicht
 wiederkommen?"
-4,9113,,"Ma ultimamente la macchina sta dando i numeri.
-C'è qualche malfunzionamento o qualcosa del genere?","但是，剛才機器有點怪怪的……？
+4,9113,,"Ma ultimamente la macchina fa i capricci. C'è qualche
+tipo di malfunzionamento o qualcosa del genere?","但是，剛才機器有點怪怪的……？
 是故障嗎……？",,"하지만 아까는 기계의 상태가 나빴던 것 같은데…?
 고장인 걸까…?","Aber in letzter Zeit spielt die Maschine verrückt.
 Ist das eine Fehlfunktion, oder was?"
-5,9114,,A volte si sente un forte rumore di colpi provenire dalla stanza VIP... Cosa sta succedendo lì dentro? Dovrei chiedere a quel famoso detective di Nakano di controllare?,"裡頭的那間VIP ROOM時常會有什麼東西在敲
+5,9114,,"Si sente un suono di colpi secchi provenire dalla stanza VIP a
+volte... Cosa sta succedendo lì dentro? Dovrei chiedere
+a quel famoso detective di Nakano di controllare?","裡頭的那間VIP ROOM時常會有什麼東西在敲
 的聲音……裡面發生什麼事了嗎……？好令人在意
 要不要請那傳說的中野偵探來調查看看……？",,"안쪽의 VIP 룸에서 가끔 뭔가를 치는 날카로운 소리가 나…
 안에서 뭔가 화내고 있는 걸까…? 신경 쓰여.
@@ -39,53 +42,56 @@ Ist das eine Fehlfunktion, oder was?"
 Was ist da bloß los? Soll ich die berühmte
 Detektivin von Nakano zu Rate ziehen?"
 6,9115,,"Mi chiedo se le voci siano vere... Dicono che questo
-negozio sia il rifugio segreto di un team di hacker.
-La sicurezza è stranamente solida anche su questi PC.","這家店，聽說好像變成了駭客隊伍的基地，
+negozio sia il covo segreto di un team di hacker.
+Anche la sicurezza è stranamente solida su questi PC.","這家店，聽說好像變成了駭客隊伍的基地，
 是真的嗎？裡頭的PC，防範措施也意外得
 嚴密啊……",,"이 가게, 해커 팀의 아지트라는 소문, 진짜일까?
 비치돼있는 PC의 보안도 묘하게 튼튼하지…","Ich frage mich, ob die Gerüchte stimmen ... Der
 Laden soll das Versteck eines Hackerteams sein.
 Die PC-Sicherheitsmaßnahmen sind auch gut."
-100,9111,,"Che ci fa ancora aperto questo negozio a quest'ora? Beh, il proprietario mi ha dato un aumento, quindi non sono nella posizione di lamentarmi...","到了這時間店都還開著，這家店真的很怪～
+100,9111,,"Che ci fa ancora aperto questo negozio a
+quest'ora? Beh, il proprietario mi ha dato un aumento,
+quindi non sono nella posizione di lamentarmi...","到了這時間店都還開著，這家店真的很怪～
 但老闆都會給我時薪，所以我才做得下去呢～",,"이런 때에도 영업하다니, 이 가게 좀 이상해~
 오너가 시급을 올려줘서 열심히 하지만~","Warum hat dieser Laden um diese Uhrzeit noch
 offen? Tja, mein Chef gibt mir mehr Geld,
 also sollte ich mich nicht beschweren ..."
-101,9112,,"Questo negozio è un tesoro nascosto...con di tutto
-dalle ultime uscite ai classici... Dal
-mainstream alle serie hardcore.","這間店從最新作品到知名作品，甚至冷門作品
+101,9112,,"Questo negozio è un tesoro
+nascosto...con di tutto, dalle ultime novità ai
+classici... Dal mainstream alle serie hardcore.","這間店從最新作品到知名作品，甚至冷門作品
 都相當齊全，是隱藏的名店喔。",,"이 가게, 신작부터 명작, 메이저한 것부터 마이너한 것까지
 제대로 갖추고 있는, 숨겨진 명소야","Dieser Laden ist eine wahre Goldgrube ... Es gibt
 von Klassikern bis zu den neuesten Sachen alles.
 Egal, ob Mainstream oder für hartgesottene Fans."
-102,9112,,"Comunque, a volte c'è qualcosa di strano sugli
-scaffali. Mi chiedo cosa potrebbe essere?","但是，有時候書櫃上常常會夾些奇怪的東西。
+102,9112,,"Comunque, a volte c'è qualcosa di strano
+sugli scaffali. Mi chiedo cosa potrebbe essere?","但是，有時候書櫃上常常會夾些奇怪的東西。
 那個到底是什麼東西啊？",,"하지만 가끔은 책꽂이에 이상한 것이 꽂혀 있어
 그거, 대체 뭘까?","Aber manchmal findet man etwas Seltsames im
 Regal. Ich frage mich, was es sein könnte?"
-103,9113,,"Adoro proprio un buon bar! Guarda solo questa
-selezione, come potrei non continuare a tornare?","我最喜歡自助飲料吧了，
+103,9113,,"Adoro proprio i bei bar! Guarda solo questa
+selezione, come potrei non
+continuare a tornare?","我最喜歡自助飲料吧了，
 這裡的種類很豐富，常常跑來這裡喝呢。",,"나는 드링크 바가 정말 좋단다
 여기는 종류가 풍부하니까, 자주 마시러 오지","Ich liebe gute Coffee-Shops! Schau dir mal diese
 Auswahl an! Wie kann man da nicht
 wiederkommen?"
-104,9113,,"Ma ultimamente la macchina fa i capricci.
-C'è qualche tipo di malfunzionamento o qualcosa del genere?","但是，剛才機器有點怪怪的……？
+104,9113,,"Ma ultimamente la macchina fa i capricci. C'è qualche
+tipo di malfunzionamento o qualcosa del genere?","但是，剛才機器有點怪怪的……？
 是故障嗎……？",,"하지만 아까는 기계의 상태가 나빴던 것 같은데…?
 고장인 걸까…?","Aber in letzter Zeit spielt die Maschine verrückt.
 Ist das eine Fehlfunktion, oder was?"
-105,9114,,"Ho visto una ragazzina carina uscire dalla stanza VIP
-nel retro! Non dirmi che quel rumore di rap che ho
-sentito era qualcuno che picchiava quella ragazza?!","我看到那間VIP ROOM裡，走出來一位可愛的
+105,9114,,"Ho visto una ragazzina carina uscire dalla sala VIP
+sul retro! Non dirmi che quel rumore di schiaffi che ho
+sentito era qualcuno che stava picchiando quella ragazza?!","我看到那間VIP ROOM裡，走出來一位可愛的
 少女！之前一直聽到在敲什麼東西的聲音……
 難道是她嗎……！？我、我必須去救她……！！",,"안쪽의 VIP 룸에서 귀여운 소녀가 나오는 것을 봤어!
 계속 들리던 뭔가를 때리는 소리는…설마 그녀가 맞아서…!?
 내, 내가 구해주지 않으면…!!","Ich habe gesehen, wie ein süßes kleines Mädchen
 aus dem VIP-Raum kam! Sag nicht, dass das Pochen
 bedeutet, jemand hat das Mädchen geschlagen?!"
-106,9115,,"Sento dire che gli hacker stanno imperversando ultimamente, ma
-la sicurezza è di prim'ordine in questo posto.
-Più posti dovrebbero essere così sicuri!","普通的店，總是會被駭客給入侵得亂七八糟。
+106,9115,,"Sento dire che gli hacker stanno imperversando di questi
+tempi, ma la sicurezza è di prim'ordine in questo
+posto. Più posti dovrebbero essere così sicuri!","普通的店，總是會被駭客給入侵得亂七八糟。
 但這家店的防範措施就很安全呢。
 如果其他地方的終端，也能夠這樣嚴密就好了。",,"주위에선 해커가 날뛰고 있다고 하지만
 이 가게의 보안이라면 안전해.
@@ -93,9 +99,9 @@ Più posti dovrebbero essere così sicuri!","普通的店，總是會被駭客�
 laufen, aber hier ist man wirklich sicher.
 Mehr Orte sollten so sicher sein!"
 200,3047,,...,………………,,………………,...
-201,3047,,"Oh, sei tu. Venuto a chiedere di Ryuji, giusto?
-Scusa, ma dammi un minuto. Ti parlerò sicuramente
-presto.","啊、啊啊，是你啊。
+201,3047,,"Oh, sei tu. Sei venuto a chiedere di Ryuji,
+vero? Scusa, ma dammi un minuto. Ti parlerò
+sicuramente presto.","啊、啊啊，是你啊。
 是來問我龍司的事對吧……抱歉，再給我
 一點時間喔。之後一定會跟你說清楚的。",,"아, 아아, 너구나.
 류지에 대해 들으러 온 거구나.
@@ -103,182 +109,193 @@ presto.","啊、啊啊，是你啊。
 nicht? Bitte gib mir einen Moment. Ich melde mich
 bald bei dir."
 202,3047,,...,………………,,………………,...
-300,2000,,"(È un'e-mail da K. Ha scelto di incontrarsi al
-Covo dei Demoni. Mi preparerò e andrò.)","（K發來了訊息……他果然指定在
+300,2000,,"(È un'e-mail da K. Ha scelto di
+incontrarsi nel Covo dei Demoni. Mi
+preparo e vado.)","（K發來了訊息……他果然指定在
 　惡魔巢穴碰面。做好準備後就過去吧）",,"(K가 보낸 메일이다……역시 약속 장소로
  데몬즈 아지트를 지정했다. 준비되는 대로 가보자)","(Es ist eine E-Mail von K. Er will sich in der
 Demons-Höhle treffen. Ich mache mich fertig
 und gehe hin.)"
-301,2000,,(Ho completato tutti i casi per ora. Sono libero di fare quello che voglio...),（委託也完成一定程度了，好閒喔……）,,(의뢰도 어느 정도 끝냈고… 한가하네……),"(Für den Moment habe ich alle Fälle abgeschlossen.
+301,2000,,"(Ho completato tutti i casi per ora. Sono
+libero di fare quello che voglio...)",（委託也完成一定程度了，好閒喔……）,,(의뢰도 어느 정도 끝냈고… 한가하네……),"(Für den Moment habe ich alle Fälle abgeschlossen.
 Jetzt kann ich machen, was ich will ...)"
-302,2000,,(Mi chiedo cosa stia combinando Erika. Andrò a vedere.),"（艾莉卡好像在做什麼，
+302,2000,,"(Mi chiedo cosa stia combinando
+Erika. Vado a vedere.)","（艾莉卡好像在做什麼，
 　去看看她吧）",,"(에리카는 뭘 하고 있을까? 
  에리카의 상태를 보러 가보자…)","(Ich frage mich, was Erika so macht. Ich werde
 mal bei ihr vorbeischauen.)"
-303,2000,,"(L'incontro con la mente dietro tutto avverrà
-a Kowloon Lv. 2. Mi preparerò e mi dirigerò lì.)","（好像是在Kowloon Lv2跟主使者交易，
+303,2000,,"(L'accordo con la mente dietro tutto
+avverrà a Kowloon Lv. 2. Mi preparerò e
+andrò lì.)","（好像是在Kowloon Lv2跟主使者交易，
 　準備好就過去吧）",,"(원흉과의 거래는 쿠롱 Lv.2에서 이루어지는 모양이다.
  준비가 되는 대로 가보자)","(Der Deal mit dem Drahtzieher findet auf Ebene 2
 von Kowloon statt. Ich mache mich fertig und
 gehe hin.)"
-304,2000,,(Il punto d'incontro è cambiato all'ingresso del museo di Ueno. Andrò a Ueno.),"（等待的場所在上野博物館前，
+304,2000,,"(Il punto d'incontro è stato cambiato
+all'entrata del museo di Ueno. Mi dirigerò a Ueno.)","（等待的場所在上野博物館前，
 　總之到上野去吧）",,"(대기 장소는 우에노 박물관이다.
  일단 우에노로 가보자)","(Der Treffpunkt ist jetzt der Eingang zum
 Ueno-Museum. Ich breche nach Ueno auf.)"
 305,2000,,(È ora. Andrò all'Open Space.),"（……約好的時間到了，
 　到開放空間去吧）",,"(……약속 시간이다.
  오픈 스페이스로 가보자)",(Es ist so weit. Ich gehe zum Offenen Raum.)
-306,2000,,"(Non ho controllato la bacheca ultimamente... Userò
-il PC e vedrò se sono arrivati dei casi.)","（最近都沒來確認“看板”啊……
+306,2000,,"(Non controllo la bacheca da un
+po'... Userò il PC e vedrò se sono
+arrivati dei nuovi casi.)","（最近都沒來確認“看板”啊……
 　用PC來確認一下有沒有委託吧）",,"(요즘 ""게시판"" 확인을 하지 않았군……
  의뢰가 오지 않았는지 PC로 확인해보자)","(Ich habe in letzter Zeit nicht auf die Tafel
 geschaut ... Ich werde den PC benutzen, um zu
 sehen, ob es neue Fälle gibt.)"
-307,2000,,(Non ho nessuno da portare. Accetterò un altro caso.),"（好像沒有能邀請的夥伴……
+307,2000,,"(Non ho nessuno da portare con
+me. Accetterò un altro caso.)","（好像沒有能邀請的夥伴……
 　接別的委託吧……）",,(데려갈 수 있는 동료가 없는 것 같다…… 다른 의뢰를 받자…),"(Ich habe niemanden, den ich mitnehmen kann.
 Ich übernehme einen weiteren Fall.)"
-500,2000,,"Questo caffè è così annacquato che è praticamente acqua.
-Mi mette di cattivo umore, come un temporale mattutino.","咖啡的味道好淡……
+500,2000,,"Questo caffè è così annacquato, è
+praticamente acqua. Mi mette di cattivo umore,
+come un temporale mattutino.","咖啡的味道好淡……
 只有水的味道……現在的心情就像是下雨的早晨般憂鬱。",,"커피맛이 싱겁다…
 물맛밖에 나질 않아… 비 오는 날의 아침 같은 우울한 기분이 되었다","Der Kaffee ist so dünn, es ist praktisch Wasser.
 Da verfalle ich gleich in eine düstere Stimmung.
 Es ist wie Regen am Morgen."
-501,2000,,"Ulp! Questa sì che è una tazza per scrollarsi di dosso le ragnatele.
-Non è affatto gustosa, ma sento decisamente di aver tirato fuori
-qualcosa di peculiare da essa.","！！……這是連睡意都能擊退的苦咖啡。
+501,2000,,"Ulp! Questa sì che è una tazza per scrollarsi di dosso la polvere.
+Non è per niente gustosa, ma di sicuro mi sembra di aver
+tirato fuori qualcosa di peculiare.","！！……這是連睡意都能擊退的苦咖啡。
 雖然不好喝，卻奇妙地有種划算的感覺。",,"!!...잠이 확 깨는 쓴 커피였다.
 전혀 맛있지는 않지만, 이상하게 이득 본 기분이 되었다","Puh! Diese Tasse schafft schon einen klaren Kopf!
 Es war nicht lecker, aber irgendwie war es
 schon etwas Besonderes."
-502,2000,,"Un caffè a basso contenuto di zuccheri con una piacevole amarezza.
-Rilassante e rinfrescante.","苦得剛好的微糖咖啡。
+502,2000,,"Un caffè a basso contenuto di zucchero con una
+piacevole amarezza. Rilassante e rinfrescante.","苦得剛好的微糖咖啡。
 心情放鬆了下來，舒服多了。",,"쓴맛이 상쾌한 덜 단 커피다.
 마음 편한 시원한 기분이 되었다","Ein Kaffee mit wenig Zucker, der angenehm bitter
 ist. Entspannend und erfrischend."
-503,2000,,Caffè nero senza zucchero né latte. Che sapore da adulti... Non credo di capirlo ancora del tutto.,"沒有加砂糖跟牛奶的黑咖啡。
+503,2000,,"Caffè nero senza zucchero o latte.
+Che sapore adulto... Non credo di
+capirlo ancora del tutto.","沒有加砂糖跟牛奶的黑咖啡。
 這就是大人的味道嗎……還不曉得其中的美好啊。",,"설탕도 우유도 들어가지 않은 블랙커피다.
 이것이 어른의 맛인가… 아직 뭐가 좋은 것인지 모르겠다","Schwarzer Kaffee ohne Zucker oder Milch. Das
 mögen Erwachsene ... Ich glaube, ich muss mich
 erst daran gewöhnen."
-504,2000,,"Ahi! È così bollente che mi ha bruciato la bocca... Non sono
-bravo con le cose calde, quindi non va bene per me.","好燙！！！！！實在是太燙，有點燙傷了……
+504,2000,,"Ahi! È così caldo che mi ha bruciato
+la bocca... Non sono bravo con le cose
+calde, quindi non va bene per me.","好燙！！！！！實在是太燙，有點燙傷了……
 對於怕燙的自己來說有點困難呢。",,"뜨거!!!!! 너무 뜨거워서 화상 입었다…
 고양이 혀인 내게는 너무 가혹했나","Argh! Er ist so heiß, dass ich mir den Mund
 verbrannt habe ... Mit heißen Sachen komme ich
 nicht klar, sie passen nicht zu mir."
-505,2000,,"Uffa, che botta di vita.
-...Potrei quasi farci l'abitudine.","……這樣的話不就只有糖漿而已嗎。
+505,2000,,"Uffa, che dire, ci hai messo un po'
+di pepe. ...Potrei anche farci l'abitudine.","……這樣的話不就只有糖漿而已嗎。
 ……但這樣子也能使人上癮呢。",,"…검 시럽만 넣은 거잖아
 …이것도 이거대로 맛을 들이게 될 것 같다","Puh, in dem Zucker ist ja Kaffee drin.
 Da könnte ich mich glatt dran gewöhnen."
-506,2000,,"Oh! Questo caffè ha vaghe note di cannella.
-Che bello... Mi fa sentire una celebrità.","喔喔～這咖啡有些許的肉桂香味啊。
+506,2000,,"Oh! Questo caffè ha vaghi sentori di
+cannella. Che bello... Mi fa sentire una celebrità.","喔喔～這咖啡有些許的肉桂香味啊。
 感覺就像是被香味環繞的名流呢。",,"호오, 시나몬의 향기가 은은한 커피다.
 마음이 편해지는 향기에 둘러싸여 셀러브리티한 기분이 되었다","Ach! Dieser Kaffee schmeckt leicht nach Zimt.
 Echt toll ... Ich fühle mich wie ein Promi."
-507,2000,,"C'è del latte condensato sul bordo... è un
-caffè vietnamita ghiacciato? Che esotico! Sento la mia
-visione del mondo espandersi.","杯子旁邊有附煉乳……是越南的咖啡嗎？
+507,2000,,"C'è del latte condensato sul bordo... questo è
+caffè vietnamita ghiacciato? Che esotico! Sento la
+mia visione del mondo che si espande.","杯子旁邊有附煉乳……是越南的咖啡嗎？
 內心一直都是地球村！感覺心境變得更遼闊了。",,"컵 테두리에 연유가 묻어있다…베트남 커피인 걸까.
 마음은 언제나 월드 와이드! 마음이 넓어진 기분이 들었다","Am Rand ist Kondensmilch ... Ist das Eiskaffee
 aus Vietnam? Wie exotisch! Ich spüre geradezu,
 wie sich mein Horizont erweitert."
-508,2000,,"Caffè con marmellata di fragole... La parte migliore
-del risveglio sarebbe averne un po' nella mia tazza.","是加了草莓果醬的咖啡啊……
+508,2000,,"Caffè con marmellata di fragole dentro... La parte migliore del
+risveglio sarebbe averne un po' nella mia tazza.","是加了草莓果醬的咖啡啊……
 如果有女朋友可以泡給睡過頭的我喝
 ……我會很開心的……",,"딸기 잼이 들어간 커피였다…
 잠꾸러기인 내게 여친이 타줬으면……좋겠다…","Kaffee mit Erdbeermarmelade ... Damit würde
 ich gern morgens wach werden."
 509,2000,,"Caffè con olio d'oliva?! C'è un limite a
-cosa si può mettere nel caffè! ...Comunque, non male.","是加了橄欖油的咖啡啊……
+quello che si può mettere nel
+caffè! ...Comunque, non male.","是加了橄欖油的咖啡啊……
 再怎麼說也加太多了吧……
 但是，我不討厭這種信念呢。",,"올리브 오일이 들어간 커피다…
 아무리 그래도 너무 넣었잖아…
 하지만, 그 신념은 싫진 않다","Kaffee mit Olivenöl?! Es gibt auch Grenzen, was
 man mit Kaffee kombinieren kann!
 ... Trotzdem, nicht schlecht."
-510,2000,,"Sembra che ci sia qualcosa incastrato nella
+510,2000,,"Sembra che ci sia qualcosa bloccato nella
 macchinetta del caffè...",咖啡機裡，好像有什麼地方卡住了……,,커피 기계 안에 뭔가가 걸려있는 모양이다,"In der Kaffeemaschine scheint etwas
 festzustecken ..."
-550,2000,,"Ho provato a leggere il recente manga per ragazze,
-""La mia storia d'amore!"" Il protagonista non è esperto di social
-media, ma i suoi sentimenti puri sono di tendenza.","看了新發售的少女漫畫「我物語！！」。
+550,2000,,"Ho provato a leggere l'ultimo manga per ragazze,
+""La mia storia di cotta!"" Il protagonista non è esperto di
+social media, ma i suoi sentimenti puri sono di tendenza.","看了新發售的少女漫畫「我物語！！」。
 主角雖然不是帥哥，但那純真的故事非常棒呢。",,"신작인 소녀 만화「나의 이야기!!」를 읽어봤다.
 주인공은 미남은 아니지만, 순수한 마음은 멋지구나 하고 생각했다","Ich habe den neuen Shojo-Manga gelesen,
 „My Like Story!“. Der Typ weiß wie er seine
 Gefühle in den sozialen Medien ausdrückt."
 551,2000,,"Ho provato a leggere l'ultimo manga per ragazzi,
-""Un Vello"". Il ragazzo che mira a diventare il re di tutti
-i pastori, con un gregge di amici...","看了新發售的少年漫畫「ONE PEARS」。
+""One Fleece"". Il ragazzo che punta a diventare re di
+tutti i pastori, con un gregge di amici...","看了新發售的少年漫畫「ONE PEARS」。
 目標成為豐收王的男人的堅強與強烈的羈絆……",,"신작인 소년 만화「ONE PEARS」를 읽어봤다
 풍작왕을 노리는 남자의 강함은, 유대의 강함…","Ich habe den neuen Shounen-Manga gelesen, „One
 Fleece“. Der Junge will Schafhirtenkönig werden,
 mit einer Herde von Freunden ..."
-552,2000,,"Ho provato a leggere il recente manga per giovani adulti,
-""Account Shop"". Ho imparato molto sull'offerta e la
-domanda dalle battaglie del protagonista.","看了新發售的青年類漫畫「計算行業」。
+552,2000,,"Ho provato a leggere il recente manga per
+giovani adulti, ""Account Shop"". Ho imparato molto sulla
+domanda e l'offerta dalle battaglie del protagonista.","看了新發售的青年類漫畫「計算行業」。
 看著運用各種戰術來贏得勝利的主角，
 學習到了戰略的需要性。",,"신작인 청년 만화「계산에 산다」를 읽어봤다
 다양한 전술을 사용해 배틀에서 이기는 주인공을 보며
 전략의 중요성을 배웠다","Ich habe das neue Jugendmanga gelesen,
 „Konten-Shop“. Von dem Protagonisten habe ich
 viel über Angebot und Nachfrage gelernt."
-553,2000,,"Ho provato a leggere il recente manga di economia,
-""L'Economista Che Ride"". Non penserei che
-l'economia sia una cosa da ridere, ma è un po' divertente.","看了新發售的商業類漫畫「驅魔銷售員」。
+553,2000,,"Ho provato a leggere l'ultimo manga economico,
+""L'Economista Sorridente"". Non penserei che l'economia
+sia una cosa da ridere, ma è piuttosto divertente.","看了新發售的商業類漫畫「驅魔銷售員」。
 主角一旦被驅魔，慾望就會暴走……
 放下邪念吧。",,"신작인 비즈니스 만화「쫓는 세일즈맨」를 읽어봤다
 주인공에게 성불 당하면 욕망이 폭주한다…잡념은 버리자","Ich habe das neue Wirtschaftsmanga gelesen, „Der
 lachende Wirtschaftler“. Ich dachte nicht, dass
 Wirtschaft zum Lachen ist, aber es ist witzig."
-554,2000,,"Ho provato a leggere l'ultimo fumetto,
-""I Sim Figli"". Non credo di capirne l'umorismo...
-Perché qualcuno dovrebbe mangiare un paio di pantaloncini?","看了新發售的外國漫畫「THE．SIM普森」。
+554,2000,,"Ho provato a leggere l'ultimo fumetto, ""I Sim Figli"". Non
+credo di capire l'umorismo... Perché qualcuno dovrebbe
+mangiare un paio di pantaloncini?","看了新發售的外國漫畫「THE．SIM普森」。
 諷刺現代科學的黑色幽默漫畫。
 知道了何謂科學的偉大。",,"신작인 외국 만화「더 SIM픈」을 읽어봤다
 현대 과학을 유머로 풍자한 만화다. 과학의 위대함을 알았다","Ich habe den neuen Comic gelesen, „Sim Sons“.
 Ich kapiere den Humor nicht ... Warum sollte
 man denn Shorts fressen?"
-555,2000,,"Ho provato a leggere il recente manga drammatico,
-""Home Oculus"". Immagino che l'interior design sia una cosa
-seria per alcune persone...","看了新發售的描寫人性類漫畫「激素克魯斯」。
+555,2000,,"Ho provato a leggere il recente manga
+drammatico, ""Home Oculus"". Immagino che l'interior design
+sia una cosa seria per alcune persone...","看了新發售的描寫人性類漫畫「激素克魯斯」。
 知道了人體有很多不同的機素。
 好好珍惜身體……",,"신작인 휴먼드라마 만화「호르몬쿨루스」를 읽어봤다
 인간에게는 다양한 호르몬이 있다는 것을 알았다. 몸을 소중히 하자…","Ich habe das neue Dramamanga gelesen,
 „Heimunkulus“. Innenarchitektur ist für manche
 Leute wohl eine ernste Sache ..."
-556,2000,,"Ho provato a leggere il recente manga comico,
-""La mia guardia spietata"". Il contrasto tra le sue
-azioni sfrontate e il suo eloquio mantiene vivo l'interesse.","看了新發售的搞笑類漫畫「豐島區公園前派出所」。
+556,2000,,"Ho provato a leggere il recente manga comico, ""Il mio
+coraggioso poliziotto"". Il contrasto tra le sue azioni sfacciate
+e il suo eloquio forbito mantiene le cose interessanti.","看了新發售的搞笑類漫畫「豐島區公園前派出所」。
 看到厚臉皮的主角所生存的方式，
 知道了人類的堅強。",,"신작인 개그 만화「여기는 자주 가는 파출소」를 읽어봤다
 뻔뻔한 성격을 가진 주인공이 살아가는 모습을 보며
 인간의 강함을 알았다","Ich habe das neue Gangmanga gelesen, „Mein schöner
 Streifenpolizist“. Der Gegensatz von taffem
 Auftreten und seiner Eloquenz ist witzig."
-557,2000,,"Ho provato a leggere il recente manga medico,
-""JIM"". Forse sono di parte, ma ""Dottor Jim"" non
-ispira molta fiducia...","看了新發售的醫療類漫畫「KIN　─菌─」。
+557,2000,,"Ho provato a leggere il recente manga
+medico, ""JIM"". Forse sono prevenuto, ma
+""Dottor Jim"" non ispira molta fiducia...","看了新發售的醫療類漫畫「KIN　─菌─」。
 這是穿越時空來培養細菌的故事。
 這世上也有好的細菌呢。",,"신작인 의료 만화「KIN -세균-」를 읽어봤다
 시간여행을 해서 세균을 배양하는 이야기다. 
 세상에는 좋은 세균도 있는 듯하다","Ich habe das neue Medizinmanga gelesen, „JIM“.
 Vielleicht habe ich Vorurteile, aber „Doktor Jim“
 klingt nicht gerade vertrauenserweckend."
-558,2000,,"Ho provato a leggere il recente manga sportivo,
-""SLAM MONK"". Gli insegnamenti del monastero funzionano
-sorprendentemente bene su un campo da basket.","看了新發售的運動類漫畫「SLAM TUNK」。
+558,2000,,"Ho provato a leggere l'ultimo manga sportivo, ""SLAM
+MONK"". Gli insegnamenti del monastero
+funzionano sorprendentemente bene su un campo da basket.","看了新發售的運動類漫畫「SLAM TUNK」。
 籃球顧問的老師所說的話實在是太振奮人心了。
 一但放棄的話就等於失敗！",,"신작인 스포츠 만화「SLAM TUNK」를 읽어봤다
 농구 담당 선생님의 말이 사무친다. 포기하는 순간 배틀 종료다!","Ich habe den neuen Sportmanga gelesen, „SLAM MONK“.
 Die Lehren des Klosters lassen sich
 überraschend gut beim Basketball anwenden."
-559,2000,,"Ho provato a leggere l'ultimo capitolo della rivista di giochi
-""Dengeki Jintsu"". Alcuni dei recenti annunci di giochi
-mi hanno dato un bello shock!","看了新發售的遊戲雜誌「電劇神通」。
+559,2000,,"Ho provato a leggere l'ultimo capitolo della rivista di
+giochi ""Dengeki Jintsu"". Alcuni dei recenti annunci di
+giochi mi hanno dato un bello shock!","看了新發售的遊戲雜誌「電劇神通」。
 喔！！寫真女星很可愛喔……不是很棒嗎。",,"신작인 게임 잡지「전극신통」을 읽어봤다
 뭐 뭣!! 그라비아인 여자애가 귀엽구나…좋지 아니한가","Ich habe das neue Kapitel der Spielezeitschrift
 „Dengekii Jintsu“ gelesen. Einige Ankündigungen
 waren ein ziemlicher Schock!"
-560,2000,,"Sembra che ci sia qualcosa nella
-libreria...",書架後面好像有什麼……,,책장 안쪽에 무언가가 있는 것 같다…,Da liegt etwas im Bücherregal ...
+560,2000,,Sembra che ci sia qualcosa nella libreria...,書架後面好像有什麼……,,책장 안쪽에 무언가가 있는 것 같다…,Da liegt etwas im Bücherregal ...

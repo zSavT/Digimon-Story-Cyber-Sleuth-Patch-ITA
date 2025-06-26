@@ -1,71 +1,76 @@
-ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
-1000,4372,,"La terra sacra degli appassionati, Akihabara!
+﻿ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
+1000,4372,,"La terra sacra degli otaku, Akihabara!
 Finalmente ho fatto il mio pellegrinaggio!",御宅族的聖地，秋葉原！　哎呀，我是第一次來耶！,,"오타쿠의 성지, 아키하바라! 이야, 나 처음 와 봤어!","Akihabara, das gelobte Land für Nerds!
 Endlich bin ich hierher gepilgert!"
-1100,4373,,"Mimi-tan è taaaaanto kawaii! Ho sentito da un fan di Mimi-tan
-sui forum di Mimi-tan che c'è un evento
-privato di Mimi-tan nelle vicinanze! Gureito!","「小蜜蜜」好萌———！！最近小蜜蜜的粉絲會
+1100,4373,,"Mimi-tan è taaaaanto kawaii! Ho sentito da un
+fan di Mimi-tan sui forum di Mimi-tan che c'è
+un evento privato di Mimi-tan qui vicino! Gureito!","「小蜜蜜」好萌———！！最近小蜜蜜的粉絲會
 為了其他同好而在小蜜蜜廣場
 舉辦非官方的活動，太萌啦—————！！",,"「미미땅」완전여신―――!! 최근, 미미땅 팬에 의한
 미미땅 팬을 위한 비공식 이벤트가
 미미땅 포럼에서 개최되어서 굳굳―――――!!","Mimi-Tan ist sooo süß! Ein Mimi-Tan-Fan meinte
 im Mimi-Tan-Forum, dass hier ein privates
 Mimi-Tan-Event in der Nähe stattfindet! Spitze!"
-1200,4374,,"Oh, ciao! Non vuoi venire con me al mio negozio?
-Potremmo persino tenerci per mano, non sarebbe bello?","啊，主人！要不要跟人家一起到店裡去呀～？
+1200,4374,,"Oh, ciao! Non vuoi venire con me al mio
+negozio? Potremmo anche tenerci per
+mano, non sarebbe carino?","啊，主人！要不要跟人家一起到店裡去呀～？
 跟人家手牽手到店裡去吧～？欸～好不好嘛～？",,"아, 주인님! 저랑 함께 가게로 안 갈래요~?
 가게까지 손 잡고 가요~? 응~, 가요~?","Ach, hallo! Kommst du mit zu meinem Geschäft?
 Wir können auch Händchen halten.
 Wäre das nicht schön?"
-1300,4375,,"Benvenuto al Pretty Kitty Maid Cafe!
-È un piacere accompagnarla subito!","我們是女僕咖啡廳「喵咪★喵咪」～！
+1300,4375,,"Benvenuto al Pretty Kitty Maid
+Cafe! È un piacere accompagnarti subito!","我們是女僕咖啡廳「喵咪★喵咪」～！
 現在可以馬上帶主人到座位上去～！　請多多指教～！",,"메이드 카페「냥코★냥코」입니다~!
 지금 바로 안내해 드릴 수 있습니다~! 잘 부탁드립니다~!","Willkommen im Kätzchen-Maid-Café!
 Ich darf dich gleich hineinführen!"
 1400,4376,,"Ooh, cosa ne pensi dei giochi usciti
-questa settimana? Credo che dovrò comprarli...","欸欸，這星期發售的那款遊戲……你覺得如何？
+questa settimana? Penso proprio che dovrò
+comprarli...","欸欸，這星期發售的那款遊戲……你覺得如何？
 我是覺得非買不可說～。",,"저기저기, 이번 주에 발매하는 그 게임… 어떻게 생각해?
 난 반드시 사야 한다고 생각하는데―","Hey, was hältst du von den Spielen, die diese
 Woche rauskamen? Ich glaube, ich muss sie mir
 kaufen ..."
-1500,4377,,"--No! L'ho fatto cadere perché mi hai parlato!
-Ho bisogno di assoluta concentrazione, okay!","哇啊！　都是你跟我說話害我不小心弄掉了啦。
+1500,4377,,"--No! L'ho fatto cadere perché mi hai
+parlato! Ho bisogno di assoluta
+concentrazione, okay!","哇啊！　都是你跟我說話害我不小心弄掉了啦。
 煩耶，你這樣會讓我無法專心啦！",,"…으앗! 네가 말 걸어서 떨어뜨려 버렸잖아
 정말, 정신이 사나워져서 집중할 수가 없잖아!","Nein! Ich habe es fallen gelassen, weil du mit mir
 geredet hast! Ich muss mich wirklich
 konzentrieren, jawoll!"
-1600,4378,,"Sono qui alla ricerca di elettrodomestici.
+1600,4378,,"Sono qui per cercare elettrodomestici.
 La nostra lavatrice si è rotta l'altro giorno.","我今天是來看家電的。
 前陣子家裡的洗衣機壞掉了。",,"오늘은 가전제품을 보러 왔어
 얼마 전에 집의 세탁기가 망가졌거든","Ich suche hier nach Haushaltsgeräten.
 Unsere Waschmaschine ging neulich kaputt."
-1601,4378,,"Il giorno dopo, anche il microonde si è rotto.
-Ieri, il frigorifero è andato fuori uso.","到了隔天，連微波爐也壞掉了。
+1601,4378,,"Il giorno dopo, si è rotto anche il microonde.
+Ieri, è andato fuori uso il frigo.","到了隔天，連微波爐也壞掉了。
 然後，昨天應該是冰箱壞掉了吧？",,"그랬더니 다음 날, 전자레인지도 망가졌어
 그리고, 어제는 냉장고가 망가지는 거 있지?","Einen Tag später dann auch noch die Mikrowelle.
 Und gestern der Kühlschrank."
-1602,4378,,"Due ore fa, la TV è saltata.
-E poi, per colmo di sfortuna, il mio nuovo Digivice ha smesso
-di funzionare senza una ragione apparente.","既然如此，在2小時前電視也該壞掉了對吧！
+1602,4378,,"Due ore fa, la TV è saltata. E poi, per
+colmo, il mio nuovo Digivice ha smesso di
+funzionare senza un motivo apparente.","既然如此，在2小時前電視也該壞掉了對吧！
 乾脆就再附上，我剛買沒多久的Digivice也在剛剛壞掉了如何！",,"이렇게 된 이상 2시간 전에 텔레비전도 망가질 수밖에 없지!
 에이 겸사겸사, 새로 산지 얼마 안 된 디지바이스도
 조금 전에 망가질 수밖에 없는 거지!","Vor zwei Stunden brannte im Fernseher eine
 Sicherung durch. Und dann gab auch noch mein
 Digivice den Geist auf. Einfach so."
-1603,4378,,"Presto, sarò distrutto anche io...ah ah ah...
-Ah ah ah ah ah ah ah ah ah ah ah ah ah ah ah ah...","我也差不多要壞掉了吧……哈哈哈哈哈……
+1603,4378,,"Presto, sarò distrutto anche io...ah ah ah... Ah ah ah
+ah ah ah ah ah ah ah ah ah ah ah ah ah...","我也差不多要壞掉了吧……哈哈哈哈哈……
 哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈……",,"나도 슬슬, 망가져도 되겠지… 하하하하하…
 하하하하하하하하하하하하하하하하하하하하하하하…","Bald werde auch ich kaputt sein ... hahaha ...
 Hahahahahahahahahahahahahahaha ..."
-2100,3015,,"Ah!
-Proprio dopo aver risolto quelle sparizioni,
-abbiamo beccato anche un viscido stalker.","嘿嘿！
+2100,3015,,"Hah! Subito dopo aver sistemato
+quelle sparizioni, abbiamo beccato
+anche un viscido stalker.","嘿嘿！
 神秘失蹤事件解決時，我也順便將跟蹤狂的慣犯一併逮捕囉。",,"헤헷!
 행방불명 사건이 해결됐을 때, 겸사겸사 스토커 상습범도
 체포했어","Ha! Gleich nachdem wir das mit den Vermissten
 aufgeklärt hatten, haben wir auch einen
 unheimlichen Stalker verhaftet."
-2101,3015,,"Starnazzava di essere stato ingannato da una fioraia, ma feccia come quella è una minaccia per le donne... per tutti! L'ho rinchiuso, senza fare domande!","雖然對方一直大喊著「我被花店的店員小姐給欺騙了！」
+2101,3015,,"Starnazzava di essere stato ingannato da una
+fioraia, ma feccia come quella è una minaccia per le
+donne... per tutti! L'ho rinchiuso, senza fare domande!","雖然對方一直大喊著「我被花店的店員小姐給欺騙了！」
 這種莫名其妙的話，不過那種傢伙是女人的……不，他是全人類的敵人！
 所以我就狠狠踹了他一腳後，直接逮捕他。",,"꽃집 점원에게 속았어! 같은 영문 모를 소리를
 떠들어댔는데, 그런 녀석은 여성의… 아니, 인류의 적이니까!
@@ -73,15 +78,15 @@ unheimlichen Stalker verhaftet."
 Solche Mistkerle werden Frauen gefährlich, ja, uns
 allen! Er kam sofort hinter Schloss und Riegel."
 2200,4385,,"Sembra che abbiano trovato tutte le persone che erano
-state rapite. A quanto pare erano state rinchiuse in
-uno strano posto.","在神秘失蹤事件中下落不明的人似乎全都找到了。
+state rapite. Apparentemente erano state rinchiuse in
+uno strano luogo.","在神秘失蹤事件中下落不明的人似乎全都找到了。
 據說他們一直被關在一個不知名的地方。",,"행방불명 사건의 행방불명자, 전원 다 찾은 모양이에요
 아무래도, 어딘가 정체 모를 장소에
 갇혀 있었다고 해요","Anscheinend wurden alle Vermissten gefunden.
 Man hatte sie wohl an einem seltsamen Ort
 festgehalten."
-2201,4385,,"Ma ecco il punto dolente: nessuno ricorda niente.
-È ancora un mistero come così tante persone abbiano potuto
+2201,4385,,"Ma ecco il punto dolente: nessuno ricorda niente. È
+ancora un mistero come così tante persone abbiano potuto
 essere tenute nascoste per così tanto tempo.","但是，在那段期間裡，他們似乎是完全沒有意識的……
 犯人是如何在完全沒人注意到的情況下將那麼多的人
 關到某個地方的，好像直到現在都還是個謎。",,"단지, 그 동안 의식이 전혀 없었던 모양이라…
@@ -89,12 +94,13 @@ essere tenute nascoste per così tanto tempo.","但是，在那段期間裡，�
 어디에 어떻게 감금한 건지는, 아직 수수께끼라고 해요 ","Aber das Problem ist: Niemand kann sich daran
 erinnern. Es ist ein Rätsel, wie so viele Leute
 so lange versteckt werden konnten."
-2202,4385,,"Alcuni di loro hanno menzionato di aver visto dei mostri proprio
-prima di perdere conoscenza... Immagino che fossero
-così spaventati, che ecco come apparivano i loro rapitori.","據說有幾個人在即將失去意識之前看見了「怪物」……
+2202,4385,,"Alcuni di loro hanno menzionato di aver visto dei mostri
+proprio prima di perdere conoscenza... Immagino che fossero
+così spaventati, che è così che apparivano i loro rapitori.","據說有幾個人在即將失去意識之前看見了「怪物」……
 不過他們似乎是因為太過害怕才會把誘拐的犯人看成那樣的。",,"몇 명이, 의식을 잃기 직전에「괴물」을 봤다고 하는데…
 무서운 나머지, 유괴범이 그렇게 보인 모양이에요","Manche meinten, Monster gesehen zu haben, bevor
 sie ohnmächtig wurden ... Vielleicht hat die Angst
 ihnen vorgegaukelt, die Entführer wären Monster."
-2203,4385,,"Comunque, sono solo contento che Akiba sia tornata alla normalità.",總之，這麼一來，秋葉原就恢復和平了，真是太好了～,,어쨌든… 이로써 아키바에 평화가 돌아와서 정말 다행이에요~,"Jedenfalls bin ich bloß froh,
+2203,4385,,"Comunque, sono solo
+contento che Akiba sia tornata alla normalità.",總之，這麼一來，秋葉原就恢復和平了，真是太好了～,,어쨌든… 이로써 아키바에 평화가 돌아와서 정말 다행이에요~,"Jedenfalls bin ich bloß froh,
 dass in Akiba wieder alles beim Alten ist."

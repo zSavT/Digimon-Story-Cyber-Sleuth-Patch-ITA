@@ -1,35 +1,34 @@
-ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
-0,4455,,"Quindi Kamishiro ha contribuito a pagare questo ufficio? Pfft.
-Di sicuro nuotano nei soldi.","這棟建築物，是靠神代企業的捐款才蓋起來的吧？
+﻿ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
+0,4455,,"Quindi Kamishiro ha aiutato a pagare per questo
+ufficio? Pfft. Di sicuro sguazzano nel denaro.","這棟建築物，是靠神代企業的捐款才蓋起來的吧？
 那間公司果然很賺錢啊……",,"이 건물, 카미시로의 원조로 지어진 거였죠?
 역시 엄청 버는구나, 그 회사…","Kamishiro hat also dieses Gebäudes subventioniert?
 Pff. Die haben offenbar Geld wie Heu."
 1,4456,,"Andrò all'avventura ai piani superiori
-mentre mia madre fa i suoi lavori noiosi! È ora di scoprire
-quanti piani ci sono!","趁媽媽去辦手續的時候，
+mentre la mia mamma fa il suo lavoro! È
+ora di scoprire quanti piani hanno!","趁媽媽去辦手續的時候，
 要不要到上一層去冒險呀！
 不曉得有幾層樓哇！",,"엄마가 절차를 밟으러 간 사이에
 위층에 모험하러 가버릴까나-!
 몇 층까지 있는 걸까!","Ich suche mir ein Abenteuer in den oberen
 Etagen, während meine Mama Dinge erledigt!
 Mal sehen, wie viele Etagen es gibt!"
-2,4457,,"Ora, un ufficio alto come questo, scommetto che
-avrebbero una bella vista dall'alto. Mi chiedo se potrei
-imbrogliare per arrivare in qualche modo su quel tetto.","這座建築物的頂樓的風景，看起來很不錯啊，
+2,4457,,"Ora, un ufficio alto come questo, scommetto che avranno
+una bella vista dall'alto. Mi chiedo se potrei
+intrufolarmi in qualche modo fino a quel tetto.","這座建築物的頂樓的風景，看起來很不錯啊，
 有辦法上去頂樓嗎？",,"이 건물 옥상은 전망이 좋은 모양이던데
 옥상에는 갈 수 없는 걸까?","Bei so einem hohen Gebäude ist doch der Ausblick
 von ganz oben bestimmt herrlich. Ob ich wohl
 irgendwie aufs Dach komme ...?"
-3,4459,,"L'Ufficio Metropolitano è ancora in
-costruzione, ma finché non è completato possiamo usarlo
-tutti come forum multiuso.","新都廳大樓雖然還在施工中，
+3,4459,,"L'Ufficio Metropolitano è ancora in costruzione, ma finché non
+sarà finito possiamo usarlo tutti come forum multiuso.","新都廳大樓雖然還在施工中，
 但在建好前的這段期間，
 也能作為多用途的廣場為各位服務。",,"새로운 도청은 아직 공사 도중이지만,
 준공 전까지는 여러분의 다용도 포럼으로
 이용하실 수 있습니다","Die Zentralverwaltung wird noch gebaut, aber bis
 dahin dient sie als Mehrzweckforum."
-200,3045,,"Kishibe è sul tetto. Sbrighiamoci. Non possiamo lasciar
-la scappare!","……岸部好像在屋頂。
+200,3045,,"Kishibe è sul tetto. Sbrighiamoci. Non
+possiamo lasciarla scappare!","……岸部好像在屋頂。
 動作快，絕對不能讓她逃了……！",,"……키시베는 옥상에 있는 것 같아.
 서두르자. 절대 놓치지 않겠어……!","Kishibe ist auf dem Dach. Schnell! Wir dürfen sie
 nicht entkommen lassen!"
@@ -38,14 +37,16 @@ sia vietato alle persone non autorizzate.","咦、咦？　你們想去屋頂？
 那個，非相關人士禁止進入屋頂……",,"네, 네에!? 옥상에 가고 싶다고요!?
 저기, 옥상은 관계자 외엔 출입금지라……","Ihr wollt aufs Dach? Unbefugte Personen
 haben leider keinen Zutritt zum Dach."
-301,3007,,"Sono il Detective Matayoshi. Lasciami passare... o vuoi
-essere responsabile della fuga di un importante criminale?","我是刑警，叫又吉。讓我們過去。
+301,3007,,"Sono il detective Matayoshi. Lasciatemi
+passare... o volete essere responsabili
+della fuga di un pericoloso criminale?","我是刑警，叫又吉。讓我們過去。
 ……還是你想負起讓重大逃犯逃走的責任？",,"나는 형사 마타요시란 사람이다. 여길 통과시켜.
 ……아니면 중대 사건의 범인을 놓친 책임을 
 당신이 대신 져줄 건가?","Ich bin Kommissar Matayoshi. Lassen Sie mich
 durch, oder wollen Sie schuld sein, wenn ein
 gefährlicher Verbrecher entkommt?"
-302,9216,,Un criminale importante?! Ok! Ti mostrerò l'ascensore che va dritto al tetto!,"重、重大逃犯……！？　我、我知道了。
+302,9216,,"Un criminale importante?! Okay! Ti
+mostrerò l'ascensore che va dritto al tetto!","重、重大逃犯……！？　我、我知道了。
 我帶你們到直達電梯！",,"주, 중대 사건의 범인……!? 아, 알겠습니다.
 그러면 직통 엘리베이터로 안내하겠습니다!","Ein gefährlicher Verbrecher?! Na gut! Ich
 zeige Ihnen den Aufzug direkt zum Dach!"
