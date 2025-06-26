@@ -1,0 +1,78 @@
+ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
+1,3005,"","Haha! Caught up with you!","嘿嘿，追上你了。","","헤헷, 따라잡았구만","Haha! Hab ich dich!"
+2,2000,"","?!","！？","","!?","?!"
+3,3005,"","I was about to try to bust through security head-
+on, but it went down on its own just now. I don't
+suppose you did anything?","我試著按部就班突破防範措施，
+結果剛才就自動解除了……你是不是做了什麼？","","하나하나 보안을 돌파하려 했더니
+방금 전에 멋대로 해제됐어… 댁, 뭔가 했어?","Ich wollte die Sicherheitssysteme gerade knacken,
+als sie sowieso ausgefallen sind. Du hast
+nicht zufällig etwas gemacht?"
+4,3005,"","I see. That Digimon you took out must have been
+there in place of normal security.","原來如此……你打敗的，
+一定就是代替防範措施的數碼寶貝。","","그렇구만… 댁이 쓰러뜨린 건 분명
+보안 대신인 디지몬이었던 거야","Aha. Das Digimon, das du besiegt hast, muss
+als Sicherheitssystem fungiert haben."
+5,3005,"","Digimon aren't the sort of thing you can take out
+from the outside. Heck, usually you can't even
+take them out from the inside, either.","對手是數碼寶貝的話，難怪無法從外面解除，
+不過通常在裡面也無法解除就是了。","","그야 디지몬이 상대면, 외부에서 해제하는 건 불가능하겠지
+뭐, 내부에서여도, 보통은 무리겠지만 말이야","Digimon kann man von außen nicht beseitigen.
+Und eigentlich auch sonst nicht."
+6,3005,"","I'm lucky you went on ahead of me!","還好有你走在前頭，幫了我一個大忙。","","댁이 먼저 가 준 덕분에 살았어","Nur gut, dass du vorausgegangen bist!"
+7,3005,"","Okay, we'd better secure a line to Kyoko.
+Hang on a sec, [p].","好，首先要先確保能跟杏子姊通話，
+[p]，稍等我一下。","","좋았어, 일단 쿄코 씨와의 통신을 확보해야겠지
+[p], 잠시 기다려 줘","So, richten wir lieber eine Verbindung zu Kyoko
+ein. Moment, [p]."
+8,3005,"","Still, this is a nasty situation...","話說回來，這件事還真麻煩。","","…그건 그렇고, 성가신 얘기구만","Trotzdem ist das eine missliche Lage hier ..."
+9,2000,"","?","？？","","???","?"
+10,3005,"","If Digimon are being used for security purposes,
+then Kamishiro staff might be using them for all
+sorts of ends.","如果這裡使用數碼寶貝當防範措施……
+就代表神代的人說不定也能自由操縱數碼寶貝。","","이곳의 보안으로서 디지몬이 사용됐다는 건…
+카미시로 녀석들도 디지몬을 자유롭게 다룰 수 있는 걸지도 몰라","Wenn Kamishiro Digimon als Sicherheitssystem
+nutzt, setzt die Firma sie vielleicht auch für
+alles Mögliche andere ein."
+11,3005,"","Could this actually all be part of that jerk
+Suedou's plan?","果然……
+是末堂那傢伙設下的局嗎？","","역시…
+그, 스에도라는 녀석 짓인 걸까","Gehört das vielleicht alles zum Plan dieses
+Unsympathen Suedou?"
+12,2000,"","...","……","","……","..."
+13,3005,"","Hey! I've gotten through.
+Try talking to Kyoko, [p]!","喔！好像連上了！
+[p]，聯絡杏子姊看看！","","오! 연결된 모양이야
+[p], 쿄코 씨에게 연락해 봐!","He! Ich bin durchgekommen. Versuch mal, Kyoko
+zu kontaktieren, [p]!"
+14,3006,"","I've...been...aiting.
+Can you...ear me? Can you hear me?","等——有了！
+聽得……到嗎？聽得到嗎？","","…기다리――있었…다
+들리…가? ――들리는가?","Ich ...be ...ewartet.
+Hört ... mich? Könnt ihr mich hören?"
+15,3005,"","Hey, we did it! We're reading you loud and clear,
+Kyoko.","喔喔！可以可以！我們這邊很順利，杏子姊。","","오오! 됐다됐다! 이쪽은 순조롭다고, 쿄코 씨","Wir haben es geschafft! Wir hören dich, Kyoko."
+16,3006,"","Aha. Well done.
+And now for the passcode...","嗯！非常好，
+再來就是通行密碼了。","","음, 잘 했다
+…남은 건 패스코드, 로군","Aha. Gute Arbeit.
+Und jetzt der Passcode ..."
+17,3005,"","Yeah... Here's hoping that girl does her part.","嗯嗯……希望那個大小姐，
+可以順利幫忙我們。","","아아… 그 아가씨
+제대로 잘 해 주면 좋겠는데","Ja ... Hoffen wir mal, dass die Kleine ihre Aufgabe erledigt."
+18,3006,"","Don't worry about her. She'll do a good job.","沒問題的，她一定會成功。","","괜찮아, 그녀라면 분명 잘 할 거다","Mach dir keine Gedanken.
+Sie wird das ganz gut machen."
+19,2000,"","?","？？","","??","?"
+20,3006,"","She's a bit wet behind the ears, but she's
+desperate, and there's nothing scarier--and no one
+most dependable--than a novice who's desperate.","她雖然是外行人，但比誰都要拼命，
+沒有什麼比拼命的外行人更可怕……更可靠的。","","그녀는 풋내기지만, 그 누구보다도 필사적이다
+필사적인 풋내기보다 무서운 건… 믿음직스러운 건 없다","Sie ist noch unbedarft, aber sie ist verzweifelt.
+Verzweifelte Grünschnäbel sind furchterregend –
+und zuverlässig."
+21,3005,"","Haha. You may have a point, there.","哈哈，說的也是。","","하핫, 그럴지도 모르겠구만","Haha. Da hast du wohl Recht."
+22,3006,"","I'll check with her for the passcode.","關於通行密碼，我會去跟她確認。","","패스코드에 관해서는, 내가 그녀에게서 확인해 두겠다","Ich frage sie nach dem Passcode."
+23,3005,"","Okay then, we'll head off to the ""secret room""!","好，那我們
+就先往“機密屋”前進吧！","","좋았어, 그럼 우리들은
+""비밀의 방""으로 향하도록 하자고","Gut, wir machen uns auf zum „Geheimraum“!"
+24,3005,"","I trust she'll get us the passcode, right?","相信她一定可以弄到通行密碼的！","","…그 녀석이 패스코드를 손에 넣어 줄 거라고 믿고서, 말이지","Den Passcode wird sie uns besorgen, ja?"

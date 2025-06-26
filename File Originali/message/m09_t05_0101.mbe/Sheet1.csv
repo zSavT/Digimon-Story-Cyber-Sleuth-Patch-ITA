@@ -1,0 +1,275 @@
+ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
+1,3005,"","Sorry to keep you waiting.
+Took some time to do a little prep work.","抱歉，讓你們久等了，
+事前調查花了點時間。","","기다리게 해서 미안
+좀 사전 조사에 시간이 걸려서 말이지","Tut mir leid, dass ich euch warten lassen habe.
+Ich habe etwas Zeit für Vorbereitungen gebraucht."
+2,3006,"","That's fine. I am really looking forward to seeing
+your Kamishiro infiltration plan.","無所謂，我對於你的神代潛入計畫，
+有相當大的期待。","","상관없어, 네 카미시로 잠입 계획에는
+나도 기대하는 점이 많거든","Das ist schon in Ordnung. Ich freue mich auf
+deinen Plan, wie wir an Kamishiro rankommen."
+3,3003,"","Excuse me, but what did you need from me?","請問……為什麼要找我來呢？","","…저기, 전 어째서 불린 거죠?","Entschuldigung, aber wozu genau brauchst du mich?"
+4,3005,"","Ah, Yuuko Kamishiro. Sorry to have called you here
+out of the blue.","突然把妳叫來真是抱歉，神代悠子小姐。","","갑자기 불러서 미안하구만, 카미시로 유코 씨","Ach, Yuuko Kamishiro. Entschuldige, dass ich dich
+so plötzlich hergerufen habe."
+5,3005,"","So, we have the Cyber Sleuth's Connection Jump, my
+hacking skills, and your connections.","電腦偵探的「登入跳躍」、
+我的「駭客技能」、加上妳的「門路」……","","전뇌탐정의「커넥트 점프」
+내「해킹」, 그리고 댁의「인맥」…","Also, unser Cyber-Detektiv hier beherrscht
+den Verbindungssprung, ich bin gut im Hacking
+und du hast Beziehungen."
+6,3005,"","My plan involves using all three of these in
+concert for the first time.","只要將這三個要素加起來，就能實現這個計畫。","","이 계획은 그 3개가 합쳐져야, 비로소 실현되거든","Mein Plan sieht vor, diese drei zum ersten
+Mal zu kombinieren."
+7,3003,"","Connection Jump?","登入、跳躍？","","커넥트, 점프…?","Verbindungssprung?"
+8,3005,"","Ah, you don't know about that?
+Explain it to her, [p].","啊啊……妳不知道啊？
+[p]，你來說明一下。","","아아, 당신은 모르고 있었나
+[p], 설명해 줘","Ach, das weißt du noch nicht?
+Erklär es ihr, [p]."
+9,3003,"","Half-cyber body?
+Is that even possible?","半電腦體？
+這、這種事居然會發生在現實生活中……","","…반 전뇌체!?
+그, 그런 게 현실에서 일어나다니…","Ein Körper, der halb digital ist?
+Ist das überhaupt möglich?"
+10,3003,"","I see. I think understand now.
+That's why you've been able to move about so...
+mysteriously, at times.","原來如此，但這樣我就能理解了，
+難怪你有時候會使用不可思議的移動。","","…과연, 하지만 납득했어요
+그래서 가끔가다 불가사의한 이동을 했었던 거군요","Aha. Jetzt verstehe ich, glaube ich.
+Deshalb ist es manchmal ... geheimnisvoll,
+wo du erscheinst und wieder verschwindest."
+11,3003,"","So then you have EDEN Syndrome as well...","EDEN症候群……你“也”——","","EDEN 증후군… 당신""도""―","Dann leidest du also auch am EDEN-Syndrom ..."
+12,2000,"","?","？？","","??","?"
+13,3003,"","No, it's nothing.
+I'm sorry for interrupting. Please continue.","不，沒什麼。
+不好意思，打斷你們談話，請繼續吧。","","…아뇨, 아무것도 아녜요
+얘기를 방해해서 죄송해요. 계속해 주세요","Ach, nichts.
+Entschuldige die Unterbrechung.
+Erzähl bitte weiter."
+14,3005,"","I'll explain the main thrust of the strategy now.","那接下來說明作戰內容。","","그럼, 작전의 본론을 설명하겠어","Ich erkläre jetzt die grundlegende Strategie."
+15,3005,"","Our target today is the secret database on
+Kamishiro's Avalon server.","這次入侵計畫的最終目標就是
+神代的阿瓦隆伺服器裡的機密資料庫。","","이번 침입 플랜의 골은 카미시로의
+아발론 서버에 있는 기밀정보 데이터베이스","Unser Ziel ist die geheime Datenbank auf dem
+Avalon-Server von Kamishiro."
+16,3005,"","Beyond that is a top secret area known as the
+""secret room.""","當中有個更機密的區域，
+通稱“機密屋”。","","―의, 더욱 안쪽에 있는 톱 시크릿 에어리어
+통칭 ""비밀의 방""이다","Dahinter befindet sich ein hochgeheimer Bereich,
+den man „Geheimraum“ nennt."
+17,3003,"","The ""secret room""?","“機密屋”？","","""비밀의 방""…?","„Geheimraum“?"
+18,3005,"","Yeah. Kamishiro's most confidential area.","也就是神代最高機密的區域，","","즉, 카미시로의 최고 기밀 에어리어란 거지","Ja. Dort liegen die vertraulichsten Daten von
+Kamishiro."
+19,3005,"","In other words, the location of the folder for
+every Kamishiro CEO, including Kishibe.","換句話說，就是歷代CEO……
+現在是岸部的個人文件夾。","","바꿔 말하자면, 역대 CEO…
+지금은 키시베의 개인 폴더야","So zum Beispiel auch die Ordner über die
+Geschäftsführer von Kamishiro, darunter auch
+Kishibe."
+20,3005,"","Once that folder is open, you all can dive into
+Kamishiro's confidential database.","我聽說杏子姊曾經
+潛入神代的機密資料庫裡。","","듣자 하니, 쿄코 씨들은 전에 카미시로의
+기밀정보 데이터베이스까지는 다이브를 했었던 모양이잖아","Sobald der Ordner geöffnet ist, könnt ihr euch auf
+Kamishiros vertrauliche Datenbank stürzen."
+21,3005,"","Man, this detective agency is turning out to be 
+scarier than any hacker team I know...","真是的，這個偵探事務所，
+比外面的駭客集團還要可怕。","","…정말이지, 어디에나 있는 해커 팀보다
+무서운 탐정사무소구만, 여긴","Dieses Detektivbüro wird langsam furchterregender
+als jedes Hackerteam, das ich kenne ..."
+22,3006,"","I'll take that as a compliment.
+Yet that operation still ended with nothing to
+show for it.","我就坦率地接受你的稱讚吧！
+但那時的成果可說是無疾而終。","","찬사는 솔직하게 받아 두도록 하지
+…하지만, 그때의 성과는 결국, 헛수고로 끝났거든","Das nehme ich mal als Kompliment.
+Aber der Einsatz hatte ja letztendlich doch
+nichts gebracht."
+23,3006,"","Now I get it.
+You've got your eyes on an even deeper level.","原來如此，
+所以這次才以更深處的區域為目標？","","그렇군
+…그래서, 더욱 안쪽에 있는 에어리어에 주목했다는 거로군","Jetzt verstehe ich.
+Du hast es darauf abgesehen, auf eine noch
+tiefere Ebene zuzugreifen."
+24,3005,"","That's the plan.","就是這樣。","","그런 거지","Das ist zumindest der Plan."
+25,3005,"","Using a Connection Jump, we can get in as far as
+the confidential database.","只要使用登入跳躍，
+就有可能入侵機密資料庫。","","커넥트 점프를 사용하면
+기밀정보 데이터베이스까지 침입하는 건 가능해","Mit einem Verbindungssprung schaffen wir es bis zur
+vertraulichen Datenbank."
+26,3005,"","First, we use our Kamishiro connections to get us
+invitations to the preview event at Kamishiro HQ.","首先，先使用神代的「門路」，用特別招待的方式，
+邀請我們參加神代總公司體驗會吧！","","우선, 카미시로의「인맥」을 사용해서, 특별초대라는 명목으로
+우리들을 카미시로 본사의 체험회에 초대해 줘","Erst nutzen wir unsere Beziehungen bei Kamishiro,
+um Einladungen zu diesem Schnupper-Event
+im Kamishiro HQ zu bekommen."
+27,3005,"","Rie Kishibe, the CEO of Kamishiro, mentioned it,
+right? It's a preview of the big update for EDEN.","神代的CEO岸部里繪不是說了嗎？
+會舉辦EDEN的大規模更新體驗會。","","카미시로의 CEO, 키시베 리에가 말했었잖아?
+EDEN의 대규모 업데이트의 체험회 말이야","Das hatte Rie Kishibe, Geschäftsführerin von
+Kamishiro, doch erwähnt, oder? Eine Vorschau auf
+das umfassende Update für EDEN."
+28,3005,"","We'll have [p] infiltrate the
+confidential database from a terminal there.","[p]就從那個會場的終端，
+入侵機密資料庫。","","[p]는(은) 그 회장의 단말기로부터
+기밀정보 데이터베이스로 침입해 줘야겠어","Dann dringt [p] über ein Terminal
+dort in die vertrauliche Datenbank vor."
+29,3005,"","Once in, send an invitation URL for the database
+to me, and then I'll be able to get in as well.","入侵之後，再將機密資料庫的邀請URL轉寄給我，
+這麼一來，我也可以入侵。","","침입하면, 기밀정보 데이터베이스의 초대 URL을 나에게 전송해 줘
+그러면, 나도 침입할 수 있게 돼","Du schickst mir dann eine URL-Einladung für die
+Datenbank, dann komme ich auch rein."
+30,3006,"","Then you'll access the secret room, correct?","接下來就是潛入“機密屋”了。","","그 다음, ""비밀의 방""에 잠입한다는 거로군","Und dann gelangst du in den Geheimraum, ja?"
+31,3005,"","Yeah. Once we have the data kept there, we should
+be able to solve this whole thing, including
+figuring out Suedou's true motives.","沒錯……只要將保管在那裡的資訊弄到手，
+末堂的意圖和神代的謎團就都可以解開了。","","아아… 그곳에 보관되어 있는 정보만 입수하면
+스에도의 의도도, 카미시로의 비밀도, 모두 풀릴 거야","Ja. Sobald wir die Daten dort haben, sollte sich
+das Puzzle zusammenfügen. Auch, was Suedous
+wahre Beweggründe betrifft."
+32,3003,"","...","……","","……","..."
+33,3005,"","For that, we're gonna need to tap your connections
+once again, Yuuko.","另外還想請妳再使用一個「門路」。","","그리고, 댁은 한 번 더
+「인맥」을 써 줬으면 해","Aber dazu brauchen wir wieder einmal deine
+Beziehungen, Yuuko."
+34,3003,"","?","？？","","??","?"
+35,3005,"","The passcode that gets us into the secret room
+changes every day, right?","進入“機密屋”的通行密碼似乎每天都在改變。","","""비밀의 방""에 들어가기 위한 패스코드는
+매일 변경되는 것 같거든","Der Passcode für den Geheimraum wird täglich
+geändert, stimmt’s?"
+36,3005,"","The only one who knows the passcode is Kishibe.
+We need you to get close to her. You're the only
+one of us who can.","而知道通行密碼的只有CEO岸部……
+能夠接近岸部的，就只有妳。","","패스코드를 갖고 있는 건, CEO인 키시베 뿐…
+키시베에게 다가갈 수 있는 건, 댁 뿐이야","Die Einzige, die ihn kennt, ist Kishibe. Du musst
+an sie rankommen. Von uns bist du die Einzige,
+die das kann."
+37,3003,"","You want me to steal the passcode from her?","你是要我偷出通行密碼嗎？","","…저에게, 패스코드를 훔쳐 내라는 거죠?","Ich soll ihr den Passcode abnehmen?"
+38,3005,"","Well, that's the plan.","嗯，就是這樣。","","…뭐, 그런 거지","So sieht der Plan aus."
+39,3005,"","Once we're in the top secret area, I'll override 
+the security so we can communicate with Kyoko.","只要進入最高機密區域，我就會解除那裡的防範措施，
+這樣就能跟杏子姊連線了。","","최고 기밀 에어리어에 들어가면, 쿄코 씨와 통신할 수 있도록
+보안을 해제해 둘게","Sobald wir im hochgeheimen Bereich sind, heble ich
+die Sicherheitssysteme aus, damit wir mit
+Kyoko kommunizieren können."
+40,3005,"","You can tell us the passcode via Kyoko.","然後再透過杏子姊，告訴我們通行密碼。","","쿄코 씨를 경유해서, 우리들에게 패스코드를 알려 줘","Dann kannst du uns den Passcode über Kyoko
+vermitteln."
+41,3003,"","...","……","","……","..."
+42,3005,"","Huh? What is it? Don't tell me you've suddenly
+come down with a case of cold feet?","嗯？怎麼了？事到如今，
+妳不會說沒辦法幫我們吧？","","…응? 왜 그래? 이제 와서 협력 못해~ 라는
+소릴 하는 건 아니겠지?","Hm? Was ist? Sag bloß nicht, dass du plötzlich
+kalte Füße bekommst?"
+43,3003,"","No, that won't be an issue.","不是的，我可以幫忙。","","…아뇨, 그건 상관없습니다만","Nein, darum braucht ihr euch nicht sorgen."
+44,3003,"","But I do have one request.","只是，我有個請求。","","…한 가지, 부탁이 있어요","Aber eine Bitte hätte ich."
+45,2000,"","?","？？","","??","?"
+46,3003,"","My father, Satoru Kamishiro... His notes and
+research data should still be in the secret room.","在那個“機密屋”裡，
+應該有我父親神代悟留的筆記和研究資料。","","""비밀의 방""에는, 아마도 아버지의…
+카미시로 사토루의 수기나 연구 데이터도 남아 있을 거예요","Mein Vater, Satoru Kamishiro ... Seine Notizen
+und Forschungsdaten sollten auch noch im
+Geheimraum sein."
+47,3003,"","Could you also get those for me?","可以幫我一起弄到手嗎？","","그것도 같이 입수해 주실 수 있나요?","Könntet ihr die für mich auch besorgen?"
+48,3003,"","I'm sure the truth about my father's suicide and
+info related to the EDEN Syndrome is in there.","裡面應該會有父親自殺的真相，
+以及跟EDEN症候群相關的資訊。","","거기에는 분명, 아버지의 자살에 대한 진상이나
+EDEN 증후군에 관한 정보도 있을 테니까요","Die Wahrheit über den Selbstmord meines Vaters
+und Informationen über das EDEN-Syndrom sind
+dort ganz bestimmt auch enthalten."
+49,3006,"","I see. We were certainly unable to find anything
+conclusive last time.","原來如此……
+上次的確沒有找到決定性的資訊。","","그렇군… 확실히 저번에는
+결정적인 정보를 찾아낼 수 없었다","Verstehe. Letztes Mal konnten wir jedenfalls
+nichts Konkretes finden."
+50,3006,"","If it's anywhere, it'll probably be in the secret
+room.","“機密屋”裡面的話，搞不好就會有……","","""비밀의 방""에라면, 어쩌면, 이라는 건가…","Wenn überhaupt, dann finden wir es wahrscheinlich
+im Geheimraum."
+51,3005,"","Okay, I'm down with that.
+It won't make the mission any harder, anyway.","嗯嗯，這件事沒有問題，
+不會多花多少工夫的。","","그래, 그런 거라면 상관없어
+수고가 더 드는 것도 아니니까","Ich habe keine Einwände.
+Die Mission wird deshalb auch nicht schwerer."
+52,3005,"","Well, we don't know if the data is even there to
+begin with, but...","反正也不知道那裡是不是真的有那些資料。","","뭐, 무엇보다, 그곳에 그 데이터가
+정말로 있을지 어떨지는 모르지만","Wir wissen zwar nicht, ob die Daten dort überhaupt
+sind, aber ..."
+53,3003,"","You're right.
+There's one other possible data storage site.","說的也是。
+其實我還知道一個可能保管資料的地方……","","그러네요
+…하나 더, 데이터의 보관 장소에 대해 짐작 가는 데가 있습니다만…","Du hast recht.
+Es gibt noch einen möglichen Ort,
+wo Daten verwahrt werden."
+54,2000,"","?","？？","","??","?"
+55,3003,"","The Valhalla server, which is the core for EDEN's
+quantum processing and control.","EDEN的量子演算處理及控制中樞，
+「瓦爾哈拉伺服器」。","","EDEN의 양자적 연산처리 및 제어의 중추인
+「발할라 서버」","Der Walhalla-Server, auf dem die Steuerung
+und Quantenprozessoren für EDEN hinterlegt sind."
+56,3003,"","That server's got to have all of EDEN's history
+recorded on it, dating back to the very beginning.","我記得EDEN從初期開始的所有紀錄，
+都留在那裡——","","EDEN 초기부터의 온갖 이력을 기록하는
+그곳에라면 확실히―","Auf dem Server muss die gesamte Chronik von
+EDEN verzeichnet sein, ganz von Anfang an."
+57,3005,"","Whoa, whoa, whoa, hang on a second!","喂喂喂，等一下！","","…야야야, 잠깐 기다려!","He, he, Moment mal kurz!"
+58,3005,"","The Valhalla server? Oh, sure, go right ahead and
+name-drop that like it's nothing, why don't you?","瓦爾哈拉伺服器，
+妳居然搬出這麼可怕的名字。","","발할라 서버라니
+꽤나 위험한 이름을 꺼냈구만","Der Walhalla-Server? Du erwähnst den so beiläufig,
+als ginge es um ein Flughafen-WLAN."
+59,3005,"","Even the most legendary of hackers couldn't hope
+to get close to that thing. It's got the toughest 
+security in the world, all in one place!","那可是連傳說等級的駭客也無法接近，
+全球數一數二超難破解的伺服器耶！","","그건, 레전드 클래스의 해커도 접근할 수 없는
+세계 유수의 최고난도 보안의 덩어리라고!?","Selbst die legendärsten Hacker kommen an das Ding
+nicht annähernd ran. Es hat die schärfsten
+Sicherheitssysteme auf der ganzen Welt!"
+60,3006,"","Oh? Admitting defeat already? That's not like you.
+What, did you have a bad experience there?","喔？自信滿滿的你居然會說喪氣話，還真難得，
+你吃過苦頭嗎？","","호오? 자신가인 네가 약한 소리를 내다니, 드문 일인걸
+호되게 당한 경험이라도 있는 건가?","Aha? Geben wir schon auf? Das passt aber gar nicht
+zu dir. Dort schon schlechte Erfahrungen
+gemacht?"
+61,3005,"","Who asked you? It doesn't matter. That server is 
+no-go. It's not something we can just hack into.","吵、吵死了！反正那裡不行啦！
+至少那不是駭客技術可以闖進的地方。","","시, 시끄럽구만! 어쨌든, 거긴 안 돼
+적어도, 해킹으로 어떻게 할 수 있는 곳이 아니야","Willst du mich ärgern? Egal.
+Der Server ist tabu. Den können wir nicht einfach
+hacken."
+62,3003,"","But if a Digimon program was used for the hacking,
+there might be a way...","可是，我們一定沒辦法應付
+使用數碼寶貝程式的駭客技術……","","……하지만, 디지몬 프로그램을 이용한 해킹에는
+분명 대처할 수 없을 거예요…","Aber wenn zum Hacken ein Digimon-Programm benutzt
+wird, gäbe es vielleicht einen Weg ..."
+63,3005,"","What did you say?","妳說什麼？","","뭐라고?","Was hast du da gesagt?"
+64,3003,"","Nothing...","沒有……","","아뇨…","Nichts ..."
+65,3005,"","It's a gamble just infiltrating the secret room.
+Asking us to hit the Valhalla server is another
+matter entirely.","總之，光是潛入“機密屋”，就已經像是在走鋼索了。
+如果要我去瓦爾哈拉伺服器，那就另當別論。","","…어쨌든, ""비밀의 방""에 잠입하는 시점에서 이미 모험이라고
+발할라 서버까지 가라고 한다면, 얘기는 별개야","Das mit dem Geheimraum ist schon riskant.
+Der Walhalla-Server ist noch einmal ein ganz
+anderes Kaliber."
+66,3005,"","I want nothing to do with it.","我會退出。","","난 손을 떼겠어","Damit will ich nichts zu schaffen haben."
+67,3006,"","Hmm...","嗯……","","…흐음","Hm ..."
+68,3006,"","If you bail on us now, we lose everything.
+Anyway, our target today is the secret room.","如果你在這裡退出，那就得不償失了。
+這次就先鎖定“機密屋”為目標吧！","","……여기서 네가 빠지면 모두 헛수고가 돼
+그럼 이번엔 ""비밀의 방""으로 타깃을 좁히도록 하지","Wenn du jetzt einen Rückzieher machst, können wir
+alles vergessen. Heute peilen wir jedenfalls den
+Geheimraum an."
+69,3003,"","That's all there is to it, then.
+He who runs after two hares will catch neither.","也只能這樣了。
+逐二兔者，不得其一……","","…어쩔 수 없네요
+두 마리 토끼를 쫓는 자는 한 마리도 얻지 못한다…","Dann bleibt es dabei.
+Wer zwei Hasen hinterherläuft, fängt keinen."
+70,2000,"","Attempting two tasks, accomplishing neither?
+A man cannot serve two masters?
+He who runs after two hares will catch neither?","應該是魚與熊掌，不可兼得啊！
+這就叫貪多必失？
+逐二兔者，不得其一嗎？","","이것저것 탐내면 하나도 못 얻는다, 지?
+욕심이 깊으면 재앙이 찾아온다, 라는 거?
+두 마리 토끼를 쫓는 자는 한 마리도 얻지 못한다, 지?","Man muss sich auf eine Sache konzentrieren?
+Man kann nicht zwei Meistern gleichzeitig dienen?
+Wer zwei Hasen hinterherläuft, fängt keinen?"
+71,3003,"","That's fine with me.","我可以接受。","","저는, 그걸로 상관없어요","Ich bin dabei."
+72,3005,"","Okay, then let's get this mission started!","好……那就開始作戰啦！","","좋았어… 그럼 작전 개시다!","Gut, dann legen wir mal los mit der Mission!"

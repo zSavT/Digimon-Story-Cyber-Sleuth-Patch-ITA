@@ -1,0 +1,752 @@
+ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
+100,3002,"","No...
+This...isn't supposed to happen...","我受夠了……
+不該來這種地方的……","","이제 싫어…
+이런 곳에… 오는 게 아니었어…","Nein ...
+Das ... ist so nicht gedacht ..."
+150,4008,"","Looking for your friend? If they're not here,
+did you try looking in the community area?","你正在找你的朋友？
+如果沒有在這裡的話，會不會是在「公共區域」那裡啊？","","친구를 찾고 있다고?
+여기에 없다면「커뮤니티 에어리어」에 있지 않을까?","Suchst du jemanden?
+Hast du im Gemeinschaftsbereich schon geschaut?"
+151,4008,"","It's an open area just like the entrance,
+so you can get there from any terminal.","那裡跟入口處一樣是開放區域，
+所以隨時都可以從移動點過去哦。","","엔트런스와 마찬가지로 오픈 에어리어니까
+발착 포인트에서, 언제든지 갈 수 있어","Das ist ein freier Bereich, wie der Eingang.
+Du kommst also von jedem Terminal aus dorthin."
+1100,5004,"","File 001: EDEN Syndrome","File:001 【關於EDEN症候群】","","File:001 【EDEN 증후군에 관해】","Akte 001: EDEN-Syndrom"
+1101,5004,"","A mysterious illness whereby people suddenly fall
+into comas while connected to the EDEN network.","EDEN症候群是指人們在使用EDEN網路系統時，會陷入
+意識不明的狀態，並且逐漸變得衰弱的怪病。","","EDEN 네트워크의 이용중에 의식불명에 빠져
+쇠약해져 가는 기이한 병","Eine rätselhafte Krankheit, die Nutzer des
+EDEN-Netzwerks plötzlich ins Koma fallen lässt."
+1102,5004,"","Originally, the term was given to the incessant
+vomiting and other symptoms common to those
+unused to spending time in the Digital World.","醫界原本是用來稱呼不習慣使用電腦空間
+所引起的嘔吐不斷等諸多症狀。","","원래는, 익숙지 않은 전뇌공간을 이용하는 것으로 나타나는
+구역질이나 현기증 등의 여러 증상을 총칭하여
+EDEN 증후군이라 부르고 있었다","Ursprünglich waren mit dem Begriff die andauernde
+Übelkeit und andere Symptome gemeint, die vor der
+Gewöhnung an die digitale Welt häufig auftreten."
+1103,5004,"","But now, EDEN Syndrome is used to describe the
+more serious malady of inexplicable loss of
+consciousness while connected to the EDEN Network.","但從某個時期開始，在使用EDEN網路系統時陷入意識不明、
+昏倒狀態的病況日漸嚴重，於是該名詞便被用來稱呼此種症狀。","","어느 시점부터 중병화하여, EDEN 네트워크의 이용중에
+의식불명에 빠져 혼절해 버리는 증상에 쓰이게 되었다","Jetzt beschreibt EDEN-Syndrom die deutlich
+ernstere, unerklärliche Ohnmacht, die während des
+Aufenthalts im EDEN-Netzwerk auftritt."
+1104,5004,"","After extended time in a coma, the body weakens,
+becoming more susceptible to complications.
+In the worst cases, this has led to death.","其中甚至還有因長期昏迷而引起衰弱或
+併發症而死亡的案例。","","장기적인 혼수 상태로 인해, 쇠약이나 합병증을 일으켜
+사망하는 예도 있다","Ein länger andauerndes Koma schwächt den Körper.
+Dadurch werden Komplikationen wahrscheinlicher.
+In den schlimmsten Fällen endet dies tödlich."
+1105,5004,"","File 002: Treatments for EDEN Syndrome","File:002【EDEN症候群的應對與治療方法】","","File:002【EDEN 증후군의 대처와 치료법】","Akte 002: Behandlungsmöglichkeiten für das
+EDEN-Syndrom"
+1106,5004,"","No effective treatment has been found for EDEN
+Syndrome. Research continues into treatments
+and causes of this unexplained illness.","目前尚未發現治療的方法。
+醫界希望政府將其歸為未分類疾病，
+派人盡全力研究其應對方式及發病原因。","","현재, 치료법은 발견되지 않았다
+미분류 환자로서, 정부의 인가를 받아
+대응과 원인을 규명해 가도록 한다","Für das EDEN-Syndrom ist bislang keine wirksame
+Behandlungsmethode bekannt. Es wird weiter daran
+geforscht, wie auch an den Ursachen der Krankheit."
+1107,5004,"","File 003: Association with Kamishiro Enterprises","File:003【與神代企業的合作方針】","","File:003【카미시로 엔터프라이즈와의 협력방침】","Akte 003: Verbindung zu Kamishiro Enterprises"
+1108,5004,"","EDEN is a large-scale digital space
+operated by Kamishiro Enterprises.","EDEN是由神代企業所經營的
+大規模電腦空間。","","EDEN은 카미시로 엔터프라이즈가 운영하고 있는
+대규모 전뇌 스페이스이다","EDEN ist ein umfassender digitaler Raum, der von
+Kamishiro Enterprises betrieben wird."
+1109,5004,"","Deeply affiliated with governmental agencies,
+EDEN's business areas are expanding quickly.","該電腦空間與行政機關的合作非常緊密，
+將EDEN作為營業區域的企業也不斷增加。","","행정기관과의 제휴도 탄탄하여
+EDEN을 영업 에어리어로 사용하고 있는 기업도 증가하고 있다","Aufgrund der engen Verbindungen mit den Behörden
+weiten sich EDENs Geschäftsbereiche rapide aus."
+1110,5004,"","Immediate improvements and user training must be
+provided to warn users against long login times.","為了盡快改善缺失、降低用戶的登入時間，
+營運單位應該要徹底對每位用戶進行宣導。","","한시라도 빠른 개선과, 장시간의 로그인에 대해 주의 권고하도록
+운영측에 의한 이용자의 지도가 철저하게 이루어져야 한다","Sofortige Verbesserungen sowie Nutzertraining
+sind vonnöten, um Nutzer vor langen Sitzungen
+zu warnen."
+1111,5004,"","Furthermore, the EDEN interface uses Kamishiro
+Enterprises' proprietary technology, making
+future research sharing problematic.","此外，由於EDEN所使用的介面是採用
+神代企業所開發出來的獨特技術，
+因此與研究人員間的資訊共享也將成為今後的課題之一。","","또한, EDEN을 이용할 때 사용되는 인터페이스는
+카미시로사의 독자적인 기술이 사용되고 있기 때문에
+연구원과의 정보 공유도 앞으로의 과제이다","Weiterhin verwendet EDEN firmeneigene Technologie
+der Kamishiro Enterprises, was zukünftige
+Publikationen erschwert."
+2150,3002,"","Lalalalaaaa! The saaad hummingbiiird!
+Hm? That's the newest hit Jimiken single!
+You should pick it up!","哼哼哼～♪　苦～戀～的～蜂～鳥～♪
+啊，這是我現在超迷的「Jimmy Ken」的歌！
+你也聽聽看嘛！","","훙훙후~웅♪　애~달프~은~ 허~밍 버~~드~♪
+아, 이거 지금 엄청 빠져 있는「지미KEN」의 곡이야!
+너도 한번 들어 봐!","Lalalalaaa! Der kurzlebige Kolibriii!
+Hm? Das ist der neueste Hit von Jimiken!
+Du solltest ihn dir holen!"
+2200,2000,"","That should be enough saying hi.
+Let's get back to the office.","重要的地方應該都打過招呼了……回事務所吧。","","인사는 이 정도면 충분하겠지… 사무소로 돌아가자","Ich denke, ich habe mich hinreichend bekannt gemacht.
+Ich sollte ins Büro zurück gehen."
+2300,3017,"","It's kinda cool having a detective as a buddy!","有個當偵探的朋友會讓人很興奮呢！","","탐정 친구가 있다니, 왠지 두근거리는걸!","Ziemlich cool, einen Detektiv zu kennen!"
+2350,3018,"","...","…………","","………","..."
+2400,2000,"","Guess everything worked out! Time to report back.","看來沒什麼大問題！　回去報告吧。","","특별히 문제는 없는 것 같아…! 돌아가서 보고하자","Es hat wohl alles funktioniert!
+Zeit, mich wieder zu melden."
+3010,3002,"","Guess he's not on level one...
+Well, no problem! We'll just keep going!","看來不在Lv. 1呢。
+好、好吧～！　那就往更深一點的地方找看看吧！","","Lv.1에는 없는 것… 같네
+조, 좋았어~! 좀 더 안쪽으로 가 보자!","Dann ist er wohl nicht auf Ebene eins ...
+Kein Problem! Dann schauen wir halt weiter!"
+3011,3002,"","So...this is Kowloon level two?
+Seems like the security level is higher here...
+I'm counting on you, okay?","這裡是Kowloon Lv. 2……嗎？
+保全等級好像會上升……
+那、那就麻煩你了！","","쿠롱 Lv.2… 였던가?
+보안 레벨이 높아지는 모양이야…
+자, 잘 부탁해! 너!","Das ist also Ebene zwei von Kowloon?
+Dieser Bereich scheint stärker gesichert zu
+sein ... Ich verlasse mich auf dich, ja?"
+3020,3002,"","Not on level two either?
+Then...nothing else to do but level three... Yay.","連Lv. 2也沒有嗎……
+再下去是Lv.3對吧……　我、我們去看看吧……","","Lv.2에도 없…나…
+다음은 Lv.3…이지… 가, 가 보자…","Auf Ebene zwei auch nicht?
+Dann müssen wir wohl auf Ebene drei ...
+Na großartig."
+3090,2000,"","It's happening on the other side of that crowd...
+Let's go!","事件似乎是發生在那個人群的對面……
+快過去看看吧！","","사건은 저 인파의 너머에서 일어난 모양이야…
+가 보자!","Da, auf der anderen Seite der Menschenmenge ...
+Gehen wir!"
+4000,3009,"","As I've explained, a ""Digital Wave"" is energy
+used for transmitting digital information...","“數碼波”是用來搬運數碼情報的能量，
+這點我已經說明過了，但是……","","""디지털 웨이브""가 디지털 정보를 옮기기 위한
+에너지라는 건 설명했습니다만…","Wie ich schon erklärt habe, ist eine „digitale
+Welle“ Energie, über die Daten übertragen
+werden ..."
+4001,3009,"","We call it a wave, though in truth it is unknown
+whether waves or particles are transmitted. There
+is no way to confirm it visually, after all.","雖然被轉換成了波，
+但我們並不清楚實際上是波形還是粒子。
+因為我們無法以肉眼確認。","","파도로 여겨지고 있지만
+실제로 물결 모양인지 입자인지는 불명입니다
+저희들의 눈으로는 확인이 불가능하니까요","Wir nennen sie eine Welle, dabei ist nicht sicher,
+ob Wellen oder Partikel übertragen werden.
+Wir können sie schließlich nicht sehen."
+4002,3009,"","If we really could see a Digital Wave,
+I wonder what it would look like... Heheh...","如果能以肉眼確認數碼波，
+那究竟會是何種模樣的呢？呵呵呵。","","만약 디지털 웨이브를 눈으로 확인하는 것이 가능해진다면…
+어떻게 보일까요… 쿠후후","Wie eine digitale Welle wohl aussehen würde,
+wenn sie sichtbar wäre ...? Hehe ..."
+4010,3009,"","There is a clear correlation between the white
+boy and the Eaters. Perhaps we should even
+consider the boy a ""harbinger"" of the Eaters.","白色少年與侵食者的出現有著明確的關連。
+白色少年應該可以視為是侵食者即將出現的“預兆”吧……","","하얀 소년과 이터의 출현에는 명확한 상관관계가 있습니다
+하얀 소년은, 이터 출현의 ""전조""라고 봐도 되겠지요…","Zwischen dem bleichen Jungen und den Verschlingern
+besteht ein klarer Zusammenhang. Vielleicht
+ist er sogar eine Art Vorbote."
+4011,3009,"","The full implications of this are unclear, but
+what cannot be questioned is that they are both
+digital entities. Data programmed using 0s and 1s.","目前還不知道那代表著何種意義，不過雙方都是
+數碼存在……兩者都是以0與1設計出來的資料，
+這個事實是無庸置疑的。","","그게 무엇을 의미하는지는 불명하지만, 양쪽 모두
+디지털인 존재… 0과 1로 프로그래밍 된
+데이터라는 사실은 흔들리지 않습니다","Die genauen Auswirkungen sind noch unklar, doch
+zweifelsohne sind beide digitale Wesen. Daten,
+die aus Nullen und Einsen programmiert sind."
+4012,3009,"","And if so...a breakthrough shouldn't be far off.
+All we need is to analyze the data.","既然如此，答案應該很快就會揭曉了。
+因為只要分析在那裡的資料就行了。","","그렇다면… 머지않아 해명될 겁니다
+단지 그곳에 있는 데이터를, 해석하면 되니까요","Wenn dem so ist, sollte ein Durchbruch demnächst
+möglich sein. Wir müssen nur die Daten
+analysieren."
+4020,3009,"","Ah, you've heard of Nikola Tesla, I trust?
+He was as great a scientist as Edison.","喔，你不知道「尼古拉‧特斯拉」這個人嗎？
+他可是跟愛迪生同等重要的偉人呢。","","아,「니콜라 테슬라」를 아십니까?
+에디슨에게 필적하는 위인입니다만","Von Nikola Tesla hast du vermutlich schon gehört?
+Er war genau so ein großartiger Wissenschaftler
+wie Edison."
+4021,3009,"","Beyond breakthroughs in AC power, heat conduction,
+and fluorescent light, he delved into transmitting
+EM waves wirelessly... We all know of Tesla Coils.","除了交流電、熱傳導和電燈的發明之外，
+還有被稱為世界系統的無線傳輸的研究……
+而且「特斯拉線圈」也很有名呢。","","교류전원이나 열전도, 형광등의 발명 외에
+세계 시스템이라 불리는 전자파무선송전의 연구…
+그리고「테슬라 코일」이 유명합니다","Er hat bahnbrechende Innovationen erzielt, sich
+aber auch mit der drahtlosen Übertragung von
+Elektromagnetismus befasst ... Tesla-Spulen."
+4022,3009,"","Transmission of solid matter was tested--and
+proven--through the Philadelphia Experiment.
+...Assuming it wasn't a hoax, at least.","至於在那個「費城實驗」中執行物質傳送的裝置，
+雖然被視為成功但其真偽仍未受到證實。","","그「필라델피아 실험」에서 물질전송을 실현했다… 라고
+여겨지는 장치입니다만, 그 진위는 불명이라고 합니다","Die Übertragung fester Materie wurde im
+Philadelphia-Experiment getestet und bewiesen.
+Vorausgesetzt, das Experiment war kein Schwindel."
+4023,3009,"","However! If the high voltage generated in the
+experiment truly was able to create a rift in
+space-time, then such a result is a possibility!","可是！如果由裝置發出的超高電壓有在時空上造成
+缺口的話，那就是有可能發生的實驗結果！","","하지만! 장치가 발생시키는 초고전압에 의해, 시공간에
+균열이 생긴 거라고 한다면, 일어날 수 있는 실험 결과입니다!","Aber wenn die im Experiment erzeugten Voltzahlen
+wirklich einen Riss im Raum-Zeit-Gefüge
+geschaffen haben, wäre das möglich!"
+4024,3009,"","And today, another uncanny phenomenon unfolds
+right before our eyes... Yes, those experimental
+results and this phenomenon are quite similar.","現在，我們也目睹到不可思議的現象……
+原來如此，那個實驗結果跟這個現象也有許多相似之處。","","실제로, 저희들도 불가사의한 현상을 목격하고 있습니다…
+그렇군요, 그 실험 결과와 이 현상에는 유사점이 많습니다","Und heute spielt sich ein weiteres faszinierendes
+Phänomen direkt vor unseren Augen ab. Ja, das
+hier ist dem Experiment recht ähnlich."
+4025,3009,"","Investigating that connection could be
+another interesting approach...
+Yes, this has all become quite intriguing! Hehe...","以研究來說，試著探索其關連性或許也是相當有趣的……
+唉呀，這下變得相當有趣了呢！！呵呵呵！","","관련성을 살펴보는 것도, 접근 방법으로서는
+재밌을지도 모르겠군요…
+이거, 정말 재밌어졌습니다!? 쿠후후","Diese Verbindung könnte ein weiterer interessanter
+Ansatzpunkt sein. Ja, es ist alles recht spannend
+geworden! Hehe ..."
+5050,4041,"","Buying more beans already? I suppose with more
+employees, the supply is used up that much faster.","你又來買咖啡豆啦？
+只要員工的人數增加，消耗的速度也會變快呢。","","또 커피콩을 사러 온 거니?
+종업원이 늘어나니, 줄어드는 것도 빠르구나","Du kaufst jetzt schon Nachschub? Mit zusätzlichen
+Mitarbeitern verbraucht ihr wohl auch mehr."
+5051,4041,"","Come to think of it, when you head back,
+why don't you buy some takoyaki from the
+third floor to go with your coffee?","對了，你要走時可以到三樓買章魚燒
+回去配咖啡吃哦。","","참, 돌아갈 때 커피와 곁들일 간식으로
+3층에서 타코야끼라도 사 가는 건 어떻겠니?","Ach, hol dir doch auf dem Rückweg im vierten
+Stock ein paar Takoyaki zum Kaffee!"
+5052,4041,"","Only a child does no more than what they're asked.
+Go above and beyond and you'll seem quite clever.","如果人家要什麼就只買什麼的話，就像是小孩子跑腿而已。
+若要表現自己貼心的一面，就要從這種小地方做起哦。","","부탁받은 일만 하는 건, 어린애의 심부름이야
+눈치 있는 점을 어필하려면, 이런 것부터… 지","Nur Kinder tun genau das, was man ihnen sagt.
+Wenn du darüber hinauswächst, wirkst du plötzlich
+ganz schön schlau."
+5150,3031,"","...I've nothing else to say to you.","……我已經沒話要說了。","","…더 이상 할 말은 없어","... Ich habe dir nichts weiter zu sagen."
+5180,2000,"","...Better head back to the office.","先回事務所吧。","","…일단 사무소로 돌아가자","... Ich gehe lieber zurück ins Büro."
+5400,3003,"","We haven't much time to waste.
+Please hurry.","我能拖延的時間是有限度的，
+請你盡快完成吧。","","시간을 버는 것에도 한계가 있으니까요
+빠르게 부탁드려요","Wir haben nicht viel Zeit.
+Bitte beeile dich."
+5410,3003,"","--Oh, [p]...
+This is no time for fooling around, I need
+you to hurry.","……！　你是[p]……對吧……！？
+別胡鬧了，請快點動身吧……","","…! [p]씨…죠…!?
+장난치지 마시고, 빨리 가 주세요…","Ach, [p] ...
+Wir haben keine Zeit zu verlieren.
+Du musst dich beeilen."
+6000,2000,"",".........
+Marippe...
+She's alive, but unresponsive...","……
+……小真似乎還活著，
+但沒有反應……","","………
+…마릿페
+살아는 있는 것 같은데, 반응이 없어…","... ...
+Marippe ...
+Sie lebt, reagiert aber nicht ..."
+6010,2000,"",".........
+She's alive, but unresponsive...","……
+似乎還活著，
+但沒有反應……","","………
+살아는 있는 것 같은데, 반응이 없어…","Jeder ist am Leben, aber keiner reagiert ..."
+6020,2000,"",".........
+She's alive, but unresponsive...","……
+似乎還活著，
+但沒有反應……","","………
+살아는 있는 것 같은데, 반응이 없어…","Jeder ist am Leben, aber keiner reagiert ..."
+6100,3009,"","Indeed, the occurrence of Digital Shifts is
+related to the density of the Digital Wave.","Digital Shift的發生與數碼波的密度有所關連，
+這點應該是可以確定的。","","디지털 시프트의 발생에는, 디지털 웨이브의 밀도가
+관계되어 있는 건 틀림없겠지요","In der Tat hängt das Auftreten von digitalen
+Verschiebungen mit der Dichte der digitalen Welle
+zusammen."
+6101,3009,"","When a ""catalyst"" is applied to locations
+where the Digital Wave is at its most dense,
+it digitally transitions, or ""shifts.""","變得密集的數碼波會因為得到某種“契機”
+而“轉移（Shift）”至數碼……","","농밀하게 된 디지털 웨이브가, 무언가의 ""계기""를
+얻는 것으로, 디지털로 ""전이(시프트)""한다…","Wenn am dichtesten Punkt der digitalen Welle
+ein Katalysator angewendet wird, verschiebt
+sie sich ... Es findet eine Verschiebung statt."
+6102,3009,"","Thus, the term ""Digital Shift.""","因此，才會被稱為“Digital Shift”……","","따라서… ""디지털 시프트""라는 겁니다…","Daher die Bezeichnung „digitale Verschiebung“."
+6150,3009,"","You know of the ""immune system,"" yes? The body
+treats germs as ""outsiders,"" fiercely resisting
+them. This makes external interference difficult.","你對生物的「免疫系統」了解嗎？
+生物體內對病原菌等“異物”擁有強烈的抵抗力，
+不會輕易受到來自體外的干涉。","","생체의「면역계」에 관해, 지식은 있으신지요?
+생체 내에는, 병균등의 ""이물""에 대한 강한 저항력이 있어서
+그렇게 간단히 외부의 간섭을 받지 않습니다","Das Immunsystem ist dir ein Begriff, oder? Der
+Körper sieht Bakterien als Eindringlinge und
+leistet Widerstand. Diese Abwehr hält dicht."
+6151,3009,"","Thus, we find it takes a very long time for genes
+to change... Resistance acts as a throttle on
+the speed at which something can evolve.","因此，遺傳基因的突變會需要漫長的歲月才能完成……
+生物的突變——進化的速度可以說是
+受到自身的抵抗力之限制哦。","","따라서, 유전자가 변이하려면 오랜 세월이 필요합니다…
+생물은 스스로의 저항력으로, 변이―
+진화 속도를 제한하고 있다고 할 수 있지요","Folglich dauert es sehr lange, bis sich Gene
+verändern. Resistenzen sind wie eine Bremse
+am Tempo der Evolution."
+6152,3009,"","...But I digress. What this means is that thanks
+to the human body's obstinacy, we see resistance
+even in abnormal environments such as this.","……唉呀，不小心偏離了主題。
+因此，由於我們人體固執的性質，
+所以即使是面對像這樣的異常環境，也會展現出抵抗力。","","…이런, 얘기가 벗어났군요
+그러므로, 저희들은 인체의 고집불통인 성질 덕분에
+이런 이상한 환경에도 저항력을 나타내고 있습니다","... Aber ich schweife vom Thema ab. Da der
+menschliche Körper so widerstandsfähig ist, sehen
+wir selbst in dieser Umgebung Resistenzen."
+6153,3009,"","But the cause of these people's conditions is a
+different matter. You see, when a soul is without
+a body...well, they just aren't very sturdy.","他們的樣子之所以會怪怪的，應該是另有原因。
+姑且不論人體，如果問題是出在精神上……
+畢竟精神並沒有“容器”那麼堅韌。","","그들의 상태가 이상한 원인은, 달리 있겠지요
+인체는 몰라도, 정신이라면…
+""그릇""만큼, 튼튼하지 않으니까 말이지요","Doch diese Krankheitsursache ist etwas anderes.
+Weißt du, wenn eine Seele ohne Körper besteht,
+ist sie etwas anfällig."
+7100,4292,"","You must forgive me, valued customer. I didn't
+know you were an acquaintance of Mr. Matayoshi!
+If only you had mentioned that from the start!","拜託你饒了我吧～ 既然是又吉哥的熟人，
+你就要先跟我說啊～！","","정말 좀 봐 주세요~ 마타요시 씨와 아는 사이시면
+먼저 그렇게 말씀해 주셔야죠~!","Verzeihung, geschätzter Kunde. Ich wusste nicht,
+dass Sie mit Herrn Matayoshi bekannt sind!
+Hätten Sie das doch nur gleich gesagt!"
+7150,2000,"","Someplace Sakura would be likely to go...
+Well, she seems to go to Nakano a lot.
+It's as a good place to start as any!","櫻可能會去的地方……
+這麼說來，她之前也經常來中野……就去調查看看吧！","","사쿠라가 들를 만한 장소…
+그러고 보니, 나카노에도 자주 왔었어… 조사해 보자!","Wo Sakura normalerweise hingehen würde ...
+Nun, sie scheint recht oft in Nakano zu sein.
+Dann kann ich auch dort anfangen!"
+7250,3002,"","Hmm? You want to talk about Sakura's house?","什麼什麼？你想跟我說小櫻的事了？","","뭐라고뭐라고? 사쿠랏치에 대해 말할 생각이 들었다고?","Hm? Willst du über Sakuras Haus reden?"
+7300,2000,"","First of all, better report back to the office.","先回事務所去報告吧。","","일단 사무소로 돌아가서 보고하자","Ich sollte mich als Erstes wieder im Büro melden."
+7301,2000,"","Better keep asking around Nakano.","繼續在中野打聽吧。","","나카노에서 탐문 조사를 계속하자","Ich sollte mich in Nakano weiter umhören."
+7400,2000,"","...Fainted, with a satisfied grin.","……帶著滿足的表情昏過去了。","","………만족해 보이는 얼굴을 하고서 기절해 있다","... Ohnmächtig, mit einem zufriedenen Grinsen auf
+den Lippen."
+8340,2000,"","Arata said to meet him in Shinjuku...
+I hope he hasn't been waiting too long.","新之前有說他會在新宿等我……
+會不會讓他等太久了……","","아라타가 신주쿠에서 기다린다고 했어…
+오래 기다리게 해 버렸을까…","Arata hat gesagt, wir treffen uns in Shinjuku.
+Ich hoffe, er wartet noch nicht zu lange."
+8345,2000,"","Nokia said to meet her in Kowloon...
+If I'm late, she'll probably get mad again...","諾奇雅之前有說她會在Kowloon等我……
+如果讓她等太久，搞不好又要挨罵了……","","노키아가 쿠롱에서 기다린다고 했어…
+오래 기다리게 했다간 또 화낼지도…","Nokia hat gesagt, wir treffen uns in Kowloon.
+Wenn ich zu spät komme, wird sie wieder sauer ..."
+8350,2000,"","Better report back to the office.","先回事務所去報告吧……","","사무소로 돌아가서 보고하고 오자…","Ich sollte mich lieber im Büro melden."
+8380,3002,"","Awwwriiight! I'm off to get me some Tamers!
+Step one: raiding the Zaxon and Demon hideouts!!!","好！　要來拼命招攬馴獸師囉～！
+首先就闖進Zaxon跟惡魔巢穴裡
+去拉人吧～～～～～～～！！！！","","좋았어―! 테이머를 마구 권유하자~!
+우선, 잭슨과 데몬즈의 아지트로
+쳐들어 가자~~~~~~~!!!!","Spitze! Ich geh und schnapp mir ein paar Zähmer!
+Erster Schritt: Die Verstecke der Zaxons und
+Demons plündern!"
+8381,3002,"","The Demons broke up, so they don't have anything
+better to do. And I bet there're some freelance
+Tamers in the Zaxon forum, too! Time to roll out!","惡魔亂舞才剛解散沒多久，所以應該會有人很閒吧！　
+在Zaxon廣場那裡應該也會有一兩個沒參加
+任何隊伍的人吧！GOGO！","","데몬즈가 막 해산했으니까, 한가한 사람이라던가
+있을 테고! 잭슨 포럼에도
+무소속 테이머 한두 명쯤은 있겠지! GOGO!","Die Demons haben sich aufgelöst, also haben die
+nichts Besseres zu tun. Und im Zaxon-Forum gibt’s
+auch ein paar unabhängige Zähmer! Los geht’s!"
+8400,3002,"","Hellooo! You! Yes, you, what're you doing?","哈～囉！你現在有空嗎？","","안~녕! 너너~, 지금 한가해!?","Hallooo! Du! Ja, du, was machst du denn?"
+8401,3002,"","I'm starting a new hacker team!
+I just know you're interested, right?","我們正在募集新的駭客集團的成員！　
+你想不想參加啊！？","","새로운 해커 팀의 멤버를 모으고 있어!
+관심 있어!?","Ich gründe ein neues Hacker-Team!
+Das wäre doch etwas für dich, nicht wahr?"
+8402,4007,"","A new hacker team? Why?","啊？新的駭客集團？為什麼又要創新的啊？","","하? 새로운 해커 팀? 왜 또?","Ein neues Hacker-Team? Warum denn?"
+8403,3002,"","To become closer to Digimon! And to stop evil
+hackers! That's why I'm forming--the Rebels!","我們是為了跟數碼寶貝它們和平共處！還有為了要教訓壞蛋駭客！
+才會組織反叛者！","","디지몬들과 친해지기 위해! 그리고 나쁜 해커를 응징하기 위해!
+리벨리온즈를 결성하는 겁니다!","Um unser Verhältnis zu den Digimon zu verbessern!
+Und böse Hacker aufzuhalten! Dazu gründe ich ...
+die Rebels!"
+8404,4007,"","Huh... Sounds interesting. Fine, I'll help you.","喔～原來如此，好像很有趣耶。好啊，我就加入吧。","","헤에―, 과연 재밌어 보이잖아. 좋아, 도와 줄게","Hm ... Klingt ja interessant. Na gut, ich helfe
+dir."
+8405,3002,"","Really? Yesss!!! Ally count--ding!--plus one!
+This's the beginning of a beautiful friendship!","真的！？好耶！！
+獲得同伴了！！今後請多多指教！","","정말!? 아싸―!!
+동료 겟!! 앞으로 잘 부탁해!","Echt? Jawoll!!! Ein Verbündeter mehr – ding!
+Das ist der Anfang einer wunderbaren Freundschaft!"
+8410,4007,"","Some of the guys I hang out with might be
+interested, too. You should ask around.","我也會試著問我的同伴看看的。","","나도 같이 노는 녀석에게 권유해 볼게","Ein paar von meinen Kumpels sind vielleicht
+auch interessiert. Du solltest herumfragen."
+8450,3002,"","Okay, buddy, I like the cut of your jib.
+What say you join us?","啊，你的眼神很棒呢！！
+要不要成為我們的同伴啊～？？","","앗 너 좋은 눈을 하고 있네!!
+우리들의 동료가 되지 않을래~??","So, mein Freund, du machst einen guten Eindruck.
+Was hältst du davon, zu uns zu kommen?"
+8451,3002,"","We're gathering people to form a hacker group!","我們正在募集能夠一起統整駭客的同伴！","","해커를 통솔하기 위한 동료를 모으고 있어!","Wir sammeln Leute für eine Hacker-Gruppe!"
+8452,4007,"","Making a hacker group, eh?
+That's a big accomplishment.","統整駭客啊。
+那還真是了不起的身分呢。","","해커를 통솔한다고?
+그것 참 훌륭하시구만","Du willst eine Hacker-Gruppe gründen, hm?
+Das ist eine große Aufgabe."
+8453,4007,"","But rather than assume you're just as
+accomplished, I'll see for myself just how strong
+you are.","也就是說，帶頭的人必須比任何人都要強對吧？
+就讓我見識見識你的本事吧。","","즉 톱은, 누구보다 강하지 않으면
+못 해 먹는 거잖아? 네 실력, 확인해 보겠어","Aber anstatt einfach anzunehmen, dass du ihr
+gewachsen bist, überzeuge ich mich selbst
+davon, wie stark du bist."
+8500,4007,"","Hm, so you're more than just talk.
+Okay, I'll tag along. Nice to meet you, Leader.","原來如此，看來你不是只出一張嘴呢。
+我就陪你一起打拼吧，請多指教了，隊長。","","과연, 입만 산 건 아니라는 거군
+어울려 줄게, 잘 부탁해, 리더","Hm, du schwingst also nicht nur große Reden.
+Gut, dann mache ich mit. Ist mir ein Vergnügen,
+Anführerin."
+8501,3002,"","Same to you!
+Let's get even stronger together!","我也要請你多多指教！
+讓我們一起變得更強吧！","","나야말로, 잘 부탁해!
+함께 더욱더욱 강해지자!","Danke, mir auch!
+Lass uns gemeinsam noch stärker werden!"
+8510,4007,"","You're pretty strong as it is.","不過話說回來，你還真強啊。","","그건 그렇고, 너 정말 강하네","Du bist aber schon ziemlich stark."
+8550,4007,"","Trying to recruit hackers, huh?
+Sounds like what the Demons were doing.","募集駭客啊。
+可以是可以，但你們跟惡魔亂舞又有什麼不同？","","해커를 모은다고?
+별로 상관없지만, 데몬즈랑 어디가 다른 건데?","Du willst Hacker rekrutieren, wie?
+Die Demons haben doch genau das Gleiche gemacht."
+8551,3002,"","No way! Don't lump me in with those jerks,
+this is completely different!!!","完全不同～！！！！
+請不要把我們跟那種人混為一談！","","전혀 달~라!!!!
+그런 녀석들하고 같은 취급 하지 말아 줘!","Gar nicht! Vergleich mich nicht mit den
+Blödmännern, das ist was ganz anderes hier!!!"
+8552,3002,"","I mean, for starters, that went like that
+because of that! And then what else could
+you do but this, geez! Get it!?","也就是說～！他們會那樣做又那樣做哦～！
+然後他們又會那樣再那樣！O～K～？","","즉~! 저게 저렇게 해서 저렇게 하는 거야~!
+그래서 그게 뭔가를 해서 저렇게 한다는 거야! 오~케~이?","Zuallererstmal war das bei denen so wegen dem!
+Dann bleibt dir ja nichts mehr außer dem hier,
+kapierst du das nicht?"
+8553,4007,"","Not one bit.
+Hey, you explain.","……根本聽不懂妳在說什麼啦。
+麻煩你代替她說明一下吧。","","…전혀 모르겠어
+너, 대신 해설해 줘","Nicht im Entferntesten.
+He, erklär du es mir."
+8560,5004,"","It's the same.
+You get paid!
+Our aims are different.","是一樣的。
+我們會發時薪哦！
+我們的目標是不同的。","","같습니다
+시급이 나와!
+목표가 달라","Es ist das Gleiche.
+Du wirst dafür bezahlt!
+Wir haben andere Ziele."
+8570,4007,"","Huh?
+...Pretty ballsy. Now I'm interested.","咦？
+還挺乾脆的嘛，反而讓我覺得很中意啊。","","에?
+…꽤 떳떳하잖아, 오히려 마음에 들었어","Wie?
+... Ganz schön mutig. Jetzt klingt es interessant."
+8571,4007,"","But not so interested as to get mixed up in
+criminal acts, sorry.","不過我不想幫忙你們犯罪。
+抱歉了。","","하지만, 범죄에 가담하고 싶지는 않아
+미안하다","Aber nicht so interessant, dass ich mich strafbar
+machen will. Tut mir leid."
+8572,3002,"","Ugh, stop talking nonsense and explain it right!","討厭！你不要胡說八道啦，快給我好好說明清楚！","","정말! 엉터리로 말하지 말고 제대~로 설명해 줘!","Bah, jetzt hör doch auf, Blödsinn zu erzählen,
+und erklär es ordentlich!"
+8580,4007,"","For real!?
+Does it pay more than third shift at the
+convenience store?","真的假的！
+跟超商的大夜班比起來，哪邊的薪水比較好？","","진짜냐!
+심야 편의점 시급이랑 비교해서 어느 쪽이 좋아?","Im Ernst?!
+Krieg ich mehr als für die Nachtschicht im
+Mini-Markt?"
+8581,4007,"","...You've gotta be kidding me.
+Only 650 yen an hour? Quit wasting my time.","……啊？
+時薪650日圓根本是瞧不起人嘛，你們快滾吧。","","…하아?
+시급 650엔 같은 소리 할 거면 돌아가시지","... Das meinst du doch nicht ernst.
+650 Yen pro Stunde? Hör auf, meine Zeit zu
+verschwenden."
+8582,3002,"","Hey! Quit it with the money talk! Rebellions
+don't have anything to do with the economy!
+The bonds we have are of friendship!","喂喂～！你幹嘛擅自說會有時薪啊！
+反叛者不是用金錢束縛每個人，
+而是以心聯繫彼此的團隊啦！","","야, 야―! 뭘 멋대로 시급 같은 걸 말하는 거야!
+리벨리온즈는, 돈에 의한 계약이 아니라
+마음으로 이어진 팀이라고!","He! Hör mal auf mit dem Gerede ums Geld!
+Hier geht es nicht um Geld, sondern um
+wahre Freundschaft!"
+8583,3002,"","Ugh, stop talking nonsense and explain it right!","討厭！你不要胡說八道啦，快給我好好說明清楚！","","정말! 엉터리로 말하지 말고 제대~로 설명해 줘!","Bah, jetzt hör doch auf, Blödsinn zu erzählen,
+und erklär es ordentlich!"
+8590,4007,"","Huh... That's actually kind of cool.","是哦，總覺得很帥耶。","","헤에…, 왠지, 멋진걸","Oha ... Das ist eigentlich ganz cool."
+8591,4007,"","In that case, maybe I should be asking you
+if you'll take me as an ally...Leader.","既然如此，我反倒想拜託你們讓我加入。
+請讓我加入吧，隊長。","","그렇다면 오히려 이쪽에서 부탁하고 싶을 정도야
+나도 동료에 넣어 줘, 리더","Dann sollte ich vielleicht fragen, ob du mich
+dabei haben willst ... Anführerin."
+8592,3002,"","No prob! See, since I gave you such a good
+explanation, it's pretty easy to understand!","我也要請你多多指教！看吧，只要好好說明，
+對方就會明白了吧？","","이쪽이야말로! 봐, 제대로 설명하면
+알아 주잖아?","Alles klar! Schau, ich habe es so gut erklärt,
+da ist das gar nicht schwer zu verstehen."
+8600,4007,"","Let's make this a great team.","一起創造一個良好的團隊吧。","","좋은 팀을 만들자","Wir werden ein tolles Team bilden."
+8650,4007,"","A Tamer group? Sounds like a pretty weird team.","馴獸師集團？應該不是什麼奇怪的隊伍吧？","","테이머 집단? 이상한 팀 아니지?","Eine Digimon-Zähmer-Gruppe? Klingt nach einem 
+komischen Team."
+8651,4007,"","I don't have any strong feelings either way about
+joining, but...wonder what my buddy would think.","要加入是可以啦……
+嗯……只是不知道朋友會怎樣想。","","들어가 줘도 상관없지만…
+음… 친구가 어떻게 생각할지, 그게 문제네","Ich bin weder dafür noch dagegen, frage mich
+aber ... was mein Kumpel denken würde."
+8652,3002,"","Well, I think you and your friend should both
+join! Where are they?","那麼，乾脆就跟你說的那個朋友一起加入吧？？
+他現在人在哪裡？？","","그럼, 그 친구와 함께 들어오면 어때??
+그 친구는 어디에 있어??","Dann kommt doch beide zu uns!
+Wo ist dein Kumpel denn?"
+8653,4007,"","Uhh, probably somewhere around here...","咦？啊，我想他應該是在那一帶……","","헤? 아아, 이 주변에 있을 거라고 생각하는데…","Äh, wahrscheinlich irgendwo hier ..."
+8660,3002,"","Got it! I'm gonna go ask them, then!
+C'mon, [p]!","O～K！我們這就去問他！
+走吧！[p]！","","오케이~! 물어보고 올게!
+가자! [p]!","Verstanden! Dann frag ich da mal nach!
+Komm schon, [p]!"
+8661,3002,"","Heeheehee... If this all goes well, I get two
+members in one fell swoop! Yeah, I rock at this!","呵呵呵！如果順利的話，搞不好能一次
+拉到兩個人加入哦！？","","누후후…! 잘하면 둘 다 한꺼번에
+권유할 수 있을지도!?","Hihihi ... Wenn das gut läuft, kriege ich zwei
+Mitglieder auf einen Streich! Ich hab’s echt
+drauf!"
+8670,4007,"","Oh, so my buddy joined your team?
+Then sure, I'll join, too.","啊，什麼嘛，原來他早就加入啦……
+那我也加入吧，請多指教啦。","","아, 뭐야 그 녀석도 동료가 된 건가
+그럼 나도 들어갈게, 잘 부탁해","Ach, mein Kumpel ist jetzt bei euch dabei?
+Klar, dann mache ich auch mit."
+8680,4007,"","And you can save the copycat comments,
+I've already heard 'em all.","我已經很習慣被人家說是跟班的啦！","","금붕어 똥이라고 불리는 건 익숙하다고!","Und die Bemerkungen von wegen Nachmacher kannst du
+dir sparen. Die habe ich schon alle gehört."
+8700,3002,"","I think that's enough members for now.
+I mean, look at us, we look like a proper team!
+Heck yeah, Operation: Get Members--great success!","募集到這麼多人後，
+還挺像個隊伍的不是嗎！？
+OK！　招攬大☆成☆功～！！","","이 정도 모이니까, 꽤
+팀처럼 보이지 않아!?
+오케이―! 권유 대☆성☆공~!!","Ich glaube, das sind jetzt genug Mitglieder.
+Schau uns doch an, wir sind ein richtiges Team!
+Aktion: Mitgliedersuche ist ein voller Erfolg!"
+9000,2000,"","Let's continue on.
+Security should be around here somewhere!","先前進吧。
+某處應該會有防範措施！","","앞으로 나아가 보자
+어딘가에 보안이 있을 거야…!","Gehen wir weiter.
+Die Sicherheitssysteme müssen hier irgendwo sein!"
+9005,4058,"","Returning to the entrance, yes?","你要回入口對吧？","","엔트런스로 돌아가시는 거군요?","Du gehst zurück zum Eingang, ja?"
+9010,3005,"","This sky looks like the real thing!
+Kamishiro's tech is amazing!
+(...What is going on, I said hurry up!)","天空簡直跟真的一樣耶！
+神代的技術太神啦！
+（……你在做什麼啊？　快走啊！）","","하늘이라던가 진짜 같구만―!
+카미시로의 기술은 최고야―!
+(…뭐하고 있어! 빨리 가라고!)","Dieser Himmel sieht so echt aus!
+Die Technologie von Kamishiro ist der Hammer!
+(Was ist denn, ich habe doch gesagt, schnell!)"
+9020,4004,"","Excuse me, but you're being a nuisance to the
+other patrons... Please be quiet in the hall.","客人！　您這樣會給其他客人造成困擾的！
+在會場裡請保持安靜！","","손님…! 다른 손님에게 폐를 끼치게 됩니다…!
+회장에서는, 조용히 해 주세요!","Entschuldigung, aber du störst die anderen
+Kunden ... Bitte Ruhe auf dem Flur."
+13000,4126,"","Hey, I was able to come to the real world too!
+I know it's 'cause bad stuff is happening, but...
+it's so nice to be here with Kyoko and everyone!","我也來到現實世界囉！
+我知道現在的狀況很棘手，
+但能跟杏子她們待在同一個房間裡，還是讓我很開心！","","나도 현실 세계에 나올 수 있게 됐어!
+위험한 일이 일어나고 있는 건, 알고 있지만…
+그래도, 쿄코와 너랑 같은 방에 있을 수 있는 건 기뻐!","He, ich habe es auch in die echte Welt geschafft!
+Ich weiß, dass der Grund nicht gut ist ...
+Aber es ist schön, bei Kyoko und allen zu sein!"
+13001,4126,"","I wonder where Kyoko went. It's a little lonely...
+But since she's gone, I'll help you instead!","杏子她……是跑哪去了啊……
+雖然很寂寞，不過我會代替杏子幫忙處理工作的。","","쿄코… 어디로 가 버린 걸까…
+쓸쓸하지만, 쿄코 대신에 나도 도울 거야","Ich frage mich, wo Kyoko hin ist. Ich bin ein
+wenig einsam ... aber wenn sie weg ist, helfe ich
+stattdessen dir!"
+13002,4126,"","Kyoko came back, I'm so glad! It's just not
+the Kuremi Detective Agency without her!","杏子終於回來了，我好開心！
+暮海偵探事務所果然還是要這樣才對！","","쿄코가 돌아와서 기뻐!
+역시 쿠레미 탐정사무소는 이래야지!","Ich bin so froh, dass Kyoko wieder da ist!
+Ohne sie ist das Detektivbüro Kuremi einfach nicht
+das Gleiche!"
+13010,3002,"","I'll see what I can find in the real world.
+You check EDEN to find this little one's friends!","我負責在現實世界裡收集情報。
+你就負責在EDEN裡調查它的朋友的事情！","","난 현실 세계에서 정보를 모을게
+넌 EDEN에서 이 애의 친구에 대해 조사해 줘!","Ich schaue mal, was ich in der echten Welt finde.
+Du suchst in EDEN nach den Freunden von
+dem Kleinen hier!"
+14000,3007,"","Sorry for always coming to you with this stuff.
+But when it comes down to it, this is just too
+much for us to handle.","抱歉啊，總是麻煩你們。
+說真的，我們可能無法處理這個情況。","","항상 미안하구만, 의지해 버려서 말이야
+솔직히 이 사태는, 우리들로는 감당할 수 없어","Tut mir leid, dass wir mit so etwas immer zu dir
+kommen. Aber für uns wird es letztendlich
+einfach zu viel."
+14001,3007,"","Seems like all we can do is depend on you guys.
+...Maybe it's time I retired after all.","看來只能交給你們處理了。
+唉……我也差不多該退休了。","","너희들에게, 맡길 수밖에 없는 것 같다
+헷… 나도 슬슬 은퇴해야겠구만","Ohne euch würden wir wohl gar nicht mehr
+zurechtkommen ... Vielleicht ist es doch Zeit,
+dass ich in Pension gehe."
+14002,3015,"","What's all this whiny navel-gazing, Detective!?
+You've got work to do!","又吉哥，你是在說什麼喪氣話啊！？
+現在要做的事還很多吧！？","","왜 약한 소리를 하고 그럼까, 마타요시 씨!?
+해야 할 일은, 얼마든지 있지 않슴까!?","Was soll denn das Gejammer, Kommissar?!
+Wir haben zu tun!"
+14003,3015,"","Being mousy like this isn't your style, Detective!
+'Sides, you said you'd take care of me 'til I got
+hitched, and I'm not letting you skip out early!","那種軟弱無力的說話方式，一點都不像是又吉哥！
+再說退休算什麼啊！？你不是說過你會照顧我，
+直到我結婚離職為止嗎！？","","그런 패기 없는 말투, 마타요시 씨답지 않슴다!
+그보다 은퇴는 또 뭐임까!? 제가 결혼퇴직 할 때까지
+돌봐 준다고 하시지 않았슴까!?","Das ist doch gar nicht dein Stil, Kommissar!
+Außerdem hast du gesagt, du kümmerst dich um mich,
+bis ich verheiratet bin!"
+14004,3007,"","I said nothing of the sort. Don't try to forge
+testimony, Detective. And working 'til someone
+marries you...so I get to retire when I'm 100?","我才沒說過咧，刑警不准捏造證言啦，混蛋！
+……喂，妳是打算讓我當刑警當到100歲嗎？","","안 했거든… 형사가 증언 날조 하지 말라고, 바보 녀석아
+…그보다 너, 나에게 100살까지 형사를 시킬 셈이냐?","Das habe ich gar nicht gesagt. Lass mal die
+Falschaussage. Außerdem ... soll ich
+vielleicht mit 100 in Pension gehen?"
+14005,3015,"","Whatever works. ...Hey, by then, I'll be the
+one taking care of you, ha ha ha!","喔，那樣或許也不錯呢！到時候就得反過來
+由我照顧你了啊，嘿嘿嘿！","","오, 그것도 괜찮겠네요! 그렇게 되면 반대로
+제가 돌봐 드려야겠네요―… 헤헤헷!","Wie es halt läuft. He, wenn es so weit ist,
+kümmere ich mich um dich, haha!"
+14006,3007,"","Hah! Seems every cloud does have a silver lining.","哈！……那還真是感謝妳啊。","","핫! …그거 참, 고맙구만","Ha! An jedem Horizont gibt es einen
+Hoffnungsschimmer."
+14090,2000,"","Magnamon, one of the Royal Knights, is now an
+ally. Better go report this to the office.","皇家騎士其中之一的金甲龍獸成為同伴了。
+就先回事務所報告吧。","","로얄 나이츠의 일원, 매그너몬이 동료가 됐다
+일단, 사무소로 돌아가서 보고하자","Magnamon von den Royal Knights ist jetzt ein
+Verbündeter. Das melde ich lieber im Büro."
+15000,1688,"","Hackmon headed to the museum alone?
+...[p], take care of my student.","哈克獸獨自前往博物館了嗎……
+[p]啊，我的弟子就麻煩你了。","","헉몬은 혼자서 박물관으로 향했나…
+……[p](이)여, 제자를 부탁한다","Hackmon ist alleine zum Museum?
+... [p], kümmere dich um meinen Schüler."
+19000,1416,"","I'll take you back to the office, if you're ready.
+Shall we return and make preparations?","要回事務所的話，就由我帶你走吧。
+你要回去做準備嗎？","","사무소로 돌아갈 거면, 내가 데려가 주도록 하지
+돌아가서 준비를 갖추겠나?","Ich bringe dich zurück ins Büro, wenn du bereit
+bist. Sollen wir zurückgehen und Vorbereitungen
+treffen?"
+19001,1416,"","Think well on whether you've things left to do.","你先仔細想想看，是否還有沒做完的事。","","남겨 둔 일이 없는지, 잘 생각해 보도록","Überlege dir gut, ob du noch etwas zu tun hast."
+19002,1416,"","Let us return to our detective agency, then.","那麼，回我們的偵探事務所去吧。","","그럼, 돌아가도록 하지… 우리들의 탐정사무소로","Lass uns dann in unser Detektivbüro zurückkehren."
+19050,3002,"","Anytime you wanna head out, me and Omnimon are ready!","我們隨時都可以出發哦！
+我跟奧米加獸的狀態都是超好的！！","","언제든 출발해도 괜찮아!
+나도 오메가몬도 절호조니까!!","Ich und Omnimon sind bereit, wann immer du
+losziehen willst!"
+19051,3002,"","This is important! Have you got your tissues?
+Teeth brushed? Gone to the bathroom? You don't
+wanna have to go in the heat of the moment!","注意了！大家有沒有帶好手帕！？
+有帶衛生紙嗎！？有刷好牙上好廁所嗎！？
+接下來會很令人緊張的，現在先上一上絕對比較好哦！","","모두―! 손수건 챙겼어―!?
+휴지 챙겼어―!? 양치하고 화장실은 갔다 왔어―!?
+긴장할 테니까 반드시 갔다 오는 게 좋아―!","Ganz wichtig! Hast du Taschentücher? Zähne
+geputzt? Warst du auf dem Klo? Nicht, dass du dann
+zum unpassenden Zeitpunkt musst!"
+19100,3005,"","...Finally, we're almost there.
+It's been a helluva roundabout route,
+but it was worth it.","……終於要開始了。
+雖然繞了很大一段路，但並非是白白浪費時間啊。","","…드디어, 구만
+성대하게 다른 곳에 들렀다 왔지만, 헛수고는 아니었어","... Endlich, wir sind fast da.
+Das war zwar ein ganz schöner Umweg,
+aber es hat sich gelohnt."
+19101,3005,"","Let's go.
+We'll meet again after...
+all of us are together.","走吧！
+一定要全員一起跟那傢伙“重逢”才行！","","가자…!
+전원 다 같이 ""재회""해야지… 그 녀석과","Gehen wir.
+Wir sehen uns wieder, wenn ...
+Wir alle zusammen sind."
+19150,3003,"","All this time, I've been trying to do something
+about EDEN on my own. But each time I tried,
+my methods were off...","我過去一直想獨力解決EDEN的問題。
+但是我一直搞錯了方法……","","줄곧, EDEN을 혼자서 어떻게든 하려고 했어요
+하지만, 전 틀린 방법을 사용하고 있었어요…","Die ganze Zeit habe ich versucht, alleine etwas
+wegen EDEN zu unternehmen. Aber meine
+Methoden waren immer die falschen ..."
+19151,3003,"","But this time...everything's just right.","這次……我不會弄錯了。","","이번엔… 틀리지 않겠어요","Aber dieses Mal ... stimmt alles."
+19200,1088,"","Have you done everything you wanted to do?
+(Yes/No)","已經沒有牽掛了嗎？
+（彈出YesNo視窗）","","이제 미련은 없지?","Hast du alles erledigt, was du tun wolltest?
+(Ja/Nein)"
+19201,1088,"","We don't have much time, but preparations are
+important. Go finish up what you need to do.","雖然時間十分緊迫，但事前準備也是非常重要的。
+你可要好好準備啊。","","시간에 여유는 없지만, 준비도 중요하다
+준비를 소홀히 하지 않도록","Wir haben zwar nicht viel Zeit, aber
+Vorbereitungen sind wichtig. Geh und erledige,
+was du noch erledigen musst."
+19210,1088,"","Alphamon is right.","阿爾法獸說的是對的。","","알파몬의 말은 옳아","Alphamon hat recht."
+19211,1088,"","I've grown very fond of your world.
+I don't want to leave with any regrets.","我非常喜歡你們的世界。
+希望你不要在這個世界裡留下什麼牽掛。","","난, 너희들의 세계가 정말 좋아졌어
+이 세계에, 미련이 남지 않도록 해 줬으면 해","Deine Welt ist mir ans Herz gewachsen.
+Ich will sie nicht mit Bedauern verlassen."
+19212,1088,"","Once you are ready, just let me know.
+I'll be waiting here.","等你準備好後，就來跟我說一聲吧。
+我會一直在這裡等你的。","","준비가 끝나면, 나에게 말을 걸어 줘
+난 여기서 기다리고 있을게","Sag Bescheid, wenn du bereit bist.
+Ich warte hier."
+19230,1088,"","Are you ready to travel to his land? You look
+as though there's something you've forgotten.","你已經做好要前往那裡的準備了嗎？
+你看起來似乎還有應該要做的事情尚未完成……","","이제 그 땅으로 갈 준비는 됐어?
+넌, 아직 해야 할 일이 남은 것 같은데…","Bist du bereit, in sein Land zu reisen?
+Du siehst aus, als hättest du etwas vergessen."
+19231,1088,"","Think it over well.
+Regrets will only dull your focus in battle.","你再仔細思考一次吧。
+心中有牽掛會讓鬥志減退。","","다시 한 번, 잘 생각해 보도록 해
+미련은, 투지를 무디게 할 거야","Denke gut darüber nach.
+Reue nagt im Kampf an deiner Konzentration."
+19250,1126,"","...I've been hesitant to approach you.
+But as you can see, I was separated from
+the boy and returned to my own body.","…………我還在猶豫要不要過去搭話。
+當我注意到時，我已經跟那位少年分離，恢復成原本的模樣了。","","…………먼저 말을 거는 건 망설여져서 말이지
+정신을 차리고 보니, 저 소년과 분리되어 원래 모습으로 돌아와 있었다","... Ich habe mich gescheut, zu dir zu kommen.
+Aber wie du siehst, wurde ich von dem Jungen
+getrennt und bin wieder in meinem eigenen Körper."
+19251,1126,"","I suppose that was ancillary to your plan to save
+the boy... I owe you my thanks, nonetheless.","應該是受到你拯救那位少年的影響吧。
+先在此……向你說聲謝謝。","","아마도, 네가 저 소년을 구했을 때 일어난 작용에 말려든 거겠지
+일단… 감사를 표해 두겠다","Das gehörte wohl zu deinem Plan, den Jungen zu
+retten ... dennoch schulde ich dir meinen Dank."
+19252,1126,"","But I stand behind my actions.
+As does he.","不過，我不認為自己的行為有哪裡錯了。
+他應該也一樣。","","하지만, 난 내 행동이 틀렸다고는 생각하지 않는다
+그 또한 그렇겠지","Ich stehe hinter meinen Handlungen.
+Er auch."
+19253,1126,"","I'm afraid we have no intention of reconciling.
+That said, I hope to see the conclusion you've
+chosen through to the end.","我沒有重新和解的打算，
+但我會親眼見證你們所選擇的未來。","","새삼스레 화해를 할 생각은 없지만
+너희들이 선택한 결말을 지켜보도록 하겠다","Wir haben leider keinerlei Versöhnung vor.
+Dennoch hoffe ich, den von dir gewählten Weg
+bis zum Ende zu gehen."
+19254,1126,"","Sadly, with the damage I've taken, I can offer
+no further help. Please...the futures of both the
+digital and the human worlds are depending on you.","我有聽說你們的作戰了。
+雖然很沒出息，不過受了不少傷害的我就算跟去也只會礙手礙腳……
+數碼世界和人類世界，這兩個世界的未來就交給你們了。","","너희들의 작전은 듣고 있었다
+한심하지만, 대미지가 축적된 난 걸림돌이 될 거다…
+디지털 월드와 인간 세계, 두 세계의 미래를 부탁한다","Ich habe so viel Schaden erlitten, dass ich nicht
+mehr helfen kann. Bitte ... Die Zukunft der
+Digitalen Welt und der Menschenwelt hängt von dir ab."
+20000,3009,"","...Oh my. You'd like to return to Tokyo?","……喔？難不成你是想回東京嗎？","","…이런, 혹시, 도쿄로 돌아가고 싶으신 건가요?","... Oh. Du möchtest nach Tokio zurückkehren?"
+20001,3009,"","Tsk, I suppose it cannot be helped...
+Do keep in mind that we have limited time.","唉呀，真是拿你沒辦法呢。
+對現在的我們來說，
+時間是有限的，請你一定要記住這點。","","이거이거, 어쩔 수 없군요…
+지금 저희들에게 있는
+시간은 유한하다는 것을, 잊지 마시길","Hm, da kann man wohl nichts machen ...
+Denke aber bitte daran, dass die Zeit knapp ist."
+20002,3009,"","Then, let's head for the Mother Eater.
+Yuugo has been waiting for some time.","那麼，你們就去找侵食者母體吧。
+勇吾他正等著你們哦。","","그럼, 마더 이터가 있는 곳으로 향하도록 하지요
+유고 군이, 당신들을 기다리고 있습니다","Dann gehen wir zur Verschlinger-Procreatrix.
+Yuugo hat lange gewartet."
+30000,1088,"","Are you ready to enter the Digital World?","……你們準備好要闖進數碼世界了嗎？","","…디지털 월드로 돌입할 준비는 끝났나?","Bist du bereit, die Digitale Welt zu betreten?"
+30001,3005,"","Hey, you know this isn't finished. You're not
+giving up now that we've come this far, are you?","喂喂，工作可還沒有完成哦。
+事到如今，你應該不會說你不幹了吧？","","야야, 아직 일은 끝나지 않았다고
+여기까지 와서, 그만두겠다고는 하지 않겠지?","Du weißt doch, dass das hier noch nicht erledigt
+ist. Du wirst doch wohl nicht jetzt noch aufgeben?"
