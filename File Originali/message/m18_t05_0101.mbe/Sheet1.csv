@@ -1,0 +1,136 @@
+ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
+1,3002,"","What? Where did [p] go?","咦……？[p]不見了？","","…에? [p]가(이), 사라졌다고요?","Was? Wo ist [p] denn hin?"
+2,3006,"","It would seem [p]'s gone.","嗯，據說是那樣。","","…음, 얘기에 의하면, 그런 것 같다","[p] ist offenbar verschwunden."
+3,3002,"","Ahaha! It's okay!","啊哈哈～沒問題啦～！","","아하하~ 괜찮아요~!","Haha, das ist schon in Ordnung!"
+4,3002,"","[p]'s disappeared like that before, and then
+came back as if nothing had happened.","之前他忽然消失時，
+後來也是若無其事的回來啦～？","","전에, 휙 하고 사라졌을 때도
+태연히 돌아왔었고~?","[p] ist schon mal so verschwunden,
+und dann zurückgekommen, als wäre nichts gewesen."
+5,3002,"","I'm sure it's just a character quirk!","他一定是那種屬性的角色啦～","","분명, 그런 속성의 캐릭터인 거예요~","Ist bestimmt nur eine Eigenheit!"
+6,3002,"","So like a hero of legend...
+[p] just kinda vanished on us?","像是「全裸的頭頭」這部戲一樣，
+逮到機會就去流浪？","","『맨몸의 대장님』 같은?
+틈만 나면 떠돌아다니는 것 같은?","Wie legendäre Helden es immer tun ...
+„[p] ist einfach plötzlich weg?“"
+7,3002,"","Are you, uh, picking up what I'm putting down?","啊，懂我要表達什麼嗎？這種Feeling！","","…아, 전해지나요? 이 필링","Kapiert ihr, was ich euch hier, äh, verklickern
+will?"
+8,3006,"","Except this time, it's a little different.","不過，這次的情況跟之前有點不同。","","하지만, 이번에는 약간 사정이 다르다","Nur ist es dieses Mal doch anders."
+9,3002,"","Is this... [p]?","這、這是……[p]的……？","","이, 이건… [p]의…!?","Gehört das ... [p]?"
+10,3002,"","What's going on?
+What do you think, Kyoko? Yuuko?","這、這是怎麼回事！？
+喂，杏子姊！小悠子！？","","어, 어떻게 된 거야!?
+저기, 쿄코 씨! 유콧치!?","Was ist hier los?
+Was meinst du, Kyoko? Yuuko?"
+11,3003,"","I don't know.
+By the time I noticed, it had already...","我也……不知道。
+等我回過神，就只剩下那個……","","저도… 모르겠어요
+정신을 차리고 보니, 그것만이…","Ich weiß es nicht.
+Als ich es bemerkt habe, war es schon ..."
+12,3006,"","[p] was caught up in
+a cunning trap by Crusadermon, it seems.","看樣子，
+他落入了劍皇獸狡猾的陷阱。","","아무래도, 로드나이트몬의 교활한 함정에
+빠져 버린 것 같다","[p] scheint Crusadermon in eine
+heimtückische Falle getappt zu sein."
+13,3003,"","A trap by Crusadermon?!","劍皇獸的……陷阱……！","","로드나이트몬의… 함정…!","Eine Falle von Crusadermon?!"
+14,3006,"","Crusadermon used whatever trickery she could
+to eliminate both you and [p].","劍皇獸打算使用所有的權謀術數，
+來排除[p]和你們……","","로드나이트몬은, 온갖 권모술수를 사용해서
+[p](이)나 너희들을 없애려 하고 있다…","Crusadermon hat alle möglichen Tricks genutzt,
+um dich und [p] auszuschalten."
+15,3006,"","It seems [p] took all due precautions. We're
+lucky we at least found [p]'s Digivice.","看來它相當提防你們啊……
+能找到Digivice已經很不錯了。","","어지간히, 경계되고 있는 것 같군
+…디지바이스가 발견된 것만으로도 다행이었다","[p] hat wohl die nötige Vorsicht walten
+lassen. Zum Glück haben wir wenigstens
+das Digivice gefunden."
+16,3006,"","I analyzed preexisting log data to determine the
+location at which we lost my assistant.","我剛剛試著解析紀錄資料，
+找出助手的位置資訊的消失點。","","방금 전 로그 데이터를 해석해
+조수의 위치정보가 로스트된 포인트를 알아내 봤다","Ich habe die Protokolldaten analysiert, um den
+Standort zu bestimmen, an dem mein Hilfsdetektiv
+verloren gegangen ist."
+17,3002,"","D-Did you find [p]?
+Where, where? Where is [p]?","找、找到了嗎！？
+在、在、在哪……！？在哪在哪在哪！？","","차, 찾은 건가요!?
+어어, 어디…!? 어디어디어디!?","H-Hast du [p] gefunden?
+Wo denn? Wo ist [p]?"
+18,3006,"","In a place we know.","是我們知道的地方……","","…우리들이 알고 있는 장소다","An einem uns bekannten Ort."
+19,3006,"","The last place registered in the log is the area
+that was used to demo the EDEN updates.","是曾經在EDEN的版本升級體驗會中使用的區域，
+他的紀錄最後消失在那裡。","","이전 EDEN의 버전 업 체험회에서 사용했던 에어리어
+그곳을 마지막으로, 로그는 소실되었다","Der letzte Standort im Protokoll ist der Bereich,
+wo die Demo der EDEN-Updates stattgefunden hat."
+20,3003,"","It's been cut off since the Eaters showed up.","那個區域在侵食者出現以後，就完全被隔離了……","","그 에어리어는, 이터 출현 이후 완전히 격리되어 있어서…","Er ist abgesperrt, seit die Verschlinger
+aufgetaucht sind."
+21,3003,"","Given how the main areas have taken priority for
+reconstruction and maintenance, I imagine this
+area has been rather neglected.","現在因為以修復和維持主要區域為優先，
+應該無人管轄……","","현재는 메인 에어리어의 복구 및 유지를 우선하고 있는 관계로,
+방치 상태일 거예요…","Da so viele Hauptbereiche repariert und gewartet
+werden müssen, wurde dieser Bereich vermutlich
+eher vernachlässigt."
+22,3006,"","Hmm... The Digital Wave strength is off the charts
+in that section. A Royal Knights hideout?","嗯，那裡數碼波的容量也很龐大，
+以皇家騎士的巢穴來說，再適合不過。","","흐음, 그곳은 디지털 웨이브의 용량도 차원이 다르다
+로얄 나이츠의 아지트로서는, 안성맞춤이군","Hm ... Die digitale Welle ist dort enorm stark.
+Versteckt sich da ein Royal Knight?"
+23,3003,"","But we were in Akihabara...","但是，我們當時在秋葉原……","","하지만, 저희들은 아키하바라에 있었어요…","Aber wir waren doch in Akihabara ..."
+24,3003,"","And then when we weren't looking,
+[p] went off alone to another area...","不知何時……
+只有[p]到了別的區域……","","그런데, 어느새…
+[p] 씨만, 다른 에어리어에…","Und als wir nicht hingeschaut haben, ist
+[p] allein in einen anderen Bereich ..."
+25,3003,"","I... didn't notice...","我……沒有察覺到……","","전… 눈치채지 못했어요…","Ich ... habe es nicht gemerkt ..."
+26,3006,"","That just shows how clever the trap was.","那是因為對方的陷阱太巧妙。","","그만큼, 상대의 함정이 교묘했다는 거다","Da sieht man mal, wie ausgefuchst die Falle war."
+27,3006,"","It would probably be a waste to tell you not to
+worry, but anyway, acting is better than fretting.","就算要妳別愧疚，也沒用吧。
+那麼，就只能開始行動了。","","신경 쓰지 마라, 라고 말해도 소용없겠지
+그렇다면, 행동으로 옮기는 수밖에 없다","Es nützt wohl nichts, wenn ich dir sage, mach dir
+keine Sorgen. Aber in jedem Fall sollten wir
+tätig werden, anstatt uns verrückt zu machen."
+28,3006,"","We're going to get [p] back from
+Crusadermon!","奪回落入劍皇獸手裡的[p]吧。","","…로드나이트몬의 손아귀에 빠진 [p]를(을) 되찾는 거다","Wir holen [p] von Crusadermon zurück!"
+29,3003,"","...!","！","","……!","...!"
+30,3002,"","Excellent, Kyoko! That's what we have to do!","不愧是杏子姊，這樣才對嘛♪","","역시 쿄코 씨, 그렇게 나와야죠♪","Jawohl, Kyoko! Genau das müssen wir machen!"
+31,3006,"","Hmm... Let's start with this Digivice...","呵……首先把這個Digivice……","","훗… 우선, 이 디지바이스를…―","Hm ... Fangen wir mit diesem Digivice an ..."
+32,3006,"","I'm entrusting this to you, Nokia Shiramine.","白峰諾奇雅，就託付給妳了。","","시라미네 노키아, 너에게 맡기겠다","Da vertraue ich auf dich, Nokia Shiramine."
+33,3002,"","That's what we have to do! Part Two!","這樣才對嘛～♪大鬧一場……","","그렇게 나와야죠♪ 파트, 투…","Genau das müssen wir auch machen!"
+34,3002,"","Wait, what? To... me?","咦……？交、交給我……！？","","……네? 저, 저에게요…!?","Moment mal, was? Auf mich?"
+35,3006,"","Bring the Digimon you met with [p]
+and have them join in the rescue effort.","我希望妳帶著曾和[p]在一起的數碼寶貝們，
+一起前往援救。","","[p]와 함께 있었던 디지몬들을 데리고서
+구조에 나서 줬으면 한다","Bring die Digimon mit, die [p]
+dabei hatte. Die sollen dir bei der
+Rettungsaktion helfen."
+36,3006,"","We will most definitely need their assistance!","妳一定會需要它們的力量。","","그들의 힘이, 분명 필요해질 거다","Deren Hilfe werden wir sicherlich brauchen!"
+37,3006,"","The Digimon seem to trust you in particular.
+You should be able to draw out their power.","數碼寶貝們特別信任妳……
+妳應該能充分發揮它們的力量。","","넌 디지몬들로부터의 신뢰가 특히 두텁지…
+그들의 힘을 충분히 이끌어 낼 수 있을 거다","Die Digimon scheinen dir besonders zu vertrauen.
+Du solltest ihre Macht bündeln können."
+38,3002,"","R-Roger that!
+I will lend a hand...","我、我知道了！
+這裡就讓我來助一臂……","","아, 알겠어요!
+여기선, 제가 발 벗고…","V-Verstanden!
+Ich werde ein Auge auf sie haben ..."
+39,3002,"","No, no! Make that two hands!","嘿，讓我來脫掉外衣，助二臂之力吧！","","에에잇, 두 발 정도는 팍팍 벗어 주겠습니다!","Nein, sogar beide Augen!"
+40,3003,"","I'll go with you, Nokia!","諾奇雅小姐，我也……一起去……！","","노키아씨, 저도… 함께 갈게요…!","Ich komme mit, Nokia!"
+41,3002,"","Oh-ho? Will you be pitching in too?
+Two schoolgirls, flailing all over together!","哦！？小悠子也要脫嗎！？
+兩個女高中生一起露嗎！？","","오!? 유콧치도 벗으려는 느낌!?
+여고생 둘이서, 확 갈까!?","Aha, du machst auch mit?
+Dann sind wir das dynamische Duo!"
+42,3003,"","Yes... Let's flail on out!","是、是……一起露……！","","네, 네… 확 갈게요…!","Ja ... Dann legen wir mal dynamisch los!"
+43,3006,"","Not sure why you're flailing about, but please,
+find my assistant.","雖然搞不懂妳們要露什麼，
+但我的助手就拜託妳們囉。","","…확 간다는 의미는 잘 모르겠다만
+우리 조수를 잘 부탁한다","Tut euch vor lauter Dynamik nicht weh, aber findet
+meinen Hilfsdetektiv bitte."
+44,3006,"","It goes without saying that I'll be your backup.","當然，我會在後方支援妳們。","","물론, 백업은 할 생각이다","Ich halte euch natürlich den Rücken frei."
+45,3002,"","Yay! Let's go!
+Hold on, [p]! We're comin' to rescue you!","耶～那麼，我們出發吧☆
+去救[p]吧～♪","","예~이, 그럼 가 보자~☆
+그리고 [p]를(을) 구해 내자♪","Juhu! Los geht’s!
+Halte durch, [p]! Wir kommen!"
+46,3003,"","Oh, yeah!","好、好啊～☆","","오, 오~☆","Ja!"

@@ -1,0 +1,85 @@
+ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
+1,3003,"","We're at the lab. Mr. Yamashina?","到研究所了……山科先生？","","연구소에 도착했어요… 야마시나 씨?","Wir sind beim Labor. Herr Yamashina?"
+2,3030,"","Yes... This is it... This is where I worked...
+Wh-What? Memories... So many memories...","對……就是這裡……我曾在這裡進行研究……
+什、什麼？記憶……記憶裡的……","","맞아… 여기야… 여기서 난 연구를 하고 있었어…
+무, 무슨 연구를? 기억… 기억의―","Ja ... hier habe ich gearbeitet ...
+W-Was? Erinnerungen ... so viele ..."
+3,3003,"","He seems to be remembering something.","看來山科先生似乎想起了什麼……","","무언가를, 기억해내고 있는 것 같네요…","Gerade fällt ihm wohl etwas wieder ein."
+4,3030,"","We were scanning... uploading... rewriting...
+Mental data...","精神資料的……“掃描”……
+“上傳”……“覆寫”","","정신 데이터의… ""읽기(스캔)""…
+""쓰기(업로드)""…… ""덮어쓰기(리라이트)""","Mentaldaten ... Wir haben sie gescannt,
+hochgeladen, neu geschrieben ..."
+5,3030,"","That's it... yes!
+My research was into the creation of mental data!","對啊……對！
+我研究的是「精神數據化」啊！","","…그래…맞아!
+내가 연구하고 있었던 건「정신의 데이터화」야!","Ja ... das ist es!
+Ich habe an der Erstellung von Mentaldaten
+geforscht!"
+6,3003,"","The creation of mental data?! You created the
+technological basis for EDEN's basic systems?","精神數據化……！
+是你將EDEN系統的基礎技術……？","","정신의 데이터화…!
+EDEN 시스템의 기반이 된 기술을 당신이…?","Erstellung von Mentaldaten?!
+Sie haben die grundlegende Technologie für EDEN
+geschaffen?"
+7,3030,"","It wasn't just me.
+There was someone with me... A joint researcher.","不只是我……
+除了我之外，還有某人……共同研究人員……","","나뿐만이 아니야…
+나 외에도 누군가 있었어… 공동 연구자…","Nicht nur ich allein.
+Da war noch jemand ... ein Kollege."
+8,3030,"","S-Suedou... It was Suedou!
+He's the one who stole my memories from me!","末、末堂……是末堂！
+我被那傢伙……奪走……被那傢伙奪走了記憶啊！","","―스, 스에도… 스에도다!
+난 그 녀석에게… 기억을… 기억을 빼앗겼어!","S-Suedou ... Es war Suedou!
+Er hat mir mein Gedächtnis geraubt!"
+9,2000,"","?!","！？","","!?","?!"
+10,3003,"","Suedou... stole your memories?","被奪走了記憶……？被末堂？","","기억을, 빼앗겼다고요? …스에도 씨에게?","Suedou ... hat Ihr Gedächtnis gestohlen?"
+11,4820,"","I... I beg of you. Get my memories back for me!
+You can do it if you use this device!","拜、拜託，取回我的記憶！
+只要使用這個裝置就能做到！","","…부, 부탁이야, 내 기억을 되찾아 줘!
+이 장치를 사용하면, 가능해!","Ich ... flehe euch an. Holt mir meine Erinnerungen
+zurück! Mit diesem Gerät geht das!"
+12,4820,"","I've suffered enough over things I can't even
+remember!","我不想再為遺忘而痛苦……！","","더 이상… 기억나지 않는 일로 괴로워하는 건… 지긋지긋해…!","Ich habe schon genug ertragen müssen wegen Dingen,
+an die ich mich nicht erinnere!"
+13,3003,"","I'll operate the device.
+Please instruct me, Mr. Yamashina.","由我來操作。
+山科先生，請指示。","","…제가 오퍼레이트 할 게요
+야마시나 씨, 지시를 부탁드려요","Ich werde das Gerät bedienen.
+Bitte zeigen Sie mir, wie es geht."
+14,4820,"","First, load my mental data... then make a copy.","首先，檢測我的精神資料……
+將其當作資料上傳後，製作複本，","","우선 내 정신 데이터를 읽어내 줘…
+그걸 데이터로 만든 다음 카피를 만들어","Lade zuerst meine Mentaldaten ... mach dann
+eine Kopie."
+15,4820,"","The copy should then be run in the hardware's
+virtual memory. That will keep it protected.","在硬體的「虛擬記憶領域」執行複本資料……
+接著在記憶上施加保護，","","그 카피 데이터를 하드웨어의「가상기억영역」에서 실행…
+이 단계에서, 기억에 조치(프로텍트)를 취하는 거야…","Die Kopie sollte dann im virtuellen Speicher
+des Geräts ausgeführt werden. Dort ist sie
+geschützt."
+16,4820,"","If we then overwrite the original data with the
+altered copy, the memories... should change...","將被竄改的複本資料覆寫在原始資料上……
+記憶就會改變……","","개찬된 카피 데이터를 오리지널 데이터에 덮어쓰면…
+……기억은, 바뀌어…","Wenn wir dann die Originaldaten mit der
+veränderten Kopie überschreiben, sollten sich die
+Erinnerungen ändern ..."
+17,4820,"","Run my current memories in virtual memory... If we
+then specify a memory field, the device will...","在「虛擬記憶領域」執行我現在的記憶吧……
+這樣就能找出“暫存記憶”……保護――","","…내 현재 기억을「가상기억영역」에서 실행해 줘…
+그렇게 하면 ""기억영역""을 특정해서… 처치, 가―","Führe meine aktuellen Erinnerungen im virtuellen
+Speicher aus ... wenn wir dann ein Feld angeben,
+wird das Gerät ..."
+18,3003,"","Mr. Yamashina?!","山科先生！？","","야마시나 씨!?","Stimmt etwas nicht, Herr Yamashina?"
+19,3003,"","This copied data is causing a Digital Shift?!","這是……
+複本資料發生Digital Shift？","","이건…
+카피한 데이터가 디지털 시프트를 일으키고 있어!?","Die kopierten Daten verursachen eine digitale
+Verschiebung?!"
+20,3003,"","It looks like there's something built into his 
+memory data, and it's blocking removal of the 
+protection!","山科先生的記憶資料中似乎被置入
+某個阻止除去加密的東西……！","","프로텍트의 제거를 막는 무언가가
+야마시나 씨의 기억 데이터 안에 심어져 있는 것 같아요…!","Da ist etwas in seine Gedächtnisdaten integriert,
+das die Entfernung des Schutzes verhindert!"
+21,2000,"","...!","……！！","","…!!","...!"
+22,2000,"","A Digital Shift... Then in that case...!","如果是Digital Shift的話……！","","디지털 시프트…― 그렇다면!","Eine digitale Verschiebung ... das heißt ...!"

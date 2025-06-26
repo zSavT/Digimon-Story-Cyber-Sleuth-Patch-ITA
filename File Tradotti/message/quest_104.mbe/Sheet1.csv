@@ -1,0 +1,602 @@
+ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
+100,3006,"","...Hmm, you just barely succeeded, then?","嗯……
+算是勉強及格吧。","","…으음
+아슬아슬 합격, 이라고 할까","... Hm, du hast es also geradeso geschafft?"
+101,3006,"","I haven't received any information as the
+assistant at this detective agency.","身為一名偵探事務所的助手，
+不曉得什麼時候會有情報進來。","","탐정사무소의 조수인 자
+언제 어떠한 정보가 들어올지 모른다","Als Hilfsdetektiv dieses Detektivbüros habe ich
+keine Informationen erhalten."
+102,3006,"","Please get back to me with the information as soon
+as possible.","所以應該盡量讓自己保持在
+可以立刻收發通訊的狀態。","","통신에는 최대한 바로
+답하도록","Bitte lass mir die Informationen so schnell wie
+möglich zukommen."
+103,3006,"","...Well, anyway, you're not a police detective,
+so at times like this you should just do nothing.","話雖如此，畢竟你也不是刑警，
+碰到一些特殊情況的時候就不用勉強了。","","…뭐, 그렇다고는 해도 형사는 아니니까
+그 때나 저 때는 무리하지 않아도 되지만","... Wie dem auch sei, du bist kein Polizeibeamter,
+weshalb du in solchen Fällen einfach
+nichts tun solltest."
+104,3006,"","...","……","","……","..."
+105,3006,"","Anyway, moving along, I need your help with
+something else.","那麼來談談正事吧。
+有一個案件想要你幫忙。","","그럼 슬슬 본론으로 들어가지
+네 손을 빌리고 싶은 안건이 있다","Machen wir weiter. Ich brauche deine Hilfe
+bei etwas anderem."
+106,3006,"","I've put it on the whiteboard, you can take this
+one whenever you like. Come to the office when
+you're ready.","內容我寫在白板上了。
+你自己找機會去事務所確認一下委託。","","내용은 화이트보드에 써 두었다
+타이밍을 계산해서 사무소에서 의뢰를 확인하도록","Ich habe es ans Schwarze Brett gehängt.
+Du kannst es jederzeit annehmen. Komm ins
+Büro, wenn du bereit bist."
+107,3006,"","Huh? You didn't understand what I meant?
+I can't tell you here...
+That's pretty much a rule, you know.","嗯？　那樣太繞圈子了叫我直接告訴你？
+那可不行……好歹這也算是規則。","","음? 번거로우니까 지금 말하라고?
+그렇게는 할 수 없겠군… 일단 이게 룰이어서 말이지","Was? Du hast nicht verstanden, was ich meinte?
+Hier kann ich es dir nicht sagen ...
+Das geht so einfach nicht, weißt du."
+151,3006,"","It seems that there is a criminal calling himself
+the ""Mysterious Digital Face"" has tipped the
+police off about his planned crimes.","是這樣的……據說有個自稱『怪人數碼面相』的人物
+寄給警察一封犯罪預告。","","실은…『괴인 디지면상』을 자칭하는 인물에게서
+경찰에게 범행 예고가 있었던 듯하다","Es gibt da einen Kriminellen, namens „Mysteriöses
+Cybergesicht“. Er hat der Polizei einen
+Hinweis über seine miesen Pläne zukommen lassen."
+152,3006,"","He told the Shinjuku Matagi (a cop who loves
+Shinjuku) that he was going to steal top secret
+police information.","收信者是「親愛的『新宿又鬼刑警』」，
+內容是「我要偷走警方的機密資料」……","","친애하는『신주쿠 마타기 형사』라는 수신인으로
+「경찰의 기밀 데이터를 훔치겠다」라고…","Er hat dem Shinjuku-Matagi (einem Polizisten, der
+nach Shinjuku verrückt ist) gesagt, dass er streng
+geheime polizeiliche Informationen stehlen wird."
+153,3006,"","This is of course a situation for the police to
+deal with. They've put Detective Matayoshi of the
+cyber crime investigation unit in charge of this.","這是對警方發出的挑戰。
+當然，這屬於電腦犯罪搜查課又吉刑警負責的案件。","","이건 경찰에게 하는 도전이며
+당연하지만 전뇌범죄수사과 마타요시 형사의 담당사건이다","Natürlich ist dies eine heikle Situation für die
+Polizei. Kommissar Matayoshi vom Team für
+Cyberkriminalität hat den Fall übernommen."
+154,3006,"","Such dramatic incidents tend to hurt the pride of
+the police force...","這種劇場型的案件，
+不管怎樣勢必都會影響到警方的威信……","","이런 류의 극장형 사건은 좋든 싫든
+경찰의 위신이라는 게 걸려버린다","Solche dramatischen Zwischenfälle schaden dem
+Stolz der Polizei ..."
+155,3006,"","If the criminal manages to steal the data and gets
+away the blame will fall on Detective Matayoshi.","要是被犯人偷走資料又讓他逃跑的話，
+責任歸屬應該會落在又吉刑警的頭上吧。","","넋놓고 데이터를 도둑맞아서 범인을 놓치기라도 한다면
+마타요시 형사님의 책임 문제가 되겠지","Wenn der Täter es schafft, die Daten zu stehlen,
+ohne erwischt zu werden, wird Kommissar Matayoshi
+die Schuld gegeben."
+156,3006,"","If that's the case it will be a hard blow for
+us...","如果事情真的變成那樣，對我們也有損失……","","만약 그렇게 된다면 우리도 타격이 커진다…","Wenn das der Fall sein sollte, wäre das ein harter
+Schlag für uns ..."
+157,3006,"","So, I need you to help Matayoshi with his
+investigation covertly.","所以我要你
+在暗中協助又吉刑警。","","그러니 너는
+몰래 마타요시 형사님의 서포트를 해주었으면 한다","Deshalb musst du Matayoshi bei seinen
+Ermittlungen heimlich helfen."
+158,3006,"","Do you understand what I mean by ""covertly""?","聽好了，最多只是“暗中”哦？","","알겠나, 어디까지나 ""몰래""다","Weißt du, was ich mit „heimlich“ meine?"
+159,3006,"","...Huh?
+You have a question?","嗯？
+你有什麼疑問嗎？","","…응?
+뭔가 질문이 있나?","... Was?
+Du hast eine Frage?"
+160,2001,"","Who is this ""Mysterious Digital Face""?
+Who is this ""Shinjuku Matagi""?
+What do you mean by ""covertly""?","「怪人數碼面相」是？
+「新宿又鬼刑警」是？
+「暗中」是？","","「괴인 디지면상」이라는 건?
+「신주쿠 마타기 형사」라는 건?
+「몰래」라는 건?","Wer ist dieses „Mysteriöse Cybergesicht“?
+Wer ist dieser „Shinjuku-Matagi“?
+Was meinst du mit „heimlich“?"
+161,3006,"","Perhaps he was inspired by the ""Multifaced
+Criminal"" Ranpo Edogawa and got his name from
+that.","會取這名字，恐怕是從江戶川亂步的
+「怪人二十面相」那裡得到的靈感吧。","","아마도 에도가와 란포의「괴인 20면상」에서
+따온 이름이겠지","Vielleicht wurde er vom „Verbrecher mit den vielen
+Gesichtern“ von Ranpo Edogawa inspiriert und
+nennt sich deshalb so."
+162,3006,"","Back then, the mysterious man who inspired terror
+and madness in children...Kogorou Akechi was his
+name. His rival was a group of young detectives.","以前有個讓孩子們陷入恐懼與狂熱的神秘怪人……
+他是明智小五郎和少年偵探團的死對頭。","","옛날 아이들을 공포와 열광으로 이끈 수수께끼의 괴인…
+아케치 코고로와 소년탐정단의 라이벌이다","Damals gab es einen mysteriösen Mann, der Kindern
+Angst machte. Er hieß Kogorou Akechi. Seine
+Rivalen waren eine Gruppe junger Detektive."
+163,3006,"","You don't know about it because it was a bit
+before your time... Actually, even people in my
+generation are too young to know about it.","連這個東西都不知道，表示有世代隔閡……
+不對不對，這可不是在我的世代哦。","","그런 것도 모를 줄이야 세대 차이…
+아니 아니, 이건 내 세대가 아니다","Das war vor deiner Zeit ...
+Selbst meine Generation ist zu jung, um darüber
+wirklich Bescheid zu wissen."
+164,3006,"","I had never heard that phrase before either.
+It's most likely a nickname of some sort.","我也沒聽過這個說法，
+恐怕是暱稱之類的東西吧……","","나도 들어본 적이 없는 문구다
+아마 닉네임 같은 것이려나…","Das hat mir auch nichts gesagt.
+Wahrscheinlich ist es ein Spitzname."
+165,3006,"","At the end of the day, it may be spelled
+""Detective"" but it reads ""Cop."" ""Matagi"" means
+""bear hunter.""","總而言之，大概是寫做刑警，唸做“條子”吧。
+“又鬼”則是指狩獵熊的獵人……","","즉 형사라고 쓰고 “짭새”라고도 읽는 거겠지
+""마타기""라는 건 곰을 사냥하는 헌터인데…","Letztendlich ist der Kommissar ein Polizist.
+„Matagi“ bedeutet „Bärenjäger“."
+166,3006,"","Matayoshi is not very good at this kind of thing,
+so I asked him privately if he needs some help...","我心想，又吉刑警不太擅長應付這類型的事件，
+所以就跟他提議說我們會私下協助你，不過……","","이런 류의 사건은 마타요시 형사님이 힘들어 하실 거라고 생각해서
+협력하자는 이야기를 개인적으로 꺼내봤지만…","Matayoshi ist nicht gut in solchen Dingen, also
+habe ich ihn privat gefragt, ob er Hilfe
+gebrauchen kann."
+167,3006,"","Detective Matayoshi said ""This is a matter of
+pride for myself and the force!"" and refused...","又吉刑警卻回「這是關係到我與警方威信的事件」，
+拒絕了我們的協助……","","마타요시 형사님은「이건 나와 경찰의 위신이 걸린 사건이다」라며
+거절해서 말이지…","Kommissar Matayoshi meinte: „Bei dieser Sache
+geht es um meinen Stolz und den der Polizei!“
+Er wollte keine Hilfe ..."
+168,3006,"","But I'm not going to let this go so easily, so I
+would like you to support him ""covertly.""","但我們不能就這樣眼睜睜地看著事情發生。
+所以，我才要你「暗中」協助他。","","하지만 이대로 순순히 지켜볼 수는 없다
+그러니까「몰래」서포트를 해줬으면 한다","Aber so schnell lasse ich mich nicht davon
+abbringen. Deshalb möchte ich, dass du ihn
+„heimlich“ unterstützt."
+169,3006,"","So, please get to work as quickly as possible.
+...Huh? You want to know what you should do?","好，那就馬上開始行動吧。
+嗯？　該怎麼做才好？","","좋아, 그럼 바로 행동 개시하도록 하지
+…응? 어떻게 하면 되냐고?","Mach dich bitte so schnell wie möglich an die
+Arbeit. ... Was? Du willst wissen, was du
+tun sollst?"
+170,3006,"","This is about stolen info from the police, so try
+going and asking groups of thugs on the street for
+information.","既然犯人都說要偷警方的機密資料了，
+你不覺得從“流氓”身上應該可以問出什麼情報嗎？","","경찰의 기밀 데이터를 훔치겠다, 라고 말할 정도다
+""불량배들""에게서라면 뭔가 정보를 얻을 수 있을 것 같지 않나?","Es geht um gestohlene Polizei-Informationen, also
+frag Schlägergruppen auf der Straße, ob sie
+etwas wissen."
+171,3006,"","I'll try and find out what was said in that
+tip-off. You go to Kowloon and ask around.","我這邊會追查犯罪預告的資料，
+你就去「Kowloon」打聽一下吧。","","나는 범행예고 데이터를 쫓아 보겠다
+너는「쿠롱」에서 탐문을 해보도록","Ich werde herausfinden, was der Täter zur Polizei
+gesagt hat. Du gehst nach Kowloon und befragst
+Leute."
+201,4898,"","Yeah, of course I know!","喔，我當然知道囉！","","그래, 물론 알고 있어!","Ja, natürlich weiß ich das!"
+202,4898,"","Yeah, the ""Mysterious Digital Face"" is a hot topic
+around here at the moment. The cops were asking
+me the same kind of questions earlier.","『怪人數碼面相』……在我們之中現在算是熱門話題呢。
+而且剛才也有個警察來問了我類似的問題。","","『괴인 디지면상』… 우리 사이에선 지금 비교적 핫한 화제고
+그보다 아까도 경찰한테 비슷한 질문을 받았는데","Ja, das „Mysteriöse Cybergesicht“ ist hier ein
+heißes Gesprächsthema. Die Polizisten haben mir
+vorhin ähnliche Fragen gestellt."
+203,2001,"","?","？？","","??","?"
+204,4898,"","Wait, are you asking around about him? Well I'm
+not saying nothing to no cop. Cops and hackers are 
+enemies, you know?","應該說是打聽？　當然我什麼都沒回答他就是了。
+因為警察是駭客的潛在敵人吧？","","탐문수사라는 건가? 물론 아무것도 말해주지 않았지만 말야
+왜냐하면 경찰은 해커의 적이잖아? 잠재적으로","Moment, bist du ihm etwa auf der Spur? Einem
+Polizisten sag ich nichts. Polizisten und Hacker
+sind Feinde, verstehst du?"
+205,4898,"","This incident must be particularly embarrassing
+for the police. The criminal admitted to the crime
+before committing it.","這個事件的犯人可能對警察有什麼怨恨吧。
+居然發出那種犯罪聲明之類的東西。","","이 사건의 범인, 역시 경찰에 원한이라도 있는 걸까
+그런 범행성명 같은 걸 보내고 말야","Dieser Zwischenfall muss der Polizei besonders
+peinlich sein. Der Täter hat die Tat gestanden,
+bevor er sie begangen hat."
+206,4898,"","I know a hacker who hates the cops more than
+anyone... Maybe that guy is the Mysterious Digital
+Face...","憎恨警察的駭客我心裡是有譜啦。
+那傢伙說不定就是『怪人數碼面相』呢。","","…경찰을 꽤나 미워하는 해커라면 짐작가는 건 있는데
+그 녀석이『괴인 디지면상』일지도 모르겠네","Ich kenne einen Hacker, der die Polizisten mehr
+als alle anderen hasst ... Vielleicht ist er das
+Mysteriöse Cybergesicht ..."
+207,4898,"","Huh? You want to know where that hacker is?
+He hangs out in Shinjuku a lot.","嗯？　那個駭客在哪裡？
+他常常在「新宿」亂晃哦。","","…응? 그 해커는 어디 있냐고?
+자주「신주쿠」를 어슬렁거려","Was? Du willst wissen, wo der Hacker ist?
+Er hängt viel in Shinjuku rum."
+208,4898,"","He's a fiery, moody, shady kind of guy.
+Cop or not, you're gonna wanna question him.","個性陰沈，全身散發出詭異的氣息。
+看到那樣子，就算我不是警察都想訊問他了。","","어두운 느낌에 수상한 오라를 내뿜으면서 말이지
+그래서야 경찰이 아니더라도 불심검문하고 싶어진다고","Er ist ein launischer, zwielichtiger Hitzkopf.
+Egal, ob du ein Polizist bist oder nicht, du
+solltest ihn unbedingt befragen."
+209,3006,"","The cop-hating hacker is in Shinjuku...?","憎恨警察的駭客在新宿是嗎……","","…경찰을 미워하는 해커가 신주쿠에 있다, 인가","Der Hacker, der Polizisten hasst, ist in Shinjuku?"
+210,3006,"","I just got the info on the tip-off warning.
+It brought me here to Shinjuku, too.","我追查了一下犯罪預告的資料，
+結果也查到新宿這邊。","","범행예고 데이터를 쫓아본 결과
+이쪽도 신주쿠에 도착했다","Ich habe eben den Hinweis an die Polizei erfahren.
+Deshalb bin ich auch hier in Shinjuku."
+211,3006,"","One way or another it looks like our criminal
+is in Shinjuku... Go find him ASAP!","看來犯人應該就在「新宿」……
+火速趕往現場吧！","","아무래도 범인은「신주쿠」에 있는 것 같군…
+빨리 당장 가도록!","Egal, wie wir es drehen, unser Täter ist wohl in
+Shinjuku ... Finde ihn so schnell wie möglich!"
+212,3007,"","...Huh? Oh, you're from Kyoko's office, right?","咦？　你是小杏那邊的人。","","…오오? 너는 쿄짱이랑 있던","Was? Ach, du bist von Kyokos Büro, nicht wahr?"
+213,3007,"","Hey, what's with the ""Oh crap!"" look on your
+face!? What are you doing here?","喂喂喂是怎樣，一臉嚇到的表情……
+你在這種地方幹嘛？","","어이어이 뭐야, 그 걸렸다!? 라는 얼굴은…
+…너, 이런 곳에서 뭘 하고 있는 거야?","He, warum guckst du denn so, als hätte man dich
+auf frischer Tat ertappt?! Was machst du hier?"
+214,2001,"","...Is this an investigation? I am exercising my
+right to remain silent... Um, how about some
+katsudon? It's on me!","你在盤問我嗎？
+我要行使緘默權……
+請我吃豬排蓋飯！","","…이건 취조인가요?
+묵비권을 행사합니다…
+카츠동 쏴 주세요!","... Ermittelst du gerade? Ich nehme mein Recht zu
+schweigen in Anspruch ... He, wie wäre es mit
+Katsudon? Ich lade dich ein!"
+215,3007,"","What are you talking about?
+You've watched too many detective shows...","你在胡說什麼啊？　我看你是警匪片看太多了。","","너 뭐라는 거야? …형사 드라마를 너무 많이 봤다고","Wovon redest du?
+Du hast zu viele Krimis geschaut ..."
+216,3007,"","...Huh?
+You want to know what I am doing?","嗯？
+你才要問我在這裡做什麼？","","…응?
+마타요시 씨야말로 뭘 하고 있냐고?","Was?
+Du willst wissen, was ich mache?"
+217,3007,"","I'm on the trail of the Mysterious Digital Face.
+I've come to EDEN to ask around about him.","我在追查一個叫怪人數碼面相的傢伙，
+然後就像這樣在EDEN偏僻的地方打聽。","","나는 괴인 디지면상이라는 놈을 쫓고 있다
+그래서 이렇게 EDEN 변두리에서 탐문을 하고 있지","Ich jage das „Mysteriöse Cybergesicht“.
+Ich bin nach EDEN gekommen, um Leute zu
+ihm zu befragen."
+218,3007,"","...Huh? You say you think that hacker who hates
+cops is in Shinjuku?","嗯？
+新宿好像有一個憎恨警察的駭客？","","…응?
+신주쿠에 경찰을 미워하는 해커가 있는 것 같다고?","Was? Du meinst, dass der Hacker, der
+Polizisten hasst, sich in Shinjuku befindet?"
+219,3007,"","A hacker who ""hates"" cops, you say...","“憎恨”警察的駭客是嗎……","","경찰을 ""미워하는"" 해커라…","Ein Hacker, der Polizisten „hasst“ ..."
+220,3007,"","But how do you know that?","不過你為什麼會知道這種事？","","그런데 너 어째서 그런 걸 알고 있는 거야?","Aber woher willst du das wissen?"
+221,2001,"","Intuition!
+The Force is with me!
+An oracle told me!","因為直覺！
+因為原力！
+因為神諭！","","감입니다!
+힘입니다!
+신의 계시입니다!","Intuition!
+Die Macht ist mit mir!
+Ein Orakel hat es mir verraten!"
+222,3007,"","Hmm, okay, well thanks for the info...","嗯……
+總之，謝謝你提供情報。","","…흐음
+뭐, 정보 공유 고마워","Hm, okay. Danke für den Tipp ..."
+223,3007,"","If Kyoko is getting you to do something, I want to
+know what it is.","如果你是被小杏煽風點火
+因此想做些什麼的話，那可是多管閒事哦？","","…만약 쿄짱한테 명령받아서
+뭔가 하려고 하고 있는 거라면 쓸데없는 참견이라고?","Wenn Kyoko dich gebeten hat, etwas zu tun, möchte
+ich wissen, was es ist."
+224,3007,"","This is a matter of police pride!
+It's mine to take care of!","這關係到警方威信，是我的案子。","","이건 경찰의 위신이 걸린, 내 무대니까 말이야","Es geht hier um den Stolz der Polizei!
+Ich muss mich darum kümmern!"
+225,2001,"","...","……","","……","..."
+226,2001,"","Anyway, let's look for the hacker who hates cops
+in Shinjuku.","總之先在「新宿」找找那個憎恨警察的駭客吧。","","아무튼「신주쿠」에서 경찰을 미워하는 해커를 찾자","Wie dem auch sei. Suchen wir den
+polizeifeindlichen Hacker in Shinjuku."
+250,4898,"","The hacker who really despises cops is in
+Shinjuku.","如果要找那個憎恨警察的駭客，他在新宿哦。","","엄청나게 경찰을 미워하는 해커라면 신주쿠에 있어","Der Hacker, der Polizisten völlig verachtet, ist
+in Shinjuku."
+301,3006,"","Looks like we've arrived in Shinjuku.","看來你抵達新宿了。","","신주쿠에 도착한 것 같군","Wir sind in Shinjuku angekommen."
+302,3006,"","...Huh? You met Matayoshi while you were asking
+around in Kowloon?","什麼？
+你遇到在Kowloon打聽的又吉刑警？","","…뭐라고?
+쿠롱에서 탐문수사 중인 마타요시 형사와 만났다고?","Was? Du hast Matayoshi getroffen, während du dich
+in Kowloon umgehört hast?"
+303,3006,"","I see, you told him about the information on
+Shinjuku.","是嗎……你把新宿的情報告訴他了啊。","","그렇군… 마타요시 형사님께 신주쿠 정보를 드린 건가","Ich verstehe. Du hast ihm über Shinjuku Bescheid
+gesagt."
+304,3006,"","If Detective Matayoshi solves the case by himself
+with that information, that'll be great.","如果又吉刑警能基於那個情報獨力解決事件，
+當然是再好不過了……","","그 정보로 마타요시 형사님이 단독으로 사건을 해결해 주신다면
+물론 그 이상 좋은 건 없지만…","Wenn Kommissar Matayoshi mithilfe dieser
+Information den Fall allein löst, wäre das klasse."
+305,3006,"","Just to be sure, please continue your
+investigation in Shinjuku.","保險起見，你就繼續在新宿調查。","","만약을 위해 너도 그대로 신주쿠에서 조사를 계속하도록","Aber um auf Nummer sicher zu gehen, solltest du
+deine Ermittlungen in Shinjuku fortsetzen."
+351,4730,"","A hacker who hates cops?","憎恨警察的駭客？","","경찰을 미워하는 해커?","Ein Hacker, der Polizisten hasst?"
+352,4730,"","...I saw this guy, he didn't look like a hacker
+but he really hated cops...","雖然他應該不是駭客，
+不過我有看到一個憎恨警察的人哦……呵呵呵。","","…해커가 아닌 것 같지만
+지독히도 경찰을 미워하는 녀석은 봤네에… 듀후후","Ich habe den Typen gesehen. Er wirkte nicht wie
+ein Hacker, aber er hat Polizisten echt gehasst."
+353,4730,"","He was whispering something hateful about cops
+by the access point to the station courtyard...","那人在站前廣場的登入地點附近
+嘰嘰咕咕說著他對警察的恨意……","","역 앞 광장의 액세스 포인트 부근에서
+경찰을 향한 원망을 투덜투덜 중얼거리고 있었어…","Er hat irgendwas Gehässiges über Polizisten
+gemurmelt. Das war am Zugangspunkt am
+Bahnhofsplatz."
+354,4730,"","But I don't really think he hates the police...
+I mean, come on, we are soooo cool!","不過，真不敢相信竟然有人會恨警察呢……
+警察明明“那麼”優秀……呵呵呵。","","하지만 경찰을 미워한다니 믿을 수가 없네…
+경찰은 ""그렇게나"" 굉장한데… 듀후후","Aber ich glaube nicht wirklich, dass er Polizisten
+hasst ... Wir sind doch sooo cool!"
+355,4730,"","Some day I'm definitely gonna...ahem.","總有一天我也會……呵呵，呵呵呵呵呵。","","언젠가 반드시, 나도… 듀후, 듀후후후후","Eines Tages werde ich wirklich ... Ähm."
+356,2001,"","...","……","","……","..."
+580,2001,"","All right, let's go to the access point in the
+station courtyard.","總之先去
+「站前廣場的登入地點」附近看看吧。","","아무튼
+「옆 앞 광장의 액세스 포인트」부근으로 가보자","Also gut, gehen wir zum Zugangspunkt am
+Bahnhofsplatz."
+401,4068,"","What is it?
+You got somethin' you wanna ask?","什麼？
+你有事要問我？","","뭐야아?
+물어보고 싶은 게 있다고오?","Was ist denn?
+Willst du was wissen?"
+402,4068,"","What the!? Who the hell are you!? You think you're
+so important! You asking around? You're a cop
+right?","你、你你你是誰！　你是什麼人！？
+一副很跩的樣子！　你在打聽事情？　難道你是警察？","","누누누누누구야! 넌 누구야!?
+폼 잡고선! 탐문수사인가? 설마 경찰인 거냐?","Was zum?! Wer zum Teufel bist du?! Du hältst dich
+wohl für wichtig! Du schnüffelst herum? Du bist
+ein Polizist, nicht wahr?"
+403,4068,"","You're just hiding behind the power the state
+gives you! Tyranny! Cruelty! This is a violation
+of my human rights!","居然倚仗國家權力！
+這是蠻橫！　這是虐待！　這是侵犯人權！","","국가권력을 등에 업고선!
+횡포다! 학대다! 인권침해다!","Du versteckst dich nur hinter der Macht, die dir
+der Staat verleiht! Tyrannei! Grausamkeit!
+Meine Menschenrechte werden verletzt!"
+404,4068,"","Waaahhhhhhhhhhhhhhh!!!","嗚啊啊啊啊————！！","","우오오오오오오――――――옹!!","Uaaahhhhhhhhh!!!"
+405,2001,"","Looks like he's run from the access point to EDEN.
+Let's go after him!","他似乎從登入地點逃進EDEN裡面了。
+快點去追他吧。","","액세스 포인트에서 EDEN 안으로 도망친 것 같다
+서둘러 쫓아가자","Er scheint vom Zugangspunkt nach EDEN abgehauen zu
+sein. Ihm nach!"
+450,4900,"","Huh? Did I see a suspicious man? Not really,
+but...if anyone around here looks suspicious it's
+you. You have a very suspicious feel about you...","嗯？　你問我有沒有看到可疑男子？
+我沒有看到那樣的人……不過硬要說的話就是你了吧。
+我覺得你看起來非常可疑……","","…응? 수상한 남자를 보지 못했냐고?
+딱히 그런 사람은 못 봤지만… 굳이 말하자면 너일려나
+너는 뭔가 매우 수상한 느낌이 들어…","Was? Ob ich einen Verdächtigen gesehen habe? Nicht
+wirklich, aber wenn hier wer verdächtig ist,
+dann du. Du bist durch und durch verdächtig ..."
+460,4901,"","...Hey, you over there, what are you up to!?
+Earlier I saw you whispering something,
+I...I should call the police!","那邊那個人感覺好可怕哦。
+從剛才就一個人在那邊嘰嘰咕咕的……
+要、要不要叫警察來比較好？","","…저기 있는 사람, 왠지 엄청 무서워요
+아까부터 혼자서 뭐라고 중얼거려서…
+겨, 경찰을 부르는 게 좋을까요?","He, du da drüben. Was machst du da?!
+Vorhin habe ich dich beim Flüstern beobachtet.
+Ich ... Ich sollte die Polizei rufen!"
+501,4068,"","I hate the police! I hate them! I haaaate theeem!","我最討厭警察了，超討厭、討厭到不行！","","경찰 따위, 싫어, 싫어, 싫어어어!","Ich hasse die Polizei! Ich hasse sie!
+Ich haaasse siiie!"
+502,4068,"","...Questioning?
+...Bicycle registration number?","訊問？
+要確認我腳踏車的登記編號？","","…직무 질문?
+……자전거의 등록 번호 확인?","... Befragen?
+... Fahrradrahmennummer?"
+503,4068,"","I don't have time for that! I need to get home,
+my favorite anime show is about to start!","我可沒有閒工夫做那種事！
+我想快點回家看動畫啦——！！","","그런 걸 하고 있을 시간 없거든요!
+빨리 가서 애니메이션 봐야한다고요오――!!","Dafür habe ich keine Zeit! Ich muss nach Hause,
+mein Lieblingsanime beginnt gleich!"
+504,4068,"","Am I really that suspicious looking?
+Am I really that shady?","我看起來有那麼詭異嗎？
+看起來有那麼可疑嗎——！！","","제가 그렇게 수상해 보여요?
+그렇게나 의심스럽냐고요오오――!!","Sehe ich wirklich so verdächtig aus?
+Bin ich wirklich so zwielichtig?"
+505,1314,"","The police are the enemy!
+The police are the enemy!","警察是敵人！　警察是敵人！","","경찰은 적! 경찰은 적!","Die Polizei ist der Feind!
+Die Polizei ist der Feind!"
+506,2001,"","...","……","","……","..."
+507,1314,"","You...you're the cops' crony?
+So, you're their little lap dog!!!","你是……警察的爪牙？
+走狗！　你是警察的走狗——！！","","너… 경찰의 앞잡이?
+개! 경찰의 개애애――!!","Du ... Du bist ein Handlanger der Polizei?
+Ihr kleines Schoßhündchen!"
+601,4904,"","...Whoa!?
+...Oh, wha'...where am I!?","嗚哇！？
+奇、奇怪……我到底是……","","…우왓!?
+……어, 어라… 나는 대체 뭘…","... Waaas?!
+... Ach, was ... wo bin ich?!"
+602,4904,"","Huh? Possessed by a Digimon?
+I see, I can't remember...","什麼？　我被數碼寶貝附身了？
+原來是這樣，難怪我最近的記憶都……","","뭐? 디지몬에게 씌여 있었다고요?
+…그렇구나, 최근의 기억이…","Was? Von einem Digimon besessen?
+Verstehe. Ich kann mich nicht erinnern ..."
+603,4904,"","...Hmm? Mysterious Digital Face? He stole the
+secret police data? What are you talking about?","嗯？　怪人數碼面相？　偷警方的機密資料？
+你說的那些是怎麼回事？","","…응? 괴인 디지면상? 경찰의 기밀 데이터를 훔친다고?
+무슨 말인가요, 그건?","... Hm? Mysteriöses Cybergesicht? Er hat
+geheime Polizei-Informationen gestohlen?
+Wovon redest du?"
+604,4904,"","First off, I'm not a hacker...
+I admit I hate the police, but...","第一，我並不是駭客……
+雖然我憎恨警察的確是事實。","","애초에 저는 해커도 아니고…
+경찰을 미워했던 건, 그야 사실이긴 하지만","Erstens bin ich kein Hacker ...
+Ich gebe zu, dass ich die Polizei hasse, aber ..."
+605,4904,"","I was born with a strange, suspicious vibe so
+everyone always mistrusts me and treats me like
+their enemy.","我只不過是天生就比別人
+多了點可疑的氣息，
+沒必要因為這樣就對我抱持敵意吧！","","그치만 내가 다른 사람보다 조금
+수상한 분위기를 가지고 태어났다고 해서
+나만 눈독들이지 않아도 되는데!","Ich wurde mit einer seltsamen verdächtigen Aura
+geboren, wodurch Leute mir immer misstrauen
+und mich wie ihren Feind behandeln."
+606,4904,"","Anyway, I don't know anything about the Mysterious
+Digital Face!","總而言之，我不知道什麼怪人數碼面相就對了！","","아무튼 저는 괴인 디지면상 같은 건 몰라요!","Jedenfalls weiß ich nichts über das Mysteriöse
+Cybergesicht!"
+607,2001,"","...","……","","……","..."
+608,3006,"","Did you catch the criminal? Okay, just bring the
+criminal straight to the station, and don't let
+Detective Matayoshi see you...","抓到犯人了嗎……
+那就將他帶回來，小心別讓又吉刑警發現了。","","용의자를 잡았나…
+그럼 마타요시 형사에게 들키지 않도록 연행해서…","Hast du den Täter erwischt? Bring ihn direkt aufs
+Revier. Und sorg dafür, dass Kommissar Matayoshi
+dich nicht sieht."
+609,3006,"","...Huh?","嗯？","","……응?","... Was?"
+610,3006,"","He wasn't a criminal, just shady?","只是形跡可疑而已，並不是犯人？","","수상했을 뿐 범인은 아니었다고?","Er war kein Krimineller, er hat nur so gewirkt?"
+611,3006,"","I see...
+That's a pity...","這樣啊……
+那是有點對不起他了……","","그런가…
+그건 미안한 짓을 했군…","Verstehe ...
+Wie schade ..."
+612,3006,"","There's nothing to be done for it, we need to do
+the investigation again. Please come back here.","沒辦法，再重新調查一次吧。
+你先回來這裡再說。","","어쩔 수 없다, 다시 조사하도록 하지
+일단 여기로 돌아오도록","Es nützt nichts, wir müssen mit der Ermittlung von
+vorne beginnen. Bitte komm wieder her."
+651,4277,"","Hey, you! What are you doing here?","你在這種地方幹嘛？","","너 이런 곳에서 뭐하는 거야?","He, du! Was machst du denn hier?"
+652,3007,"","Hahaha, surprised, eh?
+...Hmm? You want to know who this is?","又被嚇到了嗎？　哈哈哈。
+嗯？　你問這傢伙是誰？","","걸렸다! 인가? 하하하
+…응? 이 녀석은 누구냐고?","Hahaha, überrascht, was?
+... Hm? Du willst wissen, wer das ist?"
+653,3007,"","This is the infamous ""Mysterious Digital Face""!
+I just arrested him!","他就是那個「怪人數碼面相」啦。
+我剛才逮捕到他了。","","이 녀석이 그「괴인 디지면상」이야
+지금 막 체포한 참이다","Dies ist das berüchtigte „Mysteriöse
+Cybergesicht“! Ich habe ihn gerade verhaftet!"
+654,2001,"","!!!","！！","","!!","!!!"
+655,3007,"","Huh? How do I know? This guy isn't a real
+policeman, he's just a normal guy in a costume.","嗯？　你問為什麼是這個人？
+其實這傢伙根本不是什麼警察，只是扮成警察的樣子而已。","","응? 어째서 이 녀석이냐고?
+이 녀석은 경찰관 흉내를 내고 있을 뿐인 풋내기라는 거지","Was? Woher ich das weiß? Er ist kein echter
+Polizist. Er ist nur ein normaler Typ in
+einem Kostüm."
+656,4730,"","Just what you'd expect from Detective Matayoshi...
+You've truly earned the tile of the ""Shinjuku
+Matagi""...","不愧是又吉刑警……
+不負新宿又鬼刑警此一稱號……呵呵呵。","","역시 마타요시 형사님입니다…
+신주쿠 마타기 형사라는 이명을 가질 만해요… 듀후후","Von Kommissar Matayoshi hatte ich nichts anderes
+erwartet. Den Titel „Shinjuku-Matagi“ hast du
+dir wirklich verdient."
+657,3007,"","Right from the start, I never thought the criminal
+who did this hated the police.","我從一開始就不認為
+這個案件的犯人對警察有恨意。","","나는 일찍부터 이 사건의 범인은
+경찰에 원한이 있는 녀석이 아니라고 생각했어","Ich wusste von Anfang an, dass der Täter die
+Polizei nicht hasste."
+658,3007,"","""Shinjuku Matagi"" was my nickname over ten years
+ago...","新宿又鬼刑警是我的綽號，
+好幾十年前的綽號了。","","신주쿠 마타기 형사― 그건 내 닉네임이다
+몇십 년이나 예전의","„Shinjuku-Matagi“ war vor über 10 Jahren mein
+Spitzname ..."
+659,3007,"","The person who knew this must have really liked
+the police... No, he'd have to be a complete
+fanatic.","會知道這個的，
+就只有相當喜歡警察……不，就只有箇中愛好者了。","","이런 걸 알고 있는 건
+상당한 경찰 팬… 아니, 마니아밖에 없어","Die Person, die das wusste, musste wirklich gut
+über die Polizei Bescheid gewusst haben. Es
+musste sich um einen Fanatiker handeln."
+660,3007,"","When I was going around Shinjuku asking about this
+and I ran into him, it came to me instinctively.","我在新宿打聽，
+然後遇到這傢伙時，立刻就覺得是他了。","","신주쿠에서 탐문을 하다
+이 녀석과 만났을 때 팟 감이 왔지","Als ich deswegen in Shinjuku herumfragte und ich
+ihm über den Weg lief, wurde es mir instinktiv
+klar."
+661,3007,"","When I looked into him I found out he wasn't a
+real cop.","經過調查後發現，
+這傢伙非但不是真正的警察，","","조사해보니 이 녀석
+진짜 경찰관이 아니었을 뿐만 아니라","Als ich Nachforschungen anstellte, kam heraus,
+dass er kein echter Polizeibeamter war."
+662,3007,"","He's a hacker who aspired to be a member of our
+cyber crime squad of the police, but kept failing
+the entrance exam.","甚至是個因為想進入電腦搜查課而參加警察考試，
+但好幾次都沒考上的駭客。","","전뇌수사과 지망으로 경찰시험을 쳐서
+몇 번이나 불합격이 된 해커였던 거야","Er ist ein Hacker, der in unserer Abteilung für
+Cyberkriminalität arbeiten wollte, aber immer
+wieder durch die Aufnahmeprüfung gefallen ist."
+663,3007,"","He broke under the pressure and admitted it when I
+cross-examined him.","我逼問他後，他很爽快就招認了。","","몰아붙였더니 순순히 자백했어","Schließlich haben wir ihn in die Mangel genommen
+und beim Kreuzverhör hat er alles gestanden."
+664,4730,"","Wow, Japanese police are truly excellent to be
+able to find me out so easily... Heh.","居然這麼簡單就找出來是我……
+日本的警察果然很優秀……呵呵，呵呵呵呵呵。","","나를 이렇게 간단히 찾아내다니…
+여깃 일본의 경찰은 우수해… 듀후, 듀후후후후","Wow, die japanische Polizei ist unglaublich gut,
+wenn sie mich so leicht entlarvt hat ... Ha."
+665,4730,"","So now I will get to spend all day every day with
+these policemen... Well, I guess that's not so
+bad... Hwahwahwa....","一想到接下來的每天晚上都可以跟這些警察們一起度過……
+我就……呵呵，呵呵呵呵呵。","","앞으로 이런 경찰들과 매일밤 함께 지낼 수 있다고 생각하면…
+그건 그것대로… 듀후, 듀후후후후","Jetzt kann ich also jeden Tag in Gesellschaft
+dieser Polizisten zubringen ... Das ist nicht
+ganz schlecht ... Harharhar ..."
+666,3007,"","Well, it feels like catching this guy is it's own
+reward, but... Well, I supposed that's enough.","對這傢伙來說，逮捕他反而是種獎賞……
+雖然有點那個，不過也無可奈何。","","이 녀석에게 있어선 체포 자체가 포상인 듯해서 좀 그렇지만…
+뭐 어쩔 수 없지","Diesen Typen dingfest gemacht zu haben, ist wohl
+Belohnung genug, aber ... Nun ja, es genügt wohl."
+667,3007,"","I suppose I should thank you for your help...","對了，
+我得向你道謝才行。","","…그렇지
+너한테는 감사인사를 해 둬야겠군","Ich sollte dir wahrscheinlich für deine Hilfe
+danken ..."
+668,2001,"","?","？？","","??","?"
+669,3007,"","I was only able to catch him because you gave me
+important clues.","說起來，可以逮捕到這傢伙
+也是因為你給我的提示。","","애초에 이 녀석을 체포할 수 있었던 건
+네가 준 힌트가 있었기 때문이었다","Ich konnte ihn nur verhaften, weil du mir wichtige
+Hinweise geliefert hast."
+670,3007,"","You helped me save face...
+I thank you for that.","這麼一來我的名譽就保住了。
+……感激不盡。","","내 체면도 이걸로 지킬 수 있게 됐어
+…정말 고맙다","Du hast mir geholfen, mein Gesicht zu wahren ...
+Dafür danke ich dir."
+671,3007,"","Please pass my regards on to Kyoko, and tell her
+I'm sorry for worrying her.","替我向小杏問一聲好，
+就說「讓她擔心了」。","","쿄짱에게 잘 전해줘
+걱정을 끼쳤습니다, 라고 말이지","Bitte bestell Kyoko einen Gruß von mir und sag
+ihr, dass es mir leidtut, dass ich ihr Sorgen
+bereitet habe."
+801,3006,"","...Right, so the Mysterious Digital Face was
+safely brought to justice?","原來如此，他順利逮捕到怪人數碼面相了啊。","","…그렇군, 괴인 디지면상은 무사히 체포됐나","Das Mysteriöse Cybergesicht muss sich also vor
+Gericht verantworten?"
+802,3006,"","You've managed to preserve the honor of the police
+force and of Detective Matayoshi. Good job.","這樣警方的顏面得以保住，又吉刑警的地位安穩，
+結果真是可喜可賀啊。","","이걸로 경찰의 위신도 지켰고 마타요시 형사님의 자리도 무사하다
+만만세인 결과로군","Dir ist es gelungen, die Ehre der Polizei und die
+von Kommissar Matayoshi zu wahren.
+Gute Arbeit."
+803,3006,"","I suppose we should reconsider our low opinion of
+Detective Matayoshi now...","不過……看來我們必須反省一下
+小看了又吉刑警這件事呢。","","하지만… 우리는 마타요시 형사님을 얕보고 있었다는 걸
+반성해야만 할 것 같다","Vielleicht sollten wir unsere schlechte Meinung
+von Kommissar Matayoshi überdenken ..."
+804,3006,"","We tried to support him covertly at first, but...
+We weren't able to find the criminal by
+ourselves...","本來打算暗中協助又吉刑警的……
+但是靠我們應該很難追查到那個犯人吧。","","마타요시 형사님을 몰래 서포트할 생각이었지만…
+우리로선 그 범인에 도달하는 건 어려웠겠지","Wir haben erst versucht, ihn heimlich zu
+unterstützen, aber allein konnten wir
+den Täter nicht finden ..."
+805,3006,"","He is an elite detective... That gut instinct of
+his, that's one of the greatest gifts you can
+have...","不愧是經過千錘百煉的刑警……
+就對他的“直覺”與“嗅覺”致上最高的讚美吧。","","역시 뼈가 굵은 형사…
+그 ""감""과 ""후각""에 최대급의 찬사를 보내지 않겠나","Er ist ein erstklassiger Kommissar ... Sein
+Instinkt ist eine der größten Gaben
+überhaupt."
+806,3006,"","...","……","","……","..."
+807,3006,"","Still...","不過話說回來，","","…그건 그렇고","Und doch ..."
+808,3006,"","The ""Shinjuku Matagi""...","「新宿又鬼刑警」啊……","","「신주쿠 마타기 형사」인가…","Der „Shinjuku-Matagi“ ..."
+809,3006,"","""Matagi"" means a bear hunter, a person who can use
+the footprints and smell of a bear to track it
+down and move in for the kill.","又鬼就是指狩獵熊的獵人。
+又鬼會靠著遺留在現場的足跡與氣味對熊窮追不捨，
+最後一定會將牠斃命……","","마타기라는 건 곰을 사냥하는 헌터라는 뜻
+마타기는 현장에 남은 발자국이나 냄새로 끈질기게 곰을 추적해서
+반드시 숨통을 끊는다고 한다","„Matagi“ bedeutet Bärenjäger. Eine Person, die
+mithilfe von Spuren und Geruch einen Bären
+verfolgen und ihm auflauern kann."
+810,3006,"","Of course, it's the perfect nickname for Detective
+Matayoshi.","原來如此，這綽號的確很適合又吉刑警。","","과연, 마타요시 형사님께 딱인 닉네임이군","Das ist der perfekte Spitzname für Kommissar
+Matayoshi."
+850,3006,"","Bear Hunter Detective... You will have to try your
+very best to earn a nickname like that.","又鬼刑警……為了讓自己擁有像這樣的別名，
+你也好好工作吧。","","마타기 형사… 너도 그런 이명을 가질 수 있도록
+제대로 일해주길 바란다","Der bärenjagende Kommissar ... Du musst dein
+Bestes geben, um dir auch mal solch einen
+Spitznamen zu verdienen."
+901,3006,"","I think the real ""Multifaced Criminal"" was sort of
+a fan of the police and PIs. He's probably the
+first ever hot-cold personality type.","回想起來，原作的怪人二十面相
+從不同角度看的話，也是個喜歡警察和偵探的人物。
+或許就是時下所講的“傲嬌”的先鋒吧。","","생각해 보면 진짜 괴인 20면상도
+보는 방법에 따라선 경찰이나 탐정을 좋아하는 인물이었다
+요즘 말하는 ""새침데기""의 시초일지도 모르겠군","Ich glaube, der „Verbrecher mit den vielen
+Gesichtern“ war Fan von Polizei und Detektiven. Er
+war der Erste mit einer bipolaren Persönlichkeit."
+902,2000,"","I need to talk to the suspicious man!","要向可疑男子問話才行……！","","수상한 남자에게 말을 걸어야 해…!","Ich muss mit dem verdächtigen Mann reden!"

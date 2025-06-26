@@ -1,0 +1,553 @@
+﻿ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
+100,5004,,"Se questo testo appare nel gioco, è un bug.
+Si prega di segnalarlo.","遊戲中若跑出這段文字就表示有BUG。
+到時候請記得回報。",,,"Wenn dieser Text im Spiel erscheint, ist das ein
+Fehler. Bitte melden."
+1000,3006,,"...Sei libero? Di cosa stai parlando? I
+detective non hanno tempo libero. Bene,  ecco un compito
+per te. Scopri cosa dovresti fare.","嗯？　什麼？　……你說你很閒？　你是在說些什麼啊？
+偵探可沒有時間摸魚哦。
+你必須自行判斷自己該做的事。",,"응? 뭐? …한가하다고? 넌 대체 무슨 소리를 하는 건가…
+탐정에게 한가한 시간 같은 건 존재하지 않아
+스스로 판단해서, 자신이 해야 할 일을 하도록","Du hast nichts zu tun? Wovon redest du? Detektive
+haben immer was zu tun. Hier hast du eine Aufgabe.
+Überleg dir, was du tun solltest."
+2000,3006,,"Per prima cosa, dai un'occhiata alla  lavagna bianca a
+destra della mia scrivania.","這樣好了，你先面向我的辦公桌，
+然後確認放在右邊的白板上面的內容。",,"그렇군, 우선 내 데스크를 향했을 때 오른쪽에 있는
+화이트보드를 체크해 보도록","Schau zuerst auf das Schwarze Brett rechts von
+meinem Schreibtisch."
+2005,3006,,Sembra che tu sia stato in grado di accettare un caso.,看來你順利接下委託了呢。,,아무래도 무사히 의뢰를 수주한 모양이군,Du scheinst einen Fall akzeptiert zu haben.
+2006,3006,,"È piuttosto semplice. Quando vuoi accettare
+un nuovo caso, prendine uno dalla lavagna,
+proprio così.","在接受委託時，
+基本上就是像剛才那樣確認寫在白板上面的內容。",,"의뢰를 수주할 때는
+방금처럼 화이트보드를 확인하는 게 기본이다","Alles ganz einfach. Wenn du einen neuen Fall
+annehmen möchtest, hol dir einen vom Schwarzen
+Brett."
+2007,3006,,"Aggiungerò nuovi casi di tanto in tanto,
+quindi assicurati di controllarlo ogni tanto.","你可以偶爾確認一下白板。
+有時會追加新的委託。",,"때때로 화이트보드를 체크해 보도록
+새로운 의뢰가 추가되어 있는 경우도 있으니까 말이지","Ich werde öfter neue Fälle hinzufügen.
+Schau also hin und wieder vorbei."
+2008,3006,,"Comunque, vai avanti e inizia a parlare
+con le persone. Conto su di te anche per il mio caso.","那麼，你先到處打聲招呼吧。
+我的委託也麻煩你囉。",,"그럼, 인사를 끝내고 오도록
+내 의뢰 쪽도, 잘 부탁한다","So, geh los und rede mit Leuten.
+Auch für meinen Fall zähle ich auf dich."
+2010,3006,,"Accetta qualche caso mentre fai il tuo giro.
+Consideralo un test. Sarò il tuo cliente, ma non
+pensare che questo significhi che puoi rilassarti.","在四處打招呼時，也順便完成剛才承接的委託吧。
+這次只是先測試而已。
+雖然委託人是我，但可不能輕忽大意哦。",,"인사를 하고 다니면서, 수주한 의뢰도 달성하도록
+이번에는 어디까지나 테스트다
+의뢰인은 비록 나다만, 긴장을 풀지 말고 임해 주도록","Nimm ein paar Fälle an, während du deine Runden
+drehst. Das ist wie ein Test. Ich bin dein Klient,
+aber das heißt nicht, dass du trödeln kannst."
+2020,3006,,"Oh, sembra che tu abbia risolto il caso.
+Ma non dovresti disturbarmi per questo.
+Quando completi un caso, annotalo sulla lavagna.","嗯，看來你已經完成委託了。
+不過，要報告完結果後，才算是真正達成委託。
+不是直接跟我說，而是在白板上寫下完成委託的報告。",,"흐음, 의뢰를 달성하고 온 것 같군
+단, 완료 보고를 해야 비로소 의뢰는 달성된다
+나에게 직접 보고하지 말고, 화이트보드에 완료 보고를 적도록","Wie es aussieht hast du den Fall gelöst. Aber
+ich habe dafür keine Zeit. Notiere es auf dem
+Schwarzen Brett, wenn du einen Fall abschließt."
+2030,3006,,"Dirigiti a Shinjuku. Potremmo non sapere tutto, ma
+uscire e agire è fondamentale. Non pensarci troppo,
+continua semplicemente ad andare avanti.","目標地點是新宿。
+雖然你應該還有很多不懂的地方，不過所謂熟能生巧。
+先不用想太多，總之往前進就對了。",,"목적지는 신주쿠다
+아직 모르는 게 많겠지만, 배우는 것보다 익숙해져라, 다
+어렵게 생각하지 말고, 우선 앞으로 나아가 보도록","Geh nach Shinjuku. Wir wissen nicht alles, aber es
+ist wichtig, einen Anfang zu machen. Überleg nicht
+zu lange, mach einfach weiter."
+2040,3006,,"L'hackeraggio di account sta iniziando a
+essere un vero problema. Vai a
+chiedere in giro a EDEN, vedi cosa riesci a scoprire.","畢竟是鬧得這麼大的『帳號狩獵』。
+只要到EDEN走一趟，應該能獲得某些情報吧。",,"이렇게나 소동이 되고 있는『계정 사냥』이다
+EDEN에 가면 무언가 정보를 입수할 수 있겠지","Kontendiebstahl ist langsam echt ein
+Problem. Hör dich in EDEN um.
+Vielleicht kannst du etwas herausfinden."
+2041,3006,,"Non so molto su come ottenere le
+informazioni di Makoto  Yamashina, ma...indaga anche su
+quello,  per favore? Vai, accedi a EDEN.","關於『山科誠』的情報的取得方式還不清楚……
+不過還是請你同時進行調查。
+好了，快登入EDEN吧。",,"『야마시나 마코토』의 정보 입수에 관해서는 알 수 없지만…
+병행해서 조사를 부탁한다
+그럼, EDEN에 로그인하도록","Ich weiß nicht, wie man die Informationen zu
+Makoto Yamashina bekommt, aber sieh dir die Sache
+mal an, ja? Los, logg dich in EDEN ein."
+2050,3006,,"Hmm... Allora lascerò il resto
+delle indagini a te. Non vedo l'ora di
+vedere le tue abilità investigative.","嗯……　後續調查就交給你負責吧。
+我很期待你身為偵探的天分哦。",,"흐음… 뒷일의 조사는 너에게 맡기도록 하지
+너의 탐정으로서의 소질을 기대하고 있다","Hm ... Dann überlasse ich dir den Rest der
+Ermittlungen. Ich freue mich schon darauf,
+deine detektivischen Talente zu erleben."
+2051,3006,,"...Cosa succede se non sai cosa
+fare? Ah... Vai a parlare con Mirei Mikagura, ti aiuterà.","……如果不曉得下一步該怎麼做？
+那就去找「御神樂米蕾」吧，她應該能幫上你的忙。",,"…만약 나아가야 할 길을 잃으면?
+그렇군…「미카구라 미레이」라면, 여러모로 도움이 되어 주겠지","Was, wenn du nicht weiterweißt?
+Ach ... Geh zu Mirei Mikagura. Sie hilft dir."
+3000,3006,,"Non dovevi incontrare Nokia a
+Galacta Park? Amici o no, un caso è un
+caso. Non rilassarti.","你是跟諾奇雅約在「破銅爛鐵公園」碰面對吧？
+就算對方是朋友，但委託就是委託……　你可要好好調查啊，呵呵。",,"「잡동사니 공원」에서 노키아와 만나기로 하지 않았나?
+친구가 부탁했다 해도, 의뢰는 의뢰… 확실히 조사하도록, 후후…","Solltest du nicht Nokia im Galacta-Park treffen?
+Auch bei Freunden gilt: Ein Fall ist ein Fall.
+Da wird nicht gefaulenzt."
+4000,3006,,"Hai ricevuto la trasmissione, giusto? Vai a
+controllare Shinjuku--prima che ci arrivi la polizia.","你應該有收到通知吧？
+在警察開始行動之前，快點去調查新宿吧。",,"통신을 받았겠지?
+경찰이 본격적으로 움직이기 전에, 신주쿠에서 조사를 진행하도록","Du hast die Übertragung erhalten, oder? Schau dich
+in Shinjuku um, bevor die Polizei es tut."
+4999,3006,,"A pensarci bene, siamo senza fagioli.
+Prendine un po', per favore? Li ho usati
+tutti ieri creando una nuova ricetta.","這麼說來，咖啡豆沒了呢。
+你可以去幫我買一下嗎？
+昨晚為了開發新口味可用掉不少啊。",,"그러고 보니, 커피콩이 다 떨어졌군
+사와 줄 수 있겠나?
+어젯밤 새로운 레시피를 고안해 내는데 대량으로 써 버려서 말이지","Mir fällt gerade ein, wir haben keine Bohnen mehr.
+Kannst du welche besorgen? Ich habe gestern
+alle für ein neues Rezept benutzt."
+5000,3006,,"Oho? Pensi che ti stia facendo lavorare troppo?
+...Hai un bel coraggio. Chi esattamente
+ti sta dando vitto e alloggio, di nuovo?","哦……你是想從我身上搾出錢來嗎？
+挺有膽量的嘛。
+你以為你的食衣住都是由誰出錢的？",,"호오… 나에게서 착취하겠다는 건가?
+…배짱이 좋군
+너의 의식주를 제공해 주고 있는 게 누구라고 생각하지?","Aha? Du meinst, du musst zu viel arbeiten?
+... Du bist ja ganz schön mutig.
+Wer gibt dir denn Kost und Logis?"
+5010,3006,,"Vai al posto di Makoto
+Yamashina. E questa volta, lo fai
+parlare. ...Conto su di te.","你去山科誠的家吧。
+這次一定要讓他招供，交給你囉。",,"넌 야마시나 마코토의 집으로 향하도록
+이번만큼은, 반드시 입을 열게 하는 거다… 부탁한다","Statte Makoto Yamashina einen Besuch ab.
+Und sorge dieses Mal dafür, dass er redet.
+... Ich zähle auf dich."
+5020,3006,,"Se non sai cosa fare dopo, vai
+a parlare con Mirei Mikagura.
+Userà il suo strano potere per aiutarti.","如果不知道下一步該怎麼做的話，
+可以去找御神樂米蕾。
+她應該會用奇妙的力量給你指示。",,"나아가야 할 길을 잃으면
+미카구라 미레이에게 찾아가 보는 게 좋을 거다
+신기한 힘으로, 길을 가리켜 줄 거다","Wenn du nicht weißt, was du tun sollst,
+sprich mit Mirei Mikagura. Sie wird ihre
+seltsamen Kräfte nutzen, um dir zu helfen."
+5030,3006,,"Vai a cercare Mirei
+Mikagura. ...Non devo dirti dove, vero? Eh.","去找御神樂米蕾吧。
+地點……應該用不著我說吧？……呵呵。",,"미카구라 미레이에게 찾아가도록
+어디로 가야하는지… 굳이 지시할 필요는 없겠지? …후후","Finde Mirei Mikagura.
+... Ich muss dir ja nicht sagen wo, oder? Ha."
+5040,3006,,"Vai, smaschera Kamishiro per quello che è realmente.
+Yuuko sta aspettando, quindi dirigiti al
+quartier generale di Kamishiro.","好啦，把神代的假面具給扒下來吧。
+你快前往悠子所在的神代總公司吧。",,"자, 카미시로의 탈을 벗겨 주도록 하지
+유코가 기다리고 있는, 카미시로 본사로 향하도록","Los, du musst Kamishiro entlarven.
+Yuuko wartet, also geh zum
+Kamishiro HQ."
+5050,3006,,"Vai, smaschera Kamishiro per quello
+che è realmente. Assicurati di usare quel programma in
+modo efficace. ...E fai attenzione a non abusarne, eheheh.","好啦，把神代的假面具給扒下來吧。
+你可要好好運用那個程式啊。
+千萬不可以拿來做壞事哦，呵呵呵。",,"자, 카미시로의 탈을 벗겨 주도록 하지
+그 프로그램을, 효과적으로 활용하도록
+…아무쪼록 악용은 하지 말도록, 후후후","Los, du musst Kamishiro entlarven.
+Achte darauf, das Programm effektiv zu nutzen.
+Und stell bloß keinen Blödsinn an damit, hihihi."
+6000,3006,,"Lascio quel caso alla tua
+discrezione. Come mio assistente, mi aspetto
+che tu te la cavi bene.","這個委託就交由你全權負責了。
+你就以我的助手的身分，漂亮地完成這個任務吧。",,"이 의뢰는, 너에게 일임하도록 하겠다
+내 조수로서, 훌륭하게 임무를 완수하도록","Diesen Fall überlasse ich ganz dir.
+Als mein Hilfsdetektiv erwarte ich, dass du
+gute Arbeit leistest."
+6010,3006,,"Come procede il caso?
+Lascio tutti i dettagli a te. Riferisci
+solo quando avrai fatto qualche progresso.","委託進行得如何了？
+這次的案件是由你全權負責的。
+如果有什麼成果，記得要向我報告。",,"의뢰의 진척 상태는 어떤가?
+이번 안건은 전부 너에게 일임하고 있다
+뭔가 성과가 있으면, 보고하도록","Wie läuft es mit dem Fall?
+Die Einzelheiten überlasse ich dir. Aber erstatte
+Bericht, wenn du Fortschritte gemacht hast."
+6020,3006,,"Hm, quindi il caso sta andando bene, allora.
+Probabilmente non c'è niente di cui preoccuparsi...
+Anche così, non pensare di poterti rilassare.","嗯，看來委託進行得很順利呢。
+這麼的話，應該是不需要替你擔心了……
+不過在完成任務之前，可不要輕忽大意哦。",,"흐음, 의뢰는 순조롭게 해나가고 있는 것 같군
+이 상태라면 걱정할 필요는 없다고 생각한다만…
+마지막까지 긴장을 풀지 말고 나아가도록","Hm, es läuft also gut mit dem Fall. Wahrscheinlich
+gibt es keinen Grund zur Sorge ... Aber denk
+trotzdem nicht, dass du trödeln kannst."
+7000,3006,,"Darò un'occhiata a questa
+faccenda delle Digimon Medal. Tu controlla
+il negozio che le vende.","我會著手進行關於數碼寶貝獎牌的調查。
+你就負責調查有在買賣數碼寶貝獎牌的店吧。",,"난 디지몬 메달에 대해 조사해 두겠다
+넌, 디지몬 메달을 판매하고 있는 가게를 조사하도록","Ich stelle Nachforschungen zu den
+Digimon-Medaillen an. Du kümmerst dich um den
+Laden, der sie verkauft."
+7010,3006,,"Rintraccia indizi su Sakura
+scomparsa. Mentre lavori su questo, io indagherò
+sul video inquietante.","你去追查下落不明的小櫻的線索。
+在這段期間內，我會著手調查那個令人不愉快的影像。",,"넌 행방불명인 사쿠라 군에 대해, 단서를 찾아내도록
+그 동안 난, 그 불쾌한 영상에 대해 조사해 두겠다","Finde Hinweise zur vermissten Sakura.
+Während du daran arbeitest, kümmere ich mich um
+das verstörende Video."
+7020,3006,,"L'URL punta a Kowloon Lv.
+4. Vai lì e dai un'occhiata.","URL所顯示的大略區域是「Kowloon Lv. 4」。
+你就直接過去調查吧。",,"URL이 가리키고 있는 대략적인 에어리어는「쿠롱 Lv.4」다
+직접 가서 조사하고 오도록","Die URL lässt auf die vierte Ebene in Kowloon 
+schließen. Geh hin und schau dich da um."
+8010,3006,,"Non ti hanno cercato Nokia e Arata? Va bene
+prendersi una pausa da questo, quindi vai
+a vedere di cosa hanno bisogno i tuoi amici.","諾奇雅跟新在找你對吧？
+你暫時不用管我這裡的委託。
+先去聽聽朋友的請求吧。",,"노키아와 아라타에게 불리지 않았는가?
+당분간 이쪽 일은 신경 쓰지 않아도 된다
+친구의 부탁을 들어 주도록","Haben Nokia und Arata nicht angerufen?
+Du kannst ruhig eine Pause machen.
+Sieh nach, was deine Freunde wollen."
+9000,3006,,"Bene, cominciamo. Andiamo al
+quartier generale della Kamishiro in EDEN.","好啦，開始行動。
+你就前往在EDEN裡的神代總公司吧。",,"자, 행동 개시다
+EDEN의 카미시로 본사로 향하도록","Also gut, legen wir los.
+Geh zum Kamishiro HQ in EDEN."
+10000,3006,,"Mi hai sentito, no? Vai a EDEN.
+Qualcosa sta causando problemi, quindi fai attenzione.","我都聽見囉，你要去EDEN對吧？
+那裡似乎不太平靜，你可要多加小心啊。",,"듣고 있었다, EDEN으로 향하는 거지?
+그쪽은 이래저래 소란스러우니, 충분히 조심하도록","Hast du mich nicht gehört? Geh nach EDEN.
+Irgendwas macht dort Probleme, sei vorsichtig."
+10010,3006,,"Hmph... Ho un brutto presentimento su
+questa cosa. E ogni buon detective sa di doversi fidare
+del proprio istinto. Non farà male agire con cautela.","嗯……總覺得忐忑不安啊。
+偵探是要相信自己的“直覺＂的職業。
+看來這陣子還是謹慎行動比較好。",,"흐음… 왠지 불길한 예감이 드는군
+탐정은 자신의 ""감""을 신용해야 하는 직업이다
+당분간은 주의하면서 행동하는 게, 무엇보다 좋겠지","Hmpf ... Ich habe ein ungutes Gefühl.
+Jeder gute Detektiv vertraut seinem Instinkt.
+Es kann nicht schaden, vorsichtig zu sein."
+11000,3006,,"Un messaggio da Nokia...cioè, da Omnimon?
+Hmm... Deve essere qualcosa di importante.","諾奇雅……不，奧米加獸有話要說？
+嗯……　或許是什麼重要的事情也說不定。",,"노키아… 아니, 오메가몬이 할 얘기가 있다고?
+흐음… 무언가 중요한 얘기일지도 모르겠군","Eine Nachricht von Nokia ... also eigentlich von
+Omnimon? Hm ... Das muss wichtig sein."
+11001,3006,,"Le mie indagini richiederanno un po' più di
+tempo. Il forum Zaxon, eh? Vai a darci un'occhiata.","我這邊的查證還要再花一點時間。
+是「Zaxon廣場」對吧？你就去吧。",,"내 쪽의 검증에는 아직 시간이 더 걸린다
+「잭슨 포럼」이었지. 다녀오도록","Ich brauche noch Zeit für meine Ermittlungen.
+Das Zaxon-Forum, was? Hake da mal nach."
+11010,3006,,"Per arrivare al Centro
+Sotterraneo di Roppongi, vai al Sottopassaggio di Nakano.",你從「中野地下道」前往「六本木地下設施」吧。,,「롯폰기 지하시설」로는「나카노 지하도」를 통해 향하도록,"Geh zur Nakano-Unterführung, um zum
+unterirdischen Zentrum in Roppongi zu gelangen."
+11011,3006,,"Tu e Nokia dovreste andarci. Io seguirò
+da qui come meglio posso. Ora, sbrigatevi.","你跟諾奇雅從那邊過去。
+我也會從這邊盡可能支援你們。
+好啦，快點行動吧。",,"너와 노키아는 그쪽에서 향하도록
+이쪽에서도 가능한 한 서포트를 하겠다
+자, 서두르도록","Nokia und du sollten hingehen. Ich mache von hier
+aus weiter, so gut ich kann. Los, beeilt euch."
+15000,3006,,"Scusate per averci messo tanto... Ora. Non c'è
+tempo per riunioni; andate a parlare con i Royal
+Knights. ...Non vedo l'ora di vedere cosa avete imparato.","離開這麼久真是抱歉啊……
+一回來就叫你做事是有些過意不去，但還是要麻煩你去說服皇家騎士。
+你在這段期間裡成長了多少……　我很期待哦。",,"오랫동안 자리를 비워서 미안하다…
+바로 미안하다만, 로얄 나이츠의 설득을 부탁한다
+네가 그 동안 얼마나 성장했는지… 기대하고 있겠다","Tut mir leid, dass es so lange gedauert hat.
+Keine Zeit für Sentimentalitäten. Sprich mit den
+Royal Knights. Ich bin gespannt, was du erfährst."
+15001,3006,,"Ho rilevato Magnamon a
+Shibuya. Speriamo tu possa
+convincerlo a calmarsi.","在涉谷那裡出現了「金甲龍獸」的反應。
+我期待你能靠協商讓事情和平落幕哦。",,"시부야에서「매그너몬」의 반응을 감지했다
+대화로 해결될 것을 기대하도록 하지","Ich habe Magnamon in Shibuya entdeckt.
+Hoffentlich lässt er mit sich reden.
+Das übernimmst du."
+15002,3006,,"Ho rilevato Gankoomon a Ueno.
+...Vai a controllare.","上野那裡出現了「頑固獸」的反應。
+……麻煩你去確認一下。",,"우에노에는「간쿠몬」의 반응이 있다
+…확인해 보도록","Ich habe Gankoomon in Ueno entdeckt.
+... Schau da mal vorbei."
+15003,3006,,"Il segnale in EDEN proviene da
+Kentaurosmon, eh? È piuttosto forte.
+Non essere imprudente.","EDEN裡的反應是「八腳馬獸」啊。
+它似乎正在到處大鬧……你要多加小心。",,"EDEN 내의 반응은「슬레이프몬」이군
+꽤나 거칠게 날뛰고 있는 것 같다… 주의하도록","Das Signal in EDEN stammt also von Kentaurosmon.
+Mit dem ist nicht zu scherzen.
+Sei nicht leichtsinnig."
+15010,3006,,"Mirei Mikagura probabilmente sa qualcosa al
+riguardo. Vai a vedere cosa ha da dire.","御神樂米蕾或許會知道一些事情。
+你去找她問問看吧。",,"미카구라 미레이라면 뭔가 알고 있을지도 모르겠군
+그녀에게 가 보도록","Mirei Mikagura weiß wahrscheinlich etwas darüber.
+Finde heraus, was sie zu sagen hat."
+15020,3006,,"Mondi paralleli, eh? Interessante.
+Questa volta, tutto dovrebbe andare
+liscio. Dirigiti dove si trova Kentaurosmon.","平行世界嗎……　真叫人感興趣呢。
+好啦，這次肯定不會有問題。
+你快去找八腳馬獸吧。",,"평행 세계인가… 꽤 흥미로운 얘기로군
+자, 이번에는 분명히 괜찮을 거다
+슬레이프몬에게 향하도록","Parallelwelten, was? Faszinierend.
+Dieses Mal sollte alles glattgehen.
+Geh zum Aufenthaltsort von Kentaurosmon."
+15030,3006,,"Come vanno le cose ad
+Asakusa? Fai attenzione...e quando è necessario, sii audace.","淺草現在的狀況如何？
+你必須慎重行事，時而大膽前進……　就交給你囉。",,"아사쿠사의 상황은 어떻지?
+신중하게, 때로는 대담하게… 잘 부탁한다","Wie läuft es in Asakusa?
+Sei vorsichtig ... Und wenn nötig, sei mutig."
+16000,3006,,"Hai capito il piano?
+Nokia è già
+partita. Anche tu devi andare a Odaiba.","瞭解作戰內容了吧？
+諾奇雅似乎已經過去了，
+你也快點到御台場去吧。",,"작전은 이해하고 있겠지?
+노키아는 이미 향한 모양이다
+너도 서둘러 오다이바로 향하도록","Hast du den Plan verstanden?
+Nokia ist schon unterwegs.
+Du solltest auch nach Odaiba aufbrechen."
+16010,3006,,"Quindi, per essere chiari, i cinque Cavalieri
+Reali rimanenti sono Examon, Craniamon,
+Crusadermon, Dynasmon e Leopardmon.","稍微整理一下情報吧……　剩下的皇家騎士有
+艾克薩獸、顱骨獸、劍皇獸、
+杜納斯獸、芳香獸等五位。",,"조금 정보를 정리해 둘까… 남은 로얄 나이츠는
+엑자몬, 크레니엄몬, 로드나이트몬
+듀나스몬, 두프트몬까지 다섯이다","Halten wir es fest: Die fünf verbleibenden Royal
+Knights sind Examon, Craniamon, Crusadermon,
+Dynasmon und Duftmon."
+16011,3006,,"Di questi, Examon, Dynasmon,
+Leopardmon e Crusadermon sono tipi Virus,
+mentre Craniamon è un tipo Vaccine.","其中，
+艾克薩獸、杜納斯獸、芳香獸是資料種，
+劍皇獸是病毒種，顱骨獸是疫苗種。",,"그 중에서
+데이터종이 엑자몬, 듀나스몬, 두프트몬
+로드나이트몬은 바이러스종, 크레니엄몬은 백신종이다","Davon sind Examon, Dynasmon, Duftmon und
+Crusadermon vom Typus Virus. Craniamon
+hingegen ist vom Typus Serum."
+16012,3006,,"A parte questo...
+Giusto per sicurezza, dovresti
+conoscere le loro specialità.","說的也是呢……
+為了保險起見，接下來跟你說明他們的特徵吧。",,"그렇군…
+다음은 만일을 위해, 그들의 특징을 전해 둘까…","Abgesehen davon ...
+Nur um sicher zu gehen, solltest du ihre
+Besonderheiten kennen."
+16013,3006,,"La caratteristica più evidente di Examon è
+la sua taglia. Immagina di vederlo caricarti addosso.
+Non è una bella visione.","艾克薩獸最大的特徵果然是那巨大的身體。
+被那個巨大身體撞到的下場……　應該不難想像吧。",,"엑자몬은, 역시 그 거대한 몸집이 가장 특징이군
+그 몸으로 돌진해 오면 어떻게 될지… 상상하기 어렵지 않겠지","Das auffälligste Merkmal von Examon ist
+die Größe. Stell dir vor, wie es auf dich zurennt.
+Schön ist das nicht."
+16014,3006,,"La pesante armatura di Craniamon lo mantiene ben
+equipaggiato sia per la difesa che per l'attacco. Ma
+se guardi da vicino, dovresti trovare un'apertura: sfruttala.","顱骨獸是全身穿著鎧甲的重裝騎士。
+他是個攻守兼備的強敵，不過只要仔細觀察，
+一定會有可趁之機……　你只要能抓準那個機會就行了。",,"크레니엄몬은 갑옷을 걸친 중장 기사다
+방어도 공격도 겸비한 강적이지만, 꾸준히 관찰하면
+반드시 허점이 보일 거다… 그때를 노리면 되겠지","Durch seine schwere Rüstung ist Craniamon sowohl
+defensiv als auch offensiv gut gewappnet.
+Schau genau hin, finde die Schwäche und nutze sie."
+16015,3006,,"Ora, hai già combattuto contro
+Crusadermon. Osserva i suoi
+movimenti e rivelerà le sue intenzioni.","你曾經跟劍皇獸戰鬥過一次吧？
+你必須仔細觀察它的動作，猜測它的意圖。",,"로드나이트몬과는 한 번 싸워 본 적이 있었지?
+제대로 움직임을 관찰해서, 속셈을 읽는 거다","Gegen Crusadermon hast du schon gekämpft.
+Behalte ihre Bewegungen im Auge,
+dann wird sie sich schon verraten."
+16016,3006,,"Dynasmon tende a lanciarsi a
+capofitto--letteralmente. La sua carica è intimidatoria, ma ignorarla è
+un modo... Sono sicuro che puoi capire cosa fare.","杜納斯獸是不顧一切，只會衝來衝去的類型。
+它的衝撞攻擊是個威脅，不過置之不理也是一種方法。
+……我都說到這個分上了，你應該知道要怎樣對付它了吧？",,"듀나스몬은 그야말로, 저돌 맹진이라는 말이 제격이다
+녀석의 돌진은 위협적이지만, 내버려 두는 것도 한 방법이겠군
+…여기까지 말하면, 어떻게 대항해야 할지 알겠지?","Dynasmon stürzt sich gern kopfüber in den Kampf.
+Sein Angriff ist furchterregend, aber lässt sich
+ignorieren. Du findest sicher den besten Weg."
+16017,3006,,"Leopardmon è quello che darà più
+problemi... Utilizza diverse strategie, quindi è difficile
+contrastarlo. Mantenete la calma e affrontatele una per una.","最棘手的是芳香獸……
+它會以多變的戰略玩弄對手，所以很難對付。
+你可不能誤判局勢哦。",,"성가신 건 두프트몬이군…
+다채로운 전략으로 농락해 오니 대처가 어렵다
+각 국면의 상황 판단을 그르치지 말도록","Duftmon wird Probleme machen ...
+Er setzt mehrere Strategien ein, das macht es
+schwierig. Bleib ruhig und reagiere entsprechend."
+16018,3006,,"Queste sono tutte le informazioni
+che ho. ...Perché so così tante cose? Heh.
+Sapere le cose è  il lavoro di un detective... lasciamo che sia così.","我知道的情報就是這些。
+……嗯？　你問我為什麼會這麼清楚？
+呵呵呵，你就當作是偵探的能力吧。",,"정보는 이상이다
+…응? 어째서 그렇게 자세히 아는 거냐, 라고?
+후후후, 이것이 바로 탐정의 능력… 이라는 걸로 해 두겠다","Das ist alles, was ich weiß.
+... Woher ich das habe? Ha. Das ist die
+Aufgabe eines Detektivs. Mehr sage ich dazu nicht."
+16030,3006,,"La lascio a te...
+Non perderla di vista.","她就交給你了……
+可不要讓她離開你的視線範圍。",,"그녀는 너에게 맡기겠다…
+눈을 떼지 말아 주도록","Du kannst dich um sie kümmern ...
+Lass sie nicht aus dem Auge."
+16035,3006,,"Non influenzerà Examon per un
+po'. Vai a essere produttivo.
+Accetta qualche caso.","對於艾克薩獸的影響應該是不會馬上出現。
+你就先完成大家的委託，有效利用時間吧。",,"그렇게 바로 엑자몬에게의 영향은 나오지 않겠지
+의뢰라도 완수하면서, 시간을 효과적으로 쓰도록","Examon ist für den Moment sicher.
+Geh und erledige was Produktives.
+Nimm ein paar Fälle an."
+16040,3006,,"...Odi dover solo startene lì ad
+aspettare? Non è che le persone aspettino
+sempre qualcosa? ...Non che io sia diverso.","……只能等待很痛苦嗎？
+但是，人總是一直等待著什麼……我也是一樣的。",,"…그저 계속 기다리는 것이, 괴로운가?
+하지만, 인간은 언제나 무언가를 기다리는 존재다… 나도, 말이지","Hasst du es, warten zu müssen?
+Warten wir nicht immer auf irgendwas?
+... Nicht, dass es mir anders geht."
+17000,3006,,"Percepisco qualcosa di buono nella
+tua ""giovinezza"". Ad ogni modo, preparati.
+Affronterai un Royal Knight...Lord Knightmon.","我很喜歡你的“行事風格＂哦。
+那麼，你就繃緊神經幹活吧。
+畢竟對手是皇家騎士的劍皇獸啊。",,"너의 ""너다움""에는 호감을 갖게 되는군
+그럼, 정신을 바짝 차리고 사태에 임하도록
+상대는 로얄 나이츠… 그 로드나이트몬이니까 말이지","Ich spüre in deinem Wesen etwas Gutes.
+Doch du solltest dich gut vorbereiten. Du stellst
+dich einem Royal Knight: Lord Knightmon."
+18000,3006,,"Nokia Shiramine, dammi il tuo Digivice. Dopotutto,
+non puoi accedere a due account EDEN
+contemporaneamente.","白峰諾奇雅，妳的Digivice就先由我保管吧。
+在登入EDEN時，
+是無法同時使用兩個帳號的。",,"시라미네 노키아, 네 디지바이스는 내가 맡아 두겠다
+EDEN에 로그인할 때, 두 계정을 동시에
+사용할 수는 없으니까 말이지","Nokia Shiramine, gib mir dein Digivice. Du kannst
+nicht mit 2 EDEN-Konten gleichzeitig
+eingeloggt sein."
+18001,3006,,"So che sei preoccupato che Omnimon non possa venire, ma i
+Digimon che il mio assistente ha allevato saranno di grande
+aiuto. Non c'è bisogno di preoccuparsi.","奧米加獸不能一起去應該讓你們感到很不安吧，
+不過由助手所培育的數碼寶貝也是很可靠的……你們不用擔心。",,"오메가몬이 함께 갈 수 없는 건 불안하겠지만
+조수가 키운 디지몬도 의지가 된다… 걱정할 필요는 없다","Du machst dir Sorgen, dass Omnimon nicht mitkommt,
+aber die Digimon meines Hilfsdetektivs werden helfen.
+Es gibt keinen Grund zur Sorge."
+18002,3006,,"Vai all'area di anteprima degli
+aggiornamenti di EDEN. ...Conto su di te per
+trovare il mio assistente.","你們從EDEN前往「版本升級體驗區」吧。
+……助手的事就交給你們了。",,"EDEN에서「버전 업 체험 에어리어」로 향하도록
+…둘 다, 조수를 잘 부탁한다","Besuche in EDEN den Update-Vorschaubereich.
+... Ich zähle darauf, dass du meinen
+Hilfsdetektiv findest."
+19100,3006,,"Hmm... È una buona idea essere ben
+preparati, ma non dimenticare che il tempo stringe.","嗯……專心準備是件好事，
+但可別忘了時間所剩不多囉。",,"흐음… 준비로 바쁜 것은 좋다만
+때가 다가오고 있다는 점도 잊지 말도록","Hm ... Eine gute Idee, sich vorzubereiten,
+aber vergiss nicht, dass die Zeit läuft."
+19101,3006,,"Pronto a
+partire? È ora di portare questo viaggio fino alla fine.","那麼，我們走吧。
+去弄清楚我們所選擇的道路正確與否。",,"그럼, 가도록 할까
+우리들이 선택한 길을 끝까지 지켜보도록 하지","Bist du bereit?
+Es wird Zeit, diese Reise zu Ende zu bringen."
+20000,3006,,"Mirei ha mandato un altro caso. È una cliente
+abituale e un'importante cliente.
+Quindi assicurati di completare i suoi casi... eh.","米蕾那裡來了委託哦。
+她也是我們事務所重要的常客。
+你可要好好完成她的委託。　……呵呵。",,"미레이에게서 의뢰가 와 있다
+그녀도, 우리 사무소의 소중한 단골이다
+확실히 의뢰를 완수하고 오도록 …후후","Mirei hat einen weiteren Fall geschickt.
+Sie gibt uns regelmäßig Aufträge.
+Sieh zu, dass du ihre Fälle abschließt."
+30000,3006,,"Perché diavolo fa così freddo [2dentro Broadway]?
+C'è qualcosa che non va con il
+[2climatizzatore]? Se non stai facendo niente, scopri cosa sta succedendo.","總覺得[2BW裡]異常地冷耶……？　是[2空調]故障了嗎……？
+如果你有空的話，可以幫我調查一下館內嗎？",,"왠지 [2BW 내부]가 몹시 춥군…? [2에어콘]의 고장인가…?
+해야 할 일이 없다면, 관내를 조사해 줄 수 있겠나","Warum ist es [2im Broadway] so kalt?
+Ist die [2Klimaanlage] kaputt?
+Finde es heraus, wenn du nichts zu tun hast."
+30001,3006,,"Sei mai stato a [2Shibuya Scramble Crossing]? È
+decisamente qualcosa che dovresti vedere
+almeno una volta. Il terreno lì è affascinante.","你曾經去過[2涉谷]的[2人車分離十字路口]嗎？
+如果沒有的話，可以去看看。
+那裡的地形很奇特，很有趣哦。",,"넌 [2시부야]의 [2스크램블 교차점]에 가 본 적이 있나?
+없다면, 한번 가 보도록
+이상한 지형 구조로 되어 있어서, 꽤 재밌더군","Warst du schon an der [2Kreuzung in Shibuya]?
+Die muss man gesehen haben.
+Der Boden dort ist faszinierend."
+30002,3006,,"Non mi connetto molto a [2EDEN]. Ho
+sentito dire che la vista dall'[2entrance] è
+impressionante, però. Vacci e dimmi cosa ne pensi.","我很少登入[2EDEN]……
+不過聽說[2入口的展望台]做得相當不錯。
+你就代替我去看看，然後告訴我你的感想吧。",,"난 [2EDEN]에는 별로 로그인을 하지 않는다만…
+[2엔트런스의 전망]은 꽤 좋다고 하지 않는가
+나 대신 가서, 감상을 들려 줬으면 한다","Ich bin nicht oft in [2EDEN], aber ich habe
+gehört, dass die Aussicht vom [2Eingang] aus
+toll ist. Geh hin und sag mir, wie du sie findest."
+30003,3006,,"A pensarci bene, c'è un ragazzo della tua
+scuola al [2K-Cafe]. Vi conoscete?","這麼說來，跟你同校的學生，
+之前一直在[2K-Cafe]呻吟個不停。
+難不成是你認識的人嗎？",,"그러고 보니, 너와 같은 학교의 학생이
+[2K-카페]에서 끙끙대고 있었다
+혹시 아는 사이인가?","Da fällt mir ein, im [2K-Café] ist jemand aus
+deiner Schule. Kennt ihr euch?"
+30004,3006,,"Quindi, l'entrata del labirinto è in [2Shinjuku]... Se
+hai tempo, fai un salto a darci un'occhiata.","“迷途之村＂事件的源頭是在[2新宿]啊……
+人家都說只要造訪現場百遍，真相自然就會出現……
+如果你有空的話，麻煩你再去現場調查一下吧。",,"마요이가의 발단은 [2신주쿠]였지…
+현장도 100번을 찾아가 봐야 하는 법… 시간이 나면
+다시 한 번 현장에 가서 조사해 보도록","Der Eingang zum Labyrinth ist in [2Shinjuku] ...
+Schau mal vorbei, wenn du Zeit hast."
+30005,3006,,"Cinese... Ecco, questo è l'aroma di cui ha bisogno
+il mio caffè.  C'è un [2ristorante cinese] qui [2a
+Nakano]. Un buon  assistente andrebbe a dare un'occhiata.","中華……對了，下次開發新口味的咖啡時，加入中式香料來提味看看吧。
+[2這個中野]也有[2中華料理店]啊。
+如果是優秀的助手，一定會先去幫我調查吧。",,"중화…, 그래, 다음 신작 커피의 조미료는 중화로 해야겠군
+[2이 나카노]에도 [2중화 요리점]이 있었지
+우수한 조수라면, 분명 사전 조사를 하러 가 주겠지","Chinesisch ... den Geschmack braucht mein Kaffee.
+Hier [2in Nakano] ist ein [2chinesisches Restaurant].
+Ein lieber Hilfsdetektiv würde mal vorbeigehen."
+30006,3006,,"Sembra che ci sia un manifesto sospetto al
+[secondo piano di Broadway]. L'hai visto?","聽說[2BW]館內的[22樓]有奇怪的海報耶……
+你有看過嗎？",,"[2BW] 관내의 [22층]에 수상한 포스터가 있다는군…
+본 적 있는가?","Hier im [2zweiten Stock von Broadway] hängt ein
+seltsames Poster. Hast du es gesehen?"
+30007,3006,,"Il detective Matayoshi dice che [2Arata] è stato
+visto spesso a [2Shinjuku]. Cosa sta tramando?","又吉刑警說他經常在[2新宿]看到[2新]，
+他在那裡做什麼啊？",,"마타요시 형사님이, [2신주쿠]에서 자주 [2아라타]를 본다고 말씀해 주셨다만
+그는 거기서 대체 뭘 하고 있는 거지?","Kommissar Matayoshi meint, dass [2Arata] oft in
+[2Shinjuku] gesehen wurde. Was plant er?"
+30008,3006,,"So che ho detto di non preoccuparti, ma
+come pensi stia Nokia? Sta ancora
+cercando alleati in [2Kowloon]?","雖然我之前說不用在意……
+但諾奇雅現在過得怎樣？
+她現在還在[2Kowloon]裡召集同伴嗎？",,"전에 신경 쓸 필요는 없다고 했다만…
+노키아 군의 상태는 어떻지?
+아직도 [2쿠롱]에서 동료를 모으고 있나?","Du sollst dir zwar keine Sorgen machen, aber was
+meinst du, wie es Nokia geht? Sucht sie
+noch Verbündete in [2Kowloon]?"
+30009,3006,,"A quanto pare il tuo amico sta girovagando di nuovo, tutto
+depresso, al [2K-Cafe]. Suppongo sia un'età difficile...","你的朋友又在[2K-Cafe]呻吟個不停囉。
+真是煩惱眾多的年紀啊。",,"또 다시 네 친구가 [2K-카페]에서 끙끙대고 있었다
+고민이 많은 나이로군","Dein Freund verbreitet wohl wieder schlechte Laune
+im [2K-Café]. Ist ein schwieriges Alter ..."
+30010,3006,,"L'egosurfing non fa proprio per me, ma a quanto pare
+ora c'è una [2bacheca di Nakano]. Dacci
+un'occhiata, se è quello che ti interessa.","我對所謂「自我搜尋」那類的東西不感興趣……
+但是[2中野]也有個叫做[2留言板]的東西呢。
+你如果有興趣的話，可以去看看。",,"난 소위 말하는「에고 서치」같은 것에는 흥미가 없다만…
+[2나카노]에도 [2게시판]이라는 게 있어서 말이지
+흥미가 있으면 보러 가 보도록","Egosurfing ist nichts für mich, aber es gibt jetzt
+wohl eine [2Anschlagtafel in Nakano].
+Schau mal hin, wenn du so was magst."
+30011,3006,,"""No music, no life""...
+Questo è lo slogan del [2Shibuya Tower
+Records]. Ci sei stato, vero?","「NO MUSIC NO LIFE．」嗎……
+嗯？　這是[2涉谷]的[2淘兒唱片]的宣傳標語，
+你有去看過嗎？","There's a lot of action over at 
+[2Shibuya Records] in [2Shibuya]. 
+You've been there, right?","「NO MUSIC, NO LIFE」인가…
+응? [2시부야]의 [2타워 레코드]의 슬로건이다만
+가 본 적 있는가?","„Ohne Musik, kein Leben“ ...
+Der Slogan von [2Shibuya Records] in [2Shibuya].
+Du warst schon mal da, nicht wahr?"
+30012,3006,,"Non vedo [2Pete] da un po'. Dubito che se
+ne sia andato da [2Nakano Broadway], ma
+qualcosa lo tormenta... Vai a cercarlo.","沒看到[2皮特]耶……
+他應該沒有離開[2中野館內]才是……
+不過他最近有點怪怪的。你可以幫我去找他嗎？",,"[2피트]의 모습이 보이질 않는군…
+[2나카노 관내]에서는 나가지 않았다고 생각한다만…
+최근에 조금 상태가 이상하다. 찾아봐 줄 수 있겠나","Ich habe [2Pete] schon länger nicht gesehen.
+Er ist sicher noch im [2Nakano-Broadway], aber
+er sah besorgt aus. Such nach ihm."
