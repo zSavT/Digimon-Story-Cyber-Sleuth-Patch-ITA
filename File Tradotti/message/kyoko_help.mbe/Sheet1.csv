@@ -4,7 +4,7 @@ Si prega di segnalarlo.","遊戲中若跑出這段文字就表示有BUG。
 到時候請記得回報。",,,"Wenn dieser Text im Spiel erscheint, ist das ein
 Fehler. Bitte melden."
 1000,3006,,"...Sei libero? Di cosa stai parlando? I
-detective non hanno tempo libero. Bene,  ecco un compito
+detective non hanno tempo libero. Bene, ecco un compito
 per te. Scopri cosa dovresti fare.","嗯？　什麼？　……你說你很閒？　你是在說些什麼啊？
 偵探可沒有時間摸魚哦。
 你必須自行判斷自己該做的事。",,"응? 뭐? …한가하다고? 넌 대체 무슨 소리를 하는 건가…
@@ -12,7 +12,7 @@ per te. Scopri cosa dovresti fare.","嗯？　什麼？　……你說你很閒�
 스스로 판단해서, 자신이 해야 할 일을 하도록","Du hast nichts zu tun? Wovon redest du? Detektive
 haben immer was zu tun. Hier hast du eine Aufgabe.
 Überleg dir, was du tun solltest."
-2000,3006,,"Per prima cosa, dai un'occhiata alla  lavagna bianca a
+2000,3006,,"Per prima cosa, dai un'occhiata alla lavagna bianca a
 destra della mia scrivania.","這樣好了，你先面向我的辦公桌，
 然後確認放在右邊的白板上面的內容。",,"그렇군, 우선 내 데스크를 향했을 때 오른쪽에 있는
 화이트보드를 체크해 보도록","Schau zuerst auf das Schwarze Brett rechts von
@@ -70,8 +70,8 @@ EDEN에 가면 무언가 정보를 입수할 수 있겠지","Kontendiebstahl ist
 Problem. Hör dich in EDEN um.
 Vielleicht kannst du etwas herausfinden."
 2041,3006,,"Non so molto su come ottenere le
-informazioni di Makoto  Yamashina, ma...indaga anche su
-quello,  per favore? Vai, accedi a EDEN.","關於『山科誠』的情報的取得方式還不清楚……
+informazioni di Makoto Yamashina, ma...indaga anche su
+quello, per favore? Vai, accedi a EDEN.","關於『山科誠』的情報的取得方式還不清楚……
 不過還是請你同時進行調查。
 好了，快登入EDEN吧。",,"『야마시나 마코토』의 정보 입수에 관해서는 알 수 없지만…
 병행해서 조사를 부탁한다
@@ -373,7 +373,7 @@ Er setzt mehrere Strategien ein, das macht es
 schwierig. Bleib ruhig und reagiere entsprechend."
 16018,3006,,"Queste sono tutte le informazioni
 che ho. ...Perché so così tante cose? Heh.
-Sapere le cose è  il lavoro di un detective... lasciamo che sia così.","我知道的情報就是這些。
+Sapere le cose è il lavoro di un detective... lasciamo che sia così.","我知道的情報就是這些。
 ……嗯？　你問我為什麼會這麼清楚？
 呵呵呵，你就當作是偵探的能力吧。",,"정보는 이상이다
 …응? 어째서 그렇게 자세히 아는 거냐, 라고?
@@ -490,8 +490,8 @@ hai tempo, fai un salto a darci un'occhiata.","“迷途之村＂事件的源頭
 다시 한 번 현장에 가서 조사해 보도록","Der Eingang zum Labyrinth ist in [2Shinjuku] ...
 Schau mal vorbei, wenn du Zeit hast."
 30005,3006,,"Cinese... Ecco, questo è l'aroma di cui ha bisogno
-il mio caffè.  C'è un [2ristorante cinese] qui [2a
-Nakano]. Un buon  assistente andrebbe a dare un'occhiata.","中華……對了，下次開發新口味的咖啡時，加入中式香料來提味看看吧。
+il mio caffè. C'è un [2ristorante cinese] qui [2a
+Nakano]. Un buon assistente andrebbe a dare un'occhiata.","中華……對了，下次開發新口味的咖啡時，加入中式香料來提味看看吧。
 [2這個中野]也有[2中華料理店]啊。
 如果是優秀的助手，一定會先去幫我調查吧。",,"중화…, 그래, 다음 신작 커피의 조미료는 중화로 해야겠군
 [2이 나카노]에도 [2중화 요리점]이 있었지
