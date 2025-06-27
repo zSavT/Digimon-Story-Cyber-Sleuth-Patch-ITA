@@ -5,7 +5,7 @@ ID,Japanese,English,Chinese,EnglishCensored,Korean,German
 13,,2° Piano: Negozio di CD,2F　唱片行,,2F: CD숍,2. Stock: CD-Laden
 14,,1° piano: Agenzia Investigativa Kuremi,1F　暮海偵探事務所,,1F: 쿠레미 탐정사무소,1. Stock: Detektivbüro Kuremi
 15,,B1F: Locale Caldaie,B1F　鍋爐室,,B1F: 보일러실,KG: Heizraum
-16,,Uscita,取消,,그만둔다,Verlassen
+16,,Esci,取消,,그만둔다,Verlassen
 17,,Lobby,大廳,,로비,Empfang
 18,,Reparto Generale,一般病房,,일반병동,Normalstation
 19,,Reparto Speciale,特殊病房,,특별병동,Spezialstation
@@ -21,17 +21,17 @@ ID,Japanese,English,Chinese,EnglishCensored,Korean,German
 29,,Medicina Vaccine,疫苗種專用的藥,,백신종 전용약,Impfstoff-Medizin
 30,,Medicina gratuita,自由種專用的藥,,프리종 전용약,Neutrale Medizin
 31,,Non arrenderti ora,先不要給,,지금은 주지 않는다,Jetzt nicht geben
-32,,1F Lobby,1F　　大廳,,1F 로비,EG – Lobby
+32,,Piano terra - Atrio,1F　　大廳,,1F 로비,EG – Lobby
 33,,13° Piano,13F,,13F,12. Stock
-34,,14° piano,14F,,14F,13. Stock
-35,,15F,15F,,15F,14. Stock
+34,,14° Piano,14F,,14F,13. Stock
+35,,15° Piano,15F,,15F,14. Stock
 36,,27° Piano,27F,,27F,26. Stock
-37,,28° piano,28F,,28F,27. Stock
+37,,28° Piano,28F,,28F,27. Stock
 38,,29° Piano,29F,,29F,28. Stock
-39,,30F,30F,,30F,29. Stock
-40,,36F,36F,,36F,35. Stock
+39,,30° Piano,30F,,30F,29. Stock
+40,,36° Piano,36F,,36F,35. Stock
 41,,37° Piano,37F,,37F,36. Stock
-42,,38F,38F,,38F,37. Stock
+42,,38° Piano,38F,,38F,37. Stock
 43,,39° Piano,39F,,39F,38. Stock
 44,,40° PIANO,40F,,40F,39. Stock
 45,,48° Piano,48F,,48F,47. Stock
