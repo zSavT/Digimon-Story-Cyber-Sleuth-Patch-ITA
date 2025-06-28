@@ -100,6 +100,7 @@ Nella cartella "_dist_", è presente l'eseguibile (la versione per Linux non ha 
 ![Immagine](./img/4.jpg)
 ![Immagine](./img/2.png)
 ![Immagine](./img/3.png)
+![Immagine](./img/5.png)
 
 # Come segnalare un errore nella traduzione
 
