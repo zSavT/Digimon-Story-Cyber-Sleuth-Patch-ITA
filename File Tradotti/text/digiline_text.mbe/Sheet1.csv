@@ -14,23 +14,23 @@ fattoria è al livello massimo.","農場島裡的[d0]
 已經達到LV MAX了呢",,"팜의 [d0]이(가)
 Lv. MAX가 된 것 같아.","Auf der Farm hat [d0]
 das Höchstlevel erreicht."
-200,,"Comando di addestramento Farm [n0]
-completato! Per favore, dai un comando alla tua DigiFarm.","農場島[n0]的特訓指令已執行完畢
+200,,"Comando di addestramento Farm [n0] completato!
+Per favore, dai un comando alla tua DigiFarm.","農場島[n0]的特訓指令已執行完畢
 記得去數碼農場發出指令唷",,"팜 [n0]의 특훈지시가 완료되었어.
 디지팜에서 지시를 내려줘.","Trainingsbefehl auf Farm [n0] beendet!
 Erteile deiner Digifarm einen Befehl."
-300,,"Comando di sviluppo Farm [n0]
-completato! Sviluppo di [d0] riuscito.","農場島[n0]的開發指令已執行完畢
+300,,"Comando di sviluppo Farm [n0] completato!
+Sviluppo di [d0] riuscito.","農場島[n0]的開發指令已執行完畢
 似乎成功開發出了[d0]喔",,"팜 [n0]의 개발지시가 완료되었어.
 [d0]의 개발에 성공한 것 같아.","Entwicklungsbefehl auf Farm [n0]
 beendet! [d0] erfolgreich entwickelt."
-400,,"Comando di indagine Farm [n0]
-completato! Trovati [n1] casi.","農場島[n0]的調查指令已執行完畢
+400,,"Comando di indagine Farm [n0] completato!
+Trovati [n1] casi.","農場島[n0]的調查指令已執行完畢
 似乎發現了[n1]件委託喔",,"팜 [n0]의 조사 지시가 완료되었어.
 의뢰를 [n1]건 발견한 것 같아.","Ermittlungsbefehl auf Farm [n0] beendet!
 [n1] Fall/Fälle gefunden."
-401,,"Comando di indagine Farm [n0]
-completato. Nessun nuovo caso, ma trovati [d0].","農場島[n0]的調查指令已執行完畢。
+401,,"Comando di indagine Farm [n0] completato.
+Nessun nuovo caso, ma trovati [d0].","農場島[n0]的調查指令已執行完畢。
 雖然調查沒有斬獲，但似乎發現了[d0]喔",,"팜 [n0]의 조사지시 완료. 의뢰 조사는 없었지만
 [d0]을 발견한 것 같아.","Ermittlungsbefehl auf Farm [n0] beendet!
 Kein neuer Fall, aber [d0] gefunden."
