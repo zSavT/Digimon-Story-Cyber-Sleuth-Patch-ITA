@@ -23,8 +23,8 @@ chi potrebbe essere?","這附近似乎有人失蹤……
 그 인물에 대해, 짐작 가는 바가 있으신지요?","Ich habe gehört, dass jemand aus dieser Gegend
 vermisst wird. Haben Sie eine Ahnung,
 wer das sein könnte?"
-9,3030,,"Una persona
-scomparsa? No, non ne ho la minima idea.","失蹤的人？
+9,3030,,"Una persona scomparsa?
+No, non ne ho la minima idea.","失蹤的人？
 沒有，我完全沒有頭緒……",,"행방불명이 된 사람?
 아뇨, 전 전혀 짐작 가는 게 없는데요…","Jemand wird vermisst?
 Nein, davon weiß ich gar nichts."
@@ -51,8 +51,8 @@ Yamashina? Non ha altri figli?","嗯，這位就是山科先生的女兒嗎？
 請問你有其他子女嗎？",,"흐음, 이쪽이 야마시나 씨의 따님, 인가요?
 …그 외에, 자녀분은?","Hm ... Das ist Ihre Tochter, Herr Yamashina?
 Und sonst haben Sie keine Kinder?"
-19,3030,,"No. Chika è figlia
-unica. Come mai me lo chiedi?",沒有，只有千夏一個……為什麼要這麼問……？,,"아뇨, 치카 하나 뿐입니다만… 왜 그런 걸…","Nein. Chika ist Einzelkind.
+19,3030,,"No. Chika è figlia unica.
+Come mai me lo chiedi?",沒有，只有千夏一個……為什麼要這麼問……？,,"아뇨, 치카 하나 뿐입니다만… 왜 그런 걸…","Nein. Chika ist Einzelkind.
 Warum interessiert Sie das?"
 20,3031,,"Chi sei tu, esattamente?",你們兩個，到底是什麼人？,,"……당신들, 대체 뭐예요?",Wer sind Sie überhaupt?
 21,3030,,"Stanno chiedendo di una persona scomparsa
@@ -89,8 +89,8 @@ Sie können es jetzt wieder problemlos nutzen."
 30,3006,,"C'è qualcosa che non va, signor Yamashina?",嗯？山科誠先生，怎麼了嗎？,,"응? 야마시나 마코토 씨, 왜 그러시죠?","Stimmt etwas nicht, Herr Yamashina?"
 31,3031,,"Per favore, solo... per favore, andatevene ora!",請、請你們回去！,,"도, 돌아가 주세요!!",Bitte ... Bitte gehen Sie jetzt einfach!
 32,3006,,?,……？,,……?,?
-33,3031,,"Non... Non importa. Andatevene e
-basta! Non sappiamo niente di nessuna persona scomparsa!","夠、夠了！快點回去！
+33,3031,,"Non... Non importa. Andatevene e basta!
+Non sappiamo niente di nessuna persona scomparsa!","夠、夠了！快點回去！
 我們不是說了不知道什麼失蹤人物嗎？",,"돼, 됐으니까, 빨리 돌아가요!
 행방불명자에 대해선 모른다고 했잖아요!?","Das ... ist nicht wichtig. Gehen Sie!
 Wir wissen nichts über irgendwelche Vermisste!"

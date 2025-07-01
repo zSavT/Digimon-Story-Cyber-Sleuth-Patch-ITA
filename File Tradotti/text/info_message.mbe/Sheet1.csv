@@ -473,18 +473,18 @@ wiederhergestellt."
 [4[c1713]]"
 5060,,Non è necessario alcun recupero.,似乎沒有回復的必要,,회복할 필요는 없는 듯하다.,Keine Wiederherstellung nötig.
 5061,,Questo non è utilizzabile.,似乎因損壞而無法使用,,망가져서 쓰이지 않는 듯하다.,Das ist nicht benutzbar.
-5062,,"Sembra l'ascensore per il 14°
-piano. È saltata la corrente.","似乎是直達15樓的電梯
+5062,,"Sembra l'ascensore per il 14°piano.
+È saltata la corrente.","似乎是直達15樓的電梯
 電源斷電中",,"15F 직통 엘리베이터로 보인다.
 전원이 꺼져있다.","Sieht aus wie der Aufzug zum 14. Stock.
 Der Strom ist ausgefallen."
-5063,,"Sembra l'ascensore per il 29°
-piano. È saltata la corrente.","似乎是直達30樓的電梯
+5063,,"Sembra l'ascensore per il 29°piano.
+È saltata la corrente.","似乎是直達30樓的電梯
 電源斷電中",,"30F 직통 엘리베이터로 보인다.
 전원이 꺼져있다.","Sieht aus wie der Aufzug zum 29. Stock.
 Der Strom ist ausgefallen."
-5064,,"Sembra l'ascensore per il 39°
-piano. È saltata la corrente.","似乎是直達40樓的電梯
+5064,,"Sembra l'ascensore per il 39°piano.
+È saltata la corrente.","似乎是直達40樓的電梯
 電源斷電中",,"40F 직통 엘리베이터로 보인다.
 전원이 꺼져있다.","Sieht aus wie der Aufzug zum 39. Stock.
 Der Strom ist ausgefallen."
@@ -566,8 +566,8 @@ Cyber ​​Sleuth e Hacker's Memory.","若未通過網路偵探及駭客追憶�
 則無法使用此功能。",,"사이버 슬루스와 해커스 메모리를
 클리어하지 않으면 이 기능을 이용할 수 없습니다.","Dafür musst du erst Cyber Sleuth und
 Hacker's Memory abgeschlossen haben."
-1016,,"Se elimini i dati di salvataggio, perderai
-i progressi in Cyber ​​Sleuth e Hacker's Memory.","一但刪除保存資料，便會同時失去
+1016,,"Se elimini i dati di salvataggio, perderai i
+progressi in Cyber Sleuth e Hacker's Memory.","一但刪除保存資料，便會同時失去
 網路偵探與駭客追憶的進度。",,"저장 데이터를 삭제하면 사이버 슬루스와
 해커스 메모리 모두 진행 상황을 잃습니다.","Wenn du Speicherdaten löschst, verlierst du
 Fortschritt in Cyber Sleuth und Hacker's Memory."

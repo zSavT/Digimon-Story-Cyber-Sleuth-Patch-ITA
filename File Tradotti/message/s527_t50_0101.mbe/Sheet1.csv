@@ -1,35 +1,62 @@
 ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
-1,2020,,"(Il nome del cliente è Shizuko Kawauchi. La
-contatterò per chiederle dettagli sul caso.)","（委託人的名字是川內靜子……
+1,2020,,(La cliente si chiama Shizuko Kawauchi. Mi metto in contatto con lei e chiedo maggiori dettagli sul caso.),"（委託人的名字是川內靜子……
 　先跟她連繫，再問她詳細的委託內容吧）",,"(의뢰인의 이름은 카와우치 시즈코…인가
  일단 연락을 취해서 자세한 의뢰를 들어보자)","(Die Klientin heißt Shizuko Kawauchi. Ich melde
 mich bei ihr und erfrage Genaueres zum Fall.)"
-2,7369,,Grazie per esserti occupato del mio caso!,"你接受我的委託了嗎？
+2,7369,,Grazie che accetti il mio caso!,"你接受我的委託了嗎？
 謝謝你！",,"의뢰를 받아주신 건가요?
 감사합니다!","Danke, dass du meinen Fall annimmst!"
-3,7369,,"Voglio che tu aiuti il mio amico. Si è trasformato in un
-completo recluso.","其實我是想請你幫助，
+3,7369,,"Voglio che tu dia una mano a un mio amico.
+È diventato un eremita totale.","其實我是想請你幫助，
 我那個變成繭居族的兒時玩伴。",,"실은 은둔형 외톨이가 된 소꿉친구를
 구해줬으면 해요","Ich möchte, dass du einem Freund von mir hilfst.
 Der ist zum totalen Einsiedler geworden."
-4,7369,,La ragione?,變成繭居族的原因嗎？,,은둔형 외톨이가 된 원인 말인가요?,Warum?
-5,7369,,Hai sentito parlare di un'idol di nome Natsume Keshikawa?,……你知道一個叫芥子川夏目的偶像嗎？,,…케시카와 나츠메라는 아이돌을 아시나요?,"Hast du schon mal von einem Star namens Natsume
+4,7369,,Perché?,變成繭居族的原因嗎？,,은둔형 외톨이가 된 원인 말인가요?,Warum?
+5,7369,,Hai mai sentito parlare di una star chiamata Natsume Keshikawa?,……你知道一個叫芥子川夏目的偶像嗎？,,…케시카와 나츠메라는 아이돌을 아시나요?,"Hast du schon mal von einem Star namens Natsume
 Keshikawa gehört?"
-6,7369,,"È diventato completamente ossessionato da lei e
-non esce più dalla sua stanza da allora.",他因為迷上那個偶像所以才變得足不出戶。,,"그는 그 아이돌에게 빠진 후
+6,7369,,Lui è completamente ossessionato da lei e da allora non ha più lasciato la sua stanza.,他因為迷上那個偶像所以才變得足不出戶。,,"그는 그 아이돌에게 빠진 후
 방에서 나오지 않게 되었어요","Er ist von ihr total besessen und hat seither
 sein Zimmer nicht verlassen."
 7,7369,,"L'ultima volta che l'ho visto, ho sbirciato nella sua stanza...","最後見到他的時候，
 我稍微偷窺了一下他的房間……",,"마지막으로 그와 만났을 때 그가 틀어박혀 있던 방을
 엿봤는데요……","Als ich ihn das letzte Mal gesehen habe, habe ich
 in sein Zimmer gelugt ..."
-8,7369,,"L'intero posto è coperto di poster, figure e altro merchandise di Natsume Keshikawa.","那間房間，到處充滿了芥子川夏目的
+8,7369,,"È completamente tappezzato di poster, action figure e altra roba di Natsume Keshikawa.","那間房間，到處充滿了芥子川夏目的
 海報和公仔一類的商品。",,"그 방은 케시카와 나츠메의 포스터나 피규어같은
 굿즈로 메워져 있었어요","Das ist komplett mit Postern, Figuren und
 sonstigem Kram von Natsume Keshikawa
 zugekleistert."
-9,7369,,"Passa tutto il giorno a fissare i suoi video e
-foto sul suo computer.","他就在那裡一直看著夏目的影片或圖片，
+9,7369,,Lui si spara i suoi video e le sue immagini sul suo computer per tutto il giorno.,"他就在那裡一直看著夏目的影片或圖片，
 就這樣一直望著終端……",,"그는 거기서 계속 나츠메의 영상이나 사진을
 단말로 들여다보고 있어서……","Er zieht sich den ganzen Tag lang ihre Videos und
 Bilder auf seinem Computer rein."
+10,7369,,Credo che passi anche molto tempo nel suo forum in EDEN.,好像也一直待在EDEN的偶像討論區裡……,,"EDEN 속 아이돌 포럼에도
+드나들고 있는 것 같고……","Ich denke, er verbringt auch viel Zeit in ihrem
+Forum in EDEN."
+11,7369,,Si chiama Toshio. È sempre stato un po' fissato con le cose e non è mai uscito con gli altri.,"我那兒時玩伴……伊井俊夫，他本來
+就是個會待在家裡不喜歡外出的人。",,"소꿉친구… 이이 토시오는 원래부터 오타쿠 기질이 있어서
+그다지 밖에 나다니지는 않는 사람이었어요","Er heißt Toshio. Er war schon immer gern in Dinge
+vernarrt und ist nie unter Leute gegangen."
+12,7369,,Ma non era mai andata così male!,但也不至於會到那個程度！,,하지만 그 정도는 아니었어요!,Aber so schlimm war es noch nie!
+13,7369,,"Quando lo guardo, in mezzo a tutti questi poster e a tutta questa roba, ho proprio l'impressione che qualcosa non vada.","而且看著埋首於偶像商品時的他的樣子，
+總覺得有哪裡很奇怪。",,"게다가 아이돌 굿즈에 파묻힌 그의 모습을
+보면 어딘가 이상한 기분이 들어 견딜 수가 없어요","Wenn ich ihn mir neben all diesen Postern und dem
+Kram ansehe, kriege ich einfach den Eindruck,
+dass etwas nicht stimmt."
+14,7369,,Ti prego! Devi aiutarlo! Sono sicuro che si sia cacciato in qualcosa di brutto!,"拜託了！　請幫幫他！
+他一定是被捲進了什麼奇怪的事件！",,"부탁드려요! 그를 구해주세요!
+틀림없이 뭔가 이상한 일이 휘말린 거예요!","Bitte! Du musst ihm helfen! Ich bin mir sicher,
+dass er da in etwas Schlimmes reingeraten ist!"
+15,7369,,Grazie!,"謝謝！
+那麼就拜託你了。",,"감사합니다!
+그럼 잘 부탁드릴게요",Danke!
+16,2020,,"Allora dovrei aiutare il suo amico eremita.
+Che faccio?","（幫助繭居族的兒時玩伴嗎……
+　到底要怎麼幫才好啊……）",,"(은둔형 외톨이인 소꿉친구를 어떻게든 해달라…인가
+ 대체 어떻게 해야 할까…)","(Ich soll also ihrem einsiedlerischen Freund
+helfen. Was mache ich denn?)"
+17,2020,,...,…………,,…………,...
+18,2020,,(Non ne ho la minima idea! Meglio che chieda a un po' di gente che se ne intende!),"（嗯！　完全沒有頭緒！
+　這時候就要借助“過來人”的力量！）",,"(응! 전혀 모르겠어!
+ 여기선 ""경험자들""에게 도움을 청하자!)","(Ich habe keine Ahnung! Ich frage lieber ein paar
+Leute, die sich mit so etwas auskennen!)"

@@ -1,34 +1,36 @@
-﻿"ID","Speaker","Japanese","English","Chinese","EnglishCensored","Korean","German"
-"1","1703","","Impossibile... Il Portale si sta chiudendo?!","怎麼可能……次元之門居然關閉了……！？","","바보 같은… 차원의 문이 닫혔다고…!?","Unmöglich ... Das Dimensionstor schließt sich?!"
-"2","1703","","Grrr... Argh!
-Stupidi, insolenti umani!","嗚……嗚哇啊啊啊啊啊！！
-可、可惡的人類……竟敢賣弄小聰明……！！","","그… 그아아아아아!!
+ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
+1,1703,,Impossibile... Il portale dimensionale si sta chiudendo?!,怎麼可能……次元之門居然關閉了……！？,,바보 같은… 차원의 문이 닫혔다고…!?,Unmöglich ... Das Dimensionstor schließt sich?!
+2,1703,,"Grrr... Arrgh!
+Sciocchi, impertinenti umani!","嗚……嗚哇啊啊啊啊啊！！
+可、可惡的人類……竟敢賣弄小聰明……！！",,"그… 그아아아아아!!
 이, 인간놈들… 건방진 짓을…!!","Grrr ... Arrgh!
 Törichte, impertinente Menschen!"
-"3","1703","","Anche la connessione momentanea al Mondo Digitale
-dovrebbe avere un effetto duraturo.","但是，即使時間短暫，
-已充分留下了和數碼世界連接的影響。","","……하지만, 짧은 시간이었지만
+3,1703,,Anche la breve connessione al Mondo Digitale dovrebbe avere un effetto duraturo.,"但是，即使時間短暫，
+已充分留下了和數碼世界連接的影響。",,"……하지만, 짧은 시간이었지만
 디지털 월드와 이어진 영향이 충분히 남아 있어","Selbst die kurzzeitige Verbindung zur Digitalen Welt
 sollte eine bleibende Wirkung haben."
-"4","1703","","Ci sono anomalie digitali ovunque. Il fatto che riesca 
-a mantenere questa forma ne è la prova!","Digital Shift恐怕已大範圍地出現……
-我還能維持這個形態，就是證據……！","","아마도 광범위하게 디지털 시프트가 발생하고 있는 거다
+4,1703,,"Spostamenti digitali stanno avvenendo in un'ampia area.
+Il fatto che io riesca a mantenere questa forma lo dimostra!","Digital Shift恐怕已大範圍地出現……
+我還能維持這個形態，就是證據……！",,"아마도 광범위하게 디지털 시프트가 발생하고 있는 거다
 …내가 이 모습으로 있을 수 있는 것이, 그 증거…!","Digitale Verschiebungen finden in einem großen
 Gebiet statt. Dass ich diese Gestalt behalten
 kann, beweist es!"
-"5","1703","","Sento il potere degli altri Royal Knights.
-Sono da qualche parte qui intorno.","我可以感覺到其他皇家騎士的力量……
-它們一定已出現在其他地方。","","다른 로얄 나이츠들의 힘도 느낄 수 있다…
+5,1703,,"Sento il potere degli altri Royal Knights.
+Sono qui da qualche parte.","我可以感覺到其他皇家騎士的力量……
+它們一定已出現在其他地方。",,"다른 로얄 나이츠들의 힘도 느낄 수 있다…
 분명 어딘가에 나타났을 거다","Ich spüre die Macht der anderen Royal Knights.
 Sie sind hier irgendwo."
-"6","1703","","Troverò gli altri e poi
-distruggeremo insieme il mondo degli umani!","找出伙伴們，
-一起毀滅人界吧！","","동료들을 찾아내서
+6,1703,,Troverò gli altri e poi distruggeremo insieme il mondo degli umani!,"找出伙伴們，
+一起毀滅人界吧！",,"동료들을 찾아내서
 함께 인간계를 멸망시켜 주마!","Ich werde die anderen finden und dann zerstören
 wir gemeinsam die Welt der Menschen!"
-"7","1703","","Forse dobbiamo rivedere un po' i piani, ma 
-l'obiettivo rimane: sterminare tutti gli umani!","雖然有必要對計畫做一些修正，
-但人類的下場是不會改變的！","","계획에 약간의 수정을 가할 필요가 있겠지만
+7,1703,,"Il piano andrà forse un po' aggiustato, ma l'obiettivo resta: l'annientamento di tutti gli esseri umani!","雖然有必要對計畫做一些修正，
+但人類的下場是不會改變的！",,"계획에 약간의 수정을 가할 필요가 있겠지만
 인류의 말로에 변경은 없다!","Der Plan muss vielleicht ein wenig angepasst
 werden, doch das Ziel bleibt: Die Vernichtung
 aller Menschen!"
+8,1703,,"Uahahaha!
+Muahahaha!!!","呼哈哈哈哈、哈哈哈哈！
+呼哈哈哈哈哈哈！！",,"…후하하하하, 하하하하!
+후하하하하하하!!","Uahahaha!
+Muahahaha!!!"

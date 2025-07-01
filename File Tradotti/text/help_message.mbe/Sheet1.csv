@@ -203,3 +203,8 @@ ID,Japanese,English,Chinese,EnglishCensored,Korean,German
 2985,,Imposta la chiave della stanza da utilizzare nei criteri di ricerca.,在搜尋條件設定房間密碼。,,검색 조건으로 지정할 룸 키를 입력합니다.,Lege Raumschlüssel für Suchkriterien fest.
 2986,,Cerca stanze che soddisfino i criteri attuali.,搜尋符合目前條件的房間。,,현재 조건과 일치하는 룸을 검색합니다.,"Suche Räume, die zu diesen Kriterien passen."
 2946,,Seleziona una stanza a cui partecipare.,請選擇要加入的房間。,,참가할 룸을 선택해주세요.,Bitte wähle einen Raum zum Betreten aus.
+4000,,"Utilizzato per configurare le impostazioni della profondità di campo.","設定是否開啟景深。",,"피사계 심도의 활성화 여부를 설정합니다.","Hiermit wird die Schärfentiefe eingestellt."
+4001,,"Utilizzato per configurare le impostazioni dell'antialiasing.","設定是否開啟反鋸齒。",,"앤티에일리어싱의 활성화 여부를 설정합니다.","Hiermit wird das Antialiasing eingestellt."
+4002,,"Cambia la modalità schermo.","變更視窗模式。",,"스크린 모드를 변경합니다.","Ändert den Bildschirmmodus."
+4003,,"Cambia la risoluzione.","變更解析度。",,"해상도를 변경합니다.","Ändert die Auflösung."
+4100,,"Utilizzato per configurare le impostazioni dei pulsanti.","設定按鍵功能。",,"키보드 입력 설정을 변경합니다.","Hiermit wird die Tastenbelegung angepasst."

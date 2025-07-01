@@ -1,9 +1,9 @@
 ID,Japanese,English,Chinese,EnglishCensored,Korean,German
 10,,Seleziona il piano di destinazione.,請選擇要前往的樓層,,이동할 층을 선택해주세요,Wähle ein Stockwerk.
-11,,4F: K-Cafe/Medal Man,4F　K-Cafe、獎牌大叔,,4F: K-카페/메달 아저씨,4. Stock: K-Café/Medaillensammler
-12,,3F: Ristoranti/Libri Usati,3F　美食街、二手書店,,3F: 식당가/중고서점,3. Stock: Restaurants/Bücher
-13,,2° Piano: Negozio di CD,2F　唱片行,,2F: CD숍,2. Stock: CD-Laden
-14,,1° piano: Agenzia Investigativa Kuremi,1F　暮海偵探事務所,,1F: 쿠레미 탐정사무소,1. Stock: Detektivbüro Kuremi
+11,,4°Piano: K-Cafe/Uomo delle Medaglie,4F　K-Cafe、獎牌大叔,,4F: K-카페/메달 아저씨,4. Stock: K-Café/Medaillensammler
+12,,3°Piano: Ristoranti/Libri Usati,3F　美食街、二手書店,,3F: 식당가/중고서점,3. Stock: Restaurants/Bücher
+13,,2°Piano: Negozio di CD,2F　唱片行,,2F: CD숍,2. Stock: CD-Laden
+14,,1°Piano: Agenzia Investigativa Kuremi,1F　暮海偵探事務所,,1F: 쿠레미 탐정사무소,1. Stock: Detektivbüro Kuremi
 15,,B1F: Locale Caldaie,B1F　鍋爐室,,B1F: 보일러실,KG: Heizraum
 16,,Esci,取消,,그만둔다,Verlassen
 17,,Lobby,大廳,,로비,Empfang
@@ -22,20 +22,20 @@ ID,Japanese,English,Chinese,EnglishCensored,Korean,German
 30,,Medicina gratuita,自由種專用的藥,,프리종 전용약,Neutrale Medizin
 31,,Non arrenderti ora,先不要給,,지금은 주지 않는다,Jetzt nicht geben
 32,,Piano terra - Atrio,1F　　大廳,,1F 로비,EG – Lobby
-33,,13° Piano,13F,,13F,12. Stock
-34,,14° Piano,14F,,14F,13. Stock
-35,,15° Piano,15F,,15F,14. Stock
-36,,27° Piano,27F,,27F,26. Stock
-37,,28° Piano,28F,,28F,27. Stock
-38,,29° Piano,29F,,29F,28. Stock
-39,,30° Piano,30F,,30F,29. Stock
-40,,36° Piano,36F,,36F,35. Stock
-41,,37° Piano,37F,,37F,36. Stock
-42,,38° Piano,38F,,38F,37. Stock
-43,,39° Piano,39F,,39F,38. Stock
-44,,40° PIANO,40F,,40F,39. Stock
-45,,48° Piano,48F,,48F,47. Stock
-46,,49° piano,49F,,49F,48. Stock
+33,,13°Piano,13F,,13F,12. Stock
+34,,14°Piano,14F,,14F,13. Stock
+35,,15°Piano,15F,,15F,14. Stock
+36,,27°Piano,27F,,27F,26. Stock
+37,,28°Piano,28F,,28F,27. Stock
+38,,29°Piano,29F,,29F,28. Stock
+39,,30°Piano,30F,,30F,29. Stock
+40,,36°Piano,36F,,36F,35. Stock
+41,,37°Piano,37F,,37F,36. Stock
+42,,38°Piano,38F,,38F,37. Stock
+43,,39°Piano,39F,,39F,38. Stock
+44,,40°PIANO,40F,,40F,39. Stock
+45,,48°Piano,48F,,48F,47. Stock
+46,,49°piano,49F,,49F,48. Stock
 47,,Tetto,R　天台,,R 옥상,Dach
 100,,Cosa vuoi fare?,要做什麼呢？,,무엇을 하겠습니까?,Was möchtest du tun?
 101,,Vendi medaglie,販賣持有獎牌,,소지 메달을 매각한다,Medaillen verkaufen
