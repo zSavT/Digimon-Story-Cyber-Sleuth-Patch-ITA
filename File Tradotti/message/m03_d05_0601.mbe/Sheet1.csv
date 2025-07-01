@@ -1,19 +1,19 @@
 ﻿ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
 1,3002,,Certo! Sono i miei piccoli amici!,果然是他們！！,,역시! 그 애들이야!!,Natürlich! Meine kleinen Freunde!
 2,3002,,Devono essere in pericolo! Sbrighiamoci!,有種不好的預感……動作快！！,,"왠지, 위험할 것 같은 분위기… 서두르자!!",Sie sind bestimmt in Gefahr! Schnell!
-3,3002,,"Fermati un
-secondo! Cosa stai facendo a quelle creature?","給～～～我等一下！！
+3,3002,,"Fermati un secondo!
+Cosa stai facendo a quelle creature?","給～～～我等一下！！
 你想對他們做什麼！？",,"잠~~~깐 기다려!!
 그 애들을 어쩌려는 거야!?","Moooment mal!
 Was macht ihr denn mit den Tierchen?"
 4,5008,,Nokia?!,諾、諾奇雅！？,,"노, 노키아!?",Nokia?!
-5,4274,,"Eh? Cosa hai intenzione di farci? Abbiamo trovato
-queste cose in modo onesto e corretto.","啥！？　你們兩個想幹嘛？
+5,4274,,"Eh? Cosa hai intenzione di farci?
+Abbiamo trovato queste cose in modo onesto e corretto.","啥！？　你們兩個想幹嘛？
 這兩隻是我們找到的！",,"…하아!? 뭡니까, 당신들?
 이 녀석들은 우리들이 발견했거든요?","Hö? Was willst du denn dagegen machen?
 Wir haben die gefunden."
-6,4274,,"Questo significa che possiamo fare quello che vogliamo
-con loro. Hai un problema con questo?","想對他們做什麼，是我們的自由吧！
+6,4274,,"Questo significa che possiamo fare quello che vogliamo con loro.
+Hai un problema con questo?","想對他們做什麼，是我們的自由吧！
 我有錯嗎？你們有什麼意見嗎？",,"어떻게 하든, 우리들 마음이죠?
 저, 뭔가 틀린 말 했슴까? 불만 있슴까?","Das heißt, wir können mit ihnen machen, was wir
 wollen. Passt dir das nicht?"
@@ -50,8 +50,8 @@ Körpersprache passt nicht so ganz. Du zitterst wie
 Espenlaub, stimmt’s?"
 16,4275,,"Sì, sei proprio il mio tipo, non è vero, tesoro?",搞不好這小妞真的是我的菜……？,,실은 꽤나 내 취향인 누님…?,"Du bist doch mein Typ, nicht wahr, Schätzchen?"
 17,3002,,Stai abbaiando all'albero sbagliato!,你、你們可別誤會了……！,,"차, 착각하지 말라구…!?",Da seid ihr aber schief gewickelt!
-18,3002,,"Ho un problema, ma c'è di più... il
-mio amico ha un problema con te!","雖然我也有很多意見想說……但是比起我……
+18,3002,,"Ho un problema, ma c'è di più...
+il mio amico ha un problema con te!","雖然我也有很多意見想說……但是比起我……
 他有更多話想說！！",,"나도 불만은 있지만… 사실 나 이상으로
 이쪽이 더 불만 많으니까!!","Mir passt vielleicht etwas nicht, aber ...
 Vor allem passt ihr UNS nicht!"
@@ -61,20 +61,18 @@ Vor allem passt ihr UNS nicht!"
 che sia io ad occuparmi di quei teppisti di Zaxon!""","你說什麼?""區區Zaxon的駭客，不需要諾奇雅大人出場，交給我吧!""",,"…뭐라고뭐라고? ""저런 잭슨 똘마니 상대로, 노키아 님이
 나서실 필요 없습니다, 저에게 맡겨 주십시오""?","Was hattest du gesagt? „Keine Angst, liebe Nokia!
 Überlass diese Zaxon-Typen nur mir!“"
-22,3002,,"S-Sì, ben detto, [p]! Sei
-veramente degno di essere mio allievo! Ora, è
-tempo di mettere quelle parole in pratica!","嗯嗯……說的好啊！不愧是我的徒弟，[p]！
+22,3002,,"S-Sì, ben detto, [p]!
+Sei veramente degno di essere mio allievo!
+Ora, è tempo di mettere quelle parole in pratica!","嗯嗯……說的好啊！不愧是我的徒弟，[p]！
 那就交給你了！盡全力戰鬥吧！",,"으, 음… 잘 말했다, 그래야 내 제자, [p]
 그렇다면, 마음껏 싸우도록~!","J-Jawohl, gut gebrüllt, [p]!
 Du hast mich als Lehrerin verdient!
 Jetzt lass den Worten Taten folgen!"
-23,1151,,"Nokia, forse non sei così forte come
-pensavo.",諾奇雅……好像有點遜……,,노키아… 꼴사나울지도…,"Nokia, vielleicht bist du doch gar nicht so
+23,1151,,"Nokia, forse non sei così forte come pensavo.",諾奇雅……好像有點遜……,,노키아… 꼴사나울지도…,"Nokia, vielleicht bist du doch gar nicht so
 cool ..."
 24,4274,,Cos'è questo? È una specie di scherzo? Ahahah.,什麼跟什麼？我該笑嗎？哈哈哈哈！,,뭡니까 그거? 웃으면 되는 검까? 아핫핫하,Was soll das? Soll das ein Witz sein? Hahaha.
-25,4274,,"Mi sono stancato di questa storia. Vi faremo a pezzi
-entrambi. Prenderemo i vostri account e poi vi faremo
-a brandelli.","是說……你們煩死了！我要打得你們片甲不留！
+25,4274,,"Mi sono stancato di questa storia. Vi faremo a pezzi entrambi.
+Prenderemo i vostri account e poi vi faremo a brandelli.","是說……你們煩死了！我要打得你們片甲不留！
 然後盜取你們的帳號，毀個稀巴爛！",,"…그보다, 짜증남다. 둘 다 만신창이로 만든 다음
 계정도 뺏어다가 엉망진창으로 만들어 주겠슴다","Ich habe langsam die Nase voll. Wir machen euch
 beide fertig. Aber erst schnappen wir uns eure
