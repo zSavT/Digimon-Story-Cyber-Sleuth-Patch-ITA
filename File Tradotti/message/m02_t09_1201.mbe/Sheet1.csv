@@ -1,14 +1,13 @@
 ﻿ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
 1,4265,,"Sì, chi è?",來了，請問是哪位？,,"…네, 누구시죠?","Ja, wer ist da?"
-2,3006,,"Buon pomeriggio. Questa è la residenza 
-Yamashina, non è vero?","你好，請問這裡是山科先生家，
+2,3006,,"Buon pomeriggio. Questa è la residenza Yamashina,
+non è vero?","你好，請問這裡是山科先生家，
 沒有錯吧？",,"안녕하세요, 야마시나 씨의 자택이
 맞습니까?","Guten Tag. Sind wir hier richtig, bei Yamashina?
 "
 3,4266,,"Lo è, ma... chi sei tu?",是沒錯……請問你們是？,,그런데요… 누구시죠?,"Ja, aber ... Wer sind Sie denn?"
 4,3006,,"Sto cercando qualcuno.
-Mi scusi, potrei sapere il 
-suo nome?","其實我們正在找人……
+Mi scusi, potrei sapere il  suo nome?","其實我們正在找人……
 不好意思，可以請教你的大名嗎？",,"아뇨, 사실, 사람을 찾고 있어서요
 …실례합니다만, 당신의 이름을 여쭤 봐도 될까요?","Ich suche jemanden.
 Entschuldigen Sie, aber dürfte ich nach Ihrem
@@ -17,8 +16,7 @@ Namen fragen?"
 6,2000,,!,！？！,,!?!,!
 7,3006,,"Grazie, signor Yamashina. Un'altra domanda, signore.",那麼，山科誠先生，我想請教你一件事情。,,"그럼, 야마시나 마코토 씨. 한 가지 여쭙겠습니다","Vielen Dank, Herr Yamashina. Nur eine Frage noch."
 8,3006,,"Ho sentito dire che qualcuno in questa
-zona è scomparso. Per caso sai
-chi potrebbe essere?","這附近似乎有人失蹤……
+zona è scomparso. Per caso sai chi potrebbe essere?","這附近似乎有人失蹤……
 你知道失蹤的是誰嗎？",,"이 근처에서 행방불명자가 나왔다고 합니다만…
 그 인물에 대해, 짐작 가는 바가 있으신지요?","Ich habe gehört, dass jemand aus dieser Gegend
 vermisst wird. Haben Sie eine Ahnung,
@@ -38,16 +36,16 @@ fuori al momento.",不、不好意思……我太太和女兒都出門了……,
 unterwegs."
 12,3006,,Dove potrebbe essere sua figlia?,你女兒現在在哪裡？,,"따님은, 지금 어디에?",Wo ist ihre Tochter denn?
 13,4268,,"Papà, cosa c'è che non va?",爸爸，怎麼了？,,"아빠, 무슨 일이야?","Papa, was ist denn los?"
-14,3030,,"Ah, sei a casa! Che tempismo! C'è
-qualcuno qui che vuole parlarti.","啊啊，回來了啊？正好……！
+14,3030,,"Ah, sei a casa! Che tempismo! 
+C'è qualcuno qui che vuole parlarti.","啊啊，回來了啊？正好……！
 有人想跟妳說說話……",,"아아, 돌아왔니. 마침 잘 됐구나…!
 너와 얘기를 나누고 싶다는 분이 와 계셔서…","Ach, du bist zurück! Genau rechtzeitig!
 Da möchte dich jemand sprechen."
 15,3030,,"Questa è mia figlia, Chika.",這是我女兒「千夏」。,,"이쪽이 딸인,「치카」입니다",Das ist meine Tochter Chika.
 16,2000,,!,……！！,,…!!,!
 17,3031,,Eh? Che succede?,咦？有、有什麼事嗎……？,,"에? 무, 무슨 일이죠…?",Hm? Was ist hier los?
-18,3006,,"Hmm... Questa è sua figlia, signor
-Yamashina? Non ha altri figli?","嗯，這位就是山科先生的女兒嗎？
+18,3006,,"Hmm... Questa è sua figlia,
+signor Yamashina? Non ha altri figli?","嗯，這位就是山科先生的女兒嗎？
 請問你有其他子女嗎？",,"흐음, 이쪽이 야마시나 씨의 따님, 인가요?
 …그 외에, 자녀분은?","Hm ... Das ist Ihre Tochter, Herr Yamashina?
 Und sonst haben Sie keine Kinder?"
@@ -118,9 +116,8 @@ Wie hängen die beiden zusammen?"
 41,3006,,È questo che stuzzica davvero il mio interesse.,相當耐人尋味。,,매우 흥미를 돋우는 점들이지,Das wüsste ich wirklich zu gern.
 42,3006,,C'è un'altra cosa che mi preoccupa.,我還有一件很在意的事……,,"그리고, 신경 쓰이는 점이 하나 더…",Eine Sache beschäftigt mich außerdem noch.
 43,3006,,Ma lasciamo perdere per ora.,算了，先放一邊吧。,,"…뭐, 이건 제쳐 두도록 하지",Aber vergessen wir die vorerst.
-44,3006,,"La cliente ha detto che sarebbe
-tornata all'agenzia. Prendiamoci un
-caffè e aspettiamola!","委託人說會再來事務所，
+44,3006,,"La cliente ha detto che sarebbe tornata all'agenzia.
+Prendiamoci un caffè e aspettiamola!","委託人說會再來事務所，
 我們就一邊喝咖啡，一邊愉快地等待她大駕光臨吧！",,"의뢰인은, 다시 사무소에 방문하겠다고 했다
 의뢰인의 도착을 기대하면서 커피라도 마시면서 기다리자고","Die Klientin meinte, sie würde zum Büro
 zurückkehren. Holen wir uns einen Kaffee und
