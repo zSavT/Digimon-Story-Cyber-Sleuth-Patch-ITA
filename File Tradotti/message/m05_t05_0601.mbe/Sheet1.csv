@@ -4,8 +4,8 @@ Ti stai abituando a lavorare come detective?","嗨，小助手。
 偵探做得還習慣嗎？","","오, 조수 군
 탐정 업무는 이제 익숙해졌나?","Tag auch, junger Hilfsdetektiv!
 Gewöhnst du dich langsam an die Arbeit?"
-"2","3007","","Come mai quel muso lungo? Mi
-guardi come se io non dovessi essere qui.","你那是什麼表情？
+"2","3007","","Come mai quel muso lungo?
+Mi guardi come se io non dovessi essere qui.","你那是什麼表情？
 一副我不該出現在這裡的樣子！","","뭐냐 그 얼굴은?
 내가 여기 있으면 안 되는 것 같은 얼굴인데?","Was schaust du denn so?
 Als ob ich hier nicht hergehören würde."
@@ -18,14 +18,14 @@ Akten zum Fall Nile Corporation nicht finden."
 "5","3006","","Quindi pensavo di chiedere a qualcuno
 coinvolto direttamente nel caso.","所以就請當事人親自前來了。","","그래서, 당사자 본인에게 오시도록 부탁드렸다는 거다","Also wollte ich jemanden fragen, der direkt
 beteiligt war."
-"6","3007","","Ovvio che non li hai trovati. Tutti i file sono
-memorizzati nella Kamishiro.","找不到是正常的……
+"6","3007","","Ovvio che non li hai trovati.
+Tutti i file sono memorizzati nella Kamishiro.","找不到是正常的……
 因為調查資料全都由神代保管。","","…보이지 않는 게 당연하지
 조사 자료 전부 카미시로가 보관하고 있으니까","Natürlich hast du sie nicht gefunden. Die Akten
 werden alle zusammen bei Kamishiro gelagert."
 "7","3006","","A Kamishiro?","由神代保管？","","카미시로가…?","Bei Kamishiro?"
-"8","3007","","Mi vergogno di doverlo ammettere, ma
-abbiamo dovuto lasciare i file lì.","雖然要在小杏面前講這種話很沒出息……
+"8","3007","","Mi vergogno di doverlo ammettere,
+ma abbiamo dovuto lasciare i file lì.","雖然要在小杏面前講這種話很沒出息……
 但我們當時只能這麼做。","","쿄짱의 앞에서 이런 말을 하는 건 한심하지만…
 우리들은 그렇게 하는 수밖에 없었어","Ich gebe das ja nur sehr ungern zu, aber wir
 mussten die Akten dort lassen."
@@ -33,8 +33,7 @@ mussten die Akten dort lassen."
 "10","3006","","Questo era quel tuo ""presentimento"", non è vero?","因為“那個嫌疑”嗎？","","""그 의혹"", 이군요?","Da kam dein „Bauchgefühl“ her, stimmt’s?"
 "11","3007","","Sì...","沒錯……","","……그래","Ja ..."
 "12","3007","","All'epoca, sorsero sospetti che
-Kamishiro avesse acquisito la Nile
-Corporation illecitamente.","當時神代有非法收購尼羅河公司的嫌疑。","","당시, 카미시로가 나일 코프를
+Kamishiro avesse acquisito la Nile Corporation illecitamente.","當時神代有非法收購尼羅河公司的嫌疑。","","당시, 카미시로가 나일 코프를
 부정 인수했다는 의혹이 제기되었어","Wir haben damals Vermutungen geäußert, dass
 Kamishiro die Nile Corporation auf illegale Weise
 übernommen hatte."
@@ -44,8 +43,8 @@ quando ci siamo imbattuti in un piccolo problema.","我和小杏的老爸進行�
 조사를 진행하고 있었다만… 좀, 문제가 일어났거든","Dein Vater und ich sind der Sache nachgegangen,
 als wir auf ein kleines Problem stießen."
 "14","3006","","Un problema?","什麼問題？","","문제란?","Ein Problem?"
-"15","3007","","Sono arrivate pressioni
-dall'alto. Siamo stati costretti ad abbandonare il caso.","“上頭”對我們施加壓力，
+"15","3007","","Sono arrivate pressioni dall'alto.
+Siamo stati costretti ad abbandonare il caso.","“上頭”對我們施加壓力，
 所以我們不得不放棄那次調查……","","""위""에서 압박이 가해진 거야
 덕택에 우리들은 조사를 단념할 수밖에 없게 됐지…","Druck von ganz oben.
 Wir mussten den Fall aufgeben."
@@ -54,15 +53,14 @@ i fascicoli del caso a Kamishiro.","當時，作為不追究責任的條件，
 我們把所有調查資料全部交給神代。","","그때, 책망이 없는 조건으로
 조사 자료 전부를 카미시로측에 넘기게 됐던 거야","Wir mussten außerdem sämtliche Akten an Kamishiro
 übergeben."
-"17","3006","","Quindi Kamishiro ha manovrato il tutto. Una
-mossa piuttosto incriminante, non pensi?","神代既然出手干涉……
+"17","3006","","Quindi Kamishiro ha manovrato il tutto.
+Una mossa piuttosto incriminante, non pensi?","神代既然出手干涉……
 就代表他們證明自己是「有問題」的。","","카미시로가 손을 썼다…
 스스로「흑막」이라고 밝힌 거나 다름없군요","Kamishiro saß also am Drücker.
 Das war aber quasi ein Geständnis, oder nicht?"
 "18","3007","","Era l'intesa implicita.","這也是心照不宣的共識。","","그것도 암묵적인 수긍이었단 거지","So haben wir das stillschweigend aufgefasst."
 "19","3007","","Dato che sapevamo quanto fosse grave, abbiamo deciso di
-tenere traccia silenziosa di dove erano
-archiviati i fascicoli dei casi.","了解這件事有多黑暗的我們，索性不反抗，
+tenere traccia silenziosa di dove erano archiviati i fascicoli dei casi.","了解這件事有多黑暗的我們，索性不反抗，
 專心追蹤資料的保管場所。","","어둠이 얼마나 깊은지를 실감한 우리들은, 구태여 조용히
 자료의 보관처 추적에 전념했다","Da wir wussten, wie schlimm die Sache ist, haben
 wir inoffiziell verfolgt, wo die Akten
@@ -70,16 +68,14 @@ aufbewahrt wurden."
 "20","3007","","Ho continuato a tenerti d'occhio anche
 dopo la scomparsa di tuo padre.","在妳老爸過世之後，我也一直在追蹤。","","…쿄짱의 아버지가 죽은 뒤에도 추적은 계속하고 있지","Selbst nach dem Tod deines Vaters habe ich
 das Ganze weiterverfolgt."
-"21","3007","","Ora, i file sono memorizzati in
-profondità nel server Avalon, che è il
-server principale di Kamishiro.","現在那些資料都被保管在
+"21","3007","","Ora, i file sono memorizzati in profondità nel
+server Avalon, che è il server principale di Kamishiro.","現在那些資料都被保管在
 神代的主伺服器「阿瓦隆伺服器」的深處。","","지금, 자료는 카미시로의 메인 서버
 「아발론 서버」의 안쪽 깊숙한 곳에 보관되어 있어","Die Akten sind jetzt auf dem Avalon-Server
 gespeichert, und zwar ganz tief vergraben. Das
 ist der Hauptserver von Kamishiro."
-"22","3007","","Sono sicuro che si trovi nella parte di
-cyberspazio che gli impiegati della
-Kamishiro chiamano ""database riservato"".","這恐怕就是被神代員工稱為
+"22","3007","","Sono sicuro che si trovi nella parte di cyberspazio
+che gli impiegati della Kamishiro chiamano ""database riservato"".","這恐怕就是被神代員工稱為
 「機密資料庫」的電腦空間。","","아마도, 카미시로의 사원들이
 「기밀정보 데이터 베이스」라고 부르고 있는 전뇌공간이다","Der liegt bestimmt in dem Teil des Cyberspace,
 den die Mitarbeiter von Kamishiro als die
@@ -96,8 +92,7 @@ da scansioni dell'ambiente circostante. Chiamala la mia intuizione.","只是從�
 Scans. Kannst es auch meinen Instinkt nennen."
 "25","3006","","Hmph. Mi basta così.","呵呵，這樣可信度已經夠高了。","","훗, 충분한 보증서예요","Hm. Das reicht mir."
 "26","3006","","Bene allora. Direi che è arrivato il
-momento di fargli restituire tutto
-ciò che è nostro.","那麼，差不多該請他們
+momento di fargli restituire tutto ciò che è nostro.","那麼，差不多該請他們
 歸還寄放的東西了。","","그럼, 슬슬 맡겼던 것을
 돌려받도록 하겠습니다","Nun denn, dann würde ich mal sagen, wir
 hätten gern wieder, was die Firma so aufmerksam
@@ -107,25 +102,23 @@ Qui abbiamo a che fare con Kamishiro.","可是小杏……
 對手可是那個神代耶！","","아니 하지만 말이야 쿄짱…
 상대는 그 카미시로라고?","Hör mir zu, Kyo-chan.
 Wir reden hier von Kamishiro."
-"28","3007","","Come pensi di aggirare la
-sicurezza di prim'ordine di una compagnia di fama
-mondiale?","世界知名的大企業一定戒備森嚴，
+"28","3007","","Come pensi di aggirare la sicurezza
+di prim'ordine di una compagnia di fama mondiale?","世界知名的大企業一定戒備森嚴，
 妳打算怎麼潛入？","","세계에 그 이름을 떨치는 대기업의 엄중한 보안을
 어떻게 빠져나갈 생각이지?","Wie willst du denn die erstklassigen
 Sicherheitssysteme einer weltberühmten Firma
 umgehen?"
 "29","3006","","Impariamo dal caso del Gallo Rapinatore.","要仿效“雞鳴狗盜”的故事。","","여기선 ""계명구도""의 고사를 본받도록 하죠","Nehmen wir uns das Trojanische Pferd als Beispiel."
-"30","3006","","Non ci facciamo strada con la forza attraverso un cancello
-chiuso. Invece, usiamo la strategia e facciamo in modo che lo aprano
-per noi.","緊閉的門扉，不要強行突破，
+"30","3006","","Non ci facciamo strada con la forza attraverso un cancello chiuso.
+Invece, usiamo la strategia e facciamo in modo che lo aprano per noi.","緊閉的門扉，不要強行突破，
 只要運用策略，讓對方開門就好了。","","닫힌 문은 강행 돌파가 아니라,
 책략을 써서 상대에게 열게 하면 되는 겁니다","Statt ein verschlossenes Tor aufzubrechen, gehen
 wir strategisch vor, sodass es für uns geöffnet
 wird."
 "31","3007","","Ehi, un momento. Ma è possibile una cosa del genere?","喂……這種事有可能辦得到嗎？","","이, 이봐이봐… 그런 게 가능한 거야?","Moment mal. Ist das überhaupt möglich?"
 "32","3006","","Un buon detective rende possibile l'impossibile.","將不可能化為可能，正是偵探所求之不得的！","","불가능을 가능하게 해야, 탐정으로서 더할 나위 없다는 거죠","Ein guter Detektiv macht das Unmögliche möglich."
-"33","3006","","Cosa? Abbiamo già il nostro gallo in lista d'attesa. Qualcuno che sappia
-cantare proprio come serve a noi.","怎麼？我這裡可是有個
+"33","3006","","Cosa? Abbiamo già il nostro gallo in lista d'attesa.
+Qualcuno che sappia cantare proprio come serve a noi.","怎麼？我這裡可是有個
 學雞鳴的高手唷！","","뭘요, 이쪽에는 계명―
 닭의 울음소리를 흉내낼 수 있는 명인이 있거든요","Was denn? Wir haben doch schon einen passenden
 Lockvogel parat."
@@ -137,14 +130,14 @@ helfen, Kamishiro zu infiltrieren."
 "35","3006","","Aha. Parli del diavolo...","嗯……時間差不多了。","","…흐음, 마침 시간이군","Schau her. Wenn man vom Teufel spricht ..."
 "36","3003","","Chiedo scusa...","打擾了……","","실례합니다…","Entschuldigt ..."
 "37","2000","","...!","……！","","…!","...!"
-"38","3006","","Hee hee! Ancora una volta, sei arrivato giusto in
-tempo. Questa è la mia cliente, Yuuko Kamishiro.","呵呵。
+"38","3006","","Hee hee! Ancora una volta, sei arrivato giusto in tempo.
+Questa è la mia cliente, Yuuko Kamishiro.","呵呵。
 妳這次也非常準時呢，委託人神代悠子小姐。","","후후
 이번에도 시간에 딱 맞춰 방문하셨군요, 의뢰인 카미시로 유코 씨","Hihi! Du kommst mal wieder genau rechtzeitig.
 Das ist meine Klientin Yuuko Kamishiro."
 "39","3003","","Uhm... Ci sono stati progressi?","請問……調查有沒有什麼進展？","","저기… 조사에 진전은…?","Ähm ... Gibt es Fortschritte?"
-"40","3007","","Yuuko... Kamishiro!? Non intenderai
-mica la... ex presidente?","神代……悠子！？
+"40","3007","","Yuuko... Kamishiro!? Non intenderai mica la...
+ex presidente?","神代……悠子！？
 莫非妳是神代前任社長的……？","","카미시로… 유코!?
 혹시, 카미시로 전 사장의…?","Yuuko ... Kamishiro?!
 Doch nicht vom früheren Geschäftsführer ..."
@@ -157,9 +150,7 @@ ohne dass sich jemand etwas dabei denkt!"
 "43","3007","","Signorina, abbiamo bisogno del tuo aiuto! Per favore!","小姑娘！拜託！助我一臂之力！","","아가씨, 부탁해! 힘을 빌려 줘!","Junge Dame, wir brauchen deine Hilfe! Bitte!"
 "44","3003","","Eh? Cosa?","咦……？ 咦咦？","","……에? 에?","Wie? Was?"
 "45","2000","","!!!","……！！","","…!!","!!!"
-"46","2000","","Ti prego, Yuuko!
-Perdonaci!
-Chicchirichi!","拜託妳了！
+"46","2000","","Ti prego, Yuuko! Perdonaci! Chicchirichi!","拜託妳了！
 請饒了我吧！
 咕咕咕咕！","","잘 부탁드립니다!
 이걸로 참아 주세요!
