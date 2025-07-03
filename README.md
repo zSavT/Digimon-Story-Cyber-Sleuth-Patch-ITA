@@ -15,6 +15,7 @@ La realizzazione della patch è stata resa possibile in larga misura grazie al c
 - [Digimon Story Cyber Sleuth Patch ITA ](#digimon-story-cyber-sleuth-patch-ita-)
 - [Come installare la patch](#come-installare-la-patch)
 - [Funzionamento installer (Per chi vuole auto generarsi l'installer)](#funzionamento-installer-per-chi-vuole-auto-generarsi-linstaller)
+  - [Requisiti software](#requisiti-software)
   - [Creazione dell'eseguibile](#creazione-delleseguibile)
     - [Windows](#windows)
     - [Linux (Steam Deck)](#linux-steam-deck)
@@ -41,11 +42,23 @@ Successivamente bisogna accettare i termini d'uso e poi nella schermata successi
 
 # Funzionamento installer (Per chi vuole auto generarsi l'installer)
 
-Per poter creare correttamente l'installer bisogna prima di tutto utilizzare ```packager.py``` per poter generare il file criptato della cartella dove sono presenti tutti i file patchati (Bisogno comunque prima fare un passaggio con il programma "[SimpleDSCSModManager](https://gamebanana.com/tools/8918)"). Lo script è guidato e bisogna solo indicare il percorso della cartella con le modifiche della Patch ed il nome del file pkg criptato. Nel file "chiave.txt" bisogna inserire la chiave di criptazione scelta.
+## Requisiti software
+
+- [Python](https://www.python.org/downloads/) (testato con 3.12)
+- Librerie
+  - pyzipper
+  - PyQt6
+  - pyinstaller
+
+Le librerie si possono installare in automatico con il "*requirements.txt*".
+
+```ps
+pip install -r requirements.txt
+```
 
 ## Creazione dell'eseguibile
 
-Per poter generare l'eseguibile dello script bisogna utilizzare la libreria "__pyinstaller__" e generare l'eseguibile con i comandi in base al sistema operativo di arrivo.
+Per poter creare correttamente l'installer bisogna prima di tutto utilizzare ```packager.py``` per poter generare il file criptato della cartella dove sono presenti tutti i file patchati (Bisogno comunque prima fare un passaggio con il programma "[SimpleDSCSModManager](https://gamebanana.com/tools/8918)"). Lo script è guidato e bisogna solo indicare il percorso della cartella con le modifiche della Patch ed il nome del file pkg criptato. Nel file "chiave.txt" bisogna inserire la chiave di criptazione scelta.
 
 ### Windows
 
@@ -91,6 +104,8 @@ Una volta terminato, si può disattivare l'ambiente con il commando:
 ```ps
 deactivate
 ```
+**N.B.**<br>
+Il logo dell'eseguibile su linux non è supportato.
 
 Nella cartella "_dist_", è presente l'eseguibile (la versione per Linux non ha tipo/estensione).
 
