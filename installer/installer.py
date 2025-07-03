@@ -497,7 +497,7 @@ class CompletionDialog(QDialog):
         main_layout.addLayout(btn_layout)
 
         self.adjustSize()
-        self.setMaximumWidth(450)
+        self.setMaximumWidth(500)
 
     def accept_and_open_url(self):
         """Slot chiamato quando si preme OK.
@@ -929,7 +929,7 @@ class InstallerWizard(QWidget):
         try: self.setWindowIcon(QIcon(LOGO_ICO))
         except Exception as e: print(f"Error setting window icon: {e}")
         self.setWindowTitle(f"Installer Patch ITA Digimon Story Cyber Sleuth: Complete Edition ({VERSIONE})")
-        self.setMinimumSize(640, 520)
+        self.setMinimumSize(700, 580)
 
         # Contenitore principale
         container = QWidget(self)
