@@ -175,3 +175,5 @@ cython_debug/
 
 # EXTRA
 desktop.ini
+installer/Chiave.txt
+installer/patch.pkg
