@@ -3,7 +3,7 @@
 # -----------------------------------------------------------------------------
 # Installer Patch ITA Digimon Story Cyber Sleuth Complete Edition
 # Autore: SavT
-# Versione: v2
+# Versione: v2.1
 # -----------------------------------------------------------------------------
 
 import sys
@@ -19,7 +19,7 @@ from PyQt6.QtWidgets import (
     QApplication, QWidget, QLabel, QPushButton, QVBoxLayout, QFrame,
     QStackedWidget, QFileDialog, QTextEdit, QLineEdit, QMessageBox,
     QProgressBar, QHBoxLayout, QDialog, QDialogButtonBox, QInputDialog,
-    QStyle,
+    QStyle,QTextBrowser,
     QCheckBox
 )
 from PyQt6.QtGui import (
@@ -49,7 +49,9 @@ HEAD_ICON_PATH = resource_path("assets/head_icon.png")
 YT_ICON = resource_path("assets/youtube.png")
 GH_ICON = resource_path("assets/github.png")
 WEB_ICON = resource_path("assets/web.png")
-VERSIONE = "v1.3"
+VERSIONE = "v1.4"
+ALT_SITE_NAME = "Games Translator"
+ALT_SITE_URL = "https://www.gamestranslator.it/index.php?/file/826-digimon-cyber-sleuth-complete-edition/"
 CREDITI = "Patch By SavT e Lowrentio"
 EXE_SUBFOLDER = "Digimon Story Cyber Sleuth Complete Edition/app_digister"
 
@@ -627,6 +629,89 @@ class PackageCheckScreen(QWidget):
             self.status_label.setText(f"<font color='#ff8080'>❌ File '{PACKAGE_FILE}' non trovato.</font><br><font color='#bbccd0' size='-1'>Controlla cartella installer.</font>")
             self.next_btn.setEnabled(False); self.retry_btn.setVisible(False); self.key_input_widget.setVisible(False)
 
+
+class NoticeScreen(QWidget):
+    def __init__(self):
+        super().__init__()
+        layout = QVBoxLayout(self)
+        layout.setContentsMargins(30, 20, 30, 20)
+        layout.setSpacing(15)
+
+        # Titolo della schermata
+        title = QLabel("Nota bene!")
+        title.setObjectName("TitleLabel")
+        title.setAlignment(Qt.AlignmentFlag.AlignCenter)
+
+
+        notice_area = QTextBrowser()
+        notice_area.setReadOnly(True)
+        notice_area.setOpenExternalLinks(True)
+
+        html_content = f"""
+        <style>
+            p {{ margin-bottom: 12px; }}
+            b {{ color: #2a75bb; }}
+        </style>
+        <p>
+            <b>1. La patch è GRATUITA e Open Source.</b><br>
+            Se hai pagato per ottenere questo software, sei stato truffato. Chiedi
+            <b>immediatamente i soldi indietro</b>. Il progetto è e sarà sempre gratuito.
+        </p>
+        <p>
+            <b>2. Scarica solo da fonti ufficiali.</b><br>
+            Ottieni la patch esclusivamente dalle nostre fonti ufficiali:
+            <ul>
+                <li>Repository GitHub: <a href="{GH_URL}"><b>Clicca qui</b></a></li>
+                <li>Canale YouTube: <a href="{YT_URL}"><b>Clicca qui</b></a></li>
+                <li>Sito Web Ufficiale: <a href="{WEB_URL}"><b>Clicca qui</b></a></li>
+                <li>{ALT_SITE_NAME}: <a href="{ALT_SITE_URL}"><b>Clicca qui</b></a></li>
+            </ul>
+            Non ci assumiamo alcuna responsabilità per problemi, virus o malfunzionamenti derivanti da
+            versioni scaricate da siti non ufficiali.
+        </p>
+        <p>
+            <b>3. Segnala problemi o errori di traduzione.</b><br>
+            Se riscontri un bug o un errore, il tuo aiuto è prezioso. Puoi
+            <a href="{GH_URL}/issues/new?template=errore-nella-traduzione.yml"><b>cliccare qui per aprire una segnalazione su GitHub</b></a>.
+        </p>
+        <p>
+            <b>4. Supporta il progetto (Opzionale).</b><br>
+            Mantenere e migliorare questo progetto richiede tempo e dedizione. Se il nostro
+            lavoro ti è piaciuto, puoi supportarci con una piccola
+            <a href="{DONAZIONI}"><b>donazione cliccando qui</b></a>. Grazie di cuore!
+        </p>
+        """
+
+        notice_area.setHtml(html_content)
+
+        # Pulsanti di navigazione
+        btn_layout = QHBoxLayout()
+        self.back_btn = QPushButton("Indietro")
+        self.cancel_btn = QPushButton("Esci")
+        self.cancel_btn.setObjectName("CancelButton")
+        self.next_btn = QPushButton("Avanti")
+        self.next_btn.setObjectName("NextButton")
+        self.next_btn.setDefault(True)
+
+        try:
+            self.back_btn.setIcon(self.style().standardIcon(QStyle.StandardPixmap.SP_ArrowLeft))
+            self.cancel_btn.setIcon(self.style().standardIcon(QStyle.StandardPixmap.SP_DialogCancelButton))
+            self.next_btn.setIcon(self.style().standardIcon(QStyle.StandardPixmap.SP_ArrowRight))
+        except Exception:
+            pass
+
+        btn_layout.addWidget(self.cancel_btn)
+        btn_layout.addStretch()
+        btn_layout.addWidget(self.back_btn)
+        btn_layout.addWidget(self.next_btn)
+
+        # Assemblaggio del layout
+        layout.addWidget(title)
+        layout.addWidget(notice_area, 1)
+        layout.addStretch()
+        layout.addLayout(btn_layout)
+
+
 class LicenseScreen(QWidget):
     """Schermata per visualizzare e accettare la licenza d'uso."""
     def __init__(self):
@@ -860,12 +945,14 @@ class InstallerWizard(QWidget):
 
         # Creazione istanze schermate
         self.welcome = WelcomeScreen()
+        self.notice = NoticeScreen()
         self.check_pkg = PackageCheckScreen(self)
         self.license = LicenseScreen()
         self.install = InstallScreen()
 
         # Aggiunta schermate
         self.stack.addWidget(self.welcome)
+        self.stack.addWidget(self.notice)
         self.stack.addWidget(self.check_pkg)
         self.stack.addWidget(self.license)
         self.stack.addWidget(self.install)
@@ -880,14 +967,17 @@ class InstallerWizard(QWidget):
         self.hidden_key_button.clicked.connect(self.show_custom_key_dialog)
         self.hidden_key_button.raise_()
 
-        # Connessioni navigazione
-        self.welcome.next_btn.clicked.connect(self.go_to_check)
+        # Connessioni navigazioneì
+        self.welcome.next_btn.clicked.connect(lambda: self.stack.setCurrentWidget(self.notice))
+        self.notice.next_btn.clicked.connect(self.go_to_check)
+        self.notice.back_btn.clicked.connect(lambda: self.stack.setCurrentWidget(self.welcome))
         self.check_pkg.next_btn.clicked.connect(lambda: self.stack.setCurrentWidget(self.license))
         self.license.next_btn.clicked.connect(lambda: self.stack.setCurrentWidget(self.install))
         self.install.install_btn.clicked.connect(self.confirm_installation)
 
         # Connessioni Esci/Annulla
         self.welcome.cancel_btn.clicked.connect(self.close)
+        self.notice.cancel_btn.clicked.connect(self.close)
         self.check_pkg.cancel_btn.clicked.connect(self.close)
         self.license.cancel_btn.clicked.connect(self.close)
         self.install.cancel_btn.clicked.connect(self.handle_cancel_install)
