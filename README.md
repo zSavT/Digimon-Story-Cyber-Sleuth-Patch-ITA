@@ -3,11 +3,9 @@
 ![Immagine](./img/LogoDigimon.png)
 ![GitHub contributors](https://img.shields.io/github/contributors/zSavT/Digimon-Story-Cyber-Sleuth-Patch-ITA)
 ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/zSavT/Digimon-Story-Cyber-Sleuth-Patch-ITA/total)
-![GitHub last commit](https://img.shields.io/github/last-commit/zSavT/Digimon-Story-Cyber-Sleuth-Patch-ITA?label=Ultima%20modifica)
+![GitHub last commit](https://img.shields.io/github/last-commit/zSavT/Digimon-Story-Cyber-Sleuth-Patch-ITA?label=Ultimo%20aggiornamento%20main)
 ![GitHub Issues or Pull Requests](https://img.shields.io/github/issues/zSavT/Digimon-Story-Cyber-Sleuth-Patch-ITA?label=Attivit%C3%A0%20da%20svolgere)
 ![GitHub Issues or Pull Requests](https://img.shields.io/github/issues-closed/zSavT/Digimon-Story-Cyber-Sleuth-Patch-ITA?label=Problemi%20risolti)
-
-
 
 
 La realizzazione della patch è stata resa possibile in larga misura grazie al contributo dell'utente "**Lowrentio**". Egli si è dedicato alla comprensione del funzionamento del tool per la modifica dei file di gioco e all'adattamento delle immagini.
