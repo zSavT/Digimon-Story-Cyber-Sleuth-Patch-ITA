@@ -11,17 +11,28 @@
 La realizzazione della patch è stata resa possibile in larga misura grazie al contributo dell'utente "**Lowrentio**". Egli si è dedicato alla comprensione del funzionamento del tool per la modifica dei file di gioco e all'adattamento delle immagini.
 
 - [Digimon Story Cyber Sleuth Patch ITA ](#digimon-story-cyber-sleuth-patch-ita-)
+- [Immagini progetto](#immagini-progetto)
+- [Video dimostrativo](#video-dimostrativo)
 - [Come installare la patch](#come-installare-la-patch)
+- [Come segnalare un errore nella traduzione](#come-segnalare-un-errore-nella-traduzione)
 - [Funzionamento installer (Per chi vuole auto generarsi l'installer)](#funzionamento-installer-per-chi-vuole-auto-generarsi-linstaller)
   - [Requisiti software](#requisiti-software)
   - [Creazione dell'eseguibile](#creazione-delleseguibile)
     - [Windows](#windows)
     - [Linux (Steam Deck)](#linux-steam-deck)
-- [Immagini progetto](#immagini-progetto)
-- [Come segnalare un errore nella traduzione](#come-segnalare-un-errore-nella-traduzione)
-- [Video dimostrativo](#video-dimostrativo)
 - [Crediti e collaboratori](#crediti-e-collaboratori)
 
+# Immagini progetto
+
+![Immagine](./img/1.png)
+![Immagine](./img/4.jpg)
+![Immagine](./img/2.png)
+![Immagine](./img/3.png)
+![Immagine](./img/5.png)
+
+# Video dimostrativo
+
+[![Digimon Story Cyber Sleuth Patch ITA v1 [By Lowrentio e SavT]](https://img.youtube.com/vi/OEWC2SCIWIE/maxresdefault.jpg)](https://www.youtube.com/watch?v=OEWC2SCIWIE)
 
 
 # Come installare la patch
@@ -37,6 +48,13 @@ L'installazione è guidata e semplice, ma in ogni caso basterà sempre cliccare 
 Successivamente bisogna accettare i termini d'uso e poi nella schermata successiva, selezionare la cartella dove è installato il gioco (Di default è impostato il percorso classico) e cliccare su "_Installa Patch_".
 
 ![](img/Installer3.png)
+
+# Come segnalare un errore nella traduzione
+
+Per segnalare errori nella traduzione, bisogna farlo, anche qui, tramite la mia repository su GitHub, tramite la sezione "*issue*" della repo e selezionare il template "**Errori di traduzione**". Successivamente bisogna riportare tutte le informazioni richieste per poter correggere l'errore.
+Se il tuo problema è un crash del gioco, puoi creare invece l'issue dedicata al crash del gioco, seguendo sempre le linee guida riportate.
+![Immagine](./img/Issue1.png)
+![Immagine](./img/Issue2.png)
 
 # Funzionamento installer (Per chi vuole auto generarsi l'installer)
 
@@ -106,25 +124,6 @@ deactivate
 Il logo dell'eseguibile su linux non è supportato.
 
 Nella cartella "_dist_", è presente l'eseguibile (la versione per Linux non ha tipo/estensione).
-
-# Immagini progetto
-
-![Immagine](./img/1.png)
-![Immagine](./img/4.jpg)
-![Immagine](./img/2.png)
-![Immagine](./img/3.png)
-![Immagine](./img/5.png)
-
-# Come segnalare un errore nella traduzione
-
-Per segnalare errori nella traduzione, bisogna farlo, anche qui, tramite la mia repository su GitHub, tramite la sezione "*issue*" della repo e selezionare il template "**Errori di traduzione**". Successivamente bisogna riportare tutte le informazioni richieste per poter correggere l'errore.
-Se il tuo problema è un crash del gioco, puoi creare invece l'issue dedicata al crash del gioco, seguendo sempre le linee guida riportate.
-![Immagine](./img/Issue1.png)
-![Immagine](./img/Issue2.png)
-
-# Video dimostrativo
-
-[![Digimon Story Cyber Sleuth Patch ITA v1 [By Lowrentio e SavT]](https://img.youtube.com/vi/OEWC2SCIWIE/maxresdefault.jpg)](https://www.youtube.com/watch?v=OEWC2SCIWIE)
 
 # Crediti e collaboratori
 
