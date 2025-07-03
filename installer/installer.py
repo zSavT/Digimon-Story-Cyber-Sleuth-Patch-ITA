@@ -3,7 +3,7 @@
 # -----------------------------------------------------------------------------
 # Installer Patch ITA Digimon Story Cyber Sleuth Complete Edition
 # Autore: SavT
-# Versione: v2.1
+# Versione: v2.2
 # -----------------------------------------------------------------------------
 
 import sys
@@ -14,6 +14,8 @@ import traceback
 import shutil
 import datetime
 import pyzipper
+import urllib.request
+import json
 
 from PyQt6.QtWidgets import (
     QApplication, QWidget, QLabel, QPushButton, QVBoxLayout, QFrame,
@@ -200,6 +202,70 @@ def leggi_chiave(nome_file):
         print(f"Si è verificato un errore durante la lettura del file '{nome_file}': {e}")
         return None
 
+
+
+# --- Classe Worker Controllo Versione ---
+class VersionCheckWorker(QThread):
+    """
+    Controlla la presenza di nuove versioni su GitHub in un thread separato
+    per non bloccare la UI.
+    """
+    update_found = pyqtSignal(str, str)  # Segnale emesso con: tag_nuova_versione, url_download
+
+    def __init__(self, current_version, repo_url):
+        super().__init__()
+        self.current_version = current_version
+        self.repo_url = repo_url
+        self.api_url = ""
+
+    def _compare_versions(self, v1_str, v2_str):
+        """Confronta due stringhe di versione come 'v1.4' e 'v1.10'."""
+        try:
+            # Rimuove il prefisso 'v' e divide per '.'
+            v1_parts = v1_str.lstrip('vV').split('.')
+            v2_parts = v2_str.lstrip('vV').split('.')
+            # Converte le parti in interi per un confronto numerico
+            v1_tuple = tuple(map(int, v1_parts))
+            v2_tuple = tuple(map(int, v2_parts))
+            
+            return v1_tuple > v2_tuple
+        except (ValueError, AttributeError):
+            return v1_str > v2_str
+
+    def run(self):
+        """Esegue la richiesta alla API di GitHub."""
+        try:
+            # Costruisce l'URL della API dall'URL standard di GitHub
+            parts = self.repo_url.strip("/").split("/")
+            owner, repo = parts[-2], parts[-1]
+            self.api_url = f"https://api.github.com/repos/{owner}/{repo}/releases/latest"
+            print(f"Controllo aggiornamenti a: {self.api_url}")
+
+            # Esegue la richiesta alla API di GitHub con un user-agent
+            req = urllib.request.Request(self.api_url, headers={'User-Agent': 'SavT-Installer-Updater'})
+            with urllib.request.urlopen(req, timeout=10) as response:
+                if response.status == 200:
+                    data = json.loads(response.read().decode())
+                    latest_version_tag = data.get('tag_name')
+                    download_url = data.get('html_url')
+
+                    if not latest_version_tag or not download_url:
+                        print("Controllo aggiornamenti: 'tag_name' o 'html_url' non trovati nella risposta.")
+                        return
+
+                    print(f"Ultima versione su GitHub: {latest_version_tag}, Versione corrente: {self.current_version}")
+
+                    # Confronta le versioni e se quella remota è più nuova, emette il segnale
+                    if self._compare_versions(latest_version_tag, self.current_version):
+                        print(f"Nuova versione disponibile: {latest_version_tag}")
+                        self.update_found.emit(latest_version_tag, download_url)
+                    else:
+                        print("La versione corrente è la più recente.")
+                else:
+                    print(f"Controllo aggiornamenti fallito con codice di stato: {response.status}")
+        except Exception as e:
+            # Fallisce silenziosamente in caso di errore (es. no internet, API limit, ecc.)
+            print(f"Impossibile controllare gli aggiornamenti: {e}")
 
 
 # --- Classe Worker Installazione ---
@@ -924,6 +990,13 @@ class InstallerWizard(QWidget):
         self.install_worker = None
         self.current_aes_key = leggi_chiave(resource_path(CHIAVE))
         self.setObjectName("InstallerWizard")
+        
+        # --- CONTROLLO VERSIONE ---
+        # Avvia il worker per il controllo della versione in background
+        self.version_checker = VersionCheckWorker(VERSIONE, GH_URL)
+        self.version_checker.update_found.connect(self.show_update_dialog)
+        self.version_checker.start()
+        # --- FINE CONTROLLO VERSIONE ---
 
         # Impostazioni finestra principale
         try: self.setWindowIcon(QIcon(LOGO_ICO))
@@ -983,6 +1056,24 @@ class InstallerWizard(QWidget):
         self.install.cancel_btn.clicked.connect(self.handle_cancel_install)
 
         self.position_hidden_button()
+
+    def show_update_dialog(self, new_version, url):
+        """Mostra un popup che informa l'utente di una nuova versione."""
+        msg_box = QMessageBox(self)
+        msg_box.setWindowTitle("Aggiornamento Disponibile")
+        msg_box.setText(f"È disponibile una nuova versione della patch: <b>{new_version}</b>")
+        msg_box.setInformativeText("Vuoi aprire la pagina di download per scaricarla?")
+        msg_box.setIcon(QMessageBox.Icon.Information)
+        yes_button = msg_box.addButton("Sì, apri il sito", QMessageBox.ButtonRole.YesRole)
+        no_button = msg_box.addButton("No, continua", QMessageBox.ButtonRole.NoRole)
+        msg_box.setDefaultButton(yes_button)
+
+        msg_box.exec()
+
+        if msg_box.clickedButton() == yes_button:
+            print(f"Apertura URL aggiornamento: {url}")
+            webbrowser.open(url)
+            self.close()
 
     def position_hidden_button(self):
         """Posiziona il bottone nascosto nell'angolo in alto a destra."""
