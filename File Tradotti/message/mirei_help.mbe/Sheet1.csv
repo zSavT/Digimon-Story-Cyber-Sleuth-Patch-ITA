@@ -1,24 +1,27 @@
 ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
-1000,3013,,"Oh, hai girovagato e ti sei perso? È quello che sembra, comunque...","唉呀，難不成你是迷失了方向嗎？
+1000,3013,,"Oh, hai girovagato e ti sei perso?
+È quello che sembra, comunque...","唉呀，難不成你是迷失了方向嗎？
 說的也是呢……",,"어머 너, 혹시 길을 잃은 거니?
 그러네…","Huch, bist du umhergelaufen und hast dich verirrt?
 So wirkt es jedenfalls ..."
-1001,3013,,"Hihi... Se ti perdi di nuovo,
-torna pure.",呵呵呵，如果你不知道接下來該怎麼辦的話，就再來找我吧。,,"우후후, 만약 길을 잃으면 언제든 찾아 오렴","Hihi ... Wenn du dich wieder verirrst,
+1001,3013,,"Hihi... Se ti perdi di nuovo, torna pure.",呵呵呵，如果你不知道接下來該怎麼辦的話，就再來找我吧。,,"우후후, 만약 길을 잃으면 언제든 찾아 오렴","Hihi ... Wenn du dich wieder verirrst,
 komm ruhig zurück."
-1010,3013,,"Di nuovo, il tempo ci sta scappando. Forse dovresti occuparti del tuo vero lavoro, ""Cyber-Detective""?","時候還沒到呢。
+1010,3013,,"Di nuovo, il tempo ci sta scappando.
+Forse dovresti occuparti del tuo vero lavoro, ""Cyber-Detective""?","時候還沒到呢。
 你只要繼續從事本行……繼續當你的偵探就行了吧？",,"아직, 때는 되지 않았어
 본직… 탐정 업무를 하면 괜찮지 않을까?","Wieder einmal läuft uns die Zeit davon. Vielleicht
 solltest du dich um deinen richtigen
 Job kümmern, „Cyber-Detektiv“?"
-1020,3013,,"Perché non dici a Kyoko quello che hai scoperto? A me piace chiacchierare, ma è il tuo lavoro riferirle.","試著把獲得的情報告訴在事務所的杏子如何？
+1020,3013,,"Perché non dici a Kyoko quello che hai scoperto?
+A me piace chiacchierare, ma è il tuo lavoro riferirle.","試著把獲得的情報告訴在事務所的杏子如何？
 我不是不了解你想見我一面的心情，
 但你應該報告的對象可不是我哦。",,"입수한 정보를, 사무소의 쿄코에게 전해 주는 건 어때?
 나를 보고 싶은 마음을 모르진 않지만,
 네가 보고해야 할 상대는, 내가 아닐 거야","Warum berichtest du Kyoko nicht davon, was du
 erfahren hast? Ich plaudere ja gern, aber es ist
 dein Job, ihr Bericht zu erstatten."
-1500,3013,,Ti spiegherò per bene i terminal che ci sono qui. Spero che te li ricorderai tutti.,"我來一一為你介紹這裡的設施。
+1500,3013,,Ti spiegherò per bene i terminal che ci sono qui.
+Spero che te li ricorderai tutti.,"我來一一為你介紹這裡的設施。
 你可要牢牢記住使用方法。",,"이곳에 있는 시설에 대해, 하나하나 소개할게
 사용법을 제대로 기억해 둬","Ich werde dir die Terminals hier gut erklären.
 Ich hoffe, du wirst dich an alle erinnern."
@@ -40,7 +43,8 @@ Nur dieses eine Mal lasse ich dich den
 Spezialausgang benutzen."
 1521,3013,,"Vai al punto d'accesso la prossima volta, per favore.",接著就從“登入地點＂開始找起吧。,,"다음부터는 ""접속 포인트""를 통해서 방문해 줘",Geh nächstes Mal bitte zum Zugangspunkt.
 2000,3013,,"Hai parlato con la donna davanti al negozio di CD?
-E non dimenticare la richiesta di Kyoko per altri chicchi di caffè. Il negozio è a Nakano-Broadway.","你有跟唱片行前面的女孩子說話嗎？
+E non dimenticare la richiesta di Kyoko per altri chicchi di caffè.
+Il negozio è a Nakano-Broadway.","你有跟唱片行前面的女孩子說話嗎？
 還有，你也要記得完成杏子所委託的「咖啡豆採購」任務哦。
 中野館內有買得到咖啡豆的店。",,"CD 숍의 앞에 있는 여자애와는 이미 대화를 나눈 걸까?
 그리고, 쿄코의 의뢰「커피콩의 조달」도 잊으면 안 돼
@@ -52,14 +56,16 @@ hinwolltest?"
 2006,3013,,Ascolta. Devi guardarti intorno bene a Nakano Broadway.,聽好囉？　總之你先徹底走遍整個中野館內吧。,,"잘 들어. 일단, 나카노 관내를 구석구석까지 걸어 보렴","Hör zu. Du musst dich in
 Nakano-Broadway genau umschauen."
 2007,3013,,Allora... buona fortuna!,還有……　今後請多多指教。,,그리고… 앞으로도 잘 부탁해,Also dann ... viel Glück!
-2010,3013,,"Non conosci la strada per Shinjuku? Quando esci da Broadway, scegli una destinazione. Ci si abitua alla ressa qui.","難不成你不知道怎樣去新宿嗎？
+2010,3013,,"Non conosci la strada per Shinjuku? Quando esci da Broadway,
+scegli una destinazione. Ci si abitua alla ressa qui.","難不成你不知道怎樣去新宿嗎？
 只要離開中野館內，就能選擇想去的地方囉。
 這裡有些複雜，所以你或許會走到迷路，不過你就試著早點習慣吧。",,"너 혹시, 신주쿠로 가는 법을 모르는 거니?
 나카노 관내에서 나가면, 가고 싶은 장소를 선택할 수 있어
 이곳은 조금 복잡하니까 헤맬지도 모르지만, 빨리 익숙해지렴","Kennst du den Weg nach Shinjuku nicht? Wenn du
 Broadway verlässt, wähl einen Zielort aus.
 Man gewöhnt sich an das Gedränge hier."
-2011,3013,,Quindi a Shinjuku non girano voci su di te? Hai chiesto in giro? È importante parlare con un sacco di gente.,"「新宿」是不是正流傳著你的事啊？
+2011,3013,,Quindi a Shinjuku non girano voci su di te? Hai chiesto in giro?
+È importante parlare con un sacco di gente.,"「新宿」是不是正流傳著你的事啊？
 你是不是沒有「打聽」過啊？
 你就去找各種人問問吧。",,"「신주쿠」에서 너에 대한 소문이 나지 않았는지
 「탐문 조사」를 하기로 하지 않았니?
@@ -75,7 +81,8 @@ EDEN의 엔트런스에서 여러 사람에게 말을 걸어 보는 건 어때?
 네가 알고 싶어하는 정보를 주는 사람이, 분명 있을 거야","Befragungen sind das A und O der Detektivarbeit.
 Warum befragst du nicht Leute am EDEN-Eingang?
 Irgendwer weiß sicher, was du wissen möchtest."
-2030,3013,,"Zaxon? La gente che ne sa qualcosa la trovi a Kowloon. Se la gente parla di argomenti interessanti, puoi imparare un sacco di cose.","「Zaxon」嗎……
+2030,3013,,"Zaxon? La gente che ne sa qualcosa la trovi a Kowloon.
+Se la gente parla di argomenti interessanti, puoi imparare un sacco di cose.","「Zaxon」嗎……
 Kowloon那一帶或許會有很熟悉這方面的人呢。
 你就拋出對方會感興趣的話題，藉以套出情報吧。",,"「잭슨」이구나…
 쿠롱 주변에라면 자세히 아는 사람이 있을지도 몰라
@@ -91,19 +98,25 @@ Buon viaggio!","你應該已經知道「Zaxon廣場」在哪裡了吧？
 조심히 다녀 오렴","Ich nehme an, du weißt, wo das Zaxon-Forum ist?
 Du kommst per Terminal oder EDEN-Station
 dorthin. Gute Reise!"
-2050,3013,,Quindi hai trovato una maschera Zaxon. Con quella puoi continuare a esplorare Kowloon. E questo... Guarda tu stesso.,"你已經拿到「Zaxon的面具」了吧。
+2050,3013,,Quindi hai trovato una maschera Zaxon.
+Con quella puoi continuare a esplorare Kowloon.
+E questo... Guarda tu stesso.,"你已經拿到「Zaxon的面具」了吧。
 只要有那個東西，你應該就能進入Kowloon的深處囉。
 而正在那裡等著你的……　呵呵，你就用自己的眼睛去確認吧。",,"「잭슨의 가면」을 손에 넣었구나
 그게 있으면, 쿠롱의 안쪽으로 나아갈 수 있을 거야
 그곳에서 널 기다리고 있는 건… 후후, 자신의 눈으로 확인해 보렴","Du hast also eine Zaxon-Maske gefunden. Damit
 kannst du Kowloon weiter erkunden.
 Und das ... Sieh einfach selbst."
-2051,3013,,Al secondo livello di Kowloon ci arrivi con l'ascensore che sta al primo. Lassù ci sono Digimon più potenti. Quindi stai attento.,"要去Kowloon Lv. 2可以搭Lv. 1的電梯過去。
+2051,3013,,Al secondo livello di Kowloon ci arrivi con l'ascensore che sta al primo.
+Lassù ci sono Digimon più potenti.
+Quindi stai attento.,"要去Kowloon Lv. 2可以搭Lv. 1的電梯過去。
 出現在那裡的數碼寶貝應該會比較強，所以你要小心哦。",,"쿠롱 Lv.2로는 Lv.1에 있는 엘리베이터로 갈 수 있어
 나타나는 디지몬도 강해졌을 테니까 주의해","Zur zweiten Ebene in Kowloon kommst du mit dem Lift auf
 der ersten Ebene. Dort oben gibt es mächtigere Digimon.
 Sei also vorsichtig."
-2060,3013,,"Che tu cerchi una persona, un enigma o un tesoro, si trovano sempre nel luogo più remoto e pericoloso. Attenzione.","無論是找人、解謎還是尋寶……
+2060,3013,,"Che tu cerchi una persona, un enigma o un tesoro,
+si trovano sempre nel luogo più remoto e pericoloso.
+Attenzione.","無論是找人、解謎還是尋寶……
 目標物大多會出現在最深處哦。
 當然，困難度應該也會隨之增加，所以你要小心啊……",,"찾는 사람도, 수수께끼도, 보물도… 원하는 것은
 대체로 최심부에 있는 법이야
@@ -123,7 +136,9 @@ che ha cercato.","幸好她平安無事啊。
 다음은 그 아이가 찾고 있는 디지몬을 찾아 줘야겠지","Zum Glück ging es ihr gut.
 Als Nächstes musst du die Digimon finden,
 die sie gesucht hat."
-3011,3013,,"Se i Digimon non sono al primo piano di Kowloon, forse dovresti andare al secondo o più in là. Ora hai le abilità necessarie.","如果你正在找的數碼寶貝不在Kowloon Lv. 1的話，
+3011,3013,,"Se i Digimon non sono al primo piano di Kowloon,
+forse dovresti andare al secondo o più in là.
+Ora hai le abilità necessarie.","如果你正在找的數碼寶貝不在Kowloon Lv. 1的話，
 就試著去更深的地方找找看吧。
 比Lv. 2還要深的地方……　現在的你一定能到達的。",,"찾고 있는 디지몬이 쿠롱 Lv.1에 없으면
 좀 더 안쪽을 찾아 보렴
@@ -139,12 +154,14 @@ gruppo di Digimon puoi imparare più abilità.","你該不會忘得一乾二淨�
 파티를 갖춤으로써 새로운 스킬을 얻을 수 있어","Sag nicht, dass du es vergessen hast. Hacking ist
 die Stärke eines Digimon ... Durch deine
 Digimongruppe kannst du mehr Fertigkeiten lernen."
-3021,3013,,"Se l'hacking ti viene difficile, dovresti avere Digimon diversi nel tuo gruppo, così puoi sfruttare i loro punti di forza.","如果受到駭客阻礙的話，
+3021,3013,,"Se l'hacking ti viene difficile, dovresti avere Digimon diversi nel tuo gruppo,
+così puoi sfruttare i loro punti di forza.","如果受到駭客阻礙的話，
 就找齊各種數碼寶貝，借用它們的力量吧。",,"해킹 행위 관련으로 방해를 받고 있다면
 여러 디지몬을 모아서, 그들의 힘을 빌려 봐","Wenn dir Hacking schwer fällt, solltest du
 verschiedene Digimon in deiner Gruppe haben,
 damit du ihre Stärken nutzen kannst."
-3012,3013,,"Che tu stia cercando una persona, un enigma o un tesoro, sono sempre nel posto più remoto. Se non al livello 1 o 2, allora...","無論是找人、解謎還是尋寶……
+3012,3013,,"Che tu stia cercando una persona, un enigma o un tesoro,
+sono sempre nel posto più remoto. Se non al livello 1 o 2, allora...","無論是找人、解謎還是尋寶……
 目標物大多會出現在最深處哦。
 如果不在Lv. 1，就到Lv. 2去找……　如果不在Lv. 2……",,"찾는 사람도, 수수께끼도, 보물도… 원하는 것은
 대체로 최심부에 있는 법이야
@@ -167,24 +184,28 @@ Non arrenderti finché non riesci a risolvere il problema.","我想你應該有�
 안쪽에 숨어 있는 상대를 쓰러뜨리지 않는 한, 빠져나갈 수 없어","Du machst dir viele Sorgen, aber kümmere
 dich um eine nach der anderen. Gib nicht auf,
 bis du das Problem lösen kannst."
-5000,3013,,"Sembra che ti stia abituando sempre di più alla vita in questo mondo. Però, come assistente detective di Kyoko, hai ancora parecchio da imparare.","看來你順利適應這個世界了，
+5000,3013,,"Sembra che ti stia abituando sempre di più alla vita in questo mondo.
+Però, come assistente detective di Kyoko, hai ancora parecchio da imparare.","看來你順利適應這個世界了，
 不過以杏子的助手來說，你似乎還不算及格呢……",,"순조롭게 이 세계에 적응하고 있는 모양이지만
 쿄코의 조수로서는, 아직 합격점에 이르지 못한 것 같네…","Du scheinst dich mehr und mehr an das Leben in
 dieser Welt gewöhnt zu haben. Allerdings hast du
 als Kyokos Hilfsdetektiv noch einiges zu lernen."
-5001,3013,,"Dovresti comprare i chicchi di caffè per farle contente. Certo, devono essere i chicchi del K-Café.","你最好趁她還沒有不高興之前，
+5001,3013,,"Dovresti comprare i chicchi di caffè per farle contente.
+Certo, devono essere i chicchi del K-Café.","你最好趁她還沒有不高興之前，
 先把咖啡豆買回去比較好吧？
 要買的話，當然是買K-Cafe的美味咖啡豆囉。",,"그녀의 비위를 거스르기 전에
 슬슬 커피콩을 사 가는 편이 좋지 않을까?
 물론, K-카페의 맛있는 커피콩을 말이야","Du solltest die Kaffeebohnen kaufen, um sie
 milde zu stimmen. Natürlich müssen es die
 Bohnen aus dem K-Café sein."
-5010,3013,,"Ora devi indagare su Makoto Yamashina, giusto? Perché non lo vai a trovare a casa?","你現在應該是要去調查名叫山科誠的人物吧？
+5010,3013,,"Ora devi indagare su Makoto Yamashina, giusto?
+Perché non lo vai a trovare a casa?","你現在應該是要去調查名叫山科誠的人物吧？
 只要實際到他家去走一趟，或許就可以知道些什麼哦。",,"네가 지금 해야 할 일은, 야마시나 마코토라는 인물의 조사잖아?
 그의 집에 가 보면, 뭔가 알 수 있을지도 몰라","Du musst jetzt Ermittlungen zu Makoto Yamashina
 anstellen, richtig? Warum besuchst du ihn
 nicht zu Hause?"
-5020,3013,,Vuoi parlare con la figlia di Makoto Yamashina a Shibuya? Cercala nell'edificio giallo dall'altra parte della strada a Shibuya.,"為了向山科誠的女兒打聽他的消息，你現在要去涉谷對吧？
+5020,3013,,Vuoi parlare con la figlia di Makoto Yamashina a Shibuya?
+Cercala nell'edificio giallo dall'altra parte della strada a Shibuya.,"為了向山科誠的女兒打聽他的消息，你現在要去涉谷對吧？
 在涉谷路上的對面有間黃色的建築物……
 你在找的人一定就在那裡面哦。",,"야마시나 마코토의 딸을 탐문 조사하기 위해서, 시부야로 갈 거잖아?
 시부야의 길 건너편에 있는 노란색 건물…
@@ -200,7 +221,9 @@ EDEN의 엔트런스에
 자세히 알고 있는 사람이 있을 거야","Du willst mehr über die Nile Corporation erfahren?
 Die Leute in der Nähe des EDEN-Eingangs haben
 nützliche Informationen für dich."
-5040,3013,,Sei stato comprato dalla Kamishiro? Allora Yuuko Kamishiro ti starà sicuramente già aspettando. Il QG della Kamishiro è in EDEN. Sbrigati!,"你現在要準備潛入神代的總公司對吧？
+5040,3013,,Sei stato comprato dalla Kamishiro?
+Allora Yuuko Kamishiro ti starà sicuramente già aspettando.
+Il QG della Kamishiro è in EDEN. Sbrigati!,"你現在要準備潛入神代的總公司對吧？
 神代悠子一定正在等著你……
 神代的總公司在EDEN裡，你快去吧。",,"카미시로의 본사에 잠입할 거잖아?
 카미시로 유코는 분명, 이미 널 기다리고 있을 거야…
@@ -216,7 +239,8 @@ al server Kamishiro e fai il tuo dovere.","你有確實進入「Stealth Hide」�
 빨리 카미시로의 서버로 가서, 목적을 이루고 오렴","Du hast dich jetzt also an die Tarnkappe gewöhnt?
 Wenn du das Programm gemeistert hast, geh schnell
 zum Kamishiro-Server und tu deine Pflicht."
-6000,3013,,"Vuoi indagare ad Akihabara per la persona scomparsa? Se ascolti bene tutti, dovresti raccogliere qualche buon indizio.","你是基於刑警的委託而要去秋葉原尋找失蹤者對吧？
+6000,3013,,"Vuoi indagare ad Akihabara per la persona scomparsa?
+Se ascolti bene tutti, dovresti raccogliere qualche buon indizio.","你是基於刑警的委託而要去秋葉原尋找失蹤者對吧？
 放心吧，只要你好好找人打聽，
 肯定能得到有益的情報哦。",,"형사님의 의뢰로, 아키하바라로 실종자를 찾으러 갈 거잖아?
 괜찮아, 철저히 탐문 조사를 하면
@@ -231,7 +255,8 @@ Hai interrogato la gente del posto? Non è l'ABC del lavoro da detective?","「�
 그게 바로, 탐정의 가장 기초적인 일이잖아?","Der Mitarbeiter des Blumenladens ... Hm.
 Hast du Leute vor Ort befragt? Ist das nicht
 das A und O der Arbeit als Detektiv?"
-6020,3013,,"Le hai dato ascolto, vero? Dai il messaggio al ragazzo di Akihabara. E non dimenticare: devi indagare sui dispersi.","你有打聽到她的心意對吧？
+6020,3013,,"Le hai dato ascolto, vero? Dai il messaggio al ragazzo di Akihabara.
+E non dimenticare: devi indagare sui dispersi.","你有打聽到她的心意對吧？
 既然如此，你就去傳達給在秋葉原的那個男孩子吧。
 ……當然，你可不能忘記調查「神秘失蹤」這個原本的任務哦。",,"그녀의 마음, 들었잖아?
 그렇다면, 아키하바라의 그 남자애에게 제대로 전해 주는 게 어때?
@@ -256,7 +281,8 @@ che credeva di percepire il colpevole.","你在漫畫狂熱廣場所打聽到的
 그 여자애를 만나러 가 보렴","Hast du alle Hinweise im Comimani-Forum verfolgt?
 Wenn das getan ist, triff dich mit dem Mädchen,
 das glaubte, den Täter zu spüren."
-6050,3013,,"Dovresti incontrarla alla libreria dell'usato, vero? Era già un appuntamento che avevi preso da un po'. Faresti meglio ad andarci.","你跟那個女孩子是約在「二手書店」碰面對吧？
+6050,3013,,"Dovresti incontrarla alla libreria dell'usato, vero?
+Era già un appuntamento che avevi preso da un po'. Faresti meglio ad andarci.","你跟那個女孩子是約在「二手書店」碰面對吧？
 從你們說好要見面後，似乎已經過了一段不短的時間，
 你快點去找她比較好吧。",,"그 아이와 만나기로 약속한 곳은「중고서점」이잖아?
 약속한 뒤로 꽤 시간이 지난 것 같은데,
@@ -272,14 +298,16 @@ Forse dovresti andarci.","你的朋友跑到偵探事務所去囉。
 어쨌든 일단 사무소로 돌아가 보렴","Ach, deine Freundin ist zum Detektivbüro.
 Wolltet ihr nicht was zusammen machen?
 Vielleicht solltest du hingehen."
-6070,3013,,"Non dovevi mica incontrare qualcuno a Kowloon? Mi fa davvero piacere vederti, ma non far aspettare i tuoi amici.","你跟朋友約好要在Kowloon碰面對吧？
+6070,3013,,"Non dovevi mica incontrare qualcuno a Kowloon?
+Mi fa davvero piacere vederti, ma non far aspettare i tuoi amici.","你跟朋友約好要在Kowloon碰面對吧？
 你來見我是讓我很開心啦，
 但可不要讓你的朋友等太久哦。",,"친구와 쿠롱에서 만나기로 약속했잖아?
 날 만나러 와 준 것은 기쁘지만,
 너무 친구를 기다리게 해서는 안 돼","Wolltest du nicht jemanden in Kowloon
 treffen? Ich sehe dich ja wirklich gerne, aber
 lass deine Freunde nicht warten."
-6080,3013,,"Nella prima area di Kowloon non hai trovato niente? Se non l'hai visto, cerca più a fondo.","目標應該是在Kowloon Lv. 1裡吧？
+6080,3013,,"Nella prima area di Kowloon non hai trovato niente?
+Se non l'hai visto, cerca più a fondo.","目標應該是在Kowloon Lv. 1裡吧？
 如果沒找到的話，你要連深處都仔細調查哦。",,"찾고 있는 것은, 쿠롱 Lv.1에 있지 않았니?
 만약 보이지 않는다면, 제대로 안쪽까지 조사해 보렴","In der ersten Ebene von Kowloon bist du nicht 
 fündig geworden? Wenn du es nicht gesehen 
@@ -318,12 +346,14 @@ Finora sei avanzato solo fino al terzo livello a Kowloon...","你要去Kowloon�
 가 본 적 없겠지만…","Du ermittelst in Kowloon, nicht wahr?
 Du bist bis jetzt nur bis zur dritten Ebene in
 Kowloon vorgedrungen ..."
-7011,3013,,"Sicuramente a quest'ora dovresti riuscire a scendere ancora di molto. Forza, porta la verità alla luce.","不過現在的你一定能前進到更深的地方。
+7011,3013,,"Sicuramente a quest'ora dovresti riuscire a scendere ancora di molto.
+Forza, porta la verità alla luce.","不過現在的你一定能前進到更深的地方。
 你就努力地挖堀事件的真相吧。",,"분명 지금의 너라면, 더욱 더 앞을 갈 수 있을 거야
 열심히 해서 사건의 진상에 다가가 주렴","Sicher solltest du mittlerweile noch viel weiter
 nach unten gehen können. Los, bring die Wahrheit
 ans Licht."
-7020,3013,,Kyoko ti ha dato una dritta? Cerca al quarto livello di Kowloon. Dovresti trovare qualcosa lì. Cerca indizi.,"你有從杏子那裡獲得情報對吧？
+7020,3013,,Kyoko ti ha dato una dritta? Cerca al quarto livello di Kowloon.
+Dovresti trovare qualcosa lì. Cerca indizi.,"你有從杏子那裡獲得情報對吧？
 你正在找的東西應該可以在Kowloon Lv. 4找到哦。
 記得把每個角落都仔細找過啊。",,"쿄코에게서 정보를 받았잖아?
 네가 찾고 있는 것은 쿠롱 Lv.4에서 찾을 수 있을 거야
@@ -339,13 +369,15 @@ E che mi dici dell'amico del bambino?","首先，你必須先收集那個下落�
 그리고, 행방불명이 된 애랑, 친한 남자인 친구가 있었지?","Finde zuerst etwas über das vermisste Kind heraus.
 War deine Freundin nicht Fan dieser dubiosen Band?
 Was ist mit dem Freund des Kindes?"
-7031,3013,,"A quanto pare, ci sono due informatori proprio adesso a Nakano. Setaccia tutto e tieni le orecchie aperte.","可能會有線索的那兩人似乎正好就在中野。
+7031,3013,,"A quanto pare, ci sono due informatori proprio adesso a Nakano.
+Setaccia tutto e tieni le orecchie aperte.","可能會有線索的那兩人似乎正好就在中野。
 你去把他們找出來打聽消息吧。",,"단서를 갖고 있을 것 같은 그 두 사람은
 마침 나카노에 있는 모양이야
 그들을 찾아내서, 말을 걸어 보면 어떨까","Zwei Informanten sind wohl gerade
 in Nakano. Durchforste alles und
 halte die Ohren offen."
-7040,3013,,"Hai ottenuto informazioni sul bambino scomparso, ma non sai dov'è... Perché non torni in ufficio con Kyoko?","雖然獲得了那個下落不明的女孩子的情報，
+7040,3013,,"Hai ottenuto informazioni sul bambino scomparso, ma non sai dov'è...
+Perché non torni in ufficio con Kyoko?","雖然獲得了那個下落不明的女孩子的情報，
 卻仍不知道她身在何處嗎……
 你就先回事務所一趟，去找杏子商量看看吧。",,"행방불명이 된 아이의 정보는 얻었지만
 장소까지는 모르는, 거구나…
@@ -361,8 +393,8 @@ Dai un'occhiata lì per prima cosa.","在MV所隱藏的資訊裡，有包含URL�
 우선 그곳으로 가 보는 게 좋지 않을까","Das Promovideo enthielt eine versteckte URL, oder?
 Da warst du in der Nähe des Medaillenverkäufers.
 Schau dich da zuerst um."
-7060,3013,,"Se sai dov'è il nascondiglio dei Demons, non devi fare altro che andarci.
-Ricorda:
+7060,3013,,"Se sai dov'è il nascondiglio dei Demons,
+non devi fare altro che andarci. Ricorda:
 Puoi andare dappertutto, se hai l'URL.","既然已經知道惡魔巢穴在哪裡了，再來只要前往那裡就行了。
 像之前一樣，只要有URL，無論在何處都能過去吧。",,"데몬즈 아지트의 장소를 알아냈으니, 다음은 그곳으로 가는 것뿐이네
 지금까지 했던 것처럼, URL만 있으면 어디서든 갈 수 있을 거야","Wenn du weißt, wo sich das Versteck der Demons
@@ -377,7 +409,8 @@ ragazzi a Shinjuku...","你還挺受歡迎的嘛。
 남자애에게서는 신주쿠로…","Du bist ganz schön beliebt, was?
 Mädchen, die dich nach Kowloon einladen,
 Jungs nach Shinjuku ..."
-8011,3013,,"Ma non c'è nessun imbarazzo della scelta. Entrambi i percorsi portano alla stessa meta. Sono entrambi inviti di amici, vero? Vai a entrambi.","你不需要只選擇其中一邊，
+8011,3013,,"Ma non c'è nessun imbarazzo della scelta. Entrambi i percorsi portano alla stessa meta.
+Sono entrambi inviti di amici, vero? Vai a entrambi.","你不需要只選擇其中一邊，
 無論你先去哪一邊，受到命運牽引的未來也會歸至同一個地方……
 那是朋友的邀請對吧？　你就兩邊都去吧。",,"둘 중 하나를 선택할 필요는 없고,
 어디부터 가도, 자아내는 미래는 같은 장소로 귀결될 거야…
@@ -395,7 +428,8 @@ Ti è forse sfuggito un posto?","不見得是搞錯調查地點，
 說不定是你還有沒調查到的地方哦。",,"조사하는 장소로서는 그렇게 틀리진 않은 것 같은데?
 어쩌면, 아직 조사하지 않은 장소가 있지 않을까","Deine Nachforschungen waren nicht völlig abwegig.
 Hast du vielleicht einen Ort übersehen?"
-8060,3013,,Trovi davvero le cose più strane. Che destino interessante... Continua così. Ritirati se ti fai male.,"是經常遭遇事件的那個人啊……你的命運果然很令人感興趣呢。
+8060,3013,,Trovi davvero le cose più strane. Che destino interessante...
+Continua così. Ritirati se ti fai male.,"是經常遭遇事件的那個人啊……你的命運果然很令人感興趣呢。
 總之，你就先試著前進吧。
 如果有東西擋在你面前，你只要除掉它就行了。",,"사건과 자주 조우를 하는 아이구나… 역시 네 운명은 흥미로워
 어쨌든 앞으로 나아가 보렴
@@ -416,7 +450,8 @@ Cerca persone per il suo nuovo team di hacker?","你正在陪女孩子行動啊�
 也就是說，你正在邀人加入新的駭客集團？",,"여자애의 초대에 어울려 주고 있는 모양이네…
 새로운 해커 팀의, 권유를 하고 있구나?","Triffst du dich mit deiner Freundin?
 Sucht sie nach Leuten für ihr neues Hackerteam?"
-8041,3013,,"Che modo di reclutare. Efficace, sì. Ma andare nei covi dei nemici per trovare membri... La tua amica ha fegato.","招攬駭客啊……
+8041,3013,,"Che modo di reclutare. Efficace, sì.
+Ma andare nei covi dei nemici per trovare membri... La tua amica ha fegato.","招攬駭客啊……
 雖然效率確實是不錯，但居然想闖進敵對集團的巢穴裡……
 你的朋友還真是相當大膽呢……",,"해커의 권유구나…
 효율이 좋다고는 해도, 적 팀의 아지트에 쳐들어가다니…
@@ -432,7 +467,8 @@ Lui ti aspetta a Shinjuku.","你之前是陪女孩子行動對吧？
 그 아이는, 신주쿠에서 널 기다리고 있는 모양이야","Du hast mit deiner Freundin Einladungen verteilt?
 Nächstes Mal musst du deinen Freund treffen.
 Er wartet in Shinjuku auf dich."
-9000,3013,,"Conosci il piano? Partecipa al test di aggiornamento di Kamishiro, infiltra il server e rimuovi i protocolli di sicurezza.","你有牢牢記住作戰內容吧？
+9000,3013,,"Conosci il piano? Partecipa al test di aggiornamento di Kamishiro,
+infiltra il server e rimuovi i protocolli di sicurezza.","你有牢牢記住作戰內容吧？
 你的任務是參加神代的版本升級體驗會，
 然後入侵總公司的伺服器，解除他們的安全防護哦。",,"작전은 제대로 기억하고 있는 걸까?
 네 역할은, 카미시로의 버전 업 체험회에 참가해서
@@ -447,7 +483,8 @@ Dopotutto, è il tuo destino.","這是個艱難的任務，
 …왜냐하면, 그게 너의 운명이니까","Eine schwierige Mission, aber du wirst uns
 sicher nicht enttäuschen ...
 Schließlich ist das dein Schicksal."
-9010,3013,,Sei arrivato senza problemi sul server Avalon. Ora usa i Digimon per addentrarti nel profondo.,"看來你順利進入阿瓦隆伺服器了呢。
+9010,3013,,Sei arrivato senza problemi sul server Avalon.
+Ora usa i Digimon per addentrarti nel profondo.,"看來你順利進入阿瓦隆伺服器了呢。
 再來你只要跟數碼寶貝們同心協力，以最深處為目標前進就行了。",,"아발론 서버로는 무사히 진입했구나
 그렇다면 다음은, 디지몬들과 협력해서 최심부로 향하는 것뿐이네","Du bist ohne Probleme auf den Avalon-Server
 gekommen. Nutze jetzt die Digimon,
@@ -460,22 +497,24 @@ Ricorda, vale la pena ascoltare anche le conversazioni a senso unico.","有一�
 무시할 수는 없지 않을까?","Im Freien Bereich von EDEN warten Leute auf dich.
 Denk dran, es lohnt sich, selbst
 einseitigen Unterhaltungen zuzuhören."
-10010,3013,,"Non avevi promesso di incontrare i tuoi amici in EDEN? Il tuo destino ti chiama...
-Sì, dovresti sbrigarti.","你跟朋友約好在EDEN碰面對吧？
+10010,3013,,"Non avevi promesso di incontrare i tuoi amici in EDEN?
+Il tuo destino ti chiama... Sì, dovresti sbrigarti.","你跟朋友約好在EDEN碰面對吧？
 你的命運即將迎來巨大的改變呢……
 快點過去比較好哦。",,"친구와 EDEN에서 만나기로 약속했지?
 네 운명이, 소란스럽게 울리고 있어…
 서둘러 향하는 게 좋지 않을까","Hattest du nicht versprochen, deine Freunde in
 EDEN zu treffen? Dein Schicksal ruft ...
 Ja, du solltest dich beeilen."
-10020,3013,,"I destini di molte persone sono legati al server Valhalla. Ci volevi andare, vero? Sii pronto, il destino non aspetta.","許多人的命運都交織在瓦爾哈拉伺服器裡呢。
+10020,3013,,"I destini di molte persone sono legati al server Valhalla.
+Ci volevi andare, vero? Sii pronto, il destino non aspetta.","許多人的命運都交織在瓦爾哈拉伺服器裡呢。
 你是不是也以那裡為目標呢？
 ……無論如何，你是無法逃離命運的，做好準備就前往那裡吧。",,"발할라 서버에서, 많은 사람들의 운명이 엇갈리고 있어
 너도 그곳으로 향하고 있지 않았니?
 …어차피 운명에서는 벗어날 수 없어, 단단히 준비하고 향하렴","Die Schicksale vieler Menschen sind mit dem
 Walhalla-Server verknüpft. Du wolltest da hin, ja?
 Sei bereit, das Schicksal wartet nicht."
-10030,3013,,"Sei sul server Valhalla. Il suo punto centrale si chiama 'Sotto Zero'... Ci sono molte trappole lì, ma fidati dei tuoi Digimon.","看來你已經進入瓦爾哈拉伺服器了呢。
+10030,3013,,"Sei sul server Valhalla. Il suo punto centrale si chiama 'Sotto Zero'...
+Ci sono molte trappole lì, ma fidati dei tuoi Digimon.","看來你已經進入瓦爾哈拉伺服器了呢。
 「Under Zero」存在於瓦爾哈拉伺服器的最深處……
 雖然路上會有很多阻礙，但你就跟數碼寶貝們同心協力前進吧。",,"발할라 서버에 들어간 것 같네
 「언더 제로」는 발할라 서버의 최심부…
@@ -489,7 +528,8 @@ inizia con quello che puoi fare.","不是有人正在Zaxon廣場等著你嗎？
 불안한 건 알겠지만, 할 수 있는 일부터 해나갈 수밖에 없어","Wartet nicht jemand im Zaxon-Forum auf dich?
 Auch wenn du unsicher bist,
 fang mit dem an, was machbar ist."
-11010,3013,,"L'incontro si è tenuto, vero? Parla con Kyoko per avere conferma... Stai lottando con tenacia contro la forza del destino.","你開過作戰會議了對吧？
+11010,3013,,"L'incontro si è tenuto, vero? Parla con Kyoko per avere conferma...
+Stai lottando con tenacia contro la forza del destino.","你開過作戰會議了對吧？
 如果想確認內容的話，就去找杏子吧。
 ……你就試著在命運的漩渦之中拼命掙扎吧。",,"작전 회의를 열었었지?
 내용을 확인하고 싶으면, 쿄코에게 말을 걸어 보렴
@@ -505,21 +545,25 @@ Il percorso sotterraneo è lungo, ma semplice.
 …다만 마지막까지 긴장을 풀면 안 돼","Du willst zum unterirdischen Zentrum in Roppongi?
 Die unterirdische Route ist lang, aber simpel.
 ... Bleib trotzdem wachsam."
-13000,3013,,"Nelle folle, spesso si trova quello che si cerca. Un amico che sa come gestire molta gente, ora si trova a Shibuya. Parla con lui.","如果想找什麼東西的話，讓一堆人去找也是一種方法哦。
+13000,3013,,"Nelle folle, spesso si trova quello che si cerca.
+Un amico che sa come gestire molta gente, ora si trova a Shibuya.
+Parla con lui.","如果想找什麼東西的話，讓一堆人去找也是一種方法哦。
 人脈很廣的朋友似乎正好在涉谷那裡呢。
 你就去找她商量看看吧。",,"무언가를 찾고 싶다면, 대규모로 임하는 것도 하나의 방법이야
 마침 시부야에 많은 사람들을 움직일 수 있는 친구가 있는 것 같네
 그 아이에게 상담해 보면 되지 않을까","Wo Menschenmengen sind, wird man oft fündig. Ein
 Freund, der viele zu bewegen weiß, ist jetzt in
 Shibuya. Sprich mit ihm."
-13010,3013,,"Il tuo amico cerca questo mondo, vero? Può pure venire a EDEN adesso. Perché non cerchi lì?","這邊的世界的朋友會主動來找你對吧？
+13010,3013,,"Il tuo amico cerca questo mondo, vero?
+Può pure venire a EDEN adesso. Perché non cerchi lì?","這邊的世界的朋友會主動來找你對吧？
 畢竟好不容易能到EDEN去了，
 你就主動去找他們吧？",,"이쪽 세계는 친구가 찾아 주는 거잖아?
 모처럼 EDEN에 갈 수 있게 됐으니까,
 넌 그쪽을 찾아 보는 게 어때?","Dein Freund sucht nach dieser Welt, ja? Er kann
 jetzt sogar nach EDEN kommen.
 Warum suchst du nicht dort?"
-14000,3013,,"Vuoi andare ad Akihabara per incontrare Gallantmon? Il tuo ""fiuto"" può darti una mano. Di tanto in tanto. Stai all'erta.","你應該是要去秋葉原見紅蓮騎士獸對吧？
+14000,3013,,"Vuoi andare ad Akihabara per incontrare Gallantmon?
+Il tuo ""fiuto"" può darti una mano. Di tanto in tanto. Stai all'erta.","你應該是要去秋葉原見紅蓮騎士獸對吧？
 話說回來，「氣息」這東西還真方便呢……
 不過那玩意兒卻也經常會產生變化……　你在路上要隨時注意哦。",,"듀크몬을 만나기 위해, 아키하바라로 가기로 하지 않았니?
 그건 그렇고,「기척」이라니, 참 편리하구나…
@@ -553,16 +597,19 @@ Perché non cominci da lì?","你接受了山科千夏的委託對吧？
 우선 순순히 그곳에 가 보면 어떨까?","Du hast den Fall von Chika Yamashina übernommen?
 Das Ziel der Ermittlungen ist im
 Zentralkrankenhaus. Warum fängst du nicht da an?"
-14020,3013,,Le infermiere dell'ospedale non ne sanno più di me su Makoto Yamashina?,"山科誠的事……與其問我，
+14020,3013,,Le infermiere dell'ospedale non ne
+sanno più di me su Makoto Yamashina?,"山科誠的事……與其問我，
 不如去問他住的那間醫院的護理人員會比較好哦。",,"야마시나 마코토에 대해서는, 나에게 물어보는 것보다
 입원 중인 병원의, 간호사에게 물어보는 편이 좋다고 생각해","Wissen die Krankenschwestern im Krankenhaus nicht
 mehr als ich über Makoto Yamashina?"
-14030,3013,,"Da quel che vedo, Makoto Yamashina non ha lasciato l'ospedale. Chiedi in giro. Tornerà di sicuro.","依我的判斷，山科誠應該是沒有離開醫院……
+14030,3013,,"Da quel che vedo, Makoto Yamashina non ha lasciato l'ospedale.
+Chiedi in giro. Tornerà di sicuro.","依我的判斷，山科誠應該是沒有離開醫院……
 只要在醫院裡到處找人打聽，應該很快就會找到人了吧。",,"내 판단에 따르면, 야마시나 마코토는 병원에서 나오지 않았을 거야…
 병원 내에서 탐문 조사를 해 보면, 머지않아 찾을 수 있지 않을까","Soweit ich sehen kann, hat Makoto Yamashina das
 Krankenhaus nicht verlassen. Frag herum.
 Er wird sicher wieder auftauchen."
-14035,3013,,"Lo spostamento digitale dei dati di salvataggio è stato molto sorprendente. Togliere la protezione è facile, ma pericoloso. Attenzione.","雖然我對記憶資料的Digital Shift感到吃驚，
+14035,3013,,"Lo spostamento digitale dei dati di salvataggio è stato molto sorprendente.
+Togliere la protezione è facile, ma pericoloso. Attenzione.","雖然我對記憶資料的Digital Shift感到吃驚，
 不過你果斷的行動力也讓我很驚訝呢。
 要解除資料的防護是不難，但是也很麻煩哦，記得要做好足夠的準備再去。",,"기억 데이터의 디지털 시프트에도 놀랐지만,
 너의 순간적인 행동력에도 깜짝 놀랐어
@@ -574,7 +621,8 @@ Allora vai a Shinjuku... in fretta.","警方要你去支援對吧？
 快點前往新宿比較好哦。",,"경찰로부터 지원을 부탁받았잖아?
 서둘러 신주쿠로 향하는 편이 좋지 않을까","Die Polizei will deine Hilfe?
 Dann geh nach Shinjuku ... schnell."
-14050,3013,,"Le strade di Shinjuku saranno pure sicure, ma ce ne sono ancora nella metro, no?
+14050,3013,,"Le strade di Shinjuku saranno pure sicure,
+ma ce ne sono ancora nella metro, no?
 Il tuo amico non è stato visto proprio lì?","新宿地上的狀況似乎已經解決到某個程度了，
 不過地下應該還剩不少麻煩吧？
 而且有人告訴你他曾經在地下見過你的朋友對吧？",,"신주쿠의 지상은 어느 정도 수습된 것 같지만,
@@ -582,7 +630,9 @@ Il tuo amico non è stato visto proprio lì?","新宿地上的狀況似乎已經
 그리고, 네 친구를 지하에서 봤다는 정보도 있잖아?","Die Straßen von Shinjuku sind wohl sicher, aber es
 sind noch welche in der U-Bahn, oder?
 Wurde dein Freund nicht dort gesehen?"
-14060,3013,,"Sei già stato allo slittamento digitale a Shinjuku, ma questa volta devi entrarci del tutto. Qualsiasi cosa succeda, sai cosa fare.","你應該有去過新宿的Digital Shift，
+14060,3013,,"Sei già stato allo slittamento digitale a Shinjuku,
+ma questa volta devi entrarci del tutto.
+Qualsiasi cosa succeda, sai cosa fare.","你應該有去過新宿的Digital Shift，
 不過這次的目標是那裡的深處……你就以鐵軌的前方為目標吧。
 就算途中有阻礙，你應該也已經知道解決的方法了。",,"신주쿠의 디지털 시프트에는 한 번 와 봤겠지만
 이번에는 더욱 안쪽… 선로의 끝으로 향하렴
@@ -598,7 +648,8 @@ Non sarà facile. Buona fortuna.","你要去說服皇家騎士對吧？
 모두 만만치 않겠지만, 힘내렴","Du willst los und die Royal Knights überzeugen?
 In der Shibuya-U-Bahn, Ueno, EDENs Freiem
 Bereich. Das wird nicht einfach. Viel Glück."
-15010,3013,,I rimanenti Royal Knights sono a Ueno e nell'Area Libera di EDEN. Buona fortuna.,"剩下的皇家騎士分別在上野與EDEN自由區域裡哦。
+15010,3013,,I rimanenti Royal Knights sono a Ueno e nell'Area Libera di EDEN.
+Buona fortuna.,"剩下的皇家騎士分別在上野與EDEN自由區域裡哦。
 你就照這個樣子繼續努力吧。",,"남은 로얄 나이츠는, 우에노와 EDEN의 프리 에어리어야
 이 기세로 계속 힘내렴","Die übrigen Royal Knights sind in Ueno und dem
 Freien Bereich von EDEN. Viel Glück."
@@ -611,12 +662,14 @@ Forse dovresti andare da loro?","哈克獸似乎跑進上野的博物館裡了�
 너도 뒤쫓아 가는 편이 좋지 않을까?","Hackmon hat das Ueno-Museum betreten, nicht wahr?
 Dort ist BanchoLeomon.
 Vielleicht solltest du zu ihnen gehen?"
-15030,3013,,I Royal Knight rimanenti sono nella metro di Shibuya e nella Zona Libera di EDEN. In bocca al lupo.,"剩下的皇家騎士分別在涉谷的地下跟EDEN的自由區域裡哦。
+15030,3013,,I Royal Knight rimanenti sono nella metro di Shibuya e nella Zona Libera di EDEN.
+In bocca al lupo.,"剩下的皇家騎士分別在涉谷的地下跟EDEN的自由區域裡哦。
 你就照這個樣子繼續努力吧。",,"남은 로얄 나이츠는, 시부야의 지하와 EDEN의 프리 에어리어야
 이 기세로 계속 힘내렴","Die übrigen Royal Knights sind im U-Bahn-System
 von Shibuya und dem Freiem Bereich von EDEN.
 Viel Glück."
-15040,3013,,"Ora è rimasta solo l'Area Libera di EDEN? Stavolta potrebbe farsi dura... Beh, vacci e scoprilo.","看來要去的地方只剩EDEN的自由區域了。
+15040,3013,,"Ora è rimasta solo l'Area Libera di EDEN?
+Stavolta potrebbe farsi dura... Beh, vacci e scoprilo.","看來要去的地方只剩EDEN的自由區域了。
 雖然這次可能會有些棘手……
 總之你就先過去看看吧。",,"남은 건 EDEN의 프리 에어리어 뿐인 것 같네
 이번에는 좀 성가신 일이 될 것 같지만…
@@ -632,7 +685,8 @@ E quelli li puoi trovare... hihi.","想叫出持有特殊技能的數碼寶貝�
 어디서 구할 수 있는지는… 우후후","Um Digimon mit besonderen Fertigkeiten zu rufen,
 benötigst du Harmonischer Wille und Stahlwille. 
 Und die kannst du finden ... hihi."
-15051,3013,,Ma certo che sei preoccupato... Però prima incontra i Royal Knights a Ueno e nella metropolitana di Shibuya.,"就算一直煩惱也沒有意義啊……
+15051,3013,,Ma certo che sei preoccupato...
+Però prima incontra i Royal Knights a Ueno e nella metropolitana di Shibuya.,"就算一直煩惱也沒有意義啊……
 總之，你現在就先去見
 在涉谷的地下以及上野的皇家騎士吧。",,"고민해 봐도 별수 없어…
 어쨌든 지금은, 시부야의 지하와 우에노에 있는
@@ -655,28 +709,35 @@ Cominciamo?","讓你久等了呢……
 那麼，我們走吧。",,"기다리게 해 버린 것 같네…
 그럼, 가 볼까","Tut mir leid, dass du warten musstest.
 Sollen wir loslegen?"
-15068,3013,,Rina Shinomiya vuole aiutare? Barbamon è potente e uno dei Sette Re Demoni dei Digimon. Stai in guardia. Sfrutta ogni debolezza.,"四之宮莉娜……你要去協助她打倒巴爾巴獸對吧。
+15068,3013,,Rina Shinomiya vuole aiutare?
+Barbamon è potente e uno dei Sette Re Demoni dei Digimon.
+Stai in guardia. Sfrutta ogni debolezza.,"四之宮莉娜……你要去協助她打倒巴爾巴獸對吧。
 巴爾巴獸是擁有強大力量的七大魔王之一哦，你絕對不能大意。
 只要對方產生破綻，你就要持續不斷地攻擊它。",,"시노미야 리나… 그녀에게 협력해서 발바몬을 쓰러뜨리러 가는 거구나
 발바몬은 거대한 힘을 가진 7대 마왕의 일각이야
 결코 방심하면 안 돼. 빈틈이 생기면 한꺼번에 공격하렴","Rina Shinomiya will helfen? Barbamon ist mächtig
 und einer der Sieben Dämonenkönige der Digimon.
 Sei auf der Hut. Nutze jede Schwäche."
-15070,3013,,Hai dei potenti alleati. Combatterai sicuramente bene. Kentaurosmon non ha ancora attaccato. Quindi vai subito all'Area Libera.,"你得到了一位強力的伙伴呢！　這麼一來，你應該能好好戰鬥了。
+15070,3013,,Hai dei potenti alleati. Combatterai sicuramente bene.
+Kentaurosmon non ha ancora attaccato. Quindi vai subito all'Area Libera.,"你得到了一位強力的伙伴呢！　這麼一來，你應該能好好戰鬥了。
 八腳馬獸似乎還沒有移動，
 在他開始移動之前，快點前往EDEN的自由區域吧。",,"강력한 아군이 생겼구나… 이만하면 충분히 싸울 수 있을 거야
 슬레이프몬은 아직 이동하지 않은 것 같으니까,
 상대가 이동하기 전에, EDEN의 프리 에어리어로 향하는 게 어때?","Du hast mächtige Verbündete. Du wirst sicher gut
 kämpfen. Kentaurosmon hat noch nicht angegriffen.
 Geh also schnell zum Freien Bereich."
-15080,3013,,Non hai niente di meglio da fare? Pensavo che come detective fossi richiesto. Sbrigati e vai ad Asakusa.,"你還在這種地方打混好嗎？
+15080,3013,,Non hai niente di meglio da fare?
+Pensavo che come detective fossi richiesto.
+Sbrigati e vai ad Asakusa.,"你還在這種地方打混好嗎？
 刑警有請求你前去支援對吧？
 快去淺草幫他一把吧。",,"너, 이런 곳에 있어도 되는 거야?
 형사님으로부터, 지원 요청이 있었잖아?
 서둘러 아사쿠사로 가 주렴","Hast du nichts Besseres zu tun? Ich dachte, du
 wärst detektivisch gefragt.
 Beeil dich und geh nach Asakusa."
-15090,3013,,Lo spostamento digitale di Asakusa. Lì c'è un Divoratore. L'area è proprio come prima. ... Dunque. Quale futuro sceglierai?,"淺草的Digital Shift……侵食者就在這裡的深處哦。
+15090,3013,,Lo spostamento digitale di Asakusa.
+Lì c'è un Divoratore. L'area è proprio come prima. ... Dunque.
+Quale futuro sceglierai?,"淺草的Digital Shift……侵食者就在這裡的深處哦。
 這一帶的構造似乎跟之前一模一樣呢。
 好啦，你會選擇什麼樣的未來呢？",,"아사쿠사의 디지털 시프트… 이터는 이 안쪽에 있어
 이 주변의 구조는 전과 달라진 게 없는 것 같네
@@ -688,7 +749,8 @@ Ma tu non dovresti essere a Odaiba, di solito?","大家都為了完成各自的�
 你不是應該要去御台場嗎？",,"모두 각자의 역할을 다하기 위해 움직이고 있어…
 넌 오다이바로 가야만 하는 게 아니었니?","Alle sind unterwegs, um ihren Teil zu leisten.
 Solltest du nicht eigentlich in Odaiba sein?"
-16005,3013,,C'è solo una rotta per Odaiba. Non puoi perderti. Examon ti aspetta... Preparati bene.,"御台場那裡只有一條路，所以你不會迷路的。
+16005,3013,,C'è solo una rotta per Odaiba. Non puoi perderti.
+Examon ti aspetta... Preparati bene.,"御台場那裡只有一條路，所以你不會迷路的。
 深處有艾克薩獸在等著你，你可要先做好周全的準備啊。",,"오다이바에는 길이 하나뿐이라 헤맬 일은 없어
 안쪽에 엑자몬이 있는데… 준비는 확실히, 하렴","Es gibt nur eine Route nach Odaiba. Du kannst dich
 nicht verlaufen. Examon erwartet dich ...
@@ -701,7 +763,8 @@ Se non ti senti ancora pronto, vai all'ufficio e parlane con i tuoi partner.","�
 상담해 보렴","Zeit für den Kampf gegen den Drachenkaiser ...
 Wenn du dir noch nicht sicher bist, geh zum Büro
 und berate dich mit deinen Partnern."
-16010,3013,,"Non dovevi incontrare il bambino? Non dovresti proprio lasciarlo solo a lungo.
+16010,3013,,"Non dovevi incontrare il bambino?
+Non dovresti proprio lasciarlo solo a lungo.
 Svelto, al primo livello di Kowloon.","你跟她約好要碰面對吧？
 ……不要太常忽略她比較好哦。
 快點到Kowloon Lv. 1去吧。",,"그 아이와 만나기로 약속했잖아?
@@ -709,11 +772,14 @@ Svelto, al primo livello di Kowloon.","你跟她約好要碰面對吧？
 빨리 쿠롱 Lv.1로 향하렴","Solltest du nicht das Kind treffen? Du solltest
 es wirklich nicht lang allein lassen.
 Schnell, zur ersten Ebene in Kowloon."
-16020,3013,,Il bambino pare sia ora al quinto livello di Kowloon. Lo seguirai?,"她似乎到Kowloon Lv. 5去了……
+16020,3013,,Il bambino pare sia ora al quinto livello di Kowloon.
+Lo seguirai?,"她似乎到Kowloon Lv. 5去了……
 你也快去找她吧。",,"그 아이는 쿠롱 Lv.5로 가 버린 것 같네…
 너도 가는 게 어때?","Das Kind scheint jetzt auf der fünften Ebene in 
 Kowloon zu sein. Wirst du ihm folgen?"
-16030,3013,,"Il firewall non c'è più, vero? Ora devi quindi andare al quinto piano di Kowloon. Però non sarà una passeggiata.","原本堵住去路的牆壁已經消失了吧？
+16030,3013,,"Il firewall non c'è più, vero?
+Ora devi quindi andare al quinto piano di Kowloon.
+Però non sarà una passeggiata.","原本堵住去路的牆壁已經消失了吧？
 再來只要前往Kowloon Lv. 5的深處就行啦。
 ……雖然我說得很輕鬆，但要達成目的應該沒那麼簡單吧。",,"가로막고 있었던 벽은 이제 없지?
 이제 쿠롱 Lv.5의 안쪽으로 나아가면 될 뿐이야
@@ -743,7 +809,9 @@ Non che il destino ci faccia caso.","你要去秋葉原找劍皇獸對吧？
 운명은, 조심한다고 해서 어떻게 되는 것은 아니지만…","Du bist auf dem Weg zu Crusadermon in Akihabara?
 Sie ist sehr gerissen, sei vorsichtig.
 Nicht, dass das Schicksal darauf Rücksicht nimmt."
-17020,3013,,"Ti stai chiedendo dove porta il viaggio? ... Quando arriverai, lo saprai. Vedrai il tuo destino con i tuoi stessi occhi.","你很在意自己現在身處何處嗎？
+17020,3013,,"Ti stai chiedendo dove porta il viaggio? ...
+Quando arriverai, lo saprai.
+Vedrai il tuo destino con i tuoi stessi occhi.","你很在意自己現在身處何處嗎？
 只要往前進就會知道囉。
 你就去親眼確認你的命運吧。",,"네가 지금 어디에 있는지, 궁금한 걸까?
 …그건 나아가 보면 알게 될 거야
@@ -758,27 +826,31 @@ Chiudi gli occhi...","聽得見嗎？
 자, 눈을 감아…","Kannst du mich hören? [p]
 ist fort, also werde ich dir helfen.
 Schließ die Augen ..."
-18020,3013,,"Benvenuto nel Digilab. A dire il vero, questo posto era per [p], ma… il destino… è stato cambiato. Ho bisogno del tuo aiuto.","歡迎來到數碼實驗室。
+18020,3013,,"Benvenuto nel Digilab. A dire il vero, questo posto era per [p],
+ma… il destino… è stato cambiato. Ho bisogno del tuo aiuto.","歡迎來到數碼實驗室。
 這裡原本是為了[p]而開設的空間，
 但命運現在變得搖擺不定，所以我需要妳們的力量。",,"어서 와, 디지랩에
 본래 이곳은 [p]를(을) 위해서 열린 공간이지만…
 지금은 운명이 흔들리고 있어… 너희들의 힘이 필요해","Willkommen im DigilLab. Eigentlich war dieser Ort
 für [p], aber ... das Schicksal ...
 wurde verändert. Ich brauche deine Hilfe."
-18021,3013,,"Hai un destino diverso, perciò la funzionalità è limitata. Cerca comunque di sfruttare questo posto al meglio.","妳們的命運還存在於別的地方。
+18021,3013,,"Hai un destino diverso, perciò la funzionalità è limitata.
+Cerca comunque di sfruttare questo posto al meglio.","妳們的命運還存在於別的地方。
 所以機能才會受到限制，
 不過就請妳們充分利用這個地方吧。",,"너희들의 운명은 또 다른 장소에 있어
 그래서 기능은 제한되어 버리지만…
 이 장소를 효과적으로 사용해 줘","Du hast ein anderes Schicksal, deshalb ist die
 Funktionalität beschränkt. Nutze diesen Ort
 bitte trotzdem so gut wie möglich."
-19000,3013,,Vai all'edificio Metropolitan per chiudere la faccenda dei Royal Knights? Questa battaglia deciderà il tuo destino. Sii forte.,"你要去新都廳跟皇家騎士決戰對吧？
+19000,3013,,Vai all'edificio Metropolitan per chiudere la faccenda dei Royal Knights?
+Questa battaglia deciderà il tuo destino. Sii forte.,"你要去新都廳跟皇家騎士決戰對吧？
 這場戰鬥將會決定你的命運，你可要好好振作哦。",,"너, 로얄 나이츠와의 결전을 위해
 신 도청으로 향하기로 하지 않았었니?
 …이 싸움은, 네 운명을 결정짓게 될 거야… 힘내렴","Du gehst zum Metropolitan-Gebäude, um die Sache 
 mit den Royal Knights zu Ende zu bringen? Dieser 
 Kampf wird dein Schicksal bestimmen. Sei stark."
-19005,3013,,"Il palazzo Metropolitan è gigantesco. Ti serviranno fortuna e pazienza. Con gli ascensori giusti, arriverai al 14°, 29°e 39°piano.","新都廳內變得相當廣闊，所以你應該會需要運氣跟耐性。
+19005,3013,,"Il palazzo Metropolitan è gigantesco. Ti serviranno fortuna e pazienza.
+Con gli ascensori giusti, arriverai al 14°, 29°e 39°piano.","新都廳內變得相當廣闊，所以你應該會需要運氣跟耐性。
 只要搭上正確的電梯，
 你就能分別前往15樓、30樓和40樓囉。",,"신 도청 내부는 상당히 넓으니까 운과 끈기가 필요할 거야…
 정답인 엘리베이터로는, 각각 15F, 30F, 40F로
