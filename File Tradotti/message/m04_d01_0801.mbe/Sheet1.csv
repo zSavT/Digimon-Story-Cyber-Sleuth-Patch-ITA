@@ -1,7 +1,7 @@
 ﻿ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
 1,3004,,Ehi. Te ne sei accorto?,喂……你有發現嗎？,,"…야, 눈치챘어?",He. Merkst du was?
 2,2000,,...,……………,,……………,...
-3,3004,,"Tu, ascoltami bene, o dovrei dire, ""Detective"".
+3,3004,,"Ascoltami bene, ""Detective"".
 Qualcosa ci sta seguendo da un po'.","你這樣也算偵探嗎……？
 從剛才就一直有人“跟蹤”我們！",,"……댁, 그러고도 탐정이냐…
 우리들, 좀 전부터 ""미행당하고"" 있어","Hör mal zu, du „Detektiv“.
@@ -15,7 +15,7 @@ Ein Digimon, ein Geist oder vielleicht sie."
 6,3004,,Mostrati! Fatti vedere!,是誰！？不要鬼鬼祟祟，給我出來！！,,"누구냐!? 살금살금 따라오지 말고, 나와!!",Zeig dich! Komm raus!
 7,4280,,"Oh cavolo, mi avete scoperto!",哎呀，被發現了嗎？,,"이런, 들켜 버렸군요!","Huch, man hat mich entdeckt!"
 8,4281,,"Oh cielo, oh cielo, ma buongiorno!",嗨，哈囉，你們好啊，你們好啊！,,"이거이거, 이거, 안녕하세요, 안녕하세요!","Gute Güte, guten Tag auch!"
-9,4281,,"Ehi, piano. Non così in fretta.
+9,4281,,"Aspetti, si calmi, si calmi.
 Non sono una minaccia, ve lo posso assicurare!","哎呀，你們不要戒心這麼重嘛！
 我絕對不是什麼可疑人物！",,"어이쿠, 그렇게 경계하지 말아 주세요
 저는, 결코 수상한 사람이 아닙니다!","Moment, ganz ruhig, immer mit der Ruhe.
@@ -38,8 +38,8 @@ einen Durchbruch schaffen kann. Ich wäre aber
 trotzdem dankbar für einen Assistenten."
 15,3009,,"Te lo assicuro, è una compagnia terribile.",真是不人道的公司啊！,,"정말이지, 너무한 회사입니다","Ich sag es euch, die Firma ist schrecklich."
 16,3004,,Perché ci stavi seguendo?,你為什麼要跟蹤我們？,,"…어째서, 우리들을 미행한 거지?",Warum bist du uns gefolgt?
-17,3009,,"Non pensavo ci fossero umani più avanti di me.
-Volevo solo osservare la situazione.","沒有，我只是沒想到居然有其他人類比我先到，
+17,3009,,"Non avrei mai pensato che ci fossero persone che sono arrivate più lontano di me.
+Volevo guardare per un po'.","沒有，我只是沒想到居然有其他人類比我先到，
 所以想先觀察一下。",,"이거 참, 저보다 먼저 와 있는 사람이 있을 거라곤 생각지도 못해서…
 잠시 상황을 지켜보고 있었습니다","Ich hätte nicht gedacht, dass es Menschen gibt,
 die es schon weiter geschafft haben als ich.
@@ -50,7 +50,7 @@ Oh caspita, quanto mi dispiace. Perdonatemi.","造成你們的不愉快，
 이거 정말 죄송합니다… 사죄하겠습니다","Habe ich euch beunruhigt?
 Das ist unverzeihlich. Entschuldigung."
 19,3004,,"Beh, non è un grosso problema.",呃……是不用啦。,,"아니… 뭐, 별로 상관없어","Ach, halb so wild."
-20,3004,,"Ma se vuoi così tanto scusarti, allora dicci cos'è questo.
+20,3004,,"Ma se vuoi così tanto scusarti, perché non mi dici di cosa si tratta?
 Vogliamo saperlo.","不過，既然你有心賠罪的話，那就告訴我們你知道的事！
 我們也想知道“這個”到底是什麼？",,"그래도, 사죄할 생각이 있다면, 알고 있는 걸 가르쳐 줘
 우리들도 ""이게"" 대체 뭔지, 알고 싶으니까","Aber wenn du schon reumütig gestimmt bist,
@@ -65,9 +65,8 @@ herumerzählen werdet?"
 23,3004,,"Ma certo. Dico bene, [p]?",嗯嗯，我知道。[p]，可以吧？,,"그래, 알고 있어 …그렇지, [p]?","Klar doch.
 Stimmt’s, [p]?"
 24,3009,,"Molto bene, allora. Ve lo dirò!",好吧！那我就告訴你們吧！,,"좋습니다, 그럼 말씀드리도록 하죠!","Also gut, ich werde es euch erzählen!"
-25,3009,,"Ma tutto quello che sto per dirvi è frutto
-di un processo lavorativo e, nel migliore dei casi,
-solo una intuizione.","只是，我接下來要說的這些，
+25,3009,,"Ma questa storia deriva dal mio processo di lavoro
+e si basa al massimo su deduzioni logiche.","只是，我接下來要說的這些，
 都只是我從調查的過程中，引導出來的歸納式推論——",,"단, 지금부터 하는 얘기는, 어디까지나
 제가 조사 과정에서 도출해 낸, 귀납적 추론―","Doch diese Geschichte leitet sich aus meinem
 Arbeitsprozess ab und basiert bestenfalls
@@ -229,9 +228,8 @@ Vertrauliches an."
 un'azienda terribile, no?",真的是很不人道的公司對吧？,,"…정말, 너무한 회사죠?","Ich habe doch gesagt, dass die Firma schrecklich
 ist. Oder etwa nicht?"
 67,3004,,C'è dell'altro che vorrei sapere.,趁這個機會，我想問問其他問題！,,"이참에, 그 밖에도 묻고 싶은 게 있는데?",Dazu will ich noch etwas fragen.
-68,3009,,"Sì, lo capisco. Se posso aiutare in
-qualche modo, lo farò.
-Chiedi pure!","嗯嗯！嗯嗯！
+68,3009,,"Naturalmente. Se posso rispondere, lo farò.
+Chiedete pure!","嗯嗯！嗯嗯！
 只要是我能回答的問題，都儘管問！",,"예, 예
 제가 대답할 수 있는 것이라면, 무엇이든지요!","Natürlich.
 Wenn ich antworten kann, werde ich es tun.
