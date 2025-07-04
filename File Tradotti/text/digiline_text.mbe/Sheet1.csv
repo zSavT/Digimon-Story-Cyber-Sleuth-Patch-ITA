@@ -1,16 +1,15 @@
 ID,Japanese,English,Chinese,EnglishCensored,Korean,German
-1,,"Non c'è nessun Digimon
-destinatario, quindi il messaggio non può essere inviato.",由於沒有可發送訊息的數碼寶貝，因此無法發送訊息,,"송신 대상의 디지몬이 존재하지 않아
+1,,"Non c'è nessun Digimon destinatario, quindi il messaggio
+non può essere inviato.",由於沒有可發送訊息的數碼寶貝，因此無法發送訊息,,"송신 대상의 디지몬이 존재하지 않아
 메시지를 보내지 못했습니다.","Kein Empfänger-Digimon vorhanden.
 Nachricht konnte nicht gesendet werden."
 2,,Ricevuti [n0] nuovi messaggi.,收到[n0]件新訊息,,신규 메시지 [n0]건 수신,[n0] neue Nachrichten.
-100,,"Ci sono Digimon di livello
-massimo nella fattoria, incluso [d0].","像是[d0]等等，
+100,,"Ci sono Digimon di livello massimo nella fattori,
+incluso [d0].","像是[d0]等等，
 農場島裡有好幾隻LV MAX的數碼寶貝囉",,"[d0] 등, 팜에 
 몇 마리 정도 최대 레벨에 도달한 디지몬이 있어","Auf der Farm sind Digimon auf
 Höchstlevel, unter anderem [d0]."
-101,,"[d0] nella
-fattoria è al livello massimo.","農場島裡的[d0]
+101,,"[d0] nella fattoria è al livello massimo.","農場島裡的[d0]
 已經達到LV MAX了呢",,"팜의 [d0]이(가)
 Lv. MAX가 된 것 같아.","Auf der Farm hat [d0]
 das Höchstlevel erreicht."
@@ -34,65 +33,64 @@ Nessun nuovo caso, ma trovati [d0].","農場島[n0]的調查指令已執行完�
 雖然調查沒有斬獲，但似乎發現了[d0]喔",,"팜 [n0]의 조사지시 완료. 의뢰 조사는 없었지만
 [d0]을 발견한 것 같아.","Ermittlungsbefehl auf Farm [n0] beendet!
 Kein neuer Fall, aber [d0] gefunden."
-1101,,"Ehi, è vero quello che dicono di
-tutti gli umani spaventosi?",吶吶，我聽說人類有很多可怕的傢伙，是真的嗎？,,"저기저기, 인간 중엔 무서운 사람이 많다는 게 진짜야?","Sag mal, stimmt es, was man über all die
+1101,,"Ehi, è vero quello che dicono di tutti gli umani
+spaventosi?",吶吶，我聽說人類有很多可怕的傢伙，是真的嗎？,,"저기저기, 인간 중엔 무서운 사람이 많다는 게 진짜야?","Sag mal, stimmt es, was man über all die
 grusligen Menschen sagt?"
-1102,,"Allenarsi non è divertente,
-portami subito fuori!",訓練什麼的好無趣……快帶我去外頭！,,트레이닝 같은건 재미없어…빨리 밖으로 데려가줘―!,"Das Training macht keinen Spaß,
+1102,,"Allenarsi non è divertente, portami subito fuori!",訓練什麼的好無趣……快帶我去外頭！,,트레이닝 같은건 재미없어…빨리 밖으로 데려가줘―!,"Das Training macht keinen Spaß,
 nimm mich endlich mit!"
-1103,,"Ho fatto un sogno pazzesco stanotte! Era
-tipo, uh... ehm... cavolo, me ne ero dimenticato.","我昨天做了一個很有趣的夢喔！　聽我說、聽我說！
+1103,,"Ho fatto un sogno pazzesco stanotte! Era tipo, uh...
+ehm... cavolo, me ne ero dimenticato.","我昨天做了一個很有趣的夢喔！　聽我說、聽我說！
 唔～嗯……啊咧，我不記得了",,"어제 재미있는 꿈을 꿨어! 있잖아 있잖아!
 그게 그게… 어라, 잊어버렸네.","Letzte Nacht hatte ich einen irren
 Traum, äh ... ähm ... Mist, vergessen."
-1104,,"Mi sono svegliato prima del
-solito oggi! Non sono un bravo Digimon?","我今天比平時還要早起床喔！
+1104,,"Oggi mi sono svegliato prima del solito!
+Non sono un bravo Digimon?","我今天比平時還要早起床喔！
 吶，快誇我、快誇我！",,"오늘은 평소보다 빨리 일어났어!
 자자, 칭찬해줘 칭찬해줘!","Ich bin heute früher aufgewacht als
 sonst! Bin ich nicht ein gutes Digimon?"
-1105,,"Un altro Digimon mi ha invitato a
-provare questa cosa di DigiLine. Alla gente piace?","因為其他數碼寶貝的邀請，所以我試了一下……
+1105,,"Un altro Digimon mi ha invitato provare questa cosa
+di DigiLine. Alla gente piace?","因為其他數碼寶貝的邀請，所以我試了一下……
 數碼連線好困難呢，大家都喜歡這樣做嗎？",,"다른 디지몬이 권유해서 해 봤는데…
 디지라인은 어렵네. 다들 이런게 재밌는거야?","Ein Digimon sagt, ich soll dieses
 Digiline-Zeug probieren. Macht das Spaß?"
-1106,,"La prossima volta portami un regalo
-dall'esterno! Qualcosa di buono, ok? Promesso?","下次你來玩的時候，我想要外頭的土產吶！
+1106,,"La prossima volta portami un regalo dall'esterno!
+Qualcosa di buono, ok? Promesso?","下次你來玩的時候，我想要外頭的土產吶！
 例如說好吃的東西之類的，吶～可以吧～？",,"다음에 놀러올 땐 바깥에서 선물을 사다줘!
 맛있는거 같은걸로. 응? 괜찮지?","Bring mir nächstes Mal ein Geschenk von
 draußen! Was Leckeres, ja? Versprochen?"
-1107,,"Quei cattivi hacker di EDEN fanno un
-po' spavento... Non hai paura di loro?","在EDEN裡的壞蛋駭客，有點可怕呢……
+1107,,"Quei hacker cattivi di EDEN fanno un po' spavento...
+Non hai paura di loro?","在EDEN裡的壞蛋駭客，有點可怕呢……
 你不覺得害怕嗎？",,"EDEN에 있는 나쁜 해커는 좀 무섭네에…
 넌 무섭지 않아?","Die fiesen EDEN-Hacker sind irgendwie
 unheimlich. Hast du keine Angst?"
-1108,,"Non ho voglia di pulire la Fattoria
-oggi... Forse dovrei andare a dirlo a Mirei?","今天輪到我打掃農場島，真提不起幹勁啊……
+1108,,"Non ho voglia di pulire la Fattoria oggi...
+Forse dovrei andare a dirlo a Mirei?","今天輪到我打掃農場島，真提不起幹勁啊……
 現在去跟米蕾說「我不幹」吧？",,"오늘은 팜 청소당번이야. 하기 싫다…
 지금이라도 미레이한테「싫어」라고 말하고 올까?","Ich will heute nicht die Farm putzen ...
 Vielleicht sollte ich das Mirei sagen?"
-1109,,"Ho sentito che uno di voi ""investigatori""
-umani può migliorare le mie indagini! Vero?","聽說在名為偵探的人類指導下，
+1109,,"Uno di voi “detective” può aiutarmi a indagare!
+E' vero?","聽說在名為偵探的人類指導下，
 就會變得很擅長調查！　你也是偵探對吧？",,"탐정이라는 이름을 가진 인간에게 배우면 조사가
 잘 된대! 너도 탐정이지?","Einer von euch „Detektiven“ kann mir
 beim Ermitteln helfen! Stimmt das?"
-1110,,"Ultimamente mi sono dedicato a prendere il sole.
+1110,,"Ultimamente mi piace molto prendere il sole.
 Spaziare sotto il Signor Sole è il massimo!","我最近喜歡上了日光浴～
 我很喜歡像這樣在太陽底下發呆的時光……",,"요즘엔 일광욕을 좋아해. 이렇게 햇님
 아래에서 멍하니 있는 시간이 좋아...","In letzter Zeit sonne ich mich so gerne.
 Mit Frau Sonne ist es am schönsten."
 1111,,Oggi mi sento un po' fiacco...,嗚……總覺得身體好沉重，很倦怠……,,우…어쩐지 몸이 무겁고 나른해…,Ich bin heute etwas träge ...
-1112,,"Ehi, che genere di
-cose ti piacciono? Non so molto di te...","吶，告訴我你喜歡什麼吧！
+1112,,"Ehi, che genere di cose ti piacciono?
+Non so molto di te...","吶，告訴我你喜歡什麼吧！
 話說回來，我似乎不太了解你呢",,"저기, 네가 좋아하는 걸 가르쳐줘!
 생각해보니 너에 대해 잘 모르고 있는 것 같아서","Hey, was magst du so?
 Ich weiß nicht gerade viel über dich ..."
-1113,,"""Investigare"" significa cercare casi o
-oggetti, giusto? Beh, farò del mio meglio!","所謂調查，就是去尋找委託或道具對吧？
+1113,,"""Investigare"" significa cercare casi o oggetti,
+giusto? Beh, farò del mio meglio!","所謂調查，就是去尋找委託或道具對吧？
 聽起來很困難呢……但我會努力的！",,"조사란건 의뢰나 아이템을 탐색하는거지?
 어려울 것 같네…그래도 열심히 해볼게!","Ermitteln heißt, Fälle oder Items
 suchen, ja? Ich gebe mein Bestes!"
-1114,,"Il solo allenamento può davvero
-renderti più forte? Bene, mettiamoci al lavoro!","嗯～只有這項訓練，真的能夠變強嗎？
+1114,,"Il solo allenamento può davvero renderti più forte?
+Bene, mettiamoci al lavoro!","嗯～只有這項訓練，真的能夠變強嗎？
 多進行一些訓練吧！",,"으음, 정말로 이곳의 트레이닝만으로 강해
 질 수 있는걸까? 좀 더 트레이닝 해보자!","Kann Training allein einen wirklich
 stärker machen? Probieren wir’s aus!"
@@ -101,8 +99,8 @@ un essere umano, ma non mi viene in mente nulla...","前陣子朋友問我，如
 ……但我腦筋一片空白",,"얼마 전에 인간이 되면 뭘 하고 싶어? 하고 친구가
 물어봤는데…아무것도 떠오르지 않았어.","Ein Freund hat gefragt, was ich als
 Mensch tun würde – keine Ahnung ..."
-1116,,"Ehi, che tipo di musica ti piace? Porta
-la tua canzone preferita la prossima volta!","吶，你平時都聽哪種音樂呀？
+1116,,"Ehi, che tipo di musica ti piace?
+Porta la tua canzone preferita la prossima volta!","吶，你平時都聽哪種音樂呀？
 下次告訴我你喜歡的曲子吧！",,"있잖아, 너는 평소에 어떤 음악을 들어?
 이번엔 네가 좋아하는 곡을 가르쳐줘!","Hey, was für Musik magst du? Bring
 nächstes Mal dein Lieblingslied mit!"
@@ -111,23 +109,23 @@ sembra una nuvola? Voglio toccarlo!","吶吶！　我聽說人類的食物之中
 有像天上的雲朵一樣的食物，是真的嗎？　我想摸看看！",,"저기저기, 인간들의 음식 중엔 구름 같은 것이 있다는게
 진짜야? 만져보고 싶다!","Gibt es echt Menschenessen, das aussieht
 wie Wolken? Das will ich anfassen!"
-1118,,"Mirei mi ha detto di parlarti di
-più, quindi lo farò! A presto!","米蕾要我和你多多交流
+1118,,"Mirei mi ha detto di parlarti di più,
+quindi lo farò! A presto!","米蕾要我和你多多交流
 所以讓我們多多聊天吧！　我會再和你聯絡～！",,"미레이가 너와 커뮤니케이션을 하라고 했으니까
 더 이야기하자! 또 연락할게!","Mirei sagt, ich soll mehr mit dir reden,
 also tue ich das! Bis bald!"
-1119,,"Ehi, giochiamo a ""Luce rossa, luce verde"" la
-prossima volta che sei libero! Per favore?","吶，下次一起玩「123木頭人」吧？
+1119,,"Ehi, giochiamo a ""Luce rossa, luce verde"" quando hai
+di nuovo tempo. Per favore?","吶，下次一起玩「123木頭人」吧？
 等你有空時再陪我就行！……可以嗎？",,"저기, 다음에 같이「무궁화 꽃이 피었습니다」하고 놀자!
 시간이 있을 때라도 괜찮아!   …싫어?","Hey, spielen wir „Ochs am Berg“, wenn
 du wieder Zeit hast? Bitte, bitte!"
-1120,,"Sapevi che quest'isola ha una
-ferrovia? Significa che una volta c'era un treno?","你知道這座島上有短途鐵軌嗎？
+1120,,"Sapevi che quest'isola ha una ferrovia?
+Significa che una volta c'era un treno?","你知道這座島上有短途鐵軌嗎？
 也就是說，以前這裡有電車～？",,"이 섬에는 짧은 선로가 있는데 알고 있어?
 그렇단건 옛날엔 여기에 전차가 다녔단 뜻?","Wusstest du, dass es auf der Insel
 Schienen gibt? Fuhr hier mal ein Zug?"
-1121,,"Scuotere gli alberi della fattoria fa cadere i
-frutti! Li adoro, ma non ne posso sopportare troppo.","農場島裡的樹，只要搖一搖，就會有果實掉落喔！
+1121,,"Scuotere gli alberi della fattoria fa cadere i frutti!
+Li adoro, ma non ne posso sopportare troppo.","農場島裡的樹，只要搖一搖，就會有果實掉落喔！
 雖然很好吃，但我被教訓說不能拿太多",,"팜에 있는 나무는 흔들면 열매가 떨어져!
 맛있지만 너무 떨어뜨리면 안된다고 그러더라.","Schüttelt man die Bäume, fallen Früchte
 runter. Köstlich, aber so sättigend."
@@ -142,52 +140,52 @@ aiutarti, quindi insegnami un sacco di cose fantastiche!","能夠變得更強、
 所以教我更～多知識吧！",,"더 강해져서 너에게 도움이 되면 기쁘겠는걸!
 그러니까 이것저것 잔뜩 가르쳐줘!","Ich will stark genug werden, um dir zu
 helfen, also zeig mir die coolen Moves!"
-1125,,"Ehi, è vero che ti sei rotto un osso alle elementari
-mentre cercavi di far volare un aquilone?","吶吶！　聽說你小學的時候，因為想飛上天空，
+1125,,"Hai davvero avuto un incidente facendo volare un
+aquilone a scuola?","吶吶！　聽說你小學的時候，因為想飛上天空，
 所以跨在掃把上玩，結果摔成骨折，是真的嗎～？",,"저기저기, 초등학생 때 하늘을 날고 싶어서 빗자루에
 올라타고 놀다가 뼈가 부러졌다는게 진짜야?","Hattest du in der Schule echt einen
 Unfall beim Drachenfliegen?"
 1126,,"Ciao, hai fratelli o sorelle?",吶吶，你有兄弟姊妹嗎？,,"저기저기, 넌 형제같은거 있어?",Hast du eigentlich Geschwister?
-1127,,"Il mio amico ha detto che la fattoria è
-sicura, ma fuori è pericoloso, vero? Che paura.","朋友們說農場島裡很安全
+1127,,"Il mio amico ha detto che la fattoria è sicura,
+ma fuori è pericoloso, vero? Che paura.","朋友們說農場島裡很安全
 不過外頭更危險吧？　嗚嗚，好可怕……",,"팜은 안전하다고 친구가 그랬어.
 그렇지만 바깥은 더 위험한거지? 으으 무서워…","Mein Freund sagt, die Farm ist sicher,
 aber draußen ist es gefährlich. Gruslig."
-1128,,"Oggi ho sonno... prendiamocela
-comoda. Sarebbe più divertente così, no?","今天也好想睡……我想過得更悠閒吶
+1128,,"Oggi ho sonno... prendiamocela comoda.
+Sarebbe più divertente così, no?","今天也好想睡……我想過得更悠閒吶
 悠哉過活比較快樂吧？",,"오늘도 졸려… 좀 더 느긋하게 지내고 싶다아.
 그러는 편이 즐겁잖아?","Ich bin heute müde ... Mach langsam,
 dann macht alles mehr Spaß, ja?"
-1129,,"Ho sentito dire che le danze popolari dei
-Digimon stanno diventando popolari. Non vedo il problema...","你知道嗎～？現在數碼歌舞伎似乎很流行唷。
+1129,,"Ho sentito dire che le danze popolari dei Digimon
+stanno diventando popolari. Non vedo il problema...","你知道嗎～？現在數碼歌舞伎似乎很流行唷。
 數碼松數碼衛門，一樣是數碼寶貝喔！",,"그거 알아? 지금 디지가부키라는게 유행하고 있대.
 디지마츠 디지에몽, 같은 디지몬이라구!","Digimon-Kabuki soll gerade angesagt
 sein. Weiß nicht, was so toll daran ist."
-1130,,"Non sono ancora abituato alla presenza di tutti
-qui. Sarebbe bello se andassimo d'accordo, però!","唔……其實，我和這裡的大家還不太熟
+1130,,"Non sono ancora abituato alla presenza di tutti qui.
+Sarebbe bello se andassimo d'accordo, però!","唔……其實，我和這裡的大家還不太熟
 雖然我很想很想和它們融洽地聊天",,"우... 실은, 아직 여기에 있는 모두와 아직 친해지지 못했어.
 사실은 더 더 친하게 대화하고 싶은데에.","Ich hab mich noch nicht an alle gewöhnt.
 Aber wir sollten miteinander auskommen."
-1201,,"Ora che ci penso, ci sono molti esseri
-umani spaventosi là fuori?",我覺得……人類似乎有許多性格可怕的人？,,생각해봤는데… 인간 중엔 무서운 성격인 사람이 많은건가?,"Apropos, gibt es da draußen viele
+1201,,"Ora che ci penso, ci sono molti esseri umani
+spaventosi là fuori?",我覺得……人類似乎有許多性格可怕的人？,,생각해봤는데… 인간 중엔 무서운 성격인 사람이 많은건가?,"Apropos, gibt es da draußen viele
 gruselige Menschen?"
 1202,,"Sono stufo di allenarmi sempre qui.
 Che ne dici di portarmi fuori adesso?","光是在這裡鍛鍊自己，有點無聊啊
 快點帶我去外頭吧？",,"여기서 자신을 단련하기만 하는건 따분하군.
 빨리 밖으로 데려가 주지 않겠나?","Ich will nicht dauernd nur trainieren.
 Nimm mich doch mal mit nach draußen!"
-1203,,"Allora senti questa, ho fatto uno strano
-sogno stanotte. Vedi, io, uh... cos'era di nuovo?","你願意聽我說嗎？　昨天我做了一個奇妙的夢
+1203,,"Allora...la scorsa notte ho fatto uno strano sogno.
+Vedi, io, uh... cos'era di nuovo?","你願意聽我說嗎？　昨天我做了一個奇妙的夢
 那個夢很有趣……唔，是什麼夢呢",,"들어보겠나? 오늘은 조금 이상한 꿈을 꿨어.
 그래서 재미있었는데…으음, 뭐였지.","Stellt dir vor, letzte Nacht hatte ich
 einen komischen Traum. Ich, äh ... was?"
-1204,,"Ho dormito benissimo e mi sono alzato un
-po' presto. Oggi sarà una bella giornata!","今天起床時覺得神清氣爽
+1204,,"Ho dormito benissimo e mi sono alzato un po' presto.
+Oggi sarà una bella giornata!","今天起床時覺得神清氣爽
 能這麼早起，今天似乎會是美好的一天呢",,"오늘은 개운하게 일어났어.
 빨리 일어났으니 좋은 하루가 될 것 같아.","Ich habe gut geschlafen und war früh
 wach. Heute wird ein guter Tag!"
-1205,,"Ho visto gli altri farlo, quindi ci ho
-provato, ma questa cosa della DigiLine è dura.","農場島裡的數碼寶貝們都在數碼連線
+1205,,"Ho visto gli altri farlo, quindi ci ho provato,
+ma questa cosa della DigiLine è dura.","農場島裡的數碼寶貝們都在數碼連線
 我也試了一下……但果然很困難吶",,"팜 디지몬들이 하고 있길래
 처음으로 해 봤는데…디지라인은 어렵군.","Ich wollte es auch mal ausprobieren,
 aber dieses Digiline ist kompliziert."
@@ -196,8 +194,7 @@ volta che vieni a trovarci? Del cibo sarebbe l'ideale.","下次你來農場島�
 如果是食物就太感謝了",,"다음에 팜에 올 땐 뭔가 선물같은걸
 준비할 수 없나? 먹을거면 고맙겠어.","Bring bei deinem nächsten Besuch doch
 eine Kleinigkeit mit. Essen wäre gut."
-1207,,"Non ti spaventi quando affronti un
-hacker poco esperto?","當你面對壞蛋駭客的時候
+1207,,"Non ti spaventi quando affronti un hacker cattivo?","當你面對壞蛋駭客的時候
 不會感到恐懼嗎？",,"너는 나쁜 해커와 맞설 때
 공포를 느끼진 않나?","Hast du keine Angst, wenn du gegen einen
 bösen Hacker kämpfst?"
@@ -206,8 +203,8 @@ Caspita, che seccatura. Dovrei lamentarmi?","今天似乎輪到我打掃農場�
 但打掃真是太無趣了，我該找御神樂米蕾抗議嗎",,"오늘은 팜 청소당번인가 뭔가 하는걸 맡았는데…
 청소는 너무 지루해. 미카구라 미레이에게 항의해야겠군.","Heute muss ich die Farm putzen ... So
 was Ödes. Soll ich mich beschweren?"
-1209,,"Sento che gli umani chiamano gli
-investigatori esperti ""segugi""... Sei uno di quelli?","人類之中似乎有調查的專家
+1209,,"Sento che gli umani chiamano gli investigatori
+esperti ""segugi""... Sei uno di quelli?","人類之中似乎有調查的專家
 應該是叫做偵探……你也是偵探嗎？",,"인간 중엔 조사 전문가가 있다고 하더군.
 탐정, 이라고 부르나보던데… 너도 그런가?","Die Menschen nennen Profi-Ermittler
 „Detektive“. Bist du einer von denen?"
@@ -217,8 +214,7 @@ tempo, vado a rilassarmi sotto un raggio di sole.","我最近很喜歡日光浴�
 받으며 멍하니 지내고 있어.","In letzter Zeit sonne ich mich gerne.
 Das ist meine Freizeitentspannung."
 1211,,Ugh... non mi sento tanto bene.,不妙……身體狀況似乎不太好,,안되겠군…아무래도 몸 상태가 좋지 않은 것 같다.,Puh ... Mir geht’s nicht so gut.
-1212,,"Che tipo di cose ti
-piacciono? Non so molto di te.","你喜歡什麼東西？
+1212,,"Che tipo di cose ti piacciono? Non so molto di te.","你喜歡什麼東西？
 沒什麼……只是覺得對你還不太了解",,"너는 어떤 것을 좋아하지?
 아니…너에 대해 아직 잘 모르는 것 같아서.","Was magst du so? Ich weiß nicht
 besonders viel über dich."
@@ -237,8 +233,8 @@ farei se diventassi umana. Non riesco a immaginare...","前幾天朋友問我，
 變成人類什麼的，現階段我無法想像吶",,"얼마 전 친구가 혹시 인간이 된다면 뭘 하고 싶냐고
 묻더군. 인간이 된다니 지금은 상상도 할 수 없겠는데.","Neulich fragte ein Freund, was ich als
 Mensch tun würde. Keine Ahnung ..."
-1216,,"Che tipo di musica ascolti di
-solito? La prossima volta, portane una che ti piace.","你平時喜歡聽什麼樣的音樂？
+1216,,"Che tipo di musica ascolti di solito?
+La prossima volta, portane una che ti piace.","你平時喜歡聽什麼樣的音樂？
 下次告訴我你喜歡的曲子吧",,"너는 평소에 어떤 음악을 즐겨듣지?
 이번엔 네가 좋아하는 곡을 가르쳐줬으면 해.","Was für Musik hörst du so? Bring
 nächstes Mal was mit, das dir gefällt."
@@ -267,30 +263,28 @@ Anche se sono gustosi, non ne possiamo prendere troppi.","農場島裡的樹，�
 雖然很好吃，但島上規定不可以拿太多",,"팜에 있는 나무는 흔들면 열매가 떨어지지.
 맛있지만 지나치게 따지 않는 것이 섬의 규칙이다.","Von den Bäumen fallen Früchte runter.
 Lecker, aber ziemlich schwer für uns."
-1222,,"Dimmi, che tipo di persona è
-tua madre?",我方便問你嗎？你的母親是什麼樣的人？,,물어봐도 될까. 네 어머니는 어떤 사람이지?,"Sag mal, was ist deine Mutter für ein
+1222,,"Dimmi, che tipo di persona è tua madre?",我方便問你嗎？你的母親是什麼樣的人？,,물어봐도 될까. 네 어머니는 어떤 사람이지?,"Sag mal, was ist deine Mutter für ein
 Mensch?"
 1223,,"Ehi, che tipo di persone sono i tuoi amici?",吶，你的朋友都是怎麼樣的傢伙？,,"이봐, 네 친구는 어떤 녀석이지?","Hey, wie sind denn deine Freunde so?"
-1224,,"...Saresti felice se mi
-accendessi qui? Ok, darò il massimo. Aiutami!","……在這裡變強的話，你會很高興吧？
+1224,,"Vuoi che diventi più forte qui? Bene, darò il
+massimo. Aiutatemi!","……在這裡變強的話，你會很高興吧？
 明白了，我會竭盡全力，希望你也能協助我",,"……여기서 강해지면 너는 기뻐하겠지?
 알겠다. 힘껏 노력해보지. 너도 협력해줘.","Du möchtest, dass ich hier stärker
 werde? Gut, ich gebe alles. Hilf mir!"
-1225,,"Ho sentito dire che eri il miglior
-lavavetri della tua scuola elementare, è vero?","我聽說……比賽用抹布擦地板時，你經常得到第一名，
+1225,,"Ho sentito dire che eri il miglior lavavetri
+della tua scuola elementare, è vero?","我聽說……比賽用抹布擦地板時，你經常得到第一名，
 是你小學時唯一能自豪的事，這是真的嗎？",,"들은 이야기인데…걸레질 경쟁에서 항상 톱이었다는게
 초등학생 시절의 유일한 자랑이었다는게 사실인가?","Du sollst an deiner Schule der beste
 Tafelputzer gewesen sein. Stimmt das?"
-1226,,"Mi chiedevo solo se hai
-fratelli o sorelle.",我有點好奇，你有兄弟姊妹嗎？,,조금 신경쓰이는데 너에게 형제는 있나?,"Ich hab mich gerade gefragt, hast du
+1226,,"Mi chiedevo solo se hai fratelli o sorelle.",我有點好奇，你有兄弟姊妹嗎？,,조금 신경쓰이는데 너에게 형제는 있나?,"Ich hab mich gerade gefragt, hast du
 eigentlich Geschwister?"
 1227,,"Qui è così sicuro. È così facile rilassarsi...
 ma è davvero una buona cosa?","這裡是安全的地方，讓人很平靜
 但是……這麼悠哉沒問題嗎……",,"여기는 안전한 장소인거지. 마음이 진정된다.
 하지만…느긋하게 눌러앉아 있어도 되는걸까…","Hier ist es so sicher. So einfach, sich
 zurückzulehnen, aber ist das was Gutes?"
-1228,,"La vita in fattoria ha un limite. Un
-po' noiosa, in realtà.","在農場島裡生活，能做的事也有限
+1228,,"La vita in fattoria ha un limite. Un po' noiosa, in
+realtà.","在農場島裡生活，能做的事也有限
 感覺有些無聊吶",,"팜에서는 할 수 있는 것이 한정되어 있는 듯하다.
 조금 지루하겠군.","Auf der Farm ist nicht gerade viel los.
 Irgendwie langweilig."
@@ -304,16 +298,15 @@ ghiaccio con questi ragazzi. Hai qualche idea?","你願意聽我說嗎？　其�
 雖然我想和大家更親密地交流……該怎麼做呢",,"들어보겠나? 실은 아직 모두와 마음을 터놓지 못해서
 더 친하게 대화하고 싶다곤 생각하지만…어떻게 해야 할지.","Hey, ich bin mit den anderen hier noch
 nicht warm geworden. Vorschläge?"
-1301,,"Ehi, ci sono molti umani
-spaventosi là fuori?",吶，人類是不是有很多可怕的傢伙？,,"이봐, 인간 중엔 무서운 녀석이 많은건가?","Gibt es da draußen viele gruselige
+1301,,"Ehi, ci sono molti umani spaventosi là fuori?",吶，人類是不是有很多可怕的傢伙？,,"이봐, 인간 중엔 무서운 녀석이 많은건가?","Gibt es da draußen viele gruselige
 Menschen?"
-1302,,"Mi annoio ad allenarmi. Lasciate che ne
-faccia buon uso! Forza, portatemi fuori di qui.","光是訓練，已經讓我覺得厭倦了。
+1302,,"Mi annoio ad allenarmi. Lasciate che ne faccia
+buon uso! Forza, portatemi fuori di qui.","光是訓練，已經讓我覺得厭倦了。
 果然還是需要實戰！　吶，帶我去外頭吧",,"트레이닝만 하는 것도 질렸어. 역시 실전을
 해야 하는거잖아! 이봐, 바깥으로 데려가줘―","Das Training wird langweilig. Zeit für
 etwas Praxis! Na los, nimm mich mit."
-1303,,"Ho fatto un sogno strano
-stanotte... Uh, non ricordo. Era anche bello!","那個呀，我昨天做了一個有趣的夢……咦，我夢到什麼
+1303,,"Ho fatto un sogno strano stanotte... Uh, non ricordo.
+Era anche bello!","那個呀，我昨天做了一個有趣的夢……咦，我夢到什麼
 來著？　我可是從剛才就一直想告訴你的說！？",,"있잖아, 오늘은 재미있는 꿈을 꿔서… 응? 어라? 뭐더라?
 아까부터 말하고 싶어서 근질근질했었다고!?","Ich hatte einen lustigen Traum ... Mist,
 hab ihn vergessen. Der war echt gut!"
@@ -322,8 +315,8 @@ ma un po' più di tempo non guasterebbe, vero?","啊～難得這麼早起
 ……再多睡一會兒，也不要緊吧？",,"아― 왠일로 일찍 일어났네.
 …좀 더 자도 천벌은 받지 않겠지?","Hm, ich bin mal früh aufgestanden ...
 aber etwas Schlaf schadet nicht, oder?"
-1305,,"Agli altri sembra piacere questa cosa di
-DigiLine, ma... è divertente? Io non lo capisco.","因為其他傢伙都躍躍欲試的樣子，所以我也試了一下
+1305,,"Agli altri sembra piacere questa cosa di DigiLine,
+ma... è divertente? Io non lo capisco.","因為其他傢伙都躍躍欲試的樣子，所以我也試了一下
 所謂的數碼連線……很有趣嗎？　我真是搞不懂",,"다른 놈들이 즐겁게 하고 있길래 시작해 봤는데
 디지라인이란거… 재밌나? 잘 모르겠는거얼","Den anderen scheint dieses Digiline zu
 gefallen, aber ... Ich versteh’s nicht."
@@ -332,8 +325,8 @@ prossima volta che vieni. Giurami il mignolo!","吶吶，你下次來的時候�
 說定了喔！",,"이봐이봐, 다음에 여기 올 땐 뭔가
 맛있는거라도 가져와줘! 약속하는거다!","Hey, bring mir nächstes Mal was Gutes zu
 essen mit. Versprich es mir!"
-1307,,"Ci sono un sacco di hacker cattivi
-a EDEN, vero? Andarci non ti spaventa?","在EDEN裡，有很多壞蛋駭客出沒吧？
+1307,,"Ci sono un sacco di hacker cattivi a EDEN, vero?
+Andarci non ti spaventa?","在EDEN裡，有很多壞蛋駭客出沒吧？
 你去那種地方，不覺得害怕嗎？",,"EDEN에는 나쁜 해커가 바글대는거지?
 그런 곳으로 가다니 무섭지 않은거야?","Es gibt unzählige böse Hacker in EDEN,
 stimmt’s? Fürchtest du dich dort nicht?"
@@ -347,8 +340,8 @@ un bravo investigatore. Qual è il tuo segreto?","你是偵探對吧？　我聽
 快教我調查的訣竅之類的！",,"너 탐정이지? 탐정이란건 조사가 특기라고
 들었다구. 잘 하는 비결같은걸 가르쳐줘!","Du bist ein Detektiv und angeblich ein
 guter Ermittler. Was ist dein Geheimnis?"
-1310,,"Forse non lo dimostro, ma mi
-piace sdraiarmi al sole, sai? E a te?","或許你會感到意外，但我蠻喜歡一邊曬太陽，
+1310,,"Forse non lo dimostro, ma mi piace sdraiarmi al sole,
+sai? E a te?","或許你會感到意外，但我蠻喜歡一邊曬太陽，
 一邊發呆。你要和我一起嗎？",,"의외라고 생각하겠지만 햇볕을 쬐며
 멍하니 있는것도 좋아해. 너도 해볼래?","Ich sehe vielleicht nicht so aus, aber
 ich liege gern in der Sonne. Und du?"
@@ -368,7 +361,7 @@ Sembra difficile, ma ci proverò.","所謂調查，就是去尋找委託或道�
 허리가 휘겠는데… 그래도 기왕 하는거 힘낼거야.","Ermitteln bringt Fälle und Items? 
 Klingt hart, aber ich versuch’s."
 1314,,"L'allenamento in fattoria è sufficiente a rendermi
-duro? Va bene, allora aumenterò il mio programma!","光是靠農場島的訓練，真的能變強嗎？
+forte? Va bene, allora aumenterò il mio programma!","光是靠農場島的訓練，真的能變強嗎？
 一口氣增加練習量看看吧！",,"팜 트레이닝만으로도 정말 강해지는거야?
 한번 팍 하고 연습량을 늘려볼까!","Durch das Farmtraining werde ich stark?
 Na schön, dann häng ich mich rein!"
@@ -387,12 +380,12 @@ umano a forma di nuvola. Come si chiama?","說起來，人類有種像雲一樣�
 那叫做什麼來著……",,"그러고보니 인간의 음식 중엔 구름같은 것이 있지?
 그거 뭐라고 했더라...","Oh ja, ich habe von wolkenförmigem
 Menschenessen gehört. Wie hieß das?"
-1318,,"Mirei dice che dovrei comunicare con te
-più spesso. Aspettatevi mie notizie presto!",米蕾她啊，要我多和你交流，所以我會再和你聯絡！,,"미레이가 너하고 좀 더 커뮤니케이션을 해라
+1318,,"Mirei dice che dovrei comunicare con te più spesso.
+Aspettatevi mie notizie presto!",米蕾她啊，要我多和你交流，所以我會再和你聯絡！,,"미레이가 너하고 좀 더 커뮤니케이션을 해라
 라고 하더라. 그러니까 또 연락할게!","Mirei sagt, ich soll mich mehr mit dir
 unterhalten. Du hörst noch von mir!"
-1319,,"Conosci il gioco ""Semaforo rosso,
-semaforo verde""? Giochiamoci quando sei libero!","吶，你知道「123木頭人」這種遊戲嗎？
+1319,,"Conosci il gioco ""Semaforo rosso, semaforo verde""?
+Giochiamoci quando sei libero!","吶，你知道「123木頭人」這種遊戲嗎？
 等你有空時也沒關係，一起來玩吧？",,"이봐,「무궁화 꽃이 피었습니다」란 놀이 알아?
 시간 있을 때 괜찮다면 같이 놀자구~?","Kennst du das Spiel „Ochs am Berg“?
 Lass es uns spielen, wenn du Zeit hast!"
@@ -408,8 +401,8 @@ Non ne posso prendere troppo, ma amico, è buono!","農場島裡的樹，只要�
 sind zwar schwer, aber verdammt lecker!"
 1322,,"Ehi, com'è tua madre?",吶，你的媽媽是什麼樣的人？,,"저기, 너희 엄마는 어떤 사람이야?","Hey, wie ist denn deine Mutter so?"
 1323,,E i tuoi amici come sono?,吶吶，你的朋友都是怎麼樣的傢伙？,,"이봐이봐, 네 친구는 어떤 녀석이 있어?",Erzähl mal was von deinen Freunden.
-1324,,"Mi alleno qui solo per diventare
-un Digimon forte? Capito. Aiutami, allora!","只要待在這裡特訓，變成強大的數碼寶貝就行了吧？
+1324,,"Mi alleno qui solo per diventare un Digimon forte?
+Capito. Aiutami, allora!","只要待在這裡特訓，變成強大的數碼寶貝就行了吧？
 明白了，你也要幫我啊！",,"여기서 특훈해서 강한 디지몬이 되면 좋은거지?
 알겠어. 그러니 너도 협력하라구!","Ich trainiere hier, um ein starkes
 Digimon zu werden? Verstanden. Hilf mir!"
@@ -418,11 +411,10 @@ colazione il giorno della gara di atletica e hai perso!","欸，我聽說囉！�
 因為忘記帶中午的便當，結果以跑百米的速度衝回家啊！",,"이봐, 들었어! 운동회 당일 점심 도시락을 잊어서
 경기 할 때 같은 스피드로 집으로 돌아간 적이 있다며!","Hast du vor dem Schulwettlauf echt das
 Frühstück vergessen und dann verloren?"
-1326,,"È casuale, ma... hai
-fratelli o sorelle?",吶，雖然有點唐突……你有兄弟姊妹嗎？,,"이봐, 갑작스럽지만… 너 형제는 있어?","Ich frag einfach mal ins Blaue ...
+1326,,"Chiedo solo per curiosità... Hai fratelli e sorelle?",吶，雖然有點唐突……你有兄弟姊妹嗎？,,"이봐, 갑작스럽지만… 너 형제는 있어?","Ich frag einfach mal ins Blaue ...
 Hast du Geschwister?"
-1327,,"Sono contenta che la fattoria sia così sicura,
-potrei fare un pisolino tutto il giorno! ...Okay, non proprio.","農場島是安全地帶，真是太好了
+1327,,"Sono contenta che la fattoria sia così sicura, potrei
+fare un pisolino tutto il giorno! ...Okay, non proprio.","農場島是安全地帶，真是太好了
 能盡情悠哉地睡午覺！　雖然也不該這樣就是了",,"팜이 안전한 장소라 다행이야.
 느긋하게 낮잠을 자고 싶은만큼! 은 아니지만 말야.","Die Farm ist so sicher, dass ich immer
 schlafen könnte! Na ja, nicht wirklich."
@@ -431,13 +423,13 @@ Voglio fare le cose a modo mio.","特訓……還有調查之類的？　這些�
 我想更隨興地生活呀",,"특훈이나…조사같은거? 그거 정말 해야하는거야?
 더 자유롭게 생활하고 싶어.","Trainieren und ... ermitteln, oder? Muss
 das sein? Ich will machen, was ich will."
-1329,,"Questi ballerini folk Digimon sono
-fantastici, secondo me. Sono fantastici sul palco!","數碼松數碼衛門的數碼歌舞伎，似乎很有趣。
+1329,,"Questi ballerini folk Digimon sono fantastici,
+secondo me. Sono fantastici sul palco!","數碼松數碼衛門的數碼歌舞伎，似乎很有趣。
 同為數碼寶貝，它能登台表演什麼的，還真厲害啊！",,"디지마츠 디지에몽이란 녀석의 디지가부키란게 재밌다더라.
 같은 디지몬인데도 무대에 오른다니 굉장한데!","Ich finde Digimon-Kabuki okay.
 Auf der Bühne sind sie echt gut!"
-1330,,"Detto tra noi, non vado ancora
-d'accordo con gli altri. Qualche idea?","希望你別跟其他人說，我和這裡的大家還是有隔閡。
+1330,,"Detto tra noi, non vado ancora d'accordo con gli altri.
+Qualche idea?","希望你別跟其他人說，我和這裡的大家還是有隔閡。
 怎麼辦好呢……",,"여기서만 하는 말인데, 아직 이곳에 있는 모두와
 마음을 터놓지 못했어. 어떻게 해야하지…","Mal unter uns, ich komme mit den anderen
 noch nicht so gut aus. Ideen?"
