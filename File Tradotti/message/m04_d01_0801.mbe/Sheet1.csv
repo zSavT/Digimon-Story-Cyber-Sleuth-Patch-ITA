@@ -1,23 +1,22 @@
 ﻿ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
 1,3004,,Ehi. Te ne sei accorto?,喂……你有發現嗎？,,"…야, 눈치챘어?",He. Merkst du was?
 2,2000,,...,……………,,……………,...
-3,3004,,"Tu, ascoltami bene, o dovrei dire,
-""Detective"". Qualcosa ci sta seguendo da un po'.","你這樣也算偵探嗎……？
+3,3004,,"Ascoltami bene, ""Detective"".
+Qualcosa ci sta seguendo da un po'.","你這樣也算偵探嗎……？
 從剛才就一直有人“跟蹤”我們！",,"……댁, 그러고도 탐정이냐…
 우리들, 좀 전부터 ""미행당하고"" 있어","Hör mal zu, du „Detektiv“.
 Etwas folgt uns schon seit einer Weile."
 4,2000,,?!,！？,,!?,?!
-5,3004,,"Non so esattamente chi o cosa. Se un
-Digimon, un fantasma, oppure lei.","只是不曉得……
+5,3004,,"Non so esattamente chi o cosa.
+Se un Digimon, un fantasma, oppure lei.","只是不曉得……
 到底是數碼寶貝、幽靈，還是那個大姐……",,"디지몬인지 유령인지, 아니면 그 누나인지…
 정체는 모르겠지만 말이야…","Ich weiß nicht genau, wer oder was.
 Ein Digimon, ein Geist oder vielleicht sie."
 6,3004,,Mostrati! Fatti vedere!,是誰！？不要鬼鬼祟祟，給我出來！！,,"누구냐!? 살금살금 따라오지 말고, 나와!!",Zeig dich! Komm raus!
 7,4280,,"Oh cavolo, mi avete scoperto!",哎呀，被發現了嗎？,,"이런, 들켜 버렸군요!","Huch, man hat mich entdeckt!"
 8,4281,,"Oh cielo, oh cielo, ma buongiorno!",嗨，哈囉，你們好啊，你們好啊！,,"이거이거, 이거, 안녕하세요, 안녕하세요!","Gute Güte, guten Tag auch!"
-9,4281,,"Ehi, piano. Non così in fretta. Non
-sono una minaccia, ve lo posso
-assicurare!","哎呀，你們不要戒心這麼重嘛！
+9,4281,,"Aspetti, si calmi, si calmi.
+Non sono una minaccia, ve lo posso assicurare!","哎呀，你們不要戒心這麼重嘛！
 我絕對不是什麼可疑人物！",,"어이쿠, 그렇게 경계하지 말아 주세요
 저는, 결코 수상한 사람이 아닙니다!","Moment, ganz ruhig, immer mit der Ruhe.
 Vor mir braucht ihr keine Angst zu haben,
@@ -39,9 +38,8 @@ einen Durchbruch schaffen kann. Ich wäre aber
 trotzdem dankbar für einen Assistenten."
 15,3009,,"Te lo assicuro, è una compagnia terribile.",真是不人道的公司啊！,,"정말이지, 너무한 회사입니다","Ich sag es euch, die Firma ist schrecklich."
 16,3004,,Perché ci stavi seguendo?,你為什麼要跟蹤我們？,,"…어째서, 우리들을 미행한 거지?",Warum bist du uns gefolgt?
-17,3009,,"Non pensavo ci fossero umani più avanti
-di me. Volevo solo osservare
-la situazione.","沒有，我只是沒想到居然有其他人類比我先到，
+17,3009,,"Non avrei mai pensato che ci fossero persone che sono arrivate più lontano di me.
+Volevo guardare per un po'.","沒有，我只是沒想到居然有其他人類比我先到，
 所以想先觀察一下。",,"이거 참, 저보다 먼저 와 있는 사람이 있을 거라곤 생각지도 못해서…
 잠시 상황을 지켜보고 있었습니다","Ich hätte nicht gedacht, dass es Menschen gibt,
 die es schon weiter geschafft haben als ich.
@@ -52,14 +50,14 @@ Oh caspita, quanto mi dispiace. Perdonatemi.","造成你們的不愉快，
 이거 정말 죄송합니다… 사죄하겠습니다","Habe ich euch beunruhigt?
 Das ist unverzeihlich. Entschuldigung."
 19,3004,,"Beh, non è un grosso problema.",呃……是不用啦。,,"아니… 뭐, 별로 상관없어","Ach, halb so wild."
-20,3004,,"Ma se vuoi così tanto scusarti, allora
-dicci cos'è questo. Vogliamo saperlo.","不過，既然你有心賠罪的話，那就告訴我們你知道的事！
+20,3004,,"Ma se vuoi così tanto scusarti, perché non mi dici di cosa si tratta?
+Vogliamo saperlo.","不過，既然你有心賠罪的話，那就告訴我們你知道的事！
 我們也想知道“這個”到底是什麼？",,"그래도, 사죄할 생각이 있다면, 알고 있는 걸 가르쳐 줘
 우리들도 ""이게"" 대체 뭔지, 알고 싶으니까","Aber wenn du schon reumütig gestimmt bist,
 dann sag uns doch, was das hier ist.
 Das würden wir gerne wissen."
-21,3009,,"Oh, cielo. Se la metti in questo modo, non
-posso sicuramente rifiutarmi.",啊啊……既然你都這麼說了，我也無法拒絕啊。,,"이거이거… 그렇게 말씀하시면, 거절할 수가 없군요","Liebe Güte. So ausgedrückt kann ich euch das wohl
+21,3009,,"Oh, cielo. Se la metti in questo modo,
+non posso sicuramente rifiutarmi.",啊啊……既然你都這麼說了，我也無法拒絕啊。,,"이거이거… 그렇게 말씀하시면, 거절할 수가 없군요","Liebe Güte. So ausgedrückt kann ich euch das wohl
 kaum verwehren."
 22,3009,,"Posso contare sul fatto che non andrete in
 giro a spifferare tutto?",可以請你們保密嗎？,,"…부디 누설 금지로, 부탁드려도 되겠습니까?","Darf ich annehmen, dass ihr das nicht überall
@@ -67,42 +65,36 @@ herumerzählen werdet?"
 23,3004,,"Ma certo. Dico bene, [p]?",嗯嗯，我知道。[p]，可以吧？,,"그래, 알고 있어 …그렇지, [p]?","Klar doch.
 Stimmt’s, [p]?"
 24,3009,,"Molto bene, allora. Ve lo dirò!",好吧！那我就告訴你們吧！,,"좋습니다, 그럼 말씀드리도록 하죠!","Also gut, ich werde es euch erzählen!"
-25,3009,,"Ma tutto quello che sto per dirvi è frutto
-di un processo lavorativo e, nel migliore dei
-casi, solo una intuizione.","只是，我接下來要說的這些，
+25,3009,,"Ma questa storia deriva dal mio processo di lavoro
+e si basa al massimo su deduzioni logiche.","只是，我接下來要說的這些，
 都只是我從調查的過程中，引導出來的歸納式推論——",,"단, 지금부터 하는 얘기는, 어디까지나
 제가 조사 과정에서 도출해 낸, 귀납적 추론―","Doch diese Geschichte leitet sich aus meinem
 Arbeitsprozess ab und basiert bestenfalls
 auf logischen Folgerungen."
-26,3009,,"Vi avverto che quindi non è qualcosa
-di definitivo.",絕對不是結論，請兩位注意。,,결코 결론이 아니므로 주의해 주십시오,"Ich muss euch warnen, dass die Schlussfolgerung
+26,3009,,"Vi avverto che quindi non è qualcosa di definitivo.",絕對不是結論，請兩位注意。,,결코 결론이 아니므로 주의해 주십시오,"Ich muss euch warnen, dass die Schlussfolgerung
 noch nicht feststeht."
-27,3009,,"Per cominciare, parliamo dello spazio in cui
-ci troviamo.",那麼，我先來說明一下這個空間。,,"그럼 우선, 이 공간에 대해서 말씀드리도록 하죠","Fangen wir damit an, über den Raum um uns zu
+27,3009,,"Per cominciare, parliamo dello spazio in cui ci troviamo.",那麼，我先來說明一下這個空間。,,"그럼 우선, 이 공간에 대해서 말씀드리도록 하죠","Fangen wir damit an, über den Raum um uns zu
 sprechen."
-28,3009,,"Questo spazio esiste all'interno di un
-certo fenomeno. Siamo nel vortice di
-un'onda digitale speciale.","在怪異現象內部的這個空間……
+28,3009,,"Questo spazio esiste all'interno di un certo fenomeno.
+Siamo nel vortice di un'onda digitale speciale.","在怪異現象內部的這個空間……
 似乎有特殊的數碼波在流動。",,"현상의 내부인 이 공간…
 이곳에는 특수한 디지털 웨이브가 소용돌이치고 있는 모양입니다","Dieser Raum existiert innerhalb eines bestimmten
 Phänomens. Wir befinden uns im Strudel einer ganz
 besonderen digitalen Welle."
-29,3009,,"Sai a cosa mi riferisco? A
-un'Onda Digitale?",你們應該知道什麼是數碼波吧？,,…알고 계시지요? 디지털 웨이브,"Das ist euch ein Begriff, nicht wahr?
+29,3009,,"Sai a cosa mi riferisco?
+A un'Onda Digitale?",你們應該知道什麼是數碼波吧？,,…알고 계시지요? 디지털 웨이브,"Das ist euch ein Begriff, nicht wahr?
 Eine digitale Welle?"
-30,3004,,"È un flusso di energia che trasporta
-informazioni digitali, corretto?",就是傳送數碼資訊的能源流，對吧？,,디지털 정보를 옮기는 에너지의 흐름― 이잖아?,"Das ist ein Energiefluss, der digitale
+30,3004,,"È un flusso di energia che trasporta informazioni digitali, corretto?",就是傳送數碼資訊的能源流，對吧？,,디지털 정보를 옮기는 에너지의 흐름― 이잖아?,"Das ist ein Energiefluss, der digitale
 Informationen trägt, nicht wahr?"
 31,3009,,Brillante! Direttamente dai libri di testo.,非常好！如課本上完美的解答！,,훌륭합니다! 교과서대로의 대답입니다,Hervorragend! Genau so steht’s im Lehrbuch.
 32,3009,,"Potrebbe anche essere il mondo reale,
-ma è pur sempre un mondo fatto di
-informazioni digitali.","也就是說，這裡既是現實世界，
+ma è pur sempre un mondo fatto di informazioni digitali.","也就是說，這裡既是現實世界，
 也是由數碼資訊構築而成的世界。",,"즉, 이곳은 현실 세계이면서
 디지털 정보로 구성된 세계라는 게 됩니다","Hier sind wir zwar noch in der echten Welt,
 aber es ist dennoch eine Welt aus digitalen
 Informationen."
-33,3009,,"In parole povere... Il mondo reale si è
-trasformato in cyberspazio.","用極為簡潔有力的方式來解釋，
+33,3009,,"In parole povere...
+Il mondo reale si è trasformato in cyberspazio.","用極為簡潔有力的方式來解釋，
 也就是“現實世界被電腦空間化”了。",,"극히 간결하고 단적으로 표현하자면…
 ""현실 세계가 전뇌공간화 되었다""라는 겁니다","Ganz einfach ausgedrückt ...
 hat sich die echte Welt in Cyberspace verwandelt."
@@ -111,22 +103,18 @@ Persino il pensiero umano.","所以這裡的一切都會被數據化，
 包括人類的思想……",,"그렇기 때문에, 이곳에선 온갖 것이 데이터화 되어 버리죠
 인간의 사념조차도…","Demzufolge ist alles hier zu Daten geworden.
 Selbst der menschliche Verstand."
-35,3004,,"Questo è un bel salto logico, non
-credi?",這也扯太遠了吧！,,…지나친 비약 아니야?,"Das ist aber schon ein bisschen weit hergeholt,
+35,3004,,"Questo è un bel salto logico, non credi?",這也扯太遠了吧！,,…지나친 비약 아니야?,"Das ist aber schon ein bisschen weit hergeholt,
 nicht?"
-36,3009,,"Ehehe. Non lo nego. I miei
-colleghi spesso consideravano le mie idee
-piuttosto... eretiche.","呵呵呵……我不否認！
+36,3009,,"Ehehe. Non lo nego.
+I miei colleghi spesso consideravano le mie idee piuttosto... eretiche.","呵呵呵……我不否認！
 就連同行人都數度把我當成怪人看待！",,"쿠후후, 부정은 하지 않겠습니다
 동업자에게서도, 저는 종종 이단시되고 있으니까요","Haha. Das bestreite ich gar nicht.
 Meine Kollegen fanden meine Ideen oft geradezu ...
 ketzerisch."
-37,3009,,"Alcuni mi hanno persino paragonato a
-Nikola Tesla.",還有人把我比喻為偉人「尼古拉·特斯拉」呢。,,그 위인「니콜라 테슬라」에 비유된 적도 있습니다,"Manche haben mich sogar mit Nikola Tesla
+37,3009,,"Alcuni mi hanno persino paragonato a Nikola Tesla.",還有人把我比喻為偉人「尼古拉·特斯拉」呢。,,그 위인「니콜라 테슬라」에 비유된 적도 있습니다,"Manche haben mich sogar mit Nikola Tesla
 verglichen."
 38,3009,,"Beh, è più che positivo, ma cerco di
-non farmi montare troppo la testa
-dalle lodi.","不過這個說法我承受不起……
+non farmi montare troppo la testa dalle lodi.","不過這個說法我承受不起……
 過度的稱讚，我都不會輕易當真。",,"뭐, 이는 무척 황송하기에…
 과잉한 찬미로서 진심으로 받아들이지 않고 있습니다","Das ist zwar schön und gut, aber ich versuche
 zu vermeiden, dass mir das Lob zu sehr zu Kopf
@@ -163,22 +151,22 @@ nautilus bianca e nera? Quel programma inquietante?","啊！難道是那個黑�
 Meeresschnecke aussieht? Das abgedrehte Programm?"
 47,3009,,Precisamente!,就是它！,,바로 그겁니다!,Haargenau das!
 48,3009,,"Aver incontrato un Eater e avere ancora
-la possibilità di poterne parlare... Non sai
-quanto sei fortunato!","遇到侵食者居然還能平安無事……
+la possibilità di poterne parlare...
+Non sai quanto sei fortunato!","遇到侵食者居然還能平安無事……
 看來你們真的非常地走運。",,"이거 참, 이터와 조우하고도 무사하시다니…
 당신들은 운이 굉장히 좋으신가 보군요","Dass ihr einer Begegnung mit einem Verschlinger
 unversehrt entkommen seid ...
 Ihr wisst gar nicht, wie viel Glück ihr hattet!"
 49,3009,,"Quando un Eater colpisce qualcosa, tutti i
-dati che lo compongono vengono erosi e, di
-fatto, corrotti.","一旦被侵食者捕食，所有資料都會被侵蝕，
+dati che lo compongono vengono erosi e,
+di fatto, corrotti.","一旦被侵食者捕食，所有資料都會被侵蝕，
 然後就會「Bug化」。",,"왜냐하면, 이터에게 포식되면, 온갖 데이터는
 침식되고,「버그화」가 되어 버리거든요","Wenn ein Verschlinger seine Beute erwischt,
 gehen alle ihre Daten verloren und werden
 geglitcht."
 50,3004,,Corrotti? In che senso?,「Bug化」……會變成怎樣？,,버그화가 되면… 어떻게 되는데?,Geglitcht? Was heißt das denn?
-51,3009,,"Ogni struttura e algoritmo diventano dati
-disordinati. Corrotti, completamente difettosi.","結構與規則系統都會變成毫無秩序的資料……
+51,3009,,"Ogni struttura e algoritmo diventano dati disordinati.
+Corrotti, completamente difettosi.","結構與規則系統都會變成毫無秩序的資料……
 也就是“缺陷（Bug）”。",,"구조도 알고리즘도 무질서한 데이터가 되어 버립니다…
 말 그대로 ""결함(버그)""입니다","Aus Strukturen und Algorithmen werden ungeordnete
 Daten. Komplett defekte Informationen."
@@ -191,14 +179,14 @@ Una cosa davvero spaventosa!","非常可怕……！
 정말로 무서워요, 예, 예!","Meine Güte, wie schrecklich das doch wäre!
 Wirklich und wahrhaftig schrecklich!"
 54,3004,,"Praticamente, vieni divorato.",被捕食的話就完蛋了……是這個意思嗎？,,"먹히면 그걸로 끝, 이란 건가…",So wird man dann also verschlungen.
-55,3009,,"Questa è la teoria più diffusa, in ogni
-caso. Io non sono d'accordo, però.","雖然有人這麼想，
+55,3009,,"Questa è la teoria più diffusa, in ogni caso.
+Io non sono d'accordo, però.","雖然有人這麼想，
 但我不這麼認為。",,"……그렇게, 생각되고 있습니다만
 전 그렇게 생각하지 않습니다","So lautet zumindest die gängige Theorie.
 Der stimme ich jedoch nicht zu."
 56,3004,,Cosa?,什麼？,,…하?,Was?
-57,3009,,"Ci deve sempre essere un modo per ripristinare i
-dati. È illogico presumere altrimenti.","所有的資料，都一定有恢復原狀的方法，
+57,3009,,"Ci deve sempre essere un modo per ripristinare i dati.
+È illogico presumere altrimenti.","所有的資料，都一定有恢復原狀的方法，
 過去存在的東西消失無蹤，這個太不合理了。",,"모든 데이터는, 복원할 방법이 반드시 존재하죠―
 이전에 있었던 것이 완전히 사라진다는 건, 비논리적입니다","Daten muss man immer wiederherstellen können.
 Alles andere wäre unlogisch."
@@ -214,26 +202,24 @@ mit dem wir uns auskennen!"
 ricerca sugli Eater!",所以！我正在研究侵食者這個東西！,,그러므로! 전 이터 그 자체의 연구를 진행하고 있습니다!,"Ich führe meine Forschung über Verschlinger
 also weiter fort!"
 61,3004,,"Ehi signore, calmati!",等等，大叔！別失控啊！,,"잠깐, 아저씨! 갑자기 폭주하지 말라고…!",Moment mal!
-62,3004,,"Fammi capire bene. La Kamishiro
-è a conoscenza degli Eater? Non mi
-piace per niente.","我先確認一下，神代知道侵食者是什麼吧？
+62,3004,,"Fammi capire bene. La Kamishiro è a conoscenza degli Eater?
+Non mi piace per niente.","我先確認一下，神代知道侵食者是什麼吧？
 也知道侵食者的危險性嗎？",,"…확인해 두겠는데, 카미시로는 그 이터라는 것에 대해
 알고 있는 거지? 그 녀석이 위험하단 것도","Noch mal zum Mitschreiben. Kamishiro weiss,
 dass es diese Verschlinger gibt? Das klingt
 gar nicht gut."
-63,3009,,"Ovvio. Ecco perché sto portando
-avanti questa ricerca.","當然知道，
+63,3009,,"Ovvio.
+Ecco perché sto portando avanti questa ricerca.","當然知道，
 所以我才在這裡做研究。",,"그야, 물론이지요
 그래서, 제가 이렇게 연구를","Das versteht sich von selbst.
 Deshalb befasse ich mich mit dieser Forschung."
-64,3004,,"Cavolo! Quindi loro lo SAPEVANO! Quei
-maledetti amministratori mi hanno ostacolato.","嘖……！果然知道嗎……？
+64,3004,,"Cavolo! Quindi loro lo SAPEVANO!
+Quei maledetti amministratori mi hanno ostacolato.","嘖……！果然知道嗎……？
 那群管理員竟敢裝傻！",,"칫…! 역시 알고 있었구만…!
 운영진 녀석들, 시치미 떼고 말이야","Unfassbar! Sie haben also doch davon gewusst!
 Diese miesen Admins haben nur gemauert."
-65,3009,,"Beh, sono un'azienda che fornisce un
-servizio. Ci sono molte cose che devono
-rimanere riservate.","畢竟服務業的目的就是做生意……
+65,3009,,"Beh, sono un'azienda che fornisce un servizio.
+Ci sono molte cose che devono rimanere riservate.","畢竟服務業的目的就是做生意……
 當然會有很多祕密資訊。",,"뭐, 서비스는 어디까지나 비즈니스 목적이니까요…
 비밀로 해 두고 싶은 정보도, 이것저것 있어서 말이죠","Nun, es ist ein Unternehmen, das eine
 Dienstleistung bietet. Da fällt viel
@@ -242,8 +228,8 @@ Vertrauliches an."
 un'azienda terribile, no?",真的是很不人道的公司對吧？,,"…정말, 너무한 회사죠?","Ich habe doch gesagt, dass die Firma schrecklich
 ist. Oder etwa nicht?"
 67,3004,,C'è dell'altro che vorrei sapere.,趁這個機會，我想問問其他問題！,,"이참에, 그 밖에도 묻고 싶은 게 있는데?",Dazu will ich noch etwas fragen.
-68,3009,,"Sì, lo capisco. Se posso aiutare in
-qualche modo, lo farò. Chiedi pure!","嗯嗯！嗯嗯！
+68,3009,,"Naturalmente. Se posso rispondere, lo farò.
+Chiedete pure!","嗯嗯！嗯嗯！
 只要是我能回答的問題，都儘管問！",,"예, 예
 제가 대답할 수 있는 것이라면, 무엇이든지요!","Natürlich.
 Wenn ich antworten kann, werde ich es tun.
@@ -264,35 +250,32 @@ sta vagando da qualche parte qui intorno.","那我就直說了，我希望你們
 Verschlinger vertreiben, der hier vermutlich
 irgendwo herumstreift."
 75,3004,,Come scusa? C'è un Eater qui?,什麼……？這裡也有嗎？,,뭐…!? 이곳에도 이터가 있다는 거야!?,Wie? Hier ist auch ein Verschlinger unterwegs?
-76,3009,,"Non hai visto una strana apparizione poco
-fa? Forse lo conosci come il ""Fantasma del
-Ragazzo Pallido""?","剛才你們有看到「奇怪的畫面」嗎？
+76,3009,,"Non hai visto una strana apparizione poco fa?
+Forse lo conosci come il ""Fantasma del Ragazzo Pallido""?","剛才你們有看到「奇怪的畫面」嗎？
 或是「白色少年的幽靈」？",,"조금 전에,「기묘한 영상」을 보지 않으셨는지요?
 또는,「하얀 소년의 유령」을","Habt ihr vorhin nicht eine seltsame Erscheinung
 gesehen? Die ihr vielleicht als den Geist
 des bleichen Jungen kennt?"
 77,2000,,?!?!,！？！？,,!?!?,?!
-78,3009,,"Questo è indicativo della presenza di un
-Eater. Un precursore, suppongo si possa dire.","那代表著侵食者的存在……
+78,3009,,"Questo è indicativo della presenza di un Eater.
+Un precursore, suppongo si possa dire.","那代表著侵食者的存在……
 也就是類似「前兆」的東西。",,"그것들은, 이터의 존재를 나타내는…
 말하자면「전조」같은 것입니다","Diese weist darauf hin, dass ein Verschlinger
 in der Nähe ist. Ein Omen, könnte man sagen."
-79,3009,,"L'esistenza di un Eater
-influenza l'Onda Digitale e
+79,3009,,"L'esistenza di un Eater influenza l'Onda Digitale e
 contribuisce a indurla.","侵食者會影響數碼波，
 引發異常現象。",,"이터의 존재가 디지털 웨이브에 영향을 끼쳐서
 그 전조를 유발하고 있죠","Die Anwesenheit eines Verschlingers wirkt sich
 auf die digitale Welle aus, löst sie aber auch
 gerade erst aus."
 80,3009,,"Ad ogni modo, questi sono solo miei pensieri.
-L'Onda Digitale potrebbe essere influenzata
-da questi Eater.","我是這麼想的，
+L'Onda Digitale potrebbe essere influenzata da questi Eater.","我是這麼想的，
 或許這個現象本身，就是侵食者影響的產物。",,"저는, 이렇게도 생각하고 있습니다
 이 현상이야말로, 이터의 영향에 의한 것이 아닌가, 하고","Das sind jedenfalls meine Gedanken zum Thema.
 Vielleicht nehmen diese Verschlinger Einfluss auf
 die digitale Welle an sich."
-81,3009,,"Forse, tagliandogli la testa, il resto
-del corpo potrebbe inaridirsi!",如果我想得沒錯，只要解決元兇，現象應該就會消失！,,"만약, 그렇다면! 원흉을 없애는 것으로, 현상은 소멸할 터!","Wenn das stimmt, dann könnten wir der Bestie
+81,3009,,"Forse, tagliandogli la testa,
+il resto del corpo potrebbe inaridirsi!",如果我想得沒錯，只要解決元兇，現象應該就會消失！,,"만약, 그렇다면! 원흉을 없애는 것으로, 현상은 소멸할 터!","Wenn das stimmt, dann könnten wir der Bestie
 den Kopf abschlagen und der Rest würde zerfallen."
 82,3009,,"Per confermare questa teoria, vorrei chiedere il
 vostro aiuto, possibilmente.","為了證明我的推論，
@@ -332,8 +315,7 @@ non ti crediamo, ma...","好吧……
 스에도 씨, 당신을 믿은 건 아니지만…","Ja, aber ...
 Nicht, dass ich dir nicht glaube ..."
 90,3004,,"Vuoi che lo annientiamo, giusto? Beh,
-guarda caso era proprio ciò che volevamo
-fare.",但是解決掉那個東西，也是我們的期望。,,"그 녀석을 없애는 건, 우리들도 바라는 바야","Aber wir sollen die Kreatur auslöschen, ja?
+guarda caso era proprio ciò che volevamo fare.",但是解決掉那個東西，也是我們的期望。,,"그 녀석을 없애는 건, 우리들도 바라는 바야","Aber wir sollen die Kreatur auslöschen, ja?
 Genau das haben wir zufälligerweise auch vor."
 91,3009,,"Oh, ottimo! Allora vi auguro
 una buonissima fortuna!","啊！太棒了！
@@ -341,20 +323,19 @@ una buonissima fortuna!","啊！太棒了！
 그럼, 잘 부탁드립니다","Ach, hervorragend!
 Na dann viel Glück!"
 92,3004,,"Bene, allora. È il momento di vendicarci.",那我們就去雪恥吧！,,"그럼 어디, 리벤지를 하러 가 볼까",Also gut. Wir gehen uns jetzt rächen.
-93,3004,,"Troviamo anche la strada per tornare al nostro
-mondo. Più stiamo più e più mi sta venendo
-il mal di testa.","然後快點回到正常的世界吧……
+93,3004,,"Troviamo anche la strada per tornare al nostro mondo.
+Più stiamo più e più mi sta venendo il mal di testa.","然後快點回到正常的世界吧……
 一直待在這裡，我的腦袋會燒壞。",,"그리고, 빨리 정상적인 세계로 돌아가자고…
 이곳에 있다간, 머지않아 머리가 이상해질 것 같아","Lass uns außerdem den Weg zurück in die normale
 Welt finden. Je länger wir hier sind, desto
 komischer wird mir im Kopf."
-94,3009,,"Vi aspetto qui. Se avete altre domande da
-farmi, venite a cercarmi.","那我在這邊等著。
+94,3009,,"Vi aspetto qui.
+Se avete altre domande da farmi, venite a cercarmi.","那我在這邊等著。
 如果你們有其他問題的話，歡迎隨意提問。",,"이거, 전 여기서 대기하고 있을 테니
 다른 질문이 있으시면, 얼마든지 편하게 물어봐 주시지요","Ich warte hier auf euch.
 Kommt zu mir, falls ihr Fragen habt."
-95,3009,,"Il mondo reale, eh? E dove potrebbe
-mai trovarsi?","正常的世界嗎？
+95,3009,,"Il mondo reale, eh?
+E dove potrebbe mai trovarsi?","正常的世界嗎？
 哪裡會有那種世界呢？",,"…정상적인 세계, 인가요
 그런 세계가, 도대체 어디에 있다는 걸까요?","Die normale Welt, sagst du.
 Wo genau meinst du denn, dass du die findest?"
