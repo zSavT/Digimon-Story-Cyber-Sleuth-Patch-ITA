@@ -203,13 +203,13 @@ Caspita, che seccatura. Dovrei lamentarmi?","今天似乎輪到我打掃農場�
 但打掃真是太無趣了，我該找御神樂米蕾抗議嗎",,"오늘은 팜 청소당번인가 뭔가 하는걸 맡았는데…
 청소는 너무 지루해. 미카구라 미레이에게 항의해야겠군.","Heute muss ich die Farm putzen ... So
 was Ödes. Soll ich mich beschweren?"
-1209,,"Sento che gli umani chiamano gli investigatori
-esperti ""segugi""... Sei uno di quelli?","人類之中似乎有調查的專家
+1209,,"La gente chiama gli investigatori professionisti
+""Detective"". Lei è uno di loro?","人類之中似乎有調查的專家
 應該是叫做偵探……你也是偵探嗎？",,"인간 중엔 조사 전문가가 있다고 하더군.
 탐정, 이라고 부르나보던데… 너도 그런가?","Die Menschen nennen Profi-Ermittler
 „Detektive“. Bist du einer von denen?"
-1210,,"Ultimamente mi piace prendere il sole. Quando ho
-tempo, vado a rilassarmi sotto un raggio di sole.","我最近很喜歡日光浴。只要有自由時間，
+1210,,"Ultimamente mi piace prendere il sole. Quando ho tempo,
+vado a rilassarmi sotto un raggio di sole.","我最近很喜歡日光浴。只要有自由時間，
 我就會一邊曬太陽，一邊發呆",,"최근엔 일광욕을 좋아하지. 자유시간이 되면 햇빛을
 받으며 멍하니 지내고 있어.","In letzter Zeit sonne ich mich gerne.
 Das ist meine Freizeitentspannung."
@@ -471,8 +471,8 @@ schiavista, e lo dico io!","今天輪到我打掃農場島。好麻煩呀～
 米蕾不是很會使喚人，而是很會使喚數碼寶貝！",,"오늘은 팜 청소당번. 귀찮은걸―
 미레이는 사람 쓰는게, 아니 디지몬 쓰는게 거칠어!","Heute muss ich die Farm putzen. Mirei
 ist eine Sklaventreiberin, aber echt!"
-1409,,"Tu sei uno di quegli ""investigatori"",
-quelli bravi a investigare? Raccontamelo!","你是偵探對吧？　我聽說偵探很擅長調查，
+1409,,"Tu sei uno di quegli ""Detective"", quelli bravi a
+investigare? Raccontamelo!","你是偵探對吧？　我聽說偵探很擅長調查，
 所以希望你能多教教我",,"너는 탐정이지? 탐정이란건 조사가 특기라고 들었는데
 이것저것 가르쳐줘.","Bist du einer dieser Detektive, die sich
 mit Ermittlungen auskennen? Erzähl mal!"
@@ -750,7 +750,7 @@ Non può farlo Mirei o qualcosa del genere?","今天我被吩咐要打掃農場�
 미레이 씨가 맡아준다면 다른 일을 할 수 있을텐데…","Heute überlassen sie das Putzen mir ...
 Kann Mirei das nicht erledigen oder so?"
 1609,,"Gli esseri umani con capacità investigative
-sono chiamati investigatori. Tu sei uno di loro?","聽說人類中有名為偵探，調查能力卓越的人，
+sono chiamati Detective. Tu sei uno di loro?","聽說人類中有名為偵探，調查能力卓越的人，
 你也是偵探嗎？",,"인간에게는 탐정이라고 하는 조사 능력이 우수한 분들이
 있다고 하더군요. 당신도 탐정인가요?","Menschen mit Ermittlungstalent heißen
 Detektive. Bist du einer von ihnen?"
@@ -4735,8 +4735,8 @@ spettrale che hai inseguito la prima volta a Kowloon?","出個問答題唷。你
 跑去找幽靈的是誰呢？",,"퀴즈야. 네가 처음 쿠롱에 갔을 때
 유령 비슷한 걸 쫓아가던 건 누구였을까?","Hör zu. Wer war die Geistergestalt,
 die du zuerst in Kowloon verfolgt hast?"
-7066,,"Controlla. Il Digimon che ha
-chiamato Nokia a Kowloon era Agumon e chi?","出個問答題唷。在Kowloon向諾奇雅搭話的
+7066,,"Controlla. Il Digimon che ha chiamato Nokia a Kowloon
+era Agumon e chi?","出個問答題唷。在Kowloon向諾奇雅搭話的
 數碼寶貝是亞古獸和誰呢？",,"퀴즈야. 쿠론에서 노키아에게 말을 건
 디지몬은 아구몬과 누구였을까?","Hör zu. Die Digimon, die in Kowloon
 nach Nokia riefen, waren Agumon und ...?"
@@ -4745,8 +4745,8 @@ Alessandrite, Rubino o Giada?","出個問答題唷。變石、紅寶石、翡翠
 最有價值的換錢道具是？",,"퀴즈야. 알렉산드라이트, 루비, 비취 중
 가장 고가의 환전 아이템은 뭘까?","Hör zu. Was ist am teuersten:
 Alexandrit, Rubin oder Jade?"
-7068,,"Controlla. Una domanda tipo: a
-quale tipo di dati fanno più danni?","出個問答題唷。是關於種族的題目喔。資料種對上
+7068,,"Controlla. Una domanda tipo:
+a quale tipo di dati fanno più danni?","出個問答題唷。是關於種族的題目喔。資料種對上
 什麼種族的敵人時，能給予對方大量傷害呢？",,"퀴즈야. 종족에 대한 문제야. 데이터종에게
 큰 대미지를 입힐 수 있는 건 어느 종족 상대일 때지?","Hör zu, eine Typus-Frage: Welchem Typus
 fügen Datei-Typen am meisten Schaden zu?"
@@ -4866,21 +4866,19 @@ Tokio?"
 più a sud di Tokyo?",出個問答題唷。位在東京都最南方的區叫做什麼呢？,,"퀴즈야. 도쿄에서 가장 남쪽에 있는 구의 이름은
 뭘까?","Hör zu. Wie heißt der südlichste
 Bezirk Tokios?"
-7093,,"Controlla. In quale epoca
-Hideyoshi Toyotomi divenne sovrano del Giappone?","出個問答題唷。從最下層士兵「足輕」爬上統治
+7093,,"Controlla. In quale epoca Hideyoshi Toyotomi divenne
+sovrano del Giappone?","出個問答題唷。從最下層士兵「足輕」爬上統治
 全日本之「天下人」的豐臣秀吉，由他統治的時代叫做？",,"퀴즈야. 하급무사에서 천하인까지 올라갔던
 도요토미 히데요시. 천하인이 된 것은 어떤 시대?","Hör zu. In welcher Zeit wurde
 Toyotomi Hideyoshi zum Herrscher Japans?"
-7094,,"Controlla. Le rane sono anfibi, le
-scimmie sono mammiferi. Cosa sono i pipistrelli?","出個問答題唷。這題是關於擁有脊椎的動物分類喔
+7094,,"Controlla. Le rane sono anfibi, le scimmie sono
+mammiferi. Cosa sono i pipistrelli?","出個問答題唷。這題是關於擁有脊椎的動物分類喔
 青蛙是兩生類，猴子是哺乳類，那麼蝙蝠是？",,"퀴즈야. 등뼈를 가진 동물의 분류에 대해 낼게.
 개구리는 양서류, 원숭이는 포유류. 그럼 박쥐는?","Hör zu. Frösche sind Amphibien, Affen
 sind Säugetiere. Was sind Fledermäuse?"
-7095,,"Controlla. Qual è la montagna più alta del
-Giappone?",出個問答題唷。日本的最高峰是？,,퀴즈야. 일본에서 가장 높은 산은 어딜까요?,"Hör zu. Wie heißt der höchste Berg
+7095,,"Controlla. Qual è la montagna più alta del Giappone?",出個問答題唷。日本的最高峰是？,,퀴즈야. 일본에서 가장 높은 산은 어딜까요?,"Hör zu. Wie heißt der höchste Berg
 Japans?"
-7096,,"Controlla.
-Di quali nutrienti sono ricche le carote?","出個問答題唷。是關於食品五大營養成分的題目
+7096,,"Controlla. Di quali nutrienti sono ricche le carote?","出個問答題唷。是關於食品五大營養成分的題目
 紅蘿蔔最豐富的營養成分是？",,"퀴즈야. 식품의 다섯가지 영양소에 대한 문제야.
 당근에는 특히 어떤 영양소가 많을까?","Hör zu. Was ist in Karotten reichlich
 enthalten?"
@@ -4905,8 +4903,8 @@ che ti avvolge la testa?","那我來出問答題囉。你纏繞在頭上的重�
 它的名稱是什麼呢？",,"자, 퀴즈. 네가 머리에 두르고 있는 중요한 
 기계의 이름은 뭘까?","Pass auf. Wie heißt der wichtige Apparat
 an deinem Kopf?"
-8002,,"Ascoltate. Chi è il capo dell'agenzia
-investigativa Kuremi?","那我來出問答題囉。暮海偵探事務所所長的名字
+8002,,"Ascoltate.
+Chi è il capo dell'agenzia investigativa Kuremi?","那我來出問答題囉。暮海偵探事務所所長的名字
 是什麼呢？",,"자, 퀴즈. 쿠레미 탐정사무소의 소장의 이름이
 뭐였지?","Pass auf. Wer leitet das Detektivbüro
 Kuremi?"
@@ -4950,8 +4948,8 @@ Royal Knight Alphamon?"
 神鳴！神馳！○○！」，○○應填入什麼字？",,"자, 퀴즈. 간쿠몬의 필살기「지신! 신명! 신치! ○○!」
 에서 ○○에 해당되는 것은?","Pass auf. Gankoomons Spezialmove heißt
 „Beben!Explosion!Feuer!___!“ Na?"
-8012,,"Ascolta. In quale Digimon si
-digievolve Magnamon: Dorumon, Lalamon o Veemon?","那我來出問答題囉。多路獸、拉拉獸、V仔獸之中
+8012,,"Ascolta. In quale Digimon si digievolve Magnamon:
+Dorumon, Lalamon o Veemon?","那我來出問答題囉。多路獸、拉拉獸、V仔獸之中
 能進化為金甲龍獸的數碼寶貝是？",,"자, 퀴즈. 돌몬, 라라몬, 브이몬 중
 매그너몬으로 진화하는 디지몬은 누굴까?","Pass auf. Welches Digimon digitiert zu
 Magnamon: Dorumon, Lalamon oder Veemon?"
@@ -5165,8 +5163,7 @@ Haarschmuck deiner Freundin Nokia?"
 8055,,"Ascolta. Di che colore sono i capelli del
 tuo amico Arata?",那我來出問答題囉。你的朋友「新」的髮色是什麼顏色？,,"자, 퀴즈. 네 친구 아라타의 머리색은 무슨 색이지?","Pass auf. Welche Haarfarbe hat dein
 Freund Arata?"
-8056,,"Ascolta. Che programma usi per
-catturare i Digimon?",那我來出問答題囉。用於捕捉數碼寶貝的程式名稱是？,,"그럼, 퀴즈. 디지몬을 잡기 위한 프로그램의 
+8056,,"Ascolta. Che programma usi per catturare i Digimon?",那我來出問答題囉。用於捕捉數碼寶貝的程式名稱是？,,"그럼, 퀴즈. 디지몬을 잡기 위한 프로그램의 
 이름은 뭘까?","Pass auf. Mit welchem Programm kannst
 du Digimon fangen?"
 8057,,"Ascoltate. Come si chiama la donna
@@ -5199,8 +5196,8 @@ DigiFarm per aumentare i PV massimi?","我出問答題囉。給數碼農場裡�
 能提升HP最大值的是什麼食物呢？",,"퀴즈. 디지팜의 디지몬에게 줄 수 있는
 밥 중에서 HP의 최대치가 올라가는 것은 뭘까?","Pass auf. Welches Futter steigert auf
 der Digifarm die max. TP?"
-8063,,"Ascolta. Quali sono gli
-oggetti che puoi mettere in una DigiFarm?","那我來出問答題囉！　能放在數碼農場裡的
+8063,,"Ascolta. Quali sono gli oggetti che puoi mettere in
+una DigiFarm?","那我來出問答題囉！　能放在數碼農場裡的
 道具稱為什麼呢？",,"자, 퀴즈! 디지팜에 둘 수 있는
 아이템을 뭐라고 할까?","Pass auf. Welche Items kannst 
 du auf einer Digifarm platzieren?"
@@ -5209,8 +5206,8 @@ alla DigiFarm?","那我來出問答題囉。可以從什麼設施
 前往數碼農場呢？",,"자, 퀴즈. 디지팜은 어느 시설을 통해
 갈 수 있을까?","Pass auf. Von wo aus kommst du zur
 Digifarm?"
-8065,,"Ascolta. Chi era la figura spettrale
-che hai inseguito la prima volta a Kowloon?","我出問答題囉。你第一次前往Kowloon時
+8065,,"Ascolta. Chi era la figura spettrale che hai inseguito
+la prima volta a Kowloon?","我出問答題囉。你第一次前往Kowloon時
 跑去找幽靈的是誰呢？",,"퀴즈야. 네가 처음 쿠롱에 갔을 때
 유령 비슷한 걸 쫓아가던 건 누구였니?","Pass auf. Wer war die Geistergestalt,
 die du zuerst in Kowloon verfolgt hast?"
@@ -5563,8 +5560,7 @@ sul petto di MetalEtemon?","以下是問答題。寫在鋼鐵悟空獸胸前的�
 是什麼？　提示是2個漢字的詞彙",,"퀴즈입니다. 메탈에테몬의 가슴에 적혀있는 문자는
 뭘까요? 힌트는 한자 2글자의 단어입니다.","Frage! Was bedeuten die Zeichen auf
 MetalEtemons Brust?"
-9039,,"Domanda! Quale Digimon usa due
-fucili come arma?","以下是問答題。以2把霰彈槍為武器的
+9039,,"Domanda! Quale Digimon usa due fucili come arma?","以下是問答題。以2把霰彈槍為武器的
 數碼寶貝的名字是？",,"여기서 퀴즈입니다. 2정의 샷건을 무기로 삼은
 디지몬의 이름은 뭘까요?","Frage! Welches Digimon benutzt zwei
 Flinten als Waffen?"
@@ -11389,8 +11385,8 @@ avrò di nuovo un caso per te, ci vediamo allora!","不客氣♪　欸，這好�
 我應該還會再委託你，有勞囉～！",,"별말씀을♪ 아니 내가 할 말이 아니네?ㅋ
 아마 또 의뢰를 할 테니까 잘 부탁해!","Ich muss los! Ich habe bestimmt wieder
 einen Fall für dich. Wir sehen uns!"
-51016,,"No. Ho calpestato qualcosa che avrei preferito non aver
-calpestato, quindi ho cambiato scarpe. Divertente, no?","哈哈，有可能，但不是啦。她說是「踩到狗的黃金，
+51016,,"Non proprio. Ho calpestato qualcosa e mi sono cambiato
+le scarpe. Divertente, no?","哈哈，有可能，但不是啦。她說是「踩到狗的黃金，
 所以去換鞋子」……！　超好笑的～！",,"하하, 그럴싸하지만 아니야.「개의 그걸 밟아서
 신발을 교환하러 갔다」…래! 재미있어!","Nicht ganz. Ich bin in was reingetreten
 und habe die Schuhe gewechselt. Lustig."
@@ -11412,8 +11408,8 @@ lavorando Kyoko. Te lo chiederò la prossima volta.","唉呀，這樣說來，�
 什麼工作的了。改天再問你喔",,"어라? 그러고보니 쿄코 씨가 무슨 일을 하는 사람인지
 아직 듣지 못했네. 다음에 이것저것 들려줘.","Oh, ich habe gar nicht gefragt, woran
 Kyoko arbeitet. Nächstes Mal."
-51019,,"Tieniti le lamentele per te. Sto
-solo evitando complicazioni, Cyber ​​Sleuth.","喂喂，別跟我抱怨吶
+51019,,"Tieniti le lamentele per te.
+Sto solo evitando complicazioni, Cyber ​​Sleuth.","喂喂，別跟我抱怨吶
 麻煩事本來就該俐落地迴避啊，電腦偵探大人？",,"어이어이, 나에게 불평하지 마.
 귀찮은 일은 잘 회피하는게 최고라구, 전뇌탐정 씨?","Behalte deine Beschwerden für dich.
 Mach keine Probleme, Cyber-Detektiv."
@@ -11422,8 +11418,8 @@ Grazie! Vai a letto presto anche tu.","有人能對自己說這種話，我真�
 謝謝，你也早點休息喔",,"그렇게 말해줄 상대가 있다는건 좋은걸.
 고마워. 너도 밤에는 일찍 자야해.","Ist nett, wenn jemand das sagt. Danke!
 Geh du auch nicht zu spät ins Bett."
-52022,,"Non ho chiuso occhio da quando sono
-arrivato. Vado a letto, domani è un gran giorno!","來到這裡之後，我幾乎無法好好休息
+52022,,"Non ho chiuso occhio da quando sono arrivato.
+Vado a letto, domani è un gran giorno!","來到這裡之後，我幾乎無法好好休息
 明天也得直接去當地採訪。我今天會早點休息",,"이쪽에 온 후로 쉰 적이 거의 없어.
 내일도 취재장소로 직행해야 해. 오늘은 일찍 잘게.","Ich habe hier noch kein Auge zugetan.
 Jetzt aber! Morgen ist ein großer Tag!"
