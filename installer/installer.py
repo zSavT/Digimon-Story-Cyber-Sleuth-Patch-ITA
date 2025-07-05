@@ -3,7 +3,7 @@
 # -----------------------------------------------------------------------------
 # Installer Patch ITA Digimon Story Cyber Sleuth Complete Edition
 # Autore: SavT
-# Versione: v2
+# Versione: v2.2
 # -----------------------------------------------------------------------------
 
 import sys
@@ -14,12 +14,14 @@ import traceback
 import shutil
 import datetime
 import pyzipper
+import urllib.request
+import json
 
 from PyQt6.QtWidgets import (
     QApplication, QWidget, QLabel, QPushButton, QVBoxLayout, QFrame,
     QStackedWidget, QFileDialog, QTextEdit, QLineEdit, QMessageBox,
     QProgressBar, QHBoxLayout, QDialog, QDialogButtonBox, QInputDialog,
-    QStyle,
+    QStyle,QTextBrowser,
     QCheckBox
 )
 from PyQt6.QtGui import (
@@ -49,7 +51,9 @@ HEAD_ICON_PATH = resource_path("assets/head_icon.png")
 YT_ICON = resource_path("assets/youtube.png")
 GH_ICON = resource_path("assets/github.png")
 WEB_ICON = resource_path("assets/web.png")
-VERSIONE = "v1.3"
+VERSIONE = "v1.4"
+ALT_SITE_NAME = "Games Translator"
+ALT_SITE_URL = "https://www.gamestranslator.it/index.php?/file/826-digimon-cyber-sleuth-complete-edition/"
 CREDITI = "Patch By SavT e Lowrentio"
 EXE_SUBFOLDER = "Digimon Story Cyber Sleuth Complete Edition/app_digister"
 
@@ -198,6 +202,70 @@ def leggi_chiave(nome_file):
         print(f"Si è verificato un errore durante la lettura del file '{nome_file}': {e}")
         return None
 
+
+
+# --- Classe Worker Controllo Versione ---
+class VersionCheckWorker(QThread):
+    """
+    Controlla la presenza di nuove versioni su GitHub in un thread separato
+    per non bloccare la UI.
+    """
+    update_found = pyqtSignal(str, str)  # Segnale emesso con: tag_nuova_versione, url_download
+
+    def __init__(self, current_version, repo_url):
+        super().__init__()
+        self.current_version = current_version
+        self.repo_url = repo_url
+        self.api_url = ""
+
+    def _compare_versions(self, v1_str, v2_str):
+        """Confronta due stringhe di versione come 'v1.4' e 'v1.10'."""
+        try:
+            # Rimuove il prefisso 'v' e divide per '.'
+            v1_parts = v1_str.lstrip('vV').split('.')
+            v2_parts = v2_str.lstrip('vV').split('.')
+            # Converte le parti in interi per un confronto numerico
+            v1_tuple = tuple(map(int, v1_parts))
+            v2_tuple = tuple(map(int, v2_parts))
+            
+            return v1_tuple > v2_tuple
+        except (ValueError, AttributeError):
+            return v1_str > v2_str
+
+    def run(self):
+        """Esegue la richiesta alla API di GitHub."""
+        try:
+            # Costruisce l'URL della API dall'URL standard di GitHub
+            parts = self.repo_url.strip("/").split("/")
+            owner, repo = parts[-2], parts[-1]
+            self.api_url = f"https://api.github.com/repos/{owner}/{repo}/releases/latest"
+            print(f"Controllo aggiornamenti a: {self.api_url}")
+
+            # Esegue la richiesta alla API di GitHub con un user-agent
+            req = urllib.request.Request(self.api_url, headers={'User-Agent': 'SavT-Installer-Updater'})
+            with urllib.request.urlopen(req, timeout=10) as response:
+                if response.status == 200:
+                    data = json.loads(response.read().decode())
+                    latest_version_tag = data.get('tag_name')
+                    download_url = data.get('html_url')
+
+                    if not latest_version_tag or not download_url:
+                        print("Controllo aggiornamenti: 'tag_name' o 'html_url' non trovati nella risposta.")
+                        return
+
+                    print(f"Ultima versione su GitHub: {latest_version_tag}, Versione corrente: {self.current_version}")
+
+                    # Confronta le versioni e se quella remota è più nuova, emette il segnale
+                    if self._compare_versions(latest_version_tag, self.current_version):
+                        print(f"Nuova versione disponibile: {latest_version_tag}")
+                        self.update_found.emit(latest_version_tag, download_url)
+                    else:
+                        print("La versione corrente è la più recente.")
+                else:
+                    print(f"Controllo aggiornamenti fallito con codice di stato: {response.status}")
+        except Exception as e:
+            # Fallisce silenziosamente in caso di errore (es. no internet, API limit, ecc.)
+            print(f"Impossibile controllare gli aggiornamenti: {e}")
 
 
 # --- Classe Worker Installazione ---
@@ -495,7 +563,7 @@ class CompletionDialog(QDialog):
         main_layout.addLayout(btn_layout)
 
         self.adjustSize()
-        self.setMaximumWidth(450)
+        self.setMaximumWidth(500)
 
     def accept_and_open_url(self):
         """Slot chiamato quando si preme OK.
@@ -626,6 +694,89 @@ class PackageCheckScreen(QWidget):
         else: # File non trovato
             self.status_label.setText(f"<font color='#ff8080'>❌ File '{PACKAGE_FILE}' non trovato.</font><br><font color='#bbccd0' size='-1'>Controlla cartella installer.</font>")
             self.next_btn.setEnabled(False); self.retry_btn.setVisible(False); self.key_input_widget.setVisible(False)
+
+
+class NoticeScreen(QWidget):
+    def __init__(self):
+        super().__init__()
+        layout = QVBoxLayout(self)
+        layout.setContentsMargins(30, 20, 30, 20)
+        layout.setSpacing(15)
+
+        # Titolo della schermata
+        title = QLabel("Nota bene!")
+        title.setObjectName("TitleLabel")
+        title.setAlignment(Qt.AlignmentFlag.AlignCenter)
+
+
+        notice_area = QTextBrowser()
+        notice_area.setReadOnly(True)
+        notice_area.setOpenExternalLinks(True)
+
+        html_content = f"""
+        <style>
+            p {{ margin-bottom: 12px; }}
+            b {{ color: #2a75bb; }}
+        </style>
+        <p>
+            <b>1. La patch è GRATUITA e Open Source.</b><br>
+            Se hai pagato per ottenere questo software, sei stato truffato. Chiedi
+            <b>immediatamente i soldi indietro</b>. Il progetto è e sarà sempre gratuito.
+        </p>
+        <p>
+            <b>2. Scarica solo da fonti ufficiali.</b><br>
+            Ottieni la patch esclusivamente dalle nostre fonti ufficiali:
+            <ul>
+                <li>Repository GitHub: <a href="{GH_URL}"><b>Clicca qui</b></a></li>
+                <li>Canale YouTube: <a href="{YT_URL}"><b>Clicca qui</b></a></li>
+                <li>Sito Web Ufficiale: <a href="{WEB_URL}"><b>Clicca qui</b></a></li>
+                <li>{ALT_SITE_NAME}: <a href="{ALT_SITE_URL}"><b>Clicca qui</b></a></li>
+            </ul>
+            Non ci assumiamo alcuna responsabilità per problemi, virus o malfunzionamenti derivanti da
+            versioni scaricate da siti non ufficiali.
+        </p>
+        <p>
+            <b>3. Segnala problemi o errori di traduzione.</b><br>
+            Se riscontri un bug o un errore, il tuo aiuto è prezioso. Puoi
+            <a href="{GH_URL}/issues/new?template=errore-nella-traduzione.yml"><b>cliccare qui per aprire una segnalazione su GitHub</b></a>.
+        </p>
+        <p>
+            <b>4. Supporta il progetto (Opzionale).</b><br>
+            Mantenere e migliorare questo progetto richiede tempo e dedizione. Se il nostro
+            lavoro ti è piaciuto, puoi supportarci con una piccola
+            <a href="{DONAZIONI}"><b>donazione cliccando qui</b></a>. Grazie di cuore!
+        </p>
+        """
+
+        notice_area.setHtml(html_content)
+
+        # Pulsanti di navigazione
+        btn_layout = QHBoxLayout()
+        self.back_btn = QPushButton("Indietro")
+        self.cancel_btn = QPushButton("Esci")
+        self.cancel_btn.setObjectName("CancelButton")
+        self.next_btn = QPushButton("Avanti")
+        self.next_btn.setObjectName("NextButton")
+        self.next_btn.setDefault(True)
+
+        try:
+            self.back_btn.setIcon(self.style().standardIcon(QStyle.StandardPixmap.SP_ArrowLeft))
+            self.cancel_btn.setIcon(self.style().standardIcon(QStyle.StandardPixmap.SP_DialogCancelButton))
+            self.next_btn.setIcon(self.style().standardIcon(QStyle.StandardPixmap.SP_ArrowRight))
+        except Exception:
+            pass
+
+        btn_layout.addWidget(self.cancel_btn)
+        btn_layout.addStretch()
+        btn_layout.addWidget(self.back_btn)
+        btn_layout.addWidget(self.next_btn)
+
+        # Assemblaggio del layout
+        layout.addWidget(title)
+        layout.addWidget(notice_area, 1)
+        layout.addStretch()
+        layout.addLayout(btn_layout)
+
 
 class LicenseScreen(QWidget):
     """Schermata per visualizzare e accettare la licenza d'uso."""
@@ -839,12 +990,19 @@ class InstallerWizard(QWidget):
         self.install_worker = None
         self.current_aes_key = leggi_chiave(resource_path(CHIAVE))
         self.setObjectName("InstallerWizard")
+        
+        # --- CONTROLLO VERSIONE ---
+        # Avvia il worker per il controllo della versione in background
+        self.version_checker = VersionCheckWorker(VERSIONE, GH_URL)
+        self.version_checker.update_found.connect(self.show_update_dialog)
+        self.version_checker.start()
+        # --- FINE CONTROLLO VERSIONE ---
 
         # Impostazioni finestra principale
         try: self.setWindowIcon(QIcon(LOGO_ICO))
         except Exception as e: print(f"Error setting window icon: {e}")
         self.setWindowTitle(f"Installer Patch ITA Digimon Story Cyber Sleuth: Complete Edition ({VERSIONE})")
-        self.setMinimumSize(640, 520)
+        self.setMinimumSize(700, 580)
 
         # Contenitore principale
         container = QWidget(self)
@@ -860,12 +1018,14 @@ class InstallerWizard(QWidget):
 
         # Creazione istanze schermate
         self.welcome = WelcomeScreen()
+        self.notice = NoticeScreen()
         self.check_pkg = PackageCheckScreen(self)
         self.license = LicenseScreen()
         self.install = InstallScreen()
 
         # Aggiunta schermate
         self.stack.addWidget(self.welcome)
+        self.stack.addWidget(self.notice)
         self.stack.addWidget(self.check_pkg)
         self.stack.addWidget(self.license)
         self.stack.addWidget(self.install)
@@ -880,19 +1040,40 @@ class InstallerWizard(QWidget):
         self.hidden_key_button.clicked.connect(self.show_custom_key_dialog)
         self.hidden_key_button.raise_()
 
-        # Connessioni navigazione
-        self.welcome.next_btn.clicked.connect(self.go_to_check)
+        # Connessioni navigazioneì
+        self.welcome.next_btn.clicked.connect(lambda: self.stack.setCurrentWidget(self.notice))
+        self.notice.next_btn.clicked.connect(self.go_to_check)
+        self.notice.back_btn.clicked.connect(lambda: self.stack.setCurrentWidget(self.welcome))
         self.check_pkg.next_btn.clicked.connect(lambda: self.stack.setCurrentWidget(self.license))
         self.license.next_btn.clicked.connect(lambda: self.stack.setCurrentWidget(self.install))
         self.install.install_btn.clicked.connect(self.confirm_installation)
 
         # Connessioni Esci/Annulla
         self.welcome.cancel_btn.clicked.connect(self.close)
+        self.notice.cancel_btn.clicked.connect(self.close)
         self.check_pkg.cancel_btn.clicked.connect(self.close)
         self.license.cancel_btn.clicked.connect(self.close)
         self.install.cancel_btn.clicked.connect(self.handle_cancel_install)
 
         self.position_hidden_button()
+
+    def show_update_dialog(self, new_version, url):
+        """Mostra un popup che informa l'utente di una nuova versione."""
+        msg_box = QMessageBox(self)
+        msg_box.setWindowTitle("Aggiornamento Disponibile")
+        msg_box.setText(f"È disponibile una nuova versione della patch: <b>{new_version}</b>")
+        msg_box.setInformativeText("Vuoi aprire la pagina di download per scaricarla?")
+        msg_box.setIcon(QMessageBox.Icon.Information)
+        yes_button = msg_box.addButton("Sì, apri il sito", QMessageBox.ButtonRole.YesRole)
+        no_button = msg_box.addButton("No, continua", QMessageBox.ButtonRole.NoRole)
+        msg_box.setDefaultButton(yes_button)
+
+        msg_box.exec()
+
+        if msg_box.clickedButton() == yes_button:
+            print(f"Apertura URL aggiornamento: {url}")
+            webbrowser.open(url)
+            self.close()
 
     def position_hidden_button(self):
         """Posiziona il bottone nascosto nell'angolo in alto a destra."""
