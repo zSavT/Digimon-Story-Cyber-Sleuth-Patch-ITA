@@ -37,17 +37,25 @@ La realizzazione della patch è stata resa possibile in larga misura grazie al c
 
 # Come installare la patch
 
-Per installare bisogna selezionare la sezione [Releases](https://github.com/zSavT/Digimon-Story-Cyber-Sleuth-Patch-ITA/releases) su GitHub e selezionare l'ultima versione della patch disponibile. Selezionate l'installer da scaricare in base al sistema operativo scelto ed avviate l'installer.
+Per installare la patch, bisogna aprire la sezione [Releases](https://github.com/zSavT/Digimon-Story-Cyber-Sleuth-Patch-ITA/releases) su GitHub e selezionare l'ultima versione della patch disponibile. Selezionate l'installer da scaricare in base al sistema operativo scelto ed avviate l'installer.
 
 ![](img/Installer1.png)
 
-L'installazione è guidata e semplice, ma in ogni caso basterà sempre cliccare su "_Avanti_". Attendere la verifica dell'integrità dei file della Patch e cliccare successivamente su "_Avanti_".
+L'installer controlla anche la presenza di una nuova versione della patch, in caso affermativo, è possibile scegliere se scaricare la nuova versione o meno.
 
 ![](img/Installer2.png)
+![](img/Installer3.png)
+
+L'installazione è guidata e semplice, ma in ogni caso basterà sempre cliccare su "_Avanti_". Attendere la verifica dell'integrità dei file della Patch e cliccare successivamente su "_Avanti_".
+
+
+![](img/Installer4.png)
 
 Successivamente bisogna accettare i termini d'uso e poi nella schermata successiva, selezionare la cartella dove è installato il gioco (Di default è impostato il percorso classico) e cliccare su "_Installa Patch_".
 
-![](img/Installer3.png)
+![](img/Installer5.png)
+
+Ora la patch del gioco è installata!
 
 # Come segnalare un errore nella traduzione
 
