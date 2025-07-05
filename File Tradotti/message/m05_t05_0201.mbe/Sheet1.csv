@@ -1,7 +1,7 @@
 ﻿"ID","Speaker","Japanese","English","Chinese","EnglishCensored","Korean","German"
 "1","3006","","Oh, grazie per aver fatto la spesa.","買東西辛苦了。","","음, 장보기 수고 많았다","Ach, danke, dass du einkaufen warst."
-"2","3006","","Ti stavamo aspettando. Come puoi
-vedere, c'è un cliente.","我們正在等你回來。
+"2","3006","","Ti stavamo aspettando.
+Come puoi vedere, c'è un cliente.","我們正在等你回來。
 如你所見，有委託人來了。","","네가 돌아오길 기다리고 있던 참이다
 보다시피, 의뢰인이 오셨거든","Wir haben auf dich gewartet.
 Wie du siehst, ist eine Klientin hier."
@@ -19,8 +19,8 @@ Ich habe gehört, wie dein Magen geknurrt hat!"
 "8","3003","","...","…………","","…………","..."
 "9","3003","","Ciao.","你好……","","………………안녕하세요","Hallo."
 "10","2000","","!","……！！！","","…!!!","!"
-"11","3006","","Eh? L'acquoliona in bocca? Ma di che
-parli? Questo è il nostro cliente...","嗯？流口水？你在說什麼啊？
+"11","3006","","Eh? L'acquoliona in bocca? Ma di che parli?
+Questo è il nostro cliente...","嗯？流口水？你在說什麼啊？
 這位是委託人——","","응? 츄릅? 넌 무슨 얘길 하고 있는 거지?
 이쪽은 의뢰인인―","Wie? Magenknurren? Was redest du da?
 Das ist unsere Klientin ..."
@@ -55,9 +55,8 @@ Mein Vater würde sich niemals das Leben nehmen!"
 "22","3003","","Oh...","啊……","","아……","Ach ..."
 "23","3003","","Scusa lo sfogo.","對不起……叫這麼大聲……","","죄송합니다… 그만 큰 소리를…","Bitte entschuldigt den Ausbruch."
 "24","3006","","No, non c'è niente di cui scusarsi.","哪裡，沒有關係。","","아뇨, 괜찮습니다","Nein, keine Entschuldigung nötig."
-"25","3006","","Come mai pensi che lui non lo avrebbe
-mai fatto? Hai qualche prova che
-dimostra il contrario?","那麼……妳為什麼覺得他不是自殺？
+"25","3006","","Come mai pensi che lui non lo avrebbe mai fatto?
+Hai qualche prova che dimostra il contrario?","那麼……妳為什麼覺得他不是自殺？
 有什麼確切的證據嗎？","","그래서… 어째서, 자살이 아니라고 하시는 거죠?
 뭔가, 확증이 있으신 건가요?","Aber warum glaubst du, dass er das nicht tun
 würde? Hast du Beweise dafür, dass er nicht
@@ -65,9 +64,8 @@ gefährdet war?"
 "26","3003","","Io... No, non lo so.","我……我沒有證據……","","화, 확증은 없습니다…","Ich ... Nein, die habe ich nicht."
 "27","3003","","Ecco perché sono venuta da voi.","所以才想要委託你們調查。","","……그렇기에 더욱, 조사를 의뢰하고 싶은 겁니다","Genau deshalb bin ich zu euch gekommen."
 "28","3006","","Capisco. Ha senso.","原來如此，非常合理。","","과연, 지당하신 말씀입니다","Verstehe. Das ergibt Sinn."
-"29","3003","","Se vuoi degli indizi, puoi cominciare con
-Makoto Yamashina, la persona che ti ho
-fatto investigare l'altro giorno.","我想線索應該就在……
+"29","3003","","Se vuoi degli indizi, puoi cominciare con Makoto Yamashina,
+la persona che ti ho fatto investigare l'altro giorno.","我想線索應該就在……
 你們之前調查過的「山科誠」身上……","","단서는 아마…
 이전에 조사를 부탁드렸던「야마시나 마코토」…","Wenn ihr Hinweise braucht, solltet ihr bei Makoto
 Yamashina anfangen, auf den ich euch kürzlich
@@ -76,8 +74,8 @@ angesetzt hatte."
 all'anno scorso.","他到去年為止都還是神代企業的研究員。","","그 사람은, 작년까지 카미시로의 연구원이었습니다","Er war bis letztes Jahr Forscher bei
 Kamishiro."
 "31","3003","","Ha lasciato la compagnia nello stesso
-periodo in cui mio padre è morto, e poi
-è scomparso.","父親過世後他就離開了公司，
+periodo in cui mio padre è morto,
+e poi è scomparso.","父親過世後他就離開了公司，
 之後就一直行蹤不明……","","아버지의 죽음과 같은 시기에 퇴사했고
 그대로 행방을 감춰 버렸어요…","Er hat das Unternehmen ungefähr dann verlassen,
 als mein Vater gestorben ist. Dann ist er
@@ -86,9 +84,8 @@ verschwunden."
 qualche modo alla morte di tuo padre?","所以妳覺得山科和令尊的死有關嗎？","","…그래서, 야마시나가 아버님의 죽음에 관계하고 있다고 생각하셨군요","Du glaubst also, dass Yamashina irgendwie mit dem
 Tod deines Vaters in Verbindung steht?"
 "33","3003","","Sì.","是的……","","……네","Ja."
-"34","3003","","Anche se non c'è una connessione diretta, sono
-certo che lui deve sapere qualcosa sulla
-morte di mio padre.","就算沒有直接關係……
+"34","3003","","Anche se non c'è una connessione diretta,
+sono certo che lui deve sapere qualcosa sulla morte di mio padre.","就算沒有直接關係……
 他也一定知道些什麼……","","직접적인 관계는 없다고 해도…
 아버지의 죽음에 대해, 분명 무언가를 알고 있을 거라고…","Selbst wenn es keine direkte Verbindung gibt,
 so muss er doch etwas über den Tod meines
@@ -111,14 +108,13 @@ attorno a me di cui mi posso fidare.","對不起……
 因為我身邊有很多不能信任的人……","","……죄송합니다
 신용할 수 없는 사람이, 주위에 잔뜩 있는 것 같아서요…","Ich bitte um Verzeihung. Ich kenne nur sehr wenige
 Leute, denen ich trauen kann."
-"42","3003","","Io... Sono davvero dispiaciuta per il, ehm, mio
-piccolo stratagemma.","我對你們使出這種技倆……
+"42","3003","","Io... Sono davvero dispiaciuta per il,
+ehm, mio piccolo stratagemma.","我對你們使出這種技倆……
 真的很抱歉……","","하찮은 잔재주를 그만… 그…
 실례, 했습니다…","Ich bitte vielmals um Entschuldigung für meine,
 äh, kleine List."
 "43","3006","","Heh. Spero che una risposta così onesta sia
-la prova che ci siamo guadagnati la tua
-fiducia.","呵呵……沒關係。妳會誠實回答我們，
+la prova che ci siamo guadagnati la tua fiducia.","呵呵……沒關係。妳會誠實回答我們，
 就是妳信任我們的最好的證明。","","후후… 괜찮습니다, 솔직하게 대답해 주셨다는 건
 신뢰를 받고 있다는 가장 큰 증거니까요","Hehe. Ich hoffe, dass so eine ehrliche Antwort
 bedeutet, dass wir dein Vertrauen verdient
@@ -138,15 +134,15 @@ Cosa? N-no, sono da sola!","是……是……嗯？
 不、不是的……我現在一個人！","","……네 ……네 ……에?
 아, 아녜요… 저, 혼자 있어요…!","Ja ... Ja ... Was?
 N-Nein, i-ich bin alleine!"
-"51","3003","","Capisco. Torno subito. Attendimi
-alla sede centrale, signorina Rie.
+"51","3003","","Capisco. Torno subito.
+Attendimi alla sede centrale, signorina Rie.
 Arrivederci.","我知道了，我馬上回去。
 里繪姊請在總公司等我……待會見。","","알겠습니다, 금방 돌아갈 테니까…
 리에 씨는 본사에서 기다려 주세요… 그럼…","Verstehe. Ich bin gleich wieder da.
 Bitte warten Sie in der Zentrale, Fräulein Rie.
 Auf Wiederhören."
-"52","3003","","Mi dispiace. È successo
-qualcosa all'improvviso.","不好意思，我突然有急事。","","…죄송합니다, 급한 용무가 생겨서요","Entschuldigt. Mir ist gerade etwas
+"52","3003","","Mi dispiace.
+È successo qualcosa all'improvviso.","不好意思，我突然有急事。","","…죄송합니다, 급한 용무가 생겨서요","Entschuldigt. Mir ist gerade etwas
 dazwischengekommen."
 "53","3006","","A quanto pare. Prego, comunque.
 Lascia pure a noi il resto.","看起來是。
@@ -160,8 +156,7 @@ importante. Dobbiamo dare il massimo e risolverlo.","看來這次的案件可是
 본격적으로 임해야겠어","Das könnte ein richtig großer Fall werden.
 Wir müssen uns voll reinhängen und ihn lösen."
 "56","3006","","Se tutto va bene, potremmo smascherare il
-passato di Kamishiro, insieme ai meccanismi interni
-dell'azienda.","順利的話，說不定還可以揭露
+passato di Kamishiro, insieme ai meccanismi interni dell'azienda.","順利的話，說不定還可以揭露
 神代的過去和內部秘辛……","","잘 하면, 카미시로의 과거나 내부 정보도
 파헤칠 수 있겠지…","Wenn alles gut verläuft, können wir Kamishiros
 Vergangenheit und die inneren Abläufe der Firma
