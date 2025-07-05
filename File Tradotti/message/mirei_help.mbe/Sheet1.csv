@@ -64,8 +64,8 @@ scegli una destinazione. Ci si abitua alla ressa qui.","難不成你不知道怎
 이곳은 조금 복잡하니까 헤맬지도 모르지만, 빨리 익숙해지렴","Kennst du den Weg nach Shinjuku nicht? Wenn du
 Broadway verlässt, wähl einen Zielort aus.
 Man gewöhnt sich an das Gedränge hier."
-2011,3013,,Quindi a Shinjuku non girano voci su di te? Hai chiesto in giro?
-È importante parlare con un sacco di gente.,"「新宿」是不是正流傳著你的事啊？
+2011,3013,,"Quindi a Shinjuku non girano voci su di te? Hai chiesto in giro?
+È importante parlare con un sacco di gente.","「新宿」是不是正流傳著你的事啊？
 你是不是沒有「打聽」過啊？
 你就去找各種人問問吧。",,"「신주쿠」에서 너에 대한 소문이 나지 않았는지
 「탐문 조사」를 하기로 하지 않았니?
@@ -98,18 +98,18 @@ Buon viaggio!","你應該已經知道「Zaxon廣場」在哪裡了吧？
 조심히 다녀 오렴","Ich nehme an, du weißt, wo das Zaxon-Forum ist?
 Du kommst per Terminal oder EDEN-Station
 dorthin. Gute Reise!"
-2050,3013,,Quindi hai trovato una maschera Zaxon.
+2050,3013,,"Quindi hai trovato una maschera Zaxon.
 Con quella puoi continuare a esplorare Kowloon.
-E questo... Guarda tu stesso.,"你已經拿到「Zaxon的面具」了吧。
+E questo... Guarda tu stesso.","你已經拿到「Zaxon的面具」了吧。
 只要有那個東西，你應該就能進入Kowloon的深處囉。
 而正在那裡等著你的……　呵呵，你就用自己的眼睛去確認吧。",,"「잭슨의 가면」을 손에 넣었구나
 그게 있으면, 쿠롱의 안쪽으로 나아갈 수 있을 거야
 그곳에서 널 기다리고 있는 건… 후후, 자신의 눈으로 확인해 보렴","Du hast also eine Zaxon-Maske gefunden. Damit
 kannst du Kowloon weiter erkunden.
 Und das ... Sieh einfach selbst."
-2051,3013,,Al secondo livello di Kowloon ci arrivi con l'ascensore che sta al primo.
+2051,3013,,"Al secondo livello di Kowloon ci arrivi con l'ascensore che sta al primo.
 Lassù ci sono Digimon più potenti.
-Quindi stai attento.,"要去Kowloon Lv. 2可以搭Lv. 1的電梯過去。
+Quindi stai attento.","要去Kowloon Lv. 2可以搭Lv. 1的電梯過去。
 出現在那裡的數碼寶貝應該會比較強，所以你要小心哦。",,"쿠롱 Lv.2로는 Lv.1에 있는 엘리베이터로 갈 수 있어
 나타나는 디지몬도 강해졌을 테니까 주의해","Zur zweiten Ebene in Kowloon kommst du mit dem Lift auf
 der ersten Ebene. Dort oben gibt es mächtigere Digimon.
@@ -204,8 +204,8 @@ Perché non lo vai a trovare a casa?","你現在應該是要去調查名叫山�
 그의 집에 가 보면, 뭔가 알 수 있을지도 몰라","Du musst jetzt Ermittlungen zu Makoto Yamashina
 anstellen, richtig? Warum besuchst du ihn
 nicht zu Hause?"
-5020,3013,,Vuoi parlare con la figlia di Makoto Yamashina a Shibuya?
-Cercala nell'edificio giallo dall'altra parte della strada a Shibuya.,"為了向山科誠的女兒打聽他的消息，你現在要去涉谷對吧？
+5020,3013,,"Vuoi parlare con la figlia di Makoto Yamashina a Shibuya?
+Cercala nell'edificio giallo dall'altra parte della strada a Shibuya.","為了向山科誠的女兒打聽他的消息，你現在要去涉谷對吧？
 在涉谷路上的對面有間黃色的建築物……
 你在找的人一定就在那裡面哦。",,"야마시나 마코토의 딸을 탐문 조사하기 위해서, 시부야로 갈 거잖아?
 시부야의 길 건너편에 있는 노란색 건물…
@@ -221,9 +221,9 @@ EDEN의 엔트런스에
 자세히 알고 있는 사람이 있을 거야","Du willst mehr über die Nile Corporation erfahren?
 Die Leute in der Nähe des EDEN-Eingangs haben
 nützliche Informationen für dich."
-5040,3013,,Sei stato comprato dalla Kamishiro?
+5040,3013,,"Sei stato comprato dalla Kamishiro?
 Allora Yuuko Kamishiro ti starà sicuramente già aspettando.
-Il QG della Kamishiro è in EDEN. Sbrigati!,"你現在要準備潛入神代的總公司對吧？
+Il QG della Kamishiro è in EDEN. Sbrigati!","你現在要準備潛入神代的總公司對吧？
 神代悠子一定正在等著你……
 神代的總公司在EDEN裡，你快去吧。",,"카미시로의 본사에 잠입할 거잖아?
 카미시로 유코는 분명, 이미 널 기다리고 있을 거야…
@@ -352,8 +352,8 @@ Forza, porta la verità alla luce.","不過現在的你一定能前進到更深�
 열심히 해서 사건의 진상에 다가가 주렴","Sicher solltest du mittlerweile noch viel weiter
 nach unten gehen können. Los, bring die Wahrheit
 ans Licht."
-7020,3013,,Kyoko ti ha dato una dritta? Cerca al quarto livello di Kowloon.
-Dovresti trovare qualcosa lì. Cerca indizi.,"你有從杏子那裡獲得情報對吧？
+7020,3013,,"Kyoko ti ha dato una dritta? Cerca al quarto livello di Kowloon.
+Dovresti trovare qualcosa lì. Cerca indizi.","你有從杏子那裡獲得情報對吧？
 你正在找的東西應該可以在Kowloon Lv. 4找到哦。
 記得把每個角落都仔細找過啊。",,"쿄코에게서 정보를 받았잖아?
 네가 찾고 있는 것은 쿠롱 Lv.4에서 찾을 수 있을 거야
@@ -428,8 +428,8 @@ Ti è forse sfuggito un posto?","不見得是搞錯調查地點，
 說不定是你還有沒調查到的地方哦。",,"조사하는 장소로서는 그렇게 틀리진 않은 것 같은데?
 어쩌면, 아직 조사하지 않은 장소가 있지 않을까","Deine Nachforschungen waren nicht völlig abwegig.
 Hast du vielleicht einen Ort übersehen?"
-8060,3013,,Trovi davvero le cose più strane. Che destino interessante...
-Continua così. Ritirati se ti fai male.,"是經常遭遇事件的那個人啊……你的命運果然很令人感興趣呢。
+8060,3013,,"Trovi davvero le cose più strane. Che destino interessante...
+Continua così. Ritirati se ti fai male.","是經常遭遇事件的那個人啊……你的命運果然很令人感興趣呢。
 總之，你就先試著前進吧。
 如果有東西擋在你面前，你只要除掉它就行了。",,"사건과 자주 조우를 하는 아이구나… 역시 네 운명은 흥미로워
 어쨌든 앞으로 나아가 보렴
@@ -483,8 +483,8 @@ Dopotutto, è il tuo destino.","這是個艱難的任務，
 …왜냐하면, 그게 너의 운명이니까","Eine schwierige Mission, aber du wirst uns
 sicher nicht enttäuschen ...
 Schließlich ist das dein Schicksal."
-9010,3013,,Sei arrivato senza problemi sul server Avalon.
-Ora usa i Digimon per addentrarti nel profondo.,"看來你順利進入阿瓦隆伺服器了呢。
+9010,3013,,"Sei arrivato senza problemi sul server Avalon.
+Ora usa i Digimon per addentrarti nel profondo.","看來你順利進入阿瓦隆伺服器了呢。
 再來你只要跟數碼寶貝們同心協力，以最深處為目標前進就行了。",,"아발론 서버로는 무사히 진입했구나
 그렇다면 다음은, 디지몬들과 협력해서 최심부로 향하는 것뿐이네","Du bist ohne Probleme auf den Avalon-Server
 gekommen. Nutze jetzt die Digimon,
@@ -597,8 +597,8 @@ Perché non cominci da lì?","你接受了山科千夏的委託對吧？
 우선 순순히 그곳에 가 보면 어떨까?","Du hast den Fall von Chika Yamashina übernommen?
 Das Ziel der Ermittlungen ist im
 Zentralkrankenhaus. Warum fängst du nicht da an?"
-14020,3013,,Le infermiere dell'ospedale non ne
-sanno più di me su Makoto Yamashina?,"山科誠的事……與其問我，
+14020,3013,,"Le infermiere dell'ospedale non ne
+sanno più di me su Makoto Yamashina?","山科誠的事……與其問我，
 不如去問他住的那間醫院的護理人員會比較好哦。",,"야마시나 마코토에 대해서는, 나에게 물어보는 것보다
 입원 중인 병원의, 간호사에게 물어보는 편이 좋다고 생각해","Wissen die Krankenschwestern im Krankenhaus nicht
 mehr als ich über Makoto Yamashina?"
@@ -648,8 +648,8 @@ Non sarà facile. Buona fortuna.","你要去說服皇家騎士對吧？
 모두 만만치 않겠지만, 힘내렴","Du willst los und die Royal Knights überzeugen?
 In der Shibuya-U-Bahn, Ueno, EDENs Freiem
 Bereich. Das wird nicht einfach. Viel Glück."
-15010,3013,,I rimanenti Royal Knights sono a Ueno e nell'Area Libera di EDEN.
-Buona fortuna.,"剩下的皇家騎士分別在上野與EDEN自由區域裡哦。
+15010,3013,,"I rimanenti Royal Knights sono a Ueno e nell'Area Libera di EDEN.
+Buona fortuna.","剩下的皇家騎士分別在上野與EDEN自由區域裡哦。
 你就照這個樣子繼續努力吧。",,"남은 로얄 나이츠는, 우에노와 EDEN의 프리 에어리어야
 이 기세로 계속 힘내렴","Die übrigen Royal Knights sind in Ueno und dem
 Freien Bereich von EDEN. Viel Glück."
@@ -662,8 +662,8 @@ Forse dovresti andare da loro?","哈克獸似乎跑進上野的博物館裡了�
 너도 뒤쫓아 가는 편이 좋지 않을까?","Hackmon hat das Ueno-Museum betreten, nicht wahr?
 Dort ist BanchoLeomon.
 Vielleicht solltest du zu ihnen gehen?"
-15030,3013,,I Royal Knight rimanenti sono nella metro di Shibuya e nella Zona Libera di EDEN.
-In bocca al lupo.,"剩下的皇家騎士分別在涉谷的地下跟EDEN的自由區域裡哦。
+15030,3013,,"I Royal Knight rimanenti sono nella metro di Shibuya e nella Zona Libera di EDEN.
+In bocca al lupo.","剩下的皇家騎士分別在涉谷的地下跟EDEN的自由區域裡哦。
 你就照這個樣子繼續努力吧。",,"남은 로얄 나이츠는, 시부야의 지하와 EDEN의 프리 에어리어야
 이 기세로 계속 힘내렴","Die übrigen Royal Knights sind im U-Bahn-System
 von Shibuya und dem Freiem Bereich von EDEN.
@@ -685,8 +685,8 @@ E quelli li puoi trovare... hihi.","想叫出持有特殊技能的數碼寶貝�
 어디서 구할 수 있는지는… 우후후","Um Digimon mit besonderen Fertigkeiten zu rufen,
 benötigst du Harmonischer Wille und Stahlwille. 
 Und die kannst du finden ... hihi."
-15051,3013,,Ma certo che sei preoccupato...
-Però prima incontra i Royal Knights a Ueno e nella metropolitana di Shibuya.,"就算一直煩惱也沒有意義啊……
+15051,3013,,"Ma certo che sei preoccupato...
+Però prima incontra i Royal Knights a Ueno e nella metropolitana di Shibuya.","就算一直煩惱也沒有意義啊……
 總之，你現在就先去見
 在涉谷的地下以及上野的皇家騎士吧。",,"고민해 봐도 별수 없어…
 어쨌든 지금은, 시부야의 지하와 우에노에 있는
@@ -709,35 +709,35 @@ Cominciamo?","讓你久等了呢……
 那麼，我們走吧。",,"기다리게 해 버린 것 같네…
 그럼, 가 볼까","Tut mir leid, dass du warten musstest.
 Sollen wir loslegen?"
-15068,3013,,Rina Shinomiya vuole aiutare?
+15068,3013,,"Rina Shinomiya vuole aiutare?
 Barbamon è potente e uno dei Sette Re Demoni dei Digimon.
-Stai in guardia. Sfrutta ogni debolezza.,"四之宮莉娜……你要去協助她打倒巴爾巴獸對吧。
+Stai in guardia. Sfrutta ogni debolezza.","四之宮莉娜……你要去協助她打倒巴爾巴獸對吧。
 巴爾巴獸是擁有強大力量的七大魔王之一哦，你絕對不能大意。
 只要對方產生破綻，你就要持續不斷地攻擊它。",,"시노미야 리나… 그녀에게 협력해서 발바몬을 쓰러뜨리러 가는 거구나
 발바몬은 거대한 힘을 가진 7대 마왕의 일각이야
 결코 방심하면 안 돼. 빈틈이 생기면 한꺼번에 공격하렴","Rina Shinomiya will helfen? Barbamon ist mächtig
 und einer der Sieben Dämonenkönige der Digimon.
 Sei auf der Hut. Nutze jede Schwäche."
-15070,3013,,Hai dei potenti alleati. Combatterai sicuramente bene.
-Kentaurosmon non ha ancora attaccato. Quindi vai subito all'Area Libera.,"你得到了一位強力的伙伴呢！　這麼一來，你應該能好好戰鬥了。
+15070,3013,,"Hai dei potenti alleati. Combatterai sicuramente bene.
+Kentaurosmon non ha ancora attaccato. Quindi vai subito all'Area Libera.","你得到了一位強力的伙伴呢！　這麼一來，你應該能好好戰鬥了。
 八腳馬獸似乎還沒有移動，
 在他開始移動之前，快點前往EDEN的自由區域吧。",,"강력한 아군이 생겼구나… 이만하면 충분히 싸울 수 있을 거야
 슬레이프몬은 아직 이동하지 않은 것 같으니까,
 상대가 이동하기 전에, EDEN의 프리 에어리어로 향하는 게 어때?","Du hast mächtige Verbündete. Du wirst sicher gut
 kämpfen. Kentaurosmon hat noch nicht angegriffen.
 Geh also schnell zum Freien Bereich."
-15080,3013,,Non hai niente di meglio da fare?
+15080,3013,,"Non hai niente di meglio da fare?
 Pensavo che come detective fossi richiesto.
-Sbrigati e vai ad Asakusa.,"你還在這種地方打混好嗎？
+Sbrigati e vai ad Asakusa.","你還在這種地方打混好嗎？
 刑警有請求你前去支援對吧？
 快去淺草幫他一把吧。",,"너, 이런 곳에 있어도 되는 거야?
 형사님으로부터, 지원 요청이 있었잖아?
 서둘러 아사쿠사로 가 주렴","Hast du nichts Besseres zu tun? Ich dachte, du
 wärst detektivisch gefragt.
 Beeil dich und geh nach Asakusa."
-15090,3013,,Lo spostamento digitale di Asakusa.
+15090,3013,,"Lo spostamento digitale di Asakusa.
 Lì c'è un Divoratore. L'area è proprio come prima. ... Dunque.
-Quale futuro sceglierai?,"淺草的Digital Shift……侵食者就在這裡的深處哦。
+Quale futuro sceglierai?","淺草的Digital Shift……侵食者就在這裡的深處哦。
 這一帶的構造似乎跟之前一模一樣呢。
 好啦，你會選擇什麼樣的未來呢？",,"아사쿠사의 디지털 시프트… 이터는 이 안쪽에 있어
 이 주변의 구조는 전과 달라진 게 없는 것 같네
@@ -749,8 +749,8 @@ Ma tu non dovresti essere a Odaiba, di solito?","大家都為了完成各自的�
 你不是應該要去御台場嗎？",,"모두 각자의 역할을 다하기 위해 움직이고 있어…
 넌 오다이바로 가야만 하는 게 아니었니?","Alle sind unterwegs, um ihren Teil zu leisten.
 Solltest du nicht eigentlich in Odaiba sein?"
-16005,3013,,C'è solo una rotta per Odaiba. Non puoi perderti.
-Examon ti aspetta... Preparati bene.,"御台場那裡只有一條路，所以你不會迷路的。
+16005,3013,,"C'è solo una rotta per Odaiba. Non puoi perderti.
+Examon ti aspetta... Preparati bene.","御台場那裡只有一條路，所以你不會迷路的。
 深處有艾克薩獸在等著你，你可要先做好周全的準備啊。",,"오다이바에는 길이 하나뿐이라 헤맬 일은 없어
 안쪽에 엑자몬이 있는데… 준비는 확실히, 하렴","Es gibt nur eine Route nach Odaiba. Du kannst dich
 nicht verlaufen. Examon erwartet dich ...
@@ -772,8 +772,8 @@ Svelto, al primo livello di Kowloon.","你跟她約好要碰面對吧？
 빨리 쿠롱 Lv.1로 향하렴","Solltest du nicht das Kind treffen? Du solltest
 es wirklich nicht lang allein lassen.
 Schnell, zur ersten Ebene in Kowloon."
-16020,3013,,Il bambino pare sia ora al quinto livello di Kowloon.
-Lo seguirai?,"她似乎到Kowloon Lv. 5去了……
+16020,3013,,"Il bambino pare sia ora al quinto livello di Kowloon.
+Lo seguirai?","她似乎到Kowloon Lv. 5去了……
 你也快去找她吧。",,"그 아이는 쿠롱 Lv.5로 가 버린 것 같네…
 너도 가는 게 어때?","Das Kind scheint jetzt auf der fünften Ebene in 
 Kowloon zu sein. Wirst du ihm folgen?"
@@ -842,8 +842,8 @@ Cerca comunque di sfruttare questo posto al meglio.","妳們的命運還存在�
 이 장소를 효과적으로 사용해 줘","Du hast ein anderes Schicksal, deshalb ist die
 Funktionalität beschränkt. Nutze diesen Ort
 bitte trotzdem so gut wie möglich."
-19000,3013,,Vai all'edificio Metropolitan per chiudere la faccenda dei Royal Knights?
-Questa battaglia deciderà il tuo destino. Sii forte.,"你要去新都廳跟皇家騎士決戰對吧？
+19000,3013,,"Vai all'edificio Metropolitan per chiudere la faccenda dei Royal Knights?
+Questa battaglia deciderà il tuo destino. Sii forte.","你要去新都廳跟皇家騎士決戰對吧？
 這場戰鬥將會決定你的命運，你可要好好振作哦。",,"너, 로얄 나이츠와의 결전을 위해
 신 도청으로 향하기로 하지 않았었니?
 …이 싸움은, 네 운명을 결정짓게 될 거야… 힘내렴","Du gehst zum Metropolitan-Gebäude, um die Sache 
