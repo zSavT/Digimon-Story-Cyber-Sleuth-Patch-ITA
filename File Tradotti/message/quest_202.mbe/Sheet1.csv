@@ -252,7 +252,7 @@ Hirasaka“ gehalten und wurde von einem LKW
 335,4125,,"Voglio solo sbrigarmi e farla finita così posso
 andarmene subito!",真是的～我好想早點結束，趕快回家哦。,,정말― 빨리 끝내고 돌아가고 싶어,"Ich will es nur schnell hinter mich bringen, damit
 ich abhauen kann!"
-401,2001,,"Shibuya, l'incrocio Scramble, un camion, e un incidente...",涉谷、人車分離十字路口、卡車、事故……,,"시부야, 스크램블 교차로, 트럭, 사고…","Shibuya, die Kreuzung, ein LKW und ein
+401,2001,,"Shibuya, l'incrocio, un camion, e un incidente...",涉谷、人車分離十字路口、卡車、事故……,,"시부야, 스크램블 교차로, 트럭, 사고…","Shibuya, die Kreuzung, ein LKW und ein
 Unfall ..."
 402,4856,,"""Ma guai a te che troverai l'entrata lì...""",……找到的話就不快樂。,,…발견해 버리면 언해피―,"„Aber wehe dem, der den Eingang findet ...“"
 403,4856,,"""Se ce la fai...""",到達的話……,,도달하면…,"„Wer ihn passiert ..."""
@@ -307,8 +307,8 @@ Lily, du musst etwas schneller sein."
 “如果覺得厭煩　就走下坡道＂",,"""외로워지면 고개를 내려와""
 ""힘들어지면 고개를 내려와""","„Bist du allein, musst du tief hinab“
 „Bist du traurig, musst du tief hinab“"
-508,3006,,"Bene, bene. State tutti per raggiungere lo Scramble
-Crossing. Anche i semafori dovrebbero collaborare.","很好，再不久五個人就會同時抵達。
+508,3006,,"Bene, bene. State tutti per raggiungere l'incrocio
+di Shibuya. Anche i semafori dovrebbero collaborare.","很好，再不久五個人就會同時抵達。
 綠燈的時間也和預期一樣。",,"좋아. 곧 다섯 명이 동시에 교차로에 도착한다
 파란 신호의 타이밍도 예정대로군","Gut, gut. Ihr erreicht bald die Kreuzung.
 Die Ampeln sollten auch mitspielen."
@@ -445,7 +445,7 @@ ihr dort gesehen habt?"
 810,3006,,"Capisco... Beh, questo risolve tutto.",是嗎……果然。,,그렇군… 역시나,Ich verstehe ... Dann ist alles klar.
 811,4120,,Cosa intendi? Chi è lei?,請問這個女孩子到底是誰？,,이 여자애는 대체 누구인가요?,Was meinst du denn? Wer ist sie?
 812,3006,,"Era una studentessa delle superiori morta tre mesi
-fa in un incidente all'incrocio Scrambled Crossing.",她是三個月前，在那個十字路口發生意外死亡的女高中生。,,그녀는 3개월 전에 그 교차로에서 사고사한 여고생이다,"Sie war eine Schülerin, die vor drei Monaten bei
+fa in un incidente all'incrocio di Shibuya.",她是三個月前，在那個十字路口發生意外死亡的女高中生。,,그녀는 3개월 전에 그 교차로에서 사고사한 여고생이다,"Sie war eine Schülerin, die vor drei Monaten bei
 einem Unfall an der Kreuzung ums Leben kam."
 813,4121,,Lei...è morta in un incidente? Davvero?,意、意外死亡……？　真的嗎？,,"사, 사고사…? 정말로요?",Sie ... kam bei einem Unfall ums Leben? Wirklich?
 814,3006,,Sì. È stata persino investita da un camion.,是啊，她被大型卡車輾過。,,"그래, 대형 트럭에 치여서 말이지",Ja. Sie wurde sogar von einem LKW überfahren.
@@ -467,7 +467,7 @@ wiederauferstanden ist."
 …그, 그런…",Ich weiß nicht recht ...
 821,3006,,"Ho fatto qualche ricerca. Shibuya oggi è una valle
 che è stata tagliata dal fiume Shibuya, che a
-sua volta ora scorre sotto l'incrocio Scramble.","我調查了一下。
+sua volta ora scorre sotto l'incrocio di Shibuya.","我調查了一下。
 涉谷是「涉谷川」流經所形成的河谷。
 現在，那條涉谷川就在人車分離十字路口的地下流動。",,"조사해 봤는데
 시부야는「시부야강」에 의해 깎여 만들어진 골짜기
