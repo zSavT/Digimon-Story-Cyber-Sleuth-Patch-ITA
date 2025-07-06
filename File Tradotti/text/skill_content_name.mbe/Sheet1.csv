@@ -209,7 +209,7 @@ einen Gegner. 10 % Chance auf GES +10 %."
 ","Magischer Angriff, 30 Feuerschaden gegen
 alle Gegner."
 1052,,"Attacco fisico, 85 danni di Fuoco a un nemico.
-10% di probabilità di aumentare ATT del 10%.","對敵方單體發動威力85的火屬性物理攻擊，
+10% di probabilità di aumentare ATK del 10%.","對敵方單體發動威力85的火屬性物理攻擊，
 並有10%的機率使自己的ATK提升10%。",,"적 1체에 불속성 위력 85의 물리공격. 
 10%의 확률로 자신의 공격력을 10% 올린다.","Physischer Angriff, 85 Feuerschaden gegen
 einen Gegner. 10 % Chance auf ANG +10 %."
@@ -295,7 +295,7 @@ Absorbiert 20 % des Schadens als TP."
 대상을 5%의 확률로 마비 상태로 만든다.","Physischer Angriff, 40 Pflanzenschaden gegen
 alle Gegner. 5 % Chance auf Lähmen."
 1072,,"Attacco fisico, 90 danni Neutri a un nemico.
-30% di probabilità di aumentare l'ATT del 10%.","對敵方單體發動威力90的無屬性物理攻擊，
+30% di probabilità di aumentare l'ATK del 10%.","對敵方單體發動威力90的無屬性物理攻擊，
 並有30%的機率使自己的ATK提升10%。",,"적 1체에 무속성 위력 90의 물리공격. 
 30%의 확률로 자신의 공격력을 10% 올린다.","Physischer Angriff, 90 Neutralschaden gegen
 einen Gegner. 30 % Chance auf ANG +10 %."
@@ -305,7 +305,7 @@ einen Gegner. 30 % Chance auf ANG +10 %."
 30%의 확률로 대상의 방어력을 10% 내린다.","Physischer Angriff, 80 Erdschaden gegen
 einen Gegner. 30 % Chance auf Ziel-VER –10 %."
 1074,,"Attacco fisico, 75 danni di tipo Terra a un nemico.
-30% di probabilità di ridurre l'ATT dell'obiettivo del 10%.","對敵方單體發動威力75的土屬性物理攻擊，
+30% di probabilità di ridurre l'ATK dell'obiettivo del 10%.","對敵方單體發動威力75的土屬性物理攻擊，
 並有30%的機率使對方的ATK降低10%。",,"적 1체에 땅속성 위력 75의 물리공격.
 30%의 확률로 대상의 공격력을 10% 내린다.","Physischer Angriff, 75 Erdschaden gegen
 einen Gegner. 30 % Chance auf Ziel-ANG –10 %."
@@ -656,7 +656,7 @@ Aumenta ATK del 10%.","對敵方單體發動威力130的火屬性物理攻擊，
 자신의 공격력을 10% 올린다.","Physischer Angriff, 130 Feuerschaden gegen
 einen Gegner. ANG +10 %."
 1165,,"Attacco fisico, 130 danni Neutri a un
-nemico. 5% di probabilità di aumentare ATT del 50%.","對敵方單體發動威力130的無屬性物理攻擊，
+nemico. 5% di probabilità di aumentare ATK del 50%.","對敵方單體發動威力130的無屬性物理攻擊，
 並有5%的機率使自己的ATK提升50%。",,"적 1체에 무속성 위력 130의 물리공격.
 5%의 확률로 자신의 공격력을 50% 올린다.","Physischer Angriff, 130 Neutralschaden gegen
 einen Gegner. 5 % Chance auf ANG +50 %."
@@ -730,7 +730,7 @@ einen Gegner. Hebt Unterstützungsfert. auf."
 대상을 50%의 확률로 스턴 상태로 만든다.","Physischer Angriff, 125 Erdschaden gegen
 einen Gegner. 50 % Chance auf Betäuben."
 1182,,"4 attacchi fisici, 35 danni Terra a uno.
-30% di probabilità di ridurre l'ATT dell'obiettivo del 10%.","對敵方單體發動4次威力35的土屬性物理攻擊，
+30% di probabilità di ridurre l'ATK dell'obiettivo del 10%.","對敵方單體發動4次威力35的土屬性物理攻擊，
 並有30%的機率使對方的ATK降低10%",,"적 1체에 땅속성 위력 35의 물리공격을 4회 한다.
 30%의 확률로 대상의 공격력을 10% 내린다.","4 physische Angriffe, 35 Erdschaden gegen
 einen Gegner. 30 % Chance auf Ziel-ANG –10 %."
@@ -969,7 +969,7 @@ einen Gegner. 10 % Chance auf Ziel-VER –10 %."
 10%의 확률로 자신의 민첩을 10% 올린다.","Physischer Angriff, 85 Wasserschaden gegen
 einen Gegner. 10 % Chance auf GES +10 %."
 1244,,"Attacco fisico, 110 danni di tipo Terra a un nemico.
-Aumenta la VEL del 10%.","對敵方單體發動威力110的土屬性物理攻擊，
+Aumenta la SPD del 10%.","對敵方單體發動威力110的土屬性物理攻擊，
 並提昇自己的SPD10%。",,"적 1체에 땅속성 위력 110의 물리공격.
 자신의 민첩을 10% 올린다.","Physischer Angriff, 110 Erdschaden gegen
 einen Gegner. Erhöht GES um 10 %."
@@ -1434,17 +1434,17 @@ Annulla le Abilità di Supporto del bersaglio.","對敵方單體發動威力30�
 並使對方輔助技能無效化。",,"적 1체에 빛속성 위력 30의 마법공격.
 대상을 서포트 스킬을 무효화한다.","Magischer Angriff, 30 Lichtschaden gg. einen
 Gegner. Hebt Unterstützungsfertigkeiten auf."
-3090,,Aumenta l'ATT di un alleato del 10%.,我方單體的ATK提升10%。,,아군 1체의 공격력을 10% 올린다.,Erhöht ANG eines Verbündeten um 10 %.
+3090,,Aumenta l'ATK di un alleato del 10%.,我方單體的ATK提升10%。,,아군 1체의 공격력을 10% 올린다.,Erhöht ANG eines Verbündeten um 10 %.
 3091,,Aumenta la DEF di un alleato del 10%.,我方單體的DEF提升10%。,,아군 1체의 방어력을 10% 올린다.,Erhöht VER eines Verbündeten um 10 %.
 3092,,Aumenta l'INT di un alleato del 10%.,我方單體的INT提升10%。,,아군 1체의 지력을 10% 올린다.,Erhöht INT eines Verbündeten um 10 %.
-3093,,Aumenta la VEL di un alleato del 10%.,我方單體的SPD提升10%。,,아군 1체의 민첩을 10% 올린다.,Erhöht GES eines Verbündeten um 10 %.
+3093,,Aumenta la SPD di un alleato del 10%.,我方單體的SPD提升10%。,,아군 1체의 민첩을 10% 올린다.,Erhöht GES eines Verbündeten um 10 %.
 3094,,Aumenta l'EVA di un alleato del 10%.,我方單體的EVA提升10%。,,아군 1체의 회피율을 10% 올린다.,Erhöht AWN eines Verbündeten um 10 %.
 3095,,Aumenta il CRT di un alleato del 10%.,我方單體的CRT提升10%。,,아군 1체의 크리티컬 발생률을 10% 올린다.,Erhöht KRT eines Verbündeten um 10 %.
-3096,,Diminuisce l'ATT di un nemico del 10%.,敵方單體的ATK降低10%。,,적 1체의 공격력을 10% 내린다.,Senkt ANG eines Gegners um 10 %.
+3096,,Diminuisce l'ATK di un nemico del 10%.,敵方單體的ATK降低10%。,,적 1체의 공격력을 10% 내린다.,Senkt ANG eines Gegners um 10 %.
 3097,,Diminuisce la DEF di un nemico del 10%.,敵方單體的DEF降低10%。,,적 1체의 방어력을 10% 내린다.,Senkt VER eines Gegners um 10 %.
 3098,,Diminuisce l'INT di un nemico del 10%.,敵方單體的INT降低10%。,,적 1체의 지력을 10% 내린다.,Senkt INT eines Gegners um 10 %.
-3099,,Diminuisce la VEL di un nemico del 10%.,敵方單體的SPD降低10%。,,적 1체의 민첩을 10% 내린다.,Senkt GES eines Gegners um 10 %.
-3100,,Aumenta l'ATT di tutti i Digimon in battaglia del 10%.,我方全體戰鬥成員的ATK提升10%。,,배틀멤버 전체의 공격력을 10% 올린다.,Erhöht ANG aller kämpfenden Digimon um 10 %.
+3099,,Diminuisce la SPD di un nemico del 10%.,敵方單體的SPD降低10%。,,적 1체의 민첩을 10% 내린다.,Senkt GES eines Gegners um 10 %.
+3100,,Aumenta l'ATK di tutti i Digimon in battaglia del 10%.,我方全體戰鬥成員的ATK提升10%。,,배틀멤버 전체의 공격력을 10% 올린다.,Erhöht ANG aller kämpfenden Digimon um 10 %.
 3101,,Aumenta la DEF di tutti i Digimon da battaglia del 10%.,我方全體戰鬥成員的DEF提升10%。,,배틀멤버 전체의 방어력을 10% 올린다.,Erhöht VER aller kämpfenden Digimon um 10 %.
 3102,,Aumenta l'INT di tutti i Digimon in battaglia del 10%.,我方全體戰鬥成員的INT提升10%。,,배틀멤버 전체의 지력을 10% 올린다.,Erhöht INT aller kämpfenden Digimon um 10 %.
 3103,,Aumenta SPD di tutti i Digimon in battaglia del 10%.,我方全體戰鬥成員的SPD提升10%。,,배틀멤버 전체의 민첩을 10% 올린다.,Erhöht GES aller kämpfenden Digimon um 10 %.
@@ -1582,13 +1582,13 @@ vollständig."
 4024,,"Ripristina completamente tutti gli alleati 
 che sono incapaci di combattere.",完全回復我方全體的無法戰鬥狀態,,아군 전체의 전투불능을 완전 회복.,"Regeneriert alle kampfunfähigen Verbündeten
 vollständig."
-4025,,Aumenta l'ATT di un alleato per 5 turni in battaglia.,戰鬥時，提升我方單體的ATK 5回合,,배틀 시 5턴간 아군 1체의 공격력이 상승.,"Erhöht ANG eines Verbündeten für 5 Züge
+4025,,Aumenta l'ATK di un alleato per 5 turni in battaglia.,戰鬥時，提升我方單體的ATK 5回合,,배틀 시 5턴간 아군 1체의 공격력이 상승.,"Erhöht ANG eines Verbündeten für 5 Züge
 im Kampf."
 4026,,Aumenta la DEF di un alleato per 5 turni in battaglia.,戰鬥時，提升我方單體的DEF 5回合,,배틀 시 5턴간 아군 1체의 방어력이 상승.,"Erhöht VER eines Verbündeten für 5 Züge
 im Kampf."
 4027,,Aumenta l'INT di un alleato per 5 turni in battaglia.,戰鬥時，提升我方單體的INT 5回合,,배틀 시 5턴간 아군 1체의 지력이 상승.,"Erhöht INT eines Verbündeten für 5 Züge
 im Kampf."
-4028,,Aumenta la VEL di un alleato per 5 turni in battaglia.,戰鬥時，提升我方單體的SPD 5回合,,배틀 시 5턴간 아군 1체의 민첩이 상승.,"Erhöht GES eines Verbündeten für 5 Züge
+4028,,Aumenta la SPD di un alleato per 5 turni in battaglia.,戰鬥時，提升我方單體的SPD 5回合,,배틀 시 5턴간 아군 1체의 민첩이 상승.,"Erhöht GES eines Verbündeten für 5 Züge
 im Kampf."
 4029,,Aumenta l'ACU di un alleato per 5 turni in battaglia.,戰鬥時，提升我方單體的ACU 5回合,,배틀 시 5턴간 아군 1체의 명중률이 상승.,"Erhöht GEN eines Verbündeten für 5 Züge
 im Kampf."
@@ -2061,7 +2061,7 @@ Verbündeten alle Statusleiden auf."
 1348,,"Attacco fisico, 75 danni Neutri a un nemico.",對敵方單體發動無屬性威力75的物理攻擊。,,적 1체에 무속성 위력 75의 물리공격.,"Physischer Angriff, 75 Neutralschaden gegen
 einen Gegner."
 1349,,"4-8 attacchi fisici, 15 danni Neutri a
-un nemico. Probabilità del 20% di aumentare ATT del 10%.","對敵方單體發動無屬性威力15的物理攻擊4～8次。
+un nemico. Probabilità del 20% di aumentare ATK del 10%.","對敵方單體發動無屬性威力15的物理攻擊4～8次。
 20%的機率能使自我的ATK上升10%。",,"적 1체에 무속성 위력 15의 물리공격을 4~8회 한다.
 20%의 확률로 자신의 공격력을 10% 올린다.","4–8 physische Angriffe, 15 Neutralschaden gg.
 einen Gegner. 20 % Chance auf ANG +10 %."

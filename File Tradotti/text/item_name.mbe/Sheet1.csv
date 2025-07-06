@@ -27,8 +27,8 @@ ID,Japanese,English,Chinese,EnglishCensored,Korean,German
 26,,Potenziamento ATK,ATK增幅器,,ATK 부스트,ANG-Boost
 27,,Aumento DEF,DEF增幅器,,DEF 부스트,VER-Boost
 28,,Potenziamento INT,INT增幅器,,INT 부스트,INT-Boost
-29,,Potenziamento VEL,SPD增幅器,,SPD 부스트,GES-Boost
-30,,Potenziamento ATT,HIT增幅器,,HIT 부스트,TRE-Boost
+29,,Potenziamento SPD,SPD增幅器,,SPD 부스트,GES-Boost
+30,,Potenziamento ATK,HIT增幅器,,HIT 부스트,TRE-Boost
 31,,Potenziamento AGL,AGL增幅器,,AGL 부스트,GEW-Boost
 32,,Pot. Crit.,CRT增幅器,,CRT 부스트,KRT-Boost
 33,,Portale di fuga,ESCAPE GATE,,이스케이프 게이트,Fluchttor
@@ -77,9 +77,9 @@ ID,Japanese,English,Chinese,EnglishCensored,Korean,German
 113,,Chip Restrizione SP C,SP抑制晶片C,,SP억제칩 C,SP-Limitierungs-Chip C
 114,,Chip Restrizione SP B,SP抑制晶片B,,SP억제칩 B,SP-Limitierungs-Chip B
 115,,Chip Restrizione SP A,SP抑制晶片A,,SP억제칩 A,SP-Limitierungs-Chip A
-116,,Chip Restrizione ATT C,ATK抑制晶片C,,ATK억제칩 C,ANG-Limitierungs-Chip C
-117,,Chip Restrizione ATT B,ATK抑制晶片B,,ATK억제칩 B,ANG-Limitierungs-Chip B
-118,,Chip Restrizione ATT,ATK抑制晶片A,,ATK억제칩 A,ANG-Limitierungs-Chip A
+116,,Chip Restrizione ATK C,ATK抑制晶片C,,ATK억제칩 C,ANG-Limitierungs-Chip C
+117,,Chip Restrizione ATK B,ATK抑制晶片B,,ATK억제칩 B,ANG-Limitierungs-Chip B
+118,,Chip Restrizione ATK,ATK抑制晶片A,,ATK억제칩 A,ANG-Limitierungs-Chip A
 119,,Chip Restrizione DEF C,DEF抑制晶片C,,DEF억제칩 C,VER-Limitierungs-Chip C
 120,,Chip Restrizione DEF B,DEF抑制晶片B,,DEF억제칩 B,VER-Limitierungs-Chip B
 121,,Chip Restrizione DEF A,DEF抑制晶片A,,DEF억제칩 A,VER-Limitierungs-Chip A
@@ -133,7 +133,7 @@ ID,Japanese,English,Chinese,EnglishCensored,Korean,German
 311,,ATK Allegato E,ATK附件E,,ATK어태치 E,ANG-Zusatz E
 312,,ATK Allegato D,ATK附件D,,ATK어태치 D,ANG-Zusatz D
 313,,ATK Allegato C,ATK附件C,,ATK어태치 C,ANG-Zusatz C
-314,,ATT Allegato B,ATK附件B,,ATK어태치 B,ANG-Zusatz B
+314,,ATK Allegato B,ATK附件B,,ATK어태치 B,ANG-Zusatz B
 315,,ATK Allegato A,ATK附件A,,ATK어태치 A,ANG-Zusatz A
 316,,DEF Allegato E,DEF附件E,,DEF어태치 E,VER-Zusatz E
 317,,DEF Allegato D,DEF附件D,,DEF어태치 D,VER-Zusatz D
@@ -146,7 +146,7 @@ ID,Japanese,English,Chinese,EnglishCensored,Korean,German
 324,,INT Allegato B,INT附件B,,INT어태치 B,INT-Zusatz B
 325,,INT Allegato A,INT附件A,,INT어태치 A,INT-Zusatz A
 326,,SPD Allegato E,SPD附件E,,SPD어태치 E,GES-Zusatz E
-327,,VEL Allegato D,SPD附件D,,SPD어태치 D,GES-Zusatz D
+327,,SPD Allegato D,SPD附件D,,SPD어태치 D,GES-Zusatz D
 328,,SPD Allegato C,SPD附件C,,SPD어태치 C,GES-Zusatz C
 329,,SPD Allegato B,SPD附件B,,SPD어태치 B,GES-Zusatz B
 330,,SPD Allegato A,SPD附件A,,SPD어태치 A,GES-Zusatz A

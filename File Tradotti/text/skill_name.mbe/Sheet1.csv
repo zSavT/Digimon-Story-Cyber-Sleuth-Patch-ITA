@@ -543,11 +543,11 @@ ID,Japanese,English,Chinese,EnglishCensored,Korean,German
 4003,,Spray HP C,HP噴霧C,,HP스프레이 C,TP-Spray C
 4004,,Spray HP B,HP噴霧B,,HP스프레이 B,TP-Spray B
 4005,,Spray HP A,HP噴霧A,,HP스프레이 A,TP-Spray A
-4006,,Capsula PS C,SP膠囊C,,SP캡슐 C,SP-Kapsel C
+4006,,Capsula SP C,SP膠囊C,,SP캡슐 C,SP-Kapsel C
 4007,,Capsula SP B,SP膠囊B,,SP캡슐 B,SP-Kapsel B
-4008,,Capsula PS A,SP膠囊A,,SP캡슐 A,SP-Kapsel A
-4009,,Spray PS B,SP噴霧B,,SP스프레이 B,SP-Spray B
-4010,,Spray PA,SP噴霧A,,SP스프레이 A,SP-Spray A
+4008,,Capsula SP A,SP膠囊A,,SP캡슐 A,SP-Kapsel A
+4009,,Spray SP B,SP噴霧B,,SP스프레이 B,SP-Spray B
+4010,,Spray SP,SP噴霧A,,SP스프레이 A,SP-Spray A
 4011,,Spray medico,醫療噴霧,,메디컬 스프레이,Medizinisches Spray
 4012,,Spray Medico DX,醫療噴霧DX,,메디컬 스프레이 DX,Medizinisches Spray DX
 4013,,Recupero Veleno,劇毒復原,,포이즌 리커버리,Giftheilung
@@ -632,10 +632,10 @@ ID,Japanese,English,Chinese,EnglishCensored,Korean,German
 8008,,Recupero % HP,HP比例回復,,HP비율회복,Heilung – TP %
 8009,,Recupero SP %,SP比例回復,,SP비율회복,Heilung – SP %
 8010,,Recupero % HP/SP,HP、SP比例回復,,HP/SP비율회복,Heilung – TP/SP %
-8011,,Recupero PS fisso,HP固定回復,,HP고정회복,Heilung – festgelegte TP
+8011,,Recupero HP fisso,HP固定回復,,HP고정회복,Heilung – festgelegte TP
 8012,,Recupero SP Fisso,SP固定回復,,SP고정회복,Heilung – festgelegte SP
 8013,,Resurrezione,復活,,부활,Wiederbelebung
-8014,,Forza PS 1,HP強制為1,,강제HP1,1 TP erzwingen
+8014,,Forza HP 1,HP強制為1,,강제HP1,1 TP erzwingen
 8015,,Debug: Distruggi tutti i nemici,殲滅敵方全體（除錯專用）,,적 전원 섬멸(디버깅용),Debug: alle Gegner töten
 8016,,Debug: Tutti i debuff nemici,敵方全體陷入異常狀態（除錯專用）,,적 전원 상태이상(디버깅용),Debug: Gegner-Debuffs
 8017,,Debug: Tutti i nemici sconfitti,敵方全體立即死亡（除錯專用）,,적 전원 즉사(디버깅용),Debug: alle Gegner tot
