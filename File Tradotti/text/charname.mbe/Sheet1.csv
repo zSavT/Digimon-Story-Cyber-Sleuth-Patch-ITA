@@ -277,7 +277,7 @@
 3012,,Fei,菲,,페이,Fei
 3013,,Mirei,米蕾,,미레이,Mirei
 3014,,Rina,莉娜,,리나,Rina
-3015,,Data,伊達,,다테,Date
+3015,,Date,伊達,,다테,Date
 3016,,Yukino,雪乃,,유키노,Yukino
 3017,,Ryota,良太,,료타,Ryota
 3018,,Sakura,櫻,,사쿠라,Sakura
@@ -639,10 +639,10 @@
 4388,,Ragazzo Nerd Sognatore,夢想家御宅族青年,,몽상가 오타쿠 청년,Träumerischer Nerd
 4389,,Tizio Affascinante,四處搭訕的男子,,작업거는 남자,Charmanter Typ
 4390,,Casalinga Dipendente dallo Shopping,熱愛購物的主婦,,쇼핑을 좋아하는 주부,Kaufsüchtige Hausfrau
-4391,,Ragazza precoce,老成的女孩,,깜찍한 여자아이,Frühreifes Mädchen
+4391,,Bambina precoce,老成的女孩,,깜찍한 여자아이,Frühreifes Mädchen
 4392,,Studente Pettegolo,喜愛八卦的男學生,,소문을 좋아하는 남학생,Schwatzender Schüler
 4393,,Studentessa timida,膽小的女學生,,무서워하는 여학생,Ängstliche Schülerin
-4394,,Ragazza dalla scrittura straniera,外文系女子,,서양계 여자,Fremdsprachiges Mädchen
+4394,,Ragazza di lingua straniera,外文系女子,,서양계 여자,Fremdsprachiges Mädchen
 4395,,Ragazza Avida,物欲系女子,,물욕 많은 여자,Gieriges Mädchen
 4396,,Agente di Polizia Guida,負責引路的警察,,유도 담당 경찰관,Wegweisender Polizist
 4397,,Tamer Viaggiatore del Mondo,勞碌命的馴獸師,,고생하는 테이머,Weitgereister Zähmer
@@ -864,7 +864,7 @@
 4723,,Vecchio Uomo Coraggioso,有膽量的老爺爺,,배짱 좋은 할아버지,Tapferer alter Mann
 4724,,Ragazzo amante dei CD,喜愛CD的少年,,CD를 사랑하는 소년,CD-begeisterter Junge
 4725,,Uomo d'affari pazzo per la musica,音樂狂熱者的上班族,,음악 마니아 샐러리맨,Musikfan-Geschäftsmann
-4726,,Ragazzo Nerd di Anime Song,喜愛動畫歌曲的御宅族少年,,애니송 오타쿠 소년,Animesong-Nerd
+4726,,Ragazzo Nerd di Anime Ost,喜愛動畫歌曲的御宅族少年,,애니송 오타쿠 소년,Animesong-Nerd
 4727,,Hacker diffidente nei confronti della polizia,在意警察的駭客,,경찰을 의식하는 해커,Polizeischeuer Hacker
 4728,,Hacker Zaxon Orgoglioso,自尊高的Zaxon駭客,,긍지높은 잭슨 해커,Stolzer Zaxon-Hacker
 4729,,Hacker Stolto,愛開玩笑的駭客,,까불대는 해커,Törichter Hacker
@@ -964,7 +964,7 @@
 4858,,Presidente Mei,社長芽衣,,부장 메이,Präsidentin Mei
 4859,,Voce Familiare,耳熟的聲音,,친숙한 목소리,Vertraute Stimme
 4860,,Tankmon con Armi Ottiche,自稱光學武器的坦克獸,,자칭 광학 병기 탱크몬,Optikwaffen-Tankmon
-4861,,La DigiLinea di Manaka,真中的數碼連線,,마나카의 디지라인,Manakas Digiline
+4861,,La Digiline di Manaka,真中的數碼連線,,마나카의 디지라인,Manakas Digiline
 4862,,Ragazzo precoce,早熟的少年,,어른스러운 소년,Frühreifer Junge
 4863,,Ragazzo Architetto Genio,天才設計師少年,,천재 건축가 소년,Genialer Architekt
 4864,,Baku/Clockmon,BAKU／時鐘獸,,BAKU/타임몬,Baku/Clockmon
@@ -1096,7 +1096,7 @@
 5009,,Sig. Navit,NAVIT,,내빗군,Herr Navit
 5010,,Ribelli #1 e #2,反叛者其之1、其之2,,"리벨리온즈 1, 2",Rebel Nr. 1 und Nr. 2
 5011,,Mephisto & Growlmon,梅菲斯特先生＆古拉獸,,메피스토씨&그라우몬,Mephisto und Growlmon
-5013,,Hackers di Zaxon Ragazze Cattive,不良Zaxon駭客們,,불량 잭슨 해커들,Böse Zaxon-Hacker
+5013,,Hacker malvagi di Zaxon,不良Zaxon駭客們,,불량 잭슨 해커들,Böse Zaxon-Hacker
 5014,,Nokia e Yuuko,諾奇雅＆悠子,,노키아&유코,Nokia und Yuuko
 5015,,Arata & Yuuko,新＆悠子,,아라타&유코,Arata und Yuuko
 5016,,[p] & Arata,[p]＆新,,[p]&아라타,[p] und Arata
@@ -1377,7 +1377,7 @@
 7160,,Voce un po' gentile,溫柔的聲音,,다정한 목소리,Sympathische Stimme
 7161,,Voce di donna dignitosa,嚴肅的女性聲音,,늠름한 여성의 목소리,Gediegene Frauenstimme
 7162,,Donna Bionda,金髮女性,,금발의 여성,Blonde Frau
-7163,,DigiLinea Da Chitose,千歲發的訊息,,치토세로부터 온 디지라인,Digiline von Chitose
+7163,,Digiline Da Chitose,千歲發的訊息,,치토세로부터 온 디지라인,Digiline von Chitose
 7164,,Voce energica,幹勁十足的聲音,,발랄한 목소리,Energische Stimme
 7165,,Voce Ben Educata,穩重的聲音,,온순해 보이는 목소리,Artige Stimme
 7166,,Digimon vigorosi,幹勁十足的數碼寶貝,,발랄한 디지몬,Energisches Digimon

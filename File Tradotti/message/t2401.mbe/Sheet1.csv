@@ -63,8 +63,8 @@ Yuuko. Benvenuto alla Kamishiro Enterprises.","您是悠子小姐的朋友吧。
 어서 오십시오, 카미시로 엔터프라이즈에","Du bist also mit Ms. Yuuko befreundet.
 Willkommen bei Kamishiro Enterprises."
 501,4541,,"Aaah!
-...Ah? Giurerei di aver visto qualcuno
-qui... Devo immaginarmi le cose...","呀！！
+...Ah? Giurerei di aver visto qualcuno qui...
+Devo immaginarmi le cose...","呀！！
 ……咦？　剛剛好像有誰在……？
 是我的錯覺嗎……",,"꺄!!
 …어머? 방금 누가 있었던 것 같았는데…?
@@ -78,29 +78,27 @@ da infiltrare.","……好險好險。
 …침입이 가능할 것 같은 네트워크는 없는 것 같다","Puh, das war knapp ...
 Anscheinend gibt es keine Netzwerke
 zu infiltrieren."
-600,4544,,"Sei amico della Signorina Yuuko?
-Prego, mettiti/si a tuo/suo agio.",原來您是悠子小姐的朋友啊。請好好享受。,,유코 님의 친구 분이시군요. 즐기다 가세요,"Du bist mit Ms. Yuuko befreundet?
+600,4544,,"Sei un amico della signora Yuuko?
+Spero che vi divertiate.",原來您是悠子小姐的朋友啊。請好好享受。,,유코 님의 친구 분이시군요. 즐기다 가세요,"Du bist mit Ms. Yuuko befreundet?
 Ich wünsche dir viel Spaß."
-601,4544,,"*sospiro* Starsene qui nella
-hall è così noioso... È facile,
-quindi non dovrei lamentarmi, ma...","唉，一直站在大廳好無聊，
+601,4544,,"*sospiro* Starsene qui nella hall è così noioso...
+È facile, quindi non dovrei lamentarmi, ma...","唉，一直站在大廳好無聊，
 雖然這麼輕鬆是很好啦……",,"하아…, 로비에서 서 있기만 하는 건 지루해…
 편해서 좋긴 하지만…","*Seufz* Es ist so langweilig, in der Lobby
 herumzustehen ... Es ist nicht schwer und ich
 sollte mich nicht beschweren, aber ..."
 602,2000,,...Non credo di poter entrare in una rete qui.,……看來沒有能夠入侵的網路。,,…침입이 가능할 것 같은 네트워크는 없는 것 같다,"Ich glaube, hier komme ich in kein Netzwerk."
-700,4545,,"Solo perché sei amichevole con la figlia del
-vecchio presidente non significa che
-tu possa curiosare in giro. Solo dipendenti, capito?","就算是前社長的女兒的朋友，
+700,4545,,"Solo perché sei un amico della figlia del vecchio presidente
+non significa che tu possa curiosare in giro.
+Solo dipendenti, capito?","就算是前社長的女兒的朋友，
 也請你不要隨便亂跑。
 平時一般人是無法進入這裡的。",,"전 회장님의 따님 친구라고 해서
 이상한 곳에 들어가거나 하면 안 돼
 이곳은 평소에 일반인이 출입하는 것도 안 되니까","Nur, weil du mit der Tochter des Präsidenten
 befreundet bist, kannst du hier nicht
 rumschnüffeln. Nur für Mitarbeiter, verstanden?"
-701,4545,,"Hmph... è la figlia del vecchio
-presidente. Perché continua a bighellonare
-intorno all'azienda?","……哼，就算是前社長的女兒，
+701,4545,,"Hmph... è la figlia del vecchio presidente.
+Perché continua a bighellonare intorno all'azienda?","……哼，就算是前社長的女兒，
 為什麼到現在還在公司裡晃來晃去的……",,"…후우 …전 사장님의 영애라고 해도
 왜 아직도 회사를 드나드는 건지…","Hmpf ... Das ist die Tochter des alten
 Präsidenten. Was lungert die hier in der
@@ -112,9 +110,8 @@ qualcuno di più importante.","……看來沒有能夠入侵的網路。
 …좀 더 중역이라면, 혹시…?","Ich glaube, hier komme ich in kein Netzwerk.
 Vielleicht sollte ich es mit jemand
 Wichtigerem versuchen."
-800,4546,,"Hrgh... È difficile adulare
-la signorina Kishibe. Cioè, mi stanno
-finendo le cose di cui parlare!","唉唉唉……
+800,4546,,"Hrgh... È difficile adulare la signorina Kishibe.
+Non so di cos'altro parlare!","唉唉唉……
 要奉承岸部小姐還真難……
 畢竟稱讚過的話基本上是不能再說第二次的……",,"중얼중얼중얼…
 키시베 님을 치켜세우는 것도 힘들어…
@@ -145,9 +142,9 @@ l'autorizzazione di sicurezza per ottenere i dettagli...","不、不行……我
 접속은 할 수 있어도… 최고 기밀정보는 꺼낼 수는 없어…","Moment, nein, die sind sicher streng geheim ...
 Selbst wenn ich auf den Avalon-Server komme,
 bin ich nicht befugt, auf die Infos zuzugreifen."
-804,4546,,"Cos'è rimasto... la personalità? Mi chiedo se
-potrei trovare qualcosa di carino da
-dire... Bleah...","再來就是……個性嗎……
+804,4546,,"Cos'è rimasto... la personalità?
+Mi chiedo se potrei trovare qualcosa di carino da dire...
+Bleah...","再來就是……個性嗎……
 要稱讚她那種個性，我辦得到嗎……
 唉唉唉……",,"남은 건…… 성격인가…
 그 성격을 칭찬한다니… 이 내가, 할 수 있을까…
@@ -235,9 +232,8 @@ Die süße Rie aktiviert ihren fiesen Hinterhalt!“"
 2000,3003,,"Hm? Non sei riuscito a trovare il collegamento al
 server sul terminale?",……咦？　找不到連結伺服器的終端？,,…에? 서버에 링크하고 있는 단말기가 보이질 않는다고요?,"Hm? Konntest du den Link zum Server nicht auf dem
 Terminal finden?"
-2001,3003,,"Ah... I diritti di accesso al server
-sono collegati all'avatar di ogni
-impiegato. I terminali non c'entrano niente.","嗯……有登入伺服器權限的員工，
+2001,3003,,"Ah... I diritti di accesso al server sono collegati
+all'avatar di ogni impiegato. I terminali non c'entrano niente.","嗯……有登入伺服器權限的員工，
 超連結會寫在自己的化身裡，
 所以不會經由終端登入。",,"에에… 서버 접속 권한을 받은 사원은
 자신의 아바타에 링크가 심어져 있기 때문에
@@ -245,8 +241,7 @@ impiegato. I terminali non c'entrano niente.","嗯……有登入伺服器權限
 dem Avatar jedes Mitarbeiters verbunden.
 Mit den Terminals hat das nichts zu tun."
 2002,3003,,Significa che gli avatar stessi sono i collegamenti.,也就是說，就像是“化身本身＂就是超連結……,,"즉… ""아바타 자체""가 링크라고 할까요…","Das bedeutet, dass die Avatare die Links sind."
-2003,2000,,"Gli avatar sono i
-collegamenti... Meglio controllare gli avatar
+2003,2000,,"Gli avatar sono i collegamenti... Meglio controllare gli avatar
 di alcuni impiegati della Kamishiro.","化身本身就是超連結……
 那就去調查神代員工的化身好了……？",,"아바타 자체가 링크…
 카미시로 사원의 아바타를 조사해 볼까…?","Die Avatare sind die Links ...
@@ -264,8 +259,8 @@ A quali server può accedere?","……！！　這個化身……
 擁有登入某個伺服器的權限……",,"………!! 이 아바타…
 어느 서버로의 접속 권한을 갖고 있어…","Dieser Avatar!
 Auf welche Server hat er Zugriff?"
-2101,2000,,"Gli avatar sono solo
-dati... Posso farci il Salto dentro?","化身也是數據……
+2101,2000,,"Gli avatar sono solo dati...
+Posso tuffarmi tramite il Salto di connessione?","化身也是數據……
 既然如此，或許可以進行登入跳躍……？",,"아바타도 데이터…
 그렇다면, 커넥트 점프를 할 수 있을지도…?","Avatare sind bloß Daten ...
 Kann ich per Verbindungssprung eintauchen?"
@@ -280,8 +275,7 @@ davvero seria fino al midollo.","……挨罵了。
 快認真找吧。",,"…혼나고 말았다…
 진지하게 찾자…","Sie wurde wütend ...
 Sie meint es wirklich ernst."
-2200,2000,,"Kyoko mi ha detto di
-improvvisare...",雖然杏子姊要我「隨機應變」……,,…쿄코 씨는「임기응변으로」라고 말씀하셨지만…,"Kyoko hat mir gesagt, ich muss schnell
+2200,2000,,"Kyoko mi ha detto di improvvisare...",雖然杏子姊要我「隨機應變」……,,…쿄코 씨는「임기응변으로」라고 말씀하셨지만…,"Kyoko hat mir gesagt, ich muss schnell
 reagieren ..."
 2201,2000,,"Ma non vedo nessun posto dove
 effettuare un Salto di Connessione...

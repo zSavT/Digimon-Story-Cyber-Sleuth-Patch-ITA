@@ -4,7 +4,7 @@ ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
 應該這樣就行了吧。",,"키워드 【[2[k12]]】에 관한 조사는
 이 정도면 충분하겠지","Das sollte zum Stichwort [2[k12]]
 reichen."
-200,2000,,Medaglia Digimon „[d0]“ ottenuta!,得到數碼寶貝獎牌「[d0]」了！,,"디지몬 메달「[d0]」
+200,2000,,"Medaglia Digimon ""[d0]"" ottenuta!",得到數碼寶貝獎牌「[d0]」了！,,"디지몬 메달「[d0]」
 를(을) 손에 넣었다!","Digimon-Medaille „[d0]“
 erhalten!"
 300,2000,,Ho troppa roba con me e non posso trasportare altro. Dovrei sistemare le mie cose e poi tornare.,"持有物太多，沒辦法再拿了……
@@ -68,9 +68,8 @@ Ma non dire niente a mia moglie, va bene?","如果有得到獎牌，就拿來給
 Ich zahle dir den besten Preis, versprochen!
 Aber sag meiner Frau nichts, ja?"
 660,4230,,"Oh, mi hai quindi portato ancora più medaglie?",喔喔！你拿獎牌來給我啦！？,,오오! 메달을 가져와 준 거니!?,"Ui, du hast mir also noch mehr Medaillen gebracht?"
-661,4230,,"Allora! Tutto sommato ti darò...
-[n0] Yen!
-Accettato?","……好！一共是
+661,4230,,"Allora! Tutto sommato ti darò... [n0] Yen!
+Accetti?","……好！一共是
 [n0]YEN！
 我全部買下了！",,"…좋아! 전부 해서
 [n0]YEN이다!

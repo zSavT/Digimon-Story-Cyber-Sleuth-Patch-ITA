@@ -1,12 +1,12 @@
 ﻿"ID","Speaker","Japanese","English","Chinese","EnglishCensored","Korean","German"
 "1","3006","","Come vanno le cose?","還順利嗎？","","…진행 상황은 어떤가?","Wie läuft es?"
-"2","3006","","Penso che il mio assistente fosse nel bel mezzo di
-un'operazione, quando ho notato la disconnessione.","目前我助手的通訊位址消失，
+"2","3006","","Penso che il mio assistente fosse nel bel mezzo di un'operazione,
+quando ho notato la disconnessione.","目前我助手的通訊位址消失，
 就代表他正在進行作戰行動吧？","","통신처가 소실된 걸 보아하니, 조수는
 작전행동중인 것 같다만","Mein Hilfsdetektiv war gerade mit etwas
 beschäftigt, als die Verbindung abgebrochen ist."
-"3","3003","","Sì. Qui non c'è niente di strano. Tutto sta
-ancora andando secondo i piani.","是的……完全沒有引起騷動，
+"3","3003","","Sì. Qui non c'è niente di strano.
+Tutto sta ancora andando secondo i piani.","是的……完全沒有引起騷動，
 目前還算順利……","","네… 소동도 일어나지 않았고
 아직은 순조로운 것 같아요…","Ja. Hier gibt es nichts Ungewöhnliches.
 Noch läuft alles nach Plan."
@@ -20,8 +20,8 @@ abile nell'utilizzare i programmi Digimon.","沒想到[p]居然能將數碼寶�
 Digimon-Programmen umgehen kann."
 "7","3006","","No. Sto parlando di te, Yuuko Kamishiro.","不，這一切都要歸功於妳啊，神代悠子小姐。","","아니― 네 얘기다, 카미시로 유코 씨","Nein. Ich rede von dir, Yuuko Kamishiro."
 "8","3003","","...!","……！","","…!","...!"
-"9","3006","","Il modo in cui hai organizzato il tour
-dell'ufficio, e il modo in cui hai risposto a tutto.
+"9","3006","","Il modo in cui hai organizzato il tour dell'ufficio,
+e il modo in cui hai risposto a tutto.
 Sei piuttosto brava a improvvisare.","參觀公司的手續也好，
 妳處理任何事情都又快又正確。","","사내 견학의 준비라고는 해도, 모든 일의 대응이
 정확하고 재빠르군","Wie du das mit der Führung arrangiert hast,
@@ -50,32 +50,28 @@ Ci stavano ascoltando.","事情不好了，
 아무래도, 우리들의 대화가 도청되고 있는 것 같다","Könnte Ärger bedeuten.
 Da lauscht wohl jemand unserer Unterhaltung."
 "20","3003","","Cosa?!","什……！？","","에…!?","Was?!"
-"21","3006","","Probabilmente, qualcuno ha piazzato un pogramma
+"21","3006","","Probabilmente, qualcuno ha piazzato un prgramma
 di intercettazione nel tuo Digivice nel mondo reale.","可能是妳在現實世界中的Digivice
 被安裝了竊聽程式。","","아마, 현실 세계의 네 디지바이스에
 도청 프로그램이 설치되어 있는 거겠지","Wahrscheinlich hat jemand deinem Digivice in
 der echten Welt ein Wanzenprogramm verpasst."
-"22","3006","","Me ne sarei dovuta accorgere. Ci vuole esperienza
-per manipolare una frequenza così
-specifica.","我應該早點發現……
+"22","3006","","Me ne sarei dovuta accorgere.
+Ci vuole esperienza per manipolare una frequenza così specifica.","我應該早點發現……
 這種手法相當巧妙，使用了「特殊」頻率。","","좀 더 빨리 눈치챘어야 했나…
 특수한 주파수대를 사용한 꽤나 교묘한 ""세공""이다","Ich hätte es früher bemerken sollen. Exakt
 diese Frequenz vorzutäuschen, erfordert viel
 Geschick."
-"23","3006","","Chiunque sia dietro tutto questo, se
-ne intende.","哼……對手很行嘛！","","훗… 상대는 꽤나 수완가로군","Hmpf. Wer es auch ist, die Person kennt sich
+"23","3006","","Chiunque sia dietro tutto questo, se ne intende.","哼……對手很行嘛！","","훗… 상대는 꽤나 수완가로군","Hmpf. Wer es auch ist, die Person kennt sich
 jedenfalls aus."
 "24","3003","","Origliare? Ma questo vuol dire che...","竊、竊聽……怎麼會……","","도, 도청… 그, 그럴 수가……","Jemand lauscht? Aber das bedeutet ..."
-"25","3006","","Sì. Mi dispiace dirlo, ma te ne devi andare
-IMMEDIATAMENTE. Considerala come una
-valorosa ritirata.","嗯……雖然不太情願，但還是提早撤退吧！
+"25","3006","","Sì. Mi dispiace dirlo, ma te ne devi andare IMMEDIATAMENTE.
+Considerala come una valorosa ritirata.","嗯……雖然不太情願，但還是提早撤退吧！
 這就是所謂撤退的勇氣。","","음… 바라던 바가 아니지만, 서둘러 물러나도록 하겠어
 용기 있는 후퇴, 라는 거다","Ja. Ich sage das nur ungern, aber ihr müsst da
 schleunigst raus. Sieh es als eine Art
 heldenhaften Rückzug."
 "26","3006","","Chi va piano va sano e va lontano.
-Questo lavoro richiede un carattere
-paziente e diligente.","欲速則不達……這種作戰的基本精神，
+Questo lavoro richiede un carattere paziente e diligente.","欲速則不達……這種作戰的基本精神，
 就是不能急，要一步一步慢慢來。","","급하면 돌아서 가는 법… 이런 종류의 작전은
 착실하고 초조해하지 않는걸 기본으로 삼아야 할 정신이다","Die Schildkröte schlägt den Hasen.
 In diesem Metier muss man geduldig und
@@ -87,14 +83,13 @@ dirgli di ""annullare la missione"".","嗯……
 작전의 중지를 전하는 건 어려울 것 같군","Ja.
 Es wird nicht einfach sein, den Rückzugsbefehl
 durchzugeben."
-"29","3006","","Ma [p] è il mio assistente, e dovrebbe
-essere in grado di capire.","不過他是我的助手，
+"29","3006","","Ma [p] è il mio assistente, e dovrebbe essere in grado di capire.","不過他是我的助手，
 一定會自己想辦法的。","","뭘, 내 조수다
 스스로 어떻게든 할 거다","Aber als mein Hilfsdetektiv wird [p]
 sich schon etwas einfallen lassen."
 "30","3003","","Ma questo è...","怎、怎麼這樣～！？","","그, 그런―!?","Aber das ist ..."
-"31","3006","","Al momento non sei nella posizione per
-preoccuparti. Vattene subito da lì.","妳沒有時間擔心別人，
+"31","3006","","Al momento non sei nella posizione per preoccuparti.
+Vattene subito da lì.","妳沒有時間擔心別人，
 妳也快點離開這裡吧！","","다른 사람 걱정을 할 때가 아니다
 너도 급히 자리를 뜨도록","Du solltest dir über andere gerade nicht den
 Kopf zerbrechen. Beeil dich und verschwinde da."
@@ -107,8 +102,8 @@ un po' di depistaggio dall'esterno.","逃脫時，
 從外面也有辦法消去足跡，矇混過去……","","탈출 시, 발자취를 없애거나 속이는 것 정도는
 밖에서도 가능하겠지…","Verwischen wir deine Spuren auf deinem Rückweg
 und sorgen für Ablenkung von außen."
-"35","3006","","È troppo pericoloso continuare a parlare. Sto
-per terminare la conversazione.","總之，繼續對話下去的話會有危險……
+"35","3006","","È troppo pericoloso continuare a parlare.
+Sto per terminare la conversazione.","總之，繼續對話下去的話會有危險……
 我先切斷了。","","어쨌든, 이 이상 대화하는 건 위험하다
 …이만 통신을 끊겠다","Dieses Gespräch ist zu riskant.
 Ich lege jetzt auf."
