@@ -105,7 +105,7 @@ per 5 turni in battaglia.","戰鬥時，使我方單體的
 ATK提升20% 5回合。",,"배틀 시 5턴 동안
 아군 1마리의 공격력이 20% 상승한다.","Erhöht ANG eines Verbündeten im Kampf
 5 Züge lang um 20 %."
-27,,"Aumenta la DIF di un alleato del 20%
+27,,"Aumenta la DEF di un alleato del 20%
 per 5 turni in battaglia.","戰鬥時，使我方單體的
 DEF提升20% 5回合。",,"배틀 시 5턴 동안
 아군 1마리의 방어력이 20% 상승한다.","Erhöht VER eines Verbündeten im Kampf
@@ -302,17 +302,17 @@ ATT potenziato di un Digimon.","大幅降低單體數碼寶貝
 強化後的ATK",,"디지몬 1마리의
 강화한 공격력을 크게 떨어뜨린다.","Reduziert deutlich den erhöhten ANG-Wert
 eines Digimon."
-119,,"Riduce leggermente la DIF 
+119,,"Riduce leggermente la DEF 
 potenziata di un Digimon.","稍微降低單體數碼寶貝
 強化後的DEF",,"디지몬 1마리의
 강화한 방어력을 약간 떨어뜨린다.","Reduziert den erhöhten VER-Wert
 eines Digimon."
-120,,"Riduce la DIF potenziata
+120,,"Riduce la DEF potenziata
 di un Digimon.","降低單體數碼寶貝
 強化後的DEF",,"디지몬 1마리의
 강화한 방어력을 떨어뜨린다.","Reduziert deutlich den erhöhten VER-Wert
 eines Digimon."
-121,,"Riduce notevolmente la DIF 
+121,,"Riduce notevolmente la DEF 
 potenziata di un Digimon.","大幅降低單體數碼寶貝
 強化後的DEF",,"디지몬 1마리의
 강화한 방어력을 크게 떨어뜨린다.","Reduziert deutlich den erhöhten VER-Wert
@@ -372,7 +372,7 @@ in rare occasioni. /Utilizzabile nella DigiFarm","低機率使友情大幅提升
 ／可以在數碼農場裡使用",,"공격력이 오르는 음식
 /디지팜에서 사용가능","Futter, das ANG erhöht.
 /Für die Digifarm."
-205,,"Cibo che aumenta la DIF
+205,,"Cibo che aumenta la DEF
 /Utilizzabile nella DigiFarm","提升DEF的食物
 ／可以在數碼農場裡使用",,"방어력이 오르는 음식
 /디지팜에서 사용가능","Futter, das VER erhöht.
@@ -569,27 +569,27 @@ Stellt TP und SP eines Verb. wieder her."
 ／裝備",,"공격력+25
 /장비품","ANG +25
 /Ausrüstung"
-316,,"DIF +5
+316,,"DEF +5
 /Equipaggiamento","DEF+5
 ／裝備",,"방어력+5
 /장비품","VER +5
 /Ausrüstung"
-317,,"DIF +10
+317,,"DEF +10
 /Equipaggiamento","DEF+10
 ／裝備",,"방어력+10
 /장비품","VER +10
 /Ausrüstung"
-318,,"DIF +15
+318,,"DEF +15
 /Equipaggiamento","DEF+15
 ／裝備",,"방어력+15
 /장비품","VER +15
 /Ausrüstung"
-319,,"DIF +20
+319,,"DEF +20
 /Equipaggiamento","DEF+20
 ／裝備",,"방어력+20
 /장비품","VER +20
 /Ausrüstung"
-320,,"DIF +25
+320,,"DEF +25
 /Equipaggiamento","DEF+25
 ／裝備",,"방어력+25
 /장비품","VER +25
@@ -699,7 +699,7 @@ Stellt TP und SP eines Verb. wieder her."
 ／裝備",,"HP+100, 공격력+10 
 /장비품","TP +100, ANG +10
 /Ausrüstung"
-342,,"HP +100, DIF +10
+342,,"HP +100, DEF +10
 /Equipaggiamento","HP+100　DEF+10
 ／裝備",,"HP+100, 방어력+10 
 /장비품","TP +100, VER +10
@@ -719,7 +719,7 @@ Stellt TP und SP eines Verb. wieder her."
 ／裝備",,"SP+10, 공격력+10 
 /장비품","SP +10, ANG +10
 /Ausrüstung"
-346,,"SP +10, DIF +10
+346,,"SP +10, DEF +10
 /Equipaggiamento","SP+10　DEF+10
 ／裝備",,"SP+10, 방어력+10 
 /장비품","SP +10, VER +10
@@ -734,7 +734,7 @@ Stellt TP und SP eines Verb. wieder her."
 ／裝備",,"SP+10, 민첩+10 
 /장비품","SP +10, GES +10
 /Ausrüstung"
-349,,"ATK +10, DIF +10
+349,,"ATK +10, DEF +10
 /Equipaggiamento","ATK+10　DEF+10
 ／裝備",,"공격력+10, 방어력+10 
 /장비품","ANG +10, VER +10
@@ -749,12 +749,12 @@ Stellt TP und SP eines Verb. wieder her."
 ／裝備",,"공격력+10, 민첩+10
 /장비품","ANG +10, GES +10
 /Ausrüstung"
-352,,"DIF +10, INT +10
+352,,"DEF +10, INT +10
 /Equipaggiamento","DEF+10　INT+10
 ／裝備",,"방어력+10, 지력+10 
 /장비품","VER +10, INT +10
 /Ausrüstung"
-353,,"DIF +10, VEL +10
+353,,"DEF +10, VEL +10
 /Equipaggiamento","DEF+10　SPD+10
 ／裝備",,"방어력+10, 민첩+10 
 /장비품","VER +10, GES +10
@@ -779,8 +779,8 @@ Stellt TP und SP eines Verb. wieder her."
 ／裝備",,"공격력+10, 크리티컬 발생 확률+5%
 /장비품","ANG +10, KRT +5 %
 /Ausrüstung"
-358,,"PV max +50, PS max +5, ATT +5
-DIF +5, INT +5, VEL +5 /Equipaggiamento","最大HP+50　最大SP+5　ATK+5
+358,,"HP max +50, PS max +5, ATT +5
+DEF +5, INT +5, VEL +5 /Equipaggiamento","最大HP+50　最大SP+5　ATK+5
 DEF+5　INT+5　SPD+5／裝備",,"최대HP+50, 최대SP+5, 공격력+5
 방어력+5, 지력+5, 민첩+5 /장비품","Max. TP +50, max. SP +5, ANG +5,
 VER +5, INT +5, GES +5 /Ausrüstung"
@@ -1000,7 +1000,7 @@ Gegnern. /Ausrüstung"
 /장비품","Jeglicher Schaden –10 %
 /Ausrüstung"
 402,,"Riduce del 100% il danno
-penetrante DIF/INT. /Equipaggiamento","DEF．INT貫穿損傷減少100%
+penetrante DEF/INT. /Equipaggiamento","DEF．INT貫穿損傷減少100%
 ／裝備",,"방어/지력 관통 대미지 100% 감소
 /장비품","Reduziert VER-/INT-durchdringenden
 Schaden um 100 %. /Ausrüstung"
@@ -1064,7 +1064,7 @@ Items/Farmprodukte"
 ／農場道具",,"조사의 정밀도가 상승
 /팜 굿즈","Erhöht die Genauigkeit von Suchen.
 /Farmprodukte"
-522,,"Aumenta leggermente i PV max potenziati
+522,,"Aumenta leggermente i HP max potenziati
 tramite allenamento. /Oggetti Farm","稍微增加在特訓中強化最大HP時的數值
 ／農場道具",,"특훈의 최대 HP가 강화될 때
 강화치가 약간 증가 /팜 굿즈","Erhöht leicht die Max.-TP-Steigerung
@@ -1079,7 +1079,7 @@ tramite allenamento. /Oggetti della Farm","稍微增加在特訓中強化ATK時�
 ／農場道具",,"특훈의 공격력이 강화될 때
 강화치가 약간 증가 /팜 굿즈","Erhöht leicht die ANG-Steigerung
 durch Training. /Farmprodukte"
-525,,"Aumenta leggermente la DIF potenziata
+525,,"Aumenta leggermente la DEF potenziata
 tramite allenamento. /Beni della Farm","稍微增加在特訓中強化DEF時的數值
 ／農場道具",,"특훈의 방어력이 강화될 때
 강화치가 약간 증가 /팜 굿즈","Erhöht leicht die VER-Steigerung durch Training.
@@ -1109,7 +1109,7 @@ tramite allenamento. /Prodotti della Fattoria","增加在特訓中強化ATK時�
 ／農場道具",,"특훈의 공격력이 강화될 때
 강화치가 증가 /팜 굿즈","Erhöht die ANG-Steigerung durch
 Training. /Farmprodukte"
-531,,"Aumenta la DIF potenziata
+531,,"Aumenta la DEF potenziata
 tramite allenamento. /Merci della Fattoria","增加在特訓中強化DEF時的數值
 ／農場道具",,"특훈의 방어력이 강화될 때
 강화치가 증가 /팜 굿즈","Erhöht die VER-Steigerung durch 
@@ -1139,7 +1139,7 @@ tramite allenamento. /Oggetti per Fattoria","大幅增加在特訓中強化ATK�
 ／農場道具",,"특훈의 공격력이 강화될 때
 강화치가 크게 증가 /팜 굿즈","Erhöht deutlich die ANG-Steigerung
 durch Training. /Farmprodukte"
-537,,"Aumenta notevolmente la DIF potenziata
+537,,"Aumenta notevolmente la DEF potenziata
 tramite allenamento. /Oggetti Fattoria","大幅增加在特訓中強化DEF時的數值
 ／農場道具",,"특훈의 방어력이 강화될 때
 강화치가 크게 증가 /팜 굿즈","Erhöht deutlich die VER-Steigerung

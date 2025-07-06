@@ -6,7 +6,7 @@
 7,,Hai dei rapporti sui casi da compilare. Vuoi farlo ora?,有可以報告的委託，您要報告嗎？,,보고 가능한 의뢰가 있습니다. 보고하겠습니까?,Einige Fallberichte sind offen. Jetzt erledigen?
 8,,Accettare questo caso?,您要接受這份委託嗎？,,이 의뢰를 수락하겠습니까?,Diesen Fall annehmen?
 9,,Rimandare questo caso?,您要中止這份委託嗎？,,이 의뢰를 중단하겠습니까?,Diesen Fall verschieben?
-10,,Da che parte andrai?,您要前往什麼地點？,,어디로 가겠습니까?,Welchen Weg wählst du?
+10,,Quale strada scegli?,您要前往什麼地點？,,어디로 가겠습니까?,Welchen Weg wählst du?
 11,,Andare al DigiLab?,您要前往數碼實驗室嗎？,,디지랩에 가겠습니까?,Zum DigiLab gehen?
 12,,Salto di Connessione sul cellulare dello staff?,您要登入跳躍至職員的手機嗎？,,사원의 핸드폰으로 커넥트 점프 하겠습니까?,Verbindungssprung in das Mitarbeiterhandy?
 13,,Salto di Connessione sul sito dell'Associazione di Boxe?,您要登入跳躍至拳擊協會的網站嗎？,,복싱협회 사이트로 커넥트 점프 하겠습니까?,Verbindungssprung zur Website des Boxverbands?
@@ -77,9 +77,9 @@
 1003,,Usare questi dati di salvataggio per giocare dall'inizio?,確定繼承此保存資料重新開始遊戲嗎？,,이 데이터를 계승하여 처음부터 플레이하겠습니까?,Mit diesen Daten von Anfang an spielen?
 1501,,Modificare le opzioni? (Le puoi modificare anche in seguito.),確定變更設定？（稍後亦可變更設定）,,옵션을 변경하겠습니까? (나중에 변경할 수 있습니다),Optionen ändern? (Optionen sind später änderbar.)
 2201,,Iniziare il gioco con queste impostazioni?,確定以此設定開始遊戲嗎？,,이 설정으로 게임을 시작합니다. 괜찮습니까?,Spiel mit diesen Einstellungen beginnen?
-5070,,Ripristinare i PV del Digimon?, ,,디지몬의 체력을 회복시키겠습니까?,TP des Digimon wiederherstellen?
-5071,,"Tornare alla schermata del titolo? (I progressi non 
-salvati andranno persi.)",返回標題畫面？ 　※將喪失目前進度。,,타이틀 화면으로 돌아가겠습니까? ※저장은 되지 않습니다.,"Zurück zum Titelbildschirm? (Nicht 
+5070,,Ripristinare i HP del Digimon?, ,,디지몬의 체력을 회복시키겠습니까?,TP des Digimon wiederherstellen?
+5071,,"Tornare alla schermata del titolo?
+(Tutti i progressi non salvati andranno persi).",返回標題畫面？ 　※將喪失目前進度。,,타이틀 화면으로 돌아가겠습니까? ※저장은 되지 않습니다.,"Zurück zum Titelbildschirm? (Nicht 
 gespeicherter Fortschritt geht verloren.)"
 5072,,Analizzare questa memory?,解析這份記憶嗎？,,이 기억을 해석하겠습니까?,Diese Erinnerung analysieren?
 1004,,Eliminare comunque questi dati salvati?,依然要刪除此保存資料嗎？,,그래도 이 저장 데이터를 삭제하시겠습니까?,Diese Speicherdaten trotzdem löschen?
@@ -151,4 +151,4 @@ Sei sicuro?","若保存於此，將會刪除
 1011,,Sei proprio sicuro?,您真的確定嗎？,,정말 괜찮습니까?,Ganz sicher?
 1401,,Importare dati di salvataggio da una partita precedente?,要繼承前作的資料嗎？,,전작의 저장 데이터를 이어받겠습니까?,Speicherdaten aus früherem Spiel importieren? 
 1505,,Sei sicuro di voler usare questo nome?,確定用這名稱嗎？,,이 이름으로 진행하겠습니까?,Bist du dir mit diesem Namen sicher?
-20000,,Uscire dal gioco?,確定要退出遊戲嗎？,,게임을 종료하겠습니까?,Das Spiel abbrechen?
+20000,,Chiudere il gioco?,確定要退出遊戲嗎？,,게임을 종료하겠습니까?,Das Spiel abbrechen?
