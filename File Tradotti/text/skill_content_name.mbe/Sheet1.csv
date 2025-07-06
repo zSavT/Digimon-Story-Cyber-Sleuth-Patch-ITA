@@ -1620,7 +1620,7 @@ einen Gegner."
 8005,,Descrizione Danni % SP,SP比例傷害　的說明,,SP비율 대미지　의 설명,Beschreibung: Schaden – SP %
 8006,,Descrizione Danno Fisso,固定傷害　的說明,,고정 대미지　의 설명,Beschreibung: Festgelegter Schaden
 8007,,Descrizione Recupero PS,HP回復　的說明,,HP회복　의 설명,Beschreibung: TP-Heilung
-8008,,Descrizione Recupero % PV,HP比例回復　的說明,,HP비율회복　의 설명,Beschreibung: Heilung – TP %
+8008,,Descrizione Recupero % HP,HP比例回復　的說明,,HP비율회복　의 설명,Beschreibung: Heilung – TP %
 8009,,Descrizione Recupero % SP,SP比例回復　的說明,,SP비율회복　의 설명,Beschreibung: Heilung – SP %
 8010,,Descrizione Recupero % HP/SP,HP、SP比例回復　的說明,,HP/SP비율회복　의 설명,Beschreibung: Heilung – TP/SP %
 8011,,Descrizione Recupero PS Fisso,HP固定回復　的說明,,HP고정회복　의 설명,Beschreibung: Heilung – festgelegte TP

@@ -779,7 +779,7 @@ Stellt TP und SP eines Verb. wieder her."
 ／裝備",,"공격력+10, 크리티컬 발생 확률+5%
 /장비품","ANG +10, KRT +5 %
 /Ausrüstung"
-358,,"PV max +50, PS max +5, ATT +5
+358,,"HP max +50, PS max +5, ATT +5
 DEF +5, INT +5, VEL +5 /Equipaggiamento","最大HP+50　最大SP+5　ATK+5
 DEF+5　INT+5　SPD+5／裝備",,"최대HP+50, 최대SP+5, 공격력+5
 방어력+5, 지력+5, 민첩+5 /장비품","Max. TP +50, max. SP +5, ANG +5,
@@ -1064,7 +1064,7 @@ Items/Farmprodukte"
 ／農場道具",,"조사의 정밀도가 상승
 /팜 굿즈","Erhöht die Genauigkeit von Suchen.
 /Farmprodukte"
-522,,"Aumenta leggermente i PV max potenziati
+522,,"Aumenta leggermente i HP max potenziati
 tramite allenamento. /Oggetti Farm","稍微增加在特訓中強化最大HP時的數值
 ／農場道具",,"특훈의 최대 HP가 강화될 때
 강화치가 약간 증가 /팜 굿즈","Erhöht leicht die Max.-TP-Steigerung
