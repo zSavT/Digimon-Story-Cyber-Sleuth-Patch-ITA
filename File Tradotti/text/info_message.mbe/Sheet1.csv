@@ -749,7 +749,7 @@ ATK degli alleati aumentato in battaglia!","由於敵方駭客隊伍的徽章效
 『배틀 도중 아군에게 공격력 상승』이 발생 중!","Gegnerisches Emblem aktiv:
 ANG von Verbündeten im Kampf erhöht!"
 7020,,"Emblema nemico attivo:
-DIF degli alleati aumentata in battaglia!","由於敵方駭客隊伍的徽章效果，
+DEF degli alleati aumentata in battaglia!","由於敵方駭客隊伍的徽章效果，
 『戰鬥時，我方DEF提昇』！",,"적 해커팀의 엠블럼 효과로 인해
 『배틀 도중 아군에게 방어력 상승』이 발생 중!","Gegnerisches Emblem aktiv:
 VER von Verbündeten im Kampf erhöht!"
@@ -784,7 +784,7 @@ ATK degli alleati ridotto in battaglia!","由於敵方駭客隊伍的徽章效�
 『배틀 도중 아군에게 공격력 하락』이 발생 중!","Gegnerisches Emblem aktiv:
 ANG von Verbündeten im Kampf reduziert!"
 7027,,"Emblema nemico attivo:
-DIF degli alleati ridotta in combattimento!","由於敵方駭客隊伍的徽章效果，
+DEF degli alleati ridotta in combattimento!","由於敵方駭客隊伍的徽章效果，
 『戰鬥時，我方DEF下降』！",,"적 해커팀의 엠블럼 효과로 인해
 『배틀 도중 아군에게 방어력 하락』이 발생 중!","Gegnerisches Emblem aktiv:
 VER von Verbündeten im Kampf reduziert!"
@@ -914,7 +914,7 @@ Aumenta l'attacco dei nemici in battaglia!","由於hudie的徽章效果，
 『배틀 도중 적 해커팀에게 공격력 상승』이 발생 중!","Emblem von Hudie aktiv:
 ANG von Gegnern im Kampf erhöht!"
 7060,,"Emblema di Hudie attivo:
-Aumenta la DIF dei nemici in battaglia!","由於hudie的徽章效果，
+Aumenta la DEF dei nemici in battaglia!","由於hudie的徽章效果，
 『戰鬥時，敵駭客DEF提昇』！",,"후디에의 엠블럼 효과로 인해
 『배틀 도중 적 해커팀에게 방어력 상승』이 발생 중!","Emblem von Hudie aktiv:
 VER von Gegnern im Kampf erhöht!"
@@ -949,7 +949,7 @@ attivo: Riduce l'ATK dei nemici in battaglia!","由於hudie的徽章效果，
 『배틀 도중 적 해커팀에게 공격력 하락』이 발생 중!","Emblem von Hudie aktiv:
 ANG von Gegnern im Kampf reduziert!"
 7067,,"Emblema di Hudie attivo:
-Riduce la DIF dei nemici in combattimento!","由於hudie的徽章效果，
+Riduce la DEF dei nemici in combattimento!","由於hudie的徽章效果，
 『戰鬥時，敵駭客DEF下降』！",,"후디에의 엠블럼 효과로 인해
 『배틀 도중 적 해커팀에게 방어력 하락』이 발생 중!","Emblem von Hudie aktiv:
 VER von Gegnern im Kampf reduziert!"

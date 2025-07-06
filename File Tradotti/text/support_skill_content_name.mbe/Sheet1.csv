@@ -1,6 +1,6 @@
 ID,Japanese,English,Chinese,EnglishCensored,Korean,German
 1,,Aumenta ATT del 15%.,ATK提升15%。,,공격력이 15% 상승한다.,Erhöht ANG um 15 %.
-2,,Aumenta la DIF del 15%.,DEF提升15%。,,방어력이 15% 상승한다.,Erhöht VER um 15 %.
+2,,Aumenta la DEF del 15%.,DEF提升15%。,,방어력이 15% 상승한다.,Erhöht VER um 15 %.
 3,,Aumenta INT del 15%.,INT提升15%。,,지력이 15% 상승한다.,Erhöht INT um 15 %.
 4,,Aumenta la VEL del 15%.,SPD提升15%。,,민첩이 15% 상승한다.,Erhöht GES um 15 %.
 5,,Aumenta ACU del 15%.,ACU提升15%。,,명중률이 15% 상승한다.,Erhöht GEN um 15 %.
@@ -130,7 +130,7 @@ delle skill di Fuoco e Luce del 10%.","SPD提升10%，
 火、光屬性技能造成的傷害增加10%。",,"민첩이 10% 상승하고 불/빛속성 스킬로
 주는 대미지가 10% 증가한다.","Erhöht GES sowie den Schaden von Feuer- und
 Lichtfertigkeiten um 10 %."
-49,,"Aumenta la DIF del 10% e il danno da
+49,,"Aumenta la DEF del 10% e il danno da
 abilità Acqua e Oscurità del 10%.","DEF提升10%，
 水、闇屬性技能造成的傷害增加10%。",,"방어력이 10% 상승하고 물/어둠속성 스킬로
 주는 대미지가 10% 증가한다.","Erhöht VER sowie den Schaden von Wasser- 
@@ -144,7 +144,7 @@ andernfalls tödlicher Angriff die TP auf 1."
 52,,"Riduce del 50% la probabilità di 
 subire alterazioni di stato.",陷入異常狀態的機率降低50%。,,상태이상이 될 확률이 50% 저하된다.,"Reduziert die Häufigkeit von Statusleiden
 um 50 %."
-53,,"Aumenta ATK, DIF, INT e VEL del 5%.",ATK、DEF、INT、SPD提升5%。,,"공격력/방어력/지력/민첩이
+53,,"Aumenta ATK, DEF, INT e VEL del 5%.",ATK、DEF、INT、SPD提升5%。,,"공격력/방어력/지력/민첩이
 5% 상승한다.","Erhöht ANG, VER, INT und GES um 5 %."
 54,,Aumenta ATK e INT del 10%.,ATK和INT提升10%。,,공격력과 지력이 10% 상승한다.,Erhöht ANG und INT um 10 %.
 55,,"Aumenta del 10% i danni delle 
@@ -291,7 +291,7 @@ scontri sfavorevoli del 10% e li converte in PS.","受到適性不利的種族�
 減輕傷害10%，變換為SP。",,"불리한 종족으로부터 공격을 받았을 때
 대미지의 10%를 경감하고 SP로 변환한다.","Reduziert Angriffsschaden bei schlechten
 Kombos um 10 % und wandelt ihn in SP um."
-90,,"Aumenta ATK, DIF, INT e VEL del 10%.","ATK．DEF．INT．SPD
+90,,"Aumenta ATK, DEF, INT e VEL del 10%.","ATK．DEF．INT．SPD
 上升10%。",,"공격력/방어력/지력/민첩이
 10% 상승한다.","Erhöht ANG, VER, INT und GES um 10 %."
 91,,"Aumenta la VEL del 20%, ma riduce l'ATT del 10%.","SPD上升20%。

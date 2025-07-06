@@ -25,7 +25,7 @@ ID,Japanese,English,Chinese,EnglishCensored,Korean,German
 24,,Capsula di Rianimazione DX,復活膠囊DX,,리바이브 리커버리 DX,Wiederbelebungskapsel DX
 25,,Spray di Recupero Totale,完全復活噴霧,,풀 리바이브 스프레이,Wiederbelebungs-Spray
 26,,Potenziamento ATK,ATK增幅器,,ATK 부스트,ANG-Boost
-27,,Aumento DIF,DEF增幅器,,DEF 부스트,VER-Boost
+27,,Aumento DEF,DEF增幅器,,DEF 부스트,VER-Boost
 28,,Potenziamento INT,INT增幅器,,INT 부스트,INT-Boost
 29,,Potenziamento VEL,SPD增幅器,,SPD 부스트,GES-Boost
 30,,Potenziamento ATT,HIT增幅器,,HIT 부스트,TRE-Boost
@@ -80,9 +80,9 @@ ID,Japanese,English,Chinese,EnglishCensored,Korean,German
 116,,Chip Inibitore ATT C,ATK抑制晶片C,,ATK억제칩 C,ANG-Limitierungs-Chip C
 117,,Chip di Limitazione ATT B,ATK抑制晶片B,,ATK억제칩 B,ANG-Limitierungs-Chip B
 118,,Chip A Restrizione ATT,ATK抑制晶片A,,ATK억제칩 A,ANG-Limitierungs-Chip A
-119,,Chip Restrittivo DIF C,DEF抑制晶片C,,DEF억제칩 C,VER-Limitierungs-Chip C
-120,,Chip Reattivo Difesa B,DEF抑制晶片B,,DEF억제칩 B,VER-Limitierungs-Chip B
-121,,Chip di Restrizione DIF A,DEF抑制晶片A,,DEF억제칩 A,VER-Limitierungs-Chip A
+119,,Chip Restrittivo DEF C,DEF抑制晶片C,,DEF억제칩 C,VER-Limitierungs-Chip C
+120,,Chip Reattivo DEF B,DEF抑制晶片B,,DEF억제칩 B,VER-Limitierungs-Chip B
+121,,Chip di Restrizione DEF A,DEF抑制晶片A,,DEF억제칩 A,VER-Limitierungs-Chip A
 122,,INT Chip di moderazione C,INT抑制晶片C,,INT억제칩 C,INT-Limitierungs-Chip C
 123,,INT Chip Restrittivo B,INT抑制晶片B,,INT억제칩 B,INT-Limitierungs-Chip B
 124,,INT Chip di Restrizione A,INT抑制晶片A,,INT억제칩 A,INT-Limitierungs-Chip A
