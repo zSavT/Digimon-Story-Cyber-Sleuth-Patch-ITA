@@ -14,23 +14,23 @@ ID,Japanese,English,Chinese,EnglishCensored,Korean,German
 13,,Spray Medico DX,醫療噴霧DX,,메디컬 스프레이 DX,Medizinisches Spray DX
 14,,Recupero da Veleno,劇毒復原,,포이즌 리커버리,Giftheilung
 15,,Recupero d'Emergenza,混亂復原,,패닉 리커버리,Panikheilung
-16,,Recupero dalla paralisi,麻痺復原,,패럴라이즈 리커버리,Lähmungsheilung
-17,,Recupero Sonno,睡眠復原,,슬립 리커버리,Schlafheilung
+16,,Recupero dalla Paralisi,麻痺復原,,패럴라이즈 리커버리,Lähmungsheilung
+17,,Recupero dal Sonno,睡眠復原,,슬립 리커버리,Schlafheilung
 18,,Recupero da Stordimento,暈眩復原,,스턴 리커버리,Betäubungsheilung
 19,,Recupero Sprite,液晶化復原,,도트 리커버리,Sprite-Heilung
-20,,Recupero Bug,Bug復原,,버그 리커버리,Fehlerheilung
+20,,Recupero da Bug,Bug復原,,버그 리커버리,Fehlerheilung
 21,,Multi Recupero,萬能復原,,멀티 리커버리,Multiheilung
 22,,Multi Recupero DX,萬能復原DX,,멀티 리커버리 DX,Multiheilung DX
 23,,Capsula di Rianimazione,復活膠囊,,리바이브 리커버리,Wiederbelebungskapsel
 24,,Capsula di Rianimazione DX,復活膠囊DX,,리바이브 리커버리 DX,Wiederbelebungskapsel DX
 25,,Spray di Recupero Totale,完全復活噴霧,,풀 리바이브 스프레이,Wiederbelebungs-Spray
 26,,Potenziamento ATK,ATK增幅器,,ATK 부스트,ANG-Boost
-27,,Aumento DEF,DEF增幅器,,DEF 부스트,VER-Boost
+27,,Potenziamento DEF,DEF增幅器,,DEF 부스트,VER-Boost
 28,,Potenziamento INT,INT增幅器,,INT 부스트,INT-Boost
 29,,Potenziamento SPD,SPD增幅器,,SPD 부스트,GES-Boost
 30,,Potenziamento ATK,HIT增幅器,,HIT 부스트,TRE-Boost
 31,,Potenziamento AGL,AGL增幅器,,AGL 부스트,GEW-Boost
-32,,Pot. Crit.,CRT增幅器,,CRT 부스트,KRT-Boost
+32,,Potenziamento CRT.,CRT增幅器,,CRT 부스트,KRT-Boost
 33,,Portale di fuga,ESCAPE GATE,,이스케이프 게이트,Fluchttor
 50,,Punto Coraggio E,勇氣值E,,브레이브 포인트 E,Mutpunkt E
 51,,Punto Coraggio D,勇氣值D,,브레이브 포인트 D,Mutpunkt D
@@ -69,7 +69,7 @@ ID,Japanese,English,Chinese,EnglishCensored,Korean,German
 103,,Toppa del Difensore,防禦型修正檔,,방어형 패치,Verteidiger-Patch
 104,,Cerotto Intellettuale,智力型修正檔,,지력형 패치,Intelligenter Patch
 105,,Patch Agile,速度型修正檔,,민첩형 패치,Geschickter Patch
-106,,Patch di sviluppo,開發型修正檔,,개발형 패치,Entwicklungs-Patch
+106,,Patch di Sviluppo,開發型修正檔,,개발형 패치,Entwicklungs-Patch
 107,,Patch del Ricercatore,調查型修正檔,,조사형 패치,Sucher-Patch
 110,,Chip Restrizione HP C,HP抑制晶片C,,HP억제칩 C,TP-Limitierungs-Chip C
 111,,Chip Restrizione HP B,HP抑制晶片B,,HP억제칩 B,TP-Limitierungs-Chip B

@@ -30,9 +30,9 @@ ID,Japanese,English,Chinese,EnglishCensored,Korean,German
 30,,Muoversi in EDEN,在EDEN中移動,,EDEN 내의 이동,Fortbewegung in EDEN
 32,,Salvataggio,保存,,저장에 대하여,Speichern
 33,,Abilità di Hacking,駭客技能,,해킹 스킬,Hacking
-34,,Abilità Hacker: Spacca Muro,【駭客技能】「Wall Crack」,,【해킹 스킬】「월 크랙」,Hacking: Mauerspalt
-35,,Abilità Hacker: Nascondiglio Furtivo,【駭客技能】「Stealth Hide」,,【해킹 스킬】「스텔스 하이드」,Hacking: Tarnkappe
-36,,Abilità Hacker: Analisi Codice,【駭客技能】「Code Scan」,,【해킹 스킬】「코드 스캔」,Hacking: Code-Scan
+34,,Abilità Hacker: Crack Firewall,【駭客技能】「Wall Crack」,,【해킹 스킬】「월 크랙」,Hacking: Mauerspalt
+35,,Abilità Hacker: Furtività,【駭客技能】「Stealth Hide」,,【해킹 스킬】「스텔스 하이드」,Hacking: Tarnkappe
+36,,Abilità Hacker: Scansione Codice,【駭客技能】「Code Scan」,,【해킹 스킬】「코드 스캔」,Hacking: Code-Scan
 37,,Abilità Hacker: Copia e Incolla,【駭客技能】「Copy and Paste」,,【해킹 스킬】「카피 앤 페이스트」,Hacking: Kopieren und einfügen
 41,,Guida Digimon,數碼寶貝圖鑑,,디지몬 도감,Digiführer
 42,,Registrazione nella Guida Digimon,登錄到圖鑑,,도감 등록,Registrierung im Digiführer
@@ -58,8 +58,8 @@ ID,Japanese,English,Chinese,EnglishCensored,Korean,German
 63,,Cambio di costume,玩家換裝,,플레이어 갈아입히기,Umziehen
 64,,Cambio Costume,玩家換裝,,플레이어 갈아입히기,Umziehen
 65,,Interagisci con gli amici,夥伴交流,,동료와의 교류,Interaktion mit Freunden
-66,,Abilità Hacker: Accesso Percorso,【駭客技能】「Route Access」,,【해킹 스킬】「루트 액세스」,Hacking: Wegzugriff
-67,,Abilità di hacking: Controllo della potenza,【駭客技能】「Power Control」,,【해킹 스킬】「파워 컨트롤」,Hacking: Stromkontrolle
-68,,Abilità di hackeraggio: Visualizzatore,【駭客技能】「Visualizer」,,【해킹 스킬】「비주얼라이저」,Hacking: Visualisierung
-69,,Abilità Hacker: Ripristino,【駭客技能】「Restoration」,,【해킹 스킬】「레스터레이션」,Hacking: Wiederherstellung
+66,,Abilità Hacking: Accesso Percorso,【駭客技能】「Route Access」,,【해킹 스킬】「루트 액세스」,Hacking: Wegzugriff
+67,,Abilità Hacking: Controllo Energetico,【駭客技能】「Power Control」,,【해킹 스킬】「파워 컨트롤」,Hacking: Stromkontrolle
+68,,Abilità Hacking: Visualizzatore,【駭客技能】「Visualizer」,,【해킹 스킬】「비주얼라이저」,Hacking: Visualisierung
+69,,Abilità Hacking: Ripristino,【駭客技能】「Restoration」,,【해킹 스킬】「레스터레이션」,Hacking: Wiederherstellung
 70,,Dominazione: Condizione di vittoria - Distruggi,【鎮壓】勝利條件：殲滅敵人,,【도미네이션】승리조건 : 적의 전멸,Dominanz: Siegesbedingung „Zerstören“

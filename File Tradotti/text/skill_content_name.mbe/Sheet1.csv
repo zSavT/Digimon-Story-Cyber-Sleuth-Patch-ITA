@@ -1492,7 +1492,7 @@ e ripristina un po' di HP.","解除單體戰鬥成員的混亂，
 並回復少許HP。",,"배틀멤버 1체의 혼란을 치료하고
 HP를 약간 회복한다.","Hebt bei einem kämpfenden Digimon Verwirrung
 auf und stellt wenige TP wieder her."
-3120,,"Rimuove Stun da un Digimon in battaglia
+3120,,"Rimuove Stordimento da un Digimon in battaglia
 e ripristina pochi HP.","解除單體戰鬥成員的暈眩，
 並回復少許HP。",,"배틀멤버 1체의 스턴을 치료하고
 HP를 약간 회복한다.","Hebt bei einem kämpfenden Digimon Betäubung
@@ -1566,7 +1566,7 @@ wieder her."
 4014,,Rimuove Confusione da un alleato.,回復我方單體的混亂狀態,,아군 1체의 혼란상태를 치료.,Hebt bei einem Verbündeten Verwirrung auf.
 4015,,Rimuove Paralisi da un alleato.,回復我方單體的麻痺狀態,,아군 1체의 마비상태를 치료.,Hebt bei einem Verbündeten Lähmung auf.
 4016,,Rimuove Sonno da un alleato.,回復我方單體的睡眠狀態,,아군 1체의 수면상태를 치료.,Hebt bei einem Verbündeten Schlaf auf.
-4017,,Rimuove Stun da un alleato.,回復我方單體的暈眩狀態,,아군 1체의 스턴상태를 치료.,Hebt bei einem Verbündeten Betäubung auf.
+4017,,Rimuove Stordimento da un alleato.,回復我方單體的暈眩狀態,,아군 1체의 스턴상태를 치료.,Hebt bei einem Verbündeten Betäubung auf.
 4018,,Rimuove Dot da un alleato.,回復我方單體的液晶化狀態,,아군 1체의 액정화상태를 치료.,Hebt bei einem Verbündeten Verpixelung auf.
 4019,,Rimuove Bug da un alleato.,回復我方單體的Bug狀態,,아군 1체의 버그상태를 치료.,Hebt bei einem Verbündeten Fehler auf.
 4020,,"Rimuove tutte le alterazioni di stato da un alleato
