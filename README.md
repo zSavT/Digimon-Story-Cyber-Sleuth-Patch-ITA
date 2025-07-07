@@ -15,8 +15,12 @@ La realizzazione della patch è stata resa possibile in larga misura grazie al c
 - [Video dimostrativo](#video-dimostrativo)
 - [Come installare la patch](#come-installare-la-patch)
 - [Come segnalare un errore nella traduzione](#come-segnalare-un-errore-nella-traduzione)
-- [Funzionamento installer (Per chi vuole auto generarsi l'installer)](#funzionamento-installer-per-chi-vuole-auto-generarsi-linstaller)
-  - [Requisiti software](#requisiti-software)
+- [Come contribuire nello sviluppo della Patch](#come-contribuire-nello-sviluppo-della-patch)
+  - [Mod Loader](#mod-loader)
+  - [Struttura file](#struttura-file)
+  - [Modifica delle texture](#modifica-delle-texture)
+  - [Funzionamento installer (Per chi vuole auto generarsi l'installer)](#funzionamento-installer-per-chi-vuole-auto-generarsi-linstaller)
+    - [Requisiti software](#requisiti-software)
   - [Creazione dell'eseguibile](#creazione-delleseguibile)
     - [Windows](#windows)
     - [Linux (Steam Deck)](#linux-steam-deck)
@@ -64,9 +68,58 @@ Se il tuo problema è un crash del gioco, puoi creare invece l'issue dedicata a
 ![Immagine](./img/Issue1.png)
 ![Immagine](./img/Issue2.png)
 
-# Funzionamento installer (Per chi vuole auto generarsi l'installer)
+# Come contribuire nello sviluppo della Patch
 
-## Requisiti software
+Oltre a segnalare eventuali problemi nella traduzione della patch, per chi vuole contribuire direttamente nello sviluppo, può forkare la repository, effettuare le modifiche e proporre l'aggiornamento tramite PR (Vedi [qui](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo) per maggiori info sul processo).
+
+## Mod Loader
+Il mod loader, oltre a permettere l'installazione delle mod, permette l'estrazione di tutti i file del gioco modificabili. Tutte le info sono indicate nella [guida ufficiale](https://github.com/Pherakki/SimpleDSCSModManager/tree/develop/Documentation) del Tool. 
+
+## Struttura file
+
+I file di testo sono presenti in due cartelle:
+- **message**
+  - Sono presenti i dialoghi degli NPC, Storia ecc...
+- **text**
+  - Sono presenti tutte i testi relativi alla descrizione degli oggetti, menu ecc... 
+
+Per quanto riguarda i testi relativi ai box dei dialoghi, esistono due tipologie di box di dialogo:
+- "**Completo**"
+  - Il box di dialogo occupa tutta la parte inferiore dello schermo.
+  - Lunghezza max: 80
+![Immagine](./img/EsCompleto.png)
+
+- "**Classico**"
+  - Questa tipologia di box, non occupa tutto lo schermo e può contenere, leggermente meno caratteri.
+  - Lunghezza max: 70 
+![Immagine](./img/EsClassico.png)
+
+In generale **non c'è un vero limite di caratteri**, il gioco non esegue nessun controllo, per testi troppo grandi, semplicemente il testo uscirà fuori dallo schermo. 
+
+Altri menu sono:
+
+- **Parole Chiave**
+  - la lunghezza **massima è 28 caratteri** per riga. 
+
+- **DigiBook**
+  - la lunghezza **massima è 53 caratteri** (54 se inseriamo come ultimo carattere un punto). 
+
+Altri menu di gioco, come per esempio le descrizioni degli oggetti, possono essere visualizzati da interfacce differenti con dimensioni differenti, ma il testo originale è lo stesso, quindi non si può precisare la dimensione massima, in questi casi, si segue la formattazione originale. 
+
+## Modifica delle texture
+
+Le texture del gioco sono presenti nella cartella "**images**". Tutte le immagini sono in formato "**.img**". Per poterle modificare, bisogna modificare l'estensione con "**.dds**" e successivamente utilizzare tool di modifica delle immagini che supportano i DDS (Come [Gimp](https://www.gimp.org/downloads/)). L'esportazione deve avere come formato il DXT5 (BX3).
+Per chi utilizza Photoshop, deve installare il [plugin di NVIDIA](https://developer.nvidia.com/texture-tools-exporter) per la gestione dei file DDS.
+Dopo aver fatto le modifiche, bisogna salvare sempre in formato DDS e successivamente cambiare l'estensione in IMG.
+
+**NOTA BENE**
+
+Tutte le texture sono specchiate orizzontalmente e ruotate di 180°. L’output finale deve mantenere questo orientamento!. 
+
+
+## Funzionamento installer (Per chi vuole auto generarsi l'installer)
+
+### Requisiti software
 
 - [Python](https://www.python.org/downloads/) (testato con 3.12)
 - Librerie
