@@ -536,7 +536,7 @@
 4285,,Hacker Patto Diabolico,將靈魂賣給惡魔的駭客,,악마에게 혼을 판 해커,Teufelspakt-Hacker
 4286,,Hacker Vittima del Diavolo,被惡魔奪走靈魂的駭客,,악마에게 혼을 빼앗긴 해커,Teufelsopfer-Hacker
 4287,,Hacker Devoto al Diavolo,受惡魔吸引的駭客,,악마에게 홀린 해커,Teufelsanbeter-Hacker
-4288,,Ragazzo strano appassionato di computer,有點噁心的御宅族青年,,징그러운 오타쿠 청년,Komischer junger Nerd
+4288,,Giovane Otaku Inquietante,有點噁心的御宅族青年,,징그러운 오타쿠 청년,Komischer junger Nerd
 4289,,Occhialuta Seria e Perbene,戴眼鏡的清秀姊姊,,안경을 쓴 청초한 누님,Geschniegeltes Vierauge
 4290,,Impresario Inetto,看似無能的上班族,,글러먹은 듯한 샐러리맨,Unfähiger Geschäftsmann
 4291,,Uomo d'affari disperato,相當無能的上班族,,상당히 글러먹은 샐러리맨,Lausiger Geschäftsmann
@@ -549,7 +549,7 @@
 4298,,[p] travestito,偽裝後的[p],,변장한 [p],[p] in Verkleidung
 4299,,Guida di Kamishiro,負責引路的神代職員,,안내원 카미시로 사원,Kamishiro-Tourführer
 4300,,Sapientone,見多識廣的大叔,,물정에 밝은 아저씨,Besserwisser
-4301,,Ragazzo Nerd Facilmente Smarrito,優柔寡斷的御宅族青年,,결정하지 못하는 오타쿠 청년,Verirrter junger Nerd
+4301,,Ragazzo Nerd Smarrito,優柔寡斷的御宅族青年,,결정하지 못하는 오타쿠 청년,Verirrter junger Nerd
 4302,,Studentessa alla moda,時髦的女學生,,세련된 여학생,Elegante Schülerin
 4303,,Studentessa cinica,乖僻的女學生,,삐뚤어진 여학생,Zynische Schülerin
 4304,,Poliziotto corpulento,威風凜凜的警察,,믿음직스러운 경찰관,Stämmiger Polizist
@@ -620,22 +620,22 @@
 4369,,Ragazzo Codardo,膽小的男孩,,소심한 남자아이,Feiger Junge
 4370,,Gentile Vecchio,溫柔的老爺爺,,친절한 할아버지,Freundlicher alter Mann
 4371,,Studente impaurito,恐慌的男學生,,패닉에 빠진 남학생,Panischer Schüler
-4372,,Ragazzo Nerd Turistico,上京系的御宅族青年,,상경한 오타쿠 청년,Junger Nerdtourist
-4373,,Ragazzo Nerd Anime,喜愛動畫的御宅族少年,,애니메이션 오타쿠 소년,Junger Anime-Nerd
+4372,,Giovane Nerd Turista,上京系的御宅族青年,,상경한 오타쿠 청년,Junger Nerdtourist
+4373,,Otaku,喜愛動畫的御宅族少年,,애니메이션 오타쿠 소년,Junger Anime-Nerd
 4374,,Cameriera Appassionata,熱血女僕,,뜨거운 메이드,Engagierte Maid
 4375,,Cameriera Gattina,貓咪女僕,,야옹이 메이드,Kätzchen-Maid
 4376,,Ragazza appassionata di videogiochi,熱愛遊戲的女子,,게임을 매우 좋아하는 여자,Gamer-Mädchen
-4377,,Ragazzo Mercuriale,遷怒於人的男子,,화풀이하는 남자,Lebhafter Junge
+4377,,Ragazzo Vivace,遷怒於人的男子,,화풀이하는 남자,Lebhafter Junge
 4378,,Tizio compassionevole,玻璃心的大叔,,친절한 아저씨,Mitfühlender Typ
 4379,,Agente di Polizia Severo,嚴厲的警察,,엄격한 경찰관,Strenger Polizist
 4380,,Secchione Distratto,散漫的御宅族青年,,허술한 오타쿠 청년,Leichtsinniger Nerd
-4381,,Soldato Difensivo Impeccabile,冷靜的防衛隊員,,냉정한 방위대원,Cooler Schutzpolizist
-4382,,Soldato pensieroso della difesa,陷入沉思的防衛隊員,,생각에 잠긴 방위대원,Kluger Schutzpolizist
-4383,,Soldato Devoto alla Difesa,充滿使命感的防衛隊員,,사명감 넘치는 방위대원,Treuer Schutzpolizist
-4384,,Soldato Difensivo Imbranato,發呆的防衛隊員,,멍한 방위대원,Langsamer Schutzpolizist
+4381,,Poliziotto in gamba,冷靜的防衛隊員,,냉정한 방위대원,Cooler Schutzpolizist
+4382,,Poliziotto Intelligente,陷入沉思的防衛隊員,,생각에 잠긴 방위대원,Kluger Schutzpolizist
+4383,,Poliziotto Fedele,充滿使命感的防衛隊員,,사명감 넘치는 방위대원,Treuer Schutzpolizist
+4384,,Poliziotto Lento,發呆的防衛隊員,,멍한 방위대원,Langsamer Schutzpolizist
 4385,,Ragazzo Nerd Pacifico,愛好和平的御宅族男子,,평화를 사랑하는 오타쿠 남자,Friedliebender Nerd
-4386,,Ragazzo Nerd Visionario,具備高度妄想力的御宅族青年,,망상력 높은 오타쿠 청년,Wahnhafter Nerd
-4387,,Ragazzo Nerd Fantasticheria,逃避現實的御宅族少年,,현실도피형 오타쿠 소년,Fantasierender Nerd
+4386,,Ragazzo Nerd Delirante,具備高度妄想力的御宅族青年,,망상력 높은 오타쿠 청년,Wahnhafter Nerd
+4387,,Ragazzo Nerd Fantasista,逃避現實的御宅族少年,,현실도피형 오타쿠 소년,Fantasierender Nerd
 4388,,Ragazzo Nerd Sognatore,夢想家御宅族青年,,몽상가 오타쿠 청년,Träumerischer Nerd
 4389,,Tizio Affascinante,四處搭訕的男子,,작업거는 남자,Charmanter Typ
 4390,,Casalinga Dipendente dallo Shopping,熱愛購物的主婦,,쇼핑을 좋아하는 주부,Kaufsüchtige Hausfrau
@@ -684,7 +684,7 @@
 4433,,Agente di Polizia Nervoso,畏畏縮縮的警察,,겁먹은 경찰관,Nervöser Polizist
 4434,,Vecchio Uomo Cordiale,拼命三郎老爺爺,,믿음직한 할아버지,Herzlicher alter Mann
 4435,,Donna Ansiosa,愛操心的姊姊,,걱정 많은 누님,Besorgte Frau
-4436,,Soldato della Difesa Muscoloso,強壯的防衛隊員,,억센 방위대원,Bulliger Schutzpolizist
+4436,,Poliziotto Muscoloso,強壯的防衛隊員,,억센 방위대원,Bulliger Schutzpolizist
 4437,,Tizio Confuso,陷入混亂的大叔,,혼란에 빠진 아저씨,Verwirrter Kerl
 4438,,Vecchio Maledetto,心理作祟的老爺爺,,저주받은 할아버지,Verfluchter alter Mann
 4439,,Studente confuso,陷入困惑的男學生,,곤혹스러운 남학생,Verwirrter Schüler
@@ -723,7 +723,7 @@
 4505,,Uomo d'affari scontento,似乎不服氣的上班族,,불만스러워 보이는 샐러리맨,Mürrischer Geschäftsmann
 4506,,Uomo d'affari d'élite,菁英上班族,,엘리트 샐러리맨,Elitegeschäftsmann
 4507,,Tipo Conoscitore,博學多聞的大叔,,박식한 아저씨,Gebildeter Kerl
-4508,,Studente Internazionale (Maschio),在海外生活的男學生,,외국에서 지내는 남학생,Austauschschüler
+4508,,Studente in Erasmus,在海外生活的男學生,,외국에서 지내는 남학생,Austauschschüler
 4509,,Ragazza Frivola,見異思遷的女孩,,변덕스러운 여자아이,Albernes Mädchen
 4510,,Padre Ansioso,愛操心的父親,,걱정 많은 아버지,Besorgter Vater
 4511,,Imbranato Uomo d'Affari,冒冒失失的上班族,,덜렁대는 샐러리맨,Schlechter Geschäftsmann
@@ -753,7 +753,7 @@
 4535,,Uomo Retrospectivo,懷舊迷男子,,시대에 뒤떨어진 남자,Schwelgender Mann
 4536,,Donna amante dei manga per ragazzi,喜愛少年漫畫的女性,,소년 만화를 좋아하는 여성,Jungsmanga-Fan
 4537,,Amministratore del Forum,論壇管理者,,포럼 관리인,Forenadmin
-4538,,Studente Maschio Appassionato di Manga,熱愛漫畫的男學生,,만화를 좋아하는 남학생,Mangafan-Schüler
+4538,,Studente Appassionato di Manga,熱愛漫畫的男學生,,만화를 좋아하는 남학생,Mangafan-Schüler
 4539,,Aspirante Autrice di Manga,想成為漫畫家的女學生,,만화가가 되고 싶은 여학생,Junge Mangazeichnerin
 4540,,Addetto all'accoglienza,負責迎賓的姊姊,,마중나온 누님,Empfangsdame
 4541,,Receptionist,負責接待的姊姊,,접수처 누님,Rezeptionistin
@@ -902,7 +902,7 @@
 4761,,Hacker di sbarramento,妨礙通行的駭客,,통행을 방해하는 해커,Weg versperrender Hacker
 4762,,Hacker Inavvicinabile,無法接近的駭客,,다가가지 못하는 해커,Unnahbarer Hacker
 4763,,Hacker Aggressivo,具攻擊性的駭客,,공격적인 해커,Aggressiver Hacker
-4764,,Hacker di cattivi giochi di parole,冷笑話很難笑的駭客,,유머가 썰렁한 해커,Hacker mit üblen Späßen
+4764,,Hacker con battute sconce,冷笑話很難笑的駭客,,유머가 썰렁한 해커,Hacker mit üblen Späßen
 4800,,Il Grido di Morte di Arata,新的臨終慘叫,,아라타의 단말마,Aratas Todesschrei
 4801,,Ragazzo Domatore Sangue Caldo,熱血馴獸師少年,,열혈 테이머 소년,Hitzköpfiger Zähmer-Junge
 4802,,Ragazzino Domatore Sfacciato,狂妄的馴獸師少年,,건방진 테이머 소년,Frecher Zähmer-Junge
