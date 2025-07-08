@@ -25,7 +25,7 @@ ID,Japanese,English,Chinese,EnglishCensored,Korean,German
 1217,,o superiore,以上,,이상, oder höher
 1218,,HP MAX è,最大HP,,최대 HP가 ,Max. TP =
 1219,,SP MAX è,最大SP,,최대 SP가 ,Max. SP =
-1220,,ATT è,ATK,,공격력이 ,ANG = 
+1220,,ATK è,ATK,,공격력이 ,ANG = 
 1221,,DEF è,DEF,,방어력이 ,VER = 
 1222,,INT è,INT,,지력이 ,INT = 
 1223,,SPD è,SPD,,민첩이 ,GES = 
@@ -138,10 +138,10 @@ ID,Japanese,English,Chinese,EnglishCensored,Korean,German
 3200,,Liv.,Lv,,Lv,Lv.
 3201,,PS Massimi,最大HP,,최대HP,Max. TP
 3202,,SP Massimi,最大SP,,최대SP,Max. SP
-3203,,ATT,ATK,,공격력,ANG
+3203,,ATK,ATK,,공격력,ANG
 3204,,DEF,DEF,,방어력,VER
 3205,,INT,INT,,지력,INT
-3206,,VEL,SPD,,민첩,GES
+3206,,SPD,SPD,,민첩,GES
 3207,,Chiudi,關閉,,닫는다,Schließen
 3208,,Impostazioni,設定,,세팅,Einstellungen
 3300,,Vuoto,Empty,,Empty,Leer

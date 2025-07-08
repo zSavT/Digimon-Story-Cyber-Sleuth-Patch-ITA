@@ -1,8 +1,8 @@
 ID,Japanese,English,Chinese,EnglishCensored,Korean,German
-1,,Aumenta ATT del 15%.,ATK提升15%。,,공격력이 15% 상승한다.,Erhöht ANG um 15 %.
+1,,Aumenta ATK del 15%.,ATK提升15%。,,공격력이 15% 상승한다.,Erhöht ANG um 15 %.
 2,,Aumenta la DEF del 15%.,DEF提升15%。,,방어력이 15% 상승한다.,Erhöht VER um 15 %.
 3,,Aumenta INT del 15%.,INT提升15%。,,지력이 15% 상승한다.,Erhöht INT um 15 %.
-4,,Aumenta la VEL del 15%.,SPD提升15%。,,민첩이 15% 상승한다.,Erhöht GES um 15 %.
+4,,Aumenta la SPD del 15%.,SPD提升15%。,,민첩이 15% 상승한다.,Erhöht GES um 15 %.
 5,,Aumenta ACU del 15%.,ACU提升15%。,,명중률이 15% 상승한다.,Erhöht GEN um 15 %.
 6,,Aumenta EVA del 7%.,EVA提升15%。,,회피율이 15% 상승한다.,Erhöht AWN um 7 %.
 7,,Aumenta CRT del 15%.,CRT提升15%。,,크리티컬 발생률이 15% 상승한다.,Erhöht KRT um 15 %.
@@ -106,7 +106,7 @@ ma aumenta anche i danni ricevuti del 20%.","給予敵人的傷害增加20%，
 但受到的傷害也增加20%。",,"주는 대미지가 20% 증가하지만
 받는 대미지도 20% 증가한다.","Erhöht den verursachten aber auch den
 erlittenen Schaden um 20 %."
-43,,"Aumenta l'ATT del 20% quando
+43,,"Aumenta l'ATK del 20% quando
 gli HP scendono sotto il 50%.","HP在50%以下時，
 ATK提升25%。",,"HP 50% 이하가 되었을 때
 공격력이 20% 상승한다.","Erhöht ANG um 20 %, wenn die TP unter 50 %
@@ -125,7 +125,7 @@ Zug bist. (Betr. nur d. ausführende Digimon.)"
 e CRT del 10%.",ACU和EVA提升5%，CRT提升10%。,,"명중률과 회피율이 5% 상승하고
 크리티컬 발생률이 10% 상승한다.","Erhöht GEN und AWN um 5 % sowie 
 KRT um 10 %."
-48,,"Aumenta la VEL del 10% e il danno
+48,,"Aumenta la SPD del 10% e il danno
 delle skill di Fuoco e Luce del 10%.","SPD提升10%，
 火、光屬性技能造成的傷害增加10%。",,"민첩이 10% 상승하고 불/빛속성 스킬로
 주는 대미지가 10% 증가한다.","Erhöht GES sowie den Schaden von Feuer- und
@@ -144,7 +144,7 @@ andernfalls tödlicher Angriff die TP auf 1."
 52,,"Riduce del 50% la probabilità di 
 subire alterazioni di stato.",陷入異常狀態的機率降低50%。,,상태이상이 될 확률이 50% 저하된다.,"Reduziert die Häufigkeit von Statusleiden
 um 50 %."
-53,,"Aumenta ATK, DEF, INT e VEL del 5%.",ATK、DEF、INT、SPD提升5%。,,"공격력/방어력/지력/민첩이
+53,,"Aumenta ATK, DEF, INT e SPD del 5%.",ATK、DEF、INT、SPD提升5%。,,"공격력/방어력/지력/민첩이
 5% 상승한다.","Erhöht ANG, VER, INT und GES um 5 %."
 54,,Aumenta ATK e INT del 10%.,ATK和INT提升10%。,,공격력과 지력이 10% 상승한다.,Erhöht ANG und INT um 10 %.
 55,,"Aumenta del 10% i danni delle 
@@ -158,7 +158,7 @@ um 20 %."
 e SPD del 10%.",EVA和CRT提升5%，SPD提升10%。,,"회피율과 크리티컬 발생률이 5% 상승하고
 민첩이 10% 상승한다.","Erhöht AWN und KRT um
 5 % sowie GES um 10 %."
-58,,"Aumenta l'ATT del 50% quando
+58,,"Aumenta l'ATK del 50% quando
 gli HP scendono sotto il 10%.","HP在10%以下時，
 ATK提升50%。",,"HP 10% 이하가 되면
 공격력이 50% 상승한다.","Erhöht ANG um 50 %, wenn die TP unter 10 %
@@ -182,7 +182,7 @@ recuperati dagli effetti di assorbimento.","因HP吸收效果、SP吸收效果
 20% 증가한다.","Erhöht die durch Absorption erhaltene TP- und
 SP-Menge um 20 %."
 63,,"Riduce i PS del 5% dei PS massimi
-e aumenta l'ATT del 5% a ogni turno.","每回合減少最大HP的5%，
+e aumenta l'ATK del 5% a ogni turno.","每回合減少最大HP的5%，
 ATK提升5%。",,"매 턴, 최대 HP의 5%만큼 HP가 감소하고
 공격력이 5% 상승한다.","Verbraucht bei jedem Zug 5 % der maximalen 
 TP und erhöht gleichzeitig ANG um 5 %."
@@ -216,7 +216,7 @@ magici del 10% e li converte in HP.","受到魔法攻擊時，
 대미지의 10%를 경감하고 HP로 변환한다.","Reduziert den Schaden durch magische
 Angriffe um 10 % und wandelt ihn in TP um."
 70,,Aumenta DEF e INT del 10%.,DEF和INT提升10%。,,방어력과 지력이 10% 상승한다.,Erhöht DEF und INT um 10 %.
-71,,Aumenta ATT e VEL del 10%.,ATK和SPD提升10%。,,공격력과 민첩이 10% 상승한다.,Erhöht ANG und GES um 10 %.
+71,,Aumenta ATK e SPD del 10%.,ATK和SPD提升10%。,,공격력과 민첩이 10% 상승한다.,Erhöht ANG und GES um 10 %.
 72,,"Riduce i danni ricevuti dalle specie
 con affinità sfavorevole del 15%.",受到不利種族造成的傷害減少15%。,,"불리한 종족으로부터 받는 대미지를
 15% 경감한다.","Reduziert den durch Wesen mit schlechter
@@ -243,7 +243,7 @@ Lichtfertigkeiten um 10 %."
 di assorbimento.",SP吸收效果的回復量增加30%。,,"SP흡수 효과로 회복량이
 30% 증가한다.","Erhöht die durch Absorption erhaltene
 SP-Menge um 30 %."
-79,,"Aumenta l'ATT del 10% e la quantità di HP
+79,,"Aumenta l'ATK del 10% e la quantità di HP
 ricevuti dagli effetti di assorbimento del 30%.",攻擊力增加10%，HP吸收效果的回復量增加30%。,,"공격력이 10% 증가하고 HP흡수 효과에 의한
 회복량이 30% 증가한다.","Erhöht ANG um 10 % und die durch Absorption
 erhaltene TP-Menge um 30 %."
@@ -260,7 +260,7 @@ tecniche di Vento e Luce.",風‧光屬性技能所給予的傷害增加10%,,"�
 10% 증가한다.","Erhöht den Schaden von Wind- und
 Lichtfertigkeiten um 10 %."
 83,,"Aumenta del 50% il danno magico ricevuto, 
-ma aumenta anche l'ATT del 25%.","受到的魔法傷害增加50%，
+ma aumenta anche l'ATK del 25%.","受到的魔法傷害增加50%，
 但攻擊力提升25%。",,"받는 마법 대미지가 50% 증가하는 대신
 공격력이 25% 증가한다.","Erhöht den erlittenen magischen Schaden 
 um 50%, aber auch ANG um 25 %."
@@ -291,13 +291,13 @@ scontri sfavorevoli del 10% e li converte in PS.","受到適性不利的種族�
 減輕傷害10%，變換為SP。",,"불리한 종족으로부터 공격을 받았을 때
 대미지의 10%를 경감하고 SP로 변환한다.","Reduziert Angriffsschaden bei schlechten
 Kombos um 10 % und wandelt ihn in SP um."
-90,,"Aumenta ATK, DEF, INT e VEL del 10%.","ATK．DEF．INT．SPD
+90,,"Aumenta ATK, DEF, INT e SPD del 10%.","ATK．DEF．INT．SPD
 上升10%。",,"공격력/방어력/지력/민첩이
 10% 상승한다.","Erhöht ANG, VER, INT und GES um 10 %."
-91,,"Aumenta la VEL del 20%, ma riduce l'ATT del 10%.","SPD上升20%。
+91,,"Aumenta la SPD del 20%, ma riduce l'ATK del 10%.","SPD上升20%。
 ATK減少10%。",,"민첩이 20% 상승하는 대신
 공격력이 10% 감소한다.","Erhöht GES um 20 %, senkt ANG um 10 %."
-92,,"Aumenta l'ATT del 20%, ma riduce la VEL del 10%.","ATK上升20%。
+92,,"Aumenta l'ATK del 20%, ma riduce la SPD del 10%.","ATK上升20%。
 SPD減少10%。",,"공격력이 20% 상승하는 대신
 민첩이 10% 감소한다.","Erhöht ANG um 20 %, senkt GES um 10 %."
 93,,"Aumenta del 8% il danno inflitto dalle 
@@ -356,7 +356,7 @@ e i danni inflitti dalle skill di tipo Oscurità del 10%.","依照HP吸取效果
 스킬로 주는 대미지가 10% 증가한다.","Erhöht absorbierte TP-Menge um 25 % sowie
 den Schaden von Dunkelfertigkeiten um 10 %."
 106,,Aumenta l'ESP guadagnata in battaglia.,增加在戰鬥中所獲得的EXP。,,배틀로 얻는 EXP가 증가한다.,Erhöht die in Kämpfen gewonnenen EP.
-107,,"Aumenta sia ATT che i danni inflitti dalle
+107,,"Aumenta sia ATK che i danni inflitti dalle
 abilità di Fuoco e Oscurità del 10%.","ATK上升10%，且增加火．闇屬性技能
 所給予的傷害10%。",,"공격력이 10% 올라가고 불/어둠속성 스킬로
 주는 대미지가 10% 증가한다.","Erhöht ANG und den Schaden von Feuer- und

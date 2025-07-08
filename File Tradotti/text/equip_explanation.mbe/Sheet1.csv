@@ -54,7 +54,7 @@ ID,Japanese,English,Chinese,EnglishCensored,Korean,German
 ／裝備",,"공격력+5
 /장비품","ANG +5
 /Ausrüstung"
-312,,"ATT +10
+312,,"ATK +10
 /Equipaggiamento","ATK+10
 ／裝備",,"공격력+10
 /장비품","ANG +10
@@ -64,7 +64,7 @@ ID,Japanese,English,Chinese,EnglishCensored,Korean,German
 ／裝備",,"공격력+15
 /장비품","ANG +15
 /Ausrüstung"
-314,,"ATT +20
+314,,"ATK +20
 /Equipaggiamento","ATK+20
 ／裝備",,"공격력+20
 /장비품","ANG +20
@@ -139,12 +139,12 @@ ID,Japanese,English,Chinese,EnglishCensored,Korean,German
 ／裝備",,"민첩+15
 /장비품","GES +15
 /Ausrüstung"
-329,,"VEL +20
+329,,"SPD +20
 /Equipaggiamento","SPD+20
 ／裝備",,"민첩+20
 /장비품","GES +20
 /Ausrüstung"
-330,,"VEL +25
+330,,"SPD +25
 /Equipaggiamento","SPD+25
 ／裝備",,"민첩+25
 /장비품","GES +25
@@ -214,12 +214,12 @@ ID,Japanese,English,Chinese,EnglishCensored,Korean,German
 ／裝備",,"HP+100, 지력+10 
 /장비품","TP +100, INT +10
 /Ausrüstung"
-344,,"HP +100, VEL +10
+344,,"HP +100, SPD +10
 /Equipaggiamento","HP+100　SPD+10
 ／裝備",,"HP+100, 민첩+10 
 /장비품","TP +100, GES +10
 /Ausrüstung"
-345,,"SP +10, ATT +10
+345,,"SP +10, ATK +10
 /Equipaggiamento","SP+10　ATK+10
 ／裝備",,"SP+10, 공격력+10 
 /장비품","SP +10, ANG +10
@@ -234,17 +234,17 @@ ID,Japanese,English,Chinese,EnglishCensored,Korean,German
 ／裝備",,"SP+10, 지력+10 
 /장비품","SP +10, INT +10
 /Ausrüstung"
-348,,"SP +10, VEL +10
+348,,"SP +10, SPD +10
 /Equipaggiamento","SP+10　SPD+10
 ／裝備",,"SP+10, 민첩+10 
 /장비품","SP +10,GES +10
 /Ausrüstung"
-349,,"ATT +10, DEF +10
+349,,"ATK +10, DEF +10
 /Equipaggiamento","ATK+10　DEF+10
 ／裝備",,"공격력+10, 방어력+10 
 /장비품","ANG +10, VER +10
 /Ausrüstung"
-350,,"ATT +10, INT +10
+350,,"ATK +10, INT +10
 /Equipaggiamento","ATK+10　INT+10
 ／裝備",,"공격력+10, 지력+10 
 /장비품","ANG +10, INT +10
@@ -259,12 +259,12 @@ ID,Japanese,English,Chinese,EnglishCensored,Korean,German
 ／裝備",,"방어력+10, 지력+10 
 /장비품","VER +10, INT +10
 /Ausrüstung"
-353,,"DEF +10, VEL +10
+353,,"DEF +10, SPD +10
 /Equipaggiamento","DEF+10　SPD+10
 ／裝備",,"방어력+10, 민첩+10 
 /장비품","VER +10, GES +10
 /Ausrüstung"
-354,,"INT +10, VEL +10
+354,,"INT +10, SPD +10
 /Equipaggiamento","INT+10　SPD+10
 ／裝備",,"지력+10, 민첩+10 
 /장비품","INT +10, GES +10
@@ -274,7 +274,7 @@ ID,Japanese,English,Chinese,EnglishCensored,Korean,German
 ／裝備",,"지력+10, 명중률+5%
 /장비품","INT +10, GEN +5 %
 /Ausrüstung"
-356,,"VEL +10, SCH +5%
+356,,"SPD +10, SCH +5%
 /Equipaggiamento","SPD+10　EVA+5%
 ／裝備",,"민첩+10, 회피율+5%
 /장비품","GES +10, AWN +5 %
