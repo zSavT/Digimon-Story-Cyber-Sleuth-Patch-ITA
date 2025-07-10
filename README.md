@@ -36,7 +36,7 @@ La realizzazione della patch è stata resa possibile in larga misura grazie al c
 
 # Video dimostrativo
 
-[![Digimon Story Cyber Sleuth Patch ITA v1 [By Lowrentio e SavT]](https://img.youtube.com/vi/OEWC2SCIWIE/maxresdefault.jpg)](https://www.youtube.com/watch?v=OEWC2SCIWIE)
+[![Digimon Story Cyber Sleuth Patch ITA v1.4 [By Lowrentio e SavT]](https://img.youtube.com/vi/tBYz0wpVthk/maxresdefault.jpg)](https://www.youtube.com/watch?v=tBYz0wpVthk)
 
 
 # Come installare la patch
