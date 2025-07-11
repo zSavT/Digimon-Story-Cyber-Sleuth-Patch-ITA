@@ -1,7 +1,7 @@
 ﻿ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
 0,4711,,"Non posso credere a quanti furti di account
-ci sono stati ultimamente. Dobbiamo mettere
-ordine in EDEN.","最近帳號狩獵好常發生啊，真是受夠了……
+ci sono stati ultimamente.
+Dobbiamo mettere ordine in EDEN.","最近帳號狩獵好常發生啊，真是受夠了……
 EDEN的秩序必須由我們來守護。",,"최근 계정 사냥이 너무 많아서 두손 두발 들 정도야…
 EDEN의 질서는 우리가 지켜야만 해","Ich kann nicht glauben, wie viel Kontendiebstahl
 es in letzter Zeit gab. Wir müssen in EDEN für
@@ -15,9 +15,9 @@ Zaxon prenda il comando!","「Jude」是傳說級最強的駭客隊伍，
 우리「잭슨」이지","Gamma war ein legendäres Hackerteam, aber das ist
 nun vorbei. Jetzt wird es Zeit, dass Zaxon
 die Führung übernimmt!"
-100,4711,,"Tutti coloro che soffrono della sindrome di
-EDEN torneranno sicuramente. Perciò dobbiamo
-proteggere questo luogo.","患上EDEN症候群的同伴，一定某天會回來的。
+100,4711,,"Tutti coloro che soffrono della sindrome
+di EDEN torneranno sicuramente.
+Perciò dobbiamo proteggere questo luogo.","患上EDEN症候群的同伴，一定某天會回來的。
 所以，我們得保護好這個地方才行呀。",,"EDEN 증후군에 걸린 동료는 분명히 언젠가 돌아올 거야.
 그러니까 이 장소를 우리가 지켜야겠지","Alle, die am EDEN-Syndrom leiden, werden mit
 Sicherheit zurückkehren. Darum müssen wir diesen
@@ -61,8 +61,8 @@ Rede mitgerissen zu sein.)"
 302,2000,,...,………………,,………………,...
 303,2000,,(Dovrei prima tornare da Hudie.),（先回hudie好了）,,"(우선, 후디에로 돌아가자)",(Ich sollte erst mal zurück zu Hudie gehen.)
 304,2000,,"(Yuugo e Fei probabilmente sono andati a
-Kowloon per pattugliare. Credo che
-andrò anche io lì.)","（YUGO跟菲似乎都去Kowloon巡邏了，
+Kowloon per pattugliare.
+Credo che andrò anche io lì.)","（YUGO跟菲似乎都去Kowloon巡邏了，
 　先進去Kowloon裡看看好了……）",,"(유고와 페이는, 쿠롱을 순찰하러 간 듯하다.
  쿠롱 Lv.3으로 가보자…)","(Yuugo und Fei sind wohl nach Kowloon gegangen,
 um dort zu patrouillieren. Ich glaube,
@@ -72,9 +72,8 @@ preparativi per la distruzione dei Demoni.","YUGO不在喔，
 他正忙著準備擊垮惡魔亂舞啊。",,"유고라면 없어.
 데몬즈를 쳐부수기 위한 준비로 바쁘니까 말이지","Yuugo ist nicht hier. Er kümmert sich um die
 Vorbereitungen zur Vernichtung der Demons."
-306,4710,,"Jimiken ha finto di essere dalla parte
-di Zaxon, ma non ci è voluto molto prima che
-mostrasse il suo vero volto!","吉米肯那混蛋，在Zaxon過得那麼好，
+306,4710,,"Jimiken ha finto di essere dalla parte di Zaxon,
+ma non ci è voluto molto prima che mostrasse il suo vero volto!","吉米肯那混蛋，在Zaxon過得那麼好，
 竟然還恩將仇報！",,"지미켄 자식, 잭슨에서 실컷 즐길 만큼
 즐겨놓고서, 은혜를 원수로 갚다니!","Jimiken hat vorgegeben, auf der Seite von Zaxon
 zu sein, aber es hat nicht lange gedauert, bis er
@@ -88,24 +87,22 @@ Mi chiedo che tipo sia questa persona.","你知道什麼是「電腦偵探」嗎
 …어떤 녀석인 걸까?","Hast du von einem „Cyber-Detektiv“ gehört? In
 Kowloon habe ich zuletzt oft von ihm gehört. Ich
 frage mich, wie diese Person so ist."
-308,9173,,"È ben possibile che tu sia un
-doppiogiochista. Se riveli ai Demoni 
-informazioni su di noi, sei finito.","……你就是那個雙面間諜啊。
+308,9173,,"È ben possibile che tu sia un doppiogiochista.
+Se riveli ai Demoni  informazioni su di noi, sei finito.","……你就是那個雙面間諜啊。
 如果你敢把我們的情報賣給惡魔亂舞，
 我就要你好看啊。",,"…너, 이중스파이였구나.
 우리 정보를 데몬즈에게 팔았다간 용서하지 않겠어","Gut möglich, dass du ein Doppelagent bist. Wenn
 du den Demons Informationen über uns verrätst,
 bist du dran."
 309,9174,,"Ho sentito dire che Jude non aveva il
-programma Digimon quando hanno attaccato a
-Under Zero!","聽說Jude在攻入Under Zero時，
+programma Digimon quando hanno attaccato a Under Zero!","聽說Jude在攻入Under Zero時，
 連數碼寶貝程式都沒帶喔！",,"쥬드가 언더 제로를 공략했을 때는
 디지몬 프로그램을 갖고 있지 않았다고 해!","Ich habe gehört, dass Gamma das Digimon-Programm
 nicht hatte, als sie in Unter Null angegriffen
 haben!"
 310,9174,,"Questa è la nostra occasione per
-attaccarli! Ma dobbiamo stare
-attenti! Non vedo l'ora!","現在的我們一定可以相當輕鬆的攻下！
+attaccarli! Ma dobbiamo stare attenti!
+Non vedo l'ora!","現在的我們一定可以相當輕鬆的攻下！
 但輕敵當然是大禁喔！
 嗚喔～～～～～～燃～起～來～啦～～！",,"지금의 우리라면, 좀 더 여유롭게 공략할 수 있을 거야!
 물론 방심은 금물이지만!
@@ -122,16 +119,15 @@ di attaccare a Under Zero!","不管來多少自由駭客，
 aber unser Zaxon-Team hat die beste Chance,
 in Unter Null anzugreifen!"
 312,9176,,"Se ci facciamo un nome con un attacco
-a Under Zero, diventeremo al
-99,999% le prossime ""Leggende""!","只要攻略下Under Zero一舉成名，
+a Under Zero, diventeremo al 99,999%
+le prossime ""Leggende""!","只要攻略下Under Zero一舉成名，
 成為下一個“傳說”，在歷史上永垂不朽的機率
 高達99.99999%！！",,"이 언더 제로 공략으로 이름을 떨치면, 다음 ""레전드""로
 역사에 이름이 새겨질 확률이 99.99999%네요!!","Wenn wir uns mit einem Angriff auf Unter Null
 einen Namen machen, werden wir zu 99,999 %
 die nächsten „Legenden“ sein!"
-313,9177,,"Non posso assolutamente sconfiggere
-Zaxon da solo. Forse dovrei trovare delle
-persone con cui fare squadra?","只有一個人，是無法跟Zaxon那般
+313,9177,,"Non posso assolutamente sconfiggere Zaxon da solo.
+Forse dovrei trovare delle persone con cui fare squadra?","只有一個人，是無法跟Zaxon那般
 龐大的隊伍對抗的。
 要不要找人來當我的同伴呢？",,"혼자선 잭슨 같은 커다란 팀하고는 맞붙는 건
 도저히 불가능해. 누군가 동료를 찾아볼까?","Zaxon kann ich auf keinen Fall allein besiegen.
