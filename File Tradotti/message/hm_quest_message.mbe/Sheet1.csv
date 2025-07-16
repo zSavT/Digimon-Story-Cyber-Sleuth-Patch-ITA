@@ -12,8 +12,8 @@ bar. Mi rifugierò da Hudie!)","（應該不至於會跟來店裡，
  후디에로 도망가자!)","(Es sollte mir nicht ins Café folgen.
 Ich verstecke mich bei Hudie!)"
 510,9108,,"Oh, è il signor Navit, che si occupa di affari
-anche nella realtà. Questo sì che è darsi da
-fare. Potresti imparare un paio di cose!","喔，這不是NAVIT嗎。連在現實世界
+anche nella realtà. Questo sì che è darsi da fare.
+Potresti imparare un paio di cose!","喔，這不是NAVIT嗎。連在現實世界
 都在宣傳啊，還真是厲害的業務魂！
 你也給我學習一下啊！",,"오오, 내빗군이잖아.
 현실세계에서도 PR하다니, 역시~ 대단한 영업정신이야!
@@ -27,14 +27,12 @@ Anzi, sono abbastanza sicuro di no!","那、那個是NAVIT嗎！？
 뭔가 다르지 않슴까!?
 완전 아닌 것 같지 않슴까!?","Ist das Herr Navit? Ich glaube nicht. Ich bin mir
 sogar ziemlich sicher, dass er es nicht ist!"
-512,9101,,"Che schifo! Cos'è quella cosa brutta dietro
-di te?!","呀！
+512,9101,,"Che schifo! Cos'è quella cosa brutta dietro di te?!","呀！
 後面那個噁心的東西是什麼！？",,"꺄악!
 뒤쪽에 있는 징그러운 건 뭐야!?","Igitt! Was ist denn das hässliche Ding hinter
 dir?!"
-513,9105,,"Vuoi sapere del signor Navit? Vorrei
-potertelo dire, ma non ne ho la minima
-idea. Di cosa si tratta?","你想要知道後面的NAVIT的事情？
+513,9105,,"Vuoi sapere del signor Navit? Vorrei potertelo dire,
+ma non ne ho la minima idea. Di cosa si tratta?","你想要知道後面的NAVIT的事情？
 ……雖然我也想告訴你，但我也不曉得喔。
 那是什麼東西！？！？",,"뒤쪽의 내빗군에 관해서 알고 싶은 거야?
 …알려주고 싶지만 나도 잘 모르겠어
@@ -300,8 +298,8 @@ informazioni sui clienti.","還有什麼事嗎？
 顧客資料不論如何都不會給你。",,"아직도 용무가 남았나?
 고객 정보는 무슨 일이 있어도 넘기지 않아","Was willst du? Ich gebe zu meinen Kunden keine
 Informationen heraus."
-1000,2020,,"(Il cliente deve essere da qualche parte qui
-intorno. Darò un'occhiata.)","（應該在哪裡有委託人才對，
+1000,2020,,"(Il cliente deve essere da qualche parte qui intorno.
+Darò un'occhiata.)","（應該在哪裡有委託人才對，
 　先去尋找委託人吧）",,"(어딘가에 의뢰인이 있을 거야.
  먼저 의뢰인을 찾아보자)","(Der Klient muss irgendwo hier in der Nähe sein.
 Ich werde mich umschauen.)"
@@ -320,13 +318,12 @@ circuito chiuso. Chiedi in giro.","我這邊會從監視器收集情報，
 打聽附近就交給你囉。",,"나는 감시 카메라로 정보를 모을게
 이 주변의 탐문은 댁한테 맡긴다","Ich schau mal, was die Überwachungskameras
 hergeben. Frag du herum."
-1012,7701,,"Il museo pullula di strani
-mostri. Meglio non avvicinarsi.","博物館那邊有奇怪的怪物在亂竄，
+1012,7701,,"Il museo pullula di strani mostri.
+Meglio non avvicinarsi.","博物館那邊有奇怪的怪物在亂竄，
 不要接近比較好喔。",,"박물관 쪽은 이상한 괴물들이 득실대니까
 가까이 가지 않는 편이 좋아","Im Museum wimmelt es nur so von seltsamen
 Monstern. Mach einen großen Bogen darum."
-1013,7701,,"Sono più viscidi e disgustosi
-degli altri mostri apparsi di
+1013,7701,,"Sono più viscidi e disgustosi degli altri mostri apparsi di
 recente a Tokyo. Chissà cosa sono.","那比最近出現在東京的怪物，
 更加柔軟扭曲，感覺很噁心。
 那到底是什麼啊？",,"최근 도쿄에 나타난 괴물보다 더 
@@ -350,17 +347,15 @@ fermato e mi hanno detto che era troppo pericoloso.","我雖然想要抄捷徑�
 但是他們說那邊很危險，不能過去。",,"지름길로 가려고 생각했는데
 위험하니까 지나가면 안 된다는 말을 들었어","Ich wollte eine Abkürzung nehmen, aber ich wurde
 angehalten. Es hieß, es sei zu gefährlich."
-1017,7702,,"Ho appena sentito delle urla provenire
-dal museo.",我剛才聽到，從博物館的方向傳來了慘叫聲。,,아까 박물관 쪽에서 비명이 들렸어,"Gerade eben habe ich aus dem Museum Schreie
+1017,7702,,"Ho appena sentito delle urla provenire dal museo.",我剛才聽到，從博物館的方向傳來了慘叫聲。,,아까 박물관 쪽에서 비명이 들렸어,"Gerade eben habe ich aus dem Museum Schreie
 gehört."
 1018,7702,,"Potrebbero esserci anche dei mostri lì? Non
 mi fanno paura!","該不會是有幽靈跑出來了吧？
 我、我才不怕幽靈呢！",,"혹시나 귀신이 나온 걸까?
 나, 나는 귀신 따윈 무섭지 않아!","Könnten dort auch Monster sein? Mir machen sie
 keine Angst!"
-1100,2020,,"(Non c'è scritto la destinazione. Per
-ora, andrò a Shibuya, dove ci siamo
-già incontrati.)","（似乎沒有寫到目的地，
+1100,2020,,"(Non c'è scritto la destinazione. 
+Per ora, andrò a Shibuya, dove ci siamo già incontrati.)","（似乎沒有寫到目的地，
 先去之前遇到過的涉谷那看看好了）",,"(목적지가 적혀 있지 않은 것 같지만
  일단은 이전에 만났던 시부야로 가보도록 하자)","(Der Ort ist nicht angegeben. Erst mal gehe
 ich nach Shibuya, wo wir uns schon mal
@@ -375,13 +370,13 @@ meglio per diventare un duro!","但是，感覺有稍微被
 저…열심히 해서 강한 남자가 될 겁니닷!","Aber ich glaube, ich habe Fräulein Akkino und
 GaoGamon beeindruckt. Ich gebe mein Bestes,
 um hart im Nehmen zu sein!"
-1112,4917,,"Grazie per aver accettato il mio caso. Non
-mancherò di inviare il pagamento più tardi!","你願意接下委託，真的是幫了大忙。
+1112,4917,,"Grazie per aver accettato il mio caso.
+Non mancherò di inviare il pagamento più tardi!","你願意接下委託，真的是幫了大忙。
 報酬之後一定會給你的！",,"의뢰를 받아 주셔서 진짜 감사함다
 보수는 나중에 제대로 보내두겠슴다!","Danke, dass du meinen Fall angenommen hast. Die
 Zahlung werde ich später veranlassen!"
-1113,3002,,"Grazie per l'aiuto, Yasusu! Siete stati
-fantastici!","謝謝你幫阿康康的忙！！
+1113,3002,,"Grazie per l'aiuto, Yasusu!
+Siete stati fantastici!","謝謝你幫阿康康的忙！！
 兩位都好帥氣喔～！",,"야슴다 군을 도와줘서 고마워!!
 둘 다 정말로 멋있었어~!","Danke, dass du Yasusu geholfen hast! Ihr zwei wart
 toll!"
@@ -413,8 +408,8 @@ herumfragen könntest!"
 那傢伙是什麼名人嗎？ ",,"카시와기 유리?  글쎄, 모르겠는데.
 그 사람 유명한 사람이야?","Yuri Kashiwagi? Noch nie von ihr gehört. Ist sie
 berühmt? "
-1213,4533,,"Yuri... Ti riferisci a quell'hacker? Non
-ricordo in quale squadra milita, ma
+1213,4533,,"Yuri... Ti riferisci a quell'hacker?
+Non ricordo in quale squadra milita, ma
 ho sentito voci su un hacker con quel nome.","由里……該不會是指，那個駭客由里？
 雖然不曉得是哪個隊伍，但我有聽過叫
 那個名字的駭客喔。",,"유리라면 혹시 그 해커인 유리?
@@ -429,8 +424,8 @@ una squadra che sta combattendo contro Zaxon?","你是，hudie的人？
 찾아서 뭐하려고?","Bist du bei Hudie? Warum suchst du eine Hackerin
 von einem Team, das gegen Zaxon kämpft?"
 1216,4532,,"Ho sentito dire che un altro team di hacker
-è stato in agguato in questi
-giorni. Di quale si tratta?","之前又聽到有駭客隊伍出來滋事的傳聞，
+è stato in agguato in questi giorni.
+Di quale si tratta?","之前又聽到有駭客隊伍出來滋事的傳聞，
 他們是叫什麼來著……",,"요즘 다시 해커팀이 날뛰고 있다는 소문을 들었어.
 뭐라 그랬더라…","Ich habe ein Gerücht gehört, dass ein weiteres
 Hackerteam jetzt sein Unwesen treibt.
@@ -454,9 +449,8 @@ preparato prima di venire.","我在破銅爛鐵公園等你，
 做好萬全準備就過來吧。",,"잡동사니 광장에서 기다릴게.
 제대로 준비를 마치고 나면 와줘","Ich warte am Müll-Plaza. Bereite dich gut vor,
 bevor du da hinkommst."
-1311,3047,,"Non fa così male trasferirsi a
-EDEN. Forse dovrei
-intrufolarmi di nuovo.","明明在EDEN中，都能感受不到痛楚來活動啊～
+1311,3047,,"Non fa così male trasferirsi a EDEN.
+Forse dovrei intrufolarmi di nuovo.","明明在EDEN中，都能感受不到痛楚來活動啊～
 要不要再偷偷過去呢？",,"EDEN에서는 이런 아픔도 느끼지 않고 움직일 수 있는데 말이지.
 다시 몰래 가볼까?","In EDEN tut es nicht so weh, sich fortzubewegen.
 Vielleicht sollte ich mich wieder
@@ -479,8 +473,8 @@ Du schuldest mir ein Abendessen."
 personalità interessanti.",……手法高超的駭客，很多都是非常有個性的人。,,…솜씨 좋은 해커들이란 캐릭터가 강렬한 사람들뿐이네,"Die besten Hacker sind alle so interessante
 Persönlichkeiten."
 1414,3046,,"Questo è per scusarmi per oggi.
-Accettalo invece di pagare il
-caso. Dovrebbe tornare utile.","這是今天的賠禮，你就代替報酬收下吧。
+Accettalo invece di pagare il caso.
+Dovrebbe tornare utile.","這是今天的賠禮，你就代替報酬收下吧。
 我想多少能派上用場。",,"이건 오늘 일에 대한 사과의 뜻이다. 의뢰 보수 대신 받아둬.
 조금쯤은 도움이 될 거다","Damit will ich mich für heute entschuldigen. Nimm
 es anstelle einer Bezahlung für den Fall. Es
@@ -1560,8 +1554,8 @@ Krankenschwestern dort muss ihn gesehen haben."
 den Korridor entlang und in das letzte Zimmer
 auf der linken Seite."
 4512,9315,,E dopo? Non ci ho pensato davvero.,那之後？　不知道，我沒有特別去留意呢……,,"그 다음에? 글쎄, 딱히 보지 못했는데……",Danach? Das habe ich nicht gesehen.
-4600,2020,,"(Il luogo del mixer è
-all'interno. Meglio darci un'occhiata.)",（聯誼的地方好像就在這裡面。繼續往前走吧）,,(미팅 예정 장소는 안쪽에 있는 것 같다. 안으로 나아가자),"(Dort findet die Verabredung statt.
+4600,2020,,"(Il luogo del mixer è all'interno.
+Meglio darci un'occhiata.)",（聯誼的地方好像就在這裡面。繼續往前走吧）,,(미팅 예정 장소는 안쪽에 있는 것 같다. 안으로 나아가자),"(Dort findet die Verabredung statt.
 Das sollte ich mir ansehen.)"
 4700,2020,,"(Una donna di nome Rumi è scomparsa.
 Dovrei andare a Junk Plaza, dove è stata vista l'ultima volta.)","（一位叫做露咪的女性好像失蹤了，
@@ -1653,7 +1647,7 @@ seguenti Digimon ha l'attributo vaccino?","……當然是天使獸。
 다음의 디지몬 중에 백신종인 것은 어떤 것일까요?","Natürlich ist es Angemon, aber welches der
 folgenden Digimon hat das Serum-Attribut?"
 5113,5038,,"・Merukimon
-・Nettunemone","．墨丘利獸
+・Neptunemon","．墨丘利獸
 ．尼普頓獸",,"・메르크리몬
 ・넵튠몬","・Merukimon
 ・Neptunemon"
@@ -1672,7 +1666,7 @@ quale delle seguenti è la sua mossa speciale?","自稱為「悟空大王」的�
 Aber was ist sein Spezialmove?"
 5119,5038,,"・Chiave inglese
 ・Banana scimmia
-・Affari da scimmia","．耍猴戲
+・Dente di scimmia","．耍猴戲
 ．滑猴戲
 ．猴子也會從樹上跌下來",,"・원숭이 연극
 ・원숭이 미끄러지기
@@ -1723,9 +1717,8 @@ per rafforzare la mente, scegli la via di mezzo.","認為是修練瑜珈呼吸�
 請往中間的路走。",,"요가호흡으로 정신수양에 힘쓰고 있다
 라고 생각하면 중앙쪽 길로","Wenn du meinst, dass er seinen Geist nicht mit
 Yoga-Atemtechnik stärkt, nimm den mittleren Weg."
-5128,5038,,"Se pensi che non usi le arti
-marziali orientali in battaglia, prendi la
-strada giusta.","認為是使用東洋武術來戰鬥，
+5128,5038,,"Se pensi che non usi le arti marziali orientali in battaglia,
+prendi la strada giusta.","認為是使用東洋武術來戰鬥，
 請往右邊的路走。",,"전투에서는 동양의 무술을 구사하여 싸운다
 라고 생각하면 오른쪽 길로 나아가 주세요!","Wenn du meinst, dass er im Kampf keinen
 fernöstlichen Kampfsport einsetzt, nimm den
@@ -1735,8 +1728,8 @@ rechten Weg."
 必須請您重新開始！",,"틀리고 만 당신은
 아쉽지만 출발지로 돌아가주세요!",Jetzt musst du wieder von vorn anfangen!
 5200,2020,,"(Il cliente afferma di essere un seguace di un drago.
-Sembra molto strano, ma lo contatterò e gli
-chiederò dettagli sul caso.)","（委託是龍的從者啊……
+Sembra molto strano, ma lo contatterò e gli chiederò dettagli sul
+caso.)","（委託是龍的從者啊……
 　雖然非常詭異，但還是先跟對方聯絡，
 　了解委託的詳細吧）",,"(의뢰인은 용의 하인…인가.
  엄청나게 수상하지만 일단을 연락을 하고
@@ -1748,18 +1741,16 @@ Dovrei andare lì.)","（委託人好像已經在K-Cafe了。　
 　過去K-Café吧）",,"(의뢰인은 K-카페에서 기다리는 것 같다.
  K-카페로 가보자)","(Der Klient wartet im K-Café. Ich sollte
 hingehen.)"
-5202,2020,,"(C'è qualcosa di strano. Chiederò
-maggiori dettagli alla donna che
-era in chiesa.)","（總感覺有種說不上來的詭異……
+5202,2020,,"(C'è qualcosa di strano.
+Chiederò maggiori dettagli alla donna che era in chiesa.)","（總感覺有種說不上來的詭異……
 　剛剛在教團裡的那位女性，
 　再去問詳細情形了） ",,"(뭔가 수상한 냄새가…
  교단에 있었다는 아까 그 여성에게
  다시 한번 자세한 이야기를 들어보자)","(Irgendwas ist hier komisch. Ich bitte die Frau,
 die in der Kirche war, um genauere
 Informationen.) "
-5210,9318,,"Questo volantino... Sei un membro della
-chiesa? Mi è sembrato di vedere il succo
-della felicità sgorgare da te!","嗯？這個傳單……
+5210,9318,,"Questo volantino... Sei un membro della chiesa?
+Mi è sembrato di vedere il succo della felicità sgorgare da te!","嗯？這個傳單……
 難道你也是教團的信徒嗎？
 呵呵，難怪有冒出幸福精華呢！",,"어라, 이 전단지는…
 당신도 교단의 신자야?
@@ -2036,8 +2027,8 @@ di un simpatico Digimon ed è rimasto senza parole.","之前呀，我的數碼�
 귀여운 디지몬한테 한눈에 반해서
 상사병에 걸렸지 뭐야","Vor einer Weile hat mein Digimon sich in ein süßes
 Digimon verliebt und war liebeskrank."
-6314,9325,,"Non è questo che intendevi? Ok, chiedi a
-qualcun altro.","……你不是指這個？
+6314,9325,,"Non è questo che intendevi?
+Ok, chiedi a qualcun altro.","……你不是指這個？
 那你去問別人吧。",,"…그런 얘기가 아니라고?
 그럼 다른 사람한테 물어봐","Das meinst du nicht? Na gut, dann frag jemand
 anderen."
@@ -2051,23 +2042,21 @@ anderen."
 ci fu un'epidemia al DigiMarket.",許久以前，在數碼市場也有過大流行。,,"꽤 예전 일이지만, 디지마켓에서도
 엄청 유행했던 적이 있었어","Es ist schon etwas her, aber auf dem DigiMarkt gab
 es einmal einen Krankheitsausbruch."
-6318,9326,,"È stato orribile. Tanti Digimon sarebbero morti
-se non fosse stato per il Dr. Datamon.","那時候真的很危險。
+6318,9326,,"È stato orribile. Tanti Digimon sarebbero morti se non fosse stato
+per il Dr. Datamon.","那時候真的很危險。
 如果沒有分子獸博士的話，
 應該會有很多數碼寶貝死掉。",,"이야, 그때는 큰일이었어.
 데이터몬 박사가 없었다면
 많은 디지몬이 죽었을 거야","Es war furchtbar. Wenn Dr. Datamon nicht gewesen
 wäre, wären viele Digimon gestorben."
 6319,9326,,"Il Dr. Datamon è un medico straordinario,
-specializzato nella preparazione di
-medicine per i Digimon.","分子獸博士是一位為了數碼寶貝
+specializzato nella preparazione di medicine per i Digimon.","分子獸博士是一位為了數碼寶貝
 做出治療藥，非常偉大的博士喔。",,"데이터몬 박사는
 디지몬을 위한 약을 만드는 대단한 선생이야","Dr. Datamon ist ein fantastischer Arzt, der auf
 die Herstellung von Medizin für Digimon
 spezialisiert ist."
-6320,9326,,"Grazie alla nuova medicina del Dr. Datamon, la
-malattia al DigiMarket è stata contenuta
-abbastanza rapidamente.","在數碼市場大流行的傳染病，
+6320,9326,,"Grazie alla nuova medicina del Dr. Datamon,
+la malattia al DigiMarket è stata contenuta abbastanza rapidamente.","在數碼市場大流行的傳染病，
 也是多虧有分子獸博士的新藥，
 才能夠一下子就控制住了。",,"디지마켓에서 대유행한 병도
 데이터몬 박사의 신약 덕분에
@@ -2078,8 +2067,7 @@ eingedämmt werden."
 medicina?",你想要分子獸博士的新藥？,,데이터몬 박사의 신약을 구하고 싶다고?,"Du möchtest, dass Dr. Datamon eine neue Medizin
 herstellt?"
 6322,9326,,"Allora devi andare a vederlo. Dovrebbe essere a
-questo URL, dove si raccolgono ingredienti
-medicinali.","這樣的話，去見博士就行了。
+questo URL, dove si raccolgono ingredienti medicinali.","這樣的話，去見博士就行了。
 博士現在應該在收集藥的材料，
 就在這個URL吧。",,"그럼 박사를 만나러 가 봐.
 박사는 지금 약재료를 모으기 위해서
@@ -2090,8 +2078,8 @@ sammeln."
 記得也要幫我問個好喔。
 那就先這樣子啦。",,"데이터몬 박사를 만나면 안부 전해줘.
 그럼 이만",Bitte grüße Dr. Datamon von mir.
-6324,1349,,"*tosse* *tosse*... Forse non
-guarirò mai?","咳、咳、咳……
+6324,1349,,"*tosse* *tosse*... 
+Forse non guarirò mai?","咳、咳、咳……
 大哥哥，我會就這樣都治不好嗎？",,"콜록, 콜록, 콜록……
 오빠, 난 이대로 영영 낫지 않는 걸까?","*Hust* *Hust* ... Vielleicht wird es mir nie
 besser gehen?"
@@ -2100,15 +2088,14 @@ al DigiLab e chiedere dettagli.)","（是來自米蕾的委託……
 　先過去數碼實驗室，問委託的詳細吧）",,"(미레이가 한 의뢰인가…
  디지랩에 가서 의뢰를 자세하게 물어보자)","(Ein Fall von Mirei? Ich sollte ins DigiLab gehen
 und nach weiteren Informationen fragen.)"
-6401,2020,,"(Il server Abyss è estremamente
-pericoloso. Devo essere completamente preparato
-prima di partire.)","（深淵伺服器好像是非常危險的地方。
+6401,2020,,"(Il server Abyss è estremamente pericoloso.
+Devo essere completamente preparato prima di partire.)","（深淵伺服器好像是非常危險的地方。
 　做好萬全的準備後，再前往深淵伺服器吧）",,"(어비스 서버는 매우 위험한 장소라고 한다.
  제대로 준비하고 어비스 서버로 향하자)","(Der Abyss-Server ist äußerst gefährlich.
 Bevor ich losgehe, muss ich voll und ganz
 vorbereitet sein.)"
-6410,3013,,"Il server Abyss è estremamente
-pericoloso. Fate attenzione.","深淵伺服器是個非常危險的地方。
+6410,3013,,"Il server Abyss è estremamente pericoloso.
+Fate attenzione.","深淵伺服器是個非常危險的地方。
 千萬要小心一點。",,"어비스 서버는 굉장히 위험한 장소야.
 아무쪼록 조심하렴","Der Abyss-Server ist äußerst gefährlich.
 Bitte sei vorsichtig."
