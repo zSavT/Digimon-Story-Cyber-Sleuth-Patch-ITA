@@ -7,15 +7,14 @@ Almeno, è qualcosa.","呼……
 wird alles wieder normal. Wie vorher.
 Das ist immerhin etwas."
 "2","3004","","Comunque.","話說回來……","","…그건 그렇고, 말이야","Trotzdem."
-"3","3004","","Abbiamo sconfitto l'Eater, ma qualcosa sta
-controllando questo fenomeno e non siappiamo
-ancora chi o cosa sia.","雖然打倒了那個怪物，但還是沒搞清楚
+"3","3004","","Abbiamo sconfitto l'Eater, ma qualcosa sta controllando
+questo fenomeno e non siappiamo ancora chi o cosa sia.","雖然打倒了那個怪物，但還是沒搞清楚
 到底是什麼東西在操控這個怪異現象……","","그 괴물은 쓰러뜨렸지만, 대체 무엇이 이 정신 나간 현상을
 컨트롤하고 있는 건지, 결국 알아내지 못했네…","Wir haben den Verschlinger erledigt, aber etwas steuert
 dieses seltsame Phänomen und wir wissen immer
 noch nicht, wer oder was."
-"4","3004","","Lo stesso vale per la
-sindrome. Non abbiamo nuove informazioni.","關於那個怪病，
+"4","3004","","Lo stesso vale per la sindrome.
+Non abbiamo nuove informazioni.","關於那個怪病，
 也沒找到任何新的資訊……","","그 병에 관해서도
 새로운 정보는 못 얻었고…","Das Gleiche gilt für das Syndrom.
 Wir haben keine neuen Informationen."
@@ -25,28 +24,25 @@ Tu di nuovo! Che ci fai qui?","！！
 你怎麼會在這裡？","","!!
 …댁…어째서 여기에…","!!!
 Du wieder! Was machst du denn hier?"
-"7","3009","","Sono venuto qui quando ho rilevato
-lo spostamento digitale! Voi due ne siete
-stati per caso colpiti?","我感應到數碼波才來的！
+"7","3009","","Sono venuto qui quando ho rilevato lo spostamento digitale!
+Voi due ne siete stati per caso colpiti?","我感應到數碼波才來的！
 你們兩個莫非進去裡面了？","","디지털 시프트를 감지하고 와 본 겁니다!
 두 분, 혹시 저 안에?","Ich bin hergekommen, als ich die digitale
 Verschiebung festgestellt habe! Wart ihr zwei davon
 zufällig betroffen?"
 "8","3009","","Capisco. Perché allora non avete detto niente?
-Questo è il momento sbagliato per una
-falsa riservatezza!","是嗎……為什麼不叫我一聲呢！？
+Questo è il momento sbagliato per una falsa riservatezza!","是嗎……為什麼不叫我一聲呢！？
 真是見外啊！","","그랬었군요… 어째서 연락을 주시지 않으신 겁니까!?
 정말이지 섭섭하지 않습니까!","Verstehe. Warum habt ihr dann denn nichts gesagt?
 Das ist der falsche Zeitpunkt für falsche
 Zurückhaltung!"
-"9","3009","","E allora? C'è stato qualcosa
-di nuovo questa volta?","那……
+"9","3009","","E allora?
+C'è stato qualcosa di nuovo questa volta?","那……
 有沒有什麼新發現呢？","","…그래서?
 새로운 무언가는 없었습니까?","Und?
 Dieses Mal gab es etwas Neues?"
-"10","3004","","Beh, sì. Lo spostamento è stato molto
-forte. L'Eater poteva trasformarsi dopo aver
-divorato qualcuno.","嗯、嗯嗯……硬要說的話，
+"10","3004","","Beh, sì. Lo spostamento è stato molto forte.
+L'Eater poteva trasformarsi dopo aver divorato qualcuno.","嗯、嗯嗯……硬要說的話，
 就是那個怪物吃了人類後變身了……","","아, 아아… 뭐 굳이 말하자면
 그 괴물이 인간을 먹고 변신했다는 것 정도인가…","Nun ja, schon. Es war eine starke Verschiebung.
 Der Verschlinger konnte sich verwandeln, nachdem er
@@ -63,8 +59,7 @@ mia teoria appena formulata!","這個資訊跟我最新的假設
 formulierten Theorie!"
 "13","3004","","Una nuova teoria?","新的假設？","","…새로운 가설?","Eine neue Theorie?"
 "14","3009","","A quanto pare, la forma di un Eater cambia
-gradualmente e riflette ciò che ha
-assimilato.","侵食者似乎會配合吞食的東西，
+gradualmente e riflette ciò che ha assimilato.","侵食者似乎會配合吞食的東西，
 逐漸改變形狀……","","아무래도 이터는, 섭취한 것에 맞춰서
 조금씩 형태를 바꾸고 있는 것 같습니다…","Offenbar verändert sich die Gestalt eines
 Verschlingers allmählich und spiegelt wider, was
@@ -80,13 +75,12 @@ non soddisfano più gli Eater?","說不定侵食者
 단순한 디지털 데이터에 만족하지 않고","Könnte es sein, dass einfacher strukturierte
 digitale Daten den Verschlingern nicht mehr
 reichen?"
-"17","3009","","Potrebbero cercare di appropriarsi dei dati
-dagli umani, ovvero forme di vita organiche.","甚至意圖吞食物質世界的有機生命體——
+"17","3009","","Potrebbero cercare di appropriarsi dei dati dagli umani,
+ovvero forme di vita organiche.","甚至意圖吞食物質世界的有機生命體——
 人類的資料也說不一定。","","물질 세계의 유기생명체인
 인간의 데이터를 섭취하려고 하는 걸지도 모릅니다…","Sie versuchen womöglich, sich Daten von Menschen,
 also organischen Lebensformen, anzueignen."
-"18","3004","","Dati umani? Per l'amor del cielo, e per quale
-cavolo di motivo?","人類的資料？到底是為了什麼？","","인간의 데이터를? …대체 뭘 위해서?","Menschliche Daten? Wozu um Himmels willen das
+"18","3004","","Dati umani? Per l'amor del cielo, e per quale cavolo di motivo?","人類的資料？到底是為了什麼？","","인간의 데이터를? …대체 뭘 위해서?","Menschliche Daten? Wozu um Himmels willen das
 denn?"
 "19","3009","","Ancora non lo so. Non per certo.
 Grazie però per le informazioni.","這個我就還不曉得了……目前為止。
@@ -103,9 +97,8 @@ Ich weiß, dass du mich sehr verehrst."
 我啊——","","기분 나쁜 소리 하지 말라고
 난―","Was? Das klingt ziemlich unheimlich.
 Nein, ich ..."
-"24","3009","","Il tuo spirito libero, che non vuole
-vincolarsi. Le tue tendenze ribelli, la spinta
-a opporre resistenza a qualcosa di più grande…","你有不隨波逐流的非法之徒的味道，
+"24","3009","","Il tuo spirito libero, che non vuole vincolarsi.
+Le tue tendenze ribelli, la spinta a opporre resistenza a qualcosa di più grande…","你有不隨波逐流的非法之徒的味道，
 還有對抗強大勢力的叛逆精神。","","그, 힘 앞에 굴복하지 않으려는 무법자 느낌
 커다란 것에 거역하려 하는, 반역자적 정신","Dein Freigeist, der sich nicht festlegen will.
 Deine rebellischen Tendenzen, der Drang,
@@ -129,8 +122,7 @@ Geht es ihm wirklich nur um Forschung?"
 "29","3004","","Bene, mi sono deciso.","好，我決定了！","","…좋아, 정했어","So, ich habe mich entschieden."
 "30","2000","","???","？？？","","???","???"
 "31","3004","","Andrò a fondo della questione, finché non
-saprò con certezza cosa Suedou e
-Kamishiro stiano veramente tramando.","我要調查到心服口服為止。
+saprò con certezza cosa Suedou e Kamishiro stiano veramente tramando.","我要調查到心服口服為止。
 我一定要揭穿末堂的真面目還有神代的事！","","납득이 갈 때까지 조사해 보는 거야
 저 스에도란 녀석의 정체와, 카미시로를 말이야","Ich werde der Sache auf den Grund gehen, bis ich
 sicher weiß, was Suedou und Kamishiro
@@ -141,13 +133,11 @@ wirklich im Schilde führen."
 …응?","...
 Wie?"
 "33","3004","","Come intendo farlo?","你問我要怎麼調查？","","어떻게 조사할 거냐고?","Wie ich das genau vorhabe?"
-"34","3004","","Intrufolandomi nella Kamishiro
-Enterprises, ovviamente.","當然是潛入神代總公司啊……","","물론, 카시미로의 본사에 잠입하는 거지…","Natürlich, indem ich mich in die
+"34","3004","","Intrufolandomi nella Kamishiro Enterprises, ovviamente.","當然是潛入神代總公司啊……","","물론, 카시미로의 본사에 잠입하는 거지…","Natürlich, indem ich mich in die
 Kamishiro Enterprises schleiche."
 "35","2000","","?!","！？","","!?","?!"
 "36","3004","","Hahaha! Non dovrebbe essere un problema, no?","哈哈哈！這很簡單吧？","","하하핫! 간단한 얘기잖아?","Hahaha! Sollte doch kein Problem sein, was?"
-"37","3004","","Finché abbiamo il tuo Salto di Connessione
-e la mia esperienza da Hacker!","只要用你的「登入跳躍」
+"37","3004","","Finché abbiamo il tuo Salto di Connessione e la mia esperienza da Hacker!","只要用你的「登入跳躍」
 跟我的「駭客技能」！","","댁의「커넥트 점프」와
 나의「해킹」을 쓰면 말이지!","Solange wir deinen Verbindungssprung und meine
 Hackererfahrung nutzen!"

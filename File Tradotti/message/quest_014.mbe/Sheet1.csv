@@ -1,8 +1,7 @@
 ﻿ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
 100,1425,,"Ah, tempismo perfetto!",啊，你來得正好。,,"아, 좋을 때 와줬어","Ah, gutes Timing!"
-101,1425,,"Alcuni miei amici Digimon sono stati
-convocati da questa
-lettera. Eccola qui...","我的數碼寶貝朋友被一封信叫出去了。
+101,1425,,"Alcuni miei amici Digimon sono stati convocati da questa lettera.
+Eccola qui...","我的數碼寶貝朋友被一封信叫出去了。
 內容是這樣的……",,"누가 디지몬 친구들을 편지로 불러냈어
 이 편지인데…","Ein paar meiner Digimon-Freunde haben diesen
 Einladungsbrief erhalten.
@@ -16,9 +15,9 @@ facendo? Non è forse un grande invito che non vi meritate?""","「給外表看�
 　자네들에겐 아까울 정도로 멋진 권유잖아?」","„An alle schurkisch wirkenden Digimon: Wollt ihr
 den Schurken in meinem Superheldenfilm spielen?
 Ist das nicht eine tolle, unverdiente Einladung?“"
-103,4971,,"""Questa è un'ottima occasione per fare uso della tua
-villania! Ci vediamo presto! Vostri Sinceramente, Tutti noi
-nei Cavalieri della Giustizia""","「這是一個能夠充分發揮你們壞人模樣的大好機會！
+103,4971,,"""Questa è un'ottima occasione per fare uso della tua villania!
+Ci vediamo presto! Vostri Sinceramente,
+Tutti noi nei Cavalieri della Giustizia""","「這是一個能夠充分發揮你們壞人模樣的大好機會！
 　那麼，日後就有勞你們了。
 　　　　　　　　　　　　　　正義使者　上」",,"「자네들의 악역다움을 살릴 좋은 찬스야!
 　그럼, 나중에 잘 부탁한다
@@ -26,8 +25,8 @@ nei Cavalieri della Giustizia""","「這是一個能夠充分發揮你們壞人�
 Fähigkeiten zu nutzen! Bis bald! Viele Grüße,
 die Knights of Justice“"
 104,1425,,Non è forse terribile?,很過份對不對？,,너무하지?,Ist das nicht furchtbar?
-105,1425,,"Voglio dire, immagino che sembrino un po' da
-cattivi, ma questo è decisamente troppo scortese, giusto?","它們的外表看起來可能是有那麼一點像壞人，
+105,1425,,"Voglio dire, immagino che sembrino un po' da cattivi,
+ma questo è decisamente troppo scortese, giusto?","它們的外表看起來可能是有那麼一點像壞人，
 但不管怎麼說，這封信也太沒禮貌了。",,"확실히 그들의 외모가 좀 악역 같아보일지도 모르지만
 아무리 그래도 이건 너무 무례하잖아","Ich meine, vielleicht sehen sie etwas schurkisch
 aus, aber das ist doch schon unhöflich, oder?"
@@ -40,16 +39,16 @@ in un posto da qualche parte dentro questo dungeon.","剛才有個自稱是正�
 이 던전 안쪽이야","Diese Leute, die sich „Knights of Justice“ nennen,
 haben meine Freunde kontaktiert und sie an
 einen Ort in diesem Dungeon bestellt."
-107,1425,,"Vorrei che li fermassi prima che facciano qualcosa di
-stupido. Li seguirò dopo, ma potresti andare avanti e
-controllare la situazione?","希望你可以在它們做出危險的事情之前阻止它們。
+107,1425,,"Vorrei che li fermassi prima che facciano qualcosa di stupido.
+Li seguirò dopo, ma potresti andare avanti e controllare
+la situazione?","希望你可以在它們做出危險的事情之前阻止它們。
 我等一下也會過去的，可以請你先過去看看情況嗎？",,"그들이 위험한 짓을 하기 전에 말려줬으면 해
 나도 나중에 갈 테니까 먼저 상황을 보러 가 줄래?","Ich möchte sie aufhalten, bevor etwas passiert.
 Kannst du vorgehen und dir die Sache ansehen?
 Ich komme später nach."
-150,1425,,"Se i miei amici stanno per fare qualcosa di
-assurdo, fermateli per favore. Si stanno dirigendo nel
-dungeon. Io vi seguirò, andate avanti per favore.","如果我朋友要亂來的話，希望你可以阻止一下。
+150,1425,,"Se i miei amici stanno per fare qualcosa di assurdo,
+fermateli per favore. Si stanno dirigendo nel dungeon.
+Io vi seguirò, andate avanti per favore.","如果我朋友要亂來的話，希望你可以阻止一下。
 它們往這座迷宮的深處去了。
 我等一下也會過去，拜託你了。",,"친구가 엉뚱한 짓을 할 것 같을 경우 말려줬으면 해
 이 던전 안쪽으로 갔어
@@ -57,8 +56,8 @@ dungeon. Io vi seguirò, andate avanti per favore.","如果我朋友要亂來的
 halte sie bitte auf. Sie sind auf dem Weg in den
 Dungeon. Bitte geh vor, ich komme dann nach."
 200,1175,,"Seriamente, per quanto ancora ci faranno aspettare!?",真是的，要讓我們等多久啊！,,"정말이지, 언제까지 기다리게 하는 거야!","Also wirklich, wie lange müssen wir noch warten?!"
-201,1057,,"Sono loro che ci hanno chiamati qui, e ora ci
-fanno aspettare? È così offensivo!","叫我們過來結果自己遲到……
+201,1057,,"Sono loro che ci hanno chiamati qui, e ora ci fanno aspettare?
+È così offensivo!","叫我們過來結果自己遲到……
 看來我們真的被人瞧不起了。",,"불러놓고 자기들이 늦다니…
 우리를 바보 취급하고 있네","Sie haben uns herbestellt und jetzt müssen wir
 warten? Was für eine Frechheit!"
@@ -66,49 +65,46 @@ warten? Was für eine Frechheit!"
 一定要好好地教訓他。",,"이걸로 반성시킬 일이 또 늘었군
 단단히 혼쭐을 내줘야겠어","Ich werde dafür sorgen, dass es ihnen leidtut!"
 203,1175,,...Eh?,嗯？,,……응?,... Was?
-204,2001,,"Eravate voi quelli chiamati qui dalla
-lettera? Ciao! Cosa state facendo?","被那封信叫過來的就是你們嗎？
+204,2001,,"Eravate voi quelli chiamati qui dalla lettera?
+Ciao! Cosa state facendo?","被那封信叫過來的就是你們嗎？
 嗨！　你們在幹嘛？",,"편지로 불려나온 게 너희들이야?
 여어! 뭐하고 있어?","Ihr seid wegen dem Brief gekommen?
 Hallo! Was treibt ihr so?"
 205,1175,,Ci hai messo un bel po'!,真是姍姍來遲啊……！,,드디어 납시셨군……!,Das hat ja ganz schön lange gedauert!
-206,1175,,"Non fare il finto
-tonto. Sei tu che ci hai chiamati qui!",少裝傻了，是你把我們叫過來的吧！！,,시치미 떼지 마라. 네가 우리를 불러낸 거잖아!!,"Stell dich nicht dumm.
+206,1175,,"Non fare il finto tonto.
+Sei tu che ci hai chiamati qui!",少裝傻了，是你把我們叫過來的吧！！,,시치미 떼지 마라. 네가 우리를 불러낸 거잖아!!,"Stell dich nicht dumm.
 Du hast uns doch herbestellt!"
 207,1057,,"Credevi davvero che ti avremmo aiutato con una
-lettera così scortese!? Ci
-dispiace, non siamo impressionati!","你以為看到那封失禮的信
+lettera così scortese!? Ci dispiace, non siamo impressionati!","你以為看到那封失禮的信
 我們就會乖乖聽話地幫你的忙嗎！？
 真遺憾，靠那種信是不可能打動我們的！",,"그 무례한 편지로
 우리가 순순히 협력해줄 거라고 생각했어!?
 유감이네, 그런 걸론 우리 마음은 움직이지 않아!","Dachtest du wirklich, bei einem so unhöflichen
 Brief würden wir helfen?
 Da hast du dich geschnitten!"
-208,1085,,"È così che si chiede qualcosa a
-qualcuno?! La pagherai cara per questo!","你那是拜託別人的態度嗎！
+208,1085,,"È così che si chiede qualcosa a qualcuno?!
+La pagherai cara per questo!","你那是拜託別人的態度嗎！
 看我們怎麼懲罰你！",,"그게 사람에게 뭘 부탁하는 태도냐!
 우리가 심판해주겠다!","So stellt man doch keine höfliche Bitte!
 Das wird dich teuer zu stehen kommen!"
-250,1175,,"Non mi hai ancora sconfitto! Non ti
-lascerò prenderti gioco di me in questo modo!","唔……我還沒輸！
+250,1175,,"Non mi hai ancora sconfitto!
+Non ti lascerò prenderti gioco di me in questo modo!","唔……我還沒輸！
 我不想就這樣一直被人當笨蛋！！",,"큭…… 아직이다!
 이대로 바보취급 당한 채로 있을까보냐!","Mich hast du noch nicht besiegt! Ich lasse nicht
 zu, dass du dich so über mich lustig machst!"
-251,1057,,"Esatto, sono ancora in
-piedi! Esigo delle scuse appropriate!","沒錯……我也還沒認輸。
+251,1057,,"Esatto, sono ancora in piedi!
+Esigo delle scuse appropriate!","沒錯……我也還沒認輸。
 一定要叫你對我們道歉！",,"그래… 나도 아직 할 수 있어
 제대로 사과하라고!","Genau, noch stehe ich hier!
 Ich verlange eine richtige Entschuldigung!"
-252,1085,,"Ti faremo pagare per averci
-fatto incazzare!",我要讓你後悔激怒了我們！,,우리를 화나게 한 걸 후회하게 해주겠다!,"Du wirst dafür bezahlen, dass du uns wütend
+252,1085,,"Ti faremo pagare per averci fatto incazzare!",我要讓你後悔激怒了我們！,,우리를 화나게 한 걸 후회하게 해주겠다!,"Du wirst dafür bezahlen, dass du uns wütend
 gemacht hast!"
 253,1085,,"Cosa? Non l'hai mandato?
 Allora di cosa si tratta? Spiega!","你說什麼？　那封信不是你寄的？
 這到底是怎麼一回事，快點說來聽聽。",,"뭐? 편지를 보낸 건 네가 아니라고?
 무슨 말인지 설명해라","Was? Du hast ihn nicht geschickt?
 Was soll das Ganze dann? Erkläre dich!"
-254,1085,,"...Cosa? Sei stato mandato qui da Sakuyamon
-per fermarci?","什麼？
+254,1085,,"...Cosa? Sei stato mandato qui da Sakuyamon per fermarci?","什麼？
 沙古牙獸拜託你來阻止我們？",,"……뭐라고? 너는 샤크라몬에게
 우리를 말려달라고 부탁받은 건가?","... Was? Sakuyamon hat dich geschickt, um uns
 aufzuhalten?"
@@ -118,9 +114,8 @@ Scusa per essermi scagliato contro di te così.","這樣啊，看來是我們誤
 對不起，突然攻擊你。",,"그런가. 우리가 오해한 거군
 갑자기 덤벼서 미안했다","Verstehe. Das war ein Missverständnis.
 Sorry, dass wir so auf dich losgegangen sind."
-257,1175,,"Devi averlo sentito da
-Sakuyamon... Prendere in giro qualcuno che nemmeno
-conosci mi fa un po' incazzare.","我想你應該聽沙古牙獸說了，
+257,1175,,"Devi averlo sentito da Sakuyamon...
+Prendere in giro qualcuno che nemmeno conosci mi fa un po' incazzare.","我想你應該聽沙古牙獸說了，
 我們被陌生人認定是一群壞蛋，被對方瞧不起。
 所以有點火大。",,"샤크라몬에게 들었을 거라고 생각하지만
 모르는 상대에게 악역이라며 실컷 바보취급 당해서
@@ -139,14 +134,13 @@ Es ist nicht nett, so mit uns zu reden."
 259,1085,,"Ad ogni modo, questi ""Cavalieri della Giustizia""
 non sono ancora arrivati.",話說回來，那個什麼正義使者的……還沒有來呢。,,그건 그렇고 정의의 아군 녀석… 언제 오는 거지,"Wie dem auch sei, die „Knights of Justice“ sind
 immer noch nicht da."
-260,5002,,"Ahahah! Scusa per l'attesa,
-LOL!",哈哈哈！　讓各位久等了！,,핫핫하! 기다리게 했군!,"Hahaha! Tut uns leid, dass ihr warten musstet!
+260,5002,,"Ahahah! Scusa per l'attesa, LOL!",哈哈哈！　讓各位久等了！,,핫핫하! 기다리게 했군!,"Hahaha! Tut uns leid, dass ihr warten musstet!
 LOL!"
 261,1175,,....Chi è quello!?,什麼人！？,,……누구냐!?,... Wer ist das?!
 262,5002,,Evvai!,喝啊！,,얍!,Wusch!
 263,5002,,"Tagliamo il male con la luce! Affettiamo il male con
-un singolo fendente! Nelle profondità della notte,
-brilliamo luminosi, una stella nel cuore di tutti!","用光明斬斷邪惡之輩！
+un singolo fendente! Nelle profondità della notte, brilliamo luminosi,
+una stella nel cuore di tutti!","用光明斬斷邪惡之輩！
 將邪惡內心一刀兩斷！
 照亮夜晚的黑暗，大家心中最閃爍的一顆星！",,"악한 일당을 빛으로 자른다!
 악한 마음을 일도양단!
@@ -166,8 +160,8 @@ davon, sind wir nah! Hören wir einen Hilfeschrei,
 ist kein Weg zu weit, wir eilen herbei!"
 267,1079,,"SuperStarmon, Cavaliere della Giustizia!",正義使者……超級流星獸！,,정의의 아군… 슈퍼스타몬!,"SuperStarmon, Knight of Justice!"
 268,5002,,Evviva!,喝啊！,,얍!,Wusch!
-269,5002,,"I cieli, la terra e perfino il male lo sanno! Noi
-siamo la giustizia incarnata! Bruceremo il male dal mondo
+269,5002,,"I cieli, la terra e perfino il male lo sanno!
+Noi siamo la giustizia incarnata! Bruceremo il male dal mondo
 con la luce della giustizia! Noi siamo il destino stesso!","天知地知邪惡也知，
 眾人皆知我等正義！
 直到邪惡消失在這個世上，我等將會繼續燃燒生命！！",,"하늘이 알고 땅이 알고 악도 안다
@@ -176,9 +170,9 @@ con la luce della giustizia! Noi siamo il destino stesso!","天知地知邪惡�
 Wir sind die Gerechtigkeit! Mit dem Licht brennen
 wir das Böse aus der Welt! Wir sind das Schicksal!"
 270,1737,,"Justimon, Cavaliere della Giustizia!",正義使者……裁決獸！,,정의의 아군… 저스티몬!,"Justimon, Knight of Justice!"
-271,1737,,"Ci opponiamo al male in tutte le sue forme. Ci dedichiamo
-alla sua eradicazione! Ciò che splende nei nostri cuori è un
-ardente amore per la Giustizia!","勇於對抗邪惡勢力，用盡全力將之摧毀！
+271,1737,,"Ci opponiamo al male in tutte le sue forme.
+Ci dedichiamo alla sua eradicazione! Ciò che splende nei nostri cuori
+è un ardente amore per la Giustizia!","勇於對抗邪惡勢力，用盡全力將之摧毀！
 在我們胸中綻放光芒的，正是那熱愛正義的火熱之心！",,"수많은 악에게도 맞서, 전력을 다해 때려부순다!
 우리의 마음속에 빛나는 건, 정의를 사랑하는 불타는 마음!","Wir stellen uns allem Bösen entgegen und rotten
 es aus! Denn in unseren Herzen brennt die Liebe
@@ -187,29 +181,28 @@ für Gerechtigkeit!"
 273,1057,,...,…………,,…………,...
 274,1175,,...,…………,,…………,...
 275,1085,,...Sei pazzo?,…………它們瘋了嗎？,,…………제정신인가?,... Habt ihr sie noch alle?
-276,1175,,"Quindi, fammi capire bene... Ci
-avete chiamati qui solo per parlarci di
-tutta questa roba sulla giustizia?","還是問一下好了……
+276,1175,,"Quindi, fammi capire bene...
+Ci avete chiamati qui solo per parlarci di tutta questa roba sulla
+giustizia?","還是問一下好了……
 你們就是把我們叫過來的
 那個什麼正義使者嗎？",,"일단 물어는 보겠는데…
 너희가 우리를 불러낸
 정의의 아군이라는 놈들인가?","Stellen wir das mal klar ...
 Ihr habt uns bloß herbestellt, um von
 Gerechtigkeit zu schwafeln?"
-277,1014,,"Sì, mi spiace mooolto per
-l'attesa! Preparatevi, cattivi!",沒錯，讓你們久等了！　覺悟吧，壞人！！,,"그래, 맞아. 기다렸지―! 각오해라, 악당!!","Ja, tut uns leid, dass ihr warten musstet!
+277,1014,,"Sì, mi spiace mooolto per l'attesa!
+Preparatevi, cattivi!",沒錯，讓你們久等了！　覺悟吧，壞人！！,,"그래, 맞아. 기다렸지―! 각오해라, 악당!!","Ja, tut uns leid, dass ihr warten musstet!
 Haltet euch bereit, Schurken!"
-278,1057,,"Perché dovremmo prepararci!? Ci dici
-tutte queste cose orribili e poi hai la faccia
-tosta di parlare di giustizia!?","為什麼我們是壞人啊！
+278,1057,,"Perché dovremmo prepararci!? Ci dici tutte queste cose orribili e poi
+hai la faccia tosta di parlare di giustizia!?","為什麼我們是壞人啊！
 對我們做了一堆沒禮貌的事，
 你們怎麼還有臉說自己是正義？",,"왜 우리가 악당인 거야!
 우리한테 실례인 짓만 잔뜩 했는데
 어째서 너희가 정의라고 단정짓는 거야!","Warum sollen wir uns bereithalten?! Ihr sagt so
 schreckliche Sachen über uns und dann wagt ihr es,
 von Gerechtigkeit zu faseln?!"
-279,1079,,"La nostra stessa esistenza è la
-giustizia! ...Voi siete i cattivi.","正義的存在本身即構成了正義。
+279,1079,,"La nostra stessa esistenza è la giustizia! 
+...Voi siete i cattivi.","正義的存在本身即構成了正義。
 而相反一方的你們就是邪惡。",,"정의는 그곳에 있는 것만으로 정의
 …대립하는 너희가 악인 거다","Wir sind die Personifikation der Gerechtigkeit!
 ... Ihr seid die Bösewichte."
@@ -224,35 +217,34 @@ Stanno solo giocando a fare gli eroi...","真傻眼……
 根本只是在玩英雄遊戲嘛……",,"기가 막히네…
 이거, 단순한 영웅 놀이잖아…","Lächerlich.
 Was für Möchtegernhelden ..."
-301,1057,,"Cosa? Mi hai chiamato cattivo
-un'infinità di volte! Forza ragazzi, prendeteli!","煩死人了，一直壞人來壞人去的！
+301,1057,,"Cosa? Mi hai chiamato cattivo un'infinità di volte!
+Forza ragazzi, prendeteli!","煩死人了，一直壞人來壞人去的！
 快點把它們打個落花流水！",,"정말이지, 일일이 사람을 악당이라고 하고 말야―!
 있는 힘껏 해치워줘!","Was? Mich habt ihr immer wieder als Schurken
 beschimpft! Auf sie mit Gebrüll, Leute!"
-302,1085,,"Sembra che abbiano scelto te. Ci hai già
-battuti, quindi batterai anche
-loro, nessun problema.","看來它們指名你上場呢。
+302,1085,,"Sembra che abbiano scelto te. Ci hai già battuti,
+quindi batterai anche loro, nessun problema.","看來它們指名你上場呢。
 你連我們都打贏了，那些傢伙就稍微給它們一點教訓吧。",,"널 지명한 것 같네
 우리한테도 이겼으니까, 저 녀석들 따위 가볍게 정리해버려","Ihre Wahl ist wohl auf dich gefallen. Du hast uns
 bereits besiegt, also wirst du sie
 ohne Probleme schlagen."
-303,1079,,"Ah! Noi membri della Squadra Justimon non
-conosciamo il significato della
+303,1079,,"Ah! Noi membri della Squadra Justimon non conosciamo il significato della
 parola ""sconfitta""! Vi sfidiamo a combattere!","我們裁決獸戰隊的字典裡沒有「輸」這個字！
 來吧，乖乖接受裁決獸大哥的挑戰。",,"우리들 저스티몬 전대의 사전에「패배」라는 단어는 없다!
 자, 얌전히 저스티몬 형제의 도전을 받아라","Ha! Wir, die Mitglieder des Justimon-Trupps,
 wissen nicht, was „Niederlage“ bedeutet!
 Dies ist eine Herausforderung zum Kampf!"
-304,1014,,"Aww, che c'è che
-non va? Hai paura del nostro leader Justimon!?","喂喂～怎麼啦！
+304,1014,,"Aww, che c'è che non va?
+Hai paura del nostro leader Justimon!?","喂喂～怎麼啦！
 難道你開始怕裁決獸大哥了嗎！？",,"어이어이, 왜 그래!
 저스티몬 형제가 무서워진 거냐―!?","Och, was ist denn los?
 Hast du Angst vor Justimon, unserem Anführer?!"
 350,1014,,"Ehi, che c'è?
 Il fifone scappa via?",喂～！　你對我們心生畏懼，打算逃跑嗎！？,,어이―! 우리가 무서워서 도망치는 거냐!?,"He, was ist denn los?
 Läuft der Angsthase davon?"
-351,1079,,"Ah, lascialo andare. Si è precipitato dentro prima di rendersi conto in cosa
-si stava cacciando. Tornerà quando sarà preparato adeguatamente.","算了，就讓他走吧。
+351,1079,,"Ah, lascialo andare. Si è precipitato dentro prima di rendersi conto
+in cosa si stava cacciando.
+Tornerà quando sarà preparato adeguatamente.","算了，就讓他走吧。
 他不顧大家的臉色就撤退了，
 之後應該會充分準備再回來挑戰我們吧。",,"자자, 보내주도록 하지
 분위기를 못 읽고 퇴장할 정도다
@@ -261,8 +253,8 @@ Er kommt wieder, wenn er vorbereitet ist."
 400,4045,,"Squadrone Justimon, in marcia!",裁決獸戰隊，我們上！！,,"저스티몬 전대, 간닷!!","Justimon-Trupp, ausrücken!"
 450,1079,,N-n-non ci credo!,這怎麼……可能！,,그런… 설마!,Ich g-g-glaube es nicht!
 451,1014,,Noi... abbiamo perso contro i cattivi!,我們居然輸給反派！,,"우리들, 악역한테 져 버렸어!",Die ... Die Schurken haben uns besiegt!
-452,2001,,"Sono i vincitori a essere
-virtuosi! Vai a scusarti con loro.","贏的一方才是正義！
+452,2001,,"Sono i vincitori a essere virtuosi!
+Vai a scusarti con loro.","贏的一方才是正義！
 向它們好好道歉。",,"이긴 쪽이 정의인 거야!
 제대로 그들한테 사과해","Die Sieger sind die Gerechten!
 Entschuldigt euch bei ihnen!"
@@ -270,54 +262,49 @@ Entschuldigt euch bei ihnen!"
 454,1079,,Anche se suona piuttosto da cattivo...,但是他說的話有點像反派……！,,하지만 말하는 게 좀 악역 같아…!,Das klingt allerdings ziemlich schurkisch ...
 455,1014,,Ci siamo lasciati un po' prendere la mano...,我們是不是太得意忘形了……？,,"우리들, 너무 우쭐댔던 걸까…?",Wir haben es etwas übertrieben ...
 456,1079,,"Già, questo è sicuro...",嗯，肯定是的……,,"응, 분명 그랬던 거야…","Ja, das steht fest ..."
-457,1175,,"Ehi, vogliamo delle scuse! Pensavi che
-saremmo stati d'accordo con te a
-chiamarci tutti cattivi?","喂，快點向我們道歉。
+457,1175,,"Ehi, vogliamo delle scuse! Pensavi che saremmo stati
+d'accordo con te a chiamarci tutti cattivi?","喂，快點向我們道歉。
 你以為我們被說像反派會覺得高興嗎？",,"어이, 제대로 사과해라
 악역 같다는 말을 듣고 우리가 기뻐할 거라고 생각하는 건가?","He, wir verlangen eine Entschuldigung! Dachtet
 ihr, es wäre in Ordnung, uns
 alle Schurken zu nennen?"
-458,1085,,"Non siamo affatto contenti di
-quello che hai detto. Né del modo in
-cui ci hai presi in giro.","看到那個字眼我們一點都不覺得高興，
+458,1085,,"Non siamo affatto contenti di quello che hai detto.
+Né del modo in cui ci hai presi in giro.","看到那個字眼我們一點都不覺得高興，
 而且還被你們當作笨蛋。",,"우린 그 말을 기쁘다고 느끼지 않아
 실컷 바보취급 당했고 말야","Was ihr über uns gesagt habt, war nicht in
 Ordnung. Das gilt auch dafür, wie ihr euch
 über uns lustig gemacht habt."
-459,1057,,"Non giudicarci solo dal nostro
-aspetto! Ci hai fatto davvero arrabbiare!","不要只用外表判斷我們！
+459,1057,,"Non giudicarci solo dal nostro aspetto!
+Ci hai fatto davvero arrabbiare!","不要只用外表判斷我們！
 真的很讓人火大耶。",,"우리를 외견만으로 판단하지 말아줘!
 정말 열받는다고","Beurteilt uns nicht nach unserem Aussehen!
 Ihr habt uns wirklich wütend gemacht!"
 460,1079,,Ci scusiamo per questo. Sembra che ci siamo fatti un po' prendere la mano.,對不起……我們好像有點太得意忘形了。,,미안하다… 우리들이 너무 우쭐댔던 것 같다,Es tut uns leid. Wir haben es etwas übertrieben.
-461,1175,,"Bene, è finita. Questo stupido
-gioco è finito.",那麼這個愚蠢的遊戲也結束了吧。,,그럼 이런 바보 같은 놀이는 끝이로군,"Dann ist das jetzt abgehakt. Dieses alberne
+461,1175,,"Bene, è finita. Questo stupido gioco è finito.",那麼這個愚蠢的遊戲也結束了吧。,,그럼 이런 바보 같은 놀이는 끝이로군,"Dann ist das jetzt abgehakt. Dieses alberne
 Spiel ist beendet."
 462,1737,,Non è un gioco!,這可不是遊戲！,,놀이가 아니다!,Das ist kein Spiel!
-463,1737,,"Lo giuro, stavamo solo cercando di
-fare un figo film d'azione con un eroe!","我們想拍一部有趣的英雄電影，
+463,1737,,"Lo giuro, stavamo solo cercando di fare un figo
+film d'azione con un eroe!","我們想拍一部有趣的英雄電影，
 這個心情是真的，我發誓！",,"재미있는 히어로 영화를 찍고 싶다는 마음만은
 맹세컨대 진심이다!","Ich schwöre es, wir haben nur versucht, einen
 coolen Film mit Actionhelden zu drehen!"
 464,1175,,Continua pure...,聽聽看你怎麼說吧。,,……한번 말해봐라,Aha ...
 465,1737,,Beh...,嗯……,,응…,Also ...
-466,1737,,"Sono sempre stato attratto dagli eroi nei
-vecchi film. Volevo apparire figo
-sul grande schermo come loro!","我很崇拜以前看過的電影裡的英雄，
+466,1737,,"Sono sempre stato attratto dagli eroi nei vecchi film.
+Volevo apparire figo sul grande schermo come loro!","我很崇拜以前看過的電影裡的英雄，
 心想總有一天我也要在電影的世界發光發熱！",,"옛날에 봤던 영화의 히어로를 줄곧 동경해왔다
 나도 언젠가 영상 세계에서 저렇게 빛나고 싶어! 라고 생각했다","Ich habe immer die Helden in alten Filmen
 bewundert. Ich wollte cool aussehen
 wie sie, auf der Leinwand!"
-467,1737,,"Così mi sono messo insieme a questi ragazzi, tutti
-quanti la pensano allo stesso modo, per creare
-una sceneggiatura capolavoro. Ma...","然後聚集了這群和我有同樣想法的伙伴，
+467,1737,,"Così mi sono messo insieme a questi ragazzi, tutti quanti la pensano
+allo stesso modo, per creare una sceneggiatura capolavoro. Ma...","然後聚集了這群和我有同樣想法的伙伴，
 我們連劇本都寫好了，可是……",,"같은 생각을 가진 이 녀석들과 모여서
 걸작인 각본까지 만들었다. 하지만…","Also habe ich mich mit den anderen zusammengetan.
 Sie haben das gleiche Ziel, ein erstklassiges
 Drehbuch zu schreiben. Aber ..."
-468,1737,,"Poi abbiamo pensato ""ora dobbiamo solo scovare un
-cattivo!"" e siamo rimasti un po' presi dalla
-cosa. Non abbiamo davvero pensato ai tuoi sentimenti.","因為只剩下反派角色還沒找到，
+468,1737,,"Poi abbiamo pensato ""ora dobbiamo solo scovare un cattivo!""
+e siamo rimasti un po' presi dalla cosa.
+Non abbiamo davvero pensato ai tuoi sentimenti.","因為只剩下反派角色還沒找到，
 所以我們太起勁了，沒有顧慮到你們的心情，
 可能說了很多失禮的話。",,"남은 건 악역을 스카우트하는 것 뿐이다! 라며
 의욕만 높아진 탓에 너희들의 기분을
@@ -328,9 +315,8 @@ An eure Gefühle hatten wir nicht gedacht."
 470,1057,,...,…………,,…………,...
 471,1085,,...,…………,,…………,...
 472,1175,,...,…………,,…………,...
-473,1737,,"Cosa faremo ora? Non possiamo semplicemente
-rinunciare a fare il nostro film! Proveremo a
-chiedere ad altri Digimon.","你問我之後打算怎麼辦？
+473,1737,,"Cosa faremo ora? Non possiamo semplicemente rinunciare
+a fare il nostro film! Proveremo a chiedere ad altri Digimon.","你問我之後打算怎麼辦？
 只有拍英雄電影這件事，我是絕對不會放棄的。
 我會再問問看其他數碼寶貝願不願意演反派角色。",,"……이후엔 어쩔 거냐고?
 히어로 영화를 찍는 것만은 포기할 수 없다
@@ -350,24 +336,20 @@ Wenn sich sonst nichts machen lässt ..."
 你們那個劇本，可以讓我們看一下嗎？",,"기다려
 그 각본이라는 거, 보여주지 않겠나?",Moment ... Können wir das Drehbuch sehen?
 478,1737,,Eh?,什麼？,,뭐?,Was?
-479,1175,,"Sono interessato. Ad apparire nel tuo
-film, intendo.",我們有興趣和你們一起演電影。,,흥미가 생겼다. 너희들과 영화에 출연하는 게,"Ich habe Interesse. In eurem Film mitzuspielen,
+479,1175,,"Sono interessato. Ad apparire nel tuo film, intendo.",我們有興趣和你們一起演電影。,,흥미가 생겼다. 너희들과 영화에 출연하는 게,"Ich habe Interesse. In eurem Film mitzuspielen,
 meine ich."
 480,1085,,"Beh, ti sei spiegato e scusato.
-Suppongo che vada bene
-aiutarti un po'.","看在你們老實道歉、坦承心意的份上，
+Suppongo che vada bene aiutarti un po'.","看在你們老實道歉、坦承心意的份上，
 我們可以陪你們一下。",,"사과하고 솔직히 진심을 이야기해준 걸 봐서
 조금이라면 도와줄 수 있어","Nun ja, ihr habt eure Beweggründe erklärt und euch
 entschuldigt. Ich wäre bereit, euch etwas
 zu helfen."
-481,1057,,"Ma devi assicurarti che i cattivi abbiano
-un bell'aspetto sullo schermo.",但是，你們要把反派也拍得很帥氣喔。,,"다만, 악역이라도 멋있게 찍어줘","Aber ihr müsst dafür sorgen, dass die Schurken
+481,1057,,"Ma devi assicurarti che i cattivi abbiano un bell'aspetto sullo schermo.",但是，你們要把反派也拍得很帥氣喔。,,"다만, 악역이라도 멋있게 찍어줘","Aber ihr müsst dafür sorgen, dass die Schurken
 auf der Leinwand gut aussehen."
 482,1737,,Huh?... Davvero!? Vi va bene?,"咦？……什麼！？
 真的可以嗎？",,"어? …어!?
 괜찮은 거야?",Wie? ... W-Wirklich?! Ihr habt damit kein Problem?
-483,1175,,"Meglio iniziare prima di
-cambiare idea...",趁我們還沒改變主意前快點進行吧。,,우리 마음이 바뀌기 전에 진행하는 게 좋을 거다,"Fangen wir lieber an, bevor wir unsere Meinung
+483,1175,,"Meglio iniziare prima di cambiare idea...",趁我們還沒改變主意前快點進行吧。,,우리 마음이 바뀌기 전에 진행하는 게 좋을 거다,"Fangen wir lieber an, bevor wir unsere Meinung
 ändern ..."
 484,1175,,"Justimon, se dobbiamo farlo,
 facciamolo bene!","裁決獸，
@@ -377,15 +359,14 @@ richtig!"
 485,1737,,...La ringrazio moltissimo!,沒問題！拜託你們了！,,……그래! 잘 부탁한다!,"... Vielen, vielen Dank!"
 486,4277,,Sembra che tu sia riuscito a risolvere le cose.,看來事情圓滿解決了呢。,,아무래도 잘 해결된 것 같네,Anscheinend hast du die Lage geklärt.
 487,1425,,"Scusa. Quando sono arrivato qui non sembrava
-ci fosse nulla che potessi fare,
-quindi ho solo guardato da lì.","對不起，我覺得自己就算出來也無能為力，
+ci fosse nulla che potessi fare, quindi ho solo guardato da lì.","對不起，我覺得自己就算出來也無能為力，
 所以從途中開始就一直在旁邊觀察情況。",,"미안해. 내가 나서도 말리지 못할 것 같길래
 중간부터 멀리서 보고 있었어","Tut mir leid. Als ich kam, sah es aus, als ob ich
 nichts machen könnte. Also habe ich
 einfach von hier aus zugeschaut."
-488,1425,,"Ma BlackWarGreymon e la sua combriccola hanno
-cambiato idea e ora stanno cooperando con i tipi di
-Justimon per fare un film, a quanto pare.","不過沒想到，黑暗戰鬥暴龍獸它們
+488,1425,,"Ma BlackWarGreymon e la sua combriccola hanno cambiato idea
+e ora stanno cooperando con i tipi di Justimon per fare un film,
+a quanto pare.","不過沒想到，黑暗戰鬥暴龍獸它們
 要和裁決獸它們一起合作演電影啊。",,"하지만 블랙워그레이몬 녀석들
 저스티몬 일행과 협력해서 영화에 출연하기로 했구나","Aber BlackWarGreymon und seine Leute haben ihre
 Meinung geändert und arbeiten zusammen mit den
@@ -396,44 +377,43 @@ sogno di fare un film.","請讓我代替正熱中於製作電影的大家向你�
 真的非常謝謝你。",,"영화 제작에 열중하고 있는 모두의 몫까지 말할게
 정말 고마워","Du hast geholfen, unseren Traum von einem Film
 zu verwirklichen. Danke!"
-550,1175,,"D'ora in poi saremo super impegnati! Dobbiamo
-assicurarci di rivedere attentamente il copione...","好，之後會越來越忙碌了！
+550,1175,,"D'ora in poi saremo super impegnati!
+Dobbiamo assicurarci di rivedere attentamente il copione...","好，之後會越來越忙碌了！
 我得把劇本讀得透徹一點……",,"자, 앞으로 바빠질 거다!
 각본 리딩은 빈틈없이 해야 해…","Ab jetzt werden wir sehr viel zu tun haben!
 Wir müssen uns das Skript genau ansehen ..."
-551,1057,,"Dobbiamo provare acrobazie da film d'azione e se
-vogliamo ottenere molti fan, dobbiamo assicurarci che
-le performance dei cattivi siano perfette!","還得進行演技和武打動作的特訓。
+551,1057,,"Dobbiamo provare acrobazie da film d'azione e se vogliamo ottenere
+molti fan, dobbiamo assicurarci che le performance dei cattivi
+siano perfette!","還得進行演技和武打動作的特訓。
 我要演出一個帥氣的反派來增加影迷。",,"연기나 액션 특훈도 해야 해
 팬을 늘릴 생각으로 멋진 악역을 연기해야겠지","Wir müssen Stunts für Actionfilme einstudieren.
 Und wenn wir viele Fans wollen, müssen
 die Schurken perfekt rüberkommen!"
-552,1085,,"Okay, farò il cattivo principale alla
-fine. Inizierò a provare diverse
-espressioni facciali da cattivo...","呼……我是演大魔王啊。
+552,1085,,"Okay, farò il cattivo principale alla fine.
+Inizierò a provare diverse espressioni facciali da cattivo...","呼……我是演大魔王啊。
 從現在開始就來多練一些凶狠的表情好了。",,"호오… 내가 라스트보스 역이군
 지금부터 흉악한 표정의 바리에이션을 찾아보도록 하지","Also gut, ich spiele den Bösewicht ganz am Ende.
 Ich probiere schon mal ein paar
 schurkische Gesichtsausdrücke aus ..."
-553,1737,,"Okay, facciamo una sessione preparatoria ora! Se qualcuno ha
-qualche buona idea, si senta libero di parlare!","馬上來開會討論吧！
+553,1737,,"Okay, facciamo una sessione preparatoria ora!
+Se qualcuno ha qualche buona idea, si senta libero di parlare!","馬上來開會討論吧！
 大家有什麼好主意儘管說出來！",,"그럼 바로 회의를 해볼까!
 좋은 아이디어가 있으면 마구마구 말해다오!","Wir sollten uns jetzt vorbereiten! Wenn jemand
 eine gute Idee hat, raus damit!"
 554,1079,,"Ehi, che ne dici se sia i buoni che i cattivi
-avessero una canzone a testa? Saranno
-entrambe fantastiche, le farò e te le mostrerò!","大家聽我說！要不要幫正義方和邪惡方各做一首主題曲？
+avessero una canzone a testa?
+Saranno entrambe fantastiche, le farò e te le mostrerò!","大家聽我說！要不要幫正義方和邪惡方各做一首主題曲？
 我會把這兩首曲子都寫得很棒的！",,"있지! 정의 측과 악역 측의 노래를 각각 만드는 건 어떨까?
 둘 다 멋있게 만들어 볼게!","He, wie wäre es, wenn die Helden und die Schurken
 ein Lied haben? Sie werden beide cool sein.
 Ich nehme sie auf und spiele sie euch vor!"
-555,1014,,"Fantastico! Abbiamo appena raddoppiato il
-nostro cast! Le cose si mettono bene!","好棒……太棒了！
+555,1014,,"Fantastico! Abbiamo appena raddoppiato il nostro cast!
+Le cose si mettono bene!","好棒……太棒了！
 一口氣增加了好多同伴！　真是讓人安心……！",,"굉장해… 굉장하다고!
 동료가 단숨에 두배야! 든든한걸…!","Fantastisch! Wir haben unsere Besetzung gerade
 verdoppelt. Alles läuft hervorragend!"
-556,1425,,"Heehee... sembra divertente. Con tutti che mettono in comune i
-loro talenti, sono sicuro che questo sarà un buon film.","呵呵……大家看起來好開心。
+556,1425,,"Heehee... sembra divertente. Con tutti che mettono in comune i loro
+talenti, sono sicuro che questo sarà un buon film.","呵呵……大家看起來好開心。
 只要集合大家的力量，一定可以拍出有趣的電影。",,"후후… 즐거워 보이네
 모두의 힘이 모이면 분명 재미있는 영화가 될 거야","Hihi ... Klingt lustig. Wenn alle ihre Stärken
 nutzen, wird es sicher ein guter Film."
