@@ -4,15 +4,14 @@ Detective! Ti prego, devi ascoltare il mio problema!","喔！你來啦，電腦�
 聽我講一下我的煩惱吧！",,"오! 와 줬구나, 전뇌탐정!
 내 고민을 들어줘!","Ach! Du bist da! Du bist der Cyber-Detektiv!
 Du musst dir unbedingt mein Problem anhören!"
-101,1070,,"Non so se è per via del mio aspetto, ma
-gli altri Digimon qui intorno mi
-prendono sempre in giro.","不知道是不是因為這個外表的關係……
+101,1070,,"Non so se è per via del mio aspetto,
+ma gli altri Digimon qui intorno mi prendono sempre in giro.","不知道是不是因為這個外表的關係……
 這附近的數碼寶貝都很瞧不起我。",,"이런 외모다보니 상상이 안 가겠지만…
 나, 언제나 이 근처의 디지몬에게 바보취급 당하고 있어","Ich weiß nicht, ob es an meinem Aussehen liegt,
 aber die anderen Digimon machen sich immer
 über mich lustig."
-102,1070,,"Ma non ho intenzione di prenderla stando a
-guardare! Mostrerò loro cosa so fare!","但是！我不會就這樣默不吭聲的！
+102,1070,,"Ma non ho intenzione di prenderla stando a guardare!
+Mostrerò loro cosa so fare!","但是！我不會就這樣默不吭聲的！
 我想讓那些傢伙見識一下我的厲害。",,"하지만! 그대로 당하고 있을 내가 아니지!
 나도 할 수 있다는 걸 그 녀석들에게 보여주고 싶어","Aber das werde ich nicht einfach so hinnehmen!
 Denen werde ich es schon zeigen!"
@@ -28,9 +27,9 @@ lasceranno cadere un guscio. Per favore, aiutami!","打倒這附近的蝦蛄獸�
 它們應該就會掉下貝殼。拜託你囉！",,"이 주변에 있는 샤코몬을 쓰러뜨리면
 조개껍데기를 떨어뜨릴 테니까 말야. 부탁할게―!","Wenn du die Syakomon in diesem Bereich besiegst,
 lassen sie einen Panzer fallen. Bitte hilf mir!"
-110,1070,,"Quando sconfiggi Syakomon in quest'area, ti
-daranno un guscio. Ho bisogno che tu
-ne raccolga otto!","打倒這附近的蝦蛄獸，應該就能拿到貝殼了。
+110,1070,,"Quando sconfiggi Syakomon in quest'area,
+ti daranno un guscio.
+Ho bisogno che tu ne raccolga otto!","打倒這附近的蝦蛄獸，應該就能拿到貝殼了。
 麻煩你收集8個給我！",,"이 주변에 있는 샤코몬을 쓰러뜨리면 조개껍데기를 손에 넣을 수 있을 거야!
 8개 정도 모아와줘!","Wenn du die Syakomon in diesem Bereich besiegst,
 erhältst du einen Panzer! Du musst acht
@@ -40,26 +39,24 @@ Dammi le conchiglie!","喔喔，比我預期的還要快呢。
 把那個貝殼給我吧！",,"오오, 생각보다 빨랐네
 그 조개껍데기, 나한테 줘!","Ach! Du warst schneller, als ich gedacht hatte!
 Gib mir die Panzer!"
-121,1070,,"Grazie! Con questi posso
-Digievolvere! Guardami mentre assumo la mia nuova forma!","謝啦！這樣我就可以進化了！
+121,1070,,"Grazie! Con questi posso Digievolvere!
+Guardami mentre assumo la mia nuova forma!","謝啦！這樣我就可以進化了！
 快看，嶄新的本大爺！",,"땡큐―! 이걸로 진화를 할 수 있어!
 보라고, 새로운 이 몸을!!","Danke! Mit denen kann ich digitieren!
 Schau, wie ich meine neue Gestalt annehme!"
-122,1455,,"Hehe... Proprio come pensavo, sono
-diventato ShellNumemon! Non si
-prenderanno più gioco di me ora!","嘿嘿……跟我想的一樣，我變成貝殼鼻涕獸啦！
+122,1455,,"Hehe... Proprio come pensavo, sono diventato ShellNumemon!
+Non si prenderanno più gioco di me ora!","嘿嘿……跟我想的一樣，我變成貝殼鼻涕獸啦！
 這麼一來就不會再被小看了。",,"헤헤… 생각한 대로 달팽이워매몬이 됐다―!
 이걸로 더 이상 바보취급 당하지 않을 수 있겠어","Hehe ... Wie erwartet, bin ich jetzt ein
 ShellNumemon! Jetzt können sie sich
 nicht mehr lustig machen!"
-123,1455,,"Quegli Syakomon che hai
-sconfitto? Anche loro si prendevano gioco di me.","你打倒的那幾個蝦蛄獸，
+123,1455,,"Quegli Syakomon che hai sconfitto?
+Anche loro si prendevano gioco di me.","你打倒的那幾個蝦蛄獸，
 它們之前也很瞧不起我。",,"…네가 쓰러뜨린 샤코몬, 그 녀석들도
 나를 바보취급했었어","Die Syakomon, die du besiegt hast?
 Die haben sich auch über mich lustig gemacht."
-124,1455,,"Grazie per le conchiglie, anche se dovrò
-comunque ucciderti ora che ti sei preso
-cura di tutti i miei nemici.","很感謝你替我報仇，和幫我收集貝殼，
+124,1455,,"Grazie per le conchiglie, anche se dovrò comunque ucciderti
+ora che ti sei preso cura di tutti i miei nemici.","很感謝你替我報仇，和幫我收集貝殼，
 儘管不知道馬上就要被殺掉了。",,"내 복수도 해주고, 나중에 당할 줄도 모르는 채
 껍데기를 모아줘서 고맙다","Danke für die Panzer. Allerdings muss ich dich
 jetzt töten, weil du all meine Feinde
@@ -67,36 +64,35 @@ aus dem Weg geräumt hast."
 125,1455,,"Che c'è?
 Sembri perplesso.",……怎麼了？一副愣住的模樣。,,……왜 그래? 멍해져선,"Was ist denn?
 Du wirkst verwirrt."
-126,1455,,"Ho sempre pianificato di ucciderti una volta che
-avessi adempiuto al tuo scopo!","我一開始就是抱著連你一起抹殺的打算委託你的。
+126,1455,,"Ho sempre pianificato di ucciderti una volta che avessi adempiuto al
+tuo scopo!","我一開始就是抱著連你一起抹殺的打算委託你的。
 所以……你已經沒有用處了！！",,"처음부터 너도 없앨 작정으로 의뢰했다는 이야기야
 그러니까… 너한테도 볼일은 끝났엇!!","Ich hatte immer vor, dich zu töten, sobald du
 deinen Zweck erfüllt hast!"
-140,1455,,"Ahhhh!!! Scusa,
-scusa! Mi arrendo!","嗚哇——！　對不起、對不起！
+140,1455,,"Ahhhh!!! Scusa, scusa!
+Mi arrendo!","嗚哇——！　對不起、對不起！
 原諒我——！！",,"우와――! 미안, 미안합니다!
 용서해주세요―――!!","Ahhhh! Tut mir leid!
 Ich gebe auf!"
-141,1455,,"Ti prego, non voglio rompere il mio prezioso guscio
-combattendoti ancora! Mi scuso, per favore...!","再打下去，我這身得來不易的殼會碎掉的！
+141,1455,,"Ti prego, non voglio rompere il mio prezioso guscio combattendoti ancora!
+Mi scuso, per favore...!","再打下去，我這身得來不易的殼會碎掉的！
 我跟你道歉，求你原諒我——！！",,"이 이상 싸웠다간 모처럼 모은 껍데기가 깨져버려!
 사과할 테니까 용서해줘―!!","Bitte, ich will im Kampf nicht mein schönes Haus
 kaputt machen. Es tut mir leid! Bitte!"
-142,2000,,"La prossima volta...ti romperò il
-guscio! La prossima volta...non ti perdonerò!","下次再騙我……就徒手劈磚！
+142,2000,,"La prossima volta...ti romperò il guscio!
+La prossima volta...non ti perdonerò!","下次再騙我……就徒手劈磚！
 下次再騙我……就不饒你！",,"다음에 또 속이면… 깨부술 거야
 다음에 또 속이면… 용서하지 않을 거야","Nächstes Mal ... mache ich dein Haus kaputt.
 Nächstes Mal ... vergebe ich dir nicht!"
 143,1455,,Il...il mio guscio!?,明明是貝殼！？,,……껍데기인데!?,Mein ... mein Haus?
 144,1455,,...Nnnnooooo!!!,好可怕——！！,,……무서워어어엇!!,... Neeeeeein!
-145,1455,,"Capisco... Non dovrei
-ingannare le persone.",我知道了啦……對不起騙了你。,,알았다구… 속여서 미안했어,"Ich verstehe schon ... Ich sollte Leute nicht
+145,1455,,"Capisco... Non dovrei ingannare le persone.",我知道了啦……對不起騙了你。,,알았다구… 속여서 미안했어,"Ich verstehe schon ... Ich sollte Leute nicht
 hinters Licht führen."
-146,1455,,"D'ora in poi farò un enorme sforzo per
-non essere preso in giro da tutti.",今後為了不再被大家瞧不起，我會試著自己努力看看的。,,앞으로는 모두에게 바보취급 당하지 않도록 스스로 노력해 볼게,"Ab jetzt werde ich mich wirklich bemühen, damit
+146,1455,,"D'ora in poi farò un enorme sforzo per non essere
+preso in giro da tutti.",今後為了不再被大家瞧不起，我會試著自己努力看看的。,,앞으로는 모두에게 바보취급 당하지 않도록 스스로 노력해 볼게,"Ab jetzt werde ich mich wirklich bemühen, damit
 sich nicht alle über mich lustig machen."
-150,1455,,"C-cosa? Sei ancora arrabbiato con me? Beh, invierò
-la parcella per l'investigazione al tuo ufficio,
+150,1455,,"C-cosa? Sei ancora arrabbiato con me?
+Beh, invierò la parcella per l'investigazione al tuo ufficio,
 quindi perdonami per favore...","怎……怎樣啦，你還在生氣嗎？
 委託的報酬我一定會送過去的，你就原諒我吧。",,"뭐… 뭐야, 아직 화난 거야?
 의뢰 보수는 제대로 보내뒀으니까 용서해주라구","W-Was? Du bist noch wütend auf mich? Also, ich
