@@ -3,15 +3,15 @@
 101,1576,,"Sono Datamon. Tutti mi chiamano Dr. Datamon, però.","我是分子獸，
 大家都習慣稱呼我為分子獸博士。",,"나는 데이터몬
 옛날부터 데이터몬 박사라고 불리고 있지",Ich bin Datamon. Alle nennen mich Dr. Datamon.
-102,1576,,"Il motivo per cui vi ho convocato qui, come
-sono sicuro che ben sapete, è per aiutarmi con lo
-sviluppo della mia nuova medicina.","我叫偵探大人過來不是為了其他事，
+102,1576,,"Il motivo per cui vi ho convocato qui,
+come sono sicuro che ben sapete, è per aiutarmi con lo sviluppo
+della mia nuova medicina.","我叫偵探大人過來不是為了其他事，
 如你所知，是為了幫忙我開發新藥。",,"탐정님을 부른 건 다름이 아니라
 알다시피 신약 개발을 도와줬으면 해서라네","Der Grund, warum ich dich herbestellt habe, ist,
 wie du sicher weißt, um mir bei der Entwicklung
 meiner neuen Medizin zu helfen."
-103,1576,,"Io, ovviamente, preparo intrugli medicinali. Tuttavia, ho
-bisogno che tu vada a raccogliere le piante
+103,1576,,"Io, ovviamente, preparo intrugli medicinali.
+Tuttavia, ho bisogno che tu vada a raccogliere le piante
 medicinali di cui ho bisogno per questo.","當然，配藥是由我負責。
 不過調配所需要的藥草用光了，
 所以想請偵探大人去採回來。",,"물론 약 조합은 내가 할 거야
@@ -19,20 +19,19 @@ medicinali di cui ho bisogno per questo.","當然，配藥是由我負責。
 그걸 탐정님이 구해와줬으면 하네","Ich mische natürlich Heiltränke. Ich möchte,
 dass du für mich die dafür benötigten
 Heilpflanzen sammelst."
-104,1576,,"Le piante dovrebbero essere in questo Spazio
-Digitale, ma ho bisogno che tu vada a prenderle per me.","藥草應該在這個數碼空間裡面。
+104,1576,,"Le piante dovrebbero essere in questo Spazio Digitale,
+ma ho bisogno che tu vada a prenderle per me.","藥草應該在這個數碼空間裡面。
 請你去找出來拿給我，麻煩你了。",,"약초는 이 디지털 스페이스 내에 있을 테니
 찾아서 갖고와주게. 부탁하네","Die Pflanzen sollten sich hier im Digitalraum
 befinden, aber du musst sie für mich sammeln."
-110,1576,,"Le piante dovrebbero essere da qualche parte in questo Spazio
-Digitale. Potrebbero essere in scrigni del tesoro o a
-terra da qualche parte, quindi per favore controlla a fondo.","藥草應該在這個數碼空間的某處。
+110,1576,,"Le piante dovrebbero essere da qualche parte in questo Spazio Digitale.
+Potrebbero essere in scrigni del tesoro o a terra da
+qualche parte, quindi per favore controlla a fondo.","藥草應該在這個數碼空間的某處。
 請仔細找一下寶箱或地面上。",,"약초는 이 디지털 스페이스 내의 어딘가에 있을 거라네
 보물상자나 지면까지 잘 찾아봐주게","Die Pflanzen sollten irgendwo hier im Digitalraum
 sein. Sie können sich in Schatztruhen oder
 auf dem Boden befinden. Bitte such gründlich."
-120,1576,,"Com'è andata? Sei riuscito a trovare
-delle piante?",如何？　找到藥草了嗎？,,어떤가? 약초는 손에 넣었나?,"Wie ist es gelaufen? Hast du meine Pflanzen
+120,1576,,"Com'è andata? Sei riuscito a trovare delle piante?",如何？　找到藥草了嗎？,,어떤가? 약초는 손에 넣었나?,"Wie ist es gelaufen? Hast du meine Pflanzen
 gefunden?"
 121,1576,,"Queste sono...wow, delle piante di
 ottima qualità. Grazie!",這是……嗯，是上等的藥草。謝謝你。,,"이건… 흠, 질 좋은 약초로군. 고맙네","Die sind ... Wow, das sind Pflanzen von guter
@@ -56,8 +55,8 @@ L'Affare di PlatinumSukamon è una storia diversa.","光明獸的羽毛和藥草
 Boden aufhebst, genau wie die anderen ...
 Aber das gilt nicht für PlatinumSukamons Ding."
 124,1576,,"A volte un PlatinumSukamon appare da queste parti
-e ne lascia cadere uno quando viene sconfitto. Abbi
-pazienza, ma fai del tuo meglio e cercalo. Grazie.","打倒偶爾出現在這附近的白金大便獸好像就會掉落。
+e ne lascia cadere uno quando viene sconfitto.
+Abbi pazienza, ma fai del tuo meglio e cercalo. Grazie.","打倒偶爾出現在這附近的白金大便獸好像就會掉落。
 雖然需要耐性，不過還是請你努力找出來。
 那就拜託你了。",,"이 근처에 가끔씩 나타나는 화이트스카몬을 쓰러뜨리면 얻을 수 있을 거야
 끈기가 필요하겠지만 확실히 찾아와줬으면 해
@@ -85,15 +84,14 @@ PlatinumSukamon besiegen. Bitte erledige das."
 140,1576,,Com'è andata? Li hai trovati?,如何，你拿到了嗎？,,어떤가. 가지고 왔는가?,Wie ist es gelaufen? Hast du alles gefunden?
 141,1576,,Ah! ...Ecco!,喔喔……這是！,,오오… 이건!,Ah! ... Perfekt!
 142,1576,,"Wow, il colore e la consistenza di queste Ali di
-Lucemon che hai appena raccolto! Saranno perfette
-per questa miscela medicinale che sto preparando ora!","不論顏色質感都是剛摘取下來的光明獸的羽毛！
+Lucemon che hai appena raccolto! Saranno perfette per questa
+miscela medicinale che sto preparando ora!","不論顏色質感都是剛摘取下來的光明獸的羽毛！
 這個柔軟度正好適合這次的調配！！",,"색, 질감 모두 막 채취한 루체몬의 날개!
 이 부드러움이 이번 조합에 딱 좋겠어!!","Wow, die Farbe und Textur der Lucemon-Flügel,
 die du gefunden hast! Die sind perfekt für
 diesen Heiltrank, den ich gerade zubereite!"
 143,1576,,"Questa Cosa di PlatinumSukamon è persino più
-brillante di un metallo raro! È incredibile, veramente
-incredibile.","然後是散發出耀眼稀有金屬光澤的
+brillante di un metallo raro! È incredibile, veramente incredibile.","然後是散發出耀眼稀有金屬光澤的
 白金大便獸的「那個」！　完美……實在是太完美了！！",,"그리고 놀라울 정도로 레어메탈 같은 광택을 빛내고 있는
 화이트스카문의 그것! 멋지군… 정말 멋져!!","Das Ding von PlatinumSukamon glänzt noch heller
 als ein seltenes Metall! Das ist fantastisch,
@@ -101,9 +99,8 @@ wirklich."
 144,1576,,...Huh? Perché mi stai guardando storto in quel modo?,"嗯？
 為什麼你眼睛要瞇那麼小？",,"……응?
 왜 그렇게 눈을 가늘게 뜨고 있는 건가?",... Was? Warum schielst du mich so an?
-145,1576,,"Grazie a te, Detective, potrò
-creare medicine di
-altissima qualità!",多虧偵探大人，這樣應該能做出上好的藥了！,,탐정님 덕분에 매우 질 좋은 약을 만들 수 있을 것 같네!,"Dir ist es zu verdanken, Detektiv, dass ich eine
+145,1576,,"Grazie a te, Detective, potrò creare
+medicine di altissima qualità!",多虧偵探大人，這樣應該能做出上好的藥了！,,탐정님 덕분에 매우 질 좋은 약을 만들 수 있을 것 같네!,"Dir ist es zu verdanken, Detektiv, dass ich eine
 qualitativ sehr hochwertige Medizin
 herstellen kann!"
 146,1576,,"Con questi ingredienti straordinari sarò in
@@ -117,16 +114,16 @@ ihre Körperfunktionen verbessert und ..."
 為什麼你要擺出一張苦瓜臉？",,"……응?
 왜 그렇게 떨떠름한 얼굴을 하고 있는 건가?",... Was? Warum ziehst du denn so ein Gesicht?
 148,1576,,"Ad ogni modo... un ottimo lavoro, Detective.
-Grazie per avermi aiutato in
-questo. Credo che il caso sia ora risolto.","總之……你事情辦得不錯，偵探大人。
+Grazie per avermi aiutato in questo.
+Credo che il caso sia ora risolto.","總之……你事情辦得不錯，偵探大人。
 這次的委託就到此為止了，
 多虧你的幫忙讓我省事不少。",,"어쨌든… 일을 잘 해줬네, 탐정님
 이걸로 이번 의뢰는 끝이야
 덕분에 살았어","Wie dem auch sei ... Gute Arbeit, Detektiv.
 Danke für deine Hilfe.
 Damit ist der Fall jetzt gelöst."
-149,1576,,"Comincerò subito a preparare la medicina. Per favore,
-aspetta qui mentre la preparo.","我接下來打算開始著手製藥了。
+149,1576,,"Comincerò subito a preparare la medicina.
+Per favore, aspetta qui mentre la preparo.","我接下來打算開始著手製藥了。
 期待我開發出新藥吧。",,"이제부터 약 제작을 시작하려고 하네
 신약 개발, 기대하고 있어주게","Ich fange sofort an, die Medizin herzustellen.
 Bitte warte solange hier."

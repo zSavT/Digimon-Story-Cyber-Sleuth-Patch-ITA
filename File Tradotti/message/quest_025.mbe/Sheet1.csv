@@ -1,15 +1,14 @@
 ﻿ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
 100,4057,,...Shhh! Fai silenzio!,噓——！　大太聲了！,,……쉿―! 목소리가 커!!,... Pssst! Ruhe!
-101,4057,,"Ah, sei sempre lo stesso. Sembra che
-abbia stimato correttamente le tue capacità
-deduttive, quindi ho un altro caso per te.","唉，你怎麼還是一樣。
+101,4057,,"Ah, sei sempre lo stesso.
+Sembra che abbia stimato correttamente le tue capacità deduttive,
+quindi ho un altro caso per te.","唉，你怎麼還是一樣。
 老實說我看好你的實力，想再拜託你進行調查。",,"하아, 너 변함없네
 실은 네 힘을 믿고 또 조사를 부탁하고 싶어","Ha, auf dich ist wie immer Verlass. Ich habe dein
 Talent zur Schlussfolgerung anscheinend richtig
 eingeschätzt. Ich habe noch einen Fall für dich."
-102,4057,,"Ho un altro caso simile per
-te. Riguarda il sito
-Digipedia che amministro.","事情是這樣的，
+102,4057,,"Ho un altro caso simile per te.
+Riguarda il sito Digipedia che amministro.","事情是這樣的，
 我身為站長的辭典網站「數碼百科」，
 其實又發生了和上次類似的事件。",,"내가 관리인을 맡고 있는 인터넷 사전 사이트
 「디지디지피디아」에 관해서인데
@@ -21,9 +20,9 @@ modifiche è che... sono tutte bugie!","而這次編輯出來的內容……
 是假的。",,"이번엔 어떻게 편집됐냐 하면
 …거짓말이야","Dieses Mal ist das Problem, dass die Änderungen
 nur aus Falschinformationen bestehen!"
-104,4057,,"Tutto quello che quel tipo ha mai scritto è pieno
-di bugie. E come al solito, non posso
-annullare il blocco e correggerlo in alcun modo.","那人撰寫的內容全是騙人的。
+104,4057,,"Tutto quello che quel tipo ha mai scritto è pieno di bugie.
+E come al solito, non posso annullare il blocco e correggerlo in
+alcun modo.","那人撰寫的內容全是騙人的。
 而且又跟上次一樣被鎖住無法解除，
 我根本就沒辦法修改。",,"그 사람이 집필하는 내용 전부가 거짓말뿐이야
 게다가 변함없이 해제불가능한 블록이 걸려 있어서
@@ -31,52 +30,49 @@ annullare il blocco e correggerlo in alcun modo.","那人撰寫的內容全是�
 Haufen Lügen. Und wieder kann ich die Sperre
 nicht aufheben und sie korrigieren."
 105,4057,,"Mi stavo chiedendo se quel tipo del Kansai c'entrasse qualcosa
-con questo, quindi mi sono messo in contatto
-con lui, ma non era lui. Sembra che sia opera di qualcun altro.","我心想會不會跟上次那個關西腔的人有關就連絡他，
+con questo, quindi mi sono messo in contatto con lui, ma non era lui.
+Sembra che sia opera di qualcun altro.","我心想會不會跟上次那個關西腔的人有關就連絡他，
 結果他是清白的。看來應該是別人搞的鬼。",,"또 저번의 관서 사투리의 사람이 관계가 있는 건가 하고
 연락을 해 봤는데 그 사람은 아니었어.
 아무래도 다른 사람의 소행 같아","Erst dachte ich, der Kansai-Typ steckt dahinter,
 aber er hatte nichts damit zu tun.
 Anscheinend ist es das Werk von jemand anderem."
 106,4057,,"A proposito, le pagine che questo tizio ha modificato
-sono ""Demone con un Bastone"", ""Festa di Tanabata"" ecc... Puoi
-andare a controllare la pagina del registro modifiche.","順帶一提，那個人編輯的頁面是
+sono ""Demone con un Bastone"", ""Festa di Tanabata"" ecc...
+Puoi andare a controllare la pagina del registro modifiche.","順帶一提，那個人編輯的頁面是
 「如虎添翼」還有「七夕」之類的……
 要再調查更新紀錄的話，可以從那個頁面連過去。",,"참고로 그 사람이 편집한 페이지는
 「범에 날개」나「칠석」등이야…
 또 갱신이력을 조사하고 싶다면 그 페이지에서 확인할 수 있어","Die Seiten, die dieser Typ bearbeitet hat, sind
 „Dämon mit einem Stab“, „Tanabata-Festival“ usw.
 Du kannst die Bearbeitungsliste überprüfen."
-107,4057,,"Questo per proteggere la reputazione di
-Digipedia, quindi per favore occupatene il prima
-possibile. Grazie.","這關係到「數碼百科」的信譽。
+107,4057,,"Questo per proteggere la reputazione di Digipedia,
+quindi per favore occupatene il prima possibile. Grazie.","這關係到「數碼百科」的信譽。
 請你盡早處理這個問題，拜託你了。",,"「디지디지피디아」의 신용과 관계된 일이니까
 빨리 어떻게든 해줘. 잘 부탁해","Ich will den Ruf von Digipedia schützen, also
 kümmere dich bitte so schnell wie möglich
 darum. Danke."
-110,4057,,"C'è qualcuno che sta inserendo menzogne
-nel contenuto. È così orribile che è arrivato
-al punto in cui non riesco più a correggerlo.","這次是有人把不實內容放到頁面上去。
+110,4057,,"C'è qualcuno che sta inserendo menzogne nel contenuto.
+È così orribile che è arrivato al punto in cui non riesco più
+a correggerlo.","這次是有人把不實內容放到頁面上去。
 居然還設成無法修改，真是太惡劣了。",,"이번엔 페이지를 거짓 내용으로 편집하는 사람이 있어
 수정하지 못하도록 되어 있는 것도 정말 악질이라니까","Jemand baut Lügen in die Texte ein. Es ist
 wirklich furchtbar, dass es so weit gekommen
 ist, dass ich sie nicht korrigieren kann."
-111,4057,,"Quel PC laggiù sembra essere
-libero, quindi per favore, vai lì e provalo.","那台電腦好像可以自由使用。
+111,4057,,"Quel PC laggiù sembra essere libero,
+quindi per favore, vai lì e provalo.","那台電腦好像可以自由使用。
 那就麻煩你了。",,"거기 있는 PC 사용해도 된다는 것 같으니까
 그럼 잘 부탁할게","Der PC da drüben scheint frei zu sein.
 Bitte benutze ihn und kümmere dich darum."
 150,2001,,Questo è il sito della Digipedia!,開啟數碼百科的網站！,,디지디지피디아 사이트를 열었다!,Dies ist die Digipedia-Seite!
-151,2001,,"...Non sembra esserci alcun problema sulla pagina
-principale. Andrò a controllare alcune delle pagine
-problematiche allora...","首頁看起來沒什麼問題。
+151,2001,,"...Non sembra esserci alcun problema sulla pagina principale.
+Andrò a controllare alcune delle pagine problematiche allora...","首頁看起來沒什麼問題。
 去出問題的頁面確認。",,"…TOP 페이지는 딱히 문제없는 듯하다
 문제의 페이지를 확인해보기로 했다","Auf der Startseite scheint es kein Problem zu
 geben. Dann schaue ich mir mal ein paar
 Hilfeseiten an ..."
-152,4952,,"""Tanabata"" è l'unico giorno dell'anno in
-cui Angemon e Angewomon, normalmente
-separati dalla Via Lattea, possono incontrarsi.","「七夕」
+152,4952,,"""Tanabata"" è l'unico giorno dell'anno in cui Angemon e Angewomon,
+normalmente separati dalla Via Lattea, possono incontrarsi.","「七夕」
 相傳是隔著銀河的天使獸與天女獸
 一年一度相見的日子。",,"「칠석」
 은하수를 사이에 둔 엔젤몬과 엔젤우몬이
@@ -84,8 +80,8 @@ separati dalla Via Lattea, possono incontrarsi.","「七夕」
 sich Angemon und Angewomon treffen können.
 Normalerweise trennt die Milchstraße sie."
 153,4952,,"Per Tanabata, scrivi il tuo desiderio su un pezzo
-di carta e lo appendi a un albero di Cherrymon, ma
-invece di essere esaudito, muori e basta. Spaventoso!","在七夕這天
+di carta e lo appendi a un albero di Cherrymon,
+ma invece di essere esaudito, muori e basta. Spaventoso!","在七夕這天
 將寫下願望的紙吊掛在祖利獸的樹枝上，
 願望不但不會實現甚至還會殞命。天啊～好可怕。",,"이 칠석에
 쥬레이몬의 가지에 소원을 쓴 종이를 매달면
@@ -93,8 +89,7 @@ invece di essere esaudito, muori e basta. Spaventoso!","在七夕這天
 Zettel und hängt ihn an einen Cherrymon-Baum.
 Statt der Erfüllung des Wunsches kommt der Tod!"
 154,4952,,"""Demone con un Bastone"" significa che qualsiasi
-cosa un demone stia tenendo è figo. Qualsiasi
-cosa, non importa nemmeno.","「如虎添翼」
+cosa un demone stia tenendo è figo. Qualsiasi cosa, non importa nemmeno.","「如虎添翼」
 強得跟鬼一樣的傢伙不論讓他拿什麼都很帥，
 所以故意讓他拿奇怪的東西，結果還是很帥。",,"「범에 날개」
 범처럼 강한 녀석은 뭘 들려줘도 멋있다
@@ -102,22 +97,20 @@ cosa, non importa nemmeno.","「如虎添翼」
 ein Dämon hält, cool ist. Wirklich alles, es
 spielt gar keine Rolle."
 155,4952,,"Un altro nome per esso è ""MetalEtemon con un
-Gekomon/Sukamon"", oppure ""MetalEtemon con un
-mucchio di Boltmon"".","又稱「如鋼鐵悟空獸添怪蛙獸、大便獸」，
+Gekomon/Sukamon"", oppure ""MetalEtemon con un mucchio di Boltmon"".","又稱「如鋼鐵悟空獸添怪蛙獸、大便獸」，
 「如鋼鐵悟空獸添科學怪人獸的各種零件」。",,"또 다른 이름은「메탈에테몬에 개굴몬, 스타몬」
 「메탈에테몬에 나사몬이 갖고 있는 이런저런 부품들」","Ein weiterer Name ist „MetalEtemon mit einem
 Gekomon/Sukamon“ oder „MetalEtemon mit
 ein paar Boltmon“."
 156,2001,,"...Credo di sapere chi è il colpevole.
-Mi chiedo se dovrei provare a fare un
-Salto di Connessione al registro modifiche?","好像可以猜到犯人是誰……
+Mi chiedo se dovrei provare a fare un Salto di Connessione
+al registro modifiche?","好像可以猜到犯人是誰……
 要追溯更新紀錄進行登入跳躍嗎？",,"……어쩐지 범인을 알 것 같다
 갱신이력을 거슬러 올라가 커넥트 점프를 해볼까?","Ich glaube, ich weiß, wer dahintersteckt. Ob
 ich versuchen soll, per Verbindungssprung 
 zum Bearbeitungsverlauf zu gelangen?"
 160,2001,,"Sembra che abbia trovato il registro delle modifiche
-per la pagina della Digipedia con tutte le
-modifiche errate!","在數碼百科的網站中
+per la pagina della Digipedia con tutte le modifiche errate!","在數碼百科的網站中
 找到被編輯為不實內容之頁面的更新紀錄了！",,"디지디지피디아 사이트 내에
 거짓말 투성이로 편집된 페이지의 갱신이력을 찾았다!","Ich habe den Bearbeitungsverlauf für die Seite von
 Digipedia gefunden, die voller falscher
@@ -125,17 +118,17 @@ Digipedia gefunden, die voller falscher
 200,1312,,Eh? Vuoi qualcosa?,"嗯～？
 你找我有什麼事嗎？",,"응~?
 너, 나한테 무슨 일이야?",Was? Willst du was von mir?
-201,1312,,"Sai, questo è dove vivo! Sto
-modificando questa pagina della Digipedia proprio
-ora, quindi per favore, vattene!","這裡是我的住處哦？
+201,1312,,"Sai, questo è dove vivo!
+Sto modificando questa pagina della Digipedia proprio ora,
+quindi per favore, vattene!","這裡是我的住處哦？
 我等一下要來編輯數碼百科，
 你快點到旁邊去吧。",,"여기는 내 주거지라구?
 이제부터 디지디지피디아를 편집할 거니까
 빨리 다른 곳으로 가줄래?","Ich wohne hier nämlich!
 Ich bearbeite gerade diese Digipedia-Seite,
 also bitte geh wieder!"
-202,1312,,"...Ah, stai cercando le pagine che
-ho modificato? Vuoi un mio autografo?","唉呀～你看了我編輯的頁面嗎？
+202,1312,,"...Ah, stai cercando le pagine che ho modificato?
+Vuoi un mio autografo?","唉呀～你看了我編輯的頁面嗎？
 要簽名的話，我也是可以簽給你的喲。",,"……어머~ 내가 편집한 페이지를 봐 준 거양?
 사인 정도라면 해줄 수 있엉","... Ach, du bist wegen der Seiten hier, die ich
 bearbeitet habe? Willst du ein Autogramm von mir?"
@@ -144,16 +137,14 @@ di scrivere bugie!? Stai scherzando, vero?","什麼？　你是過來叫我不�
 開什麼玩笑！！",,"뭐? 거짓 기사를 쓰지 말라고 말하러 왔다고오?
 …웃기지 마!!","Waaas?! Du bist hergekommen, damit ich aufhöre,
 Lügen zu verbreiten?! Du machst wohl Witze!"
-204,1312,,"Pensavi che avrei semplicemente detto ""Oh,
-davvero? Sì, certo!"" e mi sarei fermato solo
-perché sei venuto qui a chiedermelo?","既然曉得這麼有趣的玩意，
+204,1312,,"Pensavi che avrei semplicemente detto ""Oh, davvero? Sì, certo!""
+e mi sarei fermato solo perché sei venuto qui a chiedermelo?","既然曉得這麼有趣的玩意，
 我哪有可能乖乖聽你的話就此收手！",,"이런 재밌는 걸 알아버렸는데
 「네, 그런가요」라며 간단히 그만둘 수는 없어!","Dachtest du wirklich, ich sage nur: „Ach so?
 Natürlich!“, und höre auf, nur weil du gekommen
 bist und mich höflich bittest?"
 205,1312,,"Huh? Oh, capisco. Tu sei il tipo che ha
-eliminato le pagine in dialetto
-Kansai di Tentomon, giusto?","啊……我知道了，
+eliminato le pagine in dialetto Kansai di Tentomon, giusto?","啊……我知道了，
 你就是撤掉甲蟲獸關西腔頁面的人吧？",,"하아… 알았어~엉
 너, 텐토몬의 관서 사투리 페이지를 없앤 사람이구낭?","Was? Ach, verstehe. Du hast dafür gesorgt, dass
 die Seiten von Tentomon im Kansai-Dialekt
@@ -164,21 +155,20 @@ Non puoi semplicemente andare ad abbatterle!!!","我的頁面是天、下、第�
 저~얼대! 없애게 놔두지 않겠어~!!","Meine Seiten sind DIE BESTEN! Absolut, zu 100 %!
 Du kannst sie nicht einfach entfernen!"
 210,1312,,...Basta! Mi arrendo!,等一下！　我投降！,,"……잠깐! 항복, 항복!",... Halt! Ich gebe auf!
-211,1312,,"Capisco... Devo
-smetterla di scrivere tutte queste bugie...","我知道了啦～
+211,1312,,"Capisco...
+Devo smetterla di scrivere tutte queste bugie...","我知道了啦～
 我不會再寫不實的條目了……",,"알았어~
 거짓 기사를 쓰는 건 이제 그만둘겡…","Ich verstehe ...
 Ich muss aufhören, Lügen zu verbreiten ..."
-212,1312,,"Tanta gente viene a vedere il sito della Digipedia, quindi le
-loro reazioni sono state interessanti, ma...
+212,1312,,"Tanta gente viene a vedere il sito della Digipedia,
+quindi le loro reazioni sono state interessanti, ma...
 devo fare quello che devo fare, immagino...","因為數碼百科有很多人會看，
 反應很有趣的說……這下沒辦法了。",,"디지디지피디아는 많은 사람이 보니까
 반응이 재밌었지만… 어쩔 수 없네","Es kommen so viele Leute zur Digipedia-Seite. Ihre
 Reaktionen waren interessant, aber ...
 Du musst tun, was du tun musst."
 213,1312,,"Suppongo che proverò ad avviare un blog,
-proprio come Tentomon, e proverò ad
-attirare gente da solo.","乾脆我也學甲蟲獸寫部落格，
+proprio come Tentomon, e proverò ad attirare gente da solo.","乾脆我也學甲蟲獸寫部落格，
 從零開始聚集人氣好了？",,"나도 텐토몬처럼
 블로그를 시작해서 제로부터 사람을 모아볼까~앙?","Vielleicht mache ich einfach meinen eigenen Blog,
 genau wie Tentomon, und versuche, selbst
@@ -199,14 +189,14 @@ Abbassa la voce!","你到底要我說幾次！
 매번「목소리를 죽여」라고 말하고 있잖아!!","Also wirklich! Wie oft muss ich es denn noch
 sagen! Nicht so laut!"
 232,4057,,...Ack!,啊！,,……핫!,... Argh!
-233,4057,,"Guarda cosa mi hai fatto
-fare! È colpa tua se ho alzato la voce!","真是的……結果我自己也大聲起來了。
+233,4057,,"Guarda cosa mi hai fatto fare!
+È colpa tua se ho alzato la voce!","真是的……結果我自己也大聲起來了。
 都是你害的啦。",,"정말… 나도 모르게 큰소리를 내버렸잖아
 너 때문이야","Siehst du, was du angerichtet hast!
 Jetzt bin ich wegen dir auch laut geworden!"
 234,4057,,"...Comunque, sembra che il blocco sia
-stato rimosso dalle pagine con informazioni false. Le sto
-controllando gradualmente e correggendole.","回到正題，
+stato rimosso dalle pagine con informazioni false.
+Le sto controllando gradualmente e correggendole.","回到正題，
 那些不實內容頁面的鎖都順利解除，
 正在慢慢地修改。",,"……그럼 본론이야
 거짓말 투성이인 페이지에 걸려 있던 블록도 무사히 없어져서
@@ -252,9 +242,8 @@ tipi strani, non credi?","內容就這樣。
 有沒有人說你容易被怪人喜歡上啊？",,"…라고 하네
 너, 특이한 사람한테 사랑받는다는 얘기 듣지 않아?","... Du scheinst ja bei den Spinnern gut
 anzukommen, was?"
-240,4057,,"Spero solo che non spuntino
-fuori imitatori che usano lo stesso trucco
-dopo questo. Grazie per il tuo aiuto.","祈禱之後不會再有他們的模仿犯出現了。
+240,4057,,"Spero solo che non spuntino fuori imitatori
+che usano lo stesso trucco dopo questo. Grazie per il tuo aiuto.","祈禱之後不會再有他們的模仿犯出現了。
 謝謝你的協助。",,"이 이상 그들의 모방범이 나오지 않기를 바라
 협력해줘서 정말 고마워","Hoffentlich kommen jetzt keine anderen
 „Bearbeiter“ aus der Versenkung und versuchen den
