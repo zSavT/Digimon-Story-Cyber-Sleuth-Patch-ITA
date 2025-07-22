@@ -1,22 +1,22 @@
 ﻿ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
-101,3001,,"Devo parlare di Nokia... dei
-Ribelli. Puoi venire in EDEN?","我想找你談談關於反叛者的……諾奇雅的事。
+101,3001,,"Devo parlare di Nokia... dei Ribelli.
+Puoi venire in EDEN?","我想找你談談關於反叛者的……諾奇雅的事。
 你可以來一下EDEN嗎？",,"리벨리온즈의… 노키아에 대해 상담하고 싶은 게 있다
 EDEN으로 와주지 않겠나","Wir müssen über Nokia sprechen ... und ihre
 Rebels. Kannst du nach EDEN kommen?"
-102,3001,,"Capisco. Invierò una richiesta formale al tuo ufficio in
-merito a questa questione.","我知道，
+102,3001,,"Capisco. Invierò una richiesta formale al tuo ufficio in merito a
+questa questione.","我知道，
 我會將這件事當作正式委託告知你們事務所的。",,"알고 있다
 정식 의뢰로서 네 사무소에 이야기해 두지","Ich verstehe. Ich werde eine formelle Anfrage dazu
 an dein Büro schicken."
-151,3001,,"...Grazie per essere venuto. Come sta
-andando l'attività da Cyber Detective per te?","你來啦，
+151,3001,,"...Grazie per essere venuto.
+Come sta andando l'attività da Cyber Detective per te?","你來啦，
 電腦偵探的工作還順利嗎？",,"…잘 와줬다
 전뇌탐정 일은 순조롭나?","Danke, dass du gekommen bist. Wie läuft es
 denn so für dich als Cyber-Detektiv?"
 152,2001,,"Bene.
-Non tanto
-bene. Non male.","很順利。
+Non tanto bene.
+Non male.","很順利。
 說不上是順利。
 還可以。",,"응
 그렇지도 않아
@@ -35,41 +35,37 @@ Perché non dici niente? Ti senti male o qualcosa del genere!?","你不是要找
 왜 조용한 거예요―!?
 배라도 아픕니까―!?","Wolltest du nicht über Nokia reden? Warum sagst du
 denn nichts? Hast du etwa Bauchschmerzen?"
-159,3001,,"...Ah, scusa. Era questo
-il motivo per cui ho inviato la richiesta.","啊，不好意思。
+159,3001,,"...Ah, scusa. Era questo il motivo per cui ho inviato la richiesta.","啊，不好意思。
 是我發出委託的那件事吧。",,"…아아, 미안하다
 의뢰를 한 것에 대해서였지","... Ach, tut mir leid.
 Das ist der Grund für die Anfrage."
 160,3001,,"Okay, andrò dritto al punto.
-Io...voglio che tu metta fine alle attività di
-Nokia con i Ribelli.","我就單刀直入地說了，
+Io...voglio che tu metta fine alle attività di Nokia con i Ribelli.","我就單刀直入地說了，
 我希望你讓諾奇雅……停止反叛者的活動。",,"……단도직입적으로 말하겠다
 네가 노키아의… 리벨리온즈의 활동을 그만두게 만들어줬으면 한다","Okay, dann komme ich sofort zum Punkt.
 Ich ... möchte, dass du Nokias Aktivitäten mit
 den Rebels beendest."
 161,2001,,?,？？,,??,?
-162,3001,,"Capisci? La sua esistenza non
-è altro che una seccatura per me.","你也知道吧？
+162,3001,,"Capisci? La sua esistenza non è altro che una seccatura per me.","你也知道吧？
 她的存在對我來說只是一個阻礙。",,"…알잖아?
 그녀의 존재는 내게 있어선 방해일 뿐이다","Hast du mich verstanden?
 Ihre Existenz wurmt mich."
-163,3001,,"Voglio unire ancora una volta tutti
-gli hacker sotto la mia guida e
+163,3001,,"Voglio unire ancora una volta tutti gli hacker sotto la mia guida e
 ripristinare l'ordine in EDEN.","我要用我的力量再一次把駭客們整合起來，
 給這個EDEN帶來秩序。",,"나는 내 힘으로 다시 한 번 해커들을 모아
 이 EDEN에 질서를 가져오고 싶어","Ich will alle Hacker wieder vereinen,
 als ihr Anführer, und die Ordnung in EDEN
 wiederherstellen."
-164,3001,,"...Sarebbe meglio
-cooperare? Certo che lo diresti...","既然這樣協助她不就好了，是嗎……
+164,3001,,"...Sarebbe meglio cooperare?
+Certo che lo diresti...","既然這樣協助她不就好了，是嗎……
 很像你會說的話呢。",,"…그러면 협력하면 된다, 라
 너다운 생각이군","... Es wäre besser zu kooperieren?
 Es überrascht mich nicht, dass du das sagst."
 165,3001,,...,……,,……,...
 166,3001,,...Questo mondo...questo EDEN...ti piace?,你喜歡這個世界……喜歡EDEN嗎？,,…너는 이 세계가… EDEN이 좋은가?,... Diese Welt ... dieses EDEN ... Gefällt es dir?
-167,2001,,"Mi piace un
-sacco! Non mi piace poi
-molto. A volte mi piace, a volte no.","我最愛了。
+167,2001,,"Mi piace un sacco!
+Non mi piace poi molto.
+A volte mi piace, a volte no.","我最愛了。
 好像也沒有那麼喜歡。
 不喜歡也不討厭。",,"그야 물론 정말 좋아해요
 그렇게까지 좋아하진 않을지도
@@ -84,17 +80,15 @@ Manchmal gefällt es mir, manchmal nicht."
 169,2001,,...,……,,……,...
 170,3001,,...Che ne dici di fare una breve passeggiata?,我們稍微走走吧？,,…조금 걷지 않겠나?,... Wie wäre es mit einem kleinen Spaziergang?
 171,3001,,Voglio sentirmi più in sintonia con EDEN...,我現在想要多感受一點EDEN……,,지금은 왠지 조금이라도 EDEN을 느끼고 싶은 기분이야…,Ich will mich mehr mit EDEN verbunden fühlen ...
-172,3001,,"Bene, andiamo all'Area
-Comunitaria di Eden...","對了……
+172,3001,,"Bene, andiamo all'Area Comunitaria di Eden...","對了……
 我們去EDEN公共區域好了。",,"…그렇군
 EDEN 커뮤니티 에어리어에라도 가볼까…","Also, gehen wir zum Gemeinschaftsbereich
 von EDEN ..."
-201,3001,,"Lì... Che ne dici se parliamo su
-quella panchina?",嗯……去那張長椅上說話吧。,,그렇군… 저 벤치에서 이야기할까,"So ... Wie wäre es, wenn wir uns auf der Bank
+201,3001,,"Lì... Che ne dici se parliamo su quella panchina?",嗯……去那張長椅上說話吧。,,그렇군… 저 벤치에서 이야기할까,"So ... Wie wäre es, wenn wir uns auf der Bank
 unterhalten?"
 210,4910,,"Eh? Se mi piace EDEN? Che mi piaccia o no,
-è diventato parte integrante della vita
-ormai e mi ha semplificato la vita.","咦？　你問我喜不喜歡EDEN？
+è diventato parte integrante della vita ormai e mi ha semplificato
+la vita.","咦？　你問我喜不喜歡EDEN？
 也沒什麼喜不喜歡，因為EDEN是生活必須的基礎設施啊。
 使用起來很方便呢。",,"뭐? 나는 EDEN을 좋아하냐고?
 그야 좋아하고 나발이고 생활에 필요한 인프라니까
@@ -106,25 +100,22 @@ geworden und erleichtert mir vieles."
 真是蠢問題。",,"EDEN을 좋아하냐구?
 …어리석은 질문이구먼","Ob mir EDEN gefällt?
 Was für eine blöde Frage."
-221,4911,,"Ero scettico riguardo al mondo
-virtuale, ma dal mio ritiro EDEN ha
-completamente cambiato la mia vita.","以前看它是虛擬世界還疑神疑鬼的……
+221,4911,,"Ero scettico riguardo al mondo virtuale,
+ma dal mio ritiro EDEN ha completamente cambiato la mia vita.","以前看它是虛擬世界還疑神疑鬼的……
 不過退休後，EDEN卻完全改變了
 我晚年遲暮的人生。",,"옛날엔 가상 세계 같은 거라고 사서 걱정했지만…
 정년퇴직 후 져가던 내 인생을
 EDEN이 일변시켜줬단다","Einst sah ich die virtuelle Welt mit Skepsis, aber
 seit ich in Rente gegangen bin, hat EDEN
 mein Leben von Grund auf verändert."
-222,4911,,"In EDEN, posso abbandonare il mio corpo
-terreno e limitante e fare tutto
-ciò che desidero.","在EDEN，我可以離開不自由的肉體
+222,4911,,"In EDEN, posso abbandonare il mio corpo terreno e limitante e fare
+tutto ciò che desidero.","在EDEN，我可以離開不自由的肉體
 做自己想做的事情。",,"EDEN에선 자유롭지 못한 신체와도 떨어져서
 내가 하고 싶은 대로 할 수 있지","In EDEN kann ich meinen eigentlichen Körper, der
 mich so einschränkt, zurücklassen und
 tun, was ich will."
-223,4911,,"Nel mondo reale ero un ritardatario e
-non ho mai rimorchiato, ma qui in EDEN sono
-un figo! Ho dieci fidanzate! Ahahahahaha!!!","在現實世界因為害羞而不受歡迎的我，
+223,4911,,"Nel mondo reale ero un ritardatario e non ho mai rimorchiato,
+ma qui in EDEN sono un figo! Ho dieci fidanzate! Ahahahahaha!!!","在現實世界因為害羞而不受歡迎的我，
 在這個EDEN裡可是搶手貨……
 我現在有10個女朋友呢！　哇哈哈哈哈！",,"현실 세계에선 소심해서 인기가 없었던 나도
 이 EDEN에선 인기폭발이라 말이여…
@@ -132,23 +123,20 @@ un figo! Ho dieci fidanzate! Ahahahahaha!!!","在現實世界因為害羞而不�
 habe nie Freundinnen abbekommen, aber hier in
 EDEN habe ich jetzt zehn Freundinnen! Hahaha!"
 230,4912,,Amo da morire EDEN!,我最愛EDEN了！,,"나, EDEN이 정―말 좋아!",Mir gefällt EDEN toootaaal!
-231,4912,,"La mia migliore amica si è trasferita e non
-potevo più vederla, ma qui in EDEN
-posso giocare con lei subito!","因為在這裡，
+231,4912,,"La mia migliore amica si è trasferita e non potevo più vederla,
+ma qui in EDEN posso giocare con lei subito!","因為在這裡，
 就算是搬家的朋友也可以馬上玩在一起！",,"왜냐면 이사간 친구랑도
 여기서라면 바로 놀 수 있는걸!","Meine beste Freundin ist weggezogen und ich konnte
 sie nicht besuchen, aber hier in EDEN kann ich
 jederzeit mit ihr spielen!"
-240,4913,,"Tutti dicono sempre che le persone in EDEN
-mentono su chi sono e che non si possono mai
-conoscere le loro vere intenzioni, ma...","雖然有人說在網路上的虛擬世界，
+240,4913,,"Tutti dicono sempre che le persone in EDEN mentono su chi sono e che
+non si possono mai conoscere le loro vere intenzioni, ma...","雖然有人說在網路上的虛擬世界，
 大家都偽裝自己，沒辦法講真心話……",,"넷상의 가상세계는 모두 자신을 거짓으로 꾸며서
 진심으로 이야기할 수 없다고 하지만…","Es heißt, dass die Leute in EDEN immer darüber
 lügen, wer sie sind, und dass man ihre wahren
 Absichten nicht kennen kann, aber ..."
-241,4913,,"Qui le persone non sono vincolate dai
-legami delle loro vite reali, quindi possono dire come
-si sentono veramente. Ecco perché amo EDEN.","但我覺得正因為是這樣一個無設限的世界，
+241,4913,,"Qui le persone non sono vincolate dai legami delle loro vite reali,
+quindi possono dire come si sentono veramente. Ecco perché amo EDEN.","但我覺得正因為是這樣一個無設限的世界，
 反而有辦法吐露出自己的心聲。
 就這層意義來說，EDEN真的是個很厲害的地方。",,"이런 벽이 없는 세계라서
 반대로 진심을 털어놓을 수 있기도 하거든
@@ -156,16 +144,15 @@ si sentono veramente. Ecco perché amo EDEN.","但我覺得正因為是這樣一
 zurückgehalten, wie im echten Leben. Hier können
 sie ehrlich sein. Dafür liebe ich EDEN."
 251,3001,,Mmm...,呼……,,…후우,Hm ...
-252,3001,,"Proprio come pensavo. È davvero un
-buon posto.",這裡果然是個好地方呢。,,"역시 좋은 곳이군, 여기는","Wie ich es mir gedacht hatte. Es ist tatsächlich
+252,3001,,"Proprio come pensavo. È davvero un buon posto.",這裡果然是個好地方呢。,,"역시 좋은 곳이군, 여기는","Wie ich es mir gedacht hatte. Es ist tatsächlich
 ein guter Ort."
 253,2001,,...,……,,……,...
 254,3001,,Sai perché è stato creato EDEN?,"你知道這個EDEN
 為什麼會被創造出來嗎？",,"…너는 왜 이 EDEN이 만들어졌는지
 알고 있나?","Weißt du, warum EDEN erschaffen wurde?"
 255,2001,,"Penso che sia abbastanza
-ovvio... In realtà, no, non ne ho idea. In
-un certo senso.","當然知道囉。
+ovvio... In realtà, no, non ne ho idea.
+In un certo senso.","當然知道囉。
 其實我完全不知道。
 好像知道，又好像不知道。",,"그야 당연히 이미 알고 있지
 실은 전―혀 몰라
@@ -176,78 +163,71 @@ So in etwa."
 是為了“解放心靈”。",,"EDEN이 만들어진 이유…
 그건 ""마음의 해방""을 위해서야","EDEN wurde erschaffen, um den Geist zu befreien."
 257,3001,,"Questo mondo è la ricerca di un sogno
-per liberare se stessi dalle
-catene del corpo terreno...","這裡是可以離開不自由的肉體，
+per liberare se stessi dalle catene del corpo terreno...","這裡是可以離開不自由的肉體，
 解放自己的夢幻世界……",,"여기는 불편한 신체에서 벗어나
 자기 자신을 해방시킬 수 있는 꿈의 세계…","Diese Welt ist die Verwirklichung des Traums,
 das Ich von den Fesseln des irdischen
 Körpers zu befreien ..."
-258,3001,,"EDEN è un luogo davvero unico dove le persone sono
-liberate dagli obblighi della loro vita
-quotidiana, dove possono esprimere il loro vero sé.","EDEN對許多活在“限制”中的人們來說，
+258,3001,,"EDEN è un luogo davvero unico dove le persone sono liberate dagli
+obblighi della loro vita quotidiana, dove possono esprimere il
+loro vero sé.","EDEN對許多活在“限制”中的人們來說，
 是一個可以展現自我、無可取代的場所。",,"EDEN은 많은 ""벽"" 안에 살아가는 사람들에겐
 진실된 자신을 표현할 수 있는 둘도 없는 장소다","EDEN ist ein einzigartiger Ort, wo die Leute von
 den Zwängen des Alltags befreit sind, wo sie
 sich ausdrücken können, wie sie wollen."
 259,2001,,...,……,,……,...
-260,3001,,"Gli sviluppatori di EDEN si sono fatti
-in quattro cercando di realizzare un
-mondo così ideale.","為了創造這個理想的世界，
+260,3001,,"Gli sviluppatori di EDEN si sono fatti in quattro cercando di
+realizzare un mondo così ideale.","為了創造這個理想的世界，
 EDEN開發者們真的是費盡了心血。",,"그런 이상적인 세계를 만들기 위해
 EDEN 개발자들은 그야말로 피를 쏟는 노력을 했어","Die Entwickler von EDEN haben sich die Finger
 wund gearbeitet, um eine solch ideale Welt
 zu erschaffen."
-261,3001,,"Gli sviluppatori trasmisero il loro
-entusiasmo agli utenti, e EDEN divenne un
-rifugio per i virtuosi, che si riunirono qui.","而開發者們的熱情也傳達給用戶，
+261,3001,,"Gli sviluppatori trasmisero il loro entusiasmo agli utenti,
+e EDEN divenne un rifugio per i virtuosi, che si riunirono qui.","而開發者們的熱情也傳達給用戶，
 善意的人們聚集在EDEN，這裡就是一片人間樂土。",,"개발자들의 열의는 유저에게도 전해져
 EDEN은 선의의 사람들이 모이는 그야말로 이 세계의 낙원이 되었다","Die Entwickler haben ihren Enthusiasmus auf die
 Nutzer übertragen, und EDEN ist zur Zuflucht
 für die Rechtschaffenen geworden, die herkamen."
 262,3001,,Ma che fine ha fatto EDEN ora?,然而現在的EDEN呢？,,…하지만 지금의 EDEN은 어떻지?,Aber was ist jetzt aus EDEN geworden?
-263,3001,,"Gli hacker sono furiosi, opprimendo i deboli con la loro
-malvagia volontà. Queste sono le segnalazioni che
-continuano ad arrivare. Questo mondo è in subbuglio.","駭客肆虐，弱者遭欺，
+263,3001,,"Gli hacker sono furiosi, opprimendo i deboli con la loro malvagia
+volontà. Queste sono le segnalazioni che continuano ad arrivare.
+Questo mondo è in subbuglio.","駭客肆虐，弱者遭欺，
 惡意的資訊氾濫，讓世界產生混沌……",,"해커가 날뛰며 돌아다니고 약자는 괴롭힘당하며
 악의적인 정보가 범람해 세계에 혼돈을 낳는다…","Hacker treiben ihr Unwesen und unterdrücken die
 Schwachen mit ihren bösen Absichten. Überall hört
 man davon. Die Welt ist im Aufruhr."
-264,3001,,"EDEN, così com'è ora, non è come avrebbe
-dovuto essere... per niente.","現在的EDEN並非它原有的樣貌……
+264,3001,,"EDEN, così com'è ora, non è come avrebbe dovuto essere... per niente.","現在的EDEN並非它原有的樣貌……
 絕對不是。",,"…지금의 EDEN은 원래 있어야 했을 모습이 아니야
 ……절대로","EDEN, wie es jetzt ist, ist nicht so, wie es sein
 sollte ... ganz und gar nicht."
 265,2001,,...,……,,……,...
-266,3001,,"Li capisco, gli sviluppatori che
-hanno riversato cuore e anima nel
+266,3001,,"Li capisco, gli sviluppatori che hanno riversato cuore e anima nel
 grande ideale che EDEN rappresenta.","我知道那些抱持遠大理想，
 投注心血在EDEN開發上的人們是什麼的心情。",,"나는 커다란 이상을 갖고
 EDEN의 개발에 심혈을 기울인 사람의, 그 마음을 알고 있다","Ich verstehe sie, die Entwickler, die ihr Leben
 dafür geopfert haben, um das große Ideal zu
 verwirklichen, das EDEN repräsentiert."
-267,3001,,"Per questo motivo voglio proteggere
-EDEN. Ancor più di questo, è mio dovere farlo.","所以我才想保護這個EDEN……
+267,3001,,"Per questo motivo voglio proteggere EDEN. Ancor più di questo,
+è mio dovere farlo.","所以我才想保護這個EDEN……
 不對，是我有義務保護。",,"그래서 더더욱 나는 이 EDEN을 지키고 싶다
 …아니, 지킬 의무가 있다","Aus diesem Grund möchte ich EDEN schützen.
 Nein, es ist sogar meine Pflicht, das zu tun."
 268,3001,,Preserverò la loro eredità.,我繼承了他們的想法。,,그들의 의지는 내가 이어받았어,Ich werde ihr Vermächtnis schützen.
 269,2001,,...,……,,……,...
-270,3001,,"Nokia è una brava ragazza. Ama EDEN e i
-Digimon sinceramente, dal profondo del suo cuore.","諾奇雅，她是個非常好的女孩。
+270,3001,,"Nokia è una brava ragazza. Ama EDEN e i Digimon sinceramente,
+dal profondo del suo cuore.","諾奇雅，她是個非常好的女孩。
 純真率直，愛著數碼寶貝以及EDEN。",,"…노키아, 그 아이는 정말 좋은 아이다
 순수하고 솔직하며 디지몬이나 EDEN을 사랑해주고 있어","Nokia ist ein liebes Mädchen. Sie liebt EDEN
 und Digimon aufrichtig, von ganzem Herzen."
-271,3001,,"Gli hacker... beh, in realtà, gli
-Allenatori... che la seguono, sono come lei.","追隨她的駭客……
+271,3001,,"Gli hacker... beh, in realtà, gli Allenatori... che la seguono,
+sono come lei.","追隨她的駭客……
 不，馴獸師們應該也是如此。",,"그 아이를 따르는 해커…
 아니, 테이머들도 그렇겠지","Die Hacker ... also eigentlich die Digimon-Zähmer ...
 die ihr folgen, sind genau wie sie."
-272,3001,,"Quindi, non voglio che vengano
-coinvolti in tutto questo...",所以，我才不想將他們捲進來……,,그래서 나는 그들을 끌어들이고 싶지 않다…,"Deshalb will ich nicht, dass sie in diese Sache
+272,3001,,"Quindi, non voglio che vengano coinvolti in tutto questo...",所以，我才不想將他們捲進來……,,그래서 나는 그들을 끌어들이고 싶지 않다…,"Deshalb will ich nicht, dass sie in diese Sache
 mit hineingezogen werden ..."
-273,3001,,"Io e quegli hacker egocentrici ed egoisti
-siamo gli unici che dovremmo essere a
-rischio.","受傷的人，只要我和
+273,3001,,"Io e quegli hacker egocentrici ed egoisti siamo gli unici che
+dovremmo essere a rischio.","受傷的人，只要我和
 那些腦中只有個人利益的駭客就夠了。",,"위험해지는 건 나나
 사리사욕에 눈이 먼 해커들뿐으로 충분해","Ich und diese selbstsüchtigen Hacker sind die
 einzigen, die Gefahren ausgesetzt werden
@@ -258,8 +238,8 @@ sollten."
 可以想辦法說服她嗎？",,"부탁이다…
 어떻게든 그녀를 설득해주지 않겠나?",Bitte ... Du musst sie überzeugen.
 277,2001,,"Beh...
-Lasciami pensarci
-su... Okay...","這……
+Lasciami pensarci su...
+Okay...","這……
 讓我想一下……
 嗯……",,"그건…
 생각할 시간을 줘…
@@ -267,20 +247,18 @@ su... Okay...","這……
 Lass mich darüber nachdenken ...
 Na gut ..."
 278,3001,,Proprio la risposta che mi aspettavo da te...,我就知道你會這麼說。,,…너다운 대답이군,Ich hatte nichts anderes von dir erwartet ...
-279,3001,,"Capisci cosa intendo, ma non puoi
-abbandonare Nokia, è così?","你了解我的主張，
+279,3001,,"Capisci cosa intendo, ma non puoi abbandonare Nokia, è così?","你了解我的主張，
 但又不能拋下諾奇雅不管——是這麼回事吧……",,"내가 하는 말도 이해하지만
 노키아를 내버려 둘 수는 없다, 라는 건가…","Du verstehst mich, kannst Nokia aber nicht im
 Stich lassen. Ist es das?"
-280,3001,,"Sei molto
-gentile. Lo sei sempre stato, anche allora...","你人真的很好。
+280,3001,,"Sei molto gentile.
+Lo sei sempre stato, anche allora...","你人真的很好。
 說起來，那個時候也是這樣……",,"역시 다정하군, 너는
 그러고 보면 그 때도 그랬지…","Du bist wirklich nett.
 Das warst du schon immer, sogar damals ..."
 281,2001,,?,？？,,??,?
-282,3001,,"Quella volta che ti sei intrufolato nella sede centrale
-di Kamishiro... Anche allora correvi sempre in giro
-preoccupato per tutti gli altri.","潛入神代總公司時……
+282,3001,,"Quella volta che ti sei intrufolato nella sede centrale di Kamishiro...
+Anche allora correvi sempre in giro preoccupato per tutti gli altri.","潛入神代總公司時……
 你那個時候也是為了大家拼命奔走。",,"카미시로 본사에 침입했을 때…
 그 때도 너는 모두를 위해 필사적으로 뛰어다녔다","Damals hast du dich in die Zentrale von Kamishiro
 geschlichen ... Schon damals hast du dir um alle
@@ -288,21 +266,19 @@ anderen Sorgen gemacht."
 283,2001,,!?,！？,,!?,?!
 284,4914,,"Uh... um... [p], non è vero?",不、不好意思，你是……[p]對吧？,,"저, 저기, [p] 씨… 죠?","Äh ... Ähm ... [p], nicht wahr?"
 285,2001,,?,？？,,??,?
-286,4914,,"Ho provato a contattare Nokia, ma sembra che
-fosse impegnata a invitare qualcuno a unirsi a noi,
-quindi non sono riuscito a parlarle.","我想連絡諾奇雅小姐，
+286,4914,,"Ho provato a contattare Nokia, ma sembra che fosse impegnata a
+invitare qualcuno a unirsi a noi, quindi non sono riuscito a parlarle.","我想連絡諾奇雅小姐，
 但她好像招新人招得正起勁，完全連絡不到人……",,"노키아 씨에게 연락하려고 했는데
 아무래도 권유하는 것에 정신이 팔렸는지 연결이 안 돼서…","Ich habe versucht, Nokia zu kontaktieren, aber sie
 war gerade dabei, jemanden zu rekrutieren, also
 konnte ich nicht mit ihr sprechen."
-287,4914,,"Ha detto che dovrei
-contattarti se fossi mai nei guai.","不過她有說
+287,4914,,"Ha detto che dovrei contattarti se fossi mai nei guai.","不過她有說
 遇到什麼麻煩的話就連絡[p]！",,"곤란한 일이 있다면
 [p] 씨에게 연락하라는 얘길 들었으니까 말임다!","Sie meinte, dass ich dich kontaktieren solle,
 falls ich jemals in der Patsche sitzen sollte."
 288,2001,,"Quel piccolo...
-Cos'è successo? Ho
-una brutta sensazione a riguardo...","太隨便了吧……
+Cos'è successo?
+Ho una brutta sensazione a riguardo...","太隨便了吧……
 發生什麼事了？
 我有不好的預感……",,"그렇게 멋대로…
 무슨 일이 있었어?
@@ -319,8 +295,7 @@ Waaaaaah!!!","嗚哇！？　等等、你們、不要……
 嗚哇啊啊啊啊啊————！！",,"우왓!? 잠, 너, 그만…
 우와악아아―――――― 아아, 아아아아―――――!!","Waaas?! Mom– ... Nein ... Stopp.
 Aaahhh!"
-291,3001,,"Sembra un'emergenza... non hai intenzione di
-andare ad aiutarlo?","情況看來似乎很危急……
+291,3001,,"Sembra un'emergenza... non hai intenzione di andare ad aiutarlo?","情況看來似乎很危急……
 你要去救他吧？",,"아무래도 긴급사태인 것 같군…
 …구하러 갈 거지?","Es scheint ein Notfall zu sein ... Wirst du ihm
 nicht helfen?"
@@ -328,31 +303,30 @@ nicht helfen?"
 401,4914,,"Ah...aspetta, no...fa male! Smettila! Ahhhh!!!","等等、我說……
 不要再……傷害我了……噫！！",,"잠깐, 그러니까…
 아픈 짓은… 하지 말아 주… 히이이익!!",Ah ... Aufhören ... Das tut weh! Stopp! Ahhh!
-402,4915,,"Eh!? Non dire cose così
-egoiste! Stai parlando a vanvera!","啊！？　你少自說自話了，
+402,4915,,"Eh!? Non dire cose così egoiste!
+Stai parlando a vanvera!","啊！？　你少自說自話了，
 明明是你先來找我碴的好不好！！",,"뭐어라!? 편한 소리 하지 마라 어이
 네놈이 먼저 시비걸어 왔잖아아아아!!","Was?! Sag nicht so was Egoistisches!
 Das ist völliger Schwachsinn!"
 403,4914,,Cosa!? N-no...,哇啊！？　哪、哪有……不對，不是的！,,"히익!? 아, 아니야… 아니, 아닙니다아!",Was ...?! N-Nein ...
-404,4915,,"Non mentirmi! Mi hai chiamato
-""hacker fallito"", vero!?","少騙人了，
+404,4915,,"Non mentirmi! Mi hai chiamato ""hacker fallito"",
+vero!?","少騙人了，
 你剛才說了“駭客什麼的已經落伍了”對吧！？",,"거짓말 치지 마라
 너, ""해커 따윈 시대에 뒤쳐졌지""라고 했잖아!?","Lüg mich nicht an! Du hast mich einen „Ex-Hacker“
 genannt, oder etwa nicht?"
-405,4914,,"Eh, no, non sono stato io, non ho fatto
-niente! Io...Io non ho detto niente su di te!","呃，不是、那個……
+405,4914,,"Eh, no, non sono stato io, non ho fatto niente!
+Io...Io non ho detto niente su di te!","呃，不是、那個……
 我、我那句話並沒有否定你的意思……",,"아 아니 그건 그러니까 그…
 벼, 별로 그건 당신들을 부정한 게 아니라…","Äh, nein, das war ich nicht! Ich habe nichts
 getan! Ich ... Ich habe nichts über dich gesagt!"
-406,4914,,"Ah!
-[p]!? E...quello è Yuugo degli Zaxon?","啊！　[p]！？
+406,4914,,"Ah! [p]!?
+E...quello è Yuugo degli Zaxon?","啊！　[p]！？
 還有這位……該不會是Zaxon的YUGO先生！？",,"앗! [p] 씨!?
 게다가… 혹시 당신은 잭슨의 유고 씨!?","Ah! [p]?!
 Und ... ist das Yuugo von den Zaxons?"
 407,4914,,"P...per favore, aiutami!",請、請救救我！,,"사, 살려주세요!",B-Bitte helft mir!
-408,4914,,"Stavo solo cercando di aiutare Nokia a
-convincere questo hacker finito ad unirsi
-a noi, ma... beh...poi è successo questo!","我想說可以幫忙諾奇雅小姐，
+408,4914,,"Stavo solo cercando di aiutare Nokia a convincere questo hacker finito
+ad unirsi a noi, ma... beh...poi è successo questo!","我想說可以幫忙諾奇雅小姐，
 就問落伍的駭客要不要加入我們……結果就變成這樣……！",,"조금이라도 노키아 씨의 도움이 되고 싶어서
 시대에 뒤쳐진 해커를 권유했더니… 이런 사태가…!","Ich wollte gerade Nokia helfen, indem ich diesen
 Ex-Hacker dazu bringe, bei uns mitzumachen,
@@ -364,108 +338,101 @@ aber ... dann hat sich die Lage zugespitzt."
 411,3001,,...,……,,……,...
 412,3001,,"Un hacker fallito, eh?",落伍的駭客啊……,,시대에 뒤쳐진 해커인가…,"Ein Ex-Hacker, was?"
 413,2001,,?,？？,,??,?
-414,3001,,"Suppongo che dovremo anche noi cambiare
-con i tempi...","或許我們
+414,3001,,"Suppongo che dovremo anche noi cambiare con i tempi...","或許我們
 也該有所改變了呢……",,"우리도
 변해야만 하는 걸지도 모르겠군","Wir müssen wohl auch mit der Zeit mitgehen,
 schätze ich ..."
-415,4915,,"C...vi schiererete dalla parte di quel
-piccolo gamberetto...? Stava prendendo in giro noi hacker!","你、你……打算包庇這個無名小卒嗎……？
+415,4915,,"C...vi schiererete dalla parte di quel piccolo gamberetto...?
+Stava prendendo in giro noi hacker!","你、你……打算包庇這個無名小卒嗎……？
 他可是把我們駭客當笨蛋耶！？",,"다, 당신… 그 쫄따구를 감싸는 거야…?
 그놈은 우리들 해커를 바보 취급했다고!?","D-Du verteidigst diesen Wurm?
 Er hat sich über uns Hacker lustig gemacht!"
 416,3001,,...E quindi?,那又怎樣？,,…그래서 뭐지?,... Na und?
 417,3001,,"Se quello che quella piccola gamberetto ha spifferato è abbastanza da
-ferire il tuo orgoglio allora immagino che il tuo orgoglio sia piuttosto
-facilmente feribile, non credi?","你口中的無名小卒就算脫口說了什麼，
+ferire il tuo orgoglio allora immagino che il tuo orgoglio sia
+piuttosto facilmente feribile, non credi?","你口中的無名小卒就算脫口說了什麼，
 難道你的自尊心會因為這點程度就受到傷害嗎？",,"네가 말하는 쫄따구가 뭔가 엉겁결에 지껄였다고 하더라도
 네 긍지는 그 정도로 상처가 날 만큼 약한 것인가?","Wenn dich die Worte dieses Wurmes verletzt
 haben, braucht es ja nicht viel, um dich
 zu treffen, was?"
-418,4915,,"Cosaaa'!? Di cosa stai
-parlando!? Adesso mi stai prendendo in giro anche tu!?","你說什麼——！？
+418,4915,,"Cosaaa'!?
+Di cosa stai parlando!? Adesso mi stai prendendo in giro anche tu!?","你說什麼——！？
 是怎樣！　連你也要瞧不起我嗎？",,"뭐어어어어엇!?
 뭔데! 당신까지 나를 바보 취급하는 거야?","Waaas?! Wovon redest du?
 Machst du dich jetzt auch über mich lustig?!"
-419,3001,,"...Potrei facilmente ridurre a pezzi un
-patetico impostore come te. Forza, andiamo!","像你這種假駭客就由我來徹底打垮。
+419,3001,,"...Potrei facilmente ridurre a pezzi un patetico impostore come te.
+Forza, andiamo!","像你這種假駭客就由我來徹底打垮。
 ……來吧！",,"…너 같은 모조품은 내가 분쇄해 주지
 ……와라!","So einen armseligen Möchtegern wie dich könnte
 ich im Handumdrehen zerlegen. Los geht’s!"
-420,4915,,"Non mi importa se ti chiamano leggenda
-vivente... Ques...questo è solo un mucchio di
-aria fritta!","我、我是不曉得什麼活著的傳說還怎樣的，
+420,4915,,"Non mi importa se ti chiamano leggenda vivente...
+Ques...questo è solo un mucchio di aria fritta!","我、我是不曉得什麼活著的傳說還怎樣的，
 反反反正一定只是虛有其表……！！",,"사, 살아 있는 전설인지 뭔지는 몰라도
 어어어어차피 겉만 번지르르한 거겠지…!!","Ist mir egal, ob andere dich eine lebende Legende
 nennen ... Das ist doch alles bloß leeres
 Geschwätz!"
 421,3001,,"[p], facciamolo.",[p]，我們上。,,"[p], 하자","[p], auf geht’s."
 422,4915,,Che la sfida abbia inizio!!!,來就來啊……看我把你們打得落花流水！！,,해 주겠어… 당할까 보냐!!,"Zeigt, was ihr könnt!"
-501,4915,,"C...così...questa...questa è la potenza di
-Yuugo degli Zaxons... È a un livello completamente
-diverso dal mio!","這這這這這就是……Z、Zaxon的YUGO……
+501,4915,,"C...così...questa...questa è la potenza di Yuugo degli Zaxons...
+È a un livello completamente diverso dal mio!","這這這這這就是……Z、Zaxon的YUGO……
 等、等級……也差太多了吧……！",,"이이이이이게… 재, 잭슨의 유고…
 겨, 격이… 너무 다르잖아…!","S-So mächtig ist Yuugo von den Zaxons also.
 Ich kann ihm nicht einmal annähernd das Wasser
 reichen!"
-502,3001,,"Hai la capacità di cambiare, di
-migliorare.",你現在還有改變的機會。,,…너는 지금부터라도 바뀔 수 있다,"Du hast die Fähigkeit, dich zu ändern, dich
+502,3001,,"Hai la capacità di cambiare, di migliorare.",你現在還有改變的機會。,,…너는 지금부터라도 바뀔 수 있다,"Du hast die Fähigkeit, dich zu ändern, dich
 zu bessern."
-503,3001,,"Se vuoi, puoi visitare il forum di
-Zaxon. ...La nostra porta è aperta a tutti.","有那個心的話，可以過來Zaxon廣場。
+503,3001,,"Se vuoi, puoi visitare il forum di Zaxon.
+...La nostra porta è aperta a tutti.","有那個心的話，可以過來Zaxon廣場。
 那裡的大門會為有所求之人平等敞開。",,"그럴 생각이 있다면 잭슨 포럼으로 오도록 해라
 …원하는 자에게는 동등하게 문이 열릴 것이니","Wenn du willst, kannst du dem Zaxon-Forum einen
 Besuch abstatten ... Unsere Tür steht allen offen."
 504,4915,,...,……,,………,...
-505,4914,,"Proprio quello che mi aspetterei da Yuugo
-degli Zaxons. Forza demoniaca e
-un'abilità di portare nuovi membri facilmente...","不、不愧是Zaxon的YUGO先生。
+505,4914,,"Proprio quello che mi aspetterei da Yuugo degli Zaxons.
+Forza demoniaca e un'abilità di portare nuovi membri facilmente...","不、不愧是Zaxon的YUGO先生。
 不只實力堅強，擴增成員好像也很輕而易舉……",,"여, 역시 잭슨의 유고 씨임다
 귀신 같이 강한 데다 순식간에 멤버도 늘린 것 같고…","Von Yuugo von den Zaxons hatte ich nichts anderes
 erwartet. Dämonische Stärke und die Fähigkeit,
 schnell neue Mitglieder zu rekrutieren ..."
 506,4914,,Sarebbe stato meglio farlo con Nokia...,如果你和諾奇雅小姐一起聯手就好了。,,…노키아 씨와도 함께하면 좋을 텐데,Mit Nokia wäre es besser gewesen ...
-507,3001,,"...Dimmi, perché ti sei unito alla sua
-squadra ribelle?","請告訴我，
+507,3001,,"...Dimmi, perché ti sei unito alla sua squadra ribelle?","請告訴我，
 為什麼你會加入她的團隊……加入反叛者呢？",,"…들려주겠나
 너는 어째서 그녀의 팀에… 리벨리온즈에 들어간 거지?","... Verrate mir, warum hast du dich ihren Rebels
 angeschlossen?"
 508,4914,,...Eh? Perché?,咦？　為、為什麼？,,"…어? 어, 어째서?",... Was? Warum?
-509,4914,,"...Uhm...beh, io...suppongo sia perché
-Nokia è onesta.","呃，這、這個嘛。
+509,4914,,"...Uhm...beh, io...suppongo sia perché Nokia è onesta.","呃，這、這個嘛。
 因為諾奇雅小姐個性很直率。",,"……으음, 그, 그검다
 …노키아 씨가 올곧았기 때문임다","... Ähm ... nun ja, ich ... Ich würde sagen, weil
 Nokia ehrlich ist."
 510,3001,,?,？？,,??,?
-511,4914,,"Mi piace EDEN. Anzi, a dire il vero è più
-di questo. Sono un completo fanatico di EDEN.","我喜歡EDEN。
+511,4914,,"Mi piace EDEN. Anzi, a dire il vero è più di questo.
+Sono un completo fanatico di EDEN.","我喜歡EDEN。
 說白一點，根本是個重度的EDEN御宅族……",,"저, EDEN이 정말 좋슴다
 좋다고 할까 까놓고 말해 이미 중증의 EDEN 오타쿠라…","Ich mag EDEN. Um ehrlich zu sein, ist das noch
 untertrieben. Ich bin völlig verrückt nach EDEN."
 512,4914,,Odio quello che EDEN è diventato.,我絕對不想看到EDEN變得怪異失常。,,…EDEN이 이상해지는 건 절대로 싫슴다,"Ich hasse, was aus EDEN geworden ist."
-513,4914,,"Volevo quindi fare qualcosa al riguardo, ma... non
-avevo idea di cosa dovessi fare... Ero perso...","所以我也想為EDEN做點什麼……
+513,4914,,"Volevo quindi fare qualcosa al riguardo, ma...
+non avevo idea di cosa dovessi fare... Ero perso...","所以我也想為EDEN做點什麼……
 但我完全沒有頭緒該怎麼做才好……一直很迷惘……",,"그러니까 저도 EDEN을 위해 뭔가 하고 싶었지만…
 어쩌면 좋을지 전혀 모르겠어서… 헤맸는데…","Deshalb wollte ich etwas dagegen unternehmen, aber
 ich wusste nicht, was ... Ich war ziellos ..."
-514,4914,,"Nokia sta proteggendo EDEN e i
-Digimon a modo suo, diretto e onesto.","而諾奇雅小姐只是很單純地
+514,4914,,"Nokia sta proteggendo EDEN e i Digimon a modo suo,
+diretto e onesto.","而諾奇雅小姐只是很單純地
 用她自己的方式在保護EDEN和數碼寶貝。",,"노키아 씨는 심플하게 단순히
 자신의 방법으로 EDEN이나 디지몬을 지키려고 하고 있슴다","Nokia schützt EDEN und die Digimon auf ihre
 eigene Weise, ehrlich und geradeheraus."
-515,4914,,"Quando ho visto questo, mi sono sentito uno
-stupido. Come se dovessi fare qualcosa, qualsiasi cosa.","看到她那樣，就覺得自己這麼煩惱顯得很可笑，
+515,4914,,"Quando ho visto questo, mi sono sentito uno stupido.
+Come se dovessi fare qualcosa, qualsiasi cosa.","看到她那樣，就覺得自己這麼煩惱顯得很可笑，
 覺得坐立難安、心情無法平靜下來……",,"그걸 보니 고민하던 자신이 바보같아졌달까
 가만히 있을 수가 없어졌달까…","Als ich das sah, fühlte ich mich wie ein Idiot.
 Ich dachte, ich muss etwas tun. Irgendwas."
-516,4914,,"Quindi ho deciso che avrei aiutato Nokia con
-il suo approccio semplice e onesto!","所以我才決定
+516,4914,,"Quindi ho deciso che avrei aiutato Nokia con il suo approccio semplice
+e onesto!","所以我才決定
 要單純地協助諾奇雅小姐！",,"그래서 저, 심플하고 단순하게
 노키아 씨에게 협력해볼까 하고, 그렇게 정했슴다!","Also beschloss ich, Nokia bei ihrem einfachen,
 ehrlichen Unterfangen zu helfen."
 517,3001,,...,……,,……,...
-518,4914,,"Eh!? Ah, parla del diavolo, sto ricevendo una
-chiamata da Nokia! Io... devo andare a rispondere!","嗚哇！說曹操，曹操到。諾奇雅小姐發訊過來了！
+518,4914,,"Eh!? Ah, parla del diavolo, sto ricevendo unachiamata da Nokia!
+Io... devo andare a rispondere!","嗚哇！說曹操，曹操到。諾奇雅小姐發訊過來了！
 那、那我就此告辭！！",,"흐아왓! 호랑이도 제말 하면 온다더니, 노키아 씨한테서 통신임다!
 저, 저는 이제 실례하겠슴다!!","Huch?! Wenn man vom Teufel spricht. Nokia ruft
 mich gerade an! Ich ... Ich muss rangehen!"
@@ -483,31 +450,28 @@ Nokia, meine ich."
 524,2001,,?,？？,,??,?
 525,3001,,Ci stanno portando a fare una caccia all'oca.,總會被某個東西耍得團團轉的這一點。,,"무언가에 휘둘려지며 살아가는 것이, 말이야",Wir bemühen uns beide vergeblich um etwas.
 526,3001,,"...Ma ti prego, preparati.",不過請你做好心理準備。,,…하지만 각오해두길 바란다,... Aber halte dich bitte bereit.
-527,3001,,"La prossima volta che ci incontreremo
-saremo nemici.",下次見面時，我們就是敵人了。,,"다음에 만날 때는, 적이야","Wenn wir uns das nächste Mal sehen, werden wir
+527,3001,,"La prossima volta che ci incontreremo saremo nemici.",下次見面時，我們就是敵人了。,,"다음에 만날 때는, 적이야","Wenn wir uns das nächste Mal sehen, werden wir
 Feinde sein."
 601,3006,,...Ti ha chiesto di proteggerla?,叫你保護她是嗎……,,"…그녀를 지켜주길 바란다, 라","... Er hat dich gebeten, sie zu schützen?"
-602,3006,,"All'inizio il caso serviva solo a
-ostacolare le sue attività, no? Quel
-ragazzo è confuso...","他一開始的委託不是要阻止她的行動嗎？
+602,3006,,"All'inizio il caso serviva solo a ostacolare le sue attività, no?
+Quel ragazzo è confuso...","他一開始的委託不是要阻止她的行動嗎？
 那個少年還真是不坦率啊。",,"첫 의뢰는 그녀의 행동을 막아달라는 거였지?
 …꽤나 꼬인 녀석이군, 그 소년은","Zuerst ging es bei dem Fall darum, bloß ihre
 Aktivitäten zu behindern, oder? Der Junge
 ist verwirrt ..."
 603,3006,,Quel ragazzo è confuso...,那個少年還真是不坦率啊。,,"…꽤나 꼬인 녀석이군, 그 소년은",Der Junge ist verwirrt ...
-604,3006,,"Da quello che sento dalla tua storia sembra che i
-suoi sentimenti per EDEN e il suo senso del dovere
-siano solo un'angoscia adolescenziale...","聽你說下來的感覺，他的EDEN感以及使命感
+604,3006,,"Da quello che sento dalla tua storia sembra che i suoi sentimenti
+per EDEN e il suo senso del dovere siano solo un'angoscia
+adolescenziale...","聽你說下來的感覺，他的EDEN感以及使命感
 應該是青春期才有的“想太多”……",,"네 이야기를 들어보면 그는 EDEN감이나 사명감은
 사춘기 특유의 ""지나친 생각"" 같은 것 같지만…","Deiner Geschichte nach zu urteilen, sind seine
 Gefühle für EDEN und sein Pflichtgefühl nur
 typisches Teenie-Verhalten ..."
 605,3006,,"Bene, è un bene.",不過這樣也好啦。,,"뭐, 그건 괜찮겠지","Na, das ist ja gut."
-606,3006,,"...La maggior parte delle persone non si lascia
-smuovere dalle semplici parole.",很多事情不是用“說的”就好。,,"…대체적인 건 ""말""로는 움직이지 않아","Die meisten Leute werden von Worten allein
+606,3006,,"...La maggior parte delle persone non si lascia smuovere dalle
+semplici parole.",很多事情不是用“說的”就好。,,"…대체적인 건 ""말""로는 움직이지 않아","Die meisten Leute werden von Worten allein
 nicht motiviert."
-607,3006,,"I possibili eventi del futuro dovrebbero
-spingerti in avanti.","今後可能會發生的某起“事件”
+607,3006,,"I possibili eventi del futuro dovrebbero spingerti in avanti.","今後可能會發生的某起“事件”
 應該會促使你們向前進。",,"이후 일어날 어느 정도의 ""사건""이
 너희들을 앞으로 나아가게 해 줄 거다","Die möglichen Zukunftsaussichten sollten dich
 antreiben."
@@ -516,11 +480,10 @@ Onestamente e come si deve, per giunta.","說話回來那個少年還真有禮�
 不忘把委託報酬付給我們。",,"…그건 그렇고 그 소년
 성실하게도 확실히 의뢰 보수를 지불해 줬어","Na jedenfalls hat er unser Honorar bezahlt.
 Ehrlich und wie es sich gehört."
-609,3006,,"Forse è un po' confuso, ma è stato
-cresciuto bene.",雖然個性不坦率，不過家教或許蠻好的。,,꼬여 있긴 하지만 교육은 잘 받았을지도 모르겠군,"Er mag etwas verwirrt sein, aber er wurde gut
+609,3006,,"Forse è un po' confuso, ma è stato cresciuto bene.",雖然個性不坦率，不過家教或許蠻好的。,,꼬여 있긴 하지만 교육은 잘 받았을지도 모르겠군,"Er mag etwas verwirrt sein, aber er wurde gut
 erzogen."
-610,3006,,"...In realtà, probabilmente è
-perché è cresciuto così bene che è confuso.","當然也有可能正因為他家教好，
+610,3006,,"...In realtà, probabilmente è perché è cresciuto così bene che è
+confuso.","當然也有可能正因為他家教好，
 個性才會不坦率吧。",,"…뭐, 애초에
 교육을 잘 받았기 때문에 꼬여 있는 걸지도 모르지만","Wahrscheinlich liegt es sogar an seiner
 guten Erziehung, dass er jetzt verwirrt ist."
