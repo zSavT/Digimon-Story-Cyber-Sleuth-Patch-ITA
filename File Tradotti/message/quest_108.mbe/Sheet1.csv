@@ -6,14 +6,13 @@
 어쩌면 좋지…",Hm ... Was soll ich nur tun ...
 103,2001,,...,……,,……,...
 104,3017,,!!!,！！,,!!,!!!
-105,3017,,"Oh!
-[p]!? ...Da quanto tempo sei lì!?","嗚喔！　[p]！？
+105,3017,,"Oh! [p]!?
+...Da quanto tempo sei lì!?","嗚喔！　[p]！？
 你什麼時候站在那裡的！？",,"오오오! [p]!?
 …너, 언제부터 거기 있었어!?","Ach! [p]?!
 ... Wie lange bist du schon hier?!"
-106,3017,,"Sembra che i tuoi molti anni di esperienza come
-detective ti abbiano reso un maestro
-della furtività...","難道說……在漫長的偵探助手生活中，
+106,3017,,"Sembra che i tuoi molti anni di esperienza come detective ti abbiano
+reso un maestro della furtività...","難道說……在漫長的偵探助手生活中，
 你終於得到隱匿氣息的能力了嗎？",,"설마… 긴 탐정 조수 생활로
 결국 기척을 없애는 능력을 손에 넣은 거야?","Anscheinend bist du durch all die Berufserfahrung
 als Detektiv richtig gut im Anschleichen
@@ -21,31 +20,28 @@ geworden ..."
 107,3017,,...,……,,……,...
 108,3017,,"No, non può essere...",怎麼可能嘛……,,그럴 리가 없나…,"Nein, das kann es nicht sein ..."
 109,3017,,"Mmm? Di cosa mi sto preoccupando?
-Dannazione, come hai fatto a
-capirlo! Sei troppo bravo con le cose da detective...","嗯？　你問我一臉凝重在煩惱什麼？
+Dannazione, come hai fatto a capirlo!
+Sei troppo bravo con le cose da detective...","嗯？　你問我一臉凝重在煩惱什麼？
 被你發現了嗎！　不愧是電腦偵探！",,"응? 뭘 성대하게 고민하고 있냐고?
 들켰나! 역시 전뇌탐정이군!","Hm? Worüber ich mir Sorgen mache?
 Mist, wie hast du das gemerkt?
 Du bist einfach zu gut als Detektiv ..."
-110,3017,,"...Beh, forse è meglio chiedere a te di questa
-cosa comunque. Non sembra che risolverò
-questa da solo...","對了，乾脆委託你們好了。
+110,3017,,"...Beh, forse è meglio chiedere a te di questa cosa comunque.
+Non sembra che risolverò questa da solo...","對了，乾脆委託你們好了。
 一個人煩惱這種事情也很那個嘛，嗯。",,"…그렇지, 네 쪽에 의뢰해볼까
 이런 건 혼자서 고민해도 그거니까, 응","... Vielleicht sollte ich dich sowieso um Rat
 fragen. Allein werde ich es wohl nicht lösen
 können ..."
-130,3017,,"Non ho intenzione di risolvere questa da solo
-comunque. Probabilmente è meglio chiedere
-aiuto a te...","一個人煩惱這種事情也很那個嘛，嗯。
+130,3017,,"Non ho intenzione di risolvere questa da solo comunque. 
+Probabilmente è meglio chiedere aiuto a te...","一個人煩惱這種事情也很那個嘛，嗯。
 乾脆委託你們好了。",,"혼자서 고민해도 그거니까, 응
 네 쪽에라도 의뢰해 볼까","Allein werde ich das wohl nicht lösen können.
 Wahrscheinlich ist es besser, dich um Hilfe
 zu bitten."
-151,3006,,"La tua ragazza uscirà presto
-dall'ospedale e vuoi farle un regalo!?",想要送禮物給就快出院的女朋友！？,,곧 퇴원하는 여자친구에게 선물을 주고 싶다고!?,"Deine Freundin wird bald aus dem Krankenhaus
+151,3006,,"La tua ragazza uscirà presto dall'ospedale e vuoi farle un regalo!?",想要送禮物給就快出院的女朋友！？,,곧 퇴원하는 여자친구에게 선물을 주고 싶다고!?,"Deine Freundin wird bald aus dem Krankenhaus
 entlassen und du willst ihr etwas schenken?"
-152,3017,,"Ah! Kyoko, tieni la voce un
-po' più bassa! Sakura... Non è ancora la mia ragazza...","喂、杏子姊，太大聲了啦。
+152,3017,,"Ah! Kyoko, tieni la voce un po' più bassa!
+Sakura... Non è ancora la mia ragazza...","喂、杏子姊，太大聲了啦。
 而且櫻現在……還不是我的女朋友。",,"잠깐, 쿄코 씨, 목소리가 커
 게다가 사쿠라는… 지금은 아직 여자친구가 아니고","Ach! Kyoko, nicht so laut!
 Sakura ... ist noch nicht meine Freundin ..."
@@ -58,16 +54,15 @@ dalle quello che vuoi...","而且，想送禮物的話
 就儘管送啊？",,"게다가 선물을 주고 싶다면
 마음대로 주면 되잖나?","Wenn du ihr etwas schenken willst, gib ihr
 einfach, was du möchtest ..."
-156,3017,,"Vorrei prendere qualcosa che piacerebbe a una
-ragazza. Potresti aiutarmi a scegliere qualcosa?","我想說既然要送，就送「抓住少女心的禮物」……
+156,3017,,"Vorrei prendere qualcosa che piacerebbe a una ragazza.
+Potresti aiutarmi a scegliere qualcosa?","我想說既然要送，就送「抓住少女心的禮物」……
 所以才希望你們可以幫我挑選禮物。",,"이왕이면「여심을 사로잡는 선물」을 주고 싶어서…
 그러니까 선물 고르기에 협력해줬으면 해","Ich möchte etwas, was einem Mädchen gefällt.
 Kannst du mir helfen, etwas auszusuchen?"
 157,3006,,"Ma... sai che dovrai pagare per questo
 se si tratta di un caso ufficiale, giusto?",不過……你要委託事務所的話，就要收費哦？,,하지만… 사무소에 하는 의뢰는 비용이 발생하는데?,"Aber ... Du weißt, dass du ein Honorar zahlen
 musst, wenn es ein offizieller Fall ist, oder?"
-158,3017,,"Va bene. Voglio solo
-che lei abbia il miglior regalo possibile.","只要可以送最棒的禮物給櫻，
+158,3017,,"Va bene. Voglio solo che lei abbia il miglior regalo possibile.","只要可以送最棒的禮物給櫻，
 付錢我也沒關係。",,"그래도 괜찮아
 사쿠라에게 최고의 선물을 줄 수 있다면야","Das geht schon in Ordnung.
 Ich möchte einfach nur das beste Geschenk für sie."
@@ -76,29 +71,28 @@ Non pensi di stare portando le cose un po' troppo oltre?","既然你都這麼說
 但只是慶祝她出院而已，會不會太誇張了？",,"…그렇게까지 말한다면 말리지는 않겠다만
 겨우 퇴원 축하 정도로 너무 소란피우는 거 아닌가?","Nun ja, sie kommt doch bloß aus dem Krankenhaus.
 Findest du das nicht etwas übertrieben?"
-160,3017,,"...Cavolo, dacci un taglio! Lo
-so che sei un detective e tutto, ma smettila di analizzare
+160,3017,,"...Cavolo, dacci un taglio!
+Lo so che sei un detective e tutto, ma smettila di analizzare
 costantemente ogni minima cosa, per una volta!","妳很囉唆耶，
 偵探不要挖委託人的隱私啦。",,"…정말이지 시끄럽네
 탐정 주제에 너무 의뢰인에 대해 파고들지 말라고","... Ach, hör schon auf!
 Ich weiß, du bist ein Detektiv, aber du musst
 nicht ständig alles analysieren!"
 161,3006,,"Heeheeheehee...
-È una mia regola personale non accettare un caso
-a meno che non lo comprenda completamente.","呵呵呵呵呵……
+È una mia regola personale non accettare un caso a meno che non lo
+comprenda completamente.","呵呵呵呵呵……
 我這個人只接自己願意接受的委託。",,"후후후후후…
 나는 스스로가 납득하는 의뢰밖에 받지 않는 주의라서 말이지","Hihihihi ...
 Ich nehme grundsätzlich nur Fälle an,
 die ich ganz und gar verstehe."
-162,3006,,"Ma, okay, suppongo che possa fare
-un'eccezione, solo per ora...","也罷，
+162,3006,,"Ma, okay, suppongo che possa fare un'eccezione, solo per ora...","也罷，
 這件事我就“先不過問”了。",,"뭐, 좋아
 그건 일단 ""외상""으로 해두지","Aber vielleicht kann ich einmal eine Ausnahme
 machen ... Vorerst."
 163,3017,,"""Solo per ora""? Sembra spaventoso...",先不過問？　怎麼感覺有點可怕……,,외상? 그건 그거대로 왠지 무섭네…,„Vorerst“? Das klingt beängstigend ...
-164,3017,,"Mi servono soldi per comprare il regalo, quindi
-troverò un lavoro part-time! Ho sentito
-parlare di alcuni posti infestati fuori da EDEN.","我要去打工賺買禮物的資金了！
+164,3017,,"Mi servono soldi per comprare il regalo,
+quindi troverò un lavoro part-time!
+Ho sentito parlare di alcuni posti infestati fuori da EDEN.","我要去打工賺買禮物的資金了！
 聽說EDEN郊區有個不錯的靈異地點。",,"나는 선물 대금을 벌기 위해 알바하고 올게!
 EDEN 교외에 괜찮은 심령 스팟이 있다는 것 같아","Ich brauche Geld, um das Geschenk zu kaufen, also
 nehme ich einen Teilzeitjob an! Außerhalb von
@@ -106,22 +100,19 @@ EDEN soll es Orte geben, an denen es spukt."
 165,3017,,Ma avrò ancora bisogno del tuo aiuto!,之後的事就拜託你們了！,,나중 일은 잘 부탁해!,Aber ich brauche trotzdem deine Hilfe!
 166,3006,,"...Hmm, sta ancora lavorando nella fotografia di fantasmi?",他還在做那個拍靈異照片的打工啊。,,…그는 아직 심령사진 알바를 하고 있는 건가,"... Hm, macht er immer noch Geisterfotografie?"
 167,3006,,...,……,,……,...
-168,3006,,"Beh,
-immagino vada bene... Quindi, stiamo cercando
-qualcosa che piacerebbe a una ragazza.","算了，這件事不重要……
+168,3006,,"Beh, immagino vada bene... 
+Quindi, stiamo cercando qualcosa che piacerebbe a una ragazza.","算了，這件事不重要……
 問題是「抓住少女心的禮物」……",,"뭐 그런 건 아무래도 좋아…
 …요점은「여심을 사로잡는 선물」인가…","Na gut ...
 Wir suchen also etwas, das einem
 Mädchen gefallen würde."
-169,3006,,"Mi dispiace, ma ho smesso di pensare da ragazza
-molto tempo fa, e tu sei troppo
-mondano, quindi questo ci crea un piccolo problema.","很遺憾地，我已經失去少女心這東西很久了。
+169,3006,,"Mi dispiace, ma ho smesso di pensare da ragazza molto tempo fa,
+e tu sei troppo mondano, quindi questo ci crea un piccolo problema.","很遺憾地，我已經失去少女心這東西很久了。
 而且你似乎也跟這類的東西無緣。",,"안타깝게도 나는 여심이라는 것을 잃어버린 지 오래됐다
 게다가 너도 그런 것과는 연이 없는 것 같군","Leider habe ich vor langer Zeit aufgehört, wie ein
 Mädchen zu denken, und du bist zu
 pragmatisch. Das heißt, wir haben ein Problem."
-170,3006,,"In questa situazione, direi che
-dovresti chiedere alle tue amiche.","這種時候，去問問你有少女情懷的朋友
+170,3006,,"In questa situazione, direi che dovresti chiedere alle tue amiche.","這種時候，去問問你有少女情懷的朋友
 應該是最好的方法吧？",,"이럴 때는 네 소녀틱한 친구에게
 물어보는 게 제일 좋지 않을까?","In diesem Fall würde ich vorschlagen, dass du
 deine femininen Freunde fragst."
@@ -136,21 +127,21 @@ Magari Nokia?","該不會是新？
 혹시나 노키아?","Vielleicht Arata?
 Vielleicht Yuuko?
 Vielleicht Nokia?"
-174,3006,,"Beh, non è proprio femminile, ma se dovessi dire qualcosa
-direi che mi sembra una specie di romantico infantile...","不……他應該不是少女情懷吧。
+174,3006,,"Beh, non è proprio femminile, ma se dovessi dire qualcosa direi che
+mi sembra una specie di romantico infantile...","不……他應該不是少女情懷吧。
 真要說的話，比較像是孩子氣的浪漫主義者。",,"아니… 그는 소녀틱, 일 리가 없지
 어느 쪽이냐면 아이 같은 로맨티시스트, 라는 인상이다","Er ist nicht wirklich feminin, aber er hat
 so eine kindlich romantische Ader ..."
 175,3006,,"Beh... Non è proprio il tipo.
-È ingenua e probabilmente non le
-importerebbe che tipo di regalo sia, direi.","不……她不是那種類型吧。
+È ingenua e probabilmente non le importerebbe che tipo di regalo sia,
+direi.","不……她不是那種類型吧。
 她應該是那種純樸、對禮物沒什麼講究的人。",,"아니… 그녀는 그런 타입이 아니군
 소박하고 선물의 종류에는 무관심, 이라는 정도지","Nein, sie ist nicht der richtige Typ.
 Sie ist naiv und würde sich wahrscheinlich
 nicht darum scheren, was für ein Geschenk es ist."
 176,3006,,"Perfetto! Probabilmente non è davvero quel
-tipo di persona, ma almeno farà del
-suo meglio... o almeno così mi sembra.","沒錯……雖然本質可能不是那樣，
+tipo di persona, ma almeno farà del suo meglio...
+o almeno così mi sembra.","沒錯……雖然本質可能不是那樣，
 在我看來，至少她本人是朝少女路線前進的……",,"그렇다… 어쩌면 본질은 다를지도 모르지만
 적어도 본인은 그걸 목표로 하고 있다…는 듯이 보인다","Perfekt! Sie ist wahrscheinlich nicht die richtige
 Person, aber sie wird zumindest ihr Bestes
@@ -158,35 +149,32 @@ geben ... So wirkt sie jedenfalls auf mich."
 177,3006,,"Hmm, penso che sia a Shinjuku in questo momento...","嗯……
 看來她現在人在「新宿」。",,"…흐음
 아무래도 그녀는 지금「신주쿠」에 있는 듯하군","Hm, ich glaube, sie ist gerade in Shinjuku ..."
-178,3006,,"Vai a chiederle un parere
-sui regali per ragazze.","去找她問問
+178,3006,,"Vai a chiederle un parere sui regali per ragazze.","去找她問問
 什麼是「抓住少女心的禮物」吧。",,"「여심을 사로잡는 선물」에 대해
 의견을 물어보고 오도록","Geh hin und frag sie nach ihrer Meinung darüber,
 was man einem Mädchen schenken sollte."
-201,3006,,"Vai a chiedere a Nokia Shiramine la sua
-opinione sui regali per ragazze.","去找白峰諾奇雅問問
+201,3006,,"Vai a chiedere a Nokia Shiramine la sua opinione sui regali per
+ragazze.","去找白峰諾奇雅問問
 什麼是「抓住少女心的禮物」吧。",,"「여심을 사로잡는 선물」에 대해
 시라미네 노키아에게 의견을 물어보고 오도록","Geh hin und frag Nokia Shiramine nach ihrer
 Meinung zu Geschenken für Mädchen."
-251,3002,,"Eh? Stai cercando un regalo per
-una ragazza? Hai più informazioni di così?","什麼？　你在找「抓住少女心的禮物」？
+251,3002,,"Eh? Stai cercando un regalo per una ragazza?
+Hai più informazioni di così?","什麼？　你在找「抓住少女心的禮物」？
 問我有沒有什麼頭緒？",,"뭐?「여심을 사로잡는 선물」을 찾고 있어?
 뭔가 짐작가는 거 없냐고?","Was? Du suchst ein Geschenk für ein Mädchen?
 Kannst du mir noch etwas mehr darüber erzählen?"
-252,3002,,"Hmm... un regalo per una ragazza...
-...ma [p], perché lo stai chiedendo a me?","嗯嗯……少女心禮物啊……
+252,3002,,"Hmm... un regalo per una ragazza... ...ma [p],
+perché lo stai chiedendo a me?","嗯嗯……少女心禮物啊……
 不過[p]，為什麼你要問這種東西？",,"흠흠… YSS인가…
 …그런데 [p], 왜 그런 걸 물어보는 거야?","Hm ... Ein Geschenk für ein Mädchen ...
 ... Aber warum fragst du mich das, [p]?"
 253,3002,,"...OMG!!! Ti PIACE qualcuno, vero!?",……難道說！！　你有喜歡的人了！？,,…설맛!! 좋아하는 사람이 생겼어!?,"... OMG! Du MAGST jemanden, nicht wahr?!"
 254,2001,,!?,！？,,!?,?!
-255,3002,,"Ma... mi hai già... Aspetta, è per
-quello...?","明明都有我在了……
+255,3002,,"Ma... mi hai già... Aspetta, è per quello...?","明明都有我在了……
 不對，就是因為有我在……嗎？",,"나라는 존재가 있는데
 아니, 나라는 존재가 있으니까… 인 거야?","Aber ... du hast doch mich ... Ist das der
 Grund ...?"
-256,3002,,"Ma dato che non puoi avermi tutto
-per te devi trovare qualcun altro...
+256,3002,,"Ma dato che non puoi avermi tutto per te devi trovare qualcun altro...
 Probabilmente è così...","因為怎樣都無法獨佔我，
 所以累積太多鬱悶……最後乾脆去找別人之類的？",,"나라는 존재를 어떻게 해서든 독차지하고 싶은 나머지
 그 울분이 쌓여서… 다른 누군가로 해결하자, 같은?","Aber da du mich nicht ganz für dich allein haben
@@ -194,16 +182,15 @@ kannst, musst du jemand anderen finden ...
 So ist das mit Sicherheit ..."
 257,2001,,...,……,,……,...
 258,3002,,"Credo di essere troppo intimidatorio per la maggior
-parte dei ragazzi... ma se nessuno mi si avvicina
-perché hanno paura... Non è un buon segno....","我真是一個罪惡的女人啊。
+parte dei ragazzi... ma se nessuno mi si avvicina perché hanno paura...
+Non è un buon segno....","我真是一個罪惡的女人啊。
 連我自己都感到可怕……將來一定不得了。",,"나도 참 정말이지 죄 많은 여자네
 스스로도 무서워져… 미래가 두렵다고 할까","Ich schüchtere die meisten Kerle wahrscheinlich zu
 sehr ein. Aber wenn mir niemand nahe kommt, weil
 jeder Angst hat ... Kein gutes Zeichen ..."
 259,3002,,"Ma... io e [p], non siamo così.",不過……我和[p]不是那樣的嘛，對不對。,,하지만… 나랑 [p]는(은) 그런 게 아니지,"Aber ... [p] und ich, wir sind anders."
-260,3002,,"Come Ribelli, condividiamo tutti gli stessi
-obiettivi, gli stessi ideali... Abbiamo una
-relazione speciale che può superare qualsiasi ostacolo!","就反叛者的角度，我們是擁有同樣志向的伙伴……
+260,3002,,"Come Ribelli, condividiamo tutti gli stessi obiettivi, gli stessi
+ideali... Abbiamo una relazione speciale che può superare qualsiasi ostacolo!","就反叛者的角度，我們是擁有同樣志向的伙伴……
 我們之間是超越各種意義的特別關係對不對！？",,"리벨리온즈로서 같은 의지를 공유하는 동료…
 여러 가지를 초월한 특별한 관계니까 말야!?","Als Rebels haben wir die gleichen Ziele, die
 gleichen Ideale. Wir haben eine besondere
@@ -212,72 +199,66 @@ Beziehung, die alle Hindernisse überwindet ..."
 262,3002,,"...Quindi, qual è di nuovo la richiesta?","然後呢？
 你找我有什麼事來著？",,"…그래서?
 용건이 뭐였더라?",... Was war noch mal die Frage?
-263,3002,,"Ah, si trattava del regalo per una
-ragazza. Sei venuto nel posto
-giusto! Io sono un esperto in materia!","喔，是少女心禮物對吧。
+263,3002,,"Ah, si trattava del regalo per una ragazza.
+Sei venuto nel posto giusto!
+Io sono un esperto in materia!","喔，是少女心禮物對吧。
 問我這個少女心的傳教者，你真是問對人了！",,"그렇지, YSS 얘기였지
 잘 물어봐 주셨습니다! 여심의 전도사인 이 내게!","Ach, es ging um ein Geschenk für ein Mädchen.
 Da bist du bei mir richtig!
 Auf dem Gebiet bin ich eine Expertin!"
 264,3002,,"Quando si tratta di regali per le ragazze,
-non si può sbagliare con gli
-accessori! ACCESSORI!","女孩子會喜歡的禮物當然就是飾品囉！
+non si può sbagliare con gli accessori! ACCESSORI!","女孩子會喜歡的禮物當然就是飾品囉！
 飾、品！",,"여자아이가 기뻐하는 선물이라고 하면 역시 액세서리지!
 액 세 서 리!","Wenn es um Geschenke für Mädchen geht, kann man
 mit Accessoires nichts falsch machen!
 ACCESSOIRES!"
-265,3002,,"Le ragazze mangiano, dormono e respirano
-accessori! Sono un po' costosi, ma che ne dici
-di una collana da Vivian's?","飾品對女孩子來說是永遠的夢想、希望與憧憬！
+265,3002,,"Le ragazze mangiano, dormono e respirano accessori!
+Sono un po' costosi, ma che ne dici di una collana da Vivian's?","飾品對女孩子來說是永遠的夢想、希望與憧憬！
 雖然有點貴，不過「蓓蓓洋的項鍊」怎麼樣？",,"액세서리는 여자아이에게 있어서 영원한 꿈이고 희망인 동시에 동경이야!
 조금 비싸긴 하지만「비비앙 목걸이」같은 건 어때?","Bei Mädchen dreht sich alles um Accessoires!
 Die können schon teuer sein, aber wie wäre es
 mit einer Kette von Vivian?"
 266,2001,,...,……,,……,...
 267,2001,,Discutiamone in ufficio.,先回事務所商量一下好了。,,한번 사무소로 돌아가서 상담해보자,Lass uns im Büro darüber sprechen.
-301,3002,,"Se stai cercando un regalo per una
-ragazza, sono un po' costosi, ma che ne
-dici di una collana da Vivian's?","少女心禮物當然就是飾品了！
+301,3002,,"Se stai cercando un regalo per una ragazza,
+sono un po' costosi, ma che ne dici di una collana da Vivian's?","少女心禮物當然就是飾品了！
 雖然有點貴，不過「蓓蓓洋的項鍊」怎麼樣？",,"YSS라면 반드시 액세서리지!
 조금 비싸긴 하지만「비비앙 목걸이」같은 건 어때?","Wenn du ein Geschenk für ein Mädchen suchst,
 kann es schon teuer werden, aber wie wäre es
 mit einer Halskette von Vivian?"
 401,3006,,Una collana...? Non male...,項鍊啊……聽起來是不錯……,,목걸이라… 나쁘진 않지만…,Eine Halskette ...? Nicht schlecht ...
-402,3006,,"Penso che qualsiasi cosa sopra i mille dollari peserebbe un po' troppo sul
-portafoglio di uno studente delle superiori.","不過價格要5個零，
+402,3006,,"Penso che qualsiasi cosa sopra i mille dollari peserebbe un po' troppo
+sul portafoglio di uno studente delle superiori.","不過價格要5個零，
 對高中生的荷包來說負擔是不是有點大？",,"0이 다섯개나 붙는 가격은
 고등학생의 지갑으로는 좀 무리가 아닐까?","Allerdings wäre alles über 1000 Yen zu teuer
 für einen Schüler."
-403,3017,,"Sì, il prezzo è una cosa... ma
-onestamente, piuttosto che prenderle qualcosa di
-così femminile...","價錢也是問題……
+403,3017,,"Sì, il prezzo è una cosa... ma onestamente,
+piuttosto che prenderle qualcosa di così femminile...","價錢也是問題……
 不過與其硬要抓住對方的少女心……",,"가격도 그렇지만 말야…
 실은 나 억지로 여심을 사로잡기보단…","Ja, der Preis ist die eine Sache, aber mal
 ehrlich ... Statt ihr was so Weibisches
 zu kaufen ..."
-404,3017,,"Penso che sarebbe meglio darle
-qualcosa di romantico, un regalo che dimostri che ci
-ho pensato su.","我現在覺得送賭上男人熱情的
+404,3017,,"Penso che sarebbe meglio darle qualcosa di romantico,
+un regalo che dimostri che ci ho pensato su.","我現在覺得送賭上男人熱情的
 「羅曼蒂克的禮物」好像比較好。",,"남자의 정열을 건
 「로맨틱한 선물」쪽이 좋을 것 같은 느낌이 들어","Etwas Romantisches wäre vielleicht besser.
 Ein Geschenk, das beweist, dass ich mir Gedanken
 gemacht habe."
 405,3006,,Mmm...un regalo romantico...,嗯……羅曼蒂克的禮物啊……,,"흐음… 로맨틱한 선물, 이라…",Hm ... Ein romantisches Geschenk ...
-406,3006,,"So che ho detto che non avrei fatto
-troppe domande, ma ora ne ho una per te...","對了，
+406,3006,,"So che ho detto che non avrei fatto troppe domande,
+ma ora ne ho una per te...","對了，
 之前暫且不過問的那件事，你也該回答我了吧。",,"…그런데
 전에 외상으로 해둔 질문에 슬슬 답을 해 주실까","Ich weiß, ich habe versprochen, nicht zu viele
 Fragen zu stellen, aber jetzt habe ich doch eine."
 407,3017,,Eh? Di cosa stai parlando?,咦？　什麼意思？,,"헤? 뭐야, 그거",Was? Wovon redest du?
 408,3006,,"Sai, è appena uscita dall'ospedale.
-Perché sei così preoccupato di
-prenderle un regalo così incredibile?","不過只是出院而已，
+Perché sei così preoccupato di prenderle un regalo così incredibile?","不過只是出院而已，
 為什麼你要送這麼誇張的禮物？",,"겨우 퇴원 정도의 일로
 너는 왜 그렇게 커다란 선물을 주고 싶은 거지?","Du weißt, dass sie nur aus dem Krankenhaus kommt.
 Warum bist du so versessen darauf, ihr
 so ein tolles Geschenk zu kaufen?"
-409,2001,,"Questa... questa è un'opportunità per me... per me di dire a
-Sakura... di dirle cosa provo.","因、因為我想……趁、趁這個機會……
+409,2001,,"Questa... questa è un'opportunità per me... per me di dire a Sakura...
+di dirle cosa provo.","因、因為我想……趁、趁這個機會……
 跟、跟櫻……告、告告告白啦！",,"…그, 그걸 기회 삼아… 나, 나…
 사, 사쿠라한테… 고, 고고고 고백하려고 해!","Das ... Das ist die Chance für mich ... Sakura zu
 sagen, was ich fühle."
@@ -286,8 +267,7 @@ Hmm...e cosa sarebbe esattamente?","告、白？
 嗯……你到底要跟她告白什麼？",,"…고 백?
 흐음… 너는 그녀에게 대체 뭘 고백하려고 하는 거지?","Ihr sagen, was du fühlst?
 Hm, was fühlst du denn genau?"
-411,3017,,"Beh, voglio dire... sai... che
-io... che io la amo...","你還問我什麼……
+411,3017,,"Beh, voglio dire... sai... che io... che io la amo...","你還問我什麼……
 當然是……愛啊！",,"뭐라니… 그거야… 뻔하잖아…
 ……사랑을, 이라고","Also, ich meine ... Du weißt schon ...
 Dass ich ... sie liebe ..."
@@ -296,29 +276,25 @@ Dass ich ... sie liebe ..."
 你喜歡那個叫做櫻的女生嗎？",,"사랑을? …사랑!?
 …너는 그 사쿠라라는 아이를 좋아하는 건가?","Liebe? ... Liebe?!
 ... Magst du diese Sakura?"
-413,3017,,"Certo
-che sì! Altrimenti perché mai dovrei
-dirle cosa provo!?","是、是啊！　那還用說！
+413,3017,,"Certo che sì! Altrimenti perché mai dovrei dirle cosa provo!?","是、是啊！　那還用說！
 不然我幹嘛要告白……",,"그, 그래! 뻔하잖아!
 그렇지 않으면 고백 같은 거…","Natürlich!
 Warum würde ich ihr sonst sagen wollen,
 was ich fühle?"
 414,3006,,"Capisco...ma, perché ti piace?",這樣啊……那你為什麼會喜歡她？,,호오… 그럼 왜 그녀를 좋아하는 거지?,Verstehe ... Aber warum magst du sie?
 415,3017,,"Beh, non lo so davvero...
-Immagino che semplicemente non posso lasciarla, e
-voglio stare con lei...","也不是說喜不喜歡啦……
+Immagino che semplicemente non posso lasciarla, e voglio stare con lei...","也不是說喜不喜歡啦……
 就覺得自己無法放著她不管。",,"좋아한달까 뭐라고 할까…
 …왠지 내버려 둘 수가 없어, 그 녀석을","Nun ja, ich weiß nicht ...
 Ich muss ständig an sie denken und will
 bei ihr sein ..."
-416,3006,,"Oh... ""Sono Ryota, sono l'unico che
-può proteggere te, Sakura!""","喔……
+416,3006,,"Oh... ""Sono Ryota, sono l'unico che può proteggere te,
+Sakura!""","喔……
 「只有我可以保護櫻」是嗎……",,"호오오…
 사쿠라를 지킬 수 있는 건 나밖에 없어, 인가…","Ach ... „Ich bin Ryota, ich bin der Einzige, der
 dich beschützen kann, Sakura!“"
-417,3006,,"""Sono l'unico che può proteggerti,
-Sakura!"" ""Sono l'unico che può
-proteggerti, Sakura!""","只有我可以保護櫻，
+417,3006,,"""Sono l'unico che può proteggerti, Sakura!""
+""Sono l'unico che può proteggerti, Sakura!""","只有我可以保護櫻，
 只有我可以保護櫻！",,"사쿠라를 지킬 수 있는 건 나밖에 없어
 사쿠라를 지킬 수 있는 건 나밖에 없어!","„Ich bin der Einzige, der dich beschützen kann,
 Sakura!“ „Ich bin der Einzige, der dich
@@ -342,9 +318,8 @@ Dovremmo assolutamente continuare ad aiutarlo.","不過他倒是很真誠，
 필히 계속해서 협력해주기 바란다","Aber er ist ehrlich.
 Wir sollten ihm weiterhin helfen."
 422,3006,,"Bene, allora...",接下來……,,…그럼,Na dann ...
-423,3006,,"Mmm, un regalo romantico... Penso che dovresti andare a
-cercare un tuo amico romantico e chiedere la sua
-opinione a riguardo. Cosa ne pensi?","羅曼蒂克的禮物啊……
+423,3006,,"Mmm, un regalo romantico... Penso che dovresti andare a cercare un tuo
+amico romantico e chiedere la sua opinione a riguardo. Cosa ne pensi?","羅曼蒂克的禮物啊……
 這種時候，去問你羅曼蒂克的朋友有什麼意見
 應該是最好的方法吧？",,"로맨틱한 선물, 이라…
 이럴 땐 네 로맨틱한 친구에게
@@ -353,64 +328,56 @@ einen romantischen Freund um seine Meinung
 bitten. Was meinst du?"
 424,2001,,?,？？,,??,?
 425,3006,,"Quindi, un amico romantico...",說到你羅曼蒂克的朋友，就會想到……,,"생각해 봐라, 네 로맨틱한 친구라고 하면",Ein romantischer Freund ...
-426,2001,,"Che ne dici di
-Arata? Forse Yuuko?","該不會是新？
+426,2001,,"Che ne dici di Arata? Forse Yuuko?","該不會是新？
 難道是悠子？",,"설마 아라타?
 혹시 유코?","Vielleicht Arata?
 Vielleicht Yuuko?"
-427,3006,,"Beh... penso che sia più appassionata di quanto ci
-si aspetterebbe, ma non è il tipo romantico.","不……她是有一顆令人意外的火熱之心，
+427,3006,,"Beh... penso che sia più appassionata di quanto ci si aspetterebbe,
+ma non è il tipo romantico.","不……她是有一顆令人意外的火熱之心，
 但應該不屬於羅曼蒂克的類型。",,"아니… 의외로 뜨거운 마음을 갖고 있다고는 생각되지만
 로맨틱, 이라는 타입은 아니지","Also ... Sie ist vielleicht leidenschaftlicher als
 man denkt, aber eher nicht romantisch."
-428,3006,,"Esatto... Non si direbbe, ma direi
-che è un vero romantico.","沒錯……
+428,3006,,"Esatto... Non si direbbe,
+ma direi che è un vero romantico.","沒錯……
 別看他那樣，他可是少有的浪漫主義者。",,"그렇다…
 그는 그렇게 보여도 희대의 로맨티시스트라고 생각한다","Genau ... Man erwartet es kaum, aber ich glaube,
 er ist ziemlich romantisch."
 429,3006,,Penso che sia ad Akihabara...,看來他現在人在「秋葉原」。,,아무래도 그는「아키하바라」에 있는 것 같군,"Ich schätze, er ist in Akihabara ..."
-430,3006,,"Vai a chiedergli di un regalo
-romantico.","去找他問問
+430,3006,,"Vai a chiedergli di un regalo romantico.","去找他問問
 什麼是「羅曼蒂克的禮物」吧。",,"「로맨틱한 선물」에 대해
 의견을 들어보도록","Geh los und frag ihn nach einem romantischen
 Geschenk."
 431,3017,,"...Sono l'unico che può proteggere
 Sakura!",只有我可以保護櫻！,,…사쿠라를 지킬 수 있는 건 나밖에 없어!,"... Ich bin der Einzige, der Sakura beschützen
 kann!"
-451,3006,,"Sembra che Arata Sanada sia ad Akihabara in
-questo momento, quindi vai a chiedergli qual è la
-sua opinione sui regali romantici.","真田新目前人在秋葉原。
+451,3006,,"Sembra che Arata Sanada sia ad Akihabara in questo momento,
+quindi vai a chiedergli qual è la sua opinione sui regali romantici.","真田新目前人在秋葉原。
 去找他問問什麼是「羅曼蒂克的禮物」吧。",,"사나다 아라타는 지금 아키하바라에 있는 것 같다
 「로맨틱한 선물」에 대해 의견을 물어보도록","Arata Sanada ist wohl gerade in Akihabara.
 Geh hin und frag ihn, was seiner Meinung nach
 ein romantisches Geschenk ist."
-501,3005,,"...Huh? Stai cercando un regalo
-romantico per una ragazza?","嗯？　你在找要送給女生的
+501,3005,,"...Huh? Stai cercando un regalo romantico per una ragazza?","嗯？　你在找要送給女生的
 羅曼蒂克的禮物？",,"…응? 여자아이에게 주기 위한
 로맨틱한 선물을 찾고 있다고?","Was? Du suchst ein romantisches Geschenk
 für ein Mädchen?"
-502,3005,,"Romantico!? Pff, è un po'
-antiquato, non credi?","話說羅曼蒂克是怎樣，
+502,3005,,"Romantico!? Pff, è un po' antiquato, non credi?","話說羅曼蒂克是怎樣，
 你用詞有點古老耶。",,"그보다 로맨틱한 거라니 뭐야!
 왠지 낡았다고, 단어가","Romantisch?! Pfff. Das ist doch irgendwie
 altmodisch, meinst du nicht?"
 503,3005,,"...Comunque, perché lo stai chiedendo specificamente a me?","而且……
 為什麼要專程來問我？",,"…게다가
 왜 일부러 나한테 그런 걸 물어보는 건데?",Und warum fragst du mich das überhaupt?
-504,3005,,"Huh? Sono un romantico? Di
-cosa stai parlando!?","什麼？　我是浪漫主義者？
+504,3005,,"Huh? Sono un romantico? Di cosa stai parlando!?","什麼？　我是浪漫主義者？
 你突然說什麼啊！",,"하아? 내가 로맨티시스트라고오?
 댁은 갑자기 무슨 소리를 하는 거야!","Was? Ich soll romantisch sein?
 Was erzählst du da?!"
-505,3005,,"Cosa? Sei qui su richiesta di
-Kyoko? Non riesco a immaginare perché abbia
-detto una cosa simile...","嗯？　杏子姊掛保證的？
+505,3005,,"Cosa? Sei qui su richiesta di Kyoko?
+Non riesco a immaginare perché abbia detto una cosa simile...","嗯？　杏子姊掛保證的？
 就算你這麼說，我還是沒什麼感覺耶。",,"아? 쿄코 씨가 보증했다고?
 …그런 말을 들어도 딱히 생각나는 건 없는데","Wie? Das war Kyokos Idee?
 Ich kann mir nicht erklären, warum sie
 so was sagt ..."
-506,3005,,"Mmm...
-Romantico, dici...","嗯……
+506,3005,,"Mmm...Romantico, dici...","嗯……
 羅曼蒂克啊。",,"…으음―
 로맨틱 말이지","Hm ...
 Romantisch, was?"
@@ -418,8 +385,8 @@ Romantisch, was?"
 508,2001,,!?,！？,,!?,?!
 509,3005,,Che ne dici di qualcosa come veleno e un pugnale?,「短劍與毒藥」怎麼樣？,,「단검과 독약」같은 건 어때?,Wie wäre es mit Gift und einem Dolch?
 510,2001,,!!!,！！？？,,!!??,!!!
-511,3005,,"Che hai con quella
-faccia? Sarebbe un regalo così romantico!","你那什麼表情……這才是最佳的
+511,3005,,"Che hai con quella faccia?
+Sarebbe un regalo così romantico!","你那什麼表情……這才是最佳的
 「羅曼蒂克的禮物」好不好。",,"뭐야, 그 얼굴은… 이거야말로 가장
 「로맨틱한 선물」이잖아","Warum ziehst du denn so ein Gesicht?
 Das wäre ein unglaublich romantisches Geschenk!"
@@ -428,8 +395,7 @@ Das wäre ein unglaublich romantisches Geschenk!"
 Ne hai sentito parlare, giusto?",我懂了，看來你是不知道羅密歐與茱麗葉吧？,,"보아하니 댁, 로미오와 줄리엣 모르지?","Wie bei Romeo und Julia, verstehst du?
 Von denen hast du doch gehört, oder?"
 514,2001,,"Li conosco, ma...
-Non li conosco... Non
-voglio sentirlo...","我知道啦……
+Non li conosco... Non voglio sentirlo...","我知道啦……
 誰知道啊……
 我不想知道……",,"알고 있는데…
 모르는데…
@@ -441,26 +407,23 @@ Parla dell'amore proibito di Romeo e Giulietta...","那是莎士比亞的悲劇�
 羅密歐與茱麗葉的禁忌之戀……",,"셰익스피어의 비극이야
 로미오와 줄리엣이 금단의 사랑…","Das ist eine von Shakespeares Tragödien. Es geht
 um die verbotene Liebe zwischen Romeo und Julia."
-516,3005,,"Romeo pensa che Giulietta sia morta
-quindi beve veleno e si uccide...","羅密歐以為自己深愛的茱麗葉死了，
+516,3005,,"Romeo pensa che Giulietta sia morta quindi beve veleno e si uccide...","羅密歐以為自己深愛的茱麗葉死了，
 便喝下毒藥自殺……",,"사랑하는 줄리엣이 죽었다고 생각한 로미오는
 독약을 먹고 죽고…","Romeo glaubt, dass Julia gestorben ist, also nimmt
 er Gift zu sich und bringt sich um ..."
-517,3005,,"Ma Giulietta è in realtà viva, e quando vede
-che Romeo è morto, prende un pugnale e se lo
-conficca nel suo stesso cuore.","但茱麗葉其實還活著，她看到死去的羅密歐，
+517,3005,,"Ma Giulietta è in realtà viva, e quando vede che Romeo è morto,
+prende un pugnale e se lo conficca nel suo stesso cuore.","但茱麗葉其實還活著，她看到死去的羅密歐，
 便拿短劍刺向自己的胸口。",,"실은 살아 있던 줄리엣은 죽은 로미오를 보고
 단검으로 자신의 가슴을 찔렀어","Julia lebt aber in Wirklichkeit noch und als sie
 sieht, dass Romeo tot ist, nimmt sie einen Dolch
 und ersticht sich damit."
 518,3005,,"...Allora, cosa ne pensi? Romantico, vero?",如何？　很羅曼蒂克吧？,,…어때? 로맨틱하지?,"... Also, was meinst du? Romantisch, oder?"
-519,3005,,"Beh, non so. C'è solo qualcosa di
-commovente in un gesto così profondo e drammatico...","感覺好像有什麼激發
+519,3005,,"Beh, non so. C'è solo qualcosa di commovente in un gesto così profondo
+e drammatico...","感覺好像有什麼激發
 心靈深處、內心風景的東西……",,"뭔가 이렇게 간질거리는 게 있잖아
 마음의 근본적이고 원풍경적인 무언가가…","Ich finde schon. So eine tiefgründige und
 dramatische Geste berührt schon irgendwie ..."
-520,3005,,"È un regalo
-romantico e basta!",羅曼蒂克的禮物就決定是「短劍與毒藥」了。,,로맨틱한 선물은「단검과 독약」으로 결정이네,"Es ist ein romantisches Geschenk.
+520,3005,,"È un regalo romantico e basta!",羅曼蒂克的禮物就決定是「短劍與毒藥」了。,,로맨틱한 선물은「단검과 독약」으로 결정이네,"Es ist ein romantisches Geschenk.
 Ende der Diskussion!"
 521,2001,,...,……,,……,...
 522,2001,,Ne discuterò di nuovo in ufficio.,先回事務所商量一下好了。,,한번 사무소로 돌아가서 상담해 보자,Ich werde es den anderen im Büro vorschlagen.
@@ -468,61 +431,56 @@ Ende der Diskussion!"
 524,3005,,...,……,,……,...
 525,3005,,...,……,,……,...
 526,3005,,...Bwahahaha! È uno scherzo! Solo uno scherzo!,我開玩笑的啦，開玩笑的。,,"…이건 농담이야, 농담!",... Hahahaha! Es ist ein Witz! Nur ein Witz!
-527,3005,,"Sei tu quello che mi ha dato del tipo
-strano. Mi stavo solo vendicando!","還不是因為你給人亂貼奇怪的標籤，
+527,3005,,"Sei tu quello che mi ha dato del tipo strano.
+Mi stavo solo vendicando!","還不是因為你給人亂貼奇怪的標籤，
 我才順水推舟假裝一下的！",,"댁이 사람한테 이상한 낙인을 찍으니까
 거기에 맞춰준 것뿐이라고!","Du hast mich doch als „Spinner“ bezeichnet.
 Ich wollte mich nur an dir rächen!"
 528,3005,,Mmm... un regalo romantico...,"這個嘛……
 羅曼蒂克的禮物……",,"…그렇네
 로맨틱한 선물",Hm ... Ein romantisches Geschenk ...
-529,3005,,"Che ne dici di un biglietto per
-un parco a tema?",「遊樂園的入場券」怎麼樣？,,「유원지 티켓」같은 건 어때?,"Wie wäre es mit einem Ticket für einen
+529,3005,,"Che ne dici di un biglietto per un parco a tema?",「遊樂園的入場券」怎麼樣？,,「유원지 티켓」같은 건 어때?,"Wie wäre es mit einem Ticket für einen
 Vergnügungspark?"
-530,3005,,"Non hai mai sentito dire che i
-ricordi sono meglio dei beni materiali?","大家不是常說嗎？
+530,3005,,"Non hai mai sentito dire che i ricordi sono meglio dei beni materiali?","大家不是常說嗎？
 回憶比實際的東西珍貴。",,"봐, 곧잘 말하잖아?
 물건보다도 마음이 좋다고","Hast du noch nie gehört, dass Erinnerungen
 wichtiger sind als materieller Besitz?"
-531,3005,,"Sali sulle giostre, guarda
-le parate, baciati sotto
-un cielo stellato...","坐坐摩天輪或咖啡杯之類的，看看花車遊行，
+531,3005,,"Sali sulle giostre, guarda le parate, baciati sotto un cielo stellato...","坐坐摩天輪或咖啡杯之類的，看看花車遊行，
 然後在星空之下接吻……",,"기구 같은 거에 타서 퍼레이드 같은 걸 보고
 별하늘을 뒤로 하고 키스 같은 걸 해서 말야…","Ihr könnt euch in den Fahrgeschäften vergnügen,
 die Paraden ansehen und euch dann unter einem
 sternenklaren Himmel küssen ..."
 532,3005,,"...Alle ragazze piacciono queste cose, giusto?",女生比較喜歡這一類的吧？,,…여자는 그런 거에 기뻐하지 않아?,"... Mädchen mögen so was doch, nicht wahr?"
 533,2001,,...,……,,……,...
-541,3005,,"È un regalo romantico e
-basta! Dovresti
-leggere Romeo e Giulietta qualche volta...","羅曼蒂克的禮物就決定是「短劍與毒藥」了。
+541,3005,,"È un regalo romantico e basta!
+Dovresti leggere Romeo e Giulietta qualche volta...","羅曼蒂克的禮物就決定是「短劍與毒藥」了。
 你也去看一下羅密歐與茱麗葉吧。",,"로맨틱한 선물은「단검과 독약」으로 결정이네
 너도 로미오와 줄리엣 정도는 읽어두라고","Es ist ein romantisches Geschenk.
 Ende der Diskussion!
 Du solltest mal Romeo und Julia lesen ..."
 601,3006,,"Wow... Andare a un parco a tema,
-baciarsi sotto un cielo stellato... Proprio
-come pensavo, è proprio un romantico.","喔……在遊樂園的星空之下接吻……
+baciarsi sotto un cielo stellato...
+Proprio come pensavo, è proprio un romantico.","喔……在遊樂園的星空之下接吻……
 果然跟我想的一樣，他是個浪漫主義者呢。",,"호오… 유원지에서 별하늘을 배경으로 삼고 키스 같은 걸, 이라…
 생각한 대로 그는 꽤나 로맨티시스트로군","Wow ... Ein Ausflug zu einem Vergnügungspark,
 ein Kuss unter einem sternenklaren Himmel ...
 Ich wusste doch, dass er romantisch ist!"
-602,3006,,"Che ne pensi? Dovrebbero godersi un
-appuntamento in un parco divertimenti?","如何？
+602,3006,,"Che ne pensi? Dovrebbero godersi un appuntamento in un parco
+divertimenti?","如何？
 邀她去遊樂園約會浪漫一下？",,"어때?
 큰마음 먹고 그녀와 유원지 데이트하러 가보는 건?","Was meinst du? Sollten sie einen Tag in einem
 Vergnügungspark verbringen?"
 603,3006,,"Non riesco proprio a immaginarlo, io...",這就是世間所說的“超乎預料”嗎……,,"이게 세간에서 말하는 ""예상 초월""이라는 건가…",Ich persönlich kann mir das nicht vorstellen ...
-604,3006,,"Inoltre, sapevi che Giulietta aveva solo 14 anni
-quando si è conficcata il pugnale nel petto?","對了，羅密歐與茱麗葉的故事中，
+604,3006,,"Inoltre, sapevi che Giulietta aveva solo 14 anni quando si è
+conficcata il pugnale nel petto?","對了，羅密歐與茱麗葉的故事中，
 拿短劍刺自己胸口的茱麗葉
 當時好像才年僅14歲。",,"그런데 로미오와 줄리엣에서
 자신의 가슴에 단검을 찔러넣은 줄리엣은
 그 때 겨우 14살이었다고 한다","Und wusstest du übrigens, dass Julia nur 14 Jahre
 alt war, als sie sich erstochen hat?"
-605,3006,,"So che dovrebbe essere ambientato in tempi
-antichi, ma non mi è mai piaciuto molto
-quanto siano giovani i personaggi in quella storia...","不管是現在還是以前，登場人物的年齡設定
+605,3006,,"So che dovrebbe essere ambientato in tempi antichi,
+ma non mi è mai piaciuto molto quanto siano giovani i personaggi
+in quella storia...","不管是現在還是以前，登場人物的年齡設定
 總是叫人無法認同啊。",,"옛날도 지금도 등장인물의 연령설정이라는 건
 아무래도 납득이 가지 않는군","Ich weiß, es soll sich in der Antike ereignet
 haben, aber es hat mir noch nie gepasst, wie
@@ -530,17 +488,15 @@ jung die Charaktere in der Geschichte sind ..."
 606,3017,,"Hmm, uh, un appuntamento... un appuntamento...","嗯、嗯……
 約會嗎……約會啊……",,"…으, 으음―
 데이트라… 데이트 말이지…","Hm, äh, eine Verabredung ... eine Verabredung."
-607,3017,,"Sento che uscire insieme dovrebbe essere il
-prossimo passo. Prima, vorrei prenderle un regalo
-che la colpisca davvero.","約會感覺已經是到下一個階段了吧，
+607,3017,,"Sento che uscire insieme dovrebbe essere il prossimo passo.
+Prima, vorrei prenderle un regalo che la colpisca davvero.","約會感覺已經是到下一個階段了吧，
 不過我是想要先送一個能抓住她的心的東西。",,"데이트라는 건 뭔가 말야, 다음 스텝이라는 느낌이 드네
 우선은 뭔가 그 녀석의 마음을 사로잡을 수 있는 걸 선물하고 싶달까","Ich finde, eine Verabredung ist der nächste
 Schritt. Aber erst möchte ich ihr etwas schenken,
 was sie echt umhaut."
 608,3006,,Mmm... Hai decisamente un sacco di pretese...,嗯……你的要求還真多呢……,,흐음… 너는 꽤나 주문이 많군…,Hm ... Bei dir gibt es wirklich viele Bedingungen.
 609,3017,,"A dire il vero, ci stavo pensando.
-Preferirei che il regalo non
-fosse troppo insolito...","其實我後來又想了一下！
+Preferirei che il regalo non fosse troppo insolito...","其實我後來又想了一下！
 不要送那種標新立異的禮物……",,"실은 나, 그 후, 또 생각한 게 있어!
 뭔가 말야, 역시 진기한 선물이 아니라…","Ich habe lange überlegt. Ich glaube, es wäre mir
 lieber, wenn das Geschenk nicht zu
@@ -548,19 +504,18 @@ außergewöhnlich ist ..."
 610,3017,,Qualcosa di semplice ma elegante!,"還是送她「簡單樸實的好東西」
 比較好！",,"「소박하고 괜찮은 느낌의 물건」을 주는 게
 좋지 않을까 하고!","Etwas Einfaches, aber Elegantes!"
-611,3006,,"Hmm... A dire il vero, hai ragione, ma
-""semplice ma elegante"" è un po' ambiguo.","喔……你說得也有道理……
+611,3006,,"Hmm... A dire il vero, hai ragione,
+ma ""semplice ma elegante"" è un po' ambiguo.","喔……你說得也有道理……
 不過「簡單樸實」這個形容還真是抽象啊。",,"호오오… 그건 그것대로 일리가 있는 것 같기도 하다만…
 「소박하고 괜찮은 느낌」이란 아무래도 추상적인 표현이군","Hm ... Da sagst du was. Wobei „einfach, aber
 elegant“ sich irgendwie widerspricht."
-612,3017,,"Okay, allora, devo andare al
-lavoro! Vai pure avanti, parleremo più tardi!","那我要去打工了！
+612,3017,,"Okay, allora, devo andare al lavoro!
+Vai pure avanti, parleremo più tardi!","那我要去打工了！
 之後就拜託你們囉！",,"그럼 난 알바 다녀올 테니까!
 남은 일은 잘 부탁해!","Na gut, ich muss jetzt arbeiten gehen!
 Bitte macht weiter. Wir sprechen uns später!"
-613,3006,,"...È la terza volta che lo fa. Immagino che
-dovrei esserci abituato ormai, ma non capisco
-perché continua a lasciarci fare tutto il lavoro!","都到第三次是已經有經驗了啦，
+613,3006,,"...È la terza volta che lo fa. Immagino che dovrei esserci abituato
+ormai, ma non capisco perché continua a lasciarci fare tutto il lavoro!","都到第三次是已經有經驗了啦，
 但他叫我們幫他想，自己又要提意見，不曉得是怎樣。",,"…3번째나 되니 이제 익숙해졌지만
 그의 그 적당한 떠넘김은 대체 무엇인지 모르겠군","Das war jetzt schon das dritte Mal, dass er das
 gemacht hat. Ich sollte mich daran gewöhnt haben,
@@ -570,17 +525,15 @@ aber warum er immer uns die Arbeit überlässt ..."
 616,3006,,"Sì, sembra che sia alla Kamishiro proprio ora...","嗯，她現在……
 好像在「神代企業」的樣子。",,"음, 지금 그녀는…
 아무래도「카미시로 엔터프라이즈」에 있는 것 같다","Ja, sie ist wohl gerade bei Kamishiro ..."
-617,3006,,"Per favore, vai a chiederle qualcosa di ""semplice ma
-elegante"". Dovrebbe essere in grado di dirti qualcosa di
-utile, comunque.","去找她問問什麼是「簡單樸實的好東西」吧。
+617,3006,,"Per favore, vai a chiederle qualcosa di ""semplice ma elegante"".
+Dovrebbe essere in grado di dirti qualcosa di utile, comunque.","去找她問問什麼是「簡單樸實的好東西」吧。
 不管怎樣，應該可以得到一些參考意見才是。",,"「소박하고 괜찮은 느낌의 물건」에 대해 물어보도록
 어찌됐든 무언가에 참고가 되겠지","Bitte sie um eine Idee zu etwas „Einfachem, aber
 Elegantem“. Sie sollte dir etwas Nützliches
 sagen können."
 618,3006,,"Quindi, qualcosa di ""semplice ma elegante""...",「簡單樸實的好東西」是吧……,,…그럼「소박하고 괜찮은 느낌의 물건」이라,"Also, etwas „Einfaches, aber Elegantes“ ..."
-619,3006,,"Non è ""semplice"", ma c'è solo una tua
-amica a cui posso pensare che potrebbe
-darti quel tipo di consiglio...","雖然不能說樸實，但可以給你那類意見的朋友
+619,3006,,"Non è ""semplice"", ma c'è solo una tua amica a cui posso pensare
+che potrebbe darti quel tipo di consiglio...","雖然不能說樸實，但可以給你那類意見的朋友
 我只想得到一個人。",,"소박하다고는 할 수 없지만, 그런 어드바이스를 줄 것 같은
 네 친구는 이제 한 명 정도밖에 생각나지 않는군","„Einfach“ ist es mit ihr nie, aber es gibt nur
 eine Person, mit der du befreundet bist,
@@ -595,8 +548,7 @@ ci fai qui?","……
 你在這裡做什麼？",,"……
 …뭐하고 있나요? 이런 곳에서","...
 ... Was machst du denn hier?"
-702,3003,,"Eh? Stai cercando qualcosa di semplice e
-delizioso, oppure...?",咦？　你在找「簡單好吃的東西」……？,,"어?「소박하고 맛있는 것」을 찾고 있다, 고요…?","Was? Du suchst etwas, das einfach, aber
+702,3003,,"Eh? Stai cercando qualcosa di semplice e delizioso, oppure...?",咦？　你在找「簡單好吃的東西」……？,,"어?「소박하고 맛있는 것」을 찾고 있다, 고요…?","Was? Du suchst etwas, das einfach, aber
 köstlich ist ...?"
 703,3003,,"...Oh, scusa.
 ""Semplice ed elegante."" Colpa mia.","啊，失禮了。
@@ -610,8 +562,8 @@ Per favore, spiegamelo con un po' più di dettagli...","請問那是什麼意思
 麻煩你再說得詳細一點。",,"그건 어떤 의미인가요?
 …좀 더 자세히 알려주세요","Ähm, was genau meinst du denn?
 Kannst du es mir bitte ausführlicher erklären ...?"
-707,3003,,"Certo, stai cercando qualcosa che
-piacerebbe a una ragazza... Ora capisco.","原來如此，要送禮物給喜歡的女生。
+707,3003,,"Certo, stai cercando qualcosa che piacerebbe a una ragazza...
+Ora capisco.","原來如此，要送禮物給喜歡的女生。
 我明白了。",,"그렇군요, 좋아하는 여성에게 줄 선물, 이라는 거군요
 …이야기는 알겠습니다","Natürlich, du suchst etwas, das einem Mädchen
 gefallen würde ... Jetzt verstehe ich."
@@ -621,30 +573,28 @@ Non credo che sia il piano migliore...","不過……
 ……좋지 않다고 생각해요","Aber ...
 Das scheint mir kein guter Plan zu sein ..."
 709,2001,,?,？？,,??,?
-710,3003,,"Per cominciare, è un regalo per qualcuno che
-è stato scelto da
-qualcuno che non lo conosce.","說起來，要送禮物給某人，
+710,3003,,"Per cominciare, è un regalo per qualcuno che è stato scelto da qualcuno
+che non lo conosce.","說起來，要送禮物給某人，
 可以叫別人幫自己決定要送什麼嗎？",,"애초에 누군가에게 주는 선물이라는 건
 다른 누군가가 정해주는 건가요?","Erstens wäre es ein Geschenk für eine Person,
 das jemand ausgesucht hat,
 ohne sie zu kennen."
 711,2001,,!?,！？,,!?,?!
-712,3003,,"Chi fa il regalo deve pensare a cosa
-potrebbe piacere a chi lo riceve...","送禮的人
+712,3003,,"Chi fa il regalo deve pensare a cosa potrebbe piacere a chi lo riceve...","送禮的人
 一邊想著那個要送禮的對象，",,"선물을 주는 사람이
 선물을 주고 싶은 상대를 생각하며","Der Schenkende muss überlegen, was der
 Empfängerin gefallen könnte ..."
-713,3003,,"Cosa potrebbe renderla felice. Pensa
-seriamente, considera, rifletti, medita e
-poi scegli il miglior regalo possibile...","一邊認真思考要送什麼對方才會高興，
+713,3003,,"Cosa potrebbe renderla felice.
+Pensa seriamente, considera, rifletti, medita e poi scegli il miglior
+regalo possibile...","一邊認真思考要送什麼對方才會高興，
 不停地煩惱、煩惱，最後挑選出最棒的禮物……",,"어떤 걸 주면 기뻐할지 진지하게 생각해서
 고민하고 고민에 고민을 거듭해 최고의 선물을 고르는…","Was sie glücklich machen könnte. Denk ernsthaft
 darüber nach. Überlege, lass es dir durch den Kopf
 gehen und wähle dann das bestmögliche Geschenk."
 714,3003,,Ecco cos'è regalare un presente.,我認為這段過程才是送禮的意義所在。,,선물을 주는 의미는 거기에 있다고 생각합니다,Darum geht es beim Schenken.
-715,3003,,"Non è quello che ottieni, sono il tempo e le
-energie spese a pensare a cosa potrebbe rendere felice l'altra
-persona. Quello è il vero valore del regalo.","重點不是送什麼，而是想著對方來挑禮物——
+715,3003,,"Non è quello che ottieni, sono il tempo e le energie spese a pensare
+a cosa potrebbe rendere felice l'altra persona.
+Quello è il vero valore del regalo.","重點不是送什麼，而是想著對方來挑禮物——
 這段時間才是送禮的真正價值吧。",,"뭘 주는지가 아니라 상대를 생각하며 선물을 고르는―
 그 시간이야말로 선물의 진정한 가치인 게 아닐까요","Es geht nicht um das Geschenk selbst, sondern
 um die Mühe, die sich der Schenkende gemacht hat.
@@ -659,8 +609,8 @@ Was mich glücklich machen würde?"
 719,3003,,...,……,,……,...
 720,3003,,...Onigiri!,飯糰。,,…주먹밥,... Onigiri!
 721,2001,,!?,！？,,!?,?!
-722,3003,,"Ecco cosa vorrei, onigiri...fatti
-con amore. Un bell'onigiri grosso...","我想要收到飯糰，
+722,3003,,"Ecco cosa vorrei, onigiri...fatti con amore.
+Un bell'onigiri grosso...","我想要收到飯糰，
 對方懷著滿腔愛意捏出來的大飯糰。",,"저는 주먹밥을 받고 싶어요
 …애정을 담아 만든 커다란 주먹밥이","Das hätte ich gern, Onigiri ... liebevoll
 zubereitet. Ein schönes, großes Onigiri."
@@ -671,26 +621,23 @@ zubereitet. Ein schönes, großes Onigiri."
 ……안 되려나요, 주먹밥","... Was?
 ... Onigiri hilft dir nicht weiter?"
 725,2001,,...,……,,……,...
-726,2001,,"È ora di tornare in ufficio
-e fare rapporto a Kyoko.",回事務所報告吧。,,사무소로 돌아가 보고하자,"Es wird Zeit, wieder ins Büro zu gehen und
+726,2001,,"È ora di tornare in ufficio e fare rapporto a Kyoko.",回事務所報告吧。,,사무소로 돌아가 보고하자,"Es wird Zeit, wieder ins Büro zu gehen und
 Kyoko Bericht zu erstatten."
-727,3003,,"Per favore, dì a questo cliente che non sa decidere
-su un regalo di pensare attentamente quanto può
-alla persona a cui vuole fare il regalo.","請你轉告那個不知該送什麼禮物的人，
+727,3003,,"Per favore, dì a questo cliente che non sa decidere su un regalo di
+pensare attentamente quanto può alla persona a cui vuole fare
+il regalo.","請你轉告那個不知該送什麼禮物的人，
 請他為了自己喜歡的人用心煩惱吧。",,"선물 때문에 고민하는 그 분에게 전해 주세요
 좋아하는 사람을 위해 열심히 고민해 주세요, 라고","Bitte sag diesem unentschlossenen Klienten, dass
 er über die Person, die er beschenken will,
 lange und gründlich nachdenken soll."
-751,3003,,"...Penso ancora che un delizioso
-e caldo onigiri, preparato con
-amore, sarebbe un ottimo regalo...","滿懷心意捏出來的溫暖美味的飯糰……
+751,3003,,"...Penso ancora che un delizioso e caldo onigiri,
+preparato con amore, sarebbe un ottimo regalo...","滿懷心意捏出來的溫暖美味的飯糰……
 我覺得這是一個很好的禮物呢。",,"마음을 담아 만든 따뜻하고 맛있는 주먹밥
 괜찮은 선물이라고 생각합니다만","... Ich finde immer noch, dass ein leckeres,
 warmes Onigiri, das mit Liebe zubereitet wurde,
 ein gutes Geschenk abgeben würde ..."
-801,3006,,"Diceva che il tempo speso a pensare al miglior
-regalo possibile era il vero dono?
-Hmm, ha ragione a pensarla così...","挑選禮物的時間才是送禮的真正價值。
+801,3006,,"Diceva che il tempo speso a pensare al miglior regalo possibile
+era il vero dono? Hmm, ha ragione a pensarla così...","挑選禮物的時間才是送禮的真正價值。
 她說得或許也有道理呢……",,"선물을 고르는 시간이야말로 선물의 가치, 인가
 …확실히 그녀의 말은 일리가 있을지도 모르겠군","Sie meinte, die Mühe, die man sich macht,
 ist das eigentliche Geschenk?
@@ -701,8 +648,7 @@ Hm, eigentlich hat sie recht."
 그렇네! 그 말대로야아앗!","Woooooow! Natürlich!
 Genau so sollte ich es machen!"
 803,3017,,"Ci penserò, seriamente e da solo!
-Penserò a cosa renderebbe
-Sakura più felice!","我會自己想的！
+Penserò a cosa renderebbe Sakura più felice!","我會自己想的！
 認真思考櫻收到什麼才會高興！",,"나, 생각할게! 스스로 진지하게!
 사쿠라가 뭘 받아야 기뻐할지를!","Ich werde darüber nachdenken, ernsthaft und ganz
 allein! Ich werde überlegen, was Sakura
