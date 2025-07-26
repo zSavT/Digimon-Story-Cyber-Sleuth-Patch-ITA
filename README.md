@@ -111,6 +111,7 @@ Altri menu sono:
 
 Altri menu di gioco, come per esempio le descrizioni degli oggetti, possono essere visualizzati da interfacce differenti con dimensioni differenti, ma il testo originale è lo stesso, quindi non si può precisare la dimensione massima, in questi casi, si segue la formattazione originale.<p>
 **NOTA BENE**
+
 Anche la dimensioni dei singoli caratteri nel font utilizzato può influire sul limite dei caratteri massimi.
 
 ## Modifica delle texture
