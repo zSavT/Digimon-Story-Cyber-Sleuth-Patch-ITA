@@ -620,7 +620,8 @@ sole. È la cosa che faccio sempre quando sono libera!","最近我喜歡上了�
 我就會一邊曬太陽一邊發呆唷。",,"요즘엔 일광욕이 마이붐이야. 자유시간이 생기면
 햇볕을 받으며 멍하니 지내고 있지.","Ich bin gerade ganz heiß aufs Sonnen.
 Das mach ich immer, wenn ich frei habe!"
-1511,,"Oddio... Per qualche motivo non ho molto caldo oggi...","是怎麼回事……
+1511,,"Oddio...
+In qualche modo, non credo di sentirmi bene oggi...","是怎麼回事……
 今天狀況似乎不太好……",,"어떻게 된 걸까…
 어쩐지 오늘은 상태가 좋지 않은 것 같아…","Oh Mann ... Irgendwie ist mir heute ganz
 heiß ..."
@@ -3471,8 +3472,8 @@ che ti avvolge la testa, eh?","問答題。你纏繞在頭上的重要機器的�
 ……你知道是什麼嗎？",,"퀴즈다. 네가 머리에 두르고 있는 중요한 기계의 이름.
 …너는 알고 있을까?","Quiz! Wie heißt der wichtige Apparat
 an deinem Kopf, hm?"
-5002,,"Curiosità! Chi è il capo dell'agenzia
-investigativa Kuremi, eh?","問答題。暮海偵探事務所所長的名字
+5002,,"Curiosità! Chi è il capo dell'agenzia investigativa
+Kuremi, eh?","問答題。暮海偵探事務所所長的名字
 ……你知道是什麼嗎？",,"퀴즈다. 쿠레미 탐정사무소 소장의 이름.
 …너는 알고 있을까?","Quiz! Wer leitet das Detektivbüro
 Kuremi, hm?"
@@ -4013,8 +4014,8 @@ vaccino che indossano i mantelli sono Alphamon e chi?","來進行問答題吧！
 背上有著披風的是阿爾法獸和誰？",,"자아 퀴즈다! 백신종 로얄 나이츠로
 등에 망토를 두르고 있는 것은 알파몬과 누구지?","Test! Royal Knights des Serum-Typs
 mit Umhang sind Alphamon und ...?"
-6016,,"Quiz a sorpresa! Quale Digimon usa una
-mossa speciale a quattro lame chiamata Spiral Masquerade?","來進行問答題吧！　哪隻數碼寶貝的必殺技是從鎧甲中
+6016,,"Quiz a sorpresa! Quale Digimon usa una mossa speciale
+a quattro lame chiamata Spiral Masquerade?","來進行問答題吧！　哪隻數碼寶貝的必殺技是從鎧甲中
 長出4把刀，將敵人撕裂的「螺旋假面舞蹈會」？",,"자아 퀴즈다! 갑옷에서 뻗어나온 4종의 칼날로 적을 
 베는「스파이럴 마스커레이드」가 필살기인 디지몬은?","Test! Welches Digimon benutzt den
 4-Klingen-Spezialmove „Spiral-Maskerade“?"
@@ -9151,71 +9152,71 @@ Beim nächsten Mal!"
 下次可要答對唷",,"유감이야… 답은「클라우 솔라스」
 다음엔 맞추도록 해.","Verflixt, die Antwort ist
 „Claíomh Solais“. Beim nächsten Mal!"
-24008,,"Accidenti, la risposta è ""Sei"". Ti
-toccherà il prossimo!",真遺憾……正確解答是「6隻」。下次可要答對唷,,"유감이야… 답은「6개」
+24008,,"Accidenti, la risposta è ""Sei"".
+Ti toccherà il prossimo!",真遺憾……正確解答是「6隻」。下次可要答對唷,,"유감이야… 답은「6개」
 다음엔 맞추도록 해.","Verflixt, die Antwort ist „Sechs“.
 Beim nächsten Mal!"
-24009,,"Accidenti, la risposta è ""Tipo di dati"". Ti
-arriverà il prossimo!",真遺憾……正確解答是「資料種」。下次可要答對唷,,"유감이야… 답은「데이터종」
+24009,,"Accidenti, la risposta è ""Tipo di dati"".
+Ti arriverà il prossimo!",真遺憾……正確解答是「資料種」。下次可要答對唷,,"유감이야… 답은「데이터종」
 다음엔 맞추도록 해.","Verflixt, die Antwort ist „Typus Datei“.
 Beim nächsten Mal!"
-24010,,"Accidenti, la risposta è ""Mega"". Il
-prossimo lo prenderai tu!",真遺憾……正確解答是「究極體」。下次可要答對唷,,"유감이야… 답은「궁극체」
+24010,,"Accidenti, la risposta è ""Mega"".
+Il prossimo lo prenderai tu!",真遺憾……正確解答是「究極體」。下次可要答對唷,,"유감이야… 답은「궁극체」
 다음엔 맞추도록 해.","Verflixt, die Antwort ist „Mega“.
 Beim nächsten Mal!"
-24011,,"Accidenti, la risposta è ""Padre"". Il
-prossimo ti aspetta!",真遺憾……正確解答是「親父」。下次可要答對唷,,"유감이야… 답은「친부」
+24011,,"Accidenti, la risposta è ""Padre"".
+Il prossimo ti aspetta!",真遺憾……正確解答是「親父」。下次可要答對唷,,"유감이야… 답은「친부」
 다음엔 맞추도록 해.","Verflixt, die Antwort ist „Vater“.
 Beim nächsten Mal!"
-24012,,"Accidenti, la risposta è ""Veemon"". Il
-prossimo lo prenderai tu!",真遺憾……正確解答是「V仔獸」。下次可要答對唷,,"유감이야… 답은「브이몬」
+24012,,"Accidenti, la risposta è ""Veemon"".
+Il prossimo lo prenderai tu!",真遺憾……正確解答是「V仔獸」。下次可要答對唷,,"유감이야… 답은「브이몬」
 다음엔 맞추도록 해.","Verflixt, die Antwort ist „Veemon“.
 Beim nächsten Mal!"
-24013,,"Accidenti, la risposta è ""Leopardmon"". Il
-prossimo lo prenderai tu!",真遺憾……正確解答是「芳香獸」。下次可要答對唷,,"유감이야… 답은「두프트몬」
+24013,,"Accidenti, la risposta è ""Leopardmon"".
+Il prossimo lo prenderai tu!",真遺憾……正確解答是「芳香獸」。下次可要答對唷,,"유감이야… 답은「두프트몬」
 다음엔 맞추도록 해.","Verflixt, die Antwort ist „Duftmon“.
 Beim nächsten Mal!"
-24014,,"Accidenti, la risposta è ""Dynasmon"". Il
-prossimo lo prenderai tu!",真遺憾……正確解答是「杜納斯獸」。下次可要答對唷,,"유감이야… 답은「듀나스몬」
+24014,,"Accidenti, la risposta è ""Dynasmon"".
+Il prossimo lo prenderai tu!",真遺憾……正確解答是「杜納斯獸」。下次可要答對唷,,"유감이야… 답은「듀나스몬」
 다음엔 맞추도록 해.","Verflixt, die Antwort ist „Dynasmon“.
 Beim nächsten Mal!"
-24015,,"Accidenti, la risposta è ""Omnimon"". Il
-prossimo lo prenderai tu!",真遺憾……正確解答是「奧米加獸」。下次可要答對唷,,"유감이야… 답은「오메가몬」
+24015,,"Accidenti, la risposta è ""Omnimon"".
+Il prossimo lo prenderai tu!",真遺憾……正確解答是「奧米加獸」。下次可要答對唷,,"유감이야… 답은「오메가몬」
 다음엔 맞추도록 해.","Verflixt, die Antwort ist „Omnimon“.
 Beim nächsten Mal!"
-24016,,"Accidenti, la risposta è ""Crusadermon"". Il
-prossimo lo prenderai tu!","真遺憾……正確解答是「劍皇獸」
+24016,,"Accidenti, la risposta è ""Crusadermon"".
+Il prossimo lo prenderai tu!","真遺憾……正確解答是「劍皇獸」
 下次可要答對唷",,"유감이야… 답은「로드나이트몬」
 다음엔 맞추도록 해.","Verflixt, die Antwort ist „Crusadermon“.
 Beim nächsten Mal!"
-24017,,"Accidenti, la risposta è
-""UlforceVeedramon"". Il prossimo lo prenderai tu!","真遺憾……正確解答是「究極V龍獸」
+24017,,"Accidenti, la risposta è ""UlforceVeedramon"".
+Il prossimo lo prenderai tu!","真遺憾……正確解答是「究極V龍獸」
 下次可要答對唷",,"유감이야… 답은「알포스브이드라몬」
 다음엔 맞추도록 해.","Verflixt, die Antwort ist
 „UlforceVeedramon“. Beim nächsten Mal!"
-24018,,"Accidenti, la risposta è ""Dieci"". Ti
-toccherà il prossimo!",真遺憾……正確解答是「10隻」。下次可要答對唷,,"유감이야… 답은「10개」
+24018,,"Accidenti, la risposta è ""Dieci"".
+Ti toccherà il prossimo!",真遺憾……正確解答是「10隻」。下次可要答對唷,,"유감이야… 답은「10개」
 다음엔 맞추도록 해.","Verflixt, die Antwort ist „Zehn“.
 Beim nächsten Mal!"
-24019,,"Accidenti, la risposta è ""Ueno"". Il
-prossimo ti aspetta!",真遺憾……正確解答是「上野」。下次可要答對唷,,"유감이야… 답은「우에노」
+24019,,"Accidenti, la risposta è ""Ueno"".
+Il prossimo ti aspetta!",真遺憾……正確解答是「上野」。下次可要答對唷,,"유감이야… 답은「우에노」
 다음엔 맞추도록 해.","Verflixt, die Antwort ist „Ueno“.
 Beim nächsten Mal!"
-24020,,"Accidenti, la risposta è ""DigiLine"". Il
-prossimo ti aspetta!",真遺憾……正確解答是「數碼連線」。下次可要答對唷,,"유감이야… 답은「디지라인」
+24020,,"Accidenti, la risposta è ""DigiLine"".
+Il prossimo ti aspetta!",真遺憾……正確解答是「數碼連線」。下次可要答對唷,,"유감이야… 답은「디지라인」
 다음엔 맞추도록 해.","Verflixt, die Antwort ist „Digiline“.
 Beim nächsten Mal!"
-24021,,"Accidenti, la risposta è
-""29 stazioni"". Ti arriverà la prossima!",真遺憾……正確解答是「29站」。下次可要答對唷,,"유감이야… 답은「29역」
+24021,,"Accidenti, la risposta è ""29 stazioni"".
+Ti arriverà la prossima!",真遺憾……正確解答是「29站」。下次可要答對唷,,"유감이야… 답은「29역」
 다음엔 맞추도록 해.","Verflixt, die Antwort ist
 „29 Haltestellen“. Beim nächsten Mal!"
-24022,,"Accidenti, la risposta è
-""GranKuwagamon"". Il prossimo lo prenderai tu!","真遺憾……正確解答是「究極古加獸」
+24022,,"Accidenti, la risposta è ""GranKuwagamon"".
+Il prossimo lo prenderai tu!","真遺憾……正確解答是「究極古加獸」
 下次可要答對唷",,"유감이야… 답은「그랜쿠가몬」
 다음엔 맞추도록 해.","Verflixt, die Antwort ist
 „GranKuwagamon“. Beim nächsten Mal!"
-24023,,"Accidenti, la risposta è ""Antylamon"". Il
-prossimo lo prenderai tu!","真遺憾……正確解答是「玉兔獸」
+24023,,"Accidenti, la risposta è ""Antylamon"".
+Il prossimo lo prenderai tu!","真遺憾……正確解答是「玉兔獸」
 下次可要答對唷",,"유감이야… 답은「안티라몬」
 다음엔 맞추도록 해.","Verflixt, die Antwort ist „Antylamon“.
 Beim nächsten Mal!"
@@ -9224,86 +9225,86 @@ L'isola più a sud, Okinotori, fa parte di Tokyo!","真遺憾……正確解答�
 據說日本最南端的沖鳥礁，是隸屬於東京都的",,"유감이야… 답은「도쿄도」
 최남단 오키노토리시마는 도쿄도라고 해.","Verflixt, die Antwort ist „Tokio“. Die
 südlichste Insel Okinotori gehört dazu."
-24025,,"Accidenti, la risposta è ""Eglefino"". Il
-prossimo lo prenderai tu!",真遺憾……正確解答是「ㄔㄨㄣ」。下次可要答對唷,,"유감이야… 답은「삼치」
+24025,,"Accidenti, la risposta è ""Eglefino"".
+Il prossimo lo prenderai tu!",真遺憾……正確解答是「ㄔㄨㄣ」。下次可要答對唷,,"유감이야… 답은「삼치」
 다음엔 맞추도록 해.","Verflixt, die Antwort ist „Schellfisch“.
 Beim nächsten Mal!"
-24026,,"Accidenti, la risposta è ""Houryuuji"". Il
-prossimo lo prenderai tu!",真遺憾……正確解答是「法隆寺」。下次可要答對唷,,"유감이야… 답은「호류지」
+24026,,"Accidenti, la risposta è ""Houryuuji"".
+Il prossimo lo prenderai tu!",真遺憾……正確解答是「法隆寺」。下次可要答對唷,,"유감이야… 답은「호류지」
 다음엔 맞추도록 해.","Verflixt, die Antwort ist „Hōryū-ji“.
 Beim nächsten Mal!"
-24027,,"Accidenti, la risposta è
-""Minamoto-No-Yoritomo"". Il prossimo lo prenderai tu!",真遺憾……正確解答是「源賴朝」。下次可要答對唷,,"유감이야… 답은「미나모토노 요리토모」
+24027,,"Accidenti, la risposta è ""Minamoto-No-Yoritomo"".
+Il prossimo lo prenderai tu!",真遺憾……正確解答是「源賴朝」。下次可要答對唷,,"유감이야… 답은「미나모토노 요리토모」
 다음엔 맞추도록 해.","Verflixt, die Antwort ist „Minamoto no
 Yoritomo“. Beim nächsten Mal!"
-24028,,"Accidenti, la risposta è ""Passalo sotto
-l'acqua fredda"". E la prossima volta ti tocca!",真遺憾……正確解答是「沖冷水降溫」。下次可要答對唷,,"유감이야… 답은「찬물로 식힌다」
+24028,,"Accidenti, la risposta è ""Passalo sotto l'acqua fredda"".
+E la prossima volta ti tocca!",真遺憾……正確解答是「沖冷水降溫」。下次可要答對唷,,"유감이야… 답은「찬물로 식힌다」
 다음엔 맞추도록 해.","Verflixt, die Antwort ist „Unter kaltes
 Wasser halten“. Beim nächsten Mal!"
-24029,,"Accidenti, la risposta è ""Giornata della
-Salute e dello Sport"". Il prossimo ti aspetta!",真遺憾……正確解答是「體育日」。下次可要答對唷,,"유감이야… 답은「체육의 날」
+24029,,"Accidenti, la risposta è ""Giornata della Salute e dello Sport"".
+Il prossimo ti aspetta!",真遺憾……正確解答是「體育日」。下次可要答對唷,,"유감이야… 답은「체육의 날」
 다음엔 맞추도록 해.","Verflixt, es ist „Tag der Gesundheit
 und des Sports“. Beim nächsten Mal!"
 24030,,"Accidenti, la risposta è ""23"". Ti
 capiterà il prossimo!",真遺憾……正確解答是「23」。下次可要答對唷,,"유감이야… 답은「23」
 다음엔 맞추도록 해.","Verflixt, die Antwort ist „23“.
 Beim nächsten Mal!"
-24031,,"Accidenti, la risposta è ""ToyAgumon"". Il
-prossimo lo prenderai tu!",真遺憾……正確解答是「積木亞古獸」。下次可要答對唷,,"유감이야… 답은「토이아구몬」
+24031,,"Accidenti, la risposta è ""ToyAgumon"".
+Il prossimo lo prenderai tu!",真遺憾……正確解答是「積木亞古獸」。下次可要答對唷,,"유감이야… 답은「토이아구몬」
 다음엔 맞추도록 해.","Verflixt, die Antwort ist „ToyAgumon“.
 Beim nächsten Mal!"
-24032,,"Accidenti, la risposta è ""Gatomon"". Il
-prossimo lo prenderai tu!",真遺憾……正確解答是「迪路獸」。下次可要答對唷,,"유감이야… 답은「가트몬」
+24032,,"Accidenti, la risposta è ""Gatomon"".
+Il prossimo lo prenderai tu!",真遺憾……正確解答是「迪路獸」。下次可要答對唷,,"유감이야… 답은「가트몬」
 다음엔 맞추도록 해.","Verflixt, die Antwort ist „Gatomon“.
 Beim nächsten Mal!"
-24033,,"Accidenti, la risposta è ""Palmon"". Il
-prossimo lo prenderai tu!",真遺憾……正確解答是「巴魯獸」。下次可要答對唷,,"유감이야… 답은「팔몬」
+24033,,"Accidenti, la risposta è ""Palmon"".
+Il prossimo lo prenderai tu!",真遺憾……正確解答是「巴魯獸」。下次可要答對唷,,"유감이야… 답은「팔몬」
 다음엔 맞추도록 해.","Verflixt, die Antwort ist „Palmon“.
 Beim nächsten Mal!"
-24034,,"Accidenti, la risposta è ""Monzaemon"". Il
-prossimo lo prenderai tu!",真遺憾……正確解答是「熊仔獸」。下次可要答對唷,,"유감이야… 답은「퍼펫몬」
+24034,,"Accidenti, la risposta è ""Monzaemon"".
+Il prossimo lo prenderai tu!",真遺憾……正確解答是「熊仔獸」。下次可要答對唷,,"유감이야… 답은「퍼펫몬」
 다음엔 맞추도록 해.","Verflixt, die Antwort ist „Monzaemon“.
 Beim nächsten Mal!"
-24035,,"Accidenti, la risposta è ""Garudamon"". Il
-prossimo lo prenderai tu!",真遺憾……正確解答是「伽樓達獸」。下次可要答對唷,,"유감이야… 답은「가루다몬」
+24035,,"Accidenti, la risposta è ""Garudamon"".
+Il prossimo lo prenderai tu!",真遺憾……正確解答是「伽樓達獸」。下次可要答對唷,,"유감이야… 답은「가루다몬」
 다음엔 맞추도록 해.","Verflixt, die Antwort ist „Garudamon“.
 Beim nächsten Mal!"
-24036,,"Accidenti, la risposta è ""Botamon"". Il
-prossimo lo prenderai tu!",真遺憾……正確解答是「黑球獸」。下次可要答對唷,,"유감이야… 답은「깜몬」
+24036,,"Accidenti, la risposta è ""Botamon"".
+Il prossimo lo prenderai tu!",真遺憾……正確解答是「黑球獸」。下次可要答對唷,,"유감이야… 답은「깜몬」
 다음엔 맞추도록 해.","Verflixt, die Antwort ist „Botamon“.
 Beim nächsten Mal!"
-24037,,"Accidenti, la risposta è ""Wanyamon"". Il
-prossimo lo prenderai tu!",真遺憾……正確解答是「汪喵獸」。下次可要答對唷,,"유감이야… 답은「와냐몬」
+24037,,"Accidenti, la risposta è ""Wanyamon"".
+Il prossimo lo prenderai tu!",真遺憾……正確解答是「汪喵獸」。下次可要答對唷,,"유감이야… 답은「와냐몬」
 다음엔 맞추도록 해.","Verflixt, die Antwort ist „Wanyamon“.
 Beim nächsten Mal!"
-24038,,"Accidenti, la risposta è ""Il
-più forte"". Il prossimo lo prenderai tu!",真遺憾……正確解答是「最強」。下次可要答對唷,,"유감이야… 답은「최강」
+24038,,"Accidenti, la risposta è ""Il più forte"".
+Il prossimo lo prenderai tu!",真遺憾……正確解答是「最強」。下次可要答對唷,,"유감이야… 답은「최강」
 다음엔 맞추도록 해.","Verflixt, die Antwort ist
 „Am stärksten“. Beim nächsten Mal!"
-24039,,"Accidenti, la risposta è ""Beelzemon"". Il
-prossimo lo prenderai tu!",真遺憾……正確解答是「墮天地獄獸」。下次可要答對唷,,"유감이야… 답은「베르제브몬」
+24039,,"Accidenti, la risposta è ""Beelzemon"".
+Il prossimo lo prenderai tu!",真遺憾……正確解答是「墮天地獄獸」。下次可要答對唷,,"유감이야… 답은「베르제브몬」
 다음엔 맞추도록 해.","Verflixt, die Antwort ist „Beelzemon“.
 Beim nächsten Mal!"
-24040,,"Accidenti, la risposta è ""Cherrymon"". Il
-prossimo lo prenderai tu!",真遺憾……正確解答是「祖利獸」。下次可要答對唷,,"유감이야… 답은「쥬레이몬」
+24040,,"Accidenti, la risposta è ""Cherrymon"".
+Il prossimo lo prenderai tu!",真遺憾……正確解答是「祖利獸」。下次可要答對唷,,"유감이야… 답은「쥬레이몬」
 다음엔 맞추도록 해.","Verflixt, die Antwort ist „Cherrymon“.
 Beim nächsten Mal!"
-24041,,"Accidenti, la risposta è ""Flamedramon"". Il
-prossimo lo prenderai tu!","真遺憾……正確解答是「烈焰獸」。
+24041,,"Accidenti, la risposta è ""Flamedramon"".
+Il prossimo lo prenderai tu!","真遺憾……正確解答是「烈焰獸」。
 下次可要答對唷",,"유감이야… 답은「화염드라몬」
 다음엔 맞추도록 해.","Verflixt, die Antwort ist „Flamedramon“.
 Beim nächsten Mal!"
-24042,,"Accidenti, la risposta è ""Sakuyamon"". Il
-prossimo lo prenderai tu!",真遺憾……正確解答是「沙古牙獸」。下次可要答對唷,,"유감이야… 답은「샤크라몬」
+24042,,"Accidenti, la risposta è ""Sakuyamon"".
+Il prossimo lo prenderai tu!",真遺憾……正確解答是「沙古牙獸」。下次可要答對唷,,"유감이야… 답은「샤크라몬」
 다음엔 맞추도록 해.","Verflixt, die Antwort ist „Sakuyamon“.
 Beim nächsten Mal!"
-24043,,"Accidenti, la risposta è
-""Spada Berserk"". La prossima la prenderai!","真遺憾……正確解答是「狂暴大劍」
+24043,,"Accidenti, la risposta è ""Spada Berserk"".
+La prossima la prenderai!","真遺憾……正確解答是「狂暴大劍」
 下次可要答對唷",,"유감이야… 답은「베르세르크 소드」
 다음엔 맞추도록 해.","Verflixt, die Antwort ist
 „Berserkerschwert“. Beim nächsten Mal!"
-24044,,"Cavolo, la risposta è
-""Imperatore Selvaggio"". Difficile, vero?","真遺憾……正確解答是
+24044,,"Cavolo, la risposta è ""Imperatore Selvaggio"".
+Difficile, vero?","真遺憾……正確解答是
 「ㄨㄥˋ　ㄅㄨˋ　ㄉㄨ　ㄕㄣˊ」。這題有點難呢",,"유감이야… 답은「미카후츠노카미」
 다음엔 맞추도록 해.","Verflixt, die Antwort ist
 „Barbarenkaiser“. Echt schwer, oder?"
@@ -9361,8 +9362,8 @@ Il prossimo lo prenderai tu!","真遺憾……正確解答是「數碼寶貝捕�
 Il prossimo lo prenderai tu!",真遺憾……正確解答是「御神樂米蕾」。下次可要答對唷,,"유감이야… 답은「미카구라 미레이」
 다음엔 맞추도록 해.","Verflixt, die Antwort ist
 „Mirei Mikagura“. Beim nächsten Mal!"
-24058,,"Accidenti, la risposta è ""Cambia la personalità di un Digimon"".
-Il prossimo ti aspetta!","真遺憾……正確解答是「改變數碼寶貝的個性」
+24058,,"Accidenti, la risposta è ""Cambia la personalità
+di un Digimon"". Il prossimo ti aspetta!","真遺憾……正確解答是「改變數碼寶貝的個性」
 下次可要答對唷",,"유감이야… 답은「디지몬의 개성을 바꾼다」
 다음엔 맞추도록 해.","Verflixt, richtig ist „Sie ändern die
 Digimon-Persönlichkeit“. Nächstes Mal!"
@@ -9414,8 +9415,8 @@ Beim nächsten Mal!"
 Ti capiterà il prossimo!",真遺憾……正確解答是「液晶化」。下次可要答對唷,,"유감이야… 답은「액정화」
 다음엔 맞추도록 해.","Verflixt, die Antwort ist „Pixel“.
 Beim nächsten Mal!"
-24071,,"Accidenti, la risposta è ""Rende più facile generare combo"".
-Otterrai la prossima!","真遺憾……正確解答是「容易產生連擊」
+24071,,"Accidenti, la risposta è ""Rende più facile
+generare combo"". Otterrai la prossima!","真遺憾……正確解答是「容易產生連擊」
 下次可要答對唷",,"유감이야… 답은「콤보가 발생하기 쉬워진다」
 다음엔 맞추도록 해.","Verflixt, die Antwort ist „Kombos werden
 einfacher“. Beim nächsten Mal!"
@@ -10519,8 +10520,8 @@ qualcosa per dimostrarti la mia gratitudine.","感謝你一直以來的關照吶
 我送了你一些東西表示謝意，你就收下吧",,"항상 돌봐줘서 고마워!
 예의상 약간의 선물을 보내뒀으니 받아줘.","Danke, dass du immer da bist! Ich habe
 dir ein Dankeschön dafür geschickt."
-27004,,"Grazie di tutto! Ti ho mandato un
-piccolo messaggio per ringraziarti!","謝謝你一直以來的關照
+27004,,"Grazie di tutto! Ti ho mandato un piccolo messaggio
+per ringraziarti!","謝謝你一直以來的關照
 我送了東西給你，當作回禮囉",,"언제나 돌봐줘서 고마워.
 사례품을 보내뒀어.","Danke für alles! Ich habe dir zum Dank
 eine Kleinigkeit geschickt!"
@@ -10688,8 +10689,8 @@ e per aver fermato Nishino con me.","這次的事件，我也得向你道謝才�
 ……多謝你和我一起阻止西野小姐",,"이번 사건은 내쪽에서도 감사하고 싶군.
 …같이 니시노 씨를 막아줘서 고맙다.","Danke, dass du bei dem Fall geholfen und
 mit mir Nishino aufgehalten hast."
-40033,,"Ah sì, ieri ho fatto il caffè
-Vichyssoise. La prossima volta te ne preparo una tazza.","我忘了說，我昨天研發出
+40033,,"Ah sì, ieri ho fatto il caffè Vichyssoise.
+La prossima volta te ne preparo una tazza.","我忘了說，我昨天研發出
 馬鈴薯冷湯咖啡了。改天泡給你喝吧",,"말하는걸 깜빡했는데 어제 비시수아즈 커피를
 개발했어. 다음번에 내어주지.","Gestern gab’s Vichyssoise-Kaffee.
 Nächstes Mal kriegst du auch eine Tasse."
@@ -10698,8 +10699,8 @@ davvero interessanti. Ho aspettato 3 ore per averne uno!","昨天是知名品牌
 在門市排了3小時，還挺累人的……！",,"어제는 대인기 브랜드의 신작 액세서리 발매일이었어!
 숍에서 3시간 줄 서는 것도 제법 괴롭군…!","Gestern waren tolle neue Accessoires im
 Angebot. Ich musste ewig dafür anstehen!"
-40035,,"Ultimamente non vado a scuola... sto
-scherzando! O forse sì? Che ne pensi?","其實我啊，現在是輟學……開玩笑的
+40035,,"Ultimamente non vado a scuola... sto scherzando!
+O forse sì? Che ne pensi?","其實我啊，現在是輟學……開玩笑的
 你認為我說的是真的還是假的？",,"나 말야, 실은 지금 학교에 다니지 않아…라고나 할까.
 정말일까 거짓말일까, 댁은 어느 쪽이라고 생각해?","Ich gehe nicht mehr zur Schule ... War
 nur ein Witz! Oder? Was meinst du?"
@@ -11110,14 +11111,13 @@ Wie geht’s dir, Mama?"
 42032,,Marippe si sente meglio?,小真她有精神了嗎？,,"마릿페, 건강해졌어?",Geht es Marippe besser?
 41033,,Quindi ci hai riprovato!,妳又挑戰新口味啦……！,,또 도전했었군요…!,Du hast es also noch mal probiert!
 42033,,"Sono un po' stanco, ci sentiamo più tardi...",我有點累，改天再說吧……,,좀 지쳤으니 다음에…,Ich bin etwas müde. Wir reden später ...
-43033,,"Sembra delizioso... A Nokia piace la
-Vichyssoise, pensi che le piacerebbe il tuo caffè?","喔，看起來好好喝……
+43033,,"Sembra delizioso... A Nokia piace la Vichyssoise,
+pensi che le piacerebbe il tuo caffè?","喔，看起來好好喝……
 馬鈴薯冷湯之類的，諾奇雅似乎會喜歡……",,"오, 맛있겠다―
 비시수아즈라니 노키아가 좋아할 것 같네요…","Klingt lecker ... Nokia mag Vichyssoise,
 meinst du, ihr schmeckt dein Kaffee?"
 41035,,Cosa? Non vai a scuola!?,咦？　你沒在上學！？,,응? 학교 안다녀!?,Was? Du gehst nicht zur Schule?
-42035,,"Sinceramente, per me funziona in
-entrambi i modi.",這種事無關緊要吧,,별로. 그런건 아무래도 좋아.,"Ist für mich beides in Ordnung,
+42035,,"Sinceramente, per me funziona in entrambi i modi.",這種事無關緊要吧,,별로. 그런건 아무래도 좋아.,"Ist für mich beides in Ordnung,
 wirklich."
 43035,,"Non sono uno studente, quindi non ci vado!
 ...Qualcosa del genere.",因為你不是學生，所以沒去上學……之類的？,,학생이 아니니까 안 다닌다…던가!,"Ich bin kein Schüler, also gehe ich auch
@@ -11125,11 +11125,11 @@ nicht! ... Oder so."
 41036,,"Non riesco proprio a immaginare
 una vita senza mia madre.",我的確無法想像沒有媽媽在的生活,,확실히 엄마가 없는 생활이라니 상상이 되지 않네.,"Ich kann mir ein Leben ohne meine Mama
 wirklich nicht vorstellen."
-42036,,"Il Giappone è davvero pacifico. È
-un posto fantastico in cui vivere.",日本真的很和平呢，能夠安心生活,,일본은 정말로 평화롭지. 안심하고 살 수 있어.,"Japan ist wirklich friedlich.
+42036,,"Il Giappone è davvero pacifico.
+È un posto fantastico in cui vivere.",日本真的很和平呢，能夠安心生活,,일본은 정말로 평화롭지. 안심하고 살 수 있어.,"Japan ist wirklich friedlich.
 Ein toller Ort zum Leben."
-41043,,"Quando mia madre ha iniziato a pensare
-di voler diventare giornalista?",媽媽是從什麼時候開始想成為記者的？,,"엄마는 언제부터 저널리스트가 되고 싶다고
+41043,,"Quando mia madre ha iniziato a pensare di voler
+diventare giornalista?",媽媽是從什麼時候開始想成為記者的？,,"엄마는 언제부터 저널리스트가 되고 싶다고
 생각하기 시작했어?","Wann kam meine Mama auf die Idee,
 Journalistin zu werden?"
 42043,,Un sogno... mi chiedo?,夢想嗎……我的夢想是什麼呢？,,꿈인가… 뭘까?,Ein Traum ... oder?
@@ -11140,11 +11140,11 @@ Journalistin zu werden?"
 41047,,"Ryota... Con amici come te, non
 mi sento affatto solo!",良太……這樣一來，就不會寂寞了吧！,,료타…이제 외롭지 않겠네!,"Ryota ... Mit Freunden wie dir kann ich
 gar nicht einsam sein!"
-42047,,"È vero? Buono a sapersi... Sono
-un po' sollevato.",這樣啊，太好了……我放心了,,"그렇구나, 잘됐다… 안심했어.","Ach ja? Das freut mich ... Da bin ich
+42047,,"È vero? Buono a sapersi...
+Sono un po' sollevato.",這樣啊，太好了……我放心了,,"그렇구나, 잘됐다… 안심했어.","Ach ja? Das freut mich ... Da bin ich
 etwas erleichtert."
-41048,,"Non sforzarti se sei ancora in
-via di guarigione.",妳才大病初癒，可別太逞強了喔,,병상에서 막 일어난 참이니 너무 무리하지 마.,"Überanstreng dich nicht, wenn du dich
+41048,,"Non sforzarti se sei ancora in via
+di guarigione.",妳才大病初癒，可別太逞強了喔,,병상에서 막 일어난 참이니 너무 무리하지 마.,"Überanstreng dich nicht, wenn du dich
 noch erholen musst."
 42048,,Bene! Anche Ryota sarà felice.,太好了！　良太也很高興喔,,잘됐다! 료타도 기뻐할거야.,Gut! Ryota wird auch froh sein.
 41049,,"Cammino per la città nel mio tempo
@@ -11193,11 +11193,10 @@ ansehen."
 giusto per farlo adesso.",謝謝。不過……我現在沒有那種心情,,고마워. 그렇지만…지금은 그럴 기분이 아니야.,"Danke ... Aber dafür bin ich gerade
 nicht in Stimmung."
 42065,,Grazie. Forse mi piacerebbe provarne un po'.,謝謝。我也有點想吃看看,,고마워. 좀 먹어보고 싶은걸.,Danke. Vielleicht probiere ich mal.
-43065,,"Ti piacciono i dolci? Non me
-l'aspettavo.",妳喜歡甜食？　感覺有點意外呢,,단걸 좋아해? 좀 의외일지도.,"Du magst Süßigkeiten? Hätte ich nicht
+43065,,"Ti piacciono i dolci?
+Non me l'aspettavo.",妳喜歡甜食？　感覺有點意外呢,,단걸 좋아해? 좀 의외일지도.,"Du magst Süßigkeiten? Hätte ich nicht
 erwartet."
-41066,,"Capito. Fai attenzione anche tu,
-Makiko!",我明白了，真希子姊也小心點！,,알겠습니다. 마키코 씨도 조심하세요!,"Verstanden. Sei du auch vorsichtig,
+41066,,"Capito. Fai attenzione anche tu, Makiko!",我明白了，真希子姊也小心點！,,알겠습니다. 마키코 씨도 조심하세요!,"Verstanden. Sei du auch vorsichtig,
 Makiko!"
 41067,,"Qui stiamo
 bene! E là?",我這裡不要緊！　你那裡呢？,,이쪽은 괜찮아! 그쪽은?,"Hier ist alles gut! Wie sieht es da
@@ -11253,8 +11252,7 @@ Erledigungen gemacht habe."
 42091,,"Sono preoccupato per il
 detective Matayoshi.",又吉刑警……令人擔心呢,,마타요시 형사…걱정이네요.,"Ich mache mir Sorgen wegen
 Kommissar Matayoshi."
-41092,,"Non sono alla ricerca di un
-apprendista!",我不收徒弟！,,제자는 받지 않습니다!,"Ich bin nicht auf der Suche nach einem
+41092,,"Non sono alla ricerca di un apprendista!",我不收徒弟！,,제자는 받지 않습니다!,"Ich bin nicht auf der Suche nach einem
 Lehrling!"
 42092,,"Immagino di avere qualche lavoretto da
 proporti?",如果是雜務，倒是可以交給妳喔～,,잡일꾼이라면 맡겨줄 수 있는데?,"Ich hätte da vielleicht einen Job für
@@ -11309,8 +11307,8 @@ ospedale giapponese. Preferisco così.","如果有什麼萬一，日本的醫院
 總是比較令人安心。那就拜託你啦",,"또 뭔가 있다고 해도 일본 병원쪽에서 바로 진찰해
 줄테니 무엇보다 안심이야.  그럼 잘 지내렴.","In einem japanischen Krankenhaus wirst
 du gleich untersucht. Finde ich besser."
-53005,,"Gli ospedali giapponesi sono meglio
-attrezzati per visitarti subito. Sono fantastici!","日本醫院的醫療體制比較完備，即使你病倒了
+53005,,"Gli ospedali giapponesi sono meglio attrezzati per
+visitarti subito. Sono fantastici!","日本醫院的醫療體制比較完備，即使你病倒了
 也能夠立刻診治，對吧？　這樣媽媽比較安心",,"일본 병원 쪽은 잘 갖추어져 있으니 또 쓰러지기라도 하면
 바로 진찰받을 수 있지? 그 편이 엄마도 안심이 돼.","In japanischen Krankenhäuser kommst du
 sofort an die Reihe. Sie sind super!"
@@ -11475,8 +11473,8 @@ preoccuparmi, dopotutto non posso essere lì.","真是的，說這種話。可�
 因為我無法陪在你身邊",,"또 그런 소릴 하고. 또 쓰러져서 걱정끼치지 말아.
 곁에 있어주지 못하니까.","So was musst du mir sagen! Ich mache mir
 Sorgen, ich kann ja nicht da sein."
-52031,,"Oggi mi sono alzato presto, quindi ho saltato
-la colazione. Immagino di non poterti sgridare...","今天一早就上工，所以沒能吃早餐
+52031,,"Oggi mi sono alzato presto, quindi ho saltato la
+colazione. Immagino di non poterti sgridare...","今天一早就上工，所以沒能吃早餐
 這樣我也沒有立場對你說教了呢",,"오늘은 아침에 바빠서 아침밥도 못먹었어.
 이래선 너한테 잔소리도 못하겠는걸.","Heute ging es früh los, ich hatte kein
 Frühstück. Da kann ich nicht schimpfen."
@@ -11500,8 +11498,8 @@ bene a tutto. Che manna dal cielo!","是嗎，那正好，馬鈴薯冷湯加了�
 恢復疲勞功效的山芋，簡直就是天降甘霖",,"그랬었군. 마침 잘됐어. 비시수아즈에는
 피로회복에 좋은 산우를 썼거든. 타이밍이 좋았군.","Ach ja? Nicht schlecht. Vichyssoise
 wird dir gut tun. So ein Segen!"
-53033,,"Beh, chissà come reagirebbe un amante
-della Vichyssoise... Farò controllare al Nokia.","哦，得到了一項不錯的消息吶。喜歡馬鈴薯冷湯
+53033,,"Beh, chissà come reagirebbe un amante della
+Vichyssoise... Farò controllare al Nokia.","哦，得到了一項不錯的消息吶。喜歡馬鈴薯冷湯
 的人，會有什麼反應呢……找諾奇雅小姐來驗證看看吧",,"호오, 좋은 정보를 얻었군. 비시수아즈를 좋아하는 사람이
 어떤 반응을 보일지… 노키아 군을 통해 검증하지.","Ich frage mich, was Vichyssoise-Freunde
 davon halten ... Nokia soll das prüfen."
@@ -11523,8 +11521,8 @@ Mi dispiace di averti fatto sentire così.","嗯，因為我總是不在家，�
 讓你也有類似的感受。一直以來很抱歉吶",,"뭐어 항상 집을 비우고 있으니 비슷한 마음이 들게
 해버렸을지도 모르겠네. 언제나 미안해.","Ist bestimmt, wie allein zu Hause zu
 sein. Tut mir leid, dass es dir so geht."
-52036,,"Sì, è per questo che sei in Giappone mentre
-io lavoro all'estero. Faresti meglio a studiare sodo!","是呀，所以即使我必須長期留在海外
+52036,,"Sì, è per questo che sei in Giappone mentre io
+lavoro all'estero. Faresti meglio a studiare sodo!","是呀，所以即使我必須長期留在海外
 也還是把你獨自留在日本。要用功唸書喔",,"그렇지. 그러니까 장기간 해외에 체류하고 있어도 너만
 일본에 남겨두고 있는거야. 공부는 제대로 하고 있지?","Ja, deshalb bist du in Japan, während
 ich im Ausland arbeite. Du musst lernen!"
