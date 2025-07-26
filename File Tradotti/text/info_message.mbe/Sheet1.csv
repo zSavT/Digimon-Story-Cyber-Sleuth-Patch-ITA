@@ -177,8 +177,8 @@ perché stai già lavorando su un altro caso.","尚有調查中的委託
 無法開始調查",,"조사 중인 의뢰가 있어
 조사를 개시할 수 없습니다.","Du kannst nicht mit den Ermittlungen beginnen,
 weil du bereits an einem anderen Fall arbeitest."
-1302,,"Inizio
-dell'indagine: ""[d0]""",開始調查[d0]！,,[d0]의 조사 개시!,"Ermittlungsbeginn:
+1302,,"Inizio dell'indagine:
+""[d0]""",開始調查[d0]！,,[d0]의 조사 개시!,"Ermittlungsbeginn:
 „[d0]“"
 1303,,"""[d0]""
 Completato! Segnalare all'agenzia investigativa.","[d0]調查完畢！
@@ -662,7 +662,8 @@ iniziarne un altro.","由於已有接下的委託，
 無法開始其他委託。",,"수락 중인 의뢰가 있기 때문에
 다른 의뢰를 개시할 수 없습니다.","Du arbeitest gerade an einem Fall und kannst nicht
 noch einen anfangen."
-6003,,Inizio dell'indagine: [d0]!,開始[d0]的委託！,,[d0]의 의뢰 개시!,Ermittlungsbeginn: [d0]!
+6003,,"Inizio dell'indagine:
+[d0]!",開始[d0]的委託！,,[d0]의 의뢰 개시!,Ermittlungsbeginn: [d0]!
 6004,,"""[d0]""
 fatto! Segnalalo all'ATL!","[d0]的委託完成！
 上BBS報告委託完成吧！",,"[d0]의 의뢰 완료!
