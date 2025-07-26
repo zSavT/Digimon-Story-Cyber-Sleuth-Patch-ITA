@@ -2,9 +2,8 @@
 100,2001,,Sento davvero freddo...,……有股寒氣。,,…냉기를 느낀다,Mir ist wirklich kalt ...
 101,4847,,...,――――,,―――――,...
 102,4847,,...,――,,――――,...
-103,3006,,"Sono di nuovo io. Ho un nuovo caso per
-te. Perché non vieni a trovarmi così ne
-possiamo parlare?","是我，有新的委託。
+103,3006,,"Sono di nuovo io. Ho un nuovo caso per te.
+Perché non vieni a trovarmi così ne possiamo parlare?","是我，有新的委託。
 你能回事務所嗎？",,"나다. 의뢰가 있다
 돌아와주겠나","Ich bin’s wieder. Ich habe einen neuen Fall für
 dich. Warum kommst du nicht vorbei, damit
@@ -14,17 +13,17 @@ Mi chiedo cosa sia successo...?","切斷了……
 發生了什麼事嗎……？",,"끊어져 버렸다…
 뭐였던 걸까…?","Hä? Plötzlich war sie weg.
 Ich frage mich, was los ist ...?"
-201,3006,,"Da quanto ho capito, l'aria condizionata all'interno
-di Nakano Broadway è fuori uso.",看起來，似乎是中野館內的空調壞掉了。,,"아무래도 나카노 관내의 에어컨이
+201,3006,,"Da quanto ho capito, l'aria condizionata all'interno di Nakano Broadway
+è fuori uso.",看起來，似乎是中野館內的空調壞掉了。,,"아무래도 나카노 관내의 에어컨이
 이상해진 것 같다","Meinen Informationen zufolge ist die Klimaanlage
 in Nakano-Broadway kaputt."
-202,3006,,"Continua semplicemente a pompare aria fredda
-costantemente e nessuno riesce ad attivare il riscaldamento.","不管怎麼做都無法切換到暖氣，
+202,3006,,"Continua semplicemente a pompare aria fredda costantemente
+e nessuno riesce ad attivare il riscaldamento.","不管怎麼做都無法切換到暖氣，
 一直不斷地放出強烈的冷風。",,"아무리 조작해도 난방으로 바뀌지 않고
 계속 차가운 강풍을 내뿜고 있다","Sie pumpt ständig kalte Luft hinein
 und die Heizung kann nicht angestellt werden."
-203,3006,,"Il fatto è che nessuno riesce a trovare
-niente di sbagliato e le aziende non sanno cosa fare.","……但是，系統和機器都沒有異常，
+203,3006,,"Il fatto è che nessuno riesce a trovare niente di sbagliato
+e le aziende non sanno cosa fare.","……但是，系統和機器都沒有異常，
 業者似乎也無計可施。",,"…하지만 시스템에도, 기계에도 이상이 발견되지 않아
 수리업자도 포기했다고 한다","Niemand weiß, was genau kaputt ist und die
 Leute in den Geschäften wissen nicht weiter."
@@ -34,58 +33,55 @@ quindi ho detto loro di lasciare fare a noi!","呵呵，我向館內的人員稍
 跟他們說這件事就交給敝公司。",,"후후, 관내의 여러 분들께 약간 영업 활동을 하고 왔다
 이 건은 저희 회사에게 맡겨 주십시오― 라고 말이야","Die Leute können nicht richtig arbeiten, also habe
 ich gesagt, sie sollen es uns überlassen."
-206,3006,,"Se riusciamo a venire a capo di questo casino, sono
-sicuro che ci ameranno per sempre per questo!","要是我們能解決這件怪事，
+206,3006,,"Se riusciamo a venire a capo di questo casino, sono sicuro che ci
+ameranno per sempre per questo!","要是我們能解決這件怪事，
 大家對我們的評價也會提升。",,"우리가 이 괴이한 사건을 무사히 해결하면
 모두의 신임도 두터워질 거다","Wenn wir das Problem lösen können, werden
 sie uns sicher ewig dankbar sein!"
 207,4847,,...,――――,,――――,...
-208,3006,,"Eh? Continui a ricevere trasmissioni da
-qualcuno? Hmm... Beh, non è forse una bellezza?","嗯？　你接到好幾次不知道是誰發出的訊息？
+208,3006,,"Eh? Continui a ricevere trasmissioni da qualcuno?
+Hmm... Beh, non è forse una bellezza?","嗯？　你接到好幾次不知道是誰發出的訊息？
 ……哼嗯，這個女孩子還蠻可愛的嘛。",,"응? 모르는 상대한테 몇 번이고 통신이 온다고?
 …흐음, 꽤나 귀여운 아이잖나","Was? Du bekommst ständig Nachrichten von
 jemandem? Hm ... Ist die nicht süß."
-209,3006,,"Il rumore bianco qui è davvero forte. Non
-riesco a capire cosa sta dicendo. Da dove
-arriva questo--","……雜音太多了，聽不清楚在說什麼。
+209,3006,,"Il rumore bianco qui è davvero forte.
+Non riesco a capire cosa sta dicendo.
+Da dove arriva questo--","……雜音太多了，聽不清楚在說什麼。
 來源是——",,"…잡음이 심하군. 뭐라고 하는 건지 알아들을 수 없지만
 발신원은―","Das weiße Rauschen hier ist wirklich schlimm.
 Ich kann nicht verstehen, was sie sagt.
 Wo kommt das h–"
 210,3006,,"Accidenti, si è interrotto.",……切斷了嗎？,,…끊어져 버렸나,"Mist, es wurde unterbrochen!"
-211,3006,,"Cosa? Stai dicendo che la stessa trasmissione è
-arrivata dove faceva freddo? Hmm... Potremmo starci
-avvicinando alla causa.","什麼？你在館內感到寒氣的地方也接到同樣的訊息？
+211,3006,,"Cosa? Stai dicendo che la stessa trasmissione è arrivata dove faceva
+freddo? Hmm... Potremmo starci avvicinando alla causa.","什麼？你在館內感到寒氣的地方也接到同樣的訊息？
 嗯……　或許那就是“原因＂呢。",,"뭐? 관내에서 냉기를 느꼈던 곳에서도 같은 통신이 왔다고?
 흐음… 이건 그야말로 ""원인"" 그 자체일지도 모르겠군","Was? Du hast die gleiche Übertragung empfangen, wo
 es kalt war? Hm ... Vielleicht kommen wir der
 Ursache näher."
-212,3006,,"Se è così, il nostro prossimo passo è risolvere questa
-cosa, semplice e diretto.","那麼，下一步就是“解決＂。
+212,3006,,"Se è così, il nostro prossimo passo è risolvere questa cosa,
+semplice e diretto.","那麼，下一步就是“解決＂。
 沒有比這個更單純的方程式了。",,"그렇다면 다음은 ""해결""이다
 이보다 단순한 방정식도 없겠지","Wenn das so ist, müssen wir das ganz
 einfach lösen."
-213,3006,,"Andrò a vedere se riesco a capire l'origine
-del segnale. Tu chiedi in giro per quanto
-riguarda l'aria condizionata.","我現在要尋找剛才的訊息是從哪裡發出的。
+213,3006,,"Andrò a vedere se riesco a capire l'origine del segnale.
+Tu chiedi in giro per quanto riguarda l'aria condizionata.","我現在要尋找剛才的訊息是從哪裡發出的。
 你幫我到BW內收集有關冷氣故障的線索。",,"나는 조금 전의 통신이 어디에서 왔는지 알아보겠다
 너는 BW 내에서 냉방의 상태가 안 좋은 것에 대한 정보를 수집하도록","Ich werde mal schauen, ob ich den Ursprung des
 Signals ermitteln kann. Du solltest wegen der
 Klimaanlage herumfragen."
-251,4848,,"Sono solo io o oggi fa particolarmente
-freddo qui? Forse dovrei tornare a casa...","你不覺得今天的BW超冷的嗎？
+251,4848,,"Sono solo io o oggi fa particolarmente freddo qui?
+Forse dovrei tornare a casa...","你不覺得今天的BW超冷的嗎？
 我們回去吧。",,"왠지 오늘 BW 엄청 춥지 않아?
 돌아갈까","Kommt mir das nur so vor oder war es hier heute
 echt kalt? Vielleicht sollte ich heimgehen ..."
 252,4849,,È strano.,嗯～，很奇怪呢。,,"으음―, 이상하네",Es ist seltsam.
-253,4849,,"Si sente decisamente freddo, ma quando controllo
-il termometro, non è sceso o niente del genere.","的確感覺很冷，但看了溫度計，
+253,4849,,"Si sente decisamente freddo, ma quando controllo il termometro,
+non è sceso o niente del genere.","的確感覺很冷，但看了溫度計，
 室溫也沒下降啊。",,"분명 춥다고는 느끼는데
 온도계를 보면 실내 온도가 내려간 건 아니란 말이지","Ich spüre die Kälte, aber wenn ich auf das
 Thermometer schaue, ist es nicht kälter."
-254,4850,,"Ho ricevuto un messaggio da una ragazza super
-carina! Voglio dire, la connessione è caduta
-immediatamente, ma...","好像有個超可愛的女孩子發訊息給我！
+254,4850,,"Ho ricevuto un messaggio da una ragazza super carina!
+Voglio dire, la connessione è caduta immediatamente, ma...","好像有個超可愛的女孩子發訊息給我！
 但馬上就斷掉了……",,"뭔가 엄청 귀여운 여자아이한테 통신이 왔었어!
 곧바로 끊어졌지만…","Ich habe eine Nachricht von einem echt süßen
 Mädchen erhalten! Die Verbindung brach dann gleich
@@ -95,30 +91,27 @@ Ma dove?","我好像在哪裡看過她啊～
 在哪～兒呢～？",,"어디선가 본 적이 있는데~
 어디였더라~?","Ich glaube, ich habe sie schon mal gesehen.
 Aber wo?"
-301,4041,,"Vuoi sapere come si è rotto l'AC? Non ne
-ho idea. Non ne so niente.","空調設備故障的原因？
+301,4041,,"Vuoi sapere come si è rotto l'AC?
+Non ne ho idea. Non ne so niente.","空調設備故障的原因？
 這我也不知道啊～",,"에어컨 설비 상태가 안 좋은 것의 원인?
 그건 나한테 물어도 모른다고~","Du willst wissen, warum die Klimaanlange kaputt
 ist? Ich habe keine Ahnung."
 302,4041,,"È strano. Non abbiamo più un'unità centrale,
-quindi come è possibile che l'AC di tutti sia
-andato via?","因為現在和以前不同，不是用「中央空調」，
+quindi come è possibile che l'AC di tutti sia andato via?","因為現在和以前不同，不是用「中央空調」，
 所以館內的空調突然全部一起故障很奇怪啊。",,"예전과 달리 지금은「중앙식」이 아니니까
 건물 안의 모든 에어컨이 한꺼번에 상태가 안 좋아지는 건 이상하지만 말이야","Es ist seltsam. Wir haben keine Zentralanlage
 mehr. Wie kann dann die Klimaanlage für alle
 aus sein?"
-303,4041,,"Eh? Non sai dell'unità
-centrale?",嗯？　你不知道中央空調嗎？,,응? 중앙식을 모르는 거야?,"Was? Du weißt nicht über die Zentralanlage
+303,4041,,"Eh? Non sai dell'unità centrale?",嗯？　你不知道中央空調嗎？,,응? 중앙식을 모르는 거야?,"Was? Du weißt nicht über die Zentralanlage
 Bescheid?"
-304,4041,,"Quando questo posto ha aperto, c'era una
-grande unità sotterranea che controllava l'aria
-condizionata per l'intero edificio.","當初建立這個設施時，
+304,4041,,"Quando questo posto ha aperto, c'era una grande unità sotterranea che
+controllava l'aria condizionata per l'intero edificio.","當初建立這個設施時，
 地下有個大型冷暖空調設備在控制館內全部的空調。",,"이 시설은 개설 당시, 지하에 있는 대형 냉난방 설비가
 건물 내의 모든 에어컨을 제어하고 있었어","Als dieses Gebäude eröffnet wurde, gab es eine
 große unterirdische Anlage, die die Klimaanlage
 für das ganze Gebäude regulierte."
-305,4041,,"Il modo in cui funzionava era che ogni negozio faceva
-circolare quell'aria fresca fino ai propri negozi con delle ventole.","以前只要各家店打開風扇，
+305,4041,,"Il modo in cui funzionava era che ogni negozio faceva circolare
+quell'aria fresca fino ai propri negozi con delle ventole.","以前只要各家店打開風扇，
 就會有冷風從地下送上來。",,"예전엔 각 점포에서 팬을 돌리는 것만으로
 지하에서 차가운 바람이 올라왔지","Es funktionierte so, dass jeder Laden die kalte
 Luft mit Ventilatoren in die Läden beförderte."
@@ -126,27 +119,24 @@ Luft mit Ventilatoren in die Läden beförderte."
 307,4041,,"Perché c'era un'unità centrale sottoterra,
 in primo luogo?",為什麼地下有這麼大型的空調設備？,,어째서 지하에 그런 대형 에어컨 설비가 있었던 거냐고?,"Warum gab es überhaupt eine unterirdische
 Zentralanlage?"
-308,4041,,"Beh, serviva per refrigerare una certa
-cosa. Ahaha, cosa pensi che fosse?","是要用那個系統來冷卻“某種東西＂啦……
+308,4041,,"Beh, serviva per refrigerare una certa cosa.
+Ahaha, cosa pensi che fosse?","是要用那個系統來冷卻“某種東西＂啦……
 呵呵呵，你想那是什麼？",,"그 시스템을 이용해 ""어떤 것""을 냉각시키고 있었거든…
 후후훗, 뭐라고 생각해?","Nun ja, damit sollte etwas gekühlt werden.
 Haha, was meinst du, was es war?"
-309,4041,,"Era il computer a valvole più vecchio
-del Giappone! Ci credi!?",——竟然是日本最古老的「真空管式電腦」啊！,,―놀랍게도 그건 일본에서 가장 오래된「진공관식 컴퓨터」야!,"Es war der älteste Röhrencomputer in Japan!
+309,4041,,"Era il computer a valvole più vecchio del Giappone! Ci credi!?",——竟然是日本最古老的「真空管式電腦」啊！,,―놀랍게도 그건 일본에서 가장 오래된「진공관식 컴퓨터」야!,"Es war der älteste Röhrencomputer in Japan!
 Kannst du das glauben?"
-310,4041,,"La stanza che ospitava quel computer
-era proprio qui a Nakano!","而且設置著那台電腦的電腦室，
+310,4041,,"La stanza che ospitava quel computer era proprio qui a Nakano!","而且設置著那台電腦的電腦室，
 以前就在中野哦！",,"그게 설치된 컴퓨터 룸이
 일찍이 이 나카노에 있었던 거라고!","Der Raum, in dem der Computer untergebracht war,
 befand sich hier in Nakano!"
-311,4041,,"È triste a dirsi, non ho idea di cosa gli sia
-successo. Non è rimasto più niente.","但是很遺憾地，那個電腦室不知道是整修還是被掩埋，
+311,4041,,"È triste a dirsi, non ho idea di cosa gli sia successo.
+Non è rimasto più niente.","但是很遺憾地，那個電腦室不知道是整修還是被掩埋，
 如今已經消失無蹤了呢……",,"…개조됐는지 어디 묻혔는지
 아쉽게도 지금은 흔적도 없지만 말이야…","Leider weiß ich nicht, was damit geschehen ist.
 Von ihm ist nichts mehr übrig."
-312,4041,,"E anche se ci fosse, non ci sono
-più registrazioni. Nessuno
-ricorda dove fosse, nemmeno.","不僅如此，要是沒有設置場所的記錄，
+312,4041,,"E anche se ci fosse, non ci sono più registrazioni.
+Nessuno ricorda dove fosse, nemmeno.","不僅如此，要是沒有設置場所的記錄，
 早就沒人記得了。",,"그뿐 아니라 있었던 곳의 기록도 없거니와
 누구의 기억에도 남아 있지 않아","Und selbst wenn noch etwas übrig wäre, gibt es
 dazu keine Aufzeichnungen. Niemand kann sich
@@ -155,9 +145,8 @@ erinnern, wo er sich befand."
 una leggenda metropolitana.",那間房間的存在本身就像是個都市傳說……,,방의 존재 자체가 도시전설 같은 거지…,"Vielleicht ist der Raum auch eine
 Großstadtlegende."
 314,2001,,...,……,,………,...
-315,4041,,"Posso dirti una cosa, fa davvero
-freddo... Anche se ha fatto miracoli per
-le vendite di caffè oggi.","不過，還真是冷啊～
+315,4041,,"Posso dirti una cosa, fa davvero freddo...
+Anche se ha fatto miracoli per le vendite di caffè oggi.","不過，還真是冷啊～
 多虧於此，熱咖啡也賣得不錯就是了……",,"이야, 그건 그렇고 춥네~
 덕분에 핫커피 판매량은 좋지만 말이야…","Eins kann ich dir sagen. Es ist wirklich kalt ...
 Obwohl es sich heute gut auf den Verkauf
@@ -167,12 +156,10 @@ quindi torna in ufficio quando puoi, okay?","我找到剛才那通訊息的發�
 你收集得差不多就回事務所來。",,"아까 왔던 통신의 발신원이 판명되었다
 네가 괜찮을 때 사무소로 돌아오도록","Ich habe herausgefunden, wo das Signal herkommt.
 Komm zurück ins Büro, wenn du Zeit hast, ja?"
-317,4041,,"Sembra proprio che la vecchia unità centrale
-stia per andare in tilt.",這叫做中央空調。,,이걸 중앙식이라고 해,"Es fühlt sich wirklich an, als ob die alte
+317,4041,,"Sembra proprio che la vecchia unità centrale stia per andare in tilt.",這叫做中央空調。,,이걸 중앙식이라고 해,"Es fühlt sich wirklich an, als ob die alte
 Zentralanlage aus ist."
 381,4041,,"Una cosa è certa, fa un freddo cane...
-Anche se oggi ha fatto miracoli per le
-vendite di caffè.","不過，還真是冷啊～
+Anche se oggi ha fatto miracoli per le vendite di caffè.","不過，還真是冷啊～
 多虧於此，熱咖啡也賣得不錯就是了……",,"이야, 그건 그렇고 춥네
 덕분에 핫커피 판매량은 좋지만 말이야…","Eins steht fest, es ist teuflisch kalt ...
 Obwohl es sich heute gut auf den Kaffeekonsum
@@ -182,35 +169,31 @@ Ora, cosa hai da riferire?","情報調查辛苦了……
 首先，來聽聽你的報告吧。",,"탐문 조사 수고했다…
 우선은 네 보고부터 듣도록 하지","Gute Arbeit mit deinen Ermittlungen.
 Was hast du zu berichten?"
-402,3006,,"Mmm... è la prima volta che sento parlare
-di quella stanza computer. Ma con queste
-informazioni, tutto comincia a tornarmi ora.","……嗯，我還是第一次聽說有電腦室。
+402,3006,,"Mmm... è la prima volta che sento parlare di quella stanza computer.
+Ma con queste informazioni, tutto comincia a tornarmi ora.","……嗯，我還是第一次聽說有電腦室。
 不過，多虧了你，我知道事情的大略了。",,"…흐음, 컴퓨터 룸의 존재는 처음 듣는군
 하지만 네 덕분에 사건이 어떻게 돌아가는지 알 것 같다","Hm ... Ich höre zum ersten Mal von diesem
 Computerraum. Aber durch diesen Hinweis ergeben
 jetzt andere Dinge mehr Sinn."
-403,3006,,"Come ho detto prima, ho capito chi è
-la ragazza in quelle trasmissioni.",我也去查了在訊息中出現的少女。,,나도 통신에 나왔던 소녀의 정체를 알아냈다,"Wie schon erwähnt, habe ich herausgefunden, wer
+403,3006,,"Come ho detto prima, ho capito chi è la ragazza in quelle trasmissioni.",我也去查了在訊息中出現的少女。,,나도 통신에 나왔던 소녀의 정체를 알아냈다,"Wie schon erwähnt, habe ich herausgefunden, wer
 das Mädchen in den Übertragungen ist."
-404,3006,,"Si chiama Fuyume Yuki. Era
-un'idol di successo di qualche decennio fa.",那個少女是“幾十年前＂爆紅的偶像「雪冬女」。,,"…그 소녀는 ""수십 년 전""에 대인기였던 아이돌
+404,3006,,"Si chiama Fuyume Yuki.
+Era un'idol di successo di qualche decennio fa.",那個少女是“幾十年前＂爆紅的偶像「雪冬女」。,,"…그 소녀는 ""수십 년 전""에 대인기였던 아이돌
 「유우키 후유메」다","Ihr Name ist Fuyume Yuki. Sie war vor ein paar
 Jahrzehnten ein Idol, das plötzlich berühmt wurde."
-405,3006,,"Quello che abbiamo visto... l'avatar sullo schermo
-è lei quando era all'apice della sua carriera come idol.","正確來說，是她的化身……
+405,3006,,"Quello che abbiamo visto... l'avatar sullo schermo è lei quando
+era all'apice della sua carriera come idol.","正確來說，是她的化身……
 出現在訊息中的似乎是她最出名時的模樣。",,"정확히는 그 아바타지…
 그 모습은 가장 인기를 끌었던 때의 모습인 것 같다","Was wir gesehen haben ... Der Avatar auf dem
 Bildschirm ist sie zu ihren berühmtesten Zeiten."
-406,3006,,"Qualcuno sta quindi usando un
-terminale all'interno di Nakano
+406,3006,,"Qualcuno sta quindi usando un terminale all'interno di Nakano
 Broadway e trasmettendo le sue sembianze.","有人模仿她的樣子，
 向BW館內的所有終端傳送訊息。",,"누군가가 그녀를 본뜬 모습을 사용해
 BW 관내의 온갖 단말기에 통신을 보내고 있다","Jemand benutzt also ein Terminal in
 Nakano-Broadway und hat sich ihr
 Aussehen zur Übertragung angeeignet."
 407,3006,,E il segnale... sembra provenire dal 4°piano.,發訊源是……BW館內的4樓——,,발신원은… BW 관내의 4층―,Und das Signal ... kommt wohl aus der 3. Etage.
-408,3006,,"Guardando la mappa, è proprio dentro un
-muro al K-Cafe.",從館內的地圖來看，剛好是K-Cafe的“牆壁裡＂。,,"관내 지도에서 보면 정확히 K-카페의 ""벽 속""이다","Der Karte zufolge kommt es direkt aus einer
+408,3006,,"Guardando la mappa, è proprio dentro un muro al K-Cafe.",從館內的地圖來看，剛好是K-Cafe的“牆壁裡＂。,,"관내 지도에서 보면 정확히 K-카페의 ""벽 속""이다","Der Karte zufolge kommt es direkt aus einer
 Wand im K-Café."
 409,2001,,!?,！？,,!?,?!
 410,3006,,"Tutta questa storia si è svolta come un racconto dell'orrore,
@@ -220,108 +203,100 @@ messaggio dall'interno di un muro...","幾十年前的偶像從牆壁裡不斷�
 라는 건 정말 무서운 이야기지만…","Das Ganze klingt wie eine Horrorgeschichte, oder?
 Ein längst vergessenes Idol, dessen Nachricht
 aus einer Wand kommt ..."
-411,3006,,"Ma con il tuo rapporto, tutto sta prendendo
-forma ora.",但是，聽了你的報告後我就想到了。,,네 보고를 듣고 감이 왔다,"Aber dank deines Berichts fügt sich jetzt alles
+411,3006,,"Ma con il tuo rapporto, tutto sta prendendo forma ora.",但是，聽了你的報告後我就想到了。,,네 보고를 듣고 감이 왔다,"Aber dank deines Berichts fügt sich jetzt alles
 zusammen."
-412,3006,,"Abbiamo scoperto un pezzo di storia di Nakano Broadway che
-nemmeno il proprietario del K-Cafe, considerato lo
-storico di riferimento, poteva affermare di conoscere.","我們挖掘到連中野“活字典＂的
+412,3006,,"Abbiamo scoperto un pezzo di storia di Nakano Broadway che nemmeno
+il proprietario del K-Cafe, considerato lo storico di riferimento,
+poteva affermare di conoscere.","我們挖掘到連中野“活字典＂的
 K-Cafe老闆也不知道的BW歷史。",,"우리는 나카노의 ""만물박사""인 K-카페의
 마스터조차 모르는 BW의 역사를 발굴해낸 거다","Wir haben Geschichtliches über Nakano-Broadway
 herausgefunden, über das nicht mal der
 Besitzer des K-Cafés Bescheid weiß."
-413,3006,,"Ma basta chiacchiere. È ora di tornare al
-K-Cafe. Verrò anch'io per questa.","那就走吧，去「K-Cafe」。
+413,3006,,"Ma basta chiacchiere. È ora di tornare al K-Cafe.
+Verrò anch'io per questa.","那就走吧，去「K-Cafe」。
 這次我也跟你一起去。",,"…그럼, 가볼까.「K-카페」로 향하도록
 이번엔 나도 동행하지","Aber genug geredet. Gehen wir zum K-Café zurück.
 Ich komme dieses Mal mit."
-451,4851,,"Ho ricevuto un messaggio da una ragazza e quando
-ho risposto... All'improvviso si è fatto freddo. È la
-""Donna delle Nevi!"" Ci ha maledetti! Deve essere lei!","收到女孩子發來的訊息……回應之後就突然變冷……
+451,4851,,"Ho ricevuto un messaggio da una ragazza e quando ho risposto...
+All'improvviso si è fatto freddo.
+È la ""Donna delle Nevi!"" Ci ha maledetti! Deve essere lei!","收到女孩子發來的訊息……回應之後就突然變冷……
 是雪女……！　這是雪女的詛咒啊！",,"여자아이한테 온 착신이 있길래… 응답했더니… 갑자기 추워졌어…
 ""설녀""야…! 설녀의 저주야, 이거…！","Ich erhielt eine Nachricht von einem Mädchen
 und als ich antwortete, wurde es plötzlich kalt.
 Die „Schneefrau“! Sie muss uns verflucht haben!"
-452,3006,,"Heh, la Donna delle Nevi. Il MO calza proprio a pennello
-con quella fiaba, però. Anche il nome
-dell'idol, Fuyume Yuki, significa ""Donna delle Nevi invernale"".","嗯……雪女這說法不錯。
+452,3006,,"Heh, la Donna delle Nevi. Il MO calza proprio a pennello con quella
+fiaba, però. Anche il nome dell'idol, Fuyume Yuki, significa
+""Donna delle Nevi invernale"".","嗯……雪女這說法不錯。
 雪冬女，雪冬女……雪女……嗎？",,"흐음… 설녀라니 좋은 표현이군
 유우키 후유메. 유키 후유메(겨울 여자)… 그래서 설녀인가","Ha, die Schneefrau. Die Vorgehensweise passt schon
 zu der alten Geschichte. Selbst ihr Name,
 Fuyume Yuki, bedeutet „Schneefrau im Winter“."
 453,3006,,"La stessa Donna delle Nevi compare in molte storie provenienti
-da regioni con climi freddi. Sicuramente è la prima
-volta che assume la forma di un'anziana idol anni '80.","雖然寒冷地區有很多雪奶娘、冰柱女等雪女傳說，
+da regioni con climi freddi. Sicuramente è la prima volta che assume
+la forma di un'anziana idol anni '80.","雖然寒冷地區有很多雪奶娘、冰柱女等雪女傳說，
 但是扮成80年代偶像的雪女……",,"유키온바, 츠라라 아내 같이 추운 지역엔 설녀 전설이 많다고는 하지만
 80년대 아이돌의 모습을 한 설녀라니…","Die Schneefrau taucht in vielen Geschichten aus
 kalten Regionen auf. Aber sie tritt zum
 ersten Mal als Idol aus den 80ern auf."
-454,3006,,"Ma è piuttosto appropriato per Nakano
-Broadway, tutto considerato, heehee.",呵呵，很有BW的風格嘛。,,후훗… 확실히 BW답군,"Wobei ... Wenn man so darüber nachdenkt, passt
+454,3006,,"Ma è piuttosto appropriato per Nakano Broadway,
+tutto considerato, heehee.",呵呵，很有BW的風格嘛。,,후훗… 확실히 BW답군,"Wobei ... Wenn man so darüber nachdenkt, passt
 es zu Nakano-Broadway, hehe."
 455,3006,,"Comunque, se non agiamo in fretta, danneggerà
-la reputazione di questo posto,
-quindi diamoci una mossa.","但是，再這樣下去BW的風評會變差。
+la reputazione di questo posto, quindi diamoci una mossa.","但是，再這樣下去BW的風評會變差。
 我們得加快速度……走囉。",,"하지만 이대로는 BW의 평판에 지장이 생길 거야
 서두를 필요가 있겠군… 가자","Aber wenn wir nicht schnell etwas unternehmen,
 ruiniert sie den Ruf des Gebäudes.
 Beeilen wir uns also."
-456,4852,,"N-Non riesco quasi a crederci... Ma è
-decisamente stato molto f-freddo qui dentro. Ho una brutta
-sensazione. Forse è meglio che vada a casa...","不……不會吧～　但是，的確很冷……
+456,4852,,"N-Non riesco quasi a crederci...
+Ma è decisamente stato molto f-freddo qui dentro.
+Ho una brutta sensazione. Forse è meglio che vada a casa...","不……不會吧～　但是，的確很冷……
 而且感覺有點可怕，今天就先回去吧……",,"서… 설마~ ……하지만 확실히 엄청 춥네…
 왠지 기분 나쁘니 오늘은 이만 돌아가지…","I-Ich kann es kaum glauben ... Aber es ist
 wirklich k-kalt hier. Ich habe ein ungutes Gefühl.
 Vielleicht gehe ich lieber nach Hause ..."
-501,3006,,"Ci siamo...
-La trasmissione dovrebbe provenire
-dall'altra parte da qui.","就是這裡吧……
+501,3006,,"Ci siamo... La trasmissione dovrebbe provenire dall'altra parte da qui.","就是這裡吧……
 發訊源剛好是在這裡的另一頭。",,"여기군…
 송신원은 바로 이 건너편이다","Da wären wir ...
 Die Übertragung sollte von hier stammen,
 von der anderen Seite."
-502,3006,,"Ecco la sala caldaie
-sotterranea... Ma è strano, è insolitamente
-freddo anche per un seminterrato.","這裡是在中野BW地下的鍋爐室。
+502,3006,,"Ecco la sala caldaie sotterranea...
+Ma è strano, è insolitamente freddo anche per un seminterrato.","這裡是在中野BW地下的鍋爐室。
 但是，就算是來到地下也實在是異常地冷……",,"여기가 나카노 BW의 지하에 있는 보일러실이다
 …하지만 지하라는 점을 감안해도 이상할 정도로 춥군","Hier ist der Heizkeller ...
 Aber wie seltsam, es ist ungewöhnlich kalt,
 selbst für einen Kellerraum."
-503,3006,,"Hmm... La trasmissione dovrebbe provenire
-dall'altra parte, qui.",嗯……發訊源剛好在另一頭。,,흐음… 송신원은 바로 이 건너편이군,"Hm ... Die Übertragung sollte hier von der
+503,3006,,"Hmm... La trasmissione dovrebbe provenire dall'altra parte,
+qui.",嗯……發訊源剛好在另一頭。,,흐음… 송신원은 바로 이 건너편이군,"Hm ... Die Übertragung sollte hier von der
 anderen Seite kommen."
-504,3006,,"Eppure non c'è nessuna porta e non ci
-sono segni di manomissione del muro...
-Cosa sta succedendo qui...?",不過，眼前只有這道沒有門、也沒有任何傷痕的牆……,,하지만 문도 상처 자국도 전혀 없는 단순한 벽이라…,"Aber es gibt keine Tür oder andere Hinweise, dass
+504,3006,,"Eppure non c'è nessuna porta e non ci sono segni di manomissione
+del muro... Cosa sta succedendo qui...?",不過，眼前只有這道沒有門、也沒有任何傷痕的牆……,,하지만 문도 상처 자국도 전혀 없는 단순한 벽이라…,"Aber es gibt keine Tür oder andere Hinweise, dass
 sich jemand an der Wand zu schaffen gemacht hat.
 Was geht hier vor sich ...?"
 505,4847,,...,————,,――――,...
-506,3006,,"Un'altra trasmissione... Questo conferma quasi che
-siamo nel posto giusto, quindi.","又有訊息……
+506,3006,,"Un'altra trasmissione...
+Questo conferma quasi che siamo nel posto giusto, quindi.","又有訊息……
 看來肯定就是這裡了。",,"또 통신인가…
 아무래도 여기가 틀림없는 것 같다","Noch eine Übertragung ... Was wohl bestätigt, dass
 wir am richtigen Ort sind."
 507,3006,,Non mi... Non mi piace per niente.,不過，這……很糟糕……呢。,,하지만 이건… 위험… 하군,Das ... Das gefällt mir nicht.
 508,2001,,...!?,……！？,,…!?,...?!
-509,3006,,"È come se... si fosse accorta che stiamo
-cercando di intrometterci... e ora è ancora più
-fredda!","……看來……我們企圖干涉的行動被發現了…… 
+509,3006,,"È come se... si fosse accorta che stiamo cercando di intrometterci...
+e ora è ancora più fredda!","……看來……我們企圖干涉的行動被發現了…… 
 冷氣……非常強烈……！",,"…아무래도… 간섭하려 하는 걸 눈치챈 것 같다…
 엄청난… 냉기다…!","Es ist fast, als ob ... sie gemerkt hat, dass wir
 uns hier einmischen ... und jetzt ist es noch
 kälter!"
 510,3006,,...!,……！！,,…!!,...!
 511,3006,,"Oh, hai trovato qualcosa?",……你發現什麼了嗎？,,…뭔가 찾았나?,"Na, hast du etwas gefunden?"
-512,3006,,"Capisco... Quindi c'è un punto di accesso
-nel cyberspace dentro quel muro.","牆壁的另一邊……是電腦空間……？
+512,3006,,"Capisco... Quindi c'è un punto di accesso nel cyberspace dentro
+quel muro.","牆壁的另一邊……是電腦空間……？
 原來如此……",,"벽 너머에… 전뇌공간이…?
 과연…","Verstehe ... In der Wand befindet sich ein
 Zugangspunkt zum Cyberspace."
-513,3006,,"Non preoccuparti per me, vai
-avanti e entra!",別管我……你快去！,,나는 신경 쓰지 말고… 가라!,"Mach dir keine Sorgen um mich. Mach ruhig weiter
+513,3006,,"Non preoccuparti per me, vai avanti e entra!",別管我……你快去！,,나는 신경 쓰지 말고… 가라!,"Mach dir keine Sorgen um mich. Mach ruhig weiter
 und geh hinein!"
-514,3006,,"Probabilmente sei meno...influenzato
-dai suoi trucchi grazie al tuo corpo unico.","你受到的傷害比較少，
+514,3006,,"Probabilmente sei meno...influenzato dai suoi trucchi grazie
+al tuo corpo unico.","你受到的傷害比較少，
 果然是因為你不是肉身……嗎……？",,"네게 대미지가 적은 건…
 역시 온전한 인간의 몸이 아니기 때문… 인 걸… 까…","Dank deines einzigartigen Körpers haben ihre
 Tricks wahrscheinlich weniger Wirkung auf dich."
@@ -329,111 +304,104 @@ Tricks wahrscheinlich weniger Wirkung auf dich."
 552,4854,,Ti prego...aiutami...,"謝謝——你——……求求……你——
 ……救——我——",,"―고―마워―… 부… 탁―
 ……구――해――",Bitte ... hilf ... mir ...
-553,1370,,"PIÙ FREDDO... NON È ABBASTANZA FREDDO! NON
-FINCHÉ TUTTI NON SARANNO CONGELATI!","再冷一點！　讓你們變得更冷！
+553,1370,,"PIÙ FREDDO... NON È ABBASTANZA FREDDO!
+NON FINCHÉ TUTTI NON SARANNO CONGELATI!","再冷一點！　讓你們變得更冷！
 把大家都，封在冰塊裡——！",,"더욱…! 더욱더 춥게 만들겠어!
 모두 얼음으로 만들어 주지―!","KÄLTER ... ES IST NICHT KALT GENUG!
 ALLE MÜSSEN ERFRIEREN!"
 554,2001,,!!!,！！,,!!,!!!
-581,1321,,"Brrr, che freddo! Grazie per esservi
-presi cura di lui! Che brutto glitch!","啊，好冷啊……多虧你，我才得救了。
+581,1321,,"Brrr, che freddo! Grazie per esservi presi cura di lui!
+Che brutto glitch!","啊，好冷啊……多虧你，我才得救了。
 發生錯誤還真令人困擾呢……",,"아아, 추워라… 덕분에 살았어
 위험하네, 에러란 건…","Brrr, es war so kalt! Danke, dass du dich um ihn
 gekümmert hast! Was für ein fieser Defekt!"
-582,1321,,"Hai salvato la situazione, davvero! Devi essere venuto
-quando hai sentito la mia voce, giusto?","謝謝你救了我。
+582,1321,,"Hai salvato la situazione, davvero! Devi essere venuto quando hai
+sentito la mia voce, giusto?","謝謝你救了我。
 你是聽到我的聲音才來救我的吧？",,"구해줘서 고마워
 내 목소리를 듣고 와 준 거지?","Du bist meine Rettung! Du bist gekommen, weil du
 meine Stimme gehört hast, oder?"
-583,1321,,"No? Sei un Cyber Detective che lavora
-a un caso? Non lo capisco molto.","咦？　不是嗎？　電腦偵探？　委託？
+583,1321,,"No? Sei un Cyber Detective che lavora a un caso?
+Non lo capisco molto.","咦？　不是嗎？　電腦偵探？　委託？
 嗯～我聽不太懂。",,"어? 아니야? 전뇌탐정? 의뢰로?
 으음―, 잘 모르겠네","Nein? Du bist ein Cyber-Detektiv, der an einem
 Fall arbeitet? Das verstehe ich nicht."
-584,1321,,"Ma comunque, tutto è bene quel che
-finisce bene! La furia di Frigimon ha davvero
-causato un sacco di problemi!","無論如何，真是得救了。
+584,1321,,"Ma comunque, tutto è bene quel che finisce bene!
+La furia di Frigimon ha davvero causato un sacco di problemi!","無論如何，真是得救了。
 雪人獸暴走起來很令人傷腦筋啊。",,"아무래도 좋지만, 덕분에 살았어
 프리지몬의 폭주 때문에 엄청 곤란해하고 있었어","Aber egal, Ende gut – alles gut!
 Wegen Frigimons Ausraster gab es
 so viele Probleme!"
 585,2001,,?,？？,,??,?
 586,1321,,Eh? Chi sono io?,咦？　我是誰？,,어? 내가 누구냐고?,Was? Wer ich bin?
-587,1321,,"Ehm, beh... a dire il vero, non lo so
-nemmeno io.","嗯……
+587,1321,,"Ehm, beh... a dire il vero, non lo so nemmeno io.","嗯……
 其實，我也不太清楚自己是誰。",,"으음―…
 실은 나도 내가 누구인지 몰라","Ähm ... Nun ja, um ehrlich zu sein, weiß ich das
 auch nicht."
-588,1321,,"Sono rimasto intrappolato addormentato dentro questo muro per
-tutto questo tempo, capisci.",畢竟我一直沉睡在牆壁中……。,,어쨌든 계속 벽 속에서 잠들어 있었으니까,"Ich habe nämlich die ganze Zeit über in dieser
+588,1321,,"Sono rimasto intrappolato addormentato dentro questo muro per tutto
+questo tempo, capisci.",畢竟我一直沉睡在牆壁中……。,,어쨌든 계속 벽 속에서 잠들어 있었으니까,"Ich habe nämlich die ganze Zeit über in dieser
 Wand geschlafen."
 589,3006,,"Ehi, finalmente ha smesso di soffiare aria fredda qui.
-Ottimo lavoro! Hai fatto così
-tanto, devi essere stanco.","館內的冷氣停止了呢。
+Ottimo lavoro! Hai fatto così tanto, devi essere stanco.","館內的冷氣停止了呢。
 這次似乎處理得還算不錯，辛苦你了。",,"관내의 냉기가 사라졌다
 순조롭게 끝낸 모양이군, 수고했다","He, ich spüre hier endlich keine kalte Luft mehr.
 Gute Arbeit! Du hast so viel getan.
 Du bist sicher müde."
-590,3006,,"Sarebbe stato davvero triste se fossimo congelati
-fino alla morte qui a Tokyo, di tutti i posti.",唉呀……畢竟在現代日本的首都凍死就太丟臉了。,,"이런이런… 현대 일본의 수도에서 동사하는 건
+590,3006,,"Sarebbe stato davvero triste se fossimo congelati fino alla morte
+qui a Tokyo, di tutti i posti.",唉呀……畢竟在現代日本的首都凍死就太丟臉了。,,"이런이런… 현대 일본의 수도에서 동사하는 건
 너무 한심하니까 말이지…","Es wäre wirklich traurig gewesen, wenn wir
 ausgerechnet in Tokio erfroren wären."
-591,3006,,"Ma ora non dobbiamo più
-preoccuparcene grazie a te!",多虧有你，得救了。,,네 덕분에 살았다,"Aber jetzt müssen wir uns dank dir keine Sorgen
+591,3006,,"Ma ora non dobbiamo più preoccuparcene grazie a te!",多虧有你，得救了。,,네 덕분에 살았다,"Aber jetzt müssen wir uns dank dir keine Sorgen
 deswegen machen!"
-592,3006,,"Hmm? Hai trovato un
-Digimon gatto con amnesia?",嗯？　喪失記憶的貓數碼寶貝？,,응? …기억상실증에 걸린 고양이 디지몬?,"Hm? Du hast ein Katzen-Digimon mit
+592,3006,,"Hmm? Hai trovato un Digimon gatto con amnesia?",嗯？　喪失記憶的貓數碼寶貝？,,응? …기억상실증에 걸린 고양이 디지몬?,"Hm? Du hast ein Katzen-Digimon mit
 Gedächtnisverlust gefunden?"
-593,3006,,"Beh, risolvi un mistero, solo per inciampare
-in un altro, a quanto pare. Torna qui e
-ci occuperemo della cosa.","喔，還真是謎題重重啊。
+593,3006,,"Beh, risolvi un mistero, solo per inciampare in un altro, a quanto pare.
+Torna qui e ci occuperemo della cosa.","喔，還真是謎題重重啊。
 你先回來吧，我們來調查看看。",,"…호오, 수수께끼가 수수께끼를 부른 건가
 돌아오도록. 조사해보지","Also, du hast ein Rätsel gelöst und dabei ein
 weiteres gefunden. Komm wieder her, dann
 kümmern wir uns darum."
 601,3006,,"Un Digimon amnesiaco, eh...?
-Ogni volta che penso di aver visto
-tutto, vengo smentito ancora una volta.","喪失記憶的貓數碼寶貝……
+Ogni volta che penso di aver visto tutto,
+vengo smentito ancora una volta.","喪失記憶的貓數碼寶貝……
 你又發現不得了的東西了呢。",,"기억상실증에 걸린 고양이 디지몬…이라니
 또 터무니없는 걸 발견했군","Ein Digimon mit Gedächtnisverlust, was ...?
 Jedes Mal, wenn ich denke, dass mich nichts mehr
 überrascht, wird mir das Gegenteil bewiesen."
-602,3006,,"Suppongo che quelle trasmissioni con Fuyume Yuki
-siano state opera tua, allora?","在館內收到的「雪冬女」訊息，
+602,3006,,"Suppongo che quelle trasmissioni con Fuyume Yuki siano state opera tua,
+allora?","在館內收到的「雪冬女」訊息，
 是你發送的嗎？",,"모든 관내에 발신한「유우키 후유메」의 통신은
 네가 한 일인가?","Für diese Übertragungen mit Fuyume Yuki warst dann
 wohl du verantwortlich?"
-603,4855,,"Sì. Non potevo muovermi una volta che Frigimon ha
-iniziato a impazzire, quindi ho dovuto chiamare
-aiuto in qualche modo e ho inviato quei messaggi.","嗯。雪人獸害我無法動彈，真的很困擾。
+603,4855,,"Sì. Non potevo muovermi una volta che Frigimon ha iniziato a impazzire,
+quindi ho dovuto chiamare aiuto in qualche modo e ho inviato quei messaggi.","嗯。雪人獸害我無法動彈，真的很困擾。
 所以我為了求救而發出訊息。",,"응. 프리지몬 때문에 꼼짝할 수 없어져서 곤란했어
 그래서 도움을 구하려고 메시지를 송신했던 거야","Ja. Nachdem Frigimon durchgedreht war, konnte ich
 mich nicht mehr bewegen und musste irgendwie
 um Hilfe rufen. Deshalb die Nachrichten."
 604,2001,,!!!,！！,,!!,!!!
-605,3006,,"Quindi questo significa che quel computer a valvole era
-davvero lì dietro il muro, per tutto questo tempo...",……果然，那道牆裡存在著「真空管式電腦」嗎？,,"…역시 그 벽 속에는「진공관식 컴퓨터」가
+605,3006,,"Quindi questo significa che quel computer a valvole era davvero lì
+dietro il muro, per tutto questo tempo...",……果然，那道牆裡存在著「真空管式電腦」嗎？,,"…역시 그 벽 속에는「진공관식 컴퓨터」가
 존재했던 건가","Das bedeutet, dass der Röhrencomputer die ganze
 Zeit über wirklich hinter der Wand war ..."
-606,4855,,"Sono stato addormentato dentro quel computer per
-un tempo mooolto lungo. Mi sono svegliato solo di recente.","我已經在那台電腦中沉睡了很久，
+606,4855,,"Sono stato addormentato dentro quel computer per un tempo mooolto lungo.
+Mi sono svegliato solo di recente.","我已經在那台電腦中沉睡了很久，
 不過，在前一陣子不小心醒來……",,"…나는 엄청 오랫동안 그 컴퓨터 안에서
 잠들어 있었어. 하지만 극히 최근에 눈을 떠서…","Ich hatte wirklich lange in dem Computer
 geschlafen. Ich bin erst vor Kurzem aufgewacht."
-607,4855,,"E quando l'ho fatto, non avevo idea di chi fossi
-o cosa stessi facendo dentro quel muro,
-quindi ho deciso di andare e vedere cosa potevo imparare.","然後，當我在尋找自己為什麼會在那裡，
+607,4855,,"E quando l'ho fatto, non avevo idea di chi fossi o cosa stessi facendo
+dentro quel muro, quindi ho deciso di andare e vedere cosa potevo
+imparare.","然後，當我在尋找自己為什麼會在那裡，
 自己是誰等等時……",,"그래서 왜 거기 있었는지
 자신은 누구인지 알아보다 보니…","Und als ich aufwachte, wusste ich nicht, wer ich
 war oder warum ich in der Wand war. Also
 beschloss ich, so viel wie möglich herauszufinden."
-608,4855,,"Fu allora che mi imbattei in una intranet che
-collegava il computer a valvole termoioniche al resto dell'edificio.","偶然找到了連結真空管式電腦與
+608,4855,,"Fu allora che mi imbattei in una intranet che collegava il computer
+a valvole termoioniche al resto dell'edificio.","偶然找到了連結真空管式電腦與
 這棟建築物的「內部網路」。",,"우연히 진공관식 컴퓨터랑 이 건물을 잇는
 「인트라넷」을 발견했어","So stolperte ich über ein Intranet, das den
 Röhrencomputer mit dem Rest des Gebäudes verband."
-609,3006,,"Intranet...? Vuoi dire linee di networking che
-operano solo all'interno di Nakano Broadway.","內部……是指只有在中野館內，
+609,3006,,"Intranet...? Vuoi dire linee di networking che operano solo all'interno
+di Nakano Broadway.","內部……是指只有在中野館內，
 獨自專用的網路線路吧。",,"인트라… 나카노 관내만의
 독자적인 전용 네트워크 회선이군","Intranet ...? Du meinst wohl Netzwerkverbindungen,
 die nur in Nakano-Broadway funktionieren."
@@ -442,70 +410,63 @@ quando Frigimon è apparso all'improvviso.","我在那裡到處玩耍時，
 雪人獸突然出現。",,"거길 빙글빙글 돌며 놀고 있었더니
 갑자기 프리지몬이 나타났어","Ja. Also habe ich etwas daran herumgespielt und
 dann ist Frigimon plötzlich aufgetaucht."
-611,4855,,"In origine era un Digimon nato da un
-errore nel sistema di
-condizionamento dell'aria.","它本來是因為BW內某處的空調設備發生錯誤，
+611,4855,,"In origine era un Digimon nato da un errore nel sistema
+di condizionamento dell'aria.","它本來是因為BW內某處的空調設備發生錯誤，
 因而誕生的數碼寶貝……",,"그 녀석은 원래 BW 내 어딘가의 에어컨 설비
 오류로 태어난 디지몬인데…","Ursprünglich war es ein Digimon, das aufgrund
 eines Defekts im Klimaanlagensystem
 erschaffen wurde."
-612,4855,,"Ma è riuscito a usare l'intranet per
-intrufolarsi nel computer a
+612,4855,,"Ma è riuscito a usare l'intranet per intrufolarsi nel computer a
 valvole in cui vivevo!","但是它經由內部網路，
 潛進我所住的真空管式電腦裡！",,"인트라넷을 경유해서, 내가 살고 있는
 진공관식 컴퓨터에도 숨어들어온 거야!","Aber es gelang ihm, das Intranet zu nutzen, um
 sich in den Röhrencomputer zu schleichen,
 in dem ich wohnte!"
-613,3006,,"Capisco. Ora tutto ha senso. Ecco perché
-nessuno è riuscito a trovare anomalie nel sistema
-quando lo hanno controllato.","原來如此，因為它躲在真空管式電腦裡，
+613,3006,,"Capisco. Ora tutto ha senso. Ecco perché nessuno è riuscito a trovare
+anomalie nel sistema quando lo hanno controllato.","原來如此，因為它躲在真空管式電腦裡，
 所以系統內找不到異常啊。",,"그렇군, 진공관식 컴퓨터 안에 잠복해 있어서
 시스템이 이상을 발견하지 못했던 건가","Ich verstehe. Jetzt ergibt alles Sinn. Darum
 konnte niemand im System einen Fehler finden,
 als es überprüft wurde."
-614,4855,,"Frigimon è completamente impazzito e non voleva
-ascoltarmi. Alla fine non riuscivo nemmeno a
-muovermi con tutto quel freddo costante. È stato terribile...","因為它處於暴走狀態，所以就算叫它住手也聽不進去，
+614,4855,,"Frigimon è completamente impazzito e non voleva ascoltarmi.
+Alla fine non riuscivo nemmeno a muovermi con tutto quel freddo costante.
+È stato terribile...","因為它處於暴走狀態，所以就算叫它住手也聽不進去，
 還一直吹冷風讓我無法動彈……真的很慘啊。",,"폭주하길래 그만하라고 해봐도 듣지 않고
 계속 추운 바람을 불어대니까 꼼짝할 수도 없어져서… 지독한 꼴을 당했어","Frigimon ist total durchgedreht und hörte nicht
 auf mich. Schließlich konnte ich mich wegen der
 ständigen Kälte nicht bewegen. Es war furchtbar."
 615,3006,,Che orrore... Non ne avevo idea.,原來是這樣……,,그런 거였군…,Wie schrecklich ... Ich hatte ja keine Ahnung.
-616,3006,,"È difficile credere che un computer così vecchio
-fosse ancora operativo, per cominciare...","幾十年前的電腦到現在還在運作，
+616,3006,,"È difficile credere che un computer così vecchio fosse ancora
+operativo, per cominciare...","幾十年前的電腦到現在還在運作，
 真令人吃驚……",,"몇십 년도 더 된 컴퓨터가
 지금도 가동 중이었을 줄이야, 놀랍군…","Es ist kaum zu glauben, dass so ein alter Computer
 überhaupt noch funktionstüchtig war ..."
-617,3006,,"Ma la sua esistenza è probabilmente un
-residuo del sistema AC centralizzato di cui
-il proprietario del K-Cafe ha parlato prima.","你說，中野館內的內部網路……
+617,3006,,"Ma la sua esistenza è probabilmente un residuo del sistema AC
+centralizzato di cui il proprietario del K-Cafe ha parlato prima.","你說，中野館內的內部網路……
 應該是K-Cafe店長所說的中央空調的殘骸吧？",,"나카노 관내의 인트라넷… 이란 아마
 K-카페의 마스터가 말한 중앙식 에어컨의 흔적이겠지","Aber er ist wahrscheinlich ein Überbleibsel des
 zentralisierten Klimaanlagensystems, das der
 Besitzer des K-Cafés schon mal erwähnt hatte."
-618,3006,,"I collegamenti devono essere stati fatti piuttosto
-male se Frigimon è riuscito a creare un tale
-scompiglio, allora...","因為它跟全館的線路連結在一起，
+618,3006,,"I collegamenti devono essere stati fatti piuttosto male se Frigimon
+è riuscito a creare un tale scompiglio, allora...","因為它跟全館的線路連結在一起，
 所以雪人獸的寒氣傳遍了館內的所有地方……",,"엉성하게 모든 관내가 회선으로 연결되어 있어서
 프리지몬의 냉기 피해가 모든 관내로 미쳐 버렸다…","Bei der Installation wurde wohl gepfuscht, sonst
 hätte Frigimon nicht solchen Schaden anrichten
 können ..."
-619,3006,,"E lì risiede la radice di come tutto questo sia riuscito
-ad accadere.",這就是這次冷氣事件的真相吧。,,그게 이번 냉기 사건의 진상이겠군,"Und das ist der Grund, wie das alles passieren
+619,3006,,"E lì risiede la radice di come tutto questo sia riuscito ad accadere.",這就是這次冷氣事件的真相吧。,,그게 이번 냉기 사건의 진상이겠군,"Und das ist der Grund, wie das alles passieren
 konnte."
 620,3006,,"Immagino che anche la nostra conversazione di adesso debba
 passare attraverso quella intranet, pure.","我們現在跟貓數碼寶貝通話的線路，
 也是透過那個內部網路。",,"지금 이렇게 고양이 디지몬과 통신하고 있는 회선도
 그 인트라넷을 통한 것이다","Selbst unsere Unterhaltung läuft jetzt sicher
 auch über das Intranet."
-621,3006,,"A proposito, c'è una ragione per cui tu... hai
-scelto di apparire come un idol in quelle trasmissioni?",不過，你為什麼會選用那個偶像的模樣？,,…그런데 왜 그 아이돌의 모습을 고른 거지?,"Gibt es eigentlich einen Grund, warum du dich bei
+621,3006,,"A proposito, c'è una ragione per cui tu...
+hai scelto di apparire come un idol in quelle trasmissioni?",不過，你為什麼會選用那個偶像的模樣？,,…그런데 왜 그 아이돌의 모습을 고른 거지?,"Gibt es eigentlich einen Grund, warum du dich bei
 diesen Übertragungen als ein Idol ausgegeben hast?"
 622,4855,,"Perché? Era solo carina, immagino.",咦？　她很可愛吧？,,어? 귀엽잖아?,"Warum? Sie war einfach süß, würde ich sagen."
 623,3006,,...Um?,……什麼？,,…으음?,... Ähm?
-624,4855,,"È semplice! Ho solo pensato che qualcuno di
-carino come lei avrebbe invogliato
-qualcuno a entrare e ad aiutarmi!","我想說，如果是被那麼可愛的偶像求救，
+624,4855,,"È semplice! Ho solo pensato che qualcuno di carino come lei
+avrebbe invogliato qualcuno a entrare e ad aiutarmi!","我想說，如果是被那麼可愛的偶像求救，
 大家應該都會很樂意幫忙啊！",,"그런 귀여운 아이돌이 도움을 요청하면
 모두 구해주러 올 거라고 생각했거든!","Es ist ganz einfach! Ich dachte, jemand Süßes wie
 sie bringt vielleicht jemanden dazu,
@@ -519,8 +480,8 @@ Fuyume aveva tutto quello che si poteva desiderare in un idol!","能歌善舞，
 모든 걸 갖춘 전설의 아이돌이야!","Sie konnte singen, tanzen und ihr Aussehen ...
 Fuyume hatte alles, was man als Idol braucht!"
 627,4855,,"Oh, sì!",啊，對了對了！,,"아아, 그렇지 그렇지!",Aber hallo!
-628,4855,,"C'era anche un'esposizione universale nel periodo
-in cui la sua carriera stava davvero decollando!
+628,4855,,"C'era anche un'esposizione universale nel periodo in cui
+la sua carriera stava davvero decollando!
 C'era una fila così lunga per le rocce lunari...","在雪冬女的人氣開始上升時舉辦的世界博覽會，人可多的呢！
 大家為了看月球的石頭還排了好長的隊伍。",,"유우키 후유메의 인기가 오르기 시작했을 때 개최된 만국 박람회는
 굉장했네! 월석에 늘어선 길고 긴 행렬","Zu der Zeit, als ihre Karriere richtig losging,
@@ -531,24 +492,22 @@ Non conosco nemmeno il mio nome...","咦？　為什麼……我會記得這種�
 明明連自己的名字都想不起來……",,"…어라? 어째서… 나 이런 걸 기억하고 있는 걸까?
 내 이름도 기억나지 않는데…","Was ... Warum ... weiß ich das noch?
 Ich weiß nicht mal meinen eigenen Namen ..."
-630,3006,,"Credo di aver capito cosa sta succedendo
-qui... Sembra che abbiamo scoperto una capsula del
-tempo vecchia di decenni.","原來如此，我明白了……
+630,3006,,"Credo di aver capito cosa sta succedendo qui...
+Sembra che abbiamo scoperto una capsula del tempo vecchia di decenni.","原來如此，我明白了……
 我們似乎不小心挖到埋藏數十年的“時空膠囊＂了。",,"그렇군, 알겠다… 아무래도 우리는 수십 년 전에 묻힌
 ""타임 캡슐""을 발굴해낸 것 같군","Ich glaube, ich weiß, was hier vor sich geht.
 Anscheinend haben wir eine Zeitkapsel gefunden,
 die Jahrzehnte alt ist."
 631,4855,,"""Capsula del tempo""? Cos'è?",時空膠囊？,,타임 캡슐?,„Zeitkapsel“? Was ist denn das?
-632,3006,,"I tuoi ricordi non sono solo frammenti
-grezzi di informazioni. Sono più di questo.
-Hanno una certa... umanità in loro, diciamo.","你的那段記憶並不是一般的資訊。
+632,3006,,"I tuoi ricordi non sono solo frammenti grezzi di informazioni.
+Sono più di questo. Hanno una certa... umanità in loro, diciamo.","你的那段記憶並不是一般的資訊。
 因為你的嗜好充滿了人性。",,"너의 그 기억은 단순한 정보가 아니다
 취향에 인간미가 있기 때문이지","Deine Erinnerungen sind nicht nur grobe
 Informationsbrocken. Sie sind mehr als das. Sie
 besitzen eine gewisse ... Menschlichkeit."
 633,3006,,"Scommetto che sei i ""ricordi"" vecchi di qualcuno,
-nascosti via insieme a quel computer a valvole in cui hai
-vissuto. Ecco a cosa servono le capsule del tempo.","你恐怕是某人的“記憶＂。
+nascosti via insieme a quel computer a valvole in cui hai vissuto.
+Ecco a cosa servono le capsule del tempo.","你恐怕是某人的“記憶＂。
 是和真空管式電腦一起掩埋的時空膠囊。",,"너는 아마 누군가의 ""추억""이다
 진공관 컴퓨터와 함께 묻혀 있던 타임 캡슐인 거다","Ich wette, du bist die alte „Erinnerung“ von
 jemandem, beiseitegelegt wie der Röhrencomputer,
@@ -559,9 +518,8 @@ creatura meno empatica da incontrare...","但是，你所擁有的記憶並不�
 那麼無法感同身受呢……",,"하지만 공유하지 않은 추억만큼
 공감하기 힘든 건 없지…","Egal, ob du eine Erinnerung bist oder nicht, du
 hast trotzdem mein Mitgefühl ..."
-636,3006,,"Ad ogni modo, questo caso è chiuso
-ora. Vedremo cosa c'è che non va con questo
-Digimon gatto più tardi.","不管怎麼樣，委託已經完成了。
+636,3006,,"Ad ogni modo, questo caso è chiuso ora.
+Vedremo cosa c'è che non va con questo Digimon gatto più tardi.","不管怎麼樣，委託已經完成了。
 貓數碼寶貝的事就慢慢調查吧。",,"어쨌든 의뢰는 달성했다
 고양이 디지몬에 대한 건 차차 조사해보도록 하지","Wie dem auch sei, dieser Fall ist jetzt
 abgeschlossen. Was mit diesem Katzen-Digimon ist,
@@ -572,65 +530,62 @@ ermitteln wir später."
 638,4855,,"Beh, io venivo da un computer a valvole
 dentro un muro!",從那面牆裡的「真空管式電腦」中，,,그 벽 안에 방치된「진공관 컴퓨터」의 안에서 말이야,"Ich bin ja aus einem Röhrencomputer in einer
 Wand gekommen!"
-700,4307,,"Uao! Qui c'è un f-f-freddo cane! Si è
-rotto l'aria condizionata o qualcosa del genere?","哇！　這裡好冷！
+700,4307,,"Uao! Qui c'è un f-f-freddo cane!
+Si è rotto l'aria condizionata o qualcosa del genere?","哇！　這裡好冷！
 空調壞了嗎？",,"…우오! 여긴 춥잖아…!
 에어컨이 고장난 건가?","Mann! Es ist eiskalt hier d-d-drin!
 Ist die Klimaanlage kaputt, oder was?"
 701,4310,,"Brrr...
-L'entrata secondaria è così
-f-fredda... Qui almeno va un po' meglio...","嗚嗚～我都在發抖了……
+L'entrata secondaria è così f-fredda...
+Qui almeno va un po' meglio...","嗚嗚～我都在發抖了……
 後門那裡超冷的……
 這裡還比較溫暖啊……",,"으으~ 덜덜…
 뒷문 쪽이 엄청 추워서…
 이쪽이 그나마 낫네…","Brrr ...
 Der Hintereingang ist so k-kalt ...
 Hier ist es wenigstens etwas besser ..."
-710,3006,,"Ho fatto tutto quello che potevo qui. Il resto
-dipende da te. Se puoi, apprezzerei se risolvessi la
+710,3006,,"Ho fatto tutto quello che potevo qui.
+Il resto dipende da te. Se puoi, apprezzerei se risolvessi la
 situazione prima che ci prendiamo tutti un raffreddore, o peggio.","這裡已經沒有我能做的事了……剩下的就拜託你。
 如果能在身體狀況變糟前解決就太好了。",,"더 이상 내가 할 수 있는 건 없군 …뒷일은 부탁한다
 …가능하면 몸상태가 안 좋아지기 전에 해결해주면 고맙겠다","Meine Arbeit hier ist erledigt. Den Rest machst
 du. Es wäre gut, wenn du das Problem löst, bevor
 wir uns alle eine Erkältung oder schlimmer holen."
-715,3006,,"Dove stai andando? Il segnale proviene
-da qui, sai. Vieni prima a
-controllare questo pannello sospetto.","你要去哪裡？通訊源在這喔。
+715,3006,,"Dove stai andando? Il segnale proviene da qui, sai.
+Vieni prima a controllare questo pannello sospetto.","你要去哪裡？通訊源在這喔。
 快調查看看可疑之處吧。",,"…어딜 가는 거지, 통신원은 여기라고?
 수상한 곳을 조사해보도록","Wo gehst du hin? Das Signal kommt doch von da
 drüben. Komm und schau dir erst mal diese
 hingepfuschte Vertäfelung an."
 720,4340,,"C-capo, non è giusto che solo tu possa
-bere il caffè! Ho così freddo, lo sai! Se, se
-non ne prendo subito, me ne vado a casa!","我快凍僵了……店長～一個人喝咖啡也太狡猾了吧！
+bere il caffè! Ho così freddo, lo sai! 
+Se, se non ne prendo subito, me ne vado a casa!","我快凍僵了……店長～一個人喝咖啡也太狡猾了吧！
 不幫我倒一杯的話，我要早退了唷～！",,"치사해… 점장님~ 혼자만 커피 마시다니 치사해요…!
 저한테도 주시지 않으면 조퇴해 버릴 거예요~!","B-Boss, es ist nicht fair, dass nur du Kaffee
 trinken darfst! Mir ist so kalt! Wenn, wenn ich
 nicht sofort welchen kriege, gehe ich heim!"
 730,4041,,"Brrr, oddio, qui si è fatto freddo.
-Credo sia ora di preparare una tazza di
-caffè...","嗚……連身體都在發抖……漸漸變冷了呢……
+Credo sia ora di preparare una tazza di caffè...","嗚……連身體都在發抖……漸漸變冷了呢……
 來喝杯咖啡吧……",,"으으으… 덜덜… 점점 추워지네…
 커피라도 한 잔 마시자…","Brrr. Du meine Güte, wie kalt es hier drin ist.
 Es wird Zeit, etwas Kaffee aufzusetzen, würde ich
 sagen ..."
-750,4041,,"Ho sentito da Kyoko che voi ragazzi avete trovato
-quel vecchio computer a valvole proprio dentro questo bar!
+750,4041,,"Ho sentito da Kyoko che voi ragazzi avete trovato quel vecchio
+computer a valvole proprio dentro questo bar!
 Chi avrebbe mai pensato di trovarlo qui dentro!?","我聽暮海小姐說，
 我們店的牆壁裡埋著真空管式電腦時可嚇了一大跳啊！",,"쿠레미 씨가 우리 가게의 벽 안에 진공관식 컴퓨터가
 묻혀 있다고 해서 깜짝 놀랐어…!","Kyoko hat mir erzählt, dass ihr den alten
 Röhrencomputer hier im Café gefunden habt!
 Wer hätte das für möglich gehalten?!"
-751,4041,,"Riuscirò mai a disseppellire tutto? Bella domanda...
-Forse. C'è sicuramente un certo fascino nello
-scovare vecchi tesori come quelli.","你問我不挖出來嗎？　這個嘛，總有一天……
+751,4041,,"Riuscirò mai a disseppellire tutto?
+Bella domanda... Forse. C'è sicuramente un certo fascino nello scovare
+vecchi tesori come quelli.","你問我不挖出來嗎？　這個嘛，總有一天……
 寶藏就是被埋著才覺得浪漫嘛。",,"발굴해내지 않는 거냐고? …그렇네, 언젠가는…
 보물은 묻혀 있혀니까 로망이 있는 거야","Ob ich ihn da rausholen werde? Gute Frage ...
 Vielleicht. Alte Schätze zutage zu fördern,
 hat schon irgendwie was."
 752,4041,,"Ma è anche bello sapere che c'è.
-Dopotutto, è questo Nakano Broadway,
-trovare gemme rare...","只要知道它藏在裡頭這個事實就夠了，
+Dopotutto, è questo Nakano Broadway, trovare gemme rare...","只要知道它藏在裡頭這個事實就夠了，
 因為……百老匯就是發掘寶藏的地方啊。",,"거기 존재한다는 사실만으로 충분해
 브로드웨이는… 보물을 발굴해내는 곳이니까","Aber es ist auch schön zu wissen, dass er dort
 ist. Das passt so zu Nakano-Broadway.
