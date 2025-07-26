@@ -391,7 +391,8 @@ Sei nicht schüchtern, ich bin echt charmant!"
 我弄丟的「重要之物」。",,"실은 당신이 내가 잃어버린「소중한 물건」을
 나 대신에 찾아와 주었으면 좋겠어","Also, ich habe ein ""wertvolles Ding"" verloren
 und möchte, dass du es für mich findest."
-382,1629,,L'ho perso da qualche parte in [m3020]. Su questo puoi starne certo. Non mi sbaglio mai.,"遺失地點是在[m3020]。
+382,1629,,"L'ho perso da qualche parte in [m3020].
+Su questo puoi starne certo. Non mi sbaglio mai.","遺失地點是在[m3020]。
 我說的話不會有錯的。",,"잃어버린 장소는 [m3020](이)야
 내가 말하는 거니까 틀릴 리가 없어","Ich habe es irgendwo in [m3020]
 verloren. Darauf kannst du dich verlassen. Ich
@@ -584,7 +585,8 @@ Sei nicht schüchtern, ich bin echt charmant!"
 我弄丟的「重要之物」。",,"실은 당신이 내가 잃어버린「소중한 물건」을
 나 대신에 찾아와 주었으면 좋겠어","Also, ich habe ein ""wertvolles Ding"" verloren
 und möchte, dass du es für mich findest."
-522,1081,,L'ho perso da qualche parte a [m3020]. Puoi starne certo. Non mi sbaglio mai.,"遺失地點是在[m3020]。
+522,1081,,L'ho perso da qualche parte a [m3020].
+Puoi starne certo. Non mi sbaglio mai.,"遺失地點是在[m3020]。
 我說的話不會有錯的。",,"잃어버린 장소는 [m3020](이)야
 내가 말하는 거니까 틀릴 리가 없어","Ich habe es irgendwo in [m3020]
 verloren. Darauf kannst du dich verlassen. Ich
@@ -675,7 +677,8 @@ Sei nicht schüchtern, ich bin echt charmant!"
 我弄丟的「重要之物」。",,"실은 당신이 내가 잃어버린「소중한 물건」을
 나 대신에 찾아와 주었으면 좋겠어","Also, ich habe ein ""wertvolles Ding"" verloren
 und möchte, dass du es für mich findest."
-582,1097,,L'ho perso da qualche parte in [m3020]. Puoi starne certo. Non mi sbaglio mai.,"遺失地點是在[m3020]。
+582,1097,,L'ho perso da qualche parte in [m3020].
+Puoi starne certo. Non mi sbaglio mai.,"遺失地點是在[m3020]。
 我說的話不會有錯的。",,"잃어버린 장소는 [m3020](이)야
 내가 말하는 거니까 틀릴 리가 없어","Ich habe es irgendwo in [m3020]
 verloren. Darauf kannst du dich verlassen. Ich
@@ -1152,8 +1155,8 @@ Sei nicht schüchtern, ich bin echt charmant!"
 我弄丟的「重要之物」。",,"실은 당신이 내가 잃어버린「소중한 물건」을
 나 대신에 찾아와 주었으면 좋겠어","Also, ich habe ein ""wertvolles Ding"" verloren
 und möchte, dass du es für mich findest."
-922,1582,,"L'ho perso da qualche parte nel [m1030]. Ci puoi contare.
-Non mi sbaglio mai.","遺失地點是在[m1030]。
+922,1582,,"L'ho perso da qualche parte nel [m1030].
+Ci puoi contare. Non mi sbaglio mai.","遺失地點是在[m1030]。
 我說的話不會有錯的。",,"잃어버린 장소는 [m1030](이)야
 내가 말하는 거니까 틀릴 리가 없어","Ich habe es irgendwo im [m1030]
 verloren. Darauf kannst du dich verlassen. Ich
@@ -1237,8 +1240,9 @@ brauche, werde ich dich fragen!"
 980,1687,,Detective! Ti aspettavo qui!,"偵探大人！
 我一直在等你……",,"탐정님!
 당신이 오는 것을 기다리고 있었어요…",Detektiv! Auf dich hatte ich hier gewartet!
-981,1687,,"Vado subito al sodo. Ho perso la mia ""cosa preziosa"" e non so darmi
-pace dalla preoccupazione per dove possa essere!","我弄丟「重要之物」了……
+981,1687,,"Vado subito al sodo.
+Ho perso la mia ""cosa preziosa"" e non so darmi pace dalla preoccupazione
+per dove possa essere!","我弄丟「重要之物」了……
 實在很焦慮。",,"저,「소중한 물건」을 잃어버려서…
 너무 진정이 안 돼요","Ich komme gleich zur Sache. Ich habe mein
 ""wertvolles Ding"" verloren und bin krank vor
@@ -1319,7 +1323,8 @@ Ich bin dir wirklich zu Dank verpflichtet."
 1040,1706,,Detective! Ti stavo aspettando qui!,"偵探大人！
 我一直在等你……",,"탐정님!
 당신이 오는 것을 기다리고 있었어요…",Detektiv! Auf dich hatte ich hier gewartet!
-1041,1706,,"Vado subito al sodo. Ho perso la mia ""cosa preziosa"" e sono malato di preoccupazione per dove possa essere!","我弄丟「重要之物」了……
+1041,1706,,"Vado subito al sodo. Ho perso la mia ""cosa preziosa""
+e sono malato di preoccupazione per dove possa essere!","我弄丟「重要之物」了……
 實在很焦慮。",,"저,「소중한 물건」을 잃어버려서…
 너무 진정이 안 돼요","Ich komme gleich zur Sache. Ich habe mein
 ""wertvolles Ding"" verloren und bin krank vor
@@ -1381,7 +1386,8 @@ Sei nicht schüchtern, ich bin echt charmant!"
 我弄丟的「重要之物」。",,"실은 당신이 내가 잃어버린「소중한 물건」을
 나 대신에 찾아와 주었으면 좋겠어","Also, ich habe ein ""wertvolles Ding"" verloren
 und möchte, dass du es für mich findest."
-1082,1708,,L'ho perso da qualche parte in [m3010]. Su questo puoi contarci. Non mi sbaglio mai.,"遺失地點是在[m3010]。
+1082,1708,,L'ho perso da qualche parte in [m3010].
+Su questo puoi contarci. Non mi sbaglio mai.,"遺失地點是在[m3010]。
 我說的話不會有錯的。",,"잃어버린 장소는 [m3010](이)야
 내가 말하는 거니까 틀릴 리가 없어","Ich habe es irgendwo in [m3010]
 verloren. Darauf kannst du dich verlassen. Ich
@@ -1597,7 +1603,8 @@ schnell deine Belohnung schicken."
 1240,1015,,Detective! È te che stavo aspettando qui!,"偵探大人！
 我一直在等你……",,"탐정님!
 당신이 오는 것을 기다리고 있었어요…",Detektiv! Auf dich hatte ich hier gewartet!
-1241,1015,,"Vado subito al sodo. Ho perso la mia ""cosa preziosa"" e sono preoccupato morto all'idea di dove possa essere!","我弄丟「重要之物」了……
+1241,1015,,"Vado subito al sodo. Ho perso la mia ""cosa preziosa"" e sono
+preoccupato molto all'idea di dove possa essere!","我弄丟「重要之物」了……
 實在很焦慮。",,"저,「소중한 물건」을 잃어버려서…
 너무 진정이 안 돼요","Ich komme gleich zur Sache. Ich habe mein
 ""wertvolles Ding"" verloren und bin krank vor
@@ -4233,9 +4240,8 @@ Sei nicht schüchtern, ich bin echt charmant!"
 我弄丟的「重要之物」。",,"실은 당신이 내가 잃어버린「소중한 물건」을
 나 대신에 찾아와 주었으면 좋겠어","Also, ich habe ein ""wertvolles Ding"" verloren
 und möchte, dass du es für mich findest."
-3122,1715,,"L'ho perso da qualche parte in [m3050]
-. Ci puoi contare. Io
-non mi sbaglio mai.","遺失地點是在[m3050]。
+3122,1715,,"L'ho perso da qualche parte in [m3050].
+Ci puoi contare. Io non mi sbaglio mai.","遺失地點是在[m3050]。
 我說的話不會有錯的。",,"잃어버린 장소는 [m3050](이)야
 내가 말하는 거니까 틀릴 리가 없어","Ich habe es irgendwo in [m3050]
 verloren. Darauf kannst du dich verlassen. Ich
@@ -4351,8 +4357,7 @@ Davvero? Ho perso la mia ""cosa preziosa"". Cosa devo fare, adesso?!","嘎！　
 나는 어떡하면 좋을카앗?「소중한 물건」을 잃어버렸을카앗!","Kräääh, bist du der Cyber-Detektiv, von dem ich so
 viel gehört habe?! Wirklich? Ich habe mein
 ""wertvolles Ding"" verloren. Was soll ich bloß tun?"
-3202,1721,,"So che l'ho perso da qualche parte in
-[m3050], kräääh!",東西是掉在[m3050]了嘎！,,잃어버린 곳은 [m3050]일카앗!,"Ich weiß nur, dass ich es irgendwo in
+3202,1721,,"So che l'ho perso da qualche parte in [m3050], ahhh!",東西是掉在[m3050]了嘎！,,잃어버린 곳은 [m3050]일카앗!,"Ich weiß nur, dass ich es irgendwo in
 [m3050] verloren habe, kräääh!"
 3203,1721,,"Se lo trovi, ti do qualcosa di bello che luccica, kraaah! Forza, al lavoro!","我會準備好報酬嘎。
 希望你能幫我找回來嘎！",,"보수는 준비할카앗
@@ -5260,8 +5265,7 @@ bitten ..."
 實在是束手無策……",,"실은「소중한 물건」을 잃어버려서
 낙담하고 있었어요…","Ich habe mein ""wertvolles Ding"" verloren und ich
 habe keine Ahnung, wo es sein könnte ..."
-3842,1310,,"Mi sa che l'ho perso da qualche parte in
-[m4040].",我想應該是掉在[m4040]。,,장소는 [m4040](이)라고 생각해요,"Ich glaube, ich habe es irgendwo in
+3842,1310,,"Mi sa che l'ho perso da qualche parte in [m4040].",我想應該是掉在[m4040]。,,장소는 [m4040](이)라고 생각해요,"Ich glaube, ich habe es irgendwo in
 [m4040] verloren."
 3843,1310,,"Me lo trovi? Se lo fai, ti do anche qualcosa di bello! Ti prego, ti prego! Significherebbe un sacco per me!","如果你願意幫我找的話，我會支付你報酬的。
 拜託你了，請務必幫幫我……！",,"찾아와 주신다면, 보수를 드릴게요
@@ -5309,7 +5313,8 @@ schnell deine Belohnung schicken."
 3880,1315,,Detective! Ti aspettavo qui!,"偵探大人！
 我一直在等你……",,"탐정님!
 당신이 오는 것을 기다리고 있었어요…",Detektiv! Auf dich hatte ich hier gewartet!
-3881,1315,,"Vado subito al sodo. Ho perso la mia ""cosa preziosa"" e muoio dalla preoccupazione su dove possa essere!","我弄丟「重要之物」了……
+3881,1315,,"Vado subito al sodo. Ho perso la mia ""cosa preziosa"" e muoio dalla
+preoccupazione su dove possa essere!","我弄丟「重要之物」了……
 實在很焦慮。",,"저,「소중한 물건」을 잃어버려서…
 너무 진정이 안 돼요","Ich komme gleich zur Sache. Ich habe mein
 ""wertvolles Ding"" verloren und bin krank vor
@@ -6747,7 +6752,7 @@ melde ich mich bei dir! Gahahaha!"
 4380,1703,,Detective! Ti aspettavo qui!,"偵探大人！
 我一直在等你……",,"탐정님!
 당신이 오는 것을 기다리고 있었어요…",Detektiv! Auf dich hatte ich hier gewartet!
-4381,1703,,"Vado subito al sodo. Ho perso il mio «coso prezioso»
+4381,1703,,"Vado subito al sodo. Ho perso il mio ""coso prezioso"""
 e non mi do pace dalla preoccupazione su dove sia finito!","我弄丟「重要之物」了……
 實在很焦慮。",,"저,「소중한 물건」을 잃어버려서…
 너무 진정이 안 돼요","Ich komme gleich zur Sache. Ich habe mein

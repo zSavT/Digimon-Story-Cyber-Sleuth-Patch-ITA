@@ -1,12 +1,11 @@
 ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
 1,2001,,!?,！？,,!?,?!
-2,2001,,"Quel Digimon mi ha trascinato qui... Ma... dove
-sono?","被那隻數碼寶貝拉了進來……
+2,2001,,"Quel Digimon mi ha trascinato qui...
+Ma... dove sono?","被那隻數碼寶貝拉了進來……
 這裡是……哪裡？",,"그 디지몬에게 끌려들어와버렸어…
 여긴… 어딜까?","Das Digimon hat mich hergeschleift ...
 Aber wo bin ich hier denn?"
-3,2001,,Heh... Non credo di essere più al Tower Records.,看起來不像是在淘兒唱片裡面……,"Heh... I don't think I'm in Shibuya Records
-anymore.",타워 레코드의 안은 아닌 것 같은데…,Hm ... Bei Shibuya Records bin ich wohl nicht mehr.
+3,2001,,Heh... Non credo di essere più al Tower Records.,看起來不像是在淘兒唱片裡面……,"Heh... Non credo di essere più al Tower Records",타워 레코드의 안은 아닌 것 같은데…,Hm ... Bei Shibuya Records bin ich wohl nicht mehr.
 4,3006,,"Ehi, guarda lì! Si è finalmente ricollegato!",哎呀，總算聯繫上了嗎……,,"이런, 드디어 연결됐나…",Schau an! Die Verbindung ist endlich wieder da!
 5,3006,,"Il nostro legame con te si è interrotto tempo fa. Abbiamo
 pensato che dovesse essere il Labirinto, quindi abbiamo
@@ -24,18 +23,19 @@ anomalia dell'Onda Digitale... Beh, con fortuna.","之後就能不受異空間�
 받는 일 없이 통신이 가능하다… 어지간한 이상이 아니면, 말이지","Jetzt, wo wir einen Behelf gefunden haben, sollten
 wir trotz anormaler digitaler Wellen weiter in
 Kontakt bleiben können ... mit etwas Glück."
-7,3006,,"Quindi, comunque, eri nel Labirinto? Dimmi
-tutto!","如我所料，你現在似乎在異空間的內部。
+7,3006,,"Quindi, comunque, eri nel Labirinto?
+Dimmi tutto!","如我所料，你現在似乎在異空間的內部。
 到底發生了什麼事？",,"추측대로, 넌 지금 마요이가의 내부에 있는 모양이군
 대체, 무슨 일이 일어난 거지?","Egal. Du warst also im Labyrinth?
 Erzähl mir davon!"
 8,3006,,"Tower Records, eh...? Chi l'avrebbe mai detto che
 ci fosse un percorso nascosto lì.","原來如此……
-在淘兒唱片裡有異空間的入口啊。","Shibuya Records, huh...? Who'd have thought there
-was a path hidden there.","그렇군…
+在淘兒唱片裡有異空間的入口啊。","Tower Records, eh...? Chi l'avrebbe mai detto che
+ci fosse un percorso nascosto lì.","그렇군…
 타워 레코드 내에 마요이가의 입구가 있었다, 고","Shibuya Records, wie? Wer hätte gedacht, dass dort
 ein Weg verborgen ist."
-9,3006,,"Hmm... Qualunque analisi io esegua, il risultato è sempre lo stesso. Il Labirinto sotto Shibuya è decisamente cresciuto.","嗯……
+9,3006,,"Hmm... Qualunque analisi io esegua, il risultato è sempre lo stesso.
+Il Labirinto sotto Shibuya è decisamente cresciuto.","嗯……
 我分析了一下，
 那個異空間正在涉谷的地底下擴大——",,"…흐음
 해석해 본 결과, 그 마요이가는
@@ -55,8 +55,8 @@ dubbi che fosse un Digimon.","那一定就是把你拉進異空間
 디지몬임에 틀림없다","Es hatte keine Wahl, als dich mit in das Labyrinth
 zu zerren. Und ich habe absolut keinen Zweifel,
 dass es ein Digimon war."
-13,3006,,"Devi trovarlo, e in fretta. Il mon non può essere andato
-molto lontano.","先去找看看那隻數碼寶貝吧。
+13,3006,,"Devi trovarlo, e in fretta.
+Il Digimon non può essere andato molto lontano.","先去找看看那隻數碼寶貝吧。
 應該就在你的附近。",,"우선 그 디지몬을 찾아내도록
 네 근처에 있을 거다","Du musst es finden, und zwar schnell.
 Es kann nicht weit gekommen sein."
