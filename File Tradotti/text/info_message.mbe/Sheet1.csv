@@ -177,11 +177,11 @@ perché stai già lavorando su un altro caso.","尚有調查中的委託
 無法開始調查",,"조사 중인 의뢰가 있어
 조사를 개시할 수 없습니다.","Du kannst nicht mit den Ermittlungen beginnen,
 weil du bereits an einem anderen Fall arbeitest."
-1302,,"Inizio
-dell'indagine: ""[d0]""",開始調查[d0]！,,[d0]의 조사 개시!,"Ermittlungsbeginn:
+1302,,"Inizio dell'indagine:
+""[d0]""",開始調查[d0]！,,[d0]의 조사 개시!,"Ermittlungsbeginn:
 „[d0]“"
-1303,,"""[d0]""
-Completato! Segnalare all'agenzia investigativa.","[d0]調查完畢！
+1303,,"""[d0]"" Completato!
+Segnalare all'agenzia investigativa.","[d0]調查完畢！
 前往偵探事務所回報！",,"[d0]의 조사 완료!
 탐정사무소에 보고하러 가자!","„[d0]“
 abgeschlossen! Erstatte dem Detektivbüro Bericht."
@@ -284,8 +284,8 @@ mit dem Training begonnen!"
 3001,,"Digimon [d0]
 ha iniziato lo sviluppo!",[d0]的數碼寶貝開始開發！,,[d0]의 디지몬은 개발을 개시했다!,"Digimon [d0] hat
 mit der Entwicklung begonnen!"
-3002,,"Digimon
-[d0] ha iniziato le indagini!",[d0]的數碼寶貝開始調查！,,[d0]의 디지몬은 조사를 개시했다!,"Digimon [d0] hat
+3002,,"Digimon [d0]
+ha iniziato le indagini!",[d0]的數碼寶貝開始調查！,,[d0]의 디지몬은 조사를 개시했다!,"Digimon [d0] hat
 mit den Ermittlungen begonnen!"
 3003,,"Hai già 99 x [d0].
 Non puoi averne di più.","已持有99個[d0]
@@ -439,8 +439,8 @@ erhalten."
 (URL per la visita speciale).",獲得『神代總公司（特別參觀用URL）』,,"『카미시로 본사(특별관람용 URL)』을
 입수했다.","Du hast Kamishiro HQ erhalten
 (spezielle Besuchs-URL)."
-5051,,"HP/SP del gruppo Digimon
-completamente ripristinati.",回復同行數碼寶貝所有HP、SP,,파티 디지몬의 HP/SP를 완전히 회복했다.,"TP/SP der Digimongruppe vollständig
+5051,,"HP/SP del gruppo Digimon completamente
+ripristinati.",回復同行數碼寶貝所有HP、SP,,파티 디지몬의 HP/SP를 완전히 회복했다.,"TP/SP der Digimongruppe vollständig
 wiederhergestellt."
 5052,,Non hai abbastanza soldi.,金錢不足的樣子,,돈이 부족한 듯하다.,Du hast nicht genug Geld.
 5053,,"Hai ricevuto contenuti bonus:
@@ -662,7 +662,8 @@ iniziarne un altro.","由於已有接下的委託，
 無法開始其他委託。",,"수락 중인 의뢰가 있기 때문에
 다른 의뢰를 개시할 수 없습니다.","Du arbeitest gerade an einem Fall und kannst nicht
 noch einen anfangen."
-6003,,Inizio dell'indagine: [d0]!,開始[d0]的委託！,,[d0]의 의뢰 개시!,Ermittlungsbeginn: [d0]!
+6003,,"Inizio dell'indagine:
+[d0]!",開始[d0]的委託！,,[d0]의 의뢰 개시!,Ermittlungsbeginn: [d0]!
 6004,,"""[d0]""
 fatto! Segnalalo all'ATL!","[d0]的委託完成！
 上BBS報告委託完成吧！",,"[d0]의 의뢰 완료!

@@ -1,18 +1,17 @@
 ﻿ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
-0,4052,,"Ah,
-Detective? Per favore, ho un favore da chiederti!","啊，偵探大人？
+0,4052,,"Ah, Detective?
+Per favore, ho un favore da chiederti!","啊，偵探大人？
 太好了，你會答應我的請求對不對！",,"아, 탐정님?
 해냈다, 내 부탁을 들어주는 거구나!","Ach, Detektiv?
 Ich muss dich um einen Gefallen bitten!"
 1,4052,,"Quindi, quando l'altro giorno sono andato a Shinjuku
-con mia madre, abbiamo visto questa
-misteriosa creatura blu navy!","你聽我說，我最近跟媽媽一起去新宿時，
+con mia madre, abbiamo visto questa misteriosa creatura blu navy!","你聽我說，我最近跟媽媽一起去新宿時，
 在外面看到一隻藍藍的怪獸。",,"있잖아, 요전에 엄마랑 신주쿠로 외출했을 때 말야
 밖에서 새파란 괴수 씨를 봤어","Neulich war ich mit meiner Mutter in Shinjuku, da
 haben wir diese mysteriöse dunkelblaue
 Kreatur gesehen!"
-2,4052,,"Quando ho chiesto al mio amico mi ha detto ""Quello
-è MetalGreymon!""","我去問朋友，他告訴我
+2,4052,,"Quando ho chiesto al mio amico mi ha detto
+""Quello è MetalGreymon!""","我去問朋友，他告訴我
 「那是機械暴龍獸！」。",,"친구한테 물어봤더니
 「그거 메탈그레이몬이야!」라고 알려줬어","Als ich meinen Freund fragte, meinte er: „Das ist
 MetalGreymon!“"
@@ -29,9 +28,8 @@ schenken."
 5,4052,,Verrai con me in quel negozio laggiù?,"啊，那邊有間商店。
 可以跟我過來看一下嗎？",,"지금 저기 가게가 열려 있어
 따라와 줄래?",Kommst du mit mir zu dem Laden da drüben?
-10,5034,,"Ehi, per favore entra e guarda le nostre
-trapunte. Oggi c'è una svendita! Un prezzo
-speciale più basso, solo per oggi!","來唷來唷～棉被特價喔！
+10,5034,,"Ehi, per favore entra e guarda le nostre trapunte.
+Oggi c'è una svendita! Un prezzo speciale più basso, solo per oggi!","來唷來唷～棉被特價喔！
 這個價格只有今天喔！",,"자― 보고 가세요, 이불 세일입니다!
 오늘만 특별판매예요―!","He, hereinspaziert! Schaut euch unsere Decken an!
 Heute hagelt es Sonderangebote! Alles zum
@@ -41,8 +39,8 @@ Quella coperta sembra davvero soffice e calda!","啊，你看！
 那條毯子毛絨絨的感覺好溫暖喔。",,"아, 봐봐!
 저 담요, 굉장히 복슬복슬해서 따뜻해 보여","Wow, schau dir das an!
 Diese Decke sieht so flauschig und warm aus!"
-12,5034,,"Ah beh, signorina, ha davvero un buon occhio! Questa
-coperta è fatta con materiali di alta qualità.
+12,5034,,"Ah beh, signorina, ha davvero un buon occhio!
+Questa coperta è fatta con materiali di alta qualità.
 Chieda semplicemente alla sua babysitter se può prenderla.","喔，這位小姐，妳眼光很好喔。
 這條毯子的質料很高檔，
 妳可以請旁邊的大人買給妳。",,"오, 아가씨. 눈이 높구만
@@ -50,23 +48,22 @@ Chieda semplicemente alla sua babysitter se può prenderla.","喔，這位小姐
 거기 있는 보호자분에게 부탁해보면 어떨까","Oh, junge Dame, du hast wirklich ein gutes Auge!
 Diese Decke ist aus hochwertigem Material.
 Frag deinen Babysitter, ob du sie haben kannst."
-13,4052,,"Oh, per favore Detective, per
-favore compri quello! Sono sicuro che alla
-creatura piacerà molto!","偵探大人拜託你，買那條毯子好不好！
+13,4052,,"Oh, per favore Detective, per favore compri quello!
+Sono sicuro che alla creatura piacerà molto!","偵探大人拜託你，買那條毯子好不好！
 怪獸先生一定會很高興的。",,"있지 부탁해, 탐정님. 저 이불을 사줘!
 분명 괴수 씨도 기뻐해줄 거야","Oh, bitte, Detektiv, kauf sie!
 Ich bin mir sicher, dass sie der Kreatur
 gefallen wird!"
-14,5034,,"Questa coperta costava originariamente 12.000
-yen, ma oggi è in saldo a 10.000 yen.
+14,5034,,"Questa coperta costava originariamente 12.000 yen,
+ma oggi è in saldo a 10.000 yen.
 È questa quella che vuoi?","這條毯子本來要價12000YEN，
 現在打折下來只要10000YEN，怎麼能錯過呢？",,"이 이불, 원래는 12000YEN이지만
 지금은 세일해서 10000YEN이야. 물론 살 거지?","Der normale Preis war 12 000 Yen, aber heute
 kostet sie im Angebot nur 10 000 Yen.
 Möchtest du die Decke?"
-15,2000,,"Non potremmo abbassare un po' il
-prezzo? Pensi che questa ragazza possa pagare così
-tanto? Okay, prendiamolo.","可以再便宜一點嗎？
+15,2000,,"Non potremmo abbassare un po' il prezzo?
+Pensi che questa ragazza possa pagare così tanto?
+Okay, prendiamolo.","可以再便宜一點嗎？
 你叫這孩子付這筆巨款……？
 那我買了。",,"좀 더 싸게 안될까?
 이 아이한테 그런 큰 돈을 내라고…?
@@ -83,15 +80,14 @@ immagino che potrei abbassare il prezzo un po' di più...","不過如果客人�
 我再給你一點優惠好了。",,"하지만 어쩔 수 없지, 사준다고 한다면
 조금만 더 서비스해줄까","Nun ja ... Wenn du sie wirklich kaufst, könnte
 ich den Preis wohl noch etwas senken ..."
-18,5034,,"Eh? No, paghi tu per lei, visto che sei il
-babysitter, giusto? Certo che non mi aspetterei
-che questa bambina paghi un prezzo così alto...","咦？　當然是身為監護人的你買單吧？
+18,5034,,"Eh? No, paghi tu per lei, visto che sei il babysitter, giusto?
+Certo che non mi aspetterei che questa bambina paghi un prezzo
+così alto...","咦？　當然是身為監護人的你買單吧？
 我怎麼可能叫這孩子付那麼多錢……",,"뭐? 아니, 보호자인 네가 지불해주는 거잖아?
 아무리 그래도 이 아이한테 터무니없는 큰 돈을 내라고 할 리가…","Was? Nein, du bist doch der Babysitter und
 bezahlst für sie, richtig? Natürlich erwarte ich
 nicht, dass das Kind das bezahlen kann ..."
-19,5034,,"Oh! Capisco. Haha, in quel caso è ancora troppo
-costoso, immagino.","唔……！　唉呀～真是傷腦筋啊哈哈哈。
+19,5034,,"Oh! Capisco. Haha, in quel caso è ancora troppo costoso, immagino.","唔……！　唉呀～真是傷腦筋啊哈哈哈。
 確實是還不夠便宜啦。",,"……윽! 아니, 곤란한걸― 하하하
 확실히 아직 좀 비쌌으려나","Ach! Verstehe. In dem Fall ist es immer noch
 zu teuer."
@@ -100,47 +96,47 @@ zu teuer."
 ……是說你根本沒那麼多錢嘛。",,"좋아! 거래 성립이다!
 …그런데 너, 그만한 돈 갖고 있지 않잖아","Okay, abgemacht!
 ... Ach, du hast wohl nicht genug?"
-21,5034,,"Okay, allora è un
-accordo! Prendilo prima che cambi idea.",好，買賣成交！　來，你拿去吧。,,"좋아, 거래 성립이다! 자, 가져가라구","Okay, dann ist es abgemacht!
+21,5034,,"Okay, allora è un accordo!
+Prendilo prima che cambi idea.",好，買賣成交！　來，你拿去吧。,,"좋아, 거래 성립이다! 자, 가져가라구","Okay, dann ist es abgemacht!
 Nimm sie, bevor ich meine Meinung ändere."
-22,5034,,"Capisco... Abbasserò un po' il
-prezzo. Che ne dici di 8.000 yen?","這個嘛……不然我再降一點好了。
+22,5034,,"Capisco... Abbasserò un po' il prezzo.
+Che ne dici di 8.000 yen?","這個嘛……不然我再降一點好了。
 8000YEN！　這樣行了吧？",,"그렇네… 조금만 더 깎아줄게
 8000YEN! 이걸로 어때?","Verstehe ... Dann reduziere ich den Preis noch
 etwas. Wie wäre es mit 8000 Yen?"
-23,2000,,"È ancora costoso! Abbassalo un po' di più. Guarda
-solo nei suoi occhi, non puoi fare di
-meglio? Okay, prendiamolo.","還是太貴了！　再降一點。
+23,2000,,"È ancora costoso! Abbassalo un po' di più.
+Guarda solo nei suoi occhi, non puoi fare di meglio?
+Okay, prendiamolo.","還是太貴了！　再降一點。
 你看著這孩子的眼睛還能說出一樣的話嗎？
 那我買了。",,"아직 비싸! 조금 더 깎아줘
 이 아이의 눈을 보면서도 같은 말이 나와?
 이걸로 살게","Das ist immer noch teuer! Ich brauche mehr Rabatt.
 Schau in ihre Augen. Hilft das nicht?
 Okay, wir nehmen sie."
-24,5034,,"Eh? Cerchi ancora di farmi abbassare
-il prezzo? Mi mandi in rovina!","什麼？　你還要殺價嗎？
+24,5034,,"Eh? Cerchi ancora di farmi abbassare il prezzo?
+Mi mandi in rovina!","什麼？　你還要殺價嗎？
 再殺下去我就不用做生意了……",,"뭐어? 너, 아직 깎을 셈이야?
 이 이상은 장사가 안 된다고―…","Was? Du willst immer noch mit mir feilschen?
 So kann ich keine Geschäfte machen!"
 25,5034,,Eh?,咦？,,뭐?,Was?
 26,4052,,......,………………,,………………,... ...
 27,5034,,...,…………,,…………,...
-28,5034,,"...Oh! Okay, okay! Mi hai scoperto! Se
-abbasso il prezzo un altro po', lo prenderai!?","啊～！　好啦，我知道了啦！
+28,5034,,"...Oh! Okay, okay! Mi hai scoperto!
+Se abbasso il prezzo un altro po', lo prenderai!?","啊～！　好啦，我知道了啦！
 算我認輸！　我再降價一點總可以了吧！？",,"……아―! 알겠어, 알겠다고!
 내가 졌어! 좀 더 깎으면 되는 거지!?","... Ach! Na gut! Du hast mich überzeugt! Wenn ich
 den Preis noch etwas senke, nimmst du sie dann?"
-29,5034,,"Affare fatto allora! Quindi lo stai comprando... ma
-sei sicuro di avere abbastanza?","好！　那我就賣給你了。
+29,5034,,"Affare fatto allora! Quindi lo stai comprando...
+ma sei sicuro di avere abbastanza?","好！　那我就賣給你了。
 ……是說你身上根本沒錢嘛。",,"좋아! 그럼 너한테 팔게
 …그런데 너, 돈 갖고 있지 않잖아","Abgemacht! Du kaufst sie also ... Bist du sicher,
 dass du auch genug hast?"
-30,5034,,"Okay, allora è un
-affare! Prendilo prima che cambi idea.",好，買賣成交！　來，你拿去吧。,,"좋아, 거래 성립니다! 자, 가져가라고","Okay, dann ist es abgemacht!
+30,5034,,"Okay, allora è un affare!
+Prendilo prima che cambi idea.",好，買賣成交！　來，你拿去吧。,,"좋아, 거래 성립니다! 자, 가져가라고","Okay, dann ist es abgemacht!
 Nimm sie, bevor ich meine Meinung ändere."
 31,5034,,"Beh, cosa ci vuoi fare"" Quindi è tutto qui?
-6.000 yen! Non posso lasciarlo andare
-per meno. Allora, lo prendi?","真拿你沒辦法，這是最後一次囉？
+6.000 yen! Non posso lasciarlo andare per meno.
+Allora, lo prendi?","真拿你沒辦法，這是最後一次囉？
 6000YEN！　不能再更便宜了。
 客人你決定要買了嗎？",,"어쩔 수 없지, 이게 마지막이야?
 6000YEN! 이 이상은 양보 못 해
@@ -165,26 +161,23 @@ quindi dovrò rinunciare...","本來想叫老闆再少算1000YEN的，
 포기할 수밖에 없나…","Ich wollte, dass du noch um 1000 Yen runtergehst,
 aber ich habe nicht genug Geld dafür, also
 muss ich aufgeben ..."
-34,2000,,"Sfortunatamente, non ho abbastanza
-soldi con me, devo rinunciare...","真可惜，身上的錢不夠。
+34,2000,,"Sfortunatamente, non ho abbastanza soldi con me, devo rinunciare...","真可惜，身上的錢不夠。
 只能放棄了嗎……",,"…안타깝게도 소지금이 부족하다
 포기할 수밖에 없나…","Leider habe ich nicht genug Geld bei mir.
 Tut mir leid, das wird nichts."
-35,5034,,"Non posso! Se scendo ancora di più non
-ci guadagnerò niente!",不行啦！　再降下去我會沒有利潤的！,,안돼! 이 이상은 이익이 없어져버려!,"Unmöglich! Wenn ich noch weiter runtergehe,
+35,5034,,"Non posso! Se scendo ancora di più non ci guadagnerò niente!",不行啦！　再降下去我會沒有利潤的！,,안돼! 이 이상은 이익이 없어져버려!,"Unmöglich! Wenn ich noch weiter runtergehe,
 verdiene ich nichts!"
 36,4052,,"Oh, ma la prego signore! La prego, la prego!",叔叔！　求求你！,,아저씨! 부탁이에요!,"Ach, bitte, Sir! Bitte bitte!"
-37,5034,,"""Signore""...!? Lo fai sembrare come se fossi un vecchio o
-qualcosa del genere!",叔……！　我還沒有那麼老好不好……！,,아저…! 난 아직 그런 나이가 아니야…!,"„Sir“ ...?! Das klingt ja, als ob ich ein alter
+37,5034,,"""Signore""...!?
+Lo fai sembrare come se fossi un vecchio o qualcosa del genere!",叔……！　我還沒有那麼老好不好……！,,아저…! 난 아직 그런 나이가 아니야…!,"„Sir“ ...?! Das klingt ja, als ob ich ein alter
 Mann wäre!"
-38,4052,,"Proprio ora c'è un bambino là fuori che ha freddo ed è
-preoccupato e... Semplicemente, per favore!","有一個人在外面快被凍僵了，
+38,4052,,"Proprio ora c'è un bambino là fuori che ha freddo ed è preoccupato
+e... Semplicemente, per favore!","有一個人在外面快被凍僵了，
 它很需要這條毯子……求求你！",,"지금도 밖에서 추워서 떨고 있는 아이가 있어요
 이걸 필요로 하고 있는 아이가 있어요… 부탁이에요!","Da draußen ist ein kleines Kind. Ihm ist kalt
 und es hat Angst ... Ach, bitte!"
-39,5034,,"C-Cosa...? Okay, detta così, suppongo di non
-poter dire di no... Va bene, ti faccio
-altri 1.000 yen di sconto, ma basta!","唔……妳這麼說，叫我怎麼忍心不降價呢……
+39,5034,,"C-Cosa...? Okay, detta così, suppongo di non poter dire di no...
+Va bene, ti faccio altri 1.000 yen di sconto, ma basta!","唔……妳這麼說，叫我怎麼忍心不降價呢……
 我明白了，真的只能再便宜1000YEN喔！",,"윽… 그렇게까지 말하면 거절할 수 없게 되잖아…
 알았어, 앞으로 1000YEN만이야!","Was? Na gut, wenn ich das so höre, dann kann ich
 wohl nicht Nein sagen. Na schön, ich gehe noch
@@ -199,9 +192,9 @@ Se non compro questo quel bambino congelerà!","咦？　那、那怎麼行！
 不買這條毯子，那個人會凍壞的……！",,"어? 아, 안돼요!
 이걸 사지 않으면 그 아이가 얼어버려요…!","Was? N-Nein!
 Wenn ich sie nicht kaufe, erfriert das Kind!"
-42,5034,,"Senti, non so niente di nessun bambino, ma se non
-compri non sei un cliente, sei solo una scocciatura. Per
-favore, vada immediatamente via!","誰管你什麼那個人這個人的，
+42,5034,,"Senti, non so niente di nessun bambino,
+ma se non compri non sei un cliente, sei solo una scocciatura.
+Per favore, vada immediatamente via!","誰管你什麼那個人這個人的，
 既然不買就不是客人了。
 你們會妨礙我做生意的，快點到別的地方去！",,"저 아이든 그 아이든 나는 몰라
 자, 사지 않을 거면 손님이 아니지
@@ -210,26 +203,24 @@ aber wer nichts kauft, ist kein Kunde, sondern
 stört nur. Geh jetzt bitte!"
 43,5002,,Aspetta!,給我等一下！,,잠깐 기다려!,Moment!
 44,5034,,"Ah, Mamma!",呃，老媽！,,"켁, 엄마!","Ach, Mama!"
-45,5035,,"Volevi vendere questo a quella ragazzina a un
-prezzo così alto!? Non mi ero mai reso conto di aver
-cresciuto un figlio così orribile!","你想叫這麼小的孩子買那麼貴的東西？
+45,5035,,"Volevi vendere questo a quella ragazzina a un prezzo così alto!?
+Non mi ero mai reso conto di aver cresciuto un figlio così orribile!","你想叫這麼小的孩子買那麼貴的東西？
 我可不記得有教出像你這樣的兒子！",,"이런 어린 아이에게 그런 고액으로 팔아치울 생각이냐?
 나는 그런 아들로 키운 기억이 없어!","Du wolltest sie einem jungen Mädchen zu so einem
 hohen Preis verkaufen?! Ich hatte keine Ahnung,
 wen ich da großgezogen habe!"
-46,5034,,"No, sto cercando di fare affari con la
-sua babysitter...","哪有，我是要跟這位監護人
+46,5034,,"No, sto cercando di fare affari con la sua babysitter...","哪有，我是要跟這位監護人
 做生意啊……",,"아니, 내가 흥정하려고 하고 있는 건
 이쪽의 보호자인데…","Nein, ich versuche, mit ihrem Babysitter zu
 verhandeln ..."
-47,5035,,"Non importa chi di loro
-sia! Ovviamente hanno le loro ragioni!","跟誰不都一樣！
+47,5035,,"Non importa chi di loro sia!
+Ovviamente hanno le loro ragioni!","跟誰不都一樣！
 而且他們好像有什麼苦衷……",,"어느 쪽이든 똑같앗!
 게다가 뭔가 사정이 있는 것 같잖아…","Wer es ist, spielt keine Rolle!
 Sie haben offensichtlich ihre Gründe!"
-48,5035,,"Va bene, per favore prenda la coperta, e non si
-preoccupi del costo. Si assicuri che questa
-persona bisognosa la riceva!","沒關係，這條毯子你們拿去吧。
+48,5035,,"Va bene, per favore prenda la coperta,
+e non si preoccupi del costo.
+Si assicuri che questa persona bisognosa la riceva!","沒關係，這條毯子你們拿去吧。
 多少錢你們就不用在意了。
 快點拿去給需要的人。",,"괜찮아, 이 이불을 갖고 가렴
 대금은 신경 쓰지 않아도 돼
@@ -237,28 +228,26 @@ persona bisognosa la riceva!","沒關係，這條毯子你們拿去吧。
 Sorge wegen der Kosten. Sorg dafür, dass diese
 arme Person sie bekommt!"
 49,4052,,"Grazie, signora!",謝謝妳，阿姨！,,"고마워요, 아주머니!","Vielen Dank, gnädige Frau!"
-50,5034,,"Okay, allora è un
-affare! Prendilo prima che cambi idea.",好，買賣成交！　來，你拿去吧。,,"좋아, 거래 성립이다! 자, 가져가라고","Okay, dann ist es abgemacht!
+50,5034,,"Okay, allora è un affare!
+Prendilo prima che cambi idea.",好，買賣成交！　來，你拿去吧。,,"좋아, 거래 성립이다! 자, 가져가라고","Okay, dann ist es abgemacht!
 Nimm sie, bevor ich meine Meinung ändere."
 100,4052,,"Grazie!
 Sono sicuro che questo renderà felice la creatura!","謝謝你！
 這下那個怪獸先生一定會很高興的。",,"고마워요!
 분명 이걸로 그 괴수 씨도 기뻐해줄 거야","Danke!
 Die Kreatur wird sich sicher freuen!"
-101,4052,,"Mia madre dice che non mi è permesso andare troppo
-lontano...","媽媽有叮嚀我
+101,4052,,"Mia madre dice che non mi è permesso andare troppo lontano...","媽媽有叮嚀我
 不可以跑去太遠的地方……",,"난 엄마가 신신당부해서
 그렇게 멀리까지 못 가니까…","Meine Mama sagt, dass ich nicht zu weit weggehen
 darf ..."
-102,4052,,"Quindi, vorrei che portassi questo alla
-creatura invece.","所以想請你幫我
+102,4052,,"Quindi, vorrei che portassi questo alla creatura invece.","所以想請你幫我
 把這條毯子送去給怪獸先生。",,"그러니까 내 대신
 이 이불을 괴수 씨에게 전해줬으면 해","Deshalb möchte ich, dass du sie der Kreatur
 bringst."
 103,4052,,"Per favore, Detective!",拜託你了，偵探大人！,,"부탁해, 탐정님!","Bitte, Detektiv!"
-110,4052,,"Quella creatura che ho visto a Shinjuku, il suo nome
-è MetalGreymon, e probabilmente sta ancora morendo di freddo lì
-fuori... Per favore, portagli questa coperta!","新宿的那個怪獸先生好像叫機械暴龍獸。
+110,4052,,"Quella creatura che ho visto a Shinjuku, il suo nome è MetalGreymon,
+e probabilmente sta ancora morendo di freddo lì fuori...
+Per favore, portagli questa coperta!","新宿的那個怪獸先生好像叫機械暴龍獸。
 它說不定還因為天氣冷而在發抖……
 快點把那條毯子拿給它吧。",,"신주쿠에 있던 괴수 씨는 메탈그레이몬이래
 아직 추워서 떨고 있을지도 몰라
@@ -268,14 +257,13 @@ Bitte bring ihr diese Decke!"
 150,1327,,Rrk... Dannazione... Eh?,"呼、呼……可惡……
 嗯？",,"하아, 하아… 제길…
 응?",Rrk ... Mist ... Was?
-151,1327,,"Che c'è? Se non vuoi niente,
-sparisci! Ti mordo!!!","幹嘛，沒事就快滾。
+151,1327,,"Che c'è? Se non vuoi niente, sparisci!
+Ti mordo!!!","幹嘛，沒事就快滾。
 再不走，小心我吃掉你喔。",,"뭐야, 아무것도 아니면 빨리 가버려
 가지 않으면 먹어버릴 거야","Was ist denn? Wenn du nichts willst, geh wieder
 weg! Sonst beiße ich dich!"
-152,1327,,"Eh? Questo... una ragazzina umana me
-l'ha preso? Sembravo avessi freddo, quindi ti
-ha chiesto di portarmelo?","什麼？　這東西……是一個人類的女孩要送我的？
+152,1327,,"Eh? Questo... una ragazzina umana me l'ha preso?
+Sembravo avessi freddo, quindi ti ha chiesto di portarmelo?","什麼？　這東西……是一個人類的女孩要送我的？
 她說看我好像很冷，所以叫你拿給我嗎？",,"뭐? 이걸… 인간 여자아이가 나한테?
 추워보이니까 전해주라고 한 거야?","Was? ... Ein kleines Menschenmädchen hat sie
 für mich besorgt? Ich sah aus, als ob ich fror?
@@ -283,22 +271,21 @@ Deshalb bringst du mir die?"
 153,1327,,Wow...,嘿咻……,,엇차……,Wow ...
 154,1327,,"...Oh, è così caldo!",呼……好溫暖啊。,,"……아아, 따뜻하네","Ach, sie ist so warm!"
 155,1327,,"Ma, a dire la verità, in realtà non avevo freddo.",不過，其實我一點都不冷。,,"하지만 말야, 난 별로 추웠던 게 아니야","Aber um ehrlich zu sein, war mir gar nicht kalt."
-156,1327,,"Dopo essere arrivato in questo mondo, temevo
-che qualche umano senza cuore mi attaccasse, quindi
-ho cambiato velocemente il mio corpo.","來到這個世界後，我一想到會被無情的人類攻擊就很害怕，
+156,1327,,"Dopo essere arrivato in questo mondo, temevo che qualche umano senza
+cuore mi attaccasse, quindi ho cambiato velocemente il mio corpo.","來到這個世界後，我一想到會被無情的人類攻擊就很害怕，
 所以急急忙忙改造身體。",,"이 세상에 온 후 무정한 인간한테 습격받을지도 모른다고 생각하면 무서워서
 몸을 개조하는 걸 서두르고 있었어","Nachdem ich in diese Welt kam, hatte ich Angst
 vor angriffslustigen herzlosen Menschen, also habe
 ich meinen Körper schnell angepasst."
-157,1327,,"Ma siccome ho affrettato i cambiamenti, il mio corpo non si
-è ancora ripreso... quindi sto camminando in preda al dolore
-in questo modo. Suppongo che dovessi sembrare freddo.","但胡亂改造的結果，讓身體反而跟不上步調……好痛！
+157,1327,,"Ma siccome ho affrettato i cambiamenti, il mio corpo non si è ancora
+ripreso... quindi sto camminando in preda al dolore in questo modo.
+Suppongo che dovessi sembrare freddo.","但胡亂改造的結果，讓身體反而跟不上步調……好痛！
 她可能是看到我走路的姿勢，以為我很冷吧。",,"하지만 개조를 무리하게 해버린 탓에 몸이 따라가질 못해서… 아야얏
 이런 상태로 걸어다녔으니 추워보인 거려나","Aber weil es schnell gehen musste, hat mein Körper
 noch nicht aufgeholt ... Deshalb laufe ich so rum.
 Vielleicht wirkt es, als ob mir kalt ist."
-158,1327,,"Questa coperta è super
-calda! Gli umani...sono in realtà molto gentili.","毯子好溫暖喔。
+158,1327,,"Questa coperta è super calda!
+Gli umani...sono in realtà molto gentili.","毯子好溫暖喔。
 人類……其實很溫柔呢。",,"이불 굉장히 따뜻해
 인간은… 사실은 다정하구나","Diese Decke ist so warm!
 Menschen ... sind doch sehr nett."
@@ -309,8 +296,8 @@ Menschen ... sind doch sehr nett."
 170,1327,,"...È davvero caldo.
 Per favore, ringrazia la bambina per me.",好溫暖啊……記得幫我轉告那個女孩。,,……엄청 따뜻해. 그 여자아이에게 전해줘,"Sie ist wirklich warm.
 Bitte bedanke dich für mich bei dem Mädchen."
-180,4052,,"Detective! Ah, non hai la coperta! Quindi
-hai trovato quella creatura, giusto?","偵探大人！
+180,4052,,"Detective! Ah, non hai la coperta!
+Quindi hai trovato quella creatura, giusto?","偵探大人！
 啊，你手上沒有毯子！　你見到那個怪獸先生了吧？",,"탐정님!
 아, 이불 안 갖고 있네! 그 괴수 씨랑 만난 거지?","Detektiv! Oh, du hast die Decke nicht mehr!
 Du hast die Kreatur also gefunden?"
@@ -319,38 +306,35 @@ Du hast die Kreatur also gefunden?"
 ……真的嗎！？　太好了。",,"괴수 씨, 기뻐했어?
 …정말!? 다행이다아","Hat sie sich darüber gefreut?
 ... Wirklich?! Das ist toll!"
-182,4052,,"Eh? La creatura mi ha fatto un
-regalo?",什麼？　怪獸先生有東西要送給我？,,어? 괴수 씨가 나한테 주는 선물이 있다구?,"Was? Die Kreatur hat dir ein Geschenk für mich
+182,4052,,"Eh? La creatura mi ha fatto un regalo?",什麼？　怪獸先生有東西要送給我？,,어? 괴수 씨가 나한테 주는 선물이 있다구?,"Was? Die Kreatur hat dir ein Geschenk für mich
 gegeben?"
 183,4052,,Ah...,啊……,,아……,Ah ...
-184,5004,,"L'insolito carillon emette una
-dolce melodia dal palmo della
-mano della bambina.","變形的音樂盒
+184,5004,,"L'insolito carillon emette una dolce melodia dal palmo della mano
+della bambina.","變形的音樂盒
 在女孩手中演奏著優美的音樂……",,"찌그러진 모양의 오르골이
 여자아이의 손 위에서 다정한 음악을 연주하고 있다…","Auf der Handfläche des kleinen Mädchens erklingt
 eine süße Melodie aus der ungewöhnlich
 geformten Spieluhr."
 185,4052,,...,………………,,………………,...
-186,4052,,"Non so cosa dire, ma...per qualche
-ragione mi sento tutto caldo e formicolante!","我……不知道該說什麼才好。
+186,4052,,"Non so cosa dire, ma...per qualche ragione mi sento tutto caldo
+e formicolante!","我……不知道該說什麼才好。
 但總覺得……心裡暖呼呼的。",,"그게, 뭐라고 말해야 할지 모르겠어
 하지만 왠지… 마음이 따뜻해졌어","Ich weiß nicht, was ich sagen soll, aber ...
 Irgendwie wird mir ganz warm ums Herz!"
 187,4052,,"Anche se oggi è un po' freddo... è strano.
-Detective, grazie per aver accettato il
-mio caso.","今天明明就有點冷……真奇怪。
+Detective, grazie per aver accettato il mio caso.","今天明明就有點冷……真奇怪。
 偵探大人，謝謝你答應我的請求。",,"오늘 좀 추운데도… 이상하네
 탐정님, 부탁을 들어줘서 고마워","Auch wenn es heute etwas kalt ist ... seltsam.
 Danke, dass du meinen Fall übernommen hast,
 Detektiv."
 188,4052,,Vedi...mi trasferirò a Hokkaido domani.,其實……我明天就要搬去北海道了。,,"……있잖아, 나 내일 홋카이도로 이사가",Morgen ziehe ich nämlich nach Hokkaido.
-189,4052,,"Ero triste di dovermi separare da tutti i
-miei amici, ma sentire questo mi ha fatto sentire meglio!","雖然跟朋友分開很寂寞，
+189,4052,,"Ero triste di dovermi separare da tutti i miei amici,
+ma sentire questo mi ha fatto sentire meglio!","雖然跟朋友分開很寂寞，
 但我會聽這個音樂盒，打起精神的！",,"친구랑 헤어져서 외롭다고 생각하고 있었지만
 이걸 듣고 힘을 낼게!","Ich war traurig, weil ich all meine Freunde
 zurücklassen muss, aber jetzt geht’s mir besser!"
-200,4052,,"Mi sento tutto caldo... È
-piuttosto strano, non trovi?","好溫暖……
+200,4052,,"Mi sento tutto caldo...
+È piuttosto strano, non trovi?","好溫暖……
 感覺好奇妙哦。",,"따뜻해…
 왠지 신기하네","Mir ist ganz warm zumute ...
 Das ist seltsam, oder?"

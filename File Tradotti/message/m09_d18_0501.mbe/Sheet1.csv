@@ -2,19 +2,18 @@
 "1","3005","","Haha! Ti ho preso!","嘿嘿，追上你了。","","헤헷, 따라잡았구만","Haha! Hab ich dich!"
 "2","2000","","?!","！？","","!?","?!"
 "3","3005","","Stavo per hackerare i sistemi di sicurezza, ma
-sono andati in tilt. Hai forse combinato
-qualcosa?","我試著按部就班突破防範措施，
+sono andati in tilt. Hai forse combinato qualcosa?","我試著按部就班突破防範措施，
 結果剛才就自動解除了……你是不是做了什麼？","","하나하나 보안을 돌파하려 했더니
 방금 전에 멋대로 해제됐어… 댁, 뭔가 했어?","Ich wollte die Sicherheitssysteme gerade knacken,
 als sie sowieso ausgefallen sind. Du hast
 nicht zufällig etwas gemacht?"
-"4","3005","","Ah. Forse il Digimon che hai sconfitto funzionava
-da sistema di sicurezza.","原來如此……你打敗的，
+"4","3005","","Ah.
+Forse il Digimon che hai sconfitto funzionava da sistema di sicurezza.","原來如此……你打敗的，
 一定就是代替防範措施的數碼寶貝。","","그렇구만… 댁이 쓰러뜨린 건 분명
 보안 대신인 디지몬이었던 거야","Aha. Das Digimon, das du besiegt hast, muss
 als Sicherheitssystem fungiert haben."
-"5","3005","","I Digimon non si possono eliminare dall'esterno. E,
-a dire il vero, nemmeno in altri modi.","對手是數碼寶貝的話，難怪無法從外面解除，
+"5","3005","","I Digimon non si possono eliminare dall'esterno.
+E, a dire il vero, nemmeno in altri modi.","對手是數碼寶貝的話，難怪無法從外面解除，
 不過通常在裡面也無法解除就是了。","","그야 디지몬이 상대면, 외부에서 해제하는 건 불가능하겠지
 뭐, 내부에서여도, 보통은 무리겠지만 말이야","Digimon kann man von außen nicht beseitigen.
 Und eigentlich auch sonst nicht."
@@ -26,9 +25,8 @@ Un momento, [p].","好，首先要先確保能跟杏子姊通話，
 ein. Moment, [p]."
 "8","3005","","Comunque, è una situazione incresciosa qui...","話說回來，這件事還真麻煩。","","…그건 그렇고, 성가신 얘기구만","Trotzdem ist das eine missliche Lage hier ..."
 "9","2000","","?","？？","","???","?"
-"10","3005","","Se Kamishiro usa i Digimon come sistema di
-sicurezza, l'azienda forse li impiega anche
-per altre cose.","如果這裡使用數碼寶貝當防範措施……
+"10","3005","","Se Kamishiro usa i Digimon come sistema di sicurezza,
+l'azienda forse li impiega anche per altre cose.","如果這裡使用數碼寶貝當防範措施……
 就代表神代的人說不定也能自由操縱數碼寶貝。","","이곳의 보안으로서 디지몬이 사용됐다는 건…
 카미시로 녀석들도 디지몬을 자유롭게 다룰 수 있는 걸지도 몰라","Wenn Kamishiro Digimon als Sicherheitssystem
 nutzt, setzt die Firma sie vielleicht auch für
@@ -39,8 +37,8 @@ quell'antipatico di Suedou?","果然……
 그, 스에도라는 녀석 짓인 걸까","Gehört das vielleicht alles zum Plan dieses
 Unsympathen Suedou?"
 "12","2000","","...","……","","……","..."
-"13","3005","","Ehi! Sono riuscito a passare. Prova a
-contattare Kyoko, [p]!","喔！好像連上了！
+"13","3005","","Ehi! Sono riuscito a passare.
+Prova a contattare Kyoko, [p]!","喔！好像連上了！
 [p]，聯絡杏子姊看看！","","오! 연결된 모양이야
 [p], 쿄코 씨에게 연락해 봐!","He! Ich bin durchgekommen. Versuch mal, Kyoko
 zu kontaktieren, [p]!"
@@ -63,8 +61,7 @@ Lo farà.","沒問題的，她一定會成功。","","괜찮아, 그녀라면 �
 Sie wird das ganz gut machen."
 "19","2000","","?","？？","","??","?"
 "20","3006","","Lei è ingenuia, ma è disperata.
-I novellini disperati fanno paura, ma
-sono affidabili.","她雖然是外行人，但比誰都要拼命，
+I novellini disperati fanno paura, ma sono affidabili.","她雖然是外行人，但比誰都要拼命，
 沒有什麼比拼命的外行人更可怕……更可靠的。","","그녀는 풋내기지만, 그 누구보다도 필사적이다
 필사적인 풋내기보다 무서운 건… 믿음직스러운 건 없다","Sie ist noch unbedarft, aber sie ist verzweifelt.
 Verzweifelte Grünschnäbel sind furchterregend –

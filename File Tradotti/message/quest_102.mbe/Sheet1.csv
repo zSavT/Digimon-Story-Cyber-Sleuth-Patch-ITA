@@ -8,17 +8,17 @@
 你是什麼人？",,"…핫!
 ……당신은 대체?","... Ah!
 ... Wer zum Teufel bist denn du?!"
-103,4888,,"Eh? Se vuoi mangiare, entra, hai
-detto? Non capisci!","咦？　既然想吃幹嘛不進去？
+103,4888,,"Eh? Se vuoi mangiare, entra,
+hai detto? Non capisci!","咦？　既然想吃幹嘛不進去？
 你真是什麼都不懂啊。",,"네? 먹고 싶으면 들어가면 된다고요?
 당신, 아무것도 모르는군요","Was? Wenn du essen willst, komm einfach rein?
 Du verstehst das nicht!"
-104,4888,,"Una signora come me non può semplicemente entrare
-in un posto come questo non accompagnata!",淑女是很難一個人走進這種店家的！,,"레이디는 이런 가게에
+104,4888,,"Una signora come me non può semplicemente entrare in un posto come
+questo non accompagnata!",淑女是很難一個人走進這種店家的！,,"레이디는 이런 가게에
 혼자서는 좀처럼 못 들어가는 법이라고요!","Eine Dame wie ich kann nicht einfach ohne
 Begleitung an so einen Ort gehen!"
-105,4888,,"...A proposito, l'altro giorno ho visto una ragazza
-lasciata sola fuori da questo posto. Sembrava così sola...","說到這個，之前也有一個站在店門口，
+105,4888,,"...A proposito, l'altro giorno ho visto una ragazza lasciata sola
+fuori da questo posto. Sembrava così sola...","說到這個，之前也有一個站在店門口，
 一臉落寞地偷看著店內的孩子呢。",,"…그러고 보니 요전에도
 가게 앞에서 어쩐지 쓸쓸하게 가게 안을 엿보던 아이가 있었죠","Neulich habe ich übrigens ein Mädchen gesehen,
 das hier draußen rumstand. Sie wirkte so einsam."
@@ -32,37 +32,36 @@ Forse solo io ho visto la ragazza...?","那個該不會……
 Vielleicht habe nur ich das Mädchen gesehen ...?"
 108,4888,,...,……,,……,...
 109,4888,,Aaaaahhh!!!,呀啊啊啊————！！,,꺄― 꺄― 꺄―!!,Aaahhh!
-110,3006,,"Allora [p], come va con il nuovo
-corpo? L'hai già rodato?","[p]，新身體的狀況怎麼樣？
+110,3006,,"Allora [p], come va con il nuovo corpo?
+L'hai già rodato?","[p]，新身體的狀況怎麼樣？
 “散步”散得還順利嗎？",,"[p], 새로운 몸의 상태는 어떻지?
 ""산책""은 순조롭나?","Na, [p], wie geht es dir mit deinem neuen Körper?
 Hast du dich schon daran gewöhnt?"
-111,3006,,"Mentre ti stavi divertendo, abbiamo ricevuto
-un'altra richiesta per il Cyber Detective.","不好意思打斷你，
+111,3006,,"Mentre ti stavi divertendo, abbiamo ricevuto un'altra richiesta per
+il Cyber Detective.","不好意思打斷你，
 有件委託想拜託你這位電腦偵探。",,"즐거운 와중에 미안하지만
 전뇌탐정으로서의 네게 부탁하고 싶은 의뢰가 있다","Während du unterwegs warst, kam ein neuer Auftrag
 für den Cyber-Detektiv rein."
 112,3006,,È un caso piuttosto grosso e complesso.,是一件份量大又多的委託喔。,,꽤 볼륨이 있는 무거운 의뢰야,"Es ist ein ziemlich großer, komplexer Fall."
-113,3006,,"Una volta tornato in ufficio, potrai trovare il caso
-sulla lavagna bianca.","你先回事務所一趟，
+113,3006,,"Una volta tornato in ufficio, potrai trovare il caso sulla lavagna
+bianca.","你先回事務所一趟，
 確認一下委託用的白板吧。",,"한 번 사무소로 돌아와서
 의뢰용 화이트보드를 확인해보도록","Wenn du wieder im Büro bist, findest du den Fall
 am Schwarzen Brett."
 114,2001,,...,……,,……,...
-151,4888,,"Era di carnagione chiara e aveva i capelli
-neri... Quella ragazza, era un fantasma!?","白皮膚、黑頭髮，一直盯著店家的櫥窗看……
+151,4888,,"Era di carnagione chiara e aveva i capelli neri...
+Quella ragazza, era un fantasma!?","白皮膚、黑頭髮，一直盯著店家的櫥窗看……
 那時候看到的孩子果然是鬼嗎！？",,"피부가 하얗고 흑발에 가게 디스플레이를 계속 바라보는…
 그때 본 아이, 역시 귀신!?","Sie war hellhäutig und hatte schwarze Haare ...
 Dieses Mädchen, war das ein Geist?!"
-201,3006,,"[p] Lo so che è
-improvviso, ma...",[p]，雖然這麼問很突然……,,"[p], 갑자기 미안하지만…","[p], ich weiß, das kommt jetzt aus heiterem
+201,3006,,"[p] Lo so che è improvviso, ma...",[p]，雖然這麼問很突然……,,"[p], 갑자기 미안하지만…","[p], ich weiß, das kommt jetzt aus heiterem
 Himmel, aber ..."
 202,2001,,!?,！？,,!?,?!
 203,3006,,Hai fame in questo momento?,你現在肚子餓不餓？,,너는 지금 배가 고픈가?,Hast du gerade Hunger?
 204,2001,,!?,！？,,!?,?!
-205,2001,,"Sì, affamato! Più o
-meno. Sono
-pieno come un uovo!","餓死了！
+205,2001,,"Sì, affamato!
+Più o meno.
+Sono pieno come un uovo!","餓死了！
 五分餓吧？
 撐死了……",,"배고파요!
 배고프기 직전인 느낌?
@@ -74,37 +73,33 @@ Ragazzini della vostra età hanno sempre fame!","哈哈哈哈哈，這樣啊。
 我就知道你這個年紀的孩子總是處在飢餓狀態。",,"핫핫핫핫하, 그런가 그렇군
 네 또래의 아이는 항상 배가 고플 거라고 생각했어","Hahaha ...
 In deinem Alter hat man immer Hunger!"
-207,3006,,"...In realtà, questo caso proviene dal
-Web. È piuttosto strano.","這次的委託是從網路上發過來的，
+207,3006,,"...In realtà, questo caso proviene dal Web.
+È piuttosto strano.","這次的委託是從網路上發過來的，
 內容還挺奇妙的。",,"…실은 이번 의뢰는
 WEB 상으로 온 꽤나 기묘한 안건인데 말이다","Dieser Fall stammt übrigens aus dem Netz.
 Er ist etwas seltsam."
-208,3006,,"Abbiamo una richiesta da qualcuno che
-recensisce ristoranti gourmet come hobby personale.","有個私人興趣經營的美食排名「愛吃榜」，
+208,3006,,"Abbiamo una richiesta da qualcuno che recensisce ristoranti gourmet
+come hobby personale.","有個私人興趣經營的美食排名「愛吃榜」，
 委託是來自那裡的一位匿名評審員。",,"개인 취미로 하고 있다는 맛집 랭킹
 「취미 랭킹」의 복면 심사원인 인물의 의뢰인데","Wir haben eine Anfrage von einer Person, die
 hobbymäßig Gourmet-Restaurants bewertet."
-209,3006,,"Le piacerebbe che tu andassi a
-Nakano e valutassi i ristoranti
+209,3006,,"Le piacerebbe che tu andassi a Nakano e valutassi i ristoranti
 gourmet lì e le riferissi.","他好像希望你去調查一下中野的美食，
 然後幫他記錄食記和評分。",,"나카노의 맛집을 체크해서
 맛에 대한 감상과 채점 대행을 해주길 바란다고 한다","Sie möchte, dass du nach Nakano gehst, die
 Gourmet-Restaurants dort für sie bewertest
 und ihr dann Bericht erstattest."
-210,3006,,"Le tariffe e le spese sono state tutte
-pagate in anticipo. Ho deciso che non era
-un rischio, quindi me ne sono fatto carico.","委託人已經先支付報酬和經費了。
+210,3006,,"Le tariffe e le spese sono state tutte pagate in anticipo.
+Ho deciso che non era un rischio, quindi me ne sono fatto carico.","委託人已經先支付報酬和經費了。
 反正也不是什麼大案件，所以我判斷接下來也不會有損失。",,"보수와 경비를 선불로 지불해줘서 말이지
 큰 안건도 아니니 받아들여도 손해는 아니라고 판단했다","Das Honorar und jegliche Kosten wurden schon
 bezahlt. Ich dachte mir, dass der Fall nicht
 riskant ist, also habe ich ihn angenommen."
-211,3006,,"...Ho deciso di affidare questo
-caso a ""voi ragazzi"".",這個案件想交給“你們”處理。,,"…이 안건을 ""너희들""에게 맡기고 싶다","Ich habe beschlossen, „euch Jungspunden“
+211,3006,,"...Ho deciso di affidare questo caso a ""voi ragazzi"".",這個案件想交給“你們”處理。,,"…이 안건을 ""너희들""에게 맡기고 싶다","Ich habe beschlossen, „euch Jungspunden“
 diesen Fall anzuvertrauen."
 212,2001,,?,？？,,??,?
-213,3002,,"Kyoko, quel posto di Uova e Riso
-sta davvero facendo buffet a
-volontà adesso!?",杏子姊，你說可以生蛋拌飯吃到飽是真的嗎！？,,"쿄코 씨, GGB(계란간장밥)을 마음껏 먹어도 된다는 거 정말이야!?","Kyoko, gibt es in dem TKG-Restaurant wirklich
+213,3002,,"Kyoko, quel posto di Uova e Riso sta davvero facendo buffet avolontà
+adesso!?",杏子姊，你說可以生蛋拌飯吃到飽是真的嗎！？,,"쿄코 씨, GGB(계란간장밥)을 마음껏 먹어도 된다는 거 정말이야!?","Kyoko, gibt es in dem TKG-Restaurant wirklich
 Büffets, bei denen man so viel essen kann,
 wie man will?!"
 214,3005,,"Posso davvero mangiare gratis, Kyoko?",真的可以吃免錢飯嗎？杏子姊。,,"진짜 공짜로 먹어도 되는 거지, 쿄코 씨?","Kann ich wirklich kostenlos essen, Kyoko?"
@@ -113,46 +108,43 @@ wie man will?!"
 一點小心意。",,"…뭘, 배고픈 젊은이들에게
 내가 주는 팁이다","Ja, das ist mein Geschenk an euch hungrige Kids."
 217,3006,,"Per favore, dai il meglio di te in questo.",你們就去徹底調查一番吧。,,마음껏 조사하도록,Bitte gebt euer Bestes.
-251,3006,,"In realtà, vorrei poterti accompagnare, ma ho
-deciso di lasciare la cosa ai vostri
-giovani stomaci.","其實我本來也想同行的，
+251,3006,,"In realtà, vorrei poterti accompagnare,
+ma ho deciso di lasciare la cosa ai vostri giovani stomaci.","其實我本來也想同行的，
 但後來還是決定交給年輕人的胃袋。",,"실은 나도 동행하고 싶지만
 이건 청년들의 위장에 맡기도록 하지","Eigentlich würde ich gern mitkommen, aber ich habe
 beschlossen, das euren jungen Bäuchen zu
 überlassen."
-252,3006,,"Goditi i migliori ristoranti gourmet di
-Nakano!",去好好享受中野的美食吧。,,나카노의 미식 투어를 만끽하고 오도록,"Viel Spaß mit den besten Gourmet-Restaurants in
+252,3006,,"Goditi i migliori ristoranti gourmet di Nakano!",去好好享受中野的美食吧。,,나카노의 미식 투어를 만끽하고 오도록,"Viel Spaß mit den besten Gourmet-Restaurants in
 Nakano!"
-301,3005,,"Quindi, i tre ristoranti in cui andremo sono un ristorante
-cinese, un ristorante di sushi e una sala da tè.","要調查的店家有三間，
+301,3005,,"Quindi, i tre ristoranti in cui andremo sono un ristorante cinese,
+un ristorante di sushi e una sala da tè.","要調查的店家有三間，
 「中式餐廳」、「壽司店」、「輕食咖啡館」……",,"조사 대상인 가게는 3곳
 「중화요리 가게」,「초밥집」,「경식찻집」인가…","Wir besuchen drei Restaurants: ein chinesisches,
 eins für Sushi und ein Teehaus."
 302,3002,,Aspetta... e il posto con l'Uovo e Riso?,奇怪……哪裡可以吃到生蛋拌飯？,,어라… GGB는 어디서 먹을 수 있는 거야?,Moment ... Was ist mit dem TKG-Restaurant?
 303,3005,,Sembra che ognuno di questi posti sia nell'edificio Nakano.,這三家店好像都在這間中野館裡面。,,어떤 가게도 이 나카노 관내에 있는 가게 같군,Die Restaurants sind alle im Nakano-Gebäude.
 304,3002,,Aww... e il posto di Uova e Riso?,……我說啊，哪裡可以吃到生蛋拌飯？,,"…저기, GGB는 어디서 먹을 수 있어?",Och ... Was ist mit dem TKG-Restaurant?
-305,3005,,"Possiamo visitare i luoghi in qualsiasi
-ordine. Ho una fame da lupi, andiamo e basta!","從哪家開始好像沒有太大的不同。
+305,3005,,"Possiamo visitare i luoghi in qualsiasi ordine.
+Ho una fame da lupi, andiamo e basta!","從哪家開始好像沒有太大的不同。
 肚子也餓了，我們快走吧！",,"어디부터 돌아도 큰 차이는 없을 것 같네
 배도 고프니 빨리 가자!","Es ist egal, in welcher Reihenfolge wir sie
 besuchen. Ich habe Hunger. Auf geht’s!"
 306,3002,,Ma...il mio Uovo e Riso...,喂……我的生蛋拌飯呢！？,,잠깐… 내 GGB는!?,Aber ... ich wollte so gern Reis mit Ei ...
 351,3002,,Huh? Che ristorante è questo?,咦？這家店是怎樣……,,"어? 뭐야, 이 가게…",Hoppla? Was für ein Restaurant ist das?
-352,3002,,"Questo posto è un po' malandato...
-anzi, sta cadendo a pezzi. Anzi no,
-è una vera e propria discarica!","怎麼感覺有點破爛……
+352,3002,,"Questo posto è un po' malandato... anzi,
+sta cadendo a pezzi. Anzi no, è una vera e propria discarica!","怎麼感覺有點破爛……
 很破爛，超級破爛……",,"뭔가 좀 낡았달까…
 오래됐달까 너덜너덜하달까…","Das Restaurant ist heruntergekommen ...
 Eine einzige Ruine. Ach, nein,
 es ist ein totaler Saftladen!"
-353,3005,,"Devi essere cieco... Questo
-posto ha un aspetto fantastico!","妳真是沒眼光啊……
+353,3005,,"Devi essere cieco...
+Questo posto ha un aspetto fantastico!","妳真是沒眼光啊……
 就是這種店才越能吃到好東西哦？",,"댁은 보는 눈이 없구만…
 이런 가게야말로 더 맛있다고?","Du hast wohl Tomaten auf den Augen ...
 Ich finde, es sieht toll aus!"
-354,3005,,"Se si sta deteriorando significa che è qui da molto
-tempo, il che significa che i clienti vengono qui
-da molto tempo, il che significa che è buono!","變破爛表示這家店在這裡很久了，
+354,3005,,"Se si sta deteriorando significa che è qui da molto tempo,
+il che significa che i clienti vengono qui da molto tempo,
+il che significa che è buono!","變破爛表示這家店在這裡很久了，
 在這裡很久了表示長年受到大家的喜愛。",,"낡았다는 건 오랫동안 여기서 장사를 했다는 것
 오랫동안 장사를 했다는 건 오랫동안 사랑받았다는 뜻이야","Wenn es in schlechtem Zustand ist, heißt das, dass
 es schon lange hier ist, weil schon lange Kunden
@@ -164,62 +156,57 @@ herkommen, was bedeutet, dass es gut ist!"
 [p], was willst du?"
 356,2001,,...,……,,……,...
 357,2001,,(Mmm...cosa dovrei prendere...),（要點什麼好呢……）,,(그럼 뭘 주문할까…),(Hmmm ... Worauf habe ich Lust ...)
-358,2001,,"(Il Chahan sembra buono, ma
-anche il Mapo Doufu lo sembra.)","（想點炒飯，
+358,2001,,"(Il Chahan sembra buono, ma anche il Mapo Doufu lo sembra.)","（想點炒飯，
 　但中菜的王道——麻婆豆腐也很難割捨。）",,"(볶음밥도 먹고 싶지만
 역시 중화요리의 왕도인 마파두부도 먹고 싶다)","(Das Chahan sieht gut aus,
 aber das Mapo Doufu auch.)"
 359,2001,,"(...Eh? Mezza porzione di Chahan? Hmm... così potrei
-mangiare solo le parti del Chahan che mi piacciono di
-più... Ok, allora prenderò quella.)","（嗯？半份炒飯套餐？
+mangiare solo le parti del Chahan che mi piacciono di più... Ok,
+allora prenderò quella.)","（嗯？半份炒飯套餐？
 　炒飯加一道任選菜色……好，就是這個了吧。）",,"(…응? 반 볶음밥 세트?
 볶음밥과 좋아하는 일품요리인가… 좋아, 이것밖엔 없지)","(... Was? Ein halbes Chahan-Gericht? Hmmm ...
 So könnte ich nur das Beste am Chahan essen.
 Okay, so mache ich es.)"
 360,4889,,"Mezza porzione di Chahan e un Mapo Doufu, ecco a te!",您的半份炒飯和麻婆豆腐，久等了！,,"―반 볶음밥과 마파두부, 기다리셨슴다!","Ein halbes Chahan und Mapo Doufu, bitte!"
-361,2001,,"(Wow, qui danno porzioni
-abbondanti... È stata un'ottima scelta!)","（份量還挺多的。
+361,2001,,"(Wow, qui danno porzioni abbondanti... È stata un'ottima scelta!)","（份量還挺多的。
 　不是我要自誇，但我還真是點對了。）",,"(이건 꽤 볼륨이 있다
 내가 했지만 나이스 초이스였던 것 같다)","(Wow, die Portionen hier sind wirklich groß ...
 Gut, dass wir hergekommen sind!)"
 362,2001,,"(...Eh? Che buon profumo...
-Ah, certo, è il pepe di Sichuan nel Mapo
-Doufu... mmm...)","（嗯？這個香味是……
+Ah, certo, è il pepe di Sichuan nel Mapo Doufu... mmm...)","（嗯？這個香味是……
 　原來是加在麻婆豆腐裡的花椒啊……我嚐嚐。）",,"(…응? 이 좋은 향기는…
 그렇구나, 마파두부에 들어간 산초 냄새인가… 어디)","(... Oha? Das riecht so lecker ...
 Ach, das ist der Szechuanpfeffer im Mapo Doufu ...
 Mmmh ...)"
 363,2001,,...,……,,……,...
-364,2001,,"(Oh! Il pepe di Sichuan sta creando una splendida armonia
-con l'anice stellato, ancora più delizioso!)","（喔喔！刺激鼻腔的花椒與味道適中的八角
+364,2001,,"(Oh! Il pepe di Sichuan sta creando una splendida armonia con l'anice
+stellato, ancora più delizioso!)","（喔喔！刺激鼻腔的花椒與味道適中的八角
 　絕妙和諧地搭配在一起！）",,"(오오! 코로 느끼는 산초의 향과 적당한 팔각의 풍미가
 매우 절묘한 하모니를 자아내고 있어!)","(Ah! Der Szechuanpfeffer harmoniert herrlich mit
 dem noch köstlicheren Sternanis!)"
-365,2001,,"(Proverò a mettermi il
-Chahan in bocca mentre il retrogusto
-del Mapo Doufu è ancora lì...)","（好，趁嘴巴裡還留著麻婆豆腐的餘味
+365,2001,,"(Proverò a mettermi il Chahan in bocca mentre il retrogusto del
+Mapo Doufu è ancora lì...)","（好，趁嘴巴裡還留著麻婆豆腐的餘味
 　緊接著吃一口炒飯——）",,"(그럼 이 마파두부의 여운이 남아있는 동안에
 입 안에 볶음밥을 넣고, 그리고―)","(Ich werde das Chahan kosten,
 während ich noch den Nachgeschmack des
 Mapo Doufu im Mund habe ...)"
 366,3005,,È stato fantastico!,多謝款待。,,잘 먹었습니다,Das war toll!
 367,3005,,"Ohh, era delizioso!
-Proprio come pensavo, questo posto è
-fantastico!","呼～吃得好飽啊。
+Proprio come pensavo, questo posto è fantastico!","呼～吃得好飽啊。
 果然被我料中了，這家店口味挺好的。",,"후―, 잘 먹었다
 역시 내가 생각한 대로 꽤 맛있는 가게였어","Ach, das war köstlich!
 Dieser Laden ist so gut, wie ich es erwartet
 hatte!"
-368,3002,,"È stato fantastico! Frittata di granchio e Chahan
-all'uovo con funghi e uova saltate in padella!","天津飯、蛋炒飯還有黑木耳炒蛋
+368,3002,,"È stato fantastico! Frittata di granchio e Chahan all'uovo con funghi
+e uova saltate in padella!","天津飯、蛋炒飯還有黑木耳炒蛋
 都好好吃喔！",,"맛있었네!
 텐신한이랑 계란볶음밥이랑 목이버섯 계란 볶음!","Das war lecker! Krabbenomelett und Eier-Chahan
 mit gebratenen Pilzen und Ei!"
 369,3003,,...,……,,……,...
 370,3002,,Chi sei tu?,妳是……,,너는…,Wer bist du?
 371,3003,,...,……,,……,...
-372,3005,,"Ehi, cosa stai
-facendo? ...Dai, andiamo!","喂，怎麼了，
+372,3005,,"Ehi, cosa stai facendo?
+...Dai, andiamo!","喂，怎麼了，
 我們快走吧。",,"어이, 왜 그래
 …빨리 가자","He, was soll das?
 ... Los, gehen wir!"
@@ -232,8 +219,7 @@ SSSUUUUSSSSHHHHHIIIII!!!","來啦來啦來啦！　壽司店！
 Als Nächstes ist das Sushi-Restaurant dran!
 SSSUUUUSSSSHHHHHIIIII!"
 452,3005,,Che succede? Sembri teso.,幹嘛啦……妳怎麼那麼激動。,,뭐야… 꽤 텐션이 높잖아,Was ist los? Du wirkst so angespannt.
-453,3002,,"Perché!!! È un ristorante di
-sushi dove il cibo non arriva su un nastro
+453,3002,,"Perché!!! È un ristorante di sushi dove il cibo non arriva su un nastro
 trasportatore! Non l'ho mai visto prima!","那還用說！　因為這不是迴轉壽司呀？
 我有生以來第一次吃不是迴轉的壽司店！",,"그치만 그치만 그치만! 빙글빙글 돌지 않는 초밥집인걸?
 돌지 않는 초밥집이라니 나 태어나서 처음이야!","Warum? Es ist ein Sushi-Restaurant, wo
@@ -243,8 +229,8 @@ kann! So was habe ich noch nie gesehen!"
 感覺有點可憐呢。",,"…그렇구나
 그건 안됐네","... Och, wie traurig!"
 455,3002,,"Uh,
-co...cosa!? Mi...mi stai prendendo in giro
-adesso!? Sei mai stato in un ristorante di sushi elegante?","怎、怎樣啦！　你、你剛才笑我對不對！？
+co...cosa!? Mi...mi stai prendendo in giro adesso!?
+Sei mai stato in un ristorante di sushi elegante?","怎、怎樣啦！　你、你剛才笑我對不對！？
 那你就有來過這種壽司店嗎？",,"잠깐, 뭐, 뭐야! …지, 지금 바보취급 했지!?
 그러는 아라타는 와본 적 있어?","Äh, wa-was?!
 Machst du dich über mich lustig?!
@@ -260,24 +246,22 @@ Ich esse auf jeden Fall das Omelett!"
 458,3005,,Eh? La frittata?,什麼？　煎蛋？,,하아? 계란이라고오?,Was? Das Omelett?
 459,3005,,Uffa... Non capisci proprio niente!,妳真的什麼都不懂耶。,,…역시 너는 아무것도 모르는구만,Ach ... Du kapierst es einfach nicht!
 460,3002,,...Eh?,咦？,,…뭐?,... Was?
-461,3005,,"Sai, l'uovo era un dessert molto
-tempo fa. Se mangi qualcosa di
-dolce come quello, ti rovinerai il pesce!","煎蛋在以前算是甜點。
+461,3005,,"Sai, l'uovo era un dessert molto tempo fa.
+Se mangi qualcosa di dolce come quello, ti rovinerai il pesce!","煎蛋在以前算是甜點。
 吃了那麼甜的東西，其他配料的味道都吃不出來了。",,"계란은 말이지, 옛날로 치면 디저트야
 그런 단 것부터 먹었다간 재료의 맛을 모르게 되어버린다고","Ei war früher mal eine Nachspeise.
 Wenn du so etwas Süßes isst,
 ruiniert das den Fischgeschmack!"
-462,3005,,"Quando mangi sushi, dovresti sempre
-iniziare con il pesce bianco.",吃壽司的法則就是要從白肉魚開始吃。,,스시는 흰 살 생선부터 먹는 게 철칙이야,"Wenn man Sushi isst, sollte man immer mit
+462,3005,,"Quando mangi sushi, dovresti sempre iniziare con il pesce bianco.",吃壽司的法則就是要從白肉魚開始吃。,,스시는 흰 살 생선부터 먹는 게 철칙이야,"Wenn man Sushi isst, sollte man immer mit
 Weißfisch beginnen."
-463,3005,,"Il modo in cui lo fanno gli esperti è mangiare prima pesce bianco
-dal sapore pulito, poi pesce più grasso, e infine i roll di sushi.","先從味道清淡的魚開始進攻，接著是油脂肥厚的魚，
+463,3005,,"Il modo in cui lo fanno gli esperti è mangiare prima pesce bianco dal
+sapore pulito, poi pesce più grasso, e infine i roll di sushi.","先從味道清淡的魚開始進攻，接著是油脂肥厚的魚，
 最後再用壽司捲做結尾，才是饕客的吃法。",,"깔끔한 맛의 생선부터 시작해서 기름진 생선,
 그 후 말이로 마무리해서 먹는 법이야","Kenner essen erst Weißfisch mit reinem Geschmack,
 dann fettigeren Fisch und zuletzt Sushi-Rollen."
 464,3002,,"Uffa... Che noia mortale!
-Mamma mia, non c'è da stupirsi che non ti fili
-nessuna, sei proprio un nerd!","總覺得……你好麻煩哦！
+Mamma mia, non c'è da stupirsi che non ti fili nessuna,
+sei proprio un nerd!","總覺得……你好麻煩哦！
 這麼計較不會受歡迎的，勸你還是改一改吧。",,"…왠지 ……귀찮아!
 그런 거 인기 없어지니까 그만두는 게 좋아","Ach ... Wie laaangweilig!
 Kein Wunder, dass Mädchen dich nicht mögen,
@@ -288,9 +272,9 @@ du bist ja so ein Nerd!"
 [p]는(은) 뭐부터 먹을 거야?","Los, gehen wir rein!
 [p], was bestellst du als Erstes?"
 466,2001,,...,……,,……,...
-467,2001,,"(Alcune persone pensano di sapere tutto sul sushi e
-continuano a parlarne all'infinito, ma il modo migliore
-per mangiarlo è quello che preferisci.)","（雖然有人對壽司的吃法意見很多，
+467,2001,,"(Alcune persone pensano di sapere tutto sul sushi e continuano a
+parlarne all'infinito, ma il modo migliore per mangiarlo è quello
+che preferisci.)","（雖然有人對壽司的吃法意見很多，
 　不過還是照自己想吃的順序才是正確吃法。）",,"(스시를 먹는 법에 대해 우쭐대며 늘어놓는 사람도 있지만
 역시 내가 먹고 싶은 순서대로 먹는 게 올바른 먹는 방법이야)","(Manche Leute denken, sie wissen alles über Sushi
 und schwafeln endlos rum, aber am besten isst man
@@ -301,22 +285,22 @@ alle raccomandazioni dello chef...)","（通常這種時候都會從
 　張貼在店內的本日特選開始吃起吧。）",,"(이럴 때는 가게 안에 붙어 있는
 그날의 특선 재료부터 먹는 게 정석이겠지)","(Manchmal ist es am besten, sich die Empfehlungen
 des Kochs anzusehen ...)"
-470,2001,,"(Oh, la raccomandazione di oggi è il
-calamaro? ...Okay, allora comincerò con quello.)","（喔，今天的特選是近海日本魷啊……
+470,2001,,"(Oh, la raccomandazione di oggi è il calamaro?
+...Okay, allora comincerò con quello.)","（喔，今天的特選是近海日本魷啊……
 　好，就從這個開始吃。）",,"(헤에, 오늘은 근해에서 잡은 오징어가 추천인가…
 좋아, 우선은 그것부터 가보자)","(Ach, heute wird Tintenfisch empfohlen?
 ... Gut, dann fange ich damit an.)"
 471,4890,,"Certo! Un calamaro, in arrivo!",您的日本魷好了！,,―여기요! 오징어 한 접시!,Alles klar! Ein Tintenfisch! Kommt sofort!
-472,2001,,"(Okay, mi stanno mettendo il sushi nel piatto... Di
-sicuro non si riceve questo tipo di trattamento
+472,2001,,"(Okay, mi stanno mettendo il sushi nel piatto...
+Di sicuro non si riceve questo tipo di trattamento
 in un posto di sushi a nastro trasportatore economico...)","（剛捏好的壽司放在眼前的壽司木盤上……
 　光這一點就是迴轉壽司享受不到的奢侈。）",,"(갓 만든 스시가 눈앞의 스시 접시에 놓여 있다…
 이것만으로도 회전초밥에는 없는 사치다)","(Aha, sie legen das Sushi auf meinen Teller ...
 Solchen Service erhält man in einem
 billigen Lokal mit Sushi vom Band nicht ...)"
 473,2001,,(Bene...),（我瞧瞧……）,,(그럼…),(Los geht es ...)
-474,2001,,"(Wow... è paffuto, elastico e
-spesso... Sembra davvero delizioso!)","（哇……肥美厚實又充滿彈性……
+474,2001,,"(Wow... è paffuto, elastico e spesso...
+Sembra davvero delizioso!)","（哇……肥美厚實又充滿彈性……
 　這魷魚看起來是多麼地美味。）",,"(호오… 통통하고 쫄깃하고 묵직한…
 정말 맛있어 보이는 오징어잖아)","(Wow ... Er ist dick und nicht zu zäh ...
 Er sieht wirklich lecker aus!)"
@@ -324,29 +308,25 @@ Er sieht wirklich lecker aus!)"
 476,2001,,...,……,,……,...
 477,2001,,"(Oh, è fantastico!)",（嗯，好吃！）,,"(응, 맛있다!)","(Wow, das ist fantastisch!)"
 478,2001,,"(Il calamaro è un po' insipido, ma la consistenza al
-dente e il sapore unico si completano a vicenda in modo
-meraviglioso!)","（魷魚本身味道清淡，不過吃起來硬硬的口感
+dente e il sapore unico si completano a vicenda in modo meraviglioso!)","（魷魚本身味道清淡，不過吃起來硬硬的口感
 以及獨特的風味在口中譜出了絕妙的協奏曲……）",,"(오징어 자체는 담백하지만 이 꼬들꼬들한 촉감과
 독특한 풍미가 입 안에서 절묘한 하모니를 연주하고 있어…)","(Der Tintenfisch ist etwas fade, aber die Textur
 ist al dente und passt gut zum einzigartigen
 Geschmack!)"
-479,2001,,"(Okay, ora che mi è venuto l'appetito,
-il prossimo è...)","（很好，我的食慾全被勾起來了……
+479,2001,,"(Okay, ora che mi è venuto l'appetito, il prossimo è...)","（很好，我的食慾全被勾起來了……
 　接著下一個是——）",,"(좋아, 괜찮은 느낌으로 식욕이 생겼다…
 그럼 다음은―）","(Jetzt, da ich Appetit bekommen habe, nehme ich
 als Nächstes ...)"
 480,3002,,Era delizioso!,多謝款待！,,잘 먹었습니다!,Das war köstlich!
-481,3002,,"Uff! Sono sazio! Era
-assolutamente delizioso!","呼啊——吃得好飽哦！
+481,3002,,"Uff! Sono sazio!
+Era assolutamente delizioso!","呼啊——吃得好飽哦！
 果然很好吃呢！",,"후아아―― 엄청 먹었다!
 역시 맛있었네!","Uff! Ich bin so voll!
 Das war superlecker!"
-482,3005,,"Mmmm...quindi questo è quello che è un
-ristorante di sushi costoso...",嗯……這就是非迴轉壽司的實力嗎……,,그래… 이게 돌지 않는 초밥의 실력인가…,"Mmmh ... So ist das also in einem teuren
+482,3005,,"Mmmm...quindi questo è quello che è un ristorante di sushi costoso...",嗯……這就是非迴轉壽司的實力嗎……,,그래… 이게 돌지 않는 초밥의 실력인가…,"Mmmh ... So ist das also in einem teuren
 Sushi-Restaurant ..."
 483,3002,,Ehm? Tu...,咦？　我看你果然……,,어라? 너 역시…,Was? Du ...
-484,3005,,"...Tu, non hai mai saputo di cosa stavi
-parlando, vero!?","這、這不重要啦，
+484,3005,,"...Tu, non hai mai saputo di cosa stavi parlando, vero!?","這、這不重要啦，
 是說妳真的很沒品味耶。",,"…그, 그런 것보다 댁
 정말 센스가 없네","... Du, du wusstest gar nicht, wovon du redest,
 oder?!"
@@ -354,32 +334,31 @@ oder?!"
 486,3005,,"Beh, almeno non ho ordinato solo uova di pesce!","為什麼妳不是點鮭魚卵就是飛魚卵，
 還有鯡魚卵啊？",,"댁은 왜 연어알이나 날치알이나 청어알 같은
 그런 것들만 시키는 거야?",Wenigstens habe ich nicht bloß Fischeier bestellt!
-487,3005,,"Tutto quello che hai
-ordinato sono uova! Sei ossessionato!",妳點的東西太集中在魚卵類了！,,치우쳐 있다고! 주문이!,"Du bestellst nichts außer Eiern!
+487,3005,,"Tutto quello che hai ordinato sono uova!
+Sei ossessionato!",妳點的東西太集中在魚卵類了！,,치우쳐 있다고! 주문이!,"Du bestellst nichts außer Eiern!
 Du bist völlig darauf fixiert!"
-488,3005,,"Inoltre, quando hai lasciato il
-ristorante, hai detto ""Oaisou,"" vero?","還有要離開店裡時，
+488,3005,,"Inoltre, quando hai lasciato il ristorante,
+hai detto ""Oaisou,"" vero?","還有要離開店裡時，
 妳說了「算帳」對不對？",,"그리고 댁
 가게를 나올 때「감삼다」이라고 했지?","Und als du aus dem Restaurant gegangen bist, hast
 du „Oaisou“ gesagt, nicht wahr?"
 489,3002,,"Volevo solo provarlo una volta...
 Non è giusto?",因為我很想講一次看看啊……不好嗎？,,한번 말해보고 싶었는걸… 안되는 거야?,"Ich wollte es nur einmal probieren ...
 War es falsch?"
-490,3005,,"""Oaisou"" deriva dal termine ""aisou wo tsukasu"". Viene
-usato solo dallo staff per parlare con i
-clienti, mai il contrario.","「算帳」是「計算帳目」的意思。
+490,3005,,"""Oaisou"" deriva dal termine ""aisou wo tsukasu"".
+Viene usato solo dallo staff per parlare con i clienti,
+mai il contrario.","「算帳」是「計算帳目」的意思。
 是店家使用的詞，而不是客人自己說的。",,"「감삼다」이라는 건「찾아 주셔서 감사합니다」라는 의미야
 가게 측이 손님에게 쓰는 말이지 손님이 하는 말이 아니라고","„Oaisou“ kommt vom Ausdruck „aisou wo tsukasu“.
 Das sagt nur die Bedienung zum Kunden,
 nicht andersherum."
 491,3002,,...,……,,……,...
-492,3002,,"...Ehi, [p], non sarebbe meglio
-se scrivessi tu il rapporto?","[p]，之後的食記
+492,3002,,"...Ehi, [p], non sarebbe meglio se scrivessi tu il rapporto?","[p]，之後的食記
 可以拜託你寫吧？",,"…저기 [p], 실제로 맛 감상을 쓰는 건
 네게 부탁해도 괜찮지?","... He, [p], wäre es nicht am besten,
 wenn du den Bericht schreibst?"
-493,3002,,"Bene, fantastico! Così posso concentrarmi
-sulla parte del mangiare!","這樣啊！　太好了！
+493,3002,,"Bene, fantastico!
+Così posso concentrarmi sulla parte del mangiare!","這樣啊！　太好了！
 因為我全副精神都集中在吃上面了！",,"그렇구나! 다행이야!
 나도 참, 먹는 것에만 집중해버려서 말야!","Cool! Das ist super. Dann kann ich mich aufs
 Essen konzentrieren!"
@@ -387,14 +366,13 @@ Essen konzentrieren!"
 495,3005,,Ehi... Non ignorarmi!,"喂，
 不要無視我。",,"…어이
 ……무시하지 마",He ... Ignorier mich nicht!
-496,3005,,"...Uh,
-cosa? Io...Non stavo per...","唔呃？
+496,3005,,"...Uh, cosa?
+Io...Non stavo per...","唔呃？
 我、我沒有那個意思……",,"…으, 아?
 벼, 별로 난 그럴 생각이…","... Äh, was?
 Ich ... Ich wollte nicht ..."
 497,3002,,"Ok, quindi prendi il prossimo posto!",下一間店也麻煩你囉！,,다음 가게도 잘 부탁해!,"Okay, du übernimmst das nächste Restaurant!"
-550,3002,,"Wow, questo posto ha un sacco di opzioni nel
-menu per una sala da tè!","喔，這裡就是輕食咖啡啊。
+550,3002,,"Wow, questo posto ha un sacco di opzioni nel menu per una sala da tè!","喔，這裡就是輕食咖啡啊。
 雖然是咖啡館，菜色種類卻挺多的。",,"헤에, 여기가 경식찻집인가아
 찻집인데도 여러 가지 메뉴가 있구나","Wow, für ein Teehaus hat der Laden echt viele
 Gerichte zur Auswahl!"
@@ -405,49 +383,46 @@ Sembra che questo posto serva ogni tipo di cibo.","咖哩、鬆餅、鹽烤鯖�
 In diesem Restaurant gibt es wohl alles Mögliche."
 552,3005,,"Allora, cosa prendi?",妳要點什麼？,,댁은 뭘 시킬 거야?,"Also, was bestellst du?"
 553,3002,,Hmm....,這個嘛……,,그렇네에…,Hmmm ...
-554,3002,,"Ah! Hanno un menù con uova! Bis gratuito! Questo è il
-locale Uova e Riso che Kyoko aveva detto che aveva
-un buffet all-you-can-eat!","啊！　生蛋拌飯定食！　免費續碗！
+554,3002,,"Ah! Hanno un menù con uova! Bis gratuito!
+Questo è il locale Uova e Riso che Kyoko aveva detto che aveva un
+buffet all-you-can-eat!","啊！　生蛋拌飯定食！　免費續碗！
 這就是杏子姊說的生蛋拌飯吃到飽啊！",,"아! 간장계란밥 정식! 리필 무료!
 이게 쿄코 씨가 말했던 GGB 무제한 리필이었구나아!","Ah! Es gibt ein Eier-Menü! Zweite Portion gratis!
 Dies ist das TKG-Restaurant mit dem Büffet, von
 dem Kyoko erzählt hat!"
-555,3002,,"Aww, ma hanno anche un menu con l'omelette di
-riso! ...Mmmm...riso...omelette...!","可是蛋包飯定食感覺也很不錯！
+555,3002,,"Aww, ma hanno anche un menu con l'omelette di riso!
+...Mmmm...riso...omelette...!","可是蛋包飯定食感覺也很不錯！
 嗯……蛋包飯……定食？",,"그치만 그치만, 오므라이스 정식이라는 것도 좋네!
 …잠깐… 오므라이스… 정식?","Ach, aber es gibt auch ein Reisomelett-Gericht!
 ... Mmmh ... Reisomelett ...!"
-556,3005,,"Bene, entriamo.
-...[p], cosa vuoi ordinare?","總之我們先進去吧。
+556,3005,,"Bene, entriamo. ...[p],
+cosa vuoi ordinare?","總之我們先進去吧。
 [p]，你要點什麼？",,"뭐, 아무튼 안으로 들어가자
 …[p], 댁은 뭘 시킬 거야?","Los, gehen wir rein. ... [p],
 was willst du bestellen?"
 557,2001,,...,……,,……,...
-558,2001,,"(Una sala da tè? Figo, mi piace
-l'atmosfera retrò di questo posto.)",（輕食咖啡啊……我不討厭這種復古的氣氛。）,,(경식찻집인가… 이 복고풍 분위기 괜찮네),"(Ein Teehaus? Cool. Mir gefällt die Atmosphäre
+558,2001,,"(Una sala da tè? Figo, mi piace l'atmosfera retrò di questo posto.)",（輕食咖啡啊……我不討厭這種復古的氣氛。）,,(경식찻집인가… 이 복고풍 분위기 괜찮네),"(Ein Teehaus? Cool. Mir gefällt die Atmosphäre
 in diesem Laden ... So retro.)"
-559,2001,,"(Il menu ha così tante cose... Non
-riesco proprio a scegliere!)",（菜單還真是豐富……都要看得眼花繚亂了。）,,(메뉴가 굉장히 풍부해… 뭘 시킬지 망설이게 된다),"(Auf dem Menü stehen so viele Gerichte ...
+559,2001,,"(Il menu ha così tante cose...
+Non riesco proprio a scegliere!)",（菜單還真是豐富……都要看得眼花繚亂了。）,,(메뉴가 굉장히 풍부해… 뭘 시킬지 망설이게 된다),"(Auf dem Menü stehen so viele Gerichte ...
 Ich kann mich nicht entscheiden!)"
 560,2001,,(Eh?),（嗯？）,,(…응?),(Was?)
 561,2001,,(Pasta alla napoletana.),（拿波里義大利麵啊……）,,(나폴리탄인가…),(Pasta alla napoletana.)
-562,2001,,"(Ovviamente la pasta migliore è quella
-del ristorante di pasta, ma mi piace questo
-posto... Okay, ci proverò!)","（雖然在義大利麵店吃的拿波里也不錯，但總覺得
+562,2001,,"(Ovviamente la pasta migliore è quella del ristorante di pasta,
+ma mi piace questo posto... Okay, ci proverò!)","（雖然在義大利麵店吃的拿波里也不錯，但總覺得
 　咖啡館端出的粗糙拿波里才是貨真價實……好，決定了！）",,"(파스타집에서 먹는 나폴리탄도 좋지만 찻집이 내놓는
 투박한 나폴리탄이야말로 진짜라는 느낌이 들어… 좋아, 정했다!)","(Natürlich gibt es die beste Pasta in einem
 italienischen Restaurant, aber mir gefällt dieses
 Lokal. Okay, die nehme ich!)"
 563,4891,,"Il tuo napoletano, signore, eccolo qui!",拿波里義大利麵，讓您久等了！,,"―나폴리탄, 오래 기다리셨습니다!","Pasta alla napoletana. Hier, bitte!"
-564,2001,,"(Salsa di pomodoro rossa e brillante su
-spaghetti spessi... Wow, questo posto fa davvero
-un'ottima pasta napoletana!)","（淋上鮮紅蕃茄醬的粗麵條……
+564,2001,,"(Salsa di pomodoro rossa e brillante su spaghetti spessi...
+Wow, questo posto fa davvero un'ottima pasta napoletana!)","（淋上鮮紅蕃茄醬的粗麵條……
 　就是這個，這才是王道拿波里義大利麵。）",,"(새빨간 케찹이 뿌려진 굵은 면…
 이거야 이거, 이거야말로 왕도 나폴리탄이야)","(Lecker, hellrote Tomatensoße auf dicken
 Spaghetti ... Wow, dieser Laden macht echt gute
 Pasta alla napoletana!)"
-565,2001,,"(E guarda la salsiccia a pezzetti sopra... Non
-posso resistere!)","（隨意切成片的香腸鋪在上面……
+565,2001,,"(E guarda la salsiccia a pezzetti sopra...
+Non posso resistere!)","（隨意切成片的香腸鋪在上面……
 　不由得勾起了我的食慾……）",,"(거기에 무작위로 잘려진 소시지가 올라가서…
 이건 싫어도 식욕이 돋궈지는걸…)","(Und dieses zerkleinerte Würstchen obendrauf ...
 Unwiderstehlich!)"
@@ -460,24 +435,22 @@ Questo non è un piatto per bambini! Mmm... niente male!)","（嚐到蕃茄醬�
 어른의 맛, 이란 느낌이려나… 응, 나쁘지 않아!)","(Wenn der Geschmack der Tomatensoße nachlässt,
 ist die Schärfe des Chilis zu spüren. Das ist
 nichts für Kinder! Mmmh ... Nicht schlecht!)"
-569,2001,,"(Beh, il fatto di mettere formaggio
-grattugiato sopra è che alcune persone lo mettono prima di
-iniziare, mentre io preferisco aggiungerlo a metà cottura.)","（好了，問題是起司粉要什麼時候加下去……
+569,2001,,"(Beh, il fatto di mettere formaggio grattugiato sopra è che alcune
+persone lo mettono prima di iniziare, mentre io preferisco aggiungerlo
+a metà cottura.)","（好了，問題是起司粉要什麼時候加下去……
 有人會在吃前就灑，但我個人喜歡中途——）",,"(그럼 문제는 가루 치즈를 언제 넣느냐군…
 먹기 전에 뿌리는 사람도 있지만 개인적으로는 중간에 맛을―)","(Was den geriebenen Käse obendrauf angeht,
 manche Leute streuen ihn drauf, bevor sie anfangen
 zu essen, ich dagegen, wenn ich halb fertig bin.)"
 570,3002,,Era delizioso!,多謝款待！,,잘 먹었습니다아!,Das war köstlich!
 571,3002,,"Uff, sono pieno!",呼，太滿足了！！,,"후우, 만족 만족!!","Uff, ich bin so voll!"
-572,3005,,"Il prezzo e il sapore sono
-incredibilmente buoni... La scelta di
-cibi nel menu è molto ampia...","令人震驚的價格與味道……
+572,3005,,"Il prezzo e il sapore sono incredibilmente buoni...
+La scelta di cibi nel menu è molto ampia...","令人震驚的價格與味道……
 以及種類繁多的菜色選擇……",,"충격적인 가격과 맛…
 그리고 지나치게 폭넓은 라인업…","Ich bin überrascht, wie günstig und lecker das
 war. Die Auswahl an Gerichten auf der
 Speisekarte war sehr vielfältig ..."
-573,3005,,"Proprio quello che ci si aspetterebbe da un
-ristorante di Nakano.",真不愧是中野的店家啊。,,과연 나카노의 가게라는 느낌이네,"Wie man es von einem Restaurant in Nakano
+573,3005,,"Proprio quello che ci si aspetterebbe da un ristorante di Nakano.",真不愧是中野的店家啊。,,과연 나카노의 가게라는 느낌이네,"Wie man es von einem Restaurant in Nakano
 erwartet."
 574,3002,,"Sì!
 Sembra che questo posto abbia molti clienti abituali!","嗯！
@@ -487,8 +460,8 @@ Das Restaurant scheint viele Stammkunden zu haben!"
 575,3005,,"Wow, oggi avevi proprio fame!","不過話說回來，
 妳的胃也挺強的嘛。",,"그건 그렇고
 댁도 정말 튼튼한 위장을 가지고 있네","Wow, du hattest heute echt Hunger!"
-576,3005,,"È la prima volta che vedo uno stomaco
-umano solo sopportare una tale tortura...","我還是第一次看到……
+576,3005,,"È la prima volta che vedo uno stomaco umano solo sopportare una tale
+tortura...","我還是第一次看到……
 那麼多生蛋拌飯被吸進一個人類胃袋的景象。",,"인간 한 명의 위장에 그렇게 많은 GGB가
 빨려들어가는 모습… 처음 봤어","Ich habe noch nie erlebt, dass ein einzelner
 menschlicher Bauch so vollgeschlagen wurde ..."
@@ -496,65 +469,62 @@ menschlicher Bauch so vollgeschlagen wurde ..."
 652,3002,,"Sì, il rapporto è buono ma è una rottura di palle da leggere...","他寫得很好吧，
 甚至到了有點囉唆的地步。",,"꽤 잘 만들었군
 왠지 좀 귀찮을 정도로","Ja, der Bericht ist gut, aber schwer zu lesen ..."
-653,3005,,"Mentre stavamo mangiando, questo tizio continuava a
-parlare tra sé e sé e non ha mai detto una parola al
-resto di noi...","因為這傢伙一邊碎碎念，
+653,3005,,"Mentre stavamo mangiando, questo tizio continuava a parlare tra sé e sé
+e non ha mai detto una parola al resto di noi...","因為這傢伙一邊碎碎念，
 一邊默默地吃……",,"이 녀석, 뭔가 중얼거리면서
 묵묵히 먹었었지…","Während wir gegessen haben, hat unsere Spürnase
 nur vor sich hingebrabbelt und nichts zu uns
 gesagt ..."
-654,3006,,"Wow... Non avrei mai pensato che avessi un
-tale talento nello scrivere rapporti...",嗯……人類真是有意想不到的才能。,,흐음… 사람에겐 생각지도 못한 재능이 있는 법이지,"Wow, ich hätte nie gedacht, dass du so ein Talent
+654,3006,,"Wow... Non avrei mai pensato che avessi un tale talento nello scrivere
+rapporti...",嗯……人類真是有意想不到的才能。,,흐음… 사람에겐 생각지도 못한 재능이 있는 법이지,"Wow, ich hätte nie gedacht, dass du so ein Talent
 für das Schreiben von Berichten hast ..."
-655,3002,,"Quindi, a proposito, chi è questo cliente collaudatore
-sotto copertura, comunque?","對了杏子姊，
+655,3002,,"Quindi, a proposito, chi è questo cliente collaudatore sotto
+copertura, comunque?","對了杏子姊，
 那個委託人「愛吃榜匿名評審員」是怎樣的人啊？",,"있지 있지, 그런데 말야
 의뢰인인「취미 랭킹 복면 심사원」은 어떤 사람이야?","Wer ist denn überhaupt dieser geheime
 Kritikerklient?"
-656,3006,,"Ha tenuto nascosto il suo vero
-nome. Conosco solo il suo nickname,
-quindi in realtà non so...","這畢竟是網路上發來的匿名委託……
+656,3006,,"Ha tenuto nascosto il suo vero nome.
+Conosco solo il suo nickname, quindi in realtà non so...","這畢竟是網路上發來的匿名委託……
 所以委託人的事我也不清楚。",,"어디까지나 익명인 WEB 상의 의뢰니까…
 의뢰인은 나도 모른다","Der wahre Name wurde nicht angegeben.
 Ich kenne nur den Benutzernamen im Internet.
 Ich weiß es also nicht ..."
-657,3006,,"E comunque, anche se lo sapessi, devo mantenere
-confidenziali queste informazioni, quindi non potrei dirlo...","而且就算我知道好了，
+657,3006,,"E comunque, anche se lo sapessi, devo mantenere confidenziali queste
+informazioni, quindi non potrei dirlo...","而且就算我知道好了，
 基於保密義務，我也無法回答妳。",,"게다가 만약 알고 있다고 해도
 묵비 의무가 있는 관계상 답해줄 수 없지만 말이지","Und selbst wenn ich es wüsste, ist das
 vertraulich und ich dürfte es nicht verraten ..."
-658,3002,,"Whaaaaa'!? Oh, andiamo,
-Kyoko! Voglio davvero saperlo!","什麼嘛！　杏子姊真小氣！
+658,3002,,"Whaaaaa'!? Oh, andiamo, Kyoko!
+Voglio davvero saperlo!","什麼嘛！　杏子姊真小氣！
 這樣不是叫人更在意了嗎！",,"뭐어――! 쿄코 씨 치사해!
 왠지 점점 더 신경 쓰이잖아!","Waaas?! Komm schon, Kyoko!
 Ich will es wirklich wissen!"
 659,3002,,Questo esaminatore sotto copertura...chi diavolo è?!,"愛吃榜匿名評審員……
 不知道到底是怎樣的人……",,"취미 랭킹 복면 심사원…
 대체 어떤 사람인 걸까…",Dieser geheime Kritiker ... Wer ist es?!
-580,2000,,"Penso di aver finito con questa
-relazione. È ora di riportarla in ufficio.","寫好令人滿意的食記了，
+580,2000,,"Penso di aver finito con questa relazione.
+È ora di riportarla in ufficio.","寫好令人滿意的食記了，
 回事務所報告吧。",,"만족할만한 맛 감상을 썼다
 사무소에 보고하자","Ich glaube, ich bin jetzt mit diesem Bericht
 fertig. Ich sollte ihn ins Büro bringen."
-581,2000,,"Non posso combattere a
-stomaco vuoto... Meglio che mi riempia fino
-al collo, allora!","肚子餓了是無法打仗的……
+581,2000,,"Non posso combattere a stomaco vuoto...
+Meglio che mi riempia fino al collo, allora!","肚子餓了是無法打仗的……
 先在館內大吃大喝一頓再說。",,"배가 고프면 싸우지 못한다…
 지금은 관내에서 놀고 먹자","Kein Kampf ohne Mampf ...
 Ich sollte mir jetzt lieber den Bauch
 vollschlagen!"
-582,3006,,"Oh, non importa quanto tu sia un assistente di
-talento, è inutile investigare qualcosa di
-così insignificante. Potrebbe arrivare un altro caso.","就算你是再怎麼能幹的助手，
+582,3006,,"Oh, non importa quanto tu sia un assistente di talento,
+è inutile investigare qualcosa di così insignificante.
+Potrebbe arrivare un altro caso.","就算你是再怎麼能幹的助手，
 也不該問那些有的沒的。
 愛吃榜匿名評審員……說不定還會再來委託我們呢。",,"이런, 아무리 유능한 조수라 해도
 쓸데없이 캐고들면 안 되지
 취미 랭킹 복면 심사원… 또 의뢰가 올지도 모르겠군","Egal, wie talentiert du als Hilfsdetektiv bist,
 es bringt nichts, zu etwas so Sinnlosem zu
 ermitteln. Vielleicht kommt ein neuer Fall rein."
-701,3006,,"Devi essere sul punto di scoppiare dopo tutti quei
-ristoranti. Che ne dici di un caffè? Possiamo
-provare una nuova miscela... Yuzukosho e panna acida!","跑了這麼多家店，想必你肚子一定很脹吧。
+701,3006,,"Devi essere sul punto di scoppiare dopo tutti quei ristoranti.
+Che ne dici di un caffè?
+Possiamo provare una nuova miscela... Yuzukosho e panna acida!","跑了這麼多家店，想必你肚子一定很脹吧。
 飯後來一杯咖啡怎麼樣？
 我請你喝一杯用柚子胡椒和酸奶油全新調製的咖啡吧。",,"많은 가게를 돌아서 분명 배가 불렀겠군
 식후 커피는 어때?

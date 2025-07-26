@@ -3,16 +3,14 @@
 102,3017,,Mmm...mmm...mmm mmm...,"嗯……嗯……嗯……
 唔嗯——",,"으음―… 으음―… 으음―
 으어어어어","Hm ... mmmh ... mmmh, hmmm ..."
-103,3017,,"Nghh, Eugh,
-che-!?
+103,3017,,"Nghh, Eugh, che-!?
 [p]!? Cosa ci fai qui?","唔嗯！？
 [p]！？　你在這裡幹嘛？",,"으억!?
 [p]!? 이런 곳에서 뭐하는 거야?","Argh, ah, was?!
 [p]?!
 Was machst du denn hier?"
-104,3017,,"Oh, capisco. Tu sei il Cyber
-Detective. Quell'ufficio è da quelle parti, ne sono
-quasi sicuro.","喔，對喔，電腦偵探。
+104,3017,,"Oh, capisco. Tu sei il Cyber Detective.
+Quell'ufficio è da quelle parti, ne sono quasi sicuro.","喔，對喔，電腦偵探。
 我記得你們的事務所就在這裡吧。",,"아, 그렇지, 전뇌탐정이구나
 그 사무소가 분명 여기 있었지","Ach so, du bist der Cyber-Detektiv.
 Das Büro ist hier in der Nähe, da bin ich mir
@@ -22,70 +20,63 @@ sicher."
 107,2001,,?,？？,,??,?
 108,3017,,"Quindi, i Cyber Detective si prendono qualsiasi caso, allora?",我問你，電腦偵探是不是什麼委託都接啊？,,"있지, 전뇌탐정이라면 어떤 의뢰든지 해도 되는 거야?",Cyber-Detektive übernehmen also alle Fälle?
 109,3017,,"Capisco...
-In tal caso, potrei inviare una richiesta
-al tuo ufficio?","這樣啊……
+In tal caso, potrei inviare una richiesta al tuo ufficio?","這樣啊……
 那乾脆去你們的事務所發個委託好了。",,"그렇구나…
 그럼 네 사무소에 의뢰를 해볼까","Verstehe ...
 Wenn das so ist, könnte ich eine Anfrage an dein
 Büro schicken?"
-110,3017,,"Okay, è deciso! Manderò una
-richiesta al tuo ufficio e ti
-osserverò al lavoro!","就這麼決定！　而且我也想看看你的表現。
+110,3017,,"Okay, è deciso!
+Manderò una richiesta al tuo ufficio e ti osserverò al lavoro!","就這麼決定！　而且我也想看看你的表現。
 我會到事務所發出委託的！",,"좋아, 정했다! 네가 일하는 모습도 보고 싶고
 사무소에 의뢰를 해둘게!","Gut, dann wäre das geklärt! Ich schicke eine
 Anfrage an dein Büro und schaue dir
 beim Arbeiten zu!"
-151,3017,,"Ho intenzione di inviare una richiesta al tuo
-ufficio e osservarti, il grande Cyber Detective, al lavoro!","我也想看看你這個電腦偵探的表現，
+151,3017,,"Ho intenzione di inviare una richiesta al tuo ufficio e osservarti,
+il grande Cyber Detective, al lavoro!","我也想看看你這個電腦偵探的表現，
 我會到事務所發出委託的！",,"전뇌탐정으로 일하는 네 모습도 보고 싶고 말야
 사무소에 의뢰 보내둘게!","Ich schicke eine Anfrage an dein Büro und schaue
 dir, dem großen Cyber-Detektiv, beim Arbeiten zu!"
-201,3017,,"Oh! Hai accettato il mio caso!
-Grazie!","喔！　你接下委託了吧。
+201,3017,,"Oh! Hai accettato il mio caso! Grazie!","喔！　你接下委託了吧。
 謝啦！",,"오! 의뢰 받아준 거구나
 고마워!","Ach, du hast meinen Fall übernommen!
 Danke!"
-202,3017,,"...Comunque, quella donna con cui
-lavori... Kyoko, si chiama così? Sì,
-è un po' strana.","話說回來，你家那個大姊……
+202,3017,,"...Comunque, quella donna con cui lavori... Kyoko, si chiama così?
+Sì, è un po' strana.","話說回來，你家那個大姊……
 叫杏子姊是不是？　她真是個怪人。",,"…그건 그렇고 저기 있는 너네 누님
 …쿄코 씨라고 했던가? 특이한 사람이네","... Aber diese Frau, mit der du zusammenarbeitest.
 Kyoko, heißt sie nicht so? Ja, sie ist
 irgendwie komisch."
-203,3017,,"Quando sono andato in ufficio per presentare la mia richiesta, ha
-detto qualcosa di strano. ""Ricevo una brutta
-sensazione che proviene da te.""","我去事務所發出委託時，她對我說了一句奇怪的話。
+203,3017,,"Quando sono andato in ufficio per presentare
+la mia richiesta, ha detto qualcosa di strano.
+""Ricevo una brutta sensazione che proviene da te.""","我去事務所發出委託時，她對我說了一句奇怪的話。
 說什麼「從你身上散發出一股不潔之氣。」",,"사무소에 의뢰를 하러 왔을 때 이상한 말을 들어서 말야
 「네 몸에서 부정한 기운이 나고 있다」―","Als ich mit meinem Auftrag ins Büro kam, sagte sie
 etwas Komisches. „Von dir geht ein
 schlechter Vibe aus.“"
-204,3017,,"E ha persino detto ""È come l'aura
-detestabile di un maschio che insegue una
-femmina!"" Cioè, che diavolo significa?","「是雄性追求雌性所散發而出的肉食性氣息！」……
+204,3017,,"E ha persino detto ""È come l'aura detestabile di un maschio che
+insegue una femmina!"" Cioè, che diavolo significa?","「是雄性追求雌性所散發而出的肉食性氣息！」……
 這句話是怎樣？",,"「암컷을 원하는 수컷이 내뿜는 성욕이 왕성한 오라다!」
 라고 하는 거 있지… 어떻게 생각해, 이거?","Und dann sagte sie noch: „Ganz wie die
 widerwärtige Aura eines Mannes, der hinter einer
 Frau her ist.“ Was zum Teufel sollte das?"
-205,3017,,"Sembra Kyoko. Lo
-vedo proprio! Mi hai
-sempre fatto venire i brividi.","很像杏子姊會講的話。
+205,3017,,"Sembra Kyoko.
+Lo vedo proprio!
+Mi hai sempre fatto venire i brividi.","很像杏子姊會講的話。
 好像真的有耶！
 良太一直都很不潔。",,"쿄코 씨답네
 확실히 보여!
 료타는 언제나 부정하지","Klingt ganz nach Kyoko.
 Ich verstehe, was sie meint!
 Du warst mir noch nie ganz geheuer."
-206,3017,,"...*sospiro* Uno cerca di inviare una richiesta
-seria, e questo è quello che ottiene...",真是的……虧人家那麼正經委託。,,"…정말이지, 사람이 진지하게 의뢰하고 있는데","... *Seufz* Du versuchst, einen ernsten Auftrag
+206,3017,,"...*sospiro* Uno cerca di inviare una richiesta seria,
+e questo è quello che ottiene...",真是的……虧人家那麼正經委託。,,"…정말이지, 사람이 진지하게 의뢰하고 있는데","... *Seufz* Du versuchst, einen ernsten Auftrag
 aufzugeben und dann kommt so was ..."
-207,3017,,"...Ma, Kyoko è davvero carina, e
-sembra una brava persona!","不過杏子姊長得挺漂亮的呢，
+207,3017,,"...Ma, Kyoko è davvero carina, e sembra una brava persona!","不過杏子姊長得挺漂亮的呢，
 而且感覺人很好！",,"……하지만 쿄코 씨는 꽤 미인이네
 게다가 좋은 사람 같고!","... Aber Kyoko ist wirklich hübsch und scheint
 einen guten Kern zu haben!"
-208,3017,,"Quando ero in ufficio, mi ha chiesto se
-volevo un po' di caffè fresco, ma le ho detto
-che non avevo tempo.","我在事務所時，她叫我喝一下新開發的咖啡，
+208,3017,,"Quando ero in ufficio, mi ha chiesto se volevo un po' di caffè fresco,
+ma le ho detto che non avevo tempo.","我在事務所時，她叫我喝一下新開發的咖啡，
 但我沒時間所以就婉拒了。",,"사무소에서 신작 커피를 마시고 가라고 해주고 말이야
 시간이 없어서 거절했지만","Als ich im Büro war, hat sie gefragt, ob ich
 frischen Kaffee möchte, aber ich meinte, ich
@@ -93,42 +84,39 @@ hätte keine Zeit."
 209,2001,,...,……,,……,...
 210,3017,,Oh sì! Il caso! Me ne sono dimenticato!,啊，對了對了，我們剛才講到委託！,,"아참, 그렇지, 의뢰였지, 의뢰!",Ach ja! Der Fall! Den habe ich ganz vergessen!
 211,3017,,"A dire il vero, al momento ho bisogno di soldi.",其實我現在需要一點錢。,,"실은 나, 지금 돈이 좀 필요해서 말야","Ehrlich gesagt, habe ich gerade etwas Geldnot."
-212,3017,,"Mi piacerebbe provare a trovare un lavoro part-time così
-da poter guadagnare qualche soldo extra.","所以想請你幫我找一找，
+212,3017,,"Mi piacerebbe provare a trovare un lavoro part-time così da poter
+guadagnare qualche soldo extra.","所以想請你幫我找一找，
 有沒有什麼可以輕鬆賺取零用錢的打工。",,"뭔가 용돈을 벌 수 있는
 좋은 아르바이트를 찾아달라고 할까 싶어서","Ich würde gern einen Teilzeitjob finden, um
 mein Taschengeld aufzubessern."
 213,2001,,?,？？,,??,?
-214,3017,,"Ehm? ...Ah, giusto, devo pagare una tassa se
-sto inviando una richiesta ufficiale a
-un'agenzia investigativa...","嗯？　……喔，對啦。
+214,3017,,"Ehm? ...Ah, giusto, devo pagare una tassa se sto inviando una
+richiesta ufficiale a un'agenzia investigativa...","嗯？　……喔，對啦。
 委託事務所是會被收取一筆委託費沒錯。",,"아? …아아, 확실히 그렇네
 사무소에 부탁하면 의뢰료를 내야 하니까 말야","Was? ... Ach ja, ich muss ein Honorar zahlen,
 wenn ich einem Detektivbüro eine offizielle
 Anfrage schicke ..."
-215,3017,,"Quindi, potresti gentilmente provare a
-trovare un lavoro bello e comodo che
-ripaghi la commissione il prima possibile?","但你會幫我找出可以輕鬆賺錢，
+215,3017,,"Quindi, potresti gentilmente provare a trovare un lavoro bello e
+comodo che ripaghi la commissione il prima possibile?","但你會幫我找出可以輕鬆賺錢，
 把委託費都補回來的打工不是嗎？",,"그걸 감수해도 이익이 나는, 즐겁게 돈을 벌 수 있는 아르바이트를
 샤샥 찾아내주는 거잖아?","Kannst du bitte versuchen, mir so bald wie möglich
 einen schönen, angenehmen Job zu finden,
 mit dem ich das Honorar wieder reinholen kann?"
-216,3017,,"E comunque, se è un lavoro in EDEN, tu e
-quella ragazza ne sapreste un sacco, giusto?","而且EDEN有什麼打工，
+216,3017,,"E comunque, se è un lavoro in EDEN, tu e quella ragazza ne sapreste
+un sacco, giusto?","而且EDEN有什麼打工，
 [p]和那位大姊
 一定也比較清楚吧？",,"게다가 EDEN의 알바라면
 [p](이)나 저 누님 쪽이
 잘 알고 있잖아?","Und wenn es ein Job in EDEN ist, werden du und das
 Mädchen ja viel darüber wissen, nicht wahr?"
 217,2001,,?,？？,,??,?
-218,3017,,"Sì, esatto, quello che sto cercando è un lavoro
-part-time in EDEN, di solito sono i più facili.","對了，我想做的是可以在EDEN裡做的打工。
+218,3017,,"Sì, esatto, quello che sto cercando è un lavoro part-time in EDEN,
+di solito sono i più facili.","對了，我想做的是可以在EDEN裡做的打工。
 這樣在各方面都會比較輕鬆。",,"그래, 맞아. 내가 하고 싶은 건 EDEN 내에서 할 수 있는 알바야
 아무래도 그 편이 여러 가지로 편하니까","Ja, genau, ich hätte gern einen Teilzeitjob in
 EDEN, die sind meist am einfachsten."
-219,3017,,"Per favore, trovami tre opzioni tra
-cui scegliere per un lavoro part-time in
-EDEN. Non mi importa se sono un po' loschi!","幫我找大概3個「可以在EDEN做的打工」，
+219,3017,,"Per favore, trovami tre opzioni tra cui scegliere per un lavoro part-time
+in EDEN. Non mi importa se sono un po' loschi!","幫我找大概3個「可以在EDEN做的打工」，
 就算工作內容有點可疑也沒關係！",,"「EDEN에서 할 수 있는 알바」를 3개 정도 골라잡아서 와 줘
 조금 수상하더라도 상관없으니까 말야!","Bitte finde drei Teilzeitjobs in EDEN für mich,
 damit ich mir einen aussuchen kann. Wenn sie etwas
@@ -137,60 +125,55 @@ zwielichtig sind, ist das auch nicht schlimm!"
 好不好！　拜託你了！",,"급하게 돈이 필요해…
 있지! 부탁해!",Ich brauche das Geld dringend! Ich flehe dich an!
 221,2001,,Parliamone quando torniamo in ufficio.,先回去事務所商量一下吧。,,한 번 사무소로 돌아가서 상담해 보자,"Besprechen wir das, wenn wir wieder im Büro sind."
-251,3017,,"Per favore, trovami tre opzioni tra
-cui scegliere per un lavoro part-time in
-EDEN. Non mi importa se sono un po' loschi!","幫我找大概3個「可以在EDEN做的打工」，
+251,3017,,"Per favore, trovami tre opzioni tra cui scegliere per un lavoro
+part-time in EDEN. Non mi importa se sono un po' loschi!","幫我找大概3個「可以在EDEN做的打工」，
 就算工作內容有點可疑也沒關係！",,"「EDEN에서 할 수 있는 알바」를 3개 정도 골라잡아서 와 줘
 조금 수상하더라도 상관없으니까 말야!","Bitte finde drei Teilzeitjobs in EDEN für mich,
 damit ich mir einen aussuchen kann. Wenn sie etwas
 zwielichtig sind, ist das auch nicht schlimm!"
-301,3006,,"Hmm... Vuole che gli cerchiamo un lavoro part-time in
-EDEN... Questa è una richiesta piuttosto facile.","嗯……要找「可以在EDEN做的打工」啊……
+301,3006,,"Hmm... Vuole che gli cerchiamo un lavoro part-time in EDEN...
+Questa è una richiesta piuttosto facile.","嗯……要找「可以在EDEN做的打工」啊……
 還真是窩囊的委託。",,"흐음…「EDEN에서 할 수 있는 알바」를 찾는다, 라…
 꽤나 쉬운 의뢰로군","Hm ... Er will, dass wir ihm einen Teilzeitjob in
 EDEN finden ... Das ist ziemlich einfach."
-302,3006,,"...Ad ogni modo, direi che è un buon caso da
-affidare a te come mio assistente.","不過對於剛成為助手的你來說，
+302,3006,,"...Ad ogni modo, direi che è un buon caso da affidare a te come mio
+assistente.","不過對於剛成為助手的你來說，
 這個委託可能正好適合你。",,"…뭐, 그렇다고는 해도 내 조수인 네게는
 딱 좋은 의뢰라고 할 수도 있겠어","Nichtsdestotrotz finde ich, dass es ein guter Fall
 für meinen Hilfsdetektiv ist."
-303,3006,,"...Accetterà un bel lavoro
-part-time ben pagato, e va bene
-se è un po' losco...","可以輕鬆賺錢的打工，
+303,3006,,"...Accetterà un bel lavoro part-time ben pagato,
+e va bene se è un po' losco...","可以輕鬆賺錢的打工，
 有點可疑也沒關係是嗎……",,"…즐겁게 돈을 벌 수 있는 꿀 빠는 알바
 조금은 수상하더라도 괜찮다, 인가…","Er wird einen netten, gut bezahlten Teilzeitjob
 annehmen. Und es macht nichts, wenn er
 etwas zwielichtig ist ..."
-304,3006,,"Trovare un lavoro del genere qui a Nakano non
-dovrebbe essere troppo difficile.","那一類的打工在這個中野找找看
+304,3006,,"Trovare un lavoro del genere qui a Nakano non dovrebbe essere troppo
+difficile.","那一類的打工在這個中野找找看
 說不定會比較快哦。",,"그런 종류의 알바는 이 나카노에서 찾아보는 것이
 지름길일지도 모르겠군","Es sollte nicht allzu schwer sein, hier in Nakano
 so einen Job zu finden."
-305,3006,,"Sono sicuro che se chiediamo con discrezione ad
-alcune di ""quelle"" persone qui a Nakano,
-troveremo qualcosa per lui.","在中野找“看起來像那一類的人”，
+305,3006,,"Sono sicuro che se chiediamo con discrezione ad alcune di ""quelle""
+persone qui a Nakano, troveremo qualcosa per lui.","在中野找“看起來像那一類的人”，
 若無其事地打聽一下，應該就會有什麼發現了。",,"나카노에 있는 ""그럴듯한 사람""에게 넌지시
 물어보면 분명 뭔가 찾아낼 수 있겠지","Wenn wir hier in Nakano „bestimmte Leute“ fragen,
 ohne viel Aufhebens zu machen, finden wir
 sicher etwas für ihn."
-306,3006,,"Ho sentito parlare di lavori comodi e loschi
-abbastanza vicini a qui.",可疑又好賺的差事，或許意外地就在這附近哦。,,수상하고 꿀 빠는 이야기는 의외로 가까이에 굴러다니고 있는 법이다,"Ich habe von leichten, zwielichtigen Jobs hier
+306,3006,,"Ho sentito parlare di lavori comodi e loschi abbastanza vicini a qui.",可疑又好賺的差事，或許意外地就在這附近哦。,,수상하고 꿀 빠는 이야기는 의외로 가까이에 굴러다니고 있는 법이다,"Ich habe von leichten, zwielichtigen Jobs hier
 in der Nähe gehört."
 307,3006,,...,……,,……,...
-308,3006,,"Ad ogni modo, se ha bisogno
-urgentemente di soldi... Mi chiedo per cosa gli servano?","話說回來，他說他急需要錢啊……
+308,3006,,"Ad ogni modo, se ha bisogno urgentemente di soldi...
+Mi chiedo per cosa gli servano?","話說回來，他說他急需要錢啊……
 不曉得他打算把工錢花在什麼地方。",,"그건 그렇고, 급하게 돈이 필요해, 라니…
 그는 알바비를 어디에 쓸 생각인 걸까","Abgesehen davon, wenn er das Geld dringend
 braucht ... Ich frage mich, wofür er es braucht?"
-311,3006,,"Ad ogni modo, se ha bisogno urgentemente
-di soldi... Mi chiedo per cosa gli servano i
-soldi al tuo amico?","話說回來，你那朋友說他急需要錢啊……
+311,3006,,"Ad ogni modo, se ha bisogno urgentemente di soldi...
+Mi chiedo per cosa gli servano i soldi al tuo amico?","話說回來，你那朋友說他急需要錢啊……
 不曉得他打算把工錢花在什麼地方。",,"그건 그렇고, 급하게 돈이 필요해, 라니…
 네 친구는 알바비를 어디에 쓸 생각인 걸까","Abgesehen davon, wenn er das Geld dringend
 braucht ... Ich frage mich, wofür dein Freund
 das Geld braucht?"
-321,4881,,"Hai solo vissuto in una ""stanza losca"" per
-tre mesi. È facile se non sei schizzinoso.
+321,4881,,"Hai solo vissuto in una ""stanza losca"" per tre mesi.
+È facile se non sei schizzinoso.
 Si chiama ""riciclaggio di stanze""... Ti presento.","這份工作只要在“凶宅”裡住三個月就好。
 只要你非敏感體質，完全就是一份輕鬆的打工。
 「凶宅洗白」……有興趣的話，我可以幫你介紹哦。",,"""사연 있는 방""에 3달 동안 사는 것뿐인 일입니다
@@ -198,15 +181,13 @@ Si chiama ""riciclaggio di stanze""... Ti presento.","這份工作只要在“�
 「방 세탁」… 만약 관심이 있다면 소개해드리죠","Du lebst drei Monate lang in einem „dubiosen
 Zimmer“. Man darf nur nicht zimperlich sein.
 Es geht um „Zimmerwäsche“. Ich stelle dich vor."
-322,4881,,"Puoi lavorare in EDEN ed è un bel lavoretto
-part-time facile. Se vuoi, posso darti
-un'introduzione privata per il lavoro...","在EDEN也可以做的輕鬆好賺的打工啊。
+322,4881,,"Puoi lavorare in EDEN ed è un bel lavoretto part-time facile.
+Se vuoi, posso darti un'introduzione privata per il lavoro...","在EDEN也可以做的輕鬆好賺的打工啊。
 不介意的話，我私下介紹你一些好工作……",,"EDEN에서 할 수 있는 즐겁고 꿀 빠는 알바인가요
 괜찮다면 몰래 좋은 알바를 소개해 드리지요…","Du arbeitest in EDEN und es ist ein einfacher
 Teilzeitjob. Wenn du willst, kann ich dich
 persönlich vorstellen ..."
-323,4881,,"Nel settore si chiama
-""riciclaggio di stanze""...",不過這在業界被稱為「凶宅洗白」……,,업계에서는「방 세탁」이라고 불리고 있는데 말이죠,"Unter Eingeweihten nennt man das
+323,4881,,"Nel settore si chiama ""riciclaggio di stanze""...",不過這在業界被稱為「凶宅洗白」……,,업계에서는「방 세탁」이라고 불리고 있는데 말이죠,"Unter Eingeweihten nennt man das
 „Zimmerwäsche“ ..."
 324,4881,,"In un modo o nell'altro le persone muoiono.
 Devi solo vivere in una di queste cosiddette
@@ -215,53 +196,49 @@ Devi solo vivere in una di queste cosiddette
 3달 동안 사는 것뿐인 일입니다","Leute sterben, so oder so. Du musst nur drei
 Monate lang in einem dieser sogenannten „Zimmer
 mit einer dubiosen Vergangenheit“ wohnen."
-325,4881,,"Se lo fai, possiamo insabbiare quello
-che è successo nella stanza.","這麼一來，房子以前發生過的
+325,4881,,"Se lo fai, possiamo insabbiare quello che è successo nella stanza.","這麼一來，房子以前發生過的
 那些有的沒的事情就能一筆勾銷……",,"그렇게 하면
 방에서 있었던 이런저런 일을 없었던 일로 만들 수 있죠","Wenn du das machst, können wir vertuschen, was
 in dem Zimmer passiert ist."
-326,4881,,"Potresti essere in grado di vedere ciò che
-normalmente è invisibile, venire posseduto da cose
-piene di rimpianto...","雖然可能會看到一些平常看不到的東西，
+326,4881,,"Potresti essere in grado di vedere ciò che normalmente è invisibile,
+venire posseduto da cose piene di rimpianto...","雖然可能會看到一些平常看不到的東西，
 或是被還捨不得離開人世的那個纏上。",,"평소엔 보이지 않는 게 보이거나
 미련이 남은 그것에 빙의되거나 할지도 모르지만","Es kann sein, dass du Dinge sehen wirst, die sonst
 nur wenige zu Gesicht bekommen, und dass dich die
 Reue übermannt ..."
-327,4881,,"Se non sei schizzinoso, è un lavoro piuttosto
-facile. Se vuoi posso presentarti, ma...per favore
-non parlare con nessun altro di questo.","但只要你非敏感體質，這完全就是一份輕鬆的工作。
+327,4881,,"Se non sei schizzinoso, è un lavoro piuttosto facile.
+Se vuoi posso presentarti, ma...per favore non parlare con nessun
+altro di questo.","但只要你非敏感體質，這完全就是一份輕鬆的工作。
 有興趣的話，我可以幫你介紹……
 不過，請不要跟太多人說哦。",,"영감이 없다면 지극히 편한 알바예요
 만약 관심이 있다면 소개해 드리겠습니다만…
 너무 많은 사람에게는 말하지 말아주세요","Wenn du nicht zimperlich bist, ist es ein leichter
 Job. Wenn du willst, kann ich dich vorstellen,
 aber ... bitte erzähl niemandem davon."
-331,4882,,"Potrebbe servirti lavare della roba
-conservata nella formalina... È piuttosto grottesco,
-ma è un lavoro molto facile. Per favore pensaci.","浸泡在福馬林的「那個的清潔作業」……
+331,4882,,"Potrebbe servirti lavare della roba conservata nella formalina...
+È piuttosto grottesco, ma è un lavoro molto facile. Per favore pensaci.","浸泡在福馬林的「那個的清潔作業」……
 雖然會有點嚇人，不過這份工作非常簡單。
 不介意的話，請考慮看看！",,"포르말린 절임이 된「그것의 세척 작업」…
 좀 그로테스크하지만 지극히 간단한 일입니다
 만약 괜찮다면 검토해 주세요!","Du musst vielleicht Sachen waschen, die eine
 Formaldehydbehandlung abbekommen haben. Das ist
 grotesk, aber ein einfacher Job. Überleg’s dir."
-332,4882,,"Whaaaa'!? Cerchi un lavoro part-time in
-EDEN!? Non solo quello, ma anche un lavoro
-carino, facile e ben pagato!?","唉呀呀！
+332,4882,,"Whaaaa'!? Cerchi un lavoro part-time in EDEN!?
+Non solo quello, ma anche un lavoro carino, facile e ben pagato!?","唉呀呀！
 你說你在找可以在EDEN做的打工嗎！？
 而且還是要輕鬆好賺的打工！",,"이런이런이런이런이런!
 세상에 EDEN에서 할 수 있는 알바를 찾고 있다고!?
 게다가 즐겁게 돈을 벌 수 있는 꿀 빠는 알바라니!","Waaas?! Du suchst einen Teilzeitjob in EDEN?
 Und nicht nur das, auch noch einen schönen,
 einfachen und gut bezahlten?"
-333,4882,,"In quel caso, ho buone
-notizie! Ho il lavoro perfetto per te!","我這裡有一份不錯的差事哦。
+333,4882,,"In quel caso, ho buone notizie!
+Ho il lavoro perfetto per te!","我這裡有一份不錯的差事哦。
 符合你開出的所有條件！",,"그거라면 좋은 이야기가 있어요
 조건에 더할 나위 없이 딱인 일이 말이죠!","In dem Fall habe ich gute Neuigkeiten!
 Ich habe den perfekten Job für dich!"
 334,4882,,Per questo lavoro...,工作內容是……,,일의 내용은…,Für diesen Job ...
-335,4882,,"Devi solo lavare un po' di... ehm... roba
-sotto spirito. Non potrebbe essere più facile!","在某家醫院清洗
+335,4882,,"Devi solo lavare un po' di... ehm... roba sotto formaldeide.
+Non potrebbe essere più facile!","在某家醫院清洗
 浸泡在福馬林的“那個”就好。",,"어떤 병원에서 포르말린 절임이 된 ""그것""을 세척하는 것뿐인
 간단한 일이랍니다","Musst du nur etwas waschen, was, äh, eingelegt
 war ... in Formaldehyd! Einfacher geht’s nicht!"
@@ -270,26 +247,23 @@ Non fare domande del genere...","咦？　你問我「那個」是什麼？
 你也真是的，光聽到那些就知道是""""那個""""了吧。",,"…어? 그것이 뭐냐고요?
 싫네요오, 그건 물어보는 만큼 그거인 거예요","Hm? Was genau? Bist du schwer von Begriff?
 Stell nicht solche Fragen."
-337,4882,,"Se vuoi sentirti spaventato e disgustato, lavora in
-stanze sotterranee negli ospedali di notte e sii
-terrorizzato tutto il tempo allora, fai pure!","雖然會有點嚇人或噁心，
+337,4882,,"Se vuoi sentirti spaventato e disgustato, lavora in stanze sotterranee
+negli ospedali di notte e sii terrorizzato tutto il tempo allora, fai pure!","雖然會有點嚇人或噁心，
 夜晚的醫院地下室還會有點可怕，
 這些都不介意的話請務必來試試看！",,"쬐―끔 그로테스크하거나 기분나쁘거나
 한밤중의 병원 지하실이 무섭다거나 하지만
 만약 괜찮다면 부디!!","Wenn du gern Ekel und Angst erleben, nachts
 in Krankenhauskellern arbeiten und dich
 gruseln willst, dann nur zu!"
-341,4883,,"Il lavoro consiste nel fotografare fantasmi
-in EDEN. Se sei interessato,
-fammelo sapere, hahaha!","這份工作是要在EDEN「拍攝靈異照片」。
+341,4883,,"Il lavoro consiste nel fotografare fantasmi in EDEN.
+Se sei interessato, fammelo sapere, hahaha!","這份工作是要在EDEN「拍攝靈異照片」。
 有興趣的話，我可以為你詳細說明。
 歡迎再過來找我，呵呵呵呵。",,"EDEN 내에서「심령사진 촬영」을 하는 일이다
 관심이 있다면 자세히 설명하지
 다시 말을 걸어주도록, 훗훗훗후","Der Job besteht darin, in EDEN Fotos von Geistern
 zu machen. Wenn du Interesse hast, sag
 Bescheid, hahaha!"
-342,4883,,"Ahahahhaha... Quindi, vuoi fare soldi facili in
-EDEN adesso, eh?","呵呵呵呵呵。
+342,4883,,"Ahahahhaha... Quindi, vuoi fare soldi facili in EDEN adesso, eh?","呵呵呵呵呵。
 想在EDEN輕鬆賺錢是吧……",,"훗훗훗훗후
 EDEN에서 즐겁게 돈을 벌고 싶다, 라…","Hahaha ... Du willst in EDEN schnell Kohle
 machen, was?"
@@ -298,14 +272,13 @@ machen, was?"
 放心，工作很簡單，任何人都可以勝任。",,"그거라면 좋은 아르바이트를 소개하지
 뭘, 누구든지 할 수 있는 간단한 일이다","Na gut, ich empfehle dich für den Job.
 Er ist so einfach, das kann jeder."
-344,4883,,"Voglio che tu faccia delle foto ai fantasmi
-in EDEN.","我要你在EDEN
+344,4883,,"Voglio che tu faccia delle foto ai fantasmi in EDEN.","我要你在EDEN
 「拍攝靈異照片」。",,"EDEN 내에서
 「심령사진 촬영」을 해줬으면 한다","Ich will, dass du in EDEN Fotos von Geistern
 machst."
-345,4883,,"Tutto quello che devi fare è scattare una foto di un
-fantasma e ti pagherò un sacco di soldi per questo... Non male,
-eh? Se sei interessato, fammelo sapere... ahahahah!","只要有照到幽靈，我就出高價跟你買下照片。
+345,4883,,"Tutto quello che devi fare è scattare una foto di un fantasma
+e ti pagherò un sacco di soldi per questo... Non male, eh?
+Se sei interessato, fammelo sapere... ahahahah!","只要有照到幽靈，我就出高價跟你買下照片。
 這個條件不錯吧？有興趣的話，我可以詳細為你說明。
 歡迎再過來找我，呵呵呵呵。",,"유령이 찍혀 있기만 한다면 그 사진을 고액으로 사겠다
 …나쁜 이야기는 아니잖아? 흥미가 있다면 자세히 설명하지
@@ -315,28 +288,27 @@ oder? Sag mir, falls du Interesse hast!"
 351,3017,,"Oh, ne hai già trovato uno? Dove!?","喔，你已經找到了嗎？
 讓我瞧瞧……",,"오, 벌써 발견한 거야?
 어디보자…","Ach, du hast schon einen gefunden? Wo denn?"
-352,3017,,"""Riciclaggio di
-stanze""... ""Roba conservata in
-formaldeide""... ""Fotografare fantasmi""...","「凶宅洗白」……「那個的清潔作業」……
+352,3017,,"""Riciclaggio di stanze""...
+""Roba conservata in formaldeide""...
+""Fotografare fantasmi""...","「凶宅洗白」……「那個的清潔作業」……
 「拍攝靈異照片」啊……",,"「방 세탁」…「그것의 세척 작업」…
 「심령사진 촬영」인가…","„Zimmerwäsche“ ...
 „In Formaldehyd eingelegte Sachen“ ...
 „Fotos von Geistern machen“ ..."
-353,3017,,"Sono solo leggende metropolitane,
-però. Non c'entra niente con EDEN.","每一件的可疑程度都是都市傳說等級啊。
+353,3017,,"Sono solo leggende metropolitane, però.
+Non c'entra niente con EDEN.","每一件的可疑程度都是都市傳說等級啊。
 而且我覺得根本與EDEN一點關係也沒有……",,"죄다 도시전설 급 수상함이네
 게다가 EDEN과는 전혀 관계 없다는 느낌이 들고…","Das sind alles nur Ammenmärchen.
 Das hat nichts mit EDEN zu tun."
 354,3017,,"Ad ogni modo, questa storia della foto di fantasmi sembra interessante.",不過，這個「拍攝靈異照片」好像不錯。,,하지만 이「심령사진 촬영」은 괜찮을지도 모르겠네,Trotzdem klingt das mit den Geisterfotos gut.
 355,3017,,"Sembra un lavoro carino e facile...
-Sembra che farsi pagare per una sola
-foto sia denaro facile.","感覺蠻好玩的，而且又簡單……
+Sembra che farsi pagare per una sola foto sia denaro facile.","感覺蠻好玩的，而且又簡單……
 最重要的是，只要拍張照片就能拿到工錢，這樣比較快。",,"재미있을 것 같고 간단해 보이고…
 무엇보다 사진 1장으로 알바비가 들어온다는 점이 빨라서 좋아","Klingt wie ein schöner, einfacher Job ...
 Das Geld ist schnell gemacht, wenn man für
 nur ein Foto bezahlt wird."
-356,3017,,"...Eh? Perché mai dovrei guadagnare con un
-lavoro part-time, in primo luogo?","嗯？
+356,3017,,"...Eh? Perché mai dovrei guadagnare con un lavoro part-time,
+in primo luogo?","嗯？
 你問我到底為什麼想打工賺錢？",,"…응?
 애초에 어째서 알바를 해서 돈을 벌고 싶냐고?","Was? Warum ich überhaupt Geld mit einem
 Teilzeitjob verdienen möchte?"
@@ -347,23 +319,21 @@ Warum spielt keine Rolle. Es geht dich nichts an!"
 359,3017,,"Ah, Sakura!?",嗚啊，櫻！？,,"으엑, 사쿠라!?","Oh, Sakura?!"
 360,3018,,"""Ah""? Cosa intendi con ""Ah""?",「嗚啊」是什麼意思？　嗚啊……？,,으엑이라니 뭐어야? 으엑…이라니?,„Oh“? Was meinst du denn mit „Oh“?
 361,3017,,"Niente, non è niente!",沒、沒什麼啦！,,"아, 아무것도 아니얏!",Nichts ... Wirklich gar nichts!
-362,3018,,"...Ryota, per caso... stai parlando di
-fare qualcosa di strano?","良太，你該不會……
+362,3018,,"...Ryota, per caso... stai parlando di fare qualcosa di strano?","良太，你該不會……
 又要做什麼奇怪的事了吧……？",,"……료타, 혹…시
 뭔가 이상한 짓 하려는 거… 아니야?","Ryota, führst du zufällig etwas ...
 Seltsames im Schilde?"
 363,3017,,"Eh?! Uh..Io..eh..nn...
-L'unica cosa strana ultimamente sei tu! Parli
-sempre in modo così sconsiderato!","唔、呃……！？
+L'unica cosa strana ultimamente sei tu!
+Parli sempre in modo così sconsiderato!","唔、呃……！？
 什麼叫做奇怪的事，妳最近的樣子才叫奇怪吧！
 像是妳那慢吞吞的說話方式，還有每天都在恍神是怎樣……",,"응, 아, 으, 으…!?
 이, 이상한 짓이라니, 최근 상태가 이상한 건 사쿠라잖아!
 그 늘어지는 말투도 그렇고, 뭐야. 언제나 멍해선…","Was?! Äh ... Ich ... Äh ...
 Das einzig Seltsame in letzter Zeit warst du!
 Du redest immer einfach drauf los!"
-364,3017,,"Oh, non ha senso parlare
-con te! Andiamo [p],
-andiamo! Portami dal cliente!","這樣下去沒完沒了，
+364,3017,,"Oh, non ha senso parlare con te!
+Andiamo [p], andiamo! Portami dal cliente!","這樣下去沒完沒了，
 我們快走吧，[p]！　帶我去找那個委託人！",,"……결론이 안 나겠어
 빨리 가자, [p]! 의뢰주가 있는 곳으로 안내해줘!","Mit dir zu reden ist sinnlos!
 Komm schon, [p], gehen wir!
@@ -371,183 +341,172 @@ Bring mich zum Klienten!"
 365,3018,,Ryota... [p]...,良太……　[p]……,,료타… [p]…,Ryota ... [p] ...
 366,3018,,...,……,,……,...
 401,4883,,Sapevo che saresti venuto...muahahahaha!,我就知道你會來……呵呵呵。,,와 줄 거라고 생각하고 있었다… 훗훗후,"Ich wusste, dass du kommen würdest ... Muhahaha!"
-402,4883,,"Eh? Come facevo a saperlo? Ho attinto
-ai miei poteri spirituali...muahahahaha!","嗯？　你問我為什麼會這麼想？
+402,4883,,"Eh? Come facevo a saperlo?
+Ho attinto ai miei poteri spirituali...muahahahaha!","嗯？　你問我為什麼會這麼想？
 當然是因為靈性的那個囉……呵呵呵。",,"응? 왜 그렇게 생각했냐고?
 그건 그렇지, 정신적인 그거야… 훗훗후","Was? Woher ich das wusste? Ich habe meine
 spirituellen Kräfte genutzt, muhahaha!"
-403,4883,,"Voglio che indaghi su un fantasma... ""Il
-Ragazzo Bianco"" ...che è apparso e scomparso
-nei dintorni di Kowloon di recente.","我想委託的是，關於最近被謠傳
+403,4883,,"Voglio che indaghi su un fantasma... 
+""Il Ragazzo Bianco"" ...che è apparso e scomparso nei dintorni di
+Kowloon di recente.","我想委託的是，關於最近被謠傳
 在Kowloon出沒的幽靈「白色少年」。",,"의뢰하고 싶은 건 최근 쿠롱에 출현한다는 소문의
 유령―「하얀 소년」에 대해서다","Ich möchte, dass du zu einem Geist ermittelst.
 „Der weiße Junge“. Er ist in letzter Zeit in
 Kowloon hin und wieder erschienen."
-404,4883,,"Questa volta vorrei che voi ragazzi faceste
-una foto di questo ""White Boy"".","這次我希望你們
+404,4883,,"Questa volta vorrei che voi ragazzi faceste una foto di questo
+""Il Ragazzo Bianco"".","這次我希望你們
 拍那個「白色少年」的照片給我。",,"이번에 너희들은
 그「하얀 소년」의 사진을 찍어와줬으면 한다","Dieses Mal möchte ich, dass ihr ein Foto von
 diesem „weißen Jungen“ macht."
-405,4883,,"Se scatti una bella foto, ti pagherò un sacco di
-soldi per essa! Non male, eh? Mwahahaha!","照片品質好的話，我會出高價買下。
+405,4883,,"Se scatti una bella foto, ti pagherò un sacco di soldi per essa!
+Non male, eh? Mwahahaha!","照片品質好的話，我會出高價買下。
 這個條件不錯吧？　呵呵呵呵。",,"제대로 된 사진이라면 고액으로 구입하도록 하지
 나쁜 이야기는 아니잖아? 훗훗훗후","Wenn ihr ein gutes Foto knipst, gibt es viel Geld
 dafür! Nicht schlecht, oder? Muhahaha!"
-406,4883,,"...Eh? Pensi che sia strano che tu possa fare
-una foto di un fantasma in questo Spazio
-Digitale con una fotocamera digitale?","嗯？　數碼空間的幽靈
+406,4883,,"...Eh? Pensi che sia strano che tu possa fare una foto di un fantasma
+in questo Spazio Digitale con una fotocamera digitale?","嗯？　數碼空間的幽靈
 可以用數位相機拍攝很奇怪？",,"…응? 디지털 공간의 유령이
 디지털 카메라로 촬영할 수 있는 건 이상하다고?","Was? Du findest es komisch, dass man in diesem
 Digitalraum mit einer Digitalkamera ein Foto
 von einem Geist machen kann?"
-407,4883,,"Mwahaha... Beh, suppongo che se ci pensi, la
-stessa apparizione di un fantasma in uno Spazio
-Digitale è di per sé strana.","呵呵呵呵呵……你要這麼說的話，
+407,4883,,"Mwahaha... Beh, suppongo che se ci pensi, la stessa apparizione di un
+fantasma in uno Spazio Digitale è di per sé strana.","呵呵呵呵呵……你要這麼說的話，
 數碼空間會出現幽靈，這件事本身就很奇妙。",,"훗훗훗훗후… 그렇게 치면
 디지털 공간에 유령이 출현하는 것 자체가 묘한 거지","Muhahaha ... Wenn man es sich überlegt, ist das
 Erscheinen eines Geists in einem Digitalraum
 schon eine seltsame Sache."
-408,4883,,"Accettalo! È la
-realtà! Smetti di fingere
-di non averli visti!","接受現實吧！
+408,4883,,"Accettalo! È la realtà!
+Smetti di fingere di non averli visti!","接受現實吧！
 不要再裝作視而不見了！",,"받아들여! 현실을!
 못 본 척을 하는 건 이제 그만둬라!","Akzeptiere es! Das ist echt!
 Hör auf, so zu tun, als ob du
 ihn nicht gesehen hast!"
-409,4883,,"Innanzitutto, sapevi che più del 70% delle
-persone in questo mondo hanno visto fantasmi e...
-bla bla bla","說起來，你知道嗎？
+409,4883,,"Innanzitutto, sapevi che più del 70% delle persone in questo mondo
+hanno visto fantasmi e... bla bla bla","說起來，你知道嗎？
 這個世界有七成人類都已經被那些傢伙……（碎碎念）",,"애초에, 자네는 알고 있나?
 이 세계의 인간 7할이 이미 그 녀석들에 의해… 어쩌고 저쩌고","Wusstest du, dass mehr als 70 % der Leute auf
 dieser Welt Geister gesehen haben und ...
 Blablabla."
-410,4883,,"Tutto è iniziato con l'incidente di
-Roswell. Il governo e gli alieni sono tutti
-collegati, lo stanno solo coprendo...bla bla bla","說起來，以羅斯威爾事件為開端，
+410,4883,,"Tutto è iniziato con l'incidente di Roswell.
+Il governo e gli alieni sono tutti collegati,
+lo stanno solo coprendo...bla bla bla","說起來，以羅斯威爾事件為開端，
 該局與外星人之間可說是不恰當的關聯……（碎碎念）",,"애초에, 로즈웰 사건에서 발단된
 당국과 우주인과의 부적절하다고도 할 수 있는 연관점은… 어쩌고 저쩌고","Es begann alles mit dem Zwischenfall in Roswell.
 Die Regierung und die Außerirdischen, alles
 ist verbunden, es wird nur vertuscht. Blablabla."
-411,4883,,"Mutilazione del bestiame, umanoidi volanti e
-persino animali che cadono dal cielo, sono tutti parte
-della stessa cospirazione...blahblahblah","說起來，
+411,4883,,"Mutilazione del bestiame, umanoidi volanti e persino animali che
+cadono dal cielo, sono tutti parte della stessa cospirazione...
+blahblahblah","說起來，
 牛隻綁架支解事件和外星飛行類人，
 再加上兩者與異物從天而降之間的因果關係……（碎碎念）",,"애초에 캐틀 뮤틸레이션과 플라잉 휴머노이드,
 그리고 패프러츠키스와의 인과 관계에 대해서는… 어쩌고 저쩌고","Entstellte Rinder, fliegende Humanoide und sogar
 Tiere, die vom Himmel fallen. Alles Teil der
 gleichen Verschwörung ... Blablabla."
 412,4883,,...,……,,……,...
-413,4883,,"...Comunque! Nell'occulto non esiste analogico
-né digitale! Per favore, riprendi questo
-spettro di cui si vocifera con la telecamera!","總而言之！
+413,4883,,"...Comunque! Nell'occulto non esiste analogico né digitale!
+Per favore, riprendi questo spettro di cui si vocifera con la videocamera!","總而言之！
 超自然是不分類比和數位的！
 去拍下那個傳說中的幽靈就對了！",,"…아무튼!
 오컬트에 아날로그도 디지털도 관계 없다!
 소문의 유령을 카메라에 담아와 주게!","... Egal! Im Okkulten unterscheidet man nicht
 zwischen analog und digital! Hol diesen
 vermeintlichen Geist vor die Kamera!"
-414,3017,,"...Beh, cosa ti aspetteresti dal
-direttore di una rivista occulta. Ovviamente
-è privo di qualsiasi tipo di buon senso...","不愧是超自然雜誌的編輯，
+414,3017,,"...Beh, cosa ti aspetteresti dal direttore di una rivista occulta.
+Ovviamente è privo di qualsiasi tipo di buon senso...","不愧是超自然雜誌的編輯，
 感覺好瘋狂啊。",,"…과연 오컬트 잡지 편집자
 꽤 비상식적인 느낌이었네","Was sollte man auch vom Redakteur einer
 Zeitschrift fürs Okkulte erwarten. Ihm scheint der
 gesunde Menschenverstand völlig zu fehlen ..."
 415,3017,,Il Ragazzo Bianco... Lo spettro di Kowloon...,白色少年……Kowloon的幽靈是吧……,,하얀 소년… 쿠롱 유령인가…,Der weiße Junge ... Der Geist von Kowloon ...
-416,3017,,"A dire la verità, ho un po' paura di
-andarci adesso. Sembra piuttosto terrificante...","到了真的要去時，
+416,3017,,"A dire la verità, ho un po' paura di andarci adesso.
+Sembra piuttosto terrificante...","到了真的要去時，
 反而覺得有點怕怕的……",,"실제로 가려니 뭔가 좀
 무섭다고 할지, 두렵다고 할지…","Ehrlich gesagt, habe ich jetzt etwas Angst.
 Das klingt ziemlich furchteinflößend ..."
-417,3017,,"Beh, immagino che tu possa anche venire. Okay,
-andiamo a Kowloon e
-scattiamo delle foto di fantasmi!","[p]，乾脆你也一起來吧。
+417,3017,,"Beh, immagino che tu possa anche venire.
+Okay, andiamo a Kowloon e scattiamo delle foto di fantasmi!","[p]，乾脆你也一起來吧。
 我們一起去「Kowloon」拍靈異照片！",,"[p], 이왕이면 같이 가 줘
 심령사진을 찍으러「쿠롱」으로 가자!","Na gut, ich schätze, du kannst schon mitkommen.
 Auf nach Kowloon, um ein paar
 Geisterfotos zu machen!"
-451,3017,,"Alla fine, sarà effettivamente una cosa positiva se
-questo ""White Boy"" comparirà.","傳說中的「白色少年」……
+451,3017,,"Alla fine, sarà effettivamente una cosa positiva
+se questo ""Ragazzo Bianco"" comparirà.","傳說中的「白色少年」……
 如果能剛好出現就好了。",,"소문의「하얀 소년」…
 때마침 나타나주면 좋을 텐데","Letztendlich wird es wohl gut sein, wenn dieser
 „weiße Junge“ erscheint."
 452,3017,,"Comunque, restiamo qui in giro per un po'.",總之，我們就在這附近晃一下吧。,,어쨌든 이 부근을 어슬렁거려 볼까,Bleiben wir ein Weilchen hier.
-470,4884,,"Huh? Vuoi sapere se ho visto un fantasma
-da queste parti? Non ho visto niente del genere.","嗯？　有沒有在這附近看到過幽靈？
+470,4884,,"Huh? Vuoi sapere se ho visto un fantasma da queste parti?
+Non ho visto niente del genere.","嗯？　有沒有在這附近看到過幽靈？
 我是沒看到那種東西啦。",,"응? 이 부근에서 유령을 못 봤냐고?
 우리는 그런 건 못 봤네","Was? Du willst wissen, ob ich hier einen Geist
 gesehen habe? Nein, so was habe ich nicht gesehen."
-471,4884,,"Non ho mai avuto poteri spirituali. Una
-volta ho visto la mia defunta nonna in piedi di
-fianco al mio letto, ma...","我沒什麼靈能力，
+471,4884,,"Non ho mai avuto poteri spirituali.
+Una volta ho visto la mia defunta nonna in piedi di fianco al mio
+letto, ma...","我沒什麼靈能力，
 以前只看過奶奶站在枕頭旁邊那麼一次而已。",,"전부터 영감이라는 건 없어서 말야
 한 번 할머니가 머리맡에 서있던 적이 있었던 정도네","Ich hatte noch nie irgendwelche spirituellen
 Kräfte. Einmal sah ich meine tote Oma, wie sie an
 meinem Bett, aber ..."
-472,4884,,"Beh, mi chiedo, esiste qualcosa come un
-potere spirituale in EDEN?",不過，EDEN跟靈能力有什麼關係嗎？,,그보다 애초에 이 EDEN에서 영감 같은 게 관계 있는 걸까?,"Ich frage mich, ob es in EDEN so etwas wie
+472,4884,,"Beh, mi chiedo, esiste qualcosa come un potere spirituale in EDEN?",不過，EDEN跟靈能力有什麼關係嗎？,,그보다 애초에 이 EDEN에서 영감 같은 게 관계 있는 걸까?,"Ich frage mich, ob es in EDEN so etwas wie
 spirituelle Kräfte gibt?"
-480,4885,,"Sì, certo, questo fantasma, le presunte
-voci sul ""Ragazzo Bianco"", giusto? Sì, ne ho
-sentito parlare.","啊～你說的幽靈就是指那個白色少年吧？
+480,4885,,"Sì, certo, questo fantasma, le presunte voci sul ""Ragazzo Bianco"",
+giusto? Sì, ne ho sentito parlare.","啊～你說的幽靈就是指那個白色少年吧？
 我有聽過喔！",,"아― 유령이라는 건 그 하얀 소년 소문이지?
 들은 적 있어, 있어!","Ja, genau, dieser Geist. Diese Gerüchte über
 den „weißen Jungen“, nicht wahr? Ja, von dem
 habe ich gehört."
-481,4885,,"Gli spettri compaiono nell'EDEN... ma questo
-è un iper- realistico mondo virtuale,
-quindi possono comparire anche qui...","不過沒想到EDEN居然也會出現幽靈……
+481,4885,,"I fantasmi appaiono anche in EDEN ... ma questo è un mondo virtuale
+iperrealistico. Ecco perché possono apparire anche qui.","不過沒想到EDEN居然也會出現幽靈……
 就算這裡是一個超逼真的虛擬空間，
 也不需要重現到這種地步吧。",,"그치만 EDEN 내에서도 유령이 나온다니
 아무리 초 리얼한 가상공간이라고는 해도
 그런 것까지 재현하지 않아도 되는데 말이지―","Geister erscheinen auch in EDEN ... aber dies ist
 eine hyperrealistische virtuelle Welt. Deshalb
 können sie selbst hier erscheinen."
-482,4885,,"Ma non sono sicuro di dove appaiano... Per lo
-meno non credo che appaiano da queste parti. Ogni
-volta che appaiono scappo via più veloce che posso!","我是不曉得它出現在哪裡啦～
+482,4885,,"Ma non sono sicuro di dove appaiano...
+Per lo meno non credo che appaiano da queste parti.
+Ogni volta che appaiono scappo via più veloce che posso!","我是不曉得它出現在哪裡啦～
 但至少應該不會是這裡。
 如果這裡有幽靈，我早就逃得遠遠的了！",,"하지만 어디서 나오는지는 모르겠네―
 …적어도 여기는 아니라고 생각해
 여기 유령이 나온다면 나 바로 도망쳤을 테니까!","Aber ich bin mir nicht sicher, wo sie erscheinen.
 Jedenfalls nicht hier in der Nähe. Immer, wenn
 sie erscheinen, nehme ich die Beine in die Hand!"
-490,4886,,"...Eh? Stai cercando un
-fantasma?... Ah, si tratta di quel ""Ragazzo Bianco"" di
-cui ho sentito parlare di recente, giusto?","嗯？　你在找幽靈？
+490,4886,,"...Eh? Stai cercando un fantasma? .. Ah,
+si tratta di quel ""Ragazzo Bianco"" di cui ho sentito parlare di
+recente, giusto?","嗯？　你在找幽靈？
 喔……是最近盛傳的那個白色少年啊。",,"…응? 유령을 찾고 있다고?
 ……아아, 최근 떠들썩한 흰 소년인가","Was? Du suchst einen Geist? ...
 Ach, es geht um diesen „weißen Jungen“, von
 dem ich kürzlich gehört habe, stimmt’s?"
-491,4886,,"Sì... Penso che chiunque si agiti così per
-cose del genere sia un vero idiota.","真是夠了……會為這件事大驚小怪的人，
+491,4886,,"Sì... Penso che chiunque si agiti così per cose del genere sia un vero
+idiota.","真是夠了……會為這件事大驚小怪的人，
 我真的覺得是一群笨蛋。",,"정말이지… 이 얘기로 떠드는 녀석들은
 정말 바보라고 생각해","Ja ... Ich finde, dass alle, die wegen so was
 ausflippen, echte Idioten sind."
-492,4886,,"Okay? Questo è un Mondo Digitale. Il mondo reale è una
-storia diversa, ma questo non significa che i fantasmi
-possano apparire qui.","聽好囉？　這裡可是電腦空間耶？
+492,4886,,"Okay? Questo è un Mondo Digitale. Il mondo reale è una storia diversa,
+ma questo non significa che i fantasmi possano apparire qui.","聽好囉？　這裡可是電腦空間耶？
 現實世界我是不清楚啦，
 但這種地方哪有可能會出現幽靈啊。",,"알겠어? 여긴 전뇌공간이라고?
 현실세계라면 모르겠지만
 이런 곳에 유령이 나올 리가 없잖아","Na? Dies ist die Digitale Welt. Die echte Welt ist was
 anderes, aber das heißt nicht, dass Geister hier
 erscheinen können."
-493,4886,,"Devi riflettere con calma su questa cosa... Non
-sarai in grado di trovarli perché non esistono.","你可以冷靜思考一下。
+493,4886,,"Devi riflettere con calma su questa cosa...
+Non sarai in grado di trovarli perché non esistono.","你可以冷靜思考一下。
 不是找不到它，而是它一開始根本就不存在。",,"냉정하게 생각해보도록 해
 …발견되지 않잖아, 애초에 그런 건 없는 거야","Du musst in Ruhe darüber nachdenken ... Du wirst
 sie nicht finden, weil es sie nicht gibt."
-501,3017,,"Hmm, alla fine della giornata, suppongo che non esista
-una cosa come un fantasma. Non troveremo mai un
-fantasma come questo, nemmeno la minima traccia...","嗯……是不是根本就沒有幽靈啊。
+501,3017,,"Hmm, alla fine della giornata, suppongo che non esista una cosa come
+un fantasma. Non troveremo mai un fantasma come questo,
+nemmeno la minima traccia...","嗯……是不是根本就沒有幽靈啊。
 找這麼久了，結果連個影子都沒看到。",,"으음―, 역시 유령 같은 건 없는 건가아
 이렇게까지 찾았는데도 유령의 유 자도 안 보이고…","Hm, letztendlich gibt es wohl keine Geister.
 Wir werden nie so einen Geist finden,
 nicht mal den Hauch einer Spur ..."
 502,3017,,"Cosa dovremmo fare, [p]?",[p]，我們要怎麼辦？,,"있지 [p], 어떡할래?","Was sollen wir tun, [p]?"
-503,2001,,"Torniamo a fare il riciclaggio delle
-stanze. Torniamo a pulire la roba sottaceto.
+503,2001,,"Torniamo a fare il riciclaggio delle stanze.
+Torniamo a pulire la roba sottaceto.
 Non ci arrendiamo, mettiamo in scena una foto!","放棄拍照，改做「凶宅洗白」。
 放棄拍照，改做「那個的清潔作業」。
 不要放棄，自己捏造照片吧。",,"포기하고「방 세탁」을 하자
@@ -555,49 +514,45 @@ Non ci arrendiamo, mettiamo in scena una foto!","放棄拍照，改做「凶宅�
 포기하지 말고 날조하자","Machen wir stattdessen die Zimmerwäsche.
 Machen wir stattdessen das eingelegte Zeug.
 Wir geben nicht auf. Wir fälschen ein Foto!"
-504,3017,,"Oh...ma...questo significherebbe che il
-cliente dovrebbe fare ""quello"" in quella stanza
-orribile!","什麼……可是，那是那個對吧？
+504,3017,,"Oh...ma...questo significherebbe che il cliente dovrebbe
+fare ""quello"" in quella stanza orribile!","什麼……可是，那是那個對吧？
 就是在有人那個的房間住一陣子然後那個的那個。",,"어… 그치만 말야, 그건 그거잖아?
 주인이 그렇게 된 방에 당분간 살면서 그렇게 하는 그거잖아","Ach ... aber ... Das würde bedeuten, dass der
 Angestellte „das“ in dem furchtbaren Zimmer machen
 muss!"
-505,3017,,"...Ci vorrebbe così tanto tempo, e
-sarebbe così orribile... Passo.",要住那麼久，感覺怪可怕的，我放棄。,,…기간도 길고 기분 나쁘니까 나는 패스할래,"... Es würde so lange dauern und es wäre so
+505,3017,,"...Ci vorrebbe così tanto tempo, e sarebbe così orribile... Passo.",要住那麼久，感覺怪可怕的，我放棄。,,…기간도 길고 기분 나쁘니까 나는 패스할래,"... Es würde so lange dauern und es wäre so
 furchtbar ... Nein, lieber nicht."
 506,3017,,"Pulire quella roba... Intendi ""quella"" roba?
-Anche per quei soldi e anche se non ci vuole
-molto tempo, non accetterei quel lavoro...","那個的清潔……就是在說那個吧？
+Anche per quei soldi e anche se non ci vuole molto tempo,
+non accetterei quel lavoro...","那個的清潔……就是在說那個吧？
 如果不是那個，怎麼可能在短時間拿到那麼多錢……",,"그것의 세척이라니… 흔히 말하는 그거, 잖아?
 그게 아니면 이런 단시간에 이렇게 많이 받을 리 없고…","Die Sachen reinigen ... Du meinst „die“ Sachen?
 Selbst für das Geld und auch wenn es schnell
 geht, würde ich das nicht machen ..."
-507,3017,,"È un po'
-troppo... Sì... no grazie, passo.",那個畢竟有點那個，感覺怪可怕的，我放棄。,,…그건 좀 그런 데다 기분 나쁘니까 나는 패스할래,"Das ist etwas zu ...
+507,3017,,"È un po' troppo...
+Sì... no grazie, passo.",那個畢竟有點那個，感覺怪可怕的，我放棄。,,…그건 좀 그런 데다 기분 나쁘니까 나는 패스할래,"Das ist etwas zu ...
 Äh ... Nein, danke, da mache ich nicht mit."
 508,3017,,Intendi dire che vuoi falsificare la foto?,你說捏造，是捏造靈異照片嗎？,,"조작한다니, 심령사진을 말이야?","Das heißt, dass du das Foto fälschen willst?"
 509,3017,,...,……,,……,...
 510,3017,,Questa è... in realtà una buona idea!,這說不定是個好主意！,,그거 좋은 생각일지도 모르겠네!,Das ist ... tatsächlich eine gute Idee!
-511,3017,,"Quel vecchio stupido dovrebbe essere facile
-da ingannare!",那個瘋狂大叔感覺應該很好騙！,,"그런 비상식적인 아저씨
+511,3017,,"Quel vecchio stupido dovrebbe essere facile da raggirare!",那個瘋狂大叔感覺應該很好騙！,,"그런 비상식적인 아저씨
 간단히 속일 수 있을 것 같고!","Diesen dummen alten Mann kann man sicher leicht
 hereinlegen!"
-512,3017,,"Bene, se facciamo questo,
-[p], dovresti fare la parte del fantasma.","既然決定了，
+512,3017,,"Bene, se facciamo questo, [p],
+dovresti fare la parte del fantasma.","既然決定了，
 那[p]，你可以當一下幽靈嗎？",,"그렇게 정했으면 [p]
 너, 유령 역할 해주지 않을래?","Also, wenn wir das durchziehen, [p],
 solltest du die Rolle des Geists übernehmen."
 513,2001,,!?,！？,,!?,?!
 514,3017,,Ma sei l'unico in grado di farlo!,因為只有你能當了啊？,,그치만 너밖에 없잖아?,Aber nur du kannst das machen!
-515,3017,,"No, no, fallo più
-così! Fallo più da fantasma! Più come un fantasma!","不是這樣啦，
+515,3017,,"No, no, fallo più così! Fallo più da fantasma!
+Più come un fantasma!","不是這樣啦，
 要再營造一點幽靈感出來，幽靈感！",,"아니, 아니야, 좀 더 이렇게 말야
 유령 느낌을 내줘, 유령 느낌!","Nein, nein, eher so!
 Sei mehr wie ein Geist! So richtig geisterhaft!"
 516,2001,,?,？？,,??,?
-517,3017,,"Ricorda, hai fatto cose nella vita di cui
-ti penti, ci sono persone vive con cui hai
-conti in sospeso. Cose del genere.","像是遺願未了之類的感覺，
+517,3017,,"Ricorda, hai fatto cose nella vita di cui ti penti,
+ci sono persone vive con cui hai conti in sospeso. Cose del genere.","像是遺願未了之類的感覺，
 還有恨不得活著的人統統都去死之類的感覺。",,"미련이 가득한 느낌이라든가
 살아 있는 사람이 원망스러워서 못 참겠다는 느낌이라든가 그런 걸 말야아","Denk daran, es gibt Dinge, die du getan hast und
 bereust, Leute, mit denen du noch eine Rechnung
@@ -608,69 +563,62 @@ offen hast. So was in der Richtung."
 521,3017,,Eh?,咦？,,어?,Was?
 522,3017,,Cosa? Oh... non c'è niente...,怎樣啦，什麼都沒有啊。,,"뭐야, 아무것도 없잖아",Was? Ach ... Da ist ja gar nichts ...
 523,3017,,...Eh!? Cosa!? Il Ragazzo Bianco!?,咦！？　什麼！？　剛才那個白色少年在這裡！？,,…어!? 뭐야!? 그 하얀 소년이 있어!?,... Hä?! Was?! Der weiße Junge?!
-524,3017,,"Oh! Ehi, svelto! Fai una foto! La
-fotocamera, prendi la fotocamera! Svelto!!!","啊、喂！　我說你！
+524,3017,,"Oh! Ehi, svelto! Fai una foto!
+La fotocamera, prendi la fotocamera! Svelto!!!","啊、喂！　我說你！
 拍照拍照！　快點拿起相機！　動作快一點啦！",,"자, 잠깐! 너!
 사진, 사진! 카메라야, 카메라! 빨리 해――!","Ah! He, schnell! Mach ein Foto!
 Die Kamera, hol die Kamera! Schnell!"
 525,2001,,...,……,,……,...
 551,3006,,"...Quindi, fammi capire bene. Non sei riuscito a fare
-una foto del Ragazzo Bianco, quindi hai deciso di
-falsificare la foto?","結果你們沒有拍到白色少年，
+una foto del Ragazzo Bianco, quindi hai deciso di falsificare la foto?","結果你們沒有拍到白色少年，
 最後就捏造了一張靈異照片是嗎……",,"…그래서 결국 하얀 소년을 촬영하진 못하고
 심령사진을 조작했다는 건가…","... So, stellen wir das mal klar. Ihr konntet kein
 Foto vom weißen Jungen bekommen, also habt ihr es
 gefälscht?"
 552,3006,,"Anche così, questa foto...",話說回來這張照片……,,그건 그렇고 이 사진…,"Aber trotzdem, dieses Bild ..."
-553,3006,,"Anche un bambino delle elementari avrebbe
-potuto fare una foto migliore di questa... Alla
-fine dovremo rifiutare questo caso.","感覺小學生都可以拍得比你們更好。
+553,3006,,"Anche un bambino delle elementari avrebbe potuto fare una foto
+migliore di questa... Alla fine dovremo rifiutare questo caso.","感覺小學生都可以拍得比你們更好。
 想也知道這樣一定會被委託人退回來吧。",,"초등학생이 더 제대로 된 사진을 찍을 수 있을 것 같군
 …이래선 의뢰인에게 퇴짜 맞을 게 당연하겠지","Ein Kind in der Grundschule hätte ein besseres
 Foto machen können. Letztendlich werden wir
 den Fall wohl ablehnen müssen."
-554,3017,,"Cosa! Non è possibile, [p] e io, abbiamo messo
-tutto quello che avevamo in questo!","咦～！　不會啦！
+554,3017,,"Cosa! Non è possibile, [p] e io, abbiamo messo tutto quello
+che avevamo in questo!","咦～！　不會啦！
 這可是我和[p]使出渾身解數拍出來的照片耶！",,"뭐―! 그렇지 않다고!
 이건 나랑 [p]의 혼신의 한 장이야!","Was! Nein, [p] und ich, wir haben uns
 dafür solche Mühe gegeben!"
-555,3006,,"...Non importa. Siediti. Ti
-mostrerò come fotografare un fantasma
-correttamente...","真沒辦法，
+555,3006,,"...Non importa. Siediti.
+Ti mostrerò come fotografare un fantasma correttamente...","真沒辦法，
 我就來教教你怎麼拍靈異照片吧。",,"…어쩔 수 없군
 내가 심령사진을 찍는 법을 알려주겠다","Das spielt keine Rolle. Setzt euch. Ich zeige
 euch, wie man ein richtiges Foto von einem
 Geist macht ..."
-556,3006,,"Il terrore nasce fondamentalmente
-dall'immaginazione umana.",恐怖這種東西，基本上是透過人類想像力所產生的。,,공포란 기본적으로 사람의 상상력에 의해 태어나는 것이다,"Horror ist ein Produkt der menschlichen
+556,3006,,"Il terrore nasce fondamentalmente dall'immaginazione umana.",恐怖這種東西，基本上是透過人類想像力所產生的。,,공포란 기본적으로 사람의 상상력에 의해 태어나는 것이다,"Horror ist ein Produkt der menschlichen
 Vorstellungskraft."
-557,3006,,"""Qualunque cosa sembra un volto dalla giusta
-angolazione."" È così che puoi stimolare l'immaginazione di
-una persona con una fotografia...","“看的方法不同，就有可能會看成人臉”，
+557,3006,,"""Qualunque cosa sembra un volto dalla giusta angolazione.""
+È così che puoi stimolare l'immaginazione di una persona con
+una fotografia...","“看的方法不同，就有可能會看成人臉”，
 要在照片中製造出這種刺激人們想像力的重點……",,"""보는 방법에 따라선 사람의 얼굴로 보이기도 한다""
 그런 사람의 상상력을 자극하는 포인트를 사진 안에 만드는…","„Mit der richtigen Perspektive sieht alles wie ein
 Gesicht aus.“ So kurbelt man mit einem Foto
 die Fantasie der Leute an ..."
-558,3006,,"Quella è la tecnica chiave nella
-fotografia spiritica.",這才是讓相片看起來像靈異照片的訣竅。,,그것이야말로 심령사진처럼 보이게 만드는 비법이다,"Das ist die wichtigste Methode in der
+558,3006,,"Quella è la tecnica chiave nella fotografia spiritica.",這才是讓相片看起來像靈異照片的訣竅。,,그것이야말로 심령사진처럼 보이게 만드는 비법이다,"Das ist die wichtigste Methode in der
 Geisterfotografie."
-559,3006,,"Quindi, devi solo invocare il
-fenomeno unicamente umano della pareidolia...",這關係到人類一種叫做擬像現象的特性……,,"이것엔 인간의 특성인 시뮬라크르 현상이라는 것이
+559,3006,,"Quindi, devi solo invocare il fenomeno
+unicamente umano della pareidolia...",這關係到人類一種叫做擬像現象的特性……,,"이것엔 인간의 특성인 시뮬라크르 현상이라는 것이
 관여하고 있는데…","Macht euch einfach das Phänomen der Pareidolie zu
 Nutze. Es tritt übrigens nur bei Menschen auf ..."
-560,3006,,"Per esempio, qui, la prospettiva in questa
-immagine...",比如說，這張照片如果用不同的方法看——,,예를 들어 이 사진의 이곳도 보는 방법에 따라선―,"Beispielsweise mit der Perspektive in diesem
+560,3006,,"Per esempio, qui, la prospettiva in questa immagine...",比如說，這張照片如果用不同的方法看——,,예를 들어 이 사진의 이곳도 보는 방법에 따라선―,"Beispielsweise mit der Perspektive in diesem
 Foto ..."
 561,3006,,...,……,,……,...
 562,3017,,Eh? Cos'è che non va?,嗯？　怎麼了嗎？,,응? 왜 그래?,Was? Was ist los?
-563,3006,,"...Hmm, sembra che questa fotocamera abbia scattato
-una foto...","嗯……
+563,3006,,"...Hmm, sembra che questa fotocamera abbia scattato una foto...","嗯……
 這張照片拍到某個東西了呢。",,"…흐음
 이 사진, 뭔가 찍혀 있군","... Hm, diese Kamera scheint ein Foto gemacht zu
 haben ..."
 564,3017,,Eh!? D-dove!?,咦！？　在、在哪裡！？,,"뭐!? 어, 어디어디!?",Was?! W-Wo?!
-565,3017,,"Guarda! Dietro [p] puoi vedere una
-figura umana, ma... non ha la testa!","真、真的耶！在[p]的後面隱約有個人影。
+565,3017,,"Guarda! Dietro [p] puoi vedere una figura umana,
+ma... non ha la testa!","真、真的耶！在[p]的後面隱約有個人影。
 而且……脖子上面……是空的……！？",,"저, 정말이다! [p]의 뒤에 희미하게 사람 그림자가 보여
 …게다가 목부터 위가… 없어……!?","Schaut mal! Hinter [p] kann man eine menschliche
 Gestalt sehen, aber ... sie hat keinen Kopf!"
@@ -680,52 +628,49 @@ Questa, questa è una vera foto di fantasmi!","哇喔喔喔——！
 這根本就是靈異照片啊！！",,"우오오오오오오―――!
 이거, 역시 심령사진이잖아!!","Hurraaaaaa!
 Das hier, das ist ein echtes Geisterfoto!"
-568,3017,,"Okay, andiamo a portare subito questo
-all'editore! [p], Kyoko, grazie a entrambi!","我立刻就去拿給那個編輯看！
+568,3017,,"Okay, andiamo a portare subito questo all'editore!
+[p], Kyoko, grazie a entrambi!","我立刻就去拿給那個編輯看！
 [p]、杏子姊，謝謝你們啦！！",,"바로 그 편집자에게 가져가 볼게!
 [p], 쿄코 씨, 고마워!!","Bringen wir es sofort zum Redakteur!
 [p], Kyoko, ich danke euch beiden!"
 569,3006,,"Il 90% delle foto di fantasmi sono false...
-Non avrei mai pensato che questa sarebbe stata parte
-di quel 10% che sono reali...","靈異照片有九成都是假的……
+Non avrei mai pensato che questa sarebbe stata parte di quel 10%
+che sono reali...","靈異照片有九成都是假的……
 但我不認為那張照片會是剩下的一成之一……",,"심령사진의 9할은 가짜라고 하지…
 저 사진이 나머지 1할에 해당할거라고는 생각지 못했는데…","90 % aller Geisterfotos sind gefälscht ...
 Ich hätte nie gedacht, dass dieses zu den 10 % der
 echten gehören würde ..."
-570,3018,,I... Credo di essere io quello nella foto...,照片上的那個人……應該……是我。,,사진에 찍힌 거… 아마 저… 예… 요,"Ich ... Ich glaube, das bin ich auf dem Foto ..."
+570,3018,,I... Credo di essere io quella nella foto...,照片上的那個人……應該……是我。,,사진에 찍힌 거… 아마 저… 예… 요,"Ich ... Ich glaube, das bin ich auf dem Foto ..."
 571,3006,,Eh? Tu?,嗯？　妳是……,,응? 너는…,Was? Du?
 572,3018,,"Io... ero preoccupato... per Ryota...
 Così, io... io l'ho seguito a... a Kowloon...","我很擔心……良太……
 所以就……跟著你們……到了Kowloon。",,"료타가… 걱정… 돼서
 계속… 쫓아갔었어요… 쿠롱까… 지","Ich ... Ich habe mir Sorgen gemacht ... um Ryota.
 Also bin ... bin ich ihm nach Kowloon gefolgt ..."
-573,3018,,"...Stavo cercando di
-osservarlo dalle ombre... ma, io.. devo essere
+573,3018,,"...Stavo cercando di osservarlo dalle ombre... ma, io.. devo essere
 scivolato nell'inquadratura...",我躲在暗處看著你們……結果好像……被拍進去……了。,,…그늘에서 볼 생각… 이었는데 같이 찍혀버린 것… 같아… 요,"... Ich habe versucht, ihn unauffällig
 zu beobachten, aber ich ... ich muss irgendwie
 mit auf das Foto gekommen sein ..."
-574,3006,,"Hmm... Mi chiedo, c'è un
-collegamento tra te e le azioni di Ryota?","嗯……他這次的行動
+574,3006,,"Hmm... Mi chiedo, c'è un collegamento tra te e le azioni di Ryota?","嗯……他這次的行動
 和妳有什麼關係呢？",,"흐음… 이번 그의 행동과 네가
 무슨 관계가 있는 거지?","Hm ... Ich frage mich, ob zwischen dir und dem,
 was Ryota da tut, eine Verbindung besteht."
 575,3018,,"A dire la verità, il mio compleanno si avvicina...",其實……我的生日……就快到了。,,"…실은 곧 생일… 이, 에요, 저",Ich habe bald Geburtstag ...
 576,3006,,"Capisco, quindi è per questo che gli servivano i soldi...",這樣啊，所以他才急著籌錢。,,"그렇군, 그래서 그는 돈을 마련하려 서두르고 있었던 거군","Ach so, dafür brauchte er das Geld ..."
-577,3018,,"Lui...lui aveva bisogno di soldi per comprarmi
-un regalo, quindi stava cercando un lavoro dove
-potesse guadagnare molto in un breve lasso di tempo...","那傢伙……為了買禮物給我，
+577,3018,,"Lui...lui aveva bisogno di soldi per comprarmi un regalo,
+quindi stava cercando un lavoro dove potesse guadagnare molto in un
+breve lasso di tempo...","那傢伙……為了買禮物給我，
 好像在找……短時間高收入的打工……",,"그녀… 석, 제게 선물, 사려고
 단시간에 벌이가 좋은 알바, 찾고 있었… 던 것 같아요…","Er ... Er braucht Geld, um mir ein Geschenk zu
 kaufen. Deshalb hat er einen Job gesucht, mit dem
 er in kurzer Zeit viel Geld verdienen kann ..."
-578,3018,,"Lui...lui non avrebbe dovuto provare a
-comprarmi un regalo che non si poteva
-permettere...",他根本就不用……勉強買禮物……給我的。,,무리해서 선물 같은 거… 해주지 않아도 되… 는데,"Er ... Er hätte nicht versuchen sollen, mir ein
+578,3018,,"Lui...lui non avrebbe dovuto provare a comprarmi un regalo che non
+si poteva permettere...",他根本就不用……勉強買禮物……給我的。,,무리해서 선물 같은 거… 해주지 않아도 되… 는데,"Er ... Er hätte nicht versuchen sollen, mir ein
 Geschenk zu kaufen, das er sich nicht leisten
 kann ..."
 579,3006,,"Quindi stava facendo del suo meglio per trovare un lavoro part-time
-per comprare un regalo a una
-ragazza di cui era innamorato... Hahaha...ah, il giovane amore!","為了心儀的女孩子
+per comprare un regalo a una ragazza di cui era innamorato...
+Hahaha...ah, il giovane amore!","為了心儀的女孩子
 拼命打工買禮物……
 呵呵呵……真是美好的青春啊。",,"좋아하는 여자아이를 위해
 필사적으로 알바를 해서 선물을 산다…
@@ -733,25 +678,23 @@ ragazza di cui era innamorato... Hahaha...ah, il giovane amore!","為了心儀�
 Schwarm ein Geschenk
 zu kaufen ... Hahaha, ach ... junge Liebe!"
 580,3006,,"...Ehi, stai bene?
-Hai un'espressione assente sul tuo viso. È come se la tua mente
-fosse da qualche altra parte...","話說回來，妳還好嗎？
+Hai un'espressione assente sul tuo viso.
+È come se la tua mente fosse da qualche altra parte...","話說回來，妳還好嗎？
 看妳講話結巴又眼神呆滯，一副心不在焉的模樣……",,"…그건 그렇고 너는 괜찮은 건가?
 말도 잘 못하고 눈도 멍해선 마음이 다른 곳에 가있는 것 같은데…","He, alles klar?
 Du schaust so ausdruckslos, als ob du in Gedanken
 ganz woanders bist ..."
-581,3006,,"Heeheehee... Per caso, c'è qualcun altro di
-cui sei innamorato?","呵呵呵……
+581,3006,,"Heeheehee... Per caso, c'è qualcun altro di cui sei innamorato?","呵呵呵……
 該不會是有其他心儀的異性了？",,"후후후…
 혹시 달리 누군가 마음을 품고 있는 이성이라도 있는 건가?","Hehehe ... Ist da zufällig noch jemand, in den
 du verliebt bist?"
 582,3017,,...Sì...praticamente è tutto.,"嗯……
 差不多就這樣了吧。",,"…응
 뭐 그렇군","... Ja, tatsächlich sogar."
-600,2000,,"Ok, ho ottenuto le
-informazioni. Torniamo da Ryota.","情報收集完畢，
+600,2000,,"Ok, ho ottenuto le informazioni.
+Torniamo da Ryota.","情報收集完畢，
 回去良太那裡吧。",,"정보는 모였다
 료타에게 돌아가자","Okay, ich habe die Informationen.
 Gehen wir zurück zu Ryota."
-601,4883,,"Sembra che ci siano stati avvistamenti di un
-fantasma a Kowloon Lv. 3.",Kowloon Lv. 3好像常有人目擊到幽靈。,,유령은 쿠롱 Lv.3에서 곧잘 목격된다고 해요,"Anscheinend wurde ein Geist auf der dritten Ebene 
+601,4883,,"Sembra che ci siano stati avvistamenti di un fantasma a Kowloon Lv. 3.",Kowloon Lv. 3好像常有人目擊到幽靈。,,유령은 쿠롱 Lv.3에서 곧잘 목격된다고 해요,"Anscheinend wurde ein Geist auf der dritten Ebene 
 in Kowloon gesichtet."

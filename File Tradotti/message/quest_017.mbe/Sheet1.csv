@@ -1,14 +1,14 @@
 ﻿ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
 100,1405,,Sei appena arrivato? Stavo aspettando.,你來啦，等你很久了。,,"왔나, 기다리고 있었다",Bist du gerade angekommen? Ich warte schon länger.
 101,1405,,Huh...?,嗯……？,,음…?,Was ...?
-102,1405,,"Ah, scusa. Sento ancora che qualcuno mi sta
-osservando da qualche parte.","喔，不好意思，
+102,1405,,"Ah, scusa.
+Sento ancora che qualcuno mi sta osservando da qualche parte.","喔，不好意思，
 因為我又感覺到有一道視線從某處盯著我看了。",,"아, 미안하다
 또 어디선가 나를 보는 시선을 느껴서 말이지","Ach, ich kann immer noch spüren, wie mich jemand
 von irgendwoher beobachtet."
-103,1405,,"È da un po' che va avanti così. Sembra che ci
-sia qualcuno che mi segue, mantenendo una
-distanza costante e non lasciandomi mai vedere.","最近一直都是這個樣子。
+103,1405,,"È da un po' che va avanti così.
+Sembra che ci sia qualcuno che mi segue, mantenendo una distanza
+costante e non lasciandomi mai vedere.","最近一直都是這個樣子。
 對方好像跟我保持一定的距離，
 絕對不會露出他的身影。",,"최근엔 줄곧 이런 상황이다
 나와는 일정한 거리를 유지하는 듯하고
@@ -20,9 +20,9 @@ questo e dirgli di smetterla?","拜託你，可以幫我找出那道神秘視線
 叫他不要再盯著我看了嗎？",,"부탁한다, 어딘가에 있을 이 시선의 주인을 찾아
 그만두라고 말해주지 않겠는가?","Kannst du bitte herausfinden, wer es ist und dafür
 sorgen, dass es aufhört?"
-105,1405,,"Vorrei che tu trovassi chiunque mi
-stia pedinando. Anche ora sento qualcuno
-che mi osserva. Devono essere qui vicino...","希望你能找出那個跟蹤我的人。
+105,1405,,"Vorrei che tu trovassi chiunque mi stia pedinando.
+Anche ora sento qualcuno che mi osserva.
+Devono essere qui vicino...","希望你能找出那個跟蹤我的人。
 我現在也有感覺到視線，他一定就在附近……",,"내 뒤를 쫓는 누군가를 찾아줬으면 한다
 지금도 시선이 느껴지니까 분명 가까이에 있을 거라고는 생각한다만…","Ich möchte, dass du die Person findest, die mir
 nachstellt. Auch jetzt spüre ich, wie jemand mich
@@ -34,40 +34,39 @@ Tu! Da quanto tempo sei lì!?","嗚哇啊啊啊啊！
 你什麼時候出現在這裡的……！",,"우와아아앗!
 너 이자식, 언제부터 거기에……!","Ach! Was zur ...?!
 Du! Wie lange bist du schon da?!"
-113,1027,,"Ah,
-moccioso... Come hai imparato a nascondere la tua presenza?",不對，你……什麼時候用了消除氣息的招數？,,"아니, 네놈… 언제부터 기척을 지우는 술법을 사용한 거냐?","Ach, du klein–
+113,1027,,"Ah, moccioso...
+Come hai imparato a nascondere la tua presenza?",不對，你……什麼時候用了消除氣息的招數？,,"아니, 네놈… 언제부터 기척을 지우는 술법을 사용한 거냐?","Ach, du klein–
 Wie hast du gelernt, dich so zu verstecken?"
 114,1027,,Potresti essere... Sei...umano?,"居然會使用這種驚人絕技……
 莫非你不是人類！？",,"이런 걸 할 수 있을 줄이야…
 설마 인간이 아닌 건가!?",Könnte es sein ... Bist du ... ein Mensch?
-115,2000,,"Sono
-umano. Più o meno.","我是人類。
+115,2000,,"Sono umano.
+Più o meno.","我是人類。
 以某方面來看你說對了。",,"인간이야
 어떤 의미로는 맞아","Ich bin ein Mensch.
 So in der Richtung."
 116,1027,,C...co-cosa!?,你說……什麼！？,,뭐… 라고!?,W-Was?!
-117,1027,,"Mi stai dicendo che nel breve tempo in cui ti ho tolto gli
-occhi di dosso sei riuscito a raggiungermi
-furtivamente? Non sei decisamente normale!","你是趁我一時不注意的短暫空檔中接近我的嗎？
+117,1027,,"Mi stai dicendo che nel breve tempo in cui ti ho tolto gli occhi di
+dosso sei riuscito a raggiungermi furtivamente?
+Non sei decisamente normale!","你是趁我一時不注意的短暫空檔中接近我的嗎？
 你果然不是普通人！",,"내 경계가 느슨해진 짧은 틈에 다가왔다는 건가?
 역시 네놈, 보통내기가 아니구나!","In der kurzen Zeit, wo ich weggeschaut habe, hast
 du dich an mich herangeschlichen?
 Du bist definitiv nicht normal!"
 118,1027,,Ma...ma che!?,你說……什麼！？,,뭐… 라고!?,W-Was?!
-119,1027,,"Se quello è un travestimento, allora chi diavolo
-sei!? Di sicuro non sei normale!","如果你這身形體是幻影，那你到底是何方神聖！？
+119,1027,,"Se quello è un travestimento, allora chi diavolo sei!?
+Di sicuro non sei normale!","如果你這身形體是幻影，那你到底是何方神聖！？
 你果然不是普通人！",,"그 모습이 속임수라 한다면, 대체 누구라는 것이냐!?
 역시 네놈, 보통내기가 아니구나!","Wenn es eine Tarnung ist, wer zur Hölle bist du?!
 Du bist definitiv nicht normal!"
-120,1027,,"Io sono la personificazione
-dell'oscurità, WarGreymon! Sono capace tanto quanto Taomon
-di usare abilmente strane tecniche!","我乃闇之化身——戰鬥暴龍獸！
+120,1027,,"Io sono la personificazione dell'oscurità, WarGreymon!
+Sono capace tanto quanto Taomon di usare abilmente strane tecniche!","我乃闇之化身——戰鬥暴龍獸！
 像祭師獸那樣的奇妙招數我也能精湛地施展。",,"나는 어둠의 화신, 워그레이몬이다!!
 도사몬처럼 기묘한 술법도 화려하게 다룰 수 있다","Ich bin die Personifikation der Dunkelheit,
 WarGreymon! Genau wie Taomon bin ich versiert im
 Umgang mit sonderbaren Techniken!"
-121,1027,,"Esatto, umano,
-temimi! Cadrai alla mia magia nera!","畏懼吧，人類！
+121,1027,,"Esatto, umano, temimi!
+Cadrai alla mia magia nera!","畏懼吧，人類！
 在我的妖術前無力地潰散吧！！",,"두려워하거라, 인간놈!
 나의 술법 앞에 덧없이 쓰러져라!!","Genau, Mensch! Fürchte mich!
 Meine schwarze Magie wird dein Untergang sein!"
@@ -83,9 +82,9 @@ Ach, das war gar nicht so schlimm.
 ... Weinst du?"
 132,1027,,"Awww, oggi va tutto terribilmente male!",嗚……我、我今天狀況不理想！,,"으으… 오, 오늘은 컨디션이 좋지 않다!","Och, der Tag heute läuft schrecklich!"
 133,1027,,...Ack!,啊！,,……핫!,... Argh!
-134,1027,,"Oggi capita proprio che sia l'unico giorno dell'anno in
-cui il mio potere magico è più debole! Ecco perché sei
-venuto oggi, non è vero!? Tu...tu codardo!","今、今天是我一年一度妖力補給率不良的日子。
+134,1027,,"Oggi capita proprio che sia l'unico giorno dell'anno in cui
+il mio potere magico è più debole!
+Ecco perché sei venuto oggi, non è vero!? Tu...tu codardo!","今、今天是我一年一度妖力補給率不良的日子。
 你是故意挑這天找上門的吧！？
 可惡的卑鄙小人！！",,"오, 오늘은 일년에 한 번 도래하는 요력의 보급율이 나쁜 날이다
 네놈, 일부러 이 날을 노리고 찾아온 거군!?
@@ -94,9 +93,8 @@ dem meine Magie am schwächsten ist. Darum kamst
 du heute, oder? Du ... Feigling!"
 135,1027,,Stronzo! Non prenderti gioco di me!,混蛋！居然瞧不起我……！,,이자식! 바보취급이나 하고…!,Knallkopf! Mach dich nicht lustig über mich!
 136,1027,,...Acc!,啊！,,……핫!,... Argh!
-137,1027,,"Non sfidare la fortuna, umano! Ti farò pentire
-di prenderti gioco di me! Abbi paura, perché tra
-non molto ti manderò un talismano maledetto!","這、這點程度少得意忘形，人類。
+137,1027,,"Non sfidare la fortuna, umano! Ti farò pentire di prenderti gioco di me!
+Abbi paura, perché tra non molto ti manderò un talismano maledetto!","這、這點程度少得意忘形，人類。
 我會讓你後悔嘲笑我！
 恐懼吧，在不久的將來我會把詛咒送給你！！",,"이, 이 정도로 우쭐대지 마라, 인간놈
 나를 비웃은 걸 후회하게 해 주겠다!
@@ -105,8 +103,8 @@ deine Späße noch bereuen! Du solltest Angst haben!
 Ich schicke dir einen verfluchten Talisman!"
 138,1027,,I...Non sto piangendo!,我……我才沒有哭！,,우… 울고 있지 않앗!,Ich ... Ich weine nicht!
 139,1027,,...Acc!,啊！,,……핫!,... Argh!
-140,1027,,"Queste... queste sono solo le lacrime del pianeta, sta
-usando i miei occhi come un condotto per le sue stesse
+140,1027,,"Queste... queste sono solo le lacrime del pianeta,
+sta usando i miei occhi come un condotto per le sue stesse
 lacrime, ecco tutto! Io non piango mai col cuore!","這、這是星星的眼淚。
 是星星透過我的眼睛在哭而已！
 絕對不是我發自內心在哭泣！！",,"이, 이건 별의 눈물이다
@@ -114,8 +112,8 @@ lacrime, ecco tutto! Io non piango mai col cuore!","這、這是星星的眼淚�
 결코 내가 울고 있는 것이 아니닷!!","Das ... Das sind nur die Tränen des Planeten. Er
 nutzt meine Augen als Kanal für seine Tränen.
 Das ist alles! Ich weine nie wirklich!"
-141,1027,,"Per il momento...me
-ne andrò! Magico Trucco di Sparizione!","總之……先逃再說！
+141,1027,,"Per il momento...me ne andrò!
+Magico Trucco di Sparizione!","總之……先逃再說！
 退散之術！",,"일단… 지금은 물러나주겠닷!
 퇴각의 술!","Vorerst ... gehe ich!
 Der magische Trick des Verschwindens!"
@@ -125,30 +123,29 @@ scomparso affatto...","戰鬥暴龍獸的身影並沒有消失，
 그저 달려갔다…","WarGreymon läuft einfach davon. Er ist gar nicht
 verschwunden ..."
 143,2000,,...?,……？,,……?,...?
-144,2000,,"Sembra che WarGreymon abbia fatto cadere un diario o
-qualcosa del genere. Leggiamolo.","戰鬥暴龍獸掉了一本像是日記的東西。
+144,2000,,"Sembra che WarGreymon abbia fatto cadere un diario o qualcosa del genere.
+Leggiamolo.","戰鬥暴龍獸掉了一本像是日記的東西。
 翻開來看看吧……",,"워그레이몬이 일기 같은 걸 떨어뜨리고 간 것 같다
 읽어보자…","WarGreymon scheint ein Tagebuch fallen gelassen zu
 haben. Lesen wir es."
-145,4944,,"""Martedì. Tempo soleggiato. Taomon sembrava
-così fantastico oggi! Oh, vorrei
-essere cool come lui!""","「○月╳日，晴天
+145,4944,,"""Martedì. Tempo soleggiato.
+Taomon sembrava così fantastico oggi!
+Oh, vorrei essere cool come lui!""","「○月╳日，晴天
 　祭師獸今天也好帥喔！
 　啊～我也想變得像祭師獸一樣那麼酷！」",,"「○월×일, 맑음
 　오늘도 멋진걸, 도사몬!
 　아아, 도사몬처럼 쿨해지고 싶다!」","„Dienstag. Sonnig. Taomon sah heute so toll aus!
 Ach, ich wünschte, ich würde so cool
 aussehen wie er!“"
-146,4944,,"""Ma prima volevo diventare un
-BlackWarGreymon... - WarGreymon""","「不過話說回來，
+146,4944,,"""Ma prima volevo diventare un BlackWarGreymon... - WarGreymon""","「不過話說回來，
 　我本來是想變成黑暗戰鬥暴龍獸的啊。
 　　　　　　　　　　　　　　　戰鬥暴龍獸」",,"「하지만 원래는
 　블랙워그레이몬이 되고 싶었는데
 　　　　　　　　　　　　　　　　　　　워그레이몬」","„Aber erst wollte ich ein BlackWarGreymon
 werden ... – WarGreymon“"
 147,2000,,...,……………………,,……………………,...
-160,1405,,"Ehi, stavo guardando da lontano. Ho
-visto tutta la scena.",嗨，我在遠處看到你們的情況了。,,"여어, 멀리서 상황을 보고 있었다","He, ich habe aus der Entfernung zugeschaut.
+160,1405,,"Ehi, stavo guardando da lontano.
+Ho visto tutta la scena.",嗨，我在遠處看到你們的情況了。,,"여어, 멀리서 상황을 보고 있었다","He, ich habe aus der Entfernung zugeschaut.
 Ich habe alles gesehen."
 161,1405,,"Quello che mi seguiva era ovviamente WarGreymon,
 ma parla davvero in quel modo!?","原來跟在我後面的是戰鬥暴龍獸啊。
@@ -159,15 +156,15 @@ Aber redet er wirklich so?!"
 163,1405,,...,……,,……,...
 164,1405,,...,…………,,…………,...
 165,1405,,Ahah...,……………………哈哈……,,……………………하하…,Haha ...
-166,1405,,"Ad ogni modo, lo hai cacciato via, quindi grazie
-per l'aiuto. Invierò il tuo pagamento al tuo
-ufficio più tardi.","總之，謝謝你幫我趕跑它。
+166,1405,,"Ad ogni modo, lo hai cacciato via,
+quindi grazie per l'aiuto.
+Invierò il tuo pagamento al tuo ufficio più tardi.","總之，謝謝你幫我趕跑它。
 報酬我等一下會送過去的。",,"어쨌든, 쫓아줘서 고맙다
 나중에 보수를 보내겠다","Du hast ihn jedenfalls vertrieben. Danke für
 deine Hilfe. Ich schicke die Zahlung später an
 dein Büro."
-180,1405,,"Quel tono... Suono davvero
-così? Wow, umiliante...","它那個語調……難道是在模仿我嗎？
+180,1405,,"Quel tono... Suono davvero così?
+Wow, umiliante...","它那個語調……難道是在模仿我嗎？
 簡直就是侮辱……",,"그 말투… 설마 내 흉내를 낸 건가?
 굴욕적이군…","Dieser Ton ... Klinge ich wirklich so?
 Wow, wie peinlich ..."

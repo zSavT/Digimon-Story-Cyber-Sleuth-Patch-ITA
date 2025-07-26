@@ -10,8 +10,8 @@ Aber du musst jetzt sogar noch härter arbeiten."
 "3","3006","","Il motto del nostro ufficio è...","我們事務所的座右銘就是——","","우리 사무소의 모토는―","Das Motto unseres Büros lautet ..."
 "4","4290","","Ehm, scusa...","那個……不好意思……","","저기… 실례합니다…","Ähm, Entschuldigung ..."
 "5","3006","","Il motto di mio padre è: «Chi viene, non
-viene respinto; chi se ne va, non viene
-trattenuto; e chi vuole mangiare, deve lavorare.»","我們事務所的座右銘就是，
+viene respinto; chi se ne va, non viene trattenuto;
+e chi vuole mangiare, deve lavorare.»","我們事務所的座右銘就是，
 “來者不拒，去者不留，不幹活的人就不准吃飯”，
 這也是我父親的教訓……","","우리 사무소의 모토는
 ""오는 자 막지 않고, 가는 자 잡지 않고, 일하지 않는 자 먹지 말라""
@@ -21,9 +21,8 @@ festgehalten und wer essen will, muss arbeiten.“"
 "6","4290","","Mi scusi ... Salve?","不好意思……可以打擾一下嗎？","","잠깐… 실례합니다","Verzeihung ... Hallo?"
 "7","3006","","Cosa? Abbiamo già un abbonamento al giornale.","嗯……？要來推銷報紙的話，我們有訂了。","","…응? 신문 권유라면 저희는 됐습니다","Was? Wir haben schon ein Zeitungsabo."
 "8","4290","","No... Non si tratta di questo.","呃……不是的……","","아니… 그게 아니라, 요…","Nein ... Darum geht es nicht."
-"9","3006","","Abbiamo anche un estintore e una
-connessione internet. L'ufficio ha
-tutto. Mi dispiace.","不管是滅火器、網路回線或是幸運壺，
+"9","3006","","Abbiamo anche un estintore e una connessione internet.
+L'ufficio ha tutto. Mi dispiace.","不管是滅火器、網路回線或是幸運壺，
 我們這裡全部都有了，請你另尋他處吧……","","소화기도 인터넷 회선도 진귀한 항아리도
 저희 사무소는 이미 다 갖추고 있습니다, 미안하지만 다른 곳을…","Wir haben auch einen Feuerlöscher und
 Internetanschluss. Das Büro hat alles.
@@ -43,31 +42,28 @@ Also, ein Klient. Ein KLIENT!"
 ……","","…………
 ……","..."
 "18","3006","","Benvenuto all'Agenzia Investigativa Kuremi,
-sempre affidabile! La prego di fornirci maggiori dettagli
-sul caso.","歡迎光臨信用和實績兼具的暮海偵探事務所，
+sempre affidabile! La prego di fornirci maggiori dettagli sul caso.","歡迎光臨信用和實績兼具的暮海偵探事務所，
 請問您要委託什麼內容呢？","","어서 오세요, 신뢰와 실적을 자랑하는 쿠레미 탐정사무소에
 의뢰 내용을 말씀해 주시지요","Willkommen im Detektivbüro Kuremi, immer
 zuverlässig! Bitte erzählen Sie uns Näheres zum
 Fall."
 "19","3006","","Hm. In altre parole...","嗯……也就是說——","","흐음… 즉―","Hm. Mit anderen Worten ..."
-"20","3006","","Voleva acquistare Digimon
-catturato da un hacker, ma invece le è stata rubata
-una Medaglia Digimon inestimabile.","你本來打算向駭客買數碼寶貝捕捉器，
+"20","3006","","Voleva acquistare Digimon catturato da un hacker,
+ma invece le è stata rubata una Medaglia Digimon inestimabile.","你本來打算向駭客買數碼寶貝捕捉器，
 結果反而被奪走電子貨幣和「極稀有數碼寶貝獎牌」？","","해커로부터 디지몬 캡처를 구입할 예정이었는데
 도리어 전자 머니와「초레어 디지몬 메달」을 빼앗겼다, 고요","Sie wollten Digimon-Fang von einem Hacker
 erwerben, aber stattdessen wurde Ihnen eine sehr
 seltene Digimon-Medaille gestohlen."
 "21","4291","","S-s-sì, esattamente! ""Digimon Rarissimo
-a prezzo stracciato!"". Sembrava troppo
-bello per essere vero.","是是是的！
+a prezzo stracciato!"". Sembrava troppo bello per essere vero.","是是是的！
 「便宜轉賣數碼寶貝捕捉器」，
 我被這句甜言蜜語騙了。","","그그그, 그래요!
 「디지몬 캡처, 싼 값에 넘깁니다」
 …이 감언이설에 속아 넘어가서 그만","J-J-Ja, genau!
 „Digimon-Fang, jetzt zum Spottpreis!“
 Klang schon zu schön, um wahr zu sein."
-"22","4291","","Questo è... terribile, quello che stanno
-facendo! Sfruttare così le nostre passioni!","真真真的是太過分了！好差勁的行為！
+"22","4291","","Questo è... terribile, quello che stanno facendo!
+Sfruttare così le nostre passioni!","真真真的是太過分了！好差勁的行為！
 竟然利用狂熱者的心理……","","저, 정말, 최저예요! 최저인 행위예요!
 사람의 마니아 마음을 이용하다니…","Das ist ... schrecklich, was die da machen!
 Unsere Leidenschaften so auszunutzen!"
@@ -77,8 +73,8 @@ Niente ci rende più vulnerabili!","沒錯！就是狂熱者心理！
 這世上還有比狂熱者心理更纖細的東西嗎……？","","그래요! 마니아 마음!
 마니아 마음만큼 섬세한 게 있을까요…!","Jawohl! Die Leidenschaften, die Leute so haben!
 Nichts macht uns angreifbarer!"
-"25","4291","","Quando si deve avere qualcosa a tutti i
-costi, non importa come, e non importa a quale prezzo.","對於想要的東西，無論冒任何危險，
+"25","4291","","Quando si deve avere qualcosa a tutti i costi,
+non importa come, e non importa a quale prezzo.","對於想要的東西，無論冒任何危險，
 即使不擇手段，也要弄到手……","","손에 넣고 싶은 것은, 그 어떤 위험을 무릅써서라도
 그 어떤 수단을 써서라도, 반드시 손에 넣고 싶은…","Wenn man etwas unbedingt haben muss,
 egal wie, und egal, um welchen Preis."
@@ -95,8 +91,7 @@ un adulto, con cose di così raro prestigio...","竟敢利用大人的這種纖�
 어른의 마니아 마음을 부추겨서, 그런 짓을 하다니!","Dass die sich an etwas so Kostbares wie die
 Leidenschaften erwachsener Leute heranwagen
 würden ..."
-"28","4291","","Non glielo perdonerò
-mai. Mai e poi mai!","不可原諒……
+"28","4291","","Non glielo perdonerò mai. Mai e poi mai!","不可原諒……
 我絕絕絕對不原諒……！！","","용서할 수 없어…
 …저저저절대로 용서할 수 없어…!!","Das verzeihe ich ihnen nie.
 Niemals nie nicht!"
@@ -109,44 +104,39 @@ Dico bene?","也就是說，你希望我們幫你奪回
 전자 머니를 되찾아 줘, 라는 거군요?","Kurz gesagt hätten Sie gerne, dass wir Ihnen
 Ihre seltene Digimon-Medaille zurückholen.
 Stimmt das?"
-"32","4291","","Mi hanno preso anche dei soldi digitali, ma
-quelli non mi interessano! Rivoglio la mia
-medaglia preziosa!","電、電子貨幣一點都不重要！
+"32","4291","","Mi hanno preso anche dei soldi digitali,
+ma quelli non mi interessano!
+Rivoglio la mia medaglia preziosa!","電、電子貨幣一點都不重要！
 只要數碼寶貝獎牌……只要那孩子能平安回來……","","저, 전자 머니는 아무래도 좋아요!
 디지몬 메달만… 그 아이만 무사히 돌아와 준다면…","E-Geld haben sie mir auch welches gestohlen, aber
 das ist mir egal! Ich will nur meine kostbare
 Digimon-Medaille zurück!"
 "33","4291","","Grrrrrr...!","唔唔唔唔唔……","","크으으, 크으으으으으으으으…","Grrrrrr ...!"
 "34","3006","","Accettiamo il caso.
-Terremo conto dei suoi sentimenti, per quanto
-possibile.","你的委託，我承接了，
+Terremo conto dei suoi sentimenti, per quanto possibile.","你的委託，我承接了，
 我會全力以赴回報你的狂熱者心理。","","…의뢰, 받아들이겠습니다
 그 마니아 마음에 보답할 수 있도록, 전력을 다하겠습니다","Wir nehmen den Fall an.
 Wir werden Ihre Gefühle berücksichtigen, soweit
 möglich."
 "35","3006","","Hai fatto attenzione, [p]?","就是這樣……[p]。","","…그런 거다, [p]","Hast du aufgepasst, [p]?"
-"36","3006","","Il colpevole probabilmente non
-mirava alla medaglia. Voleva
-presumibilmente svenderla, se è così rara.","我想犯人應該不是想要獎牌本身，
+"36","3006","","Il colpevole probabilmente non mirava alla medaglia. 
+Voleva presumibilmente svenderla, se è così rara.","我想犯人應該不是想要獎牌本身，
 犯人的目的大概是想用極稀有獎牌來換錢。","","아마도 범인은, 메달 그 자체를 갖고 싶었던 게 아니야
 초레어 메달을 환금하는 게 목적이겠지","Der Täter hatte es wahrscheinlich nicht auf die
 Medaille abgesehen. Er wollte sie vermutlich
 verscherbeln, wenn sie so selten ist."
 "37","3006","","Se non ricordo male, qui a Nakano c'è
-un negozio che commercia in medaglie
-Digimon.","收購數碼寶貝獎牌的店，
+un negozio che commercia in medaglie Digimon.","收購數碼寶貝獎牌的店，
 這個「中野」裡頭應該就有了。","","디지몬 메달을 매매하고 있는 가게는
 이「나카노」에도 있었을 거다","Wenn ich mich recht entsinne, gibt es hier in
 Nakano einen Laden, der mit Digimon-Medaillen
 handelt."
-"38","3006","","Questo sarebbe senz'altro il punto di partenza
-ottimale. Chiedi prima in giro.","先去那裡問問看比較快。
+"38","3006","","Questo sarebbe senz'altro il punto di partenza ottimale.
+Chiedi prima in giro.","先去那裡問問看比較快。
 就麻煩你去打聽了。","","우선 그곳에 찾아가 보는 게 지름길이겠지
 탐문 조사를 부탁한다","Das wäre wohl der optimale Ausgangspunkt.
 Hör dich erst einmal um."
-"39","3006","","Nel frattempo, io mi occuperò di
-rintracciarla in altri modi.","這段期間，我會去調查數碼寶貝獎牌。","","난 그 동안 디지몬 메달에 대해 조사해 두도록 하겠다","Ich befasse mich derweil mit dieser
+"39","3006","","Nel frattempo, io mi occuperò di rintracciarla in altri modi.","這段期間，我會去調查數碼寶貝獎牌。","","난 그 동안 디지몬 메달에 대해 조사해 두도록 하겠다","Ich befasse mich derweil mit dieser
 Digimon-Medaille."
-"40","3006","","Peccato non condivida così tanto questa
-strana passione.","可惜的是，我沒有那種狂熱者心理。","","공교롭게도 난, 그 부류의 마니아 마음은 갖고 있지 않아서 말이야","Zu schade, dass ich diese Leidenschaft nicht in
+"40","3006","","Peccato non condivida così tanto questa strana passione.","可惜的是，我沒有那種狂熱者心理。","","공교롭게도 난, 그 부류의 마니아 마음은 갖고 있지 않아서 말이야","Zu schade, dass ich diese Leidenschaft nicht in
 diesem Maße teile."

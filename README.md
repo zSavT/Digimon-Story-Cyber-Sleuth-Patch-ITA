@@ -91,7 +91,7 @@ Per quanto riguarda i testi relativi ai box dei dialoghi, esistono due tipologie
 
 - "**Classico**"
   - Questa tipologia di box, non occupa tutto lo schermo e può contenere, leggermente meno caratteri.
-  - Lunghezza max: 70 
+  - Lunghezza max: 70 (volendo anche 75 se necessario)
 ![Immagine](./img/EsClassico.png)
 
 In generale **non c'è un vero limite di caratteri**, il gioco non esegue nessun controllo, per testi troppo grandi, semplicemente il testo uscirà fuori dallo schermo. 
@@ -99,12 +99,20 @@ In generale **non c'è un vero limite di caratteri**, il gioco non esegue nessun
 Altri menu sono:
 
 - **Parole Chiave**
-  - la lunghezza **massima è 28 caratteri** per riga. 
+  - la lunghezza **massima è 27 caratteri** per riga. 
+![Immagine](./img/ParolaChiave.jpg)
 
 - **DigiBook**
-  - la lunghezza **massima è 53 caratteri** (54 se inseriamo come ultimo carattere un punto). 
+  - la lunghezza **massima è 50/55 caratteri** (In base all'ampiezza dei caratteri utilizzati). 
 
-Altri menu di gioco, come per esempio le descrizioni degli oggetti, possono essere visualizzati da interfacce differenti con dimensioni differenti, ma il testo originale è lo stesso, quindi non si può precisare la dimensione massima, in questi casi, si segue la formattazione originale. 
+- **Quest Book**
+  - la lunghezza **massima è 50 caratteri** (51 se vogliamo inserire anche un carrattere punto o, se proprio necessario, un ulteriore carattere per non interrompere una parola). 
+![Immagine](./img/Quest.jpg)
+
+Altri menu di gioco, come per esempio le descrizioni degli oggetti, possono essere visualizzati da interfacce differenti con dimensioni differenti, ma il testo originale è lo stesso, quindi non si può precisare la dimensione massima, in questi casi, si segue la formattazione originale.<p>
+**NOTA BENE**
+
+Anche la dimensioni dei singoli caratteri nel font utilizzato può influire sul limite dei caratteri massimi.
 
 ## Modifica delle texture
 

@@ -1,26 +1,24 @@
 ﻿ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
-100,3006,,"Ah, sì, un nuovo caso è stato appena
-presentato all'ufficio, da un Digimon.
-Vorrei che te ne occupassi.","對了，事務所有新的委託進來了。
+100,3006,,"Ah, sì, un nuovo caso è stato appena presentato all'ufficio,
+da un Digimon. Vorrei che te ne occupassi.","對了，事務所有新的委託進來了。
 是一個數碼寶貝委託的，我想請你接下來。",,"그렇지, 사무소에 새로운 의뢰가 와 있었다
 디지몬에게서 온 의뢰다. 네가 담당해줬으면 한다","Ach ja, im Büro ist gerade ein neuer Fall
 von einem Digimon eingetroffen. Ich möchte,
 dass du ihn übernimmst."
-101,3006,,"Questo caso è un po'
-complicato... Deve essere gestito da un umano.","內容有點麻煩……
+101,3006,,"Questo caso è un po' complicato...
+Deve essere gestito da un umano.","內容有點麻煩……
 呃不是，委託內容是以接案者為人類做前提。",,"내용이 조금 귀찮…
 아니, 담당하는 게 인간이 전제라는 의뢰 내용이어서 말이지","Dieser Fall hat es in sich ...
 Ein Mensch muss sich darum kümmern."
-102,3006,,"Sono troppo un Digimon nel cuore, e
-quindi ho deciso che dovresti
-prendertene cura tu.","我本來就是數碼寶貝，
+102,3006,,"Sono troppo un Digimon nel cuore,
+e quindi ho deciso che dovresti prendertene cura tu.","我本來就是數碼寶貝，
 所以才判斷由你接下來比較好。",,"나는 원래는 디지몬이다
 네가 담당하는 편이 좋을 거라고 판단했다","Im Herzen bin ich zu sehr ein Digimon, weshalb
 ich beschlossen habe, dass du ihn
 übernehmen solltest."
 103,3006,,"Puoi scegliere di iniziare quando vuoi.
-Come sempre, controlla la lavagna bianca e
-poi farò venire il cliente per una riunione.","你可以自己安排時間，
+Come sempre, controlla la lavagna bianca e poi farò venire il cliente
+per una riunione.","你可以自己安排時間，
 像平常一樣從白板接下委託就好，
 到時會請委託人過來的。",,"네가 편한 타이밍에 해도 괜찮다
 언제나처럼 화이트보드에서 의뢰를 받아주길 바란다
@@ -28,58 +26,53 @@ poi farò venire il cliente per una riunione.","你可以自己安排時間，
 Schau wie immer auf das Schwarze Brett und dann
 bestelle ich den Klienten für ein Treffen her."
 110,1701,,"Ah, devi essere il detective responsabile.",啊，你就是負責這件委託的偵探大人吧。,,"아, 네가 담당인 탐정님이구나","Ach, du bist wohl der zuständige Detektiv."
-111,1701,,"Quando il muro interdimensionale
-crollò, fui inviato dal Mondo Digitale
-a questo.","我是在次元之壁崩壞時
+111,1701,,"Quando il muro interdimensionale crollò, fui inviato dal Mondo
+Digitale a questo.","我是在次元之壁崩壞時
 從數碼世界被彈飛到這個世界的。",,"나, 차원의 벽이 무너졌을 때
 디지털 월드에서 이 세계로 날려와버렸어","Als die interdimensionale Mauer durchbrochen
 wurde, hat man mich aus der Digitalen Welt in diese
 geschickt."
-112,1701,,"Al momento ci sono Digimon in questo mondo che
-hanno paura, non sanno dove sono e considerano
-gli umani come loro nemici.","現在待在這個世界的數碼寶貝中，
+112,1701,,"Al momento ci sono Digimon in questo mondo che hanno paura,
+non sanno dove sono e considerano gli umani come loro nemici.","現在待在這個世界的數碼寶貝中，
 有些數碼寶貝很害怕，不知道自己的歸處在哪，
 就把人類視為敵人……",,"지금 이 세계에 있는 다른 디지몬들 중에는
 무서운 데다 자신이 있을 곳이 어딘지 알 수 없게 되어버려서
 인간을 적이라고 생각하게 된 디지몬도 있지만……","In dieser Welt befinden sich Digimon, die Angst
 haben, nicht wissen, wo sie sind, und Menschen
 für ihre Feinde halten."
-113,1701,,"Preferirei non vedere gli umani come miei
-nemici. Mi piacerebbe ancora pensare che ci sia un modo in cui
-umani e Digimon possano coesistere pacificamente.","不過我還不想直接斷定人類就是敵人。
+113,1701,,"Preferirei non vedere gli umani come miei nemici.
+Mi piacerebbe ancora pensare che ci sia un modo in cui umani e
+Digimon possano coesistere pacificamente.","不過我還不想直接斷定人類就是敵人。
 我想再思考一下，
 有沒有人類和數碼寶貝可以友好相處的方法。",,"나는 아직 인간을 적이라고 단정짓고 싶지 않아
 인간과 디지몬이 함께 사이좋게 지낼 수 있는 방법이 없을지
 좀 더 생각해보고 싶어","Ich möchte Menschen eher nicht als Feinde
 betrachten. Ich glaube lieber daran, dass Menschen
 und Digimon in Eintracht leben können."
-114,1701,,"Ma non sapevo cosa fare... Così, è stato
-allora che ho sentito parlare di voi e di
-come avete risolto molti problemi per i Digimon.","但我不曉得該怎麼做才好……
+114,1701,,"Ma non sapevo cosa fare... Così, è stato allora che ho sentito
+parlare di voi e di come avete risolto molti problemi per i Digimon.","但我不曉得該怎麼做才好……
 這時我聽到一個傳聞，
 是關於可以解決數碼寶貝煩惱的偵探事務所。",,"하지만 어떻게 해야 좋을지 모르겠어서…
 그러고 있을 때 이런 소문을 들었어
 디지몬의 고민을 들어준다는 탐정사무소 이야기를 말이야","Aber ich wusste nicht, was ich tun sollte ... Dann
 habe ich von euch gehört und dass ihr schon viele
 Probleme für Digimon aus der Welt geschafft habt."
-115,1701,,"Quindi, vorrei esaminarti nel
-dettaglio. Per favore mostrami tutto il
-bene che l'umanità ha da offrire!","所以……我就想貼身採訪你一段時間。
+115,1701,,"Quindi, vorrei esaminarti nel dettaglio.
+Per favore mostrami tutto il bene che l'umanità ha da offrire!","所以……我就想貼身採訪你一段時間。
 希望你讓我看見人類更多美好的一面！",,"그러니까… 나, 당분간 너를 밀착취재하고 싶어
 내게 인간의 좋은 점을 잔뜩 보여줬으면 해!","Deshalb möchte ich dich genau unter die Lupe
 nehmen. Bitte zeig mir all das Gute,
 das die Menschheit zu bieten hat!"
-116,2001,,"Suppongo, se non ho altra
-scelta...
-Okay. Esaminarmi nel dettaglio!?","真拿你沒辦法……
+116,2001,,"Suppongo, se non ho altra scelta... Okay.
+Esaminarmi nel dettaglio!?","真拿你沒辦法……
 好啊。
 貼身！？",,"어쩔 수 없네…
 좋아
 밀착!?","Na gut, wenn ich keine Wahl habe ...
 In Ordnung.
 Mich genau unter die Lupe nehmen?!"
-117,1701,,"Vi ringrazio umilmente! È
-andato tutto bene? Come ringraziamento, intendo...","我還不太懂事，請你多多指教！
+117,1701,,"Vi ringrazio umilmente!
+È andato tutto bene? Come ringraziamento, intendo...","我還不太懂事，請你多多指教！
 打招呼這樣說可以嗎？",,"부족할지도 모르겠지만 잘 부탁드립니다!
 …이걸로 괜찮을까? 인사","Ich danke dir von Herzen!
 War das in Ordnung? Als Dankeschön, meine ich."
@@ -88,42 +81,40 @@ Evviva! Grazie mille!","真的嗎！？　好耶！
 之後請多多指教。",,"정말!? 해냈다아!
 앞으로 잘 부탁해","Wirklich?! Hurra!
 Vielen herzlichen Dank!"
-119,1701,,"Sì! Mangeremo insieme, dormiremo
-insieme... Saremo sempre insieme!
+119,1701,,"Sì! Mangeremo insieme, dormiremo insieme...
+Saremo sempre insieme!
 Sarà fantastico!","嗯！　不管吃飯或睡覺都一直在一起！
 請多多指教了！",,"응! 밥 먹을 때도 잘 때도
 언제나 함께야! 잘 부탁해!","Ja! Wir werden zusammen essen, zusammen schlafen.
 Wir werden ständig zusammen sein!
 Das wird großartig!"
-120,3006,,"[p], scusa se interrompo,
-ma...",[p]，打擾你們一下。,,"[p], 이야기 도중에 미안하다","[p], tut mir leid wegen der Unterbrechung,
+120,3006,,"[p], scusa se interrompo, ma...",[p]，打擾你們一下。,,"[p], 이야기 도중에 미안하다","[p], tut mir leid wegen der Unterbrechung,
 aber ..."
-121,3006,,"So che è improvviso, ma c'è un altro
-caso che vorrei tu prendessi in carico.","事出突然不好意思，
+121,3006,,"So che è improvviso, ma c'è un altro caso che vorrei tu prendessi
+in carico.","事出突然不好意思，
 又有一件希望你接下來的委託了。",,"갑자기 미안하지만 한 건 더
 부탁하고 싶은 의뢰가 생겼다","Ich weiß, es ist plötzlich, aber es gibt da einen
 anderen Fall, den du übernehmen solltest."
-122,3006,,"Sembra che qualcuno sia fuggito senza pagare il
-conto in un ristorante a Shibuya. Lo staff del
-ristorante chiede aiuto per rintracciare il colpevole.","涉谷好像發生了有人吃霸王餐的騷動，
+122,3006,,"Sembra che qualcuno sia fuggito senza pagare il conto in un
+ristorante a Shibuya. Lo staff del ristorante chiede aiuto per
+rintracciare il colpevole.","涉谷好像發生了有人吃霸王餐的騷動，
 店員在找人幫忙抓出犯人。",,"시부야에서 무전취식 소동이 발생한 듯하다
 범인을 찾아낼 단서를 점원이 원하고 있어","In einem Restaurant in Shibuya hat jemand
 anscheinend die Zeche geprellt. Die Angestellten
 bitten um Hilfe, den Täter zu finden."
-123,3006,,"È passato un po' di tempo dall'ultimo caso adatto
-a un detective. Per favore, occupati anche di questo.","好久沒有這種偵探類型的委託進來了呢。
+123,3006,,"È passato un po' di tempo dall'ultimo caso adatto a un detective.
+Per favore, occupati anche di questo.","好久沒有這種偵探類型的委託進來了呢。
 這邊的委託也一併麻煩你了。",,"오랜만에 탐정다운 의뢰가 들어왔군
 이 의뢰도 겸해서 부탁하도록 하지","Wir hatten schon länger keinen richtigen Fall für
 einen Detektiv. Bitte kümmere dich auch um diesen."
-151,3006,,"Un membro dello staff del ristorante ha inviato una
-richiesta urgente. In ogni caso, ti prego di rintracciare
-l'autore del misfatto per lei.","餐飲店員有個急件委託。
+151,3006,,"Un membro dello staff del ristorante ha inviato una richiesta urgente.
+In ogni caso, ti prego di rintracciare l'autore del misfatto per lei.","餐飲店員有個急件委託。
 好像是要找出吃霸王餐的犯人。",,"음식점 점원에게서 급한 의뢰가 들어왔다
 대략 무전취식범을 찾아달라는 내용이다","Eine Angestellte aus dem Restaurant hat eine
 dringende Anfrage geschickt. Bitte finde
 den Täter für sie."
-152,3006,,"È passato un po' di tempo dall'ultima volta che abbiamo avuto un
-caso adatto a un detective. Per favore, prendi anche questo.","好久沒有這種偵探類型的委託進來了呢。
+152,3006,,"È passato un po' di tempo dall'ultima volta che abbiamo avuto un caso
+adatto a un detective. Per favore, prendi anche questo.","好久沒有這種偵探類型的委託進來了呢。
 這邊的委託也一併麻煩你了。",,"오랜만에 탐정다운 의뢰가 들어왔군
 이 의뢰도 같이 부탁하도록 하지","Wir hatten schon länger keinen richtigen Fall für
 einen Detektiv. Bitte übernimm auch diesen."
@@ -131,38 +122,36 @@ einen Detektiv. Bitte übernimm auch diesen."
 Prego, da questa parte!",啊，你就是偵探大人嗎？　這裡這裡！,,"아, 탐정님인가요? 이쪽이에요, 이쪽!","Ach, du bist der Detektiv, nicht wahr?
 Bitte, hier entlang!"
 202,4954,,"Ho inviato la richiesta, lavoro al bar.
-Per favore, ho bisogno del tuo aiuto per rintracciare e
-arrestare questo criminale che è scappato senza pagare!","我是到事務所發出委託的咖啡店員。
+Per favore, ho bisogno del tuo aiuto per rintracciare e arrestare
+questo criminale che è scappato senza pagare!","我是到事務所發出委託的咖啡店員。
 請你務必協助我逮捕吃霸王餐的犯人！",,"제가 사무소에 의뢰한 찻집 점원입니다
 부디 무전취식범 체포에 협력해 주세요!","Ich arbeite im Café und habe die Anfrage
 geschickt. Ich brauche deine Hilfe, den Verbrecher
 zu finden, der seine Rechnung nicht bezahlt hat!"
 203,4954,,"Oggi pomeriggio, intorno alle 14:00,
-un cliente si è alzato e se n'è andato
-senza pagare il conto.",其實剛才下午2點左右，有人吃完東西沒付錢就逃跑。,,실은 조금 전 14시 경에 무전취식 사건이 일어났어요,"Heute Nachmittag, gegen 14 Uhr, ist ein Gast
+un cliente si è alzato e se n'è andato senza pagare il conto.",其實剛才下午2點左右，有人吃完東西沒付錢就逃跑。,,실은 조금 전 14시 경에 무전취식 사건이 일어났어요,"Heute Nachmittag, gegen 14 Uhr, ist ein Gast
 plötzlich aufgestanden und gegangen, ohne für
 das Essen zu zahlen."
-204,4954,,"Ero qui nel bar con mio marito. Come
-al solito, io mi occupavo dei clienti e
-mio marito cucinava.","我跟我先生在這裡開店。
+204,4954,,"Ero qui nel bar con mio marito. Come al solito,
+io mi occupavo dei clienti e mio marito cucinava.","我跟我先生在這裡開店。
 今天跟平常一樣，我招呼客人，
 我先生負責料理食物。",,"저는 여기서 남편과 가게를 하고 있는데
 오늘도 언제나처럼 제가 손님 접대,
 남편이 요리를 하고 있었습니다","Ich war gerade mit meinem Mann hier im Café.
 Wie sonst auch kümmerte ich mich um die Kunden
 und mein Mann kochte."
-205,4954,,"Poi, credo che fossero circa le due meno cinque, sono
-uscita dalla porta sul retro per andare a
-telefonare al mio amico e ho lasciato mio marito a gestire il bar.","然後大概是在下午2點5分前吧？
+205,4954,,"Poi, credo che fossero circa le due meno cinque,
+sono uscita dalla porta sul retro per andare a telefonare al mio amico
+e ho lasciato mio marito a gestire il bar.","然後大概是在下午2點5分前吧？
 我想打電話給朋友，就把店交給我先生顧，
 走去店的後門那邊。",,"그리고 14시 5분 전쯤이었을까요?
 친구에게 전화를 하러 남편에게 가게를 맡기고
 가게 뒷문으로 갔어요","Gegen fünf vor zwei ging ich zur Hintertür, um
 meine Freundin anzurufen. In der
 Zwischenzeit kümmerte mein Mann sich um das Café."
-206,4954,,"Mentre ero al telefono ho sentito una voce gridare da
-dentro il bar ""È un furto con
-fuga!,"" così ho subito riattaccato e sono tornato nel bar.","我正在講電話的時候，
+206,4954,,"Mentre ero al telefono ho sentito una voce gridare da dentro il bar
+""È un furto con fuga!,"" così ho subito riattaccato e sono tornato
+nel bar.","我正在講電話的時候，
 突然聽到店裡傳來「有人沒付錢就跑了！」。
 於是我急忙講完電話跑回店裡。",,"전화를 하던 중
 가게 안에서「무전취식이다!」라는 목소리가 들려서
@@ -174,8 +163,8 @@ Era corso fuori dal bar dietro al criminale.","回去一看……我先生人不
 好像是追出去抓犯人了。",,"그랬더니… 남편이 없어져 있었어요
 아무래도 범인을 쫓아 가게를 나간 것 같아요","Als ich drinnen war, war mein Mann verschwunden.
 Er war dem Verbrecher hinterhergelaufen."
-208,4954,,"Prima di uscire per rispondere al telefono c'erano più di
-20 clienti al bar, ma...","在我去打電話之前
+208,4954,,"Prima di uscire per rispondere al telefono c'erano più di 20 clienti
+al bar, ma...","在我去打電話之前
 店裡明明有20個客人……",,"제가 전화를 하러 가기 전에는
 가게 안에 20명 정도 손님이 있었는데…","Bevor ich telefonieren ging, waren etwa 20 Kunden
 im Café, aber ..."
@@ -185,22 +174,22 @@ quattro clienti erano spariti!","結果等我聽到叫聲回來店裡，
 손님이 4명 줄어 있었어요!","Als ich den Ruf hörte und zurückkam, waren vier
 der Kunden plötzlich weg!"
 210,4954,,"Come pensavo, mio marito aveva inseguito il criminale,
-ho affidato il bar a un cliente abituale che
-conoscevo e sono uscita a cercare i clienti scomparsi.","我心想我先生應該是去追犯人了，
+ho affidato il bar a un cliente abituale che conoscevo e sono uscita
+a cercare i clienti scomparsi.","我心想我先生應該是去追犯人了，
 所以就請熟客幫忙顧一下店，
 自己也出去找那消失的4個客人。",,"남편이 범인을 쫓아갔다고 생각해서
 저도 친한 단골손님에게 가게를 맡기고
 사라진 4명의 손님을 찾으러 갔습니다","Da ich dachte, dass mein Mann den Täter verfolgte,
 passte ein Stammgast auf das Café auf,
 während ich nach den fehlenden Kunden suchte."
-211,1701,,"Wow, sei riuscito a trovare i quattro
-clienti scomparsi in così poco tempo?","好厲害，妳真的在這麼短時間內找到了
+211,1701,,"Wow, sei riuscito a trovare i quattro clienti scomparsi in così poco
+tempo?","好厲害，妳真的在這麼短時間內找到了
 從店裡消失的4個人嗎？",,"굉장해, 이렇게 짧은 시간 안에 가게에서 없어진 4명을
 찾아낸 거야?","Wow, hast du es geschafft, in so kurzer Zeit die
 vier fehlenden Kunden zu finden?"
 212,4954,,"Onestamente, sono stato solo fortunato...",其實真的很偶然。,,정말 우연이었지만요,Das war pures Glück ...
-213,4954,,"La fuga dal ristorante è avvenuta circa cinque minuti dopo
-che sono uscito dal retro per fare la telefonata.
+213,4954,,"La fuga dal ristorante è avvenuta circa cinque minuti dopo che sono
+uscito dal retro per fare la telefonata.
 Questi clienti devono essere andati via durante quel periodo.","從我去後門打電話
 到犯人逃走的這段時間大約有5分鐘……
 這幾個人的確就是那消失的4個人。",,"제가 전화를 하러 가게 뒤로 갔을 때부터
@@ -208,9 +197,8 @@ Questi clienti devono essere andati via durante quel periodo.","從我去後門�
 분명 이 사람들이 그 사이에 사라진 4명입니다","Die Zechprellerei passierte fünf Minuten, nachdem
 ich zur Hintertür ging, um zu telefonieren.
 In der Zeit müssen die Kunden gegangen sein."
-214,4954,,"Sono bravo a ricordare i volti, è una specie di
-talento mio. Ammettono persino che erano
-tutti nel caffè.","我很擅長記住客人的臉，所以不會出錯。
+214,4954,,"Sono bravo a ricordare i volti, è una specie di talento mio.
+Ammettono persino che erano tutti nel caffè.","我很擅長記住客人的臉，所以不會出錯。
 而且這4人也都承認他們之前在店裡。",,"저는 손님들의 얼굴을 기억하는 게 특기니까 틀림없어요
 게다가 가게에 있었던 건 4명 모두 인정하고 있고요","Ich erinnere mich gut an Gesichter. Das ist mein
 Talent. Sie geben sogar alle zu, dass sie im
@@ -235,9 +223,8 @@ Gli altri tre non hanno motivo di mentire.","一定只有犯人會說謊，
 다른 3명이 거짓말을 할 메리트는 없으니까요","Sicher lügt nur der Täter. Die anderen drei
 haben keinen Grund zu lügen."
 218,4954,,"Per favore, indaga sul crimine.",那就拜託你調查了。,,그럼 조사 잘 부탁드려요,Bitte stelle Nachforschungen zu der Tat an.
-251,4077,,"Sono stato io a urlare ""Fanno un
-filone!"" Il proprietario del caffè che mi ha
-sentito è corso dietro al criminale.","我看到有人沒付錢就離開店裡，
+251,4077,,"Sono stato io a urlare ""Fanno un filone!""
+Il proprietario del caffè che mi ha sentito è corso dietro al criminale.","我看到有人沒付錢就離開店裡，
 之後就大叫「有人沒付錢就跑了！」。
 聽到這句話的男店員便追了出去。",,"돈을 지불하지 않고 가게를 나간 녀석을 보고
 「무전취식이다!」라고 외친 건 나야
@@ -245,71 +232,69 @@ sentito è corso dietro al criminale.","我看到有人沒付錢就離開店裡�
 Der Café-Besitzer hat mich gehört und
 ist dem Täter hinterhergelaufen."
 252,4077,,"Ero curioso del cliente che scappa senza pagare,
-quindi dopo sono andato dritto al bancone, ho
-posato i soldi lì e poi sono andato via.","我也很在意那個吃霸王餐的犯人，
+quindi dopo sono andato dritto al bancone,
+ho posato i soldi lì e poi sono andato via.","我也很在意那個吃霸王餐的犯人，
 之後就立刻把錢放在櫃臺跟著出去了。",,"나도 무전취식범이 신경 쓰여서 그 후 바로
 카운터에 돈을 놓고 나왔어","Ich war neugierig, was den Täter anging, also bin
 ich direkt zur Theke gegangen, habe Geld
 hingelegt und bin dann gegangen."
-253,4077,,"Sono riuscito a vedere il criminale solo da dietro. Era
-una donna. Ho provato a correre anche io dopo di lei, ma
-ho perso di vista sia il cameriere che il criminale.","我有看到一點犯人的背影，是個女的。
+253,4077,,"Sono riuscito a vedere il criminale solo da dietro.
+Era una donna. Ho provato a correre anche io dopo di lei,
+ma ho perso di vista sia il cameriere che il criminale.","我有看到一點犯人的背影，是個女的。
 我稍微追了一下，但最後店員跟犯人都追丟了。",,"범인은 뒷모습만 살짝 봤네. 그건 여자였어
 나도 가볍게 쫓아가 봤지만 점원도 범인도 놓쳐버렸지","Ich habe den Täter nur von hinten gesehen. Es war
 eine Frau. Ich wollte hinterher, aber ich verlor
 den Kellner und die Täterin aus den Augen."
-261,4078,,"C'era un'altra persona di nome Yotsuya che se n'è andata
-all'incirca nello stesso momento in cui me ne sono andato io.","那位四谷小姐
+261,4078,,"C'era un'altra persona di nome Yotsuya che se n'è andata all'incirca
+nello stesso momento in cui me ne sono andato io.","那位四谷小姐
 是跟我同一時間離開店裡的。",,"저기 있는 요츠야 씨라는 분이
 나랑 거의 같은 타이밍에 가게를 나왔어","Eine andere Person, mit den Namen Yotsuya, ist
 etwa zur gleichen Zeit wie ich gegangen."
 262,4078,,"Nessuno dietro la cassa, quindi non sapevo dove lasciare i miei soldi,
-ma lei li ha lasciati vicino al registratore di cassa quindi
-l'ho fatto anch'io, poi l'ho seguita fuori dal bar.","店員都不在，我不知道該把錢放在哪，
+ma lei li ha lasciati vicino al registratore di cassa quindi l'ho
+fatto anch'io, poi l'ho seguita fuori dal bar.","店員都不在，我不知道該把錢放在哪，
 結果就看到她把錢放在收銀台旁邊，
 於是我也照做，跟在她之後離開了店裡。",,"점원이 없어져서 돈을 어디에 둬야 하나 당황하고 있었더니
 그녀가 포스기 옆에 돈을 두고 가길래
 나도 그렇게 하고 그녀를 따라 가게를 나왔어","Niemand war an der Kasse, aber sie ließ das Geld
 daneben liegen, also machte ich das auch
 und folgte ihr dann aus dem Café."
-263,4078,,"Ho anche sentito qualcuno urlare qualcosa su un
-furto di cibo, ma non so chi. Sembrava la voce
-di un uomo. Un uomo, che urlava una volta.","我也有聽到「有人沒付錢就跑了！」的大叫聲。
+263,4078,,"Ho anche sentito qualcuno urlare qualcosa su un furto di cibo,
+ma non so chi. Sembrava la voce di un uomo. Un uomo, che urlava
+una volta.","我也有聽到「有人沒付錢就跑了！」的大叫聲。
 不知道是誰叫的，不過是男人的聲音。
 我聽到的只有那個男人大叫的聲音，而且只叫了一次。",,"「무전취식이다!」라는 고함은 나도 들었어
 누구인지 모르겠지만 남자 목소리였어
 들린 건 1명의 목소리고 한 번뿐이었어","Ich habe gehört, wie jemand wegen der geprellten
 Zeche rief, aber ich weiß nicht, wer es war.
 Es klang wie ein Mann. Er rief einmal."
-271,4079,,"Ni...Nishio non è la criminale! Lei è una...una
-donna bellissima. Mi sono innamorato di lei non appena
-l'ho vista per la prima volta e...e...","那、那、那位西尾小姐不是犯人！
+271,4079,,"Ni...Nishio non è la criminale! Lei è una...una donna bellissima.
+Mi sono innamorato di lei non appena l'ho vista per la prima volta
+e...e...","那、那、那位西尾小姐不是犯人！
 因為她人這麼漂亮，我、我第一次對人一見鍾情……",,"저, 저… 저기 있는 니시오 씨라는 사람은 범인이 아닙니다!
 왜냐하면 예쁘고, 내, 내가 처음으로 한눈에 반한 사람이고","Ni-Nishio war es nicht! Sie ist eine ... eine
 schöne Frau. Ich habe mich auf den ersten Blick
 in sie verliebt und ... und ..."
-272,4079,,"Ho passato tutta la mia pausa pranzo a mangiare un curry
-piccante economico e a fissarla, ma dopo che qualcuno
-ha urlato ""Scappa senza pagare!"" Nishio ha lasciato il bar.","我吃著超辣咖哩銅板午餐，從頭到尾都只看著她。
+272,4079,,"Ho passato tutta la mia pausa pranzo a mangiare un curry piccante
+economico e a fissarla, ma dopo che qualcuno ha urlato
+""Scappa senza pagare!"" Nishio ha lasciato il bar.","我吃著超辣咖哩銅板午餐，從頭到尾都只看著她。
 西尾小姐是在「有人沒付錢就跑了！」的聲音響起之後
 才離開店裡的。",,"그리고 원코인 엄청 매운맛 카레 런치를 먹으면서
 그녀만 계속 보고 있었는데, 니시오 씨는
 「무전취식이다!」라는 소리가 난 후에 가게를 나갔어요","Ich habe sie die ganze Mittagspause über mein
 Curry angestarrt, aber als jemand wegen der
 Zechprellerei rief, verließ Nishio das Café."
-273,4079,,"Il criminale ovviamente è scappato dal
-caffè prima delle urla!",犯人是在那個聲音響起前就離開店裡了嘛！,,범인은 그 소리가 나기 전에 가게를 나갔고요!,"Der Täter ist natürlich aus dem Café gerannt,
+273,4079,,"Il criminale ovviamente è scappato dal caffè prima delle urla!",犯人是在那個聲音響起前就離開店裡了嘛！,,범인은 그 소리가 나기 전에 가게를 나갔고요!,"Der Täter ist natürlich aus dem Café gerannt,
 bevor die Person das rief!"
-281,4080,,"La fuga dal ristorante è avvenuta esattamente alle 14:00,
-giusto? A quell'ora avevo quasi finito e mi ero
-alzato per andare alla toilette.","吃霸王餐的犯人是在下午2點整左右逃走的吧？
+281,4080,,"La fuga dal ristorante è avvenuta esattamente alle 14:00, giusto?
+A quell'ora avevo quasi finito e mi ero alzato per andare alla toilette.","吃霸王餐的犯人是在下午2點整左右逃走的吧？
 那時我差不多吃完了，正在店裡上廁所。",,"무전취식범이 도망간 게 14시 정각 즈음이잖아?
 그 때 나는 거의 다 먹고 가게 안에 있는 화장실에 갔었어","Die Zechprellerei geschah genau um 14 Uhr, oder?
 Da war ich fast fertig mit essen und war
 auf dem Weg zur Toilette."
-282,4080,,"Sono tornato e ho sentito ""È una fuga senza pagare!""
-e c'era trambusto nel bar... Non aveva niente a che fare con
-me, quindi ho lasciato i soldi e sono andato via.","結果一回來就聽到「有人沒付錢就跑了！」的聲音。
+282,4080,,"Sono tornato e ho sentito ""È una fuga senza pagare!"" e
+c'era trambusto nel bar... Non aveva niente a che fare con me,
+quindi ho lasciato i soldi e sono andato via.","結果一回來就聽到「有人沒付錢就跑了！」的聲音。
 店裡一陣譁然……不過因為跟我沒關係，
 所以我也沒有特別在意，把錢放著就離開店裡了。",,"돌아왔더니「무전취식이다!」라는 목소리가 들리고
 가게 안이 시끄러워서… 하지만 나랑은 관계 없으니까
@@ -319,20 +304,18 @@ mir zu tun, also zahlte ich und ging."
 283,4080,,"Sì, la voce che gridava era decisamente quella del cameriere.","對了對了，
 那個叫聲是負責料理的男店員聲音沒錯。",,"참, 그렇지
 소리친 건 요리를 했던 남자 점원 목소리가 틀림없어","Ja, es war definitiv der Kellner, der das rief."
-291,1701,,"Uh... be', ora sono un po'
-confuso... È difficile per me seguire...","嗯～腦袋好像一團混亂……
+291,1701,,"Uh... be', ora sono un po' confuso...
+È difficile per me seguire...","嗯～腦袋好像一團混亂……
 找出犯人對我來說可能有點難。",,"음―, 왠지 머리가 복잡해졌어…
 나한텐 좀 어려울지도 모르겠네","Ah ... Jetzt bin ich etwas verwirrt ...
 Es ist schwer für mich, das nachzuvollziehen ..."
-292,1701,,"Però, quando non capisci qualcosa, ti
-basta sentirla più volte e prenderne
-nota, immagino.","不過不懂的時候，
+292,1701,,"Però, quando non capisci qualcosa,
+ti basta sentirla più volte e prenderne nota, immagino.","不過不懂的時候，
 只要多聽幾次記錄下來就好了。",,"하지만 말야, 모르겠을 때는 몇 번이든 이야기를 듣고
 그걸 메모하면 된다고 생각해","Aber immer, wenn du etwas nicht verstehst, musst
 du es mehrmals hören und dir eine Notiz machen,
 würde ich sagen."
-293,1701,,"Dobbiamo trovare le due persone
-le cui storie non corrispondono.","仔細聽聽看，
+293,1701,,"Dobbiamo trovare le due persone le cui storie non corrispondono.","仔細聽聽看，
 有沒有誰的描述跟其他人都不同？",,"하는 말이 다른 사람과 다른 사람이 없는지
 잘 들어보자","Wir müssen darauf achten, welche Geschichten
 von zwei Leuten nicht übereinstimmen."
@@ -344,11 +327,11 @@ Sì, lo so.","不知道。
 知道了。",,"모르겠어
 알았어","Nein, ich weiß es nicht.
 Ja, ich weiß es."
-303,4954,,"Capisco. In quel caso, per favore vai a raccogliere informazioni
-da quelle quattro persone.",這樣啊，那就再從這4個人口中收集情報吧。,,그렇군요. 그럼 다시 4명에게서 정보를 모아보세요,"Verstehe. Dann sammle bitte Informationen von
+303,4954,,"Capisco. In quel caso, per favore vai a raccogliere informazioni da
+quelle quattro persone.",這樣啊，那就再從這4個人口中收集情報吧。,,그렇군요. 그럼 다시 4명에게서 정보를 모아보세요,"Verstehe. Dann sammle bitte Informationen von
 den vier Personen."
-304,4954,,"Però, mi chiedo davvero dove diavolo sia mio
-marito. Seriamente...","不過話說回來，
+304,4954,,"Però, mi chiedo davvero dove diavolo sia mio marito.
+Seriamente...","不過話說回來，
 那人到底是找到哪裡去了啊，真是的……",,"그건 그렇고 그 사람은
 대체 어디까지 찾으러 간 걸까요, 정말…","Aber ich frage mich wirklich, wo mein Mann ist.
 Ganz im Ernst ..."
@@ -371,17 +354,16 @@ Nishio.
 Sanpei.
 Yotsuya.
 Lass mich noch etwas überlegen."
-308,4954,,"Capisco. In tal caso, per favore vai a raccogliere informazioni
-da quelle quattro persone.",這樣啊，那就再從這4個人口中收集情報吧。,,그렇군요. 그럼 다시 4명에게서 정보를 모아보세요,"Verstehe. Dann sammle bitte Informationen von
+308,4954,,"Capisco. In tal caso, per favore vai a raccogliere informazioni da
+quelle quattro persone.",這樣啊，那就再從這4個人口中收集情報吧。,,그렇군요. 그럼 다시 4명에게서 정보를 모아보세요,"Verstehe. Dann sammle bitte Informationen von
 den vier Personen."
-309,4954,,"Comunque, mi chiedo davvero dove diavolo sia mio
-marito. Seriamente...","不過話說回來，
+309,4954,,"Comunque, mi chiedo davvero dove diavolo sia mio marito.
+Seriamente...","不過話說回來，
 那人到底是找到哪裡去了啊，真是的……",,"그건 그렇고 그 사람은
 대체 어디까지 찾으러 간 걸까요, 정말…","Aber ich frage mich wirklich, wo mein Mann ist.
 Ganz im Ernst ..."
 310,1701,,...,…………,,…………,...
-311,1701,,"Beh, [p], è strano perché credo di
-avere un'intuizione su chi potrebbe
+311,1701,,"Beh, [p], è strano perché credo di avere un'intuizione su chi potrebbe
 essere, hmm... Penso...","[p]，
 我好像知道犯人是誰，
 應該不是那個人吧？",,"있지, [p]
@@ -392,18 +374,16 @@ Hmm ... Ich glaube ..."
 312,1701,,Il criminale è...Ichihara!,犯人是……市原！,,범인은… 이치하라 씨야!,Der Täter ist ... Ichihara!
 313,4077,,...Eh? Perché io!?,啊？　為什麼是我啊！？,,……하아? 왜 나인데!?,... Was? Warum ich?!
 314,4077,,...Eh? Perché io!?,啊？　為什麼是我啊！？,,……하아? 왜 나인데!?,... Was? Warum ich?!
-315,1701,,"Lo sapevo! Anch'io pensavo che fosse lui,
-[p]!",原來如此 ，我也知道了哦，[p]！,,"그렇구나. 나도 알겠어, [p]!","Ich wusste es! Darauf hätte ich auch getippt,
+315,1701,,"Lo sapevo! Anch'io pensavo che fosse lui, [p]!",原來如此 ，我也知道了哦，[p]！,,"그렇구나. 나도 알겠어, [p]!","Ich wusste es! Darauf hätte ich auch getippt,
 [p]!"
-316,4077,,"Cosa!? Non ho mai fatto una cosa del genere! Se
-pensi che io sia il criminale, sentiamo
-la tua spiegazione!","到底是怎麼回事，我才沒有做好不好！
+316,4077,,"Cosa!? Non ho mai fatto una cosa del genere!
+Se pensi che io sia il criminale, sentiamo la tua spiegazione!","到底是怎麼回事，我才沒有做好不好！
 你要指稱我是犯人的話，最好能夠合理說服我。",,"뭐라는 거야, 나는 안 했다니까!
 내가 범인이라고 하고 싶으면 납득이 가는 설명을 해줘","Was?! Ich habe nichts Derartiges getan! Wenn du
 mich für den Täter hältst, möchte ich die
 Erklärung hören!"
-317,1701,,"Bene, vediamo... Dei quattro clienti, due delle
-loro storie decisamente non corrispondevano.","那是因為……
+317,1701,,"Bene, vediamo... Dei quattro clienti, due delle loro storie decisamente
+non corrispondevano.","那是因為……
 在4個人當中，有2個人的證詞是互相衝突的。",,"그러니까 말이지, 그건…
 4명 중 2명의 증언이 결정적으로 다르기 때문이야","Also ... Von den vier Kunden stimmen zwei der
 Geschichten definitiv nicht überein."
@@ -418,69 +398,63 @@ L'amore di Sanpei per Nishio è reale?","女店員是否真的有講電話？
 Hat der Kellner gerufen oder war es Ichihara?
 Ist Sanpeis Liebe zu Nishio echt?"
 320,1701,,Beh...ma importa davvero?,呃……那件事應該無所謂吧？,,저기… 그건 아무래도 좋지 않아?,Aber ... Spielt das überhaupt eine Rolle?
-321,1701,,"In ogni caso, sembra essere vero che la cameriera è
-stata fuori dal bar per cinque minuti.","總之，女店員離開店裡5分鐘
+321,1701,,"In ogni caso, sembra essere vero che la cameriera è stata fuori
+dal bar per cinque minuti.","總之，女店員離開店裡5分鐘
 好像是真的。",,"어쨌든, 여점원님이 가게를 5분 비웠다는 건
 정말인 것 같고 말이지","Es stimmt auf jeden Fall, dass die Kellnerin fünf
 Minuten lang nicht im Café war."
-322,1701,,"Sì, ben fatto! Proprio quello che mi
-aspettavo da te, [p]!","嗯！　對，沒錯！
+322,1701,,"Sì, ben fatto! Proprio quello che mi aspettavo da te, [p]!","嗯！　對，沒錯！
 不愧是[p]！",,"응! 맞아, 그거야!
 역시 [p]구나!","Ja, gute Arbeit! Ich hatte nichts anderes von dir
 erwartet, [p]!"
 323,1701,,Eh? Cosa? Fai sul serio?,咦？　你說那句話是認真的嗎？,,"뭐? 잠깐, 그거 진심으로 하는 말이야?","Was? Äh, meinst du das ernst?"
-324,4079,,"Ma certo! In tutti i miei 32 anni sulla Terra
-non mi sono mai innamorato di una
-donna vera...","當然是真愛！　雖然我活了32年……
+324,4079,,"Ma certo! In tutti i miei 32 anni sulla Terra non mi sono mai
+innamorato di una donna vera...","當然是真愛！　雖然我活了32年……
 到現在還沒愛上過現實生活中的女性……",,"물론 중의 물론! 태어나서 지금까지 32년 동안…
 현실의 여성에게 사랑 같은 걸 해본 적은 없었습니다만…","Natürlich! In all meinen 32 Jahren auf der Erde
 habe ich mich nie in eine echte Frau
 verliebt ..."
-325,1701,,"Uffa, state zitti!! Tornate al punto! Dai,
-[p]!","停停停——！　回到事件上啦！
+325,1701,,"Uffa, state zitti!! Tornate al punto! Dai, [p]!","停停停——！　回到事件上啦！
 [p]你真是的……",,"스톱 스톱! 이야기를 사건으로 되돌리자고!
 정말이지, [p]도 참…","Argh, sei still! Komm zum Punkt!
 Los, [p]!"
-326,1701,,"Tra le quattro persone, ci sono testimonianze
-contraddittorie... Chi ha gridato davvero ""Fanno
-il filone""? È stato il cameriere o Ichihara?","4個人當中，有決定性差異的證詞……
+326,1701,,"Tra le quattro persone, ci sono testimonianze contraddittorie...
+Chi ha gridato davvero ""Fanno il filone""? È stato il cameriere o
+Ichihara?","4個人當中，有決定性差異的證詞……
 就是大叫「有人沒付錢就跑了！」的人
 到底是市原還是男店員。",,"4명 중 결정적으로 다른 증언…
 「무전취식이다!」라고 외친 건
 이치하라 씨 아니면 남점원님이라는 이야기야","Die vier Leute widersprechen sich ... Wer rief
 wirklich „Ein Zechpreller!“?
 War es der Kellner oder Ichihara?"
-327,1701,,"In quel caso, conosceresti bene la voce di tuo
-marito, visto che la senti di continuo, giusto?","順便問一下女店員小姐，
+327,1701,,"In quel caso, conosceresti bene la voce di tuo marito,
+visto che la senti di continuo, giusto?","順便問一下女店員小姐，
 如果是平常聽慣的男店員先生聲音，可以馬上認出來嗎？",,"그런데 여점원님은
 언제나 듣는 남점원님의 목소리라면 바로 알아들을 수 있어?","Die Stimme deines Mannes würdest du doch genau
 kennen, da du sie ständig hörst, nicht wahr?"
-328,4954,,"Mi dispiace, ho appena sentito una voce forte
-gridare all'improvviso. Non riesco a ricordare
-se fosse di mio marito oppure no.","對不起，當時突然很大聲我嚇了一跳，
+328,4954,,"Mi dispiace, ho appena sentito una voce forte gridare all'improvviso.
+Non riesco a ricordare se fosse di mio marito oppure no.","對不起，當時突然很大聲我嚇了一跳，
 所以不確定到底是不是我先生的聲音。",,"미안해요, 갑작스런 큰 소리에 놀랐어서
 남편의 목소리였는지는 잘 모르겠어요","Tut mir leid, ich habe bloß plötzlich eine laute
 Stimme gehört. Ich weiß nicht mehr, ob es die
 von meinem Mann war oder nicht."
 329,1701,,Oh... Capisco...,這樣啊……,,그렇구나…,Ach so ... Verstehe ...
-330,1701,,"In ogni caso, non è strano che Ichihara abbia detto di
-essere stato lui a gridare, mentre Yotsuya ha
-affermato che era il cameriere?","總之，市原先生說是「自己大叫」，
+330,1701,,"In ogni caso, non è strano che Ichihara abbia detto di essere stato
+lui a gridare, mentre Yotsuya ha affermato che era il cameriere?","總之，市原先生說是「自己大叫」，
 但西尾小姐卻斷言是「男店員的聲音」，
 這樣不是很奇怪嗎？",,"어쨌든 이치하라 씨가「내가 외쳤다」라고 하는데
 요츠야 씨는「남점원님의 목소리」라고 단언하는 건
 이상하잖아?","Aber ist es nicht seltsam, dass Ichihara sagt, er
 hätte gerufen, wenn Yotsuya behauptet,
 es war der Kellner?"
-331,1701,,"Quindi questo deve significare che uno di loro sta
-mentendo! Il che significa che uno di loro è
-probabilmente il criminale, giusto?","這代表有一方在說謊！
+331,1701,,"Quindi questo deve significare che uno di loro sta mentendo!
+Il che significa che uno di loro è probabilmente il criminale, giusto?","這代表有一方在說謊！
 換句話說，犯人就是他們其中一個對吧？",,"이건 한쪽이 거짓말을 하고 있는 거야!
 즉, 둘 중 하나가 범인이라는 거지?","Einer von ihnen muss also lügen! Was bedeutet,
 dass einer von ihnen wahrscheinlich der
 Täter ist, richtig?"
-332,4077,,"Aspetta...ma allora, perché stai accusando
-me e non quella donna Yotsuya?","啊……那為什麼犯人
+332,4077,,"Aspetta...ma allora, perché stai accusando me
+e non quella donna Yotsuya?","啊……那為什麼犯人
 不是那個叫四谷的女人而是我？",,"아―… 그러니까 말야, 왜 저 요츠야라는 여자가 아니라
 내가 범인이라는 거야?","Moment ... Warum werde ich beschuldigt,
 aber nicht Frau Yotsuya?"
@@ -489,8 +463,8 @@ aber nicht Frau Yotsuya?"
 [p]，你知道嗎？",,"그건… 그러니까 말이지
 …[p], 알겠어?","Nun ja, hm, also ...
 [p], weißt du das?"
-334,2001,,"La testimonianza di Nishio e Sanpei deve essere
-corretta. Nishio e Sanpei devono essere innamorati.
+334,2001,,"La testimonianza di Nishio e Sanpei deve essere corretta.
+Nishio e Sanpei devono essere innamorati.
 ...No, no, Terriermon, non lasciare che ti fermi!","因為西尾和三平的證詞一定是正確的。
 因為西尾和三平一定會兩情相悅。
 大耳獸，關鍵之處不要叫別人幫你！",,"필연적으로 니시오와 산페이의 증언이 옳다는 게 돼
@@ -498,8 +472,8 @@ corretta. Nishio e Sanpei devono essere innamorati.
 …테리어몬, 중요한 곳을 다른 사람에게 떠맡기지 마!","Nishio und Sanpei müssen die Wahrheit sagen.
 Nishio und Sanpei müssen verliebt sein.
 ... Nein, nein, Terriermon, mach weiter!"
-335,1701,,"Sì! Esatto
-[p]! Hehe, sei davvero qualcosa!","對！　沒錯，[p]！
+335,1701,,"Sì! Esatto m[p]!
+Hehe, sei davvero qualcosa!","對！　沒錯，[p]！
 嘿嘿嘿……[p]你果然很厲害。",,"맞아! 그거야, [p]!
 에헤헤… 역시 [p]는(은) 굉장하네에","Ja! Genau, [p]!
 Hehe, du bist wirklich gut!"
@@ -508,8 +482,8 @@ Prendi questa cosa seriamente!","喂，[p]！
 不可以亂開玩笑啦！　認真想一下！",,"잠깐, [p]!
 농담하는 건 그만해! 진지하게 생각해줘!","[p], hör auf rumzualbern!
 Nimm das mal ernst!"
-337,1701,,"Sì, se Ichihara o Yotsuya sono i
-criminali, Nishio e Sanpei non possono esserlo.","沒錯，如果市原先生或四谷小姐是犯人的話，
+337,1701,,"Sì, se Ichihara o Yotsuya sono i criminali,
+Nishio e Sanpei non possono esserlo.","沒錯，如果市原先生或四谷小姐是犯人的話，
 就可以將西尾小姐和三平先生從犯人名單中排除了。",,"그렇지, 이치하라 씨나 요츠야 씨가 범인이라면
 니시오 씨와 산페이 씨는 범인에서 제외된다는 거야","Ja, wenn Ichihara oder Yotsuya es waren,
 können Nishio und Sanpei es nicht gewesen sein."
@@ -517,8 +491,7 @@ können Nishio und Sanpei es nicht gewesen sein."
 對不起……",,"네, 네엣!!
 죄송합니다……","Ja ... Ja, tut mir leid!"
 339,1701,,"Forza, [p]!
-Ti sei preso questo caso, è tua
-responsabilità!","欸，[p]！
+Ti sei preso questo caso, è tua responsabilità!","欸，[p]！
 這是你接下的委託才對吧！",,"잠깐, [p]!
 이거 [p]가(이) 받은 의뢰잖아!","Komm schon, [p]!
 Du hast diesen Fall übernommen, du bist dafür
@@ -528,31 +501,30 @@ Fammi vedere quanto sei bravo!","真是的，你是偵探就好好辦案啊…�
 你不是要讓我看看人類好的一面嗎？",,"정말이지, 탐정이면 제대로 해줘―…
 나한테 멋진 모습 보여주는 게 아니었어?","Na, du bist doch hier der Detektiv.
 Zeig mir, wie gut du bist!"
-341,1701,,"Quindi, in pratica, dovremmo fidarci della
-testimonianza di Nishio e Sanpei, giusto?","也就是說，西尾小姐和三平先生的證詞
+341,1701,,"Quindi, in pratica, dovremmo fidarci della testimonianza di
+Nishio e Sanpei, giusto?","也就是說，西尾小姐和三平先生的證詞
 是可以信任的。",,"즉 니시오 씨와 산페이 씨의 증언은
 신용해도 된다는 게 되는구나","Wir sollten also den Aussagen von Nishio und
 Sanpei vertrauen, richtig?"
 342,1701,,"...Sì. Secondo Nishio, c'è stato solo un grido,
-quindi non possono essere stati sia Ichihara
-che il cameriere.","嗯……西尾小姐說了叫聲只有1次，
+quindi non possono essere stati sia Ichihara che il cameriere.","嗯……西尾小姐說了叫聲只有1次，
 所以不可能是市原先生和男店員先生
 兩個人都出聲。",,"……응. 니시오 씨가 말했던 것처럼 고함은 1번 뿐
 그러니까 이치하라 씨와 남점원님 2명 모두
 소리질렀을 리는 없어","... Ja. Laut Nishio rief nur eine Person, also
 können es nicht Ichihara und der Kellner
 gewesen sein."
-343,1701,,"Secondo Sanpei, Nishio ha lasciato il caffè subito
-dopo la fuga senza pagare, e Nishio e
-Yotsuya hanno lasciato il caffè quasi contemporaneamente.","三平先生說吃霸王餐的犯人逃跑後
+343,1701,,"Secondo Sanpei, Nishio ha lasciato il caffè subito dopo la fuga
+senza pagare, e Nishio e Yotsuya hanno lasciato il caffè quasi
+contemporaneamente.","三平先生說吃霸王餐的犯人逃跑後
 西尾小姐才離開店裡，
 而西尾小姐跟四谷小姐幾乎是同一時刻離開的。",,"산페이 씨는 무전취식범이 도망친 후에 니시오 씨가
 가게를 나갔다고 했고, 니시오 씨는 요츠야 씨와
 거의 함께 가게를 나왔다고 했어","Laut Sanpei hat Nishio das Café direkt nach der
 Tat verlassen und Nishio und Yotsuya
 gingen fast zur gleichen Zeit aus dem Café."
-344,1701,,"Quindi, in sostanza, non c'è nessuno che possa
-confermare la storia di Ichihara...","也就是說，
+344,1701,,"Quindi, in sostanza, non c'è nessuno che possa confermare la storia
+di Ichihara...","也就是說，
 沒有人可以幫市原先生做不在場證明……",,"즉, 이치하라 씨의 알리바이를
 증명해줄 수 있는 사람은 없지만…","Es gibt also niemanden, der die Geschichte von
 Ichihara bestätigen kann ..."
@@ -565,9 +537,9 @@ Questo significa che Yotsuya non può essere il criminale.","但不是犯人的�
 그러니까 요츠야 씨는 범인이 아니고, 옳은 증언을 한 거지","Yotsuyas Alibi wird von Nishio und Sanpei
 bestätigt. Sie sind unschuldig, also lügen sie
 nicht. Das heißt, Yotsuya war es nicht."
-346,1701,,"Il criminale ha detto il contrario di quello che ha
-detto Yotsuya... Yotsuya ci ha detto che il cameriere ha
-urlato, ma colui che ha detto di aver urlato lui stesso era...","犯人是和四谷小姐說出完全不同證詞的人……
+346,1701,,"Il criminale ha detto il contrario di quello che ha detto Yotsuya...
+Yotsuya ci ha detto che il cameriere ha urlato,
+ma colui che ha detto di aver urlato lui stesso era...","犯人是和四谷小姐說出完全不同證詞的人……
 四谷小姐明明說「在店裡聽到的聲音是男店員先生」，
 但卻謊稱是「自己大叫」的人……",,"범인은 요츠야 씨와 전혀 다른 증언을 한 사람…
 요츠야 씨가「가게 안에서 들린 목소리는 남점원」이라고 했는데
@@ -587,8 +559,8 @@ guardia su quello che questo stupido idiota stava facendo!","我是看到有笨�
 주위에 알려줬잖아!","Ich rief es, um die anderen Gäste im Laden zu
 warnen, was dieser Idiot getan hatte!"
 351,4077,,"Te l'ho già detto, sono corso dietro al
-criminale! Perché stai dando la colpa a
-me!? Dovresti ringraziarmi!!!","而且我不是說我也追出店外去找犯人嗎！
+criminale! Perché stai dando la colpa a me!?
+Dovresti ringraziarmi!!!","而且我不是說我也追出店外去找犯人嗎！
 為什麼我要被當成犯人啊！
 你們反而應該稱讚我才對吧！？",,"나도 가게를 나와서 범인을 쫓아갔다고 했잖아!
 왜 내가 범인 취급 당하는 건데!
@@ -611,13 +583,12 @@ Sei tu quello che ha mangiato e se l'è data a gambe!?","啊！！
 네놈은 아까 그 무전취식범!!","Du!
 Du hast die Zeche geprellt?!"
 357,4077,,...Ehm.,嘖！,,……칫,... Ähm.
-358,4954,,"Ah... Signor poliziotto! Questo qui è quello che è
-scappato senza pagare il conto!","啊……那位警察先生！
+358,4954,,"Ah... Signor poliziotto!
+Questo qui è quello che è scappato senza pagare il conto!","啊……那位警察先生！
 這個人吃完東西沒付錢就跑了！",,"아… 거기 순경님!
 이 사람 무전취식범이에요!","Ach ... Herr Polizist! Dieser Kerl hat seine
 Rechnung nicht bezahlt!"
-359,4015,,"Questo ragazzino è scappato senza pagare il conto nel tuo
-ristorante?",這名少年在妳的店裡吃霸王餐嗎？,,이 소년이 당신의 가게에서 무전취식을 한 겁니까?,"Dieser Junge hat das Restaurant verlassen, ohne zu
+359,4015,,"Questo ragazzino è scappato senza pagare il conto nel tuo ristorante?",這名少年在妳的店裡吃霸王餐嗎？,,이 소년이 당신의 가게에서 무전취식을 한 겁니까?,"Dieser Junge hat das Restaurant verlassen, ohne zu
 bezahlen?"
 360,4015,,"Bene, allora, verrà alla stazione con me.","那麼這位少年，
 請跟我回署裡一趟吧。",,"그럼 거기 소년
@@ -627,25 +598,24 @@ Wow, [p], sei davvero bravo come dicono!","圓滿解決了呢！
 [p]果然如傳聞所說是個厲害的人呢！",,"무사히 해결했네! 역시 [p]는(은)
 소문대로 굉장한 사람이구나!","Fall gelöst! Wow, [p],
 du bist wirklich so gut, wie alle behaupten!"
-362,1701,,"Bene, torniamo
-all'ufficio! Sono sicuro che Kyoko vorrà
-congratularsi con te per un lavoro ben fatto!","那我們回去事務所吧，
+362,1701,,"Bene, torniamo all'ufficio!
+Sono sicuro che Kyoko vorrà congratularsi con te per un lavoro ben
+fatto!","那我們回去事務所吧，
 杏子姊一定會誇獎你的！",,"그럼 사무소로 돌아가자
 분명 쿄코 씨가 칭찬해 줄 거야!","So, zurück zum Büro!
 Kyoko möchte dir sicher gratulieren, dass
 du so gute Arbeit geleistet hast!"
-363,4015,,"Tu! Fermati un secondo. Sei
-tu quello che ha rintracciato questo criminale?","那邊那一位！　請等一下，
+363,4015,,"Tu! Fermati un secondo.
+Sei tu quello che ha rintracciato questo criminale?","那邊那一位！　請等一下，
 聽說是你揪出犯人的？",,"거기 너! 잠깐 기다리렴
 네가 범인을 밝혀내줬다면서?","Du da! Warte mal kurz.
 Du hast also diesen Täter aufgespürt?"
-364,4015,,"Wow, è
-incredibile! Una vera impresa, davvero.","真是厲害啊，
+364,4015,,"Wow, è incredibile!
+Una vera impresa, davvero.","真是厲害啊，
 這可是大功一件呢。",,"이야, 굉장하잖아
 네 덕분이야","Das ist fantastisch!
 Wirklich eine tolle Leistung."
-365,4015,,"Grazie per il tuo aiuto a catturare questo
-scroccone!","謝謝你這次協助逮捕
+365,4015,,"Grazie per il tuo aiuto a catturare questo scroccone!","謝謝你這次協助逮捕
 吃霸王餐的犯人！",,"이번 무전취식범 체포 협력
 감사했습니다!","Danke, dass du geholfen hast, den Zechpreller
 zu fangen!"
@@ -658,69 +628,65 @@ Cos'è questo?","咦？　什麼？
 어떻게 된 거야?","... Was?
 Wie bitte?"
 370,4015,,"Ottimo lavoro a capire quello,
-sfortunatamente non importa. Non
-lo capisci ancora?","剛才推理得那麼精彩，真奇怪啊～
+sfortunatamente non importa.
+Non lo capisci ancora?","剛才推理得那麼精彩，真奇怪啊～
 你還搞不懂嗎？",,"아까는 훌륭하게 추리했으면서 이상하네요―
 모르겠어?","Gute Arbeit, dass du das herausgefunden hast.
 Leider spielt es keine Rolle. Ist dir noch
 kein Licht aufgegangen?"
-371,4082,,"...Che ne dici
-adesso? Non sono un vero poliziotto.","就是這麼一回事，懂了沒？
+371,4082,,"...Che ne dici adesso?
+Non sono un vero poliziotto.","就是這麼一回事，懂了沒？
 我並不是真的警察。",,"……이런 거야. 알겠어?
 난 진짜 순경이 아니었다는 거지","... Und jetzt?
 Ich bin gar kein Polizist."
 372,4077,,"Ahahaha! Oh, dovreste vedere le vostre facce!",哇哈哈哈哈！　你們臉上的表情真滑稽～,,"캬하하하하! 볼만하네―, 너희들의 그 얼굴",Buahaha! Ihr solltet mal eure Gesichter sehen!
-373,4082,,"Siamo membri della tanto
-chiacchierata banda Shibuya Delight.","我們是在涉谷這一帶
+373,4082,,"Siamo membri della tanto chiacchierata banda Shibuya Delight.","我們是在涉谷這一帶
 惡名昭彰的「Delight」成員。",,"우린 시부야 일대에선 좀 소문난
 「Delight」멤버인데 말이지","Wir sind Mitglieder der berühmten
 Schadenfreudebande aus Shibuya."
-374,4082,,"I membri di Delight amano l'emozione di
-farla franca con i crimini ancora e
-ancora, e siamo impossibili da catturare.","「Delight」是個一再犯罪
+374,4082,,"I membri di Delight amano l'emozione di farla franca con i crimini
+ancora e ancora, e siamo impossibili da catturare.","「Delight」是個一再犯罪
 來享受逃亡刺激的集團。
 身為成員之一，哪有可能這麼簡單就被你們抓住呢。",,"「Delight」는 범죄를 반복하며
 도망치는 스릴을 즐기는 팀이야
 그 멤버로서 간단히 잡힐 수는 없잖아","Die Mitglieder der Schadenfreudebande lieben es,
 immer wieder ungestraft Taten zu begehen.
 Es ist unmöglich, uns zu erwischen."
-375,1701,,"Ma quello è...! Vuoi dire che ti piace
-davvero scappare dai conti al ristorante, fare cose
-cattive e ingannare tutti!?","怎麼會……！
+375,1701,,"Ma quello è...! Vuoi dire che ti piace davvero scappare dai conti al
+ristorante, fare cose cattive e ingannare tutti!?","怎麼會……！
 做這種吃霸王餐的壞事，
 還欺騙我們大家……這樣很好玩嗎！？",,"그런…!
 무전취식 같은 나쁜 짓을 하거나
 우리나 모두를 속이는… 이런 게 즐거운 거야!?","Aber das ...! Es macht euch also Spaß, die
 Rechnungen nicht zu bezahlen, Probleme zu machen
 und alle hereinzulegen?"
-376,4077,,"Punta dell'iceberg, idiota! Pensi davvero
-che questo basterebbe a soddisfarci?","笨蛋，當然還不夠好玩。
+376,4077,,"Punta dell'iceberg, idiota!
+Pensi davvero che questo basterebbe a soddisfarci?","笨蛋，當然還不夠好玩。
 你以為這點程度我們就會滿足了嗎？",,"바―보, 부족한 게 뻔하잖아
 이 정도로 우리가 만족할 거라고 생각하는 거냐?","Das ist nur die Spitze des Eisbergs, Dummerchen!
 Meinst du, damit geben wir uns zufrieden?"
-377,4077,,"Ci hai messi in imbarazzo, e la pagherai per questo. Ci
-prenderemo la nostra rivincita!","你讓我出了醜，
+377,4077,,"Ci hai messi in imbarazzo, e la pagherai per questo.
+Ci prenderemo la nostra rivincita!","你讓我出了醜，
 要是不對你好好地「報仇」一番
 叫我怎麼吞得下這口氣！",,"한 방 먹여준 네게는
 잔―뜩 즐거운「복수」를 해야만
 내 기분이 풀릴 것 같거든!","Ihr habt uns blamiert, dafür werdet ihr zahlen!
 Wir werden uns rächen!"
-378,4077,,"Innanzitutto, spargerò la voce che non sei stato capace di
-catturare il tizio che è scappato senza pagare! Il miglior
-detective in circolazione? Non credo proprio!","首先我要四處散布
+378,4077,,"Innanzitutto, spargerò la voce che non sei stato capace di catturare
+il tizio che è scappato senza pagare! Il miglior detective in
+circolazione? Non credo proprio!","首先我要四處散布
 你把我這個吃霸王餐犯人放走的流言！
 偵探不是信譽最重要了嗎？",,"우선은 무전취식범인 나를 도망치게 해준 건
 너라는 거짓말을 퍼뜨려주겠어!
 신용제일이잖아? 탐정이라는 건 말야!","Als Erstes verbreite ich ein Gerücht, dass du den
 Zechpreller nicht fangen konntest! Die beste
 Spürnase? Ich glaube nicht!"
-379,4082,,"Ma un tipo di vendetta così indiretto non sarà abbastanza
-per noi!","不過呢，
+379,4082,,"Ma un tipo di vendetta così indiretto non sarà abbastanza per noi!","不過呢，
 光是這種繞圈子的報仇是無法滿足我們的。",,"하지만 말야―, 우리들
 그렇게 멀리 돌아가는 복수만으론 만족 못하거든","Aber solch eine Rache auf Umwegen genügt uns
 nicht!"
-380,4077,,"Prendetemi se ci riuscite! Se
-non ci riuscite, continueremo a fare cose cattive!","不甘心的話就來抓我們啊，
+380,4077,,"Prendetemi se ci riuscite!
+Se non ci riuscite, continueremo a fare cose cattive!","不甘心的話就來抓我們啊，
 不然我們可能會做出更多壞事哦？",,"분하면 잡아보라구. 안 그러면 우리들
 좀 더 나쁜 짓을 해버릴지도 모른다?","Fang mich doch, wenn du kannst!
 Wenn nicht, werden wir weiterhin Unheil stiften!"
@@ -728,8 +694,8 @@ Wenn nicht, werden wir weiterhin Unheil stiften!"
 382,1701,,...Sono scappati! Dove pensi che stiano andando quei tipi?,"逃走了……
 他們會去哪裡呢……？",,"……도망가버렸네
 저 녀석들, 어디로 간 걸까…?",... Sie sind entkommen! Wo sie wohl hinwollen?
-383,4954,,"Ho sentito qualcosa. Una banda di teppisti che
-causano sempre problemi in questo quartiere si aggira alla
+383,4954,,"Ho sentito qualcosa. Una banda di teppisti che causano
+sempre problemi in questo quartiere si aggira alla
 stazione della metropolitana di Shibuya.","我聽說過有一個
 在這附近亂鬧的不良集團
 常出入涉谷的地下。",,"저, 들은 적이 있어요
@@ -737,17 +703,16 @@ stazione della metropolitana di Shibuya.","我聽說過有一個
 시부야 지하에 곧잘 출입한다고","Ich habe da etwas gehört. Eine Bande von Schlägern
 treibt in der Nachbarschaft ihr Unwesen. Sie sind
 oft an der U-Bahn-Station in Shibuya."
-384,4954,,"Ma non pensare nemmeno di inseguirli, è troppo
-pericoloso. Quei tipi sono criminali, quindi dovremmo
-lasciare la cosa alla polizia.","不過最好別想去追他們，實在太危險了。
+384,4954,,"Ma non pensare nemmeno di inseguirli, è troppo pericoloso.
+Quei tipi sono criminali, quindi dovremmo lasciare la cosa alla polizia.","不過最好別想去追他們，實在太危險了。
 既然知道犯人是不良集團的人，
 那後續處理就交給警察吧。",,"하지만 쫓겠다고 생각하진 마요, 위험해요
 범인이 불량 팀에 속한 인간이라는 걸 알았으니까
 이 다음은 경찰에게 맡기죠","Geht ihnen bloß nicht nach, das ist zu gefährlich.
 Diese Typen sind Kriminelle. Wir sollten das der
 Polizei überlassen."
-385,4954,,"Ecco la tua ricompensa. Per favore, non essere timido, hai
-fatto un ottimo lavoro a rintracciare il criminale.","這是謝禮，請不用客氣。
+385,4954,,"Ecco la tua ricompensa. Per favore, non essere timido,
+hai fatto un ottimo lavoro a rintracciare il criminale.","這是謝禮，請不用客氣。
 因為你們有確實幫我找出犯人是誰。",,"이건 답례입니다. 사양하지 말아요
 당신들은 확실히 범인을 밝혀줬으니까","Hier ist das Honorar. Nimm es ruhig. Du hast tolle
 Arbeit geleistet, den Täter zu finden."
@@ -756,18 +721,17 @@ che quel tipo ha detto prima, a proposito di ""vendetta""...","我有點……�
 他說了「報仇」。",,"있지, 나 말야… 아까 그 사람의 말이 왠지 신경 쓰여
 「복수하겠다」라니","Hm, es ist bloß ... Ich mache mir etwas Sorgen,
 weil der Typ vorhin von „Rache“ gesprochen hat ..."
-387,1701,,"So cosa significa. Vendetta è quando qualcuno
-ti fa qualcosa di male, quindi tu fai
-qualcosa di male a lui in cambio, giusto?","我知道這個字，
+387,1701,,"So cosa significa. Vendetta è quando qualcuno ti fa qualcosa di male,
+quindi tu fai qualcosa di male a lui in cambio, giusto?","我知道這個字，
 「報仇」是指別人對自己做了過份的事時，
 自己也反擊回去的意思吧？",,"나 알고 있어
 복수라는 건 상대에게 심한 짓을 당했을 때
 되돌려주는 거잖아?","Ich weiß, was das ist. Rache ist, wenn jemand was
 Schlimmes tut, und man dann im Gegenzug
 der Person etwas Schlimmes antut, richtig?"
-388,1701,,"Perché mai dovrebbe dire una cosa del genere? Non
-è stata colpa nostra se è stato arrestato, è
-stata colpa sua per aver fatto tutte quelle cose cattive.","為什麼他會這樣說呢……
+388,1701,,"Perché mai dovrebbe dire una cosa del genere?
+Non è stata colpa nostra se è stato arrestato,
+è stata colpa sua per aver fatto tutte quelle cose cattive.","為什麼他會這樣說呢……
 有錯的人又不是我們，
 明明是他自己做壞事才被抓起來的啊。",,"어째서 그런 말을 하는 걸까…
 우리 때문이 아니라
@@ -775,22 +739,21 @@ stata colpa sua per aver fatto tutte quelle cose cattive.","為什麼他會這�
 unsere Schuld, dass er verhaftet wurde. Er war
 schuld, dass er diese schlimmen Dinge getan hat."
 389,1701,,Non viene mai niente di buono a vendicarsi di qualcuno...,反擊我們根本就沒有好處。,,되돌려준다고 해봤자 아무것도 좋은 건 없는데,"Es bringt nie etwas Gutes, sich zu rächen ..."
-390,1701,,"...Comunque,
-scusa. Dovremmo inseguire quei tipi?","啊……抱歉，
+390,1701,,"...Comunque, scusa.
+Dovremmo inseguire quei tipi?","啊……抱歉，
 你要去追他們對不對？",,"……이런, 미안해
 그 녀석들을 쫓을 거지?","... Wie dem auch sei.
 Sollen wir die Kerle verfolgen?"
-391,1701,,"Okay, facciamolo! Siamo diretti alla stazione della
-metropolitana di Shibuya!",好，那我們就去涉谷的地下看看吧！,,"좋아, 그럼 시부야 지하로 가보자!","Okay, tun wir es! Auf zur U-Bahn-Station von
+391,1701,,"Okay, facciamolo!
+Siamo diretti alla stazione della metropolitana di Shibuya!",好，那我們就去涉谷的地下看看吧！,,"좋아, 그럼 시부야 지하로 가보자!","Okay, tun wir es! Auf zur U-Bahn-Station von
 Shibuya!"
 401,4954,,"Aspetta!
 Dovresti andare con un poliziotto!","欸，老公！
 跟我一起去找警察！",,"잠깐, 당신!
 같이 경찰서로 갑시다!","Wartet!
 Ein Polizist sollte euch begleiten!"
-402,4955,,"Io...io non ce la faccio... Ho corso
-così tanto... Non riesco nemmeno a stare in
-piedi...ugh...","我不行了……嗚……
+402,4955,,"Io...io non ce la faccio... Ho corso così tanto...
+Non riesco nemmeno a stare in piedi...ugh...","我不行了……嗚……
 剛才跑太久……光是站著就很吃力……呼……",,"안되겠어… 히익…
 너무 달려서… 서있는 게 겨우야… 후우…","Ich ... Ich kann nicht ... Ich bin so viel
 gelaufen ... Ich kann nicht mal mehr stehen ...
@@ -804,27 +767,25 @@ che non c'è nessuno dopo le sommosse dei Digimon.","我也聽說過有關這一
 시부야 지하를 본거지로 삼고 있다든가…","Ich habe auch von der Bande gehört. Sie wollen
 sich jetzt in Shibuya niederlassen, weil nach
 den Digimon-Unruhen niemand mehr dort ist."
-421,4079,,"Nishio! Oh, sei come un fiore che sboccia nel
-campo che è il mio cuore!","西尾小姐……！
+421,4079,,"Nishio! Oh, sei come un fiore che sboccia nel campo che è
+il mio cuore!","西尾小姐……！
 啊～妳就像開在我內心原野中的一朵花……！",,"니시오 씨……!
 아아, 그대는 내 마음의 들판에 핀 한송이의 꽃과 같도다…！","Nishio! Ach, du bist wie eine Blume, die im Feld
 meines Herzens erblüht!"
-431,4080,,"La metropolitana? ...Ho sentito che ci sono dei
-Digimon piuttosto feroci laggiù. Se stai pensando
-di andarci, te lo sconsiglierei...","地下啊……我聽說那邊好像有凶暴的數碼寶貝出沒。
+431,4080,,"La metropolitana? ...Ho sentito che ci sono dei Digimon piuttosto
+feroci laggiù. Se stai pensando di andarci, te lo sconsiglierei...","地下啊……我聽說那邊好像有凶暴的數碼寶貝出沒。
 你想去的話，勸你還是打消念頭吧？",,"지하인가… 뭔가 흉포한 디지몬이 나온다고 들었던 적이 있네
 갈 생각이라면 그만두는 건 어때?","Die U-Bahn? ... Ich habe gehört, dass da ein paar
 fiese Digimon rumhängen. Wenn du da hinwillst,
 würde ich dir davon abraten ..."
-451,1701,,"...Quei tipi stanno cercando di usare i Digimon per
-scopi malvagi. Probabilmente li stanno maltrattando in
-continuazione.","那些傢伙……想把數碼寶貝用在壞事上面。
+451,1701,,"...Quei tipi stanno cercando di usare i Digimon per scopi malvagi.
+Probabilmente li stanno maltrattando in continuazione.","那些傢伙……想把數碼寶貝用在壞事上面。
 不，他們可能平常就已經這麼做了。",,"……그 녀석들, 디지몬을 나쁜 짓에 쓰려고 하고 있어
 아니지, 평소에도 그럴지도","Diese Typen versuchen, Digimon für böse Zwecke
 einzusetzen. Sie misshandeln sie wahrscheinlich
 ständig."
-452,1701,,"Noi non usiamo mai gli umani per niente! Non voglio mai
-avere quel tipo di relazione con un umano!","我們明明就不是被人類拿來用的！
+452,1701,,"Noi non usiamo mai gli umani per niente!
+Non voglio mai avere quel tipo di relazione con un umano!","我們明明就不是被人類拿來用的！
 我不希望和人類之間是這樣的關係……",,"우리는 인간에게 이용되는 존재가 아닌데!
 그런 관계로 있고 싶은 게 아닌데…","Wir tun das Menschen nicht an! So einen Umgang
 mit einem Menschen will ich nicht!"
@@ -839,44 +800,42 @@ Terriermon den Kopf streicheln.
 Terriermon hinter dem Ohr kraulen."
 454,1701,,"Sì, è proprio così...",嗯，就是呀……我沒有說錯。,,"응, 맞아… 나는 틀리지 않았어","Ja, genau ..."
 455,1701,,...!,……！,,……!,...!
-456,1701,,"Grazie,
-[p]... Hehe, mi sono calmato un po' adesso.","謝、謝謝你，[p]……
+456,1701,,"Grazie, [p]...
+Hehe, mi sono calmato un po' adesso.","謝、謝謝你，[p]……
 嘿嘿，我稍微冷靜一點了。",,"고, 고마워 [p]…
 에헤헤, 조금 진정됐어","Danke, [p] ...
 Haha, ich habe mich jetzt etwas beruhigt."
 457,1701,,Che diavolo!? Scendete!,當然了，這種事情一定是不對的……！,,"물론이지, 이런 건 분명 잘못됐어…!",Was zum Teufel? Lass das!
-458,1701,,"Mi chiedo se quei tipi siano qui
-dentro? ...Andiamo!","那些傢伙就在這裡面嗎？
+458,1701,,"Mi chiedo se quei tipi siano qui dentro?
+...Andiamo!","那些傢伙就在這裡面嗎？
 ……我們走吧！",,"그 녀석들, 이 안쪽에 있으려나?
 …가자!","Ich frage mich, ob diese Typen hier sind?
 ... Gehen wir!"
 501,4082,,"Ben fatto, sei riuscito a trovarci!",嘿，居然追到這裡來了。,,"헤에, 여기까지 쫓아왔구나","Gute Arbeit, ihr habt uns gefunden!"
 502,4077,,"Ad essere onesti, siete venuti qui solo per
-essere sconfitti da noi, ma
-comunque ben fatto!","你是乖乖來被我們痛宰的吧，
+essere sconfitti da noi, ma comunque ben fatto!","你是乖乖來被我們痛宰的吧，
 佩服佩服！",,"순순히 우리한테 당하러 온 거구만―
 좋아, 기특해!","Ehrlich gesagt, seid ihr nur hergekommen, um von
 uns besiegt zu werden. Aber trotzdem
 gute Arbeit!"
-503,4077,,"Voi usate Digimon, vero? Bene,
-guarda caso siamo anche noi hacker,
+503,4077,,"Voi usate Digimon, vero?
+Bene, guarda caso siamo anche noi hacker,
 quindi andiamo!","你們會操控數碼寶貝吧？
 其實我們也是駭客，就陪你們玩玩好了。",,"너희들, 디지몬을 쓸 거지?
 실은 우리도 해커라서 말이지, 상대해줄게","Ihr benutzt Digimon, nicht wahr?
 Zufälligerweise sind wir auch Hacker!
 Los geht’s!"
-504,4077,,"Noi siamo i Digimon master
-migliori, come vedrai.",我們操控數碼寶貝的技術比你厲害多了。,,우리들 쪽이 디지몬을 더 능숙하게 다른다고?,"Ihr werdet sehen, dass wir die besseren
+504,4077,,"Noi siamo i Digimon master migliori, come vedrai.",我們操控數碼寶貝的技術比你厲害多了。,,우리들 쪽이 디지몬을 더 능숙하게 다른다고?,"Ihr werdet sehen, dass wir die besseren
 Digimon-Meister sind."
-505,4082,,"Ecco, ho portato questo con me, usalo
-per combattere questo tipo.","我把那東西叫出來了，
+505,4082,,"Ecco, ho portato questo con me,
+usalo per combattere questo tipo.","我把那東西叫出來了，
 你們就隨便跟它玩玩吧。",,"자, 저거 불러뒀으니까
 적당히 상대해 줘","Hier, ich habe das mitgebracht. Nutze es, um
 gegen diesen Typen zu kämpfen."
 506,1701,,Ma che!?,那是……哇！,,저거라니… 왓!,Was ...?!
 507,1701,,GroundLocomon!,超級火車獸！,,그랜드로코몬!,GrandLocomon!
-508,4082,,"Questo è un Digimon che ho trovato qui intorno di
-recente. Dopo che abbiamo fatto una o due ""chiacchiere"" con
+508,4082,,"Questo è un Digimon che ho trovato qui intorno di recente.
+Dopo che abbiamo fatto una o due ""chiacchiere"" con
 lui è diventato un bravo e obbediente piccolo schiavo.","這是我們最近在這裡發現的數碼寶貝，
 稍微對它動了一點手腳，
 它就變成我們聽話的僕人了。",,"최근 여기서 발견한 디지몬이야
@@ -885,8 +844,7 @@ lui è diventato un bravo e obbediente piccolo schiavo.","這是我們最近在�
 gefunden habe. Nach einer kurzen „Unterhaltung“
 wurde es ein gehorsamer, kleiner Sklave."
 509,4077,,"L'orgoglio di Delight è stato insultato.
-Vendicami, piccolo Digimon.
-Falli soffrire!!!","「Delight」的自尊被傷害，
+Vendicami, piccolo Digimon. Falli soffrire!!!","「Delight」的自尊被傷害，
 帶著我的憤怒……大鬧一番吧，
 小寶貝！！",,"「Delight」의 프라이드에 금이 간
 내 분노를 담아서… 폭주해버려
@@ -899,9 +857,8 @@ P...per favore! Non uccidermi!","嗚……嗚哇——！！
 饒、饒命啊，請不要殺我！",,"히…… 히이이이이익!!
 요, 용서해줘, 죽이지 말아줘!","Ahhhhhh!
 B-Bitte! Töte mich nicht!"
-553,4077,,"Ma...COSA!? Ma questo...questo non ha alcun
-senso! Come può quel Digimon essere sconfitto così
-facilmente!?","到……到底是怎樣啦！
+553,4077,,"Ma...COSA!? Ma questo...questo non ha alcun senso!
+Come può quel Digimon essere sconfitto così facilmente!?","到……到底是怎樣啦！
 居然這麼快就打倒那個失控的數碼寶貝……
 根本是怪物吧……",,"뭐… 뭐야, 뭔데!
 그 폭주 디지몬을 그렇게 빨리 쓰러뜨리다니…
@@ -909,28 +866,27 @@ facilmente!?","到……到底是怎樣啦！
 Wie konnte dieses Digimon so schnell besiegt
 werden?"
 554,1701,,Mai... Non ti perdonerò mai!,我不會原諒你們的！,,"용서하지 않을 거야, 너희를 용서하지 않겠어!!",Niemals ... Das werde ich dir niemals verzeihen!
-555,1701,,"I Digimon non sono strumenti da
-usare! Siamo stati catapultati in questo mondo che non
-conosciamo, ogni giorno lottiamo con terrore e paura...","數碼寶貝才不是什麼道具！
+555,1701,,"I Digimon non sono strumenti da usare!
+Siamo stati catapultati in questo mondo che non conosciamo,
+ogni giorno lottiamo con terrore e paura...","數碼寶貝才不是什麼道具！
 我們突然被彈飛到未知的世界，每天都很害怕不安……",,"디지몬은 도구 같은 게 아니야!
 갑자기 모르는 세계로 날려와서 매일이 불안하고 무섭고…","Digimon sind keine Werkzeuge!
 Wir wurden in diese unbekannte Welt gebracht und
 stellen uns jeden Tag unseren Ängsten ..."
 556,1701,,"Ci sono Digimon terrorizzati dagli umani!
-Ma... ci sono anche Digimon che credono che
-possa esserci amicizia tra umani e Digimon!","有數碼寶貝因為不安而出手傷害人類！
+Ma... ci sono anche Digimon che credono che possa esserci amicizia
+tra umani e Digimon!","有數碼寶貝因為不安而出手傷害人類！
 但……同樣也有想和人類友好共處的數碼寶貝啊！！",,"두려움 때문에 인간을 상처입히는 디지몬도 있어!
 하지만… 인간과 사이좋게 지내고 싶어하는 디지몬도 있는데!!","Es gibt Digimon, die von Menschen terrorisiert
 werden! Aber es gibt auch Digimon, die glauben,
 dass Menschen und Digimon Freunde sein können."
-557,1701,,"Probabilmente quel GroundLocomon
-pensava questo!","那個超級火車獸
+557,1701,,"Probabilmente quel GroundLocomon pensava questo!","那個超級火車獸
 說不定也是這樣想的！！",,"그 그랜드로코몬도
 그렇게 생각했을지 모르는데!!","Dieses GrandLocomon hat das wahrscheinlich
 gedacht!"
 558,1701,,Gli umani sono... Gli umani sono...!,你們這些可惡的人類……！,,"인간 따위, 인간 따위……!",Menschen sind ... Menschen sind ...!
-559,2001,,"Terriermon, basta. Non
-tutti gli umani sono così!
+559,2001,,"Terriermon, basta.
+Non tutti gli umani sono così!
 Io sono tuo amico, Terriermon!","大耳獸，到此為止。
 並非所有人類都是這樣。
 我是站在大耳獸這邊的。",,"테리어몬, 거기까지야
@@ -949,76 +905,71 @@ e anche Digimon come me.","你無法丟下有困難的人不管……
 不，像我這樣的數碼寶貝你也不會棄而不顧。",,"곤란해하는 사람을 그냥 두지 못하고…
 아니, 나 같은 디지몬도 그냥 두지 못해","Du hilfst allen Menschen, die Probleme haben ...
 und sogar Digimon wie mir."
-563,1701,,"Non abbiamo passato molto tempo insieme,
-ma nonostante ciò, lo so.",雖然在一起的時間很短，我還是明白。,,함께 있었던 시간이 짧았어도 알 수 있어,"Wir haben noch nicht viel Zeit zusammen verbracht,
+563,1701,,"Non abbiamo passato molto tempo insieme, ma nonostante ciò, lo so.",雖然在一起的時間很短，我還是明白。,,함께 있었던 시간이 짧았어도 알 수 있어,"Wir haben noch nicht viel Zeit zusammen verbracht,
 aber ich weiß es trotzdem."
-564,1701,,"Sei gentile e di buon cuore,
-[p].","溫和、直率……
+564,1701,,"Sei gentile e di buon cuore, [p].","溫和、直率……
 [p]就是這樣的人。",,"엄청 마음이 따뜻하고, 솔직한…
 [p]는(은) 그런 사람이지","Du bist gütig und warmherzig,
 [p]."
 565,1701,,"Come ha detto [p], costituisciti alla polizia,
-rifletti su quello che hai fatto e
-rimetti le cose a posto.","你們聽[p]的話去自首吧。
+rifletti su quello che hai fatto e rimetti le cose a posto.","你們聽[p]的話去自首吧。
 反省之後再重新來過。",,"[p]의 말대로 경찰에 자수해서
 반성하고, 새 출발하도록 해","Wie [p] meinte ... Stellt euch der Polizei,
 denkt über eure Taten nach und
 tut das Richtige."
-566,1701,,"Anche persone come te possono cambiare le
-cose... Quindi, proverò a fidarmi di te.","就算是你們這樣的人，也能夠改過自新……
+566,1701,,"Anche persone come te possono cambiare le cose...
+Quindi, proverò a fidarmi di te.","就算是你們這樣的人，也能夠改過自新……
 因為我想先相信你們看看。",,"너희들 같은 사람이라도 한 번 더 다시 시작할 수 있어
 우선은 나부터 믿어보기로 했으니까","Selbst Leute wie ihr können sich ändern ...
 Deshalb versuche ich, euch zu vertrauen."
 567,4077,,S...sì! Me ne vado immediatamente...,是、是的！　我們會……直接過去的。,,"네, 네에엡! 이대로… 다녀오겠습니다",J-Ja! Ich werde gleich losgehen ...
 568,1701,,"Beh... immagino che alla fine sia andata bene, non credi?",這樣……就可以了吧？,,이걸로… 된 거겠지?,"Na, das hat sich doch gut entwickelt, nicht wahr?"
-601,1701,,"Bene,
-[p], credo che questo concluda il mio caso.","聽我說，[p]。
+601,1701,,"Bene, [p],
+credo che questo concluda il mio caso.","聽我說，[p]。
 我的委託到此為止就好了。",,"있잖아, [p]
 내 의뢰는 여기까지로 할게","Also, [p],
 ich glaube, mein Fall ist jetzt abgeschlossen."
-602,1701,,"Sai, il motivo per cui ho scelto te non è stato
-solo perché sei un detective capace.","我之所以選你當認識人類的對象，
+602,1701,,"Sai, il motivo per cui ho scelto te non è stato solo perché
+sei un detective capace.","我之所以選你當認識人類的對象，
 並非只是因為你是一個有本領的偵探。",,"인간을 알기 위해 너를 선택한 건 말야
 단지 실력이 좋은 탐정님이라서가 아니야","Weißt du, ich habe dich nicht nur ausgewählt,
 weil du ein guter Detektiv bist."
-603,1701,,"Volevo fare amicizia con gli umani, ma io stesso avevo
-paura di loro. Quindi ho chiesto a voi ragazzi
-perché avete una buona reputazione tra i Digimon.","我口口聲聲說想和人類友好共處，
+603,1701,,"Volevo fare amicizia con gli umani, ma io stesso avevo paura di loro.
+Quindi ho chiesto a voi ragazzi perché avete una buona reputazione
+tra i Digimon.","我口口聲聲說想和人類友好共處，
 但其實自己卻很害怕人類。
 所以只好拜託在數碼寶貝間風評不錯的你們。",,"인간과 사이좋게 지내고 싶다고 하면서도
 나 자신이 인간을 무서워하고 있었기 때문이라고 생각해
 그러니까 디지몬에게 평판이 좋은 너희한테밖에 부탁할 수 없었어","Ich wollte mit Menschen befreundet sein, aber ich
 hatte Angst. Also habe ich euch gefragt, weil
 ihr bei Digimon einen guten Ruf habt."
-604,1701,,"...Gli umani come quelli e io non ci
-capiremo mai. Una parte di me avrà sempre
-paura e non vorrà mai stargli intorno.","如果是剛才那樣的人類，
+604,1701,,"...Gli umani come quelli e io non ci capiremo mai.
+Una parte di me avrà sempre paura e non vorrà mai stargli intorno.","如果是剛才那樣的人類，
 我一定無法跟他們互相理解的。
 因為我心中隱隱覺得好可怕、不想跟他們在一起……",,"……아까 그 녀석들 같은 인간이라면
 분명 서로 이해하지 못할 거야. 무서워서 함게 있고 싶지 않다고
 마음 속 어딘가에서 생각했을 거라고… 생각해","... Menschen wie diese Kerle und ich werden uns
 nie verstehen. Ein Teil von mir wird immer Angst
 haben und sich lieber von ihnen fernhalten."
-605,1701,,"Ma quando vedo te, capisco. Che si tratti di un
-Digimon o di un umano, hai un modo di guardare
-qualcuno e guadagnarti la sua fiducia.","不過，看到你我就懂了。
+605,1701,,"Ma quando vedo te, capisco.
+Che si tratti di un Digimon o di un umano,
+hai un modo di guardare qualcuno e guadagnarti la sua fiducia.","不過，看到你我就懂了。
 不論對方是數碼寶貝還是人類，你都會正視對方。
 你是一個值得信任的人。",,"하지만 말야, 널 보면서 깨달았어
 너는 디지몬이든 인간이든 제대로 상대를 바라봐주는
 신용할 수 있는 상대야","Aber wenn ich dich sehe, verstehe ich es. Egal, ob
 Digimon oder Mensch, du siehst demjenigen in die
 Augen und verdienst dir Vertrauen."
-606,1701,,"Quindi, vorrei poter guardare le persone in
-faccia ed essere onesto, come te. Vorrei
-poter fare amicizia, senza aver paura.","所以我也想變得跟你一樣，
+606,1701,,"Quindi, vorrei poter guardare le persone in faccia ed essere onesto,
+come te. Vorrei poter fare amicizia, senza aver paura.","所以我也想變得跟你一樣，
 不論對方是誰，我都可以直接面對他！
 我想和更多人類好好相處，而不會感到害怕。",,"그러니까, 나도 너처럼
 어떤 상대라도 올곧게 마주할 수 있게 되고 싶어!
 무서워하지 않고 많은 인간과 사이좋게 지내고 싶어","Deshalb möchte ich Leuten ins Gesicht schauen und
 ehrlich sein können, wie du. Ich möchte Freunde
 finden, ohne Angst haben zu müssen."
-607,1701,,"Più di questo, voglio uscire e dire ai
-Digimon del mondo che ci sono umani come te,
+607,1701,,"Più di questo, voglio uscire e dire ai Digimon
+del mondo che ci sono umani come te,
 che non devono avere paura.","然後告訴其他數碼寶貝，
 世上有好多好多像你這樣善良的人類。
 我想告訴它們，害怕是不行的。",,"그래서 좀 더 많이 디지몬들에게
@@ -1026,46 +977,43 @@ che non devono avere paura.","然後告訴其他數碼寶貝，
 무서워하면 안된다고, 말해주고 싶어","Außerdem möchte ich der Digimonwelt erzählen,
 dass es Menschen wie dich gibt und dass sie
 keine Angst haben müssen."
-608,1701,,"...E infine vorrei chiederti
-qualcosa, [p].","最後……
+608,1701,,"...E infine vorrei chiederti qualcosa, [p].","最後……
 有件事想拜託[p]。",,"……마지막으로
 [p]에게 부탁이 있어","... Und zu guter Letzt wollte ich dich etwas
 fragen, [p]."
-609,1701,,"La mia mano sarà piccola,
-ma...promessa col mignolo?",我的手很小……不過你願意和我打勾勾嗎？,,"내 손, 작지만… 손가락 걸기 해주지 않을래?","Meine Pfoten mögen klein sein, aber ... gibst
+609,1701,,"La mia mano sarà piccola, ma...
+promessa col mignolo?",我的手很小……不過你願意和我打勾勾嗎？,,"내 손, 작지만… 손가락 걸기 해주지 않을래?","Meine Pfoten mögen klein sein, aber ... gibst
 du mir trotzdem die Hand darauf?"
-610,1701,,"Promettimi che, per quanto difficile possa
-essere, non ti arrenderai mai, creerai amicizie
-tra Digimon e umani e farai del tuo meglio!","我要和你約好，不論再痛苦我都不會逃避，
+610,1701,,"Promettimi che, per quanto difficile possa essere,
+non ti arrenderai mai, creerai amicizie tra Digimon e umani
+e farai del tuo meglio!","我要和你約好，不論再痛苦我都不會逃避，
 要努力讓數碼寶貝和人類友好共處。",,"네게 약속할게. 아무리 괴로워져도 도망치지 않고
 디지몬과 인간이 사이좋게 지낼 수 있도록 힘내겠다고","Versprich mir, egal wie schwer es ist, dass du nie
 aufgibst und Freundschaften zwischen Digimon und
 Menschen knüpfst und du dein Bestes gibst!"
 611,2001,,È una promessa.,約好了哦。,,약속이야,Versprochen.
 612,1701,,...Sì!,……嗯！,,……응!,Jippie!
-613,1701,,"Beh, comunque, è stato davvero fantastico
-come hai gestito quel caso, [p]!","可以委託[p]
+613,1701,,"Beh, comunque, è stato davvero fantastico come hai gestito
+quel caso, [p]!","可以委託[p]
 真是太好了！",,"있지! [p]한테 의뢰해서
 정말 다행이야!","Na, jedenfalls war es wirklich fantastisch, wie du
 diesen Fall gelöst hast, [p]!"
-614,1701,,"Grazie!
-Okay, allora vado!","謝謝你！
+614,1701,,"Grazie! Okay, allora vado!","謝謝你！
 那我要走了。",,"고마워!
 그럼, 갈게","Danke!
 Ich bin dann mal weg!"
 615,1701,,...A dopo!,再見！,,……또 봐!,Bis dann!
 651,3006,,Un altro caso risolto con successo!,這次的委託似乎也圓滿達成了呢。,,이번에도 무사히 의뢰를 해결한 것 같군,"Noch ein Fall, der gelöst ist!"
-652,3006,,"...Eh? Sarà solo una mia impressione o ti
-vedo un po' più maturo? Beh, quando avremo tempo
-potrai raccontarmi tutto in dettaglio.","奇怪？
+652,3006,,"...Eh? Sarà solo una mia impressione o ti vedo un po' più maturo?
+Beh, quando avremo tempo potrai raccontarmi tutto in dettaglio.","奇怪？
 你的神情好像變了，是我看錯了嗎？
 等我有空再來問你怎麼回事好了。",,"……음?
 조금 표정이 바뀐 것 같은 건 기분 탓인가?
 자세한 건 시간이 있을 때 듣도록 하지","Huch? Bilde ich mir das nur ein oder siehst du
 reifer aus? Also, wenn wir mehr Zeit haben, musst
 du mir das alles ganz genau erzählen."
-681,3006,,"...Hmm, sembra che siamo stati in grado di
-soddisfare le aspettative del cliente su questo incarico.
+681,3006,,"...Hmm, sembra che siamo stati in grado di soddisfare le aspettative
+del cliente su questo incarico.
 Tu e Terriermon siete maturati molto durante questo periodo.","嗯……看來你的表現讓委託人挺滿意的。
 和大耳獸在一起，你自己本身應該也成長了不少吧？",,"……흠, 의뢰인이 기대한 만큼 일한 듯하군
 테리어몬과 함께 너 자신도 크게 성장한 거 아닌가?","... Hm, wir haben bei dem Fall wohl die
