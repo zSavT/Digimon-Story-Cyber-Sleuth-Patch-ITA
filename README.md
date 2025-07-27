@@ -103,10 +103,12 @@ Altri menu sono:
 ![Immagine](./img/ParolaChiave.jpg)
 
 - **DigiBook**
-  - la lunghezza **massima è 50/55 caratteri** (In base all'ampiezza dei caratteri utilizzati). 
+  - La lunghezza **massima è 50/57 caratteri** (In base all'ampiezza dei caratteri utilizzati).
+  - Le righe totali sono 12.
+![Immagine](./img/DigiBook.jpg)
 
 - **Quest Book**
-  - la lunghezza **massima è 50 caratteri** (51 se vogliamo inserire anche un carrattere punto o, se proprio necessario, un ulteriore carattere per non interrompere una parola). 
+  - La lunghezza **massima è 50 caratteri** (51 se vogliamo inserire anche un carrattere punto o, se proprio necessario, un ulteriore carattere per non interrompere una parola).
 ![Immagine](./img/Quest.jpg)
 
 Altri menu di gioco, come per esempio le descrizioni degli oggetti, possono essere visualizzati da interfacce differenti con dimensioni differenti, ma il testo originale è lo stesso, quindi non si può precisare la dimensione massima, in questi casi, si segue la formattazione originale.<p>
