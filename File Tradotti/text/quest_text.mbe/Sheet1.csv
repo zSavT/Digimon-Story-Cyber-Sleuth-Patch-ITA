@@ -554,17 +554,17 @@ Ort: EDEN: Gemeinschaftsbereich"
 Tower Records dove lavoro.
 Abbiamo bisogno dell'aiuto di un Cyber Sleuth!","最近我任職的淘兒唱片店內
 經常發生微妙的惡作劇，令人相當頭疼
-電腦偵探大人，請您幫幫我！","There have been some weird pranks at
-Shibuya Records where I work.
-We need the help of a Cyber Sleuth!","최근 내가 일하는 타워레코드 가게에
+電腦偵探大人，請您幫幫我！","Ci sono stati degli strani scherzi alla
+Tower Records dove lavoro.
+Abbiamo bisogno dell'aiuto di un Cyber Sleuth!","최근 내가 일하는 타워레코드 가게에
 미묘한 장난이 자꾸 발생해 곤란합니다.
 전뇌탐정 씨, 부디 도와주세요!","Bei Shibuya Records, wo ich arbeite, hat
 wer Streiche gespielt. Wir brauchen
 die Hilfe eines Cyber-Detektivs!"
 1062,,"Cliente: Reiko Tawa
 Luogo: Tower Records, Shibuya","【委託人】田和玲子
-【所在地】淘兒唱片涉谷店","Client: Reiko Tawa
-Place: Shibuya Records in Shibuya","【의뢰인】타와 레이코
+【所在地】淘兒唱片涉谷店","Cliente: Reiko Tawa
+Luogo: Tower Records, Shibuya","【의뢰인】타와 레이코
 【장소】타워레코드 시부야점","Klient: Reiko Tawa
 Ort: Shibuya Records, Shibuya"
 1063,,Chiedi informazioni sugli scherzi,向店內的人蒐集有關惡作劇的情報,,가게 사람들로부터 장난에 대한 정보를 모으자.,Streiche untersuchen
@@ -5008,8 +5008,7 @@ ihre wohlverdiente Strafe, oder?"
 8004,,Vai a [m3020]!,趕緊前往[m3020]！,,[m3020]쪽으로 가자!,Nach [m3020]
 8005,,Rapporto a [c3013],向[c3013]報告,,[c3013]에게 보고하자.,Mit [c3013] sprechen
 8010,,Cerca [c5028],找出[c5028],,[c5028]를 찾아라,Suchen: [c5028]
-8011,,"[c5028]
-trovato [c4201]
+8011,,"[c5028] trovato [c4201]
 a [m3020]!","在[m3020]發現
 [c5028]
 [c4201]！",,"[c5028]
@@ -5020,8 +5019,7 @@ a [m3020]!","在[m3020]發現
 8012,,Cliente: Mirei Mikagura,【委託人】御神樂米蕾,,【의뢰인】미카구라 미레이,Klient: Mirei Mikagura
 8013,,Vai a [m3020]!,趕緊前往[m3020]！,,[m3020]쪽으로 가자!,Nach [m3020]
 8020,,Cerca [c5028],找出[c5028],,[c5028]를 찾아라,Suchen: [c5028]
-8021,,"[c5028]
-trovato [c4202]
+8021,,"[c5028] trovato [c4202]
 a [m3020]!","在[m3020]發現
 [c5028]
 [c4202]！",,"[c5028]
@@ -5032,8 +5030,7 @@ den [c4202] in
 8022,,Cliente: Mirei Mikagura,【委託人】御神樂米蕾,,【의뢰인】미카구라 미레이,Klient: Mirei Mikagura
 8023,,Vai a [m3020]!,趕緊前往[m3020]！,,[m3020]쪽으로 가자!,Nach [m3020]
 8030,,Cerca [c5029],找出[c5029],,[c5029]를 찾아라,Suchen: [c5029]
-8031,,"[c5029]
-trovato [c4203]
+8031,,"[c5029] trovato [c4203]
 a [m3020]!","在[m3020]發現
 [c5029]
 [c4203]！",,"[c5029]
@@ -5044,8 +5041,7 @@ a [m3020]!","在[m3020]發現
 8032,,Cliente: Mirei Mikagura,【委託人】御神樂米蕾,,【의뢰인】미카구라 미레이,Klient: Mirei Mikagura
 8033,,Vai a [m3020]!,趕緊前往[m3020]！,,[m3020]쪽으로 가자!,Nach [m3020]
 8040,,Cerca [c5029],找出[c5029],,[c5029]를 찾아라,Suchen: [c5029]
-8041,,"[c5029]
-trovato [c4204]
+8041,,"[c5029] trovato [c4204]
 a [m3030]!","在[m3030]發現
 [c5029]
 [c4204]！",,"[c5029]
@@ -5056,8 +5052,7 @@ a [m3030]!","在[m3030]發現
 8042,,Cliente: Mirei Mikagura,【委託人】御神樂米蕾,,【의뢰인】미카구라 미레이,Klient: Mirei Mikagura
 8043,,Vai a [m3030]!,趕緊前往[m3030]！,,[m3030]쪽으로 가자!,Nach [m3030]
 8050,,Cerca [c5029],找出[c5029],,[c5029]를 찾아라,Suchen: [c5029]
-8051,,"[c5029]
-trovato [c4205]
+8051,,"[c5029] trovato [c4205]
 a [m3030]!","在[m3030]發現
 [c5029]
 [c4205]！",,"[c5029]
@@ -5068,8 +5063,7 @@ a [m3030]!","在[m3030]發現
 8052,,Cliente: Mirei Mikagura,【委託人】御神樂米蕾,,【의뢰인】미카구라 미레이,Klient: Mirei Mikagura
 8053,,Vai a [2[m3030]]!,趕緊前往[2[m3030]]！,,[2[m3030]]쪽으로 가자!,Nach [2[m3030]]
 8060,,Cerca [c5030],找出[c5030],,[c5030]를 찾아라,Suchen: [c5030]
-8061,,"[c5030]
-trovato [c4206]
+8061,,"[c5030] trovato [c4206]
 a [m3030]!","在[m3030]發現
 [c5030]
 [c4206]！",,"[c5030]
@@ -5080,8 +5074,7 @@ a [m3030]!","在[m3030]發現
 8062,,Cliente: Mirei Mikagura,【委託人】御神樂米蕾,,【의뢰인】미카구라 미레이,Klient: Mirei Mikagura
 8063,,Vai a [m3030]!,趕緊前往[m3030]！,,[m3030]쪽으로 가자!,Nach [m3030]
 8070,,Cerca [c5030],找出[c5030],,[c5030]를 찾아라,Suchen: [c5030]
-8071,,"[c5030]
-trovato [c4207]
+8071,,"[c5030] trovato [c4207]
 a [m3030]!","在[m3030]發現
 [c5030]
 [c4207]！",,"[c5030]
@@ -5092,8 +5085,7 @@ a [m3030]!","在[m3030]發現
 8072,,Cliente: Mirei Mikagura,【委託人】御神樂米蕾,,【의뢰인】미카구라 미레이,Klient: Mirei Mikagura
 8073,,Vai a [m3030]!,趕緊前往[m3030]！,,[m3030]쪽으로 가자!,Nach [m3030]
 8080,,Cerca [c5030],找出[c5030],,[c5030]를 찾아라,Suchen: [c5030]
-8081,,"[c5030]
-trovato [c4208]
+8081,,"[c5030] trovato [c4208]
 a [m3040]!","在[m3040]發現
 [c5030]
 [c4208]！",,"[c5030]
@@ -5104,8 +5096,7 @@ a [m3040]!","在[m3040]發現
 8082,,Cliente: Mirei Mikagura,【委託人】御神樂米蕾,,【의뢰인】미카구라 미레이,Klient: Mirei Mikagura
 8083,,Vai a [m3040]!,趕緊前往[m3040]！,,[m3040]쪽으로 가자!,Nach [m3040]
 8090,,Cerca [c5030],找出[c5030],,[c5030]를 찾아라,Suchen: [c5030]
-8091,,"[c5030]
-trovato [c4209]
+8091,,"[c5030] trovato [c4209]
 a [m3040]!","在[m3040]發現
 [c5030]
 [c4209]！",,"[c5030]
@@ -5116,8 +5107,7 @@ a [m3040]!","在[m3040]發現
 8092,,Cliente: Mirei Mikagura,【委託人】御神樂米蕾,,【의뢰인】미카구라 미레이,Klient: Mirei Mikagura
 8093,,Vai a [m3040]!,趕緊前往[m3040]！,,[m3040]쪽으로 가자!,Nach [m3040]
 8100,,Cerca [c5030],找出[c5030],,[c5030]를 찾아라,Suchen: [c5030]
-8101,,"[c5030]
-trovato [c4210]
+8101,,"[c5030] trovato [c4210]
 a [m3040]!","在[m3040]發現
 [c5030]
 [c4210]！",,"[c5030]
@@ -5128,8 +5118,7 @@ a [m3040]!","在[m3040]發現
 8102,,Cliente: Mirei Mikagura,【委託人】御神樂米蕾,,【의뢰인】미카구라 미레이,Klient: Mirei Mikagura
 8103,,Vai a [m3040]!,趕緊前往[m3040]！,,[m3040]쪽으로 가자!,Nach [m3040]
 8110,,Cerca [c5031],找出[c5031],,[c5031]를 찾아라,Suchen: [c5031]
-8111,,"[c5031]
-trovato [c4211]
+8111,,"[c5031] trovato [c4211]
 a [m3040]!","在[m3040]發現
 [c5031]
 [c4211]！",,"[c5031]
@@ -5140,8 +5129,7 @@ a [m3040]!","在[m3040]發現
 8112,,Cliente: Mirei Mikagura,【委託人】御神樂米蕾,,【의뢰인】미카구라 미레이,Klient: Mirei Mikagura
 8113,,Vai a [m3040]!,趕緊前往[m3040]！,,[m3040]쪽으로 가자!,Nach [m3040]
 8120,,Cerca [c5031],找出[c5031],,[c5031]를 찾아라,Suchen: [c5031]
-8121,,"[c5031]
-trovato [c4212]
+8121,,"[c5031] trovato [c4212]
 a [m3040]!","在[m3040]發現
 [c5031]
 [c4212]！",,"[c5031]
@@ -5152,8 +5140,7 @@ a [m3040]!","在[m3040]發現
 8122,,Cliente: Mirei Mikagura,【委託人】御神樂米蕾,,【의뢰인】미카구라 미레이,Klient: Mirei Mikagura
 8123,,Vai a [m3040]!,趕緊前往[m3040]！,,[m3040]쪽으로 가자!,Nach [m3040]
 8130,,Cerca [c5031],找出[c5031],,[c5031]를 찾아라,Suchen: [c5031]
-8131,,"[c5031]
-trovato [c4213]
+8131,,"[c5031] trovato [c4213]
 a [m3050]!","在[m3050]發現
 [c5031]
 [c4213]！",,"[c5031]
@@ -5164,8 +5151,7 @@ a [m3050]!","在[m3050]發現
 8132,,Cliente: Mirei Mikagura,【委託人】御神樂米蕾,,【의뢰인】미카구라 미레이,Klient: Mirei Mikagura
 8133,,Vai a [m3050]!,趕緊前往[m3050]！,,[m3050]쪽으로 가자!,Nach [m3050]
 8140,,Cerca [c5031],找出[c5031],,[c5031]를 찾아라,Suchen: [c5031]
-8141,,"[c5031]
-trovato [c4214]
+8141,,"[c5031] trovato [c4214]
 a [m3050]!","在[m3050]發現
 [c5031]
 [c4214]！",,"[c5031]
@@ -5176,8 +5162,7 @@ a [m3050]!","在[m3050]發現
 8142,,Cliente: Mirei Mikagura,【委託人】御神樂米蕾,,【의뢰인】미카구라 미레이,Klient: Mirei Mikagura
 8143,,Vai a [m3050]!,趕緊前往[m3050]！,,[m3050]쪽으로 가자!,Nach [m3050]
 8150,,Cerca [c5031],找出[c5031],,[c5031]를 찾아라,Suchen: [c5031]
-8151,,"[c5031]
-trovato [c4215]
+8151,,"[c5031] trovato [c4215]
 a [m4020]!","在[m4020]發現
 [c5031]
 [c4215]！",,"[c5031]
@@ -5188,8 +5173,7 @@ a [m4020]!","在[m4020]發現
 8152,,Cliente: Mirei Mikagura,【委託人】御神樂米蕾,,【의뢰인】미카구라 미레이,Klient: Mirei Mikagura
 8153,,Vai a [m4020]!,趕緊前往[m4020]！,,[m4020]쪽으로 가자!,Nach [m4020]
 8160,,Cerca [c5032],找出[c5032],,[c5032]를 찾아라,Suchen: [c5032]
-8161,,"[c5032]
-trovato [c4216]
+8161,,"[c5032] trovato [c4216]
 a [m3040]!","在[m3040]發現
 [c5032]
 [c4216]！",,"[c5032]
@@ -5200,8 +5184,7 @@ a [m3040]!","在[m3040]發現
 8162,,Cliente: Mirei Mikagura,【委託人】御神樂米蕾,,【의뢰인】미카구라 미레이,Klient: Mirei Mikagura
 8163,,Vai a [m3040]!,趕緊前往[m3040]！,,[m3040]쪽으로 가자!,Nach [m3040]
 8170,,Cerca [c5032],找出[c5032],,[c5032]를 찾아라,Suchen: [c5032]
-8171,,"[c5032]
-trovato [c4217]
+8171,,"[c5032] trovato [c4217]
 a [m2020]!","在[m2020]發現
 [c5032]
 [c4217]！",,"[c5032]
@@ -5212,8 +5195,7 @@ a [m2020]!","在[m2020]發現
 8172,,Cliente: Mirei Mikagura,【委託人】御神樂米蕾,,【의뢰인】미카구라 미레이,Klient: Mirei Mikagura
 8173,,Vai a [m2020]!,趕緊前往[m2020]！,,[m2020]쪽으로 가자!,Nach [m2020]
 8180,,Cerca [c5032],找出[c5032],,[c5032]를 찾아라,Suchen: [c5032]
-8181,,"[c5032]
-trovato [c4218]
+8181,,"[c5032] trovato [c4218]
 a [m2030]!","在[m2030]發現
 [c5032]
 [c4218]！",,"[c5032]
@@ -5224,8 +5206,7 @@ a [m2030]!","在[m2030]發現
 8182,,Cliente: Mirei Mikagura,【委託人】御神樂米蕾,,【의뢰인】미카구라 미레이,Klient: Mirei Mikagura
 8183,,Vai a [m2030]!,趕緊前往[m2030]！,,[m2030]쪽으로 가자!,Nach [m2030]
 8190,,Cerca [c5032],找出[c5032],,[c5032]를 찾아라,Suchen: [c5032]
-8191,,"[c5032]
-trovato [c4219]
+8191,,"[c5032] trovato [c4219]
 a [m3050]!","在[m3050]發現
 [c5032]
 [c4219]！",,"[c5032]
@@ -5236,8 +5217,7 @@ a [m3050]!","在[m3050]發現
 8192,,Cliente: Mirei Mikagura,【委託人】御神樂米蕾,,【의뢰인】미카구라 미레이,Klient: Mirei Mikagura
 8193,,Vai a [m3050]!,趕緊前往[m3050]！,,[m3050]쪽으로 가자!,Nach [m3050]
 8200,,Cerca [c5032],找出[c5032],,[c5032]를 찾아라,Suchen: [c5032]
-8201,,"[c5032]
-trovato [c4220]
+8201,,"[c5032] trovato [c4220]
 a [m4050]!","在[m4050]發現
 [c5032]
 [c4220]！",,"[c5032]
@@ -5248,8 +5228,7 @@ a [m4050]!","在[m4050]發現
 8202,,Cliente: Mirei Mikagura,【委託人】御神樂米蕾,,【의뢰인】미카구라 미레이,Klient: Mirei Mikagura
 8203,,Vai a [m4050]!,趕緊前往[m4050]！,,[m4050]쪽으로 가자!,Nach [m4050]
 8210,,Cerca [c5032],找出[c5032],,[c5032]를 찾아라,Suchen: [c5032]
-8211,,"[c5032]
-trovato [c4221]
+8211,,"[c5032] trovato [c4221]
 a [m5010]!","在[m5010]發現
 [c5032]
 [c4221]！",,"[c5032]
@@ -5260,8 +5239,7 @@ a [m5010]!","在[m5010]發現
 8212,,Cliente: Mirei Mikagura,【委託人】御神樂米蕾,,【의뢰인】미카구라 미레이,Klient: Mirei Mikagura
 8213,,Vai a [m5010]!,趕緊前往[m5010]！,,[m5010]쪽으로 가자!,Zur [m5010]
 8220,,Cerca [c5033],找出[c5033],,[c5033]를 찾아라,Suchen: [c5033]
-8221,,"[c5033]
-trovato [c4222]
+8221,,"[c5033] trovato [c4222]
 a [m3050]!","在[m3050]發現
 [c5033]
 [c4222]！",,"[c5033]
@@ -5272,8 +5250,7 @@ a [m3050]!","在[m3050]發現
 8222,,Cliente: Mirei Mikagura,【委託人】御神樂米蕾,,【의뢰인】미카구라 미레이,Klient: Mirei Mikagura
 8223,,Vai a [m3050]!,趕緊前往[m3050]！,,[m3050]쪽으로 가자!,Nach [m3050]
 8230,,Cerca [c5033],找出[c5033],,[c5033]를 찾아라,Suchen: [c5033]
-8231,,"[c5033]
-trovato [c4223]
+8231,,"[c5033] trovato [c4223]
 a [m4040]!","在[m4040]發現
 [c5033]
 [c4223]！",,"[c5033]
@@ -5284,8 +5261,7 @@ a [m4040]!","在[m4040]發現
 8232,,Cliente: Mirei Mikagura,【委託人】御神樂米蕾,,【의뢰인】미카구라 미레이,Klient: Mirei Mikagura
 8233,,Vai a [m4040]!,趕緊前往[m4040]！,,[m4040]쪽으로 가자!,Nach [m4040]
 8240,,Cerca [c5033],找出[c5033],,[c5033]를 찾아라,Suchen: [c5033]
-8241,,"[c5033]
-trovato [c4224]
+8241,,"[c5033] trovato [c4224]
 a [m2040]!","在[m2040]發現
 [c5033]
 [c4224]！",,"[c5033]
@@ -5296,8 +5272,7 @@ a [m2040]!","在[m2040]發現
 8242,,Cliente: Mirei Mikagura,【委託人】御神樂米蕾,,【의뢰인】미카구라 미레이,Klient: Mirei Mikagura
 8243,,Vai a [m2040]!,趕緊前往[m2040]！,,[m2040]쪽으로 가자!,Nach [m2040]
 8250,,Cerca [c5033],找出[c5033],,[c5033]를 찾아라,Suchen: [c5033]
-8251,,"[c5033]
-trovato [c4225]
+8251,,"[c5033] trovato [c4225]
 a [m3050]!","在[m3050]發現
 [c5033]
 [c4225]！",,"[c5033]
@@ -5308,8 +5283,7 @@ a [m3050]!","在[m3050]發現
 8252,,Cliente: Mirei Mikagura,【委託人】御神樂米蕾,,【의뢰인】미카구라 미레이,Klient: Mirei Mikagura
 8253,,Vai a [m3050]!,趕緊前往[m3050]！,,[m3050]쪽으로 가자!,Nach [m3050]
 8260,,Cerca [c5033],找出[c5033],,[c5033]를 찾아라,Suchen: [c5033]
-8261,,"[c5033]
-trovato [c4226]
+8261,,"[c5033] trovato [c4226]
 a [m2020]!","在[m2020]發現
 [c5033]
 [c4226]！",,"[c5033]
@@ -5320,8 +5294,7 @@ a [m2020]!","在[m2020]發現
 8262,,Cliente: Mirei Mikagura,【委託人】御神樂米蕾,,【의뢰인】미카구라 미레이,Klient: Mirei Mikagura
 8263,,Vai a [m2020]!,趕緊前往[m2020]！,,[m2020]쪽으로 가자!,Nach [m2020]
 8270,,Cerca [c5033],找出[c5033],,[c5033]를 찾아라,Suchen: [c5033]
-8271,,"[c5033]
-trovato [c4227]
+8271,,"[c5033] trovato [c4227]
 a [m2030]!","在[m2030]發現
 [c5033]
 [c4227]！",,"[c5033]
@@ -5332,8 +5305,7 @@ den [c4227] in
 8272,,Cliente: Mirei Mikagura,【委託人】御神樂米蕾,,【의뢰인】미카구라 미레이,Klient: Mirei Mikagura
 8273,,Vai a [m2030]!,趕緊前往[m2030]！,,[m2030]쪽으로 가자!,Nach [m2030]
 8280,,Cerca [c5033],找出[c5033],,[c5033]를 찾아라,Suchen: [c5033]
-8281,,"[c5033]
-trovato [c4228]
+8281,,"[c5033] trovato [c4228]
 a [m4030]!","在[m4030]發現
 [c5033]
 [c4228]！",,"[c5033]
@@ -5344,8 +5316,7 @@ a [m4030]!","在[m4030]發現
 8282,,Cliente: Mirei Mikagura,【委託人】御神樂米蕾,,【의뢰인】미카구라 미레이,Klient: Mirei Mikagura
 8283,,Vai a [m4030]!,趕緊前往[m4030]！,,[m4030]쪽으로 가자!,Nach [m4030]
 8290,,Cerca [c5033],找出[c5033],,[c5033]를 찾아라,Suchen: [c5033]
-8291,,"[c5033]
-trovato [c4229]
+8291,,"[c5033] trovato [c4229]
 a [m5021]!","在[m5021]發現
 [c5033]
 [c4229]！",,"[c5033]
