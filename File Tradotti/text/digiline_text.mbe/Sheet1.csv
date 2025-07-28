@@ -3791,7 +3791,7 @@ Alessandrite, Rubino o Giada, eh?","問答題。變石、紅寶石、翡翠之�
 가장 고가의 환전 아이템은?","Quiz! Was hat den höchsten Wert:
 Alexandrit, Rubin oder Jade, hm?"
 5068,,"Curiosità! Una domanda sui tipi: a
-quale tipo di dati fanno più danni, eh?","問答題。這次出個關於種族的題目。資料種對上
+quale Tipo Dati fanno più danni, eh?","問答題。這次出個關於種族的題目。資料種對上
 什麼種族的敵人時，能給予對方大量傷害？",,"퀴즈다. 이번엔 종족에 대해 제출하지. 데이터종에게
 큰 대미지를 주는 것은 어느 종족 상대일 때지?","Quiz! Typus-Frage: Welchem Typus fügen
 Datei-Typen den meisten Schaden zu, hm?"
@@ -4747,7 +4747,7 @@ Alessandrite, Rubino o Giada?","出個問答題唷。變石、紅寶石、翡翠
 가장 고가의 환전 아이템은 뭘까?","Hör zu. Was ist am teuersten:
 Alexandrit, Rubin oder Jade?"
 7068,,"Controlla. Una domanda tipo:
-a quale tipo di dati fanno più danni?","出個問答題唷。是關於種族的題目喔。資料種對上
+a quale Tipo Dati fanno più danni?","出個問答題唷。是關於種族的題目喔。資料種對上
 什麼種族的敵人時，能給予對方大量傷害呢？",,"퀴즈야. 종족에 대한 문제야. 데이터종에게
 큰 대미지를 입힐 수 있는 건 어느 종족 상대일 때지?","Hör zu, eine Typus-Frage: Welchem Typus
 fügen Datei-Typen am meisten Schaden zu?"
@@ -5223,7 +5223,7 @@ Alessandrite, Rubino o Giada?","那我來出問答題囉。變石、紅寶石、
 가장 고가의 환전 아이템은 뭘까?","Pass auf. Was ist am teuersten:
 Alexandrit, Rubin oder Jade?"
 8068,,"Ascoltate. Una domanda tipo:
-a quale tipo di dati fanno più danni?","我出問答題囉。是關於種族的題目喔。資料種對上
+a quale Tipo Dati fanno più danni?","我出問答題囉。是關於種族的題目喔。資料種對上
 什麼種族的敵人時，能給予對方大量傷害呢？",,"퀴즈야. 종족에 대한 문제를 낼게. 데이터종에게
 큰 대미지를 입힐 수 있는 것은 어느 종족 상대일 때지?","Pass auf, eine Typus-Frage: Welchem Typus
 fügen Datei-Typen am meisten Schaden zu?"
@@ -5888,7 +5888,7 @@ Person, die in Japan Kaffee einführte?"
 10024,,Otto!,是8隻！,,8개다!,Acht!
 10025,,Tipo libero,是自由種喔,,프리종이야.,Kein Typus.
 10026,,Tipo di virus?,是病毒種嗎？,,바이러스종일까?,Typus Virus?
-10027,,Tipo di dati!,是資料種！,,데이터종이지!,Typus Datei!
+10027,,Tipo Dati!,是資料種！,,데이터종이지!,Typus Datei!
 10028,,Magari in formazione?,是幼年期嗎,,유년기일까.,"Im Training, vielleicht?"
 10029,,"Mega, dici?",是究極體吧？,,궁극체지?,"Mega, glaube ich."
 10030,,Armatura!,裝甲體！,,아머체!,Armor!
@@ -6063,8 +6063,8 @@ Person, die in Japan Kaffee einführte?"
 10199,,Alessandrite?,是變石嗎？,,알렉산드라이트였나?,Alexandrit?
 10200,,Rubino?,不就是紅寶石？,,루비 아냐?,Rubin?
 10201,,Giada!,肯定是翡翠！,,비취로 결정!,Jade!
-10202,,Tipo di vaccino?,是疫苗種嗎？,,백신종이었나?,Typus Serum?
-10203,,Tipo di dati?,是資料種吧？,,데이터종이지?,Typus Datei?
+10202,,Tipo Vaccino?,是疫苗種嗎？,,백신종이었나?,Typus Serum?
+10203,,Tipo Dati?,是資料種吧？,,데이터종이지?,Typus Datei?
 10204,,Tipo di virus,應該是病毒種,,바이러스종이었을걸.,Typus Virus.
 10205,,Attributo elettrico?,是雷屬性，對吧？,,전기 속성이잖아?,Elektrisch?
 10206,,Attributo della Terra?,是土屬性嗎？,,땅 속성인가?,Erde?
@@ -6196,7 +6196,7 @@ Sei fantastico!","答～對了！　就是「克拉烏‧索拉斯」
 Du bist fantastisch!"
 11008,,"""6"" è corretto! Sei fantastico!",答～對了！　就是「6隻」。你真厲害！,,"정답!「6개」야.
 너는 역시 굉장해!",„6“ ist richtig! Du bist fantastisch!
-11009,,"""Tipo di dati"" è corretto!
+11009,,"""Tipo Dati"" è corretto!
 Sei fantastico!","答～對了！　就是「資料種」
 你真厲害！",,"정답!「데이터종」이야.
 너는 역시 굉장해!","„Typus Datei“ ist richtig!
@@ -6480,7 +6480,7 @@ corretto! Sei fantastica!","答～對了！　就是「紅寶石」
 你真厲害！",,"정답!「루비」야.
 너는 역시 굉장해!","„Rubin“ ist richtig!
 Du bist fantastisch!"
-11068,,"""Tipo di vaccino"" è
+11068,,"""Tipo Vaccino"" è
 corretto! Sei fantastico!","答～對了！　就是「疫苗種」
 你真厲害！",,"정답!「백신종」이야.
 너는 역시 굉장해!","„Typus Serum“ ist richtig!
@@ -6656,7 +6656,7 @@ Nicht schlecht!"
 Esatto. Non male!",「克拉烏‧索拉斯」……答對了。真有你的,,「클라우 솔라스」…정답이다. 제법이군.,"„Claíomh Solais“ ... Richtig.
 Nicht schlecht!"
 12008,,"""Sei""... Esatto. Non male!",「6隻」……答對了。真有你的,,「6개」…정답이다. 제법이군.,„Sechs“ ... Richtig. Nicht schlecht!
-12009,,"""Tipo di dati""... Corretto. Niente male!",「資料種」……答對了。真有你的,,「데이터종」…정답이다. 제법이군.,„Typus Datei“ ... Richtig. Nicht schlecht!
+12009,,"""Tipo Dati""... Corretto. Niente male!",「資料種」……答對了。真有你的,,「데이터종」…정답이다. 제법이군.,„Typus Datei“ ... Richtig. Nicht schlecht!
 12010,,"""Mega""... Esatto. Non male!",「究極體」……答對了。真有你的,,「궁극체」…정답이다. 제법이군.,„Mega“ ... Richtig. Nicht schlecht!
 12011,,"""Padre""... Esatto. Niente male!",「親父」……答對了。真有你的,,「친부」…정답이다. 제법이군.,„Vater“ ... Richtig. Nicht schlecht!
 12012,,"""Veemon""... Esatto. Non male!",「V仔獸」……答對了。真有你的,,「브이몬」…정답이다. 제법이군.,„Veemon“ ... Richtig. Nicht schlecht!
@@ -6760,7 +6760,7 @@ Esatto. Non male!",「真田新」……答對了。真有你的,,「사나다 �
 Nicht schlecht!"
 12066,,"""Gabumon""... Esatto. Non male!",「加布獸」……答對了。真有你的,,「파피몬」…정답이다. 제법이군.,„Gabumon“ ... Richtig. Nicht schlecht!
 12067,,"""Ruby""... Esatto. Non male!",「紅寶石」……答對了。真有你的,,「루비」…정답이다. 제법이군.,„Rubin“ ... Richtig. Nicht schlecht!
-12068,,"""Tipo di vaccino""... Esatto. Non male!",「疫苗種」……答對了。真有你的,,「백신종」…정답이다. 제법이군.,„Typus Serum“ ... Richtig. Nicht schlecht!
+12068,,"""Tipo Vaccino""... Esatto. Non male!",「疫苗種」……答對了。真有你的,,「백신종」…정답이다. 제법이군.,„Typus Serum“ ... Richtig. Nicht schlecht!
 12069,,"""Attributo Terra""... Esatto. Non male!",「土屬性」……答對了。真有你的,,「땅 속성」…정답이다. 제법이군.,„Erde“ ... Richtig. Nicht schlecht!
 12070,,"""Dot""... Esatto. Non male! A
 proposito, non possono partecipare alle combo.","「液晶化」……答對了。真有你的。順帶一提，
@@ -6850,7 +6850,7 @@ Die Antwort ist „Claíomh Solais“!"
 indovinato! La risposta è ""Sei""!",喔，答對了！　答案就是「6隻」！,,"오, 정답이군! 답은「6개」지!","Wow, das stimmt!
 Die Antwort ist „Sechs“!"
 13009,,"Wow, hai
-capito! La risposta è ""Tipo di dati""!",喔，答對了！　答案就是「資料種」！,,"오, 정답이군! 답은「데이터종」이지!","Wow, das stimmt!
+capito! La risposta è ""Tipo Dati""!",喔，答對了！　答案就是「資料種」！,,"오, 정답이군! 답은「데이터종」이지!","Wow, das stimmt!
 Die Antwort ist „Typus Datei“!"
 13010,,"Wow, hai capito bene! La risposta è ""Mega""!",喔，答對了！　答案就是「究極體」！,,"오, 정답이군! 답은「궁극체」지!","Wow, das stimmt! Die Antwort ist „Mega“!"
 13011,,"Wow, hai capito
@@ -7018,7 +7018,7 @@ Die Antwort ist „Gabumon“!"
 indovinato! La risposta è ""Ruby""!",喔，答對了！　答案就是「紅寶石」！,,"오, 정답이군! 답은「루비」지!","Wow, das stimmt!
 Die Antwort ist „Rubin“!"
 13068,,"Wow, hai
-indovinato! La risposta è ""Tipo di vaccino""!",喔，答對了！　答案就是「疫苗種」！,,"오, 정답이군! 답은「백신종」이지!","Wow, das stimmt!
+indovinato! La risposta è ""Tipo Vaccino""!",喔，答對了！　答案就是「疫苗種」！,,"오, 정답이군! 답은「백신종」이지!","Wow, das stimmt!
 Die Antwort ist „Typus Serum“!"
 13069,,"Wow, hai indovinato! La risposta è ""attributo Terra""!",喔，答對了！　答案就是「土屬性」！,,"오, 정답이군! 답은「땅 속성」이지!","Wow, das stimmt! Die Antwort ist „Erde“!"
 13070,,"Wow, hai capito! La risposta è
@@ -7136,7 +7136,7 @@ Die Antwort ist „Niederländisch“!"
 ""Claíomh Solais""!",答對囉！　答案就是「克拉烏‧索拉斯」,,정답이야!  답은「클라우 솔라스」.,"Korrekto! Die Antwort ist
 „Claíomh Solais“!"
 14008,,"Corretto! La risposta è ""Sei""!",答對囉！　答案就是「6隻」,,정답이야!  답은「6개」.,Korrekto! Die Antwort ist „Sechs“!
-14009,,"Corretto! La risposta è ""Tipo di dati""!",答對囉！　答案就是「資料種」,,정답이야!  답은「데이터종」.,Korrekto! Die Antwort ist „Typus Datei“!
+14009,,"Corretto! La risposta è ""Tipo Dati""!",答對囉！　答案就是「資料種」,,정답이야!  답은「데이터종」.,Korrekto! Die Antwort ist „Typus Datei“!
 14010,,"Corretto! La risposta è ""Mega""!",答對囉！　答案就是「究極體」,,정답이야!  답은「궁극체」.,Korrekto! Die Antwort ist „Mega“!
 14011,,"Corretto! La risposta è ""Padre""!",答對囉！　答案就是「親父」,,정답이야!  답은「친부」.,Korrekto! Die Antwort ist „Vater“!
 14012,,"Corretto! La risposta è ""Veemon""!",答對囉！　答案就是「V仔獸」,,정답이야!  답은「브이몬」.,Korrekto! Die Antwort ist „Veemon“!
@@ -7229,7 +7229,7 @@ Die Antwort ist „Niederländisch“!"
 „Arata Sanada“!"
 14066,,"Corretto! La risposta è ""Gabumon""!",答對囉！　答案就是「加布獸」,,정답이야!  답은「파피몬」.,Korrekto! Die Antwort ist „Gabumon“!
 14067,,"Corretto! La risposta è ""Ruby""!",答對囉！　答案就是「紅寶石」,,정답이야!  답은「루비」.,Korrekto! Die Antwort ist „Rubin“!
-14068,,"Corretto! La risposta è ""Tipo di vaccino""!",答對囉！　答案就是「疫苗種」,,정답이야!  답은「백신종」.,Korrekto! Die Antwort ist „Typus Serum“!
+14068,,"Corretto! La risposta è ""Tipo Vaccino""!",答對囉！　答案就是「疫苗種」,,정답이야!  답은「백신종」.,Korrekto! Die Antwort ist „Typus Serum“!
 14069,,"Corretto! La risposta è ""attributo Terra""!",答對囉！　答案就是「土屬性」,,정답이야!  답은「땅 속성」.,Korrekto! Die Antwort ist „Erde“!
 14070,,"Corretto! La risposta è ""Dot""! Non
 possono nemmeno partecipare alle combo.","答對囉！　答案就是「液晶化」
@@ -7313,7 +7313,7 @@ risposta è ""olandese""!",答對囉！　答案就是「荷蘭人」！,,정답
 「클라우 솔라스」가 답이야.",Wahnsinn! „Claíomh Solais“ ist richtig!
 15008,,"Beh, lo farò. ""Sei"" è corretto!",好厲害，答對了呢！　正確答案就是「6隻」唷,,"굉장해, 맞았어!
 「6개」가 답이야.",Wahnsinn! „Sechs“ ist richtig!
-15009,,"Bene, lo farò. ""Tipo di dati"" è corretto!",好厲害，答對了呢！　正確答案就是「資料種」唷,,"굉장해, 맞았어!
+15009,,"Bene, lo farò. ""Tipo Dati"" è corretto!",好厲害，答對了呢！　正確答案就是「資料種」唷,,"굉장해, 맞았어!
 「데이터종」이 답이야.",Wahnsinn! „Typus Datei“ ist richtig!
 15010,,"Beh, lo farò. ""Mega"" è corretto!",好厲害，答對了呢！　正確答案就是「究極體」唷,,"굉장해, 맞았어!
 「궁극체」가 답이야.",Wahnsinn! „Mega“ ist richtig!
@@ -7447,7 +7447,7 @@ Persönlichkeit“ ist richtig!"
 「파피몬」가 답이야.",Wahnsinn! „Gabumon“ ist richtig!
 15067,,"Beh, lo farò. ""Ruby"" è la parola giusta!",好厲害，答對了呢！　正確答案就是「紅寶石」唷,,"굉장해, 맞았어!
 「루비」가 답이야.",Wahnsinn! „Rubin“ ist richtig!
-15068,,"Beh, lo farò. ""Tipo di vaccino"" è corretto!",好厲害，答對了呢！　正確答案就是「疫苗種」唷,,"굉장해, 맞았어!
+15068,,"Beh, lo farò. ""Tipo Vaccino"" è corretto!",好厲害，答對了呢！　正確答案就是「疫苗種」唷,,"굉장해, 맞았어!
 「백신종」이 답이야.",Wahnsinn! „Typus Serum“ ist richtig!
 15069,,"Beh, lo farò. ""Attributo Terra"" è corretto!",好厲害，答對了呢！　正確答案就是「土屬性」唷,,"굉장해, 맞았어!
 「땅 속성」이 답이야.",Wahnsinn! „Erde“ ist richtig!
@@ -7564,7 +7564,7 @@ ist richtig!"
 „Claíomh Solais“!"
 16008,,"Ben fatto, la risposta è ""Sei""!",答對了。答案就是「6隻」。表現不錯嘛,,"정답입니다. 답은「6개」.
 제법이군요.","Sehr gut, die Antwort ist „Sechs“!"
-16009,,"Ben fatto, la risposta è ""Tipo di dati""!",答對了。答案就是「資料種」。表現不錯嘛,,"정답입니다. 답은「데이터종」.
+16009,,"Ben fatto, la risposta è ""Tipo Dati""!",答對了。答案就是「資料種」。表現不錯嘛,,"정답입니다. 답은「데이터종」.
 제법이군요.","Sehr gut, die Antwort ist „Typus Datei“!"
 16010,,"Ben fatto, la risposta è ""Mega""!",答對了。答案就是「究極體」。表現不錯嘛,,"정답입니다. 답은「궁극체」.
 제법이군요.","Sehr gut, die Antwort ist „Mega“!"
@@ -7716,7 +7716,7 @@ risposta è ""29 stazioni""!",答對了。答案就是「29站」。表現不錯
 제법이군요.","Sehr gut, die Antwort ist „Gabumon“!"
 16067,,"Ben fatto, la risposta è ""Ruby""!",答對了。答案就是「紅寶石」。表現不錯嘛,,"정답입니다. 답은「루비」.
 제법이군요.","Sehr gut, die Antwort ist „Rubin“!"
-16068,,"Ben fatto, la risposta è ""Tipo di vaccino""!",答對了。答案就是「疫苗種」。表現不錯嘛,,"정답입니다. 답은「백신종」.
+16068,,"Ben fatto, la risposta è ""Tipo Vaccino""!",答對了。答案就是「疫苗種」。表現不錯嘛,,"정답입니다. 답은「백신종」.
 제법이군요.","Sehr gut, die Antwort ist „Typus Serum“!"
 16069,,"Ben fatto, la risposta è ""attributo Terra""!",答對了。答案就是「土屬性」。表現不錯嘛,,"정답입니다. 답은「땅 속성」.
 제법이군요.","Sehr gut, die Antwort ist „Erde“!"
@@ -7753,8 +7753,7 @@ können sich nicht an Kombos beteiligen!"
 제법이군요.","Sehr gut, die Antwort ist „Shakkoumon“!"
 16081,,"Ben fatto, la risposta è ""Veedramon""!",答對了。答案就是「V龍獸」。表現不錯嘛,,"정답입니다. 답은「브이드라몬」.
 제법이군요.","Sehr gut, die Antwort ist „Veedramon“!"
-16082,,"Ben fatto, la
-risposta è ""Spara cristalli dalla testa""!","答對了。答案就是「從頭部射出礦石」
+16082,,"Ben fatto, la risposta è ""Spara cristalli dalla testa""!","答對了。答案就是「從頭部射出礦石」
 表現不錯嘛",,"정답입니다. 답은「머리에서 광석을 발사한다」.
 제법이군요.","Sehr gut, die Antwort ist
 „Kristalle schießen aus seinem Kopf“!"
@@ -7763,12 +7762,10 @@ risposta è ""Spara cristalli dalla testa""!","答對了。答案就是「從頭
 表現不錯嘛",,"정답입니다. 답은「손 끝에서 가는 빔을 쏜다」.
 제법이군요.","Sehr gut, die Antwort ist
 „Ein dünner Strahl aus den Händen“!"
-16084,,"Ben fatto, la risposta è
-""Machinedramon""!",答對了。答案就是「機械邪龍獸」。表現不錯嘛,,"정답입니다. 답은「파워드라몬」.
+16084,,"Ben fatto, la risposta è ""Machinedramon""!",答對了。答案就是「機械邪龍獸」。表現不錯嘛,,"정답입니다. 답은「파워드라몬」.
 제법이군요.","Sehr gut, die Antwort ist
 „Machinedramon“!"
-16085,,"Ben fatto, la risposta è
-""Grande Aquila del Deserto""!",答對了。答案就是「沙漠之巨鷲」。表現不錯嘛,,"정답입니다. 답은「사막의 거취」.
+16085,,"Ben fatto, la risposta è ""Grande Aquila del Deserto""!",答對了。答案就是「沙漠之巨鷲」。表現不錯嘛,,"정답입니다. 답은「사막의 거취」.
 제법이군요.","Sehr gut, die Antwort ist
 „Großer Adler der Wüste“!"
 16086,,"Ben fatto, la risposta è ""Re Corvo""!
@@ -7776,12 +7773,10 @@ Davvero interessante, se posso dirlo io.","答對了。答案就是「烏王丸�
 順帶一提，這唸做「ㄨ　ㄨㄤˊ　ㄨㄢˊ」",,"정답입니다. 답은「오왕도」.
 제법이군요.","Sehr gut, die Antwort ist „Rabenkönig“!
 Ziemlich cool, wenn du mich fragst."
-16087,,"Ben fatto, la risposta è
-""BanchoLeomon""!",答對了。答案就是「番長獅子獸」。表現不錯嘛,,"정답입니다. 답은「반쵸레오몬」.
+16087,,"Ben fatto, la risposta è ""BanchoLeomon""!",答對了。答案就是「番長獅子獸」。表現不錯嘛,,"정답입니다. 답은「반쵸레오몬」.
 제법이군요.","Sehr gut, die Antwort ist
 „BanchoLeomon“!"
-16088,,"Ben fatto, la risposta è
-""Terrier Tornado""!",答對了。答案就是「小型龍捲風」。表現不錯嘛,,"정답입니다. 답은「프티 트위스터」.
+16088,,"Ben fatto, la risposta è ""Terrier Tornado""!",答對了。答案就是「小型龍捲風」。表現不錯嘛,,"정답입니다. 답은「프티 트위스터」.
 제법이군요.","Sehr gut, die Antwort ist
 „Terrier-Tornado“!"
 16089,,"Ben fatto, la risposta è ""Spray""!",答對了。答案就是「碰碰拳」。表現不錯嘛,,"정답입니다. 답은「뿜기」.
@@ -7792,8 +7787,7 @@ Ziemlich cool, wenn du mich fragst."
 제법이군요.","Sehr gut, die Antwort ist „23“!"
 16092,,"Ben fatto, la risposta è ""Ootaku""!",答對了。答案就是「大田區」。表現不錯嘛,,"정답입니다. 답은「오타구」.
 제법이군요.","Sehr gut, die Antwort ist „Ootaku“!"
-16093,,"Ben fatto, la risposta
-è ""Il periodo Azuchi-Momoyama""!",答對了。答案就是「安土桃山時代」。表現不錯嘛,,"정답입니다. 답은「아즈치 모모야마 시대」.
+16093,,"Ben fatto, la risposta è ""Il periodo Azuchi-Momoyama""!",答對了。答案就是「安土桃山時代」。表現不錯嘛,,"정답입니다. 답은「아즈치 모모야마 시대」.
 제법이군요.","Sehr gut, die Antwort ist
 „In der Azuchi-Momoyama-Periode“!"
 16094,,"Ben fatto, la risposta è ""Mammiferi""!",答對了。答案就是「哺乳類」。表現不錯嘛,,"정답입니다. 답은「포유류」.
@@ -7809,12 +7803,10 @@ Ziemlich cool, wenn du mich fragst."
 表現不錯嘛",,"정답입니다. 답은「초겨울 무렵의 따뜻한 기후」.
 제법이군요.","Sehr gut, die Antwort ist
 „Warmes Wetter zu Winterbeginn“!"
-16099,,"Ben fatto, la risposta
-è ""La Rivoluzione Francese""!",答對了。答案就是「法國大革命」。表現不錯嘛,,"정답입니다. 답은「프랑스 혁명」.
+16099,,"Ben fatto, la risposta è ""La Rivoluzione Francese""!",答對了。答案就是「法國大革命」。表現不錯嘛,,"정답입니다. 답은「프랑스 혁명」.
 제법이군요.","Sehr gut, die Antwort ist
 „Die Französische Revolution“!"
-16100,,"Ben fatto, la
-risposta è ""olandese""!",答對了。答案就是「荷蘭人」。表現不錯嘛,,"정답입니다. 답은「네덜란드인」.
+16100,,"Ben fatto, la risposta è ""olandese""!",答對了。答案就是「荷蘭人」。表現不錯嘛,,"정답입니다. 답은「네덜란드인」.
 제법이군요.","Sehr gut, die Antwort ist
 „Niederländisch“!"
 21001,,"Peccato che la risposta sia ""Digivice"".
@@ -7822,51 +7814,51 @@ La prossima volta avrai più fortuna!","答～錯了！　答案是「Digivice�
 下次再加油吧～！",,"땡! 답은「디지바이스」
 다음엔 맞추자!","Schade, die Antwort ist „Digivice“.
 Viel Glück beim nächsten Mal!"
-21002,,"Peccato che la risposta sia ""Kyoko
-Kuremi"". La prossima volta andrà meglio!",答～錯了！　答案是「暮海杏子」。下次再加油吧～！,,"땡! 답은「쿠레미 쿄코」
+21002,,"Peccato che la risposta sia ""Kyoko Kuremi"".
+La prossima volta andrà meglio!",答～錯了！　答案是「暮海杏子」。下次再加油吧～！,,"땡! 답은「쿠레미 쿄코」
 다음엔 맞추자!","Schade, die Antwort ist „Kyoko Kuremi“.
 Viel Glück beim nächsten Mal!"
-21003,,"Peccato che la risposta sia ""Omnimon
-Zwart"". La prossima volta andrà meglio!","答～錯了！　答案是「黑奧米加獸」
+21003,,"Peccato che la risposta sia ""Omnimon Zwart"".
+La prossima volta andrà meglio!","答～錯了！　答案是「黑奧米加獸」
 下次再加油吧～！",,"땡! 답은「오메가몬 즈왈트」
 다음엔 맞추자!","Schade, die Antwort ist „Omnimon Zwart“.
 Viel Glück beim nächsten Mal!"
-21004,,"Peccato che la risposta sia
-""13"". La prossima volta andrà meglio!",答～錯了！　答案是「13隻」。下次再加油吧～！,,"땡! 답은「13마리」
+21004,,"Peccato che la risposta sia ""13"".
+La prossima volta andrà meglio!",答～錯了！　答案是「13隻」。下次再加油吧～！,,"땡! 답은「13마리」
 다음엔 맞추자!","Schade, die Antwort ist „13“.
 Viel Glück beim nächsten Mal!"
-21005,,"Peccato che la risposta sia
-""Due"". La prossima volta andrà meglio!",答～錯了！　答案是「2隻」。下次再加油吧～！,,"땡! 답은「2마리」
+21005,,"Peccato che la risposta sia ""Due"".
+La prossima volta andrà meglio!",答～錯了！　答案是「2隻」。下次再加油吧～！,,"땡! 답은「2마리」
 다음엔 맞추자!","Schade, die Antwort ist „Zwei“.
 Viel Glück beim nächsten Mal!"
-21006,,"Peccato che la risposta sia ""Giostra del
-Fulmine"". La prossima volta andrà meglio!","答～錯了！　答案是「皇家槍擊」
+21006,,"Peccato che la risposta sia ""Giostra del Fulmine"".
+La prossima volta andrà meglio!","答～錯了！　答案是「皇家槍擊」
 下次再加油吧～！",,"땡! 답은「로얄 세이버」
 다음엔 맞추자!","Schade, die Antwort ist „Blitz-Tjost“.
 Viel Glück beim nächsten Mal!"
-21007,,"Peccato, la risposta è ""Claíomh
-Solais"". Migliore fortuna la prossima volta!","答～錯了！　答案是「克拉烏‧索拉斯」
+21007,,"Peccato, la risposta è ""Claíomh Solais"".
+Migliore fortuna la prossima volta!","答～錯了！　答案是「克拉烏‧索拉斯」
 下次再加油吧～！",,"땡! 답은「클라우 솔라스」
 다음엔 맞추자!","Schade, die Antwort ist „Claíomh
 Solais“. Viel Glück beim nächsten Mal!"
-21008,,"Peccato che la risposta sia
-""Sei"". La prossima volta andrà meglio!",答～錯了！　答案是「6隻」。下次再加油吧～！,,"땡! 답은「6개」
+21008,,"Peccato che la risposta sia ""Sei"".
+La prossima volta andrà meglio!",答～錯了！　答案是「6隻」。下次再加油吧～！,,"땡! 답은「6개」
 다음엔 맞추자!","Schade, die Antwort ist „Sechs“.
 Viel Glück beim nächsten Mal!"
-21009,,"Peccato che la risposta sia ""Tipo di
-dati"". La prossima volta andrà meglio!",答～錯了！　答案是「資料種」。下次再加油吧～！,,"땡! 답은「데이터종」
+21009,,"Peccato che la risposta sia ""Tipo Dati"".
+La prossima volta andrà meglio!",答～錯了！　答案是「資料種」。下次再加油吧～！,,"땡! 답은「데이터종」
 다음엔 맞추자!","Schade, die Antwort ist „Typus Datei“.
 Viel Glück beim nächsten Mal!"
-21010,,"Peccato che la risposta sia
-""Mega"". La prossima volta andrà meglio!",答～錯了！　答案是「究極體」。下次再加油吧～！,,"땡! 답은「궁극체」
+21010,,"Peccato che la risposta sia ""Mega"".
+La prossima volta andrà meglio!",答～錯了！　答案是「究極體」。下次再加油吧～！,,"땡! 답은「궁극체」
 다음엔 맞추자!","Schade, die Antwort ist „Mega“.
 Viel Glück beim nächsten Mal!"
-21011,,"Peccato che la risposta sia
-""Padre"". La prossima volta andrà meglio!",答～錯了！　答案是「親父」。下次再加油吧～！,,"땡! 답은「친부」
+21011,,"Peccato che la risposta sia ""Padre"".
+La prossima volta andrà meglio!",答～錯了！　答案是「親父」。下次再加油吧～！,,"땡! 답은「친부」
 다음엔 맞추자!","Schade, die Antwort ist „Vater“.
 Viel Glück beim nächsten Mal!"
-21012,,"Peccato che la risposta sia
-""Veemon"". La prossima volta andrà meglio!",答～錯了！　答案是「V仔獸」。下次再加油吧～！,,"땡! 답은「브이몬」
+21012,,"Peccato che la risposta sia ""Veemon"".
+La prossima volta andrà meglio!",答～錯了！　答案是「V仔獸」。下次再加油吧～！,,"땡! 답은「브이몬」
 다음엔 맞추자!","Schade, die Antwort ist „Veemon“.
 Viel Glück beim nächsten Mal!"
 21013,,"Peccato che la risposta sia ""Leopardmon"".
@@ -7874,13 +7866,13 @@ La prossima volta avrai più fortuna!","答～錯了！　答案是「芳香獸�
 下次再加油吧～！",,"땡! 답은「두프트몬」
 다음엔 맞추자!","Schade, die Antwort ist „Duftmon“.
 Viel Glück beim nächsten Mal!"
-21014,,"Peccato che la risposta sia
-""Dynasmon"". La prossima volta andrà meglio!","答～錯了！　答案是「杜納斯獸」
+21014,,"Peccato che la risposta sia ""Dynasmon"".
+La prossima volta andrà meglio!","答～錯了！　答案是「杜納斯獸」
 下次再加油吧～！",,"땡! 답은「듀나스몬」
 다음엔 맞추자!","Schade, die Antwort ist „Dynasmon“.
 Viel Glück beim nächsten Mal!"
-21015,,"Peccato che la risposta sia
-""Omnimon"". La prossima volta andrà meglio!","答～錯了！　答案是「奧米加獸」
+21015,,"Peccato che la risposta sia ""Omnimon"".
+La prossima volta andrà meglio!","答～錯了！　答案是「奧米加獸」
 下次再加油吧～！",,"땡! 답은「오메가몬」
 다음엔 맞추자!","Schade, die Antwort ist „Omnimon“.
 Viel Glück beim nächsten Mal!"
@@ -7889,31 +7881,31 @@ La prossima volta avrai più fortuna!","答～錯了！　答案是「劍皇獸�
 下次再加油吧～！",,"땡! 답은「로드나이트몬」
 다음엔 맞추자!","Schade, die Antwort ist „Crusadermon“.
 Viel Glück beim nächsten Mal!"
-21017,,"Peccato, la risposta è
-""UlforceVeedramon"". La prossima volta avrai più fortuna!","答～錯了！　答案是「究極V龍獸」
+21017,,"Peccato, la risposta è ""UlforceVeedramon"".
+La prossima volta avrai più fortuna!","答～錯了！　答案是「究極V龍獸」
 下次再加油吧～！",,"땡! 답은「알포스브이드라몬」
 다음엔 맞추자!","Schade, es ist „UlforceVeedramon“.
 Viel Glück beim nächsten Mal!"
-21018,,"Peccato che la risposta sia
-""Dieci"". La prossima volta andrà meglio!",答～錯了！　答案是「10隻」。下次再加油吧～！,,"땡! 답은「10개」
+21018,,"Peccato che la risposta sia ""Dieci"".
+La prossima volta andrà meglio!",答～錯了！　答案是「10隻」。下次再加油吧～！,,"땡! 답은「10개」
 다음엔 맞추자!","Schade, die Antwort ist „Zehn“.
 Viel Glück beim nächsten Mal!"
 21019,,"Peccato che la risposta sia ""Ueno"".
 La prossima volta avrai più fortuna!",答～錯了！　答案是「上野」。下次再加油吧～！,,"땡! 답은「우에노」
 다음엔 맞추자!","Schade, die Antwort ist „Ueno“.
 Viel Glück beim nächsten Mal!"
-21020,,"Peccato che la risposta sia
-""DigiLine"". La prossima volta andrà meglio!","答～錯了！　答案是「數碼連線」
+21020,,"Peccato che la risposta sia ""DigiLine"".
+La prossima volta andrà meglio!","答～錯了！　答案是「數碼連線」
 下次再加油吧～！",,"땡! 답은「디지라인」
 다음엔 맞추자!","Schade, die Antwort ist „Digiline“.
 Viel Glück beim nächsten Mal!"
-21021,,"Peccato che la risposta sia ""29
-stazioni"". La prossima volta sarai più fortunato!","答～錯了！　答案是「29站」
+21021,,"Peccato che la risposta sia ""29 stazioni"".
+La prossima volta sarai più fortunato!","答～錯了！　答案是「29站」
 下次再加油吧～！",,"땡! 답은「29역」
 다음엔 맞추자!","Schade, es sind 29 Haltestellen.
 Viel Glück beim nächsten Mal!"
-21022,,"Peccato che la risposta sia
-""GranKuwagamon"". La prossima volta andrà meglio!","答～錯了！　答案是「究極古加獸」
+21022,,"Peccato che la risposta sia ""GranKuwagamon"".
+La prossima volta andrà meglio!","答～錯了！　答案是「究極古加獸」
 下次再加油吧～！",,"땡! 답은「그랜쿠가몬」
 다음엔 맞추자!","Schade, die Antwort ist „GranKuwagamon“.
 Viel Glück beim nächsten Mal!"
@@ -7927,16 +7919,16 @@ L'isola più a sud, Okinotori, fa parte di Tokyo!","答～錯了！　答案是�
 日本最南端的沖鳥礁，據說是隸屬於東京都的！",,"땡! 답은「도쿄도」
 최남단 오키노토리시마는 도쿄도라고 해!","Schade, die Antwort ist „Tokio“. Die
 südlichste Insel Okinotori gehört dazu!"
-21025,,"Peccato che la risposta sia ""Eglefino"". La
-prossima volta sarà più fortunata!",答～錯了！　答案是「ㄔㄨㄣ」。下次再加油吧～！,,"땡! 답은「삼치」
+21025,,"Peccato che la risposta sia ""Eglefino"".
+La prossima volta sarà più fortunata!",答～錯了！　答案是「ㄔㄨㄣ」。下次再加油吧～！,,"땡! 답은「삼치」
 다음엔 맞추자!","Schade, die Antwort ist „Schellfisch“.
 Viel Glück beim nächsten Mal!"
-21026,,"Peccato che la risposta sia
-""Houryuuji"". La prossima volta andrà meglio!",答～錯了！　答案是「法隆寺」。下次再加油吧～！,,"땡! 답은「호류지」
+21026,,"Peccato che la risposta sia ""Houryuuji"".
+La prossima volta andrà meglio!",答～錯了！　答案是「法隆寺」。下次再加油吧～！,,"땡! 답은「호류지」
 다음엔 맞추자!","Schade, die Antwort ist „Hōryū-ji“.
 Viel Glück beim nächsten Mal!"
-21027,,"Peccato che la risposta sia
-""Minamoto-No-Yoritomo"". La prossima volta andrà meglio!",答～錯了！　答案是「源賴朝」。下次再加油吧～！,,"땡! 답은「미나모토노 요리토모」
+21027,,"Peccato che la risposta sia ""Minamoto-No-Yoritomo"".
+La prossima volta andrà meglio!",答～錯了！　答案是「源賴朝」。下次再加油吧～！,,"땡! 답은「미나모토노 요리토모」
 다음엔 맞추자!","Schade, die Antwort ist „Minamoto no
 Yoritomo“. Viel Glück beim nächsten Mal!"
 21028,,"Peccato che la risposta sia ""Passalo sotto
@@ -7948,8 +7940,8 @@ halten“. Viel Glück beim nächsten Mal!"
 e dello Sport"". La prossima volta andrà meglio!",答～錯了！　答案是「體育日」。下次再加油吧～！,,"땡! 답은「체육의 날」
 다음엔 맞추자!","Schade, es ist der „Tag der Gesundheit
 und des Sports“. Viel Glück noch!"
-21030,,"Peccato che la risposta sia
-""23"". La prossima volta andrà meglio!",答～錯了！　答案是「23」。下次再加油吧～！,,"땡! 답은「23」
+21030,,"Peccato che la risposta sia ""23"".
+La prossima volta andrà meglio!",答～錯了！　答案是「23」。下次再加油吧～！,,"땡! 답은「23」
 다음엔 맞추자!","Schade, die Antwort ist „23“.
 Viel Glück beim nächsten Mal!"
 21031,,"Peccato che la risposta sia ""ToyAgumon"".
@@ -7957,16 +7949,16 @@ La prossima volta avrai più fortuna!","答～錯了！　答案是「積木亞�
 下次再加油吧～！",,"땡! 답은「토이아구몬」
 다음엔 맞추자!","Schade, die Antwort ist „ToyAgumon“.
 Viel Glück beim nächsten Mal!"
-21032,,"Peccato che la risposta sia
-""Veemon"". La prossima volta andrà meglio!",答～錯了！　答案是「迪路獸」。下次再加油吧～！,,"땡! 답은「가트몬」
+21032,,"Peccato che la risposta sia ""Veemon"".
+La prossima volta andrà meglio!",答～錯了！　答案是「迪路獸」。下次再加油吧～！,,"땡! 답은「가트몬」
 다음엔 맞추자!","Schade, die Antwort ist „Veemon“.
 Viel Glück beim nächsten Mal!"
-21033,,"Peccato che la risposta sia
-""Palmon"". La prossima volta andrà meglio!",答～錯了！　答案是「巴魯獸」。下次再加油吧～！,,"땡! 답은「팔몬」
+21033,,"Peccato che la risposta sia ""Palmon"".
+La prossima volta andrà meglio!",答～錯了！　答案是「巴魯獸」。下次再加油吧～！,,"땡! 답은「팔몬」
 다음엔 맞추자!","Schade, die Antwort ist „Palmon“.
 Viel Glück beim nächsten Mal!"
-21034,,"Peccato che la risposta sia
-""Monzaemon"". La prossima volta andrà meglio!","答～錯了！　答案是「熊仔獸」
+21034,,"Peccato che la risposta sia ""Monzaemon"".
+La prossima volta andrà meglio!","答～錯了！　答案是「熊仔獸」
 下次再加油吧～！",,"땡! 답은「퍼펫몬」
 다음엔 맞추자!","Schade, die Antwort ist „Monzaemon“.
 Viel Glück beim nächsten Mal!"
@@ -7974,25 +7966,25 @@ Viel Glück beim nächsten Mal!"
 La prossima volta avrai più fortuna!",答～錯了！　答案是「伽樓達獸」。下次再加油吧～！,,"땡! 답은「가루다몬」
 다음엔 맞추자!","Schade, die Antwort ist „Garudamon“.
 Viel Glück beim nächsten Mal!"
-21036,,"Peccato che la risposta sia
-""Botamon"". La prossima volta andrà meglio!",答～錯了！　答案是「黑球獸」。下次再加油吧～！,,"땡! 답은「깜몬」
+21036,,"Peccato che la risposta sia ""Botamon"".
+La prossima volta andrà meglio!",答～錯了！　答案是「黑球獸」。下次再加油吧～！,,"땡! 답은「깜몬」
 다음엔 맞추자!","Schade, die Antwort ist „Botamon“.
 Viel Glück beim nächsten Mal!"
-21037,,"Peccato che la risposta sia
-""Wanyamon"". La prossima volta andrà meglio!",答～錯了！　答案是「汪喵獸」。下次再加油吧～！,,"땡! 답은「와냐몬」
+21037,,"Peccato che la risposta sia ""Wanyamon"".
+La prossima volta andrà meglio!",答～錯了！　答案是「汪喵獸」。下次再加油吧～！,,"땡! 답은「와냐몬」
 다음엔 맞추자!","Schade, die Antwort ist „Wanyamon“.
 Viel Glück beim nächsten Mal!"
-21038,,"Peccato che la risposta sia ""Il più forte"". La
-prossima volta sarai più fortunato!",答～錯了！　答案是「最強」。下次再加油吧～！,,"땡! 답은「최강」
+21038,,"Peccato che la risposta sia ""Il più forte"".
+La prossima volta sarai più fortunato!",答～錯了！　答案是「最強」。下次再加油吧～！,,"땡! 답은「최강」
 다음엔 맞추자!","Schade, die Antwort ist „Am stärksten“.
 Viel Glück beim nächsten Mal!"
-21039,,"Peccato che la risposta sia
-""Beelzemon"". La prossima volta andrà meglio!","答～錯了！　答案是「墮天地獄獸」
+21039,,"Peccato che la risposta sia ""Beelzemon"".
+La prossima volta andrà meglio!","答～錯了！　答案是「墮天地獄獸」
 下次再加油吧～！",,"땡! 답은「베르제브몬」
 다음엔 맞추자!","Schade, die Antwort ist „Beelzemon“.
 Viel Glück beim nächsten Mal!"
-21040,,"Peccato che la risposta sia
-""Cherrymon"". La prossima volta andrà meglio!","答～錯了！　答案是「祖利獸」
+21040,,"Peccato che la risposta sia ""Cherrymon"".
+La prossima volta andrà meglio!","答～錯了！　答案是「祖利獸」
 下次再加油吧～！",,"땡! 답은「쥬레이몬」
 다음엔 맞추자!","Schade, die Antwort ist „Cherrymon“.
 Viel Glück beim nächsten Mal!"
@@ -8001,8 +7993,8 @@ La prossima volta avrai più fortuna!","答～錯了！　答案是「烈焰獸�
 下次再加油吧～！",,"땡! 답은「화염드라몬」
 다음엔 맞추자!","Schade, die Antwort ist „Flamedramon“.
 Viel Glück beim nächsten Mal!"
-21042,,"Peccato che la risposta sia
-""Sakuyamon"". La prossima volta andrà meglio!",答～錯了！　答案是「沙古牙獸」。下次再加油吧～！,,"땡! 답은「샤크라몬」
+21042,,"Peccato che la risposta sia ""Sakuyamon"".
+La prossima volta andrà meglio!",答～錯了！　答案是「沙古牙獸」。下次再加油吧～！,,"땡! 답은「샤크라몬」
 다음엔 맞추자!","Schade, die Antwort ist „Sakuyamon“.
 Viel Glück beim nächsten Mal!"
 21043,,"Peccato che la risposta sia ""Berserk Sword"".
@@ -8010,57 +8002,58 @@ La prossima volta sarà più fortunata!","答～錯了！　答案是「狂暴�
 下次再加油吧～！",,"땡! 답은「베르세르크 소드」
 다음엔 맞추자!","Schade, richtig ist „Berserkerschwert“.
 Viel Glück beim nächsten Mal!"
-21044,,"Peccato che la risposta sia ""Imperatore
-Selvaggio"". Un po' difficile, vero?","答～錯了！　答案是「ㄨㄥˋ　ㄅㄨˋ　ㄉㄨ　ㄕㄣˊ」
+21044,,"Peccato che la risposta sia ""Imperatore Selvaggio"".
+Un po' difficile, vero?","答～錯了！　答案是「ㄨㄥˋ　ㄅㄨˋ　ㄉㄨ　ㄕㄣˊ」
 這題有點難吶～",,"땡! 답은「미카후츠노카미」
 다음엔 맞추자!","Schade, richtig ist „Barbarenkaiser“.
 Etwas schwierig, oder?"
-21045,,"Peccato che la risposta sia
-""Vademon"". La prossima volta andrà meglio!",答～錯了！　答案是「入侵者獸」。下次再加油吧～！,,"땡! 답은「베이더몬」
+21045,,"Peccato che la risposta sia ""Vademon"".
+La prossima volta andrà meglio!",答～錯了！　答案是「入侵者獸」。下次再加油吧～！,,"땡! 답은「베이더몬」
 다음엔 맞추자!","Schade, die Antwort ist „Vademon“.
 Viel Glück beim nächsten Mal!"
 21046,,"Peccato che la risposta sia ""la coda"".
 La prossima volta andrà meglio!",答～錯了！　答案是「尾巴」。下次再加油吧～！,,"땡! 답은「꼬리」
 다음엔 맞추자!","Schade, die Antwort ist „Der Schwanz“.
 Viel Glück beim nächsten Mal!"
-21047,,"Peccato che la risposta sia
-""Nanimon"". La prossima volta andrà meglio!",答～錯了！　答案是「亞伯獸」。下次再加油吧～！,,"땡! 답은「모야몬」
+21047,,"Peccato che la risposta sia ""Nanimon"".
+La prossima volta andrà meglio!",答～錯了！　答案是「亞伯獸」。下次再加油吧～！,,"땡! 답은「모야몬」
 다음엔 맞추자!","Schade, die Antwort ist „Nanimon“.
 Viel Glück beim nächsten Mal!"
-21048,,"Peccato che la risposta sia
-""Punimon"". La prossima volta andrà meglio!",答～錯了！　答案是「普尼獸」。下次再加油吧～！,,"땡! 답은「푸니몬」
+21048,,"Peccato che la risposta sia ""Punimon"".
+La prossima volta andrà meglio!",答～錯了！　答案是「普尼獸」。下次再加油吧～！,,"땡! 답은「푸니몬」
 다음엔 맞추자!","Schade, die Antwort ist „Punimon“.
 Viel Glück beim nächsten Mal!"
 21049,,"Peccato che la risposta sia ""Pumpkinmon"".
 La prossima volta avrai più fortuna!",答～錯了！　答案是「南瓜獸」。下次再加油吧～！,,"땡! 답은「펌프몬」
 다음엔 맞추자!","Schade, die Antwort ist „Pumpkinmon“.
 Viel Glück beim nächsten Mal!"
-21050,,"Peccato che la risposta sia
-""Biyomon"". La prossima volta andrà meglio!",答～錯了！　答案是「比丘獸」。下次再加油吧～！,,"땡! 답은「피요몬」
+21050,,"Peccato che la risposta sia ""Biyomon"".
+La prossima volta andrà meglio!",答～錯了！　答案是「比丘獸」。下次再加油吧～！,,"땡! 답은「피요몬」
 다음엔 맞추자!","Schade, die Antwort ist „Biyomon“.
 Viel Glück beim nächsten Mal!"
-21051,,"Peccato che la risposta sia ""Connect Jump"". La
-prossima volta avrai più fortuna!","答～錯了！　答案是「登入跳躍」
+21051,,"Peccato che la risposta sia ""Connect Jump"".
+La prossima volta avrai più fortuna!","答～錯了！　答案是「登入跳躍」
 下次再加油吧～！",,"땡! 답은「커넥트 점프」
 다음엔 맞추자!","Schade, die Antwort ist „Verbindungssprung“.
 Viel Glück beim nächsten Mal!"
-21052,,"Peccato che la risposta sia
-""EDEN"". La prossima volta andrà meglio!",答～錯了！　答案是「EDEN」。下次再加油吧～！,,"땡! 답은「EDEN」
+21052,,"Peccato che la risposta sia ""EDEN"".
+La prossima volta andrà meglio!",答～錯了！　答案是「EDEN」。下次再加油吧～！,,"땡! 답은「EDEN」
 다음엔 맞추자!","Schade, die Antwort ist „EDEN“.
 Viel Glück beim nächsten Mal!"
-21053,,"Peccato che la risposta sia ""Una
-croce"". La prossima volta andrà meglio!",答～錯了！　答案是「叉叉」。下次再加油吧～！,,"땡! 답은「엑스」
+21053,,"Peccato che la risposta sia ""Una croce"".
+La prossima volta andrà meglio!",答～錯了！　答案是「叉叉」。下次再加油吧～！,,"땡! 답은「엑스」
 다음엔 맞추자!","Schade, die Antwort ist „Ein Kreuz“.
 Viel Glück beim nächsten Mal!"
-21054,,"Peccato che la risposta sia ""gocce
-d'acqua"". La prossima volta andrà meglio!",答～錯了！　答案是「水滴」。下次再加油吧～！,,"땡! 답은「물방울」
+21054,,"Peccato che la risposta sia ""gocce d'acqua"".
+La prossima volta andrà meglio!",答～錯了！　答案是「水滴」。下次再加油吧～！,,"땡! 답은「물방울」
 다음엔 맞추자!","Schade, die Antwort ist „Wassertropfen“.
 Viel Glück beim nächsten Mal!"
 21055,,"Peccato che la risposta sia ""Nero"".
 La prossima volta andrà meglio!",答～錯了！　答案是「黑色」。下次再加油吧～！,,"땡! 답은「검정」
 다음엔 맞추자!","Schade, die Antwort ist „Schwarz“.
 Viel Glück beim nächsten Mal!"
-21056,,"Peccato che la risposta sia ""Cattura Digimon"". La prossima volta avrai più fortuna!","答～錯了！　答案是「數碼寶貝捕捉器」
+21056,,"Peccato che la risposta sia ""Cattura Digimon"".
+La prossima volta avrai più fortuna!","答～錯了！　答案是「數碼寶貝捕捉器」
 下次再加油吧～！",,"땡! 답은「디지몬 캡처」
 다음엔 맞추자!","Schade, die Antwort ist „Digimon-Fang“. Viel Glück beim nächsten Mal!"
 21057,,"Peccato che la risposta sia
@@ -8068,58 +8061,58 @@ Viel Glück beim nächsten Mal!"
 下次再加油吧～！",,"땡! 답은「미카구라 미레이」
 다음엔 맞추자!","Schade, die Antwort ist „Mirei
 Mikagura“. Viel Glück beim nächsten Mal!"
-21058,,"Peccato che la risposta sia ""Cambiare la
-personalità di un Digimon"". La prossima volta andrà meglio!","答～錯了！　答案是「改變數碼寶貝的個性」
+21058,,"Peccato che la risposta sia ""Cambiare la personalità
+di un Digimon"". La prossima volta andrà meglio!","答～錯了！　答案是「改變數碼寶貝的個性」
 下次再加油吧～！",,"땡! 답은「디지몬의 개성을 바꾼다」
 다음엔 맞추자!","Richtig ist „Sie ändern die Digimon-
 Persönlichkeit“. Viel Glück noch!"
-21059,,"Peccato che la risposta sia
-""EDEN"". La prossima volta andrà meglio!",答～錯了！　答案是「EDEN」。下次再加油吧～！,,"땡! 답은「EDEN」
+21059,,"Peccato che la risposta sia ""EDEN"".
+La prossima volta andrà meglio!",答～錯了！　答案是「EDEN」。下次再加油吧～！,,"땡! 답은「EDEN」
 다음엔 맞추자!","Schade, die Antwort ist „EDEN“.
 Viel Glück beim nächsten Mal!"
-21060,,"Peccato che la risposta sia
-""Rosa"". La prossima volta andrà meglio!",答～錯了！　答案是「粉紅色」。下次再加油吧～！,,"땡! 답은「핑크」
+21060,,"Peccato che la risposta sia ""Rosa"".
+La prossima volta andrà meglio!",答～錯了！　答案是「粉紅色」。下次再加油吧～！,,"땡! 답은「핑크」
 다음엔 맞추자!","Schade, die Antwort ist „Rosa“.
 Viel Glück beim nächsten Mal!"
-21061,,"Peccato che la risposta sia
-""Indagare"". La prossima volta andrà meglio!",答～錯了！　答案是「調查」。下次再加油吧～！,,"땡! 답은「조사」
+21061,,"Peccato che la risposta sia ""Indagare"".
+La prossima volta andrà meglio!",答～錯了！　答案是「調查」。下次再加油吧～！,,"땡! 답은「조사」
 다음엔 맞추자!","Schade, die Antwort ist „Ermitteln“.
 Viel Glück beim nächsten Mal!"
-21062,,"Peccato che la risposta sia ""Resistenza al
-Bambù"". La prossima volta andrà meglio!",答～錯了！　答案是「精力旺盛菇」。下次再加油吧～！,,"땡! 답은「터프니스 버섯」
+21062,,"Peccato che la risposta sia ""Resistenza al Bambù"".
+La prossima volta andrà meglio!",答～錯了！　答案是「精力旺盛菇」。下次再加油吧～！,,"땡! 답은「터프니스 버섯」
 다음엔 맞추자!","Schade, die Antwort ist „Lebenspilz“.
 Viel Glück beim nächsten Mal!"
-21063,,"Peccato che la risposta sia ""Prodotti
-agricoli"". La prossima volta andrà meglio!","答～錯了！　答案是「農場道具」
+21063,,"Peccato che la risposta sia ""Prodotti agricoli"".
+La prossima volta andrà meglio!","答～錯了！　答案是「農場道具」
 下次再加油吧～！",,"땡! 답은「팜 굿즈」
 다음엔 맞추자!","Schade, die Antwort ist „Farmprodukte“.
 Viel Glück beim nächsten Mal!"
-21064,,"Peccato che la risposta sia
-""DigiLab"". La prossima volta andrà meglio!",答～錯了！　答案是「數碼實驗室」。下次再加油吧～！,,"땡! 답은「디지랩」
+21064,,"Peccato che la risposta sia ""DigiLab"".
+La prossima volta andrà meglio!",答～錯了！　答案是「數碼實驗室」。下次再加油吧～！,,"땡! 답은「디지랩」
 다음엔 맞추자!","Schade, die Antwort ist „DigiLab“.
 Viel Glück beim nächsten Mal!"
-21065,,"Peccato che la risposta sia ""Arata
-Sanada"". La prossima volta andrà meglio!",答～錯了！　答案是「真田新」。下次再加油吧～！,,"땡! 답은「사나다 아라타」
+21065,,"Peccato che la risposta sia ""Arata Sanada"".
+La prossima volta andrà meglio!",答～錯了！　答案是「真田新」。下次再加油吧～！,,"땡! 답은「사나다 아라타」
 다음엔 맞추자!","Schade, die Antwort ist „Arata Sanada“.
 Viel Glück beim nächsten Mal!"
-21066,,"Peccato che la risposta sia
-""Gabumon"". La prossima volta andrà meglio!",答～錯了！　答案是「加布獸」。下次再加油吧～！,,"땡! 답은「파피몬」
+21066,,"Peccato che la risposta sia ""Gabumon"".
+La prossima volta andrà meglio!",答～錯了！　答案是「加布獸」。下次再加油吧～！,,"땡! 답은「파피몬」
 다음엔 맞추자!","Schade, die Antwort ist „Gabumon“.
 Viel Glück beim nächsten Mal!"
 21067,,"Peccato che la risposta sia
 ""Ruby"". La prossima volta andrà meglio!",答～錯了！　答案是「紅寶石」。下次再加油吧～！,,"땡! 답은「루비」
 다음엔 맞추자!","Schade, die Antwort ist „Rubin“.
 Viel Glück beim nächsten Mal!"
-21068,,"Peccato che la risposta sia ""Tipo di vaccino"".
+21068,,"Peccato che la risposta sia ""Tipo Vaccino"".
 La prossima volta avrai più fortuna!",答～錯了！　答案是「疫苗種」。下次再加油吧～！,,"땡! 답은「백신종」
 다음엔 맞추자!","Schade, die Antwort ist „Typus Serum“.
 Viel Glück beim nächsten Mal!"
-21069,,"Peccato che la risposta sia ""attributo
-Terra"". La prossima volta andrà meglio!",答～錯了！　答案是「土屬性」。下次再加油吧～！,,"땡! 답은「땅 속성」
+21069,,"Peccato che la risposta sia ""attributo Terra"".
+La prossima volta andrà meglio!",答～錯了！　答案是「土屬性」。下次再加油吧～！,,"땡! 답은「땅 속성」
 다음엔 맞추자!","Schade, die Antwort ist „Erde“.
 Viel Glück beim nächsten Mal!"
-21070,,"Peccato che la risposta sia
-""Dot"". La prossima volta andrà meglio!",答～錯了！　答案是「液晶化」。下次再加油吧～！,,"땡! 답은「액정화」
+21070,,"Peccato che la risposta sia ""Dot"".
+La prossima volta andrà meglio!",答～錯了！　答案是「液晶化」。下次再加油吧～！,,"땡! 답은「액정화」
 다음엔 맞추자!","Schade, die Antwort ist „Pixel“.
 Viel Glück beim nächsten Mal!"
 21071,,"Peccato che la risposta sia ""Rende più facile
@@ -8142,31 +8135,31 @@ La prossima volta avrai più fortuna!","答～錯了！　答案是「木偶獸�
 下次再加油吧～！",,"땡! 답은「피노키몬」
 다음엔 맞추자!","Schade, die Antwort ist „Puppetmon“.
 Viel Glück beim nächsten Mal!"
-21075,,"Peccato che la risposta sia
-""Devimon"". La prossima volta andrà meglio!",答～錯了！　答案是「惡魔獸」。下次再加油吧～！,,"땡! 답은「데블몬」
+21075,,"Peccato che la risposta sia ""Devimon"".
+La prossima volta andrà meglio!",答～錯了！　答案是「惡魔獸」。下次再加油吧～！,,"땡! 답은「데블몬」
 다음엔 맞추자!","Schade, die Antwort ist „Devimon“.
 Viel Glück beim nächsten Mal!"
-21076,,"Peccato che la risposta sia
-""Angemon"". La prossima volta andrà meglio!","答～錯了！　答案是「天使獸」
+21076,,"Peccato che la risposta sia ""Angemon"".
+La prossima volta andrà meglio!","答～錯了！　答案是「天使獸」
 下次再加油吧～！",,"땡! 답은「엔젤몬」
 다음엔 맞추자!","Schade, die Antwort ist „Angemon“.
 Viel Glück beim nächsten Mal!"
-21077,,"Peccato che la risposta sia ""Cannone
-della Catastrofe"". La prossima volta andrà meglio!","答～錯了！　答案是「大災難」
+21077,,"Peccato che la risposta sia ""Cannone della Catastrofe"".
+La prossima volta andrà meglio!","答～錯了！　答案是「大災難」
 下次再加油吧～！",,"땡! 답은「카타스트로피 캐논」
 다음엔 맞추자!","Schade, richtig ist „Katastrophen-
 kanone“. Viel Glück beim nächsten Mal!"
-21078,,"Peccato che la risposta sia
-""Piximon"". La prossima volta andrà meglio!","答～錯了！　答案是「妖精獸」
+21078,,"Peccato che la risposta sia ""Piximon"".
+La prossima volta andrà meglio!","答～錯了！　答案是「妖精獸」
 下次再加油吧～！",,"땡! 답은「피콜몬」
 다음엔 맞추자!","Schade, die Antwort ist „Piximon“.
 Viel Glück beim nächsten Mal!"
-21079,,"Peccato che la risposta sia
-""Hackmon"". La prossima volta andrà meglio!",答～錯了！　答案是「哈克獸」。下次再加油吧～！,,"땡! 답은「헉몬」
+21079,,"Peccato che la risposta sia ""Hackmon"".
+La prossima volta andrà meglio!",答～錯了！　答案是「哈克獸」。下次再加油吧～！,,"땡! 답은「헉몬」
 다음엔 맞추자!","Schade, die Antwort ist „Hackmon“.
 Viel Glück beim nächsten Mal!"
-21080,,"Peccato che la risposta sia
-""Shakkoumon"". La prossima volta andrà meglio!","答～錯了！　答案是「古神獸」
+21080,,"Peccato che la risposta sia ""Shakkoumon"".
+La prossima volta andrà meglio!","答～錯了！　答案是「古神獸」
 下次再加油吧～！",,"땡! 답은「토우몬」
 다음엔 맞추자!","Schade, die Antwort ist „Shakkoumon“.
 Viel Glück beim nächsten Mal!"
@@ -8175,8 +8168,8 @@ La prossima volta avrai più fortuna!","答～錯了！　答案是「V龍獸」
 下次再加油吧～！",,"땡! 답은「브이드라몬」
 다음엔 맞추자!","Schade, die Antwort ist „Veedramon“.
 Viel Glück beim nächsten Mal!"
-21082,,"Peccato che la risposta sia ""Spara cristalli dalla
-testa"". La prossima volta sarà più fortunata!","答～錯了！　答案是「從頭部射出礦石」
+21082,,"Peccato che la risposta sia ""Spara cristalli dalla testa"".
+La prossima volta sarà più fortunata!","答～錯了！　答案是「從頭部射出礦石」
 下次再加油吧～！",,"땡! 답은「머리에서 광석을 발사한다」
 다음엔 맞추자!","Schade, richtig ist „Kristalle schießen
 aus seinem Kopf“! Viel Glück noch!"
@@ -8190,21 +8183,21 @@ La prossima volta avrai più fortuna!","答～錯了！　答案是「機械邪�
 下次再加油吧～！",,"땡! 답은「파워드라몬」
 다음엔 맞추자!","Schade, die Antwort ist „Machinedramon“.
 Viel Glück beim nächsten Mal!"
-21085,,"Peccato che la risposta sia ""Grande Aquila
-del Deserto"". La prossima volta andrà meglio!",答～錯了！　答案是「沙漠之巨鷲」。下次再加油吧～！,,"땡! 답은「사막의 거취」
+21085,,"Peccato che la risposta sia ""Grande Aquila del Deserto"".
+La prossima volta andrà meglio!",答～錯了！　答案是「沙漠之巨鷲」。下次再加油吧～！,,"땡! 답은「사막의 거취」
 다음엔 맞추자!","Schade, richtig ist „Großer Adler der
 Wüste“. Viel Glück beim nächsten Mal!"
 21086,,"Peccato che la risposta sia ""Re Corvo"".
 La prossima volta avrai più fortuna!",答～錯了！　答案是「烏王丸」。下次再加油吧～！,,"땡! 답은「오왕도」
 다음엔 맞추자!","Schade, die Antwort ist „Rabenkönig“.
 Viel Glück beim nächsten Mal!"
-21087,,"Peccato che la risposta sia
-""BanchoLeomon"". La prossima volta andrà meglio!","答～錯了！　答案是「番長獅子獸」
+21087,,"Peccato che la risposta sia ""BanchoLeomon"".
+La prossima volta andrà meglio!","答～錯了！　答案是「番長獅子獸」
 下次再加油吧～！",,"땡! 답은「반쵸레오몬」
 다음엔 맞추자!","Schade, die Antwort ist „BanchoLeomon“.
 Viel Glück beim nächsten Mal!"
-21088,,"Peccato che la risposta sia
-""Terrier Tornado"". La prossima volta andrà meglio!","答～錯了！　答案是「小型龍捲風」
+21088,,"Peccato che la risposta sia ""Terrier Tornado"".
+La prossima volta andrà meglio!","答～錯了！　答案是「小型龍捲風」
 下次再加油吧～！",,"땡! 답은「프티 트위스터」
 다음엔 맞추자!","Schade, die Antwort ist „Terrier-
 Tornado“. Viel Glück beim nächsten Mal!"
@@ -8216,33 +8209,33 @@ Viel Glück beim nächsten Mal!"
 La prossima volta avrai più fortuna!",答～錯了！　答案是「吸血魔獸」。下次再加油吧～！,,"땡! 답은「묘티스몬」
 다음엔 맞추자!","Schade, die Antwort ist „Myotismon“.
 Viel Glück beim nächsten Mal!"
-21091,,"Peccato che la risposta sia
-""23"". La prossima volta andrà meglio!",答～錯了！　答案是「23」。下次再加油吧～！,,"땡! 답은「23」
+21091,,"Peccato che la risposta sia ""23"".
+La prossima volta andrà meglio!",答～錯了！　答案是「23」。下次再加油吧～！,,"땡! 답은「23」
 다음엔 맞추자!","Schade, die Antwort ist „23“.
 Viel Glück beim nächsten Mal!"
-21092,,"Peccato che la risposta sia
-""Ootaku"". La prossima volta andrà meglio!",答～錯了！　答案是「大田區」。下次再加油吧～！,,"땡! 답은「오타구」
+21092,,"Peccato che la risposta sia ""Ootaku"".
+La prossima volta andrà meglio!",答～錯了！　答案是「大田區」。下次再加油吧～！,,"땡! 답은「오타구」
 다음엔 맞추자!","Schade, die Antwort ist „Ootaku“.
 Viel Glück beim nächsten Mal!"
-21093,,"Peccato che la risposta sia ""Il periodo
-Azuchi-Momoyama"". La prossima volta andrà meglio!","答～錯了！　答案是「安土桃山時代」
+21093,,"Peccato che la risposta sia ""Il periodo Azuchi-Momoyama"".
+La prossima volta andrà meglio!","答～錯了！　答案是「安土桃山時代」
 下次再加油吧～！",,"땡! 답은「아즈치 모모야마 시대」
 다음엔 맞추자!","Schade, richtig ist „In der Azuchi-
 Momoyama-Periode“. Viel Glück noch!"
-21094,,"Peccato che la risposta sia
-""Mammiferi"". La prossima volta andrà meglio!",答～錯了！　答案是「哺乳類」。下次再加油吧～！,,"땡! 답은「포유류」
+21094,,"Peccato che la risposta sia ""Mammiferi"".
+La prossima volta andrà meglio!",答～錯了！　答案是「哺乳類」。下次再加油吧～！,,"땡! 답은「포유류」
 다음엔 맞추자!","Schade, die Antwort ist „Säugetiere“.
 Viel Glück beim nächsten Mal!"
-21095,,"Peccato che la risposta sia ""Monte
-Fuji"". La prossima volta andrà meglio!",答～錯了！　答案是「富士山」。下次再加油吧～！,,"땡! 답은「후지산」
+21095,,"Peccato che la risposta sia ""Monte Fuji"".
+La prossima volta andrà meglio!",答～錯了！　答案是「富士山」。下次再加油吧～！,,"땡! 답은「후지산」
 다음엔 맞추자!","Schade, die Antwort ist „Fuji“.
 Viel Glück beim nächsten Mal!"
-21096,,"Peccato che la risposta sia
-""Vitamine"". La prossima volta andrà meglio!",答～錯了！　答案是「維他命」。下次再加油吧～！,,"땡! 답은「비타민」
+21096,,"Peccato che la risposta sia ""Vitamine"".
+La prossima volta andrà meglio!",答～錯了！　答案是「維他命」。下次再加油吧～！,,"땡! 답은「비타민」
 다음엔 맞추자!","Schade, die Antwort ist „Vitamine“.
 Viel Glück beim nächsten Mal!"
-21097,,"Peccato che la risposta sia
-""Parallelo"". La prossima volta andrà meglio!",答～錯了！　答案是「平行」。下次再加油吧～！,,"땡! 답은「평행」
+21097,,"Peccato che la risposta sia ""Parallelo"".
+La prossima volta andrà meglio!",答～錯了！　答案是「平行」。下次再加油吧～！,,"땡! 답은「평행」
 다음엔 맞추자!","Schade, die Antwort ist „Parallel“.
 Viel Glück beim nächsten Mal!"
 21098,,"Peccato, la risposta è ""Caldo all'inizio dell'inverno"".
@@ -8255,8 +8248,8 @@ La prossima volta sarà più fortunata!","答～錯了！　答案是「法國�
 下次再加油吧～！",,"땡! 답은「프랑스 혁명」
 다음엔 맞추자!","Schade, richtig ist „Die Französische
 Revolution“. Viel Glück noch!"
-21100,,"Peccato che la risposta sia ""olandese"". La
-prossima volta sarai più fortunato!",答～錯了！　答案是「荷蘭人」。下次再加油吧～！,,"땡! 답은「네덜란드인」
+21100,,"Peccato che la risposta sia ""olandese"".
+La prossima volta sarai più fortunato!",答～錯了！　答案是「荷蘭人」。下次再加油吧～！,,"땡! 답은「네덜란드인」
 다음엔 맞추자!","Schade, richtig ist „Niederländisch“.
 Viel Glück beim nächsten Mal!"
 22001,,"Sbagliato, la risposta è ""Digivice"".
@@ -8268,8 +8261,8 @@ Pass besser auf."
 Attenzione, ora.",答錯了。答案是「暮海杏子」。下次可別答錯了,,"틀렸다. 답은「쿠레미 쿄코」
 다음엔 틀리지 마라.","Falsch, die Antwort ist „Kyoko Kuremi“.
 Pass besser auf."
-22003,,"Sbagliato, la risposta è ""Omnimon
-Zwart"". Attenzione, ora.","答錯了。答案是「黑奧米加獸」
+22003,,"Sbagliato, la risposta è ""Omnimon Zwart"".
+Attenzione, ora.","答錯了。答案是「黑奧米加獸」
 下次可別答錯了",,"틀렸다. 답은「오메가몬 즈왈트」
 다음엔 틀리지 마라.","Falsch, die Antwort ist „Omnimon Zwart“.
 Pass besser auf."
@@ -8277,56 +8270,56 @@ Pass besser auf."
 Attenzione, ora.",答錯了。答案是「13隻」。下次可別答錯了,,"틀렸다. 답은「13마리」
 다음엔 틀리지 마라.","Falsch, die Antwort ist „13“.
 Pass besser auf."
-22005,,"Sbagliato, la risposta è
-""Due"". Attenzione, ora.",答錯了。答案是「2隻」。下次可別答錯了,,"틀렸다. 답은「2마리」
+22005,,"Sbagliato, la risposta è ""Due"".
+Attenzione, ora.",答錯了。答案是「2隻」。下次可別答錯了,,"틀렸다. 답은「2마리」
 다음엔 틀리지 마라.","Falsch, die Antwort ist „Zwei“.
 Pass besser auf."
-22006,,"Sbagliato, la risposta è ""Giostra dei
-fulmini"". Attenzione, ora.",答錯了。答案是「皇家槍擊」。下次可別答錯了,,"틀렸다. 답은「로얄 세이버」
+22006,,"Sbagliato, la risposta è ""Giostra dei fulmini"".
+Attenzione, ora.",答錯了。答案是「皇家槍擊」。下次可別答錯了,,"틀렸다. 답은「로얄 세이버」
 다음엔 틀리지 마라.","Falsch, die Antwort ist „Blitz-Tjost“.
 Pass besser auf."
-22007,,"Sbagliato, la risposta è
-""Claíomh Solais"". Attento, adesso.",答錯了。答案是「克拉烏‧索拉斯」。下次可別答錯了,,"틀렸다. 답은「클라우 솔라스」
+22007,,"Sbagliato, la risposta è ""Claíomh Solais"".
+Attento, adesso.",答錯了。答案是「克拉烏‧索拉斯」。下次可別答錯了,,"틀렸다. 답은「클라우 솔라스」
 다음엔 틀리지 마라.","Falsch, die Antwort ist „Claíomh
 Solais“. Pass besser auf."
 22008,,"Sbagliato, la risposta è ""6"".
 Attenzione, ora.",答錯了。答案是「6隻」。下次可別答錯了,,"틀렸다. 답은「6개」
 다음엔 틀리지 마라.","Falsch, die Antwort ist „Sechs“.
 Pass besser auf."
-22009,,"Sbagliato, la risposta è ""Tipo di
-dati"". Attenzione, ora.",答錯了。答案是「資料種」。下次可別答錯了,,"틀렸다. 답은「데이터종」
+22009,,"Sbagliato, la risposta è ""Tipo Dati"".
+Attenzione, ora.",答錯了。答案是「資料種」。下次可別答錯了,,"틀렸다. 답은「데이터종」
 다음엔 틀리지 마라.","Falsch, die Antwort ist „Typus Datei“.
 Pass besser auf."
-22010,,"Sbagliato, la risposta è
-""Mega"". Attenzione, ora.",答錯了。答案是「究極體」。下次可別答錯了,,"틀렸다. 답은「궁극체」
+22010,,"Sbagliato, la risposta è ""Mega"".
+Attenzione, ora.",答錯了。答案是「究極體」。下次可別答錯了,,"틀렸다. 답은「궁극체」
 다음엔 틀리지 마라.","Falsch, die Antwort ist „Mega“.
 Pass besser auf."
-22011,,"Sbagliato, la risposta è
-""Padre"". Attenzione, ora.",答錯了。答案是「親父」。下次可別答錯了,,"틀렸다. 답은「친부」
+22011,,"Sbagliato, la risposta è ""Padre"".
+Attenzione, ora.",答錯了。答案是「親父」。下次可別答錯了,,"틀렸다. 답은「친부」
 다음엔 틀리지 마라.","Falsch, die Antwort ist „Vater“.
 Pass besser auf."
-22012,,"Sbagliato, la risposta è
-""Veemon"". Attenzione, ora.",答錯了。答案是「V仔獸」。下次可別答錯了,,"틀렸다. 답은「브이몬」
+22012,,"Sbagliato, la risposta è ""Veemon"".
+Attenzione, ora.",答錯了。答案是「V仔獸」。下次可別答錯了,,"틀렸다. 답은「브이몬」
 다음엔 틀리지 마라.","Falsch, die Antwort ist „Veemon“.
 Pass besser auf."
-22013,,"Sbagliato, la risposta è
-""Leopardmon"". Attenzione, ora.",答錯了。答案是「芳香獸」。下次可別答錯了,,"틀렸다. 답은「두프트몬」
+22013,,"Sbagliato, la risposta è ""Leopardmon"".
+Attenzione, ora.",答錯了。答案是「芳香獸」。下次可別答錯了,,"틀렸다. 답은「두프트몬」
 다음엔 틀리지 마라.","Falsch, die Antwort ist „Duftmon“.
 Pass besser auf."
-22014,,"Sbagliato, la risposta è
-""Dynasmon"". Attenzione, ora.",答錯了。答案是「杜納斯獸」。下次可別答錯了,,"틀렸다. 답은「듀나스몬」
+22014,,"Sbagliato, la risposta è ""Dynasmon"".
+Attenzione, ora.",答錯了。答案是「杜納斯獸」。下次可別答錯了,,"틀렸다. 답은「듀나스몬」
 다음엔 틀리지 마라.","Falsch, die Antwort ist „Dynasmon“.
 Pass besser auf."
-22015,,"Sbagliato, la risposta è
-""Omnimon"". Attenzione, ora.",答錯了。答案是「奧米加獸」。下次可別答錯了,,"틀렸다. 답은「오메가몬」
+22015,,"Sbagliato, la risposta è ""Omnimon"".
+Attenzione, ora.",答錯了。答案是「奧米加獸」。下次可別答錯了,,"틀렸다. 답은「오메가몬」
 다음엔 틀리지 마라.","Falsch, die Antwort ist „Omnimon“.
 Pass besser auf."
-22016,,"Sbagliato, la risposta è
-""Crusadermon"". Attenzione, ora.",答錯了。答案是「劍皇獸」。下次可別答錯了,,"틀렸다. 답은「로드나이트몬」
+22016,,"Sbagliato, la risposta è ""Crusadermon"".
+Attenzione, ora.",答錯了。答案是「劍皇獸」。下次可別答錯了,,"틀렸다. 답은「로드나이트몬」
 다음엔 틀리지 마라.","Falsch, die Antwort ist „Crusadermon“.
 Pass besser auf."
-22017,,"Sbagliato, la risposta
-è ""UlforceVeedramon"". Attenzione, ora.","答錯了。答案是「究極V龍獸」
+22017,,"Sbagliato, la risposta è ""UlforceVeedramon"".
+Attenzione, ora.","答錯了。答案是「究極V龍獸」
 下次可別答錯了",,"틀렸다. 답은「알포스브이드라몬」
 다음엔 틀리지 마라.","Falsch, die Antwort ist
 „UlforceVeedramon“. Pass besser auf."
@@ -8334,16 +8327,16 @@ Pass besser auf."
 Dieci."" Attenzione, ora.",答錯了。答案是「10隻」。下次可別答錯了,,"틀렸다. 답은「10개」
 다음엔 틀리지 마라.","Falsch, die Antwort ist „Zehn“.
 Pass besser auf."
-22019,,"Sbagliato, la risposta è
-""Ueno"". Attenzione, ora.",答錯了。答案是「上野」。下次可別答錯了,,"틀렸다. 답은「우에노」
+22019,,"Sbagliato, la risposta è ""Ueno"".
+Attenzione, ora.",答錯了。答案是「上野」。下次可別答錯了,,"틀렸다. 답은「우에노」
 다음엔 틀리지 마라.","Falsch, die Antwort ist „Ueno“.
 Pass besser auf."
 22020,,"Sbagliato, la risposta è
 ""DigiLine"". Attenzione, ora.",答錯了。答案是「數碼連線」。下次可別答錯了,,"틀렸다. 답은「디지라인」
 다음엔 틀리지 마라.","Falsch, die Antwort ist „Digiline“.
 Pass besser auf."
-22021,,"Sbagliato, la
-risposta è ""29 stazioni"". Attenzione, ora.",答錯了。答案是「29站」。下次可別答錯了,,"틀렸다. 답은「29역」
+22021,,"Sbagliato, la risposta è ""29 stazioni"".
+Attenzione, ora.",答錯了。答案是「29站」。下次可別答錯了,,"틀렸다. 답은「29역」
 다음엔 틀리지 마라.","Falsch, die Antwort ist
 „29 Haltestellen“. Pass besser auf."
 22022,,"Sbagliato, la risposta è
@@ -8351,8 +8344,8 @@ risposta è ""29 stazioni"". Attenzione, ora.",答錯了。答案是「29站」�
 下次可別答錯了",,"틀렸다. 답은「그랜쿠가몬」
 다음엔 틀리지 마라.","Falsch, die Antwort ist „GranKuwagamon“.
 Pass besser auf."
-22023,,"Sbagliato, la risposta è
-""Antylamon"". Attenzione, ora.","答錯了。答案是「玉兔獸」
+22023,,"Sbagliato, la risposta è ""Antylamon"".
+Attenzione, ora.","答錯了。答案是「玉兔獸」
 下次可別答錯了",,"틀렸다. 답은「안티라몬」
 다음엔 틀리지 마라.","Falsch, die Antwort ist „Antylamon“.
 Pass besser auf."
@@ -8365,138 +8358,138 @@ südlichste Insel Okinotori gehört dazu."
 Attenzione, ora.",答錯了。答案是「ㄔㄨㄣ」。下次可別答錯了,,"틀렸다. 답은「삼치」
 다음엔 틀리지 마라.","Falsch, die Antwort ist „Schellfisch“.
 Pass besser auf."
-22026,,"Sbagliato, la risposta è
-""Houryuuji"". Attenzione, ora.",答錯了。答案是「法隆寺」。下次可別答錯了,,"틀렸다. 답은「호류지」
+22026,,"Sbagliato, la risposta è ""Houryuuji"".
+Attenzione, ora.",答錯了。答案是「法隆寺」。下次可別答錯了,,"틀렸다. 답은「호류지」
 다음엔 틀리지 마라.","Falsch, die Antwort ist „Hōryū-ji“.
 Pass besser auf."
-22027,,"Sbagliato, la risposta è
-""Minamoto-No-Yoritomo"". Attenzione, ora.",答錯了。答案是「源賴朝」。下次可別答錯了,,"틀렸다. 답은「미나모토노 요리토모」
+22027,,"Sbagliato, la risposta è ""Minamoto-No-Yoritomo"".
+Attenzione, ora.",答錯了。答案是「源賴朝」。下次可別答錯了,,"틀렸다. 답은「미나모토노 요리토모」
 다음엔 틀리지 마라.","Falsch, die Antwort ist „Minamoto no
 Yoritomo“. Pass besser auf."
-22028,,"Sbagliato, la risposta è ""Passalo
-sotto l'acqua fredda"". Attenzione, ora.",答錯了。答案是「沖冷水降溫」。下次可別答錯了,,"틀렸다. 답은「찬물로 식힌다」
+22028,,"Sbagliato, la risposta è ""Passalo sotto l'acqua fredda"".
+Attenzione, ora.",答錯了。答案是「沖冷水降溫」。下次可別答錯了,,"틀렸다. 답은「찬물로 식힌다」
 다음엔 틀리지 마라.","Falsch, die Antwort ist „Unter kaltes
 Wasser halten“. Pass besser auf."
-22029,,"Sbagliato, la risposta è ""Giornata della
-Salute e dello Sport"". Attenzione, ora.",答錯了。答案是「體育日」。下次可別答錯了,,"틀렸다. 답은「체육의 날」
+22029,,"Sbagliato, la risposta è ""Giornata della Salute
+e dello Sport"". Attenzione, ora.",答錯了。答案是「體育日」。下次可別答錯了,,"틀렸다. 답은「체육의 날」
 다음엔 틀리지 마라.","Falsch, richtig ist „Tag der Gesundheit
 und des Sports“. Pass besser auf."
-22030,,"Sbagliato, la risposta è
-""23"". Attenzione, ora.",答錯了。答案是「23」。下次可別答錯了,,"틀렸다. 답은「23」
+22030,,"Sbagliato, la risposta è ""23"".
+Attenzione, ora.",答錯了。答案是「23」。下次可別答錯了,,"틀렸다. 답은「23」
 다음엔 틀리지 마라.","Falsch, die Antwort ist „23“.
 Pass besser auf."
-22031,,"Sbagliato, la risposta è
-""ToyAgumon"". Attenzione, ora.",答錯了。答案是「積木亞古獸」。下次可別答錯了,,"틀렸다. 답은「토이아구몬」
+22031,,"Sbagliato, la risposta è ""ToyAgumon"".
+Attenzione, ora.",答錯了。答案是「積木亞古獸」。下次可別答錯了,,"틀렸다. 답은「토이아구몬」
 다음엔 틀리지 마라.","Falsch, die Antwort ist „ToyAgumon“.
 Pass besser auf."
-22032,,"Sbagliato, la risposta è
-""Gatomon"". Attenzione, ora.",答錯了。答案是「迪路獸」。下次可別答錯了,,"틀렸다. 답은「가트몬」
+22032,,"Sbagliato, la risposta è ""Gatomon"".
+Attenzione, ora.",答錯了。答案是「迪路獸」。下次可別答錯了,,"틀렸다. 답은「가트몬」
 다음엔 틀리지 마라.","Falsch, die Antwort ist „Gatomon“.
 Pass besser auf."
-22033,,"Sbagliato, la risposta è
-""Palmon"". Attenzione, ora.",答錯了。答案是「巴魯獸」。下次可別答錯了,,"틀렸다. 답은「팔몬」
+22033,,"Sbagliato, la risposta è ""Palmon"".
+Attenzione, ora.",答錯了。答案是「巴魯獸」。下次可別答錯了,,"틀렸다. 답은「팔몬」
 다음엔 틀리지 마라.","Falsch, die Antwort ist „Palmon“.
 Pass besser auf."
-22034,,"Sbagliato, la risposta è
-""Monzaemon"". Attenzione, ora.",答錯了。答案是「熊仔獸」。下次可別答錯了,,"틀렸다. 답은「퍼펫몬」
+22034,,"Sbagliato, la risposta è ""Monzaemon"".
+Attenzione, ora.",答錯了。答案是「熊仔獸」。下次可別答錯了,,"틀렸다. 답은「퍼펫몬」
 다음엔 틀리지 마라.","Falsch, die Antwort ist „Monzaemon“.
 Pass besser auf."
-22035,,"Sbagliato, la risposta è
-""Garudamon"". Attenzione, ora.",答錯了。答案是「伽樓達獸」。下次可別答錯了,,"틀렸다. 답은「가루다몬」
+22035,,"Sbagliato, la risposta è ""Garudamon"".
+Attenzione, ora.",答錯了。答案是「伽樓達獸」。下次可別答錯了,,"틀렸다. 답은「가루다몬」
 다음엔 틀리지 마라.","Falsch, die Antwort ist „Garudamon“.
 Pass besser auf."
-22036,,"Sbagliato, la risposta è
-""Botamon"". Attenzione, ora.",答錯了。答案是「黑球獸」。下次可別答錯了,,"틀렸다. 답은「깜몬」
+22036,,"Sbagliato, la risposta è ""Botamon"".
+Attenzione, ora.",答錯了。答案是「黑球獸」。下次可別答錯了,,"틀렸다. 답은「깜몬」
 다음엔 틀리지 마라.","Falsch, die Antwort ist „Botamon“.
 Pass besser auf."
-22037,,"Sbagliato, la risposta è
-""Wanyamon"". Attenzione, ora.",答錯了。答案是「汪喵獸」。下次可別答錯了,,"틀렸다. 답은「와냐몬」
+22037,,"Sbagliato, la risposta è ""Wanyamon"".
+Attenzione, ora.",答錯了。答案是「汪喵獸」。下次可別答錯了,,"틀렸다. 답은「와냐몬」
 다음엔 틀리지 마라.","Falsch, die Antwort ist „Wanyamon“.
 Pass besser auf."
-22038,,"Sbagliato, la risposta è ""Il più
-forte"". Attenzione, ora.",答錯了。答案是「最強」。下次可別答錯了,,"틀렸다. 답은「최강」
+22038,,"Sbagliato, la risposta è ""Il più forte"".
+Attenzione, ora.",答錯了。答案是「最強」。下次可別答錯了,,"틀렸다. 답은「최강」
 다음엔 틀리지 마라.","Falsch, die Antwort ist „Am stärksten“.
 Pass besser auf."
-22039,,"Sbagliato, la risposta è
-""Beelzemon"". Attenzione, ora.",答錯了。答案是「墮天地獄獸」。下次可別答錯了,,"틀렸다. 답은「베르제브몬」
+22039,,"Sbagliato, la risposta è ""Beelzemon"".
+Attenzione, ora.",答錯了。答案是「墮天地獄獸」。下次可別答錯了,,"틀렸다. 답은「베르제브몬」
 다음엔 틀리지 마라.","Falsch, die Antwort ist „Beelzemon“.
 Pass besser auf."
-22040,,"Sbagliato, la risposta è
-""Cherrymon"". Attenzione, ora.",答錯了。答案是「祖利獸」。下次可別答錯了,,"틀렸다. 답은「쥬레이몬」
+22040,,"Sbagliato, la risposta è ""Cherrymon"".
+Attenzione, ora.",答錯了。答案是「祖利獸」。下次可別答錯了,,"틀렸다. 답은「쥬레이몬」
 다음엔 틀리지 마라.","Falsch, die Antwort ist „Cherrymon“.
 Pass besser auf."
 22041,,"Sbagliato, la risposta è ""Flamedramon"".
 Attenzione, ora.",答錯了。答案是「烈焰獸」。下次可別答錯了,,"틀렸다. 답은「화염드라몬」
 다음엔 틀리지 마라.","Falsch, die Antwort ist „Flamedramon“.
 Pass besser auf."
-22042,,"Sbagliato, la risposta è
-""Sakuyamon"". Attenzione, ora.",答錯了。答案是「沙古牙獸」。下次可別答錯了,,"틀렸다. 답은「샤크라몬」
+22042,,"Sbagliato, la risposta è ""Sakuyamon"".
+Attenzione, ora.",答錯了。答案是「沙古牙獸」。下次可別答錯了,,"틀렸다. 답은「샤크라몬」
 다음엔 틀리지 마라.","Falsch, die Antwort ist „Sakuyamon“.
 Pass besser auf."
-22043,,"Sbagliato, la
-risposta è ""Berserk Sword"". Attenzione, ora.",答錯了。答案是「狂暴大劍」。下次可別答錯了,,"틀렸다. 답은「베르세르크 소드」
+22043,,"Sbagliato, la risposta è ""Berserk Sword"".
+Attenzione, ora.",答錯了。答案是「狂暴大劍」。下次可別答錯了,,"틀렸다. 답은「베르세르크 소드」
 다음엔 틀리지 마라.","Falsch, die Antwort ist
 „Berserkerschwert“. Pass besser auf."
-22044,,"Sbagliato, la risposta è
-""Imperatore Selvaggio"". È stata dura, eh?","答錯了。答案是「ㄨㄥˋ　ㄅㄨˋ　ㄉㄨ　ㄕㄣˊ」
+22044,,"Sbagliato, la risposta è ""Imperatore Selvaggio"".
+È stata dura, eh?","答錯了。答案是「ㄨㄥˋ　ㄅㄨˋ　ㄉㄨ　ㄕㄣˊ」
 這題有些困難吧",,"틀렸다. 답은「미카후츠노카미」
 다음엔 틀리지 마라.","Falsch, die Antwort ist
 „Barbarenkaiser“. Echt schwer, was?"
-22045,,"Sbagliato, la risposta è
-""Vademon"". Attenzione, ora.",答錯了。答案是「入侵者獸」。下次可別答錯了,,"틀렸다. 답은「베이더몬」
+22045,,"Sbagliato, la risposta è ""Vademon"".
+Attenzione, ora.",答錯了。答案是「入侵者獸」。下次可別答錯了,,"틀렸다. 답은「베이더몬」
 다음엔 틀리지 마라.","Falsch, die Antwort ist „Vademon“.
 Pass besser auf."
 22046,,"Sbagliato, la risposta è ""la coda"".
 Attenzione, ora.",答錯了。答案是「尾巴」。下次可別答錯了,,"틀렸다. 답은「꼬리」
 다음엔 틀리지 마라.","Falsch, die Antwort ist „Der Schwanz“.
 Pass besser auf."
-22047,,"Sbagliato, la risposta è
-""Nanimon"". Attenzione, ora.",答錯了。答案是「亞伯獸」。下次可別答錯了,,"틀렸다. 답은「모야몬」
+22047,,"Sbagliato, la risposta è ""Nanimon"".
+Attenzione, ora.",答錯了。答案是「亞伯獸」。下次可別答錯了,,"틀렸다. 답은「모야몬」
 다음엔 틀리지 마라.","Falsch, die Antwort ist „Nanimon“.
 Pass besser auf."
-22048,,"Sbagliato, la risposta è
-""Punimon"". Attenzione, ora.",答錯了。答案是「普尼獸」。下次可別答錯了,,"틀렸다. 답은「푸니몬」
+22048,,"Sbagliato, la risposta è ""Punimon"".
+Attenzione, ora.",答錯了。答案是「普尼獸」。下次可別答錯了,,"틀렸다. 답은「푸니몬」
 다음엔 틀리지 마라.","Falsch, die Antwort ist „Punimon“.
 Pass besser auf."
-22049,,"Sbagliato, la risposta è
-""Pumpkinmon"". Attenzione, ora.",答錯了。答案是「南瓜獸」。下次可別答錯了,,"틀렸다. 답은「펌프몬」
+22049,,"Sbagliato, la risposta è ""Pumpkinmon"".
+Attenzione, ora.",答錯了。答案是「南瓜獸」。下次可別答錯了,,"틀렸다. 답은「펌프몬」
 다음엔 틀리지 마라.","Falsch, die Antwort ist „Pumpkinmon“.
 Pass besser auf."
-22050,,"Sbagliato, la risposta è
-""Biyomon"". Attenzione, ora.",答錯了。答案是「比丘獸」。下次可別答錯了,,"틀렸다. 답은「피요몬」
+22050,,"Sbagliato, la risposta è ""Biyomon"".
+Attenzione, ora.",答錯了。答案是「比丘獸」。下次可別答錯了,,"틀렸다. 답은「피요몬」
 다음엔 틀리지 마라.","Falsch, die Antwort ist „Biyomon“.
 Pass besser auf."
 22051,,"Sbagliato, la risposta è ""Connect Jump"".
 Attenzione, ora.",答錯了。答案是「登入跳躍」。下次可別答錯了,,"틀렸다. 답은「커넥트 점프」
 다음엔 틀리지 마라.","Falsch, die Antwort ist „Verbindungssprung“.
 Pass besser auf."
-22052,,"Sbagliato, la risposta è
-""EDEN"". Attenzione, ora.",答錯了。答案是「EDEN」。下次可別答錯了,,"틀렸다. 답은「EDEN」
+22052,,"Sbagliato, la risposta è ""EDEN"".
+Attenzione, ora.",答錯了。答案是「EDEN」。下次可別答錯了,,"틀렸다. 답은「EDEN」
 다음엔 틀리지 마라.","Falsch, die Antwort ist „EDEN“.
 Pass besser auf."
-22053,,"Sbagliato, la risposta è ""Una
-croce"". Attenzione, ora.",答錯了。答案是「叉叉」。下次可別答錯了,,"틀렸다. 답은「엑스」
+22053,,"Sbagliato, la risposta è ""Una croce"".
+Attenzione, ora.",答錯了。答案是「叉叉」。下次可別答錯了,,"틀렸다. 답은「엑스」
 다음엔 틀리지 마라.","Falsch, die Antwort ist „Ein Kreuz“.
 Pass besser auf."
-22054,,"Sbagliato, la risposta è ""gocce
-d'acqua"". Attenzione, ora.",答錯了。答案是「水滴」。下次可別答錯了,,"틀렸다. 답은「물방울」
+22054,,"Sbagliato, la risposta è ""gocce d'acqua"".
+Attenzione, ora.",答錯了。答案是「水滴」。下次可別答錯了,,"틀렸다. 답은「물방울」
 다음엔 틀리지 마라.","Falsch, die Antwort ist „Wassertropfen“.
 Pass besser auf."
 22055,,"Sbagliato, la risposta è ""Nero"".
 Attenzione, ora.",答錯了。答案是「黑色」。下次可別答錯了,,"틀렸다. 답은「검정」
 다음엔 틀리지 마라.","Falsch, die Antwort ist „Schwarz“.
 Pass besser auf."
-22056,,"Sbagliato, la risposta è
-""Cattura Digimon"". Attenzione, ora.","答錯了。答案是「數碼寶貝捕捉器」
+22056,,"Sbagliato, la risposta è ""Cattura Digimon"".
+Attenzione, ora.","答錯了。答案是「數碼寶貝捕捉器」
 下次可別答錯了",,"틀렸다. 답은「디지몬 캡처」
 다음엔 틀리지 마라.","Falsch, die Antwort ist
 „Digimon-Fang“. Pass besser auf."
-22057,,"Sbagliato, la risposta
-è ""Mirei Mikagura"". Attenzione, ora.",答錯了。答案是「御神樂米蕾」。下次可別答錯了,,"틀렸다. 답은「미카구라 미레이」
+22057,,"Sbagliato, la risposta è ""Mirei Mikagura"".
+Attenzione, ora.",答錯了。答案是「御神樂米蕾」。下次可別答錯了,,"틀렸다. 답은「미카구라 미레이」
 다음엔 틀리지 마라.","Falsch, die Antwort ist
 „Mirei Mikagura“. Pass besser auf."
-22058,,"Sbagliato, la risposta è ""Cambia la personalità di un Digimon"".
-Attenzione, ora.","答錯了。答案是「改變數碼寶貝的個性」
+22058,,"Sbagliato, la risposta è ""Cambia la personalità
+di un Digimon"". Attenzione, ora.","答錯了。答案是「改變數碼寶貝的個性」
 下次可別答錯了",,"틀렸다. 답은「디지몬의 개성을 바꾼다」
 다음엔 틀리지 마라.","Falsch, die Antwort ist „Sie ändern die
 Digimon-Persönlichkeit“. Pass auf."
@@ -8508,20 +8501,20 @@ Pass besser auf."
 Attenzione, ora.",答錯了。答案是「粉紅色」。下次可別答錯了,,"틀렸다. 답은「핑크」
 다음엔 틀리지 마라.","Falsch, die Antwort ist „Rosa“.
 Pass besser auf."
-22061,,"Sbagliato, la risposta è
-""Indagare"". Attenzione, ora.",答錯了。答案是「調查」。下次可別答錯了,,"틀렸다. 답은「조사」
+22061,,"Sbagliato, la risposta è ""Indagare"".
+Attenzione, ora.",答錯了。答案是「調查」。下次可別答錯了,,"틀렸다. 답은「조사」
 다음엔 틀리지 마라.","Falsch, die Antwort ist „Ermitteln“.
 Pass besser auf."
 22062,,"Sbagliato, la risposta è ""Fungo Vigore"".
 Attenzione, ora.",答錯了。答案是「精力旺盛菇」。下次可別答錯了,,"틀렸다. 답은「터프니스 버섯」
 다음엔 틀리지 마라.","Falsch, die Antwort ist „Lebenspilz“.
 Pass besser auf."
-22063,,"Sbagliato, la risposta è ""Prodotti
-agricoli"". Attenzione, ora.",答錯了。答案是「農場道具」。下次可別答錯了,,"틀렸다. 답은「팜 굿즈」
+22063,,"Sbagliato, la risposta è ""Prodotti agricoli"".
+Attenzione, ora.",答錯了。答案是「農場道具」。下次可別答錯了,,"틀렸다. 답은「팜 굿즈」
 다음엔 틀리지 마라.","Falsch, die Antwort ist „Farmprodukte“.
 Pass besser auf."
-22064,,"Sbagliato, la risposta è
-""DigiLab"". Attenzione, ora.",答錯了。答案是「數碼實驗室」。下次可別答錯了,,"틀렸다. 답은「디지랩」
+22064,,"Sbagliato, la risposta è ""DigiLab"".
+Attenzione, ora.",答錯了。答案是「數碼實驗室」。下次可別答錯了,,"틀렸다. 답은「디지랩」
 다음엔 틀리지 마라.","Falsch, die Antwort ist „DigiLab“.
 Pass besser auf."
 22065,,"Sbagliato, la risposta è ""Arata Sanada"".
@@ -8536,12 +8529,12 @@ Pass besser auf."
 Attenzione, ora.",答錯了。答案是「紅寶石」。下次可別答錯了,,"틀렸다. 답은「루비」
 다음엔 틀리지 마라.","Falsch, die Antwort ist „Rubin“.
 Pass besser auf."
-22068,,"Sbagliato, la risposta è ""Tipo di vaccino"".
+22068,,"Sbagliato, la risposta è ""Tipo Vaccino"".
 Attenzione, ora.",答錯了。答案是「疫苗種」。下次可別答錯了,,"틀렸다. 답은「백신종」
 다음엔 틀리지 마라.","Falsch, die Antwort ist „Typus Serum“.
 Pass besser auf."
-22069,,"Sbagliato, la risposta è ""attributo
-Terra"". Attenzione, ora.",答錯了。答案是「土屬性」。下次可別答錯了,,"틀렸다. 답은「땅 속성」
+22069,,"Sbagliato, la risposta è ""attributo Terra"".
+Attenzione, ora.",答錯了。答案是「土屬性」。下次可別答錯了,,"틀렸다. 답은「땅 속성」
 다음엔 틀리지 마라.","Falsch, die Antwort ist „Erde“.
 Pass besser auf."
 22070,,"Sbagliato, la risposta è ""Dot"".
@@ -8553,49 +8546,49 @@ generare combo"". Attenzione, ora.","答錯了。答案是「容易產生連擊�
 下次可別答錯了",,"틀렸다. 답은「콤보가 발생하기 쉬워진다」
 다음엔 틀리지 마라.","Falsch, die Antwort ist „Kombos werden
 einfacher“. Pass besser auf."
-22072,,"Sbagliato, la risposta è ""Crepa nel
-muro"". Attenzione, ora.",答錯了。答案是「Wall Crack」。下次可別答錯了,,"틀렸다. 답은「월 크랙」
+22072,,"Sbagliato, la risposta è ""Crepa nel muro"".
+Attenzione, ora.",答錯了。答案是「Wall Crack」。下次可別答錯了,,"틀렸다. 답은「월 크랙」
 다음엔 틀리지 마라.","Falsch, die Antwort ist „Mauerspalt“.
 Pass besser auf."
-22073,,"Sbagliato, la risposta è ""Ninja
-USB"". Attenzione, ora.",答錯了。答案是「忍者USB」。下次可別答錯了,,"틀렸다. 답은「닌자의 USB」
+22073,,"Sbagliato, la risposta è ""Ninja USB"".
+Attenzione, ora.",答錯了。答案是「忍者USB」。下次可別答錯了,,"틀렸다. 답은「닌자의 USB」
 다음엔 틀리지 마라.","Falsch, die Antwort ist „Ninja-USB“.
 Pass besser auf."
-22074,,"Sbagliato, la risposta è
-""Puppetmon"". Attenzione, ora.",答錯了。答案是「木偶獸」。下次可別答錯了,,"틀렸다. 답은「피노키몬」
+22074,,"Sbagliato, la risposta è ""Puppetmon"".
+Attenzione, ora.",答錯了。答案是「木偶獸」。下次可別答錯了,,"틀렸다. 답은「피노키몬」
 다음엔 틀리지 마라.","Falsch, die Antwort ist „Puppetmon“.
 Pass besser auf."
-22075,,"Sbagliato, la risposta è
-""Devimon"". Attenzione, ora.",答錯了。答案是「惡魔獸」。下次可別答錯了,,"틀렸다. 답은「데블몬」
+22075,,"Sbagliato, la risposta è ""Devimon"".
+Attenzione, ora.",答錯了。答案是「惡魔獸」。下次可別答錯了,,"틀렸다. 답은「데블몬」
 다음엔 틀리지 마라.","Falsch, die Antwort ist „Devimon“.
 Pass besser auf."
-22076,,"Sbagliato, la risposta è
-""Angemon"". Attenzione, ora.",答錯了。答案是「天使獸」。下次可別答錯了,,"틀렸다. 답은「엔젤몬」
+22076,,"Sbagliato, la risposta è ""Angemon"".
+Attenzione, ora.",答錯了。答案是「天使獸」。下次可別答錯了,,"틀렸다. 답은「엔젤몬」
 다음엔 틀리지 마라.","Falsch, die Antwort ist „Angemon“.
 Pass besser auf."
-22077,,"Sbagliato, la risposta è
-""Cannone della Catastrofe"". Attenzione, ora.","答錯了。答案是「大災難」
+22077,,"Sbagliato, la risposta è ""Cannone della Catastrofe"".
+Attenzione, ora.","答錯了。答案是「大災難」
 下次可別答錯了",,"틀렸다. 답은「카타스트로피 캐논」
 다음엔 틀리지 마라.","Falsch, die Antwort ist
 „Katastrophenkanone“. Pass besser auf."
-22078,,"Sbagliato, la risposta è
-""Piximon"". Attenzione, ora.",答錯了。答案是「妖精獸」。下次可別答錯了,,"틀렸다. 답은「피콜몬」
+22078,,"Sbagliato, la risposta è ""Piximon"".
+Attenzione, ora.",答錯了。答案是「妖精獸」。下次可別答錯了,,"틀렸다. 답은「피콜몬」
 다음엔 틀리지 마라.","Falsch, die Antwort ist „Piximon“.
 Pass besser auf."
-22079,,"Sbagliato, la risposta è
-""Hackmon"". Attenzione, ora.",答錯了。答案是「哈克獸」。下次可別答錯了,,"틀렸다. 답은「헉몬」
+22079,,"Sbagliato, la risposta è ""Hackmon"".
+Attenzione, ora.",答錯了。答案是「哈克獸」。下次可別答錯了,,"틀렸다. 답은「헉몬」
 다음엔 틀리지 마라.","Falsch, die Antwort ist „Hackmon“.
 Pass besser auf."
-22080,,"Sbagliato, la risposta è
-""Shakkoumon"". Attenzione, ora.",答錯了。答案是「古神獸」。下次可別答錯了,,"틀렸다. 답은「토우몬」
+22080,,"Sbagliato, la risposta è ""Shakkoumon"".
+Attenzione, ora.",答錯了。答案是「古神獸」。下次可別答錯了,,"틀렸다. 답은「토우몬」
 다음엔 틀리지 마라.","Falsch, die Antwort ist „Shakkoumon“.
 Pass besser auf."
-22081,,"Sbagliato, la risposta è
-""Veedramon"". Attenzione, ora.",答錯了。答案是「V龍獸」。下次可別答錯了,,"틀렸다. 답은「브이드라몬」
+22081,,"Sbagliato, la risposta è ""Veedramon"".
+Attenzione, ora.",答錯了。答案是「V龍獸」。下次可別答錯了,,"틀렸다. 답은「브이드라몬」
 다음엔 틀리지 마라.","Falsch, die Antwort ist „Veedramon“.
 Pass besser auf."
-22082,,"Sbagliato, la risposta è ""Spara
-cristalli dalla testa"". Attenzione, ora.","答錯了。答案是「從頭部射出礦石」
+22082,,"Sbagliato, la risposta è ""Spara cristalli dalla testa"".
+Attenzione, ora.","答錯了。答案是「從頭部射出礦石」
 下次可別答錯了",,"틀렸다. 답은「머리에서 광석을 발사한다」
 다음엔 틀리지 마라.","Falsch, richtig ist „Kristalle schießen
 aus seinem Kopf“. Pass besser auf."
@@ -8604,8 +8597,8 @@ raggio sottile dalle sue mani"". Attenzione, ora.","答錯了。答案是「從�
 下次可別答錯了",,"틀렸다. 답은「손 끝에서 가는 빔을 쏜다」
 다음엔 틀리지 마라.","Falsch, die Antwort ist „Ein dünner
 Strahl aus den Händen“. Pass besser auf."
-22084,,"Sbagliato, la risposta è
-""Machinedramon"". Attenzione, ora.",答錯了。答案是「機械邪龍獸」。下次可別答錯了,,"틀렸다. 답은「파워드라몬」
+22084,,"Sbagliato, la risposta è ""Machinedramon"".
+Attenzione, ora.",答錯了。答案是「機械邪龍獸」。下次可別答錯了,,"틀렸다. 답은「파워드라몬」
 다음엔 틀리지 마라.","Falsch, die Antwort ist „Machinedramon“.
 Pass besser auf."
 22085,,"Sbagliato, la risposta è ""Grande
@@ -8616,49 +8609,49 @@ der Wüste“. Pass besser auf."
 Attenzione, ora.",答錯了。答案是「烏王丸」。下次可別答錯了,,"틀렸다. 답은「오왕도」
 다음엔 틀리지 마라.","Falsch, die Antwort ist „Rabenkönig“.
 Pass besser auf."
-22087,,"Sbagliato, la risposta è
-""BanchoLeomon"". Attenzione, ora.","答錯了。答案是「番長獅子獸」
+22087,,"Sbagliato, la risposta è ""BanchoLeomon"".
+Attenzione, ora.","答錯了。答案是「番長獅子獸」
 下次可別答錯了",,"틀렸다. 답은「반쵸레오몬」
 다음엔 틀리지 마라.","Falsch, die Antwort ist „BanchoLeomon“.
 Pass besser auf."
-22088,,"Sbagliato, la risposta è
-""Terrier Tornado"". Attenzione, ora.",答錯了。答案是「小型龍捲風」。下次可別答錯了,,"틀렸다. 답은「프티 트위스터」
+22088,,"Sbagliato, la risposta è ""Terrier Tornado"".
+Attenzione, ora.",答錯了。答案是「小型龍捲風」。下次可別答錯了,,"틀렸다. 답은「프티 트위스터」
 다음엔 틀리지 마라.","Falsch, die Antwort ist „Terrier-
 Tornado“. Pass besser auf."
-22089,,"Sbagliato, la risposta è
-""Spray"". Attenzione, ora.",答錯了。答案是「碰碰拳」。下次可別答錯了,,"틀렸다. 답은「뿜기」
+22089,,"Sbagliato, la risposta è ""Spray"".
+Attenzione, ora.",答錯了。答案是「碰碰拳」。下次可別答錯了,,"틀렸다. 답은「뿜기」
 다음엔 틀리지 마라.","Falsch, die Antwort ist „-feuer“.
 Pass besser auf."
-22090,,"Sbagliato, la risposta è
-""Myotismon"". Attenzione, ora.",答錯了。答案是「吸血魔獸」。下次可別答錯了,,"틀렸다. 답은「묘티스몬」
+22090,,"Sbagliato, la risposta è ""Myotismon"".
+Attenzione, ora.",答錯了。答案是「吸血魔獸」。下次可別答錯了,,"틀렸다. 답은「묘티스몬」
 다음엔 틀리지 마라.","Falsch, die Antwort ist „Myotismon“.
 Pass besser auf."
-22091,,"Sbagliato, la risposta è
-""23"". Attenzione, ora.",答錯了。答案是「23」。下次可別答錯了,,"틀렸다. 답은「23」
+22091,,"Sbagliato, la risposta è ""23"".
+Attenzione, ora.",答錯了。答案是「23」。下次可別答錯了,,"틀렸다. 답은「23」
 다음엔 틀리지 마라.","Falsch, die Antwort ist „23“.
 Pass besser auf."
-22092,,"Sbagliato, la risposta è
-""Ootaku"". Attenzione, ora.",答錯了。答案是「大田區」。下次可別答錯了,,"틀렸다. 답은「오타구」
+22092,,"Sbagliato, la risposta è ""Ootaku"".
+Attenzione, ora.",答錯了。答案是「大田區」。下次可別答錯了,,"틀렸다. 답은「오타구」
 다음엔 틀리지 마라.","Falsch, die Antwort ist „Ootaku“.
 Pass besser auf."
 22093,,"Sbagliato, la risposta è ""Il periodo
 Azuchi-Momoyama"". Attenzione, ora.",答錯了。答案是「安土桃山時代」。下次可別答錯了,,"틀렸다. 답은「아즈치 모모야마 시대」
 다음엔 틀리지 마라.","Falsch, die Antwort ist „In der Azuchi-
 Momoyama-Periode“. Pass besser auf."
-22094,,"Sbagliato, la risposta è
-""Mammiferi"". Attenzione, ora.",答錯了。答案是「哺乳類」。下次可別答錯了,,"틀렸다. 답은「포유류」
+22094,,"Sbagliato, la risposta è ""Mammiferi"".
+Attenzione, ora.",答錯了。答案是「哺乳類」。下次可別答錯了,,"틀렸다. 답은「포유류」
 다음엔 틀리지 마라.","Falsch, die Antwort ist „Säugetiere“.
 Pass besser auf."
-22095,,"Sbagliato, la risposta è ""Monte
-Fuji"". Attenzione, ora.",答錯了。答案是「富士山」。下次可別答錯了,,"틀렸다. 답은「후지산」
+22095,,"Sbagliato, la risposta è ""Monte Fuji"".
+Attenzione, ora.",答錯了。答案是「富士山」。下次可別答錯了,,"틀렸다. 답은「후지산」
 다음엔 틀리지 마라.","Falsch, die Antwort ist „Fuji“.
 Pass besser auf."
-22096,,"Sbagliato, la risposta è
-""Vitamine"". Attenzione, ora.",答錯了。答案是「維他命」。下次可別答錯了,,"틀렸다. 답은「비타민」
+22096,,"Sbagliato, la risposta è ""Vitamine"".
+Attenzione, ora.",答錯了。答案是「維他命」。下次可別答錯了,,"틀렸다. 답은「비타민」
 다음엔 틀리지 마라.","Falsch, die Antwort ist „Vitamine“.
 Pass besser auf."
-22097,,"Sbagliato, la risposta è
-""Parallelo"". Attenzione, ora.",答錯了。答案是「平行」。下次可別答錯了,,"틀렸다. 답은「평행」
+22097,,"Sbagliato, la risposta è ""Parallelo"".
+Attenzione, ora.",答錯了。答案是「平行」。下次可別答錯了,,"틀렸다. 답은「평행」
 다음엔 틀리지 마라.","Falsch, die Antwort ist „Parallel“.
 Pass besser auf."
 22098,,"Sbagliato, la risposta è ""Clima caldo
@@ -8666,115 +8659,115 @@ all'inizio dell'inverno"". Attenzione, ora.","答錯了。答案是「初冬時�
 下次可別答錯了",,"틀렸다. 답은「초겨울 무렵의 따뜻한 기후」
 다음엔 틀리지 마라.","Falsch, die Antwort ist „Warmes Wetter
 zu Winterbeginn“. Pass besser auf."
-22099,,"Sbagliato, la risposta è ""La
-Rivoluzione francese"". Attenzione, ora.",答錯了。答案是「法國大革命」。下次可別答錯了,,"틀렸다. 답은「프랑스 혁명」
+22099,,"Sbagliato, la risposta è ""La Rivoluzione francese"".
+Attenzione, ora.",答錯了。答案是「法國大革命」。下次可別答錯了,,"틀렸다. 답은「프랑스 혁명」
 다음엔 틀리지 마라.","Falsch, richtig ist „Die Französische
 Revolution“. Pass besser auf."
-22100,,"Sbagliato, la
-risposta è ""olandese"". Attenzione, ora.",答錯了。答案是「荷蘭人」。下次可別答錯了,,"틀렸다. 답은「네덜란드인」
+22100,,"Sbagliato, la risposta è ""olandese"".
+Attenzione, ora.",答錯了。答案是「荷蘭人」。下次可別答錯了,,"틀렸다. 답은「네덜란드인」
 다음엔 틀리지 마라.","Falsch, die Antwort ist
 „Niederländisch“. Pass besser auf."
-23001,,"Accidenti, la risposta è
-""Digivice"". Riprova!","答錯了。正確解答是「Digivice」
+23001,,"Accidenti, la risposta è ""Digivice"".
+Riprova!","答錯了。正確解答是「Digivice」
 下次可別答錯了喔！",,"틀렸어. 정답은「디지바이스」야.
 다음엔 틀리지 말라구!","Mist, die Antwort ist „Digivice“.
 Versuch’s noch mal!"
-23002,,"Accidenti, la risposta è ""Kyoto
-Kuremi"". Riprova!",答錯了。正確解答是「暮海杏子」。下次可別答錯了喔！,,"틀렸어. 정답은「쿠레미 쿄코」야.
+23002,,"Accidenti, la risposta è ""Kyoto Kuremi"".
+Riprova!",答錯了。正確解答是「暮海杏子」。下次可別答錯了喔！,,"틀렸어. 정답은「쿠레미 쿄코」야.
 다음엔 틀리지 말라구!","Mist, die Antwort ist „Kyoto Kuremi“.
 Versuch’s noch mal!"
-23003,,"Accidenti, la risposta è
-""Omnimon Zwart"". Riprova!","答錯了。正確解答是「黑奧米加獸」
+23003,,"Accidenti, la risposta è ""Omnimon Zwart"".
+Riprova!","答錯了。正確解答是「黑奧米加獸」
 下次可別答錯了喔！",,"틀렸어. 정답은「오메가몬 즈왈트」야.
 다음엔 틀리지 말라구!","Mist, die Antwort ist „Omnimon Zwart“.
 Versuch’s noch mal!"
-23004,,"Accidenti, la
-risposta è ""13"". Riprova!",答錯了。正確解答是「13隻」。下次可別答錯了喔！,,"틀렸어. 정답은「13개」야.
+23004,,"Accidenti, la risposta è ""13"".
+Riprova!",答錯了。正確解答是「13隻」。下次可別答錯了喔！,,"틀렸어. 정답은「13개」야.
 다음엔 틀리지 말라구!","Mist, die Antwort ist „13“.
 Versuch’s noch mal!"
-23005,,"Accidenti, la risposta
-è ""Due"". Riprova!",答錯了。正確解答是「2隻」。下次可別答錯了喔！,,"틀렸어. 정답은「2개」야.
+23005,,"Accidenti, la risposta è ""Due"".
+Riprova!",答錯了。正確解答是「2隻」。下次可別答錯了喔！,,"틀렸어. 정답은「2개」야.
 다음엔 틀리지 말라구!","Mist, die Antwort ist „Zwei“.
 Versuch’s noch mal!"
-23006,,"Accidenti, la risposta è ""Giostra
-Fulminante"". Riprova!","答錯了。正確解答是「皇家槍擊」
+23006,,"Accidenti, la risposta è ""Giostra Fulminante"".
+Riprova!","答錯了。正確解答是「皇家槍擊」
 下次可別答錯了喔！",,"틀렸어. 정답은「로얄 세이버」야.
 다음엔 틀리지 말라구!","Mist, die Antwort ist „Blitz-Tjost“.
 Versuch’s noch mal!"
-23007,,"Spara, la risposta è ""Claíomh
-Solais"". Riprova!","答錯了。正確解答是「克拉烏‧索拉斯」
+23007,,"Spara, la risposta è ""Claíomh Solais"".
+Riprova!","答錯了。正確解答是「克拉烏‧索拉斯」
 下次可別答錯了喔！",,"틀렸어. 정답은「클라우 솔라스」야.
 다음엔 틀리지 말라구!","Mist, die Antwort ist „Claíomh Solais“.
 Versuch’s noch mal!"
-23008,,"Accidenti, la risposta
-è ""Sei"". Riprova!",答錯了。正確解答是「6隻」。下次可別答錯了喔！,,"틀렸어. 정답은「6개」야.
+23008,,"Accidenti, la risposta è ""Sei"".
+Riprova!",答錯了。正確解答是「6隻」。下次可別答錯了喔！,,"틀렸어. 정답은「6개」야.
 다음엔 틀리지 말라구!","Mist, die Antwort ist „Sechs“.
 Versuch’s noch mal!"
-23009,,"Accidenti, la risposta è ""Tipo
-di dati"". Riprova!",答錯了。正確解答是「資料種」。下次可別答錯了喔！,,"틀렸어. 정답은「데이터종」이야.
+23009,,"Accidenti, la risposta è ""Tipo Dati"".
+Riprova!",答錯了。正確解答是「資料種」。下次可別答錯了喔！,,"틀렸어. 정답은「데이터종」이야.
 다음엔 틀리지 말라구!","Mist, die Antwort ist „Typus Datei“.
 Versuch’s noch mal!"
-23010,,"Accidenti, la risposta
-è ""Mega"". Riprova!",答錯了。正確解答是「究極體」。下次可別答錯了喔！,,"틀렸어. 정답은「궁극체」야.
+23010,,"Accidenti, la risposta è ""Mega"".
+Riprova!",答錯了。正確解答是「究極體」。下次可別答錯了喔！,,"틀렸어. 정답은「궁극체」야.
 다음엔 틀리지 말라구!","Mist, die Antwort ist „Mega“.
 Versuch’s noch mal!"
-23011,,"Accidenti, la risposta è
-""Padre"". Riprova!",答錯了。正確解答是「親父」。下次可別答錯了喔！,,"틀렸어. 정답은「친부」야.
+23011,,"Accidenti, la risposta è ""Padre"".
+Riprova!",答錯了。正確解答是「親父」。下次可別答錯了喔！,,"틀렸어. 정답은「친부」야.
 다음엔 틀리지 말라구!","Mist, die Antwort ist „Vater“.
 Versuch’s noch mal!"
-23012,,"Accidenti, la risposta è
-""Veemon"". Riprova!",答錯了。正確解答是「V仔獸」。下次可別答錯了喔！,,"틀렸어. 정답은「브이몬」이야.
+23012,,"Accidenti, la risposta è ""Veemon"".
+Riprova!",答錯了。正確解答是「V仔獸」。下次可別答錯了喔！,,"틀렸어. 정답은「브이몬」이야.
 다음엔 틀리지 말라구!","Mist, die Antwort ist „Veemon“.
 Versuch’s noch mal!"
-23013,,"Accidenti, la risposta è
-""Leopardmon"". Riprova!","答錯了。正確解答是「芳香獸」
+23013,,"Accidenti, la risposta è ""Leopardmon"".
+Riprova!","答錯了。正確解答是「芳香獸」
 下次可別答錯了喔！",,"틀렸어. 정답은「두프트몬」이야.
 다음엔 틀리지 말라구!","Mist, die Antwort ist „Duftmon“.
 Versuch’s noch mal!"
-23014,,"Accidenti, la risposta è
-""Dynasmon"". Riprova!","答錯了。正確解答是「杜納斯獸」
+23014,,"Accidenti, la risposta è ""Dynasmon"".
+Riprova!","答錯了。正確解答是「杜納斯獸」
 下次可別答錯了喔！",,"틀렸어. 정답은「듀나스몬」이야.
 다음엔 틀리지 말라구!","Mist, die Antwort ist „Dynasmon“.
 Versuch’s noch mal!"
-23015,,"Accidenti, la risposta è
-""Omnimon"". Riprova!","答錯了。正確解答是「奧米加獸」
+23015,,"Accidenti, la risposta è ""Omnimon"".
+Riprova!","答錯了。正確解答是「奧米加獸」
 下次可別答錯了喔！",,"틀렸어. 정답은「오메가몬」이야.
 다음엔 틀리지 말라구!","Mist, die Antwort ist „Omnimon Zwart“.
 Versuch’s noch mal!"
-23016,,"Accidenti, la risposta è
-""Crusadermon"". Riprova!","答錯了。正確解答是「劍皇獸」
+23016,,"Accidenti, la risposta è ""Crusadermon"".
+Riprova!","答錯了。正確解答是「劍皇獸」
 下次可別答錯了喔！",,"틀렸어. 정답은「로드나이트몬」이야.
 다음엔 틀리지 말라구!","Mist, die Antwort ist „Crusadermon“.
 Versuch’s noch mal!"
-23017,,"Accidenti, la
-risposta è ""UlforceVeedramon"". Riprova!","答錯了。正確解答是「究極V龍獸」
+23017,,"Accidenti, la risposta è ""UlforceVeedramon"".
+Riprova!","答錯了。正確解答是「究極V龍獸」
 下次可別答錯了喔！",,"틀렸어. 정답은「알포스브이드라몬」이야.
 다음엔 틀리지 말라구!","Mist, die Antwort ist
 „UlforceVeedramon“. Versuch’s noch mal!"
-23018,,"Accidenti, la
-risposta è ""10"". Riprova!",答錯了。正確解答是「10隻」。下次可別答錯了喔！,,"틀렸어. 정답은「10개」야.
+23018,,"Accidenti, la risposta è ""10"".
+Riprova!",答錯了。正確解答是「10隻」。下次可別答錯了喔！,,"틀렸어. 정답은「10개」야.
 다음엔 틀리지 말라구!","Mist, die Antwort ist „10“.
 Versuch’s noch mal!"
-23019,,"Accidenti, la risposta
-è ""Ueno"". Riprova!",答錯了。正確解答是「上野」。下次可別答錯了喔！,,"틀렸어. 정답은「우에노」야.
+23019,,"Accidenti, la risposta è ""Ueno"".
+Riprova!",答錯了。正確解答是「上野」。下次可別答錯了喔！,,"틀렸어. 정답은「우에노」야.
 다음엔 틀리지 말라구!","Mist, die Antwort ist „Ueno“.
 Versuch’s noch mal!"
-23020,,"Accidenti, la risposta è
-""DigiLine"". Riprova!","答錯了。正確解答是「數碼連線」
+23020,,"Accidenti, la risposta è ""DigiLine"".
+Riprova!","答錯了。正確解答是「數碼連線」
 下次可別答錯了喔！",,"틀렸어. 정답은「디지라인」이야.
 다음엔 틀리지 말라구!","Mist, die Antwort ist „Digiline“.
 Versuch’s noch mal!"
-23021,,"Accidenti, la risposta è ""29
-stazioni"". Riprova!",答錯了。正確解答是「29站」。下次可別答錯了喔！,,"틀렸어. 정답은「29역」이야.
+23021,,"Accidenti, la risposta è ""29 stazioni"".
+Riprova!",答錯了。正確解答是「29站」。下次可別答錯了喔！,,"틀렸어. 정답은「29역」이야.
 다음엔 틀리지 말라구!","Mist, die Antwort ist „29 Haltestellen“.
 Versuch’s noch mal!"
-23022,,"Accidenti, la risposta è
-""GranKuwagamon"". Riprova!","答錯了。正確解答是「究極古加獸」
+23022,,"Accidenti, la risposta è ""GranKuwagamon"".
+Riprova!","答錯了。正確解答是「究極古加獸」
 下次可別答錯了喔！",,"틀렸어. 정답은「그랜쿠가몬」이야.
 다음엔 틀리지 말라구!","Mist, die Antwort ist „GranKuwagamon“.
 Versuch’s noch mal!"
-23023,,"Accidenti, la risposta è
-""Antylamon"". Riprova!","答錯了。正確解答是「玉兔獸」
+23023,,"Accidenti, la risposta è ""Antylamon"".
+Riprova!","答錯了。正確解答是「玉兔獸」
 下次可別答錯了喔！",,"틀렸어. 정답은「안티라몬」이야.
 다음엔 틀리지 말라구!","Mist, die Antwort ist „Antylamon“.
 Versuch’s noch mal!"
@@ -8783,72 +8776,72 @@ L'isola più a sud, Okinotori, fa parte di Tokyo!","答錯了。正確解答是�
 據說日本最南端的沖鳥礁，隸屬於東京都！",,"틀렸어. 정답은「도쿄도」야.
 다음엔 틀리지 말라구!","Mist, die Antwort ist „Tokio“. Die
 südlichste Insel Okinotori gehört dazu."
-23025,,"Accidenti, la risposta è
-""Eglefino"". Riprova!",答錯了。正確解答是「ㄔㄨㄣ」。下次可別答錯了喔！,,"틀렸어. 정답은「삼치」야.
+23025,,"Accidenti, la risposta è ""Eglefino"".
+Riprova!",答錯了。正確解答是「ㄔㄨㄣ」。下次可別答錯了喔！,,"틀렸어. 정답은「삼치」야.
 다음엔 틀리지 말라구!","Mist, die Antwort ist „Schellfisch“.
 Versuch’s noch mal!"
-23026,,"Accidenti, la risposta è
-""Houryuuji"". Riprova!",答錯了。正確解答是「法隆寺」。下次可別答錯了喔！,,"틀렸어. 정답은「호류지」야.
+23026,,"Accidenti, la risposta è ""Houryuuji"".
+Riprova!",答錯了。正確解答是「法隆寺」。下次可別答錯了喔！,,"틀렸어. 정답은「호류지」야.
 다음엔 틀리지 말라구!","Mist, die Antwort ist „Hōryū-ji“.
 Versuch’s noch mal!"
-23027,,"Accidenti, la risposta è
-""Minamoto-No-Yoritomo"". Riprova!",答錯了。正確解答是「源賴朝」。下次可別答錯了喔！,,"틀렸어. 정답은「미나모토노 요리토모」야.
+23027,,"Accidenti, la risposta è ""Minamoto-No-Yoritomo"".
+Riprova!",答錯了。正確解答是「源賴朝」。下次可別答錯了喔！,,"틀렸어. 정답은「미나모토노 요리토모」야.
 다음엔 틀리지 말라구!","Mist, die Antwort ist „Minamoto no
 Yoritomo“. Versuch’s noch mal!"
-23028,,"Accidenti, la risposta è
-""Passalo sotto l'acqua fredda"". Riprova!","答錯了。正確解答是「沖冷水降溫」
+23028,,"Accidenti, la risposta è ""Passalo sotto l'acqua fredda"".
+Riprova!","答錯了。正確解答是「沖冷水降溫」
 下次可別答錯了喔！",,"틀렸어. 정답은「찬물로 식힌다」야.
 다음엔 틀리지 말라구!","Mist, die Antwort ist „Unter kaltes
 Wasser halten“! Versuch’s noch mal!"
-23029,,"Accidenti, la risposta è ""Giornata
-della Salute e dello Sport"". Riprova!",答錯了。正確解答是「體育日」。下次可別答錯了喔！,,"틀렸어. 정답은「체육의 날」이야.
+23029,,"Accidenti, la risposta è ""Giornata della Salute
+e dello Sport"". Riprova!",答錯了。正確解答是「體育日」。下次可別答錯了喔！,,"틀렸어. 정답은「체육의 날」이야.
 다음엔 틀리지 말라구!","Mist, richtig ist „Tag der Gesundheit
 und des Sports“. Versuch’s noch mal."
-23030,,"Accidenti, la
-risposta è ""23"". Riprova!",答錯了。正確解答是「23」。下次可別答錯了喔！,,"틀렸어. 정답은「23」이야.
+23030,,"Accidenti, la risposta è ""23"".
+Riprova!",答錯了。正確解答是「23」。下次可別答錯了喔！,,"틀렸어. 정답은「23」이야.
 다음엔 틀리지 말라구!","Mist, die Antwort ist „23“.
 Versuch’s noch mal!"
-23031,,"Accidenti, la risposta è
-""ToyAgumon"". Riprova!","答錯了。正確解答是「積木亞古獸」
+23031,,"Accidenti, la risposta è ""ToyAgumon"".
+Riprova!","答錯了。正確解答是「積木亞古獸」
 下次可別答錯了喔！",,"틀렸어. 정답은「토이아구몬」이야.
 다음엔 틀리지 말라구!","Mist, die Antwort ist „ToyAgumon“.
 Versuch’s noch mal!"
-23032,,"Accidenti, la risposta è
-""Gatomon"". Riprova!",答錯了。正確解答是「迪路獸」。下次可別答錯了喔！,,"틀렸어. 정답은「가트몬」이야.
+23032,,"Accidenti, la risposta è ""Gatomon"".
+Riprova!",答錯了。正確解答是「迪路獸」。下次可別答錯了喔！,,"틀렸어. 정답은「가트몬」이야.
 다음엔 틀리지 말라구!","Mist, die Antwort ist „Gatomon“.
 Versuch’s noch mal!"
-23033,,"Accidenti, la risposta è
-""Palmon"". Riprova!",答錯了。正確解答是「巴魯獸」。下次可別答錯了喔！,,"틀렸어. 정답은「팔몬」이야.
+23033,,"Accidenti, la risposta è ""Palmon"".
+Riprova!",答錯了。正確解答是「巴魯獸」。下次可別答錯了喔！,,"틀렸어. 정답은「팔몬」이야.
 다음엔 틀리지 말라구!","Mist, die Antwort ist „Palmon“.
 Versuch’s noch mal!"
-23034,,"Accidenti, la risposta è
-""Monzaemon"". Riprova!","答錯了。正確解答是「熊仔獸」
+23034,,"Accidenti, la risposta è ""Monzaemon"".
+Riprova!","答錯了。正確解答是「熊仔獸」
 下次可別答錯了喔！",,"틀렸어. 정답은「퍼펫몬」이야.
 다음엔 틀리지 말라구!","Mist, die Antwort ist „Monzaemon“.
 Versuch’s noch mal!"
-23035,,"Accidenti, la risposta è
-""Garudamon"". Riprova!",答錯了。正確解答是「伽樓達獸」。下次可別答錯了喔！,,"틀렸어. 정답은「가루다몬」이야.
+23035,,"Accidenti, la risposta è ""Garudamon"".
+Riprova!",答錯了。正確解答是「伽樓達獸」。下次可別答錯了喔！,,"틀렸어. 정답은「가루다몬」이야.
 다음엔 틀리지 말라구!","Mist, die Antwort ist „Garudamon“.
 Versuch’s noch mal!"
-23036,,"Accidenti, la risposta è
-""Botamon"". Riprova!",答錯了。正確解答是「黑球獸」。下次可別答錯了喔！,,"틀렸어. 정답은「깜몬」이야.
+23036,,"Accidenti, la risposta è ""Botamon"".
+Riprova!",答錯了。正確解答是「黑球獸」。下次可別答錯了喔！,,"틀렸어. 정답은「깜몬」이야.
 다음엔 틀리지 말라구!","Mist, die Antwort ist „Botamon“.
 Versuch’s noch mal!"
-23037,,"Accidenti, la risposta è
-""Wanyamon"". Riprova!",答錯了。正確解答是「汪喵獸」。下次可別答錯了喔！,,"틀렸어. 정답은「와냐몬」이야.
+23037,,"Accidenti, la risposta è ""Wanyamon"".
+Riprova!",答錯了。正確解答是「汪喵獸」。下次可別答錯了喔！,,"틀렸어. 정답은「와냐몬」이야.
 다음엔 틀리지 말라구!","Mist, die Antwort ist „Wanyamon“.
 Versuch’s noch mal!"
-23038,,"Accidenti, la risposta è ""Il
-più forte"". Riprova!",答錯了。正確解答是「最強」。下次可別答錯了喔！,,"틀렸어. 정답은「최강」이야.
+23038,,"Accidenti, la risposta è ""Il più forte"".
+Riprova!",答錯了。正確解答是「最強」。下次可別答錯了喔！,,"틀렸어. 정답은「최강」이야.
 다음엔 틀리지 말라구!","Mist, die Antwort ist „Am stärksten“.
 Versuch’s noch mal!"
-23039,,"Accidenti, la risposta è
-""Beelzemon"". Riprova!","答錯了。正確解答是「墮天地獄獸」
+23039,,"Accidenti, la risposta è ""Beelzemon"".
+Riprova!","答錯了。正確解答是「墮天地獄獸」
 下次可別答錯了喔！",,"틀렸어. 정답은「베르제브몬」이야.
 다음엔 틀리지 말라구!","Mist, die Antwort ist „Beelzemon“.
 Versuch’s noch mal!"
-23040,,"Accidenti, la risposta è
-""Cherrymon"". Riprova!","答錯了。正確解答是「祖利獸」
+23040,,"Accidenti, la risposta è ""Cherrymon"".
+Riprova!","答錯了。正確解答是「祖利獸」
 下次可別答錯了喔！",,"틀렸어. 정답은「쥬레이몬」이야.
 다음엔 틀리지 말라구!","Mist, die Antwort ist „Cherrymon“.
 Versuch’s noch mal!"
@@ -8857,196 +8850,196 @@ Riprova!","答錯了。正確解答是「烈焰獸」
 下次可別答錯了喔！",,"틀렸어. 정답은「화염드라몬」이야.
 다음엔 틀리지 말라구!","Mist, die Antwort ist „Flamedramon“.
 Versuch’s noch mal!"
-23042,,"Accidenti, la risposta è
-""Sakuyamon"". Riprova!",答錯了。正確解答是「沙古牙獸」。下次可別答錯了喔！,,"틀렸어. 정답은「샤크라몬」이야.
+23042,,"Accidenti, la risposta è ""Sakuyamon"".
+Riprova!",答錯了。正確解答是「沙古牙獸」。下次可別答錯了喔！,,"틀렸어. 정답은「샤크라몬」이야.
 다음엔 틀리지 말라구!","Mist, die Antwort ist „Sakuyamon“.
 Versuch’s noch mal!"
-23043,,"Accidenti, la
-risposta è ""Berserk Sword"". Riprova!","答錯了。正確解答是「狂暴大劍」
+23043,,"Accidenti, la risposta è ""Berserk Sword"".
+Riprova!","答錯了。正確解答是「狂暴大劍」
 下次可別答錯了喔！",,"틀렸어. 정답은「베르세르크 소드」야.
 다음엔 틀리지 말라구!","Mist, die Antwort ist
 „Berserkerschwert“. Versuch’s noch mal!"
-23044,,"Accidenti, la risposta è ""Imperatore
-Selvaggio"". Non è stato così facile, vero?","答錯了。正確解答是「ㄨㄥˋ　ㄅㄨˋ　ㄉㄨ　ㄕㄣˊ」
+23044,,"Accidenti, la risposta è ""Imperatore Selvaggio"".
+Non è stato così facile, vero?","答錯了。正確解答是「ㄨㄥˋ　ㄅㄨˋ　ㄉㄨ　ㄕㄣˊ」
 這題是不是稍微難了些？",,"틀렸어. 정답은「미카후츠노카미」야.
 다음엔 틀리지 말라구!","Mist, die Antwort ist „Barbarenkaiser“.
 Gar nicht so leicht, oder?"
-23045,,"Accidenti, la risposta è
-""Vademon"". Riprova!",答錯了。正確解答是「入侵者獸」。下次可別答錯了喔！,,"틀렸어. 정답은「베이더몬」이야.
+23045,,"Accidenti, la risposta è ""Vademon"".
+Riprova!",答錯了。正確解答是「入侵者獸」。下次可別答錯了喔！,,"틀렸어. 정답은「베이더몬」이야.
 다음엔 틀리지 말라구!","Mist, die Antwort ist „Vademon“.
 Versuch’s noch mal!"
-23046,,"Accidenti, la risposta è
-""La coda"". Riprova!",答錯了。正確解答是「尾巴」。下次可別答錯了喔！,,"틀렸어. 정답은「꼬리」야.
+23046,,"Accidenti, la risposta è ""La coda"".
+Riprova!",答錯了。正確解答是「尾巴」。下次可別答錯了喔！,,"틀렸어. 정답은「꼬리」야.
 다음엔 틀리지 말라구!","Mist, die Antwort ist „Der Schwanz“.
 Versuch’s noch mal!"
-23047,,"Accidenti, la risposta è
-""Nanimon"". Riprova!",答錯了。正確解答是「亞伯獸」。下次可別答錯了喔！,,"틀렸어. 정답은「모야몬」이야.
+23047,,"Accidenti, la risposta è ""Nanimon"".
+Riprova!",答錯了。正確解答是「亞伯獸」。下次可別答錯了喔！,,"틀렸어. 정답은「모야몬」이야.
 다음엔 틀리지 말라구!","Mist, die Antwort ist „Nanimon“.
 Versuch’s noch mal!"
-23048,,"Accidenti, la risposta è
-""Punition"". Riprova!",答錯了。正確解答是「普尼獸」。下次可別答錯了喔！,,"틀렸어. 정답은「푸니몬」이야.
+23048,,"Accidenti, la risposta è ""Punition"".
+Riprova!",答錯了。正確解答是「普尼獸」。下次可別答錯了喔！,,"틀렸어. 정답은「푸니몬」이야.
 다음엔 틀리지 말라구!","Mist, die Antwort ist „Punimon“.
 Versuch’s noch mal!"
-23049,,"Accidenti, la risposta è
-""Pumpkinmon"". Riprova!",答錯了。正確解答是「南瓜獸」。下次可別答錯了喔！,,"틀렸어. 정답은「펌프몬」이야.
+23049,,"Accidenti, la risposta è ""Pumpkinmon"".
+Riprova!",答錯了。正確解答是「南瓜獸」。下次可別答錯了喔！,,"틀렸어. 정답은「펌프몬」이야.
 다음엔 틀리지 말라구!","Mist, die Antwort ist „Pumpkinmon“.
 Versuch’s noch mal!"
-23050,,"Accidenti, la risposta è
-""Biyomon"". Riprova!",答錯了。正確解答是「比丘獸」。下次可別答錯了喔！,,"틀렸어. 정답은「피요몬」이야.
+23050,,"Accidenti, la risposta è ""Biyomon"".
+Riprova!",答錯了。正確解答是「比丘獸」。下次可別答錯了喔！,,"틀렸어. 정답은「피요몬」이야.
 다음엔 틀리지 말라구!","Mist, die Antwort ist „Biyomon“.
 Versuch’s noch mal!"
-23051,,"Accidenti, la risposta è
-""Connect Jump"". Riprova!","答錯了。正確解答是「登入跳躍」
+23051,,"Accidenti, la risposta è ""Connect Jump"".
+Riprova!","答錯了。正確解答是「登入跳躍」
 下次可別答錯了喔！",,"틀렸어. 정답은「커넥트 점프」야.
 다음엔 틀리지 말라구!","Mist, die Antwort ist „Verbindungssprung“.
 Versuch’s noch mal!"
-23052,,"Accidenti, la risposta
-è ""EDEN"". Riprova!",答錯了。正確解答是「EDEN」。下次可別答錯了喔！,,"틀렸어. 정답은「EDEN」야.
+23052,,"Accidenti, la risposta è ""EDEN"".
+Riprova!",答錯了。正確解答是「EDEN」。下次可別答錯了喔！,,"틀렸어. 정답은「EDEN」야.
 다음엔 틀리지 말라구!","Mist, die Antwort ist „EDEN“.
 Versuch’s noch mal!"
-23053,,"Accidenti, la risposta è
-""Una croce"". Riprova!",答錯了。正確解答是「叉叉」。下次可別答錯了喔！,,"틀렸어. 정답은「엑스」야.
+23053,,"Accidenti, la risposta è ""Una croce"".
+Riprova!",答錯了。正確解答是「叉叉」。下次可別答錯了喔！,,"틀렸어. 정답은「엑스」야.
 다음엔 틀리지 말라구!","Mist, die Antwort ist „Ein Kreuz“.
 Versuch’s noch mal!"
-23054,,"Accidenti, la risposta è ""gocce
-d'acqua"". Riprova!",答錯了。正確解答是「水滴」。下次可別答錯了喔！,,"틀렸어. 정답은「물방울」이야.
+23054,,"Accidenti, la risposta è ""gocce d'acqua"".
+Riprova!",答錯了。正確解答是「水滴」。下次可別答錯了喔！,,"틀렸어. 정답은「물방울」이야.
 다음엔 틀리지 말라구!","Mist, die Antwort ist „Wassertropfen“.
 Versuch’s noch mal!"
-23055,,"Accidenti, la risposta è
-""Nero"". Riprova!",答錯了。正確解答是「黑色」。下次可別答錯了喔！,,"틀렸어. 정답은「검정」이야.
+23055,,"Accidenti, la risposta è ""Nero"".
+Riprova!",答錯了。正確解答是「黑色」。下次可別答錯了喔！,,"틀렸어. 정답은「검정」이야.
 다음엔 틀리지 말라구!","Mist, die Antwort ist „Schwarz“.
 Versuch’s noch mal!"
-23056,,"Accidenti, la risposta è ""Cattura
-Digimon"". Riprova!","答錯了。正確解答是「數碼寶貝捕捉器」
+23056,,"Accidenti, la risposta è ""Cattura Digimon"".
+Riprova!","答錯了。正確解答是「數碼寶貝捕捉器」
 下次可別答錯了喔！",,"틀렸어. 정답은「디지몬 캡처」야.
 다음엔 틀리지 말라구!","Mist, die Antwort ist „Digimon-Fang“.
 Versuch’s noch mal!"
-23057,,"Accidenti, la risposta è ""Mirei
-Mikagura"". Riprova!","答錯了。正確解答是「御神樂米蕾」
+23057,,"Accidenti, la risposta è ""Mirei Mikagura"".
+Riprova!","答錯了。正確解答是「御神樂米蕾」
 下次可別答錯了喔！",,"틀렸어. 정답은「미카구라 미레이」야.
 다음엔 틀리지 말라구!","Mist, die Antwort ist „Mirei Mikagura“.
 Versuch’s noch mal!"
-23058,,"Accidenti, la risposta è ""Cambia
-la personalità di un Digimon. Riprova!","答錯了。正確解答是「改變數碼寶貝的個性」
+23058,,"Accidenti, la risposta è ""Cambia la personalità di
+un Digimon. Riprova!","答錯了。正確解答是「改變數碼寶貝的個性」
 下次可別答錯了喔！",,"틀렸어. 정답은「디지몬의 개성을 바꾼다」야.
 다음엔 틀리지 말라구!","Richtig ist „Sie ändern die Digimon-
 Persönlichkeit“. Versuch’s noch mal!"
-23059,,"Accidenti, la risposta
-è ""EDEN"". Riprova!",答錯了。正確解答是「EDEN」。下次可別答錯了喔！,,"틀렸어. 정답은「EDEN」야.
+23059,,"Accidenti, la risposta è ""EDEN"".
+Riprova!",答錯了。正確解答是「EDEN」。下次可別答錯了喔！,,"틀렸어. 정답은「EDEN」야.
 다음엔 틀리지 말라구!","Mist, die Antwort ist „EDEN“.
 Versuch’s noch mal!"
-23060,,"Cavolo, la risposta è
-""Rosa"". Riprova!",答錯了。正確解答是「粉紅色」。下次可別答錯了喔！,,"틀렸어. 정답은「핑크」야.
+23060,,"Cavolo, la risposta è ""Rosa"".
+Riprova!",答錯了。正確解答是「粉紅色」。下次可別答錯了喔！,,"틀렸어. 정답은「핑크」야.
 다음엔 틀리지 말라구!","Mist, die Antwort ist „Rosa“.
 Versuch’s noch mal!"
-23061,,"Accidenti, la risposta è
-""Indagare"". Riprova!",答錯了。正確解答是「調查」。下次可別答錯了喔！,,"틀렸어. 정답은「조사」야.
+23061,,"Accidenti, la risposta è ""Indagare"".
+Riprova!",答錯了。正確解答是「調查」。下次可別答錯了喔！,,"틀렸어. 정답은「조사」야.
 다음엔 틀리지 말라구!","Mist, die Antwort ist „Ermitteln“.
 Versuch’s noch mal!"
-23062,,"Accidenti, la risposta è
-""Fungo Vigore"". Riprova!","答錯了。正確解答是「精力旺盛菇」
+23062,,"Accidenti, la risposta è ""Fungo Vigore"".
+Riprova!","答錯了。正確解答是「精力旺盛菇」
 下次可別答錯了喔！",,"틀렸어. 정답은「터프니스 버섯」이야.
 다음엔 틀리지 말라구!","Mist, die Antwort ist „Lebenspilz“.
 Versuch’s noch mal!"
-23063,,"Accidenti, la risposta è ""Prodotti
-agricoli"". Riprova!","答錯了。正確解答是「農場道具」
+23063,,"Accidenti, la risposta è ""Prodotti agricoli"".
+Riprova!","答錯了。正確解答是「農場道具」
 下次可別答錯了喔！",,"틀렸어. 정답은「팜 굿즈」야.
 다음엔 틀리지 말라구!","Mist, die Antwort ist „Farmprodukte“.
 Versuch’s noch mal!"
-23064,,"Accidenti, la risposta è
-""DigiLab"". Riprova!","答錯了。正確解答是「數碼實驗室」
+23064,,"Accidenti, la risposta è ""DigiLab"".
+Riprova!","答錯了。正確解答是「數碼實驗室」
 下次可別答錯了喔！",,"틀렸어. 정답은「디지랩」이야.
 다음엔 틀리지 말라구!","Mist, die Antwort ist „DigiLab“.
 Versuch’s noch mal!"
-23065,,"Accidenti, la risposta è ""Arata
-Sanada"". Riprova!",答錯了。正確解答是「真田新」。下次可別答錯了喔！,,"틀렸어. 정답은「사나다 아라타」야.
+23065,,"Accidenti, la risposta è ""Arata Sanada"".
+Riprova!",答錯了。正確解答是「真田新」。下次可別答錯了喔！,,"틀렸어. 정답은「사나다 아라타」야.
 다음엔 틀리지 말라구!","Mist, die Antwort ist „Arata Sanada“.
 Versuch’s noch mal!"
-23066,,"Accidenti, la risposta è
-""Gabumon"". Riprova!",答錯了。正確解答是「加布獸」。下次可別答錯了喔！,,"틀렸어. 정답은「파피몬」이야.
+23066,,"Accidenti, la risposta è ""Gabumon"".
+Riprova!",答錯了。正確解答是「加布獸」。下次可別答錯了喔！,,"틀렸어. 정답은「파피몬」이야.
 다음엔 틀리지 말라구!","Mist, die Antwort ist „Gabumon“.
 Versuch’s noch mal!"
-23067,,"Accidenti, la risposta è
-""Ruby"". Riprova!",答錯了。正確解答是「紅寶石」。下次可別答錯了喔！,,"틀렸어. 정답은「루비」야.
+23067,,"Accidenti, la risposta è ""Ruby"".
+Riprova!",答錯了。正確解答是「紅寶石」。下次可別答錯了喔！,,"틀렸어. 정답은「루비」야.
 다음엔 틀리지 말라구!","Mist, die Antwort ist „Rubin“.
 Versuch’s noch mal!"
-23068,,"Accidenti, la risposta è ""tipo
-vaccino"". Riprova!",答錯了。正確解答是「疫苗種」。下次可別答錯了喔！,,"틀렸어. 정답은「백신종」이야.
+23068,,"Accidenti, la risposta è ""tipo Vaccino"".
+Riprova!",答錯了。正確解答是「疫苗種」。下次可別答錯了喔！,,"틀렸어. 정답은「백신종」이야.
 다음엔 틀리지 말라구!","Mist, die Antwort ist „Typus Serum“.
 Versuch’s noch mal!"
-23069,,"Accidenti, la risposta è
-""attributo Terra"". Riprova!",答錯了。正確解答是「土屬性」。下次可別答錯了喔！,,"틀렸어. 정답은「땅 속성」야.
+23069,,"Accidenti, la risposta è ""attributo Terra"".
+Riprova!",答錯了。正確解答是「土屬性」。下次可別答錯了喔！,,"틀렸어. 정답은「땅 속성」야.
 다음엔 틀리지 말라구!","Mist, die Antwort ist „Erde“.
 Versuch’s noch mal!"
-23070,,"Accidenti, la risposta
-è ""Dot"". Riprova!",答錯了。正確解答是「液晶化」。下次可別答錯了喔！,,"틀렸어. 정답은「액정화」야.
+23070,,"Accidenti, la risposta è ""Dot"".
+Riprova!",答錯了。正確解答是「液晶化」。下次可別答錯了喔！,,"틀렸어. 정답은「액정화」야.
 다음엔 틀리지 말라구!","Mist, die Antwort ist „Pixel“.
 Versuch’s noch mal!"
-23071,,"Accidenti, la risposta è ""Rende più
-facile generare combo. Riprova!","答錯了。正確解答是「容易產生連擊」
+23071,,"Accidenti, la risposta è ""Rende più facile generare combo.""
+Riprova!","答錯了。正確解答是「容易產生連擊」
 下次可別答錯了喔！",,"틀렸어. 정답은「콤보가 발생하기 쉬워진다」야.
 다음엔 틀리지 말라구!","Mist, die Antwort ist „Kombos werden
 einfacher“. Versuch’s noch mal!"
-23072,,"Accidenti, la risposta è ""Crepa
-nel muro"". Riprova!","答錯了。正確解答是「Wall Crack」
+23072,,"Accidenti, la risposta è ""Crepa nel muro"".
+Riprova!","答錯了。正確解答是「Wall Crack」
 下次可別答錯了喔！",,"틀렸어. 정답은「월 크랙」이야.
 다음엔 틀리지 말라구!","Mist, die Antwort ist „Mauerspalt“.
 Versuch’s noch mal!"
-23073,,"Accidenti, la risposta è
-""Ninja USB"". Riprova!","答錯了。正確解答是「忍者USB」
+23073,,"Accidenti, la risposta è ""Ninja USB"".
+Riprova!","答錯了。正確解答是「忍者USB」
 下次可別答錯了喔！",,"틀렸어. 정답은「닌자의 USB」야.
 다음엔 틀리지 말라구!","Mist, die Antwort ist „Ninja-USB“.
 Versuch’s noch mal!"
-23074,,"Accidenti, la risposta è
-""Puppetmon"". Riprova!","答錯了。正確解答是「木偶獸」
+23074,,"Accidenti, la risposta è ""Puppetmon"".
+Riprova!","答錯了。正確解答是「木偶獸」
 下次可別答錯了喔！",,"틀렸어. 정답은「피노키몬」이야.
 다음엔 틀리지 말라구!","Mist, die Antwort ist „Puppetmon“.
 Versuch’s noch mal!"
-23075,,"Accidenti, la risposta è
-""Devimon"". Riprova!",答錯了。正確解答是「惡魔獸」。下次可別答錯了喔！,,"틀렸어. 정답은「데블몬」이야.
+23075,,"Accidenti, la risposta è ""Devimon"".
+Riprova!",答錯了。正確解答是「惡魔獸」。下次可別答錯了喔！,,"틀렸어. 정답은「데블몬」이야.
 다음엔 틀리지 말라구!","Mist, die Antwort ist „Devimon“.
 Versuch’s noch mal!"
-23076,,"Accidenti, la risposta è
-""Angemon"". Riprova!","答錯了。正確解答是「天使獸」
+23076,,"Accidenti, la risposta è ""Angemon"".
+Riprova!","答錯了。正確解答是「天使獸」
 下次可別答錯了喔！",,"틀렸어. 정답은「엔젤몬」이야.
 다음엔 틀리지 말라구!","Mist, die Antwort ist „Angemon“.
 Versuch’s noch mal!"
-23077,,"Accidenti, la risposta è
-""Catastrophe Cannon"". Riprova!","答錯了。正確解答是「大災難」
+23077,,"Accidenti, la risposta è ""Catastrophe Cannon"".
+Riprova!","答錯了。正確解答是「大災難」
 下次可別答錯了喔！",,"틀렸어. 정답은「카타스트로피 캐논」이야.
 다음엔 틀리지 말라구!","Mist, die Antwort ist „Katastrophen-
 kanone“. Versuch’s noch mal!"
-23078,,"Accidenti, la risposta è
-""Piximon"". Riprova!","答錯了。正確解答是「妖精獸」
+23078,,"Accidenti, la risposta è ""Piximon"".
+Riprova!","答錯了。正確解答是「妖精獸」
 下次可別答錯了喔！",,"틀렸어. 정답은「피콜몬」이야.
 다음엔 틀리지 말라구!","Mist, die Antwort ist „Piximon“.
 Versuch’s noch mal!"
-23079,,"Accidenti, la risposta è
-""Hackmon"". Riprova!",答錯了。正確解答是「哈克獸」。下次可別答錯了喔！,,"틀렸어. 정답은「헉몬」이야.
+23079,,"Accidenti, la risposta è ""Hackmon"".
+Riprova!",答錯了。正確解答是「哈克獸」。下次可別答錯了喔！,,"틀렸어. 정답은「헉몬」이야.
 다음엔 틀리지 말라구!","Mist, die Antwort ist „Hackmon“.
 Versuch’s noch mal!"
-23080,,"Accidenti, la risposta è
-""Shakkoumon"". Riprova!","答錯了。正確解答是「古神獸」
+23080,,"Accidenti, la risposta è ""Shakkoumon"".
+Riprova!","答錯了。正確解答是「古神獸」
 下次可別答錯了喔！",,"틀렸어. 정답은「토우몬」이야.
 다음엔 틀리지 말라구!","Mist, die Antwort ist „Shakkoumon“.
 Versuch’s noch mal!"
-23081,,"Accidenti, la risposta è
-""Veedramon"". Riprova!","答錯了。正確解答是「V龍獸」
+23081,,"Accidenti, la risposta è ""Veedramon"".
+Riprova!","答錯了。正確解答是「V龍獸」
 下次可別答錯了喔！",,"틀렸어. 정답은「브이드라몬」이야.
 다음엔 틀리지 말라구!","Mist, die Antwort ist „Veedramon“.
 Versuch’s noch mal!"
-23082,,"Accidenti, la risposta è ""Spara
-cristalli dalla testa"". Riprova!","答錯了。正確解答是「從頭部射出礦石」
+23082,,"Accidenti, la risposta è ""Spara cristalli dalla testa"".
+Riprova!","答錯了。正確解答是「從頭部射出礦石」
 下次可別答錯了喔！",,"틀렸어. 정답은「머리에서 광석을 발사한다」야.
 다음엔 틀리지 말라구!","Mist, richtig ist „Kristalle schießen
 aus seinem Kopf“. Versuch’s noch mal!"
-23083,,"Spara, la risposta è ""Spara un
-raggio sottile dalle sue mani"". Riprova!","答錯了。正確解答是「從手指射出細細的光束」
+23083,,"Spara, la risposta è ""Spara un raggio sottile
+dalle sue mani"". Riprova!","答錯了。正確解答是「從手指射出細細的光束」
 下次可別答錯了喔！",,"틀렸어. 정답은「손 끝에서 가는 빔을 쏜다」야.
 다음엔 틀리지 말라구!","Mist, die Antwort ist „Ein dünner Strahl
 aus den Händen“. Versuch’s noch mal!"
-23084,,"Accidenti, la risposta è
-""Machinedramon"". Riprova!","答錯了。正確解答是「機械邪龍獸」
+23084,,"Accidenti, la risposta è ""Machinedramon"".
+Riprova!","答錯了。正確解答是「機械邪龍獸」
 下次可別答錯了喔！",,"틀렸어. 정답은「파워드라몬」야.
 다음엔 틀리지 말라구!","Mist, die Antwort ist „Machinedramon“.
 Versuch’s noch mal!"
@@ -9055,100 +9048,100 @@ Aquila del Deserto"". Riprova!","答錯了。正確解答是「沙漠之巨鷲�
 下次可別答錯了喔！",,"틀렸어. 정답은「사막의 거취」야.
 다음엔 틀리지 말라구!","Mist, die Antwort ist „Großer Adler der
 Wüste“. Versuch’s noch mal!"
-23086,,"Accidenti, la risposta è ""Re
-Corvo"". Riprova!",答錯了。正確解答是「烏王丸」。下次可別答錯了喔！,,"틀렸어. 정답은「오왕도」야.
+23086,,"Accidenti, la risposta è ""Re Corvo"".
+Riprova!",答錯了。正確解答是「烏王丸」。下次可別答錯了喔！,,"틀렸어. 정답은「오왕도」야.
 다음엔 틀리지 말라구!","Mist, die Antwort ist „Rabenkönig“.
 Versuch’s noch mal!"
-23087,,"Accidenti, la risposta è
-""BanchoLeomon"". Riprova!","答錯了。正確解答是「番長獅子獸」
+23087,,"Accidenti, la risposta è ""BanchoLeomon"".
+Riprova!","答錯了。正確解答是「番長獅子獸」
 下次可別答錯了喔！",,"틀렸어. 정답은「반쵸레오몬」이야.
 다음엔 틀리지 말라구!","Mist, die Antwort ist „BanchoLeomon“.
 Versuch’s noch mal!"
-23088,,"Accidenti, la risposta è ""Terrier
-Tornado"". Riprova!","答錯了。正確解答是「小型龍捲風」
+23088,,"Accidenti, la risposta è ""Terrier Tornado"".
+Riprova!","答錯了。正確解答是「小型龍捲風」
 下次可別答錯了喔！",,"틀렸어. 정답은「프티 트위스터」야.
 다음엔 틀리지 말라구!","Mist, die Antwort ist „Terrier-Tornado“.
 Versuch’s noch mal!"
-23089,,"Accidenti, la risposta è
-""Spray"". Riprova!",答錯了。正確解答是「碰碰拳」。下次可別答錯了喔！,,"틀렸어. 정답은「뿜기」야.
+23089,,"Accidenti, la risposta è ""Spray"".
+Riprova!",答錯了。正確解答是「碰碰拳」。下次可別答錯了喔！,,"틀렸어. 정답은「뿜기」야.
 다음엔 틀리지 말라구!","Mist, die Antwort ist „-feuer“.
 Versuch’s noch mal!"
-23090,,"Accidenti, la risposta è
-""Myotismon"". Riprova!","答錯了。正確解答是「吸血魔獸」
+23090,,"Accidenti, la risposta è ""Myotismon"".
+Riprova!","答錯了。正確解答是「吸血魔獸」
 下次可別答錯了喔！",,"틀렸어. 정답은「묘티스몬」이야.
 다음엔 틀리지 말라구!","Mist, die Antwort ist „Myotismon“.
 Versuch’s noch mal!"
-23091,,"Accidenti, la
-risposta è ""23"". Riprova!",答錯了。正確解答是「23」。下次可別答錯了喔！,,"틀렸어. 정답은「23」야.
+23091,,"Accidenti, la risposta è ""23"".
+Riprova!",答錯了。正確解答是「23」。下次可別答錯了喔！,,"틀렸어. 정답은「23」야.
 다음엔 틀리지 말라구!","Mist, die Antwort ist „23“.
 Versuch’s noch mal!"
-23092,,"Accidenti, la risposta è
-""Ootaku"". Riprova!",答錯了。正確解答是「大田區」。下次可別答錯了喔！,,"틀렸어. 정답은「오타구」야.
+23092,,"Accidenti, la risposta è ""Ootaku"".
+Riprova!",答錯了。正確解答是「大田區」。下次可別答錯了喔！,,"틀렸어. 정답은「오타구」야.
 다음엔 틀리지 말라구!","Mist, die Antwort ist „Ootaku“.
 Versuch’s noch mal!"
-23093,,"Accidenti, la risposta è ""Il
-periodo Azuchi-Momoyama"". Riprova!","答錯了。正確解答是「安土桃山時代」
+23093,,"Accidenti, la risposta è ""Il periodo Azuchi-Momoyama"".
+Riprova!","答錯了。正確解答是「安土桃山時代」
 下次可別答錯了喔！",,"틀렸어. 정답은「아즈치 모모야마 시대」야.
 다음엔 틀리지 말라구!","Mist, die Antwort ist „In der Azuchi-
 Momoyama-Periode“. Versuch’s noch mal!"
-23094,,"Accidenti, la risposta è
-""Mammiferi"". Riprova!",答錯了。正確解答是「哺乳類」。下次可別答錯了喔！,,"틀렸어. 정답은「포유류」야.
+23094,,"Accidenti, la risposta è ""Mammiferi"".
+Riprova!",答錯了。正確解答是「哺乳類」。下次可別答錯了喔！,,"틀렸어. 정답은「포유류」야.
 다음엔 틀리지 말라구!","Mist, die Antwort ist „Säugetiere“.
 Versuch’s noch mal!"
-23095,,"Accidenti, la risposta è
-""Monte Fuji"". Riprova!",答錯了。正確解答是「富士山」。下次可別答錯了喔！,,"틀렸어. 정답은「후지산」이야.
+23095,,"Accidenti, la risposta è ""Monte Fuji"".
+Riprova!",答錯了。正確解答是「富士山」。下次可別答錯了喔！,,"틀렸어. 정답은「후지산」이야.
 다음엔 틀리지 말라구!","Mist, die Antwort ist „Fuji“.
 Versuch’s noch mal!"
-23096,,"Accidenti, la risposta è
-""Vitamine"". Riprova!",答錯了。正確解答是「維他命」。下次可別答錯了喔！,,"틀렸어. 정답은「비타민」이야.
+23096,,"Accidenti, la risposta è ""Vitamine"".
+Riprova!",答錯了。正確解答是「維他命」。下次可別答錯了喔！,,"틀렸어. 정답은「비타민」이야.
 다음엔 틀리지 말라구!","Mist, die Antwort ist „Vitamine“.
 Versuch’s noch mal!"
-23097,,"Accidenti, la risposta è
-""Parallelo"". Riprova!",答錯了。正確解答是「平行」。下次可別答錯了喔！,,"틀렸어. 정답은「평행」이야.
+23097,,"Accidenti, la risposta è ""Parallelo"".
+Riprova!",答錯了。正確解答是「平行」。下次可別答錯了喔！,,"틀렸어. 정답은「평행」이야.
 다음엔 틀리지 말라구!","Mist, die Antwort ist „Parallel“.
 Versuch’s noch mal!"
-23098,,"Accidenti, la risposta è ""Caldo
-all'inizio dell'inverno"". Riprova!","答錯了。正確解答是「初冬時節的溫暖氣候」
+23098,,"Accidenti, la risposta è ""Caldo all'inizio
+dell'inverno"". Riprova!","答錯了。正確解答是「初冬時節的溫暖氣候」
 下次可別答錯了喔！",,"틀렸어. 정답은「초겨울 무렵의 따뜻한 기후」야.
 다음엔 틀리지 말라구!","Mist, die Antwort ist „Warmes Wetter
 zu Winterbeginn“. Versuch’s noch mal!"
-23099,,"Accidenti, la risposta è ""La
-Rivoluzione francese"". Riprova!","答錯了。正確解答是「法國大革命」
+23099,,"Accidenti, la risposta è ""La Rivoluzione francese"".
+Riprova!","答錯了。正確解答是「法國大革命」
 下次可別答錯了喔！",,"틀렸어. 정답은「프랑스 혁명」이야.
 다음엔 틀리지 말라구!","Mist, richtig ist „Die Französische
 Revolution“. Versuch’s noch mal!"
-23100,,"Accidenti, la risposta è
-""olandese"". Riprova!",答錯了。正確解答是「荷蘭人」。下次可別答錯了喔！,,"틀렸어. 정답은「네덜란드인」이야.
+23100,,"Accidenti, la risposta è ""olandese"".
+Riprova!",答錯了。正確解答是「荷蘭人」。下次可別答錯了喔！,,"틀렸어. 정답은「네덜란드인」이야.
 다음엔 틀리지 말라구!","Mist, die Antwort ist „Niederländisch“.
 Versuch’s noch mal!"
-24001,,"Accidenti, la risposta è ""Digivice"". Il
-prossimo lo prenderai tu!",真遺憾……正確解答是「Digivice」。下次可要答對唷,,"유감이야… 답은「디지바이스」
+24001,,"Accidenti, la risposta è ""Digivice"".
+Il prossimo lo prenderai tu!",真遺憾……正確解答是「Digivice」。下次可要答對唷,,"유감이야… 답은「디지바이스」
 다음엔 맞추도록 해.","Verflixt, die Antwort ist „Digivice“.
 Beim nächsten Mal!"
-24002,,"Accidenti, la risposta è
-""Kyoko Kuremi"". Il prossimo lo prenderai tu!",真遺憾……正確解答是「暮海杏子」。下次可要答對唷,,"유감이야… 답은「쿠레미 쿄코」
+24002,,"Accidenti, la risposta è ""Kyoko Kuremi"".
+Il prossimo lo prenderai tu!",真遺憾……正確解答是「暮海杏子」。下次可要答對唷,,"유감이야… 답은「쿠레미 쿄코」
 다음엔 맞추도록 해.","Verflixt, die Antwort ist
 „Kyoko Kuremi“. Beim nächsten Mal!"
-24003,,"Accidenti, la risposta è
-""Omnimon Zwart"". Il prossimo lo prenderai tu!","真遺憾……正確解答是「黑奧米加獸」
+24003,,"Accidenti, la risposta è ""Omnimon Zwart"".
+Il prossimo lo prenderai tu!","真遺憾……正確解答是「黑奧米加獸」
 下次可要答對唷",,"유감이야… 답은「오메가몬 즈왈트」
 다음엔 맞추도록 해.","Verflixt, die Antwort ist
 „Omnimon Zwart“. Beim nächsten Mal!"
-24004,,"Accidenti, la risposta è ""13"". Ti
-capiterà il prossimo!",真遺憾……正確解答是「13隻」。下次可要答對唷,,"유감이야… 답은「13마리」
+24004,,"Accidenti, la risposta è ""13"".
+Ti capiterà il prossimo!",真遺憾……正確解答是「13隻」。下次可要答對唷,,"유감이야… 답은「13마리」
 다음엔 맞추도록 해.","Verflixt, die Antwort ist „13“.
 Beim nächsten Mal!"
-24005,,"Accidenti, la risposta è ""Due"". Ti
-toccherà il prossimo!",真遺憾……正確解答是「2隻」。下次可要答對唷,,"유감이야… 답은「2마리」
+24005,,"Accidenti, la risposta è ""Due"".
+Ti toccherà il prossimo!",真遺憾……正確解答是「2隻」。下次可要答對唷,,"유감이야… 답은「2마리」
 다음엔 맞추도록 해.","Verflixt, die Antwort ist „Zwei“.
 Beim nächsten Mal!"
-24006,,"Accidenti, la risposta è ""Giostra Fulminante"". Il
-prossimo lo prenderai tu!","真遺憾……正確解答是「皇家槍擊」
+24006,,"Accidenti, la risposta è ""Giostra Fulminante"".
+Il prossimo lo prenderai tu!","真遺憾……正確解答是「皇家槍擊」
 下次可要答對唷",,"유감이야… 답은「로얄 세이버」
 다음엔 맞추도록 해.","Verflixt, die Antwort ist „Blitz-Tjost“.
 Beim nächsten Mal!"
-24007,,"Accidenti, la risposta è
-""Claíomh Solais"". Il prossimo ti aspetta!","真遺憾……正確解答是「克拉烏‧索拉斯」
+24007,,"Accidenti, la risposta è ""Claíomh Solais"".
+Il prossimo ti aspetta!","真遺憾……正確解答是「克拉烏‧索拉斯」
 下次可要答對唷",,"유감이야… 답은「클라우 솔라스」
 다음엔 맞추도록 해.","Verflixt, die Antwort ist
 „Claíomh Solais“. Beim nächsten Mal!"
@@ -9156,7 +9149,7 @@ Beim nächsten Mal!"
 Ti toccherà il prossimo!",真遺憾……正確解答是「6隻」。下次可要答對唷,,"유감이야… 답은「6개」
 다음엔 맞추도록 해.","Verflixt, die Antwort ist „Sechs“.
 Beim nächsten Mal!"
-24009,,"Accidenti, la risposta è ""Tipo di dati"".
+24009,,"Accidenti, la risposta è ""Tipo Dati"".
 Ti arriverà il prossimo!",真遺憾……正確解答是「資料種」。下次可要答對唷,,"유감이야… 답은「데이터종」
 다음엔 맞추도록 해.","Verflixt, die Antwort ist „Typus Datei“.
 Beim nächsten Mal!"
@@ -9403,7 +9396,7 @@ Beim nächsten Mal!"
 Il prossimo lo prenderai tu!",真遺憾……正確解答是「紅寶石」。下次可要答對唷,,"유감이야… 답은「루비」
 다음엔 맞추도록 해.","Verflixt, die Antwort ist „Rubin“.
 Beim nächsten Mal!"
-24068,,"Accidenti, la risposta è ""Tipo di vaccino"".
+24068,,"Accidenti, la risposta è ""Tipo Vaccino"".
 Ti arriverà il prossimo!",真遺憾……正確解答是「疫苗種」。下次可要答對唷,,"유감이야… 답은「백신종」
 다음엔 맞추도록 해.","Verflixt, die Antwort ist „Typus Serum“.
 Beim nächsten Mal!"
@@ -9580,7 +9573,7 @@ du liegst also falsch."
 quindi questa volta ti sbagli.",答案是「6隻」，所以你答錯了。希望你下次能答對,,"답은「6개」니까 틀렸어.
 다음엔 맞춰줘.","Die Antwort ist „Sechs“,
 du liegst also falsch."
-25009,,"La risposta è ""Tipo di dati"",
+25009,,"La risposta è ""Tipo Dati"",
 quindi questa volta ti sbagli.","答案是「資料種」，所以你答錯了
 希望你下次能答對",,"답은「데이터종」이니까 틀렸어.
 다음엔 맞춰줘.","Die Antwort ist „Typus Datei“,
@@ -9667,8 +9660,8 @@ du liegst also falsch."
 quindi questa volta ti sbagli.",答案是「源賴朝」，所以你答錯了。希望你下次能答對,,"답은「미나모토노 요리토모」니까 틀렸어.
 다음엔 맞춰줘.","Die Antwort ist „Minamoto no Yoritomo“,
 du liegst also falsch."
-25028,,"La risposta è ""Passalo sotto l'acqua
-fredda"", quindi questa volta ti sbagli.","答案是「沖冷水降溫」，所以你答錯了
+25028,,"La risposta è ""Passalo sotto l'acqua fredda"",
+quindi questa volta ti sbagli.","答案是「沖冷水降溫」，所以你答錯了
 希望你下次能答對",,"답은「찬물로 식힌다」니까 틀렸어.
 다음엔 맞춰줘.","Die Antwort ist „Unter kaltes Wasser
 halten“, du liegst also falsch."
@@ -9858,7 +9851,7 @@ du liegst also falsch."
 quindi questa volta ti sbagli.",答案是「紅寶石」，所以你答錯了。希望你下次能答對,,"답은「루비」니까 틀렸어.
 다음엔 맞춰줘.","Die Antwort ist „Rubin“,
 du liegst also falsch."
-25068,,"La risposta è ""tipo di vaccino"",
+25068,,"La risposta è ""Tipo Vaccino"",
 quindi questa volta ti sbagli.","答案是「疫苗種」，所以你答錯了
 希望你下次能答對",,"답은「백신종」이니까 틀렸어.
 다음엔 맞춰줘.","Die Antwort ist „Typus Serum“,
@@ -10007,47 +10000,47 @@ all'inizio dell'inverno"", quindi questa volta ti sbagli.","答案是「初冬�
 希望你下次能答對",,"답은「초겨울 무렵의 따뜻한 기후」니까 틀렸어.
 다음엔 맞춰줘.","Die Antwort ist „Warmes Wetter zu
 Winterbeginn“, du liegst also falsch."
-25099,,"La risposta è ""La Rivoluzione
-Francese"", quindi questa volta ti sbagli.","答案是「法國大革命」，所以你答錯了
+25099,,"La risposta è ""La Rivoluzione Francese"",
+quindi questa volta ti sbagli.","答案是「法國大革命」，所以你答錯了
 希望你下次能答對",,"답은「프랑스 혁명」이니까 틀렸어.
 다음엔 맞춰줘.","Die Antwort ist „Die Französische
 Revolution“, du liegst also falsch."
-25100,,"La risposta è ""olandese"", quindi
-questa volta ti sbagli.","答案是「荷蘭人」，所以你答錯了
+25100,,"La risposta è ""olandese"",
+quindi questa volta ti sbagli.","答案是「荷蘭人」，所以你答錯了
 希望你下次能答對",,"답은「네덜란드인」이니까 틀렸어.
 다음엔 맞춰줘.","Die Antwort ist „Niederländisch“,
 du liegst also falsch."
-26001,,"Sbagliato. La risposta è
-""Digivice"". Riprovaci.","答錯了。答案是「Digivice」喔
+26001,,"Sbagliato. La risposta è ""Digivice"".
+Riprovaci.","答錯了。答案是「Digivice」喔
 下次請回答正確答案",,"틀렸습니다. 답은「디지바이스」
 다음에는 맞춰주세요.","Negativ. Die Antwort ist „Digivice“.
 Probier’s noch mal."
-26002,,"Sbagliato. La risposta è ""Kyoko
-Kuremi"". Riprovaci.","答錯了。答案是「暮海杏子」喔
+26002,,"Sbagliato. La risposta è ""Kyoko Kuremi"".
+Riprovaci.","答錯了。答案是「暮海杏子」喔
 下次請回答正確答案",,"틀렸습니다. 답은「쿠레미 쿄코」
 다음에는 맞춰주세요.","Negativ. Die Antwort ist „Kyoko Kuremi“.
 Probier’s noch mal."
-26003,,"Sbagliato. La risposta è
-""Omnimon Zwart"". Riprova.","答錯了。答案是「黑奧米加獸」喔
+26003,,"Sbagliato. La risposta è ""Omnimon Zwart"".
+Riprova.","答錯了。答案是「黑奧米加獸」喔
 下次請回答正確答案",,"틀렸습니다. 답은「오메가몬 즈왈트」
 다음에는 맞춰주세요.","Negativ. Die Antwort ist „Omnimon
 Zwart“. Probier’s noch mal."
-26004,,"Sbagliato. La risposta
-è ""13"". Riprova.","答錯了。答案是「13隻」喔
+26004,,"Sbagliato. La risposta è ""13"".
+Riprova.","答錯了。答案是「13隻」喔
 下次請回答正確答案",,"틀렸습니다. 답은「13개」
 다음에는 맞춰주세요.","Negativ. Die Antwort ist „13“.
 Probier’s noch mal."
-26005,,"Sbagliato. La risposta è
-""Due"". Riprova.",答錯了。答案是「2隻」喔。下次請回答正確答案,,"틀렸습니다. 답은「2개」
+26005,,"Sbagliato. La risposta è ""Due"".
+Riprova.",答錯了。答案是「2隻」喔。下次請回答正確答案,,"틀렸습니다. 답은「2개」
 다음에는 맞춰주세요.","Negativ. Die Antwort ist „Zwei“.
 Probier’s noch mal."
-26006,,"Sbagliato. La risposta è ""Giostra dei
-fulmini"". Riprovaci.","答錯了。答案是「皇家槍擊」喔
+26006,,"Sbagliato. La risposta è ""Giostra dei fulmini"".
+Riprovaci.","答錯了。答案是「皇家槍擊」喔
 下次請回答正確答案",,"틀렸습니다. 답은「로얄 세이버」
 다음에는 맞춰주세요.","Negativ. Die Antwort ist „Blitz-Tjost“.
 Probier’s noch mal."
-26007,,"Errato. La risposta è
-""Claíomh Solais."" Provatelo ancora.","答錯了。答案是「克拉烏‧索拉斯」喔
+26007,,"Errato. La risposta è ""Claíomh Solais.""
+Provatelo ancora.","答錯了。答案是「克拉烏‧索拉斯」喔
 下次請回答正確答案",,"틀렸습니다. 답은「클라우 솔라스」
 다음에는 맞춰주세요.","Negativ. Die Antwort ist
 „Claíomh Solais“. Probier’s noch mal."
@@ -10055,76 +10048,76 @@ Probier’s noch mal."
 ""Sei"". Riprovaci.",答錯了。答案是「6隻」喔。下次請回答正確答案,,"틀렸습니다. 답은「6개」
 다음에는 맞춰주세요.","Negativ. Die Antwort ist „Sechs“.
 Probier’s noch mal."
-26009,,"Sbagliato. La risposta è ""Tipo
-di dati"". Riprova.","答錯了。答案是「資料種」喔
+26009,,"Sbagliato. La risposta è ""Tipo Dati"".
+Riprova.","答錯了。答案是「資料種」喔
 下次請回答正確答案",,"틀렸습니다. 답은「데이터종」
 다음에는 맞춰주세요.","Negativ. Die Antwort ist „Typus Datei“.
 Probier’s noch mal."
-26010,,"Sbagliato. La risposta è
-""Mega"". Riprovaci.","答錯了。答案是「究極體」喔
+26010,,"Sbagliato. La risposta è ""Mega"".
+Riprovaci.","答錯了。答案是「究極體」喔
 下次請回答正確答案",,"틀렸습니다. 답은「궁극체」
 다음에는 맞춰주세요.","Negativ. Die Antwort ist „Mega“.
 Probier’s noch mal."
-26011,,"Sbagliato. La risposta è
-""Padre"". Riprova.",答錯了。答案是「親父」喔。下次請回答正確答案,,"틀렸습니다. 답은「친부」
+26011,,"Sbagliato. La risposta è ""Padre"".
+Riprova.",答錯了。答案是「親父」喔。下次請回答正確答案,,"틀렸습니다. 답은「친부」
 다음에는 맞춰주세요.","Negativ. Die Antwort ist „Vater“.
 Probier’s noch mal."
-26012,,"Sbagliato. La risposta è
-""Veemon"". Riprovaci.","答錯了。答案是「V仔獸」喔
+26012,,"Sbagliato. La risposta è ""Veemon"".
+Riprovaci.","答錯了。答案是「V仔獸」喔
 下次請回答正確答案",,"틀렸습니다. 답은「브이몬」
 다음에는 맞춰주세요.","Negativ. Die Antwort ist „Veemon“.
 Probier’s noch mal."
-26013,,"Sbagliato. La risposta è
-""Leopardmon"". Riprovaci.","答錯了。答案是「芳香獸」喔
+26013,,"Sbagliato. La risposta è ""Leopardmon"".
+Riprovaci.","答錯了。答案是「芳香獸」喔
 下次請回答正確答案",,"틀렸습니다. 답은「두프트몬」
 다음에는 맞춰주세요.","Negativ. Die Antwort ist „Duftmon“.
 Probier’s noch mal."
-26014,,"Sbagliato. La risposta è
-""Dynasmon"". Riprovaci.","答錯了。答案是「杜納斯獸」喔
+26014,,"Sbagliato. La risposta è ""Dynasmon"".
+Riprovaci.","答錯了。答案是「杜納斯獸」喔
 下次請回答正確答案",,"틀렸습니다. 답은「듀나스몬」
 다음에는 맞춰주세요.","Negativ. Die Antwort ist „Dynasmon“.
 Probier’s noch mal."
-26015,,"Sbagliato. La risposta è
-""Omnimon"". Riprovaci.","答錯了。答案是「奧米加獸」喔
+26015,,"Sbagliato. La risposta è ""Omnimon"".
+Riprovaci.","答錯了。答案是「奧米加獸」喔
 下次請回答正確答案",,"틀렸습니다. 답은「오메가몬」
 다음에는 맞춰주세요.","Negativ. Die Antwort ist „Omnimon“.
 Probier’s noch mal."
-26016,,"Sbagliato. La risposta è
-""Crusadermon"". Riprova.","答錯了。答案是 「劍皇獸」喔
+26016,,"Sbagliato. La risposta è ""Crusadermon"".
+Riprova.","答錯了。答案是 「劍皇獸」喔
 下次請回答正確答案",,"틀렸습니다. 답은「로드나이트몬」
 다음에는 맞춰주세요.","Negativ. Die Antwort ist „Crusadermon“.
 Probier’s noch mal."
-26017,,"Sbagliato. La
-risposta è ""UlforceVeedramon"". Riprovaci.","答錯了。答案是 「究極V龍獸」喔
+26017,,"Sbagliato. La risposta è ""UlforceVeedramon"".
+Riprovaci.","答錯了。答案是 「究極V龍獸」喔
 下次請回答正確答案",,"틀렸습니다. 답은「알포스브이드라몬」
 다음에는 맞춰주세요.","Negativ. Die Antwort ist
 „UlforceVeedramon“. Probier’s noch mal."
-26018,,"Sbagliato. La risposta è
-""Dieci"". Riprova.","答錯了。答案是 「10隻」喔
+26018,,"Sbagliato. La risposta è ""Dieci"".
+Riprova.","答錯了。答案是 「10隻」喔
 下次請回答正確答案",,"틀렸습니다. 답은「10개」
 다음에는 맞춰주세요.","Negativ. Die Antwort ist „Zehn“.
 Probier’s noch mal."
-26019,,"Sbagliato. La risposta è
-""Ueno"". Riprovaci.",答錯了。答案是「上野」喔。下次請回答正確答案,,"틀렸습니다. 답은「우에노」
+26019,,"Sbagliato. La risposta è ""Ueno"".
+Riprovaci.",答錯了。答案是「上野」喔。下次請回答正確答案,,"틀렸습니다. 답은「우에노」
 다음에는 맞춰주세요.","Negativ. Die Antwort ist „Ueno“.
 Probier’s noch mal."
-26020,,"Sbagliato. La risposta è
-""DigiLine"". Riprova.","答錯了。答案是「數碼連線」喔
+26020,,"Sbagliato. La risposta è ""DigiLine"".
+Riprova.","答錯了。答案是「數碼連線」喔
 下次請回答正確答案",,"틀렸습니다. 답은「디지라인」
 다음에는 맞춰주세요.","Negativ. Die Antwort ist „Digiline“.
 Probier’s noch mal."
-26021,,"Sbagliato. La
-risposta è ""29 stazioni"". Riprova.","答錯了。答案是「29站」喔
+26021,,"Sbagliato. La risposta è ""29 stazioni"".
+Riprova.","答錯了。答案是「29站」喔
 下次請回答正確答案",,"틀렸습니다. 답은「29역」
 다음에는 맞춰주세요.","Negativ. Die Antwort ist „29
 Haltestellen“. Probier’s noch mal."
-26022,,"Sbagliato. La
-risposta è ""GranKuwagamon"". Riprova.","答錯了。答案是 「究極古加獸」喔
+26022,,"Sbagliato. La risposta è ""GranKuwagamon"".
+Riprova.","答錯了。答案是 「究極古加獸」喔
 下次請回答正確答案",,"틀렸습니다. 답은「그랜쿠가몬」
 다음에는 맞춰주세요.","Negativ. Die Antwort ist
 „GranKuwagamon“. Probier’s noch mal."
-26023,,"Sbagliato. La risposta è
-""Antylamon"". Riprova.","答錯了。答案是「玉兔獸」喔
+26023,,"Sbagliato. La risposta è ""Antylamon"".
+Riprova.","答錯了。答案是「玉兔獸」喔
 下次請回答正確答案",,"틀렸습니다. 답은「안티라몬」
 다음에는 맞춰주세요.","Negativ. Die Antwort ist „Antylamon“.
 Probier’s noch mal."
@@ -10133,18 +10126,18 @@ a sud, Okinotori, fa parte di Tokyo.","答錯了。答案是 「東京都」喔
 日本最南端的沖鳥礁，其實是隸屬於東京都",,"틀렸습니다. 답은「도쿄도」
 최남단 오키노토리시마는 도쿄도입니다.","Negativ, die Antwort ist „Tokio“. Die
 südlichste Insel Okinotori gehört dazu."
-26025,,"Sbagliato. La risposta è
-""Eglefino"". Riprova.","答錯了。答案是「ㄔㄨㄣ」喔
+26025,,"Sbagliato. La risposta è ""Eglefino"".
+Riprova.","答錯了。答案是「ㄔㄨㄣ」喔
 下次請回答正確答案",,"틀렸습니다. 답은「삼치」
 다음에는 맞춰주세요.","Negativ. Die Antwort ist „Schellfisch“.
 Probier’s noch mal."
-26026,,"Sbagliato. La risposta è
-""Houryuuji"". Riprovaci.","答錯了。答案是 「法隆寺」喔
+26026,,"Sbagliato. La risposta è ""Houryuuji"".
+Riprovaci.","答錯了。答案是 「法隆寺」喔
 下次請回答正確答案",,"틀렸습니다. 답은「호류지」
 다음에는 맞춰주세요.","Negativ. Die Antwort ist „Hōryū-ji“.
 Probier’s noch mal."
-26027,,"Sbagliato. La risposta è
-""Minamoto-No-Yoritomo"". Riprova.","答錯了。答案是「源賴朝」喔
+26027,,"Sbagliato. La risposta è ""Minamoto-No-Yoritomo"".
+Riprova.","答錯了。答案是「源賴朝」喔
 下次請回答正確答案",,"틀렸습니다. 답은「미나모토노 요리토모」
 다음에는 맞춰주세요.","Negativ. Die Antwort ist „Minamoto no
 Yoritomo“. Probier’s noch mal."
@@ -10153,8 +10146,8 @@ Fai un altro tentativo.","答錯了。答案是「沖冷水降溫」喔
 下次請回答正確答案",,"틀렸습니다. 답은「찬물로 식힌다」
 다음에는 맞춰주세요.","Negativ. Die Antwort ist „Unter kaltes
 Wasser halten“. Probier’s noch mal."
-26029,,"Sbagliato. La risposta è ""Giornata
-della Salute e dello Sport"". Riprovaci.","答錯了。答案是「體育日」喔
+26029,,"Sbagliato. La risposta è ""Giornata della Salute
+e dello Sport"". Riprovaci.","答錯了。答案是「體育日」喔
 下次請回答正確答案",,"틀렸습니다. 답은「체육의 날」
 다음에는 맞춰주세요.","Negativ. Richtig ist „Tag der Gesundheit
 und des Sports“. Probier’s noch mal."
@@ -10162,8 +10155,8 @@ und des Sports“. Probier’s noch mal."
 Fai un altro tentativo.",答錯了。答案是「23」喔。下次請回答正確答案,,"틀렸습니다. 답은「23」
 다음에는 맞춰주세요.","Negativ. Die Antwort ist „23“.
 Probier’s noch mal."
-26031,,"Sbagliato. La risposta è
-""ToyAgumon"". Riprovaci.","答錯了。答案是「積木亞古獸」喔
+26031,,"Sbagliato. La risposta è ""ToyAgumon"".
+Riprovaci.","答錯了。答案是「積木亞古獸」喔
 下次請回答正確答案",,"틀렸습니다. 답은「토이아구몬」
 다음에는 맞춰주세요.","Negativ. Die Antwort ist „ToyAgumon“.
 Probier’s noch mal."
@@ -10172,28 +10165,28 @@ Riprovaci.","答錯了。答案是「迪路獸」喔
 下次請回答正確答案",,"틀렸습니다. 답은「가트몬」
 다음에는 맞춰주세요.","Negativ. Die Antwort ist „Gatomon“.
 Probier’s noch mal."
-26033,,"Sbagliato. La risposta è
-""Palmon"". Riprova.","答錯了。答案是「巴魯獸」喔
+26033,,"Sbagliato. La risposta è ""Palmon"".
+Riprova.","答錯了。答案是「巴魯獸」喔
 下次請回答正確答案",,"틀렸습니다. 답은「팔몬」
 다음에는 맞춰주세요.","Negativ. Die Antwort ist „Palmon“.
 Probier’s noch mal."
-26034,,"Sbagliato. La risposta è
-""Monzaemon"". Riprovaci.","答錯了。答案是「熊仔獸」喔
+26034,,"Sbagliato. La risposta è ""Monzaemon"".
+Riprovaci.","答錯了。答案是「熊仔獸」喔
 下次請回答正確答案",,"틀렸습니다. 답은「퍼펫몬」
 다음에는 맞춰주세요.","Negativ. Die Antwort ist „Monzaemon“.
 Probier’s noch mal."
-26035,,"Sbagliato. La risposta è
-""Garudamon"". Riprovaci.","答錯了。答案是「伽樓達獸」喔
+26035,,"Sbagliato. La risposta è ""Garudamon"".
+Riprovaci.","答錯了。答案是「伽樓達獸」喔
 下次請回答正確答案",,"틀렸습니다. 답은「가루다몬」
 다음에는 맞춰주세요.","Negativ. Die Antwort ist „Garudamon“.
 Probier’s noch mal."
-26036,,"Sbagliato. La risposta è
-""Botamon"". Riprovaci.","答錯了。答案是「黑球獸」喔
+26036,,"Sbagliato. La risposta è ""Botamon"".
+Riprovaci.","答錯了。答案是「黑球獸」喔
 下次請回答正確答案",,"틀렸습니다. 답은「깜몬」
 다음에는 맞춰주세요.","Negativ. Die Antwort ist „Botamon“.
 Probier’s noch mal."
-26037,,"Sbagliato. La risposta è
-""Wanyamon"". Riprovaci.","答錯了。答案是「汪喵獸」喔
+26037,,"Sbagliato. La risposta è ""Wanyamon"".
+Riprovaci.","答錯了。答案是「汪喵獸」喔
 下次請回答正確答案",,"틀렸습니다. 답은「와냐몬」
 다음에는 맞춰주세요.","Negativ. Die Antwort ist „Wanyamon“.
 Probier’s noch mal."
@@ -10201,13 +10194,13 @@ Probier’s noch mal."
 Riprovaci.",答錯了。答案是「最強」喔。下次請回答正確答案,,"틀렸습니다. 답은「최강」
 다음에는 맞춰주세요.","Negativ. Die Antwort ist „Am stärksten“.
 Probier’s noch mal."
-26039,,"Sbagliato. La risposta è
-""Beelzemon"". Riprovaci.","答錯了。答案是「墮天地獄獸」喔
+26039,,"Sbagliato. La risposta è ""Beelzemon"".
+Riprovaci.","答錯了。答案是「墮天地獄獸」喔
 下次請回答正確答案",,"틀렸습니다. 답은「베르제브몬」
 다음에는 맞춰주세요.","Negativ. Die Antwort ist „Beelzemon“.
 Probier’s noch mal."
-26040,,"Sbagliato. La risposta è
-""Cherrymon"". Riprova.","答錯了。答案是「祖利獸」喔
+26040,,"Sbagliato. La risposta è ""Cherrymon"".
+Riprova.","答錯了。答案是「祖利獸」喔
 下次請回答正確答案",,"틀렸습니다. 답은「쥬레이몬」
 다음에는 맞춰주세요.","Negativ. Die Antwort ist „Cherrymon“.
 Probier’s noch mal."
@@ -10216,13 +10209,13 @@ Riprovaci.","答錯了。答案是「烈焰獸」喔
 下次請回答正確答案",,"틀렸습니다. 답은「화염드라몬」
 다음에는 맞춰주세요.","Negativ. Die Antwort ist „Flamedramon“.
 Probier’s noch mal."
-26042,,"Sbagliato. La risposta è
-""Sakuyamon"". Riprovaci.","答錯了。答案是「沙古牙獸」喔
+26042,,"Sbagliato. La risposta è ""Sakuyamon"".
+Riprovaci.","答錯了。答案是「沙古牙獸」喔
 下次請回答正確答案",,"틀렸습니다. 답은「샤크라몬」
 다음에는 맞춰주세요.","Negativ. Die Antwort ist „Sakuyamon“.
 Probier’s noch mal."
-26043,,"Sbagliato. La
-risposta è ""Spada Berserk"". Riprovaci.","答錯了。答案是「狂暴大劍」喔
+26043,,"Sbagliato. La risposta è ""Spada Berserk"".
+Riprovaci.","答錯了。答案是「狂暴大劍」喔
 下次請回答正確答案",,"틀렸습니다. 답은「베르세르크 소드」
 다음에는 맞춰주세요.","Negativ. Die Antwort ist
 „Berserkerschwert“. Probier’s noch mal."
@@ -10231,56 +10224,56 @@ risposta è ""Spada Berserk"". Riprovaci.","答錯了。答案是「狂暴大劍
 這題有點困難呢",,"틀렸습니다. 답은「미카후츠노카미」
 다음에는 맞춰주세요.","Negativ. Richtig ist „Barbarenkaiser“.
 Das war eine harte Nuss."
-26045,,"Sbagliato. La risposta è
-""Vademon"". Riprovaci.","答錯了。答案是「入侵者獸」喔
+26045,,"Sbagliato. La risposta è ""Vademon"".
+Riprovaci.","答錯了。答案是「入侵者獸」喔
 下次請回答正確答案",,"틀렸습니다. 답은「베이더몬」
 다음에는 맞춰주세요.","Negativ. Die Antwort ist „Vademon“.
 Probier’s noch mal."
-26046,,"Sbagliato. La risposta è ""La
-coda"". Riprovaci.","答錯了。答案是「尾巴」喔
+26046,,"Sbagliato. La risposta è ""La coda"".
+Riprovaci.","答錯了。答案是「尾巴」喔
 下次請回答正確答案",,"틀렸습니다. 답은「꼬리」
 다음에는 맞춰주세요.","Negativ. Die Antwort ist „Der Schwanz“.
 Probier’s noch mal."
-26047,,"Sbagliato. La risposta è
-""Nanimon"". Riprovaci.","答錯了。答案是「亞伯獸」喔
+26047,,"Sbagliato. La risposta è ""Nanimon"".
+Riprovaci.","答錯了。答案是「亞伯獸」喔
 下次請回答正確答案",,"틀렸습니다. 답은「모야몬」
 다음에는 맞춰주세요.","Negativ. Die Antwort ist „Nanimon“.
 Probier’s noch mal."
-26048,,"Sbagliato. La risposta è
-""Punimon"". Riprovaci.","答錯了。答案是「普尼獸」喔
+26048,,"Sbagliato. La risposta è ""Punimon"".
+Riprovaci.","答錯了。答案是「普尼獸」喔
 下次請回答正確答案",,"틀렸습니다. 답은「푸니몬」
 다음에는 맞춰주세요.","Negativ. Die Antwort ist „Punimon“.
 Probier’s noch mal."
-26049,,"Sbagliato. La risposta è
-""Pumpkinmon"". Riprovaci.","答錯了。答案是「南瓜獸」喔
+26049,,"Sbagliato. La risposta è ""Pumpkinmon"".
+Riprovaci.","答錯了。答案是「南瓜獸」喔
 下次請回答正確答案",,"틀렸습니다. 답은「펌프몬」
 다음에는 맞춰주세요.","Negativ. Die Antwort ist „Pumpkinmon“.
 Probier’s noch mal."
-26050,,"Sbagliato. La risposta è
-""Biyomon"". Riprovaci.","答錯了。答案是「比丘獸」喔
+26050,,"Sbagliato. La risposta è ""Biyomon"". 
+Riprovaci.","答錯了。答案是「比丘獸」喔
 下次請回答正確答案",,"틀렸습니다. 답은「피요몬」
 다음에는 맞춰주세요.","Negativ. Die Antwort ist „Biyomon“.
 Probier’s noch mal."
-26051,,"Sbagliato. La risposta è ""Connect
-Jump"". Riprova.","答錯了。答案是「登入跳躍」喔
+26051,,"Sbagliato. La risposta è ""Connect Jump"".
+Riprova.","答錯了。答案是「登入跳躍」喔
 下次請回答正確答案",,"틀렸습니다. 답은「커넥트 점프」
 다음에는 맞춰주세요.","Negativ. Die Antwort ist „Verbindungssprung“.
 Probier’s noch mal."
-26052,,"Sbagliato. La risposta è
-""EDEN"". Riprova.","答錯了。答案是「EDEN」喔
+26052,,"Sbagliato. La risposta è ""EDEN"".
+Riprova.","答錯了。答案是「EDEN」喔
 下次請回答正確答案",,"틀렸습니다. 답은「EDEN」
 다음에는 맞춰주세요.","Negativ. Die Antwort ist „EDEN“.
 Probier’s noch mal."
-26053,,"Sbagliato. La risposta è ""Una
-croce"". Riprovaci.",答錯了。答案是「叉叉」喔。下次請回答正確答案,,"틀렸습니다. 답은「엑스」
+26053,,"Sbagliato. La risposta è ""Una croce"".
+Riprovaci.",答錯了。答案是「叉叉」喔。下次請回答正確答案,,"틀렸습니다. 답은「엑스」
 다음에는 맞춰주세요.","Negativ. Die Antwort ist „Ein Kreuz“.
 Probier’s noch mal."
-26054,,"Sbagliato. La
-risposta è ""Gocce d'acqua"". Riprova.",答錯了。答案是「水滴」喔。下次請回答正確答案,,"틀렸습니다. 답은「물방울」
+26054,,"Sbagliato. La risposta è ""Gocce d'acqua"".
+Riprova.",答錯了。答案是「水滴」喔。下次請回答正確答案,,"틀렸습니다. 답은「물방울」
 다음에는 맞춰주세요.","Negativ. Die Antwort ist
 „Wassertropfen“. Probier’s noch mal."
-26055,,"Sbagliato. La risposta è
-""Nero"". Riprova.",答錯了。答案是「黑色」喔。下次請回答正確答案,,"틀렸습니다. 답은「검정」
+26055,,"Sbagliato. La risposta è ""Nero"".
+Riprova.",答錯了。答案是「黑色」喔。下次請回答正確答案,,"틀렸습니다. 답은「검정」
 다음에는 맞춰주세요.","Negativ. Die Antwort ist „Schwarz“.
 Probier’s noch mal."
 26056,,"Sbagliato. La risposta è ""Cattura Digimon"".
@@ -10298,117 +10291,117 @@ di un Digimon"". Ancora una volta.","答錯了。答案是「改變數碼寶貝�
 下次請回答正確答案",,"틀렸습니다. 답은「디지몬의 개성을 바꾼다」
 다음에는 맞춰주세요.","Negativ. Die Antwort ist „Sie ändern die
 Digimon-Persönlichkeit“."
-26059,,"Sbagliato. La risposta è
-""EDEN"". Riprova.","答錯了。答案是「EDEN」喔
+26059,,"Sbagliato. La risposta è ""EDEN"".
+Riprova.","答錯了。答案是「EDEN」喔
 下次請回答正確答案",,"틀렸습니다. 답은「EDEN」
 다음에는 맞춰주세요.","Negativ. Die Antwort ist „EDEN“.
 Probier’s noch mal."
-26060,,"Sbagliato. La risposta è
-""Rosa"". Riprova.","答錯了。答案是「粉紅色」喔
+26060,,"Sbagliato. La risposta è ""Rosa"".
+Riprova.","答錯了。答案是「粉紅色」喔
 下次請回答正確答案",,"틀렸습니다. 답은「핑크」
 다음에는 맞춰주세요.","Negativ. Die Antwort ist „Rosa“.
 Probier’s noch mal."
-26061,,"Sbagliato. La risposta è
-""Indagare"". Riprovaci.",答錯了。答案是「調查」喔。下次請回答正確答案,,"틀렸습니다. 답은「조사」
+26061,,"Sbagliato. La risposta è ""Indagare"".
+Riprovaci.",答錯了。答案是「調查」喔。下次請回答正確答案,,"틀렸습니다. 답은「조사」
 다음에는 맞춰주세요.","Negativ. Die Antwort ist „Ermitteln“.
 Probier’s noch mal."
-26062,,"Sbagliato. La risposta è ""Vigor
-Mushroom"". Riprova.","答錯了。答案是「精力旺盛菇」喔
+26062,,"Sbagliato. La risposta è ""Vigor Mushroom"".
+Riprova.","答錯了。答案是「精力旺盛菇」喔
 下次請回答正確答案",,"틀렸습니다. 답은「터프니스 버섯」
 다음에는 맞춰주세요.","Negativ. Die Antwort ist „Lebenspilz“.
 Probier’s noch mal."
-26063,,"Sbagliato. La risposta è ""Prodotti
-agricoli"". Riprova.","答錯了。答案是「農場道具」喔
+26063,,"Sbagliato. La risposta è ""Prodotti agricoli"".
+Riprova.","答錯了。答案是「農場道具」喔
 下次請回答正確答案",,"틀렸습니다. 답은「팜 굿즈」
 다음에는 맞춰주세요.","Negativ. Die Antwort ist „Farmprodukte“.
 Probier’s noch mal."
-26064,,"Sbagliato. La risposta è
-""DigiLab"". Riprovaci.","答錯了。答案是「數碼實驗室」喔
+26064,,"Sbagliato. La risposta è ""DigiLab"".
+Riprovaci.","答錯了。答案是「數碼實驗室」喔
 下次請回答正確答案",,"틀렸습니다. 답은「디지랩」
 다음에는 맞춰주세요.","Negativ. Die Antwort ist „DigiLab“.
 Probier’s noch mal."
-26065,,"Sbagliato. La risposta è ""Arata
-Sanada"". Riprova.","答錯了。答案是「真田新」喔
+26065,,"Sbagliato. La risposta è ""Arata Sanada"".
+Riprova.","答錯了。答案是「真田新」喔
 下次請回答正確答案",,"틀렸습니다. 답은「사나다 아라타」
 다음에는 맞춰주세요.","Negativ. Die Antwort ist „Arata Sanada“.
 Probier’s noch mal."
-26066,,"Sbagliato. La risposta è
-""Gabumon"". Riprovaci.","答錯了。答案是「加布獸」喔
+26066,,"Sbagliato. La risposta è ""Gabumon"".
+Riprovaci.","答錯了。答案是「加布獸」喔
 下次請回答正確答案",,"틀렸습니다. 답은「파피몬」
 다음에는 맞춰주세요.","Negativ. Die Antwort ist „Gabumon“.
 Probier’s noch mal."
-26067,,"Sbagliato. La risposta è
-""Ruby"". Riprova.","答錯了。答案是「紅寶石」喔
+26067,,"Sbagliato. La risposta è ""Ruby"".
+Riprova.","答錯了。答案是「紅寶石」喔
 下次請回答正確答案",,"틀렸습니다. 답은「루비」
 다음에는 맞춰주세요.","Negativ. Die Antwort ist „Rubin“.
 Probier’s noch mal."
-26068,,"Sbagliato. La risposta è ""Tipo di
-vaccino"". Riprova.","答錯了。答案是「疫苗種」喔
+26068,,"Sbagliato. La risposta è ""Tipo Vaccino"".
+Riprova.","答錯了。答案是「疫苗種」喔
 下次請回答正確答案",,"틀렸습니다. 답은「백신종」
 다음에는 맞춰주세요.","Negativ. Die Antwort ist „Typus Serum“.
 Probier’s noch mal."
-26069,,"Sbagliato. La risposta è
-""Attributo Terra"". Riprova.","答錯了。答案是「土屬性」喔
+26069,,"Sbagliato. La risposta è ""Attributo Terra"".
+Riprova.","答錯了。答案是「土屬性」喔
 下次請回答正確答案",,"틀렸습니다. 답은「땅 속성」
 다음에는 맞춰주세요.","Negativ. Die Antwort ist „Erde“.
 Probier’s noch mal."
-26070,,"Sbagliato. La risposta è
-""Punto"". Riprova.","答錯了。答案是「液晶化」喔
+26070,,"Sbagliato. La risposta è ""Punto"".
+Riprova.","答錯了。答案是「液晶化」喔
 下次請回答正確答案",,"틀렸습니다. 답은「액정화」
 다음에는 맞춰주세요.","Negativ. Die Antwort ist „Pixel“.
 Probier’s noch mal."
 26071,,"Sbagliato. La risposta è ""Rende più
-facile generare combo. Riprovaci"".","答錯了。答案是「容易產生連擊」喔
+facile generare combo"". Riprovaci"".","答錯了。答案是「容易產生連擊」喔
 下次請回答正確答案",,"틀렸습니다. 답은「콤보가 발생하기 쉬워진다」
 다음에는 맞춰주세요.","Negativ. Die Antwort ist „Kombos werden
 einfacher“. Probier’s noch mal."
-26072,,"Sbagliato. La risposta è ""Crepa
-nel muro"". Riprova.","答錯了。答案是「Wall Crack」喔
+26072,,"Sbagliato. La risposta è ""Crepa nel muro"".
+Riprova.","答錯了。答案是「Wall Crack」喔
 下次請回答正確答案",,"틀렸습니다. 답은「월 크랙」
 다음에는 맞춰주세요.","Negativ. Die Antwort ist „Mauerspalt“.
 Probier’s noch mal."
-26073,,"Sbagliato. La risposta è
-""Ninja USB"". Riprova.","答錯了。答案是「忍者USB」喔
+26073,,"Sbagliato. La risposta è ""Ninja USB"".
+Riprova.","答錯了。答案是「忍者USB」喔
 下次請回答正確答案",,"틀렸습니다. 답은「닌자의 USB」
 다음에는 맞춰주세요.","Negativ. Die Antwort ist „Ninja-USB“.
 Probier’s noch mal."
-26074,,"Sbagliato. La risposta è
-""Puppetmon"". Riprovaci.","答錯了。答案是「木偶獸」喔
+26074,,"Sbagliato. La risposta è ""Puppetmon"".
+Riprovaci.","答錯了。答案是「木偶獸」喔
 下次請回答正確答案",,"틀렸습니다. 답은「피노키몬」
 다음에는 맞춰주세요.","Negativ. Die Antwort ist „Puppetmon“.
 Probier’s noch mal."
-26075,,"Sbagliato. La risposta è
-""Devimon"". Riprovaci.","答錯了。答案是「惡魔獸」喔
+26075,,"Sbagliato. La risposta è ""Devimon"".
+Riprovaci.","答錯了。答案是「惡魔獸」喔
 下次請回答正確答案",,"틀렸습니다. 답은「데블몬」
 다음에는 맞춰주세요.","Negativ. Die Antwort ist „Devimon“.
 Probier’s noch mal."
-26076,,"Sbagliato. La risposta è
-""Angemon"". Riprovaci.","答錯了。答案是「天使獸」喔
+26076,,"Sbagliato. La risposta è ""Angemon"".
+Riprovaci.","答錯了。答案是「天使獸」喔
 下次請回答正確答案",,"틀렸습니다. 답은「엔젤몬」
 다음에는 맞춰주세요.","Negativ. Die Antwort ist „Angemon“.
 Probier’s noch mal."
-26077,,"Sbagliato. La risposta è ""Cannone
-della Catastrofe"". Riprova.","答錯了。答案是「大災難」喔
+26077,,"Sbagliato. La risposta è ""Cannone della Catastrofe"".
+Riprova.","答錯了。答案是「大災難」喔
 下次請回答正確答案",,"틀렸습니다. 답은「카타스트로피 캐논」
 다음에는 맞춰주세요.","Negativ. Die Antwort ist „Katastrophen-
 kanone“. Probier’s noch mal."
-26078,,"Sbagliato. La risposta è
-""Piximon"". Riprovaci.","答錯了。答案是「妖精獸」喔
+26078,,"Sbagliato. La risposta è ""Piximon"".
+Riprovaci.","答錯了。答案是「妖精獸」喔
 下次請回答正確答案",,"틀렸습니다. 답은「피콜몬」
 다음에는 맞춰주세요.","Negativ. Die Antwort ist „Piximon“.
 Probier’s noch mal."
-26079,,"Sbagliato. La risposta è
-""Hackmon"". Riprovaci.","答錯了。答案是「哈克獸」喔
+26079,,"Sbagliato. La risposta è ""Hackmon"".
+Riprovaci.","答錯了。答案是「哈克獸」喔
 下次請回答正確答案",,"틀렸습니다. 답은「헉몬」
 다음에는 맞춰주세요.","Negativ. Die Antwort ist „Hackmon“.
 Probier’s noch mal."
-26080,,"Sbagliato. La risposta è
-""Shakkoumon"". Riprovaci.","答錯了。答案是「古神獸」喔
+26080,,"Sbagliato. La risposta è ""Shakkoumon"".
+Riprovaci.","答錯了。答案是「古神獸」喔
 下次請回答正確答案",,"틀렸습니다. 답은「토우몬」
 다음에는 맞춰주세요.","Negativ. Die Antwort ist „Shakkoumon“.
 Probier’s noch mal."
-26081,,"Sbagliato. La risposta è
-""Veedramon"". Riprovaci.","答錯了。答案是「V龍獸」喔
+26081,,"Sbagliato. La risposta è ""Veedramon"".
+Riprovaci.","答錯了。答案是「V龍獸」喔
 下次請回答正確答案",,"틀렸습니다. 답은「브이드라몬」
 다음에는 맞춰주세요.","Negativ. Die Antwort ist „Veedramon“.
 Probier’s noch mal."
@@ -10422,38 +10415,38 @@ sottile dalle sue mani"". Ancora una volta.","答錯了。答案是「從手指�
 下次請回答正確答案",,"틀렸습니다. 답은「손 끝에서 가는 빔을 쏜다」
 다음에는 맞춰주세요.","Negativ. Die Antwort ist „Ein dünner
 Strahl aus den Händen“. Noch mal."
-26084,,"Sbagliato. La
-risposta è ""Machinedramon"". Riprova.","答錯了。答案是「機械邪龍獸」喔
+26084,,"Sbagliato. La risposta è ""Machinedramon"".
+Riprova.","答錯了。答案是「機械邪龍獸」喔
 下次請回答正確答案",,"틀렸습니다. 답은「파워드라몬」
 다음에는 맞춰주세요.","Negativ. Die Antwort ist
 „Machinedramon“. Probier’s noch mal."
-26085,,"Sbagliato. La risposta è ""Grande
-Aquila del Deserto"". Riprova.","答錯了。答案是 「沙漠之巨鷲」喔
+26085,,"Sbagliato. La risposta è ""Grande Aquila del Deserto"".
+Riprova.","答錯了。答案是 「沙漠之巨鷲」喔
 下次請回答正確答案",,"틀렸습니다. 답은「사막의 거취」
 다음에는 맞춰주세요.","Negativ. Die Antwort ist „Großer Adler
 der Wüste“. Probier’s noch mal."
-26086,,"Sbagliato. La risposta è ""Re
-Corvo"". Riprovaci.","答錯了。答案是 「烏王丸」喔
+26086,,"Sbagliato. La risposta è ""Re Corvo"".
+Riprovaci.","答錯了。答案是 「烏王丸」喔
 下次請回答正確答案",,"틀렸습니다. 답은「오왕도」
 다음에는 맞춰주세요.","Negativ. Die Antwort ist „Rabenkönig“.
 Probier’s noch mal."
-26087,,"Sbagliato. La risposta è
-""BanchoLeomon"". Riprovaci.","答錯了。答案是 「番長獅子獸」喔
+26087,,"Sbagliato. La risposta è ""BanchoLeomon"".
+Riprovaci.","答錯了。答案是 「番長獅子獸」喔
 下次請回答正確答案",,"틀렸습니다. 답은「반쵸레오몬」
 다음에는 맞춰주세요.","Negativ. Die Antwort ist „BanchoLeomon“.
 Probier’s noch mal."
-26088,,"Sbagliato. La risposta è
-""Terrier Tornado"". Riprova.","答錯了。答案是 「小型龍捲風」喔
+26088,,"Sbagliato. La risposta è ""Terrier Tornado"".
+Riprova.","答錯了。答案是 「小型龍捲風」喔
 下次請回答正確答案",,"틀렸습니다. 답은「프티 트위스터」
 다음에는 맞춰주세요.","Negativ. Die Antwort ist „Terrier-
 Tornado“. Probier’s noch mal."
-26089,,"Sbagliato. La risposta è
-""Spray"". Riprova.","答錯了。答案是 「碰碰拳」喔
+26089,,"Sbagliato. La risposta è ""Spray"".
+Riprova.","答錯了。答案是 「碰碰拳」喔
 下次請回答正確答案",,"틀렸습니다. 답은「뿜기」
 다음에는 맞춰주세요.","Negativ. Die Antwort ist „-feuer“.
 Probier’s noch mal."
-26090,,"Sbagliato. La risposta è
-""Myotismon"". Riprovaci.","答錯了。答案是「吸血魔獸」喔
+26090,,"Sbagliato. La risposta è ""Myotismon"".
+Riprovaci.","答錯了。答案是「吸血魔獸」喔
 下次請回答正確答案",,"틀렸습니다. 답은「묘티스몬」
 다음에는 맞춰주세요.","Negativ. Die Antwort ist „Myotismon“.
 Probier’s noch mal."
@@ -10461,57 +10454,58 @@ Probier’s noch mal."
 Fai un altro tentativo.",答錯了。答案是「23」喔。下次請回答正確答案,,"틀렸습니다. 답은「23」
 다음에는 맞춰주세요.","Negativ. Die Antwort ist „23“.
 Probier’s noch mal."
-26092,,"Sbagliato. La risposta è
-""Ootaku"". Riprovaci.","答錯了。答案是「大田區」喔
+26092,,"Sbagliato. La risposta è ""Ootaku"".
+Riprovaci.","答錯了。答案是「大田區」喔
 下次請回答正確答案",,"틀렸습니다. 답은「오타구」
 다음에는 맞춰주세요.","Negativ. Die Antwort ist „Ootaku“.
 Probier’s noch mal."
-26093,,"Sbagliato. La risposta è ""Il
-periodo Azuchi-Momoyama"". Riprova.","答錯了。答案是「安土桃山時代」喔
+26093,,"Sbagliato. La risposta è ""Il periodo Azuchi-Momoyama"".
+Riprova.","答錯了。答案是「安土桃山時代」喔
 下次請回答正確答案",,"틀렸습니다. 답은「아즈치 모모야마 시대」
 다음에는 맞춰주세요.","Negativ. Die Antwort ist „In der Azuchi-
 Momoyama-Periode“. Probier’s noch mal."
-26094,,"Sbagliato. La risposta è
-""Mammiferi"". Riprova.","答錯了。答案是「哺乳類」喔
+26094,,"Sbagliato. La risposta è ""Mammiferi"".
+Riprova.","答錯了。答案是「哺乳類」喔
 下次請回答正確答案",,"틀렸습니다. 답은「포유류」
 다음에는 맞춰주세요.","Negativ. Die Antwort ist „Säugetiere“.
 Probier’s noch mal."
-26095,,"Sbagliato.
-La risposta è ""Monte Fuji"". Riprova.","答錯了。答案是「富士山」喔
+26095,,"Sbagliato. La risposta è ""Monte Fuji"".
+Riprova.","答錯了。答案是「富士山」喔
 下次請回答正確答案",,"틀렸습니다. 답은「후지산」
 다음에는 맞춰주세요.","Negativ. Die Antwort ist „Fuji“.
 Probier’s noch mal."
-26096,,"Sbagliato.
-La risposta è ""Vitamine"". Riprova.","答錯了。答案是「維他命」喔
+26096,,"Sbagliato. La risposta è ""Vitamine"".
+Riprova.","答錯了。答案是「維他命」喔
 下次請回答正確答案",,"틀렸습니다. 답은「비타민」
 다음에는 맞춰주세요.","Negativ. Die Antwort ist „Vitamine“.
 Probier’s noch mal."
-26097,,"Sbagliato.
-La risposta è ""Parallelo"". Riprova.",答錯了。答案是「平行」喔。下次請回答正確答案,,"틀렸습니다. 답은「평행」
+26097,,"Sbagliato. La risposta è ""Parallelo"".
+Riprova.",答錯了。答案是「平行」喔。下次請回答正確答案,,"틀렸습니다. 답은「평행」
 다음에는 맞춰주세요.","Negativ. Die Antwort ist „Parallel“.
 Probier’s noch mal."
-26098,,"Sbagliato.
-È ""Tempo caldo all'inizio dell'inverno"". Riprova.","答錯了。答案是「初冬時節的溫暖氣候」喔
+26098,,"Sbagliato. È ""Tempo caldo all'inizio dell'inverno"".
+Riprova.","答錯了。答案是「初冬時節的溫暖氣候」喔
 下次請回答正確答案",,"틀렸습니다. 답은「초겨울 무렵의 따뜻한 기후」
 다음에는 맞춰주세요.","Negativ. Richtig ist „Warmes Wetter zu
 Winterbeginn“. Probier’s noch mal."
 26099,,"Sbagliato.
-La risposta è ""La Rivoluzione francese"". Riprovaci.","答錯了。答案是「法國大革命」喔
+La risposta è ""La Rivoluzione francese"".
+Riprovaci.","答錯了。答案是「法國大革命」喔
 下次請回答正確答案",,"틀렸습니다. 답은「프랑스 혁명」
 다음에는 맞춰주세요.","Negativ. Richtig ist „Die Französische
 Revolution“. Probier’s noch mal."
-26100,,"Sbagliato. La
-risposta è ""olandese"". Riprova.","答錯了。答案是「荷蘭人」喔
+26100,,"Sbagliato. La risposta è ""olandese"".
+Riprova.","答錯了。答案是「荷蘭人」喔
 下次請回答正確答案",,"틀렸습니다. 답은「네덜란드인」
 다음에는 맞춰주세요.","Negativ. Die Antwort ist
 „Niederländisch“. Probier’s noch mal."
-27001,,"Grazie per aver passato del tempo
-con me! Ti ho mandato un regalo!","謝謝你一直和我這麼要好！
+27001,,"Grazie per aver passato del tempo con me!
+Ti ho mandato un regalo!","謝謝你一直和我這麼要好！
 我送了一份禮物給你唷！",,"언제나 사이좋게 지내줘서 고마워!
 너에게 선물을 보냈어!","Danke, dass du Zeit mit mir verbringst!
 Ich habe dir ein Geschenk geschickt!"
-27002,,"Grazie per essere qui. Non è molto, ma
-ti ho mandato qualcosa. Dai un'occhiata.","雖然只是點小心意，我送給了你一些玩意兒
+27002,,"Grazie per essere qui. Non è molto,
+ma ti ho mandato qualcosa. Dai un'occhiata.","雖然只是點小心意，我送給了你一些玩意兒
 算是一直受你關照的回禮。收下吧",,"항상 신세를 진 사례다. 감사의 마음을 담아
 보내두었다. 받아둬.","Danke, dass es dich gibt. Ich habe dir
 was Kleines geschickt. Sieh es dir an."
@@ -10525,8 +10519,8 @@ per ringraziarti!","謝謝你一直以來的關照
 我送了東西給你，當作回禮囉",,"언제나 돌봐줘서 고마워.
 사례품을 보내뒀어.","Danke für alles! Ich habe dir zum Dank
 eine Kleinigkeit geschickt!"
-27005,,"Grazie per essere stato presente! Per
-dimostrarti la mia gratitudine, ti ho mandato un regalo.","感謝你一直以來的關照
+27005,,"Grazie per essere stato presente! Per dimostrarti
+la mia gratitudine, ti ho mandato un regalo.","感謝你一直以來的關照
 我懷著感謝的心意，送了禮物給你唷",,"항상 돌봐줘서 고마워.
 감사의 마음을 담아 선물을 보냈어.","Danke für deine Hilfe! Als Dankeschön
 habe ich dir ein Geschenk geschickt."
@@ -10595,13 +10589,13 @@ questo, Jimiken quello... è davvero così fantastico?","櫻最近老是嚷嚷�
 那傢伙有這麼好嗎？",,"사쿠라, 최근엔 지미켄지미켄거려서 시끄러워.
 그게 그렇게 좋은거야?","Sakura redet nur noch von diesem
 Jimiken ... Ist er wirklich so toll?"
-40013,,"Come stai? Ti stai ancora
-riprendendo, quindi non sforzarti troppo.","你好嗎？　你才大病初癒
+40013,,"Come stai? Ti stai ancora riprendendo,
+quindi non sforzarti troppo.","你好嗎？　你才大病初癒
 可別太逞強唷",,"잘 지내? 아직 환자니까
 너무 무리는 하지 말도록 해.","Wie geht’s dir? Du musst dich noch
 erholen, also übernimm dich nicht."
-40014,,"Dovresti dare un'occhiata alla musica di
-Jimiken! Oh, Jimiken... perché sei così figo?","吉米肯的音樂是絕對值得一聽的！
+40014,,"Dovresti dare un'occhiata alla musica di Jimiken!
+Oh, Jimiken... perché sei così figo?","吉米肯的音樂是絕對值得一聽的！
 啊啊，吉米肯大人……您為何如此有魅力呢？",,"지미켄의 음악은 꼭 들어봐야 해!
 아아, 지미켄님…어째서 그렇게 멋진거지?","Du solltest dir Jimikens Musik anhören!
 Oh Jimiken ... Warum bist du so toll?"
@@ -10615,8 +10609,8 @@ scuola. Hai idea del perché?","聽我說啊，昨天櫻上學的時候
 難得遲到了。你知道為什麼嗎？",,"들어봐, 어제 드물게도 사쿠라가 학교에
 지각했어. 왜 그런지 알아?","Gestern kam Sakura auf einmal zu spät
 zur Schule. Hast du eine Ahnung, wieso?"
-40017,,"PER SEMPRE giuro sul tuo sguardo sincero. Mio unico
-amore, il MIO CUORE impazzito di dolore!","我對你認真的eyes發誓　FOREVER
+40017,,"PER SEMPRE giuro sul tuo sguardo sincero.
+Mio unico amore, il MIO CUORE impazzito di dolore!","我對你認真的eyes發誓　FOREVER
 我所愛的只有你　痛苦得幾乎發狂的MY HEART",,"너의 진지한 아이즈에 맹세한다구 FOREVER
 사랑스러운 건 너 뿐 미칠 것 같은 아픔 MY HEART","EWIG verfalle ich deinem ernsten Blick.
 Meine Liebe, MEIN HERZ voller Schmerz!"
@@ -10709,8 +10703,8 @@ sono orfani... Sono contento che viviamo in tempo di pace.","今天採訪的孩�
 會覺得和平很理所當然，是一件值得感恩的事",,"어제 취재한 아이들은 부모가 없는 아이들 뿐이었어.
 평화가 당연하게 느껴지는 것은 감사한 일이야.","Die meisten Kinder heute waren Waisen.
 Zum Glück leben wir in Friedenszeiten."
-40037,,"Che succede con Nokia e quei
-ribelli? Fanno quello che gli pare e piace.","諾奇雅那傢伙，什麼「反叛者」的
+40037,,"Che succede con Nokia e quei ribelli?
+Fanno quello che gli pare e piace.","諾奇雅那傢伙，什麼「反叛者」的
 盡說些任性的話，得意忘形……",,"노키아 자식, 뭐가 리벨리온즈야.
 제멋대로 말해대고 오버하며 들뜨다니…","Was ist mit Nokia und den Rebels los?
 Die machen einfach, was sie wollen."
@@ -10734,13 +10728,13 @@ Galacta Park. O ci siamo o siamo onesti!","總之！　集合所有反叛者的�
 我在破銅爛鐵公園等你，一定要來喔！",,"어쨌든! 리벨리온즈의 멤버를 모으는거다!
 잡동사니 공원에서 만나자! 꼭 오는거다!","Wir versammeln die Rebels im Galacta-
 Park. Wer nicht kommt, hat Pech gehabt!"
-40042,,"Fammi sapere se hai difficoltà a
-indagare. Ti aiuterò dove posso!","你如果在調查過程遭遇困難，跟我說一聲吧
+40042,,"Fammi sapere se hai difficoltà a indagare.
+Ti aiuterò dove posso!","你如果在調查過程遭遇困難，跟我說一聲吧
 我想盡可能地助你一臂之力",,"너도 조사같은걸로 난처한 일이 있으면 말해.
 최대한 힘이 되어줄 생각이야.","Melde dich, wenn du bei den Ermittlungen
 Probleme hast. Ich helfe, wo ich kann!"
-40043,,"Qualunque cosa tu faccia, dai tutto quello che hai! È
-così che sono diventato giornalista, capisci?","無論做任何事，都要全力以赴，勇往直前！
+40043,,"Qualunque cosa tu faccia, dai tutto quello che hai!
+È così che sono diventato giornalista, capisci?","無論做任何事，都要全力以赴，勇往直前！
 因為我也是這樣實現自己成為記者的夢想",,"무슨일을 하든 전력으로, 정면으로 맞붙어!
 나도 그렇게 해서 저널리스트가 된다는 꿈을 이루었으니까.","Was du auch tust, gib alles! So bin ich
 nämlich Journalistin geworden."
@@ -10819,8 +10813,8 @@ Nessun problema, ma non trascurare i clienti.","你好像在幫忙朋友的樣�
 雖然是沒關係，但可別忽略其他的委託",,"친구에게 협력하는 모양이군.
 그건 상관없지만 다른 의뢰를 소홀히 하지는 말도록.","Du hilfst also deinen Freunden? Schon
 okay, aber vergiss die Klienten nicht."
-40059,,"Hai ricevuto un messaggio criptato
-da Matayoshi? Te l'ha inviato per errore.","你之前有沒有收到又吉叔傳來的暗號訊息？
+40059,,"Hai ricevuto un messaggio criptato da Matayoshi?
+Te l'ha inviato per errore.","你之前有沒有收到又吉叔傳來的暗號訊息？
 他說是不小心誤傳給你的",,"얼마 전, 마타요시씨에게서 암호 메시지가 오지 않았나?
 너한테 잘못 보냈다고 그러더군.","Hat dir Matayoshi eine verschlüsselte
 Nachricht geschickt? War ein Versehen."
@@ -10834,21 +10828,21 @@ incomparabile a quella del Giappone. Guardate!","我在這個國家看到的月�
 是在日本看時所無法比擬的。我拍成照片囉",,"이 나라에서는 달이나 별이 일본과는 비교가 되지 않을
 만큼 아름답게 보여. 사진 찍어서 보내줄게.","Die Schönheit von Mond und Sternen hier
 ist mit Japan nicht zu vergleichen!"
-40062,,"Lascia fare a me. Anche tu dovresti
-fare la tua parte!",這裡交給我，你也好好幹啊！,,이쪽은 맡겨둬. 댁도 힘내라구!,"Überlass das mir. Kümmere dich besser um
+40062,,"Lascia fare a me.
+Anche tu dovresti fare la tua parte!",這裡交給我，你也好好幹啊！,,이쪽은 맡겨둬. 댁도 힘내라구!,"Überlass das mir. Kümmere dich besser um
 deine Aufgaben!"
-40063,,"Accidenti Arata, non andartene da solo! Gli
-farò una bella lavata di capo quando lo troveremo!","新那傢伙……都說別一個人擅自決定行動了！
+40063,,"Accidenti Arata, non andartene da solo!
+Gli farò una bella lavata di capo quando lo troveremo!","新那傢伙……都說別一個人擅自決定行動了！
 找到那傢伙後，我一定要對他說教一番！",,"아라타 자식… 혼자서 멋대로 정하고 행동하지 말라고!
 그 녀석, 찾아내면 설교해주겠어!","Verdammt, Arata, geh nicht alleine los!
 Der kriegt von mir noch was zu hören!"
-40064,,"Arata e Kyoko sono una preoccupazione. Ma
-non scoraggiarti, vedrò cosa posso trovare.","你很擔心新先生和杏子姊吧。
+40064,,"Arata e Kyoko sono una preoccupazione.
+Ma non scoraggiarti, vedrò cosa posso trovare.","你很擔心新先生和杏子姊吧。
 別太消沉了，我也會去探探消息。",,"아라타 씨도 쿄코 씨도 걱정이군요. 하지만 너무
 낙담하진 말아주세요. 저도 정보를 찾아보겠습니다.","Arata und Kyoko sind ein Problem. Aber
 keine Sorge, ich kümmere mich darum."
-40065,,"Ogni tanto bisogna fare una pausa. Per me,
-una veloce pausa gelato è la soluzione!","我覺得偶爾喘口氣也是必要的
+40065,,"Ogni tanto bisogna fare una pausa.
+Per me, una veloce pausa gelato è la soluzione!","我覺得偶爾喘口氣也是必要的
 我只要吃下甜甜的奶油鯛魚燒，就會恢復精神",,"가끔은 휴식도 필요하다고 생각합니다.
 저는 달콤한 크림 붕어빵을 먹으면 기운이 납니다.","Eine Pause muss sein. Für mich geht das
 am besten mit einem schönen Eis!"
@@ -10895,8 +10889,8 @@ Zeitpunkt, um über mich nachzudenken."
 40074,,"Ci vediamo, prenditi cura di Nokia e di
 tutti gli altri da parte mia.",再見，諾奇雅她們就拜託你了,,"그럼 이만, 노키아네를 잘 부탁해.","Mach’s gut und pass für mich auf Nokia
 und die anderen auf."
-40075,,"Domani la scuola chiude per
-un po'. Sarà noioso stare da solo.","聽說從明天開始，我們學校也要暫時封鎖了。雖然
+40075,,"Domani la scuola chiude per un po'.
+Sarà noioso stare da solo.","聽說從明天開始，我們學校也要暫時封鎖了。雖然
 這種情況下是無可奈何，但見不到大家好無聊啊……",,"내일부터 우리 학교도 일시 폐쇄한대. 이런 상황이니
 어쩔 수 없지만 모두랑 만날 수 없게 된 것은 아쉽네…","Morgen wird die Schule für eine Weile
 geschlossen. Das wird langweilig allein."
@@ -11061,8 +11055,8 @@ sicher nicht leicht, sich da zu treffen."
 42012,,"Ti piace Jimiken, Ryota?",良太不喜歡吉米肯嗎？,,료타는 지미켄을 좋아하지 않는거야?,"Magst du Jimiken, Ryota?"
 41013,,Sto benissimo!,我非常好喔！,,완전 건강하다구!,Mit mir ist alles in Ordnung!
 42013,,"Non impegnarti troppo, mamma.",媽媽工作時也別太逞強喔,,엄마도 일때문에 무리하지는 마.,"Arbeite du auch nicht zu viel, Mama."
-41014,,"Sembra che tu sia piuttosto
-infatuato... Jimiken è così bravo?","看妳非常著迷的樣子
+41014,,"Sembra che tu sia piuttosto infatuato...
+Jimiken è così bravo?","看妳非常著迷的樣子
 吉米肯真的那麼吸引人嗎？",,"완전히 빠져든 모양이네.
 지미켄이 그렇게 좋아?","Du scheinst echt verknallt zu sein ...
 Ist Jimiken wirklich so gut?"
@@ -11342,13 +11336,13 @@ spaventoso, ma forse dovrei cercarli?","也是呢～唔……雖然有點害怕
 還是應該鼓起勇氣去找它們對吧？",,"그렇겠지. 으으… 조금 무섭기도 하지만
 과감하게 찾으러 가야 할까?","Ja ... Ich weiß, es ist unheimlich, aber
 vielleicht sollte ich nach ihnen sehen?"
-53009,,"Mmm... sì, non posso fare a meno di
-pensare a quei due.","唔……說的也是呢～
+53009,,"Mmm... sì,
+non posso fare a meno di pensare a quei due.","唔……說的也是呢～
 但總覺得它們很令人在意吶",,"으으… 그렇겠지.
 그렇지만 어쩐지 신경쓰인단 말야. 그 애들.","Hm, ja ... Ich muss einfach an die
 beiden denken."
-51010,,"Sì. Ti farò sapere quando
-avrò notizie. Più tardi.",嗯，我如果掌握什麼消息，也會聯絡你。回頭見,,아아. 나도 뭔가 단서를 잡으면 연락할게. 그럼.,"Ja. Ich melde mich bei dir, wenn ich
+51010,,"Sì. Ti farò sapere quando avrò notizie.
+Più tardi.",嗯，我如果掌握什麼消息，也會聯絡你。回頭見,,아아. 나도 뭔가 단서를 잡으면 연락할게. 그럼.,"Ja. Ich melde mich bei dir, wenn ich
 etwas höre. Bis später."
 52010,,"...Chi lo sa? I ragazzi hanno bisogno di un po' di
 mistero se vogliono apparire fighi, giusto? Ahah.","……你說呢？　你不覺得男人應該帶點神祕
@@ -11360,8 +11354,8 @@ provarci, ma il testo era troppo fastidioso.","對吧！？　因為櫻一直推
 但歌詞實在很煩人，我受不了這種曲子～",,"그렇지!? 사쿠라가 하도 권유해서 들어봤는데
 가사가 짜증난다고 해야할지 그런건 나한텐 무리야.","Nicht wahr?! Sakura wollte, dass ich mal
 reinhöre, aber die Texte waren schlimm."
-52012,,"Non mi piace per niente! A dire il
-vero, non capisco nemmeno cosa ci trovi Sakura.","我超討厭的～！
+52012,,"Non mi piace per niente! A dire il vero,
+non capisco nemmeno cosa ci trovi Sakura.","我超討厭的～！
 櫻竟然喜歡那種人，真讓人搞不懂！",,"저언혀 좋아하지 않아!
 그런것이 좋다니 사쿠라도 이해할 수 없어!","Gefällt mir gar nicht! Ganz ehrlich,
 ich weiß nicht, was Sakura daran findet."
@@ -11370,8 +11364,8 @@ hai qualche problema.","那太好了
 如果遇到什麼困難，記得聯絡我唷",,"그렇다니 다행이야.
 뭔가 난처한 일이 있으면 연락해.","Das ist gut. Sag Bescheid, wenn du
 irgendwelche Probleme hast."
-52013,,"Cosa, eri preoccupato
-per me? Lo apprezzo!",怎麼，你在擔心我呀？　謝謝囉！,,"오호, 내 걱정을 해주는거니? 고마워!","Was, hast du dir etwa Sorgen gemacht?
+52013,,"Cosa, eri preoccupato per me?
+Lo apprezzo!",怎麼，你在擔心我呀？　謝謝囉！,,"오호, 내 걱정을 해주는거니? 고마워!","Was, hast du dir etwa Sorgen gemacht?
 Das weiß ich zu schätzen!"
 51014,,"Certo! Se non ti piace Jimiken,
 di cosa parleremo a scuola?","那當然！　你也是，如果沒有迷上吉米肯
@@ -11478,8 +11472,8 @@ colazione. Immagino di non poterti sgridare...","今天一早就上工，所以�
 這樣我也沒有立場對你說教了呢",,"오늘은 아침에 바빠서 아침밥도 못먹었어.
 이래선 너한테 잔소리도 못하겠는걸.","Heute ging es früh los, ich hatte kein
 Frühstück. Da kann ich nicht schimpfen."
-51032,,"Voglio dire... va bene... Tienilo
-segreto agli altri, ok?","沒、沒什麼關係吧……
+51032,,"Voglio dire... va bene...
+Tienilo segreto agli altri, ok?","沒、沒什麼關係吧……
 我說你，絕對要向其他傢伙保密啊！！",,"벼, 별로 상관없잖아 딱히…
 너말야, 그거 다른 놈들한텐 절대 비밀이다!!","Ich meine ... egal ... Behalte das
 einfach für dich, okay?"
@@ -11843,8 +11837,8 @@ stia succedendo, ma non ti abbandonerò.","可以的。因為你是媽媽引以�
 雖然不知道發生了什麼，但不可以捨棄朋友喔",,"할 수 있어. 너는 엄마의 자랑스러운 아이니까.
 무슨 일이 있었는지는 모르겠지만 내버려두면 안 돼.","Ich hab dich so lieb! Was auch passiert,
 ich lass dich nicht allein."
-52095,,"Sì. Non sono qui per prendermi cura di te, ma
-sono felice di come sei cresciuto.","嗯，雖然無法經常照顧你，但你成長得
+52095,,"Sì. Non sono qui per prendermi cura di te,
+ma sono felice di come sei cresciuto.","嗯，雖然無法經常照顧你，但你成長得
 如此優秀……媽媽好開心",,"응. 너를 그다지 잘 돌봐주지 못했는데도
 올바르게 자라줘서… 엄마는 기뻐.","Ja. Ich kann mich nicht um dich kümmern,
 aber ich bin stolz auf dich."
