@@ -23,8 +23,9 @@ Sembra che siano diventati piuttosto intimi.","然後好像跟一個在那裡認
 …굉장히 친한 것 같아서","Und dann ist da dieses Mädchen namens Athena,
 das er dort kennengelernt hat. Sie scheinen
 sich nahegekommen zu sein."
-104,2001,,"Uno straniero? Questo è preoccupante.
-Come mai ne sai così tanto a riguardo?","外國人？
+104,2001,,"Uno straniero?
+Questo è preoccupante.
+Come fai a sapere tutto questo?","外國人？
 真令人擔心呢。
 為什麼您會知道得這麼詳細？",,"외국인?
 걱정이네요
@@ -93,15 +94,14 @@ adora gli hamburger e i suoi colori preferiti sono il verde e il bianco.","他�
 좋아하는 음식은 햄버그, 좋아하는 색은 녹색과 흰색","Am liebsten spielt und schläft er. Er hat ein
 gutes Gedächtnis, er mag Hamburger und seine
 Lieblingsfarben sind Grün und Weiß."
-114,4046,,"Il suo punto di forza è che è onesto,
-il suo punto debole è che è molto timido.
+114,4046,,"La sua forza è l'onestà e la sua debolezza è la timidezza.
 Sembra un auto-proclamato ""abitante del seminterrato,"" come dicono tutti.","優點是個性認真，缺點是相當怕生。
 他好像到處跟人家說自己是什麼「自宅警備員」。",,"장점은 성실하다는 것이며, 단점은 낯가림이 심한 것
 자칭 자택경비원! 이라고 모두에게 불리는 듯해요","Seine Stärke ist Ehrlichkeit und Schüchternheit
 seine Schwäche. Er selbst bezeichnet sich als
 „Kellerkind“, wie es so schön heißt."
 115,4046,,"Pensi che questo ti basterà?
-Beh, comunque, per favore indaga su questa Miss Athena.","大概就是這樣子，應該沒問題了吧？
+Beh, comunque, per favore indaga su questa Athena.","大概就是這樣子，應該沒問題了吧？
 那就麻煩你調查雅典娜小姐了。",,"……이런 느낌으로 괜찮을까요?
 그럼 아테나 씨의 조사를 부탁드립니다","Meinst du, dass das genügt?
 Bitte stelle Nachforschungen zu Athena an."
@@ -215,9 +215,9 @@ Oh, quella del gioco musicale, giusto?","喔，妳是說足球遊戲吧！
 喔，妳是說節奏遊戲吧！",,"아아, 축구 게임 이야기구나!
 아아, 리듬 게임 이야기구나!","Ach, die über das Fussballspiel, richtig?
 Ach, die über das Musikspiel, richtig?"
-260,4047,,"Huh...? Eh, no, non quello. Intendo quello riguardante
-la competizione picchiaduro. Hai detto che hai usato il personaggio più debole,
-ma hai comunque vinto...","咦……？不是啦，是格鬥遊戲大賽才對吧。
+260,4047,,"Huh...? Eh, no, non quello. Intendo quello riguardante la
+competizione picchiaduro. Hai detto che hai usato il
+personaggio più debole, ma hai comunque vinto...","咦……？不是啦，是格鬥遊戲大賽才對吧。
 你用最弱的角色，結果還稱霸地區大賽……",,"뭐…? 아니야, 격투 게임 대회 이야기잖아
 최약체 캐릭터를 썼는데도 지구대회 우승했다고…","Was? Äh, nee, nicht die. Ich meinte die über den
 Prügelspiel-Wettbewerb. Du meintest, du hättest
@@ -283,8 +283,8 @@ nicht wahr?"
 giapponese?",我記得你不是說比較偏好西餐，而且很怕吃魚嗎？,,하지만 일식보다 양식 파라서 생선은 안 좋아하지 않았던가?,"Ich dachte, du magst westliches Essen lieber als
 japanisches?"
 275,4047,,...,…………,,…………,...
-276,4047,,"Esatto.
-Hai detto chiaramente che ti piacciono gli hamburger.","嗯，答對了。
+276,4047,,"Esatto. Hai detto chiaramente che
+ti piacciono gli hamburger.","嗯，答對了。
 你之前說過你喜歡吃漢堡排。",,"그렇네, 정답
 나오야는 햄버그를 좋아한다고 했었어","Stimmt. Du hast auf jeden Fall erwähnt, dass du
 Hamburger magst."
@@ -296,7 +296,8 @@ Questa è una cosa che ti chiedo sempre.","那我要出最後一道問題了，
 내가 언제나 너한테 들었던 얘기야","... Also gut, letzte Frage.
 Etwas, was ich dich ständig frage."
 280,4047,,Naoya... Ti piaccio?,直也，你……喜歡我嗎？,,"나오야, 나를… 좋아해?",Naoya ... Magst du mich?
-281,2001,,"Non proprio... Certo!
+281,2001,,"Non proprio...
+Certo!
 Ti amo, sei la mia ragazza!","沒有啊……
 那還用說，當然喜歡囉。
 我愛死妳了，甜心！",,"그닥…
@@ -309,7 +310,7 @@ Lui è molto più onesto di così.","這樣啊，你以為用疏遠的語氣說�
 你跟那個認真老實的本人可差遠了……",,"그래. 그렇게 말해서 내치는 게 나오야라고 생각하는 거구나
 성실하고 진지한 본인과는 엄청 다르네…","Aha. So was sagt Naoya eigentlich nicht.
 Er ist viel ehrlicher."
-283,4047,,"...È proprio da maschio dire una cosa del genere.
+283,4047,,"...Solo un ragazzo direbbe una cosa del genere.
 Sei decisamente Naoya...",今天的你講話好有男子氣概喔……,,"……남자다운 말을 하는구나
 오늘의 나오야는…","... So was sagt nur ein Junge.
 Du bist auf jeden Fall Naoya ..."
@@ -343,8 +344,8 @@ usando l'account di Naoya, vero!?","你……既然會來到這裡，
 就表示你是剛剛盜用直也帳號的人吧。",,"너… 여기 왔다는 건
 아까 나오야의 계정을 사용한 녀석이구나","Du ... Du hast doch gerade eben noch Naoyas
 Account benutzt, oder?!"
-401,1747,,"Povero Naoya...
-Farsi ingannare da un bugiardo come te e farsi rubare l'account...","直也好可憐……
+401,1747,,"Povero Naoya... Farsi ingannare da un bugiardo
+come te e farsi rubare l'account...","直也好可憐……
 居然會被你這種騙子亂盜用帳號。",,"나오야가 불쌍해…
 너처럼 거짓말하는 인간에게
 멋대로 계정을 이용당하다니","Der arme Naoya ...
@@ -392,8 +393,8 @@ Volevo solo venire qui e ascoltare le storie di Naoya.","在你來之前，我�
 들어주고 싶었던 것 뿐이었는데…!","Bevor du kamst, habe ich nie jemandem wehgetan.
 Ich wollte nur herkommen und Naoyas
 Geschichten zuhören."
-454,1747,,"Quindi è così.... Ti è stato chiesto di venire qui dalla madre di Naoya
-e fingere di essere lui.","原來……是這樣。
+454,1747,,"Quindi è così.... Ti è stato chiesto di venire qui
+dalla madre di Naoya e fingere di essere lui.","原來……是這樣。
 是直也的母親拜託你裝成直也的。",,"그랬…구나
 너는 나오야의 어머니에게 의뢰를 받아서
 나오야인 척 한 거구나","Das ist es also ...
@@ -408,7 +409,7 @@ Ha smesso di andarci e si è completamente immerso nel sito di chat.","直也他
 Also ist er nicht mehr hingegangen und hat seine
 ganze Zeit im Chat verbracht."
 456,1747,,"Ero interessato al sito e sono venuto a vivere qui.
-Quando ho incontrato Naoya, mi sono fatto sembrare gli altri personaggi
+Quando ho incontrato Naoya, ho adattato il mio aspetto ad altri personaggi
 qui e abbiamo iniziato a chattare.","然後他遇見了
 對網聊有興趣而定居在這個網站的我。
 我化成跟其他角色一樣的外型和直也聊天。",,"거기서 만난 게
@@ -525,9 +526,8 @@ Davvero? Ma in fondo è una brava persona, giusto?","唉呀，是這樣嗎？
 但她的本性一定很溫柔。",,"어머, 그런가요?
 하지만 분명 마음속은 상냥한 분일 거예요","Was? Wirklich?
 Aber eigentlich ist sie doch nett, nicht wahr?"
-559,4046,,"Sembra essere una persona che si preoccupa molto di Naoya,
-il che è un bene.
-Mi sento davvero male per aver dubitato delle sue intenzioni...","太好了，有一個為那孩子著想的人。
+559,4046,,"Sembra essere una persona che si preoccupa molto di Naoya, il che
+è un bene. Mi sento davvero male per aver dubitato delle sue intenzioni...","太好了，有一個為那孩子著想的人。
 我還懷疑她是不是想騙直也，
 真是對她過意不去。",,"그 아이를 소중히 생각해주는 사람이 있어서 다행이에요
 나오야를 속이려 한다고 의심해서
