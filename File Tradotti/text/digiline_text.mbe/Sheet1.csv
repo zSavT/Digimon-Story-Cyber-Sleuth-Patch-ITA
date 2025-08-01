@@ -253,8 +253,8 @@ semaforo verde"", perché non ci giochiamo qualche volta?","同伴們教了我�
 有時間的話，我們一起玩吧？",,"동료에게「무궁화 꽃이 피었습니다」라는 놀이를 
 배웠는데 시간이 있다면 같이 해보지 않겠나?","Habe gerade das Spiel „Ochs am Berg“
 gelernt. Wollen wir es mal spielen?"
-1220,,"Sapevi che c'è una breve ferrovia
-su quest'isola? C'era anche un treno?","你知道這座島上有短途鐵軌嗎
+1220,,"Sapevi che c'è una breve ferrovia su quest'isola?
+C'era anche un treno?","你知道這座島上有短途鐵軌嗎
 在遠古之前，這裡曾有電車運行嗎……？",,"이 섬에 짧은 선로가 있다는 것을 알고 있나?
 먼 옛날엔 이곳에 열차가 다녔던 걸까…?","Wusstest du, dass es auf der Insel eine
 Bahnstrecke gibt? Gab’s mal einen Zug?"
@@ -293,8 +293,8 @@ Alcuni gareggiano a modo loro, eh?","數碼松數碼衛門的數碼歌舞伎，�
 即使同為數碼寶貝，也有以其他方式戰鬥的傢伙啊",,"디지마츠 디지에몽의 디지가부키가 유행하고 있다던데.
 디지몬도 다른 측면에서 싸우는 녀석이 있군.","Digimon-Kabuki scheint angesagt
 zu sein. Jedem sein Steckenpferd, was?"
-1230,,"Ehi, la verità è che non ho ancora rotto il
-ghiaccio con questi ragazzi. Hai qualche idea?","你願意聽我說嗎？　其實，我和大家還是有隔閡
+1230,,"Ehi, la verità è che non ho ancora rotto il ghiaccio
+con questi ragazzi. Hai qualche idea?","你願意聽我說嗎？　其實，我和大家還是有隔閡
 雖然我想和大家更親密地交流……該怎麼做呢",,"들어보겠나? 실은 아직 모두와 마음을 터놓지 못해서
 더 친하게 대화하고 싶다곤 생각하지만…어떻게 해야 할지.","Hey, ich bin mit den anderen hier noch
 nicht warm geworden. Vorschläge?"
@@ -856,11 +856,10 @@ ce la puoi fare, solo un po' di più!","在農場島進行訓練，變得更強�
 你的話肯定能做到，再加把勁吧！",,"팜에서 트레이닝해서 더 강해졌으면 해
 너라면 할 수 있을테니 좀 더 힘내자!","Das Training auf der Farm stärkt dich!
 Du schaffst es, nur noch ein bisschen!"
-1703,,"Ah, chissà che tipo di
-sogno era...",有趣的夢？　是什麼呢？真令人好奇,,재미있는 꿈? 뭘까? 궁금하네.,"Hm, ich frage mich, was für ein Traum
+1703,,"Ah, chissà che tipo di sogno era...",有趣的夢？　是什麼呢？真令人好奇,,재미있는 꿈? 뭘까? 궁금하네.,"Hm, ich frage mich, was für ein Traum
 das war ..."
-1704,,"Ti sei svegliato presto? Fantastico! Dovresti
-continuare così anche domani.","早起？　很厲害呀！
+1704,,"Ti sei svegliato presto? Fantastico!
+Dovresti continuare così anche domani.","早起？　很厲害呀！
 趁著這股氣勢，明天也早點起床吧",,"일찍 일어났어? 굉장하네!
 이 기세로 내일도 일찍 일어나자.","Du bist früh aufgestanden? Sehr gut!
 Mach morgen weiter so!"
@@ -3302,8 +3301,8 @@ spettrale che hai inseguito la prima volta a Kowloon?","問答題！　你第一
 跑去找幽靈的是誰？",,"퀴즈! 네가 처음 쿠롱에 갔을 때
 유령 비슷한 걸 쫓아가던 건 누구였지?","Quizzeit! Wer war die Geistergestalt,
 die du zuerst in Kowloon verfolgt hast?"
-4066,,"È ora del quiz! Il Digimon che ha
-chiamato Nokia a Kowloon era Agumon e chi?","問答題！　在Kowloon向諾奇雅搭話的
+4066,,"È ora del quiz! Il Digimon che ha chiamato Nokia
+a Kowloon era Agumon e chi?","問答題！　在Kowloon向諾奇雅搭話的
 數碼寶貝是亞古獸和誰？",,"퀴즈! 쿠롱에서 노키아에게 말을 건
 디지몬은 아구몬과 누구였을까?","Quizzeit! Die Digimon, die in Kowloon
 nach Nokia riefen, waren Agumon und ...?"
@@ -10748,8 +10747,8 @@ se la gentile signora mi offre qualcosa da mangiare?","說起來之前的事，�
 改天姊姊我可以請你吃一頓飯唷～",,"그러고보니 지난번 사건의 보답이 아직이었지!
 다음번에 이 누님이 밥을 쏴줘도 되겠지?","Ihr schuldet mir noch was! Die nette
 Dame könnte mir was zu essen machen!"
-40046,,"I Ribelli stanno aumentando costantemente il loro grado, ma
-avranno bisogno di più uomini per combattere gli hacker!","反叛者的成員在逐漸增加！
+40046,,"l Ribelli sono sempre più numerosi, ma non hanno
+scampo contro gli hacker!","反叛者的成員在逐漸增加！
 但要對抗駭客，還需要召集更多人！",,"리벨리온즈, 차근차근 멤버가 늘고 있구나!
 하지만 해커에게 대항하려면 더 인원을 모아야해!","Die Rebels werden immer mehr, aber sie
 haben keine Chance gegen Hacker!"
@@ -11141,29 +11140,27 @@ etwas erleichtert."
 di guarigione.",妳才大病初癒，可別太逞強了喔,,병상에서 막 일어난 참이니 너무 무리하지 마.,"Überanstreng dich nicht, wenn du dich
 noch erholen musst."
 42048,,Bene! Anche Ryota sarà felice.,太好了！　良太也很高興喔,,잘됐다! 료타도 기뻐할거야.,Gut! Ryota wird auch froh sein.
-41049,,"Cammino per la città nel mio tempo
-libero.",我正在鎮上閒晃,,한가해서 거리에서 어슬렁대고 있어요.,"In meiner Freizeit wandere ich durch die
+41049,,"Cammino per la città nel mio tempo libero.",我正在鎮上閒晃,,한가해서 거리에서 어슬렁대고 있어요.,"In meiner Freizeit wandere ich durch die
 Stadt."
 42049,,Non sono esattamente libero in questo momento...,我、我沒空喔……？,,"하, 한가하지 않은데요…?",Ich habe gerade nicht viel Zeit ...
 41050,,Davvero? Fantastico!,真的？　太好了！,,정말? 야호!,Wirklich? Toll!
-42050,,"Hai dimenticato cosa mi
-piace? Non va bene...",……媽媽真的記得我喜歡什麼口味？　有點擔心呢,,"…엄마, 취향 제대로 기억하고 있어? 걱정되네.","Hast du vergessen, was ich mag?
+42050,,"Hai dimenticato cosa mi piace?
+Non va bene...",……媽媽真的記得我喜歡什麼口味？　有點擔心呢,,"…엄마, 취향 제대로 기억하고 있어? 걱정되네.","Hast du vergessen, was ich mag?
 Das ist nicht gut ..."
 41052,,È vero? Esatto!,這樣啊！　太好了呢！,,그랬구나! 잘됐네!,Stimmt das? Das stimmt!
 42052,,Wow... E poi cosa è successo?,哦……之後怎麼樣了？,,헤에…그러고나서 어떻게 됐어?,Wow ... Und was ist dann passiert?
-41053,,"Quando pensi che tornerai in
-Giappone?",妳大概什麼時候能回日本啊？,,언제쯤 일본에 돌아올 것 같아?,"Was denkst du, wann du wieder nach Japan
+41053,,"Quando pensi che tornerai in Giappone?",妳大概什麼時候能回日本啊？,,언제쯤 일본에 돌아올 것 같아?,"Was denkst du, wann du wieder nach Japan
 kommst?"
 42053,,Vuoi tornare presto?,想早一點回來嗎？,,빨리 이쪽으로 돌아오고 싶어?,Möchtest du bald wiederkommen?
 41054,,"Beh, non sforzarti troppo.",希望你們不要太逞強了,,너무 무리하지 말아줘.,"Tja, überanstreng dich nicht."
 41055,,Uh... Non è così bello...,咦……又不好吃,,으음… 맛있지 않은데.,Äh ... Geht so ...
 42055,,"Eh!? Bene, va bene...",咦！？　……好的，我知道了,,"예!? …네, 알겠습니다.","Was?! Ähm, na gut ..."
-41057,,"Onestamente non ho idea di cosa
-tu stia cercando di dire.",這是什麼訊息，我完全不懂,,무슨 메시지인지 전혀 모르겠어요.,"Ganz ehrlich, ich habe keine Ahnung,
+41057,,"Onestamente non ho idea di cosa tu stia
+cercando di dire.",這是什麼訊息，我完全不懂,,무슨 메시지인지 전혀 모르겠어요.,"Ganz ehrlich, ich habe keine Ahnung,
 worauf du hinauswillst."
 42057,,"Va bene, ho capito.",我懂你的意思了,,"의미, 알아냈어요.","Alles klar, verstehe."
-43057,,"Non ho potuto controllare il
-messaggio, quindi non l'ho letto.",我沒有仔細確認訊息，所以還沒看,,"메시지를 제대로 확인할 수 없어서
+43057,,"Non ho potuto controllare il messaggio,
+quindi non l'ho letto.",我沒有仔細確認訊息，所以還沒看,,"메시지를 제대로 확인할 수 없어서
 읽지 않았습니다.","Ich konnte die Nachricht nicht abrufen,
 also habe ich sie auch nicht gelesen."
 41058,,"Bene, capito!",知道了，了解！,,"알겠습니다, 이해했어요!","Alles klar, verstanden!"
@@ -11174,8 +11171,7 @@ Non sono riuscito a leggerlo.","那訊息寫了些什麼？
 Ich konnte es nicht lesen."
 42059,,Che cifra semplice era quella!,很簡單的暗號呢,,간단한 암호였었죠.,Das war aber eine einfache Chiffre.
 41060,,"Quindi, qual è stato il risultato?",然後呢？結果如何？,,그래서 결과가 어떻게 됐어?,"Und, was war das Ergebnis?"
-42060,,"Ad ogni modo, hai corso a metà
-strada, giusto?",反正你肯定中途逃走了吧？,,어차피 도중에 도망쳤겠지?,"Jedenfalls bist du den halben Weg
+42060,,"Ad ogni modo, hai corso a metà strada, giusto?",反正你肯定中途逃走了吧？,,어차피 도중에 도망쳤겠지?,"Jedenfalls bist du den halben Weg
 gerannt, oder?"
 41061,,"Wow, davvero? Voglio sbrigarmi a darci
 un'occhiata.",哦，這樣啊，好想快點看見呢,,헤에 그랬구나. 빨리 보고싶다.,"Wow, echt? Das will ich mir schnell
@@ -11192,8 +11188,7 @@ Non me l'aspettavo.",妳喜歡甜食？　感覺有點意外呢,,단걸 좋아�
 erwartet."
 41066,,"Capito. Fai attenzione anche tu, Makiko!",我明白了，真希子姊也小心點！,,알겠습니다. 마키코 씨도 조심하세요!,"Verstanden. Sei du auch vorsichtig,
 Makiko!"
-41067,,"Qui stiamo
-bene! E là?",我這裡不要緊！　你那裡呢？,,이쪽은 괜찮아! 그쪽은?,"Hier ist alles gut! Wie sieht es da
+41067,,"Qui stiamo bene! E là?",我這裡不要緊！　你那裡呢？,,이쪽은 괜찮아! 그쪽은?,"Hier ist alles gut! Wie sieht es da
 drüben aus?"
 41068,,"Grazie. Se c'è qualcosa che puoi fare,
 te lo farò sapere.","謝謝
@@ -11206,8 +11201,8 @@ ich dir Bescheid."
 quando esco?",妳要外出的時候，需要我陪妳嗎？,,외출할 때 따라갈까?,"Soll ich dich mitnehmen, wenn ich
 ausgehe?"
 42070,,Perché non chiedi a Ryota?,拜託良太看看呢？,,료타에게 의지해보는건 어때?,Warum fragst du nicht Ryota?
-41071,,"Non è così male come pensi,
-mamma, non preoccuparti.",沒有媽媽妳想的那麼嚴重啦，別擔心,,엄마가 생각한만큼 심각하진 않으니까 걱정하지 마.,"Es ist nicht so schlimm wie du denkst,
+41071,,"Non è così male come pensi, mamma,
+non preoccuparti.",沒有媽媽妳想的那麼嚴重啦，別擔心,,엄마가 생각한만큼 심각하진 않으니까 걱정하지 마.,"Es ist nicht so schlimm wie du denkst,
 Mama. Mach dir keine Sorgen."
 42071,,"Qui stiamo bene, quindi
 concentrati sul tuo lavoro, mamma.",這裡不要緊，所以媽媽專心工作吧,,이쪽은 괜찮아. 그러니까 엄마도 일에 집중해.,"Hier ist alles okay. Konzentrier dich
@@ -11226,19 +11221,17 @@ Mamas selbstgekochtes Essen."
 42079,,Cosa è successo all'improvviso?,怎麼突然這麼說？,,갑자기 왜?,Was ist denn auf einmal los?
 41085,,Questo non è assolutamente normale.,的確不尋常吶,,확실히 평범하진 않은걸.,Das ist auf keinen Fall normal.
 42085,,Finora non è stato così...,到前陣子為止，還不是這樣的……,,얼마 전까진 이러진 않았는데 말이지…,Bis jetzt war es nicht so ...
-43085,,"Faremo del nostro meglio in questo
-mondo!",這裡的世界，加油啊！,,"이쪽 세계, 힘낸다!","Wir werden in dieser Welt unser Bestes
+43085,,"Faremo del nostro meglio in questo mondo!",這裡的世界，加油啊！,,"이쪽 세계, 힘낸다!","Wir werden in dieser Welt unser Bestes
 geben!"
 41086,,"Certo, prima o poi...",嗯，之後會想的……,,뭐어 조만간…,"Klar, früher oder später ..."
-42086,,"Penso che ci sia
-qualcosa che voglio fare.",我隱約有了想要做的事,,어렴풋하게 하고 싶은 일은 있어.,"Ich glaube, es gibt da was,
+42086,,"Penso che ci sia qualcosa che voglio fare.",我隱約有了想要做的事,,어렴풋하게 하고 싶은 일은 있어.,"Ich glaube, es gibt da was,
 das ich tun will."
 41087,,Lascia fare a me!,交給我吧！,,맡겨둬!,Überlass das mir!
 41088,,"Dubito che i nostri parchi di
 divertimento siano diversi dai vostri.",我想遊樂園應該和那邊的世界沒什麼差別喔,,아마 유원지는 그쪽 세계와 다르지 않을거야.,"Unsere Vergnügungsparks unterscheiden
 sich bestimmt nicht von euren."
-42088,,"Ti guiderò una volta che avrò
-fatto quello che devo fare.",等非做不可的事結束後，我再帶妳去吧,,해야할 일이 끝나면 안내할게.,"Ich führe dich, sobald ich meine
+42088,,"Ti guiderò una volta che avrò fatto quello
+che devo fare.",等非做不可的事結束後，我再帶妳去吧,,해야할 일이 끝나면 안내할게.,"Ich führe dich, sobald ich meine
 Erledigungen gemacht habe."
 41090,,Veramente!?,當真！？,,정말로!?,Wirklich?!
 42090,,È stato più veloce di quanto mi aspettassi!,意外地快速呢！,,의외로 빠른걸!,Das ging schneller als gedacht!
