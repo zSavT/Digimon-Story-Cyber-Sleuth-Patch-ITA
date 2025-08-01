@@ -1,12 +1,11 @@
 ﻿ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
 100,4057,,...Shhhhh!!! Abbassa la voce!,噓——！　小聲一點！,,……쉿―! 목소리를 낮춰!!,... Pssst! Nicht so laut!
-101,4057,,"Sì, esatto.
-Sono l'amministratore del sito ""Digipedia"".","對，沒錯。
+101,4057,,"Sì, esatto. Sono l'amministratrice del sito ""Digipedia"".","對，沒錯。
 我就是委託人，「數碼百科」的站長。",,"그래, 그 말대로야
 내가 의뢰주인「디지디지피디아」관리인이야","Ja, das ist richtig.
 Ich bin die Administratorin der Digipedia-Seite."
-102,4057,,"Non voglio che nessun altro senta quello che sto per dirti...
-quindi te lo sussurrerò per ora.","接下來要說的事情我不太想被別人聽到。
+102,4057,,"Non voglio che nessuno senta quello che sto per dirti,
+quindi ve lo sussurrerò all'orecchio.","接下來要說的事情我不太想被別人聽到。
 總之請你講話小聲一點。",,"내 이야기는 그다지 다른 사람에게 들키고 싶지 않아
 …일단 작은 목소리로 말해줘","Ich möchte nicht, dass jemand hört, was ich dir
 gleich sage, deshalb flüstere ich es in
@@ -25,7 +24,7 @@ Il redattore scrive tutto in dialetto del Kansai.","然後最近有人在上面�
 Änderungen an Artikeln vorgenommen. Die Person
 schreibt alles im Kansai-Dialekt."
 105,4057,,"Ho provato a rivedere gli articoli, ma c'è una sorta di blocco
-in atto e persino io, un amministratore, non posso rimuoverlo...","我想要修改，結果居然被鎖住，
+in atto e persino io, un amministratrice, non posso rimuoverlo...","我想要修改，結果居然被鎖住，
 連我這個站長都解除不了……",,"수정하려고 해도 블록이 걸려버려서
 관리자인 나도 해제할 수가 없어…","Ich habe versucht, das zu überarbeiten, aber das
 wird irgendwie gesperrt und selbst ich als
@@ -78,7 +77,7 @@ pagina del log delle modifiche. Per favore, occupati di questo.","想要調查�
 die die Bearbeitungen auflistet.
 Bitte kümmere dich darum."
 120,4057,,"C'è una persona che usa il dialetto del Kansai per fare modifiche
-alle pagine e anche se sono un amministratore non riesco a rivedere
+alle pagine e anche se sono una amministratrice non riesco a rivedere
 gli articoli.","有個人用關西腔進行編輯，
 居然連我這個站長都沒辦法修改。",,"관서 사투리로 페이지를 편집하는 사람이 있는데
 관리인인 나도 수정하지 못하도록 되어 있어","Eine Person, die im Kansai-Dialekt schreibt,
@@ -142,7 +141,7 @@ Digipedia gefunden, die im Kansai-Dialekt
 geschrieben sind!"
 150,1303,,"Eh? Che vuoi lì, giovanotto?",嗯？　你找我有什麼事？,,엉? 니 뭐꼬?,"Wat? Wat willste, Jungchen?"
 151,1303,,"Sono io quello che ha fatto quelle modifiche a Digipedia?
-...Ti è capitato di trovare uno dei miei articoli lì?
+Ti è capitato di trovare uno dei miei articoli lì?
 Interessante, non trovi?","我有沒有編輯數碼百科？
 難道你是看了我寫的條目才過來找我的嗎！？
 那些文章很有趣吧！？",,"디지디지피디아를 편집하고 있냐꼬?
@@ -150,9 +149,9 @@ Interessante, non trovi?","我有沒有編輯數碼百科？
 꽤 재밌는 문장이지 안나―!?","Ob ick die Änderungen bei Digipedia gemacht hab?
 ... Haste wohl eenen Artikel von mir gefunden?
 Interessant, wa?"
-152,1303,,"...Cosa? Stai dicendo che c'erano informazioni soggettive negli
-articoli scritti in dialetto Kansai?
-E che il dialetto Kansai è difficile da capire?","啊？　你叫我不要在數碼百科上
+152,1303,,"Cosa? Stai dicendo che c'erano informazioni soggettive
+negli articoli scritti in dialetto Kansai? E che il
+dialetto Kansai è difficile da capire?","啊？　你叫我不要在數碼百科上
 用關西腔寫摻雜主觀的文章？
 你的意思是關西腔很難懂嗎？",,"……하아? 니는 디지디지피디아에
 관서 사투리로 주관 섞인 문장을 쓰지 말라고 카는 긴가?
@@ -165,9 +164,9 @@ Il dialetto Kansai è la lingua franca di tutto il mondo!
 관서 사투리는 세계공용어라 아이가~? 억시로 알아듣기 쉬~운 언어라카이","Dit haste falsch verstanden. Der Dialekt is de
 Lingua franca von de ganze Welt!
 Ick finde dit sehr einfach zu kapieren."
-154,1303,,"...Senti, non voglio sentir niente su nessun articolo,
-hai capito? Mi stai solo facendo incazzare con tutto questo parlare
-del mio stile di scrittura!","還有就是，我不想要自己寫的東西被別人說這說那～
+154,1303,,"Senti, non voglio sentir niente su nessun articolo, hai capito?
+Mi stai solo facendo incazzare con tutto
+questo parlare del mio stile di scrittura!","還有就是，我不想要自己寫的東西被別人說這說那～
 有哪個笨蛋批評我的文風……我就要生氣囉！？",,"…그라고 내용에 대해서도 이래저래 듣고집지 않다~
 이 집필 스타일을 방해하는 놈은…… 콱 죽여뿌린다!?","... Ick will nix über irgendwelche Artikel hören,
 kapiert? Stänkerst nur rum, wat de über meinen
@@ -209,14 +208,12 @@ Seiten nach und nach korrigiert."
 180,4057,,...Shhhhhh! Abbassa la voce!,"噓——！
 我不是叫你小聲一點嗎！！",,"……쉿―――!
 그러니까 목소리를 낮추라고!!",... Pssst! Nicht so laut!
-181,4057,,"Non urlare semplicemente ""Ehi, Signor Amministratore!"",
-seriamente...","不要那麼大聲叫我
+181,4057,,"Non urlare semplicemente ""Ehi, Signora amministratrice!"", seriamente...","不要那麼大聲叫我
 「數碼百科的站長！」啦，真是的……",,"「디지디지피디아의 관리인 씨!」라고
 큰소리로 부르지 말아줘, 정말…","Also wirklich! Ruf nicht einfach „Hey,
 Administratorin!“ ..."
 182,4057,,"...Ma, quello che volevo dire è che il blocco sulle pagine con il
-dialetto Kansai è stato rimosso e ho corretto le pagine un po'alla
-volta.","回到正題，
+dialetto Kansai è stato rimosso e ho corretto le pagine un po'alla volta.","回到正題，
 那些關西腔頁面的鎖已經解除，
 內容也慢慢在修改了。",,"……그럼 본론인데
 관서 사투리 페이지에 걸려있던 블록이 없어져서
@@ -239,7 +236,7 @@ Vorrei ringraziarvi gentilmente per questo.""","「至今給你造成了不少�
 hab. Dit Detektiv hat mir die Augen uffjemacht.
 Dafür will ick dir danken.“"
 186,4057,,"""Ora inizierò il mio blog per promuovere Osaka!
-E mi sento proprio eccitato per questo!""","「下次我會在部落格賣力介紹大阪的。
+E mi sento proprio emozionato per questo!""","「下次我會在部落格賣力介紹大阪的。
 現在的我充滿幹勁哦～！！」",,"「다음엔 블로그에서 오사카를 잔뜩 소개할끼다
 　지금 내는 억시로 소울풀이라 아이가~!!」","„Jetzt mach ick meinen eigenen Blog über Osaka!
 Ick bin schon janz uffjeregt!“"

@@ -1,14 +1,13 @@
 ﻿ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
 100,4976,,"Ah, vedo che quel cartello ha attirato anche la tua attenzione.",啊，你也很在意那張海報？,,"아아, 너도 그 포스터가 신경 쓰인다는 느낌이네?","Wie ich sehe, hast du das Schild auch bemerkt."
 101,2001,,?,？？,,??,?
-102,4976,,"Il ""Super Ultra Vero Burattino""...
+102,4976,,"Il ""Super Ultra Vero Pupazzo""...
 È un nome decisamente intrigante, questo è sicuro.","「超Super擬真人偶」，
 真是吸引人的名字呢～",,"「초 슈퍼 리얼돌」이라니
 왠지 엄청 구미가 당기는 이름이지―","Die „tolle ultra-echte Puppe“ ...
 Das ist auf jeden Fall ein interessanter Name."
-103,4976,,"Come dice il nome, è una bambola squisitamente realizzata fatta per
-sembrare proprio un essere umano reale che puoi comprare online,
-o almeno così ho sentito dire.","聽說能在網路上買到
+103,4976,,"Come suggerisce il nome, si tratta di una bambola elaborata che assomiglia
+a una persona reale e che può essere acquistata su Internet.","聽說能在網路上買到
 跟真人完全一樣的精緻人偶。",,"아무래도 진짜 인간이랑 완전 똑같은 정교한 인형을
 인터넷에서 팔고 있다나 봐","Wie der Name sagt, ist es eine aufwendig
 hergestellte Puppe, die wie ein echter Mensch
@@ -21,9 +20,9 @@ ist. Zwei Adjektive sind echt nicht nötig."
 105,4976,,"In realtà non è così costoso. Sto pensando di mettere da parte
 i miei soldi e comprarmene uno io stesso.",反正也沒有很貴，我也存點錢來訂一個吧。,,그렇게 비싸지도 않고 돈 모아서 주문해 버릴까,"Sie ist gar nicht so teuer. Ich überlege, etwas zu
 sparen und mir dann eine zu kaufen."
-106,4976,,"...Ed è prodotta da ""Jorogumo Co., Ltd.
-"" Un nome carino e orecchiabile per una compagnia,
-anche se c'è anche una vibrazione un po' losca.","「女郎蜘蛛股份有限公司」，
+106,4976,,"Ed è prodotta da ""Jorogumo Co., Ltd"".
+Un nome carino e orecchiabile per una compagnia,
+anche se c'è anche una ""sensazione"" un po' losca.","「女郎蜘蛛股份有限公司」，
 公司的名字聽起來也很可疑，不過感覺還不錯。",,"…「유한회사 무당거미」라는 것도
 어―쩐지 좋은 느낌으로 수상한 회사명이란 말이지―","Und sie wurde von „Jorogumo Co., Ltd.“ produziert.
 Ein schöner, einprägsamer Name für eine Firma,
@@ -66,7 +65,7 @@ che assomigliano proprio a me e a Mei.","其實……好像有人在網路上販
 인터넷에서 팔리고 있는 것 같아서~","Also ... Es gibt „Puppen“, die im Internet
 verkauft werden, die wie Mei und ich aussehen."
 208,2001,,!?,！！？,,!!?,?!
-209,3006,,"Ti riferisci sicuramente ai ""Super Ultra Veri Burattini"".
+209,3006,,"Ti riferisci sicuramente ai ""Super Ultra Veri Pupazzo"".
 Ho sentito delle voci su di loro.
 Bene, dimmi di più.","妳是說「超Super擬真人偶」吧。
 我只聽過傳聞，妳們跟我說說詳細情形吧。",,"「초 슈퍼 리얼돌」을 말하는 거군
@@ -140,7 +139,7 @@ Ne stavo giusto discutendo con il Detective Matayoshi.","但警方似乎接到�
 마타요시 형사님께 은밀히 상담을 받은 참이다","Der Polizei wurde eben gemeldet, dass die Besitzer
 dieser Puppen vermisst werden. Ich habe es gerade
 mit Kommissar Matayoshi besprochen."
-223,4119,,"Super Ultra Vere Marionette... e bambole viventi create
+223,4119,,"Super Ultra Veri Burratini... e bambole viventi create
 a immagine delle ragazze dei sogni delle persone...","超Super擬真人偶……
 忠實重現理想少女的活人偶……",,"초 슈퍼 리얼돌…
 이상적인 소녀를 충실하게 재현한 살아 있는 인형…","Tolle, ultra-echte Puppen ... und lebendige
@@ -149,28 +148,26 @@ aussehen ..."
 224,4122,,"Suppongo che sembrino imparentati, ma
 sei sicuro che ci sia davvero una connessione?",感覺……的確很像……？,,확실히… 분위기는 비슷한데…?,"Es klingt schon, als ob es da eine Verbindung
 geben könnte, aber bist du sicher, dass es so ist?"
-225,3006,,"Questa è la parte difficile da provare. Per creare delle bambole che
-assomiglino così tanto a come siete voi due in realtà, ci vorrebbe
-avere dati piuttosto specifici sui vostri corpi.","但是，如果要製作和妳們相像的精緻人偶，
+225,3006,,"È difficile dimostrarlo. Per creare bambole che vi somiglino,
+occorrerebbero misure del corpo molto precise.","但是，如果要製作和妳們相像的精緻人偶，
 就需要身體部位的詳細資料吧？",,"…하지만 너희들의 정교한 인형을 만들려고 한다면
 몸의 상세한 데이터가 필요해지지 않나?","Das zu beweisen, ist schwer. Um Puppen
 herzustellen, die euch so ähnlich sehen, bräuchte
 man sehr genaue Körpermaße."
-226,3006,,"Immagino che mettere le mani su una cosa del genere non sia
-esattamente facile...","雖然我覺得要得到那麼詳細的資料
+226,3006,,"Immagino che mettere le mani su una cosa del
+genere non sia esattamente facile...","雖然我覺得要得到那麼詳細的資料
 並不容易……",,"그렇게까지 상세한 데이터를 얻기란
 쉽지 않다고 생각하는데…",An so etwas kommt man nicht ohne Weiteres ran ...
 227,4119,,"In realtà, ho un'idea di come potrebbero
 esserci riusciti.",其實，關於這點，我心裡有個底。,,실은 그거에 대해선 짐작가는 게 있어요,"Aber ich habe eine Idee, wie sie das geschafft
 haben könnten."
-228,4119,,"C'è una macchina ""LDC"" in una sala giochi ad Akihabara che penso
-possa essere sospetta...","我覺得，
+228,4119,,"C'è una macchina ""LDC"" in una sala giochi ad Akihabara
+che penso possa essere sospetta...","我覺得，
 在秋葉原電子遊樂場內的“Liviclu＂有點可疑……",,"아키하바라의 게임 센터에 있는 ""리비크러""가
 수상하지 않나 하고…","In Akihabara gibt es eine KLP-Machine, die
 ziemlich verdächtig ist ..."
-229,3006,,"""LDC""...? Non vorrai dire ""Pulcine del Sogno Lussurioso,"" vero?
- Di certo non si
-fanno problemi di sottigliezza, in tal caso.","Liviclu……？　該不會是Libido Crusher的簡稱吧？
+229,3006,,"""LDC""...? Non vorrai dire ""Lontre Danzanti Contente"", vero?
+Di certo non si fanno problemi di sottigliezza, in tal caso.","Liviclu……？　該不會是Libido Crusher的簡稱吧？
 嗯……　那還真是不平靜啊。",,"리비크러… 라고? 혹시 리비도 크러셔의 줄임말인가?
 흐음… 그건 단정치 못하군","„KLP“ ...? Du meinst nicht etwa
 „Kecke, lüsterne Püppchen“, oder?
@@ -200,8 +197,8 @@ macchina del Living Doll Club.","那麼，我們先去有那台Liviclu的「秋�
 sofort nach Akihabara und Informationen zu dieser
 KLP-Machine sammeln."
 235,3006,,"Sarà il tuo compito, [p].
-Quanto a me, vedrò se riesco a trovare qualcos'altro riguardo
-al Progetto Ragazza Perfetta.","拜託你囉，[p]。
+Quanto a me, vedrò se riesco a trovare qualcos'altro
+riguardo al Progetto Ragazza Perfetta.","拜託你囉，[p]。
 在這段期間內，我會稍微調查看看完美女孩計畫。",,"…부탁한다, [p]
 나는 그 동안 퍼펙트 걸 프로젝트에 대해
 좀 조사해보도록 하겠다","Das wird deine Aufgabe sein, [p].
@@ -224,7 +221,7 @@ nicht wahr?"
 307,4869,,"Ahahaha, sei davvero una persona interessante!",哈哈哈哈，您真有趣呢。,,"핫핫핫핫하, 재미있는 분이시군요","Hahaha, du bist eine wirklich interessante Person!"
 308,4869,,"Devi sapere che vendo bambole di prim'ordine solo delle ragazze
 più graziose. Forse ne hai sentito parlare,
-si chiamano ""Super Ultra True Puppets"".","其實，我正在販售超精緻美少女人偶……
+si chiamano ""Super Ultra Veri Pupazzo"".","其實，我正在販售超精緻美少女人偶……
 超Super擬真人偶。",,"실은 전 초 정교한 미소녀 인형…
 초 슈퍼 리얼돌을 판매하고 있습니다","Du musst wissen, dass ich erstklassige Puppen von
 den schönsten Mädchen verkaufe. Hast du von ihnen
@@ -381,7 +378,7 @@ di Rumore Digitale vicino a dove ti trovi.","其實，我從你現在所在位�
 schwaches digitales Rauschen ganz in deiner Nähe."
 404,3006,,"Meglio dare un'occhiata da vicino a quel cabinato arcade.
 Scommetto che troverai degli indizi su come questi
-Super Ultra True Puppets vengono creati.","你還是先去調查那個Liviclu吧。
+Super Ultra Veri Pupazzi vengono creati.","你還是先去調查那個Liviclu吧。
 應該有製造超Super擬真人偶的線索才是。",,"역시 우선은 그 리비크러부터 조사해보도록
 어딘가에 초 슈퍼 리얼돌 제조에 대한 단서가 있을 거다","Du solltest dir diese Maschine in der Spielhalle
 genau ansehen. Dort findest du sicher Hinweise
@@ -470,9 +467,9 @@ ma sopravviveremo.","雖然眼睜睜地看他們逃了很可惜，
 但也沒辦法。",,"…뻔히 보면서도 놓쳐 버린 건 아깝지만
 어쩔 수 없다","Schade, dass er davongekommen ist, aber ist nicht
 so schlimm."
-603,3006,,"Come sospettavamo, quei due probabilmente hanno usato quell'unità LDC
-per raccogliere i dati delle ragazze,
-e poi li hanno usati per creare i Super Ultra True Puppets.","應該是那個男人和數碼寶貝聯手，
+603,3006,,"Come sospettavamo, quei due probabilmente hanno usato
+quell'unità LDC per raccogliere i dati delle ragazze,
+e poi li hanno usati per creare i Super Ultra Veri Pupazzi.","應該是那個男人和數碼寶貝聯手，
 利用Liviclu收集美女們的資料，
 做成超Super擬真人偶吧。",,"…그 남자는 디지몬과 결탁해서
 리비크러를 사용해 미녀들의 데이터를 모아
@@ -514,9 +511,8 @@ Mädchen“ eigentlich?"
 611,4122,,"Mi pare che il detective Kuremi avesse menzionato che le persone
 che ne fanno parte stanno scomparendo, giusto?",之前好像說使用者相繼失蹤之類的……,,이용자가 연이어 실종됐다고 하셨던가요…,"Ich glaube, Detektivin Kuremi hatte erwähnt, dass
 die Teilnehmer vermisst werden, richtig?"
-612,3006,,"Infatti. [p] ha effettivamente raccolto
-alcune informazioni piuttosto utili su cosa è richiesto a chiunque
-si unisca al progetto.","關於那件事，
+612,3006,,"Infatti. [p] ha effettivamente raccolto alcune
+informazioni piuttosto utili su cosa è richiesto a chiunque si unisca al progetto.","關於那件事，
 [p]聽來的參加條件很奇怪。",,"그것에 대한 정보는 [p]가(이) 얻어 왔다
 참가를 위한 조건이라는 게 수상하다는 것 같다","So ist es. [p] ist auf nützliche
 Informationen gestoßen, was von den Teilnehmern
@@ -551,8 +547,7 @@ Finsteres und Böses."
 619,4119,,Oscuro e...,無比黑暗的……,,더없이 어둡고…,Finster und ...
 620,4122,,Sinistro?,……重大案件？,,…무거운 사건?,Böse?
 621,3006,,"Stiamo parlando di qualcosa di tetro quanto le cose che guardi per
-divertimento nel tuo club...
-Forse anche di più.","這才是你們最喜歡的超自然現象等級的……
+divertimento nel tuo club... Forse anche di più.","這才是你們最喜歡的超自然現象等級的……
 不，或許比那更可怕。",,"그것이야말로 너희들이 좋아하는 오컬트 급…
 아니, 그 이상일지도 모른다","So unheimlich, wie die Sachen, die ihr euch in
 eurem Club zum Spaß anschaut, vielleicht
@@ -624,8 +619,8 @@ del Progetto Ragazza Perfetta.","你遇到的人是完美女孩計畫的被害�
 피해자라고 봐도 틀림이 없겠지","Die URL hat also zu einem der Opfer des „Projekts:
 Perfektes Mädchen“ geführt."
 803,4119,,Vittima...? Cosa intendi?,……被害者？,,…피해자?,Opfer ...? Wie meinst du das?
-804,3006,,"Ricorda, per unirti al progetto,
-devi rimanere rintanato nella tua stanza per il resto della tua vita.","要參加完美女孩計畫的條件，
+804,3006,,"Ricorda, per unirti al progetto, devi rimanere rintanato
+nella tua stanza per il resto della tua vita.","要參加完美女孩計畫的條件，
 就必須一輩子躲在房間裡。",,"퍼펙트 걸 프로젝트의 참가는
 평생 방에 틀어박히는 게 조건이다","Vergiss nicht, dass man für den Rest seines
 Lebens in seinem Zimmer bleiben muss, um an
@@ -647,8 +642,8 @@ L'intera faccenda è solo una triste truffa.","和理想少女們的生活，
 Cyberspace führt, ist nichts als eine Lüge.
 Das Ganze ist nur ein mieser Betrugsfall."
 808,3006,,"Chiunque ne cada vittima si imprigiona inconsapevolmente per
-la vita all'interno del Cyberspazio,
-credendo di non aver mai lasciato il mondo reale.","被害者完全相信自己身在現實世界……
+la vita all'interno del Cyberspazio, credendo
+di non aver mai lasciato il mondo reale.","被害者完全相信自己身在現實世界……
 自己投身進入電腦空間，一輩子都無法回到這個世界。",,"본인은 어디까지나 현실 세계에 있다고 생각하고 있지…
 평생 이 이 세계로 돌아오지 못하는, 전뇌공간으로의 투신자살이다","Jeder, der darauf hereinfällt, sperrt sich selbst
 für immer im Cyberspace ein, ohne es zu wissen,
@@ -657,16 +652,15 @@ und denkt, er wäre noch in der echten Welt."
 c'è dietro, Jorogumo...",這樣啊……所以那個公司的名字，才會叫做女郎蜘蛛。,,그렇구나… 그래서 그 회사가 무당거미라는 이름인 거군요,"Das ergibt Sinn ... Auch, wenn man über den Namen
 der Firma nachdenkt, die dahintersteckt, Jorogumo."
 810,2001,,?,？？,,??,?
-811,4119,,"Jorogumo è un ragno mitologico che appare come una bella donna per
-attirare gli uomini alla sua cascata.
+811,4119,,"Jorogumo è un ragno mitologico che appare come una bella
+donna per attirare gli uomini alla sua cascata.
 Si tufferebbero per lei e morirebbero per mano sua.","傳說中，很多男性會被化成美女的女郎蜘蛛奪走心智，
 然後跳進女郎蜘蛛所住的瀑布潭裡死去。",," 아름다운 여성으로 변장한 무당거미에게 많은 남성이 마음을 빼앗겨
 무당거미가 사는 폭포로 몸을 던졌다는 전설이 있어요","Jorogumo ist eine legendäre Spinne, die als schöne
 Frau auftritt und Männer in ihren Wasserfall
 lockt. Sie stürzen sich hinein und sterben."
-812,3006,,"Ohoho, sapevo che se ci fosse stato qualcuno qui che sapesse di questo,
-saresti stata tu, Mei.
-Conosci davvero la storia occulta.","喔……不愧是超自然研究社的社長。
+812,3006,,"Ah! Sapevo che ne avevi sentito parlare, Mei.
+Sai davvero molto sull'occulto.","喔……不愧是超自然研究社的社長。
 看來妳也很了解古代的超自然故事呢。",,"호오… 역시 오컬트 연구부의 부장이군
 옛날 옛적의 오컬트 이야기에도 조예가 깊은 것 같다","Aha! Ich wusste, dass du wahrscheinlich davon
 gehört hast, Mei. Du kennst dich mit Okkultismus
@@ -721,8 +715,7 @@ Solo a pensarci mi vengono i veri brividi...","嗚哇哇——
 Nur bei dem Gedanken daran kriege ich eine
 Gänsehaut ..."
 825,4119,,"Aaaaadunque! A proposito di quel tipo che il tuo assistente
-ha incontrato un po' di tempo fa,
-cosa pensi che gli sia successo?","那那那那麼！
+ha incontrato un po' di tempo fa, cosa pensi che gli sia successo?","那那那那麼！
 助手見到的那個年輕男子會怎麼樣？",,"그럼그럼그럼그럼그럼!
 조수님이 만나고 왔다는 젊은 남자는 어떻게 되는 건가요?","Themawechsel! Dieser Typ, den dein Hilfsdetektiv
 vor Kurzem getroffen hat ... Was glaubst du, was
