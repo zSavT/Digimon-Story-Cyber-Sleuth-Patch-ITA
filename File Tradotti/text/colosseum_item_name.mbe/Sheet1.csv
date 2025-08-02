@@ -285,7 +285,7 @@ ID,Japanese,English,Chinese,EnglishCensored,Korean,German
 311,,Re Digimon,數碼寶貝之王,,디지몬 킹,Digimon-König
 312,,Domatore Coraggioso,勇氣馴獸師,,브레이브 테이머,Tapferer Zähmer
 313,,Allenatore d'Élite,精英馴獸師,,엘리트 테이머,Elite-Zähmer
-314,,Tamer Veterano,老練馴獸師,,베테랑 테이머,Erfahrener Zähmer
+314,,Allenatore Veterano,老練馴獸師,,베테랑 테이머,Erfahrener Zähmer
 315,,Digiprescelti,被選上的孩子,,선택받은 아이,DigiAuserwählter
 316,,Agente Libero,自律探員,,자율 에이전트,Freier Agent
 317,,Digimon Kaiser,數碼寶貝皇帝,,디지몬 카이저,Digimon-Kaiser
@@ -326,8 +326,8 @@ ID,Japanese,English,Chinese,EnglishCensored,Korean,German
 352,,Re Zucca,南瓜之王,,펌프 킹,Pumpkin-König
 353,,Distruttore di Natale,聖誕破壞者,,크리스 매셔,Weihnachtsschläger
 354,,Via del Caos,混沌之道,,카오스 로드,Chaosweg
-355,,Tamer Comando,指令馴獸師,,커맨드 테이머,Kommando-Zähmer
-356,,Grande Tamer,高級馴獸師,,그레이트 테이머,Toller Zähmer
+355,,Allenatore Comando,指令馴獸師,,커맨드 테이머,Kommando-Zähmer
+356,,Grande Allenatore,高級馴獸師,,그레이트 테이머,Toller Zähmer
 357,,Hacker Digitale,數位破壞者,,디지털 크래커,Digitaler Cracker
 358,,Potere Definitivo,究極之力,,궁극 파워,Ultimative Macht
 359,,Sadico,虐待狂,,진성 S,Sadist
@@ -339,7 +339,7 @@ ID,Japanese,English,Chinese,EnglishCensored,Korean,German
 365,,Debugger,除錯者,,디버거,Debugger
 366,,Guaritore,治療者,,힐러,Heiler
 367,,Crusader,十字軍,,크루세이더,Kreuzritter
-368,,Tamer Iperprotettivo,保護過度馴獸師,,과보호 테이머,Übereifriger Zähmer
+368,,Allenatore Iperprotettivo,保護過度馴獸師,,과보호 테이머,Übereifriger Zähmer
 369,,Dottore Digimon,數碼寶貝博士,,디지몬 닥터,Digimon-Arzt
 370,,Avventato,橫衝直撞,,저돌맹진,Draufgänger
 371,,Treno Impazzito,失控快車,,폭주 특급,Führerloser Zug
