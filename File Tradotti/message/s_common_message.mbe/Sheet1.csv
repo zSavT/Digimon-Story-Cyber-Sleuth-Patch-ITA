@@ -68,8 +68,7 @@ Ma non dire niente a mia moglie, va bene?","如果有得到獎牌，就拿來給
 Ich zahle dir den besten Preis, versprochen!
 Aber sag meiner Frau nichts, ja?"
 660,4230,,"Oh, mi hai quindi portato ancora più medaglie?",喔喔！你拿獎牌來給我啦！？,,오오! 메달을 가져와 준 거니!?,"Ui, du hast mir also noch mehr Medaillen gebracht?"
-661,4230,,"Allora! Tutto sommato ti darò... [n0] Yen!
-Accetti?","……好！一共是
+661,4230,,"Allora! Tutto sommato ti darò... [n0] Yen! Accetti?","……好！一共是
 [n0]YEN！
 我全部買下了！",,"…좋아! 전부 해서
 [n0]YEN이다!
@@ -88,7 +87,7 @@ Che tu faccia piangere ancora un vecchio...","咦……？你不願意賣給我�
 Dass du einen alten Mann noch zum Weinen
 bringst ..."
 680,4230,,"Allora, venduto, nessun rimborso! Grazie!
-... Non dire a mia moglie niente di tutto questo, ok?","交易成立，謝謝惠顧！！
+Non dire a mia moglie niente di tutto questo, ok?","交易成立，謝謝惠顧！！
 ……你可千萬不要告訴我老婆哦！？",,"거래 성립이다, 고마워!!
 …마누라에게는 아무쪼록 비밀로 해 주렴!?","So, verkauft, keine Rückerstattung! Danke!
 ... Sag meiner Frau nichts von alldem, ja?"
@@ -277,7 +276,8 @@ mehr Medaillen! Also kaufe ich sie weiterhin!"
 앞으로도 아내에게 비밀로 팍팍 매입할 테니까!","Ob zur Aufbewahrung, zum stolzen
 Bewundern, zum Kuscheln ... Ich brauch immer noch
 mehr Medaillen! Also kaufe ich sie weiterhin!"
-900,4230,,"Ottimo lavoro, hai trovato tutte le medaglie! Ecco un segno del mio riconoscimento.","收集獎牌真是辛苦你了！
+900,4230,,"Ottimo lavoro, hai trovato tutte le medaglie!
+Ecco un segno del mio riconoscimento.","收集獎牌真是辛苦你了！
 這是我的一點小小心意，呵呵呵。",,"메달 수집 수고 많았어!
 이건 내 마음의 답례야, 우후후","Gut gemacht, dass du die ganzen Medaillen
 gefunden hast! Hier ist ein Zeichen meiner

@@ -209,7 +209,7 @@ andare a salvare [p], in fretta!","嗯～這就是偵探的委託板嗎……
 빨리 [p]를(을) 구하러 가야 해…!","Das sind also die Fälle für Detektive ...
 Huch, dafür habe ich keine Zeit! Ich muss
 ganz schnell [p] retten gehen!"
-6801,3002,,"[p] potrebbe fare Connect Jump...
+6801,3002,,"[p] potrebbe fare Salto di Connessione...
 Rrrgh... Raahhh... Hrnnnghh!
 …Eheheh, immaginavo che non avrebbe funzionato.","如果是[p]的話一定能從這裡進行登入跳躍吧～
 唔！　哈！　喝！
@@ -218,8 +218,8 @@ Rrrgh... Raahhh... Hrnnnghh!
 …………………에헷, 역시 난 무리인가…","[p] würde einen Verbindungssprung machen ...
 Grrrnfff ... grrrrr ... raaarrr!
 Hihi, dachte mir schon, dass das nicht klappt."
-6802,3002,,"Eh? Che strano, non riesco a
-disconnettermi. Dovrò salvare [p] da qui dentro!","咦？　好奇怪，無法登出。
+6802,3002,,"Eh? Che strano, non riesco a disconnettermi.
+Dovrò salvare [p] da qui dentro!","咦？　好奇怪，無法登出。
 總之，得去幫助[p]才行！",,"어라? 이상하네, 로그아웃을 할 수가 없어
 어쨌든 [p]를(을) 구하러 가야 해…!","Wie? Seltsam, ich kann mich nicht ausloggen.
 Dann muss ich [p] wohl von hier aus retten!"
@@ -235,17 +235,17 @@ Prendi--prendi questo e vattene!","唉喲！　你那樣會害我被發現啦！
 Nimm das hier und geh weg!"
 8002,4032,,Shhh!!!,噓！！,,쉬잇―!!,Pssst!!!
 9000,4763,,"Vuoi lottare? Pensi di avere una possibilità?
-Vedi il Flamedramon dietro di me, giusto? O
-stai guardando qui perché vuoi una lotta?","你想跟我對戰？
+Vedi il Flamedramon dietro di me, giusto?
+O stai guardando qui perché vuoi una lotta?","你想跟我對戰？
 你看不見我身後的烈焰獸嗎？
 還是說，你是因為看見了才來找我碴的？",,"나랑 배틀을 하고 싶다고? 너…
 내 뒤에 있는 화염드라몬이 안 보이는 거야?
 아니면, 보이는데도 싸움을 거는 거야?","Tänzchen gefällig? Meinst du, du hast ’ne Chance?
 Du siehst Flamedramon hinter mir, oder? Oder
 guckst du uns an, weil du kämpfen willst?　"
-9001,4763,,"Agh! M-mi dispiace di essermi comportato da
-sbruffone... Sono io quello che non ha davvero visto la
-forza del tuo Digimon. Pe-perdonami!","噫！　對不起，我剛才不該那麼囂張的。
+9001,4763,,"Agh! M-mi dispiace di essermi comportato da sbruffone...
+Sono io quello che non ha davvero visto la forza del tuo Digimon.
+Pe-perdonami!","噫！　對不起，我剛才不該那麼囂張的。
 是我沒看到你的數碼寶貝。
 我、我告辭了————！！！！！",,"히익…! 거만한 태도를 취해서 죄송했습니다…
 당신의 디지몬이 안 보이는 건 제 쪽이었습니다…

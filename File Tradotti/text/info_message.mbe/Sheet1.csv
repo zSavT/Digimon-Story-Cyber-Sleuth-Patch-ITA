@@ -154,8 +154,8 @@ scansione. [d0]: [n0] % => [4[n1] %]","已回復為掃描數據
 [d0]：[n0]％⇒[4[n1]％]",,"스캔 데이터로 되돌렸습니다.
 [d0]：[n0]％⇒[4[n1]％]","In Scandaten umgewandelt.
 [d0]: [n0] % =>[4[n1] %]"
-1207,,"Il limite di spazio di archiviazione del gruppo è stato
-superato. Ridurre i requisiti di spazio di archiviazione del gruppo.","超過隊伍上限
+1207,,"Il limite di spazio di archiviazione del gruppo è stato superato.
+Ridurre i requisiti di spazio di archiviazione del gruppo.","超過隊伍上限
 請減少隊伍的消耗容量",,"파티 메모리를 초과했습니다.
 파티의 소비 메모리를 줄여주세요.","Der Gruppenspeicher wurde überschritten.
 Bitte reduziere den Speicherbedarf der Gruppe."
@@ -302,8 +302,8 @@ Di più non è possibile.","和[d0]的友情已達100%
 友情值將不再上升",,"[d0]과의 우정이 이미 100%입니다.
 더 이상 우정이 오르지 않습니다.","KAM mit [d0] beträgt bereits 100 %.
 Mehr ist nicht möglich."
-3006,,"Non puoi impartire un ordine
-perché non ci sono Digimon sull'isola agricola.","農場島沒有數碼寶貝時
+3006,,"Non puoi impartire un ordine perché non ci sono
+Digimon sull'isola agricola.","農場島沒有數碼寶貝時
 將無法下達指令",,"팜 섬에 디지몬이 없을 때는
 지시를 내릴 수 없습니다.","Du kannst keinen Befehl erteilen,
 da auf der Farminsel keine Digimon sind."
@@ -596,8 +596,8 @@ Riceverai i seguenti oggetti come bonus.","已確認駭客偵探的破關資料�
 作為破關特典，將贈送以下道具至所持道具",,"해커스 메모리의 클리어 데이터를 확인했습니다!
 클리어 특전으로 이전의 아이템을 소지 아이템으로 보냅니다.","Abgeschlossene Partie „Hacker's Memory“ vorhanden!
 Du erhältst folgende Items als Bonus."
-1503,,"Gioco completato! Riceverai
-i seguenti oggetti come bonus.","已確認自前作繼承的資料！
+1503,,"Gioco completato!
+Riceverai i seguenti oggetti come bonus.","已確認自前作繼承的資料！
 作為繼承特典，將贈送以下道具至所持道具",,"전작의 전승 데이터를 확인했습니다!
 전승 특전으로 이전의 아이템을 소지 아이템으로 보냅니다.","Abgeschlossene Spielpartie vorhanden!
 Du erhältst folgende Items als Bonus."
