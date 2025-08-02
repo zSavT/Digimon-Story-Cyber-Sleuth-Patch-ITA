@@ -22,8 +22,8 @@ Torna qui così possiamo metterci già al lavoro.",別說傻話了，快點回�
 her, damit wir uns an die Arbeit machen können."
 121,2001,,"(Dovrei vedere se c'è un nuovo caso da investigare...)",（去事務所接個委託好了……）,,(사무소에서 의뢰라도 받을까…),"(Ich sollte mal schauen, ob es einen neuen Fall
 gibt, den ich bearbeiten kann ...)"
-201,3007,,"Ultimamente si è verificata una serie di incidenti davvero bizzarri
-a Shinjuku.",最近在新宿街頭發生了很奇妙的現象……,,최근 신주쿠에서 기묘한 현상이 일어나고 있어서 말이지,"In Shinjuku hat es in letzter Zeit eine Reihe von
+201,3007,,"Ultimamente si è verificata una serie di incidenti
+davvero bizzarri a Shinjuku.",最近在新宿街頭發生了很奇妙的現象……,,최근 신주쿠에서 기묘한 현상이 일어나고 있어서 말이지,"In Shinjuku hat es in letzter Zeit eine Reihe von
 seltsamen Zwischenfällen gegeben."
 202,3007,,"Auto, alberi, esterni degli edifici, sono tutti fatti a pezzi.
 E con tagli netti, anche, come se qualcuno li avesse incisi con
@@ -131,8 +131,8 @@ Forse il vento in qualche modo, o una lama...","嗯～先不管妖怪的說法�
 Wir wissen, dass das Licht reflektiert wurde.
 Vielleicht hat der Wind oder eine Klinge ..."
 260,3006,,"O forse qualcos'altro completamente...
-Chi lo sa? Ma quella luce ha decisamente sfiorato da vicino la tua testa
-in quel filmato.","也許……是其他的東西呢。
+Chi lo sa? Ma quella luce ha decisamente sfiorato
+da vicino la tua testa in quel filmato.","也許……是其他的東西呢。
 從畫面來看，閃光似乎是從你的頭上閃過去的。",,"또 다른 무언가… 일지도 모르겠군요
 영상으로 확인한 결과 섬광은 네 머리 위를 스쳐간 듯하다","Oder vielleicht etwas ganz anderes ... Wer weiß?
 Aber das Licht kam deinem Kopf in dem Video
@@ -153,8 +153,8 @@ un po' il filmato.","出現閃光的是「新宿」吧，麻煩你回現場調�
 나와 마타요시 형사님은 계속해서 영상을 분석해보도록 하지","Geh zurück nach Shinjuku und schau dich dort um.
 Kommissar Matayoshi und ich werden das Video hier
 noch weiter analysieren."
-271,3006,,"Quel lampo di luce è apparso a
-Shinjuku. Torna lì e indaga la zona per noi.","出現閃光的是「新宿」吧。
+271,3006,,"Quel lampo di luce è apparso a Shinjuku.
+Torna lì e indaga la zona per noi.","出現閃光的是「新宿」吧。
 麻煩你回現場調查那附近。",,"섬광이 반짝인 건「신주쿠」로군
 현장으로 돌아가 근처 조사를 부탁한다","Der Lichtblitz trat in Shinjuku auf. Geh wieder
 hin und schau dir die Umgebung genau an."
@@ -166,7 +166,7 @@ Du gehst nach Shinjuku, ja? Sei vorsichtig."
 291,2001,,"C'è una sottile linea che scorre qui che sembra un segno di bruciatura...",有條細長、像燒焦痕跡的線……,,가늘고 눌은 자국 같은 선이 이어져 있다,"Hier verläuft eine dünne Linie, die wie eine
 Brandspur aussieht ..."
 292,2001,,"Aspetta, un'ustione?",……燒焦的痕跡？,,…눌은 자국?,"Moment, eine Brandspur?"
-301,3006,,"Hai trovato una macchia bruciata, dici...? Hmm...
+301,3006,,"Hai trovato una macchia bruciata, dici...? Mmm...
 Qualcos'altro di notevole che hai trovato lì?","有燒焦的痕跡……？
 嗯……還有其他線索嗎？",,"눌은 자국이 있었다고…?
 흐음… 뭔가 다른 단서는 없었나?","Du hast also eine verbrannte Stelle gefunden? Hm.
@@ -174,8 +174,7 @@ Hast du noch etwas Interessantes gefunden?"
 302,3006,,Cosa c'è che non va? Senti di nuovo qualcosa di strano?,"嗯？　怎麼了？
 又有妖氣嗎？",,"음? 왜 그러지?
 또 요기가 느껴지나?",Was ist los? Kommt dir wieder etwas komisch vor?
-303,3006,,"Un lampo di sole si è riflesso su una finestra e ti ha accecato?
-Hmm...","只是被窗戶反射的太陽光閃到眼睛而已？
+303,3006,,"Un lampo di sole si è riflesso su una finestra e ti ha accecato? Mmm...","只是被窗戶反射的太陽光閃到眼睛而已？
 嗯……",,"햇빛이 창문에 반사돼서 눈이 부셨던 것뿐이라고?
 ……흐음…","Plötzlich wurde Sonnenlicht in einem Fenster
 reflektiert und du konntest nichts sehen? Hm ..."
@@ -224,8 +223,7 @@ Conosco il tuo trucco ora!","這次我能躲掉！
 네 기술은 이미 파악했다고!","Ha, ist das etwa schon alles?!
 Du bist zu langsam!
 Das Spiel ist aus, ich bin dir auf der Schliche!"
-354,3006,,"Ehi, sono io. Ho capito cosa sta
-succedendo.",是我，我知道那個現象的真相了。,,나다. 현상의 정체를 알아냈다,"Hi, ich bin’s. Ich weiß jetzt, was hier vor sich
+354,3006,,"Ehi, sono io. Ora so cosa sta succedendo qui.",是我，我知道那個現象的真相了。,,나다. 현상의 정체를 알아냈다,"Hi, ich bin’s. Ich weiß jetzt, was hier vor sich
 geht."
 355,3006,,"Il colpevole, chiunque sia, sta usando i riflessi a proprio vantaggio.","真相是……反射。
 “犯人＂是利用反射來攻擊的。",,"정체는 …반사다
@@ -296,9 +294,9 @@ Sbrighiamoci e facciamo qualcosa!","相信！
 빨리 어떻게든 해 줘요!","Natürlich!
 Dein Urteil würde ich nie hinterfragen!
 Beeilen wir uns und tun etwas!"
-368,3006,,"Mi piace questo atteggiamento.
-Allora ecco l'accordo. Il colpevole sta puntando quel laser contro
-di te usando ogni superficie riflettente nell'area.","好吧。犯人是利用大樓的窗戶或車輛的後照鏡，
+368,3006,,"Mi piace questo atteggiamento. Quindi, veniamo al punto.
+Il colpevole sta puntando quel laser contro di te
+usando ogni superficie riflettente presente sul posto.","好吧。犯人是利用大樓的窗戶或車輛的後照鏡，
 用周圍所有能夠反射的東西來瞄準你。",,"좋아. 범인은 빌딩의 창문이나 차량의 사이드미러,
 주변의 반사가 되는 모든 것을 이용해 너를 노리고 있다","Deine Einstellung gefällt mir. Also, zur Sache.
 Der Täter zielt mit dem Laser auf dich und nutzt 
@@ -340,9 +338,9 @@ Ursprung, sobald der Strahl auf etwas auftrifft.
 So entsteht eine Art Netzwerk."
 375,3006,,"Ecco cosa dovrebbe renderti possibile Connetterti Saltandoci dentro.",也就是說，能夠使用登入跳躍。,,즉 커넥트 점프가 가능하다는 얘기다,"Das sollte es dir ermöglichen, damit deinen
 Verbindungssprung zu benutzen."
-376,3006,,"So che sembra folle, ma sei facilmente la persona più
-fortunata che io abbia mai conosciuto.
-Puoi farcela! Fidati di te stesso e affronta questa cosa a testa alta!","不用擔心，你的好運遠遠勝過於我的推理，
+376,3006,,"So che sembra folle, ma sei facilmente la persona
+più fortunata che io abbia mai conosciuto. Puoi farcela!
+Fidati di te stesso e affronta questa cosa a testa alta!","不用擔心，你的好運遠遠勝過於我的推理，
 你就帶著自信去挑戰吧！",,"뭘, 네 운은 내 추리의 예상을 아득히 능가하고 있다
 자신을 갖고 도전해라!","Ich weiß, es klingt verrückt, aber du bist so ein
 Glückspilz. Du schaffst das! Du musst
@@ -412,13 +410,13 @@ ci sarebbero state delle vittime?","……什麼？　不是這樣嗎？
 병기였다면 희생자가 더 나왔을 거라고?","Das stimmt nicht? Denn wenn ich wirklich eine
 Waffe wäre, hätte es Verletzte gegeben?"
 413,4860,,"Heh, sei davvero qualc--",……呵……你真的是——,,…후… 너는―,"Ha, da ist was dr–"
-414,3007,,"Ehi, stai bene!?
-Sembra tutto a posto. Sono così sollevato di rivederti.","喔，你沒事嗎！？
+414,3007,,"Ehi, stai bene!? Sembra tutto a posto.
+Sono così sollevato di rivederti.","喔，你沒事嗎！？
 你看起來沒什麼大礙，那我就放心了。",,"어이, 괜찮나!?
 무사한 것 같아서 안심했다","He, alles in Ordnung?! Es scheint dir gut zu
 gehen. Ich bin so erleichtert, dich zu sehen."
-415,3007,,"Se ti fosse successo qualcosa, mi avrebbe fatto fare una pessima
-figura come detective.
+415,3007,,"Se ti fosse capitato qualcosa, mi avrebbe fatto
+fare una pessima figura come detective.
 Quindi sono contento di vederti bene.","要是你出了什麼事，
 身為刑警的我實在無法交代……
 你沒事就好。",,"네게 무슨 일이 있으면
@@ -455,19 +453,17 @@ Allora vorrei non essere mai stato creato...","如果不能作為武器存在的
 那麼……我還是消失的好……",,"병기로밖에 존재할 수 없다면
 나는… 없어지는 편이 나아…","Aber wenn das mein Leben sein soll ...
 Wünschte ich, man hätte mich nie erschaffen ..."
-501,3007,,"Quindi era un Digimon
-programmato da un esercito straniero, eh?",是別國軍隊製造的程式數碼寶貝嗎？,,……다른 나라의 군이 만든 프로그램 디지몬인가,"Das war also ein Programm-Digimon, das von einem
+501,3007,,"Quindi era un Digimon programmato
+da un esercito straniero, eh?",是別國軍隊製造的程式數碼寶貝嗎？,,……다른 나라의 군이 만든 프로그램 디지몬인가,"Das war also ein Programm-Digimon, das von einem
 ausländischen Militär erschaffen wurde, was?"
-502,3007,,"Mi dispiace di aver interrotto la vostra
-conversazione, allora. Immagino di aver mandato tutto
-all'aria proprio quando lo avevi convinto.","真抱歉。
+502,3007,,"Mi dispiace di aver interrotto la vostra conversazione, allora.
+Immagino di aver mandato tutto all'aria proprio quando lo avevi convinto.","真抱歉。
 明明你就快說服它了，我卻來搗亂。",,"미안했다
 설득할 수 있었는데 찬물을 끼얹어 버렸군","Tut mir leid, dass ich eure Unterhaltung
 unterbrochen habe. Du hattest ihn für dich
 gewonnen und ich habe es vermasselt."
 503,3006,,Hmm...,……嗯。,,………흐음,Hm ...
-504,3007,,"Comunque, almeno ha messo fine alle
-cose, anche se è finita male...","不過，多虧了你們，事情才能解決……
+504,3007,,"Comunque, almeno ha messo fine alle cose, anche se è finita male...","不過，多虧了你們，事情才能解決……
 但是變得很糟糕呢。",,"뭐, 덕분에 사건은 해결되겠지만…
 그나저나 곤란하게 됐군","Wenigstens hat die Sache nun ein Ende, auch wenn
 es ein unschönes Ende ist ..."
@@ -510,8 +506,8 @@ ernst meinst."
 Quando non lo sono?",呵呵……不是哦？　我可是一直都非常認真哦？,,후후… 아닌데요? 저는 언제나 진심으로 진지합니다,"Hihi, aber ich meine es ernst. Tue ich das nicht
 immer?"
 512,3006,,"Comunque, la fortuna deve proprio amarti.",但是，你的運氣真的非常好。,,그나저나 너는 정말 엄청난 행운의 소유자로군,Fortuna muss dir wirklich hold sein.
-513,3006,,"A dire la verità, c'era in realtà un'altra cosa che quel lampo
-di luce avrebbe potuto essere.","我是說你使用登入跳躍後，閃光的真相。
+513,3006,,"A dire la verità, c'era in realtà un'altra cosa che
+quel lampo di luce avrebbe potuto essere.","我是說你使用登入跳躍後，閃光的真相。
 其實那個是有兩種可能的。",,"네가 커넥트 점프를 한 섬광의 정체
 실은 그건 두 개 중 하나였다","Um ehrlich zu sein, hätte der Lichtblitz auch
 etwas anderes sein können."
