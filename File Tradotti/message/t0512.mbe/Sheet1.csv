@@ -40,8 +40,8 @@ medaglie rare e mi ha pagato un sacco di soldi per averle!","獎牌狂熱者是�
 엄청난 액수의 돈으로 바꿔 줬어!","Ein „Medaillenliebhaber“ ist jemand, der sie
 wirklich mag, ja? Ich habe ihm ein paar seltene
 Medaillen gegeben, er hat gut dafür gezahlt!"
-400,4332,,"Quando vuoi vedere un sacco di medaglie, vai dal
-collezionista di medaglie e ti mostrerà
+400,4332,,"Quando vuoi vedere un sacco di medaglie,
+vai dal collezionista di medaglie e ti mostrerà
 la sua collezione!","想仔細觀察收集到的獎牌時，
 只要請獎牌狂熱者的大叔
 讓你看他的收藏品就行了！",,"모은 메달을 찬찬히 보고 싶을 때는
@@ -49,8 +49,8 @@ la sua collezione!","想仔細觀察收集到的獎牌時，
 콜렉션을 보여 달라고 하면 돼!","Wenn du mal viele Medaillen sehen willst, geh zum
 Medaillensammler, dann zeigt er dir
 seine Sammlung!"
-450,4332,,"Ogni volta che vuoi guardare molte medaglie, vai
-semplicemente dal maniaco delle medaglie e ti
+450,4332,,"Ogni volta che vuoi guardare molte medaglie, 
+vai semplicemente dal maniaco delle medaglie e ti
 mostrerà la sua collezione!","想仔細觀察收集到的獎牌時，
 只要請獎牌狂熱者的大叔
 讓你看他的收藏品就行了！",,"모은 메달을 찬찬히 보고 싶을 때는
@@ -58,21 +58,20 @@ mostrerà la sua collezione!","想仔細觀察收集到的獎牌時，
 콜렉션을 보여 달라고 하면 돼!","Wenn du mal viele Medaillen sehen willst, geh zum
 Medaillensammler, dann zeigt er dir
 seine Sammlung!"
-500,4230,,"Mmm, non posso comprare quella
-medaglia. È piuttosto rara, quindi dovresti
-tenertela,","嗯～，那個獎牌我還沒有買到啊。
+500,4230,,"Mmm, non posso comprare quella medaglia.
+È piuttosto rara, quindi dovresti tenertela,","嗯～，那個獎牌我還沒有買到啊。
 那是相當稀有的獎牌，如果有人曾經拿來，我馬上就會認出來。",,"으음, 그 메달은 매입하고 있지 않아
 상당히 레어한 메달이니까, 갖고 오면 바로 알 수 있어","Mmh, diese Medaille kann ich nicht kaufen.
 Sie ist ziemlich selten. Du solltest sie
 behalten."
-501,4230,,"C'è un venditore di medaglie in
-[2[m3040]]. Potrebbe saperne qualcosa.","在「[2[m3040]]」有一個專門賣獎牌的商人。
+501,4230,,"C'è un venditore di medaglie in [2[m3040]].
+Potrebbe saperne qualcosa.","在「[2[m3040]]」有一個專門賣獎牌的商人。
 他或許會知道些什麼哦。",,"「[2[m3040]]」에 메달 전문 판매상이 있어
 그 사람이라면 뭔가 알고 있을지도 몰라","[2[m3040]], da gibt es einen Medaillenverkäufer.
 Vielleicht weiß er etwas darüber."
-600,4334,,"L'interruzione della trasmissione pirata di
-Jimiken è avvenuta a metà... Mi
-chiedo cosa sia successo? Mi piace molto.","吉米肯的非法插播才播到一半就中斷了耶，
+600,4334,,"L'interruzione della trasmissione pirata
+di Jimiken è avvenuta a metà...
+Mi chiedo cosa sia successo? Mi piace molto.","吉米肯的非法插播才播到一半就中斷了耶，
 是發生了什麼事嗎？我很喜歡吉米肯呢。",,"지미켄의 전파 잭, 도중에 방송 중지가 됐었는데
 무슨 일 있었던 걸까? 나 꽤 좋아하거든, 지미켄","Die Übertragung von Jimiken brach mittendrin
 ab ... Was wohl passiert ist?
