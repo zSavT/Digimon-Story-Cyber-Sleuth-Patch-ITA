@@ -71,8 +71,8 @@ Grazie per aver accettato il caso!","喔耶～[p]！
 謝謝你接下委託！",,"예―이, [p]!
 의뢰, 받아줘서 고마워!","Juhu! [p]!
 Danke, dass du den Fall übernimmst!"
-152,3002,,"Questo ragazzino vuole davvero mangiare qualcosa di delizioso dal mondo
-reale...","他們兩個說什麼都想去吃
+152,3002,,"Questo ragazzino vuole davvero mangiare qualcosa di
+delizioso dal mondo reale...","他們兩個說什麼都想去吃
 現實世界的好吃東西……",,"이 아이들이 어떻게 해서든 현실 세계의
 맛있는 음식을 먹고 싶다고 해서…","Dieser Kleine möchte unbedingt etwas Leckeres aus
 der echten Welt essen ..."
@@ -165,8 +165,8 @@ solchen Kohldampf!"
 「新宿的西餐廳」吧！",,"…좋았어! 그럼
 「신주쿠의 양식점」으로 렛츠 고―!","Okay! Gehen wir zu einem Familienrestaurant in
 Shinjuku!"
-174,3002,,"Oh! Credo di ricordare di aver cercato un ristorante per famiglie a
-Shinjuku prima...","……啊！　去我之前在「新宿」發現的
+174,3002,,"Oh! Credo di ricordare di aver cercato un ristorante
+per famiglie a Shinjuku prima...","……啊！　去我之前在「新宿」發現的
 一家「西餐廳」怎麼樣！？",,"…아! 요전에 내가「신주쿠」에서 발견한
 「양식점」어때!?","Ach! Ich glaube, in Shinjuku habe ich schon mal
 ein Familienrestaurant gesucht ..."
@@ -435,8 +435,8 @@ Schlimmeres, als Hunger zu haben."
 小悠子妳好能吃哦。",,"…그건 그렇고 유콧치
 엄청 먹었네","Du kannst aber ganz schön zuschlagen, Yuuko!"
 402,3003,,Q...questo non è vero...,應、應該……沒有這回事吧。,,"그, 그렇지…않았… 을… 텐데요",Das ... Das ist gar nicht wahr ...
-403,3002,,"Eh?
-Ma hai continuato a ordinare altro cavolo e zuppa di miso...","咦？　可是妳叫了好多次
+403,3002,,"Eh? Ma hai continuato a ordinare
+altro cavolo e zuppa di miso...","咦？　可是妳叫了好多次
 高麗菜絲和味噌湯……",,"어? 그치만
 양배추나 미소시루까지 그렇게나 리필하고…","Was? Aber du hast immer noch mehr Misosuppe
 mit Kohl bestellt ..."
@@ -464,8 +464,8 @@ soffrendo la fame.","……對食物的怨念是很可怕的…
 …그들의 슬픔은 제가 받겠습니다","Es ist nicht schön, wenn man eine Mahlzeit
 auslässt ... Ich will sichergehen, dass sie
 nicht hungern."
-418,3002,,"Uhm... okay, non capisco bene il perché ma suppongo che vada bene per
-me... Grazie, Yuuko!","雖然不是很懂……
+418,3002,,"Uhm... okay, non capisco bene il perché ma suppongo
+che vada bene per me... Grazie, Yuuko!","雖然不是很懂……
 不過拜託妳了，小悠子！",,"…뭔지 잘 모르겠지만
 맡길게, 유콧치!","Ähm ... Na schön. Ich verstehe es nicht wirklich,
 aber ich habe nichts dagegen. Danke, Yuuko!"
@@ -511,18 +511,18 @@ cosa vorresti mangiare, [p]?","對了，
 465,3002,,Era delizioso!,多謝款待！！,,잘 먹었습니다!!,Das war köstlich!
 466,1050,,Wow... Sono pieno!,呼……吃得好飽哦！,,후우… 잘 먹었다!,"Wow, ich bin voll!"
 467,1151,,Sono pieno adesso.,我也吃得好飽。,,나 이제 배불러,Jetzt bin ich satt.
-468,3002,,"Com'è andata?
-Hai imparato qualcosa sulle abitudini alimentari degli umani?",如何？　這樣你們有體驗到現實世界的飲食文化了嗎？,,어때? 이걸로 현실 세계의 식문화를 만끽했어?,"Hat euch das gefallen? Habt ihr das Essen
+468,3002,,"Com'è andata? Hai imparato qualcosa
+sulle abitudini alimentari degli umani?",如何？　這樣你們有體驗到現實世界的飲食文化了嗎？,,어때? 이걸로 현실 세계의 식문화를 만끽했어?,"Hat euch das gefallen? Habt ihr das Essen
 der Menschen kennengelernt?"
 469,1151,,Sì! Grazie a tutti!,嗯！　謝謝大家！,,응! 모두 고마워!,Ja! Vielen Dank allerseits!
 551,3002,,"Comunque, puoi seriamente finirla lì, Yuuko!",不過話說回來，小悠子妳好會吃喔。,,"그건 그렇고 유콧치, 엄청 잘 먹는구나","Du kannst aber wirklich zuschlagen, Yuuko!"
 552,3003,,Qu-questo non è vero...,應、應該……沒有這回事吧。,,그렇지는… 않았을… 겁니다,D-Das ist gar nicht wahr ...
-553,3003,,"...Ma, grazie a voi ragazzi sono stato in grado di imparare a conoscere
-il cibo gourmet.",不過多虧大家的幫忙，我也才能盡情享受美食。,,…하지만 여러분 덕분에 저도 미식 투어를 만끽할 수 있었습니다,"... Dank euch habe ich etwas über Gourmet-Essen
+553,3003,,"...Ma, grazie a voi ragazzi sono stata in grado di
+imparare a conoscere il cibo gourmet.",不過多虧大家的幫忙，我也才能盡情享受美食。,,…하지만 여러분 덕분에 저도 미식 투어를 만끽할 수 있었습니다,"... Dank euch habe ich etwas über Gourmet-Essen
 gelernt."
 554,2001,,?,？,,?,?
-555,3003,,"Non mi piace mangiare fuori da solo quando le persone potrebbero starmi
-guardando...","我對於不在乎他人目光
+555,3003,,"Non mi piace mangiare fuori da sola quando le
+persone potrebbero starmi guardando...","我對於不在乎他人目光
 一個人吃外食還是有點抗拒……",,"…아무래도 다른 사람들의 눈을 신경쓰지 않고
 혼자서 외식하는 것에 거부감이 있어서…","Ich esse nicht gern allein. Ich möchte nicht,
 dass Leute mich beobachten ..."

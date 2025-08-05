@@ -112,8 +112,7 @@ was anderes. Aber ansonsten ... pass
 aus der Entfernung auf sie auf."
 253,4917,,Questo è quello che fa un vero uomo!,這才是所謂的男子漢！,,그게 남자라는 검다!,So macht das ein echter Kerl!
 254,3002,,...Huh? Cosa c'è?,所以呢？　你決定怎樣？,,…그래서? 어때?,... Was? Was denn?
-255,3002,,"Vuoi unirti ai Ribelli?
-Ti unirai, vero?
+255,3002,,"Vuoi unirti ai Ribelli? Ti unirai, vero?
 Non avresti parlato così a lungo di questo se non fossi interessato.","要加入反叛者嗎？　你會加入吧？
 我們都講這麼久了，當然就是要加入了吧？",,"리벨리온즈에 들어올 거야? 들어올 거지?
 이렇게까지 이야기했으니 이건 이미 들어오는 흐름이잖아?","Du willst dich den Rebels anschließen? Du wirst es
@@ -169,8 +168,8 @@ Wenn du das ernst meinst ..."
 謝謝你！　太好了！",,"정말!?
 고마워! 해냈다―!",Wirklich?! Fantastisch! Danke!
 272,4917,,"Fantastico! È incredibile!
-Akkino, hai un dono per il reclutamento, sai? Yasu:
-prossimamente in un cinema vicino a te!","太厲害了！　真不愧是雅奇諾小姐！
+Akkino, hai un dono per il reclutamento, sai? 
+Yasu: prossimamente al cinema!","太厲害了！　真不愧是雅奇諾小姐！
 好高明的話術啊！　全美都要哭泣了！",,"역시나임다! 앗키노 씨 굉장함다!
 멋진 권유 테크닉임다! 전미가 울었슴다!","Fantastisch! Das ist super. Akkino, du hast
 Talent fürs Anwerben, weißt du das?
@@ -216,8 +215,7 @@ rekrutiert!"
 286,3002,,"Ah, oh sì! Sì, è fantastico...!","喔、喔！　你是指那個啊！
 對啊！　真是太好了！",,"앗, 그래! 그쪽이구나!
 응! 잘됐어 잘됐어!","Ach, das! Ja, das ist klasse ...!"
-287,1151,,"Sei seriamente più felice di
-essere chiamato ""sexy""?",妳到底是高興哪一邊啊……,,"정말이지, 뭘 기뻐하는 거야…","Freust du dich echt mehr darüber, als „heiße
+287,1151,,"Sei seriamente più felice di essere chiamata ""sexy""?",妳到底是高興哪一邊啊……,,"정말이지, 뭘 기뻐하는 거야…","Freust du dich echt mehr darüber, als „heiße
 Schnitte“ bezeichnet zu werden?"
 288,1151,,"Ma certo che ce l'hai fatta, non ti sei ancora abituato al fatto
 che ora sei il leader?","不過，妳這個反叛者的隊長
@@ -284,8 +282,8 @@ aber ..."
 403,3002,,"Dipende tutto da quanto ci
 impegniamo!",那就要看我們今後的努力了啊！,,그건 이후의 우리들이 힘내는 것에 달린 거지!,"Nun ja, es kommt darauf an, wie sehr wir uns
 Mühe geben!"
-404,4919,,"Ma il team è stato creato da poco tempo,
-giusto? Voi ragazzi non siete avversari per gli Zaxons...","但這只是一個剛成立的隊伍吧？
+404,4919,,"Ma il team è stato creato da poco tempo, giusto?
+Voi ragazzi non siete avversari per gli Zaxons...","但這只是一個剛成立的隊伍吧？
 我看還是敵不過Zaxon……",,"그치만 갓 만든 팀이잖아?
 역시 잭슨은 이길 수 없는 게…","Aber das Team gibt es doch erst seit Kurzem,
 oder? Ihr könnt es nicht mit den Zaxons
@@ -320,10 +318,9 @@ Außenseiter."
 令他們望而生畏、被視為異己的……",,"나는 해커들이 무서워 벌벌 떨고
 어려워하며 특별취급을 받는…","Ich werde von der Hackergemeinschaft gefürchtet,
 gehasst, verachtet und gemieden."
-415,4920,,Sono un Hacker Leggendario di Infamia!,傳說中的Legend駭客！,,전설의 레전드 해커다!,Ich bin ein legendärer berüchtigter Hacker!
+415,4920,,Sono un Hacker Leggendario e Famigerato!,傳說中的Legend駭客！,,전설의 레전드 해커다!,Ich bin ein legendärer berüchtigter Hacker!
 416,3002,,Hacker leggendario e famigerato?,傳說中的Legend駭客？,,전설의 레전드 해커?,Legendärer berüchtigter Hacker?
-417,1050,,"""Leggendario"" e ""infamia"" non significano praticamente la stessa
-cosa?","欸欸，諾奇雅，
+417,1050,,"""Leggendario"" e ""Famigerato"" non significano praticamente la stessa cosa?","欸欸，諾奇雅，
 傳說和Legend不是同樣的意思嗎？",,"저기 있지, 노키아
 전설이랑 레전드는 같은 의미 아니야?","Sind „legendär“ und „berüchtigt“ nicht irgendwie
 sehr ähnlich?"
