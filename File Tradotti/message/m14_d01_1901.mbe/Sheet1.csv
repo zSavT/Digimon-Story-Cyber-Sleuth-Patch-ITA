@@ -19,10 +19,10 @@ persönlichen Unterhaltung, wie?"
 전 제가 해야 할 일을, 그저 조용히 하고 있을 뿐입니다","Beobachtung und Analyse sind Aufgaben eines
 Forschers. Ich gehe dorthin, wo ich hin muss.
 Ich bin dabei nur leise."
-9,3009,,"A quanto pare, anche a voi affascinano i Divoratori...
+9,3009,,"A quanto pare, anche a voi affascinano i Eater...
 E li studiate.",研究新也很感興趣的侵食者……,,아라타 군도 흥미진진해 하는 이터의 연구를 말이지요…,"Euch faszinieren Verschlinger offenbar auch ...
 Und ihr erforscht sie."
-10,3005,,"Sai, su cosa hanno messo gli occhi i Divoratori?!",你知道侵食者的目的嗎！？,,"……너, 이터의 목적을 알고 있는 거야!?","Weißt du, worauf die Verschlinger es abgesehen
+10,3005,,"Sai, su cosa hanno messo gli occhi i Eater?!",你知道侵食者的目的嗎！？,,"……너, 이터의 목적을 알고 있는 거야!?","Weißt du, worauf die Verschlinger es abgesehen
 haben?!"
 11,3009,,"Hehe... Sì, ti affascinano proprio, si vede.
 Da te, poi, me lo sarei aspettato più di chiunque altro.","呵呵……你果然有興趣嗎？
@@ -63,11 +63,11 @@ Deshalb passen wir uns an Lebensbedingungen an
 und geben unsere Gene weiter."
 19,3009,,"In altre parole, un imperativo evolutivo.",也就是“進化”呀。,,"…즉, ""진화""입니다","Mit anderen Worten, ein evolutionärer Imperativ."
 20,3005,,Evoluzione?,進化……？,,진화…?,Evolution?
-21,3009,,"Esatto. E sotto quest'aspetto, gli umani non sono minimamente diversi dai Divoratori!","正是如此……
+21,3009,,"Esatto. E sotto quest'aspetto, gli umani non sono minimamente diversi dai Eater!","正是如此……
 人類和侵食者都一樣！",,"그렇습니다…
 그리고 그건, 인간도 이터도 다르지 않습니다!","Genau. Und diesbezüglich unterscheiden sich
 Menschen nicht im Geringsten von Verschlingern!"
-22,3009,,"I Divoratori elaborano la loro preda come dati.
+22,3009,,"I Eater elaborano la loro preda come dati.
 Possono anche sovrascrivere questi dati.","侵食者有將捕食對象做為資料，進行分解、吸收
 並隨意改寫的能力，",,"이터는, 포식한 것을 데이터로 분해 및 흡수하여
 자유롭게 바꾸는 능력을 갖고 있습니다","Verschlinger verarbeiten ihre Beute als Daten.
@@ -76,7 +76,7 @@ Sie können diese Daten auch überschreiben."
 但這也只是某個能力的反作用之一。",,"그것이 당신들도 알고 계신 ""버그화""라 불리는 현상입니다만…
 이건 어느 능력의 반작용 중 하나에 불과했죠","Das kennst du. Wenn man Daten als „verbuggt“
 beschreibt, ist das genau dieses Phänomen."
-24,3009,,Ma non è il vero potere dei Divoratori.,侵食者真正的能力並非Bug化……,,이터의 진정한 능력은 버그화가 아니라…,"Aber das ist nicht die wahre Macht der
+24,3009,,Ma non è il vero potere dei Eater.,侵食者真正的能力並非Bug化……,,이터의 진정한 능력은 버그화가 아니라…,"Aber das ist nicht die wahre Macht der
 Verschlinger."
 25,3009,,La sua grande forza sta nel poter ristrutturare da capo al suo interno i dati assorbiti!,"它們真正的能力是，
 將吸收的資料在自體內部重新構成！",,"그들의 진정한 능력은, 흡수한 데이터를
@@ -87,13 +87,13 @@ Daten in sich neu strukturieren zu können!"
 새로운 생명으로 다시 태어나는 것!","Sie fressen ihre Opfer, überschreiben sich selbst
 dabei und werden wiedergeboren!"
 27,3009,,"E questo si chiama proprio Evoluzione!
-I Divoratori si evolvono ulteriormente divorando la loro preda!","那就是……進化！
+I Eater si evolvono ulteriormente divorando la loro preda!","那就是……進化！
 侵食者一邊反覆捕食，一邊繼續進化！",,"즉 그것은… 진화!
 이터는 포식을 반복하면서 계속 진화하고 있는 겁니다!","Und genau das nennt man Evolution!
 Verschlinger entwickeln sich durch das
 Verschlingen ihrer Beute weiter!"
 28,3005,,"Mangiano, per evolversi?",侵食者也是……為了進化而進食嗎？,,"이터도, …진화하기 위해서 먹고 있다는 거야?","Sie fressen, um sich weiterzuentwickeln?"
-29,3009,,"Proprio così! Per i Divoratori, la vita è fatta di evoluzione. Solo così possono sopravvivere.","沒錯！　對侵食者而言，所謂生存就是進化，
+29,3009,,"Proprio così! Per i Eater, la vita è fatta di evoluzione. Solo così possono sopravvivere.","沒錯！　對侵食者而言，所謂生存就是進化，
 只有繼續進化，才能繼續生存！",,"그렇습니다! 이터에게 있어서 살아가는 것이란, 진화하는 것
 …계속해서 진화를 해야만, 살아갈 수 있는 겁니다!","So ist es! Für Verschlinger besteht das Leben aus
 Weiterentwicklung. Nur so können sie bestehen."
@@ -111,7 +111,7 @@ L'importante è la pappa.","即使是隔開現實和數碼的牆，
 그들에게 있어서는 그저 먹이에 불과하지요","Wenn die Trennung zwischen echt und digital
 aufgelöst wird, ist denen das egal.
 Hauptsache Futter."
-33,3009,,"Grazie alle loro prede, i Divoratori possono ottenere in un attimo quello per cui noi umani ci abbiamo messo un'eternità!","侵食者利用各自的捕食作用，
+33,3009,,"Grazie alle loro prede, i Eater possono ottenere in un attimo quello per cui noi umani ci abbiamo messo un'eternità!","侵食者利用各自的捕食作用，
 轉眼間就能完成人類幾經歲月才能到達的境界。",,"인간이 오랜 세월을 거쳐야 겨우 도달할 수 있는 경지를
 이터는 각자의 포식 기능으로 단숨에 이룰 수 있는 것입니다!","Über ihre Beute können Verschlinger in einem
 Augenblick erreichen, wofür wir Menschen ewig
@@ -143,7 +143,7 @@ Avevi un altro piano, no?","啊～壁也好，門也好，都沒差啦！
 比起這個，你是有別的目的嗎？",,"아―, 벽이든 문이든 어느 쪽이든 상관없다고!
 그보다, 너에겐 다른 목적이 있다는 거야!?","Wall, Tor, Portal! Ist doch völlig gleichgültig!
 Du hattest noch einen anderen Plan, nicht wahr?"
-40,3009,,"Hehehe... Non appena i Divoratori abbatteranno il muro, non ci sarà più alcuna separazione tra il nostro mondo e quello digitale!","呵呵呵呵……透過讓侵食者侵蝕次元之壁，
+40,3009,,"Hehehe... Non appena i Eater abbatteranno il muro, non ci sarà più alcuna separazione tra il nostro mondo e quello digitale!","呵呵呵呵……透過讓侵食者侵蝕次元之壁，
 和我們世界臨接的數碼世界的邊界就會消失。",,"쿠후후후… 이터에게 차원의 벽을 침식시킴으로써
 우리들의 세계와 인접한 디지털 월드의 경계는 소실됩니다","Hehehe ... Sobald die Verschlinger den Wall
 einreißen, gibt es keine Trennung mehr zwischen
