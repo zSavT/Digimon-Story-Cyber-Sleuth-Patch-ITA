@@ -1,6 +1,6 @@
 ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
 1,2000,,?,！？,,…!?,?
-2,2000,,"Di nuovo Anima divina?
+2,2000,,"Di nuovo un Eater?
 Yuuko?
 Chi sei?","又是侵食者？
 「悠子」？
@@ -42,7 +42,8 @@ sehen."
 你是回應我的呼喚才來到這裡的吧？",,"…맞아, 내가 널 불렀어
 넌 그에 응해서, 이곳으로 와 준 거잖아?","Jawohl. Ich habe dich gerufen.
 Du hast reagiert und bist hergekommen, oder?"
-13,3036,,Ti sei appena svegliato qui? Non ricordi più cosa è successo?,清醒過來就已經在這裡了？你不知道發生了什麼事嗎？,,"…정신을 차리고 보니 이곳에 있었다고? 뭐가 일어난 건지, 모르겠다고?","Du bist nur hier aufgewacht? Du weiß nicht mehr,
+13,3036,,"Ti sei appena svegliato qui?
+Non ricordi più cosa è successo?",清醒過來就已經在這裡了？你不知道發生了什麼事嗎？,,"…정신을 차리고 보니 이곳에 있었다고? 뭐가 일어난 건지, 모르겠다고?","Du bist nur hier aufgewacht? Du weiß nicht mehr,
 was passiert ist?"
 14,3036,,"Questo è... un peccato.
 Forse è in parte perché ti ho chiamato.","那真是……不幸呢！
@@ -56,12 +57,14 @@ Questo potere ce l'hai, no?","“回應某人的呼喚”——
 너에게는, 그런 힘이 있는 게 아닐까","Auf einen Ruf zu antworten ...
 Diese Macht hast du doch, oder nicht?"
 16,3036,,"E non sei curioso dove siamo ""qui""?",你很想知道“這裡”是哪嗎？,,"""여기""가 어딘지, 신경 쓰이니?","Und bist du nicht neugierig, wo wir „hier“ sind?"
-17,3036,,Questo è uno spazio speciale in un certo network. L'ho creato in fretta per incontrarti.,"這裡是存在於“某個網路世界”上的特殊領域喔。
+17,3036,,"Questo è uno spazio speciale in un certo network.
+L'ho creato in fretta per incontrarti.","這裡是存在於“某個網路世界”上的特殊領域喔。
 是我為了和你見面應急準備的。",,"여긴, ""어느 네트워크""상에 존재하는 특수한 영역이야
 너와 만나기 위해 내가 급히 준비했어","Dies ist ein besonderer Bereich in einem
 bestimmten Netzwerk. Ich habe ihn schnell
 erschaffen, um dich zu treffen."
-18,3036,,Hai reagito alla mia voce senza rendertene conto e hai acceduto a questa rete.,"你無意識地回應了我的呼喚聲，
+18,3036,,"Hai reagito alla mia voce senza rendertene conto
+e hai acceduto a questa rete.","你無意識地回應了我的呼喚聲，
 登入了那個網路世界。",,"넌, 내 부름에 무의식적으로 응해서, 그 네트워크에
 접속한 거야","Du hast unbewusst auf meine Stimme reagiert und
 auf dieses Netzwerk zugegriffen."
@@ -82,7 +85,8 @@ Sono gli effetti del mio frammento di memoria.","你來到這裡所經歷的異�
 都是受了我片斷化記憶的影響。",,"이곳에 와서, 네가 체험한 기묘한 일들은―
 전부, 단편화된 내 기억의 영향 때문에 본 거야","Deine seltsamen Erlebnisse hier ...
 Sind die Auswirkungen meines Gedächtnisfragments."
-23,3036,,Ti sarà capitato qualcosa di simile. E così sei stato trascinato nelle mie memorie.,"你應該也有過其它類似的經歷，
+23,3036,,"Ti sarà capitato qualcosa di simile.
+E così sei stato trascinato nelle mie memorie.","你應該也有過其它類似的經歷，
 那都是我記憶的片斷所招致的……",,"그 밖에도 비슷한 체험을, 넌 이미 겪었을 거야
 그 체험들은, 내 기억의 단편이 일으켰던 거야…","Du hast sicher schon Ähnliches erlebt. Da wurdest
 du in meine Erinnerungen gezogen."
@@ -94,7 +98,8 @@ meinem echten Körper ähneln ..."
 26,2000,,Tu sei... lo spirito del ragazzo pallido?!,白、白色少年的幽靈！？,,"…하, 하얀 소년의 유령!?",Du bist ... der Geist des bleichen Jungen?!
 27,3036,,"Non so che forma prenderanno i miei frammenti, ma...",我不知道我的片斷是以什麼形態出現……,,"내 단편이, 어떤 모습으로 나타났는지 모르고 있었는데…","Ich weiß nicht, welche Gestalt meine Fragmente
 annehmen, aber ..."
-28,3036,,"Capisco. Un fantasma. Dev'essere stato sicuramente inquietante. Yuuko e Nokia, di sicuro le ha spaventate.","原來如此，是幽靈啊……一定讓人感覺很不舒服吧。
+28,3036,,"Capisco. Un fantasma. Dev'essere stato sicuramente inquietante.
+Yuuko e Nokia, di sicuro le ha spaventate.","原來如此，是幽靈啊……一定讓人感覺很不舒服吧。
 嚇到了悠子和其他人，特別是諾奇雅——",,"과연, 유령인가… 꽤나 무섭게 여겨지고 있구나
 …유코라든가, 특히 노키아를 무섭게 해 버려서―","Verstehe. Ein Geist. Das war sicher beunruhigend.
 Yuuko und Nokia hat es sicher erschreckt."
