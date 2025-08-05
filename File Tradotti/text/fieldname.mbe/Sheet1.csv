@@ -79,18 +79,18 @@ ID,Japanese,English,Chinese,EnglishCensored,Korean,German
 6100,,Spazio Digitale 11,數碼空間11,,디지털 스페이스 11,Digitalraum 11
 6110,,Spazio Digitale 12,數碼空間12,,디지털 스페이스 12,Digitalraum 12
 7000,,Linea Digitale,數碼線,,디지털 라인,Digitale Leitung
-7010,,Network Digitale I,數碼網路世界Ⅰ,,디지털 네트워크Ⅰ,Digitales Netzwerk I
-7020,,Network Digitale II,數碼網路世界Ⅱ,,디지털 네트워크Ⅱ,Digitales Netzwerk II
-7030,,Network Digitale III,數碼網路世界Ⅲ,,디지털 네트워크Ⅲ,Digitales Netzwerk III
-7040,,Network Digitale IV,數碼網路世界Ⅳ,,디지털 네트워크Ⅳ,Digitales Netzwerk IV
-7050,,Network Digitale V,數碼網路世界Ⅴ,,디지털 네트워크Ⅴ,Digitales Netzwerk V
-7060,,Network Digitale VI,數碼網路世界Ⅵ,,디지털 네트워크Ⅵ,Digitales Netzwerk VI
-7070,,Network Digitale VII,數碼網路世界Ⅶ,,디지털 네트워크Ⅶ,Digitales Netzwerk VII
-7080,,Network Digitale VIII,數碼網路世界Ⅷ,,디지털 네트워크Ⅷ,Digitales Netzwerk VIII
-7090,,Network Digitale IX,數碼網路世界Ⅸ,,디지털 네트워크Ⅸ,Digitales Netzwerk IX
-7100,,Network Digitale X,數碼網路世界Ⅹ,,디지털 네트워크Ⅹ,Digitales Netzwerk X
-7110,,Network Digitale XI,數碼網路世界11,,디지털 네트워크11,Digitales Netzwerk XI
-7120,,Network Digitale XII,數碼網路世界12,,디지털 네트워크12,Digitales Netzwerk XII
+7010,,Rete Digitale I,數碼網路世界Ⅰ,,디지털 네트워크Ⅰ,Digitales Netzwerk I
+7020,,Rete Digitale II,數碼網路世界Ⅱ,,디지털 네트워크Ⅱ,Digitales Netzwerk II
+7030,,Rete Digitale III,數碼網路世界Ⅲ,,디지털 네트워크Ⅲ,Digitales Netzwerk III
+7040,,Rete Digitale IV,數碼網路世界Ⅳ,,디지털 네트워크Ⅳ,Digitales Netzwerk IV
+7050,,Rete Digitale V,數碼網路世界Ⅴ,,디지털 네트워크Ⅴ,Digitales Netzwerk V
+7060,,Rete Digitale VI,數碼網路世界Ⅵ,,디지털 네트워크Ⅵ,Digitales Netzwerk VI
+7070,,Rete Digitale VII,數碼網路世界Ⅶ,,디지털 네트워크Ⅶ,Digitales Netzwerk VII
+7080,,Rete Digitale VIII,數碼網路世界Ⅷ,,디지털 네트워크Ⅷ,Digitales Netzwerk VIII
+7090,,Rete Digitale IX,數碼網路世界Ⅸ,,디지털 네트워크Ⅸ,Digitales Netzwerk IX
+7100,,Rete Digitale X,數碼網路世界Ⅹ,,디지털 네트워크Ⅹ,Digitales Netzwerk X
+7110,,Rete Digitale XI,數碼網路世界11,,디지털 네트워크11,Digitales Netzwerk XI
+7120,,Rete Digitale XII,數碼網路世界12,,디지털 네트워크12,Digitales Netzwerk XII
 7130,,Colosseo Ad Hoc,ad Hoc競技場,,애드혹 콜로세움,Sofort-Kolosseum
 7140,,Colosseo Online,線上競技場,,온라인 콜로세움,Online-Kolosseum
 10000,,Ikebukuro,池袋,,이케부쿠로,Ikebukuro
@@ -112,7 +112,7 @@ ID,Japanese,English,Chinese,EnglishCensored,Korean,German
 10260,,Ikebukuro: Alterazione Digitale,池袋－Digital Shift,,이케부쿠로 - 디지털 시프트,Ikebukuro (Dig. Verschiebung)
 10270,,Eater EDEN,記憶伺服器,,이터 EDEN,Verschlinger-EDEN
 10280,,Server della Memoria,侵食EDEN,,기억 서버,Erinnerungsserver
-10290,,Network Eater,侵食網路,,이터 네트워크,Verschlinger-Netzwerk
+10290,,Rete Eater,侵食網路,,이터 네트워크,Verschlinger-Netzwerk
 10300,,Server di K,K的伺服器,,K의 서버,Ks Server
 10310,,Sotto Kowloon,Under Kowloon,,언더 쿠롱,Unter Kowloon
 10320,,Server Abisso,深淵伺服器,,어비스 서버,Abyss-Server
