@@ -11,8 +11,8 @@ Che coincidenza incontrarti qui!","咦咦咦？
 Mirei Mikagura?
 So ein Zufall, dass ich dich hier treffe!"
 4,3013,,Era ora che ti facessi vivo.,我早就知道你差不多要過來了。,,"슬슬 올 때가 됐다는 걸, 난 알고 있었어","Wurde langsam Zeit, dass du vorbeischaust."
-5,3013,,"Non vuoi entrare nel mio negozietto? C'è
-qualcosa che devo fare per te.","你可以進來店裡嗎？
+5,3013,,"Non vuoi entrare nel mio negozietto?
+C'è qualcosa che devo fare per te.","你可以進來店裡嗎？
 我得幫你做一件事才行。",,"이쪽으로― 가게 안으로, 들어가 줄래?
 너에게, 반드시 해 줘야 할 게 있어","Magst du nicht in meinen kleinen Laden kommen?
 Ich muss etwas für dich tun."
@@ -23,14 +23,14 @@ Sbrigati, per favore.","“事情會變成這樣”，都是你我命中早就�
 …자, 빨리","Das Schicksal lässt uns keine andere Wahl.
 Bitte beeil dich."
 8,2000,,?,！？！？！？,,!?!?!?,?
-9,3013,,"Okay, allora, allunga la mano
-destra. Finirà presto. Stai fermo.","……那現在請你把「右手」伸出來。
+9,3013,,"Okay, allora, allunga la mano destra.
+Finirà presto. Stai fermo.","……那現在請你把「右手」伸出來。
 很快就會結束的，不要亂動。",,"…그럼,「오른손」을 내밀어 봐
 바로 끝낼 테니까, 가만히 있어","Gut, jetzt strecke deine rechte Hand aus.
 Es dauert nicht lange. Halt still."
 10,3013,,"Ora... l'altra cosa.
-Girati, non ti muovere... Lascia
-fare tutto a me.","接下來……是「那個」。
+Girati, non ti muovere...
+Lascia fare tutto a me.","接下來……是「那個」。
 轉過去，不要動……把一切交給我。",,"다음은…「그거」야
 뒤로 돌고, 움직이지 마… 나에게 전부, 다 맡겨","Als Nächstes ... die andere Sache.
 Dreh dich um und beweg dich nicht ...
@@ -45,8 +45,7 @@ funzionalità specifiche.","我在變成半電腦體的你身上，安裝了「�
 Cybergestalt installiert, das dir zusätzliche
 Funktionen bietet."
 14,3013,,"Ora puoi scansionare oggetti fisici con il
-tuo guanto destro e catturare dati cyber
-del bersaglio.","你右手的手套可以掃描物質，
+tuo guanto destro e catturare dati cyber del bersaglio.","你右手的手套可以掃描物質，
 並讓掃描對象「半電腦化」，並將其納為己有。",,"오른손의 장갑으로― 물질적인 것을 스캔해서
 대상을「반 전뇌화하여 취득할 수 있는」기능이야","Du kannst physische Objekte jetzt mit deiner
 rechten Hand scannen und so ihre Cyberdaten
@@ -69,13 +68,13 @@ Tu cosa sei esattamente?","這不是這個世界的問題吧？
 妳到底是什麼人？",,"그거, 세상 때문이 아닌데요!?
 당신은 대체 뭐 하는 사람인가요!?","Das ist schon etwas mehr als Technik!
 Wer bist du eigentlich genau?"
-20,3013,,"Non dovresti sorprenderti di cose del
-genere. Il tuo corpo continuerà a...","希望你可以不要因為這點小事就感到驚訝。
+20,3013,,"Non dovresti sorprenderti di cose del genere.
+Il tuo corpo continuerà a...","希望你可以不要因為這點小事就感到驚訝。
 今後，你身上會陸續發生更多事——",,"이런 걸로 하나하나 놀라지 말아 줬음 좋겠어
 앞으로도, 너의 몸에는 차례차례―","So etwas sollte dich nicht überraschen.
 Dein Körper wird auch in Zukunft ..."
-21,3013,,"No, è meglio se non sai cosa riserva il
-futuro. Tutto dovrebbe essere come il destino vuole.","不……未來的事還是不要知道比較好。
+21,3013,,"No, è meglio se non sai cosa riserva il futuro.
+Tutto dovrebbe essere come il destino vuole.","不……未來的事還是不要知道比較好。
 這一切都照著命運的安排。",,"…아니, 미래의 일은 모르는 게 좋겠네
 모든 건 정해진 운명이 이끄는 대로야","Nein, die Zukunft sollte ich dir nicht verraten.
 Alles sollte so verlaufen, wie das Schicksal
