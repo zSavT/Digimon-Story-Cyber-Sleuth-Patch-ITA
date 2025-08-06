@@ -44,8 +44,8 @@ Da möchte dich jemand sprechen."
 15,3030,,"Questa è mia figlia, Chika.",這是我女兒「千夏」。,,"이쪽이 딸인,「치카」입니다",Das ist meine Tochter Chika.
 16,2000,,!,……！！,,…!!,!
 17,3031,,Eh? Che succede?,咦？有、有什麼事嗎……？,,"에? 무, 무슨 일이죠…?",Hm? Was ist hier los?
-18,3006,,"Hmm... Questa è sua figlia,
-signor Yamashina? Non ha altri figli?","嗯，這位就是山科先生的女兒嗎？
+18,3006,,"Hmm... Questa è sua figlia, signor Yamashina?
+Non ha altri figli?","嗯，這位就是山科先生的女兒嗎？
 請問你有其他子女嗎？",,"흐음, 이쪽이 야마시나 씨의 따님, 인가요?
 …그 외에, 자녀분은?","Hm ... Das ist Ihre Tochter, Herr Yamashina?
 Und sonst haben Sie keine Kinder?"
@@ -53,8 +53,8 @@ Und sonst haben Sie keine Kinder?"
 Come mai me lo chiedi?",沒有，只有千夏一個……為什麼要這麼問……？,,"아뇨, 치카 하나 뿐입니다만… 왜 그런 걸…","Nein. Chika ist Einzelkind.
 Warum interessiert Sie das?"
 20,3031,,"Chi sei tu, esattamente?",你們兩個，到底是什麼人？,,"……당신들, 대체 뭐예요?",Wer sind Sie überhaupt?
-21,3030,,"Stanno chiedendo di una persona scomparsa
-in zona. Conosci qualcuno di scomparso?","因為這附近好像有人失蹤了，
+21,3030,,"Chiedono di qualcuno che è scomparso nel quartiere.
+Conosci qualcuno?","因為這附近好像有人失蹤了，
 妳知不知道？",,"그게, 이 주변에서 행방불명이 된 사람이 있다는구나
 너, 짐작 가는 게 있니?","Die beiden fragen nach jemandem, der hier in der
 Gegend vermisst wird. Kennst du jemanden?"
@@ -97,8 +97,7 @@ Wir wissen nichts über irgendwelche Vermisste!"
 36,3006,,"Eppure, abbiamo comunque ottenuto un sacco di
 informazioni preziose.",不過，也因此得到了相當重要的資訊。,,"그만큼, 얻은 정보는 컸던 모양이다","Und doch haben wir viele wertvolle Informationen
 gewonnen."
-37,3006,,"Questa Chika è certamente la figlia del signor
-Yamashina.",山科誠真正的女兒是山科千夏沒有錯。,,"야마시나 마코토의 진짜 딸은, 야마시나 치카임이 틀림없어","Diese Chika ist eindeutig Herrn Yamashinas
+37,3006,,"Questa Chika è certamente la figlia del signor Yamashina.",山科誠真正的女兒是山科千夏沒有錯。,,"야마시나 마코토의 진짜 딸은, 야마시나 치카임이 틀림없어","Diese Chika ist eindeutig Herrn Yamashinas
 Tochter."
 38,3006,,"Il che significa che il nostro cliente ha finto di essere la
 figlia di Yamashina per questo caso.","這麼一來，那位委託人，
