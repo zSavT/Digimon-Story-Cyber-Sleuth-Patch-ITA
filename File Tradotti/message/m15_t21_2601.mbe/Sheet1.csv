@@ -1,19 +1,18 @@
 ﻿ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
 1,3014,,"Vittoria! Ce l'abbiamo fatta, [p]!",好耶！令人滿意的勝利！幹得好呀！[p]！,,좋았어~! 회심의 승리! 해냈어 [p]!,"Sieg! Wir haben es geschafft, [p]!"
-2,3014,,"Come ti senti? Ti
-ha fatto sbollire la rabbia?",如何？稍微冷靜點了嗎？,,어때―? 머리는 좀 식었어?,"Wie fühlst du dich?
+2,3014,,"Come ti senti?
+Ti ha fatto sbollire la rabbia?",如何？稍微冷靜點了嗎？,,어때―? 머리는 좀 식었어?,"Wie fühlst du dich?
 Hat das dein Mütchen gekühlt?"
-3,1086,,"Impossibile! Stare al mio
-passo… Grrr! E allora! Forza! Finitemi.","怎麼可能……竟然跟得上我的速度……
+3,1086,,"Impossibile! Stare al mio passo... Grrr!
+E allora! Forza! Finitemi.","怎麼可能……竟然跟得上我的速度……
 可惡……快點給我致命一擊吧。",,"바보 같은… 내 스피드에 따라오다니…
 큭… 빨리, 끝장을 내거라","Unmöglich! Bei meinem Tempo mitzuhalten ...
 Grrr! Na dann! Macht schon! Gebt mir den Rest."
-4,3014,,"Finito? Che significa? Qui nessuno darà
-il resto a nessuno.",致命一擊？那是什麼？我不會這麼做的。,,끝장? 뭐야 그게? 그런 거 안 내,"Rest? Was soll das heißen? Hier gibt niemand
+4,3014,,"Finito? Che significa? Qui nessuno finirà nulla!",致命一擊？那是什麼？我不會這麼做的。,,끝장? 뭐야 그게? 그런 거 안 내,"Rest? Was soll das heißen? Hier gibt niemand
 irgendwem den Rest."
 5,1086,,Voi... volete concedere la grazia?,妳這傢伙……是同情我嗎？,,네 이놈… 동정을 베푸려는 것이냐,Ihr ... wollt Gnade walten lassen?
-6,3014,,"Ascolta, ti sbagli di grosso! Non te
-l'avevo detto? Abbiamo molto da discutere, quindi...","不～是不～是，我不是說了嗎？
+6,3014,,"Ascolta, ti sbagli di grosso! Non te l'avevo detto?
+Abbiamo molto da discutere, quindi...","不～是不～是，我不是說了嗎？
 我說過必須要好好談一談呀……所以呀……",,"아~냐 아~냐, 말했잖아
 차분~히 대화를 해야겠다고… 그러니까―","Hör zu, du irrst dich total! Hab ich’s nicht
 gesagt? Wir haben viel zu besprechen, also ..."
@@ -35,8 +34,8 @@ riconoscerai l'errore di pensiero.",所以我想說，如果相處一陣子，�
 wirst du den Denkfehler erkennen."
 11,1086,,Se è proprio un errore.,前提是我真的誤會了人類。,,"…그게 정말 오해라면, 말이지",Wenn es denn nun ein Fehler ist.
 12,3014,,"E se il bene in questo mondo proprio non
-si trova, allora vieni con noi nel
-nostro! Saresti il benvenuto!","嗯～如果你在這個世界找不到優點，
+si trova, allora vieni con noi nel nostro!
+Saresti il benvenuto!","嗯～如果你在這個世界找不到優點，
 那就來我們的世界吧！我們會好好款待你喔！",,"음~ 만약, 이 세계에서 좋은 점을 찾지 못하면,
 우리들의 세계로 와! 환영할게!","Und wenn sich das Gute auf dieser Welt partout
 nicht finden lässt, dann komm mit in unsere!
@@ -47,13 +46,12 @@ Pensi che mi lascierei coinvolgere in QUELLO?","呵呵……呵哈哈哈哈！
 그런 어처구니없는 제안을 내가 받아들일 거라 생각하는 건가?","Hehe, muahahaha!
 Du denkst, ich lasse mich DARAUF ein?"
 14,3014,,Affermativo!,是啊！,,응!,Jawoll!
-15,1086,,"Hmpf... Va
-bene. Non voglio deludere la tua fiducia.","哼……好吧。
+15,1086,,"Hmpf... Va bene.
+Non voglio deludere la tua fiducia.","哼……好吧。
 看在妳少根筋的份上，我就陪妳吧。",,"…흥 …좋다
 그 태평함을 봐서, 따라가 주마","Hmpf ... Na schön.
 Ich will deine Zuversicht nicht enttäuschen."
-16,1086,,"E se non troviamo il bene tra gli
-umani...",但是，如果到時找不到人類的優點……,,"그 대신, 인간의 좋은 점을 찾지 못했을 때는…","Und falls wir das Gute unter den Menschen nicht
+16,1086,,"E se non troviamo il bene tra gli umani...",但是，如果到時找不到人類的優點……,,"그 대신, 인간의 좋은 점을 찾지 못했을 때는…","Und falls wir das Gute unter den Menschen nicht
 finden ..."
 17,3014,,"Allora! Spuntiamo alcune attrazioni!
 Dove cominciamo?
@@ -74,8 +72,8 @@ Kentaurosmon NON è un alleato?","嗯……！？
 八腳馬獸……沒有成為伙伴！？",,"……응!?
 …슬레이프몬이 동료가… 안 됐어!?","Wie jetzt ...?!
 Kentaurosmon ist KEIN Verbündeter?"
-22,2000,,"Va
-bene. Devo tornare in ufficio.","哎，算了……
+22,2000,,"Va bene.
+Devo tornare in ufficio.","哎，算了……
 回事務所吧。",,"…뭐, 상관없나…
 사무소로 돌아가자","Na schön.
 Ich muss zurück ins Büro."
