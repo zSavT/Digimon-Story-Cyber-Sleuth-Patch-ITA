@@ -6,7 +6,7 @@ Cosa sta succedendo?","一段時間連絡不上……
 Was passiert gerade?"
 2,3046,,...,…………,,…………,...
 3,7057,,...!,……！！,,……!!,...!
-4,1022,,È finita. La ramificazione del Divoratore è sparita.,結束了……消滅侵食者軍團了。,,끝났어…… 이터 레기온은 소멸했어,Es ist vorbei. Der Verschlinger-Ableger ist weg.
+4,1022,,È finita. La ramificazione del Eater è sparita.,結束了……消滅侵食者軍團了。,,끝났어…… 이터 레기온은 소멸했어,Es ist vorbei. Der Verschlinger-Ableger ist weg.
 5,3046,,Questa voce... Sei tu... Erika?!,這個聲音……妳……是艾莉卡嗎！？,,그 목소리…… 너…… 에리카인가!?,Diese Stimme ... Bist das du ... Erika?!
 6,1022,,"Non è così semplice.
 Sono lei, ma anche no.","……有點不太一樣，
@@ -91,7 +91,7 @@ diffuso ampiamente...","明明就打倒了軍團，EDEN的侵蝕卻沒有停下�
 abgetragen. Die Wirkung von Erikas Geist hat
 sich weit verbreitet ..."
 34,3047,,Cosa? Spiegacelo così che possiamo capirlo!,啊、啊！？　喂，小姐，說得更簡單明白一點啊！,,"뭐, 뭐어!? 어이, 아가씨, 우리도 알아듣게 설명해줘!","Was? Erklär es so, dass wir es verstehen können!"
-35,1022,,"Quando l'emanazione del Divoratore ha assimilato gli estesi ricordi di Erika, ne è scaturito uno ""spirito"" temporaneo.","……侵食者軍團，因為吸收了擁有
+35,1022,,"Quando l'emanazione del Eater ha assimilato gli estesi ricordi di Erika, ne è scaturito uno ""spirito"" temporaneo.","……侵食者軍團，因為吸收了擁有
 龐大記憶的艾莉卡，而暫時有了“自我”。",,"……이터 레기온은 
 방대한 기억을 가진 에리카를 삼켜서
 일시적인 ""자아""를 가지고 말았어","Als der Verschlinger-Ableger Erikas umfangreiche
@@ -128,13 +128,13 @@ nicht wahr?"
 일시적인 자아를 핵으로 한 이터의 진화체","Die Verschlinger haben sich zu einem neuen
 Wesen entwickelt. Erikas Server ist die Hülle und
 der temporäre Geist das Herz."
-45,1022,,"È come un albero, le cui radici si espandono per tutta EDEN... un'\""EDEN del Divoratore\""!","在EDEN全域中伸展著樹根的虛擬之樹……
+45,1022,,"È come un albero, le cui radici si espandono per tutta EDEN... un'\""EDEN del Eater\""!","在EDEN全域中伸展著樹根的虛擬之樹……
 “侵食者EDEN”！",,"EDEN 전체에 뿌리를 내린 허구의 나무……""이터 EDEN""!","Es ist wie ein Baum, dessen Wurzeln sich in ganz
 EDEN ausbreiten ... einem „Verschlinger-EDEN“!"
 46,3047,,Eater-EDEN?!,妳說……侵食者EDEN！？,,이터 EDEN… 이라고!?,Verschlinger-EDEN?!
 47,2020,,...!,…………！,,…………!,...!
 48,3047,,Cos'è questo rumore?,……這是什麼聲音？,,……무슨 소리가 이렇게,Was ist das für ein Geräusch?
-49,1022,,"Lo spirito all'interno causa dolore al Divoratore.
+49,1022,,"Lo spirito all'interno causa dolore al Eater.
 Con l'assimilazione di tutta EDEN, i dolori sono probabilmente ancora più forti.","因為這些寄宿的自我……侵食者現在很痛苦。
 因為吸收了全EDEN，所以他們更加痛苦。",,"깃들어버린 자아가…… 이터를 괴롭히고 있어.
 EDEN 전체를 흡수하면서 고통이 더 증가했을 거야","Der Geist im Inneren verursacht dem Verschlinger
@@ -145,7 +145,7 @@ EDEN sind die Schmerzen wohl noch stärker."
 로그로 축적되어 있으니까――","Weil EDEN große Mengen an Mentaldaten und
 Gefühlen von Menschen aufgezeichnet und
 gesammelt hat ..."
-51,1022,,"Più di ogni altra cosa, il Divoratore vuole tornare di nuovo lì dove era prima.","……侵食者最深切的渴望就是回去，
+51,1022,,"Più di ogni altra cosa, il Eater vuole tornare di nuovo lì dove era prima.","……侵食者最深切的渴望就是回去，
 回到他們本來自身所在的場所。",,"……무엇보다도 이터는 돌아가고 싶어하고 있어.
 본래 자신이 있던 장소에","Mehr als alles andere will der Verschlinger wieder
 dahin zurück, wo er vorher war."
