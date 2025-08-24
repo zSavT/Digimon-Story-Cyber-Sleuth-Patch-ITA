@@ -11,6 +11,8 @@
 La realizzazione della patch è stata resa possibile in larga misura grazie al contributo dell'utente "**Lowrentio**". Egli si è dedicato alla comprensione del funzionamento del tool per la modifica dei file di gioco e all'adattamento delle immagini.
 
 - [Digimon Story Cyber Sleuth Patch ITA ](#digimon-story-cyber-sleuth-patch-ita-)
+- [Completamento progetto](#completamento-progetto)
+- [Milestone prossima versione (1.5)](#milestone-prossima-versione-15)
 - [Immagini progetto](#immagini-progetto)
 - [Video dimostrativo](#video-dimostrativo)
 - [Come installare la patch](#come-installare-la-patch)
@@ -34,6 +36,8 @@ Qui sotto sono riportati i progressi attuali del progetto:
   - Storia Cyber Sleuth: ![98%](https://progress-bar.xyz/98)
   - Storia Hacker's Memory: ![98%](https://progress-bar.xyz/98)
   - Quest: ![98%](https://progress-bar.xyz/98)
+  - DigiBook: ![98%](https://progress-bar.xyz/98)
+  - DigiLine: ![98%](https://progress-bar.xyz/98)
   - Dialoghi NPC: ![98%](https://progress-bar.xyz/98)
   - Abilità, Oggetti ...: ![98%](https://progress-bar.xyz/98)
   - Menu: ![98%](https://progress-bar.xyz/98)
@@ -43,11 +47,30 @@ Qui sotto sono riportati i progressi attuali del progetto:
   - Storia Cyber Sleuth: ![71%](https://progress-bar.xyz/71)
   - Storia Hacker's Memory: ![0%](https://progress-bar.xyz/0)
   - Quest: ![64%](https://progress-bar.xyz/64)
-  - Dialoghi NPC: ![52%](https://progress-bar.xyz/52)
+  - DigiBook: ![54%](https://progress-bar.xyz/54)
+  - DigiLine: ![46%](https://progress-bar.xyz/46)
+  - Dialoghi NPC: ![59%](https://progress-bar.xyz/59)
   - Abilità, Oggetti ...: ![59%](https://progress-bar.xyz/59)
   - Menu: ![77%](https://progress-bar.xyz/77)
   - Altro: ![55%](https://progress-bar.xyz/55)
   - Texture: ![76%](https://progress-bar.xyz/76)
+
+# Milestone prossima versione (1.5)
+
+- [ ] Terminare interamente la revisione Storia Cyber Sleuth.
+- [ ] Iniziare revisione Hacker's Memory sistemando la sola formattazione nei testi tagliati.
+- [ ] Utilizzare termine Eater al posto di Divoratore.
+- [ ] Correzione testi con doppi genere indicati.
+- [ ] Revisione Box Dialoghi NPC.
+- [ ] Revisione DigiLine Parte 4.
+- [ ] Revisione Quest Parte 4
+- [ ] Revisione DigiBook Parte 3
+- [ ] Correggere correttamente il termini "Tamer".
+- [ ] Correzione testi o miglioramenti vari da segnalazioni utenti dirette e indirette.
+- [ ] Revisione nomi e descrizione mosse Digimon.
+- [ ] Revisione dei testi dei menu di gioco e impostazioni.
+
+La lista dell'userStory è presente [qui](https://github.com/zSavT/Digimon-Story-Cyber-Sleuth-Patch-ITA/milestone/4).
 
 # Immagini progetto
 
