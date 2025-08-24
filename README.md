@@ -32,7 +32,7 @@ La realizzazione della patch è stata resa possibile in larga misura grazie al c
 
 Qui sotto sono riportati i progressi attuali del progetto:
 
-- **Pre-traduzione tramite Gemini:**
+**Pre-traduzione tramite Gemini:**
   - Storia Cyber Sleuth: ![98%](https://progress-bar.xyz/98)
   - Storia Hacker's Memory: ![98%](https://progress-bar.xyz/98)
   - Quest: ![98%](https://progress-bar.xyz/98)
@@ -43,7 +43,10 @@ Qui sotto sono riportati i progressi attuali del progetto:
   - Menu: ![98%](https://progress-bar.xyz/98)
   - Altro: ![98%](https://progress-bar.xyz/98)
   - Texture: ![0%](https://progress-bar.xyz/0)
-- **Revisione e adattamento manuale dei testi (versione patch 1.4.2):**
+
+**Revisione e adattamento manuale dei testi (versione patch 1.4.2):**
+
+Le percentuali quì sotto fanno riferimento alla revisione manuale dei testi, la percentuale "mancante" è stata comunque tradotta nella pre-traduzione.
   - Storia Cyber Sleuth: ![71%](https://progress-bar.xyz/71)
   - Storia Hacker's Memory: ![0%](https://progress-bar.xyz/0)
   - Quest: ![64%](https://progress-bar.xyz/64)
