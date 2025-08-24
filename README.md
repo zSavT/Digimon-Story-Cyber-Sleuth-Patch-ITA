@@ -26,6 +26,29 @@ La realizzazione della patch è stata resa possibile in larga misura grazie al c
     - [Linux (Steam Deck)](#linux-steam-deck)
 - [Crediti e collaboratori](#crediti-e-collaboratori)
 
+# Completamento progetto
+
+Qui sotto sono riportati i progressi attuali del progetto:
+
+- **Pre-traduzione tramite Gemini:**
+  - Storia Cyber Sleuth: ![98%](https://progress-bar.xyz/98)
+  - Storia Hacker's Memory: ![98%](https://progress-bar.xyz/98)
+  - Quest: ![98%](https://progress-bar.xyz/98)
+  - Dialoghi NPC: ![98%](https://progress-bar.xyz/98)
+  - Abilità, Oggetti ...: ![98%](https://progress-bar.xyz/98)
+  - Menu: ![98%](https://progress-bar.xyz/98)
+  - Altro: ![98%](https://progress-bar.xyz/98)
+  - Texture: ![0%](https://progress-bar.xyz/0)
+- **Revisione e adattamento manuale dei testi (versione patch 1.4.2):**
+  - Storia Cyber Sleuth: ![71%](https://progress-bar.xyz/71)
+  - Storia Hacker's Memory: ![0%](https://progress-bar.xyz/0)
+  - Quest: ![64%](https://progress-bar.xyz/64)
+  - Dialoghi NPC: ![52%](https://progress-bar.xyz/52)
+  - Abilità, Oggetti ...: ![59%](https://progress-bar.xyz/59)
+  - Menu: ![77%](https://progress-bar.xyz/77)
+  - Altro: ![55%](https://progress-bar.xyz/55)
+  - Texture: ![76%](https://progress-bar.xyz/76)
+
 # Immagini progetto
 
 ![Immagine](./img/1.png)
