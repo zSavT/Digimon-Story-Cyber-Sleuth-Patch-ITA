@@ -309,7 +309,7 @@
 4003,,Tizio Appariscente,輕浮男子,,경박한 남자,Angeber
 4004,,Impiegata,OL大姊姊,,OL누님,Bürodame
 4005,,Hacker Zaxon,Zaxon駭客,,잭슨 해커,Zaxon-Hacker
-4006,,Hacker Demoniaco,惡魔亂舞駭客,,데몬즈 해커,Demons-Hacker
+4006,,Hacker Demons,惡魔亂舞駭客,,데몬즈 해커,Demons-Hacker
 4007,,Hacker Randagio,無所屬駭客,,무소속 해커,Einzelnes Hackermitglied
 4008,,Studente,男學生,,남학생,Schüler
 4009,,Studentessa,女學生,,여학생,Schülerin
@@ -373,7 +373,7 @@
 4067,,Membro Leale Y,摯愛粉絲俱樂部Y,,좋아하는 아이 클럽 Y,Treues Mitglied Y
 4068,,Uomo Sospetto,可疑男子,,수상한 남자,Verdächtiger Mann
 4069,,Membro Leale K,摯愛粉絲俱樂部K,,좋아하는 아이 클럽 K,Treues Mitglied K
-4070,,Allenatore Ribelle,反叛者的馴獸師,,리벨리온즈 테이머,Rebel-Zähmer
+4070,,Tamer Ribelle,反叛者的馴獸師,,리벨리온즈 테이머,Rebel-Zähmer
 4071,,Leggenda Autoproclamata,自稱傳說駭客,,자칭 레전드 해커,Selbsternannte Legende
 4072,,Commesso,店員,,점원,Verkäufer
 4073,,Hacker A,駭客A,,해커 A,Hacker A
@@ -395,9 +395,9 @@
 4089,,Arata bambino,幼年新,,어린 아라타,Arata als Kind
 4090,,Bambino [p],幼年[p],,어린 [p],[p] als Kind
 4091,,Arata (Forma Finale),新(最終型態),,아라타(최종형태),Arata (finale Form)
-4092,,Allenatore A,馴獸師A,,테이머 A,Digimon-Zähmer A
-4093,,Allenatore B,馴獸師B,,테이머 B,Digimon-Zähmer B
-4094,,Allenatore C,馴獸師C,,테이머 C,Digimon-Zähmer C
+4092,,Tamer A,馴獸師A,,테이머 A,Digimon-Zähmer A
+4093,,Tamer B,馴獸師B,,테이머 B,Digimon-Zähmer B
+4094,,Tamer C,馴獸師C,,테이머 C,Digimon-Zähmer C
 4095,,Terminale King Drasil,世界樹終端,,위그드라실 단말,König Drasil-Terminal
 4096,,Ragazzo Fantasma Bianco,白色少年的幻影,,하얀 소년의 환상,Weißer Phantomjunge
 4097,,Colui che affronta le prove (Arata),體驗會參加者(新的偽裝),,체험회 참가자(아라타의 변장),Prüfling (Arata)
@@ -645,9 +645,9 @@
 4394,,Ragazza di lingua straniera,外文系女子,,서양계 여자,Fremdsprachiges Mädchen
 4395,,Ragazza Avida,物欲系女子,,물욕 많은 여자,Gieriges Mädchen
 4396,,Agente di Polizia Guida,負責引路的警察,,유도 담당 경찰관,Wegweisender Polizist
-4397,,Allenatore Viaggiatore del Mondo,勞碌命的馴獸師,,고생하는 테이머,Weitgereister Zähmer
-4398,,Allenatore Tremante,發抖的馴獸師,,떠는 테이머,Zitternder Zähmer
-4399,,Domatore Scattante,帥氣的馴獸師,,늠름한 테이머,Schneidiger Zähmer
+4397,,Tamer Viaggiatore del Mondo,勞碌命的馴獸師,,고생하는 테이머,Weitgereister Zähmer
+4398,,Tamer Tremante,發抖的馴獸師,,떠는 테이머,Zitternder Zähmer
+4399,,Tamer Scattante,帥氣的馴獸師,,늠름한 테이머,Schneidiger Zähmer
 4400,,Addomesticatore Chiacchierone,長舌的馴獸師,,수다를 좋아하는 테이머,Redseliger Zähmer
 4401,,Soldato di Difesa Vedetta,警戒中的防衛隊員,,경계하는 방위대원,Wachsamer Schutzpolizist
 4402,,Tizio stanco,疲憊的大叔,,지친 아저씨,Müder Kerl
@@ -778,13 +778,13 @@
 4560,,Hacker Zaxon Ossessivo,不停妄想的Zaxon駭客,,망상하는 잭슨 해커,Besessener Zaxon-Hacker
 4561,,Il Successore di Zaxon,繼承Zaxon的駭客,,잭슨을 잇는 해커,Zaxons Nachfolger
 4562,,Hacker Amante di Zaxon,熱愛Zaxon的駭客,,잭슨을 사랑하는 해커,Zaxon-Anhänger
-4563,,Hacker Demoniaco Selvaggio,四處作亂的惡魔亂舞駭客,,거친 데몬즈 해커,Wilder Demons-Hacker
-4564,,Hacker Demoniaco Trasandato,毫無警戒的惡魔亂舞駭客,,무방비한 데몬즈 해커,Schludriger Demons-Hacker
-4565,,Ex Hacker Demoniaco,曾經的惡魔亂舞駭客,,옛 데몬즈 해커,Ehemaliger Demons-Hacker
-4566,,Hacker Demoniaco Nevrotico,神經質的惡魔亂舞駭客,,신경질적인 데몬즈 해커,Zwanghafter Demons-Hacker
-4567,,Hacker Demoniaco Aggressivo,凶神惡煞的惡魔亂舞駭客,,강압적인 데몬즈 해커,Aggressiver Demons-Hacker
-4568,,Hacker Demoniaco Euforico,陶醉的惡魔亂舞駭客,,도취된 데몬즈 해커,Freudiger Demons-Hacker
-4569,,Hacker Demoniaco Adorante,心醉的惡魔亂舞駭客,,심취한 데몬즈 해커,Liebevoller Demons-Hacker
+4563,,Hacker Demons Selvaggio,四處作亂的惡魔亂舞駭客,,거친 데몬즈 해커,Wilder Demons-Hacker
+4564,,Hacker Demons Trasandato,毫無警戒的惡魔亂舞駭客,,무방비한 데몬즈 해커,Schludriger Demons-Hacker
+4565,,Ex Hacker Demons,曾經的惡魔亂舞駭客,,옛 데몬즈 해커,Ehemaliger Demons-Hacker
+4566,,Hacker Demons Nevrotico,神經質的惡魔亂舞駭客,,신경질적인 데몬즈 해커,Zwanghafter Demons-Hacker
+4567,,Hacker Demons Aggressivo,凶神惡煞的惡魔亂舞駭客,,강압적인 데몬즈 해커,Aggressiver Demons-Hacker
+4568,,Hacker Demons Euforico,陶醉的惡魔亂舞駭客,,도취된 데몬즈 해커,Freudiger Demons-Hacker
+4569,,Hacker Demons Adorante,心醉的惡魔亂舞駭客,,심취한 데몬즈 해커,Liebevoller Demons-Hacker
 4570,,Hacker Altruista,無欲無求的駭客,,욕심 없는 해커,Selbstloser Hacker
 4571,,Hacker Distaccato,孤傲的駭客,,고고한 해커,Reservierter Hacker
 4572,,Hacker Conservatore,保守的駭客,,보수적인 해커,Konservativer Hacker
@@ -904,9 +904,9 @@
 4763,,Hacker Aggressivo,具攻擊性的駭客,,공격적인 해커,Aggressiver Hacker
 4764,,Hacker con battute sconce,冷笑話很難笑的駭客,,유머가 썰렁한 해커,Hacker mit üblen Späßen
 4800,,Il Grido di Morte di Arata,新的臨終慘叫,,아라타의 단말마,Aratas Todesschrei
-4801,,Ragazzo Domatore Sangue Caldo,熱血馴獸師少年,,열혈 테이머 소년,Hitzköpfiger Zähmer-Junge
-4802,,Ragazzino Domatore Sfacciato,狂妄的馴獸師少年,,건방진 테이머 소년,Frecher Zähmer-Junge
-4803,,Ragazzo Domatore Sottoposto,拍馬屁的馴獸師青年,,아첨하는 테이머 소년,Aufgeregter Zähmer-Junge
+4801,,Ragazzo Tamer Sangue Caldo,熱血馴獸師少年,,열혈 테이머 소년,Hitzköpfiger Zähmer-Junge
+4802,,Ragazzino Tamer Sfacciato,狂妄的馴獸師少年,,건방진 테이머 소년,Frecher Zähmer-Junge
+4803,,Ragazzo Tamer Sottoposto,拍馬屁的馴獸師青年,,아첨하는 테이머 소년,Aufgeregter Zähmer-Junge
 4804,,Belva Affamata (Digimon),飢餓的野獸(數碼寶貝),,굶주린 야수(디지몬),Hungriges Tier (Digimon)
 4805,,Figura in attesa,觀察動靜的人影,,상황을 살피는 그림자,Wartende Gestalt
 4806,,Yuuko?,悠子？,,유코?,Yuuko?
@@ -1017,9 +1017,9 @@
 4911,,Vecchietto Esperto di EDEN,熟知EDEN的老爺爺,,EDEN 정보통 할아버지,Alter EDEN-Experte
 4912,,Ragazza che gioca con EDEN,正在玩EDEN的女孩,,EDEN에서 노는 여자아이,Mädchen spielt mit EDEN
 4913,,Studente Venerante EDEN,崇拜EDEN的女學生,,EDEN을 동경하는 여학생,EDEN liebende Schülerin
-4914,,Rebel Allenatore più debole,反叛者的最弱馴獸師,,리벨리온즈 최약체 테이머,Schwacher Rebel-Zähmer
+4914,,Rebel Tamer più debole,反叛者的最弱馴獸師,,리벨리온즈 최약체 테이머,Schwacher Rebel-Zähmer
 4915,,Hacker Feroce,強悍的駭客,,용맹스러운 해커,Gnadenloser Hacker
-4916,,Allenatore Ribelle,反叛者的馴獸師們,,리벨리온즈의 테이머임다,Rebel-Zähmer
+4916,,Tamer Ribelle,反叛者的馴獸師們,,리벨리온즈의 테이머임다,Rebel-Zähmer
 4917,,Yasu il Ribelle,反叛者的阿康,,리벨리온즈의 야스,Rebel Yasu
 4918,,Hacker Zuccone,頭腦簡單的駭客,,단세포 해커,Dummer Hacker
 4919,,Hacker Fortunato,不合群的駭客,,분위기를 못 타는 해커,Leichtsinniger Hacker
@@ -1337,8 +1337,8 @@
 7113,,Voce familiare,好像有聽過的聲音,,어디선가 들어본 목소리,Vertraute Stimme
 7115,,Sistema di Sicurezza EDEN,EDEN保全系統,,EDEN 보안 시스템,EDEN-Sicherheitssystem
 7116,,Voce diabolica,惡魔的聲音,,악마적인 목소리,Teuflische Stimme
-7117,,Hacker Demone potenziato,幹勁十足的惡魔亂舞駭客,,기합이 들어간 데몬즈 해커,Aufgekratz. Demons-Hacker
-7118,,Hacker Demoniaco Eccitato,來勁的惡魔亂舞駭客,,고양된 데몬즈 해커,Aufgeregter Demons-Hacker
+7117,,Hacker Demons potenziato,幹勁十足的惡魔亂舞駭客,,기합이 들어간 데몬즈 해커,Aufgekratz. Demons-Hacker
+7118,,Hacker Demons Eccitato,來勁的惡魔亂舞駭客,,고양된 데몬즈 해커,Aufgeregter Demons-Hacker
 7119,,Hacker in Bianco,白衣少年駭客,,하얀 옷을 입은 소년 해커,Hackerjunge in Weiß
 7120,,Agente di Polizia,女警,,여경 누님,Polizistin
 7121,,Detective,刑警,,형사님,Kommissarin
@@ -1368,7 +1368,7 @@
 7147,,Membro della Squadra di Polizia,警察隊員,,경찰 부대원,Sondereinsatzpolizist
 7149,,Hacker Vivace,活力十足的駭客,,활달한 해커,Lebhafter Hacker
 7150,,Hacker Zaxon Gasato,拿出幹勁的Zaxon駭客,,기합이 들어간 잭슨 해커,Aufgekratz. Zaxon-Hacker
-7151,,Hacker Demoniaco Urbano,優秀的惡魔亂舞駭客,,멋진 데몬즈 해커,Höflicher Demons-Hacker
+7151,,Hacker Demons Urbano,優秀的惡魔亂舞駭客,,멋진 데몬즈 해커,Höflicher Demons-Hacker
 7155,,Hacker Rivenditore di Steam,蒸氣領薪族駭客,,스팀리맨 해커,Steam-Dealer-Hacker
 7156,,Hacker di flanella di Akiba,秋葉格紋駭客,,아키바 플란넬 해커,Akiba-Flannel-Hacker
 7157,,Digimon Sconosciuto,沒見過的數碼寶貝,,처음 보는 디지몬,Unbekanntes Digimon
@@ -1485,7 +1485,7 @@
 7275,,Passante,路過的男性,,지나가던 남성,Passant
 7276,,Voce Prevista,如同預料的聲音,,예상했던 그대로의 목소리,Erwartete Stimme
 7277,,Shingo,真吾,,싱고,Shingo
-7278,,Allenatore Ribelle,反叛者的馴獸師們,,리벨리온즈의 테이머,Rebel-Zähmer
+7278,,Tamer Ribelle,反叛者的馴獸師們,,리벨리온즈의 테이머,Rebel-Zähmer
 7279,,Hacker Bourru Capriccioso,衝動嚇人的駭客,,성격 급하고 위압적인 해커,Rechthaberischer Hacker
 7280,,Hacker portatile,跟班的駭客,,졸개 같은 해커,Laptop-Hacker
 7281,,Voce di Yasu,阿康的聲音,,야스의 목소리,Yasus Stimme
@@ -1786,10 +1786,10 @@
 9176,,Astuto Hacker Solitario,精打細算的無隊伍駭客,,계산이 빠른 무소속 해커,Gerissener Solo-Hacker
 9177,,Hacker Solitario Nevrotico,高昂的無隊伍駭客,,흥분한 무소속 해커,Nervöse Solo-Hackerin
 9178,,Personale del negozio PC,PC商店店員,,PC 숍 점원,Computerladen-Personal
-9179,,Hacker Demoniaco Logoro,傷痕累累的惡魔亂舞駭客,,너덜너덜해진 데몬즈 해커,Zerlumpter Demons-Hacker
-9180,,Hacker Demoniaco Tremante,發抖的惡魔亂舞駭客,,떨고 있는 데몬즈 해커,Zitternder Demons-Hacker
-9181,,Hacker Demoniaco Informatore,情報通的惡魔亂舞駭客,,정보통 데몬즈 해커,Demons-Hacker-Informant
-9182,,Hacker Demoniaco Arrabbiato,焦躁不安的惡魔亂舞駭客,,초조해하는 데몬즈 해커,Genervter Demons-Hacker
+9179,,Hacker Demons Logoro,傷痕累累的惡魔亂舞駭客,,너덜너덜해진 데몬즈 해커,Zerlumpter Demons-Hacker
+9180,,Hacker Demons Tremante,發抖的惡魔亂舞駭客,,떨고 있는 데몬즈 해커,Zitternder Demons-Hacker
+9181,,Hacker Demons Informatore,情報通的惡魔亂舞駭客,,정보통 데몬즈 해커,Demons-Hacker-Informant
+9182,,Hacker Demons Arrabbiato,焦躁不安的惡魔亂舞駭客,,초조해하는 데몬즈 해커,Genervter Demons-Hacker
 9183,,Mr. Navit - Tipo01,NAVIT_type01,,내빗군_type01,Herr Navit – Typ 01
 9184,,Mr. Navit - Tipo02,NAVIT_type02,,내빗군_type02,Herr Navit – Typ 02
 9185,,Mr. Navit - Tipo03,NAVIT_type03,,내빗군_type03,Herr Navit – Typ 03
