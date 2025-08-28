@@ -1,12 +1,12 @@
 ﻿ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
 1,3003,,Ciao.,你們好……,,…안녕하세요,Hallo.
-2,3006,,"Sei venuta. E molto prima di quanto mi
-aspettassi. Sei davvero una cliente eccellente.","來了嗎……比我預想的還要早很多。
+2,3006,,"Sei venuta. E molto prima di quanto mi aspettassi.
+Sei davvero una cliente eccellente.","來了嗎……比我預想的還要早很多。
 果然是優秀的委託人。",,"왔나… 예상했던 것보다 꽤 빨리 왔군
 역시 우수한 의뢰인인 모양이다","Du bist hier. Und zwar viel früher, als ich
 dachte. Wirklich eine hervorragende Klientin."
-3,3006,,"Prego, siediti sul divano. L'indagine è
-conclusa. Posso offrirti il mio rapporto.","請到沙發上坐。
+3,3006,,"Prego, siediti sul divano. L'indagine è conclusa.
+Posso offrirti il mio rapporto.","請到沙發上坐。
 調查已經結束了，我來報告結果吧！",,"자, 소파에 앉아 주세요
 조사는 끝났습니다, 결과를 보고하도록 하죠","Bitte setz dich doch aufs Sofa. Die Untersuchung
 ist beendet. Ich habe einen Bericht für dich."
@@ -18,8 +18,8 @@ coinvolta nell'incursione negli account.",帳號狩獵是跟一個叫做Zaxon的
 관련되어 있었습니다","Ein Hackerteam namens „Zaxon“ war am
 Kontenraub beteiligt."
 8,3003,,Zaxon?!,……！　是Zaxon…？,,……! 잭슨이…?,Zaxon?!
-9,3006,,"Makoto Yamashina non è affatto
-scomparso. Sta vivendo una vita normale.
+9,3006,,"Makoto Yamashina non è affatto scomparso.
+Sta vivendo una vita normale.
 Felice, con sua figlia Chika e sua moglie.","山科誠沒有失蹤，好端端地，
 過著普通的生活。
 跟他的“女兒”千夏和太太，三人和睦地住在一起。",,"야마시나 마코토는 행방불명도 그 무엇도 아닌
@@ -47,8 +47,8 @@ Wer bist du eigentlich genau?
 Prima! Fall gelöst!"
 16,3003,,...,…………,,…………,...
 17,3003,,Tornerò.,我會“再”來的。,,"……""또"", 오겠습니다",Auf bald.
-18,3006,,"Sei sempre la benvenuta. La prossima
-volta, sentiti libera di usare il tuo vero nome.","歡迎隨時過來。
+18,3006,,"Sei sempre la benvenuta. La prossima volta,
+sentiti libera di usare il tuo vero nome.","歡迎隨時過來。
 下次請務必使用本名。",,"언제든 환영합니다
 다음엔 부디, 본명으로 와 주십시오","Du kannst jederzeit wiederkommen.
 Gern auch unter deinem echten Namen."
