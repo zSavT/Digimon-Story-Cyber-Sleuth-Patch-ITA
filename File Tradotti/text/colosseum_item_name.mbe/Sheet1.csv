@@ -283,9 +283,9 @@ ID,Japanese,English,Chinese,EnglishCensored,Korean,German
 309,,Re della Dominazione,鎮壓之王,,킹 오브 도미네이터,König der Dominanz
 310,,Osserva l'Abisso,凝視深淵之人,,심연을 들여다보는 자,Abyss-Abenteurer
 311,,Re Digimon,數碼寶貝之王,,디지몬 킹,Digimon-König
-312,,Domatore Coraggioso,勇氣馴獸師,,브레이브 테이머,Tapferer Zähmer
-313,,Allenatore d'Élite,精英馴獸師,,엘리트 테이머,Elite-Zähmer
-314,,Allenatore Veterano,老練馴獸師,,베테랑 테이머,Erfahrener Zähmer
+312,,Tamer Coraggioso,勇氣馴獸師,,브레이브 테이머,Tapferer Zähmer
+313,,Tamer d'Élite,精英馴獸師,,엘리트 테이머,Elite-Zähmer
+314,,Tamer Veterano,老練馴獸師,,베테랑 테이머,Erfahrener Zähmer
 315,,Digiprescelti,被選上的孩子,,선택받은 아이,DigiAuserwählter
 316,,Agente Libero,自律探員,,자율 에이전트,Freier Agent
 317,,Digimon Kaiser,數碼寶貝皇帝,,디지몬 카이저,Digimon-Kaiser
@@ -301,7 +301,7 @@ ID,Japanese,English,Chinese,EnglishCensored,Korean,German
 327,,Generale del Sole,日輪將軍,,일륜 장군,Sonnen-General
 328,,Generale Spirito del Legno,木精將軍,,목정 장군,Holzgeist-General
 329,,Generale dello Spirito della Terra,土神將軍,,토신 장군,Erdgeist-General
-330,,Domatore di gatti,貓咪馴獸師,,야옹이 테이머,Kätzchen-Zähmer
+330,,Tamer di gatti,貓咪馴獸師,,야옹이 테이머,Kätzchen-Zähmer
 331,,Uomo Analogico,類比古人,,아날로그맨,Analoger Mann
 332,,Ruggito del Drago,龍吼,,드래곤즈 로어,Drachengebrüll
 333,,Nature Spirits,自然之魂,,네이처 스피릿,Naturgeister
@@ -322,12 +322,12 @@ ID,Japanese,English,Chinese,EnglishCensored,Korean,German
 348,,Capodanno Omni,恭賀新年奧米加獸,,복 많이 받으시오메가몬,Omni-Neujahr
 349,,Mastro di Fagioli,豆男,,마메오,Mame-Meister
 350,,Giocatore Rana,青蛙演奏者,,개구리 연주자,Froschspieler
-351,,Domatore di Nume,鼻涕馴獸師,,워매테이머,Nume-Zähmer
+351,,Tamer di Nume,鼻涕馴獸師,,워매테이머,Nume-Zähmer
 352,,Re Zucca,南瓜之王,,펌프 킹,Pumpkin-König
 353,,Distruttore di Natale,聖誕破壞者,,크리스 매셔,Weihnachtsschläger
 354,,Via del Caos,混沌之道,,카오스 로드,Chaosweg
-355,,Allenatore Comando,指令馴獸師,,커맨드 테이머,Kommando-Zähmer
-356,,Grande Allenatore,高級馴獸師,,그레이트 테이머,Toller Zähmer
+355,,Tamer Comando,指令馴獸師,,커맨드 테이머,Kommando-Zähmer
+356,,Grande Tamer,高級馴獸師,,그레이트 테이머,Toller Zähmer
 357,,Hacker Digitale,數位破壞者,,디지털 크래커,Digitaler Cracker
 358,,Potere Definitivo,究極之力,,궁극 파워,Ultimative Macht
 359,,Sadico,虐待狂,,진성 S,Sadist
@@ -339,7 +339,7 @@ ID,Japanese,English,Chinese,EnglishCensored,Korean,German
 365,,Debugger,除錯者,,디버거,Debugger
 366,,Guaritore,治療者,,힐러,Heiler
 367,,Crusader,十字軍,,크루세이더,Kreuzritter
-368,,Allenatore Iperprotettivo,保護過度馴獸師,,과보호 테이머,Übereifriger Zähmer
+368,,Tamer Iperprotettivo,保護過度馴獸師,,과보호 테이머,Übereifriger Zähmer
 369,,Dottore Digimon,數碼寶貝博士,,디지몬 닥터,Digimon-Arzt
 370,,Avventato,橫衝直撞,,저돌맹진,Draufgänger
 371,,Treno Impazzito,失控快車,,폭주 특급,Führerloser Zug
@@ -357,7 +357,7 @@ ID,Japanese,English,Chinese,EnglishCensored,Korean,German
 383,,Attaccante Speciale,特殊攻擊者,,스페셜 어태커,Spezialangreifer
 384,,War Gamer,策略玩家,,워 게이머,Kriegsspiel-Gamer
 385,,Uragano Digimon,數碼寶貝旋風,,디지몬 허리케인,Digimon-Hurrikan
-386,,Allenatore Esperto,成人馴獸師,,어덜트 테이머,Erwachsener Zähmer
+386,,Tamer Esperto,成人馴獸師,,어덜트 테이머,Erwachsener Zähmer
 387,,Emblema del Coraggio,勇氣徽章之主,,용기의 문장 소유자,Mutwappen
 388,,Emblema dell'Amicizia,友情徽章之主,,우정의 문장 소유자,Freundschaftswappen
 389,,Stemma dell'Amore,愛情徽章之主,,사랑의 문장 소유자,Liebeswappen
