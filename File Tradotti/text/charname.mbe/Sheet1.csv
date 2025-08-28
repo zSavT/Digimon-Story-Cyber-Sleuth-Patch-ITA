@@ -309,7 +309,7 @@
 4003,,Tizio Appariscente,輕浮男子,,경박한 남자,Angeber
 4004,,Impiegata,OL大姊姊,,OL누님,Bürodame
 4005,,Hacker Zaxon,Zaxon駭客,,잭슨 해커,Zaxon-Hacker
-4006,,Hacker Demoniaco,惡魔亂舞駭客,,데몬즈 해커,Demons-Hacker
+4006,,Hacker Demons,惡魔亂舞駭客,,데몬즈 해커,Demons-Hacker
 4007,,Hacker Randagio,無所屬駭客,,무소속 해커,Einzelnes Hackermitglied
 4008,,Studente,男學生,,남학생,Schüler
 4009,,Studentessa,女學生,,여학생,Schülerin
@@ -778,13 +778,13 @@
 4560,,Hacker Zaxon Ossessivo,不停妄想的Zaxon駭客,,망상하는 잭슨 해커,Besessener Zaxon-Hacker
 4561,,Il Successore di Zaxon,繼承Zaxon的駭客,,잭슨을 잇는 해커,Zaxons Nachfolger
 4562,,Hacker Amante di Zaxon,熱愛Zaxon的駭客,,잭슨을 사랑하는 해커,Zaxon-Anhänger
-4563,,Hacker Demoniaco Selvaggio,四處作亂的惡魔亂舞駭客,,거친 데몬즈 해커,Wilder Demons-Hacker
-4564,,Hacker Demoniaco Trasandato,毫無警戒的惡魔亂舞駭客,,무방비한 데몬즈 해커,Schludriger Demons-Hacker
-4565,,Ex Hacker Demoniaco,曾經的惡魔亂舞駭客,,옛 데몬즈 해커,Ehemaliger Demons-Hacker
-4566,,Hacker Demoniaco Nevrotico,神經質的惡魔亂舞駭客,,신경질적인 데몬즈 해커,Zwanghafter Demons-Hacker
-4567,,Hacker Demoniaco Aggressivo,凶神惡煞的惡魔亂舞駭客,,강압적인 데몬즈 해커,Aggressiver Demons-Hacker
-4568,,Hacker Demoniaco Euforico,陶醉的惡魔亂舞駭客,,도취된 데몬즈 해커,Freudiger Demons-Hacker
-4569,,Hacker Demoniaco Adorante,心醉的惡魔亂舞駭客,,심취한 데몬즈 해커,Liebevoller Demons-Hacker
+4563,,Hacker Demons Selvaggio,四處作亂的惡魔亂舞駭客,,거친 데몬즈 해커,Wilder Demons-Hacker
+4564,,Hacker Demons Trasandato,毫無警戒的惡魔亂舞駭客,,무방비한 데몬즈 해커,Schludriger Demons-Hacker
+4565,,Ex Hacker Demons,曾經的惡魔亂舞駭客,,옛 데몬즈 해커,Ehemaliger Demons-Hacker
+4566,,Hacker Demons Nevrotico,神經質的惡魔亂舞駭客,,신경질적인 데몬즈 해커,Zwanghafter Demons-Hacker
+4567,,Hacker Demons Aggressivo,凶神惡煞的惡魔亂舞駭客,,강압적인 데몬즈 해커,Aggressiver Demons-Hacker
+4568,,Hacker Demons Euforico,陶醉的惡魔亂舞駭客,,도취된 데몬즈 해커,Freudiger Demons-Hacker
+4569,,Hacker Demons Adorante,心醉的惡魔亂舞駭客,,심취한 데몬즈 해커,Liebevoller Demons-Hacker
 4570,,Hacker Altruista,無欲無求的駭客,,욕심 없는 해커,Selbstloser Hacker
 4571,,Hacker Distaccato,孤傲的駭客,,고고한 해커,Reservierter Hacker
 4572,,Hacker Conservatore,保守的駭客,,보수적인 해커,Konservativer Hacker
@@ -1337,8 +1337,8 @@
 7113,,Voce familiare,好像有聽過的聲音,,어디선가 들어본 목소리,Vertraute Stimme
 7115,,Sistema di Sicurezza EDEN,EDEN保全系統,,EDEN 보안 시스템,EDEN-Sicherheitssystem
 7116,,Voce diabolica,惡魔的聲音,,악마적인 목소리,Teuflische Stimme
-7117,,Hacker Demone potenziato,幹勁十足的惡魔亂舞駭客,,기합이 들어간 데몬즈 해커,Aufgekratz. Demons-Hacker
-7118,,Hacker Demoniaco Eccitato,來勁的惡魔亂舞駭客,,고양된 데몬즈 해커,Aufgeregter Demons-Hacker
+7117,,Hacker Demons potenziato,幹勁十足的惡魔亂舞駭客,,기합이 들어간 데몬즈 해커,Aufgekratz. Demons-Hacker
+7118,,Hacker Demons Eccitato,來勁的惡魔亂舞駭客,,고양된 데몬즈 해커,Aufgeregter Demons-Hacker
 7119,,Hacker in Bianco,白衣少年駭客,,하얀 옷을 입은 소년 해커,Hackerjunge in Weiß
 7120,,Agente di Polizia,女警,,여경 누님,Polizistin
 7121,,Detective,刑警,,형사님,Kommissarin
@@ -1368,7 +1368,7 @@
 7147,,Membro della Squadra di Polizia,警察隊員,,경찰 부대원,Sondereinsatzpolizist
 7149,,Hacker Vivace,活力十足的駭客,,활달한 해커,Lebhafter Hacker
 7150,,Hacker Zaxon Gasato,拿出幹勁的Zaxon駭客,,기합이 들어간 잭슨 해커,Aufgekratz. Zaxon-Hacker
-7151,,Hacker Demoniaco Urbano,優秀的惡魔亂舞駭客,,멋진 데몬즈 해커,Höflicher Demons-Hacker
+7151,,Hacker Demons Urbano,優秀的惡魔亂舞駭客,,멋진 데몬즈 해커,Höflicher Demons-Hacker
 7155,,Hacker Rivenditore di Steam,蒸氣領薪族駭客,,스팀리맨 해커,Steam-Dealer-Hacker
 7156,,Hacker di flanella di Akiba,秋葉格紋駭客,,아키바 플란넬 해커,Akiba-Flannel-Hacker
 7157,,Digimon Sconosciuto,沒見過的數碼寶貝,,처음 보는 디지몬,Unbekanntes Digimon
@@ -1786,10 +1786,10 @@
 9176,,Astuto Hacker Solitario,精打細算的無隊伍駭客,,계산이 빠른 무소속 해커,Gerissener Solo-Hacker
 9177,,Hacker Solitario Nevrotico,高昂的無隊伍駭客,,흥분한 무소속 해커,Nervöse Solo-Hackerin
 9178,,Personale del negozio PC,PC商店店員,,PC 숍 점원,Computerladen-Personal
-9179,,Hacker Demoniaco Logoro,傷痕累累的惡魔亂舞駭客,,너덜너덜해진 데몬즈 해커,Zerlumpter Demons-Hacker
-9180,,Hacker Demoniaco Tremante,發抖的惡魔亂舞駭客,,떨고 있는 데몬즈 해커,Zitternder Demons-Hacker
-9181,,Hacker Demoniaco Informatore,情報通的惡魔亂舞駭客,,정보통 데몬즈 해커,Demons-Hacker-Informant
-9182,,Hacker Demoniaco Arrabbiato,焦躁不安的惡魔亂舞駭客,,초조해하는 데몬즈 해커,Genervter Demons-Hacker
+9179,,Hacker Demons Logoro,傷痕累累的惡魔亂舞駭客,,너덜너덜해진 데몬즈 해커,Zerlumpter Demons-Hacker
+9180,,Hacker Demons Tremante,發抖的惡魔亂舞駭客,,떨고 있는 데몬즈 해커,Zitternder Demons-Hacker
+9181,,Hacker Demons Informatore,情報通的惡魔亂舞駭客,,정보통 데몬즈 해커,Demons-Hacker-Informant
+9182,,Hacker Demons Arrabbiato,焦躁不安的惡魔亂舞駭客,,초조해하는 데몬즈 해커,Genervter Demons-Hacker
 9183,,Mr. Navit - Tipo01,NAVIT_type01,,내빗군_type01,Herr Navit – Typ 01
 9184,,Mr. Navit - Tipo02,NAVIT_type02,,내빗군_type02,Herr Navit – Typ 02
 9185,,Mr. Navit - Tipo03,NAVIT_type03,,내빗군_type03,Herr Navit – Typ 03

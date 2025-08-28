@@ -62,13 +62,14 @@ Le percentuali quì sotto fanno riferimento alla revisione manuale dei testi, la
 
 - [ ] Terminare interamente la revisione Storia Cyber Sleuth.
 - [ ] Iniziare revisione Hacker's Memory sistemando la sola formattazione nei testi tagliati.
-- [ ] Utilizzare termine Eater al posto di Divoratore.
 - [ ] Correzione testi con doppi genere indicati.
 - [ ] Revisione Box Dialoghi NPC.
 - [ ] Revisione DigiLine Parte 4.
 - [ ] Revisione Quest Parte 4
 - [ ] Revisione DigiBook Parte 3
-- [ ] Correggere correttamente il termini "Tamer".
+- [ ] Utilizzare termine Eater al posto di Divoratore.
+- [ ] Correggere correttamente il termine "Tamer".
+- [x] Correggere correttamente il termine "Demons".
 - [ ] Correzione testi o miglioramenti vari da segnalazioni utenti dirette e indirette.
 - [ ] Revisione nomi e descrizione mosse Digimon.
 - [ ] Revisione dei testi dei menu di gioco e impostazioni.
