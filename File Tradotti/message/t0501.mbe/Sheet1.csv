@@ -2,48 +2,48 @@
 0,2000,,"È ora di andare a incontrare gente
 nell'edificio.",現在先在館內到處跟人打招呼吧。,,지금은 관내에서 인사를 하고 다니자,"Es wird Zeit, sich mit den Leuten im Gebäude zu
 unterhalten."
-1000,4300,,"Quelle scale mobili ti porteranno fino al
-terzo piano. Per raggiungere gli altri
-piani, dovresti prendere l'ascensore o le scale.","只要搭那裡的電扶梯，就能直接到達3樓哦。
+1000,4300,,"La scala mobile porta direttamente al terzo piano.
+Per raggiungere gli altri piani, dovresti
+prendere l'ascensore o le scale.","只要搭那裡的電扶梯，就能直接到達3樓哦。
 如果想去別的樓層，你可以走樓梯或搭電梯。",,"저기 있는 에스컬레이터를 타면 3F까지 단숨에 갈 수 있어
 다른 층에 가고 싶으면 계단이나 엘리베이터를 사용하면 돼","Die Rolltreppe führt direkt zum dritten Stock.
 Um zu den anderen Etagen zu gelangen,
 solltest du den Lift oder die Treppe nehmen."
-1050,4300,,"Quelle scale mobili ti porteranno fino al
-terzo piano. Per raggiungere gli altri
-piani, dovresti prendere l'ascensore o le scale.","只要搭那裡的電扶梯，就能直接到達3樓哦。
+1050,4300,,"La scala mobile porta direttamente al terzo piano.
+Per raggiungere gli altri piani, dovresti prendere
+l'ascensore o le scale.","只要搭那裡的電扶梯，就能直接到達3樓哦。
 如果想去別的樓層，你可以走樓梯或搭電梯。",,"저기 있는 에스컬레이터를 타면 3F까지 단숨에 갈 수 있어
 다른 층에 가고 싶으면 계단이나 엘리베이터를 사용하면 돼","Die Rolltreppe führt direkt zum dritten Stock.
 Um zu den anderen Etagen zu gelangen,
 solltest du den Lift oder die Treppe nehmen."
-1100,4301,,"C'è un negozio di CD al secondo piano e un bar al
-quarto... Urg, questo edificio è un labirinto. Farò meglio
-a controllare la lista dei negozi vicino agli ascensori...","2樓有唱片行，4樓有咖啡廳……
+1100,4301,,"C'è un negozio di CD al secondo piano e un Bar al quarto...
+Urg, questo edificio è un labirinto. Farei meglio a
+controllare la lista dei negozi vicino agli ascensori...","2樓有唱片行，4樓有咖啡廳……
 嗚嗚，總覺得會在這棟建築物裡迷路。
 先去看看電梯的樓層簡介吧。",,"2F에는 CD 숍이 있고, 4F에는 카페가 있고
 …으, 이 건물에서는 헤맬 것만 같아
 엘리베이터에 있는 안내판이라도 보고 올까","Im zweiten Stock gibt es einen CD-Laden und im
 vierten ein Café ... Was für ein Labyrinth. Ich
 werfe mal einen Blick auf die Ladenliste am Lift."
-1150,4301,,"C'è un negozio di CD al secondo piano e un caffè al
-quarto... Urg, questo edificio è un labirinto. Farei
-meglio a controllare la lista dei negozi vicino agli ascensori...","2樓有唱片行，4樓有咖啡廳……
+1150,4301,,"C'è un negozio di CD al secondo piano e un Bar al quarto...
+Urg, questo edificio è un labirinto. Farei meglio a
+controllare la lista dei negozi vicino agli ascensori...","2樓有唱片行，4樓有咖啡廳……
 嗚嗚，總覺得會在這棟建築物裡迷路。
 先去看看電梯的樓層簡介吧。",,"2F에는 CD 숍이 있고, 4F에는 카페가 있고
 …으, 이 건물에서는 헤맬 것만 같아
 엘리베이터에 있는 안내판이라도 보고 올까","Im zweiten Stock gibt es einen CD-Laden und im
 vierten ein Café ... Was für ein Labyrinth. Ich
 werfe mal einen Blick auf die Ladenliste am Lift."
-1200,4302,,"Se giri a destra prima della scala mobile, ci
-sono una stanza di consultazione e
-un'agenzia investigativa.","聽說在那邊的電扶梯前面轉彎後，
+1200,4302,,"Se giri a destra prima della scala mobile,
+ci sono una stanza di consultazione
+e un'agenzia investigativa.","聽說在那邊的電扶梯前面轉彎後，
 有諮商室跟偵探事務所。",,"저기 있는 에스컬레이터의 앞쪽으로 꺾어 들어간 곳에
 상담소랑, 탐정사무소가 있대","Wenn du vor der Rolltreppe rechts abbiegst,
 findest du einen Beratungsraum und
 ein Detektivbüro."
 1250,4302,,"Stavo parlando con un amico nell'area comunitaria di
-EDEN quando uno sciame di Digimon è apparso dal
-nulla! Fortunatamente siamo riusciti a scappare...","昨天在EDEN的公共區域跟朋友聊天時，數碼寶貝的集團突然出現！
+EDEN quando uno sciame di Digimon è apparso dal nulla!
+Fortunatamente siamo riusciti a scappare...","昨天在EDEN的公共區域跟朋友聊天時，數碼寶貝的集團突然出現！
 我當時嚇得轉身就跑，所以還算是平安無事……",,"어제 EDEN의 커뮤니티 에어리어에서 친구랑 수다를 떨고 있었는데
 갑자기 디지몬 집단이 나타났어!
 서둘러 도망쳤다 보니, 어떻게든 무사했지만…","Als ich mit einem Freund im Gemeinschaftsbereich
@@ -58,8 +58,8 @@ con cui consultarsi. È ancora aperta?","哦……總覺得兩邊都很可疑呢
 정말 영업하고 있는 걸까?","Hmpf, dieser Ort wirkt sehr zwielichtig auf mich.
 Im „Beratungsraum“ scheint es keinen Berater zu
 geben. Hat es überhaupt offen?"
-1350,4303,,"Ma che...? Stanno succedendo cose folli
-anche in EDEN. Io per un po' non mi connetterò...","那是怎麼回事……EDEN也變得很誇張呢。
+1350,4303,,"Ma che...? Stanno succedendo cose folli anche in EDEN.
+Io per un po' non mi connetterò...","那是怎麼回事……EDEN也變得很誇張呢。
 我看我暫時不要登入EDEN好了……",,"뭐야 그게… EDEN에도 큰일이 났구나
 당분간 EDEN에 로그인은, 하지 말아야지…","Was zum?! Auch in EDEN passieren die verrücktesten
 Dinge. Ich logge mich erst mal nicht mehr ein ..."
