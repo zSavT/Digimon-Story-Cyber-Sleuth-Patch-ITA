@@ -68,8 +68,8 @@ Le percentuali quì sotto fanno riferimento alla revisione manuale dei testi, la
 - [ ] Revisione Quest Parte 4
 - [ ] Revisione DigiBook Parte 3
 - [ ] Utilizzare termine Eater al posto di Divoratore.
-- [ ] Correggere correttamente il termine "Tamer".
-- [x] Correggere correttamente il termine "Demons".
+- [x] Utilizzare correttamente il termine "Tamer".
+- [x] Utilizzare correttamente il termine "Demons".
 - [ ] Correzione testi o miglioramenti vari da segnalazioni utenti dirette e indirette.
 - [ ] Revisione nomi e descrizione mosse Digimon.
 - [ ] Revisione dei testi dei menu di gioco e impostazioni.
