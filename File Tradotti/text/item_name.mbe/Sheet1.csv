@@ -31,7 +31,7 @@ ID,Japanese,English,Chinese,EnglishCensored,Korean,German
 30,,Potenziamento ATK,HIT增幅器,,HIT 부스트,TRE-Boost
 31,,Potenziamento AGL,AGL增幅器,,AGL 부스트,GEW-Boost
 32,,Potenziamento CRT.,CRT增幅器,,CRT 부스트,KRT-Boost
-33,,Portale di fuga,ESCAPE GATE,,이스케이프 게이트,Fluchttor
+33,,Portale di Fuga,ESCAPE GATE,,이스케이프 게이트,Fluchttor
 50,,Punto Coraggio E,勇氣值E,,브레이브 포인트 E,Mutpunkt E
 51,,Punto Coraggio D,勇氣值D,,브레이브 포인트 D,Mutpunkt D
 52,,Punto Coraggio C,勇氣值C,,브레이브 포인트 C,Mutpunkt C
@@ -39,8 +39,8 @@ ID,Japanese,English,Chinese,EnglishCensored,Korean,German
 54,,Punto Coraggio A,勇氣值A,,브레이브 포인트 A,Mutpunkt A
 55,,Amicizia,友情,,프렌드십,Freundschaft
 56,,Amicizia DX,友情DX,,프렌드십 DX,Freundschaft DX
-57,,Portale di casa,HOME GATE,,홈 게이트,Heimattor
-58,,Esporta,EXPORT,,익스포트,Export
+57,,Portale di Casa,HOME GATE,,홈 게이트,Heimattor
+58,,Esportazione,EXPORT,,익스포트,Export
 60,,Digiuovo del Coraggio,勇氣裝甲,,용기의 디지멘탈,Digi-Ei des Mutes
 61,,Digiuovo dei Miracoli,奇蹟裝甲,,기적의 디지멘탈,Digi-Ei der Wunder
 62,,Digiuovo del Destino,命運裝甲,,운명의 디지멘탈,Digi-Ei des Schicksals
