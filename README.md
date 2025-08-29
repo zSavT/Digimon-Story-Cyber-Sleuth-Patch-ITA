@@ -67,7 +67,7 @@ Le percentuali quì sotto fanno riferimento alla revisione manuale dei testi, la
 - [ ] Revisione DigiLine Parte 4.
 - [ ] Revisione Quest Parte 4
 - [ ] Revisione DigiBook Parte 3
-- [ ] Utilizzare termine Eater al posto di Divoratore.
+- [x] Utilizzare termine Eater al posto di Divoratore.
 - [x] Utilizzare correttamente il termine "Tamer".
 - [x] Utilizzare correttamente il termine "Demons".
 - [ ] Correzione testi o miglioramenti vari da segnalazioni utenti dirette e indirette.
