@@ -1,5 +1,6 @@
 ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
-1,3005,,Ehi. È da tanto che non ti vedo. Ma che combinazione! Qualcuno ti ha mandato?,"哟……好久不見呀！
+1,3005,,"Ehi. È da tanto che non ti vedo. Ma che combinazione!
+Qualcuno ti ha mandato?","哟……好久不見呀！
 居然會在這種地方遇見你……是誰派你來的嗎？",,"여어… 오랜만이구만
 이런 곳에서 만나다니… 누구의 사주라도 받았어?","Hey. Lange nicht gesehen. So ein Zufall aber auch.
 Hat dich jemand geschickt?"
@@ -12,7 +13,7 @@ Deinem Körper geht es doch hoffentlich nicht
 schlechter?"
 4,2000,,...!,……！,,…!,...!
 5,2000,,"Non avrei dovuto chiederlo?
-Ci preoccupiamo tutti per te!
+Siamo tutti preoccupati per te!
 Cosa te ne importa, nella tua situazione?","那才是我要說的話吧！
 大家都很擔心你……你都去了哪裡？做了什麼事呀？
 我要頒本年度的「輪得到你來說嗎」大獎給你喔！你這混蛋！",,"그건 이쪽 대사거든!
@@ -21,13 +22,15 @@ Cosa te ne importa, nella tua situazione?","那才是我要說的話吧！
 Wir machen uns alle Sorgen um dich!
 Was kümmert dich das in deiner Situation?"
 6,3005,,Chi se ne frega di un ricercato?,哈哈，用不著通緝犯來擔心你啊？,,"하핫, 지명수배범에게 걱정 받고 싶진 않은 거냐",Wen interessiert schon ein gesuchter Verbrecher?
-7,3005,,"Mi sono occupato degli Eater, ma ho dovuto evitare la polizia e possibili testimoni. La vita in fuga non è affatto facile.","我一邊避開警察和旁人，一邊調查侵食者啊。
+7,3005,,"Mi sono occupato degli Eater, ma ho dovuto evitare la polizia e possibili testimoni.
+La vita in fuga non è affatto facile.","我一邊避開警察和旁人，一邊調查侵食者啊。
 逃亡生活意外地費力呢！",,"경찰이나 사람들의 눈을 피하면서 이터의 조사를 하고 있었는데
 …도망 생활이라는 건 의외로 힘들구만","Ich habe mich mit Verschlingern befasst, musste
 dabei aber die Polizei und mögliche Zeugen meiden.
 Das Leben auf der Flucht ist gar nicht so einfach."
 8,3005,,Ma posso lamentarmi anche più tardi.,哎，抱怨的話之後再說吧……,,"뭐, 푸념은 나중에 하고",Jammern kann ich aber auch später noch.
-9,3005,,Amici miei sono stati inseguiti qui dagli Inghiottitori. Volevo aiutarli.,"有人被侵食者追趕而逃來這裡……
+9,3005,,"Amici miei sono stati inseguiti qui dagli Eater.
+Volevo aiutarli.","有人被侵食者追趕而逃來這裡……
 我想在他們被襲擊之前伸出援手。",,"이터에게 쫓겨서, 이쪽으로 도망친 녀석들이 있어…
 덮쳐지기 전에 구해 줄까 하거든","Freunde von mir wurden von Verschlingern hierher
 verfolgt. Ich wollte ihnen helfen."

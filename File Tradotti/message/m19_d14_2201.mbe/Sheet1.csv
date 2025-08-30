@@ -1,29 +1,27 @@
 ﻿ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
 1,3009,,"Allora, il portale è aperto!",好了，門已經打開了。,,"자, 문은 열렸습니다","So, das Tor steht offen!"
-2,3009,,"Questo 'cerchio magico' è con il Mondo Digitale
-collegato. Non appena voi siete pronti ...","這個“魔方陣”連接到數碼世界。
+2,3009,,"Questo 'cerchio magico' è con il Mondo Digitale collegato.
+Non appena voi siete pronti ...","這個“魔方陣”連接到數碼世界。
 準備好的話，隨時都能過去。",,"이 ""마방진""은, 디지털 월드측에 접속하고 있습니다
 준비가 끝나시면, 언제든 가실 수 있습니다","Dieser „Zauberkreis“ ist mit der Digitalen Welt
 verbunden. Sobald ihr bereit seid ..."
 3,1416,,Lascia che ti chieda una cosa.,我想問一個問題。,,…한 가지 물어 두겠다,Lass mich eins fragen.
 4,3009,,"Sì, sì, che c'è?",好呀，什麼事呢？,,"네네, 뭔가요?","Ja, ja, was gibt es?"
-5,1416,,"Hai detto che dobbiamo distruggere la
-Procreatrix del Eater. Abbiamo forse un metodo
-affidabile per questo?","雖然你說只能消除侵食者母體，
+5,1416,,"Hai detto che dobbiamo distruggere la Procreatrix del Eater.
+Abbiamo forse un metodo affidabile per questo?","雖然你說只能消除侵食者母體，
 但有明確的消除方法嗎？",,"마더 이터를 제거할 수밖에 없다고 했다만―
 제거할, 확실한 방법은 있는 건가","Du meintest, dass wir die Verschlinger-Procreatrix
 vernichten müssen. Haben wir dafür denn eine
 verlässliche Methode?"
 6,3009,,Mamma mia! Non l'ho spiegato?,哎呀呀，我沒有解釋嗎？,,"이거이거, 설명하지 않았던가요?",Gute Güte! Habe ich das nicht erklärt?
 7,3009,,"Certo, c'è un modo.",當然有方法。,,"물론, 방법은 있고 말고요",Natürlich gibt es einen Weg.
-8,3009,,"Estraiamo il corpo estraneo nella
-Procreatrix: I dati mentali di Yuugo Kamishiro.","消除被限制在侵食者母體內的“異物”——
+8,3009,,"Estraiamo il corpo estraneo nella Procreatrix:
+I dati mentali di Yuugo Kamishiro.","消除被限制在侵食者母體內的“異物”——
 「神代勇吾」的精神資料。",,"마더 이터의 안에 사로잡혀 있는 ""이물""―
 「카미시로 유고」군의 정신 데이터를, 떼어 내는 겁니다","Wir extrahieren den Fremdkörper in der
 Procreatrix: Die Mentaldaten von Yuugo Kamishiro."
-9,3009,,"Sono convinto che i Eater non fossero
-mai stati concepiti per acquisire dati da forme di
-vita come gli umani.","一般認為，
+9,3009,,"Sono convinto che i Eater non fossero mai stati
+concepiti per acquisire dati da forme di vita come gli umani.","一般認為，
 侵食者本來並不會捕食人類等生命體的資料。",,"애초에 이터는, 인간 같은
 생명체의 데이터를 포식하는 존재가 아니었다고 생각됩니다","Ich bin überzeugt, dass Verschlinger nie darauf
 ausgelegt waren, sich Daten von Lebensformen wie
@@ -38,22 +36,21 @@ loro attuale forma. Sì, si sono evoluti.","透過初次吞食人類的精神資
 이터는 현재의 성질을 손에 넣었다… 그래요, 진화한 겁니다","Die Integration menschlicher Mentaldaten hat
 Verschlingern überhaupt erst ihre aktuelle Gestalt
 geschenkt. Ja, sie haben sich weiterentwickelt."
-12,3009,,"Ora i Eater proteggono questi dati
-mentali, poiché erano l'impulso di questa evoluzione.","侵食者現在也保護著勇吾的精神資料，
+12,3009,,"Ora i Eater proteggono questi dati mentali,
+poiché erano l'impulso di questa evoluzione.","侵食者現在也保護著勇吾的精神資料，
 也就是它進化的契機。",,"그 진화의 계기가 된 그의 정신 데이터를 이터는
 지금도 보호하고 있습니다","Jetzt schützen die Verschlinger diese Mentaldaten,
 da sie der Anstoß dieser Weiterentwicklung waren."
 13,3009,,Li nascondono in profondità nel loro nucleo.,而且是在自己的中樞裡頭——小心翼翼地保護著。,,"그것도, 자신들의 중추에― 소중히 소중히, 말입니다",Sie verstecken sie tief in ihrem Kern.
-14,3003,,"Intendi... Lì, dove mio fratello ha
-detto, che i Eater lo tengono prigioniero?","難道……哥哥所說的
+14,3003,,"Intendi... Lì, dove mio fratello ha detto,
+che i Eater lo tengono prigioniero?","難道……哥哥所說的
 「被侵食者囚禁的地方」是在……",,"설마… 오빠가 말했던
 「이터에게 사로잡혀 있는 장소」라는 게…","Du meinst ... Da, wo mein Bruder gesagt hat,
 dass die Verschlinger ihn gefangen halten?"
 15,3002,,In questo Procreatrix coso?,侵食者母體那玩意的……裡面？,,마더 이터란 녀석의… 안…?,In diesem Procreatrixding?
 16,3009,,Alla fine serve come una sorta di nucleo.,結果，他擔任某種類似“核心”的角色。,,"…결과, 그는 모종의 ""코어"" 같은 역할을 맡고 있습니다",Letzten Endes dient er als eine Art Kern.
 17,3009,,"Se le mie teorie sono corrette, allora si
-verificherà un interessante fenomeno non appena
-lo rimuoveremo.","若對照我的理論，消除他的時候——
+verificherà un interessante fenomeno non appena lo rimuoveremo.","若對照我的理論，消除他的時候——
 會發生非常耐人尋味的現象。",,"제 이론에 의하면, 그를 떼어 냈을 때―
 매우 흥미로운 현상이 일어납니다","Wenn meine Theorien stimmen, dann wird ein
 interessantes Phänomen auftreten, sobald wir
@@ -64,19 +61,18 @@ Und die Zeit wird zurückgedreht."
 19,2000,,?!,！？,,!?,?!
 20,3005,,Cosa?!,什……！？,,뭐…!?,Was?!
 21,3009,,"Il network di memoria degli Eaters va
-oltre la nostra comprensione e persino
-la nostra immaginazione.","侵食者的「記憶整合網路」
+oltre la nostra comprensione e persino la nostra immaginazione.","侵食者的「記憶整合網路」
 是超乎我們的理解、想像、和概念的系統哦。",,"이터의「기억 통합 네트워크」는
 저희들의 이해나 상상, 개념을 초월한 시스템이라구요","Das Gedächtnisnetzwerk der Verschlinger geht
 über unser Verständnis und sogar unsere
 Vorstellungskraft hinaus."
-22,3009,,"Loro condividono costantemente informazioni e
-prendono decisioni, ma tutto viene memorizzato!","雖然它們經常共享資訊、進行取捨與選擇，
+22,3009,,"Loro condividono costantemente informazioni
+e prendono decisioni, ma tutto viene memorizzato!","雖然它們經常共享資訊、進行取捨與選擇，
 但它們記得每一個瞬間！",,"그들은 항상 정보를 공유하고, 항상 취사선택을 행하고 있지만,
 그 모든 순간을 전부 기억하고 있지요!","Sie teilen ständig Informationen und treffen
 Entscheidungen, doch alles wird gespeichert!"
-23,3009,,"Capacità o tempo limitati sono per loro
-concetti estranei. Loro salvano semplicemente tutto!","那裡不存在容量的限度和時間的概念……
+23,3009,,"Capacità o tempo limitati sono per loro concetti estranei.
+Loro salvano semplicemente tutto!","那裡不存在容量的限度和時間的概念……
 而是單純記憶！",,"그들에게 용량의 한계나, 시간적 개념은 존재하지 않습니다…
 그저, 기억하는 겁니다!","Begrenzte Kapazitäten oder Zeit sind für sie
 fremdartige Konzepte. Sie speichern einfach alles!"
@@ -89,8 +85,8 @@ da EDEN e dal Mondo Digitale?","那麼，你們最近的種種體驗，包括8�
 디지털 월드의 일은, 어떻습니까?","Aber was ist denn mit deinen kürzlich neu
 entdeckten Erlebnissen von vor acht Jahren,
 aus EDEN und der Digitalen Welt?"
-27,3009,,"Quello che avete visto, Crusadermon lo
-aveva scaricato dalla memoria degli
+27,3009,,"Quello che avete visto, Crusadermon
+lo aveva scaricato dalla memoria degli
 Ingoiatori e ricreato come realtà virtuale.","那是劍皇獸從侵食者的“記憶”下載，
 以虛擬實境再現的東西。",,"그건, 이터의 ""기억""에서 로드나이트몬이 다운로드해서
 가상 현실로서 재현한 것입니다","Was ihr gesehen habt, hatte Crusadermon aus dem
@@ -102,17 +98,15 @@ presumibilmente apportato degli adattamenti, ma comunque.","唉，不過這個�
 다분히 가해져 있긴 했습니다만…","Als Teil ihrer heimtückischen Falle hat er
 vermutlich Anpassungen vorgenommen, aber dennoch."
 29,1088,,Come? Da dove... sai tutto questo?,為、為什麼？你……為什麼這麼清楚？,,"어, 어째서지? 넌… 어째서 거기까지 알고 있지?",Wie? Woher ... weißt du das alles?
-30,3009,,"In verità, sono anch'io ora una parte
-del Eater.",哎呀，其實我現在已經是侵食者的一部分了。,,"이거, 실은 저, 이미 이터의 일부거든요","In Wahrheit bin auch ich jetzt ein Teil der
+30,3009,,"In verità, sono anch'io ora una parte del Eater.",哎呀，其實我現在已經是侵食者的一部分了。,,"이거, 실은 저, 이미 이터의 일부거든요","In Wahrheit bin auch ich jetzt ein Teil der
 Verschlinger."
-31,3009,,"Più precisamente, ho accesso speciale
-alla loro rete.","話雖如此，我只是以特別的權限，
+31,3009,,"Più precisamente, ho accesso speciale alla loro rete.","話雖如此，我只是以特別的權限，
 登入它們的網路罷了。",,"그렇다 해도, 그들의 네트워크에
 특별한 권한으로 접속해 있는 것 뿐이지만요","Genauer gesagt habe ich besonderen Zugriff auf
 ihr Netzwerk."
 32,3005,,Così potevi dunque usare tutti i tuoi trucchi!,那就是你的把戲的秘密嗎……！,,"당신 요술의 비결은, 그거였냐…!",So konntest du also all deine Tricks abziehen!
-33,3009,,"Manipolazione dati è esattamente questo
-trucco. Se vuoi, puoi farlo anche tu, Arata.","和破解程式的手法一樣……
+33,3009,,"Manipolazione dati è esattamente questo trucco.
+Se vuoi, puoi farlo anche tu, Arata.","和破解程式的手法一樣……
 只要有心的話，新，你也辦得到。",,"크래킹과 수법은 같습니다…
 하고자 한다면 당신도 할 수 있다구요, 아라타 군?","Datenmanipulation ist genau dieser Trick.
 Wenn du willst, kannst du das auch, Arata."
@@ -120,8 +114,8 @@ Wenn du willst, kannst du das auch, Arata."
 35,3003,,"Se Arata può farlo, allora posso farlo anch'io.",新辦得到，表示我也辦得到吧。,,"…아라타 씨가 할 수 있다면, 저도 할 수 있다는 거군요","Wenn Arata das kann, dann kann ich es auch."
 36,3005,,Cosa?!,什麼……！？,,……하아!?,Was?!
 37,3009,,"Sì, certo! Tutti possono farlo!",當然！誰都有可能！,,물론이고 말고요! 누구에게나 가능성은 있습니다!,"Ja, natürlich! Jeder kann das!"
-38,3009,,"Ma gli esseri umani rifiutano istintivamente questa
-possibilità. Nemmeno voi fate eccezione.","不過，人類本能地拒絕了那個可能性……
+38,3009,,"Ma gli esseri umani rifiutano istintivamente questa possibilità.
+Nemmeno voi fate eccezione.","不過，人類本能地拒絕了那個可能性……
 你們也不例外。",,"하지만, 인간은 그 가능성을 본능적으로 거절하고 있지요…
 당신들도, 예외는 아닙니다","Aber Menschen lehnen diese Möglichkeit instinktiv
 ab. Da seid ihr auch keine Ausnahmen."
@@ -132,8 +126,7 @@ vero, illimitato potenziale.","雖然曾被侵食者吞食過一次
 무한의 가능성에 눈을 뜨지 못한 건 그 때문입니다","Ihr wurdet ja bereits einmal von Verschlingern
 beherrscht, konntet aber das wahre, unbegrenzte
 Potenzial nicht nutzen."
-40,3009,,"Ma rimandiamo questa discussione
-a un'altra volta. È una storia lunga.",好了，這件事等到有機會再說吧，因為會說太久。,,"…이런, 이 얘기는 다음 기회에 하지요, 길어지니까요","Heben wir uns diese Diskussion aber für ein
+40,3009,,"Ma rimandiamo questa discussione a un'altra volta. È una storia lunga.",好了，這件事等到有機會再說吧，因為會說太久。,,"…이런, 이 얘기는 다음 기회에 하지요, 길어지니까요","Heben wir uns diese Diskussion aber für ein
 andermal auf. Das ist eine längere Geschichte."
 41,3009,,"Se comunque i dati importanti scompaiono,
 che hanno scatenato lo sviluppo dei
@@ -156,17 +149,15 @@ nostro nuovo presente.","現在會變成「不可能發生的未來」，
 현재를 대신하는 겁니다","Die Gegenwart wird zu einer Zukunft, die nie
 eintritt, und diese korrigierte Vergangenheit wird
 unsere neue Gegenwart."
-44,3002,,"Ehm... Scusi... Dica
-qualcosa al riguardo, Signorina Kyoko dal
-pubblico!","呃……呃……那個……
+44,3002,,"Ehm... Scusi... Dica qualcosa al riguardo,
+Signorina Kyoko dal pubblico!","呃……呃……那個……
 攝影棚裡的杏子姊，請說明～☆",,"어… 그…… 저기…
 스튜디오의 쿄코 씨, 나와 주세요~♡","Ähm ... Entschuldigung ...
 Sagen Sie doch etwas dazu, Fräulein Kyoko aus dem
 Publikum!"
 45,1416,,Nel Mondo Digitale questo fenomeno sarebbe immaginabile.,這個現象在數碼世界中非常有可能發生。,,"…디지털의 세계에서는, 충분히 일어날 수 있는 사상이다",In der Digitalen Welt wäre dieses Phänomen vorstellbar.
 46,1416,,"E ora che il mondo fisico e quello
-digitale si sono fusi tra loro,
-niente è più impossibile.","而如今，現實世界和電腦世界已經同化——
+digitale si sono fusi tra loro, niente è più impossibile.","而如今，現實世界和電腦世界已經同化——
 不管發生怎樣的「奇蹟」，也沒什麼好奇怪的。",,"그리고 지금, 현실 세계는 전뇌세계와 동화해 있다―
 어떤「기적」이 일어나도, 이상하지 않다","Und nachdem die physische und die digitale
 Welt jetzt miteinander verschmolzen sind, ist
@@ -192,18 +183,17 @@ non è vero? Anch'io ci ho già pensato.","是「因果律」嗎……
 나도, 가능할 거라는 생각이 들기 시작했어","Du redest vom Gesetz der Kausalität, nicht wahr?
 Darüber habe ich auch schon nachgedacht."
 51,3005,,Ma come facciamo a tirare fuori Yuugo?,不過，要如何消除勇吾？,,"하지만, 어떻게 유고를 떼어 내지?",Aber wie sollen wir Yuugo rausholen?
-52,3009,,"Questo in realtà non dovrebbe essere un
-problema. L'hai già sperimentato tu stesso, Arata.","這個應該沒有問題。
+52,3009,,"Questo in realtà non dovrebbe essere un problema.
+L'hai già sperimentato tu stesso, Arata.","這個應該沒有問題。
 新你自己應該也曾經體驗過。",,"그거에 관해서는 문제없을 텐데요?
 아라타 군도, 한 번 경험을 해 봤을 겁니다","Das sollte eigentlich kein Problem sein.
 Du hast es selbst schon erlebt, Arata."
-53,3005,,"Un
-momento. Se la Sindrome di EDEN non esiste più...","也就是說，等等？
+53,3005,,"Un momento.
+Se la Sindrome di EDEN non esiste più...","也就是說，等等？
 如果EDEN症候群消失的話……",,"그보다, 잠깐만…?
 EDEN 증후군이 사라지면…","Moment mal.
 Wenn es das EDEN-Syndrom nicht mehr gibt ..."
-54,3005,,"Allora [p] e Yuugo
-riotterranno i loro corpi, vero?!","[p]和勇吾都
+54,3005,,"Allora [p] e Yuugo riotterranno i loro corpi, vero?!","[p]和勇吾都
 可以回到原來的身體吧！？",,"[p]도 유고도
 원래 몸으로 돌아갈 수 있다는 거지!?","Dann bekommen [p] und Yuugo
 ihre Körper zurück, nicht wahr?!"
@@ -217,22 +207,21 @@ l'avevo completamente dimenticato!","真假！
 …완전히 잊고 있었어!","Wirklich!
 Ich ... kann es nicht glauben ...
 Das hatte ich ganz vergessen!"
-57,3002,,"Una cosa così
-inaspettata... A questa soluzione non ci sarei mai arrivato.","不知為什麼，真是超乎想像……
+57,3002,,"Una cosa così inaspettata...
+A questa soluzione non ci sarei mai arrivato.","不知為什麼，真是超乎想像……
 我想都沒想過這個奇特的治療方式……",,"뭔가, 예상을 초월했다고 할까…
 상상하지도 못했던 기발한 치료법이긴 한데…","So etwas Unerwartetes ...
 Auf diese Lösung wäre ich nie gekommen."
 58,3005,,Attualmente tutto è possibile.,事情到了這個地步，什麼方法都要試試看。,,"이런 상황이라고, 뭐든지 있을 수 있지",Aktuell ist alles möglich.
-59,3005,,"Salveremo Yuugo e porteremo lui e
-[p] a casa.
+59,3005,,"Salveremo Yuugo e porteremo lui e [p] a casa.
 Allora la cosa andrà a finire bene per tutti.","救出勇吾，[p]也復原。
 真是個皆大歡喜的圓滿結局。",,"유고를 구해내면, [p]도 원래대로 돌아와
 대단원, 해피 엔드야","Wir retten Yuugo und bringen ihn und
 [p] nach Hause.
 Dann geht die Sache für alle gut aus."
 60,3003,,"Questo è forse un po' inaspettato ora,
-ma non posso più limitarmi a stare
-qui. Voglio vedere mio fratello.","雖然超乎想像，但也沒有比這更好的發展了……
+ma non posso più limitarmi a stare qui.
+Voglio vedere mio fratello.","雖然超乎想像，但也沒有比這更好的發展了……
 我討厭什麼都不做，只是一味等待……我想見哥哥。",,"예상을 초월하기는커녕, 더할 나위 없을 정도의 희망적 관측이지만…
 아무것도 안 하고 기다리는 건 싫어요… 전 오빠와 만나고 싶어요","Das ist jetzt vielleicht auch etwas unerwartet,
 aber ich kann nicht länger nur hier stehen.
@@ -240,8 +229,7 @@ Ich möchte meinen Bruder sehen."
 61,3002,,Certo! Assolutamente!,嗯！決定了！,,응! 결정!,Klar! Auf jeden Fall!
 62,2000,,...!,！,,…!,...!
 63,3009,,Hehehe... Allora vi lascio adesso.,呵呵呵，那麼……我先失陪了。,,"쿠후훗, 그럼… 먼저 실례하겠습니다",Hehehe ... Dann verlasse ich euch jetzt.
-64,1416,,"Anche io vorrei dire che
-dovremmo agire, ma...","好了，我們也繼續吧。
+64,1416,,"Anche io vorrei dire che dovremmo agire, ma...","好了，我們也繼續吧。
 雖然想這麼說……",,"그럼, 우리들도 따라가도록 하지
 라고, 말하고 싶지만…","Auch ich würde gerne sagen, dass wir handeln
 sollten, aber ..."
@@ -252,12 +240,11 @@ precipitare le cose e commettere errori inutili.","雖然時間上不是很充�
 會賠了夫人又折兵。",,"시간에 여유는 없지만, 너무 서둘렀다가 일을 그르치면
 다 헛수고가 되니까 말이지","Wir haben zwar nicht viel Zeit, doch wir dürfen
 nichts überstürzen und unnötige Fehler machen."
-68,1416,,"C'è ancora qualcosa da fare
-qui? Allora fatelo, prima che proseguiamo.","有沒有還沒完成的事情？
+68,1416,,"C'è ancora qualcosa da fare qui?
+Allora fatelo, prima che proseguiamo.","有沒有還沒完成的事情？
 如果有，記得在進入前完成。",,"하다 남긴 일은 없는가?
 있다면, 진입 전에 끝내 두도록","Gibt es hier noch etwas zu tun?
 Dann erledigt das, bevor wir fortfahren."
-69,1416,,"Appena siete pronti, andiamo nel
-Mondo Digitale!",準備完成的話，就前往數碼世界吧。,,"준비를 다 끝낸 뒤에, 디지털 월드로 향하도록 하지","Sobald ihr bereit seid, begeben wir uns in die
+69,1416,,"Appena siete pronti, andiamo nel Mondo Digitale!",準備完成的話，就前往數碼世界吧。,,"준비를 다 끝낸 뒤에, 디지털 월드로 향하도록 하지","Sobald ihr bereit seid, begeben wir uns in die
 Digitale Welt!"
 201,5024,,!!!,！！,,!!,!!!

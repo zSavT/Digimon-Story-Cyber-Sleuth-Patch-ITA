@@ -3,14 +3,14 @@
 2,3003,,"Tutto a posto, Signor Yamashina?",山科先生，你還好嗎？　,,괜찮으세요? 야마시나 씨,"Alles in Ordnung, Herr Yamashina?"
 3,4821,,"Sì, sto bene.",嗯，我沒事。,,"…아아, 괜찮아","Ja, es geht mir gut."
 4,4821,,"I miei ricordi sono tornati all'improvviso,
-quindi mi sento ancora un po'
-stordito, ma sono di nuovo me stesso.","因為記憶一下子都回來了，還有點混亂……
+quindi mi sento ancora un po' stordito,
+ma sono di nuovo me stesso.","因為記憶一下子都回來了，還有點混亂……
 但意識很清楚。",,"기억이 한 번에 돌아와서, 조금 혼란스럽지만…
 의식은 제대로 있어","Meine Erinnerungen sind plötzlich wieder da, also
 ist mir noch ein wenig schwindelig,
 aber ich bin wieder ich selbst."
-5,4821,,"Il mio corpo ha sicuramente anelato alle sue
-vere memorie per tutti questi anni.","或許我的身體
+5,4821,,"Il mio corpo ha sicuramente desiderato ardentemente
+i suoi veri ricordi per tutti questi anni.","或許我的身體
 一直都想面對真正的記憶。",,"…내 몸은, 줄곧 진짜 기억과
 마주 보고 싶었던 걸지도 몰라","Mein Körper hat sich all die Jahre bestimmt nach
 seinen wahren Erinnerungen gesehnt."
@@ -26,58 +26,54 @@ centinaia di partecipanti selezionati.","嗯，招募了數百名參加人員，
 進行EDEN內部的β測試——。",,"그래, 수백 명의 참가자를 초대해서 실시했던
 EDEN의 클로즈 β테스트―","Ja. Es war eine geschlossene Beta mit einigen
 Hundert ausgewählten Teilnehmern."
-10,4821,,"Abbiamo testato la tecnica e l'esperienza
-di gioco.",是一場兼具運轉實驗的試玩活動。,,"운용 실험도 겸한, 테스트 플레이였어","Wir haben die Technik und das Spielerlebnis
+10,4821,,"Abbiamo testato la tecnica e l'esperienza di gioco.",是一場兼具運轉實驗的試玩活動。,,"운용 실험도 겸한, 테스트 플레이였어","Wir haben die Technik und das Spielerlebnis
 getestet."
-11,4821,,"Allora ho lavorato per la Nile
-Corporation, che Kamishiro a quel tempo
-aveva già rilevato.",當時我所屬的尼羅河公司已經被神代收購了。,,"당시 내가 소속하고 있었던 나일 코프는
+11,4821,,"Allora ho lavorato per la Nile Corporation,
+che Kamishiro a quel tempo aveva già rilevato.",當時我所屬的尼羅河公司已經被神代收購了。,,"당시 내가 소속하고 있었던 나일 코프는
 이미 카미시로에게 인수된 후였거든","Damals habe ich für die Nile Corporation
 gearbeitet, die Kamishiro zu dem Zeitpunkt schon
 übernommen hatte."
-12,4821,,"Suedou ed io abbiamo condotto il betatest. Ma
-non era solo un test. Era già di per sé una
+12,4821,,"Suedou ed io abbiamo condotto il betatest.
+Ma non era solo un test. Era già di per sé una
 demo e un'azione promozionale.","β測試是由我和末堂負責指揮，
 雖說是測試，但也是一次宣傳的體驗活動。",,"β테스트는 나와 스에도가 지휘를 맡았어
 …테스트라 해도, 선전도 겸한 체험 이벤트였지만 말이야","Suedou und ich haben den Betatest geleitet. Aber
 das war nicht nur ein Test. Es war in sich schon
 eine Demo und Werbeaktion."
-13,4821,,"E poi questo incidente a un evento del
-genere! Nessuno dei designer l'aveva visto arrivare.","沒想到在體驗會上，會發生那樣的事故……
+13,4821,,"E poi questo incidente a un evento del genere!
+Nessuno dei designer se lo sarebbe mai aspettato.","沒想到在體驗會上，會發生那樣的事故……
 設計人員誰也沒有預料到。",,"설마 그 체험회에서 그런 사고가 일어나다니…
 설계자의 그 누구도 예상하지 못했어","Und dann dieser Unfall bei so einem Event!
 Keiner der Designer hat das kommen sehen."
 14,2000,,?,？？,,??,?
-15,4821,,"Durante il beta test, cinque bambini
-partecipanti hanno perso conoscenza. La causa era
-sconosciuta.","在β測試進行中，其中五名參加人員的孩子，
+15,4821,,"Durante il beta test, cinque bambini partecipanti hanno perso conoscenza.
+La causa era sconosciuta.","在β測試進行中，其中五名參加人員的孩子，
 發生原因不明的意識障礙而倒下。",,"β테스트 도중에, 참가자 아이들 중 5명이
 원인불명의 의식장애를 일으키고 쓰러져 버린 거야","Während des Betatests haben fünf teilnehmende
 Kinder das Bewusstsein verloren. Die Ursache war
 unbekannt."
-16,4821,,"Quattro si sono ripresi abbastanza velocemente, ma
-il quinto è diventato la prima vittima della
-Sindrome di EDEN.","雖然四人馬上恢復了意識，
+16,4821,,"Quattro si sono ripresi abbastanza velocemente,
+ma il quinto è diventato la prima vittima della Sindrome di EDEN.","雖然四人馬上恢復了意識，
 但當中一位少年，成了第一個EDEN症候群患者。",,"4명은 바로 의식을 되찾았지만, 그 중 한 명의 소년은
 최초의 EDEN 증후군 환자가 되었어…","Vier sind recht schnell wieder zu sich gekommen,
 aber das fünfte wurde das erste Opfer des
 EDEN-Syndroms."
 17,3003,,Quindi era mio fratello.,那名少年就是我的哥哥。,,"…그 소년이, 제 오빠예요",Das war also mein Bruder.
-18,4821,,"Capisco... Sei la figlia
-dell'Amministratore delegato di Kamishiro.",這樣啊……妳是神代社長的千金啊……,,…그런가… 넌 카미시로 사장님의 딸이었구나…,"Verstehe ... Du bist die Tochter des
+18,4821,,"Capisco... Sei la figlia dell'Amministratore
+delegato di Kamishiro.",這樣啊……妳是神代社長的千金啊……,,…그런가… 넌 카미시로 사장님의 딸이었구나…,"Verstehe ... Du bist die Tochter des
 Geschäftsführers von Kamishiro."
-19,3003,,"C'erano ancora quattro bambini oltre a mio
-fratello. Ricorda ancora chi fossero?","沒想到除了哥哥以外，還有四個孩子碰上了事故……
+19,3003,,"C'erano ancora quattro bambini oltre a mio fratello.
+Ricorda ancora chi fossero?","沒想到除了哥哥以外，還有四個孩子碰上了事故……
 山科先生，那些孩子的情形呢？",,"오빠 외에, 4명이나 되는 아이들이 사고를 당했었다니…
 …야마시나 씨, 그 아이들에 대해서는?","Es gab noch vier Kinder außer meinem Bruder.
 Wissen Sie noch, wer das war?"
-20,4821,,"Purtroppo no. Questo non dipende dalla mia
-memoria. Semplicemente non lo so!","抱歉，我不記得了。
+20,4821,,"Purtroppo no. Questo non dipende dalla mia memoria.
+Semplicemente non lo so!","抱歉，我不記得了。
 不是因為記憶被竄改，是真的不知道……！",,"미안하지만, 기억나지 않아
 기억의 개찬이 아니라, 정말로 몰라…!","Leider nein. Das liegt nicht an meinem Gedächtnis.
 Ich weiß es einfach nicht!"
-21,4821,,"Io e il mio EDEN abbiamo rubato il
-futuro a questi ragazzi. Non l'ho sopportato.","我們創造的EDEN奪走了孩子的人生……
+21,4821,,"Io e il mio EDEN abbiamo rubato il futuro a questi ragazzi.
+Non l'ho sopportato.","我們創造的EDEN奪走了孩子的人生……
 我無法忍受這個事實……",,"난, 우리들이 만든 EDEN이 아이들의 인생을 빼앗아 버렸다―
 그 사실에 견딜 수가 없었어…","Ich und mein EDEN haben diesen Kindern ihre
 Zukunft geraubt. Das habe ich nicht ausgehalten."
@@ -86,8 +82,8 @@ Sono diventato proprio malato per i sensi di colpa.","我無法正視自己犯�
 因為罪惡感，結果我的精神出了問題。",,"내가 범한 실패를 직시하지 못하고…
 죄의식 때문에 내 정신은 병들어 갔어","Ich kam mit diesem Fehlschlag nicht zurecht.
 Ich wurde ganz krank vor Schuldgefühlen."
-23,4821,,"Per questo Suedou ha cancellato la mia
-memoria. Questo mi ha salvato per un po'.","看不下去的末堂，抹消我的記憶。
+23,4821,,"Per questo Suedou ha cancellato la mia memoria.
+Questo mi ha salvato per un po'.","看不下去的末堂，抹消我的記憶。
 他給了我短暫的救贖。",,"그걸 차마 볼 수 없었던 스에도는, 내 기억을 없애 줬어…
 그는 나에게, 일시적인 구원을 준 거야","Deshalb hat Suedou mein Gedächtnis gelöscht.
 Das hat mich für eine Weile gerettet."
@@ -107,8 +103,7 @@ dovevamo fare finta che non fosse successo nulla.","為了報告「測試是成�
 모든 건 없었던 일이 되어 버렸어…","Um den Test als Erfolg verkaufen zu können,
 mussten wir so tun, als wäre nichts gewesen."
 27,3003,,Ma che ne è di questi bambini?,那麼，誰也不知道孩子們的事情……,,"그럼, 누구도 그 아이들에 대해서는…",Aber was ist mit diesen Kindern?
-28,4821,,"Credo che solo Suedou abbia mai
-parlato con loro.",不，應該只有末堂和他們說過話。,,"…아니, 스에도만은, 그들과 대화를 했었을 거야","Ich glaube, nur Suedou hat sich überhaupt mit
+28,4821,,"Credo che solo Suedou abbia mai parlato con loro.",不，應該只有末堂和他們說過話。,,"…아니, 스에도만은, 그들과 대화를 했었을 거야","Ich glaube, nur Suedou hat sich überhaupt mit
 ihnen unterhalten."
 29,4821,,"Quando si sono svegliati, i quattro
 hanno parlato di cose strane.","那四個小孩在意識回復後，
@@ -124,8 +119,7 @@ stato isterico.","雖然許多研究人員解釋為，
 der enorme Stress zu einem hysterischen Zustand
 geführt hatte."
 32,4821,,"Suedou, tuttavia, no.",但末堂不一樣。,,스에도는 달랐어,Suedou jedoch nicht.
-33,4821,,"Lui solo ha ascoltato ogni parola dei
-quattro bambini.","四個孩子說的話，
+33,4821,,"Lui solo ha ascoltato ogni parola dei quattro bambini.","四個孩子說的話，
 只有他半句都沒聽漏！",,"그만은, 4명의 아이들의 말을
 단 한 마디 말도 빠뜨리지 않고 들으려 했어","Er alleine hat jedem Wort der vier Kinder
 gelauscht."
@@ -144,21 +138,19 @@ Suedou ha rubato i loro ricordi.","嗯……但去找孩子們也沒有用喔。
 Suedou hat ihre Erinnerungen gestohlen."
 37,3003,,I suoi ricordi... rubati?!,奪走了……他們的記憶！？,,그 아이들의 기억을… 빼앗았다고요!?,Ihre Erinnerungen ... gestohlen?!
 38,4821,,"Beh, non letteralmente, ma in modo simile a
-come con me, li ha crittografati e messi in
-quarantena.","與其說是奪走，或許不如說是和我一樣，
+come con me, li ha crittografati e messi in quarantena.","與其說是奪走，或許不如說是和我一樣，
 被加密並“封印”，比較接近吧。",,"빼앗았다고 하기 보단, 나와 마찬가지로
 암호화해서 ""봉인""했다고 말하는 게 맞을지도 모르겠군","Nun, nicht wortwörtlich, aber ähnlich wie bei mir
 hat er sie verschlüsselt und unter Quarantäne
 gestellt."
-39,4821,,"I ricordi possono essere alterati, ma mai
-completamente cancellati. Un foglio bianco è
-un obiettivo impossibile.","記憶這種東西就算可以竄改，也無法完全抹去……
+39,4821,,"I ricordi possono essere alterati, ma mai completamente cancellati.
+Un foglio bianco è un obiettivo impossibile.","記憶這種東西就算可以竄改，也無法完全抹去……
 不論對象為何，回歸「虛無」總是比較困難。",,"기억이란 것은, 개찬은 할 수 있어도 완전히 없앨 수는 없어…
 어떤 것이든, 무(無)로 돌려보내는 게 어려운 법이야","Erinnerungen können verändert werden, aber niemals
 vollständig gelöscht. Ein unbeschriebenes Blatt
 ist ein unmögliches Ziel."
-40,3003,,"Ma perché avrebbe dovuto
-farlo? Erano l'unico indizio sull'incidente.","但為什麼要做那種事？
+40,3003,,"Ma perché avrebbe dovuto farlo?
+Erano l'unico indizio sull'incidente.","但為什麼要做那種事？
 明明是當時事件的唯一線索……",,"하지만 어째서 그런 짓을?
 당시 사건의 유일한 단서였는데…","Aber warum hätte er das tun sollen?
 Sie waren der einzige Hinweis auf den Vorfall."
@@ -169,14 +161,13 @@ Prima avevano pianto tutti.","但是，我認為末堂是為了救贖他們，�
 …아이들은, 모두 울고 있었으니까","Dennoch war es möglicherweise ihre Rettung.
 Vorher haben sie alle geweint."
 43,3003,,...,…………,,………,...
-44,4821,,"A proposito, ho una richiesta per
-voi, anche se so che è egoista.","對了……我很清楚這是任性的請求，
+44,4821,,"A proposito, ho una richiesta per voi,
+anche se so che è egoista.","對了……我很清楚這是任性的請求，
 但我有事情想拜託你們。",,"그런데… 제멋대로인 부탁인 건 알고 있지만
 너희들에게 부탁하고 싶은 게 있어","Ich habe übrigens eine Bitte an euch, auch wenn
 ich weiß, dass sie egoistisch ist."
 45,3003,,?,？,,?,?
-46,4821,,"Potreste per favore rimettere in
-quarantena i miei ricordi?",可以再次封印我的記憶嗎？,,"―내 기억을, 다시 한 번 봉인해 주지 않겠어?","Könntet ihr meine Erinnerungen bitte wieder
+46,4821,,"Potreste per favore rimettere in quarantena i miei ricordi?",可以再次封印我的記憶嗎？,,"―내 기억을, 다시 한 번 봉인해 주지 않겠어?","Könntet ihr meine Erinnerungen bitte wieder
 unter Quarantäne stellen?"
 47,3003,,Cosa?!,咦……！？,,에…!?,Was?!
 48,4821,,"Il mio vecchio io era ossessionato dal lavoro.
@@ -194,8 +185,8 @@ cui la mia famiglia aveva bisogno.","但如果是失去記憶的我，就能當�
 fürsorglichen Vater. Ich wurde endlich zu dem,
 was meine Familie gebraucht hat."
 50,3003,,Ne è assolutamente sicuro?,這樣子真的好嗎？,,"…정말 괜찮으신 건가요, 그걸로?",Sind Sie sich da absolut sicher?
-51,3003,,"Il sistema può solo modificare i suoi ricordi. I
-suoi sensi di colpa inconsci potrebbero eventualmente
+51,3003,,"Il sistema può solo modificare i suoi ricordi.
+I suoi sensi di colpa inconsci potrebbero eventualmente
 riportare indietro questo dolore prima o poi.","這個系統可以竄改的只有記憶，
 或許有一天，你又會被不自覺的罪惡感折磨。",,"이 시스템이 개찬할 수 있는 건 기억뿐이에요
 언젠가 또, 무의식하의 죄책감으로 괴로워할지도 몰라요","Das System kann Ihre Erinnerungen nur ändern.
@@ -207,31 +198,28 @@ una distorsione fisica della memoria.","如你所說……我會得到那種症�
 육체로의「기억의 전이(시프트)」때문이니까 말이야…","Das stimmt. Ich hatte wegen einer physischen
 Gedächtnisverrückung diese Symptome."
 53,3003,,Memoria... distorsione?,記憶移轉？,,"…기억의, 시프트?",Gedächtnis ... verrückung?
-54,4821,,"I ricordi umani non esistono solo nel
-cervello. In minime quantità si
-distribuiscono sui neuroni del corpo.","人類的記憶這種東西，並非只存在於腦內。
+54,4821,,"I ricordi umani non esistono solo nel cervello.
+In minime quantità si distribuiscono sui neuroni del corpo.","人類的記憶這種東西，並非只存在於腦內。
 記憶會移轉到身體裡的神經細胞，一點一點地累積起來。",,"인간의 기억이라는 건, 뇌에만 존재하는 게 아니야
 몸 안의 신경세포로 전이해서, 조금씩 축적되고 있지","Menschliche Erinnerungen bestehen nicht nur im
 Gehirn. In winzigen Mengen verteilen sie sich
 auf die Neuronen des Körpers."
 55,4821,,"Per questo, per quanto tu possa nascondere bene i ricordi
-nella mia testa – i miei occhi, le mie orecchie e
-le mie mani non dimenticano nulla.","正因為如此，不管我怎麼控制腦袋，
+nella mia testa – i miei occhi, le mie orecchie e le mie
+mani non dimenticano nulla.","正因為如此，不管我怎麼控制腦袋，
 我絕對不會忘記我的眼睛、耳朵、手曾經覺得痛苦過的事實。",,"그렇기 때문에, 아무리 머리를 억눌러도
 나의 눈은, 귀는, 손은 괴로웠던 사실을 결코 잊지 않아","Deshalb kannst du die Erinnerungen in meinem Kopf
 noch so gut verstecken – meine Augen, Ohren
 und Hände vergessen nichts."
 56,4821,,Gli umani sono fatti così.,人類就是這樣子的啊。,,인간은 그렇게 되어 있어,So sind Menschen eben.
-57,4821,,"Ma dopo avervi detto tutto, sono in
-qualche modo sollevato. Forse è una
-sorta di penitenza.","不過，向你們坦白一切之後，不知為何心情輕鬆多了。
+57,4821,,"Ma dopo avervi detto tutto, sono in qualche modo sollevato.
+Forse è una sorta di penitenza.","不過，向你們坦白一切之後，不知為何心情輕鬆多了。
 所謂懺悔，或許就是這樣子吧。",,"…하지만, 너희들에게 모든 걸 얘기했더니, 왠지 마음이 편해졌어
 참회라는 건, 이런 걸지도 모르겠어","Aber nachdem ich euch jetzt alles gesagt habe,
 bin ich irgendwie erleichtert. Vielleicht ist
 es eine Art Buße."
-58,4821,,"Vi prego. Lasciatemi dimenticare di
-nuovo il passato. Vorrei vedere la mia
-famiglia felice per il resto della mia vita.","拜託……讓我再一次忘記過去的事情，
+58,4821,,"Vi prego. Lasciatemi dimenticare di nuovo il passato.
+Vorrei vedere la mia famiglia felice per il resto della mia vita.","拜託……讓我再一次忘記過去的事情，
 剩下的人生中，我希望至少別讓家人傷心。",,"부탁이야… 다시 한 번, 과거의 일을 잊게 해 줘
 남은 인생에서, 적어도 가족만큼은, 슬프게 하고 싶지 않아","Ich bitte euch. Lasst mich die Vergangenheit
 wieder vergessen. Ich möchte meine Familie für

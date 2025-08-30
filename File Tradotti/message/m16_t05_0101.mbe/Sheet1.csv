@@ -1,34 +1,30 @@
 ﻿ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
 1,3006,,Hmm... Ne sono rimasti ancora cinque Royal Knights.,嗯……剩下的皇家騎士，還有五隻。,,"흐음… 남은 로얄 나이츠는, 앞으로 5체다",Hmm ... Es sind noch fünf Royal Knights übrig.
-2,3002,,"Ehm... Sono Examon, Duftmon,
-Dynasmon, Craniamon...","唔……「艾克薩獸」、「芳香獸」、
+2,3002,,"Ehm... Sono Examon, Duftmon, Dynasmon, Craniamon...","唔……「艾克薩獸」、「芳香獸」、
 「杜納斯獸」、「顱骨獸」……",,"어…「엑자몬」「두프트몬」
 「듀나스몬」「크레니엄몬」…","Ähm ... Es sind Examon, Duftmon, Dynasmon,
 Craniamon ..."
 3,3003,,E Crusadermon.,還有「劍皇獸」。,,"…그리고,「로드나이트몬」",Und Crusadermon.
 4,3002,,Uff. Sembra già un osso duro.,嗚～光聽名字就感覺好強……,,"으~… 왜지, 이름만 들어도 강할 것 같아~…",Uff. Das klingt schon nach einer harten Nuss.
 5,3002,,"Omnimon? È davvero vero che nessuno di
-questi Cavalieri Reali si schiererà dalla
-nostra parte?","喂，奧米加獸……這裡面真的沒有
+questi Royal Knight si schiererà dalla nostra parte?","喂，奧米加獸……這裡面真的沒有
 皇家騎士願意站在我們這邊嗎？",,"저기, 오메가몬… 이 중에 아군이 되어 줄 것 같은
 로얄 나이츠는, 정말 없는 거야?","Omnimon? Stimmt das wirklich, dass keine dieser
 Royal Knights sich auf unsere Seite schlagen
 werden?"
-6,1088,,"Purtroppo sì. Non si alleerebbero
-mai con noi. Dovremo combattere contro
-tutti loro.","唉……要拉攏它們成為伙伴應該是不可能。
+6,1088,,"Purtroppo sì. Non si alleerebbero mai con noi.
+Dovremo combattere contro tutti loro.","唉……要拉攏它們成為伙伴應該是不可能。
 戰鬥恐怕是無可避免的。",,"응… 녀석들을 아군으로 삼는 건 무리겠지
 아마도, 전투도 피할 수 없을 거야","Leider ja. Sie würden sich niemals mit uns
 verbünden. Wir werden gegen sie alle kämpfen
 müssen."
 7,3002,,Capisco... Allora ce l'abbiamo in mano!,這樣啊……那就用這些成員上吧！,,"그렇구나… 그럼, 이 멤버로 할 수밖에 없구나!",Verstehe ... Dann haben wir es also in der Hand!
-8,3002,,"Ma non sappiamo dove siano. A parte che
-Examon sta imperversando a Odaiba.","但是呀，除了死賴在御台場的艾克薩獸之外，
+8,3002,,"Ma non sappiamo dove siano.
+A parte che Examon sta imperversando a Odaiba.","但是呀，除了死賴在御台場的艾克薩獸之外，
 也不知道其他皇家騎士在哪裡吧？",,"하지만하지만, 오다이바에 두둥―! 하고 머물고 있는 엑자몬 이외에는
 어디에 있는지 모르는 거지?","Aber wir wissen nicht, wo sie sind. Außer, dass
 Examon in Odaiba herumwütet."
-9,3003,,"Crusadermon potrebbe trovarsi anche
-a Odaiba.","或許……
+9,3003,,"Crusadermon potrebbe trovarsi anche a Odaiba.","或許……
 劍皇獸也在御台場。",,"어쩌면…
 로드나이트몬도, 오다이바에 있을지도 몰라요","Crusadermon befindet sich möglicherweise auch
 in Odaiba."
@@ -38,20 +34,18 @@ abilità di chiaroveggenza, Yuuko?!","欸，是這樣嗎！？妳為什麼會知
 難道是……敲能力覺醒的小悠子？",,"에, 그런 거야!? 어떻게 아는 거야!?
 혹시… 초능력에 눈을 뜬 유콧치!?","Wirklich?! Woher weißt du das? Entwickelst du
 hellseherische Fähigkeiten, Yuuko?!"
-12,3003,,"Quando ho rintracciato il
-computer della signorina Rie, ho trovato un
-indirizzo IP a Odaiba.","我追蹤里繪姊的終端……
+12,3003,,"Quando ho rintracciato il computer della signorina Rie,
+ho trovato un indirizzo IP a Odaiba.","我追蹤里繪姊的終端……
 發現她的IP在御台場。",,"…리에 씨의 단말기를 추적했더니
 오다이바에서 IP가 확인됐어요","Als ich den Computer von Fräulein Rie
 zurückverfolgt habe, habe ich eine IP-Adresse in
 Odaiba gefunden."
-13,3003,,"Non so con certezza se sia quello di
-Crusadermon, ma...",雖然無法斷言那就是劍皇獸……,,"그게, 로드나이트몬이라고는 단언할 수 없지만…","Ich weiß nicht sicher, ob es die von Crusadermon
+13,3003,,"Non so con certezza se sia quello di Crusadermon, ma...",雖然無法斷言那就是劍皇獸……,,"그게, 로드나이트몬이라고는 단언할 수 없지만…","Ich weiß nicht sicher, ob es die von Crusadermon
 ist, aber ..."
 14,3006,,"Ma sì, è piuttosto probabile.",不，是劍皇獸的可能性並不會太低。,,"아니, 로드나이트몬이라는 가능성은 그리 낮지 않다","Doch, das ist recht wahrscheinlich."
 15,3006,,"Se va fuori controllo, i Royal Knights non
-possono ignorare Examon. Probabilmente stanno pensando
-a come possono impiegarlo.","對它們而言，處於失控狀態的艾克薩獸是不可忽視的存在。
+possono ignorare Examon. Probabilmente stanno
+pensando a come possono impiegarlo.","對它們而言，處於失控狀態的艾克薩獸是不可忽視的存在。
 它們應該會想採取某些手段來利用它吧。",,"폭주 상태에 있는 엑자몬은, 그들에게 있어서도 무시할 수 없는 존재다
 무언가의 수단을 강구해서 이용하려 하겠지","Wenn er Amok läuft können die Royal Knights Examon
 nicht ignorieren. Sie überlegen vermutlich, wie
@@ -70,8 +64,7 @@ alleati tra i Royal Knights.","那麼，現在正是該借用成為伙伴的
 皇家騎士們的力量了。",,"그럼 지금이야말로, 아군이 된 로얄 나이츠들의 힘을
 빌릴 때겠지","Jetzt sollten wir unsere Verbündeten unter den
 Royal Knights um Hilfe bitten."
-20,1088,,"È
-così. Parlerò con loro. Lasciate fare a me!","……看來是那樣呢。
+20,1088,,"È così. Parlerò con loro. Lasciate fare a me!","……看來是那樣呢。
 由我來請求協助，交給我吧！",,"…그런 것 같군
 내가 협력을 요청해 두겠어, 맡겨 줘!","So ist es.
 Ich werde mit ihnen sprechen. Überlasst das mir!"
@@ -89,20 +82,18 @@ della strategia ""Lo decidiamo al momento""?","嗯～這個嘛～這次啊……
 「그때의 분위기에 따라 좋은 느낌으로 행동하라―!」같은?","Hmm ... Ach ja ... Wie wär’s denn mit der
 Strategie „Das entscheiden wir spontan“?"
 24,1088,,"Certo. Un piano di improvvisazione
-basato sull'iniziativa individuale! Eccellente,
-Nokia! È l'ideale.","原來如此，是指「依照各自的判斷臨機應變」啊……！
+basato sull'iniziativa individuale! Eccellente, Nokia! È l'ideale.","原來如此，是指「依照各自的判斷臨機應變」啊……！
 不愧是諾奇雅，很正確的指示呢。",,"과연,「각자의 판단에 따라 임기응변으로」라는 거군…!
 역시 노키아, 정확한 지시야","Natürlich. Ein Plan der Improvisation nach
 individueller Initiative! Hervorragend, Nokia!
 Das ist ideal."
-25,3002,,"Come? Sul serio adesso? Veramente sul
-serio? Tihi! Non smettere! Continua a parlare!","咦？是、是這樣嗎～果然是這樣嗎～？
+25,3002,,"Come? Sul serio adesso? Veramente sul serio?
+Tihi! Non smettere! Continua a parlare!","咦？是、是這樣嗎～果然是這樣嗎～？
 嘿嘿，誇獎我☆再多誇獎我一些☆",,"에~? 그, 그런가~? 역시 그런가~?
 우헤헤, 칭찬해 줘♡ 좀 더 칭찬해 줘♡","Wie? Im Ernst jetzt? Ganz im Ernst?
 Tihi! Hör nicht auf! Red doch weiter!"
 26,3003,,Che due stupidi.,笨蛋情侶……………,,……………바보 커플,Was für zwei Dummköpfe.
-27,3006,,"Prendi il piano che ti sembra
-più adatto.",呵，就採取你們能接受的作戰，按照想法行動吧。,,"훗 너희들이 납득할 수 있는 작전으로, 마음대로 행동하도록","Nehmt den Plan, der euch am geeignetsten
+27,3006,,"Prendi il piano che ti sembra più adatto.",呵，就採取你們能接受的作戰，按照想法行動吧。,,"훗 너희들이 납득할 수 있는 작전으로, 마음대로 행동하도록","Nehmt den Plan, der euch am geeignetsten
 erscheint."
 28,3006,,"Vi supporterò da qui, dall'ufficio.
 Come non-combattente, vi sarei solo d'intralcio.","我會從事務所支援你們。
@@ -128,8 +119,8 @@ accaduti ad Arata.","看來他身上起了相當恐怖的變化，
 생각할 수 없겠는걸","Wir müssen die Möglichkeit in Erwägung ziehen,
 dass furchterregende Veränderungen mit Arata
 geschehen."
-36,3002,,"Maledizione, maledizione, maledizione! Sarà anche
-carino, ma è un perfetto idiota! In breve, VT!","真是的～！！那個沒用的帥哥，
+36,3002,,"Maledizione, maledizione, maledizione!
+Sarà anche carino, ma è un perfetto idiota! In breve, VT!","真是的～！！那個沒用的帥哥，
 簡稱為沒用哥！！",,"정말이지―!! 그 글러먹은 미남
 줄여서 글미남이―!!","Mist, Mist, Mist! Er sieht zwar gut aus, aber er
 ist so was von einem Volltrottel! Kurz VT!"
@@ -145,8 +136,7 @@ Colpiscilo, più forte che puoi!","啊，奧米加獸也是唷？
 全力揍一拳☆喏！",,"아, 오메가몬도 때리기야?
 전력으로 한 방♡ 이야!","Ach, und du auch, Omnimon!
 Hau ihn, so fest du kannst!"
-39,1088,,"Attaccherò con tutte le mie forze, se
-lo desideri.",如果諾奇雅希望，我會全力給他一拳的。,,"노키아가 바란다면, 혼신의 일격을 날려 줄게","Ich werde mit all meiner Kraft angreifen, wenn du
+39,1088,,"Attaccherò con tutte le mie forze, se lo desideri.",如果諾奇雅希望，我會全力給他一拳的。,,"노키아가 바란다면, 혼신의 일격을 날려 줄게","Ich werde mit all meiner Kraft angreifen, wenn du
 das wünschst."
 40,1088,,"Ma andiamo prima a Odaiba.
 Dobbiamo tenere Examon lontano da Crusadermon.","不過現在先前往御台場吧。
@@ -160,23 +150,21 @@ La prossima volta lo facciamo online, va bene?","話說回來，奧米加獸…�
 Nächstes Mal machen wir das online, ja?"
 42,1088,,Ah. Capisco.,嗯，我知道了。,,"…그래, 알고 있어",Ah. Verstehe.
 43,1088,,"Avrei voluto un incontro in un caffè, per,
-come ho detto, capire meglio le
-persone, ma...","為了更深入瞭解人類，我一直想總有一天
+come ho detto, capire meglio le persone, ma...","為了更深入瞭解人類，我一直想總有一天
 要體驗諾奇雅說的“咖啡廳會議”。",,"인간을 더욱 깊이 알기 위해, 이전에 노키아가 얘기했던,
 ""카페에서 미팅""이라는 걸 체험해 보고 싶었어","Ich hätte mir ein Treffen in einem Café gewünscht,
 um wie gesagt Menschen besser zu verstehen,
 aber ..."
-44,1088,,"Mi dispiace che i miei desideri non siano
-realizzabili.",我太強人所難了，對不起。,,무리한 부탁을 해서 미안했어,"Entschuldigt, dass meine Wünsche nicht umsetzbar
+44,1088,,"Mi dispiace che i miei desideri non siano realizzabili.",我太強人所難了，對不起。,,무리한 부탁을 해서 미안했어,"Entschuldigt, dass meine Wünsche nicht umsetzbar
 sind."
-45,3002,,"Ah, va bene. Questo
-ti rende proprio così adorabile!","不會啦，沒關係☆
+45,3002,,"Ah, va bene.
+Questo ti rende proprio così adorabile!","不會啦，沒關係☆
 因為你這一點萌度超高的呀☆",,"아니야, 괜찮아♡
 너의 그런 점, 훈남P 초 높으니까♡","Ach, ist schon in Ordnung.
 Das macht dich doch so liebenswert!"
 46,1088,,Nokia... Tu sei davvero molto indulgente.,諾奇雅……妳的心胸真的好寬大啊。,,노키아… 넌 정말 그릇이 크구나,Nokia ... Du bist wirklich sehr nachsichtig.
-47,3002,,"Tihi! È proprio
-vero! Non sono mica solo bello da vedere!","呵呵，還好啦！
+47,3002,,"Tihi! È proprio vero!
+Non sono mica solo bello da vedere!","呵呵，還好啦！
 我豐滿的罩杯可不是蓋的☆",,"흐흥, 뭐 그렇지~!
 가슴 사이즈는 장식이 아니거든♡","Tihi! Das stimmt wohl!
 Bin eben nicht nur hübsch anzugucken!"
