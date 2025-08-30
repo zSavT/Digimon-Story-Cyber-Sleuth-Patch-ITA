@@ -5,9 +5,8 @@ causando danni devastanti in tutta la città.","現正飛行於東京上空，
 對各個都市造成嚴重的災害。",,"현재, 도쿄 상공을 비행하면서
 각 도시에 심각한 피해를 가져오고 있습니다","Fliegt aktuell über Tokio und richtet in der
 gesamten Stadt verheerende Schäden an."
-3,4099,,"Il governo ha dichiarato lo stato d'emergenza e
-ha dispiegato l'esercito. Si raccomanda estrema
-cautela.","對此，政府發布了緊急命令——
+3,4099,,"Il governo ha dichiarato lo stato d'emergenza
+e ha dispiegato l'esercito. Si raccomanda estrema cautela.","對此，政府發布了緊急命令——
 出動防衛隊，施行嚴格的防範措施。",,"이에 대해, 정부는 비상사태선언을 발령―
 방위대를 출동시켜, 엄중한 경비태세를 펼치고 있습니다","Die Regierung hat den Ausnahmezustand erklärt und
 die Armee entsendet. Es wird zu extremer Vorsicht
@@ -23,9 +22,8 @@ Non avreste potuto fare di più.","不，過去的事情就算懊悔也無濟於
 그 때는 달리 어떻게 할 방법이 없었다","Der Vergangenheit nachzuweinen hilft nichts.
 Ihr hättet nicht mehr tun können."
 8,3006,,"Inoltre, non è ancora tutto perduto.",況且……事情還有轉圜的餘地。,,그리고… 아직 모든 게 끝난 건 아니다,Außerdem ist noch nicht alles verloren.
-9,3006,,"La mia analisi dei pattern di movimento di
-Examon mostra che, dopo una fase attiva, deve
-tornare in uno stato di riposo.","我分析了艾克薩獸的活動，
+9,3006,,"La mia analisi dei pattern di movimento di Examon mostra che,
+dopo una fase attiva, deve tornare in uno stato di riposo.","我分析了艾克薩獸的活動，
 發現它在活動一定的時間後，必會進入休眠狀態。",,"엑자몬의 움직임을 분석한 결과
 일정 기간의 활동 후, 반드시 휴면 행동에 들어가고 있다","Meine Analyse von Examons Bewegungsmustern zeigt,
 dass er nach einer aktiven Phase in einen
@@ -62,13 +60,11 @@ indebolito, se le onde digitali smettessero...","如此一來……只要隔絕�
 艾克薩獸就會變弱——",,"그렇, 다면… 디지털 웨이브의 공급을 차단함으로써
 엑자몬을 약체화시킬 수 있고―","Wenn das stimmt, dann würde Examon geschwächt,
 wenn die digitalen Wellen aufhören ..."
-17,3006,,"... E soprattutto non sarebbe più sotto il
-controllo di Crusadermon.",它應該也能擺脫劍皇獸的控制。,,로드나이트몬의 제어하에서도 해방할 수 있을 거다,"... Und vor allem wäre er nicht mehr unter
+17,3006,,"... E soprattutto non sarebbe più sotto il controllo di Crusadermon.",它應該也能擺脫劍皇獸的控制。,,로드나이트몬의 제어하에서도 해방할 수 있을 거다,"... Und vor allem wäre er nicht mehr unter
 Crusadermons Kontrolle."
 18,2000,,...!,……！！,,…!!,...!
 19,3002,,"Super, Kyoko!",不、不愧是杏子姊……,,"여, 역시 쿄코 씨…","Super, Kyoko!"
-20,3003,,"Che rapida e sorprendente svolta.
-Favoloso.","重整（Recovery）得如此迅速，還具備一流的準確度……
+20,3003,,"Che rapida e sorprendente svolta. Favoloso.","重整（Recovery）得如此迅速，還具備一流的準確度……
 真是太精彩了……",,"신속하며, 더할 나위 없는 정밀도의 재정비(리커버리)…
 정말 훌륭해요…","Welch eine rasche und überraschende Wendung.
 Fabelhaft."
@@ -82,16 +78,15 @@ Continuiamo a parlare.","雖然很可惜，但現在不是聊天的時候了。
 繼續剛才的話題吧。",,"…유감이지만, 지금은 그럴 때가 아니다
 얘기를 계속하도록 하지","Leider haben wir jetzt keine Zeit dafür.
 Reden wir weiter."
-25,3006,,"Ho risalito il flusso delle
-onde digitali...",我試著追溯數碼波的流動——,,이쪽에서 디지털 웨이브의 흐름을 추적한 결과―,"Ich habe den Fluss der digitalen Wellen
+25,3006,,"Ho risalito il flusso delle onde digitali...",我試著追溯數碼波的流動——,,이쪽에서 디지털 웨이브의 흐름을 추적한 결과―,"Ich habe den Fluss der digitalen Wellen
 zurückverfolgt ..."
-26,3006,,"In un punto a Kowloon si
-sovrappongono tutti. Ho individuato il nodo.","在Kowloon內部檢測到數碼波的流動
+26,3006,,"In un punto a Kowloon si sovrappongono tutti.
+Ho individuato il nodo.","在Kowloon內部檢測到數碼波的流動
 大量交會的「交流點」。",,"쿠롱 내부에서 디지털 웨이브의 흐름이 몇 겹이고 겹쳐진
 「교류점」을 탐지했다","An einer Stelle in Kowloon überlappen sie sich
 alle. Ich habe den Knotenpunkt bestimmt."
-27,3006,,"Qui fluiscono le onde digitali nella linea
-digitale. Questo deve essere un punto di controllo.","我推測那是經由數碼線注入數碼波的
+27,3006,,"Qui fluiscono le onde digitali nella linea digitale.
+Questo deve essere un punto di controllo.","我推測那是經由數碼線注入數碼波的
 控制要地。",,"그곳이, 디지털 라인에 디지털 웨이브를 흘려 넣는
 제어의 요소로 추측된다","Hier fließen die digitalen Wellen in die digitale
 Leitung. Das muss ein Kontrollpunkt sein."
@@ -108,61 +103,57 @@ e nel frattempo raccogliere informazioni.","在對艾克薩獸的戰鬥中，奧
 확실한 정보를 수집한 후, 행동하는 게 상책이다만―","Es wäre sinniger, abzuwarten, bis Omnimon und die
 anderen sich vom Kampf erholt haben, und in
 der Zwischenzeit Informationen zu sammeln."
-33,3006,,"Ma vedo già che non ti lascerai
-fermare.",但看妳那怒氣衝天的樣子，阻止妳也沒用……,,"그 기세를 보아하니 말려도 소용, 없나…","Aber ich sehe schon, du lässt dich nicht
+33,3006,,"Ma vedo già che non ti lascerai fermare.",但看妳那怒氣衝天的樣子，阻止妳也沒用……,,"그 기세를 보아하니 말려도 소용, 없나…","Aber ich sehe schon, du lässt dich nicht
 aufhalten."
-34,3006,,"Dovrei fidarmi di te. Dopotutto, hai
-mostrato una notevole abilità nelle vesti di Yuugo.","妳曾以「YUGO」的名義活動，
+34,3006,,"Dovrei fidarmi di te. Dopotutto, hai mostrato
+una notevole abilità nelle vesti di Yuugo.","妳曾以「YUGO」的名義活動，
 妳卓越的能力是無庸置疑的。",,"…「유고」로서 활동했던 너의 뛰어난 능력은
 이제 와서 의심할 여지가 없다","Ich sollte dir vertrauen. Schließlich hast du in
 der Gestalt von Yuugo einiges an Können gezeigt."
 35,3006,,"D'ora in poi ti serviranno eccellenti capacità
 di combattimento.",妳在今後的作戰中，也會成為很大的戰力吧。,,"앞으로의 작전에 있어서도, 큰 전력이 되겠지","Von jetzt an brauchst du hervorragende
 Kampfkünste."
-36,3006,,"Ma nessuno si aspetta che tu faccia tutto da
-solo. [p] ti
-accompagnerà. Va bene?","不過，在這個情況下，我不會允許妳單獨行動。
+36,3006,,"Ma nessuno si aspetta che tu faccia tutto da solo.
+[p] ti accompagnerà. Va bene?","不過，在這個情況下，我不會允許妳單獨行動。
 [p]會和妳一起去……可以吧？",,"하지만, 사태가 사태인 이상 단독 행동은 논외다
 [p]가(이) 동행한다… 알겠지?","Aber niemand erwartet, dass du alles alleine tust.
 [p] wird dich begleiten.
 In Ordnung?"
 37,3003,,"S-Sì, certo...",可、可以……,,"네, 네…",N-Na klar ...
 38,3006,,Eccellente.,很好。,,좋아,Ausgezeichnet.
-39,3006,,"Il nodo si trova molto in fondo nel quinto livello
-di Kowloon. È un luogo importante per il nostro
-avversario, ovvero Crusadermon.","目的地「交流點」在「Kowloon Lv. 5」區域的深處，
+39,3006,,"Il nodo si trova molto in fondo nel quinto livello di Kowloon.
+È un luogo importante per il nostro avversario, ovvero Crusadermon.","目的地「交流點」在「Kowloon Lv. 5」區域的深處，
 對敵人來說也是重要的據點，而且對手還是劍皇獸。",,"목표인「교류점」은「쿠롱 Lv.5」에어리어의 안쪽에 있다
 …적에게 있어서도 중요한 거점, 게다가 상대는 로드나이트몬이다","Der Knotenpunkt ist weit hinten in der fünften Ebene
 von Kowloon. Er ist ein wichtiger Ort für unseren
 Gegner, also Crusadermon."
-40,3006,,"Senza dubbio lì vi aspetteranno delle
-trappole. Siate di conseguenza cauti.","防範措施一定很森嚴，可能會有陷阱……
+40,3006,,"Senza dubbio lì vi aspetteranno delle trappole.
+Siate di conseguenza cauti.","防範措施一定很森嚴，可能會有陷阱……
 你們千萬要小心行動。",,"트랩 등의 엄중한 경비 태세는 불가피하겠지…
 아무쪼록 신중히 행동해 주도록","Zweifelsohne werden dort Fallen auf euch warten.
 Seid dementsprechend vorsichtig."
-41,3003,,"Bene,
-[p]. Incontriamoci a Kowloon.",那麼，[p]……我們在Kowloon集合吧。,,"그럼, [p] 씨… 쿠롱에서 합류하죠","Gut, [p].
+41,3003,,"Bene, [p].
+Incontriamoci a Kowloon.",那麼，[p]……我們在Kowloon集合吧。,,"그럼, [p] 씨… 쿠롱에서 합류하죠","Gut, [p].
 Treffen wir uns in Kowloon."
 42,3003,,Conto su di te.,……麻煩你了,,…잘 부탁드립니다,Ich zähle auf dich.
 43,3002,,Yuuko ci si è proprio fissata.,小悠子……在生氣呢……,,유콧치… 화났네…,Yuuko hat sich daran ganz schön festgebissen.
 44,2000,,...,………,,……,...
-45,3006,,"Non è
-arrabbiato. Ma è pieno di slancio.",與其說是生氣，不如說是亢奮吧。,,"…화났다기 보다는, 기를 쓰고 있군","Sie ist nicht wütend.
+45,3006,,"Non è arrabbiato.
+Ma è pieno di slancio.",與其說是生氣，不如說是亢奮吧。,,"…화났다기 보다는, 기를 쓰고 있군","Sie ist nicht wütend.
 Aber sie steckt voller Tatendrang."
 46,3006,,"Ora che sa che Crusadermon ha ucciso
 suo padre, è comprensibile.","雖然說她現在已經弄清劍皇獸是父親的仇人，
 會亢奮也是當然的……",,"로드나이트몬이 아버지의 원수로 판명된 지금
 무리도 아니긴 하다만…","Jetzt, wo sie weiß, dass Crusadermon ihren Vater
 getötet hat, ist das verständlich."
-47,3006,,"Tuttavia, in questo stato, potrebbe agire
-sconsideratamente. [p], stai attento a lei.","但以她那種狀況，恐怕會招致意想不到的過失。
+47,3006,,"Tuttavia, in questo stato, potrebbe agire sconsideratamente.
+[p], stai attento a lei.","但以她那種狀況，恐怕會招致意想不到的過失。
 [p]，暫時不要讓她離開你的視線。",,"저 상태를 보아하니, 뜻밖의 과실을 초래할 수도 있다
 [p], 당분간 그녀에게서 눈을 떼지 않도록","Dennoch könnte sie in diesem Zustand leichtsinnig
 agieren. [p], pass gut auf sie auf."
 48,2000,,...!,……！！,,…!!,...!
-49,2000,,"Bene! La seguirò come un
-segugio! Le starò addosso come una
-zecca! Svelerò tutti i suoi segreti!","是！　我會好好地「跟蹤」＆「調查」她的！
+49,2000,,"Bene! La seguirò come un segugio!
+Le starò addosso come una zecca! Svelerò tutti i suoi segreti!","是！　我會好好地「跟蹤」＆「調查」她的！
 我會抱持著「緊跟女高中生☆24小時！？」的精神！
 我會把她私底下的模樣也看個精光！？",,"네! 확실히「미행」&「조사」할게요!
 『여고생 밀착♡24시!?』 같은 마음가짐으로 임할게요!
@@ -170,8 +161,8 @@ zecca! Svelerò tutti i suoi segreti!","是！　我會好好地「跟蹤」＆�
 Ich werde an ihr kleben wie eine Klette!
 Ich werde all ihre Geheimnisse aufdecken!"
 50,2000,,Era solo uno scherzo.,開玩笑的啦……,,……장~난이에요,War nur ein Scherz.
-51,3006,,"Hm... forse ci stiamo capendo
-male. Per prima cosa devi rilassarti.","嗯……你好像誤會什麼了。
+51,3006,,"Hm... forse ci stiamo capendo male.
+Per prima cosa devi rilassarti.","嗯……你好像誤會什麼了。
 你必須先放鬆一下……",,"흐음… 아무래도 잘못된 생각을 하고 있는 것 같군
 우선, 네가 릴랙스할 필요가 있겠어…","Hm ... wir verstehen uns wohl falsch.
 Als Erstes musst du dich entspannen."
@@ -191,8 +182,7 @@ dann Tofu, Bananen und Erdbeeren dazu ..."
 57,3006,,Questi ingredienti aiutano a ridurre lo stress.,每一個食材都有助於舒緩壓力唷。,,모두 스트레스 해소 효과가 기대되는 식재료다,"Diese Zutaten helfen, Stress zu mindern."
 58,2000,,?!,！？,,!?,?!
 59,3002,,Bleah...!,唔……,,…우욱,Bärks ...!
-60,3002,,"Non mi sento per niente stressato
-ora. Rinuncio, sì?","我、我沒什麼特別的壓力～
+60,3002,,"Non mi sento per niente stressato ora. Rinuncio, sì?","我、我沒什麼特別的壓力～
 我、我就不需要了吧？",,"저, 전 스트레스라던가, 딱히 없어서~
 사, 사양해 둘까~?","Ich fühle mich gerade gar nicht so gestresst.
 Ich verzichte, ja?"
