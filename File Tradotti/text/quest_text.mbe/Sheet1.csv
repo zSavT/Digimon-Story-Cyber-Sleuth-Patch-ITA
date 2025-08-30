@@ -87,16 +87,16 @@ Ort: Broadway – 1. Stock"
 103,,Inizio: Broadway 1°piano.,從BW1F某處前往委託人的所在地,,BW 1F 어딘가에서 의뢰인이 있는 곳으로 가자.,Start: Broadway – 1. Stock
 104,,L'ingranaggio di Hagurumon,尋找齒輪獸的齒輪,,톱니몬의 톱니바퀴를 찾는다.,Hagurumons Zahnrad
 120,,Trova gli scomparsi!,行蹤不明的協尋請求！,,실종자 수색을 부탁해!,Vermisstensuche!
-121,,"DemiDevimon! DemiDevimon! Non riesco a trovare
-il mio DemiDevimon! Deve essere da qualche parte
-nel mondo reale. Aiutami a cercarlo!","小惡魔獸！！
+121,,"DemiDevimon! DemiDevimon! Non riesco a
+trovare il mio DemiDevimon! Deve essere nel
+mondo reale. Aiutami a cercarlo!","小惡魔獸！！
 我找不到我的小惡魔獸啊！！
 它一定是在現實世界裡，幫我找到它！！",,"피코데블몬이!!
 나의 피코데블몬이 보이질 않아!!
 현실 세계에 있을텐데 찾아줘!!","DemiDevimon! DemiDevimon! Ich kann mein
 DemiDevimon nicht finden! Es muss in der
 echten Welt sein. Hilf mir suchen!"
-122,,"Cliente: Hacker Impulsivo
+122,,"Cliente: Hacker Nervoso
 Luogo: Incerto","【委託人】愛操心的駭客
 【所在地】不明",,"【의뢰인】걱정 많은 해커
 【장소】불명","Klient: Nervöser Hacker
@@ -418,9 +418,9 @@ Luogo: K-Cafe","【委託人】線上百科網站站長
 【所在地】K-Cafe",,"【의뢰인】사전 사이트 관리인
 【장소】K-카페","Klient: Lexikon-Administratorin
 Ort: K-Café"
-483,,Connect Jump K-Cafe,在K-Cafe的電腦上登入跳躍,,K-카페의 PC로 커넥트 점프를 하자.,Verbindungssprung K-Café
+483,,Connettiti al Jump K-Cafe,在K-Cafe的電腦上登入跳躍,,K-카페의 PC로 커넥트 점프를 하자.,Verbindungssprung K-Café
 484,,Trova il criminale,在數碼空間裡尋找犯人,,디지털 스페이스에서 범인을 찾자.,Verbrecher finden
-500,,Problemi alla Digipedia Continuati,續‧奇怪的免費線上百科,,이상한 프리 백과사전2,Weitere Probleme mit der Digipedia
+500,,Ulteriori problemi con Digipedia,續‧奇怪的免費線上百科,,이상한 프리 백과사전2,Weitere Probleme mit der Digipedia
 501,,"Lo stesso problema si è ripresentato.
 La Digipedia è in grave pericolo!
 Potresti darmi una mano?","又發生了和前陣子相同的問題
@@ -435,7 +435,7 @@ Luogo: K-Cafe","【委託人】線上百科網站站長
 【所在地】K-Cafe",,"【의뢰인】사전 사이트 관리인
 【장소】K-카페","Klient: Lexikon-Administratorin
 Ort: K-Café"
-503,,Connect Jump K-Cafe,在K-Cafe的電腦上登入跳躍,,K-카페의 PC로 커넥트 점프를 하자.,Verbindungssprung K-Café
+503,,Connettiti al Jump K-Cafe,在K-Cafe的電腦上登入跳躍,,K-카페의 PC로 커넥트 점프를 하자.,Verbindungssprung K-Café
 504,,Trova il criminale,在數碼空間裡尋找犯人,,디지털 스페이스에서 범인을 찾자.,Verbrecher finden
 520,,Il Dott. Datamon Sviluppa una Medicina,分子獸博士的新藥開發,,데이터몬 박사의 신약 개발,Dr. Datamon entwickelt Medizin
 521,,"Sono un famoso esperto nella creazione di 
