@@ -6,7 +6,7 @@ ID,Japanese,English,Chinese,EnglishCensored,Korean,German
 1002,,ore,小時,,시간, Std. 
 1003,,min,分,,분, Min.
 1200,,Gruppo,隊伍,,파티,Gruppe
-1201,,Isola Farm 1,農場島１,,팜 섬 1,Farminsel 1
+1201,,Isola Fattoria 1,農場島１,,팜 섬 1,Farminsel 1
 1202,,Isola Fattoria 2,農場島２,,팜 섬 2,Farminsel 2
 1203,,Isola Fattoria 3,農場島３,,팜 섬 3,Farminsel 3
 1204,,Isola Fattoria 4,農場島４,,팜 섬 4,Farminsel 4
@@ -23,15 +23,15 @@ ID,Japanese,English,Chinese,EnglishCensored,Korean,German
 1215,,Requisiti,必要條件,,필요조건,Anforderungen
 1216,,Livello,等級,,레벨,Level 
 1217,,o superiore,以上,,이상, oder höher
-1218,,HP MAX è,最大HP,,최대 HP가 ,Max. TP =
-1219,,SP MAX è,最大SP,,최대 SP가 ,Max. SP =
-1220,,ATK è,ATK,,공격력이 ,ANG = 
-1221,,DEF è,DEF,,방어력이 ,VER = 
-1222,,INT è,INT,,지력이 ,INT = 
-1223,,SPD è,SPD,,민첩이 ,GES = 
-1224,,ABI è,才能,,재능이 ,FÄH = 
+1218,,HP MAX =,最大HP,,최대 HP가 ,Max. TP =
+1219,,SP MAX =,最大SP,,최대 SP가 ,Max. SP =
+1220,,ATK =,ATK,,공격력이 ,ANG = 
+1221,,DEF =,DEF,,방어력이 ,VER = 
+1222,,INT =,INT,,지력이 ,INT = 
+1223,,SPD =,SPD,,민첩이 ,GES = 
+1224,,ABI =,才能,,재능이 ,FÄH = 
 1225,,richiesto,必要,, 필요, erforderlich
-1226,,CAM è,友情,,우정이 ,KAM = 
+1226,,CAM =,友情,,우정이 ,KAM = 
 1227,,% richiesto,%必要,,% 필요, % erforderlich
 1228,,tenuto,擁有,,을(를) 가지고 있다., in Besitz
 1229,,CAM 100%,友情100%的,,우정 100%의 ,KAM 100 % 
@@ -51,7 +51,7 @@ ID,Japanese,English,Chinese,EnglishCensored,Korean,German
 1301,,★,★,,★,★
 1302,, completato!,已過關,,을(를) 클리어 했습니다., abgeschlossen!
 1303,,Ricompensa in denaro,報酬金,,보수금,Verdienst
-1304,,Yen,YEN,,YEN, Yen
+1304,,YEN,YEN,,YEN, Yen
 1305,,CSP Ottenuti,獲得CSP,,획득 CSP,CDP
 1306,,CSP,CSP,,CSP,CDP
 1307,,x,×,,x,x
@@ -94,8 +94,8 @@ ID,Japanese,English,Chinese,EnglishCensored,Korean,German
 2102,,EDEN,EDEN,,EDEN,EDEN
 2103,,DigiLab,數碼實驗室,,디지랩,DigiLab
 2200,,Volume Musica,BGM音量,,BGM 볼륨,Musik
-2201,,Volume effetti,SE音量,,SE 볼륨,Soundeffekte
-2202,,Volume della voce,VOICE音量,,Voice 볼륨,Dialog
+2201,,Volume Effetti,SE音量,,SE 볼륨,Soundeffekte
+2202,,Volume Dialoghi,VOICE音量,,Voice 볼륨,Dialog
 2203,,Minimappa,小地圖,,미니맵,Minikarte
 2204,,Digimon Partner,同行數碼寶貝,,데리고 다닐 디지몬,Partnerdigimon
 2205,,Cutscene di Battaglia,戰鬥演出,,배틀 연출,Kampfvideos
@@ -178,7 +178,7 @@ ID,Japanese,English,Chinese,EnglishCensored,Korean,German
 4100,,Min.,分,,분,Min.
 4101,,Ore,時,,시간,Std.
 4102,,Giorni,日,,일,Tage
-1004,,capitolo,chapter,,chapter,Kapitel
+1004,,Capitolo,chapter,,chapter,Kapitel
 4103,,Digimon nella squadra,隊伍數碼寶貝,,파티 디지몬,Digimongruppe
 2903,,"Grado #{rank}   {rating} Punti (+{point})
 Monete: +{coin}","{rank}名　{rating}Pt（＋{point}）
