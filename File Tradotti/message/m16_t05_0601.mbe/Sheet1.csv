@@ -33,8 +33,7 @@ Examon, è necessaria un'enorme onda digitale.","為了維持艾克薩獸龐大�
 似乎需要龐大的數碼波。",,"엑자몬이 가진 차원이 다른 데이터 질량을 유지하기 위해서는,
 방대한 디지털 웨이브가 필요한 모양이다","Um Examons unglaubliche Datenmenge zu erhalten,
 ist eine enorme digitale Welle erforderlich."
-11,3003,,"Vuol dire che il consumo di carburante di Examon
-è molto inefficiente?",也就是說，燃料效率非常差……？,,"터무니없이 연비가 나쁘다, 라는 거죠…?","Soll das heißen, dass Examons Kraftstoffverbrauch
+11,3003,,"Vuol dire che il consumo di ""carburante"" di Examon è molto inefficiente?",也就是說，燃料效率非常差……？,,"터무니없이 연비가 나쁘다, 라는 거죠…?","Soll das heißen, dass Examons Kraftstoffverbrauch
 sehr ineffizient ist?"
 12,3006,,"Più o meno. E mentre riposa, l'onda digitale
 gli fornisce energia dall'esterno.","沒錯……它處於休眠狀態的時候，
@@ -47,9 +46,9 @@ controllata da Crusadermon, vero?","經過數碼線就表示……
 果然是劍皇獸搞的鬼嗎？",,"디지털 라인을 경유한다는 건…
 역시 로드나이트몬의 짓인 거야?","Wenn es eine digitale Leitung ist, dann wird sie
 von Crusadermon kontrolliert, oder?"
-15,3006,,"Credo che lui controlli l'Examon leggermente
-buggato in modo simile ai Eater,
-continuando a generare onde digitali.","應該是一邊進行數碼波的供給，
+15,3006,,"Penso che, continuando a fornire le Onde Digitali,
+lei stia controllando l'Examon parzialmente corrotto
+nello stesso modo in cui fanno gli Eaters.","應該是一邊進行數碼波的供給，
 一邊用和侵食者相同的控制方法，
 操縱著部分Bug化的艾克薩獸。",,"…디지털 웨이브를 공급하면서, 일부 버그화한 엑자몬을
 이터와 같은 제어법으로 조종하고 있는 것 같다","Ich glaube, dass sie den leicht verbuggten Examon
@@ -113,7 +112,7 @@ der Gestalt von Yuugo einiges an Können gezeigt."
 35,3006,,"D'ora in poi ti serviranno eccellenti capacità
 di combattimento.",妳在今後的作戰中，也會成為很大的戰力吧。,,"앞으로의 작전에 있어서도, 큰 전력이 되겠지","Von jetzt an brauchst du hervorragende
 Kampfkünste."
-36,3006,,"Ma nessuno si aspetta che tu faccia tutto da solo.
+36,3006,,"Ma nessuno si aspetta che tu faccia tutto da sola.
 [p] ti accompagnerà. Va bene?","不過，在這個情況下，我不會允許妳單獨行動。
 [p]會和妳一起去……可以吧？",,"하지만, 사태가 사태인 이상 단독 행동은 논외다
 [p]가(이) 동행한다… 알겠지?","Aber niemand erwartet, dass du alles alleine tust.
@@ -138,11 +137,10 @@ Treffen wir uns in Kowloon."
 42,3003,,Conto su di te.,……麻煩你了,,…잘 부탁드립니다,Ich zähle auf dich.
 43,3002,,Yuuko ci si è proprio fissata.,小悠子……在生氣呢……,,유콧치… 화났네…,Yuuko hat sich daran ganz schön festgebissen.
 44,2000,,...,………,,……,...
-45,3006,,"Non è arrabbiato.
-Ma è pieno di slancio.",與其說是生氣，不如說是亢奮吧。,,"…화났다기 보다는, 기를 쓰고 있군","Sie ist nicht wütend.
+45,3006,,"Non è arrabbiata.
+Ma è piena di energia.",與其說是生氣，不如說是亢奮吧。,,"…화났다기 보다는, 기를 쓰고 있군","Sie ist nicht wütend.
 Aber sie steckt voller Tatendrang."
-46,3006,,"Ora che sa che Crusadermon ha ucciso
-suo padre, è comprensibile.","雖然說她現在已經弄清劍皇獸是父親的仇人，
+46,3006,,"Ora che sa che Crusadermon ha ucciso suo padre, è comprensibile.","雖然說她現在已經弄清劍皇獸是父親的仇人，
 會亢奮也是當然的……",,"로드나이트몬이 아버지의 원수로 판명된 지금
 무리도 아니긴 하다만…","Jetzt, wo sie weiß, dass Crusadermon ihren Vater
 getötet hat, ist das verständlich."
@@ -153,7 +151,8 @@ getötet hat, ist das verständlich."
 agieren. [p], pass gut auf sie auf."
 48,2000,,...!,……！！,,…!!,...!
 49,2000,,"Bene! La seguirò come un segugio!
-Le starò addosso come una zecca! Svelerò tutti i suoi segreti!","是！　我會好好地「跟蹤」＆「調查」她的！
+Le starò addosso come una zecca!
+Svelerò tutti i suoi segreti!","是！　我會好好地「跟蹤」＆「調查」她的！
 我會抱持著「緊跟女高中生☆24小時！？」的精神！
 我會把她私底下的模樣也看個精光！？",,"네! 확실히「미행」&「조사」할게요!
 『여고생 밀착♡24시!?』 같은 마음가짐으로 임할게요!
@@ -182,11 +181,11 @@ dann Tofu, Bananen und Erdbeeren dazu ..."
 57,3006,,Questi ingredienti aiutano a ridurre lo stress.,每一個食材都有助於舒緩壓力唷。,,모두 스트레스 해소 효과가 기대되는 식재료다,"Diese Zutaten helfen, Stress zu mindern."
 58,2000,,?!,！？,,!?,?!
 59,3002,,Bleah...!,唔……,,…우욱,Bärks ...!
-60,3002,,"Non mi sento per niente stressato ora. Rinuncio, sì?","我、我沒什麼特別的壓力～
+60,3002,,"Non mi sento per niente stressata ora. Rinuncio, ok?","我、我沒什麼特別的壓力～
 我、我就不需要了吧？",,"저, 전 스트레스라던가, 딱히 없어서~
 사, 사양해 둘까~?","Ich fühle mich gerade gar nicht so gestresst.
 Ich verzichte, ja?"
 61,3002,,"Allora, ehm, a più tardi, [p].",那、那麼，[p]……,,"그, 그럼 [p]…","Also, äh, bis später, [p]."
-62,3002,,Ce la fai!,加油囉☆,,파이팅♡,Du schaffst das!
+62,3002,,Ce la puoi fare!,加油囉☆,,파이팅♡,Du schaffst das!
 63,2000,,...,……,,………,...
 64,3006,,"Ah, perfetto! Speriamo funzioni! Hihi!",好了，完成了……這個很有效喔？呵呵……,,"자, 완성이다… 이건 꽤 효과가 좋다고? …후후","Ah, perfekt! Hoffentlich klappt das! Hihi!"
