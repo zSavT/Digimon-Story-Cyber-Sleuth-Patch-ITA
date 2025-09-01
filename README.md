@@ -62,7 +62,7 @@ Le percentuali quì sotto fanno riferimento alla revisione manuale dei testi, la
 
 - [ ] Terminare interamente la revisione Storia Cyber Sleuth.
 - [ ] Iniziare revisione Hacker's Memory sistemando la sola formattazione nei testi tagliati.
-- [ ] Correzione testi con doppi genere indicati.
+- [x] Correzione testi con doppi genere indicati.
 - [ ] Revisione Box Dialoghi NPC.
 - [ ] Revisione DigiLine Parte 4.
 - [ ] Revisione Quest Parte 4
