@@ -62,15 +62,15 @@ ID,Japanese,English,Chinese,EnglishCensored,Korean,German
 78,,Diamante,鑽石,,다이아몬드,Diamant
 79,,Chrome Digizoid,數碼合金,,크롬디지조이트,Chrom-Digizoid
 90,,Potenziamento Memoria,上限提升,,메모리 업,Speicher-UP
-91,,Memory UP DX,上限提升DX,,메모리 업 DX,Speicher-UP DX
-100,,Patch di durata,耐久型修正檔,,내구형 패치,Haltbarkeits-Patch
-101,,Area Vivace,活力型修正檔,,활력형 패치,Lebendiger Patch
-102,,Patch del Combattente,攻擊型修正檔,,공격형 패치,Kämpfer-Patch
-103,,Toppa del Difensore,防禦型修正檔,,방어형 패치,Verteidiger-Patch
-104,,Cerotto Intellettuale,智力型修正檔,,지력형 패치,Intelligenter Patch
+91,,Potenziamento Memoria DX,上限提升DX,,메모리 업 DX,Speicher-UP DX
+100,,Patch Durevole,耐久型修正檔,,내구형 패치,Haltbarkeits-Patch
+101,,Patch Vivace,活力型修正檔,,활력형 패치,Lebendiger Patch
+102,,Patch Combattente,攻擊型修正檔,,공격형 패치,Kämpfer-Patch
+103,,Patch Difensore,防禦型修正檔,,방어형 패치,Verteidiger-Patch
+104,,Patch Intellettuale,智力型修正檔,,지력형 패치,Intelligenter Patch
 105,,Patch Agile,速度型修正檔,,민첩형 패치,Geschickter Patch
-106,,Patch di Sviluppo,開發型修正檔,,개발형 패치,Entwicklungs-Patch
-107,,Patch del Ricercatore,調查型修正檔,,조사형 패치,Sucher-Patch
+106,,Patch Sviluppo,開發型修正檔,,개발형 패치,Entwicklungs-Patch
+107,,Patch Ricercatore,調查型修正檔,,조사형 패치,Sucher-Patch
 110,,Chip Restrizione HP C,HP抑制晶片C,,HP억제칩 C,TP-Limitierungs-Chip C
 111,,Chip Restrizione HP B,HP抑制晶片B,,HP억제칩 B,TP-Limitierungs-Chip B
 112,,Chip Restrizione HP A,HP抑制晶片A,,HP억제칩 A,TP-Limitierungs-Chip A
@@ -83,20 +83,20 @@ ID,Japanese,English,Chinese,EnglishCensored,Korean,German
 119,,Chip Restrizione DEF C,DEF抑制晶片C,,DEF억제칩 C,VER-Limitierungs-Chip C
 120,,Chip Restrizione DEF B,DEF抑制晶片B,,DEF억제칩 B,VER-Limitierungs-Chip B
 121,,Chip Restrizione DEF A,DEF抑制晶片A,,DEF억제칩 A,VER-Limitierungs-Chip A
-122,,INT Chip Restrizione C,INT抑制晶片C,,INT억제칩 C,INT-Limitierungs-Chip C
-123,,INT Chip Restrizione B,INT抑制晶片B,,INT억제칩 B,INT-Limitierungs-Chip B
-124,,INT Chip Restrizione A,INT抑制晶片A,,INT억제칩 A,INT-Limitierungs-Chip A
+122,,Chip Restrizione INT C,INT抑制晶片C,,INT억제칩 C,INT-Limitierungs-Chip C
+123,,Chip Restrizione INT B,INT抑制晶片B,,INT억제칩 B,INT-Limitierungs-Chip B
+124,,Chip Restrizione INT A,INT抑制晶片A,,INT억제칩 A,INT-Limitierungs-Chip A
 125,,Chip Restrizione SPD C,SPD抑制晶片C,,SPD억제칩 C,GES-Limitierungs-Chip C
 126,,Chip Restrizione SPD B,SPD抑制晶片B,,SPD억제칩 B,GES-Limitierungs-Chip B
 127,,Chip Restrizione SPD A,SPD抑制晶片A,,SPD억제칩 A,GES-Limitierungs-Chip A
-200,,Carne Eccitante,心兒怦怦肉,,두근두근 고기,Tolles Fleisch
+200,,Carne Eccellente,心兒怦怦肉,,두근두근 고기,Tolles Fleisch
 201,,Carne Migliore,頂極肉品,,최고급 고기,Bestes Fleisch
 202,,Fungo Vigor,精力旺盛菇,,터프니스 버섯,Lebenspilz
 203,,Melone Mentale,意志埾韌哈蜜瓜,,멘탈 멜론,Mentale Melone
 204,,Pino Potente,力大無窮鳳梨,,파워풀 파인,Kraftananas
 205,,Mela Egida,銅牆鐵壁蘋果,,가드 애플,Ägis-Apfel
 206,,Carota Astuta,聰明絕頂紅蘿蔔,,인텔리 당근,Schlaue Karotte
-207,,Banana energetica,行疾如風香蕉,,액셀 바나나,Boost-Banane
+207,,Banana Energetica,行疾如風香蕉,,액셀 바나나,Boost-Banane
 208,,Carne Miracolosa,天降奇蹟肉,,미라클 고기,Wunderfleisch
 209,,Caffè di Kyoko (Arcobaleno),杏子的咖啡【彩虹色】,,쿄코의 커피(무지개색),Kyokos Kaffee (Reg.)
 210,,La Strana Caramella di Nokia,諾奇雅的奇妙糖果,,노키아의 이상한 사탕,Nokias Süßigkeit
@@ -127,7 +127,7 @@ ID,Japanese,English,Chinese,EnglishCensored,Korean,German
 305,,HP Allegato A,HP附件A,,HP어태치 A,TP-Zusatz A
 306,,SP Allegato E,SP附件E,,SP어태치 E,SP-Zusatz E
 307,,SP Allegato D,SP附件D,,SP어태치 D,SP-Zusatz D
-308,,ATK Allegato Speciale C,SP附件C,,SP어태치 C,SP-Zusatz C
+308,,ATK Allegato SP C,SP附件C,,SP어태치 C,SP-Zusatz C
 309,,SP Allegato B,SP附件B,,SP어태치 B,SP-Zusatz B
 310,,SP Allegato A,SP附件A,,SP어태치 A,SP-Zusatz A
 311,,ATK Allegato E,ATK附件E,,ATK어태치 E,ANG-Zusatz E
@@ -156,7 +156,7 @@ ID,Japanese,English,Chinese,EnglishCensored,Korean,German
 334,,AGL Allegato C,AGL附件C,,AGL어태치 C,GEW-Zusatz C
 335,,AGL Allegato B,AGL附件B,,AGL어태치 B,GEW-Zusatz B
 336,,AGL Allegato A,AGL附件A,,AGL어태치 A,GEW-Zusatz A
-337,,CRT Attacco C,CRT附件C,,CRT어태치 C,KRT-Zusatz C
+337,,CRT Allegato C,CRT附件C,,CRT어태치 C,KRT-Zusatz C
 338,,CRT Allegato B,CRT附件B,,CRT어태치 B,KRT-Zusatz B
 339,,CRT Allegato A,CRT附件A,,CRT어태치 A,KRT-Zusatz A
 340,,Disco Energetico,活力光碟,,에너지 디스크,Energiedisc
@@ -171,41 +171,41 @@ ID,Japanese,English,Chinese,EnglishCensored,Korean,German
 349,,Disco Combattente,戰士光碟,,파이터 디스크,Kämpferdisc
 350,,Disco Saggio,賢者光碟,,세이지 디스크,Weisendisc
 351,,Disco Assassino,刺客光碟,,어쌔신 디스크,Meuchelmörderdisc
-352,,Bishop Disk,主教光碟,,비숍 디스크,Bischofsdisc
+352,,Bishop Disc,主教光碟,,비숍 디스크,Bischofsdisc
 353,,Disco Monaco,僧侶光碟,,몽크 디스크,Mönchsdisc
 354,,Disco Spirituale,神靈光碟,,스피릿 디스크,Geistdisc
 355,,Disco Ranger,遊俠光碟,,레인저 디스크,Waldläuferdisc
 356,,Disco Piumato,輕羽光碟,,페더 디스크,Federdisc
 357,,Disco Gladiatore,劍鬥士光碟,,글래디에이터 디스크,Gladiatorendisc
-358,,Master Disk,大師光碟,,마스터 디스크,Meisterdisc
-359,,Protezione dal Fuoco,火之守護者,,플레어 가드,Flammendeckung
-360,,Flare Guard DX,火之守護者DX,,플레어 가드 DX,Flammendeckung DX
-361,,Guardia d'Acqua,水之守護者,,아쿠아 가드,Wasserdeckung
-362,,Aqua Guard DX,水之守護者DX,,아쿠아 가드 DX,Wasserdeckung DX
-363,,Guardia vegetale,木之守護者,,플랜트 가드,Pflanzendeckung
-364,,Guardia Vegetale DX,木之守護者DX,,플랜트 가드 DX,Pflanzendeckung DX
+358,,Master Disc,大師光碟,,마스터 디스크,Meisterdisc
+359,,Protezione Fuoco,火之守護者,,플레어 가드,Flammendeckung
+360,,Protezione Fuoco DX,火之守護者DX,,플레어 가드 DX,Flammendeckung DX
+361,,Protezione Acqua,水之守護者,,아쿠아 가드,Wasserdeckung
+362,,Protezione Acqua DX,水之守護者DX,,아쿠아 가드 DX,Wasserdeckung DX
+363,,Protezione Erba,木之守護者,,플랜트 가드,Pflanzendeckung
+364,,Protezione Erba DX,木之守護者DX,,플랜트 가드 DX,Pflanzendeckung DX
 365,,Protezione Elettrica,雷之守護者,,일렉트릭 가드,Elektrodeckung
-366,,Guardia Elettrica DX,雷之守護者DX,,일렉트릭 가드 DX,Elektrodeckung DX
-367,,Guardia di sabbia,土之守護者,,샌드 가드,Sanddeckung
-368,,Guardia di Sabbia DX,土之守護者DX,,샌드 가드 DX,Sanddeckung DX
-369,,Scudo di Vento,風之守護者,,윈드 가드,Winddeckung
-370,,Protezione dal Vento DX,風之守護者DX,,윈드 가드 DX,Winddeckung DX
-371,,Scudo Brillante,光之守護者,,샤인 가드,Lichtdeckung
-372,,Shine Guard DX,光之守護者DX,,샤인 가드 DX,Lichtdeckung DX
-373,,Guardia Oscura,闇之守護者,,다크 가드,Dunkeldeckung
-374,,Guardia Oscura DX,闇之守護者DX,,다크 가드 DX,Dunkeldeckung DX
-375,,Protezione dal Rumore,雜訊守護者,,노이즈 가드,Lärmdeckung
-376,,Protezione Noise DX,雜訊守護者DX,,노이즈 가드 DX,Lärmdeckung DX
-377,,Guardia Suprema,萬能守護者,,마스터 가드,Meisterdeckung
+366,,Protezione Elettrica DX,雷之守護者DX,,일렉트릭 가드 DX,Elektrodeckung DX
+367,,Protezione Terra,土之守護者,,샌드 가드,Sanddeckung
+368,,Protezione Terra DX,土之守護者DX,,샌드 가드 DX,Sanddeckung DX
+369,,Protezione Vento,風之守護者,,윈드 가드,Winddeckung
+370,,Protezione Vento DX,風之守護者DX,,윈드 가드 DX,Winddeckung DX
+371,,Protezione Luce,光之守護者,,샤인 가드,Lichtdeckung
+372,,Protezione Luce DX,光之守護者DX,,샤인 가드 DX,Lichtdeckung DX
+373,,Protezione Oscura,闇之守護者,,다크 가드,Dunkeldeckung
+374,,Protezione Oscura DX,闇之守護者DX,,다크 가드 DX,Dunkeldeckung DX
+375,,Protezione Rumore,雜訊守護者,,노이즈 가드,Lärmdeckung
+376,,Protezione Rumore DX,雜訊守護者DX,,노이즈 가드 DX,Lärmdeckung DX
+377,,Protezione Suprema,萬能守護者,,마스터 가드,Meisterdeckung
 378,,Barriera Velenosa,劇毒屏障,,포이즌 배리어,Giftbarriere
 379,,Barriera Velenosa DX,劇毒屏障DX,,포이즌 배리어 DX,Giftbarriere DX
-380,,Barriera di panico,混亂屏障,,패닉 배리어,Panikbarriere
-381,,Barriera Antipanico DX,混亂屏障DX,,패닉 배리어 DX,Panikbarriere DX
+380,,Barriera Panico,混亂屏障,,패닉 배리어,Panikbarriere
+381,,Barriera Panico DX,混亂屏障DX,,패닉 배리어 DX,Panikbarriere DX
 382,,Barriera Paralisi,麻痺屏障,,패럴라이즈 배리어,Lähmungsbarriere
 383,,Barriera Paralisi DX,麻痺屏障DX,,패럴라이즈 배리어 DX,Lähmungsbarriere DX
-384,,Barriera del sonno,睡眠屏障,,슬립 배리어,Schlafbarriere
+384,,Barriera Sonno,睡眠屏障,,슬립 배리어,Schlafbarriere
 385,,Barriera Sonno DX,睡眠屏障DX,,슬립 배리어 DX,Schlafbarriere DX
-386,,Barriera Stordente,暈眩屏障,,스턴 배리어,Betäubungsbarriere
+386,,Barriera Stordimento,暈眩屏障,,스턴 배리어,Betäubungsbarriere
 387,,Barriera Stordimento DX,暈眩屏障DX,,스턴 배리어 DX,Betäubungsbarr. DX
 388,,Barriera Pixel,液晶化屏障,,도트 배리어,Pixelbarriere
 389,,Barriera Pixel DX,液晶化屏障DX,,도트 배리어 DX,Pixelbarriere DX
@@ -215,7 +215,7 @@ ID,Japanese,English,Chinese,EnglishCensored,Korean,German
 393,,Barriera Mortale DX,即死屏障DX,,데스 배리어 DX,Todesbarriere DX
 394,,Barriera Master,萬能屏障,,마스터 배리어,Meisterbarriere
 395,,USB CAM,友情的USB,,우정의 USB,KAM-USB
-396,,Ninja USB,忍者的USB,,닌자의 USB,Ninja-USB
+396,,USB Ninja,忍者的USB,,닌자의 USB,Ninja-USB
 397,,USB Tattico,軍師的USB,,군사의 USB,Taktiker-USB
 398,,USB Miliardario,億萬富翁的USB,,억만장자의 USB,Milliardärs-USB
 399,,USB ad Alta Capacità,大容量的USB,,대용량의 USB,USB mit großem Volumen
@@ -232,44 +232,44 @@ ID,Japanese,English,Chinese,EnglishCensored,Korean,German
 507,,Simbolo Sacro,聖心之符號,,성심의 심볼,Heiliges Symbol
 508,,Simbolo della Notte Oscura,闇夜之符號,,암야의 심볼,Dunkle Nacht-Symbol
 509,,Simbolo del Vuoto,虛無之符號,,허무의 심볼,Nichts-Symbol
-520,,Know-how sviluppatore,開發者的心得,,개발자의 마음가짐,Entwicklerwissen
+520,,Know-how Sviluppatore,開發者的心得,,개발자의 마음가짐,Entwicklerwissen
 521,,Il Segreto del Detective,偵探的奧秘,,탐정의 극의,Detektiv-Geheimnis
 522,,Generatore di HP,HP產生器,,HP제네레이터,TP-Generator
 523,,Generatore SP,SP產生器,,SP제네레이터,SP-Generator
 524,,Sacco da Boxe,拳擊沙包,,샌드백,Sandsack
-525,,Sacco da Boxe,拳擊機,,펀치머신,Boxsack
-526,,Stanza di Studio,讀書室,,스터디룸,Studierzimmer
+525,,Punzonatrice,拳擊機,,펀치머신,Boxsack
+526,,Aula Studio,讀書室,,스터디룸,Studierzimmer
 527,,Tapis roulant,跑步機,,런닝머신,Laufband
 528,,Generatore Mega HP,超級HP產生器,,메가 HP제네레이터,Mega-TP-Generator
 529,,Generatore Mega di SP,超級SP產生器,,메가 SP제네레이터,Mega-SP-Generator
 530,,Sacco da Boxe Definitivo,高級拳擊沙包,,고급 샌드백,Supersandsack
 531,,Sacco da Boxe Superiore,高級拳擊機,,고급 펀치머신,Superboxsack
-532,,Aula di studio superiore,高級讀書室,,고급 스터디룸,Superstudierzimmer
+532,,Aula Studio Superiore,高級讀書室,,고급 스터디룸,Superstudierzimmer
 533,,Tapis Roulant di Ottima Fattura,高級跑步機,,고급 런닝머신,Superlaufband
 534,,Generatore HP Giga,究極HP產生器,,기가 HP제네레이터,Giga-TP-Generator
 535,,Generatore SP Giga,究極SP產生器,,기가 SP제네레이터,Giga-SP-Generator
 536,,Sacco da Boxe Migliore,超高級拳擊沙包,,최고급 샌드백,Bester Sandsack
-537,,Sacco da Boxe Migliore,超高級拳擊機,,최고급 펀치머신,Bester Boxsack
-538,,Migliore Aula Studio,超高級讀書室,,최고급 스터디룸,Bestes Studierzimmer
+537,,Punzonatrice Migliore,超高級拳擊機,,최고급 펀치머신,Bester Boxsack
+538,,Aula Studio Migliore,超高級讀書室,,최고급 스터디룸,Bestes Studierzimmer
 539,,Tapis Roulant Migliore,超高級跑步機,,최고급 런닝머신,Bestes Laufband
 601,,Cellulare del Figo,帥氣男子的手機,,훈남의 핸드폰,Handy von heißem Kerl
 602,,Tessera Associazione Pugilato,拳擊協會人員的名片,,복싱협회 사람의 명함,Karte vom Boxverband
 603,,Piccolo Ingranaggio,小小的齒輪,,작은 톱니바퀴,Kleines Zahnrad
 604,,Osso di Ogremon,奧加獸的骨頭,,우가몬의 뼈,Ogremons Knochen
 605,,I Noodles di Growlmon,古拉獸的手作拉麵,,그라우몬의 수제 라면,Growlmons Nudeln
-606,,Disegno dei mostri,鉛筆繪製的妖怪畫像,,연필로 그림 괴물 그림,Monsterzeichnung
+606,,Disegno dei Mostri,鉛筆繪製的妖怪畫像,,연필로 그림 괴물 그림,Monsterzeichnung
 607,,Coperta Calda,溫暖的毛毯,,따뜻한 담요,Warme Decke
 608,,Carillon Antico,老舊的音樂盒,,낡은 오르골,Alte Spieluhr
-609,,Tokkaido Sport Quotidiano,日刊東海道體育,,일간 도카이도 스포츠,Täglicher Tokkaido-Sport
+609,,Quotidiano Tokkaido Sport,日刊東海道體育,,일간 도카이도 스포츠,Täglicher Tokkaido-Sport
 610,,Erba Misteriosa,神祕藥草,,수수께끼의 약초,Geheimnisvolles Kraut
 611,,Le Ali di Lucemon,光明獸的羽毛,,루체몬의 날개,Lucemons Flügel
-612,,PlatinumSukamon di chi?,白金大便獸的「那個」,,화이트스카몬의 그것,PlatinumSukamons ?
-613,,Medicina antivirale,病毒種專用的藥,,바이러스종 전용약,Virus-Medizin
-614,,Medicina dati,資料種專用的藥,,데이터종 전용약,Datei-Medizin
-615,,Medicina Vaccine,疫苗種專用的藥,,백신종 전용약,Impfstoff-Medizin
-616,,Medicina gratuita,自由種專用的藥,,프리종 전용약,Neutrale Medizin
+612,,PlatinumSukamon?,白金大便獸的「那個」,,화이트스카몬의 그것,PlatinumSukamons ?
+613,,Medicina Virus,病毒種專用的藥,,바이러스종 전용약,Virus-Medizin
+614,,Medicina Dati,資料種專用的藥,,데이터종 전용약,Datei-Medizin
+615,,Medicina Vaccino,疫苗種專用的藥,,백신종 전용약,Impfstoff-Medizin
+616,,Medicina Libero,自由種專用的藥,,프리종 전용약,Neutrale Medizin
 617,,Medaglia di prova di Datamon,分子獸開發的新藥,,데이터몬이 개발한 신약,Datamon-Versuchsmedizin
-618,,Carta timbro,集章卡,,스탬프 카드,Stempelkarte
+618,,Carta Timbro,集章卡,,스탬프 카드,Stempelkarte
 619,,CD misterioso,○○的CD,,○○의 CD,Geheimnisvolle CD
 620,,Il guscio di Syakomon,蝦蛄獸的貝殼,,샤코몬의 껍질,Syakomons Panzer
 621,,Diario di WarGreymon,戰鬥暴龍獸的日記,,워그레이몬의 일기,WarGreymons Tagebuch
@@ -302,7 +302,7 @@ ID,Japanese,English,Chinese,EnglishCensored,Korean,German
 648,,Oggetto Chiave 48,貴重品48,,소중한 것 48,Schlüsselitem 48
 649,,Oggetto Chiave 49,貴重品49,,소중한 것 49,Schlüsselitem 49
 650,,Oggetto Chiave 50,貴重品50,,소중한 것 50,Schlüsselitem 50
-651,,Seleziona Chicchi di Caffè,嚴選咖啡豆,,특선 커피콩,Ausgewählte Kaffeebohnen
+651,,Chicchi di Caffè Selezionati,嚴選咖啡豆,,특선 커피콩,Ausgewählte Kaffeebohnen
 652,,Maschera Zaxon,Zaxon的面具,,잭슨 가면,Zaxon-Maske
 653,,Volontà Armoniosa,和諧的意志,,조화의 의사,Harmonischer Wille
 654,,Volontà d'Acciaio,鋼鐵的意志,,강철의 의사,Stahlwille
@@ -354,7 +354,7 @@ ID,Japanese,English,Chinese,EnglishCensored,Korean,German
 700,,Parte Avatar,化身用的零件,,아바타 파츠,Avatarteil
 701,,Plug-in di Espansione Fattoria,島嶼擴張外掛,,팜 확장 플러그인,Farmerweiterungs-Plugin
 702,,Unità di Espansione Banca,銀行擴張驅動程式,,뱅크 확장 드라이브,Bankerweiterungs-Laufwerk
-703,,Kit di sviluppo fattoria,農場島開發套件,,팜 개발 키트,Farmentwicklungs-Kit
+703,,Kit di Sviluppo fattoria,農場島開發套件,,팜 개발 키트,Farmentwicklungs-Kit
 801,,Abito da Cyber Detective,電腦偵探私人服裝,,전뇌 탐정의 사복,Cyber-Detektiv-Klei. 
 802,,Cappotto Hudie,hudie的外套,,후디에 코트,Hudie-Jacke
 803,,Uniforme Scolastica Inoden,井之電學生制服,,이노덴 교복,Inoden-Schulkleidung
@@ -362,25 +362,25 @@ ID,Japanese,English,Chinese,EnglishCensored,Korean,German
 805,,T-Shirt Hudie (Blu),hudieT-Shirt（藍）,,후디에 티셔츠(청),Hudie-T-Shirt (blau)
 806,,T-Shirt Cyber Sleuth (M),網路偵探T-Shirt（男）,,전뇌탐정 티셔츠(남),Cyber-Detektiv-Shirt (M)
 807,,T-Shirt Cyber Sleuth (F),網路偵探T-Shirt（女）,,전뇌탐정 티셔츠(녀),Cyber-Detektiv-Shirt (W)
-808,,T-Shirt Nokia,諾奇雅T-Shirt,,노키아 티셔츠,Nokia-T-Shirt
-809,,T-Shirt Jimiken,吉米肯T-Shirt,,지미켄 티셔츠,Jimiken-T-Shirt
-810,,Maglietta del Net Cafè,網路咖啡廳T-Shirt,,인터넷 카페 티셔츠,Internetcafé-T-Shirt
+808,,T-Shirt di Nokia,諾奇雅T-Shirt,,노키아 티셔츠,Nokia-T-Shirt
+809,,T-Shirt di Jimiken,吉米肯T-Shirt,,지미켄 티셔츠,Jimiken-T-Shirt
+810,,T-Shirt del Net Cafè,網路咖啡廳T-Shirt,,인터넷 카페 티셔츠,Internetcafé-T-Shirt
 811,,T-Shirt di Agumon,亞古獸T-Shirt,,아구몬 티셔츠,Agumon-T-Shirt
-812,,Maglietta di Gabumon,加布獸T-Shirt,,파피몬 티셔츠,Gabumon-T-Shirt
-813,,T-Shirt Gomamon,哥瑪獸T-Shirt,,쉬라몬 티셔츠,Gomamon-T-Shirt
+812,,T-Shirt di Gabumon,加布獸T-Shirt,,파피몬 티셔츠,Gabumon-T-Shirt
+813,,T-Shirt di Gomamon,哥瑪獸T-Shirt,,쉬라몬 티셔츠,Gomamon-T-Shirt
 814,,T-Shirt di Gatomon,迪路獸T-Shirt,,가트몬 티셔츠,Gatomon-T-Shirt
-815,,Maglietta di Tentomon,甲蟲獸T-Shirt,,텐토몬 티셔츠,Tentomon-T-Shirt
-816,,Maglietta di Patamon,巴達獸T-Shirt,,파닥몬 티셔츠,Patamon-T-Shirt
+815,,T-Shirt di Tentomon,甲蟲獸T-Shirt,,텐토몬 티셔츠,Tentomon-T-Shirt
+816,,T-Shirt di Patamon,巴達獸T-Shirt,,파닥몬 티셔츠,Patamon-T-Shirt
 817,,T-Shirt di Palmon,巴魯獸T-Shirt,,팔몬 티셔츠,Palmon-T-Shirt
-818,,Maglietta Biyomon,比丘獸T-Shirt,,피요몬 티셔츠,Biyomon-T-Shirt
+818,,T-Shirt di Biyomon,比丘獸T-Shirt,,피요몬 티셔츠,Biyomon-T-Shirt
 819,,Maglietta Tribale (Bianca),部落T-Shirt（純白）,,트라이벌 티셔츠(순백),Tribal-Shirt (weiß)
 820,,Maglietta Tribale (Nera),部落T-Shirt（漆黑）,,트라이벌 티셔츠(칠흑),Tribal-Shirt (schw.)
 821,,Maglietta Abilità Gemelle,雙重骷髏T-Shirt,,트윈 스컬 티셔츠,Doppelschädel-Shirt
 822,,Maglietta Teschio Perduto,失落骷髏T-Shirt,,로스트 스컬 티셔츠,Verlorener-Schädel-Shirt
-823,,T-Shirt Teschio Incorniciato,火焰骷髏T-Shirt,,프레임 스컬 티셔츠,Gerahmter-Schädel-Shirt
-824,,Maglietta Vita da Gioco,遊戲人生T-Shirt,,게임 라이프 티셔츠,Gamer-Life-Shirt
-825,,Maglietta vivace,舒爽T-Shirt,,둥실둥실 티셔츠,Lebhaftes T-Shirt
-826,,Maglietta Kowloon,KowloonT-Shirt,,쿠롱 티셔츠,Kowloon-T-Shirt
+823,,Maglietta Teschio Incorniciato,火焰骷髏T-Shirt,,프레임 스컬 티셔츠,Gerahmter-Schädel-Shirt
+824,,Maglietta Vita da Gamer,遊戲人生T-Shirt,,게임 라이프 티셔츠,Gamer-Life-Shirt
+825,,T-Shirt Vivace,舒爽T-Shirt,,둥실둥실 티셔츠,Lebhaftes T-Shirt
+826,,T-Shirt Kowloon,KowloonT-Shirt,,쿠롱 티셔츠,Kowloon-T-Shirt
 827,,T-Shirt U. Kowloon,Under KowloonT-Shirt,,언더 쿠롱 티셔츠,U.-Kowloon-T-Shirt
 828,,Maglietta da basket,籃球T-Shirt,,농구 티셔츠,Basketballtrikot
 829,,Maglietta da calcio,美式足球T-Shirt,,미식 축구 티셔츠,Fußballtrikot
@@ -388,250 +388,250 @@ ID,Japanese,English,Chinese,EnglishCensored,Korean,German
 831,,Maglietta Giappone (Animali),日式T-Shirt（鯉魚與龍）,,일본 느낌 티셔츠(잉어와 용),Japan-Shirt (Tiere)
 832,,T-Shirt Zaxon,ZaxonT-Shirt,,잭슨 티셔츠,Zaxon-T-Shirt
 833,,T-Shirt Demoni,惡魔亂舞T-Shirt,,데몬즈 티셔츠,Demons-T-Shirt
-834,,Maglietta Steam D.,蒸氣T-Shirt,,스팀 티셔츠,Steam-D.-T-Shirt
-835,,T-Shirt nera S.,黑銀T-Shirt,,흑은 티셔츠,Black-S.-T-Shirt
-836,,Maglietta Akiba F.,格紋T-Shirt,,플란넬 티셔츠,Akiba-F.-T-Shirt
-837,,Maglietta M. Mascherato,假面T-Shirt,,마스크 메이드 티셔츠,Masked-M.-T-Shirt
-838,,Maglietta Nakano S.,條紋T-Shirt,,스트라이프 티셔츠,Nakano-S.-T-Shirt
+834,,T-Shirt Steam D.,蒸氣T-Shirt,,스팀 티셔츠,Steam-D.-T-Shirt
+835,,T-Shirt Nera S.,黑銀T-Shirt,,흑은 티셔츠,Black-S.-T-Shirt
+836,,T-Shirt Akiba F.,格紋T-Shirt,,플란넬 티셔츠,Akiba-F.-T-Shirt
+837,,T-Shirt M. Mascherato,假面T-Shirt,,마스크 메이드 티셔츠,Masked-M.-T-Shirt
+838,,T-Shirt Nakano S.,條紋T-Shirt,,스트라이프 티셔츠,Nakano-S.-T-Shirt
 839,,Costume V. Uchida,V內田制服,,V우치다 코스튬,V.-Uchida-Kostüm
-840,,Maglietta con Emblema di Beelzemon,墮天地獄獸紋章,,베르제브몬 엠블럼,T-Shirt „Beelzemon-Logo“
+840,,T-Shirt con Emblema di Beelzemon,墮天地獄獸紋章,,베르제브몬 엠블럼,T-Shirt „Beelzemon-Logo“
 841,,T-Shirt del 15°Anniversario,15週年T-Shirt,,15주년 기념 티셔츠,T-Shirt (15. Jubiläum)
 842,,T-Shirt 20°Anniversario,20週年T-Shirt,,20주년 기념 티셔츠,T-Shirt (20. Jubiläum)
 843,,T-Shirt del campo estivo,SUMMER CAMP,,SUMMER CAMP,T-Shirt „Summer Camp“
 844,,T-Shirt del Campo Estivo (p),SUMMER CAMP（P）,,SUMMER CAMP(P),T-Shirt „Summer Camp“ (P)
-845,,T-Shirt Lezione Estiva,夏日課程 T-Shirt,,서머 레슨 티셔츠,Summer-Lesson-Shirt
-901,,Memoria di Hudie #2,hudie的記憶②,,후디에의 기억②,Hudie-Erinnerung 2
-902,,Memoria di Hudie #3,hudie的記憶③,,후디에의 기억③,Hudie-Erinnerung 3
-903,,Memoria di Hudie #5,hudie的記憶⑤,,후디에의 기억⑤,Hudie-Erinnerung 5
-904,,Memoria di Hudie #1,hudie的記憶①,,후디에의 기억①,Hudie-Erinnerung 1
-905,,Memoria di Hudie #4,hudie的記憶④,,후디에의 기억④,Hudie-Erinnerung 4
-906,,Memoria di Ryuji #1,龍司的記憶①,,류지의 기억①,Ryujis Erinnerung 1
-907,,Ricordo di Ryuji #2,龍司的記憶②,,류지의 기억②,Ryujis Erinnerung 2
-908,,Memoria di Chitose,千歲的記憶,,치토세의 기억,Chitoses Erinnerung
-909,,Memoria di Yu #1,優的記憶①,,유우의 기억①,Yus Erinnerung 1
-910,,Yu Memory #2,優的記憶②,,유우의 기억②,Yus Erinnerung 2
-911,,Yu Memory #3,優的記憶③,,유우의 기억③,Yus Erinnerung 3
-912,,Memoria Jude,Jude的記憶,,쥬드의 기억,Gamma-Erinnerung
-913,,Memoria di Suedou,末堂的記憶,,스에도의 기억,Suedous Erinnerung
-914,,Memoria di Fei,菲的日記,,페이의 일기,Feis Erinnerung
-915,,Memoria di Yuuko,悠子的日記,,유코의 일기,Yuukos Erinnerung
-916,,Memoria da Detective,某位偵探助手的日記,,어떤 탐정 조수의 일기,Detektiv-Erinnerung
-917,,Memoria Ryota,良太的記憶,,료타의 기억,Ryotas Erinnerung
-918,,Memoria di Gallantmon,紅蓮騎士獸的記憶,,듀크몬의 기억,Gallantmons Erinner.
-919,,La memoria di qualcuno,某人的記憶,,누군가의 기억,Jemandes Erinnerung
+845,,Maglietta Lezione Estiva,夏日課程 T-Shirt,,서머 레슨 티셔츠,Summer-Lesson-Shirt
+901,,Ricordo di Hudie 2,hudie的記憶②,,후디에의 기억②,Hudie-Erinnerung 2
+902,,Ricordo di Hudie 3,hudie的記憶③,,후디에의 기억③,Hudie-Erinnerung 3
+903,,Ricordo di Hudie 5,hudie的記憶⑤,,후디에의 기억⑤,Hudie-Erinnerung 5
+904,,Ricordo di Hudie 1,hudie的記憶①,,후디에의 기억①,Hudie-Erinnerung 1
+905,,Ricordo di Hudie 4,hudie的記憶④,,후디에의 기억④,Hudie-Erinnerung 4
+906,,Ricordo di Ryuji 1,龍司的記憶①,,류지의 기억①,Ryujis Erinnerung 1
+907,,Ricordo di Ryuji 2,龍司的記憶②,,류지의 기억②,Ryujis Erinnerung 2
+908,,Ricordo di Chitose,千歲的記憶,,치토세의 기억,Chitoses Erinnerung
+909,,Ricordo di Yus 1,優的記憶①,,유우의 기억①,Yus Erinnerung 1
+910,,Ricordo di Yus 2,優的記憶②,,유우의 기억②,Yus Erinnerung 2
+911,,Ricordo di Yus 3,優的記憶③,,유우의 기억③,Yus Erinnerung 3
+912,,Ricordo di Jude,Jude的記憶,,쥬드의 기억,Gamma-Erinnerung
+913,,Ricordo di Suedou,末堂的記憶,,스에도의 기억,Suedous Erinnerung
+914,,Ricordo di Fei,菲的日記,,페이의 일기,Feis Erinnerung
+915,,Ricordo di Yuuko,悠子的日記,,유코의 일기,Yuukos Erinnerung
+916,,Ricordo da Detective,某位偵探助手的日記,,어떤 탐정 조수의 일기,Detektiv-Erinnerung
+917,,Ricordo di Ryota,良太的記憶,,료타의 기억,Ryotas Erinnerung
+918,,Ricordo di Gallantmon,紅蓮騎士獸的記憶,,듀크몬의 기억,Gallantmons Erinner.
+919,,Il Ricordo di qualcuno,某人的記憶,,누군가의 기억,Jemandes Erinnerung
 920,,E. Humming Bird Full,霎那蜂鳥full,,애달픈 허밍 버드full,K. Kolibri (ganz)
-921,,Ricordo Hacker Felice #1,幸福駭客的紀錄①,,행복한 해커의 기록①,Hacker-Erinnerung 1
-922,,Ricordo Hacker Felice #2,幸福駭客的紀錄②,,행복한 해커의 기록②,Hacker-Erinnerung 2
-923,,Ricordo dell'Hacker Felice #3,幸福駭客的紀錄③,,행복한 해커의 기록③,Hacker-Erinnerung 3
-924,,Ricordo Hacker Felice #4,幸福駭客的紀錄④,,행복한 해커의 기록④,Hacker-Erinnerung 4
-925,,Ricordo Felice da Hacker #5,幸福駭客的紀錄⑤,,행복한 해커의 기록⑤,Hacker-Erinnerung 5
-926,,Ricordo di Hacker Felice #6,幸福駭客的紀錄⑥,,행복한 해커의 기록⑥,Hacker-Erinnerung 6
-927,,Ricordo Hacker Felice #7,幸福駭客的紀錄⑦,,행복한 해커의 기록⑦,Hacker-Erinnerung 7
-928,,Ricordo dell'Happy Hacker n. 8,幸福駭客的紀錄⑧,,행복한 해커의 기록⑧,Hacker-Erinnerung 8
-929,,Ricordo Hacker Felice #9,幸福駭客的紀錄⑨,,행복한 해커의 기록⑨,Hacker-Erinnerung 9
-930,,[p] Ricordo n. 1, [p]的回憶錄①,,[p]의 회상록①,[p]: Notizen 1
-931,,[p] Ricordo n. 2, [p]的回憶錄②,,[p]의 회상록②,[p]: Notizen 2
-932,,[p] Ricordo #3, [p]的回憶錄③,,[p]의 회상록③,[p]: Notizen 3
-933,,[p] Memoria n. 4, [p]的回憶錄④,,[p]의 회상록④,[p]: Notizen 4
-934,,[p] Memoria n. 5, [p]的回憶錄⑤,,[p]의 회상록⑤,[p]: Notizen 5
-935,,[p] Memoria #6, [p]的回憶錄⑥,,[p]의 회상록⑥,[p]: Notizen 6
-936,,[p] Memoria #7, [p]的回憶錄⑦,,[p]의 회상록⑦,[p]: Notizen 7
+921,,Ricordo Hacker Felice 1,幸福駭客的紀錄①,,행복한 해커의 기록①,Hacker-Erinnerung 1
+922,,Ricordo Hacker Felice 2,幸福駭客的紀錄②,,행복한 해커의 기록②,Hacker-Erinnerung 2
+923,,Ricordo Hacker Felice 3,幸福駭客的紀錄③,,행복한 해커의 기록③,Hacker-Erinnerung 3
+924,,Ricordo Hacker Felice 4,幸福駭客的紀錄④,,행복한 해커의 기록④,Hacker-Erinnerung 4
+925,,Ricordo Hacker Felice 5,幸福駭客的紀錄⑤,,행복한 해커의 기록⑤,Hacker-Erinnerung 5
+926,,Ricordo Hacker Felice 6,幸福駭客的紀錄⑥,,행복한 해커의 기록⑥,Hacker-Erinnerung 6
+927,,Ricordo Hacker Felice 7,幸福駭客的紀錄⑦,,행복한 해커의 기록⑦,Hacker-Erinnerung 7
+928,,Ricordo Hacker Felice 8,幸福駭客的紀錄⑧,,행복한 해커의 기록⑧,Hacker-Erinnerung 8
+929,,Ricordo Hacker Felice 9,幸福駭客的紀錄⑨,,행복한 해커의 기록⑨,Hacker-Erinnerung 9
+930,,[p] Appunti 1, [p]的回憶錄①,,[p]의 회상록①,[p]: Notizen 1
+931,,[p] Appunti 2, [p]的回憶錄②,,[p]의 회상록②,[p]: Notizen 2
+932,,[p] Appunti 3, [p]的回憶錄③,,[p]의 회상록③,[p]: Notizen 3
+933,,[p] Appunti 4, [p]的回憶錄④,,[p]의 회상록④,[p]: Notizen 4
+934,,[p] Appunti 5, [p]的回憶錄⑤,,[p]의 회상록⑤,[p]: Notizen 5
+935,,[p] Appunti 6, [p]的回憶錄⑥,,[p]의 회상록⑥,[p]: Notizen 6
+936,,[p] Appunti 7, [p]的回憶錄⑦,,[p]의 회상록⑦,[p]: Notizen 7
 1001,,Medaglia Armageddemon,滅世魔獸獎牌,,아마게몬 메달,Armageddemon-Med.
-1002,,Medaglia di Icemon,冰石獸獎牌,,아이스몬 메달,Icemon-Medaille
+1002,,Medaglia Icemon,冰石獸獎牌,,아이스몬 메달,Icemon-Medaille
 1003,,Medaglia Aquilamon,亞古拉獸獎牌,,아큐라몬 메달,Aquilamon-Medaille
-1004,,Medaglia di Agunimon,火神獸獎牌,,아그니몬 메달,Agunimon-Medaille
-1005,,Medaglia di Agumon,亞古獸獎牌,,아구몬 메달,Agumon-Medaille
-1006,,Medaglia di Agumon (Nero),亞古獸(黑)獎牌,,아구몬(흑) 메달,Agumon-(schw.)-Med.
+1004,,Medaglia Agunimon,火神獸獎牌,,아그니몬 메달,Agunimon-Medaille
+1005,,Medaglia Agumon,亞古獸獎牌,,아구몬 메달,Agumon-Medaille
+1006,,Medaglia Agumon (Nero),亞古獸(黑)獎牌,,아구몬(흑) 메달,Agumon-(schw.)-Med.
 1007,,Medaglia Esperto Agumon,亞古獸博士獎牌,,아구몬 박사 메달,Agumon-Experte-Med.
-1008,,Medaglia di Asuramon,阿修羅獸獎牌,,아수라몬 메달,Asuramon-Medaille
-1009,,Medaglia di Astamon,阿斯塔獸獎牌,,아스타몬 메달,Astamon-Medaille
-1010,,Una Medaglia Kabuterimon,超比多獸獎牌,,A캅테리몬 메달,MegaKabuterimon-Med.
+1008,,Medaglia Asuramon,阿修羅獸獎牌,,아수라몬 메달,Asuramon-Medaille
+1009,,Medaglia Astamon,阿斯塔獸獎牌,,아스타몬 메달,Astamon-Medaille
+1010,,Medaglia Kabuterimon,超比多獸獎牌,,A캅테리몬 메달,MegaKabuterimon-Med.
 1011,,Medaglia Anubimon,阿努比斯獸獎牌,,아누비스몬 메달,Anubimon-Medaille
 1012,,Medaglia Scorpiomon,亞路加獸獎牌,,스콜피오몬 메달,Scorpiomon-Medaille
-1013,,Medaglia di Apocalymon,啟示錄獸獎牌,,아포카리몬 메달,Apocalymon-Medaille
-1014,,Medaglia di Apollomon,阿波羅獸獎牌,,아폴로몬 메달,Apollomon-Medaille
+1013,,Medaglia Apocalymon,啟示錄獸獎牌,,아포카리몬 메달,Apocalymon-Medaille
+1014,,Medaglia Apollomon,阿波羅獸獎牌,,아폴로몬 메달,Apollomon-Medaille
 1015,,Medaglia Arcadiamon,阿卡迪獸獎牌,,알카디몬 메달,Arkadimon-Medaille
 1016,,Medaglia Arukenimon,亞基利獸獎牌,,아라크네몬 메달,Arukenimon-Medaille
 1017,,Medaglia Mega Gargomon,亞爾哥獸究極體獎牌,,아르고몬 궁극체 메달,MegaGargomon-Med.
 1018,,Medaglia Aldamon,火龍獸獎牌,,아르다몬 메달,Aldamon-Medaille
-1019,,Medaglia di Alphamon,阿爾法獸獎牌,,알파몬 메달,Alphamon-Medaille
+1019,,Medaglia Alphamon,阿爾法獸獎牌,,알파몬 메달,Alphamon-Medaille
 1020,,Medaglia UF Veedramon,究極V龍獸獎牌,,UF브이드라몬 메달,UF-Veedramon-Med.
 1021,,Medaglia UF Veedramon X,究極V龍獸X抗體獎牌,,UF브이드라몬X 메달,UF-Veedramon-X-Med.
-1022,,Medaglia di Arbormon,聖樹獸獎牌,,알볼몬 메달,Arbormon-Medaille
-1023,,Medaglia di Armadillomon,穿山獸獎牌,,아르마몬 메달,Armadillomon-Med.
-1024,,Medaglia di Ankylomon,戰甲獸獎牌,,황금아르마몬 메달,Ankylomon-Medaille
+1022,,Medaglia Arbormon,聖樹獸獎牌,,알볼몬 메달,Arbormon-Medaille
+1023,,Medaglia Armadillomon,穿山獸獎牌,,아르마몬 메달,Armadillomon-Med.
+1024,,Medaglia Ankylomon,戰甲獸獎牌,,황금아르마몬 메달,Ankylomon-Medaille
 1025,,Medaglia Antylamon,玉兔獸獎牌,,안티라몬 메달,Antylamon-Medaille
 1026,,Medaglia Andromon,安杜路獸獎牌,,안드로몬 메달,Andromon-Medaille
 1027,,Medaglia Ebemon,外星獸獎牌,,이바몬 메달,Ebemon-Medaille
-1028,,Medaglia di Ninjamon,伊賀獸獎牌,,닌자몬 메달,Ninjamon-Medaille
-1029,,Medaglia di King Drasil_7D6,世界樹_7D6獎牌,,위그드라실7D6 메달,König Drasil_7D6-Med.
-1030,,Medaglia di Ikkakumon,海獅獸獎牌,,원뿔몬 메달,Ikkakumon-Medaille
+1028,,Medaglia Ninjamon,伊賀獸獎牌,,닌자몬 메달,Ninjamon-Medaille
+1029,,Medaglia King Drasil_7D6,世界樹_7D6獎牌,,위그드라실7D6 메달,König Drasil_7D6-Med.
+1030,,Medaglia Ikkakumon,海獅獸獎牌,,원뿔몬 메달,Ikkakumon-Medaille
 1031,,Medaglia Vilemon,邪魔獸獎牌,,이블몬 메달,Vilemon-Medaille
 1032,,Medaglia Meteormon,隕石獸獎牌,,운석몬 메달,Meteormon-Medaille
 1033,,Medaglia Indramon,戰馬獸獎牌,,인다라몬 메달,Indramon-Medaille
 1034,,Medaglia Infermon,地獄使者獸獎牌,,인펠몬 메달,Infermon-Medaille
-1035,,Medaglia di Impmon,小妖獸獎牌,,임프몬 메달,Impmon-Medaille
+1035,,Medaglia Impmon,小妖獸獎牌,,임프몬 메달,Impmon-Medaille
 1036,,Medaglia DM Dramon IP,帝皇龍甲獸DM獎牌,,IP드라몬DM 메달,IP-Dramon-DM-Medaille
 1037,,Medaglia Dramon IP PM,帝皇龍甲獸PM獎牌,,IP드라몬PM 메달,IP-Dramon-PM-Medaille
-1038,,Medaglia FM di IP Dramon,帝皇龍甲獸FM獎牌,,IP드라몬FM 메달,IP-Dramon-FM-Medaille
+1038,,Medaglia FM IP Dramon,帝皇龍甲獸FM獎牌,,IP드라몬FM 메달,IP-Dramon-FM-Medaille
 1039,,Medaglia Vikemon,維京毛人獸獎牌,,바이킹몬 메달,Vikemon-Medaille
 1040,,Medaglia Vajramon,蠻牛獸獎牌,,바지라몬 메달,Vajramon-Medaille
-1041,,Medaglia di Valkyrimon,女戰神獸獎牌,,발키리몬 메달,Valkyrimon-Medaille
+1041,,Medaglia Valkyrimon,女戰神獸獎牌,,발키리몬 메달,Valkyrimon-Medaille
 1042,,Medaglia Myotismon,吸血魔獸獎牌,,묘티스몬 메달,Myotismon-Medaille
 1043,,Medaglia Vikaralamon,野豬獸獎牌,,비가라몬 메달,Vikaralamon-Medaille
 1044,,Medaglia Wizardmon,巫師獸獎牌,,위자몬 메달,Wizardmon-Medaille
 1045,,Medaglia Witchmon,女巫獸獎牌,,위치몬 메달,Witchmon-Medaille
-1046,,Medaglia di Venusmon,維納斯獸獎牌,,베누스몬 메달,Venusmon-Medaille
-1047,,Medaglia di Myotismon V,究極吸血魔獸獎牌,,V묘티스몬 메달,VenomMyotismon-Med.
+1046,,Medaglia Venusmon,維納斯獸獎牌,,베누스몬 메달,Venusmon-Medaille
+1047,,Medaglia Myotismon V,究極吸血魔獸獎牌,,V묘티스몬 메달,VenomMyotismon-Med.
 1048,,Medaglia Wendigomon,雲迪獸獎牌,,웬디몬 메달,Endigomon-Medaille
 1049,,Medaglia WarGreymon,戰鬥暴龍獸獎牌,,워그레이몬 메달,WarGreymon-Medaille
 1050,,Medaglia WarGreymon X,戰鬥暴龍獸X抗體獎牌,,워그레이몬X 메달,WarGreymon-X-Med.
-1051,,Medaglia di Lobomon,野狼獸獎牌,,볼프몬 메달,Lobomon-Medaille
-1052,,Medaglia di Woodmon,朽木獸獎牌,,우드몬 메달,Woodmon-Medaille
+1051,,Medaglia Lobomon,野狼獸獎牌,,볼프몬 메달,Lobomon-Medaille
+1052,,Medaglia  Woodmon,朽木獸獎牌,,우드몬 메달,Woodmon-Medaille
 1053,,Medaglia Upamon,奧柏獸獎牌,,우파몬 메달,Upamon-Medaille
 1054,,Medaglia BurningGreymon,炎龍獸獎牌,,브리트라몬 메달,BurningGreymon-Med.
-1055,,Medaglia di Vulcanusmon,伏爾坎獸獎牌,,불카누스몬 메달,Vulcanusmon-Medaille
+1055,,Medaglia Vulcanusmon,伏爾坎獸獎牌,,불카누스몬 메달,Vulcanusmon-Medaille
 1056,,Medaglia Airdramon,飛龍獸獎牌,,에어드라몬 메달,Airdramon-Medaille
 1057,,Medaglia AeroVeedramon,飛行V龍獸獎牌,,에어로브이드라몬 메달,AeroVeedramon-Med.
 1058,,Medaglia Examon,艾克薩獸獎牌,,엑자몬 메달,Examon-Medaille
-1059,,Medaglia di ExTyrannomon,巨龍獸EX獎牌,,엑스티라노몬 메달,ExTyrannomon-Med.
-1060,,Medaglia di ExVeemon,V仔獸EX獎牌,,엑스브이몬 메달,ExVeemon-Medaille
-1061,,Medaglia di Etemon,悟空獸獎牌,,에테몬 메달,Etemon-Medaille
+1059,,Medaglia ExTyrannomon,巨龍獸EX獎牌,,엑스티라노몬 메달,ExTyrannomon-Med.
+1060,,Medaglia ExVeemon,V仔獸EX獎牌,,엑스브이몬 메달,ExVeemon-Medaille
+1061,,Medaglia Etemon,悟空獸獎牌,,에테몬 메달,Etemon-Medaille
 1062,,Medaglia Ebidramon,龍蝦獸獎牌,,가재드라몬 메달,Ebidramon-Medaille
-1063,,Medaglia di EbiBurgamon,鮮蝦漢堡獸獎牌,,에비버거몬 메달,EbiBurgamon-Med.
-1064,,Medaglia di Eldradimon,黃金鄉獸獎牌,,엘도라디몬 메달,Eldoradimon-Medaille
+1063,,Medaglia EbiBurgamon,鮮蝦漢堡獸獎牌,,에비버거몬 메달,EbiBurgamon-Med.
+1064,,Medaglia Eldradimon,黃金鄉獸獎牌,,엘도라디몬 메달,Eldoradimon-Medaille
 1065,,Medaglia Elecmon,艾力獸獎牌,,에렉몬 메달,Elecmon-Medaille
-1066,,Medaglia di Angewomon,天女獸獎牌,,엔젤우몬 메달,Angewomon-Medaille
-1067,,Medaglia di Angemon,天使獸獎牌,,엔젤몬 메달,Angemon-Medaille
+1066,,Medaglia Angewomon,天女獸獎牌,,엔젤우몬 메달,Angewomon-Medaille
+1067,,Medaglia Angemon,天使獸獎牌,,엔젤몬 메달,Angemon-Medaille
 1068,,Medaglia A-Kazemon,彩虹獸獎牌,,A이리스몬 메달,A-Kazemon-Medaille
-1069,,Una Medaglia Garurumon,古代加魯魯獸獎牌,,A가루몬 메달,A-Garurumon-Medaille
-1070,,Una medaglia Greymon,古代暴龍獸獎牌,,A그레이몬 메달,A-Greymon-Medaille
-1071,,Una Medaglia di Tankmon,古代斯芬克斯獸獎牌,,A스핑크스몬 메달,A-Spinxmon-Medaille
+1069,,Medaglia Garurumon,古代加魯魯獸獎牌,,A가루몬 메달,A-Garurumon-Medaille
+1070,,Medaglia Greymon,古代暴龍獸獎牌,,A그레이몬 메달,A-Greymon-Medaille
+1071,,Medaglia Tankmon,古代斯芬克斯獸獎牌,,A스핑크스몬 메달,A-Spinxmon-Medaille
 1072,,Medaglia A-Troymon,古代木馬獸獎牌,,A트로이아몬 메달,A-Troymon-Medaille
 1073,,Medaglia A-Beetlemon,古代甲蟲獸獎牌,,A비트몬 메달,A-Beetlemon-Medaille
-1074,,Una medaglia Volcanomon,古代火山獸獎牌,,A볼케몬 메달,A-Volcanomon-Med.
-1075,,Una Medaglia Mermaimon,古代人魚獸獎牌,,A머메이몬 메달,A-Mermaidmon-Medaille
+1074,,Medaglia Volcanomon,古代火山獸獎牌,,A볼케몬 메달,A-Volcanomon-Med.
+1075,,Medaglia Mermaimon,古代人魚獸獎牌,,A머메이몬 메달,A-Mermaidmon-Medaille
 1076,,A-MegatheriummonMedl,古代大懶獸獎牌,,A메가테리우몬 메달,A-Megatheriummon-Md.
-1077,,Una Medaglia di Wisemon,古代賢者獸獎牌,,A와이즈몬 메달,A-Wisemon-Medaille
+1077,,Medaglia Wisemon,古代賢者獸獎牌,,A와이즈몬 메달,A-Wisemon-Medaille
 1078,,Medaglia Ouryumon,王龍獸獎牌,,오류우몬 메달,Owryumon-Medaille
-1079,,Medaglia di Ogremon,奧加獸獎牌,,우가몬 메달,Ogremon-Medaille
-1080,,Medaglia di Okuwamon,大古加獸獎牌,,왕쿠가몬 메달,Okuwamon-Medaille
+1079,,Medaglia Ogremon,奧加獸獎牌,,우가몬 메달,Ogremon-Medaille
+1080,,Medaglia Okuwamon,大古加獸獎牌,,왕쿠가몬 메달,Okuwamon-Medaille
 1081,,Medaglia Octomon,八爪魚獸獎牌,,옥토몬 메달,Octomon-Medaille
-1082,,Medaglia di Ogudomon,奧古杜獸獎牌,,오그도몬 메달,Ogudomon-Medaille
+1082,,Medaglia Ogudomon,奧古杜獸獎牌,,오그도몬 메달,Ogudomon-Medaille
 1083,,Medaglia Otamamon,蝌蚪獸獎牌,,올챙몬 메달,Otamamon-Medaille
-1084,,Medaglia di Ornismon,奧尼斯獸獎牌,,오니스몬 메달,Ornithmon-Medaille
-1085,,Medaglia di Ophanimon,神聖天女獸獎牌,,오파니몬 메달,Ophanimon-Medaille
+1084,,Medaglia Ornismon,奧尼斯獸獎牌,,오니스몬 메달,Ornithmon-Medaille
+1085,,Medaglia Ophanimon,神聖天女獸獎牌,,오파니몬 메달,Ophanimon-Medaille
 1086,,Medaglia Omekamon,奧米卡獸獎牌,,오메카몬 메달,Omekamon-Medaille
-1087,,Medaglia di Omnimon,奧米加獸獎牌,,오메가몬 메달,Omnimon-Medaille
+1087,,Medaglia Omnimon,奧米加獸獎牌,,오메가몬 메달,Omnimon-Medaille
 1088,,Medaglia Omnimon Zwart,黑奧米加獸獎牌,,오메가몬 즈왈트 메달,Omnimon-Zwart-Med.
-1089,,Medaglia di Omnimon X,奧米加獸X抗體獎牌,,오메가몬X 메달,Omnimon-X-Medaille
-1090,,Medaglia di Guardromon,守衛獸獎牌,,가드로몬 메달,Guardromon-Medaille
-1091,,Medaglia di Garbagemon,垃圾桶獸獎牌,,가비지몬 메달,Garbagemon-Medaille
-1092,,Medaglia di Gaiomon,凱王獸獎牌,,가이오몬 메달,Gaiomon-Medaille
-1093,,Medaglia di Justimon,凱撒獅子獸獎牌,,카이저레오몬 메달,Justimon-Medaille
-1094,,Medaglia di KaiserGreymon,凱撒暴龍獸獎牌,,카이젤그레이몬 메달,KaiserGreymon-Med.
+1089,,Medaglia Omnimon X,奧米加獸X抗體獎牌,,오메가몬X 메달,Omnimon-X-Medaille
+1090,,Medaglia Guardromon,守衛獸獎牌,,가드로몬 메달,Guardromon-Medaille
+1091,,Medaglia Garbagemon,垃圾桶獸獎牌,,가비지몬 메달,Garbagemon-Medaille
+1092,,Medaglia Gaiomon,凱王獸獎牌,,가이오몬 메달,Gaiomon-Medaille
+1093,,Medaglia Justimon,凱撒獅子獸獎牌,,카이저레오몬 메달,Justimon-Medaille
+1094,,Medaglia KaiserGreymon,凱撒暴龍獸獎牌,,카이젤그레이몬 메달,KaiserGreymon-Med.
 1095,,Medaglia GaoGamon,迦奧迦獸獎牌,,가오가몬 메달,GaoGamon-Medaille
-1096,,Medaglia di ChaosGallantmon,混沌紅蓮騎士獸獎牌,,카오스듀크몬 메달,ChaosGallantmon-Med.
-1097,,Medaglia di Chaosdramon,混沌龍獸獎牌,,카오스드라몬 메달,Chaosdramon-Medaille
-1098,,Medaglia di Chaosmon,混沌獸獎牌,,카오스몬 메달,Chaosmon-Medaille
+1096,,Medaglia ChaosGallantmon,混沌紅蓮騎士獸獎牌,,카오스듀크몬 메달,ChaosGallantmon-Med.
+1097,,Medaglia Chaosdramon,混沌龍獸獎牌,,카오스드라몬 메달,Chaosdramon-Medaille
+1098,,Medaglia Chaosmon,混沌獸獎牌,,카오스몬 메달,Chaosmon-Medaille
 1099,,Medaglia Gaomon,迦奧獸獎牌,,가오몬 메달,Gaomon-Medaille
-1100,,Medaglia di Gazimon,加支獸獎牌,,가지몬 메달,Gazimon-Medaille
-1101,,Medaglia di Kabuterimon,比多獸獎牌,,캅테리몬 메달,Kabuterimon-Medaille
+1100,,Medaglia Gazimon,加支獸獎牌,,가지몬 메달,Gazimon-Medaille
+1101,,Medaglia  Kabuterimon,比多獸獎牌,,캅테리몬 메달,Kabuterimon-Medaille
 1102,,Medaglia Gabumon,加布獸獎牌,,파피몬 메달,Gabumon-Medaille
-1103,,Medaglia di Kapurimon,加利獸獎牌,,카프리몬 메달,Kapurimon-Medaille
-1104,,Medaglia di Kamemon,烏龜獸獎牌,,거북몬 메달,Kamemon-Medaille
+1103,,Medaglia  Kapurimon,加利獸獎牌,,카프리몬 메달,Kapurimon-Medaille
+1104,,Medaglia Kamemon,烏龜獸獎牌,,거북몬 메달,Kamemon-Medaille
 1105,,Medaglia ShellNumemon,貝殼鼻涕獸獎牌,,달팽이워매몬 메달,ShellNumemon-Med.
 1106,,Medaglia Karatenmon,烏鴉天狗獸獎牌,,크로우몬 메달,Karatenmon-Medaille
-1107,,Medaglia di Gargomon,加魯哥獸獎牌,,가르고몬 메달,Gargomon-Medaille
+1107,,Medaglia Gargomon,加魯哥獸獎牌,,가르고몬 메달,Gargomon-Medaille
 1108,,Medaglia Garudamon,伽樓達獸獎牌,,가루다몬 메달,Garudamon-Medaille
 1109,,Medaglia Calmaramon,卡瑪拉獸獎牌,,카르마라몬 메달,Calmaramon-Medaille
-1110,,Medaglia di KendoGarurumon,銀狼獸獎牌,,가름몬 메달,KendoGarurumon-Med.
-1111,,Medaglia di Garurumon,加魯魯獸獎牌,,가루몬 메달,Garurumon-Medaille
+1110,,Medaglia KendoGarurumon,銀狼獸獎牌,,가름몬 메달,KendoGarurumon-Med.
+1111,,Medaglia Garurumon,加魯魯獸獎牌,,가루몬 메달,Garurumon-Medaille
 1112,,Medaglia Gawappamon,河童獸獎牌,,가와파몬 메달,Gawappamon-Medaille
-1113,,Medaglia di Gankoomon,頑固獸獎牌,,간쿠몬 메달,Gankoomon-Medaille
+1113,,Medaglia Gankoomon,頑固獸獎牌,,간쿠몬 메달,Gankoomon-Medaille
 1114,,Medaglia Kiwimon,奇鳥獸獎牌,,키위몬 메달,Kiwimon-Medaille
-1115,,Medaglia di Gigasmon,巨岩獸獎牌,,기가스몬 메달,Gigasmon-Medaille
-1116,,Medaglia di Gigadramon,千兆龍獸獎牌,,기가드라몬 메달,Gigadramon-Medaille
-1117,,Medaglia di Gigimon,基基獸獎牌,,기기몬 메달,Gigimon-Medaille
+1115,,Medaglia Gigasmon,巨岩獸獎牌,,기가스몬 메달,Gigasmon-Medaille
+1116,,Medaglia Gigadramon,千兆龍獸獎牌,,기가드라몬 메달,Gigadramon-Medaille
+1117,,Medaglia Gigimon,基基獸獎牌,,기기몬 메달,Gigimon-Medaille
 1118,,Medaglia Gizamon,基剎獸獎牌,,기자몬 메달,Gizamon-Medaille
 1119,,Medaglia Kimeramon,基米拉獸獎牌,,키메라몬 메달,Kimeramon-Medaille
 1120,,Medaglia CatchMamemon,捕捉豆豆獸獎牌,,캐치콩알몬 메달,CatchMamemon-Med.
-1121,,Medaglia di CannonBeemon,炮蜂獸獎牌,,캐논벌몬 메달,CannonBeemon-Med.
+1121,,Medaglia CannonBeemon,炮蜂獸獎牌,,캐논벌몬 메달,CannonBeemon-Med.
 1122,,Medaglia Candlemon,蠟燭獸獎牌,,캔들몬 메달,Candlemon-Medaille
-1123,,Medaglia di Kyubimon,九尾狐獸獎牌,,구미호몬 메달,Kyubimon-Medaille
-1124,,Medaglia di Guilmon,基爾獸獎牌,,길몬 메달,Guilmon-Medaille
+1123,,Medaglia Kyubimon,九尾狐獸獎牌,,구미호몬 메달,Kyubimon-Medaille
+1124,,Medaglia Guilmon,基爾獸獎牌,,길몬 메달,Guilmon-Medaille
 1125,,Medaglia Giromon,砲彈獸獎牌,,폭탄몬 메달,Giromon-Medaille
-1126,,Medaglia di KingEtemon,大王悟空獸獎牌,,킹에테몬 메달,KingEtemon-Medaille
+1126,,Medaglia KingEtemon,大王悟空獸獎牌,,킹에테몬 메달,KingEtemon-Medaille
 1127,,Medaglia Quetzalmon,哥多路獸獎牌,,백사몬 메달,Quetzalmon-Medaille
-1128,,Medaglia di Kuzuhamon,葛葉獸獎牌,,쿠즈하몬 메달,Kuzuhamon-Medaille
+1128,,Medaglia Kuzuhamon,葛葉獸獎牌,,쿠즈하몬 메달,Kuzuhamon-Medaille
 1129,,Medaglia Kudamon,管狐獸獎牌,,쿠다몬 메달,Kudamon-Medaille
 1130,,Medaglia Kunemon,古尼獸獎牌,,쿠네몬 메달,Kunemon-Medaille
 1131,,Medaglia Gummymon,軟糖獸獎牌,,구미몬 메달,Gummymon-Medaille
-1132,,Medaglia di Growlmon,古拉獸獎牌,,그라우몬 메달,Growlmon-Medaille
+1132,,Medaglia Growlmon,古拉獸獎牌,,그라우몬 메달,Growlmon-Medaille
 1133,,Medaglia Grapleomon,格鬥獅子獸獎牌,,아이언레오몬 메달,GrapLeomon-Medaille
 1134,,Medaglia Gladimon,劍鬥士獸獎牌,,그라디몬 메달,Gladimon-Medaille
 1135,,Medaglia Kuramon,水母獸獎牌,,쿠라몬 메달,Kuramon-Medaille
-1136,,Medaglia di GranKuwagamon,究極古加獸獎牌,,그랜쿠가몬 메달,GranKuwagamon-Med.
-1137,,Medaglia di GranDracmon,大德古獸獎牌,,그랜드라크몬 메달,GranDracmon-Medaille
+1136,,Medaglia GranKuwagamon,究極古加獸獎牌,,그랜쿠가몬 메달,GranKuwagamon-Med.
+1137,,Medaglia GranDracmon,大德古獸獎牌,,그랜드라크몬 메달,GranDracmon-Medaille
 1138,,Medaglia GroundLocomon,超級火車獸獎牌,,그랜드로코몬 메달,GrandLocomon-Med.
 1139,,Medaglia Kurisarimon,魔蛹獸獎牌,,크리사리몬 메달,Kurisarimon-Medaille
-1140,,Medaglia di Gryphonmon,獅鳩獸獎牌,,그리폰몬 메달,Gryphonmon-Medaille
-1141,,Medaglia di Calumon,古樂獸獎牌,,동글몬 메달,Calumon-Medaille
-1142,,Medaglia di Grademon,黃金劍士獸獎牌,,그레이드몬 메달,Grademon-Medaille
-1143,,Medaglia di Greymon,暴龍獸獎牌,,그레이몬 메달,Greymon-Medaille
-1144,,Medaglia di Greymon (Blu),暴龍獸(藍)獎牌,,그레이몬(청) 메달,Greymon (Blau)-Med.
-1145,,Medaglia di Crescemon,新月獸獎牌,,크레세몬 메달,Crescemon-Medaille
+1140,,Medaglia Gryphonmon,獅鳩獸獎牌,,그리폰몬 메달,Gryphonmon-Medaille
+1141,,Medaglia Calumon,古樂獸獎牌,,동글몬 메달,Calumon-Medaille
+1142,,Medaglia Grademon,黃金劍士獸獎牌,,그레이드몬 메달,Grademon-Medaille
+1143,,Medaglia Greymon,暴龍獸獎牌,,그레이몬 메달,Greymon-Medaille
+1144,,Medaglia Greymon (Blu),暴龍獸(藍)獎牌,,그레이몬(청) 메달,Greymon (Blau)-Med.
+1145,,Medaglia Crescemon,新月獸獎牌,,크레세몬 메달,Crescemon-Medaille
 1146,,Medaglia Craniamon,顱骨獸獎牌,,크레니엄몬 메달,Craniamon-Medaille
 1147,,Medaglia Eaglemon,十字獸獎牌,,크로스몬 메달,Eaglemon-Medaille
 1148,,Medaglia Clockmon,時鐘獸獎牌,,타임몬 메달,Clockmon-Medaille
-1149,,Medaglia di Magnamon,古洛頓獸獎牌,,그로트몬 메달,Magnamon-Medaille
-1150,,Medaglia di Kuwagamon,古加獸獎牌,,쿠가몬 메달,Kuwagamon-Medaille
-1151,,Medaglia di Kumbhiramon,飛鼠獸獎牌,,굼비라몬 메달,Kumbhiramon-Medaille
+1149,,Medaglia Magnamon,古洛頓獸獎牌,,그로트몬 메달,Magnamon-Medaille
+1150,,Medaglia Kuwagamon,古加獸獎牌,,쿠가몬 메달,Kuwagamon-Medaille
+1151,,Medaglia Kumbhiramon,飛鼠獸獎牌,,굼비라몬 메달,Kumbhiramon-Medaille
 1152,,Medaglia Gekomon,怪蛙獸獎牌,,개굴몬 메달,Gekomon-Medaille
 1153,,Medaglia Gesomon,墨魚獸獎牌,,연체몬 메달,Gesomon-Medaille
 1154,,Medaglia Keramon,哈哈獸獎牌,,케라몬 메달,Keramon-Medaille
-1155,,Medaglia di Kerpymon (Nero),基路比獸(惡)獎牌,,켈비몬(악) 메달,Kerpymon (Schw.)-Med.
+1155,,Medaglia Kerpymon (Nero),基路比獸(惡)獎牌,,켈비몬(악) 메달,Kerpymon (Schw.)-Med.
 1156,,Medaglia Kerpymon (Buono),基路比獸(善)獎牌,,켈비몬(선) 메달,Kerpymon (Gut)-Medaille
-1157,,Medaglia di Ceresmon,刻瑞斯獸獎牌,,케레스몬 메달,Ceresmon-Medaille
+1157,,Medaglia Ceresmon,刻瑞斯獸獎牌,,케레스몬 메달,Ceresmon-Medaille
 1158,,Medaglia Centarumon,人馬獸獎牌,,켄터스몬 메달,Centarumon-Medaille
 1159,,Medaglia GoldNumemon,黃金鼻涕獸獎牌,,골드워매몬 메달,GoldNumemon-Medaille
-1160,,Medaglia di G Veedramon,黃金V龍獸獎牌,,G브이드라몬 메달,GoldVeedramon-Med.
+1160,,Medaglia G Veedramon,黃金V龍獸獎牌,,G브이드라몬 메달,GoldVeedramon-Med.
 1161,,Medaglia Golemon,岩石獸獎牌,,록몬 메달,Golemon-Medaille
 1162,,Medaglia Kokatorimon,巨雞獸獎牌,,꼬끼몬 메달,Kokatorimon-Medaille
 1163,,Medaglia Kokuwamon,小古加獸獎牌,,코구와몬 메달,Kokuwamon-Medaille
-1164,,Medaglia di Goldramon,神龍獸獎牌,,갓드라몬 메달,Goldramon-Medaille
+1164,,Medaglia Goldramon,神龍獸獎牌,,갓드라몬 메달,Goldramon-Medaille
 1165,,Medaglia Gotsumon,礦石獸獎牌,,울퉁몬 메달,Gotsumon-Medaille
 1166,,Medaglia Gotsumon X,礦石獸X抗體獎牌,,울퉁몬X 메달,Gotsumon-X-Medaille
-1167,,Medaglia di Kotemon,劍道獸獎牌,,코테몬 메달,Kotemon-Medaille
+1167,,Medaglia Kotemon,劍道獸獎牌,,코테몬 메달,Kotemon-Medaille
 1168,,Medaglia Goburimon,野人獸獎牌,,고부리몬 메달,Goblimon-Medaille
-1169,,Medaglia di Gomamon,哥瑪獸獎牌,,쉬라몬 메달,Gomamon-Medaille
-1170,,Medaglia di Gorillamon,金剛獸獎牌,,고릴라몬 메달,Gorillamon-Medaille
-1171,,Medaglia di Coronamon,日冕獸獎牌,,코로나몬 메달,Coronamon-Medaille
-1172,,Medaglia di Koromon,滾球獸獎牌,,코로몬 메달,Koromon-Medaille
+1169,,Medaglia Gomamon,哥瑪獸獎牌,,쉬라몬 메달,Gomamon-Medaille
+1170,,Medaglia Gorillamon,金剛獸獎牌,,고릴라몬 메달,Gorillamon-Medaille
+1171,,Medaglia Coronamon,日冕獸獎牌,,코로나몬 메달,Coronamon-Medaille
+1172,,Medaglia Koromon,滾球獸獎牌,,코로몬 메달,Koromon-Medaille
 1173,,Medaglia SaberLeomon,黃金劍獅獸獎牌,,샤벨레오몬 메달,SaberLeomon-Medaille
-1174,,Medaglia di Cyclonemon,獨眼龍獸獎牌,,사이크로몬 메달,Cyclonemon-Medaille
-1175,,Medaglia di Cyberdramon,電子龍獸獎牌,,사이버드라몬 메달,Cyberdramon-Medaille
-1176,,Medaglia di Sakuyamon,沙古牙獸獎牌,,샤크라몬 메달,Sakuyamon-Medaille
-1177,,SakuyamonMaidM Medaglia,沙古牙獸巫女型態獎牌,,샤크라몬 무녀M 메달,Sakuyamon-M-M-Med.
-1178,,Medaglia di Sagittarimon,射手獸獎牌,,사수몬 메달,Sagittarimon-Med.
-1179,,Medaglia di Submarimon,潛鯊獸獎牌,,잠수몬 메달,Submarimon-Medaille
-1180,,Medaglia di Thunderbirdmon,雷鳥獸獎牌,,썬더버드몬 메달,Thunderbirdmon-Med.
-1181,,Medaglia di Thundermon,閃電球獸獎牌,,번개콩알몬 메달,Thundermon-Medaille
-1182,,Medaglia di Sandiramon,皇蛇獸獎牌,,산티라몬 메달,Sandiramon-Medaille
+1174,,Medaglia Cyclonemon,獨眼龍獸獎牌,,사이크로몬 메달,Cyclonemon-Medaille
+1175,,Medaglia Cyberdramon,電子龍獸獎牌,,사이버드라몬 메달,Cyberdramon-Medaille
+1176,,Medaglia Sakuyamon,沙古牙獸獎牌,,샤크라몬 메달,Sakuyamon-Medaille
+1177,,Medaglia SakuyamonMaidM,沙古牙獸巫女型態獎牌,,샤크라몬 무녀M 메달,Sakuyamon-M-M-Med.
+1178,,Medaglia Sagittarimon,射手獸獎牌,,사수몬 메달,Sagittarimon-Med.
+1179,,Medaglia Submarimon,潛鯊獸獎牌,,잠수몬 메달,Submarimon-Medaille
+1180,,Medaglia Thunderbirdmon,雷鳥獸獎牌,,썬더버드몬 메달,Thunderbirdmon-Med.
+1181,,Medaglia Thundermon,閃電球獸獎牌,,번개콩알몬 메달,Thundermon-Medaille
+1182,,Medaglia Sandiramon,皇蛇獸獎牌,,산티라몬 메달,Sandiramon-Medaille
 1183,,Medaglia Sunflowmon,向日葵獸獎牌,,해바라기몬 메달,Sunflowmon-Medaille
 1184,,Medaglia Seadramon,海龍獸獎牌,,시드라몬 메달,Seadramon-Medaille
-1185,,Medaglia di Jesmon,傑斯獸獎牌,,제스몬 메달,Jesmon-Medaille
+1185,,Medaglia Jesmon,傑斯獸獎牌,,제스몬 메달,Jesmon-Medaille
 1186,,Medaglia Shellmon,貝殼獸獎牌,,쉘몬 메달,Shellmon-Medaille
-1187,,Medaglia di Zhuqiaomon,玄武獸獎牌,,현무몬 메달,Zhuqiaomon-Medaille
-1188,,Medaglia di GeoGreymon,大地暴龍獸獎牌,,지오그레이몬 메달,GeoGreymon-Medaille
+1187,,Medaglia Zhuqiaomon,玄武獸獎牌,,현무몬 메달,Zhuqiaomon-Medaille
+1188,,Medaglia GeoGreymon,大地暴龍獸獎牌,,지오그레이몬 메달,GeoGreymon-Medaille
 1189,,Medaglia Jijimon,公公獸獎牌,,할배몬 메달,Jijimon-Medaille
-1190,,Medaglia di ShineGreymon,閃光暴龍獸獎牌,,샤인그레이몬 메달,ShineGreymon-Med.
+1190,,Medaglia ShineGreymon,閃光暴龍獸獎牌,,샤인그레이몬 메달,ShineGreymon-Med.
 1191,,S Greymon Medaglia B,閃光暴龍獸BM獎牌,,S그레이몬BM 메달,ShineGreymon-BM-Med.
-1192,,Medaglia di Shaujinmon,沙悟淨獸獎牌,,샤우진몬 메달,Shaujinmon-Medaille
+1192,,Medaglia Shaujinmon,沙悟淨獸獎牌,,샤우진몬 메달,Shaujinmon-Medaille
 1193,,Medaglia Jagamon,土豆獸獎牌,,자가몬 메달,Jagamon-Medaille
 1194,,Medaglia Syakomon,蝦蛄獸獎牌,,샤코몬 메달,Syakomon-Medaille
 1195,,Medaglia Justimon,裁決獸獎牌,,저스티몬 메달,Justimon-Medaille
-1196,,Medaglia di Shakkoumon,古神獸獎牌,,토우몬 메달,Shakkoumon-Medaille
+1196,,Medaglia Shakkoumon,古神獸獎牌,,토우몬 메달,Shakkoumon-Medaille
 1197,,Medaglia Jyarimon,沙礫獸獎牌,,쟈리몬 메달,Jyarimon-Medaille
 1198,,Medaglia JumboGamemon,巨龜獸獎牌,,점보가메몬 메달,JumboGamemon-Med.
 1199,,Medaglia Zephyrmon,風神獸獎牌,,슈츠몬 메달,Zephyrmon-Medaille
@@ -640,120 +640,120 @@ ID,Japanese,English,Chinese,EnglishCensored,Korean,German
 1202,,Medaglia Silphymon,人面戰鷹獸獎牌,,실피드몬 메달,Silphymon-Medaille
 1203,,Medaglia Sinduramon,鐵雞獸獎牌,,신드라몬 메달,Sinduramon-Medaille
 1204,,Medaglia ZeedGarurumon,Z'd加魯魯獸獎牌,,지드가루몬 메달,ZeedGarurumon-Med.
-1205,,Medaglia di Z Millenniummon,最終千年獸獎牌,,Z밀레니엄몬 메달,Z-Millenniummon-Med.
+1205,,Medaglia Z Millenniummon,最終千年獸獎牌,,Z밀레니엄몬 메달,Z-Millenniummon-Med.
 1206,,Medaglia Ebonwumon,朱雀獸獎牌,,주작몬 메달,Ebonwumon-Medaille
-1207,,Medaglia di SuperStarmon,超級流星獸獎牌,,슈퍼스타몬 메달,SuperStarmon-Med.
+1207,,Medaglia SuperStarmon,超級流星獸獎牌,,슈퍼스타몬 메달,SuperStarmon-Med.
 1208,,Medaglia Sukamon,大便獸獎牌,,스카몬 메달,Sukamon-Medaille
 1209,,Medaglia SkullGreymon,喪屍暴龍獸獎牌,,스컬그레이몬 메달,SkullGreymon-Med.
 1210,,Medaglia SkullSatamon,喪屍撒旦獸獎牌,,스컬사탄몬 메달,SkullSatamon-Med.
 1211,,Medaglia SkullMammothmon,喪屍長毛象獸獎牌,,스컬맘모스몬 메달,SkullMammothmon-Med.
 1212,,Medaglia Susanomon,金剛武神獸獎牌,,스사노오몬 메달,Susanomon-Medaille
-1213,,Medaglia di Starmon,星星獸獎牌,,스타몬 메달,Starmon-Medaille
+1213,,Medaglia Starmon,星星獸獎牌,,스타몬 메달,Starmon-Medaille
 1214,,Medaglia Stingmon,飛蟲獸獎牌,,스팅몬 메달,Stingmon-Medaille
 1215,,Medaglia Stegomon,劍龍獸獎牌,,스테고몬 메달,Stegomon-Medaille
-1216,,Medaglia di Zudomon,祖頓獸獎牌,,쥬드몬 메달,Zudomon-Medaille
+1216,,Medaglia Zudomon,祖頓獸獎牌,,쥬드몬 메달,Zudomon-Medaille
 1217,,Medaglia Strikedramon,強襲龍獸獎牌,,스트라이크드라몬 메달,Strikedramon-Med.
-1218,,Medaglia di Snimon,螳螂獸獎牌,,스나이몬 메달,Snimon-Medaille
-1219,,Medaglia di S Angemon,斬擊天使獸獎牌,,S엔젤몬 메달,SlashAngemon-Med.
-1220,,Medaglia di Kentaurosmon,八腳馬獸獎牌,,슬레이프몬 메달,Kentaurosmon-Med.
-1221,,Medaglia di Slayerdramon,斬龍獸獎牌,,슬레이어드라몬 메달,Slayerdramon-Med.
+1218,,Medaglia Snimon,螳螂獸獎牌,,스나이몬 메달,Snimon-Medaille
+1219,,Medaglia S Angemon,斬擊天使獸獎牌,,S엔젤몬 메달,SlashAngemon-Med.
+1220,,Medaglia Kentaurosmon,八腳馬獸獎牌,,슬레이프몬 메달,Kentaurosmon-Med.
+1221,,Medaglia Slayerdramon,斬龍獸獎牌,,슬레이어드라몬 메달,Slayerdramon-Med.
 1222,,Medaglia Sepikmon,土人獸獎牌,,세피몬 메달,Sepikmon-Medaille
-1223,,Medaglia di Sephirothmon,魔彈獸獎牌,,세피로트몬 메달,Sephirothmon-Med.
+1223,,Medaglia Sephirothmon,魔彈獸獎牌,,세피로트몬 메달,Sephirothmon-Med.
 1224,,Medaglia Seraphimon,究極天使獸獎牌,,세라피몬 메달,Seraphimon-Medaille
 1225,,Medaglia MegaGargomon,撒多格杜獸獎牌,,세인트가르고몬 메달,MegaGargomon-Med.
 1226,,Medaglia Socerimon,冰巫師獸獎牌,,소서리몬 메달,Socerimon-Medaille
 1227,,Medaglia DarkTyrannomon,黑暗巨龍獸獎牌,,다크티라노몬 메달,DarkTyrannomon-Med.
 1228,,Medaglia Darkdramon,暗龍獸獎牌,,다크드라몬 메달,DarkDramon-Medaille
 1229,,Medaglia Targetmon,目標獸獎牌,,타겟몬 메달,Targetmon-Medaille
-1230,,Medaglia di T-Vespamon,虎蜂獸獎牌,,T베스파몬 메달,TigerVespamon-Med.
-1231,,Medaglia di Titamon,泰坦獸獎牌,,타이타몬 메달,Titamon-Medaille
+1230,,Medaglia T-Vespamon,虎蜂獸獎牌,,T베스파몬 메달,TigerVespamon-Med.
+1231,,Medaglia Titamon,泰坦獸獎牌,,타이타몬 메달,Titamon-Medaille
 1232,,Medaglia DaiPenmon,大企鵝獸獎牌,,왕펭귄몬 메달,Daipenmon-Medaille
 1233,,Medaglia Taomon,祭師獸獎牌,,도사몬 메달,Taomon-Medaille
 1234,,Medaglia Dragomon,達高獸獎牌,,드라고몬 메달,Dragomon-Medaille
 1235,,Medaglia Duskmon,暗黑獸獎牌,,더스크몬 메달,Duskmon-Medaille
 1236,,Medaglia Tanemon,種子獸獎牌,,시드몬 메달,Tanemon-Medaille
-1237,,Medaglia di Darcmon,貞德獸獎牌,,다르크몬 메달,Darcmon-Medaille
-1238,,Medaglia di Tankmon,坦克獸獎牌,,탱크몬 메달,Tankmon-Medaille
+1237,,Medaglia Darcmon,貞德獸獎牌,,다르크몬 메달,Darcmon-Medaille
+1238,,Medaglia Tankmon,坦克獸獎牌,,탱크몬 메달,Tankmon-Medaille
 1239,,Medaglia Chirinmon,麒麟獸獎牌,,치린몬 메달,Chirinmon-Medaille
-1240,,Medaglia di DemiVeemon,豆丁獸獎牌,,꼬마몬 메달,DemiVeemon-Medaille
-1241,,Medaglia di Kumamon,冰熊獸獎牌,,챠크몬 메달,Kumamon-Medaille
-1242,,Medaglia di Caturamon,犬神獸獎牌,,카두라몬 메달,Caturamon-Medaille
+1240,,Medaglia DemiVeemon,豆丁獸獎牌,,꼬마몬 메달,DemiVeemon-Medaille
+1241,,Medaglia Kumamon,冰熊獸獎牌,,챠크몬 메달,Kumamon-Medaille
+1242,,Medaglia Caturamon,犬神獸獎牌,,카두라몬 메달,Caturamon-Medaille
 1243,,Medaglia Chuumon,芝蒙獸獎牌,,츄몬 메달,Chuumon-Medaille
-1244,,Medaglia di Kokomon,巧克力獸獎牌,,초코몬 메달,Kokomon-Medaille
-1245,,Medaglia di Azulongmon,青龍獸獎牌,,청룡몬 메달,Azulongmon-Medaille
-1246,,Medaglia di Tsunomon,獨角獸獎牌,,뿔몬 메달,Tsunomon-Medaille
+1244,,Medaglia Kokomon,巧克力獸獎牌,,초코몬 메달,Kokomon-Medaille
+1245,,Medaglia Azulongmon,青龍獸獎牌,,청룡몬 메달,Azulongmon-Medaille
+1246,,Medaglia Tsunomon,獨角獸獎牌,,뿔몬 메달,Tsunomon-Medaille
 1247,,Medaglia Tsumemon,指爪獸獎牌,,츠메몬 메달,Tsumemon-Medaille
-1248,,Medaglia di Dianamon,狄安娜獸獎牌,,디아나몬 메달,Dianamon-Medaille
-1249,,Medaglia di Diaboromon,超惡魔獸獎牌,,디아블로몬 메달,Diaboromon-Medaille
+1248,,Medaglia Dianamon,狄安娜獸獎牌,,디아나몬 메달,Dianamon-Medaille
+1249,,Medaglia Diaboromon,超惡魔獸獎牌,,디아블로몬 메달,Diaboromon-Medaille
 1250,,Medaglia Digmon,鋼鑽獸獎牌,,디그몬 메달,Digmon-Medaille
-1251,,Medaglia di Dinobeemon,恐蜂獸獎牌,,다이노몬 메달,Dinobeemon-Medaille
-1252,,Medaglia di Tyrannomon,巨龍獸獎牌,,티라노몬 메달,Tyrannomon-Medaille
-1253,,Medaglia di Gatomon,迪路獸獎牌,,가트몬 메달,Gatomon-Medaille
-1254,,Medaglia di Creepymon,究極魔獸獎牌,,마왕몬 메달,Creepymon-Medaille
-1255,,Medaglia di DeathXmon,死亡X獸獎牌,,데크스몬 메달,Dexmon-Medaille
-1256,,Medaglia di Digitamamon,蛋蛋獸獎牌,,디지타몬 메달,Digitamamon-Medaille
+1251,,Medaglia Dinobeemon,恐蜂獸獎牌,,다이노몬 메달,Dinobeemon-Medaille
+1252,,Medaglia Tyrannomon,巨龍獸獎牌,,티라노몬 메달,Tyrannomon-Medaille
+1253,,Medaglia Gatomon,迪路獸獎牌,,가트몬 메달,Gatomon-Medaille
+1254,,Medaglia Creepymon,究極魔獸獎牌,,마왕몬 메달,Creepymon-Medaille
+1255,,Medaglia DeathXmon,死亡X獸獎牌,,데크스몬 메달,Dexmon-Medaille
+1256,,Medaglia Digitamamon,蛋蛋獸獎牌,,디지타몬 메달,Digitamamon-Medaille
 1257,,Medaglia SkullMeramon,死神火焰獸獎牌,,데드메라몬 메달,SkullMeramon-Med.
-1258,,Medaglia di Ghoulmon,死亡獸獎牌,,데스몬 메달,Ghoulmon-Medaille
+1258,,Medaglia Ghoulmon,死亡獸獎牌,,데스몬 메달,Ghoulmon-Medaille
 1259,,Medaglia Devidramon,邪龍獸獎牌,,데블드라몬 메달,Devidramon-Medaille
-1260,,Medaglia di Devimon,惡魔獸獎牌,,데블몬 메달,Devimon-Medaille
+1260,,Medaglia Devimon,惡魔獸獎牌,,데블몬 메달,Devimon-Medaille
 1261,,Medaglia Gallantmon,紅蓮騎士獸獎牌,,듀크몬 메달,Gallantmon-Medaille
 1262,,Medaglia Gallantmon CM,紅蓮騎士獸CM獎牌,,듀크몬CM 메달,Gallantmon-CM-Med.
-1263,,Medaglia di Gallantmon X,紅蓮騎士獸X抗體獎牌,,듀크몬X 메달,Gallantmon-X-Med.
+1263,,Medaglia Gallantmon X,紅蓮騎士獸X抗體獎牌,,듀크몬X 메달,Gallantmon-X-Med.
 1264,,Medaglia Dynasmon,杜納斯獸獎牌,,듀나스몬 메달,Dynasmon-Medaille
-1265,,Medaglia di Dynasmon X,杜納斯獸X抗體獎牌,,듀나스몬X 메달,Dynasmon-X-Medaille
-1266,,Medaglia di Deramon,華麗獸獎牌,,뿌띠몬 메달,Deramon-Medaille
+1265,,Medaglia Dynasmon X,杜納斯獸X抗體獎牌,,듀나스몬X 메달,Dynasmon-X-Medaille
+1266,,Medaglia Deramon,華麗獸獎牌,,뿌띠몬 메달,Deramon-Medaille
 1267,,Medaglia Terriermon,大耳獸獎牌,,테리어몬 메달,Terriermon-Medaille
-1268,,Medaglia di Deltamon,三頭龍獸獎牌,,델타몬 메달,Deltamon-Medaille
+1268,,Medaglia Deltamon,三頭龍獸獎牌,,델타몬 메달,Deltamon-Medaille
 1269,,Medaglia Tentomon,甲蟲獸獎牌,,텐토몬 메달,Tentomon-Medaille
 1270,,Medaglia ToyAgumon,積木亞古獸獎牌,,토이아구몬 메달,ToyAgumon-Medaille
-1271,,Medaglia di Leopardmon,芳香獸獎牌,,두프트몬 메달,Duftmon-Medaille
+1271,,Medaglia Leopardmon,芳香獸獎牌,,두프트몬 메달,Duftmon-Medaille
 1272,,Medaglia Leopardmon LM,芳香獸LM獎牌,,두프트몬LM 메달,Duftmon-LM-Med.
 1273,,Medaglia Leopardmon X,芳香獸X抗體獎牌,,두프트몬X 메달,Duftmon-X-Med.
 1274,,Medaglia Toucanmon,大嘴獸獎牌,,통카몬 메달,Toucanmon-Medaille
 1275,,Medaglia Tortomon,陸龜獸獎牌,,토타몬 메달,Tortomon-Medaille
-1276,,Medaglia di Dobermon,杜賓犬獸獎牌,,도베르몬 메달,Dobermon-Medaille
+1276,,Medaglia Dobermon,杜賓犬獸獎牌,,도베르몬 메달,Dobermon-Medaille
 1277,,Medaglia Dokugumon,蜘蛛獸獎牌,,스파이더몬 메달,Dokugumon-Medaille
 1278,,Medaglia Togemon,仙人掌獸獎牌,,니드몬 메달,Togemon-Medaille
-1279,,Medaglia di Tokomon,迪哥獸獎牌,,토코몬 메달,Tokomon-Medaille
+1279,,Medaglia Tokomon,迪哥獸獎牌,,토코몬 메달,Tokomon-Medaille
 1280,,Medaglia Dodomon,多多獸獎牌,,도도몬 메달,Dodomon-Medaille
 1281,,Medaglia ShogunGekomon,怪蛙皇獎牌,,왕개굴몬 메달,ShogunGekomon-Med.
 1282,,Medaglia Dracmon,德古獸獎牌,,드라큐몬 메달,Dracmon-Medaille
-1283,,Medaglia di Drimogemon,鑽地獸獎牌,,두리몬 메달,Drimogemon-Medaille
-1284,,Medaglia di Dorimon,多利獸獎牌,,도리몬 메달,Dorimon-Medaille
-1285,,Medaglia di Dorugamon,多路加獸獎牌,,돌가몬 메달,Dorugamon-Medaille
+1283,,Medaglia Drimogemon,鑽地獸獎牌,,두리몬 메달,Drimogemon-Medaille
+1284,,Medaglia Dorimon,多利獸獎牌,,도리몬 메달,Dorimon-Medaille
+1285,,Medaglia Dorugamon,多路加獸獎牌,,돌가몬 메달,Dorugamon-Medaille
 1286,,Medaglia DoruGreymon,多路龍獸獎牌,,돌그레몬 메달,DoruGreymon-Medaille
 1287,,Medaglia Dorugoramon,多路戰龍獸獎牌,,돌고라몬 메달,Dorugoramon-Medaille
-1288,,Medaglia di Dorumon,多路獸獎牌,,돌몬 메달,Dorumon-Medaille
+1288,,Medaglia Dorumon,多路獸獎牌,,돌몬 메달,Dorumon-Medaille
 1289,,Medaglia Knightmon,騎士獸獎牌,,나이트몬 메달,Knightmon-Medaille
 1290,,Medaglia Nanimon,亞伯獸獎牌,,모야몬 메달,Nanimon-Medaille
 1291,,Medaglia Datamon,分子獸獎牌,,데이터몬 메달,Datamon-Medaille
-1292,,Medaglia di Fake Agumon Ex,偽亞古獸博士獎牌,,가짜 아구몬 박사 메달,Fal.-Agumon-H.-Med.
+1292,,Medaglia Fake Agumon Ex,偽亞古獸博士獎牌,,가짜 아구몬 박사 메달,Fal.-Agumon-H.-Med.
 1293,,Medaglia Nyaromon,貓貓獸獎牌,,야옹몬 메달,Nyaromon-Medaille
 1294,,Medaglia Nyokimon,豆苗獸獎牌,,새싹몬 메달,Nyokimon-Medaille
 1295,,Medaglia Numemon,鼻涕獸獎牌,,워매몬 메달,Numemon-Medaille
 1296,,Medaglia Neemon,問答獸獎牌,,네몬 메달,Neemon-Medaille
 1297,,Medaglia Nefertimon,尼菲迪獸獎牌,,네페르티몬 메달,Nefertimon-Medaille
-1298,,Medaglia di Neptunemon,尼普頓獸獎牌,,넵튠몬 메달,Neptunemon-Medaille
+1298,,Medaglia Neptunemon,尼普頓獸獎牌,,넵튠몬 메달,Neptunemon-Medaille
 1299,,Medaglia Birdramon,巴多拉獸獎牌,,버드라몬 메달,Birdramon-Medaille
 1300,,Medaglia HiAndromon,高級安杜路獸獎牌,,하이안드로몬 메달,HiAndromon-Medaille
-1301,,Medaglia di Baihumon,白虎獸獎牌,,백호몬 메달,Baihumon-Medaille
+1301,,Medaglia Baihumon,白虎獸獎牌,,백호몬 메달,Baihumon-Medaille
 1302,,Medaglia Paildramon,機甲龍獸獎牌,,파일드라몬 메달,Paildramon-Medaille
-1303,,Medaglia di Tapirmon,食夢獸獎牌,,테이파몬 메달,Tapirmon-Medaille
+1303,,Medaglia Tapirmon,食夢獸獎牌,,테이파몬 메달,Tapirmon-Medaille
 1304,,Medaglia Pagumon,柏古獸獎牌,,퍼그몬 메달,Pagumon-Medaille
-1305,,Medaglia di Hagurumon,齒輪獸獎牌,,톱니몬 메달,Hagurumon-Medaille
+1305,,Medaglia Hagurumon,齒輪獸獎牌,,톱니몬 메달,Hagurumon-Medaille
 1306,,Medaglia Bakemon,猛鬼獸獎牌,,고스몬 메달,Bakemon-Medaille
-1307,,Medaglia di Pajiramon,白羊獸獎牌,,파지라몬 메달,Pajiramon-Medaille
-1308,,Medaglia di Bastemon,巴斯迪獸獎牌,,바스테몬 메달,Beastmon-Medaille
-1309,,Medaglia di Patamon,巴達獸獎牌,,파닥몬 메달,Patamon-Medaille
-1310,,Medaglia di Bacchusmon,巴克科斯獸獎牌,,바커스몬 메달,Bacchusmon-Medaille
-1311,,Medaglia di Hackmon,哈克獸獎牌,,헉몬 메달,Hackmon-Medaille
+1307,,Medaglia Pajiramon,白羊獸獎牌,,파지라몬 메달,Pajiramon-Medaille
+1308,,Medaglia Bastemon,巴斯迪獸獎牌,,바스테몬 메달,Beastmon-Medaille
+1309,,Medaglia Patamon,巴達獸獎牌,,파닥몬 메달,Patamon-Medaille
+1310,,Medaglia Bacchusmon,巴克科斯獸獎牌,,바커스몬 메달,Bacchusmon-Medaille
+1311,,Medaglia Hackmon,哈克獸獎牌,,헉몬 메달,Hackmon-Medaille
 1312,,Medaglia Budmon,花蕾獸獎牌,,버드몬 메달,Budmon-Medaille
 1313,,Medaglia Honeybeemon,蜜蜂獸獎牌,,하니몬 메달,Honeybeemon-Medaille
 1314,,Medaglia Apemon,猿人獸獎牌,,에이프몬 메달,Apemon-Medaille
 1315,,Medaglia Babamon,婆婆獸獎牌,,할매몬 메달,Babamon-Medaille
 1316,,Medaglia Pabumon,泡沫獸獎牌,,뽀글몬 메달,Pabumon-Medaille
-1317,,Medaglia di Barbamon,巴爾巴獸獎牌,,발바몬 메달,Barbamon-Medaille
-1318,,Medaglia di Palmon,巴魯獸獎牌,,팔몬 메달,Palmon-Medaille
+1317,,Medaglia Barbamon,巴爾巴獸獎牌,,발바몬 메달,Barbamon-Medaille
+1318,,Medaglia Palmon,巴魯獸獎牌,,팔몬 메달,Palmon-Medaille
 1319,,Medaglia Parrotmon,鸚鵡獸獎牌,,패롯몬 메달,Parrotmon-Medaille
 1320,,Medaglia Baronmon,巴隆獸獎牌,,바로몬 메달,Baronmon-Medaille
 1321,,Medaglia Divermon,奇蛙獸獎牌,,다이버몬 메달,Divermon-Medaille
@@ -764,45 +764,45 @@ ID,Japanese,English,Chinese,EnglishCensored,Korean,German
 1326,,Medaglia BanchoMamemon,番長豆豆獸獎牌,,반쵸콩알몬 메달,BanchoMamemon-Med.
 1327,,Medaglia BanchoLillymon,番長花仙獸獎牌,,반쵸릴리몬 메달,BanchoLillymon-Med.
 1328,,Medaglia BanchoLeomon,番長獅子獸獎牌,,반쵸레오몬 메달,BanchoLeomon-Med.
-1329,,Medaglia di Pumpmon,南瓜獸獎牌,,펌프몬 메달,Pumpkinmon-Medaille
-1330,,Medaglia di Piedmon,小丑皇獎牌,,피에몬 메달,Piedmon-Medaille
+1329,,Medaglia Pumpmon,南瓜獸獎牌,,펌프몬 메달,Pumpkinmon-Medaille
+1330,,Medaglia Piedmon,小丑皇獎牌,,피에몬 메달,Piedmon-Medaille
 1331,,Medaglia V Greymon,勝利暴龍獸獎牌,,V그레이몬 메달,VictoryGreymon-Med.
-1332,,Medaglia di DemiDevimon,小惡魔獸獎牌,,피코데블몬 메달,DemiDevimon-Medaille
+1332,,Medaglia DemiDevimon,小惡魔獸獎牌,,피코데블몬 메달,DemiDevimon-Medaille
 1333,,Medaglia BigMamemon,巨大豆豆獸獎牌,,왕콩알몬 메달,BigMamemon-Medaille
-1334,,Medaglia di Piximon,妖精獸獎牌,,피콜몬 메달,Piximon-Medaille
-1335,,Medaglia di Puppetmon,木偶獸獎牌,,피노키몬 메달,Puppetmon-Medaille
+1334,,Medaglia Piximon,妖精獸獎牌,,피콜몬 메달,Piximon-Medaille
+1335,,Medaglia Puppetmon,木偶獸獎牌,,피노키몬 메달,Puppetmon-Medaille
 1336,,Medaglia Yokomon,比高獸獎牌,,어니몬 메달,Yokomon-Medaille
-1337,,Medaglia di Biyomon,比丘獸獎牌,,피요몬 메달,Biyomon-Medaille
-1338,,Medaglia di Firamon,焰獅獸獎牌,,파이라몬 메달,Firamon-Medaille
+1337,,Medaglia Biyomon,比丘獸獎牌,,피요몬 메달,Biyomon-Medaille
+1338,,Medaglia Firamon,焰獅獸獎牌,,파이라몬 메달,Firamon-Medaille
 1339,,Medaglia Pharaohmon,法老獸獎牌,,파라오몬 메달,Pharaohmon-Medaille
 1340,,Medaglia Falcomon,夜鷹獸獎牌,,팔코몬 메달,Falcomon-Medaille
-1341,,Medaglia di Phantomon,死神獸獎牌,,팬텀몬 메달,Phantomon-Medaille
-1342,,Medaglia di Fanglongmon,黃龍獸獎牌,,황룡몬 메달,Huanglongmon-Med.
-1343,,Medaglia di Veedramon,V龍獸獎牌,,브이드라몬 메달,Veedramon-Medaille
+1341,,Medaglia Phantomon,死神獸獎牌,,팬텀몬 메달,Phantomon-Medaille
+1342,,Medaglia Fanglongmon,黃龍獸獎牌,,황룡몬 메달,Huanglongmon-Med.
+1343,,Medaglia Veedramon,V龍獸獎牌,,브이드라몬 메달,Veedramon-Medaille
 1344,,Medaglia Veemon,V仔獸獎牌,,브이몬 메달,Veemon-Medaille
-1345,,Medaglia di Kazemon,仙女獸獎牌,,페어리몬 메달,Kazemon-Medaille
+1345,,Medaglia Kazemon,仙女獸獎牌,,페어리몬 메달,Kazemon-Medaille
 1346,,Medaglia Feresmon,菲利斯獸獎牌,,펠레스몬 메달,Phelesmon-Medaille
 1347,,Medaglia Bukamon,布加獸獎牌,,둥실몬 메달,Bukamon-Medaille
 1348,,Medaglia Pukumon,河豚獸獎牌,,푸쿠몬 메달,Pukumon-Medaille
-1349,,Medaglia di Anubismon,鐵鉤獸獎牌,,후크몬 메달,Anubimon-Medaille
-1350,,Medaglia di Bucchiemon,愛精靈獸獎牌,,푸치몬 메달,Bucchiemon-Medaille
+1349,,Medaglia Anubismon,鐵鉤獸獎牌,,후크몬 메달,Anubimon-Medaille
+1350,,Medaglia Bucchiemon,愛精靈獸獎牌,,푸치몬 메달,Bucchiemon-Medaille
 1351,,Medaglia Punimon,普尼獸獎牌,,푸니몬 메달,Punimon-Medaille
 1352,,Medaglia Flymon,黃蜂獸獎牌,,플라이몬 메달,Flymon-Medaille
-1353,,Medaglia di PlatinumSukamon,白金大便獸獎牌,,화이트스카몬 메달,PlatinumSukamon-Med.
-1354,,Medaglia di PlatinumNumemon,白金鼻涕獸獎牌,,플래티넘워매몬 메달,PlatinumNumemon-Med.
-1355,,Medaglia di B WarGreymon,黑暗戰鬥暴龍獸獎牌,,B워그레이몬 메달,BlackWarGreymon-Med.
+1353,,Medaglia PlatinumSukamon,白金大便獸獎牌,,화이트스카몬 메달,PlatinumSukamon-Med.
+1354,,Medaglia PlatinumNumemon,白金鼻涕獸獎牌,,플래티넘워매몬 메달,PlatinumNumemon-Med.
+1355,,Medaglia B WarGreymon,黑暗戰鬥暴龍獸獎牌,,B워그레이몬 메달,BlackWarGreymon-Med.
 1356,,BlackKingNumemonMedl,黑帝鼻涕獸獎牌,,B킹워매몬 메달,B-KingNumemon-Med.
 1357,,Medaglia BlackGatomon,黑迪路獸獎牌,,블랙가트몬 메달,BlackGatomon-Med.
 1358,,Medaglia WarGrowlmon,巴撒獸獎牌,,블리자몬 메달,WarGrowlmon-Medaille
 1359,,Medaglia Beetlemon,電光獸獎牌,,블리츠몬 메달,Beetlemon-Medaille
-1360,,Medaglia di PrinceMamemon,王子豆豆獸獎牌,,프린스콩알몬 메달,PrinceMamemon-Med.
-1361,,Medaglia di Blimpmon,飛船獸獎牌,,브링프몬 메달,Blimpmon-Medaille
+1360,,Medaglia PrinceMamemon,王子豆豆獸獎牌,,프린스콩알몬 메달,PrinceMamemon-Med.
+1361,,Medaglia Blimpmon,飛船獸獎牌,,브링프몬 메달,Blimpmon-Medaille
 1362,,Medaglia BlueMeramon,藍色火焰獸獎牌,,블루메라몬 메달,BlueMeramon-Medaille
 1363,,Medaglia Pururumon,震震獸獎牌,,프르르몬 메달,Pururumon-Medaille
-1364,,Medaglia di Flaremon,耀獅獸獎牌,,플레어몬 메달,Flaremon-Medaille
-1365,,Medaglia di FlameWizardmon,炎巫師獸獎牌,,화염위자몬 메달,FlameWizardmon-Med.
+1364,,Medaglia Flaremon,耀獅獸獎牌,,플레어몬 메달,Flaremon-Medaille
+1365,,Medaglia FlameWizardmon,炎巫師獸獎牌,,화염위자몬 메달,FlameWizardmon-Med.
 1366,,Medaglia Brakedramon,破壞龍獸獎牌,,브레이크드라몬 메달,Breakdramon-Medaille
-1367,,Medaglia di Flamedramon,烈焰獸獎牌,,화염드라몬 메달,Flamedramon-Medaille
+1367,,Medaglia Flamedramon,烈焰獸獎牌,,화염드라몬 메달,Flamedramon-Medaille
 1368,,Medaglia Flamemon,野火獸獎牌,,화염몬 메달,Flamemon-Medaille
 1369,,Medaglia Plesiomon,蛇頸龍獸獎牌,,플레시오몬 메달,Plesiomon-Medaille
 1370,,Medaglia Floramon,花拉獸獎牌,,플로라몬 메달,Floramon-Medaille
@@ -814,19 +814,19 @@ ID,Japanese,English,Chinese,EnglishCensored,Korean,German
 1376,,Medaglia Pegasusmon,天馬獸獎牌,,페가수스몬 메달,Pegasusmon-Medaille
 1377,,Medaglia Vegiemon,鼻屎獸獎牌,,베지몬 메달,Veggiemon-Medaille
 1378,,Medaglia Betamon,比特獸獎牌,,베타몬 메달,Betamon-Medaille
-1379,,Medaglia di Peckmon,銳啄獸獎牌,,펙크몬 메달,Peckmon-Medaille
-1380,,Medaglia di H Kabuterimon,力神比多獸獎牌,,H캅테리몬 메달,H-Kabuterimon-Med.
+1379,,Medaglia Peckmon,銳啄獸獎牌,,펙크몬 메달,Peckmon-Medaille
+1380,,Medaglia H Kabuterimon,力神比多獸獎牌,,H캅테리몬 메달,H-Kabuterimon-Med.
 1381,,B Medaglia Myotismon,貝利亞吸血魔獸獎牌,,묘티스네오몬 메달,MaloMyotismon-Med.
-1382,,Medaglia di Beelzemon,墮天地獄獸獎牌,,베르제브몬 메달,Beelzemon-Medaille
+1382,,Medaglia Beelzemon,墮天地獄獸獎牌,,베르제브몬 메달,Beelzemon-Medaille
 1383,,Medaglia Beelzemon BM,墮天地獄獸BM獎牌,,베르제브몬BM 메달,Beelzemon-BM-Med.
-1384,,Medaglia di Beelzemon X,墮天地獄獸X抗體獎牌,,베르제브몬X 메달,Beelzemon-X-Med.
+1384,,Medaglia Beelzemon X,墮天地獄獸X抗體獎牌,,베르제브몬X 메달,Beelzemon-X-Med.
 1385,,Medaglia Belphemon SM,貝爾菲獸SM獎牌,,벨페몬SM 메달,Belphemon-SM-Med.
-1386,,Medaglia di Belphemon RM,貝爾菲獸RM獎牌,,벨페몬RM 메달,Belphemon-RM-Med.
-1387,,Medaglia di Hououmon,鳳凰獸獎牌,,페닉스몬 메달,Phönixmon-Medaille
-1388,,Medaglia di Whamon,巨鯨獸獎牌,,고래몬 메달,Whamon-Medaille
+1386,,Medaglia Belphemon RM,貝爾菲獸RM獎牌,,벨페몬RM 메달,Belphemon-RM-Med.
+1387,,Medaglia Hououmon,鳳凰獸獎牌,,페닉스몬 메달,Phönixmon-Medaille
+1388,,Medaglia Whamon,巨鯨獸獎牌,,고래몬 메달,Whamon-Medaille
 1389,,Medaglia Hawkmon,麻鷹獸獎牌,,호크몬 메달,Hawkmon-Medaille
 1390,,Medaglia Angemon H,神聖天使獸獎牌,,H엔젤몬 메달,MagnaAngemon-Med.
-1391,,Medaglia di Magnadramon,聖龍獸獎牌,,홀리드라몬 메달,Magnadramon-Medaille
+1391,,Medaglia Magnadramon,聖龍獸獎牌,,홀리드라몬 메달,Magnadramon-Medaille
 1392,,P-Chessmon (Nero) Med,兵棋獸(黑)獎牌,,P체스몬(흑) 메달,P-Chessmon-(s.)-Med.
 1393,,P-Chessmon (Whi) Medio,兵棋獸(白)獎牌,,P체스몬(백) 메달,P-Chessmon-(w.)-Med.
 1394,,Medaglia Bokomon,波高獸獎牌,,보코몬 메달,Bokomon-Medaille
@@ -840,243 +840,243 @@ ID,Japanese,English,Chinese,EnglishCensored,Korean,German
 1402,,Medaglia BomberNanimon,炸彈亞伯獸獎牌,,폭탄모야몬 메달,BomberNanimon-Med.
 1403,,Medaglia Mermaimon,人魚獸獎牌,,머메이몬 메달,Mermaimon-Medaille
 1404,,Medaglia MagnaGarurumon,鎧甲加魯魯獸獎牌,,매그너가루몬 메달,MagnaGarurumon-Med.
-1405,,Medaglia di Magnamon,金甲龍獸獎牌,,매그너몬 메달,Magnamon-Medaille
-1406,,Medaglia di Magnamon X,金甲龍獸X抗體獎牌,,매그너몬X 메달,Magnamon-X-Medaille
-1407,,Medaglia di Makuramon,靈猴獸獎牌,,마쿠라몬 메달,Makuramon-Medaille
+1405,,Medaglia Magnamon,金甲龍獸獎牌,,매그너몬 메달,Magnamon-Medaille
+1406,,Medaglia Magnamon X,金甲龍獸X抗體獎牌,,매그너몬X 메달,Magnamon-X-Medaille
+1407,,Medaglia Makuramon,靈猴獸獎牌,,마쿠라몬 메달,Makuramon-Medaille
 1408,,Medaglia Majiramon,天龍獸獎牌,,마니라몬 메달,Majiramon-Medaille
-1409,,Medaglia di M Tyrannomon,王者巨龍獸獎牌,,M티라노몬 메달,MasterTyrannomon-M.
+1409,,Medaglia M Tyrannomon,王者巨龍獸獎牌,,M티라노몬 메달,MasterTyrannomon-M.
 1410,,Medaglia Mastemon,混沌神魔獸獎牌,,마스테몬 메달,Mastemon-Medaille
-1411,,Medaglia di Mushroomon,蘑菇獸獎牌,,머쉬몬 메달,Mushroomon-Medaille
+1411,,Medaglia Mushroomon,蘑菇獸獎牌,,머쉬몬 메달,Mushroomon-Medaille
 1412,,Medaglia MachGaogamon,音速迦奧迦獸獎牌,,마하가오가몬 메달,MachGaoGamon-Med.
-1413,,Medaglia di Mummymon,木乃伊獸獎牌,,미이라몬 메달,Mummymon-Medaille
-1414,,Medaglia di Mamemon,豆豆獸獎牌,,콩알몬 메달,Mamemon-Medaille
+1413,,Medaglia Mummymon,木乃伊獸獎牌,,미이라몬 메달,Mummymon-Medaille
+1414,,Medaglia Mamemon,豆豆獸獎牌,,콩알몬 메달,Mamemon-Medaille
 1415,,Medaglia MarineAngemon,海天使獸獎牌,,마린엔젤몬 메달,MarineAngemon-Med.
 1416,,Medaglia MarineDevimon,海魔獸獎牌,,마린데블몬 메달,MarineDevimon-Med.
-1417,,Medaglia di Marsmon,瑪爾斯獸獎牌,,마르스몬 메달,Marsmon-Medaille
+1417,,Medaglia Marsmon,瑪爾斯獸獎牌,,마르스몬 메달,Marsmon-Medaille
 1418,,Medaglia Mammothmon,長毛象獸獎牌,,맘몬 메달,Mammothmon-Medaille
-1419,,Medaglia di Minervamon,密涅瓦獸獎牌,,미네르바몬 메달,Minervamon-Medaille
-1420,,Medaglia di Minomon,幼蟲獸獎牌,,데롱몬 메달,Minomon-Medaille
+1419,,Medaglia Minervamon,密涅瓦獸獎牌,,미네르바몬 메달,Minervamon-Medaille
+1420,,Medaglia Minomon,幼蟲獸獎牌,,데롱몬 메달,Minomon-Medaille
 1421,,Medaglia Mihiramon,飛虎獸獎牌,,미히라몬 메달,Mihiramon-Medaille
-1422,,Medaglia di M GaoGamon,幻影迦奧迦獸獎牌,,M가오가몬 메달,MirageGaoGamon-Med.
-1423,,Medaglia di GaoGamon BM,幻影迦奧迦獸BM獎牌,,M가오가몬BM 메달,MirageGaoGamon BM-M.
-1424,,Medaglia di Millenniummon,千年獸獎牌,,밀레니엄몬 메달,Millenniummon-Med.
+1422,,Medaglia M GaoGamon,幻影迦奧迦獸獎牌,,M가오가몬 메달,MirageGaoGamon-Med.
+1423,,Medaglia GaoGamon BM,幻影迦奧迦獸BM獎牌,,M가오가몬BM 메달,MirageGaoGamon BM-M.
+1424,,Medaglia Millenniummon,千年獸獎牌,,밀레니엄몬 메달,Millenniummon-Med.
 1425,,Medaglia Machinedramon,機械邪龍獸獎牌,,파워드라몬 메달,Machinedramon-Med.
-1426,,Medaglia di MegaSeadramon,超海龍獸獎牌,,메가시드라몬 메달,MegaSeadramon-Med.
-1427,,Medaglia di Megadramon,超蛇龍獸獎牌,,메가드라몬 메달,Megadramon-Medaille
+1426,,Medaglia MegaSeadramon,超海龍獸獎牌,,메가시드라몬 메달,MegaSeadramon-Med.
+1427,,Medaglia Megadramon,超蛇龍獸獎牌,,메가드라몬 메달,Megadramon-Medaille
 1428,,Medaglia Mekanorimon,機械裝甲獸獎牌,,메카노몬 메달,Mekanorimon-Medaille
 1429,,Medaglia WarGrowlmon,大古拉獸獎牌,,메가로그라우몬 메달,WarGrowlmon-Medaille
 1430,,Medaglia Megidramon,破滅魔龍獸獎牌,,메기드라몬 메달,Megidramon-Medaille
-1431,,Medaglia di MetalEtemon,鋼鐵悟空獸獎牌,,메탈에테몬 메달,MetalEtemon-Medaille
-1432,,Medaglia di MetalGarurumon,鋼鐵加魯魯獸獎牌,,메탈가루몬 메달,MetalGarurumon-Med.
+1431,,Medaglia MetalEtemon,鋼鐵悟空獸獎牌,,메탈에테몬 메달,MetalEtemon-Medaille
+1432,,Medaglia MetalGarurumon,鋼鐵加魯魯獸獎牌,,메탈가루몬 메달,MetalGarurumon-Med.
 1433,,Medaglia MGarurumon(Nero),鋼鐵黑加魯魯獸獎牌,,M가루몬(흑) 메달,M-Garurumon-(s.)-M.
 1434,,MetalGarurumonXMedaglia,鋼鐵加魯魯獸X抗體獎牌,,메탈가루몬X 메달,MetalGarurumon-X-M.
 1435,,Medaglia MetalGreymon,機械暴龍獸獎牌,,메탈그레이몬 메달,MetalGreymon-Med.
-1436,,Medaglia di Greymon(Blu) M,機械暴龍獸(藍)獎牌,,M그레이몬(청) 메달,MetalGreymon-(b.)-M.
+1436,,Medaglia Greymon(Blu) M,機械暴龍獸(藍)獎牌,,M그레이몬(청) 메달,MetalGreymon-(b.)-M.
 1437,,Medaglia MetalSeadramon,鋼鐵海龍獸獎牌,,메탈시드라몬 메달,MetalSeadramon-Med.
 1438,,MetalTyrannomonMedaglia,鋼鐵巨龍獸獎牌,,메탈티라노몬 메달,MetalTyrannomon-Med.
 1439,,Medaglia MetalPhantomon,金屬幻影獸獎牌,,메탈팬텀몬 메달,MetalPhantomon-Med.
-1440,,Medaglia di MetalMamemon,鋼鐵豆豆獸獎牌,,메탈콩알몬 메달,MetalMamemon-Med.
+1440,,Medaglia MetalMamemon,鋼鐵豆豆獸獎牌,,메탈콩알몬 메달,MetalMamemon-Med.
 1441,,Medaglia Gallantmon M,中世紀紅蓮騎士獸獎牌,,M듀크몬 메달,MedievalGallantmon-M.
-1442,,Medaglia di Mephistomon,梅菲斯獸獎牌,,메피스몬 메달,Mephistomon-Medaille
+1442,,Medaglia Mephistomon,梅菲斯獸獎牌,,메피스몬 메달,Mephistomon-Medaille
 1443,,Medaglia Meramon,火焰獸獎牌,,메라몬 메달,Meramon-Medaille
 1444,,Medaglia Mervamon,梅爾瓦獸獎牌,,멜바몬 메달,Mervamon-Medaille
-1445,,Medaglia di Mercurymon,銀鏡獸獎牌,,머큐레몬 메달,Mercurymon-Medaille
-1446,,Medaglia di Merukimon,墨丘利獸獎牌,,메르크리몬 메달,Merukimon-Medaille
+1445,,Medaglia Mercurymon,銀鏡獸獎牌,,머큐레몬 메달,Mercurymon-Medaille
+1446,,Medaglia Merukimon,墨丘利獸獎牌,,메르크리몬 메달,Merukimon-Medaille
 1447,,Medaglia Mojyamon,毛人獸獎牌,,모털몬 메달,Mojyamon-Medaille
-1448,,Medaglia di Motimon,年糕獸獎牌,,모티몬 메달,Motimon-Medaille
-1449,,Medaglia di Monochromon,角龍獸獎牌,,모노크로몬 메달,Monochromon-Medaille
+1448,,Medaglia Motimon,年糕獸獎牌,,모티몬 메달,Motimon-Medaille
+1449,,Medaglia Monochromon,角龍獸獎牌,,모노크로몬 메달,Monochromon-Medaille
 1450,,Medaglia Monodramon,單角龍獸獎牌,,모노드라몬 메달,Monodramon-Medaille
-1451,,Medaglia di Monzaemon,熊仔獸獎牌,,퍼펫몬 메달,Monzaemon-Medaille
+1451,,Medaglia Monzaemon,熊仔獸獎牌,,퍼펫몬 메달,Monzaemon-Medaille
 1452,,Medaglia Crowmon,八咫鴉獸獎牌,,크라운몬 메달,Crowmon-Medaille
 1453,,Medaglia Frigimon,雪人獸獎牌,,프리지몬 메달,Frigimon-Medaille
 1454,,Medaglia YukimiBotamon,雪球獸獎牌,,하얀몬 메달,SnowBotamon-Med.
 1455,,Medaglia Unimon,獨角馬獸獎牌,,유니몬 메달,Unimon-Medaille
-1456,,Medaglia di Junomon,朱諾獸獎牌,,유노몬 메달,Junomon-Medaille
+1456,,Medaglia Junomon,朱諾獸獎牌,,유노몬 메달,Junomon-Medaille
 1457,,Medaglia Junomon HM,朱諾獸HM獎牌,,유노몬HM 메달,Junomon-HM-Medaille
-1458,,Medaglia di Jupitermon,朱庇特獸獎牌,,유피테르몬 메달,Jupitermon-Medaille
-1459,,Medaglia di Jupitermon LM,朱庇特獸LM獎牌,,유피테르몬LM 메달,Jupitermon-LM-Med.
+1458,,Medaglia Jupitermon,朱庇特獸獎牌,,유피테르몬 메달,Jupitermon-Medaille
+1459,,Medaglia Jupitermon LM,朱庇特獸LM獎牌,,유피테르몬LM 메달,Jupitermon-LM-Med.
 1460,,Medaglia Yuramon,浮球獸獎牌,,유라몬 메달,Yuramon-Medaille
 1461,,Medaglia Lanamon,娜娜獸獎牌,,라나몬 메달,Lanamon-Medaille
 1462,,Medaglia RizeGreymon,進昇暴龍獸獎牌,,라이즈그레이몬 메달,RizeGreymon-Medaille
-1463,,Medaglia di Lighdramon,雷龍獸獎牌,,번개드라몬 메달,Raidramon-Medaille
+1463,,Medaglia Lighdramon,雷龍獸獎牌,,번개드라몬 메달,Raidramon-Medaille
 1464,,Medaglia Lilamon,丁香獸獎牌,,라일라몬 메달,Lilamon-Medaille
 1465,,Medaglia RustTyranomon,終極巨龍獸獎牌,,러스트티라노몬 메달,RustTyrannomon-Med.
-1466,,Medaglia di Rapidmon,拉比獸獎牌,,래피드몬 메달,Rapidmon-Medaille
+1466,,Medaglia Rapidmon,拉比獸獎牌,,래피드몬 메달,Rapidmon-Medaille
 1467,,Medaglia Rapidmon A,拉比獸(盔甲)獎牌,,래피드몬A 메달,Rapidmon (Armor)-Med.
-1468,,Medaglia di Raptordramon,猛禽龍獸獎牌,,라프타드라몬 메달,Raptordramon-Med.
+1468,,Medaglia Raptordramon,猛禽龍獸獎牌,,라프타드라몬 메달,Raptordramon-Med.
 1469,,Medaglia Lalamon,拉拉獸獎牌,,라라몬 메달,Lalamon-Medaille
-1470,,Medaglia di Leviamon,利維坦獸獎牌,,리바이어몬 메달,Leviamon-Medaille
-1471,,Medaglia di Deputymon,左輪獸獎牌,,카우보이몬 메달,Deputymon-Medaille
+1470,,Medaglia Leviamon,利維坦獸獎牌,,리바이어몬 메달,Leviamon-Medaille
+1471,,Medaglia Deputymon,左輪獸獎牌,,카우보이몬 메달,Deputymon-Medaille
 1472,,Medaglia Lilithmon,莉莉絲獸獎牌,,리리스몬 메달,Lilithmon-Medaille
-1473,,Medaglia di Lillymon,花仙獸獎牌,,릴리몬 메달,Lillymon-Medaille
-1474,,Medaglia di Lucemon,光明獸獎牌,,루체몬 메달,Lucemon-Medaille
-1475,,Medaglia di Lucemon SM,光明獸SM獎牌,,루체몬SM 메달,Lucemon-SM-Medaille
-1476,,Medaglia di Lucemon FM,光明獸FM獎牌,,루체몬FM 메달,Lucemon-FM-Medaille
-1477,,Medaglia Rivale di Lucemon,光明獸幼蟲獎牌,,루체몬 라르바 메달,Lucemon-Rivale-Med.
-1478,,Medaglia di Lunamon,露娜獸獎牌,,루나몬 메달,Lunamon-Medaille
+1473,,Medaglia Lillymon,花仙獸獎牌,,릴리몬 메달,Lillymon-Medaille
+1474,,Medaglia Lucemon,光明獸獎牌,,루체몬 메달,Lucemon-Medaille
+1475,,Medaglia Lucemon SM,光明獸SM獎牌,,루체몬SM 메달,Lucemon-SM-Medaille
+1476,,Medaglia Lucemon FM,光明獸FM獎牌,,루체몬FM 메달,Lucemon-FM-Medaille
+1477,,Medaglia Rivale Lucemon,光明獸幼蟲獎牌,,루체몬 라르바 메달,Lucemon-Rivale-Med.
+1478,,Medaglia Lunamon,露娜獸獎牌,,루나몬 메달,Lunamon-Medaille
 1479,,Medaglia Raremon,爛泥獸獎牌,,레어몬 메달,Raremon-Medaille
-1480,,Medaglia di Ravemon,鴉神獸獎牌,,레이브몬 메달,Ravemon-Medaille
-1481,,Medaglia di Ravemon BM,鴉神獸BM獎牌,,레이브몬BM 메달,Ravemon BM-Medaille
+1480,,Medaglia Ravemon,鴉神獸獎牌,,레이브몬 메달,Ravemon-Medaille
+1481,,Medaglia Ravemon BM,鴉神獸BM獎牌,,레이브몬BM 메달,Ravemon BM-Medaille
 1482,,Medaglia Loweemon,黑獅獸獎牌,,레베몬 메달,Löwemon-Medaille
-1483,,Medaglia di Leomon,獅子獸獎牌,,레오몬 메달,Leomon-Medaille
-1484,,Medaglia di Lekismon,雷克斯獸獎牌,,레키스몬 메달,Lekismon-Medaille
-1485,,Medaglia di RedVegiemon,紅鼻屎獸獎牌,,레드베지몬 메달,RedVeggiemon-Medaille
+1483,,Medaglia Leomon,獅子獸獎牌,,레오몬 메달,Leomon-Medaille
+1484,,Medaglia Lekismon,雷克斯獸獎牌,,레키스몬 메달,Lekismon-Medaille
+1485,,Medaglia RedVegiemon,紅鼻屎獸獎牌,,레드베지몬 메달,RedVeggiemon-Medaille
 1486,,Medaglia Reppamon,鐮鼬獸獎牌,,레파몬 메달,Reppamon-Medaille
-1487,,Medaglia di LadyDevimon,女惡魔獸獎牌,,레이디데블몬 메달,LadyDevimon-Medaille
-1488,,Medaglia di Renamon,妖狐獸獎牌,,레나몬 메달,Renamon-Medaille
-1489,,Medaglia di Crusadermon,劍皇獸獎牌,,로드나이트몬 메달,Crusadermon-Medaille
+1487,,Medaglia LadyDevimon,女惡魔獸獎牌,,레이디데블몬 메달,LadyDevimon-Medaille
+1488,,Medaglia Renamon,妖狐獸獎牌,,레나몬 메달,Renamon-Medaille
+1489,,Medaglia Crusadermon,劍皇獸獎牌,,로드나이트몬 메달,Crusadermon-Medaille
 1490,,Medaglia Locomon,火車獸獎牌,,로코몬 메달,Locomon-Medaille
-1491,,Medaglia di Rosemon,薔薇獸獎牌,,로제몬 메달,Rosemon-Medaille
-1492,,Medaglia di Rosemon BM,薔薇獸BM獎牌,,로제몬BM 메달,Rosemon BM-Medaille
+1491,,Medaglia Rosemon,薔薇獸獎牌,,로제몬 메달,Rosemon-Medaille
+1492,,Medaglia Rosemon BM,薔薇獸BM獎牌,,로제몬BM 메달,Rosemon BM-Medaille
 1493,,Medaglia Lopmon,黑大耳獸獎牌,,로프몬 메달,Lopmon-Medaille
 1494,,Medaglia Lotosmon,蓮花獸獎牌,,로터스몬 메달,Lotosmon-Medaille
-1495,,Medaglia di WereGarurumon,獸人加魯魯獎牌,,워가루몬 메달,WereGarurumon-Med.
+1495,,Medaglia WereGarurumon,獸人加魯魯獎牌,,워가루몬 메달,WereGarurumon-Med.
 1496,,Medaglia Wormmon,蟲蟲獸獎牌,,추추몬 메달,Wormmon-Medaille
-1497,,Medaglia di Wisemon,賢者獸獎牌,,와이즈몬 메달,Wisemon-Medaille
+1497,,Medaglia Wisemon,賢者獸獎牌,,와이즈몬 메달,Wisemon-Medaille
 1498,,Medaglia Waspmon,雀蜂獸獎牌,,말벌몬 메달,Waspmon-Medaille
-1499,,Medaglia di Wanyamon,汪喵獸獎牌,,와냐몬 메달,Wanyamon-Medaille
+1499,,Medaglia Wanyamon,汪喵獸獎牌,,와냐몬 메달,Wanyamon-Medaille
 1500,,Medaglia WaruMonzaemon,惡霸熊仔獸獎牌,,배드퍼펫몬 메달,WaruMonzaemon-Med.
 1501,,Medaglia Archelomon,海龜獸的獎牌,,왕거북몬 메달,Archelomon-Medaille
-1502,,Medaglia di IceDevimon,冰惡魔獸的獎牌,,아이스데블몬 메달,IceDevimon-Medaille
-1503,,Medaglia di Aurumon,貓頭鷹獸的獎牌,,부엉몬 메달,Aurumon-Medaille
-1504,,Medaglia di Akatorimon,巨雞獸的獎牌,,레드꼬끼몬 메달,Akatorimon-Medaille
-1505,,Medaglia di Assaultmon,突襲獸的獎牌,,어설트몬 메달,Armormon-Medaille
-1506,,Medaglia BL di A-Kabuterimon,藍超比多獸的獎牌,,A캅테리몬BL 메달,MegaKabuterimon-(Bl.)-M.
+1502,,Medaglia IceDevimon,冰惡魔獸的獎牌,,아이스데블몬 메달,IceDevimon-Medaille
+1503,,Medaglia Aurumon,貓頭鷹獸的獎牌,,부엉몬 메달,Aurumon-Medaille
+1504,,Medaglia Akatorimon,巨雞獸的獎牌,,레드꼬끼몬 메달,Akatorimon-Medaille
+1505,,Medaglia Assaultmon,突襲獸的獎牌,,어설트몬 메달,Armormon-Medaille
+1506,,Medaglia BL A-Kabuterimon,藍超比多獸的獎牌,,A캅테리몬BL 메달,MegaKabuterimon-(Bl.)-M.
 1507,,Medaglia Argomon U,亞爾哥獸完全體的獎牌,,아르고몬 완전체 메달,U.-Argomon-Medaille
 1508,,Medaglia U-Brachiomon,究極腕龍獸的獎牌,,알티메트브라키몬 메달,U.-Brachiomon-Med.
-1509,,Medaglia O di Alphamon,阿爾法獸 王龍劍的獎牌,,알파몬 왕룡검 메달,Alphamon-O-Medaille
+1509,,Medaglia O Alphamon,阿爾法獸 王龍劍的獎牌,,알파몬 왕룡검 메달,Alphamon-O-Medaille
 1510,,Medaglia Aruraumon,愛娜溫獸的獎牌,,오로라몬 메달,Aruraumon-Medaille
 1511,,Medaglia Allomon,異特龍獸的獎牌,,알로몬 메달,Allomon-Medaille
-1512,,Medaglia di Vermilimon,朱紅獸的獎牌,,버미리몬 메달,Vermilimon-Medaille
-1513,,Medaglia di Varodurumon,瓦爾德獸的獎牌,,발두르몬 메달,Valdurmon-Medaille
+1512,,Medaglia Vermilimon,朱紅獸的獎牌,,버미리몬 메달,Vermilimon-Medaille
+1513,,Medaglia Varodurumon,瓦爾德獸的獎牌,,발두르몬 메달,Valdurmon-Medaille
 1514,,Medaglia Wingdramon,翼龍獸的獎牌,,윙드라몬 메달,Wingdramon-Medaille
-1515,,Medaglia di Volcdramon,火山龍獸,,볼크드라몬 메달,Volcdramon-Medaille
+1515,,Medaglia Volcdramon,火山龍獸,,볼크드라몬 메달,Volcdramon-Medaille
 1516,,Medaglia Elephantmon,巨象獸,,코끼몬 메달,Elephantmon-Medaille
-1517,,Medaglia di Otamamon R,紅蝌蚪獸的獎牌,,올챙몬(적) 메달,Otamamon-(R.)-Medaille
+1517,,Medaglia Otamamon R,紅蝌蚪獸的獎牌,,올챙몬(적) 메달,Otamamon-(R.)-Medaille
 1518,,Medaglia Opossummon,負鼠獸的獎牌,,토토몬 메달,Opossummon-Medaille
 1519,,Medaglia Orcamon,奧魯加獸的獎牌,,돌고래몬 메달,Orcamon-Medaille
-1520,,Medaglia di Orochimon,大蛇獸的獎牌,,오로치몬 메달,Orochimon-Medaille
-1521,,Medaglia di Gargoylemon,石像鬼獸的獎牌,,고르고몬 메달,Gargoylemon-Medaille
-1522,,Medaglia di Chaosmon VA,混沌獸瓦爾德臂的獎牌,,카오스몬VA 메달,Chaosmon-VA-Medaille
+1520,,Medaglia Orochimon,大蛇獸的獎牌,,오로치몬 메달,Orochimon-Medaille
+1521,,Medaglia Gargoylemon,石像鬼獸的獎牌,,고르고몬 메달,Gargoylemon-Medaille
+1522,,Medaglia Chaosmon VA,混沌獸瓦爾德臂的獎牌,,카오스몬VA 메달,Chaosmon-VA-Medaille
 1523,,Medaglia Crabmon,巨蟹獸的獎牌,,크랩몬 메달,Crabmon-Medaille
-1524,,Medaglia di Kabukimon,傾奇者獸的獎牌,,탤런트몬 메달,Kabukimon-Medaille
+1524,,Medaglia Kabukimon,傾奇者獸的獎牌,,탤런트몬 메달,Kabukimon-Medaille
 1525,,Medaglia B Gabumon,黑加布獸的獎牌,,파피몬(흑) 메달,Gabumon-(S.)-Medaille
-1526,,Medaglia di Chameleonmon,變色龍獸的獎牌,,카멜레온몬 메달,Chameleonmon-Med.
+1526,,Medaglia Chameleonmon,變色龍獸的獎牌,,카멜레온몬 메달,Chameleonmon-Med.
 1527,,Medaglia Gulfmon,哈里發獸的獎牌,,가르프몬 메달,Gulfmon-Medaille
 1528,,Medaglia B Garurumon,黑加魯魯獸的獎牌,,가루몬(흑) 메달,Garurumon-(S.)-Medaille
-1529,,Medaglia di Kangarumon,袋鼠獸的獎牌,,캥거루몬 메달,Kangarumon-Medaille
-1530,,Medaglia di GigaSeadramon,千兆海龍獸的獎牌,,기가시드라몬 메달,GigaSeadramon-Med.
-1531,,Medaglia di Cannondramon,加農砲龍獸的獎牌,,캐논드라몬 메달,Cannondramon-Med.
+1529,,Medaglia Kangarumon,袋鼠獸的獎牌,,캥거루몬 메달,Kangarumon-Medaille
+1530,,Medaglia GigaSeadramon,千兆海龍獸的獎牌,,기가시드라몬 메달,GigaSeadramon-Med.
+1531,,Medaglia Cannondramon,加農砲龍獸的獎牌,,캐논드라몬 메달,Cannondramon-Med.
 1532,,Medaglia Kyaromon,彈彈獸的獎牌,,캬로몬 메달,Kyaromon-Medaille
-1533,,Medaglia di Kyukimon,窮奇獸的獎牌,,큐우키몬 메달,Kyukimon-Medaille
-1534,,Medaglia di Kyupimon,丘比獸的獎牌,,큐피몬 메달,Cupimon-Medaille
+1533,,Medaglia Kyukimon,窮奇獸的獎牌,,큐우키몬 메달,Kyukimon-Medaille
+1534,,Medaglia Kyupimon,丘比獸的獎牌,,큐피몬 메달,Cupimon-Medaille
 1535,,Medaglia KingChessmon,王棋獸的獎牌,,킹체스몬 메달,KingChessmon-Med.
 1536,,Medaglia Ginryumon,銀龍獸的獎牌,,깅류우몬 메달,Ginryumon-Medaille
-1537,,Medaglia di C-Angemon,鑰天使獸的獎牌,,C엔젤몬 메달,C.-Angemon-Medaille
+1537,,Medaglia C-Angemon,鑰天使獸的獎牌,,C엔젤몬 메달,C.-Angemon-Medaille
 1538,,Medaglia Groundramon,雲龍獸的獎牌,,그라운드라몬 메달,Groundramon-Medaille
-1539,,Medaglia di Grizzlymon,灰熊獸的獎牌,,그리즈몬 메달,Grizzlymon-Medaille
-1540,,Medaglia di Gururumon,古魯魯獸的獎牌,,구루몬 메달,Gururumon-Medaille
+1539,,Medaglia Grizzlymon,灰熊獸的獎牌,,그리즈몬 메달,Grizzlymon-Medaille
+1540,,Medaglia Gururumon,古魯魯獸的獎牌,,구루몬 메달,Gururumon-Medaille
 1541,,Medaglia Cerberusmon,沙路比獸的獎牌,,케르베로스몬 메달,Cerberusmon-Medaille
 1542,,Medaglia Geremon,庸俗獸的獎牌,,옐로우워매몬 메달,Geremon-Medaille
 1543,,Medaglia Kenkimon,工程機械獸的獎牌,,크레인몬 메달,Kenkimon-Medaille
-1544,,Medaglia di Coredramon BL,藍核龍獸的獎牌,,코어드라몬(청) 메달,Coredramon-(Bl.)-Med.
-1545,,Medaglia di Coredramon GR,綠核龍獸的獎牌,,코어드라몬(녹) 메달,Coredramon-(Gr.)-Med.
+1544,,Medaglia Coredramon BL,藍核龍獸的獎牌,,코어드라몬(청) 메달,Coredramon-(Bl.)-Med.
+1545,,Medaglia Coredramon GR,綠核龍獸的獎牌,,코어드라몬(녹) 메달,Coredramon-(Gr.)-Med.
 1546,,Medaglia Kogamon,甲賀獸的獎牌,,코가몬 메달,Kogamon-Medaille
 1547,,Medaglia Monmon,小猴獸的獎牌,,코에몬 메달,Monmon-Medaille
-1548,,Medaglia di Goatmon,黑羊獸的獎牌,,고트몬 메달,Goatmon-Medaille
+1548,,Medaglia Goatmon,黑羊獸的獎牌,,고트몬 메달,Goatmon-Medaille
 1549,,Medaglia KoKabuterimon,小獨角仙獸的獎牌,,코캅테리몬 메달,KoKabuterimon-Med.
 1550,,Medaglia Roachmon,蟑螂獸的獎牌,,로오치몬 메달,Roachmon-Medaille
 1551,,Medaglia Reapermon,獄門獸的獎牌,,고크몬 메달,Reapermon-Medaille
 1552,,Medaglia Commandramon,卡曼龍獸的獎牌,,코만드라몬 메달,Commandramon-Med.
-1553,,Medaglia di Kongoumon,金剛獸的獎牌,,콩고몬 메달,Kongoumon-Medaille
+1553,,Medaglia Kongoumon,金剛獸的獎牌,,콩고몬 메달,Kongoumon-Medaille
 1554,,Medaglia Searchmon,薩奇獸的獎牌,,서치몬 메달,Searchmon-Medaille
 1555,,Medaglia Psychemon,迷幻獸的獎牌,,사이케몬 메달,Psychemon-Medaille
 1556,,Medaglia Weedmon,雜草獸的獎牌,,그린베지몬 메달,Zassoumon-Medaille
 1557,,Medaglia Salamandermon,沙羅曼蛇獸的獎牌,,사라만다몬 메달,Salamandermon-Med.
-1558,,Medaglia di Sangloupmon,血狼獸的獎牌,,상굴몬 메달,Sangloupmon-Medaille
-1559,,Medaglia di Zanbamon,斬伐獸的獎牌,,황금무사몬 메달,Zanbamon-Medaille
+1558,,Medaglia Sangloupmon,血狼獸的獎牌,,상굴몬 메달,Sangloupmon-Medaille
+1559,,Medaglia Zanbamon,斬伐獸的獎牌,,황금무사몬 메달,Zanbamon-Medaille
 1560,,Medaglia Sunmon,日光獸的獎牌,,선몬 메달,Sunmon-Medaille
 1561,,Medaglia Seasarmon,風獅獸的獎牌,,시샤몬 메달,Seasarmon-Medaille
 1562,,Medaglia Sheepmon,綿羊獸的獎牌,,메리몬 메달,Sheepmon-Medaille
 1563,,Medaglia Seahomon,海馬獸的獎牌,,해마몬 메달,Seahomon-Medaille
 1564,,Medaglia Coelamon,希拉獸的獎牌,,씨라몬 메달,Coelamon-Medaille
-1565,,Medaglia di Sealsdramon,特戰龍獸的獎牌,,실즈드라몬 메달,Sealdramon-Medaille
+1565,,Medaglia Sealsdramon,特戰龍獸的獎牌,,실즈드라몬 메달,Sealdramon-Medaille
 1566,,Medaglia Shadramon,影龍獸的獎牌,,샤드라몬 메달,Shadramon-Medaille
-1567,,Medaglia di J-Silphymon,風車人面戰鷹獸的獎牌,,J실피드몬 메달,J.-Silphymon-Medaille
-1568,,Medaglia di ShimaUnimon,獨角斑馬獸的獎牌,,얼룩유니몬 메달,ShimaUnimon-Medaille
+1567,,Medaglia J-Silphymon,風車人面戰鷹獸的獎牌,,J실피드몬 메달,J.-Silphymon-Medaille
+1568,,Medaglia ShimaUnimon,獨角斑馬獸的獎牌,,얼룩유니몬 메달,ShimaUnimon-Medaille
 1569,,Medaglia Xiaomon,夏奧獸的獎牌,,샤오몬 메달,Xiaomon-Medaille
 1570,,Medaglia J-Mojyamon,叢林毛人獸的獎牌,,J모털몬 메달,J.-Mojyamon-Medaille
-1571,,Medaglia di JewelBeemon,寶石蜂獸的獎牌,,주엘비몬 메달,JewelBeemon-Medaille
+1571,,Medaglia JewelBeemon,寶石蜂獸的獎牌,,주엘비몬 메달,JewelBeemon-Medaille
 1572,,Medaglia Suijinmon,水神獸的獎牌,,수신몬 메달,Suijinmon-Medaille
-1573,,Medaglia di Swimmon,游泳獸的獎牌,,스윔몬 메달,Swimmon-Medaille
+1573,,Medaglia Swimmon,游泳獸的獎牌,,스윔몬 메달,Swimmon-Medaille
 1574,,Medaglia SkullBaluchimon,骨犀獸的獎牌,,스컬벌키몬 메달,SkullBaluchimon-Med.
 1575,,Medaglia SkullScorpiomon,毒蠍獸的獎牌,,전갈몬 메달,SkullScorpiomon-Med.
-1576,,Medaglia di Strabimon,斯特拉比獸的獎牌,,스트라비몬 메달,Strabimon-Medaille
+1576,,Medaglia Strabimon,斯特拉比獸的獎牌,,스트라비몬 메달,Strabimon-Medaille
 1577,,Medaglia SnowGoblimon,冰雪野人獸的獎牌,,스노우고부리몬 메달,SnowGoburimon-Med.
-1578,,Medaglia di Spinomon,棘龍獸的獎牌,,스피노몬 메달,Spinomon-Medaille
+1578,,Medaglia Spinomon,棘龍獸的獎牌,,스피노몬 메달,Spinomon-Medaille
 1579,,Medaglia Zurumon,狡猾獸的獎牌,,얍실몬 메달,Zurumon-Medaille
-1580,,Medaglia di Swanmon,天鵝獸的獎牌,,백조몬 메달,Swanmon-Medaille
-1581,,Medaglia di SaviorHuckmon,救星漢克獸的獎牌,,세이버헉몬 메달,SaviorHackmon-Med.
+1580,,Medaglia Swanmon,天鵝獸的獎牌,,백조몬 메달,Swanmon-Medaille
+1581,,Medaglia SaviorHuckmon,救星漢克獸的獎牌,,세이버헉몬 메달,SaviorHackmon-Med.
 1582,,Medaglia Saberdramon,凶爪巴多拉獸的獎牌,,블랙버드라몬 메달,Saberdramon-Medaille
 1583,,Medaglia Sethmon,賽特獸的獎牌,,세트몬 메달,Sethmon-Medaille
-1584,,Medaglia di Soulmon,靈魂獸的獎牌,,소울몬 메달,Soulmon-Medaille
+1584,,Medaglia Soulmon,靈魂獸的獎牌,,소울몬 메달,Soulmon-Medaille
 1585,,Medaglia Solarmon,太陽獸的獎牌,,황금톱니몬 메달,Solarmon-Medaille
 1586,,Medaglia DS-Starmon,暗黑超級流星獸的獎牌,,DS스타몬 메달,D.S.-Starmon-Medaille
 1587,,Medaglia DarkLizardmon,暗黑蜥蜴獸的獎牌,,다크리자몬 메달,Darkrizamon-Medaille
 1588,,Medaglia T-Kabuterimon,暴君比多獸的獎牌,,T캅테리몬 메달,T.-Kabuterimon-Med.
 1589,,Medaglia Tuskmon,大角獸的獎牌,,태스크몬 메달,Tuskmon-Medaille
 1590,,Medaglia Tankdramon,坦克龍獸的獎牌,,탱크드라몬 메달,Tankdramon-Medaille
-1591,,Medaglia di Choromon,巧洛獸的獎牌,,뽈뽈몬 메달,Choromon-Medaille
+1591,,Medaglia Choromon,巧洛獸的獎牌,,뽈뽈몬 메달,Choromon-Medaille
 1592,,Medaglia Tsukaimon,使魔獸的獎牌,,츄카이몬 메달,Tsukaimon-Medaille
 1593,,Medaglia MudFrigimon,泥人獸的獎牌,,머드프리지몬 메달,MudFrigimon-Medaille
 1594,,Medaglia Diatrymon,冠恐鳥獸的獎牌,,디아트리몬 메달,Diatrymon-Medaille
-1595,,Medaglia di Dinotigermon,恐獅王獸的獎牌,,다이노타이거몬 메달,Dinotigermon-Med.
-1596,,Medaglia di Dinohyumon,龍人獸的獎牌,,다이노휴몬 메달,Dinohyumon-Medaille
-1597,,Medaglia di Dinorexmon,恐王龍獸的獎牌,,다이노렉스몬 메달,Dinorexmon-Medaille
-1598,,Medaglia di Tylomon,海王龍獸的獎牌,,티로몬 메달,Tylomon-Medaille
+1595,,Medaglia Dinotigermon,恐獅王獸的獎牌,,다이노타이거몬 메달,Dinotigermon-Med.
+1596,,Medaglia Dinohyumon,龍人獸的獎牌,,다이노휴몬 메달,Dinohyumon-Medaille
+1597,,Medaglia Dinorexmon,恐王龍獸的獎牌,,다이노렉스몬 메달,Dinorexmon-Medaille
+1598,,Medaglia Tylomon,海王龍獸的獎牌,,티로몬 메달,Tylomon-Medaille
 1599,,Medaglia Devitamamon,惡魔蛋蛋獸的獎牌,,데블타몬 메달,Devitamamon-Medaille
 1600,,Medaglia Depthmon,深海獸的獎牌,,마린몬 메달,Depthmon-Medaille
-1601,,Medaglia di ToyAgumon B,黑積木亞古獸的獎牌,,토이아구몬(흑) 메달,ToyAgumon-(S.)-Medaille
+1601,,Medaglia ToyAgumon B,黑積木亞古獸的獎牌,,토이아구몬(흑) 메달,ToyAgumon-(S.)-Medaille
 1602,,Medaglia Doumon,道師獸的獎牌,,도우몬 메달,Doumon-Medaille
-1603,,Medaglia di Turuiemon,兔爺獸的獎牌,,토리에몬 메달,Turuiemon-Medaille
+1603,,Medaglia Turuiemon,兔爺獸的獎牌,,토리에몬 메달,Turuiemon-Medaille
 1604,,Medaglia Togemogumon,刺鼠獸的獎牌,,도치몬 메달,Togemogumon-Medaille
 1605,,Medaglia Doggymon,瘋狗獸的獎牌,,도그몬 메달,Doggymon-Medaille
 1606,,Medaglia TobuCatmon,雄貓獸的獎牌,,토브캐트몬 메달,Tobucatmon-Medaille
 1607,,Medaglia Dracomon,天龍獸的獎牌,,드라코몬 메달,Dracomon-Medaille
 1608,,Medaglia Triceramon,三觭龍獸的獎牌,,트리케라몬 메달,Triceramon-Medaille
-1609,,Medaglia B di K-Chessmon,黑棋獸的獎牌,,K체스몬(흑) 메달,Kn.-Chessmon-(S.)-Med.
-1610,,Medaglia W di K-Chessmon,白棋獸的獎牌,,K체스몬(백) 메달,Kn.-Chessmon-(W.)-Med.
-1611,,Medaglia di NiseDrimogemon,假鑽地獸的獎牌,,수염두리몬 메달,NiseDrimogemon-Med.
+1609,,Medaglia B K-Chessmon,黑棋獸的獎牌,,K체스몬(흑) 메달,Kn.-Chessmon-(S.)-Med.
+1610,,Medaglia W K-Chessmon,白棋獸的獎牌,,K체스몬(백) 메달,Kn.-Chessmon-(W.)-Med.
+1611,,Medaglia NiseDrimogemon,假鑽地獸的獎牌,,수염두리몬 메달,NiseDrimogemon-Med.
 1612,,Medaglia NeoDevimon,新種惡魔獸的獎牌,,네오데블몬 메달,NeoDevimon-Medaille
 1613,,Medaglia Nohemon,草人獸的獎牌,,허수아비몬 메달,Nohemon-Medaille
-1614,,Medaglia di Harpymon,哈比獸的獎牌,,하피몬 메달,Harpymon-Medaille
-1615,,Medaglia di P-Volcanomon,摔跤火山獸的獎牌,,P볼케몬 메달,P.-Volcanomon-Med.
+1614,,Medaglia Harpymon,哈比獸的獎牌,,하피몬 메달,Harpymon-Medaille
+1615,,Medaglia P-Volcanomon,摔跤火山獸的獎牌,,P볼케몬 메달,P.-Volcanomon-Med.
 1616,,Medaglia BaoHuckmon,巴歐漢克獸的獎牌,,바오헉몬 메달,BaoHackmon-Medaille
 1617,,Medaglia Paomon,巴歐獸的獎牌,,파오몬 메달,Paomon-Medaille
 1618,,Medaglia Butterflymon,蝴蝶獸的獎牌,,나비몬 메달,Butterflymon-Medaille
 1619,,Medaglia Pafumon,膨膨獸的獎牌,,파후몬 메달,Puffmon-Medaille
-1620,,Medaglia di Parasimon,寄生蟲獸的獎牌,,패러사이몬 메달,Parasitemon-Medaille
+1620,,Medaglia Parasimon,寄生蟲獸的獎牌,,패러사이몬 메달,Parasitemon-Medaille
 1621,,Medaglia Bulbmon,閥門獸的獎牌,,벨브몬 메달,Bulbmon-Medaille
 1622,,Medaglia Peacockmon,孔雀龍獸的獎牌,,피콕몬 메달,Peacockmon-Medaille
 1623,,Medaglia Hisyaryumon,龍王獸的獎牌,,히사류우몬 메달,Hisyaryumon-Medaille
 1624,,Medaglia B-Chessmon,主教獸的獎牌,,B체스몬 메달,B.-Chessmon-Medaille
-1625,,Medaglia di Pichimon,比基獸的獎牌,,피치몬 메달,Pichimon-Medaille
-1626,,Medaglia di Rabbitmon,野兔獸的獎牌,,비트몬 메달,Rabbitmon-Medaille
+1625,,Medaglia Pichimon,比基獸的獎牌,,피치몬 메달,Pichimon-Medaille
+1626,,Medaglia Rabbitmon,野兔獸的獎牌,,비트몬 메달,Rabbitmon-Medaille
 1627,,Medaglia Pinamon,皮那獸的獎牌,,피나몬 메달,Pinamon-Medaille
 1628,,Medaglia Pipismon,蝙蝠獸的獎牌,,피피스몬 메달,Pipismon-Medaille
-1629,,Medaglia di Hippogrifomon,仙鷹獸的獎牌,,히포그리포몬 메달,HippoGryphonmon-Med.
+1629,,Medaglia Hippogrifomon,仙鷹獸的獎牌,,히포그리포몬 메달,HippoGryphonmon-Med.
 1630,,Medaglia Hyogamon,冰加獸的獎牌,,블루우가몬 메달,Hyogamon-Medaille
 1631,,Medaglia Phascomon,無尾熊獸的獎牌,,파스코몬 메달,Phascomon-Medaille
-1632,,Medaglia di Fangmon,狼牙獸的獎牌,,팽몬 메달,Fangmon-Medaille
+1632,,Medaglia Fangmon,狼牙獸的獎牌,,팽몬 메달,Fangmon-Medaille
 1633,,Medaglia FanBeemon,幻蜂獸的獎牌,,아기벌몬 메달,FanBeemon-Medaille
 1634,,Medaglia Fugamon,風加獸的獎牌,,푸가몬 메달,Fugamon-Medaille
-1635,,Medaglia di Fujinmon,風神獸的獎牌,,풍신몬 메달,Fujinmon-Medaille
-1636,,Medaglia di Boogiemon,夜魔獸的獎牌,,부기몬 메달,Boogeymon-Medaille
+1635,,Medaglia Fujinmon,風神獸的獎牌,,풍신몬 메달,Fujinmon-Medaille
+1636,,Medaglia Boogiemon,夜魔獸的獎牌,,부기몬 메달,Boogeymon-Medaille
 1637,,Medaglia DemiMeramon,小火焰獸的獎牌,,푸치메라몬 메달,DemiMeramon-Medaille
 1638,,Medaglia Petitmon,小龍獸的獎牌,,쁘띠몬 메달,Petitmon-Medaille
 1639,,Medaglia Bucchiemon GR,愛精靈獸(綠)的獎牌,,푸치몬(녹) 메달,Bucchiemon-(Gr.)-Med.
-1640,,Medaglia di Puttimon,小天使獸的獎牌,,푸트몬 메달,Puttimon-Medaille
-1641,,Medaglia di Pteramon,翼龍獸的獎牌,,프테라몬 메달,Pteramon-Medaille
+1640,,Medaglia Puttimon,小天使獸的獎牌,,푸트몬 메달,Puttimon-Medaille
+1641,,Medaglia Pteramon,翼龍獸的獎牌,,프테라몬 메달,Pteramon-Medaille
 1642,,Medaglia Pupumon,普普獸的獎牌,,푸푸몬 메달,Pupumon-Medaille
 1643,,Medaglia Flybeemon,蜂王獸的獎牌,,플라몬 메달,Flybeemon-Medaille
 1644,,Medaglia Bullmon,鬥牛獸的獎牌,,황소몬 메달,Bullmon-Medaille
@@ -1086,26 +1086,26 @@ ID,Japanese,English,Chinese,EnglishCensored,Korean,German
 1648,,Medaglia Frogmon,雨蛙獸的獎牌,,프로그몬 메달,Frogmon-Medaille
 1649,,Medaglia Puroromon,普洛洛獸的獎牌,,푸로로몬 메달,Puroromon-Medaille
 1650,,Medaglia Bearmon,小熊獸的獎牌,,베어몬 메달,Bearmon-Medaille
-1651,,Medaglia di Petaldramon,花龍獸的獎牌,,페탈드라몬 메달,Petaldramon-Medaille
-1652,,Medaglia di Betsumon,冒充獸的獎牌,,베츠몬 메달,Betsumon-Medaille
+1651,,Medaglia Petaldramon,花龍獸的獎牌,,페탈드라몬 메달,Petaldramon-Medaille
+1652,,Medaglia Betsumon,冒充獸的獎牌,,베츠몬 메달,Betsumon-Medaille
 1653,,Medaglia Bebydomon,幼龍獸的獎牌,,베비드몬 메달,Bebydomon-Medaille
 1654,,Medaglia Velgemon,瓦爾格爾獸的獎牌,,베르그몬 메달,Velgremon-Medaille
-1655,,Medaglia di Penguinmon,企鵝獸的獎牌,,펭귄몬 메달,Penguinmon-Medaille
-1656,,Medaglia di Boarmon,燒豬獸的獎牌,,멧돼지몬 메달,Boarmon-Medaille
-1657,,Medaglia di Porcupamon,刺熊獸的獎牌,,포큐파몬 메달,Porcupamon-Medaille
+1655,,Medaglia Penguinmon,企鵝獸的獎牌,,펭귄몬 메달,Penguinmon-Medaille
+1656,,Medaglia Boarmon,燒豬獸的獎牌,,멧돼지몬 메달,Boarmon-Medaille
+1657,,Medaglia Porcupamon,刺熊獸的獎牌,,포큐파몬 메달,Porcupamon-Medaille
 1658,,Medaglia Pokomon,波克獸的獎牌,,포코몬 메달,Viximon-Medaille
 1659,,Medaglia Bommon,炸彈獸的獎牌,,봄몬 메달,Bommon-Medaille
 1660,,Medaglia Ponchomon,墨西哥仙人掌獸的獎牌,,판초몬 메달,Ponchomon-Medaille
-1661,,Medaglia di Matadormon,鬥牛士獸的獎牌,,마타돌몬 메달,Matadormon-Medaille
+1661,,Medaglia Matadormon,鬥牛士獸的獎牌,,마타돌몬 메달,Matadormon-Medaille
 1662,,Medaglia Mametyramon,豆豆巨龍獸的獎牌,,콩알티라몬 메달,MameTyramon-Medaille
 1663,,Medaglia Mantaraymon,巨魟獸的獎牌,,가오리몬 메달,Mantaraymon-Medaille
 1664,,Medaglia Manbomon,曼波獸的獎牌,,맘보몬 메달,Manbomon-Medaille
-1665,,Medaglia di Mikemon,三毛貓獸的獎牌,,미케몬 메달,Mikemon-Medaille
+1665,,Medaglia Mikemon,三毛貓獸的獎牌,,미케몬 메달,Mikemon-Medaille
 1666,,Medaglia Missimon,導彈獸的獎牌,,미사일몬 메달,Missimon-Medaille
-1667,,Medaglia di Minotarumon,牛人獸的獎牌,,미노타르몬 메달,Minotarumon-Medaille
+1667,,Medaglia Minotarumon,牛人獸的獎牌,,미노타르몬 메달,Minotarumon-Medaille
 1668,,Medaglia Moosemon,駝鹿獸的獎牌,,무스몬 메달,Moosemon-Medaille
-1669,,Medaglia di Muchomon,五彩獸的獎牌,,레드펭귄몬 메달,Muchomon-Medaille
-1670,,Medaglia di M-Millenniummon,月之千年獸的獎牌,,문밀레니엄몬 메달,M-Millenniummon-Med.
+1669,,Medaglia Muchomon,五彩獸的獎牌,,레드펭귄몬 메달,Muchomon-Medaille
+1670,,Medaglia M-Millenniummon,月之千年獸的獎牌,,문밀레니엄몬 메달,M-Millenniummon-Med.
 1671,,Medaglia Musyamon,武者獸的獎牌,,무사몬 메달,Musyamon-Medaille
 1672,,Medaglia Murmukusmon,姆爾姆爾獸的獎牌,,무크스몬 메달,Murmuxmon-Medaille
 1673,,Medaglia Moonmon,月光獸的獎牌,,문몬 메달,Moonmon-Medaille
@@ -1115,26 +1115,26 @@ ID,Japanese,English,Chinese,EnglishCensored,Korean,German
 1677,,Medaglia Mokumon,煙霧獸的獎牌,,모크몬 메달,Mokumon-Medaille
 1678,,Medaglia Mothmon,飛蛾獸的獎牌,,나방몬 메달,Mothmon-Medaille
 1679,,Medaglia MoriShellmon,森林貝殼獸的獎牌,,그린쉘몬 메달,MoriShellmon-Med.
-1680,,Medaglia di Yasyamon,夜叉獸的獎牌,,야차몬 메달,Yasyamon-Medaille
+1680,,Medaglia Yasyamon,夜叉獸的獎牌,,야차몬 메달,Yasyamon-Medaille
 1681,,Medaglia Yanmamon,蜻蜓獸的獎牌,,왕잠자리몬 메달,Yanmamon-Medaille
-1682,,Medaglia di SnowAgumon,雪古獸的獎牌,,스노우아구몬 메달,SnowAgumon-Medaille
+1682,,Medaglia SnowAgumon,雪古獸的獎牌,,스노우아구몬 메달,SnowAgumon-Medaille
 1683,,Medaglia Youkomon,邪狐獸的獎牌,,블랙구미호몬 메달,Youkomon-Medaille
 1684,,Medaglia Liamon,雷亞獸的獎牌,,라이아몬 메달,Liamon-Medaille
-1685,,Medaglia di Raijinmon,雷神獸的獎牌,,뇌신몬 메달,Raijinmon-Medaille
+1685,,Medaglia Raijinmon,雷神獸的獎牌,,뇌신몬 메달,Raijinmon-Medaille
 1686,,Medaglia Raidenmon,雷電獸的獎牌,,라이덴몬 메달,Raidenmon-Medaille
-1687,,Medaglia di R-Kabuterimon,萊諾比多獸的獎牌,,리노캅테리몬 메달,R.-Kabuterimon-Med.
+1687,,Medaglia R-Kabuterimon,萊諾比多獸的獎牌,,리노캅테리몬 메달,R.-Kabuterimon-Med.
 1688,,Medaglia Rhinomon,巨犀獸的獎牌,,리노몬 메달,Rhinomon-Medaille
 1689,,Medaglia Rhihimon,帝獅獸的獎牌,,라이히몬 메달,Rhihimon-Medaille
 1690,,Medaglia Labramon,拉布拉獸的獎牌,,래브라몬 메달,Labramon-Medaille
-1691,,Medaglia di Lynxmon,山貓獸的獎牌,,링스몬 메달,Lynxmon-Medaille
+1691,,Medaglia Lynxmon,山貓獸的獎牌,,링스몬 메달,Lynxmon-Medaille
 1692,,Medaglia Lampmon,油燈獸的獎牌,,램프몬 메달,Lampmon-Medaille
 1693,,Medaglia Ryudamon,龍蛇獸的獎牌,,류우다몬 메달,Ryudamon-Medaille
 1694,,Medaglia Rinkmon,零酷獸的獎牌,,링크몬 메달,Rinkmon-Medaille
 1695,,Medaglia RookChessmon,戰車獸的獎牌,,룩체스몬 메달,RookChessmon-Med.
-1696,,Medaglia di Dolphmon,海豚獸的獎牌,,돌핀몬 메달,Dolphmon-Medaille
-1697,,Medaglia di Liollmon,幼獅獸的獎牌,,레오르몬 메달,Leormon-Medaille
+1696,,Medaglia Dolphmon,海豚獸的獎牌,,돌핀몬 메달,Dolphmon-Medaille
+1697,,Medaglia Liollmon,幼獅獸的獎牌,,레오르몬 메달,Leormon-Medaille
 1698,,Medaglia LoaderLeomon,裝甲獅子獸的獎牌,,로더레오몬 메달,LoaderLiomon-Med.
-1699,,Medaglia di W-Garurumon B,黑獸人加魯魯獸的獎牌,,워가루몬(흑) 메달,W.-Garurumon-(S.)-Med.
+1699,,Medaglia W-Garurumon B,黑獸人加魯魯獸的獎牌,,워가루몬(흑) 메달,W.-Garurumon-(S.)-Med.
 1700,,Medaglia WaruSeadramon,惡海龍獸的獎牌,,데블시드라몬 메달,WaruSeadramon-Med.
 10101,,Occhiali da Cyber Detective,電腦偵探的防風鏡,,전뇌탐정의 고글,Cyberdetektiv-Brille
 12401,,Occhiali d'oro,金色防風鏡,,금색 고글,Goldene Brille
@@ -1144,9 +1144,9 @@ ID,Japanese,English,Chinese,EnglishCensored,Korean,German
 10302,,Kagami Mochi (R+B),鏡餅【紅白】,,찰떡(홍백),Kagami-Mochi (rot/w)
 12601,,Kagami Mochi (G),鏡餅【金】,,찰떡(금),Kagami-Mochi (gold)
 10401,,Bambola Motimon Specchio,鏡餅年糕獸【玩偶】,,찰떡 모티몬(인형),Spiegel-Motimonpuppe
-10501,,Cuore di Cioccolato,愛心巧克力,,하트 초콜릿,Schokoherz
-10502,,Cuore di cioccolato W.,愛心白巧克力,,화이트 하트 초콜릿,Weißes Schokoherz
-12701,,Simbolo di cuore,心型符號,,하크 마크,Herzsymbol
+10501,,Cuore Cioccolato,愛心巧克力,,하트 초콜릿,Schokoherz
+10502,,Cuore Cioccolato W.,愛心白巧克力,,화이트 하트 초콜릿,Weißes Schokoherz
+12701,,Simbolo cuore,心型符號,,하크 마크,Herzsymbol
 12702,,Cuore Infranto,粉碎之心,,브레이킹 하트,Gebrochenes Herz
 12801,,Cuore Dorato,黃金之心,,골든 하트,Goldenes Herz
 12901,,Tulipano,鬱金香,,튤립,Tulpe
@@ -1158,11 +1158,11 @@ ID,Japanese,English,Chinese,EnglishCensored,Korean,German
 13101,,Digiuovo verde,數碼蛋【藍】,,녹색 디지타마,Grünes Digi-Ei
 13102,,DigiUovo Rosso,數碼蛋【白】,,적색 디지타마,Rotes Digi-Ei
 13201,,Digiuovo d'Oro,金色數碼蛋,,금색 디지타마,Goldenes Digi-Ei
-11001,,Bandiera di Seadramon,海龍鯉魚旗,,시드라 깃발,Seadramon-Flagge
-11101,,Bandiera di Airdramon,飛龍鯉魚旗,,에어드라 깃발,Airdramon-Flagge
+11001,,Bandiera Seadramon,海龍鯉魚旗,,시드라 깃발,Seadramon-Flagge
+11101,,Bandiera Airdramon,飛龍鯉魚旗,,에어드라 깃발,Airdramon-Flagge
 13301,,Bandiera Carpa,鯉魚旗,,잉어 깃발,Karpfen-Flagge
-13401,,Bandiera di Carpa Dorata,金色鯉魚旗,,금색 잉어 깃발,Gold-Karpfen-Flagge
-11201,,Peluche di ShellNumemon,貝殼鼻涕獸人偶,,달팽이워매 인형,ShellNumemon-Puppe
+13401,,Bandiera Carpa Dorata,金色鯉魚旗,,금색 잉어 깃발,Gold-Karpfen-Flagge
+11201,,Peluche ShellNumemon,貝殼鼻涕獸人偶,,달팽이워매 인형,ShellNumemon-Puppe
 11301,,Bambola BlackKingNumemon,黑帝鼻涕獸人偶,,블랙킹워매 인형,BlackKingNum.-Puppe
 13501,,Bambola BK-Numemon (G),金色黑帝鼻涕獸人偶,,블랙킹워매(금) 인형,G. BlackKingN.-Puppe
 11401,,Superstar,超級星星,,슈퍼 스타,Toller Stern
