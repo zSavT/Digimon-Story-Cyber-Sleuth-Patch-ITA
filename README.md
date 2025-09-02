@@ -71,7 +71,7 @@ Le percentuali quì sotto fanno riferimento alla revisione manuale dei testi, la
 - [x] Utilizzare correttamente il termine "Tamer".
 - [x] Utilizzare correttamente il termine "Demons".
 - [ ] Correzione testi o miglioramenti vari da segnalazioni utenti dirette e indirette.
-- [ ] Revisione nomi e descrizione oggetti.
+- [x] Revisione nomi e descrizione oggetti.
 - [ ] Revisione nomi e descrizione mosse Digimon.
 - [ ] Revisione dei testi dei menu di gioco e impostazioni.
 
@@ -170,10 +170,10 @@ Anche la dimensioni dei singoli caratteri nel font utilizzato può influire sul 
 In ogni caso:
 - **Lista Oggetti - Menu Oggetti**
   - La lunghezza **massima è 55 caratteri** (56 se vogliamo inserire anche un carrattere punto o, se proprio necessario, un ulteriore carattere per non interrompere una parola).
-![Immagine](./img/Oggetti1.jpg)
+![Immagine](./img/Oggetto1.jpg)
 - **Lista Oggetti - Menu Battaglia**
   - La lunghezza **massima è 48 caratteri** (49 se vogliamo inserire anche un carrattere punto o, se proprio necessario, un ulteriore carattere per non interrompere una parola).
-![Immagine](./img/Oggetti2.jpg)
+![Immagine](./img/Oggetto2.jpg)
 
 ## Modifica delle texture
 
