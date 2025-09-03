@@ -3,17 +3,17 @@ ID,Japanese,English,Chinese,EnglishCensored,Korean,German
 2,,Ripristina 750 HP a un alleato.,回復我方單體750HP,,아군 1마리의 HP를 750 회복한다.,Stellt 750 TP eines Verbündeten wieder her.
 3,,Ripristina completamente gli HP di un alleato.,回復我方單體所有HP,,아군 1마리의 HP를 완전 회복한다.,Stellt alle TP eines Verbündeten wieder her.
 4,,"Ripristina 500 HP per tutti gli alleati
-(si applica ai Digimon in battaglia durante la battaglia).","回復我方全體500HP
+(si applica ai Digimon in combattimento)..","回復我方全體500HP
 （戰鬥時僅限戰鬥成員）",,"아군 전체의 HP를 500 회복한다.
 (배틀 시 배틀 멤버 한정)","Stellt 500 TP aller Verbündeten wieder her
 (gilt für kämpfende Digimon)."
 5,,"Ripristina 1000 HP per tutti gli alleati
-(si applica ai Digimon da battaglia in combattimento).","回復我方全體1000HP
+(si applica ai Digimon in combattimento).","回復我方全體1000HP
 （戰鬥時僅限戰鬥成員）",,"아군 전체의 HP를 1000 회복한다.
 (배틀 시 배틀 멤버 한정)","Stellt 1000 TP aller Verbündeten wieder
 her (gilt für kämpfende Digimon)."
 6,,"Ripristina completamente gli HP per tutti gli alleati
-(si applica ai Digimon in battaglia durante la battaglia).","回復我方全體所有HP
+(si applica ai Digimon in combattimento)..","回復我方全體所有HP
 （戰鬥時僅限戰鬥成員）",,"아군 전체의 HP를 완전 회복한다.
 (배틀 시 배틀 멤버 한정)","Stellt alle TP aller Verbündeten wieder her
 (gilt für kämpfende Digimon)."
@@ -36,7 +36,7 @@ her (gilt für kämpfende Digimon)."
 (배틀 시 배틀 멤버 한정)","Stellt 50 % d. TP & SP aller Verbündeten
 wieder her (gilt für kämpfende Digimon)."
 13,,"Ripristina completamente HP e SP per tutti gli alleati
-(si applica ai Digimon in battaglia durante la battaglia).","回復我方全體所有HP和SP
+(si applica ai Digimon in combattimento)..","回復我方全體所有HP和SP
 （戰鬥時僅限戰鬥成員）",,"아군 전체의 HP와 SP를 완전 회복한다.
 (배틀 시 배틀 멤버 한정)","Stellt alle TP & SP aller Verbündeten
 wieder her (gilt für kämpfende Digimon)."
@@ -136,11 +136,11 @@ CRT提升20% 5回合。",,"배틀 시 5턴 동안 아군 1마리의
 크리티컬 발생 확률이 20% 상승한다.","Erhöht KRT eines Verbündeten im Kampf
 5 Züge lang um 20 %."
 33,,Fuga dalla battaglia.,從戰鬥中逃脫,,배틀에서 도망친다.,Fliehe aus dem Kampf.
-50,,+2.500 ESP per un Digimon,單體數碼寶貝+2500 EXP,,디지몬 1마리에 +2500EXP,+2.500 EP für ein Digimon.
-51,,+5.000 ESP per un Digimon,單體數碼寶貝+5000 EXP,,디지몬 1마리에 +5500EXP,+5.000 EP für ein Digimon.
+50,,+2.500 EXP per un Digimon,單體數碼寶貝+2500 EXP,,디지몬 1마리에 +2500EXP,+2.500 EP für ein Digimon.
+51,,+5.000 EXP per un Digimon,單體數碼寶貝+5000 EXP,,디지몬 1마리에 +5500EXP,+5.000 EP für ein Digimon.
 52,,+10.000 EXP per un Digimon,單體數碼寶貝+10000 EXP,,디지몬 1마리에 +10000EXP,+10.000 EP für ein Digimon
-53,,+20.000 ESP per un Digimon,單體數碼寶貝+20000 EXP,,디지몬 1마리에 +20000EXP,+20.000 EP für ein Digimon
-54,,+40.000 ESP per un Digimon,單體數碼寶貝+40000 EXP,,디지몬 1마리에 +40000EXP,+40.000 EP für ein Digimon
+53,,+20.000 EXP per un Digimon,單體數碼寶貝+20000 EXP,,디지몬 1마리에 +20000EXP,+20.000 EP für ein Digimon
+54,,+40.000 EXP per un Digimon,單體數碼寶貝+40000 EXP,,디지몬 1마리에 +40000EXP,+40.000 EP für ein Digimon
 55,,Aumenta la CAM del 10.,友情值提升10,,우정치를 10 상승시킨다.,Erhöht KAM um 10.
 56,,Aumenta la CAM del 25.,友情值提升25,,우정치를 25 상승시킨다.,Erhöht KAM um 25.
 57,,"Può essere utilizzato per tornare 
@@ -413,7 +413,7 @@ und stellt TP und SP wieder her."
 數碼寶貝ATK&EVA上升50%",,"배틀 시 5턴 동안 아군 1마리의
 공격력과 회피율이 50% 상승한다.","Erhöht ANG u. AWN eines Verbündeten im
 Kampf 5 Züge lang um 50 %."
-214,,+800.000 ESP per un Digimon.,為一數碼寶貝增加800000EXP,,디지몬 1마리에게 +800000EXP,+800.000 EP für ein Digimon.
+214,,+800.000 EXP per un Digimon.,為一數碼寶貝增加800000EXP,,디지몬 1마리에게 +800000EXP,+800.000 EP für ein Digimon.
 215,,"""Sai proprio come prendermi.""
 (Yu) /Oggetto di denaro","「就說，你這是...欺負人的新招啊...」
 (優)／換錢道具",,"「그러니까… 그거… 신종 괴롭힘이라니까……」
@@ -959,8 +959,8 @@ sonstiger Schaden +5 % /Ausrüstung"
 ／裝備",,"""즉사""에 걸리지 않게 됨
 /장비품","Verhindert Soforttod
 /Ausrüstung"
-394,,"Dimezza la probabilità di successo di tutti gli status anomali
-/Equipaggiamento","陷入“所有異常狀態”的機率減半
+394,,"Dimezza la probabilità di successo di tutti
+gli status anomali. /Equipaggiamento","陷入“所有異常狀態”的機率減半
 ／裝備",,"""모든 상태이상""에 걸릴 확률 반감
 /장비품","Halbiert die Wahrscheinlichkeit 
 von Statusleiden /Ausrüstung"
@@ -974,7 +974,7 @@ von Statusleiden /Ausrüstung"
 ／裝備",,"도주에 반드시 성공
 /장비품","Immer erfolgreiche Flucht
 /Ausrüstung"
-397,,"Aumenta l'ESP guadagnata in battaglia.
+397,,"Aumenta l'EXP guadagnata in battaglia.
 /Equipaggiamento","增加戰鬥時獲取的EXP
 ／裝備",,"배틀로 얻는 EXP가 증가
 /장비품","Mehr EP durch Kämpfe
@@ -984,8 +984,8 @@ von Statusleiden /Ausrüstung"
 ／裝備",,"배틀로 얻는 YEN가 증가
 /장비품","Mehr Yen durch Kämpfe
 /Ausrüstung"
-399,,"Aumenta la probabilità di rilascio degli oggetti dai nemici.
-/Equipaggiamento","增加敵人掉落道具的機率
+399,,"Aumenta la probabilità di rilascio degli
+oggetti dai nemici. /Equipaggiamento","增加敵人掉落道具的機率
 ／裝備",,"적이 아이템을 드롭할 확률 증가
 /장비품","Mehr Items von 
 Gegnern. /Ausrüstung"
@@ -1009,22 +1009,22 @@ DEF/INT. /Equipaggiamento","DEF．INT貫穿損傷減少30%
 ／裝備",,"방어/지력 관통 대미지 30% 감소
 /장비품","Reduziert VER-/INT-durchdringenden
 Schaden um 30 %. /Ausrüstung"
-501,,"Aumenta l'ESP per i Digimon di 
+501,,"Aumenta l'EXP per i Digimon di 
 attributo Fuoco. /Oggetti Fattoria","增加火屬性數碼寶貝獲得的EXP
 ／農場道具",,"불속성 디지몬의 획득 EXP 증가
 /팜 굿즈","Erhöht EP für Feuer-Digimon.
 /Farmprodukte"
-502,,"Aumenta l'ESP per Digimon con 
+502,,"Aumenta l'EXP per Digimon con 
 attributo Acqua. /Oggetti Fattoria","增加水屬性數碼寶貝獲得的EXP
 ／農場道具",,"물속성 디지몬의 획득 EXP 증가
 /팜 굿즈","Erhöht EP für Wasser-Digimon.
 /Farmprodukte"
-503,,"Aumenta l'ESP per i Digimon di 
+503,,"Aumenta l'EXP per i Digimon di 
 attributo Pianta. /Oggetti della Fattoria","增加木屬性數碼寶貝獲得的EXP
 ／農場道具",,"풀속성 디지몬의 획득 EXP 증가
 /팜 굿즈","Erhöht EP für Pflanzen-Digimon.
 /Farmprodukte"
-504,,"Aumenta l'ESP per i Digimon di 
+504,,"Aumenta l'EXP per i Digimon di 
 attributo Terra. /Oggetti Fattoria","增加土屬性數碼寶貝獲得的EXP
 ／農場道具",,"땅속성 디지몬의 획득 EXP 증가
 /팜 굿즈","Erhöht EP für Erd-Digimon.
@@ -1034,22 +1034,22 @@ attributo Elettrico. /Beni della Fattoria","增加雷屬性數碼寶貝獲得的
 ／農場道具",,"전기속성 디지몬의 획득 EXP 증가
 /팜 굿즈","Erhöht EP für Elektro-Digimon.
 /Farmprodukte"
-506,,"Aumenta l'ESP per Digimon di 
+506,,"Aumenta l'EXP per Digimon di 
 attributo Vento. /Merci della Fattoria","增加風屬性數碼寶貝獲得的EXP
 ／農場道具",,"바람속성 디지몬의 획득 EXP 증가
 /팜 굿즈","Erhöht EP für Wind-Digimon.
 /Farmprodukte"
-507,,"Aumenta l'ESP per i Digimon di 
+507,,"Aumenta l'EXP per i Digimon di 
 attributo Luce. /Beni del DigiFarm","增加光屬性數碼寶貝獲得的EXP
 ／農場道具",,"빛속성 디지몬의 획득 EXP 증가
 /팜 굿즈","Erhöht EP für Licht-Digimon.
 /Farmprodukte"
-508,,"Aumenta l'ESP per Digimon di 
+508,,"Aumenta l'EXP per Digimon di 
 attributo Dark. /Beni della Farm","增加闇屬性數碼寶貝獲得的EXP
 ／農場道具",,"어둠속성 디지몬의 획득 EXP 증가
 /팜 굿즈","Erhöht EP für Dunkelheit-Digimon.
 /Farmprodukte"
-509,,"Aumenta l'ESP per Digimon di 
+509,,"Aumenta l'EXP per Digimon di 
 attributo Neutrale. /Oggetti della Fattoria","增加無屬性數碼寶貝獲得的EXP
 ／農場道具",,"무속성 디지몬의 획득 EXP 증가
 /팜 굿즈","Erhöht EP für Neutral-Digimon.

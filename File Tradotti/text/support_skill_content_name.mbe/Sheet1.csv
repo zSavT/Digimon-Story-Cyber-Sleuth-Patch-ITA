@@ -89,7 +89,7 @@ le combo si verifichino e continuino.",連擊的發生、持續機率提升10%,,
 10% 상승한다.","Erhöht die Wahrscheinlichkeit, Kombos
 auszuführen oder fortzusetzen, um 10 %."
 32,,Rende più facile fuggire dalla battaglia.,逃脫變得更容易成功。,,도주에 성공하기 쉬워진다.,Erleichtert die Flucht aus dem Kampf.
-33,,Aumenta l'ESP guadagnata in battaglia.,增加戰鬥時獲取的EXP。,,배틀로 얻는 EXP가 증가한다.,Erhöht die in Kämpfen gewonnenen EP.
+33,,Aumenta l'EXP guadagnata in battaglia.,增加戰鬥時獲取的EXP。,,배틀로 얻는 EXP가 증가한다.,Erhöht die in Kämpfen gewonnenen EP.
 34,,Aumenta gli YEN guadagnati in battaglia.,增加戰鬥時獲取的YEN。,,배틀로 얻는 YEN이 증가한다.,Erhöht die in Kämpfen gewonnenen Yen.
 35,,Aumenta la probabilità che i nemici rilascino oggetti.,增加敵人掉落道具的機率。,,적이 아이템을 떨어뜨릴 확률이 증가한다.,"Sorgt dafür, dass Gegner mehr Beute
 zurücklassen."
@@ -332,7 +332,7 @@ abilità di tipo Terra del 10%.","增加土屬性技能所給予的傷害，
 Erdfertigkeiten um 10 %."
 99,,Aumenta i danni inflitti del 10%.,增加所給予的傷害10%。,,주는 대미지가 10% 증가한다.,Erhöht den verursachten Schaden um 10 %.
 100,,Riduce i danni subiti del 10%.,減輕受到的傷害10%。,,받는 대미지를 10% 경감한다.,Reduziert den erlittenen Schaden um 10 %.
-101,,"Aumenta leggermente l'ESP dalle battaglie e
+101,,"Aumenta leggermente l'EXP dalle battaglie e
 riduce i danni subiti del 5%.","增加在戰鬥中所得到的EXP，
 減輕受到的傷害5%。",,"배틀로 얻는 EXP가 조금 증가하고
 받는 대미지를 5% 경감한다.","Erhöht EP bei Kämpfen leicht, senkt
@@ -355,7 +355,7 @@ e i danni inflitti dalle skill di tipo Oscurità del 10%.","依照HP吸取效果
 增加闇屬性技能所給予的傷害10%。",,"HP 흡수 효과에 따른 회복량이 25%, 어둠속성
 스킬로 주는 대미지가 10% 증가한다.","Erhöht absorbierte TP-Menge um 25 % sowie
 den Schaden von Dunkelfertigkeiten um 10 %."
-106,,Aumenta l'ESP guadagnata in battaglia.,增加在戰鬥中所獲得的EXP。,,배틀로 얻는 EXP가 증가한다.,Erhöht die in Kämpfen gewonnenen EP.
+106,,Aumenta l'EXP guadagnata in battaglia.,增加在戰鬥中所獲得的EXP。,,배틀로 얻는 EXP가 증가한다.,Erhöht die in Kämpfen gewonnenen EP.
 107,,"Aumenta sia ATK che i danni inflitti dalle
 abilità di Fuoco e Oscurità del 10%.","ATK上升10%，且增加火．闇屬性技能
 所給予的傷害10%。",,"공격력이 10% 올라가고 불/어둠속성 스킬로
@@ -394,7 +394,7 @@ Sichert Flucht aus Kämpfen, wenn möglich."
 202,,"Assicura una fuga di successo da qualsiasi battaglia da cui
 ci si può fuggire.",有逃脫的機會的戰鬥，絕對能逃脫成功。,,도주 가능한 전투에서 반드시 도주에 성공한다.,"Sichert erfolgreiche Flucht von allen
 Kämpfen, bei denen man fliehen kann."
-203,,Aumenta significativamente l'ESP ottenuta in battaglia.,大幅的增加在戰鬥中獲得的EXP。,,배틀로 얻는 EXP가 크게 증가한다.,Erhöht die in Kämpfen gewonnenen EP stark.
+203,,Aumenta significativamente l'EXP ottenuta in battaglia.,大幅的增加在戰鬥中獲得的EXP。,,배틀로 얻는 EXP가 크게 증가한다.,Erhöht die in Kämpfen gewonnenen EP stark.
 115,,Aumenta ATK e CRT del 10%.,ATK跟CRT發生率上升10%。,,공격력과 크리티컬 발생률이 10% 상승한다.,Erhöht ANG und KRT um 10 %.
 116,,"Aumenta i danni delle skill Neutre del 20%,
 ma diminuisce i danni di tutte le altre skill del 10%.","增加無屬性技能造成的損傷20％，
