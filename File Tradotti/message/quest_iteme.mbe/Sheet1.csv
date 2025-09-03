@@ -1565,8 +1565,8 @@ Sono il committente per questo caso.","初次見面，偵探大人。
 發出委託的就是我。",,"처음 뵙겠습니다, 탐정님
 제가 의뢰인입니다","Freut mich, dich kennenzulernen, Detektiv.
 Ich bin der Auftraggeber für diesen Fall."
-1201,1013,,"Vado subito al punto. L'altro giorno ho perso la mia ""cosa preziosa"" e non va bene.
-Per niente bene.","看我怎麼搞的，前陣子竟然弄丟了「重要之物」……
+1201,1013,,"Vado subito al punto. L'altro giorno ho perso la mia ""cosa preziosa""
+e non va bene. Per niente bene.","看我怎麼搞的，前陣子竟然弄丟了「重要之物」……
 現在非常傷腦筋。",,"저번에 제가 모르고「소중한 물건」을 잃어버려서…
 매우 곤란합니다","Ich komme sofort zum Thema. Vor Kurzem habe ich
 mein ""wertvolles Ding"" verloren und das ist nicht
@@ -1574,17 +1574,19 @@ gut. Gar nicht gut."
 1202,1013,,"Mi sa che mi sia caduto di tasca, a [m3030]. Ci scommetto.",遺失地點恐怕是在[m3030]吧。,,"잃어버린 장소는 아마도, [m3030](이)겠죠","Ich glaube, es muss mir aus der Tasche gefallen
 sein, in [m3030].
 Darauf tippe ich."
-1203,1013,,"Se riuscissi a trovarlo per me, ti darò qualcosa in cambio. Buona fortuna, Detective.","如果你幫我找回來的話，我會給予謝禮的。
+1203,1013,,"Se riuscissi a trovarlo per me, ti darò qualcosa in cambio.
+Buona fortuna, Detective.","如果你幫我找回來的話，我會給予謝禮的。
 拜託你了。",,"찾아와 주신다면 보답하겠습니다
 부디, 잘 부탁드립니다","Wenn du es für mich finden könntest, gebe ich dir
 im Gegenzug etwas. Viel Glück, Detektiv."
-1210,1013,,"È questo! Senza dubbio, è il mio ""oggetto prezioso"". Sono così contento che sia tutto intero!","喔喔！　那個東西！
+1210,1013,,"È questo! Senza dubbio, è il mio ""oggetto prezioso"".
+Sono così contento che sia tutto intero!","喔喔！　那個東西！
 你幫我找回來了呢！",,"오오! 그것은!
 찾아와 주신 거군요!","Das ist es! Kein Zweifel, das ist mein ""wertvolles
 Ding"". Ich bin so froh, dass es heile ist!"
-1211,1013,,"Grazie per aver sistemato la cosa per me,
-Detective! Ho già mandato il mio ringraziamento al tuo
-ufficio. Spero ti piaccia!","謝謝你！
+1211,1013,,"Grazie per aver sistemato la cosa per me, Detective!
+Ho già mandato il mio ringraziamento al tuo ufficio.
+Spero ti piaccia!","謝謝你！
 我把謝禮送去事務所了！",,"감사합니다!
 보답은 사무소로 보내두었어요!","Danke, dass du das für mich erledigt hast,
 Detektiv! Ich habe mein Dankeschön schon an dein
@@ -2716,7 +2718,8 @@ und bin deshalb echt traurig!"
 maybe在[m3040]吧～",,"그거 메이비,
 [m3040]에 있을 것 같은데~","Ich wollte fragen, ob du es suchen könntest,
 in ... ach, ähm, [m3040]?"
-2023,1621,,"Se lo trovi, in cambio ti do qualcosa di fico! Che ne dici? Dai, ti prego?!","如果你幫我find，我就會給你wonderful的報酬喲！
+2023,1621,,"Se lo trovi, in cambio ti do qualcosa di fico! Che ne dici?
+Dai, ti prego?!","如果你幫我find，我就會給你wonderful的報酬喲！
 Please，拜託，請你幫幫忙囉！",,"만약 파인드해주면, 원더풀한 보수를 줄게!
 플리즈, 부탁해, 잘 부탁해!","Wenn du es findest, gebe ich dir im Gegenzug
 etwas Ausgefallenes! Was meinst du? Bitte?!"
@@ -2725,7 +2728,8 @@ Sapevo che ce l'avresti fatta!","偵探大～人！　Excellent！
 你確實幫我find了！",,"탐정님~! 엑셀런트!
 제대로 파인드해줬구나!","Toll! Du hast es gefunden, Detektiv!
 Ich wusste, dass du das schaffst!"
-2031,1621,,"La tua ricompensa te l'ho già mandata in ufficio. Mille grazie, Detective! Sei imbattibile!","Wonderful的報酬已經send到事務所囉！
+2031,1621,,"La tua ricompensa te l'ho già mandata in ufficio.
+Mille grazie, Detective! Sei imbattibile!","Wonderful的報酬已經send到事務所囉！
 Thank you very much，偵探大人！",,"원더풀한 보수는 사무소로 센드했어!
 땡큐 베리 머치, 탐정님!","Deine Belohnung habe ich schon an dein Büro
 geschickt. Tausend Dank, Detektiv! Du bist
