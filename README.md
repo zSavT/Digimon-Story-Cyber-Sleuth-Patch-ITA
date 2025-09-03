@@ -62,7 +62,7 @@ Le percentuali quì sotto fanno riferimento alla revisione manuale dei testi, la
 
 - [ ] Terminare interamente la revisione Storia Cyber Sleuth.
 - [ ] Iniziare revisione Hacker's Memory sistemando la sola formattazione nei testi tagliati.
-- [ ] Correzione testi con doppi genere indicati.
+- [x] Correzione testi con doppi genere indicati.
 - [ ] Revisione Box Dialoghi NPC.
 - [ ] Revisione DigiLine Parte 4.
 - [ ] Revisione Quest Parte 4
@@ -71,6 +71,7 @@ Le percentuali quì sotto fanno riferimento alla revisione manuale dei testi, la
 - [x] Utilizzare correttamente il termine "Tamer".
 - [x] Utilizzare correttamente il termine "Demons".
 - [ ] Correzione testi o miglioramenti vari da segnalazioni utenti dirette e indirette.
+- [x] Revisione nomi e descrizione oggetti.
 - [ ] Revisione nomi e descrizione mosse Digimon.
 - [ ] Revisione dei testi dei menu di gioco e impostazioni.
 
@@ -161,10 +162,18 @@ Altri menu sono:
   - La lunghezza **massima è 50 caratteri** (51 se vogliamo inserire anche un carrattere punto o, se proprio necessario, un ulteriore carattere per non interrompere una parola).
 ![Immagine](./img/Quest.jpg)
 
-Altri menu di gioco, come per esempio le descrizioni degli oggetti, possono essere visualizzati da interfacce differenti con dimensioni differenti, ma il testo originale è lo stesso, quindi non si può precisare la dimensione massima, in questi casi, si segue la formattazione originale.<p>
+Altri menu di gioco, come per esempio le descrizioni degli oggetti, possono essere visualizzati da interfacce differenti con dimensioni differenti, ma il testo originale è lo stesso, quindi non si può precisare la dimensione massima, in questi casi, è preferibile seguire la formattazione originale.<p>
 **NOTA BENE**
 
 Anche la dimensioni dei singoli caratteri nel font utilizzato può influire sul limite dei caratteri massimi.
+
+In ogni caso:
+- **Lista Oggetti - Menu Oggetti**
+  - La lunghezza **massima è 55 caratteri** (56 se vogliamo inserire anche un carrattere punto o, se proprio necessario, un ulteriore carattere per non interrompere una parola).
+![Immagine](./img/Oggetto1.jpg)
+- **Lista Oggetti - Menu Battaglia**
+  - La lunghezza **massima è 48 caratteri** (49 se vogliamo inserire anche un carrattere punto o, se proprio necessario, un ulteriore carattere per non interrompere una parola).
+![Immagine](./img/Oggetto2.jpg)
 
 ## Modifica delle texture
 
