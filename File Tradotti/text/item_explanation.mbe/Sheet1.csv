@@ -257,28 +257,27 @@ den maximalen Gruppenspeicher um 10."
 „Entwickler“."
 107,,Cambia la personalità del Digimon in Cercatore.,將單體數碼寶貝的個性變更為調查型,,디지몬 1마리의 개성을 조사형으로 바꾼다.,"Verändert die Digimon-Persönlichkeit zu
 „Sucher“."
-110,,"Riduce leggermente gli HP 
-massimi aumentati di un Digimon.","稍微降低單體數碼寶貝
+110,,"Riduce leggermente gli HP  massimi aumentati di
+un Digimon.","稍微降低單體數碼寶貝
 強化後的最大HP",,"디지몬 1마리의
 강화한 최대 HP를 약간 떨어뜨린다.","Reduziert leicht die erhöhten max. TP
 eines Digimon."
-111,,"Riduce gli HP massimi potenziati
-di un Digimon.","降低單體數碼寶貝
+111,,"Riduce gli HP massimi potenziati di un Digimon.","降低單體數碼寶貝
 強化後的最大HP",,"디지몬 1마리의
 강화한 최대 HP를 떨어뜨린다.","Reduziert die erhöhten max. TP
 eines Digimon."
-112,,"Riduce notevolmente gli
-HP massimi potenziati di un Digimon.","大幅降低單體數碼寶貝
+112,,"Riduce notevolmente gli HP massimi potenziati
+di un Digimon.","大幅降低單體數碼寶貝
 強化後的最大HP",,"디지몬 1마리의
 강화한 최대 HP를 크게 떨어뜨린다.","Reduziert deutlich die erhöhten max. TP
 eines Digimon."
-113,,"Riduce leggermente lo
-SP massimo potenziato di un Digimon.","稍微降低單體數碼寶貝
+113,,"Riduce leggermente lo SP massimo potenziato
+di un Digimon.","稍微降低單體數碼寶貝
 強化後的最大SP",,"디지몬 1마리의
 강화한 최대 SP를 약간 떨어뜨린다.","Reduziert leicht die erhöhten max. SP
 eines Digimon."
-114,,"Riduce gli SP massimi
-potenziati di un Digimon.","降低單體數碼寶貝
+114,,"Riduce gli SP massimi potenziati di un
+Digimon.","降低單體數碼寶貝
 強化後的最大SP",,"디지몬 1마리의
 강화한 최대 SP를 떨어뜨린다.","Reduziert die erhöhten max. SP
 eines Digimon."
@@ -287,63 +286,58 @@ potenziati di un Digimon.","大幅降低單體數碼寶貝
 強化後的最大SP",,"디지몬 1마리의
 강화한 최대 SP를 크게 떨어뜨린다.","Reduziert deutlich die erhöhten max. SP
 eines Digimon."
-116,,"Riduce leggermente l'ATK 
-potenziato di un Digimon.","稍微降低單體數碼寶貝
+116,,"Riduce leggermente l'ATK potenziato di
+un Digimon.","稍微降低單體數碼寶貝
 強化後的ATK",,"디지몬 1마리의
 강화한 공격력을 약간 떨어뜨린다.","Reduziert leicht den erhöhten ANG-Wert
 eines Digimon."
-117,,"Riduce l'ATK potenziato di
-un Digimon.","降低單體數碼寶貝
+117,,"Riduce l'ATK potenziato di un Digimon.","降低單體數碼寶貝
 強化後的ATK",,"디지몬 1마리의
 강화한 공격력을 떨어뜨린다.","Reduziert den erhöhten ANG-Wert
 eines Digimon."
-118,,"Riduce notevolmente l'
-ATK potenziato di un Digimon.","大幅降低單體數碼寶貝
+118,,"Riduce notevolmente l' ATK potenziato di
+un Digimon.","大幅降低單體數碼寶貝
 強化後的ATK",,"디지몬 1마리의
 강화한 공격력을 크게 떨어뜨린다.","Reduziert deutlich den erhöhten ANG-Wert
 eines Digimon."
-119,,"Riduce leggermente la DEF 
-potenziata di un Digimon.","稍微降低單體數碼寶貝
+119,,"Riduce leggermente la DEF potenziata di
+un Digimon.","稍微降低單體數碼寶貝
 強化後的DEF",,"디지몬 1마리의
 강화한 방어력을 약간 떨어뜨린다.","Reduziert den erhöhten VER-Wert
 eines Digimon."
-120,,"Riduce la DEF potenziata
-di un Digimon.","降低單體數碼寶貝
+120,,"Riduce la DEF potenziata di un Digimon.","降低單體數碼寶貝
 強化後的DEF",,"디지몬 1마리의
 강화한 방어력을 떨어뜨린다.","Reduziert deutlich den erhöhten VER-Wert
 eines Digimon."
-121,,"Riduce notevolmente la DEF 
-potenziata di un Digimon.","大幅降低單體數碼寶貝
+121,,"Riduce notevolmente la DEF  potenziata di
+un Digimon.","大幅降低單體數碼寶貝
 強化後的DEF",,"디지몬 1마리의
 강화한 방어력을 크게 떨어뜨린다.","Reduziert deutlich den erhöhten VER-Wert
 eines Digimon."
-122,,"Riduce leggermente l'INT 
-potenziata di un Digimon.","稍微降低單體數碼寶貝
+122,,"Riduce leggermente l'INT potenziata di
+un Digimon.","稍微降低單體數碼寶貝
 強化後的INT",,"디지몬 1마리의
 강화한 지력을 약간 떨어뜨린다.","Reduziert leicht den erhöhten INT-Wert
 eines Digimon."
-123,,"Riduce l'INT potenziata 
-di un Digimon.","降低單體數碼寶貝
+123,,"Riduce l'INT potenziata di un Digimon.","降低單體數碼寶貝
 強化後的INT",,"디지몬 1마리의
 강화한 지력을 떨어뜨린다.","Reduziert den erhöhten INT-Wert
 eines Digimon."
-124,,"Riduce notevolmente l'INT 
-potenziata di un Digimon.","大幅降低單體數碼寶貝
+124,,"Riduce notevolmente l'INT potenziata di
+un Digimon.","大幅降低單體數碼寶貝
 強化後的INT",,"디지몬 1마리의
 강화한 지력을 크게 떨어뜨린다.","Reduziert deutlich den erhöhten INT-Wert
 eines Digimon."
-125,,"Riduce leggermente la SPD 
-potenziata di un Digimon.","稍微降低單體數碼寶貝
+125,,"Riduce leggermente la SPD  potenziata di
+un Digimon.","稍微降低單體數碼寶貝
 強化後的SPD",,"디지몬 1마리의
 강화한 민첩을 약간 떨어뜨린다.","Reduziert leicht den erhöhten GES-Wert
 eines Digimon."
-126,,"Riduce la SPD potenziata
-di un Digimon.","降低單體數碼寶貝
+126,,"Riduce la SPD potenziata di un Digimon.","降低單體數碼寶貝
 強化後的SPD",,"디지몬 1마리의
 강화한 민첩을 떨어뜨린다.","Reduziert den erhöhten GES-Wert
 eines Digimon."
-127,,"Riduce notevolmente la SPD 
-potenziata di un Digimon.","大幅降低單體數碼寶貝
+127,,"Riduce notevolmente la SPD potenziata di un Digimon.","大幅降低單體數碼寶貝
 強化後的SPD",,"디지몬 1마리의
 강화한 민첩을 크게 떨어뜨린다.","Reduziert deutlich den erhöhten GES-Wert
 eines Digimon."
@@ -1441,7 +1435,7 @@ nella primavera della gioventù. /Costume","有著青春氣息的井之電高中
  /코스튬","Schuluniform der Inoden High School.
 /Kostüm"
 804,,"T-shirt con l'emblema del team Hudie
-impresso sopra. /Costume","有著駭客隊伍「hudie」徽章的T-Shirt
+stampato sopra. /Costume","有著駭客隊伍「hudie」徽章的T-Shirt
 ／換裝道具",,"팀「후디에」의 엠블럼이
 그려진 티셔츠 /코스튬","T-Shirt mit dem Hudie-Logo.
 /Kostüm"
@@ -1450,8 +1444,8 @@ stampato sopra. /Costume","有著駭客隊伍「hudie」徽章的T-Shirt
 ／換裝道具",,"팀「후디에」의 엠블럼이
 그려진 티셔츠 /코스튬","T-Shirt mit dem Hudie-Logo.
 /Kostüm"
-806,,"T-shirt con segni circolari
-che ricordano un Cyber Detective. /Costume","以◎符號的電腦偵探為印象的T-Shirt
+806,,"T-shirt con segni circolari che
+ricordano un Cyber Detective. /Costume","以◎符號的電腦偵探為印象的T-Shirt
 ／換裝道具",,"◎인장으로 전뇌탐정을 이미지한 티셔츠
  /코스튬","T-Shirt mit Kreissymbolen, die an einen
 Cyber-Detektiv erinnern. /Kostüm"
@@ -1625,18 +1619,18 @@ impressa sopra. /Costume","大膽放上墮天地獄獸徽章的T-Shirt
 ／換裝道具",,"베르제브몬 엠블럼을 대담하게 배치한
 티셔츠 /코스튬","T-Shirt mit dem Beelzemon-Logo.
 /Kostüm"
-841,,"T-shirt creata per commemorare
-il 15°anniversario di Digimon. /Costume","紀念數碼寶貝15週年所設計的
+841,,"T-shirt creata per commemorare il
+15°anniversario di Digimon. /Costume","紀念數碼寶貝15週年所設計的
 特別T-Shirt／換裝道具",,"디지몬 15주년을 기념해 디자인된
 특별 티셔츠 /코스튬","T-Shirt zum 15-jährigen
 Digimon-Jubiläum. /Kostüm"
-842,,"T-shirt progettata per commemorare
-il 20°anniversario di Digimon. /Costume","紀念數碼寶貝20週年所設計的
+842,,"T-shirt creata per commemorare il
+20°anniversario di Digimon. /Costume","紀念數碼寶貝20週年所設計的
 特別T-Shirt／換裝道具",,"디지몬 20주년을 기념해 디자인된
 특별 티셔츠 /코스튬","T-Shirt zum 20-jährigen
 Digimon-Jubiläum. /Kostüm"
-843,,"T-shirt con il logo del marchio di abbigliamento maschile
-del campo estivo. /Costume","有著男裝品牌「SUMMER CAMP」的
+843,,"T-shirt con il logo del marchio di abbigliamento
+maschile del campo estivo. /Costume","有著男裝品牌「SUMMER CAMP」的
 T-Shirt／換裝道具",,"남성용 브랜드「SUMMER CAMP」
 로고가 들어간 티셔츠 /코스튬","T-Shirt mit dem Markenlogo für „Summer
 Camp“. /Kostüm"
