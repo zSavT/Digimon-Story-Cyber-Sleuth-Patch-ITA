@@ -44,8 +44,8 @@ ID,Japanese,English,Chinese,EnglishCensored,Korean,German
 1802,,Controlla lo stato dell'indagine del caso.,可以確認委託的調查狀況。,,의뢰의 조사 상황을 확인할 수 있습니다.,Prüfe den Status der Ermittlungen.
 1803,,Controlla i tutorial che hai già visualizzato.,可以再次查看新手教學。,,한번 본 튜토리얼을 확인할 수 있습니다.,Wiederhole bereits angesehene Anleitungen.
 1900,,Seleziona l'oggetto da usare.,請選擇要使用的道具。,,사용할 아이템을 선택해주세요.,Wähle ein Item aus.
-1901,,Seleziona i Digimon da utilizzare.,請選擇要使用的數碼寶貝。,,사용할 디지몬을 선택해주세요.,Wähle Digimon aus.
-1902,,Seleziona i Digimon da usare.,請選擇要使用的數碼寶貝。,,사용할 디지몬을 선택해주세요.,Wähle Digimon aus.
+1901,,Seleziona Digimon,請選擇要使用的數碼寶貝。,,사용할 디지몬을 선택해주세요.,Wähle Digimon aus.
+1902,,Seleziona Digimon,請選擇要使用的數碼寶貝。,,사용할 디지몬을 선택해주세요.,Wähle Digimon aus.
 2000,,Seleziona una parola chiave per visualizzarne i dettagli.,請選擇要確認詳細內容的關鍵字。,,상세 정보를 확인하고 싶은 키워드를 선택해주세요.,"Wähle ein Stichwort aus, um mehr zu erfahren."
 2200,,Imposta il volume della musica.,設定BGM音量。,,BGM의 볼륨을 설정합니다.,Stelle die Musiklautstärke ein.
 2201,,Imposta il volume degli effetti sonori.,設定SE音量。,,SE의 볼륨을 설정합니다.,Stelle die Effektlautstärke ein.
@@ -88,7 +88,7 @@ ID,Japanese,English,Chinese,EnglishCensored,Korean,German
 3202,,Controlla le informazioni del giocatore e i casi sotto indagine.,可以確認玩家資訊或調查中的委託。,,플레이어의 정보나 조사 중인 의뢰를 확인할 수 있습니다.,Betrachte Spielerinformationen und laufende Fälle.
 3203,,Controlla le parole chiave in tuo possesso.,可以確認持有關鍵字。,,소지하고 있는 키워드를 확인할 수 있습니다.,Betrachte die Stichwörter in deinem Besitz.
 3204,,"Modifica le impostazioni audio, delle scene d'intermezzo e della mappa all'interno del gioco.",可以設定遊戲內的音效、演出、地圖。,,게임 내의 소리/연출/맵의 설정을 할 수 있습니다.,"Passe Einstellungen für Audio, Videos und die Karte an."
-3205,,Controlla i dettagli dei Digimon registrati nel Field Guide.,可以確認登錄於圖鑑上的數碼寶貝詳細資訊。,,도감에 등록한 디지몬의 자세한 정보를 확인할 수 있습니다.,Schau dir die Infos zu den erfassten Digimon im Digiführer an.
+3205,,Consulta le informazioni sui Digimon registrati nella Guida sul Campo.,可以確認登錄於圖鑑上的數碼寶貝詳細資訊。,,도감에 등록한 디지몬의 자세한 정보를 확인할 수 있습니다.,Schau dir die Infos zu den erfassten Digimon im Digiführer an.
 3206,,Leggi e rispondi ai messaggi ricevuti.,可以確認或回覆收到的訊息。,,수신한 메시지의 확인 및 답장을 할 수 있습니다.,Lies und beantworte empfangene Nachrichten.
 3207,,Salva la partita.,可以進行保存。,,저장을 할 수 있습니다.,Speichere das Spiel.
 3208,,Scambia Digimon Combattenti o In Riserva.,可以交換戰鬥成員和候補成員。,,배틀 멤버와 리저브 멤버의 교체가 가능합니다.,Tausche kämpfende oder Reserve-Digimon aus.
@@ -99,7 +99,7 @@ ID,Japanese,English,Chinese,EnglishCensored,Korean,German
 3213,,"Controlla le statistiche, l'equipaggiamento e le abilità dei tuoi Digimon.",可以確認數碼寶貝的狀態、裝備、技能。,,디지몬의 스테이터스/장비/스킬을 확인할 수 있습니다.,"Prüfe Werte, Ausrüstung und Fertigkeiten deiner Digimon."
 3214,,"Controlla le Statistiche, l'Equipaggiamento e le Abilità dei tuoi Digimon.",可以確認數碼寶貝的狀態、裝備、技能。,,디지몬의 스테이터스/장비/스킬을 확인할 수 있습니다.,"Prüfe Werte, Ausrüstung und Fertigkeiten deiner Digimon."
 3215,,Seleziona il Digimon da controllare.,請選擇要確認狀態的數碼寶貝。,,스테이터스를 확인할 디지몬을 선택해주세요.,Wähle ein Digimon zum Betrachten aus.
-3300,,Seleziona un'area in cui andare.,請選擇要前往的區域。,,가고 싶은 에어리어를 선택해주세요.,"Wähle ein Gebiet aus, in das du dich begeben möchtest."
+3300,,Seleziona una zona che desideri visitare.,請選擇要前往的區域。,,가고 싶은 에어리어를 선택해주세요.,"Wähle ein Gebiet aus, in das du dich begeben möchtest."
 3400,,"Cambia il nome, le Abilità e le impostazioni dell'Equipaggiamento del tuo Digimon.",可以設定數碼寶貝的名稱、技能、裝備。,,디지몬의 이름/기술/장비품의 설정을 할 수 있습니다.,"Ändere Namen, Fertigkeiten und Ausrüstung deines Digimon."
 3401,,"Controlla le statistiche, l'equipaggiamento e le abilità dei tuoi Digimon.",可以確認數碼寶貝的狀態、裝備、技能。,,디지몬의 스테이터스/장비/스킬을 확인할 수 있습니다.,"Prüfe Werte, Ausrüstung und Fertigkeiten deiner Digimon."
 3402,,"Controlla le Statistiche, l'Equipaggiamento e le Abilità dei tuoi Digimon.",可以確認數碼寶貝的狀態、裝備、技能。,,디지몬의 스테이터스/장비/스킬을 확인할 수 있습니다.,"Prüfe Werte, Ausrüstung und Fertigkeiten deiner Digimon."
@@ -189,7 +189,7 @@ ID,Japanese,English,Chinese,EnglishCensored,Korean,German
 3803,,Controlla i post BBS disponibili che puoi investigare.,確認目前可調查的電子布告欄發文。,,현재 조사 가능한 전자 게시판 투고를 확인합니다.,"Überprüfe die ATL-Beiträge, die du ermitteln kannst. "
 3804,,Acquista Digimon dal dark web.,可以從地下網站購買數碼寶貝。,,암시장에서 디지몬을 구입할 수 있습니다.,Kaufe Digimon im Darknet.
 3805,,Analizza la Hacker's Memory acquisita.,解析獲得的「駭客記憶」。,,입수한「해커스 메모리」를 해석합니다.,Analysiere die erhaltenen „Hacker's Memory“-Dateien.
-3900,,Seleziona un costume in cui trasformarti.,請選擇要更換的裝扮。,,갈아입힐 코스튬을 선택해주세요.,Bitte wähle ein Kostüm zum Anziehen.
+3900,,Scegli un costume da indossare.,請選擇要更換的裝扮。,,갈아입힐 코스튬을 선택해주세요.,Bitte wähle ein Kostüm zum Anziehen.
 2970,,Trova un avversario.,搜尋對戰對手。,,대전 상대를 검색합니다.,Finde einen Gegner.
 2971,,Crea una stanza e recluta un avversario.,製作房間，募集對戰對手。,,룸을 작성하고 대전 상대를 모집합니다.,Erstelle einen Raum und wirb einen Gegner an.
 2972,,Trova un avversario e combatti.,搜尋對戰對手，找到對手便開始對戰。,,대전 상대를 검색합니다. 대전 상대를 발견하면 전투가 시작됩니다.,Finde einen Gegner und kämpfe.
