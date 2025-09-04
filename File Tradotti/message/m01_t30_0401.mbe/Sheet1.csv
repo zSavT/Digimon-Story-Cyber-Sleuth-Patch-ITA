@@ -1,14 +1,14 @@
 ﻿ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
 1,4256,,"Ah, quindi puoi sentire la mia voce.",看來你聽到我的聲音了。,,내 목소리가 닿은 모양이네,"Ah, meine Stimme kannst du also hören."
 2,4256,,"Benvenuto al DigiLab. Questo posto ha una
-debole connessione con il Mondo Digitale. Un
-paradiso per i Digimon.","——歡迎來到「數碼實驗室」。
+debole connessione con il Mondo Digitale.
+Un paradiso per i Digimon.","——歡迎來到「數碼實驗室」。
 這裡和數碼世界有些微的交集，是數碼寶貝們的樂園。",,"―어서 와「디지랩」에
 이곳은 디지털 월드와 희미하게 교차하고 있는, 디지몬들의 낙원","Willkommen im DigiLab. Hier besteht eine schwache
 Verbindung mit der Digitalen Welt. Also ein
 Paradies für Digimon."
-3,4256,,"Io sono Mirei Mikagura. Ti apro
-questo paradiso!","我叫做「御神樂米蕾」。
+3,4256,,"Io sono Mirei Mikagura.
+Ti apro questo paradiso!","我叫做「御神樂米蕾」。
 我幫你開啟這個樂園。",,"난「미카구라 미레이」
 너에게, 이 낙원을 개방해 주겠어","Ich bin Mirei Mikagura.
 Ich eröffne dir dieses Paradies!"
@@ -18,8 +18,8 @@ Digi...Lab?","數碼世界……？
 數碼……實驗室？",,"디지털 월드…?
 디지…랩?","Digitale Welt?
 Digi ... Lab?"
-6,3013,,"Va bene se non lo
-sai. Almeno per ora.","不懂就算了，不會有什麼問題，
+6,3013,,"Va bene se non lo sai.
+Almeno per ora.","不懂就算了，不會有什麼問題，
 至少目前為止還是如此……",,"모른다면 모르는 대로, 별로 상관없어
 지금은, 말이지","Es ist schon in Ordnung, wenn du nichts darüber
 weißt. Zumindest für den Moment."
@@ -40,13 +40,12 @@ ganz."
 13,3013,,"Stai iniziando a sviluppare una profonda
 connessione con i Digimon.",你正開始與數碼寶貝建立深厚的“關係”。,,"넌 디지몬과, 깊은 ""교류""를 시작하고 있어","Du entwickelst allmählich eine tiefgehende
 Verbindung mit Digimon."
-14,3013,,"I nostri fili del destino si sono intrecciati e mi
-hanno attirato, e così ho trovato te.","我正是被你們之間的「命運交叉點」吸引而來——
+14,3013,,"I nostri fili del destino si sono intrecciati
+e mi hanno attirato, e così ho trovato te.","我正是被你們之間的「命運交叉點」吸引而來——
 然後遇見了你。",,"그 ""운명의 교차""에, 난 이끌렸고―
 널 찾았어","Unsere Schicksale sind miteinander verknüpft.
 Also habe ich dich gefunden."
-15,3013,,"In altre parole, sei stato tu a
-chiamarmi.",所以算是我……被你叫來這裡的。,,"즉 나를, 네가 부른 거야","Mit anderen Worten, du hast in Wahrheit mich
+15,3013,,"In altre parole, sei stato tu a chiamarmi.",所以算是我……被你叫來這裡的。,,"즉 나를, 네가 부른 거야","Mit anderen Worten, du hast in Wahrheit mich
 gerufen."
 16,3013,,Ma per ora basta così.,我們先聊到這裡吧……,,…얘기는 이 정도로 하자,Aber das genügt für den Moment.
 17,3013,,"Innanzitutto, che razza di posto è questo? 

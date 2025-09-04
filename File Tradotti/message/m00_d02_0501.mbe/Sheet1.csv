@@ -61,10 +61,10 @@ keinen Sinn! Nicht, dass ich Angst hätte oder ..."
 15,4245,,Buu!,我恨啊……！,,…원통하도다,Buh!
 16,3002,,YEEEEEEEEEEEEK!,︿＆＊％＆＠＃％＠＃—————！？！,,두와악규와악―――――!?!,AAAAAHHHHHH!
 17,4245,,"Ehi, calma.
-Non starai mica esagerando un po', vero?",喂……妳嚇成這樣也太誇張。,,야… 너무 쫄았잖아,"He, ganz ruhig.
+Non starai mica esagerando un po', non credi?",喂……妳嚇成這樣也太誇張。,,야… 너무 쫄았잖아,"He, ganz ruhig.
 Du übertreibst ein bisschen, findest du nicht?"
-18,3002,,"Oh, cielo, Arata. Sei solo
-tu. Io... Io pensavo fossi un fantasma.","什……什麼啊？原來是「新」啊……原來只是新啊……
+18,3002,,"Oh, cielo, Arata. Sei solo tu. Io...
+Io pensavo fossi un fantasma.","什……什麼啊？原來是「新」啊……原來只是新啊……
 我……我還以為是幽靈……",,"뭐, 뭐야,「아라타」잖아… 그냥 아라타잖아…
 유, 유령인 줄 알았어…","Ach, uff, Arata. Du bist es nur.
 Ich ... Ich dachte, du wärst ein Geist."
@@ -73,8 +73,8 @@ un posto come questo se sei fifona, sai.","受不了妳……明明是個膽小�
 大搖大擺的跑來這種地方！",,"…정말이지, 겁쟁이인 주제에, 허세 부리면서
 이런 곳에 태연하게 오지 말라고","Pfff. Wenn du ein Angsthase bist, brauchst du ja
 nicht herkommen und so tun, als wärst du mutig."
-20,3002,,"Ehi! Sei tu quello che mi ha scaricata
-in un posto come questo, Arata, verme viscido buono a nulla--","哼！把……把我丟在“這種地方”的，不就是你嗎？
+20,3002,,"Ehi! Sei tu quello che mi ha scaricata in
+un posto come questo, Arata, verme viscido buono a nulla--","哼！把……把我丟在“這種地方”的，不就是你嗎？
 你這個沒血沒淚的傢伙———！",,"하아!? 그, 그 ""이런 곳""에 혼자 내버려 두고 간 건
 어디의 어느 아라타인데!? 네놈 피는 무슨 맛이냐―――!?","He! Du warst es doch, der mich hier
 abgehängt hat, Arata, du widerlicher, kleiner ..."
@@ -112,8 +112,8 @@ hat so einen komischen Blick drauf ..."
 30,3002,,"Cioè, si parla di uno spreco di bellezza, no?",你看看……一個大帥哥就這樣浪費了！,,"마치, 좋은 외모를 낭비하는 느낌?","Warum hat sich die Natur an dem
 bloß so verausgabt ...?"
 31,3004,,"Lascia le stupidaggini per dopo, okay?",請不要理這個笨蛋……,,…바보는 방치해 줘,"Spar dir das dumme Geschwätz für später, ja?"
-32,3004,,"Quindi, mentre aspettavo [p], mi 
-sono guardato un po' intorno.","在等你的這段期間，
+32,3004,,"Quindi, mentre aspettavo [p],
+mi  sono guardato un po' intorno.","在等你的這段期間，
 我在這附近繞了一下——",,"그래서― [p]를(을) 기다리는 사이에
 이 주변을 탐색해봤어","Beim Warten auf [p]
 habe ich mich ein wenig umgesehen."
@@ -124,8 +124,8 @@ hierherbestellt hat, vielleicht da wäre."
 35,3004,,"Beh, stavo facendo un po’ entrambe le cose.",嗯……順便找NAVIT……,,"뭐… 그 김에, 말이지","Na ja, das auch ein bisschen."
 36,3004,,"Ma alla fine, non ho trovato nessuno dei due.",結果兩個都沒找到。,,"결국, 둘 다 못 찾았지만",Aber am Ende habe ich keinen von beiden gefunden.
 37,3004,,"Più che altro, non c’è proprio nessuno in giro.
-Pensavo ci potessero essere almeno due o tre
-hacker, non importa quanto pericolosa fosse la zona.","不但找不到，連半個人影都沒看到……
+Pensavo ci potessero essere almeno due o tre hacker,
+non importa quanto pericolosa fosse la zona.","不但找不到，連半個人影都沒看到……
 就算Kowloon是個危險區域，至少也該有一兩個駭客吧－",,"그렇기는커녕, 한 사람도 없었어…
 아무리 쿠롱이 위험 에어리어여도, 해커 한두 명은―","Es gab überhaupt niemanden, den ich hätte finden
 können. In einem Gebiet wie Kowloon würde man
@@ -137,8 +137,7 @@ e ragazze che siete venuti qui oggi!","嗨！讓各位久等了！我是NAVIT！
 모여준 착한 너희들에게, 선물을 줄게!","Entschuldigt vielmals die Verspätung! Ich bin
 Herr Navit! Für all die braven Jungs und Mädchen
 habe ich Geschenke mitgebracht!"
-39,4242,,"Questo è il potere miracoloso di 
-cambiare il mondo!",這是能夠改變世界的“奇蹟(力量)”唷！,,"이건, 세계를 바꿀 수 있는 ""기적(힘)""이야!","Und zwar die wundersame Kraft,
+39,4242,,"Questo è il potere miracoloso di cambiare il mondo!",這是能夠改變世界的“奇蹟(力量)”唷！,,"이건, 세계를 바꿀 수 있는 ""기적(힘)""이야!","Und zwar die wundersame Kraft,
 die Welt zu verändern!"
 40,3002,,Eh? Cosa? Che cos'è questo?,咦？嗯？這是……什麼？,,에? 에? 뭐야… 이거?,Hä? Wie? Was ist los?
 41,3004,,È hacking! Siamo stati tutti hackerati!,是「非法入侵」！我們全部都被駭客入侵了！,,"…「해킹」이야! 우리들 모두, 해킹 당하고 있어!",Hacking! Wir wurden alle gehackt!
@@ -148,8 +147,8 @@ Cattura Digimon!","新程式「數碼寶貝捕捉器」，
 已安裝完畢。",,"신규 프로그램―『디지몬 캡처』가
 인스톨 되었습니다","Ein neues Programm wurde installiert:
 Digimon-Fang!"
-44,3004,,"Wow. Questo tale Mr. Navit non è uno
-scansafatiche. Ha sfondato il mio firewall come se niente fosse.","可惡！居然輕易突破我的“防火牆”。
+44,3004,,"Wow. Questo tale Mr. Navit non è uno scansafatiche.
+Ha sfondato il mio firewall come se niente fosse.","可惡！居然輕易突破我的“防火牆”。
 NAVIT這傢伙……有兩下子……",,"칫, 내 ""방벽""을 간단하게 돌파했어
 수완가구만… 내빗이라는 녀석","Wow, dieser Herr Navit kann was. Der ist
 einfach so durch meine Firewall spaziert."
@@ -165,8 +164,8 @@ Digimon-Anwendungen laufen zu lassen"
 48,3002,,"Aspetta, quindi quando dici ""Digimon"", intendi tipo,
 ""Digimon"" Digimon?!",喂……數碼寶貝……難道是指那個「數碼寶貝」……？,,"저, 저기~… 디지몬…이란게, 그「디지몬」…!?","Moment mal, mit „Digimon“ meinst du also
 DIE Digimon?!"
-49,3004,,"Sì, quei Digimon. Quelli a
-cui sei così interessata.",是啊……就是妳很感興趣的那個「數碼寶貝」吧！,,"그래, 댁이 흥미진진했던, 그「디지몬」이겠지","Ja, genau die Digimon. Die, die dich
+49,3004,,"Sì, quei Digimon.
+Quelli a cui sei così interessata.",是啊……就是妳很感興趣的那個「數碼寶貝」吧！,,"그래, 댁이 흥미진진했던, 그「디지몬」이겠지","Ja, genau die Digimon. Die, die dich
 so brennend interessieren."
 50,3004,,"Mmmh... Pare che esista un certo tipo di
 dati conosciuto come ""Mostri Digitali"" che puoi
@@ -175,8 +174,7 @@ dati conosciuto come ""Mostri Digitali"" che puoi
 스캔해서 ""캡처한다(붙잡는다)""…라고","Hmmm ... Es gibt eine Art von Daten, die man
 „digitale Monster“ nennt. Über einen Scanvorgang
 kann man sie laut diesem Ding einfangen."
-51,3004,,"Ah, quindi ""Digimon"" È
-l'abbreviazione di ""Digital Monster"".",啊……看來這個「數碼寶貝」真的是指那個「數碼寶貝」！,,"오, 역시「디지몬」은「디지털 몬스터」의 줄임말인가 봐","Aha, „Digimon“ heißt also DOCH
+51,3004,,"Ah, quindi ""Digimon"" È l'abbreviazione di ""Digital Monster"".",啊……看來這個「數碼寶貝」真的是指那個「數碼寶貝」！,,"오, 역시「디지몬」은「디지털 몬스터」의 줄임말인가 봐","Aha, „Digimon“ heißt also DOCH
 „digitale Monster“."
 52,3002,,"Cosa? Wow, hey, aspetta! I Digimon sono tipo,
 programmi sgradevoli che gli hacker usano, giusto?","咦？咦咦咦……！？
