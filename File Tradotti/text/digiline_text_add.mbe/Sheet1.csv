@@ -3209,7 +3209,7 @@ Delikatessen stammt von Fischen?"
 10024,,8,是八人！,,8개다!,8
 10025,,Tipo di dati,是資料種,,데이터종이야,Datei-Typ
 10026,,Tipo Virus,是病毒種嗎？,,바이러스종일까?,Virus-Typ
-10027,,Tipo libero,是自由種吧！,,프리종이지!,Freier Typ
+10027,,Tipo Neutrale,是自由種吧！,,프리종이지!,Freier Typ
 10028,,Campione,成熟期,,성숙기려나,Champion
 10029,,Ultra,完全體對吧？,,완전체지?,Ultra
 10030,,Mega,一定是究極體！,,궁극체밖에 없지!,Mega
@@ -3388,7 +3388,7 @@ Trainieren"
 10201,,Paga Mirei,向米蕾付錢,,미레이에게 돈을 낸다,Mirei bezahlen
 10202,,Tipo di dati,是資料種嗎？,,데이터종이었던가?,Datei-Typ
 10203,,Tipo Vaccine,是疫苗種對吧？,,백신종이잖아?,Serum-Typ
-10204,,Tipo libero,應該是自由種,,프리종이었을 거야,Freier Typ
+10204,,Tipo Neutrale,應該是自由種,,프리종이었을 거야,Freier Typ
 10205,,Attributo Elettrico,雷屬性吧？,,전기속성이잖아?,Elektrisch
 10206,,Attributo Acqua,水屬性嗎？,,물속성이려나?,Wasser
 10207,,Attributo Terra,是土屬性,,땅속성이야,Erde
@@ -3523,7 +3523,7 @@ Du bist fantastisch!"
 11008,,"""6"" è corretto!
 Sei fantastico!","答對了答對了！　是「6人」喔
 你好厲害喔！",,정답!「6개」야. 너는 역시 굉장해!,„6“ ist richtig! Du bist fantastisch!
-11009,,"""Tipo libero"" è corretto!
+11009,,"""Tipo Neutrale"" è corretto!
 Sei fantastico!","答對了答對了！　是「自由種」喔
 你好厲害喔！",,"정답!「프리종」이야.
 너는 역시 굉장해!","„Freier Typ“ ist richtig!
@@ -3977,7 +3977,7 @@ Nicht schlecht!"
 12007,,"""Fragarach""... Corretto. Non male!",「佛拉格拉克」……答對了。厲害,,「프라가라흐」…정답이다. 제법이군.,"„Fragarach“ ... Richtig.
 Nicht schlecht!"
 12008,,"""6""... Corretto. Non male!",「6人」……答對了。厲害,,「6개」…정답이다. 제법이군.,„6“ ... Richtig. Nicht schlecht!
-12009,,"""Tipo Libero""... Esatto. Non male!",「自由種」……答對了。厲害,,「프리종」…정답이다. 제법이군.,"„Freier Typ“ ... Richtig.
+12009,,"""Tipo Neutrale""... Esatto. Non male!",「自由種」……答對了。厲害,,「프리종」…정답이다. 제법이군.,"„Freier Typ“ ... Richtig.
 Nicht schlecht!"
 12010,,"""Ultra""... Corretto. Non male!",「完全體」……答對了。厲害,,「완전체」…정답이다. 제법이군.,„Ultra“ ... Richtig. Nicht schlecht!
 12011,,"""Spirito Bestia della Luce""... Corretto. Non male!",「光之野獸鬥士精神」……答對了。厲害,,「빛의 비스트 스피릿」…정답이다. 제법이군.,"„Bestiengeist des Lichts“ ... Richtig.
@@ -4181,7 +4181,7 @@ Die Antwort ist „Gungnir“!"
 ""Fragarach""!",喔，答對了！　答案是「佛拉格拉克」！,,"오, 정답이군! 답은「프라가라흐」지!","Wow, das stimmt!
 Die Antwort ist „Fragarach“!"
 13008,,"Wow, ce l'hai fatta! La risposta è ""6""!",喔，答對了！　答案是「6人」！,,"오, 정답이군! 답은「6개」지!","Wow, das stimmt! Die Antwort ist „6“!"
-13009,,"Wow, ce l'hai fatta! La risposta è ""Tipo Libero""!",喔，答對了！　答案是「自由種」！,,"오, 정답이군! 답은「프리종」이지!","Wow, das stimmt!
+13009,,"Wow, ce l'hai fatta! La risposta è ""Tipo Neutrale""!",喔，答對了！　答案是「自由種」！,,"오, 정답이군! 답은「프리종」이지!","Wow, das stimmt!
 Die Antwort ist „Freier Typ“!"
 13010,,"Wow, ce l'hai fatta! La risposta è
 ""Ultra""!",喔，答對了！　答案是「完全體」！,,"오, 정답이군! 답은「완전체」지!","Wow, das stimmt!
@@ -4451,7 +4451,7 @@ Sono uova di pesce.","喔，答對了！　答案是「肥肝醬」！
 14007,,"Correttissimo! La risposta è
 ""Fragarach""!",答對了！　答案是「佛拉格拉克」！,,정답이야! 답은「프라가라흐」.,Korrekto! Die Antwort ist „Fragarach“!
 14008,,"Correctamundo! La risposta è ""6""!",答對了！　答案是「6人」！,,정답이야! 답은「6개」.,Korrekto! Die Antwort ist „6“!
-14009,,"Correctamundo! La risposta è ""Tipo Libero""!",答對了！　答案是「自由種」！,,정답이야! 답은「프리종」.,Korrekto! Die Antwort ist „Freier Typ“!
+14009,,"Correctamundo! La risposta è ""Tipo Neutrale""!",答對了！　答案是「自由種」！,,정답이야! 답은「프리종」.,Korrekto! Die Antwort ist „Freier Typ“!
 14010,,"Correctamundo! La risposta è ""Ultra""!",答對了！　答案是「完全體」！,,정답이야! 답은「완전체」.,Korrekto! Die Antwort ist „Ultra“!
 14011,,"Correctamundo! La risposta è ""Spirito Bestia della Luce""!",答對了！　答案是「光之野獸鬥士精神」！,,정답이야! 답은「빛의 비스트 스피릿」.,"Korrekto! Die Antwort ist „Bestiengeist
 des Lichts“!"
@@ -4659,7 +4659,7 @@ Das ist Fischrogen."
 15006,,"Accidenti. ""Gungnir"" è corretto!",真厲害，答對了！　答案是「昆克尼爾」！,,"굉장해, 맞았어!「궁니르」가 답이야.",Wahnsinn! „Gungnir“ ist richtig!
 15007,,"Be', non ci posso credere. ""Fragarach"" è corretto!",真厲害，答對了！　答案是「佛拉格拉克」！,,"굉장해, 맞았어!「프라가라흐」가 답이야.",Wahnsinn! „Fragarach“ ist richtig!
 15008,,"Accidenti. ""6"" è corretto!",真厲害，答對了！　答案是「6人」！,,"굉장해, 맞았어!「6개」가 답이야.",Wahnsinn! „6“ ist richtig!
-15009,,"Ma guarda un po'. ""Tipo libero"" è corretto!",真厲害，答對了！　答案是「自由種」！,,"굉장해, 맞았어!「프리종」이 답이야.",Wahnsinn! „Freier Typ“ ist richtig!
+15009,,"Ma guarda un po'. ""Tipo Neutrale"" è corretto!",真厲害，答對了！　答案是「自由種」！,,"굉장해, 맞았어!「프리종」이 답이야.",Wahnsinn! „Freier Typ“ ist richtig!
 15010,,"Oh, guarda un po'. ""Ultra"" è corretto!",真厲害，答對了！　答案是「完全體」！,,"굉장해, 맞았어!「완전체」가 답이야.",Wahnsinn! „Ultra“ ist richtig!
 15011,,"Ma guarda un po'. ""Spirito Bestia della Luce"" è corretto!",真厲害，答對了！　答案是「光之野獸鬥士精神」！,,"굉장해, 맞았어!「빛의 비스트 스피릿」가 답이야.","Wahnsinn! „Bestiengeist des Lichts“
 ist richtig!"
@@ -4856,7 +4856,7 @@ Das ist Fischrogen."
 你很厲害嘛",,정답입니다. 답은「프라가라흐」. 제법이군요.,"Sehr gut, die Antwort ist „Fragarach“!"
 16008,,"Ben fatto, la risposta è ""6""!","答對了。答案是「6人」
 你很厲害嘛",,정답입니다. 답은「6개」. 제법이군요.,"Sehr gut, die Antwort ist „6“!"
-16009,,"Ben fatto, la risposta è ""Tipo libero""!",答對了。答案是「自由種」。你很厲害嘛,,정답입니다. 답은「프리종」. 제법이군요.,"Sehr gut, die Antwort ist „Freier Typ“!"
+16009,,"Ben fatto, la risposta è ""Tipo Neutrale""!",答對了。答案是「自由種」。你很厲害嘛,,정답입니다. 답은「프리종」. 제법이군요.,"Sehr gut, die Antwort ist „Freier Typ“!"
 16010,,"Ben fatto, la risposta è ""Ultra""!",答對了。答案是「完全體」。你很厲害嘛,,정답입니다. 답은「완전체」. 제법이군요.,"Sehr gut, die Antwort ist „Ultra“!"
 16011,,"Ben fatto, la risposta è ""Spirito Bestia della Luce""!","答對了。答案是「光之野獸鬥士精神」
 你很厲害嘛",,"정답입니다. 답은「빛의 비스트 스피릿」.
@@ -5097,7 +5097,7 @@ Viel Glück beim nächsten Mal!"
 la prossima volta!","答錯了！　答案是「6人」
 下次要加油喔！",,땡! 답은「6개」. 다음엔 맞추자!,"Schade, die Antwort ist „6“.
 Viel Glück beim nächsten Mal!"
-21009,,"Peccato, la risposta è ""Tipo Libero"".
+21009,,"Peccato, la risposta è ""Tipo Neutrale"".
 Sarà per la prossima volta!","答錯了！　答案是「自由種」
 下次要加油喔！",,땡! 답은「프리종」. 다음엔 맞추자!,"Schade, die Antwort ist „Freier Typ“.
 Viel Glück beim nächsten Mal!"
@@ -5527,7 +5527,7 @@ Pass besser auf."
 22008,,"Sbagliato, la risposta è ""6"". Fai attenzione, ora.","答錯了。答案是「6人」
 下次別答錯了",,틀렸다. 답은「6개」. 다음엔 틀리지 마라.,"Falsch, die Antwort ist „6“.
 Pass besser auf."
-22009,,"Sbagliato, la risposta è ""Tipo Libero"".
+22009,,"Sbagliato, la risposta è ""Tipo Neutrale"".
 Attento, ora.","答錯了。答案是「自由種」
 下次別答錯了",,틀렸다. 답은「프리종」. 다음엔 틀리지 마라.,"Falsch, die Antwort ist „Freier Typ“.
 Pass besser auf."
@@ -5918,7 +5918,7 @@ Versuch’s noch mal!"
 23008,,"Accidenti, la risposta è ""6"". Riprova!","答錯了。答案是「6人」
 下次可不要答錯啊！",,틀렸어. 정답은「6개」야. 다음엔 틀리지 말라구!,"Mist, die Antwort ist „6“.
 Versuch’s noch mal!"
-23009,,"Accidenti, la risposta è ""Tipo Libero"". Riprova!","答錯了。答案是「自由種」
+23009,,"Accidenti, la risposta è ""Tipo Neutrale"". Riprova!","答錯了。答案是「自由種」
 下次可不要答錯啊！",,틀렸어. 정답은「프리종」이야. 다음엔 틀리지 말라구!,"Mist, die Antwort ist „Freier Typ“.
 Versuch’s noch mal!"
 23010,,"Accidenti, la risposta è ""Ultra"". Riprova!","答錯了。答案是「完全體」
@@ -6297,7 +6297,7 @@ Beim nächsten Mal!"
 prossima!","可惜...答案是「6人」
 下次要答對喔",,유감이야… 답은「6개」. 다음엔 맞추도록 해.,"Verflixt, die Antwort ist „6“.
 Beim nächsten Mal!"
-24009,,"Accidenti, la risposta è ""Tipo Libero"". Prenderai la prossima!","可惜...答案是「自由種」
+24009,,"Accidenti, la risposta è ""Tipo Neutrale"". Prenderai la prossima!","可惜...答案是「自由種」
 下次要答對喔",,유감이야… 답은「프리종」. 다음엔 맞추도록 해.,"Verflixt, die Antwort ist „Freier Typ“.
 Beim nächsten Mal!"
 24010,,"Accidenti, la risposta è ""Ultra"". Ci prenderai alla prossima!","可惜...答案是「完全體」
@@ -6709,7 +6709,7 @@ du liegst also falsch."
 25008,,"La risposta è ""6"", quindi hai sbagliato stavolta.","答案是「6人」，你答錯了喔
 下次要答對喔",,답은「6개」니까 틀렸어. 다음엔 맞춰줘.,"Die Antwort ist „6“,
 du liegst also falsch."
-25009,,"La risposta è ""Tipo libero"", quindi hai
+25009,,"La risposta è ""Tipo Neutrale"", quindi hai
 sbagliato questa volta.","答案是「自由種」，你答錯了喔
 下次要答對喔",,"답은「프리종」이니까 틀렸어.
 다음엔 맞춰줘.","Die Antwort ist „Freier Typ“,
@@ -7157,7 +7157,7 @@ Probier’s noch mal."
 26008,,"Errato. La risposta è ""6"". Riprova.","答錯了。答案是「6人」
 下次請答對",,틀렸습니다. 답은「6개」. 다음에는 맞춰주세요.,"Negativ. Die Antwort ist „6“.
 Probier’s noch mal."
-26009,,"Errato. La risposta è ""Tipo Libero"".
+26009,,"Errato. La risposta è ""Tipo Neutrale"".
 Prova ancora.","答錯了。答案是「自由種」
 下次請答對",,"틀렸습니다. 답은「프리종」
 다음에는 맞춰주세요.","Negativ. Die Antwort ist „Freier Typ“.
