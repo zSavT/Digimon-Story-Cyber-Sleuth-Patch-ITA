@@ -2,7 +2,7 @@ ID,Japanese,English,Chinese,EnglishCensored,Korean,German
 1,,AAAAAAAAAAAAAACCCCCCAAAAAAAAAAAAADDAAAAAAEEEFFFFGGGGG,あいうえおかきくけこ亜欝ＡＡＡＡＡＡＡＣＡＡＡＡＡＡＡＡＡＤＡＡＡＡＡＡＡＡＡＥＦ,,아야어여오요우쿠케코아AAAAAAACAAAAAAAAAAADAAAAAAEF,AAAAAAAAAAAAAACCCCCCAAAAAAAAAAAAADDAAAAAAEEEFFFFGGGGG
 1000,,Seleziona una posizione di salvataggio.,請選擇您要保存的位置。,,저장을 할 장소를 골라주세요.,Wähle einen Speicherort.
 1001,,Seleziona i dati da caricare.,請選擇您要讀取的檔案。,,불러올 데이터를 선택하십시오.,Wähle die zu ladenden Daten.
-1200,,"Sposta i tuoi Digimon nel Party, DigiBank o Isola Farm.",可以將持有數碼寶貝移動到隊伍、數碼銀行、農場島中。,,"소유한 디지몬을 파티, 디지털 뱅크, 팜 섬으로 이동할 수 있습니다.","Verschiebe Digimon in die Gruppe, Digibank oder Farminsel."
+1200,,"Sposta i tuoi Digimon nel Party, DigiBank o Isola Fattoria.",可以將持有數碼寶貝移動到隊伍、數碼銀行、農場島中。,,"소유한 디지몬을 파티, 디지털 뱅크, 팜 섬으로 이동할 수 있습니다.","Verschiebe Digimon in die Gruppe, Digibank oder Farminsel."
 1201,,Digievolvi o De-Digievolvi il tuo Digimon.,可以使持有數碼寶貝進化、退化。,,"소유한 디지몬의 진화, 퇴화가 가능합니다.",Lass deine Digimon digitieren oder de-digitieren.
 1202,,Consuma fino a cinque Digimon per potenziare uno dei tuoi Digimon.,最多可以消耗5隻持有數碼寶貝來強化1隻數碼寶貝。,,소유한 디지몬을 최대 5마리 소비하여 1마리의 디지몬을 강화합니다.,"Absorbiere bis zu fünf Digimon, um ein Digimon zu stärken."
 1203,,Materializza i Digimon con percentuali di Scan superiori al 100%.,掃描率超過100%的數碼寶貝將會實體化。,,스캔율이 100%를 넘어선 디지몬을 실체화합니다.,Materialisiere Digimon mit einem Scanwert über 100 %.
@@ -55,7 +55,7 @@ ID,Japanese,English,Chinese,EnglishCensored,Korean,German
 2205,,Imposta il tipo di cutscene mostrata durante la battaglia.,設定戰鬥演出的種類。,,배틀 시의 연출 종류를 설정합니다.,"Lege fest, welche Videosequenzen im Kampf gezeigt werden."
 2206,,Attiva/disattiva le voci dei Digimon del party durante la battaglia.,將戰鬥中的同行數碼寶貝的聲音設定為ON、OFF。,,배틀 시 파티 디지몬 보이스의 ON/OFF를 설정합니다.,Aktiviert/deaktiviert Stimmen der Digimongruppe im Kampf.
 2207,,Ripristina tutte le impostazioni predefinite.,將所有項目回復初期設定。,,모든 항목을 초기설정으로 되돌립니다.,Setze alles auf die Standardeinstellungen zurück.
-2208,,Mostra cosa è attualmente impostato.,套用目前設定的內容。,,지금 설정한 내용을 반영합니다.,Zeigt die aktuellen Einstellungen an.
+2208,,Applica le impostazioni attuali.,套用目前設定的內容。,,지금 설정한 내용을 반영합니다.,Zeigt die aktuellen Einstellungen an.
 2500,,Seleziona un messaggio a cui rispondere.,請選擇要回覆的訊息。,,답신할 메시지를 선택해주세요.,"Wähle eine Nachricht aus, um darauf zu antworten."
 2700,,Seleziona un dungeon da cui entrare.,請選擇要前往的迷宮。,,가고 싶은 던전을 선택해주세요.,"Wähle einen Dungeon aus, den du betreten möchtest."
 2800,,Questa è la collezione di medaglie dell'uomo delle medaglie.,獎牌大叔的獎牌收藏。,,메달 아저씨의 메달 컬렉션입니다.,Dies ist die Sammlung des Medaillensammlers.
@@ -66,13 +66,13 @@ ID,Japanese,English,Chinese,EnglishCensored,Korean,German
 2904,,Controlla in quale parte delle classifiche ti trovi.,確認排行榜上的個人排名。,,랭킹의 마이랭크 주변을 확인할 수 있습니다.,Sieh deinen Bereich in der Rangliste an.
 2905,,Mostra i primi 100 nella classifica.,顯示排行榜上的前100名玩家。,,랭킹의 상위 100인을 표시합니다.,Die Top 100 der Rangliste.
 2906,,Mostra la parte della classifica in cui ti trovi.,顯示排行榜上的個人排名。,,랭킹의 마이랭크 주변을 표시합니다.,Dein Bereich der Rangliste.
-3000,,Seleziona un'Isola Farm per dare un'occhiata.,請選擇要確認狀況的農場島。,,상태를 확인하고 싶은 팜 섬을 선택해주세요.,Wähle eine Farminsel aus.
-3001,,Usa un Kit di sviluppo Farm per costruire una nuova Isola Farm.,使用「農場島開發套件」增加新的農場島。,,"""팜 개발키트""를 사용해 새로운 팜 섬을 만듭니다.",Errichte mit einem Farmentwicklungs-Kit eine Farminsel.
+3000,,Seleziona un'Isola Fattoria per dare un'occhiata.,請選擇要確認狀況的農場島。,,상태를 확인하고 싶은 팜 섬을 선택해주세요.,Wähle eine Farminsel aus.
+3001,,Usa un Kit di sviluppo Farm per costruire una nuova Isola Fattoria.,使用「農場島開發套件」增加新的農場島。,,"""팜 개발키트""를 사용해 새로운 팜 섬을 만듭니다.",Errichte mit einem Farmentwicklungs-Kit eine Farminsel.
 3002,,Seleziona un oggetto da prendere.,請選擇要領取的道具。,,받을 아이템을 선택해주세요.,"Wähle ein Item aus, um es dir zu nehmen."
 3003,,"Comanda i tuoi Digimon per allenarsi, digievolvere o investigare.",可以對數碼寶貝下達特訓、開發、調查的指令。,,디지몬들의 특훈/개발/조사 지시를 할 수 있습니다.,"Lass Digimon trainieren, etwas entwickeln oder ermitteln."
-3004,,Cambia il leader dell'Isola Farm.,可以變更農場島的隊長。,,팜 섬의 리더를 변경할 수 있습니다.,Ändere den Anführer auf der Farminsel.
-3005,,Imposta i Beni Agricoli per un'Isola Farm.,可以設定農場島上設置的農場道具。,,팜 섬에 설치할 팜 굿즈를 설정할 수 있습니다.,Wähle Farmprodukte für eine Farminsel aus.
-3006,,Usa un Plugin di Espansione della Farm per aumentare il grado dell'Isola Farm.,可以使用「島嶼擴張外掛」提升農場島的位階。,,"""팜 확장 플러그인""을 사용해 팜 섬의 랭크를 올립니다.",Steigere per Farmerweiterungs-Plugin den Rang einer Insel.
+3004,,Cambia il leader dell'Isola Fattoria.,可以變更農場島的隊長。,,팜 섬의 리더를 변경할 수 있습니다.,Ändere den Anführer auf der Farminsel.
+3005,,Imposta i Prodotti Fattoria per un'Isola Fattoria.,可以設定農場島上設置的農場道具。,,팜 섬에 설치할 팜 굿즈를 설정할 수 있습니다.,Wähle Farmprodukte für eine Farminsel aus.
+3006,,Usa un Plugin di Espansione della Farm per aumentare il grado dell'Isola Fattoria.,可以使用「島嶼擴張外掛」提升農場島的位階。,,"""팜 확장 플러그인""을 사용해 팜 섬의 랭크를 올립니다.",Steigere per Farmerweiterungs-Plugin den Rang einer Insel.
 3007,,Osserva o nutri il tuo Digimon.,可以觀察數碼寶貝或給予食物。,,디지몬의 관찰이나 먹이를 줄 수 있습니다.,Beobachte oder füttere deine Digimon.
 3008,,Allena i tuoi Digimon per potenziarne le abilità.,特訓可以強化數碼寶貝的能力。,,훈련으로 디지몬의 능력를 강화할 수 있습니다.,"Trainiere deine Digimon, um ihre Fähigkeiten zu verbessern."
 3009,,Paga i costi di sviluppo per sviluppare oggetti.,開發可以支付開發經費製作道具。,,개발로 개발 자금을 지불할 아이템을 작성할 수 있습니다.,Entwickle gegen Entwicklungskosten Items.
@@ -80,7 +80,7 @@ ID,Japanese,English,Chinese,EnglishCensored,Korean,German
 3011,,Seleziona un corso di allenamento.,請選擇特訓難度。,,훈련하고 싶은 코스를 선택해주세요.,Wähle einen Trainingskurs aus.
 3012,,Seleziona il costo di sviluppo da pagare.,請選擇開發時要支付的開發經費。,,개발에 지불할 개발 자금을 선택해주세요.,Wähle die Entwicklungskosten aus.
 3013,,Seleziona il Digimon che sarà il leader.,請選擇要變更為隊長的數碼寶貝。,,리더로 변경할 디지몬을 선택해주세요.,Wähle ein Digimon als Anführer aus.
-3014,,Seleziona un luogo dove impostare le Merci della Farm.,請選擇農場道具的設置場所。,,팜 굿즈를 설치할 장소를 선택해주세요.,Wähle einen Ort für die Farmprodukte aus.
+3014,,Seleziona il luogo per i Prodotti Fattoria.,請選擇農場道具的設置場所。,,팜 굿즈를 설치할 장소를 선택해주세요.,Wähle einen Ort für die Farmprodukte aus.
 3015,,Seleziona i Beni per la Fattoria da impostare.,請選擇要設置的農場道具。,,설치할 팜 굿즈를 선택해주세요.,Wähle Farmprodukte aus.
 3100,,Seleziona una mappa in cui vuoi andare.,請選擇要前往的地圖。,,가고싶은 맵을 선택해주세요.,"Wähle eine Karte aus, um dich dorthin zu begeben."
 3200,,Organizza o imposta il gruppo.,可以整編、設定隊伍。,,파티의 편성/세팅을 할 수 있습니다.,Verwalte oder erstelle die Gruppe.
