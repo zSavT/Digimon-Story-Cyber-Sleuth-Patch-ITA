@@ -6,40 +6,32 @@ ID,Japanese,English,Chinese,EnglishCensored,Korean,German
 5,,Aumenta ACU del 15%.,ACU提升15%。,,명중률이 15% 상승한다.,Erhöht GEN um 15 %.
 6,,Aumenta EVA del 7%.,EVA提升15%。,,회피율이 15% 상승한다.,Erhöht AWN um 7 %.
 7,,Aumenta CRT del 15%.,CRT提升15%。,,크리티컬 발생률이 15% 상승한다.,Erhöht KRT um 15 %.
-8,,"Aumenta i danni dalle
-abilità Neutrali del 15%.",無屬性技能造成的傷害增加15%。,,"무속성 스킬의 대미지가
+8,,"Aumenta i danni delle abilità Neutrali del 15%.",無屬性技能造成的傷害增加15%。,,"무속성 스킬의 대미지가
 15% 증가한다.","Erhöht den Schaden von Neutralfertigkeiten
 um 15 %."
-9,,"Aumenta i danni delle
-tecniche di Fuoco del 15%.",火屬性技能造成的傷害增加15%。,,"불속성 스킬의 대미지가
+9,,"Aumenta i danni delle tecniche di Fuoco del 15%.",火屬性技能造成的傷害增加15%。,,"불속성 스킬의 대미지가
 15% 증가한다.","Erhöht den Schaden von Feuerfertigkeiten
 um 15 %."
-10,,"Aumenta il danno delle
-tecniche Acqua del 15%.",水屬性技能造成的傷害增加15%。,,"물속성 스킬의 대미지가
+10,,"Aumenta il danno delle tecniche Acqua del 15%.",水屬性技能造成的傷害增加15%。,,"물속성 스킬의 대미지가
 15% 증가한다.","Erhöht den Schaden von Wasserfertigkeiten
 um 15 %."
-11,,"Aumenta il danno delle
-abilità di tipo Pianta del 15%.",木屬性技能造成的傷害增加15%。,,"풀속성 스킬의 대미지가
+11,,"Aumenta il danno delle abilità di tipo Erba del
+15%.",木屬性技能造成的傷害增加15%。,,"풀속성 스킬의 대미지가
 15% 증가한다.","Erhöht den Schaden von Pflanzenfertigkeiten
 um 15 %."
-12,,"Aumenta i danni delle
-abilità di Elettricità del 15%.",雷屬性技能造成的傷害增加15%。,,"전기속성 스킬의 대미지가
+12,,"Aumenta i danni delle abilità di Elettricità del 15%.",雷屬性技能造成的傷害增加15%。,,"전기속성 스킬의 대미지가
 15% 증가한다.","Erhöht den Schaden von Elektrofertigkeiten
 um 15 %."
-13,,"Aumenta i danni delle
-abilità Terra del 15%.",土屬性技能造成的傷害增加15%。,,"땅속성 스킬의 대미지가
+13,,"Aumenta i danni delle abilità Terra del 15%.",土屬性技能造成的傷害增加15%。,,"땅속성 스킬의 대미지가
 15% 증가한다.","Erhöht den Schaden von Erdfertigkeiten
 um 15 %."
-14,,"Aumenta i danni delle
-abilità Vento del 15%.",風屬性技能造成的傷害增加15%。,,"바람속성 스킬의 대미지가
+14,,"Aumenta i danni delle abilità Vento del 15%.",風屬性技能造成的傷害增加15%。,,"바람속성 스킬의 대미지가
 15% 증가한다.","Erhöht den Schaden von Windfertigkeiten
 um 15 %."
-15,,"Aumenta i danni delle
-abilità di Luce del 15%.",光屬性技能造成的傷害增加15%。,,"빛속성 스킬의 대미지가
+15,,"Aumenta i danni delle abilità di Luce del 15%.",光屬性技能造成的傷害增加15%。,,"빛속성 스킬의 대미지가
 15% 증가한다.","Erhöht den Schaden von Lichtfertigkeiten
 um 15 %."
-16,,"Aumenta i danni delle
-abilità Oscure del 15%.",闇屬性技能造成的傷害增加15%。,,"어둠속성 스킬의 대미지가
+16,,"Aumenta i danni delle abilità Oscure del 15%.",闇屬性技能造成的傷害增加15%。,,"어둠속성 스킬의 대미지가
 15% 증가한다.","Erhöht den Schaden von Dunkelfertigkeiten
 um 15 %."
 17,,Previene l'avvelenamento.,不會陷入劇毒狀態,,맹독에 걸리지 않는다.,Verhindert Vergiftung.
@@ -74,40 +66,43 @@ quando si attacca.","發動攻擊時，
 有10%的機率使對方暈眩。",,"공격을 할 때 10%의 확률로 
 대상을 스턴 상태로 만든다.","10 % Chance, das Ziel bei einem Angriff zu
 betäuben."
-29,,"10% di probabilità di far subire status alterato ""puntini"" al bersaglio
-quando si attacca.","發動攻擊時，
+29,,"10% di probabilità di far subire status alterato
+""dot"" al bersaglio quando si attacca.","發動攻擊時，
 有10%的機率使對方液晶化。",,"공격을 할 때 10%의 확률로 
 대상을 액정화 상태로 만든다.","10 % Chance, das Ziel bei einem Angriff zu
 verpixeln."
-30,,"10% di probabilità di uccidere istantaneamente il bersaglio
-durante l'attacco.","發動攻擊時，
+30,,"10% di probabilità di uccidere istantaneamente il
+bersaglio durante l'attacco.","發動攻擊時，
 有10%的機率使對方立即死亡。",,"공격을 할 때 10%의 확률로 
 대상을 즉사시킨다.","10 % Chance, das Ziel bei einem Angriff
 sofort zu töten."
-31,,"Aumenta del 10% la probabilità che 
-le combo si verifichino e continuino.",連擊的發生、持續機率提升10%,,"콤보가 발생/이어질 확률이
+31,,"Aumenta del 10% la probabilità che le combo
+si verifichino e continuino.",連擊的發生、持續機率提升10%,,"콤보가 발생/이어질 확률이
 10% 상승한다.","Erhöht die Wahrscheinlichkeit, Kombos
 auszuführen oder fortzusetzen, um 10 %."
 32,,Rende più facile fuggire dalla battaglia.,逃脫變得更容易成功。,,도주에 성공하기 쉬워진다.,Erleichtert die Flucht aus dem Kampf.
 33,,Aumenta l'EXP guadagnata in battaglia.,增加戰鬥時獲取的EXP。,,배틀로 얻는 EXP가 증가한다.,Erhöht die in Kämpfen gewonnenen EP.
 34,,Aumenta gli YEN guadagnati in battaglia.,增加戰鬥時獲取的YEN。,,배틀로 얻는 YEN이 증가한다.,Erhöht die in Kämpfen gewonnenen Yen.
-35,,Aumenta la probabilità che i nemici rilascino oggetti.,增加敵人掉落道具的機率。,,적이 아이템을 떨어뜨릴 확률이 증가한다.,"Sorgt dafür, dass Gegner mehr Beute
+35,,"Aumenta la probabilità che i nemici rilascino
+oggetti.",增加敵人掉落道具的機率。,,적이 아이템을 떨어뜨릴 확률이 증가한다.,"Sorgt dafür, dass Gegner mehr Beute
 zurücklassen."
 36,,Aumenta i valori di scansione del 10%.,掃描值提升10%。,,스캔치가 10% 상승한다.,Erhöht Scanwerte um 10 %.
-37,,Aumenta gli effetti bonus alle statistiche del 5%.,狀態提升效果增加5%。,,획득하는 스테이터스 상승 효과가 5% 증가한다.,Erhöht bestehende Werteboni um 5 %.
-38,,Diminuisce gli effetti di riduzione delle statistiche ricevute del 5%.,狀態降低效果減少5%。,,하락하는 스테이터스 하강 효과가 5% 감소한다.,Reduziert bestehende Wertemalusse um 5 %.
+37,,"Aumenta gli effetti bonus alle statistiche
+del 5%.",狀態提升效果增加5%。,,획득하는 스테이터스 상승 효과가 5% 증가한다.,Erhöht bestehende Werteboni um 5 %.
+38,,"Diminuisce gli effetti di riduzione delle
+statistiche ricevute del 5%.",狀態降低效果減少5%。,,하락하는 스테이터스 하강 효과가 5% 감소한다.,Reduziert bestehende Wertemalusse um 5 %.
 39,,Ripristina il 6% degli HP massimi a ogni turno.,每回合回復最大HP的6%。,,"매 턴, 최대 HP의 6%를 회복한다.","Stellt bei jedem Zug 6 % der maximalen TP
 wieder her."
 40,,Ripristina il 5% degli SP massimi a ogni turno.,每回合回復最大SP的5%。,,"매 턴, 최대 SP의 5%를 회복한다.","Stellt bei jedem Zug 5 % der maximalen SP
 wieder her."
 41,,Aumenta gli effetti di recupero HP del 20%.,HP回復效果增加20%。,,HP회복 효과가 20% 증가한다.,Verstärkt TP-Heilungseffekte um 20 %.
-42,,"Aumenta i danni inflitti del 20%,
-ma aumenta anche i danni ricevuti del 20%.","給予敵人的傷害增加20%，
+42,,"Aumenta i danni inflitti del 20%, ma aumenta
+anche i danni ricevuti del 20%.","給予敵人的傷害增加20%，
 但受到的傷害也增加20%。",,"주는 대미지가 20% 증가하지만
 받는 대미지도 20% 증가한다.","Erhöht den verursachten aber auch den
 erlittenen Schaden um 20 %."
-43,,"Aumenta l'ATK del 20% quando
-gli HP scendono sotto il 50%.","HP在50%以下時，
+43,,"Aumenta l'ATK del 20% quando gli HP scendono
+sotto il 50%.","HP在50%以下時，
 ATK提升25%。",,"HP 50% 이하가 되었을 때
 공격력이 20% 상승한다.","Erhöht ANG um 20 %, wenn die TP unter 50 %
 fallen."
@@ -135,20 +130,20 @@ abilità Acqua e Oscurità del 10%.","DEF提升10%，
 水、闇屬性技能造成的傷害增加10%。",,"방어력이 10% 상승하고 물/어둠속성 스킬로
 주는 대미지가 10% 증가한다.","Erhöht VER sowie den Schaden von Wasser- 
 und Dunkelfertigkeiten um 10 %."
-50,,"Se i PS sono superiori al 50% dei PS massimi, un attacco fatale
-invece ti lascerà con 1 PS.","HP在50%以上，遭受導致無法戰鬥的攻擊時，
+50,,"Se i HP sono superiori al 50% dei HP massimi, un
+attacco fatale invece ti lascerà con 1 HP.","HP在50%以上，遭受導致無法戰鬥的攻擊時，
 能以HP1的狀態承受住。",,"HP 50% 이상으로 전투불능이 되는 공격을
 받았을 때, HP를 1 남긴다.","Bei über 50 % der maximalen TP reduziert ein
 andernfalls tödlicher Angriff die TP auf 1."
 51,,Riduce i danni subiti del 10%.,受到的傷害減少10%。,,받은 대미지를 10% 경감한다.,Reduziert den erlittenen Schaden um 10 %.
-52,,"Riduce del 50% la probabilità di 
-subire alterazioni di stato.",陷入異常狀態的機率降低50%。,,상태이상이 될 확률이 50% 저하된다.,"Reduziert die Häufigkeit von Statusleiden
+52,,"Riduce del 50% la probabilità di subire
+alterazioni di stato.",陷入異常狀態的機率降低50%。,,상태이상이 될 확률이 50% 저하된다.,"Reduziert die Häufigkeit von Statusleiden
 um 50 %."
 53,,"Aumenta ATK, DEF, INT e SPD del 5%.",ATK、DEF、INT、SPD提升5%。,,"공격력/방어력/지력/민첩이
 5% 상승한다.","Erhöht ANG, VER, INT und GES um 5 %."
 54,,Aumenta ATK e INT del 10%.,ATK和INT提升10%。,,공격력과 지력이 10% 상승한다.,Erhöht ANG und INT um 10 %.
-55,,"Aumenta del 10% i danni delle 
-skill di tipo Fuoco e Vento.",火、風屬性技能造成的傷害增加10%. ,,"불/바람속성 스킬로
+55,,"Aumenta del 10% i danni delle skill di
+tipo Fuoco e Vento.",火、風屬性技能造成的傷害增加10%. ,,"불/바람속성 스킬로
 주는 대미지가 10% 증가한다.","Erhöht den Schaden von Feuer- und
 Windfertigkeiten um 10 %."
 56,,"Riduce il SP consumato 
@@ -158,8 +153,8 @@ um 20 %."
 e SPD del 10%.",EVA和CRT提升5%，SPD提升10%。,,"회피율과 크리티컬 발생률이 5% 상승하고
 민첩이 10% 상승한다.","Erhöht AWN und KRT um
 5 % sowie GES um 10 %."
-58,,"Aumenta l'ATK del 50% quando
-gli HP scendono sotto il 10%.","HP在10%以下時，
+58,,"Aumenta l'ATK del 50% quando gli HP
+scendono sotto il 10%.","HP在10%以下時，
 ATK提升50%。",,"HP 10% 이하가 되면
 공격력이 50% 상승한다.","Erhöht ANG um 50 %, wenn die TP unter 10 %
 fallen."
@@ -236,7 +231,8 @@ quando gli HP scendono sotto il 25%.","HP在25%以下時，
 SPD和EVA提升25%。",,"HP 25% 이하가 되었을 때
 민첩과 회피율이 25% 상승한다.","Erhöht GES und AWN um 25 %, wenn die TP
 unter 25 % fallen."
-77,,Aumenta del 10% i danni delle tecniche Acqua e Luce.,水、光屬性技能造成的傷害增加10%。,,"물/빛속성 스킬 대미지가
+77,,"Aumenta del 10% i danni delle tecniche
+Acqua e Luce.",水、光屬性技能造成的傷害增加10%。,,"물/빛속성 스킬 대미지가
 10% 증가한다.","Erhöht den Schaden von Wasser- und
 Lichtfertigkeiten um 10 %."
 78,,"Aumenta del 30% la quantità di SP ricevuta dagli effetti
@@ -255,8 +251,8 @@ anche i danni subiti del 30%.","給予的傷害增加30%，
 但受到的傷害也會增加30%。",,"주는 대미지가 30% 증가하지만
 받는 대미지도 30% 증가한다.","Erhöht den verursachten aber auch den
 erlittenen Schaden um 30 %."
-82,,"Aumenta del 10% i danni delle 
-tecniche di Vento e Luce.",風‧光屬性技能所給予的傷害增加10%,,"바람/빛속성 스킬 대미지가
+82,,"Aumenta del 10% i danni delle tecniche
+di Vento e Luce.",風‧光屬性技能所給予的傷害增加10%,,"바람/빛속성 스킬 대미지가
 10% 증가한다.","Erhöht den Schaden von Wind- und
 Lichtfertigkeiten um 10 %."
 83,,"Aumenta del 50% il danno magico ricevuto, 
@@ -273,8 +269,8 @@ um 20 %, aber auch INT um 13 %."
 tecniche Elettriche e Vento.",雷‧風屬性所給予的傷害增加10%。,,"전기/바람속성 스킬 대미지가
 10% 증가한다.","Erhöht den Schaden von Elektro- und
 Windfertigkeiten um 10 %."
-86,,"Ripristina il 5% degli HP massimi a ogni turno e aumenta
-gli HP ricevuti dagli effetti di assorbimento del 20%.","每回合回復HP最大值的5%，
+86,,"Ripristina il 5% di HP max a ogni turno e aumenta
+gli HP ricevuti dagli eff. di assorbimento del 20%.","每回合回復HP最大值的5%，
 因HP吸收效果，回復量增加20%。",,"매 턴, 최대 HP의 5%만큼 HP를 회복하고 
 HP흡수 효과로 회복률이 20% 증가한다.","Regeneriert jeden Zug 5 % der maximalen TP,
 erhöht die absorbierte TP-Menge um 20 %."
@@ -301,7 +297,7 @@ ATK減少10%。",,"민첩이 20% 상승하는 대신
 SPD減少10%。",,"공격력이 20% 상승하는 대신
 민첩이 10% 감소한다.","Erhöht ANG um 20 %, senkt GES um 10 %."
 93,,"Aumenta del 8% il danno inflitto dalle 
-tecniche di tipo Fuoco, Vento, Pianta e Terra.","增加 火．風．草．土屬性技能
+tecniche di tipo Fuoco, Vento, Erba e Terra.","增加 火．風．草．土屬性技能
 所給予的傷害8%。",,"불/바람/풀/땅 속성 스킬로
 주는 대미지가 8% 증가한다.","Erhöht den Schaden von Feuer-, Wind-,
 Pflanzen- und Erdfertigkeiten um 8 %."
@@ -315,8 +311,8 @@ i danni inflitti dalle tecniche di Luce del 10%.","ATK與INT上升10%，增加�
 所給予的傷害10%。",,"공격력과 지력이 10% 상승하고 빛속성 스킬로
 주는 대미지가 10% 증가한다.","Erhöht ANG und INT um 10 %. Erhöht den
 Schaden von Lichtfertigkeiten um 10 %."
-96,,"Ha una probabilità del 5% di aumentare ATK 
-e diminuire DEF del 50% quando si subiscono danni.","被攻擊時，5%的機率上升ATK50%
+96,,"Ha una probabilità del 5% di aumentare ATK e
+diminuire DEF del 50% quando si subiscono danni.","被攻擊時，5%的機率上升ATK50%
 DEF減少50%。",,"대미지를 받았을 때 5%의 확률로 공격력이
 50% 증가하고 방어력이 50% 감소한다.","Chance von 5 % auf ANG +50 % und 
 VER –50 % bei erlittenem Schaden."
@@ -350,8 +346,8 @@ um 10 %. Regeneriert pro Zug 5 % TP."
 Luce e Oscurità del 10%.",增加光．闇屬性技能所給予的傷害10%。,,"빛/어둠속성 스킬로 주는 대미지가
 10% 증가한다.","Erhöht den Schaden von Licht- und
 Dunkelfertigkeiten um 10 %."
-105,,"Aumenta gli HP dagli effetti di assorbimento del 25%
-e i danni inflitti dalle skill di tipo Oscurità del 10%.","依照HP吸取效果回復量25%，
+105,,"Aumenta gli HP dagli effetti di assorbime. del 25%
+e i danni inflitti dalle abl. di tipo Oscurità del 10%.","依照HP吸取效果回復量25%，
 增加闇屬性技能所給予的傷害10%。",,"HP 흡수 효과에 따른 회복량이 25%, 어둠속성
 스킬로 주는 대미지가 10% 증가한다.","Erhöht absorbierte TP-Menge um 25 % sowie
 den Schaden von Dunkelfertigkeiten um 10 %."
@@ -368,11 +364,11 @@ i danni subiti del 15%.","EVA大幅下降，
 den erlittenen Schaden um 15 %."
 109,,Riduce il consumo di SP delle skill del 15%.,技能消費SP減少15%。,,스킬로 소비되는 SP가 15% 감소한다.,"Reduziert den SP-Verbrauch von Fertigkeiten
 um 15 %."
-110,,"Riduce del 30% la probabilità 
-di subire alterazioni di stato.",受到異常狀態機率減少30%。,,상태이상이 될 확률을 30% 저하한다.,"Reduziert die Häufigkeit von Statusleiden
+110,,"Riduce del 30% la probabilità di subire
+alterazioni di stato.",受到異常狀態機率減少30%。,,상태이상이 될 확률을 30% 저하한다.,"Reduziert die Häufigkeit von Statusleiden
 um 30 %."
-111,,"Aumenta CRT e la probabilità 
-di combo del 10%.","產生、持續連擊的機率，
+111,,"Aumenta CRT e la probabilità di combo
+del 10%.","產生、持續連擊的機率，
 與CRT發生率提昇10%。",,"콤보의 발생/이어질 확률과
 크리티컬 발생률을 10% 올린다.","Erhöht KRT und die Wahrscheinlichkeit, 
 Kombos auszuführen, um 10 %."
@@ -385,19 +381,20 @@ i danni ricevuti del 5%.","增加造成損傷5%，
 減少受到損傷5%。",,"주는 대미지가 5% 증가하고
 받는 대미지가 5% 경감한다.","Erhöht den Schaden um 5 %, reduziert
 erlittenen Schaden um 5 %."
-114,,"Aumenta lo yen guadagnato in battaglia e 
-assicura una fuga riuscita dalla battaglia, se possibile.","增加戰鬥時能得到的YEN，
+114,,"Aumenta gli yen guadagnati in battaglia e 
+assicura una fuga riuscita, se possibile.","增加戰鬥時能得到的YEN，
 在能逃走的戰鬥，一定能成功逃走。",,"배틀로 획득하는 YEN이 증가하고
 도주 가능한 전투에서 반드시 도주에 성공한다.","Erhöht die in Kämpfen gewonnenen Yen. 
 Sichert Flucht aus Kämpfen, wenn möglich."
-201,,Annulla gli effetti di riduzione delle statistiche ricevuti.,無效基本狀態下降效果。,,받는 스테이터스 하락 효과를 무효화한다.,Negiert bestehende Wertemalusse.
-202,,"Assicura una fuga di successo da qualsiasi battaglia
-da cui ci si può fuggire.",有逃脫的機會的戰鬥，絕對能逃脫成功。,,도주 가능한 전투에서 반드시 도주에 성공한다.,"Sichert erfolgreiche Flucht von allen
+201,,"Annulla gli effetti di riduzione delle statistiche
+ricevuti.",無效基本狀態下降效果。,,받는 스테이터스 하락 효과를 무효화한다.,Negiert bestehende Wertemalusse.
+202,,"Assicura una fuga di successo da qualsiasi
+battaglia da cui ci si può fuggire.",有逃脫的機會的戰鬥，絕對能逃脫成功。,,도주 가능한 전투에서 반드시 도주에 성공한다.,"Sichert erfolgreiche Flucht von allen
 Kämpfen, bei denen man fliehen kann."
 203,,Aumenta significativamente l'EXP ottenuta in battaglia.,大幅的增加在戰鬥中獲得的EXP。,,배틀로 얻는 EXP가 크게 증가한다.,Erhöht die in Kämpfen gewonnenen EP stark.
 115,,Aumenta ATK e CRT del 10%.,ATK跟CRT發生率上升10%。,,공격력과 크리티컬 발생률이 10% 상승한다.,Erhöht ANG und KRT um 10 %.
-116,,"Aumenta i danni delle skill Neutre del 20%,
-ma diminuisce i danni di tutte le altre skill del 10%.","增加無屬性技能造成的損傷20％，
+116,,"Aumenta i danni delle skill Neutre del 20%, ma
+diminuisce i danni di tutte le altre skill del 10%.","增加無屬性技能造成的損傷20％，
 但會減少其他屬性造成的損傷10％。",,"무속성 스킬의 대미지가 20% 증가하지만
 다른 속성 스킬의 대미지가 10% 감소한다.","Neutralfertigkeiten bewirken +20 % Schaden,
 andere Fertigkeiten bewirken –10 % Schaden."
