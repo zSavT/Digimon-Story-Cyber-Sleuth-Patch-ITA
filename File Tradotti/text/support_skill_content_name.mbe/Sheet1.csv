@@ -341,8 +341,8 @@ erlittenen Schaden um 5 %."
 verifichino combo dell'8%.",提高ATK及連擊發生．接續的機率8%。,,"공격력과 콤보의 발생/이어질 확률이
 8% 상승한다.","Erhöht ANG und die Wahrscheinlichkeit,
 Kombos auszuführen, um 8 %."
-103,,"Riduce del 10% la frequenza con cui si 
-ricevono alterazioni di stato e ripristina il 5% degli HP per turno.","降低受到異常狀態的機率10%，
+103,,"Riduce del 10% la frequenza con cui si ricevono
+alterazioni di stato e ripristina il 5% degli HP per turno.","降低受到異常狀態的機率10%，
 每一回合回復HP5%。",,"상태이상 확률이 10% 저하하고
 매 턴 HP를 5% 회복한다.","Reduziert die Häufigkeit von Statusleiden
 um 10 %. Regeneriert pro Zug 5 % TP."
@@ -391,8 +391,8 @@ assicura una fuga riuscita dalla battaglia, se possibile.","增加戰鬥時能�
 도주 가능한 전투에서 반드시 도주에 성공한다.","Erhöht die in Kämpfen gewonnenen Yen. 
 Sichert Flucht aus Kämpfen, wenn möglich."
 201,,Annulla gli effetti di riduzione delle statistiche ricevuti.,無效基本狀態下降效果。,,받는 스테이터스 하락 효과를 무효화한다.,Negiert bestehende Wertemalusse.
-202,,"Assicura una fuga di successo da qualsiasi battaglia da cui
-ci si può fuggire.",有逃脫的機會的戰鬥，絕對能逃脫成功。,,도주 가능한 전투에서 반드시 도주에 성공한다.,"Sichert erfolgreiche Flucht von allen
+202,,"Assicura una fuga di successo da qualsiasi battaglia
+da cui ci si può fuggire.",有逃脫的機會的戰鬥，絕對能逃脫成功。,,도주 가능한 전투에서 반드시 도주에 성공한다.,"Sichert erfolgreiche Flucht von allen
 Kämpfen, bei denen man fliehen kann."
 203,,Aumenta significativamente l'EXP ottenuta in battaglia.,大幅的增加在戰鬥中獲得的EXP。,,배틀로 얻는 EXP가 크게 증가한다.,Erhöht die in Kämpfen gewonnenen EP stark.
 115,,Aumenta ATK e CRT del 10%.,ATK跟CRT發生率上升10%。,,공격력과 크리티컬 발생률이 10% 상승한다.,Erhöht ANG und KRT um 10 %.
