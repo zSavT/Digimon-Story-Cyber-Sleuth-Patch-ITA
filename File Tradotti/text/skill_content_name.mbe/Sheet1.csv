@@ -765,8 +765,7 @@ auf alle Gegner. 50 % Chance auf Schlaf."
 1189,,"Attacco magico, 90 danni di 
 Fuoco a tutti i nemici.",對敵方全體發動威力90的光屬性魔法攻擊。,,적 전체에 빛속성 위력 90의 마법공격.,"Magischer Angriff, 90 Feuerschaden gegen
 alle Gegner."
-1190,,"Attacco magico, 95 danni 
-di Luce a tutti i nemici.",對敵方全體發動威力95的光屬性魔法攻擊。,,적 전체에 빛속성 위력 95의 마법공격.,"Magischer Angriff, 95 Lichtschaden gegen
+1190,,"Attacco magico, 95 danni di Luce a tutti i nemici.",對敵方全體發動威力95的光屬性魔法攻擊。,,적 전체에 빛속성 위력 95의 마법공격.,"Magischer Angriff, 95 Lichtschaden gegen
 alle Gegner."
 1191,,"Attacco fisico, 130 danni Neutri a un
 nemico. 40% di probabilità di confondere il bersaglio.","對敵方單體發動威力130的無屬性物理攻擊，
@@ -812,8 +811,8 @@ nemico. 50% di probabilità di paralizzare il bersaglio.","對敵方單體發動
 並有50%的機率使對方麻痺。",,"적 1체에 전기속성 위력 125의 물리공격.
 대상을 50%의 확률로 마비 상태로 만든다.","Physischer Angriff, 125 Elektroschaden gegen
 einen Gegner. 50 % Chance auf Lähmen."
-1202,,"Attacco fisico, 145 danni Acqua a un
-nemico. 15% di probabilità di uccidere istantaneamente il bersaglio.","對敵方單體發動威力145的水屬性物理攻擊，
+1202,,"Attacco fisico, 145 danni Acqua a un nemico.
+15% di probabilità di uccidere istantaneamente il bersaglio.","對敵方單體發動威力145的水屬性物理攻擊，
 並有15%的機率使對方立即死亡。",,"적 1체에 물속성 위력 145의 물리공격.
 대상을 15%의 확률로 즉사시킨다.","Physischer Angriff, 145 Wasserschaden gegen
 einen Gegner. 15 % Chance auf Soforttod."
@@ -894,8 +893,8 @@ alle. 70 % Trefferquote. Häufiger kritisch."
 1226,,"2 attacchi fisici,
 65 danni da Vento a un nemico.",對敵方單體發動2次威力65的風屬性物理攻擊。,,적 1체에 바람속성 위력 65의 물리공격을 2회 한다.,"2 physische Angriffe, 65 Windschaden gegen
 einen Gegner."
-1227,,"Attacco magico, 95 danni Neutri a tutti i nemici.
-5% di probabilità di uccidere istantaneamente il bersaglio.","對敵方全體發動威力95的無屬性魔法攻擊，
+1227,,"Attacco magico, 95 danni Neutri a tutti i nemici. 5%
+di probabilità di uccidere istantaneamente il bersaglio.","對敵方全體發動威力95的無屬性魔法攻擊，
 並有5%的機率使對方立即死亡。",,"적 전체에 무속성 위력 95의 마법공격.
 대상을 5%의 확률로 즉사시킨다.","Magischer Angriff, 95 Neutralschaden gegen
 alle Gegner. 5 % Chance auf Soforttod."
@@ -940,8 +939,8 @@ auf einen Gegner."
 1237,,"Attacco Oscuro extra forte che penetra la DEF su un
 nemico.",對敵方單體發動闇屬性高威力的DEF貫穿攻擊。,,적 1체에 어둠속성 강한 위력 방어력 관통공격.,"VER-durchdringender mächtiger Dunkelangriff
 gg. einen Gegner."
-1238,,"Attacco magico, 115 danni Oscuri a un nemico.
-Colpisce sempre e annulla qualsiasi riduzione delle statistiche.","對敵方單體發動威力115的闇屬性魔法攻擊，
+1238,,"Attacco magico, 115 danni Oscuri a un nemico. Colpisce
+sempre e annulla qualsiasi riduzione delle statistiche.","對敵方單體發動威力115的闇屬性魔法攻擊，
 必定命中，並解除自己被降低的基本狀態。",,"적 1체에 어둠속성 위력 115의 마법공격. 필중.
 자신의 기본 스테이터스 다운을 해제한다.","Magischer Angriff, 115 Dunkelschaden gegen
 1 Gegner. Trifft immer, hebt Wertmalusse auf."
@@ -1014,8 +1013,8 @@ einen Gegner. 95 % Trefferquote."
 ACU 95%。",,"적 1체에 불속성 위력 95의 마법공격.
 명중률 95%.","Magischer Angriff, 95 Feuerschaden gegen
 einen Gegner. 95 % Trefferquote."
-3006,,"Attacco fisico, 30 danni di tipo Fuoco a tutti i nemici.
-95% di precisione.","對敵方全體發動威力30的火屬性物理攻擊，
+3006,,"Attacco fisico, 30 danni di tipo Fuoco a tutti i
+nemici. 95% di precisione.","對敵方全體發動威力30的火屬性物理攻擊，
 ACU 95%。",,"적 전체에 불속성 위력 30의 물리공격.
 명중률 95%.","Physischer Angriff, 30 Feuerschaden gegen
 alle Gegner. 95 % Trefferquote."
@@ -1199,13 +1198,13 @@ einen Gegner. 95 % Trefferquote."
 ACU 95%。",,"적 전체에 땅속성 위력 30의 물리공격.
 명중률 95%.","Physischer Angriff, 30 Erdschaden gegen
 alle Gegner. 95 % Trefferquote."
-3043,,"Attacco fisico, 45 danni di tipo Terra a tutti i nemici.
-95% di precisione.","對敵方全體發動威力45的土屬性物理攻擊，
+3043,,"Attacco fisico, 45 danni di tipo Terra a tutti i
+nemici. 95% di precisione.","對敵方全體發動威力45的土屬性物理攻擊，
 ACU 95%。",,"적 전체에 땅속성 위력 45의 물리공격.
 명중률 95%.","Physischer Angriff, 45 Erdschaden gegen
 alle Gegner. 95 % Trefferquote."
-3044,,"Attacco fisico, 75 danni di tipo Terra a tutti i nemici.
-95% di precisione.","對敵方全體發動威力75的土屬性物理攻擊，
+3044,,"Attacco fisico, 75 danni di tipo Terra a tutti i
+nemici. 95% di precisione.","對敵方全體發動威力75的土屬性物理攻擊，
 ACU 95%。",,"적 전체에 땅속성 위력 75의 물리공격.
 명중률 95%.","Physischer Angriff, 75 Erdschaden gegen
 alle Gegner. 95 % Trefferquote."
@@ -1424,8 +1423,8 @@ Rende il bersaglio buggato. 70% di precisione.","對敵方單體發動威力30�
 並使對方陷入Bug狀態。ACU70%。",,"적 1체에 무속성 위력 30의 마법공격.
 대상을 버그 상태로 만든다. 명중률 70%.","Mag. Angr., 30 Neutralsch. gg. einen Gegner.
 Macht das Ziel fehlerhaft. 70 % Trefferquote."
-3088,,"Attacco fisico, 40 danni da Oscurità a un nemico.
-10% di probabilità di uccidere istantaneamente il bersaglio.","對敵方單體發動威力40的闇屬性物理攻擊，
+3088,,"Attacco fisico, 40 danni da Oscurità a un nemico. 10%
+di probabilità di uccidere istantaneamente il bersaglio.","對敵方單體發動威力40的闇屬性物理攻擊，
 並有10%機會使對方立即死亡。",,"적 1체에 어둠속성 위력 40의 물리공격.
 대상을 10%의 확률로 즉사시킨다.","Physischer Angriff, 40 Dunkelschaden gegen
 einen Gegner. 10 % Chance auf Soforttod."
@@ -1510,9 +1509,11 @@ und stellt wenige TP wieder her."
 3123,,"Rimuove tutte le alterazioni di stato anomale da tutti i membri
 della squadra.",解除全體戰鬥成員的所有異常狀態。,,배틀멤버 전체의 상태이상을 완전히 치료한다.,"Hebt bei allen Mitstreitern sämtliche
 Statusleiden auf."
-3124,,Assume una posizione che contrasta qualsiasi attacco fisico.,受到物理攻擊時，進入反擊狀態。,,"물리공격을 받았을 때, 반격 태세에 들어간다.","Haltung, in der alle physischen Angriffe
+3124,,"Assume una posizione che contrasta qualsiasi
+attacco fisico.",受到物理攻擊時，進入反擊狀態。,,"물리공격을 받았을 때, 반격 태세에 들어간다.","Haltung, in der alle physischen Angriffe
 gekontert werden."
-3125,,Assume una posizione che contrasta qualsiasi attacco magico.,受到魔法攻擊時，進入反擊狀態。,,"마법공격을 받았을 때, 반격 태세에 들어간다.","Haltung, in der alle magischen Angriffe
+3125,,"Assume una posizione che contrasta qualsiasi
+attacco magico.",受到魔法攻擊時，進入反擊狀態。,,"마법공격을 받았을 때, 반격 태세에 들어간다.","Haltung, in der alle magischen Angriffe
 gekontert werden."
 3127,,Aumenta del 50% il tasso di combo di un alleato.,我方單體的連擊率提升50%。,,아군 1체의 콤보 발생 확률을 50% 올린다.,"Erhöht die Komborate eines Verbündeten
 um 50 %."
@@ -1661,8 +1662,8 @@ Assorbe il 20% del danno come HP.","對敵方單體發動闇屬性高威力的IN
 並吸收20%的HP。",,"적 1체에 어둠속성 강한 위력 방어력 관통공격.
 20%를 HP로 흡수한다.","VER-durchdringender starker Dunkelangriff gg.
 einen Gegner. Abs. 20 % des Schadens als TP."
-1250,,"Attacco fisico, 130 danni Oscurità a un nemico.
-90% di precisione, tende a infliggere più spesso colpi critici.","給予敵單體威力130的闇屬性物理攻擊。
+1250,,"Attacco fisico, 130 danni Oscurità a un nemico. 90%
+di precisione, tende a infliggere più spesso colpi CTR.","給予敵單體威力130的闇屬性物理攻擊。
 命中率90%。易發生爆擊。",,"적 1체에 어둠속성 위력 130의 물리공격.
 명중률 90%. 크리티컬이 발생하기 쉽다.","Physischer Angriff, 130 Dunkelschaden gegen 1
 Gegner. 90 % Trefferquote. Häufiger kritisch."
@@ -1875,8 +1876,8 @@ nemico. Colpisce sempre. 10% di probabilità di Morte Istantanea.","對敵方單
 必定命中。10%機率使對方立即死亡。",,"적 1체에 빛속성 강한 위력 방어력 관통공격.
 필중. 대상을 10%의 확률로 즉사시킨다.","VER-durchdr. starker Lichtangriff gg. einen
 Gegner. Trifft immer. 10 % Chance: Soforttod."
-1301,,"Attacco fisico, 200 danni Oscuri a un
-nemico. Impossibile muoversi per il contraccolpo per un turno.","對敵方單體發動闇屬性威力200的物理攻擊。
+1301,,"Attacco fisico, 200 danni Oscuri a un nemico.
+Impossibile agire per il contraccolpo per un turno.","對敵方單體發動闇屬性威力200的物理攻擊。
 使用後將因反作用力一回合無法行動。",,"적 1체에 어둠속성 위력 200의 물리공격.
 공격 후, 반동으로 1턴간 행동불능이 된다.","Physischer Angriff, 200 Dunkelschaden gegen
 einen Gegner. Ein Zug Pause durch Rückstoß."
@@ -1924,7 +1925,8 @@ Annulla i potenziamenti delle statistiche sul bersaglio.","對敵方單體發動
 解除對方提昇的基本狀態。",,"적 1체에 빛속성 위력 120의 마법공격. 
 대상의 기초 스테이터스 상승을 해제한다.","Magischer Angriff, 120 Lichtschaden gegen
 einen Gegner. Hebt Werteboni des Ziels auf."
-1312,,"Attacco fisico, 110 danni di Luce a tutti i nemici. Colpisce sempre.","對敵方全體發動光屬性威力110的物理攻擊。
+1312,,"Attacco fisico, 110 danni di Luce a tutti i nemici.
+Colpisce sempre.","對敵方全體發動光屬性威力110的物理攻擊。
 必定命中。",,"적 전체에 빛속성 위력 110의 물리공격.
 필중.","Physischer Angriff, 110 Lichtschaden gegen
 alle Gegner. Trifft immer."
@@ -2323,9 +2325,11 @@ su un nemico. Tende a fare critici più spesso.","對敵方單體發動無屬性
 容易產生爆擊。",,"적 1체에 무속성 중간 위력 방어력 관통공격.
 크리티컬이 발생하기 쉽다.","VER-durchdringender durchschn. Neutralangriff 
 auf einen Gegner. Häufiger kritische Treffer."
-1381,,Potente attacco di Terra che penetra la DEF su un nemico.,對敵方單體發動土屬性高威力的DEF貫穿攻擊。,,적 1체에 땅속성 강한 위력 방어력 관통공격.,"VER-durchdringender starker Erdangriff auf 
+1381,,"Potente attacco di Terra che penetra la DEF su un
+nemico.",對敵方單體發動土屬性高威力的DEF貫穿攻擊。,,적 1체에 땅속성 강한 위력 방어력 관통공격.,"VER-durchdringender starker Erdangriff auf 
 einen Gegner."
-1382,,Forte attacco Elettrico che penetra la DEF verso un nemico. Tende a effettuare critici più spesso.,"對敵方單體發動雷屬性高威力的DEF貫穿攻擊。
+1382,,"Forte attacco Elettrico che penetra la DEF verso un
+nemico. Tende a effettuare critici più spesso.","對敵方單體發動雷屬性高威力的DEF貫穿攻擊。
 容易產生爆擊。",,"적 1체에 전기속성 강한 위력 방어력 관통공격.
 크리티컬이 발생하기 쉽다.","VER-durchdringender starker Elektroangriff auf
 einen Gegner. Häufiger kritische Treffer."
