@@ -10,10 +10,10 @@ ID,Japanese,English,Chinese,EnglishCensored,Korean,German
 9,,Impossibile fuggire!,逃脫失敗！,,도망치지 못했다!,Flucht fehlgeschlagen!
 10,,Niente più Digimon!,將要沒有可以戰鬥的數碼寶貝！,,싸울 디지몬이 없어집니다!,Keine Digimon mehr!
 11,,,,,,
-19,,Contatore,反擊,,카운터,Konter
+19,,Contrattacco,反擊,,카운터,Konter
 20,,Paralizzato!,因麻痺而無法動彈！,,마비로 움직일 수 없다!,Gelähmt!
 21,,Addormentato!,因睡眠而無法動彈！,,수면으로 움직일 수 없다!,Schläft!
-22,,Immobilizzato dal rinculo!,因反作用力而無法動彈！,,반동으로 움직일 수 없다!,Rückstoß – pausiert!
+22,,Non puoi muoverti per il contraccolpo!,因反作用力而無法動彈！,,반동으로 움직일 수 없다!,Rückstoß – pausiert!
 1001,,Pepper Breath,小型火焰,,꼬마불꽃,Pfefferatem
 1002,,Spitfire Blast,噴火,,스핏파이어,Speifeuer-Stoß
 1003,,Guscio di diamante,滾動攻擊,,롤링스톤,Diamanten-Schale
@@ -63,8 +63,8 @@ ID,Japanese,English,Chinese,EnglishCensored,Korean,German
 1047,,Elettroshock,百萬爆破,,메가블라스터,Stromschlag
 1048,,Cacca Matura,熟成大便,,숙성 응가,Erwachsenenhaufen
 1049,,Dumdum Uppercut,達達勾拳,,덤덤 어퍼,Dumdum-Kinnhaken
-1050,,Fuoco di volpe,妖狐火焰,,푸른화염포,Fuchsfeuer
-1051,,Fuoco fatuo,鬼火玉,,귀화옥,Irrlicht
+1050,,Fuoco di Volpe,妖狐火焰,,푸른화염포,Fuchsfeuer
+1051,,Fuoco Fatuo,鬼火玉,,귀화옥,Irrlicht
 1052,,Fiamma Esausta,排射火炎,,이그저스트 플레임,Flamme löschen
 1053,,Data Crusher,資料粉碎者,,데이터 크러셔,Datei-Zerstörer
 1054,,Mega Fiamma,超級火焰,,메가파이어,Mega-Flamme
@@ -214,14 +214,14 @@ ID,Japanese,English,Chinese,EnglishCensored,Korean,German
 1198,,Artiglio di Lupo di Ghiaccio,優雅十字凍結者,,그레이스 크로스 프리저,Eiswolf-Kralle
 1199,,Garuru Tomahawk,加魯魯戰斧,,가루루 토마호크,Garuru-Tomahawk
 1200,,Fiume di Potere,究極波浪炮,,얼티메이트 스트림,Energiefluss
-1201,,Cluster del terrore,驚駭電磁炮,,테러스 클러스터,Schwarm des Schreckens
+1201,,Sciame del Terrore,驚駭電磁炮,,테러스 클러스터,Schwarm des Schreckens
 1202,,Stritolata Mordace,魔顎,,로스트룸,Beißendes Zermalmen
 1203,,Dolore Fantasma,幻影苦痛,,팬텀 페인,Phantomschmerz
 1204,,Lama Celestiale,天之尾羽張,,아메노오하바리,Himmelsklinge
 1205,,Mascherata a Spirale,螺旋假面舞蹈會,,스파이럴 마스커레이드,Spiral-Maskerade
 1206,,Frusta Spinosa,荊棘之鞭,,손 위프,Dornenpeitsche
 1207,,La Fantasia dei Sette,七重幻想曲,,세븐즈 판타지아,Siebens Fantasia
-1208,,Omni Sword,奧米加之劍,,오메가 블레이드,Omnischwert
+1208,,Spada Omni,奧米加之劍,,오메가 블레이드,Omnischwert
 1209,,Spada Trascendente,暴龍颶風劍,,그레이 소드,Graues Schwert
 1210,,Cannone Supremo,加魯魯加農炮,,가루루 캐논,Überlegene Kanone
 1211,,Vulcan Crusher,摩天大廈,,볼켄 크러셔,Vulkan-Zerstörer
@@ -235,14 +235,14 @@ ID,Japanese,English,Chinese,EnglishCensored,Korean,German
 1225,,Capovolgi il tavolo,掀飯桌,,밥상뒤집기,Tischwurf
 1226,,Spada della Vittoria,究極聖劍,,알포스 세이버,Siegesschwert
 1227,,Digitalizzazione dell'anima,數碼之魂,,디지털라이즈 오브 소울,Seelen-Digitalisierung
-1228,,Plasma Shot,等離子射擊,,플라즈마 슛,Plasmaschuss
+1228,,Colpo al Plasma,等離子射擊,,플라즈마 슛,Plasmaschuss
 1229,,Alito di Odino,奧丁之息,,오딘즈 브레스,Odins Atem
 1230,,Respiro degli Dei,神之庇佑,,갓 브레스,Atem der Götter
 1231,,Rombo del Drago,龍之怒吼,,드래곤즈 로어,Drachengebrüll
 1232,,Pugno di Atena,銀色恐懼,,어젠트 피어,Athenes Faust
 1233,,Impatto Draconico,龍魂衝擊,,드래고닉 임팩트,Drachen-Einschlag
 1234,,Esplosione di Aura Nera,熾烈回馬槍,,에른스트 웰,Schwarze Aura-Explosion
-1235,,Weltgeist,劍靈,,슈베르트 가이스트,Weltgeist
+1235,,Spirito Universale,劍靈,,슈베르트 가이스트,Weltgeist
 1236,,Grande Tornado,神聖龍捲風,,브레이브 토네이도,Großer Tornado
 1237,,Tornado Nero,黑暗龍捲風,,블랙 토네이도,Schwarzer Tornado
 1238,,Prigione di Judecca,猶大環監獄,,주데카 프리즌,Judecca-Gefängnis
@@ -255,62 +255,62 @@ ID,Japanese,English,Chinese,EnglishCensored,Korean,German
 1245,,Anello Lucente,閃光環,,샤이니 링,Funkelnder Ring
 1246,,Super Olfatto,超惡臭,,하이퍼 스멜,Hypergeruch
 1247,,Artiglio Congelato,冰霜之爪,,프로스트 클로,Eiskralle
-3000,,Wolkenapalm I,雲霧汽油彈Ⅰ,,볼케 네이팜Ⅰ,Napalmwolke I
-3001,,Wolkenapalm II,雲霧汽油彈Ⅱ,,볼케 네이팜Ⅱ,Napalmwolke II
-3002,,Wolkenapalm III,雲霧汽油彈Ⅲ,,볼케 네이팜Ⅲ,Napalmwolke III
-3003,,Fiamma Impetuosa I,爆裂火焰Ⅰ,,버스트 플레임Ⅰ,Flammen-Explosion I
+3000,,Nube di Napalm I,雲霧汽油彈Ⅰ,,볼케 네이팜Ⅰ,Napalmwolke I
+3001,,Nube di Napalm II,雲霧汽油彈Ⅱ,,볼케 네이팜Ⅱ,Napalmwolke II
+3002,,Nube di Napalm III,雲霧汽油彈Ⅲ,,볼케 네이팜Ⅲ,Napalmwolke III
+3003,,Fiammata Impetuosa I,爆裂火焰Ⅰ,,버스트 플레임Ⅰ,Flammen-Explosion I
 3004,,Fiammata Impetuosa II,爆裂火焰Ⅱ,,버스트 플레임Ⅱ,Flammen-Explosion II
 3005,,Fiammata Impetuosa III,爆裂火焰Ⅲ,,버스트 플레임Ⅲ,Flammen-Explosion III
-3006,,Caduta di Meteore I,流星墜落Ⅰ,,메테오 폴Ⅰ,Meteorsturz I
+3006,,Caduta Meteorica I,流星墜落Ⅰ,,메테오 폴Ⅰ,Meteorsturz I
 3007,,Caduta Meteorica II,流星墜落Ⅱ,,메테오 폴Ⅱ,Meteorsturz II
 3008,,Caduta Meteorica III,流星墜落Ⅲ,,메테오 폴Ⅲ,Meteorsturz III
-3009,,Arcieria di Ghiaccio I,寒冰之箭Ⅰ,,아이스 아처리Ⅰ,Eisbogenschießen I
-3010,,Arco di Ghiaccio II,寒冰之箭Ⅱ,,아이스 아처리Ⅱ,Eisbogenschießen II
-3011,,Arceria di Ghiaccio III,寒冰之箭Ⅲ,,아이스 아처리Ⅲ,Eisbogenschießen III
+3009,,Freccia Gelida I,寒冰之箭Ⅰ,,아이스 아처리Ⅰ,Eisbogenschießen I
+3010,,Freccia Gelida II,寒冰之箭Ⅱ,,아이스 아처리Ⅱ,Eisbogenschießen II
+3011,,Freccia Gelida III,寒冰之箭Ⅲ,,아이스 아처리Ⅲ,Eisbogenschießen III
 3012,,Idro Acqua I,發電水流Ⅰ,,하이드로 워터Ⅰ,Hydro-Wasser I
 3013,,Idro Acqua II,發電水流Ⅱ,,하이드로 워터Ⅱ,Hydro-Wasser II
 3014,,Idro Acqua III,發電水流Ⅲ,,하이드로 워터Ⅲ,Hydro-Wasser III
-3015,,Onda Marina I,大海波浪Ⅰ,,오션 웨이브Ⅰ,Meereswelle I
+3015,,Onda Oceanica I,大海波浪Ⅰ,,오션 웨이브Ⅰ,Meereswelle I
 3016,,Onda Oceanica II,大海波浪Ⅱ,,오션 웨이브Ⅱ,Meereswelle II
 3017,,Onda Oceanica III,大海波浪Ⅲ,,오션 웨이브Ⅲ,Meereswelle III
-3018,,Foglia Crescente I,新月之葉Ⅰ,,크레센트 리프Ⅰ,Sichelblatt I
-3019,,Foglia di Luna Crescente II,新月之葉Ⅱ,,크레센트 리프Ⅱ,Sichelblatt II
-3020,,Foglia Crescente III,新月之葉Ⅲ,,크레센트 리프Ⅲ,Sichelblatt III
+3018,,Lama a Falce I,新月之葉Ⅰ,,크레센트 리프Ⅰ,Sichelblatt I
+3019,,Lama a Falce II,新月之葉Ⅱ,,크레센트 리프Ⅱ,Sichelblatt II
+3020,,Lama a Falce III,新月之葉Ⅲ,,크레센트 리프Ⅲ,Sichelblatt III
 3021,,Elemento Gaia I,蓋亞元素Ⅰ,,가이아 엘리먼트Ⅰ,Gaia-Element I
-3022,,Gaia Element II,蓋亞元素Ⅱ,,가이아 엘리먼트Ⅱ,Gaia-Element II
+3022,,Elemento Gaia II,蓋亞元素Ⅱ,,가이아 엘리먼트Ⅱ,Gaia-Element II
 3023,,Elemento Gaia III,蓋亞元素Ⅲ,,가이아 엘리먼트Ⅲ,Gaia-Element III
 3024,,Foresta delle Rune I,符文之森Ⅰ,,룬 포레스트Ⅰ,Runenwald I
 3025,,Foresta delle Rune II,符文之森Ⅱ,,룬 포레스트Ⅱ,Runenwald II
 3026,,Foresta delle Rune III,符文之森Ⅲ,,룬 포레스트Ⅲ,Runenwald III
-3027,,Nanomacchine Break I,奈米機械破壞Ⅰ,,나노머신 브레이크Ⅰ,Nanomaschinenbruch I
+3027,,Nanomacchine Distruttrici I,奈米機械破壞Ⅰ,,나노머신 브레이크Ⅰ,Nanomaschinenbruch I
 3028,,Nanomacchine Distruttrici II,奈米機械破壞Ⅱ,,나노머신 브레이크Ⅱ,Nanomaschinenbruch II
-3029,,Nanomacchina Rottura III,奈米機械破壞Ⅲ,,나노머신 브레이크Ⅲ,Nanomaschinenbruch III
+3029,,Nanomacchine Distruttrici III,奈米機械破壞Ⅲ,,나노머신 브레이크Ⅲ,Nanomaschinenbruch III
 3030,,Tuono Celeste I,天國閃電Ⅰ,,헤븐즈 선더Ⅰ,Himmlischer Donner I
 3031,,Tuono Celeste II,天國閃電Ⅱ,,헤븐즈 선더Ⅱ,Himmlischer Donner II
 3032,,Tuono Celeste III,天國閃電Ⅲ,,헤븐즈 선더Ⅲ,Himmlischer Donner III
-3033,,Tuono Cadente I,閃電墜擊Ⅰ,,선더 폴Ⅰ,Donnerschlag I
+3033,,Tuono Incalzante I,閃電墜擊Ⅰ,,선더 폴Ⅰ,Donnerschlag I
 3034,,Tuono Incalzante II,閃電墜擊Ⅱ,,선더 폴Ⅱ,Donnerschlag II
-3035,,Tuono Cadente III,閃電墜擊Ⅲ,,선더 폴Ⅲ,Donnerschlag III
+3035,,Tuono Incalzante III,閃電墜擊Ⅲ,,선더 폴Ⅲ,Donnerschlag III
 3036,,Cometa Martello I,彗星重鎚Ⅰ,,코멧 해머Ⅰ,Kometenhammer I
-3037,,Comet Hammer II,彗星重鎚Ⅱ,,코멧 해머Ⅱ,Kometenhammer II
+3037,,Cometa Martello II,彗星重鎚Ⅱ,,코멧 해머Ⅱ,Kometenhammer II
 3038,,Cometa Martello III,彗星重鎚Ⅲ,,코멧 해머Ⅲ,Kometenhammer III
-3039,,Grande Roccia I,雄偉巨石Ⅰ,,그랜드 록Ⅰ,Großer Fels I
+3039,,Gran Roccia I,雄偉巨石Ⅰ,,그랜드 록Ⅰ,Großer Fels I
 3040,,Gran Roccia II,雄偉巨石Ⅱ,,그랜드 록Ⅱ,Großer Fels II
-3041,,Roccia Grande III,雄偉巨石Ⅲ,,그랜드 록Ⅲ,Großer Fels III
-3042,,Grande Terremoto I,地牛翻身Ⅰ,,어스퀘이크Ⅰ,Gewaltiges Erdbeben I
+3041,,Gran Roccia III,雄偉巨石Ⅲ,,그랜드 록Ⅲ,Großer Fels III
+3042,,Terremoto Devastante I,地牛翻身Ⅰ,,어스퀘이크Ⅰ,Gewaltiges Erdbeben I
 3043,,Terremoto Devastante II,地牛翻身Ⅱ,,어스퀘이크Ⅱ,Gewaltiges Erdbeben II
-3044,,Fantastico Terremoto III,地牛翻身Ⅲ,,어스퀘이크Ⅲ,Gewaltiges Erdbeben III
-3045,,Artiglio di vento I,烈風利爪Ⅰ,,윈드 클로Ⅰ,Windkralle I
+3044,,Terremoto Devastante III,地牛翻身Ⅲ,,어스퀘이크Ⅲ,Gewaltiges Erdbeben III
+3045,,Artiglio di Vento I,烈風利爪Ⅰ,,윈드 클로Ⅰ,Windkralle I
 3046,,Artiglio di Vento II,烈風利爪Ⅱ,,윈드 클로Ⅱ,Windkralle II
 3047,,Artiglio di Vento III,烈風利爪Ⅲ,,윈드 클로Ⅲ,Windkralle III
-3048,,Vuoto Sonico I,音速空洞Ⅰ,,소닉 보이드Ⅰ,Absolute Stille I
-3049,,Vuoto Sonico II,音速空洞Ⅱ,,소닉 보이드Ⅱ,Absolute Stille II
-3050,,Vuoto Sonico III,音速空洞Ⅲ,,소닉 보이드Ⅲ,Absolute Stille III
+3048,,Vuoto Assoluto I,音速空洞Ⅰ,,소닉 보이드Ⅰ,Absolute Stille I
+3049,,Vuoto Assoluto II,音速空洞Ⅱ,,소닉 보이드Ⅱ,Absolute Stille II
+3050,,Vuoto Assoluto III,音速空洞Ⅲ,,소닉 보이드Ⅲ,Absolute Stille III
 3051,,Tempesta Impetuosa I,狂風暴雨Ⅰ,,게일 스톰Ⅰ,Heftiger Sturm I
 3052,,Tempesta Impetuosa II,狂風暴雨Ⅱ,,게일 스톰Ⅱ,Heftiger Sturm II
 3053,,Tempesta Impetuosa III,狂風暴雨Ⅲ,,게일 스톰Ⅲ,Heftiger Sturm III
 3054,,Sacro Pugno I,神聖鉤爪Ⅰ,,세인트 너클Ⅰ,Heiligenknöchel I
-3055,,Pugno Sacro II,神聖鉤爪Ⅱ,,세인트 너클Ⅱ,Heiligenknöchel II
+3055,,Sacro Pugno II,神聖鉤爪Ⅱ,,세인트 너클Ⅱ,Heiligenknöchel II
 3056,,Sacro Pugno III,神聖鉤爪Ⅲ,,세인트 너클Ⅲ,Heiligenknöchel III
 3057,,Luce Sacra I,神聖之光Ⅰ,,홀리 라이트Ⅰ,Heiliges Licht I
 3058,,Luce Sacra II,神聖之光Ⅱ,,홀리 라이트Ⅱ,Heiliges Licht II
@@ -319,22 +319,22 @@ ID,Japanese,English,Chinese,EnglishCensored,Korean,German
 3061,,Laser Lucente II,閃耀雷射Ⅱ,,샤인 레이저Ⅱ,Strahlender Laser II
 3062,,Laser Lucente III,閃耀雷射Ⅲ,,샤인 레이저Ⅲ,Strahlender Laser III
 3063,,Cannone Distruttivo I,破壞加農Ⅰ,,디스트로이 캐논Ⅰ,Zerstörungskanone I
-3064,,Cannone di distruzione II,破壞加農Ⅱ,,디스트로이 캐논Ⅱ,Zerstörungskanone II
+3064,,Cannone Distruttivo II,破壞加農Ⅱ,,디스트로이 캐논Ⅱ,Zerstörungskanone II
 3065,,Cannone Distruttivo III,破壞加農Ⅲ,,디스트로이 캐논Ⅲ,Zerstörungskanone III
 3066,,Incubo I,夢魘Ⅰ,,나이트메어Ⅰ,Albtraum I
 3067,,Incubo II,夢魘Ⅱ,,나이트메어Ⅱ,Albtraum II
 3068,,Incubo III,夢魘Ⅲ,,나이트메어Ⅲ,Albtraum III
-3069,,Hell Crusher I,地獄粉碎Ⅰ,,헬 크러셔Ⅰ,Höllenzerstörer I
-3070,,Hell Crusher II,地獄粉碎Ⅱ,,헬 크러셔Ⅱ,Höllenzerstörer II
-3071,,Hell Crusher III,地獄粉碎Ⅲ,,헬 크러셔Ⅲ,Höllenzerstörer III
+3069,,Distruttore Infernale I,地獄粉碎Ⅰ,,헬 크러셔Ⅰ,Höllenzerstörer I
+3070,,Distruttore Infernale II,地獄粉碎Ⅱ,,헬 크러셔Ⅱ,Höllenzerstörer II
+3071,,Distruttore Infernale III,地獄粉碎Ⅲ,,헬 크러셔Ⅲ,Höllenzerstörer III
 3072,,Colpo Pesante I,重度強襲Ⅰ,,헤비 스트라이크Ⅰ,Schwerer Schlag I
 3073,,Colpo Pesante II,重度強襲Ⅱ,,헤비 스트라이크Ⅱ,Schwerer Schlag II
 3074,,Colpo Pesante III,重度強襲Ⅲ,,헤비 스트라이크Ⅲ,Schwerer Schlag III
 3075,,Energia Potenza I,力量能源Ⅰ,,파워 에너지Ⅰ,Power-Energie I
-3076,,Energia Potente II,力量能源Ⅱ,,파워 에너지Ⅱ,Power-Energie II
+3076,,Energia Potenza II,力量能源Ⅱ,,파워 에너지Ⅱ,Power-Energie II
 3077,,Energia Potenza III,力量能源Ⅲ,,파워 에너지Ⅲ,Power-Energie III
-3078,,Mach Rush I,馬赫突擊Ⅰ,,마하 러시Ⅰ,Machsturm I
-3079,,Mach Rush II,馬赫突擊Ⅱ,,마하 러시Ⅱ,Machsturm II
+3078,,Scatto Mach I,馬赫突擊Ⅰ,,마하 러시Ⅰ,Machsturm I
+3079,,Scatto Mach II,馬赫突擊Ⅱ,,마하 러시Ⅱ,Machsturm II
 3080,,Scatto Mach III,馬赫突擊Ⅲ,,마하 러시Ⅲ,Machsturm III
 3081,,Trappola Venom,劇毒陷阱,,베놈트랩,Giftfalle
 3082,,Spirito di Panico,混亂鬼火,,패닉 위스프,Panikhauch
@@ -380,18 +380,18 @@ ID,Japanese,English,Chinese,EnglishCensored,Korean,German
 3122,,Anti-Bug,反Bug,,안티 버그,Anti-Fehler
 3123,,Ripristina,回復,,리스토어,Wiederherstellen
 3124,,Contraccolpo,交叉拳,,크로스 카운터,Cross-Counter
-3125,,Riflesso nello specchio,反射鏡,,리플렉션 미러,Spiegelbild
+3125,,Riflesso nello Specchio,反射鏡,,리플렉션 미러,Spiegelbild
 3127,,Chain Plus,正極鎖鏈,,체인 플러스,Kette (Plus)
 3128,,Chain Minus,負極鎖鏈,,체인 마이너스,Kette (Minus)
 3129,,Catena Max,頂極鎖鏈,,체인 맥스,Kette (Maximal)
 3130,,Perdita Catena,遺失鎖鏈,,체인 로스트,Kettenverlust
 3131,,Assorbimento Fisico,物理耗竭,,피지컬 드레인,Körperentzug
 3132,,Assorbimento Spirituale,精神耗竭,,스피릿 드레인,Geistentzug
-3133,,Barriera di stato,狀態屏障,,스테이터스 배리어,Statusbarriere
-3134,,Guardia di sicurezza,安全守護,,세이프티 가드,Schutzgitter
+3133,,Barriera di Stato,狀態屏障,,스테이터스 배리어,Statusbarriere
+3134,,Guardia di Sicurezza,安全守護,,세이프티 가드,Schutzgitter
 3135,,Potenziamento Accelerazione,加速增幅器,,액셀 부스터,Beschleunigungsschub
 3136,,Scatto di Fuga,疾速逃脫,,이스케이프 대시,Fluchtsprint
-3137,,Carica di colpo,命中填充,,히트 차지,Trefferladung
+3137,,Carica di Colpo,命中填充,,히트 차지,Trefferladung
 3138,,Dispersione,驅散,,디스펠,Auflösen
 3500,,Accesso,鎖定,,록 온,Anmeldung
 3501,,Surriscaldamento,過熱,,오버히트,Überhitzung
@@ -399,13 +399,13 @@ ID,Japanese,English,Chinese,EnglishCensored,Korean,German
 3503,,Riparazione Automatica,自動修復,,오토 리페어,Autoreparatur
 3504,,Lo senti?,懂我要表達什麼嗎？這種Feeling！,,전해져? 이 필링,Spürst du das?
 3505,,Impatto Spirituale,精神粉碎,,스피릿 크래시,Geistiger Zusammenbruch
-3506,,"Sudore, bellissimo sudore!",讓你流下美麗的汗水吧,,"아름다운 땀, 흘려주도록 하지","Oh, herrlicher Schweiß!"
-3507,,"Sudore, bellissimo sudore!",讓你流下美麗的汗水吧,,"아름다운 땀, 흘려주도록 하지","Oh, herrlicher Schweiß!"
-3508,,"Sudore, bellissimo sudore!",讓你流下美麗的汗水吧,,"아름다운 땀, 흘려주도록 하지","Oh, herrlicher Schweiß!"
+3506,,"Sudore, splendido sudore!",讓你流下美麗的汗水吧,,"아름다운 땀, 흘려주도록 하지","Oh, herrlicher Schweiß!"
+3507,,"Sudore, splendido sudore!",讓你流下美麗的汗水吧,,"아름다운 땀, 흘려주도록 하지","Oh, herrlicher Schweiß!"
+3508,,"Sudore, splendido sudore!",讓你流下美麗的汗水吧,,"아름다운 땀, 흘려주도록 하지","Oh, herrlicher Schweiß!"
 3509,,"Sudore, splendido sudore!",讓你流下美麗的汗水吧,,"아름다운 땀, 흘려주도록 하지","Oh, herrlicher Schweiß!"
-3510,,"Sudore, bellissimo sudore!",讓你流下美麗的汗水吧,,"아름다운 땀, 흘려주도록 하지","Oh, herrlicher Schweiß!"
+3510,,"Sudore, splendido sudore!",讓你流下美麗的汗水吧,,"아름다운 땀, 흘려주도록 하지","Oh, herrlicher Schweiß!"
 3511,,Stolto...,真是愚蠢啊……,,어리석군…,Narr ...
-3512,,Hell Crusher II,地獄粉碎Ⅱ,,헬 크러셔Ⅱ,Höllenzerstörer II
+3512,,Distruttore Infernale II,地獄粉碎Ⅱ,,헬 크러셔Ⅱ,Höllenzerstörer II
 3513,,Distruttore Infernale III,地獄粉碎Ⅲ,,헬 크러셔Ⅲ,Höllenzerstörer III
 3514,,X-Cura,X治癒,,엑스 힐,X-Heilung
 3515,,[f1Gioca],[f1あそぶ],,[f1あそぶ],[f1あそぶ]
@@ -467,7 +467,7 @@ ID,Japanese,English,Chinese,EnglishCensored,Korean,German
 3571,,Tempesta di Vento Purificatrice,肅清的狂風暴雨,,숙청의 게일 스톰,Reinigender Sturm
 3572,,Laser Lucente di Regressione,逆行的閃耀雷射,,소행의 샤인 레이저,Strahlender Re-Laser
 3573,,Condanna Demoniaca,定罪的地獄粉碎,,단죄의 헬 크러셔,Höllenzerstörer-Urteil
-3574,,Bandire Mach Rush,放逐的馬赫突擊,,추방의 마하 러시,Verbannender Machsturm
+3574,,Bandire Scatto Mach,放逐的馬赫突擊,,추방의 마하 러시,Verbannender Machsturm
 3575,,Sacrificio di Potenza,犧牲力量,,파워 새크리파이스,Kraftopfer
 3576,,Sacrificio Magico,犧牲魔法,,매직 새크리파이스,Magisches Opfer
 3577,,Fioritura Cadente,散花,,산화,Fallende Blüten
@@ -495,7 +495,7 @@ ID,Japanese,English,Chinese,EnglishCensored,Korean,German
 3599,,Luna Piena,滿月,,만월,Vollmond
 3600,,Luna Nuova,新月,,신월,Neumond
 3601,,Benedizione Lunare,月亮的恩惠,,달의 은총,Segen des Mondes
-3602,,Analisi Completata,分析完畢,,분석완료,Analyse abgeschlossen
+3602,,Analisi completata,分析完畢,,분석완료,Analyse abgeschlossen
 3603,,Analisi completata,分析完畢,,분석완료,Analyse abgeschlossen
 3604,,Analisi completata,分析完畢,,분석완료,Analyse abgeschlossen
 3605,,Analisi completata,分析完畢,,분석완료,Analyse abgeschlossen
@@ -511,10 +511,10 @@ ID,Japanese,English,Chinese,EnglishCensored,Korean,German
 3615,,Fine dei Tempi,最終時刻,,종말의 조각,Endzeit
 3616,,Ti estirperò...,將我斬草除根……,,뿌리째 뽑아주지…,Ich vernichte dich ...
 3617,,Distruzione Rovina,破滅的死亡召喚,,파멸의 디스트럭션,Verderbliche Zerstörung
-3618,,Sono felice!,開心！,,기뻐하고 있다!,Ich bin entzückt!
-3619,,Sono arrabbiato!,生氣！！,,분노하고 있다!,Ich bin sauer!
-3620,,Sono triste!,哀傷……,,슬퍼하고 있다…,Ich bin traurig!
-3621,,Sono felice!,快樂♪,,즐거워하고 있다♪,Ich bin glücklich!
+3618,,Sono Entusiasta!,開心！,,기뻐하고 있다!,Ich bin entzückt!
+3619,,Sono Arrabbiato!,生氣！！,,분노하고 있다!,Ich bin sauer!
+3620,,Sono Triste!,哀傷……,,슬퍼하고 있다…,Ich bin traurig!
+3621,,Sono Felice!,快樂♪,,즐거워하고 있다♪,Ich bin glücklich!
 3622,,Osservando...,正在靜觀四周……,,관망하고 있다…,Beobachtet ...
 3623,,Operazione,操作,,오퍼레이션,Ausführung
 3624,,Potenzia,版本升級,,버전 업,Verbesserung
@@ -534,9 +534,9 @@ ID,Japanese,English,Chinese,EnglishCensored,Korean,German
 3638,,Riparazione,修復,,리페어,Reparieren
 3639,,Assorbi Vita,生命耗竭,,라이프 드레인,Lebensentzug
 3640,,Campo Carica Attacco,攻擊填充力場,,어택 차지 필드,Angriffsladung (Feld)
-3641,,Campo di Carica della Guardia,守備填充力場,,가드 차지 필드,Verteidigungsladung (F.)
-3642,,Campo di Carica Mentale,智能填充力場,,멘탈 차지 필드,Geistladung (Feld)
-3643,,Campo di carica velocità,速度填充力場,,스피드 차지 필드,Geschwind.-Ladung (F.)
+3641,,Campo Carica Guardia,守備填充力場,,가드 차지 필드,Verteidigungsladung (F.)
+3642,,Campo Carica Mentale,智能填充力場,,멘탈 차지 필드,Geistladung (Feld)
+3643,,Campo Carica Velocità,速度填充力場,,스피드 차지 필드,Geschwind.-Ladung (F.)
 4000,,Capsula HP C,HP膠囊C,,HP캡슐 C,TP-Kapsel C
 4001,,Capsula HP B,HP膠囊B,,HP캡슐 B,TP-Kapsel B
 4002,,Capsula HP A,HP膠囊A,,HP캡슐 A,TP-Kapsel A
@@ -554,7 +554,7 @@ ID,Japanese,English,Chinese,EnglishCensored,Korean,German
 4014,,Recupero Panico,混亂復原,,패닉 리커버리,Panikheilung
 4015,,Recupero Paralisi,麻痺復原,,패럴라이즈 리커버리,Lähmungsheilung
 4016,,Recupero Sonno,睡眠復原,,슬립 리커버리,Schlafheilung
-4017,,Recupero da Stordimento,暈眩復原,,스턴 리커버리,Betäubungsheilung
+4017,,Recupero Stordimento,暈眩復原,,스턴 리커버리,Betäubungsheilung
 4018,,Recupero Sprite,液晶化復原,,도트 리커버리,Sprite-Heilung
 4019,,Ripristino Bug,Bug復原,,버그 리커버리,Fehlerheilung
 4020,,Multi Recupero,萬能復原,,멀티 리커버리,Multiheilung
@@ -563,12 +563,12 @@ ID,Japanese,English,Chinese,EnglishCensored,Korean,German
 4023,,Capsula di Rianimazione DX,復活膠囊DX,,리바이브 리커버리 DX,Wiederbelebungskapsel DX
 4024,,Spray di Rivitalizzazione Totale,完全復活噴霧,,풀 리바이브 스프레이,Komplette Wiederbelebungs-Spray
 4025,,Potenziamento ATK,ATK增幅器,,ATK 부스트,ANG-Boost
-4026,,Aumento DEF,DEF增幅器,,DEF 부스트,VER-Boost
+4026,,Potenziamento DEF,DEF增幅器,,DEF 부스트,VER-Boost
 4027,,Potenziamento INT,INT增幅器,,INT 부스트,INT-Boost
 4028,,Potenziamento SPD,SPD增幅器,,SPD 부스트,GES-Boost
-4029,,Potenziamento PREC.,HIT增幅器,,HIT 부스트,TRE-Boost
+4029,,Potenziamento HIT.,HIT增幅器,,HIT 부스트,TRE-Boost
 4030,,Potenziamento AGL,AGL增幅器,,AGL 부스트,GEW-Boost
-4031,,Pot. Critico,CRT增幅器,,CRT 부스트,KRT-Boost
+4031,,Potenziamento CRT,CRT增幅器,,CRT 부스트,KRT-Boost
 4032,,Varco di fuga,ESCAPE GATE,,이스케이프 게이트,Fluchttor
 5000,,Attacco,攻擊,,공격,Angriff
 6000,,Cristallo Enorme,巨大的水晶,,거대한 크리스탈,Großer Kristall
@@ -594,7 +594,7 @@ ID,Japanese,English,Chinese,EnglishCensored,Korean,German
 6020,,Respiro di Wyvern,飛龍之息,,브레스 오브 와이번,Lindwurmodem
 6021,,Ruggito del Drago,龍之怒吼,,드래곤즈 로어,Drachengebrüll
 6022,,Pandemonium Perduto,群魔殿迷失,,판데모니엄 로스트,Verlorenes Pandämonium
-6023,,Pandemonio Perduto,群魔殿迷失,,판데모니엄 로스트,Verlorenes Pandämonium
+6023,,Pandemonium Perduto,群魔殿迷失,,판데모니엄 로스트,Verlorenes Pandämonium
 6024,,Mach Stinger V,馬赫刺針V,,마하스팅거V,Machstich V
 6025,,Gloria di Pendragon,大龍頭之光榮,,펜드래건즈 글로리,Pendragons Ruhm
 6026,,Impatto Draconico,龍魂衝擊,,드래고닉 임팩트,Drachen-Einschlag
@@ -611,8 +611,8 @@ ID,Japanese,English,Chinese,EnglishCensored,Korean,German
 6037,,Impatto Doppio,雙重衝擊,,더블 임팩트,Doppelter Einschlag
 6038,,Terremoto!Esplosione!Fuoco!Padre!,地神！神鳴！神馳！親父！,,지신! 신명! 신치! 친부!,Beben!Expl.!Feuer!Vater!
 6039,,Giudizio della Lama,轍劍制裁,,철검성패,Klingenurteil
-6040,,Omni Sword,奧米加之劍,,오메가 블레이드,Omnischwert
-6041,,Attacco di cuori,愛心一擊,,러블리 어택,Liebesattacke
+6040,,Spada Omni,奧米加之劍,,오메가 블레이드,Omnischwert
+6041,,attacco d'Amore,愛心一擊,,러블리 어택,Liebesattacke
 6042,,Cannone Supremo,加魯魯加農炮,,가루루 캐논,Überlegene Kanone
 6043,,Disastro Demoniaco,惡魔災難,,데몬즈 디자스터,Dämonisches Unheil
 6044,,Cannone Catastrofe,大災難,,카타스트로피 캐논,Katastrophenkanone
@@ -640,8 +640,8 @@ ID,Japanese,English,Chinese,EnglishCensored,Korean,German
 8016,,Debug: Tutti i debuff nemici,敵方全體陷入異常狀態（除錯專用）,,적 전원 상태이상(디버깅용),Debug: Gegner-Debuffs
 8017,,Debug: Tutti i nemici sconfitti,敵方全體立即死亡（除錯專用）,,적 전원 즉사(디버깅용),Debug: alle Gegner tot
 8018,,Debug: Uccidi Alleato,殺害我方（除錯專用）,,아군 죽음(디버깅용),Debug: Verbündeten töten
-8019,,Debug: CRT Attacco singolo 1,CRT單體攻擊1（除錯專用）,,CRT단체공격1(디버깅용),Debug: KRT ein Angr. 1
-8020,,Debug: CRT Att. totale 2,CRT全體攻擊2（除錯專用）,,CRT집단공격2(디버깅용),Debug: KRT alle Angr. 2
+8019,,Debug: CRT Attacco Singolo 1,CRT單體攻擊1（除錯專用）,,CRT단체공격1(디버깅용),Debug: KRT ein Angr. 1
+8020,,Debug: CRT Attacco Totale 2,CRT全體攻擊2（除錯專用）,,CRT집단공격2(디버깅용),Debug: KRT alle Angr. 2
 1248,,Lancia Fulmine,紫電長矛,,라이트닝 스피어,Blitzlanze
 1249,,Corona Destroyer,混沌烈焰,,카오스 플레어,Todeskranz
 1250,,Ruggito Oscuro,黑暗咆嘯,,다크로어,Dunkelschrei
@@ -703,7 +703,7 @@ ID,Japanese,English,Chinese,EnglishCensored,Korean,German
 1306,,Mille Pungi,千打重擊,,사운전드 피스트,Tausend Fäuste
 1307,,Pioggia Nera,黑雨,,블랙 레인,Schwarzer Regen
 1308,,Fiammata Suprema,終極爆炎炮,,얼티밋 플레어,Ultimative Fackel
-1309,,God Matrix,神之矩陣,,갓 매트릭스,Gottesmatrix
+1309,,Matrice Divina,神之矩陣,,갓 매트릭스,Gottesmatrix
 1310,,Lance Distopiche,幻滅長矛,,디스토피아 랜스즈,Dystopische Lanzen
 1311,,Aurora Blaster,極光衝彈,,오로라 블래스터,Aurora-Blaster
 1312,,Lama Celestiale,天羽羽斬,,천우우참,Himmelsklinge
@@ -772,21 +772,21 @@ ID,Japanese,English,Chinese,EnglishCensored,Korean,German
 1377,,Mascherata a Spirale,螺旋華舞,,스파이럴 매스커레이드,Spiral-Maskerade
 1378,,Pugno di Atena,急迫恐懼,,어전트 피어,Athenes Faust
 3644,,Programma di Repulsione Attivato...,啟動擊退程式……,,격퇴 프로그램 기동…,Abwehrprogramm ein ...
-3645,,Programma di cancellazione attivato...,啟動排除程式……,,배제 프로그램 기동…,Löschprogramm ein ...
+3645,,Programma di Cancellazione Attivato...,啟動排除程式……,,배제 프로그램 기동…,Löschprogramm ein ...
 3646,,20% Completato...,20%完成……,,20%완료…,20 % abgeschlossen ...
 3647,,40% Completato...,40%完成…,,40%완료…,40 % abgeschlossen ...
 3648,,80% Completato...,80%完成……,,80%완료…,80 % abgeschlossen ...
 3649,,Completo al 100%.,100%完成,,100%완료,100 % abgeschlossen.
 3650,,Completo al 100%.,100%完成,,100%완료,100 % abgeschlossen.
 3651,,Pulizia,清除完成,,클린 업,Bereinigung
-3652,,Aggiornamento di sistema,系統升級,,시스템 업데이트,System-Update
-3653,,Aggiornamento di sistema,系統升級,,시스템 업데이트,System-Update
-3654,,Aggiornamento di sistema,系統升級,,시스템 업데이트,System-Update
-3655,,Aggiornamento di sistema,系統升級,,시스템 업데이트,System-Update
-3656,,Aggiornamento di sistema,系統升級,,시스템 업데이트,System-Update
-3657,,Aggiornamento di sistema,系統升級,,시스템 업데이트,System-Update
-3658,,Aggiornamento del sistema,系統升級,,시스템 업데이트,System-Update
-3659,,Aggiornamento di sistema,系統升級,,시스템 업데이트,System-Update
+3652,,System-Update,系統升級,,시스템 업데이트,System-Update
+3653,,System-Update,系統升級,,시스템 업데이트,System-Update
+3654,,System-Update,系統升級,,시스템 업데이트,System-Update
+3655,,System-Update,系統升級,,시스템 업데이트,System-Update
+3656,,System-Update,系統升級,,시스템 업데이트,System-Update
+3657,,System-Update,系統升級,,시스템 업데이트,System-Update
+3658,,System-Update,系統升級,,시스템 업데이트,System-Update
+3659,,System-Update,系統升級,,시스템 업데이트,System-Update
 3660,,Ve lo farò vedere!,讓你見識我的決心！,,나의 진심을 보여주지!,Ich zeig’s dir!
 3661,,Fuori dai piedi!,別來礙事……！,,방해하지 마…!,Aus dem Weg!
 3662,,Fuori dai piedi!,別來礙事……！,,방해하지 마…!,Aus dem Weg!
@@ -816,30 +816,30 @@ ID,Japanese,English,Chinese,EnglishCensored,Korean,German
 3686,,Vuoi tornare a casa...,想要回去……,,돌아가고 싶어하고 있다…,Du willst nach Hause ...
 3687,,Cambio Forma: Magia,構造變化【魔力型】,,구조변화(마법형),Gestalt: Magie
 3688,,Cambio Forma: Distruzione,構造變化【殲滅型】,,구조변화(섬멸형),Gestalt: Zerstörung
-3689,,Carica memoria,讀取記憶,,로드 메모리,Erinnerung laden
-3690,,Frammento di Memoria,記憶碎片,,기억의 단편,Gedächtnisfragment
+3689,,Carica Memoria,讀取記憶,,로드 메모리,Erinnerung laden
+3690,,Frammento Memoria,記憶碎片,,기억의 단편,Gedächtnisfragment
 3691,,Carica Memoria,讀取記憶,,로드 메모리,Erinnerung laden
-3692,,Frammento di memoria,記憶碎片,,기억의 단편,Gedächtnisfragment
+3692,,Frammento Memoria,記憶碎片,,기억의 단편,Gedächtnisfragment
 3693,,Carica Memoria,讀取記憶,,로드 메모리,Erinnerung laden
-3694,,Frammento di memoria,記憶碎片,,기억의 단편,Gedächtnisfragment
-3695,,Carica memoria,讀取記憶,,로드 메모리,Erinnerung laden
-3696,,Frammento di Memoria,記憶碎片,,기억의 단편,Gedächtnisfragment
+3694,,Frammento Memoria,記憶碎片,,기억의 단편,Gedächtnisfragment
+3695,,Carica Memoria,讀取記憶,,로드 메모리,Erinnerung laden
+3696,,Frammento Memoria,記憶碎片,,기억의 단편,Gedächtnisfragment
 3697,,Rilascia Memoria,釋放記憶,,릴리스 메모리,Erinnerung freigeben
-3698,,"Riserva di Energia ""2""",能源儲存槽【2】,,에너지 스톡【2】,"Energiereserve, 2"
-3699,,"Riserva Energia ""1""",能源儲存槽【1】,,에너지 스톡【1】,"Energiereserve, 1"
-3700,,"Scorta di Energia ""0""",能源儲存槽【0】,,에너지 스톡【0】,"Energiereserve, 0"
+3698,,"Riserva Energia 2",能源儲存槽【2】,,에너지 스톡【2】,"Energiereserve, 2"
+3699,,"Riserva Energia 1",能源儲存槽【1】,,에너지 스톡【1】,"Energiereserve, 1"
+3700,,"Riserva Energia 0",能源儲存槽【0】,,에너지 스톡【0】,"Energiereserve, 0"
 3701,,Protetto...,被保護著……,,보호받고 있다……,Geschützt ...
 3702,,Protetto...,被保護著……,,보호받고 있다…,Geschützt ...
 3703,,Protezione Svanita!,保護無效了！,,보호가 사라졌다!,Schutz aufgehoben!
 3704,,Auto-Ripristino,自我修復,,자기회복,Selbstwiederherstellung
 3705,,Tekeli-li,泰克利．利,,테켈리-리,Tekeli-li
 3706,,Maledizione,咒術,,주술,Fluch
-3707,,Amore di sorella minore,妹妹的愛,,여동생의 사랑,Liebe: Kleine Schwester
+3707,,Amore di Sorella Minore,妹妹的愛,,여동생의 사랑,Liebe: Kleine Schwester
 3708,,Amore da Sorella Maggiore,姊姊的愛,,언니의 사랑,Liebe: Große Schwester
 3709,,Normalizza,正常化,,정상화,Normalisieren
 3710,,Ve lo farò vedere!,讓你看看我的決心！,,나의 진심을 보여주지!,Ich zeig’s dir!
 3711,,"Lo userò, grazie.",讓我用用吧,,사용해보도록 하지,"Benutze ich, danke."
-3712,,Terremoto Formidabile III,地牛翻身Ⅲ,,어스퀘이크Ⅲ,Gewaltiges Erdbeben III
+3712,,Terremoto Devastante III,地牛翻身Ⅲ,,어스퀘이크Ⅲ,Gewaltiges Erdbeben III
 3713,,Matrice Divina,神之矩陣,,갓 매트릭스,Gottesmatrix
 3714,,Overclock,超頻,,오버 클록,Übertaktung
 3715,,Codice di Recupero,恢復編碼,,리커버리 코드,Rückgewinnungs-Code
@@ -855,7 +855,7 @@ ID,Japanese,English,Chinese,EnglishCensored,Korean,German
 3725,,Giochiamo un po'...,來陪你玩一下吧……,,잠깐 놀아주마…,Lass uns spielen ...
 3726,,Rigenerazione,播放,,재생,Regeneration
 3727,,Cannone Distruttivo III,破壞加農Ⅲ,,디스트로이 캐논Ⅲ,Zerstörungskanone III
-3728,,Arco di Ghiaccio III,寒冰之箭Ⅲ,,아이스 아처리Ⅲ,Eisbogenschießen III
+3728,,Freccia Gelida III,寒冰之箭Ⅲ,,아이스 아처리Ⅲ,Eisbogenschießen III
 3729,,Colpo Pesante III,重度強襲Ⅲ,,헤비 스트라이크Ⅲ,Schwerer Schlag III
 3730,,Ritorno al Potere,力之還原,,힘의 환원,Zurück an die Macht
 3731,,Ritorno al Potere,力之還原,,힘의 환원,Zurück an die Macht
@@ -864,7 +864,7 @@ ID,Japanese,English,Chinese,EnglishCensored,Korean,German
 3734,,Non sottovalutarmi!,可別小看我啊！,,얕보지 마라!,Unterschätz mich nicht!
 3735,,Lascia fare a Lily,交給莉莉吧♪,,릴리에게 맡겨줘♪,Überlass es Lily
 3736,,Lascia fare a Lily,交給莉莉吧♪,,릴리에게 맡겨줘♪,Überlass es Lily
-3737,,Senza trattenersi,我不會手下留情,,봐주진 않겠다,Keine Hemmungen
+3737,,Nessuna Inibizione,我不會手下留情,,봐주진 않겠다,Keine Hemmungen
 3738,,Ci siamo.,做好準備吧,,각오해둬라,Los geht’s
 3739,,Prova del Drago Sacro,聖龍試煉,,성룡의 시련,Heiliger-Drache-Prüfung
 3740,,Processo del Drago Malvagio,邪龍試煉,,사룡의 시련,Böser-Drache-Prüfung
@@ -897,34 +897,34 @@ ID,Japanese,English,Chinese,EnglishCensored,Korean,German
 4058,,,,,,
 4059,,Cannone Infinito,無限大炮,,∞캐논,Unendlichkeitskanone
 6050,,Programma Repellente α,擊退程式―α,,격퇴 프로그램―α,Abwehrprogramm α
-6051,,Programma di Repulsione β,擊退程式―β,,격퇴 프로그램―β,Abwehrprogramm β
+6051,,Programma Repellente β,擊退程式―β,,격퇴 프로그램―β,Abwehrprogramm β
 6052,,Programma Repellente γ,擊退程式―γ,,격퇴 프로그램―γ,Abwehrprogramm γ
 6053,,Programma Repellente δ,擊退程式―δ,,격퇴 프로그램―δ,Abwehrprogramm δ
-6054,,Programma di cancellazione α,排除程式―α,,배제 프로그램―α,Löschprogramm α
+6054,,Programma di Cancellazione α,排除程式―α,,배제 프로그램―α,Löschprogramm α
 6055,,Programma di Cancellazione β,排除程式―β,,배제 프로그램―β,Löschprogramm β
-6056,,Programma di cancellazione γ,排除程式―γ,,배제 프로그램―γ,Löschprogramm γ
+6056,,Programma di Cancellazione γ,排除程式―γ,,배제 프로그램―γ,Löschprogramm γ
 6057,,Programma di Cancellazione δ,排除程式―δ,,배제 프로그램―δ,Löschprogramm δ
 6058,,Assalto Furioso,襲擊衝刺,,어설트 러시,Angriffssturm
-6059,,Colpo a ventaglio,擴散射擊,,스프레드 샷,Streuschuss
-6060,,Perdita di memoria,記憶外洩,,메모리 리크,Speicherverlust
+6059,,Colpo a Ventaglio,擴散射擊,,스프레드 샷,Streuschuss
+6060,,Perdita di Memoria,記憶外洩,,메모리 리크,Speicherverlust
 6061,,Mondo Nostalgico,世界．鄉愁,,월드 노스탤직,Nostalgiewelt
 6062,,Mondo Nostalgico,世界．鄉愁,,월드 노스탤직,Nostalgiewelt
 6063,,Mondo Nostalgico,世界．鄉愁,,월드 노스탤직,Nostalgiewelt
 6064,,Ain Soph Aur,無限之光,,아인 소프 오울,Ain Soph Aur
 6065,,Paradiso Perduto,失樂園,,로스트 파라다이스,Verlorenes Paradies
-6066,,Martello di coda,尾部重鎚,,테일 해머,Schwanzhammer
+6066,,Martello di Coda,尾部重鎚,,테일 해머,Schwanzhammer
 6067,,Sogno Infinito,無限美夢,,인피니티 드림,Unendlichkeitstraum
 6068,,Distruttore di Funghi,劇毒超蘑菇,,포이즌 스매쉬,Pilzzerstörer
 6069,,Occhio della Gorgone,美杜莎之眼,,아이 오브 더 고곤,Gorgonen-Auge
-6070,,Crystal Revolution,水晶革命,,크리스탈 레볼루션,Kristallrevolution
+6070,,Rivoluzione di Cristallo,水晶革命,,크리스탈 레볼루션,Kristallrevolution
 6071,,Rivoluzione di Cristallo,水晶革命,,크리스탈 레볼루션,Kristallrevolution
 6072,,Occhio della Gorgone,美杜莎之眼,,아이 오브 더 고곤,Gorgonen-Auge
 6073,,Rivoluzione di Cristallo,水晶革命,,크리스탈 레볼루션,Kristallrevolution
 6074,,Driver Vulcanico,火山驅動,,볼케닉 드라이버,Vulkantreiber
 8021,,Abilità Test 1,測試用技能1,,테스트용 스킬1,Testfertigkeit 1
 8022,,Abilità Test 2,測試用技能2,,테스트용 스킬2,Testfertigkeit 2
-8023,,Abilità Trad. 3,測試用技能3,,테스트용 스킬3,Testfertigkeit 3
-8024,,Abilità di supporto 4,測試用技能4,,테스트용 스킬4,Testfertigkeit 4
+8023,,Abilità Test 3,測試用技能3,,테스트용 스킬3,Testfertigkeit 3
+8024,,Abilità Test 4,測試用技能4,,테스트용 스킬4,Testfertigkeit 4
 9001,,Resurrezione Perfetta,完美復活,,퍼펙트 리바이브,Perfekte Wiederbelebung
 9002,,Spada del Re Drago,聖劍開端之刃,,성검 그레이달파,Klinge des Drachenkönigs
 9003,,Bolle,泡泡,,거품,Blasen
