@@ -87,25 +87,25 @@ Ort: Broadway – 1. Stock"
 103,,Inizio: Broadway 1°piano.,從BW1F某處前往委託人的所在地,,BW 1F 어딘가에서 의뢰인이 있는 곳으로 가자.,Start: Broadway – 1. Stock
 104,,L'ingranaggio di Hagurumon,尋找齒輪獸的齒輪,,톱니몬의 톱니바퀴를 찾는다.,Hagurumons Zahnrad
 120,,Trova gli scomparsi!,行蹤不明的協尋請求！,,실종자 수색을 부탁해!,Vermisstensuche!
-121,,"DemiDevimon! DemiDevimon! Non riesco a trovare
-il mio DemiDevimon! Deve essere da qualche parte
-nel mondo reale. Aiutami a cercarlo!","小惡魔獸！！
+121,,"DemiDevimon! DemiDevimon! Non riesco a
+trovare il mio DemiDevimon! Deve essere nel
+mondo reale. Aiutami a cercarlo!","小惡魔獸！！
 我找不到我的小惡魔獸啊！！
 它一定是在現實世界裡，幫我找到它！！",,"피코데블몬이!!
 나의 피코데블몬이 보이질 않아!!
 현실 세계에 있을텐데 찾아줘!!","DemiDevimon! DemiDevimon! Ich kann mein
 DemiDevimon nicht finden! Es muss in der
 echten Welt sein. Hilf mir suchen!"
-122,,"Cliente: Hacker Impulsivo
+122,,"Cliente: Hacker Nervoso
 Luogo: Incerto","【委託人】愛操心的駭客
 【所在地】不明",,"【의뢰인】걱정 많은 해커
 【장소】불명","Klient: Nervöser Hacker
 Ort: Unklar"
 123,,DemiDevimon in città,尋找徘徊在某條街上的小惡魔獸,,어떤 거리에 있는 피코데블몬을 찾자.,DemiDevimon in Stadt
 140,,Sogno del Cielo,翱翔天際的心願,,하늘에 거는 마음,Der Traum vom Fliegen
-141,,"Il sogno di Biyomon è volare nel
-cielo! Ma non importa quanto Biyomon
-ci provi, non ce la fa... Aiuta Biyomon!","比丘獸的夢想就是在天空中自由翱翔！
+141,,"Il sogno di Biyomon è volare nel cielo!
+Ma non importa quanto Biyomon ci provi,
+non ce la fa... Aiuta Biyomon!","比丘獸的夢想就是在天空中自由翱翔！
 但是，不管怎麼練習還是飛不起來
 該怎麼做才好呢？　聽聽我的煩惱吧",,"피요몬의 꿈은 말야, 자유롭게 하늘을 나는거야!
 그치만 아무리 연습해도 잘 날 수가 없어.
@@ -120,8 +120,8 @@ Ort: Shinjuku"
 143,,Biyomon a Shinjuku,和身在新宿的比丘獸見面,,신주쿠에 있는 피요몬을 만나자.,Biyomon in Shinjuku
 144,,Hawkmon a Shibuya,和身在涉谷的麻鷹獸見面,,시부야에 있는 호크몬을 만나자.,Hawkmon in Shibuya
 160,,Cibo insufficiente,不足的食材,,부족한 식재료,Nicht genug Essen
-161,,"Il mio padrone è molto triste e non
-mangia nemmeno. Voglio preparare del buon cibo!
+161,,"Il mio padrone è molto triste e non mangia
+nemmeno. Voglio preparare del buon cibo!
 Ma non ci riesco! Aiutami!","主人最近不怎麼進食且無精打采的……
 我要為主人製作料理！
 只有我一個人忙不過來，幫幫我吧",,"요즘 식사도 하지 않고 기운이 없는 주인님…
@@ -242,9 +242,9 @@ Ort: Broadway – 3. Stock"
 284,,Vai nello Spazio Digitale,前往數碼空間的深處,,디지털 스페이스의 안쪽으로 향하자.,In den Digitalraum
 285,,Combatti Justimon,接受來自裁決獸的挑戰,,저스티몬의 승부를 받아들이자.,Justimon bekämpfen
 300,,Vanto Costante,自吹自擂也該適可而止,,자랑도 적당히,Dauerprahlen
-301,,"BanchoLeomon non smetterà di vantarsi!
-Il mio amico mi aveva avvertito...
-Qualcuno, per favore, faccia smettere BanchoLeomon!","我的朋友找我商量
+301,,"BanchoLeomon non smetterà di vantarsi! Il mio
+amico mi aveva avvertito... Qualcuno,
+per favore, faccia smettere BanchoLeomon!","我的朋友找我商量
 說番長獅子獸一吹噓起來就沒完沒了
 有沒有人可以阻止它呀？",,"나도 친구한테 전해들은 이야기지만
 반쵸레오몬의 자랑 이야기가 너무 길대.
@@ -278,8 +278,8 @@ Ort: K-Café"
 324,,Segui Minervamon,追上密涅瓦獸,,미네르바몬을 만나자.,Minervamon folgen
 340,,Potrebbe essere... uno stalker!?,難不成……是跟蹤狂！？,,설마……스토커!?,Könnte es ... ein Stalker sein?!
 341,,"Sento come se qualcuno mi stesse seguendo
-in giro. Non so chi, ma non mi
-piace. Chiedigli di smettere.","最近總是感覺有人尾隨在我身後
+in giro. Non so chi, ma non mi piace.
+Chiedigli di smettere.","最近總是感覺有人尾隨在我身後
 因為不知道對方是誰，更讓人不舒服
 你可以揭發犯人並阻止他嗎？",,"최근에 누군가가 뒤를 밟고 있는 것 같다.
 정체를 모르니 한층 기분이 나빠.
@@ -310,10 +310,10 @@ Luogo: Ospedale Centrale","【委託人】鼻涕獸
 Ort: Zentralkrankenhaus"
 363,,Inizia all'ospedale,從醫院某處前往委託人的所在地,,병원 어딘가에서 의뢰인이 있는 곳으로 향하자.,Start im Krankenhaus
 364,,8 gusci di Shakomon,打倒蝦蛄獸，蒐集8個貝殼,,샤코몬을 쓰러뜨리고 조개껍데기를 8개 모으자.,8 Syakomon-Panzer
-380,,CD autografato della Principessa,小媛媛的親筆簽名CD！,,히메짱의 사인이 든 CD!,Die signierte Prinzessin-CD
-381,,"Conosci la cantante, Princess, vero? Io
-voglio partecipare all'evento invece.
-E poi posso spingere i miei CD autografati. Ehehe!","你一定知道一個叫做小媛媛的歌手吧？
+380,,CD autografato da Princess,小媛媛的親筆簽名CD！,,히메짱의 사인이 든 CD!,Die signierte Prinzessin-CD
+381,,"Conosci la cantante, Princess, vero? Io voglio
+partecipare all'evento. Voglio andare all'evento
+e prendere dei CD autografati. Hehe!","你一定知道一個叫做小媛媛的歌手吧？
 我想拜託你代替我參加活動
 幫我買附贈親筆簽名的CD……嘿嘿嘿",,"가수 히메짱은 당연히 알고 계시겠죠?
 대리로 이벤트에 참가하고 싶거든요.
@@ -341,7 +341,7 @@ Gli porteresti una coperta?","我在路上看見了機械暴龍獸
 그러니 부탁이야. 담요를 전해줘!","Ich habe draußen ein MetalGreymon
 gesehen. Es sah ganz traurig aus und ihm
 war kalt. Bringst du ihm eine Decke?"
-402,,"Cliente: Ragazza dal Cuore Gentile
+402,,"Cliente: Bambina dal Cuore Gentile
 Luogo: Negozio di Dolciumi, Broadway 3F","【委託人】善良的女孩
 【所在地】百老匯3F‧玩具店",,"【의뢰인】상냥한 여자아이
 【장소】브로드웨이 3F, 장난감 가게","Klient: Gutherziges Mädchen
@@ -418,9 +418,9 @@ Luogo: K-Cafe","【委託人】線上百科網站站長
 【所在地】K-Cafe",,"【의뢰인】사전 사이트 관리인
 【장소】K-카페","Klient: Lexikon-Administratorin
 Ort: K-Café"
-483,,Connect Jump K-Cafe,在K-Cafe的電腦上登入跳躍,,K-카페의 PC로 커넥트 점프를 하자.,Verbindungssprung K-Café
+483,,Connettiti al Jump K-Cafe,在K-Cafe的電腦上登入跳躍,,K-카페의 PC로 커넥트 점프를 하자.,Verbindungssprung K-Café
 484,,Trova il criminale,在數碼空間裡尋找犯人,,디지털 스페이스에서 범인을 찾자.,Verbrecher finden
-500,,Problemi alla Digipedia Continuati,續‧奇怪的免費線上百科,,이상한 프리 백과사전2,Weitere Probleme mit der Digipedia
+500,,Ulteriori problemi con Digipedia,續‧奇怪的免費線上百科,,이상한 프리 백과사전2,Weitere Probleme mit der Digipedia
 501,,"Lo stesso problema si è ripresentato.
 La Digipedia è in grave pericolo!
 Potresti darmi una mano?","又發生了和前陣子相同的問題
@@ -435,7 +435,7 @@ Luogo: K-Cafe","【委託人】線上百科網站站長
 【所在地】K-Cafe",,"【의뢰인】사전 사이트 관리인
 【장소】K-카페","Klient: Lexikon-Administratorin
 Ort: K-Café"
-503,,Connect Jump K-Cafe,在K-Cafe的電腦上登入跳躍,,K-카페의 PC로 커넥트 점프를 하자.,Verbindungssprung K-Café
+503,,Connettiti al Jump K-Cafe,在K-Cafe的電腦上登入跳躍,,K-카페의 PC로 커넥트 점프를 하자.,Verbindungssprung K-Café
 504,,Trova il criminale,在數碼空間裡尋找犯人,,디지털 스페이스에서 범인을 찾자.,Verbrecher finden
 520,,Il Dott. Datamon Sviluppa una Medicina,分子獸博士的新藥開發,,데이터몬 박사의 신약 개발,Dr. Datamon entwickelt Medizin
 521,,"Sono un famoso esperto nella creazione di 
@@ -456,8 +456,8 @@ Ort: Zentralkrankenhaus"
 524,,Trova delle erbe,尋找藥草,,약초를 찾으러 가자.,Kräuter suchen
 525,,Trova due ingredienti,尋找作為藥物材料的2項道具,,약의 소재가 될 아이템을 2개 찾아오자.,Zwei Zutaten suchen
 540,,La Prova della Medicina del Dott. Datamon,分子獸博士的新藥實驗,,데이터몬 박사의 신약 실험,Dr. Datamons medizinischer Test
-541,,"Sono un famoso esperto nel preparare medicine 
-per Digimon. Chiamatemi ""Dott. Datamon"".
+541,,"Sono un famoso esperto nella creazione di 
+medicine per Digimon. Chiamami ""Dott. Datamon"".
 Ho bisogno di aiuto con il mio prototipo.","為數碼寶貝製作藥物而聞名的博士
 －－分子獸博士指的就是我
 這次我也想要借助你的力量執行新藥的實驗",,"디지몬을 위한 약 만들기로 유명한 박사
@@ -473,8 +473,8 @@ Ort: Zentralkrankenhaus"
 543,,Inizia all'ospedale,從醫院某處前往委託人的所在地,,병원 어딘가에서 의뢰인이 있는 곳으로 향하자.,Start im Krankenhaus
 544,,Dai la medicina a 4,讓4隻數碼寶貝服下藥物,,약을 4마리의 디지몬에게 먹여보자.,4-mal Medizin geben
 560,,Medicina Dott. Datamon Completa,分子獸博士的新藥完成,,데이터몬 박사의 신약 완성,Dr. Datamons vollendete Medizin
-561,,"Sono un famoso esperto nella creazione di medicine 
-per Digimon. Chiamami ""Dott. Datamon"".
+561,,"Sono un famoso esperto nella creazione di 
+medicine per Digimon. Chiamami ""Dott. Datamon"".
 Ho bisogno di aiuto con il mio esperimento finale!","為數碼寶貝製作藥物而聞名的博士
 －－分子獸博士指的就是我
 藥物的最終實驗……希望你能幫忙",,"디지몬을 위한 약 만들기로 유명한 박사
@@ -958,9 +958,9 @@ Ort: DigiLab"
 1526,,1 [m3010] hacker,打到[m3010]的最後一名駭客,,[m3010]의 해커 남은 1명을 쓰러뜨려라.,1 Hacker in [m3010]
 1527,,Riporta a Mirei,向米蕾報告,,미레이에게 보고하자.,Mit Mirei sprechen
 2000,,La sfida di Rina Shinomiya,四之宮莉娜的挑戰書,,시노미야 리나의 도전장,Rina Shinomiyas Herausforderung
-2001,,"Voglio un incontro con te!
-Voglio mostrarti la mia passione!
-La mia zuppa mattutina mi mantiene forte! Ahaha!","我要向你提出挑戰！
+2001,,"Voglio un incontro con te! Voglio mostrarti
+la mia passione! La mia zuppa mattutina mi
+mantiene forte! Ahaha!","我要向你提出挑戰！
 接受我熱血沸騰的鬥志吧！
 早上喝味噌湯對內臟很好！哇哈哈！",,"너에게 승부를 신청하겠다!
 내 불타오르는 투지를 받아보아라―!

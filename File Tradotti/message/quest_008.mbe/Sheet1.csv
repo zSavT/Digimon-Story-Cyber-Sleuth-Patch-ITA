@@ -57,8 +57,7 @@ Ich habe Ramen gekocht!"
 bringst."
 123,1078,,...Vuoi che lo porti a lei di persona?,……我直接送去給她就好了？,,……내가 직접 전해주러 가면 된다고?,"Du willst, dass ich sie ihr persönlich bringe?"
 124,1078,,"Non potevo, è troppo imbarazzante.
-È la prima volta che faccio un regalo al mio master,
-capisci....","呃，那樣我會有點害羞。
+È la prima volta che faccio un regalo al mio master, capisci....","呃，那樣我會有點害羞。
 因為這是我送給主人的第一個禮物……",,"아니, 그건 좀 부끄러워
 주인님에게 처음으로 드리는 선물이고…","Ich kann das nicht, es ist mir zu peinlich.
 Ich habe meiner Meisterin nämlich noch
@@ -106,8 +105,8 @@ quindi devo dirle qualcosa!","主人不吃東西
 gegessen. Aber eine unmögliche Diät bringt nichts.
 Ich musste etwas sagen!"
 160,1394,,Mmm? Cosa vuoi da me?,嗯？　找我有事嗎？,,응? 나한테 뭔가 볼일이 있어?,Hm? Was willst du von mir?
-161,1394,,"Sei stato mandato da Growlmon per prendere in
-prestito un osso da me? Hmm... Questo potrebbe essere un problema.","古拉獸拜託你來跟我借大骨？
+161,1394,,"Sei stato mandato da Growlmon per prendere in prestito
+un osso da me? Hmm... Questo potrebbe essere un problema.","古拉獸拜託你來跟我借大骨？
 嗯～這有點為難啊。",,"그라우몬이 뼈를 빌려줬으면 한다고?
 으음, 그건 곤란한걸","Growlmon hat dich geschickt und will einen Knochen
 von mir borgen? Hm ...
@@ -166,8 +165,9 @@ Sono a dieta adesso! Non sto mangiando...","把那東西拿給別人吃啦！
 나 지금 다이어트 중이라고!
 한창 금식하는 중인데―…","Moment, wo kommt das überhaupt her?!
 Ich mache gerade eine Diät! Ich esse nicht ..."
-193,2001,,"Growlmon è preoccupato per te, e ci ha messo tutto se stesso per fare
-questo. Ha anche detto che dovresti smetterla di fissarti sul tuo peso.","古拉獸很擔心妳。
+193,2001,,"Growlmon è preoccupato per te.
+Growlmon ha cucinato questo per te con grande impegno.
+Growlmon dice che prendi troppo sul serio il tuo peso.","古拉獸很擔心妳。
 這是古拉獸用心煮的。
 古拉獸叫妳不用顧忌儘管吃胖吧。",,"그라우몬이 걱정하고 있었어
 그라우몬이 마음을 담아 만들었어
@@ -195,9 +195,8 @@ Vuoi dire che Growlmon è preoccupato per me...?","咦？不是那樣？
 그라우몬이 나를 걱정해서 만들어 준 거야…?","Was? So meint er das nicht?
 Du glaubst, dass Growlmon sich um mich
 Sorgen macht ...?"
-200,4051,,"No, ma non posso!
-Non mi è permesso mangiare ramen o torta o niente
-del genere mentre sono a dieta!","不，我不能吃！
+200,4051,,"No, ma non posso! Non mi è permesso mangiare
+ramen o torta o niente del genere mentre sono a dieta!","不，我不能吃！
 為了減肥，我連拉麵和蛋糕都忍住不吃啊！",,"아니, 그래도 안돼!
 다이어트를 위해 라면도 케이크도 참고 있으니까!","Nein, es geht nicht!
 Ich kann während meiner Diät nicht Ramen oder

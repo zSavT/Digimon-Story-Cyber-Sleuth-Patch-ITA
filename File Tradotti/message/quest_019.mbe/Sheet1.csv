@@ -1,5 +1,5 @@
 ﻿ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
-100,4048,,Ah! Tu sei il Cyber Detective…?,啊！你就是那個電腦偵探……？,,하! 당신이 전뇌탐정…?,Ach! Du bist der Cyber-Detektiv ...?
+100,4048,,Ah! Tu sei il Cyber Detective...?,啊！你就是那個電腦偵探……？,,하! 당신이 전뇌탐정…?,Ach! Du bist der Cyber-Detektiv ...?
 101,4048,,"Il tuo nome è [p]?
 Che nome fantastico!","啊～你叫[p]嗎～
 真是個好名字呢！",,"하―, [p] 씨라고 하는군요―
@@ -7,7 +7,7 @@ Che nome fantastico!","啊～你叫[p]嗎～
 Was für ein toller Name!"
 102,4048,,...,…………,,…………,...
 103,4048,,"Ho bisogno del tuo aiuto! Per favore, per favore vai all'evento
-della Principessa e procurami un CD autografato!!","求求你！
+della Princess e procurami un CD autografato!!","求求你！
 請你去參加小媛媛的活動，
 幫我拿到簽名CD！！",,"……부탁입니다!
 부디, 제발 히메짱의 이벤트에 참가해서
@@ -27,9 +27,9 @@ quindi frequento spesso gli eventi per i fan.","我是歌手小媛媛的死忠�
 자주 다니고 있답니다","Ich bin ein großer Fan der Sängerin Prinzessin.
 Natürlich sammle ich ihre Fanartikel. Deshalb bin
 ich häufig bei Fan-Events."
-106,4048,,"Ora sta debuttando con una major!
-È la prima volta che tiene un evento importante!
-Sono così eccitato... Ho una cotta enorme per lei!","而這次小媛媛終於要正式出道了！
+106,4048,,"Ora ha debuttato con una grande etichetta e si
+sta tenendo un grande evento! Sono così emozionato...
+Ho una cotta pazzesca per lei!","而這次小媛媛終於要正式出道了！
 第一次舉辦大型活動！
 我整個人都燃燒起來……萌到一個不行啊！！",,"이번에 히메짱이 메이저 데뷔를 한다고 합니다!
 처음으로 큰 이벤트를 개최한다고 해요!
@@ -41,7 +41,7 @@ Sembra che i Digimon saranno coinvolti in qualche modo.","這次的活動好像�
 聽說是一場會用到數碼寶貝的活動。",,"이번 이벤트는 팬 참가형이라는데 말이죠
 아무래도 디지몬을 사용한 이벤트인 것 같아요","Bei diesem Event scheinen Fans mitzumachen.
 Digimon sind wohl auch mit von der Partie."
-108,4048,,"Il mio amore per Principessa è taaaanto forte,
+108,4048,,"Il mio amore per Princess è taaaanto forte,
 sono sicuro che nessuno sarà in grado di battermi!
 Ma... non so niente dei Digimon...","我對小媛媛的愛情堅定無比，
 我有信心不會輸給任何人！
@@ -83,7 +83,7 @@ problema!","這種程度的委託
 對你來說一定輕而易舉的！對吧！",,"그런 당신이라면
 이 정도의 의뢰는 문제없겠죠! 그렇죠!","Für jemanden wie dich sollte das überhaupt kein
 Problem sein!"
-114,4048,,"Beh, il fatto è che... Principessa non è ancora così conosciuta
+114,4048,,"Beh, il fatto è che... Princess non è ancora così conosciuta
 nella sfera pubblica.","這個方法我也有想過……
 但小媛媛目前
 還不是那麼有知名度的歌手。",,"그것도 생각했지만요…
@@ -119,9 +119,9 @@ Ehm...","我對小媛媛的愛比誰都還要深厚！
 L'evento si sta svolgendo oggi al Tower Records di Shibuya,
 proprio là davanti.","咳，總之呢，
 今天會在前面的涉谷淘兒唱片
-舉行那個活動。","*Ahem* Right then.
-The event is taking place up
-ahead in Shibuya Records today.","엣헴, 그러니까 말이죠
+舉行那個活動。","*Ehm* Bene allora.
+L'evento si sta svolgendo oggi al Tower Records di Shibuya,
+proprio là davanti.","엣헴, 그러니까 말이죠
 이 앞에 있는 시부야의 타워레코드에서 오늘
 그 이벤트가 열립니다","*Räusper* So.
 Das Event findet heute bei Shibuya Records in
@@ -171,12 +171,12 @@ Potrai quindi scambiarla con un CD autografato.","在這張卡上蓋滿6個章�
 히메짱의 사인이 들어간 CD와 교환할 수 있습니다","Wenn ihr sechs Stempel auf der Karte habt, kommt
 wieder her. Ihr könnt sie dann gegen eine
 signierte CD eintauschen."
-128,4049,,"Inoltre, la Principessa ti darà il CD autografato di persona!","而且不只是如此！
+128,4049,,"Inoltre, la Princess ti darà il CD autografato di persona!","而且不只是如此！
 CD將會由小媛媛親手交給各位！！",,"그리고 세상에나!
 CD는 히메짱이 직접 건네드립니다!!","Außerdem gibt Prinzessin euch persönlich die
 signierte CD!"
 129,4048,,"Pri...Pri...Priiiiii!
-La principessa sta per darmi il CD di persona?
+La Princess sta per darmi il CD di persona?
 Allora, potrei davvero arrivare a toccarle la mano!?","天……天……我的天啊！
 小媛媛親手把CD交給我！？
 也就是說，我的手會摸到小媛媛的手了……？",,"히… 히… 히이이이익!
@@ -219,7 +219,7 @@ quindi assicurati di controllarla!","請找這6隻數碼寶貝蓋章！
 힌트는 수시로 디지라인으로 보내겠습니다― 필히 체크입니다!","Holt euch sechs Stempel von allen sechs Digimon!
 Hin und wieder verschicken wir Hinweise über
 Digiline, also schaut unbedingt drauf!"
-201,4048,,"Pri...Pri...La principessa me lo darà personalmente!?",小、小……小媛媛親手拿給我……！,,"히, 히… 히메짱이 직접 건네준다니……!","Pri ... Pri ... Prinzessin wird sie mir
+201,4048,,"Pri...Pri...La Princess me lo darà personalmente!?",小、小……小媛媛親手拿給我……！,,"히, 히… 히메짱이 직접 건네준다니……!","Pri ... Pri ... Prinzessin wird sie mir
 persönlich geben?!"
 202,4048,,"...Eh!? Come mai non sei ancora andato
 a cercare il Digimon!?","怎麼搞的！
@@ -227,14 +227,14 @@ a cercare il Digimon!?","怎麼搞的！
 당신 아직도 디지몬을 찾으러 가지 않은 건가요!?","Was?! Warum hast du noch nicht angefangen,
 die Digimon zu suchen?!"
 203,4048,,"Per favore, vai a compilare la mia scheda per me!
-Fai del tuo meglio! Ti aspetterò qui... Ah... Principessa...","請你代替我把集章卡上的章蓋滿！
+Fai del tuo meglio! Ti aspetterò qui... Ah... Princess...","請你代替我把集章卡上的章蓋滿！
 越快越好！我會在這裡等你的。
 喔……小媛媛……",,"제 대신 스탬프 카드를 모두 모아와주세요!
 되도록 빨리! 저는 여기서 기다리고 있을 테니까
 …아아, 히메짱…","Bitte füll meine Karte für mich aus!
 Gib dein Bestes! Ich warte hier auf dich ...
 Ach ... Prinzessin ..."
-204,4945,,"Awww, la Principessa è tornata nella sua stanza!
+204,4945,,"Awww, la Princess è tornata nella sua stanza!
 Volevo vederla ancora un po'!","唉，小媛媛回去房間了。
 我還想再多看她幾眼呢。",,"아아―, 히메짱, 방으로 돌아가 버렸어
 좀더 보고 싶었는데―","Ach, Prinzessin ist wieder auf ihr Zimmer
@@ -293,12 +293,11 @@ Controllerò DigiLine per maggiori informazioni...","光靠剛才的資訊根本
 디지라인의 정보는 신경써두도록 할까…","Von den Informationen, die wir erhalten haben,
 lässt sich nicht ableiten, wo die Digimon sind.
 Ich schaue mal auf Digiline nach ..."
-250,1387,,"Ah, salve! Stai partecipando all'evento Principessa, vero?","啊，你好～！
+250,1387,,"Ah, salve! Stai partecipando all'evento Princess, vero?","啊，你好～！
 你是參加小媛媛活動的人吧？",,"아, 안녕―!
 히메짱의 이벤트에 참가 중인 사람이지?","Ach, hallo! Du machst bei dem Prinzessin-Event
 mit, nicht wahr?"
-251,1387,,"Allora ti serve un timbro.
-Ecco a te!","那我幫你蓋章。
+251,1387,,"Allora ti serve un timbro. Ecco a te!","那我幫你蓋章。
 來，給你。",,"그럼 스탬프를 찍을게
 자, 여기 있어","Dann willst du wohl einen Stempel.
 Hier, bitte!"
@@ -313,7 +312,7 @@ ma restare qui è davvero noioso.","可以和大家說話是很有趣沒錯…�
 여기 있기만 하는 것도 지루하네에","Mit vielen Leuten zu chatten, macht Spaß, aber
 hier festzustecken ist echt langweilig."
 350,1512,,Ah! Mi hai trovato! Ehehe...,啊！被你找到啦……嘿嘿。,,아! 들켜버렸네… 에헤헤,Ach! Du hast mich gefunden! Hehe ...
-351,1512,,"Sei uno dei partecipanti all'evento della Principessa, giusto?
+351,1512,,"Sei uno dei partecipanti all'evento della Princess, giusto?
 Fammi vedere la tua card e la timbrerò per te!","你是參加小媛媛活動的人吧？
 我幫你蓋章，把集章卡給我吧！",,"히메짱의 이벤트에 참가 중인 사람이지?
 스탬프를 찍을 테니까 카드를 보여줘!","Du bist wegen des Prinzessin-Events
@@ -331,9 +330,9 @@ trovare, non credi?","其實我已經被好幾個人找到了。
 좀 더 알기 어려운 곳에 숨는 게 재밌으려나―?","Viele Leute suchen noch nach mir. Es macht mehr
 Spaß, wenn man ein gutes Versteck findet,
 nicht wahr?"
-400,4051,,"Impossibile! Tu sei Tokomon,
-vero? Sei così carino! Perché sei in un posto
-come questo? Ti sei perso?","天啊～！你是迪哥獸對不對？好可愛哦！
+400,4051,,"Nooo! Sei un Tokomon, vero?
+Sei così carino! Perché sei qui?
+Ti sei perso?","天啊～！你是迪哥獸對不對？好可愛哦！
 為什麼你會在這裡？迷路了嗎？",,"어맛―! 너 토코몬이지? 귀여워라―!
 왜 이런 곳에 있는 거니? 길을 잃어버린 거야?","Neiiin! Du bist Tokomon, oder?
 Du bist so niedlich! Warum bist du denn hier?
@@ -358,7 +357,8 @@ Io... io ti morderò!","真是的！　聽人家講一下話啦！
 …물어버린다―!!","Neiiin! Hör mir zu!
 Ich ... Ich beiße dich!"
 406,2001,,"Aspetta!
-Non mordere! Quello è il mio Digimon!","等一下！
+Non mordere!
+Quello è il mio Digimon!","等一下！
 別咬她！
 那隻數碼寶貝是我的！",,"기다려!
 물지 마!
@@ -468,8 +468,7 @@ Troppo giovane per il caffè, suppongo...","你……真是可憐。
 그렇게 젊은데 커피에 뭔가
 트라우마 같은 게 있는 건가…?","Ach, du armes Ding.
 Wahrscheinlich bist du zu jung für Kaffee."
-609,1514,,"...Oh!
-Mi ero dimenticato del mio lavoro!","呃啊！！
+609,1514,,"...Oh! Mi ero dimenticato del mio lavoro!","呃啊！！
 我忘記要工作了！",,"……가 아니지이이이!!
 일을 잊고 있었어!","... Ach!
 Ich habe meine Aufgabe ganz vergessen!"
@@ -502,7 +501,7 @@ quindi ho dovuto acquisire un palato più raffinato.","咖啡……一喝下去�
 그런 깊고 어려운 맛이 나","Der Kaffee schmeckte beim ersten Schluck schon so
 komplex. Mein Gaumen musste sich daran gewöhnen."
 700,1515,,"Ah, vedo che hai una di quelle carte timbro.
-Devi partecipare all'evento Principessa.","啊，你拿著那張集章卡
+Devi partecipare all'evento Princess.","啊，你拿著那張集章卡
 表示你是小媛媛活動的參加者吧。",,"아, 그 스탬프 카드를 가지고 있다는 건
 히메짱 이벤트의 참가자구나","Ach, wie ich sehe, hast du eine dieser Karten zum
 Stempeln. Du machst wohl bei dem Event
@@ -572,8 +571,7 @@ Stavi puntando alla mia intera testa!","哪是啊！
 你剛才根本就想把我從頭咬下去對不對！？",,"아니야!
 지금 머리부터 덥석 먹으려고 했잖아!?","Du lügst!
 Du hattest es auf meinen ganzen Kopf abgesehen!"
-803,1314,,"Beh, immagino che tu mi abbia
-scoperto allora. Oh beh, peccato, ti mangerò comunque!","嘖，既然穿幫那就沒辦法了。
+803,1314,,"Ah, mi hai scoperto. Che scemo. Ti mangerò comunque!","嘖，既然穿幫那就沒辦法了。
 你就乖乖被我吃掉吧！！",,"켁, 들켰으니 어쩔 수 없네
 얌전히 나한테 먹혀라아!!","Ach, du hast mich durchschaut.
 Zu dumm. Ich werde dich trotzdem fressen!"
@@ -656,9 +654,9 @@ e poi sei venuto qui per prendere la ricompensa?","因為你叫別人幫你收�
 자기만 좋은 걸 독차지하려고 하잖아?","Du hast also jemanden angeheuert, die ganze
 Arbeit mit den Stempeln zu erledigen, und bist
 hergekommen, um die Belohnung abzuholen?"
-965,4048,,"Beh...sì, suppongo di sì... Io...ero solo
-così eccitato all'idea di parlare con te,
-sono un tuo grandissimo fan, sai...","嗯……或許是這樣沒錯……
+965,4048,,"Beh... sì. È vero...
+Ero così emozionato perché volevo parlare con te.
+Sai, sono un tuo grandissimo fan...","嗯……或許是這樣沒錯……
 唉……被最愛的小媛媛這麼講，讓我好受打擊……",,"뭐어… 그럴지도 모르겠네요…
 하아… 정말 좋아하는 히메짱에게 들으니 쇼크…","Nun ... ja. Das stimmt schon ... Ich war so
 aufgeregt, weil ich mit dir sprechen wollte.
@@ -703,8 +701,7 @@ Grazie!!! Io... non so nemmeno cosa dire!","都要感謝[p]！
 그, 그게… 저, 뭐라고 하면 좋을지!!","Vielen, vielen Dank, [p]!
 Danke!
 Ich ... Ich weiß gar nicht, was ich sagen soll!"
-974,4048,,"C-scusa.
-Sono un po' troppo emozionato...",抱、抱歉，我的情緒這麼激動……,,"미, 미안해요. 흥분이 가라앉지 않아서…","T-Tut mir leid.
+974,4048,,"C-scusa. Sono un po' troppo emozionato...",抱、抱歉，我的情緒這麼激動……,,"미, 미안해요. 흥분이 가라앉지 않아서…","T-Tut mir leid.
 Ich bin etwas aufgedreht ..."
 975,4048,,"È stato davvero difficile collezionare tutti i timbri?
 Grazie mille!","收集印章很辛苦吧？
@@ -712,7 +709,7 @@ Grazie mille!","收集印章很辛苦吧？
 정말 고마워요","War es wirklich schwer, die Stempel zu sammeln?
 Ich danke dir!"
 976,4048,,"Sono assolutamente emozionato anche solo per le poche parole
-che sono riuscito a scambiare con la Principessa...
+che sono riuscito a scambiare con la Princess...
 Non ti ringrazierò mai abbastanza!","而且我還能跟小媛媛說到一點話……
 我實在太幸福了！對你真是感激不盡！！",,"게다가 히메짱과 조금이지만 이야기까지 할 수 있었고…
 저, 정말로 행복해요! 감사 감격입니다!!","Ich bin so glücklich, auch nur ein paar Worte mit
@@ -742,7 +739,7 @@ Carini, non è vero? Sono così orgoglioso dei miei Digimon...","你見到我所
 귀엽지? 자랑스러운 디지몬들이야","Du hast all meine Digimon getroffen, nicht wahr?
 Niedlich, oder? Ich bin so stolz auf meine
 Digimon ..."
-1003,4945,,"Uooo... Principessa, sei ancora meglio dal vivo che in TV!
+1003,4945,,"Uooo... Princess, sei ancora meglio dal vivo che in TV!
 Potrei guardarti per sempre!","天啊……小媛媛本人果然可愛到爆……！
 我只有用看的也沒關係！",,"우오―… 역시 직접 보는 히메짱은 심쿵존예야…！
 나, 보는 것만으로도 좋아!","Wooow ... Prinzessin! Live bist du noch besser als

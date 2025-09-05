@@ -248,8 +248,7 @@ es dauert ...!"
 198,2001,,...,……,,……,...
 199,3003,,Certo che cercherò anch'io!,當然，我也會一起找的！,,물론 저도 함께 찾겠습니다!,Natürlich werde ich mich an der Suche beteiligen!
 200,2001,,...,……,,……,...
-201,3003,,"Eh? Non è pericoloso andare
-senza Digimon?",什麼？　不帶數碼寶貝去會很危險？,,…네? 디지몬 없이 가는 건 위험하다고요?,"Was? Ist es nicht gefährlich, ohne Digimon
+201,3003,,"Eh? Non è pericoloso andare senza Digimon?",什麼？　不帶數碼寶貝去會很危險？,,…네? 디지몬 없이 가는 건 위험하다고요?,"Was? Ist es nicht gefährlich, ohne Digimon
 loszugehen?"
 202,3003,,"Non prendermi in giro!
 Ho preparato i Digimon secondari per il mio account ""Yuuko Kamishiro"".","請你別瞧不起我。
@@ -273,8 +272,8 @@ geändert hat."
 252,3006,,"Prima le voci di corridoio che sono sfuggite di mano,
 ora l'avatar...",繼謠言之後，這次換成化身自顧自地行動啊……,,소문 다음엔 아바타가 멋대로 돌아다니기 시작했나…,"Erst waren es die Gerüchte, die immer verrückter
 wurden, jetzt ist es der Avatar ..."
-253,3006,,"Ho provato a cercarlo, ma l'account di Yuugo ha un firewall spesso e non
-sono riuscito ad accedervi dall'esterno...","我稍微調查了一下，YUGO帳號的防禦牆很厚，
+253,3006,,"Ho provato a cercarlo, ma l'account di Yuugo ha un firewall spesso
+e non sono riuscita ad accedervi dall'esterno...","我稍微調查了一下，YUGO帳號的防禦牆很厚，
 無法追蹤從外部進來的反應。",,"…조금 조사해봤지만 유고의 계정은 방벽이 두꺼워서 말이지
 외부에서 온 반응을 쫓는 것이 불가능하다","Ich wollte ihn aufspüren, aber Yuugos Account hat
 eine gute Firewall. Deshalb bin ich von außen
@@ -284,14 +283,14 @@ nicht reingekommen ..."
 Kowloon dove si trova Yuugo.",你在Kowloon一邊收集情報一邊追查『YUGO的行蹤』吧。,,쿠롱에서 정보를 모으면서『유고의 행방』을 쫓도록,"Bitte geh los und befrage Leute, wo Yuugo sich in
 Kowloon aufhalten könnte."
 256,3006,,Ancora...,話說回來……,,그건 그렇고…,Nichtsdestotrotz ...
-257,3006,,"Non so chi sia, ma chiunque sia capace di hackerare un account con un
-firewall così potente deve essere un hacker geniale!","雖然不曉得犯人是誰，但居然能盜用這個防禦牆堅固的帳號……
+257,3006,,"Non so chi sia, ma chiunque sia capace di hackerare un account
+con un firewall così potente deve essere un hacker geniale!","雖然不曉得犯人是誰，但居然能盜用這個防禦牆堅固的帳號……
 看來犯人的技術不是普通高明。",,"누군지는 모르겠지만 방벽이 두꺼운 이 계정을 강탈하다니…
 범인은 꽤 실력이 좋은 해커인 것 같군","Ich weiß nicht, wer es ist, aber es muss ein
 genialer Hacker sein, wenn er einen Account
 mit einer so guten Firewall hacken kann!"
-301,4065,,"Il nascondiglio di Yuugo? Non lo so. Ho
-sentito che il team si è sciolto dopo
+301,4065,,"Il nascondiglio di Yuugo? Non lo so.
+Ho sentito che il team si è sciolto dopo
 l'incidente di Under Zero...","YUGO的行蹤？　我不知道～
 我聽說Under Zero事件後隊伍就解散了耶？",,"유고의 행방? 몰라~
 언더 제로 사건에서 팀 해산했다고 들었는데?","Wo Yuugo sich aufhält? Keine Ahnung. Ich habe
@@ -353,7 +352,7 @@ andato a parlargli, ma...","他是我認識的Zaxon成員，
 所以本來想找他打聽一下的……",,"…알고 있는 잭슨의 해커길래
 탐문을 하려고 했습니다만…","Ich kenne einen Hacker von den Zaxons und habe
 mit ihm geredet, aber ..."
-406,3003,,"Non sono ancora abituato a questo avatar...
+406,3003,,"Non sono ancora abituata a questo avatar...
 È difficile parlare correttamente...e non ho un bell'aspetto,
 il che mi sta turbando.","結果用這個不習慣的化身，我好像……無法自然地說話……
 看來不用那個外型我就無法冷靜下來。",,"익숙하지 않은 아바타라 도무지… 말이 잘 안 나와서…
@@ -489,7 +488,7 @@ Verstehst du das jetzt?"
 518,3001,,Eppure...perché cercheresti di cancellarmi?,但是……妳為什麼會想刪除掉我呢？,,그런데… 그런 나를 어째서 지우려고 하는 거지?,Und doch ... Warum willst du mich löschen?
 519,3001,,"Ti sei trasformato in me per proteggere EDEN, vero?",妳是為了保護EDEN才變成“我”的吧？,,"너는 EDEN을 지키기 위해 ""나""가 된 거잖아?","Du wurdest ich, um EDEN zu schützen, nicht wahr?"
 520,3003,,"...Sì, l'ho fatto.",……沒錯。,,……그래요,"... Ja, das ist richtig."
-521,3003,,"Ero solo e impotente. Non pensavo di poter proteggere EDEN,
+521,3003,,"Ero sola e impotente. Non pensavo di poter proteggere EDEN,
 quindi ho accettato l'invito di Rie.","我自己一個人無力保護EDEN，
 所以才答應里繪姊的邀請。",,"외톨이인 데다 나약한 저로는 EDEN을 지킬 수 없다고 생각해서
 리에 씨의 권유를 받아들였습니다","Ich war allein und machtlos. Ich dachte nicht,
@@ -517,7 +516,7 @@ per quanto terribile io sia.","……就是那樣才糟糕，
 我沉浸在那舒適安逸的感覺中。",,"…그래서 더더욱 가혹해요
 저는 그 기분 좋음에 빠져버렸습니다","... Genau aus diesem Grund habe ich mich
 wohlgefühlt. Ich Monster."
-527,3003,,"A causa di questo, sono stato manipolato da Rie e alla fine,
+527,3003,,"A causa di questo, sono stato manipolata da Rie e alla fine,
 ho gettato l'EDEN di mio padre nel caos.","因此而被里繪姊控制，
 結果……讓爸爸的EDEN亂成一片……！",,"그 때문에 리에 씨에게 조종당해
 결국… 아버지의 EDEN을 어지럽히고 말았어요…!","Deshalb wurde ich von Rie manipuliert und habe
@@ -539,8 +538,8 @@ possiamo vivere!","我以前也是這麼想的。
 不過……在EDEN外面也一樣可以有歸宿！",,"…저도 그렇게 생각했습니다
 하지만… EDEN 외에도 있을 곳은 분명 있어요!","Das dachte ich auch, aber es gibt bestimmte Orte
 außerhalb von EDEN, wo wir leben können!"
-532,3001,,"Forse è vero per te, ma... Io sono un
-programma. Non posso vivere in nessun altro posto.","妳或許是這樣……但我卻不是。
+532,3001,,"Forse è vero per te, ma... Io sono un programma.
+Non posso vivere in nessun altro posto.","妳或許是這樣……但我卻不是。
 因為我是程式。",,"너는 그럴지도 모르지… 하지만 나는 그렇지 않아
 …나는 프로그램이니까 말이야","Für dich vielleicht schon, aber ich bin ein
 Programm. Ich kann nirgends anders leben."
