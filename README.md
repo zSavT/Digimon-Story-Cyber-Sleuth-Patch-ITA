@@ -63,16 +63,16 @@ Le percentuali quì sotto fanno riferimento alla revisione manuale dei testi, la
 - [ ] Terminare interamente la revisione Storia Cyber Sleuth.
 - [ ] Iniziare revisione Hacker's Memory sistemando la sola formattazione nei testi tagliati.
 - [x] Correzione testi con doppi genere indicati.
-- [ ] Revisione Box Dialoghi NPC.
-- [ ] Revisione DigiLine Parte 4.
-- [ ] Revisione Quest Parte 4
+- [x] Revisione Box Dialoghi NPC.
+- [x] Revisione DigiLine Parte 4.
+- [x] Revisione Quest Parte 4
 - [ ] Revisione DigiBook Parte 3
 - [x] Utilizzare termine Eater al posto di Divoratore.
 - [x] Utilizzare correttamente il termine "Tamer".
 - [x] Utilizzare correttamente il termine "Demons".
 - [x] Correzione testi o miglioramenti vari da segnalazioni utenti dirette e indirette.
 - [x] Revisione nomi e descrizione oggetti.
-- [ ] Revisione nomi e descrizione mosse Digimon.
+- [x] Revisione nomi e descrizione mosse Digimon.
 - [x] Revisione dei testi dei menu di gioco e impostazioni.
 
 La lista dell'userStory è presente [qui](https://github.com/zSavT/Digimon-Story-Cyber-Sleuth-Patch-ITA/milestone/4).
