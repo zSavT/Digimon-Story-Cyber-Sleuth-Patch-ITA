@@ -11,6 +11,8 @@
 La realizzazione della patch è stata resa possibile in larga misura grazie al contributo dell'utente "**Lowrentio**". Egli si è dedicato alla comprensione del funzionamento del tool per la modifica dei file di gioco e all'adattamento delle immagini.
 
 - [Digimon Story Cyber Sleuth Patch ITA ](#digimon-story-cyber-sleuth-patch-ita-)
+- [Completamento progetto](#completamento-progetto)
+- [Milestone prossima versione (1.5)](#milestone-prossima-versione-15)
 - [Immagini progetto](#immagini-progetto)
 - [Video dimostrativo](#video-dimostrativo)
 - [Come installare la patch](#come-installare-la-patch)
@@ -25,6 +27,55 @@ La realizzazione della patch è stata resa possibile in larga misura grazie al c
     - [Windows](#windows)
     - [Linux (Steam Deck)](#linux-steam-deck)
 - [Crediti e collaboratori](#crediti-e-collaboratori)
+
+# Completamento progetto
+
+Qui sotto sono riportati i progressi attuali del progetto:
+
+**Pre-traduzione tramite Gemini:**
+  - Storia Cyber Sleuth: ![98%](https://progress-bar.xyz/98)
+  - Storia Hacker's Memory: ![98%](https://progress-bar.xyz/98)
+  - Quest: ![98%](https://progress-bar.xyz/98)
+  - DigiBook: ![98%](https://progress-bar.xyz/98)
+  - DigiLine: ![98%](https://progress-bar.xyz/98)
+  - Dialoghi NPC: ![98%](https://progress-bar.xyz/98)
+  - Abilità, Oggetti ...: ![98%](https://progress-bar.xyz/98)
+  - Menu: ![98%](https://progress-bar.xyz/98)
+  - Altro: ![98%](https://progress-bar.xyz/98)
+  - Texture: ![0%](https://progress-bar.xyz/0)
+
+**Revisione e adattamento manuale dei testi (versione patch 1.4.2):**
+
+Le percentuali quì sotto fanno riferimento alla revisione manuale dei testi, la percentuale "mancante" è stata comunque tradotta nella pre-traduzione.
+  - Storia Cyber Sleuth: ![71%](https://progress-bar.xyz/71)
+  - Storia Hacker's Memory: ![0%](https://progress-bar.xyz/0)
+  - Quest: ![64%](https://progress-bar.xyz/64)
+  - DigiBook: ![54%](https://progress-bar.xyz/54)
+  - DigiLine: ![46%](https://progress-bar.xyz/46)
+  - Dialoghi NPC: ![59%](https://progress-bar.xyz/59)
+  - Abilità, Oggetti ...: ![59%](https://progress-bar.xyz/59)
+  - Menu: ![77%](https://progress-bar.xyz/77)
+  - Altro: ![55%](https://progress-bar.xyz/55)
+  - Texture: ![76%](https://progress-bar.xyz/76)
+
+# Milestone prossima versione (1.5)
+
+- [ ] Terminare interamente la revisione Storia Cyber Sleuth.
+- [ ] Iniziare revisione Hacker's Memory sistemando la sola formattazione nei testi tagliati.
+- [x] Correzione testi con doppi genere indicati.
+- [ ] Revisione Box Dialoghi NPC.
+- [ ] Revisione DigiLine Parte 4.
+- [ ] Revisione Quest Parte 4
+- [ ] Revisione DigiBook Parte 3
+- [x] Utilizzare termine Eater al posto di Divoratore.
+- [x] Utilizzare correttamente il termine "Tamer".
+- [x] Utilizzare correttamente il termine "Demons".
+- [x] Correzione testi o miglioramenti vari da segnalazioni utenti dirette e indirette.
+- [x] Revisione nomi e descrizione oggetti.
+- [ ] Revisione nomi e descrizione mosse Digimon.
+- [x] Revisione dei testi dei menu di gioco e impostazioni.
+
+La lista dell'userStory è presente [qui](https://github.com/zSavT/Digimon-Story-Cyber-Sleuth-Patch-ITA/milestone/4).
 
 # Immagini progetto
 
@@ -111,10 +162,18 @@ Altri menu sono:
   - La lunghezza **massima è 50 caratteri** (51 se vogliamo inserire anche un carrattere punto o, se proprio necessario, un ulteriore carattere per non interrompere una parola).
 ![Immagine](./img/Quest.jpg)
 
-Altri menu di gioco, come per esempio le descrizioni degli oggetti, possono essere visualizzati da interfacce differenti con dimensioni differenti, ma il testo originale è lo stesso, quindi non si può precisare la dimensione massima, in questi casi, si segue la formattazione originale.<p>
+Altri menu di gioco, come per esempio le descrizioni degli oggetti, possono essere visualizzati da interfacce differenti con dimensioni differenti, ma il testo originale è lo stesso, quindi non si può precisare la dimensione massima, in questi casi, è preferibile seguire la formattazione originale.<p>
 **NOTA BENE**
 
 Anche la dimensioni dei singoli caratteri nel font utilizzato può influire sul limite dei caratteri massimi.
+
+In ogni caso:
+- **Lista Oggetti - Menu Oggetti**
+  - La lunghezza **massima è 55 caratteri** (56 se vogliamo inserire anche un carrattere punto o, se proprio necessario, un ulteriore carattere per non interrompere una parola).
+![Immagine](./img/Oggetto1.jpg)
+- **Lista Oggetti - Menu Battaglia**
+  - La lunghezza **massima è 48 caratteri** (49 se vogliamo inserire anche un carrattere punto o, se proprio necessario, un ulteriore carattere per non interrompere una parola).
+![Immagine](./img/Oggetto2.jpg)
 
 ## Modifica delle texture
 

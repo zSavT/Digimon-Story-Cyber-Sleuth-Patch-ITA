@@ -1081,7 +1081,7 @@ Devo fare una buona impressione!","如果遇到你的朋友，我可得好好打
 저희 주인님이 언제나 신세를 지고 있습니다. 라고 할거야!","Ich würde mich bei deinen Freunden von
 meiner besten Seite zeigen!"
 2124,,"Dobbiamo dare un po' di brio qui!
-Portateci dei nuovi prodotti agricoli, eh?","我差不多想要新的農場道具了～！
+Portateci dei nuovi Prodotti Fattoria, eh?","我差不多想要新的農場道具了～！
 吶，拜託你，買給我，買嘛～！",,"슬슬 새로운 팜 굿즈를 갖고싶어!
 응? 부탁이야. 사줘사줘!","Wir brauchen hier etwas Abwechslung!
 Bring uns neue Farmprodukte, ja?"
@@ -1379,7 +1379,7 @@ li ringrazierò per esserci stati per te!","如果遇到你的朋友，我該怎
 對了，就說「主人受你們諸多關照了」！",,"네 친구를 만나면 뭐라고 인사를 해줄까…
 그렇지. 주인이 언제나 신세를 지고 있습니다, 가 좋겠네!","Wenn ich deine Freunde treffe, danke ich
 ihnen, weil sie für dich da sind!"
-2324,,"È ora di portare nuovi prodotti agricoli qui, eh?
+2324,,"È ora di portare nuovi Prodotti Fattoria qui, eh?
 Voglio diventare più forte, sai?","是不是差不多該引進新的農場道具了？
 我想變得更強。吶，可以吧？",,"슬슬 새로운 팜 굿즈를 들여주지 않을래?
 더 강해지고 싶어. 괜찮지?","Es wird Zeit für neue Farmprodukte.
@@ -1529,7 +1529,7 @@ quando incontrerò i tuoi amici. Non preoccuparti!","遇到你的朋友的時候
 說「主人受你們諸多關照了」……應該就沒問題吧！",,"네 친구를 만나면 예의 바르게 인사해야지.
 주인님이 언제나 신세를 지고 있습니다…면 괜찮겠지!","Ich werde deine Freunde anständig
 grüßen, wenn ich sie sehe. Keine Sorge!"
-2424,,"Ehi, portate subito dei nuovi prodotti agricoli.
+2424,,"Ehi, portate subito dei nuovi Prodotti Fattoria.
 Tutti dicono di voler diventare più forti.","吶，差不多該引進新的農場道具了吧
 況且大家都說想變得更強。可以嗎？",,"저기, 슬슬 새로움 팜 굿즈를 넣어줘.
 다들 더 강해지고 싶다고 하니까 말야. 안 될까?","Hey, bring endlich ein paar Farmprodukte
@@ -1679,8 +1679,8 @@ Sarà perfetto!","如果遇到你的朋友，我可得好好向他們打招呼
 我想對他們說「主人受你們諸多關照了」",,"네 친구를 만나면 제대로 인사를 해야겠지.
 주인이 언제나 신세를 지고 있습니다. 하고 전하고 싶어.","Ich werde deine Freunde anständig
 begrüßen. Das wird prima!"
-2524,,"Mettiamo subito qui dei nuovi
-prodotti agricoli, okay? Dai, ti prego!","差不多該引進新的農場道具了吧？
+2524,,"Mettiamo subito qui dei nuovi Prodotti Fattoria, okay?
+Dai, ti prego!","差不多該引進新的農場道具了吧？
 吶，可以吧？　拜託你！",,"슬슬 새로운 팜 굿즈를 들여보지 않을래?
 응? 괜찮겠지? 부탁해!","Wir brauchen hier endlich neue
 Farmprodukte, okay? Komm schon, bitte!"
@@ -6047,8 +6047,8 @@ Person, die in Japan Kaffee einführte?"
 10185,,Pino di potenza,力大無窮鳳梨,,파워풀 파인이지.,Kraftananas.
 10186,,La migliore carne,頂極肉品,,최고급 고기야.,Bestes Fleisch.
 10187,,Interni?,室內裝飾？,,인테리어?,Möbel?
-10188,,Articoli agricoli?,農場島Item？,,팜 아이템?,Farmitems?
-10189,,Prodotti agricoli?,農場道具？,,팜 굿즈?,Farmprodukte?
+10188,,Articoli Fattoria?,農場島Item？,,팜 아이템?,Farmitems?
+10189,,Prodotti Fattoria?,農場道具？,,팜 굿즈?,Farmprodukte?
 10190,,Una sala giochi ad Akihabara!,當然是秋葉原的電子遊樂場呀！,,아키하바라 게임 센터밖에 없잖아!,Aus einer Spielhalle in Akihabara!
 10191,,Il DigiLab?,是數碼實驗室對嗎？,,디지랩 맞아?,Aus dem DigiLab?
 10192,,La DigiBank?,數碼銀行……嗎？,,디지뱅크…인가?,Aus der Digibank?
@@ -6453,7 +6453,7 @@ Sei fantastico!","答～對了！　就是「精力旺盛菇」
 你真厲害！",,"정답!「터프니스 버섯」이야.
 너는 역시 굉장해!","„Lebenspilz“ ist richtig!
 Du bist fantastisch!"
-11063,,"""Prodotti agricoli"" è corretto!
+11063,,"""Prodotti Fattoria"" è corretto!
 Sei fantastico!","答～對了！　就是「農場道具」
 你真厲害！",,"정답!「팜 굿즈」야.
 너는 역시 굉장해!","„Farmprodukte“ ist richtig!
@@ -6749,7 +6749,7 @@ Richtig. Nicht schlecht!"
 12062,,"""Vigor Mushroom""...
 Esatto. Non male.",「精力旺盛菇」……答對了。真有你的,,「터프니스 버섯」…정답이다. 제법이군.,"„Lebenspilz“ ... Richtig.
 Nicht schlecht!"
-12063,,"""Prodotti agricoli""...
+12063,,"""Prodotti Fattoria""...
 Esatto. Niente male!",「農場道具」……答對了。真有你的,,「팜 굿즈」…정답이다. 제법이군.,"„Farmprodukte“ ... Richtig.
 Nicht schlecht!"
 12064,,"""DigiLab""... Esatto. Non male!",「數碼實驗室」……答對了。真有你的,,「디지랩」…정답이다. 제법이군.,„DigiLab“ ... Richtig. Nicht schlecht!
@@ -7003,8 +7003,8 @@ Die Antwort ist „Ermitteln“!"
 13062,,"Wow, hai indovinato!
 La risposta è ""Fungo Vigore""!",喔，答對了！　答案就是「精力旺盛菇」！,,"오, 정답이군! 답은「터프니스 버섯」이지!","Wow, das stimmt!
 Die Antwort ist „Lebenspilz“!"
-13063,,"Wow, hai capito bene!
-La risposta è ""Prodotti agricoli""!",喔，答對了！　答案就是「農場道具」！,,"오, 정답이군! 답은「팜 굿즈」지!","Wow, das stimmt!
+13063,,"Wow, hai capito
+bene! La risposta è ""Prodotti Fattoria""!",喔，答對了！　答案就是「農場道具」！,,"오, 정답이군! 답은「팜 굿즈」지!","Wow, das stimmt!
 Die Antwort ist „Farmprodukte“!"
 13064,,"Wow, hai capito bene!
 La risposta è ""DigiLab""!",喔，答對了！　答案就是「數碼實驗室」！,,"오, 정답이군! 답은「디지랩」이지!","Wow, das stimmt!
@@ -7219,7 +7219,7 @@ La risposta è ""Claíomh Solais""!",答對囉！　答案就是「克拉烏‧�
 14061,,"Corretto! La risposta è ""Indagare""!",答對囉！　答案就是「調查」,,정답이야!  답은「조사」.,Korrekto! Die Antwort ist „Ermitteln“!
 14062,,"Corretto! La risposta è ""Fungo Vigor""!",答對囉！　答案就是「精力旺盛菇」,,정답이야!  답은「터프니스 버섯」.,Korrekto! Die Antwort ist „Lebenspilz“!
 14063,,"Corretto! La risposta è
-""Prodotti agricoli""!",答對囉！　答案就是「農場道具」,,정답이야!  답은「팜 굿즈」.,"Korrekto! Die Antwort ist
+""Prodotti Fattoria""!",答對囉！　答案就是「農場道具」,,정답이야!  답은「팜 굿즈」.,"Korrekto! Die Antwort ist
 „Farmprodukte“!"
 14064,,"Corretto! La risposta è ""DigiLab""!",答對囉！　答案就是「數碼實驗室」,,정답이야!  답은「디지랩」.,Korrekto! Die Antwort ist „DigiLab“!
 14065,,"Corretto! La risposta è
@@ -7430,7 +7430,7 @@ Persönlichkeit“ ist richtig!"
 「조사」가 답이야.",Wahnsinn! „Ermitteln“ ist richtig!
 15062,,"Beh, lo farò. ""Vigor Mushroom"" è corretto!",好厲害，答對了呢！　正確答案就是「精力旺盛菇」唷,,"굉장해, 맞았어!
 「터프니스 버섯」이 답이야.",Wahnsinn! „Lebenspilz“ ist richtig!
-15063,,"Beh, lo farò. ""Prodotti agricoli"" è corretto!",好厲害，答對了呢！　正確答案就是「農場道具」唷,,"굉장해, 맞았어!
+15063,,"Beh, lo farò. ""Prodotti Fattoria"" è corretto!",好厲害，答對了呢！　正確答案就是「農場道具」唷,,"굉장해, 맞았어!
 「팜 굿즈」가 답이야.",Wahnsinn! „Farmprodukte“ ist richtig!
 15064,,"Beh, lo farò. ""DigiLab"" è corretto!",好厲害，答對了呢！　正確答案就是「數碼實驗室」唷,,"굉장해, 맞았어!
 「디지랩」이 답이야.",Wahnsinn! „DigiLab“ ist richtig!
@@ -7695,7 +7695,7 @@ risposta è ""29 stazioni""!",答對了。答案就是「29站」。表現不錯
 16062,,"Ben fatto, la risposta è ""Vigor Mushroom""!",答對了。答案就是「精力旺盛菇」。表現不錯嘛,,"정답입니다. 답은「터프니스 버섯」.
 제법이군요.","Sehr gut, die Antwort ist „Lebenspilz“!"
 16063,,"Ben fatto, la risposta è
-""Prodotti agricoli""!",答對了。答案就是「農場道具」。表現不錯嘛,,"정답입니다. 답은「팜 굿즈」.
+""Prodotti Fattoria""!",答對了。答案就是「農場道具」。表現不錯嘛,,"정답입니다. 답은「팜 굿즈」.
 제법이군요.","Sehr gut, die Antwort ist
 „Farmprodukte“!"
 16064,,"Ben fatto, la risposta è ""DigiLab""!",答對了。答案就是「數碼實驗室」。表現不錯嘛,,"정답입니다. 답은「디지랩」.
@@ -8074,7 +8074,7 @@ Viel Glück beim nächsten Mal!"
 La prossima volta andrà meglio!",答～錯了！　答案是「精力旺盛菇」。下次再加油吧～！,,"땡! 답은「터프니스 버섯」
 다음엔 맞추자!","Schade, die Antwort ist „Lebenspilz“.
 Viel Glück beim nächsten Mal!"
-21063,,"Peccato che la risposta sia ""Prodotti agricoli"".
+21063,,"Peccato che la risposta sia ""Prodotti Fattoria"".
 La prossima volta andrà meglio!","答～錯了！　答案是「農場道具」
 下次再加油吧～！",,"땡! 답은「팜 굿즈」
 다음엔 맞추자!","Schade, die Antwort ist „Farmprodukte“.
@@ -8501,7 +8501,7 @@ Pass besser auf."
 Attenzione, ora.",答錯了。答案是「精力旺盛菇」。下次可別答錯了,,"틀렸다. 답은「터프니스 버섯」
 다음엔 틀리지 마라.","Falsch, die Antwort ist „Lebenspilz“.
 Pass besser auf."
-22063,,"Sbagliato, la risposta è ""Prodotti agricoli"".
+22063,,"Sbagliato, la risposta è ""Prodotti Fattoria"".
 Attenzione, ora.",答錯了。答案是「農場道具」。下次可別答錯了,,"틀렸다. 답은「팜 굿즈」
 다음엔 틀리지 마라.","Falsch, die Antwort ist „Farmprodukte“.
 Pass besser auf."
@@ -8933,7 +8933,7 @@ Riprova!","答錯了。正確解答是「精力旺盛菇」
 下次可別答錯了喔！",,"틀렸어. 정답은「터프니스 버섯」이야.
 다음엔 틀리지 말라구!","Mist, die Antwort ist „Lebenspilz“.
 Versuch’s noch mal!"
-23063,,"Accidenti, la risposta è ""Prodotti agricoli"".
+23063,,"Accidenti, la risposta è ""Prodotti Fattoria"".
 Riprova!","答錯了。正確解答是「農場道具」
 下次可別答錯了喔！",,"틀렸어. 정답은「팜 굿즈」야.
 다음엔 틀리지 말라구!","Mist, die Antwort ist „Farmprodukte“.
@@ -9368,7 +9368,7 @@ Beim nächsten Mal!"
 Il prossimo lo prenderai tu!",真遺憾……正確解答是「精力旺盛菇」。下次可要答對唷,,"유감이야… 답은「터프니스 버섯」
 다음엔 맞추도록 해.","Verflixt, die Antwort ist „Lebenspilz“.
 Beim nächsten Mal!"
-24063,,"Accidenti, la risposta è ""Prodotti agricoli"".
+24063,,"Accidenti, la risposta è ""Prodotti Fattoria"".
 Il prossimo lo prenderai tu!",真遺憾……正確解答是「農場道具」。下次可要答對唷,,"유감이야… 답은「팜 굿즈」
 다음엔 맞추도록 해.","Verflixt, die Antwort ist
 „Farmprodukte“. Beim nächsten Mal!"
@@ -9819,7 +9819,7 @@ quindi questa volta ti sbagli.","答案是「精力旺盛菇」，所以你答�
 希望你下次能答對",,"답은「터프니스 버섯」이니까 틀렸어.
 다음엔 맞춰줘.","Die Antwort ist „Lebenspilz“,
 du liegst also falsch."
-25063,,"La risposta è ""Prodotti agricoli"",
+25063,,"La risposta è ""Prodotti Fattoria"",
 quindi ti sbagli. Impegnati di più, ok?","答案是「農場道具」，所以你答錯了
 希望你下次能答對",,"답은「팜 굿즈」니까 틀렸어.
 다음엔 맞춰줘.","Richtig ist „Farmprodukte“, du liegst
@@ -10302,7 +10302,7 @@ Riprova.","答錯了。答案是「精力旺盛菇」喔
 下次請回答正確答案",,"틀렸습니다. 답은「터프니스 버섯」
 다음에는 맞춰주세요.","Negativ. Die Antwort ist „Lebenspilz“.
 Probier’s noch mal."
-26063,,"Sbagliato. La risposta è ""Prodotti agricoli"".
+26063,,"Sbagliato. La risposta è ""Prodotti Fattoria"".
 Riprova.","答錯了。答案是「農場道具」喔
 下次請回答正確答案",,"틀렸습니다. 답은「팜 굿즈」
 다음에는 맞춰주세요.","Negativ. Die Antwort ist „Farmprodukte“.

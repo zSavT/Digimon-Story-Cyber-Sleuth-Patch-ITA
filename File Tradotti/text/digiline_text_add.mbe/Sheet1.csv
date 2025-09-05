@@ -823,7 +823,7 @@ status anomalo inverte l'affinità dei tipi?","問答題！　戰鬥時，能把
 異常狀態是什麼？",,"퀴즈! 배틀 중, 종족 상성이 역전되는
 상태 이상은 뭐~게?","Quizzeit! Welches Statusleiden kehrt
 beim Kampf Typ-Affinität um?"
-4071,,Quiz! Quale equipaggiamento aumenta l'ESP ottenuta dalle battaglie?,"問答題！　只要讓數碼寶貝裝備，
+4071,,Quiz! Quale equipaggiamento aumenta l'EXP ottenuta dalle battaglie?,"問答題！　只要讓數碼寶貝裝備，
 就能增加戰鬥獲得EXP的裝備是什麼？",,"퀴즈! 디지몬에게 장비시켜 두면
 배틀로 받을 수 있는 EXP가 늘어나는 장비품은 뭐~게?","Quizzeit! Welche Ausrüstung erhöht die
 EP, die man beim Kämpfen erhält?"
@@ -1260,7 +1260,7 @@ status anomalo inverte le affinità di tipo?","問答題！　戰鬥時，能把
 異常狀態是什麼？",,"퀴즈다. 배틀 중, 종족 상성이 역전되어버리는
 상태 이상은 뭐지?","Quiz! Welches Statusleiden kehrt
 beim Kampf Typ-Affinität um?"
-5071,,Curiosità! Quale equipaggiamento aumenta l'ESP ottenuta in battaglia?,"問答題！　只要讓數碼寶貝裝備，
+5071,,Curiosità! Quale equipaggiamento aumenta l'EXP ottenuta in battaglia?,"問答題！　只要讓數碼寶貝裝備，
 就能增加戰鬥獲得EXP的裝備是什麼？",,"퀴즈다. 디지몬에게 장비시켜 두면
 배틀로 받을 수 있는 EXP가 늘어나는 장비품은 뭐지?","Quiz! Welche Ausrüstung erhöht die
 EP, die man beim Kämpfen erhält?"
@@ -1697,7 +1697,7 @@ status anomalo inverte l'affinità di tipo?","來進行問答題吧！　戰鬥�
 異常狀態是什麼？",,"자아 퀴즈다! 배틀 중, 종족 상성이 역전되어버리는
 상태 이상이 무엇인지 알아?","Test! Welches Statusleiden kehrt
 beim Kampf Typ-Affinität um?"
-6071,,Quiz a sorpresa! Quale equipaggiamento aumenta l'ESP che ottieni dalla battaglia?,"來進行問答題吧！　只要讓數碼寶貝裝備，
+6071,,Quiz a sorpresa! Quale equipaggiamento aumenta l'EXP che ottieni dalla battaglia?,"來進行問答題吧！　只要讓數碼寶貝裝備，
 就能增加戰鬥獲得EXP的裝備是什麼？",,"자아 퀴즈다! 디지몬에게 장비시켜 두면
 배틀로 받을 수 있는 EXP가 늘어나는 장비품은 뭐지?","Test! Welche Ausrüstung erhöht die
 EP, die man beim Kämpfen erhält?"
@@ -2143,7 +2143,7 @@ status anomalo inverte l'affinità di tipo?","問答題喔！　戰鬥時，能�
 상태 이상은 뭘까?","Rate mal! Welches Statusleiden kehrt
 beim Kampf Typ-Affinität um?"
 7071,,"Controlla. Quale equipaggiamento aumenta l'
-ESP ottenuta dalle battaglie?","問答題喔！　只要讓數碼寶貝裝備，
+EXP ottenuta dalle battaglie?","問答題喔！　只要讓數碼寶貝裝備，
 就能增加戰鬥獲得EXP的裝備是什麼？",,"퀴즈. 디지몬에게 장비시켜 두면
 배틀로 받을 수 있는 EXP가 늘어나는 장비품은 뭘까?","Rate mal! Welche Ausrüstung erhöht die
 EP, die man beim Kämpfen erhält?"
@@ -3045,7 +3045,7 @@ anomalo inverte l'affinità dei tipi?","以下是問答題。　戰鬥時，能�
 상태 이상은 뭘까요?","Frage! Welches Statusleiden kehrt
 beim Kampf Typ-Affinität um?"
 9071,,"Domanda! Quale equipaggiamento aumenta l'
-ESP che ottieni dalla battaglia?","以下是問答題。　只要讓數碼寶貝裝備，
+EXP che ottieni dalla battaglia?","以下是問答題。　只要讓數碼寶貝裝備，
 就能增加戰鬥獲得EXP的裝備是什麼？",,"여기서 퀴즈입니다. 디지몬에게 장비시켜 두면
 배틀로 받을 수 있는 EXP가 늘어나는 장비품은 뭘까요?","Frage! Welche Ausrüstung erhöht die
 EP, die man beim Kämpfen erhält?"
@@ -3397,7 +3397,7 @@ Trainieren"
 10210,,Bug,Bug對吧,,버그네,Fehler
 10211,,USB Tattico,軍師的USB嗎？,,군사의 USB던가?,Taktiker-USB
 10212,,USB ad alta capacità,大容量的USB吧,,대용량 USB려나,Riesenspeicher-USB
-10213,,USB Allenatore,飼育員的USB吧,,프리터의 USB야,Züchter-USB
+10213,,USB Tamer,飼育員的USB吧,,프리터의 USB야,Züchter-USB
 10214,,Velocizza,Speed Up嗎？,,스피드 업이려나?,Tempo+
 10215,,Accesso Percorso,Route Access！,,루트 액세스!,Wegzugriff
 10216,,Accelerazione,不是Accelerate嗎？,,액셀러레이트 아니야?,Beschleunigung

@@ -7,7 +7,7 @@ ID,Japanese,English,Chinese,EnglishCensored,Korean,German
 6,,Battaglia: Combo Incrociate e CAM,【戰鬥】交錯連擊和友情,,【배틀】크로스 콤보와 우정,Kampf: Kreuzkombos und KAM
 7,,Battaglia: Personaggi Ospiti,【戰鬥】好友角色,,【배틀】게스트 캐릭터,Kampf: Gast-Figuren
 8,,Impostazione Abilità,技能設定,,스킬 세팅,Fertigkeiten einstellen
-9,,Abilità di supporto,輔助技能,,서포트 스킬,Unterstützungsfertigkeiten
+9,,Abilità di Supporto,輔助技能,,서포트 스킬,Unterstützungsfertigkeiten
 11,,DigiLab,數碼實驗室,,디지랩,DigiLab
 12,,Incontri con Digimon,與野生的數碼寶貝遭遇,,디지몬과의 조우,Begegnungen mit Digimon
 13,,DigiBanca: Trasferimento Digimon,【數碼銀行】移動數碼寶貝,,【디지뱅크】디지몬 이동,Digibank: Digimon verschieben
@@ -25,7 +25,7 @@ ID,Japanese,English,Chinese,EnglishCensored,Korean,German
 25,,Dungeon Specchio,鏡像迷宮,,미러 던전,Spiegel-Dungeons
 26,,Punti di Accesso,登入地點,,액세스 포인트에 대하여,Zugangspunkte
 27,,Bacheca (Casi),白板（委託）,,화이트 보드(의뢰),Schwarzes Brett (Fälle)
-28,,Parole chiave,關鍵字,,키워드에 대하여,Stichwörter
+28,,Parole Chiave,關鍵字,,키워드에 대하여,Stichwörter
 29,,Salto di connessione,登入跳躍,,커넥트 점프,Verbindungssprung
 30,,Muoversi in EDEN,在EDEN中移動,,EDEN 내의 이동,Fortbewegung in EDEN
 32,,Salvataggio,保存,,저장에 대하여,Speichern
@@ -37,19 +37,19 @@ ID,Japanese,English,Chinese,EnglishCensored,Korean,German
 41,,Guida Digimon,數碼寶貝圖鑑,,디지몬 도감,Digiführer
 42,,Registrazione nella Guida Digimon,登錄到圖鑑,,도감 등록,Registrierung im Digiführer
 43,,DigiFarm: Contatto con i Digimon,【數碼農場】與數碼寶貝接觸,,【디지팜】디지몬과의 접촉,Digifarm: Digimon-Affinität
-44,,Network Digitale,數碼網路世界,,디지털 네트워크,Digitales Netzwerk
-46,,Network: Impostazioni giocatore,【網路】玩家設定,,【네트워크】플레이어 설정,Netzwerk: Spielereinstellungen
+44,,Rete Digitale,數碼網路世界,,디지털 네트워크,Digitales Netzwerk
+46,,Rete: Impostazioni giocatore,【網路】玩家設定,,【네트워크】플레이어 설정,Netzwerk: Spielereinstellungen
 47,,Rete: Battle Box,【網路】戰鬥盒,,【네트워크】배틀 박스,Netzwerk: Kampfbox
 48,,Rete: Battaglia Personalizzata,【網路】自由規則戰鬥,,【네트워크】프리 룰 배틀,Netzwerk: Benutzerdefinierter Kampf
 49,,Rete: Battaglia Classificata,【網路】排名戰,,【네트워크】랭킹 배틀,Netzwerk: Rangkampf
 50,,Rete: Lotta Evento,【網路】活動戰鬥,,【네트워크】이벤트 배틀,Netzwerk: Eventkampf
-51,,Network: Negozio di Monete,【網路】硬幣商店,,【네트워크】코인숍,Netzwerk: Münzladen
+51,,Rete: Negozio di Monete,【網路】硬幣商店,,【네트워크】코인숍,Netzwerk: Münzladen
 52,,Cyber Sleuth e Hacker's Memory,保存資料共用,,저장 데이터 공유,Cyber Sleuth und Hacker's Memory
 53,,Menu PC,PC選單,,PC메뉴,PC-Menü
 54,,BBS,BBS,,BBS,ATL
 55,,DigiMarket,數碼市場,,디지마켓,DigiMarkt
 56,,Accessori Digimon,數碼寶貝的裝飾品,,디지몬의 액세서리,Digimon-Accessoires
-57,,Dominio: Regole di base,【鎮壓】回合與移動,,【도미네이션】기본,Dominanz: Grundregeln
+57,,Dominio: Regole di Base,【鎮壓】回合與移動,,【도미네이션】기본,Dominanz: Grundregeln
 58,,Dominazione: Controllo dello Spazio,【鎮壓】格間的壓制,,【도미네이션】칸 제압,Dominanz: Kontrolle über Felder
 59,,Dominio: Battaglie,【鎮壓】與敵方駭客之間的戰鬥,,【도미네이션】배틀,Dominanz: Kämpfe
 60,,Emblemi Hacker,駭客徽章,,해커 엠블럼,Hacking-Embleme
@@ -62,4 +62,4 @@ ID,Japanese,English,Chinese,EnglishCensored,Korean,German
 67,,Abilità Hacking: Controllo Energetico,【駭客技能】「Power Control」,,【해킹 스킬】「파워 컨트롤」,Hacking: Stromkontrolle
 68,,Abilità Hacking: Visualizzatore,【駭客技能】「Visualizer」,,【해킹 스킬】「비주얼라이저」,Hacking: Visualisierung
 69,,Abilità Hacking: Ripristino,【駭客技能】「Restoration」,,【해킹 스킬】「레스터레이션」,Hacking: Wiederherstellung
-70,,Dominazione: Condizione di vittoria - Distruggi,【鎮壓】勝利條件：殲滅敵人,,【도미네이션】승리조건 : 적의 전멸,Dominanz: Siegesbedingung „Zerstören“
+70,,Dominazione: Condizione di Vittoria - Distruggi,【鎮壓】勝利條件：殲滅敵人,,【도미네이션】승리조건 : 적의 전멸,Dominanz: Siegesbedingung „Zerstören“

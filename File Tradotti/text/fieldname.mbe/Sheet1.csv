@@ -28,8 +28,8 @@ ID,Japanese,English,Chinese,EnglishCensored,Korean,German
 2022,,"Shinjuku, Centro Città",新宿 繁華街,,신주쿠 번화가,Shinjuku: Innenstadt
 2030,,Shibuya,涉谷,,시부야,Shibuya
 2031,,Incrocio di Shibuya,涉谷 站前十字路口,,시부야 스크램블 교차점,Shibuya: Kreuzung
-2032,,Ingresso Shibuya Tower Records,涉谷 淘兒唱片前,Shibuya Records Entrance,시부야 타워레코드 앞,Shibuya Records: Eingang
-2033,,Dentro Tower Records,淘兒唱片店內,Inside Shibuya Records,타워레코드 점내,Shibuya Records – Innenbereich
+2032,,Ingresso Shibuya Tower Records,涉谷 淘兒唱片前,Ingresso Shibuya Tower Records,시부야 타워레코드 앞,Shibuya Records: Eingang
+2033,,Interni Tower Records,淘兒唱片店內,Interni Tower Records,타워레코드 점내,Shibuya Records – Innenbereich
 2040,,Akihabara,秋葉原,,아키하바라,Akihabara
 2041,,Akihabara Città Elettrica,秋葉原 電氣街大道,,아키하바라 전자상가 큰길,Akihabara: Elektrostadt
 2050,,Asakusa,淺草,,아사쿠사,Asakusa
@@ -88,7 +88,7 @@ ID,Japanese,English,Chinese,EnglishCensored,Korean,German
 7070,,Rete Digitale VII,數碼網路世界Ⅶ,,디지털 네트워크Ⅶ,Digitales Netzwerk VII
 7080,,Rete Digitale VIII,數碼網路世界Ⅷ,,디지털 네트워크Ⅷ,Digitales Netzwerk VIII
 7090,,Rete Digitale IX,數碼網路世界Ⅸ,,디지털 네트워크Ⅸ,Digitales Netzwerk IX
-7100,,Network Digitale X,數碼網路世界Ⅹ,,디지털 네트워크Ⅹ,Digitales Netzwerk X
+7100,,Rete Digitale X,數碼網路世界Ⅹ,,디지털 네트워크Ⅹ,Digitales Netzwerk X
 7110,,Rete Digitale XI,數碼網路世界11,,디지털 네트워크11,Digitales Netzwerk XI
 7120,,Rete Digitale XII,數碼網路世界12,,디지털 네트워크12,Digitales Netzwerk XII
 7130,,Colosseo Ad Hoc,ad Hoc競技場,,애드혹 콜로세움,Sofort-Kolosseum
