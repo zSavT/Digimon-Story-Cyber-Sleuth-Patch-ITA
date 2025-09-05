@@ -1,25 +1,25 @@
 ﻿ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
 1,3009,,"Allora, il portale è aperto!",好了，門已經打開了。,,"자, 문은 열렸습니다","So, das Tor steht offen!"
-2,3009,,"Questo 'cerchio magico' è con il Mondo Digitale collegato.
-Non appena voi siete pronti ...","這個“魔方陣”連接到數碼世界。
+2,3009,,"Questo ""cerchio magico"" è collegato al Mondo Digitale.
+Quando siete pronti...","這個“魔方陣”連接到數碼世界。
 準備好的話，隨時都能過去。",,"이 ""마방진""은, 디지털 월드측에 접속하고 있습니다
 준비가 끝나시면, 언제든 가실 수 있습니다","Dieser „Zauberkreis“ ist mit der Digitalen Welt
 verbunden. Sobald ihr bereit seid ..."
 3,1416,,Lascia che ti chieda una cosa.,我想問一個問題。,,…한 가지 물어 두겠다,Lass mich eins fragen.
 4,3009,,"Sì, sì, che c'è?",好呀，什麼事呢？,,"네네, 뭔가요?","Ja, ja, was gibt es?"
-5,1416,,"Hai detto che dobbiamo distruggere la Procreatrix del Eater.
+5,1416,,"Hai detto che dobbiamo distruggere la Procreatrice del Eater.
 Abbiamo forse un metodo affidabile per questo?","雖然你說只能消除侵食者母體，
 但有明確的消除方法嗎？",,"마더 이터를 제거할 수밖에 없다고 했다만―
-제거할, 확실한 방법은 있는 건가","Du meintest, dass wir die Verschlinger-Procreatrix
+제거할, 확실한 방법은 있는 건가","Du meintest, dass wir die Verschlinger-Procreatrice
 vernichten müssen. Haben wir dafür denn eine
 verlässliche Methode?"
 6,3009,,Mamma mia! Non l'ho spiegato?,哎呀呀，我沒有解釋嗎？,,"이거이거, 설명하지 않았던가요?",Gute Güte! Habe ich das nicht erklärt?
 7,3009,,"Certo, c'è un modo.",當然有方法。,,"물론, 방법은 있고 말고요",Natürlich gibt es einen Weg.
-8,3009,,"Estraiamo il corpo estraneo nella Procreatrix:
+8,3009,,"Estraiamo il corpo estraneo nella Procreatrice:
 I dati mentali di Yuugo Kamishiro.","消除被限制在侵食者母體內的“異物”——
 「神代勇吾」的精神資料。",,"마더 이터의 안에 사로잡혀 있는 ""이물""―
 「카미시로 유고」군의 정신 데이터를, 떼어 내는 겁니다","Wir extrahieren den Fremdkörper in der
-Procreatrix: Die Mentaldaten von Yuugo Kamishiro."
+Procreatrice: Die Mentaldaten von Yuugo Kamishiro."
 9,3009,,"Sono convinto che i Eater non fossero mai stati
 concepiti per acquisire dati da forme di vita come gli umani.","一般認為，
 侵食者本來並不會捕食人類等生命體的資料。",,"애초에 이터는, 인간 같은
@@ -47,10 +47,10 @@ che i Eater lo tengono prigioniero?","難道……哥哥所說的
 「被侵食者囚禁的地方」是在……",,"설마… 오빠가 말했던
 「이터에게 사로잡혀 있는 장소」라는 게…","Du meinst ... Da, wo mein Bruder gesagt hat,
 dass die Verschlinger ihn gefangen halten?"
-15,3002,,In questo Procreatrix coso?,侵食者母體那玩意的……裡面？,,마더 이터란 녀석의… 안…?,In diesem Procreatrixding?
+15,3002,,In questo Procreatrice coso?,侵食者母體那玩意的……裡面？,,마더 이터란 녀석의… 안…?,In diesem Procreatriceding?
 16,3009,,Alla fine serve come una sorta di nucleo.,結果，他擔任某種類似“核心”的角色。,,"…결과, 그는 모종의 ""코어"" 같은 역할을 맡고 있습니다",Letzten Endes dient er als eine Art Kern.
-17,3009,,"Se le mie teorie sono corrette, allora si
-verificherà un interessante fenomeno non appena lo rimuoveremo.","若對照我的理論，消除他的時候——
+17,3009,,"Se le mie teorie sono giuste, accadrà un fenomeno
+interessante non appena lo rimuoveremo..","若對照我的理論，消除他的時候——
 會發生非常耐人尋味的現象。",,"제 이론에 의하면, 그를 떼어 냈을 때―
 매우 흥미로운 현상이 일어납니다","Wenn meine Theorien stimmen, dann wird ein
 interessantes Phänomen auftreten, sobald wir
@@ -60,8 +60,8 @@ E il tempo viene riportato indietro.",「可逆性的程式改寫」……「時
 Und die Zeit wird zurückgedreht."
 19,2000,,?!,！？,,!?,?!
 20,3005,,Cosa?!,什……！？,,뭐…!?,Was?!
-21,3009,,"Il network di memoria degli Eaters va
-oltre la nostra comprensione e persino la nostra immaginazione.","侵食者的「記憶整合網路」
+21,3009,,"La rete di memoria degli Eaters va oltre la nostra
+comprensione e persino la nostra immaginazione.","侵食者的「記憶整合網路」
 是超乎我們的理解、想像、和概念的系統哦。",,"이터의「기억 통합 네트워크」는
 저희들의 이해나 상상, 개념을 초월한 시스템이라구요","Das Gedächtnisnetzwerk der Verschlinger geht
 über unser Verständnis und sogar unsere
@@ -87,13 +87,13 @@ entdeckten Erlebnissen von vor acht Jahren,
 aus EDEN und der Digitalen Welt?"
 27,3009,,"Quello che avete visto, Crusadermon
 lo aveva scaricato dalla memoria degli
-Ingoiatori e ricreato come realtà virtuale.","那是劍皇獸從侵食者的“記憶”下載，
+Eater e ricreato come realtà virtuale.","那是劍皇獸從侵食者的“記憶”下載，
 以虛擬實境再現的東西。",,"그건, 이터의 ""기억""에서 로드나이트몬이 다운로드해서
 가상 현실로서 재현한 것입니다","Was ihr gesehen habt, hatte Crusadermon aus dem
 Speicher der Verschlinger heruntergeladen und
 als virtuelle Realität neu erschaffen."
-28,3009,,"Come parte della sua infida trappola, ha
-presumibilmente apportato degli adattamenti, ma comunque.","唉，不過這個陰險陷阱的
+28,3009,,"Probabilmente ha apportato delle modifiche come
+parte della sua insidiosa trappola, ma comunque.","唉，不過這個陰險陷阱的
 內容已經過大幅的更動……",,"뭐, 음침한 트랩으로 만들기 위한 어레인지가
 다분히 가해져 있긴 했습니다만…","Als Teil ihrer heimtückischen Falle hat er
 vermutlich Anpassungen vorgenommen, aber dennoch."
@@ -119,9 +119,8 @@ Nemmeno voi fate eccezione.","不過，人類本能地拒絕了那個可能性�
 你們也不例外。",,"하지만, 인간은 그 가능성을 본능적으로 거절하고 있지요…
 당신들도, 예외는 아닙니다","Aber Menschen lehnen diese Möglichkeit instinktiv
 ab. Da seid ihr auch keine Ausnahmen."
-39,3009,,"Voi siete già stati controllati dagli
-Ingoiatori una volta, ma non avete potuto sfruttare il
-vero, illimitato potenziale.","雖然曾被侵食者吞食過一次
+39,3009,,"Siete già stati controllati dai Eater una volta, ma non
+siete riusciti a usare il loro vero potenziale illimitato.","雖然曾被侵食者吞食過一次
 卻沒有發現那無限的可能性，就是因為人類的本能。",,"한 번 이터에게 삼켜졌음에도
 무한의 가능성에 눈을 뜨지 못한 건 그 때문입니다","Ihr wurdet ja bereits einmal von Verschlingern
 beherrscht, konntet aber das wahre, unbegrenzte
@@ -172,8 +171,8 @@ all'indietro a causa dei Eater.","如果侵食者發生時間倒流現象，
 현실 세계에도 무언가의 영향이 생기겠지요","Ich frage mich, welche Auswirkungen wir in der
 „echten“ Welt sehen werden, wenn die Zeit wegen
 der Verschlinger rückwärts läuft."
-49,3009,,"Forse la Sindrome di EDEN non esisterà
-più. Dopotutto, la causa di ciò verrà meno.","這樣的話，EDEN症候群之類的或許也會消失。
+49,3009,,"Forse la Sindrome di EDEN non esisterà più.
+Dopotutto, la causa di ciò verrà meno.","這樣的話，EDEN症候群之類的或許也會消失。
 因為原因本身變成「不曾存在的東西」。",,"그렇다면, EDEN 증후군 같은 것은 사라질지도 모릅니다
 원인 그 자체가「없었던 일」이 되는 거니까요","Möglicherweise gibt es das EDEN-Syndrom dann nicht
 mehr. Schließlich fällt die Ursache dafür weg."
@@ -199,8 +198,8 @@ Wenn es das EDEN-Syndrom nicht mehr gibt ..."
 ihre Körper zurück, nicht wahr?!"
 55,2000,,...!,！！,,…!!,...!
 56,2000,,"Davvero!
-Io... non ci posso credere... Questo
-l'avevo completamente dimenticato!","真假！
+Io... non posso crederci...
+L'avevo completamente dimenticato!","真假！
 不會吧～真的嗎～
 …我完全忘記這件事了！",,"진짭니까!
 에이~ 설마~

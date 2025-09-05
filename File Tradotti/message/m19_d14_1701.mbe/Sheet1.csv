@@ -13,15 +13,14 @@ Mi dai un regalo? Voglio un regalo!","嗯♪我辦到了唷，小悠子♪
 獎勵☆喂，給我獎勵☆",,"응♪ 해 버렸어, 유콧치♪
 상―♡ 저기, 상 줘―♡","Jawohl! Ich hab’s geschafft, Yuuko!
 Krieg ich ein Geschenk? Ich will ein Geschenk!"
-6,3003,,"Avresti potuto chiamarci, però.
-Non saresti dovuto venire qui, in realtà, sai?","不過，如果只是透過連線指示，
+6,3003,,"Ma potevi chiamarci. Non c'era bisogno che venissi qui, sai?","不過，如果只是透過連線指示，
 應該沒有必要和我們會合吧……？",,"…하지만, 통신으로 지시하는 것뿐이라면
 저희들과 합류할 필요는 없었던 거 아닌가요…?","Du hättest uns aber anrufen können.
 Du hättest eigentlich nicht herkommen müssen,
 weißt du?"
 7,3002,,Come?,嗯……？,,……응?,Wie?
-8,3003,,"Se ti fossi fatto vivo non appena fossi stato
-pronto, il tempismo sarebbe stato migliore.","或者，如果準備好，就和我們聯絡……
+8,3003,,"Se ci avessi avvertiti non appena eri pronta,
+i tempi sarebbero stati migliori.","或者，如果準備好，就和我們聯絡……
 也可以配合時機會合啊……",,"아니면 준비가 끝난 시점에서, 저희들에게 통신을 주셨으면…
 타이밍을 맞춰서 합류할 수도 있었던 거 아닌가요…","Wenn du dich gemeldet hättest, sobald du bereit
 warst, wäre das Timing besser gewesen."
@@ -39,9 +38,9 @@ Non hai detto alla riunione di venire qui?","喂～[p]～？
 Hast du bei der Besprechung nicht gesagt,
 wir sollen herkommen?"
 14,2000,,...,………,,………,...
-15,2000,,"Piuttosto l'hai deciso tu.
-L'hai detto e sei filato via.
-Pianeta Nokia non ha di nuovo fatto attenzione...","正確的是「我也會趕去」。
+15,2000,,"Piuttosto sei stata tu a decidere.
+L'hai detto e te ne sei andata.
+La testa fra le nuvole della solita Nokia...","正確的是「我也會趕去」。
 妳大喊之後，就像脫兔一樣突然離去。
 也就是說——這是安定的失控諾奇雅・特快號列車。",,"…정확히는「나도 달려갈게」입니다
 그렇게 외치고, 당신은 도망치는 토끼처럼 뛰쳐 나갔습니다
@@ -81,7 +80,7 @@ Harharharharhar! Au, mein Bauch!"
 28,2000,,...,………,,………,...
 29,3003,,"Eh, Arata?",新、新先生……？,,"아, 아라타 씨…?","Äh, Arata?"
 30,3002,,Ora è rotto...,新壞掉了……,,아라타가 망가졌어…,Jetzt ist er kaputt ...
-31,3005,,Sta' zitto! È tutta colpa tua!,……少囉唆！幾乎都是妳害的！,,…시끄러! 거의 네 탓이거든!,Halt die Klappe! Das ist alles deine Schuld!
+31,3005,,Sta' zitta! È tutta colpa tua!,……少囉唆！幾乎都是妳害的！,,…시끄러! 거의 네 탓이거든!,Halt die Klappe! Das ist alles deine Schuld!
 32,3005,,Puh... Non ce la faccio più.,啊～啊……總覺得心情痛快多了。,,아아~아… 왠~지 후련해졌어,Puh ... Ich kann nicht mehr.
 33,3005,,"Certo... se solo avessi... avuto fiducia
 in voi idioti fin dall'inizio...!","是啊……我打從一開始……
@@ -104,7 +103,7 @@ nein, meinen Plan durchkreuzen? Wie kann das sein?"
 39,4837,,Mi chiamo Alphamon.,我的名字是——「阿爾法獸」。,,내 이름은―「알파몬」,Ich heiße Alphamon.
 40,1739,,Alphamon?!,你說……「阿爾法獸」！？,,「알파몬」… 이라고!?,Alphamon?!
 41,1088,,C-Cosa?!,居、居然……！,,"뭐, 뭐라고…!",W-Was?!
-42,1088,,"Il leggendario 13° Royal Knight! Ci sei davvero!","傳說中第13號的皇家騎士……！
+42,1088,,"Il leggendario 13° Royal Knight! Esisti davvero!","傳說中第13號的皇家騎士……！
 沒想到……居然實際存在……！",,"전설의 13번째 로얄 나이츠…!
 설마… 실재하고 있었다니…!","Der legendäre 13. Royal Knight!
 Es gibt dich tatsächlich!"
@@ -113,8 +112,7 @@ E per di più come mio nemico?!",事到如今，你為何現身？而且還與�
 Und noch dazu als mein Feind?!"
 44,1416,,"Io esisto per dominare i Royal Knights.",我是做為皇家騎士的抑止力的存在。,,난 로얄 나이츠의 억제력으로서 존재하는 자,"Ich existiere, um die Royal Knights zu
 beherrschen."
-45,1416,,"È il mio compito impedire che
-si scatenino ciecamente.",阻止皇家騎士的失控，就是我的存在理由。,,"로얄 나이츠의 폭주를 막는 것이, 내 존재 이유다","Es ist meine Aufgabe, dafür zu sorgen, dass sie
+45,1416,,"Il mio compito è assicurarmi che non si scatenino alla cieca.",阻止皇家騎士的失控，就是我的存在理由。,,"로얄 나이츠의 폭주를 막는 것이, 내 존재 이유다","Es ist meine Aufgabe, dafür zu sorgen, dass sie
 nicht blind wüten."
 46,1739,,"Infuriarsi, dici?!",你說……失控！？,,"폭주, 라고…!?","Wüten, sagst du?!"
 47,1739,,"È la volontà di Re Drasil, di distruggere il mondo
@@ -122,8 +120,7 @@ degli umani e di proteggere il Mondo Digitale!","消滅人類世界、保護數�
 是世界樹的意志！",,"인간 세계를 소멸시켜, 디지털 월드를 지키는 것은
 위그드라실의 의지다!","Es ist der Wille König Drasils, die Menschenwelt zu
 zerstören und die Digitale Welt zu beschützen!"
-48,1416,,"In effetti.
-Ma anch'io sono qui per volere di Re Drasil.","原來如此。
+48,1416,,"In effetti. Ma anch'io sono qui per volere di Re Drasil.","原來如此。
 不過，將我送去人類世界，也是世界樹的意志。",,"…그렇군
 하지만, 날 인간 세계에 보낸 것 또한, 위그드라실의 의지다","In der Tat.
 Doch auch ich bin durch König Drasils Willen hier."

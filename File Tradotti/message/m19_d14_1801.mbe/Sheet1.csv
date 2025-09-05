@@ -31,9 +31,8 @@ an Verschlingern, die aus der Digitalen Welt gekommen
 sind, unternehmen."
 9,3002,,"Non potremmo eliminarli uno dopo l'altro?",那麼……我們要把它們一個接一個收拾掉？,,그럼… 닥치는 대로 해치워 버릴까?,"Könnten wir sie nicht einen nach dem anderen
 erledigen?"
-10,3002,,"Ma ehi, abbiamo pure un Royal Knight
-leggendario! Lui può usare poteri leggendari
-e fare cose leggendarie!","不管怎麼說，我們這裡有傳說中的皇家騎士嘛！
+10,3002,,"Ma ehi, abbiamo un leggendario Royal Knight!
+Può usare poteri leggendari e fare cose leggendarie!","不管怎麼說，我們這裡有傳說中的皇家騎士嘛！
 藉著傳說的力量，或許會想出一些傳說的辦法！",,"무려, 여기에 전설의 로얄 나이츠가 있는걸!
 전설적인 힘으로, 전설적으로 어떻게든 될지도!","Aber hey, wir haben doch einen legendären Royal
 Knight! Der kann legendäre Kräfte nutzen und
@@ -89,7 +88,7 @@ Duftmons Energie schon bereit."
 momento d'ora in poi.",……隨時都能實行。,,…언제든 실행 가능입니다,"Der Plan kann jetzt also jederzeit ausgeführt
 werden."
 28,1088,,"Questo è assurdo!
-Allora il mio Mondo Digitale è a maggior ragione condannato alla distruzione!","怎麼可能！？
+Allora il mio Mondo Digitale è ancora più destinato alla rovina!","怎麼可能！？
 那樣的話，這次數碼世界一定會毀滅的……！",,"바보 같은!?
 그래서는 이번에야말로 디지털 월드가 멸망해 버려…!","Das ist absurd!
 Dann ist meine Digitale Welt erst recht dem Untergang
@@ -107,23 +106,23 @@ unità centrale tra i Eater?","你們知道侵食者有著
 알고 계십니까?","Wusstet ihr, dass es bei den Verschlingern eine
 Art zentrale Einheit gibt?"
 33,3005,,Unità Centrale ... il Eater?,侵食者的……本體？,,이터의… 본체?,Zentrale Einheit ... der Verschlinger?
-34,3009,,"Sì! La Procreatrix Divoratrice!
+34,3009,,"Sì! La Procreatrice Eater!
 Se la eliminate, spariranno anche tutte le altre!","是啊、是啊！那正是「侵食者母體」！
 如果可以消除它，所有侵食者就會接連消滅！",,"예, 예! 그것이 바로「마더 이터」!
-이걸 제거하면, 연쇄적으로 모든 이터가 소멸하지요!","Ja! Die Verschlinger-Procreatrix!
+이걸 제거하면, 연쇄적으로 모든 이터가 소멸하지요!","Ja! Die Verschlinger-Procreatrice!
 Wenn ihr diese ausschaltet, verschwinden auch
 alle anderen!"
-35,1416,,Dov'è questa Procreatrice Divoratrice?,侵食者母體在哪裡？,,마더 이터는 어디에 있지?,Wo ist denn diese Verschlinger-Procreatrix?
+35,1416,,Dov'è questa Procreatrice Eater?,侵食者母體在哪裡？,,마더 이터는 어디에 있지?,Wo ist denn diese Verschlinger-Procreatrice?
 36,3009,,Nel profondo del Mondo Digitale. Il nucleo di King Drasil.,在數碼世界的最深處——世界樹的中樞（核心）。,,디지털 월드의 최심부― 위그드라실의 중추(코어)입니다,Tief in der Digitalen Welt. König Drasils Kern.
 37,3009,,"Re Drasil, l'Host, che si potrebbe anche
 definire il creatore del vostro mondo...","主電腦「世界樹」
 可以說是你們世界的創造主——",,"당신들 세계의 창조주라고도 할 수 있는
 호스트 컴퓨터「위그드라실」은―","König Drasil, der Host, den man auch als Schöpfer
 eurer Welt bezeichnen könnte ..."
-38,3009,,"... è stato danneggiato dalla Procreatrice
-Divoratrice e ha perso la maggior parte delle funzioni.","世界樹受到侵食者母體的侵蝕，
+38,3009,,"... è stato danneggiato dalla Procreatrice Eater
+e ha perso la maggior parte delle funzioni.","世界樹受到侵食者母體的侵蝕，
 絕大部分的機能都已損壞。",,"마더 이터의 침식을 받아
-기능의 대부분을 잃었습니다","... wurde von der Verschlinger-Procreatrix
+기능의 대부분을 잃었습니다","... wurde von der Verschlinger-Procreatrice
 beschädigt und hat die meisten Funktionen
 eingebüßt."
 39,3009,,"Questo è forse il motivo per cui
@@ -132,13 +131,13 @@ voi Royal Knight non andate più d'accordo.","你們皇家騎士會決裂，
 그게 원인일지도 모르겠군요","Das ist möglicherweise der Grund, warum
 ihr Royal Knights euch nicht mehr einig seid."
 40,1088,,"Un momento... Se sappiamo dove si
-trova questa Procreatrix Divoratrice, allora
+trova questa Procreatrice Eater, allora
 dovremmo andare da Re Drasil e rimuoverla!","等等……如果已經弄清楚那傢伙的所在地，
 那就趕快去世界樹那邊，把它消除就好了！",,"잠깐… 그 녀석의 장소를 판명했다면
 당장 위그드라실의 곁으로 가서, 없애 버리면 돼!","Moment ... Wenn wir wissen, wo diese
-Verschlinger-Procreatrix ist, dann sollten wir zu
+Verschlinger-Procreatrice ist, dann sollten wir zu
 König Drasil gehen und sie entfernen!"
-41,1088,,"Perché dobbiamo prima rimandare indietro i Mangiatori?",為何還需要把侵食者送回去呢！？,,"이터를 돌려보내는 행위가, 어째서 필요한 거지!?","Warum müssen wir die Verschlinger erst
+41,1088,,"Perché dobbiamo prima rimandare indietro gli Eater?",為何還需要把侵食者送回去呢！？,,"이터를 돌려보내는 행위가, 어째서 필요한 거지!?","Warum müssen wir die Verschlinger erst
 zurückschicken?"
 42,3009,,"Se caricate semplicemente, purtroppo non
 riuscirete a raggiungere Re Drasil.","很遺憾地，光是貿然闖進，
@@ -163,21 +162,20 @@ werden würden."
 parte della Procreatrice dei Eater, per loro è diverso.","然而，
 如果是身為「侵食者母體的一部分」的侵食者的話，就另當別論…",,"하지만
 「마더 이터의 일부」인 이터라면, 얘기는 다르지요…","Da die Verschlinger jedoch alle Teil der
-Verschlinger-Procreatrix sind, ist es bei ihnen
+Verschlinger-Procreatrice sind, ist es bei ihnen
 anders."
 47,3009,,"Se potessimo inviare Eater in massa
 indietro alla Procreatrice dei Eater, nella
 quale è integrato uno dei miei programmi...","將安裝了我自製程式的侵食者，
 大量送到侵食者母體那裡——",,"제 수제 프로그램을 심은 이터를
 대량으로 마더 이터의 곁으로 보내―","Wenn wir massenhaft Verschlinger zurück zur
-Verschlinger-Procreatrix schicken könnten, in die
+Verschlinger-Procreatrice schicken könnten, in die
 eins meiner Programme integriert ist ..."
 48,3009,,"... potremmo legarlo a Re Drasil e recuperare
 temporaneamente il sistema di sicurezza.",讓它們纏上世界樹，暫時抑制世界樹的防護功能。,,"위그드라실에게 붙들리게 한 다음, 보안 기능을
 일시적으로 억제합니다","... könnten wir sie an König Drasil binden und das
 Sicherheitssystem vorübergehend zurückgewinnen."
-49,3005,,"E poi disattiviamo la Procreatrix
-Divoratrice.",接著趁機消除侵食者母體……,,"그 사이에, 마더 이터를 제거한다…","Und dann schalten wir die Verschlinger-Procreatrix
+49,3005,,"E poi disattiviamo la Procreatrice Eater.",接著趁機消除侵食者母體……,,"그 사이에, 마더 이터를 제거한다…","Und dann schalten wir die Verschlinger-Procreatrice
 aus."
 50,1416,,Hm... Credo di capire cosa dici.,嗯……還算有道理吧。,,"흐음… 논리정연한 얘기이긴, 하군","Hm ... Ich glaube, ich verstehe, was du sagst."
 51,3009,,"Non c'è altro modo per salvare entrambi i mondi dai Eater.","除了這個方法之外，沒有其他辦法
@@ -206,13 +204,13 @@ genug Energie angestaut ist, um das Tor auch
 offen zu halten."
 58,3009,,"Non appena i Eater saranno nel Mondo Digitale,
 dovrete bloccare il portale dall'interno, finché
-la Procreatrix dei Eater non sarà sconfitta.","所以，我希望你們在我把侵食者誘導到數碼世界，
+la Procreatrice dei Eater non sarà sconfitta.","所以，我希望你們在我把侵食者誘導到數碼世界，
 消除侵食者母體的這段期間，
 從門的內部推著，防止門關上。",,"그래서, 이터를 디지털 월드에 유도하여
 마더 이터를 제거할 때까지,
 문이 닫히지 않도록 문의 내부에서 막아 주셨으면 합니다만","Sobald die Verschlinger also in der Digitalen Welt
 sind, müsst ihr das Tor von innen aufhalten,
-bis die Verschlinger-Procreatrix besiegt ist."
+bis die Verschlinger-Procreatrice besiegt ist."
 59,4277,,Puoi lasciare a noi.,那個任務，就由我們來負責吧。,,"…그 역할, 저희들이 맡겠습니다",Das kannst du uns überlassen.
 60,1088,,Magnamon!,金甲龍獸……！,,매그너몬…!,Magnamon!
 61,3002,,Ragazzi!,大家……！,,모두…!,Leute!
@@ -223,22 +221,21 @@ Un nuovo mondo!","呵呵呵，這真是讓人安心！
 그럼… 새로운 시대! 신세계로 향하는 문을 열도록 하지요!","Hehehe, ist das nicht rührend!
 Öffnen wir das Tor für ein neues Zeitalter!
 Eine neue Welt!"
-63,3009,,"In questo senso dovremmo apportare
-qualche piccolo aggiustamento alla linea digitale.","那麼，
+63,3009,,"In questo senso, dovremmo fare qualche piccola modifica alla linea digitale.","那麼，
 我趕緊來調整數碼線。",,"…그러므로
 후딱 디지털 라인을 조정하겠습니다","In diesem Sinne sollten wir an der digitalen
 Leitung ein paar kleine Anpassungen vornehmen."
-64,3009,,"Maestro Arata, Signorina Yuuko, mi aiutereste?
-Ah, e ovviamente anche la Signorina Akkino!","新、悠子小姐，可以幫我嗎？
+64,3009,,"Maestro Arata, signorina Yuuko, mi aiutereste?
+Ah, e anche la signorina Akkino, naturalmente!","新、悠子小姐，可以幫我嗎？
 啊，順便雅奇諾也一起。",,"아라타 군, 유코 씨, 도와 주실 수 있으십니까?
 아, 겸사겸사 앗키노 씨도","Meister Arata, Fräulein Yuuko, würdet ihr mir
 helfen? Ach, und Fräulein Akkino natürlich auch!"
-65,3002,,"Cosa?
-Anch'io?! Ma cosa intendi con ""ovviamente anch'io""?","咦！我也要！？
+65,3002,,"Cosa? Anch'io?!
+Ma cosa intendi con ""ovviamente anch'io""?","咦！我也要！？
 話說回來，「順便」是什麼意思！？",,"에! 나도!?
 그보다, 겸사겸사는 뭐야!?","Was? Ich auch?!
 Aber was meinst du mit „natürlich auch“?"
-66,3009,,"Caro, hai semplicemente dimostrato un
+66,3009,,"Cara, hai semplicemente dimostrato un
 talento unico nell'hacking della linea digitale!","哎呀呀，妳非法入侵數碼線的本領，
 比我想像的還要厲害唷？",,"이거이거, 디지털 라인을 해킹한 솜씨 
 꽤나, 훌륭했습니다요?","Liebes, du hast einfach ein einzigartiges Talent
