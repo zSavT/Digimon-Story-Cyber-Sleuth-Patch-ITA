@@ -1,8 +1,8 @@
 ﻿ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
-1,3002,,Cosa? Dov'è [p] finito?,咦……？[p]不見了？,,"…에? [p]가(이), 사라졌다고요?",Was? Wo ist [p] denn hin?
+1,3002,,Cosa? Dov'è finito [p]?,咦……？[p]不見了？,,"…에? [p]가(이), 사라졌다고요?",Was? Wo ist [p] denn hin?
 2,3006,,[p] è a quanto pare scomparso.,嗯，據說是那樣。,,"…음, 얘기에 의하면, 그런 것 같다",[p] ist offenbar verschwunden.
 3,3002,,"Haha, va bene così!",啊哈哈～沒問題啦～！,,아하하~ 괜찮아요~!,"Haha, das ist schon in Ordnung!"
-4,3002,,"[p] è già sparito così, e poi è tornato come se niente fosse successo.","之前他忽然消失時，
+4,3002,,"[p] è già sparito una volta, per poi tornare come se niente fosse.","之前他忽然消失時，
 後來也是若無其事的回來啦～？",,"전에, 휙 하고 사라졌을 때도
 태연히 돌아왔었고~?","[p] ist schon mal so verschwunden,
 und dann zurückgekommen, als wäre nichts gewesen."
@@ -21,13 +21,11 @@ Cosa intendi, Kyoko? Yuuko?","這、這是怎麼回事！？
 喂，杏子姊！小悠子！？",,"어, 어떻게 된 거야!?
 저기, 쿄코 씨! 유콧치!?","Was ist hier los?
 Was meinst du, Kyoko? Yuuko?"
-11,3003,,"Non lo so.
-Quando me ne sono accorto, era già...","我也……不知道。
+11,3003,,"Non lo so. Quando me ne sono accorta, era già...","我也……不知道。
 等我回過神，就只剩下那個……",,"저도… 모르겠어요
 정신을 차리고 보니, 그것만이…","Ich weiß es nicht.
 Als ich es bemerkt habe, war es schon ..."
-12,3006,,"[p] sembra che Crusadermon
-sia caduto in una trappola insidiosa.","看樣子，
+12,3006,,"Sembra che [p] sia caduto in una trappola insidiosa di Crusadermon.","看樣子，
 他落入了劍皇獸狡猾的陷阱。",,"아무래도, 로드나이트몬의 교활한 함정에
 빠져 버린 것 같다","[p] scheint Crusadermon in eine
 heimtückische Falle getappt zu sein."
@@ -49,7 +47,7 @@ la posizione in cui il mio aiutante detective è andato perso.","我剛剛試著
 조수의 위치정보가 로스트된 포인트를 알아내 봤다","Ich habe die Protokolldaten analysiert, um den
 Standort zu bestimmen, an dem mein Hilfsdetektiv
 verloren gegangen ist."
-17,3002,,"H-Hai [p] trovato? Dove? Dov'è [p]?","找、找到了嗎！？
+17,3002,,"H-Hai trovato [p]? Dove? Dov'è [p]?","找、找到了嗎！？
 在、在、在哪……！？在哪在哪在哪！？",,"차, 찾은 건가요!?
 어어, 어디…!? 어디어디어디!?","H-Hast du [p] gefunden?
 Wo denn? Wo ist [p]?"
@@ -92,7 +90,7 @@ tätig werden, anstatt uns verrückt zu machen."
 30,3002,,"Perfetto, Kyoko! È proprio quello che dobbiamo fare!",不愧是杏子姊，這樣才對嘛♪,,"역시 쿄코 씨, 그렇게 나와야죠♪","Jawohl, Kyoko! Genau das müssen wir machen!"
 31,3006,,Hm... Iniziamo con questo Digivice...,呵……首先把這個Digivice……,,"훗… 우선, 이 디지바이스를…―",Hm ... Fangen wir mit diesem Digivice an ...
 32,3006,,"Allora mi fido di te, Nokia Shiramine.",白峰諾奇雅，就託付給妳了。,,"시라미네 노키아, 너에게 맡기겠다","Da vertraue ich auf dich, Nokia Shiramine."
-33,3002,,Proprio questo dobbiamo fare anche noi!,這樣才對嘛～♪大鬧一場……,,"그렇게 나와야죠♪ 파트, 투…",Genau das müssen wir auch machen!
+33,3002,,È proprio quello che dobbiamo fare anche noi!,這樣才對嘛～♪大鬧一場……,,"그렇게 나와야죠♪ 파트, 투…",Genau das müssen wir auch machen!
 34,3002,,"Aspetta un attimo, cosa? Su di me?",咦……？交、交給我……！？,,"……네? 저, 저에게요…!?","Moment mal, was? Auf mich?"
 35,3006,,"Porta i Digimon che [p] aveva con sé.
 Ti serviranno per l'operazione di salvataggio.","我希望妳帶著曾和[p]在一起的數碼寶貝們，
