@@ -310,10 +310,10 @@ Luogo: Ospedale Centrale","【委託人】鼻涕獸
 Ort: Zentralkrankenhaus"
 363,,Inizia all'ospedale,從醫院某處前往委託人的所在地,,병원 어딘가에서 의뢰인이 있는 곳으로 향하자.,Start im Krankenhaus
 364,,8 gusci di Shakomon,打倒蝦蛄獸，蒐集8個貝殼,,샤코몬을 쓰러뜨리고 조개껍데기를 8개 모으자.,8 Syakomon-Panzer
-380,,CD autografato della Principessa,小媛媛的親筆簽名CD！,,히메짱의 사인이 든 CD!,Die signierte Prinzessin-CD
-381,,"Conosci la cantante, Princess, vero? Io
-voglio partecipare all'evento invece.
-E poi posso spingere i miei CD autografati. Ehehe!","你一定知道一個叫做小媛媛的歌手吧？
+380,,CD autografato da Princess,小媛媛的親筆簽名CD！,,히메짱의 사인이 든 CD!,Die signierte Prinzessin-CD
+381,,"Conosci la cantante, Princess, vero? Io voglio
+partecipare all'evento. Voglio andare all'evento
+e prendere dei CD autografati. Hehe!","你一定知道一個叫做小媛媛的歌手吧？
 我想拜託你代替我參加活動
 幫我買附贈親筆簽名的CD……嘿嘿嘿",,"가수 히메짱은 당연히 알고 계시겠죠?
 대리로 이벤트에 참가하고 싶거든요.
@@ -456,8 +456,8 @@ Ort: Zentralkrankenhaus"
 524,,Trova delle erbe,尋找藥草,,약초를 찾으러 가자.,Kräuter suchen
 525,,Trova due ingredienti,尋找作為藥物材料的2項道具,,약의 소재가 될 아이템을 2개 찾아오자.,Zwei Zutaten suchen
 540,,La Prova della Medicina del Dott. Datamon,分子獸博士的新藥實驗,,데이터몬 박사의 신약 실험,Dr. Datamons medizinischer Test
-541,,"Sono un famoso esperto nel preparare medicine 
-per Digimon. Chiamatemi ""Dott. Datamon"".
+541,,"Sono un famoso esperto nella creazione di 
+medicine per Digimon. Chiamami ""Dott. Datamon"".
 Ho bisogno di aiuto con il mio prototipo.","為數碼寶貝製作藥物而聞名的博士
 －－分子獸博士指的就是我
 這次我也想要借助你的力量執行新藥的實驗",,"디지몬을 위한 약 만들기로 유명한 박사
@@ -473,7 +473,7 @@ Ort: Zentralkrankenhaus"
 543,,Inizia all'ospedale,從醫院某處前往委託人的所在地,,병원 어딘가에서 의뢰인이 있는 곳으로 향하자.,Start im Krankenhaus
 544,,Dai la medicina a 4,讓4隻數碼寶貝服下藥物,,약을 4마리의 디지몬에게 먹여보자.,4-mal Medizin geben
 560,,Medicina Dott. Datamon Completa,分子獸博士的新藥完成,,데이터몬 박사의 신약 완성,Dr. Datamons vollendete Medizin
-561,,"Sono un famoso esperto nella creazione di
+561,,"Sono un famoso esperto nella creazione di 
 medicine per Digimon. Chiamami ""Dott. Datamon"".
 Ho bisogno di aiuto con il mio esperimento finale!","為數碼寶貝製作藥物而聞名的博士
 －－分子獸博士指的就是我
