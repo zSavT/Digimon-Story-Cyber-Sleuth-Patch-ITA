@@ -306,7 +306,7 @@
 3053,,K,K,,K,K
 4001,,Uomo d'affari veterano,資深上班族,,베테랑 샐러리맨,Versierter Geschäftsmann
 4002,,Uomo d'affari,上班族,,샐러리맨,Geschäftsmann
-4003,,Tizio Appariscente,輕浮男子,,경박한 남자,Angeber
+4003,,Sbruffone,輕浮男子,,경박한 남자,Angeber
 4004,,Impiegata,OL大姊姊,,OL누님,Bürodame
 4005,,Hacker Zaxon,Zaxon駭客,,잭슨 해커,Zaxon-Hacker
 4006,,Hacker Demons,惡魔亂舞駭客,,데몬즈 해커,Demons-Hacker
@@ -452,7 +452,7 @@
 4201,,Jirou,次郎,,지로,Jirou
 4202,,Re dei Mostri,怪獸之王,,몬스터 킹,Monsterkönig
 4203,,Suzuki,鈴木,,스즈키,Suzuki
-4204,,Semi-Fuorilegge @Sakimiya,心跳太妹@崎宮,,두근두근왕언니@사키미야,Halb-Gangster @Sakimiya
+4204,,Semi-Gangster @Sakimiya,心跳太妹@崎宮,,두근두근왕언니@사키미야,Halb-Gangster @Sakimiya
 4205,,Audrey,奧黛莉,,오드리,Audrey
 4206,,Richard,理查,,리처드,Richard
 4207,,Kenzaburou Itoh,伊藤健三郎,,이토 켄자부로,Kenzaburou Itoh
@@ -488,7 +488,7 @@
 4237,,Cameriera,女服務生,,웨이트리스,Kellnerin
 4238,,Sacchan,小莎,,밋짱,Sacchan
 4239,,Direttore Kamishiro,神代幹部,,카미시로 간부,Kamishiro-Manager
-4240,,Distributore di contenuti,DLC發送員,,DLC배달원,Spielinhalt-Verteilerin
+4240,,Distributore di Bonus DLC,DLC發送員,,DLC배달원,Spielinhalt-Verteilerin
 4241,,Arata Sanada,真田新,,사나다 아라타,Arata Sanada
 4242,,Sig. Navit?,NAVIT？,,내빗군?,Herr Navit?
 4243,,Uomo dall'aria da hacker,疑似駭客的男子,,해커같은 남자,Hackermäßiger Mann
@@ -551,15 +551,15 @@
 4300,,Sapientone,見多識廣的大叔,,물정에 밝은 아저씨,Besserwisser
 4301,,Ragazzo Nerd Smarrito,優柔寡斷的御宅族青年,,결정하지 못하는 오타쿠 청년,Verirrter junger Nerd
 4302,,Studentessa alla moda,時髦的女學生,,세련된 여학생,Elegante Schülerin
-4303,,Studentessa cinica,乖僻的女學生,,삐뚤어진 여학생,Zynische Schülerin
-4304,,Poliziotto corpulento,威風凜凜的警察,,믿음직스러운 경찰관,Stämmiger Polizist
+4303,,Studentessa Cinica,乖僻的女學生,,삐뚤어진 여학생,Zynische Schülerin
+4304,,Poliziotto Robusto,威風凜凜的警察,,믿음직스러운 경찰관,Stämmiger Polizist
 4305,,Donna Codarda,膽小的姊姊,,겁많은 누님,Feige Frau
 4306,,Studentessa Loquace,長舌的女學生,,수다스러운 여학생,Gesprächige Schülerin
 4307,,Tizio in pausa,休息中的大哥,,휴식 중인 형님,Typ in der Pause
-4308,,Studente Hacker Maschio,駭客男學生,,해커 남학생,Hackerschüler
+4308,,Studente Hacker,駭客男學生,,해커 남학생,Hackerschüler
 4309,,Studente Ossessionato da Mirei,嚮往米蕾的男學生,,미레이를 동경하는 남학생,Mirei-besessener Schüler
 4310,,Studentessa Apprensiva,煩惱多多的女學生,,고민 많은 여학생,Pessimistische Schülerin
-4311,,Studente maschio che fa acquisti,正在購物的男學生,,쇼핑 중인 남학생,Einkaufender Schüler
+4311,,Studente che fa acquisti,正在購物的男學生,,쇼핑 중인 남학생,Einkaufender Schüler
 4312,,Studente Ben Informato,熟知情報的男學生,,정보통 남학생,Gut informierter Schüler
 4313,,Tizio del Negozio di Carte,卡牌店的男子,,카드숍 남자,Typ aus dem Kartenladen
 4314,,Studente appassionato di carte,熱愛卡牌的男學生,,카드를 몹시 좋아하는 남학생,Kartenfan-Schüler
@@ -567,23 +567,23 @@
 4316,,Ragazzo del Negozio di Carte,卡牌店的男子,,카드숍 남자,Typ aus dem Kartenladen
 4317,,Ragazza amante della musica,愛好音樂的女孩,,음악을 좋아하는 여자아이,Junge Musikliebhaberin
 4318,,Tizio appassionato di carte,熱愛卡牌的大叔,,카드를 몹시 좋아하는 아저씨,Kartenfan
-4319,,Secchione di figure da collezione,喜愛美少女模型的御宅族,,미소녀 피규어 오타쿠,Figurennerd
-4320,,Studente appassionato di manga (maschio),喜愛漫畫的男學生,,만화를 좋아하는 남학생,Mangafan-Schüler
+4319,,Nerd di Action Figure,喜愛美少女模型的御宅族,,미소녀 피규어 오타쿠,Figurennerd
+4320,,Studente fan dei Manga,喜愛漫畫的男學生,,만화를 좋아하는 남학생,Mangafan-Schüler
 4321,,Studentessa Addolorata,愁眉不展的女學生,,슬퍼보이는 여학생,Besorgte Schülerin
-4322,,Studente che odia gli hacker,討厭駭客的女學生,,해커를 싫어하는 여학생,Hacker hassende Schülerin
+4322,,Studentessa che odia gli hacker,討厭駭客的女學生,,해커를 싫어하는 여학생,Hacker hassende Schülerin
 4323,,Ragazzo Nerd Informato,熟知內幕的御宅族青年,,정보통 오타쿠 청년,Informierter junger Nerd
-4324,,Ragazzo Nerd Goloso,嘴饞的御宅族青年,,걸신들린 오타쿠 청년,Hungriger junger Nerd
-4325,,Donna Avida,充滿欲望的姊姊,,욕심 많은 누님,Lüsterne Frau
-4326,,Ragazza Nostalgica,焦急等待的女性,,애타게 기다리는 여성,Sehnsüchtiges Mädchen
-4327,,Ragazza Tranquilla,冷靜的女性,,냉정한 여성,Stilles Mädchen
+4324,,Ragazzo Nerd Affamato,嘴饞的御宅族青年,,걸신들린 오타쿠 청년,Hungriger junger Nerd
+4325,,Donna Lussuriosa,充滿欲望的姊姊,,욕심 많은 누님,Lüsterne Frau
+4326,,Ragazza Desiderosa,焦急等待的女性,,애타게 기다리는 여성,Sehnsüchtiges Mädchen
+4327,,Ragazza Silenziosa,冷靜的女性,,냉정한 여성,Stilles Mädchen
 4328,,Studente Distratto,散漫的男學生,,무책임한 남학생,Leichtsinniger Schüler
-4329,,Studente perspicace (maschio),懂得品味的男學生,,통찰력 있는 남학생,Scharfsinniger Schüler
+4329,,Studente Perspicace,懂得品味的男學生,,통찰력 있는 남학생,Scharfsinniger Schüler
 4330,,Signora amante del caffè,喜愛咖啡的姊姊,,커피를 좋아하는 누님,Kaffeeliebhaberin
-4331,,Studente Maschio Puro,純潔的男學生,,순진한 남학생,Unschuldiger Schüler
+4331,,Studente Innocente,純潔的男學生,,순진한 남학생,Unschuldiger Schüler
 4332,,Ragazzo appassionato di medaglie,喜愛獎牌的御宅族青年,,메달 오타쿠 청년,Medaillennerd
 4333,,Collezionista di medaglie,獎牌收藏家,,메달 콜렉터,Medaillensammler
 4334,,Jimmy Studente,Jimmy風格的男學生,,수수한 남학생,Jimiken-Fan
-4335,,Secchione di Strutture,喜愛研究結構的御宅族青年,,구조 오타쿠 청년,Junger Architekturfan
+4335,,Secchione di Architettura,喜愛研究結構的御宅族青年,,구조 오타쿠 청년,Junger Architekturfan
 4336,,Gioventù Innocente,單純的年輕人,,천진한 젊은이,Unschuldiger Teenager
 4337,,Giocatore dal Cuore Ardente,熱血遊戲玩家,,열혈 게이머,Temperamentvoller Gamer
 4338,,Proprietario del K-Cafe,K-Cafe店長,,K-카페 주인장,K-Café-Besitzer
@@ -591,7 +591,7 @@
 4340,,"Sacchan, la Ragazza Part-time",工讀生小莎,,알바생 삿짱,Aushilfe Sacchan
 4341,,Giovane Uomo d'Affari,年輕的上班族,,젊은 샐러리맨,Junger Geschäftsmann
 4342,,Impiegato Stanco,疲累的上班族,,지친 샐러리맨,Müder Geschäftsmann
-4343,,Uomo d'affari esperto,博學多聞的上班族,,박식한 샐러리맨,Erfahrener Geschäftsmann
+4343,,Uomo d'affari Esperto,博學多聞的上班族,,박식한 샐러리맨,Erfahrener Geschäftsmann
 4344,,Campagnolo,鄉村系男子,,시골출신 남자,Landei
 4345,,Ragazza di campagna,鄉村系女子,,시골출신 여자,Landei
 4346,,Impiegata Mangiauomini,肉食系時髦OL,,육식형 멋쟁이 OL,Attraktive Bürodame
@@ -612,23 +612,23 @@
 4361,,Soldato Difensivo Affidabile,可靠的防衛隊員,,든든한 방위대원,Bewährter Schutzpolizist
 4362,,Studentessa Intrepida,天不怕地不怕的女學生,,겁없는 여학생,Furchtlose Schülerin
 4363,,Vecchio Uomo Triste,傷心的老爺爺,,슬픈 할아버지,Trauriger alter Mann
-4364,,Agente di polizia timido,軟弱的警察,,심약한 경찰관,Schüchterner Polizist
+4364,,Polizziotto Timido,軟弱的警察,,심약한 경찰관,Schüchterner Polizist
 4365,,Impiegato Sovraccarico,公司奴隸系的上班族,,사축계 샐러리맨,Erledigter Geschäftsmann
 4366,,Impiegato Urlante,咆哮的上班族,,외치는 샐러리맨,Rufender Geschäftsmann
 4367,,Donna Caparbia,堅強的姊姊,,기가 센 누님,Eigensinnige Frau
-4368,,Ragazza Galante,勇敢的女孩,,용감한 여자아이,Furchtloses Mädchen
+4368,,Ragazza Senza Paura,勇敢的女孩,,용감한 여자아이,Furchtloses Mädchen
 4369,,Ragazzo Codardo,膽小的男孩,,소심한 남자아이,Feiger Junge
 4370,,Gentile Vecchio,溫柔的老爺爺,,친절한 할아버지,Freundlicher alter Mann
 4371,,Studente impaurito,恐慌的男學生,,패닉에 빠진 남학생,Panischer Schüler
-4372,,Giovane Nerd Turista,上京系的御宅族青年,,상경한 오타쿠 청년,Junger Nerdtourist
+4372,,Giovane Turista Otaku,上京系的御宅族青年,,상경한 오타쿠 청년,Junger Nerdtourist
 4373,,Otaku,喜愛動畫的御宅族少年,,애니메이션 오타쿠 소년,Junger Anime-Nerd
-4374,,Cameriera Appassionata,熱血女僕,,뜨거운 메이드,Engagierte Maid
+4374,,Cameriera Dedica,熱血女僕,,뜨거운 메이드,Engagierte Maid
 4375,,Cameriera Gattina,貓咪女僕,,야옹이 메이드,Kätzchen-Maid
 4376,,Ragazza appassionata di videogiochi,熱愛遊戲的女子,,게임을 매우 좋아하는 여자,Gamer-Mädchen
 4377,,Ragazzo Vivace,遷怒於人的男子,,화풀이하는 남자,Lebhafter Junge
 4378,,Tizio compassionevole,玻璃心的大叔,,친절한 아저씨,Mitfühlender Typ
 4379,,Agente di Polizia Severo,嚴厲的警察,,엄격한 경찰관,Strenger Polizist
-4380,,Secchione Distratto,散漫的御宅族青年,,허술한 오타쿠 청년,Leichtsinniger Nerd
+4380,,Nerd Distratto,散漫的御宅族青年,,허술한 오타쿠 청년,Leichtsinniger Nerd
 4381,,Poliziotto in gamba,冷靜的防衛隊員,,냉정한 방위대원,Cooler Schutzpolizist
 4382,,Poliziotto Intelligente,陷入沉思的防衛隊員,,생각에 잠긴 방위대원,Kluger Schutzpolizist
 4383,,Poliziotto Fedele,充滿使命感的防衛隊員,,사명감 넘치는 방위대원,Treuer Schutzpolizist
@@ -669,7 +669,7 @@
 4418,,Tizio Sfortunato,倒楣的大哥,,불운한 형님,Pechvogel
 4419,,Infermiera Diffidente,警戒心強的護理師,,경계심 강한 간호사,Wachsame Schwester
 4420,,Ragazza ottimista,漫不經心的女孩,,무사태평한 여자아이,Optimistisches Mädchen
-4421,,Infermiera Tosta,一板一眼的護理師,,딱딱한 간호사,Abgehärtete Schwester
+4421,,Infermiera Educata,一板一眼的護理師,,딱딱한 간호사,Abgehärtete Schwester
 4422,,Infermiera Sovraccarica,忙得不可開交的護理師,,힘겨운 간호사,Überlastete Schwester
 4423,,Il cocco di nonno,隔代教養的青年,,할아버지를 따르는 청년,Opas Liebling
 4424,,Ragazzo Allegro,開朗的男孩,,쾌활한 남자,Fröhlicher Junge
@@ -692,16 +692,16 @@
 4441,,Madre distratta,精神錯亂的媽媽,,착란을 일으킨 어머니,Abgelenkte Mutter
 4442,,Vecchio Uomo Composto,老神在在的老爺爺,,여유로운 할아버지,Gelassener alter Mann
 4443,,Agente di polizia irrequieto,毛毛躁躁的警察,,침착함을 잃은 경찰관,Ruheloser Polizist
-4444,,Studente Saccentone (Maschio),見多識廣的男學生,,박식한 남학생,Neunmalkluger Schüler
+4444,,Studente sapientone,見多識廣的男學生,,박식한 남학생,Neunmalkluger Schüler
 4445,,Studentessa ingenua,不諳世事的女學生,,철부지 여학생,Naive Schülerin
 4446,,Tizio Super Serio,一本正經的大叔,,고지식한 아저씨,Todernster Kerl
 4447,,Vecchio Imbarazzato,手忙腳亂的老爺爺,,쩔쩔매는 할아버지,Aufgeregter alter Mann
 4448,,Uomo Vigilante,警戒中的男子,,경계하고 있는 남자,Wachsamer Mann
-4449,,Soldato di Difesa Valoroso,雄赳赳的防衛隊員,,용감한 방위대원,Mutiger Schutzpolizist
+4449,,Soldato Coraggioso Protettivo,雄赳赳的防衛隊員,,용감한 방위대원,Mutiger Schutzpolizist
 4450,,Uomo d'affari vigile,警戒中的上班族,,경계하고 있는 샐러리맨,Wachsamer Geschäftsmann
 4451,,Casalinga appassionata di musei,熱愛博物館的主婦,,박물관을 좋아하는 주부,Museumsgängerin
 4452,,Tizio patata da divano,愛看電視的大叔,,TV중독 아저씨,Stubenhocker
-4453,,Vecchio Vecchio Stampo,古板的老爺爺,,옛스러운 할아버지,Altmodischer alter Mann
+4453,,Vecchio all'antica,古板的老爺爺,,옛스러운 할아버지,Altmodischer alter Mann
 4454,,Trasmissione Copia,通話中的警察,,통신 중인 경찰관,Funkender Polizist
 4455,,Donna dalla lingua tagliente,毒舌的姊姊,,독설 누님,Scharfzüngige Frau
 4456,,Ragazza Innocente,單純的女孩,,천진한 여자아이,Unschuldiges Mädchen
@@ -711,7 +711,7 @@
 4460,,Coraggioso Soldato della Difesa,威風凜凜的防衛隊員,,믿음직스러운 방위대원,Kräftiger Schutzpolizist
 4461,,Soldato Difensivo Affidabile,可靠的防衛隊員,,의지할 수 있는 방위대원,Bewährter Schutzpolizist
 4462,,Uomo d'affari della linea 57,第57行的上班族,,57행째 샐러리맨,Geschäftsmann Linie 57
-4463,,Donna Comune,Jimmy風格的姊姊,,수수한 누님,Einfache Frau
+4463,,Ragazza Sempliciotta,Jimmy風格的姊姊,,수수한 누님,Einfache Frau
 4464,,Uomo d'affari dal cuore tenero,老好人上班族,,사람 좋은 샐러리맨,Gutmütiger Geschäftsmann
 4465,,Casalinga Buongustaia,熱愛做菜的主婦,,요리를 좋아하는 주부,Gourmet-Hausfrau
 4466,,Marito affettuoso,最愛老婆的老公,,아내를 좋아하는 남편,Schwärmerischer Ehemann
@@ -733,7 +733,7 @@
 4515,,Hacker Spaventoso,令人毛骨悚然的駭客,,기분나쁜 해커,Unheimlicher Hacker
 4516,,Vecchio che finge di essere rimbambito,裝傻的老爺爺,,시치미 떼는 할아버지,Gespielt seniler Alter
 4517,,Studentessa energica,充滿活力的女學生,,활달한 여학생,Lebhafte Schülerin
-4518,,Studente Maschio Puro,純真的男學生,,순진한 남학생,Unschuldiger Schüler
+4518,,Studente Innocente,純真的男學生,,순진한 남학생,Unschuldiger Schüler
 4519,,Tizio che bighellona,獨自佇立的大叔,,서성대는 아저씨,Nichtstuer
 4520,,Donna ingenua,純樸的姊姊,,천진스러운 누님,Naive Frau
 4521,,Uomo d'affari informato,見多識廣的上班族,,물정에 밝은 샐러리맨,Kundiger Geschäftsmann
@@ -748,7 +748,7 @@
 4530,,Studente Nervoso (M),畏畏縮縮的男學生,,겁먹은 남학생,Nervöser Schüler
 4531,,Ragazza scioccata,吃驚的女孩,,놀란 여자아이,Schockiertes Mädchen
 4532,,Tipo Sospettoso,疑心病重的大叔,,의심 많은 아저씨,Misstrauischer Kerl
-4533,,Hacker facoltoso,帶滿回復品的駭客,,알뜰한 해커,Reicher Hacker
+4533,,Hacker Ricco,帶滿回復品的駭客,,알뜰한 해커,Reicher Hacker
 4534,,Hacker Presuntuoso,擺出前輩架子的駭客,,선배인 척 하는 해커,Arroganter Hacker
 4535,,Uomo Retrospectivo,懷舊迷男子,,시대에 뒤떨어진 남자,Schwelgender Mann
 4536,,Donna amante dei manga per ragazzi,喜愛少年漫畫的女性,,소년 만화를 좋아하는 여성,Jungsmanga-Fan
@@ -834,15 +834,15 @@
 4616,,Hacker Malinconico,陰沉的駭客,,음침한 해커,Melancholischer Hacker
 4617,,Hacker Zaxon Belligerante,憤怒的Zaxon駭客,,분노한 잭슨 해커,Streitbarer Zaxon-Hacker
 4618,,Hacker Impaziente,焦躁的駭客,,조급한 해커,Ungeduldiger Hacker
-4619,,Hacker deluso,感到掃興的駭客,,맥이 풀린 해커,Enttäuschter Hacker
-4620,,Hacker rinunciatario,輕易放棄的駭客,,포기가 빠른 해커,Nachgiebige Hackerin
+4619,,Hacker Deluso,感到掃興的駭客,,맥이 풀린 해커,Enttäuschter Hacker
+4620,,Hacker Rinunciatario,輕易放棄的駭客,,포기가 빠른 해커,Nachgiebige Hackerin
 4621,,Hacker Zaxon sconfitto,放棄的Zaxon駭客,,포기한 잭슨 해커,Besiegter Zaxon-Hacker
 4622,,Hacker con le Lacrime,嚎啕大哭的駭客,,눈물로 지새운 해커,Verweinte Hackerin
 4700,,Uomo d'affari apatico,自暴自棄的上班族,,자포자기한 샐러리맨,Apathischer Unternehmer
 4701,,Donna Nervosa,神經質的姊姊,,신경과민 누님,Nervöse Frau
 4702,,Studente Maleducato,無禮的男學生,,무례한 남학생,Unhöflicher Schüler
 4703,,Affascinante Hacker Zaxon,儀表堂堂的Zaxon駭客,,멋진 잭슨 해커,Hübscher Zaxon-Hacker
-4704,,Tizio appariscente,輕浮男子,,경박한 남자,Angeber
+4704,,Sbruffone,輕浮男子,,경박한 남자,Angeber
 4705,,Uomo d'affari intellettuale,有教養的上班族,,인텔리 샐러리맨,Gebildeter Geschäftsmann
 4706,,Donna Codarda,膽小的姊姊,,겁먹은 누님,Feige Frau
 4707,,Hacker Ex-Zaxon Triste,陰沉的前Zaxon駭客,,음침한 전 잭슨 해커,Trauriger Ex-Zaxon
