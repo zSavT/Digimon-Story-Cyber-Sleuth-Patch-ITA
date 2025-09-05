@@ -14,38 +14,34 @@ wie du gerade dreinschaust?"
 5,3002,,"Hai proprio ragione, ma...",我知道……雖然我知道……,,알고 있어… 알고 있지만…!,"Du hast ja recht, aber ..."
 6,3002,,"Ti prego, torna a casa!",喂，拜託……回來吧！,,"…저기, 부탁이야… 돌아와 줘…!",Bitte komm zurück nach Hause!
 7,3005,,Non preoccuparti! [p] lo rivedremo di sicuro.,別擔心啦，他一定會回來的。,,"걱정하지 마, 반드시 돌아올 거라고!",Keine Sorge! [p] sehen wir bestimmt wieder.
-8,3005,,"I medici dicono che tutti i parametri
-sono nella norma. [p] si
-rimetterà! Promesso!","根據醫生的說法，他的身體好像很健康呀……
+8,3005,,"I medici dicono che tutti i parametri sono nella norma.
+[p] si rimetterà! Promesso!","根據醫生的說法，他的身體好像很健康呀……
 一定沒問題的，這傢伙一定沒問題！",,"의사의 얘기로는, 몸은 건강하다고 하니까…
 분명 괜찮을 거야, 이 녀석이라면, 분명!","Die Ärzte sagen, dass alle Parameter im grünen
 Bereich liegen. [p] wird schon wieder!
 Versprochen!"
 9,3002,,Sì.,嗯……,,……응,Ja.
-10,3005,,"Non essere stupido! Pensi
-forse che [p] infesti EDEN come un fantasma?","哎，這傢伙是個笨蛋，
+10,3005,,"Non essere stupido!
+Pensi forse che [p] infesti EDEN come un fantasma?","哎，這傢伙是個笨蛋，
 所以應該是在EDEN的某處，當個幽靈四處快活之類的？",,"그 뭐냐, 이 녀석 바보니까
 EDEN의 어딘가에서 유령으로 지내면서 들떠 있다던가?","Sei nicht dumm! Denkst du etwa,
 [p] spukt in EDEN herum wie ein Geist?"
 11,3005,,Come lo conosciamo da certe altre persone?,就像某人。,,…어디의 누구처럼,Wie wir es von bestimmten anderen Leuten kennen?
 12,3036,,"Haha, ha.",哈哈、哈……,,"하하, 하…","Haha, ha."
 13,3003,,"Questo era il subconscio di mio fratello,
-che si è manifestato mentre lui era
-intrappolato nei Eater.","那是因為哥哥的潛在意識被侵食者囚禁，
+che si è manifestato mentre lui era intrappolato nei Eater.","那是因為哥哥的潛在意識被侵食者囚禁，
 完全是不可抗力。",,"…그건, 이터에게 사로잡혀 있었던 오빠의 잠재의식의 발현으로,
 완전히 불가항력이에요","Das war das Unterbewusstsein meines Bruders, das
 sich manifestiert hat, während er in den
 Verschlingern gefangen war."
-14,3003,,"Eravamo responsabili di tutto
-questo. Non possiamo semplicemente dare la colpa a mio
-fratello.","而且，當初的起因本來就是我們，
+14,3003,,"Eravamo responsabili di tutto questo.
+Non possiamo semplicemente dare la colpa a mio fratello.","而且，當初的起因本來就是我們，
 你怪罪哥哥是弄錯對象了。",,"그리고, 애초에 원인은 저희들에게 있었던 거니까
 오빠에게 뭐라 하는 건 번지수를 잘못 찾으신 거예요","Wir waren für all das verantwortlich.
 Wir dürfen nicht einfach meinem Bruder die Schuld
 geben."
-15,3003,,"Non l'ha certo fatto per
-divertimento. Questo almeno glielo dobbiamo
-concedere, e merita anche delle scuse.","而且……哥哥什麼時候快活了？
+15,3003,,"Non l'ha certo fatto per divertimento.
+Questo almeno glielo dobbiamo concedere, e merita anche delle scuse.","而且……哥哥什麼時候快活了？
 這已經是可以要求訂正和謝罪的中傷行為了。",,"그보다… 언제, 오빠가 들떠 있었단 거죠?
 정정과 사죄를 요구해도 되는 레벨의 유언비어예요","Er hat das ja nicht zum Spaß gemacht.
 So viel müssen wir ihm schon lassen, und eine
@@ -84,13 +80,11 @@ informazioni! Vieni con me, aiutante!","那麼，開始打聽！
 Komm mit, Helferlein!"
 32,3005,,Come? Piccolo aiutante? Io?,什麼！？助、助手……我是助手！？,,"하아!? 조, 조수… 내가!?",Wie? Helferlein? Ich?
 33,3005,,Hmpf. E va bene. Allora starò con te.,呿，沒辦法……我就陪陪妳吧。,,"칫, 어쩔 수 없구만… 어울려 줄까",Hmpf. Na schön. Dann hänge ich halt mit dir rum.
-34,3005,,"Ma che sia ben
-chiaro! Io sono il Cyber-Detective e tu sei
-l'assistente!","不過啊，先說清楚……
+34,3005,,"Ma che sia ben chiaro!
+Io sono il Cyber-Detective e tu sei l'assistente!","不過啊，先說清楚……
 我才是電腦偵探，妳是助手！",,"하지만 말이야, 확실히 말해 두겠어…
 내가 전뇌탐정이고, 네가 조수라고?","Aber dass eins klar ist!
 Ich bin der Cyber-Detektiv und du bist das
 Helferlein!"
-35,3005,,"Che sia chiaro. Ehi! Mi stai
-davvero ascoltando?",只有這個，我是不會讓步的……喂！聽我說啦！,,이것만큼은 양보할 수 없어―… 야!? 좀 들어라!?,"Nur, dass das klar ist. He! Hörst du mir
+35,3005,,"Che sia chiaro. Ehi! Mi stai davvero ascoltando?",只有這個，我是不會讓步的……喂！聽我說啦！,,이것만큼은 양보할 수 없어―… 야!? 좀 들어라!?,"Nur, dass das klar ist. He! Hörst du mir
 überhaupt zu?"

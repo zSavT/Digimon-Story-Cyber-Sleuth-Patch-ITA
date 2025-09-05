@@ -1,32 +1,30 @@
 ﻿ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
-1,3006,,"Con i nostri alleati presso i Royal Knights,
-finora sta andando tutto bene.",看來你說服皇家騎士加入我方的工作，進行得很順利。,,꽤나 순조롭게 로얄 나이츠를 동료로 삼고 있는 모양이군,"Mit unseren Verbündeten bei den Royal Knights
-läuft so weit alles gut."
-2,3006,,"Ma Duftmon sicuramente non si fa scappare
-niente. Rimani sempre vigile.","但是芳香獸應該也知道我們這邊的動向……
+1,3006,,"Con i nostri alleati Royal Knights, sta andando tutto bene.",看來你說服皇家騎士加入我方的工作，進行得很順利。,,꽤나 순조롭게 로얄 나이츠를 동료로 삼고 있는 모양이군,"Mit unseren Verbündeten bei den Royal Knights läuft so weit alles gut."
+2,3006,,"Ma Duftmon sicuramente non si fa scappare niente.
+Rimani sempre vigile.","但是芳香獸應該也知道我們這邊的動向……
 別大意啊。",,"…하지만 두프트몬도, 이쪽의 움직임을 알고 있을 거다…
 긴장을 풀지 말도록","Aber Duftmon bekommt sicher alles mit.
 Bleib immer wachsam."
-3,3006,,"Oho, che sorpresa! Una
-chiamata da Date!",哦，是伊達打來的，真稀奇。,,"호오, 다테 군의 통신이라니 드문 일이군","Oho, welch eine Überraschung!
+3,3006,,"Oho, che sorpresa!
+Una chiamata da Date!",哦，是伊達打來的，真稀奇。,,"호오, 다테 군의 통신이라니 드문 일이군","Oho, welch eine Überraschung!
 Ein Anruf von Date!"
-4,3015,,"Ehi! Voi
-detective! Uno dei mostri è apparso ad Asakusa!","喂！偵探！
+4,3015,,"Ehi! Voi detective!
+Uno dei mostri è apparso ad Asakusa!","喂！偵探！
 那個怪物這次好像出現在淺草！",,"어이! 탐정!
 이번에는 아사쿠사에 그 괴물이 나온 모양이야!","He! Ihr Detektive!
 Eins von den Monstern ist in Asakusa aufgetaucht!"
-5,3015,,"Non abbiamo abbastanza persone per
-questo. Per favore, guardatelo per me! Grazie!","我們現在無法顧到那裡……
+5,3015,,"Non abbiamo abbastanza persone per questo.
+Per favore, pensateci voi per me! Grazie!","我們現在無法顧到那裡……
 去幫我們看看情況吧！　拜託了！",,"우리들은 지금 그쪽까지 대처할 수 없어…
 상황을 보러 가 줘! 부탁한다!","Wir haben nicht genug Leute dafür.
 Schaut es euch bitte für mich an! Danke!"
 6,3006,,"Hm... Che sia un nuovo caso?
-Non sono mica lo scemo di turno...","嗯……剛才那樣算是委託嗎？
+Non sono mica la scema di turno...","嗯……剛才那樣算是委託嗎？
 這樣我們簡直是鎮上的雜務工嘛……",,"흐음…, 방금 그걸로 의뢰한 셈인 건가?
 이래선 마치, 마을의 심부름 센터로군…","Hm ... Sollte das ein neuer Fall sein?
 Ich bin doch nicht der Depp vom Dienst ..."
-7,3006,,"Contrattualmente, non è del tutto chiaro
-ora. Questo è un male, ma non si può fare nulla.","這副亂象害簽約程序變得不清不楚……
+7,3006,,"Contrattualmente, non è del tutto chiaro ora.
+Questo è un male, ma non si può fare nulla.","這副亂象害簽約程序變得不清不楚……
 雖然經營上會有問題，但在這種情形下也沒辦法。",,"어수선한 탓에 계약 쪽이 애매해 진 것 같다…
 …경영 입장으로는 문제지만, 이 상황에선 어쩔 수 없나","Vertragsmäßig ist das jetzt nicht ganz klar.
 Das ist schlecht, aber da kann man nichts machen."
@@ -35,8 +33,8 @@ le circostanze potrebbero essere cambiate.","既然那個怪物……侵食者�
 那情形或許已經有所轉變。",,"그 괴물… 이터가 출현했다면
 상황이 움직인 걸지도 몰라","Das Monster ... Wenn ein Verschlinger aufgetaucht
 ist, haben sich die Umstände vielleicht geändert."
-9,3006,,"Okay, ora tocca a te. Si tratta di
-Asakusa. Vai lì il più velocemente possibile.","去吧，輪到你出場囉！
+9,3006,,"Okay, ora tocca a te. Si tratta di Asakusa.
+Vai lì il più velocemente possibile.","去吧，輪到你出場囉！
 地點在「淺草」，趕快前往吧！",,"자, 네 차례다
 장소는「아사쿠사」다, 서둘러 향해 주도록","Okay, du bist gefragt. Es geht um Asakusa.
 Geh so schnell wie möglich dorthin."

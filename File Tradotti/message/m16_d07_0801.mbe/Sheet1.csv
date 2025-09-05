@@ -1,70 +1,66 @@
 ﻿ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
 1,3003,,Sei in ritardo.,好慢。,,…느려요,Du bist spät dran.
-2,3003,,"Il nodo dovrebbe essere qui davanti a noi, ma
-una parete ci blocca il passaggio.","「交流點」應該在這區域的深處……
+2,3003,,"Il nodo dovrebbe essere qui davanti a noi,
+ma una parete ci blocca il passaggio.","「交流點」應該在這區域的深處……
 但受到牆壁的阻擋，無法繼續前進。",,"「교류점」은 이 에어리어의 안쪽에 있을 텐데…
 벽 때문에 갈 수가 없어요","Der Knotenpunkt sollte hier vor uns liegen, aber
 da versperrt uns eine Wand den Weg."
-3,3003,,"Non c'è modo di evitarlo. Se non
-facciamo qualcosa in fretta, il nostro
-obiettivo scapperà di nuovo!","因為沒有其它路線，得想想辦法……
+3,3003,,"Non c'è modo di evitarlo. Se non facciamo qualcosa in fretta,
+il nostro obiettivo scapperà di nuovo!","因為沒有其它路線，得想想辦法……
 快點……再不快點解決，又會被它逃走！",,"다른 루트는 없으니, 이 벽을 어떻게든 하지 않으면…
 빨리… 빨리 어떻게든 하지 않으면, 또 놓치고 말아요!","Es führt kein Weg daran vorbei.
 Wenn wir nicht schnell etwas tun, entwischt
 unser Ziel erneut!"
 4,2000,,...!,……！！,,…!!,...!
 5,3003,,Devo calmarmi?,你叫我「冷靜點」……？,,"…「진정해」, 라고요?",Ich soll mich beruhigen?
-6,3003,,Dovrei essere eccitato? Io?,「亢奮」？你說我……？,,「너무 기를 쓰고 있어」? 제가요…?,Ich soll aufgeregt sein? Ich?
-7,3003,,"Mio padre è stato
-assassinato. E tra poco otterrò finalmente la mia vendetta.","爸爸被殺死了，
+6,3003,,Dovrei essere in preda alle emozioni? Io?,「亢奮」？你說我……？,,「너무 기를 쓰고 있어」? 제가요…?,Ich soll aufgeregt sein? Ich?
+7,3003,,"Mio padre è stato assassinato.
+E tra poco otterrò finalmente la mia vendetta.","爸爸被殺死了，
 而這個仇或許馬上就能討回來。",,"아버지는 살해당하셨어요
 그 원수를 곧 갚을 수 있을지도 몰라요","Mein Vater wurde ermordet.
 Und gleich bekomme ich endlich meine Rache."
-8,3003,,"Certo che sono eccitato.
+8,3003,,"Certo che sono incavolata.
 Cosa c'è di male in questo?","會亢奮也是當然的。
 有什麼不對嗎？",,"…기를 쓰는 게 당연하죠
 그게, 잘못된 건가요?","Natürlich bin ich aufgeregt.
 Was ist daran schlecht?"
 9,3003,,Ti preoccupi per me?,你只是在擔心我的身體……？,,"…제가, 걱정될 뿐이라고요?",Du machst dir Sorgen um mich?
-10,3003,,"Non ti ho chiesto
-questo. Non preoccuparti per me.","我才沒有拜託你擔心我……
+10,3003,,"Non ti ho chiesto questo.
+Non preoccuparti per me.","我才沒有拜託你擔心我……
 請不要隨便擔心我。",,"걱정해 달라고, 전, 부탁드린 적 없어요
 …멋대로 걱정하지 말아 주세요","Darum habe ich dich nicht gebeten.
 Mach dir meinetwegen keine Gedanken."
 11,2000,,...,……,,………,...
-12,3003,,"Sei davvero un... ""raggio di sole"", non è
-vero? Sempre circondato da amici e sempre
-splendente. Come un sempliciotto...","你真是個……幸福的人呀。
+12,3003,,"Sei davvero un... ""raggio di sole"", non è vero?
+Sempre circondato da amici e sempre splendente. Come un sempliciotto...","你真是個……幸福的人呀。
 被朋友和親密的人圍繞著……總是在傻笑。",,"당신은, 정말이지…… 행복한 사람이네요
 친구나 사이 좋은 사람들에게 둘러싸여서… 항상, 실실 웃고","Du bist wirklich ein ... „Sonnenschein“, nicht
 wahr? Immer von Freunden umgeben und strahlst
 immer. Wie ein Einfaltspinsel ..."
-13,3003,,"Ti sono grato per avermi
-allora... salvato.",我很感謝……你之前救了我。,,"…예전에, 구해주셨던 건… 감사하고 있어요","Ich bin dir dafür dankbar, dass du mich damals ...
+13,3003,,"Ti sono grata per avermi allora... salvato.",我很感謝……你之前救了我。,,"…예전에, 구해주셨던 건… 감사하고 있어요","Ich bin dir dafür dankbar, dass du mich damals ...
 gerettet hast."
-14,3003,,"Ma per favore non fare adesso finta come se
-fossimo migliori amici.",但可以不要裝作是朋友，在那瞎操心嗎？,,"하지만, 친구인 것처럼 묘한 마음을 쓰는 건 그만 둬 주시겠어요?","Aber bitte tu jetzt nicht so, als wären wir
+14,3003,,"Ma per favore non fare adesso finta come se fossimo migliori amici.",但可以不要裝作是朋友，在那瞎操心嗎？,,"하지만, 친구인 것처럼 묘한 마음을 쓰는 건 그만 둬 주시겠어요?","Aber bitte tu jetzt nicht so, als wären wir
 dickste Freunde."
-15,3003,,"Non so cosa sia successo nel mio
-cuore, ma... Non siamo amici.","雖然不知道你在我的心裡看到了什麼……
+15,3003,,"Non so cosa sia successo nel mio cuore,
+ma... Non siamo amici.","雖然不知道你在我的心裡看到了什麼……
 但我並不認為已經和你成為朋友了。",,"제 마음 속에서 무엇을 보고 들으셨는지는 모르겠지만…
 저, 당신과 친구가 된 것은 아니니까요","Ich weiß nicht, was sich in meinem Herzen getan
 hat, aber ... Wir sind keine Freunde."
 16,2000,,...,………,,………,...
-17,3003,,"Come? ""Chi mi parla così apertamente, con
-quello posso essere amico""?","什麼？
+17,3003,,"Come? ""Chi mi parla così apertamente,
+può diventare mio amico""?","什麼？
 「如果能這樣暢所欲言，一定能成為朋友」……？",,"…하?
 「이만큼이나 하고 싶은 말을 할 수 있는 상대라면 친구가 될 수 있어」…?","Wie? „Wer so offen mit mir spricht, mit dem kann
 ich befreundet sein“?"
-18,3003,,"Cos'è mai questa strana logica
-hippie? Vuoi cullarmi con sdolcinatezze?","什、什麼呀，你那逃避現實的歪理……
+18,3003,,"Cos'è mai questa strana logica hippie?
+Vuoi cullarmi con sdolcinatezze?","什、什麼呀，你那逃避現實的歪理……
 你以為用那種甜言蜜語就能籠絡我嗎？",,"뭐, 뭔가요, 그 억지 이론은…
 그런 감언이설로 절 구슬리려는 건가요?","Was ist das denn für komische Hippie-Logik?
 Willst du mich mit Gefühlsduselei einlullen?"
 19,2000,,...,………,,………,...
-20,2000,,"Proprio come pensavo. Beh, si
-tratta di adulazione,
-semplicemente. Volevo farti gli occhi dolci.","正是那樣。
+20,2000,,"Proprio come pensavo.
+Beh, si tratta di adulazione, semplicemente.
+Volevo farti gli occhi dolci.","正是那樣。
 我打算哄騙妳。
 我打算佔有妳……",,"그렇습니다
 유혹하려는 겁니다
@@ -76,32 +72,30 @@ Ich wollte dir schöne Augen machen."
 23,2000,,Era solo uno scherzo.,開～玩笑的。,,……장~난이에요,War nur ein Scherz.
 24,3003,,Come?!,什麼！？,,…하!?,Wie bitte?!
 25,3003,,... Cosa?,………！,,………읏!,... Was?
-26,3003,,"Sei così...
-Mi mancano le parole...","真是的……你這個人……！
+26,3003,,"Sei così... Mi mancano le parole...","真是的……你這個人……！
 受不了——",,"정말이지… 다, 당신이란 사람은…!
 기막혀서, 말도―","Du bist ja so ...
 Mir fehlen die Worte ..."
-27,4831,,"Salve, salve! Ma guarda un po' chi c'è, la
-presidentessa in carica Kamishiro!","哎呀！
+27,4831,,"Salve, salve! Ma guarda un po' chi c'è,
+la presidentessa in carica Kamishiro!","哎呀！
 這不是“神代代理社長”嗎？",,"이거이거!
 ""카미시로 사장대리님"" 아니십니까","Hallihallo! Na, wenn das nicht die amtierende
 Vorstandsvorsitzende Kamishiro ist!"
 28,2000,,?!,！？！,,!?!,?!
 29,3009,,Spero che tu stia bene.,妳好啊。,,잘 지내셨습니까,"Ich hoffe, es geht dir gut."
 30,3003,,Signor ... Suedou?!,末、末堂……先生！？,,"스, 스에도…씨!?",Herr ... Suedou?!
-31,3009,,"Ma dai.
-Qui ci conosciamo tutti, no?","沒必要那麼緊張吧？
+31,3009,,"Ma dai. Qui ci conosciamo tutti, no?","沒必要那麼緊張吧？
 我們不是都認識嗎？",,"그렇게까지 경계할 필요가 있을까요?
 서로, 아는 사이이지 않습니까","Nicht doch.
 Wir kennen uns hier doch alle, oder?"
 32,2000,,!,………！,,………!,!
-33,3009,,"Ah, [p]. Qualcosa ti
-turba? Forse la situazione con Arata?","哦？[p]，你在生氣嗎？
+33,3009,,"Ah, [p]. Qualcosa ti turba?
+Forse la situazione con Arata?","哦？[p]，你在生氣嗎？
 我猜……是因為新的事情？",,"…이거, [p] 씨, 화나신 겁니까?
 보아하니… 아라타 군 때문입니까?","Ach, [p]. Grämt dich etwas?
 Die Situation mit Arata womöglich?"
-34,3003,,"[p] me lo ha
-raccontato. Cosa hai fatto con Arata?","我從[p]那裡聽說了……
+34,3003,,"[p] me lo ha raccontato.
+Cosa hai fatto con Arata?","我從[p]那裡聽說了……
 你對新先生做了什麼？",,"[p] 씨에게서 들었습니다…
 아라타 씨에게 무슨 짓을 하신 거죠?","[p] hat es mir erzählt.
 Was hast du mit Arata gemacht?"
@@ -115,11 +109,10 @@ Tutto sommato, soddisfacente per entrambe le parti.","而且那也可以實現�
 我們的利害也一致，所以我和他的關係很好唷。",,"나아가서는 그것이, 제 소망을 이루어 주겠지요
 이해득실이 일치하고 있기도 하고, 그와의 관계는 몹시 양호합니다","Daraufhin sind auch meine Wünsche wahr geworden.
 Alles in allem für beide Seiten befriedigend."
-37,3003,,"Questa non è una risposta. Che diavolo gli è
-successo?",你沒有回答我的問題……你到底對新做了什麼？,,대답이 안 됐어요 …아라타 씨에게 대체 무슨 짓을?,"Das ist keine Antwort. Was zum Teufel ist mit ihm
+37,3003,,"Questa non è una risposta.
+Che diavolo gli è successo?",你沒有回答我的問題……你到底對新做了什麼？,,대답이 안 됐어요 …아라타 씨에게 대체 무슨 짓을?,"Das ist keine Antwort. Was zum Teufel ist mit ihm
 passiert?"
-38,3009,,"Diciamo che ho dato una spinta
-alla sua evoluzione.",姑且稱之為“促使他的進化”吧。,,"""진화를 촉구했다"", 라고 해 두도록 할까요","Sagen wir mal, dass ich seiner Evolution auf die
+38,3009,,"Diciamo che ho dato una spinta alla sua evoluzione.",姑且稱之為“促使他的進化”吧。,,"""진화를 촉구했다"", 라고 해 두도록 할까요","Sagen wir mal, dass ich seiner Evolution auf die
 Sprünge geholfen habe."
 39,3009,,Desiderava potere... grande potere.,他想要力量……而且還是非常強大的力量。,,"그는 힘을 갈구하고 있었습니다… 그것도, 터무니없이 강대한 힘을",Er wünschte sich Macht ... große Macht.
 40,3009,,"Ma anche se fosse disponibile, il suo corpo
@@ -127,26 +120,23 @@ poteva assorbire solo una quantità limitata.","但是，以他現在的肉體�
 就算能取得力量，也是有限度的。",,"하지만, 지금 육체로는
 가령 힘을 손에 넣는다 하더라도 한계가 있었지요","Doch selbst, wenn die zur Verfügung stünde, konnte
 sein Körper nur eine begrenzte Menge aufnehmen."
-41,3009,,"Quindi gli consigliai di assimilare
-uno Svuotatore.",所以，我建議他“與侵食者同化”。,,"그래서, 그에게 ""이터와의 동화""를 권유해 보았습니다","Also empfahl ich ihm, einen Verschlinger zu
+41,3009,,"Quindi gli consigliai di assimilare un Eater.",所以，我建議他“與侵食者同化”。,,"그래서, 그에게 ""이터와의 동화""를 권유해 보았습니다","Also empfahl ich ihm, einen Verschlinger zu
 assimilieren."
 42,2000,,?!,！？！,,!?!,?!
-43,3009,,"Lui accettò questo consiglio,
-assorbì un Eater dentro di sé e si procurò
-così potenti abilità.",他接受了我的建議，和侵食者同化，獲得了卓越的能力。,,"그는 권유를 받아들였고, 이터와 동화하여 뛰어난 능력을 획득했죠","Er nahm diese Empfehlung an, nahm einen
+43,3009,,"Lui accettò questo consiglio, assorbì un Eater dentro
+di sé e si procurò così potenti abilità.",他接受了我的建議，和侵食者同化，獲得了卓越的能力。,,"그는 권유를 받아들였고, 이터와 동화하여 뛰어난 능력을 획득했죠","Er nahm diese Empfehlung an, nahm einen
 Verschlinger in sich auf und verschaffte sich so
 mächtige Fähigkeiten. "
-44,3009,,I Eater consumano dati.,就像侵食者捕食資料、儲存資訊一樣——,,이터가 데이터를 침식해서 정보를 축적하듯이―,Die Verschlinger konsumieren Daten.
-45,3009,,"Arata può ora assorbire dati in sé e così
-ottenere più potere. Il suo corpo si sta lentamente
-modificando per poterlo sopportare.","他可以藉由吸收資料而增強力量。
+44,3009,,Gli Eater consumano dati.,就像侵食者捕食資料、儲存資訊一樣——,,이터가 데이터를 침식해서 정보를 축적하듯이―,Die Verschlinger konsumieren Daten.
+45,3009,,"Arata può ora assorbire dati in sé e così ottenere più potere.
+Il suo corpo si sta lentamente modificando per poterlo sopportare.","他可以藉由吸收資料而增強力量。
 為了能夠承擔那樣的力量，他同時一點一點地改變身體的外觀。",,"그는, 데이터를 흡수해서 힘을 증대시킬 수 있습니다
 그 힘에 견딜 수 있도록, 자신의 육체를 조금씩 변모시키면서 말이지요","Arata kann jetzt Daten in sich aufnehmen und so
 mehr Macht erlangen. Sein Körper verändert sich
 langsam, um dem gewachsen zu sein."
 46,3009,,"A quanto pare, il repentino aumento di potere gli
-ha concesso qualche vantaggio aggiuntivo, ma
-niente di grave. Quindi, state tranquilli.","但也許是力量驟增的影響，他好像有點激動……
+ha concesso qualche vantaggio aggiuntivo,
+ma niente di grave. Quindi, state tranquilli.","但也許是力量驟增的影響，他好像有點激動……
 沒關係，不用擔心。過一陣子就會冷靜下來的。",,"급격한 힘의 증대의 영향인지, 다소 고양상태에 있는 것 같습니다만…
 무얼, 걱정하실 필요는 없습니다. 곧 진정될 테니까요","Offenbar hat ihm der plötzliche Machtanstieg ein
 paar zusätzliche Vorteile gewährt, aber nichts
@@ -157,11 +147,10 @@ un Eater sono stati molto utili.","悠子小姐，妳和侵食者同化時的資
 도움이 되었습니다","Yuuko, die Daten aus deiner Assimilierung mit
 einem Verschlinger waren sehr nützlich."
 48,3003,,Come...?!,咦……！？,,에…!?,Wie ...?!
-49,3009,,"Sono contento di aver
-monitorato il tuo stato di nascosto.",還、還好我有偷偷監視。,,"이거, 몰래 모니터 해 두길 잘했습니다","Ich bin froh, dass ich deinen Status
+49,3009,,"Sono contento di aver monitorato il tuo stato di nascosto.",還、還好我有偷偷監視。,,"이거, 몰래 모니터 해 두길 잘했습니다","Ich bin froh, dass ich deinen Status
 stillschweigend überwacht habe."
-50,3009,,"Sei stato completamente dominato, eppure sei
-qui ora... Quindi non preoccuparti!","雖然妳那時候完全被控制住了……
+50,3009,,"Sei stato completamente dominato,
+eppure sei qui ora... Quindi non preoccuparti!","雖然妳那時候完全被控制住了……
 但這一點可以放心！",,"당신 때는 완전히 삼켜져 버렸습니다만…
 그 점은 안심하시지요!","Du wurdest komplett beherrscht, und doch stehst
 du jetzt hier ... Also keine Sorge!"
@@ -176,8 +165,7 @@ Perché siete così arrabbiati? E con chi?","嗯？
 你為什麼要生氣？",,"…그런데?
 당신은 어째서, 무엇 때문에 화내시는 거죠?","Wie?
 Warum seid ihr so wütend? Und auf wen?"
-54,3009,,"Ha completato l'evoluzione che si
-era desiderato!",他可是按照自己的期望進化喔？,,"그는, 그가 바라던 대로 진화하고 있는데 말이지요?","Er hat die Weiterentwicklung durchlaufen, die er
+54,3009,,"Ha completato l'evoluzione che si era desiderato!",他可是按照自己的期望進化喔？,,"그는, 그가 바라던 대로 진화하고 있는데 말이지요?","Er hat die Weiterentwicklung durchlaufen, die er
 sich gewünscht hatte!"
 55,3009,,"Volete negargli i suoi desideri? Come nel
 mondo reale con le sue regole e impossibilità?","你是在否定他的期望嗎？
@@ -185,18 +173,16 @@ mondo reale con le sue regole e impossibilità?","你是在否定他的期望嗎
 한계와 불가능을 지배하는 현실 세계처럼?","Wollt ihr ihm seine Wünsche verwehren? Wie in der
 echten Welt mit ihren Regeln und Unmöglichkeiten?"
 56,2000,,...!,……！！！,,…!!!,...!
-57,3003,,"Sapevi chi è veramente la signorina
-Rie? E le hai comunque aiutato?","末堂先生……當時你已經察覺到里繪姊的真實身分了嗎？
+57,3003,,"Sapevi chi è veramente la signorina Rie?
+E le hai comunque aiutato?","末堂先生……當時你已經察覺到里繪姊的真實身分了嗎？
 卻還幫她？",,"스에도 씨… 당신은 리에 씨의 정체를 눈치채고 계셨나요?
 그럼에도 불구하고, 협력을?","Wusstest du, wer Fräulein Rie wirklich ist?
 Und hast du ihr trotzdem geholfen?"
-58,3009,,"Ho notato che la sua psiche non
-fosse umana.","我有察覺到她的精神不是人類，
+58,3009,,"Ho notato che la sua psiche non fosse umana.","我有察覺到她的精神不是人類，
 而是某種生物。",,"그녀의 정신이 인간이 아닌 무언가라는 것은
 눈치 채고 있었습니다","Mir ist aufgefallen, dass ihre Psyche keine
 menschliche war."
-59,3009,,"Ma che lei fosse il Digimon
-Crusadermon, non potevo saperlo.","但是，我還真沒辦法知道，
+59,3009,,"Ma che lei fosse il Digimon Crusadermon, non potevo saperlo.","但是，我還真沒辦法知道，
 那就是叫做劍皇獸的數碼寶貝。",,"단지, 그게 로드나이트몬이라는 디지몬이라는 것까지는
 역시 알 수 없었습니다","Doch dass sie das Digimon Crusadermon war,
 konnte ich nicht wissen."
@@ -206,24 +192,22 @@ konnte ich nicht wissen."
 61,3009,,"Lei vuole mettere fine non solo
 all'umanità, ma all'intero mondo.",不只是人類，她還打算把世界本身導向毀滅。,,"그녀는 인류만이 아닌, 세계 그 자체를 파멸로 이끌고자 하고 있습니다","Sie möchte nicht nur der Menschheit, sondern der
 ganzen Welt ein Ende setzen."
-62,3009,,"Ciò non corrisponde affatto ai miei
-desideri. Questa è violenza primitiva e sfrenata.","這和我的希望相差太遠。
+62,3009,,"Ciò non corrisponde affatto ai miei desideri.
+Questa è violenza primitiva e sfrenata.","這和我的希望相差太遠。
 不，只能說是不智之舉。",,"이건, 제 바람과는 동떨어져 있습니다
 이제 와서는 폭동 이외의 그 무엇도 아닙니다","Das entspricht so gar nicht meinen Wünschen.
 Das ist primitive und zügellose Gewalt."
-63,3009,,"Desidero il continuo sviluppo del nostro
-mondo, non la sua distruzione.",我的夢想不過是希望世界進化，而不是毀滅世界。,,"제 꿈은 어디까지나 세계의 진화이지, 파멸이 아니니까요","Ich wünsche mir die Weiterentwicklung unserer
+63,3009,,"Desidero il continuo sviluppo del nostro mondo,
+non la sua distruzione.",我的夢想不過是希望世界進化，而不是毀滅世界。,,"제 꿈은 어디까지나 세계의 진화이지, 파멸이 아니니까요","Ich wünsche mir die Weiterentwicklung unserer
 Welt, nicht ihre Zerstörung."
 64,3009,,Dunque ho una proposta per voi due.,因此，兩位，我有個提案。,,"그러니, 두 분에게 제안이 있습니다",Folglich habe ich einen Vorschlag für euch zwei.
-65,3009,,"I nostri obiettivi finali
-potranno differire, ma al momento dovremmo
-perseguire lo stesso.","雖然我們的最終目標不同，
+65,3009,,"I nostri obiettivi finali potranno differire,
+ma al momento dovremmo perseguire lo stesso.","雖然我們的最終目標不同，
 但現階段的利害應該是一致的……",,"저희들은, 최종적인 목표는 다르지만
 현 단계에서의 이해득실은 일치할 것입니다…","Unsere schlussendlichen Ziele mögen sich
 unterscheiden, doch aktuell sollten wir das
 Gleiche verfolgen ..."
-66,3009,,"Quindi, prendereste in considerazione una
-collaborazione?",要不要暫時先合作看看？,,"지금은 일단, 서로 협력하지 않겠습니까?","Würdet ihr also eine Zusammenarbeit in Erwägung
+66,3009,,"Quindi, prendereste in considerazione una collaborazione?",要不要暫時先合作看看？,,"지금은 일단, 서로 협력하지 않겠습니까?","Würdet ihr also eine Zusammenarbeit in Erwägung
 ziehen?"
 67,3003,,Collaborazione... con te?,合作……和你？,,협력… 당신에게?,Zusammenarbeit ... mit dir?
 68,3009,,"Il programma con cui lei controlla le
@@ -231,35 +215,35 @@ onde digitali, l'ho scritto io originariamente.","她用來控制數碼波的程
 本來就是我編寫的程式——",,"…그녀가 디지털 웨이브의 제어에 사용하고 있는 프로그램은,
 엄밀히 따지자면 제가 만들어 낸 프로그램―","Das Programm, mit dem sie digitale Wellen
 kontrolliert, habe ursprünglich ich geschrieben."
-69,3009,,"Sarebbe quindi un gioco da ragazzi per me
-renderlo innocuo.",所以，我能夠輕易地停止程式。,,"그러므로, 저라면 손쉽게 정지시킬 수 있지요","Es wäre also ein Leichtes für mich, es unschädlich
+69,3009,,"Sarebbe quindi un gioco da ragazzi
+per me renderlo innocuo.",所以，我能夠輕易地停止程式。,,"그러므로, 저라면 손쉽게 정지시킬 수 있지요","Es wäre also ein Leichtes für mich, es unschädlich
 zu machen."
-70,3009,,"Nel caso di un attacco da parte di Crusadermon, sarei
-tuttavia completamente indifeso.","不過，如果被劍皇獸襲擊，
+70,3009,,"Nel caso di un attacco da parte di Crusadermon,
+sarei tuttavia completamente indifeso.","不過，如果被劍皇獸襲擊，
 我一定會馬上完蛋。",,"하지만, 로드나이트몬 씨의 습격을 받으면
 저 같은 건 순식간에 당하겠지요","Im Falle eines Angriffs durch Crusadermon wäre ich
 jedoch vollkommen wehrlos."
-71,3009,,"Finché non avremo raggiunto il nostro obiettivo, mi
-piacerebbe avervi entrambi come guardie del corpo. Che ne dite?","所以在達成眼下的目的之前，我想委託兩位當保鏢……
+71,3009,,"Finché non avremo raggiunto il nostro obiettivo,
+mi piacerebbe avervi entrambi come guardie del corpo. Che ne dite?","所以在達成眼下的目的之前，我想委託兩位當保鏢……
 如何？",,"그러니, 눈앞의 목적 달성까지 보디가드를 의뢰하고 싶습니다만…
 어떠신가요?","Bis wir also unser Ziel erreicht haben, hätte ich
 euch beide gerne als Leibwächter. Was meint ihr?"
 72,2000,,...,………,,………,...
-73,3003,,"[p]
-... Per il momento, suona come una buona idea.","[p]……
+73,3003,,"[p] ...
+Per il momento, suona come una buona idea.","[p]……
 先和他合作吧。",,"[p] 씨…
 지금은, 그와 협력하죠","[p] ...
 Für den Moment klingt das nach einer guten Idee."
 74,3003,,"Con lui almeno si può parlare. A differenza della
-Signorina Rie, che potrebbe distruggere il mondo da
-un momento all'altro.","至少……比起想立刻毀滅世界的里繪姊，
+Signorina Rie, che potrebbe distruggere il mondo
+da un momento all'altro.","至少……比起想立刻毀滅世界的里繪姊，
 他是可以溝通的對象。",,"적어도… 지금 당장이라도 세계를 멸망시키려 하고 있는
 리에 씨보다는, 말이 통하는 상대예요","Mit ihm kann man wenigstens reden. Im Gegensatz
 zu Fräulein Rie, die jeden Moment die Welt
 zerstören könnte."
 75,2000,,...,………,,………,...
-76,3009,,"Meraviglioso, grazie
-mille! Ebbene, allora cominciamo.","哎呀呀，太好了！
+76,3009,,"Meraviglioso, grazie mille!
+Ebbene, allora cominciamo.","哎呀呀，太好了！
 那麼動作快。",,"이거이거, 덕분에 살았습니다!
 …그럼 바로","Wunderbar, danke schön!
 Nun denn, dann wollen wir mal."
