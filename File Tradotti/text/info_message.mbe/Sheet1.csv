@@ -202,8 +202,8 @@ competenze apprese. Si prega di ridurre il numero a 20.","習得技能數已超�
 überschritten. Bitte reduziere die Anzahl auf 20."
 1900,,Al momento non può essere utilizzato.,現在無法使用,,지금은 사용할 수 없습니다.,Kann im Moment nicht verwendet werden.
 1901,,Il suo utilizzo sarà inefficace.,即使使用也沒有任何效果,,사용해도 효과가 없습니다.,Die Benutzung wird wirkungslos sein.
-1902,,"Memoria massima del gruppo aumentata di
-[n0]! [n1] => [4[n2]]","隊伍上限的最大值增加[n0]！
+1902,,"Memoria massima del gruppo aumentata di [n0]!
+[n1] => [4[n2]]","隊伍上限的最大值增加[n0]！
 [n1]　⇒　[4[n2]]",,"파티 메모리의 최대치가 [n0]증가했다!
 [n1]　⇒　[4[n2]]","Maximaler Gruppenspeicher um [n0] erhöht!
 [n1] => [4[n2]]"
@@ -427,8 +427,8 @@ Es sind zwar Daten, aber sie duften."
 [1[c1420]]."
 5035,,[p] ha ricevuto dati sul Digivice.,[p]用Digivice接收了資料,,[p]의 디지바이스로 데이터를 받았다.,[p] hat Daten auf dem Digivice empfangen.
 5036,,Consegnate le medaglie.,放棄獎牌,,메달을 포기했다.,Du gibst die Medaillen ab.
-5037,,"[p] consegna le sette ""prove
-del peccato"" a Mirei.","[p]將七大罪的證明
+5037,,"[p] consegna le sette ""prove del peccato""
+a Mirei.","[p]將七大罪的證明
 交給米蕾",,"[p]은(는) 7가지 죄의 증거를
 미레이에게 전달했다.","[p] übergibt Mirei die sieben
 „Beweise der Sünde“."

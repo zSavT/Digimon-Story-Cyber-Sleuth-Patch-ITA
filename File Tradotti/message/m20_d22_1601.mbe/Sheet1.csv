@@ -1,14 +1,15 @@
 ﻿ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
 1,3005,,Affiorano dei ricordi.,真懷念啊……,,…그리운걸,Da kommen Erinnerungen hoch.
 2,3002,,"Sì! Questo è il Mondo Digitale, così come era allora!",嗯！是那時看見的數碼世界！,,응! 그때 봤던 디지털 월드야…!,"Ja! Das ist die Digitale Welt, so wie sie damals war!"
-3,3003,,Lei è così bella.,好漂亮……,,아름다워…,Sie ist so wunderschön.
+3,3003,,È così bello.,好漂亮……,,아름다워…,Sie ist so wunderschön.
 4,3036,,Cos'è quello?,那個是？,,저건…?,Was ist das denn?
 5,1416,,"I dati mentali memorizzati dalla rete dei Eater.",是許多在侵食者網路中被保護的精神資料。,,이터의 네트워크 내에 보호되어 있었던 수많은 정신 데이터들이다,"Die gespeicherten Mentaldaten aus dem
 Netzwerk der Verschlinger."
 6,3003,,Tutti?,咦？全部都是？,,"저것들, 전부가요?",Alle?
 7,1416,,Sì. Re Drasil li rimanda indietro nel vostro mondo.,嗯，世界樹正把資料送回人類世界。,,"그래, 위그드라실이 인간 세계로 돌려보내고 있다",Ja. König Drasil schickt sie zurück in eure Welt.
 8,3005,,"Allora anche la Sindrome di EDEN sarà curata, vero?",這樣EDEN症候群就會痊癒了吧！？,,"그건 즉, EDEN 증후군이 낫는다는 얘기지!?","Dann wird das EDEN-Syndrom auch geheilt, oder?"
-9,1416,,"Guarito, non direi proprio così, ma qualcosa di simile, sì.","和痊癒……的意思可能不太一樣，
+9,1416,,"Non direi proprio ""guarito"",
+ma qualcosa di simile, sì.","和痊癒……的意思可能不太一樣，
 但應該會有那一類的現象發生吧。",,"낫는다… 란, 조금 의미가 다를지도 모르겠지만―
 그와 비슷한 현상은 발현할 거다","Geheilt würde ich so nicht sagen,
 aber so etwas Ähnliches, ja."
@@ -69,7 +70,7 @@ ideografisches Symbol aus ihrem Netzwerk ..."
 26,3002,,Smettila! SMETTILA!,STOP、STOP！！,,"스톱, 스토―――옵!!",Aufhören! AUFHÖREN!
 27,1416,,Ops...,哎呀……,,이런…,Hoppla ...
 28,1416,,"Scusa. Presto sarà il momento che Kyoko Kuremi si congedi.
-Volevo solo vederti completamente sopraffatto un'ultima volta.","不好意思……我和暮海杏子「離別的時刻」就快到了。
+Volevo solo vederti completamente sopraffatta un'ultima volta.","不好意思……我和暮海杏子「離別的時刻」就快到了。
 我想再體驗一次展現特殊知識的得意感呢。",,"미안하다… 쿠레미 쿄코와「작별할 때」가 다가오고 있다
 특수한 지식을 선보이는 고양감을, 다시 한 번 맛보고 싶었거든","Entschuldige. Es ist bald Zeit, dass Kyoko Kuremi
 sich verabschiedet. Ich wollte dich nur noch
@@ -89,9 +90,9 @@ dobbiamo rimuovere tutti i corpi estranei.","聽說要使數碼世界完全復�
 需要消除“異物”。",,"디지털 월드를 완전히 복구하기 위해서는
 ""이물""을 없앨 필요가 있는 모양이다","Um die Digitale Welt komplett wiederherzustellen,
 müssen wir alle Fremdkörper entfernen."
-34,3005,,Pah. Noi veniamo trattati come parassiti...,呿，結果我們還是被當成“異物（Bug）”……,,"…칫, 결국 ""이물(버그)"" 취급이냐…",Pah. Wir werden wie Ungeziefer behandelt ...
-35,3036,,"Vuole Re Drasil far tornare il Mondo Digitale
-a com'era prima del nostro arrivo?","世界樹是不是希望將數碼世界
+34,3005,,Bah. Ci trattano come parassiti...,呿，結果我們還是被當成“異物（Bug）”……,,"…칫, 결국 ""이물(버그)"" 취급이냐…",Pah. Wir werden wie Ungeziefer behandelt ...
+35,3036,,"Il Re Drasil vuole far tornare il Mondo Digitale
+allo stato in cui era prima del nostro arrivo?","世界樹是不是希望將數碼世界
 回復到我們來訪前的狀態呢？",,"위그드라실은, 디지털 월드를
 우리들이 찾아오기 전의 상태로 되돌리고 싶은 게 아닐까?","Möchte König Drasil die Digitale Welt wieder so
 werden lassen, wie sie vor unserer Ankunft war?"
@@ -100,7 +101,7 @@ werden lassen, wie sie vor unserer Ankunft war?"
 那樣的話……",,"에, 이전의 상태라니… 잠깐만…
 그렇다면…","Noch länger? Moment ...
 Das heißt ja ..."
-38,3002,,"Quindi non ci siamo mai incontrati?
+38,3002,,"A quando non ci siamo mai incontrati?
 Ci dimenticheremo tutti?","難道我們……會變成從來沒有相遇過？
 會忘記彼此？",,"혹시 우리들… 만나지 않았던 걸로 되어 버리는 거야?
 서로를, 잊어 버리는 거야…?","Dann sind wir uns also nie begegnet?
@@ -117,8 +118,7 @@ In qualche modo tornerà tutto a posto!","嗯……是這樣呢！
 Irgendwie wird das schon alles wieder!"
 44,3002,,Noi ce ne occuperemo!,應該說，我會想辦法的！,,"그보다, 어떻게든 하겠어!",Wir werden dafür sorgen!
 45,1416,,"Beh, il momento è giunto.
-Vi rimandiamo indietro e richiamiamo
-i Digimon.","好了……時間似乎差不多了。
+Vi rimandiamo indietro e richiamiamo i Digimon.","好了……時間似乎差不多了。
 把你們送回去，叫回數碼寶貝——",,"그럼… 슬슬 시간인 모양이다
 너희들을 돌려보내고, 디지몬들을 불러들이고―","Nun, der Zeitpunkt ist wohl gekommen.
 Wir schicken euch zurück und rufen die Digimon

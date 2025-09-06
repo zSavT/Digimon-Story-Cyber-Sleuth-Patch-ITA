@@ -46,7 +46,7 @@ Questo almeno glielo dobbiamo concedere, e merita anche delle scuse.","而且…
 정정과 사죄를 요구해도 되는 레벨의 유언비어예요","Er hat das ja nicht zum Spaß gemacht.
 So viel müssen wir ihm schon lassen, und eine
 Entschuldigung hat er auch verdient."
-16,3005,,Ehi. Perché sei improvvisamente così serio?,哇，她當真了……,,"우와, 진지하게 나왔는데…",He. Warum bist du denn plötzlich so ernst?
+16,3005,,Ehi. Perché sei improvvisamente così seria?,哇，她當真了……,,"우와, 진지하게 나왔는데…",He. Warum bist du denn plötzlich so ernst?
 17,3003,,Cosa?,什麼？,,…네?,Was?
 18,3036,,"Su, su...",哎呀，好了好了……,,"지, 진정해…","Na, na ..."
 19,3002,,"Ah, giusto!",哎，這樣啊……對呀！,,"뭐, 그렇구나…… 그러네!","Ach, stimmt ja!"
@@ -55,8 +55,8 @@ Entschuldigung hat er auch verdient."
 22,3003,,"Hai messo gli occhi anche su mio fratello, Nokia?",連、連諾奇雅都打算把哥哥當作廢物嗎？,,"노, 노키아 씨까지, 오빠를 바보 취급 하시는 거예요!?","Hast du es auch auf mein Bruder abgesehen, Nokia?"
 23,3005,,"Ehi, dove vai?",喂、喂，妳要去哪裡！？,,"야, 야, 어디 가!?","He, wo gehst du denn hin?"
 24,3002,,EDEN! Vado alla ricerca!,「EDEN」！我要去找他！,,「EDEN」! 찾으러 가려고!,EDEN! Ich gehe auf die Suche!
-25,3002,,"Se sto qui seduto triste e non faccio
-niente, Agumon e Gabumon ridono di me!","什麼都不做，只會悶悶不樂，
+25,3002,,"Se sto qui seduta triste e non faccio niente,
+Agumon e Gabumon ridono di me!","什麼都不做，只會悶悶不樂，
 可是會被亞古獸和加布獸笑的呀！",,"아~무것도 안 하고 끙끙 앓았다간
 아구몬이나 파피몬이 비웃을 테니까!","Wenn ich nur traurig hier sitze und nichts tue,
 lachen Agumon und Gabumon mich aus!"
@@ -64,24 +64,24 @@ lachen Agumon und Gabumon mich aus!"
 27,3002,,"Se un fantasma è in giro, allora
 forse anche qualcuno lo ha visto!",而且如果他是幽靈，或許會有目擊證言之類的！,,"유령으로 지내고 있으면, 목격담 같은 게 있을지도 모르니까!","Wenn ein Geist unterwegs ist, dann hat ihn
 vielleicht auch jemand gesehen!"
-28,3002,,"E se cerco in EDEN, potrei
-trovare qui e là un frammento di dati!","找遍EDEN，
+28,3002,,"E se cerco in EDEN, potrei trovare
+qui e là un frammento di dati!","找遍EDEN，
 或許至少能找到掉在地上的資料碎片之類的！",,"EDEN을 뒤져 보면, 데이터의 조각 정도는
 떨어져 있을지도 모르니까!","Und wenn ich in EDEN suche, finde ich
 vielleicht hier und da ein Datenfragment!"
-29,3002,,"Ehm... sono forse passato
-completamente alla modalità Cyber-Detective?",咦？我現在是不是很像電腦偵探！？,,"…어? 나 지금, 전뇌탐정 같지 않아!?","He ... Habe ich jetzt ganz in den
+29,3002,,"Ehm... sono forse passata completamente
+alla modalità Cyber-Detective?",咦？我現在是不是很像電腦偵探！？,,"…어? 나 지금, 전뇌탐정 같지 않아!?","He ... Habe ich jetzt ganz in den
 Cyber-Detektiv-Modus gewechselt?"
 30,3036,,...,……,,………,...
-31,3002,,"Bene, è ora di raccogliere
-informazioni! Vieni con me, aiutante!","那麼，開始打聽！
+31,3002,,"Bene, è ora di raccogliere informazioni!
+Vieni con me, aiutante!","那麼，開始打聽！
 跟我來吧，那邊的沒用哥助手！",,"그럼, 탐문 조사 개시!!
 따라 오도록, 거기 있는 잘생기기만 한 조수!!","Gut, Zeit, Informationen zu sammeln!
 Komm mit, Helferlein!"
-32,3005,,Come? Piccolo aiutante? Io?,什麼！？助、助手……我是助手！？,,"하아!? 조, 조수… 내가!?",Wie? Helferlein? Ich?
+32,3005,,Come? Aiutante? Io?,什麼！？助、助手……我是助手！？,,"하아!? 조, 조수… 내가!?",Wie? Helferlein? Ich?
 33,3005,,Hmpf. E va bene. Allora starò con te.,呿，沒辦法……我就陪陪妳吧。,,"칫, 어쩔 수 없구만… 어울려 줄까",Hmpf. Na schön. Dann hänge ich halt mit dir rum.
-34,3005,,"Ma che sia ben chiaro!
-Io sono il Cyber-Detective e tu sei l'assistente!","不過啊，先說清楚……
+34,3005,,"Ma che sia ben chiaro! Io sono
+il Cyber-Detective e tu sei l'assistente!","不過啊，先說清楚……
 我才是電腦偵探，妳是助手！",,"하지만 말이야, 확실히 말해 두겠어…
 내가 전뇌탐정이고, 네가 조수라고?","Aber dass eins klar ist!
 Ich bin der Cyber-Detektiv und du bist das
