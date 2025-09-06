@@ -26,8 +26,8 @@ per una riunione.","你可以自己安排時間，
 Schau wie immer auf das Schwarze Brett und dann
 bestelle ich den Klienten für ein Treffen her."
 110,1701,,"Ah, devi essere il detective responsabile.",啊，你就是負責這件委託的偵探大人吧。,,"아, 네가 담당인 탐정님이구나","Ach, du bist wohl der zuständige Detektiv."
-111,1701,,"Quando il muro interdimensionale crollò, fui inviato dal Mondo
-Digitale a questo.","我是在次元之壁崩壞時
+111,1701,,"Quando il muro interdimensionale crollò,
+sono stato mandato dal  mondo digitale a questo.","我是在次元之壁崩壞時
 從數碼世界被彈飛到這個世界的。",,"나, 차원의 벽이 무너졌을 때
 디지털 월드에서 이 세계로 날려와버렸어","Als die interdimensionale Mauer durchbrochen
 wurde, hat man mich aus der Digitalen Welt in diese
@@ -63,8 +63,9 @@ Per favore mostrami tutto il bene che l'umanità ha da offrire!","所以……�
 내게 인간의 좋은 점을 잔뜩 보여줬으면 해!","Deshalb möchte ich dich genau unter die Lupe
 nehmen. Bitte zeig mir all das Gute,
 das die Menschheit zu bieten hat!"
-116,2001,,"Suppongo, se non ho altra scelta... Okay.
-Esaminarmi nel dettaglio!?","真拿你沒辦法……
+116,2001,,"Va bene, se non ho scelta...
+D'accordo.
+Mi esaminerai attentamente?!","真拿你沒辦法……
 好啊。
 貼身！？",,"어쩔 수 없네…
 좋아
@@ -118,18 +119,18 @@ adatto a un detective. Per favore, prendi anche questo.","好久沒有這種偵�
 這邊的委託也一併麻煩你了。",,"오랜만에 탐정다운 의뢰가 들어왔군
 이 의뢰도 같이 부탁하도록 하지","Wir hatten schon länger keinen richtigen Fall für
 einen Detektiv. Bitte übernimm auch diesen."
-201,4954,,"Ah, tu sei il detective, vero?
+201,4954,,"Ah, tu sei il Detective, vero?
 Prego, da questa parte!",啊，你就是偵探大人嗎？　這裡這裡！,,"아, 탐정님인가요? 이쪽이에요, 이쪽!","Ach, du bist der Detektiv, nicht wahr?
 Bitte, hier entlang!"
-202,4954,,"Ho inviato la richiesta, lavoro al bar.
-Per favore, ho bisogno del tuo aiuto per rintracciare e arrestare
+202,4954,,"Ho inviato la richiesta, lavoro al bar. Per favore,
+ho bisogno del tuo aiuto per rintracciare e arrestare
 questo criminale che è scappato senza pagare!","我是到事務所發出委託的咖啡店員。
 請你務必協助我逮捕吃霸王餐的犯人！",,"제가 사무소에 의뢰한 찻집 점원입니다
 부디 무전취식범 체포에 협력해 주세요!","Ich arbeite im Café und habe die Anfrage
 geschickt. Ich brauche deine Hilfe, den Verbrecher
 zu finden, der seine Rechnung nicht bezahlt hat!"
-203,4954,,"Oggi pomeriggio, intorno alle 14:00,
-un cliente si è alzato e se n'è andato senza pagare il conto.",其實剛才下午2點左右，有人吃完東西沒付錢就逃跑。,,실은 조금 전 14시 경에 무전취식 사건이 일어났어요,"Heute Nachmittag, gegen 14 Uhr, ist ein Gast
+203,4954,,"Oggi pomeriggio, intorno alle 14:00, un cliente
+si è alzato e se n'è andato senza pagare il conto.",其實剛才下午2點左右，有人吃完東西沒付錢就逃跑。,,실은 조금 전 14시 경에 무전취식 사건이 일어났어요,"Heute Nachmittag, gegen 14 Uhr, ist ein Gast
 plötzlich aufgestanden und gegangen, ohne für
 das Essen zu zahlen."
 204,4954,,"Ero qui nel bar con mio marito. Come al solito,
@@ -150,8 +151,7 @@ e ho lasciato mio marito a gestire il bar.","然後大概是在下午2點5分前
 meine Freundin anzurufen. In der
 Zwischenzeit kümmerte mein Mann sich um das Café."
 206,4954,,"Mentre ero al telefono ho sentito una voce gridare da dentro il bar
-""È un furto con fuga!,"" così ho subito riattaccato e sono tornato
-nel bar.","我正在講電話的時候，
+""Un furbacchione!,"" così ho subito riattaccato e sono tornato nel bar.","我正在講電話的時候，
 突然聽到店裡傳來「有人沒付錢就跑了！」。
 於是我急忙講完電話跑回店裡。",,"전화를 하던 중
 가게 안에서「무전취식이다!」라는 목소리가 들려서
@@ -163,13 +163,13 @@ Era corso fuori dal bar dietro al criminale.","回去一看……我先生人不
 好像是追出去抓犯人了。",,"그랬더니… 남편이 없어져 있었어요
 아무래도 범인을 쫓아 가게를 나간 것 같아요","Als ich drinnen war, war mein Mann verschwunden.
 Er war dem Verbrecher hinterhergelaufen."
-208,4954,,"Prima di uscire per rispondere al telefono c'erano più di 20 clienti
-al bar, ma...","在我去打電話之前
+208,4954,,"Prima di uscire per rispondere al telefono
+c'erano più di 20 clienti al bar, ma...","在我去打電話之前
 店裡明明有20個客人……",,"제가 전화를 하러 가기 전에는
 가게 안에 20명 정도 손님이 있었는데…","Bevor ich telefonieren ging, waren etwa 20 Kunden
 im Café, aber ..."
-209,4954,,"Quando ho sentito il grido e sono tornato,
-quattro clienti erano spariti!","結果等我聽到叫聲回來店裡，
+209,4954,,"Quando ho sentito il grido e sono
+tornata, quattro clienti erano spariti!","結果等我聽到叫聲回來店裡，
 居然少了4個人！",,"고함을 듣고 가게로 돌아오니
 손님이 4명 줄어 있었어요!","Als ich den Ruf hörte und zurückkam, waren vier
 der Kunden plötzlich weg!"
@@ -182,15 +182,15 @@ a cercare i clienti scomparsi.","我心想我先生應該是去追犯人了，
 사라진 4명의 손님을 찾으러 갔습니다","Da ich dachte, dass mein Mann den Täter verfolgte,
 passte ein Stammgast auf das Café auf,
 während ich nach den fehlenden Kunden suchte."
-211,1701,,"Wow, sei riuscito a trovare i quattro clienti scomparsi in così poco
-tempo?","好厲害，妳真的在這麼短時間內找到了
+211,1701,,"Wow, sei riuscito a trovare i quattro clienti
+scomparsi in così poco tempo?","好厲害，妳真的在這麼短時間內找到了
 從店裡消失的4個人嗎？",,"굉장해, 이렇게 짧은 시간 안에 가게에서 없어진 4명을
 찾아낸 거야?","Wow, hast du es geschafft, in so kurzer Zeit die
 vier fehlenden Kunden zu finden?"
-212,4954,,"Onestamente, sono stato solo fortunato...",其實真的很偶然。,,정말 우연이었지만요,Das war pures Glück ...
-213,4954,,"La fuga dal ristorante è avvenuta circa cinque minuti dopo che sono
-uscito dal retro per fare la telefonata.
-Questi clienti devono essere andati via durante quel periodo.","從我去後門打電話
+212,4954,,"Onestamente, sono stata solo fortunata...",其實真的很偶然。,,정말 우연이었지만요,Das war pures Glück ...
+213,4954,,"La fuga dal ristorante è avvenuta circa cinque minuti
+dopo che sono uscito dal retro per fare la telefonata. Questi
+clienti devono essere andati via durante quel periodo.","從我去後門打電話
 到犯人逃走的這段時間大約有5分鐘……
 這幾個人的確就是那消失的4個人。",,"제가 전화를 하러 가게 뒤로 갔을 때부터
 무전취식범이 도망칠 때까지 아마 5분…
@@ -223,8 +223,9 @@ Gli altri tre non hanno motivo di mentire.","一定只有犯人會說謊，
 다른 3명이 거짓말을 할 메리트는 없으니까요","Sicher lügt nur der Täter. Die anderen drei
 haben keinen Grund zu lügen."
 218,4954,,"Per favore, indaga sul crimine.",那就拜託你調查了。,,그럼 조사 잘 부탁드려요,Bitte stelle Nachforschungen zu der Tat an.
-251,4077,,"Sono stato io a urlare ""Fanno un filone!""
-Il proprietario del caffè che mi ha sentito è corso dietro al criminale.","我看到有人沒付錢就離開店裡，
+251,4077,,"Ho gridato: ""Un furbacchione!""
+Il proprietario del bar mi ha sentito e
+ha inseguito il colpevole.","我看到有人沒付錢就離開店裡，
 之後就大叫「有人沒付錢就跑了！」。
 聽到這句話的男店員便追了出去。",,"돈을 지불하지 않고 가게를 나간 녀석을 보고
 「무전취식이다!」라고 외친 건 나야
@@ -287,14 +288,14 @@ Zechprellerei rief, verließ Nishio das Café."
 273,4079,,"Il criminale ovviamente è scappato dal caffè prima delle urla!",犯人是在那個聲音響起前就離開店裡了嘛！,,범인은 그 소리가 나기 전에 가게를 나갔고요!,"Der Täter ist natürlich aus dem Café gerannt,
 bevor die Person das rief!"
 281,4080,,"La fuga dal ristorante è avvenuta esattamente alle 14:00, giusto?
-A quell'ora avevo quasi finito e mi ero alzato per andare alla toilette.","吃霸王餐的犯人是在下午2點整左右逃走的吧？
+A quell'ora avevo quasi finito e mi ero alzata per andare alla toilette.","吃霸王餐的犯人是在下午2點整左右逃走的吧？
 那時我差不多吃完了，正在店裡上廁所。",,"무전취식범이 도망간 게 14시 정각 즈음이잖아?
 그 때 나는 거의 다 먹고 가게 안에 있는 화장실에 갔었어","Die Zechprellerei geschah genau um 14 Uhr, oder?
 Da war ich fast fertig mit essen und war
 auf dem Weg zur Toilette."
-282,4080,,"Sono tornato e ho sentito ""È una fuga senza pagare!"" e
-c'era trambusto nel bar... Non aveva niente a che fare con me,
-quindi ho lasciato i soldi e sono andato via.","結果一回來就聽到「有人沒付錢就跑了！」的聲音。
+282,4080,,"Sono tornata e ho sentito ""Un furbacchione!"" e c'era
+trambusto nel bar... Non aveva niente a che fare con me,
+quindi ho lasciato i soldi e sono andata via.","結果一回來就聽到「有人沒付錢就跑了！」的聲音。
 店裡一陣譁然……不過因為跟我沒關係，
 所以我也沒有特別在意，把錢放著就離開店裡了。",,"돌아왔더니「무전취식이다!」라는 목소리가 들리고
 가게 안이 시끄러워서… 하지만 나랑은 관계 없으니까
@@ -419,7 +420,7 @@ verliebt ..."
 정말이지, [p]도 참…","Argh, sei still! Komm zum Punkt!
 Los, [p]!"
 326,1701,,"Tra le quattro persone, ci sono testimonianze contraddittorie...
-Chi ha gridato davvero ""Fanno il filone""? È stato il cameriere o
+Chi ha gridato davvero ""Un furbacchione""? È stato il cameriere o
 Ichihara?","4個人當中，有決定性差異的證詞……
 就是大叫「有人沒付錢就跑了！」的人
 到底是市原還是男店員。",,"4명 중 결정적으로 다른 증언…
@@ -558,8 +559,8 @@ guardia su quello che questo stupido idiota stava facendo!","我是看到有笨�
 才好心出聲告訴大家的啊！",,"무전취식 같은 걸 하는 바보 녀석이 나타났다고
 주위에 알려줬잖아!","Ich rief es, um die anderen Gäste im Laden zu
 warnen, was dieser Idiot getan hatte!"
-351,4077,,"Te l'ho già detto, sono corso dietro al
-criminale! Perché stai dando la colpa a me!?
+351,4077,,"Te l'ho già detto, sono corso dietro al criminale!
+Perché stai dando la colpa a me!?
 Dovresti ringraziarmi!!!","而且我不是說我也追出店外去找犯人嗎！
 為什麼我要被當成犯人啊！
 你們反而應該稱讚我才對吧！？",,"나도 가게를 나와서 범인을 쫓아갔다고 했잖아!
@@ -627,9 +628,9 @@ Cos'è questo?","咦？　什麼？
 怎麼回事？",,"……어? 어?
 어떻게 된 거야?","... Was?
 Wie bitte?"
-370,4015,,"Ottimo lavoro a capire quello,
-sfortunatamente non importa.
-Non lo capisci ancora?","剛才推理得那麼精彩，真奇怪啊～
+370,4015,,"Ottimo lavoro, sei riuscito a scoprirlo.
+Purtroppo non ha alcuna importanza.
+Non ti è ancora chiaro?","剛才推理得那麼精彩，真奇怪啊～
 你還搞不懂嗎？",,"아까는 훌륭하게 추리했으면서 이상하네요―
 모르겠어?","Gute Arbeit, dass du das herausgefunden hast.
 Leider spielt es keine Rolle. Ist dir noch
@@ -661,7 +662,7 @@ ristorante, fare cose cattive e ingannare tutti!?","怎麼會……！
 Rechnungen nicht zu bezahlen, Probleme zu machen
 und alle hereinzulegen?"
 376,4077,,"Punta dell'iceberg, idiota!
-Pensi davvero che questo basterebbe a soddisfarci?","笨蛋，當然還不夠好玩。
+Pensi che ci accontenteremo di questo?","笨蛋，當然還不夠好玩。
 你以為這點程度我們就會滿足了嗎？",,"바―보, 부족한 게 뻔하잖아
 이 정도로 우리가 만족할 거라고 생각하는 거냐?","Das ist nur die Spitze des Eisbergs, Dummerchen!
 Meinst du, damit geben wir uns zufrieden?"
