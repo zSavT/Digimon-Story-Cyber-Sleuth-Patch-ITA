@@ -69,9 +69,9 @@ chiedere in giro a EDEN, vedi cosa riesci a scoprire.","畢竟是鬧得這麼大
 EDEN에 가면 무언가 정보를 입수할 수 있겠지","Kontendiebstahl ist langsam echt ein
 Problem. Hör dich in EDEN um.
 Vielleicht kannst du etwas herausfinden."
-2041,3006,,"Non so molto su come ottenere le
-informazioni di Makoto Yamashina, ma...indaga anche su
-quello, per favore? Vai, accedi a EDEN.","關於『山科誠』的情報的取得方式還不清楚……
+2041,3006,,"Non so molto su come ottenere le informazioni di
+Makoto Yamashina, ma...indaga anche su quello, per favore?
+Vai, accedi a EDEN.","關於『山科誠』的情報的取得方式還不清楚……
 不過還是請你同時進行調查。
 好了，快登入EDEN吧。",,"『야마시나 마코토』의 정보 입수에 관해서는 알 수 없지만…
 병행해서 조사를 부탁한다
@@ -238,16 +238,17 @@ Das Zaxon-Forum, was? Hake da mal nach."
 11010,3006,,"Per arrivare al Centro Sotterraneo di Roppongi,
 vai al Sottopassaggio di Nakano.",你從「中野地下道」前往「六本木地下設施」吧。,,「롯폰기 지하시설」로는「나카노 지하도」를 통해 향하도록,"Geh zur Nakano-Unterführung, um zum
 unterirdischen Zentrum in Roppongi zu gelangen."
-11011,3006,,"Tu e Nokia dovreste andarci. Io seguirò
-da qui come meglio posso. Ora, sbrigatevi.","你跟諾奇雅從那邊過去。
+11011,3006,,"Tu e Nokia dovreste andarci.
+Io seguirò da qui come meglio posso.
+Ora, sbrigatevi.","你跟諾奇雅從那邊過去。
 我也會從這邊盡可能支援你們。
 好啦，快點行動吧。",,"너와 노키아는 그쪽에서 향하도록
 이쪽에서도 가능한 한 서포트를 하겠다
 자, 서두르도록","Nokia und du sollten hingehen. Ich mache von hier
 aus weiter, so gut ich kann. Los, beeilt euch."
-15000,3006,,"Scusate per averci messo tanto... Ora. Non c'è
-tempo per riunioni; andate a parlare con i Royal
-Knights. ...Non vedo l'ora di vedere cosa avete imparato.","離開這麼久真是抱歉啊……
+15000,3006,,"Mi dispiace che ci sia voluto così tanto tempo.
+Non c'è tempo per i sentimentalismi. Andate a parlare con i Royal Knights.
+...Non vedo l'ora di vedere cosa avete imparato.","離開這麼久真是抱歉啊……
 一回來就叫你做事是有些過意不去，但還是要麻煩你去說服皇家騎士。
 你在這段期間裡成長了多少……　我很期待哦。",,"오랫동안 자리를 비워서 미안하다…
 바로 미안하다만, 로얄 나이츠의 설득을 부탁한다
@@ -381,8 +382,7 @@ Non perderla di vista.","她就交給你了……
 눈을 떼지 말아 주도록","Du kannst dich um sie kümmern ...
 Lass sie nicht aus dem Auge."
 16035,3006,,"Non influenzerà Examon per un po'.
-Vai a essere produttivo.
-Accetta qualche caso.","對於艾克薩獸的影響應該是不會馬上出現。
+Vai a fare qualcosa di produttivo. Accetta qualche caso.","對於艾克薩獸的影響應該是不會馬上出現。
 你就先完成大家的委託，有效利用時間吧。",,"그렇게 바로 엑자몬에게의 영향은 나오지 않겠지
 의뢰라도 완수하면서, 시간을 효과적으로 쓰도록","Examon ist für den Moment sicher.
 Geh und erledige was Produktives.
@@ -403,9 +403,8 @@ Affronterai un Royal Knight...Lord Knightmon.","我很喜歡你的“行事風�
 상대는 로얄 나이츠… 그 로드나이트몬이니까 말이지","Ich spüre in deinem Wesen etwas Gutes.
 Doch du solltest dich gut vorbereiten. Du stellst
 dich einem Royal Knight: Lord Knightmon."
-18000,3006,,"Nokia Shiramine, dammi il tuo Digivice. Dopotutto,
-non puoi accedere a due account EDEN
-contemporaneamente.","白峰諾奇雅，妳的Digivice就先由我保管吧。
+18000,3006,,"Nokia Shiramine, dammi il tuo Digivice.
+Dopotutto, non puoi accedere a due account EDEN contemporaneamente.","白峰諾奇雅，妳的Digivice就先由我保管吧。
 在登入EDEN時，
 是無法同時使用兩個帳號的。",,"시라미네 노키아, 네 디지바이스는 내가 맡아 두겠다
 EDEN에 로그인할 때, 두 계정을 동시에
@@ -419,15 +418,14 @@ aiuto. Non c'è bisogno di preoccuparsi.","奧米加獸不能一起去應該讓�
 조수가 키운 디지몬도 의지가 된다… 걱정할 필요는 없다","Du machst dir Sorgen, dass Omnimon nicht mitkommt,
 aber die Digimon meines Hilfsdetektivs werden helfen.
 Es gibt keinen Grund zur Sorge."
-18002,3006,,"Vai all'area di anteprima degli
-aggiornamenti di EDEN. ...Conto su di te per
-trovare il mio assistente.","你們從EDEN前往「版本升級體驗區」吧。
+18002,3006,,"Vai all'area di anteprima degli aggiornamenti di EDEN.
+...Conto su di te per trovare il mio assistente.","你們從EDEN前往「版本升級體驗區」吧。
 ……助手的事就交給你們了。",,"EDEN에서「버전 업 체험 에어리어」로 향하도록
 …둘 다, 조수를 잘 부탁한다","Besuche in EDEN den Update-Vorschaubereich.
 ... Ich zähle darauf, dass du meinen
 Hilfsdetektiv findest."
-19100,3006,,"Hmm... È una buona idea essere ben
-preparati, ma non dimenticare che il tempo stringe.","嗯……專心準備是件好事，
+19100,3006,,"Hmm... È una buona idea essere ben reparati,
+ma non dimenticare che il tempo stringe.","嗯……專心準備是件好事，
 但可別忘了時間所剩不多囉。",,"흐음… 준비로 바쁜 것은 좋다만
 때가 다가오고 있다는 점도 잊지 말도록","Hm ... Eine gute Idee, sich vorzubereiten,
 aber vergiss nicht, dass die Zeit läuft."
@@ -518,8 +516,8 @@ depresso, al [2K-Cafe]. Suppongo sia un'età difficile...","你的朋友又在[2
 고민이 많은 나이로군","Dein Freund verbreitet wohl wieder schlechte Laune
 im [2K-Café]. Ist ein schwieriges Alter ..."
 30010,3006,,"L'egosurfing non fa proprio per me, ma a quanto pare
-ora c'è una [2bacheca di Nakano]. 
-Dacci un'occhiata, se è quello che ti interessa.","我對所謂「自我搜尋」那類的東西不感興趣……
+ora c'è una [2bacheca di Nakano]. Dacci un'occhiata,
+se è quello che ti interessa.","我對所謂「自我搜尋」那類的東西不感興趣……
 但是[2中野]也有個叫做[2留言板]的東西呢。
 你如果有興趣的話，可以去看看。",,"난 소위 말하는「에고 서치」같은 것에는 흥미가 없다만…
 [2나카노]에도 [2게시판]이라는 게 있어서 말이지

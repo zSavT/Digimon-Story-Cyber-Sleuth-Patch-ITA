@@ -823,7 +823,7 @@ status anomalo inverte l'affinità dei tipi?","問答題！　戰鬥時，能把
 異常狀態是什麼？",,"퀴즈! 배틀 중, 종족 상성이 역전되는
 상태 이상은 뭐~게?","Quizzeit! Welches Statusleiden kehrt
 beim Kampf Typ-Affinität um?"
-4071,,Quiz! Quale equipaggiamento aumenta l'ESP ottenuta dalle battaglie?,"問答題！　只要讓數碼寶貝裝備，
+4071,,Quiz! Quale equipaggiamento aumenta l'EXP ottenuta dalle battaglie?,"問答題！　只要讓數碼寶貝裝備，
 就能增加戰鬥獲得EXP的裝備是什麼？",,"퀴즈! 디지몬에게 장비시켜 두면
 배틀로 받을 수 있는 EXP가 늘어나는 장비품은 뭐~게?","Quizzeit! Welche Ausrüstung erhöht die
 EP, die man beim Kämpfen erhält?"
@@ -1260,7 +1260,7 @@ status anomalo inverte le affinità di tipo?","問答題！　戰鬥時，能把
 異常狀態是什麼？",,"퀴즈다. 배틀 중, 종족 상성이 역전되어버리는
 상태 이상은 뭐지?","Quiz! Welches Statusleiden kehrt
 beim Kampf Typ-Affinität um?"
-5071,,Curiosità! Quale equipaggiamento aumenta l'ESP ottenuta in battaglia?,"問答題！　只要讓數碼寶貝裝備，
+5071,,Curiosità! Quale equipaggiamento aumenta l'EXP ottenuta in battaglia?,"問答題！　只要讓數碼寶貝裝備，
 就能增加戰鬥獲得EXP的裝備是什麼？",,"퀴즈다. 디지몬에게 장비시켜 두면
 배틀로 받을 수 있는 EXP가 늘어나는 장비품은 뭐지?","Quiz! Welche Ausrüstung erhöht die
 EP, die man beim Kämpfen erhält?"
@@ -1697,7 +1697,7 @@ status anomalo inverte l'affinità di tipo?","來進行問答題吧！　戰鬥�
 異常狀態是什麼？",,"자아 퀴즈다! 배틀 중, 종족 상성이 역전되어버리는
 상태 이상이 무엇인지 알아?","Test! Welches Statusleiden kehrt
 beim Kampf Typ-Affinität um?"
-6071,,Quiz a sorpresa! Quale equipaggiamento aumenta l'ESP che ottieni dalla battaglia?,"來進行問答題吧！　只要讓數碼寶貝裝備，
+6071,,Quiz a sorpresa! Quale equipaggiamento aumenta l'EXP che ottieni dalla battaglia?,"來進行問答題吧！　只要讓數碼寶貝裝備，
 就能增加戰鬥獲得EXP的裝備是什麼？",,"자아 퀴즈다! 디지몬에게 장비시켜 두면
 배틀로 받을 수 있는 EXP가 늘어나는 장비품은 뭐지?","Test! Welche Ausrüstung erhöht die
 EP, die man beim Kämpfen erhält?"
@@ -2143,7 +2143,7 @@ status anomalo inverte l'affinità di tipo?","問答題喔！　戰鬥時，能�
 상태 이상은 뭘까?","Rate mal! Welches Statusleiden kehrt
 beim Kampf Typ-Affinität um?"
 7071,,"Controlla. Quale equipaggiamento aumenta l'
-ESP ottenuta dalle battaglie?","問答題喔！　只要讓數碼寶貝裝備，
+EXP ottenuta dalle battaglie?","問答題喔！　只要讓數碼寶貝裝備，
 就能增加戰鬥獲得EXP的裝備是什麼？",,"퀴즈. 디지몬에게 장비시켜 두면
 배틀로 받을 수 있는 EXP가 늘어나는 장비품은 뭘까?","Rate mal! Welche Ausrüstung erhöht die
 EP, die man beim Kämpfen erhält?"
@@ -3045,7 +3045,7 @@ anomalo inverte l'affinità dei tipi?","以下是問答題。　戰鬥時，能�
 상태 이상은 뭘까요?","Frage! Welches Statusleiden kehrt
 beim Kampf Typ-Affinität um?"
 9071,,"Domanda! Quale equipaggiamento aumenta l'
-ESP che ottieni dalla battaglia?","以下是問答題。　只要讓數碼寶貝裝備，
+EXP che ottieni dalla battaglia?","以下是問答題。　只要讓數碼寶貝裝備，
 就能增加戰鬥獲得EXP的裝備是什麼？",,"여기서 퀴즈입니다. 디지몬에게 장비시켜 두면
 배틀로 받을 수 있는 EXP가 늘어나는 장비품은 뭘까요?","Frage! Welche Ausrüstung erhöht die
 EP, die man beim Kämpfen erhält?"
@@ -3209,7 +3209,7 @@ Delikatessen stammt von Fischen?"
 10024,,8,是八人！,,8개다!,8
 10025,,Tipo di dati,是資料種,,데이터종이야,Datei-Typ
 10026,,Tipo Virus,是病毒種嗎？,,바이러스종일까?,Virus-Typ
-10027,,Tipo libero,是自由種吧！,,프리종이지!,Freier Typ
+10027,,Tipo Neutrale,是自由種吧！,,프리종이지!,Freier Typ
 10028,,Campione,成熟期,,성숙기려나,Champion
 10029,,Ultra,完全體對吧？,,완전체지?,Ultra
 10030,,Mega,一定是究極體！,,궁극체밖에 없지!,Mega
@@ -3388,7 +3388,7 @@ Trainieren"
 10201,,Paga Mirei,向米蕾付錢,,미레이에게 돈을 낸다,Mirei bezahlen
 10202,,Tipo di dati,是資料種嗎？,,데이터종이었던가?,Datei-Typ
 10203,,Tipo Vaccine,是疫苗種對吧？,,백신종이잖아?,Serum-Typ
-10204,,Tipo libero,應該是自由種,,프리종이었을 거야,Freier Typ
+10204,,Tipo Neutrale,應該是自由種,,프리종이었을 거야,Freier Typ
 10205,,Attributo Elettrico,雷屬性吧？,,전기속성이잖아?,Elektrisch
 10206,,Attributo Acqua,水屬性嗎？,,물속성이려나?,Wasser
 10207,,Attributo Terra,是土屬性,,땅속성이야,Erde
@@ -3397,7 +3397,7 @@ Trainieren"
 10210,,Bug,Bug對吧,,버그네,Fehler
 10211,,USB Tattico,軍師的USB嗎？,,군사의 USB던가?,Taktiker-USB
 10212,,USB ad alta capacità,大容量的USB吧,,대용량 USB려나,Riesenspeicher-USB
-10213,,USB Allenatore,飼育員的USB吧,,프리터의 USB야,Züchter-USB
+10213,,USB Tamer,飼育員的USB吧,,프리터의 USB야,Züchter-USB
 10214,,Velocizza,Speed Up嗎？,,스피드 업이려나?,Tempo+
 10215,,Accesso Percorso,Route Access！,,루트 액세스!,Wegzugriff
 10216,,Accelerazione,不是Accelerate嗎？,,액셀러레이트 아니야?,Beschleunigung
@@ -3523,7 +3523,7 @@ Du bist fantastisch!"
 11008,,"""6"" è corretto!
 Sei fantastico!","答對了答對了！　是「6人」喔
 你好厲害喔！",,정답!「6개」야. 너는 역시 굉장해!,„6“ ist richtig! Du bist fantastisch!
-11009,,"""Tipo libero"" è corretto!
+11009,,"""Tipo Neutrale"" è corretto!
 Sei fantastico!","答對了答對了！　是「自由種」喔
 你好厲害喔！",,"정답!「프리종」이야.
 너는 역시 굉장해!","„Freier Typ“ ist richtig!
@@ -3977,7 +3977,7 @@ Nicht schlecht!"
 12007,,"""Fragarach""... Corretto. Non male!",「佛拉格拉克」……答對了。厲害,,「프라가라흐」…정답이다. 제법이군.,"„Fragarach“ ... Richtig.
 Nicht schlecht!"
 12008,,"""6""... Corretto. Non male!",「6人」……答對了。厲害,,「6개」…정답이다. 제법이군.,„6“ ... Richtig. Nicht schlecht!
-12009,,"""Tipo Libero""... Esatto. Non male!",「自由種」……答對了。厲害,,「프리종」…정답이다. 제법이군.,"„Freier Typ“ ... Richtig.
+12009,,"""Tipo Neutrale""... Esatto. Non male!",「自由種」……答對了。厲害,,「프리종」…정답이다. 제법이군.,"„Freier Typ“ ... Richtig.
 Nicht schlecht!"
 12010,,"""Ultra""... Corretto. Non male!",「完全體」……答對了。厲害,,「완전체」…정답이다. 제법이군.,„Ultra“ ... Richtig. Nicht schlecht!
 12011,,"""Spirito Bestia della Luce""... Corretto. Non male!",「光之野獸鬥士精神」……答對了。厲害,,「빛의 비스트 스피릿」…정답이다. 제법이군.,"„Bestiengeist des Lichts“ ... Richtig.
@@ -4181,7 +4181,7 @@ Die Antwort ist „Gungnir“!"
 ""Fragarach""!",喔，答對了！　答案是「佛拉格拉克」！,,"오, 정답이군! 답은「프라가라흐」지!","Wow, das stimmt!
 Die Antwort ist „Fragarach“!"
 13008,,"Wow, ce l'hai fatta! La risposta è ""6""!",喔，答對了！　答案是「6人」！,,"오, 정답이군! 답은「6개」지!","Wow, das stimmt! Die Antwort ist „6“!"
-13009,,"Wow, ce l'hai fatta! La risposta è ""Tipo Libero""!",喔，答對了！　答案是「自由種」！,,"오, 정답이군! 답은「프리종」이지!","Wow, das stimmt!
+13009,,"Wow, ce l'hai fatta! La risposta è ""Tipo Neutrale""!",喔，答對了！　答案是「自由種」！,,"오, 정답이군! 답은「프리종」이지!","Wow, das stimmt!
 Die Antwort ist „Freier Typ“!"
 13010,,"Wow, ce l'hai fatta! La risposta è
 ""Ultra""!",喔，答對了！　答案是「完全體」！,,"오, 정답이군! 답은「완전체」지!","Wow, das stimmt!
@@ -4451,7 +4451,7 @@ Sono uova di pesce.","喔，答對了！　答案是「肥肝醬」！
 14007,,"Correttissimo! La risposta è
 ""Fragarach""!",答對了！　答案是「佛拉格拉克」！,,정답이야! 답은「프라가라흐」.,Korrekto! Die Antwort ist „Fragarach“!
 14008,,"Correctamundo! La risposta è ""6""!",答對了！　答案是「6人」！,,정답이야! 답은「6개」.,Korrekto! Die Antwort ist „6“!
-14009,,"Correctamundo! La risposta è ""Tipo Libero""!",答對了！　答案是「自由種」！,,정답이야! 답은「프리종」.,Korrekto! Die Antwort ist „Freier Typ“!
+14009,,"Correctamundo! La risposta è ""Tipo Neutrale""!",答對了！　答案是「自由種」！,,정답이야! 답은「프리종」.,Korrekto! Die Antwort ist „Freier Typ“!
 14010,,"Correctamundo! La risposta è ""Ultra""!",答對了！　答案是「完全體」！,,정답이야! 답은「완전체」.,Korrekto! Die Antwort ist „Ultra“!
 14011,,"Correctamundo! La risposta è ""Spirito Bestia della Luce""!",答對了！　答案是「光之野獸鬥士精神」！,,정답이야! 답은「빛의 비스트 스피릿」.,"Korrekto! Die Antwort ist „Bestiengeist
 des Lichts“!"
@@ -4659,7 +4659,7 @@ Das ist Fischrogen."
 15006,,"Accidenti. ""Gungnir"" è corretto!",真厲害，答對了！　答案是「昆克尼爾」！,,"굉장해, 맞았어!「궁니르」가 답이야.",Wahnsinn! „Gungnir“ ist richtig!
 15007,,"Be', non ci posso credere. ""Fragarach"" è corretto!",真厲害，答對了！　答案是「佛拉格拉克」！,,"굉장해, 맞았어!「프라가라흐」가 답이야.",Wahnsinn! „Fragarach“ ist richtig!
 15008,,"Accidenti. ""6"" è corretto!",真厲害，答對了！　答案是「6人」！,,"굉장해, 맞았어!「6개」가 답이야.",Wahnsinn! „6“ ist richtig!
-15009,,"Ma guarda un po'. ""Tipo libero"" è corretto!",真厲害，答對了！　答案是「自由種」！,,"굉장해, 맞았어!「프리종」이 답이야.",Wahnsinn! „Freier Typ“ ist richtig!
+15009,,"Ma guarda un po'. ""Tipo Neutrale"" è corretto!",真厲害，答對了！　答案是「自由種」！,,"굉장해, 맞았어!「프리종」이 답이야.",Wahnsinn! „Freier Typ“ ist richtig!
 15010,,"Oh, guarda un po'. ""Ultra"" è corretto!",真厲害，答對了！　答案是「完全體」！,,"굉장해, 맞았어!「완전체」가 답이야.",Wahnsinn! „Ultra“ ist richtig!
 15011,,"Ma guarda un po'. ""Spirito Bestia della Luce"" è corretto!",真厲害，答對了！　答案是「光之野獸鬥士精神」！,,"굉장해, 맞았어!「빛의 비스트 스피릿」가 답이야.","Wahnsinn! „Bestiengeist des Lichts“
 ist richtig!"
@@ -4856,7 +4856,7 @@ Das ist Fischrogen."
 你很厲害嘛",,정답입니다. 답은「프라가라흐」. 제법이군요.,"Sehr gut, die Antwort ist „Fragarach“!"
 16008,,"Ben fatto, la risposta è ""6""!","答對了。答案是「6人」
 你很厲害嘛",,정답입니다. 답은「6개」. 제법이군요.,"Sehr gut, die Antwort ist „6“!"
-16009,,"Ben fatto, la risposta è ""Tipo libero""!",答對了。答案是「自由種」。你很厲害嘛,,정답입니다. 답은「프리종」. 제법이군요.,"Sehr gut, die Antwort ist „Freier Typ“!"
+16009,,"Ben fatto, la risposta è ""Tipo Neutrale""!",答對了。答案是「自由種」。你很厲害嘛,,정답입니다. 답은「프리종」. 제법이군요.,"Sehr gut, die Antwort ist „Freier Typ“!"
 16010,,"Ben fatto, la risposta è ""Ultra""!",答對了。答案是「完全體」。你很厲害嘛,,정답입니다. 답은「완전체」. 제법이군요.,"Sehr gut, die Antwort ist „Ultra“!"
 16011,,"Ben fatto, la risposta è ""Spirito Bestia della Luce""!","答對了。答案是「光之野獸鬥士精神」
 你很厲害嘛",,"정답입니다. 답은「빛의 비스트 스피릿」.
@@ -5097,7 +5097,7 @@ Viel Glück beim nächsten Mal!"
 la prossima volta!","答錯了！　答案是「6人」
 下次要加油喔！",,땡! 답은「6개」. 다음엔 맞추자!,"Schade, die Antwort ist „6“.
 Viel Glück beim nächsten Mal!"
-21009,,"Peccato, la risposta è ""Tipo Libero"".
+21009,,"Peccato, la risposta è ""Tipo Neutrale"".
 Sarà per la prossima volta!","答錯了！　答案是「自由種」
 下次要加油喔！",,땡! 답은「프리종」. 다음엔 맞추자!,"Schade, die Antwort ist „Freier Typ“.
 Viel Glück beim nächsten Mal!"
@@ -5527,7 +5527,7 @@ Pass besser auf."
 22008,,"Sbagliato, la risposta è ""6"". Fai attenzione, ora.","答錯了。答案是「6人」
 下次別答錯了",,틀렸다. 답은「6개」. 다음엔 틀리지 마라.,"Falsch, die Antwort ist „6“.
 Pass besser auf."
-22009,,"Sbagliato, la risposta è ""Tipo Libero"".
+22009,,"Sbagliato, la risposta è ""Tipo Neutrale"".
 Attento, ora.","答錯了。答案是「自由種」
 下次別答錯了",,틀렸다. 답은「프리종」. 다음엔 틀리지 마라.,"Falsch, die Antwort ist „Freier Typ“.
 Pass besser auf."
@@ -5918,7 +5918,7 @@ Versuch’s noch mal!"
 23008,,"Accidenti, la risposta è ""6"". Riprova!","答錯了。答案是「6人」
 下次可不要答錯啊！",,틀렸어. 정답은「6개」야. 다음엔 틀리지 말라구!,"Mist, die Antwort ist „6“.
 Versuch’s noch mal!"
-23009,,"Accidenti, la risposta è ""Tipo Libero"". Riprova!","答錯了。答案是「自由種」
+23009,,"Accidenti, la risposta è ""Tipo Neutrale"". Riprova!","答錯了。答案是「自由種」
 下次可不要答錯啊！",,틀렸어. 정답은「프리종」이야. 다음엔 틀리지 말라구!,"Mist, die Antwort ist „Freier Typ“.
 Versuch’s noch mal!"
 23010,,"Accidenti, la risposta è ""Ultra"". Riprova!","答錯了。答案是「完全體」
@@ -6297,7 +6297,7 @@ Beim nächsten Mal!"
 prossima!","可惜...答案是「6人」
 下次要答對喔",,유감이야… 답은「6개」. 다음엔 맞추도록 해.,"Verflixt, die Antwort ist „6“.
 Beim nächsten Mal!"
-24009,,"Accidenti, la risposta è ""Tipo Libero"". Prenderai la prossima!","可惜...答案是「自由種」
+24009,,"Accidenti, la risposta è ""Tipo Neutrale"". Prenderai la prossima!","可惜...答案是「自由種」
 下次要答對喔",,유감이야… 답은「프리종」. 다음엔 맞추도록 해.,"Verflixt, die Antwort ist „Freier Typ“.
 Beim nächsten Mal!"
 24010,,"Accidenti, la risposta è ""Ultra"". Ci prenderai alla prossima!","可惜...答案是「完全體」
@@ -6709,7 +6709,7 @@ du liegst also falsch."
 25008,,"La risposta è ""6"", quindi hai sbagliato stavolta.","答案是「6人」，你答錯了喔
 下次要答對喔",,답은「6개」니까 틀렸어. 다음엔 맞춰줘.,"Die Antwort ist „6“,
 du liegst also falsch."
-25009,,"La risposta è ""Tipo libero"", quindi hai
+25009,,"La risposta è ""Tipo Neutrale"", quindi hai
 sbagliato questa volta.","答案是「自由種」，你答錯了喔
 下次要答對喔",,"답은「프리종」이니까 틀렸어.
 다음엔 맞춰줘.","Die Antwort ist „Freier Typ“,
@@ -7157,7 +7157,7 @@ Probier’s noch mal."
 26008,,"Errato. La risposta è ""6"". Riprova.","答錯了。答案是「6人」
 下次請答對",,틀렸습니다. 답은「6개」. 다음에는 맞춰주세요.,"Negativ. Die Antwort ist „6“.
 Probier’s noch mal."
-26009,,"Errato. La risposta è ""Tipo Libero"".
+26009,,"Errato. La risposta è ""Tipo Neutrale"".
 Prova ancora.","答錯了。答案是「自由種」
 下次請答對",,"틀렸습니다. 답은「프리종」
 다음에는 맞춰주세요.","Negativ. Die Antwort ist „Freier Typ“.
@@ -7805,7 +7805,7 @@ Da hältst du es keine 5 Minuten aus."
 이미 끝난 사건이니 답을 알려줄 수도 있는데!","Moment! Du hast die Mail von Matayoshi
 gekriegt, ja? Sag ihm, es ist vorbei!"
 45049,,"Ehi, ehi, ehi! Sono Akkino!
-I Ribelli oggi spaccano!","嗨嗨嗨～～☆　我是雅奇諾喔！
+I Rebels oggi spaccano!","嗨嗨嗨～～☆　我是雅奇諾喔！
 反叛者今天也很有活力地進．行．活．動！",,"헬로헬로~~☆ 앗키노야!
 리벨리온즈는 오늘도 기운차게 활 동 중!","Yo! Hier ist Akkino! Die Rebels rocken
 heute!"
@@ -7872,7 +7872,7 @@ Hudie... Mi dispiace.","哥哥的事，還有hudie的事……
 너한테 너무 의지하기만 해서 미안해.","Ich habe so viel verlangt ... mein
 Bruder ... Hudie ... Es tut mir leid."
 45063,,"La protezione dei Digimon procede bene, perché
-i Ribelli stanno lavorando sodo.","因為反叛者的大家都很努力，
+i Rebels stanno lavorando sodo.","因為反叛者的大家都很努力，
 數碼寶貝的保護活動很順利喔☆",,"리벨리온즈의 모두가 엄청 힘내주고 있어서
 디지몬 보호 활동은 순조로워☆","Der Digimon-Schutz läuft, weil sich die
 Rebels richtig ins Zeug legen."
@@ -7930,7 +7930,7 @@ Antylamon ha detto che vuole giocare.","黑大耳獸……啊，現在是玉兔�
 他說還想跟你一起出去玩啊。",,"로프몬…아, 지금은 안티라몬이지만,
 너하고 다시 외출하고 싶다고 하더군.","Lopmon heißt jetzt Antylamon. Antylamon
 sagt, es will spielen."
-45075,,"I Ribelli sono stati così impegnati ultimamente,
+45075,,"I Rebels sono stati così impegnati ultimamente,
 che si sono dimenticati dell'allenamento...","反叛者……最近都在做保護活動，
 很久都沒有做特訓了呢～",,"리벨리온즈…최근에는 보호 활동으로 바빠서
 특훈에 대해선 한동안 잊고 있었네~","Die Rebels haben so viel zu tun, dass
@@ -8115,8 +8115,8 @@ Geschenk gefallen hat."
 47048,,"In realtà, è stata una passeggiata.",不用，我馬上就解開了。,,"아니, 바로 풀었는데요",Eigentlich war das ganz einfach.
 48048,,È importante. Posso semplicemente dirtelo?,那麼重要的事情，可以告訴我嗎！？,,"그런 중요한 거, 가르쳐줘도 되는 건가요!?","Das ist wichtig. Kann ich das nicht
 einfach Ihnen sagen?"
-46049,,I Ribelli sono sempre così?,反叛者一直是這樣子嗎？,,리벨리온즈는 항상 그런 느낌인 거야?,Sind die Rebels immer so drauf?
-47049,,"Persino i Ribelli la chiamavano
+46049,,I Rebels sono sempre così?,反叛者一直是這樣子嗎？,,리벨리온즈는 항상 그런 느낌인 거야?,Sind die Rebels immer so drauf?
+47049,,"Persino i Rebels la chiamavano
 Akkino.",反叛者的成員們也會叫妳「雅奇諾」呢。,,"리벨리온즈의 멤버들한테도「앗키노」라고
 불렸었지",Sogar die Rebels nennen sie Akkino.
 46052,,"Qualcosa l'ha causato, giusto?",是有什麼契機讓他改變了吧？,,뭔가 변하신 계기라도 있었어?,"Das hat einen Grund, oder?"
@@ -8601,7 +8601,7 @@ GaoGamon. Grazie mille!","啊，你說阿康康啊？　他跟迦奧迦獸
 每天都在特訓喔！　之前那次真是太～謝謝你了♪",,"아, 야슴다 군? 가오가몬하고 매일
 특훈하고 있어! 저번에는 정~말로 고마워♪","Du meinst Yasusu? Der trainiert jeden
 Tag mit GaoGamon. Vielen Dank!"
-57063,,"Il lavoro dei Ribelli non sarà mai finito, finché ci saranno ragazzi nei guai. Tornerò.","只要有數碼寶貝陷入麻煩……反叛者就還不會
+57063,,"Il lavoro dei Rebels non sarà mai finito, finché ci saranno ragazzi nei guai. Tornerò.","只要有數碼寶貝陷入麻煩……反叛者就還不會
 結束活動啊啊啊啊！　那我出發了♪",,"곤란해하는 아이가 있는 한…리벨리온즈의 활동은
 끝나지 않아아아아아! 그럼, 다녀올게♪","Solange Kinder Probleme haben, ist die
 Arbeit der Rebels nicht getan. Bis bald!"

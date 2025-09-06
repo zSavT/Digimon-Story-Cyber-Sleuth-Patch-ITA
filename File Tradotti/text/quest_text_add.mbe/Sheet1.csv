@@ -214,7 +214,7 @@ warte an der Spielhalle in Akihabara."
 220,,"Yasu, distrutto dall'amore",戀愛煩惱的阿康心,,사랑에 고민하는 야스의 마음,Liebestoller Yasu
 221,,Il ribelle Yasu,反叛者的阿康,,리벨리온즈의 야스,Rebel Yasu
 222,,"Ho bisogno del tuo aiuto per proteggere i
-Digimon! Devo essere un membro più forte dei Ribelli
+Digimon! Devo essere un membro più forte dei Rebels
 per affrontare quella persona che mi piace!","我想拜託你來幫忙保護數碼寶貝！
 為了讓我最喜歡的人能看見我
 我想作為反叛者的成員大幅活躍一下！",,"디지몬의 보호를 당신이 도와주셨으면 합니다!
@@ -308,7 +308,7 @@ Sonst nehme ich dich sofort fest!"
 333,,Trova i dati rubati,找出怪人數碼面相的寶藏,,괴도 디지면상의 보물을 찾자.,Finde den Schatz des Cybergesichts.
 334,,Sconfiggi il misterioso volto digitale,打倒怪人數碼面相,,괴도 디지면상을 쓰러뜨리자.,Schlag das Cybergesicht.
 340,,La mano di Ai per il demone perduto,向迷惑的惡魔伸出Ai之手,,헤매는 악마에게 SARANG의 손을,Der verlorene Demon
-341,,Masao Tanaka,田中正男,,타나카 마사오,Masao Tanaka
+341,,Masao Covoka,田中正男,,타나카 마사오,Masao Covoka
 342,,"C'è una persona che vorrei incontrare.
 Ora è davvero giù di morale. Potresti
 farlo sentire meglio?","我這有想讓你見見的人
@@ -479,7 +479,7 @@ account EDEN. Scopri chi e perché a Hudie.","似乎有大量的EDEN帳號被入
 범인과 그 목적을 후디에가 ""비밀리""에 조사해줬으면 한다.","EDEN-Konten werden massenhaft gehackt.
 Finde bei Hudie raus, von wem und warum."
 550,,Chiedi informazioni sul caso.,詢問發生的事件詳情,,사건에 대해 이야기를 들어보자.,Frag nach dem Fall.
-551,,Vai alla tana dei demoni.,前往惡魔巢穴,,준비를 갖추고 데몬즈 아지트로 향하자.,Geh zur Demons-Höhle.
+551,,Vai al Covo dei Demons.,前往惡魔巢穴,,준비를 갖추고 데몬즈 아지트로 향하자.,Geh zur Demons-Höhle.
 552,,Sconfiggi l'hacker Idol Maniac,打倒偶像宅的駭客,,아이돌 오타쿠 해커를 쓰러뜨리자.,Besiege den Star verehrenden Hacker.
 553,,Trova il colpevole in Under Kowloon Lv. 3.,到Under Kowloon Lv.3找出犯人,,언더 쿠롱 Lv.3에서 범인을 찾자.,Täter auf Ebene 3 in Unter Kowloon.
 554,,Guarda il video di Punsuka.,看「森七七」的轉播影片,,『분스카』의 생방송을 보자.,Sieh dir das Punsuka-Video an.
@@ -1937,7 +1937,7 @@ Digimon sollen in Frieden leben können!"
 2060,,Sconfiggi l'avido hacker Yoku!,討伐貪心駭客翊吧！,,탐욕스러운 해커 요쿠를 토벌해라!,Schlag den gierigen Hacker Yoku!
 2061,,Mirei Mikagura,御神樂米蕾,,미카구라 미레이,Mirei Mikagura
 2062,,"I Digimon hanno trovato un hacker nella
-lista nera. Sono nella Tana dei Demoni.
+lista nera. Sono nel Covo dei Demons.
 Mostrate loro la punizione per l'avidità!","數碼寶貝找出被列入黑名單的駭客了喔
 看來他在惡魔巢穴喔
 就讓他承受...貪心的懲罰吧",,"디지몬들이 블랙리스트 해커를 발견했어.
@@ -1949,7 +1949,7 @@ Bestrafe sie für ihre Gier!"
 2064,,La persona che ha preso il mio Digimon!,是之前搶走我的數碼寶貝的人！,,전에 내 디지몬을 뺏은 사람이다!,"Der, der meine Digimon geklaut hat!"
 2065,,Hiro,阿廣,,히로,Hiro
 2066,,Chi ruberebbe il Digimon di qualcuno? Che schifo!,居然奪走別人的數碼寶貝，真是太差勁了！,,남의 디지몬을 뺏다니 최저네!,Wer stiehlt denn anderer Leute Digimon?!
-2070,,Vai alla tana dei demoni.,前往惡魔巢穴,,데몬즈 아지트로 향하자.,Geh zur Demons-Höhle.
+2070,,Vai al Covo dei Demons.,前往惡魔巢穴,,데몬즈 아지트로 향하자.,Geh zur Demons-Höhle.
 2080,,Sconfiggi l'hacker pubblicitario Yasu!,討伐無許可廣告駭客裕康吧！,,무단 광고 해커 히로야스를 토벌해라!,Schlage Spamwerbung-Hacker Yasu!
 2081,,Mirei Mikagura,御神樂米蕾,,미카구라 미레이,Mirei Mikagura
 2082,,"I Digimon hanno trovato degli hacker
@@ -2406,12 +2406,12 @@ verloren. Hilf mir bei der Suche!"
 2712,,Restituisci l'oggetto smarrito di HippoGryphonmon.,將失物交給仙鷹獸,,히포그리포몬의 분실물을 전해주자.,Gib HippoGryphonmon das Item zurück.
 2720,,L'oggetto perduto di Turuiemon,兔爺獸的失物,,토리에몬의 분실물,Turuiemons Verlust
 2721,,Turuiemon,兔爺獸,,토리에몬,Turuiemon
-2722,,"L'ho lasciato nella Tana dei
-Demoni. Per favore, ritrovalo!",請幫我找掉在惡魔巢穴的重要物品！,,"데몬즈 아지트에서 떨어뜨린
+2722,,"L'ho lasciato nel Covo dei
+Demons. Per favore, ritrovalo!",請幫我找掉在惡魔巢穴的重要物品！,,"데몬즈 아지트에서 떨어뜨린
 소중한 것을 찾아줘!","Ich habe es in der Demons-Höhle fallen
 gelassen. Bitte finde es!"
-2730,,Incontra il cliente nella Tana dei Demoni.,到惡魔巢穴跟委託人見面,,데몬즈 아지트의 의뢰인을 만나자.,Triff den Klienten in der Demons-Höhle.
-2731,,Esplora la tana dei demoni.,在惡魔巢穴尋找,,데몬즈 아지트의 탐색을 하자.,Durchsuch die Demons-Höhle.
+2730,,Incontra il cliente nel Covo dei Demons.,到惡魔巢穴跟委託人見面,,데몬즈 아지트의 의뢰인을 만나자.,Triff den Klienten in der Demons-Höhle.
+2731,,Esplora il Covo dei Demons.,在惡魔巢穴尋找,,데몬즈 아지트의 탐색을 하자.,Durchsuch die Demons-Höhle.
 2732,,Restituisci l'oggetto smarrito di Turuiemon.,將失物交給兔爺獸,,토리에몬의 분실물을 전해주자.,Gib Turuiemon das Verlorene zurück.
 2740,,L'oggetto perduto di TyrantKabuterimon,暴君比多獸的失物,,타이런트캅테리몬의 분실물,TyrantKabuterimons Verlust
 2741,,Tiranno Kabuterimon,暴君比多獸,,타이런트캅테리몬,TyrantKabuterimon
@@ -2469,12 +2469,12 @@ verloren. Hilf mir bei der Suche!"
 2852,,Restituisci l'oggetto smarrito di Zubamon.,將失物交給茲巴獸,,즈바몬의 분실물을 전해주자.,Gib Zubamon das Verlorene zurück.
 2860,,Oggetto smarrito di ZubaEagermon,兹巴伊戈獸的失物,,즈바이거몬의 분실물,ZubaEagermons Verlust
 2861,,ZubaEagermon,兹巴伊戈獸,,즈바이거몬,ZubaEagermon
-2862,,"L'ho lasciato nella Tana dei
-Demoni. Per favore, ritrovalo!",請幫我找掉在惡魔巢穴的重要物品！,,"데몬즈 아지트에서 떨어뜨린
+2862,,"L'ho lasciato nel Covo dei
+Demons. Per favore, ritrovalo!",請幫我找掉在惡魔巢穴的重要物品！,,"데몬즈 아지트에서 떨어뜨린
 소중한 것을 찾아줘!","Ich habe es in der Demons-Höhle fallen
 gelassen. Bitte finde es!"
-2870,,Incontra il cliente nella Tana dei Demoni.,到惡魔巢穴跟委託人見面,,데몬즈 아지트의 의뢰인을 만나자.,Triff den Klienten in der Demons-Höhle.
-2871,,Esplora la tana dei demoni.,在惡魔巢穴尋找,,데몬즈 아지트의 탐색을 하자.,Durchsuch die Demons-Höhle.
+2870,,Incontra il cliente nel Covo dei Demons.,到惡魔巢穴跟委託人見面,,데몬즈 아지트의 의뢰인을 만나자.,Triff den Klienten in der Demons-Höhle.
+2871,,Esplora il Covo dei Demons.,在惡魔巢穴尋找,,데몬즈 아지트의 탐색을 하자.,Durchsuch die Demons-Höhle.
 2872,,Restituisci l'oggetto smarrito di ZubaEagermon.,將失物交給兹巴伊戈獸,,즈바이거몬의 분실물을 전해주자.,Gib ZubaEagermon das Item zurück.
 2880,,L'oggetto perduto di Duramon,杜蘭獸的失物,,듀라몬의 분실물,Duramons Verlust
 2881,,Duramon,杜蘭獸,,듀라몬,Duramon

@@ -1,88 +1,88 @@
 ID,Japanese,English,Chinese,EnglishCensored,Korean,German
-301,,HP Allega E,HP附件E,,HP어태치 E,TP-Zusatz E
-302,,HP Agg. D,HP附件D,,HP어태치 D,TP-Zusatz D
+301,,HP Allegato E,HP附件E,,HP어태치 E,TP-Zusatz E
+302,,HP Allegato D,HP附件D,,HP어태치 D,TP-Zusatz D
 303,,HP Allegato C,HP附件C,,HP어태치 C,TP-Zusatz C
-304,,HP Attacco B,HP附件B,,HP어태치 B,TP-Zusatz B
-305,,HP Attach A,HP附件A,,HP어태치 A,TP-Zusatz A
-306,,Att. SP E,SP附件E,,SP어태치 E,SP-Zusatz E
-307,,Att. SP D,SP附件D,,SP어태치 D,SP-Zusatz D
-308,,Att. Speciale C,SP附件C,,SP어태치 C,SP-Zusatz C
-309,,Attach. SP B,SP附件B,,SP어태치 B,SP-Zusatz B
-310,,Attacco SP A,SP附件A,,SP어태치 A,SP-Zusatz A
-311,,ATK Aggiunta E,ATK附件E,,ATK어태치 E,ANG-Zusatz E
-312,,ATK Aggancio D,ATK附件D,,ATK어태치 D,ANG-Zusatz D
-313,,ATK Attacco C,ATK附件C,,ATK어태치 C,ANG-Zusatz C
+304,,HP Allegato B,HP附件B,,HP어태치 B,TP-Zusatz B
+305,,HP Allegato A,HP附件A,,HP어태치 A,TP-Zusatz A
+306,,SP Allegato E,SP附件E,,SP어태치 E,SP-Zusatz E
+307,,SP Allegato D,SP附件D,,SP어태치 D,SP-Zusatz D
+308,,SP Allegato C,SP附件C,,SP어태치 C,SP-Zusatz C
+309,,SP Allegato B,SP附件B,,SP어태치 B,SP-Zusatz B
+310,,SP Allegato A,SP附件A,,SP어태치 A,SP-Zusatz A
+311,,ATK Allegato E,ATK附件E,,ATK어태치 E,ANG-Zusatz E
+312,,ATK Allegato D,ATK附件D,,ATK어태치 D,ANG-Zusatz D
+313,,ATK Allegato C,ATK附件C,,ATK어태치 C,ANG-Zusatz C
 314,,ATK Allegato B,ATK附件B,,ATK어태치 B,ANG-Zusatz B
-315,,ATK Allega A,ATK附件A,,ATK어태치 A,ANG-Zusatz A
-316,,ALLEGA Dif. E,DEF附件E,,DEF어태치 E,VER-Zusatz E
-317,,DEF Allega D,DEF附件D,,DEF어태치 D,VER-Zusatz D
-318,,DEF Attacco C,DEF附件C,,DEF어태치 C,VER-Zusatz C
+315,,ATK Allegato A,ATK附件A,,ATK어태치 A,ANG-Zusatz A
+316,,DEF Allegato E,DEF附件E,,DEF어태치 E,VER-Zusatz E
+317,,DEF Allegato D,DEF附件D,,DEF어태치 D,VER-Zusatz D
+318,,DEF Allegato C,DEF附件C,,DEF어태치 C,VER-Zusatz C
 319,,DEF Allegato B,DEF附件B,,DEF어태치 B,VER-Zusatz B
 320,,DEF Allegato A,DEF附件A,,DEF어태치 A,VER-Zusatz A
 321,,INT Allegato E,INT附件E,,INT어태치 E,INT-Zusatz E
-322,,INT Allega D,INT附件D,,INT어태치 D,INT-Zusatz D
-323,,INT Attacca C,INT附件C,,INT어태치 C,INT-Zusatz C
+322,,INT Allegato D,INT附件D,,INT어태치 D,INT-Zusatz D
+323,,INT Allegato C,INT附件C,,INT어태치 C,INT-Zusatz C
 324,,INT Allegato B,INT附件B,,INT어태치 B,INT-Zusatz B
-325,,INT Allega A,INT附件A,,INT어태치 A,INT-Zusatz A
-326,,Allegato SPD,SPD附件E,,SPD어태치 E,GES-Zusatz E
-327,,SPD Attach D,SPD附件D,,SPD어태치 D,GES-Zusatz D
-328,,Attach SPD C,SPD附件C,,SPD어태치 C,GES-Zusatz C
+325,,INT Allegato A,INT附件A,,INT어태치 A,INT-Zusatz A
+326,,SPD Allegato E,SPD附件E,,SPD어태치 E,GES-Zusatz E
+327,,SPD Allegato D,SPD附件D,,SPD어태치 D,GES-Zusatz D
+328,,SPD Allegato C,SPD附件C,,SPD어태치 C,GES-Zusatz C
 329,,SPD Allegato B,SPD附件B,,SPD어태치 B,GES-Zusatz B
-330,,SPD Attach A,SPD附件A,,SPD어태치 A,GES-Zusatz A
-331,,COLPISCI Allegato C,HIT附件C,,HIT어태치 C,TRE-Zusatz C
-332,,COLPO Allega B,HIT附件B,,HIT어태치 B,TRE-Zusatz B
-333,,COLPO Attacco A,HIT附件A,,HIT어태치 A,TRE-Zusatz A
-334,,Attacco AGL C,AGL附件C,,AGL어태치 C,GEW-Zusatz C
-335,,AGL Attach B,AGL附件B,,AGL어태치 B,GEW-Zusatz B
-336,,Aggiunta A AGL,AGL附件A,,AGL어태치 A,GEW-Zusatz A
-337,,CRT Aggancio C,CRT附件C,,CRT어태치 C,KRT-Zusatz C
-338,,Accessorio CRT B,CRT附件B,,CRT어태치 B,KRT-Zusatz B
-339,,CRT Attacca A,CRT附件A,,CRT어태치 A,KRT-Zusatz A
+330,,SPD Allegato A,SPD附件A,,SPD어태치 A,GES-Zusatz A
+331,,HIT Allegato C,HIT附件C,,HIT어태치 C,TRE-Zusatz C
+332,,HIT Allegato B,HIT附件B,,HIT어태치 B,TRE-Zusatz B
+333,,HIT Allegato A,HIT附件A,,HIT어태치 A,TRE-Zusatz A
+334,,AGL Allegato C,AGL附件C,,AGL어태치 C,GEW-Zusatz C
+335,,AGL Allegato B,AGL附件B,,AGL어태치 B,GEW-Zusatz B
+336,,AGL Allegato A,AGL附件A,,AGL어태치 A,GEW-Zusatz A
+337,,CRT Allegato C,CRT附件C,,CRT어태치 C,KRT-Zusatz C
+338,,CRT Allegato B,CRT附件B,,CRT어태치 B,KRT-Zusatz B
+339,,CRT Allegato A,CRT附件A,,CRT어태치 A,KRT-Zusatz A
 340,,Disco Energetico,活力光碟,,에너지 디스크,Energiedisc
-341,,Disco allegro,愉悅光碟,,치어풀 디스크,Lachdisc
+341,,Disco Allegro,愉悅光碟,,치어풀 디스크,Lachdisc
 342,,Disco Resistente,堅毅光碟,,터프 디스크,Zähe Disc
-343,,Disco dell'Anima,靈魂光碟,,소울 디스크,Seelendisc
-344,,Disco di carica,突擊光碟,,차지 디스크,Sturmdisc
+343,,Disco Anima,靈魂光碟,,소울 디스크,Seelendisc
+344,,Disco Carica,突擊光碟,,차지 디스크,Sturmdisc
 345,,Disco dell'Oracolo,神諭光碟,,오라클 디스크,Orakeldisc
 346,,Disco Mentale,意志光碟,,마인드 디스크,Bewusstseinsdisc
-347,,Disco del Mago,法師光碟,,메이지 디스크,Magierdisc
-348,,Disco del Ladro,盜賊光碟,,시프 디스크,Diebesdisc
+347,,Disco Mago,法師光碟,,메이지 디스크,Magierdisc
+348,,Disco Ladro,盜賊光碟,,시프 디스크,Diebesdisc
 349,,Disco Combattente,戰士光碟,,파이터 디스크,Kämpferdisc
-350,,Disco del Saggio,賢者光碟,,세이지 디스크,Weisendisc
+350,,Disco Saggio,賢者光碟,,세이지 디스크,Weisendisc
 351,,Disco Assassino,刺客光碟,,어쌔신 디스크,Meuchelmörderdisc
-352,,Bishop Disk,主教光碟,,비숍 디스크,Bischofsdisc
+352,,Bishop Disc,主教光碟,,비숍 디스크,Bischofsdisc
 353,,Disco Monaco,僧侶光碟,,몽크 디스크,Mönchsdisc
 354,,Disco Spirituale,神靈光碟,,스피릿 디스크,Geistdisc
 355,,Disco Ranger,遊俠光碟,,레인저 디스크,Waldläuferdisc
 356,,Disco Piumato,輕羽光碟,,페더 디스크,Federdisc
 357,,Disco Gladiatore,劍鬥士光碟,,글래디에이터 디스크,Gladiatorendisc
-358,,Master Disk,大師光碟,,마스터 디스크,Meisterdisc
-359,,Difesa dal Fuoco,火之守護者,,플레어 가드,Flammendeckung
-360,,Difesa di Fuoco DX,火之守護者DX,,플레어 가드 DX,Flammendeckung DX
-361,,Aqua Guard,水之守護者,,아쿠아 가드,Wasserdeckung
-362,,Guardia d'Acqua DX,水之守護者DX,,아쿠아 가드 DX,Wasserdeckung DX
-363,,Guardia Vegetale,木之守護者,,플랜트 가드,Pflanzendeckung
-364,,Guardia Pianta DX,木之守護者DX,,플랜트 가드 DX,Pflanzendeckung DX
+358,,Master Disc,大師光碟,,마스터 디스크,Meisterdisc
+359,,Protezione Fuoco,火之守護者,,플레어 가드,Flammendeckung
+360,,Protezione Fuoco DX,火之守護者DX,,플레어 가드 DX,Flammendeckung DX
+361,,Protezione Acqua,水之守護者,,아쿠아 가드,Wasserdeckung
+362,,Protezione Acqua DX,水之守護者DX,,아쿠아 가드 DX,Wasserdeckung DX
+363,,Protezione Erba,木之守護者,,플랜트 가드,Pflanzendeckung
+364,,Protezione Erba DX,木之守護者DX,,플랜트 가드 DX,Pflanzendeckung DX
 365,,Protezione Elettrica,雷之守護者,,일렉트릭 가드,Elektrodeckung
-366,,Guardia Elettrica DX,雷之守護者DX,,일렉트릭 가드 DX,Elektrodeckung DX
-367,,Guardia di Sabbia,土之守護者,,샌드 가드,Sanddeckung
-368,,Guardia di Sabbia DX,土之守護者DX,,샌드 가드 DX,Sanddeckung DX
-369,,Scudo di Vento,風之守護者,,윈드 가드,Winddeckung
+366,,Protezione Elettrica DX,雷之守護者DX,,일렉트릭 가드 DX,Elektrodeckung DX
+367,,Protezione Terra,土之守護者,,샌드 가드,Sanddeckung
+368,,Protezione Terra DX,土之守護者DX,,샌드 가드 DX,Sanddeckung DX
+369,,Protezione Vento,風之守護者,,윈드 가드,Winddeckung
 370,,Protezione Vento DX,風之守護者DX,,윈드 가드 DX,Winddeckung DX
-371,,Guardia Luminosa,光之守護者,,샤인 가드,Lichtdeckung
-372,,Shine Guard DX,光之守護者DX,,샤인 가드 DX,Lichtdeckung DX
-373,,Guardia Oscura,闇之守護者,,다크 가드,Dunkeldeckung
-374,,Guardia Oscura DX,闇之守護者DX,,다크 가드 DX,Dunkeldeckung DX
+371,,Protezione Luce,光之守護者,,샤인 가드,Lichtdeckung
+372,,Protezione Luce DX,光之守護者DX,,샤인 가드 DX,Lichtdeckung DX
+373,,Protezione Oscura,闇之守護者,,다크 가드,Dunkeldeckung
+374,,Protezione Oscura DX,闇之守護者DX,,다크 가드 DX,Dunkeldeckung DX
 375,,Protezione Anti-Disturbo,雜訊守護者,,노이즈 가드,Lärmdeckung
-376,,Difesa Rumore DX,雜訊守護者DX,,노이즈 가드 DX,Lärmdeckung DX
-377,,Guardia Suprema,萬能守護者,,마스터 가드,Meisterdeckung
+376,,Protezione Rumore DX,雜訊守護者DX,,노이즈 가드 DX,Lärmdeckung DX
+377,,Protezione Suprema,萬能守護者,,마스터 가드,Meisterdeckung
 378,,Barriera Velenosa,劇毒屏障,,포이즌 배리어,Giftbarriere
 379,,Barriera Veleno DX,劇毒屏障DX,,포이즌 배리어 DX,Giftbarriere DX
 380,,Barriera Anti-Panico,混亂屏障,,패닉 배리어,Panikbarriere
-381,,Barriera di Panico DX,混亂屏障DX,,패닉 배리어 DX,Panikbarriere DX
+381,,Barriera Panico DX,混亂屏障DX,,패닉 배리어 DX,Panikbarriere DX
 382,,Barriera Paralisi,麻痺屏障,,패럴라이즈 배리어,Lähmungsbarriere
 383,,Barriera Paralisi DX,麻痺屏障DX,,패럴라이즈 배리어 DX,Lähmungsbarriere DX
-384,,Barriera del Sonno,睡眠屏障,,슬립 배리어,Schlafbarriere
+384,,Barriera Sonno,睡眠屏障,,슬립 배리어,Schlafbarriere
 385,,Barriera Sonno DX,睡眠屏障DX,,슬립 배리어 DX,Schlafbarriere DX
 386,,Barriera Stordente,暈眩屏障,,스턴 배리어,Betäubungsbarriere
 387,,Barriera Stordente DX,暈眩屏障DX,,스턴 배리어 DX,Betäubungsbarr. DX
@@ -93,7 +93,7 @@ ID,Japanese,English,Chinese,EnglishCensored,Korean,German
 392,,Barriera Mortale,即死屏障,,데스 배리어,Todesbarriere
 393,,Barriera Mortale DX,即死屏障DX,,데스 배리어 DX,Todesbarriere DX
 394,,Barriera Master,萬能屏障,,마스터 배리어,Meisterbarriere
-395,,CAM USB,友情的USB,,우정의 USB,KAM-USB
+395,,USB CAM,友情的USB,,우정의 USB,KAM-USB
 396,,USB Ninja,忍者的USB,,닌자의 USB,Ninja-USB
 397,,USB del Tattico,軍師的USB,,군사의 USB,Taktiker-USB
 398,,USB Miliardaria,億萬富翁的USB,,억만장자의 USB,Milliardärs-USB
@@ -155,11 +155,11 @@ ID,Japanese,English,Chinese,EnglishCensored,Korean,German
 14301,,Fungo Dorato,金色菇,,금버섯,Goldener Pilz
 12101,,Cappello di Babbo Natale,聖誕帽,,산타 모자,Weihnachtsmannmütze
 12102,,Cappello da Babbo Natale Nero,黑聖誕帽,,블랙 산타 모자,Weihnachtsmannm. (s)
-12103,,Cappello da Babbo Natale verde,綠聖誕帽,,그린 산타 모자,Weihnachtsmannm. (g)
-14401,,Cassa Regali (W),禮物盒【白】,,선물 상자(백),Weißes Geschenk
-14402,,Scatola Regali (R),禮物盒【紅】,,선물 상자(적),Rotes Geschenk
-14501,,Scatola Regalo (G),禮物盒【金】,,선물 상자(금),Goldenes Geschenk
-12201,,Corona del Re,國王王冠,,킹 크라운,Königskrone
+12103,,Cappello da Babbo Natale Verde,綠聖誕帽,,그린 산타 모자,Weihnachtsmannm. (g)
+14401,,Cassa Regali,禮物盒【白】,,선물 상자(백),Weißes Geschenk
+14402,,Scatola Regali,禮物盒【紅】,,선물 상자(적),Rotes Geschenk
+14501,,Scatola Regalo,禮物盒【金】,,선물 상자(금),Goldenes Geschenk
+12201,,Corona Re,國王王冠,,킹 크라운,Königskrone
 12301,,Corona Dorata,金色王冠,,금왕관,Goldene Krone
 12302,,Corona Argentea,銀色王冠,,은왕관,Silberne Krone
-12303,,Corona di Bronzo,銅色王冠,,구리왕관,Bronzene Krone
+12303,,Corona Bronzo,銅色王冠,,구리왕관,Bronzene Krone

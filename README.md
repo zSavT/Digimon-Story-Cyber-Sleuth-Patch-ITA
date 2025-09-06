@@ -60,18 +60,22 @@ Le percentuali quì sotto fanno riferimento alla revisione manuale dei testi, la
 
 # Milestone prossima versione (1.5)
 
-- [ ] Terminare interamente la revisione Storia Cyber Sleuth.
+- [x] Terminare interamente la revisione Storia Cyber Sleuth.
 - [ ] Iniziare revisione Hacker's Memory sistemando la sola formattazione nei testi tagliati.
-- [ ] Utilizzare termine Eater al posto di Divoratore.
-- [ ] Correzione testi con doppi genere indicati.
-- [ ] Revisione Box Dialoghi NPC.
-- [ ] Revisione DigiLine Parte 4.
-- [ ] Revisione Quest Parte 4
+- [x] Correzione testi con doppi genere indicati.
+- [x] Revisione Box Dialoghi NPC.
+- [x] Revisione DigiLine Parte 4.
+- [x] Revisione Quest Parte 4
 - [ ] Revisione DigiBook Parte 3
-- [ ] Correggere correttamente il termini "Tamer".
-- [ ] Correzione testi o miglioramenti vari da segnalazioni utenti dirette e indirette.
-- [ ] Revisione nomi e descrizione mosse Digimon.
-- [ ] Revisione dei testi dei menu di gioco e impostazioni.
+- [x] Utilizzare termine Eater al posto di Divoratore.
+- [x] Utilizzare correttamente il termine "Tamer".
+- [x] Utilizzare correttamente il termine "Demons".
+- [x] Correzione testi o miglioramenti vari da segnalazioni utenti dirette e indirette.
+- [x] Revisione nomi e descrizione oggetti.
+- [x] Revisione nomi e descrizione mosse Digimon.
+- [x] Revisione dei testi dei menu di gioco e impostazioni.
+- [ ] Correzione texture.
+- [ ] Traduzione nuove texture.
 
 La lista dell'userStory è presente [qui](https://github.com/zSavT/Digimon-Story-Cyber-Sleuth-Patch-ITA/milestone/4).
 
@@ -160,10 +164,18 @@ Altri menu sono:
   - La lunghezza **massima è 50 caratteri** (51 se vogliamo inserire anche un carrattere punto o, se proprio necessario, un ulteriore carattere per non interrompere una parola).
 ![Immagine](./img/Quest.jpg)
 
-Altri menu di gioco, come per esempio le descrizioni degli oggetti, possono essere visualizzati da interfacce differenti con dimensioni differenti, ma il testo originale è lo stesso, quindi non si può precisare la dimensione massima, in questi casi, si segue la formattazione originale.<p>
+Altri menu di gioco, come per esempio le descrizioni degli oggetti, possono essere visualizzati da interfacce differenti con dimensioni differenti, ma il testo originale è lo stesso, quindi non si può precisare la dimensione massima, in questi casi, è preferibile seguire la formattazione originale.<p>
 **NOTA BENE**
 
 Anche la dimensioni dei singoli caratteri nel font utilizzato può influire sul limite dei caratteri massimi.
+
+In ogni caso:
+- **Lista Oggetti - Menu Oggetti**
+  - La lunghezza **massima è 55 caratteri** (56 se vogliamo inserire anche un carrattere punto o, se proprio necessario, un ulteriore carattere per non interrompere una parola).
+![Immagine](./img/Oggetto1.jpg)
+- **Lista Oggetti - Menu Battaglia**
+  - La lunghezza **massima è 48 caratteri** (49 se vogliamo inserire anche un carrattere punto o, se proprio necessario, un ulteriore carattere per non interrompere una parola).
+![Immagine](./img/Oggetto2.jpg)
 
 ## Modifica delle texture
 

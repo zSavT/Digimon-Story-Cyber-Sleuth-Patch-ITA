@@ -14,14 +14,13 @@ Gute Idee, aber leichter gesagt, als getan."
 5,4845,,"Dovresti arrenderti, finché puoi ancora.",你最好住手。,,…그만두시는 편이 좋습니다,"Du solltest aufgeben, solange du es noch kannst."
 6,3002,,Oh... [p]?!,噫……[p]！？,,힉… [p]!?,Huch ... [p]?!
 7,4845,,"Il tuo corpo semi-digitale era instabile e
-fu danneggiato da ripetuti contatti con i
-Eater.","[p]的半電腦體原本就不安定，
+fu danneggiato da ripetuti contatti con i Eater.","[p]的半電腦體原本就不安定，
 更因為反覆和侵食者“接觸”，正急遽惡化。",,"애초에 불안정했던 [p] 씨의 반 전뇌체는,
 잦은 이터와의 ""접촉""에 의해 급격히 상태가 나빠졌습니다","Dein halb digitaler Körper war instabil und wurde
 durch wiederholten Kontakt mit Verschlingern
 beschädigt."
-8,4845,,"Immagino che il tuo Salto di Connessione a Yuugo poco
-fa abbia causato gravi danni.","由於剛才對勇吾的登入跳躍——
+8,4845,,"Immagino che il tuo Salto di Connessione a
+Yuugo poco fa abbia causato gravi danni.","由於剛才對勇吾的登入跳躍——
 你應該受了嚴重的傷害。",,"방금 전의, 유고 군을 구하기 위한 커넥트 점프로―
 당신은 심각한 대미지를 입었을 터","Ich schätze, dein Verbindungssprung zu Yuugo vorhin hat
 schweren Schaden angerichtet."
@@ -33,9 +32,8 @@ saranno prima inutilizzabili e poi cancellati.","下一次，光是接觸就會�
 붕괴하여, 소멸하겠지요","Mit dem nächsten Kontakt werden die verbleibenden
 Daten erst unbrauchbar und dann gelöscht."
 12,1416,,Questo faceva tutto parte del suo piano.,那也是……你算計好的嗎？,,그것도… 계산해 뒀다는 건가,Das gehörte alles zu seinem Plan.
-13,3005,,"Argh! È proprio per questo che non
-possiamo fidarci degli adulti!
-Fermo, [p]! Non rischiare!","呿！就是因為這樣，我無法相信大人！
+13,3005,,"Argh! È proprio per questo che non possiamo fidarci
+degli adulti! Fermo, [p]! Non rischiare!","呿！就是因為這樣，我無法相信大人！
 [p]，住手吧！不要勉強！",,"칫! 이래서 어른은 신용할 수 없다고
 [p], 그만 둬! 무리하지 마!","Argh! Genau deshalb können wir Erwachsenen
 nicht vertrauen! Halt, [p]!
@@ -47,30 +45,26 @@ qualcosa di grande e traumatico! Vero?","對呀！要是你在這邊消失的話
 Großes und Traumatisches! Stimmt’s?"
 15,3002,,Da questo... non ci riprenderemmo più...,要是那樣子……或許我們這次真的會恢復不了……,,"그렇게 되면… 우리들, 이번에야말로 다시 일어설 수 없을지도…",Davon ... würden wir uns nicht mehr erholen ...
 16,3002,,"Inoltre abbiamo promesso che saremmo tornati a
-casa tutti e cinque insieme! Che sia
-chiaro, testone!","而且不是約好要五個人一起回去嗎！？
+casa tutti e cinque insieme! Che sia chiaro, testone!","而且不是約好要五個人一起回去嗎！？
 懂了嗎，你這傢伙！",,"그보다, 5명이서 다 같이 돌아가겠다고 약속했고!?
 알고 있습니까, 이 자식아―!?","Außerdem haben wir versprochen, dass wir alle fünf
 zusammen heimkommen! Damit das klar ist,
 du Blödkopf!"
-17,3003,,"Sì, è vero. Nokia ha
-ragione. Se non siamo in cinque, la
-missione è fallita.","是呀……確實如此。
+17,3003,,"Sì, è vero. Nokia ha ragione.
+Se non siamo in cinque, la missione è fallita.","是呀……確實如此。
 要是無法五個人一起回去的話，就是“作戰失敗”了……",,"그러, 네요… 그 말대로예요
 5명이서 다 같이 돌아가지 않으면 ""작전 실패""…","Ja, das stimmt. Nokia hat recht.
 Wenn wir nicht zu fünft sind, ist die Mission
 gescheitert."
-18,3003,,"Odio i fallimenti. Non riesco
-proprio a gestirli. Quindi, per favore, non
-farci questo, [p].","我最怕失敗之類的……最討厭了。
+18,3003,,"Odio i fallimenti. Non riesco proprio a gestirli.
+Quindi, per favore, non farci questo, [p].","我最怕失敗之類的……最討厭了。
 真的饒了我吧，[p]。",,"실패라던가 그런 거, 저, 질색이니까… 싫으니까
 정말 봐 주세요, [p] 씨","Ich hasse Fehlschläge. Ich kann damit
 gar nicht umgehen. Also bitte, tu uns
 das nicht an, [p]."
 19,2000,,?,！？,,…!?,?
-20,3005,,"Cosa ne pensi,
-Yuugo? Riesci a rincarare la dose al dramma
-delle ragazze?","怎樣，勇吾？這毫無女人味的對話，
+20,3005,,"Cosa ne pensi, Yuugo?
+Riesci a rincarare la dose al dramma delle ragazze?","怎樣，勇吾？這毫無女人味的對話，
 你有辦法附和嗎？",,"…어때 유고, 이 여성스러움이 눈곱만큼도 없는 대화
 따라갈 수 있겠어?","Was meinst du, Yuugo?
 Kannst du dem Drama der Mädels noch eins
@@ -84,14 +78,14 @@ Was soll ich da noch sagen?"
 23,3005,,"Ti capisco, certo!
 Capisco perfettamente che sei confuso!",我懂！我懂！這種困惑的感覺！,,"알아! 잘 알아, 그 망설이는 느낌!","Ich verstehe dich ja!
 Ich verstehe total, dass du verwirrt bist!"
-24,3005,,"Mio caro compagno! Almeno uno mantiene la
-testa lucida! Mi verrebbe da piangere di gioia!","不愧是摯友，你的神經正常，我真的……
+24,3005,,"Mio caro compagno! Almeno uno mantiene la testa lucida!
+Mi verrebbe da piangere di gioia!","不愧是摯友，你的神經正常，我真的……
 高興得快要哭出來了啊！",,"역시 친구, 너의 신경이 정상이라서, 나, 진짜로…
 울 정도로 기쁜데!?","Mein lieber Kumpel! Wenigstens einer behält einen
 klaren Kopf! Da könnte ich ja heulen vor Freude!"
 25,3036,,Ah! Haha! Hahaha!,哈、哈哈……哈哈哈……,,"하, 하하… 하하하…",Ha! Haha! Hahaha!
-26,4845,,"Finalmente posso ricreare il
-mondo. Eliminare tutto ciò che è brutto o triste!","如此……如此一來，終於能重新構築世界……
+26,4845,,"Finalmente posso ricreare il mondo.
+Eliminare tutto ciò che è brutto o triste!","如此……如此一來，終於能重新構築世界……
 可以消除扭曲、醜陋、
 令人悲傷的東西了！",,"이로써… 이로써 드디어, 세계를 재구축할 수 있어…
 일그러진 것이나 추한 것, 슬픈 것을… 없앨 수 있어…!","Endlich kann ich die Welt neu erschaffen.
@@ -103,32 +97,28 @@ Alles abschaffen, was hässlich oder traurig ist!"
 그것도, 선택할 수 있는 미래 중 하나다","Die neue Welt, die Suedou sich wünscht ...
 Ist ein möglicher Weg für die Zukunft."
 29,1416,,"Potrebbe salvare tutti i mondi.
-Sento Re Drasil stesso e la sua volontà in
-lui.","他應該是想拯救所有世界吧。
+Sento Re Drasil stesso e la sua volontà in lui.","他應該是想拯救所有世界吧。
 我可以感受到，在他體內有世界樹的存在和意志……",,"그는, 모든 세계를 구하겠지
 그의 안에서, 위그드라실의 존재와 의지가 느껴진다…","Womöglich wird er alle Welten retten.
 Ich spüre König Drasil selbst und seinen Willen in
 ihm."
-30,1416,,"Re Drasil avrebbe creato con forze unite
-un mondo perfetto, ancora più bello persino del
-nostro Mondo Digitale.","如果是他，應該會和那股力量共存，
+30,1416,,"Re Drasil avrebbe creato con forze unite un mondo perfetto,
+ancora più bello persino del nostro Mondo Digitale.","如果是他，應該會和那股力量共存，
 創造出超越數碼世界的「完美世界」吧。",,"그라면, 그 힘과 공존하여
 디지털 월드를 뛰어넘는「완전한 세계」를 만들어 내겠지","König Drasil würde mit vereinten Kräften eine
 perfekte Welt erschaffen, schöner noch als selbst
 unsere Digitale Welt."
 31,1416,,"Molto cambierebbe... Questa evoluzione
-avverrebbe con la forza, ma creerebbe anche
-nuova vita.","許多的改變——就是逼迫世界進行他所說的進化。
+avverrebbe con la forza, ma creerebbe anche nuova vita.","許多的改變——就是逼迫世界進行他所說的進化。
 而所謂的創造，往往就是這回事。",,"많은 개변― 그가 말하는 진화를, 세계에 강요함으로써 말이지
 그러나, 창조란 때때로 이런 것이지","Viel würde sich ändern ... Diese Evolution würde
 gewaltsam stattfinden, aber auch neues Leben
 erschaffen."
-32,1416,,"Forse è il mio compito supervisionare
-questo processo.",以我的任務而言，也可以眼睜睜地看著那樣的結局。,,"내 역할로서는, 그 결말을 지켜보는 것도 가능하다","Vielleicht ist es meine Aufgabe, diesen Vorgang
+32,1416,,"Forse è il mio compito supervisionare questo processo.",以我的任務而言，也可以眼睜睜地看著那樣的結局。,,"내 역할로서는, 그 결말을 지켜보는 것도 가능하다","Vielleicht ist es meine Aufgabe, diesen Vorgang
 zu überwachen."
 33,1416,,Ma...,不過——,,하지만――,Aber ...
-34,1416,,"Cosa ne
-pensate? Cosa dovrei fare secondo voi?","你們又如何呢？
+34,1416,,"Cosa ne pensate?
+Cosa dovrei fare secondo voi?","你們又如何呢？
 你們想怎麼做？",,"너희들은 어떻지?
 너희들은 어떻게 하고 싶나?","Was denkt ihr denn?
 Was soll ich eurer Meinung nach tun?"
@@ -138,27 +128,24 @@ migliore delle ipotesi spiacevole.","生活在口出狂言的人所創造出的�
 說實在的，感覺很噁心。",,"광언자가 만들어 낸 세계에서 살아간다니…
 솔직히, 기분 나빠요","In der Welt eines Wahnsinnigen zu leben,
 wäre bestenfalls unangenehm."
-37,3005,,"Combattiamo contro di
-lui! Possiamo farcela!",嗯，上吧！如果是現在的我們，一定辦得到！,,"그래, 해 주자고! 지금의 우리들이라면 반드시 할 수 있어…!","Lasst uns gegen ihn kämpfen!
+37,3005,,"Combattiamo contro di lui! Possiamo farcela!",嗯，上吧！如果是現在的我們，一定辦得到！,,"그래, 해 주자고! 지금의 우리들이라면 반드시 할 수 있어…!","Lasst uns gegen ihn kämpfen!
 Wir können es schaffen!"
 38,3002,,"Sì, andrà tutto bene! Vero, Omnimon?",嗯嗯，總會有辦法的！奧米加獸，是吧？,,"그래그래, 어떻게든 될 거라고! 그렇지, 오메가몬?","Ja, das wird schon alles! Stimmt’s, Omnimon?"
-39,1416,,"Va
-bene. Lasciatemi chiedere un'ultima volta.","他們是這樣說的。
+39,1416,,"Va bene. Lasciatemi chiedere un'ultima volta.","他們是這樣說的。
 那麼，我再問你一次吧。",,"…그렇다는군
 그럼, 다시 묻겠다","Nun gut.
 Lasst mich ein letztes Mal fragen."
 40,1416,,Cosa farete?,你要怎麼做？,,"넌, 어떻게 하겠나?",Was werdet ihr tun?
-41,2000,,"Ferma Suedou! A
-parte quella di Dvorak, non ci serve un nuovo
-mondo! Ora sono un dio! Era solo uno scherzo...","STOP・THE・末堂！
+41,2000,,"Ferma Suedou! A parte quella di Dvorak, non ci serve un nuovo mondo!
+Ora sono un dio! Era solo uno scherzo...","STOP・THE・末堂！
 新世界什麼的，有德弗札克就夠了！
 我才是神！騙人的，對不起。",,"스톱 더 스에도!
 신세계는, 드보르작 씨의 교향곡만으로 충분함다!
 내가 신이다!  …장난입니다 죄송합니다","Suedou aufhalten!
 Außer der von Dvorak brauchen wir keine neue Welt!
 Ich bin jetzt ein Gott! War nur ein Scherz ..."
-42,1416,,"Il verdetto è stato
-pronunciato! O umani, mi piego al vostro volere!","審判已經完成了！
+42,1416,,"Il verdetto è stato pronunciato!
+O umani, mi piego al vostro volere!","審判已經完成了！
 人類的孩子們呀，跟隨自己的意志！",,"심판은 내려졌다!
 인간의 아이들이여, 스스로의 의지에 따라라!","Das Urteil ist gefällt!
 Menschenkinder, ich beuge mich eurem Willen!"

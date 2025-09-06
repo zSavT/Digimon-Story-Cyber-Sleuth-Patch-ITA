@@ -10,7 +10,8 @@ umsonst.     "
 3,3005,,...,…………,,……읏,...
 4,3009,,Come stai?,感覺如何？,,기분은 어떠신가요?,Wie geht es dir?
 5,3005,,"Io...
-Cosa...? Yuugo!","我、是……我是……
+Cosa...?
+Yuugo!","我、是……我是……
 怎麼會……！“勇吾”……！",,"…나, 는… 나는……
 그런…! ""유고""…!","Ich ...
 Was zum ...?! Yuugo!"
@@ -25,8 +26,8 @@ Bin immer noch nur ein Typ, der es nicht
 schafft, andere zu beschützen!"
 9,3009,,Arata ... Sei triste ora?,啊啊，新……你現在很悲傷吧？,,"아아, 아라타 군… 지금 당신은 슬픈 거군요?",Arata ... Bist du jetzt traurig?
 10,3005,,...,…………,,…………,...
-11,3009,,"Va tutto bene. Presto la tua tristezza
-sarà svanita per sempre.","但已經沒事了，
+11,3009,,"Va tutto bene.
+Presto la tua tristezza sarà svanita per sempre.","但已經沒事了，
 悲傷的事情很快就會消失。",,"하지만, 이제 괜찮습니다
 이제 곧 슬픈 일은 전부 사라질 겁니다","Es ist alles in Ordnung. Bald wird deine Trauer
 für immer verflogen sein."
@@ -44,15 +45,14 @@ Siamo amici già da tanto tempo.","很替我擔心吧？我知道喔！
 再怎麼說，我都認識你這麼久了。",,"…걱정해 주고 있는 거지? 알아
 어쨌든 꽤 오래 알고 지낸 사이니까, 댁하고는…","Du machst dir Sorgen um mich? Verstehe schon.
 Wir sind jetzt schon lange Freunde."
-18,3005,,"Ma ho ancora un grande compito
-davanti a me. E per riuscirci...","但是，我想起來我還留有很大的課題……
+18,3005,,"Ma ho ancora un grande compito davanti a me.
+E per riuscirci...","但是，我想起來我還留有很大的課題……
 為了解決那個課題……",,"하지만, 커다란 숙제가 남아 있다는 걸 기억해냈어…
 그걸 정리하기 위해서는…","Aber ich habe immer noch eine große Aufgabe vor
 mir. Und um die zu schaffen ..."
 19,3005,,... devo diventare più forte.,我需要力量！,,――힘이 필요해,... muss ich stärker werden.
 20,3009,,"Ben detto, Arata! Ho rispetto per i tuoi
-nobili obiettivi e il tuo coraggio di cambiare!
-Hehe!","真不愧是新！
+nobili obiettivi e il tuo coraggio di cambiare! Hehe!","真不愧是新！
 你那不害怕變化的崇高精神真值得尊敬！
 呵呵！",,"역시 아라타 군!
 변화를 두려워하지 않는 당신의 숭고한 정신은 존경할 만합니다!
@@ -60,8 +60,8 @@ Hehe!","真不愧是新！
 hehren Zielen und deinem Mut zur Veränderung!
 Hehe!"
 21,3009,,"Sei perfettamente adatto per questa nuova
-fase nell'evoluzione umana! Non c'è
-niente che non puoi raggiungere!","你才有資格完成全新進化的新人類！
+fase nell'evoluzione umana!
+Non c'è niente che non puoi raggiungere!","你才有資格完成全新進化的新人類！
 只要你想，想要多少力量就能有多少！",,"당신이야말로! 새로운 진화를 이룰 신 인류에 어울립니다!
 당신이 바라면, 힘 따위 원하는 만큼 얻을 수 있겠지요!","Du bist für diese neue Phase in der menschlichen
 Evolution perfekt geeignet! Es gibt nichts,
@@ -72,8 +72,8 @@ was du nicht erreichen kannst!"
 사나다 아라타","Arata Sanada, ist das wirklich dein Wunsch?"
 24,2000,,...?!,！？,,―!?,...?!
 25,3005,,Kyoko? Cosa ci fai qui?,杏、杏子姊……？妳為什麼會在這……？,,"쿄, 쿄코 씨…? 어째서 이곳에…?",Kyoko? Was machst du denn hier?
-26,3009,,"Chi sei? Potresti per favore
-lasciarci in pace? Lui ha già deciso!","妳是怎樣……？請不要妨礙我！
+26,3009,,"Chi sei? Potresti per favore lasciarci in pace?
+Lui ha già deciso!","妳是怎樣……？請不要妨礙我！
 他已經決定他該走的路了！",,"뭔가요 당신은…? 방해하지 말아 주시지요!
 그는 이미 갈 길을 정했습니다!","Wer bist du? Könntest du uns bitte in Frieden
 lassen? Er hat sich bereits entschieden!"
@@ -85,8 +85,8 @@ che determinano il regolamento del mondo!","能改寫“萬物的法則（程式
 die das Regelwerk der Welt bestimmen!"
 29,3009,,E questo è solo un piccolo assaggio.,雖然力量還很微弱。,,"…아직 약하긴, 하지만요",Und das ist nur ein kleiner Vorgeschmack.
 30,3006,,...,…………,,………,...
-31,3005,,"Mi
-dispiace. La decisione è presa. Me ne vado.","抱歉……
+31,3005,,"Mi dispiace.
+La decisione è presa. Me ne vado.","抱歉……
 不好意思，我要走啦。",,"…미안해
 미안하지만 나, 갈게","Tut mir leid.
 Die Entscheidung steht fest. Ich gehe."
@@ -95,8 +95,8 @@ Die Entscheidung steht fest. Ich gehe."
 34,3005,,Rimpiango qualcosa da tutto questo tempo.,要說後悔的話……我一直在後悔。,,후회라면… 이미 계속 하고 있었어,Ich bereue schon die ganze Zeit etwas.
 35,2000,,...!,……！！,,……!!,...!
 36,3006,,No!,算了！,,그만 둬!,Nicht!
-37,3006,,"Lui ha una forte
-volontà. Ormai è fatica sprecata.","他的決心很堅定，
+37,3006,,"Lui ha una forte volontà.
+Ormai è fatica sprecata.","他的決心很堅定，
 現在說什麼都沒用。",,"…그의 결의는 확고해
 지금은, 무슨 말을 해도 소용없어","Er hat einen starken Willen.
 Das ist jetzt vergebene Liebesmüh."
@@ -109,9 +109,8 @@ Antworte mir als mein Hilfsdetektiv."
 40,2000,,...,……,,………,...
 41,2000,,Lentamente ma sicuramente trovare una soluzione fulminea!,貫徹到底，不急不躁，火速將事件全面解決！,,"철두철미, 서두르지 말고 안달하지 말고, 맹 스피드로 사건을 전면해결!",Langsam aber sicher blitzschnell eine Lösung finden!
 42,3006,,Non capisco una parola...,雖然完全不懂你的意思……,,전혀 의미를 모르겠지만…,Ich verstehe kein Wort ...
-43,3006,,"Ma questa risposta ti si addice
-bene. Vediamo un po' a quale conclusione
-arriviamo con questo, hmm?","但很像你會回答的答案，
+43,3006,,"Ma questa risposta ti si addice bene.
+Vediamo un po' a quale conclusione arriviamo con questo, hmm?","但很像你會回答的答案，
 這個答案會帶領你到怎樣的結局？就讓我來確認一下吧。",,"너다운 대답이긴 하군
 그 대답이 어떤 결말을 이끌지, 확인하도록 하겠다","Aber diese Antwort passt gut zu dir.
 Schauen wir mal, zu welcher Schlussfolgerung
@@ -123,6 +122,5 @@ Torniamo all'ufficio.","現在就算窮追不捨也沒有意義，
 Gehen wir zurück ins Büro."
 45,3006,,Un magnifico caffè ci aspetta.,頂級的咖啡正在等著我們。,,"…극상의 커피가, 우리들을 기다리고 있다",Ein herrlicher Kaffee wartet auf uns.
 46,2000,,!!!,！！！！,,!!!!,!!!
-47,3006,,"Tuttavia, non avremo tempo per
-goderci.",雖說如此，但應該沒有時間慢慢品嚐了吧。,,"하지만, 느긋하게 맛 볼 시간은 없겠지만 말이야","Allerdings werden wir keine Zeit zum Genießen
+47,3006,,"Tuttavia, non avremo tempo per godercelo.",雖說如此，但應該沒有時間慢慢品嚐了吧。,,"하지만, 느긋하게 맛 볼 시간은 없겠지만 말이야","Allerdings werden wir keine Zeit zum Genießen
 haben."

@@ -3,21 +3,20 @@
 2,3005,,Yuu ... vai?,是、是勇吾嗎！？,,"유, 유고야…!?",Yuu ... go?
 3,3003,,Yuugo!,哥哥！！,,오빠!!,Yuugo!
 4,3036,,Arata ... Yuuko ... e anche Nokia.,新……悠子……還有諾奇雅也……,,"아라타… 유코… 그리고, 노키아도…",Arata ... Yuuko ... und auch Nokia.
-5,3002,,"Ce l'abbiamo
-fatta! È davvero Yuugo! Il vero Yuugo!",太、太好了！真的、真的是勇吾！,,"해, 해냈어! 정말로 정말로, 유고 군이구나…!","Wir haben es geschafft!
+5,3002,,"Ce l'abbiamo fatta!
+È davvero Yuugo! Il vero Yuugo!",太、太好了！真的、真的是勇吾！,,"해, 해냈어! 정말로 정말로, 유고 군이구나…!","Wir haben es geschafft!
 Es ist wirklich Yuugo! Der echte Yuugo!"
 6,3005,,Ciao Yuugo. Quanto tempo!,嗨，勇吾……好久不見。,,"여어, 유고… 오랜만이야",Hallo Yuugo. Lang ist’s her.
 7,3003,,"Oh Yuugo, quanto sono felice. Sono così, così felice!",哥哥，太好了……真、真的是太好了！,,"오빠, 다행이야… 저, 정말로, 다행이야…!","Ach Yuugo, was bin ich froh. Ich bin so, so froh!"
 8,3036,,"Ascoltate, ragazzi. Se non facciamo niente...",大家聽我說……再這樣下去……,,"들어 줘, 모두… 이대로는…","Hört zu, Leute. Wenn wir nichts unternehmen ..."
-9,3036,,"Se non facciamo nulla, il mondo, come lo
-conosciamo, verrà completamente divorato dai Eater.","再這樣下去，這個世界……
+9,3036,,"Se non facciamo nulla, il mondo, come lo conosciamo,
+verrà completamente divorato dai Eater.","再這樣下去，這個世界……
 將會被侵食者給吃光！",,"이대로는, 모든 세계가…
 이터에게 먹혀 버려…!","Wenn wir nichts tun, wird die Welt, wie wir sie
 kennen, komplett von den Verschlingern gefressen."
 10,1088,,Cosa vuol dire?,怎麼回事？,,…무슨 소리지?,Was soll das heißen?
-11,3036,,"Mi hanno catturato, completamente
-assorbito, e sono diventato parte della
-loro rete di dati.","我確實曾被侵食者吞食並囚禁……
+11,3036,,"Mi hanno catturato, completamente assorbito,
+e sono diventato parte della loro rete di dati.","我確實曾被侵食者吞食並囚禁……
 但我也是它們的“資訊共享網路”的一部分。",,"난, 확실히 이터에게 삼켜져서, 사로잡혀 있었지만…
 그들의 ""정보공유망(네트워크)""의 일부이기도 했어","Sie haben mich gefangen genommen, vollständig
 absorbiert, und ich wurde Teil ihres
@@ -33,7 +32,7 @@ insieme formano una sorta di essere cosciente.","透過儲存、共有資訊、�
 創造「被整合的單一意識」——",,"정보를 축적하고, 공유하고, 서로에게 영향을 주는 것으로
 「통합된 하나의 의식」을 만들어 내서―","Sie speichern und teilen Daten, und ergeben
 alle gemeinsam eine Art bewusstes Wesen."
-17,3036,,"Ogni singolo Divoratore agisce come parte
+17,3036,,"Ogni singolo Eater agisce come parte
 della coscienza collettiva.",而所有的個體，都依照單一意識行動。,,"모든 개체가, 하나의 의식에 따라, 행동하고 있어","Jeder einzelne Verschlinger handelt als Teil des
 kollektiven Bewusstseins."
 18,1416,,"E tramite questa rete collettiva potevi
@@ -42,9 +41,8 @@ apparire qui e là nel Cyberspazio.","你利用了那個整合意識的網路，
 전뇌공간의 여기저기에―","Und über dieses kollektive Netzwerk konntest du
 hier und da im Cyberspace auftauchen."
 19,1416,,Così ti sei mostrato [p] e agli altri.,在[p]他們的面前出現了好幾次。,,"[p]들의 앞에, 몇 번이고 나타났다",So hast du dich [p] und den anderen gezeigt.
-20,3036,,"Sì, utilizzando i Eater come
-terminale. Ma non mi era permesso trasmettere i
-miei pensieri.","我把侵食者當作終端的代替品。
+20,3036,,"Sì, utilizzando i Eater come terminale.
+Ma non mi era permesso trasmettere i miei pensieri.","我把侵食者當作終端的代替品。
 不過，我並沒有傳送意志本身的權限。",,"이터를 단말기 대신으로 사용해서, 말이야
 하지만, 내 의사 그 자체를 송신할 권한은 없었어","Ja, indem ich die Verschlinger als Terminal
 benutzt habe. Aber meine Gedanken durfte ich nicht
@@ -54,28 +52,24 @@ frammenti delle mie memorie come dati.","最多也只能將“記憶（Memory）
 作為資料持續傳送而已……",,"기껏해야 ""기억(메모리)""을 단편화해서, 데이터로서
 계속 보내는 것밖에, 할 수 없었어…","Ich konnte nur immer wieder Bruchstücke meiner
 Erinnerungen als Daten verschicken."
-22,3036,,"Non avevo molto margine di manovra, ma alla
-fine è andata bene.",雖然有相當多的限制，但總算還是達成了目的。,,"상당히 제한은 있었지만, 그래도 어떻게든 목적은 달성하고 있었어","Viel Spielraum hatte ich nicht, aber letztendlich
+22,3036,,"Non avevo molto margine di manovra, ma alla fine è andata bene.",雖然有相當多的限制，但總算還是達成了目的。,,"상당히 제한은 있었지만, 그래도 어떻게든 목적은 달성하고 있었어","Viel Spielraum hatte ich nicht, aber letztendlich
 hat es ja geklappt."
-23,3036,,"I dati mentali umani che i
-Eater integrano, vengono salvati
-nel network. Tutti.","被侵食者吞食的人類的精神資料
+23,3036,,"I dati mentali umani che i Eater integrano,
+vengono salvati nel network. Tutti.","被侵食者吞食的人類的精神資料
 也全都被保護在網路內預留的領域中……",,"이터에게 삼켜진 인간의 정신 데이터도
 네트워크 내에 확보한 영역에, 전부 보호해 뒀어…","Die menschlichen Mentaldaten, die die
 Verschlinger integrieren, werden im Netzwerk
 gespeichert. Alle."
 24,3005,,Aha... Ma allora questo significa...,喂、喂……也就是說……,,"야, 야… 그렇다는 건…!",Oha ... Das heißt aber dann ...
 25,3002,,Se Yuugo non fa più parte della rete...,要是勇吾消失的話……,,유고 군이 사라지면…!?,Wenn Yuugo kein Teil des Netzwerks mehr ist ...
-26,3036,,"Infliggono danno senza freni e sempre più
-velocemente. E i dati mentali memorizzati
-potrebbero andare persi.","侵蝕速度會毫無止境地加速——
+26,3036,,"Infliggono danno senza freni e sempre più velocemente.
+E i dati mentali memorizzati potrebbero andare persi.","侵蝕速度會毫無止境地加速——
 被保護的精神資料，或許也會全部消失。",,"침식 속도는 제한 없이 가속해서―
 보호하고 있었던 정신 데이터도, 전부 잃어버리게 될지도 몰라","Richten sie ungehemmt und immer schneller Schaden
 an. Und die gespeicherten Mentaldaten gehen
 möglicherweise verloren."
-27,3009,,"Ma questo è necessario per l'Evoluzione! Per
-la creazione di un nuovo mondo, questo è
-indispensabile.","然而，這才是朝向進化的條件！
+27,3009,,"Ma questo è necessario per l'Evoluzione!
+Per la creazione di un nuovo mondo, questo è indispensabile.","然而，這才是朝向進化的條件！
 是創造新世界的必要條件！",,"하지만, 그것이야말로 진화의 조건!
 새로운 세계를 창조하기 위한, 필요 조건입니다!","Das ist doch aber notwendig für die Evolution!
 Für die Entstehung einer neuen Welt ist das
@@ -85,18 +79,17 @@ perdita e il più piccolo briciolo di dispiacere!","不管是多小的世界，�
 不管是多小的悲傷，我都不會允許它發生！",,"그 어떤 작은 세계여도, 멸망하는 건 용서할 수 없습니다
 그 어떤 작은 슬픔도, 생겨나는 것을 용서할 수 없습니다!","Selbst den geringsten Verlust und das kleinste
 bisschen Kummer dürfen wir nicht zulassen!"
-29,3009,,"Mi occuperò dell'ordine in questo
-nuovo mondo.",我想成為——那種新世界的秩序。,,그런 새로운 세계의 질서 그 자체가― 전 되고 싶습니다,"Ich werde in dieser neuen Welt für Ordnung
+29,3009,,"Mi occuperò dell'ordine in questo nuovo mondo.",我想成為——那種新世界的秩序。,,그런 새로운 세계의 질서 그 자체가― 전 되고 싶습니다,"Ich werde in dieser neuen Welt für Ordnung
 sorgen."
-30,3009,,"Yuugo, hai sofferto e ti sei disperato
-abbastanza. Devi uscire da questa prigione.","……勇吾，你已經夠痛苦，夠悲傷了。
+30,3009,,"Yuugo, hai sofferto e ti sei disperato abbastanza.
+Devi uscire da questa prigione.","……勇吾，你已經夠痛苦，夠悲傷了。
 從那個枷鎖中解放出來也是你應得的。",,"…유고 군, 당신은 이미 충분히 괴로워하고, 슬퍼했습니다
 그 족쇄에서, 해방되어야 마땅합니다","Yuugo, du hast genug gelitten und getrauert.
 Du musst aus diesem Gefängnis freikommen."
 31,3036,,...,………,,………,...
 32,3009,,"Grazie per averlo salvato, [p].",[p]，謝謝你救了勇吾。,,"[p] 씨, 유고 군을 구해내 주셔서 감사합니다","Danke, dass du ihn gerettet hast, [p]."
-33,3009,,"Ciò è stato possibile solo grazie alle tue
-abilità. Sei un prodigio dell'antico mondo!","這是只有你……你的能力才能辦到的事情。
+33,3009,,"Ciò è stato possibile solo grazie alle tue abilità.
+Sei un prodigio dell'antico mondo!","這是只有你……你的能力才能辦到的事情。
 你是在舊世界發生的奇蹟之一！",,"이건 당신만이… 당신의 능력만이 이룰 수 있었던 일
 당신은, 구세계에 발현한 하나의 기적입니다…!","Das war nur mit deinen Fähigkeiten möglich.
 Du bist ein Wunder der alten Welt!"
@@ -106,24 +99,21 @@ Du bist ein Wunder der alten Welt!"
 一定會灑落在萬物之上！",,"「신세계」에서는, 그런 기적이―
 모든 존재에게, 반드시 주어집니다!",Die neue Welt wird voll sein mit solchen Wundern!
 37,3005,,"Suedou, cosa hai intenzione di fare?",末堂……你打算幹什麼！？,,스에도… 뭘 하려는 거냐!?,"Suedou, was hast du vor?"
-38,3009,,"Assumerò il posto di Yuugo nella coscienza
-collettiva.",這次由我來代替勇吾，成為整合意識的一部分。,,"이번에는, 제가 유고 군을 대신해서, 통합 의식의 일부가 되겠습니다","Ich werde Yuugos Platz im kollektiven Bewusstsein
+38,3009,,"Assumerò il posto di Yuugo nella coscienza collettiva.",這次由我來代替勇吾，成為整合意識的一部分。,,"이번에는, 제가 유고 군을 대신해서, 통합 의식의 일부가 되겠습니다","Ich werde Yuugos Platz im kollektiven Bewusstsein
 übernehmen."
 39,3036,,!!!,！！,,…!!,!!!
 40,3005,,Cosa?!,什……,,뭐…!?,Was?!
-41,3009,,"Io stesso sarò la coscienza dei
-Eater! Sarò la loro volontà!","不對，如果是我，應該可以成為它們的“意識本身”，
+41,3009,,"Io stesso sarò la coscienza dei Eater!
+Sarò la loro volontà!","不對，如果是我，應該可以成為它們的“意識本身”，
 做為「唯一意志」行動！",,"아뇨, 저라면 그들의 ""의식 그 자체""가 되어
 「유일한 의사」로서 행동할 수 있겠지요!","Ich selbst werde das Bewusstsein der Verschlinger
 sein! Ich werde ihren Willen ausmachen!"
 42,3009,,E ...,然後——,,그리고―,Und ...
-43,3009,,"Grazie all'illimitata capacità di calcolo di Re
-Drasil e alla trasmissione dati ultradimensionale
-dei Eater...","世界樹如同萬能之神般的運算功能！
+43,3009,,"Grazie all'illimitata capacità di calcolo di Re Drasil e
+alla trasmissione dati ultradimensionale dei Eater...","世界樹如同萬能之神般的運算功能！
 侵食者的高度且超次元的資訊傳播能力！",,"위그드라실의 만능신과도 같은 연상 기능과!
 이터의 고차원적이고 초차원적인 정보전파능력!","Dank König Drasils unbegrenzter Rechenkapazität und
 der ultradimensionalen Datenübertragung der
 Verschlinger ..."
-44,3009,,"... creerò un nuovo mondo con la
-mia volontà!",我會依照我的意志使用那些能力，來創造新世界！,,"그것들을 제 뜻대로 사역하여, 신세계를 창조한다!","... werde ich mit meinem Willen eine neue Welt
+44,3009,,"... creerò un mondo nuovo con la mia volontà!",我會依照我的意志使用那些能力，來創造新世界！,,"그것들을 제 뜻대로 사역하여, 신세계를 창조한다!","... werde ich mit meinem Willen eine neue Welt
 erschaffen!"

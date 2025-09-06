@@ -38,15 +38,14 @@ ci sei? Vai a controllare la lavagna.","你是急性子嗎？
 화이트보드를 체크하도록","Sei doch nicht so ungeduldig. Lern die Nachbarn
 kennen und erfahre dabei, wie Fälle ablaufen.
 Sieh dir das Schwarze Brett an."
-120,2000,,"È ora di andare a incontrare Persone
-nell'edificio.",現在就在館內到處跟人打招呼吧。,,지금은 관내에서 인사를 하고 다니자,"Es wird Zeit, sich mit den Leuten im Gebäude zu
+120,2000,,"È ora di andare a incontrare persone nell'edificio.",現在就在館內到處跟人打招呼吧。,,지금은 관내에서 인사를 하고 다니자,"Es wird Zeit, sich mit den Leuten im Gebäude zu
 unterhalten."
 130,2000,,"Oh-oh, non voglio farmi beccare.
 Immagino che non posso semplicemente passare di qui...",要避開守衛的監視才能自由通過呢……,,"보초에게 들키지 않도록 주의하지 않으면
 자유롭게 빠져나갈 수 없겠어…","Hoppla, ich will nicht erwischt werden.
 Einfach durchspazieren geht wohl nicht ..."
-150,2000,,"Un firewall eretto da un
-hacker... Non so come distruggerlo.
+150,2000,,"Un firewall eretto da un hacker...
+Non so come distruggerlo.
 Ma devo inseguire Arata...","由駭客寫出來的防火牆，
 我無法破解……
 現在就先去追新吧。",,"해커가 만든 방화벽…
@@ -60,13 +59,13 @@ potrò uscire da qui? Meglio portare Nokia con me, allora.","只要到新那裡�
 既然如此，要連諾奇雅也一起帶過來才行！",,"아라타에게 가면, 탈출할 수 있어…?
 그렇다면, 노키아도 데려가야 해…!","Wenn ich da hinkomme, wo Arata ist, komme ich
 hier raus? Dann sollte ich Nokia lieber mitnehmen."
-185,2000,,"Non posso tornare
-indietro... Devo solo continuare.","回不去……
+185,2000,,"Non posso tornare indietro...
+Devo solo continuare.","回不去……
 現在就試著前進吧……",,"돌아갈 수 없어…
 지금은, 앞으로 나아가 보자…","Ich kann nicht zurück ...
 Ich muss einfach weitergehen."
-188,2000,,"Non posso disconnettermi in questa
-forma... Devo recuperare le parti del mio avatar.","如果一直維持現在的模樣會無法登出……
+188,2000,,"Non posso disconnettermi in questa forma...
+Devo recuperare le parti del mio avatar.","如果一直維持現在的模樣會無法登出……
 得去收集化身用的零件才行！",,"이 모습인 채로는, 로그아웃을 할 수 없어…
 아바타 파츠를 모아야 해…!","So kann ich mich nicht ausloggen ...
 Ich muss die Teile meines Avatars einsammeln."
@@ -169,8 +168,7 @@ Komm vorbei, wenn wir offen haben."
 1700,2000,,"Immagino che ascolterò cosa ha da dire
 Dynasmon...",去問杜納斯獸看看吧。,,듀나스몬에게 말을 걸어 보자…,"Ich sollte mir anhören, was Dynasmon zu sagen
 hat ..."
-1900,4759,,"...Non sei degno di andare oltre,
-per ora.",……你還沒資格過去。,,"…너에게는 아직, 이 앞으로 나아갈 자격이 없다","... Du hast es noch nicht verdient, weiter zu
+1900,4759,,"...Non sei degno di andare oltre, per ora.",……你還沒資格過去。,,"…너에게는 아직, 이 앞으로 나아갈 자격이 없다","... Du hast es noch nicht verdient, weiter zu
 kommen."
 1901,4759,,"Una volta che avrai dimostrato la tua forza e il tuo
 orgoglio come hacker, il percorso si aprirà da solo.","當你掌握身為駭客的實力以及榮譽時，
@@ -200,17 +198,16 @@ l'agenzia chiude. Chissà se ci sono nuovi casi?","就算杏子姊不在，事�
 有沒有什麼委託上門呢？",,"쿄코 씨가 없다고 해서 사무소가 휴업인 건 아니야…
 무언가 새로 온 의뢰가 있지 않을까?","Nur, weil Kyoko nicht da ist, ist hier ja nicht
 zu. Ob es wohl neue Fälle gibt?"
-6800,3002,,"Oh, quindi questa è una vera bacheca di un
-detective... --Oops, non c'è tempo per questo! Devo
-andare a salvare [p], in fretta!","嗯～這就是偵探的委託板嗎……
+6800,3002,,"Oh, quindi questa è una vera bacheca di un Detective...
+--Oops, non c'è tempo per questo!
+Devo andare a salvare [p], in fretta!","嗯～這就是偵探的委託板嗎……
 唉呀，現在不是做這種事的時候！
 得快點去幫助[p]！",,"흠흠… 이게 탐정의 의뢰 보드인가…
 이런, 이럴 때가 아니었지!
 빨리 [p]를(을) 구하러 가야 해…!","Das sind also die Fälle für Detektive ...
 Huch, dafür habe ich keine Zeit! Ich muss
 ganz schnell [p] retten gehen!"
-6801,3002,,"[p] potrebbe fare Salto di Connessione...
-Rrrgh... Raahhh... Hrnnnghh!
+6801,3002,,"[p] potrebbe fare Salto di Connessione... Rrrgh... Raahhh... Hrnnnghh!
 …Eheheh, immaginavo che non avrebbe funzionato.","如果是[p]的話一定能從這裡進行登入跳躍吧～
 唔！　哈！　喝！
 ………………嘿嘿，我果然辦不到嗎……",,"[p]는(은) 여기서 커넥트 점프를 할 수 있었지~
@@ -223,8 +220,7 @@ Dovrò salvare [p] da qui dentro!","咦？　好奇怪，無法登出。
 總之，得去幫助[p]才行！",,"어라? 이상하네, 로그아웃을 할 수가 없어
 어쨌든 [p]를(을) 구하러 가야 해…!","Wie? Seltsam, ich kann mich nicht ausloggen.
 Dann muss ich [p] wohl von hier aus retten!"
-8000,4032,,"Wahh!
-State zitti! Sto giocando a nascondino!","哇哇！
+8000,4032,,"Wahh! State zitti! Sto giocando a nascondino!","哇哇！
 別出聲！我現在正在玩捉迷藏！",,"와앗!
 조용히 해! 지금 숨바꼭질을 하고 있으니까!","Wah!
 Sei ruhig! Ich spiele Verstecken!"

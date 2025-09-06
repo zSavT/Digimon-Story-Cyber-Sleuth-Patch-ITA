@@ -1,24 +1,22 @@
 ﻿ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
 1,3005,,Affiorano dei ricordi.,真懷念啊……,,…그리운걸,Da kommen Erinnerungen hoch.
 2,3002,,"Sì! Questo è il Mondo Digitale, così come era allora!",嗯！是那時看見的數碼世界！,,응! 그때 봤던 디지털 월드야…!,"Ja! Das ist die Digitale Welt, so wie sie damals war!"
-3,3003,,Lei è così bella.,好漂亮……,,아름다워…,Sie ist so wunderschön.
+3,3003,,È così bello.,好漂亮……,,아름다워…,Sie ist so wunderschön.
 4,3036,,Cos'è quello?,那個是？,,저건…?,Was ist das denn?
-5,1416,,"I dati mentali memorizzati
-dalla rete dei Eater.",是許多在侵食者網路中被保護的精神資料。,,이터의 네트워크 내에 보호되어 있었던 수많은 정신 데이터들이다,"Die gespeicherten Mentaldaten aus dem
+5,1416,,"I dati mentali memorizzati dalla rete dei Eater.",是許多在侵食者網路中被保護的精神資料。,,이터의 네트워크 내에 보호되어 있었던 수많은 정신 데이터들이다,"Die gespeicherten Mentaldaten aus dem
 Netzwerk der Verschlinger."
 6,3003,,Tutti?,咦？全部都是？,,"저것들, 전부가요?",Alle?
 7,1416,,Sì. Re Drasil li rimanda indietro nel vostro mondo.,嗯，世界樹正把資料送回人類世界。,,"그래, 위그드라실이 인간 세계로 돌려보내고 있다",Ja. König Drasil schickt sie zurück in eure Welt.
 8,3005,,"Allora anche la Sindrome di EDEN sarà curata, vero?",這樣EDEN症候群就會痊癒了吧！？,,"그건 즉, EDEN 증후군이 낫는다는 얘기지!?","Dann wird das EDEN-Syndrom auch geheilt, oder?"
-9,1416,,"Guarito, non direi proprio
-così, ma qualcosa di simile, sì.","和痊癒……的意思可能不太一樣，
+9,1416,,"Non direi proprio ""guarito"",
+ma qualcosa di simile, sì.","和痊癒……的意思可能不太一樣，
 但應該會有那一類的現象發生吧。",,"낫는다… 란, 조금 의미가 다를지도 모르겠지만―
 그와 비슷한 현상은 발현할 거다","Geheilt würde ich so nicht sagen,
 aber so etwas Ähnliches, ja."
-10,1416,,"Un fenomeno che voi umani
-descrivereste come ""miracolo"".",你們人類稱為「奇蹟」的現象啊。,,"너희들 인간이,「기적」이라 부르는 현상이다","Ein Phänomen, das ihr Menschen als
+10,1416,,"Un fenomeno che voi umani descrivereste come ""miracolo"".",你們人類稱為「奇蹟」的現象啊。,,"너희들 인간이,「기적」이라 부르는 현상이다","Ein Phänomen, das ihr Menschen als
 „Wunder“ beschreiben würdet."
-11,3002,,"Non lo capisco del
-tutto. Yuugo e [p] si sveglieranno?!","雖、雖然聽不太懂！
+11,3002,,"Non lo capisco del tutto.
+Yuugo e [p] si sveglieranno?!","雖、雖然聽不太懂！
 但結論就是他們兩個人都會醒來！？",,"자, 잘 모르겠지만…!
 두 사람이 눈을 뜬다는 걸로 FA!?","Das kapiere ich nicht ganz.
 Yuugo und [p] werden aufwachen?!"
@@ -27,37 +25,33 @@ Yuugo und [p] werden aufwachen?!"
 14,3002,,Questo... Ma questo è super!,太、太好了！,,"자, 잘됐다…!",Das ... Das ist ja super!
 15,3003,,Aaah!,呀！？,,꺄악!?,Aaah!
 16,3005,,Cos'è questo?!,這、這傢伙是怎樣？,,"…뭐, 뭐야 이건?",Was ist das?!
-17,3002,,"Un momento, che succede
-adesso?! Oh, che carino!","欸，什麼什麼！？
+17,3002,,"Un momento, che succede adesso?! Oh, che carino!","欸，什麼什麼！？
 這個超可愛的耶！",,"에, 뭐야뭐야!?
 이거, 엄청 귀여운데요!","Moment, was ist denn jetzt los?!
 Ach, wie niedlich!"
-18,1416,,"Questa è la forma originale
-del Divoratore.",那個球體是侵食者本來的樣子。,,"그 구체가, 이터의 본래 모습이다","Das ist die ursprüngliche Gestalt der
+18,1416,,"Questa è la forma originale del Eater.",那個球體是侵食者本來的樣子。,,"그 구체가, 이터의 본래 모습이다","Das ist die ursprüngliche Gestalt der
 Verschlinger."
 19,3002,,Cosa?,咦？,,……헤?,Was?
 20,3002,,Iiih!,呀～～～！？！！,,으갹―――!?!!,Iiieeeh!
-21,1416,,"Così eseguono scansioni. Si muovono da un
-segmento di dati al successivo e inviano
-informazioni in una dimensione superiore.","它們就是那樣，一邊在資料之間轉移，一邊掃描，
+21,1416,,"Così eseguono scansioni. Si muovono da un segmento di dati
+al successivo e inviano informazioni in una dimensione superiore.","它們就是那樣，一邊在資料之間轉移，一邊掃描，
 再將資訊發送到高次元的某處。",,"그렇게 데이터에서 데이터로 옮겨 가면서 스캔하여
 정보를 고차원의 어딘가로 송신하고 있다","So führen sie Scans durch. Bewegen sich von einem
 Datensegment zum nächsten und schicken
 Informationen in eine höhere Dimension."
-22,1416,,"L'obiettivo non è chiaramente definito, ma
-ho una teoria.",雖然目的不明……我試著做了一個假設。,,"목적은 분명하지 않지만… 한 가지, 가설을 세워 보았다","Das Ziel ist nicht klar definiert, aber ich habe
+22,1416,,"L'obiettivo non è chiaramente definito, ma ho una teoria.",雖然目的不明……我試著做了一個假設。,,"목적은 분명하지 않지만… 한 가지, 가설을 세워 보았다","Das Ziel ist nicht klar definiert, aber ich habe
 eine Theorie."
-23,1416,,"Cose come i fuochi di Sant'Elmo, gli UFO... questi
-corpi luminosi potrebbero essere state
-visualizzazioni di un Divoratore in un'onda digitale.","“發光體”被視為靈異相片的光點、聖艾爾摩之火、
+23,1416,,"Cose come i fuochi di Sant'Elmo, gli UFO...
+questi corpi luminosi potrebbero essere state
+visualizzazioni di un Eater in un'onda digitale.","“發光體”被視為靈異相片的光點、聖艾爾摩之火、
 和不明飛行物體的真面目，而“發光體”，
 或許就是在高密度的數碼波下暫時可以用肉眼看到的侵食者？",,"오브나 세인트 엘모의 불, UFO의 정체라고 일컬어지는
 ""발광체""는, 고밀도의 디지털 웨이브에 의해
 일시적으로 가시화된 이터이지 않을까?","Dinge wie Elmsfeuer, UFOs ... diese Lichtkörper
 waren vielleicht Visualisierungen eines
 Verschlingers in einer digitalen Welle."
-24,1416,,"È possibile che i cosiddetti fenomeni plasmatici, ovvero i
-Eater nella loro forma energetica, fossero
+24,1416,,"È possibile che i cosiddetti fenomeni plasmatici,
+ovvero i Eater nella loro forma energetica, fossero
 presenti durante la trasmissione di dati. Secondo le descrizioni.","雖然這被當作是等離子現象之類的，
 但若這些現象其實是傳播資訊的能源體——侵食者，
 種種舉動、性質和目擊證言會更加合理。",,"플라즈마 현상이라고 되어 있지만
@@ -65,9 +59,8 @@ presenti durante la trasmissione di dati. Secondo le descrizioni.","雖然這被
 보다 거동이나 성질, 목격담과도 일치한다","Es ist möglich, dass sogenannte Plasmaphänomene
 Verschlinger in ihrer Energieform bei der
 Datenübertragung waren. Den Beschreibungen nach."
-25,1416,,"Questo misterioso, perfetto cerchio è
-inoltre un più o meno avanzato
-simbolo ideografico dalla loro rete...","就像不可能是人造的麥田圈圖案，
+25,1416,,"Questo misterioso, perfetto cerchio è inoltre un più
+o meno avanzato simbolo ideografico dalla loro rete...","就像不可能是人造的麥田圈圖案，
 也是在它們的網路中使用的高度或低階的表意文字，
 也就是說——",,"인공으로는 도저히 제작 불가능한 미스터리 서클의 문양도
 그들의 네트워크에서 사용되고 있는 고도한
@@ -76,21 +69,18 @@ ein mehr oder weniger fortschrittliches
 ideografisches Symbol aus ihrem Netzwerk ..."
 26,3002,,Smettila! SMETTILA!,STOP、STOP！！,,"스톱, 스토―――옵!!",Aufhören! AUFHÖREN!
 27,1416,,Ops...,哎呀……,,이런…,Hoppla ...
-28,1416,,"Scusa. Presto sarà il momento che Kyoko
-Kuremi si congedi. Volevo solo vederti
-completamente sopraffatto un'ultima volta.","不好意思……我和暮海杏子「離別的時刻」就快到了。
+28,1416,,"Scusa. Presto sarà il momento che Kyoko Kuremi si congedi.
+Volevo solo vederti completamente sopraffatta un'ultima volta.","不好意思……我和暮海杏子「離別的時刻」就快到了。
 我想再體驗一次展現特殊知識的得意感呢。",,"미안하다… 쿠레미 쿄코와「작별할 때」가 다가오고 있다
 특수한 지식을 선보이는 고양감을, 다시 한 번 맛보고 싶었거든","Entschuldige. Es ist bald Zeit, dass Kyoko Kuremi
 sich verabschiedet. Ich wollte dich nur noch
 ein letztes Mal total überfordert sehen."
 29,3002,,Cosa?,咦？,,…에?,Was?
-30,1416,,"Forse mi risulta anche semplicemente
-difficile dire addio.",不，還是說……我是捨不得和你們分開呢？,,"아니, 아니면… 너희들과의 작별을 아쉬워하고 있는 건가","Vielleicht fällt mir auch einfach nur der
+30,1416,,"Forse mi risulta anche semplicemente difficile dire addio.",不，還是說……我是捨不得和你們分開呢？,,"아니, 아니면… 너희들과의 작별을 아쉬워하고 있는 건가","Vielleicht fällt mir auch einfach nur der
 Abschied schwer."
 31,3003,,Con addio intendi...,分開……也就是說……,,작별이라니… 즉…,Mit Abschied meinst du ...
-32,1416,,"È proprio quello
-che intendo. Re Drasil vi rimanderà presto
-nel vostro mondo.","就是這樣。
+32,1416,,"È proprio quello che intendo.
+Re Drasil vi rimanderà presto nel vostro mondo.","就是這樣。
 世界樹會盡快把你們送回人類世界。",,"그런 거다
 위그드라실이, 신속하게 너희들을 인간 세계로 돌려보낼 거다","Genau das meine ich.
 König Drasil wird euch bald in eure Welt
@@ -100,48 +90,44 @@ dobbiamo rimuovere tutti i corpi estranei.","聽說要使數碼世界完全復�
 需要消除“異物”。",,"디지털 월드를 완전히 복구하기 위해서는
 ""이물""을 없앨 필요가 있는 모양이다","Um die Digitale Welt komplett wiederherzustellen,
 müssen wir alle Fremdkörper entfernen."
-34,3005,,Pah. Noi veniamo trattati come parassiti...,呿，結果我們還是被當成“異物（Bug）”……,,"…칫, 결국 ""이물(버그)"" 취급이냐…",Pah. Wir werden wie Ungeziefer behandelt ...
-35,3036,,"Vuole Re Drasil far tornare il Mondo
-Digitale a com'era prima del nostro arrivo?","世界樹是不是希望將數碼世界
+34,3005,,Bah. Ci trattano come parassiti...,呿，結果我們還是被當成“異物（Bug）”……,,"…칫, 결국 ""이물(버그)"" 취급이냐…",Pah. Wir werden wie Ungeziefer behandelt ...
+35,3036,,"Il Re Drasil vuole far tornare il Mondo Digitale
+allo stato in cui era prima del nostro arrivo?","世界樹是不是希望將數碼世界
 回復到我們來訪前的狀態呢？",,"위그드라실은, 디지털 월드를
 우리들이 찾아오기 전의 상태로 되돌리고 싶은 게 아닐까?","Möchte König Drasil die Digitale Welt wieder so
 werden lassen, wie sie vor unserer Ankunft war?"
 36,3036,,Più di otto anni fa?,回復到比八年前更早以前的狀態。,,"…8년 전보다, 이전의 상태로",Vor mehr als acht Jahren?
-37,3002,,"Ancora più a lungo? Un
-momento... Questo significa...","咦，以前的……等一下……
+37,3002,,"Ancora più a lungo? Un momento... Questo significa...","咦，以前的……等一下……
 那樣的話……",,"에, 이전의 상태라니… 잠깐만…
 그렇다면…","Noch länger? Moment ...
 Das heißt ja ..."
-38,3002,,"Quindi non ci siamo mai
-incontrati? Ci dimenticheremo tutti?","難道我們……會變成從來沒有相遇過？
+38,3002,,"A quando non ci siamo mai incontrati?
+Ci dimenticheremo tutti?","難道我們……會變成從來沒有相遇過？
 會忘記彼此？",,"혹시 우리들… 만나지 않았던 걸로 되어 버리는 거야?
 서로를, 잊어 버리는 거야…?","Dann sind wir uns also nie begegnet?
 Wir werden uns alle vergessen?"
 39,1050,,Forse.,或許是……,,…그럴지도 몰라,Vielleicht.
 40,3002,,Ma ... questo è ...,怎、怎麼這樣——,,"그, 그런 거―",Aber ... das ist ...
-41,1151,,"Ma in quel caso possiamo semplicemente
-incontrarci di nuovo!",不過！即便如此，只要我們再相遇就好了！,,"하지만! 만약 그렇게 된다 해도, 다시 만나면 돼…!","Aber in dem Fall können wir uns ja einfach
+41,1151,,"Ma in quel caso possiamo semplicemente incontrarci di nuovo!",不過！即便如此，只要我們再相遇就好了！,,"하지만! 만약 그렇게 된다 해도, 다시 만나면 돼…!","Aber in dem Fall können wir uns ja einfach
 wieder treffen!"
 42,1050,,Andrà tutto bene! Di certo!,總會有辦法的，一定是這樣！,,"어떻게든 될 거야, 분명!",Das wird schon alles! Ganz bestimmt!
-43,3002,,"Sì...
-Esatto! In qualche modo tornerà tutto a posto!","嗯……是這樣呢！
+43,3002,,"Sì... Esatto!
+In qualche modo tornerà tutto a posto!","嗯……是這樣呢！
 一定、總會有辦法的！",,"…응… 그러네!
 분명, 어떻게든 될 거야!","Ja ... Genau!
 Irgendwie wird das schon alles wieder!"
 44,3002,,Noi ce ne occuperemo!,應該說，我會想辦法的！,,"그보다, 어떻게든 하겠어!",Wir werden dafür sorgen!
 45,1416,,"Beh, il momento è giunto.
-Vi rimandiamo indietro e richiamiamo
-i Digimon.","好了……時間似乎差不多了。
+Vi rimandiamo indietro e richiamiamo i Digimon.","好了……時間似乎差不多了。
 把你們送回去，叫回數碼寶貝——",,"그럼… 슬슬 시간인 모양이다
 너희들을 돌려보내고, 디지몬들을 불러들이고―","Nun, der Zeitpunkt ist wohl gekommen.
 Wir schicken euch zurück und rufen die Digimon
 wieder her."
-46,1416,,"Il portale, che è stato aperto, verrà di
-nuovo chiuso.",開啟的門就會關閉了。,,"열린 문은, 닫히게 되겠지","Das Tor, das geöffnet wurde, wird wieder
+46,1416,,"Il portale, che è stato aperto, verrà di nuovo chiuso.",開啟的門就會關閉了。,,"열린 문은, 닫히게 되겠지","Das Tor, das geöffnet wurde, wird wieder
 geschlossen."
 47,1416,,"Addio, piccoli umani!",再會了，人類的孩子們啊。,,"작별이다, 인간의 아이들이여","Lebt wohl, Menschenkinder!"
-48,1416,,"I mondi torneranno di nuovo come dovrebbero
-essere. Diversi, aperti eppure caotici...","世界會回到應有的樣子。
+48,1416,,"I mondi torneranno di nuovo come dovrebbero essere.
+Diversi, aperti eppure caotici...","世界會回到應有的樣子。
 回到不分善惡、來者不拒的混沌世界。",,"세계는 있어야 할 모습으로 돌아간다
 청탁병탄하며, 혼돈 상태인 세계로","Die Welten werden wieder so, wie sie sein sollen.
 Vielfältig, offen und doch chaotisch ..."

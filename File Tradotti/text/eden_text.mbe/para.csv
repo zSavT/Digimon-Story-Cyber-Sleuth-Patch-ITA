@@ -6,27 +6,27 @@ ID,Japanese,English,Chinese,EnglishCensored,Korean,German
 4,,EDEN Spazio Aperto,EDEN開放空間,,EDEN 오픈 스페이스,EDEN: Offener Raum
 5,,Comimani Forum,漫畫狂熱廣場,,코믹마니 포럼,EDEN: Comimani-Forum
 6,,Imprese Kamishiro,神代企業,,카미시로 엔터프라이즈,Kamishiro Enterprises
-7,,Kowloon Livello 1,Kowloon Lv. 1,,쿠롱 Lv.1,Kowloon: Ebene 1
-8,,Kowloon Liv. 2,Kowloon Lv. 2,,쿠롱 Lv.2,Kowloon: Ebene 2
-9,,Kowloon Livello 3,Kowloon Lv. 3,,쿠롱 Lv.3,Kowloon: Ebene 3
-10,,Kowloon Livello 4,Kowloon Lv. 4,,쿠롱 Lv.4,Kowloon: Ebene 4
+7,,Kowloon Lv 1,Kowloon Lv. 1,,쿠롱 Lv.1,Kowloon: Ebene 1
+8,,Kowloon Lv. 2,Kowloon Lv. 2,,쿠롱 Lv.2,Kowloon: Ebene 2
+9,,Kowloon Lv 3,Kowloon Lv. 3,,쿠롱 Lv.3,Kowloon: Ebene 3
+10,,Kowloon Lv 4,Kowloon Lv. 4,,쿠롱 Lv.4,Kowloon: Ebene 4
 11,,Kowloon Lv. 5,Kowloon Lv. 5,,쿠롱 Lv.5,Kowloon: Ebene 5
 12,,Inizio in EDEN,EDEN的起源,,시작의 EDEN ,Anfang in EDEN
 13,,Forum Zaxon,Zaxon廣場,,잭슨 포럼,Zaxon-Forum
-14,,Antro dei Demoni,惡魔巢穴,,데몬즈 아지트,Demons-Höhle
+14,,Tana dei Demons,惡魔巢穴,,데몬즈 아지트,Demons-Höhle
 15,,Server Valhalla,瓦爾哈拉伺服器,,발할라 서버,Walhalla-Server
 16,,Kamishiro Enterprise,神代企業,,카미시로 엔터프라이즈,Kamishiro Enterprises
-17,,Kowloon Livello 1,Kowloon Lv. 1,,쿠롱 Lv.1,Kowloon: Ebene 1
-18,,Server di memoria,記憶伺服器,,기억 서버,Erinnerungsserver
+17,,Kowloon Lv 1,Kowloon Lv. 1,,쿠롱 Lv.1,Kowloon: Ebene 1
+18,,Server Memoria,記憶伺服器,,기억 서버,Erinnerungsserver
 19,,Server Avalon,阿瓦隆伺服器,,아발론 서버,Avalon-Server
 20,,Server Istituto Finanziario,金融企業伺服器,,금융기업 서버,Server des Finanzinstituts
 21,,Server dell'Unità Crimini Informatici,電腦犯罪搜查課伺服器,,전뇌범죄수사과 서버,Server der Ermittlungseinheit
 22,,Server Centrale Elettrica,發電廠伺服器,,발전소 서버,Server des Kraftwerks
-23,,Sotto Kowloon Livello 1,Under Kowloon Lv.1,,언더 쿠롱 Lv.1,Unter Kowloon: Ebene 1
-24,,Sotto Kowloon Liv. 2,Under Kowloon Lv.2,,언더 쿠롱 Lv.2,Unter Kowloon: Ebene 2
-25,,Sotto Kowloon Liv. 3,Under Kowloon Lv.3,,언더 쿠롱 Lv.3,Unter Kowloon: Ebene 3
-26,,Sotto Kowloon Liv. 4,Under Kowloon Lv.4,,언더 쿠롱 Lv.4,Unter Kowloon: Ebene 4
-27,,Sotto Kowloon Liv. 5,Under Kowloon Lv.5,,언더 쿠롱 Lv.5,Unter Kowloon: Ebene 5
+23,,Sotto Kowloon Lv 1,Under Kowloon Lv.1,,언더 쿠롱 Lv.1,Unter Kowloon: Ebene 1
+24,,Sotto Kowloon Lv. 2,Under Kowloon Lv.2,,언더 쿠롱 Lv.2,Unter Kowloon: Ebene 2
+25,,Sotto Kowloon Lv. 3,Under Kowloon Lv.3,,언더 쿠롱 Lv.3,Unter Kowloon: Ebene 3
+26,,Sotto Kowloon Lv. 4,Under Kowloon Lv.4,,언더 쿠롱 Lv.4,Unter Kowloon: Ebene 4
+27,,Sotto Kowloon Lv. 5,Under Kowloon Lv.5,,언더 쿠롱 Lv.5,Unter Kowloon: Ebene 5
 28,,Forum Hacker,駭客討論區,,해커 포럼,Hackerforum
 29,,Spazio Digitale,數碼空間,,디지털 스페이스,Digitalraum
 30,,Server Abisso,深淵伺服器,,어비스 서버,Abyss-Server
@@ -39,7 +39,7 @@ ID,Japanese,English,Chinese,EnglishCensored,Korean,German
 37,,Server Pugno Mortale,滅拳伺服器,,멸권 서버,Death-Fist-Server
 38,,Spazio Maleodorante,異臭空間,,고약한 냄새가 나는 공간,Stinkender Raum
 39,,Forum dell'Occulto,靈異討論區,,오컬트 포럼,Okkultismus-Forum
-40,,Computer di sincronizzazione,同事的電腦,,동기의 컴퓨터,Synchronisierender Computer
+40,,Computer di Sincronizzazione,同事的電腦,,동기의 컴퓨터,Synchronisierender Computer
 41,,Arena degli Scarabei,甲蟲決鬥場,,딱정벌레 투기장,Käfer-Arena
 42,,Server di Ricerca,研究伺服器,,연구 서버,Forschungsserver
 43,,Zona del Distributore,送貨分配區域,,배달 담당 구역,Verteiler-Zone

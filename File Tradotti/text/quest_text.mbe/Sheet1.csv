@@ -48,7 +48,7 @@ Luogo: Shinjuku","【委託人】帥氣的男子
 【장소】신주쿠","Klient: Heißer Typ
 Ort: Shinjuku"
 63,,Esegui un Salto di Connessione,在手機上登入跳躍，尋找原因,,핸드폰으로 커넥트 점프하여 원인을 찾아내자.,Verbindungssprung machen
-80,,Pugni Rossi e Sudore Caldo!,熱血之拳、沸騰汗水！,,"붉게 타오르는 주먹, 끓어오르는 땀!",Rote Fäuste und rinnender Schweiß!
+80,,Pugni Rossi e Sudore che Cola!,熱血之拳、沸騰汗水！,,"붉게 타오르는 주먹, 끓어오르는 땀!",Rote Fäuste und rinnender Schweiß!
 81,,"Le visualizzazioni del sito per l'associazione sono
 alle stelle! Il sito è andato giù...
 Qualcuno ci sta sabotando?","協會官方網站的流量急遽增加！
@@ -87,25 +87,25 @@ Ort: Broadway – 1. Stock"
 103,,Inizio: Broadway 1°piano.,從BW1F某處前往委託人的所在地,,BW 1F 어딘가에서 의뢰인이 있는 곳으로 가자.,Start: Broadway – 1. Stock
 104,,L'ingranaggio di Hagurumon,尋找齒輪獸的齒輪,,톱니몬의 톱니바퀴를 찾는다.,Hagurumons Zahnrad
 120,,Trova gli scomparsi!,行蹤不明的協尋請求！,,실종자 수색을 부탁해!,Vermisstensuche!
-121,,"DemiDevimon! DemiDevimon! Non riesco a trovare
-il mio DemiDevimon! Deve essere da qualche parte
-nel mondo reale. Aiutami a cercarlo!","小惡魔獸！！
+121,,"DemiDevimon! DemiDevimon! Non riesco a
+trovare il mio DemiDevimon! Deve essere nel
+mondo reale. Aiutami a cercarlo!","小惡魔獸！！
 我找不到我的小惡魔獸啊！！
 它一定是在現實世界裡，幫我找到它！！",,"피코데블몬이!!
 나의 피코데블몬이 보이질 않아!!
 현실 세계에 있을텐데 찾아줘!!","DemiDevimon! DemiDevimon! Ich kann mein
 DemiDevimon nicht finden! Es muss in der
 echten Welt sein. Hilf mir suchen!"
-122,,"Cliente: Hacker Impulsivo
+122,,"Cliente: Hacker Nervoso
 Luogo: Incerto","【委託人】愛操心的駭客
 【所在地】不明",,"【의뢰인】걱정 많은 해커
 【장소】불명","Klient: Nervöser Hacker
 Ort: Unklar"
 123,,DemiDevimon in città,尋找徘徊在某條街上的小惡魔獸,,어떤 거리에 있는 피코데블몬을 찾자.,DemiDevimon in Stadt
 140,,Sogno del Cielo,翱翔天際的心願,,하늘에 거는 마음,Der Traum vom Fliegen
-141,,"Il sogno di Biyomon è volare nel
-cielo! Ma non importa quanto Biyomon
-ci provi, non ce la fa... Aiuta Biyomon!","比丘獸的夢想就是在天空中自由翱翔！
+141,,"Il sogno di Biyomon è volare nel cielo!
+Ma non importa quanto Biyomon ci provi,
+non ce la fa... Aiuta Biyomon!","比丘獸的夢想就是在天空中自由翱翔！
 但是，不管怎麼練習還是飛不起來
 該怎麼做才好呢？　聽聽我的煩惱吧",,"피요몬의 꿈은 말야, 자유롭게 하늘을 나는거야!
 그치만 아무리 연습해도 잘 날 수가 없어.
@@ -120,8 +120,8 @@ Ort: Shinjuku"
 143,,Biyomon a Shinjuku,和身在新宿的比丘獸見面,,신주쿠에 있는 피요몬을 만나자.,Biyomon in Shinjuku
 144,,Hawkmon a Shibuya,和身在涉谷的麻鷹獸見面,,시부야에 있는 호크몬을 만나자.,Hawkmon in Shibuya
 160,,Cibo insufficiente,不足的食材,,부족한 식재료,Nicht genug Essen
-161,,"Il mio padrone è molto triste e non
-mangia nemmeno. Voglio preparare del buon cibo!
+161,,"Il mio padrone è molto triste e non mangia
+nemmeno. Voglio preparare del buon cibo!
 Ma non ci riesco! Aiutami!","主人最近不怎麼進食且無精打采的……
 我要為主人製作料理！
 只有我一個人忙不過來，幫幫我吧",,"요즘 식사도 하지 않고 기운이 없는 주인님…
@@ -242,9 +242,9 @@ Ort: Broadway – 3. Stock"
 284,,Vai nello Spazio Digitale,前往數碼空間的深處,,디지털 스페이스의 안쪽으로 향하자.,In den Digitalraum
 285,,Combatti Justimon,接受來自裁決獸的挑戰,,저스티몬의 승부를 받아들이자.,Justimon bekämpfen
 300,,Vanto Costante,自吹自擂也該適可而止,,자랑도 적당히,Dauerprahlen
-301,,"BanchoLeomon non smetterà di vantarsi!
-Il mio amico mi aveva avvertito...
-Qualcuno, per favore, faccia smettere BanchoLeomon!","我的朋友找我商量
+301,,"BanchoLeomon non smetterà di vantarsi! Il mio
+amico mi aveva avvertito... Qualcuno,
+per favore, faccia smettere BanchoLeomon!","我的朋友找我商量
 說番長獅子獸一吹噓起來就沒完沒了
 有沒有人可以阻止它呀？",,"나도 친구한테 전해들은 이야기지만
 반쵸레오몬의 자랑 이야기가 너무 길대.
@@ -278,8 +278,8 @@ Ort: K-Café"
 324,,Segui Minervamon,追上密涅瓦獸,,미네르바몬을 만나자.,Minervamon folgen
 340,,Potrebbe essere... uno stalker!?,難不成……是跟蹤狂！？,,설마……스토커!?,Könnte es ... ein Stalker sein?!
 341,,"Sento come se qualcuno mi stesse seguendo
-in giro. Non so chi, ma non mi
-piace. Chiedigli di smettere.","最近總是感覺有人尾隨在我身後
+in giro. Non so chi, ma non mi piace.
+Chiedigli di smettere.","最近總是感覺有人尾隨在我身後
 因為不知道對方是誰，更讓人不舒服
 你可以揭發犯人並阻止他嗎？",,"최근에 누군가가 뒤를 밟고 있는 것 같다.
 정체를 모르니 한층 기분이 나빠.
@@ -310,10 +310,10 @@ Luogo: Ospedale Centrale","【委託人】鼻涕獸
 Ort: Zentralkrankenhaus"
 363,,Inizia all'ospedale,從醫院某處前往委託人的所在地,,병원 어딘가에서 의뢰인이 있는 곳으로 향하자.,Start im Krankenhaus
 364,,8 gusci di Shakomon,打倒蝦蛄獸，蒐集8個貝殼,,샤코몬을 쓰러뜨리고 조개껍데기를 8개 모으자.,8 Syakomon-Panzer
-380,,CD autografato della Principessa,小媛媛的親筆簽名CD！,,히메짱의 사인이 든 CD!,Die signierte Prinzessin-CD
-381,,"Conosci la cantante, Princess, vero? Io
-voglio partecipare all'evento invece.
-E poi posso spingere i miei CD autografati. Ehehe!","你一定知道一個叫做小媛媛的歌手吧？
+380,,CD autografato da Princess,小媛媛的親筆簽名CD！,,히메짱의 사인이 든 CD!,Die signierte Prinzessin-CD
+381,,"Conosci la cantante, Princess, vero? Io voglio
+partecipare all'evento. Voglio andare all'evento
+e prendere dei CD autografati. Hehe!","你一定知道一個叫做小媛媛的歌手吧？
 我想拜託你代替我參加活動
 幫我買附贈親筆簽名的CD……嘿嘿嘿",,"가수 히메짱은 당연히 알고 계시겠죠?
 대리로 이벤트에 참가하고 싶거든요.
@@ -341,7 +341,7 @@ Gli porteresti una coperta?","我在路上看見了機械暴龍獸
 그러니 부탁이야. 담요를 전해줘!","Ich habe draußen ein MetalGreymon
 gesehen. Es sah ganz traurig aus und ihm
 war kalt. Bringst du ihm eine Decke?"
-402,,"Cliente: Ragazza dal Cuore Gentile
+402,,"Cliente: Bambina dal Cuore Gentile
 Luogo: Negozio di Dolciumi, Broadway 3F","【委託人】善良的女孩
 【所在地】百老匯3F‧玩具店",,"【의뢰인】상냥한 여자아이
 【장소】브로드웨이 3F, 장난감 가게","Klient: Gutherziges Mädchen
@@ -418,9 +418,9 @@ Luogo: K-Cafe","【委託人】線上百科網站站長
 【所在地】K-Cafe",,"【의뢰인】사전 사이트 관리인
 【장소】K-카페","Klient: Lexikon-Administratorin
 Ort: K-Café"
-483,,Connect Jump K-Cafe,在K-Cafe的電腦上登入跳躍,,K-카페의 PC로 커넥트 점프를 하자.,Verbindungssprung K-Café
+483,,Connettiti al Jump K-Cafe,在K-Cafe的電腦上登入跳躍,,K-카페의 PC로 커넥트 점프를 하자.,Verbindungssprung K-Café
 484,,Trova il criminale,在數碼空間裡尋找犯人,,디지털 스페이스에서 범인을 찾자.,Verbrecher finden
-500,,Problemi alla Digipedia Continuati,續‧奇怪的免費線上百科,,이상한 프리 백과사전2,Weitere Probleme mit der Digipedia
+500,,Ulteriori problemi con Digipedia,續‧奇怪的免費線上百科,,이상한 프리 백과사전2,Weitere Probleme mit der Digipedia
 501,,"Lo stesso problema si è ripresentato.
 La Digipedia è in grave pericolo!
 Potresti darmi una mano?","又發生了和前陣子相同的問題
@@ -435,7 +435,7 @@ Luogo: K-Cafe","【委託人】線上百科網站站長
 【所在地】K-Cafe",,"【의뢰인】사전 사이트 관리인
 【장소】K-카페","Klient: Lexikon-Administratorin
 Ort: K-Café"
-503,,Connect Jump K-Cafe,在K-Cafe的電腦上登入跳躍,,K-카페의 PC로 커넥트 점프를 하자.,Verbindungssprung K-Café
+503,,Connettiti al Jump K-Cafe,在K-Cafe的電腦上登入跳躍,,K-카페의 PC로 커넥트 점프를 하자.,Verbindungssprung K-Café
 504,,Trova il criminale,在數碼空間裡尋找犯人,,디지털 스페이스에서 범인을 찾자.,Verbrecher finden
 520,,Il Dott. Datamon Sviluppa una Medicina,分子獸博士的新藥開發,,데이터몬 박사의 신약 개발,Dr. Datamon entwickelt Medizin
 521,,"Sono un famoso esperto nella creazione di 
@@ -456,8 +456,8 @@ Ort: Zentralkrankenhaus"
 524,,Trova delle erbe,尋找藥草,,약초를 찾으러 가자.,Kräuter suchen
 525,,Trova due ingredienti,尋找作為藥物材料的2項道具,,약의 소재가 될 아이템을 2개 찾아오자.,Zwei Zutaten suchen
 540,,La Prova della Medicina del Dott. Datamon,分子獸博士的新藥實驗,,데이터몬 박사의 신약 실험,Dr. Datamons medizinischer Test
-541,,"Sono un famoso esperto nel preparare medicine 
-per Digimon. Chiamatemi ""Dott. Datamon"".
+541,,"Sono un famoso esperto nella creazione di 
+medicine per Digimon. Chiamami ""Dott. Datamon"".
 Ho bisogno di aiuto con il mio prototipo.","為數碼寶貝製作藥物而聞名的博士
 －－分子獸博士指的就是我
 這次我也想要借助你的力量執行新藥的實驗",,"디지몬을 위한 약 만들기로 유명한 박사
@@ -473,8 +473,8 @@ Ort: Zentralkrankenhaus"
 543,,Inizia all'ospedale,從醫院某處前往委託人的所在地,,병원 어딘가에서 의뢰인이 있는 곳으로 향하자.,Start im Krankenhaus
 544,,Dai la medicina a 4,讓4隻數碼寶貝服下藥物,,약을 4마리의 디지몬에게 먹여보자.,4-mal Medizin geben
 560,,Medicina Dott. Datamon Completa,分子獸博士的新藥完成,,데이터몬 박사의 신약 완성,Dr. Datamons vollendete Medizin
-561,,"Sono un famoso esperto nella creazione di medicine 
-per Digimon. Chiamami ""Dott. Datamon"".
+561,,"Sono un famoso esperto nella creazione di 
+medicine per Digimon. Chiamami ""Dott. Datamon"".
 Ho bisogno di aiuto con il mio esperimento finale!","為數碼寶貝製作藥物而聞名的博士
 －－分子獸博士指的就是我
 藥物的最終實驗……希望你能幫忙",,"디지몬을 위한 약 만들기로 유명한 박사
@@ -605,12 +605,12 @@ posto mio!","我很想幫上雅奇諾小姐的忙呀
 대신 도움이 되어주셨으면 합니다!","Ich will Akkino helfen! Aber ich bin
 machtlos ... Du musst für mich
 einspringen!"
-1122,,"Cliente: Domatore Ribelle (Yasu)
+1122,,"Cliente: Tamer Ribelle (Yasu)
 Luogo: Galacta Park, Kowloon","【委託人】反叛者的馴獸師(阿康)
 【所在地】Kowloon‧破銅爛鐵公園",,"【의뢰인】리벨리온즈의 테이머(야스)
 【장소】쿠롱, 잡동사니 공원","Klient: Rebel-Zähmer (Yasu)
 Ort: Galacta-Park, Kowloon"
-1123,,Galacta Park Domatore,和破銅爛鐵公園裡的馴獸師見面,,잡동사니 공원에 있는 테이머를 만나자.,"Zähmer, Galacta-Park"
+1123,,Galacta Park Tamer,和破銅爛鐵公園裡的馴獸師見面,,잡동사니 공원에 있는 테이머를 만나자.,"Zähmer, Galacta-Park"
 1124,,Nokia Kowloon Lv. 1,在Kowloon Lv. 1裡尋找諾奇雅,,쿠롱 Lv.1에서 노키아를 찾자.,"Nokia Kowloon, Ebene 1"
 1125,,Nokia Kowloon Liv. 2,在Kowloon Lv. 2裡尋找諾奇雅,,쿠롱 Lv.2에서 노키아를 찾자.,"Nokia Kowloon, Ebene 2"
 1140,,Non è l'ideale,La Misère（貧困）,,라 미셀,Nicht ideal
@@ -626,7 +626,7 @@ Luogo: Forum Zaxon","【委託人】YUGO
 Ort: Zaxon-Forum"
 1143,,Yuugo al Forum Zaxon,在Zaxon廣場和YUGO見面,,잭슨 포럼에서 유고와 만나자.,Yuugo im Zaxon-Forum
 1144,,Panca dell'Area Comune,前往公共區域的長椅,,커뮤니티 에어리어의 벤치로 향하자.,"Bank, Gemeinschaftsbereich"
-1145,,Allenatore Kowloon Liv. 4.,在Kowloon Lv. 4裡尋找馴獸師,,쿠롱 Lv.4에서 테이머를 찾자.,"Zähmer Kowloon, Ebene 4"
+1145,,Tamer Kowloon Liv. 4.,在Kowloon Lv. 4裡尋找馴獸師,,쿠롱 Lv.4에서 테이머를 찾자.,"Zähmer Kowloon, Ebene 4"
 1160,,Fiori per Sakura,贈予櫻的玫瑰花束,,사쿠라에게 장미 한 다발을,Blumen für Sakura
 1161,,"Oh... Cosa dovrei fare!? Cosa posso fare!?
 C'è qualcosa che posso darle per conquistare
@@ -779,9 +779,9 @@ Ort: Ueno Museum"
 1323,,Entra nel Museo di Ueno,進入博物館內部,,박물관 안쪽에서 진행해보자.,Ueno Museum betreten
 1324,,Esplora il Museo di Ueno,前往更深處,,더 안쪽으로 진행해보자.,Ueno Museum erkunden
 1340,,"Mondo Parallelo, Ragazza & Destino: Ira",平行世界和少女和命運　與憤怒的遭遇,,"병행세계와 소녀와 운명, 분노와의 조우",Schicksal aus der Parallelwelt: Zorn
-1341,,"Una ragazza da un mondo parallelo e sette
-malvagi dilaganti nel nostro mondo... Ti affido
-la ruota del destino che ci lega tutti.","來自平行世界的一名少女
+1341,,"Una ragazza proveniente da un mondo parallelo.
+7 peccati che imperversano nel nostro mondo.
+Ti affido la ruota del destino che ci lega tutti.","來自平行世界的一名少女
 和在這個世界蔓延開來的七隻“邪惡”……
 我要將“命運之輪”託付於你",,"병행세계에서 온 한 명의 소녀와
 그 세계에서 횡행하던 일곱 개의 ""악""…
@@ -797,9 +797,9 @@ Ort: DigiLab"
 1344,,Ospedale di Creepymon,在中央醫院裡尋找究極魔獸,,센트럴 병원에서 마왕몬을 찾자.,"Creepymon, Krankenhaus"
 1345,,Rapporto Mirei & Sayo,向米蕾和小夜報告,,미레이와 사요에게 보고하자.,"Bericht: Mirei, Sayo"
 1360,,"Mondo Parallelo, Ragazza & Destino: Avidità",平行世界和少女和命運　與貪婪的重逢,,"병행세계와 소녀와 운명, 탐욕과의 재회",Schicksal aus der Parallelwelt: Gier
-1361,,"Una ragazza da un mondo parallelo e sette
-mali dilaganti nel nostro mondo... Ti affido
-la ruota del destino che lega tutti noi.","來自平行世界的一名少女
+1361,,"Una ragazza proveniente da un mondo parallelo.
+7 peccati che imperversano nel nostro mondo.
+Ti affido la ruota del destino che ci lega tutti.","來自平行世界的一名少女
 和在這個世界蔓延開來的七隻“邪惡”……
 我要將“命運之輪”託付於你",,"병행세계에서 온 한 명의 소녀와
 그 세계에서 횡행하던 일곱 개의 ""악""…
@@ -815,9 +815,9 @@ Ort: DigiLab"
 1364,,Barbamon a Nakano,在中野尋找巴爾巴獸,,나카노에서 발바몬을 찾자,Barbamon in Nakano
 1365,,Rapporto Mirei & Sayo,向米蕾和小夜報告,,미레이와 사요에게 보고하자.,"Bericht: Mirei, Sayo"
 1380,,"Mondo Parallelo, Ragazza & Destino: Lussuria",平行世界和少女和命運　與色慾的相會,,"병행세계와 소녀와 운명, 색욕과의 대면",Schicksal aus d. Parallelwelt: Begehren
-1381,,"Una ragazza da un mondo parallelo e sette
-malvagità dilaganti nel nostro mondo... Ti affido
-la ruota del destino che ci lega tutti.","來自平行世界的一名少女
+1381,,"Una ragazza proveniente da un mondo parallelo.
+7 peccati che imperversano nel nostro mondo.
+Ti affido la ruota del destino che ci lega tutti.","來自平行世界的一名少女
 和在這個世界蔓延開來的七隻“邪惡”……
 我要將“命運之輪”託付於你",,"병행세계에서 온 한 명의 소녀와
 그 세계에서 횡행하던 일곱 개의 ""악""…
@@ -833,9 +833,9 @@ Ort: DigiLab"
 1384,,Lilithmon a Nakano,在中野尋找莉莉絲獸,,나카노에서 리리스몬을 찾자,Lilithmon in Nakano
 1385,,Rapporto Mirei & Sayo,向米蕾和小夜報告,,미레이와 사요에게 보고하자.,"Bericht: Mirei, Sayo"
 1400,,"Mondo Parallelo, Ragazza & Destino: Invidia",平行世界和少女和命運　與嫉妒的邂逅,,"병행세계와 소녀와 운명, 질투와의 해후",Schicksal aus der Parallelwelt: Neid
-1401,,"Una ragazza da un mondo parallelo e sette
-mali dilaganti nel nostro mondo... Ti affido
-la ruota del destino che ci lega tutti.","來自平行世界的一名少女
+1401,,"Una ragazza proveniente da un mondo parallelo.
+7 peccati che imperversano nel nostro mondo.
+Ti affido la ruota del destino che ci lega tutti.","來自平行世界的一名少女
 和在這個世界蔓延開來的七隻“邪惡”……
 我要將“命運之輪”託付於你",,"병행세계에서 온 한 명의 소녀와
 그 세계에서 횡행하던 일곱 개의 ""악""…
@@ -851,9 +851,9 @@ Ort: DigiLab"
 1404,,Leviamon in ospedale,在中央醫院尋找利維坦獸,,센트럴 병원에서 리바이어몬을 찾자.,"Leviamon, Krankenhaus"
 1405,,Rapporto Mirei & Sayo,向米蕾和小夜報告,,미레이와 사요에게 보고하자.,"Bericht: Mirei, Sayo"
 1420,,"Mondo Parallelo, Ragazza & Destino: Gola",平行世界和少女和命運　與暴食的對峙,,"병행세계와 소녀와 운명, 폭식과의 상대",Schicksal aus der Parallelwelt: Völlerei
-1421,,"Una ragazza da un mondo parallelo e sette
-mali dilaganti nel nostro mondo... Ti affido
-la ruota del destino che ci lega tutti.","來自平行世界的一名少女
+1421,,"Una ragazza proveniente da un mondo parallelo.
+7 peccati che imperversano nel nostro mondo.
+Ti affido la ruota del destino che ci lega tutti.","來自平行世界的一名少女
 和在這個世界蔓延開來的七隻“邪惡”……
 我要將“命運之輪”託付於你",,"병행세계에서 온 한 명의 소녀와
 그 세계에서 횡행하던 일곱 개의 ""악""…
@@ -869,9 +869,9 @@ Ort: DigiLab"
 1424,,Beelzemon a Nakano,在中野尋找墮天地獄獸,,나카노에서 베르제브몬을 찾자.,Beelzemon in Nakano
 1425,,Rapporto Mirei & Sayo,向米蕾和小夜報告,,미레이와 사요에게 보고하자.,"Bericht: Mirei, Sayo"
 1440,,"Mondo Parallelo, Ragazza & Destino: Accidia",平行世界和少女和命運　與怠惰的接觸,,"병행세계와 소녀와 운명, 나태와의 접촉",Schicksal aus der Parallelwelt: Faulheit
-1441,,"Una ragazza da un mondo parallelo e sette
-malvagità dilaganti nel nostro mondo... Ti consegno
-la ruota del destino che ci lega tutti.","來自平行世界的一名少女
+1441,,"Una ragazza proveniente da un mondo parallelo.
+7 peccati che imperversano nel nostro mondo.
+Ti affido la ruota del destino che ci lega tutti.","來自平行世界的一名少女
 和在這個世界蔓延開來的七隻“邪惡”……
 我要將“命運之輪”託付於你",,"병행세계에서 온 한 명의 소녀와
 그 세계에서 횡행하던 일곱 개의 ""악""…
@@ -887,9 +887,9 @@ Ort: DigiLab"
 1444,,Belphemon a Nakano,在中野尋找貝爾菲獸,,나카노에서 벨페몬을 찾자.,Belphemon in Nakano
 1445,,Rapporto Mirei & Sayo,向米蕾和小夜報告,,미레이와 사요에게 보고하자.,"Bericht: Mirei, Sayo"
 1460,,"Mondo Parallelo, Ragazza & Destino: Orgoglio",平行世界和少女和命運　對傲慢的拜見,,"병행세계와 소녀와 운명, 오만과의 만남",Schicksal aus der Parallelwelt: Hochmut
-1461,,"Una ragazza da un mondo parallelo e sette
-mali dilaganti nel nostro mondo... Ti do
-la ruota del destino che lega tutti noi.","來自平行世界的一名少女
+1461,,"Una ragazza proveniente da un mondo parallelo.
+7 peccati che imperversano nel nostro mondo.
+Ti affido la ruota del destino che ci lega tutti.","來自平行世界的一名少女
 和在這個世界蔓延開來的七隻“邪惡”……
 我要將“命運之輪”託付於你",,"병행세계에서 온 한 명의 소녀와
 그 세계에서 횡행하던 일곱 개의 ""악""…
@@ -905,9 +905,9 @@ Ort: DigiLab"
 1464,,Lucemon in ospedale,在中央醫院尋找光明獸,,센트럴 병원에서 루체몬을 찾자.,"Lucemon, Krankenhaus"
 1465,,Rapporto Mirei & Sayo,向米蕾和小夜報告,,미레이와 사요에게 보고하자.,"Bericht: Mirei, Sayo"
 1480,,Scoop esclusivo di Terriermon!,大耳獸的24小時貼身採訪！？,,테리어몬의 밀착취재 24시!?,Terriermons Exklusivbericht
-1481,,"Voglio che i Digimon diventino migliori amici degli
-umani! Ecco perché ho bisogno di uno scoop
-segreto sugli umani!","我呀，想要跟人類變得更要好！
+1481,,"Voglio che i Digimon diventino migliori amici
+degli umani! Ecco perché ho bisogno di uno
+scoop segreto sugli umani!","我呀，想要跟人類變得更要好！
 然後呀，我想讓數碼寶貝們知道人類的優點
 所以讓我做「人類的貼身採訪」！",,"나 말야, 인간과 더 친해지고 싶어!
 해서, 디지몬 모두에게 인간의 좋은 점을 전하고 싶거든.
@@ -958,9 +958,9 @@ Ort: DigiLab"
 1526,,1 [m3010] hacker,打到[m3010]的最後一名駭客,,[m3010]의 해커 남은 1명을 쓰러뜨려라.,1 Hacker in [m3010]
 1527,,Riporta a Mirei,向米蕾報告,,미레이에게 보고하자.,Mit Mirei sprechen
 2000,,La sfida di Rina Shinomiya,四之宮莉娜的挑戰書,,시노미야 리나의 도전장,Rina Shinomiyas Herausforderung
-2001,,"Voglio un incontro con te!
-Voglio mostrarti la mia passione!
-La mia zuppa mattutina mi mantiene forte! Ahaha!","我要向你提出挑戰！
+2001,,"Voglio un incontro con te! Voglio mostrarti
+la mia passione! La mia zuppa mattutina mi
+mantiene forte! Ahaha!","我要向你提出挑戰！
 接受我熱血沸騰的鬥志吧！
 早上喝味噌湯對內臟很好！哇哈哈！",,"너에게 승부를 신청하겠다!
 내 불타오르는 투지를 받아보아라―!
@@ -1023,8 +1023,7 @@ Ort: DigiLab"
 2064,,Vai a Kowloon Lv. 5,在Kowloon Lv. 5裡小試身手,,쿠롱 Lv.5에서 힘을 시험하자.,"Nach Kowloon, Ebene 5"
 2080,,Grande Sfida 4,偉大的挑戰④,,위대한 도전④,Große Herausforderung 4
 2081,,"Hai vinto di nuovo! Stai diventando davvero
-forte. I prossimi Digimon sono
-quelli lì.","你又獲勝了
+forte. I prossimi Digimon sono quelli lì.","你又獲勝了
 但差不多開始有點吃力了吧？
 接下來的數碼寶貝是它們",,"또 이겨버렸네.
 슬슬 버거워졌으려나?
@@ -1057,8 +1056,7 @@ Ort: DigiLab"
 2104,,Metti alla prova te stesso a Odaiba,在御台場裡小試身手,,오다이바에서 힘을 시험하자,Selbsttest in Odaiba
 2120,,Grande Sfida 6,偉大的挑戰⑥,,위대한 도전⑥,Große Herausforderung 6
 2121,,"Forse non hai combattuto contro questi tizi?
-Sono Digievoluti e molto forti.
-Divertiti!","你應該還沒跟它們戰鬥過吧
+Sono Digievoluti e molto forti. Divertiti!","你應該還沒跟它們戰鬥過吧
 進化過後的它們可是更加地強大哦
 請務必讓它們好好享受一番",,"그들과는 아직 싸우지 않았나?
 진화한 그들 역시 강할 거야.
@@ -1071,7 +1069,7 @@ Luogo: DigiLab","【委託人】御神樂米蕾
 【장소】디지랩","Klient: Mirei Mikagura
 Ort: DigiLab"
 2123,,Altre informazioni da Mirei,向米蕾聽取詳細的委託內容,,미레이에게 자세한 의뢰 내용을 듣자.,Mehr Infos von Mirei
-2124,,Vai al Covo del Demone,在惡魔巢穴裡小試身手,,데몬즈 아지트에서 힘을 시험하자,Zur Demons-Höhle
+2124,,Vai al Covo del Demons,在惡魔巢穴裡小試身手,,데몬즈 아지트에서 힘을 시험하자,Zur Demons-Höhle
 2140,,Grande Sfida 7,偉大的挑戰⑦,,위대한 도전⑦,Große Herausforderung 7
 2141,,"Devi essere orgoglioso di te?
 Ho ancora altre sfide per te.
@@ -1139,7 +1137,7 @@ Luogo: Shinjuku","【委託人】又吉
 Ort: Shinjuku"
 3063,,"Strano posto, Shinjuku",前往新宿內感受到異狀的地方,,신주쿠로 가서 이변을 느낀 장소로 가자.,Winkel von Shinjuku
 3064,,Controlla l'area per indizi,調查周圍有沒有其他線索,,그 외에 단서가 없는지 주변을 조사하자.,Nach Spuren suchen
-3065,,Network Digitale,調查數碼網路世界內部,,디지털 네트워크 내를 조사하자.,Digitales Netzwerk
+3065,,Rete Digitale,調查數碼網路世界內部,,디지털 네트워크 내를 조사하자.,Digitales Netzwerk
 3120,,Pentagramma in Mischia ,人車分離五芒星,,스크램블 오망성,Diagonal-Pentagramm
 3121,,"La leggenda di ""Shibuya Hirasaka...""
 Ho bisogno di aiuto per verificarla.","希望你能協助我們查證
@@ -1247,7 +1245,7 @@ Luogo: Broadway","【委託人】水嶋老人
 Ort: Broadway"
 3483,,K-Cafe Broadway 4F,前往BW4F的K-Cafe,,BW 4F의 K-카페로 가자.,"K-Café, Broadway 4. St."
 3484,,Controlla il computer a muro,調查牆壁另一側的電腦內部,,벽 너머의 컴퓨터 내를 조사하자.,Wandcomputer prüfen
-3485,,Network digitale,前往數碼網路世界內部,,디지털 네트워크 내를 조사하자.,Digitales Netzwerk
+3485,,Rete Digitale,前往數碼網路世界內部,,디지털 네트워크 내를 조사하자.,Digitales Netzwerk
 3486,,Cerca Pete,尋找皮特的同時，一邊調查周圍,,피트를 찾으면서 주변을 조사하자.,Pete suchen
 3487,,Spiega chi è Pete,告訴他皮特的真實身分,,피트의 정체를 가르쳐주자.,Pete vorstellen
 4000,,Chicchi di Qualità Superiore,咖啡豆就是要高品質,,콩은 고품질,Beste Bohnen

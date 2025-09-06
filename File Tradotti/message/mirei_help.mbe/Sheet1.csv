@@ -684,8 +684,8 @@ E quelli li puoi trovare... hihi.","想叫出持有特殊技能的數碼寶貝�
 어디서 구할 수 있는지는… 우후후","Um Digimon mit besonderen Fertigkeiten zu rufen,
 benötigst du Harmonischer Wille und Stahlwille. 
 Und die kannst du finden ... hihi."
-15051,3013,,"Ma certo che sei preoccupato...
-Però prima incontra i Royal Knights a Ueno e nella metropolitana di Shibuya.","就算一直煩惱也沒有意義啊……
+15051,3013,,"Ma certo che sei preoccupato... Però prima incontra
+i Royal Knights a Ueno e nella metropolitana di Shibuya.","就算一直煩惱也沒有意義啊……
 總之，你現在就先去見
 在涉谷的地下以及上野的皇家騎士吧。",,"고민해 봐도 별수 없어…
 어쨌든 지금은, 시부야의 지하와 우에노에 있는
@@ -735,7 +735,7 @@ Sbrigati e vai ad Asakusa.","你還在這種地方打混好嗎？
 wärst detektivisch gefragt.
 Beeil dich und geh nach Asakusa."
 15090,3013,,"Lo spostamento digitale di Asakusa.
-Lì c'è un Divoratore. L'area è proprio come prima. ... Dunque.
+Lì c'è un Eater. L'area è proprio come prima. ... Dunque.
 Quale futuro sceglierai?","淺草的Digital Shift……侵食者就在這裡的深處哦。
 這一帶的構造似乎跟之前一模一樣呢。
 好啦，你會選擇什麼樣的未來呢？",,"아사쿠사의 디지털 시프트… 이터는 이 안쪽에 있어
@@ -825,8 +825,8 @@ Chiudi gli occhi...","聽得見嗎？
 자, 눈을 감아…","Kannst du mich hören? [p]
 ist fort, also werde ich dir helfen.
 Schließ die Augen ..."
-18020,3013,,"Benvenuto nel Digilab. A dire il vero, questo posto era per [p],
-ma… il destino… è stato cambiato. Ho bisogno del tuo aiuto.","歡迎來到數碼實驗室。
+18020,3013,,"Benvenuti nel Digilab. A dire il vero, questo posto era per [p],
+ma… il destino… è stato cambiato. Ho bisogno del vostro aiuto.","歡迎來到數碼實驗室。
 這裡原本是為了[p]而開設的空間，
 但命運現在變得搖擺不定，所以我需要妳們的力量。",,"어서 와, 디지랩에
 본래 이곳은 [p]를(을) 위해서 열린 공간이지만…
@@ -856,16 +856,14 @@ Con gli ascensori giusti, arriverai al 14°, 29°e 39°piano.","新都廳內變�
 향할 수 있어","Das Metropolitan-Gebäude ist riesig. Du brauchst
 Glück und Geduld. Mit den richtigen Lifts gelangst
 du in den 14., 29. und 39. Stock."
-19010,3013,,"Sei arrivato fin qui. Bel lavoro.
-Ma c'è ancora un'ultima missione
-che va portata a termine.","一路戰鬥至今真是辛苦你了……雖然我很想這樣慰勞你，
+19010,3013,,"Sei arrivato fin qui. Bel lavoro. Ma c'è ancora
+un'ultima missione che va portata a termine.","一路戰鬥至今真是辛苦你了……雖然我很想這樣慰勞你，
 不過似乎還有最後一場戰鬥在等著你呢。",,"지금까지 수고 많았어… 라고, 말하고 싶지만…
 아직 마지막 마무리가 남아 있는 것 같네","Du bist bis hierher gekommen. Gute Arbeit.
 Aber es gibt noch eine letzte Aufgabe,
 die beendet werden muss."
-19011,3013,,"Omnimon ti aspetta in cima all'edificio.
-... Su, vai! Finalmente vedrò io stesso
-cosa il tuo destino ti riserva.","奧米加獸正在新都廳的天台等著你哦。
+19011,3013,,"Omnimon ti aspetta in cima all'edificio. Su, vai!
+Finalmente vedrò io stesso cosa il tuo destino ti riserva.","奧米加獸正在新都廳的天台等著你哦。
 好了，快去吧！
 我會親眼見證你的命運的。",,"신 도청의 옥상에서, 오메가몬이 기다리고 있어
 …자, 가렴!

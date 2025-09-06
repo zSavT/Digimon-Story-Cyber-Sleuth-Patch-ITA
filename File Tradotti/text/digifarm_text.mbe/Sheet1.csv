@@ -3,7 +3,7 @@ ID,Japanese,English,Chinese,EnglishCensored,Korean,German
 2,,Aggiungi Isole,增加島嶼,,섬을 늘린다,Weitere Inseln
 10,,Comando,下達指令,,지시한다,Befehl
 11,,Cambia Leader,變更隊長,,리더 변경,Anführer ändern
-12,,Oggetti della Fattoria,農場道具,,팜 굿즈,Farmprodukte
+12,,Prodotti Fattoria,農場道具,,팜 굿즈,Farmprodukte
 13,,Espansione della Fattoria,島嶼擴張,,팜 확장,Farmerweiterung
 14,,Grado,位階,,랭크,Rang 
 15,,MAX,MAX,,MAX, MAX.
@@ -21,9 +21,9 @@ ID,Japanese,English,Chinese,EnglishCensored,Korean,German
 41,,(Liv. max %s),（Max Level %s）,,(최대 Lv. %s),(Max. Lv. %s)
 42,,(Liv. max.,（Max Level,,(최대 Lv. ,(Max. Lv. 
 43,,),）,,),)
-50,,Ottieni Oggetti Ricevuti,領取收到的道具,,도착한 아이템을 받는다,Items erhalten
+50,,Oggetti Ricevuti,領取收到的道具,,도착한 아이템을 받는다,Items erhalten
 51,,Vendi Oggetti ed Esci,販賣道具後結束,,아이템을 매각하고 종료,Verkaufen & beenden
-60,,Digicarne,數碼肉,,디지 고기,Digi-Fleisch
+60,,Digi-Carne,數碼肉,,디지 고기,Digi-Fleisch
 100,,Cambia,變更,,변경,Ändern
 101,,Rimuovi,卸下,,제외,Entf.
 110,,CAM,友情,,우정,KAM
