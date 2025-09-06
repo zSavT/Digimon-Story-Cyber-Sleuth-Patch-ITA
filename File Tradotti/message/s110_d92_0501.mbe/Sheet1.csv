@@ -6,11 +6,13 @@ ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
 3,2001,,!!,！！？？,,!!,!!!
 4,1312,,"Reiko, cosa sta succedendo!",玲子……這到底是怎麼一回事！？,,레이코… 이게 대체 어떻게 된 거야!?,"Reiko, was ist denn los!"
 5,4060,,"*sob* Etemon? Sei tu?! Oh, guarda,
-c'è anche {player_name}! Ciaooo~!","你是……悟空獸！
+c'è anche [p]! Ciaooo~!","你是……悟空獸！
 而且[p]也在！",,"당신은… 에테몬 씨!
 그리고 [p] 씨도!","*Schluck* Etemon? Bist du das?! Ach und schau,
 [p] ist auch da! Hallooo!"
-6,1312,,"No... La mia povera, preziosa Reiko...! Il tuo cuore luminoso è stato avvelenato a tal punto da questo incapace buono a nulla?!","妳該不會……
+6,1312,,"No... La mia povera, preziosa Reiko...!
+Il tuo cuore luminoso è stato avvelenato a tal punto
+da questo incapace buono a nulla?!","妳該不會……
 身心都被這種爛男人給荼毒了……",,"너 혹시…
 몸도 마음도 이런 몹쓸 남자에게 오염되어서…","Nein ... Meine arme, liebe Reiko ... Hat dieser
 untalentierte Nichtskönner dich so in seinen Bann
@@ -35,9 +37,8 @@ Tanaka è venuto al negozio e--","我只是被他邀請，
 Tanaka kam in den Laden und ..."
 11,3010,,Ehi! Olà! Questo non spacca!,咳！？咳、咳、嗯！？！,,"우학!? 으흠, 으흠, 으흐으으으으음!?!",Wow! He! Das rockt mal überhaupt gar nicht!
 12,4060,,Oops! Intendo Jimmy. Non Tanaka. Jimmy.,啊，糟糕，記得你的本名好像不能透露！？,,"아, 맞다, 본명은 NG였죠!?",Huch! Ich meinte Jimmy. Nicht Tanaka. Jimmy.
-13,4060,,"Comunque, Jimmy è venuto al negozio e mi ha raccontato
-del suo sogno di creare musica che tutto il
-mondo potesse amare!","我和來到店裡的Jimmy先生聊著
+13,4060,,"Comunque, Jimmy è venuto al negozio e mi ha raccontato del
+suo sogno di creare musica che tutto il mondo potesse amare!","我和來到店裡的Jimmy先生聊著
 想用對音樂的LOVE讓全世界充滿幸福，聊得好起勁……",,"매장에 와 주신 지미 씨와, 음악을 향한 LOVE로
 세상을 행복하게 만들고 싶어! 같은 얘기로 불타올라서…","Jimmy kam jedenfalls in den Laden und meinte,
 dass er schon immer von Musik geträumt hat,
@@ -69,12 +70,13 @@ zu rocken!"
 21,1312,,Non potresti mai capire la vera potenza del rock!,你的音樂風格根本不可能抓住人心！,,"네 음악성으로는 사람들의 하트를 잡는 건
 절대 불가능해!!",Die wahre Macht des Rock wirst du nie verstehen!
 22,3010,,Ma cheeeeeeee?!,什～～麼～～！？,,뭐어야아아아아아――!?,Waaaaaas?!
-23,4060,,Smettetela di combattere! Adesso! Entrambi avete dimenticato cosa la musica possa veramente fare!,"不管是Jimmy先生的音樂，還是悟空獸的音樂，
+23,4060,,"Smettetela di combattere! Adesso!
+Entrambi avete dimenticato cosa la musica possa veramente fare!","不管是Jimmy先生的音樂，還是悟空獸的音樂，
 我都喜歡！",,"지미 씨의 음악도, 에테몬 씨의 음악도
 전 둘 다 좋아해요!","Hört auf zu streiten! Beide! Sofort! Ihr habt
 beide vergessen, was die Musik wirklich kann!"
-24,4060,,"Siete entrambi talentuosi. Siete entrambi unici. Perché
-deve essere una competizione?!","你們的音樂風格本來就不一樣，
+24,4060,,"Siete entrambi talentuosi. Siete entrambi unici.
+Perché deve essere una competizione?!","你們的音樂風格本來就不一樣，
 沒必要對抗吧！好嗎？",,"애초에 음악성이 서로 다르니까
 그렇게 다투지 않아도 되잖아요! 네?","Ihr habt beide Talent und seid einzigartig.
 Warum muss es denn immer gegeneinander gehen?"

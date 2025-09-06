@@ -25,8 +25,8 @@ che il dolore continui ad esistere in tutti i mondi.","只要悲傷不能從所�
 돌아가고 싶지 않습니다. 이대로, 사라지겠습니다","Ich kehre nie wieder zurück. Lieber verschwinde
 ich, als dass ich Kummer auf allen Welten
 weiter existieren lasse."
-7,4846,,"Non riesco a capire perché
-sceglieresti un mondo così pieno di dolore.","……真是難以理解，
+7,4846,,"Non riesco a capire perché sceglieresti
+un mondo così pieno di dolore.","……真是難以理解，
 為什麼你們要選擇蔓延著不幸的世界呢？",,"…어째서, 당신들이 불행이 만연한 세계를 고르는 건지
 이해하기 힘들군요","Ich kann nicht nachvollziehen, warum du dich
 für eine Welt entscheiden würdest, die von so
@@ -47,10 +47,11 @@ Wer wird dadurch glücklicher?"
 11,4846,,Hai una risposta adeguata a questo?,對於我的問題，你能給我個令人信服的答案嗎？,,"제 질문에 대한, 납득할 수 있는 대답을 받을 수 있을까요?",Hast du darauf eine adäquate Antwort?
 12,2000,,...,………,,………,...
 13,2000,,Non lasciamo nessuno indietro.,我已經不想丟下任何人了。,,"더 이상, 그 누구도 내버려 두고 가고 싶지 않아",Wir lassen niemanden zurück.
-14,4846,,"Non vuoi forse solo proteggere il
-tuo ego?",那只是你的自我滿足喔？,,"…그건, 당신의 에고일 뿐이라구요?","Willst du da nicht vielleicht nur dein Ego
+14,4846,,"Non vuoi forse solo proteggere il tuo ego?",那只是你的自我滿足喔？,,"…그건, 당신의 에고일 뿐이라구요?","Willst du da nicht vielleicht nur dein Ego
 schützen?"
-15,2000,,"L'ho promesso. Certo. E allora?","我已經約好了。
+15,2000,,"L'ho promesso.
+Certo.
+E allora?","我已經約好了。
 就是自我滿足，不行嗎？",,"그렇게 하기로, 약속했어
 에고입니다만, 문제라도?","Ich habe es versprochen.
 Klar. Na und?"
@@ -66,7 +67,7 @@ deine Antwort nicht herleiten ..."
 20,4846,,"Mi è appena venuta l'illuminazione!
 Finalmente capisco!",我恍然大悟了！懂了，我也懂了！,,"감이 왔습니다! 이해했습니다, 저도!","Gerade ist mir die Erleuchtung gekommen!
 Endlich verstehe ich!"
-21,4846,,""Dio non gioca a dadi!"",「上帝不會擲骰子」！,,「신은 주사위를 던지지 않는다」…!,„Gott würfelt nicht!“
+21,4846,,"""Dio non gioca a dadi!""",「上帝不會擲骰子」！,,「신은 주사위를 던지지 않는다」…!,„Gott würfelt nicht!“
 22,4846,,"Eravate solo pedine per tutto il tempo!
 Ci sono pedine con volontà propria?!","你們正是“骰子本身”！
 面對有自我意志的骰子，賭局會成立嗎！",,"당신들은 바로, ""주사위 그 자체""였던 겁니다!
@@ -87,8 +88,8 @@ momento porta alla fusione di realtà.",我瞭解了……在那樣理解的當�
 Zeitpunkt führt zur Verschmelzung von Realitäten."
 28,4846,,...,……………,,……………,...
 29,4846,,"Ma un momento. Per favore, aspetta un momento.",不，請等一下。,,"…아니, 잠깐만요",Aber einen Moment. Bitte warte einen Moment.
-30,4846,,"Per favore, attendi un istante.
-Aspetta. La logica si inceppa un po', vero?","請等一下，請等一下。
+30,4846,,"Aspetta un attimo. Aspetta.
+La logica non torna, vero?","請等一下，請等一下。
 這樣在理論上似乎太過跳躍……？",,"잠깐만요, 잠깐만요
 역시 그건, 논리의 비약이 아닐까요…?","Bitte warte einen Augenblick. Warte.
 Die Logik hakt doch etwas, oder?"
@@ -117,8 +118,8 @@ Distorceremmo il risultato dell'equazione.","因為我們的存在太特別了�
 我們影響世界的力量變得太強，所以沒辦法得出正確的結果。",,"존재가, 너무나도 특이적이니까 말이지요
 세계에 영향을 끼치는 힘이 너무 강해져서, 올바른 결과를 이끌어 낼 수가 없습니다","Wir sind zu mächtig und zu sonderbar.
 Wir würden das Ergebnis der Gleichung verzerren."
-36,3009,,"I Eater torneranno
-semplicemente al loro compito precedente.",不，侵食者只是回到“本來的角色”。,,"아니, 이터는 ""본래의 역할""로 돌아가는 것뿐이지만요","Die Verschlinger werden einfach zu ihrer
+36,3009,,"I Eater torneranno semplicemente
+al loro compito precedente.",不，侵食者只是回到“本來的角色”。,,"아니, 이터는 ""본래의 역할""로 돌아가는 것뿐이지만요","Die Verschlinger werden einfach zu ihrer
 vorherigen Aufgabe zurückkehren."
 37,3009,,"Alla loro forma, prima che fossero
 corrotti dal nostro mondo digitale.","回到受我們所創造的電腦世界影響之前，
@@ -131,8 +132,8 @@ mondi paralleli, inclusi il nostro e il Mondo Digitale.","畢竟它們是涵蓋�
 「무수의 패럴렐 월드를 통괄하는 고차원」―","Eine höhere Dimension umfasst zahllose
 Parallelwelten, darunter auch unsere und die
 Digitale Welt."
-39,3009,,"I Devoratori esistono anche lì dove noi
-non esistiamo e dove non dovranno mai esserci.",可說是屬於無法觸及、不能觸及的領域的存在。,,"말하자면, 닿을 수 없는, 닿아서는 안 되는 영역에
+39,3009,,"I Eater esistono anche lì dove noi non
+esistiamo e dove non dovranno mai esserci.",可說是屬於無法觸及、不能觸及的領域的存在。,,"말하자면, 닿을 수 없는, 닿아서는 안 되는 영역에
 속하는 존재입니다","Verschlinger gibt es auch dort, wo es uns nicht
 gibt und auch nie geben darf."
 40,3009,,"Queste Dimensioni superiori non
@@ -158,8 +159,8 @@ non posso dirlo. Questo lo sanno solo gli dèi.","這種作用是偶然還是必
 결론은 그야말로, 신만이 알고 있지요","Ob das ein Zufall oder so vorhergesehen war,
 kann ich nicht sagen. Das wissen nur die Götter."
 45,3009,,Anche se chiedessi a Re Drasil...,就算試著向世界樹詢問——,,위그드라실에게 물어보아도―,"Selbst, wenn ich König Drasil fragen würde ..."
-46,3009,,"Non so se König Drasil abbia un sesso,
-ma i ""suoi"" calcoli non confermano alcuna divinità.","“他”的……又或許是“她”的——
+46,3009,,"Non so se Re Drasil abbia un sesso, ma i
+""suoi"" calcoli non confermano alcuna divinità.","“他”的……又或許是“她”的——
 運算處理功能不認同神的存在……",,"""그""의… ""그녀""일지도 모릅니다만―
 연산처리기능은, 신의 존재를 인정하고 있지 않으며…","Ich weiß nicht, ob König Drasil überhaupt ein
 Geschlecht hat, aber „seine“ Berechnungen

@@ -2,18 +2,18 @@ ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
 1,3013,,"Hai sconfitto uno dei Sette Grandi Lord Demoni.
 Sono molto orgoglioso.",你打倒了七大魔王中的一隻呢，真厲害。,,"7대 마왕 중 하나를 쓰러뜨렸구나, 역시 굉장하네","Du hast einen der Sieben Dämonenkönige bezwungen.
 Ich bin sehr stolz auf dich."
-2,3019,,Mmm... Immagino che tu stia andando bene.,哼……還算有些本事啦。,,흐응… 그럭저럭 하는 것 같네,Du schlägst dich gar nicht so schlecht.
-3,3019,,"Quando tutti e Sette saranno stati sconfitti, allora riavrò
-Dianamon! Io... Grazie.","只要打敗所有七大魔王，
+2,3019,,Non te la cavi affatto male.,哼……還算有些本事啦。,,흐응… 그럭저럭 하는 것 같네,Du schlägst dich gar nicht so schlecht.
+3,3019,,"QNon appena tutti e sette saranno sconfitti,
+riavrò Dianamon! Io... ti ringrazio.","只要打敗所有七大魔王，
 就能取回我的伙伴——狄安娜獸……",,"7대 마왕을 전부 쓰러뜨리면, 내 파트너
 디아나몬을 되찾을 수 있어…","Sobald alle Sieben besiegt sind, bekomme ich
 Dianamon zurück! Ich ... danke dir."
-4,3019,,"Non so ancora se sarai sufficiente, ma...
-per favore, continua a provarci.","拜託你就照這個樣子繼續辦事囉。
+4,3019,,"Non so ancora se hai la stoffa per farlo,
+ma... continua a provarci, per favore.","拜託你就照這個樣子繼續辦事囉。
 不、不過，我可沒有認同你喔。",,"그 기세로 잘 부탁해
 …따, 딱히 널, 인정한 건 아니지만","Ich weiß immer noch nicht, ob du das Zeug dazu
 hast, aber ... bitte versuch es weiterhin."
-5,3013,,Fermati...! Quella cosa che stai tenendo.,"哎呀？
+5,3013,,Aspetta...! Guarda cosa hai in mano.,"哎呀？
 你拿的那個是……",,"…어머?
 네가 갖고 있는, 그건…",Halt ...! Was du da in der Hand hältst.
 6,2001,,???,？？,,??,???
@@ -24,9 +24,9 @@ una, e ciascuna riguarda il peccato che rappresentano.","這是被譽為“七�
 eine, die für seine Sünde steht."
 8,3013,,È la prova del giudizio caduto su Dianamon.,這就是懲罰狄安娜獸的證據呢。,,"이게 바로, 디아나몬에게 벌을 줬다는 증거이기도 해","Es ist der Beweis für das Urteil, das über
 Dianamon gefällt wurde."
-9,3013,,"Quando tutti loro saranno stati riuniti, Dianamon
-sarà liberata dal suo purgatorio. La sua punizione
-revocata.","只要集滿七個「罪之證」，
+9,3013,,"Una volta raccolti tutti, Dianamon
+verrà liberata dalla sua prigione e non sarà
+più esiliata.","只要集滿七個「罪之證」，
 懲罰本身就會消失不見吧。",,"「죄의 증거」를 7개 전부 모으면, 벌 그 자체가
 사라지겠지","Sobald sie alle gesammelt wurden, wird Dianamon
 aus ihrem Gefängnis befreit und ist nicht

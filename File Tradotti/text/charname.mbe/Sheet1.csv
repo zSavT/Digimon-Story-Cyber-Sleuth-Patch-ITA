@@ -151,7 +151,7 @@
 1423,,GranKuwagamon,究極古加獸,,그랜쿠가몬,GranKuwagamon
 1424,,SaberLeomon,黃金劍獅獸,,샤벨레오몬,SaberLeomon
 1425,,Sakuyamon,沙古牙獸,,샤크라몬,Sakuyamon
-1426,,CiaoAndromon,高級安杜路獸,,하이안드로몬,HiAndromon
+1426,,HiAndromon,高級安杜路獸,,하이안드로몬,HiAndromon
 1427,,Piedmon,小丑皇,,피에몬,Piedmon
 1428,,Puppetmon,木偶獸,,피노키몬,Puppetmon
 1429,,PrinceMamemon,王子豆豆獸,,프린스콩알몬,PrinceMamemon
@@ -1029,8 +1029,8 @@
 4923,,Commerciante di frutta secca Y2K,擔憂世界末日來臨的上班族,,세기말을 걱정하는 샐러리맨,Millenniumsgeschäftsmann
 4924,,Studente Che Odia Jimiken,討厭吉米肯的男學生,,지미켄을 싫어하는 남학생,Anti-Jimiken-Schüler
 4925,,Burattinaio Demoniaco Hacker,惡魔的木偶人駭客,,악마의 나무인형 해커,Dämon. Puppen-Hacker
-4926,,Hacker Bambola di Argilla Demoniaca,惡魔的泥偶人駭客,,악마의 흙인형 해커,Dämon. Tonpuppen-Hacker
-4927,,Hacker Ceroplastico Demoniaco,惡魔的蠟像人駭客,,악마의 밀랍인형 해커,Dämon. Wachsfigur-Hacker
+4926,,Hacker Demons delle Bambola di Argilla,惡魔的泥偶人駭客,,악마의 흙인형 해커,Dämon. Tonpuppen-Hacker
+4927,,Hacker Demons di Cera,惡魔的蠟像人駭客,,악마의 밀랍인형 해커,Dämon. Wachsfigur-Hacker
 4928,,Studente Posseduto da un Demone,受惡魔吸引的女學生,,악마에게 홀린 여학생,Besessener Schüler
 4929,,Uomo Demoniaco Amnesiaco,被惡魔奪去記憶的男子,,악마에게 기억을 빼앗긴 남자,Dämon. Gedächtnisloser
 4930,,Staff del Ristorante Familiare,西餐廳店員,,양식점 점원,Restaurantpersonal
@@ -1057,8 +1057,8 @@
 4951,,Uomo Gentile,看上去很溫柔的男性,,친절해보이는 남자,Freundlicher Mann
 4952,,Digipedia,數碼百科,,디지디지피디아,Digipedia
 4953,,Tizio Sudato,滿身大汗的男性,,땀 범벅인 남자,Verschwitzter Typ
-4954,,Cameriera del Cafe,咖啡店女店員,,찻집 여성점원,Café-Bedienung
-4955,,Cameriere del Caffè,咖啡店男店員,,찻집 남성점원,Café-Bedienung
+4954,,Cameriera del Bar,咖啡店女店員,,찻집 여성점원,Café-Bedienung
+4955,,Cameriere del Bar,咖啡店男店員,,찻집 남성점원,Café-Bedienung
 4956,,Bambino Passante,年輕的路人,,지나가던 젊은이,Sehr junger Passant
 4957,,Bambola Sospetta,可疑人影,,수상한 그림자,Verdächtige Person
 4958,,Amico della ragazza di campagna?,關西腔少女的熟人？,,관서 사투리 소녀의 지인?,Freund des Landmädchens?
@@ -1094,7 +1094,7 @@
 5007,,Protagonista femminile,女主角,,여주인공,Protagonistin
 5008,,Agumon & Gabumon,亞古獸＆加布獸,,아구몬&파피몬,Agumon und Gabumon
 5009,,Sig. Navit,NAVIT,,내빗군,Herr Navit
-5010,,Ribelli #1 e #2,反叛者其之1、其之2,,"리벨리온즈 1, 2",Rebel Nr. 1 und Nr. 2
+5010,,Rebels #1 e #2,反叛者其之1、其之2,,"리벨리온즈 1, 2",Rebel Nr. 1 und Nr. 2
 5011,,Mephisto & Growlmon,梅菲斯特先生＆古拉獸,,메피스토씨&그라우몬,Mephisto und Growlmon
 5013,,Hacker malvagi di Zaxon,不良Zaxon駭客們,,불량 잭슨 해커들,Böse Zaxon-Hacker
 5014,,Nokia e Yuuko,諾奇雅＆悠子,,노키아&유코,Nokia und Yuuko
@@ -1253,7 +1253,7 @@
 7015,,Bestia Oscura Preistorica?,像恐龍的黑暗猛獸？,,공룡 같은 어둠의 짐승?,Prähist. dunkle Bestie?
 7016,,Belva Oscura Lupina?,像狼的黑暗猛獸？,,늑대 같은 어둠의 짐승?,Wölfische dunkle Bestie?
 7017,,Sgherri Infernali di Akkino,地獄雅奇諾的手下們,,헬 앗키노의 부하들,Lakaien von Höll. Akkino
-7018,,Hacker Ribelli,反叛者的手下們,,리벨리온즈의 해커들,Rebel-Hacker
+7018,,Hacker Rebels,反叛者的手下們,,리벨리온즈의 해커들,Rebel-Hacker
 7019,,Hacker Stupefatto,茫然的駭客,,망연자실한 해커,Benommener Hacker
 7020,,Hacker Confuso,混亂的駭客,,혼란에 빠진 해커,Verwirrter Hacker
 7021,,Giovane Hacker Ex-Jude,前Jude的青年駭客,,전 쥬드의 청년 해커,Junger Hacker (Ex-Gamma)

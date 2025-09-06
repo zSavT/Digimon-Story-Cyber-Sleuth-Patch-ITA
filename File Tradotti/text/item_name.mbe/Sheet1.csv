@@ -61,8 +61,8 @@ ID,Japanese,English,Chinese,EnglishCensored,Korean,German
 77,,Smeraldo,祖母綠,,에메랄드,Smaragd
 78,,Diamante,鑽石,,다이아몬드,Diamant
 79,,Chrome Digizoid,數碼合金,,크롬디지조이트,Chrom-Digizoid
-90,,Potenziamento Memoria,上限提升,,메모리 업,Speicher-UP
-91,,Potenziamento Memoria DX,上限提升DX,,메모리 업 DX,Speicher-UP DX
+90,,Upgrade Memoria,上限提升,,메모리 업,Speicher-UP
+91,,Upgrade Memoria DX,上限提升DX,,메모리 업 DX,Speicher-UP DX
 100,,Patch Durevole,耐久型修正檔,,내구형 패치,Haltbarkeits-Patch
 101,,Patch Vivace,活力型修正檔,,활력형 패치,Lebendiger Patch
 102,,Patch Combattente,攻擊型修正檔,,공격형 패치,Kämpfer-Patch
@@ -387,7 +387,7 @@ ID,Japanese,English,Chinese,EnglishCensored,Korean,German
 830,,T-Shirt Giappone (Fiori),日式T-Shirt（夜櫻）,,일본 느낌 티셔츠(밤벚꽃),Japan-Shirt (Blüten)
 831,,Maglietta Giap. (Animali),日式T-Shirt（鯉魚與龍）,,일본 느낌 티셔츠(잉어와 용),Japan-Shirt (Tiere)
 832,,T-Shirt Zaxon,ZaxonT-Shirt,,잭슨 티셔츠,Zaxon-T-Shirt
-833,,T-Shirt Demoni,惡魔亂舞T-Shirt,,데몬즈 티셔츠,Demons-T-Shirt
+833,,T-Shirt Demons,惡魔亂舞T-Shirt,,데몬즈 티셔츠,Demons-T-Shirt
 834,,T-Shirt Steam D.,蒸氣T-Shirt,,스팀 티셔츠,Steam-D.-T-Shirt
 835,,T-Shirt Nera S.,黑銀T-Shirt,,흑은 티셔츠,Black-S.-T-Shirt
 836,,T-Shirt Akiba F.,格紋T-Shirt,,플란넬 티셔츠,Akiba-F.-T-Shirt

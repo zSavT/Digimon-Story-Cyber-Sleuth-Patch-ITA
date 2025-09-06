@@ -346,7 +346,7 @@ ID,Japanese,English,Chinese,EnglishCensored,Korean,German
 3088,,Distruzione,死亡召喚,,디스트럭션,Zerstörung
 3089,,Supporto Terminato,輔助終結,,서포트 엔드,Unterstützungsende
 3090,,Carica Attacco,攻擊填充,,어택 차지,Angriffsladung
-3091,,Carica di guardia,守備填充,,가드 차지,Verteidigungsladung
+3091,,Carica Difensiva,守備填充,,가드 차지,Verteidigungsladung
 3092,,Carica Mentale,智能填充,,멘탈 차지,Geistladung
 3093,,Carica Velocità,速度填充,,스피드 차지,Geschwindigkeitsladung
 3094,,Carica Agilità,敏捷填充,,어질리티 차지,Beweglichkeitsladung
@@ -428,7 +428,7 @@ ID,Japanese,English,Chinese,EnglishCensored,Korean,German
 3532,,Battaglia,開戰,,개전,Kampf
 3533,,Il respiro è affannoso...,氣喘吁吁……,,숨이 거칠어져있다…,Atmet schwer ...
 3534,,Ambrose della Rovina,終焉的安布羅修斯,,종언의 암브로시우스,Nektar des Untergangs
-3535,,Furia Caledfwlch,卡里德福洛斯的激昂,,칼라드볼그의 격앙,Caledfwlch-Wut
+3535,,Furia di Caledfwlch,卡里德福洛斯的激昂,,칼라드볼그의 격앙,Caledfwlch-Wut
 3536,,Il gioco è finito!,遊戲就到此為止,,놀이는 여기까지야,Ende der Spielzeit!
 3537,,Furia di Caledfwlch,卡里德福洛斯的激昂,,칼라드볼그의 격앙,Caledfwlch-Wut
 3538,,Posizione d'attacco,突擊態勢,,돌격 태세,Angriffshaltung
@@ -576,11 +576,11 @@ ID,Japanese,English,Chinese,EnglishCensored,Korean,German
 6002,,Processore di fusione,熔解處理裝置,,멜트 프로세서,Prozessor schmelzen
 6003,,Memoria Divisa,記憶切割,,메모리 디바이드,Speichertrennung
 6004,,Porto del Cervello,密謀者通訊埠,,마스터 마인드 포트,Superhirnanschluss
-6005,,Gestore di interruzioni,中斷處理程序,,인터럽트 핸들러,Handler stören
+6005,,Gestore di Interruzioni,中斷處理程序,,인터럽트 핸들러,Handler stören
 6006,,Ammasso Tiranno,暴君群集,,클러스터 오브 타이런트,Tyrannen-Cluster
 6007,,Drive di Sterminio,征服驅動器,,뱅퀴시 드라이브,Laufwerk bezwingen
 6008,,Riavvio del Mondo,世界重新啟動,,월드 리스타트,Welt neustarten
-6009,,Ispettore Handler,開端處理程序,,인셉트 핸들러,Anwender inspizieren
+6009,,Gestore di Ispezioni,開端處理程序,,인셉트 핸들러,Anwender inspizieren
 6010,,Gloria di Pendragon,大龍頭之光榮,,펜드래건즈 글로리,Pendragons Ruhm
 6011,,Dialogo di Pandora,潘朵拉對話,,판도라 다이얼로그,Pandora-Dialog
 6012,,Impatto Dragonico,龍魂衝擊,,드래고닉 임팩트,Drachen-Einschlag
@@ -612,7 +612,7 @@ ID,Japanese,English,Chinese,EnglishCensored,Korean,German
 6038,,Terremoto!Esplosione!Fuoco!Padre!,地神！神鳴！神馳！親父！,,지신! 신명! 신치! 친부!,Beben!Expl.!Feuer!Vater!
 6039,,Giudizio della Lama,轍劍制裁,,철검성패,Klingenurteil
 6040,,Spada Omni,奧米加之劍,,오메가 블레이드,Omnischwert
-6041,,attacco d'Amore,愛心一擊,,러블리 어택,Liebesattacke
+6041,,Attacco d'Amore,愛心一擊,,러블리 어택,Liebesattacke
 6042,,Cannone Supremo,加魯魯加農炮,,가루루 캐논,Überlegene Kanone
 6043,,Disastro Demoniaco,惡魔災難,,데몬즈 디자스터,Dämonisches Unheil
 6044,,Cannone Catastrofe,大災難,,카타스트로피 캐논,Katastrophenkanone

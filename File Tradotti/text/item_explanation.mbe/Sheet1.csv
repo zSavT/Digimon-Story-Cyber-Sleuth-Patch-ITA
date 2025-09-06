@@ -3,7 +3,7 @@ ID,Japanese,English,Chinese,EnglishCensored,Korean,German
 2,,Ripristina 750 HP a un alleato.,回復我方單體750HP,,아군 1마리의 HP를 750 회복한다.,Stellt 750 TP eines Verbündeten wieder her.
 3,,Ripristina completamente gli HP di un alleato.,回復我方單體所有HP,,아군 1마리의 HP를 완전 회복한다.,Stellt alle TP eines Verbündeten wieder her.
 4,,"Ripristina 500 HP per tutti gli alleati
-(si applica ai Digimon in combattimento)..","回復我方全體500HP
+(si applica ai Digimon in combattimento).","回復我方全體500HP
 （戰鬥時僅限戰鬥成員）",,"아군 전체의 HP를 500 회복한다.
 (배틀 시 배틀 멤버 한정)","Stellt 500 TP aller Verbündeten wieder her
 (gilt für kämpfende Digimon)."
@@ -13,7 +13,7 @@ ID,Japanese,English,Chinese,EnglishCensored,Korean,German
 (배틀 시 배틀 멤버 한정)","Stellt 1000 TP aller Verbündeten wieder
 her (gilt für kämpfende Digimon)."
 6,,"Ripristina completamente gli HP per tutti gli alleati
-(si applica ai Digimon in combattimento)..","回復我方全體所有HP
+(si applica ai Digimon in combattimento).","回復我方全體所有HP
 （戰鬥時僅限戰鬥成員）",,"아군 전체의 HP를 완전 회복한다.
 (배틀 시 배틀 멤버 한정)","Stellt alle TP aller Verbündeten wieder her
 (gilt für kämpfende Digimon)."
@@ -36,124 +36,111 @@ her (gilt für kämpfende Digimon)."
 (배틀 시 배틀 멤버 한정)","Stellt 50 % d. TP & SP aller Verbündeten
 wieder her (gilt für kämpfende Digimon)."
 13,,"Ripristina completamente HP e SP per tutti gli alleati
-(si applica ai Digimon in combattimento)..","回復我方全體所有HP和SP
+(si applica ai Digimon in combattimento).","回復我方全體所有HP和SP
 （戰鬥時僅限戰鬥成員）",,"아군 전체의 HP와 SP를 완전 회복한다.
 (배틀 시 배틀 멤버 한정)","Stellt alle TP & SP aller Verbündeten
 wieder her (gilt für kämpfende Digimon)."
-14,,"Rimuove Veleno da un alleato
-e ripristina 100 HP.","解除我方單體的劇毒
+14,,"Rimuove Veleno da un alleato e ripristina 100 HP.","解除我方單體的劇毒
 並回復100HP",,"아군 1마리의 맹독을 해제하고
 HP를 100 회복한다.","Hebt bei einem Verbündeten Gift auf
 und stellt 100 TP wieder her."
-15,,"Rimuove Confusione da un alleato
-e ripristina 100 HP.","解除我方單體的混亂
+15,,"Rimuove Confusione da un alleato e ripristina 100 HP.","解除我方單體的混亂
 並回復100HP",,"아군 1마리의 혼란을 해제하고
 HP를 100 회복한다.","Hebt bei einem Verbündeten Verwirrung
 auf und stellt 100 TP wieder her."
-16,,"Rimuove Paralisi da un alleato
-e ripristina 100 HP.","解除我方單體的麻痺
+16,,"Rimuove Paralisi da un alleato e ripristina 100 HP.","解除我方單體的麻痺
 並回復100HP",,"아군 1마리의 마비를 해제하고
 HP를 100 회복한다.","Hebt bei einem Verbündeten Lähmung auf
 und stellt 100 TP wieder her."
-17,,"Rimuove Sonno da un alleato
-e ripristina 100 HP.","解除我方單體的睡眠
+17,,"Rimuove Sonno da un alleato e ripristina 100 HP.","解除我方單體的睡眠
 並回復100HP",,"아군 1마리의 수면을 해제하고
 HP를 100 회복한다.","Hebt bei einem Verbündeten Schlaf auf
 und stellt 100 TP wieder her."
-18,,"Rimuove Stordimento da un alleato
-e ripristina 100 HP.","解除我方單體的暈眩
+18,,"Rimuove Stordimento da un alleato e ripristina 100 HP.","解除我方單體的暈眩
 並回復100HP",,"아군 1마리의 스턴을 해제하고
 HP를 100 회복한다.","Hebt bei einem Verbündeten Betäubung auf
 und stellt 100 TP wieder her."
-19,,"Rimuove Dot da un alleato
-e ripristina 100 HP.","解除我方單體的液晶化
+19,,"Rimuove Dot da un alleato e ripristina 100 HP.","解除我方單體的液晶化
 並回復100HP",,"아군 1마리의 액정화를 해제하고
 HP를 100 회복한다.","Hebt bei einem Verbündeten Verpixelung
 auf und stellt 100 TP wieder her."
-20,,"Rimuove Bug da un alleato
-e ripristina 100 HP.","解除我方單體的Bug
+20,,"Rimuove Bug da un alleato e ripristina 100 HP.","解除我方單體的Bug
 並回復100HP",,"아군 1마리의 버그를 해제하고
 HP를 100 회복한다.","Hebt bei einem Verbündeten Fehler auf
 und stellt 100 TP wieder her."
-21,,"Rimuove anomalie di stato da un alleato
-e ripristina 100 HP.","解除我方單體的異常狀態
+21,,"Rimuove anomalie di stato da un alleato e ripristina 100 HP.","解除我方單體的異常狀態
 並回復100HP",,"아군 1마리의 상태이상을 해제하고
 HP를 100 회복한다.","Heilt einen Verbündeten von Statusleiden
 und stellt 100 TP wieder her."
-22,,"Rimuove alterazioni di stato da tutti i
-Digimon combattenti e ripristina 100 HP.","解除全體戰鬥成員的異常狀態
+22,,"Rimuove alterazioni di stato da tutti i Digimon
+combattenti e ripristina 100 HP.","解除全體戰鬥成員的異常狀態
 並回復100HP",,"배틀 멤버 전체의 상태이상을 해제하고
 HP를 100 회복한다.","Heilt alle Verbündeten von Statusleiden
 und stellt 100 TP wieder her."
-23,,"Rianima un alleato con 
-il 50% degli HP massimi.","回復我方單體的無法戰鬥狀態
+23,,"Rianima un alleato con  il 50% degli HP massimi.","回復我方單體的無法戰鬥狀態
 並回復50%HP",,"아군 1마리의 전투불능을 회복하고
 HP를 50% 회복한다.","Belebt einen Verbündeten mit 50 % der
 maximalen TP wieder."
-24,,"Riporta in vita un alleato 
-con HP al massimo.","回復我方單體的無法戰鬥狀態
+24,,"Riporta in vita un alleato con HP al massimo.","回復我方單體的無法戰鬥狀態
 並回復所有HP",,"아군 1마리의 전투불능을 회복하고
 HP를 완전 회복한다.","Belebt einen Verbündeten mit vollen TP
 wieder."
-25,,"Riporta in vita tutti i Digimon 
-combattenti con HP al massimo.","回復全體戰鬥成員的無法戰鬥狀態
+25,,"Riporta in vita tutti i Digimon combattenti con HP
+al massimo.","回復全體戰鬥成員的無法戰鬥狀態
 並回復所有HP",,"배틀 멤버 전체의 전투불능을 회복하고
 HP를 완전 회복한다.","Belebt alle Digimon mit vollen TP
 wieder."
-26,,"Aumenta l'ATK di un alleato del 20%
-per 5 turni in battaglia.","戰鬥時，使我方單體的
+26,,"Aumenta l'ATK di un alleato del 20% per 5
+turni in battaglia.","戰鬥時，使我方單體的
 ATK提升20% 5回合。",,"배틀 시 5턴 동안
 아군 1마리의 공격력이 20% 상승한다.","Erhöht ANG eines Verbündeten im Kampf
 5 Züge lang um 20 %."
-27,,"Aumenta la DEF di un alleato del 20%
-per 5 turni in battaglia.","戰鬥時，使我方單體的
+27,,"Aumenta la DEF di un alleato del 20% per 5
+turni in battaglia.","戰鬥時，使我方單體的
 DEF提升20% 5回合。",,"배틀 시 5턴 동안
 아군 1마리의 방어력이 20% 상승한다.","Erhöht VER eines Verbündeten im Kampf
 5 Züge lang um 20 %."
-28,,"Aumenta l'INT di un alleato del 20%
-per 5 turni in battaglia.","戰鬥時，使我方單體的
+28,,"Aumenta l'INT di un alleato del 20% per 5
+turni in battaglia.","戰鬥時，使我方單體的
 INT提升20% 5回合。",,"배틀 시 5턴 동안
 아군 1마리의 지력이 20% 상승한다.","Erhöht INT eines Verbündeten im Kampf
 5 Züge lang um 20 %."
-29,,"Aumenta la SPD di un alleato del 20%
-per 5 turni in battaglia.","戰鬥時，使我方單體的
+29,,"Aumenta la SPD di un alleato del 20% per 5
+turni in battaglia.","戰鬥時，使我方單體的
 SPD提升20% 5回合。",,"배틀 시 5턴 동안
 아군 1마리의 민첩이 20% 상승한다.","Erhöht GES eines Verbündeten im Kampf
 5 Züge lang um 20 %."
-30,,"Aumenta l'ACU di un alleato 
-del 20% per 5 turni in battaglia.","戰鬥時，使我方單體的
+30,,"Aumenta l'ACU di un alleato  del 20% per 5
+turni in battaglia.","戰鬥時，使我方單體的
 ACU提升20% 5回合。",,"배틀 시 5턴 동안
 아군 1마리의 명중률이 20% 상승한다.","Erhöht GEN eines Verbündeten im Kampf
 5 Züge lang um 20 %."
-31,,"Aumenta l'EVA di un alleato del 20%
-per 5 turni in battaglia.","戰鬥時，使我方單體的
+31,,"Aumenta l'EVA di un alleato del 20% per 5
+turni in battaglia.","戰鬥時，使我方單體的
 EVA提升20% 5回合。",,"배틀 시 5턴 동안
 아군 1마리의 회피율이 20% 상승한다.","Erhöht AWN eines Verbündeten im Kampf
 5 Züge lang um 20 %."
-32,,"Aumenta il CRT di un alleato del 20%
-per 5 turni in battaglia.","戰鬥時，使我方單體的
+32,,"Aumenta il CRT di un alleato del 20% per 5
+turni in battaglia.","戰鬥時，使我方單體的
 CRT提升20% 5回合。",,"배틀 시 5턴 동안 아군 1마리의
 크리티컬 발생 확률이 20% 상승한다.","Erhöht KRT eines Verbündeten im Kampf
 5 Züge lang um 20 %."
 33,,Fuga dalla battaglia.,從戰鬥中逃脫,,배틀에서 도망친다.,Fliehe aus dem Kampf.
-50,,+2.500 EXP per un Digimon,單體數碼寶貝+2500 EXP,,디지몬 1마리에 +2500EXP,+2.500 EP für ein Digimon.
-51,,+5.000 EXP per un Digimon,單體數碼寶貝+5000 EXP,,디지몬 1마리에 +5500EXP,+5.000 EP für ein Digimon.
-52,,+10.000 EXP per un Digimon,單體數碼寶貝+10000 EXP,,디지몬 1마리에 +10000EXP,+10.000 EP für ein Digimon
-53,,+20.000 EXP per un Digimon,單體數碼寶貝+20000 EXP,,디지몬 1마리에 +20000EXP,+20.000 EP für ein Digimon
-54,,+40.000 EXP per un Digimon,單體數碼寶貝+40000 EXP,,디지몬 1마리에 +40000EXP,+40.000 EP für ein Digimon
+50,,+2.500 EXP per un Digimon.,單體數碼寶貝+2500 EXP,,디지몬 1마리에 +2500EXP,+2.500 EP für ein Digimon.
+51,,+5.000 EXP per un Digimon.,單體數碼寶貝+5000 EXP,,디지몬 1마리에 +5500EXP,+5.000 EP für ein Digimon.
+52,,+10.000 EXP per un Digimon.,單體數碼寶貝+10000 EXP,,디지몬 1마리에 +10000EXP,+10.000 EP für ein Digimon
+53,,+20.000 EXP per un Digimon.,單體數碼寶貝+20000 EXP,,디지몬 1마리에 +20000EXP,+20.000 EP für ein Digimon
+54,,+40.000 EXP per un Digimon.,單體數碼寶貝+40000 EXP,,디지몬 1마리에 +40000EXP,+40.000 EP für ein Digimon
 55,,Aumenta la CAM del 10.,友情值提升10,,우정치를 10 상승시킨다.,Erhöht KAM um 10.
 56,,Aumenta la CAM del 25.,友情值提升25,,우정치를 25 상승시킨다.,Erhöht KAM um 25.
-57,,"Può essere utilizzato per tornare 
-immediatamente alla tua base.",可以在一瞬間回到據點入口,,순식간에 거점으로 돌아갈 수 있다.,"Damit kannst du sofort zum Unterschlupf
+57,,"Può essere utilizzato per tornare immediatamente alla
+tua base.",可以在一瞬間回到據點入口,,순식간에 거점으로 돌아갈 수 있다.,"Damit kannst du sofort zum Unterschlupf
 zurückkehren."
-58,,"Riporta immediatamente il 
-gruppo all'entrata del dungeon.",瞬間返回迷宮的入口,,순식간에 던전 입구로 돌아간다.,"Bringt die Gruppe zum Dungeon-Eingang
+58,,"Riporta immediatamente il gruppo all'entrata del dungeon.",瞬間返回迷宮的入口,,순식간에 던전 입구로 돌아간다.,"Bringt die Gruppe zum Dungeon-Eingang
 zurück."
-60,,"Un Digi-Uovo inciso con uno stemma
-coraggioso.",刻有勇氣徽章的數碼裝甲,,용기의 문장이 새겨진 디지멘탈,"Ein Digi-Ei, in das ein Tapferkeitswappen
+60,,"Un Digi-Uovo inciso con uno stemma coraggioso.",刻有勇氣徽章的數碼裝甲,,용기의 문장이 새겨진 디지멘탈,"Ein Digi-Ei, in das ein Tapferkeitswappen
 eingraviert ist."
-61,,"Un DigiUovo inciso con un emblema
-miracoloso.",刻有奇蹟徽章的數碼裝甲,,기적의 문장이 새겨진 디지멘탈,"Ein Digi-Ei, in das ein Wunderwappen
+61,,"Un DigiUovo inciso con un stemma miracoloso.",刻有奇蹟徽章的數碼裝甲,,기적의 문장이 새겨진 디지멘탈,"Ein Digi-Ei, in das ein Wunderwappen
 eingraviert ist."
 62,,Un DigiUovo inciso con lo stemma del destino.,刻有命運徽章的數碼裝甲,,운명의 문장이 새겨진 디지멘탈,"Ein Digi-Ei, in das ein Schicksalswappen
 eingraviert ist."
@@ -1209,12 +1196,12 @@ Se un tipo diverso la beve...","病毒種專用的藥
 若是讓其他種族喝的話……",,"바이러스종 전용 약
 다른 종족이 마셨다간…","Medizin für Virus-Digimon.
 Wenn ein anderer Typ sie trinkt ..."
-614,,"Medicina di tipo Data.
+614,,"Medicina di tipo Dati.
 Se un tipo diverso la beve...","資料種專用的藥
 若是讓其他種族喝的話……",,"데이터종 전용 약
 다른 종족이 마셨다간…","Medizin für Datei-Digimon.
 Wenn ein anderer Typ sie trinkt ..."
-615,,"Medicina di tipo Vaccine.
+615,,"Medicina di tipo Vaccino.
 Se un tipo diverso la beve...","疫苗種專用的藥
 若是讓其他種族喝的話……",,"백신종 전용 약
 다른 종족이 마셨다간…","Medizin für Serum-Digimon.

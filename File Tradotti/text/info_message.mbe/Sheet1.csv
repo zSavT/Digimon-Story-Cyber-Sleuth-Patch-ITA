@@ -181,7 +181,7 @@ weil du bereits an einem anderen Fall arbeitest."
 ""[d0]""",開始調查[d0]！,,[d0]의 조사 개시!,"Ermittlungsbeginn:
 „[d0]“"
 1303,,"""[d0]"" Completato!
-Segnalare all'agenzia investigativa.","[d0]調查完畢！
+Fai rapporto all'agenzia investigativa.","[d0]調查完畢！
 前往偵探事務所回報！",,"[d0]의 조사 완료!
 탐정사무소에 보고하러 가자!","„[d0]“
 abgeschlossen! Erstatte dem Detektivbüro Bericht."
@@ -202,8 +202,8 @@ competenze apprese. Si prega di ridurre il numero a 20.","習得技能數已超�
 überschritten. Bitte reduziere die Anzahl auf 20."
 1900,,Al momento non può essere utilizzato.,現在無法使用,,지금은 사용할 수 없습니다.,Kann im Moment nicht verwendet werden.
 1901,,Il suo utilizzo sarà inefficace.,即使使用也沒有任何效果,,사용해도 효과가 없습니다.,Die Benutzung wird wirkungslos sein.
-1902,,"Memoria massima del gruppo aumentata di
-[n0]! [n1] => [4[n2]]","隊伍上限的最大值增加[n0]！
+1902,,"Memoria massima del gruppo aumentata di [n0]!
+[n1] => [4[n2]]","隊伍上限的最大值增加[n0]！
 [n1]　⇒　[4[n2]]",,"파티 메모리의 최대치가 [n0]증가했다!
 [n1]　⇒　[4[n2]]","Maximaler Gruppenspeicher um [n0] erhöht!
 [n1] => [4[n2]]"
@@ -427,8 +427,8 @@ Es sind zwar Daten, aber sie duften."
 [1[c1420]]."
 5035,,[p] ha ricevuto dati sul Digivice.,[p]用Digivice接收了資料,,[p]의 디지바이스로 데이터를 받았다.,[p] hat Daten auf dem Digivice empfangen.
 5036,,Consegnate le medaglie.,放棄獎牌,,메달을 포기했다.,Du gibst die Medaillen ab.
-5037,,"[p] consegna le sette ""prove
-del peccato"" a Mirei.","[p]將七大罪的證明
+5037,,"[p] consegna le sette ""prove del peccato""
+a Mirei.","[p]將七大罪的證明
 交給米蕾",,"[p]은(는) 7가지 죄의 증거를
 미레이에게 전달했다.","[p] übergibt Mirei die sieben
 „Beweise der Sünde“."
@@ -1031,8 +1031,8 @@ Gli avversari non possono essere scambiati!","由於hudie的徽章效果，
 Gegner können nicht gewechselt werden!"
 7200,,Ottieni l'URL di DigiLab.,得到「數碼實驗室」的URL,,「디지랩」의 URL을 입수했다.,DigiLab-URL erhalten.
 7201,,Ricevuto l'URL per Steam Dealers Hideout.,得到「蒸氣領薪族基地」的URL,,「스팀리맨 아지트」의 URL을 입수했다.,URL für das Versteck der Steam Dealers erhalten.
-7202,,"URL per la Tana dei Demoni (Compleanno dei
-Demoni) ricevuto.",得到「惡魔巢穴（惡魔誕生祭）」的URL,,「데몬즈 아지트(악마탄생제)」의 URL을 입수했다.,"URL für die Demons-Höhle (Demons-Geburtstag)
+7202,,"URL per il Covo dei Demons (Compleanno dei
+Demons) ricevuto.",得到「惡魔巢穴（惡魔誕生祭）」的URL,,「데몬즈 아지트(악마탄생제)」의 URL을 입수했다.,"URL für die Demons-Höhle (Demons-Geburtstag)
 erhalten."
 7203,,Ottieni l'URL per il forum Zaxon.,得到「Zaxon廣場」的URL,,「잭슨 포럼」의 URL을 입수했다.,URL für das Zaxon-Forum erhalten.
 7204,,Ricevuto l'URL per l'account di Yuuko Kamishiro!,得到神代悠子的帳號！,,카미시로 유코의 계정을 입수했다!,URL für Yuuko Kamishiros Konto erhalten!

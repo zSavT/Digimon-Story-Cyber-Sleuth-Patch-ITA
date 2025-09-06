@@ -18,7 +18,7 @@ den aktuellen Fall."
 莉娜和究極V龍獸了？",,"이야기 들었어
 리나와 알포스브이드라몬에게 이겼다면서?","Wie ich höre, hast du Rina und
 UlforceVeedramon besiegt?!"
-201,3013,,"Sembra che tu sia molto più forte di prima…
+201,3013,,"Sembra che tu sia molto più forte di prima...
 Potrei avere qualche dritta per te.","你的實力已經強到不可同日而語了呢……
 既然如此，我有一個提議。",,"예전과는 비교할 수 없을 정도로 강해졌구나…
 …그런 네게 제안을 하나 할게","Du wirkst jetzt viel stärker ...
@@ -59,7 +59,8 @@ Gebäude. Du wirst nicht enttäuscht werden!"
 350,1739,,"Sono un maestro della strategia. Assaggia questo!",讓你嘗嘗我崇高智謀的厲害！,,나의 숭고한 수많은 지략들을 충분히 맛보아라!,"Ich bin ein Meister der Strategie.
 Mal sehen, wie dir das schmeckt!"
 400,3013,,"Sembra che tu abbia battuto Leopardmon.
-Bene, allora, il prossimo... vai a Kowloon Lv. 5. Di sicuro non rimarrai deluso!","看來你連芳香獸也打贏了呢。
+Bene, allora, il prossimo... vai a Kowloon Lv. 5.
+Di sicuro non rimarrai deluso!","看來你連芳香獸也打贏了呢。
 那麼下一個對手……就去Kowloon Lv. 5吧，
 它一定可以滿足你的。",,"두프트몬도 이겼구나
 그럼 다음은… 쿠롱 Lv.5로 가 봐
@@ -92,7 +93,7 @@ Na schön. Geh als Nächstes zur Odaiba-Bucht.
 Du wirst nicht enttäuscht werden!"
 650,1215,,Ahhhhhhhhhhhhhhhhhh!!!,吼喔喔喔喔喔喔喔喔喔喔喔————！！！！！,,우오오오오오오오오오오오오오오오오오오오오오오!!!!!,Aaaahhhhhh!
 700,3013,,"Sembra che tu abbia battuto Examon.
-Bene, il prossimo è... vai alla Tana del Demone.
+Bene, il prossimo è... vai al Covo dei Demons.
 Di sicuro non rimarrai deluso!","看來你連艾克薩獸也打贏了呢。
 那麼下一個對手……就去惡魔巢穴吧，
 它一定可以滿足你的。",,"엑자몬도 이겼구나
@@ -100,7 +101,7 @@ Di sicuro non rimarrai deluso!","看來你連艾克薩獸也打贏了呢。
 분명 너도 만족할 수 있을 거야","Du hast also Examon besiegt. Na schön.
 Geh als Nächstes zur Demons-Höhle.
 Du wirst nicht enttäuscht werden!"
-750,1688,,Plaudo al tuo coraggio nello sfidarci!,前來挑戰我等的勇氣值得讚許！,,우리에게 도전하는 용기는 칭찬해 주겠다!,"Ich bewundere deinen Mut, uns herauszufordern!"
+750,1688,,Ammiro il tuo coraggio nel metterci alla prova!,前來挑戰我等的勇氣值得讚許！,,우리에게 도전하는 용기는 칭찬해 주겠다!,"Ich bewundere deinen Mut, uns herauszufordern!"
 751,1749,,"Bene, andiamo!",一決勝負吧！,,"자, 승부다!","Also, los geht’s!"
 800,3013,,"Sembra che tu abbia battuto Gankoomon e Jesmon.
 Bene allora, il prossimo... vai al Server Valhalla.
@@ -111,13 +112,11 @@ Non rimarrai affatto deluso!","看來你連頑固獸、傑斯獸都打贏了呢�
 분명 너도 만족할 수 있을 거야","Du hast Gankoomon und Jesmon besiegt.
 Geh als Nächstes zum Walhalla-Server.
 Du wirst nicht enttäuscht werden!"
-850,1088,,"Come cavaliere, non posso rifiutare
-una sfida!","身為一名騎士，
+850,1088,,"Come cavaliere, non posso rifiutare una sfida!","身為一名騎士，
 有人向我提出決鬥，我當然不能拒絕。",,"기사인 이상, 결투 신청을 받았으니
 거절할 수는 없지","Als Knight kann ich keine Herausforderung
 ablehnen!"
-851,1416,,"La scelta onorevole è probabilmente riconsiderare e dimettermi,
-ma...","我認為改變想法然後撤退，
+851,1416,,"La scelta onorevole è probabilmente riconsiderare e astenersi, ma...","我認為改變想法然後撤退，
 也是一種有勇氣的選擇……",,"다시 생각해보는 것도
 용기 있는 선택이라고 생각한다만…","Wahrscheinlich wäre es ehrenvoll, es zu überdenken
 und zu unterlassen, aber ..."
@@ -140,8 +139,8 @@ dem Weg räumen ..."
 902,3013,,È nel Mondo Digitale. Vai a fargli vedere di che pasta sei fatto!,"它就在數碼世界，
 讓它瞧瞧你的實力吧！",,"그는 디지털 월드에 있어
 너의 힘을 보여줘!","Er ist in der Digitalen Welt. Zeig ihm, was du kannst!"
-950,1420,,"Raccontami della tua abilità in combattimento, buon signore.
-Ti prego, mostrami questa forza di cui ti vanti!","我耳聞閣下武功高超。
+950,1420,,"Mi piacerebbe ammirare le tue abilità di combattimento.
+Fammi vedere quanto sei forte!","我耳聞閣下武功高超。
 毋須客氣，就讓我見識一番吧！",,"귀공의 무공은 들었다
 양보는 필요 없다. 그 실력을 보여다오!","Gern möchte ich deine Kampfkünste bewundern.
 Zeig mir doch, wie stark du bist!"

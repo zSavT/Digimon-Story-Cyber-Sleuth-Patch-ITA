@@ -16,7 +16,7 @@ Lo invierò al tuo ufficio!","我想委託你一件事！
 탐정사무소로 의뢰를 보내뒀으니까 잘 부탁드림다!","Ich habe einen Fall für dich!
 Ich schicke ihn an dein Büro!"
 151,4916,,"Oh? Sei venuto a trovarmi!? Grazie amico!
-Sono un novellino nei Ribelli, il mio nome è Yasu!","喔？　你來啦！　感謝！
+Sono un novellino nei Rebels, il mio nome è Yasu!","喔？　你來啦！　感謝！
 我叫阿康，是最近加入反叛者的。",,"옷? 와줬군요! 고맙슴다!
 저, 리벨리온즈에 최근 들어간 야스라고 함다","Ach! Du bist hergekommen?! Das ist klasse!
 Ich bin neu bei den Rebels. Ich heiße Yasu!"
@@ -39,7 +39,7 @@ Was bin ich nicht?"
 Sembra un po' vago...",什麼跟什麼啊……你還真敷衍。,,"…뭐임까, 그거… 무책임한 사람임다","Was meinst du denn?
 Das ist ziemlich vage ..."
 156,4917,,"Akkino non ti ha menzionato,
-ma sembra che tu voglia unirti ai Ribelli.","雅奇諾小姐雖然不會跟我們提起，
+ma sembra che tu voglia unirti ai Rebels.","雅奇諾小姐雖然不會跟我們提起，
 但她其實很希望你能加入反叛者。",,"앗키노 씨는 우리에겐 말하지 않지만
 당신이 리벨리온즈에 들어와주길 바라고 있슴다","Akkino hatte dich nicht erwähnt, aber mir scheint,
 dass du bei den Rebels mitmachen willst."
@@ -112,7 +112,7 @@ was anderes. Aber ansonsten ... pass
 aus der Entfernung auf sie auf."
 253,4917,,Questo è quello che fa un vero uomo!,這才是所謂的男子漢！,,그게 남자라는 검다!,So macht das ein echter Kerl!
 254,3002,,...Huh? Cosa c'è?,所以呢？　你決定怎樣？,,…그래서? 어때?,... Was? Was denn?
-255,3002,,"Vuoi unirti ai Ribelli? Ti unirai, vero?
+255,3002,,"Vuoi unirti ai Rebels? Ti unirai, vero?
 Non avresti parlato così a lungo di questo se non fossi interessato.","要加入反叛者嗎？　你會加入吧？
 我們都講這麼久了，當然就是要加入了吧？",,"리벨리온즈에 들어올 거야? 들어올 거지?
 이렇게까지 이야기했으니 이건 이미 들어오는 흐름이잖아?","Du willst dich den Rebels anschließen? Du wirst es
@@ -140,7 +140,7 @@ l'aiuto possibile, anche le piccole cose che puoi fare!","你的小小行動，�
 디지몬이나 우리들에게 소중해질 때가 올 거야!","Eine Zeit wird kommen, wenn wir und die Digimon
 alle Hilfe brauchen, die wir kriegen können.
 Auch kleine Taten zählen!"
-263,3002,,"Inoltre, se ti unisci ai Ribelli i tuoi voti miglioreranno!",而且只要加入反叛者，成績也會變好！,,게다가 리벨리온즈에 들어오면 성적도 올라가!,"Und wenn du dich den Rebels anschließt, kriegst
+263,3002,,"Inoltre, se ti unisci ai Rebels i tuoi voti miglioreranno!",而且只要加入反叛者，成績也會變好！,,게다가 리벨리온즈에 들어오면 성적도 올라가!,"Und wenn du dich den Rebels anschließt, kriegst
 du bessere Noten!"
 264,4918,,...Cosa!?,什麼！？,,…뭐!?,... Was?!
 265,3002,,"Troverai una ragazza!
@@ -161,7 +161,7 @@ sentito qualcuno dirmelo... Se sei sincero con me...","“我相信”啊……�
 오랜만에 들었어… 올곧게 그런 말을 하는 녀석…","„Ich glaube an dich“ ... Es ist schon eine Weile
 her, dass jemand das zu mir gesagt hat ...
 Wenn du das ernst meinst ..."
-270,4918,,D'accordo! Affare fatto! Mi unirò ai Ribelli!,"好！　我明白了！
+270,4918,,D'accordo! Affare fatto! Mi unirò ai Rebels!,"好！　我明白了！
 我就加入反叛者吧！",,"조오앗! 알았어!
 리벨리온즈라는 곳에 들어가줄게!",Na schön! Abgemacht! Ich mache bei den Rebels mit!
 271,3002,,Davvero!? Fantastico! Grazie!,"真的嗎！？
@@ -268,14 +268,14 @@ Devo proteggerla!","喂！　要跟丟雅奇諾小姐了！
 제대로 지켜봐야잖슴까!","Ah! Sie verschwindet gleich!
 Ich muss sie schützen!"
 305,2001,,Sembra che Nokia stia andando a Kowloon...,諾奇雅似乎往Kowloon深處前進了……,,노키아는 쿠롱 안쪽으로 간 듯하다…,Nokia ist wohl auf dem Weg nach Kowloon ...
-400,3002,,"Ehi! Vuoi unirti ai Ribelli per aiutare a proteggere i Digimon?
+400,3002,,"Ehi! Vuoi unirti ai Rebels per aiutare a proteggere i Digimon?
 Per favore!","為了保護數碼寶貝，
 你也加入反叛者好嗎？　拜託了！",,"저기!? 디지몬들을 지키기 위해
 너도 리벨리온즈에 들어와 줘! 부탁해","He! Willst du bei den Rebels mitmachen, um die
 Digimon zu schützen? Bitte!"
 401,4919,,"Capisco i tuoi sentimenti verso i Digimon, ma...",我能理解妳為數碼寶貝著想的心情……,,디지몬을 생각하는 네 마음은 알겠는데 말야…,"Ich verstehe ja deine Sorge um die Digimon,
 aber ..."
-402,4919,,"Onestamente, dubito che i Ribelli cambieranno qualcosa...","但是妳說的那個反叛者，
+402,4919,,"Onestamente, dubito che i Rebels cambieranno qualcosa...","但是妳說的那個反叛者，
 真的有可能改變駭客嗎……",,"하지만 그 리벨리온즈라는 게 정말 해커들을
 바꿀 수 있는 것이려나…","Ich bezweifle wirklich, dass die Rebels etwas
 ändern werden ..."
@@ -441,7 +441,7 @@ Yas reicht auch ..."
 611,4917,,"Oh, no, non è quello, è... Hehe, lascia perdere...",呃，不是啦……嘿嘿，算了……,,"아니, 그게 아니라… 헤헤, 뭐 됐어…","Ach, nein, nicht ...
 Haha, egal ..."
 612,3002,,"D'ora in poi daremo tutti il nostro meglio,
-come membri dei Ribelli, okay?",我們都是反叛者的一份子，以後也要一起努力哦☆,,앞으로도 함께 리벨리온즈의 동료로서 힘내자♡,"Ab jetzt geben wir als Mitglieder der Rebels alle
+come membri dei Rebels, okay?",我們都是反叛者的一份子，以後也要一起努力哦☆,,앞으로도 함께 리벨리온즈의 동료로서 힘내자♡,"Ab jetzt geben wir als Mitglieder der Rebels alle
 unser Bestes, ja?"
 613,4917,,...,……,,………,...
 614,3002,,"Eh, cosa? ...Cosa c'è che non va?",咦、奇怪？　呃，你怎麼啦？,,"어, 어라? 저기, 왜 그래?","Wie, was? ... Was ist los?"
@@ -506,7 +506,7 @@ Grazie a entrambi! Siete i Digimon migliori che potessi desiderare!","戰鬥暴�
 Ihr seid die besten Digimon, die man sich
 wünschen kann!"
 634,3002,,"Giusto! Carichiamoci a mille!
-Ribelli, è ora di andare a prenderli a calci nel sedere!","好！　我們要更加充滿幹勁囉！
+Rebels, è ora di andare a prenderli a calci nel sedere!","好！　我們要更加充滿幹勁囉！
 反叛者，Go fight！！",,"좋았어! 더 의욕내서 가자!
 리벨리온즈, 파이팅!!","Also gut, machen wir uns bereit!
 Rebels, es ist an der Zeit, so richtig
@@ -520,7 +520,7 @@ Digievolvendo...","話說回來，亞古獸和加布獸，
 有2隻數碼寶貝進化了啊……",,"그건 그렇고 아구몬과 파피몬
 2마리의 디지몬이 진화했나…","Es ist jedenfalls interessant, dass Agumon
 und Gabumon digitiert sind ..."
-704,3006,,"Suppongo che questo renderà le attività dei Ribelli ancora più
+704,3006,,"Suppongo che questo renderà le attività dei Rebels ancora più
 intense di prima...","如此一來，反叛者的活動
 應該會比現在更加活躍吧。",,"이걸로 리벨리온즈의 활동은
 지금까지 이상으로 활발해지겠지?","Ich nehme an, dass dadurch die Rebels noch aktiver
