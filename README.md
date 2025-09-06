@@ -60,7 +60,7 @@ Le percentuali quì sotto fanno riferimento alla revisione manuale dei testi, la
 
 # Milestone prossima versione (1.5)
 
-- [ ] Terminare interamente la revisione Storia Cyber Sleuth.
+- [x] Terminare interamente la revisione Storia Cyber Sleuth.
 - [ ] Iniziare revisione Hacker's Memory sistemando la sola formattazione nei testi tagliati.
 - [x] Correzione testi con doppi genere indicati.
 - [x] Revisione Box Dialoghi NPC.
