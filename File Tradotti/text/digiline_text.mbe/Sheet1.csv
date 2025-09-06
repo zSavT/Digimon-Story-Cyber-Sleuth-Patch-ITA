@@ -3792,8 +3792,8 @@ a quale Tipo Dati fanno più danni, eh?","問答題。這次出個關於種族�
 什麼種族的敵人時，能給予對方大量傷害？",,"퀴즈다. 이번엔 종족에 대해 제출하지. 데이터종에게
 큰 대미지를 주는 것은 어느 종족 상대일 때지?","Quiz! Typus-Frage: Welchem Typus fügen
 Datei-Typen den meisten Schaden zu, hm?"
-5069,,"Curiosità! Quale caratteristica dei Digimon
-viene danneggiata di più dai Digimon del vento, eh?","問答題。出個關於屬性的題目。風屬性的
+5069,,"Curiosità! Quale caratteristica dei Digimon viene
+danneggiata di più dai Digimon del vento, eh?","問答題。出個關於屬性的題目。風屬性的
 數碼寶貝，能給予什麼屬性的敵人大量傷害？",,"퀴즈다. 속성에 대한 문제를 제출하지. 바람속성의
 디지몬이 큰 대미지를 입는 상대는 무슨 속성이지?","Quiz! Bei welchem Attribut verursachen
 Wind-Digimon den meisten Schaden, hm?"
@@ -5030,8 +5030,7 @@ soccorso è indicato per un dito leggermente ustionato?","那我來出問答題�
 正確的急救處理方式是？",,"그럼, 퀴즈. 손 끝에 가벼운 화상을 입었을 때
 응급 처치로 올바른 것은 무엇일까?","Pass auf. Was ist die Erste Hilfe bei
 einer leicht verbrannten Fingerspitze?"
-8029,,"Ascolta. Qual è l'unica
-festa a ottobre?",那我來出問答題囉。10月裡唯一的國定假日是？,,"그럼, 퀴즈. 10월에 있는 유일한 축일은 뭐지?","Pass auf. Welcher Feiertag ist der
+8029,,"Ascolta. Qual è l'unica festa a ottobre?",那我來出問答題囉。10月裡唯一的國定假日是？,,"그럼, 퀴즈. 10월에 있는 유일한 축일은 뭐지?","Pass auf. Welcher Feiertag ist der
 einzige im Oktober?"
 8030,,"Ascolta.
 Domanda di matematica: quanto fa 3 x 4 + 12 / 6 x 4 + 3?","那我來出問答題囉。是一道算術題
@@ -6063,9 +6062,9 @@ Person, die in Japan Kaffee einführte?"
 10202,,Tipo Vaccino?,是疫苗種嗎？,,백신종이었나?,Typus Serum?
 10203,,Tipo Dati?,是資料種吧？,,데이터종이지?,Typus Datei?
 10204,,Tipo Virus,應該是病毒種,,바이러스종이었을걸.,Typus Virus.
-10205,,Attributo elettrico?,是雷屬性，對吧？,,전기 속성이잖아?,Elektrisch?
-10206,,Attributo della Terra?,是土屬性嗎？,,땅 속성인가?,Erde?
-10207,,Attributo scuro,是闇屬性,,어둠 속성이지.,Dunkel?
+10205,,Attributo Elettrico?,是雷屬性，對吧？,,전기 속성이잖아?,Elektrisch?
+10206,,Attributo Terra?,是土屬性嗎？,,땅 속성인가?,Erde?
+10207,,Attributo Oscurità?,是闇屬性,,어둠 속성이지.,Dunkel?
 10208,,Avvelenato!,是劇毒！,,맹독이다!,Vergiftet!
 10209,,Confuso,是混亂嗎,,혼란인가.,Verwirrt.
 10210,,Dot,是液晶化,,액정화였지.,Pixel.
