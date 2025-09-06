@@ -74,6 +74,8 @@ Le percentuali quì sotto fanno riferimento alla revisione manuale dei testi, la
 - [x] Revisione nomi e descrizione oggetti.
 - [x] Revisione nomi e descrizione mosse Digimon.
 - [x] Revisione dei testi dei menu di gioco e impostazioni.
+- [ ] Correzione texture.
+- [ ] Traduzione nuove texture.
 
 La lista dell'userStory è presente [qui](https://github.com/zSavT/Digimon-Story-Cyber-Sleuth-Patch-ITA/milestone/4).
 
