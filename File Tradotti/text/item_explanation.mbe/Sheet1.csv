@@ -90,13 +90,12 @@ il 50% degli HP massimi.","回復我方單體的無法戰鬥狀態
 並回復50%HP",,"아군 1마리의 전투불능을 회복하고
 HP를 50% 회복한다.","Belebt einen Verbündeten mit 50 % der
 maximalen TP wieder."
-24,,"Riporta in vita un alleato 
-con HP al massimo.","回復我方單體的無法戰鬥狀態
+24,,"Riporta in vita un alleato con HP al massimo.","回復我方單體的無法戰鬥狀態
 並回復所有HP",,"아군 1마리의 전투불능을 회복하고
 HP를 완전 회복한다.","Belebt einen Verbündeten mit vollen TP
 wieder."
-25,,"Riporta in vita tutti i Digimon 
-combattenti con HP al massimo.","回復全體戰鬥成員的無法戰鬥狀態
+25,,"Riporta in vita tutti i Digimon combattenti
+con HP al massimo.","回復全體戰鬥成員的無法戰鬥狀態
 並回復所有HP",,"배틀 멤버 전체의 전투불능을 회복하고
 HP를 완전 회복한다.","Belebt alle Digimon mit vollen TP
 wieder."
@@ -1209,12 +1208,12 @@ Se un tipo diverso la beve...","病毒種專用的藥
 若是讓其他種族喝的話……",,"바이러스종 전용 약
 다른 종족이 마셨다간…","Medizin für Virus-Digimon.
 Wenn ein anderer Typ sie trinkt ..."
-614,,"Medicina di tipo Data.
+614,,"Medicina di tipo Dati.
 Se un tipo diverso la beve...","資料種專用的藥
 若是讓其他種族喝的話……",,"데이터종 전용 약
 다른 종족이 마셨다간…","Medizin für Datei-Digimon.
 Wenn ein anderer Typ sie trinkt ..."
-615,,"Medicina di tipo Vaccine.
+615,,"Medicina di tipo Vaccino.
 Se un tipo diverso la beve...","疫苗種專用的藥
 若是讓其他種族喝的話……",,"백신종 전용 약
 다른 종족이 마셨다간…","Medizin für Serum-Digimon.
