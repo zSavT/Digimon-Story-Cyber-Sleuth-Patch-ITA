@@ -391,8 +391,8 @@ ricevuti.",無效基本狀態下降效果。,,받는 스테이터스 하락 효�
 202,,"Assicura una fuga di successo da qualsiasi
 battaglia da cui ci si può fuggire.",有逃脫的機會的戰鬥，絕對能逃脫成功。,,도주 가능한 전투에서 반드시 도주에 성공한다.,"Sichert erfolgreiche Flucht von allen
 Kämpfen, bei denen man fliehen kann."
-203,,Aumenta significativamente l'EXP ottenuta in
-battaglia.,大幅的增加在戰鬥中獲得的EXP。,,배틀로 얻는 EXP가 크게 증가한다.,Erhöht die in Kämpfen gewonnenen EP stark.
+203,,"Aumenta significativamente l'EXP ottenuta in
+battaglia.",大幅的增加在戰鬥中獲得的EXP。,,배틀로 얻는 EXP가 크게 증가한다.,Erhöht die in Kämpfen gewonnenen EP stark.
 115,,Aumenta ATK e CRT del 10%.,ATK跟CRT發生率上升10%。,,공격력과 크리티컬 발생률이 10% 상승한다.,Erhöht ANG und KRT um 10 %.
 116,,"Aumenta i danni delle skill Neutre del 20%, ma
 diminuisce i danni di tutte le altre skill del 10%.","增加無屬性技能造成的損傷20％，
