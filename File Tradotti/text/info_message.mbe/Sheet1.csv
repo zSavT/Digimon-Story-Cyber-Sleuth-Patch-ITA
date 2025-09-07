@@ -601,14 +601,14 @@ Riceverai i seguenti oggetti come bonus.","已確認自前作繼承的資料！
 作為繼承特典，將贈送以下道具至所持道具",,"전작의 전승 데이터를 확인했습니다!
 전승 특전으로 이전의 아이템을 소지 아이템으로 보냅니다.","Abgeschlossene Spielpartie vorhanden!
 Du erhältst folgende Items als Bonus."
-1504,,"[4[d0]]
-ricevuto! [4[d1]] ricevuto!","獲得了[4[d0]]！
+1504,,"[4[d0]] ricevuto!
+[4[d1]] ricevuto!","獲得了[4[d0]]！
 獲得了[4[d1]]！",,"[4[d0]]을(를) 입수했다!
 [4[d1]]을(를) 입수했다!","[4[d0]] erhalten!
 [4[d1]] erhalten!"
 1505,,[4[d0]] ricevuto!,獲得了[4[d0]]！,,[4[d0]]을(를) 입수했다!,[4[d0]] erhalten!
-1506,,"[n0] x [4[d0]]
-ottenuto! [n1] x [4[d1]] ottenuto!","獲得了[n0]個[4[d0]]！
+1506,,"[n0] x [4[d0]] ottenuto!
+[n1] x [4[d1]] ottenuto!","獲得了[n0]個[4[d0]]！
 獲得了[n1]個[4[d1]]！",,"[4[d0]]을(를) [n0]개 입수했다!
 [4[d1]]을(를) [n1]개 입수했다!","[n0] x [4[d0]] erhalten!
 [n1] x [4[d1]] erhalten!"

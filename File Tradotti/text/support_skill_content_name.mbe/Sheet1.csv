@@ -39,7 +39,7 @@ um 15 %."
 19,,Previene la paralisi.,不會陷入麻痺狀態,,마비에 걸리지 않는다.,Verhindert Lähmung.
 20,,Impedisce il sonno.,不會陷入睡眠狀態,,수면에 걸리지 않는다.,Verhindert Schlaf.
 21,,Impedisce lo stordimento.,不會陷入暈眩狀態,,스턴에 걸리지 않는다.,Verhindert Betäubung.
-22,,Previene lo stato di punto.,不會陷入液晶化狀態,,액정화에 걸리지 않는다.,Verhindert Verpixelung.
+22,,Previene lo stato di Dot.,不會陷入液晶化狀態,,액정화에 걸리지 않는다.,Verhindert Verpixelung.
 23,,Previene la morte istantanea.,不會陷入即死狀態,,즉사에 걸리지 않는다.,Verhindert Soforttod.
 24,,"10% di probabilità di avvelenare il bersaglio
 quando si attacca.","發動攻擊時，
@@ -176,8 +176,8 @@ recuperati dagli effetti di assorbimento.","因HP吸收效果、SP吸收效果
 回復量增加20%。",,"HP흡수/SP흡수 효과에 의한 회복률이
 20% 증가한다.","Erhöht die durch Absorption erhaltene TP- und
 SP-Menge um 20 %."
-63,,"Riduce i PS del 5% dei PS massimi
-e aumenta l'ATK del 5% a ogni turno.","每回合減少最大HP的5%，
+63,,"Riduce i PS del 5% dei PS massimi e
+aumenta l'ATK del 5% a ogni turno.","每回合減少最大HP的5%，
 ATK提升5%。",,"매 턴, 최대 HP의 5%만큼 HP가 감소하고
 공격력이 5% 상승한다.","Verbraucht bei jedem Zug 5 % der maximalen 
 TP und erhöht gleichzeitig ANG um 5 %."
@@ -186,8 +186,8 @@ infliggere Sonno al bersaglio quando attacca.","不會陷入睡眠狀態。且�
 有30%的機率使對方睡眠。",,"수면에 걸리지 않는다. 또한 공격했을 때
 30%의 확률로 대상을 잠재운다.","Verhindert Schlaf. 30 % Chance, das Ziel bei
 einem Angriff einzuschläfern."
-65,,"30% di probabilità di uccidere istantaneamente il bersaglio quando
-attacca se inferiore al livello Ultra.","發動攻擊時，對方若為完全體以下，
+65,,"30% di probabilità di uccidere istantaneamente il
+bersaglio quando attacca se inferiore al livello Ultra.","發動攻擊時，對方若為完全體以下，
 有30%的機率使對方立即死亡。",,"공격했을 때 대상이 완전체 이하일 경우
 30% 확률로 즉사시킨다.","30 % Chance, ein Ziel unter der Ultra-Stufe
 bei einem Angriff sofort zu töten."
@@ -196,8 +196,8 @@ se sono Mega o superiori.","對方為究極體以上時，
 給予的傷害增加15%。",,"대상이 궁극체 이상일 때
 주는 대미지가 15% 증가한다.","Erhöht den Schaden gegen Ziele auf 
 Mega-Stufe oder höher um 15 %."
-67,,"Riduce i danni ricevuti dagli attacchi 
-fisici del 10% e li converte in SP.","受到物理攻擊時，
+67,,"Riduce i danni ricevuti dagli attacchi fisici
+del 10% e li converte in SP.","受到物理攻擊時，
 傷害減少10%並轉換為SP。",,"물리공격을 받았을 때
 대미지의 10%를 경감하고 SP로 변환한다.","Reduziert den Schaden durch physische
 Angriffe um 10 % und wandelt ihn in SP um."
@@ -205,8 +205,8 @@ Angriffe um 10 % und wandelt ihn in SP um."
 tutte le skill di attributo.",全屬性技能造成的傷害增加5%。,,"모든속성의 스킬 대미지가
 5% 증가한다.","Erhöht den Schaden von Fertigkeiten aller
 Attribute um 5 %"
-69,,"Riduce i danni ricevuti dagli attacchi 
-magici del 10% e li converte in HP.","受到魔法攻擊時，
+69,,"Riduce i danni ricevuti dagli attacchi magici
+del 10% e li converte in HP.","受到魔法攻擊時，
 傷害減少10%並轉換為HP。",,"마법공격을 받았을 때
 대미지의 10%를 경감하고 HP로 변환한다.","Reduziert den Schaden durch magische
 Angriffe um 10 % und wandelt ihn in TP um."
@@ -235,8 +235,8 @@ unter 25 % fallen."
 Acqua e Luce.",水、光屬性技能造成的傷害增加10%。,,"물/빛속성 스킬 대미지가
 10% 증가한다.","Erhöht den Schaden von Wasser- und
 Lichtfertigkeiten um 10 %."
-78,,"Aumenta del 30% la quantità di SP ricevuta dagli effetti
-di assorbimento.",SP吸收效果的回復量增加30%。,,"SP흡수 효과로 회복량이
+78,,"Aumenta del 30% la quantità di SP ricevuta dagli
+effetti di assorbimento.",SP吸收效果的回復量增加30%。,,"SP흡수 효과로 회복량이
 30% 증가한다.","Erhöht die durch Absorption erhaltene
 SP-Menge um 30 %."
 79,,"Aumenta l'ATK del 10% e la quantità di HP
@@ -265,8 +265,8 @@ ma aumenta anche l'INT del 13%","受到的物理傷害增加20%，
 但AVD提昇13%。",,"받는 물리 대미지가 20% 증가하는 대신
 회피율이 13% 상승한다.","Erhöht den erlittenen physischen Schaden
 um 20 %, aber auch INT um 13 %."
-85,,"Aumenta del 10% il danno delle 
-tecniche Elettriche e Vento.",雷‧風屬性所給予的傷害增加10%。,,"전기/바람속성 스킬 대미지가
+85,,"Aumenta del 10% il danno delle tecniche
+Elettriche e Vento.",雷‧風屬性所給予的傷害增加10%。,,"전기/바람속성 스킬 대미지가
 10% 증가한다.","Erhöht den Schaden von Elektro- und
 Windfertigkeiten um 10 %."
 86,,"Ripristina il 5% di HP max a ogni turno e aumenta
@@ -321,8 +321,8 @@ di Vento del 10%.","增加風屬性技能所給予的傷害，
 且SPD也增加10%。",,"바람속성 스킬로 주는 대미지와
 민첩이 10% 증가한다.","Erhöht GES und den Schaden von
 Windfertigkeiten um 10 %."
-98,,"Aumenta ATK e i danni inflitti da 
-abilità di tipo Terra del 10%.","增加土屬性技能所給予的傷害，
+98,,"Aumenta ATK e i danni inflitti da abilità di
+tipo Terra del 10%.","增加土屬性技能所給予的傷害，
 且ATK也增加10%。",,"땅속성 스킬로 주는 대미지와
 공격력이 10% 증가한다.","Erhöht ANG und den Schaden von
 Erdfertigkeiten um 10 %."
@@ -337,8 +337,8 @@ erlittenen Schaden um 5 %."
 verifichino combo dell'8%.",提高ATK及連擊發生．接續的機率8%。,,"공격력과 콤보의 발생/이어질 확률이
 8% 상승한다.","Erhöht ANG und die Wahrscheinlichkeit,
 Kombos auszuführen, um 8 %."
-103,,"Riduce del 10% la frequenza con cui si ricevono
-alterazioni di stato e ripristina il 5% degli HP per turno.","降低受到異常狀態的機率10%，
+103,,"Riduce del 10% la prob. di ricevere alterazioni di
+stato. Ripristina il 5% degli HP per turno.","降低受到異常狀態的機率10%，
 每一回合回復HP5%。",,"상태이상 확률이 10% 저하하고
 매 턴 HP를 5% 회복한다.","Reduziert die Häufigkeit von Statusleiden
 um 10 %. Regeneriert pro Zug 5 % TP."
@@ -372,8 +372,8 @@ del 10%.","產生、持續連擊的機率，
 與CRT發生率提昇10%。",,"콤보의 발생/이어질 확률과
 크리티컬 발생률을 10% 올린다.","Erhöht KRT und die Wahrscheinlichkeit, 
 Kombos auszuführen, um 10 %."
-112,,"Aumenta del 50% il danno 
-inflitto ai Royal Knights.",對皇家騎士的損傷增加50%,,"로얄 나이츠에 주는 대미지가
+112,,"Aumenta del 50% il danno inflitto ai
+Royal Knights.",對皇家騎士的損傷增加50%,,"로얄 나이츠에 주는 대미지가
 50% 증가한다.","Erhöht den Schaden gegen Royal Knights
 um 50 %."
 113,,"Aumenta i danni inflitti del 5% e diminuisce
@@ -391,7 +391,8 @@ ricevuti.",無效基本狀態下降效果。,,받는 스테이터스 하락 효�
 202,,"Assicura una fuga di successo da qualsiasi
 battaglia da cui ci si può fuggire.",有逃脫的機會的戰鬥，絕對能逃脫成功。,,도주 가능한 전투에서 반드시 도주에 성공한다.,"Sichert erfolgreiche Flucht von allen
 Kämpfen, bei denen man fliehen kann."
-203,,Aumenta significativamente l'EXP ottenuta in battaglia.,大幅的增加在戰鬥中獲得的EXP。,,배틀로 얻는 EXP가 크게 증가한다.,Erhöht die in Kämpfen gewonnenen EP stark.
+203,,Aumenta significativamente l'EXP ottenuta in
+battaglia.,大幅的增加在戰鬥中獲得的EXP。,,배틀로 얻는 EXP가 크게 증가한다.,Erhöht die in Kämpfen gewonnenen EP stark.
 115,,Aumenta ATK e CRT del 10%.,ATK跟CRT發生率上升10%。,,공격력과 크리티컬 발생률이 10% 상승한다.,Erhöht ANG und KRT um 10 %.
 116,,"Aumenta i danni delle skill Neutre del 20%, ma
 diminuisce i danni di tutte le altre skill del 10%.","增加無屬性技能造成的損傷20％，

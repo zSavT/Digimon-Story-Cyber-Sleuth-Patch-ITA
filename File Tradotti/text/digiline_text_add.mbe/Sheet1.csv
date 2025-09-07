@@ -1260,7 +1260,8 @@ status anomalo inverte le affinità di tipo?","問答題！　戰鬥時，能把
 異常狀態是什麼？",,"퀴즈다. 배틀 중, 종족 상성이 역전되어버리는
 상태 이상은 뭐지?","Quiz! Welches Statusleiden kehrt
 beim Kampf Typ-Affinität um?"
-5071,,Curiosità! Quale equipaggiamento aumenta l'EXP ottenuta in battaglia?,"問答題！　只要讓數碼寶貝裝備，
+5071,,"Curiosità!
+Quale equipaggiamento aumenta l'EXP ottenuta in battaglia?","問答題！　只要讓數碼寶貝裝備，
 就能增加戰鬥獲得EXP的裝備是什麼？",,"퀴즈다. 디지몬에게 장비시켜 두면
 배틀로 받을 수 있는 EXP가 늘어나는 장비품은 뭐지?","Quiz! Welche Ausrüstung erhöht die
 EP, die man beim Kämpfen erhält?"
@@ -3374,7 +3375,7 @@ Trainieren"
 10187,,Macchina da Rabdomante,探測機嗎？,,다우징 머신?,Auslöschmaschine
 10188,,Il Naso di GaoGamon,迦奧迦獸的鼻子？,,가오가몬의 코?,GaoGamons Nase
 10189,,Il Segreto dell'Investigatore,偵探的心得？,,탐정의 마음가짐?,Detektivgeheimnis
-10190,,Cavalieri Reali,只可能是皇家騎士了！,,로얄 나이츠밖에 없잖아!,Royal Knights
+10190,,Royal Knights,只可能是皇家騎士了！,,로얄 나이츠밖에 없잖아!,Royal Knights
 10191,,Kamishiro Enterprises,是神代企業嗎？,,카미시로 엔터프라이즈가 맞아?,Kamishiro Enterprises
 10192,,Zaxon,Zaxon……嗎？,,잭슨…이려나?,Zaxon
 10193,,Youji Shiga,志賀陽司吧？,,시가 요우지려나?,Youji Shiga
