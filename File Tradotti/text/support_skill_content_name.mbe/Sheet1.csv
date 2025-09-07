@@ -87,8 +87,8 @@ auszuführen oder fortzusetzen, um 10 %."
 oggetti.",增加敵人掉落道具的機率。,,적이 아이템을 떨어뜨릴 확률이 증가한다.,"Sorgt dafür, dass Gegner mehr Beute
 zurücklassen."
 36,,Aumenta i valori di scansione del 10%.,掃描值提升10%。,,스캔치가 10% 상승한다.,Erhöht Scanwerte um 10 %.
-37,,"Aumenta gli effetti bonus alle statistiche
-del 5%.",狀態提升效果增加5%。,,획득하는 스테이터스 상승 효과가 5% 증가한다.,Erhöht bestehende Werteboni um 5 %.
+37,,"Aumenta gli effetti bonus alle statistiche del
+5%.",狀態提升效果增加5%。,,획득하는 스테이터스 상승 효과가 5% 증가한다.,Erhöht bestehende Werteboni um 5 %.
 38,,"Diminuisce gli effetti di riduzione delle
 statistiche ricevute del 5%.",狀態降低效果減少5%。,,하락하는 스테이터스 하강 효과가 5% 감소한다.,Reduziert bestehende Wertemalusse um 5 %.
 39,,Ripristina il 6% degli HP massimi a ogni turno.,每回合回復最大HP的6%。,,"매 턴, 최대 HP의 6%를 회복한다.","Stellt bei jedem Zug 6 % der maximalen TP
@@ -146,8 +146,8 @@ um 50 %."
 tipo Fuoco e Vento.",火、風屬性技能造成的傷害增加10%. ,,"불/바람속성 스킬로
 주는 대미지가 10% 증가한다.","Erhöht den Schaden von Feuer- und
 Windfertigkeiten um 10 %."
-56,,"Riduce il SP consumato 
-dalle skill del 20%.",使用技能時消費的SP減少20%。,,스킬로 소비하는 SP가 20% 감소한다.,"Reduziert den SP-Verbrauch von Fertigkeiten
+56,,"Riduce il SP consumato dalle skill
+del 20%.",使用技能時消費的SP減少20%。,,스킬로 소비하는 SP가 20% 감소한다.,"Reduziert den SP-Verbrauch von Fertigkeiten
 um 20 %."
 57,,"Aumenta EVA e CRT del 5%,
 e SPD del 10%.",EVA和CRT提升5%，SPD提升10%。,,"회피율과 크리티컬 발생률이 5% 상승하고
@@ -221,8 +221,8 @@ e aumenta gli effetti di recupero HP del 10%.","光、闇屬性技能造成的�
 HP回復效果增加10%。",,"빛/어둠속성 스킬로 받는 대미지가 10%
 증가하고 HP회복 효과가 10% 증가한다.","Erhöht TP-Regeneration sowie den Schaden 
 von Licht- und Dunkelfertigkeiten um 10 %."
-74,,"Ripristina il 3% degli HP e SP 
-massimi ad ogni turno.",每回合回復最大HP和最大SP的3%。,,"매 턴, HP와 SP가
+74,,"Ripristina il 3% degli HP e SP massimi
+ad ogni turno.",每回合回復最大HP和最大SP的3%。,,"매 턴, HP와 SP가
 최대 3% 회복한다.","Stellt bei jedem Zug 3 % der maximalen TP
 und SP wieder her."
 75,,Aumenta ACU ed EVA dell'1%.,ACU和EVA提升1%。,,명중률과 회피율이 1% 상승한다.,Erhöht GEN und AWN um 1 %.
@@ -279,8 +279,8 @@ del 50% e aumenta il CRT del 10%.","降低受到即死效果的機率50%，
 提昇CRT發生率10%。",,"즉사에 걸릴 확률을 50% 저하하고
 크리티컬 발생률이 10% 상승한다.","Reduziert Chance auf Soforttod um 50 %,
 erhöht KRT um 10 %."
-88,,"Aumenta del 25% gli HP ricevuti dagli 
-effetti di assorbimento.",增加依照HP吸取效果的回復量25%。,,"HP흡수 효과에 따른 회복량이
+88,,"Aumenta del 25% gli HP ricevuti dagli effetti
+di assorbimento.",增加依照HP吸取效果的回復量25%。,,"HP흡수 효과에 따른 회복량이
 25% 증가한다.",Erhöht die absorbierte TP-Menge um 25 %.
 89,,"Riduce i danni subiti dagli attacchi da 
 scontri sfavorevoli del 10% e li converte in PS.","受到適性不利的種族攻擊時，
