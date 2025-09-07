@@ -35,7 +35,7 @@ ID,Japanese,English,Chinese,EnglishCensored,Korean,German
 1019,,Vampa di Plastica,玩具火焰彈,,토이 플레임,Plastikbrand
 1020,,Cannone Metallico,金屬加農,,메탈 캐논,Metallkanone
 1021,,Schiaccia Ingranaggi,黑暗齒輪,,톱니바퀴 포,Zahnradzermalmer
-1022,,Colpo d'Aria,空氣炮,,공기팡,Luftstoß
+1022,,Getto d'Aria,空氣炮,,공기팡,Luftstoß
 1023,,Quinto Rush,五連閃,,피프스 슬래쉬,Fünfter Ansturm
 1024,,Edera Velenosa,毒蔓藤,,독줄기 공격,Giftiger Efeu
 1025,,Dardi Demi,小惡魔飛鏢,,피코주사기,Giftpfeile
@@ -52,7 +52,7 @@ ID,Japanese,English,Chinese,EnglishCensored,Korean,German
 1036,,Rete Adesiva,粘性羅網,,끈적그물 ,Netzfalle
 1037,,Corno Planante,碎裂角,,글라이드 호른,Gleithorn
 1038,,Martello di Coda,尾巴錘擊,,테일 해머,Schwanzhammer
-1039,,Siluro Arpione,魚叉火神炮,,뿔날리기,Harpune
+1039,,Arpione,魚叉火神炮,,뿔날리기,Harpune
 1040,,Nuvola di Tuono,雷雲閃光,,번쩍구름,Gewitterwolke
 1041,,Drenaggio Ramificazione,吸命樹枝,,브랜치 드레인,Astentleerung
 1042,,Vee Laser,X光線,,엑스 레이저,Vee-Laser
@@ -77,14 +77,14 @@ ID,Japanese,English,Chinese,EnglishCensored,Korean,German
 1061,,Esplosione di Ghiaccio,寒冰箭,,얼음화살,Eisschleuder
 1062,,Mega Esplosione,百萬爆破,,메가 버스트,Mega-Explosion
 1063,,Cacca,大便,,응가던지기,Kothaufen
-1064,,Pioggia di meteoriti,流星風暴,,메테오스 콜,Meteorschauer
+1064,,Pioggia di Meteore,流星風暴,,메테오스 콜,Meteorschauer
 1065,,Attacco Spiking,終結刺釘,,스파이킹 피니시,Stechangriff
 1066,,Nuvola di Cristallo,冰晶雲,,크리스탈 클라우드,Kristallwolke
 1067,,Iper Cannone,高壓加農炮,,기관총팔,Hyperkanone
 1068,,Alito di Fuoco,火焰吐息,,불 뿜기,Feuerodem
 1069,,Zampa Fulmine,貓貓拳,,고양이 펀치,Blitzpfote
 1070,,Artiglio della Morte,死亡之爪,,악마의손길,Todeskralle
-1071,,Nebbia di aghi,尖尖碰碰拳,,바늘뿜기,Nadelfeuer
+1071,,Pioggia di Aghi,尖尖碰碰拳,,바늘뿜기,Nadelfeuer
 1072,,Power Metal,強力金屬彈,,파워 메탈,Power Metal
 1073,,Tuffo nella cacca,糞便灌籃,,운치덩크,Kothaufentaucher
 1074,,Lancio di cacca,大便投擲,,응가투척,Kothaufenwurf
@@ -95,7 +95,7 @@ ID,Japanese,English,Chinese,EnglishCensored,Korean,German
 1079,,Zampa Fulminante,貓貓拳,,고양이 펀치,Blitzpfote
 1080,,Getto Super Puzzolente,超惡臭噴射,,초악취 분사,Super-Stinkdüse
 1081,,Ala Kunai,苦無羽,,수리검날개,Wurfmesser-Flügel
-1082,,Pugno Infuocato,火焰重拳,,불타는 주먹,Feuerfaust
+1082,,Pugno Ardente,火焰重拳,,불타는 주먹,Feuerfaust
 1083,,Pugno di Ghiaccio Sub-Zero,絕對零度拳,,절대영도 펀치,Unter-Null-Eisstoß
 1084,,Pugno del Re Bestia,獸王拳,,야수주먹,Königsfaust
 1085,,Vento Affilato,驅驅裂空斬,,구구렬공참,Klingenwind
@@ -115,14 +115,14 @@ ID,Japanese,English,Chinese,EnglishCensored,Korean,German
 1099,,Nitro Stinger,硝基毒針,,니트로 스팅거,Nitrostich
 1100,,Il Re dei Pugni,獅子獸波斬,,사자수파참,König der Fäuste
 1101,,Artiglio della Desolazione,絕滅爪,,이레이즈 크로,Kralle der Vernichtung
-1102,,Distruttore di Disastri,荒御魂,,니기미타마,Unheilsblaster
+1102,,Disaster Buster,荒御魂,,니기미타마,Unheilsblaster
 1103,,Bomba Ciliegia,櫻桃炸彈,,페리봄,Kirschbombe
 1104,,Top Gun,衝上雲霄,,탑건,Top Gun
 1105,,Superstar Uppercut,巨星上勾拳,,슈퍼스타 어퍼,Superstar-Kinnhaken
 1106,,Uccello dell'Oblio,湮沒獵鳥,,오블리비언 버드,Vogel des Vergessens
-1107,,Martello di Vulcano,重鎚火花,,해머 스파크,Vulkanhammer
+1107,,Martello di Vulcan,重鎚火花,,해머 스파크,Vulkanhammer
 1108,,Talismano di Luce,梵筆閃,,범필섬,Talisman des Lichts
-1109,,Spada Fendente di Vento,疾風天翔劍,,질풍천상검,Windschneiderschwert
+1109,,Spada Tagliavento,疾風天翔劍,,질풍천상검,Windschneiderschwert
 1110,,Sindrome dell'Incubo,惡夢症候群,,나이트메어 신드롬,Albtraum-Syndrom
 1111,,Fuoco Heavy Metal,重金屬火焰,,헤비 메탈 파이어,Schwermetall-Feuer
 1112,,Pugno Musicale,破壞音波,,사무라이 토네,Musikfaust
@@ -131,7 +131,7 @@ ID,Japanese,English,Chinese,EnglishCensored,Korean,German
 1115,,Bomba Digitale,插入式炸彈,,플러그봄,Digi-Bombe
 1116,,Death Parade Blaster,死亡火箭炮,,데스페라도 블래스터,Trauerzug-Blaster
 1117,,Pugno di Ghiaccio,冰獸拳,,얼음주먹,Eisfaust
-1118,,Dolcetto o scherzetto,不給糖就搗蛋,,트릭 오어 트리트,Halloweenstreich
+1118,,Dolcetto o Scherzetto,不給糖就搗蛋,,트릭 오어 트리트,Halloweenstreich
 1119,,Bomba a Fossa,位元炸彈,,비트 봄,Grubenbombe
 1120,,Allievo Oscuro,黑暗瞳孔,,다크 퓨필,Dunkler Schüler
 1121,,Fiamma Fredda,寒冷火花,,콜드플레임,Kalte Flamme
@@ -673,14 +673,14 @@ ID,Japanese,English,Chinese,EnglishCensored,Korean,German
 1276,,Bomba Notte Lunare,月夜水彈,,문나이트 붐,Mondnacht-Bombe
 1277,,Matrice di punti,點之矩陣,,도트 매트릭스,Pixel-Matrix
 1278,,Corona Blaster,炎龍掃射,,코로나 블래스터,Blasterkranz
-1279,,Stella della velocità,流星快刀斬,,스피드 스타,Geschwindigkeitsstern
+1279,,Stella della Velocità,流星快刀斬,,스피드 스타,Geschwindigkeitsstern
 1280,,Bomba Miracolosa,幻影炸彈,,미라클 봄,Wunderbombe
 1281,,Lama Incrociata,十字利刃,,크로스 블레이드,Kreuzklinge
 1282,,Danza Lunatica,月亮瞬舞,,루나틱 댄스,Verrückter Tanz
 1283,,Osso d'Unghia,闇墮骨爪,,네일 본,Nagelknochen
 1284,,Sciabola Trident,三叉劍戟,,트라이던트 세이버,Dreizack-Degen
 1285,,Tridente Proibito,禁忌三叉戟,,포비든 트라이던트,Verbotener Dreizack
-1286,,Mascherata Infernale,地獄舞蹈,,헬 매스커레이드,Höllenmaskerade
+1286,,Mascherata dell'Inferno,地獄舞蹈,,헬 매스커레이드,Höllenmaskerade
 1287,,Attacco Tri-Corno,三角突擊,,트라이호른 어택,Drei-Hörner-Angriff
 1288,,Ondata di Calore,高熱波,,히트 웨이브,Hitzewelle
 1289,,Voce del Big Bang,聲波大CRT,,빅뱅 보이스,Urknall-Stimme
@@ -717,7 +717,7 @@ ID,Japanese,English,Chinese,EnglishCensored,Korean,German
 1320,,Peso Massimo,巨重拳,,그레이트 웨이트,Schwergewicht
 1321,,Colpo Sacro,神聖射擊,,홀리샷,Heiliger Schuss
 1322,,Soffio Sonico Ardente,超音熾熱息,,블레이즈 소닉 브레스,Brand-Schall-Atem
-1323,,Artiglio senza Prezzo,粉碎鐵屑拳,,스크랩레스 클로,Widerstandsfähige Klaue
+1323,,Artiglio Tenace,粉碎鐵屑拳,,스크랩레스 클로,Widerstandsfähige Klaue
 1324,,Artiglio Animale,動物爪子,,애니멀 네일,Tiernagel
 1325,,Affettanima,靈魂捕食者,,소울 쵸퍼,Seelenzerhacker
 1326,,Hyper Infinity Cannon,高能無限加農炮,,하이퍼 무한 캐논,Unendliche Hyperkanone
