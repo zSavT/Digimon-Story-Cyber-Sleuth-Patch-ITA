@@ -1,5 +1,6 @@
 ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
-1,2020,,(Benvenuto a Kowloon ... una parte trascurata di EDEN e il territorio degli hacker.),"（這裡就是Kowloon……
+1,2020,,"(Benvenuto a Kowloon ... una parte trascurata di EDEN
+e il territorio degli hacker.)","（這裡就是Kowloon……
 　駭客們聚集的EDEN廢棄領域）",,"이곳이 쿠롱…
 해커들이 모여드는 EDEN의 폐기 에어리어다","(Willkommen in Kowloon ... einem vernachlässigten
 Teil von EDEN und dem Revier der Hacker.)"
@@ -29,7 +30,8 @@ Hey, „Ryuji“, siehst du mein Gesicht?"
 ""에리카"", 네 쪽은 어때?","Für mich sieht alles gut aus. Und bei dir,
 „Erika“?"
 11,3045,,"Ti posso vedere, fratello.",我看得很清楚喔，哥哥。,,"잘 보여, 오빠","Ich kann dich sehen, Bruder."
-12,3045,,Sembra esserci un'anomalia solo nella trasmissione EDEN di immagini con [p].,"看來只有跟[p]……
+12,3045,,"Sembra esserci un'anomalia solo nella trasmissione
+EDEN di immagini con [p].","看來只有跟[p]……
 跟他的EDEN影像通訊連線會有雜訊。",,"[p]하고…
 EDEN에서 보내는 화상 통신 라인에만 노이즈가 발생하고 있나봐","Eine Störung scheint es nur bei der
 EDEN-Übertragung von Bildern mit [p] zu geben."
@@ -39,7 +41,8 @@ L'audio è perfetto.","……是“數碼波”有異常嗎？
 음성통신은 문제없어","... Es muss an der digitalen Welle liegen.
 Der Ton ist einwandfrei."
 14,3046,,Allora possiamo lavorare normalmente.,那麼，在工作上就不造成妨礙了。,,그러면 일에 지장은 없겠군,Dann können wir ja normal arbeiten.
-15,3045,,Esatto... Ma non possiamo garantirlo per le aree interne con particolare protezione...,"嗯……但是，在有特殊防護牆的區域，
+15,3045,,"Esatto... Ma non possiamo garantirlo per le aree interne
+con particolare protezione...","嗯……但是，在有特殊防護牆的區域，
 或是高深度的階層就不能保證了…………",,"음… 그렇지만 특수한 방호 프레임 에어리어같은
 심도가 높은 계층에서는 보장할 수 없고……","Genau ... Aber wir können es nicht für die
 inneren Bereiche garantieren, die mit
@@ -52,36 +55,44 @@ che ti stai preoccupando per il novellino?","小姐～妳真是溫柔啊！
 nicht, dass du dir wegen des Neulings
 Sorgen machst?"
 18,3045,,"... Non è così, lo sai anche tu.",……才不是那樣。,,……그런 의미가 아니라니까,"... So ist das nicht, das weißt du auch."
-19,3046,,Dovresti prepararti ai rischi. Sono sicuro di averlo già detto.,會有風險，這我已經說過了吧。,,이미 말했잖아. 위험은 이미 각오했다고,"Du solltest dich auf die Risiken einstellen. Ich
+19,3046,,"Dovresti prepararti ai rischi. Sono sicuro 
+di averlo già detto.",會有風險，這我已經說過了吧。,,이미 말했잖아. 위험은 이미 각오했다고,"Du solltest dich auf die Risiken einstellen. Ich
 bin sicher, das habe ich schon gesagt."
-20,3046,,Comunque sia... Dovremmo iniziare. Sapete tutti chi è l'obiettivo?,"……開始工作了。
+20,3046,,"Comunque sia... Dovremmo iniziare. 
+Sapete tutti chi è l'obiettivo?","……開始工作了。
 全員，都知道目標吧。",,"……작업을 시작하자.
 전원, 타깃은 이미 알고있겠지","Wie dem auch sei ... Wir sollten loslegen.
 Ihr wisst alle, wer das Ziel ist?"
 21,3047,,"Certo, a menadito!",那是當然，徹底掌握底細了喔～,,"응응, 이미 빈틈없이 파악하고 있습니다~","Natürlich, in- und auswendig!"
 22,3047,,L'obiettivo è Youji Shiga.,目標的名字是「志賀陽司」。,,목표의 이름은「시가 요우지」,Das Ziel ist Youji Shiga.
-23,3047,,"Un singolo hacker, che negli ultimi mesi nel furto di account ha davvero fatto man bassa, non è vero?","他是不屬於任一隊伍的自由駭客。
+23,3047,,"Un singolo hacker, che negli ultimi mesi nel furto di account
+ha davvero fatto man bassa, non è vero?","他是不屬於任一隊伍的自由駭客。
 在這數個月，好像靠“帳號狩獵”
 狠狠賺了不少啊！",,"어떤 팀에도 소속되지 않은 프리 해커로
 요 몇 개월, ""계정 사냥""으로 마구 벌어들였다…고 했었지!","Ein einzelner Hacker, der in den letzten Monaten
 in Sachen Kontenraub so richtig zugeschlagen hat,
 nicht wahr?"
-24,3046,,I clienti non tollerano hacker che creano problemi in EDEN... Vogliono che 'sanzioniamo' Shiga.,"客戶絕不放過在EDEN製造動亂的駭客，
+24,3046,,"I clienti non tollerano hacker che creano problemi in EDEN...
+Vogliono che 'sanzioniamo' Shiga.","客戶絕不放過在EDEN製造動亂的駭客，
 ……他們想對志賀下達“制裁”。",,"클라이언트는 EDEN을 어지럽히는 해커를 용서하지 않아.
 ……녀석들은 시가의 ""제재""를 원하고 있어","Die Klienten dulden keine Hacker, die in EDEN
 Probleme machen ... Sie wollen, dass
 wir Shiga „sanktionieren“."
 25,2020,,?,？？,,??,?
-26,3047,,"In altre parole: Trovarlo, ridurlo in poltiglia ed eliminare il suo account!","就是找到他後，痛揍他一頓，
+26,3047,,"In altre parole: Trovarlo, ridurlo in poltiglia 
+ed eliminare il suo account!","就是找到他後，痛揍他一頓，
 破壞他的帳號的意思啦！",,"발견하는 대로 박살내서
 계정을 파괴하라는 의미라고!","Mit anderen Worten: Ihn finden, ihn zu Brei
 schlagen und seinen Account kaltmachen!"
-27,3047,,"Dobbiamo assicurarci che non possa mai più accedere a EDEN con questo account. Scacciarlo, per così dire, dal Paradiso...","讓他不能再用同個帳號登入EDEN。
+27,3047,,"Dobbiamo assicurarci che non possa mai più 
+accedere a EDEN con questo account.
+Scacciarlo, per così dire, dal Paradiso...","讓他不能再用同個帳號登入EDEN。
 字面上的，從樂園流放的意思喔……",,"같은 계정으로 두 번 다시 EDEN에 로그인할 수 없게 말이지.
 사실상 낙원에서 추방… 이란 거지","Wir müssen sicherstellen, dass er sich in EDEN
 nie wieder mit diesem Account einloggen kann.
 Ihn sozusagen aus dem Paradies verjagen ..."
-28,3047,,Finalmente il martello della giustizia costringerà questi hacker in stile Hudie a inginocchiarsi! Hihi! Non vedo l'ora!,"做壞事的駭客，就由我們“hudie”
+28,3047,,"Finalmente il martello della giustizia costringerà questi 
+hacker in stile Hudie a inginocchiarsi! Hihi! Non vedo l'ora!","做壞事的駭客，就由我們“hudie”
 來下達正義的懲罰！
 嘿嘿嘿……這種工作真讓人興奮啊！",,"악질적인 해커에게는 
 우리들 ""후디에""가 정의의 철퇴를 내린다!
@@ -93,7 +104,8 @@ Hihi! Ich kann es gar nicht erwarten!"
 這是感覺的問題啦，感．覺。",,"아 정말, 알고 있다니까.
 기분 문제라구. 기분!","Na schön, ist ja gut! Ich bereite mich
 doch nur mental vor!"
-31,3046,,Uno alla volta. Raccogliamo prima informazioni su Shiga dagli hacker a Kowloon. ... Chitose.,"首先呢，是向Kowloon的駭客們
+31,3046,,"Uno alla volta. Raccogliamo prima informazioni 
+su Shiga dagli hacker a Kowloon. ... Chitose.","首先呢，是向Kowloon的駭客們
 收集志賀的情報……千歲。",,"일단은 쿠롱에 있는 해커들로부터 시가의 정보를 모아줘.
 ……치토세","Eins nach dem anderen. Sammeln wir erst mal
 bei den Hackern in Kowloon Informationen
@@ -101,11 +113,13 @@ bei den Hackern in Kowloon Informationen
 32,3047,,"Sì, ecco, prego!",好，我等很久了！,,그 얘기를 기다렸습니다!,"Ja, hier, bitte!"
 33,7086,,KOLIBRI scaricato.,已下載「蜂鳥」。,,「벌새」가 다운로드 되었습니다.,KOLIBRI heruntergeladen.
 34,2020,,???,？？,,??,???
-35,3047,,"E voilà! Questo è il mio piccolo amico, il programma maligno Colibrì di produzione propria!","登登登登♪
+35,3047,,"E voilà! Questo è il mio piccolo amico,
+il programma maligno Colibrì di produzione propria!","登登登登♪
 這就是本大爺特製的惡性軟體，小「蜂鳥」！",,"쟈쟈쟈쟈~안♪
 이몸의 특제 악성코드「벌새」양!","Und voilà! Dies ist mein kleiner Freund, das
 Kolibri-Schadprogramm aus Eigenproduktion!"
-36,3047,,"Questo malware può temporaneamente hackerare il Digivice bersaglio. Per farlo, deve solo trovarsi nelle sue vicinanze!","聽了可別嚇到喔，這個惡性軟體
+36,3047,,"Questo malware può temporaneamente hackerare il Digivice bersaglio.
+Per farlo, deve solo trovarsi nelle sue vicinanze!","聽了可別嚇到喔，這個惡性軟體
 只要接近對象到極近距離，
 就能暫時入侵對象的Digivice！",,"듣고 놀라거라, 이 악성코드는 일정 거리에 접근하기만 해도
 대상의 디지바이스를 일시적으로 해킹할 수 있어!","Diese Schadsoftware kann das anvisierte Digivice
@@ -113,7 +127,8 @@ vorübergehend hacken. Dazu muss es nur
 in seiner Nähe sein!"
 37,3047,,"Se trovi qualcuno di losco mentre rovisti nel torbido, provaci!",要是在傳聞中發現可疑的傢伙就試試看吧！,,탐문 중에 수상한 놈을 발견하면 사용해봐!,"Wenn du jemand Zwielichtigen findest, während
 du im Dreck wühlst, probier es aus!"
-38,3047,,"Sia qui che nel mondo reale, raccogliere informazioni è il mio mestiere.","不管是在現實世界還是在這裡，
+38,3047,,"Sia qui che nel mondo reale, raccogliere informazini
+fa parte del mio lavoro.","不管是在現實世界還是在這裡，
 蒐集情報可是本大爺的專長呢。",,"현실에서든 여기에서든
 정보수집은 내 특기분야거든","Sowohl hier als auch in der echten Welt ist das
 Sammeln von Informationen mein
@@ -122,7 +137,8 @@ Metier."
 我什麼都會告訴你啦！",,"네가 팀에 들어올 때가 되면
 뭐든지 가르쳐주지!","Da du neu im Team bist, werde ich dir alles
 zeigen, was du wissen musst!"
-40,3046,,Ricorda che questo è un test. Devi dimostrare quanto sei determinato.,"我再說一次，這是「測試」。
+40,3046,,"Ricorda che questo è un test. 
+Devi dimostrare quanto sei determinato.","我再說一次，這是「測試」。
 就讓我們好好見識一下你的「決心」吧。",,"…다시 한번 말해두겠지만 이건 ""테스트""다.
 네 ""각오"" …우리들에게 보여봐","Denk daran, dass dies ein Test ist. Du musst
 beweisen, wie entschlossen du bist."

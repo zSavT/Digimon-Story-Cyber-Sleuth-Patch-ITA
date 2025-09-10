@@ -1,5 +1,5 @@
 ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
-1,7087,,... Sono Shiga. Colui che stai cercando.,"……「志賀」，是我。
+1,7087,,... Sono Shiga. Quello che stai cercando.,"……「志賀」，是我。
 有個傢伙正在到處找你。",,"……""시가"", 나다.
 너를 찾고 있는 녀석이 있군","... Ich bin Shiga. Derjenige, den du suchst."
 2,7087,,Fatti vivo quando senti questo messaggio.,如果聽到這個留言盡快聯絡我。,,이 전언을 들으면 연락해줘,"Melde dich bei mir, wenn du diese Nachricht hörst."
@@ -9,10 +9,12 @@ ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
  류지 일행에게 전하자)","(Kontakt zu Shiga! Ich sollte es Ryuji und den
 anderen sagen.)"
 5,3046,,Hai scoperto qualcosa?,知道什麼了嗎？,,뭔가 알아냈나?,Hast du etwas herausgefunden?
-6,3046,,Ottimo lavoro. Questo tipo ha qualcosa a che fare con Shiga.,"幹得好，
+6,3046,,"Ottimo lavoro. Questo tipo ha qualcosa a 
+che fare con Shiga.","幹得好，
 那傢伙認識志賀。",,"잘했다.
 그 녀석은 시가와 연결되어 있어",Gute Arbeit. Dieser Typ hat was mit Shiga zu tun.
-7,3047,,"Se si mette a cercare, potrebbe causare problemi. Cosa dobbiamo fare?",如果被起了疑心就麻煩了，你打算怎麼辦？,,경계당하면 성가셔져. 어쩔래?,"Wenn er Ausschau hält, könnte das Probleme
+7,3047,,"Se si mette a cercare, potrebbe causare problemi. 
+Cosa dobbiamo fare?",如果被起了疑心就麻煩了，你打算怎麼辦？,,경계당하면 성가셔져. 어쩔래?,"Wenn er Ausschau hält, könnte das Probleme
 machen. Was sollen wir tun?"
 8,3046,,"Dobbiamo scoprire subito dov'è...
 Erika.","我得立刻知道那傢伙的所在位置才行。
@@ -33,7 +35,9 @@ e cercando le informazioni sul dispositivo...",利用通話紀錄，反追蹤對
 und nach den Geräteinformationen sucht ..."
 13,3045,,"Eccolo. È in questa zona, nel profondo.",……找到囉，在那一區的最深處。,,……찾아냈다. 에어리어의 가장 깊은 곳에 있어,"... Da. Er ist in diesem Gebiet, tief im Inneren."
 14,2020,,...!,……！,,……!,...!
-15,3047,,"Bene! È stato rapido, vero? Nessuno è così rapido come questa piccola, per quanto riguarda l'elaborazione analitica.","……如你所見♪
+15,3047,,"Bene! È stato rapido, vero? Nessuno è rapido
+come lui per quanto riguarda
+l’elaborazione dei dati.","……如你所見♪
 很快對吧？論解析處理，小姐可是堪稱第一啊。",,"……보시다시피♪
 빠르지? 해석처리에 관해서라면 아가씨가 최고야","Na also! Ging doch schnell, oder? Niemand ist so
 flink wie diese Kleine, was analytische
@@ -42,29 +46,32 @@ Verarbeitung angeht."
 um ihn zu finden."
 17,3047,,Devo venire anch'io?,我也一起去吧？,,나도 갈까?,Soll ich auch mitkommen?
 18,3046,,"No, noi due siamo abbastanza.",不，兩個人就夠了。,,"아니, 두 명이면 충분해","Nein, wir zwei sind genug."
-19,3047,,Capito! Io e la piccola guardiamo solo. Mostraglielo!,"哦，那我就和小姐在一旁隔岸觀火囉！
+19,3047,,"Capito! Noi resteremo a guardare.
+Fategliela vedere!","哦，那我就和小姐在一旁隔岸觀火囉！
 好好加油啊！",,"네이~. 그러면 나와 아가씨는 대기하면서 견학하면 되는 거군! 
 열심히 해!","Verstanden! Ich und die Kleine schauen nur
 zu. Zeigt’s ihm!"
 20,3046,,Aspetta lì. Arrivo subito.,在那等著，我馬上就到。,,거기서 대기하고 있어. 바로 갈게,Warte dort. Ich bin gleich da.
 21,3045,,...,…………,,…………,...
 22,2020,,?,？,,?,?
-23,3045,,"Non essere avventato, perché mio fratello è qui.",……雖然說有哥哥在，但也不能因此鬆懈。,,……오빠가 있다고 해서 방심하면 안 돼,"Werd bloß nicht leichtsinnig, weil mein Bruder
+23,3045,,"Non fare di testa tua, solo perché c’è lui.",……雖然說有哥哥在，但也不能因此鬆懈。,,……오빠가 있다고 해서 방심하면 안 돼,"Werd bloß nicht leichtsinnig, weil mein Bruder
 da ist."
-24,3045,,Non che mi preoccupi... Stai solo attento. E ascolta mio fratello.,"我絕對不是因為擔心你才這樣說的……
+24,3045,,"Non che mi preoccupi... Stai solo attento. 
+E ascolta mio fratello.","我絕對不是因為擔心你才這樣說的……
 不要輕忽大意。
 還有，要好好聽哥哥的話。",,"별로 걱정하고 있진 않지만……방심하지 마.
 그리고 오빠의 말을 잘 듣도록 해","Nicht, dass ich mir Sorgen mache ... Sei einfach
 auf der Hut. Und hör auf meinen Bruder."
 25,2020,,...,…………,,…………,...
-26,3045,,E non dire a Chitose o a mio fratello che ti ho detto tutto questo.,……還有，不要跟哥哥和千歲說我對你說這些。,,"…그리고 내가 이런 말을 했다는 건
+26,3045,,"E non dire a Chitose o a mio fratello che
+te l’ho detto.",……還有，不要跟哥哥和千歲說我對你說這些。,,"…그리고 내가 이런 말을 했다는 건
 오빠나 치토세에게는 말하지 말아줘","Und sag Chitose oder meinem Bruder nicht,
 dass ich dir all das gesagt habe."
 27,3045,,Questo è... un po' imbarazzante.,……總覺得……有些不好意思。,,……뭔가…쑥스러우니까,Das ist ... irgendwie peinlich.
 28,3047,,"... Ehm, sorellina, siamo tutti ancora online.",……小姐，我們可是還沒掛電話哦？,,"……아가씨, 우리들 아직 통신 끊지 않았는데?","... Äh, Schwesterherz, wir sind alle noch online."
 29,3045,,?!,唔……！？,,아으…!?,?!
-30,3046,,"... Non blaterare così, sciocchino.",……不用特地說出來啦，笨蛋。,,"……굳이 말하지 마, 바보","... Schwafel nicht so rum, Dummerchen."
-31,3045,,I-I-Io lo sapevo che siete qui!,我、我、我知道你們還在啦！！！,,"이, 이, 있는거 알고 있었는걸!!!","I-I-Ich wusste doch, dass ihr da seid!"
+30,3046,,"… Non dire così, sciocco.",……不用特地說出來啦，笨蛋。,,"……굳이 말하지 마, 바보","... Schwafel nicht so rum, Dummerchen."
+31,3045,,L-Lo sapevo che eravate ancora qui!,我、我、我知道你們還在啦！！！,,"이, 이, 있는거 알고 있었는걸!!!","I-I-Ich wusste doch, dass ihr da seid!"
 32,2020,,...,…………,,…………,...
 33,3047,,"Hehe... Azioni del genere da parte sua sono rare.
 Con te in squadra diventerà senza dubbio interessante.","哈哈……真是難得，小姐會這麼冒失。
@@ -72,12 +79,12 @@ Con te in squadra diventerà senza dubbio interessante.","哈哈……真是難�
 네가 팀에 들어오면 재미있어지겠어~","Hehe ... Solche Aktionen von ihr sind selten.
 Mit dir im Team wird es ohne Frage
 interessant werden."
-34,3047,,"Spero grandi cose da te,
-futuro novellino.",我很看好你哦，未來的新人♪,,기대하고 있다고. 미래의 신인 군♪,"Ich erhoffe mir Großes von dir,
+34,3047,,"Mi aspetto grandi cose da te
+in futuro, novellino.",我很看好你哦，未來的新人♪,,기대하고 있다고. 미래의 신인 군♪,"Ich erhoffe mir Großes von dir,
 zukünftiger Neuling."
 35,3046,,Aspetta lì.,……在那等我。,,……거기서 기다려,Warte dort.
 36,2020,,(Finalmente avevamo rintracciato Shiga...),（終於掌握到「志賀」的所在位置了……）,,"(드디어 ""시가""의 위치를 찾아냈다…)",(Endlich hatten wir Shiga aufgespürt ...)
 37,2020,,(Lo prenderò sicuramente. E poi...),"（我一定會抓到他
 　然後――）",,"(반드시 잡아내겠어.
  그리고――)",(Ich werde ihn ganz sicher kriegen. Und dann ...)
-38,2020,,"(... e mi riprendo il mio ""account""!)",（把我的「帳號」給拿回來……！）,,"(내 ""계정""을 되찾는 거야…!)",(... und hole mir meinen „Account“ zurück!)
+38,2020,,(… Mi riprenderò il mio “account”!),（把我的「帳號」給拿回來……！）,,"(내 ""계정""을 되찾는 거야…!)",(... und hole mir meinen „Account“ zurück!)
