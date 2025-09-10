@@ -1,13 +1,15 @@
 ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
 1,7089,,"... Ehi, tu. Sì, tu. Tu nessuno.",……喂，那邊那個長著大眾臉的傢伙。,,"……어이, 거기 잔챙이 얼굴한 놈","... He, du. Ja, du. Du Niemand."
 2,2020,,?,？？,,??,?
-3,7089,,"Parlo con te, giovanotto. Vedi qualcun altro qui? Ti credi chissà chi.","你啦、就是在說你。
+3,7089,,"Parlo con te, giovanotto.
+Vedi qualcun altro qui? Ti credi chissà chi.","你啦、就是在說你。
 除了你沒有別人了吧，
 難道你自己都沒有自覺嗎？",,"너 말야, 너.
 너 말곤 없잖냐. 잔챙이 얼굴이라는 자각이 없냐?","Ich rede mit dir, Jungspund. Siehst du hier sonst
 noch wen? Du hältst dich wohl für toll."
 4,7089,,"... Sei per la prima volta al mercato, vero?",……我說你，是第一次來這裡嗎？,,"……너, 암시장은 처음인가?","... Du bist zum ersten Mal auf dem Markt, wie?"
-5,7089,,"Ah, me lo immaginavo. È come quando un campagnolo arriva per la prima volta nella grande città.","哼哼，我就知道是這樣，
+5,7089,,"Ah, me lo immaginavo.
+È come quando un campagnolo arriva per la prima volta nella grande città.","哼哼，我就知道是這樣，
 你的樣子一看就知道是新來的。",,"헤에, 그럴줄 알았지.
 촌놈처럼 두리번대고 있었으니까","Ha, dachte ich es mir doch. Das ist wie wenn
 ein Landei zum ersten Mal in die Großstadt kommt."
@@ -30,17 +32,21 @@ Monstern gehandelt."
 是要付出代價的，連這點道理都不懂嗎？",,"그 판매자인 나에게 뭔가를 묻겠다면
 돈을 지불하는게 인지상정이잖냐","Wenn du eine Frage an einen Geschäftsmann wie mich
 hast, solltest du etwas springen lassen!"
-12,7001,,"Devi essere appena schiuso, così verde come sei ancora dietro le orecchie? Quelli così arrivano qui di continuo.","連這點道理都不懂還敢來這裡，你是新來的吧？
+12,7001,,"Devi essere appena schiuso, così verde come sei ancora dietro le orecchie?
+Quelli così arrivano qui di continuo.","連這點道理都不懂還敢來這裡，你是新來的吧？
 最近很多像你這樣的傢伙呢。",,"그런 것도 모르고 오다니 너 풋내기로군?
 제법 많지, 너 같은 녀석","Du bist wohl eben erst geschlüpft, so grün wie du
 noch hinter den Ohren bist? Solche kommen hier
 ständig her."
-13,7001,,"... Ho sentito una voce, che un hacker ultimamente distribuisce la Cattura Digimon come caramelle.","……這麼說來，聽說最近有個駭客
+13,7001,,"... Ho sentito una voce, che un hacker ultimamente
+distribuisce la Cattura Digimon come caramelle.","……這麼說來，聽說最近有個駭客
 正四處發送「數碼寶貝捕捉器」。",,"…그러고보니 최근 ""디지몬 캡처""를 뿌리고 다니는
 해커가 있다는 소문을 들었지","... Ich habe ein Gerücht gehört, dass ein Hacker
 in letzter Zeit Digimon-Fang wie
 Bonbons verteilt."
-14,7001,,"Lascia che indovini. Hai un Digimon catturato da quel tipo, ma non hai idea di come funzioni, vero?","反正你一定也是什麼都不知道，
+14,7001,,"Lascia che indovini.
+Hai un Digimon catturato da quel tipo,
+ma non hai idea di come funzioni, vero?","反正你一定也是什麼都不知道，
 就從那傢伙拿到捕捉器對吧？",,"어차피 너도 
 그 녀석으로부터 영문모를 캡처를 받은 녀석이지?","Lass mich raten. Du hast ein Digimon-Fang
 von dem Typen, aber keine Ahnung, wie 
@@ -51,7 +57,8 @@ Cos'è „Cattura Digimon“?","「數碼寶貝」？
 「數碼寶貝捕捉器」？",,"""디지털 몬스터""라고?
 ""디지몬 캡처"" 라니?","Was ist ein „Digimon“?
 Was ist „Digimon-Fang“?"
-17,7001,,Davvero? Devo ricominciare da zero? Non me la metti davvero facile.,"居然要從那裡開始說明嗎……
+17,7001,,"Davvero? Devo ricominciare da zero?
+Non me la metti davvero facile.","居然要從那裡開始說明嗎……
 真是受不了。",,"거기서부터냐…
 정말 별 수 없구만","Wirklich? Ich muss bei Null anfangen? Du machst
 es mir wirklich nicht leicht."
@@ -66,15 +73,16 @@ sono apparsi in EDEN qualche anno fa.","雖然不知道是誰製作的，
 EDEN에 나타나기 시작했어","Wer weiß, wer oder was sie erschaffen hat, aber
 vor ein paar Jahren sind sie in EDEN
 aufgetaucht."
-20,7001,,Hacker li catturano per usarli come loro personali strumenti da hacker.,駭客把他們抓起來之後，當成駭客工具來使用。,,"해커는 그 녀석들을 잡아서 해킹툴로
+20,7001,,"Hacker li catturano per usarli come loro personali strumenti da hacker.",駭客把他們抓起來之後，當成駭客工具來使用。,,"해커는 그 녀석들을 잡아서 해킹툴로
 이용하고 있는 거야","Hacker fangen sie, um sie als ihre persönlichen
 Hacker-Werkzeuge einzusetzen."
-21,7001,,"I Digimon rari portano un sacco di soldi, per questo è nato un mercato per loro.","稀有的數碼寶貝可以賣到很高的價錢，
+21,7001,,"I Digimon rari portano un sacco di soldi,
+per questo è nato un mercato per loro.","稀有的數碼寶貝可以賣到很高的價錢，
 因此產生了這種買賣交易。",,"희귀 디지몬은 비싸게 팔리니까
 이렇게 장사도 된다는 거지","Seltene Digimon bringen viel Kohle, weshalb
 ein Markt für sie entstanden ist."
-22,7001,,"Ho sentito dire che gli hacker della vecchia generazione se la cavavano senza Digimon.
-Avevano i loro strumenti.","雖然說上一個世代的駭客們，
+22,7001,,"Ho sentito dire che gli hacker della vecchia generazione
+se la cavavano senza Digimon. Avevano i loro strumenti.","雖然說上一個世代的駭客們，
 似乎沒有使用數碼寶貝，
 而是使用各自的工具來入侵電腦―",,"한 세대 전의 해커는 디지몬을 쓰지 않고 독자적인 툴로
 해킹을 했다는 모양이지만――","Ich habe gehört, dass Hacker der älteren
@@ -88,31 +96,36 @@ dem ist echt nicht mehr zu helfen."
 簡單來說，就是能得到數碼寶貝的便利工具。",,"디지몬 캡처라는건…… 뭐어 쉽게 말해
 디지몬을 손에 넣기 위한 편리한 툴이지","Digimon-Fang ... ist ein nützliches Werkzeug,
 um an Digimon zu kommen."
-25,7001,,"Se trovi un programma Digimon, lo scannerizzi prima per ottenere i suoi dati di analisi.","如果找到數碼寶貝程式的話，
+25,7001,,"Se trovi un programma Digimon,
+lo scannerizzi prima per ottenere i suoi dati di analisi.","如果找到數碼寶貝程式的話，
 首先用「檢測」來取得分析資料。",,"디지몬 프로그램을 발견하면
 일단「스캔」으로 해석 데이터를 입수할 수 있어","Wenn du ein Digimon-Programm findest, scannst du
 es erst, um an seine Analysedaten zu kommen."
-26,7001,,Non c'è un limite a quanti se ne possono trovare. Ma questo da solo non basta per usare i Digimon.,"捕捉器雖然能無限次數的使用這個功能，
+26,7001,,"Non c'è un limite a quanti se ne possono trovare.
+Ma questo da solo non basta per usare i Digimon.","捕捉器雖然能無限次數的使用這個功能，
 但光靠這樣還不能使用數碼寶貝。",,"캡처기능은 무제한으로 사용할 수 있어.
 하지만 그것만으로는 디지몬을 쓸 수 없지","Es gibt keine Begrenzung, wie viele man finden
 kann. Aber das allein genügt nicht, um Digimon
 zu nutzen."
 27,7001,,Prima bisogna convertire i dati di analisi trovati.,在這之後還需要「轉換」取得的分析資料才行。,,그 다음엔 입수한 해석 데이터를「컨버트」할 필요가 있어,"Erst muss man die gefundenen Analysedaten
 umwandeln."
-28,7001,,"Attraverso la conversione, il programma Digimon si manifesta nel Cyberspazio, prima di poterlo usare.","利用轉換數碼寶貝程式，
+28,7001,,"Attraverso la conversione, il programma Digimon
+si manifesta nel Cyberspazio, prima di poterlo usare.","利用轉換數碼寶貝程式，
 讓他們在電腦空間實體化後，
 才能真正開始使用數碼寶貝。",,"컨버트로 디지몬 프로그램은 전뇌 공간에 실체화시키면
 비로소 디지몬을 사용하는 것이 가능해지는거야","Durch die Umwandlung manifestiert sich das
 Digimon-Programm im Cyberspace, bevor man
 es benutzen kann."
-29,7001,,Ma non fraintendermi. La Cattura Digimon non include la funzione di conversione.,"不要搞錯了。
+29,7001,,"Ma non fraintendermi.
+La Cattura Digimon non include la funzione di conversione.","不要搞錯了。
 數碼寶貝捕捉器並不能執行「轉換」功能。",,"착각하지 마.
 「컨버트」를 실행하는 기능은 디지몬 캡처에는 붙어있지 않아","Aber versteh mich nicht falsch. Digimon-Fang
 beinhaltet die Funktion zur
 Umwandlung nicht."
 30,7001,,Hacker devono capire da soli come si fa.,那項技術，還需要駭客自己去創造出來。,,그 기술은 해커가 스스로 짜낼 필요가 있어,"Hacker müssen selbst herausfinden, wie man
 das macht."
-31,7001,,"Nei grandi team, si limita chi ne viene a conoscenza, per evitare che gli hacker causino troppo scompiglio.","組織龐大的隊伍，
+31,7001,,"Nei grandi team, si limita chi ne viene a conoscenza,
+per evitare che gli hacker causino troppo scompiglio.","組織龐大的隊伍，
 為了防止駭客失控，會限制這項技術的拓展。",,"큰 팀은 해커의 폭주를 제어하기 위해
 그 기술이 퍼지는 것을 제한하고 있지","In großen Teams wird eingeschränkt, wer davon
 erfährt, damit die Hacker nicht zu viel Unruhe
@@ -123,28 +136,33 @@ Loro poi te lo mostrano.","如果你做不到的話，就隨便加入一個駭�
 가르침을 구해 봐","Wenn du es nicht schaffst, kannst du dich ja
 einer Hackergruppe anschließen.
 Die zeigt es dir dann."
-33,7001,,"Ora, dopo averti spiegato tutto, non mi pianterai in asso, vero?","好啦……我都告訴你這麼多了，
+33,7001,,"Ora, dopo averti spiegato tutto,
+non mi pianterai in asso, vero?","好啦……我都告訴你這麼多了，
 你一定會跟我買點東西吧？",,"자… 이만큼이나 가르쳐줬다고.
 당연히 뭔가 사가주겠지?","Jetzt, nachdem ich dir alles erklärt habe, lässt
 du mich nicht hängen, oder?"
-34,2020,,(Questo tipo potrebbe sapere qualcosa su Shiga... Dovrei comprare qualcosa per farlo parlare ancora.),"（如果是他，搞不好會知道志賀的事……
+34,2020,,"(Questo tipo potrebbe sapere qualcosa su Shiga...
+Dovrei comprare qualcosa per farlo parlare ancora.)","（如果是他，搞不好會知道志賀的事……
 　為了得到情報，還是跟他買個東西好了）",,"(이 사람이라면 시가에 대해 알고 있을지도 몰라…
  정보를 얻기 위해서라도 하나 정도는 사가볼까)","(Dieser Typ könnte etwas über Shiga wissen ...
 Ich sollte etwas kaufen, damit er weiterredet.)"
 35,7001,,"Hmpf... Beh, qual è il tuo budget?",嗯……所以，你能出多少錢？,,흠……그래서 얼마 낼 수 있지?,Hmpf ... Was ist denn dein Budget?
-36,7001,,... Mi stai prendendo in giro? Con quei soldi non puoi comprare nemmeno un Digimon!,"…………你啊，是在跟我開玩笑嗎？
+36,7001,,"... Mi stai prendendo in giro?
+Con quei soldi non puoi comprare nemmeno un Digimon!","…………你啊，是在跟我開玩笑嗎？
 就這一點連一隻都買不起啊。",,"…………너, 장난치는 거냐?
 그걸론 한 마리도 살 수 없잖아","... Willst du mich veräppeln? Mit der Kohle
 kannst du kein einziges Digimon kaufen!"
 37,7001,,"Quelle? Ah, quelle verranno rottamate. Non le vendo.",那個嗎？　那是“報廢品”，可不是商品呢。,,"그걸로? 그건 ""폐기품""이야. 팔 물건이 아닌데","Die da? Ach, die werden ausrangiert. 
 Die verkaufe ich nicht."
 38,2020,,?!,！？,,!?,?!
-39,7001,,"I clienti non li comprano più da molto tempo. Stanno solo occupando spazio, quindi verranno cancellati.","都是一些長時間找不到買家的傢伙，
+39,7001,,"I clienti non li comprano più da molto tempo.
+Stanno solo occupando spazio, quindi verranno cancellati.","都是一些長時間找不到買家的傢伙，
 因為很佔容量所以正打算刪掉他們。",,"오랫동안 살 사람이 나타나지 않았던 녀석들이야.
 용량이 아까우니까 삭제해버리려고 했는데","Die Kunden haben die schon lange nicht mehr
 gekauft. Sie nehmen bloß Platz weg, also
 werden sie gelöscht."
-40,7001,,"D'altro canto... Forse sono adatti per i principianti. Potrei vendertene uno, per i soldi che hai.","……算了，像你這樣的菜鳥用這些剛剛好，
+40,7001,,"D'altro canto... Forse sono adatti per i principianti.
+Potrei vendertene uno, per i soldi che hai.","……算了，像你這樣的菜鳥用這些剛剛好，
 如果這種貨色就行了的話，
 就用剛剛的價格賣一隻給你吧。",,"……뭐, 풋내기에게 어울리려나.
 그런 거라도 좋다면 좀 전 가격으로 한 마리 정도 팔아주지","Andererseits ... Vielleicht eignen sie sich gut
@@ -170,6 +188,5 @@ Lasciami pensare un attimo.","就決定是這隻了！
 再讓我想想",,"이 녀석으로 할게!
 좀 더 생각해볼게","Das da!
 Lass mich noch kurz überlegen."
-45,7001,,"... Non ho tutto il giorno.
-Sbrigati.",……快點決定。,,……빨리 좀 골라,"... Ich habe nicht den ganzen Tag Zeit.
+45,7001,,"... Non ho tutto il giorno. Sbrigati.",……快點決定。,,……빨리 좀 골라,"... Ich habe nicht den ganzen Tag Zeit.
 Beeil dich."

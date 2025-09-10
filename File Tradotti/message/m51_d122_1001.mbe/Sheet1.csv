@@ -11,12 +11,14 @@ Certi affari non si fanno!","把其他兩隻給放了
 不要再做這種買賣了！",,"다른 두 마리도 놔줘
 이런 장사는 그만둬!","Lass die anderen zwei gehen.
 Solche Geschäfte gehören sich nicht!"
-6,7001,,Chi credi di essere per dirmi questo? Hai un problema con il modo in cui gestisco i miei affari?,"什麼？為什麼我要聽你的啊？
+6,7001,,"Chi credi di essere per dirmi questo?
+Hai un problema con il modo in cui gestisco i miei affari?","什麼？為什麼我要聽你的啊？
 你現在是對這裡的做法有意見嗎？",,"뭐어? 왜 그런 소리를 너한테 들어야 하는 건데?
 이 쪽의 방식에 대해 꼬투리 잡을 셈이냐? 엉?","Was glaubst du, wer du bist, dass du mir das
 sagst? Hast du ein Problem damit, wie ich
 meine Geschäfte führe?"
-7,7001,,Che dilettante. Non montarti la testa solo perché sono gentile con te...,"所以才說你們這些門外漢，
+7,7001,,"Che dilettante.
+Non montarti la testa solo perché sono gentile con te...","所以才說你們這些門外漢，
 稍微對你們好一點就得寸進尺了――",,생초보가. 좀 친절하게 대해줬더니 기어오르고――,"Was für ein Amateur. Lass es dir nicht zu Kopf
 steigen, dass ich nett zu dir bin ..."
 8,7001,,Cosa...! Non hai nemmeno un Cattura Digimon con te?!,"是說……你這傢伙是怎麼回事！
@@ -47,13 +49,15 @@ Lo rimpiangerai!","沒有數碼寶貝還跑來這種地方――
 자신의 어리석음을 원망해라!","Du bist ohne Digimon hierhergekommen.
 Das wirst du bereuen!"
 16,2020,,...!,……！！,,……!!,...!
-19,7090,,"Comunque lo guardi, vedo solo un bambino onesto. Vuoi combattere con i Digimon contro un novellino?","……這傢伙怎麼看都只是個普通的小鬼啊，
+19,7090,,"Comunque lo guardi, vedo solo un bambino onesto.
+Vuoi combattere con i Digimon contro un novellino?","……這傢伙怎麼看都只是個普通的小鬼啊，
 居然用數碼寶貝跟門外漢吵架？　",,"……보아하니 이 녀석, 척 봐도 모범생 꼬마잖냐.
 초보자 상대로 디지몬으로 싸우는 거냐?","Egal, wie ich es betrachte, ich sehe nur ein
 ehrliches Kind. Willst du mit Digimon gegen
 einen Neuling kämpfen?"
 20,7090,,Cavolo... come ti fai voler bene.,這還真是……幼稚啊。,,그건 아무리봐도……어른스럽지 못하군,Mann ... was machst du dich beliebt.
-21,7001,,Tieniti fuori! Questo tizio vuole dettarmi cosa devo fare con la mia immondizia!,"不要插嘴！
+21,7001,,"Tieniti fuori!
+Questo tizio vuole dettarmi cosa devo fare con la mia immondizia!","不要插嘴！
 這傢伙，對報廢品的處理在那裡說三道四的！",,"끼어들지 마!
 저 녀석, 폐기품 취급에 트집을 잡아댔다고!","Halt dich da raus! Dieser Vogel will mir
 vorschreiben, was ich mit meinem
@@ -66,7 +70,8 @@ Müll machen sollen!"
 你這傢伙、突然跑出來在說些什麼啊！？",,"하아!? 너, 느닷없이 나타나서 무슨 소릴 하는거냐!?","Wie bitte?! Erst tauchst du aus dem Nichts auf,
 und jetzt das?"
 25,2020,,?!,！？,,!?,?!
-26,7090,,"Ecco, un Digimon catturato. Prendilo. Senza di esso non puoi fare niente, dopotutto.","拿去，這是「數碼寶貝捕捉器」，
+26,7090,,"Ecco, un Digimon catturato. Prendilo.
+Senza di esso non puoi fare niente, dopotutto.","拿去，這是「數碼寶貝捕捉器」，
 沒有這個的話什麼都無法做。",,"""디지몬 캡처""다. 주지.
 그게 없으면 시작할 수도 없으니까","Hier, ein Digimon-Fang. Nimm es. Ohne es
 kannst du schließlich nichts machen."
@@ -117,7 +122,8 @@ Ora dobbiamo solo ...","但是，這樣也省下我不少功夫。
 남은 건――","Wie dem auch sei, so sparen wir Zeit.
 Jetzt müssen wir nur noch ..."
 42,7001,,Ehi! Da quando sei tu l'intermediario?,喂、喂…！？　你不是負責仲裁的嗎！,,"어, 어이…!? 넌 중재역할이 아닌거냐!",He! Seit wann bist du denn der Mittelsmann?
-43,7090,,Non è giusto se una parte è in vantaggio numerico. Ora è equilibrato.,"雙方數量不同的話，根本就不公平。
+43,7090,,"Non è giusto se una parte è in vantaggio numerico.
+Ora è equilibrato.","雙方數量不同的話，根本就不公平。
 這樣條件就相同了。",,"숫자를 맞추지 않으면 불공평하잖나.
 이걸로 조건은 동등하다","Es ist nicht fair, wenn eine Seite zahlenmäßig
 im Vorteil ist. Jetzt ist es ausgeglichen."

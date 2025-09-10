@@ -7,7 +7,9 @@ gerade gerettet."
 5,7203,,Chi... chi siete voi?,你們……救了我……？,,당신들…이…?,Wer ... wer seid ihr?
 6,3045,,Stai fermo.,別動喔。,,움직이지 마,Halt still.
 7,7203,,...!,……！,,……!,...!
-8,3045,,"Allora, ho medicato le tue ferite. L'ho fatto proprio come mio fratello... Ti senti meglio adesso?","幫你治好傷了。
+8,3045,,"Allora, ho medicato le tue ferite.
+L'ho fatto proprio come mio fratello...
+Ti senti meglio adesso?","幫你治好傷了。
 雖然只是模仿哥哥他們……但治好了吧。",,"상처, 치료해줄게.
 오빠들이 하던걸 흉내낸 것 뿐이지만……
 이제 나았겠지","So, ich habe deine Wunden versorgt. Ich habe
@@ -33,7 +35,8 @@ da hab ich meinen Spezialmove, Netzfalle, benutzt."
 16,1392,,"Nella mia città natale, venivo anche costantemente inseguito da Digimon potenti...","就算在故鄉，我也是整天
 被強大的數碼寶貝們追著跑……",,고향에서도 항상 강한 디지몬에게 쫓겨다녀서……,"In meiner Heimatstadt wurde ich auch ständig
 von starken Digimon gejagt ..."
-17,1392,,"Sono scappato via e all'improvviso mi sono ritrovato qui. Non so come tornare a casa, mi sono perso.","結果逃著逃著，一回神我就在這裡了。
+17,1392,,"Sono scappato via e all'improvviso mi sono ritrovato qui.
+Non so come tornare a casa, mi sono perso.","結果逃著逃著，一回神我就在這裡了。
 也不知道該怎麼回去……變成迷路的小孩了。",,"도망치다가 정신을 차려보니 여기로 와버린 데다
 돌아갈 길도 알 수 없게 돼버려서…… 미아가 됐어유","Ich bin weggerannt und auf einmal war ich hier.
 Ich weiß nicht, wie ich nach Hause kommen kann,
@@ -57,7 +60,8 @@ der von Menschen erschaffen wurde."
 존재한다고 들은 적이 있어유","Ich weiß nichts Genaues, aber ich habe gehört,
 dass es einen Ort gibt, an dem sich die Digitale 
 Welt mit der Menschenwelt überschneidet."
-26,1392,,"Originariamente i due mondi non erano connessi tra loro, ma a un certo punto si incontrarono...","兩個世界本來是沒有連結的，
+26,1392,,"Originariamente i due mondi non erano connessi tra loro,
+ma a un certo punto si incontrarono...","兩個世界本來是沒有連結的，
 但卻因為某種原因而有了連結……",,"두 세계는 본래 이어지지 않았지만
 어떤 순간에 서로 교차될 때가 있어서……","Ursprünglich waren die zwei Welten nicht
 miteinander verbunden, aber irgendwann
@@ -69,7 +73,8 @@ herzukommen ..."
 28,3045,,... Sei sicuro che non te lo stia solo immaginando?,…………你果然，是不是哪裡出錯了？,,"…………너, 역시 에러난거 아냐?","... Bist du sicher, dass du dir das nicht nur
 einbildest?"
 29,1392,,Cosa?! Come puoi dire una cosa simile?!,咦！？　為、為什麼妳要這麼說！？,,"에엑!? 어, 어째서 그렇게 되는건가유!?",Was?! Wie kannst du so etwas sagen?!
-30,3045,,È impossibile che ci sia un altro mondo. Non può essere proprio vero.,"根本沒有別的世界。
+30,3045,,"È impossibile che ci sia un altro mondo.
+Non può essere proprio vero.","根本沒有別的世界。
 不可能有。",,"이곳과 다른 세계같은 건 없어.
 있을 리 없어","Es ist unmöglich, dass es eine weitere Welt gibt.
 Es kann einfach nicht wahr sein."
@@ -91,7 +96,8 @@ Wer weiß es schon? Ich NICHT."
 35,3045,,"... Credo che sarebbe un po' affrettato,
 credere subito a una storia così assurda.",……這種天方夜譚，這麼乾脆就相信有點太魯莽了。,,……이런 황당무계한 이야기를 바로 믿는다니 어이가 없지만,"... Ich glaube, es wäre etwas vorschnell, eine
 so absurde Geschichte gleich zu glauben."
-36,3045,,"Naturalmente non lo fai. Ehi tu, sei caduto di testa quando sei scappato dall'attacco Digimon?","這是很正常的。你該不會是
+36,3045,,"Naturalmente non lo fai.
+Ehi tu, sei caduto di testa quando sei scappato dall'attacco Digimon?","這是很正常的。你該不會是
 在躲避數碼寶貝攻擊時撞到頭了吧？",,"그게 보통이지. 너 디지몬에게 쫓겨다닐 때
 머리라도 박은 거 아냐?","Natürlich tust du das nicht. Hey du, bist du auf
 den Kopf gefallen, als du vor dem
@@ -104,14 +110,16 @@ ich bin schon ausgerutscht und gefallen, aber ..."
 39,3045,,...,…………,,…………,...
 40,1392,,Oh no... Mi crederà mai nessuno?,怎麼這樣……沒有人相信我說的嗎……？,,그런… 아무도 지 얘기를 믿어주지 않는건가유……?,Oh nein ... Wird mir denn nie jemand glauben?
 41,1392,,"Il Mondo Digitale esiste davvero, parola d'onore!",數碼世界是真的存在！,,정말 디지털 월드는 있다고유―!,"Die Digitale Welt gibt es wirklich, Ehrenwort!"
-42,1392,,"Tutti i Digimon in questo spazio virtuale provengono dal Mondo Digitale, proprio come me!","在這個虛擬空間的數碼寶貝們，
+42,1392,,"Tutti i Digimon in questo spazio virtuale
+provengono dal Mondo Digitale, proprio come me!","在這個虛擬空間的數碼寶貝們，
 大家都是像我一樣從數碼世界來的！",,"이 가상세계에 있는 디지몬들은 모두 지처럼
 디지털 월드에서 왔다니까유!","Alle Digimon in diesem virtuellen Raum kommen aus
 der Digitalen Welt, genau wie ich!"
 43,3045,,Beh... È vero che nessuno sa chi ha creato i Digimon.,"……的確，到現在都還沒人知道
 做出數碼寶貝們的工程師是誰。",,……확실히 누가 디지몬들을 만든 엔지니어인진 아무도 몰라,"Nun ja ... Es stimmt schon, dass niemand weiß, wer
 die Digimon erschaffen hat."
-44,3045,,"Come programmi, sono troppo perfetti per essersi semplicemente evoluti spontaneamente...","如果是自然產生的程式，
+44,3045,,"Come programmi, sono troppo perfetti per
+essersi semplicemente evoluti spontaneamente...","如果是自然產生的程式，
 完成度也太高了……",,"자연발생적으로 생겨났다기엔 프로그램으로써
 지나치게 완성되어 있고……","Als Programme sind sie zu perfekt, um sich einfach
 spontan entwickelt zu haben ..."
@@ -125,7 +133,8 @@ credo.",…………我也沒那麼說啊。,,…………딱히 그런 말은 �
 glaube."
 49,1392,,Ma...?,那麼……！,,그럼……!,Aber ...?
 50,3045,,"Ma non ho neanche detto il contrario.
-Rinviamo la discussione. Non abbiamo abbastanza informazioni per verificarlo.","但我也沒說相信喔，這件事就先保留。
+Rinviamo la discussione.
+Non abbiamo abbastanza informazioni per verificarlo.","但我也沒說相信喔，這件事就先保留。
 能夠驗證的資料太少了。",,"믿는다고도 하지 않았어. 이 문제는 유보.
 검증 소재가 너무 적으니까","Aber ich habe auch nicht das Gegenteil gesagt.
 Vertagen wir die Diskussion. Wir haben nicht
@@ -144,7 +153,9 @@ die Digitale Welt, aber ich weiß nicht, wie ..."
 du jetzt unternehmen?"
 55,1392,,Io?,我？,,지요?,Ich?
 56,1392,,"Beh, io...",…………我,,…………지는,"Nun ja, ich ..."
-57,3045,,... Devo dire una cosa: Non aspettarti aiuto da me. I Digimon non mi interessano affatto.,"……我先說清楚，不要想依賴我喔。
+57,3045,,"... Devo dire una cosa:
+Non aspettarti aiuto da me.
+I Digimon non mi interessano affatto.","……我先說清楚，不要想依賴我喔。
 我對數碼寶貝沒有興趣……",,"……말해두겠지만 나에게 기대지는 마.
 난 디지몬에게 흥미가 없으니까……","... Eins muss ich sagen: Erwarte von mir keine
 Hilfe. Digimon sind mir ganz egal."
@@ -156,7 +167,8 @@ Hilfe. Digimon sind mir ganz egal."
 63,3045,,... Aaagh.,………………嗚嗚。,,…………………우우,... Aaagh.
 64,3045,,... Vuoi venire con me?,……………………………………要來，我家嗎？,,………………………………………우리집에 올래?,... Willst du mit mir mitkommen?
 65,1392,,Come?,咦？,,네?,Wie?
-66,3045,,"Se sei da solo, puoi accompagnarmi... finché non saprai come tornare a casa.","既然你沒地方能去…
+66,3045,,"Se sei da solo, puoi accompagnarmi...
+finché non saprai come tornare a casa.","既然你沒地方能去…
 那在找到回故鄉的方法前，可以待在我家。",,"갈 곳이 없다면…
 고향으로 돌아갈 방법을 찾을 때까지 우리집에 있어도 되는데","Wenn du ganz allein bist, kannst du mich
 begleiten ... bis du weißt, wie du nach
@@ -172,7 +184,8 @@ einsam! Hip, hip, hurra!"
 總覺得不能放那孩子不管。",,"어쩔 수가 없잖아!
 어쩐지 저 애를 내버려둘 수 없는걸","Was sollte ich denn tun? Ich konnte ihn doch
 nicht allein lassen."
-72,3045,,"È così allegro... e parla molto, per un Digimon. Ed è maldestro... Che tipo strano.","居然那麼開心……
+72,3045,,"È così allegro... e parla molto, per un Digimon.
+Ed è maldestro... Che tipo strano.","居然那麼開心……
 明明是數碼寶貝卻那麼愛說話，又笨拙……真是奇怪。",,"저렇게나 좋아하다니……
 디지몬 주제에 잘 떠들고, 덜렁이고……이상한 녀석","Er ist so fröhlich ... und redet viel, für
 ein Digimon. Und er ist tollpatschig ... Was für
@@ -188,7 +201,8 @@ E, ehm...","……謝謝你，幫了那孩子。
 Und, äh ..."
 78,3045,,Mi dispiace per la cosa con Memetan.,小梅梅的那件事……對不起打了你。,,때려서 미안…… 메메땅으로,"Tut mir leid, wegen der Sache mit Memetan."
 79,2020,,...!,……！,,……!,...!
-80,3045,,"Ma, ma se entri di nuovo nella mia stanza senza bussare, ricapiterà! Ehi, Wormmon! Forza!","……不、不過，要是你又不敲門就跑進來，
+80,3045,,"Ma, ma se entri di nuovo nella mia stanza senza bussare, ricapiterà!
+Ehi, Wormmon! Forza!","……不、不過，要是你又不敲門就跑進來，
 我還是會打你喔！
 要走囉！　蟲蟲獸！",,"…그, 그래도 또 노크없이 들어오면 때릴거니까!
 자, 가자! 추추몬!","Aber, aber wenn du wieder ohne zu klopfen in mein
