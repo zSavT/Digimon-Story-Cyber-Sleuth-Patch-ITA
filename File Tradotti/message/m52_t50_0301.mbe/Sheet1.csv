@@ -1,21 +1,23 @@
 ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
 3,2020,,?!,！？！？,,!?!?,?!
 4,2020,,...!,……！,,……!!,...!
-5,7097,,Cosa? Mio fratello maggiore ti ha mandato?,哥哥叫你來的？,,오빠가 가보라고 했어?,Was? Mein großer Bruder hat dich geschickt?
-6,7097,,Per questo non puoi semplicemente entrare qui senza bussare!,就算這樣，也不能不敲門就……跑進來！,,아무리 그래도 노크도 하지 않고 들어오지……마!,"Deswegen kannst du nicht einfach hier
+5,7097,,Cosa? Ti manda mio fratello?,哥哥叫你來的？,,오빠가 가보라고 했어?,Was? Mein großer Bruder hat dich geschickt?
+6,7097,,Non puoi entrare senza neanche bussare!,就算這樣，也不能不敲門就……跑進來！,,아무리 그래도 노크도 하지 않고 들어오지……마!,"Deswegen kannst du nicht einfach hier
 hereinspazieren, ohne zu klopfen!"
 7,2020,,...!,………！！,,………!!,...!
 8,7097,,...?!,……！？！？,,……!?!?,...?!
-9,7097,,Ahhh! Memetan! Mio Memetan ... è ferito!,"啊啊啊啊啊！！ 小梅梅！！
+9,7097,,Ahhh! Memetan! Il mio Memetan ... è ferito!,"啊啊啊啊啊！！ 小梅梅！！
 你傷到………小梅梅了！！！",,"아, 아, 아아아아!! 메메땅!!
 메메땅에게………… 상처가!!!",Ahhh! Memetan! Meine Memetan ... ist verletzt!
 10,2020,,???,？？？,,???,???
-11,7097,,... Memetan è questo peluche qui.,……小……小梅梅，就是這個娃娃……,,"……메…메메땅은, 이 인형……",... Memetan ist dieses Kuscheltier hier.
-12,7097,,Questo è il mio dispositivo di input per la mia interfaccia utente... come una tastiera!,"它是我的使用者界面用的輸入裝置……！
+11,7097,,...Memetan è questo peluche qui.,……小……小梅梅，就是這個娃娃……,,"……메…메메땅은, 이 인형……",... Memetan ist dieses Kuscheltier hier.
+12,7097,,"Questo è il mio dispositivo di input per la 
+mia interfaccia utente... come una tastiera!","它是我的使用者界面用的輸入裝置……！
 簡單說就是鍵盤……！",,"나의 유저 인터페이스를 위한 인풋 디바이스……
 쉽게 말해 키보드……!","Das ist mein Eingabegerät für mein
 Benutzer-Interface ... wie eine Tastatur!"
-13,7097,,"E qui sulla mia spalla c'è Toto, il mio dispositivo di uscita. E queste pantofole sono la mia memoria...","還有在我肩膀上的是輸出裝置叫托托，
+13,7097,,"E qui sulla mia spalla c'è Toto, il mio dispositivo 
+di uscita. E queste pantofole sono la mia memoria...","還有在我肩膀上的是輸出裝置叫托托，
 拖鞋叫茉莉……",,"참고로 어깨에 올라앉은 건 아웃풋 디바이스인 토토
 슬리퍼가 몰리…","Und hier auf meiner Schulter ist Toto, mein
 Ausgabegerät. Und diese Hausschuhe sind mein
@@ -27,11 +29,12 @@ Speicher ..."
 *Schnüff*"
 15,7097,,...,…………,,…………,...
 16,7097,,...,………………,,………………,...
-17,2020,,(Lei si aggrappò al peluche e non disse più niente...),（……她抱著娃娃不發一語）,,(……인형을 안고 입을 다물어버렸다),"(Sie klammerte sich an das Kuscheltier und sagte
+17,2020,,"(Lei si aggrappò al peluche e 
+non disse più niente...)",（……她抱著娃娃不發一語）,,(……인형을 안고 입을 다물어버렸다),"(Sie klammerte sich an das Kuscheltier und sagte
 nichts mehr ...)"
 18,2020,,"Mi dispiace...
 È solo colpa tua.
-... Sarò la tua nuova Memetan!","對不起……
+...Sarò la tua nuova Memetan!","對不起……
 是妳不對吧
 ……就由我來代替小梅梅吧！",,"미안……
 네 잘못이잖아
@@ -41,28 +44,30 @@ Es ist deine eigene Schuld.
 19,7097,,...,…………,,…………,...
 20,2020,,...,…………,,…………,...
 21,7097,,...,………………,,………………,...
-22,2020,,"(... È inutile, lei non risponde! Cosa dovrei mai fare...?!)","（……不行！ 沒有反應！！
+22,2020,,"(... È inutile, non risponde! Cosa dovrei mai fare...?!)","（……不行！ 沒有反應！！
 　到底該怎麼辦才好……！？）",,"(……틀렸어! 반응이 없어!!
  대체 어떻게 해야하지……!?)","(... Es hat keinen Zweck, sie antwortet nicht!
 Was soll ich bloß tun ...?!)"
 23,3046,,Mi dispiace che abbiate dovuto aspettare.,久等了。,,기다렸지,"Tut mir leid, dass ihr warten musstet."
-24,7098,,"Ehi, ottimo lavoro quello che hai fatto!
-Sembra che sia stato piuttosto difficile.","喔，辛苦啦！
+24,7098,,"Ehi, ottimo lavoro!
+Sembrava un lavoro complicato.","喔，辛苦啦！
 你們好像很辛苦啊！",,"여어, 수고했어!
 뭔가 큰일이었던 모양이지만!","Hey, gute Arbeit, die du da geleistet hast!
 Klingt, als ob es ziemlich schwierig war."
-25,7098,,... Eh? Perché la piccola è come pietrificata?,……咦？ 為什麼小姐僵在那邊啦？,,……어라? 아가씨는 왜 프리즈했어?,... Hä? Warum ist die Kleine wie versteinert?
+25,7098,,... Eh? Perché la piccola è pietrificata?,……咦？ 為什麼小姐僵在那邊啦？,,……어라? 아가씨는 왜 프리즈했어?,... Hä? Warum ist die Kleine wie versteinert?
 26,7098,,"Oh, non dire che ti pesa così tanto.
 Dai, fammi vedere.","哎呀，所以才在那鬧彆扭啊？
 來啦，讓千歲大哥哥看看。",,"어라라, 그래서 힘이 없는 거야?
 이봐 치토세 씨에게 보여줘 봐","Och, sag nicht, dass dich das so bedrückt.
 Hier, zeig mal her."
-27,3047,,"... C'è solo un piccolo graffio! L'ho riparata in un attimo. Coraggio, Piccola!","……什麼嘛，不就只是一點小傷啊。
+27,3047,,"...C'è solo un piccolo graffio! L'ho riparata 
+in un attimo. Coraggio, Piccola!","……什麼嘛，不就只是一點小傷啊。
 這馬上就能修好啦。打起精神來吧，小姐。",,"……뭐야아, 약간 상처가 났을 뿐인걸.
 이거라면 바로 고친대도. 기운 내, 아가씨","... Da ist nur ein kleiner Kratzer dran! Die habe
 ich in null Komma nichts repariert.
 Kopf hoch, Kleine!"
-28,7097,,... Impossibile. Memetan è la mia migliore amica e ho permesso che venisse ferita...,"……不可能。小梅梅是我的好朋友…… 
+28,7097,,"...Impossibile. Memetan è la mia migliore 
+amica e ho permesso che venisse ferita...","……不可能。小梅梅是我的好朋友…… 
 居然讓好朋友受傷了……",,"……무리. 메메땅은 내 친구……
 친구에게 흠집을 냈어……","... Unmöglich. Memetan ist meine beste Freundin
 und ich habe zugelassen, dass sie
@@ -71,38 +76,45 @@ verletzt wurde ..."
 30,3046,,"È colpa tua se li fai agitare così, Erika.",艾莉卡，把這種東西拿來亂打是妳的不對。,,"에리카, 그런 것을 휘두른 네가 나빠","Du bist selbst schuld, wenn du sie so
 herumwirbelst, Erika."
 31,3045,,...,…………,,…………,...
-32,3046,,Ho chiesto a [p] di andare nella tua stanza. È colpa mia se non ti ho avvertito.,"叫[p]去房間的人是我，
+32,3046,,"Ho chiesto a [p] di venire nella tua stanza. 
+È colpa mia se non ho avvisato.","叫[p]去房間的人是我，
 是我不對，沒跟他說清楚。",,"[p]에게 방으로 가라고 한 건 나다.
 미리 말하지 않은 내가 잘못했어","Ich habe [p] gebeten, in dein Zimmer
 zu gehen. Es ist meine Schuld, dass
 ich dich nicht gewarnt habe."
-33,3046,,"Allora, chiedi scusa a lui.",妳就原諒他吧。,,너도 용서해줘라,"Also, entschuldige dich bei ihm."
+33,3046,,Perdonalo.,妳就原諒他吧。,,너도 용서해줘라,"Also, entschuldige dich bei ihm."
 34,3045,,...,…………,,…………,...
-35,3045,,... Mi regali il nuovo PC che desidero e al quale hai già detto di no una volta?,……你之前反對的那台新電腦，我可以買了嗎？,,"……전에 반대했던 새 PC, 사도 돼?","... Schenkst du mir doch den neuen PC, den ich mir
+35,3045,,"...Mi regali quel PC che una volta ti rifiutasti
+di comprarmi?",……你之前反對的那台新電腦，我可以買了嗎？,,"……전에 반대했던 새 PC, 사도 돼?","... Schenkst du mir doch den neuen PC, den ich mir
 wünsche und zu dem du schon einmal Nein gesagt
 hast?"
-36,3046,,Cosa c'entra?,……這跟那件事沒關係。,,……그거랑 이건 관계없잖아,Was hat das damit zu tun?
+36,3046,,E questo che c’entra?,……這跟那件事沒關係。,,……그거랑 이건 관계없잖아,Was hat das damit zu tun?
 37,3045,,...,……,,……,...
 38,3046,,...,…………,,…………,...
 39,3045,,...,…………,,…………,...
-40,3046,,Va bene. Compralo.,………………我知道了。妳可以買。,,………………알았어. 사도 돼,Na schön. Kaufe ihn.
+40,3046,,...Ho capito. Prendilo.,………………我知道了。妳可以買。,,………………알았어. 사도 돼,Na schön. Kaufe ihn.
 41,3045,,...,…………,,…………,...
-42,3047,,"Guarda un po' questo sorriso!
-Questo lo riesce a fare solo un buon fratello maggiore!",喔，心情恢復了。不～愧是哥哥！。,,"오, 기분 좋아졌다. 역시나 오빠!","Schau dir mal dieses Lächeln an!
+42,3047,,"Guarda un po’ che bel sorriso!
+Solo un fratellone ci riuscirebbe!",喔，心情恢復了。不～愧是哥哥！。,,"오, 기분 좋아졌다. 역시나 오빠!","Schau dir mal dieses Lächeln an!
 Das schafft nur ein guter großer Bruder!"
-43,3047,,"Anche se ti comporti più come suo padre che come suo fratello. Pfff, un po' noioso, se ci penso.","但是哥哥啊……
+43,3047,,"Anche se, diciamocelo, ti comporti più
+come un padre che come un fratello.
+Un po’ noioso.","但是哥哥啊……
 真要說的話，還比較像爸爸吧。噗，真老土。",,"오빠, 라기보단……
 굳이 따지자면 아빠 같은 느낌이지만, 푸풋, 촌스러","Obwohl du dich eher wie ihr Vater als ihr
 Bruder verhältst. Pfff, irgendwie öde,
 wenn ich darüber nachdenke."
-44,3046,,"Taci. Erika, hai completato l'analisi dell'account di Shiga?","……囉唆。
+44,3046,,"Taci. Erika, hai completato l'analisi 
+dell'account di Shiga?","……囉唆。
 艾莉卡，分析完志賀的帳號了嗎？",,"…시끄러워.
 에리카, 시가의 계정 해석은 끝났어?","Halt die Klappe. Erika, hast du die Analyse
 von Shigas Account abgeschlossen?"
-45,3045,,"Sì, praticamente.",嗯，再一下子。,,"응, 거의","Ja, so gut wie."
+45,3045,,Praticamente sì.,嗯，再一下子。,,"응, 거의","Ja, so gut wie."
 46,2020,,?,？？,,??,?
 47,3046,,Stiamo conducendo ricerche sull'account di Shiga.,現在正在調查志賀的帳號。,,시가의 계정을 조사하게 했지.,Wir stellen Nachforschungen zu Shigas Account an.
-48,3046,,"Il nostro cliente vuole che l'account ""in questione"" venga distrutto. Dobbiamo sapere cosa è successo dopo lo scontro con il mostro.","客戶的要求，是「破壞目標的帳號」。
+48,3046,,"Il nostro cliente vuole che l'account in 
+questione venga distrutto. Dobbiamo sapere 
+cosa è successo dopo lo scontro con il mostro.","客戶的要求，是「破壞目標的帳號」。
 在遇到了那怪物後，需要確認那傢伙現在的狀況。",,"의뢰인의 요청은「대상의 계정 파괴」야.
 그 괴물과 마주친 녀석이 어떻게 되었는지 확인할 필요가 있어","Unser Klient möchte, dass der „betroffene Account
 vernichtet“ wird. Wir müssen wissen, was nach
@@ -113,15 +125,16 @@ Quella cosa dev'essere stata un bug.","找到了……看來帳號發生了錯�
 그 괴물, 무슨 버그였던 걸지도","Da haben wir es. Es gibt lauter Fehlermeldungen.
 Das Ding muss ein Bug gewesen sein."
 50,3046,,E... Shiga è stato inghiottito da questa cosa?,而志賀就被捲入其中……,,시가는 거기에 휘말린건……가,Und ... Shiga wurde von diesem Ding verschluckt?
-51,3047,,"Ehm, IO non ho mai sentito parlare di un bug che divora altri account. Tu, per caso?","但是啊，會吃掉帳號的Bug，
+51,3047,,"Ehm, IO non ho mai sentito parlare di un bug che 
+divora altri account. Tu, invece?","但是啊，會吃掉帳號的Bug，
 可是從來都沒聽過啊。",,"그렇지만 말야, 계정을 먹어치우는 버그라니
 들어본 적도 없는걸","Ähhh, ICH habe noch nie von einem Bug gehört, der
 andere Accounts frisst. Du etwa?"
-52,3046,,Nemmeno io. Dovremmo piuttosto segnalarlo a Zaxon.,沒錯……看來得報告給Zaxon了。,,아아…… 잭슨에 보고해둘 필요는 있겠지,"Ich auch nicht. Wir sollten es lieber Zaxon
+52,3046,,Nemmeno io. Dovremmo segnalarlo a Zaxon.,沒錯……看來得報告給Zaxon了。,,아아…… 잭슨에 보고해둘 필요는 있겠지,"Ich auch nicht. Wir sollten es lieber Zaxon
 melden."
 53,3047,,"Mi togli le parole di bocca.
-Ciononostante, significa che il
-Caso Zaxon è concluso!","是啊。
+Quindi, questo significa che il
+Caso Zaxon è risolto!","是啊。
 不過，這樣就算平安完成Zaxon的委託啦！",,"그렇지.
 뭐, 어쨌든 이걸로 잭슨에서 받은 의뢰는 무사히 완료한거네!","Du nimmst mir die Worte aus dem Mund.
 Nichtsdestotrotz heißt das, dass der
@@ -129,50 +142,58 @@ Zaxon-Fall abgeschlossen ist!"
 54,3047,,... Ah! Ma che ne è del test per il novellino?,……跟那種事比起來！ 新人的測試怎麼樣啦？,,……그보다! 신입 군의 시험은 어떻게 됐어?,"... Ach! Aber was ist mit dem Test für den
 Neuling?"
 55,3046,,"Ah sì, ha superato.",合格了。,,"그래, 합격이다","Ach ja, er hat bestanden."
-56,3047,,Davvero?! Ben fatto! Benvenuto a Hudie! Dobbiamo festeggiarlo in qualche modo!,"真假！？ 你真厲害啊！
+56,3047,,"Davvero?! Ben fatto! Benvenuto negli Hudie! 
+Dobbiamo festeggiarlo in qualche modo!","真假！？ 你真厲害啊！
 歡迎加入hudie！ 我很歡迎你喔！",,"진짜로!? 해냈구나 너!
 잘 왔어 ""후디에""에! 환영할게!","Wirklich?! Gut gemacht! Willkommen bei Hudie!
 Wir müssen das irgendwie feiern!"
 57,3047,,... Vorrei presentarmi ancora una volta!,……那麼，就重新自我介紹吧！,,…그럼 다시 자기소개를 해볼까!,... Ich möchte mich noch einmal vorstellen!
 58,3047,,Sono Chitose Imai! Benvenuto!,我是今井千歲！ 請多關照啦。,,나는 이마이 치토세야! 잘 부탁해,Ich bin Chitose Imai! Willkommen!
 59,3047,,"Conosco Ryuji e la piccola da una vita.
-In questa squadra sono responsabile della raccolta di dati.","我和龍司跟小姐認識蠻久了。
+In questa squadra sono responsabile 
+della raccolta di dati.","我和龍司跟小姐認識蠻久了。
 在隊上我是負責收集情報喔。",,"류지나 아가씨랑은 오래 알고 지낸 사이고
 팀에서는 정보 수집을 담당하고 있어","Ich kenne Ryuji und die Kleine schon Ewigkeiten.
 In diesem Team bin ich für das Sammeln von 
 Daten verantwortlich."
-60,3047,,Ti è stato utile il Colibrì che ti avevo dato? Fammi sapere se ti piace qualcosa del genere. Ho ancora altro malware di questo tipo!,"剛才交給你的小「蜂鳥」，很有用對吧？
+60,3047,,"Ti è stato utile il Colibrì che ti avevo dato? 
+Fammi sapere se ti piace.. Ho ancora altro 
+malware di questo tipo!","剛才交給你的小「蜂鳥」，很有用對吧？
 有興趣的話隨時都能來找我！ 
 讓你見識下其他的惡性軟體。",,"아까 보내준「벌새」양, 도움이 되었지?
 흥미가 있다면 언제든 괜찮아! 다른 악성코드도 보여줄게","War der Kolibri, den ich dir gegeben hatte,
 nützlich? Sag Bescheid, wenn dir so was gefällt.
 Ich habe noch mehr solche Schadsoftware!"
 61,3047,,"E il prossimo, il capo della banda...",然後，這傢伙就是隊伍的隊長──,,그리고 이 녀석이 팀 리더인――,"Und als Nächster, der Anführer der Bande ..."
-62,3046,,Ryuji Mishima. E non devi sapere altro su di me.,"……我是御島龍司。
+62,3046,,"Ryuji Mishima. Non c’è altro che
+tu debba sapere.","……我是御島龍司。
 我就不用介紹了吧。",,"……미시마 류지, 다.
 나에 대한건 이제 충분하잖아","Ryuji Mishima. Und mehr musst du nicht über mich
 wissen."
 63,3045,,... Erika. Erika Mishima.,…………御島艾莉卡。,,…………미시마 에리카,... Erika. Erika Mishima.
 64,3046,,"Credo che tu lo sappia già, ma...",雖然我想你已經知道了……,,이미 알고 있겠지만…,"Ich glaube, das weißt du schon, aber ..."
-65,3046,,"Noi di „Hudie“ siamo un team di hacker,
+65,3046,,"Noi di “Hudie“ siamo un team di hacker,
 che svolge incarichi a EDEN.","但我們“hudie”隊，是在EDEN
 接受客戶委託的駭客集團。",,"우리들, 팀 ""후디에""는 EDEN에서 일을
 의뢰받는 해커팀이야","Wir bei „Hudie“ sind ein Hackerteam,
 das in EDEN Aufträge erfüllt."
 66,3047,,"Nessun caso è troppo grande o troppo piccolo per noi!
-Dall'hacking al ritrovamento di oggetti smarriti, facciamo di tutto!","委託的內容包山包海！
+Dall'hacking al ritrovamento di oggetti smarriti, 
+facciamo praticamente di tutto!","委託的內容包山包海！
 從駭入資料到找尋失物什麼都做喔！",,"의뢰 내용은 뭐든지 있어!
 해킹부터 잃어버린 것을 탐색하는 것까지 뭐든 있소이다!","Kein Fall ist für uns zu groß oder zu klein!
 Vom Hacken bis zum Auffinden verlorener
 Gegenstände machen wir alles!"
-67,3047,,"Accettiamo anche incarichi privati, ma il nostro cliente più importante è Zaxon. Ne avrai sicuramente sentito parlare, non è vero?","雖然也會接個人的委託，
+67,3047,,"Accettiamo anche incarichi privati, ma il nostro cliente 
+più importante è Zaxon. Ne avrai sicuramente sentito 
+parlare, non è vero?","雖然也會接個人的委託，
 但我們的大客戶是“Zaxon”隊。
 你也知道他們是誰對吧？",,"개인적인 의뢰도 받아들이지만 단골손님은 팀 ""잭슨""이지.
 녀석들에 대해서는 이미 알고 있지?","Wir nehmen auch private Aufträge an, aber unser
 wichtigster Klient ist Zaxon. Von denen
 hast du doch sicher gehört, nicht wahr?"
 68,2020,,"... Chi?
-Naturalmente, ho sentito parlare di loro.","……他們是什麼人啊？
+Naturalmente.","……他們是什麼人啊？
 我當然知道",,"……그게 뭐더라?
 물론 알고 있지","... Wer?
 Natürlich habe ich von ihnen gehört."
@@ -181,82 +202,98 @@ Pulisciti le orecchie e ascolta.","喂喂喂，我不是告訴過你了嗎～？
 真受不了，就再教你一次吧。",,"이봐이봐, 가르쳐줬잖아~?
 어~쩔수 없네, 다시 한번 얘기해줄게","Komm schon, das habe ich dir doch schon erzählt!
 Putz mal deine Ohren und hör zu."
-70,3047,,Zaxon è un team di hacker che ha il compito di proteggere l'ordine e la libertà in EDEN.,"Zaxon是以守護EDEN的自由與秩序為目標，
+70,3047,,"Zaxon è un team di hacker che ha il 
+compito di proteggere l'ordine e la libertà in EDEN.","Zaxon是以守護EDEN的自由與秩序為目標，
 所組成的駭客團體。",,"잭슨이라는건 EDEN의 자유와 질서를 지키는 것을
 목표로 결성된 해커팀이야","Zaxon ist ein Hackerteam, das die Ordnung und
 Freiheit in EDEN schützen soll."
-71,3047,,"Il loro leader, Yuugo, divenne famoso come hacker, quando la cattura di Digimon divenne popolare.","他們隊長叫“YUGO”。
+71,3047,,"Il loro capo si chiama Yuugo. È un hacker diventato 
+famoso quando si sono diffusi i Cattura Digimon. ","他們隊長叫“YUGO”。
 是在數碼寶貝捕捉器普及時成名的駭客。",,"리더의 이름은 ""유고"".
 디지몬 캡처의 보급과 같은 시기부터 이름을 떨친 해커야","Ihr Anführer, Yuugo, wurde als Hacker berühmt,
 als Digimon-Fang populär wurde."
-72,3047,,"Diverse squadre di medie dimensioni simpatizzarono con l'ideologia di Yuugo, si unirono a lui ed espansero così notevolmente la sua influenza.","之後有不少中規模的團體認同YUGO的理念加入，
+72,3047,,"Diverse squadre di medie dimensioni simpatizzarono 
+con l'ideologia di Yuugo, si unirono a lui ed espansero 
+così la sua influenza.","之後有不少中規模的團體認同YUGO的理念加入，
 他們的勢力便爆發性的成長。",,"유고의 사상에 공감한 중소 규모의 해커 팀이 몇 갠가 산하에 들어가
 폭발적으로 세력을 키운거지","Mehrere Teams mittlerer Größe sympathisierten mit
 Yuugos Ideologie, schlossen sich ihm an und
 erweiterten so seinen Einfluss erheblich."
 73,3047,,Ora è il team più grande a Kowloon.,現在他們的規模，可算是Kowloon第一大了。,,이제 그 규모는 쿠롱 최고라고 불릴 정도라고,Jetzt ist es das größte Team in Kowloon.
 74,3047,,Bene. Mi fa piacere che tu abbia fatto attenzione.,很棒很棒，後輩記性很好，千歲哥真是開心。,,"좋아좋아, 기억력 좋은 후배라서 치토세 씨는 기쁜걸","Schön. Freut mich, dass du aufgepasst hast."
-75,3046,,Zaxon non ha alcuna tolleranza per gli hacker malintenzionati che vogliono trollare EDEN.,Zaxon不會允許在EDEN作亂的惡劣駭客。,,잭슨은 EDEN을 어지럽히는 악질 해커를 용서하지 않아,"Zaxon hat keine Nachsicht mit böswilligen Hackern,
+75,3046,,"Zaxon non ha alcuna tolleranza per gli hacker 
+malintenzionati che vogliono trollare EDEN.",Zaxon不會允許在EDEN作亂的惡劣駭客。,,잭슨은 EDEN을 어지럽히는 악질 해커를 용서하지 않아,"Zaxon hat keine Nachsicht mit böswilligen Hackern,
 die EDEN trollen wollen."
-76,3046,,Ritengono che l'hacking dovrebbe essere usato per proteggere EDEN.,他們認為駭客能力，只能用在「守護EDEN」上才行。,,"해킹 능력은
+76,3046,,"Ritengono che l'hacking dovrebbe essere 
+usato per proteggere EDEN.",他們認為駭客能力，只能用在「守護EDEN」上才行。,,"해킹 능력은
 「EDEN을 지키기 위해」쓰여야 한다고 생각하고 있어","Sie finden, dass Hacking eingesetzt werden sollte,
 um EDEN zu schützen."
-77,3047,,Il motivo per cui accettiamo casi da Zaxon ha a che fare anche con questo. Regola numero 1 di Hudie: Non supportare azioni malvagie!,"我們會接下Zaxon的委託，也是因為這理由。
+77,3047,,"Accettiamo la richiesta di Zaxon anche per questo motivo. 
+Prima regola di Hudi: non aiutare mai chi fa del male. ","我們會接下Zaxon的委託，也是因為這理由。
 hudie的準則1！ 絕不幫助為非作歹。",,"우리들이 잭슨의 의뢰를 받는 것도 그런 이유 때문이지.
 후디에 규칙 제 1! 악행에는 가담하지 않는다!","Der Grund, warum wir Fälle von Zaxon annehmen, hat
 auch damit zu tun. Regel Nummer 1 bei Hudie:
 Unterstütze keine bösen Taten!"
-78,3047,,Siamo alleati della giustizia che lavorano per conto di Zaxon!,我們就是在Zaxon旗下努力的正義使者！,,우리들은 잭슨 밑에서 일하는 정의의 편이라는거지!,"Wir sind Verbündete der Gerechtigkeit, die
+78,3047,,"Siamo alleati della giustizia che 
+lavorano per conto di Zaxon!",我們就是在Zaxon旗下努力的正義使者！,,우리들은 잭슨 밑에서 일하는 정의의 편이라는거지!,"Wir sind Verbündete der Gerechtigkeit, die
 im Auftrag von Zaxon arbeiten!"
-79,3047,,"In realtà, il nostro compito è impedire alle persone di scatenarsi in EDEN!",事實上，我們也負責阻止EDEN內過頭的失控行為！,,"실제로 우리는 EDEN에서의 과도한 폭주행위를 억누르는 역할을
+79,3047,,"In realtà, il nostro compito è impedire
+ alle persone di scatenarsi in EDEN!",事實上，我們也負責阻止EDEN內過頭的失控行為！,,"실제로 우리는 EDEN에서의 과도한 폭주행위를 억누르는 역할을
 맡고 있으니까!","In Wirklichkeit besteht unser Job darin,
 Leute davon abzuhalten, in EDEN Amok zu laufen!"
-80,3047,,"Dato che ora fai parte di noi, faresti meglio a non causare problemi, capito? E non provocare Zaxon! Ricorda: il cliente ha sempre ragione.","想成為我們夥伴的話，你也不能做壞事。
+80,3047,,"Dato che ora fai parte di noi, faresti meglio a non 
+causare problemi, capito? E non provocare Zaxon! 
+Ricorda: il cliente ha sempre ragione.","想成為我們夥伴的話，你也不能做壞事。
 也不能和Zaxon起衝突！ 客人可是很重要的啊！",,"우리들의 동료가 된 이상, 너도 나쁜 짓은 NG라구?
 잭슨에게 시비를 거는것도 금지! 손님은 왕이니까!","Da du jetzt zu uns gehörst, solltest du lieber
 keine Probleme machen, verstanden? Und provozier
 Zaxon nicht! Denk dran: Der Kunde hat immer recht."
-81,3046,,Non mi sembra il tipo per quello.,……這傢伙的話，倒是不用擔心。,,……그 점에 대해선 이 녀석은 걱정없어,Er scheint mir nicht der Typ dafür zu sein.
+81,3046,,...Non mi sembra il tipo.,……這傢伙的話，倒是不用擔心。,,……그 점에 대해선 이 녀석은 걱정없어,Er scheint mir nicht der Typ dafür zu sein.
 82,3047,,"Ha, già, è vero.",嘿嘿，也是啦。,,"헤헷, 그렇지","Ha, das stimmt wohl."
-83,3047,,È andato di sua iniziativa a Kowloon per trovare l'Hacker che gli aveva rubato l'Account.,"畢竟他可是追著奪走自己帳號的駭客，
+83,3047,,"È andato di sua iniziativa a Kowloon 
+per trovare l'Hacker che gli aveva 
+rubato l'Account.","畢竟他可是追著奪走自己帳號的駭客，
 獨自一人潛入Kowloon的傢伙啊。",,"자기 계정을 뺏은 해커를 쫓아
 단독으로 쿠롱에 뛰어들 정도인걸","Er ist von sich aus nach Kowloon gegangen, um den
 Hacker zu finden, der seinen Account
 gestohlen hatte."
-84,3046,,"Sarebbe tutto per ora, vero?
-Il resto lo impara sul lavoro.","……介紹到這樣應該就夠了，
+84,3046,,"Per ora è tutto, no?
+Il resto si imparerà sul campo.","……介紹到這樣應該就夠了，
 之後你就自己慢慢學習吧。",,"……우리들에 대해선 이 정도면 충분하겠지.
 그 외엔 차차 배워나가도록 해","Das wäre erst mal alles, oder?
 Den Rest lernt er bei der Arbeit."
-85,3046,,"Chitose, Erika. Una di voi dovrebbe spiegare a lui come funzionano le „Bacheche“.","千歲、艾莉卡，你們誰都行，
+85,3046,,"Chitose, Erika. Una di voi dovrebbe 
+spiegargli come funzionano le “Bacheche“.","千歲、艾莉卡，你們誰都行，
 跟他說明一下“看板”。",,"치토세, 에리카, 어느 쪽이든 좋아.
 이 녀석에게 ""판""에 대해서 설명해줘","Chitose, Erika. Einer von euch sollte ihm
 erklären, wie die „Anschlagtafeln“ funktionieren."
 86,3046,,"Quando avrete finito, faremo rapporto a Zaxon.",說明完後，就要去跟Zaxon報告了。,,끝나면 잭슨에 보고하러 간다,"Wenn ihr fertig seid, erstatten wir Zaxon Bericht."
 87,2020,,?,？？,,??,?
-88,3047,,"Dov'è finito Ryuji, ti stai chiedendo?
+88,3047,,"Come? Dove si trova Ryuji?
 Non te l'hanno detto?",你問龍司要去哪裡？　咦，你沒聽我們說嗎？,,"류지가 어디 가느냐고? 어라, 듣지 못했어?","Wo ist Ryuji hin, fragst du dich?
 Haben sie dir das nicht gesagt?"
-89,3047,,Questo internet café è gestito da fratelli. Ryuji è lì dentro.,這間網路咖啡店，是這對兄妹的店。,,"이 인터넷 카페, 이 남매의 가게야","Dieses Internetcafé wird von Geschwistern
+89,3047,,"Questo è un internet cafè a gestione familiare. 
+Ryuji è dentro.",這間網路咖啡店，是這對兄妹的店。,,"이 인터넷 카페, 이 남매의 가게야","Dieses Internetcafé wird von Geschwistern
 betrieben. Ryuji ist da drin."
 90,2020,,?!,！？,,!?,?!
 91,3047,,"È una fonte di reddito E il nostro nascondiglio.
-Due piccioni con una fava, non è vero?","既能賺生活費，又能當基地，
+Due piccioni con una fava, no?","既能賺生活費，又能當基地，
 真是一石二鳥啊。",,활동비도 벌 겸 아지트도 되니까 일석이조랄까,"Es ist eine Einnahmequelle UND unser Versteck.
 Zwei Fliegen mit einer Klappe, nicht wahr?"
-92,3047,,"Le ragazze che lavorano qui sono anche piuttosto carine, hihi. Ma giù le mani, ero qui per primo!","來打工的女孩子也很可愛喔，嗚呼呼。
+92,3047,,"Le ragazze che lavorano qui sono anche 
+piuttosto carine, hihi. Ma giù le mani, ci sono prima io!","來打工的女孩子也很可愛喔，嗚呼呼。
 啊，你別想追喔，那是我的目標。",,"알바생 여자애도 귀엽다고. 누후후.
 아, 새치기하지 마. 내가 노리고 있으니까","Die Mädchen, die hier arbeiten, sind auch ganz
 hübsch, hihi. Aber Hände weg, ich war zuerst hier!"
-93,3047,,"Allora, Piccolo, chi di noi dovrebbe spiegare le „Tavole“?",那麼小姐，誰要來說明「看板」呢？,,"그럼 아가씨, ""판""의 설명은 누가 하지?","Also, Kleine, wer von uns sollte die
+93,3047,,"Allora signorina, chi di noi spiegherà le “bacheche”?",那麼小姐，誰要來說明「看板」呢？,,"그럼 아가씨, ""판""의 설명은 누가 하지?","Also, Kleine, wer von uns sollte die
 „Tafeln“ erklären?"
 94,3045,,Tu.,千歲你來。,,치토세,Du.
-95,3047,,"Era ovvio! Sfortuna per te, novellino.",我想也是～！ 真是可惜啊，新人。,,"그렇겠죠~! 안타깝게 됐네, 신입 군","Das war klar! Pech für dich, Neuling."
-96,3047,,"Ti sarebbe sicuramente piaciuta di più una bella ragazzina,
+95,3047,,"Era ovvio! Sei proprio sfortunato, novellino.",我想也是～！ 真是可惜啊，新人。,,"그렇겠죠~! 안타깝게 됐네, 신입 군","Das war klar! Pech für dich, Neuling."
+96,3047,,"Ti sarebbe sicuramente piaciuta di più una bella ragazza,
 ma oggi dovrai accontentarti di me!","雖然想要讓年輕可愛的女孩子教，
 不過今天就大哥哥我來教，你將就一下吧！",,"어리고 귀여운 여자아이에게 배우고 싶었겠지만
 오늘은 형님으로 참아주라!","Dir wäre ein hübsches junges Ding sicher lieber,
 aber heute musst du dich wohl mit mir begnügen!"
 97,3047,,"Forza, seguimi.",這邊，跟我來吧。,,"자, 이쪽이다. 따라와","Los, mir nach."
 98,3045,,...,…………,,…………,...
-99,3047,,"Ehi, perché ci metti così tanto, novellino?",喂～怎麼啦？,,"어~이, 무슨 일이야?","Hey, was dauert denn so lange, Neuling?"
+99,3047,,"Ehi, perché ci metti così tanto?",喂～怎麼啦？,,"어~이, 무슨 일이야?","Hey, was dauert denn so lange, Neuling?"
