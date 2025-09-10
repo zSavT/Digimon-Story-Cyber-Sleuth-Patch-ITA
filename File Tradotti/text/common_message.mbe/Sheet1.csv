@@ -39,13 +39,13 @@ ID,Japanese,English,Chinese,EnglishCensored,Korean,German
 1231,,Hai già scoperto questo Digimon.,曾見過這種數碼寶貝,,이 디지몬을 발견한 적이 있다.,Du hast dieses Digimon bereits entdeckt.
 1232,,DNA Digievoluzione Possibile!,合體進化完成！,,조그레스 진화 OK!,DNA-Digitation möglich!
 1233,,DNA Digievoluzione non possibile...,合體進化失敗．．．,,조그레스 진화 NG…,DNA-Digitation unmöglich!
-1234,,Può eseguire un Cambio di Modalità incondizionatamente.,可無條件地變更模式,,모드체인지는 무조건 할 수 있습니다.,Moduswechsel uneingeschränkt möglich.
-1235,,Le statistiche non cambieranno durante un Cambio di Mode:,即使變更模式，以下狀態也不會產生變化,,모드체인지를 해도 이하의 스테이터스는 변화하지 않습니다.,Keine Wertänderung bei Moduswechsel:
+1234,,Cambio di modalità possibile senza limitazioni.,可無條件地變更模式,,모드체인지는 무조건 할 수 있습니다.,Moduswechsel uneingeschränkt möglich.
+1235,,Nessuna variazione di valore al cambio di modalità:,即使變更模式，以下狀態也不會產生變化,,모드체인지를 해도 이하의 스테이터스는 변화하지 않습니다.,Keine Wertänderung bei Moduswechsel:
 1236,,- Livello,・等級,,* 레벨,- Level
 1237,,- Livello massimo,・最高等級,,* 최대 레벨,- Max. Level
 1238,,- EXP,・EXP,,* EXP,- EP
 1239,,- Abilità,・才能,,* 재능,- Fähigkeiten
-1240,,- Cameratismo,・友情,,* 우정,- Kameradschaft
+1240,,- Amicizia,・友情,,* 우정,- Kameradschaft
 1241,,- Personalità,・個性,,* 개성,- Persönlichkeit
 1300,,Difficoltà,難易度,,난이도,SchwGr.
 1301,,★,★,,★,★

@@ -66,7 +66,7 @@ Le percentuali quì sotto fanno riferimento alla revisione manuale dei testi, la
 - [x] Revisione Box Dialoghi NPC.
 - [x] Revisione DigiLine Parte 4.
 - [x] Revisione Quest Parte 4
-- [ ] Revisione DigiBook Parte 3
+- [x] Revisione DigiBook Parte 3
 - [x] Utilizzare termine Eater al posto di Divoratore.
 - [x] Utilizzare correttamente il termine "Tamer".
 - [x] Utilizzare correttamente il termine "Demons".
