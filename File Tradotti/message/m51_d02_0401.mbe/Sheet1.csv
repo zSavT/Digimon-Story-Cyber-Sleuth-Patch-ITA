@@ -19,13 +19,13 @@ Ehm, Test... Uno, due...","很清楚！！
 6,7085,,Bene.,很好。,,좋았어,Gut.
 7,7085,,... Vediamo fino a che punto ti porterà la tua saccenteria.,……太過得意忘形，可是會出洋相的喔。,,……너무 까불다간 언젠가 제대로 당할걸,"... Mal sehen, wie weit dich deine
 Besserwisserei bringt."
-8,7085,,"„Chitose“, come va da te?",“千歲”，你那邊怎麼樣了？,,"""치토세"", 그쪽은 어때","„Chitose“, wie sieht’s denn bei dir aus?"
+8,7085,,"""Chitose"", come va da te?",“千歲”，你那邊怎麼樣了？,,"""치토세"", 그쪽은 어때","„Chitose“, wie sieht’s denn bei dir aus?"
 9,3047,,"Hm. I file grafici sono in qualche modo corrotti.
 Ehi, ""Ryuji"", vedi il mio volto?","畫面資料好像很混亂啊。
 喂～“龍司”，你看得清楚我的臉嗎～？",,"오우, 어쩐지 화상 데이터가 깨지는데.
 어이 ""류지"", 내 얼굴 제대로 나오고 있어~?","Hm. Die Grafikdateien sind irgendwie kaputt.
 Hey, „Ryuji“, siehst du mein Gesicht?"
-10,3046,,"Per me va tutto bene. E tu, „Erika“?","我這邊沒有問題。
+10,3046,,"Per me va tutto bene. E tu, ""Erika""?","我這邊沒有問題。
 “艾莉卡”，妳那邊呢？",,"이쪽은 문제없다.
 ""에리카"", 네 쪽은 어때?","Für mich sieht alles gut aus. Und bei dir,
 „Erika“?"
@@ -48,8 +48,8 @@ con particolare protezione...","嗯……但是，在有特殊防護牆的區域
 inneren Bereiche garantieren, die mit
 besonderem Schutz ..."
 16,3045,,Forse dovremmo annullare il tutto?,還是放棄比較好吧？,,역시 그만두는 편이 좋지 않아?,Vielleicht sollten wir das Ganze abblasen?
-17,3047,,"Ach, non sei carino! Ora non dirmi
-che ti stai preoccupando per il novellino?","小姐～妳真是溫柔啊！
+17,3047,,"Ach, non sei carino! Ora non dirmi che
+ti stai preoccupando per il novellino?","小姐～妳真是溫柔啊！
 是在擔心新人嗎～？",,"상냥한걸~ 아가씨는!
 신입 군이 걱정되나 보지~?","Ach, bist du nicht niedlich! Jetzt sag bloß
 nicht, dass du dir wegen des Neulings
@@ -65,15 +65,15 @@ Sapete tutti chi è l'obiettivo?","……開始工作了。
 Ihr wisst alle, wer das Ziel ist?"
 21,3047,,"Certo, a menadito!",那是當然，徹底掌握底細了喔～,,"응응, 이미 빈틈없이 파악하고 있습니다~","Natürlich, in- und auswendig!"
 22,3047,,L'obiettivo è Youji Shiga.,目標的名字是「志賀陽司」。,,목표의 이름은「시가 요우지」,Das Ziel ist Youji Shiga.
-23,3047,,"Un singolo hacker, che negli ultimi mesi nel furto di account
-ha davvero fatto man bassa, non è vero?","他是不屬於任一隊伍的自由駭客。
+23,3047,,"Un singolo hacker che negli ultimi mesi ha davvero colpito
+duro in materia di furti di account, vero?","他是不屬於任一隊伍的自由駭客。
 在這數個月，好像靠“帳號狩獵”
 狠狠賺了不少啊！",,"어떤 팀에도 소속되지 않은 프리 해커로
 요 몇 개월, ""계정 사냥""으로 마구 벌어들였다…고 했었지!","Ein einzelner Hacker, der in den letzten Monaten
 in Sachen Kontenraub so richtig zugeschlagen hat,
 nicht wahr?"
 24,3046,,"I clienti non tollerano hacker che creano problemi in EDEN...
-Vogliono che 'sanzioniamo' Shiga.","客戶絕不放過在EDEN製造動亂的駭客，
+Vogliono che ""sanzioniamo"" Shiga.","客戶絕不放過在EDEN製造動亂的駭客，
 ……他們想對志賀下達“制裁”。",,"클라이언트는 EDEN을 어지럽히는 해커를 용서하지 않아.
 ……녀석들은 시가의 ""제재""를 원하고 있어","Die Klienten dulden keine Hacker, die in EDEN
 Probleme machen ... Sie wollen, dass
@@ -91,8 +91,9 @@ Scacciarlo, per così dire, dal Paradiso...","讓他不能再用同個帳號登�
 사실상 낙원에서 추방… 이란 거지","Wir müssen sicherstellen, dass er sich in EDEN
 nie wieder mit diesem Account einloggen kann.
 Ihn sozusagen aus dem Paradies verjagen ..."
-28,3047,,"Finalmente il martello della giustizia costringerà questi 
-hacker in stile Hudie a inginocchiarsi! Hihi! Non vedo l'ora!","做壞事的駭客，就由我們“hudie”
+28,3047,,"Finalmente il martello della giustizia metterà
+in ginocchio questi hacker in stile Hudie!
+Hihi! Non vedo l'ora!","做壞事的駭客，就由我們“hudie”
 來下達正義的懲罰！
 嘿嘿嘿……這種工作真讓人興奮啊！",,"악질적인 해커에게는 
 우리들 ""후디에""가 정의의 철퇴를 내린다!
@@ -111,7 +112,7 @@ su Shiga dagli hacker a Kowloon. ... Chitose.","首先呢，是向Kowloon的駭�
 bei den Hackern in Kowloon Informationen
 über Shiga. ... Chitose."
 32,3047,,"Sì, ecco, prego!",好，我等很久了！,,그 얘기를 기다렸습니다!,"Ja, hier, bitte!"
-33,7086,,KOLIBRI scaricato.,已下載「蜂鳥」。,,「벌새」가 다운로드 되었습니다.,KOLIBRI heruntergeladen.
+33,7086,,COLIBRI scaricato.,已下載「蜂鳥」。,,「벌새」가 다운로드 되었습니다.,KOLIBRI heruntergeladen.
 34,2020,,???,？？,,??,???
 35,3047,,"E voilà! Questo è il mio piccolo amico,
 il programma maligno Colibrì di produzione propria!","登登登登♪

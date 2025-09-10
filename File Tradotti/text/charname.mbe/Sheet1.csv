@@ -1236,7 +1236,7 @@
 1905,,Gallantmon NX,紅蓮騎士獸NX,,듀크몬NX,Gallantmon NX
 6002,,Keisuke,圭佑,,케이스케,Keisuke
 7000,,Shiga,志賀,,시가,Shiga
-7001,,Mercante del mercato nero,黑市商人,,암시장 상인,Schwarzmarkt-Händler
+7001,,Mercante del Mercato Nero,黑市商人,,암시장 상인,Schwarzmarkt-Händler
 7002,,Mercante Compagno,商人的夥伴,,상인의 동료,Händler-Kamerad
 7003,,Tizio del Negozio di Elettronica,電器店的大叔,,전파상 아저씨,Typ aus Elektronikladen
 7004,,Ragazza Part-Timer,打工的大姊姊,,메이드 누님,Weibliche Aushilfe
@@ -1689,19 +1689,19 @@
 9079,,,,,,
 9080,,,,,,
 9081,,Hacker Timido,愛操心的駭客,,걱정 많은 해커,Sprunghafte Hackerin
-9082,,Respingi Hacker,要回去的駭客,,돌려보내는 해커,Abstoßender Hacker
+9082,,Hacker Ripugnante,要回去的駭客,,돌려보내는 해커,Abstoßender Hacker
 9083,,Hacker Apprendista,見習駭客,,견습 해커,Angehender Hacker
 9084,,Hacker Esperto Man,資深男駭客,,베테랑 남성 해커,Erfahrener Hacker
 9085,,Hacker Solitario Languido,懶散的無隊伍駭客,,나른해 보이는 해커,Träger Solo-Hacker
-9086,,Gentile Hacker Zaxon,親切的Zaxon駭客,,친절한 잭슨 해커,Netter Zaxon-Hacker
-9087,,Solo Hacker,正義感強的無隊伍駭客,,정의감 투철한 무소속 해커,Gerechte Solo-Hackerin
+9086,,Hacker Zaxon Gentile,親切的Zaxon駭客,,친절한 잭슨 해커,Netter Zaxon-Hacker
+9087,,Hacker Solitaria e Giusta,正義感強的無隊伍駭客,,정의감 투철한 무소속 해커,Gerechte Solo-Hackerin
 9088,,Hacker Solitario Chiacchierone,愛說話的無隊伍駭客,,수다스러운 무소속 해커,Plappernder Solo-Hacker
 9089,,Hacker Occulto Solitario,喜歡靈異現象的無隊伍駭客,,오컬트를 좋아하는 무소속 해커,Okkultismus-Solo-Hacker
 9090,,Hacker Solitario,無隊伍駭客,,무소속 해커,Solo-Hacker
 9091,,Hacker del Circolo del Coniglio,兔籠的駭客,,래빗 서클의 해커,Rabbit-Circle-Hackerin
-9092,,Hacker Solitario Analogico,喜歡傳統的無隊伍駭客,,아날로그를 좋아하는 무소속 해커,Analoge Solo-Hackerin
+9092,,Hacker Solitaria Analogica,喜歡傳統的無隊伍駭客,,아날로그를 좋아하는 무소속 해커,Analoge Solo-Hackerin
 9093,,Hacker Solitario Apatico,很累的無隊伍駭客,,따분해 보이는 해커,Lustlose Solo-Hackerin
-9094,,Hacker Informatico Solitario,情報通的無隊伍駭客,,정보통 무소속 해커,Solo-Hacker-Informant 
+9094,,Informatore Hacker Solitario,情報通的無隊伍駭客,,정보통 무소속 해커,Solo-Hacker-Informant 
 9095,,Hacker Occhiuto,眼神銳利的駭客,,눈매가 날카로운 해커,Scharfsichtiger Hacker
 9096,,Regista,男性製片,,영화를 만든 남자,Filmemacher
 9097,,Donna Indecisa,猶豫點餐的女性,,뭘 주문할지 고민하는 여자,Unentschlossene Frau
@@ -1748,8 +1748,8 @@
 9138,,Hacker Romantico,羅曼蒂克的駭客,,로맨틱한 해커,Romantische Hackerin
 9139,,Hacker Innocente,天真浪漫的駭客,,천진난만한 해커,Unschuldige Hackerin
 9140,,Hacker Mercante,商人駭客,,상인 해커,Händler-Hacker
-9141,,Hacker Shopping,購物的駭客,,쇼핑객 해커,Einkaufender Hacker
-9142,,Hacker Tirchio,儲蓄的駭客,,돈을 저축한 해커,Sparsame Hackerin
+9141,,Hacker Acquirente,購物的駭客,,쇼핑객 해커,Einkaufender Hacker
+9142,,Hacker Tirchia,儲蓄的駭客,,돈을 저축한 해커,Sparsame Hackerin
 9143,,Vecchio Affascinante,依然厲害的爺爺,,잘 나가는 할아버지,Attraktiver alter Mann
 9144,,Vecchio Sgradevole,有點壞壞的爺爺,,조금 불량한 할아버지,Gemeiner alter Mann
 9145,,Hacker Belligerante,挑釁的駭客,,시비 걸던 해커,Kampflustiger Hacker
@@ -1790,26 +1790,26 @@
 9180,,Hacker Demons Tremante,發抖的惡魔亂舞駭客,,떨고 있는 데몬즈 해커,Zitternder Demons-Hacker
 9181,,Hacker Demons Informatore,情報通的惡魔亂舞駭客,,정보통 데몬즈 해커,Demons-Hacker-Informant
 9182,,Hacker Demons Arrabbiato,焦躁不安的惡魔亂舞駭客,,초조해하는 데몬즈 해커,Genervter Demons-Hacker
-9183,,Mr. Navit - Tipo01,NAVIT_type01,,내빗군_type01,Herr Navit – Typ 01
-9184,,Mr. Navit - Tipo02,NAVIT_type02,,내빗군_type02,Herr Navit – Typ 02
-9185,,Mr. Navit - Tipo03,NAVIT_type03,,내빗군_type03,Herr Navit – Typ 03
-9186,,Sig. Navit - Tipo04,NAVIT_type04,,내빗군_type04,Herr Navit – Typ 04
-9187,,Sig. Navit - Tipo05,NAVIT_type05,,내빗군_type05,Herr Navit – Typ 05
-9188,,Sig. Navit - Tipo06,NAVIT_type06,,내빗군_type06,Herr Navit – Typ 06
-9189,,Sig. Navit - Tipo07,NAVIT_type07,,내빗군_type07,Herr Navit – Typ 07
-9190,,Sig. Navit - Tipo08,NAVIT_type08,,내빗군_type08,Herr Navit – Typ 08
-9191,,Sig. Navit - Tipo09,NAVIT_type09,,내빗군_type09,Herr Navit – Typ 09
-9192,,Mr. Navit - Tipo10,NAVIT_type10,,내빗군_type10,Herr Navit – Typ 10
-9193,,Sig. Navit - Tipo11,NAVIT_type11,,내빗군_type11,Herr Navit – Typ 11
-9194,,Mr. Navit - Tipo12,NAVIT_type12,,내빗군_type12,Herr Navit – Typ 12
-9195,,Signor Navit - Tipo13,NAVIT_type13,,내빗군_type13,Herr Navit – Typ 13
-9196,,Mr. Navit - Tipo14,NAVIT_type14,,내빗군_type14,Herr Navit – Typ 14
-9197,,Sig. Navit - Tipo15,NAVIT_type15,,내빗군_type15,Herr Navit – Typ 15
-9198,,Sig. Navit - Tipo16,NAVIT_type16,,내빗군_type16,Herr Navit – Typ 16
-9199,,Sig. Navit - Tipo17,NAVIT_type17,,내빗군_type17,Herr Navit – Typ 17
-9200,,Sig. Navit - Tipo18,NAVIT_type18,,내빗군_type18,Herr Navit – Typ 18
-9201,,Sig. Navit - Tipo19,NAVIT_type19,,내빗군_type19,Herr Navit – Typ 19
-9202,,Sig. Navit - Tipo20,NAVIT_type20,,내빗군_type20,Herr Navit – Typ 20
+9183,,Mr. Navit - Tipo 01,NAVIT_type01,,내빗군_type01,Herr Navit – Typ 01
+9184,,Mr. Navit - Tipo 02,NAVIT_type02,,내빗군_type02,Herr Navit – Typ 02
+9185,,Mr. Navit - Tipo 03,NAVIT_type03,,내빗군_type03,Herr Navit – Typ 03
+9186,,Sig. Navit - Tipo 04,NAVIT_type04,,내빗군_type04,Herr Navit – Typ 04
+9187,,Sig. Navit - Tipo 05,NAVIT_type05,,내빗군_type05,Herr Navit – Typ 05
+9188,,Sig. Navit - Tipo 06,NAVIT_type06,,내빗군_type06,Herr Navit – Typ 06
+9189,,Sig. Navit - Tipo 07,NAVIT_type07,,내빗군_type07,Herr Navit – Typ 07
+9190,,Sig. Navit - Tipo 08,NAVIT_type08,,내빗군_type08,Herr Navit – Typ 08
+9191,,Sig. Navit - Tipo 09,NAVIT_type09,,내빗군_type09,Herr Navit – Typ 09
+9192,,Mr. Navit - Tipo 10,NAVIT_type10,,내빗군_type10,Herr Navit – Typ 10
+9193,,Sig. Navit - Tipo 11,NAVIT_type11,,내빗군_type11,Herr Navit – Typ 11
+9194,,Mr. Navit - Tipo 12,NAVIT_type12,,내빗군_type12,Herr Navit – Typ 12
+9195,,Signor Navit - Tipo 13,NAVIT_type13,,내빗군_type13,Herr Navit – Typ 13
+9196,,Mr. Navit - Tipo 14,NAVIT_type14,,내빗군_type14,Herr Navit – Typ 14
+9197,,Sig. Navit - Tipo 15,NAVIT_type15,,내빗군_type15,Herr Navit – Typ 15
+9198,,Sig. Navit - Tipo 16,NAVIT_type16,,내빗군_type16,Herr Navit – Typ 16
+9199,,Sig. Navit - Tipo 17,NAVIT_type17,,내빗군_type17,Herr Navit – Typ 17
+9200,,Sig. Navit - Tipo 18,NAVIT_type18,,내빗군_type18,Herr Navit – Typ 18
+9201,,Sig. Navit - Tipo 19,NAVIT_type19,,내빗군_type19,Herr Navit – Typ 19
+9202,,Sig. Navit - Tipo 20,NAVIT_type20,,내빗군_type20,Herr Navit – Typ 20
 9203,,Sapientone di Internet,很熟網路的男子,,인터넷에 정통한 남성,Internet-Besserwisser
 9204,,Studentessa alla Moda,喜歡流行事物的女學生,,유행을 좋아하는 여학생,Schicke Schülerin
 9205,,Videogiocatrice Studentesca,喜歡遊戲的女學生,,게임을 좋아하는 여학생,Gamer-Schülerin
