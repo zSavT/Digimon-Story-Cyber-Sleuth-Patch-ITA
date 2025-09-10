@@ -3,12 +3,14 @@ ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
 2,1392,,Qui da qualche parte sono caduto!,就是這裡喔！　我就是掉在這附近！,,"여기야! 나, 이 부근에 떨어졌었어!",Hier irgendwo bin ich runtergefallen!
 3,2020,,...?,……？,,……?,...?
 4,1392,,Sono sicuro.,嗯，沒有錯喔。,,"응, 그래",Ich bin mir sicher.
-5,1392,,"Non vedo nulla che assomigli a un'interfaccia, ma so che siamo nel posto giusto.","現在雖然沒看到像連接處的地方，
+5,1392,,"Non vedo nulla che assomigli a un'interfaccia,
+ma so che siamo nel posto giusto.","現在雖然沒看到像連接處的地方，
 但我想一定在這邊。",,"지금은 접속부같은 건 보이지 않아.
 분명 이 부근이라고 생각하는데……","Ich sehe nichts, was nach einer Schnittstelle
 aussieht, aber ich weiß, dass wir hier
 richtig sind."
-6,3045,,La connessione potrebbe essere troppo instabile per essere vista. Aspetta. Cerco di stabilizzare i valori.,"可能是連接太不安定了，所以才無法視認出來。
+6,3045,,"La connessione potrebbe essere troppo instabile per essere vista.
+Aspetta. Cerco di stabilizzare i valori.","可能是連接太不安定了，所以才無法視認出來。
 等我一下，我試試看把數值安定下來。",,"접속이 너무 불안정해서 가시화하지 않은 것뿐일지도.
 기다려. 수치를 안정화시켜 볼게","Die Verbindung ist vielleicht zu instabil, um sie
 zu sehen. Warte. Ich versuche, die Werte
@@ -16,14 +18,15 @@ zu stabilisieren."
 7,2020,,...!,……！,,……!,...!
 8,1392,,Wow! Eccolo! Il buco da cui sono caduto!,哇！　就是這個！　是我掉下來的洞穴！,,와아! 이거야! 내가 떨어진 구멍!,"Wow! Da ist es! Das Loch, aus dem ich
 gefallen bin!"
-9,3045,,"Ha funzionato. E a quanto pare,
-è stata stabilita anche la connessione con la Procreatrice Eater.","這樣就好了……
+9,3045,,"Ha funzionato. E a quanto pare, è stata
+stabilita anche la connessione con la Procreatrice Eater.","這樣就好了……
 總算是連上了侵食者母體的網路。",,"이걸로 완료… 야.
 마더 이터로의 링크도 어떻게든 이어진 것 같아","Es hat funktioniert. Und wie es aussieht, wurde
 auch die Verbindung zur Verschlinger-Procreatrice
 hergestellt."
 10,1392,,"Come hai fatto, Erika?",妳是怎麼做到的啊，艾莉卡？,,"어떻게 한 거야, 에리카?","Wie hast du das gemacht, Erika?"
-11,3045,,Il lavoro di Suedo conteneva valori che indicavano la posizione approssimativa della Procreatrice del Eater. Ho solo cercato di stabilire una connessione.,"末堂明實給的那份資料裡，
+11,3045,,"Il lavoro di Suedo conteneva valori che indicavano la posizione approssimativa
+della Procreatrice del Eater. Ho solo cercato di stabilire una connessione.","末堂明實給的那份資料裡，
 有著侵食者母體的大概位置數據。
 所以我試著強行連接上去了。",,"스에도 아케미에게 받은 자료 속에 마더 이터의 대략적인
 위치 정보의 수치가 있었어. 거기에 억지로 연결해봤지","Suedous Arbeit enthielt Werte, die die ungefähre
@@ -33,15 +36,17 @@ habe nur versucht, eine Verbindung herzustellen."
 13,2020,,...,…………,,…………,...
 14,1392,,Non potrai tornare nel Mondo Digitale attraverso questo buco.,用這個洞穴的話，能不能回到數碼世界呢？,,이 구멍을 통해 디지털 월드로도 돌아갈 수 있지 않을까,"Du wirst durch dieses Loch nicht zurück in die
 Digitale Welt gelangen können."
-15,3045,,"Sto usando la rete degli Eater per tenerla aperta, quindi è impossibile.","這是我利用了侵食網路，強行打開的洞。
+15,3045,,"Sto usando la rete degli Eater per tenerla
+aperta, quindi è impossibile.","這是我利用了侵食網路，強行打開的洞。
 所以是沒辦法的。",,"이터 네트워크를 사용해서 억지로 열었을 뿐.
 그러니 무리야","Ich verwende das Netzwerk der Verschlinger,
 um es offen zu halten, also ist es unmöglich."
-16,3045,,E non c'è alcuna garanzia che ci condurrà alla Procreatrice Eater.,而且，我最多也只能打開前往侵食者母體的路徑了。,,마더 이터로까지의 길밖에 확보하지 못하기도 했고,"Und es gibt keine Garantie dafür, dass es uns zur
+16,3045,,"E non c'è alcuna garanzia che ci
+condurrà alla Procreatrice Eater.",而且，我最多也只能打開前往侵食者母體的路徑了。,,마더 이터로까지의 길밖에 확보하지 못하기도 했고,"Und es gibt keine Garantie dafür, dass es uns zur
 Verschlinger-Procreatrice führen wird."
 17,1392,,Capisco.,這樣啊……,,그런가……,Verstehe.
-18,3045,,"Ma se questo processo può essere migliorato,
-potrebbe un giorno essere possibile creare un percorso nel Mondo Digitale.","……不過，只要改良這方法，
+18,3045,,"Ma se questo processo può essere migliorato, potrebbe un
+giorno essere possibile creare un percorso nel Mondo Digitale.","……不過，只要改良這方法，
 總有一天能夠連接上數碼世界吧？",,"……하지만, 이 방법을 개량하면 언젠가 디지털 월드로의
 길을 잇는 것도 꿈이 아닐지도","Aber wenn dieser Prozess verbessert werden kann,
 könnte es eines Tages möglich sein, einen Pfad in
@@ -57,18 +62,23 @@ in die Hände kriegen."
 侵食者所傳送的「資訊」。",,"그 녀석을 해킹해 우리를 이터가 보내는
 「정보」라고 오인식시켜","Ich werde ihn hacken und uns als
 Verschlingerdaten tarnen."
-24,3045,,"In questo modo non dovremmo essere attaccati, nemmeno in prossimità della Eater-Procreatrice.","這樣一來，我們就算前往侵食者母體，
+24,3045,,"In questo modo non dovremmo essere attaccati,
+nemmeno in prossimità della Procreatrice Eater.","這樣一來，我們就算前往侵食者母體，
 也不會被他們攻擊了。",,"그러면 마더 이터에 접근해도
 공격받지 않을 테니까","Auf diese Weise sollten wir nicht angegriffen
 werden, auch nicht in der Nähe der
 Verschlinger-Procreatrice."
-25,1392,,"Lasciate tutto a me! Se saremo circondati dai Eater, li hackerò tutti!","交給我吧，艾莉卡！
+25,1392,,"Lasciate tutto a me!
+Se saremo circondati dai Eater,
+li hackerò tutti!","交給我吧，艾莉卡！
 就算被侵食者包圍，我也會成功入侵他們的！",,"맡겨둬, 에리카!
 이터에 둘러싸여도 내가 해킹으로 해치워줄게!","Überlasst alles mir! Wenn wir von Verschlingern
 umzingelt werden, werde ich sie alle hacken!"
 26,3045,,Devi rimanere qui e fare la guardia.,你要負責留在這裡。,,너는 여기서 자리를 지켜,Du musst hierbleiben und Wache halten.
 27,1392,,Cosa?! Perché?,咦！？　……為什麼？,,에에!? …어째서어?,Was?! Wieso?
-28,3045,,Qualcuno deve occuparsene qui. Ti copierò lo script che controlla il percorso. Conto su di te.,"一定要有人守在這裡才行啊。
+28,3045,,"Qualcuno deve occuparsene qui.
+Ti copierò lo script che controlla il percorso.
+Conto su di te.","一定要有人守在這裡才行啊。
 我會跟你共享控制侵入路徑的方法，之後就拜託你了",,"누군가가 여기를 지켜야 하는걸.
 진입로의 제어 방법을 공유할테니 뒷일을 부탁할게","Jemand muss hier aufpassen. Ich werde dir das
 Skript kopieren, mit dem die Route kontrolliert
@@ -85,7 +95,8 @@ Potrebbe diventare molto pericolosa.","……嗯，這是無比危險的任務�
 어쩌면 매우 위험한 일이 일어나……게 될지도","Dies ist eine äußerst gewagte Mission.
 Sie könnte sehr gefährlich werden."
 33,1392,,Pericoloso?!,危險……的事情！？,,위험한…일!?,Gefährlich?!
-34,3045,,"Pensavo che tu fossi l'unico a cui potessi affidare questa missione, ma ora abbiamo [p].","我原本以為，這種重大任務只能交給蟲蟲獸了，
+34,3045,,"Pensavo che tu fossi l'unico a cui potessi
+affidare questa missione, ma ora abbiamo [p].","我原本以為，這種重大任務只能交給蟲蟲獸了，
 但果然還是給[p]──",,"이런 중대한 임무는 추추몬 말고는 맡길 수 없다고 생각했지만
 역시 [p]에게――","Ich dachte, du wärst der Einzige, dem ich diese
 Mission anvertrauen könnte, aber nun haben
@@ -99,19 +110,21 @@ Und der zukünftige Vorreiter!"
 37,1392,,Ci penso io!,好～要上了喔────！,,"좋아, 해낼 거야――――!",Ich mach das schon!
 38,3045,,...,…………,,…………,...
 39,2020,,?,？,,?,?
-40,3045,,Non so cosa accadrà non appena entreremo nella rete dei Eater.,"噓──畢竟我們不知道
+40,3045,,"Non so cosa accadrà non appena entreremo nella rete dei Eater.","噓──畢竟我們不知道
 在侵食網路裡會發生什麼。",,"쉿. 이터 네트워크 속에서는
 무슨 일이 일어날지 모르잖아","Ich weiß nicht, was passieren wird, sobald wir
 das Netzwerk der Verschlinger betreten."
 41,3045,,Perciò devo lasciarlo indietro.,所以，才要把他留在這裡。,,그러니 이 애는 두고 갈 거야,Deshalb muss ich ihn zurücklassen.
-42,3045,,"Wormmon non è per niente affidabile, e poi è anche un gran pasticcione...","今天的蟲蟲獸，總覺得非常危險。
+42,3045,,"Wormmon non è per niente affidabile,
+e poi è anche un gran pasticcione...","今天的蟲蟲獸，總覺得非常危險。
 雖然他一直都少根筋……",,"오늘의 추추몬은 어쩐지 위태로워 보이는걸.
 뭐, 덜렁이인건 평소에도 그렇지만……","Wormmon ist nicht gerade zuverlässig, und ein
 Tollpatsch ist er außerdem ..."
 43,3045,,Però vorrei proprio che qualcuno sorvegliasse l'ingresso.,但需要人看守入口是真的。,,누군가가 입구를 지키고 있기를 원한 건 사실이니까,"Aber ich möchte tatsächlich, dass jemand
 den Eingang bewacht."
 44,3045,,Conto su di te.,那麼，之後就拜託你了。,,"그럼, 뒷일은 잘 부탁할게",Ich zähle auf dich.
-45,3045,,"So che non mi pianterai in asso, Wormmon. O dovrei dire... Vor... Com'era, di nuovo?","這任務可都仰賴你了喔，蟲蟲獸……不對。
+45,3045,,"So che non mi pianterai in asso, Wormmon.
+O dovrei dire... Vor... Com'era, di nuovo?","這任務可都仰賴你了喔，蟲蟲獸……不對。
 先鋒……嗯～V。",,"너를 의지하고 있으니까, 추추몬…… 아니지
 뱅 가드…… 으음, V","Ich weiß, du wirst mich nicht hängen lassen,
 Wormmon. Oder sollte ich sagen ... Vor...

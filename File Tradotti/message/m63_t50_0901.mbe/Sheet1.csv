@@ -1,5 +1,6 @@
 ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
-1,3012,,"Il Ryuji contro cui ho combattuto in EDEN era un fantoccio, e l'hacker dove si era loggato era controllato...","我們在EDEN所戰鬥的龍司是空殼，
+1,3012,,"Il Ryuji contro cui ho combattuto in EDEN era un fantoccio,
+e l'hacker dove si era loggato era controllato...","我們在EDEN所戰鬥的龍司是空殼，
 在登入點的駭客也被某種東西操控了。",,"EDEN에서 싸운 류지는 더미고
 로그인 장소에 있던 해커도 누군가에게 조종당하고 있었다……","Der Ryuji, gegen den ich in EDEN gekämpft habe,
 war eine Attrappe, und der Hacker an seinem
@@ -16,7 +17,8 @@ Klingt zwar irre, aber ..."
 in die Irre führen wollte."
 6,3045,,...!!!,……！！,,……!!,...!!!
 7,3012,,Tu... Ma da quando sei qui...?!,你……什麼時候在那裡的……！,,너…… 언제부터 거기에……!,Du ... Seit wann bist du denn hier ...?!
-8,3046,,"Sei proprio tu quella che in realtà stavo cercando da tutto questo tempo, Fei.",我的目標──從一開始就是妳，菲。,,"내가 노리는건―― 처음부터 너다, 페이","Du bist diejenige, hinter der ich eigentlich die
+8,3046,,"Sei proprio tu quella che in realtà stavo
+cercando da tutto questo tempo, Fei.",我的目標──從一開始就是妳，菲。,,"내가 노리는건―― 처음부터 너다, 페이","Du bist diejenige, hinter der ich eigentlich die
 ganze Zeit her war, Fei."
 9,3045,,Ryuji?!,哥哥！？,,오빠!?,Ryuji?!
 10,3012,,... Mh. Interessante. Mi dici anche perché?,"……那還真是有趣啊，
@@ -53,7 +55,8 @@ gehört ..."
 18,3045,,"Fermati! Ryuji, no!","等一下！
 住手吧哥哥！",,"기다려!
 오빠 그만해!","Aufhören! Ryuji, nicht!"
-19,3045,,Salverò Chitose in qualche modo! Cerco una cura per la Sindrome EDEN!,"千歲我會想出辦法的！
+19,3045,,"Salverò Chitose in qualche modo!
+Cerco una cura per la Sindrome EDEN!","千歲我會想出辦法的！
 我現在正在找出治療EDEN症候群的方法……！",,"치토세는 내가 어떻게든 해볼 테니까!
 지금 EDEN 증후군을 치료할 방법을 찾고 있어…!","Ich werde Chitose irgendwie retten! Ich suche ein
 Mittel, das EDEN-Syndrom zu heilen!"
@@ -74,11 +77,13 @@ Papà, Mamma, i miei amici e persino tu!","都是妳的錯……大家才會消�
 爸爸、媽媽，還有夥伴……就連妳也是！",,"너 때문에…… 모두 사라져.
 아버지도, 어머니도, 동료도…… 너도!","Deine Schuld, dass alle weg sind ...
 Papa, Mama, meine Freunde und sogar du!"
-28,3046,,Eppure... ho fatto di tutto per trovare un modo per curarti!,"為什麼會這樣……
+28,3046,,"Eppure... ho fatto di tutto per
+trovare un modo per curarti!","為什麼會這樣……
 我都已經這麼拼命尋找治療方法了──",,"어째서냐……
 혈안이 되어 치료법을 찾고――","Dabei ... habe ich alles nur Erdenkliche getan,
 um einen Weg zu finden, dich zu heilen!"
-29,3046,,"Tutto! Ho baciato i piedi a dei bastardi, ho mentito per te, ho tradito i miei amici...!","我拼了命的工作，聽命於絕不能服從的傢伙……
+29,3046,,"Tutto! Ho baciato i piedi a dei bastardi,
+ho mentito per te, ho tradito i miei amici...!","我拼了命的工作，聽命於絕不能服從的傢伙……
 做了骯髒的工作，連夥伴都背叛了……！",,"필사적으로 일하고, 절대로 머리를 숙여서는 안 되는 놈에게 숙이고……
 더러운 일로 친구까지 배신하고……","Alles! Hab Dreckskerlen die Füße geküsst, für dich
 gelogen, meine Freunde betrogen ...!"
@@ -121,7 +126,8 @@ Non voglio... che tu continui a soffrire...","哥哥的棲身之地，我一定�
 Ich will nicht ... dass du weiter leidest ..."
 42,3046,,...!,…………！,,…………!,...!
 43,3012,,"Zitti adesso, tutti quanti!",講個不停吵死人了！！,,조잘조잘 시끄러워!!,"Schnauze jetzt, alle miteinander!"
-44,3012,,Pensate davvero di potervi mettere contro di me e poi fare una scenata di famiglia qui? Allora avete fatto male i conti...!,"把我惹得這麼生氣，卻在那邊上演兄妹吵架！？
+44,3012,,"Pensate davvero di potervi mettere contro di me e poi fare una
+scenata di famiglia qui? Allora avete fatto male i conti...!","把我惹得這麼生氣，卻在那邊上演兄妹吵架！？
 我也真被看扁了啊……！",,"나를 이만큼이나 화나게 하고 사이좋게 남매싸움입니까!?
 꽤나 우습게 봤군예……!","Denkt ihr wirklich, ihr könnt euch mit mir anlegen
 und dann hier einen Familienstreit austragen?

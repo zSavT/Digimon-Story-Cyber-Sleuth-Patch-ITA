@@ -6,16 +6,19 @@ Non hai più scampo!","岸部！　放棄吧！
 Dir bleibt kein Ausweg mehr!"
 2,3008,,"Lei è più veloce di quanto pensassi, Commissario Matayoshi.",來得比我預料得還快啊……又吉刑警。,,예상 이상으로 빨리 납셨네…… 마타요시 형사,"Sie sind schneller, als ich dachte, Kommissar
 Matayoshi."
-3,3008,,"Erika, sei tu dietro a tutto questo? Tu piccola, perfida mocciosa!","艾莉卡……是妳做的吧。
+3,3008,,"Erika, sei tu dietro a tutto questo?
+Tu piccola, perfida mocciosa!","艾莉卡……是妳做的吧。
 真是棘手的孩子呢。",,"에리카……네가 한 짓이구나
 정말로 성가신 아이네","Erika, steckst du dahinter? Du fieses kleines Gör!"
 4,3045,,"*Sbuffa, sbuffa* ...",…………,,………………큭,"*Schnauf, schnauf* ..."
-5,3008,,"Ohimè! Il mondo reale è a volte così crudele, non è vero? Hai forse trascurato la tua terapia?","哎呀哎呀～看來妳在現實世界（這裡）很難受呢～
+5,3008,,"Ohimè! Il mondo reale è a volte così crudele,
+non è vero? Hai forse trascurato la tua terapia?","哎呀哎呀～看來妳在現實世界（這裡）很難受呢～
 難道說……妳沒有接受治療嗎？",,"어머어머~ 현실 세계에서는 꽤나 괴로워보이네~?
 혹시……치료를 받지 않은 걸까?","Oje! Die echte Welt ist manchmal so grausam, nicht
 wahr? Hast du vielleicht deine Therapie
 vernachlässigt?"
-6,3008,,"Certo che l'hai fatto. Non volevi che il tuo povero fratello mi dovesse qualcosa, vero?","啊，這麼說也是呢～是我在控制妳哥哥，
+6,3008,,"Certo che l'hai fatto. Non volevi che il
+tuo povero fratello mi dovesse qualcosa, vero?","啊，這麼說也是呢～是我在控制妳哥哥，
 妳一定不想欠我人情吧～♪",,"앗, 그것도 그렇겠네~ 오빠를 가지고 논 나에게 빚 따위를
 만들고 싶지 않겠지~♪","Natürlich hast du das. Du wolltest nicht, dass
 dein armer Bruder mir etwas schuldet, stimmt’s?"
@@ -26,26 +29,31 @@ du, dass das noch gutgeht?"
 那其實，不是醫療行為喔。",,"네가 받고있던 치료.
 그건 의료행위가 아니야","Deine bisherige Therapie ist keine gängige
 medizinische Praxis."
-10,3008,,"Lei è un esperimento sulla base della ricerca esclusiva della nostra azienda. Un esperimento sull'uomo, per essere precisi.","那是依照我們的主任研究員所寫的論文
+10,3008,,"Lei è un esperimento sulla base della ricerca esclusiva della
+nostra azienda. Un esperimento sull'uomo, per essere precisi.","那是依照我們的主任研究員所寫的論文
 來進行的未知的實驗──可以說是人體實驗喔。",,"우리 주임 연구원이 쓴 논문을 기초로 한 미지의 실험,
 ――말하자면 인체실험인걸","Sie ist ein Experiment auf Basis der exklusiven
 Forschung unseres Unternehmens. Ein Experiment
 am Menschen, um genau zu sein."
-11,3008,,"Questo progetto va avanti solo grazie al mio esplicito consenso. Così stanno le cose con la tua ""terapia"".","是由我親自認可，當作特例中的特例所進行的計畫。
+11,3008,,"Questo progetto va avanti solo grazie al mio esplicito consenso.
+Così stanno le cose con la tua ""terapia"".","是由我親自認可，當作特例中的特例所進行的計畫。
 那就是……妳的治療喔。",,"나의 특별 인가로 특례 중 특례로 실시된 프로젝트
 그게……너의 치료","Dieses Projekt läuft nur dank meines expliziten
 Einverständnisses. So steht es mit deiner
 „Therapie“."
-12,3008,,Il sistema utilizza un server altamente protetto in EDEN per monitorare e condividere i tuoi dati mentali in tempo reale.,"在EDEN內建立具備嚴密保全措施的伺服器，
+12,3008,,"Il sistema utilizza un server altamente protetto in EDEN
+per monitorare e condividere i tuoi dati mentali in tempo reale.","在EDEN內建立具備嚴密保全措施的伺服器，
 並即時共享、管理精神檔案的系統──",,"EDEN 내에서 최고의 보안을 구축한 서버를 설립해서
 정신 데이터를 리얼타임으로 공유, 관리하는 시스템――","Das System nutzt einen stark gesicherten Server
 in EDEN, um deine Mentaldaten zu überwachen und
 in Echtzeit zu teilen."
-13,3008,,"Gestendo il flusso di dati, siamo riusciti a ridurre il carico del tuo cervello.","藉由這樣管理檔案容量，
+13,3008,,"Gestendo il flusso di dati, siamo riusciti a
+ridurre il carico del tuo cervello.","藉由這樣管理檔案容量，
 來減少妳腦袋的沉重負擔……",,"거기서 데이터 용량을 관리해서
 너는 간신히 뇌에 가해지는 부담을 억제하고 있어……","Indem wir den Datenfluss verwalteten, konnten
 wir die Belastung deines Gehirns mindern."
-14,3008,,"Questa terapia non può essere svolta da nessun'altra azienda o istituto. Vuoi ancora eliminarmi, piccola Erika?","這是其他企業或醫院絕對模仿不來的治療喔。
+14,3008,,"Questa terapia non può essere svolta da nessun'altra azienda o istituto.
+Vuoi ancora eliminarmi, piccola Erika?","這是其他企業或醫院絕對模仿不來的治療喔。
 這樣妳還是……要打倒我嗎？　",,"다른 기업이나 병원에서는 절대 흉내낼 수 없는 치료야.
 그런데도……나를 쓰러뜨릴래? 에리카","Diese Therapie kann kein anderes Unternehmen
 oder Institut übernehmen. Willst du mich immer
@@ -58,7 +66,8 @@ Bist du überhaupt ein Mensch?"
 16,3008,,"... Hihi. In un certo senso sono solo un piccolo ""coso"", proprio come te.","…………呵呵，在某種意義上，
 是跟妳一樣的“東西”喔。",,"…………후후, 어떤 의미로는 너와 같은 ""것""이야","... Hihi. In gewisser Weise bin ich nur ein
 kleines „Ding“, genau wie du."
-17,3008,,"Ho un corpo fisico, ma la mia memoria dipende da dati digitali. Un'esistenza strana. Come la tua.","是有著肉體，大部分的記憶卻仰賴著數位資訊──
+17,3008,,"Ho un corpo fisico, ma la mia memoria dipende da
+dati digitali. Un'esistenza strana. Come la tua.","是有著肉體，大部分的記憶卻仰賴著數位資訊──
 如此扭曲的存在喔，就跟妳一樣。",,"육신을 가졌지만 기억의 대부분은 디지털에 존재하는――
 비틀린 존재인 너와 말이지","Ich habe einen physischen Körper, aber mein
 Gedächtnis ist abhängig von digitalen Daten. Eine
@@ -89,7 +98,8 @@ A differenza della reazione al dolore simulata in EDEN.","很沉重對吧？
 輸出和反應速度都不一樣。",,"무겁지.
 EDEN의 유사 통증과는 출력도 반응 속도도 달라","Das haut ganz schön rein, was?
 Anders als die simulierte Schmerzreaktion in EDEN."
-26,3045,,Questi sono i segnali che un vero corpo umano invia! Molto più forti dei segnali elettrici artificiali che conosci!,"人類的身體，就是這樣在傳輸訊號，
+26,3045,,"Questi sono i segnali che un vero corpo umano invia! Molto più
+forti dei segnali elettrici artificiali che conosci!","人類的身體，就是這樣在傳輸訊號，
 跟人工創造的電子訊號比起來，
 份量可是更為沉重……！",,"인간의 몸이라도 이렇게 신호(시그널)을 날려.
 만들어진 전기신호보다 몇 배나 무거워……!","Das sind die Signale, die ein echter menschlicher
@@ -137,8 +147,7 @@ Non puoi reggermi il confronto...","哼……太愚蠢了。
 Mir kannst du nicht das Wasser reichen ..."
 39,3045,,...?,……？,,……?,...?
 40,3008,,"Questo è ciò che c'è di ripugnante negli esseri umani...
-Ma non importa. Presto darò addio
-a questo corpo.","就是因為這樣，人類才如此醜陋……
+Ma non importa. Presto darò addio a questo corpo.","就是因為這樣，人類才如此醜陋……
 無所謂，“馬上”就要告別這種身體了……！",,"이러니까 인간은 추악하다는 거다……
 뭐 좋아, ""곧"" 이런 몸과는 작별이다……!","Das ist das Abstoßende an Menschen ...
 Aber es ist egal. Schon bald werde ich mich von
@@ -156,7 +165,8 @@ verabschieden."
 47,3008,,"Ah, Erika. Dimmi solo un'altra cosa.","……艾莉卡小妹妹，
 最後，讓我問妳一件事",,"……있잖아, 에리카
 마지막으로 한 가지 가르쳐주렴","... Ach, Erika. Sag mir nur noch eins."
-48,3008,,"Cosa pensi, dove si trovi veramente il tuo vero sé? Nel mondo reale, fisico? O nel Mondo Digitale di EDEN?","妳覺得，妳的“自我”到底在哪裡呢？
+48,3008,,"Cosa pensi, dove si trovi veramente il tuo vero sé?
+Nel mondo reale, fisico? O nel Mondo Digitale di EDEN?","妳覺得，妳的“自我”到底在哪裡呢？
 是在現實（真實）？　還是EDEN（虛擬）？",,"너는 ""자신""이 대체 어디에 있다고 생각해?
 현실(리얼)? EDEN(디지털)?","Was denkst du, wo sich dein wahres Selbst 
 wirklich befindet? In der echten, physischen Welt?
@@ -165,11 +175,13 @@ Oder der Digitalen Welt von EDEN?"
 dass du eins hast?"
 50,3045,,...!,…………！,,…………!,...!
 51,3008,,Hahaha... hihihi.,呵呵……呵呵呵。,,후후……후후후,Hahaha ... hihihi.
-52,3008,,Dovrai continuare a tremare nell'incertezza di cosa sia reale e cosa digitale.,"妳就繼續在現實與虛擬的“夾縫間”──
+52,3008,,"Dovrai continuare a tremare nell'incertezza
+di cosa sia reale e cosa digitale.","妳就繼續在現實與虛擬的“夾縫間”──
 害怕妳那曖昧不明確的自我吧。",,"현실과 디지털의 ""틈새""에서――
 불확실한 자기 자신을 계속 두려워하도록 해","Du sollst weiter mit der Ungewissheit, was real
 und was digital ist, zittern."
-53,3008,,"E cosa ti succederà, quando questa separazione finalmente si dissolverà? Non vedo l'ora!","在那邊界崩毀的時候，妳會變得怎麼樣呢……
+53,3008,,"E cosa ti succederà, quando questa separazione
+finalmente si dissolverà? Non vedo l'ora!","在那邊界崩毀的時候，妳會變得怎麼樣呢……
 真是，讓人期待……啊……☆",,"그 경계선이 붕괴했을 때 네가 어떻게 될지……
 정말로 기대되……네…♥","Und was passiert mit dir, wenn diese Trennung sich
 endlich auflöst? Ich kann es gar nicht erwarten!"

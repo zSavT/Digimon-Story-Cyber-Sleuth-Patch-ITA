@@ -1,6 +1,7 @@
 ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
 2,3045,,Ryuji!,哥哥！！,,오빠!!,Ryuji!
-3,1392,,Questo è il Digimon di Ryuji! Lo ha protetto all'interno di Arkadimon!,"是龍司的數碼寶貝……！
+3,1392,,"Questo è il Digimon di Ryuji!
+Lo ha protetto all'interno di Arkadimon!","是龍司的數碼寶貝……！
 原來是這樣啊，他們在阿卡迪獸的
 身體裡保護了龍司。",,"류지의 디지몬이야……!
 그렇구나, 알카디몬 속에서 류지를 지켜주고 있었구나!","Das ist Ryujis Digimon! Es hat ihn im Inneren
@@ -33,7 +34,8 @@ Sonst werde ich nicht zögern, dich zu verhaften!"
 20,1392,,Ehi! Lasciali in pace!,等一下──！把艾莉卡還來──！,,기다려! 에리카를 돌려줘!,He! Lass sie in Ruhe!
 21,3046,,Erika!,艾莉卡……！,,에리카……!,Erika!
 22,3015,,"Ehi, piano!",喂！你不要勉強！,,이봐! 넌 무리하지 마!,"He, immer langsam!"
-23,1392,,I Bit Eater sono impazziti quando Erika ha perso il controllo! Non riesco più ad accedervi!,"侵食位元因為失去了艾莉卡的控制，
+23,1392,,"I Bit Eater sono impazziti quando Erika ha perso il controllo!
+Non riesco più ad accedervi!","侵食位元因為失去了艾莉卡的控制，
 開始失控了……！
 從我這裡也完全連不上……！",,"이터 비트가 에리카의 제어를 잃고 폭주해버렸어……!
 이제 내 쪽에서의 액세스도 받아들이지 않아……!","Die Verschlinger-Bits sind ausgerastet, als Erika
@@ -65,13 +67,15 @@ Ich bin schließlich Mitglied bei Hudie!"
 E io sono il futuro pioniere!",如果是艾莉卡，才不會因為這種事就慌張……,,에리카라면 이런 일로 당황하지 않아…,"Erika würde keine Panik bekommen.
 Und ich bin der zukünftige Vorreiter!"
 930,1392,,E io sono il futuro pioniere! LOL...,我可是未來的先鋒W……！,,나는 미래의 뱅 가드W……!,Und ich bin der zukünftige Vorreiter! LOL ...
-31,1392,,Il leader dovrebbe sempre mantenere il sangue freddo e analizzare la situazione con calma!,"既然是先鋒，不論何時都要保持冷靜
+31,1392,,"Il leader dovrebbe sempre mantenere il sangue freddo
+e analizzare la situazione con calma!","既然是先鋒，不論何時都要保持冷靜
 ……應當時常用心判斷當下的戰況才行……對吧！",,"뱅 가드인 자, 어떤 때라도 냉정하게
 언제나 곧은 마음의 눈으로 전황을 보고 판단할 것……이지!","Der Vorreiter sollte immer einen kühlen Kopf
 bewahren und die Lage in Ruhe analysieren!"
 32,1392,,"Per prima cosa, dobbiamo controllare Erika.",首先，要先確認艾莉卡的狀況才行……,,일단은 에리카의 상황을 확인해야 해……,Erst müssen wir nach Erika sehen.
 33,1392,,Andiamo al suo server dei ricordi!,……對了，我們先去艾莉卡的記憶伺服器吧！,,"……그렇지, 에리카의 기억 서버로 가자!",Gehen wir zu ihrem Erinnerungsserver!
-34,1392,,"Se riusciamo ad accedervi, potremmo riuscire a contattarla, nonostante sia stata assimilata.","如果能從那裡連結，
+34,1392,,"Se riusciamo ad accedervi, potremmo riuscire a contattarla,
+nonostante sia stata assimilata.","如果能從那裡連結，
 或許就能夠接觸被吞噬的艾莉卡了！ ",,"거기서 액세스하면
 흡수된 에리카와도 접촉할 수 있을지도!","Wenn wir darauf zugreifen können, gelingt es uns
 vielleicht, sie zu kontaktieren, obwohl sie

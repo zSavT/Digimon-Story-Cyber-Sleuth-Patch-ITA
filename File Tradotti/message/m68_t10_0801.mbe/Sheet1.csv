@@ -2,7 +2,8 @@ ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
 1,3015,,Devono aver iniziato.,……好像開始了呢！,,……시작된 모양이야!,Sie haben wohl begonnen.
 2,3046,,"Mi dispiace, Matayoshi...",……又吉先生，不好意思。,,…………마타요시 씨. 죄송합니다,"Tut mir leid, Matayoshi ..."
 3,3015,,Non preoccuparti per lui. Sa quello che fa.,別在意，又吉叔之前說過：,,신경쓰지 마. 마타요시 씨가 말했어,"Mach dir keine Sorgen um ihn. Er weiß, was er tut."
-4,3015,,"Ha detto: ""Lo faccio volentieri. Prima di andare in pensione, vi mostrerò ancora come si fa.""
+4,3015,,"Ha detto: ""Lo faccio volentieri.
+Prima di andare in pensione, vi mostrerò ancora come si fa.""
 Credo che gli dovremo qualche drink.","“在退休前還能出個鋒頭，正合我意”
 等到一切都結束之後，
 和又吉叔一起喝一杯吧！　嗯！",,"「퇴직 전에 꽃을 피워낼 수 있다면 만족이다」라고.
@@ -21,12 +22,14 @@ Sie! Ich regle das hier!"
 taucht Bakemon nicht auf."
 9,3015,,Eh.,──嗨！,,――여어,He.
 10,7063,,Argh! Un mostro?!,呀、呀啊啊啊啊！！　怪、怪物……！？,,"갸, 갸아아아!! 괴, 괴…!?",Argh! Ein Monster?!
-11,3015,,"Chi chiami mostro qui?! Non mi importa se sei delle forze dell'ordine o meno, ti arresto comunque!","誰是怪物啊！　啊！？
+11,3015,,"Chi chiami mostro qui?!
+Non mi importa se sei delle forze dell'ordine o meno, ti arresto comunque!","誰是怪物啊！　啊！？
 不管你是防衛隊還是什麼隊，我要逮捕你！！",,"누가 괴물이야! 누가!
 방위대든 뭐든 체포한다 이 자식!!","Wen nennst du hier ein Monster?! Ist mir egal,
 ob du bei der Schutzpolizei bist oder nicht,
 ich verhafte dich trotzdem!"
-12,3012,,Un poliziotto messo KO sul colpo. Questo si potrebbe già definire mostruoso.,"……一拳就把現任防衛隊員擊昏……
+12,3012,,"Un poliziotto messo KO sul colpo.
+Questo si potrebbe già definire mostruoso.","……一拳就把現任防衛隊員擊昏……
 這不是怪物是什麼。",,……현직 방위대원을 일격에……충분히 괴물이잖아,"Einen Schutzpolizisten auf Anhieb k. o.
 geschlagen. Das könnte man schon als monströs
 bezeichnen."
@@ -47,7 +50,9 @@ etwas unterbesetzt."
 21,3015,,"Ehi, sta arrivando qualcuno.",……喂，有人來了！,,"…이봐, 누군가 온다","He, da kommt jemand."
 22,3046,,Questi sono...,那些傢伙是……,,저 녀석들은……,Das sind ...
 23,3012,,Gli EDEN-hacker!,EDEN的駭客們……！,,EDEN의 해커들이…!,Die EDEN-Hacker!
-24,7149,,Fei! Ci sentiamo totalmente esclusi! Perché le altre squadre non possono partecipare a qualcosa di così interessante?,"菲大人！　妳真是太見外了！
+24,7149,,"Fei! Ci sentiamo totalmente esclusi!
+Perché le altre squadre non possono partecipare
+a qualcosa di così interessante?","菲大人！　妳真是太見外了！
 這麼有趣的事，竟然找外面的隊伍不找我們！",,"페이 씨! 서운하다고요!
 이렇게 재미있어 보이는 일을 다른 팀하고 하다니!","Fei! Wir fühlen uns total ausgeschlossen! Warum
 dürfen die anderen Teams bei so was
@@ -59,7 +64,8 @@ Vi aiutiamo!","就是啊！
 우리들도 협력하게 해줘요!","Ja! Die Zukunft von EDEN hängt davon ab!
 Wir helfen euch!"
 26,7151,,"Volete sbarazzarvi del mostro, vero?
-Non permetteremo che Zaxon e Hudie si prendano tutto il divertimento.","我聽說了，你們要去打倒傳聞中的怪物吧？
+Non permetteremo che Zaxon e Hudie si
+prendano tutto il divertimento.","我聽說了，你們要去打倒傳聞中的怪物吧？
 ……怎麼可以只有Zaxon和hudie出鋒頭啊。",,"다 들었어. 이제부터 소문의 괴물을 쓰러뜨리러 간다며?
 …잭슨과 후디에만 멋진 모습을 보이게 할 수는 없지","Ihr wollt das Monster aus dem Weg räumen, ja?
 Wir lassen nicht zu, dass Zaxon und Hudie den
@@ -70,7 +76,8 @@ ganzen Spaß haben."
 30,2020,,...,…………,,…………,...
 31,2020,,Yu?,……優？,,……유우?,Yu?
 32,7065,,Di cosa stai parlando?,你、你在說什麼……？,,"무, 무슨 말이지…?",Wovon redest du da?
-33,7065,,"Ho sentito che un mostro strano sta imperversando nel nostro Cyberspazio, quindi ho radunato alcune persone.","我只是聽說我們的電腦世界，
+33,7065,,"Ho sentito che un mostro strano sta imperversando
+nel nostro Cyberspazio, quindi ho radunato alcune persone.","我只是聽說我們的電腦世界，
 被不知到哪來的怪物給大肆破壞，
 所以才招集人手而已。",,"나는 단지 우리들의 전뇌세계가
 영문 모를 괴물들에게 멋대로 유린되고 있다고 듣고 
@@ -87,8 +94,8 @@ Ich helfe gern."
 37,2020,,Tu sei Yu. Lo so per certo!,你、是、優、吧？,,유 우 인 거 지?,Du bist Yu. Ich weiß es genau!
 38,7066,,Ehm...,嗚……嗚嗚……,,우……우우…,Ähm ...
 39,3015,,"Ma che ti prende?! Togliti questa stupida maschera
-quando parli con la gente. È così
-maleducato!","啊──！　真煩！！
+quando parli con la gente.
+È così maleducato!","啊──！　真煩！！
 你們這些人，說話時把面具拿下來啊！
 很沒禮貌耶！",,"아! 귀찮아!!
 이놈이고 저놈이고 사람이랑 대화할 땐 얼굴을 까! 실례잖아!","Was ist denn los mit dir?! Nimm diese blöde Maske
@@ -97,7 +104,9 @@ unhöflich!"
 40,3048,,Ehm...,啊……,,앗……,Ähm ...
 41,3048,,...,…………,,…………,...
 42,2020,,...,…………,,…………,...
-43,3048,,Io... Mi sono vergognato così tanto. Non volevo che tu mi vedessi. Per questo ho indossato una maschera.,"我、我……我沒有臉見你──
+43,3048,,"Io... Mi sono vergognato così tanto.
+Non volevo che tu mi vedessi.
+Per questo ho indossato una maschera.","我、我……我沒有臉見你──
 所以……才會戴面具……那個。",,"나, 난…너를 볼 면목이 없어서――
 그래서……가면을…그","Ich ... Ich habe mich so geschämt. Ich wollte
 nicht, dass du mich siehst. Deshalb habe ich
@@ -115,13 +124,14 @@ ma lasciami rimediare a tutto.","我不會說要你原諒我，
 그렇지만 지금까지의 죄를 갚게 해줘","Ich werde dich nicht bitten, mir zu vergeben,
 aber lass mich alles wiedergutmachen."
 49,3048,,"Salverai la tua amica, vero?
-Lascia che ti aiuti. È per questo che ho portato tutta questa gente.","你們接下來要去幫助同伴對吧？
+Lascia che ti aiuti.
+È per questo che ho portato tutta questa gente.","你們接下來要去幫助同伴對吧？
 ……也讓我幫忙吧，我就是為了這個才召集人手。",,"너희들은 지금부터 동료를 구하러 가는 거지?
 ……돕게 해줘. 그러기 위해 사람을 모아왔어","Du wirst jetzt deine Freundin retten, nicht wahr?
 Lass mich helfen. Darum habe ich all die Leute
 mitgebracht."
-50,3047,,"E ci sono molte persone, non solo di Zaxon e
-dei Demons, ma anche di altri team.","召集……先不提Zaxon和惡魔亂舞，
+50,3047,,"E ci sono molte persone, non solo di Zaxon
+e dei Demons, ma anche di altri team.","召集……先不提Zaxon和惡魔亂舞，
 其他的隊伍你也能找來這麼多人啊。",,"모아왔다니…… 잭슨이나 데몬즈는 둘째치고
 잘도 다른 팀까지 이 정도로 모아왔구만","Und es sind viele Leute, nicht nur von Zaxon und
 den Demons, sondern auch von anderen Teams."
@@ -129,7 +139,8 @@ den Demons, sondern auch von anderen Teams."
 取得了很多隊伍的連絡方式……",,"K였을 때의 인맥……일까
 여러 팀의 연락처를 파악하고 있었으니까……","Während meiner Zeit mit K habe ich viele Teams
 kennengelernt."
-52,3048,,"E tutti volevano aiutare, quando hanno sentito che EDEN è in pericolo.","而且只要說EDEN出現了危機，
+52,3048,,"E tutti volevano aiutare,
+quando hanno sentito che EDEN è in pericolo.","而且只要說EDEN出現了危機，
 大家自然就會聚集起來了。",,"게다가 EDEN의 위기라고 했더니 
 모두 스스로 모여줬어","Und alle wollten helfen, als sie gehört haben,
 dass EDEN in Gefahr ist."
@@ -140,7 +151,8 @@ ma senza EDEN non avremmo un lavoro.","哈啊……hudie……哈啊……重要
 중요한 단골을 쓰러뜨렸지…하지만 EDEN이 없어진다면
 ……쉬익…장사도 불가능하니까…","Der Verlust von Hudie war ein schwerer Schlag,
 aber ohne EDEN hätten wir keinen Job."
-54,7123,,"Già, non mi piace lavorare con Zaxon, ma non avere accesso a EDEN sarebbe mille volte peggio.","沒錯沒錯～雖然也不願意幫助Zaxon～
+54,7123,,"Già, non mi piace lavorare con Zaxon,
+ma non avere accesso a EDEN sarebbe mille volte peggio.","沒錯沒錯～雖然也不願意幫助Zaxon～
 但是如果無法進入EDEN，我們也很苦惱啊。",,"맞아맞아~ 우리도 잭슨에 협력이라니~ 절대 사절이지만~
 EDEN에 들어가지 못하면 진심 곤란하니까~","Ja, ich mag es nicht, mit Zaxon zu arbeiten, aber
 keinen Zugang zu EDEN zu haben, wäre
@@ -157,9 +169,8 @@ und zusammenarbeiten."
 因為有了EDEN，才找到了歸屬。",,"현실에서 있을 곳이 없던 우리들은 
 EDEN이 있었기 때문에 이어졌어","In der echten Welt sind wir alle Außenseiter,
 aber EDEN verbindet uns."
-57,3048,,"So che non ci capiamo e abbiamo
-obiettivi diversi, ma EDEN possiamo riconquistarlo solo
-insieme.","雖然大家都有各自的爭執，目的也都不同，
+57,3048,,"So che non ci capiamo e abbiamo obiettivi diversi,
+ma EDEN possiamo riconquistarlo solo insieme.","雖然大家都有各自的爭執，目的也都不同，
 但想取回EDEN的心情……都是一樣的。",,"제각각 분쟁도 있었을테고 목적도 다르겠지만
 EDEN을 되찾고 싶은 마음은…… 모두 마찬가지야","Ich weiß, dass wir uns nicht verstehen und wir
 andere Ziele haben, aber EDEN können wir nur
@@ -167,7 +178,8 @@ gemeinsam zurückerobern."
 58,3048,,"Sapevo che sarebbero venuti, se glielo chiedessi.",只要呼叫大家，大家就一定會出現。,,부른다면 분명 와 줄거라고 생각했어,"Ich wusste, dass sie kommen würden, wenn ich
 sie bitte."
 59,3046,,...,…………,,…………,...
-60,3047,,"Wow, impressionante. Alcuni di loro devono essere tuoi grandi rivali, Fei?","嘿……很厲害嘛。
+60,3047,,"Wow, impressionante.
+Alcuni di loro devono essere tuoi grandi rivali, Fei?","嘿……很厲害嘛。
 該不會你們有強大的競爭對手了？
 是不是啊，菲？",,"헤에…… 제법인걸.
 이거 혹시 강력한 라이벌 출현인가? 어때 페이?","Wow, beeindruckend. Ein paar von ihnen müssen
@@ -181,7 +193,8 @@ akzeptiere meine Entschuldigung."
 meine ich es ernst."
 64,2020,,...,…………,,…………,...
 65,3048,,...!,……！,,……!,...!
-66,3047,,"Io direi di accettare il suo aiuto, ma tu cosa ne pensi, Ryuji?","能不能讓他們幫忙…………
+66,3047,,"Io direi di accettare il suo aiuto,
+ma tu cosa ne pensi, Ryuji?","能不能讓他們幫忙…………
 就算你這樣問我們啊。
 怎麼樣啊，龍司？",,"돕게 해도 괜찮을까……라니, 우리에게 말해도 말이지.
 어쩔까, 류지?","Ich bin ja dafür, dass wir seine Hilfe annehmen,
@@ -199,7 +212,8 @@ aber was meinst du, Ryuji?"
 75,3048,,Cosa?!,……啊…………啊！！！？？,,………뭐………………뭐어!!??,Was?!
 76,1392,,È il mio sogno essere un fantastico Digimon hacker!,我的夢想，就是成為了不起的“駭客數碼寶貝”唷！,,"내 꿈은 훌륭한 ""해커 디지몬""이 되는 거야!","Es ist mein Traum, ein tolles Hacker-Digimon
 zu sein!"
-77,1392,,Realizzerò il vostro sogno di diventare il leggendario hacker pioniere e di proteggere EDEN!,"所以你曾經的夢想──守護EDEN的傳說駭客，
+77,1392,,"Realizzerò il vostro sogno di diventare il leggendario
+hacker pioniere e di proteggere EDEN!","所以你曾經的夢想──守護EDEN的傳說駭客，
 “先鋒”，就由我來當吧！",,"그러니 네 꿈이었던 EDEN을 지키는 레전드 해커
 ""뱅 가드""는 내가 되어줄게!","Ich verwirkliche euren Traum, der legendäre
 Vorreiter-Hacker zu werden und EDEN zu schützen!"
@@ -211,12 +225,14 @@ Vorreiter-Hacker zu werden und EDEN zu schützen!"
 sagen lassen!"
 80,1392,,Cosa? Era quindi tutta colpa di un Digimon?,咦？　那……全部都是數碼寶貝的錯嗎？,,응? 그럼…… 전부 디지몬 때문이야?,Was? Es war also alles die Schuld eines Digimons?
 81,3048,,"No, ero anch'io in colpa, ma...",不，有一部分也是我的真心話……但是……,,"아니, 확실히 본심이었던 부분도 있지만…… 그래도…","Nein, ich war auch schuld, aber ..."
-82,1392,,Bene! Allora sarò un fantastico pioniere! La gente ne parlerà ancora ai loro nipoti!,"太好了──！　那麼我要成為了不起的先鋒！
+82,1392,,"Bene! Allora sarò un fantastico pioniere!
+La gente ne parlerà ancora ai loro nipoti!","太好了──！　那麼我要成為了不起的先鋒！
 然後將來，我會在歷史中留下我的名字！",,"잘됐다! 그럼 난 훌륭한 뱅 가드가 될게!
 그리고 먼 미래까지 그 이름을 역사에 새겨주겠어!","Gut! Dann werde ich ein fantastischer Vorreiter
 sein! Die Leute werden ihren Kindeskindern noch
 davon erzählen!"
-83,3048,,[p]! Ti prego! Questo deve finire! Mi sento già così male. Non ce la faccio più!,"……[p]！　拜託你，快阻止他吧……！
+83,3048,,"[p]! Ti prego! Questo deve finire!
+Mi sento già così male. Non ce la faccio più!","……[p]！　拜託你，快阻止他吧……！
 被他用那麼天真的眼神看著……
 我真的很愧疚……！",,"……[p]! 부탁이니까 이 녀석을 막아줘…!
 이런 반짝이는 눈으로 말하면… 진짜 괴로워…!","[p]! Bitte! Das muss aufhören! Ich fühle
@@ -239,7 +255,8 @@ dann fang gefälligst an!"
 91,3046,,"Fei, dobbiamo essere io, Chitose e [p].","……菲，就交給我們去吧。
 我和千歲，還有[p]三個人。",,"……페이, 여긴 우리들이 가게 해줘.
 나와 치토세, [p] 세 명으로","Fei, es müssen ich, Chitose und [p] sein."
-92,3012,,Assolutamente no! È mio dovere proteggere EDEN mentre Yuuko non c'è.,"這可不行，悠子大人不在的期間，
+92,3012,,"Assolutamente no!
+È mio dovere proteggere EDEN mentre Yuuko non c'è.","這可不行，悠子大人不在的期間，
 我有責任有守護EDEN！",,"그럴 수는 없지예. 나 역시 유코 씨가 없는 동안
 EDEN을 지킬 책임이 있으니까!","Auf keinen Fall! Es ist meine Pflicht, EDEN zu
 schützen, während Yuuko nicht da ist."
@@ -261,7 +278,8 @@ Ich muss auch für Kamishiro da sein."
 Weg, und EDEN wird wieder normal sein!"
 97,3012,,Fatela e basta.,我記住了……你們一定要給我做到。,,그 말…… 어기면 안 됩니다예,Erledigt die Sache einfach.
 98,3015,,Ryu... Ryuji!,……龍……龍司！！,,……류…류지!!,Ryu... Ryuji!
-99,3015,,Non preoccupatevi per le guardie. Matayoshi e io terremo la posizione finché non tornate.,"別擔心這裡的警備，在你們回來之前，
+99,3015,,"Non preoccupatevi per le guardie.
+Matayoshi e io terremo la posizione finché non tornate.","別擔心這裡的警備，在你們回來之前，
 我和又吉先生會負起責任保護好這裡。",,"여기 경비는 걱정하지 마. 너희들이 돌아올 때까지
 나랑 마타요시 씨가 책임지고 지켜줄테니까","Keine Sorge wegen der Wachen. Matayoshi und ich
 halten die Stellung, bis ihr zurück seid."
@@ -289,14 +307,17 @@ wieder."
 抱歉，我不太懂妳要說什麼……",,"………?
 미안, 의미를 잘……",Was ist hier los? Habe ich was verpasst?
 109,3015,,Lascia perdere!,啊──！　夠了！　你不要想太多！,,으아! 그만! 너는 깊게 생각하지 마!,Vergiss es einfach!
-110,3015,,"Volevo solo che salvassi tua sorella e tornassi indietro! È così stupido, non ha capito cosa intendessi!","我想要說的是！
+110,3015,,"Volevo solo che salvassi tua sorella e tornassi indietro!
+È così stupido, non ha capito cosa intendessi!","我想要說的是！
 你如果沒有幫助你妹妹就回來，我饒不了你的意思！
 別誤會了，笨蛋！！",,"내가 하고 싶었던 말은! 여동생을 제대로 구해내서 
 돌아오지 않으면 용서하지 않겠다는 의미다!
 오해하지 말라고 바보자식!!","Ich meinte nur, dass du deine Schwester retten und
 zurückkommen sollst! Er ist so blöd, er hat nicht
 verstanden, was ich meinte!"
-111,3047,,"Hihi, dici così. Forse sono anche solo brevemente balenati i tuoi veri sentimenti?","嘿嘿……是這樣嗎──
+111,3047,,"Hihi, dici così.
+Forse sono anche solo brevemente balenati
+i tuoi veri sentimenti?","嘿嘿……是這樣嗎──
 其實妳不小心吐露出真心話了吧？",,"헤헷… 과연 어떨까~
 실은 생각하고 있던걸 무심코 툭…같은?","Hihi, das sagst du. Vielleicht sind auch nur kurz
 deine wahren Gefühle aufgeblitzt?"
@@ -304,12 +325,14 @@ deine wahren Gefühle aufgeblitzt?"
 給我做好覺悟……混蛋……",,네놈은 돌아오면 철권 제재다…… 각오해둬라… 임마…,"Wenn du zurückkommst, bist du dran. Das wirst
 du bereuen."
 113,3015,,Non importa!,……總、總之就是──,,"…어, 어쨌든 말이지",Egal!
-114,3015,,Matayoshi rischia tutto affinché voi abbiate questa opportunità. Non sprecatela.,"又吉叔這麼拼命幫你們開拓的道路，
+114,3015,,"Matayoshi rischia tutto affinché voi
+abbiate questa opportunità. Non sprecatela.","又吉叔這麼拼命幫你們開拓的道路，
 如果白費了，後果自負。",,"마타요시 씨가 몸을 던져 너희들에게 길을 이어주었어.
 허사로 만든다면 용서하지 않겠다","Matayoshi riskiert alles, damit ihr diese Chance
 habt. Verschwendet sie nicht."
 115,3046,,Oh...,……好。,,……그래,Oh ...
-116,3048,,Affidateci la macchina per il login. Eravamo così di fretta che dobbiamo ancora sistemare qualcosa.,"登入機器的管理，就交給我們吧。
+116,3048,,"Affidateci la macchina per il login.
+Eravamo così di fretta che dobbiamo ancora sistemare qualcosa.","登入機器的管理，就交給我們吧。
 因為臨時趕工，後續還需要進行調整。",,"로그인 머신의 관리는 우리들에게 맡겨줘.
 강행공사니까 조정도 해둬야 하니까","Überlasst uns die Maschine zum Einloggen. Wir
 waren so unter Zeitdruck, dass wir jetzt noch
@@ -331,7 +354,8 @@ Ich bin schon etwas eifersüchtig."
 就是因為這樣，所以我不會放棄。",,"그렇지만 말이지
 그렇기에 더더욱 포기할 수 없어","Aber das ist der Grund, warum ich nicht aufgeben
 werde."
-122,3048,,E non solo per questo. Questa volta darò tutto per guadagnarmi il posto al tuo fianco!,"我不想只是站在你身後憧憬著你……
+122,3048,,"E non solo per questo.
+Questa volta darò tutto per guadagnarmi il posto al tuo fianco!","我不想只是站在你身後憧憬著你……
 這次我一定要站在你身旁，一起併肩而行！",,"동경하기만 하는 것이 아니라……
 이번에야말로 제대로 네 옆에 나란히 설 수 있게 되겠어!","Und nicht nur deswegen. Dieses Mal werde ich alles
 geben, um mir den Platz an deiner Seite zu
@@ -356,7 +380,8 @@ EDEN voller Verschlinger ist."
 已經是完全不同的世界了。",,"우리가 아는 EDEN과는
 완전히 다른 세계가 되어있겠지","Es ist wahrscheinlich ganz anders als das EDEN,
 das wir kannten."
-129,3047,,"È bene essere pronti. Se dovete ancora fare qualcosa, fatelo ora.","花點時間準備，不會吃虧的。
+129,3047,,"È bene essere pronti.
+Se dovete ancora fare qualcosa, fatelo ora.","花點時間準備，不會吃虧的。
 該做什麼就先去做吧。",,"준비에 시간을 들여서 손해를 보진 않을 거야
 해둬야 할 일은 먼저 끝내두도록 하자","Es ist gut, vorbereitet zu sein. Wenn ihr noch
 etwas tun müsst, erledigt das jetzt."

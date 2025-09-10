@@ -12,13 +12,15 @@ Könnte dein Freund ein Verbrecher sein?"
 7,1392,,Prendi questo! Trappola a rete modificata!,…………呀啊！　粘性羅網．改！！,,…………에잇! 끈적그물 개량형!!,Nimm das! Modifizierte Netzfalle!
 8,2020,,?!,！？！？,,!?!?,?!
 9,1392,,"Oh, scusa.",啊哇哇，對不起喔對不起喔……,,"와아앗, 미안미안…","Ach, Entschuldigung."
-10,1392,,"Sembri sempre contento quando Erika ti colpisce. Ho pensato, magari ti tirerà su il morale se ti attacco.","因為你被艾莉卡打的時候，看起來都很開心。
+10,1392,,"Sembri sempre contento quando Erika ti colpisce.
+Ho pensato, magari ti tirerà su il morale se ti attacco.","因為你被艾莉卡打的時候，看起來都很開心。
 所以我以為，你是被攻擊就會有精神的屬性……",,"네가 즐거워보일 때는 에리카에게 맞을 때일 경우가 많잖아?
 그래서 너는 공격받으면 기운이 나는 속성인가 싶어서…","Du scheinst dich immer zu freuen, wenn Erika dich
 haut. Ich dachte, vielleicht heitert es dich auf,
 wenn ich dich angreife."
 11,2020,,...,…………,,…………,...
-12,1392,,Ma la mia Trappola di Rete Modificata non ha un odore così sgradevole come quella normale. Ha un profumo calmante. Ti senti meglio adesso?,"但是我把粘性羅網．改從攻擊用的惡臭，
+12,1392,,"Ma la mia Trappola di Rete Modificata non ha un odore così sgradevole
+come quella normale. Ha un profumo calmante. Ti senti meglio adesso?","但是我把粘性羅網．改從攻擊用的惡臭，
 換成了有放鬆功效的好聞味道了喔！
 怎麼樣？　有精神了嗎？",,"그치만 끈적그물 개량형도 공격용 역겨운 냄새가 아니라
 릴랙스 효과가 있는 좋은 향으로 해 봤어!
@@ -49,7 +51,8 @@ Menschen sind schwierig zu verstehen."
 해커란 건 멋있구나, 하고.",Ich hab dir zugesehen und finde Hacker total cool.
 21,1392,,Allora voglio diventare un Digimon Hacker!,所以，我想成為「駭客數碼寶貝」！,,그니까 난「해커 디지몬」이 되려고 해!,Also möchte ich ein Hacker-Digimon werden!
 22,2020,,?!,！？,,!?,?!
-23,1392,,Non ho mai sentito che un Digimon fosse diventato un hacker. Non sarebbe la cosa più cool?!,"明明是數碼寶貝卻是駭客，從來都沒聽說過。
+23,1392,,"Non ho mai sentito che un Digimon fosse diventato un hacker.
+Non sarebbe la cosa più cool?!","明明是數碼寶貝卻是駭客，從來都沒聽說過。
 這很帥氣對吧！？",,"디지몬인데 해커라니 들어본 적도 없으니
 멋지지 않아!?","Ich habe noch nie gehört, dass ein Digimon zum
 Hacker geworden wäre. Wäre das nicht
@@ -59,12 +62,13 @@ quindi sono già piuttosto bravo ad hackerare.","我跟艾莉卡共享記憶，
 部份的入侵，我也能辦到了喔──",,"난 에리카와 기억을 공유해서
 이미 나름대로 해킹도 가능하게 됐고――","Erika und ich teilen unsere Erinnerungen,
 also bin ich schon ziemlich gut im Hacken."
-25,1392,,Il mio obiettivo è di prendere il posto del leader dal tuo amico!,"所以啊！　我想代替你的朋友，
+25,1392,,"Il mio obiettivo è di prendere il
+posto del leader dal tuo amico!","所以啊！　我想代替你的朋友，
 以成為「先鋒」為目標喔！",,"그러니까 말야! 내가 네 친구를 대신해서
 「뱅 가드」를 목표로 삼을까 해!","Mein Ziel ist es, den Posten des Vorreiters von
 deinem Freund zu übernehmen!"
 26,2020,,?!,！？！？,,!?!?,?!
-27,1392,,"Proprio come disse: „Diventa un pioniere, un hacker della giustizia!“","你的朋友不是有說嗎？
+27,1392,,"Proprio come disse: ""Diventa un pioniere, un hacker della giustizia!""","你的朋友不是有說嗎？
 「正義的駭客，成為先鋒！」",,"네 친구가 그랬잖아?
 「정의의 해커, 뱅 가드가 되겠다!」고","Genau wie er sagte: „Werde zum Vorreiter,
 zum Hacker der Gerechtigkeit!“"
@@ -79,11 +83,14 @@ aber dieser Traum ist einfach großartig."
 做一堆一堆好事喔！",,"그러니까 내가 뱅 가드가 되어서
 좋은 일을 잔뜩 할 거야!","Darum wollte ich zum Vorreiter werden und
 jede Menge Gutes tun!"
-31,1392,,"Se ci riesco, dimostrerà che tu e il tuo amico non avete solo commesso errori!","這樣就能證明，你的朋友所想的事情，
+31,1392,,"Se ci riesco, dimostrerà che tu e il
+tuo amico non avete solo commesso errori!","這樣就能證明，你的朋友所想的事情，
 也不全都是錯誤的喔！",,"그러면 네 친구가 생각한 것이
 잘못된 것만은 아니라는 게 증명되잖아!","Wenn mir das gelingt, beweist es, dass du und dein
 Freund nicht nur Fehler gemacht habt!"
-32,1392,,"E se diventerò un grande hacker, Ryuji Hudie potrà unirsi a me come mio hacker, anche se non potrò tornare nel Mondo Digitale.","而且，要是成為了不起的駭客，就算回不去
+32,1392,,"E se diventerò un grande hacker,
+Ryuji Hudie potrà unirsi a me come mio hacker,
+anche se non potrò tornare nel Mondo Digitale.","而且，要是成為了不起的駭客，就算回不去
 數碼世界，龍司也會答應讓我成為隊伍成員
 加入hudie吧……",,"게다가 훌륭한 해커가 되면 혹시 디지털 월드로
 돌아가지 못하더라도 류지가 나를 해커의 일원으로

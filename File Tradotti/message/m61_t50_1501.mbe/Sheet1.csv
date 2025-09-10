@@ -4,7 +4,8 @@ A quanto pare, è ancora viva da qualche parte.","岸部里繪，居然有這種
 那傢伙，果然還在某處活著。",,"키시베 리에가 그런 계획을……
 역시 그 여자는 어딘가에 살아있었구나","Das hat Rie Kishibe also vor, hm ...
 Sie lebt also doch noch irgendwo."
-2,3045,,"Qualunque cosa lei stia pianificando, voglio in ogni caso fermarla anch'io.","先不管計畫的真假──
+2,3045,,"Qualunque cosa lei stia pianificando,
+voglio in ogni caso fermarla anch'io.","先不管計畫的真假──
 我也贊成阻止岸部的計畫。",,"계획의 진위는 둘째치고――
 키시베의 계획을 저지한다는 건 나도 찬성","Was auch immer sie plant, ich will sie jedenfalls
 auch aufhalten."
@@ -14,7 +15,9 @@ auch aufhalten."
 你不是在找回去故鄉數碼世界的方法嗎？",,"……왜냐니
 너, 고향인 디지털 월드로 돌아갈 방법을 찾고 있었잖아?","Na, du hast doch einen Weg zurück nach Hause in
 die Digitale Welt gesucht, oder?"
-6,3045,,"Se il piano di Kishibe ha successo, il Muro Dimensionale verrà distrutto, e potrai tornare a casa, vero?","要是岸部的計畫成功了，
+6,3045,,"Se il piano di Kishibe ha successo,
+il Muro Dimensionale verrà distrutto,
+e potrai tornare a casa, vero?","要是岸部的計畫成功了，
 那叫「次元之壁」的東西毀壞的話，
 搞不好你就能回去那邊了啊。",,"키시베의 계획이 성공해서 그「차원의 벽」이란게 붕괴하면
 너도 저 쪽으로 돌아갈 수 있을지도 모르잖아","Wenn Kishibes Plan Erfolg hat, wird der
@@ -27,13 +30,15 @@ nach Hause, oder?"
 11,1392,,L'avevo dimenticato...,…………………………我忘記了……,,……………………………잊고 있었다……,Das hatte ich vergessen ...
 12,2020,,...,…………,,…………,...
 13,3045,,... Ehm.,…………我說你啊。,,…………있잖아,... Ähm.
-14,1392,,Voglio dire... mi diverto così tanto con Erika e con tutti voi. In realtà non è più così importante per me tornare a casa.,"因、因為……跟你們在一起實在太有趣了，
+14,1392,,"Voglio dire... mi diverto così tanto con Erika e con tutti voi.
+In realtà non è più così importante per me tornare a casa.","因、因為……跟你們在一起實在太有趣了，
 老實說回不回去已經無所謂了。",,"그, 그치만… 에리카네랑 있는 게 너무 즐거워서
 솔직히 돌아가는 것 따윈 아무래도 상관없어졌는걸","Ich meine ... ich habe so viel Spaß mit Erika
 und euch allen. Eigentlich ist es mir nicht mehr
 so wichtig, nach Hause zu kommen."
 15,3045,,"... È davvero bello, quanto sei incurante.",……你那種樂天遲鈍的態度，還真是叫人佩服啊。,,"……그 태평함, 오히려 상쾌할 정도네","... Das ist ja schön, wie sorglos du bist."
-16,3045,,"Okay, quindi vai alla centrale elettrica come parte del piano di Arata Sanada, vero? Vengo anch'io.","你要照真田新的計畫去六本木發電廠對吧，
+16,3045,,"Okay, quindi vai alla centrale elettrica come
+parte del piano di Arata Sanada, vero? Vengo anch'io.","你要照真田新的計畫去六本木發電廠對吧，
 那我也要去。",,"너, 사나다 아라카의 계획으로 롯폰기의 발전소로 가는 거지?
 나도 갈 거야","Okay, du gehst also als Teil von Arata Sanadas
 Plan zum Kraftwerk, ja? Ich komme mit."
@@ -41,7 +46,8 @@ Plan zum Kraftwerk, ja? Ich komme mit."
 18,3045,,Vorrei contattare qualcuno che forse sa qualcosa sulla Sindrome EDEN.,我想認識可能很了解EDEN症候群謎團的人。,,"EDEN 증후군에 관한 수수께끼를 알 만한 인물과
 접촉을 꾀하고 싶어","Ich möchte jemanden kontaktieren, der vielleicht
 etwas über das EDEN-Syndrom weiß."
-19,3045,,"Ti ricordi ancora, vero? Akemi Suedou, il ricercatore di Kamishiro che abbiamo incontrato durante l'incidente a Shinjuku?","你還記得末堂明實吧？
+19,3045,,"Ti ricordi ancora, vero? Akemi Suedou, il ricercatore
+di Kamishiro che abbiamo incontrato durante l'incidente a Shinjuku?","你還記得末堂明實吧？
 在新宿的奇怪現象遇到的神代研究員。",,"기억하지? 스에도 아케미.
 그 신주쿠의 괴현상으로 만났던 카미시로의 연구원이야","Du erinnerst dich noch, oder? Akemi Suedou, der
 Forscher von Kamishiro, den wir bei dem Vorfall
@@ -54,17 +60,22 @@ mit ihm reden."
 23,3045,,Voglio guarire Chitose dalla Sindrome di EDEN.,我……想治好千歲的EDEN症候群。,,난……치토세의 EDEN 증후군을 치료하고 싶어,Ich möchte Chitose vom EDEN-Syndrom heilen.
 24,2020,,?!,！？,,!?,?!
 25,3045,,So che suona folle.,我也知道這很亂來。,,무모한 건 알고 있어,"Ich weiß, das klingt verrückt."
-26,3045,,"Ho raccolto tutte le informazioni in rete, ma finora nessun paziente con la sindrome di EDEN si è mai risvegliato.","在網路上找了各種情報，
+26,3045,,"Ho raccolto tutte le informazioni in rete,
+ma finora nessun paziente con la sindrome
+di EDEN si è mai risvegliato.","在網路上找了各種情報，
 也都沒有EDEN症候群的患者甦醒的報告。",,"인터넷에 오른 온갖 정보를 모았지만
 EDEN 증후군에서 깨어난 환자의 사례는 보고되지 않았어","Ich habe alle Infos im Netz gesammelt, aber bisher
 ist noch nie ein Patient mit EDEN-Syndrom wieder
 aufgewacht."
-27,3045,,"Ma voglio riportare Hudie indietro. Si è sciolto per colpa mia, e per mio fratello Ryuji voglio salvarlo.","但是，我無論如何都想讓hudie恢復原樣。
+27,3045,,"Ma voglio riportare Hudie indietro.
+Si è sciolto per colpa mia, e per mio
+fratello Ryuji voglio salvarlo.","但是，我無論如何都想讓hudie恢復原樣。
 我想奪回哥哥因為我而失去的東西。",,"하지만……나는 어떻게 해서든 후디에를 되찾고 싶어.
 나 때문에 오빠가 잃어버린 것을 되찾아주고 싶어","Aber ich will Hudie zurückbringen. Es ging
 wegen mir auseinander, und für meinen Bruder
 Ryuji möchte ich es retten."
-28,3045,,"Così come stanno le cose ora... non posso nemmeno parlargli, anche se torna.","一直這樣的話，就算我讓哥哥回來了，
+28,3045,,"Così come stanno le cose ora...
+non posso nemmeno parlargli, anche se torna.","一直這樣的話，就算我讓哥哥回來了，
 ……也沒辦法跟他好好說話。",,"이대로라면 나는 오빠가 돌아와도
 ……제대로 대화도 못해","So, wie es jetzt aussieht ... kann ich gar nicht
 mit ihm reden, selbst wenn er zurückkehrt."
@@ -92,7 +103,8 @@ Das ist wirklich peinlich."
 我可會好好使喚你的喔！",,"이제 됐어. 너는 말했던 대로 나를 따라올 것.
 앞으로 실컷 부려먹어 줄 테니까!","Es reicht. Du warst einverstanden, mit mir zu
 kommen, jetzt setze ich dich auch ein!"
-37,1392,,È quindi deciso! Obiettivo principale: Sventare il malvagio piano di Rie Kishibe!,"那麼，目標決定好了喔！
+37,1392,,"È quindi deciso! Obiettivo principale:
+Sventare il malvagio piano di Rie Kishibe!","那麼，目標決定好了喔！
 第一個目標，就是阻止岸部里繪的計畫！",,"그러면, 할 일은 정해졌네!
 일단 첫 번째 목적은 키시베 리에의 계획을 저지하는 것!","Es ist also entschieden! Oberstes Ziel:
 Rie Kishibes bösen Plan aufhalten!"
@@ -100,4 +112,4 @@ Rie Kishibes bösen Plan aufhalten!"
 還有──",,"그것과 병행해서 치토세를 구할 방법을 찾는 것.
 그리고――","Gleichzeitig suchen wir einen Weg, Chitose zu
 helfen. Dann ..."
-39,2020,,Riportiamo Hudie a nuova vita!,奪回……hudie！,,후디에를……되찾는 것!,Erwecken wir Hudie zu neuem Leben!
+39,2020,,Diamo nuova vita a Hudie!,奪回……hudie！,,후디에를……되찾는 것!,Erwecken wir Hudie zu neuem Leben!

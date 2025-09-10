@@ -1,7 +1,9 @@
 ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
 1,2020,,...!,……！,,……!,...!
 2,3045,,È un umano?!,那是……人類！？,,저건…… 사람!?,Ist das ein Mensch?!
-3,7036,,Non ci posso credere. Non avrei mai pensato di imbattermi qui in dati mentali normali.,"真是驚人……
+3,7036,,"Non ci posso credere.
+Non avrei mai pensato di imbattermi
+qui in dati mentali normali.","真是驚人……
 居然能在這見到正常的精神檔案。",,"놀랐어……
 여기에서 정상적인 정신 데이터를 만나다니","Ich kann es nicht fassen. Ich hätte nie gedacht,
 hier auf normale Mentaldaten zu stoßen."
@@ -19,17 +21,19 @@ Ich habe nichts mit ihm zu tun."
 11,7036,,"Ah, capisco. Hai hackerato un Eater.","……喔，原來如此，
 你們入侵了侵食者啊。",,"……헤에, 과연.
 이터를 해킹한 건가","Ah, verstehe. Du hast einen Verschlinger gehackt."
-12,7036,,Ti sei camuffato da dati di Eater e hai infiltrato la loro rete.,居然讓侵食者把你們誤認為資訊……,,"자기들을 이터가 보낸 정보라고 오인식하게 해서
+12,7036,,"Ti sei camuffato da dati di Eater
+e hai infiltrato la loro rete.",居然讓侵食者把你們誤認為資訊……,,"자기들을 이터가 보낸 정보라고 오인식하게 해서
 침입하다니……","Du hast dich als Verschlingerdaten getarnt und
 ihr Netzwerk infiltriert."
-13,7036,,Non ho mai visto che qualcuno ottenesse accesso in questo modo.,這還是第一次有人用這種方法登入這裡呢。,,그런 식으로 액세스한 사람은 처음이야,"Ich habe noch nie gesehen, dass sich jemand auf
+13,7036,,"Non ho mai visto che qualcuno
+ottenesse accesso in questo modo.",這還是第一次有人用這種方法登入這裡呢。,,그런 식으로 액세스한 사람은 처음이야,"Ich habe noch nie gesehen, dass sich jemand auf
 diese Weise Zugriff verschafft hätte."
 14,7036,,"Ma, a dire il vero, suona già incredibile,
 che qualcuno si addentri a tal punto.",不對……說起來，能登入這裡也是很罕見的事情。,,"아니…… 애초 여기에 액세스가 가능한 경우 자체가 
 드문 일이지만","Wobei es ja schon unglaublich klingt,
 dass jemand so weit vordringt."
-15,7036,,"Come mai ci sei riuscito?
-Questo deve aver richiesto una notevole potenza di calcolo.","妳為什麼能做到這種事呢？
+15,7036,,"Come mai ci sei riuscito? Questo deve
+aver richiesto una notevole potenza di calcolo.","妳為什麼能做到這種事呢？
 要用這種方法，需要相當程度的演算處理能力──",,"너는 어떻게 그런 일이 가능하지?
 그 방법에는 상당한 연산 처리 능력이――","Wie kommt’s, dass dir das gelungen ist?
 Das muss beträchtliche Rechenleistung
@@ -38,7 +42,8 @@ erfordert haben."
 啊……原來如此，妳跟EDEN連接在一起呢。",,"…………
 아아…… 그런가, 너는 EDEN과 이어져 있구나",Ah ... Du hast also mit EDEN zu tun.
 17,3045,,Come fai a saperlo?,……你看得出來啊？,,……알 수 있어?,Woher weißt du das?
-18,7036,,Perché faccio parte di un'enorme struttura dati. Riesco sempre a riconoscere qualcuno come me.,"我也一樣，是巨大資料構造體的一部分。
+18,7036,,"Perché faccio parte di un'enorme struttura dati.
+Riesco sempre a riconoscere qualcuno come me.","我也一樣，是巨大資料構造體的一部分。
 因為妳跟我很像，所以能從感覺上來理解。",,"나도 거대한 데이터 구조체의 일부니까.
 자신과 비슷한 것은 기척으로 알아보지","Weil ich Teil einer riesigen Datenstruktur bin.
 Jemanden wie mich kann ich stets erkennen."
@@ -49,7 +54,8 @@ Le mie capacità sono fortemente limitate.","雖然這麼說，但我已經完�
 Meine Fähigkeiten sind stark eingeschränkt."
 20,3045,,Cosa sei?,你……究竟是什麼？,,너는…… 뭐야?,Was bist du?
 21,7036,,Si potrebbe considerarmi un guardiano.,看守者……一類的吧。,,파수꾼 같은 거야,Man könnte mich als Wächter betrachten.
-22,7036,,Proteggiamo i dati mentali umani che sono stati assimilati dai Eater.,為了不被侵食者不小心刪除掉，,,이터가 흡수해버린 인간의 정신 데이터를 여기서 지키고 있어,"Wir beschützen die menschlichen Mentaldaten,
+22,7036,,"Proteggiamo i dati mentali umani
+che sono stati assimilati dai Eater.",為了不被侵食者不小心刪除掉，,,이터가 흡수해버린 인간의 정신 데이터를 여기서 지키고 있어,"Wir beschützen die menschlichen Mentaldaten,
 die von den Verschlingern assimiliert wurden."
 23,7036,,In modo che non ci cancellino per sbaglio.,"我把那些被侵食者吞噬的
 人類精神檔案都保護到這裡。",,혹시라도 이터가 지워버리지 않도록 말이지,Damit sie uns nicht versehentlich löschen.
@@ -66,12 +72,14 @@ Wir sind gekommen, um Chitose Imai zu holen."
 보호하는 것뿐이야","Ich kann lediglich die Mentaldaten vor der
 Löschung bewahren."
 29,2020,,...,…………,,…………,...
-30,7036,,"Una volta che i dati mentali sono stati separati dal corpo, è impossibile ricongiungere entrambi.","而且，要復原自身體分離出來的精神檔案，
+30,7036,,"Una volta che i dati mentali sono stati separati dal corpo,
+è impossibile ricongiungere entrambi.","而且，要復原自身體分離出來的精神檔案，
 是不可能的。",,"무엇보다, 몸에서 분리된 정신 데이터를 원래대로 되돌린다니
 불가능해","Wenn Mentaldaten einmal vom Körper getrennt
 wurden, ist es unmöglich, beides
 wieder zusammenzuführen."
-31,7036,,Non c'è modo di individuare un individuo nel vasto oceano dei dati mentali.,"在龐大數量的精神檔案中，
+31,7036,,"Non c'è modo di individuare un individuo
+nel vasto oceano dei dati mentali.","在龐大數量的精神檔案中，
 沒有辦法能把妳朋友的精神檔案特定出來。",,방대한 수의 정신 데이터 속에서 개인을 특정할 수는 없어,"Es gibt keine Möglichkeit, ein Individuum im
 weiten Ozean der Mentaldaten auszumachen."
 32,7036,,"E anche se trovassi la persona cercata,
@@ -82,7 +90,8 @@ non potresti rimetterla insieme... Oh?","而且，就算妳真的找到了，
 könntest du sie nicht wieder zusammen ... Nanu?"
 33,3045,,Potrebbe essere Chitose?,……難道，那就是千歲的檔案？,,……혹시 그게 치토세야?,Könnte das Chitose sein?
 34,7036,,"Oh, un Digimon.",……這樣啊，是數碼寶貝啊。,,……그렇구나. 디지몬인가,"Oh, ein Digimon."
-35,7036,,"Sento un legame concreto tra lui e questo Digimon. Non è proprio amicizia, ma...","他跟那隻數碼寶貝間，有股深厚的羈絆。
+35,7036,,"Sento un legame concreto tra lui e questo Digimon.
+Non è proprio amicizia, ma...","他跟那隻數碼寶貝間，有股深厚的羈絆。
 雖然不太像是友情或主從關係……",,"그와 그 디지몬 사이에 뚜렷한 유대가 느껴져.
 우정이나 주종 관계와는 조금 다른 것 같지만……","Ich spüre eine konkrete Verbindung zwischen ihm
 und diesem Digimon. Freundschaft ist es nicht
@@ -97,8 +106,8 @@ ich gehört."
 38,3045,,"Questo Digimon, Chitose lo riporterà con sé.",這孩子會把千歲帶回去。,,이 애가 치토세를 데리고 돌아갈 거야,Dieses Digimon wird Chitose mit zurücknehmen.
 39,3045,,A Tokyo c'è proprio ora un grande spostamento digitale.,現在的東京，正發生大規模的Digital Shift。,,지금 도쿄에는 대규모 디지털 시프트가 일어나고 있어,"In Tokio gibt es jetzt gerade eine große
 digitale Verschiebung."
-40,3045,,"Ora che i Digimon stanno apparendo nel mondo reale,
-forse questo qui è in grado di aiutare a riportare la mente di Chitose nel suo corpo.","現在數碼寶貝出現在現實世界中，只要靠這孩子
+40,3045,,"Ora che i Digimon stanno apparendo nel mondo reale, forse questo qui è
+in grado di aiutare a riportare la mente di Chitose nel suo corpo.","現在數碼寶貝出現在現實世界中，只要靠這孩子
 說不定就能讓千歲的精神回到身體了。",,"디지몬이 현실 세계에 나타나는 지금이라면 이 애를 매개로
 치토세의 정신 데이터를 몸으로 되돌릴 수 있을지도 몰라","Jetzt, da Digimon in der echten Welt auftauchen,
 ist dieses hier vielleicht dazu imstande, Chitoses
@@ -106,12 +115,13 @@ Verstand wieder in seinem Körper zurückzuhelfen."
 41,7036,,"Se è così, non ho obiezioni.","……我知道了。
 既然妳這麼表示，那我就不再多說了。",,"……알았어.
 그렇게까지 말한다면 아무 말도 하지 않을게","Wenn das so ist, habe ich keine Einwände."
-42,7036,,"Forse dopo la mia lunga permanenza
-nella rete il mio modo di pensare è diventato inflessibile.","可能是我一直待在網路空間裡，
+42,7036,,"Forse dopo la mia lunga permanenza nella rete
+il mio modo di pensare è diventato inflessibile.","可能是我一直待在網路空間裡，
 思考模式也逐漸固定了吧。",,"오랫동안 네트워트 속에 있던 탓에 내 사고방식은
 굳어져 버렸을지도 몰라","Vielleicht ist nach meinem langen Aufenthalt
 im Netzwerk meine Denkweise unflexibel geworden."
-43,7036,,"Se credete che sia possibile, non ho il diritto di fermarvi.",既然你們相信那份可能性，我也沒有權利能阻止……,,너희들이 가능성을 믿는다면 나에게 그걸 막을 권리는 없어……,"Wenn ihr glaubt, es wäre möglich, habe ich kein
+43,7036,,"Se credete che sia possibile,
+non ho il diritto di fermarvi.",既然你們相信那份可能性，我也沒有權利能阻止……,,너희들이 가능성을 믿는다면 나에게 그걸 막을 권리는 없어……,"Wenn ihr glaubt, es wäre möglich, habe ich kein
 Recht dazu, euch aufzuhalten."
 44,7036,,"Avete rischiato molto per arrivare fin qui.
 Potete portarlo con voi.","你們是冒著危險才來到這的，
@@ -129,27 +139,29 @@ Non ho un Digimon partner che mi stia accanto.","沒關係的，
 我沒有羈絆相連的數碼寶貝搭檔。",,"괜찮아.
 나에게는 유대를 가진 파트너 디지몬이 없어","Schon gut.
 Ich habe kein Partnerdigimon, das zu mir hält."
-50,7036,,"Quando avevo ancora un corpo, non sapevo nemmeno che i Digimon esistessero.","在我還有肉體的時候，也不知道
+50,7036,,"Quando avevo ancora un corpo,
+non sapevo nemmeno che i Digimon esistessero.","在我還有肉體的時候，也不知道
 有數碼寶貝的存在。",,"내가 육체를 가지고 있을 때 디지몬의 존재는
 알려져 있지 않았으니까","Als ich noch einen Körper hatte, wusste ich nicht
 einmal, dass Digimon existieren."
-51,7036,,"Potrebbe essere l'unico,
-a poter essere salvato con questo metodo.",能用這方法得救的，可能只有他一個人吧。,,이런 방식으로 구할 수 있는 건 아마 그 혼자 뿐일 거야,"Es kann sein, dass er der Einzige ist,
+51,7036,,"Potrebbe essere l'unico, a poter
+essere salvato con questo metodo.",能用這方法得救的，可能只有他一個人吧。,,이런 방식으로 구할 수 있는 건 아마 그 혼자 뿐일 거야,"Es kann sein, dass er der Einzige ist,
 der mithilfe dieser Methode gerettet werden kann."
-52,7036,,"Un'amicizia così forte con un Digimon
-è rara. Essa rappresenta un notevole
-carico fisico.","不是每個人，都跟他一樣有著強大羈絆的數碼寶貝。
+52,7036,,"Un'amicizia così forte con un Digimon è rara.
+Essa rappresenta un notevole carico fisico.","不是每個人，都跟他一樣有著強大羈絆的數碼寶貝。
 而且，也不能忽視這對妳身體造成的負擔。",,"누구나 그와 같은 강한 유대를 가진 디지몬을 가진게 아냐.
 네 몸의 부하도 무시할 수 없어","So eine starke Freundschaft zu einem Digimon
 ist selten. Sie stellt eine erhebliche körperliche
 Belastung dar."
-53,7036,,"Io... Io accetto il mio destino, proprio come gli altri che soffrono della Sindrome di EDEN.","我……我和其他的EDEN症候群患者們一起
+53,7036,,"Io... Io accetto il mio destino, proprio come
+gli altri che soffrono della Sindrome di EDEN.","我……我和其他的EDEN症候群患者們一起
 聽從命運的安排。",,"나는…… 내 운명에 따르겠어.
 다른 EDEN 증후군 환자와 함께","Ich ... Ich akzeptiere mein Schicksal, genau wie
 die anderen, die am EDEN-Syndrom leiden."
 54,3045,,...,…………,,…………,...
 55,2020,,!,！！,,!!,!
-56,7036,,"A quanto pare, vi hanno riconosciuti come corpi estranei quando avete avuto accesso ai dati mentali!","看來因為登入了精神檔案，
+56,7036,,"A quanto pare, vi hanno riconosciuti come corpi
+estranei quando avete avuto accesso ai dati mentali!","看來因為登入了精神檔案，
 被他們察覺到了…！",,"정신 데이터에 액세스한 탓에
 이물질이라는 걸 눈치 챈 모양이야…!","Anscheinend haben sie euch als Fremdkörper
 erkannt, als ihr auf die Mentaldaten

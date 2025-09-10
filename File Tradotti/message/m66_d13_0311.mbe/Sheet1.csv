@@ -9,13 +9,13 @@ wieder an den gleichen Ort zurück."
 di proseguire.",簡直就像……不想讓我們前進啊。,,마치 우리를 앞으로 보내지 않으려는 것처럼 말이지…,"Es ist, als ob uns etwas davon abhält,
 weiterzukommen."
 5,1805,,Hm... Capisco.,……嗯，原來如此啊。,,"……흐음, 과연",Hm ... Verstehe.
-6,1805,,"Da qualche parte, qualcuno sta manomettendo i dati dell'area e sta distorcendo l'intera zona.","好像是有某人，對這一帶的地形資料下手，
+6,1805,,"Da qualche parte, qualcuno sta manomettendo i dati
+dell'area e sta distorcendo l'intera zona.","好像是有某人，對這一帶的地形資料下手，
 把整個區域都做了修改。",,"어딘가의 누군가가 이 일대의 지형 데이터에 손을 써서
 에어리어 자체를 개찬했군","Irgendwo macht sich jemand an den Gebietsdaten
 zu schaffen und verzerrt das ganze Gebiet."
 7,1805,,"Non siamo nel Cyberspazio, quindi la persona
-non ha il pieno controllo, ma è sufficiente per
-fermarci.","雖然這裡不是電腦空間，沒有辦法完全控制……
+non ha il pieno controllo, ma è sufficiente per fermarci.","雖然這裡不是電腦空間，沒有辦法完全控制……
 但已經足夠阻止我們前進了。",,"전뇌공간이 아니니 완전히 제어하진 못하지만…
 우리들의 발목을 잡는 정도론 충분하다는 거지","Wir sind nicht im Cyberspace, also hat die Person
 nicht die völlige Kontrolle, aber es genügt, um
@@ -42,15 +42,17 @@ Lehrer."
 ……那麼就趕快開始吧。",,"전뇌공간에 침입한 이후엔 틀림없이 배틀을 하게 되겠지.
 …그럼 바로 시작한다","Wenn wir seinen Cyberspace betreten, wird es zum
 Kampf kommen. Also gut, los geht’s."
-900,1805,,Probabilmente sta accedendo a questo luogo da qualche parte nel Cyberspazio.,"看來，他是從某處的電腦空間
+900,1805,,"Probabilmente sta accedendo a questo luogo
+da qualche parte nel Cyberspazio.","看來，他是從某處的電腦空間
 登入這場所，並設下了機關。",,"아무래고 그 녀석은 어딘가의 전뇌공간에서 이 장소에
 접속해서 장치를 설치한 모양이야","Er greift wohl irgendwo im Cyberspace auf diesen
 Ort zu."
-901,1805,,Probabilmente perché qui è avvenuto lo spostamento digitale. Ora sta a noi.,"正因為這空間發生了DigitalShift，才能辦到啊。
+901,1805,,"Probabilmente perché qui è avvenuto lo spostamento digitale.
+Ora sta a noi.","正因為這空間發生了DigitalShift，才能辦到啊。
 但知道手法後，我就有辦法了。",,"디지털 시프트한 이 공간이기 때문에 가능한 일이지.
 하지만 수법을 알았으니 이긴 거나 다름없어","Wahrscheinlich, weil hier die digitale Verschiebung
 stattfand. Jetzt liegt es an uns."
-902,1805,,Rihackerò il suo Cyberspazio e metterò fine alla sua piccola trappola.,"反向入侵他所在的電腦空間，
+902,1805,,"Rihackerò il suo Cyberspazio e metterò fine alla sua piccola trappola.","反向入侵他所在的電腦空間，
 解除這裡的機關吧！",,"그 녀석이 있는 전뇌공간을 역해킹해서
 이곳에 걸린 장치를 해제하는 거야","Ich werde seinen Cyberspace zurückhacken und
 seiner kleinen Falle ein Ende bereiten."
