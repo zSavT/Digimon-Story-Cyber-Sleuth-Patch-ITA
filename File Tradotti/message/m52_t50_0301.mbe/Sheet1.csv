@@ -6,7 +6,7 @@ ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
 hereinspazieren, ohne zu klopfen!"
 7,2020,,...!,………！！,,………!!,...!
 8,7097,,...?!,……！？！？,,……!?!?,...?!
-9,7097,,Ahhh! Memetan! Il mio Memetan ... è ferito!,"啊啊啊啊啊！！ 小梅梅！！
+9,7097,,Ahhh! Memetan! La mia Memetan ... è ferito!,"啊啊啊啊啊！！ 小梅梅！！
 你傷到………小梅梅了！！！",,"아, 아, 아아아아!! 메메땅!!
 메메땅에게………… 상처가!!!",Ahhh! Memetan! Meine Memetan ... ist verletzt!
 10,2020,,???,？？？,,???,???
@@ -84,8 +84,8 @@ zu gehen. Es ist meine Schuld, dass
 ich dich nicht gewarnt habe."
 33,3046,,Perdonalo.,妳就原諒他吧。,,너도 용서해줘라,"Also, entschuldige dich bei ihm."
 34,3045,,...,…………,,…………,...
-35,3045,,"...Mi regali quel PC che una volta ti rifiutasti
-di comprarmi?",……你之前反對的那台新電腦，我可以買了嗎？,,"……전에 반대했던 새 PC, 사도 돼?","... Schenkst du mir doch den neuen PC, den ich mir
+35,3045,,"... Mi regalerai il nuovo PC che desidero
+e che mi hai già negato una volta?",……你之前反對的那台新電腦，我可以買了嗎？,,"……전에 반대했던 새 PC, 사도 돼?","... Schenkst du mir doch den neuen PC, den ich mir
 wünsche und zu dem du schon einmal Nein gesagt
 hast?"
 36,3046,,E questo che c’entra?,……這跟那件事沒關係。,,……그거랑 이건 관계없잖아,Was hat das damit zu tun?
@@ -156,9 +156,9 @@ della raccolta di dati.","我和龍司跟小姐認識蠻久了。
 팀에서는 정보 수집을 담당하고 있어","Ich kenne Ryuji und die Kleine schon Ewigkeiten.
 In diesem Team bin ich für das Sammeln von 
 Daten verantwortlich."
-60,3047,,"Ti è stato utile il Colibrì che ti avevo dato? 
-Fammi sapere se ti piace.. Ho ancora altro 
-malware di questo tipo!","剛才交給你的小「蜂鳥」，很有用對吧？
+60,3047,,"Il colibrì che ti avevo dato ti è stato utile?
+Fammi sapere se ti piacciono queste cose.
+Ho ancora altri malware simili!","剛才交給你的小「蜂鳥」，很有用對吧？
 有興趣的話隨時都能來找我！ 
 讓你見識下其他的惡性軟體。",,"아까 보내준「벌새」양, 도움이 되었지?
 흥미가 있다면 언제든 괜찮아! 다른 악성코드도 보여줄게","War der Kolibri, den ich dir gegeben hatte,
@@ -238,7 +238,7 @@ Unterstütze keine bösen Taten!"
 lavorano per conto di Zaxon!",我們就是在Zaxon旗下努力的正義使者！,,우리들은 잭슨 밑에서 일하는 정의의 편이라는거지!,"Wir sind Verbündete der Gerechtigkeit, die
 im Auftrag von Zaxon arbeiten!"
 79,3047,,"In realtà, il nostro compito è impedire
- alle persone di scatenarsi in EDEN!",事實上，我們也負責阻止EDEN內過頭的失控行為！,,"실제로 우리는 EDEN에서의 과도한 폭주행위를 억누르는 역할을
+alle persone di scatenarsi in EDEN!",事實上，我們也負責阻止EDEN內過頭的失控行為！,,"실제로 우리는 EDEN에서의 과도한 폭주행위를 억누르는 역할을
 맡고 있으니까!","In Wirklichkeit besteht unser Job darin,
 Leute davon abzuhalten, in EDEN Amok zu laufen!"
 80,3047,,"Dato che ora fai parte di noi, faresti meglio a non 
