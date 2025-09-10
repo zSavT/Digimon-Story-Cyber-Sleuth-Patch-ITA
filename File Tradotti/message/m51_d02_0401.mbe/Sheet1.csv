@@ -1,5 +1,6 @@
 ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
-1,2020,,(Benvenuto a Kowloon ... una parte trascurata di EDEN e il territorio degli hacker.),"（這裡就是Kowloon……
+1,2020,,"(Benvenuto a Kowloon ... una parte trascurata di EDEN
+e il territorio degli hacker.)","（這裡就是Kowloon……
 　駭客們聚集的EDEN廢棄領域）",,"이곳이 쿠롱…
 해커들이 모여드는 EDEN의 폐기 에어리어다","(Willkommen in Kowloon ... einem vernachlässigten
 Teil von EDEN und dem Revier der Hacker.)"
@@ -54,9 +55,11 @@ che ti stai preoccupando per il novellino?","小姐～妳真是溫柔啊！
 nicht, dass du dir wegen des Neulings
 Sorgen machst?"
 18,3045,,"... Non è così, lo sai anche tu.",……才不是那樣。,,……그런 의미가 아니라니까,"... So ist das nicht, das weißt du auch."
-19,3046,,Dovresti prepararti ai rischi. Sono sicuro di averlo già detto.,會有風險，這我已經說過了吧。,,이미 말했잖아. 위험은 이미 각오했다고,"Du solltest dich auf die Risiken einstellen. Ich
+19,3046,,"Dovresti prepararti ai rischi. Sono sicuro 
+di averlo già detto.",會有風險，這我已經說過了吧。,,이미 말했잖아. 위험은 이미 각오했다고,"Du solltest dich auf die Risiken einstellen. Ich
 bin sicher, das habe ich schon gesagt."
-20,3046,,Comunque sia... Dovremmo iniziare. Sapete tutti chi è l'obiettivo?,"……開始工作了。
+20,3046,,"Comunque sia... Dovremmo iniziare. 
+Sapete tutti chi è l'obiettivo?","……開始工作了。
 全員，都知道目標吧。",,"……작업을 시작하자.
 전원, 타깃은 이미 알고있겠지","Wie dem auch sei ... Wir sollten loslegen.
 Ihr wisst alle, wer das Ziel ist?"
@@ -76,18 +79,20 @@ Vogliono che 'sanzioniamo' Shiga.","客戶絕不放過在EDEN製造動亂的駭�
 Probleme machen ... Sie wollen, dass
 wir Shiga „sanktionieren“."
 25,2020,,?,？？,,??,?
-26,3047,,"In altre parole: Trovarlo, ridurlo in poltiglia ed eliminare il suo account!","就是找到他後，痛揍他一頓，
+26,3047,,"In altre parole: Trovarlo, ridurlo in poltiglia 
+ed eliminare il suo account!","就是找到他後，痛揍他一頓，
 破壞他的帳號的意思啦！",,"발견하는 대로 박살내서
 계정을 파괴하라는 의미라고!","Mit anderen Worten: Ihn finden, ihn zu Brei
 schlagen und seinen Account kaltmachen!"
-27,3047,,"Dobbiamo assicurarci che non possa mai più accedere a EDEN con questo account.
+27,3047,,"Dobbiamo assicurarci che non possa mai più 
+accedere a EDEN con questo account.
 Scacciarlo, per così dire, dal Paradiso...","讓他不能再用同個帳號登入EDEN。
 字面上的，從樂園流放的意思喔……",,"같은 계정으로 두 번 다시 EDEN에 로그인할 수 없게 말이지.
 사실상 낙원에서 추방… 이란 거지","Wir müssen sicherstellen, dass er sich in EDEN
 nie wieder mit diesem Account einloggen kann.
 Ihn sozusagen aus dem Paradies verjagen ..."
-28,3047,,"Finalmente il martello della giustizia costringerà questi hacker in
-stile Hudie a inginocchiarsi! Hihi! Non vedo l'ora!","做壞事的駭客，就由我們“hudie”
+28,3047,,"Finalmente il martello della giustizia costringerà questi 
+hacker in stile Hudie a inginocchiarsi! Hihi! Non vedo l'ora!","做壞事的駭客，就由我們“hudie”
 來下達正義的懲罰！
 嘿嘿嘿……這種工作真讓人興奮啊！",,"악질적인 해커에게는 
 우리들 ""후디에""가 정의의 철퇴를 내린다!
@@ -99,8 +104,8 @@ Hihi! Ich kann es gar nicht erwarten!"
 這是感覺的問題啦，感．覺。",,"아 정말, 알고 있다니까.
 기분 문제라구. 기분!","Na schön, ist ja gut! Ich bereite mich
 doch nur mental vor!"
-31,3046,,"Uno alla volta.
-Raccogliamo prima informazioni su Shiga dagli hacker a Kowloon. ... Chitose.","首先呢，是向Kowloon的駭客們
+31,3046,,"Uno alla volta. Raccogliamo prima informazioni 
+su Shiga dagli hacker a Kowloon. ... Chitose.","首先呢，是向Kowloon的駭客們
 收集志賀的情報……千歲。",,"일단은 쿠롱에 있는 해커들로부터 시가의 정보를 모아줘.
 ……치토세","Eins nach dem anderen. Sammeln wir erst mal
 bei den Hackern in Kowloon Informationen
@@ -122,7 +127,8 @@ vorübergehend hacken. Dazu muss es nur
 in seiner Nähe sein!"
 37,3047,,"Se trovi qualcuno di losco mentre rovisti nel torbido, provaci!",要是在傳聞中發現可疑的傢伙就試試看吧！,,탐문 중에 수상한 놈을 발견하면 사용해봐!,"Wenn du jemand Zwielichtigen findest, während
 du im Dreck wühlst, probier es aus!"
-38,3047,,"Sia qui che nel mondo reale, raccogliere informazioni è il mio mestiere.","不管是在現實世界還是在這裡，
+38,3047,,"Sia qui che nel mondo reale, raccogliere informazini
+fa parte del mio lavoro.","不管是在現實世界還是在這裡，
 蒐集情報可是本大爺的專長呢。",,"현실에서든 여기에서든
 정보수집은 내 특기분야거든","Sowohl hier als auch in der echten Welt ist das
 Sammeln von Informationen mein
@@ -131,7 +137,8 @@ Metier."
 我什麼都會告訴你啦！",,"네가 팀에 들어올 때가 되면
 뭐든지 가르쳐주지!","Da du neu im Team bist, werde ich dir alles
 zeigen, was du wissen musst!"
-40,3046,,Ricorda che questo è un test. Devi dimostrare quanto sei determinato.,"我再說一次，這是「測試」。
+40,3046,,"Ricorda che questo è un test. 
+Devi dimostrare quanto sei determinato.","我再說一次，這是「測試」。
 就讓我們好好見識一下你的「決心」吧。",,"…다시 한번 말해두겠지만 이건 ""테스트""다.
 네 ""각오"" …우리들에게 보여봐","Denk daran, dass dies ein Test ist. Du musst
 beweisen, wie entschlossen du bist."
