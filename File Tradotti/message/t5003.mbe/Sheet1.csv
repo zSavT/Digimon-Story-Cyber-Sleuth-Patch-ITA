@@ -1,7 +1,6 @@
 ﻿ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
-0,9111,,"Benvenuto! Quante ore vorresti...oh, sei
-tu... Il proprietario dice che i membri di
-Hudie possono entrare gratis.","歡迎光臨～請問要使用幾個小時呢～
+0,9111,,"Benvenuto! Quante ore vorresti... Oh...Ah... sei tu...
+Il proprietario dice che i membri di Hudie non devono pagare.","歡迎光臨～請問要使用幾個小時呢～
 ……啊、什麼嘛，是你啊～
 老闆跟我說過，“hudie”的人是免費的喔～",,"어서 오세요~ 몇 시간 이용하시나요~
 …아, 뭐야, 너구나~
@@ -20,9 +19,9 @@ sugli scaffali. Mi chiedo cosa possa essere?","但是，有時候書櫃上常常
 那個到底是什麼東西啊？",,"하지만 가끔은 책꽂이에 이상한 것이 꽂혀 있어.
 그거, 대체 뭘까?","Aber manchmal findet man etwas Seltsames im
 Regal. Ich frage mich, was es sein könnte?"
-3,9113,,"Adoro proprio un buon bar! Guarda solo questa
-selezione, come potrei non
-continuare a tornare?","我最喜歡自助飲料吧了，
+3,9113,,"Adoro le buone caffetterie!
+Guarda questa selezione!
+Come si fa a non tornarci?","我最喜歡自助飲料吧了，
 這裡的種類很豐富，常常跑來這裡喝呢。",,"나는 드링크 바가 정말 좋단다.
 여기는 종류가 풍부하니까, 자주 마시러 오지","Ich liebe gute Coffee-Shops! Schau dir mal diese
 Auswahl an! Wie kann man da nicht
@@ -32,18 +31,17 @@ tipo di malfunzionamento o qualcosa del genere?","但是，剛才機器有點怪
 是故障嗎……？",,"하지만 아까는 기계의 상태가 나빴던 것 같은데…?
 고장인 걸까…?","Aber in letzter Zeit spielt die Maschine verrückt.
 Ist das eine Fehlfunktion, oder was?"
-5,9114,,"Si sente un suono di colpi secchi provenire dalla stanza VIP
-a volte... Cosa sta succedendo lì dentro? Dovrei chiedere
-a quel famoso detective di Nakano di controllare?","裡頭的那間VIP ROOM時常會有什麼東西在敲
+5,9114,,"A volte dalla sala VIP proviene un forte martellare. Cosa sta succedendo?
+Devo consultare la famosa detective di Nakano?","裡頭的那間VIP ROOM時常會有什麼東西在敲
 的聲音……裡面發生什麼事了嗎……？好令人在意
 要不要請那傳說的中野偵探來調查看看……？",,"안쪽의 VIP 룸에서 가끔 뭔가를 치는 날카로운 소리가 나…
 안에서 뭔가 화내고 있는 걸까…? 신경 쓰여.
 소문의 나카노 탐정에게 의뢰해서, 조사해달라 해볼까…?","Manchmal kommt aus dem VIP-Raum ein lautes Pochen.
 Was ist da bloß los? Soll ich die berühmte
 Detektivin von Nakano zu Rate ziehen?"
-6,9115,,"Mi chiedo se le voci siano vere... Dicono che questo
-negozio sia il covo segreto di un team di hacker.
-Anche la sicurezza è stranamente solida su questi PC.","這家店，聽說好像變成了駭客隊伍的基地，
+6,9115,,"Mi chiedo se le voci siano vere... Si dice che il negozio sia il
+nascondiglio di un gruppo di hacker. Anche le misure di sicurezza dei
+PC sono buone.","這家店，聽說好像變成了駭客隊伍的基地，
 是真的嗎？裡頭的PC，防範措施也意外得
 嚴密啊……",,"이 가게, 해커 팀의 아지트라는 소문, 진짜일까?
 비치돼있는 PC의 보안도 묘하게 튼튼하지…","Ich frage mich, ob die Gerüchte stimmen ... Der
@@ -68,9 +66,9 @@ sugli scaffali. Mi chiedo cosa potrebbe essere?","但是，有時候書櫃上常
 那個到底是什麼東西啊？",,"하지만 가끔은 책꽂이에 이상한 것이 꽂혀 있어
 그거, 대체 뭘까?","Aber manchmal findet man etwas Seltsames im
 Regal. Ich frage mich, was es sein könnte?"
-103,9113,,"Adoro proprio i bei bar! Guarda solo questa
-selezione, come potrei non
-continuare a tornare?","我最喜歡自助飲料吧了，
+103,9113,,"Adoro le buone caffetterie!
+Guarda questa selezione!
+Come si fa a non tornarci?","我最喜歡自助飲料吧了，
 這裡的種類很豐富，常常跑來這裡喝呢。",,"나는 드링크 바가 정말 좋단다
 여기는 종류가 풍부하니까, 자주 마시러 오지","Ich liebe gute Coffee-Shops! Schau dir mal diese
 Auswahl an! Wie kann man da nicht

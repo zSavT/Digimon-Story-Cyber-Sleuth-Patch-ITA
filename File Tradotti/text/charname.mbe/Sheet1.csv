@@ -824,7 +824,7 @@
 4606,,Hacker Pantofolaio,愛看電視的駭客,,TV를 좋아하는 해커,Träge Hackerin
 4607,,Hacker Maternale,擔心母親的駭客,,자애로운 해커,Mütterlicher Hacker
 4608,,Hacker Taciturno,悶聲色狼駭客,,무뚝뚝한 해커,Schweigsame Hackerin
-4609,,Hacker attendista,觀望的駭客,,상황을 살피는 해커,Bedächtiger Hacker
+4609,,Hacker Prudente,觀望的駭客,,상황을 살피는 해커,Bedächtiger Hacker
 4610,,Hacker Imbronciato,愛抱怨的駭客,,푸념이 많은 해커,Grummeliger Hacker
 4611,,Hacker Timido,軟弱的駭客,,심약한 해커,Ängstliche Hackerin
 4612,,Hacker Intellettuale,充滿知性的駭客,,지적인 해커,Gebildeter Hacker
@@ -838,7 +838,7 @@
 4620,,Hacker Rinunciatario,輕易放棄的駭客,,포기가 빠른 해커,Nachgiebige Hackerin
 4621,,Hacker Zaxon sconfitto,放棄的Zaxon駭客,,포기한 잭슨 해커,Besiegter Zaxon-Hacker
 4622,,Hacker con le Lacrime,嚎啕大哭的駭客,,눈물로 지새운 해커,Verweinte Hackerin
-4700,,Uomo d'affari apatico,自暴自棄的上班族,,자포자기한 샐러리맨,Apathischer Unternehmer
+4700,,Uomo d'affari Apatico,自暴自棄的上班族,,자포자기한 샐러리맨,Apathischer Unternehmer
 4701,,Donna Nervosa,神經質的姊姊,,신경과민 누님,Nervöse Frau
 4702,,Studente Maleducato,無禮的男學生,,무례한 남학생,Unhöflicher Schüler
 4703,,Affascinante Hacker Zaxon,儀表堂堂的Zaxon駭客,,멋진 잭슨 해커,Hübscher Zaxon-Hacker
@@ -995,7 +995,7 @@
 4889,,Personale del Ristorante Cinese,中式餐廳店員,,중화요리 가게 점원,Chinarestaurant-Personal
 4890,,Personale del Ristorante di Sushi,壽司店店員,,초밥집 점원,Sushirestaurant-Personal
 4891,,Staff della Casa da Tè,輕食咖啡店店員,,경식찻집 점원,Teehaus-Personal
-4892,,Ragazza smarrita,困惑的女孩,,당황한 여자아이,Verblüfftes Mädchen
+4892,,Ragazza Smarrita,困惑的女孩,,당황한 여자아이,Verblüfftes Mädchen
 4893,,Appassionato di musica,音樂愛好者的男性,,음악애호가 남성,Musikliebhaber
 4894,,Hacker Spaccamacchina,不知分寸的駭客,,나쁜 장난을 치는 해커,Leichtsinniger Hacker
 4895,,Hacker Zaxon Secchione,書蟲Zaxon駭客,,독서가 잭슨 해커,Zaxon-Bücherwurm
@@ -1083,7 +1083,7 @@
 4977,,Costume Agumon Maschile,男主角服裝亞古獸,,아구몬 남주인공 맞춤 코스튬,Agumon (Männliches Kostüm)
 4978,,Costume Agumon Femminile,女主角服裝亞古獸,,아구몬 여주인공 맞춤 코스튬,Agumon (Weibliches Kostüm)
 4979,,Agumon Costume di Tai Kamiya.,八神太一服裝亞古獸,,아구몬 야가미 타이치 맞춤 코스튬,Agumon (Tai-Kamiya-Kostüm)
-4980,,Agumon Tower Records Ed.,淘兒唱片合作服裝亞古獸,Agumon Shibuya Records Ed.,아구몬 타워 레코드 콜라보,Agumon (Shibuya Records)
+4980,,Agumon Tower Records Ed.,淘兒唱片合作服裝亞古獸,Agumon Tower Records Ed.,아구몬 타워 레코드 콜라보,Agumon (Shibuya Records)
 5000,,Debug,除錯,,디버깅,Debug
 5001,,Server di posta,電子郵件伺服器,,메일 서버,Mailserver
 5002,,???,？？？,,？？？,???
@@ -1204,7 +1204,7 @@
 1781,,Sistermon Blanc,修女獸雪白,,시스터몬 블랑,Sistermon Blanc
 1782,,Sistermon B (Risvegliata.),修女獸B(覺醒),,시스터몬B(각성),Sistermon B (Erw.)
 1783,,Sistermon Ciel,修女獸漆黑,Sistermon Ciel,시스터몬 느와르,Sistermon Ciel
-1784,,Sistermon Ciel (Risvegliata.),修女獸N(覺醒),Sistermon C (Awake.),시스터몬N(각성),Sistermon C (Erw.)
+1784,,Sistermon Ciel (Risvegliata.),修女獸N(覺醒),Sistermon Ciel (Risvegliata.),시스터몬N(각성),Sistermon C (Erw.)
 1682,,Shoutmon,高吼獸,,샤우트몬,Shoutmon
 1683,,OmniShoutmon,奧米加咆哮獸,,오메가샤우트몬,OmniShoutmon
 1901,,Alphamon NX,阿爾法獸NX,,알파몬NX,Alphamon NX
@@ -1277,7 +1277,7 @@
 7043,,Kayaba,茅場,,카야바,Kayaba
 7044,,Signora di mezza età che cammina,中年女性行人,,통행인 중년여성,Passantin mittl. Alters
 7045,,Uomo di Mezza Età a Passeggio,中年男性行人,,통행인 중년남성,Passant mittl. Alters
-7046,,Ragazzo di bassa lega,不良少年,,질 나쁜 소년,Erbärmlicher Junge
+7046,,Ragazzo Povero,不良少年,,질 나쁜 소년,Erbärmlicher Junge
 7047,,Ragazzo che Fissa Accigliato,眼神兇惡的少年,,눈매가 나쁜 소년,Starrender Junge
 7048,,Hacker Cattivi,不良駭客們,,불량한 해커들,Böse Hacker-Typen
 7049,,Hacker Zaxon Cattivo,不良Zaxon駭客,,불량한 잭슨 해커,Böser Zaxon-Hacker
@@ -1386,10 +1386,10 @@
 7169,,Ciel,漆黑,Ciel,느와르,Ciel
 7170,,Voce Energica,有活力的聲音,,활기찬 목소리,Energetische Stimme
 7171,,Digimon Simili a Dinosauri,像恐龍的數碼寶貝,,공룡 같은 디지몬,Dinosaurierdigimon
-7172,,La Voce di Ciel,漆黑的聲音,Ciel's Voice,느와르의 목소리,Ciels Stimme
+7172,,La Voce di Ciel,漆黑的聲音,La Voce di Ciel,느와르의 목소리,Ciels Stimme
 7173,,Ciel & Blanc,漆黑＆雪白,Ciel & Blanc,느와르&블랑,Ciel & Blanc
 7174,,"Nokia, Agumon e Gabumon",諾奇雅＆亞古獸＆加布獸,,노키아&아구몬&파피몬,"Nokia, Agumon & Gabumon"
-7175,,Ciel (Risvegliata),漆黑(覺醒),Ciel (Awakened),느와르(각성),Ciel (Erwacht)
+7175,,Ciel (Risvegliata),漆黑(覺醒),Ciel (Risvegliata),느와르(각성),Ciel (Erwacht)
 7176,,Blanc (Risvegliata),雪白(覺醒),,블랑(각성),Blanc (Erwacht)
 7177,,Greymon & Garurumon,暴龍獸＆加魯魯獸,,그레이몬&가루몬,Greymon & Garurumon
 7178,,Ragazza pettegola,喜歡八卦的女孩,,소문을 좋아하는 여자아이,Schwatzendes Mädchen
@@ -1408,7 +1408,7 @@
 7191,,Amico Hacker Passante,路過駭客的同伴,,지나가던 해커의 동행자,Hackerin-Freundin
 7192,,Articolo del sito,網頁說明文,,사이트의 설명문,Webseiten-Artikel
 7193,,Commesso di Pasticceria,日式點心店店員,,화과자점의 점원,Konditorei-Angestellte
-7194,,Commesso della farmacia,藥店店員,,드러그스토어의 점원,Drogerie-Angestellte
+7194,,Commesso della Farmacia,藥店店員,,드러그스토어의 점원,Drogerie-Angestellte
 7195,,Tizio Energico,情緒激動的大叔,,텐션 높은 아저씨,Energiegeladener Typ
 7196,,Staff dell'Ufficio Metropolitano,新都廳員工,,신 도청 직원,ZV-Angestellter
 7197,,Digimon con Faccia da Teschio,骷髏臉的數碼寶貝,,해골 얼굴의 디지몬,Schädelgesicht-Digimon
@@ -1706,7 +1706,7 @@
 9096,,Regista,男性製片,,영화를 만든 남자,Filmemacher
 9097,,Donna Indecisa,猶豫點餐的女性,,뭘 주문할지 고민하는 여자,Unentschlossene Frau
 9098,,Studente Gamer,喜歡遊戲的男性,,게임을 좋아하는 남성,Schüler-Gamer
-9099,,Donna amante dei manga,喜歡漫畫的女性,,만화를 좋아하는 여자,Manga-Liebhaberin
+9099,,Donna amante dei Manga,喜歡漫畫的女性,,만화를 좋아하는 여자,Manga-Liebhaberin
 9100,,Maschio pettegolo,想被推文的男性,,좋아요를 받고 싶은 남자,Schwatzender Schüler
 9101,,Studentessa Innamorata,被迷到神魂顛倒的女學生,,매료된 여고생,Verliebte Schülerin
 9102,,Studentessa Adulatrice,害羞的女學生,,홀딱 반한 여고생,Schmeichelnde Schülerin
@@ -1719,8 +1719,8 @@
 9109,,Uomo d'affari alle prime armi,新人上班族,,신입사원 샐러리맨,Neuer Geschäftsmann
 9110,,Agente Serio,正經的警官,,성실한 경찰,Ernster Polizist
 9111,,Donna Part-Time,打工的女性,,아르바이트 여성,Weibliche Aushilfe
-9112,,Donna amante dei manga,喜歡漫畫的女性,,만화를 좋아하는 여성,Manga-Liebhaberin
-9113,,Normale,專精於自助飲料吧的老人,,드링크바 마니아 노인,Stammgast
+9112,,Donna amante dei Manga,喜歡漫畫的女性,,만화를 좋아하는 여성,Manga-Liebhaberin
+9113,,Cliente Abituale,專精於自助飲料吧的老人,,드링크바 마니아 노인,Stammgast
 9114,,Giovane Curioso,有點在意的青年,,호기심 많은 청년,Neugieriger Teenager
 9115,,Donna Nerd PC,對PC很熟悉的大姐姐,,PC에 정통한 누님,PC-Nerd
 9116,,Ragazzo Fanatico di Pesci,喜歡魚類的少年,,물고기를 좋아하는 소년,Fischliebhaber
@@ -1790,20 +1790,20 @@
 9180,,Hacker Demons Tremante,發抖的惡魔亂舞駭客,,떨고 있는 데몬즈 해커,Zitternder Demons-Hacker
 9181,,Hacker Demons Informatore,情報通的惡魔亂舞駭客,,정보통 데몬즈 해커,Demons-Hacker-Informant
 9182,,Hacker Demons Arrabbiato,焦躁不安的惡魔亂舞駭客,,초조해하는 데몬즈 해커,Genervter Demons-Hacker
-9183,,Mr. Navit - Tipo 01,NAVIT_type01,,내빗군_type01,Herr Navit – Typ 01
-9184,,Mr. Navit - Tipo 02,NAVIT_type02,,내빗군_type02,Herr Navit – Typ 02
-9185,,Mr. Navit - Tipo 03,NAVIT_type03,,내빗군_type03,Herr Navit – Typ 03
+9183,,Sig. Navit - Tipo 01,NAVIT_type01,,내빗군_type01,Herr Navit – Typ 01
+9184,,Sig. Navit - Tipo 02,NAVIT_type02,,내빗군_type02,Herr Navit – Typ 02
+9185,,Sig. Navit - Tipo 03,NAVIT_type03,,내빗군_type03,Herr Navit – Typ 03
 9186,,Sig. Navit - Tipo 04,NAVIT_type04,,내빗군_type04,Herr Navit – Typ 04
 9187,,Sig. Navit - Tipo 05,NAVIT_type05,,내빗군_type05,Herr Navit – Typ 05
 9188,,Sig. Navit - Tipo 06,NAVIT_type06,,내빗군_type06,Herr Navit – Typ 06
 9189,,Sig. Navit - Tipo 07,NAVIT_type07,,내빗군_type07,Herr Navit – Typ 07
 9190,,Sig. Navit - Tipo 08,NAVIT_type08,,내빗군_type08,Herr Navit – Typ 08
 9191,,Sig. Navit - Tipo 09,NAVIT_type09,,내빗군_type09,Herr Navit – Typ 09
-9192,,Mr. Navit - Tipo 10,NAVIT_type10,,내빗군_type10,Herr Navit – Typ 10
+9192,,Sig. Navit - Tipo 10,NAVIT_type10,,내빗군_type10,Herr Navit – Typ 10
 9193,,Sig. Navit - Tipo 11,NAVIT_type11,,내빗군_type11,Herr Navit – Typ 11
-9194,,Mr. Navit - Tipo 12,NAVIT_type12,,내빗군_type12,Herr Navit – Typ 12
-9195,,Signor Navit - Tipo 13,NAVIT_type13,,내빗군_type13,Herr Navit – Typ 13
-9196,,Mr. Navit - Tipo 14,NAVIT_type14,,내빗군_type14,Herr Navit – Typ 14
+9194,,Sig. Navit - Tipo 12,NAVIT_type12,,내빗군_type12,Herr Navit – Typ 12
+9195,,Sig. Navit - Tipo 13,NAVIT_type13,,내빗군_type13,Herr Navit – Typ 13
+9196,,Sig. Navit - Tipo 14,NAVIT_type14,,내빗군_type14,Herr Navit – Typ 14
 9197,,Sig. Navit - Tipo 15,NAVIT_type15,,내빗군_type15,Herr Navit – Typ 15
 9198,,Sig. Navit - Tipo 16,NAVIT_type16,,내빗군_type16,Herr Navit – Typ 16
 9199,,Sig. Navit - Tipo 17,NAVIT_type17,,내빗군_type17,Herr Navit – Typ 17
