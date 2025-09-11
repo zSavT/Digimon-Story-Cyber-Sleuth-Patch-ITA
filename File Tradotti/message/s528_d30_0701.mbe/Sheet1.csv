@@ -24,9 +24,8 @@ Niente di personale.","……沒想到會用這樣的方式和你們戰鬥，
 하지만 일은 일이다. 나쁘게 생각하지 마라","Ich hätte nie gedacht, dass ich mal gegen euch
 kämpfe. Aber es ist eben Arbeit. Nicht persönlich
 gemeint."
-14,3046,,"È come un'attività secondaria. A volte accetto casi
-diversi da quelli Hudie, giusto per assicurarmi di non
-perdere il filo.","這就是所謂的修行。
+14,3046,,"È come un'attività secondaria. A volte accetto casi diversi
+da quelli Hudie, giusto per assicurarmi di non perdere il filo.","這就是所謂的修行。
 為了不讓功力退步，我偶爾也會這樣
 接受hudie以外的委託。",,"무사수행 같은 거지.
 실력이 녹슬지 않도록 후디에의 의뢰 말고도
@@ -54,7 +53,8 @@ vederlo perdere.","因為我不想跟哥哥對戰嘛，
 오빠가 지는 걸 보고 싶지도 않고","Ich will nicht gegen meinen Bruder kämpfen. Ich
 will ihn nicht verlieren sehen."
 20,3047,,Quindi va bene se perdo?!,我輸就沒關係了嗎！？,,내가 지는 건 괜찮은 거냐!?,"Aber wenn ich verliere, macht das nichts?!"
-21,3047,,"Almeno ora abbiamo una possibilità che [p] sia tornato! Non vincerai questa volta, Ryuji!","但是[p]回來之後，就又有勝算了！
+21,3047,,"Almeno ora abbiamo una possibilità che [p] sia tornato!
+Non vincerai questa volta, Ryuji!","但是[p]回來之後，就又有勝算了！
 第三戰我們是不會輸的喔，龍司！ ",,"하지만, [p]도 돌아왔으니 아직 승기는 있어!
 세 번째 판은 지지 않겠다, 류지!","Mit [p] haben wir jetzt wenigstens eine
 Chance! Dieses Mal schaffst du es nicht, Ryuji! "
@@ -90,8 +90,8 @@ sbalorditivo!","嗯。
 今井千歲技巧性的戰鬥方式也很出色！！",,"응.
 이마이 치토세의 테크니컬한 전투 방식도 훌륭했지!!","Und Chitose Imais Kampfstil zeigte eine exquisite
 Technik!"
-31,7378,,"Capito. È stato esaltante! Mi ha ricordato il
-brivido che ho provato la prima volta che ho costruito un programma.","是的，看著心情也不禁激動了起來！
+31,7378,,"Capito. È stato esaltante! Mi ha ricordato il brivido
+che ho provato la prima volta che ho costruito un programma.","是的，看著心情也不禁激動了起來！
 讓我想起了第一次組程式時那種快樂的感覺……",,"예, 보고 있었더니 가슴이 두근거렸습니다!
 처음 프로그램을 짜던 시절의 즐거움을 떠올렸다고 할까…","Das war großartig! Es hat mich daran erinnert, wie
 spannend es war, zum ersten Mal ein Programm
@@ -100,8 +100,8 @@ zu schreiben."
 我好像變得有些奇怪。",,"……미안했다, 쿠라치.
 난 어떻게 돼버렸던 모양이야","Entschuldige, Kuraji. Ich weiß nicht, was ich mir
 bei der Sache gedacht habe."
-33,7378,,"Sei arrivato così lontano da quando sei andato a Inoden. Forse
-Mi sentivo come se fossi stato lasciato indietro.","妳去了井之電之後，好像變得越來越厲害了。
+33,7378,,"Sei arrivato così lontano da quando sei andato a Inoden.
+Forse Mi sentivo come se fossi stato lasciato indietro.","妳去了井之電之後，好像變得越來越厲害了。
 讓我覺得自己好像被妳拋在後頭的一樣……",,"이노덴에 간 네가 급속하게 실력이 오르는 걸 보고
 난 버려지고 말았다는 기분이 들어버린 건지도 몰라…","Du hast so viel geschafft, seit du auf Inoden
 gehst. Vielleicht fühlte ich mich abgehängt."
@@ -116,7 +116,8 @@ dürfen wir in der letzten Runde antreten?
 Ohne Schummelei, ich verspreche es."
 35,7374,,Shinonome...,東雲……,,시노노메 군……,Shinonome ...
 36,7374,,Non desidero altro!,嗯，當然好，我求之不得！,,"응, 물론. 바라는 바야!",Nichts wäre mir lieber!
-37,7374,,"Scusa, puoi cancellare il resto del mio caso? Forza, Shinonome! Il round finale sta per iniziare!","不好意思，我們的委託就到此為止！
+37,7374,,"Scusa, puoi cancellare il resto del mio caso?
+Forza, Shinonome! Il round finale sta per iniziare!","不好意思，我們的委託就到此為止！
 東雲，抓緊時間！　最後一戰要開始了喔！",,"죄송합니다. 저희들의 의뢰는 이걸로 충분합니다!
 서두르자, 시노노메 군! ","Entschuldigt, könnt ihr den Fall hier abbrechen?
 Komm schon, Shinonome! Die letzte Runde geht
@@ -135,8 +136,8 @@ gleich los!"
 Feierabend."
 45,3047,,Ma dai! Non ci credo!,……不行！！！！　不可以！！！！,,……아~니!!!! 그럴 수는 없지!!!!,Jetzt komm schon! Das geht doch so nicht!
 46,2020,,?!,！？,,!?,?!
-47,3047,,"Adesso sono super carico! Non possono lasciarci
-in sospeso così!","這樣我根本無法接受！
+47,3047,,"Adesso sono super carico!
+Non possono lasciarci in sospeso così!","這樣我根本無法接受！
 我一點也嚥不下這口氣！",,"이대로라면 불완전연소다!
 내 기분이 전혀 가라앉지 않는다고!","Ich bin ganz gespannt! Die können uns doch nicht
 einfach so stehenlassen!"
@@ -159,9 +160,8 @@ Lasst uns das klären!"
 只要千歲一個人忍耐就沒事啦。",,"응, 나도 찬성.
 치토세가 참으면 그만이야","Finde ich auch. Krieg dich wieder ein, Chitose."
 56,3047,,Bah! Volevo prendermi una rivincita...,哼，只有我一個人被揍不是很吃虧嗎……哼哼。,,"체엣, 나만 두들겨 맞고 손해 봤잖아…","Pfff, dabei wollte ich doch eine Revanche ..."
-57,3047,,"Però forse tre combattimenti di fila sono
-un po' troppi. Che ne dici se andiamo a vedere il resto
-della competizione?","但說實話，連續對戰也很累人啊……
+57,3047,,"Però forse tre combattimenti di fila sono un po' troppi.
+Che ne dici se andiamo a vedere il resto della competizione?","但說實話，連續對戰也很累人啊……
 還是默默的守護高中生們的火熱戰鬥吧……",,"뭐, 하지만 역시 연전은 힘겹지…
 이제 고교생들의 뜨거운 배틀을 지켜보도록 할까…","Aber drei Kämpfe in Folge sind vielleicht ein
 bisschen übertrieben. Schauen wir uns doch den

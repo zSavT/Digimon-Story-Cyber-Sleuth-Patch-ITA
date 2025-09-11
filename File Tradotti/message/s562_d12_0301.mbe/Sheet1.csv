@@ -30,8 +30,8 @@ Revier erklärt, also haben wir es uns genommen."
 我們才打算在這裡安穩地生活……",,"그래서 우리는 여기서
 조용히 살 생각이었는데……",Wir wollten hier nur in Frieden leben.
 12,1130,,Perché ti abbiamo attaccato?,你問為何我們要襲擊你？,,왜 습격했냐고?,Warum wir dich angegriffen haben?
-13,1404,,"Per proteggere il nostro territorio. Ovviamente non possiamo permettere
-intrusi.","當然是為了守護地盤。
+13,1404,,"Per proteggere il nostro territorio.
+Ovviamente non possiamo permettere intrusi.","當然是為了守護地盤。
 擊退侵入者是理所當然的吧。",,"그야 이 영역을 지키기 위해서지.
 침입자를 격퇴하는 건 당연한 거잖아","Um unser Revier zu schützen. Wir können
 natürlich keine Eindringlinge erlauben."
@@ -61,8 +61,7 @@ seccati con noi.","是嗎……這裡已經是人類的所有物了啊……
 wirklich wütend auf uns sein."
 20,1130,,"In quel caso, noi ce ne andiamo.",既然是這樣，我們會離開此地的。,,그런 거라면 우리는 여기를 떠날게,"Wenn das so ist, werden wir gehen."
 21,7232,,Non sarà necessario.,並不需要。,,그럴 것 없습니다,Das wird nicht nötig sein.
-22,1404,,"Parlerai con il proprietario? Lo apprezziamo,
-ma...","你要幫我們和這裡的館長商量嗎……？
+22,1404,,"Parlerai con il proprietario? Lo apprezziamo, ma...","你要幫我們和這裡的館長商量嗎……？
 雖然很感謝你……",,"여기 주인과 상의해주겠다고……?
 그건 고맙지만……","Du wirst mit dem Besitzer reden? Das wissen wir zu
 schätzen, aber ..."
@@ -83,7 +82,8 @@ beschränkt, könnt ihr bleiben."
 이 박물관의 경관과 어울리니까요",Zum Glück passt ihr zwei hier gut rein.
 29,1130,,...Grazie.,……感謝你。,,……감사합니다,... Danke.
 30,7232,,Figurati.,哪裡哪裡。,,아니요,Kein Ding.
-31,1404,,Però ci sentiamo in colpa a vivere semplicemente a casa tua. Ti abbiamo davvero creato dei problemi.,"但白白讓我們待在這裡，總覺得很抱歉。
+31,1404,,"Però ci sentiamo in colpa a vivere semplicemente a casa tua.
+Ti abbiamo davvero creato dei problemi.","但白白讓我們待在這裡，總覺得很抱歉。
 我們似乎給你添了不少麻煩。",,"하지만, 공짜로 있는 건 미안해.
 폐도 많이 끼쳤던 것 같고","Aber wir haben ein schlechtes Gewissen, dass wir
 bei dir unterkommen können. Wir haben dir solche
@@ -95,7 +95,8 @@ Umstände gemacht."
 34,7232,,Saresti disposto ad aiutare a riparare il museo?,那你們能幫忙這個博物館的修復工作嗎？,,"그렇다면, 이 박물관의 복구작업을
 도와주실 수 있으신가요?","Wärt ihr bereit, bei den Reparaturarbeiten am
 Museum zu helfen?"
-35,7232,,"Una volta che le riparazioni saranno avviate, questo posto dovrebbe diventare
+35,7232,,"Una volta che le riparazioni saranno avviate,
+questo posto dovrebbe diventare
 molto più confortevole per te.","只要修復完了，
 這裡應該會變得更舒適喔。",,"복구가 진행되면
 이곳도 더 살기 좋은 곳이 될 것 같습니다만","Wenn die Reparaturen erst mal begonnen haben,
@@ -111,7 +112,8 @@ sollte es hier für euch viel gemütlicher sein."
 생각지 못한 수확이 있었습니다",Jetzt habe ich sogar unerwartet Hilfe erhalten.
 41,7232,,Sono contento di averti scelto per questo lavoro.,哎呀，委託你真是對了。,,"이야, 당신에게 의뢰하길 잘했습니다","Ich bin froh, dich für den Job angeheuert zu
 haben."
-42,7232,,Ti chiamerò sicuramente se salta fuori qualcos'altro. Arrivederci per ora.,"如果還有事情的話，會再委託你的。
+42,7232,,"Ti chiamerò sicuramente se salta fuori qualcos'altro.
+Arrivederci per ora.","如果還有事情的話，會再委託你的。
 那麼我先告辭了。",,"또 무슨 일이 있다면 의뢰하겠습니다.
 그럼, 이만 실례하겠습니다","Ich werde mich auf jeden Fall melden, wenn ich
 wieder Hilfe brauche. Auf Wiedersehen."

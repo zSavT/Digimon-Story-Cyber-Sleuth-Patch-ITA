@@ -1,16 +1,15 @@
 ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
 1,3046,,Cosa sta succedendo?,這是，什麼啊。,,뭐냐 이건,Was ist denn hier los?
 2,3046,,Sono tutti fan di Natsume Keshikawa?,難道這些人，全都是芥子川夏目的粉絲嗎？,,설마 이 녀석들이 전부 케시카와 나츠메의 팬인가?,Sind das alles Fans von Natsume Keshikawa?
-3,3047,,"Sembra proprio così. La stanno fissando tutti
-come se fossero in trance.","好像是呢，
+3,3047,,"Sembra proprio così. La stanno fissando tutti come se fossero in
+trance.","好像是呢，
 每個人都如癡如醉的看著芥子川夏目。",,"그런가 보네.
 전원 케시카와 나츠메를 황홀하게 보고 있어","Sieht ganz so aus. Die starren sie alle an wie in
 Trance."
 4,3047,,È come se stessero sonnambulando.,"但是為什麼？　
 為什麼大家看起來都很像夢遊症患者？",,"그렇지만 왜지? 
 대체 어째서 전원이 몽유병 환자같은 상태가 된 거지?",Als ob sie schlafwandeln würden.
-5,7372,,"Hehehe... Non preoccuparti. Presto sarai proprio come
-loro.","呵呵呵……你放心吧。
+5,7372,,"Hehehe... Non preoccuparti. Presto sarai proprio come loro.","呵呵呵……你放心吧。
 你們很快也會變得跟他們一樣。",,"후후후…안심해.
 너희들도 곧 이렇게 될 테니까","Hihihi ... Keine Sorge. Ihr werdet schon bald
 genauso sein."
@@ -20,8 +19,7 @@ genauso sein."
 芥子川夏目喔，有什麼事嗎？",,"모두의 아이돌
 케시카와 나츠메인데 무슨 용건이라도?","Ich bin ihr Star, Natsume Keshikawa. Was wollt ihr
 denn hier?"
-9,7372,,"Sì, li ho invitati a restare qui e a contemplare me,
-e solo me.","對，沒錯。
+9,7372,,"Sì, li ho invitati a restare qui e a contemplare me, e solo me.","對，沒錯。
 是我招待大家過來的，
 讓大家來到這個可以一直注視著我的地方。",,"그래, 맞아.
 내가 모두를 초대한 거야.
@@ -30,8 +28,8 @@ anzuhimmeln, und zwar nur mich."
 10,3047,,È Toshio? Che gli succede?!,"在那裡的是……伊井俊夫？
 為什麼他會在那裡！？",,"저기 있는 건…이이 토시오?
 어째서 저런 꼴이 된 거지!?",Ist das Toshio? Was ist denn mit dem los?!
-11,7372,,"Oh, lui? È il mio fan più grande, quindi ha il posto
-migliore di tutti.","啊啊，你說那個人？　因為他是我的頭號大粉絲，
+11,7372,,"Oh, lui? È il mio fan più grande, quindi ha il posto migliore
+di tutti.","啊啊，你說那個人？　因為他是我的頭號大粉絲，
 所以才特別讓他在特等席做著美夢喔。",,"아아, 저 사람? 내 최고의 팬이니까
 최고의 특등석에서 꿈을 볼 수 있게 한 거야","Ach, der? Das ist mein größter Fan, also bekommt
 er auch den besten Platz."
@@ -99,7 +97,9 @@ fedeli a lungo.","粉絲們，才不會因為洗腦那種膚淺的東西
 따라올 리 없어","Gehirnwäsche ist künstlich erzwungen. Deine Fans
 werden dir nicht lange treu bleiben."
 31,3045,,Cantare non è come fare il lavaggio del cervello.,歌曲和洗腦才不一樣。,,노래는 세뇌 같은 게 아냐,Gesang ist überhaupt nicht wie Gehirnwäsche.
-32,3045,,Le canzoni possono toccare il cuore delle persone. Ma se una canzone risuona o meno con qualcuno dipende dall'individuo.,"所謂的歌曲，每個人聽到的感受都不同。
+32,3045,,"Le canzoni possono toccare il cuore delle persone.
+Ma se una canzone risuona o meno con qualcuno dipende
+dall'individuo.","所謂的歌曲，每個人聽到的感受都不同。
 而會不會產生共鳴，全看個人內心的觸動而定。",,"노래라는 것은 들은 사람 각각의 마음에 울리는 거야.
 거기에 공명할지 어떨지는 본인들의 마음의 형태로 결정돼","Mit Gesang kann man Herzen ergreifen. Aber ob ein
 Lied jemanden ergreift oder nicht, hängt von der
@@ -111,14 +111,13 @@ scegliere di diventare un fan.","妳覺得能打動萬人內心的歌曲，是�
 받아들이는 사람의 자유 의사가 있으니까 팬은 팬으로
 성립하는 거야","Das kann man nicht erzwingen. Der Zuhörer kann
 sich frei entscheiden, ein Fan zu werden."
-34,3045,,"Non puoi definire qualcuno un fan se gli hai derubato
-il suo libero arbitrio.","扼殺接受方意志，這樣得來的粉絲。
+34,3045,,"Non puoi definire qualcuno un fan se gli hai derubato il suo
+libero arbitrio.","扼殺接受方意志，這樣得來的粉絲。
 才不能稱做粉絲。",,"받아들이는 사람의 의지를 짓밟고 얻은 팬 같은 건
 팬이라고 부를 수 없어","Du kannst jemanden nicht als Fan bezeichnen, wenn
 du ihm den freien Willen geraubt hast."
 35,3045,,Ecco perché non sei un idol.,所以我才不承認妳是偶像。,,그러니까 나는 너를 아이돌같은 걸로 인정할 수 없어,Und deshalb bist du kein Star.
-36,1742,,"Grazie per la spiegazione, ma sono stufo di
-ascoltarti.","……謝謝妳教我這些，
+36,1742,,"Grazie per la spiegazione, ma sono stufo di ascoltarti.","……謝謝妳教我這些，
 但我聽膩妳的高談闊論了。",,"…가르쳐줘서 고마워.
 하지만 설교는 질렸어","Danke für die Erklärung, aber du langweilst
 mich."

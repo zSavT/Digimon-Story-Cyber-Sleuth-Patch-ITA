@@ -1,5 +1,6 @@
 ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
-1,7359,,"Ehi, Kenchan! Cosa sta succedendo? Perché hai portato questi sconosciuti qui?!","喂喂喂，小賢這是怎麼回事啊！
+1,7359,,"Ehi, Kenchan! Cosa sta succedendo?
+Perché hai portato questi sconosciuti qui?!","喂喂喂，小賢這是怎麼回事啊！
 為什麼帶不認識的人來啊！？",,"어이어이 켄짱, 이건 어떻게 된 거야!
 어째서 모르는 녀석을 데려왔지!?","He, Kenchan! Was ist denn los? Warum hast du die
 Fremden hergebracht?!"
@@ -7,7 +8,8 @@ Fremden hergebracht?!"
 這裡是只屬於我們的基地嗎！",,"여길 우리만의 장소로 삼자고
 다같이 정했잖아!","Das ist unser Plätzchen. Da waren wir uns doch
 einig!"
-3,1392,,Siamo hacker. Scusa per l'intrusione. Ce ne andremo non appena avremo finito qui.,"我們是駭客！
+3,1392,,"Siamo hacker. Scusa per l'intrusione.
+Ce ne andremo non appena avremo finito qui.","我們是駭客！
 抱歉嚇到你們了，我們工作結束就會離開這。",,"우리는 해커야!
 놀라게 해서 미안해, 용건을 마치면 곧바로 나갈테니까","Wir sind Hacker. Entschuldigt die Störung. Wir
 verschwinden, sobald wir hier fertig sind."
@@ -61,7 +63,8 @@ la versione del signor Akao e la situazione attuale?","請回憶一下，赤尾�
 들어맞지 않는 부분이 있잖아","Denk mal nach. Ist da nicht ein Unterschied
 zwischen Akaos Beschreibung und der aktuellen
 Situation?"
-17,3045,,"Vedi, li mostra mentre giocano, proprio come ha detto il signor Akao.","請看這個。
+17,3045,,"Vedi, li mostra mentre giocano,
+proprio come ha detto il signor Akao.","請看這個。
 這是赤尾先生說的，平常一起玩的夥伴──",,"자, 이걸 봐.
 아카오 씨가 말한 항상 같이 놀던 친구들――","Schau, wir sehen sie spielen, wie er sagte."
 18,3045,,Ma guarda attentamente. Noti qualcosa di insolito?,"但是，仔細看好。
@@ -83,7 +86,8 @@ altri otto sono attorno a me...huh?","不對不對，我是蹲在裡面。
 在我身邊，有八人圍著……嗯？",,"아니아니, 한가운데에서 웅크리고 있는 게 나야.
 내 주위를 8명의 친구들이 둘러싸고……응?","Bin ich wohl. Ich hocke in der Mitte. Die anderen
 acht sind um mich herum ... Huch?"
-22,1392,,Ci sono nove persone intorno a te. Quindi dieci persone in totale!,"在你身邊有九個人！
+22,1392,,"Ci sono nove persone intorno a te.
+Quindi dieci persone in totale!","在你身邊有九個人！
 連大叔你，總共有十個人！",,"주위에 있는 건 9명이야!
 아저씨를 포함하면 10명이 있어!","Neun Leute umgeben dich, also insgesamt zehn!"
 23,7350,,"È impossibile! Yocchin, Gomahei, Satomin,
@@ -198,10 +202,12 @@ tornare alla normalità.","沒問題的，不會影響到你們的身體。
 바로 되돌릴게","Keine Sorge, das schadet niemandem. Ich mache sie
 wieder normal."
 63,1392,,L'hai fatto prima?,艾莉卡，這是剛才也發生過的……？,,"에리카, 이거 아까도 했었어……?",Warst du das?
-64,3045,,Sì. L'ho fatto per rendere più facili da vedere le distorsioni sui vostri avatar.,對，我把大家化身的異常弄得更清晰可見了。,,"그래. 모두의 아바타에 일어난 이변을
+64,3045,,"Sì. L'ho fatto per rendere più facili da
+vedere le distorsioni sui vostri avatar.",對，我把大家化身的異常弄得更清晰可見了。,,"그래. 모두의 아바타에 일어난 이변을
 좀 더 알기 쉽게 가시화해봤어","Ja. Ich habe damit die Bildstörungen an den
 Avataren sichtbarer gemacht."
-65,3045,,"Il rumore che hai appena visto sono le parti false sui vostri corpi, copie delle parti da bambino che usavate per creare i vostri avatar.","剛才的雜訊，是大家身體上的“假貨”的部份……
+65,3045,,"Il rumore che hai appena visto sono le parti false sui vostri corpi,
+copie delle parti da bambino che usavate per creare i vostri avatar.","剛才的雜訊，是大家身體上的“假貨”的部份……
 也就是大家原本使用的兒童用零件的複製品。",,"방금 노이즈는 모두의 신체에 있는 ""위조"" 파츠 부분……
 원래 모두가 사용하고 있던 
 어린아이용 파츠의 복제품이라고 해야겠지","Die Bildstörungen waren die gefälschten Körperteile.
@@ -219,7 +225,8 @@ Avatar gebastelt."
 68,3045,,Poi ha sostituito quelle parti con delle copie.,"而大家身上被拿走的地方，
 就用做得很像的複製零件補上去。",,"모두에게서 떼어간 파츠와 비슷한
 복제 파츠를 대신 넣어두고 말이지",Dann hat er diese Teile durch Kopien ersetzt.
-69,1392,,"Capisco. Poiché ha creato l'avatar da parti familiari, l'abbiamo scambiato per uno di noi.","原來如此，因為是用看習慣的零件做的，
+69,1392,,"Capisco. Poiché ha creato l'avatar da parti familiari,
+l'abbiamo scambiato per uno di noi.","原來如此，因為是用看習慣的零件做的，
 就算看到他，也會誤以為是夥伴的其他人吧。",,"그렇구나, 항상 보던 친구들의 파츠로 만들어졌으니
 그걸 보고 동료 중 누군가라고 착각해버린 거구나","Verstehe. Weil der Avatar aus vertrauten
 Teilen bestand, habt ihr ihn für einen von euch
@@ -270,7 +277,8 @@ für einen von euch halten."
 78,3045,,Ecco cosa è successo.,就是這麼回事。,,그렇게 된 거야,So ist das passiert.
 79,3045,,Sei molto silenzioso. Stai capendo?,你……都沒說話，還跟得上嗎？,,"너는……저기, 침묵하고 있는데 따라오고 있어?",Du sagst kaum was. Kommst du noch mit?
 80,3045,,Sei sicuro? Vediamo.,那麼，就差不多該揭露答案了。,,그러면 슬슬 답을 맞춰볼까,Bist du dir sicher? Schauen wir mal.
-81,3045,,"Se applico del rumore alle parti copiate dell'avatar, sai dirmi chi è l'impostore?","只要讓大家的化身零件出現雜訊就能知道了吧？
+81,3045,,"Se applico del rumore alle parti copiate dell'avatar,
+sai dirmi chi è l'impostore?","只要讓大家的化身零件出現雜訊就能知道了吧？
 第十個人到底是誰。",,"이 사람들의 복제된 아바타 파츠에 노이즈가 있으니
 알아보겠지? 10명째가 누구인지","Wenn ich Bildstörungen auf die kopierten
 Avatarteile anwende, kannst du mir dann sagen,
@@ -318,7 +326,8 @@ frage."
 96,1081,,Ahahahahaha! Ben fatto!,"啊哈哈哈哈哈哈哈哈！！
 真虧妳能看穿我！",,"아하하하하하하하하!!
 잘도 간파했군!",Hahahahaha! Gute Arbeit!
-97,1081,,Ora rubo qualche componente diverso e cambio di nuovo il mio travestimento!,"那我就再偷一次這裡所有人的身體部位，
+97,1081,,"Ora rubo qualche componente diverso e
+cambio di nuovo il mio travestimento!","那我就再偷一次這裡所有人的身體部位，
 重組身體吧！",,"그럼 다음엔 여기 있는 전원의 파츠를
 전부 섞어버릴까!","Jetzt muss ich andere Teile stehlen und meine
 Tarnung wieder ändern!"

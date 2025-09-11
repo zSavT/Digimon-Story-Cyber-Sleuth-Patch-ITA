@@ -8,11 +8,13 @@ kontaktieren und um genauere Infos bitten.)"
 2,7341,,Sei di Hudie? Sono io il cliente.,"你是hudie的人吧。
 我就是委託人。",,"후디에 쪽 분이시죠.
 제가 의뢰인입니다.",Gehörst du zu Hudie? Ich bin der Klient.
-3,7341,,"Ultimamente ci sono state molte interruzioni di corrente in città, come sicuramente saprai.","我想你們駭客應該也知道，
+3,7341,,"Ultimamente ci sono state molte interruzioni di corrente in città,
+come sicuramente saprai.","我想你們駭客應該也知道，
 最近街上頻繁地發生了停電。",,"요즘 거리에 정전이 빈발하고 있는 건
 당신들 해커도 알고 계시겠죠","In der Stadt gab es in letzter Zeit viele
 Stromausfälle, wie du sicher weißt."
-4,7341,,"Ho scoperto un malfunzionamento nel server della Centrale Elettrica e ho inviato delle persone a indagare, ma qualcosa li ha fermati.","我們認為是發電廠伺服器出現異常，
+4,7341,,"Ho scoperto un malfunzionamento nel server della Centrale Elettrica e
+ho inviato delle persone a indagare, ma qualcosa li ha fermati.","我們認為是發電廠伺服器出現異常，
 所以打算派職員前往調查，
 卻被不知名人士阻礙了。",,"당사에서는 발전소 서버에 이상이 있다고 보고
 직원을 보내 조사하려고 하는데
@@ -63,21 +65,20 @@ blackout è una grave minaccia alla nostra reputazione.","是嗎，你願意接�
 die Stromausfälle zu beenden, ist unser Ruf
 ernsthaft in Gefahr."
 12,7341,,"Questo caso è strettamente non ufficiale. Per favore, mantieni la tua
-indagine segreta e assicurati che nessuna
-informazione trapeli al pubblico.","還有，這是一個非公開的委託。
+indagine segreta e assicurati che nessuna informazione trapeli al
+pubblico.","還有，這是一個非公開的委託。
 關於調查的事，希望別洩漏了資訊。
 請你秘密進行。",,"또한, 이건 어디까지나 비공식적인 의뢰입니다.
 조사에 대해 외부에 정보를 누설하지 않도록
 어디까지나 비밀리에 부탁드립니다","Dieser Fall ist ganz inoffiziell. Bitte halte die
 Ermittlung geheim und lass keine Informationen
 an die Öffentlichkeit kommen."
-13,7341,,"Naturalmente sarai ricompensato per questo
-requisito aggiuntivo.","當然，報酬也會因此提高的。
+13,7341,,"Naturalmente sarai ricompensato per questo requisito aggiuntivo.","當然，報酬也會因此提高的。
 萬事拜託了。",,"물론 그만큼 보수는 올려드릴 테니
 잘 부탁드려요","Für diesen zusätzlichen Aspekt wirst du natürlich
 kompensiert."
-14,2020,,"(La centrale elettrica... Mi chiedo se l'operazione di Arata
-c'entri qualcosa?)",（發電廠……是和新他們的作戰影響到了嗎？）,,"(발전소……아라타 일행과의 작전때문에 
+14,2020,,"(La centrale elettrica...
+Mi chiedo se l'operazione di Arata c'entri qualcosa?)",（發電廠……是和新他們的作戰影響到了嗎？）,,"(발전소……아라타 일행과의 작전때문에 
  영향을 받은 걸까?)","(Das Kraftwerk ... Ich frage mich, ob Aratas Plan
 etwas damit zu tun hat?)"
 15,2020,,"(Qualunque cosa sia, devo indagare sulla causa.

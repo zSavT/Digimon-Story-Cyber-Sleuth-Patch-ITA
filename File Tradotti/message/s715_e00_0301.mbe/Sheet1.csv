@@ -2,12 +2,14 @@ ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
 1,1359,,Ti devo dire una cosa. Ehm...,"駭客先生，今天有些事必須跟你坦白。
 那個呀……",,"해커 씨, 오늘은 네게 털어놓고 싶은 게 있어.
 그게 말야……","Es gibt etwas, was ich dir sagen will. Ähm ..."
-2,1359,,"Grazie al tuo aiuto, ho finito il mio sondaggio tra gli umani, e adesso devo tornare sul mio pianeta!","因為你的協助，人類的調查已經結束了。
+2,1359,,"Grazie al tuo aiuto, ho finito il mio sondaggio tra gli umani,
+e adesso devo tornare sul mio pianeta!","因為你的協助，人類的調查已經結束了。
 我已經得回去星球上了！",,"네 협력 덕에 인간 조사는 끝났어.
 난 이제 우리 별로 돌아가야 해!","Dank deiner Hilfe habe ich meine Umfrage unter
 Menschen beendet, und jetzt muss ich zurück auf
 meinen Planeten!"
-3,1359,,Ho studiato gli umani perché la mia gente vuole conquistare questo pianeta.,"我之所以會調查人類，
+3,1359,,"Ho studiato gli umani perché la mia gente vuole conquistare questo
+pianeta.","我之所以會調查人類，
 是因為這星球是我們預定征服的地方。",,"내가 인간을 조사했던 건 말야.
 이 별이 우리의 정복 예정지라서 그랬던 거야","Ich habe Menschen studiert, weil mein Volk diesen
 Planeten erobern will."
@@ -26,7 +28,8 @@ Besser gesagt aus einer anderen Dimension!"
 咦？　早就發現了？",,"……라는 건 물론 농담이지만……
 어? 이미 눈치챘다고?","Das war natürlich nur ein Witz. Was? Was meinst
 du damit, das wüsstest du schon?"
-7,1359,,"Pensavo di raccontarti una barzelletta, così che tu ti diverta in mia compagnia...","那個呀，我想成為有辦法開玩笑的
+7,1359,,"Pensavo di raccontarti una barzelletta,
+così che tu ti diverta in mia compagnia...","那個呀，我想成為有辦法開玩笑的
 「在一起會很開心的女生」。
 我想朝這目標邁進～……是這麼想的……",,"저기 말야, 난
 농담도 할 수 있는 「함께 있으면 즐거운 여자애」라는 걸
@@ -53,7 +56,9 @@ Medizin!"
 說不定讓我學到一課了。",,"……그렇구나, 농담은 이렇게 하면 되는구나.
 공부가 됐을지도","So fühlen Witze sich also an. Das war eine neue
 Erfahrung."
-13,1359,,"Immagino tu abbia ragione. Mi è piaciuto così tanto farti delle domande, che non ho detto proprio niente su di me.","……好像真的是那樣沒錯呢。
+13,1359,,"Immagino tu abbia ragione.
+Mi è piaciuto così tanto farti delle domande,
+che non ho detto proprio niente su di me.","……好像真的是那樣沒錯呢。
 我只顧著聽你說話，
 還都沒有說過自己的事情。",,"……그러고 보니 그럴지도.
 난 네 얘길 즐기기만 하고
@@ -61,14 +66,16 @@ Erfahrung."
 Spaß gemacht, dir Fragen zu stellen, dass ich gar
 nichts über mich gesagt habe."
 14,1359,,"Mi ascolteresti se ti raccontassi di me?
-Come sono cresciuto, cosa mi piace... cose così. Voglio che tu sappia queste cose.","駭客先生，這次你願意聽聽看我的話嗎？
+Come sono cresciuto, cosa mi piace... cose così.
+Voglio che tu sappia queste cose.","駭客先生，這次你願意聽聽看我的話嗎？
 我是如何被培育長大，喜歡什麼樣的東西……
 我希望你能知道喔。",,"해커 씨, 다음엔 내 얘기도 들어줄래?
 내가 어떻게 자라왔고 뭘 좋아하는지……
 네가 알아줬음 좋겠어","Wirst du zuhören, wenn ich dir von mir erzähle?
 Wie ich aufgewachsen bin, was mir gefällt ... so
 etwas. Ich will, dass du solche Sachen weißt."
-15,1359,,"Hehe, lo possiamo fare quando avremo un po' di tempo. Ci penserò su, a tutto quello che voglio raccontare.","呵呵，之後有時間的時候再慢慢跟你說！
+15,1359,,"Hehe, lo possiamo fare quando avremo un po' di tempo.
+Ci penserò su, a tutto quello che voglio raccontare.","呵呵，之後有時間的時候再慢慢跟你說！
 在這之前，我會先把想說的話，好好的
 先思考過一遍的！",,"후후, 시간이 있을 때 천천히 말야!
 그때까지 수다 떨고 싶은 거 잔뜩 생각해둘게!","Hehe, das können wir machen, wenn wir mal Zeit
@@ -92,7 +99,8 @@ kannst du es brauchen."
 알고 싶어?","Willst du den wahren Grund dafür erfahren, dass
 ich Menschen untersuche?"
 21,1359,,"Beh... Hehe, questo è un segreto!",那個呀…………呵呵，果然還是秘密！,,"그게 말야…………후후, 역시 비밀!","Tja ... Hehe, das ist ein Geheimnis!"
-22,1359,,"Dai, indovina un po'! Un hacker geniale come te dovrebbe capire al volo cosa succede nel cuore di un Digimon!","你猜猜看吧，駭客先生！因為你是
+22,1359,,"Dai, indovina un po'! Un hacker geniale come te dovrebbe capire al
+volo cosa succede nel cuore di un Digimon!","你猜猜看吧，駭客先生！因為你是
 優秀的駭客，數碼寶貝的心，你就
 試著讀看看吧！",,"맞춰봐, 해커 씨! 우수한 해커니까
 디지몬의 마음쯤이야 읽어내보라구!","Rate doch mal! Ein genialer Hacker wie du sollte

@@ -1,7 +1,6 @@
 ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
 1,3047,,Un caso dal Detective Matayoshi?,你說是又吉先生發的委託？,,마타요시 씨의 의뢰라고?,Ein Fall von Kommissar Matayoshi?
-2,3046,,"Sì. E sembra che qualcuno abbia finalmente perso la
-testa.",沒錯，看來終於發瘋了啊。,,"그래. 아무래도 결국
+2,3046,,"Sì. E sembra che qualcuno abbia finalmente perso la testa.",沒錯，看來終於發瘋了啊。,,"그래. 아무래도 결국
 이상해지고 만 모양이야","Ja. Und sieht ganz so aus, als wäre jemand endlich
 durchgedreht."
 3,2020,,"Chi?
@@ -12,11 +11,13 @@ Chitose?"
 4,3046,,Vedrai.,那就是……,,누가라니 그야 뭐…,Du wirst schon sehen.
 5,3047,,"Ehi, stai cercando di provocarmi?",你是想吵架嗎？,,"너, 나한테 시비거는 거야?","He, willst du dich mit mir anlegen?"
 6,3045,,Guarda questa foto.,看這張照片。,,이 사진을 봐,Sieh dir dieses Foto an.
-7,3047,,"Cos'è quello? Hahaha, sembrano così stupidi. Che problemi hanno con quelle pose strane?","這什麼？　啊哈哈，這群傢伙是笨蛋嗎。
+7,3047,,"Cos'è quello? Hahaha, sembrano così stupidi.
+Che problemi hanno con quelle pose strane?","這什麼？　啊哈哈，這群傢伙是笨蛋嗎。
 全員都穿著奇怪的衣服，還擺出奇怪的姿勢耶。",,"뭐야 이거? 아하하, 바보아냐? 이 녀석들.
 다같이 이상한 꼴로 이상한 포즈를 하고 있네","Was ist das denn? Haha, wie dämlich die aussehen.
 Was sollen denn die komischen Posen?"
-8,3045,,"Potranno anche sembrare stupidi, ma zoomiamo e diamo un'occhiata più da vicino.","為了讓你搞清楚誰才是笨蛋，
+8,3045,,"Potranno anche sembrare stupidi, ma zoomiamo
+e diamo un'occhiata più da vicino.","為了讓你搞清楚誰才是笨蛋，
 我放大一下喔。",,"바보인지 어떤지는 둘째치고
 조금 줌해볼게","Die sehen dämlich aus, aber zoomen wir doch mal
 heran und schauen genauer hin."
@@ -38,12 +39,12 @@ ich sein! So etwas würde ich doch nicht machen!"
 Hudie betroffen."
 16,3007,,Chitose ha appena aiutato a confermarlo.,多虧千歲才能確認。,,치토세 덕분에 확인됐다,Chitose hat uns das gerade bestätigt.
 17,3007,,Questo è un incidente di hacking su larga scala.,這下子，果然是大規模的入侵事件啊。,,이건 역시 대규모 해킹 사건이란 결론이 나오는군,Das ist eine groß angelegte Hacking-Aktion.
-18,3047,,"Non so cosa stia succedendo, ma sono contento di essere d'aiuto. Ehehehe.","雖然搞不太清楚，但好像幫上忙了，我好高興喔。
+18,3047,,"Non so cosa stia succedendo, ma sono contento di essere d'aiuto.
+Ehehehe.","雖然搞不太清楚，但好像幫上忙了，我好高興喔。
 嘿嘿嘿。",,"영문은 모르겠지만 도움이 되었다니 기쁘네요.
 에헤헤","Ich habe keine Ahnung, was los ist, freue mich
 aber, behilflich zu sein. Hehehe."
-19,3007,,"Sei incredibile! Che vergogna per un hacker essere
-hackerato!","大笨蛋！
+19,3007,,"Sei incredibile! Che vergogna per un hacker essere hackerato!","大笨蛋！
 駭客還被人入侵，也太丟臉了吧！",,"멍청아!
 해커가 해킹을 당해선 꼴이 말이 아니잖아!","Ist es denn zu fassen! Es sollte dir peinlich
 sein, als Hacker gehackt zu werden!"
@@ -53,8 +54,8 @@ sein, als Hacker gehackt zu werden!"
 21,3047,,Non sappiamo con certezza se sia andata così.,還不能確定我是被入侵了吧？,,아직 제가 해킹당했다고 결론이 난 건 아니잖아요?,"Wir wissen nicht mit Sicherheit,
 dass das wirklich passiert ist."
 22,3046,,Dove hai preso questa immagine?,這照片的出處是哪裡呢？,,이 영상의 출처는 어딥니까?,Wo haben Sie denn das Bild her?
-23,3007,,"Era tra alcuni dati che abbiamo confiscato a un utente di EDEN
-che abbiamo arrestato in relazione a qualcos'altro.","這照片，是別件案子所逮捕的EDEN使用者，
+23,3007,,"Era tra alcuni dati che abbiamo confiscato a un utente di
+EDEN che abbiamo arrestato in relazione a qualcos'altro.","這照片，是別件案子所逮捕的EDEN使用者，
 從他身上沒收的資料裡找到的。",,"이 영상은 다른 사건으로 체포된 EDEN 유저로부터
 압수한 데이터 속에 있던 영상이다","Es war unter den Daten, die wir von einem
 EDEN-Nutzer konfisziert haben, der für etwas
@@ -101,8 +102,8 @@ verbunden bin."
 non se lo ricordino?",會不會是睡昏頭忘記了？,,잠결이라 기억하지 못하는 건 아닌가?,"Könnte es sein, dass sie nur halb geschlafen
 haben und sich nicht mehr erinnern?"
 33,3007,,"Questo è possibile per alcuni di loro, ma non per ognuno.",那也不可能全員都不記得吧。,,그렇다고 전원이 다 기억하지 못할 리는 없겠지,"Bei manchen ist das möglich, aber nicht allen."
-34,3007,,"E alcuni di loro indossavano quelle diavolerie di monitoraggio della salute
-che misurano il battito cardiaco e cose del genere.","而且，其中也有幾人有裝活動量計？
+34,3007,,"E alcuni di loro indossavano quelle diavolerie di monitoraggio della
+salute che misurano il battito cardiaco e cose del genere.","而且，其中也有幾人有裝活動量計？
 就是那個可以測量脈搏跟其他什麼數值
 來顯示健康狀態的機器啦。",,"게다가 녀석들 중 몇 명은 활동계량이라고 하던가?
 심박인지 뭔지를 계측해서 건강 상태를 모니터하는 기계를
@@ -115,12 +116,11 @@ stessero facendo questa danza ridicola.","根據那機器，證明了他們在�
 분명히 숙면 중이었다는 것이 증명되었다","Diese Daten beweisen, dass sie zu der Zeit, in der
 sie angeblich diesen albernen Tanz aufgeführt
 haben, fest geschlafen haben."
-36,3046,,"Informazioni sul tracker di attività? Anche i Digivice ne sono
-dotati.","原來是這樣，活動記錄器的資訊啊。
+36,3046,,"Informazioni sul tracker di attività? Anche i Digivice ne sono dotati.","原來是這樣，活動記錄器的資訊啊。
 這麼說來，Digivice也有這功能。",,"과연, 액티브 트래커 정보인가.
 그러고보니 디지바이스에 달려있었지",Trackerdaten? Digivices haben so etwas auch.
-37,3007,,"In breve, questo è un grave incidente di hacking. Un
-gran numero di account EDEN sono stati violati.","也就是說，這是相當大規模的入侵事件。
+37,3007,,"In breve, questo è un grave incidente di hacking.
+Un gran numero di account EDEN sono stati violati.","也就是說，這是相當大規模的入侵事件。
 有人入侵了大量的EDEN帳號。",,"말하자면 이건 상당히 대규모의 해킹 사건이라는 것이 되지.
 EDEN의 계정을 대량으로 해킹한 녀석이 있는 거다","Kurz gesagt ist das ein größerer Hacking-Vorfall.
 Eine große Anzahl EDEN-Konten wurde gehackt."
@@ -136,17 +136,19 @@ quelli che non rispondevano.","為了不被本人發現，在半夜裡
 Avatare wohl spät nachts angesprochen und sich
 die geschnappt, die nicht geantwortet haben."
 40,3045,,Ma perché fargli fare un ballo così imbarazzante?,然後，讓他們跳這很丟臉的舞嗎？,,그리고 이런 식으로 부끄러운 춤을 추게 했다?,Aber was soll denn der peinliche Tanz?
-41,3046,,"Aspetta. Quindi hanno hackerato un sacco di account, ma tutto quello che hanno fatto è stato organizzare una strana festa da ballo?","……請等一下。
+41,3046,,"Aspetta. Quindi hanno hackerato un sacco di account,
+ma tutto quello che hanno fatto è stato organizzare
+una strana festa da ballo?","……請等一下。
 入侵了這麼大量的帳號，
 卻只讓他們做這種奇怪的跳舞大會？",,"…잠깐 기다려.
 이 정도로 대량의 계정을 해킹해서
 한다는게 괴상한 댄스 파티?","Moment. Derjenige hat also eine Menge Konten
 gehackt, hatte es aber nur auf diese komische
 Tanzveranstaltung abgesehen?"
-42,3046,,"Non sembra che le vittime abbiano molto di
-cui preoccuparsi.",這樣也沒對被害者造成任何麻煩吧？,,피해자들은 전혀 곤란할 게 없잖아,"Dann brauchen sich die Opfer ja wohl keine
+42,3046,,"Non sembra che le vittime abbiano molto di cui preoccuparsi.",這樣也沒對被害者造成任何麻煩吧？,,피해자들은 전혀 곤란할 게 없잖아,"Dann brauchen sich die Opfer ja wohl keine
 weiteren Sorgen machen."
-43,3047,,Certo che sì! Sono dannatamente preoccupato! Mi hanno fatto fare la figura dello stupido!,"不對，很麻煩啊！　我超困擾的！
+43,3047,,"Certo che sì! Sono dannatamente preoccupato!
+Mi hanno fatto fare la figura dello stupido!","不對，很麻煩啊！　我超困擾的！
 居然讓我打扮得這麼丟臉！",,"아니 곤란해! 나는 초 곤란해!
 이렇게 부끄러운 꼴로 만들다니!","Das müssen sie wohl! Ich mache mir sogar ziemliche
 Sorgen! Der lässt mich wie einen Trottel
@@ -193,8 +195,7 @@ serio.","明明用了很厲害的技術來入侵帳號，
 Techniken gehackt, aber es gibt keine Anzeichen
 von ernsthaftem Missbrauch."
 53,3007,,"Tutto quello che hanno fatto finora è far fare alle persone una stupida
-danza. Il responsabile deve essere una specie di
-burlone.","要說做了什麼，也只有跳這很呆的舞蹈。
+danza. Il responsabile deve essere una specie di burlone.","要說做了什麼，也只有跳這很呆的舞蹈。
 犯人可能很愛惡作劇，或者是個笨蛋吧。",,"한 짓이라곤 그저 멍청한 춤을 추게 한 정도지.
 범인은 어지간히 장난을 좋아하거나 그냥 바보거나","Bisher wurden Leute nur dazu gebracht, einen
 dummen Tanz aufzuführen. Der Täter ist wohl ein
@@ -207,9 +208,8 @@ Schlimmes im Schilde führt."
 그걸 위한 실험이 아닐까요","Diese kleinen Tricks sind vermutlich nur ein
 Versuchslauf."
 57,3007,,Le grandi menti la pensano allo stesso modo. Sospetto la stessa cosa.,不愧是龍司，我也是這麼想的。,,역시 류지로군. 나도 그렇게 생각한다,Große Denker. Ich habe eine ähnliche Vermutung.
-58,3007,,"Finora siamo a conoscenza di circa 100 account che sono
-stati compromessi, ma sicuramente è solo la punta
-dell'iceberg.","目前知道被操縱的帳號只有約百人的程度，
+58,3007,,"Finora siamo a conoscenza di circa 100 account che sono stati
+compromessi, ma sicuramente è solo la punta dell'iceberg.","目前知道被操縱的帳號只有約百人的程度，
 但這些一定只是冰山一角。",,"조종당한 계정은 알려진 것만으로도 백 명 정도지만
 이건 분명 빙산의 일각이야","Bisher wissen wir, dass etwa 100 Konten gekapert
 wurden, aber das ist sicherlich erst der Anfang."
@@ -218,7 +218,8 @@ volte superiore.","說不定已經有十倍、不對百倍的帳號
 被犯人拿到手了。",,"혹시 그 10배, 아니 100배의 계정이
 이미 범인의 손에 들어갔을지도 모른다","Die Dunkelziffer könnte 10- oder sogar 100-mal
 höher liegen."
-60,3007,,Immagina se qualcuno fosse in grado di far fare esattamente quello che vuole a 10.000 avatar...,"要是有一萬人的化身，
+60,3007,,"Immagina se qualcuno fosse in grado di far fare esattamente quello
+che vuole a 10.000 avatar...","要是有一萬人的化身，
 同時被隨心所欲的操縱的話……",,"혹시 1만 명 이상의 아바타를 일제히 마음대로 움직일 수
 있다고 한다면…","Stellt euch vor, wenn jemand 10 000 Avatare nach
 Belieben befehligen könnte ..."
@@ -227,7 +228,8 @@ Belieben befehligen könnte ..."
 63,3007,,Sì. Cyberterrorismo su una scala senza precedenti.,"沒錯，就算要進行大規模的
 電腦恐怖行動也辦得到。",,"그래.
 대규모 전뇌 테러도 가능하다",Ja. Das wäre Cyberterrorismus ungeahnten Ausmaßes.
-64,3007,,"Basandoci sul meticoloso livello di preparazione del colpevole finora, dobbiamo considerare la possibilità.","既然會這麼周到地重複進行實驗跟準備，
+64,3007,,"Basandoci sul meticoloso livello di preparazione del colpevole finora,
+dobbiamo considerare la possibilità.","既然會這麼周到地重複進行實驗跟準備，
 那這種狀況也是很有可能發生的。",,"이 정도로 주도면밀하게 실험과 준비를 반복했다면
 그럴 가능성도 생각해볼 수 있지","In Anbetracht dessen, wie sorgfältig der Täter
 bisher alles vorbereitet hat, müssen wir das in
@@ -284,7 +286,8 @@ auch Posen für eine Videosuche kompilieren."
 80,3047,,Che succede?,這是什麼？,,뭐야 이거,Was ist das?
 81,3045,,Potrebbe essere una danza con ventaglio?,這是打藝嗎？,,이거 오타쿠 퍼포먼스인가?,Könnte ein Fan-Tanz sein?
 82,2020,,???,？？,,??,???
-83,3045,,Una danza da fan. È una danza che i fan della musica pop fanno ai concerti.,"打藝，就是御宅族的技藝。
+83,3045,,"Una danza da fan.
+È una danza che i fan della musica pop fanno ai concerti.","打藝，就是御宅族的技藝。
 在偶像明星的演唱會上，
 歌迷們用來聲援歌手的舞蹈。",,"오타쿠 퍼포먼스라는 건
 아이돌 라이브에서 팬들이 하는 응원 안무를 말하는 거야","Ein Fan-Tanz. Ein Tanz, den Popmusikfans auf
@@ -307,8 +310,8 @@ senso del ritmo.","這是成果發表會嗎？
 該說很俗呢，還是很沒有品味呢……",,"이건 학예회?
 뭔가 엉망이라고 할지 센스가 없다고 할지","Das ist ja furchtbar. Die sind nicht synchron und
 haben keinerlei Rhythmusgefühl."
-87,3046,,"Facile parlare per te. Non è che il tuo tentativo in
-EDEN sia stato migliore.","你沒資格說。
+87,3046,,"Facile parlare per te. Non è che il tuo tentativo in EDEN sia stato
+migliore.","你沒資格說。
 你可是在EDEN裡大跳一樣的舞喔。",,"네가 할 말이냐.
 똑같은 춤을 EDEN에서 화려하게 추고 있었잖아","Da redet der Richtige. Dein Versuch in EDEN war ja
 auch nicht gerade besser."
@@ -330,8 +333,8 @@ weit hergeholt."
 ""Cantante Autoproclamata""...",希望她在職業那邊也加個自稱兩字啊。,,"직업 가수라는 것도 ""자칭""을 붙여줬으면 좋겠네","Wobei als Beruf vermutlich dastehen sollte:
 Selbst erklärte Sängerin."
 94,3045,,"Ma si esibisce al locale di musica dal vivo Punsuka a
-Nakano ogni settimana e registra i suoi spettacoli. È
-sempre tutto esaurito.","不過，她每個禮拜都有上中野的Livehouse
+Nakano ogni settimana e registra i suoi spettacoli.
+È sempre tutto esaurito.","不過，她每個禮拜都有上中野的Livehouse
 「森七七」喔。紀錄上每次都是大爆滿呢。",,"그래도 착실하게 나카노 라이브 하우스『분스카』에
 매번 나오고 있어. 기록에 따르면 매번 초만원이야","Aber sie tritt jede Woche im Punsuka-Club in
 Nakano auf, und nimmt den Auftritt auf. Er ist
@@ -374,7 +377,8 @@ Exemplare gekauft."
 小姐妳速度真快啊。",,"판매 사이트를 해킹한 거야?
 빠르네, 아가씨","Du hast die Verkaufsseite schon gehackt? Wie
 schnell bist du denn?"
-106,3045,,No. Qualcuno se ne sta vantando sulla bacheca di Punsuka. L'ho appena letto lì.,"不是，是「森七七」的布告欄上，
+106,3045,,"No. Qualcuno se ne sta vantando sulla bacheca di Punsuka.
+L'ho appena letto lì.","不是，是「森七七」的布告欄上，
 有個歌迷寫了這訊息在炫耀。",,"아니,『분스카』게시판에서 그렇게 자랑하는
 팬의 글을 봤을 뿐이야","Nein, aber jemand prahlt damit im Forum von
 Punsuka. Hab es gerade gelesen."
@@ -431,8 +435,8 @@ glücklich."
 왜냐면, 봐봐 이 공지사항","Das ist aber noch nicht alles. Schaut euch mal
 diese Ankündigung an."
 123,3045,,"Kumi Minamiasagaya terrà un enorme concerto in EDEN!
-Si prevede che le vendite dei biglietti raggiungeranno quota 10.000! Se
-l'obiettivo verrà raggiunto, sarà il suo concerto d'addio!","南阿佐谷久美，終於要在EDEN辦大型演唱會！
+Si prevede che le vendite dei biglietti raggiungeranno quota 10.000!
+Se l'obiettivo verrà raggiunto, sarà il suo concerto d'addio!","南阿佐谷久美，終於要在EDEN辦大型演唱會！
 配合視訊轉播，目標銷售一萬張門票！
 只要未達成目標，便直接進行告別演出！",,"미나미아사가야 쿠미, 드디어 EDEN에 대규모 라이브!
 생방송과 더불어 목표 티켓 총수는 1만 장!
@@ -447,14 +451,12 @@ Sono sicuro che i Sacred Seven se ne occuperanno.","一萬張對她而言是小�
 Darum werden die Heiligen Sieben sich kümmern."
 126,3045,,Hai ragione. Sono già esauriti.,哥哥答對了，門票已經賣完了喔。,,오빠 정답이야. 이미 매진되었어,Da hast du recht. Es ist schon ausverkauft.
 127,3045,,"Sembra che uno di loro abbia comprato tutti i 10.000 biglietti.
-Gli altri sei si lamentano per questo sulla
-bacheca.","看來好像是一個人一口氣買光了一萬張票喔。
+Gli altri sei si lamentano per questo sulla bacheca.","看來好像是一個人一口氣買光了一萬張票喔。
 還在布告欄上向其他六個人炫耀。",,"아무래도 혼자서 티켓 1만장을 독점했는지
 다른 6명이 게시판에서 푸념하고 있어","Einer hat wohl alle 10 000 Karten aufgekauft.
 Die anderen sechs meckern deswegen im Forum."
-128,3045,,"Sono devastati per non essere riusciti a trovare un biglietto. Uno
-di loro ha persino scritto un reclamo lungo oltre
-20.000 parole.","還有人因為買不到票，
+128,3045,,"Sono devastati per non essere riusciti a trovare un biglietto.
+Uno di loro ha persino scritto un reclamo lungo oltre 20.000 parole.","還有人因為買不到票，
 悲憤地在布告欄上寫了四萬字的抱怨評論。",,"티켓을 사지 못한 게 분해서
 4만자의 불평 덧글을 쓴 사람도 있네","Sie sind sehr traurig, weil sie keine kriegen
 konnten. Einer beschwert sich sogar in über
@@ -516,7 +518,8 @@ erkennt sie das nicht, und kriegt dadurch
 vielleicht sogar noch gute Presse."
 144,3046,,La gente parlerà di sicuro di un concerto così grande.,就是指人嘴封不住吧。,,사람의 입에 자물쇠를 채울 수는 없다고 하니까,"Über so ein riesiges Konzert reden die Leute mit
 Sicherheit."
-145,3045,,Quindi questa è la sua unica opzione. Dirottare account multipli e trasformarli nei suoi fan.,"所以，犯人只能用這種方法了。
+145,3045,,"Quindi questa è la sua unica opzione.
+Dirottare account multipli e trasformarli nei suoi fan.","所以，犯人只能用這種方法了。
 收集帳號，偽裝成歌迷。",,"그래서 그에겐 이 방법밖에 없었던 거지.
 계정을 모아 그녀의 팬을 연기하게 하는 거야","Das ist also die einzige Lösung für ihn. Mehrere
 Konten stehlen und sie zu Fans machen."
@@ -538,34 +541,32 @@ account sono stati usati mentre dormivano.","要是沒有打瞌睡，帳號卻�
 들켜버리잖아?","Aber dann würden sie alle herausfinden, dass
 jemand ihre Konten benutzt hat, während sie
 geschlafen haben."
-150,3045,,Non importa. Sarebbe stata l'ultima volta che avrebbe avuto bisogno di hackerare i loro account.,沒關係，反正那時候就會是最後一次的帳號出錯了。,,상관없어. 어차피 그 때가 마지막 계정 해킹이 될 테니까,"Das ist egal. Es wäre ja das letzte Mal, dass er
+150,3045,,"Non importa. Sarebbe stata l'ultima volta che avrebbe avuto bisogno
+di hackerare i loro account.",沒關係，反正那時候就會是最後一次的帳號出錯了。,,상관없어. 어차피 그 때가 마지막 계정 해킹이 될 테니까,"Das ist egal. Es wäre ja das letzte Mal, dass er
 die Konten hackt."
-151,3045,,"Anche se la gente lo scoprisse, e anche se chiamassero
-la polizia, non lo catturerebbero fino al giorno
-successivo.","就算被發現，被傳達給警方，
+151,3045,,"Anche se la gente lo scoprisse, e anche se chiamassero la polizia,
+non lo catturerebbero fino al giorno successivo.","就算被發現，被傳達給警方，
 警方最快要得要到隔天才會採取行動。",,"눈치채고 경찰에 신고한다고 해도 대처에 들어가는 건
 아무리 빨라봤자 다음날이지","Selbst wenn die Leute es merken und sogar die
 Polizei rufen, würden sie ihn ja frühestens am
 nächsten Tag erwischen."
-152,3045,,"Penso che stia facendo tutti i suoi preparativi
-a tarda notte per evitare di essere scoperto prima
-del giorno del concerto.","我想是因為，要是在演唱會當天之前被人發現
+152,3045,,"Penso che stia facendo tutti i suoi preparativi a tarda notte
+per evitare di essere scoperto prima del giorno del concerto.","我想是因為，要是在演唱會當天之前被人發現
 就不妙了，犯人才會在深夜偷偷摸摸地做準備吧。",,"라이브 당일 전에 들키면 안되니까
 한밤중에 몰래몰래 준비한 거라고 생각해","Ich denke, er hat bisher immer nachts agiert,
 damit er nicht vor dem Konzert erwischt wird."
-153,3045,,"Immagino che dev'essere difficile far ballare 10.000
-persone tutte insieme. Probabilmente è
-per questo che si sta esercitando.","的確，要一次讓一萬人跳舞是很困難，
+153,3045,,"Immagino che dev'essere difficile far ballare 10.000 persone tutte
+insieme. Probabilmente è per questo che si sta esercitando.","的確，要一次讓一萬人跳舞是很困難，
 所以才需要練習吧。",,"분명 1만명을 한번에 춤추게 하는 건 어려울테니까
 연습하고 있던 건 아닐까","Es ist sicher nicht einfach, 10 000 Leute
 gleichzeitig zum Tanzen zu kriegen. Deshalb übt
 er wahrscheinlich."
-154,3045,,"Ma non è affatto impossibile. Dopotutto, tutti farebbero gli stessi movimenti.","而且，我覺得這是有辦法做到的喔，
+154,3045,,"Ma non è affatto impossibile.
+Dopotutto, tutti farebbero gli stessi movimenti.","而且，我覺得這是有辦法做到的喔，
 畢竟全員都是同個動作嘛。",,"하지만 절대 불가능하진 않을 거라고 생각해
 전원이 같은 움직임이라면","Aber unmöglich ist es nicht. Schließlich sollen
 sie ja alle die gleichen Bewegungen ausführen."
-155,3045,,"Proviamoci. Chitose, puoi effettuare il login a
-EDEN?","我實際試看看。
+155,3045,,"Proviamoci. Chitose, puoi effettuare il login a EDEN?","我實際試看看。
 千歲，你能登入EDEN嗎？",,"그럼 실제로 해볼까.
 치토세, EDEN에 로그인 해볼래?","Probieren wir es mal aus. Chitose, kannst du dich
 bei EDEN einloggen?"
@@ -590,7 +591,8 @@ aufgeflogen ist."
 嗚啊啊啊，感覺好噁心喔。",,"그거야 그렇겠지만…
 으에에에, 뭔가 기분 나빠","Ja, das verstehe ich schon ... aber es passt mir
 trotzdem nicht."
-163,3045,,"Okay, mi sono connesso all'avatar di Chitose tramite il suo account. Puoi controllarlo da questo terminale. Provaci, [p].","好了，我藉由千歲的帳號連上了EDEN的化身喔。
+163,3045,,"Okay, mi sono connesso all'avatar di Chitose tramite il suo account.
+Puoi controllarlo da questo terminale. Provaci, [p].","好了，我藉由千歲的帳號連上了EDEN的化身喔。
 可以用這終端來操控，[p]來試看看吧。",,"자, 치토세의 계정을 경유해서 EDEN의
 아바타에 접속했어. 이 단말로 움직일 수 있으니까
 [p], 잠깐 해봐","So, ich habe mich über Chitoses Konto mit seinem
@@ -636,7 +638,8 @@ hai appena fatto! Me la pagherai per questo!","還有啊，[p]！！
 Das zahle ich dir heim!"
 174,2020,,...,…………,,…………,...
 175,3046,,Ho appena sentito da Matayoshi.,那件事情，又吉先生聯絡我們了。,,그 문제로 마타요시 씨의 연락이 왔다,Ich habe gerade von Matayoshi gehört.
-176,3046,,"Poiché nessuno ha subito danni reali, è possibile che il caso non venga più perseguito.","這事件也沒有實際的被害人，
+176,3046,,"Poiché nessuno ha subito danni reali, è possibile che il caso non
+venga più perseguito.","這事件也沒有實際的被害人，
 就這樣讓事件落幕吧。他是這麼說的。",,"이 사건은 실제 피해자가 나오지 않았으니
 이걸로 일단 종결하게 될 거라는군","Weil niemand echten Schaden erlitten hat, kann es
 sein, dass dem Fall nicht weiter nachgegangen
@@ -654,8 +657,7 @@ a mezzogiorno domani, in assoluta segretezza.","帳號的安全問題，會在�
 Mittag ganz geheim aktualisiert."
 180,3046,,La questione si chiude qui.,他們打算這樣就結束了。,,이걸로 상황은 종료되는 거지,Und damit ist die Sache abgehakt.
 181,3045,,"Così, all'improvviso?",就這樣嗎？,,그게 다야?,Einfach so?
-182,3046,,"Conoscendo Matayoshi, probabilmente ha fatto pressioni su
-Kamishiro.","以又吉先生的角度來看，這算是
+182,3046,,"Conoscendo Matayoshi, probabilmente ha fatto pressioni su Kamishiro.","以又吉先生的角度來看，這算是
 賣給神代企業一個大人情吧。",,"마타요시 씨 입장에선 카미시로에 빚을
 만들어 둔 셈이 되겠지","Wie ich Matayoshi kenne, hat er Kamishiro
 vermutlich unter Druck gesetzt."
@@ -665,8 +667,7 @@ che la sicurezza di EDEN è stata compromessa.","安全系統被破解的這件�
 카미시로에게는 치명적일 테니까","Kamishiro könnte erledigt sein, wenn Leute
 herausfinden, dass die Sicherheit von EDEN
 gefährdet war."
-184,3047,,"Bene per Matayoshi. Ma la
-mia ferita all'orgoglio di hacker?","那樣只有又吉先生得到好處啊。
+184,3047,,"Bene per Matayoshi. Ma la mia ferita all'orgoglio di hacker?","那樣只有又吉先生得到好處啊。
 我們被犯人踐踏的駭客自尊又該怎麼辦啊？",,"그러면 마타요시 씨만 재미있게 되는 거잖아.
 그놈들에게 짓밟힌 내 해커로서의
 자존심은 어떻게 되는 건데?","Ist ja für Matayoshi alles schön und gut. Aber was
@@ -691,19 +692,18 @@ c'era la Covo dei Demons.","咦？　沒有那種情報吧？
 dass es wie geplant durchgeführt wird. Heute
 Abend, in der früheren Demons-Höhle."
 189,3047,,Ma come?,咦？　這怎麼回事？,,뭐어? 어떻게 된 거야?,Aber wie das?
-190,3047,,A cosa sta pensando Kamishiro?! Faranno finta di niente dopo quello che è successo?,"EDEN的營運團隊在想什麼啊！？
+190,3047,,"A cosa sta pensando Kamishiro?!
+Faranno finta di niente dopo quello che è successo?","EDEN的營運團隊在想什麼啊！？
 只要沒用在犯罪上就隨便了嗎？",,"EDEN의 운영 측은 뭘 생각하는 거지!?
 범죄에 사용되지만 않으면 무시해도 상관없다는 건가?","Was denken die sich bei Kamishiro denn?! Lassen
 die das alles einfach so durchgehen?"
-191,3046,,"Forse Kamishiro ha fatto un accordo segreto con il
-colpevole.",……說不定是犯人跟神代企業間有什麼私下交易吧。,,"…범인과 카미시로 사이에 뒷거래가 있었던 건지도
+191,3046,,"Forse Kamishiro ha fatto un accordo segreto con il colpevole.",……說不定是犯人跟神代企業間有什麼私下交易吧。,,"…범인과 카미시로 사이에 뒷거래가 있었던 건지도
 모르겠군","Vielleicht hat Kamishiro insgeheim eine Abmachung
 mit dem Täter getroffen."
 192,3046,,Per consentirgli di andare avanti finché non vengano commessi atti criminali.,可能只要不用在犯罪上，今晚就放過他。,,범죄행위에 이르지만 않는다면 오늘 밤 일어날 일은 눈감아 준다고,"Dass das Ganze stattfinden darf, solange nichts
 Kriminelles passiert."
 193,3047,,"Come hanno potuto?! Non puoi lasciare che qualcuno la passi liscia
-con l'hackeraggio degli account altrui, a prescindere
-dal motivo!","那種理由我哪能接受啊！
+con l'hackeraggio degli account altrui, a prescindere dal motivo!","那種理由我哪能接受啊！
 居然隨意操縱別人的帳號，
 管你有什麼目的都不能原諒啊！",,"그런 걸 납득할 수 있겠냐!
 남의 계정을 멋대로 조종하다니

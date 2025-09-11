@@ -1,6 +1,6 @@
 ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
-1,4338,,"Ah, ti stavo aspettando. Scusa per averti fatto
-venire fin qui.","啊，等你很久了。
+1,4338,,"Ah, ti stavo aspettando.
+Scusa per averti fatto venire fin qui.","啊，等你很久了。
 不好意思啊還讓你跑一趟。",,"안녕, 기다리고 있었어.
 여기까지 찾아오게 해서 미안하구나","Ah, ich habe auf dich gewartet. Entschuldige, dass
 ich dich extra herkommen lasse."
@@ -36,8 +36,8 @@ Angst ein. Passt auf, wenn ihr im Aufzug fahrt."
 12,4338,,Ti preoccupi per me? Che gentile.,"你連我也擔心嗎？
 真開心～",,"나를 걱정해주는 거냐?
 기쁜걸",Du machst dir Sorgen um mich? Wie nett.
-13,4238,,"Se proprio devi sparire, per favore assicurati di
-pagarmi lo stipendio di questo mese prima.","店長你要神秘失蹤前，
+13,4238,,"Se proprio devi sparire, per favore assicurati
+di pagarmi lo stipendio di questo mese prima.","店長你要神秘失蹤前，
 記得先付清這個月的打工薪水。",,"마스터가 행방불명 되는 건
 이번 달 알바 급료를 지급한 이후로 부탁드릴게요","Wenn du unbedingt verschwinden musst, dann bezahle
 mich bitte erst für diesen Monat."
@@ -110,9 +110,9 @@ Hausarrest."
 29,4238,,Vorrei che smettessero di trattarmi come un bambino.,店長～你剛說什麼嗎？,,"마스터, 뭔가 말씀하셨나요?","Ich wünschte, sie würden aufhören, mich wie ein
 Kind zu behandeln."
 30,4338,,"Continua, Rico.",啊，莉子妳繼續講！,,"자, 이야기를 계속해줘, 리코","Erzähl weiter, Rico."
-31,7347,,"Ho provato a cercarla da solo, ma non sono
-riuscito a trovarla da nessuna parte. Ero davvero sconvolto, ma lui ha detto
-che mi aiuterà.","所以我就想靠自己來找姊姊……
+31,7347,,"Ho provato a cercarla da solo, ma non sono riuscito a
+trovarla da nessuna parte. Ero davvero sconvolto,
+ma lui ha detto che mi aiuterà.","所以我就想靠自己來找姊姊……
 但是完全找不到……
 不知道怎麼辦的時候，店長幫了人家……",,"그래서 난 혼자서라도 언니를 찾아야겠다고 생각해서…
 하지만 전혀 찾을 수가 없어서…
@@ -208,8 +208,7 @@ Hund?"
 würdest davon wissen."
 56,4238,,È vero...,說的也是。,,생각해보니 그러네요,Das stimmt ...
 57,4338,,"No, non abbiamo avuto clienti con un cane.",甚至連帶狗光臨的客人也沒遇過。,,"아니, 개를 데려온 손님도 없었는데","Nein, wir hatten auch keine Kunden mit einem Hund."
-58,7347,,"Ero spaventato, ma mia sorella l'ha accarezzato. Poi è
-rientrata.","我覺得很害怕，但是姊姊很開心地摸狗狗。
+58,7347,,"Ero spaventato, ma mia sorella l'ha accarezzato. Poi è rientrata.","我覺得很害怕，但是姊姊很開心地摸狗狗。
 接著就跟狗狗一起走進店裡面。",,"나는 무서웠지만 언니는 좋아하면서 멍멍이를 쓰다듬으며
 그대로 같이 가게로 들어가 버렸어","Ich hatte Angst, aber meine Schwester hat ihn
 gestreichelt. Dann ist sie hier reingegangen."
@@ -250,7 +249,8 @@ sola e le luci nell'ascensore si sono spente.","結果進電梯後門自己關�
 這次換電梯裡的電燈熄滅。",,"그래서 엘리베이터에 탔더니 문이 멋대로 닫히고
 이번엔 엘리베이터의 전기가 꺼져버린 거야","Als ich in den Aufzug gestiegen bin, ging die Tür
 von alleine zu und das Licht ging aus."
-66,7347,,"Non sapevo cosa fare, ma poi le luci si sono riaccese e la porta si è aperta.","才在想該怎麼辦的時候，電燈亮了……
+66,7347,,"Non sapevo cosa fare, ma poi le luci si sono riaccese e la porta
+si è aperta.","才在想該怎麼辦的時候，電燈亮了……
 電梯門很快又打開……",,"어떡하지 하고 생각하고 있었더니 전기가 들어오고…
 바로 문이 열렸어","Ich wusste nicht, was ich tun soll. Aber dann ging
 das Licht wieder an und die Tür auf."
@@ -264,12 +264,14 @@ persone! Non c'erano pochi secondi prima.","走廊的電燈都亮著，也有人
 방금 전까진 아무도 없었는데…","Das Licht im Gang war an und es waren Leute dort
 und in den Läden ... viele Leute. Sie waren ein
 paar Sekunden vorher nicht da."
-69,7347,,"Sono corso al bar. Pensavo che mia sorella sarebbe tornata, ma non è tornata...","然後我就趕快跑到剛才的店。
+69,7347,,"Sono corso al bar.
+Pensavo che mia sorella sarebbe tornata,
+ma non è tornata...","然後我就趕快跑到剛才的店。
 想說姊姊一定也在，可是……",,"그래도 다시 달려서 가게로 갔어.
 언니도 돌아와 있을 거라고 생각해서. 그렇지만…","Ich bin ins Café gelaufen. Ich dachte, meine
 Schwester würde zurückkommen, ist sie aber nicht."
-70,4338,,"Sacchan e io eravamo qui come al solito. Non avevamo visto
-né sua sorella né un cane.","店裡和平常一樣，只有我和小莎。
+70,4338,,"Sacchan e io eravamo qui come al solito.
+Non avevamo visto né sua sorella né un cane.","店裡和平常一樣，只有我和小莎。
 姊姊跟那隻狗都不見了……就是這樣吧。",,"가게엔 평소처럼 나와 삿짱이 영업하고 있었고
 언니도 그 개도 없었다…라는 거야","Sacchan und ich waren hier wie immer. Wir hatten
 weder ihre Schwester noch einen Hund gesehen."
@@ -319,8 +321,8 @@ maledette nello stesso momento?","我才不想隨便招惹然後被詛咒或作�
 두 명이라면 저주를 받더라도 반씩 나누게 되겠지?","Ich will nicht verflucht werden oder so was. Ob
 ein Fluch wohl halb so schlimm ist, wenn zwei
 Leute gleichzeitig damit belegt werden?"
-82,7346,,"Non possiamo ignorare ciò che è successo alla sorella di Rico. Se
-dovessi essere maledetto, spero solo che tu sia lì con me!","加上也放心不下莉子……
+82,7346,,"Non possiamo ignorare ciò che è successo alla sorella di Rico.
+Se dovessi essere maledetto, spero solo che tu sia lì con me!","加上也放心不下莉子……
 出事的時候你陪我，拜託啦！",,"리코도 내버려 둘 수 없고…
 지벌을 받을 땐 같이 잘 부탁해!","Wir können nicht einfach ignorieren, was mit Ricos
 Schwester passiert ist. Ich hoffe nur, dass du
@@ -343,13 +345,15 @@ nachvollziehen? Das könnte hilfreich sein."
 l'ascensore.",回到1樓，從搭上電梯開始重現。,,"1층으로 돌아가 엘리베이터를
 타는 지점부터지","Fang damit an, dass du ins Erdgeschoss runtergehst
 und dort in den Aufzug steigst."
-89,4338,,"Se le voci sono vere, la sorella di Rico non è l'unica persona a essere scomparsa in circostanze misteriose.","如果那些謠言屬實，
+89,4338,,"Se le voci sono vere, la sorella di Rico non è l'unica persona a essere
+scomparsa in circostanze misteriose.","如果那些謠言屬實，
 表示除了莉子的姊姊以外，
 還有其他孩子神秘失蹤吧？",,"예전부터 돌던 소문이 정말이라면 리코의 언니 말고도
 행방불명 된 아이가 있을 테지?","Wenn die Gerüchte wahr sind, ist Ricos Schwester
 nicht die einzige, die unter ungeklärten Umständen
 verschwunden ist."
-90,4338,,Facciamo esattamente la stessa cosa e vediamo se riusciamo a trovare qualcosa di insolito con il sistema di controllo dell'ascensore.,"換言之不是偶發性事件。
+90,4338,,"Facciamo esattamente la stessa cosa e vediamo se riusciamo a trovare
+qualcosa di insolito con il sistema di controllo dell'ascensore.","換言之不是偶發性事件。
 要是依照相同流程，遇上電梯管理系統異常，
 就表示我們找對了。",,"그 말은 즉, 재현성이 있다는 뜻이야.
 같은 순서에 따라 그걸로 엘리베이터의 관리 시스템에

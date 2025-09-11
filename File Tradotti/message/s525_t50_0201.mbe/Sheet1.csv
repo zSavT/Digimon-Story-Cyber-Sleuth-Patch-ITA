@@ -6,8 +6,8 @@ ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
 我是瀧津瀨水面……",,"내 수족관에 온 것을 환영해.
 나는 타키츠세 미나모…","Willkommen in meinem Aquarium. Ich bin Minamo
 Takitsuse."
-3,7365,,"Sono sorpreso che tu abbia trovato questo posto. Sei la
-polizia?","還真虧你們能找到這裡來呢。
+3,7365,,"Sono sorpreso che tu abbia trovato questo posto.
+Sei la polizia?","還真虧你們能找到這裡來呢。
 你們是警察嗎？",,"여길 잘도 알았네.
 너희는 경찰이야?","Es überrascht mich, dass ihr hergefunden habt.
 Seid ihr von der Polizei?"
@@ -16,8 +16,8 @@ Siamo come...detective.","不是
 我們是類似偵探的人",,"아니야
 탐정같은 거야","Nein.
 Wir sind so etwas wie ... Detektive."
-5,7365,,"Non importa chi tu sia. Non hai niente
-contro di me.","是嗎，不管是誰都一樣。
+5,7365,,"Non importa chi tu sia.
+Non hai niente contro di me.","是嗎，不管是誰都一樣。
 想要抓我的話，只是白費功夫喔。",,"그래. 누구든 상관없어.
 다만 나를 잡으려고 해봤자 소용없어","Mir egal, wer ihr seid. Ihr könnt mir jedenfalls
 nichts nachweisen."
@@ -36,8 +36,8 @@ extra eine Führung durch mein Aquarium."
 這裡跟池袋水族館一模一樣。",,"――어이, 눈치챘냐?
 여긴 이케부쿠로 수족관과 똑같아","Merkst du was? Hier sieht es genauso aus wie im
 Aquarium von Ikebukuro."
-10,7365,,"Che occhio. È una copia digitale perfetta
-dell'edificio, delle strutture e degli animali dell'acquario.","哎呀，你看出來啦。
+10,7365,,"Che occhio. È una copia digitale perfetta dell'edificio,
+delle strutture e degli animali dell'acquario.","哎呀，你看出來啦。
 這裡是將那座水族館的建築、設備、生物完整
 數碼複製後，在虛擬空間完整重現的美妙場所喔。",,"어라, 용케 눈치챘네.
 이곳은 그 수족관의 건물, 시설, 생물을
@@ -46,7 +46,8 @@ des Gebäudes, der Einrichtung und der Tiere."
 11,7365,,È quasi completo. Ehehehe...,"離完成就只差一步而已了呢。
 呵呵呵……",,"완성까지 이제 한 걸음 남았다고나 할까.
 우후후후…",Sie ist fast fertig. Hehehe ...
-12,3046,,Capisco. Quindi l'hai fatto per creare questo posto? Ma avevi davvero bisogno di ricorrere al furto?,"原來如此……妳的目的就是打造這個空間。
+12,3046,,"Capisco. Quindi l'hai fatto per creare questo posto?
+Ma avevi davvero bisogno di ricorrere al furto?","原來如此……妳的目的就是打造這個空間。
 ……但是，有必要為此去偷竊嗎？",,"과연… 이 공간을 만드는 것이 목적이었던 거군.
 …하지만 굳이 도둑질까지 할 필요가 있었던 건가?","Verstehe. Du hast das also gemacht, um das hier
 aufzubauen? Aber musste Diebstahl wirklich sein?"
@@ -55,14 +56,15 @@ edifici nella rete.","不管是魚還是建築，類似的資料
 網路上要多少有多少吧。",,"물고기든 건물이든 비슷한 데이터라면 얼마든지
 인터넷에서 구할 수 있을 텐데","Im Netz findest du doch jede Menge ähnliche Daten
 zu Fischen und Gebäuden."
-14,7365,,Non lo capisci. Simile non è sufficiente. Deve essere una riproduzione perfetta.,"你真不懂呢。
+14,7365,,"Non lo capisci. Simile non è sufficiente.
+Deve essere una riproduzione perfetta.","你真不懂呢。
 只是像是不行的，要完美重現才行……",,"뭘 모르네.
 비슷한 정도로는 안 돼. 완벽하게 재현하지 않으면…","Du verstehst das nicht. Ähnlich reicht nicht. Es
 musste eine perfekte Nachbildung sein."
-15,7365,,"L'edificio e l'arredamento possono essere ricreati da
-foto.",建築物的構造跟內部裝潢可以只靠照片來重現。,,건물의 구조나 장식 뿐이라면 사진으로 재현할 수 있어,"Gebäude und Dekoration kann man anhand von Fotos
+15,7365,,"L'edificio e l'arredamento possono essere ricreati da foto.",建築物的構造跟內部裝潢可以只靠照片來重現。,,건물의 구조나 장식 뿐이라면 사진으로 재현할 수 있어,"Gebäude und Dekoration kann man anhand von Fotos
 nachstellen."
-16,7365,,Ma l'aspetto e i movimenti degli animali non possono essere scansionati da foto o video ordinari.,"但是，在水族館內的生物形狀和動作，
+16,7365,,"Ma l'aspetto e i movimenti degli animali non possono essere scansionati
+da foto o video ordinari.","但是，在水族館內的生物形狀和動作，
 只靠一般照片跟影片是無法完整重現的。",,"하지만 거기에 있는 생물들의 형상이나 움직임은
 보통 사진이나 영상으로 촬영한 정도론 스캔할 수 없어","Aber Aussehen und Verhalten der Tiere kann man aus
 gewöhnlichen Fotos und Videos nicht lesen."
@@ -75,22 +77,21 @@ attrezzature che usano.","那水族館內有非常稀奇的魚類，要飼養的
 없어서 곤란했거든","Die haben einige sehr seltene Fische. Es gibt
 nirgends Informationen dazu, was sie dazu für
 Becken und Ausrüstung benutzen."
-18,7365,,"E non è che potessi semplicemente andarli a trovare e
-chiedere di prendere in prestito il loro prezioso pesce e l'attrezzatura,
-giusto?","而且那些是很珍貴的生物和設備，
+18,7365,,"E non è che potessi semplicemente andarli a trovare e chiedere di
+prendere in prestito il loro prezioso pesce e l'attrezzatura, giusto?","而且那些是很珍貴的生物和設備，
 就算一般人想去借，水族館就會大方出借嗎？",,"그렇다고 해서 귀중한 생물이나 시설을 빌려달라고
 일반인이 부탁해봤자 쉽게 빌려주진 않을 거 아냐?","Und ich konnte ja schlecht hingehen und fragen,
 ob ich ihre wertvollen Fische und Geräte mal
 borgen darf, nicht wahr?"
-19,3046,,"Capisco. Quindi li rubi, li copi e poi
-li restituisci?","……原來如此。
+19,3046,,"Capisco. Quindi li rubi, li copi e poi li restituisci?","……原來如此。
 所以才暫時偷走，複製後再還回去啊。",,"……과연.
 그래서 일시적으로 훔쳐서 복사한 후 돌려준 건가","Verstehe. Stattdessen stiehlst du sie, kopierst
 sie, und bringst sie zurück?"
 20,7365,,"Rubare? Per favore, non usare quella parola.","偷走？
 能不能別說得這麼難聽啊。",,"훔쳤다?
 남 듣기 안좋은 말은 하지 말아줄래?",Stehlen? Sag das doch nicht so.
-21,7365,,Li ho solo presi in prestito e li ho scansionati con uno scanner 3D. Nessuno potrebbe accusarmi di furto.,"我只是暫時借走，用3D掃描器進行攝影而已。
+21,7365,,"Li ho solo presi in prestito e li ho scansionati con uno scanner 3D.
+Nessuno potrebbe accusarmi di furto.","我只是暫時借走，用3D掃描器進行攝影而已。
 這樣也無法成立竊盜罪喔。",,"잠깐 빌려서 3D스캔으로 촬영했을 뿐이야.
 도난죄는 성립하지 않을 텐데","Ich habe sie mir nur ausgeliehen und mit einem
 3-D-Scanner eingelesen. Keiner kann mir Diebstahl
@@ -99,9 +100,8 @@ vorwerfen."
 但是，妳依然有非法入侵私有地的嫌疑。",,"그런가 보더군.
 허나 너에겐 사유지 불법침입 용의가 걸려있다","So scheint es, aber du bist des widerrechtlichen
 Betretens eines Privatgrundstücks verdächtigt."
-23,7365,,"Lo detesto. Nel mondo virtuale, le persone sono libere
-di andare ovunque vogliano. Il mondo reale è così
-pieno di restrizioni.","……真是討厭呢。
+23,7365,,"Lo detesto. Nel mondo virtuale, le persone sono libere di andare
+ovunque vogliano. Il mondo reale è così pieno di restrizioni.","……真是討厭呢。
 明明在虛擬空間都自由自在的，
 現實世界每次都會扯我後腿…",,"……정말 싫다.
 가상공간에서라면 아무런 부자유가 없는데
@@ -155,8 +155,8 @@ schlau sein. Deshalb wird man mir auch nichts
 nachweisen können."
 34,7365,,"Non ho causato problemi a nessuno, nemmeno a te.","我沒有對任何人，就連對你們
 也沒有造成任何麻煩吧。",,"나는 누구에게도, 너희들에게도 폐를 끼치진 않았어","Ich habe niemandem Ärger gemacht, nicht mal euch."
-35,7365,,"E guarda! Questo posto è quasi finito. Il mio
-acquario privato!","比起那些，好好看著吧！　馬上就要完成的，
+35,7365,,"E guarda! Questo posto è quasi finito.
+Il mio acquario privato!","比起那些，好好看著吧！　馬上就要完成的，
 我的、只屬於我的水族館啊！",,"그보다 이걸 봐! 조금 있으면 완성돼.
 나의, 나만의 수족관이!","Und schaut doch, es ist fast fertig! Mein ganz
 eigenes Privataquarium."
@@ -187,8 +187,8 @@ per te, noi non siamo la legge. Siamo hacker.","法律拿妳沒辦法？
 유감스럽게도 우리 해커에게는 그런 것은 상관없다","Das Gesetz kann dir nichts anhaben. Aber zu deinem
 Pech sind wir nicht das Gesetz, sondern
 Hacker."
-43,3046,,"Ci assicureremo che tu venga punito. Questo acquario...
-non sarà mai completato.","妳給我接受懲罰吧。
+43,3046,,"Ci assicureremo che tu venga punito. Questo acquario... non sarà
+mai completato.","妳給我接受懲罰吧。
 這座水族館……永遠都是未完成的。",,"너는 벌을 받아줘야겠다.
 이 수족관은…영원히 미완성인 채로","Wir werden dafür sorgen, dass du bestraft wirst.
 Dieses Aquarium ... wird niemals fertig werden."
@@ -198,7 +198,8 @@ sbarazzarmi dei miei primi visitatori.","真是可惜，
 居然得對第一位客人下手啊。",,"정말 유감이야.
 첫 손님을 삭제해야 한다니","Schade. Sieht aus, als müsste ich mir meine
 allerersten Besucher vom Hals schaffen."
-46,3046,,Sapevo che sembrava troppo disposta a parlare. Non aveva mai intenzione di farci andare via da qui.,"我就覺得奇怪，妳居然講了這麼多，
+46,3046,,"Sapevo che sembrava troppo disposta a parlare.
+Non aveva mai intenzione di farci andare via da qui.","我就覺得奇怪，妳居然講了這麼多，
 果然從一開始就打算這麼做啊。
 那女的想戰鬥喔，你退後吧。",,"술술 떠든다 싶더니 처음부터 그럴 생각이었던 거군.
 이 여자, 할 생각이다","Ich wusste doch, dass sie zu redefreudig war. Sie

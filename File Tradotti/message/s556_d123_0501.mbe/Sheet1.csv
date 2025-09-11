@@ -24,8 +24,8 @@ un posto del genere? Allora ti assumeremo di nuovo...","你的意思是說，
 그때는 다시 당신에게 의뢰를……","Es könnte weitere Stromausfälle geben, wenn wir
 solch einen Ort nicht finden? Dann heuern wir dich
 eben wieder an ..."
-6,7341,,"Non sai cosa succederà la prossima volta? E quindi cosa
-dovrei fare?","你說不知道下次會如何……
+6,7341,,"Non sai cosa succederà la prossima volta?
+E quindi cosa dovrei fare?","你說不知道下次會如何……
 那該怎麼辦才好？",,"다음에는 어떻게 될지 모른다니……
 그럼 어떻게 하면 되나요?","Du weißt nicht, was das nächste Mal passieren
 wird? Was soll ich denn tun?"
@@ -42,8 +42,8 @@ funzionante presto. Andrebbe bene?","這樣的話，是有一個地方。
 거기면 되나요?","Da gibt es eins. Es ist ein Wasserkraftwerk. Wir
 müssten eine Inspektion ausführen, aber es könnte
 bald wieder in Betrieb sein. Reicht das?"
-9,7341,,"Non costerebbe molto effettuare l'ispezione
-e riprendere le operazioni. Se servirà a prevenire ulteriori
+9,7341,,"Non costerebbe molto effettuare l'ispezione e
+riprendere le operazioni. Se servirà a prevenire ulteriori
 interruzioni di corrente, ne varrà la pena.","檢查跟再啟用的費用不算什麼。
 想到可能會次停電，這就像是付保險費。
 畢竟如果事情傳開的話會很頭痛。",,"점검과 가동에 걸리는 비용은 대단하지 않죠.
@@ -52,8 +52,7 @@ interruzioni di corrente, ne varrà la pena.","檢查跟再啟用的費用不算
 viel kosten. Wenn es weitere Stromausfälle
 verhindert, wäre es das wert."
 10,7341,,Ma a cosa servirebbe l'elettricità?,所以，這些電力要用在什麼地方？,,"그래서, 그 전력은 어디에 쓰나요?",Aber wofür würde die Elektrizität genutzt werden?
-11,7341,,"Eh?! Mangiato dal Digimon che stava causando
-i blackout?","什麼！？
+11,7341,,"Eh?! Mangiato dal Digimon che stava causando i blackout?","什麼！？
 ……要給造成停電原因的數碼寶貝吃嗎？",,"네에!?
 ……정전의 원인이었던 디지몬에게 먹이는 건가요","Was?! Sie wird von einem Digimon gefressen, das
 die Stromausfälle verursacht hat?"
@@ -62,13 +61,13 @@ server.","原來如此……
 如果他再待在伺服器裡我們也會很困擾。",,"아하……
 또 서버에 눌러앉으면 곤란하니까요","Verstehe ... Wir können es wirklich nicht auf dem
 Server lassen."
-13,7341,,"Allora è deciso. Mi occuperò di far ripartire
-la centrale idroelettrica.","我知道了。
+13,7341,,"Allora è deciso. Mi occuperò di far ripartire la centrale
+idroelettrica.","我知道了。
 水力發電廠的再啟用以及維護請交給我們。",,"알겠습니다.
 수력발전소의 재가동과 유지는 이쪽에 맡겨주세요","Dann sind wir uns einig. Ich treffe Vorkehrungen,
 das Wasserkraftwerk wieder ans Netz anzuschließen."
-14,7341,,"Ma avrò bisogno che tu sposti i Digimon lì una volta
-che sarà attivo e funzionante.","相對地，啟用後要麻煩你把數碼寶貝送過來。
+14,7341,,"Ma avrò bisogno che tu sposti i Digimon lì una volta che sarà
+attivo e funzionante.","相對地，啟用後要麻煩你把數碼寶貝送過來。
 萬事拜託了。",,"대신, 재가동 후에
 디지몬을 이송하는 건 맡기겠습니다.
 잘 부탁드려요","Aber du musst das Digimon dort hinbringen, sobald

@@ -4,12 +4,14 @@ ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
 　是搞錯地方了嗎？）",,"(의뢰인의 모습이 보이지 않는 것 같다….
  장소를 착각한 걸까?)","(Ich kann den Klienten nicht sehen.)
 (Bin ich hier vielleicht falsch?)"
-2,7164,,"Venghino, signori, venghino! Avvicinatevi e date un'occhiata!",請來看看──！請來看看喔──！,,"어서 오세요, 보고 가세요~!",Hereinspaziert! Kommt her und schaut euch das an!
+2,7164,,"Venghino, signori, venghino!
+Avvicinatevi e date un'occhiata!",請來看看──！請來看看喔──！,,"어서 오세요, 보고 가세요~!",Hereinspaziert! Kommt her und schaut euch das an!
 3,7165,,Vieni a vedere!,請大家來看看～,,구경하고 가세요~,Seht nur her!
 4,2020,,...?,……？,,……?,...?
 5,7166,,La Palestra di Addestramento delle Sorelle Sistermon è ora aperta!,修女獸姊妹的訓練健身房開課中喔！,,시스터몬 자매의 트레이닝 체육관 개강 중이야!,"Das Trainingsstudio der Sistermon-Schwestern
 ist jetzt geöffnet!"
-6,7166,,"E per celebrare l'occasione, abbiamo un'incredibile offerta speciale! Stiamo regalando il nostro Pugno d'Amore assolutamente gratis!","而且現在還有開課紀念特典！
+6,7166,,"E per celebrare l'occasione, abbiamo un'incredibile offerta speciale!
+Stiamo regalando il nostro Pugno d'Amore assolutamente gratis!","而且現在還有開課紀念特典！
 豪華贈送我們修女獸姊妹的愛的鐵拳喔！",,"지금이라면 체육관 개강 기념 특전까지!
 우리들 시스터몬 자매로부터 사랑의 철권 대 서비스 중!","Aus diesem Anlass haben wir ein fantastisches
 Sonderangebot! Wir verteilen unseren Liebeshieb
@@ -57,8 +59,7 @@ schadet ja nichts, oder, Blanc?"
 hast."
 20,7166,,"Sono Sistermon Ciel. Questa è la mia sorellina,
 Sistermon Blanc!","我是修女獸漆黑！
-這是我妹妹，修女獸雪白！","I'm Sistermon Ciel. This is my younger sister,
-Sistermon Blanc!","나는 시스터몬 느와르!
+這是我妹妹，修女獸雪白！","Sono Sistermon Ciel. Questa è la mia sorellina, Sistermon Blanc!","나는 시스터몬 느와르!
 이쪽은 동생인 시스터몬 블랑이야!","Ich bin Sistermon Ciel. Dies ist meine jüngere
 Schwester, Sistermon Blanc."
 21,7166,,"Siamo piuttosto famosi nel Mondo Digitale, quindi
@@ -172,7 +173,8 @@ ti vedranno?! Dobbiamo fare qualcosa per il tuo aspetto!","真是的！　你那
 dich sehen?! Wir müssen etwas an deinem Aussehen
 ändern!"
 49,7168,,Non sarà facile.,姊姊，妳太亂來了～,,"언니, 무리한 요구예요~",Das wird nicht einfach werden.
-50,7168,,Ma hai ragione. Non ti viene in mente nessun modo per renderti anche solo un po' più spaventoso?,"可是，也沒有錯呢～你能不能，
+50,7168,,"Ma hai ragione. Non ti viene in mente nessun modo per renderti anche
+solo un po' più spaventoso?","可是，也沒有錯呢～你能不能，
 讓自己看起來再恐怖一點呢～？",,"하지만, 그렇네요~ ……어떻게든 조금이라도
 무섭게 보이는 모습이 되어줄 수 없나요~?","Aber du hast recht. Hast du Ideen, wie du
 etwas furchterregender wirken könntest?"
@@ -290,7 +292,8 @@ Trainingsprogramm unterziehen!"
 91,3002,,Sgriiiiiiiiiii! Gli istruttori sono Digimon?!,"好可愛喔喔喔喔喔喔～～～
 道場的師父居然是數碼寶貝啊～～～！？",,"꺄악귀여워어어어어어어어어어~~~♥
 도장의 사범 대리는 디지몬이었구나~~~!?",*Quiiiiiiiiiiietsch*! Die Trainer sind Digimon?!
-92,3002,,"Pensavo che tutti i Digimon assomigliassero ad Agumon e Gabumon, ma ci sono così tanti tipi?!","我以為數碼寶貝都是像亞古獸、加布獸這樣的，
+92,3002,,"Pensavo che tutti i Digimon assomigliassero ad Agumon e Gabumon,
+ma ci sono così tanti tipi?!","我以為數碼寶貝都是像亞古獸、加布獸這樣的，
 看來還有其他各種樣子呢──",,"디지몬은 모두 아구몬이나 파피몬 같은 줄
 알았는데 그 밖에도 여러 아이들이 있었구나~?","Ich dachte, alle Digimon würden wie Agumon und
 Gabumon aussehen, aber es gibt so viele Arten?!"
@@ -355,7 +358,8 @@ Ich sammle wirklich nur Masken."
 113,2020,,...,…………,,…………,...
 114,7174,,Cosa?!,什麼～嘛～！！,,뭐~야~!!,Was?!
 115,2020,,?!,！？,,!?,?!
-116,3002,,"Non ci posso credere! Sembra che questo istruttore abbia il senso dell'umorismo, Agumon, Gabumon!","真是的，嚇死我了！
+116,3002,,"Non ci posso credere!
+Sembra che questo istruttore abbia il senso dell'umorismo, Agumon, Gabumon!","真是的，嚇死我了！
 健身房的人不只特訓厲害，還很會開玩笑呢。
 對吧，亞古獸、加布獸！",,"아, 깜짝이야!
 체육관에서는 특훈 뿐 아니라 농담도 가르치는구나
@@ -429,8 +433,8 @@ durchhaltet."
 Seid ihr euch sicher? "
 147,3002,,"Wow! Sei adorabile, ma così pieno di vita!","嗚嗚……！　明、明明外觀很可愛，
 卻好有氣勢……！",,우우…!  귀엽게 생겼지만 엄청난 기백…!,Wow! Ihr seid niedlich und so voller Leben!
-148,3002,,"Anche se, se non portiamo a termine questa cosa, saremo
-deboli per sempre!",可是，要是逃走的話，我就永遠這麼弱小……！,,하지만 여기서 도망치면 언제까지고 약한 채 그대로니까……!,"Wenn wir das allerdings nicht durchziehen, werden
+148,3002,,"Anche se, se non portiamo a termine questa cosa,
+saremo deboli per sempre!",可是，要是逃走的話，我就永遠這麼弱小……！,,하지만 여기서 도망치면 언제까지고 약한 채 그대로니까……!,"Wenn wir das allerdings nicht durchziehen, werden
 wir für immer schwach sein!"
 149,3002,,"Siamo nelle tue mani capaci!
 Mettici alla prova!","就請您多多指教了，師傅！！
@@ -438,8 +442,7 @@ Mettici alla prova!","就請您多多指教了，師傅！！
 엉망진창 두근두근하게 단련시켜 주십쇼!","Ihr habt das Sagen!
 Bringt uns ins Schwitzen!"
 150,5008,,Ti prego!,請您多多指教！,,주십쇼!,Bitte!
-151,7169,,"Ottimo spirito! Cominciamo, Blanc!
-Sgherro!","很好！我欣賞妳！
+151,7169,,"Ottimo spirito! Cominciamo, Blanc! Sgherro!","很好！我欣賞妳！
 開始吧，雪白以及手下！",,"참 훌륭한 마음가짐이도다!
 시작하자, 블랑, 그리고 부하!","Das ist die richtige Einstellung! Los geht’s,
 Blanc! Helfer!"

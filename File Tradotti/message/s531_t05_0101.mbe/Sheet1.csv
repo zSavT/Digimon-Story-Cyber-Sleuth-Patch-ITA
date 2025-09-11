@@ -1,5 +1,6 @@
 ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
-1,2020,,"(È un caso da un insegnante di Inoden! Non mi ha mai insegnato, ma potrebbe riconoscere la mia faccia.)","（來自井之電老師的委託……！
+1,2020,,"(È un caso da un insegnante di Inoden!
+Non mi ha mai insegnato, ma potrebbe riconoscere la mia faccia.)","（來自井之電老師的委託……！
 　雖然不是我的班導，但也可能被認出來……！）",,"(이노덴 교사에게서 온 의뢰다…!!
  담임은 아니지만 나를 알 가능성도 있다…)","(Das ist ein Fall von einem Inoden-Lehrer! Er
 hat mich zwar nicht unterrichtet, aber vielleicht
@@ -46,14 +47,16 @@ Sie also auf keinen Fall die Polizei ein."
 請先詳細說明一下吧。",,"알았어.
 우선은 이야기를 자세히 들려줘","Ich verstehe schon. Bitte erzählen Sie mir
 Genaueres."
-14,7319,,Abbiamo scoperto che un gruppo di studenti ha barato all'ultimo esame di metà semestre. Tutti e 40 gli studenti della classe erano coinvolti.,"好的……前陣子發現期中考有集體作弊的現象。
+14,7319,,"Abbiamo scoperto che un gruppo di studenti ha barato all'ultimo esame
+di metà semestre. Tutti e 40 gli studenti della classe erano coinvolti.","好的……前陣子發現期中考有集體作弊的現象。
 而且……恐怕全班40個學生都參與其中。",,"네…요전의 중간고사에서 집단 커닝이 발각되었습니다.
 그것도…아마, 그 반 학생인 40명 거의 전원이 했습니다","Wir haben festgestellt, dass eine Gruppe von
 Schülern bei der letzten Klassenarbeit geschummelt
 hatte. Es waren alle 40 Schüler in der Klasse."
 15,3046,,Non dovresti semplicemente punirli?,……那樣的話，不是處罰作弊學生就好了嗎？,,"……그럼 커닝한 학생들을
 처분하면 되는 문제 아닌가?",Sollten sie nicht einfach bestraft werden?
-16,7319,,"Non abbiamo prove e non sappiamo come l'abbiano fatto, quindi non possiamo punirli.","可是完全不清楚他們用了什麼方式、
+16,7319,,"Non abbiamo prove e non sappiamo come l'abbiano fatto,
+quindi non possiamo punirli.","可是完全不清楚他們用了什麼方式、
 怎麼樣成功作弊的。
 所以沒辦法處罰。",,"그런데 대체 무엇을 이용해서 어떻게 커닝을 했는지
 전혀 알 수가 없어요. 그래서 처분할 수 없습니다","Wir haben keine Beweise und wissen nicht, wie sie
@@ -69,14 +72,16 @@ erano identiche.","因為這個班級……3年C班的成績突然大幅提高�
 다수 있었습니다","Die Ergebnisse der Klasse 3C haben sich sehr
 plötzlich verbessert. Und die Antworten auf die
 Aufsatzfragen waren identisch."
-20,3046,,Magari hanno usato telefoni o Digivice? O forse in qualche modo si sono procurati le domande prima del test.,"利用手機或Digivice作弊的可能性呢？
+20,3046,,"Magari hanno usato telefoni o Digivice?
+O forse in qualche modo si sono procurati le domande
+prima del test.","利用手機或Digivice作弊的可能性呢？
 搞不好有什麼方法，事前知道考題……",,"휴대폰이나 디지바이스를 사용했을 가능성은?
 어쩌면 어떤 방법으로 시험문제를 사전에 입수했다거나…","Vielleicht haben sie Handys oder Digivices
 benutzt? Oder vielleicht kannten sie die Fragen
 vor der Klassenarbeit."
 21,7319,,"Agli studenti è vietato avere dispositivi elettronici
-con sé durante il test. E uno studente ha
-tentato di rubare il compito in classe, ma ha fallito.","考試時當然有禁止攜帶終端設備。
+con sé durante il test. E uno studente ha tentato
+di rubare il compito in classe, ma ha fallito.","考試時當然有禁止攜帶終端設備。
 而且，以前曾有學生試圖拿到考卷打樣，
 最後未遂沒成功。",,"물론 단말은 반입금지입니다.
 그리고 이전에 시험지의 시험인쇄본을 입수하려고 했던
@@ -98,8 +103,8 @@ dispositivo e usarlo per imbrogliare.","總之現在能確定的是，學生們�
 haben, ein kleines Gerät hineinzuschmuggeln, um
 damit zu schummeln."
 24,3046,,"Allora perché non isolare uno studente, mettergli
-pressione e farlo confessare? Quello che
-ha cercato di rubare il compito in classe, per esempio.","那如果抓住可疑學生，嚴厲逼他招供呢？
+pressione e farlo confessare? Quello che ha cercato
+di rubare il compito in classe, per esempio.","那如果抓住可疑學生，嚴厲逼他招供呢？
 比方說那個想偷考卷的學生。",,"그럼 수상한 녀석을 잡아 쥐어짜서 자백시키는 건 어떠냐?
 예를 들면, 문제지를 훔치려고 했던 그 학생이라던가","Warum knöpfen Sie sich nicht einen Schüler vor,
 machen Druck und lassen ihn beichten? Vielleicht
@@ -113,7 +118,9 @@ mehrmals mit ihm gesprochen."
 不肯再多說什麼。",,"하지만「전 아무것도 모릅니다」로 일관해서…
 그 이상 말해주지 않습니다","Er beteuert nur immer wieder, dass er nichts davon
 weiß. Mehr sagt er nicht."
-27,7319,,"I ragazzi in classe lo bullizzano costringendolo a fare cose per loro. Abbiamo provato a risolvere la situazione, ma lo hanno minacciato di non dirlo a nessuno.","重信同學被C班的學生當作跑腿使喚，
+27,7319,,"I ragazzi in classe lo bullizzano costringendolo a fare cose per loro.
+Abbiamo provato a risolvere la situazione,
+ma lo hanno minacciato di non dirlo a nessuno.","重信同學被C班的學生當作跑腿使喚，
 雖然老師們有多留意著，
 但學生們好像威脅他『不准跟老師說』。",,"시게노부 군은 C반 학생들에게 심부름꾼으로 부려지고 있어서요.
 저희도 주시는 하고 있지만, 아무래도 학생들에게
@@ -151,7 +158,8 @@ di mettere le mani su qualcosa di così sofisticato.","雖然不覺得高中生�
 요즘에는 콩알보다 작은 단말도 존재해","Es gibt jetzt welche, die kleiner als Erbsen sind,
 aber wahrscheinlich kommen Schüler an so etwas
 Fortschrittliches nicht heran."
-34,3046,,"Se lo avessero fatto, nemmeno una perquisizione a fondo sarebbe stata in grado di trovarli.","如果用了那種東西，
+34,3046,,"Se lo avessero fatto, nemmeno una perquisizione a
+fondo sarebbe stata in grado di trovarli.","如果用了那種東西，
 就算脫光調查也抓不到……",,"그걸 써버리면 알몸으로 조사해도
 모르는 경우도 있다…","Wenn doch, könnte man das auch mit einer
 Leibesvisitation nicht finden."
@@ -229,7 +237,8 @@ questo strumento ""talpa"" proibito.","看來學生們是彼此串通，
 금단의 커닝 툴 ""두더지""를 입수한 것 같더군","Die Schüler haben sich anscheinend verschworen,
 um dieses verbotene Maulwurf-Gerät zu kaufen."
 55,7319,,Ma cos'è esattamente?,鼴鼠是個怎麼樣的工具？,,그 두더지는 대체 무엇인가요?,Aber was genau ist es denn?
-56,3046,,È un computer miniaturizzato indossabile. In pratica un dispositivo mobile che puoi indossare.,"……超小型穿戴式電腦。
+56,3046,,"È un computer miniaturizzato indossabile.
+In pratica un dispositivo mobile che puoi indossare.","……超小型穿戴式電腦。
 換言之，需要貼身使用的數位終端。",,"…초소형 웨어러블 컴퓨터.
 그러니까, 몸에 붙여서 사용하는 모바일 단말이다","Es ist ein tragbarer Mini-Computer. Also ein
 Mobilgerät, das man tragen kann."
@@ -252,8 +261,7 @@ zu sehen. Es besteht aus Materialien, die dem
 menschlichen Körper nachempfunden sind."
 60,7319,,Come si indossa?,這要怎麼貼身使用？,,"몸 어디에, 어떻게 붙이는 건가요?",Wie wird es getragen?
 61,3046,,"Sono come un paio di lenti a contatto e auricolari.
-Si indossano sulla superficie dell'occhio e nell'
-orecchio.","它設計成隱形眼鏡或耳塞的模樣，
+Si indossano sulla superficie dell'occhio e nell'orecchio.","它設計成隱形眼鏡或耳塞的模樣，
 貼在眼球表面或耳道中就能使用。",,"콘택트렌즈와 귀마개 형상을 하고 있어서
 눈 표면과 귀 안쪽에 붙이는 거다","Es ist ein Set aus Kontaktlinsen und einem
 Ohrhörer. Man trägt sie auf dem Auge und im Ohr."
@@ -265,13 +273,12 @@ stata bandita?","我都不知道有這麼方便的東西……
 但為什麼它被禁止使用？",,"그런 편리한 물건이 있을 줄은 몰랐습니다…
 하지만, 왜 판매가 금지된 것이죠?","Ich wusste überhaupt nicht, dass es so was gibt.
 Warum wurde es verboten?"
-64,3046,,"Le persone hanno avuto problemi mentre erano connesse con
-il dispositivo.",聽說使用這終端連線時，出現一些問題。,,"이 단말을 사용해서 로그인하는 동안
+64,3046,,"Le persone hanno avuto problemi mentre erano
+connesse con il dispositivo.",聽說使用這終端連線時，出現一些問題。,,"이 단말을 사용해서 로그인하는 동안
 어떤 트러블이 일어나기 시작했다더군","Leute hatten damit Probleme, während sie auf dem
 Gerät eingeloggt waren."
 65,3046,,"Trasferire denaro a un conto sconosciuto,
-aggredire sconosciuti per strada... Cose del
-genere.","比方說匯款到不知名的戶頭裡，
+aggredire sconosciuti per strada... Cose del genere.","比方說匯款到不知名的戶頭裡，
 或是突然毆打不認識的路人……",,"모르는 계좌에 돈을 입금하거나
 거리에서 일면식도 없는 사람에게 갑자기 덤비거나……","Geldtransfers zu unbekannten Accounts,
 willkürliche Angriffe auf der Straße ... solche
@@ -303,7 +310,8 @@ sono stati in grado di capirlo.","不管是製造商還是神代的研究者，
 Kamishiro konnten sich das nicht zusammenreimen."
 72,3046,,Ecco perché è stato bandito.,所以，這個終端才停止生產。,,그래서 이 단말을 제조가 중단됐지,Darum wurde das Gerät verboten.
 73,3046,,"È possibile che invii segnali ai nervi e
-al tessuto muscolare in qualche modo, ma questa è solo una congettura.","恐怕是它與生物相容的性能太過優秀，
+al tessuto muscolare in qualche modo, ma questa
+è solo una congettura.","恐怕是它與生物相容的性能太過優秀，
 變得能向腦神經或肌肉組織傳送訊號……
 這是其中一個假設。",,"아마, 생체부품으로서의 성능이 지나치게 좋아서
 뇌 신경과 근육조직에 신호를 보낼 수 있는 수준의 장치가 되었다…
@@ -311,8 +319,8 @@ al tessuto muscolare in qualche modo, ma questa è solo una congettura.","恐怕
 und Muskelgewebe sendet, aber das ist reine
 Spekulation."
 74,3046,,"I segnali elettrici controllano il movimento del
-corpo umano. E si sa molto poco sulla
-digitalizzazione dei dati mentali in EDEN.","畢竟我們也是以電波信號來驅動身體。
+corpo umano. E si sa molto poco sulla digitalizzazione
+dei dati mentali in EDEN.","畢竟我們也是以電波信號來驅動身體。
 光是構成EDEN骨架系統的精神數據化，
 就一大堆未知部分等待研究了……",,"우리의 몸을 움직이는 것도 결국엔 전기신호다.
 EDEN의 근간 시스템인 정신의 데이터화도
@@ -320,8 +328,8 @@ EDEN의 근간 시스템인 정신의 데이터화도
 für Bewegung. Und man weiß nur wenig über
 die Digitalisierung von Mentaldaten in EDEN."
 75,7319,,"Come ha fatto una cosa così pericolosa a finire
-nelle mani di ragazzini? Dobbiamo confiscarli, e
-presto!","那麼可怕的終端居然在孩子們手上……
+nelle mani di ragazzini? Dobbiamo confiscarli,
+e presto!","那麼可怕的終端居然在孩子們手上……
 必、必須快點回收！",,"그런 무시무시한 단말이 아이들 손에 있다니…
 빠, 빨리 회수해야…!","Wie konnten Kinder an etwas so Gefährliches
 kommen? Wir müssen sie konfiszieren und zwar
@@ -329,8 +337,8 @@ schnell!"
 76,3046,,"Certo, ma non fare ancora niente.","當然，
 但是請先別動作。",,"물론이지.
 하지만, 아직 움직이지 마",Natürlich. Aber unternehmen Sie vorerst nichts.
-77,3046,,"Se diamo troppo nell'occhio, alcuni ragazzi potrebbero sbarazzarsi
-dei dispositivi. Per assicurarci di non perderne
+77,3046,,"Se diamo troppo nell'occhio, alcuni ragazzi potrebbero
+sbarazzarsi dei dispositivi. Per assicurarci di non perderne
 neanche uno, dobbiamo coglierli sul fatto.","要是我們打草驚蛇，搞不好會有學生隨便丟棄終端。
 為了能全數回收，必須要一次逮到所有人。",,"이쪽의 움직임이 들키면, 
 학생 중에 단말을 팔아버리는 자가 나올지도 몰라.

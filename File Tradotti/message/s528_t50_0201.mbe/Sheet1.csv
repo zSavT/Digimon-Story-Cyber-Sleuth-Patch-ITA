@@ -11,7 +11,8 @@ mich bestimmt. Was soll ich machen?)"
 3,3047,,"Che ti succede? Sembra che tu abbia
 visto un fantasma.",哦，怎麼啦？　一臉鐵青。,,"오, 왜 그래? 얼굴이 새파래져선","Was ist denn mit dir los? Du siehst ja aus, als
 hättest du ein Gespenst gesehen."
-4,3047,,Hai accettato accidentalmente un caso da una studentessa del Liceo Inoden?,不小心接受了井之電學生的委託？,,이노덴 학생의 의뢰를 실수로 받아버렸다고?,"Du hast aus Versehen einen Fall von einer
+4,3047,,"Hai accettato accidentalmente un caso da una studentessa del
+Liceo Inoden?",不小心接受了井之電學生的委託？,,이노덴 학생의 의뢰를 실수로 받아버렸다고?,"Du hast aus Versehen einen Fall von einer
 Schülerin der Inoden High School angenommen?"
 5,3047,,"Capisco. La scuola pensa che tu sia una specie di
 hacker malintenzionato. Capisco come potrebbe essere
@@ -28,8 +29,8 @@ wohl eher schwierig."
 그러면 되겠지?","Ich hab’s! Ich könnte doch an deiner Stelle mit
 ihr reden!"
 7,3047,,Bene. Lo farò subito...,好，那就立刻……,,"좋았어, 그럼 바로…",Super. Dann mach ich das jetzt.
-8,7374,,"Ciao. Sei con gli Hudie? Sono Kuraji, presidente
-dell'Inoden Digital Club.","喂……是hudie的人嗎？
+8,7374,,"Ciao. Sei con gli Hudie? Sono Kuraji,
+presidente dell'Inoden Digital Club.","喂……是hudie的人嗎？
 我是井之電的社長，叫倉地。",,"여보세요…후디에 분이십니까.
 전 이노덴 부장 쿠라치라고 합니다","Hallo. Gehörst du zu Hudie? Ich heiße Kuraji und
 bin Vorsitzende des Inoden-Informatikclubs."
@@ -42,11 +43,12 @@ campionato di programmazione di domani.","……其實是關於明天舉行的�
 我想要拜託你們當我們的幫手。",,"……실은, 내일 있을 고교생 프로그램 선수권에
 조력을 부탁드리고 싶습니다","Wir brauchen jemanden als Verstärkung für den
 Programmierwettbewerb morgen."
-11,3047,,Eh? Pensavo che i professionisti non fossero autorizzati a partecipare?,"嗯？　在高中生大賽裡要專業人士出馬，
+11,3047,,"Eh? Pensavo che i professionisti non fossero autorizzati a partecipare?","嗯？　在高中生大賽裡要專業人士出馬，
 這樣會不會太耍詐了？",,"응? 고등학생 대회에 프로가 나가는 건
 반칙 아냐~?","Wie? Ich dachte, dass Profis da nicht mitmachen
 dürfen."
-12,7374,,Le regole dicono che accademici e hacker sono autorizzati ad agire come consiglieri.,"不，因為目的是測試研究成果，
+12,7374,,"Le regole dicono che accademici e hacker sono autorizzati ad agire
+come consiglieri.","不，因為目的是測試研究成果，
 所以引用學者或駭客是被認可的……
 有這樣的規矩存在。",,"아뇨, 연구 성과를 시험하는 게 목적이기 때문에
 학자나 해커를 인용해도 무방하다…
@@ -60,7 +62,8 @@ situazione difficile.","我知道那是遊走在灰色地帶的做法，
 但是我也是有我的苦衷……",,"아슬아슬하다는 건 알고 있습니다.
 다만 사정이 있어서…","Es ist eine gewisse Grauzone, aber wir stecken in
 einer schwierigen Situation."
-15,7374,,Abbiamo informazioni affidabili che la scuola superiore Nishinomori sta pianificando di sabotare le finali.,"其實因為某些原因，我收到了對戰對手
+15,7374,,"Abbiamo informazioni affidabili che la scuola superiore Nishinomori
+sta pianificando di sabotare le finali.","其實因為某些原因，我收到了對戰對手
 西之森高中正試圖對我們
 進行妨礙手段……的情報。",,"실은 어느 루트를 통해 
 결승전에서 맞붙는 니시노모리 고교가 방해 공작을
@@ -68,8 +71,8 @@ einer schwierigen Situation."
 Nishinomori High School das Finale sabotieren
 will."
 16,3047,,Sabotaggio?,妨礙手段？,,방해 공작?,Sabotieren?
-17,7374,,"Non conosciamo alcun dettaglio, ma la reputazione di
-entrambe le scuole è a rischio.","詳細並不清楚。
+17,7374,,"Non conosciamo alcun dettaglio, ma la reputazione
+di entrambe le scuole è a rischio.","詳細並不清楚。
 只是……這次的決賽賭上了兩校的名譽。",,"자세한 건 모릅니다.
 다만…이 결승전은 두 학교의 명예가 걸려있습니다","Wir wissen nichts Genaueres, aber hier steht der
 Ruf beider Schulen auf dem Spiel."

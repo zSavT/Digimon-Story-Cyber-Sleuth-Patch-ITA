@@ -42,7 +42,7 @@ per mostre speciali e simili.","水族館也常有機會，為了辦特別展覽
 연구소로부터 귀중한 생물을 맡는 경우가 많아","Es erhält extrem seltene Tiere von anderen
 Aquarien und Forschungsinstituten auf der ganzen
 Welt für Sonderausstellungen und so weiter."
-10,3007,,Qualsiasi voce di problemi di sicurezza metterebbe presto fine a questo.,要是傳出安全上有問題，可就難經營下去了。,,보안에 문제가 있다는 소문은 치명적이지,"Wenn sich etwas über Sicherheitslücken
+10,3007,,"Qualsiasi voce di problemi di sicurezza metterebbe presto fine a questo.",要是傳出安全上有問題，可就難經營下去了。,,보안에 문제가 있다는 소문은 치명적이지,"Wenn sich etwas über Sicherheitslücken
 herumspräche, wäre das das Ende."
 11,3007,,"Ora sappiamo chi c'era dietro a tutto questo. Dopo essere stata
 arrestata, ha promesso che non lo avrebbe mai più fatto.
@@ -56,8 +56,7 @@ Aquariumsdirektor ist damit zufrieden."
 12,3045,,Quindi...,咦，那麼……,,"아, 그럼…",Also ...
 13,3007,,Verrà rilasciata domani.,那傢伙，明天就會被釋放了。,,그 녀석은 내일이면 석방된다고 하더군,Wird sie morgen freigelassen.
 14,3046,,Signore!,又吉先生！,,마타요시 씨!,Herr Kommissar!
-15,3007,,"Calmati, Ryuji. So come ti senti, ma non abbiamo
-altra scelta.","冷靜點，龍司。
+15,3007,,"Calmati, Ryuji. So come ti senti, ma non abbiamo altra scelta.","冷靜點，龍司。
 我也懂你的心情，但這實在是沒辦法了。",,"진정해라, 류지
 네 기분을 모르는 건 아니지만 이것만은 어쩔 수 없어","Beruhige dich, Ryuji. Ich kann dich verstehen,
 aber wir haben keine Wahl."
@@ -107,14 +106,14 @@ Erika...",啊──在艾莉卡面前有點不方便說……,,"아, 에리카 �
 aussprechen ..."
 29,3046,,Va bene. È un'hacker proprio come noi.,沒關係的，她也算是駭客。,,상관없습니다. 이 녀석도 해커 나부랭이니까요,"Ist schon in Ordnung. Sie ist ein Hacker wie wir
 alle."
-30,3046,,"Esplosivo plastico, impostato per essere detonato da remoto
-in qualsiasi momento.","我們找到的，是塑膠炸彈。
+30,3046,,"Esplosivo plastico, impostato per essere detonato
+da remoto in qualsiasi momento.","我們找到的，是塑膠炸彈。
 上面還有可隨時從外部引爆的裝置。",,"발견된 건 플라스틱 폭탄이다.
 외부에서의 엑세스로 언제든 발화가 가능한 장치였지","Plastiksprengstoff, der jederzeit aus der Ferne
 hätte gezündet werden können."
-31,3046,,"Erano attaccati alla parte inferiore di tutti i
-serbatoi che sono stati restituiti. Sono piccoli, ma
-detonarli tutti in una volta raderebbe al suolo il posto.","犯人送回的水箱內全都被安裝了。
+31,3046,,"Erano attaccati alla parte inferiore di tutti i serbatoi
+che sono stati restituiti. Sono piccoli, ma detonarli
+tutti in una volta raderebbe al suolo il posto.","犯人送回的水箱內全都被安裝了。
 雖然小，但這些炸彈要是全被引爆，
 那間水族館可會被炸得粉碎。",,"되돌아온 장물의 모든 케이스 뒷편에 설치되어 있었다.
 소형이지만 장치된 것을 전부 기폭시키면
@@ -176,7 +175,8 @@ lontano da qui.","現在，犯人應該把虛擬空間的水族館
 소형 서버로 옮겨서 어딘가로 멀리 도망치지 않았을까","Mittlerweile hat sie das virtuelle Aquarium
 vermutlich auf einen kleinen Server verschoben und
 sich irgendwo weit weg verzogen."
-45,3007,,"Sono infastidito che non possiamo chiederle conto di ciò che ha fatto, ma almeno non succederà nulla all'acquario se preme il detonatore ora.","雖然沒辦法判她有罪很不爽，
+45,3007,,"Sono infastidito che non possiamo chiederle conto di ciò che ha fatto,
+ma almeno non succederà nulla all'acquario se preme il detonatore ora.","雖然沒辦法判她有罪很不爽，
 但就算那女人接下來想引爆炸彈，
 那間水族館也會平安無事了。",,"죄를 물을 수 없다는 건 열받지만
 이걸로 그 여자가 기폭 스위치를 눌러봤자

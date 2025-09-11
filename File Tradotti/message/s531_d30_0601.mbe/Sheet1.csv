@@ -7,8 +7,7 @@ combinano gli studenti di 3a, classe C?","那麼，我們去一下那個電腦�
 觀察一下3年C班的學生都在做什麼吧。",,"그럼, 그 전뇌공간에 가서
 3학년 C반 학생들이 뭘 하는지 들여다볼까","Sollen wir in den Cyberspace gehen und mal sehen,
 was die Schüler der Klasse 3C so machen?"
-3,3046,,"Oggi è l'ultimo test. Forza, mostra un po' di
-entusiasmo!","今天是考試的最後一天。
+3,3046,,"Oggi è l'ultimo test. Forza, mostra un po' di entusiasmo!","今天是考試的最後一天。
 我想你也知道，要繃緊神經喔。",,"오늘이 시험 마지막 날이다.
 알고 있겠지만, 기합 넣고 가라?","Heute wird die letzte Klassenarbeit geschrieben.
 Kommt schon, zeigt etwas Enthusiasmus."
@@ -121,7 +120,8 @@ Bitte ... aufhören! AUFHÖREN!"
 所有人都被操縱了啊。",,"그런 건 너희들이 제일 잘 알지?
 다들 조종당하고 있는 거다","Ihr solltet es am besten wissen. Ihr werdet
 beherrscht."
-35,3046,,Vi siete fatti controllare per poter sostenere l'esame automaticamente e ottenere buoni voti.,"被操縱之後，會自動參加考試，
+35,3046,,"Vi siete fatti controllare per poter sostenere
+l'esame automaticamente e ottenere buoni voti.","被操縱之後，會自動參加考試，
 然後自動考出不錯的成績。
 你們應該很清楚吧？",,"조종당해서 자동적으로 시험을 쳤다.
 그리고 자동적으로 좋은 점수를 받았다.
@@ -143,14 +143,16 @@ gar nichts aus?"
 ……接下來會怎麼樣？",,"……!!
 우리가 옥상에 올라갔어
 ……이제부터 어떻게 되는 거야?",He! Wir gehen hoch aufs Dach! Was passiert hier?
-39,3046,,"Osservate attentamente. Sembriate dei lemming impazziti, non credete?","仔細看清楚，
+39,3046,,"Osservate attentamente.
+Sembriate dei lemming impazziti, non credete?","仔細看清楚，
 看起來很像神智不清的老鼠吧？",,"잘 봐봐,
 정신 나간 쥐 같지 않아?","Schaut genau hin. Ihr sieht aus wie verrückt
 gewordene Lemminge, findet ihr nicht?"
 40,7316,,È un casino! Quel tetto è davvero alto!,"喂、喂，這很不妙吧？
 我們是要在屋頂幹什麼！？",,"어, 어이, 이거 위험하지 않아?
 옥상에서 뭘 어떻게 하는 거야 우리는!?",Das ist nicht gut! Das Dach ist sehr hoch!
-41,3046,,"Sfortunatamente, sei arrivato troppo tardi. Non puoi tornare
+41,3046,,"Sfortunatamente, sei arrivato troppo tardi.
+Non puoi tornare
 indietro ora.","很可惜，已經來不及了。
 你們已經沒辦法從這裡回去了。",,"유감이지만, 이미 늦었다.
 너희들은 이제, 여기서, 그곳으로는 돌아갈 수 없어",Leider ist es zu spät. Jetzt gibt es kein Zurück.
@@ -162,8 +164,7 @@ die Brüstung. Seht euch das an ..."
 43,7317,,Eeeek!!!,呀啊啊啊！！,,꺄아아악!!,Aaaahhh!
 44,7315,,Smettetela! Subito!,快阻止啊……快點去阻止啊！！,,멈춰……멈춰줘!!,Aufhören! Sofort!
 45,3046,,"Puoi implorare e urlare quanto vuoi, ma è troppo
-tardi. Sembra che siate saltati tutti giù dal
-tetto.","再怎麼吵鬧、掙扎，都太遲了。
+tardi. Sembra che siate saltati tutti giù dal tetto.","再怎麼吵鬧、掙扎，都太遲了。
 你看，才一下子，
 好像所有人都跳下去了啊。",,"소란피워도 날뛰어도 이미 늦었어.
 봐봐, 순식간에
@@ -174,15 +175,16 @@ ihr alle vom Dach gesprungen seid."
 那，我們已經……",,"어떻게 된 거야……
 그럼, 우리는 이미……",Was? Sind wir also ...?
 47,3046,,Esatto. Sei morto.,對，已經死了。,,"그래, 죽었어",Stimmt genau. Ihr seid tot.
-48,3046,,"E non solo tu. Gli insegnanti, i ragazzi delle altre classi e tutti gli altri che hai trascinato in questo.","不只有自己，連學校裡的老師，
+48,3046,,"E non solo tu. Gli insegnanti, i ragazzi delle altre classi
+e tutti gli altri che hai trascinato in questo.","不只有自己，連學校裡的老師，
 其他班級的學生之類，
 把一大票人一起拖下水了。",,"너희들뿐만 아니라 학교 안에 있던 선생과
 다른 반 학생,
 그 외 많은 사람을 길동무 삼고","Und nicht nur ihr. Die Lehrer, die Schüler in
 anderen Klassen ... alle, die ihr da mit
 reingezogen habt."
-49,3046,,"Ho un'idea su chi ci sia dietro. C'è solo uno
-studente che non è qui.","這到底是誰設下的圈套？
+49,3046,,"Ho un'idea su chi ci sia dietro.
+C'è solo uno studente che non è qui.","這到底是誰設下的圈套？
 我覺得多少猜得到……
 只有一個學生，沒有出現在這個地方。",,"누가 이런 일을 꾸몄을까?
 어렴풋이 알았겠지만……
@@ -190,8 +192,8 @@ studente che non è qui.","這到底是誰設下的圈套？
 Schüler ist hier nicht anwesend."
 50,7315,,Shigenobu!!!,重信！！,,시게노부!!,Shigenobu!!!
 51,3046,,"Esatto. È lui che ti ha parlato delle
-talpe. Ho ricevuto un videomessaggio da lui. Vuoi
-vederlo?","對，是重信。
+talpe. Ho ricevuto un videomessaggio da lui.
+Vuoi vederlo?","對，是重信。
 告訴你們鼴鼠的那個人。
 這裡有他要給你們的訊息影片喔，要看嗎？",,"그래. 시게노부 군.
 너희들에게 두더지를 알려준 인물이지.
@@ -206,8 +208,8 @@ A prendermi in giro tutto il tempo?","哼哼哼……嗨，你們好啊。
 괴롭혀서 재미있었니?","Hahaha ... Hat es euch Spaß gemacht, mich zu
 ärgern und euch ständig über mich lustig zu
 machen?"
-53,7320,,"Questa è la mia vendetta! Il nostro insegnante è morto, e così
-morirete tutti voi!","這是復仇。
+53,7320,,"Questa è la mia vendetta! Il nostro insegnante è morto,
+e così morirete tutti voi!","這是復仇。
 那個老師，還有你們，全部都死了。",,"이게 복수야.
 그 교사도, 너희들도, 전부 죽었어","Dies ist meine Rache! Unser Lehrer ist tot und ihr
 ebenso!"
@@ -225,7 +227,9 @@ erschaffen hat?"
 57,7317,,"Non era Shigenobu, vero?","咦……
 這裡是重信創造的……不是嗎？",,"어……
 여기는, 시게노부가 만든……거지?","Doch nicht etwa Shigenobu, oder?"
-58,3046,,"Sì. È un'aula virtuale. E presto sparirà, portando via tutti voi con sé. È così che finisce il suo piano.","對，還有這個空間虛擬教室，
+58,3046,,"Sì. È un'aula virtuale. E presto sparirà,
+portando via tutti voi con sé.
+È così che finisce il suo piano.","對，還有這個空間虛擬教室，
 就快要消失了，你們也會一起陪葬。
 重信的圈套已經設計到這種地步。",,"그래. 그리고 이 공간 가상 교실은
 이제 곧 소멸한다더군. 너희들과 함께 말이지.
@@ -336,16 +340,15 @@ aula.","你們以為自己又翹掉考試，
 이 장소는……잘 봐봐. 현실이다
 진짜 학교 건물의, 늘 앉아있는 교실인 거야","Schaut euch um. Dieser Ort ist echt. Es ist euer
 Klassenzimmer."
-80,7319,,"E i vostri veri corpi sono ancora vivi. Dovete
-ringraziare questi due hacker per questo.","總而言之，現實世界的你們就在這裡，
+80,7319,,"E i vostri veri corpi sono ancora vivi.
+Dovete ringraziare questi due hacker per questo.","總而言之，現實世界的你們就在這裡，
 而且平安存活下來的意思。
 你們要好好感謝這兩位駭客喔。",,"말하자면, 현실의 너희들은 여기서
 살아남을 수 있었단 거다
 해커인 두 사람에게 감사하라고","Und ihr seid auch noch am Leben. Das habt ihr
 diesen zwei Hackern zu verdanken."
-81,7319,,"Se non avessero arrestato Shigenobu e scoperto
-il suo piano ieri, tu e io saremmo tutti morti
-proprio ora.","如果他們沒有在昨天抓住重信，
+81,7319,,"Se non avessero arrestato Shigenobu e scoperto il suo
+piano ieri, tu e io saremmo tutti morti proprio ora.","如果他們沒有在昨天抓住重信，
 問出他想要做什麼的話，
 我和你們幾個可能真的會死啊。",,"어제 그들이 시게노부 군을 붙잡아
 그의 목적을 듣지 못했다면
@@ -363,14 +366,14 @@ a imbrogliare, tutti ripeteranno la terza media.","在你們向重信鄭重道�
 werdet ihr alle Arbeiten neu schreiben. Wenn
 jemand schummelt, wiederholen alle die 3. Klasse."
 84,7321,,Cosa?!,咦～～！？,,뭐~~!?,Was?!
-85,7317,,"Immagino che fare esami di recupero e ripetere
-la terza elementare non siano niente in confronto all'essere morti...","……唉，補考也好，留級也罷。
+85,7317,,"Immagino che fare esami di recupero e ripetere la terza
+elementare non siano niente in confronto all'essere morti...","……唉，補考也好，留級也罷。
 都比墜落死亡還要好啦。",,"……뭐, 추가시험도 유급도
 뛰어내려서 죽는 것보다는 몇 배나 낫지","Die Klassenarbeiten neu zu schreiben und die
 3. Klasse zu wiederholen, ist wohl nicht so
 schlimm, wie tot zu sein."
-86,7318,,"Hai ragione. Cercherò di farcela da solo
-questa volta. E...buona fortuna anche a te, Shigenobu.","嗯，對啊。
+86,7318,,"Hai ragione. Cercherò di farcela da solo questa volta.
+E...buona fortuna anche a te, Shigenobu.","嗯，對啊。
 這次靠自己的實力努力吧。
 那個……重信也一起加油吧。",,"응, 그렇지.
 이번에는 자신의 힘으로 노력하자.

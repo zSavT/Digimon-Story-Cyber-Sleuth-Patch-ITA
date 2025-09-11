@@ -9,7 +9,8 @@ wenn du neben ihm gehst ..."
 배틀이 끝난 다음부터 상관없는 걸 생각하느라","Argh! Entschuldige! Ich habe gerade an etwas
 anderes gedacht, nachdem der Kampf nun vorüber
 ist."
-3,1359,,Erm... Stavo studiando la cultura umana ultimamente! Mi stavo solo ricordando alcune cose.,"那個……我最近在調查人類的文化！
+3,1359,,"Erm... Stavo studiando la cultura umana ultimamente!
+Mi stavo solo ricordando alcune cose.","那個……我最近在調查人類的文化！
 所以剛剛才想起了那些。",,"저기……요즘 인간들의 문화를 조사하고 있거든!
 그걸 떠올리고 있었어","Ähm ... Ich untersuche gerade die Kultur der
 Menschen! Ich wollte mir ein paar Dinge
@@ -49,13 +50,13 @@ Das ist auf Anhieb schwer zu sagen."
 ……啊，生病的時候不算喔？",,"나도 말야, 항상 활기차게 지내자고 생각하거든!
 ……아, 병에 걸렸을 땐 다르다구?","Ich versuche immer fröhlich zu sein! Ach, außer
 wenn ich krank bin."
-12,1359,,"Non mi sentivo bene quando ci siamo incontrati la prima volta, ma
-sono allegro, non è vero?","雖然跟你初次相遇時，身體不太好。
+12,1359,,"Non mi sentivo bene quando ci siamo incontrati la prima volta,
+ma sono allegro, non è vero?","雖然跟你初次相遇時，身體不太好。
 但我其實是個開朗的女生唷？",,"너랑 처음 만났을 땐 몸 상태가 안 좋았지만
 난 사실 밝은 여자애니까 말야","Mir war nicht wohl, als wir uns das erste Mal
 begegnet sind, aber ich bin fröhlich, oder?"
-13,1359,,"Ragazze modeste e raffinate? Intendi composte ed
-eleganti?","細心有氣質的人？
+13,1359,,"Ragazze modeste e raffinate?
+Intendi composte ed eleganti?","細心有氣質的人？
 嗯～是指很沉穩優雅的感覺嗎？",,"조심스럽고 고상한 애?
 으음~ 침착하고 기품 있는 느낌이라는 소린가?","Bescheidene, gebildete Mädchen? Du meinst ruhig
 und elegant?"
@@ -64,13 +65,12 @@ quello.","那樣的話……說不定有點糟糕啊……
 接下來必須更加努力才行呢……",,"그건……비교적 위험할지도……
 앞으로 더 열심히 해야겠네……","Das ... ist nicht gut. Ich muss mich anstrengen,
 um so zu werden."
-15,1359,,"Ah, grazie per aver risposto. Mi hai dato molto su cui
-riflettere.","啊，謝謝你回答我。
+15,1359,,"Ah, grazie per aver risposto.
+Mi hai dato molto su cui riflettere.","啊，謝謝你回答我。
 得到不錯的參考了呢。",,"아, 대답해줘서 고마워.
 참고하도록 할게","Ach, danke für deine Antwort. Du hast mir viel zu
 denken gegeben."
-16,1359,,"Sì. Mi dispiace. Immagino di averti messo un po' alle
-strette.","……啊，也是呢。
+16,1359,,"Sì. Mi dispiace. Immagino di averti messo un po' alle strette.","……啊，也是呢。
 對不起，果然還是太突然了吧。",,"……아, 그치. 미안해.
 아무래도 너무 갑작스러웠지","Ja. Tut mir leid. Ich schätze, ich habe dich mit
 der Frage überfallen."
@@ -85,13 +85,13 @@ su, okay?","不用急。
 천천히 생각해주면 되니까, 응? 부탁해!","Es eilt nicht. Lass dir Zeit und denk darüber
 nach, okay?"
 19,1359,,Eh? Perché lo chiedo?,咦？　我為什麼要問這種事情？,,어? 왜 그런 걸 묻냐고?,Was? Warum ich dich das frage?
-20,1359,,Ehm... Questo è quanto! Sto raccogliendo statistiche! Su che tipo di donne piacciono ai maschi umani!,"那個～……沒錯！　我正在統計！
+20,1359,,"Ehm... Questo è quanto! Sto raccogliendo statistiche!
+Su che tipo di donne piacciono ai maschi umani!","那個～……沒錯！　我正在統計！
 人類的男性比較喜歡哪種女性，這樣！",,"그러니까……맞아! 집계하고 있어!
 인간 남성은 주로 어떤 여성이 취향인가 하고!","Äh ... Ach ja! Ich erstelle eine Statistik!
 Darüber, welche Art Frauen menschliche Männer
 mögen!"
-21,1359,,"Sto conducendo un sondaggio sul mio sito per conoscere meglio
-gli umani!","我所知道的網站，
+21,1359,,"Sto conducendo un sondaggio sul mio sito per conoscere meglio gli umani!","我所知道的網站，
 為了嘹解人類，正在進行問卷調查！",,"내가 갖고 있는 사이트에서
 인간을 알기 위한 설문조사를 하고 있거든!","Ich führe eine Umfrage auf meiner Website durch,
 um Menschen besser kennenzulernen!"
@@ -104,8 +104,8 @@ meiner Wertschätzung."
 24,1359,,Oh... Niente! Stavo solo parlando tra me e me!,"……沒事，沒什麼事！
 這只是我的自言自語而已！",,"……아니, 아무것도 아냐!
 그냥 혼잣말이야!",Oh ... Vergiss es! Ich rede nur mit mir selbst!
-25,1359,,"Ah, dovrei tornare indietro! Mi è piaciuta la nostra chiacchierata, però!
-Arrivederci per ora!","啊，我差不多要回去了！
+25,1359,,"Ah, dovrei tornare indietro! Mi è piaciuta la nostra chiacchierata,
+però! Arrivederci per ora!","啊，我差不多要回去了！
 跟你聊了不少我很高興喔！　
 那我先走囉！",,"아, 나 슬슬 가봐야겠다!
 또 이런저런 이야길 들을 수 있음 좋겠다! 그럼 다음에 봐!","Ach, ich sollte zurück! Aber unser Gespräch hat

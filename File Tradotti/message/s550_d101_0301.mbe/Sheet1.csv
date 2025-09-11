@@ -4,7 +4,8 @@ ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
 quando viene inserita una password errata.)",（看來是只要失敗就會被踢走的類型）,,"(한 번이라도 틀리면 튕기는 타입의
  보안인 것 같다)","(Anscheinend wird ein Sicherheitssystem ausgelöst,
 wenn das falsche Passwort eingegeben wird.)"
-3,2020,,(La mia unica speranza è chiedere a qualcuno che potrebbe conoscere la password.),（或許只能連絡可能知道密碼的人了）,,"(패스워드를 알 것 같은 사람에게
+3,2020,,"(La mia unica speranza è chiedere a qualcuno che potrebbe
+conoscere la password.)",（或許只能連絡可能知道密碼的人了）,,"(패스워드를 알 것 같은 사람에게
  연락을 취할 수밖에 없을 것 같다)","(Meine einzige Hoffnung besteht darin, jemanden zu
 fragen, der vielleicht das Passwort kennt.)"
 4,7219,,La sua password?,什麼？你問那傢伙用的密碼？,,어? 녀석이 쓰는 패스워드요?,Sein Passwort?
@@ -35,7 +36,8 @@ ich bin mir nicht sicher, wie es geschrieben wird."
 13,7219,,"Ah, l'hai trovato? Quindi è latino?!","啊，你查到了嗎。
 原來是拉丁文啊！",,"아아, 검색해주셨군요.
 라틴어였나요!","Ach, du hast es also gefunden? Es ist Latein?!"
-14,7219,,"Ci siamo incontrati all'università. Abbiamo giurato che avremmo realizzato
+14,7219,,"Ci siamo incontrati all'università.
+Abbiamo giurato che avremmo realizzato
 i nostri sogni insieme.","我和那傢伙從大學就認識……
 發誓過要一起實現夢想。",,"그 녀석과는 대학에서 알아서……
 같이 꿈을 이루자고 맹세했어요","Wir haben uns an der Universität kennengelernt.

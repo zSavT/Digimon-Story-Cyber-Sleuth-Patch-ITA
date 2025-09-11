@@ -4,8 +4,8 @@ ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
 대체 어디 있었던 거야?","Du hast mein Konto gefunden? Wirklich?! Wo war
 es denn?"
 2,7229,,Ancora sul server di Hosaka?,你說還留在他的伺服器裡？,,녀석의 서버에 남아있었다고?,Immer noch auf Hosakas Server?
-3,7229,,"Piximon l'ha tenuto nascosto alla polizia? Alcuni
-Digimon possono essere così subdoli...","妖精獸瞞著警察偷偷藏了起來……？
+3,7229,,"Piximon l'ha tenuto nascosto alla polizia?
+Alcuni Digimon possono essere così subdoli...","妖精獸瞞著警察偷偷藏了起來……？
 還真是個不得了的數碼寶貝……",,"피콜몬이 경찰의 눈을 피해서 몰래 가지고 있었다고……?
 헤에, 별난 디지몬이 다 있네……","Piximon hat es vor der Polizei versteckt? Manche
 Digimon sind echt gewieft ..."
@@ -112,7 +112,8 @@ dass das ein Scherz war!"
 但是……我是有夢想的！！",,"확실히 옛날에는 못된 짓을 했을지도 몰라!
 하지만……나한테는 꿈이 있다고!","Ja, ich habe früher üble Sachen gemacht ... Aber
 Polizist zu werden, ist mein Traum!"
-26,7229,,"Quando i miei amici e io stavamo facendo casino a Kowloon quella volta, c'era un detective che mi disse alcune cose che mi fecero davvero pensare.","以前和夥伴們在Kowloon胡作非為時，
+26,7229,,"Quando i miei amici e io stavamo facendo casino a Kowloon quella volta,
+c'era un detective che mi disse alcune cose che mi fecero davvero pensare.","以前和夥伴們在Kowloon胡作非為時，
 有一位把我當成親人在斥責的刑警。",,"옛날에 동료랑 쿠롱에서 말썽부리던 시절에
 자기 자식처럼 혼내주던 형사님이 있었어","Als meine Freunde und ich mal in Kowloon was
 angestellt hatten, war da ein Kommissar, dessen
@@ -123,24 +124,26 @@ per ripagarlo per aver dato una svolta alla mia vita!","所以總有一天要當
 그때의 감사를 전하는 게 내 꿈이야!","Deshalb ist es mein Traum, Polizist zu werden,
 damit ich ihm dafür danken kann, mein Leben
 verändert zu haben!"
-28,7229,,"Per favore! Sarò un ottimo poliziotto; dammi solo la
-possibilità!","所以拜託了！　我一定會成為一位好警察的……
+28,7229,,"Per favore! Sarò un ottimo poliziotto;
+dammi solo la possibilità!","所以拜託了！　我一定會成為一位好警察的……
 這次拜託你放過我！",,"그러니까 부탁이야! 꼭 좋은 경찰관이 될 테니까……
 이번에는 못 본 척해줘!","Bitte! Ich werde ein guter Polizist sein. Gib mir
 einfach eine Chance!"
 29,7229,,Grazie. Non vi deluderò.,……謝謝。我一定會努力的。,,……고맙다. 나 반드시 노력할게,Danke. Ich werde dich nicht enttäuschen.
-30,7229,,"E grazie per avermi recuperato l'account! Continua
-con l'ottimo lavoro!","那麼，謝謝你替我拿回帳號。
+30,7229,,"E grazie per avermi recuperato l'account!
+Continua con l'ottimo lavoro!","那麼，謝謝你替我拿回帳號。
 你也要加油喔！",,"그럼, 계정을 되찾아줘서 고마워.
 너도 열심히 해!","Und danke, dass du mein Konto gefunden hast!
 Mach weiter so!"
 31,7229,,Grazie. Prometti?,謝謝你。一言為定喔？,,고마워. 약속이다?,Danke. Du versprichst es?
-32,7229,,"Potresti non essere interessato, ma lascia che ti racconti
-del mio sogno.","對了。雖然稱不上是謝禮，
+32,7229,,"Potresti non essere interessato, ma lascia che ti racconti del
+mio sogno.","對了。雖然稱不上是謝禮，
 就告訴你我的夢想吧。",,"그래. 감사 인사도 안 될지도 모르지만
 내 꿈을 알려줄게","Vielleicht interessiert dich das nicht, aber ich
 will dir von meinem Traum erzählen."
-33,7229,,"Una volta, quando io e i miei amici stavamo facendo casino a Kowloon, c'era un detective che mi disse delle cose che mi fecero davvero riflettere.","在當駭客的時候，曾和夥伴們在Kowloon胡作非為。
+33,7229,,"Una volta, quando io e i miei amici stavamo facendo casino a Kowloon,
+c'era un detective che mi disse delle cose che mi fecero davvero
+riflettere.","在當駭客的時候，曾和夥伴們在Kowloon胡作非為。
 當時有一位把我當成親人在斥責的刑警。",,"해커였던 시절에 동료랑 쿠롱에서 말썽을 부려서
 그때 자기 자식처럼 혼내주던 형사님이 있었어","Als meine Freunde und ich mal in Kowloon was
 angestellt hatten, war da ein Kommissar, dessen

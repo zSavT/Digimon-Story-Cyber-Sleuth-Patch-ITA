@@ -1,6 +1,6 @@
 ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
-1,2020,,"(Il cliente è il detective Matayoshi. Lo contatterò
-e gli chiederò i dettagli sul caso.)","（委託人是又吉刑警啊…
+1,2020,,"(Il cliente è il detective Matayoshi.
+Lo contatterò e gli chiederò i dettagli sul caso.)","（委託人是又吉刑警啊…
 　首先就先聯絡看看，聽聽委託的詳情吧）",,"(의뢰인은 마타요시 형사…인가.
  일단 연락을 취해서 의뢰 내용을 자세하게 들어보자)","(Der Klient ist Kommissar Matayoshi. Ich werde
 ihn kontaktieren und um genauere
@@ -9,8 +9,7 @@ Informationen zu dem Fall bitten.)"
 我可是很期待喔？",,"네가 의뢰를 받아준 거냐.
 기대하고 있겠다","Ach, du hast meinen Fall angenommen. Ich erwarte
 Gutes von dir."
-3,3007,,"Vengo subito al punto. Sono un po' a corto
-di tempo.","馬上開始說明委託吧，
+3,3007,,"Vengo subito al punto. Sono un po' a corto di tempo.","馬上開始說明委託吧，
 我們也有點急迫啊。",,"그럼 바로 의뢰 설명으로 들어가도록 하마.
 이쪽도 조금 서두르고 있어서 말이지","Ich komme gleich zur Sache. Ich habe nicht viel
 Zeit."
@@ -32,8 +31,8 @@ di essere stati infiltrati.","入侵的那傢伙技術好像很厲害，
 침입했다는 것밖에 알아내지 못했어","Wer auch immer es war, die Person war sehr fähig.
 Wir hatten keine Ahnung, dass wir infiltriert
 worden waren."
-7,3007,,"Non hanno lasciato nemmeno un indizio. Tu sai
-qualcosa al riguardo?","完全沒有留下那傢伙的任何線索，
+7,3007,,"Non hanno lasciato nemmeno un indizio.
+Tu sai qualcosa al riguardo?","完全沒有留下那傢伙的任何線索，
 要是你知道什麼的話，能不能告訴我們啊？",,"녀석을 알 수 있는 단서는 남아 있지 않았다.
 뭔가 안다면 알려주지 않겠냐?","Die Person hat nicht einen Hinweis hinterlassen.
 Weißt du irgendwas dazu?"

@@ -1,6 +1,6 @@
 ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
-1,2020,,"(È un caso del Detective Matayoshi. Lo
-contatterò e gli chiederò i dettagli.)","（是又吉警官的委託……
+1,2020,,"(È un caso del Detective Matayoshi.
+Lo contatterò e gli chiederò i dettagli.)","（是又吉警官的委託……
 　總之先連絡他，了解詳細的委託內容吧）",,"(마타요시 형사의 의뢰다…
  일단 연락을 취해서 의뢰 내용을 자세하게 들어보자)","(Das ist ein Fall von Kommissar Matayoshi.
 Ich werde ihn kontaktieren und um genauere
@@ -11,8 +11,8 @@ scritto sulla bacheca, è molto urgente.","接收委託了嗎，感恩。
 게시판에도 적었지만, 급한 안건이야","Du hast also meinen Fall angenommen. Ich weiß es
 zu schätzen. Wie ich an der Anschlagtafel
 geschrieben hatte, ist es äußerst dringend."
-3,3007,,"Il direttore dell'Ospedale Centrale è scomparso. Tutti
-i segnali indicano che è svanito nell'ospedale.","失蹤的是中央醫院的行政主任……
+3,3007,,"Il direttore dell'Ospedale Centrale è scomparso.
+ Tutti i segnali indicano che è svanito nell'ospedale.","失蹤的是中央醫院的行政主任……
 他很有可能是在醫院內“消失＂。",,"행방불명된 건, 센트럴 병원의 사무장이야.
 ……아무래도 사무장은 병원 내에서 ""사라졌을"" 가능성이 있다","Der Leiter des Zentralkrankenhauses ist
 verschwunden. Alles weist daraufhin, dass es im
@@ -23,11 +23,13 @@ che questo caso facesse proprio al caso tuo.","你可以去問問事件關係人
 이건 너희들이 나설 차례일지도 모른단 생각이 들었어","Nachdem ich das Personal im Krankenhaus befragt
 hatte, dachte ich, dass dieser Fall etwas für
 dich wäre."
-5,3007,,Chiedi all'infermiera vicino alla reception nella lobby al primo piano per i dettagli.,"詳細的調查內容，
+5,3007,,"Chiedi all'infermiera vicino alla reception nella
+lobby al primo piano per i dettagli.","詳細的調查內容，
 請去問醫院一樓大廳掛號旁邊的護士。",,"상세한 조사는 병원의 1F 로비
 접수 근처에 있는 간호사에게 들어줘","Frag die Krankenschwester an der Rezeption im
 Erdgeschoss nach genaueren Informationen."
-6,3007,,"Se la situazione non si risolve, l'ospedale potrebbe essere costretto a chiudere.","……如果這件事鬧大的話，
+6,3007,,"Se la situazione non si risolve, l'ospedale
+potrebbe essere costretto a chiudere.","……如果這件事鬧大的話，
 可能會對醫院的營運造成危害，
 讓病人們沒地方可去。",,"……만약 이 건이 커지면, 병원 측 운영에 지장이 생겨서
 환자들이 갈 곳이 없어질지도 몰라","Wenn dieser Fall nicht gelöst wird, muss das
@@ -46,8 +48,7 @@ sarebbe disastroso se perdessimo anche un solo ospedale.","如果其中一間醫
 es wäre, wenn wir auch nur ein Krankenhaus
 verlieren würden."
 9,3007,,"Ecco perché abbiamo classificato questo caso come top secret.
-Qualunque cosa tu faccia, non far trapelare
-notizie dell'indagine.","有鑑於這樣的情況，
+Qualunque cosa tu faccia, non far trapelare notizie dell'indagine.","有鑑於這樣的情況，
 警察也特別將這件事列為極機密案件在調查……
 調查還請你一定要保密。",,"그런 사정을 고려해서, 경찰도 특별히
 이 녀석을 극비안건으로서 조사하기로 했어.

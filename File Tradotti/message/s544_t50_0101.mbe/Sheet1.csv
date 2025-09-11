@@ -5,12 +5,15 @@ con il caso di furto in precedenza.)","（委託人是水族館的館長嗎…�
  이 사람은 분명 전에 수족관에 도둑이 든 사건으로
  의뢰했던 사람이지…)","(Der Klient ist der Direktor des Aquariums. Wir
 haben ihm schon bei dem Diebstahlfall geholfen.)"
-2,2020,,(Deve essere successo qualcos'altro. Lo contatterò e gli chiederò i dettagli sul caso.),"（看來又遇到什麼麻煩了，
+2,2020,,"(Deve essere successo qualcos'altro.
+Lo contatterò e gli chiederò i dettagli sul caso.)","（看來又遇到什麼麻煩了，
 　總之先連絡他，了解詳細的委託內容吧）",,"(또 무슨 일이 있었던 것 같다.
  일단 연락을 취해서 의뢰 내용을 자세하게 들어보자)","(Es muss noch etwas passiert sein. Ich werde ihn
 kontaktieren und um genauere Informationen zu dem
 Fall bitten.)"
-3,7211,,Ciao di nuovo. Sono il direttore dell'Acquario di Ikebukuro. Sono sicuro che ti ricordi di me. Grazie per il tuo aiuto con il caso di furto di prima.,"啊，你好。
+3,7211,,"Ciao di nuovo. Sono il direttore dell'Acquario di Ikebukuro.
+Sono sicuro che ti ricordi di me.
+Grazie per il tuo aiuto con il caso di furto di prima.","啊，你好。
 我是池袋水族館的館長水下。
 竊賊那件事多虧你們幫忙了。",,"아아, 안녕하십니까.
 이케부쿠로 수족관 관장 미즈시타입니다.
@@ -38,8 +41,8 @@ ma non è questo il problema.","不，不是廣播器材故障，
 要委託你們的不是這種問題。",,"아니오, 방송 기재가 망가진 것을 고쳐달라는
 의뢰는 아닙니다","Wenn es an den Geräten läge, könnten wir sie
 reparieren lassen, aber das ist nicht das Problem."
-9,7211,,"Da un po' di tempo a questa parte, clienti o dipendenti che sentono
-un annuncio scoppiano in lacrime senza alcuna
+9,7211,,"Da un po' di tempo a questa parte, clienti o dipendenti che
+sentono un annuncio scoppiano in lacrime senza alcuna
 apparente ragione.","從某個時期開始，只要一聽到館內廣播，
 無論是客人還是工作人員都會突然哭出來，
 或是變得無精打睬。",,"어느 시기부터, 관내 방송을 들은 관람객과 종업원들이
@@ -50,8 +53,7 @@ Grund in Tränen aus."
 撥放的只是平常在撥的廣播……",,"아니오, 슬퍼지는 음악을 튼 것은 아닙니다.
 나오는 것은 평소와 같은 방송이고……","Nein, wir spielen keine traurige Musik, nur unsere
 üblichen Ankündigungen."
-11,7211,,"Non c'è dubbio, succede solo quando viene fatto un
-annuncio.","不過這奇妙的現象，
+11,7211,,"Non c'è dubbio, succede solo quando viene fatto un annuncio.","不過這奇妙的現象，
 確實只有在撥放廣播時才會發生。",,"하지만 틀림없이 그 묘한 현상은
 관내 방송이 발생할 때만 일어납니다","Es steht fest, dass es nur passiert, wenn eine
 Ankündigung gemacht wird."

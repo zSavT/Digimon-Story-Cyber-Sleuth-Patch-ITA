@@ -1,13 +1,11 @@
 ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
 1,7233,,Eh? Chi sei tu?,嗯？　你是誰？,,음? 자네는 누구지?,Was? Wer bist du?
-2,7233,,"Sono Datamon, ma di solito la gente mi chiama
-Dr. Datamon.","我是分子獸。
+2,7233,,"Sono Datamon, ma di solito la gente mi chiama Dr. Datamon.","我是分子獸。
 大家都喜歡稱我為分子獸博士。",,"나는 데이터몬.
 모두들 친근함을 담아 데이터몬 박사라고 부르지","Ich bin Datamon.
 Die meisten nennen mich Dr. Datamon."
-3,7233,,"Sono occupato a raccogliere ingredienti medicinali proprio
-ora. Se vuoi chiedermi qualcosa, per favore fai
-presto.","如你所見，我現在正忙著收集藥的材料。
+3,7233,,"Sono occupato a raccogliere ingredienti medicinali proprio ora.
+Se vuoi chiedermi qualcosa, per favore fai presto.","如你所見，我現在正忙著收集藥的材料。
 有事的話請簡短說明。",,"나는 지금, 자네도 아는 대로 약재료를 모으느라 바쁘다네.
 용건이라면 간단하게 말해줘","Ich bin damit beschäftigt, Zutaten für Medizin
 zu sammeln. Wenn du mich etwas fragen willst,
@@ -21,8 +19,7 @@ Anche se sfortunato, questa è una buona opportunità.","原來如此，那就�
 ……후후, 이거 뜻밖의 기회가 들어온 것 같군","Dann werde ich die neue von mir entwickelte
 Medizin anwenden. Es ist zwar bedauernswert,
 aber eine gute Gelegenheit."
-6,7233,,"L'altro giorno sono riuscito ad aumentare
-la forza di questa medicina.","其實前幾天，成功開發了把流行病藥
+6,7233,,"L'altro giorno sono riuscito ad aumentare la forza di questa medicina.","其實前幾天，成功開發了把流行病藥
 藥效增強的新藥。",,"사실은 일전에 유행병의 약을 파워업 시킨
 신약 개발에 성공했다네","Vor ein paar Tagen ist es mir gelungen, die
 Medizin zu verstärken."
@@ -31,8 +28,8 @@ Medizin zu verstärken."
 這是測試新藥效果的大好機會。",,"피험자를 찾지 못해 곤란했었는데
 신약 효과를 시험해 볼 좋은 기회다","Aber ich hatte keine Testobjekte.
 Jetzt kann ich ihre Wirkung testen."
-8,7233,,"Lo somministrerò di persona. Nessun pagamento
-necessario.","就由我親自把新藥拿給那位痛苦的患者吧。
+8,7233,,"Lo somministrerò di persona.
+Nessun pagamento necessario.","就由我親自把新藥拿給那位痛苦的患者吧。
 不需要付我錢。",,"괴로워하고 있는 그 환자에게
 내가 직접 신약을 투여해주지. 대가는 필요 없어","Ich werde sie persönlich verabreichen. Keine
 Bezahlung nötig."

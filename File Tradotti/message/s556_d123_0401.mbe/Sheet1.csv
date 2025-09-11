@@ -1,13 +1,13 @@
 ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
 1,1422,,"Hmph, non posso credere di aver perso.",嘖，竟然輸了，真是丟臉。,,"쳇, 져버리다니 한심하잖아","Hmpf, ich kann nicht glauben, dass ich
 verloren habe."
-2,1422,,"Cosa? I blackout sono una seccatura? Smettila di
-lagnarti.","什麼？　因為發生停電而感到困擾？
+2,1422,,"Cosa? I blackout sono una seccatura?
+Smettila di lagnarti.","什麼？　因為發生停電而感到困擾？
 ……一直碎碎念真煩人。",,"뭐어? 정전이 일어나서 곤란하다고?
 ……쫑알쫑알 시끄럽네","Was? Die Stromausfälle sind ein Ärgernis? Hör auf,
 dich zu beschweren."
-3,1422,,"Adoro mangiare elettricità. È la mia unica gioia
-nella vita.","對我而言，我最喜歡吃電，
+3,1422,,"Adoro mangiare elettricità.
+È la mia unica gioia nella vita.","對我而言，我最喜歡吃電，
 這是我唯一的樂趣了。",,"나는 전기를 먹는 게 무지무지 좋고
 내 유일한 즐거움이란 말야","Ich liebe es, Elektrizität zu fressen. Es ist das
 einzige im Leben, was mir Spaß macht."
@@ -32,12 +32,11 @@ abschalten?"
 발전을 멈춰버리면 본전도 못 건지니까",Das wäre schlecht. Ich würde alles verlieren.
 9,1422,,"Va bene, smetterò di mangiare elettricità per ora.",我知道了，我會暫時忍住不在這裡吃電……,,"알았어, 당분간은 여기서 전기 먹는 걸 자제할게……","Na gut, vorerst höre ich auf, Elektrizität zu
 fressen."
-10,1422,,"Cosa? C'è un limite a quanta elettricità questo
-server può generare?",咦咦，你說這個伺服器製造的電力是有限的？  ,,"어억, 이 서버에서 만들어지는
+10,1422,,"Cosa? C'è un limite a quanta elettricità
+questo server può generare?",咦咦，你說這個伺服器製造的電力是有限的？  ,,"어억, 이 서버에서 만들어지는
 전기의 발전량은 유한하다고?","Was? Die Elektrizität, die dieser Server
 generieren kann, ist begrenzt?"
-11,1422,,"Scusa, non lo sapevo. Pensavo di poter mangiare
-quanto volessi.","抱歉，我不知道這件事……
+11,1422,,"Scusa, non lo sapevo. Pensavo di poter mangiare quanto volessi.","抱歉，我不知道這件事……
 我以為無論吃多少也沒關係。",,"미안, 그건 몰랐네……
 아무리 먹어도 괜찮은 줄 알았어","Tut mir leid, das wusste ich nicht. Ich dachte,
 ich könnte so viel fressen, wie ich will."
@@ -50,9 +49,8 @@ posso mangiare elettricità senza problemi?","話雖如此，但還是想吃一�
 沒有哪裡是可以吃電的地方嗎？",,"그렇지만, 조금은 전기를 먹고 싶단 말이지……
 어딘가 전기를 먹어도 되는 곳은 없어?","Aber ich liebe sie so ... Gibt es denn keinen Ort,
 wo ich Elektrizität fressen darf?"
-14,1422,,"Non deve essere ogni giorno. Mi accontenterò
-finché sarà generato di fresco. È allora che
-ha il sapore migliore.","不用每天也可以。
+14,1422,,"Non deve essere ogni giorno. Mi accontenterò finché
+sarà generato di fresco. È allora che ha il sapore migliore.","不用每天也可以。
 只要能吃到剛產出的美味電力，我就滿足了。",,"매일이 아니어도 돼
 갓 만든 맛있는 전기를 먹을 수 있다면
 그걸로 만족해","Es muss nicht jeden Tag sein. Solange sie frisch

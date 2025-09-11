@@ -3,7 +3,8 @@ ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
 那就回去吧。",,"오~ 드디어 끝났나.
 그럼 돌아갈까",Das wäre endlich erledigt. Gehen wir.
 2,3015,,*sbadiglio*,呼啊…………嗯嗯……,,후아아암~ …………으음……,*Gähn*
-3,3015,,Sono venuto direttamente dal turno di notte. Voglio andare a casa e crollare.,"……啊，我今天是值完夜班後過來的，
+3,3015,,"Sono venuto direttamente dal turno di notte.
+Voglio andare a casa e crollare.","……啊，我今天是值完夜班後過來的，
 真想趕快回家飛奔進棉被啊……",,"……그래, 오늘은 야근 마치고 왔지.
 얼른 돌아가서 이불로 뛰어들고 싶다……","Ich bin direkt von der Nachtschicht gekommen. Ich
 will nach Hause und schlafen."
@@ -13,14 +14,14 @@ passi tutto il tempo al computer, vero?","對了。你有在鍛鍊身體嗎？
 계속 PC 앞을 안 떠나는 것 같은
 건강에 안 좋은 생활을 하는 건 아니겠지?","Bekommst du eigentlich genug Bewegung? Du sitzt
 nicht die ganze Zeit am Computer, oder?"
-5,3015,,"Ultimamente sono davvero fuori forma. Immagino
-che non faccia abbastanza esercizio fisico solo facendo il mio lavoro.","我啊，最近身體變得很遲鈍，真受不了啊。
+5,3015,,"Ultimamente sono davvero fuori forma. Immagino che non
+faccia abbastanza esercizio fisico solo facendo il mio lavoro.","我啊，最近身體變得很遲鈍，真受不了啊。
 看來只有在工作時活動，不太足夠呢。",,"난 말이지, 요즘 몸이 무뎌져서 견딜 수가 없어.
 일로 움직이는 것 갖고는 부족한 모양인지 말이야","Ich bin in letzter Zeit total aus der Form
 geraten. Ich schätze, meine Arbeit allein hält
 mich nicht fit."
-6,3015,,"Ora vado in palestra nei miei giorni liberi. Spero di
-tornare in forma.","所以沒值班的時候，我都會上健身房喔。
+6,3015,,"Ora vado in palestra nei miei giorni liberi.
+Spero di tornare in forma.","所以沒值班的時候，我都會上健身房喔。
 身體變很輕盈，很不錯喔。",,"그래서 비번인 날엔 헬스장에 다니기 시작했지.
 몸이 가벼워져서 좋다고~","Jetzt gehe ich an meinen freien Tagen ins
 Fitnessstudio. Hoffentlich komme ich bald wieder
@@ -40,19 +41,19 @@ un poliziotto eccezionale con questo atteggiamento?!","說這什麼丟臉的話�
 그랬다간 훌륭한 경찰관이 못 된다고?!","Sag das nicht! Wie willst du je zu einem
 hervorragenden Polizisten werden, wenn du diese
 Haltung vertrittst?!"
-9,3015,,Eh? Sto solo scherzando. Non è che ti stia dicendo di diventare un poliziotto.,"……嗯？　開玩笑的啦開玩笑的。
+9,3015,,"Eh? Sto solo scherzando.
+Non è che ti stia dicendo di diventare un poliziotto.","……嗯？　開玩笑的啦開玩笑的。
 也不是叫你去當警察啦。",,"……응? 농담이야 농담.
 딱히 너한테 경찰관이 되라는 건 아니라니깐","Was? War nur ein Scherz. Ich werde dir kaum
 erzählen, dass du Polizist werden sollst."
-10,3015,,"Non si sa mai, mettersi in forma potrebbe cambiare la tua
-prospettiva. Non può far male provare.","總之，鍛鍊身體可是百利無一害的。
+10,3015,,"Non si sa mai, mettersi in forma potrebbe cambiare la
+tua prospettiva. Non può far male provare.","總之，鍛鍊身體可是百利無一害的。
 從現在開始一點一滴鍛鍊也不錯吧。",,"뭐, 몸을 단련해서 얻는 건 있어도 손해 볼 건 없잖아?
 이제부터 조금씩 단련해둬도 괜찮지 않겠어?","Wer weiß, wenn du dich in Form bringst, änderst
 du deine Sichtweise vielleicht. Es kann nicht
 schaden, es auszuprobieren."
 11,3015,,"Voglio dire, voglio che tu mi aiuti con il mio lavoro un giorno.
-Devi essere in forma così non finirai per
-rallentarmi!","……也就是說，如果想要幫上我工作的忙，
+Devi essere in forma così non finirai per rallentarmi!","……也就是說，如果想要幫上我工作的忙，
 就不要拖我後腿，給我努力鍛練啊，聽到沒！？",,"……즉 말이지, 내 일을 돕고 있으니까
 방해가 안 되도록 단련하란 소리야, 알겠냐?!","Ich meine, ich will, dass du mir eines Tages bei
 der Arbeit helfen kannst. Du musst in Form kommen,
@@ -60,8 +61,8 @@ damit du mir nicht zur Last fällst!"
 12,3015,,"Oh, sei preoccupato per me? Grazie!","嘿～你在替我擔心啊。
 謝謝你啦！",,"흠~ 날 걱정해주는 거냐.
 고마워!","Oh, du machst dir Sorgen um mich? Danke!"
-13,3015,,"Ma non sto esagerando. Ho appena iniziato, quindi
-faccio solo un'ora al giorno.","但是，我沒有在勉強自己喔。
+13,3015,,"Ma non sto esagerando. Ho appena iniziato,
+quindi faccio solo un'ora al giorno.","但是，我沒有在勉強自己喔。
 我才剛開始，一天做一小時的少量鍛鍊而已。",,"하지만 무리하지는 않아.
 이제 막 하루 한 시간씩 짤막하게 시작했다고","Aber ich übertreibe es nicht. Ich habe gerade
 erst angefangen, also gehe ich nur für eine
