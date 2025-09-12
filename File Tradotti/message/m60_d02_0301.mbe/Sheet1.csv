@@ -3,7 +3,8 @@ ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
 2,3047,,Dietro di te!,在後面！,,뒤다!,Hinter dir!
 3,7010,,Uahahahahaha ... ha ha ...,嗯哼哼哼哼哼哼……,,우훗훗훗훗훗훗후……,Uahahahahaha ... ha ha ...
 4,2020,,?!,！？,,!?,?!
-5,7010,,Oh? Questo non era così convincente. Puoi riprovare?,"咦？　感覺有點不太對耶……
+5,7010,,"Oh? Questo non era così convincente.
+Puoi riprovare?","咦？　感覺有點不太對耶……
 我能再來一次嗎？",,"어라? 딱 와닿지가 않네…
 다시 한번 해봐도 돼?","Nanu? Das war nicht so überzeugend.
 Kannst du’s noch mal versuchen?"
@@ -29,11 +30,11 @@ Ja, so ist es besser!"
 어리석은 자로구나!","Es war ja so töricht von dir, allein zu kommen!"
 16,7010,,"Ciononostante, ammiro il tuo coraggio e il tuo atteggiamento!",但是，就誇獎一下你的膽識跟毅力吧……!,,하지만 그 배짱과 근성은 칭찬해주지……!,"Trotzdem bewundere ich deinen Mut und
 deine Haltung!"
-17,7010,,I rapitori del tuo amico sono conosciuti come una banda di hacker e rapitori chiamata „Dark Rebels“!,"畢竟，綁架你的夥伴的人，就是惡名昭彰的
+17,7010,,"I rapitori del tuo amico sono conosciuti come una banda di hacker e rapitori chiamata ""Dark Rebels""!","畢竟，綁架你的夥伴的人，就是惡名昭彰的
 駭客綁架組織「黑暗反叛者」！！",,"왜냐하면 네놈의 동료를 유괴한 건 그 악명 높은
 해커 유괴조직「블랙 리벨리온즈」!!","Die Entführer deines Freundes sind als eine Bande
 von Hackern und Kidnappern namens
-„Dark Rebels“ bekannt!"
+""Dark Rebels"" bekannt!"
 18,7010,,"E la regina di questa oscura associazione –
 il suo cuore, frutto di bellezza, distruzione
 e, uh... oscurità – sono io stessa!","而領導他們的邪惡女王，就是從美麗與破壞……
@@ -45,11 +46,13 @@ und, äh ... Finsternis – bin ich höchstselbst!"
 20,2020,,...?!,……！？！？,,……!?!?,...?!
 21,7011,,Hohohohohooo!,喔～呵呵呵呵呵呵～～～～～～！,,오~홋홋홋홋홋~~~~~~~~~~~~~~~~~!,Hohohohohooo!
 22,7011,,Ora guardami e trema di paura!!!,在我面前盡情害怕顫抖，哭泣大叫吧──────！！,,"자아, 두려워하며 울부짖도록 하여라――――――!!",Jetzt sieh mich an und zittere vor Angst!!!
-23,7011,,Ammira la mia bellezza e sciogliti come... beh... burro nel microonde o qualcosa del genere.,"要被我的美貌迷得軟綿綿，去買棉花糖
+23,7011,,"Ammira la mia bellezza e sciogliti come...
+beh... burro nel microonde o qualcosa del genere.","要被我的美貌迷得軟綿綿，去買棉花糖
 來獻給我也沒關係的喔──────！！",,"나의 아름다움에 메롱메롱하며 메로나라도
 사러 다녀오는 게 좋을 게다―――――――!!","Sieh meine Schönheit und schmilz dahin wie ...
 na ja ... Butter in der Mikrowelle oder so."
-24,7011,,"Ora che ci penso, mh, burro, in realtà avrei proprio una gran voglia di un gelato!","啊，雖然是配合軟綿綿才說棉花糖的啦，
+24,7011,,"Ora che ci penso, mh, burro,
+in realtà avrei proprio una gran voglia di un gelato!","啊，雖然是配合軟綿綿才說棉花糖的啦，
 但真要說的話，我現在想吃的是葛餅那種的喔！",,"아, 메롱메롱에 맞춰서 메로나라고 했을 뿐이지
 지금 먹고싶은 건 굳이 말하자면 쿠즈모치같은 계열이려나!","Wobei, hm, Butter, eigentlich hätt ich grad große
 Lust auf ein Eis!"
@@ -59,31 +62,35 @@ Ma prima di scioglierti, versati addosso un sacco di salsa al cioccolato!","好�
 꿀이 많은 걸로 사오면 더욱 포인트가 높으니라!!!","Tja, dann – sieh mich an und schmilz wie Eiscreme!
 Aber bevor du schmilzt, schütt dir jede Menge
 Schokosoße über!"
-26,7011,,"C'è chi ci mette le noci o la panna montata, ma io disapprovo simili sciocchezze!","說起來，大部分人喜歡黃豆粉加很多的葛餅，
+26,7011,,"C'è chi ci mette le noci o la panna montata,
+ma io disapprovo simili sciocchezze!","說起來，大部分人喜歡黃豆粉加很多的葛餅，
 但我可是黑糖糖漿派的喔！",,"그러고보니 말야, 쿠즈모치는 
 콩가루가 많은 걸 선호하는 사람이 많지만
 나는 단연 꿀파란 말이지!","Manche Leute tun sich ja Nüsse oder Schlagsahne
 drauf, aber solchen Unsinn missbillige ich!"
-27,7011,,"Come si fa a pensare di mettere la panna sul gelato? Il gelato è già fatto di panna, dopotutto!","要是黃豆粉太多，在跟人邊吃邊聊天時，
+27,7011,,"Come si fa a pensare di mettere la panna sul gelato?
+Il gelato è già fatto di panna, dopotutto!","要是黃豆粉太多，在跟人邊吃邊聊天時，
 一旦笑出來不就會噴得到處都是了嗎！？",,"콩가루가 많으면 누군가랑 대화하며 먹을 경우
 웃었다간 콩가루가 튀어버리잖아!?","Wie kommt man überhaupt darauf, Sahne auf Eis
 zu tun? Eis besteht doch schon aus Sahne!"
 28,7011,,Non si glassa mica la torta con l'impasto per torte!,那樣黃豆粉就灑滿衣服和桌子了～！,,그래서 옷이나 테이블이 콩가루 투성이가 되잖아~!,Man glasiert doch Kuchen nicht mit Kuchenteig!
-29,7011,,"No, la salsa al cioccolato ci sta perfettamente – non importa se con gelato alla vaniglia o persino gelato al cioccolato. Non fa alcuna differenza.","只要多放黑糖糖漿，就能減少這種情況，
+29,7011,,"No, la salsa al cioccolato ci sta perfettamente – 
+non importa se con gelato alla vaniglia o persino gelato al cioccolato.
+Non fa alcuna differenza.","只要多放黑糖糖漿，就能減少這種情況，
 而且又超～級好吃的喔！",,"꿀이 많은 쪽으로 하면 그런 부분도 완화돼서 최고로
 맛있단 말이지!","Nein, Schokosoße passt perfekt dazu – egal ob zu
 Vanilleeis oder sogar Schokoladeneis.
 Das macht keinen Unterschied."
 30,2020,,...,…………,,…………,...
-31,2020,,"(Cosa dovrei fare? Questa conversazione
-è completamente deragliata...)",（話題跑得好遠好遠了……怎麼辦）,,(이야기가 엄청난 기세로 탈선한 듯하다……어떻게 할까),"(Was soll ich tun? Diese Unterhaltung
+31,2020,,"(Cosa dovrei fare? Questa conversazione è completamente deragliata...)",（話題跑得好遠好遠了……怎麼辦）,,(이야기가 엄청난 기세로 탈선한 듯하다……어떻게 할까),"(Was soll ich tun? Diese Unterhaltung
 ist vollkommen entgleist ...)"
 32,2020,,"Interrompili.
 Lasciali parlare.","停下她
 放任她不管",,"막는다
 내버려둔다","Sie unterbrechen.
 Sie reden lassen."
-33,7011,,"Ora che lo menzioni, il gelato normale è spesso fatto solo di panna, ma poi c'è quello francese, che è fatto di crema all'uovo.","說起來啊，關東地區的葛餅和關西地區的
+33,7011,,"Ora che lo menzioni, il gelato normale è spesso fatto solo di panna,
+ma poi c'è quello francese, che è fatto di crema all'uovo.","說起來啊，關東地區的葛餅和關西地區的
 顏色不一樣耶！關東是白色的，
 關西則是有點透明的。",,"그러고보니 쿠즈모치는 관동과 관서의 색이 달랐지!
 관동은 하얗고 관서는 좀 투명해","Jetzt wo du’s erwähnst, stinknormales Eis besteht
@@ -94,7 +101,8 @@ französische, das aus Eiercreme gemacht wird."
 나는 어느 쪽이든 좋아하지만 원재료의 차이일까?","Oh, ja! Na, mir schmeckt beides. Dir?"
 35,7076,,Signorina Akkino! Stiamo divagando un po'!,雅、雅奇諾大人……！　話題！　話題跑遠了啦！,,"아, 앗키노 씨……!  이야기!  이야기가 탈선했습니다!",Fräulein Akkino! Wir schweifen etwas ab!
 36,7011,,... Oh cavolo! Giusto!,……嗚哇！！！　真的耶！！！,,……하으아!!!  정말이네!!!,... Au Backe! Stimmt ja!
-37,7011,,Non è il momento giusto per parlare di gelato! Si tratta di rapimento!,"不是講葛餅講得好───開心的時候了！
+37,7011,,"Non è il momento giusto per parlare di gelato!
+Si tratta di rapimento!","不是講葛餅講得好───開心的時候了！
 這是綁架喔，綁架！",,"쿠즈모치 이야기로 꽃을 피우고 있을 때가 아―――냐!
 유괴야, 유괴! ","Das ist nicht der richtige Zeitpunkt, um über
 Eis zu reden! Es geht um Entführung!"
@@ -109,13 +117,15 @@ Eis zu reden! Es geht um Entführung!"
 44,2020,,(Di fronte ...?!),（居然……是從頭開始！？）,,(다시 처음부터……라고!?),(Von vorn ...?!)
 45,7011,,Ciononostante ammiro il tuo coraggio e la tua faccia comune!,但是，就誇獎一下你的氣魄跟大眾臉吧……!,,하지만 그 배짱과 근성은 칭찬해주지―!,"Trotzdem bewundere ich deinen Mut und
 dein Allerweltsgesicht!"
-46,7011,,"I rapitori del tuo amico sono conosciuti come un'insidiosa banda di hacker e rapitori, chiamati ""Dark Rebels""!","畢竟，綁架你重～要的朋友的人，就是為非作歹，
+46,7011,,"I rapitori del tuo amico sono conosciuti come
+un'insidiosa banda di hacker e rapitori, chiamati ""Dark Rebels""!","畢竟，綁架你重～要的朋友的人，就是為非作歹，
 惡名昭彰的駭客綁架組織「黑暗反叛者」！！",,"왜냐하면 네 놈의 소~중한 프렌드를 유괴한 건 그 악랄잔인하기로
 악명을 떨치는 해커 유괴조직「블랙 리벨리온즈」!!","Die Entführer deines Freundes sind als eine
 tückische Bande von Hackern und Kidnappern namens
-„Dark Rebels“ bekannt!"
+""Dark Rebels"" bekannt!"
 47,7011,,"E la regina di questa oscura associazione –
-il suo cuore il frutto di, ehm, fiori e roba del genere, insomma – sono io stessa!","而領導他們的邪惡女王，
+il suo cuore il frutto di, ehm, fiori e roba del genere, insomma –
+sono io stessa!","而領導他們的邪惡女王，
 就是從鮮花……還有……唔，啊隨便了啦！
 總之就是從那種感覺的東東而生的，就是我！！",,"그 리더인 악의 여왕이자 
 꽃과…그리고…어, 아― 뭐든 좋아!
@@ -132,20 +142,26 @@ und zittere vor Verzweiflung!"
 來獻給我也沒關係的喔──────！！",,"나의 아름다움에 메롱메롱하며 메로나라도
 사러 다녀오는 게 좋을 거다―――――――!!","Schau meine Schönheit und schmilz vor Furcht
 wie Butter in der Bratpfanne!"
-53,7011,,"Però, hm, Burro, in realtà avrei molta voglia di un gelato o qualcosa del genere!","啊，雖然是配合軟綿綿才說棉花糖的啦，
+53,7011,,"Però, hm, Burro, in realtà avrei molta
+voglia di un gelato o qualcosa del genere!","啊，雖然是配合軟綿綿才說棉花糖的啦，
 但真要說的話，我現在想吃的是葛餅那種的喔！",,"아, 메롱메롱에 맞춰서 메로나라고 했을 뿐이지
 지금 먹고싶은 건 굳이 말하자면 쿠즈모치같은 계열이야!","Wobei, hm, Butter, eigentlich hätt ich grad große
 Lust auf ein Eis oder so was!"
-54,7011,,"Mi vai a prendere un gelato, per favore? Mi farebbe anche un sacco piacere della salsa al cioccolato, già che ci sei, senti?","你一定要機靈點去買葛餅來給我喔？
+54,7011,,"Mi vai a prendere un gelato, per favore?
+Mi farebbe anche un sacco piacere della salsa
+al cioccolato, già che ci sei, senti?","你一定要機靈點去買葛餅來給我喔？
 要是買來的還有很多黑糖糖漿，分數會更高的呦？",,"아무쪼록 눈치 빠르게 쿠즈모치를 사러 다녀오는게 좋을 게다?
 꿀이 듬뿍 있는 걸로 해주면 더욱 포인트가 높도다?","Gehst du mir bitte ein Eis holen? Ich würde mich
 auch sehr über Schokosoße freuen, wenn du schon
 dabei bist, hörst du?"
-55,7011,,"Alcune persone ci mettono noci o panna montata sopra, ma io sono totalmente contrario!","而且啊，大部分人喜歡黃豆粉加很多的葛餅，
+55,7011,,"Alcune persone ci mettono noci o panna
+montata sopra, ma io sono totalmente contrario!","而且啊，大部分人喜歡黃豆粉加很多的葛餅，
 但我可絕．對．是黑糖糖漿派的喔！",,"근데 말야, 콩가루가 많은 걸 선호하는 사람이 많지만
 나는 단 연 코 꿀파란 말이지!!","Manche Leute tun sich ja Nüsse oder Schlagsahne
 drauf, aber ich bin total dagegen!"
-56,7011,,"Se ci si spargono sopra delle noci, si ottengono solo piccoli pezzetti tra i denti, e questo può diventare così imbarazzante quando si parla, vero?","要是黃豆粉太多，在跟人邊吃邊聊天時，
+56,7011,,"Se ci si spargono sopra delle noci, si ottengono
+solo piccoli pezzetti tra i denti, e questo può
+diventare così imbarazzante quando si parla, vero?","要是黃豆粉太多，在跟人邊吃邊聊天時，
 一旦笑出來不就會咳咳咳得到處都是了嗎！？",,"콩가루가 많으면 누군가랑 대화하며 먹을 때
 웃으면 콩가루로 엉망이 되어버리잖아!?","Wenn man Nüsse drüberstreut, kriegt man nur kleine
 Stückchen zwischen die Zähne, und das kann so
@@ -154,7 +170,9 @@ peinlich werden, wenn man sich unterhält, nicht?"
 sulla tovaglia, semplicemente dappertutto!",那樣黃豆粉就會噴滿對方衣服啦、對方的桌子啦～！,,"그래서 상대의 옷이나 상대의 테이블 등등이
 콩가루 투성이가 되니까~","Außerdem landen Nüsse auf der Kleidung,
 auf dem Tischtuch, einfach überall!"
-58,7011,,"No, la salsa al cioccolato ci sta perfettamente – il sapore intenso del cioccolato è il complemento ideale per il gelato di qualsiasi tipo!","只要多放黑糖糖漿，就能減少這種情況，
+58,7011,,"No, la salsa al cioccolato ci sta perfettamente –
+il sapore intenso del cioccolato è il complemento
+ideale per il gelato di qualsiasi tipo!","只要多放黑糖糖漿，就能減少這種情況，
 而且又超～級無敵美味的喔！",,"꿀이 많은 쪽으로 하면 그런 부분도 완화돼서 최고로
 딜리셔스하단 말이지~","Nein, Schokosoße passt perfekt dazu – der
 intensive Geschmack der Schokolade ist die ideale
@@ -166,8 +184,8 @@ Ergänzung für Eis jeder Sorte!"
 Siamo qui a 'Ricomincio da capo'?","（我難道被她用了背後靈之類的能力攻擊了嗎……！？）
 （難道要這一生，都不斷重複這段對話嗎……！？）",,"(나는 그녀의 영적인 공격이라도 받고 있는 걸까…!?
  이대로 평생 이 루프를 헤메는 건가…!?)","(Hat sie mich mit einer Art Zauberbann belegt?
-Sind wir hier bei „Und täglich grüßt
-das Murmeltier“?)"
+Sind wir hier bei ""Und täglich grüßt
+das Murmeltier""?)"
 61,2020,,...,…………,,…………,...
 62,2020,,(... Cosa devo fare?),（……怎麼辦）,,(……어떻게 할까),(... Was soll ich tun?)
 63,2020,,"Interrompere.
@@ -178,15 +196,17 @@ Sie reden lassen."
 64,2020,,...,…………,,…………,...
 65,7011,,Hm? Devo venire al sodo?,咦？　你說要把話題拉回來？,,응? 이야기를 진행해 달라고?,Hm? Ich soll zur Sache kommen?
 66,7011,,... Oh cavoli! Giusto!,……嗚哇！　真的耶！！！,,……하으아! 정말이네!,... Au Backe! Stimmt ja!
-67,7011,,Questo non è il momento giusto per parlare di gelato! Si tratta di un rapimento! Ho rapito il tuo amico!,"不是講葛餅講得好──開心的時候了！
+67,7011,,"Questo non è il momento giusto per parlare di gelato!
+Si tratta di un rapimento!
+Ho rapito il tuo amico!","不是講葛餅講得好──開心的時候了！
 這是綁架喔，綁架！　我綁架了你的夥伴！",,"쿠즈모치 이야기로 꽃을 피우고 있을 때가 아냐!
 유괴야, 유괴! 나는 네 동료를 유괴한 거야!","Das ist nicht der richtige Zeitpunkt, um über
 Eis zu reden! Es geht um Entführung!
 Ich habe deinen Freund entführt!"
 68,7011,,Ehm...,嗯哼……,,어흠……,Ähm ...
-69,7011,,"Sei stato coraggioso a prendere la parola,
-Sfidante! Devi avere una gran fretta di conoscere la nostra
-bestia oscura e i suoi artigli!","真虧你能把話題拉回來啊，挑戰者！
+69,7011,,"Sei stato coraggioso a prendere la parola, Sfidante!
+Devi avere una gran fretta di conoscere la
+nostra bestia oscura e i suoi artigli!","真虧你能把話題拉回來啊，挑戰者！
 看來你很想跟守護我的「闇黑之獸」戰鬥吧！",,"잘도 이야기를 원래대로 되돌렸구나, 도전자여!
 어지간히 나를 수호하는 ""어둠의 짐승""과 이빨을 맞대고 싶었던 거군!","Es war tapfer von dir, das Wort zu ergreifen,
 Herausforderer! Du musst es ja eilig haben, unsere
@@ -206,11 +226,14 @@ Gruben der Hölle!"
 73,7012,,Grrraaah!,嗚哇喔喔──！！,,그와아아――!,Grrraaah!
 74,7013,,Graaargh!,咕吼吼吼──！！,,그르르르――!,Graaargh!
 75,2020,,...!,……！,,……!,...!
-76,7011,,"Hehe, ora vedi finalmente a che tipo di avversario hai perso il tuo amico!","嘻嘻嘻，看來你總算知道，
+76,7011,,"Hehe, ora vedi finalmente a che tipo
+di avversario hai perso il tuo amico!","嘻嘻嘻，看來你總算知道，
 奪走夥伴的人究竟是什麼樣的厲害角色了啊……！",,"큭큭큭, 자신이 어떤 상대에게 동료를 뺏겼는지
 드디어 깨달은 모양이구나……!","Hehe, jetzt siehst du endlich, an welche Art
 Gegner du deinen Freund verloren hast!"
-77,7011,,Nessuna quantità di rimorso può ritardare la festa del dolore che ti attende! Preparati a una gioiosa passeggiata nell'Inferno stesso!,"但是現在要後悔也已經是火車跑掉，來不及啦！
+77,7011,,"Nessuna quantità di rimorso può ritardare la festa del dolore
+che ti attende! Preparati a una gioiosa
+passeggiata nell'Inferno stesso!","但是現在要後悔也已經是火車跑掉，來不及啦！
 你就好好體會真正的地獄吧！！",,"하지만 이제와서 후회해봤자 소 잃고 외양간 두드리는 것이니라!
 진정한 지옥을 실컷 맛보도록 해라!!","Kein Ausmaß an Reue kann das Fest des Schmerzes
 hinauszögern, das dich erwartet! Freu dich auf
@@ -234,13 +257,15 @@ Io... credo che se lo possa permettere...","雅、雅奇諾大人……
 那金額，他大概付得起吧……？",,"아, 앗키노 씨……
 그 액수라면 그냥 내버리지 않겠슴까……?","Fräulein Akkino ...
 Ich ... Ich glaube, er kann sich das leisten ..."
-85,7011,,"Cosa?! 5000 sono davvero tanti per uno studente, vero?! Questo metterebbe in difficoltà persino qualcuno che ha un lavoro!","咦？　騙人──！？　五千元對學生來說很多吧！？
+85,7011,,"Cosa?! 5000 sono davvero tanti per uno studente, vero?!
+Questo metterebbe in difficoltà persino qualcuno che ha un lavoro!","咦？　騙人──！？　五千元對學生來說很多吧！？
 就算是社會人士，聽說對某些人也是很大的
 一筆錢耶！？",,"에엑!? 거짓말!? 학생에게 5천엔은 빠듯하잖아!?
 사회인이라도 빠듯한 사람에겐 빠듯하다고 들었다고!?","Was?! 5000 sind doch viel für einen Studenten,
 oder?! Das würde sogar manchen, der Arbeit hat,
 in Verlegenheit bringen!"
-86,7077,,Credo davvero che 5000 Yen siano troppo pochi... Dobbiamo chiedere di più...,"但是，五千元實在是太少了啊……
+86,7077,,"Credo davvero che 5000 Yen siano troppo pochi...
+Dobbiamo chiedere di più...","但是，五千元實在是太少了啊……
 不再抬高點價碼的話…",,"그렇지만 5천엔이면 조금 초라함다……
 좀 더 받아두지 않으면…","Ich glaube wirklich, dass 5000 Yen zu wenig
 sind ... Wir müssen mehr verlangen ..."
@@ -256,7 +281,8 @@ Siamo Tamer!","我說過了吧，我們是馴獸師！
 可不是駭客喔！",,"말했잖아, 우리들은 테이머!
 해커랑은 다르다고!","Hab ich’s dir nicht gesagt? Wir sind keine Hacker!
 Wir sind Zähmer!"
-92,7011,,"Alcuni hacker trattano i Digimon come semplici dati e non li nutrono nemmeno adeguatamente, ma noi siamo diversi!","駭客他們只把數碼寶貝小看成一般資料，
+92,7011,,"Alcuni hacker trattano i Digimon come semplici dati e
+non li nutrono nemmeno adeguatamente, ma noi siamo diversi!","駭客他們只把數碼寶貝小看成一般資料，
 還有人都不給數碼寶貝像樣的食物，
 但我們可不一樣！",,"해커 중에는 디지몬이 단순한 데이터라고 바보취급하고
 제대로 된 밥도 주지 않는 놈이 있지만 우리들은 달~라!","Einige Hacker behandeln Digimon wie einfache
@@ -268,15 +294,16 @@ gli standard BBQ dei nostri Digimon!","數碼寶貝生活的水準……提昇BB
 우리들 테이머의 소중한 사명인 것이~~~~다!","Unsere Aufgabe als Zähmer ist es, unablässig
 die BBQ-Standards unserer Digimon zur erhalten!"
 94,7078,,"Sì... Hai perfettamente ragione, Signorina Akkino!",真……真了不起啊啊啊啊啊！　雅奇諾大人！,,과… 과여어어어언! 앗키노 씨!,"Ja ... Du hast völlig recht, Fräulein Akkino!"
-95,7078,,"M-Ma forse intendevi, invece di „BBQ“, l'abbreviazione „HQ“ per „High Quality“?","不過真要說的話，不是BBQ是QOL啦！！
+95,7078,,"M-Ma forse intendevi, invece di ""BBQ"",
+l'abbreviazione ""HQ"" per ""High Quality""?","不過真要說的話，不是BBQ是QOL啦！！
 是生活品質才對啊！",,"굳이 따지자면 BBQ가 아니라 QOL이지만!!
-퀄리티 오브 라이프지만!","A-Aber vielleicht meintest du statt „BBQ“ die
-Abkürzung „HQ“ für „High Quality“?"
-96,7011,,"Sì! „Tè di Medusa Squalo“!
+퀄리티 오브 라이프지만!","A-Aber vielleicht meintest du statt ""BBQ"" die
+Abkürzung ""HQ"" für ""High Quality""?"
+96,7011,,"Sì! ""Tè di Medusa Squalo""!
 Deve migliorare!
 Ma come ci riusciamo?!","沒錯！　為了提昇那個生火瓶子，
 你覺得需要什麼！？",,"그래! 그 크리스피 오브 라이스를 높이기 위해서는
-무엇이 필요하다고 생각해!?","Ja! „Hai-Quallentee“!
+무엇이 필요하다고 생각해!?","Ja! ""Hai-Quallentee""!
 Der muss besser werden!
 Aber wie schaffen wir das?!"
 97,7011,,Soldi! I Tamer hanno bisogno di soldi!,那當然是錢啊！　馴獸師需要的是金錢！,,돈이야! 테이머에게는 돈이 필요해!,Geld! Zähmer brauchen Geld!
@@ -284,8 +311,8 @@ Aber wie schaffen wir das?!"
 友情跟知識也都能用錢買到！",,"사랑을 유지할 때도 돈은 필요해!
 우정이나 지력 역시 돈으로 사!","Auch Liebe braucht Geld! Man kann Freundschaft
 und Weisheit für Geld kaufen!"
-99,7011,,"È proprio questo il tempo in cui viviamo!
-Questo mondo è veleno! Non si deve affidare il proprio destino a nessun altro!","我們就是出生在這種時代啊！
+99,7011,,"È proprio questo il tempo in cui viviamo! Questo mondo è veleno!
+Non si deve affidare il proprio destino a nessun altro!","我們就是出生在這種時代啊！
 這世界有病啊！　可不能把一切都交給他人！",,"우리들은 그런 시대에 태어난거야!
 이 세상은 포이즌이야! 전부 남에게 남에게 맡겨서는 안 되는 거야!","Das ist eben die Zeit, in der wir leben!
 Diese Welt ist Gift! Man darf sein Schicksal
@@ -325,7 +352,8 @@ Va bene, che ne diresti di 10.000?","咦……？
 그런가아……그럼……………1만엔으로 할래?","Hm?
 Oh. Verstehe ... Na gut, wie wär’s mit 10 000?"
 106,7076,,La somma deve essere almeno a sei cifre...,至少……也說十萬元吧,,하다못해……2자릿수로,Die Summe muss mindestens sechsstellig sein ...
-107,7011,,Intendi 100 000 Yen ...?! Impossibile! Così tanto non posso chiedere!,"十、十萬！？！？　……不、不行不行不行！！
+107,7011,,"Intendi 100 000 Yen ...?!
+Impossibile! Così tanto non posso chiedere!","十、十萬！？！？　……不、不行不行不行！！
 我沒辦法拿那麼多錢啦～～～～！！",,"시, 10만!?!?  ……무, 무리무리무리무리이!!
 그렇게나 받을 수는 없어~~~~!!","Du meinst 100 000 Yen ...?! Unmöglich!
 So viel kann ich nicht verlangen!"
@@ -348,7 +376,8 @@ Dafür bekämen wir zehn Steaks vom Kobe-Rind!"
 你說你準備不了這麼多錢～？",,"으~흠, 그런가 그런가~
 돈은 준비할 수 없다고 하는 건~가?","Oh, verstehe ... Du sagst, du kannst das Geld
 nicht aufbringen, wie?"
-116,7011,,Teniamo in ostaggio il tuo amico e tu osi assumere un tale atteggiamento! Ci prendi per stupidi?!,"重要的夥伴都被當成人質了，
+116,7011,,"Teniamo in ostaggio il tuo amico e tu osi assumere
+un tale atteggiamento! Ci prendi per stupidi?!","重要的夥伴都被當成人質了，
 態度居然還這麼囂張……
 看來本女王也被小看了呢……",,"소중한 동료를 인질로 잡혔으면서 이 강경한 태도……
 나도 얕잡아보인 모양이구나……","Wir halten deinen Freund als Geisel und du wagst

@@ -304,7 +304,7 @@
 3047,,Chitose,千歲,,치토세,Chitose
 3048,,Yu,優,,유우,Yu
 3053,,K,K,,K,K
-4001,,Uomo d'affari veterano,資深上班族,,베테랑 샐러리맨,Versierter Geschäftsmann
+4001,,Uomo d'affari Veterano,資深上班族,,베테랑 샐러리맨,Versierter Geschäftsmann
 4002,,Uomo d'affari,上班族,,샐러리맨,Geschäftsmann
 4003,,Sbruffone,輕浮男子,,경박한 남자,Angeber
 4004,,Impiegata,OL大姊姊,,OL누님,Bürodame
@@ -562,11 +562,11 @@
 4311,,Studente che fa acquisti,正在購物的男學生,,쇼핑 중인 남학생,Einkaufender Schüler
 4312,,Studente Ben Informato,熟知情報的男學生,,정보통 남학생,Gut informierter Schüler
 4313,,Tizio del Negozio di Carte,卡牌店的男子,,카드숍 남자,Typ aus dem Kartenladen
-4314,,Studente appassionato di carte,熱愛卡牌的男學生,,카드를 몹시 좋아하는 남학생,Kartenfan-Schüler
-4315,,Studentessa amante delle carte,熱愛卡牌的女高中生,,카드를 몹시 좋아하는 여학생,Kartenfan-Schülerin
+4314,,Studente appassionato di Carte,熱愛卡牌的男學生,,카드를 몹시 좋아하는 남학생,Kartenfan-Schüler
+4315,,Studentessa amante delle Carte,熱愛卡牌的女高中生,,카드를 몹시 좋아하는 여학생,Kartenfan-Schülerin
 4316,,Ragazzo del Negozio di Carte,卡牌店的男子,,카드숍 남자,Typ aus dem Kartenladen
 4317,,Ragazza amante della musica,愛好音樂的女孩,,음악을 좋아하는 여자아이,Junge Musikliebhaberin
-4318,,Tizio appassionato di carte,熱愛卡牌的大叔,,카드를 몹시 좋아하는 아저씨,Kartenfan
+4318,,Tizio appassionato di Carte,熱愛卡牌的大叔,,카드를 몹시 좋아하는 아저씨,Kartenfan
 4319,,Nerd di Action Figure,喜愛美少女模型的御宅族,,미소녀 피규어 오타쿠,Figurennerd
 4320,,Studente fan dei Manga,喜愛漫畫的男學生,,만화를 좋아하는 남학생,Mangafan-Schüler
 4321,,Studentessa Addolorata,愁眉不展的女學生,,슬퍼보이는 여학생,Besorgte Schülerin
@@ -597,15 +597,15 @@
 4346,,Bella Impiegata,肉食系時髦OL,,육식형 멋쟁이 OL,Attraktive Bürodame
 4347,,Poliziotto Muscoloso,強壯的警察,,억센 경찰관,Bulliger Polizist
 4348,,Donna diffidente,疑心病重的姊姊,,의심 많은 누님,Misstrauische Frau
-4349,,Uomo d'affari pettegolo,喜愛八卦的上班族,,소문을 좋아하는 샐러리맨,Redseliger Geschäftsmann
+4349,,Uomo d'affari Pettegolo,喜愛八卦的上班族,,소문을 좋아하는 샐러리맨,Redseliger Geschäftsmann
 4350,,Ragazzo Arguto,淡然的少年,,무미건조한 소년,Cleverer Junge
 4351,,Soldato della Difesa a Disagio,不安的防衛隊員,,불안해보이는 방위대원,Ruheloser Schutzpolizist
 4352,,Impiegato Rassegnato,死心的上班族,,포기한 샐러리맨,Mutloser Geschäftsmann
-4353,,Uomo d'affari figo,冷靜的上班族,,냉정한 샐러리맨,Cooler Geschäftsmann
+4353,,Uomo d'affari Figo,冷靜的上班族,,냉정한 샐러리맨,Cooler Geschäftsmann
 4354,,Donna alla Moda,趕流行的姊姊,,유행을 쫓아다니는 누님,Modische Frau
-4355,,Uomo d'affari codardo,膽小的上班族,,심약한 샐러리맨,Feiger Geschäftsmann
+4355,,Uomo d'affari Codardo,膽小的上班族,,심약한 샐러리맨,Feiger Geschäftsmann
 4356,,Agente di Polizia Scontroso,懶洋洋的警察,,기력 없는 경찰관,Betrübter Polizist
-4357,,Uomo d'affari scioccato,驚慌的上班族,,깜짝 샐러리맨,Schockierter Unternehmer
+4357,,Uomo d'affari Scioccato,驚慌的上班族,,깜짝 샐러리맨,Schockierter Unternehmer
 4358,,Altoparlante Studentessa,健談的女學生,,스피커 여학생,Schülersprecherin
 4359,,Giovane Curioso,好奇心旺盛的年輕人,,호기심 왕성한 젊은이,Neugieriger Teenager
 4360,,Studente Prudente (Maschio),思慮縝密的男學生,,신중한 남학생,Vernünftiger Schüler
@@ -660,12 +660,12 @@
 4409,,Ragazzo amante della musica,愛好音樂的青年,,음악을 사랑하는 청년,Musikbegeisterter Junge
 4410,,Infermiera indaffarata,忙碌的護理師,,바쁜 간호사,Eifrige Krankenschwester
 4411,,Signora Malata,體弱多病的姊姊,,병약한 누님,Kränkliche Dame
-4412,,Uomo d'affari malato,快要感冒的上班族,,감기 기운이 있는 샐러리맨,Kranker Geschäftsmann
+4412,,Uomo d'affari Malato,快要感冒的上班族,,감기 기운이 있는 샐러리맨,Kranker Geschäftsmann
 4413,,Vecchio Impaziente,急躁的老爺爺,,성급한 할아버지,Ungeduldiger alter Mann
 4414,,Infermiera Gentile,親切的護理師,,친절한 간호사,Nette Krankenschwester
 4415,,Donna in visita,來探病的姊姊,,병문안 온 누님,Besucherin
 4416,,Donna gentile,溫柔的姊姊,,상냥한 누님,Freundliche Frau
-4417,,Uomo d'affari malato,感冒的上班族,,감기 걸린 샐러리맨,Kranker Geschäftsmann
+4417,,Uomo d'affari Malato,感冒的上班族,,감기 걸린 샐러리맨,Kranker Geschäftsmann
 4418,,Tizio Sfortunato,倒楣的大哥,,불운한 형님,Pechvogel
 4419,,Infermiera Diffidente,警戒心強的護理師,,경계심 강한 간호사,Wachsame Schwester
 4420,,Ragazza ottimista,漫不經心的女孩,,무사태평한 여자아이,Optimistisches Mädchen
@@ -673,13 +673,13 @@
 4422,,Infermiera Sovraccarica,忙得不可開交的護理師,,힘겨운 간호사,Überlastete Schwester
 4423,,Il cocco di nonno,隔代教養的青年,,할아버지를 따르는 청년,Opas Liebling
 4424,,Ragazzo Allegro,開朗的男孩,,쾌활한 남자,Fröhlicher Junge
-4425,,Ragazza ansiosa,愛操心的女孩,,걱정 많은 여자아이,Besorgtes Mädchen
+4425,,Ragazza Ansiosa,愛操心的女孩,,걱정 많은 여자아이,Besorgtes Mädchen
 4426,,Padre Affidabile,可靠的爸爸,,믿음직한 아버지,Zuverlässiger Vater
 4427,,Guardia di sicurezza seria,認真的警衛,,성실한 경비원,Ernster Wachmann
 4428,,Guardia di Sicurezza Spietata,冷酷的警衛,,무자비한 경비원,Rabiater Wachmann
 4429,,Vecchio appassionato di Asakusa,熱愛淺草的老爺爺,,아사쿠사를 좋아하는 할아버지,Alter Asakusa-Bewohner
-4430,,Donna bidonata,空等的姊姊,,바람맞은 누님,Sitzengelassene Frau
-4431,,Vecchio spensierato,從容的老爺爺,,태평한 할아버지,Sorgloser alter Mann
+4430,,Donna Abbandonata,空等的姊姊,,바람맞은 누님,Sitzengelassene Frau
+4431,,Vecchio Spensierato,從容的老爺爺,,태평한 할아버지,Sorgloser alter Mann
 4432,,Tizio Informatore,熟知情報的大叔,,정보통 아저씨,Informant
 4433,,Agente di Polizia Nervoso,畏畏縮縮的警察,,겁먹은 경찰관,Nervöser Polizist
 4434,,Vecchio Uomo Cordiale,拼命三郎老爺爺,,믿음직한 할아버지,Herzlicher alter Mann
@@ -698,14 +698,14 @@
 4447,,Vecchio Imbarazzato,手忙腳亂的老爺爺,,쩔쩔매는 할아버지,Aufgeregter alter Mann
 4448,,Uomo Vigilante,警戒中的男子,,경계하고 있는 남자,Wachsamer Mann
 4449,,Soldato Coraggioso Protettivo,雄赳赳的防衛隊員,,용감한 방위대원,Mutiger Schutzpolizist
-4450,,Uomo d'affari vigile,警戒中的上班族,,경계하고 있는 샐러리맨,Wachsamer Geschäftsmann
+4450,,Uomo d'affari Vigile,警戒中的上班族,,경계하고 있는 샐러리맨,Wachsamer Geschäftsmann
 4451,,Casalinga appassionata di musei,熱愛博物館的主婦,,박물관을 좋아하는 주부,Museumsgängerin
 4452,,Tizio patata da divano,愛看電視的大叔,,TV중독 아저씨,Stubenhocker
 4453,,Vecchio all'antica,古板的老爺爺,,옛스러운 할아버지,Altmodischer alter Mann
 4454,,Trasmissione Copia,通話中的警察,,통신 중인 경찰관,Funkender Polizist
 4455,,Donna dalla lingua tagliente,毒舌的姊姊,,독설 누님,Scharfzüngige Frau
 4456,,Ragazza Innocente,單純的女孩,,천진한 여자아이,Unschuldiges Mädchen
-4457,,Vecchio in pausa,休息中的老爺爺,,휴식 중인 할아버지,Alter Mann in der Pause
+4457,,Pensionato,休息中的老爺爺,,휴식 중인 할아버지,Alter Mann in der Pause
 4458,,Gentile Guardia di Sicurezza,親切的警衛,,친절한 경비원,Freundlicher Wachmann
 4459,,Guardia di Sicurezza Gentile,有紳士風範的警衛,,신사적인 경비원,Netter Wachmann
 4460,,Coraggioso Soldato della Difesa,威風凜凜的防衛隊員,,믿음직스러운 방위대원,Kräftiger Schutzpolizist
@@ -714,7 +714,7 @@
 4463,,Ragazza Sempliciotta,Jimmy風格的姊姊,,수수한 누님,Einfache Frau
 4464,,Uomo d'affari dal cuore tenero,老好人上班族,,사람 좋은 샐러리맨,Gutmütiger Geschäftsmann
 4465,,Casalinga Buongustaia,熱愛做菜的主婦,,요리를 좋아하는 주부,Gourmet-Hausfrau
-4466,,Marito affettuoso,最愛老婆的老公,,아내를 좋아하는 남편,Schwärmerischer Ehemann
+4466,,Marito Affettuoso,最愛老婆的老公,,아내를 좋아하는 남편,Schwärmerischer Ehemann
 4500,,Bella Donna,美麗的姊姊,,예쁜 누님,Schöne Frau
 4501,,Donna Meravigliosa,出色的姊姊,,멋진 누님,Wundervolle Frau
 4502,,Ragazzo dell'occulto,喜愛超自然的青年,,오컬트를 좋아하는 청년,Junger Okkultist
@@ -726,13 +726,13 @@
 4508,,Studente in Erasmus,在海外生活的男學生,,외국에서 지내는 남학생,Austauschschüler
 4509,,Ragazza Frivola,見異思遷的女孩,,변덕스러운 여자아이,Albernes Mädchen
 4510,,Padre Ansioso,愛操心的父親,,걱정 많은 아버지,Besorgter Vater
-4511,,Imbranato Uomo d'Affari,冒冒失失的上班族,,덜렁대는 샐러리맨,Schlechter Geschäftsmann
+4511,,Uomo d'Affari Maldestro,冒冒失失的上班族,,덜렁대는 샐러리맨,Schlechter Geschäftsmann
 4512,,Celebrità femminile,貴婦姊姊,,명품족 누님,Berühmtheit
-4513,,Ragazzo che sgattaiola,急速奔走的少年,,질주하는 소년,Herumflitzender Junge
-4514,,Uomo d'affari perspicace,四處觀察的上班族,,관찰하는 샐러리맨,Achtsamer Geschäftsmann
+4513,,Ragazzo che Sgattaiola,急速奔走的少年,,질주하는 소년,Herumflitzender Junge
+4514,,Uomo d'affari Perspicace,四處觀察的上班族,,관찰하는 샐러리맨,Achtsamer Geschäftsmann
 4515,,Hacker Spaventoso,令人毛骨悚然的駭客,,기분나쁜 해커,Unheimlicher Hacker
 4516,,Vecchio che finge di essere rimbambito,裝傻的老爺爺,,시치미 떼는 할아버지,Gespielt seniler Alter
-4517,,Studentessa energica,充滿活力的女學生,,활달한 여학생,Lebhafte Schülerin
+4517,,Studentessa Energica,充滿活力的女學生,,활달한 여학생,Lebhafte Schülerin
 4518,,Studente Innocente,純真的男學生,,순진한 남학생,Unschuldiger Schüler
 4519,,Tizio che bighellona,獨自佇立的大叔,,서성대는 아저씨,Nichtstuer
 4520,,Donna ingenua,純樸的姊姊,,천진스러운 누님,Naive Frau
@@ -824,7 +824,7 @@
 4606,,Hacker Pantofolaio,愛看電視的駭客,,TV를 좋아하는 해커,Träge Hackerin
 4607,,Hacker Maternale,擔心母親的駭客,,자애로운 해커,Mütterlicher Hacker
 4608,,Hacker Taciturno,悶聲色狼駭客,,무뚝뚝한 해커,Schweigsame Hackerin
-4609,,Hacker attendista,觀望的駭客,,상황을 살피는 해커,Bedächtiger Hacker
+4609,,Hacker Prudente,觀望的駭客,,상황을 살피는 해커,Bedächtiger Hacker
 4610,,Hacker Imbronciato,愛抱怨的駭客,,푸념이 많은 해커,Grummeliger Hacker
 4611,,Hacker Timido,軟弱的駭客,,심약한 해커,Ängstliche Hackerin
 4612,,Hacker Intellettuale,充滿知性的駭客,,지적인 해커,Gebildeter Hacker
@@ -838,7 +838,7 @@
 4620,,Hacker Rinunciatario,輕易放棄的駭客,,포기가 빠른 해커,Nachgiebige Hackerin
 4621,,Hacker Zaxon sconfitto,放棄的Zaxon駭客,,포기한 잭슨 해커,Besiegter Zaxon-Hacker
 4622,,Hacker con le Lacrime,嚎啕大哭的駭客,,눈물로 지새운 해커,Verweinte Hackerin
-4700,,Uomo d'affari apatico,自暴自棄的上班族,,자포자기한 샐러리맨,Apathischer Unternehmer
+4700,,Uomo d'affari Apatico,自暴自棄的上班族,,자포자기한 샐러리맨,Apathischer Unternehmer
 4701,,Donna Nervosa,神經質的姊姊,,신경과민 누님,Nervöse Frau
 4702,,Studente Maleducato,無禮的男學生,,무례한 남학생,Unhöflicher Schüler
 4703,,Affascinante Hacker Zaxon,儀表堂堂的Zaxon駭客,,멋진 잭슨 해커,Hübscher Zaxon-Hacker
@@ -891,10 +891,10 @@
 4750,,Hacker Perdente,人生失敗組駭客,,패배자 해커,Verlierer-Hacker
 4751,,Hacker Vincente,人生勝利組駭客,,승리자 해커,Gewinner-Hacker
 4752,,Hacker Impopolare,無異性緣的駭客,,비인기계 해커,Unbeliebter Hacker
-4753,,Padre premuroso,看上去很溫柔的父親,,다정해보이는 아버지,Freundlicher Vater
+4753,,Padre Premuroso,看上去很溫柔的父親,,다정해보이는 아버지,Freundlicher Vater
 4754,,Madre Gentile,看上去很溫柔的母親,,다정해보이는 어머니,Nette Mutter
 4755,,Ragazza in cerca di un amico,尋找朋友的女孩,,친구를 찾고있는 여자아이,Suchendes Mädchen
-4756,,Studentessa irrequieta,苦苦等待的女學生,,기다리다 지친 여학생,Ruhelose Schülerin
+4756,,Studentessa Irrequieta,苦苦等待的女學生,,기다리다 지친 여학생,Ruhelose Schülerin
 4757,,Proprietario del chiosco di Takoyaki,章魚燒攤販的老闆,,타코야키 가게 아저씨,Takoyaki-Standbetreiber
 4758,,Signora della Libreria dell'Usato,二手書店的姊姊,,중고서점 누님,Secondhand-Buchhändlerin
 4759,,Buttafuori Zaxon,阻擋去路的Zaxon駭客,,제지하는 잭슨 해커,Zaxon-Türsteher
@@ -995,7 +995,7 @@
 4889,,Personale del Ristorante Cinese,中式餐廳店員,,중화요리 가게 점원,Chinarestaurant-Personal
 4890,,Personale del Ristorante di Sushi,壽司店店員,,초밥집 점원,Sushirestaurant-Personal
 4891,,Staff della Casa da Tè,輕食咖啡店店員,,경식찻집 점원,Teehaus-Personal
-4892,,Ragazza smarrita,困惑的女孩,,당황한 여자아이,Verblüfftes Mädchen
+4892,,Ragazza Smarrita,困惑的女孩,,당황한 여자아이,Verblüfftes Mädchen
 4893,,Appassionato di musica,音樂愛好者的男性,,음악애호가 남성,Musikliebhaber
 4894,,Hacker Spaccamacchina,不知分寸的駭客,,나쁜 장난을 치는 해커,Leichtsinniger Hacker
 4895,,Hacker Zaxon Secchione,書蟲Zaxon駭客,,독서가 잭슨 해커,Zaxon-Bücherwurm
@@ -1083,7 +1083,7 @@
 4977,,Costume Agumon Maschile,男主角服裝亞古獸,,아구몬 남주인공 맞춤 코스튬,Agumon (Männliches Kostüm)
 4978,,Costume Agumon Femminile,女主角服裝亞古獸,,아구몬 여주인공 맞춤 코스튬,Agumon (Weibliches Kostüm)
 4979,,Agumon Costume di Tai Kamiya.,八神太一服裝亞古獸,,아구몬 야가미 타이치 맞춤 코스튬,Agumon (Tai-Kamiya-Kostüm)
-4980,,Agumon Tower Records Ed.,淘兒唱片合作服裝亞古獸,Agumon Shibuya Records Ed.,아구몬 타워 레코드 콜라보,Agumon (Shibuya Records)
+4980,,Agumon Tower Records Ed.,淘兒唱片合作服裝亞古獸,Agumon Tower Records Ed.,아구몬 타워 레코드 콜라보,Agumon (Shibuya Records)
 5000,,Debug,除錯,,디버깅,Debug
 5001,,Server di posta,電子郵件伺服器,,메일 서버,Mailserver
 5002,,???,？？？,,？？？,???
@@ -1203,8 +1203,8 @@
 1548,,Unimon,獨角馬獸,,유니몬,Unimon
 1781,,Sistermon Blanc,修女獸雪白,,시스터몬 블랑,Sistermon Blanc
 1782,,Sistermon B (Risvegliata.),修女獸B(覺醒),,시스터몬B(각성),Sistermon B (Erw.)
-1783,,Sistermon Noir,修女獸漆黑,Sistermon Ciel,시스터몬 느와르,Sistermon Ciel
-1784,,Sistermon Noir (Risvegliata.),修女獸N(覺醒),Sistermon C (Awake.),시스터몬N(각성),Sistermon C (Erw.)
+1783,,Sistermon Ciel,修女獸漆黑,Sistermon Ciel,시스터몬 느와르,Sistermon Ciel
+1784,,Sistermon Ciel (Risvegliata.),修女獸N(覺醒),Sistermon Ciel (Risvegliata.),시스터몬N(각성),Sistermon C (Erw.)
 1682,,Shoutmon,高吼獸,,샤우트몬,Shoutmon
 1683,,OmniShoutmon,奧米加咆哮獸,,오메가샤우트몬,OmniShoutmon
 1901,,Alphamon NX,阿爾法獸NX,,알파몬NX,Alphamon NX
@@ -1236,7 +1236,7 @@
 1905,,Gallantmon NX,紅蓮騎士獸NX,,듀크몬NX,Gallantmon NX
 6002,,Keisuke,圭佑,,케이스케,Keisuke
 7000,,Shiga,志賀,,시가,Shiga
-7001,,Mercante del mercato nero,黑市商人,,암시장 상인,Schwarzmarkt-Händler
+7001,,Mercante del Mercato Nero,黑市商人,,암시장 상인,Schwarzmarkt-Händler
 7002,,Mercante Compagno,商人的夥伴,,상인의 동료,Händler-Kamerad
 7003,,Tizio del Negozio di Elettronica,電器店的大叔,,전파상 아저씨,Typ aus Elektronikladen
 7004,,Ragazza Part-Timer,打工的大姊姊,,메이드 누님,Weibliche Aushilfe
@@ -1277,7 +1277,7 @@
 7043,,Kayaba,茅場,,카야바,Kayaba
 7044,,Signora di mezza età che cammina,中年女性行人,,통행인 중년여성,Passantin mittl. Alters
 7045,,Uomo di Mezza Età a Passeggio,中年男性行人,,통행인 중년남성,Passant mittl. Alters
-7046,,Ragazzo di bassa lega,不良少年,,질 나쁜 소년,Erbärmlicher Junge
+7046,,Ragazzo Povero,不良少年,,질 나쁜 소년,Erbärmlicher Junge
 7047,,Ragazzo che Fissa Accigliato,眼神兇惡的少年,,눈매가 나쁜 소년,Starrender Junge
 7048,,Hacker Cattivi,不良駭客們,,불량한 해커들,Böse Hacker-Typen
 7049,,Hacker Zaxon Cattivo,不良Zaxon駭客,,불량한 잭슨 해커,Böser Zaxon-Hacker
@@ -1321,18 +1321,18 @@
 7095,,Voce dell'Uomo Coraggioso,強勢的男性聲音,,기가 세 보이는 남성의 목소리,Stimme von tapferem Mann
 7096,,Hacker Coraggioso,強勢的男駭客,,기가 세 보이는 해커,Tapferer Hacker
 7097,,Ragazza Imbronciata,心情不好的少女,,언짢아 보이는 소녀,Mürrisches Mädchen
-7098,,Ragazzo etereo,輕浮的青年,,가벼워 보이는 청년,Schmächtiger Junge
+7098,,Ragazzo Esile,輕浮的青年,,가벼워 보이는 청년,Schmächtiger Junge
 7099,,Dignitoso Anziano,有威嚴的中年男性,,관록 있는 초로의 남성,Gediegener älterer Mann
-7100,,Gestore del Negozio di Cianfrusaglie,舊貨店店員,,정크상 점원,Ersatzteilladen-Besitzerin
+7100,,Proprietaria del Negozio,舊貨店店員,,정크상 점원,Ersatzteilladen-Besitzerin
 7101,,Presenza Misteriosa,神秘的氣息,,수수께끼의 기척,Geheimnisvolle Präsenz
 7102,,Voce di una Donna Sconosciuta,沒聽過的女性聲音,,들어본 적 없는 여성의 목소리,Unvertraute Frauenstimme
 7103,,Bellezza con gli Occhiali,眼鏡美女,,안경 쓴 미녀,Brillen-Schönheit
 7105,,Urlo Misterioso,神秘慘叫,,수수께끼의 비명,Seltsames Kreischen
 7106,,Digimon in Pericolo,襲擊過來的數碼寶貝,,공격받고 있는 디지몬,Digimon in Gefahr
-7107,,Ragazza con chignon,丸子頭的女性,,경단머리 여성,Mädchen mit Haarknoten
+7107,,Ragazza con Chignon,丸子頭的女性,,경단머리 여성,Mädchen mit Haarknoten
 7108,,Voce dalle Ombre,有點陰沉的聲音,,어딘가 그늘진 목소리,Stimme aus dem Schatten
 7109,,Voce Nervosa,神經質的聲音,,신경질적인 목소리,Nervöse Stimme
-7111,,Ragazza sexy,有魅力的女性,,매력적인 여성,Sexy Mädchen
+7111,,Ragazza Sexy,有魅力的女性,,매력적인 여성,Sexy Mädchen
 7112,,Uomo Sospetto,奇怪男子,,수상한 남자,Verdächtiger Mann
 7113,,Voce familiare,好像有聽過的聲音,,어디선가 들어본 목소리,Vertraute Stimme
 7115,,Sistema di Sicurezza EDEN,EDEN保全系統,,EDEN 보안 시스템,EDEN-Sicherheitssystem
@@ -1383,13 +1383,13 @@
 7166,,Digimon vigorosi,幹勁十足的數碼寶貝,,발랄한 디지몬,Energisches Digimon
 7167,,Digimon Beneducati,穩重的數碼寶貝,,온순해 보이는 디지몬,Artiges Digimon
 7168,,Blanc,雪白,,블랑,Blanc
-7169,,Noir,漆黑,Ciel,느와르,Ciel
+7169,,Ciel,漆黑,Ciel,느와르,Ciel
 7170,,Voce Energica,有活力的聲音,,활기찬 목소리,Energetische Stimme
 7171,,Digimon Simili a Dinosauri,像恐龍的數碼寶貝,,공룡 같은 디지몬,Dinosaurierdigimon
-7172,,La Voce di Noir,漆黑的聲音,Ciel's Voice,느와르의 목소리,Ciels Stimme
-7173,,Noir & Blanc,漆黑＆雪白,Ciel & Blanc,느와르&블랑,Ciel & Blanc
+7172,,La Voce di Ciel,漆黑的聲音,La Voce di Ciel,느와르의 목소리,Ciels Stimme
+7173,,Ciel & Blanc,漆黑＆雪白,Ciel & Blanc,느와르&블랑,Ciel & Blanc
 7174,,"Nokia, Agumon e Gabumon",諾奇雅＆亞古獸＆加布獸,,노키아&아구몬&파피몬,"Nokia, Agumon & Gabumon"
-7175,,Noir (Risvegliato),漆黑(覺醒),Ciel (Awakened),느와르(각성),Ciel (Erwacht)
+7175,,Ciel (Risvegliata),漆黑(覺醒),Ciel (Risvegliata),느와르(각성),Ciel (Erwacht)
 7176,,Blanc (Risvegliata),雪白(覺醒),,블랑(각성),Blanc (Erwacht)
 7177,,Greymon & Garurumon,暴龍獸＆加魯魯獸,,그레이몬&가루몬,Greymon & Garurumon
 7178,,Ragazza pettegola,喜歡八卦的女孩,,소문을 좋아하는 여자아이,Schwatzendes Mädchen
@@ -1408,7 +1408,7 @@
 7191,,Amico Hacker Passante,路過駭客的同伴,,지나가던 해커의 동행자,Hackerin-Freundin
 7192,,Articolo del sito,網頁說明文,,사이트의 설명문,Webseiten-Artikel
 7193,,Commesso di Pasticceria,日式點心店店員,,화과자점의 점원,Konditorei-Angestellte
-7194,,Commesso della farmacia,藥店店員,,드러그스토어의 점원,Drogerie-Angestellte
+7194,,Commesso della Farmacia,藥店店員,,드러그스토어의 점원,Drogerie-Angestellte
 7195,,Tizio Energico,情緒激動的大叔,,텐션 높은 아저씨,Energiegeladener Typ
 7196,,Staff dell'Ufficio Metropolitano,新都廳員工,,신 도청 직원,ZV-Angestellter
 7197,,Digimon con Faccia da Teschio,骷髏臉的數碼寶貝,,해골 얼굴의 디지몬,Schädelgesicht-Digimon
@@ -1689,38 +1689,38 @@
 9079,,,,,,
 9080,,,,,,
 9081,,Hacker Timido,愛操心的駭客,,걱정 많은 해커,Sprunghafte Hackerin
-9082,,Respingi Hacker,要回去的駭客,,돌려보내는 해커,Abstoßender Hacker
+9082,,Hacker Ripugnante,要回去的駭客,,돌려보내는 해커,Abstoßender Hacker
 9083,,Hacker Apprendista,見習駭客,,견습 해커,Angehender Hacker
 9084,,Hacker Esperto Man,資深男駭客,,베테랑 남성 해커,Erfahrener Hacker
 9085,,Hacker Solitario Languido,懶散的無隊伍駭客,,나른해 보이는 해커,Träger Solo-Hacker
-9086,,Gentile Hacker Zaxon,親切的Zaxon駭客,,친절한 잭슨 해커,Netter Zaxon-Hacker
-9087,,Solo Hacker,正義感強的無隊伍駭客,,정의감 투철한 무소속 해커,Gerechte Solo-Hackerin
+9086,,Hacker Zaxon Gentile,親切的Zaxon駭客,,친절한 잭슨 해커,Netter Zaxon-Hacker
+9087,,Hacker Solitaria e Giusta,正義感強的無隊伍駭客,,정의감 투철한 무소속 해커,Gerechte Solo-Hackerin
 9088,,Hacker Solitario Chiacchierone,愛說話的無隊伍駭客,,수다스러운 무소속 해커,Plappernder Solo-Hacker
 9089,,Hacker Occulto Solitario,喜歡靈異現象的無隊伍駭客,,오컬트를 좋아하는 무소속 해커,Okkultismus-Solo-Hacker
 9090,,Hacker Solitario,無隊伍駭客,,무소속 해커,Solo-Hacker
 9091,,Hacker del Circolo del Coniglio,兔籠的駭客,,래빗 서클의 해커,Rabbit-Circle-Hackerin
-9092,,Hacker Solitario Analogico,喜歡傳統的無隊伍駭客,,아날로그를 좋아하는 무소속 해커,Analoge Solo-Hackerin
+9092,,Hacker Solitaria Analogica,喜歡傳統的無隊伍駭客,,아날로그를 좋아하는 무소속 해커,Analoge Solo-Hackerin
 9093,,Hacker Solitario Apatico,很累的無隊伍駭客,,따분해 보이는 해커,Lustlose Solo-Hackerin
-9094,,Hacker Informatico Solitario,情報通的無隊伍駭客,,정보통 무소속 해커,Solo-Hacker-Informant 
+9094,,Informatore Hacker Solitario,情報通的無隊伍駭客,,정보통 무소속 해커,Solo-Hacker-Informant 
 9095,,Hacker Occhiuto,眼神銳利的駭客,,눈매가 날카로운 해커,Scharfsichtiger Hacker
 9096,,Regista,男性製片,,영화를 만든 남자,Filmemacher
 9097,,Donna Indecisa,猶豫點餐的女性,,뭘 주문할지 고민하는 여자,Unentschlossene Frau
 9098,,Studente Gamer,喜歡遊戲的男性,,게임을 좋아하는 남성,Schüler-Gamer
-9099,,Donna amante dei manga,喜歡漫畫的女性,,만화를 좋아하는 여자,Manga-Liebhaberin
+9099,,Donna amante dei Manga,喜歡漫畫的女性,,만화를 좋아하는 여자,Manga-Liebhaberin
 9100,,Maschio pettegolo,想被推文的男性,,좋아요를 받고 싶은 남자,Schwatzender Schüler
-9101,,Studentessa innamorata,被迷到神魂顛倒的女學生,,매료된 여고생,Verliebte Schülerin
+9101,,Studentessa Innamorata,被迷到神魂顛倒的女學生,,매료된 여고생,Verliebte Schülerin
 9102,,Studentessa Adulatrice,害羞的女學生,,홀딱 반한 여고생,Schmeichelnde Schülerin
 9103,,Dipendente della sala giochi,在遊戲中心打工的人,,게임 센터 알바,Spielhallen-Angestellte
 9104,,Il Sapientone di EDEN,熟悉EDEN的男性,,EDEN에 정통한 남성,EDEN-Besserwisser
-9105,,Tipo dal cuore gentile,親切的男性,,친절한 남성,Gutherziger Typ
+9105,,Tipo di buon Cuore,親切的男性,,친절한 남성,Gutherziger Typ
 9106,,Appassionato di acquari,去水族館的男性,,수족관에 간 남성,Aquarien-Liebhaber
 9107,,Fan dell'Acquario,去水族館的女性,,수족관에 간 여성,Aquarien-Liebhaberin
 9108,,Uomo d'affari veterano,資深上班族,,베테랑 샐러리맨,Versierter Geschäftsmann
 9109,,Uomo d'affari alle prime armi,新人上班族,,신입사원 샐러리맨,Neuer Geschäftsmann
 9110,,Agente Serio,正經的警官,,성실한 경찰,Ernster Polizist
 9111,,Donna Part-Time,打工的女性,,아르바이트 여성,Weibliche Aushilfe
-9112,,Donna amante dei manga,喜歡漫畫的女性,,만화를 좋아하는 여성,Manga-Liebhaberin
-9113,,Normale,專精於自助飲料吧的老人,,드링크바 마니아 노인,Stammgast
+9112,,Donna amante dei Manga,喜歡漫畫的女性,,만화를 좋아하는 여성,Manga-Liebhaberin
+9113,,Cliente Abituale,專精於自助飲料吧的老人,,드링크바 마니아 노인,Stammgast
 9114,,Giovane Curioso,有點在意的青年,,호기심 많은 청년,Neugieriger Teenager
 9115,,Donna Nerd PC,對PC很熟悉的大姐姐,,PC에 정통한 누님,PC-Nerd
 9116,,Ragazzo Fanatico di Pesci,喜歡魚類的少年,,물고기를 좋아하는 소년,Fischliebhaber
@@ -1748,8 +1748,8 @@
 9138,,Hacker Romantico,羅曼蒂克的駭客,,로맨틱한 해커,Romantische Hackerin
 9139,,Hacker Innocente,天真浪漫的駭客,,천진난만한 해커,Unschuldige Hackerin
 9140,,Hacker Mercante,商人駭客,,상인 해커,Händler-Hacker
-9141,,Hacker Shopping,購物的駭客,,쇼핑객 해커,Einkaufender Hacker
-9142,,Hacker Tirchio,儲蓄的駭客,,돈을 저축한 해커,Sparsame Hackerin
+9141,,Hacker Acquirente,購物的駭客,,쇼핑객 해커,Einkaufender Hacker
+9142,,Hacker Tirchia,儲蓄的駭客,,돈을 저축한 해커,Sparsame Hackerin
 9143,,Vecchio Affascinante,依然厲害的爺爺,,잘 나가는 할아버지,Attraktiver alter Mann
 9144,,Vecchio Sgradevole,有點壞壞的爺爺,,조금 불량한 할아버지,Gemeiner alter Mann
 9145,,Hacker Belligerante,挑釁的駭客,,시비 걸던 해커,Kampflustiger Hacker
@@ -1790,26 +1790,26 @@
 9180,,Hacker Demons Tremante,發抖的惡魔亂舞駭客,,떨고 있는 데몬즈 해커,Zitternder Demons-Hacker
 9181,,Hacker Demons Informatore,情報通的惡魔亂舞駭客,,정보통 데몬즈 해커,Demons-Hacker-Informant
 9182,,Hacker Demons Arrabbiato,焦躁不安的惡魔亂舞駭客,,초조해하는 데몬즈 해커,Genervter Demons-Hacker
-9183,,Mr. Navit - Tipo01,NAVIT_type01,,내빗군_type01,Herr Navit – Typ 01
-9184,,Mr. Navit - Tipo02,NAVIT_type02,,내빗군_type02,Herr Navit – Typ 02
-9185,,Mr. Navit - Tipo03,NAVIT_type03,,내빗군_type03,Herr Navit – Typ 03
-9186,,Sig. Navit - Tipo04,NAVIT_type04,,내빗군_type04,Herr Navit – Typ 04
-9187,,Sig. Navit - Tipo05,NAVIT_type05,,내빗군_type05,Herr Navit – Typ 05
-9188,,Sig. Navit - Tipo06,NAVIT_type06,,내빗군_type06,Herr Navit – Typ 06
-9189,,Sig. Navit - Tipo07,NAVIT_type07,,내빗군_type07,Herr Navit – Typ 07
-9190,,Sig. Navit - Tipo08,NAVIT_type08,,내빗군_type08,Herr Navit – Typ 08
-9191,,Sig. Navit - Tipo09,NAVIT_type09,,내빗군_type09,Herr Navit – Typ 09
-9192,,Mr. Navit - Tipo10,NAVIT_type10,,내빗군_type10,Herr Navit – Typ 10
-9193,,Sig. Navit - Tipo11,NAVIT_type11,,내빗군_type11,Herr Navit – Typ 11
-9194,,Mr. Navit - Tipo12,NAVIT_type12,,내빗군_type12,Herr Navit – Typ 12
-9195,,Signor Navit - Tipo13,NAVIT_type13,,내빗군_type13,Herr Navit – Typ 13
-9196,,Mr. Navit - Tipo14,NAVIT_type14,,내빗군_type14,Herr Navit – Typ 14
-9197,,Sig. Navit - Tipo15,NAVIT_type15,,내빗군_type15,Herr Navit – Typ 15
-9198,,Sig. Navit - Tipo16,NAVIT_type16,,내빗군_type16,Herr Navit – Typ 16
-9199,,Sig. Navit - Tipo17,NAVIT_type17,,내빗군_type17,Herr Navit – Typ 17
-9200,,Sig. Navit - Tipo18,NAVIT_type18,,내빗군_type18,Herr Navit – Typ 18
-9201,,Sig. Navit - Tipo19,NAVIT_type19,,내빗군_type19,Herr Navit – Typ 19
-9202,,Sig. Navit - Tipo20,NAVIT_type20,,내빗군_type20,Herr Navit – Typ 20
+9183,,Sig. Navit - Tipo 01,NAVIT_type01,,내빗군_type01,Herr Navit – Typ 01
+9184,,Sig. Navit - Tipo 02,NAVIT_type02,,내빗군_type02,Herr Navit – Typ 02
+9185,,Sig. Navit - Tipo 03,NAVIT_type03,,내빗군_type03,Herr Navit – Typ 03
+9186,,Sig. Navit - Tipo 04,NAVIT_type04,,내빗군_type04,Herr Navit – Typ 04
+9187,,Sig. Navit - Tipo 05,NAVIT_type05,,내빗군_type05,Herr Navit – Typ 05
+9188,,Sig. Navit - Tipo 06,NAVIT_type06,,내빗군_type06,Herr Navit – Typ 06
+9189,,Sig. Navit - Tipo 07,NAVIT_type07,,내빗군_type07,Herr Navit – Typ 07
+9190,,Sig. Navit - Tipo 08,NAVIT_type08,,내빗군_type08,Herr Navit – Typ 08
+9191,,Sig. Navit - Tipo 09,NAVIT_type09,,내빗군_type09,Herr Navit – Typ 09
+9192,,Sig. Navit - Tipo 10,NAVIT_type10,,내빗군_type10,Herr Navit – Typ 10
+9193,,Sig. Navit - Tipo 11,NAVIT_type11,,내빗군_type11,Herr Navit – Typ 11
+9194,,Sig. Navit - Tipo 12,NAVIT_type12,,내빗군_type12,Herr Navit – Typ 12
+9195,,Sig. Navit - Tipo 13,NAVIT_type13,,내빗군_type13,Herr Navit – Typ 13
+9196,,Sig. Navit - Tipo 14,NAVIT_type14,,내빗군_type14,Herr Navit – Typ 14
+9197,,Sig. Navit - Tipo 15,NAVIT_type15,,내빗군_type15,Herr Navit – Typ 15
+9198,,Sig. Navit - Tipo 16,NAVIT_type16,,내빗군_type16,Herr Navit – Typ 16
+9199,,Sig. Navit - Tipo 17,NAVIT_type17,,내빗군_type17,Herr Navit – Typ 17
+9200,,Sig. Navit - Tipo 18,NAVIT_type18,,내빗군_type18,Herr Navit – Typ 18
+9201,,Sig. Navit - Tipo 19,NAVIT_type19,,내빗군_type19,Herr Navit – Typ 19
+9202,,Sig. Navit - Tipo 20,NAVIT_type20,,내빗군_type20,Herr Navit – Typ 20
 9203,,Sapientone di Internet,很熟網路的男子,,인터넷에 정통한 남성,Internet-Besserwisser
 9204,,Studentessa alla Moda,喜歡流行事物的女學生,,유행을 좋아하는 여학생,Schicke Schülerin
 9205,,Videogiocatrice Studentesca,喜歡遊戲的女學生,,게임을 좋아하는 여학생,Gamer-Schülerin

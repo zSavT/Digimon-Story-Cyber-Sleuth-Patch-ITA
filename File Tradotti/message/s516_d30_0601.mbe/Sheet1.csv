@@ -6,7 +6,8 @@ ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
 在那邊的那位還比妳厲害呢。",,"후후…디지몬 배틀 경험치는
 그 아이 쪽이 위인 것 같군요","Hm ... Dein Freund hier ist äußerst
 beeindruckend."
-5,4061,,"Come avrai notato, mi sono trattenuto parecchio. Quello era solo il primo round.","如同你察覺的那般，我還沒認真。
+5,4061,,"Come avrai notato, mi sono trattenuto parecchio.
+Quello era solo il primo round.","如同你察覺的那般，我還沒認真。
 這只不過是前菜而已。",,"간파하신 대로 저는 아직 전력을 다하지 않았습니다.
 이건 아직 시작에 불과하죠","Wie du bemerkt hast, habe ich mich stark
 zurückgehalten. Das war nur die erste Runde."
@@ -58,8 +59,7 @@ kann."
 25,4061,,Ahah... ahahaha... Sei davvero unico al mondo!,"呵呵……呵呵呵呵……
 果然你是很棒的人才啊…！",,"후후…후후후……
 역시 당신은 멋진 소재야…!",Haha ... hahaha ... Du bist ein echtes Original!
-26,3007,,"Mi hai ingannato l'ultima volta, ma stavolta ti
-porterò dentro.","雖然被替身給擺了一道……
+26,3007,,"Mi hai ingannato l'ultima volta, ma stavolta ti porterò dentro.","雖然被替身給擺了一道……
 這次該給我乖乖的繩之以法了吧，數碼面相。",,"바꿔치기에는 당해버렸지만
 이번에야말로 체포해주지, 디지면상","Letztes Mal hast du mich reingelegt, aber dieses
 Mal werde ich dich hochnehmen."
@@ -90,12 +90,14 @@ aufschlussreicher Tag."
 35,7296,,Fino a quando non ci incontreremo di nuovo...,"那麼，再會了。
 讓我們在適合之時，再次相會吧……",,"그럼 이만.
 가까운 시일 안에 다시 뵙도록 하죠……",Bis zum nächsten Mal ...
-36,3015,,Non possiamo lasciarlo scappare! Deve essere da qualche parte qui intorno! Lo troverò!,"別想逃！　一定還在這附近！
+36,3015,,"Non possiamo lasciarlo scappare!
+Deve essere da qualche parte qui intorno!
+Lo troverò!","別想逃！　一定還在這附近！
 搜索他！",,"놓칠까보냐! 아직 가까이에 있을 거다!
 찾자!","Wir dürfen ihn nicht entkommen lassen! Er muss
 hier irgendwo sein. Ich werde ihn finden!"
-37,3007,,"Non serve a niente. Non è più sul server. Ci ha
-preso in giro di nuovo.","沒用的，伊達。那傢伙現在已經在
+37,3007,,"Non serve a niente. Non è più sul server.
+Ci ha preso in giro di nuovo.","沒用的，伊達。那傢伙現在已經在
 伺服器外頭了，這次也是完全被擺了一道。",,"소용없다, 다테. 놈은 지금쯤 서버 바깥이야.
 이번에도 또 눈 뜨고 당해버렸군","Es ist zwecklos. Er ist nicht mehr auf dem Server.
 Er hat uns wieder reingelegt."
@@ -104,9 +106,8 @@ Er hat uns wieder reingelegt."
 都是因為我太急了，才讓那傢伙逃掉了……",,"죄송합니다…마타요시 씨
 제가 앞서나간 탓에 놈을 놓치고 말다니……","Es tut mir leid, Herr Kommissar! Es ist meine
 Schuld, dass er entkommen ist."
-40,3007,,"Non preoccuparti. Sono sicuro che le nostre strade si
-incroceranno di nuovo. Ci saranno numerose opportunità
-per arrestarlo.","不要在意啦。畢竟是那種人，
+40,3007,,"Non preoccuparti. Sono sicuro che le nostre strade si incroceranno
+di nuovo. Ci saranno numerose opportunità per arrestarlo.","不要在意啦。畢竟是那種人，
 一定還會主動跟我們接觸的。
 能夠抓到他的機會，有多少就有多少。",,"신경쓰지 마라. 그런 놈이니 분명 또 저쪽에서
 접촉할 거다. 체포할 기회는 얼마든지 있어","Mach dir deswegen keine Vorwürfe. Bestimmt werden
@@ -145,7 +146,9 @@ war das Passwort."
 54,3015,,Sa così tanto di te. Chi è?,"竟然調查又吉叔調查的這麼詳細……
 那傢伙究竟，是什麼人物啊……",,"마타요시 씨를 그렇게나 자세히 조사했다니…
 그 녀석은 대체 정체가 뭘까요…",Er weiß so viel über Sie. Wer ist er?
-55,3007,,"Onestamente, non ne ho idea. Potrebbe essere un hacker geniale, oppure potrebbe essere qualche pervertito che si diverte a prendere in giro la polizia.","誰知道，我也完全不明所以然。
+55,3007,,"Onestamente, non ne ho idea. Potrebbe essere un hacker geniale,
+oppure potrebbe essere qualche pervertito che si
+diverte a prendere in giro la polizia.","誰知道，我也完全不明所以然。
 究竟是很厲害的駭客，還是只是個變態……",,"글쎄다. 나도 전혀 모르겠다.
 실력있는 해커인지 그냥 변태인지……","Ich habe ehrlich keine Ahnung. Vielleicht ein
 Hackergenie oder ein verkorkster Freak, dem es

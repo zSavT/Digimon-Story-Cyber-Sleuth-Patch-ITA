@@ -7,7 +7,8 @@ reichen."
 200,2000,,"Medaglia Digimon ""[d0]"" ottenuta!",得到數碼寶貝獎牌「[d0]」了！,,"디지몬 메달「[d0]」
 를(을) 손에 넣었다!","Digimon-Medaille „[d0]“
 erhalten!"
-300,2000,,Ho troppa roba con me e non posso trasportare altro. Dovrei sistemare le mie cose e poi tornare.,"持有物太多，沒辦法再拿了……
+300,2000,,"Ho troppa roba con me e non posso trasportare altro.
+Dovrei sistemare le mie cose e poi tornare.","持有物太多，沒辦法再拿了……
 先整理一下再來吧。",,"소지품이 너무 많아서 이 이상 가질 수 없어…
 정리하고서 다시 오자","Ich habe zu viel dabei und kann nichts mehr
 tragen. Ich sollte meine Sachen ordnen und dann
@@ -262,14 +263,16 @@ Prendi questo – devo dirlo a mia moglie!","這、這真是太不得了啦…�
 답례로 이걸 받아 줘 …마누라에게는 비밀이야","Träume ich? Kneif mich mal!
 Meine Sammlung ist endlich komplett! 500!
 Nimm das hier – ich muss das meiner Frau erzählen!"
-810,4230,,"Eppure! Per la conservazione, per l'orgogliosa ammirazione, per le coccole... Ho ancora bisogno di più medaglie! Quindi continuo a comprarle!","但是！保存用、欣賞用、炫燿用、蹭臉用……
+810,4230,,"Eppure! Per conservarle, per ammirarle con orgoglio, per coccolarle...
+Ho ancora bisogno di altre medaglie! Quindi continuo a comprarle!","但是！保存用、欣賞用、炫燿用、蹭臉用……
 對大叔我來說，獎牌是越多越好！
 我接下來也會瞞著我老婆拼命收購的！",,"하지만! 보존용, 감상용, 자랑용, 포교용…
 아저씨에게는 메달이 얼마든지 더 필요해!
 앞으로도 아내에게 비밀로 팍팍 매입할 테니까!","Und dennoch! Zur Aufbewahrung, zum stolzen
 Bewundern, zum Kuscheln ... Ich brauch immer noch
 mehr Medaillen! Also kaufe ich sie weiterhin!"
-820,4230,,"Sia per la conservazione, per ammirarle con orgoglio, per coccolarle... Ho ancora bisogno di più medaglie! Quindi continuerò a comprarle!","保存用、欣賞用、炫燿用、蹭臉用……
+820,4230,,"Che sia per conservarle, per ammirarle con orgoglio, per coccolarle...
+Ho sempre bisogno di altre medaglie! Quindi continuo a comprarle!","保存用、欣賞用、炫燿用、蹭臉用……
 對大叔我來說，獎牌是越多越好！
 我接下來也會瞞著我老婆拼命收購的！",,"보존용, 감상용, 자랑용, 포교용…
 아저씨에게는 메달이 얼마든지 더 필요해!
@@ -282,8 +285,7 @@ Ecco un segno del mio riconoscimento.","收集獎牌真是辛苦你了！
 이건 내 마음의 답례야, 우후후","Gut gemacht, dass du die ganzen Medaillen
 gefunden hast! Hier ist ein Zeichen meiner
 Anerkennung."
-910,4230,,"Sono sempre qui...
-Quindi puoi portarmi medaglie in qualsiasi momento!","大叔我會一直待在這裡的，
+910,4230,,"Sono sempre qui... Quindi puoi portarmi medaglie in qualsiasi momento!","大叔我會一直待在這裡的，
 你就儘管拿獎牌來給我吧！",,"아저씨, 언제든지 여기에 있을 테니까…
 마구마구 메달을 가져와 줘!","Ich bin immer hier ...
 Also kannst du mir jederzeit Medaillen bringen!"
@@ -312,7 +314,8 @@ di procurarmele.","這個世界還有為數眾多的獎牌在，
 다른 누군가에게 부탁해야 하려나","Es gibt noch jede Menge Medaillen auf der Welt,
 aber ich werde jemand anderen bitten müssen, sie
 mir zu besorgen."
-5003,4230,,Ti sono comunque molto grato. Grazie per aver raccolto così tante medaglie per me!,"不管怎麼說，我都很感謝你喔。
+5003,4230,,"Ti sono comunque molto grato.
+Grazie per aver raccolto così tante medaglie per me!","不管怎麼說，我都很感謝你喔。
 能收集到這麼多獎牌，真的是太感謝你了！",,"아무튼 자네한테는 감사한다네.
 메달을 이만큼이나 모아줘서 정말 고맙네!","Ich bin dir jedenfalls sehr dankbar. Danke, dass
 du so viele Medaillen für mich gesammelt hast!"
@@ -325,21 +328,26 @@ Devo assolutamente dirlo a mia moglie!","我我、我、我是在做夢還是見
 답례로 이걸 받아 줘 …마누라에게도 보고해야겠군!!!","Träume ich?! Endlich habe ich alle 700 Medaillen!
 Bitte nimm diese Belohnung.
 Das muss ich unbedingt meiner Frau sagen!"
-5005,4230,,Non ci posso credere! Ho 550 medaglie nella mia collezione. Prendi questa ricompensa. Ma non dire niente a mia moglie.,"這、這真是太不得了啦……！！
+5005,4230,,"Non ci posso credere! Ho 550 medaglie nella mia collezione.
+Prendi questa ricompensa. Ma non dire niente a mia moglie.","這、這真是太不得了啦……！！
 我的獎牌收藏數超過550啦！！
 請收下這個謝禮。　……要跟我老婆保密喔。",,"이, 이거 엄청난 일이로군…!!
 메달 총 컬렉션 수가 550개를 돌파했다!!
 답례로 이걸 받아 줘 …마누라에게는 비밀이야","Ich kann es nicht glauben! Ich habe 550 Medaillen
 in meiner Sammlung. Nimm diese Belohnung.
 Aber sag meiner Frau nichts."
-5006,4230,,Non posso crederci! Ho 600 medaglie nella mia collezione. Prendi questa ricompensa. Ma non dire niente a mia moglie.,"這、這真是太不得了啦……！！
+5006,4230,,"Non posso crederci! Ho 600 medaglie nella mia collezione.
+Prendi questa ricompensa.
+Ma non dire niente a mia moglie.","這、這真是太不得了啦……！！
 我的獎牌收藏數超過600啦！！
 請收下這個謝禮。　……要跟我老婆保密喔。",,"이, 이거 엄청난 일이로군…!!
 메달 총 컬렉션 수가 600개를 돌파했다!!
 답례로 이걸 받아 줘 …마누라에게는 비밀이야","Ich kann es nicht glauben! Ich habe 600 Medaillen
 in meiner Sammlung. Nimm diese Belohnung.
 Aber sag meiner Frau nichts."
-5007,4230,,Non posso crederci! Ho 650 medaglie nella mia collezione. Prendi questa ricompensa. Ma non dire niente a mia moglie.,"這、這真是太不得了啦……！！
+5007,4230,,"Non posso crederci! Ho 650 medaglie nella mia collezione.
+Prendi questa ricompensa.
+Ma non dire niente a mia moglie.","這、這真是太不得了啦……！！
 我的獎牌收藏數超過650啦！！
 請收下這個謝禮。　……要跟我老婆保密喔。",,"이, 이거 엄청난 일이로군…!!
 메달 총 컬렉션 수가 650개를 돌파했다!!

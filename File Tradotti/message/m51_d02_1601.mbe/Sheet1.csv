@@ -17,15 +17,13 @@ Non era né un Digimon né un malware...","誰知道……那種東西我也是�
 gesehen. Das war weder Digimon noch
 Schadsoftware ..."
 6,3046,,"In Kowloon sta succedendo qualcosa di strano... no,
-ultimamente in tutta EDEN. Spero non sia
-niente di grave.","最近的Kowloon――不對，EDEN全體都很動盪不安。
+ultimamente in tutta EDEN. Spero non sia niente di grave.","最近的Kowloon――不對，EDEN全體都很動盪不安。
 希望不要發生什麼麻煩的事情……",,"아무래도 최근 쿠롱은――아니, EDEN 전체가 소란스러워.
 귀찮은 일이 일어나지 않았으면 좋겠는데…","In Kowloon geht etwas Seltsames vor sich ...nein,
 in letzter Zeit in ganz EDEN. Hoffentlich ist es
 nichts Ernstes."
 7,3046,,"Hai visto come il mostro lo ha inghiottito... 
-Controlliamo lo stato del suo account 
-appena torniamo.","看來是被那個怪物給吞噬了――
+Controlliamo lo stato del suo account appena torniamo.","看來是被那個怪物給吞噬了――
 但在回去確認那傢伙的帳號狀態之前，
 一切都還很難說。",,"그 괴물에게 먹힌 걸로 보였는데――
 돌아가서 녀석의 계정 상태를 확인하기 전까진 
@@ -33,8 +31,8 @@ appena torniamo.","看來是被那個怪物給吞噬了――
 hat ... Überprüfen wir den Status seines Accounts,
 wenn wir zurück sind."
 8,2020,,...,…………,,…………,...
-9,3046,,"… Non abbatterti, solo perché il primo indizio era
-soltanto un vicolo cieco.","……不過是一開始的線索找錯了，
+9,3046,,"… Non abbatterti, solo perché il primo indizio
+era soltanto un vicolo cieco.","……不過是一開始的線索找錯了，
 不要這麼垂頭喪氣。",,"……고작해야 첫 번째 단서가 빗나간 정도로
 풀 죽지 마","... Jetzt blas nicht Trübsal, nur weil der erste
 Hinweis eine Sackgasse war."
@@ -61,13 +59,13 @@ A malapena, ma comunque superata.","測驗，你及格了。
 Gerade so, aber bestanden ist bestanden."
 20,3046,,Benvenuto negli Hudie. Ora fai parte di noi.,……從現在開始，你就是我們「hudie」的一員。,,"…넌 이제부터 우리들 ""후디에""의 멤버야",Willkommen bei Hudie. Jetzt gehörst du zu uns.
 21,2020,,!!!,！！,,!!,!!!
-22,3046,,"Torniamo al ""Café"". Gli altri ci stanno
-aspettando lì.","回去「店裡」吧，
+22,3046,,"Torniamo al ""Café"".
+Gli altri ci stanno aspettando lì.","回去「店裡」吧，
 「夥伴」正在等著呢。",,"""가게""로 돌아가자.
 ""동료""가 기다리고 있어","Gehen wir zurück ins „Café“. Dort warten
 die anderen auf uns."
 23,4246,,[p] si disconnette ...,[p]的　登出系統作業開始處理中。,,[p] 님의 로그아웃 처리를 개시합니다,[p] loggt sich aus ...
-24,4246,,... ... Il processo viene proseguito.,…　…　…登出系統作業處理中。,,…　…　…로그아웃 처리를 속행합니다,... ... Der Vorgang wird fortgesetzt ...
+24,4246,,... ... Il processo prosegue .,…　…　…登出系統作業處理中。,,…　…　…로그아웃 처리를 속행합니다,... ... Der Vorgang wird fortgesetzt ...
 25,4246,,... ... Il processo prosegue ...,…　…　…登出系統作業處理中。,,…　…　…로그아웃 처리를 속행합니다,... ... Der Vorgang wird fortgesetzt ...
 26,4246,,... ... Il processo prosegue,…　…　…登出系統作業處理中。,,…　…　…로그아웃 처리를 속행합니다,... ... Der Vorgang wird fortgesetzt ...
 27,4246,,"Disconnesso con successo.
@@ -75,9 +73,8 @@ Al prossimo accesso. Grazie mille.","已成功登出。
 歡迎再度光臨。",,"로그아웃에 성공했습니다
 다음 로그인 때 다시 뵙겠습니다","Erfolgreich ausgeloggt.
 Bis zum nächsten Login. Vielen Dank."
-28,4246,,"EDEN è una rete creata dalla 
-Kamishiro Enterprises, che connette 
-il mondo al futuro.","EDEN是連接世界開創未來的人類網路。
+28,4246,,"EDEN è una rete creata dalla Kamishiro Enterprises,
+che connette  il mondo al futuro.","EDEN是連接世界開創未來的人類網路。
 由「神代企業」所經營。",,"EDEN은 세계를 연결하고 미래를 자아내는 휴먼 네트워크
 「카미시로 엔터프라이즈」가 운영하고 있습니다","EDEN ist ein von Menschenhand geschaffenes
 Netzwerk der Kamishiro Enterprises, das die Welt

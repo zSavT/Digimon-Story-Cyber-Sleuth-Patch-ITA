@@ -1,10 +1,11 @@
 ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
-2,5004,,"È un registro dei giorni che l'autore ha trascorso con
-qualcuno di importante per loro.",這是關於我很重視的人的，每日紀錄。,,"이것은, 나의 소중한 사람의 나날의 기록입니다","Es ist eine Aufzeichnung über Tage, die der
+2,5004,,"È un registro dei giorni che l'autore ha trascorso con qualcuno
+di importante per loro.",這是關於我很重視的人的，每日紀錄。,,"이것은, 나의 소중한 사람의 나날의 기록입니다","Es ist eine Aufzeichnung über Tage, die der
 Autor mit jemandem verbracht hat, der ihm
 wichtig war."
 3,5004,,"AA/XX
-Andrò a trovare mio fratello all'Ospedale Centrale di nuovo oggi. Vorrei che si svegliasse.","●月■日
+Andrò a trovare mio fratello all'Ospedale Centrale di nuovo oggi.
+Vorrei che si svegliasse.","●月■日
 今天也去中央醫院探病。
 哥哥還是沒有醒過來。",,"●월 ×일
 오늘도 센트럴 병원에 병문안을 간다.
@@ -21,7 +22,8 @@ dopo il lavoro. Spero che si svegli.","●月▼日
 Nach der Arbeit besuche ich meinen Bruder im
 Krankenhaus. Ich wünschte, er würde aufwachen."
 5,5004,,"CC/XX
-Andrò a trovare mio fratello all'Ospedale Centrale di nuovo oggi. Spero che si svegli.","●月■■日
+Andrò a trovare mio fratello all'Ospedale Centrale di nuovo oggi.
+Spero che si svegli.","●月■■日
 今天也去中央醫院探病。
 哥哥還是沒有醒過來。",,"●월 ××일
 오늘도 센트럴 병원에 병문안을 간다.
@@ -30,7 +32,8 @@ Heute besuche ich meinen Bruder im Krankenhaus.
 Ich wünschte, er würde aufwachen."
 6,5004,,Sono seduto di nuovo oggi al capezzale di mio fratello.,我今天也在哥哥身邊度過。,,나는 오늘도 오빠 옆에서 시간을 보낸다,Heute sitze ich wieder am Bett meines Bruders.
 7,5004,,"DD/XX
-Oggi andrò di nuovo a trovare mio fratello all'Ospedale Centrale. Vorrei che si svegliasse.","●月■▲日
+Oggi andrò di nuovo a trovare mio fratello all'Ospedale Centrale.
+Vorrei che si svegliasse.","●月■▲日
 今天也去中央醫院探病。
 哥哥還是沒有醒過來。",,"●월 ×■일
 오늘도 센트럴 병원에 병문안을 간다.
@@ -49,20 +52,21 @@ ancora vivo.","即使如此，我還是很開心。
 오빠가 살아있다는 증거니까","Aber ich bin trotzdem glücklich. Es zeigt, dass
 er noch am Leben ist."
 10,5004,,"EE/XX
-Oggi andrò di nuovo a trovare mio fratello all'Ospedale Centrale. Vorrei tanto che si svegliasse.","●月■▲日
+Oggi andrò di nuovo a trovare mio fratello all'Ospedale Centrale.
+Vorrei tanto che si svegliasse.","●月■▲日
 今天也去中央醫院探病。
 哥哥還是沒有醒過來。",,"●월 ■▼일
 오늘도 센트럴 병원에 병문안을 간다.
 오빠는 눈을 뜨지 않는다","XX.EE.
 Heute besuche ich meinen Bruder im Krankenhaus.
 Ich wünschte, er würde aufwachen."
-11,5004,,"Continuo a dirgli di svegliarsi, ma non c'è
-nessuna risposta.","我試著說了：「哥哥，快點醒來。」
+11,5004,,"Continuo a dirgli di svegliarsi, ma non c'è nessuna risposta.","我試著說了：「哥哥，快點醒來。」
 但是沒有回應。",,"오빠 얼른 눈을 떠봐, 라고 말해본다.
 하지만 대답은 없다","Ich sage ihm immer wieder, dass er aufwachen
 soll, aber er reagiert nicht."
 12,5004,,"FF/XX
-Oggi andrò di nuovo a trovare mio fratello all'Ospedale Centrale. Spero che si svegli.","●月▲▼日
+Oggi andrò di nuovo a trovare mio fratello all'Ospedale Centrale.
+Spero che si svegli.","●月▲▼日
 今天也去中央醫院探病。
 哥哥還是沒有醒過來。",,"●월 ×▼일
 오늘도 센트럴 병원에 병문안을 간다.
@@ -70,7 +74,8 @@ Oggi andrò di nuovo a trovare mio fratello all'Ospedale Centrale. Spero che si 
 Heute besuche ich meinen Bruder im Krankenhaus.
 Ich wünschte, er würde aufwachen."
 13,5004,,"GG/XX
-Oggi andrò di nuovo a trovare mio fratello all'Ospedale Centrale. Spero che si svegli.","●月▲■日
+Oggi andrò di nuovo a trovare mio fratello all'Ospedale Centrale.
+Spero che si svegli.","●月▲■日
 今天也去中央醫院探病。
 哥哥還是沒有醒過來。",,"●월 ■×일
 센트럴 병원에 병문안을 간다.
@@ -78,7 +83,8 @@ Oggi andrò di nuovo a trovare mio fratello all'Ospedale Centrale. Spero che si 
 Heute besuche ich meinen Bruder im Krankenhaus.
 Ich wünschte, er würde aufwachen."
 14,5004,,"HH/XX
-Andrò a trovare mio fratello all'Ospedale Centrale di nuovo oggi. Spero che si svegli.","●月■▼日
+Andrò a trovare mio fratello all'Ospedale Centrale di nuovo oggi.
+Spero che si svegli.","●月■▼日
 今天也去中央醫院探病。
 哥哥還是沒有醒過來。",,"●월 ■▼일
 센트럴 병원에 병문안을 간다.

@@ -23,7 +23,8 @@ hier erst recht durchziehen!"
 9,1805,,Stiamo lavorando a un modo per sventare il piano di Kishibe.,我們現在，正打算去阻止岸部所進行的計畫。,,우리들은 지금 키시베가 꾸미고 있는 계획을 저지하려고 하고 있어,"Wir arbeiten an einem Weg, Kishibes Plan
 zu vereiteln."
 10,1805,,Lei lo chiama il piano „Paradiso Perduto“.,……名稱叫「失樂園計畫」。,,…「파라다이스 로스트 계획」이라는 건데,Sie nennt ihn den Plan „Verlorenes Paradies“.
-11,1805,,"Che tu ci creda o no, con il piano lei sta cercando di distruggere il mondo intero.","你可能不會相信──
+11,1805,,"Che tu ci creda o no, con il piano lei sta
+cercando di distruggere il mondo intero.","你可能不會相信──
 那女人是想用這計畫，來達成“人類世界的毀滅”。",,"믿기지 않겠지만――
 이 계획으로 그 여자는 ""세계의 파멸""을 노리고 있다더군","Ob du es glaubst oder nicht, mit dem Plan versucht
 sie, die ganze Welt zu zerstören."
@@ -37,7 +38,8 @@ Cos'è questo piano ""Paradiso Perduto""?","岸部到底是什麼人？
 「파라다이스 로스트 계획」이라니?","Was ist Kishibe überhaupt?
 Was ist denn dieser Plan „Verlorenes Paradies“?"
 15,1805,,Non ne siamo ancora sicuri...,我們，也還不知道正確情形……,,우리들도 아직 정확한 것은 몰라…,Da sind wir uns auch noch nicht sicher ...
-16,1805,,"La mia amica dice che lei è o la marionetta di un Digimon superpotente, o che lei stessa è un Digimon.","但是，照我們的夥伴所說，
+16,1805,,"La mia amica dice che lei è o la marionetta di un Digimon
+superpotente, o che lei stessa è un Digimon.","但是，照我們的夥伴所說，
 她好像是很厲害的數碼寶貝的手下，
 也可能她就是數碼寶貝喔。",,"하지만 내 동료에 따르면 엄청난 디지몬의 앞잡이거나
 디지몬 그 자체가 아닐까 라고 하더군","Meine Freundin sagt, dass sie entweder die
@@ -53,18 +55,23 @@ Questo ci fa risparmiare un po' di tempo.","哦，你知道啊。
 那說起來就簡單多了。",,"헤에, 아는 건가.
 그러면 이야기가 빠르지","Ach, das wusstest du schon?
 Das spart uns etwas Zeit."
-19,1805,,Un cosiddetto Muro Dimensionale separa il Mondo Digitale dal Mondo Reale.,"數碼世界跟我們人類世界，
+19,1805,,"Un cosiddetto Muro Dimensionale separa
+il Mondo Digitale dal Mondo Reale.","數碼世界跟我們人類世界，
 是被名叫「次元之壁」的東西所隔開。",,"그 디지털 월드와 우리들의 세계는
 「차원의 벽」이라고 불리는 것에 가로막혀 있어","Ein so genannter Dimensionswall trennt die
 Digitale Welt von der Menschenwelt."
-20,1805,,"Kishibe vuole aprire un buco in questo muro, affinché i due mondi siano connessi.",岸部打算在那牆壁上打開大洞，將兩個世界連繫起來。,,키시베는 그 벽에 구멍을 뚫어서 두 세계를 연결할 생각이야,"Kishibe will ein Loch in diesen Wall reißen,
+20,1805,,"Kishibe vuole aprire un buco in questo muro,
+affinché i due mondi siano connessi.",岸部打算在那牆壁上打開大洞，將兩個世界連繫起來。,,키시베는 그 벽에 구멍을 뚫어서 두 세계를 연결할 생각이야,"Kishibe will ein Loch in diesen Wall reißen,
 sodass die zwei Welten verbunden sind."
-21,1805,,"Se ci riesce, allora arriveranno dei Digimon davvero terribili chiamati Royal Knights e faranno piazza pulita di noi umani.","連繫之後，就會有叫皇家騎士的超級強大數碼寶貝
+21,1805,,"Se ci riesce, allora arriveranno dei Digimon
+davvero terribili chiamati Royal Knights e
+faranno piazza pulita di noi umani.","連繫之後，就會有叫皇家騎士的超級強大數碼寶貝
 來到我們的世界，把人類都消滅乾淨。",,"그렇게 하면 로얄 나이츠라는 터무니없이 강한 디지몬이
 우리들의 세계로 와서 인간을 멸망시켜 버린다나","Wenn sie das schafft, dann kommen ein paar echt
 üble Digimon namens Royal Knights und
 machen mit uns Menschen kurzen Prozess."
-22,1805,,"Quindi, quando venimmo a sapere del piano di Kishibe, volevamo unirci e fermarlo.","我們是從一些事情中，得知了岸部的計畫。
+22,1805,,"Quindi, quando venimmo a sapere del piano
+di Kishibe, volevamo unirci e fermarlo.","我們是從一些事情中，得知了岸部的計畫。
 為了阻止她才行動的。",,"우리들은 어쩌다보니 키시베의 계획을 알아버려서
 막기 위해 움직이고 있는 거지","Als wir also von Kishibes Plan hörten, wollten wir
 uns zusammentun und ihn aufhalten."
@@ -89,12 +96,16 @@ Fine del mondo, Muro dimensionale...","……不過，也是啦。
 什麼世界毀滅啦、次元之壁啦──",,"……뭐, 그렇겠지.
 세계의 파멸이라는 둥, 차원의 벽이라는 둥――","... Ja, verstehe schon.
 Weltuntergang, Dimensionswall ..."
-30,1805,,Suona tutto molto come storie a fumetti. Anche i miei vecchi amici sono rimasti a bocca aperta quando gliel'ho raccontato.,"這種像漫畫的事情，不可能會立刻相信吧，
+30,1805,,"Suona tutto molto come storie a fumetti. Anche
+i miei vecchi amici sono rimasti a bocca
+aperta quando gliel'ho raccontato.","這種像漫畫的事情，不可能會立刻相信吧，
 我過去的夥伴們，也是不深究理由就加入了。",,"이런 만화같은 이야기, 바로는 못 믿겠지.
 내 옛 동료도 깊게 묻지 않고 따라와주고 있고","Klingt alles sehr nach Comicgeschichten. Auch
 meine alten Freunde haben dumm geschaut, als ich
 es ihnen erzählt habe."
-31,7021,,"I dettagli non sono importanti, Arata! Siamo semplicemente felici di poter mettere mano a qualcosa di importante!","不管什麼理由都沒關係，新先生！
+31,7021,,"I dettagli non sono importanti, Arata!
+Siamo semplicemente felici di poter mettere
+mano a qualcosa di importante!","不管什麼理由都沒關係，新先生！
 已經很久，沒能參加這種大型作戰了啊……
 我好高興！",,"이유 같은건 아무래도 좋아요. 아라타 씨!
 이런 큰 작전에 참가하는 건 오랜만이라… 기쁩니다!","Die Details sind nicht wichtig, Arata! Wir
@@ -123,11 +134,13 @@ della centrale elettrica di Roppongi.","我知道你的實力，可以的話你�
 롯폰기 발전소 서버에 돌릴 인원이 부족하거든","Ich weiß, wie gut du bist. Hilfst du uns?
 Wir haben nicht genug Leute, um in den Server
 des Kraftwerks von Roppongi zu kommen."
-39,1805,,"I tuoi amici aspettano, quindi non puoi ancora tornare al negozio. Abbiamo ancora tempo.","夥伴在等你，所以要先回店裡一趟？
+39,1805,,"I tuoi amici aspettano, quindi non puoi ancora
+tornare al negozio. Abbiamo ancora tempo.","夥伴在等你，所以要先回店裡一趟？
 沒關係，但要在時間前回來喔。",,"동료가 기다리고 있으니 일단 가게로 돌아간다고?
 상관없어. 제 시간에는 돌아와줘","Deine Freunde warten, du kannst also erst zurück
 in den Laden gehen. Wir haben noch Zeit."
-40,2020,,(Ho appena promesso a Erika di non agire di testa mia... Questo sarà difficile da spiegare.),"（才剛約定好不能再一個人行動了……
+40,2020,,"(Ho appena promesso a Erika di non agire
+di testa mia... Questo sarà difficile da spiegare.)","（才剛約定好不能再一個人行動了……
 　回去向艾莉卡轉達這件事吧）",,"(더 이상 혼자서 움직이지 않겠다고 방금 약속한 참이니……
  돌아가서 에리카에게 이 이야기를 전하자)","(Ich habe Erika eben erst versprochen, nicht auf
 eigene Faust zu handeln ... Das hier wird schwer

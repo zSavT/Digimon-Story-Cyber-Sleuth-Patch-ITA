@@ -1,21 +1,27 @@
 ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
-1,3046,,"Fondamentalmente, l'hacking consiste solo nel far sì che non si accorgano che il loro sistema di sicurezza è stato violato.","基本上要駭進對方系統的做法，
+1,3046,,"Fondamentalmente, l'hacking consiste solo nel far 
+sì che non si accorgano che il loro sistema di sicurezza
+ è stato violato.","基本上要駭進對方系統的做法，
 就是不能讓對方發現防範措施「被入侵」了。",,"해킹이란건 기본적으로
 보안이「깨졌다」는 걸 눈치채이지 않게 손을 쓰지","Im Prinzip geht es beim Hacking nur darum, dass
 sie nicht merken, dass ihr Sicherheitssystem
 geknackt wurde."
-2,3046,,"Se si accorgono che ci siamo intrufolati, gli Admins lo rinforzerebbero.","如果被發現我們已經成功入侵了，
+2,3046,,"Se si accorgono che ci siamo intrufolati, gli 
+Admin lo rinforzerebbero.","如果被發現我們已經成功入侵了，
 管理方就會增強防範措施。",,"돌파된 것을 눈치채면
 관리측은 보안을 강화해버리니까","Wenn sie merken, dass wir eingebrochen sind,
 würden die Admins es ja verstärken."
-3,3046,,Dobbiamo fare attenzione a non rivelare il nostro nascondiglio segreto.,要維持偷偷做好的後門，不被發現也是很重要的。,,몰래 만든 뒷문을 들키지 않게 유지하는 것도 중요해,"Wir müssen aufpassen, dass wir unser geheimes
+3,3046,,"Dobbiamo fare attenzione a non 
+rivelare il nostro nascondiglio segreto.",要維持偷偷做好的後門，不被發現也是很重要的。,,몰래 만든 뒷문을 들키지 않게 유지하는 것도 중요해,"Wir müssen aufpassen, dass wir unser geheimes
 Schlupfloch nicht preisgeben."
-4,3046,,Chitose si occuperà dall'esterno.,這次，關於這部分千歲會從外側負責。,,이번엔 그 부분은 치토세가 밖에서 담당하고 있다,Chitose wird sich von außen darum kümmern.
-5,3046,,Dovremmo così raggiungere la parte più interna e sbloccare il sistema di sicurezza.,"我們就不要有所顧慮直接去最深處，
+4,3046,,Chitose se ne occuperà dall'esterno.,這次，關於這部分千歲會從外側負責。,,이번엔 그 부분은 치토세가 밖에서 담당하고 있다,Chitose wird sich von außen darum kümmern.
+5,3046,,"Dovremmo così raggiungere la parte 
+più interna e sbloccare il sistema di sicurezza.","我們就不要有所顧慮直接去最深處，
 解除防範措施就好了。",,"우리들은 신경쓰지 말고 이대로 최심부까지 가서
 보안을 해제하면 돼","Wir sollten so zum innersten Teil gelangen und
 das Sicherheitssystem entsperren."
-6,3046,,"Se ci sono Digimon, è molto probabile che l'azienda impieghi hacker.","如果有出現數碼寶貝的話──
+6,3046,,"Se ci sono Digimon, è molto probabile 
+che l'azienda impieghi hacker.","如果有出現數碼寶貝的話──
 代表這個企業有雇用駭客的可能性很高。",,"디지몬이 있을 경우――
 기업이 해커를 고용하고 있을 가능성이 높아","Wenn es Digimon gibt, ist es sehr wahrscheinlich,
 dass die Firma Hacker beschäftigt."
@@ -26,7 +32,8 @@ I capi pensano di poter capire cosa fanno i loro hacker?","但是……為什麼
 고용주가 해커를 이해하고 쓴다고 생각해?","Aber ... warum sollten sie Hackern vertrauen?
 Denken Chefs, sie könnten nachvollziehen, was
 ihre Hacker treiben?"
-9,3046,,"Direi che, se ci sono degli hacker, significa che c'è una falla da qualche parte.","由我看來，有駭客在的話――
+9,3046,,"Direi che, se ci sono degli hacker, significa 
+che c'è una falla da qualche parte.","由我看來，有駭客在的話――
 就等同於有了個“無形的洞窟”。",,"내가 보기에 해커가 있다는 것은――
 ""눈에 보이지 않는 구멍""을 열어버린 것과 같은 거야","Ich würde sagen, wenn Hacker da sind, heißt das,
 dass es irgendwo eine Lücke gibt."

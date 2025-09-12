@@ -3,8 +3,8 @@ ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
 2,1391,,Eh? Vuoi chiedermi qualcosa? Cosa c'è?,"嗯？　你有什麼事情想問我嗎……？
 是什麼事？",,"응? 나한테 물어보고 싶었던 게 있다고……?
 뭐야?",Hm? Du möchtest mich etwas fragen? Worum geht es?
-3,1391,,"Ah, perché ho detto che non posso fidarmi degli hacker? Forse
-posso dirtelo.","啊，我之前雖然說過無法相信駭客，
+3,1391,,"Ah, perché ho detto che non posso fidarmi degli hacker?
+Forse posso dirtelo.","啊，我之前雖然說過無法相信駭客，
 但如果是你，跟你說應該也沒關係吧。",,"아, 내가 해커를 신용할 수 없다고 그랬던 얘긴가.
 너라면 말해도 괜찮겠지","Ach, warum ich gesagt habe, Hackern könnte ich
 nicht trauen? Vielleicht kann ich es dir
@@ -53,18 +53,20 @@ forse non tutti gli hacker sono così.","而且，自從與你相遇後，
 해커가 그런 놈들만 있는 건
 아닐지도 모르겠다고 생각하기 시작했지……","Seit ich dir begegnet bin, vermute ich, dass
 vielleicht nicht alle Hacker so sind."
-12,1391,,Ma non ne sono ancora completamente sicuro. Ci sono ancora un sacco di cose che non so sugli hacker.,"雖然還不是非常確定啦，
+12,1391,,"Ma non ne sono ancora completamente sicuro.
+Ci sono ancora un sacco di cose che non so sugli hacker.","雖然還不是非常確定啦，
 因為我還不算非常了解駭客。",,"아직 확신엔 이르지 않았지만 말이야.
 내가 해커에 대해 너무 모르는 거겠지","Aber ich bin mir immer noch nicht ganz sicher.
 Es gibt noch vieles, was ich über Hacker nicht
 weiß."
-13,1391,,Vuoi davvero saperlo? L'abbiamo fatto pagare per quello che ha fatto e poi l'abbiamo lasciato andare.,"你想知道嗎？
+13,1391,,"Vuoi davvero saperlo?
+L'abbiamo fatto pagare per quello che ha fatto e poi l'abbiamo lasciato andare.","你想知道嗎？
 我教訓他一頓後，就讓他走了。",,"듣고 싶어?
 적당히 혼내주고 돌려보냈어","Das möchtest du wirklich wissen? Wir haben ihn
 für seine Tat bestraft und ihn dann laufen
 lassen."
-14,1391,,"Hanno ucciso così tanti di noi. Non possiamo restare
-con le mani in mano.","……如果他們當初奪走夥伴的性命，
+14,1391,,"Hanno ucciso così tanti di noi.
+Non possiamo restare con le mani in mano.","……如果他們當初奪走夥伴的性命，
 我一定不會只做到那種地步。",,"……동료의 목숨을 뺏었더라면
 그 정도론 안 끝냈겠지","Sie haben so viele von uns getötet. Gar nichts zu
 unternehmen wäre nicht in Frage gekommen."

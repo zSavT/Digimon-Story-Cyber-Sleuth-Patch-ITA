@@ -24,12 +24,14 @@ habe aus Versehen den zweiten und dritten Stock
 gedrückt."
 10,7347,,Poi mia sorella li ha cancellati.,然後姊姊幫我把按錯的按鈕取消……,,그랬더니 언니가 누른 버튼을 취소하고…,Dann hat meine Schwester die storniert.
 11,2020,,???,？？,,??,???
-12,4338,,È possibile annullare la pressione di un pulsante. Ascensori diversi hanno modi diversi per farlo.,"喔對，有方法可以取消已經按下的樓層。
+12,4338,,"È possibile annullare la pressione di un pulsante.
+Ascensori diversi hanno modi diversi per farlo.","喔對，有方法可以取消已經按下的樓層。
 不過電梯種類不同，取消方式可能會不太一樣。",,"아아, 일단 누른 버튼을 취소하는 방법이 있거든.
 엘리베이터의 종류에 따라 방법은 다른 모양이지만","Man kann ein angewähltes Stockwerk auch wieder
 aufheben. Das funktioniert in jedem Aufzug auf
 eine andere Art und Weise."
-13,7347,,Puoi annullare una pressione di un pulsante premendolo tre volte. L'amico di mia sorella le ha detto come farlo.,"姊姊學校的朋友有教她，
+13,7347,,"Puoi annullare una pressione di un pulsante premendolo tre volte.
+L'amico di mia sorella le ha detto come farlo.","姊姊學校的朋友有教她，
 只要連按三次按鈕，就可取消按錯的唷。",,"버튼을 3번 누르면 잘못 눌러도 취소할 수 있어.
 언니네 학교 친구가 가르쳐줬대","Man kann den Knopfdruck wieder aufheben, indem man
 dreimal drückt. Eine Freundin meiner Schwester
@@ -39,8 +41,7 @@ vero?",簡直就像遊戲的隱藏指令，很好玩吧？,,"어쩐지 게임의
 재미있지?","Ist wie ein Cheat-Code in einem Spiel.
 Interessant, nicht wahr?"
 15,7347,,"Dopo aver premuto accidentalmente i pulsanti del secondo e del terzo
-piano, mia sorella li ha cancellati e
-ha premuto il pulsante del quarto piano.","我按錯3樓和2樓的按鈕，姊姊把它取消，
+piano, mia sorella li ha cancellati e ha premuto il pulsante del quarto piano.","我按錯3樓和2樓的按鈕，姊姊把它取消，
 然後再按了4樓。",,"내가 3층하고 2층 버튼을 잘못 눌러서
 언니가 그걸 취소하고
 4층 버튼을 눌러줬어","Nachdem ich also aus Versehen den zweiten und
@@ -50,8 +51,8 @@ die storniert und den vierten gedrückt."
 storniert hat?"
 17,7347,,Ha fatto prima quella del secondo piano.,2樓先！,,2층이 먼저였어,Zuerst den zweiten.
 18,4338,,"Premi il terzo, poi il secondo, poi il secondo
-piano tre volte, poi il terzo piano tre
-volte, e infine il quarto piano...","……按了3樓再按2樓。
+piano tre volte, poi il terzo piano tre volte,
+e infine il quarto piano...","……按了3樓再按2樓。
 然後用隱藏指令依序取消2樓、3樓，
 最後按下4樓……好了。",,"…3층을 누르고 다음에 2층을 눌러.
 그다음 숨겨진 커맨드로 2층, 3층을 취소하고
@@ -65,8 +66,7 @@ Vier ..."
 엘리베이터가 움직였어",Hat wohl funktioniert. Der Aufzug bewegt sich.
 22,7347,,Si è fermato...,停下來了……,,멈춰버렸어…,Er hat angehalten ...
 23,4338,,Come procede il sistema di controllo dell'ascensore?,電梯管理系統狀態如何？,,엘리베이터의 관리 시스템은 어떻게 됐지?,Wie sieht das Steuerungssystem aus?
-24,4338,,"Un errore? C'è decisamente qualcosa di strano
-in corso.","出現錯誤嗎……
+24,4338,,"Un errore? C'è decisamente qualcosa di strano in corso.","出現錯誤嗎……
 看來系統果然有哪邊異常吧。",,"에러가 났다…고.
 역시 뭔가 이상이 있다는 뜻이로군","Ein Fehler? Hier geht eindeutig etwas Seltsames
 vor sich."

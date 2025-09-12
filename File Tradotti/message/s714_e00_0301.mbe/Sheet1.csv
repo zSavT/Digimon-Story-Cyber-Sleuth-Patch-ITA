@@ -1,5 +1,6 @@
 ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
-1,1072,,Abbiamo finito? Sono stupito da quanto siate diventati forti tutti quanti.,"結束了啊。
+1,1072,,"Abbiamo finito? Sono stupito da quanto siate
+diventati forti tutti quanti.","結束了啊。
 我一直被你們的堅強實力給嚇到啊。",,"끝났군.
 너희 힘에는 항상 놀라기만 하는군","Sind wir fertig? Ich bin erstaunt darüber, wie
 stark ihr alle geworden seid."
@@ -8,8 +9,8 @@ stark ihr alle geworden seid."
 항상 내 이야기에 어울리게 해서 미안해","Weißt du, ich weiß es wirklich zu schätzen, dass
 du dich mit mir unterhältst, [p]."
 3,1072,,"Forse non hai detto niente perché non vuoi che mi
-preoccupi, ma non stai affrontando una
-difficoltà che non è legata al tuo lavoro?","不曉得你是不是顧慮到我，所以才不跟我說……
+preoccupi, ma non stai affrontando una difficoltà
+che non è legata al tuo lavoro?","不曉得你是不是顧慮到我，所以才不跟我說……
 你除了這樣的工作外，是不是還背負著
 什麼很辛苦的事情？",,"나한테 신경을 써서 그런지 아무 말도 안 하지만…….
 넌 이런 일 말고도 이래저래 힘든 일을 떠안고 있지 않아?","Vielleicht hast du nichts gesagt, um mich nicht zu
@@ -35,15 +36,15 @@ pet therapy, giusto? Sarò pure un Digimon, ma...","人類的世界中有個叫�
 뭐, 난 디지몬이지만……","Menschen haben doch etwas namens tiergestützte
 Therapie, oder? Ich bin zwar ein Digimon,
 aber ..."
-9,1072,,La mia criniera dovrebbe avere lo stesso effetto. I bambini umani che ho incontrato la adorano tutti.,"但我的鬃毛，肯定會有相同的效果存在。
+9,1072,,"La mia criniera dovrebbe avere lo stesso effetto.
+I bambini umani che ho incontrato la adorano tutti.","但我的鬃毛，肯定會有相同的效果存在。
 以前在街上遇到的人類孩子，他們的評價也相當好。",,"내 갈기에는 아마 비슷한 효과가 있을 거다.
 예전에 거리에서 만난 인간 아이들에게도 평판이 좋았으니 말이야","Meine Mähne sollte denselben Effekt haben. Die
 menschlichen Kinder, denen ich begegnet bin, waren
 begeistert davon."
 10,1072,,Quindi... coccolami finché il tuo cuore non sarà soddisfatto!,來吧……想怎麼摸就怎麼摸吧！！,,자……마음껏 즐기라고!!,Also ... Streichle mich nach Herzenslust!
 11,2020,,"Okay, ti darò una bella grattata alla criniera!
-Grazie. Sarò gentile.
-Grazie, ma no grazie.","那麼就，毫不客氣的……盡情的狂摸！
+Grazie. Sarò gentile. Grazie, ma no grazie.","那麼就，毫不客氣的……盡情的狂摸！
 感謝他的心意，溫柔的摸
 不了，就不必了",,"그럼 사양 말고……팍팍 쓰다듬을게!
 마음에 감사하며 부드럽게 쓰다듬는다
@@ -91,8 +92,7 @@ sind einander dadurch nähergekommen."
 是不擅長跟動物接觸的類型！？",,"보아하니 너――
 동물을 만지는 걸 별로 안 좋아하는 타입이구만?!","Oder bist du nicht besonders gut darin, Tiere
 anzufassen?"
-22,1072,,"Non ti forzerò. Mi dispiace solo di non esserti potuto essere
-d'aiuto.","你說好就沒關係了……
+22,1072,,"Non ti forzerò. Mi dispiace solo di non esserti potuto essere d'aiuto.","你說好就沒關係了……
 沒有幫上你的忙，抱歉。",,"뭐, 네가 괜찮다면 됐지만…….
 힘이 되어주지 못해 미안하다","Ich werde dich nicht zwingen. Es tut mir nur leid,
 dass ich dir nicht helfen kann."
@@ -110,13 +110,13 @@ di quanto io potrei mai immaginare.","你有著這麼強大的力量，所以你
 난 상상도 못 할 정도로 거대한 상대겠지","Es muss daran liegen, dass du es wegen deiner
 herausragenden Fähigkeiten mit stärkeren Gegnern
 zu tun hast, als ich es mir vorstellen kann."
-25,1072,,"Ma non dimenticare, sono sempre pronto a essere lì
-se hai bisogno di me.","但是啊，不要忘記了。只要你拜託我，
+25,1072,,"Ma non dimenticare, sono sempre pronto a essere
+lì se hai bisogno di me.","但是啊，不要忘記了。只要你拜託我，
 我隨時都會做好回應你的準備。",,"하지만 말이지, 잊지 말라고. 네가 의지해준다면
 난 언제나 그에 응할 준비가 돼있어","Aber vergiss nicht, dass ich immer da sein werde,
 falls du mich brauchen solltest."
-26,1072,,"Anche se non ci sarà nessun altro al tuo fianco, io
-sarò lì. Ricordatelo.","就算沒有人願意當你的夥伴，我也會是你的夥伴。
+26,1072,,"Anche se non ci sarà nessun altro al tuo fianco,
+io sarò lì. Ricordatelo.","就算沒有人願意當你的夥伴，我也會是你的夥伴。
 ……不要忘記了啊。",,"아군이 하나도 없더라도 나만큼은 네 아군이다.
 ……그걸 잊지 마라","Selbst wenn sonst niemand an deiner Seite kämpft,
 werde ich da sein. Denk daran."

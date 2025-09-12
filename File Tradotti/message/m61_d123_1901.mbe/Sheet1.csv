@@ -6,7 +6,8 @@ Ancora una volta ci incontriamo in un luogo strano.","……嗯？　你們是�
 이건 또 묘한 곳에서 만났군요","... Wie? Wie seid ihr denn hier hergekommen?
 Wieder einmal treffen wir uns an einem seltsamen
 Ort."
-3,3009,,"Per superare la sicurezza, dovete essere degli hacker davvero molto talentuosi.","居然能夠突破並入侵這裡的防範措施──
+3,3009,,"Per superare la sicurezza, dovete essere
+degli hacker davvero molto talentuosi.","居然能夠突破並入侵這裡的防範措施──
 看來你們是非常優秀的駭客呢。",,"이 보안을 돌파해서 침입할 줄이야――
 당신들 굉장히 우수한 해커였군요","Um an der Security vorbeizukommen, müsst ihr ganz
 schön talentierte Hacker sein."
@@ -18,12 +19,13 @@ schön talentierte Hacker sein."
 ……難道，你是岸部里繪的同夥？",,"이런 곳에서 뭘 하고 있지?
 ……당신 혹시 키시베 리에의 동료?","Was tun Sie überhaupt hier? ...
 Machen Sie etwa mit Rie Kishibe gemeinsame Sache?"
-8,3009,,"Oh... Quindi sapete della Signorina Kishibe?
-Non bisogna sottovalutare gli hacker al giorno d'oggi.","喔喔……妳也知道岸部小姐啊，
+8,3009,,"Oh... Quindi sapete della Signorina Kishibe? Non
+bisogna sottovalutare gli hacker al giorno d'oggi.","喔喔……妳也知道岸部小姐啊，
 果然不能小看最近的駭客呢。",,"이런이런… 키시베 씨에 대해서도 알고 있었습니까.
 역시 요즘 해커는 얕볼 수 없군요","Oha ... Ihr wisst das also mit Fräulein Kishibe?
 Hacker darf man heutzutage nicht unterschätzen."
-9,3009,,"Causa comune... non direi. Piuttosto, che, pur percorrendo la stessa strada, vogliamo raggiungere obiettivi diversi.","同夥……這樣的說法有點不對，
+9,3009,,"Causa comune... non direi. Piuttosto, che, pur percorrendo
+la stessa strada, vogliamo raggiungere obiettivi diversi.","同夥……這樣的說法有點不對，
 她跟我是手段相同，目的卻各自不同的人。",,"동료……라고 일괄적으로 말하기는 어렵습니다.
 그녀와 나는 수단은 같지만 목적이 다른 입장, 입니다","Gemeinsame Sache ... würde ich nicht sagen. Eher,
 dass wir auf dem gleichen Weg unterschiedliche
@@ -32,7 +34,8 @@ Ziele erreichen wollen."
 行動原理理論的人，就是我。",,"……그렇지만, 그녀가 이용하는 이터의 행동원리 이론을
 해명한 것은 바로 접니다","... Ich habe die Verhaltenstheorie für den
 Verschlinger aufgestellt, den sie benutzt hat."
-11,3009,,"In un certo senso, dopotutto, facciamo causa comune.",在這層面上來看……我說不定算是她的同夥喔。,,"그런 의미에서는……동료, 라고 할 수 있을지도 모르겠군요","In gewissem Sinne machen wir also doch gemeinsame
+11,3009,,"In un certo senso, dopotutto,
+facciamo causa comune.",在這層面上來看……我說不定算是她的同夥喔。,,"그런 의미에서는……동료, 라고 할 수 있을지도 모르겠군요","In gewissem Sinne machen wir also doch gemeinsame
 Sache."
 12,2020,,...!,……！,,……!,...!
 13,3009,,"Oh, siete un po' infastiditi?",咦，你在生什麼氣呢？,,"어라, 뭔가 화나신 겁니까?","Ach, ärgert euch etwas?"
@@ -55,7 +58,8 @@ Ich will ihm helfen."
 19,3009,,... Ah. E per questo sei venuto apposta?,"……嗯，妳是為了問這個，
 才特地跑到這來的嗎？",,"……흠, 그걸 듣기 위해
 일부러 이런 곳까지 오셨다고요?",... Ach. Und deshalb bist du extra hergekommen?
-20,3009,,Hai individuato la mia posizione e neutralizzato la sicurezza della centrale? Per questo?,"為了掌握我的行蹤，
+20,3009,,"Hai individuato la mia posizione e neutralizzato
+la sicurezza della centrale? Per questo?","為了掌握我的行蹤，
 甚至突破了發電廠的防範措施？",,"제 위치를 찾아내고
 발전소의 보안을 빠져나가면서까지?","Hast meinen Standort aufgespürt und die Security
 des Kraftwerks ausgeschaltet? Dafür?"
@@ -67,7 +71,8 @@ Ammirevole!","呵呵……呵呵呵！　好吧！
 목적을 위해서 행동하는 그 자세는 탄복할 만합니다","Hehe ... hahaha! Ausgezeichnet!
 Das nenne ich Entschlossenheit!
 Bewundernswert!"
-23,3009,,La curiosità è il motore dell'evoluzione umana. Non c'è niente di più importante.,"不忘好奇心、求知心，人類才能進化，
+23,3009,,"La curiosità è il motore dell'evoluzione umana.
+Non c'è niente di più importante.","不忘好奇心、求知心，人類才能進化，
 這是最重要的事情。",,"호기심, 탐구심을 잊지 않는 것이야말로 인간이 진화하는데
 무엇보다 중요한 것이기도 하죠","Neugier ist der Antrieb der menschlichen
 Weiterentwicklung. Es gibt nichts Wichtigeres."
@@ -87,19 +92,22 @@ Stavo per sperimentare approcci diversi.","其實，我也還沒分析完這份�
 이제부터 이것저것 시험해보려고 준비하고 있던 참입니다","Meine Analyse ist auch noch nicht abgeschlossen.
 Ich wollte gerade unterschiedliche Ansätze
 erproben."
-30,3009,,"Ci sono infinite possibilità, ma il mio tempo è limitato. Sarei molto grato per il vostro aiuto.","“這資料”有無限的可能性，
+30,3009,,"Ci sono infinite possibilità, ma il mio tempo è limitato.
+Sarei molto grato per il vostro aiuto.","“這資料”有無限的可能性，
 但我的時間卻是有限度的……
 我非常希望妳能來幫忙。",,"""이것""의 가능성은 무한이지만 저의 시간은 유한…
 부디 당신도 도와줬으면 합니다","Es gibt unendliche Möglichkeiten, doch meine
 Zeit ist begrenzt. Für eure Hilfe wäre ich sehr
 dankbar."
-31,3009,,"Per favore, analizzatelo con le vostre abilità uniche e poi iniziate con la programmazione.","請讓我分析妳進行的解釋，
+31,3009,,"Per favore, analizzatelo con le vostre abilità
+uniche e poi iniziate con la programmazione.","請讓我分析妳進行的解釋，
 並且由我來進行構築(設計)吧。",,"당신 나름대로 해독하고 해석해서
 구축(프로그래밍) 해 보세요","Bitte analysiert es mit euren einzigartigen
 Fähigkeiten und beginnt dann mit dem
 Programmieren."
 32,3009,,Invece di costruirlo io stesso...,和由我這種人所構築的版本比起來──,,젊은 해커의 유연성과 주장에 찬 이상이 있으면――,"Anstatt, dass ich es selbst aufbaue ..."
-33,3009,,"... Può, con le idee flessibili e coraggiose di un giovane hacker, nascere qualcosa di molto più significativo. Hehe.","以年輕駭客柔軟且充滿主張的思想來構築這份資料，
+33,3009,,"... Può, con le idee flessibili e coraggiose di un giovane hacker,
+nascere qualcosa di molto più significativo. Hehe.","以年輕駭客柔軟且充滿主張的思想來構築這份資料，
 說不定能以更有意義的型態重生，呵呵呵……",,"이것은 저 따위가 구축하는 것보다 아득히 유의미한 형태로
 다시 태어날 수 있을지도 모릅니다. 쿠후후……","... Kann mit den flexiblen und mutigen Ideen
 eines jungen Hackers etwas viel Bedeutsameres
@@ -111,7 +119,8 @@ entstehen. Hehe."
 einen verrückten Wissenschaftler, oder?"
 36,3009,,"La gente mi chiama pure così, ma non mi piace particolarmente.",雖然我很常被這麼說，但還真是讓我傷心啊。,,자주 듣습니다만 뜻밖입니다,"Leute nennen mich zwar so, aber das gefällt mir
 nicht besonders."
-37,3009,,"Comunque, potreste trovare quello che dovete sapere sulla Sindrome di EDEN, se setacciate questo.","無論如何，只要完成這件事，
+37,3009,,"Comunque, potreste trovare quello che dovete sapere
+sulla Sindrome di EDEN, se setacciate questo.","無論如何，只要完成這件事，
 也能獲得解開EDEN症候群的線索。",,"어쨌든 그것을 찾는 것이
 EDEN 증후군을 해명하는 단서가 되겠죠","Jedenfalls findet ihr womöglich, was ihr über das
 EDEN-Syndrom wissen müsst, wenn ihr das
@@ -121,20 +130,22 @@ Davvero generoso...?","就是說隨便我們看囉？
 ……還真是大方啊。",,"보고 싶으면 멋대로 보라는 거야?
 ……제법 배포가 큰걸","Ich darf es mir also ansehen?
 Ganz schön großzügig ...?"
-39,3009,,La conoscenza si dovrebbe condividere con coloro che vi aspirano.,知識就應該贈予探求者才對。,,지식은 추구하는 자에게 주어져야 합니다,"Wissen sollte man mit denjenigen teilen, die
+39,3009,,"La conoscenza si dovrebbe condividere con coloro che vi aspirano.",知識就應該贈予探求者才對。,,지식은 추구하는 자에게 주어져야 합니다,"Wissen sollte man mit denjenigen teilen, die
 danach streben."
 40,3045,,... Perché tentate addirittura di controllare i Eater?,………你是為了什麼目的才想操控侵食者？,,………당신은 왜 이터를 조종하려고 했어?,"... Warum versuchen Sie überhaupt, Verschlinger zu
 kontrollieren?"
 41,3009,,Chiamiamola pure anche curiosità.,……為了“求知心”啊，就只是如此單純。,,"……""탐구심"" 입니다. 단순한",Nennen wir es doch einfach auch Neugier.
 42,3009,,Wow! Incredibile!,哎呀哎呀，還真是驚人啊。,,"이런이런, 무섭군요",Wow! Unglaublich!
-43,3009,,Una corrente di enormi onde digitali ... la cui oscillazione nel mondo virtuale può essere avvertita qui da noi ...,"龐大數碼波的洪流──
+43,3009,,"Una corrente di enormi onde digitali ... la cui oscillazione
+nel mondo virtuale può essere avvertita qui da noi ...","龐大數碼波的洪流──
 居然將虛擬空間振動到連我們都能感受到了啊。",,"방대한 디지털 웨이브의 격류――
 우리들이 감지할 수 있을 정도로 가상 공간을 진동시키다니","Ein Strom enormer digitaler Wellen ... dessen
 Oszillierung in der virtuellen Welt hier von
 uns bemerkt werden kann ..."
 44,3009,,"... Credo che siamo riusciti, Signorina Kishibe.",……看來岸部小姐那邊進行得很順利啊。,,"……아무래도 잘 풀린 모양이군요, 키시베 씨.","... Wir waren wohl erfolgreich, Fräulein Kishibe."
 45,3045,,Cosa...?! Un Digimon viene dal cielo?!,那是什麼……！？　數碼寶貝，從天空……！？,,뭐야 저건……!? 하늘에서 디지몬이……!?,Was ist ...?! Ein Digimon kommt vom Himmel?!
-46,3009,,Il Portale Dimensionale è stato aperto. Le leggi della fisica in questo mondo sono state finalmente annullate... Hihihi!,"次元之壁被解放了啊，
+46,3009,,"Il Portale Dimensionale è stato aperto. Le leggi della fisica
+in questo mondo sono state finalmente annullate... Hihihi!","次元之壁被解放了啊，
 這世界的物理法則，終於要開始毀滅了……
 呵呵、呵哈哈哈！",,"차원의 문이 해방된 겁니다.
 드디어 이 세계의 물질법칙은 붕괴했다……쿠후, 쿠후후!","Das Dimensionstor wurde geöffnet. Die Gesetze der
@@ -178,7 +189,8 @@ Non influirà sui miei piani.","在這之後，你們和他不論要做什麼─
 都不會影響到我的目的。",,"이 이후에 당신들이나 그가 무엇을 하든――
 저의 목적에는 영향이 없습니다","Was immer ihr ab jetzt tut ...
 Wird sich nicht auf meine Pläne auswirken."
-58,3009,,"Inoltre, mi basta se posso alleviare un po' del vostro dolore o della vostra tristezza.","而且……如果這種程度的幫忙，能讓妳的那份悲傷──
+58,3009,,"Inoltre, mi basta se posso alleviare un po'
+del vostro dolore o della vostra tristezza.","而且……如果這種程度的幫忙，能讓妳的那份悲傷──
 能夠多少紓解妳的痛苦的話，那也只是小事一件。",,"게다가…… 이 정도의 도움으로 당신의 그 슬픔――
 아픔이 조금이라도 줄어든다면 값싼 것이죠","Außerdem reicht es, wenn ich euch etwas Schmerz
 oder Trauer abnehmen kann."

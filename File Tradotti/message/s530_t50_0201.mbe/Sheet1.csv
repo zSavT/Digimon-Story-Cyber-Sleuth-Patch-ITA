@@ -13,8 +13,8 @@ hast."
 我是和艾莉卡搭檔的數碼寶貝好嗎！",,"괴물이라니 실례잖아!
 나는 에리카의 파트너 디지몬이야!",Wie unhöflich! Ich bin Erikas Partnerdigimon!
 8,7356,,Scusa. Mi hai spaventato.,抱歉，突然有聲音我嚇了一跳。,,"아, 미안. 갑작스러워서 깜짝 놀랐네",Tut mir leid. Du hast mich überrascht.
-9,7356,,"Ho sentito dire che voi hacker usate programmi insoliti, ma
-non mi sarei mai aspettato niente del genere...","這麼說來，聽說你們駭客會使用奇妙的程式，
+9,7356,,"Ho sentito dire che voi hacker usate programmi insoliti,
+ma non mi sarei mai aspettato niente del genere...","這麼說來，聽說你們駭客會使用奇妙的程式，
 就是這個吧……",,"그렇구나, 너희 해커는 묘한 프로그램을 쓴다고
 들었는데 이거구나…","Ich habe schon gehört, dass ihr Hacker
 ungewöhnliche Programme benutzt, aber so etwas
@@ -75,7 +75,8 @@ avevamo un'infanzia piuttosto difficile.","熟面孔永遠是那9個人。
 지금 생각해보면 여러모로 복잡한 사정이 있던
 아이들뿐이었던 것 같아","Wir waren zu neunt. Wenn ich jetzt zurückblicke,
 kamen wir alle aus schwierigen Verhältnissen."
-28,7356,,"Ecco perché andavamo così d'accordo. Ragazzo o ragazza, non importava.","……所以我們才合拍吧。
+28,7356,,"Ecco perché andavamo così d'accordo.
+Ragazzo o ragazza, non importava.","……所以我們才合拍吧。
 總是不分男女湊在一起玩。",,"…그래서 마음이 맞았어.
 남자, 여자 구분 없이 우리들은 언제나 같이 있었지","Darum kamen wir so gut aus. Junge oder Mädchen –
 das war egal."
@@ -119,8 +120,8 @@ anni in cui ci andavamo.","我只記得當時托兒所的大概地址，
 다니던 년도 정도야","Ich erinnerte mich nur noch ungefähr, wo sich der
 Club befand, zu dem wir gingen, und an die
 Jahre, in denen wir dort waren."
-36,7356,,"La mia nostalgia mi ha spinto a scavare un po', e
-ho trovato il nome del club.","實在太過懷念就上網搜尋了一下，
+36,7356,,"La mia nostalgia mi ha spinto a scavare un po',
+e ho trovato il nome del club.","實在太過懷念就上網搜尋了一下，
 居然找到那間托兒所的名稱。",,"그리움에 이끌려 아무 생각 없이 검색해봤더니
 방과 후 클럽의 이름이 나왔어","Aus Nostalgie habe ich etwas nachgeforscht und den
 Namen des Clubs herausgefunden."
@@ -129,14 +130,14 @@ diverse generazioni.","社群網站上有它的交流論壇，
 而且按照年紀分成不同群組。",,"SNS에 커뮤니티가 있었어.
 그리고 세대별로 클럽이 나뉘어 있었지","Auf sozialen Medien gibt es eine Gemeinschaft
 mit Gruppen für verschiedene Generationen."
-38,7356,,Mi sono unito e ho trovato cinque dei miei amici. Noi sei abbiamo passato ore a parlare dei vecchi tempi.,"我試著登錄，沒想到找到了當時同伴裡的5個人。
+38,7356,,"Mi sono unito e ho trovato cinque dei miei amici.
+Noi sei abbiamo passato ore a parlare dei vecchi tempi.","我試著登錄，沒想到找到了當時同伴裡的5個人。
 加上我總共6個，狂聊以前的回憶。",,"연락해봤더니 당시 친구들 중 5명이 거기 있었어.
 나를 포함해 6명이 추억 이야기로 뜨겁게 타올랐지","Ich habe mich angemeldet und fünf meiner Freunde
 gefunden. Wir sechs haben Stunden damit
 zugebracht, über alte Zeiten zu reden."
-39,7356,,"Uno di loro vive ancora in zona. È riuscito a
-rintracciare gli altri tre e li ha invitati a
-unirsi a noi.","然後其中一個還留在當地的同伴，
+39,7356,,"Uno di loro vive ancora in zona. È riuscito a rintracciare
+gli altri tre e li ha invitati a unirsi a noi.","然後其中一個還留在當地的同伴，
 動用了點關係調查，找到了剩下3個人。",,"그러다 고향에 남아있던 한 명이 연줄을 이용해
 조사해줘서 남은 3명도 불러준 거야","Einer von ihnen lebt noch dort. Ihm ist es
 gelungen, die anderen drei zu finden und
@@ -164,7 +165,8 @@ io infantili, e giocare come facevamo in quei giorni.","沒錯，我們在那裡
 Alter Egos unserer Kindheit, und wie früher
 zu spielen."
 47,1392,,Aspetta.,你等一下。,,잠깐 기다려,Moment mal.
-48,1392,,Pensavo che alle persone non fosse permesso usare avatar che non assomigliassero al loro vero aspetto?,"應該是禁止使用和現實模樣
+48,1392,,"Pensavo che alle persone non fosse permesso usare avatar che non
+assomigliassero al loro vero aspetto?","應該是禁止使用和現實模樣
 完全不同的化身吧？",,"현실 모습과 크게 다른 모습의 아바타 이용은
 제한되어 있지 않아?","Ich dachte, man darf keinen Avatar benutzen, der
 nicht wie man selbst aussieht?"
@@ -239,8 +241,8 @@ opportunità.","開始玩籠中鳥籠中鳥之後……大家很溫柔，
 한 번으로 끝내지 말고 몇 번이고 다시 맞힐 수 있게 해 줘","Wir haben ein Spiel gespielt, wo ich raten musste,
 wer hinter mir stand. Ich habe mehrmals geraten."
 64,7356,,Ma è stato così strano!,但是，很奇怪……！,,"하지만, 이상한 거야…!",Aber es war so seltsam!
-65,7356,,"Ho continuato a indovinare fino a quando non ho detto tutti e otto i loro
-nomi, ma hanno continuato a dire che sbagliavo!","我重猜好幾次，
+65,7356,,"Ho continuato a indovinare fino a quando non ho detto tutti
+e otto i loro nomi, ma hanno continuato a dire che sbagliavo!","我重猜好幾次，
 最後自己以外的8個人名字全喊過一輪，
 還是被說我猜錯……！",,"몇 번이고 몇 번이고 다시 말하고, 결국
 나를 뺀 나머지 8명의 이름을 전부 불렀는데도
@@ -274,7 +276,8 @@ sein! Ein Cyberspace-Geist!"
 站在那的傢伙通通都沒有。",,"거기에 있던 그 녀석은 눈도, 코도, 입도…
 아무것도 없었어","Es hatte keine Augen, keine Nase, keinen Mund ...
 Nichts."
-77,7356,,"Mi vergogno ad ammetterlo, ma mi ha davvero scosso, e mi sono disconnesso senza dire niente agli altri.","說來丟臉，但我好像被這突然的驚嚇給動搖了。
+77,7356,,"Mi vergogno ad ammetterlo, ma mi ha davvero scosso,
+e mi sono disconnesso senza dire niente agli altri.","說來丟臉，但我好像被這突然的驚嚇給動搖了。
 結果什麼都沒跟大家說，慌慌張張登出了。",,"한심하게도 갑작스러운 일로 어찌할 바를 몰라
 모두에게 아무 것도 말하지 않고 허둥지둥 로그아웃 하고 말았어","Das ist mir zwar peinlich, aber es hat mich echt
 schockiert und ich habe mich ausgeloggt, ohne
@@ -318,8 +321,8 @@ dire sciocchezze.","電腦空間裡怎麼可能鬧鬼。
 真蠢。",,"전뇌공간에 귀신이 나올 리 없잖아.
 바보 같아","Warum sollte es im Cyberspace einen Geist geben?
 Erzähl keinen Unsinn."
-91,3045,,"Giusto. Non esistono i fantasmi. Deve esserci
-una spiegazione logica.","是啊。問題才不是出在妖怪那種
+91,3045,,"Giusto. Non esistono i fantasmi.
+Deve esserci una spiegazione logica.","是啊。問題才不是出在妖怪那種
 沒科學根據的東西上，
 事情的背後一定有明確的原因。",,"그렇겠지. 귀신이라는 비논리적인 존재가 아니라
 제대로 된 원인이 있을 거야","Genau. Es gibt keine Geister. Es muss eine

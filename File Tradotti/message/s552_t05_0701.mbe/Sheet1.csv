@@ -4,8 +4,9 @@ Cos'hai scoperto sull'acqua santa?!","……啊、[p]！
 關於聖水，你知道了什麼嗎？",,"…앗, [p] 씨!
 성수에 대해서 뭔가 아셨나요?","Ach, [p]! Was hast du über das Weihwasser
 herausgefunden?!"
-2,7227,,"Cosa?! È solo acqua del rubinetto?! Non può essere! Hai
-qualche prova?","……什麼！？
+2,7227,,"Cosa?! È solo acqua del rubinetto?!
+Non può essere!
+Hai qualche prova?","……什麼！？
 聖水只是普通的水！？
 怎、怎麼會……！　你有什麼證據嗎？",,"…네!?
 성수가 그냥 수돗물이었다고요!?
@@ -17,23 +18,21 @@ sein! Hast du dafür Beweise?"
 glaube oder nicht?"
 4,7227,,...,…………,,…………,...
 5,7227,,A dire la verità... L'ho visto...,……其實我曾經看過。,,"…사실은 저, 본 적이 있어요",Um ehrlich zu sein ... habe ich es selbst gesehen.
-6,7227,,"I capi della chiesa che riempiono le bottiglie di acqua santa
-da un rubinetto...","教團的領導們，把水龍頭的水
+6,7227,,"I capi della chiesa che riempiono le bottiglie
+di acqua santa da un rubinetto...","教團的領導們，把水龍頭的水
 裝進聖水的瓶子中的時候……",,"교단의 지도자들이 성수를 넣는 병에
 수도꼭지에서 나오는 물을 넣는 걸…","Die Kirchenoberen haben die Weihwasserflaschen
 mit Leitungswasser gefüllt ..."
 7,2020,,!!!,！！,,!!,!!!
-8,7227,,"Mi ero convinto di essermi sbagliato... Che
-dovevano star lavando le bottiglie o
-qualcosa del genere.","我一直逼自己相信是我看錯了，
+8,7227,,"Mi ero convinto di essermi sbagliato...
+Che dovevano star lavando le bottiglie o qualcosa del genere.","我一直逼自己相信是我看錯了，
 那只是在洗瓶子而已。",,"그건 분명 잘못 본 거다,
 병을 씻고 있었던 거라고
 계속 생각하려고 했어요","Ich hatte mir eingeredet, mich geirrt zu haben.
 Dass sie die Flaschen bloß gewaschen hätten
 oder so etwas in der Richtung."
 9,7227,,"Ma non lo erano. La dottrina della chiesa secondo cui
-l'acqua santa contiene potere divino era solo una
-grossa bugia, vero?","但是我果然錯了。
+l'acqua santa contiene potere divino era solo una grossa bugia, vero?","但是我果然錯了。
 教團說聖水中寄宿了神聖的力量，
 是個天大的謊言吧？",,"하지만, 역시 아니었군요.
 성수에 신의 파워가 담겨있다는
@@ -45,16 +44,15 @@ war nur eine einzige Lüge, oder?"
 並不存在嗎？",,"그건 다시 말해서, 우리의 신은…
 교단이 믿고 있던 용신님은…
 없다는 거군요?","Heißt das, dass unser Drachengott nicht existiert?"
-11,7227,,"Esiste davvero, ma ora se n'è andato? Eh? Non
-capisco!","……龍神大人是存在的？
+11,7227,,"Esiste davvero, ma ora se n'è andato?
+Eh? Non capisco!","……龍神大人是存在的？
 但是，已經不在了？？？
 咦～～？？　我搞不懂是什麼情況！！",,"…용신님은 존재한다?
 하지만 이제는 없다???
 어~~?? 뭐가 뭔지 모르겠어요!!","Er existiert, aber er ist jetzt verschwunden? Was?
 Das verstehe ich nicht!"
 12,7227,,"Pensavo di aver finalmente trovato la felicità dopo
-essermi unito alla chiesa, ma l'acqua santa era solo una
-truffa...","嗚嗚，我以為改信教團，
+essermi unito alla chiesa, ma l'acqua santa era solo una truffa...","嗚嗚，我以為改信教團，
 終於就能獲得幸福了。
 沒想到聖水竟然是騙人的……",,"으으, 교단에 입신해서
 드디어 행복해졌다고 생각했는데
@@ -105,7 +103,8 @@ glücklich sein."
 這樣一定比較好！！",,"사기 교단을 믿는 것보다
 그게 훨씬 더 좋을 거예요!!","Das ist viel besser, als an eine betrügerische
 Kirche zu glauben!"
-21,7227,,"Non essere credulone come lo sono stato io e unirti a qualche setta strana, [p]!","[p]，
+21,7227,,"Non essere credulone come lo sono stato io e unirti a qualche setta strana,
+[p]!","[p]，
 你也別做出改信教團這種愚蠢的事比較好喔！！",,"[p] 씨,
 당신도 교단에 입신한다는
 바보짓은 하지 않는 게 좋아요!!","Man darf nicht so gutgläubig wie ich sein und

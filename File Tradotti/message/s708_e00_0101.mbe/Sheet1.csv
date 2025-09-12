@@ -53,12 +53,12 @@ Polizei angeschrien hat. Jetzt gehöre ich dazu."
 常常一起惹他生氣啊。",,"그놈들도 마타요시 씨에 대해선 알고 있다고.
 자주 같이 혼났으니 말이지","Sie wissen auch über Matayoshi Bescheid. Sie
 haben ihn ebenso zur Weißglut getrieben wie ich."
-11,3015,,"Era l'unico che ascoltava davvero noi
-delinquenti.","但也只有那個人，會認真聽
+11,3015,,"Era l'unico che ascoltava davvero noi delinquenti.","但也只有那個人，會認真聽
 我們這些不良少年少女的話啊。",,"양아치 짓이나 하던 우리 이야길
 그 사람 하나만 진지하게 들어줬어","Er war der Einzige, der uns Straftätern wirklich
 zugehört hat."
-12,3015,,È ciò che ci ha impedito di deragliare ulteriormente. Dobbiamo molto a Matayoshi.,"也因為如此，我們才沒有繼續走上歧途。
+12,3015,,"È ciò che ci ha impedito di deragliare ulteriormente.
+Dobbiamo molto a Matayoshi.","也因為如此，我們才沒有繼續走上歧途。
 又吉叔可是我們大家的恩人喔。",,"그래서 우린 그 이상 길을 엇나가지 않게 됐지.
 마타요시 씨는 우리 모두의 은인이야","Das hat uns davon abgehalten, weiter vom rechten
 Weg abzukommen. Wir haben Matayoshi viel zu
@@ -68,7 +68,8 @@ diventare un detective come lui.","因為這樣，我才希望能夠成為像那
 日夜都在努力工作呢。",,"그래서 나도 그 사람처럼 형사를 목표로
 밤낮 없이 일하게 된 거지","Deshalb arbeite ich Tag und Nacht, um eines Tages
 Kommissarin zu werden wie er."
-14,3015,,"Haha, non è da me parlare di cose del genere. Questo mi riporta alla mente così tanti ricordi.","……哈哈，說了些不像我的話啊。
+14,3015,,"Haha, non è da me parlare di cose del genere.
+Questo mi riporta alla mente così tanti ricordi.","……哈哈，說了些不像我的話啊。
 總覺得回想到過去，感覺很懷念呢。",,"……하하, 나답지 않게 떠들어댔네.
 어쩐지 옛날 일을 떠올리니 반가워져서 말이지","Haha, normalerweise rede ich nicht über solche
 Sachen. Das weckt so viele Erinnerungen."
@@ -76,8 +77,8 @@ Sachen. Das weckt so viele Erinnerungen."
 我記得大多都繼承家業了啊。",,"응? 그놈들 말인가?
 아마 가업을 이은 놈들이 많았지","Viele haben die Unternehmen ihrer Familien
 übernommen."
-16,3015,,"Uno è un fioraio, uno è un fruttivendolo. Oh, e
-ci sono anche un barbiere e un chiropratico.","花店還是蔬果店的啦。
+16,3015,,"Uno è un fioraio, uno è un fruttivendolo.
+Oh, e ci sono anche un barbiere e un chiropratico.","花店還是蔬果店的啦。
 啊，也有美容師跟整體師喔。",,"꽃집하고 야채 가게 같은 거?
 아, 이발소하고 마사지사 같은 것도 있었지","Einer ist Florist, die andere Gemüsehändlerin.
 Oh, und ein Friseur und ein Chiropraktiker sind
@@ -91,14 +92,13 @@ Matayoshi...","如果當初沒遇見又吉叔的話，
 지금쯤 난 뭘 하고 있었으려나……","Was wohl aus mir geworden wäre, wenn ich
 Matayoshi nie begegnet wäre ..."
 19,3015,,"Ehi, che domanda fai...",喂，不要給我開玩笑啊混蛋……,,"이봐, 깝치지 말라고 짜샤……","He, das ist aber eine freche Frage ..."
-20,3015,,"Beh, sono abbastanza grande. Da qualche parte deve esserci un bel
-ragazzo!","我還算是“妙齡”啊，
+20,3015,,"Beh, sono abbastanza grande. Da qualche parte deve esserci
+un bel ragazzo!","我還算是“妙齡”啊，
 當然有覺得還不錯的男生啊！",,"나도 말이지, 일단 ""적령기""라고.
 조금 괜찮다~싶은 남자 정도는 당연히 있다고!","Nun, alt genug wäre ich. Es muss irgendwo da
 draußen ja einen gut aussehenden Typen geben!"
-21,3015,,"Qualcuno di affidabile, con forti convinzioni,
-e che non dimentica mai cosa le persone hanno fatto per
-lui.","意外很可靠、有著絕不動搖的信念、
+21,3015,,"Qualcuno di affidabile, con forti convinzioni, e che
+non dimentica mai cosa le persone hanno fatto per lui.","意外很可靠、有著絕不動搖的信念、
 不會忘記從他人身上得到的恩惠……",,"외외로 믿음직하고, 굽히지 않는 신념을 지녔고,
 남한테 받은 은혜를 잊지 않는……","Jemand, der verlässlich ist, starke
 Überzeugungen hat und niemals vergisst, was

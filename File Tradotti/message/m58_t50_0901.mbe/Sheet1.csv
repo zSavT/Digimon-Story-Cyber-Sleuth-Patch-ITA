@@ -1,6 +1,7 @@
 ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
 1,2020,,...,…………,,…………,...
-2,1392,,"Uff, Erika mi ha finalmente ritrasformato. Questa forma è quella che preferisco.","呼～艾莉卡終於把我變回原來的模樣了，
+2,1392,,"Uff, Erika mi ha finalmente ritrasformato.
+Questa forma è quella che preferisco.","呼～艾莉卡終於把我變回原來的模樣了，
 果然還是這樣最自在了。",,"후우, 겨우 에리카가 원래 모습으로 되돌려줬어.
 역시 이 모습이 진정되네","Puh, Erika hat mich endlich wieder
 zurückverwandelt. Diese Gestalt habe
@@ -15,19 +16,19 @@ Aber in Erikas Erinnerung schien alles
 funktioniert zu haben."
 5,2020,,?!,！？,,!?,?!
 6,3045,,In effetti ha funzionato. Non l'avete notato?,你成功了唷。難道你沒有發現嗎？,,성공했어. 눈치채지 못한거야?,Hat doch geklappt. Habt ihr das nicht bemerkt?
-7,3045,,"Hai toccato Makiko Date, vero?
-Appena l'hai fatto, abbiamo rubato le sue informazioni sull'account.","你和伊達真希子接觸過了對吧。
+7,3045,,"Hai toccato Makiko Date, vero? Appena l'hai fatto,
+abbiamo rubato le sue informazioni sull'account.","你和伊達真希子接觸過了對吧。
 那時候就已經拿到她的帳號了唷。",,"너, 다테 마키코와 접촉했잖아.
 그때 그녀의 계정을 입수해 두었어.","Du hast Makiko Date berührt, richtig?
 Als du das getan hast, haben wir ihre
 Accountinfos geklaut."
-8,3045,,"Le autorizzazioni di accesso di una neo-commissaria sono più che sufficienti. Giusto, Ryuji?","有警部補的權限就足夠了，
+8,3045,,"Le autorizzazioni di accesso di una neo-commissaria sono più che
+sufficienti. Giusto, Ryuji?","有警部補的權限就足夠了，
 對吧，哥哥。",,"경부보의 권한 정도면 충분하니까.
 그치, 오빠","Die Zugangsberechtigungen einer frischgebackenen
 Kommissarin reichen völlig. Stimmt doch, Ryuji?"
 9,3046,,Sì.,沒錯。,,아아,Ja.
-10,3047,,"Ehi! Mi dispiace di non aver potuto prima!
-Come va?","嗨、久等啦──！
+10,3047,,"Ehi! Mi dispiace di non aver potuto prima! Come va?","嗨、久等啦──！
 抱歉，沒辦法一起參加！現在進行到哪啦？",,"여어, 기다렸지!
 미안, 참가하지 못해서! 지금 어디까지 왔어?","Huhu! Tut mir leid, dass ich nicht früher konnte!
 Wie läuft’s denn so?"
@@ -38,7 +39,8 @@ Wie läuft’s denn so?"
 also, ja? Gut gemacht!"
 13,3047,,... Ma cosa volete ancora con l'unità investigativa per la cybercriminalità?,……是說，為什麼又是電腦犯罪搜查課呢？,,…근데 어째서 전뇌범죄수사과인 거야?,"... Aber was wollt ihr schon wieder mit der
 Ermittlungseinheit für Cyberkriminalität?"
-14,3046,,"Abbiamo provato ad attaccare Kamishiro con un malware, ma non abbiamo trovato nulla di utile.","……之前也對神代企業設過惡性軟體，
+14,3046,,"Abbiamo provato ad attaccare Kamishiro con un malware,
+ma non abbiamo trovato nulla di utile.","……之前也對神代企業設過惡性軟體，
 但獲得的資訊都不怎麼樣。",,"…전에 카미시로에 악성코드를 설치했는데
 들어온 정보가 신통치 못했어","Wir haben versucht, Kamishiro mit Schadsoftware zu
 Leibe zu rücken, aber wir haben nichts Brauchbares
@@ -49,13 +51,15 @@ herausgefunden."
 把“那個數據＂給盜取出來。",,"그래.
 전뇌범죄수사과 서버에서 ""어떤 데이터""를 빼낸다","Ja. Wir brauchen ganz bestimmte Daten
 zu Cyberverbrechen."
-17,3046,,"Secondo le informazioni di Zaxon, Kamishiro ha fatto un'acquisizione illegale alcuni anni fa.","根據Zaxon給的資訊――
+17,3046,,"Secondo le informazioni di Zaxon, Kamishiro ha fatto un'acquisizione
+illegale alcuni anni fa.","根據Zaxon給的資訊――
 幾年前，神代企業用不正當的手段
 把某個企業給收購了。",,"잭슨에서 받은 정보에 따르면――
 몇 년 전, 카미시로가 어느 기업을 부정흡수했다는 모양이야","Informationen von Zaxon zufolge hat Kamishiro
 vor einigen Jahren eine illegale Anschaffung
 gemacht."
-18,3046,,I ranghi superiori dell'unità investigativa per la criminalità informatica hanno contribuito a insabbiare l'intera faccenda.,"那時候，為了不讓事情曝光，
+18,3046,,"I ranghi superiori dell'unità investigativa per la criminalità informatica
+hanno contribuito a insabbiare l'intera faccenda.","那時候，為了不讓事情曝光，
 電腦犯罪搜查課的高層似乎採取某些手段來解決。",,"이 때 사실이 드러나지 않도록 전뇌범죄수사과의
 상층부가 손을 썼다고 해","Die oberen Ränge der Ermittlungseinheit für
 Cyberkriminalität haben dabei geholfen, die ganze
@@ -72,11 +76,13 @@ Die Welt geht wirklich den Bach runter."
 也被當作保留區來使用的區域。",,"침입하는건 대상 EDEN서버 중에서도
 예비 영역으로 보존되어 있는 에어리어","Wir brechen in eine Ersatzdomain des
 EDEN-Servers ein."
-23,3045,,Da lì possiamo accedere direttamente ai dati di destinazione e recuperarli.,"接下來要直接進入主網路上的“目標數據＂，
+23,3045,,"Da lì possiamo accedere direttamente ai dati di destinazione
+e recuperarli.","接下來要直接進入主網路上的“目標數據＂，
 並將數據給取出來。",,"여기에서 메인 네트워크상의 ""목표 정보 데이터""에
 직접 액세스 해서 빼내줘","Von dort aus können wir direkt auf die Zieldaten
 zugreifen und sie herausholen."
-24,3045,,Per prima cosa userò i diritti d'accesso rubati a Makiko Date per identificare i dati di destinazione.,"首先，我會先用伊達真希子的帳號權限，
+24,3045,,"Per prima cosa userò i diritti d'accesso rubati a Makiko Date
+per identificare i dati di destinazione.","首先，我會先用伊達真希子的帳號權限，
 搜尋“目標數據＂的地點座標。",,"일단 내가 입수한 다테 마키코의 계정 권한을 이용해서
 ""목표 정보 데이터""의 위치 좌표를 찾을게","Als Erstes werde ich Makiko Dates gestohlene
 Zugangsrechte verwenden, um die Zieldaten
@@ -85,19 +91,23 @@ zu identifizieren."
 就帶著蟲蟲獸一起入侵保留區。",,"오빠랑 [p] 쪽은
 추추몬을 데리고 예비 영역 에어리어에 침입해줘","[p] und Ryuji werdet Wormmon in
 den Bereich der Ersatzdomain bringen."
-26,3045,,"Quest'area si trova al di fuori della rete principale ed è solitamente vuota, quindi dovrebbe esservi possibile intrufolarvi.","這個區域在主網路的區域外，
+26,3045,,"Quest'area si trova al di fuori della rete principale ed è solitamente vuota,
+quindi dovrebbe esservi possibile intrufolarvi.","這個區域在主網路的區域外，
 平常幾乎都沒有人在，所以應該能入侵。",,"이 에어리어는 메인 네트워크 바깥에 있어서
 보통은 거의 사람이 없으니까 침입은 가능할거야","Dieser Bereich liegt außerhalb des Hauptnetzwerks
 und ist normalerweise leer, also sollte es euch
 möglich sein, euch hineinzuschleichen."
-27,3045,,"Quando arriverete, dovrete trovare il punto di connessione alla rete principale, affinché possiamo scaricare.","之後再從那裡，找出通往主網路的連接點，
+27,3045,,"Quando arriverete, dovrete trovare il punto di connessione alla
+rete principale, affinché possiamo scaricare.","之後再從那裡，找出通往主網路的連接點，
 進行下載的準備。",,"거기서 메인 네트워크에 접속 포인트를 찾아서
 다운로드를 준비해","Wenn ihr ankommt, müsst ihr den Verbindungspunkt
 zum Hauptnetzwerk finden, damit wir downloaden
 können."
 28,3047,,Perché Wormmon viene con noi?,為什麼連蟲蟲獸也要一起去啊？,,왜 추추몬까지 데려가야 해?,Warum kommt Wormmon mit uns?
 29,3045,,Lui è il nostro intermediario.,這孩子負責聯絡。,,이 애는 연락 담당,Er ist unser Mittelsmann.
-30,3045,,"Se avete trovato i dati di destinazione, invierò a Wormmon un pass falso. Grazie alle nostre rotte di trasmissione indipendenti, sarà difficile intercettarlo.","找到目標數據後，我會傳給蟲蟲獸一組偽造的密碼，
+30,3045,,"Se avete trovato i dati di destinazione, invierò a Wormmon un pass falso.
+Grazie alle nostre rotte di trasmissione indipendenti,
+sarà difficile intercettarlo.","找到目標數據後，我會傳給蟲蟲獸一組偽造的密碼，
 蟲蟲獸和我之間的通話迴路是獨立的，
 所以被竊聽的可能性很低。",,"목표 데이터를 찾아내면 내가 추추몬에게 위조 패스를 보낼 거야.
 이 애와 나 사이의 통신 회로는 독립되어 있어서 방수하기 어려워","Habt ihr die Zieldaten gefunden, sende ich Wormmon
@@ -109,17 +119,20 @@ Pass ab ..."
 33,3045,,Stai di guardia mentre Ryuji usa il terminale.,[p]呢，就負責在哥哥操縱終端時替哥哥把風。,,"[p]의 역할은 오빠가 단말을
 조작하고 있을 때 호위하는 역","Du schiebst Wache, während Ryuji das
 Terminal bedient."
-34,3045,,Durante il download siamo particolarmente vulnerabili – rimanete quindi vigili.,"進行下載時，是最沒有防備的時候。
+34,3045,,"Durante il download siamo particolarmente vulnerabili
+– rimanete quindi vigili.","進行下載時，是最沒有防備的時候。
 一定要加倍小心。",,다운로드할 때 가장 무방비해지니 조심해,"Während des Downloads sind wir besonders
 angreifbar – bleibt also wachsam."
-35,3046,,"Anche se si tratta di un server di riserva, sarà fortemente protetto. Dovete affrontare sistematicamente le misure di sicurezza.","……雖說是保留區的伺服器，但戒備還是很森嚴。
+35,3046,,"Anche se si tratta di un server di riserva, sarà fortemente protetto.
+Dovete affrontare sistematicamente le misure di sicurezza.","……雖說是保留區的伺服器，但戒備還是很森嚴。
 到時候，只要是朝我們過來的傢伙就通通做掉。",,"…예비 서버라곤 해도 보안은 엄중할 테지.
 달려드는 녀석은 닥치는 대로 자귓밥을 먹여주도록 해","Auch wenn es sich um einen Ersatzserver handelt,
 wird er stark gesichert sein. Ihr müsst euch die
 Sicherheitsvorkehrungen systematisch vornehmen."
 36,2020,,Cosa?,？？？,,???,Was?
 37,3047,,"Hehe, lei intende: ""Dategli un calcio nel sedere"".",嘿嘿，就是「要你徹底擊垮他們」的意思啦。,,"헤헷,「철저하게 박살내라」는 의미야","Hehe, sie meint: „Tretet ihnen in den Hintern“."
-38,1392,,"Ryuji a volte usa espressioni strane come ""far fuori"" e ""togliere di mezzo"".","龍司他啊，偶爾會用一些很奇特的辭彙呢。
+38,1392,,"Ryuji a volte usa espressioni strane come ""far fuori""
+e ""togliere di mezzo"".","龍司他啊，偶爾會用一些很奇特的辭彙呢。
 像是什麼敢死隊啦、正派人之類的。",,"류지는 가끔 이상한 말을 써.
 탄환이라던가 모범생이라던가","Ryuji verwendet manchmal komische Ausdrücke wie
 „kaltmachen“ und „um die Ecke bringen“."
@@ -155,7 +168,8 @@ per intrufolarci nella rete principale.","當伊達在處理「通訊紀錄」�
 um ins Hauptnetzwerk zu schlüpfen."
 48,3045,,Scambiamo il protocollo di ispezione con il protocollo di trasmissione.,把「閱覽紀錄」掉包成「通訊紀錄」。,,「열람기록」을「통신기록」으로 바꿔친다,"Wir tauschen das Inspektionsprotokoll gegen
 das Übertragungsprotokoll."
-49,3047,,Buona idea. Così possiamo stabilire una connessione diretta al server e allo stesso tempo cancellare le nostre tracce.,"原來如此，這樣一來就算直接存取網路，
+49,3047,,"Buona idea. Così possiamo stabilire una connessione diretta al server
+e allo stesso tempo cancellare le nostre tracce.","原來如此，這樣一來就算直接存取網路，
 也不會被抓到證據。",,"과연. 그거면 직접 네트워크에 접속하지 않더라도
 꼬리가 잡히지 않는다는 거군","Gute Idee. So können wir eine direkte Verbindung
 zum Server herstellen und trotzdem unsere

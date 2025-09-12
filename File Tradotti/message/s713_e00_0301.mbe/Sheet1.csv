@@ -1,12 +1,11 @@
 ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
 1,1035,,Mmm... Vedo decisamente dei miglioramenti.,……哼，似乎變得能幹點了啊。,,"……흥, 조금은 잘할 수 있게 된 것 같군",Hm ... Ich erkenne definitiv einen Fortschritt.
-2,1035,,"E non sto parlando di quegli hacker. Intendo
-te, [p].","我不是指剛才的駭客，
+2,1035,,"E non sto parlando di quegli hacker.
+Intendo te, [p].","我不是指剛才的駭客，
 我是在說你，[p]。",,"방금 그 해커들 이야기가 아니다.
 너 말이다, [p].","Und ich meine nicht diese Hacker. Ich meine dich,
 [p]."
-3,1035,,"Potresti persino essere degno di combattere contro
-di me ora.","如果是現在的你……
+3,1035,,"Potresti persino essere degno di combattere contro di me ora.","如果是現在的你……
 說不定有跟我戰鬥的價值。",,"지금의 너라면…….
 나와 싸울만한 가치가 있을지도 모르겠군","Du bist nun vielleicht sogar würdig, gegen mich
 zu kämpfen."
@@ -24,8 +23,7 @@ Sono pronto. Facciamolo!","今天已經累了，先回去吧？
 이거 상당한 각오를 가지고 덤벼야겠는데……","Ich bin müde. Gehen wir einfach nach Hause.
 Du siehst nun also einen würdigen Gegner in mir?
 Ich bin bereit. Los geht’s!"
-6,1035,,"Cosa? Come possono battaglie così semplici renderti
-stanco?","……什麼？　才那種程度的戰鬥，
+6,1035,,"Cosa? Come possono battaglie così semplici renderti stanco?","……什麼？　才那種程度的戰鬥，
 你卻跟我說「累了」？",,……뭐? 겨우 그까짓 싸움으로 「지쳤다」라고?,"Was? Wie können solch einfache Kämpfe dich
 ermüden?"
 7,1035,,"Pensavo di aver finalmente trovato qualcuno che mostrava
@@ -43,8 +41,7 @@ Genugtuung gewährt hast, die ich einfordere."
 10,1035,,Anche se...,但……這樣啊……,,하지만……그렇군……,Wobei ...
 11,1035,,Ce l'hai quasi fatta. Non montarti la testa.,勉強合格的程度罷了，別太自滿了啊。,,아슬아슬하게 합격점이다. 자만하지 마라,"Du bist gerade so gut genug. Bilde dir nichts
 darauf ein."
-12,1035,,"Anche se ammetto che i progressi che hai fatto sono
-degni di lode.","嗯，和最初相比，還真變得有點強了。
+12,1035,,"Anche se ammetto che i progressi che hai fatto sono degni di lode.","嗯，和最初相比，還真變得有點強了。
 就老實稱讚你一下吧。",,"뭐, 처음에 비하면 잘도 이만큼 강해졌다.
 그건 솔직히 칭찬해주마","Obwohl ich zugeben muss, dass dein Fortschritt Lob
 verdient."
@@ -73,12 +70,12 @@ beeindruckend."
 schonen!"
 20,1035,,"Hmph, anche se...",…………嘖，但是……,,"…………칫, 하지만……","Hmpf, wobei ..."
 21,1035,,Forse è meglio di no.,……果然還是算了。,,……역시 관두자,Vielleicht sollten wir es lassen.
-22,1035,,"Non fraintendere. Semplicemente non combatteremo
-adesso.","你可別會錯意啊，
+22,1035,,"Non fraintendere. Semplicemente non combatteremo adesso.","你可別會錯意啊，
 只是現在不戰鬥罷了。",,"착각하지 마라.
 지금 싸우는 걸 관두겠다는 소리다","Versteh mich nicht falsch. Wir tragen unseren
 Kampf nur nicht jetzt aus."
-23,1035,,Ti sto dando la possibilità di organizzare la festa perfetta. Questo è tutto.,"你先找好你認為完美的隊員，做好萬全的準備吧。
+23,1035,,"Ti sto dando la possibilità di organizzare la festa perfetta.
+Questo è tutto.","你先找好你認為完美的隊員，做好萬全的準備吧。
 ……那之後再說。",,"네가 완벽하다고 여기는 멤버로 완벽하게 준비해라.
 ……이야기는 거기서부터다","Ich gebe dir die Chance, die perfekte Gruppe
 zusammenzustellen. Das ist alles."
@@ -110,8 +107,8 @@ noia.","……就算像今天這種廢物般的傢伙，
 조금이나마 심심풀이가 되니 말이지","Sogar armselige Gegner wie die, gegen die wir
 heute gekämpft haben, helfen mir ein bisschen,
 meine Langeweile zu vertreiben."
-30,1035,,"Quindi chiamami se qualcuno ti infastidisce di nuovo. Ti
-aiuterò.",如果又被麻煩的傢伙給纏上，就叫上我來幫忙吧。,,"또 귀찮은 놈들한테 얽혀든다면 날 불러라.
+30,1035,,"Quindi chiamami se qualcuno ti infastidisce di nuovo.
+Ti aiuterò.",如果又被麻煩的傢伙給纏上，就叫上我來幫忙吧。,,"또 귀찮은 놈들한테 얽혀든다면 날 불러라.
 도와주마","Ruf mich also, wenn sich wieder jemand mit dir
 anlegt. Ich werde dir helfen."
 31,2020,,"(Sono contento del riconoscimento, ma ora devo

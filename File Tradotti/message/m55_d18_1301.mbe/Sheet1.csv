@@ -1,5 +1,6 @@
 ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
-1,1392,,"Wooow, questo è quindi l'Avalon-Server! Sono per la prima volta in un server aziendale.","哇～這裡就是阿瓦隆伺服器啊！
+1,1392,,"Wooow, questo è quindi l'Avalon-Server!
+Sono per la prima volta in un server aziendale.","哇～這裡就是阿瓦隆伺服器啊！
 我還是第一次入侵企業伺服器呢。",,"와아, 여기가 아발론 서버인가.
 나, 기업 서버로 침입하는 건 처음이야","Wooow, das ist also der Avalon-Server! Ich bin zum
 ersten Mal in einem Unternehmensserver."
@@ -13,7 +14,8 @@ quindi stai molto attento.","這裡的防衛數碼寶貝很強，
 긴장 풀면 안 돼","Die Security-Digimon sind hier ziemlich stark,
 also pass gut auf."
 4,2020,,?,？？,,??,?
-5,1392,,"Come faccio a saperlo, anche se è la prima volta che mi trovo in una cosa del genere?",你問我明明是第一次來，為什麼會知道這些？,,처음인데 어째서 그런걸 아냐고?,"Woher ich das weiß, obwohl ich zum ersten Mal
+5,1392,,"Come faccio a saperlo, anche se è la prima volta che mi trovo in una
+cosa del genere?",你問我明明是第一次來，為什麼會知道這些？,,처음인데 어째서 그런걸 아냐고?,"Woher ich das weiß, obwohl ich zum ersten Mal
 in so was unterwegs bin?"
 6,1392,,"Come ho detto, condivido i ricordi con Erika.","我說過了吧，
 我現在和艾莉卡的記憶是共享的。",,"말했잖아.
@@ -21,14 +23,16 @@ in so was unterwegs bin?"
 7,1392,,"Quello che sa Erika, quindi, lo so anch'io!",因為這樣，艾莉卡知道的事情，我也會知道。,,그래서 에리카가 아는 것은 나도 아는거지,"Was Erika also weiß, weiß ich auch!"
 8,2020,,???,？？？,,???,???
 9,1392,,Come è possibile?,你問我為什麼可以辦到這種事？,,어떻게 그런게 가능하냐고?,Wie das möglich ist?
-10,1392,,La memoria di Erika viene digitalizzata e memorizzata in EDEN per trattare la sua malattia.,"因為艾莉卡的記憶被數據化，留在EDEN裡了。
+10,1392,,"La memoria di Erika viene digitalizzata e memorizzata in EDEN
+per trattare la sua malattia.","因為艾莉卡的記憶被數據化，留在EDEN裡了。
 為了要治病嘛。",,"에리카의 기억은 데이터화 해서 EDEN 속에 있거든.
 병을 치료하기 위해서 말이야","Erikas Gedächtnis wird digitalisiert und in EDEN
 gespeichert, um ihre Krankheit zu behandeln."
 11,1392,,Quindi posso accedervi.,所以才能夠和我共享。,,그래서 나와 공유화 할 수 있는거야,Deshalb kann ich darauf zugreifen.
 12,2020,,?!,！？！？,,!?!?,?!
 13,1392,,Puoi chiedermi tutto in qualsiasi momento!,有不清楚的事都可以問我喔！,,모르는 것은 뭐든지 물어도 돼!,Du kannst mich jederzeit alles fragen!
-14,1392,,Voglio esercitarmi nel recupero dati dal server di memoria di Erika e lei mi ha detto che potrei dirti tutto.,"我也想練習從「艾莉卡的記憶伺服器」取出資料嘛。
+14,1392,,"Voglio esercitarmi nel recupero dati dal server di memoria di Erika
+e lei mi ha detto che potrei dirti tutto.","我也想練習從「艾莉卡的記憶伺服器」取出資料嘛。
 而且艾莉卡也有和我說，如果你有想要知道的事，
 都可以告訴你。",,"나도 ""에리카의 기억 서버""에서 정보를 꺼내는 연습을 하고 싶고
 에리카도 네가 ""알고 싶어하면"" 대답해도 좋다고 했는걸","Ich will den Datenabruf von Erikas
@@ -46,29 +50,34 @@ Se non si fa nulla, si sforza troppo e si surriscalda.","艾莉卡的腦部無�
 방치하면 기능을 너무 사용해서 오버히트 해버린다나봐","Erikas Gehirn hat sich nicht so unter Kontrolle.
 Wenn man nichts dagegen tut, strengt es sich
 zu sehr an und wird überhitzt."
-20,1392,,"Digitalizzando le loro memorie e salvandole su un server speciale in EDEN, il carico del loro cervello viene ridotto.","好像把“記憶＂數據化，再放到EDEN特殊的伺服器，
+20,1392,,"Digitalizzando le loro memorie e salvandole su un server speciale in EDEN,
+il carico del loro cervello viene ridotto.","好像把“記憶＂數據化，再放到EDEN特殊的伺服器，
 就可以讓腦部的負荷減輕。",,"""기억""을 데이터화해서 EDEN의 특수 서버에 맡겨
 뇌에 가해지는 부담을 억제하는 거래","Indem wir ihre Erinnerungen digitalisieren und auf
 einem besonderen Server in EDEN speichern, wird
 die Auslastung ihres Gehirns reduziert."
-21,1392,,Erika è costantemente connessa al server e alle memorie tramite un dispositivo. A volte le sincronizza ed elabora dati in ospedale.,"艾莉卡會透過終端，隨時跟伺服器同步記憶……
+21,1392,,"Erika è costantemente connessa al server e alle memorie tramite un
+dispositivo. A volte le sincronizza ed elabora dati in ospedale.","艾莉卡會透過終端，隨時跟伺服器同步記憶……
 有時候還必須用醫院裡特殊的儀器，
 才能夠同步或是調整資料。",,"에리카는 단말을 통해 항상 그 서버와 기억을 링크하고 있어서…
 가끔 병원의 특수한 기계로 정보의 동기를 조정해야 해","Erika ist über ein Gerät ständig mit dem Server
 und den Erinnerungen verbunden. Sie synchronisiert
 sie manchmal und bearbeitet Daten im Krankenhaus."
-22,1392,,Questo è un trattamento speciale che possono offrire solo all'Ospedale Centrale in collaborazione con Kamishiro.,"那是只有和神代有合作關係的中央醫院，
+22,1392,,"Questo è un trattamento speciale che possono offrire solo all'Ospedale Centrale
+in collaborazione con Kamishiro.","那是只有和神代有合作關係的中央醫院，
 才能做的特殊治療。",,"카미시로와 제휴한 센트럴 병원에서밖에 못하는
 특수한 치료야","Das ist eine besondere Behandlung, die sie nur
 im Zentralkrankenhaus in Zusammenarbeit mit
 Kamishiro anbieten können."
-23,1392,,"Ehm, se li si lascia semplicemente, i segnali dal loro cervello agli organi si confondono e li indeboliscono.","嗯──如果不管它的話，
+23,1392,,"Ehm, se li si lascia semplicemente, i segnali dal loro cervello agli
+organi si confondono e li indeboliscono.","嗯──如果不管它的話，
 腦部傳送給器官的訊號會越來越奇怪，
 身體就會開始逐漸衰弱。",,"음 그게, 방치해두면 뇌에서 몸의 장기로 보내는 신호가
 점점 이상해지면서 몸의 여기저기가 약해진대","Äh, wenn man sie einfach lässt, geraten die
 Signale von ihrem Hirn zu den Organen
 durcheinander und schwächen sie."
-24,1392,,... Bene! Posso recuperare le informazioni dal server di memoria di Erika senza problemi!,"……嗯！
+24,1392,,"... Bene! Posso recuperare le informazioni dal server di memoria di
+Erika senza problemi!","……嗯！
 我好像從艾莉卡的記憶伺服器裡，成功取出資料了！",,"……응!
 에리카의 기억 서버에서 제대로 정보를 꺼낼 수 있는 것 같아","... Gut! Ich kann die Infos von Erikas
 Erinnerungsserver wohl ohne Probleme abrufen!"

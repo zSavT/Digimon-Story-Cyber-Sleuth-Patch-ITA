@@ -5,7 +5,9 @@ ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
 4,3045,,... Dove sono? ... Dov'è Ryuji?,……這是……哪裡？　……哥哥呢？,,……여긴 ……어디? ……오빠는?,... Wo bin ich? ... Wo ist Ryuji?
 5,2020,,...,…………,,…………,...
 6,3045,,"Ah... Fei mi ha quindi salvato, mh.",這樣啊……是菲救了我啊。,,그런가… 페이가 나를 구해줬구나,"Ah ... Fei hat mich also gerettet, hm."
-7,1392,,"E un dirigente di Kamishiro si è assicurato che la tua terapia proseguisse! Non è fantastico, Erika?","神代企業的高層還接手了治療喔！
+7,1392,,"E un dirigente di Kamishiro si è
+assicurato che la tua terapia proseguisse!
+Non è fantastico, Erika?","神代企業的高層還接手了治療喔！
 太好了呢，艾莉卡！",,"카미시로의 높은 사람이 에리카의 치료비도 부담해준대!
 잘됐다, 에리카!","Und eine Führungskraft von Kamishiro hat dafür
 gesorgt, dass deine Therapie weitergeht!
@@ -17,11 +19,14 @@ e aspettare. A Ryuji non resta molto tempo...","但是，不能乖乖地在這�
 오빠에게는… 이제 시간이 없을 거야","Aber ich kann nicht einfach nur hier herumsitzen
 und warten. Ryuji bleibt nicht viel Zeit ..."
 10,2020,,???,？？,,??,???
-11,3045,,Quando l'ho visto al caffè... mi sono reso conto che questo Digimon stava influenzando Ryuji.,"在店裡遇見哥哥時……哥哥他，
+11,3045,,"Quando l'ho visto al caffè...
+mi sono reso conto che questo
+Digimon stava influenzando Ryuji.","在店裡遇見哥哥時……哥哥他，
 看起來受到那數碼寶貝很嚴重的影響。",,"가게에서 만났을 때…… 오빠는
 그 디지몬의 영향을 받고 있는 걸로 보였어","Als ich ihn im Café gesehen habe ... habe ich
 gemerkt, dass dieses Digimon Ryuji beeinflusst."
-12,3045,,"Sì, forse questo Digimon sta influenzando Ryuji in qualche modo. Probabilmente è collegato al fatto che ha digievoluto all'improvviso.","不對，說不定是哥哥去影響那隻數碼寶貝的。
+12,3045,,"Sì, forse questo Digimon sta influenzando Ryuji in qualche modo.
+Probabilmente è collegato al fatto che ha digievoluto all'improvviso.","不對，說不定是哥哥去影響那隻數碼寶貝的。
 那隻數碼寶貝會突然進化，大概就是這原因。",,"아니, 오빠가 그 디지몬에게 영향을 주고 있는건지도.
 그 디지몬이 갑자기 진화한 것도 아마 그 때문","Ja, möglicherweise beeinflusst dieses Digimon
 Ryuji irgendwie. Hängt wahrscheinlich damit
@@ -33,7 +38,8 @@ lo sento e basta, in qualche modo.","這樣再拖下去，哥哥就再也回不�
 ……그런 기분이 들어","Wenn das noch lange so weitergeht, kriegen wir
 ihn nicht mehr zurück. Das ...
 spüre ich einfach irgendwie."
-14,1392,,"Sì, può darsi, ma cosa dovremmo fare? Ryuji non ci ascolta.","但是……又要怎麼做好呢？
+14,1392,,"Sì, può darsi, ma cosa dovremmo fare?
+Ryuji non ci ascolta.","但是……又要怎麼做好呢？
 我們說的全都無法傳達給龍司了。",,"하지만…… 그렇다고 해도 어떻게?
 류지에게는 우리들의 목소리가 전혀 닿지 않았어","Mag ja sein, aber was sollen wir denn machen?
 Ryuji hört ja nicht auf uns."
@@ -46,11 +52,11 @@ weitermachen."
 18,3045,,Quindi non ci resta che svegliare Chitose...,"我們能做的，就是得用各種方法，
 把千歲的意識取回來才行。",,"우리들이 할 수 있는 건 어떻게든 치토세의 의식을
 돌아오게 하는 것뿐…",Wir können also nur noch Chitose aufwecken ...
-19,3045,,Credo ancora che Chitose riesca ad arrivare a lui... Devo crederci.,"千歲說的話，一定能傳達給哥哥……
+19,3045,,"Credo ancora che Chitose ce la farà a raggiungerlo... Devo crederci.","千歲說的話，一定能傳達給哥哥……
 我只能這麼相信了。",,"치토세의 목소리라면 분명 오빠에게 닿아……
 그렇게 믿을 수밖에 없어","Ich glaube immer noch, dass Chitose zu ihm
 durchkommt ... Ich muss es glauben."
-20,1392,,"Hai ragione. Non ci resta altro. Ti aiuto, Erika!","是啊……現在只能這麼做了。
+20,1392,,"Hai ragione. Non ci rimane altro. Ti aiuto, Erika!","是啊……現在只能這麼做了。
 我也會幫忙的喔，艾莉卡！",,"그러네… 지금은 그것말곤 방법이 없으니까.
 나도 도와줄게, 에리카!","Da hast du wohl recht. Etwas anderes bleibt uns
 nicht. Ich helfe dir, Erika!"
@@ -62,15 +68,16 @@ Così troveremo sicuramente un modo per svegliare Chitose.","嗯，那個人說�
 논문을 해석하면 분명 뭔가, 치토세를 깨울 방법을 찾을 수 있을 거야","Ja. Er meinte, darin wäre ein Hinweis versteckt.
 Damit finden wir bestimmt einen Weg, Chitose
 aufzuwecken."
-23,1392,,"Allora, mettiamoci al lavoro! Ehi, hai comprato un computer, vero? Colleghiamolo!","那就得快點開始！
+23,1392,,"Allora, mettiamoci al lavoro!
+Ehi, hai comprato un computer, vero?
+Colleghiamolo!","那就得快點開始！
 你買電腦來了吧？　快點連上來連上來！",,"그렇다면 바로 시작해야겠네!
 저기, PC 사왔지? 연결해줘 연결해줘!","Dann wollen wir mal loslegen! He, du hast einen
 Computer gekauft, stimmt’s? Schließen wir ihn an!"
 24,2020,,...,…………,,…………,...
 25,3045,,... Come? Se è successo qualcosa?,……你問有沒有什麼奇怪的事？,,…뭔가 이상한 일 없었냐고?,... Wie? Ob etwas passiert ist?
-26,3045,,"... Ora che ci pensi, ho fatto uno strano
-sogno. Ero con te e... il resto non me lo
-ricordo più.","……說起來，我夢到了很真實的夢。
+26,3045,,"... Ora che me lo dici, ho fatto uno strano sogno.
+Ero da te e... il resto non me lo ricordo più.","……說起來，我夢到了很真實的夢。
 我跟你在一起……之後就不記得了。",,"……그러고보니 묘하게 리얼한 꿈을 꿨던가.
 너랑 같이 있었고…… 그 다음이 기억 안나","... Jetzt wo du’s sagst, ich hatte einen komischen
 Traum. Ich war bei dir und ... den Rest weiß

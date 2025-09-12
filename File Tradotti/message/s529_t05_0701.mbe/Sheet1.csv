@@ -3,8 +3,8 @@ ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
 2,4338,,Bene. Sua sorella si sta riposando dentro.,"那就太好了！
 我讓姊姊在店裡休息。",,"그런가, 그거 잘됐군.
 리코의 언니는 가게 안쪽에서 쉬게 했어",Gut. Ihre Schwester ruht sich drinnen aus.
-3,4338,,"Probabilmente dovrebbe andare in ospedale più tardi, giusto
-per sicurezza.","避免有個萬一，
+3,4338,,"Probabilmente dovrebbe andare in ospedale più tardi,
+giusto per sicurezza.","避免有個萬一，
 待會還是去一下醫院比較好喔。",,"나중에 병원에 가보는 편이 좋을지도 모르겠군.
 만의 하나라는 게 있으니까","Sie sollte nachher lieber ins Krankenhaus gehen,
 nur zur Sicherheit."
@@ -14,8 +14,8 @@ nur zur Sicherheit."
 5,4238,,Non sono ancora sicuro di cosa sia successo esattamente...,嗯～不管聽幾次還是不太懂……,,으음~ 몇 번을 들어도 잘 이해가 되지 않지만…,"Ich weiß immer noch nicht genau, was geschehen
 ist ..."
 6,4238,,"Da quanto ho capito, la sorella di Rico si è smarrita in
-un luogo strano creato da un mostro simile a un cane. È
-corretto?","……店長你們的意思，就是莉子和姊姊兩個人，
+un luogo strano creato da un mostro simile a un cane.
+È corretto?","……店長你們的意思，就是莉子和姊姊兩個人，
 不小心闖進那個狗狗怪物做出來的異空間，對吧？",,"…마스터의 이야기를 요약하면 리코와 언니는
 그 개 비슷한 괴물이 만들어낸 이공간에
 흘러들어가고 말았다는 건가요?","Soweit ich das verstanden habe, hat sich Ricos
@@ -44,18 +44,15 @@ habe ich noch nie gesehen."
 und manchmal nicht."
 12,4238,,Cosa intendi?,咦，這是什麼意思？,,"네? 어떻게 된 건가요, 그거",Wie meinst du das?
 13,4338,,"Ci sono un sacco di leggende metropolitane su luoghi che
-sembrano quelli veri ma sono leggermente
-diversi.","就像遇上“鬼打牆”或“不存在的車站”一樣，
+sembrano quelli veri ma sono leggermente diversi.","就像遇上“鬼打牆”或“不存在的車站”一樣，
 看似和現實一模一樣的地方，卻有“哪裡不同”。",,"이 세상에는 ""헤메이는 집""이나 도시전설의 키사라기 역 같은
 현실과 똑같지만 ""조금 다른"" 어딘가가 존재하고 있어","Es gibt viele Legenden um Orte, die echt aussehen,
 es aber nicht ganz sind."
-14,4338,,"Secondo le storie, quei posti a volte
-esistono e a volte no.",然後這類空間，常常會時而出現時而消失。,,"그러한 공간은 어느 때는 존재하고
+14,4338,,"Secondo le storie, quei posti a volte esistono e a volte no.",然後這類空間，常常會時而出現時而消失。,,"그러한 공간은 어느 때는 존재하고
 또 어느 때는 존재하지 않는 경우가 자주 있지","Diesen Erzählungen zufolge existieren diese Orte
 manchmal, und manchmal nicht."
 15,4338,,"Se qualcuno entra inavvertitamente in un posto del genere mentre
-esiste, cosa pensi che gli succederà
-una volta che scompare?","當空間出現時，如果有人不小心困在裡面，
+esiste, cosa pensi che gli succederà una volta che scompare?","當空間出現時，如果有人不小心困在裡面，
 之後空間消失掉妳覺得會怎麼樣？",,"혹시 그 공간이 존재하고 있을 때 누군가가 흘러들어
 그 후 공간이 사라져버리면 어떻게 될까?","Was meinst du, was passiert, wenn jemand dort
 hingeht, während es existiert, und es dann
@@ -91,16 +88,15 @@ involontariamente al 3.5°piano.","但是3.5樓卻出現預料外的入侵者…
 리코와 언니가 흘러들어왔다","Aber dann sind Rico und ihre Schwester
 versehentlich im 3 1/2 Stock gelandet."
 24,4338,,"Quando sua sorella è entrata nel suo letto, si è irritato
-e l'ha fatta addormentare. Ed è così che è
-scomparsa.","他覺得闖進窩裡的姊姊很煩，
+e l'ha fatta addormentare. Ed è così che è scomparsa.","他覺得闖進窩裡的姊姊很煩，
 所以抓起來讓她睡著……
 這就是姊姊會失蹤的原因。",,"그는 자신의 잠자리까지 들어온 언니를
 성가시게 생각해서 붙잡아 잠재웠다……
 그게 언니의 실종 사건의 진상이라는 거지","Als die Schwester in seinen Unterschlupf kam, hat
 es sich geärgert und sie in einen Schlaf versetzt.
 Und deshalb wurde sie vermisst."
-25,7347,,"Quindi la sorella di Rico e quel cane potrebbero essere
-scomparsi se fossero rimasti lì.","……如果姊姊和那隻狗狗一直待在那空間，
+25,7347,,"Quindi la sorella di Rico e quel cane potrebbero
+essere scomparsi se fossero rimasti lì.","……如果姊姊和那隻狗狗一直待在那空間，
 可能哪天就消失了嗎？",,"…그럼 언니도 그 멍멍이도
 계속 거기에 있었더라면 사라져버렸을지도 모르겠네?","Ricos Schwester und der Hund wären also
 möglicherweise verschwunden, wenn sie dort
@@ -111,7 +107,8 @@ geschafft."
 雖然人沒怎樣是很好啦…………",,"하지만…어째서 그 개 비슷한 괴물까지 구했나요?
 무사했으니 다행이지만…","Aber warum hast du dem hundeähnlichen Monster denn
 geholfen?"
-28,4338,,"Non ha mai avuto intenzione di fare del male. L'ha solo fatta addormentare.
+28,4338,,"Non ha mai avuto intenzione di fare del male.
+L'ha solo fatta addormentare.
 Non ha fatto male a nessuno.","因為他沒有惡意啊。
 只是讓人睡著，沒有傷害任何人。",,"그에게도 악의가 있었던 건 아니야.
 잠재웠을 뿐이고 아무에게도 해를 끼치진 않았으니까","Es wollte nie jemandem schaden. Es hat sie ja nur
@@ -133,7 +130,9 @@ dreieinhalbten Stock feststecke?"
 你連狗狗怪物都救，卻不來救我嗎！？",,"너무해요! 개 비슷한 괴물은 구해줬으면서
 저는 구해주지 않는다는 건가요!?","Was?! Du würdest dem Hundemonster helfen, aber mir
 nicht?!"
-33,4238,,Hmph! Sono così ferito! Dovresti pagarmi un risarcimento per il dolore e la sofferenza!,"嗚哇——！心好痛！
+33,4238,,"Hmph! Sono così ferito!
+Dovresti pagarmi un risarcimento per
+il dolore e la sofferenza!","嗚哇——！心好痛！
 我瞧不起你店長！要求精神賠償金！",,"우와앙! 무지무지 상처받았어요!
 마스터를 경멸해요! 위자료를 청구하겠습니다!","Hmpf! Das tut weh! Dafür solltest du mir
 Schmerzensgeld zahlen!"
@@ -147,8 +146,8 @@ Questo è quello che volevo dire.",我是想表達3.5樓已經進不去了啦！
 36,4238,,Cosa vuoi dire?,嗚嗚……這是什麼意思？,,훌쩍…어떻게 된 건가요?,Was meinst du damit?
 37,4338,,[p] ha indagato per me.,我讓[p]調查了一下……,,[p] 군에게 조사를 부탁했는데……,[p] hat das für mich untersucht.
 38,4338,,"Si è verificato un errore con il sistema di controllo quando abbiamo
-premuto i pulsanti in un certo ordine. Ha inviato un
-segnale che normalmente non verrebbe mai inviato.","只要照固定順序按下電梯按鈕，
+premuto i pulsanti in un certo ordine. Ha inviato un segnale
+che normalmente non verrebbe mai inviato.","只要照固定順序按下電梯按鈕，
 就會造成管理系統異常，
 發送平常不可能出現的信號……",,"엘리베이터의 버튼을 정해진 순서로 눌러보면
 관리 시스템이 에러를 일으켜
@@ -156,8 +155,8 @@ segnale che normalmente non verrebbe mai inviato.","只要照固定順序按下�
 als wir die Knöpfe in einer bestimmten Reihenfolge
 gedrückt haben."
 39,4338,,"Giusto, vero?",……是這樣沒錯吧？,,…그렇지?,"So war das doch, oder?"
-40,4338,,"Sospetto che sia quel segnale anomalo che ha causato
-la comparsa del 3.5°piano.",恐怕就是那個異常信號讓3.5樓出現的。,,"아마도 그 이상한 신호가 원인이 되어
+40,4338,,"Sospetto che sia quel segnale anomalo che ha
+causato la comparsa del 3.5°piano.",恐怕就是那個異常信號讓3.5樓出現的。,,"아마도 그 이상한 신호가 원인이 되어
 그 ""3.5층""이 나타난 거겠지","Das anormale Signal, das durch diese Sequenz
 gesendet wurde, hat vermutlich den 3 1/2
 Stock erscheinen lassen."
@@ -170,8 +169,8 @@ gli stessi pulsanti?","所以……
 只要照那順序按，又會搭到3.5樓去嗎……？",,"그럼……역시 같은 버튼을 누르면
 또 3.5층으로 가버리는 건가요…?","Wenn ich die gleichen Knöpfe drücke, lande ich
 also auch in in den 3 1/2 Stock?"
-43,4338,,"Non preoccuparti. [p] ha riparato il
-sistema di controllo dell'ascensore quindi non succederà più.","別擔心。
+43,4338,,"Non preoccuparti. [p] ha riparato il sistema
+di controllo dell'ascensore quindi non succederà più.","別擔心。
 為了不再發生這種事，
 已經請他修正電梯的管理系統了。",,"걱정할 필요 없어.
 두 번 다시 이런 일이 일어나지 않도록 그 애에게
@@ -183,13 +182,13 @@ repariert, sodass das nicht mehr passiert."
 46,4338,,Fortunatamente non dovrò pagare alcun risarcimento ora.,呵呵，看來不必精神賠償了。,,"휴우, 다행히 위자료는 면제받은 모양이군","Jetzt brauche ich glücklicherweise kein
 Schmerzensgeld zu zahlen."
 47,4238,,Ma non è ancora finita!,但是，話還沒講完喔！,,하지만 이야기는 아직 끝나지 않았어요!,Aber damit ist es doch noch nicht abgehakt!
-48,4238,,"Cos'era quel 3.5°piano? Perché sembrava esattamente
-come il quarto piano?","結果3.5樓到底是什麼啊！？
+48,4238,,"Cos'era quel 3.5°piano?
+Perché sembrava esattamente come il quarto piano?","結果3.5樓到底是什麼啊！？
 為什麼跟4樓一模一樣？",,"결국 그 3.5층이란 건 뭐였나요!?
 어째서 4층하고 똑같은 거죠!?","Was war denn dieser Zwischenstock genau? Warum hat
 er genauso ausgesehen wie der vierte?"
-49,4238,,"Come hanno fatto degli umani e un mostro simile a un cane proveniente da EDEN
-a rimanere intrappolati lì? E perché quel mostro era in grado
+49,4238,,"Come hanno fatto degli umani e un mostro simile a un cane proveniente
+da EDEN a rimanere intrappolati lì? E perché quel mostro era in grado
 di alterare lo spazio?!","不只人類，連EDEN的狗狗怪物都迷路進去，
 太莫名奇妙了吧！
 還有，為什麼那個怪物可以改造空間！？",,"인간뿐 아니라 EDEN에서 개 비슷한 괴물이
@@ -202,8 +201,7 @@ den Raum umgestalten?"
 산더미처럼 있다구~ 삿짱","Diese Welt steckt voller Geheimnisse, Sacchan."
 52,4238,,Questo non spiega niente. Non è sufficiente!,咦——這種說明我才不接受啦～！,,"에이잇~ 그런 설명으론
 전혀 납득이 되지 않잖아요~!",Das erklärt gar nichts. Das reicht mir nicht!
-53,4338,,"Dovremmo solo essere contenti che la sorella di Rico sia sana
-e salva.","好了好了，也順利救出莉子的姊姊，
+53,4338,,"Dovremmo solo essere contenti che la sorella di Rico sia sana e salva.","好了好了，也順利救出莉子的姊姊，
 就這麼告一段落也好呀。",,"자자. 리코의 언니도 구했으니
 한 건 해결이란 걸로 충분하잖아","Wir sollten einfach froh sein, dass Ricos
 Schwester wohlbehalten zurück ist."
@@ -232,8 +230,7 @@ allen gut geht."
 3.5°piano per ora.",……說真的，其實我覺得3.5樓是什麼都無所謂。,,"……난 말이지. 그 3.5층이 뭐든지 간에
 그런 건 아무래도 좋다는 생각이 들어","Ich glaube, ich versuche dieses ganze Zeug mit dem
 3 1/2 Stock erst mal zu vergessen."
-63,4238,,"Davvero? Come puoi lasciare così tante domande
-senza risposta?","你在說什麼啊？
+63,4238,,"Davvero? Come puoi lasciare così tante domande senza risposta?","你在說什麼啊？
 難道是想草草了事嗎？",,"어째서인가요? 그건
 혹시 이야기를 대충 마무리하려고 하는 건가요?","Wirklich? Wie kannst du denn so viele Fragen
 einfach offen lassen?"

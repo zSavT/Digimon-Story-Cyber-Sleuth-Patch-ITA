@@ -1,7 +1,8 @@
 ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
 1,1392,,Erika ...,艾莉卡……,,에리카…,Erika ...
 2,2020,,...?,……？,,……?,...?
-3,1392,,"Ehi! Ascolta! Erika ha commesso una stupidaggine, mentre non stavo attento!","啊！　聽我說聽我說──！
+3,1392,,"Ehi! Ascolta!
+Erika ha commesso una stupidaggine, mentre non stavo attento!","啊！　聽我說聽我說──！
 艾莉卡真是的！
 趁我稍微沒注意的時候又亂來了……！",,"아! 들어봐!
 에리카가 내가 눈을 뗀 사이에 또 무리를……!","He! Hör zu! Erika hat eine Dummheit begangen,
@@ -16,7 +17,9 @@ leicht an."
 10,1392,,Erika ha chiesto al medico un farmaco molto forte.,艾莉卡真是的，強迫醫生開藥劑很強的處方給她。,,"에리카가 의사 선생님에게 억지를 부려서
 굉장히 강한 처치를 받았어","Erika hat den Arzt um ein sehr starkes
 Medikament gebeten."
-11,1392,,"Ho dimenticato il nome completo. Fa sparire i sintomi per un po', ma non si sa mai quando torneranno!","因為在講很難的內容所以我聽不太懂……
+11,1392,,"Ho dimenticato il nome completo.
+Fa sparire i sintomi per un po',
+ma non si sa mai quando torneranno!","因為在講很難的內容所以我聽不太懂……
 雖然能一時的減輕症狀，
 但不曉得之後哪天會不會引起副作用……！",,"어려운 말은 잘 모르겠지만…
 일시적으로 병이 가벼워지는 대신 언제 악화될지
@@ -24,7 +27,8 @@ Medikament gebeten."
 Symptome eine Weile verschwinden, aber man weiß
 nie, wann sie zurückkehren!"
 12,2020,,...!,……！,,…!,...!
-13,3045,,Hai insistito che mi facessi curare. È proprio quello che ho fatto. Non puoi lamentarti.,"不惜把我弄暈也要我去做治療的人是你吧。
+13,3045,,"Hai insistito che mi facessi curare.
+È proprio quello che ho fatto. Non puoi lamentarti.","不惜把我弄暈也要我去做治療的人是你吧。
 依你期望，我好好接受治療了。就不要發牢騷了。",,"실신시키면서까지 치료를 받게 한 건 너잖아.
 바라는 대로 제대로 치료를 받았으니까 불평하지 마","Du hast darauf bestanden, dass ich mich behandeln
 lasse. Genau das habe ich getan. Du kannst dich
@@ -46,7 +50,8 @@ gefunden. Sag mir, wo es ist."
 21,1392,,"Se te lo dico, te ne vai.",……如果我說了，艾莉卡就會跑去那裡了！,,……말하면 에리카는 거기로 갈 거잖아,"Wenn ich es dir sage, gehst du."
 22,3045,,Sì – proprio per questo ho fatto i Bits!,我就是為了這樣才做出位元！,,그러려고 비트를 만들었으니까,Ja – genau deshalb habe ich die Bits doch gemacht!
 23,1392,,No! Rimani in ospedale!,不行！　艾莉卡要好好待在醫院！,,안돼! 에리카는 병원에 있어야 해!,Nein! Bleib im Krankenhaus!
-24,1392,,Chitose non può ancora venire. [p] e io andremo ad affrontare l'Arkadimon!,"千歲也還不能動……
+24,1392,,"Chitose non può ancora venire.
+[p] e io andremo ad affrontare l'Arkadimon!","千歲也還不能動……
 就由我跟[p]，兩個人一起打倒阿卡迪獸！",,"치토세도 아직 움직일 수 없고…
 나와 [p] 둘이서
 알카디몬을 쓰러뜨릴 테니까!","Chitose kann auch noch nicht gehen. [p] und ich
@@ -80,7 +85,8 @@ retten will."
 40,3045,,È l'unica cosa che posso fare per lui.,我能為哥哥做的，就只有這個而已。,,"내가 오빠에게 해줄 수 있는 일은
 이제 이것 말곤 없어","Es ist das Einzige, was ich für ihn tun kann."
 41,2020,,...!,…………！,,…………!,...!
-42,3045,,Lo so. Il dottore me l'ha detto. Per questo ho chiesto una medicina così forte.,"……我知道喔。我從醫生那邊聽說了。
+42,3045,,"Lo so. Il dottore me l'ha detto.
+Per questo ho chiesto una medicina così forte.","……我知道喔。我從醫生那邊聽說了。
 所以，才要求了藥劑比較強的處方嘛。",,"……알고있어. 의사 선생님에게서 들었으니까.
 그러니까 강한 처방을 받은 거야","Ich weiß. Der Arzt hat es mir gesagt. Darum habe
 ich um ein so starkes Medikament gebeten."
@@ -107,7 +113,8 @@ Und ich hasse dich, aber ich liebe dich."
 분명 이게 인간의 마음이겠지","Es ergibt keinen Sinn und ich weiß nicht,
 was es bedeutet. Das muss ein menschliches
 Gefühl sein."
-56,1392,,"Vengo con te. Sei troppo testardo, perché io possa lasciarti andare da solo.","……我也要一起去，
+56,1392,,"Vengo con te.
+Sei troppo testardo, perché io possa lasciarti andare da solo.","……我也要一起去，
 無法放這種頑固的傢伙一個人啊。",,"……나도 같이 갈래.
 이런 고집쟁이를 혼자 둘 순 없으니까","Ich komme mit. Du bist zu stur, als dass ich dich
 allein gehen lassen könnte."
@@ -122,7 +129,8 @@ Du stimmst mir doch zu, nicht wahr?"
 現在的話，覺得什麼都做得到了。",,"……응.
 지금이라면 뭐든 할 수 있겠다는 기분이 들어","Jetzt komme ich mir vor, als könnte ich
 alles erreichen."
-61,3045,,Andiamo! Questa volta recupereremo mio fratello definitivamente... e anche Hudie!,"…走吧！
+61,3045,,"Andiamo!
+Questa volta recupereremo mio fratello definitivamente... e anche Hudie!","…走吧！
 這次絕對要把哥哥……把hudie給奪回來！",,"…가자!
 이번에야말로 오빠를…… 후디에를 되찾는 거야!","Gehen wir! Dieses Mal holen wir meinen Bruder
 definitiv zurück ... und Hudie auch!"

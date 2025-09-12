@@ -4,12 +4,15 @@ ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
 妳也是來參加的嗎？",,"그쪽은 누구지?
 댁도 참가해 주는 건가?",Wer bist du denn? Hilfst du auch mit?
 3,3045,,...,…………,,…………,...
-4,1392,,"Questa è la sorellina di Ryuji, Erika! E io sono il suo compagno, Wormmon! È un piacere!","她是龍司的妹妹艾莉卡喔！
+4,1392,,"Questa è la sorellina di Ryuji, Erika!
+E io sono il suo compagno, Wormmon! È un piacere!","她是龍司的妹妹艾莉卡喔！
 我是她的夥伴蟲蟲獸！ 請多指教喔！",,"류지의 여동생 에리카야!
 나는 에리카의 파트너인 추추몬! 잘 부탁해!","Das ist Ryujis kleine Schwester Erika! Und ich bin
 ihr Begleiter, Wormmon! Ist mir ein Vergnügen!"
 5,1805,,... Si sta presentando un Digimon?,……為什麼會是數碼寶貝來自我介紹啊？,,…왜 디지몬에게 자기소개를 시키는 거지?,... Stellt sich da gerade ein Digimon vor?
-6,1805,,"La sorella di Ryuji, eh? Ho sentito parlare di te, ma non ci siamo mai incontrati.","龍司的妹妹啊，
+6,1805,,"La sorella di Ryuji, eh?
+Ho sentito parlare di te, ma
+non ci siamo mai incontrati.","龍司的妹妹啊，
 雖然我知道他有妹妹，但還是第一次見面呢。",,"류지의 여동생인가.
 있다는 건 알았지만 만나는 건 처음이로군","Ryujis Schwester, wie? Ich habe von dir gehört,
 aber wir haben uns nie getroffen."
@@ -51,34 +54,42 @@ Altrimenti, il prossimo sarà uno di noi...","拜託你……老實的說「是�
 Sonst ist einer von uns als Nächstes dran ..."
 19,1805,,"... Ehm, sì.",……是、是。,,"……네, 네에","... Äh, ja."
 20,1805,,"Bene, allora spiego il piano.",那麼，我就快速地說明一下計畫。,,"그럼, 팍팍 계획을 설명하지","Gut, dann erkläre ich den Plan."
-21,1805,,"L'obiettivo principale è staccare l'alimentazione nell'amministrazione centrale, di cui Kishibe ha bisogno per il suo piano.","計畫的大目標，是要阻止岸部的計畫中
+21,1805,,"L'obiettivo principale è staccare l'alimentazione
+nell'amministrazione centrale, di cui Kishibe
+ha bisogno per il suo piano.","計畫的大目標，是要阻止岸部的計畫中
 所不可或缺的，對新都廳的電力供給。",,"계획의 대목적은 키시베의 계획에 불가결한
 신 도청의 전력 공급을 저지하는 거야","Das Hauptziel besteht darin, den Saft in der
 Zentralverwaltung abzudrehen, den Kishibe für
 ihren Plan braucht."
-22,1805,,"Per fare ciò, dobbiamo causare un blackout a Tokyo. Ma non è che taglieremo completamente la corrente...","因此，得讓東京陷入停電。
+22,1805,,"Per fare ciò, dobbiamo causare un blackout a Tokyo.
+Ma non è che taglieremo completamente la corrente...","因此，得讓東京陷入停電。
 說是東京，但也不是讓全東京都失去電力喔。",,"이를 위해서 도쿄 전체를 정전시킨다.
 도쿄 전체라곤 해도 도시의 모든 전력을 내리는 건 아니야","Dazu müssen wir einen Stromausfall in Tokio
 verursachen. Aber ist ja nicht so, als würden wir
 komplett den Strom abdrehen ..."
-23,1805,,Dobbiamo solo hackerare la centrale principale e interrompere temporaneamente l'alimentazione.,"我們只要入侵主要都市發電廠，
+23,1805,,"Dobbiamo solo hackerare la centrale principale
+e interrompere temporaneamente l'alimentazione.","我們只要入侵主要都市發電廠，
 讓電力供給中斷一段時間就夠了。",,"주요 도시의 발전소를 해킹해서 전력 공급을 일시적으로
 차단하기만 해도 충분해","Wir müssen nur das Hauptkraftwerk hacken und die
 Versorgung vorübergehend unterbrechen."
-24,1805,,"Ma me ne occuperò con i miei compagni.
-Voi dovete prendere il controllo del server della centrale elettrica di Roppongi.","但是，那邊就由我和我的夥伴們負責，
+24,1805,,"Ma me ne occuperò con i miei compagni. Voi dovete prendere
+il controllo del server della centrale elettrica di Roppongi.","但是，那邊就由我和我的夥伴們負責，
 我想拜託你們去負責「六本木發電廠伺服器」。",,"뭐, 그쪽은 나나 내 동료가 대응할거야.
 댁들이 내려줬으면 하는 건「롯폰기 발전소 서버」다","Aber darum kümmere ich mich mit meinen Kameraden.
 Ihr sollt den Server des Kraftwerks von
 Roppongi übernehmen."
-25,1805,,"A Roppongi, oltre alla centrale elettrica cittadina, c'è un grande produttore di energia indipendente di una certa compagnia. Ti mando l'URL.","在六本木，除了都立發電所以外，
+25,1805,,"A Roppongi, oltre alla centrale elettrica cittadina,
+c'è un grande produttore di energia indipendente
+di una certa compagnia. Ti mando l'URL.","在六本木，除了都立發電所以外，
 還有某企業所營運的大型獨立發電系統。
 ……URL我轉發給你們了。",,"롯폰기에는 도시의 발전소 외에도 어느 기업이 운영하고 있는
 대형 독립 발전소 시스템이 있거든.
 ……URL, 전송할게","In Roppongi gibt es außer dem städtischen
 Kraftwerk einen großen unabhängigen Stromerzeuger
 einer bestimmten Firma. Ich schick dir die URL."
-26,1392,,"Perché finché quello è in funzione, la sede centrale riceverà ancora corrente, anche se spegniamo la centrale elettrica.","就算攻陷了其他地方，只要那邊還能運作，
+26,1392,,"Perché finché quello è in funzione,
+la sede centrale riceverà ancora corrente,
+anche se spegniamo la centrale elettrica.","就算攻陷了其他地方，只要那邊還能運作，
 就能和新都廳共享電力是嗎？",,"다른 곳을 내린다고 해도 거기가 살아있으면
 신 도청에 전력이 공급되고 만다는 거네","Solange das nämlich läuft, kriegt die
 Zentralverwaltung noch Strom, auch wenn wir das
@@ -92,7 +103,8 @@ das Stromnetz ausschaltest."
 30,1805,,Sì. Per questo hackeremo la sicurezza di tutte le centrali elettriche.,沒錯。所以，我們正在入侵所有的發電廠防範措施。,,"아아. 그러니까 모든 발전소의 보안에
 해킹을 걸 거야","Ja. Deshalb werden wir die Security für alle
 Kraftwerke hacken."
-31,1805,,"Appena avremo preso il controllo dei sistemi di sicurezza, potrai entrare. Non ci vorrà molto, quindi aspetta semplicemente.","奪取到防範措施的控制權後，便開始入侵。
+31,1805,,"Appena avremo preso il controllo dei sistemi di sicurezza, potrai entrare.
+Non ci vorrà molto, quindi aspetta semplicemente.","奪取到防範措施的控制權後，便開始入侵。
 馬上就好了，再等一下喔。",,"보안의 제어를 빼앗으면 침입 개시다.
 금방 끝나니까 기다려줘","Sobald wir die Sicherheitssysteme übernommen
 haben, kannst du einbrechen. Das wird nicht mehr
@@ -102,9 +114,11 @@ Sicherheitssysteme alleine?"
 33,1805,,"Potrei non sembrarlo, ma ero nello stesso team di tuo fratello, vero?",別看我這樣，我從前跟妳哥是同一隊伍喔。,,이래 봬도 댁의 오빠와 같은 팀이었다고?,"Ich sehe vielleicht nicht danach aus, aber ich war
 im gleichen Team wie dein Bruder, ja?"
 34,1805,,"... Okay, è fatto.",……哦哦，完成了。,,"……엇차, 완료다","... Okay, ist erledigt."
-35,1805,,Nelle profondità del server dovrebbe esserci un punto d'accesso. Aspettate lì il mio segnale.,"在伺服器的深處，應該有電源的登入點在，
+35,1805,,"Nelle profondità del server dovrebbe esserci un
+punto d'accesso. Aspettate lì il mio segnale.","在伺服器的深處，應該有電源的登入點在，
 你們到了之後，就在那待命等我的信號。",,"서버 최심부에 전원 액세스 포인트가 있을 거야.
 도착하면 대기하면서 신호를 기다려","Tief im Inneren des Servers sollte es einen
 Zugangspunkt geben. Wartet dort auf mein Zeichen."
-36,1805,,Ci faremo sentire non appena avremo disattivato la riserva di emergenza.,我這邊關閉緊急用的輔助電源後，就會跟你們聯絡。,,내 쪽에서 긴급용 보조전원을 내리면 연락할게,"Wir melden uns, sobald wir die Notreserve
+36,1805,,"Ci faremo sentire non appena avremo
+disattivato la riserva di emergenza.",我這邊關閉緊急用的輔助電源後，就會跟你們聯絡。,,내 쪽에서 긴급용 보조전원을 내리면 연락할게,"Wir melden uns, sobald wir die Notreserve
 ausgeschaltet haben."

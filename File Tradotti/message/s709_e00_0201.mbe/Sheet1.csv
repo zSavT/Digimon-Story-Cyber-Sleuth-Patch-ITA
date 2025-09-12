@@ -9,13 +9,14 @@ il tuo allenamento.","你應該也覺得不夠吧？
 ……오늘도 항상 하던 특훈을 하고 가지예","Und vor dir liegt noch viel Arbeit. Setzen wir
 dein Training fort."
 3,3012,,Per oggi è tutto.,……好了，今天就到此為止。,,"……자, 오늘은 이만하도록 하지요",Das wäre alles für heute.
-4,3012,,Vedo che il tuo allenamento sta dando i suoi frutti. Riesci a sentirne gli effetti?,"每次你叫我過來幫忙時，我都有在觀察。
+4,3012,,"Vedo che il tuo allenamento sta dando i suoi frutti.
+Riesci a sentirne gli effetti?","每次你叫我過來幫忙時，我都有在觀察。
 你有感受到特訓的成果了嗎？",,"도우미로 불러줄 때마다 봐주고 있는데,
 특훈의 성과는 느껴집니꺼?","Ich kann sehen, dass dein Training sich bezahlt
 macht. Spürst du die Wirkung?"
 5,3012,,...Capisco.,……這樣啊。,,……그렇습니꺼,... Verstehe.
-6,3012,,"Penso che ti manchi fiducia. La fiducia per vincere
-e la fiducia per diventare più forte.","我想，應該是你的信念還不夠。
+6,3012,,"Penso che ti manchi fiducia. La fiducia per
+vincere e la fiducia per diventare più forte.","我想，應該是你的信念還不夠。
 想要贏、想要變得更強的那股信念。",,"내가 생각하기에 당신에겐 신념이 부족합니더.
 이기기 위한, 강해지기 위한 신념이","Ich glaube, dir fehlt Selbstvertrauen. Der Glaube
 daran, dass du gewinnen und stärker werden
@@ -50,12 +51,13 @@ per la squadra?","隊伍的夥伴、棲身之處，在隊伍跟大家度過的�
 그런 팀에 대한 생각 전부……아닙니꺼?","Oder die Menschen, Orte und Erinnerungen an eure
 gemeinsam verbrachte Zeit? All deine Gefühle für
 das Team?"
-12,3012,,Anch'io la penso allo stesso modo riguardo a Zaxon. E sono sicuro che anche il nostro leader la pensa così.,"我也對Zaxon抱持著同樣的想法。
+12,3012,,"Anch'io la penso allo stesso modo riguardo a Zaxon.
+E sono sicuro che anche il nostro leader la pensa così.","我也對Zaxon抱持著同樣的想法。
 ……隊長也一定是，這麼想的。",,"저도 잭슨에 대해 비슷한 마음을 안고 있지요.
 ……그건 아마 리더도 마찬가지일 겁니더","Genau so geht es mir mit Zaxon. Und ich bin
 sicher, unserem Anführer ebenfalls."
-13,3012,,"Per proteggere la squadra... Sembra ovvio, ma è
-da tanto che non mi fermo a pensare
+13,3012,,"Per proteggere la squadra... Sembra ovvio,
+ma è da tanto che non mi fermo a pensare
 a tutto quello che è successo.","為了守護隊伍嗎……
 雖然我認為是理所當然的事，
 但感覺很久沒回想起這種事了啊。",,"팀을 지키기 위해서, 라……. 당연한 거라고 생각했지만
@@ -101,8 +103,8 @@ prima, e mi hai colto alla sprovvista!","唉……我沒想過你會說出這種
 而且還那麼突然，希望你別再這樣了……！",,"에휴……이런 소릴 들을 줄은 몰랐군예.
 게다가 허를 찌르다니, 좀 봐주시지요……!","Ich dachte nicht, dass du so etwas sagen würdest.
 Überrasch mich doch nicht so?!"
-23,3012,,"Questo discorso è durato abbastanza. È ora
-che vada.","……好像說太多了啊，
+23,3012,,"Questo discorso è durato abbastanza.
+È ora che vada.","……好像說太多了啊，
 差不多該回去了。",,"……너무 많이 떠든 것 같군예.
 슬슬 돌아가기로 할까요.","Diese Unterhaltung dauert schon lange genug. Ich
 muss weg."

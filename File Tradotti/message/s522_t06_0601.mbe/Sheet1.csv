@@ -4,8 +4,7 @@ ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
 你是來幫她取貨的對嗎？",,"미레이 씨에게서 부탁받은 걸 가져왔는데
 네가 받으러 온 사람이지?","Ich hab Mireis Zeug dabei. Biste hier, um’s
 abzuholen?"
-3,7195,,"Piacere di conoscerti! Ecco le alghe che
-ha ordinato!","能見到你真好──！
+3,7195,,"Piacere di conoscerti! Ecco le alghe che ha ordinato!","能見到你真好──！
 那這裡就是她訂購的「海葡萄」！",,"만나서 다행이다!
 그럼, 이쪽이 주문하신「바다포도」가 되겠습니다!","Habe die Ehre! Hier sind die Meertrauben, die se
 bestellt hat."
@@ -14,8 +13,8 @@ Sembrano disgustose.","海葡萄到底是什麼？
 海裡也有葡萄嗎……",,"포도를 부탁한 적은 없는데요?
 쿠비레즈타를 부탁받았는데요……","Was sind denn Meertrauben überhaupt?
 Klingt eklig."
-5,7195,,"Accipicchia, giovanotto! Non hai mai sentito parlare di uva di mare?! Allora
-te ne parlerò io per filo e per segno!","哈哈～少年！
+5,7195,,"Accipicchia, giovanotto! Non hai mai sentito parlare di uva di mare?!
+Allora te ne parlerò io per filo e per segno!","哈哈～少年！
 你對「海葡萄」一無所知呢！？
 讓叔叔我來好好教教你！",,"아항~ 소년!
 「바다포도」를 전혀 모르는구나!?
@@ -51,8 +50,8 @@ le fantastiche spiagge e l'ottimo cibo locale!","……所以說，如果有機�
 아저씨도 추천할게~!","Wenn de also mal in Okinawa bist, kann ich dir d’
 Strände und’s Essen ans Herz legen!"
 13,7195,,Uff...,呼……,,후우……,Puh ...
-14,7195,,"Comunque, porgi i miei saluti a Mirei! Aspetterò il
-suo prossimo ordine!","那就代替我向米蕾問好啦！
+14,7195,,"Comunque, porgi i miei saluti a Mirei!
+Aspetterò il suo prossimo ordine!","那就代替我向米蕾問好啦！
 期待你下次的訂購！",,"그럼, 미레이 씨에게 잘 부탁해!
 다음 주문을 기다리고 있겠습니다~!","Grüß Mirei jedenfalls lieb von mir! Ich wart dann
 mal auf de nächste Bestellung!"
@@ -67,7 +66,8 @@ echt ein Ohr ab."
 這次是最後的委託了。",,"덕분에 질 좋은 쿠비레즈타를 입수했으니
 다음이 마지막 부탁이 되겠네","Wenigstens habe ich jetzt die Meertrauben.
 Nun fehlt nur noch eine Zutat."
-18,3013,,"È uova di merluzzo fresco di prima qualità, ma non ho mai usato questo fornitore prima.","這間雖然是「高級明太子」的供應商，
+18,3013,,"È uova di merluzzo fresco di prima qualità,
+ma non ho mai usato questo fornitore prima.","這間雖然是「高級明太子」的供應商，
 但我是第一次向這家店訂購。",,"「극상의 명란젓」을 사려는 가게는
 이번에 처음 이용하는 가게야","Bester Pollackrogen. Aber ich habe diesen
 Zulieferer noch nie genutzt."
@@ -78,14 +78,12 @@ ma ho trovato una risposta Digimon sul server.","原本以為只是普通的網�
 aber dann habe ich eine Digimonreaktion auf dem
 Server bemerkt."
 20,3013,,"Sospetto che possa essere un hacker. E quando ho scavato
-un po' più a fondo, ho trovato qualcosa di ancora più
-interessante.","這種事情，如果不是駭客根本不會注意到對吧？
+un po' più a fondo, ho trovato qualcosa di ancora più interessante.","這種事情，如果不是駭客根本不會注意到對吧？
 而且調查之後，發現了更有趣的事。",,"그런 건 해커가 아니면 알아차릴 수 없겠지.
 게다가 조사를 해보고 더 재미있는 사실을 알았어","Ich vermute, dass es ein Hacker ist. Und als ich
 genauer hingesehen habe, habe ich etwas noch
 Interessanteres gefunden."
-21,3013,,"Sembra stia vendendo qualcosa di insolito sul suo
-server.","這家店的網站伺服器內，
+21,3013,,"Sembra stia vendendo qualcosa di insolito sul suo server.","這家店的網站伺服器內，
 好像有特別的買賣喔。",,"그 가게는 사이트 서버 내에서
 특별 판매를 하고 있다나봐","Er scheint etwas Ungewöhnliches auf seinem Server
 zu verkaufen."
@@ -113,8 +111,8 @@ che io sia?","……你問我怎麼知道你什麼時候入侵？
 呵呵，你以為我是誰呢？",,"……내가 언제 침입했는지 알 수 있냐고?
 후후, 나를 누구라고 생각하는 거야?","Wie ich weiß, wann du drin bist? Hehe, für wen
 hältst du mich?"
-26,3013,,"Okay, signor Hacker, vada a prendermi le mie uova di merluzzo carbonaro di prima scelta.
-Sarò in attesa.","來吧，駭客先生。
+26,3013,,"Okay, signor Hacker, vada a prendermi le mie uova
+di merluzzo carbonaro di prima scelta. Sarò in attesa.","來吧，駭客先生。
 我很期待你能順利為我帶回高級明太子喔。",,"자, 해커 씨.
 극상의 명란젓, 무사히 입수해줘.
 기대하며 기다릴게","So, mein lieber Hacker, jetzt hol mir meinen

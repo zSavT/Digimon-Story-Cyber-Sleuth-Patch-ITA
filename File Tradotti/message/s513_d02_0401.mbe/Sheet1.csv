@@ -1,6 +1,7 @@
 ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
 1,3047,,Ben fatto.,……做得很好嘛。,,……제법인걸,Gute Arbeit.
-2,3047,,Sei diventato molto più forte da quando ti sei unito a noi. Sono sicuro che lo sai già.,"你自己有察覺到嗎？
+2,3047,,"Sei diventato molto più forte da quando ti sei unito a noi.
+Sono sicuro che lo sai già.","你自己有察覺到嗎？
 你跟一開始來到我們這裡時，
 已經強到無法相比了。",,"이봐, 스스로도 깨닫고 있어?
 넌 우리에게 왔을 때와는 비교도 되지 않을
@@ -43,7 +44,8 @@ Sogar jetzt schlafe ich nur im Krankenhaus ..."
 11,3047,,Sono assolutamente patetico!,這樣的我……不是很沒用嗎……！,,"이래선……너무 한심하잖아, 나…!",Ich bin absolut erbärmlich!
 12,2020,,...,…………,,…………,...
 13,3047,,Devo arrivare al tuo livello.,所以，我必須趕快追上你才行。,,그러니 빨리 너를 따라잡아야만 해,Ich muss dein Niveau erreichen.
-14,3047,,Altrimenti non credo che riuscirei nemmeno a sopportare di guardarmi allo specchio.,"要不然，之後我可沒辦法挺胸說出
+14,3047,,"Altrimenti non credo che riuscirei nemmeno a sopportare di
+guardarmi allo specchio.","要不然，之後我可沒辦法挺胸說出
 我是你的「前輩」啊……",,"그렇지 않으면 앞으로
 네 앞에서 가슴을 펴고「선배」같은 말은 할 수 없을 테고……","Wie soll ich mir sonst je wieder selbst in die
 Augen blicken können."
@@ -58,7 +60,8 @@ sollte!"
 18,3047,,È...Digievoluzione?,這是……進化嗎？,,이거……진화인가?,Ist das ... Digitation?
 19,3047,,Mi stanno rispondendo.,這樣啊……是想要回應我嗎……,,그런가…내 마음에 답해줬구나…,Sie reagieren auf mich.
 20,3047,,Ankylomon...,戰甲獸……,,황금아르마몬……,Ankylomon ...
-21,3047,,"Se non fosse stato per te, forse non mi sarei mai svegliato dalla Sindrome di EDEN.","如果沒有你的話，我可能會因為
+21,3047,,"Se non fosse stato per te, forse non mi sarei mai svegliato
+dalla Sindrome di EDEN.","如果沒有你的話，我可能會因為
 EDEN症候群還沒醒過來吧。",,"네가 없었다면 나는 EDEN 증후군에 걸린 채로
 눈을 뜨지 못했을지도 몰라","Wenn du nicht gewesen wärst, wäre ich vielleicht
 nie vom EDEN-Syndrom aufgewacht."
@@ -66,7 +69,8 @@ nie vom EDEN-Syndrom aufgewacht."
 ……謝謝啦。",,"아무리 감사해도 모자랄 정도야.
 ……고마워","Ich kann gar nicht sagen, wie sehr ich das zu
 schätzen weiß. Danke."
-23,3047,,E Angemon... Sono onorato che tu abbia deciso di combattere al mio fianco.,"而且，天使獸……
+23,3047,,"E Angemon... Sono onorato che tu abbia deciso di combattere
+al mio fianco.","而且，天使獸……
 你也做出了想跟我一起戰鬥的決心了啊。",,"그리고 엔젤몬……
 너도 나와 함께 싸울 결의를 해줬구나","Und Angemon ... Ich fühle mich geehrt, dass du
 beschlossen hast, an meiner Seite zu kämpfen."
@@ -91,8 +95,7 @@ che aspetta.","雖然我沒告訴你，其實我還讓
 另一位客人在旁等著喔。",,"너에겐 아무 말도 하지 않았지만 실은 또 한 명
 손님을 불러뒀거든","Ich habe es dir nicht erzählt, aber tatsächlich
 wartet ein Klient auf mich."
-33,3047,,"Sei lì, vero?! Cosa ne pensi del mio
-nuovo Digimon?!","……呦，妳在那裡對吧！？
+33,3047,,"Sei lì, vero?! Cosa ne pensi del mio nuovo Digimon?!","……呦，妳在那裡對吧！？
 怎麼樣呀？　我的新數碼寶貝！",,"……이봐, 거기 있지!?
 어때? 내 새로운 디지몬은!","Du bist dort drüben, oder?! Wie gefällt dir
 mein neues Digimon?!"
@@ -112,7 +115,8 @@ Agumon e Gabumon!","嗯！　這孩子的名字是……奧米加獸！
 아구몬과 파피몬이 진화한 모습이야!","Ja. Sein Name ist Omnimon! Es ist aus Agumon und
 Gabumon digitiert!"
 41,3002,,"Chitose, mi dispiace.",……千歲，抱歉啊。,,"……치토세, 미안","Chitose, es tut mir leid."
-42,3002,,Ne ho passate tante da Under Zero. Non avevo nemmeno idea che avessi sviluppato la Sindrome di EDEN.,"我自從在Under Zero之後，發生了很多事情。
+42,3002,,"Ne ho passate tante da Under Zero. Non avevo nemmeno idea che avessi
+sviluppato la Sindrome di EDEN.","我自從在Under Zero之後，發生了很多事情。
 你變成EDEN症候群的事也完全不曉得。",,"난 언더 제로 사건 후 이런저런 일이 있어서
 네가 EDEN 증후군에 걸렸다는 걸 전혀 몰랐어","Ich habe seit Unter Null viel durchgemacht. Ich
 wusste nicht einmal, dass du das EDEN-Syndrom
@@ -133,8 +137,7 @@ und mitzuhelfen."
 46,3047,,"E sono tornato ora, grazie ai miei amici.",也多虧了有夥伴，我現在能這樣回來了。,,동료 덕분에 이렇게 돌아올 수도 있었으니까,"Und jetzt bin ich zurück, dank meiner Freunde."
 47,3002,,Ma...,但是……,,하지만…,Aber ...
 48,3047,,Dai! Basta con questa storia!,喂喂，不要這樣子啦！,,"어이어이, 그만하자구!",Komm schon! Lass gut sein.
-49,3047,,"Non ti ho chiamato qui solo per parlare di queste
-cose noiose!","我會叫妳過來，可不是為了要聊
+49,3047,,"Non ti ho chiamato qui solo per parlare di queste cose noiose!","我會叫妳過來，可不是為了要聊
 這麼死板的事情的！",,"너를 부른 건 그런 시시한 대화를
 하고 싶어서가 아니니까!","Ich habe dich nicht hergerufen, um mit dir über
 diesen langweiligen Kram zu reden!"
@@ -152,7 +155,8 @@ entschuldigen."
 雖然千歲已經先跟你說了……",,"[p] 군…있잖아.
 치토세와는 아까 얘기했는데…","[p] ... Ich habe es Chitose schon einmal
 gesagt ..."
-54,3002,,Io e i miei amici dobbiamo andare a combattere un nemico estremamente potente ora.,"我們從現在開始，必須跟夥伴一起
+54,3002,,"Io e i miei amici dobbiamo andare a combattere un nemico estremamente
+potente ora.","我們從現在開始，必須跟夥伴一起
 打倒非常強的敵人才行。",,"우리는 지금부터 동료와 함께 엄청나게 강한 적과
 싸우러 가야만 해","Meine Freunde und ich müssen jetzt einen extrem
 mächtigen Feind zum Kampf stellen."
@@ -173,9 +177,9 @@ beschützt, während wir kämpfen."
 58,3002,,Quindi voglio che mi mostri di cosa è capace Hudie adesso!,"為此……希望你也可以讓我見識一下
 現在hudie的實力！",,그러기 위해…지금의 후디에의 실력을 나에게 보여달라고!,"Also will ich, dass er mir zeigt, wozu Hudie
 inzwischen imstande ist!"
-59,3002,,"Dopo aver visto il suo Digimon Digievolvere in quel modo, sono
-sicuro della sua determinazione e che il suo amore per
-i suoi Digimon sia sincero.","讓數碼寶貝進化的千歲的決心，
+59,3002,,"Dopo aver visto il suo Digimon Digievolvere in quel modo,
+sono sicuro della sua determinazione e che il suo
+amore per i suoi Digimon sia sincero.","讓數碼寶貝進化的千歲的決心，
 我已經充分感受到了。
 對於數碼寶貝們的愛的力量，也是真的沒錯。",,"디지몬을 진화시킨 치토세의 결의는 충분히 확인했어.
 디지몬들을 향한 러브의 힘도 진짜라는 걸","Nachdem ich gesehen habe, wie sein Digimon so
@@ -196,8 +200,7 @@ Kampf auf die Probe stellen!"
 너한테 부탁하고 싶던 진짜 의뢰는……이거야","Richtig. Und das ist der wahre Grund für diesen
 Fall."
 64,3047,,"Aiutami a dimostrare che non sono più quel tipo inaffidabile
-e che ho quello che serve per gestire
-il caso di Nokia.","為了能夠回應諾奇雅的請求，
+e che ho quello che serve per gestire il caso di Nokia.","為了能夠回應諾奇雅的請求，
 我不再是那個「不可靠的大哥」……
 一起陪我證明吧。",,"노키아의 의뢰에 걸맞을 만큼
 내가「의지가 안 되는 형님」이 아니게 됐다는 걸…
@@ -207,9 +210,9 @@ Fall zu übernehmen."
 65,3047,,Sconfiggendoli in battaglia!,透過戰鬥，贏過這些傢伙…！,,이 녀석들과의 배틀에서 이기는 것으로 말이지…!,Indem wir sie im Kampf besiegen!
 66,2020,,...!!!,……！！,,……!!,...!
 67,3002,,Sapevo di poter contare su di voi due!,嗯嗯！　兩位都很可靠唷！,,응응! 믿음직스러워 두 사람!,"Ich wusste doch, dass auf euch beide Verlass ist!"
-68,3002,,"So che hai appena finito di combattere, ma se
-non riesci nemmeno a gestire questo, non posso fare affidamento su di te per
-proteggere i Digimon qui.","雖然如此一來就會變成連戰了……但是，
+68,3002,,"So che hai appena finito di combattere, ma se non riesci nemmeno
+a gestire questo, non posso fare affidamento su di
+te per proteggere i Digimon qui.","雖然如此一來就會變成連戰了……但是，
 如果連這種程度的困境都無法度過……實在是
 無法安心將這裡的數碼寶貝們交給你們啊！",,"연전하게 되겠지만…이 정도의 수라장을
 버텨내지 못하면…도저히 이쪽 디지몬들을

@@ -7,14 +7,13 @@ Bwahahahahaaa!","誰、誰會乖乖被抓啊！
 嗚喔喔喔喔！",,"자, 잡힐줄 알고!
 우오오오오오!","Mich kriegt ihr nie!
 Muhahahaha!"
-3,3046,,"È velocissimo! L'ho perso. Deve aver modificato le statistiche del suo
-avatar.","可惡，速度真快！　要被甩掉了！
+3,3046,,"È velocissimo!
+L'ho perso. Deve aver modificato le statistiche del suo avatar.","可惡，速度真快！　要被甩掉了！
 他大概也修改過化身的數據了啊。",,"젠장, 발이 빠른 자식이군! 뿌리쳐버렸어!
 아마도 아바타의 스테이터스를 조작한 거겠지","Der ist so schnell! Er muss die Werte seines
 Avatars gemoddet haben."
 4,3046,,"Erika, hai ancora la posizione del bersaglio?",艾莉卡，妳還沒追丟目標吧？,,"에리카, 목표를 놓친 건 아니겠지?","Erika, hast du die Position der Zielperson noch?"
-5,3045,,"Ho sette programmi di tracciamento che monitorano
-ogni sua mossa.",我用了七個追蹤程式在追蹤喔。,,7개의 프로그램으로 트레이스 하고 있어,"Ich habe sieben Tracking-Programme am Laufen, die
+5,3045,,"Ho sette programmi di tracciamento che monitorano ogni sua mossa.",我用了七個追蹤程式在追蹤喔。,,7개의 프로그램으로 트레이스 하고 있어,"Ich habe sieben Tracking-Programme am Laufen, die
 jede Bewegung überwachen."
 6,3046,,Mi sembrava di conoscerlo.,……我有看過那傢伙。,,…그 녀석의 얼굴은 기억에 있다,Er kam mir irgendwie bekannt vor.
 8,3046,,"Era un membro di Zaxon. L'ho visto sul forum
@@ -47,8 +46,7 @@ ich das vor Kumi geheim?"
 29,3053,,Non ha senso rimuginare su tutto questo ora.,那種事情，你再怎麼想也沒用。,,그런 건 이제 생각해봤자 소용없다,"Darüber brauchst du dir jetzt nicht mehr den Kopf
 zu zerbrechen."
 30,7368,,...Eh?,……咦？,,…헤?,... Was?
-31,7368,,"Cosa ci fai qui?! Quei tipi lavoravano
-per te?!","嗚啊！　你怎麼會在這啊！？
+31,7368,,"Cosa ci fai qui?! Quei tipi lavoravano per te?!","嗚啊！　你怎麼會在這啊！？
 對了，剛才的傢伙是你派來的吧！",,"아앗! 어떻게 네가 여기에!?
 그런가, 아까 그 녀석들도 네 사주냐!","Was machst du hier?! Haben die Typen für dich
 gearbeitet?!"
@@ -72,7 +70,8 @@ Fermati! Cosa gli stai facendo?!","你怎麼會在這！？
 住手，你對他做了什麼！",,"어째서 여기에 있지!?
 그만둬, 그 사람에게 무슨 짓을 하는 거야!","Warum bist du hier?
 Aufhören! Was machst du da mit ihm?!"
-38,3053,,"Non sono obbligato a rispondere, ma sembra che questo mascalzone vi abbia dato problemi.","我沒有回答你的必要……我是很想這麼說，
+38,3053,,"Non sono obbligato a rispondere,
+ma sembra che questo mascalzone vi abbia dato problemi.","我沒有回答你的必要……我是很想這麼說，
 但看來這混帳，給你們製造麻煩了啊。",,"대답할 의리는 없다…고 말해줘야겠지만
 아무래도 이 쓰레기가 너희에게 폐를 끼친 모양이군","Ich bin zu keiner Antwort verpflichtet, aber
 dieser Dreckskerl hat euch offenbar Ärger
@@ -83,17 +82,19 @@ gemacht."
 거기서 잠자코 보고있어라","Das hat mit dir nichts zu tun. Sei einfach ruhig
 und schau zu."
 41,7368,,Argh... Le mie statistiche...,啊、啊啊……我的資料……消……消失了……,,"아, 아아…내 스테이터스가…사라…사라져…",Argh ... Meine Werte ...
-42,3053,,Rilassati. Ho solo distrutto il suo account. Non l'ho ucciso.,"安心吧，我只是破壞了他的帳號。
+42,3053,,"Rilassati. Ho solo distrutto il suo account.
+Non l'ho ucciso.","安心吧，我只是破壞了他的帳號。
 他又不是死了。",,"안심해. 계정을 파괴했을 뿐이다.
 죽은 게 아냐","Entspann dich. Ich habe nur sein Konto vernichtet.
 Ich habe ihn nicht umgebracht."
 43,2020,,...!!!,……！！,,…!!,...!
-44,3053,,"Se sei qui, allora gli sbirri e la Kamishiro non possono essere molto lontani.","你到這來了，就代表得考慮警察
+44,3053,,"Se sei qui, allora gli sbirri e la Kamishiro non possono essere
+molto lontani.","你到這來了，就代表得考慮警察
 或神代企業採取行動的可能。",,"네가 여기 왔다는 건, 경찰이나 카미시로가
 움직이고 있을 가능성을 고려할 필요가 있겠군","Wenn du hier bist, dann können die Polypen und
 Kamishiro auch nicht weit sein."
-45,3053,,"Ad ogni modo, ho raggiunto il mio obiettivo. È ora che
-me ne vada.","不管怎麼樣，我的目的都達成了。
+45,3053,,"Ad ogni modo, ho raggiunto il mio obiettivo.
+È ora che me ne vada.","不管怎麼樣，我的目的都達成了。
 我就先告退了。",,"어쨌든 내 목적은 달성했다.
 이만 실례하지","Ich habe mein Ziel jedenfalls erreicht. Zeit zu
 gehen."

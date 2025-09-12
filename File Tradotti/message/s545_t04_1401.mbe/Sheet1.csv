@@ -4,12 +4,14 @@ ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
 구해줘서 고마워","Ich kann dir nicht genug danken, dass du mich
 gerettet hast!"
 2,1755,,Sei sicuro di stare bene?,行政主任，身體沒什麼問題吧？,,"사무장, 몸에 이변은 없나?","Bist du sicher, dass es dir gut geht?"
-3,7333,,"Sono ancora stanco, ma starò bene una volta che mi sarò riposato un po'. Mi sono preso dei giorni di riposo.","嗯，雖然還有點疲倦，但休息一下應該就好了。
+3,7333,,"Sono ancora stanco, ma starò bene una volta che mi sarò riposato un po'.
+Mi sono preso dei giorni di riposo.","嗯，雖然還有點疲倦，但休息一下應該就好了。
 也向醫院請了幾天的假。",,"그래, 아직 나른하기는 하지만 조금 쉬면 괜찮을 것 같아.
 병원에는 며칠 휴가를 냈어","Ich bin noch müde, aber das wird schon, wenn ich
 mich etwas ausgeruht habe. Ich habe jetzt ein
 paar Tage Urlaub."
-4,7333,,Sono un bel po' di tempo che non vado in vacanza. L'ospedale è stato così impegnato; non riuscivo a trovare il tempo.,"……這麼說來，很久沒休假了。
+4,7333,,"Sono un bel po' di tempo che non vado in vacanza.
+L'ospedale è stato così impegnato; non riuscivo a trovare il tempo.","……這麼說來，很久沒休假了。
 自從醫院變忙之後，都沒空休息了。",,"……생각해 보니 오랜만에 내는 휴가야.
 병원이 바빠진 후로 쉴 틈도 없었으니까","Ich hatte schon lange keinen Urlaub mehr. Im
 Krankenhaus war so viel zu tun. Ich hatte einfach
@@ -65,13 +67,13 @@ Kuzuhamon ne ha passate tante.","這話應該我來說才對。
 葛葉獸很痛苦吧。",,"그건 내가 할 말이야
 쿠즈하몬, 괴로웠겠지","Ich sollte dir danken.
 Kuzuhamon hat viel durchgemacht."
-19,1755,,"Forse. Se non fosse stato per me, saresti ancora come un topo intrappolato in una gabbia.","這麼說也對。
+19,1755,,"Forse. Se non fosse stato per me, saresti
+ancora come un topo intrappolato in una gabbia.","這麼說也對。
 如果沒有我的話，你說不定還是“籠中的老鼠＂呢。",,"그것도 그랬군.
 내가 없었으면 너는 아직 ""우리 속의 쥐""였을지도 모르지","Mag sein. Ohne mich würdest du noch wie eine
 Maus im Käfig gefangen sein."
 20,1755,,"Sì. Voglio fare tutto il possibile perché nessun altro debba
-passare attraverso qualcosa del genere, Digimon o
-umano.","的確。無論是數碼寶貝還是人類，
+passare attraverso qualcosa del genere, Digimon o umano.","的確。無論是數碼寶貝還是人類，
 真希望不要再有人遭遇到那種痛苦啊。",,"그렇지. 디지몬이든 인간이든
 그런 괴로운 일을 겪는 자가 더는 나오지 않게 만들고 싶다","Ja. Ich will tun, was ich kann, damit niemand
 etwas Ähnliches erleben muss, weder Mensch
@@ -92,7 +94,8 @@ per aiutare Digimon e umani.","為了將我所學的醫學能同時活用於數�
 가장 빠른 길이라고 생각했다","Wenn ich in einem großen Krankenhaus arbeite,
 könnte ich mein medizinisches Wissen über
 Digimon und Menschen am besten einsetzen."
-23,1755,,Ma non so quanto le persone sarebbero aperte all'idea di un Digimon che lavora in un ospedale umano.,"不過數碼寶貝想在人類醫院工作這種事，
+23,1755,,"Ma non so quanto le persone sarebbero aperte all'idea
+di un Digimon che lavora in un ospedale umano.","不過數碼寶貝想在人類醫院工作這種事，
 不可能有人認真對待。",,"하지만, 디지몬이 인간의 병원에서 일하고 싶다니
 제대로 상대해줄 리가 없지","Aber ich weiß nicht, wie tolerant die Leute wären,
 wenn ein Digimon in einem Krankenhaus der
@@ -108,7 +111,8 @@ umano?","呼，你真是老實。
 그러고 보니 인간, 이름은 뭐라 하는가?","Hmpf, du bist ehrlich. Wie heißt du eigentlich,
 Mensch?"
 26,1755,,[p]... Capisco.,[p]……這樣啊。,,[p]……그런가,[p] ... Verstehe.
-27,1755,,"Non so ancora quanto saranno utili le mie conoscenze mediche, o se mi sarà permesso lavorare qui.","不知道我的醫學知識能派上多少用場……
+27,1755,,"Non so ancora quanto saranno utili le mie conoscenze mediche,
+o se mi sarà permesso lavorare qui.","不知道我的醫學知識能派上多少用場……
 連能不能在這工作都還不清楚。",,"내 의학지식이 어느 정도 쓸모가 있을지……
 애초에 여기서 일할 수 있는지도 아직 알 수 없지","Ich weiß immer noch nicht, wie nützlich mein
 medizinisches Wissen sein wird, oder ob ich

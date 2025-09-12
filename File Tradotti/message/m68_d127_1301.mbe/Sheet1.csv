@@ -8,7 +8,8 @@ Das wird nichts!"
 住手吧。",,"이제 됐어…
 이제 그만해",Es ist schon gut. Ihr könnt jetzt aufhören.
 5,1392,,Erika?!,艾莉卡！？,,에리카!?,Erika?!
-6,3045,,L'erosione da parte del Eater non può essere fermata. Prendi gli altri con te e mettetevi al sicuro.,"已經無法阻止侵食者的侵蝕了，
+6,3045,,"L'erosione da parte del Eater non può essere fermata.
+Prendi gli altri con te e mettetevi al sicuro.","已經無法阻止侵食者的侵蝕了，
 快帶著哥哥他們逃走吧。",,"이터의 침식은 이제 막을 수 없어.
 오빠들을 데리고 도망가","Die Abtragung durch den Verschlinger kann nicht
 beendet werden. Nimm die anderen mit und
@@ -23,7 +24,8 @@ Non dire così!
 …………","Wir geben nicht auf!
 Sag das nicht!
 ..."
-9,3045,,"Il mio corpo è stato completamente assimilato dal Eater. Se lo ucciderete, smetterò di esistere.","我的身體……已經完全被侵食者占領了。
+9,3045,,"Il mio corpo è stato completamente assimilato dal Eater.
+Se lo ucciderete, smetterò di esistere.","我的身體……已經完全被侵食者占領了。
 就算打倒了侵食者，我也會──",,"내 몸은…… 이제 완전히 이터에게 삼켜졌어.
 이터를 쓰러뜨린다고 해도 이제 나는――","Mein Körper wurde von dem Verschlinger vollständig
 assimiliert. Wenn ihr ihn tötet, werde ich
@@ -31,7 +33,7 @@ aufhören zu existieren."
 10,3046,,No!,什……！,,뭐라고……!,Nein!
 11,3047,,Siamo arrivati troppo tardi?!,我們……來不及了嗎……！？,,우리들…… 너무 늦었던 거야…!?,Sind wir zu spät gekommen?!
 12,2020,,...!,……！,,……!,...!
-13,3045,,Per favore andate. Posso impedire che l'erosione si diffonda nel mondo reale.,"所以回去吧，
+13,3045,,"Per favore andate. Posso impedire che l'erosione si diffonda nel mondo reale.","所以回去吧，
 我會想辦法阻止侵食者侵蝕到外面的世界的。",,"그러니까 돌아가. 이터의 침식이 바깥 세계까지 퍼지는 것만큼은
 내가 어떻게든 막을 테니까","Bitte geht. Ich kann verhindern, dass sich die
 Abtragung auf die echte Welt ausbreitet."
@@ -44,7 +46,8 @@ entwischt, auch wenn es mich mein Leben kostet!"
 17,1392,,Erika non vorrebbe questo! Io non lo voglio!,"艾莉卡絕對不會這麼希望！
 因為……“我”不想要那樣！",,"에리카는 그런걸 원하지 않아!
 왜냐면… ""나""는 그런 것을 생각하지 않는걸!",Erika würde das nicht wollen! Ich will es nicht!
-18,1392,,Non voleva morire. Perciò ha condiviso il suo ricordo con me.,"因為不想死、不想消失──
+18,1392,,"Non voleva morire.
+Perciò ha condiviso il suo ricordo con me.","因為不想死、不想消失──
 所以才和我一起分享記憶不是嗎？",,"죽고싶지 않아, 사라지고 싶지 않아 라고 생각했으니까――
 그러니까 나와 기억을 공유화한 거지?","Sie wollte nicht sterben. Deshalb hat sie ihre
 Erinnerung mit mir geteilt."
@@ -54,7 +57,8 @@ Erinnerung mit mir geteilt."
 will!"
 20,1392,,"Più di ogni altra cosa, vuole tornare da Hudie!",艾莉卡……其實比任何人都還想回到hudie才對！,,에리카는…… 사실은 누구보다도 후디에로 돌아오고 싶잖아!,"Mehr als alles andere will sie zu Hudie
 zurück!"
-21,1392,,C'è ancora così tanto che lei vuole vedere e fare! E questo è anche il piano!,"想做的事、想看的事應該還有很多！
+21,1392,,"C'è ancora così tanto che lei vuole vedere e fare!
+E questo è anche il piano!","想做的事、想看的事應該還有很多！
 全部都去做吧！",,"하고 싶은 일도, 보고 싶은 것도 아직 잔뜩 있었잖아!
 전부 하자!","Es gibt noch so vieles, was sie sehen und tun
 möchte! Und das ist auch der Plan!"
@@ -64,16 +68,19 @@ möchte! Und das ist auch der Plan!"
 和龍司、千歲……還有[p]……大家一起！",,"가서 모험하자!
 류지와 치토세와…… [p]…… 모두 함께!","Es wird ein Abenteuer sein! Ryuji, Chitose und
 [p] ... Wir alle zusammen."
-24,1392,,"Siamo Hudie, siamo imbattibili! Saremo la migliore squadra di hacker nel Mondo Digitale!","因為我們是無敵的“hudie”！
+24,1392,,"Siamo Hudie, siamo imbattibili!
+Saremo la migliore squadra di hacker nel Mondo Digitale!","因為我們是無敵的“hudie”！
 就算在數碼世界，我們也一定能成為無敵的駭客隊伍！",,"우리들은 무적의 ""후디에""인걸!
 분명 디지털 월드에서도 무적의 해커팀이 될 수 있어!","Wir sind Hudie, wir sind unschlagbar! Wir werden 
 das beste Hackerteam in der Digitalen Welt sein! "
-25,3047,,Hai sentito? Aveva ancora così tanti sogni. Cosa possiamo fare?,"我聽到了。小姐的夢想，還是這麼的宏大啊。
+25,3047,,"Hai sentito? Aveva ancora così tanti sogni.
+Cosa possiamo fare?","我聽到了。小姐的夢想，還是這麼的宏大啊。
 怎麼辦啊，龍司？",,"다 들리는데.
 이건 또 장대한 꿈을 가지고 있었네, 아가씨. 어쩌지 류지","Hast du das gehört? Sie hatte noch so viele
 Träume. Was können wir tun?"
 26,3046,,Non lo so.,……一言難盡啊。,,…어쩌고 자시고도 없지,Ich weiß es nicht.
-27,3046,,"Mi dispiace, Erika. Non sono riuscito a essere il fratello maggiore di cui avevi bisogno.","艾莉卡，給我一個道歉的機會，
+27,3046,,"Mi dispiace, Erika.
+Non sono riuscito a essere il fratello maggiore di cui avevi bisogno.","艾莉卡，給我一個道歉的機會，
 都是我這個沒用哥哥的錯……",,"에리카, 너에게 사과하게 해줘.
 한심한 오빠라서 미안했다…… 고","Es tut mir leid, Erika. Ich konnte nicht der große
 Bruder sein, den du gebraucht hast."
@@ -92,7 +99,8 @@ Welt oder wohin auch immer!"
 講得那麼輕鬆，這個哥哥啊……",,"하하… 진짜냐
 쉽게도 말해주는걸, 오빠는…","Ich hätte nie gedacht, mal so was von dir zu
 hören."
-34,3047,,Ma se ci penso... sono sicuro che potremmo essere il miglior team di hacker nella Digiworld!,"但是……數碼世界的無敵駭客隊伍，
+34,3047,,"Ma se ci penso... sono sicuro che potremmo essere
+il miglior team di hacker nella Digiworld!","但是……數碼世界的無敵駭客隊伍，
 也許很適合我們！",,"그렇지만…… 디지털 월드 무적의 해커팀…인가.
 우리들다워서 좋을지도!","Aber wenn ich es mir überlege ... bin ich mir
 sicher, dass wir das beste Hackerteam in der

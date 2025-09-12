@@ -1,5 +1,6 @@
 ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
-1,2020,,(Il nome della cliente è Miyuki. La contatterò e le chiederò i dettagli sul caso.),"（委託人名叫美紀嗎……
+1,2020,,"(Il nome della cliente è Miyuki. La contatterò e le chiederò
+i dettagli sul caso.)","（委託人名叫美紀嗎……
 　總之先連絡她，了解詳細的委託內容吧）",,"(의뢰인의 이름은 미유키…인가.
  일단 연락을 취해서 의뢰 내용을 자세하게 들어보자)","(Die Klientin heißt Miyuki. Ich melde mich
 bei ihr und erfrage Genaueres zum Fall.)"
@@ -37,7 +38,8 @@ niente. Ci vedevamo sempre.","你看，現在不是有EDEN嗎？
 Wir konnten uns ständig treffen."
 7,7328,,Ci piaceva chiacchierare nel Cyberspazio.,我和她都很喜歡在EDEN聊天。,,저도 그녀도 EDEN에서 수다 떠는 걸 좋아했어요,"Beim Chatten im Cyberspace hatten wir so viel
 Spaß."
-8,7328,,Ma si è ammalata e non ha più potuto venire a EDEN... È morta due mesi fa.,"不過後來她生病，沒辦法再來EDEN……
+8,7328,,"Ma si è ammalata e non ha più potuto venire a EDEN.
+È morta due mesi fa.","不過後來她生病，沒辦法再來EDEN……
 兩個月前去世了。",,"하지만 그녀는 병을 앓아서, EDEN에 오지 않게 되었고……
 두 달 전에 죽었어요","Aber dann wurde sie krank und konnte nicht mehr
 nach EDEN kommen ... Vor zwei Monaten ist sie
@@ -50,8 +52,7 @@ nel dolore per sempre, quindi mi sono loggato di nuovo a EDEN.","雖然這讓我
 최근에 EDEN에 로그인했어요","Ihr Tod hat mich sehr mitgenommen, aber ich konnte
 nicht ewig trauern, also habe ich mich wieder in
 EDEN eingeloggt."
-10,7328,,"È stato allora che l'ho vista... Il suo avatar stava camminando
-in EDEN.","在那裡……我發現她了。
+10,7328,,"È stato allora che l'ho vista... Il suo avatar stava camminando in EDEN.","在那裡……我發現她了。
 我看到她的化身還在EDEN裡走。",,"그리고……보고 말았어요.
 그녀의 아바타가 EDEN을 걷고 있는 것을","Und dann sah ich ihn ... Ihr Avatar lief in EDEN
 herum."
@@ -81,8 +82,8 @@ sie aber aus den Augen."
 不過很久以前就放棄了。",,"사실은 저, 옛날에 잠깐 해커를 한 적이 있어요
 꽤 옛날에 그만뒀지만요","Früher war ich selbst mal eine Hackerin, aber
 ich habe vor langer Zeit damit aufgehört."
-18,7328,,"L'avevo portata lì una volta. Volevo rivivere quel
-ricordo. Ecco perché ero lì.","我曾帶她到那邊去過，
+18,7328,,"L'avevo portata lì una volta. Volevo rivivere quel ricordo.
+Ecco perché ero lì.","我曾帶她到那邊去過，
 我打算要回憶兩人的過去……
 所以才不經意的走到那邊。",,"그녀를 데려온 적도 있어서
 둘의 추억을 되돌아보고 싶어서……
@@ -96,8 +97,8 @@ ho chiesto alla compagnia che gestisce EDEN.","我想，在她去世之後她的
 운영사에 문의해봤어요","Ich dachte, jemand würde ihren Account benutzen.
 Also habe ich die Firma angeschrieben, die EDEN
 betreibt."
-21,7328,,"Ma hanno solo detto che dovevo essermi sbagliato. Non
-volevano ascoltare quello che avevo da dire.","不過營運堅持是我「看錯」……
+21,7328,,"Ma hanno solo detto che dovevo essermi sbagliato.
+Non volevano ascoltare quello che avevo da dire.","不過營運堅持是我「看錯」……
 完全不肯好好聽我說明。",,"하지만 운영사는「잘못 본 거겠지」라고만 말하고……
 말을 제대로 들어주지 않았어요","Sie meinten nur, ich hätte mich geirrt. Sie
 wollten mir gar nicht zuhören."
@@ -119,9 +120,9 @@ Aber wenn ich recht habe ..."
 26,7328,,"Fammi sapere se le tue indagini portano a
 qualcosa.",還請你幫忙調查了。,,"조사, 부디 잘 부탁드립니다","Bitte sag mir Bescheid, wenn du bei deinen
 Nachforschungen etwas herausfindest."
-27,2020,,"(Prima di andare dove Miyuki ha visto la sua amica, sono
-interessato a scoprire se gli
-admin hanno indagato prima su questa cosa.)","（……在前往美紀小姐發現笹田小姐的地方之前，
+27,2020,,"(Prima di andare dove Miyuki ha visto la sua amica,
+sono interessato a scoprire se gli admin hanno indagato
+prima su questa cosa.)","（……在前往美紀小姐發現笹田小姐的地方之前，
 　有點在意營運是否有調查過這件事）",,"(……미유키 씨가 사사다 씨를 봤다는 장소로 가기 전에
  운영사가 제대로 조사했는지도 신경 쓰이는데)","(Bevor ich dort hingehe, wo Miyuki ihre
 Freundin gesehen hat, will ich wissen, ob die

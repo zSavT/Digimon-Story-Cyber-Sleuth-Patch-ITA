@@ -35,17 +35,16 @@ puoi chiedere al mio maestro in qualsiasi momento!","不管做任何事情，奠
 확인하고 싶다면, 언제라도 선생님께 부탁하면 돼!","Egal, was du tust, die Grundlagen sind wichtig.
 Wenn du etwas über Digimon-Kämpfe wissen willst,
 kannst du jederzeit meinen Lehrer fragen!"
-200,9089,,"Hai sentito la diceria sul fantasma
-bianco di una ragazza a Kowloon? Huh? Un
-ragazzo? No, decisamente una ragazza!","你聽過Kowloon會看到“白衣少女幽靈”的傳聞嗎？
+200,9089,,"Hai sentito la diceria sul fantasma bianco
+di una ragazza a Kowloon? Huh? Un ragazzo?
+No, decisamente una ragazza!","你聽過Kowloon會看到“白衣少女幽靈”的傳聞嗎？
 咦？　應該是少年才對？
 才不是，是少女啦！",,"쿠롱에서 ""하얀 소녀의 유령""을 봤다는 소문, 들었어?
 어? 소년을 착각한 거라고? 아니야, 소녀라고!","Hast du das Gerücht über den weißen Geist eines
 Mädchens in Kowloon gehört? Was? Ein Junge?
 Nein, es war definitiv ein Mädchen!"
-201,9090,,"È illegale usare un avatar che
-non ti assomiglia, ma
-dopotutto siamo hacker!","雖說用跟真實樣貌不同的化身是違法的，
+201,9090,,"È illegale usare un avatar che non ti assomiglia,
+ma dopotutto siamo hacker!","雖說用跟真實樣貌不同的化身是違法的，
 但這樣做才是我們駭客啊！",,"원래의 모습과 다른 아바타를 사용하는 것은 위법이지만
 구태여 그것을 하는 것이 우리 해커라는 것이지!","Die Benutzung eines Avatars, der nicht wie man
 selbst aussieht, ist illegal, aber wir sind
@@ -66,8 +65,8 @@ caso, dimentica che ho detto qualcosa.","哎呀……那個衣服是“hudie”�
 그럼 일부러 권유할 필요도 없겠네…","Ach ... die Klamotten. Bist du bei Hudie? Dann
 vergiss, dass ich etwas gesagt habe."
 205,9092,,"Wow, un Digivice con gli occhiali. Che figata.",喔，護目鏡型的Digivice很帥氣喔。,,"어머, 고글형 디지바이스라니, 멋지네","Wow, ein Brillen-Digivice. Das ist ja cool."
-206,9092,,"Ma io preferisco il tipo PC. Non si batte
-quella sensazione analogica.","但是我比較喜歡PC型的。
+206,9092,,"Preferisco la versione per PC. L'atmosfera
+analogica è semplicemente imbattibile.","但是我比較喜歡PC型的。
 這種類比感真叫人受不了啊。",,"하지만 난 PC 타입 쪽이 좋더라.
 이 아날로그 느낌이 참을 수 없어","Mir ist die PC-Version lieber. Der analoge Vibe
 ist einfach unschlagbar."
@@ -81,17 +80,15 @@ Dovrebbe essere qui da qualche parte.","志賀～？　誰～知～道，我是�
 einen Hacker, der über solche Sachen Bescheid
 weiß. Er sollte hier irgendwo sein."
 208,9094,,"Shiga... Ah, lui.",志賀……啊啊、那傢伙啊。,,"시가…아아, 그 녀석인가","Shiga ... Ach, der."
-209,9094,,"Se vuoi sapere di lui, dovresti chiedere
-all'hacker occhio d'aquila laggiù. Anche se
-potrebbe non essere facile estorcergli informazioni.","想知道那傢伙的事情，就去問問看對面那位
+209,9094,,"Se vuoi sapere qualcosa su di lui, chiedi all'hacker con gli occhi
+da aquila laggiù. Ma non sarà facile ottenere informazioni da lui.","想知道那傢伙的事情，就去問問看對面那位
 眼神銳利的駭客吧。能不能打聽到好情報，
 就要看你自己的造化啦……",,"녀석에 대해 알고 싶다면 저쪽에 있는
 눈매가 날카로운 해커에게 물어봐.
 정보를 얻어낼 수 있을지는 너 하기 나름이지만…","Wenn du etwas über ihn erfahren willst, frag den
 Hacker mit den Adleraugen da drüben. Aber es wird
 nicht einfach werden, ihm die Infos zu entlocken."
-210,9095,,"Vuoi sapere qualcosa su Shiga?
-...","……你想問關於志賀的事情？
+210,9095,,"Vuoi sapere qualcosa su Shiga? ...","……你想問關於志賀的事情？
 ………………",,"…시가에 대해 듣고 싶다고?
 ………………","Du möchtest etwas über Shiga wissen?
 ..."
@@ -99,8 +96,8 @@ nicht einfach werden, ihm die Infos zu entlocken."
 知道了的話還不快給我消失。",,"글쎄, 그런 녀석에 대해서는 모르겠는데.
 알았으면 얼른 사라져",Über ihn weiß ich nichts. Und jetzt geh weg.
 212,2000,,(Fammi pensarci ancora un po'.),（……再想一下好了）,,(…조금 더 생각해보자),(Lass mich noch etwas überlegen.)
-213,2000,,"(Ho installato il malware. Ora devo solo
-aspettare che faccia la sua mossa.)","（這樣子就算設好惡性軟體了）
+213,2000,,"(Ho installato il malware. Ora devo
+solo aspettare che faccia la sua mossa.)","（這樣子就算設好惡性軟體了）
 （接下來就只要等那傢伙行動……）",,"(이걸로 악성코드 설치에 성공했다.
  남은 건 녀석이 움직이길 기다리는 것뿐이다……)","(Ich habe die Malware installiert. Jetzt muss ich
 nur warten, bis er etwas tut.)"

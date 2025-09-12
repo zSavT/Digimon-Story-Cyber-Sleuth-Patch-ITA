@@ -25,7 +25,8 @@ questo.","喔，全員都在啊。
 又要拜託你們啦。",,"좋아, 전원이 모였군.
 또 신세를 지겠다","Ihr seid also alle da. Danke, dass ihr euch
 bereit erklärt habt."
-10,3007,,"Permettimi di presentarti il cliente. Questo è il signor Mizushita, direttore dell'Acquario di Ikebukuro.","馬上就介紹一下委託人吧。
+10,3007,,"Permettimi di presentarti il cliente.
+Questo è il signor Mizushita, direttore dell'Acquario di Ikebukuro.","馬上就介紹一下委託人吧。
 這是池袋水族館的館長水下先生。",,"바로 의뢰인을 소개해 두마.
 이케부쿠로 수족관의 관장인 미즈시타 씨다","Darf ich euch den Klienten vorstellen? Das ist
 Herr Mizushita, Direktor des Aquariums von
@@ -40,7 +41,8 @@ ist streng vertraulich."
 水族館的水槽內都不斷有魚被偷走。",,"…실은 한동안 수족관 수조에서
 매일 밤 물고기 도난이 이어지고 있었습니다","Seit einer ganzen Weile verschwinden jede Nacht
 Fische aus unseren Becken."
-14,7364,,"A causa dei metodi astuti impiegati dai ladri, ci è voluto più di un mese per accorgerci che qualcosa non andava.","而偷竊的手法實在是太巧妙了……
+14,7364,,"A causa dei metodi astuti impiegati dai ladri, ci è voluto più di un
+mese per accorgerci che qualcosa non andava.","而偷竊的手法實在是太巧妙了……
 我們被偷竊了超過一個月，
 都沒有發現魚被人偷走了。",,"그 수법이 너무나도 깔끔해서…
 저희가 1개월 이상이나 물고기를 도난당했다는 걸
@@ -56,11 +58,9 @@ nicht stimmt."
 海馬也被偷走了。",,"처음에는 도미, 그 다음엔 넙치
 해마도 도난당했습니다","Zum Beispiel Seebrassen, Flundern und
 Seepferdchen."
-19,3047,,"Wow. Forse i ladri vogliono aprire un loro
-acquario.",什麼？　犯人是想打造龍宮城喔。,,하앙? 범인은 용궁이라도 만들려는 생각인가,"Oha. Wollen die Diebe vielleicht ein eigenes
+19,3047,,"Wow. Forse i ladri vogliono aprire un loro acquario.",什麼？　犯人是想打造龍宮城喔。,,하앙? 범인은 용궁이라도 만들려는 생각인가,"Oha. Wollen die Diebe vielleicht ein eigenes
 Aquarium aufmachen?"
-20,3046,,"Non è una cosa da ridere. Dovresti prenderla
-più seriamente.",不要開玩笑，給我認真點。,,놀고있는 게 아냐. 진지하게 해,"Das ist kein Witz hier. Du solltest das mal
+20,3046,,"Non è una cosa da ridere. Dovresti prenderla più seriamente.",不要開玩笑，給我認真點。,,놀고있는 게 아냐. 진지하게 해,"Das ist kein Witz hier. Du solltest das mal
 ernster nehmen."
 21,3047,,Ehi.,好～,,네이~,He.
 22,3047,,Tu ridi e lui si arrabbia con me.,喂，都是你笑了才害我被罵啊。,,"어이, 네가 웃는 바람에 나까지 혼났잖아","Du lachst, und auf mich wird er sauer."
@@ -116,9 +116,9 @@ haben? "
 39,7364,,I... Non so cosa dire a questo.,這點……我實在是不知道該怎麼說。,,그건 그…뭐라고 말씀드려야 좋을지,"Ich ... weiß nicht, was ich darauf sagen soll."
 40,3007,,"Ehi, porta rispetto agli anziani.",你們啊，不要對長輩這麼沒禮貌。,,"너희들, 어른에게 실례되는 소리 하지 마라","He, leg mal ein bisschen Respekt für das Alter
 an den Tag."
-41,3007,,"Gli hacker si affidano alle informazioni per fare il loro lavoro, quindi
-dovresti ascoltare tutto ciò che il cliente ha da
-dire. Non è così, Ryuji?","而且，你們是利用情報的駭客吧，
+41,3007,,"Gli hacker si affidano alle informazioni per fare il loro lavoro,
+quindi dovresti ascoltare tutto ciò che il cliente ha da dire.
+Non è così, Ryuji?","而且，你們是利用情報的駭客吧，
 委託人說的話要好好聽到最後。
 ……沒錯吧，龍司？",,"게다가 너희는 정보를 취급하는 해커잖냐.
 의뢰자의 이야기는 끝까지 들어야지.
@@ -161,8 +161,8 @@ succedendo?","小姐想問的，是你們怎麼在這種狀況下，
 어떻게 범행을 알아차렸냐는 거야","Soll heißen: Wie haben Sie denn überhaupt bemerkt,
 was los ist?"
 53,7364,,"Oh, capisco.",喔，是這樣啊。,,"아아, 그런 뜻이군요","Ach so, verstehe."
-54,7364,,"A meno che non succeda qualcosa, le riprese delle telecamere a circuito chiuso
-vengono cancellate ogni mese senza essere visionate.","監視攝影機的影像，只要沒有發生特殊事件，
+54,7364,,"A meno che non succeda qualcosa, le riprese delle telecamere a circuito
+chiuso vengono cancellate ogni mese senza essere visionate.","監視攝影機的影像，只要沒有發生特殊事件，
 一個月沒播放就會刪除掉。",,"감시 카메라 영상은 특별히 사건이 일어나지 않는 한
 재생되지 않고 1개월 단위로 삭제되도록 설정되어
 있습니다","Wenn nichts passiert, werden die Aufnahmen der
@@ -202,13 +202,14 @@ ai ferri corti su come gestirlo.","你說得真是直接啊。
 실은 이 사건을 어떻게 취급할지 위에서도 옥신각신하고 있어","Wäre es normalerweise schon. Aber meine
 Vorgesetzten können sich nicht einigen, was
 zu tun ist."
-62,3007,,"Ti risparmio i dettagli, ma tecnicamente questo caso non è classificato come furto.","……我就省略詳細說明，
+62,3007,,"Ti risparmio i dettagli,
+ma tecnicamente questo caso non è classificato come furto.","……我就省略詳細說明，
 但這起事件很可能不被當成竊盜案。",,"…자세한 설명은 생략하고
 이 사건은 도난죄에는 해당하지 않을 가능성이 높아","Ich erspare euch die Details, aber dieser Fall ist
 streng genommen kein Diebstahl."
 63,2020,,?,是這樣嗎？,,?,?
-64,3007,,"Legalmente, il furto è l'intenzione di privare
-permanentemente il proprietario della proprietà. Se questo non può essere
+64,3007,,"Legalmente, il furto è l'intenzione di privare permanentemente il
+proprietario della proprietà. Se questo non può essere
 provato, non può essere considerato furto.","警方的用語叫做“意圖所有”，
 要是無法證明這點，就無法成立竊盜罪。",,"이쪽 용어로 ""불법영득의사""라고 하는데
 이게 입증되지 않으면 도난죄가 성립하지 않거든","Rechtlich gesehen beinhaltet Diebstahl die
@@ -222,9 +223,9 @@ privato della sua proprietà.","而且，犯人將「贓物送回」這行為，
 그 점을 찌르고 있지. 의미불명인데다 귀찮은 상황이다","Da die Täter die Tiere aber immer zurückbringen,
 wird dem Eigentümer kein Eigentum dauerhaft
 entzogen."
-66,3007,,"Certo, se sapessimo chi sono, potremmo inchiodarli
-per violazione di proprietà privata. Ma
-i casi di violazione di domicilio non sono una priorità alta.","當然，只要知道犯人的真面目，便能用
+66,3007,,"Certo, se sapessimo chi sono, potremmo inchiodarli per violazione di
+proprietà privata. Ma i casi di violazione di domicilio non sono una
+priorità alta.","當然，只要知道犯人的真面目，便能用
 非法侵入私有土地來起訴，但要是沒有
 實際損害，也就無法進行搜查。",,"물론 놈들의 정체만 밝혀지면 사유지 불법침입으로
 걸리겠지만 실제로 해를 끼치지 않는 이상 조사 우선도도
@@ -236,13 +237,12 @@ di sprecare risorse per indagare su questo caso al momento.","……也因此，
 延後再進行搜查。",,"…즉 윗쪽의 판단으로는 이 사건의 조사는
 뒤로 미루라는 거다","Meine Vorgesetzten haben entschieden, dass wir für
 diesen Fall aktuell keine Ressourcen übrig haben."
-68,3047,,"Piantala! Sembra solo una scusa per
-essere pigro!","那種都是你們的理由啊！
+68,3047,,"Piantala! Sembra solo una scusa per essere pigro!","那種都是你們的理由啊！
 在我聽來，你們只是在怠慢職務吧。",,"그런 거 제멋대로잖아!
 직무태만을 변명하는 걸로밖에 들리지 않네","Ach, Quatsch! Das klingt nach einer Ausrede für
 Faulheit!"
-69,3046,,"È un'esagerazione. Il detective
-Matayoshi non può essere dappertutto contemporaneamente.","你說得太過火了，千歲。
+69,3046,,"È un'esagerazione. Il detective Matayoshi non può essere dappertutto
+contemporaneamente.","你說得太過火了，千歲。
 又吉先生也是有辦不到的事情啊。",,"말이 지나치다, 치토세.
 마타요시 씨도 어떻게 해볼 수 없는 게 있어","Da übertreibst du aber. Kommissar Matayoshi kann
 schließlich nicht überall gleichzeitig sein."
@@ -269,7 +269,8 @@ acquario dove i ladri possono andare e venire a piacimento.","的確是這樣啊
 畢竟不能給被小偷隨便亂闖的水族館發補助金。",,"그렇겠지.
 도둑이 마음대로 드나드는 수족관에 보조금을 낼 수는 없겠지","Ein Aquarium, wo Diebe jederzeit hereinspazieren
 können, ist wohl eine eher riskante Investition."
-75,3007,,Le riprese delle telecamere a circuito chiuso sono la prova di un'effrazione.,監視攝影機的影像可以作為非法入侵的證據。,,감시 카메라 영상은 불법침입의 증거가 되지,"Die Überwachungsvideos beweisen widerrechtliches
+75,3007,,"Le riprese delle telecamere a circuito chiuso sono la prova
+di un'effrazione.",監視攝影機的影像可以作為非法入侵的證據。,,감시 카메라 영상은 불법침입의 증거가 되지,"Die Überwachungsvideos beweisen widerrechtliches
 Betreten eines Grundstücks."
 76,3007,,"Se riesci a scoprire chi sono, li arresterò.","只要你們找出他們的真面目，
 就放心交給我們去逮捕吧。",,"너희들이 놈들의 정체를 밝혀낸다면 잡는 건
@@ -280,9 +281,9 @@ decideremo se accettare o meno il caso.","請告訴我們其他知道的事情�
 我會聽過後，在決定要不要接受委託。",,"그 외에 알고 계신 것을 알려주십시오.
 의뢰를 받을지 어떨지는 그 후 결정하겠습니다","Bitte sagen Sie uns alles, was Sie wissen. Dann
 entscheiden wir, ob wir den Fall nehmen."
-79,7364,,"I ladri agiscono sempre durante le lacune negli
-orari di pattuglia delle guardie di sicurezza. Ovviamente
-cambiamo i percorsi e gli orari di passaggio di consegne ogni giorno...","他們是在閉館後，趁著警衛的巡邏時間的空檔進行。
+79,7364,,"I ladri agiscono sempre durante le lacune negli orari di
+pattuglia delle guardie di sicurezza. Ovviamente cambiamo
+i percorsi e gli orari di passaggio di consegne ogni giorno...","他們是在閉館後，趁著警衛的巡邏時間的空檔進行。
 雖然巡邏路線跟換班時間每天都會變換……",,"범행은 폐관 후 경비원의 순회 시간이 비는 틈을 
 노리고 실행됩니다.
 물론 순회 코스나 교대 시간을 매일 바꾸고 있습니다만…","Die Diebe schlagen immer dann zu, wenn der Plan
@@ -292,7 +293,8 @@ die Strecken und Schichtwechsel täglich ..."
 meno guardie.",但現狀，是他們依然會看穿警備薄弱的時間下手。,,"그런데도 경비가 허술한 시간대를 모조리 간파당하고
 마는 게 현 상황입니다","Aber irgendwie wissen die immer, wann am wenigsten
 Sicherheitsleute im Einsatz sind."
-81,3047,,Per quanto riguarda la sicurezza? Avete sensori di movimento o raggi infrarossi?,"保全系統呢？
+81,3047,,"Per quanto riguarda la sicurezza?
+Avete sensori di movimento o raggi infrarossi?","保全系統呢？
 有動態感側器跟紅外線裝置吧？",,"보안 시스템은?
 동체 센서나 적외선 정도는 있잖아?","Was ist mit Sicherheitssystemen? Gibt es
 Bewegungsmelder oder Infrarotstrahlen?"
@@ -305,9 +307,8 @@ sodass der Alarm nicht anschlägt."
 84,7364,,Altroché! È nuovissimo.,"沒有這回事！
 本水族館的保全系統是最新型的。",,"말도 안됩니다!
 저희 수족관의 보안은 최신식입니다",Nicht doch! Es ist brandneu.
-85,7364,,"Uno dei ladri deve essere un hacker
-altamente qualificato. Ho sentito che ci sono molti hacker
-di prim'ordine in EDEN.","犯罪集團裡一定有相當厲害的駭客。
+85,7364,,"Uno dei ladri deve essere un hacker altamente qualificato.
+Ho sentito che ci sono molti hacker di prim'ordine in EDEN.","犯罪集團裡一定有相當厲害的駭客。
 我聽說EDEN裡也有很多優秀的駭客隊伍……",,"아마도 범행 그룹엔 상당히 솜씨 좋은 해커가
 있는 게 틀림없습니다.
 EDEN엔 우수한 해커 팀이 많다고 들었고…","Dann muss ein Dieb ein fähiger Hacker sein. Ich
@@ -332,8 +333,7 @@ Verbrechen würdet ihr nie begehen."
 是我說話的方法不對……",,"아, 예! 죄송합니다.
 제 표현이 좋지 않았었나 봅니다…","Genau! Entschuldigung, ich habe das schlecht
 formuliert."
-92,7364,,"Vorrei davvero che Hudie scoprisse la verità e
-catturasse i colpevoli.","請hudie的各位，一定要找出
+92,7364,,"Vorrei davvero che Hudie scoprisse la verità e catturasse i colpevoli.","請hudie的各位，一定要找出
 這事件的真相，捉出幕後的犯人。",,"부디 후디에 여러분께서 이 사건의 진상을
 밝히고 범인을 잡아주셨으면 합니다","Es wäre mir wirklich lieb, wenn Hudie die
 Wahrheit herausfände und die Schuldigen stellte."
@@ -343,13 +343,13 @@ Non penso che dovremmo accettare il caso.","接受委託
 拒絕委託",,"의뢰를 받는다
 의뢰를 거절한다","Ich denke, wir sollten den Fall annehmen.
 Ich denke, wir sollten den Fall nicht nehmen."
-95,3046,,Allora prendiamolo. Sono un po' curioso di scoprire esattamente cosa sta succedendo.,"……既然你這麼說了，那就接下吧。
+95,3046,,"Allora prendiamolo.
+Sono un po' curioso di scoprire esattamente cosa sta succedendo.","……既然你這麼說了，那就接下吧。
 我也有點在意這事件的真相呢。",,"……네가 그렇게 말한다면 받아들이도록 할까.
 나도 약간 진상이 신경쓰이던 참이니까","Dann nehmen wir ihn. Ich bin auch etwas neugierig,
 was genau da los ist."
-96,3046,,"Non mi piace l'idea di pulire dopo la
-polizia, ma il detective Matayoshi ha fatto molto per
-noi.","……我也懂你不想幫警察收爛攤子的心情，
+96,3046,,"Non mi piace l'idea di pulire dopo la polizia,
+ma il detective Matayoshi ha fatto molto per noi.","……我也懂你不想幫警察收爛攤子的心情，
 但我們很受又吉先生照顧。",,"……경찰의 뒤치다꺼리를 하는 게 내키지 않는 건 알겠지만
 마타요시 씨에게는 신세를 지고 있지","Es gefällt mir zwar nicht, für die faule Polizei
 einzuspringen, aber Kommissar Matayoshi hat viel
@@ -359,8 +359,8 @@ für uns getan."
 우리 해커에게는 중요한 일이다","Es könnte außerdem nützlich sein, wenn die Polizei
 uns einen Gefallen schuldet."
 98,3046,,Il detective Matayoshi potrebbe essere utile.,……又吉先生可是“派得上用場”的男人喔。,,"…마타요시 씨는 ""쓸만한"" 남자야",Kommissar Matayoshi könnte uns nützlich sein.
-99,3007,,"Non posso credere che tu l'abbia detto con me
-proprio qui.",真是的，在我本人面前還真敢說啊。,,"정말, 본인을 앞에 두고 잘도 말하는군","Unglaublich, dass du das sagst, obwohl ich direkt
+99,3007,,"Non posso credere che tu l'abbia detto
+con me proprio qui.",真是的，在我本人面前還真敢說啊。,,"정말, 본인을 앞에 두고 잘도 말하는군","Unglaublich, dass du das sagst, obwohl ich direkt
 vor dir stehe."
 100,3046,,Prenderemo il caso. Lascialo fare a noi.,"又吉先生，這委託，我們hudie接下了。
 請你就當作上了大船吧。",,"마타요시 씨. 이 의뢰는 후디에가 받았습니다.
@@ -370,32 +370,30 @@ vor dir stehe."
 103,3046,,Fammi controllare due cose.,最後有兩點我要確認一下。,,마지막으로 두 가지만 확인해줘,Lassen Sie mich zwei Dinge überprüfen.
 104,3046,,"Ogni singolo oggetto in mostra rubato è stato restituito, giusto?",被偷出去的東西裡，每一樣都是完完整整地回來嗎？,,도난당한 것은 하나도 빠짐없이 돌아온 건가?,"Jedes einzelne gestohlene Tier wurde
 zurückgebracht, ja?"
-105,7364,,"Sì. Ho controllato con il nostro custode. Non manca
-niente.",是的，飼育員確認過，都沒有缺失。,,예. 사육 담당에게 확인한 바로는 빠진 것은 없습니다,"Ja, ich habe unseren Pfleger gefragt. Es fehlt
+105,7364,,"Sì. Ho controllato con il nostro custode.
+Non manca niente.",是的，飼育員確認過，都沒有缺失。,,예. 사육 담당에게 확인한 바로는 빠진 것은 없습니다,"Ja, ich habe unseren Pfleger gefragt. Es fehlt
 nichts."
 106,3046,,"E infine, è stato aggiunto qualcosa?","另一點，
 有多出什麼東西嗎？",,"또 한가지.
 뭔가 늘어난 것은 없나?",Wurde stattdessen etwas hinzugefügt?
 107,7364,,Aggiunto?,多出來的東西……嗎？,,늘어난 것…입니까?,Hinzugefügt?
-108,3046,,"Controlla se ci sono decorazioni,
-pietre o qualsiasi altra cosa che non conosci.","例如沒見過的擺飾或石頭，
+108,3046,,"Controlla se ci sono decorazioni, pietre
+o qualsiasi altra cosa che non conosci.","例如沒見過的擺飾或石頭，
 任何物品都好，請確認一下有沒有這種東西。",,"예를 들면 평소에 보이지 않던 오브제나 바위 같은 거다.
 뭐든 상관없어. 그런 것은 없었는지 확인해줘","Schauen Sie doch bitte mal nach Dekoration,
 Steinen oder sonstigem, was nicht hingehört."
 109,7364,,Lo farò. Cosa dovrei fare se trovo qualcosa?,"我知道了。
 要是有發現的話，我們該怎麼做呢？",,"알겠습니다.
 그 뭔가를 발견했을 경우, 어떻게 할까요?",Mache ich. Und wenn ich etwas finde?
-110,3046,,"Contattaci immediatamente. Assicurati di non
-toccarlo.","立刻聯絡我。
+110,3046,,"Contattaci immediatamente. Assicurati di non toccarlo.","立刻聯絡我。
 找到東西的話，完全不要碰觸。",,"바로 나에게 연락해.
 발견한 것엔 일절 손대지 말고","Kommen Sie direkt zu uns und berühren es auf
 keinen Fall."
 111,7364,,Capito. Grazie ancora.,我知道了，就拜託你們了。,,알겠습니다. 잘 부탁드립니다,In Ordnung. Danke noch mal.
 112,3007,,Allora lo lascio a te.,那就萬事拜託啦。,,그럼 맡겨두겠다,Dann überlasse ich das jetzt euch.
 113,3047,,"Okay, ripassiamo il caso!",……那麼，我們來統整一下委託的狀況吧！,,…그러면 의뢰 내용을 정리해 보실까!,"So, dann gehen wir den Fall mal durch!"
-114,3047,,"Ogni notte, un gruppo di uomini mascherati elude
-le guardie di sicurezza e ruba uno dei
-pezzi forti dell'acquario.","黑蒙面犯罪集團，會趁著警備薄弱時，
+114,3047,,"Ogni notte, un gruppo di uomini mascherati elude le guardie di
+sicurezza e ruba uno dei pezzi forti dell'acquario.","黑蒙面犯罪集團，會趁著警備薄弱時，
 每晚都偷走水族館的一項展示品。",,"검은 복면의 범행 그룹이 경비를 재빨리 피해서
 매일 밤 수족관의 전시물 하나를 훔쳐간다","Jede Nacht umgeht eine Gruppe maskierter Männer
 die Sicherheitsleute und stiehlt ein
@@ -423,7 +421,8 @@ zurückzubringen?"
 才發現飼養起來太過困難了呢？",,"훔치고 보니 역시 기르는 건 어렵겠다고
 생각한 거 아닐까?","Vielleicht haben sie gemerkt, dass die Pflege
 zu aufwendig ist?"
-121,3045,,"Devi controllare la temperatura dell'acqua, la qualità dell'acqua e cose del genere. È difficile persino per un professionista.","例如說，像水溫跟水質管理之類的，
+121,3045,,"Devi controllare la temperatura dell'acqua, la qualità dell'acqua
+e cose del genere. È difficile persino per un professionista.","例如說，像水溫跟水質管理之類的，
 就算對職業人士來說也很困難。",,"수온이나 수질 관리같은 건
 프로라도 어렵다고 하니까","Man muss die Wassertemperatur, die Qualität und
 das alles kontrollieren. Ist selbst für Profis
@@ -438,8 +437,8 @@ bringen ihn zurück und wiederholen das 30-mal?"
 123,3047,,Dovrebbero essere davvero stupidi...,"那樣的話也太蠢了……
 還是該說太呆了……",,"그건 좀 머리가 너무 나쁘다고 할까…
 바보같다고나 할까…",Die müssten ganz schön dumm sein ...
-124,3046,,"Oppure c'è qualcosa che ci sfugge. In ogni caso,
-ci servono più indizi.","或者……是有什麼我們猜想不到的內情吧。
+124,3046,,"Oppure c'è qualcosa che ci sfugge.
+In ogni caso, ci servono più indizi.","或者……是有什麼我們猜想不到的內情吧。
 不管怎樣，都得再獲得更多線索才行。",,"혹은 우리가 생각도 못할 사정이 있는가…로군.
 어쨌든 조금 더 단서를 얻어둘 필요가 있어","Oder uns entgeht noch was. Wir brauchen jedenfalls
 mehr Hinweise."
@@ -452,11 +451,9 @@ verbunden und werde die Protokolle des
 Sicherheitssystems durchgehen."
 127,3047,,Mmm...,……嗯～,,…음~,Hm ...
 128,3046,,Hai trovato qualcosa?,你發現什麼了嗎？,,뭔가 단서를 잡을 것 같나?,Hast du was gefunden?
-129,3047,,"Sembra che i ladri vi abbiano avuto accesso tramite il
-Cyberspazio.",他們好像有從電腦空間登入伺服器喔。,,그 놈들 전뇌공간에서 서버로 엑세스 한 모양이야,"Die Diebe haben wohl über den Cyberspace darauf
+129,3047,,"Sembra che i ladri vi abbiano avuto accesso tramite il Cyberspazio.",他們好像有從電腦空間登入伺服器喔。,,그 놈들 전뇌공간에서 서버로 엑세스 한 모양이야,"Die Diebe haben wohl über den Cyberspace darauf
 zugegriffen."
-130,3047,,"Hanno cancellato i registri, ma non è abbastanza per
-fermarmi.","他們雖然消除了整個侵入紀錄，
+130,3047,,"Hanno cancellato i registri, ma non è abbastanza per fermarmi.","他們雖然消除了整個侵入紀錄，
 但可逃不過我的法眼喔。",,"침입한 로그 자체는 지운 것 같지만
 내 눈은 속일 수 없지","Sie haben die Protokolle gelöscht, aber das reicht
 nicht, um mir zu entkommen."
@@ -465,8 +462,7 @@ Ci sono ancora tracce dei registri cancellati.","真是藏頭露尾的傢伙，
 把紀錄消除掉，卻留下了紀錄的痕跡。",,"머리는 숨겨도 꼬리는 숨기지 못하는 놈이군.
 로그를 지웠다는 로그 흔적을 남겼어","Sie waren vorsichtig, aber nicht vorsichtig genug.
 Es gibt noch Spuren der gelöschten Protokolle."
-132,3047,,"Dovrebbe bastare... Dannazione, hanno coperto le loro
-tracce.","從這邊應該能解開……
+132,3047,,"Dovrebbe bastare... Dannazione, hanno coperto le loro tracce.","從這邊應該能解開……
 嘖，果然有偽裝啊。",,"여기서부터 역으로 추적할 수 있겠는데…
 칫, 역시 위장하고 있나","Damit sollte es klappen ... Mist, sie haben ihre
 Spuren verwischt."

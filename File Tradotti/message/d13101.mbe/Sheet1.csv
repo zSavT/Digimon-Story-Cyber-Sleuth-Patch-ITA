@@ -11,8 +11,8 @@ medaglie e altri oggetti!","還、還、還……還有，如果腳邊有東西�
 메달이라던가, 아이템이 떨어져 있는 경우가 있으니까…!","Und wenn der B-B-Boden um dich herum aufleuchtet,
 halte die Augen offen! Medaillen und andere
 Items können herabfallen!"
-2,9082,,"Tu! Non sei pronto per il piano
-inferiore. Ricomincia.","那裡的你！　下一層對你來說還太早了。
+2,9082,,"Tu! Non sei pronto per il piano inferiore.
+Ricomincia da capo..","那裡的你！　下一層對你來說還太早了。
 先回去鍛鍊再給我過來！",,"거기 있는 너! 아래층은 너한텐 아직 이르니까
 되돌아갔다가 다시 와","Du da! Du bist nicht bereit für den unteren
 Stock. Fang noch mal an."
@@ -30,8 +30,8 @@ ricordare i nomi degli hacker di EDEN.","志賀？　不知道啊。
 EDEN駭客的名字，才沒有辦法全部一一記得啊。",,"시가? 모르겠는데.
 EDEN의 해커 이름 따윌 일일이 기억할 수 있겠냐","Shiga? Den kenne ich nicht. Ich kann mich nie an
 die Namen der EDEN-Hacker erinnern."
-201,9086,,"È la tua prima volta a Under Kowloon? Questo è la
-parte più profonda di Kowloon. Qui trovi solo
+201,9086,,"È la tua prima volta a Under Kowloon? Questo è
+la parte più profonda di Kowloon. Qui trovi solo
 veri hacker incalliti.","第一次來“Under Kowloon”嗎？
 這裡只有真正的駭客會過來，
 是Kowloon的深層區域。",,"""언더 쿠롱""은 처음이야?
@@ -61,24 +61,24 @@ Von dort aus kannst du in EDEN herumreisen."
 EDEN, sicuramente lo sai già.","……開玩笑的啦！
 如果是EDEN的駭客就一定會知道的吧。",,…뭐! EDEN의 해커라면 당연히 알고 있겠지,"Warum sag ich das überhaupt ... Als EDEN-Hacker
 weißt du das sicher bereits."
-207,2000,,"(Quindi devo raccogliere informazioni su
-Shiga dagli hacker in Under Kowloon, poi
-installare malware quando trovo la persona sospetta?)","（從Under Kowloon的駭客，收集關於“志賀”
+207,2000,,"(Quindi devo raccogliere informazioni su Shiga dagli hacker
+in Under Kowloon, poi installare malware quando trovo la
+persona sospetta?)","（從Under Kowloon的駭客，收集關於“志賀”
 　的情報，看到奇怪的傢伙就對他設下惡性
 　軟體……）",,"(언더 쿠롱의 해커에게서 ""시가""에 대한 정보를 모아서
  수상한 녀석을 발견하면 악성코드를 설치한다…인가)","(Ich muss mir also Informationen über Shiga von
 den Hackern in Unter Kowloon holen und Malware
 installieren, wenn ich den Verdächtigen finde?)"
-208,2000,,"(Questo è il mio primo lavoro come hacker. Non ho
-mai fatto niente del genere prima, ma lo farò
-semplicemente passo dopo passo.)","（這是我身為駭客以來的第一個工作）
+208,2000,,"(Questo è il mio primo lavoro come hacker.
+Non ho mai fatto niente del genere prima.
+Sto semplicemente procedendo un passo alla volta.","（這是我身為駭客以來的第一個工作）
 （雖然是第一次，但還是逐一完成吧）",,"(이게 내 해커로서의 첫 일이다)
  처음 하는 일이지만 차근차근 해내도록 하자)","(Dies ist mein erster Job als Hacker. Ich habe so
 etwas noch nie getan. Ich erledige einfach einen
 Schritt nach dem anderen.)"
-209,2000,,"(Ho chiesto a tutti gli hacker qui
-intorno, ma non ho scoperto nulla. Forse dovrei
-andare più avanti?)","（這附近的駭客雖然都問完一遍了，
+209,2000,,"(Ho chiesto a tutti gli hacker qui intorno,
+ma non ho scoperto nulla.
+Forse dovrei andare più avanti?)","（這附近的駭客雖然都問完一遍了，
 　還是沒得到什麼情報啊……
 　要再去更深處會比較好嗎？）",,"(이 근처에 있는 해커에게 모든 얘길 들었지만 허탕이야…
  좀 더 안으로 들어가 볼까?)","(Ich habe alle Hacker in der Umgebung befragt,

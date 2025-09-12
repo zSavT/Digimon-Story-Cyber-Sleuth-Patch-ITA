@@ -1,7 +1,8 @@
 ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
 1,4120,,Ehm... non so da dove cominciare.,呃……該從哪說起才好？,,저기……무슨 이야기부터 하면 좋을까?,"Äh ... ich weiß gar nicht, wo ich anfangen soll."
 2,4120,,Quella ragazza alla fine è riuscita ad attraversare?,莉莉，那孩子能成佛嗎？,,"릴리, 그 애는 성불했어?",Konnte das Mädchen jetzt sterben?
-3,4122,,"Beh, non sono sicuro che sia il modo giusto di dirlo, ma... comunque, lo spirito è sparito.","嗯～雖然和成佛有點不太一樣，
+3,4122,,"Beh, non sono sicuro che sia il modo giusto di dirlo, ma...
+comunque, lo spirito è sparito.","嗯～雖然和成佛有點不太一樣，
 但驅魔成功了喔。",,"으음~ 성불하고는 조금 다르지만
 퇴마는 성공했어","Also, so kann man das vielleicht nicht sagen,
 aber ... ihr Geist ist jedenfalls von uns
@@ -21,7 +22,8 @@ tornerà in questo mondo.","莉莉做的事就是斬斷之間的融合……
 이제 그 애가 이쪽 세계로 올 일은 없어","Meine Exorzismen verhindern diese Interaktion.
 Sie wird nicht mehr in diese Welt zurückkehren."
 6,4120,,È bene saperlo.,這樣啊，太好了……,,그렇구나. 다행이다……,Das beruhigt mich.
-7,4119,,"Se la Shibuya Hirasaka è reale, significa forse che l'entrata potrebbe essere riaperta un giorno?","如果涉谷平坂是真的，
+7,4119,,"Se la Shibuya Hirasaka è reale, significa forse
+che l'entrata potrebbe essere riaperta un giorno?","如果涉谷平坂是真的，
 會不會有一天，入口又會被其他人開啟啊……？",,"시부야 히라사카가 진짜란 건
 언젠가 또 입구가 열려버리는 거 아닐까……?","Wenn das Shibuya Hirasaka echt ist, heißt das,
 dass das Portal auch irgendwann wieder geöffnet
@@ -34,7 +36,8 @@ es steht immer offen."
 即使入口敞開，也只是“無法連結”而已，",,"정확하게 말하면……
 출입구는 열려있지만 제대로 ""연결되지 않은""거지","Um genau zu sein, steht der Eingang offen, ist
 aber eben nicht ganz verbunden."
-10,4122,,"Non posso esserne sicuro, ma potrebbe essere che il nostro esperimento Hirasaka di Shibuya abbia stabilito una connessione con l'altro mondo.","雖然只是猜想，但做出和那邊世界的“連結”的，
+10,4122,,"Non posso esserne sicuro, ma potrebbe essere che il nostro esperimento
+Hirasaka di Shibuya abbia stabilito una connessione con l'altro mondo.","雖然只是猜想，但做出和那邊世界的“連結”的，
 應該就是莉莉和大家一起成功的，那次涉谷平坂。",,"이건 짐작이지만 저쪽 세계와의 ""연결""을
 만들어버린 건, 릴리네가 했던 시부야 히라사카야","Ich weiß es nicht ganz sicher, aber es kann sein,
 dass unser Experiment mit Shibuya Hirasaka eine
@@ -99,16 +102,16 @@ a fare esorcismi.","是她告訴我的。
 莉莉為了要驅魔，一個人在東京各處奔波。",,"얘가 아까 가르쳐줬어.
 릴리가 퇴마활동을 위해 혼자 온 도쿄를 뛰어다녔다는 걸","Er hat mir gerade erzählt, dass du in Tokio
 herumflitzt und Exorzismen durchführst."
-28,4119,,"È ovvio che sei sovraccarico di lavoro. Dovresti lasciarci
-aiutare!","人手一定不夠吧？
+28,4119,,"È ovvio che sei sovraccarico di lavoro.
+Dovresti lasciarci aiutare!","人手一定不夠吧？
 那樣的話讓我們來幫忙吧！",,"일손이 부족하지?
 그렇다면 우리도 돕게 해주라고!","Du bist ganz klar überarbeitet. Du hättest uns
 helfen lassen sollen!"
 29,4122,,Cosa? Io...,咦？　妳的意思是……,,응? 그건……,Was? Ich ...
 30,4119,,È ora che tu abbia un ruolo più importante nel club!,妳已經從幽靈社員的身份畢業了，莉莉！,,"이젠 유령부원 졸업이란 거야, 릴리!","Es ist Zeit, dass du eine größere Rolle im Club
 spielst!"
-31,4119,,"Non sei più solo un membro ordinario. D'ora
-in poi, puoi essere il nostro istruttore di addestramento sul campo!","從現在開始，妳就是靈異研究社的
+31,4119,,"Non sei più solo un membro ordinario. D'ora in poi,
+puoi essere il nostro istruttore di addestramento sul campo!","從現在開始，妳就是靈異研究社的
 社員兼課外活動特別講師！",,"앞으로는 오컬트 연구부·부원 겸 과외활동 특별강사가
 될 거니까!","Du bist kein gewöhnliches Mitglied mehr. Ab jetzt
 kannst du unsere Einsatztrainerin sein!"
@@ -120,22 +123,22 @@ le abilità per affrontarli!","這就是說，不僅能親眼見識許多靈異�
 그것을 해결할 힘을 배우는 활동을 적용하는 거군요!?","Wir starten ein Programm, in dem wir
 übernatürliche Phänomene beobachten können und
 dabei lernen, wie man damit umgeht!"
-34,4121,,"Sì! Sono così felice di essermi unito a questo club! Sarà
-fantastico!","啊啊……！　我能進入靈異研究
+34,4121,,"Sì! Sono così felice di essermi unito a questo club!
+Sarà fantastico!","啊啊……！　我能進入靈異研究
 社真是太好了！！莉莉老師，就拜託妳了！",,"아아……! 나 오컬트부에 들어오길 잘했어!!
 릴리 선생님, 잘 부탁드립니다!","Jawohl! Ich bin so froh, dass ich diesem Club
 beigetreten bin! Das wird super!"
 35,4119,,Ehehe... Non puoi più scappare!,呵呵呵……我不會讓妳拒絕的喔，莉莉！！,,"후후후……도망칠 곳은 없어, 릴리!","Hehehe ... Da führt jetzt kein Weg mehr dran
 vorbei!"
 36,4122,,Sembra un sacco di lavoro...,嗚哇～……好麻煩喔～……,,우와~……귀찮아~……,Das klingt aber nach so viel Arbeit ...
-37,4120,,"Buona fortuna, Lily. Sai che non c'è modo di dissuadere
-Mei e Kenji quando si mettono così.","莉莉，加油……
+37,4120,,"Buona fortuna, Lily. Sai che non c'è modo di
+dissuadere Mei e Kenji quando si mettono così.","莉莉，加油……
 芽衣和健二，一旦進入那種狀態就無人能阻止了。",,"릴리, 파이팅……
 메이도 켄지도, 이렇게 되면 막을 수 없어","Viel Glück, Lily. Du weißt doch, dass man Mei und
 Kenji nichts mehr ausreden kann, wenn sie so drauf
 sind."
-38,4119,,"Possiamo sistemare i dettagli più tardi! Devo andare
-ora!","關於詳細的活動細節――
+38,4119,,"Possiamo sistemare i dettagli più tardi!
+Devo andare ora!","關於詳細的活動細節――
 就下次再討論吧！　我再不回家不行了！",,"활동에 대한 자세한 이야기말인데――
 그 이야기는 다음에 하자! 나 이제 가야 되니까!","Die Details können wir später klären! Ich muss
 jetzt weg!"

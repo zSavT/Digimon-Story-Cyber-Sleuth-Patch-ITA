@@ -9,25 +9,25 @@ vergöttert und sich total abschottet?"
 4,3047,,"Sì, è impossibile.",嗯，沒救了呢。,,"응, 그건 무리야","Ja, vollkommen unmöglich."
 5,2020,,?!?!,！？！？,,!?!?,?!
 6,3047,,"State chiedendo alle persone sbagliate. Se avessimo la minima idea
-di come aiutare in quel modo, l'avremmo già usata su
-Erika a quest'ora.","不是啊，你問錯對象了吧。
+di come aiutare in quel modo, l'avremmo già usata su Erika a quest'ora.","不是啊，你問錯對象了吧。
 如果我們有方法處理繭居族的話，
 小姐就不會到現在都還蹲在家啦？",,"아니, 너 물어볼 상대가 틀렸어.
 우리가 은둔형 외톨이를 어떻게 해볼 수 있다면
 아가씨가 언제까지고 이런 곳에 있을 리가 없잖아?","Du fragst die Falschen. Wenn wir da eine Ahnung
 hätten, hätten wir es ja schon bei Erika gemacht."
 7,2020,,...,…………,,…………,...
-8,3045,,"Ehi, non c'è niente di sbagliato in me. Mi piace solo
-stare qui.","……不好意思喔，我就是繭居族，
+8,3045,,"Ehi, non c'è niente di sbagliato in me.
+Mi piace solo stare qui.","……不好意思喔，我就是繭居族，
 又沒什麼關係，我就是喜歡待在這裡啊。",,"……미안하게 됐네, 은둔형 외톨이라.
 상관없잖아. 여기 있는 게 좋으니까","He, bei mir ist alles in Ordnung. Ich bin einfach
 nur gerne hier."
-9,3045,,"E ultimamente sono uscito parecchio. Sono anche
-andato a Shinjuku...","而且我最近意外的很常出門呢。
+9,3045,,"E ultimamente sono uscito parecchio.
+Sono anche andato a Shinjuku...","而且我最近意外的很常出門呢。
 之前還去了新宿……",,"게다가 요즘엔 의외로 밖에도 나가는걸.
 신주쿠에도 갔었고…","Und ich bin in letzter Zeit sogar oft aus dem Haus
 gegangen. Ich war sogar in Shinjuku."
-10,3046,,"Qualunque sia la tua situazione, un caso è un caso. Dobbiamo pensare a un modo.","…………呃，先不說艾莉卡，委託就是委託。
+10,3046,,"Qualunque sia la tua situazione, un caso è un caso.
+Dobbiamo pensare a un modo.","…………呃，先不說艾莉卡，委託就是委託。
 沒辦法了，想想看有什麼對策吧。",,"……뭐, 에리카에 대한 건 둘째치고 어쨌든 의뢰는 의뢰다.
 할 수 없지. 뭔가 수단을 생각해볼까","Wie dem auch sei, ein Fall ist ein Fall.
 Wir müssen uns etwas einfallen lassen."
@@ -74,8 +74,8 @@ considerare cosa fare dopo.","不管怎樣都有詳細調查的必要，
 그 후에 어떻게 할지 방침을 정해야겠지만…","Wir müssen die Fakten abklären, bevor wir auch nur
 drüber nachdenken, was wir als Nächstes tun."
 22,3045,,"Non sarà facile. Passa tutto il giorno nella sua stanza,
-a fissare video e immagini. Probabilmente è
-completamente immerso in una fantasia irraggiungibile.","……不要以為很簡單。這個人可是每天都待在
+a fissare video e immagini. Probabilmente è completamente
+immerso in una fantasia irraggiungibile.","……不要以為很簡單。這個人可是每天都待在
 房間裡，看偶像的影片或圖片喔。
 他一定是沉浸在無法傳達的愛慕之中吧？ ",,"……쉬울 거라고 생각하지 마.
 그 사람, 매일 계~속 방에서 아이돌의 영상이나
@@ -108,7 +108,8 @@ bist."
 캬~ 이래서 너희들은…","Bei euch beiden würde ich nicht damit rechnen,
 dass ihr das versteht."
 32,3047,,Ma come potremmo farlo?,妳打算怎麼做啊？　小姐？,,하지만 그런 걸 어떻게 하는 건데? 아가씨,Aber wie sollen wir das schaffen?
-33,3045,,"Per ora tengo la cosa nascosta. Devo fare dei preparativi, quindi non disturbarmi.","還不能說。
+33,3045,,"Per ora tengo la cosa nascosta.
+Devo fare dei preparativi, quindi non disturbarmi.","還不能說。
 那我還要做準備工作，不要吵我喔。",,"아직 비밀.
 그럼, 난 준비해야 되니까 말 걸지 말아줘","Ich behalte das erst mal im Hinterkopf. Ich muss
 Vorbereitungen treffen. Stört mich dabei nicht."
@@ -134,8 +135,8 @@ Natsume Keshikawa stessa.","更可疑的是，幾乎查不到
 關於芥子川夏目本人的情報。",,"게다가 무엇보다 케시카와 나츠메 본인에 대한 정보가
 거의 발견되지 않아","Außerdem gibt es kaum Informationen über Natsume
 Keshikawa selbst."
-39,3046,,"Quindi il cliente ha ragione che questo non è solo un
-semplice caso di ritiro sociale?","你的意思是，就像委託者說的一樣，
+39,3046,,"Quindi il cliente ha ragione che questo non è solo
+un semplice caso di ritiro sociale?","你的意思是，就像委託者說的一樣，
 這不只是單純的繭居族事件嗎？",,"의뢰인이 말하던 대로, 이건 단순한 은둔형 외톨이가
 아니라는 거냐?","Die Klientin hat also recht und es ist kein
 einfacher Fall von jemandem, der sich eben
@@ -152,11 +153,9 @@ Besuch abstatten?"
 44,3047,,È già qui.,伊井俊夫好像就在這裡。,,이이 토시오는 여기 있나봐,Er ist schon hier.
 45,2020,,?!,！？,,!?,?!
 46,3046,,Al bar?,這裡？　在店裡？,,여기? 가게에 있다고?,Im Café?
-47,3047,,"Sì. Sembra che la sua connessione Internet a casa
-sia in riparazione.",嗯，伊井家好像正在進行網路佈線的工程。,,"응, 아무래도 이이의 집이 인터넷 배선 공사 중인가 본데","Ja. Seine Internetverbindung zu Hause wird
+47,3047,,"Sì. Sembra che la sua connessione Internet a casa sia in riparazione.",嗯，伊井家好像正在進行網路佈線的工程。,,"응, 아무래도 이이의 집이 인터넷 배선 공사 중인가 본데","Ja. Seine Internetverbindung zu Hause wird
 offenbar gerade repariert."
-48,3047,,"Quindi si è connesso a EDEN e si sta nascondendo
-qui.",現在好像正用我們的基地來登入EDEN。,,"EDEN에 로그인하려고 우리 아지트를
+48,3047,,"Quindi si è connesso a EDEN e si sta nascondendo qui.",現在好像正用我們的基地來登入EDEN。,,"EDEN에 로그인하려고 우리 아지트를
 이용 중인 모양이야","Da hat er sich bei EDEN eingeloggt und versteckt
 sich hier."
 49,3046,,"Ottime notizie. Immagino che significhi che è guarito.
@@ -164,12 +163,14 @@ Caso chiuso.","還有那種方法啊……太好了。
 這樣繭居族的情況就消失了，委託完成了。",,"그 방법이 있었나……잘됐군.
 은둔형 외톨이 종료 아니냐. 의뢰 완료다","Das sind gute Neuigkeiten. Dann ist er wohl
 geheilt. Fall abgeschlossen."
-50,3047,,Non sono buone notizie. È stato connesso dalla stessa postazione per un'intera settimana.,"不，那還很難說喔～那傢伙，
+50,3047,,"Non sono buone notizie. È stato connesso dalla stessa postazione per
+un'intera settimana.","不，那還很難說喔～那傢伙，
 似乎連續一週都用同個路由器登入EDEN。",,"아니, 그게 별로 좋지 않아~
 그 녀석 아무래도 벌써 일주일간
 같은 부스에서 EDEN에 로그인 하고 있나봐","Nichts da gute Neuigkeiten. Er ist seit einer
 ganzen Woche vom gleichen Platz aus eingeloggt."
-51,3047,,Ha passato tutto il tempo a un raduno di fan di Natsume Keshikawa in EDEN.,"也一直都有參加EDEN裡舉行的
+51,3047,,"Ha passato tutto il tempo a un raduno di fan di Natsume Keshikawa
+in EDEN.","也一直都有參加EDEN裡舉行的
 芥子川夏目粉絲聚會。",,"EDEN에서 하는 케시카와 나츠메 팬 모임에
 계~속 참가하고 있어","Er hat die ganze Zeit bei einem Fan-Treffen für
 Natsume Keshikawa in EDEN verbracht."

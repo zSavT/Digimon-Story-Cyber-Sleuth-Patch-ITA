@@ -6,18 +6,21 @@ ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
 3,7060,,Agli ordini!,喔！,,예에!,Jawohl!
 4,3007,,Mi dispiace di averla tirata in mezzo.,抱歉，把你們給一起拖下水了。,,"미안한걸, 너희들의 힘까지 빌리게 됐으니","Tut mir leid, dass ich Sie da mit hineingezogen
 habe."
-5,7147,,"Figurati! Le dobbiamo qualcosa, dopo tutto quello che ha fatto per noi!","您在說什麼！
+5,7147,,"Figurati!
+Le dobbiamo qualcosa, dopo tutto quello che ha fatto per noi!","您在說什麼！
 我們才老是受到又吉先生的照顧！",,"무슨 말씀이십니까!
 우리들도 마타요시 씨에게는 신세를 지고 있습니다!","Das ist kein Ding! Wir schulden Ihnen etwas, nach
 allem, was Sie für uns getan haben!"
-6,7147,,"Se il leggendario ""Shinjuku-Matagi"" avrà mai bisogno del nostro aiuto, ci saremo!","只要是傳說中的“獵師刑警”召喚……
+6,7147,,"Se il leggendario ""Shinjuku-Matagi"" avrà mai
+bisogno del nostro aiuto, ci saremo!","只要是傳說中的“獵師刑警”召喚……
 我們絕對會風雨無阻的出現！",,"전설의 ""마타기 형사""의 부름이라면…
 언제든 환영입니다!","Wenn der legendäre „Shinjuku-Matagi“ je unsere
 Hilfe braucht, werden wir zur Stelle sein!"
 7,3007,,"Hehe, lo apprezzo.",嘿嘿……謝謝啊。,,헤헤… 고맙군,"Hehe, ich weiß das zu schätzen."
 8,7061,,Cosa fa qui?,你們是誰？,,"뭐냐, 너희들은",Was tun Sie hier?
 9,3007,,"Ah, ciao.",喔，執勤辛苦了。,,"오오, 근무하느라 수고가 많네","Ach, hallo."
-10,3007,,Per quest'area siamo noi i responsabili d'ora in poi. Purtroppo devo chiederle di andarsene.,"現在這個時間，管轄權已經輪到我們了。
+10,3007,,"Per quest'area siamo noi i responsabili d'ora in poi.
+Purtroppo devo chiederle di andarsene.","現在這個時間，管轄權已經輪到我們了。
 抱歉啊……稍微讓一下吧？",,"현 시각부로 이곳은 우리들의 관할이 되었다.
 미안하지만…… 잠깐 비켜주지 않겠나?","Für diesen Bereich sind ab jetzt wir
 verantwortlich. Leider muss ich Sie bitten zu
@@ -25,12 +28,13 @@ gehen."
 11,7061,,Nessuno me ne ha informato. A quale dipartimento appartiene?,我沒聽說過這件事，你是哪個單位的！,,그런 말은 들은 적 없다. 어느 부서냐!,"Niemand hat mich darüber informiert. Zu welcher
 Abteilung gehören Sie?"
 12,3007,,Io?,……我嗎？,,…나 말인가?,Ich?
-13,3007,,"Sono Goru Matayoshi, Sezione 1 Crimini Violenti dell'Unità Investigativa per la Cybercriminalità, Polizia di Tokyo.","我啊──我是警視廳刑事部電腦犯罪搜查課，
+13,3007,,"Sono Goru Matayoshi, Sezione 1 Crimini Violenti
+dell'Unità Investigativa per la Cybercriminalità, Polizia di Tokyo.","我啊──我是警視廳刑事部電腦犯罪搜查課，
 第一強行班特別分隊的……又吉五郎。",,"나는―― 경시청 형사부 전뇌범죄수사과
 제1 강행반 특별분서의……마타요시 고로라는 사람이다","Ich bin Goru Matayoshi, Abteilung 1 für
 Gewaltverbrechen der Ermittlungseinheit für
 Cyberkriminalität, Polizei von Tokio."
-14,3007,,"Conosciuto anche come lo „Shinjuku-Matagi“.
+14,3007,,"Conosciuto anche come lo ""Shinjuku-Matagi"".
 Non dimenticatelo assolutamente.",大家都叫我“新宿獵師刑警”……給我記住了。,,"통칭 ""신주쿠 마타기 형사"" ……기억해둬라","Auch bekannt als der „Shinjuku-Matagi“.
 Vergessen Sie das bloß nicht."
 15,7061,,Unità per la Cybercriminalità? Matagi?,電腦犯罪搜查課……？　獵……師……？,,전뇌범죄수사과……? 마타…기…?,Einheit für Cyberkriminalität? Matagi?
@@ -48,7 +52,8 @@ e cercano di fare qualcosa!","對我來說很重要的小鬼們賭上了性命�
 就為了阻止這個情況……",,"그걸 어떻게든 하기 위해서……
 내 소중한 꼬맹이들이 저쪽에서도 이쪽에서도 목숨을 걸고 있다고!","Diese Jugendlichen setzen ihr Leben auf’s Spiel
 und versuchen, etwas zu unternehmen!"
-19,3007,,"Che razza di commissario sarei, se non li aiutassi? Non permetterò che vengano fermati!","如果這時候我們不出一份力，
+19,3007,,"Che razza di commissario sarei, se non li aiutassi?
+Non permetterò che vengano fermati!","如果這時候我們不出一份力，
 算什麼刑警！算什麼大人啊！
 我絕對不會放過礙事的傢伙！",,"그걸 최소 조력이라도 해주지 않고
 뭐가 형사냐! 뭐가 어른이냐!

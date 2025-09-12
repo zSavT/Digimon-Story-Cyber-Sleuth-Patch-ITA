@@ -5,50 +5,56 @@ Capisco.","……嗯，我知道。
 我會去找哥哥。",,"……응, 알았어.
 오빠를 찾으러 가는 거지","Du hast vor, nach Ryuji zu suchen, oder?
 Verstehe."
-3,3045,,"Io... non riesco ancora a muovermi. Quindi, per favore, fai ciò che io non posso fare.",我也還不能行動……就拜託你了。,,나는 아직 움직일 수 없으니까……부탁할게,"Ich ... kann mich noch nicht bewegen. Also tu
+3,3045,,"Io... non riesco ancora a muovermi.
+Quindi, per favore, fai ciò che io non posso fare.",我也還不能行動……就拜託你了。,,나는 아직 움직일 수 없으니까……부탁할게,"Ich ... kann mich noch nicht bewegen. Also tu
 bitte, was ich nicht tun kann."
 4,3045,,Cosa?,……怎麼了？,,……왜 그래?,Was?
-5,3045,,Hai visto questa IA virtuale dal mio server di ricordi... nel mondo reale?,"你在現實世界中，看到了我的
+5,3045,,"Hai visto questa IA virtuale dal
+mio server di ricordi... nel mondo reale?","你在現實世界中，看到了我的
 記憶伺服器裡的模擬AI？",,내 기억 서버에 본 의사적인 AI를 현실 세계에서도 봤다고?,"Du hast diese virtuelle KI von meinem Erinnerungs-
 server gesehen ... in der echten Welt?"
 6,3045,,Mh...,這樣啊……,,그래……,Hm ...
-7,3045,,"Da quando ho trasferito i miei ricordi su EDEN, sono successe cose strane.","…………畢竟我把記憶移植到EDEN了，
+7,3045,,"Da quando ho trasferito i miei ricordi su EDEN,
+sono successe cose strane.","…………畢竟我把記憶移植到EDEN了，
 才會發生這種神秘的事情啊。",,"…………EDEN에 기억을 이식했을 때부터 말야
 신기한 일이 일어나게 되었어","Seit ich meine Erinnerungen nach EDEN übertragen
 habe, sind merkwürdige Sachen passiert."
-8,3045,,Ricordo luoghi in cui non sono mai stato. Sogno di vedere cose che non conosco affatto.,"有去過沒去過的地方的記憶，
+8,3045,,"Ricordo luoghi in cui non sono mai stato.
+Sogno di vedere cose che non conosco affatto.","有去過沒去過的地方的記憶，
 也有看著沒看過的地方的夢……",,"간 적도 없는 장소를 기억하거나
 본 적도 없는 장소를 보는 꿈을 꾸거나…","Ich erinnere mich an Orte, an denen ich nie
 gewesen bin. Ich träume davon, mir Dinge
 anzusehen, die ich gar nicht kenne."
-9,3045,,Forse i miei ricordi stanno lentamente filtrando nel Cyberspazio e si aggirano lì attorno.,"說不定是我不知道的時候，我的記憶
+9,3045,,"Forse i miei ricordi stanno lentamente filtrando
+nel Cyberspazio e si aggirano lì attorno.","說不定是我不知道的時候，我的記憶
 外洩，在電腦世界裡四處徘徊吧。",,"어쩌면 모르는 사이에 내 기억이 유출되어
 전뇌세계를 떠돌고 있었던 건지도 몰라","Vielleicht sickern meine Erinnerungen langsam in
 den Cyberspace und treiben sich dort herum."
 10,2020,,...?,……？？,,……??,...?
-11,3045,,"Voglio dire, quello che hai visto forse era... beh... „io“.","…… 就是說，你看到的，說不定
+11,3045,,"Voglio dire, quello che hai visto forse era... beh... ""io"".","…… 就是說，你看到的，說不定
 真的是“我”啦。",,"……네가 본 건 정말로 ""나""였을지도
 모른다는 거지","Ich meine, was du gesehen hast, war vielleicht ...
 nun ... „ich“."
-12,3045,,Guarda cosa è successo a Tokyo. Il confine tra il mondo virtuale e quello reale è quasi sfumato.,"東京變成了現在這樣子，
+12,3045,,"Guarda cosa è successo a Tokyo.
+Il confine tra il mondo virtuale e quello reale è quasi sfumato.","東京變成了現在這樣子，
 現實與數碼的分界也無比曖昧。",,"도쿄가 이렇게 되면서
 현실과 디지털의 경계가 굉장히 애매해졌어","Sieh dir an, was in Tokio passiert ist. Die Grenze
 zwischen der virtuellen und der echten Welt ist
 quasi verwischt."
-13,3045,,"Il mio 'Io' è sempre stato difficile da delineare, e
-ora perde ancora più forma.","受到這個影響，原本就夠模糊的“我”，
+13,3045,,"Il mio ""Io"" è sempre stato difficile da delineare,
+e ora perde ancora più forma.","受到這個影響，原本就夠模糊的“我”，
 說不定變得更模糊了……",,"그 영향으로 원래 애매해던 ""나""는
 더 애매해지고 만 건지도 몰라…","Mein „Ich“ war von jeher schwer zu umreißen, und
 nun verliert es noch mehr an Gestalt."
 14,2020,,...,…………,,…………,...
 15,3045,,"Il mio corpo potrà anche esistere nella realtà,
-ma le memorie che lo animano,
-sono state... digitalizzate.","我的肉體雖然存在於現實，
+ma le memorie che lo animano, sono state... digitalizzate.","我的肉體雖然存在於現實，
 但能感受的記憶全都數位化了……",,"나의 육체는 현실에 존재하고 있을지도 모르지만
 그것을 느끼는 기억은 모두 디지털화 되었어…","Mein Körper mag zwar in der Realität existieren,
 aber die Erinnerungen, die ihn antreiben,
 wurden ... digitalisiert."
-16,3045,,"Ciò che provo ora, i miei ricordi dei miei simili, tutto è una raccolta di dati. Un sogno che i dati mi mostrano.","我現在感受到的感情，跟大家的記憶
+16,3045,,"Ciò che provo ora, i miei ricordi dei miei simili,
+tutto è una raccolta di dati. Un sogno che i dati mi mostrano.","我現在感受到的感情，跟大家的記憶
 也都是電腦空間內的部份記憶資料……
 說不定我只是資料集結體的“夢”。",,"지금 느끼고 있는 이 감정이나 모두와의 기억도
 전뇌공간에 기록된 데이터의 일부……

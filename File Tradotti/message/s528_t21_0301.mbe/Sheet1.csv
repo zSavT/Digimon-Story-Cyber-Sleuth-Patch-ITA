@@ -5,19 +5,21 @@ siete pregati di prendere posto.","高中生程式選手權決賽即將開始，
 선수는 지정된 위치에서……","Das Finale geht gleich los. Teilnehmer, bitte auf
 die Plätze."
 2,3045,,Perché mi hai chiesto di venire qui?,……為什麼連我也要啊。,,……어째서 나까지,Warum wollt ihr mich denn dabeihaben?
-3,3047,,"Sei libero, vero? E Ryuji non si trova da nessuna parte. Potremmo aver bisogno di un paio di mani in più!","有什麼關係，反正妳一定也沒事做吧？
+3,3047,,"Sei libero, vero? E Ryuji non si trova da nessuna parte.
+Potremmo aver bisogno di un paio di mani in più!","有什麼關係，反正妳一定也沒事做吧？
 而且龍司也不在，人手多一點不會有壞事的！",,"상관없잖아~ 어차피 한가하지?
 류지도 없고 일손은 많을수록 좋으니까!","Du hast doch Zeit, oder? Und von Ryuji ist keine
 Spur. Wir brauchen vielleicht noch jemanden zum
 Anpacken!"
-4,3045,,Non mi interessa una competizione liceale. Sabotare l'opposizione non mi sembra un gran problema.,"……我對高中生的大賽沒有興趣，
+4,3045,,"Non mi interessa una competizione liceale.
+Sabotare l'opposizione non mi sembra un gran problema.","……我對高中生的大賽沒有興趣，
 反正對手的妨礙手段一定也沒什麼大不了的。",,"…고교생 대회 같은 건 흥미 없는데.
 상대의 방해 공작이래 봤자 어차피 별거 아닐 거라고 생각해","Ein Schulwettbewerb interessiert mich nicht. Das
 wird schon nicht so schlimm sein, wenn sie den
 Gegnern ein Bein stellen."
 5,3047,,"Oggigiorno i ragazzi delle superiori hanno delle
-abilità piuttosto buone, a dire il vero. Alcuni di loro hanno creato dei
-programmi interessanti!","不不不，妳可不要看不起最近的高中生喔～？
+abilità piuttosto buone, a dire il vero. Alcuni di loro hanno
+creato dei programmi interessanti!","不不不，妳可不要看不起最近的高中生喔～？
 也有寫出了相當有趣的程式的傢伙喔！ ",,"아니아니, 요즘 고등학생도 제법 얕볼 수 없다구~?
 꽤 재미있는 프로그램을 짜는 녀석도 있으니까!","Highschool-Schüler heutzutage haben schon einiges
 auf dem Kasten. Manche haben schon interessante
@@ -38,7 +40,8 @@ Do loro supporto.","我不是出賽成員，所以沒關係。
 我比較像是教練……支援選手的立場。",,"저는 선발 멤버가 아니니 괜찮습니다.
 코치 같은 입장이라고 할까…선수의 서포트를 맡고 있습니다","Ich gehöre nicht zum Team. Ich bin eher die
 Trainerin ... und leiste Unterstützung."
-11,7374,,Terrò d'occhio da vicino la scuola superiore Nishinomori insieme a te durante la competizione.,我想和大家一起，在比賽時監視西之森高中的動作。,,"시합 도중에도 여러분과 함께 니시노모리 고교의 움직임을
+11,7374,,"Terrò d'occhio da vicino la scuola superiore Nishinomori insieme a te
+durante la competizione.",我想和大家一起，在比賽時監視西之森高中的動作。,,"시합 도중에도 여러분과 함께 니시노모리 고교의 움직임을
 엄중하게 감시할 생각입니다","Ich werde mit euch ein Auge auf die Nishinomori
 High School haben, während der Wettbewerb läuft."
 12,3047,,La stai prendendo davvero sul serio.,真有幹勁呢。,,기합이 들어갔네,Du nimmst das ganz schön ernst.
@@ -56,8 +59,8 @@ iniziare.","在這種地方偷懶沒關係嗎？
 곧 시합이 시작된다고?","Was machst du denn hier drüben? Es geht gleich
 los."
 16,7374,,Potrei chiedere la stessa cosa a te.,……要這樣說的話你不也是嗎，東雲。,,"…그건 너도 마찬가지잖아, 시노노메",Ich könnte dich das Gleiche fragen.
-17,7378,,"Sono qui solo per augurarti buona fortuna. Spero sia una bella
-gara.","哼，就讓我們互相好好的比一場吧。
+17,7378,,"Sono qui solo per augurarti buona fortuna.
+Spero sia una bella gara.","哼，就讓我們互相好好的比一場吧。
 希望這能成為一場好比賽。",,"흥, 뭐 서로 건투해보자.
 좋은 시합이 되기를 기원하지","Ich wollte euch nur viel Glück wünschen. Ich
 hoffe, es wird ein guter Wettbewerb."
@@ -65,8 +68,8 @@ hoffe, es wird ein guter Wettbewerb."
 19,7374,,"Quello era Shinonome, il presidente del Nishinomori
 Digital Club.",……那就是對手學校的社長，東雲。,,"……저게 라이벌 학교의 부장, 시노노메입니다","Das war Shinomone, der Vorsitzende des
 Nishinomori-Informatikclubs."
-20,3047,,"Sta chiaramente tramando qualcosa. Non è stato esattamente
-sottile a riguardo.","……完全散發出那種「有不良企圖」的臉呢。
+20,3047,,"Sta chiaramente tramando qualcosa.
+Non è stato esattamente sottile a riguardo.","……完全散發出那種「有不良企圖」的臉呢。
 連挑釁都很好看穿。",,"…척 봐도「뭔가 꾸미고 있습니다」같은 얼굴이었지.
 알기 쉬운 도발이로구만","Der führt definitiv etwas im Schilde. Damit hat er
 ja kaum hinter dem Berg gehalten."
@@ -76,8 +79,7 @@ probabilmente sarà lui il mandante.","因為他也不是出賽選手，
 무슨 일이 일어난다면 분명 그가 움직인 것이겠죠","Er ist auch nicht in deren Team. Wenn sie etwas
 machen, steckt er wahrscheinlich dahinter."
 22,7374,,"Il loro obiettivo più probabile è il server che
-controlla il programma che abbiamo creato. Ti manderò l'
-URL.","他們鎖定的目標，應該是我們所構築的
+controlla il programma che abbiamo creato. Ti manderò l'URL.","他們鎖定的目標，應該是我們所構築的
 程式管理伺服器。我現在就把伺服器的
 URL交給你們。",,"노린다면 아마 저희가 구축한 프로그램의
 관리 서버일 거라고 생각합니다.
@@ -85,8 +87,8 @@ URL交給你們。",,"노린다면 아마 저희가 구축한 프로그램의
 der unser Programm steuert. Ich schicke euch die
 URL."
 23,7374,,Conto su di te.,那就拜託你們了。,,그러면 잘 부탁드립니다,Ich verlasse mich auf euch.
-24,3047,,"Immagino che dobbiamo solo aspettare che Nishinomori faccia
-la sua mossa.","人家是這樣說的喔，
+24,3047,,"Immagino che dobbiamo solo aspettare che Nishinomori faccia la
+sua mossa.","人家是這樣說的喔，
 剩下的就是等對方出手吧。",,그렇대. 남은 건 상대가 어떻게 나오냐에 달렸다는 느낌인걸,"Jetzt müssen wir wohl abwarten, bis Nishinomori
 zuschlägt."
 25,3047,,Ehi? Dov'è [p]?,……嗯？　[p]在哪啊？,,…어라? [p] 녀석은 어디 갔지?,"He, wo ist denn [p]?"
@@ -109,7 +111,8 @@ così paura di vedere persone del tuo liceo?","你也真是好事～
 denn an, wenn du solche Angst hast, dass Leute
 aus deiner Schule dich sehen?"
 30,3045,,Sei troppo buono per il tuo stesso bene.,……根本已經超越爛好人的境界了。,,…도를 넘을 정도로 사람이 좋은 거야,Du hast ein viel zu weiches Herz.
-31,3047,,"Se sei così preoccupato, non devi avvicinarti troppo. Nasconditi qui e tieni gli occhi aperti.","唉……那麼擔心，就不要這麼近距離觀看比賽啊。
+31,3047,,"Se sei così preoccupato, non devi avvicinarti troppo.
+Nasconditi qui e tieni gli occhi aperti.","唉……那麼擔心，就不要這麼近距離觀看比賽啊。
 躲起來當幕後就好啦。",,"뭐…그렇게나 걱정된다면 시합을 가까이에서 보는 건 그만둘까.
 여기 숨어서 배후를 지키도록 하자","Wenn du dir solche Sorgen machst, dann geh nicht
 zu nah ran. Versteck dich hier und halte einfach
@@ -140,11 +143,15 @@ vantaggio!","兩校都順利的開始動作了！
 이노덴 고교가 우세합니다!","Beide Teams legen einen guten Start hin! Oha!
 Nishinomori ist gerade zurückgefallen. Inoden
 liegt im Vorteil!"
-39,3047,,"Inoden se la cava bene. Se non succede niente di inaspettato, questo sarà il caso più facile di sempre.","井之電的人好像很努力嘛，
+39,3047,,"Inoden se la cava bene.
+Se non succede niente di inaspettato,
+questo sarà il caso più facile di sempre.","井之電的人好像很努力嘛，
 如果就這樣順利結束，就能輕鬆獲得報酬了。",,"이노덴 녀석들 열심히 하고 있나 본데.
 이대로 아무 일도 일어나지 않는다면 편하게 보수를 받겠는걸","Inoden schlägt sich gut. Wenn nichts Unerwartetes
 passiert, wird das der leichteste Fall überhaupt."
-40,7376,,"Oh, cos'è questo?! Sembra che qualcosa sia andato storto con il programma di Inoden!","哎呀，發生了什麼事了嗎！？
+40,7376,,"Oh, cos'è questo?!
+Sembra che qualcosa sia andato storto
+con il programma di Inoden!","哎呀，發生了什麼事了嗎！？
 井之電高中的隊伍所構築的程式
 好像有什麼突發狀況！",,"이런, 이게 무슨 일이죠!?
 이노덴 고교 팀이 구축한 프로그램에

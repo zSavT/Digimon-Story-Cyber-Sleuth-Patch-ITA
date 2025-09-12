@@ -1,11 +1,12 @@
 ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
-1,2020,,"Ricordo quando ho incontrato per la prima volta questo insolito
-investigatore.",我想起來了，遇到這位神秘偵探時候的事。,,나는 이 수상한 탐정과 만났을 때를 떠올렸다,"Ich weiß noch, wie ich diese ungewöhnliche
+1,2020,,"Ricordo ancora quando ho incontrato per la prima volta questa
+insolita investigatrice.",我想起來了，遇到這位神秘偵探時候的事。,,나는 이 수상한 탐정과 만났을 때를 떠올렸다,"Ich weiß noch, wie ich diese ungewöhnliche
 Detektivin zum ersten Mal traf."
 2,2020,,"Ero a Shinjuku, poco dopo aver incontrato gli Hudie.",那是在新宿──還沒遇見hudie的時候。,,"그건 분명 신주쿠에서―― 후디에를 만난지
 얼마 되지 않았을 무렵이었다","Ich war in Shinjuku. Es war kurz nachdem ich
 Hudie kennengelernt hatte."
-3,2020,,"Stava indagando su qualcosa chiamato ""Onda Digitale"", e in qualche modo mi sono ritrovato coinvolto nella sua indagine.","那時候，她正在調查名為“數碼波”的東西，
+3,2020,,"Stava indagando su qualcosa chiamato ""Onda Digitale"", e in qualche
+modo mi sono ritrovato coinvolto nella sua indagine.","那時候，她正在調查名為“數碼波”的東西，
 我被她抓住，搞不清楚狀況就陪她進行調查。",,"그 때 나는 ""디지털 웨이브""라던가 하는 것을 조사하던
 그녀에게 붙잡혀 영문도 모르고 조사에 동원되었다……","Sie stellte Nachforschungen zu einer sogenannten
 „digitalen Welle“ an. Irgendwie wurde ich in ihre
@@ -13,15 +14,14 @@ Nachforschungen verwickelt."
 4,3006,,C'è qualcosa che non va?,……怎麼了嗎？,,……왜 그러지?,Stimmt etwas nicht?
 5,3006,,Stai ripensando a quando ci siamo incontrati la prima volta?,你想起遇見我的時候的事情了嗎？,,나와 만났을 때를 떠올리고 있었나?,Erinnerst du dich an unser erstes Treffen?
 6,3006,,Sei stato di grande aiuto.,那時候真是幫了大忙呢。,,"그래, 그땐 덕분에 살았어",Du warst mir eine große Hilfe.
-906,3006,,"Il carico di lavoro era molto più di quanto potessi gestire da
-solo.",那樣的實地工作，只靠一個人真的是很辛苦啊。,,"그런 부류의 필드워크는 
+906,3006,,"Il carico di lavoro era molto più di quanto potessi gestire da sola.",那樣的實地工作，只靠一個人真的是很辛苦啊。,,"그런 부류의 필드워크는 
 혼자서 하기엔 고달픈 작업이니까","Das Arbeitspensum hätte ich allein nicht
 bewältigen können."
-7,3006,,"Non avevo un assistente allora, come invece ho ora.",那時候，也不像現在有負責雜事的助手──,,그때는 지금처럼 잡일을 맡길 조수도 없었으니까――,"Damals hatte ich keinen Hilfsdetektiv, so wie
+7,3006,,"Non avevo un assistente allora, come ora.",那時候，也不像現在有負責雜事的助手──,,그때는 지금처럼 잡일을 맡길 조수도 없었으니까――,"Damals hatte ich keinen Hilfsdetektiv, so wie
 jetzt."
 8,3006,,"A pensarci bene, incontrarti è probabilmente ciò che
 mi ha fatto capire quanto possa essere d'aiuto un assistente.
-Ti sono grato.","嗯……現在想來，會注意到助手的好處，
+Ti sono grata.","嗯……現在想來，會注意到助手的好處，
 說不定是因為那時候遇見了你呢，得謝謝你喔。",,"흐음…… 이제 와서 생각해보니 조수가 있는 편이 좋다는 걸 깨달은 건
 그때 너와의 만남이 있었기 때문일지도 모르겠군. 감사하지","Wahrscheinlich ist mir dadurch bewusst geworden,
 wie nützlich ein Hilfsdetektiv wäre. Dafür
@@ -79,8 +79,8 @@ Ich habe ein ungutes Gefühl!)"
 30,7163,,"""Non ti distrarrai durante un caso così
 importante, vero?""",「你該不會在處理重要的委託時跑去閒逛了吧？」,,「설마 중요한 의뢰 중에 딴 길로 새진 않았겠지?」,"„Während so eines wichtigen Falls würdest du dich
 nicht ablenken lassen, oder?“"
-31,7163,,"""Ho installato uno spyware sul tuo Digivice, quindi
-saprò se stai bighellonando.""","「我有用惡性軟體在監視你的Digivice。
+31,7163,,"""Ho installato uno spyware sul tuo Digivice,
+quindi saprò se stai bighellonando.""","「我有用惡性軟體在監視你的Digivice。
 　只要你偷懶，我立刻就會知道喔」",,"「악성코드로 네 디지바이스를 감시하고 있으니까
  딴짓하면 바로 알 수 있다고~」","„Ich habe Spyware auf deinem Digivice installiert.
 Ich weiß also, wenn du deine Pflicht

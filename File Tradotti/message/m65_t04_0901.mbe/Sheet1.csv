@@ -5,12 +5,15 @@ ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
 4,4014,,"Mi dispiace.
 Non sappiamo ancora molto sulle sue condizioni.",對不起，目前還沒辦法說她的狀態到底如何。,,미안해. 병세는 아직 뭐라고 할 수 없어,"Es tut mir leid.
 Wir wissen noch nicht viel über ihren Zustand."
-5,4014,,"A quanto ho sentito, la causa sarebbe stata che la loro connessione al server è stata interrotta da uno spegnimento.","原因雖然是因為關閉伺服器的影響，
+5,4014,,"A quanto ho sentito, la causa sarebbe stata che la loro
+connessione al server è stata interrotta da uno spegnimento.","原因雖然是因為關閉伺服器的影響，
 切斷了和伺服器的連接……",,"셧다운의 영향으로 서버와의 링크가 끊어진 것이
 원인이라고 하지만……","Wobei ich gehört habe, die Ursache wäre gewesen,
 dass ihre Verbindung zum Server durch ein
 Herunterfahren unterbrochen wurde."
-6,4014,,"Il trattamento di Erika è speciale. Dobbiamo lavorare con estrema cura, e ci vorrà un po'. Faremo per lei tutto il possibile.","但是艾莉卡的治療是很特殊的，沒辦法輕率行動。
+6,4014,,"Il trattamento di Erika è speciale.
+Dobbiamo lavorare con estrema cura, e ci vorrà un po'.
+Faremo per lei tutto il possibile.","但是艾莉卡的治療是很特殊的，沒辦法輕率行動。
 治療也會花很多時間，之後就交給我們吧。",,"에리카의 치료는 특별하니까 서툰 짓은 할 수 없어.
 처치에도 시간이 걸린다는 모양이니 뒷일은 우리에게 맡겨줘","Erikas Behandlung ist speziell. Wir müssen äußerst
 gründlich arbeiten, und es wird eine Weile dauern.
@@ -34,39 +37,46 @@ Was tun Sie hier?"
 die Grundlage für ihre Behandlung ist."
 13,2020,,?!,！？！？,,!?!?,?!
 14,1392,,Hanno sviluppato il loro trattamento?,艾莉卡的治療方法……是你！？,,에리카의 치료 방법을… 당신이!?,Sie haben ihre Behandlung entwickelt?
-15,3009,,"Esatto. Dunque, la teoria fondamentale al riguardo proviene da me. Con il loro trattamento in sé non ho nulla a che fare.","對，是我。
+15,3009,,"Esatto. Dunque, la teoria fondamentale al riguardo proviene da me.
+Con il loro trattamento in sé non ho nulla a che fare.","對，是我。
 話雖如此，但我只有建構出基本理論，
 沒有參與到治療……",,"예에, 그렇습니다.
 뭐 기초적인 이론을 구축했을 뿐, 치료에는 관여하지 않았지만…","Ganz recht. Also, die grundlegende Theorie dazu
 stammt von mir. Mit ihrer Behandlung an sich
 habe ich nichts zu tun."
-16,3009,,Avevo sentito dire che si fosse verificato un insolito incidente. Il medico responsabile mi chiese di dare un'occhiata al caso.,"我是聽說發生了特殊的意外，
+16,3009,,"Avevo sentito dire che si fosse verificato un insolito incidente.
+Il medico responsabile mi chiese di dare un'occhiata al caso.","我是聽說發生了特殊的意外，
 才被主治醫生給叫來了喔。",,"변칙적인 사고가 발생했다, 고 듣고
 담당 의사가 불러서 이렇게 온 겁니다","Ich hatte gehört, es habe einen ungewöhnlichen
 Unfall gegeben. Der zuständige Arzt bat mich,
 einen Blick auf den Fall zu werfen."
 17,1392,,"Allora, sa come la sua memoria può essere ripristinata?!",那麼，你知道讓艾莉卡的記憶恢復的方法嗎！？,,그렇다면 에리카의 기억을 원래대로 되돌릴 방법도 알아!?,"Also wissen Sie, wie ihr Gedächtnis
 wiederhergestellt werden kann?!"
-18,1392,,"A quanto pare, la connessione è stata interrotta durante lo spegnimento del loro server dei ricordi.","好像是我太亂來，關閉了記憶伺服器的錯，
+18,1392,,"A quanto pare, la connessione è stata interrotta durante
+lo spegnimento del loro server dei ricordi.","好像是我太亂來，關閉了記憶伺服器的錯，
 才中斷了連線……！",,"억지로 기억 서버를 종료한 탓에
 링크가 끊어져버린 모양이야…!","Wie es aussieht, wurde die Verbindung beim
 Herunterfahren ihres Erinnerungsservers
 unterbrochen."
 19,3009,,Hm... Raccontami tutto.,嗯……能告訴我詳細情況嗎？,,흠……자세하게 들려주시겠습니까?,Hm ... Erzähl mir alles.
 20,3009,,Hmpf... Quindi è così che è successo?!,呵、呵呵呵……哎呀哎呀，原來是這樣啊！,,"쿠후, 쿠후후… 아니아니 그랬습니까!",Hmpf ... So ist das also passiert?!
-21,3009,,Ha decifrato il mio lavoro e ha ottenuto l'accesso diretto alla Verschlinger-Procreatrice!,解讀了我的論文，直接登入侵食者母體……！,,제 논문을 해독해서 마더 이터에게 직접 액세스를…!,"Sie hat meine Arbeit entziffert und sich direkten
+21,3009,,"Ha decifrato il mio lavoro e ha ottenuto
+l'accesso diretto alla Procreatrice Eater!",解讀了我的論文，直接登入侵食者母體……！,,제 논문을 해독해서 마더 이터에게 직접 액세스를…!,"Sie hat meine Arbeit entziffert und sich direkten
 Zugriff auf die Verschlinger-Procreatrice
 verschafft!"
-22,3009,,Stupefacente! La creatività della gioventù mi stupisce sempre di nuovo!,"這真是有趣！
+22,3009,,"Stupefacente!
+La creatività della gioventù mi stupisce sempre di nuovo!","這真是有趣！
 年輕人的感性真是美好啊！",,"이건 재미있군요!
 역시 젊은이의 감성은 굉장합니다!","Faszinierend! Die Kreativität der Jugend verblüfft
 mich stets aufs Neue!"
-23,3009,,"Nonostante le condizioni avverse, è un metodo efficace per accedere alla Procreatrice Eater.","雖說條件太過特殊相當困難，
+23,3009,,"Nonostante le condizioni avverse,
+è un metodo efficace per accedere alla Procreatrice Eater.","雖說條件太過特殊相當困難，
 但登入侵食者母體真是非常快速有效的手段啊！",,"조건이 너무 특수해서 어려움은 있습니다만
 마더 이터에 접속하는덴 매우 즉효성 있는 수단입니다!","Trotz der erschwerenden Bedingungen ist es eine
 effektive Methode, auf die Verschlinger-
 Procreatrice zuzugreifen."
-24,3009,,"Ma a quanto pare, ha sottovalutato gli Eater. E questo è il risultato.","但是……好像太過小看侵食者了啊，
+24,3009,,"Ma a quanto pare, ha sottovalutato gli Eater.
+E questo è il risultato.","但是……好像太過小看侵食者了啊，
 才會有這樣的結果。",,"하지만… 이터를 너무 만만하게 보셨나 보군요.
 그 결과가 이것입니다","Aber wie es aussieht, hat sie die Verschlinger
 unterschätzt. Und das ist das Ergebnis."
@@ -77,7 +87,8 @@ bisogna cambiare il proprio punto di vista.","要從根本掌握侵食者的話�
 muss man seinen Blickwinkel ändern."
 26,3009,,"Ad esempio, immedesimandosi in un Eater.",例如說，變成侵食者本身、或者是一部分──,,예를 들면 이터 그 자체나 그 일부가 된다던가――,"Zum Beispiel, indem man sich in einen Verschlinger
 hineinversetzt."
-27,3009,,"Sì, questo è un approccio eccellente, se posso lodarmi da solo. Devo darci seguito.","喔、哦喔……？　我也真是想出了好點子啊！
+27,3009,,"Sì, questo è un approccio eccellente, se posso lodarmi da solo.
+Devo darci seguito.","喔、哦喔……？　我也真是想出了好點子啊！
 就來徹底探討這辦法吧。",,"야, 야야야…? 제 생각이지만 이건 좋은 생각이군요!
 진지하게 검토해보도록 하죠","Ja, das ist ein ausgezeichneter Ansatz, wenn ich
 mich selbst loben darf. Dem muss ich nachgehen."
@@ -86,16 +97,19 @@ Può Erika recuperare la sua memoria?","那種事情隨便啦！
 你能恢復艾莉卡的記憶嗎？　恢復得了嗎！？",,"그런 건 아무래도 좋아!
 에리카의 기억을 원래대로 돌릴 수 있어? 없어!?","Das spielt doch keine Rolle!
 Kann Erika ihr Gedächtnis zurückerhalten?"
-29,3009,,Certo che è possibile. Ha infatti un dispositivo di backup nel suo server di memoria.,"啊，當然可以。
+29,3009,,"Certo che è possibile.
+Ha infatti un dispositivo di backup nel suo server di memoria.","啊，當然可以。
 她的記憶伺服器，具有備份裝置。",,"아, 물론 가능합니다.
 그녀의 기억 서버에는 백업 장치가 준비되어 있습니다","Natürlich ist das möglich. Sie hat ja ein
 Sicherungsgerät in ihrem Erinnerungsserver."
-30,3009,,"Anche in caso di disconnessione, il dispositivo salva tutti i loro ricordi fino a un istante prima dello spegnimento.","就算連線中斷，也能用那裝置
+30,3009,,"Anche in caso di disconnessione, il dispositivo salva tutti
+i loro ricordi fino a un istante prima dello spegnimento.","就算連線中斷，也能用那裝置
 保護切斷前的記憶。",,"비록 링크가 끊어지더라도 그 장치를 통해
 셧다운 직전까지의 기억은 보호되고 있을 겁니다","Sogar bei einem Verbindungsabbruch speichert
 das Gerät all ihre Erinnerungen bis direkt vor
 dem Herunterfahren."
-31,3009,,"Il server contiene software che ripristina la connessione all'avvio. Se riuscite ad attivarlo, lei riavrà i suoi ricordi.","裝置也有在啟動時重新連線的程式，
+31,3009,,"Il server contiene software che ripristina la connessione all'avvio.
+Se riuscite ad attivarlo, lei riavrà i suoi ricordi.","裝置也有在啟動時重新連線的程式，
 只要能啟動裝置，就能恢復小姐的記憶了。",,"기동시에 링크를 다시 연결하는 프로그램도 탑재되어 있으니
 그걸 기동하기만 하면 에리카 씨의 기억은 원래대로 돌아오겠죠","Der Server enthält Software, welche die Verbindung
 beim Hochfahren wiederherstellt. Könnt ihr sie
@@ -115,15 +129,16 @@ ihr ein Team hoch kompetenter Techniker brauchen."
 침입해서 백업을 기동하면 됩니다","Ihr könnt den Server direkt von EDEN aus
 infiltrieren und die Sicherung aktivieren."
 38,1392,,Subito?!,直接……！？,,직접…!?,Direkt?!
-39,3009,,"Normalmente solo Erika, in quanto proprietaria, ha i diritti di accesso al server di memoria. Ma tu sei un Wormmon, non è vero?","基本上，記憶伺服器是不允許
+39,3009,,"Normalmente solo Erika, in quanto proprietaria, ha i diritti di
+accesso al server di memoria. Ma tu sei un Wormmon, non è vero?","基本上，記憶伺服器是不允許
 擁有者以外的人入侵的。
 ……但是，你是蟲蟲獸對吧？",,"기본적으로는 기억 서버엔 소유자인 에리카 씨 외엔 
 침입이 허용되지 않습니다
 ……만 당신, 추추몬 씨였던가요? ","Normalerweise hat nur Erika als Besitzerin die
 Zugriffsrechte auf den Erinnerungsserver.
 Aber du bist doch ein Wormmon, nicht wahr?"
-40,3009,,"Presumo che tu ed Erika condividiate dei ricordi.
-Inoltre, i tuoi ricordi non sono stati compromessi durante lo spegnimento del server.","你好像跟艾莉卡共享記憶呢。
+40,3009,,"Presumo che tu ed Erika condividiate dei ricordi. Inoltre, i tuoi ricordi
+non sono stati compromessi durante lo spegnimento del server.","你好像跟艾莉卡共享記憶呢。
 而且，就算關閉了記憶伺服器，
 你的記憶也沒有任何損傷……",,"에리카 씨와 기억을 공유한다는 모양이더군요.
 게다가 기억 서버가 셧다운 된 후에도
@@ -141,7 +156,8 @@ come se tu fossi lei.","只要有你在的話，應該就能跟本人一樣
 액세스할 수 있겠죠","Du kannst eventuell auf den Server zugreifen,
 als wärst du sie."
 44,3009,,Non vedo nulla in contrario.,我想記憶是不會拒絕相同的記憶的。,,기억이 같은 기억을 거부하진 않을 테니까요,"Ich wüsste nichts, was dagegenspricht."
-45,1392,,"Quindi, se riusciamo ad accedere al server e ad attivare i ricordi salvati, Erika si sveglierà!","那麼……只要我們去入侵伺服器，
+45,1392,,"Quindi, se riusciamo ad accedere al server e ad
+attivare i ricordi salvati, Erika si sveglierà!","那麼……只要我們去入侵伺服器，
 啟動備份記憶的話，
 就能喚醒艾莉卡對吧！",,"그럼… 우리가 서버에 침입해서 백업 기억을 기동하면
 에리카는 눈을 뜨는 거네!","Wenn wir also in den Server gelangen und die
@@ -163,18 +179,21 @@ Tu vieni con noi, vero?","就算這樣，我們也得上！
 저기……같이 가 줄거지?","Und wenn schon, wir müssen es trotzdem versuchen!
 Du kommst doch mit, oder?"
 49,2020,,!,！！,,!!,!
-50,3009,,"Allora, per favore, prendete il mio lavoro sui server di memoria. Leggetela, prima di tentare di ottenere l'accesso.","那麼，我就把記憶伺服器的基礎論文給你們吧，
+50,3009,,"Allora, per favore, prendete il mio lavoro sui server di memoria.
+Leggetela, prima di tentare di ottenere l'accesso.","那麼，我就把記憶伺服器的基礎論文給你們吧，
 要侵入的話，就好好看這份資料。",,"그럼, 기억 서버의 기초 논문을 당신들에게 드리죠.
 안으로 침입하겠다면 읽어두는 편이 좋을 겁니다","Dann nehmt bitte meine Arbeit über
 Erinnerungsserver. Lest sie, bevor ihr
 versucht, Zugriff zu erlangen."
 51,1392,,Grazie. Lei ha fatto così tanto per Erika.,……謝謝你，你真是艾莉卡的恩人呢。,,…고마워. 당신은 에리카의 은인이었구나,Danke. Sie haben so viel für Erika getan.
-52,3009,,Niente di che. I miei lavori non sono altro che un'illustrazione della teoria sottostante.,"不不不……沒有那麼了不起。
+52,3009,,"Niente di che. I miei lavori non sono altro
+che un'illustrazione della teoria sottostante.","不不不……沒有那麼了不起。
 我寫的論文，只能算是處置方法罷了。",,"아뇨아뇨… 그렇게 대단한 건 아닙니다.
 제가 쓴 논문은 어디까지나 임시 대책에 지나지 않습니다","Nicht der Rede wert. Meine Arbeiten leisten
 nichts als eine Veranschaulichung der zugrunde
 liegenden Theorie."
-53,3009,,Purtroppo la cura per la sua malattia non si trova da nessuna parte in questo mondo.,"能根治她的病情的方法……
+53,3009,,"Purtroppo la cura per la sua malattia non
+si trova da nessuna parte in questo mondo.","能根治她的病情的方法……
 很遺憾，不存在於這世界。",,"그녀의 병을 완치하는 방법은……아쉽지만 이
 세계의 어디를 찾아본다 해도 발견하는 건 불가능합니다","Leider ist das Heilmittel gegen ihre Krankheit
 nirgends in dieser Welt zu finden."
@@ -194,17 +213,20 @@ Lascia che te lo spieghi.","呵呵呵……這也算是種緣份，
 Lass es mich dir erklären."
 59,3009,,Il mondo è sull'orlo di un drastico cambiamento.,這世界……馬上就要改變了，所有的一切都會改變。,,이 세계는……곧 바뀝니다. 모든 것이,Die Welt steht vor einem drastischen Wandel.
 60,2020,,...?,…………？,,…………?,...?
-61,3009,,Lo strano fenomeno che si manifesta in questo mondo è il risultato di una catastrofe nel Mondo Digitale.,"襲擊這世界的奇怪現象，起因是在
+61,3009,,"Lo strano fenomeno che si manifesta in questo mondo
+è il risultato di una catastrofe nel Mondo Digitale.","襲擊這世界的奇怪現象，起因是在
 與我們世界相鄰的其他世界，數碼世界裡。",,"이 세계를 휩쓸고 있는 괴현상은 우리들의 세계와 인접한
 다른 세계, 디지털 월드의 이변에서 비롯되어 일어난 것입니다","Das seltsame Phänomen, das in dieser Welt
 auftritt, ist das Resultat einer Katastrophe
 in der Digitalen Welt."
-62,3009,,"Essa ha causato un grande spostamento digitale nel mondo, per cui questo può essere sovrascritto artificialmente.","但也因為這樣，世界發生了大規模的Digital Shift，
+62,3009,,"Essa ha causato un grande spostamento digitale nel mondo,
+per cui questo può essere sovrascritto artificialmente.","但也因為這樣，世界發生了大規模的Digital Shift，
 使得世界能夠以人為來進行改寫。",,"그러나 그 덕분에 세계에 대규모 디지털 시프트를 일으켜
 인위적인 수정이 가능해졌습니다","Sie hat eine große digitale Verschiebung in der
 Welt nach sich gezogen, wodurch diese künstlich
 überschrieben werden kann."
-63,3009,,"Anche se non fate nulla, tutta la tristezza scomparirà presto. Io rimodellerò il mondo.","你們就算什麼都不做，
+63,3009,,"Anche se non fate nulla, tutta la tristezza scomparirà presto.
+Io rimodellerò il mondo.","你們就算什麼都不做，
 這世界也會馬上就沒有悲傷了……
 我，會將世界重新改寫。",,"당신들이 아무것도 하지 않아도 곧 세계에서 슬픔이 사라진다…
 제가 세계를 그렇게 바꾸는 겁니다","Selbst, wenn ihr nichts tut, wird sämtliche Trauer
@@ -222,7 +244,8 @@ wird verschwinden."
 66,2020,,???,？？？,,???,???
 67,3009,,Hehehe... Non mi aspetto da voi che lo capiate.,呵呵呵……無法理解也是沒辦法的。,,"쿠후후… 뭐, 이해하지 못하는 것도 무리는 아닙니다","Hehehe ... Ich erwarte nicht von euch, dass ihr
 es versteht."
-68,3009,,Neanche io so esattamente cosa accadrà dopo che il mondo è stato sovrascritto.,"改寫世界究竟會帶來什麼樣的結果……
+68,3009,,"Neanche io so esattamente cosa accadrà dopo
+che il mondo è stato sovrascritto.","改寫世界究竟會帶來什麼樣的結果……
 我也無法確定。",,"세계를 다시 쓴 결과 어떤 작용이 일어날지……
 저도 확실한 것은 모르니까요","Nicht einmal ich weiß nicht genau, was passieren
 wird, nachdem die Welt überschrieben wurde."
@@ -272,7 +295,8 @@ Voglio riavere Ryuji Hudie.","她不想這樣睡下去……
 她要親手把hudie還給龍司。",,"이대로 잠들고 싶지 않아…
 자신의 손으로 류지에게 후디에를 돌려주고 싶다고","Ich werde sie nicht diesem Zustand überlassen.
 Ich will Ryuji Hudie zurückgeben."
-84,1392,,"Anche se tutto fosse vano, voglio comunque fare tutto quello che posso.","就算現在做的一切都會失去意義……
+84,1392,,"Anche se tutto fosse vano, voglio
+comunque fare tutto quello che posso.","就算現在做的一切都會失去意義……
 但在那之前，我要去做自己能做得到的事。",,"설령 지금까지 한 일이 모두 허사가 되더라도
 ……그 때까지는 할 수 있는 것을 하고 싶어","Selbst, wenn alles zwecklos wäre, will ich doch
 alles tun, was ich kann."
@@ -282,11 +306,13 @@ alles tun, was ich kann."
 你也跟她同樣意見嗎？",,"……그렇습니까.
 당신도 그녀와 같은 의견입니까?",Ich verstehe. Und teilst du diese Meinung?
 88,2020,,...,…………,,…………,...
-89,3009,,"Hehehe... La forza dell'ego umano non può essere negata. Dopotutto, è la mia spinta.","呵呵呵……非常好。我並不否認人類的自私。
+89,3009,,"Hehehe... La forza dell'ego umano non può essere negata.
+Dopotutto, è la mia spinta.","呵呵呵……非常好。我並不否認人類的自私。
 畢竟，我的所作所為，也是……自私啊。",,"쿠후후……좋습니다. 저는 사람의 에고를 부정하지 않아요.
 왜냐하면 제 행위 그 자체가 에고… 니까요","Hehehe ... Die Stärke des menschlichen Egos ist
 nicht zu leugnen. Sie ist immerhin mein Antrieb."
-90,3009,,"Se vi siete decisi, vi auguro buona fortuna. Ecco l'URL del server.","……既然有這種決心，那你們就去吧，
+90,3009,,"Se vi siete decisi, vi auguro buona fortuna.
+Ecco l'URL del server.","……既然有這種決心，那你們就去吧，
 我給你們伺服器的URL。",,"……그만한 각오가 있다면 가십시오.
 서버의 URL을 전송해 드리죠","Wenn ihr euch entschieden habt, so wünsche ich
 euch Glück. Hier ist die URL des Servers."

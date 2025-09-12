@@ -1,5 +1,6 @@
 ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
-1,7052,,"Uff, in qualche modo ce l'abbiamo fatta. Quelle cose mi spaventano sempre quando le vedo a Kowloon.","呼……總算搞定了。
+1,7052,,"Uff, in qualche modo ce l'abbiamo fatta.
+Quelle cose mi spaventano sempre quando le vedo a Kowloon.","呼……總算搞定了。
 每次在Kowloon遇上這傢伙，都狂冒冷汗啊。",,"후우……어떻게든 됐군.
 쿠롱에서 이 녀석과 마주치면 간담이 서늘해","Puh, irgendwie haben wir es geschafft. Die
 Dinger machen mir immer Angst, wenn ich sie
@@ -47,13 +48,15 @@ Fei schon gefunden?"
 21,7053,,"Mi chiedevo già chi potesse essere.
 Ma guarda un po'!",才在想會是誰，沒想到是你們啊。,,누군가 했더니 당신이었구만요,"Ich habe mich schon gefragt, wer das sein könnte.
 Schau mal einer an."
-22,7053,,"Ehi, Ryuji... Ultimamente ti sei incontrato abbastanza spesso con Arata Sanada, vero?","龍司就算了……最近還真常遇到呢。
+22,7053,,"Ehi, Ryuji... Ultimamente ti sei incontrato abbastanza spesso con
+Arata Sanada, vero?","龍司就算了……最近還真常遇到呢。
 真田新。",,"류지는 둘째치고……요새 자주 만나네예
 사나다 아라타 씨?","He, Ryuji ... Du hast dich in letzter Zeit
 ziemlich oft mit Arata Sanada getroffen, oder?"
 23,2020,,?!,！？！？,,!?!?,?!
 24,1805,,"Ah, Fei, non svelarlo adesso.",嘖，不要拆穿我啦，菲。,,"칫, 폭로하지 말라구 페이","Ach, Fei, jetzt verrate es doch nicht."
-25,1805,,"... Accidenti, ora viene tutto a galla. Sono Arata Sanada. È un piacere.","……就是這麼一回事，
+25,1805,,"... Accidenti, ora viene tutto a galla. Sono Arata Sanada.
+È un piacere.","……就是這麼一回事，
 我就是真田新，再次多多指教啦。",,"……뭐, 그렇게 된 거지.
 내가 사나다 아라타다. 새삼 잘 부탁해","... Mist, jetzt kommt alles raus. Ich bin Arata
 Sanada. Ist mir ein Vergnügen."
@@ -81,7 +84,8 @@ A quanto pare, i Demons erano in qualche modo coinvolti.","“梅菲斯特先生
 似乎也跟惡魔亂舞有所關連。",,"이전「메피스토씨」의 계정 사냥……
 그것도 데몬즈가 관여하고 있던 모양이야","Die Aktion mit dem Kontenraub von Mephisto ...
 Anscheinend waren die Demons irgendwie beteiligt."
-38,3001,,Penso che abbiano rubato account per ottenere denaro e aumentare drasticamente l'influenza del team.,"大概是利用盜取帳號來籌措資金，
+38,3001,,"Penso che abbiano rubato account per ottenere denaro e aumentare
+drasticamente l'influenza del team.","大概是利用盜取帳號來籌措資金，
 一口氣擴張團隊的勢力吧。",,"계정 사냥으로 자금을 모아 단번에 팀으로서
 세력을 떨치겠다는 거겠지","Ich denke, dass sie Accounts gestohlen haben,
 um an Geld zu kommen und den Einfluss
@@ -89,7 +93,8 @@ des Teams drastisch zu steigern."
 39,3046,,Hai davvero tutto sotto controllo.,調查得可真快啊。,,소식이 빠르군,Du hast ja alles schwer im Griff.
 40,3001,,Voglio che tu ci lasci questa questione.,這件事希望可以交給我們來辦。,,이 문제는 우리에게 맡겨줘,"Ich möchte, dass du uns diese Angelegenheit
 überlässt."
-41,3001,,"Se ora cediamo, non è un buon esempio per gli altri team di hacker. Manteniamo l'ordine in EDEN con le nostre sole forze.","如果在這裡示弱的話，
+41,3001,,"Se ora cediamo, non è un buon esempio per gli altri team di hacker.
+Manteniamo l'ordine in EDEN con le nostre sole forze.","如果在這裡示弱的話，
 就沒辦法成為其他駭客團隊的典範了，
 EDEN的秩序要由我們的雙手親自導正！",,"여기서 약한 모습을 보이면 다른 해커 팀에게 본보기가 되지 않지.
 EDEN의 질서는 우리들의 손으로 바로잡아 보이겠어","Wenn wir jetzt schwächeln, ist das kein gutes
@@ -99,15 +104,19 @@ aus eigener Kraft die Ordnung in EDEN aufrecht."
 43,1805,,"... Solo con la forza non si può
 proteggere EDEN.",……只是一昧展示力量，無法保護EDEN。,,……힘으로 억누르기만 해선 EDEN은 지킬 수 없어,"... Nur mit Kraft allein kann man EDEN nicht
 schützen."
-44,1805,,"Quando qualcuno diventa un rinnegato, non possiamo semplicemente lasciarlo andare. Non tutti riconoscono la differenza tra giusto e sbagliato.","要是有人想叛離，放他去就行了。
+44,1805,,"Quando qualcuno diventa un rinnegato, non possiamo semplicemente
+lasciarlo andare. Non tutti riconoscono la differenza
+tra giusto e sbagliato.","要是有人想叛離，放他去就行了。
 行為的善惡，不是單憑誰就能決定的吧。",,"배반하는 녀석이 나온다면 내버려두면 돼.
 행동의 선악은 누군가가 정해주는 것이 아니잖아","Wenn jemand abtrünnig wird, können wir ihn nicht
 einfach gehen lassen. Nicht jeder erkennt den
 Unterschied zwischen richtig und falsch."
-45,3001,,"Se tolleriamo questo, come possiamo allora impedire agli hacker di fare ciò che vogliono?",……放過他們的話，還有誰能夠阻止駭客失控？,,…그것을 방치하면 누가 다른 해커의 폭주를 저지하지?,"Wenn wir das hinnehmen, wie können wir dann
+45,3001,,"Se tolleriamo questo, come possiamo allora impedire agli
+hacker di fare ciò che vogliono?",……放過他們的話，還有誰能夠阻止駭客失控？,,…그것을 방치하면 누가 다른 해커의 폭주를 저지하지?,"Wenn wir das hinnehmen, wie können wir dann
 verhindern, dass die Hacker machen, was sie
 wollen?"
-46,3001,,"Non è che tutti possano trattenersi per convinzione, come è stato il vostro caso.","不是所有人都能像以前的你們一樣，
+46,3001,,"Non è che tutti possano trattenersi per convinzione,
+come è stato il vostro caso.","不是所有人都能像以前的你們一樣，
 靠自身信念來約束自己。",,"누구나가 한 때의 너희들처럼 스스로의 신념만으로
 자신을 규제할 수 있는 것이 아냐","Es ist nicht so, als ob alle sich aus Überzeugung
 beherrschen können, wie es bei euch der Fall war."
@@ -122,7 +131,8 @@ lassen."
 我們——",,"류지! 너라면 알잖아!?
 우리들은――","Ryuji! Du verstehst mich doch, oder?! Schließlich
 sind wir ..."
-52,3046,,""Noi"" non siamo nulla. Tu sei scappato via. Non hai nulla da dire agli hacker di EDEN.,"已經不是“我們”了。
+52,3046,,"""Noi"" non siamo nulla. Tu sei scappato via.
+Non hai nulla da dire agli hacker di EDEN.","已經不是“我們”了。
 逃走的你沒有資格來評論EDEN的駭客！",,"더 이상 ""우리들""이 아냐.
 도망친 네가 EDEN의 해커를 말하지 마라","„Wir“ sind nichts. Du bist weggelaufen. Du hast
 nichts zu den Hackern von EDEN zu sagen."
@@ -132,7 +142,8 @@ Fate quello che volete.","…………啊啊，是這樣嗎。
 ……멋대로 해라.","... Ja. Du hast ja recht.
 Macht, was ihr wollt."
 54,3001,,...,…………,,…………,...
-55,3001,,Mi dispiace che non riusciamo a metterci d'accordo su questo. Non ci sono molti hacker del suo calibro.,"……很遺憾無法和他互相理解，
+55,3001,,"Mi dispiace che non riusciamo a metterci d'accordo su questo.
+Non ci sono molti hacker del suo calibro.","……很遺憾無法和他互相理解，
 那麼有能力的駭客實在不多。",,"……그와 서로 이해할 수 없다는 건 유감스러워.
 그만한 힘을 가진 해커는 흔치 않지","Tut mir leid, dass wir uns deswegen nicht einigen
 können. Es gibt nicht viele Hacker von
@@ -153,7 +164,8 @@ von Hudie bittet, für ihn zu spitzeln!"
 그러면 넌 그대로 잭슨의 스파이 흉내를 계속해줘","Perfekt. Dann wird er so tun, als ob er Zaxon
 bespitzelt."
 61,2020,,?!,！？,,!?,?!
-62,3001,,Ti voglio come doppio agente. Voglio che tu ci contatti quando i Demons faranno qualcosa.,"希望你當雙面間諜的意思喔。
+62,3001,,"Ti voglio come doppio agente.
+Voglio che tu ci contatti quando i Demons faranno qualcosa.","希望你當雙面間諜的意思喔。
 一旦惡魔亂舞有了行動，請你立刻連絡我們。",,"이중스파이를 맡아달라는 의미야.
 데몬즈에서 무슨 움직임이 있으면 우리들에게 연락해줘","Ich möchte dich als Doppelagenten haben. Ich
 möchte, dass du uns kontaktierst, wenn die Demons
@@ -163,7 +175,8 @@ etwas tun."
 이 녀석은 이제 갓 해커가 되었을 뿐인……","... Äh, er ist doch vor Kurzem erst ein Hacker
 geworden, Yuugo."
 64,3001,,Nessun problema.,沒關係喔。,,괜찮아,Kein Problem.
-65,3001,,"Una spia conosciuta ovunque in EDEN sarebbe inutile! Inoltre è nuovo di Hudie, quindi posso fidarmi di lui.","如果會被EDEN的人認出來，
+65,3001,,"Una spia conosciuta ovunque in EDEN sarebbe inutile!
+Inoltre è nuovo di Hudie, quindi posso fidarmi di lui.","如果會被EDEN的人認出來，
 就沒有當間諜的意義了。
 再加上又是hudie的新人，值得信賴。",,"EDEN에 얼굴이 알려져 있으면 스파이의 의미가 없어.
 게다가 후디에의 신입이라면 신뢰할 수도 있어","Ein Spion, der überall in EDEN bekannt ist, wäre
@@ -197,7 +210,8 @@ sich K nennt?"
 일일히 기억하고 있을 리가 없잖습니꺼","Aber wir kennen ja auch nicht jeden einzelnen
 Hacker, der für uns arbeitet."
 80,3001,,Perché chiedi?,那位駭客怎麼了嗎？,,그 해커가 어쨌는데?,Warum fragst du?
-81,3046,,Lui è la ragione per cui questo tipo qui è coinvolto nella faccenda. Potrebbe essere un Demons-Hacker...,"他就是把這傢伙捲入麻煩事的元兇啦。
+81,3046,,"Lui è la ragione per cui questo tipo qui è coinvolto nella faccenda.
+Potrebbe essere un Demons-Hacker...","他就是把這傢伙捲入麻煩事的元兇啦。
 我猜他可能是惡魔亂舞的駭客……",,"이 녀석이 휘말린 귀찮은 상황의 원인이다.
 아마도 데몬즈 해커라고 생각하지만…","Er ist der Grund, warum dieser Typ hier in die
 Sache verwickelt ist. Möglicherweise ist er ein
@@ -210,15 +224,17 @@ gute Arbeit."
 84,3001,,... Sei dunque anche tu la vittima di un malvagio hacker.,……你也是惡質駭客的犧牲者啊。,,…너도 악질적인 해커의 희생자였구나,"... Du bist also auch das Opfer eines bösen
 Hackers."
 85,3001,,Allora non devo spiegarti nulla.,這樣的話，我不用多說什麼你也能理解吧？,,그렇다면 나 따위가 굳이 말하지 않더라도 알아주겠지,Dann brauche ich dir ja nichts erklären.
-86,3001,,Sai bene quanto danno gli hacker provocano con le loro scorribande a chi vive in EDEN.,失控的駭客，會害生活在EDEN的人多痛苦。,,"폭주하는 해커가
+86,3001,,"Sai bene quanto danno gli hacker provocano con le loro scorribande a
+chi vive in EDEN.",失控的駭客，會害生活在EDEN的人多痛苦。,,"폭주하는 해커가
 얼마나 EDEN에 머무는 자들을 괴롭히고 있는지를","Du weißt selbst, wie viel Unheil Hacker bei
 Leuten, die in EDEN leben, mit ihren Amokläufen
 stiften."
-87,3001,,"... Proprio come Arata Sanada credeva, credo anch'io che gli hacker dovrebbero essere liberi.","……就像真田新說的那樣，
+87,3001,,"... Proprio come Arata Sanada credeva, credo anch'io che gli hacker
+dovrebbero essere liberi.","……就像真田新說的那樣，
 我內心也認為應該放駭客自由才對。",,"……사나다 아라타 말대로 나도 근본적으로 해커는
 자유로워야 한다고 생각하고 있어","... Genau wie Arata Sanada meinte, glaube auch
 ich, dass Hacker frei sein sollten."
-88,3001,,"Ma „Libertà“ può essere interpretata in modi diversi.
+88,3001,,"Ma ""Libertà"" può essere interpretata in modi diversi.
 Ognuno deve trovare la risposta per sé stesso.","但是，“自由”因人而異也是事實，
 那個答案只能夠靠自己找出來。",,"하지만 ""자유""에는 많은 해석이 있다는 것도 사실이야.
 그 답은 한 사람 한 사람이 찾아낼 수밖에 없지","Aber „Freiheit“ kann verschieden ausgelegt werden.
@@ -232,7 +248,8 @@ Ti contatterò.","近期可能會委託你們一件大工作，
 Ich melde mich bei dir."
 91,3046,,Questo tipo gli piace sentirsi parlare.,還是一樣說話冗長的傢伙啊…,,여전히 말 많은 자식이군……,Dieser Typ hört sich gern reden ...
 92,3046,,"... Arata ti ha quindi parlato di Jude, vero?",……你從新那邊聽到了吧，關於Jude的事。,,……사나다에게서 들었나. 쥬드에 대해,"... Arata hat dir also von Gamma erzählt, was?"
-93,3046,,"Non credergli una parola. Lui... È scappato, senza proteggere la sua squadra.","那傢伙的話你不要相信，
+93,3046,,"Non credergli una parola.
+Lui... È scappato, senza proteggere la sua squadra.","那傢伙的話你不要相信，
 那傢伙……是個守護不了團隊只會逃跑的男人。",,"그 녀석의 말은 믿지 마.
 그 녀석은……팀을 지키지 않고 도망친 남자다","Glaub ihm kein Wort. Er ... Er ist weggelaufen,
 ohne sein Team zu beschützen."

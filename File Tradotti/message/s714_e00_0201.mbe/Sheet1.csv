@@ -52,12 +52,14 @@ sue braccia farebbero a pezzi le tue cose.","你想一下。如果拜託那傢�
 구입한 물건들이 싹둑싹둑 절단되버릴 것 같지 않냐……","Denk drüber nach. Wenn WarGrowlmon mitkäme,
 würden die Klingen an seinen Armen deine Sachen
 zerfetzen."
-11,1072,,"Sono sicuro che WarGrowlmon vorrà andare se ne parli, quindi per favore non menzionarlo.","只要跟那傢伙說，他一定會想要去……
+11,1072,,"Sono sicuro che WarGrowlmon vorrà andare se ne parli,
+quindi per favore non menzionarlo.","只要跟那傢伙說，他一定會想要去……
 抱歉，讓我忍住不說吧。",,"그 녀석한테 말했다간 틀림없이 가고 싶어 할 것 같은데……
 미안하지만 참아줘야겠어","Bestimmt würde WarGrowlmon mitkommen wollen, wenn
 du etwas sagen würdest, also sprich es bitte nicht
 an."
-12,1072,,"Che ne dici se invece compro un regalo? Mi fai fare un giro, [p]?","作為代替，要不要幫他買個什麼紀念品好呢？
+12,1072,,"Che ne dici se invece compro un regalo?
+Mi fai fare un giro, [p]?","作為代替，要不要幫他買個什麼紀念品好呢？
 [p]，店內就交給你帶路了。",,"대신 내가 선물이라도 사다 주기로 할까.
 [p], 매장 내부 안내를 부탁해","Wir wäre es, wenn ich ihm stattdessen einfach ein
 Geschenk kaufe? Kannst du mir dort alles zeigen,
@@ -69,7 +71,8 @@ hanno così tante cose utili e interessanti?","那裡有很多又便利又有趣
 자기도 모르게 멈춰 서서 사려던 게 아닌 것도 사버린다고……?","Dass du mehr kaufen würdest, als du brauchst,
 weil es dort so viele nützliche und interessante
 Dinge gibt?"
-15,1072,,"Cosa c'è che non va?! E allora posso essere d'aiuto! Se il problema sono i soldi, non c'è bisogno di preoccuparsi!","這不是很好嗎！　那樣我就能幫上你的忙啦！
+15,1072,,"Cosa c'è che non va?! E allora posso essere d'aiuto!
+Se il problema sono i soldi, non c'è bisogno di preoccuparsi!","這不是很好嗎！　那樣我就能幫上你的忙啦！
 如果是在意錢的事，大可不需要擔心！",,"괜찮잖아! 그렇다면 내가 도움이 될 수 있잖아!
 돈을 신경 쓰는 거라면 걱정할 필요는 없어!","Was ist falsch daran?! Und dann kann ich helfen!
 Falls Geld das Problem ist, gibt es keinen Grund
@@ -100,18 +103,16 @@ scelto. Fagli una grossa sorpresa!","……謝謝啦。
 네가 골라준다면 그 녀석도 기뻐할 거야.
 좋은 걸 사서 깜짝 놀라게 해주자!","Danke. Er wird sich sehr darüber freuen, dass du
 es ausgewählt hast. Überraschen wir ihn!"
-21,1072,,"A proposito, prendi questo. Spero che tu possa usarlo
-al meglio!","對了，你能收下這個嗎？
+21,1072,,"A proposito, prendi questo. Spero che tu possa usarlo al meglio!","對了，你能收下這個嗎？
 能幫到你的忙，我會很開心的！",,"그렇지, 이거 가지고 가지 않을래?
 네게 도움이 된다면 좋겠어!","Übrigens, nimm bitte das hier. Ich hoffe, du
 kannst es gut gebrauchen!"
-22,1072,,"Devo tornare al mio allenamento. Non voglio
-far aspettare WarGrowlmon!","那麼，差不多該回去修行了。
+22,1072,,"Devo tornare al mio allenamento.
+Non voglio far aspettare WarGrowlmon!","那麼，差不多該回去修行了。
 大古拉獸也還在等我啊！",,"그럼 슬슬 수행으로 돌아가겠어.
 메가로그라우몬도 기다리고 있으니 말이지!","Ich muss mich wieder meinem Training widmen. Ich
 will WarGrowlmon nicht warten lassen!"
-23,1072,,"Ci vediamo! Non esitare a chiamare se sei nei
-guai!","再見啦，[p]！
+23,1072,,"Ci vediamo! Non esitare a chiamare se sei nei guai!","再見啦，[p]！
 如果有什麼問題時，隨時都可以叫我喔！",,"또 보자, [p]!
 곤란해지면 언제든지 불러달라고!","Mach’s gut! Ruf mich einfach, wenn du in der
 Klemme steckst!"

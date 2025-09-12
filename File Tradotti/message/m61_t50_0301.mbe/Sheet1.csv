@@ -1,7 +1,8 @@
 ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
 1,3045,,"Come va in EDEN, Wormmon?",蟲蟲獸，EDEN的狀況怎麼樣了？,,EDEN의 상태는 어때? 추추몬,"Wie sieht es in EDEN aus, Wormmon?"
 2,1392,,Sta lentamente migliorando.,目前正在復原喔。,,복구됐어,Es wird langsam besser.
-3,1392,,"Dopo la grande battaglia a Sotto Zero, hanno effettuato una manutenzione d'emergenza.","在Under Zero的混亂後，
+3,1392,,"Dopo la grande battaglia a Sotto Zero,
+hanno effettuato una manutenzione d'emergenza.","在Under Zero的混亂後，
 進行了一次緊急維修的樣子。",,"언더 제로에서의 소동 이후 한번
 긴급 점검에 들어갔던 모양이네","Nach dem großen Kampf in Unter Null haben sie
 eine Notwartung durchgeführt."
@@ -25,7 +26,9 @@ Beh, è logico, no?","你問為什麼要入侵那邊？
 Na, ist doch logisch, oder?"
 10,3045,,Otteniamo le prove delle relazioni di Kishibe con la polizia.,我要取得能把岸部移送法辦的決定性證據。,,키시베를 경찰에 찌를 결정적인 증거를 입수할 거야,"Wir holen uns Beweise zu Kishibes Beziehungen zur
 Polizei."
-11,3045,,I dati che Ryuji ha cancellato dal server dell'Unità d'indagine sulla criminalità informatica. Riguardo i loschi affari di Kamishiro.,"就是電腦犯罪搜查課伺服器內，
+11,3045,,"I dati che Ryuji ha cancellato dal server dell'Unità
+d'indagine sulla criminalità informatica.
+Riguardo i loschi affari di Kamishiro.","就是電腦犯罪搜查課伺服器內，
 被哥哥刪除的資料……
 神代企業不法勾當的那份證據。",,"전뇌범죄수사과 서버에서 오빠가 지운 데이터……
 카미시로의 부정한 거래의 증거를 말이지","Die Daten, die Ryuji vom Server der
@@ -38,21 +41,25 @@ di sicuro avrà una copia da qualche parte.","岸部那種角色，絕對不會�
 她一定在某處偷偷藏著備份。",,"키시베 같은 무리는 남을 위협할 데이터를 절대 손에서 놓지 않아.
 분명 어딘가로 복사해서 숨겨두고 있을 거야","So gern, wie unsere liebe Kishibe Leute erpresst,
 hat sie doch ganz bestimmt irgendwo eine Kopie."
-14,3045,,"C'è un'area strettamente segreta all'interno del server principale di Kamishiro, l'Avalon Server. Solo la direzione vi ha accesso.","在神代企業的主伺服器“阿瓦隆伺服器”的深處，
+14,3045,,"C'è un'area strettamente segreta all'interno
+del server principale di Kamishiro, l'Avalon
+Server. Solo la direzione vi ha accesso.","在神代企業的主伺服器“阿瓦隆伺服器”的深處，
 好像有個只有CEO才能進入的最高機密區域。",,"카미시로의 메인 서버, ""아발론 서버"" 안쪽에는
 CEO만이 들어갈 수 있는 최고 기밀 에어리어가 있다고 해","Es gibt einen streng geheimen Bereich im Inneren
 von Kamishiros Hauptserver, dem Avalon-Server.
 Da hat nur die Geschäftsleitung Zugang."
 15,3045,,"Lo chiamano il luogo nascosto. Se mai, li troviamo lì.",通稱“祕密房間”──證據一定就在那裡。,,"통칭 ""비밀의 방"" ――거기라면 틀림없이 있어","Sie nennen ihn den versteckten Raum. Wenn
 überhaupt, finden wir sie dort."
-16,3045,,"Anche se questi dati non esistono, possiamo occuparci di Kishibe rivelando la rete con cui ricicla i dati.","就算沒有我們要找的檔案，
+16,3045,,"Anche se questi dati non esistono, possiamo occuparci
+di Kishibe rivelando la rete con cui ricicla i dati.","就算沒有我們要找的檔案，
 只要把那裡的檔案通通都丟到網路上，
 也夠搞倒岸部了。",,"설령 목적한 데이터가 없더라도
 그곳의 데이터를 깡그리 인터넷에 뿌려버리면
 키시베를 쫓아버릴 수 있어","Auch wenn es diese Daten nicht gibt, können wir
 Kishibe erledigen, indem wir das Netzwerk
 aufdecken, mit dem sie Datenwäsche betreibt."
-17,3045,,Lì troveremo sicuramente un sacco di materiale incriminante su di lei. Così si scaverà la sua stessa tomba.,"反正岸部做的壞事肯定不只一件。
+17,3045,,"Lì troveremo sicuramente un sacco di materiale
+incriminante su di lei. Così si scaverà la sua stessa tomba.","反正岸部做的壞事肯定不只一件。
 哼哼哼……就讓她為自己做的壞事付出代價吧。",,"키시베의 악행이 하나 뿐일거라고 생각되진 않으니까.
 후후… 자신의 악행이 자신의 목을 조르게 되는거지","Dort finden wir bestimmt jede Menge Belastendes
 über sie. So schaufelt sie sich dann ihr eigenes
@@ -78,7 +85,8 @@ Per favore, non lasciare che la tua rabbia ti sfugga di mano!","太可怕了，�
 화풀이만은 참아주세요!","Du machst mir zwar Angst, aber auch Mut!
 Dämonenkönigin Erika ist da!
 Bitte lass deinen Zorn nicht mit dir durchgehen!"
-23,3045,,"... Smettila di scherzare, altrimenti Memetan te lo farà vedere!",……你太得意忘形的話，我就再來一次“小梅梅”喔。,,"…너무 까불면 또 ""메메땅""이야","... Hör auf herumzualbern, sonst zeigt Memetan
+23,3045,,"... Smettila di scherzare, altrimenti
+Memetan te lo farà vedere!",……你太得意忘形的話，我就再來一次“小梅梅”喔。,,"…너무 까불면 또 ""메메땅""이야","... Hör auf herumzualbern, sonst zeigt Memetan
 es dir!"
 24,2020,,!!!,！！！,,!!!,!!!
 25,3045,,"Hihi, era solo uno scherzo.",……呵呵，開玩笑的。,,"……후후, 농담이야","Hihi, war nur Spaß."
@@ -87,19 +95,23 @@ es dir!"
 28,3045,,"Tu sei il mio Digimon, quindi questo va da sé.",你是我的數碼寶貝，這是當然的吧。,,너는 내 디지몬이니까 당연하잖아,"Du bist mein Digimon, das versteht sich also von
 selbst."
 29,1392,,Come?! Non mi sei grato?,咦──！？　就不用感謝我嗎？,,에엑!? 나한테는 안 고마워하는 거야?,Wie?! Du bist mir nicht dankbar?
-30,3045,,Hihi... Non sono forse io? Cerca pure nella nostra memoria e guarda.,呵呵……你說呢？　要去看看我的記憶嗎？,,후후… 글쎄? 기억을 찾아보던가?,"Hihi ... Bin ich das nicht?
+30,3045,,"Hihi... Non sono forse io?
+Cerca pure nella nostra memoria e guarda.",呵呵……你說呢？　要去看看我的記憶嗎？,,후후… 글쎄? 기억을 찾아보던가?,"Hihi ... Bin ich das nicht?
 Durchforste doch unser Gedächtnis und schau nach."
-31,3045,,Non possiamo permetterci errori sulla sicurezza. Stavolta vengo con te.,"……這次可不能被通訊限制擋下腳步了，
+31,3045,,"Non possiamo permetterci errori sulla
+sicurezza. Stavolta vengo con te.","……這次可不能被通訊限制擋下腳步了，
 我也會一起去。",,"…통신 제한에 발목 잡혀있을 여유는 없어.
 이번엔 나도 같이 갈 거야","Wir können uns keine Fehler bei der Sicherheit
 leisten. Dieses Mal komme ich mit dir mit."
-32,3045,,Il tuo precedente malware ci servirà da backdoor. Hackeraci dentro.,"之前你放的惡性軟體能拿來當後門，
+32,3045,,"Il tuo precedente malware ci servirà
+da backdoor. Hackeraci dentro.","之前你放的惡性軟體能拿來當後門，
 就從這來入侵。",,"이전에 네가 설치했던 악성코드가 뒷문(백도어)가 될 거야.
 여기서부터 침입해줘","Deine Malware von vorher wird uns als Hintertür
 dienen. Hack dich da rein."
 33,3045,,Rie Kishibe... pagherai per quello che hai fatto.,岸部里繪……為妳目前做過的事情付出代價吧。,,키시베 리에… 지금까지 저질러온 짓에 대해 책임져줘야겠어,"Rie Kishibe ... du wirst dafür bezahlen, was du
 getan hast."
-34,1392,,"Vendetta alla maniera classica è pur qualcosa di bello, non è vero, Erika?",就是所謂的算清總帳吧！　艾莉卡！,,빚을 받아내겠다는 얘기였지! 에리카!,"Rache auf die klassische Art ist doch etwas
+34,1392,,"Vendetta alla maniera classica è pur
+qualcosa di bello, non è vero, Erika?",就是所謂的算清總帳吧！　艾莉卡！,,빚을 받아내겠다는 얘기였지! 에리카!,"Rache auf die klassische Art ist doch etwas
 Schönes, nicht wahr, Erika?"
 35,3045,,"Esatto.
 Siete tutti pronti? Iniziate a hackare!","就是那樣。

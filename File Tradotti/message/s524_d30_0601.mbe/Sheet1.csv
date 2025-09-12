@@ -3,8 +3,8 @@ ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
 2,2020,,!,！,,!,!
 3,4338,,Non volevo che le cose diventassero violente.,我也不想用這麼粗魯的手段。,,거친 짓을 할 생각은 없었어,"Ich wollte nicht, dass es zu Handgreiflichkeiten
 kommt."
-4,4338,,"E Fungusmon non voleva fare del male. Per favore
-perdonateci.","他――蘑菇獸也沒有惡意，
+4,4338,,"E Fungusmon non voleva fare del male.
+Per favore perdonateci.","他――蘑菇獸也沒有惡意，
 就原諒他吧。",,"그――머쉬몬에게도 악의는 없어.
 용서해줘","Und Mushroomon hat es nicht böse gemeint.
 Bitte verzeih uns."
@@ -13,8 +13,8 @@ Cosa sta succedendo?","……數碼寶貝！？
 這是怎麼回事？",,"…디지몬!?
 어떻게 된 일인가요?","Ein Digimon?!
 Was ist denn hier los?"
-6,4338,,"Quindi sai qualcosa sui Digimon? Questo rende le cose
-più facili.","這樣啊，你知道數碼寶貝的事，
+6,4338,,"Quindi sai qualcosa sui Digimon? Questo
+rende le cose più facili.","這樣啊，你知道數碼寶貝的事，
 那就好解釋了。",,"그런가. 넌 디지몬에 대해 알고있군.
 그렇다면 이야기가 빠르지","Du kennst Digimon also? Das macht es etwas
 einfacher zu erklären."
@@ -58,7 +58,8 @@ fabelhaften Kopi Jawak genossen hast."
 16,4338,,È qui che ti prenderò quel ricordo.,我只是要在這裡，收回那份記憶。,,그 기억을 여기서 흡수하는 거다,Diese Erinnerung nehme ich dir.
 17,2020,,...?,…………？,,…………?,...?
 18,4338,,So cosa vuoi chiedere.,我知道你想說什麼。,,네가 하고 싶은 말은 잘 안다,"Ich weiß schon, was du fragen willst."
-19,4338,,Perché lasciare che la gente beva il kopi jawak se tanto gli ruberò il ricordo?,"與其讓人喝了複製．邪惡之後又收回記憶，
+19,4338,,"Perché lasciare che la gente beva il kopi jawak
+se tanto gli ruberò il ricordo?","與其讓人喝了複製．邪惡之後又收回記憶，
 不如一開始就不要給人喝。",,"코피 쟈악을 먹이고 그 후 기억을 뺏을 생각이라면 
 처음부터 먹이지 않았으면 되는 거 아닌가","Warum sollte ich Leute Kopi Jawak trinken lassen,
 wenn ich ihnen dann die Erinnerung daran raube?"
@@ -123,7 +124,8 @@ Non potevi semplicemente fare una copia della memoria?","那樣為什麼要刪�
 不是只要複製記憶就可以了嗎？",,"그러면 어째서 제 기억을 지우는 거죠?
 기억을 복사하는 것만으로도 충분하지 않나요?","Aber warum meine Erinnerung löschen?
 Könntest du sie nicht einfach kopieren?"
-35,4338,,È proprio il tipo di domanda che mi aspetterei da un hacker eccezionale come te.,"哦，真虧你有注意到，
+35,4338,,"È proprio il tipo di domanda che mi aspetterei
+da un hacker eccezionale come te.","哦，真虧你有注意到，
 你作為駭客真是相當優秀呢。",,"호오, 그걸 깨닫다니 너는 해커로서도
 제법 우수한 모양이군","Genau diese Frage würde ich von einem 
 hervorragenden Hacker wie dir erwarten."
@@ -147,14 +149,13 @@ sein, die ihn genießen können. Wenn es jeder kann,
 ist es ja nichts mehr wert."
 40,2020,,...,……,,……,...
 41,4338,,"C'è anche un'altra ragione per cui cancello la memoria delle
-persone che l'hanno bevuta, ma non è importante
-quanto quella.","消除喝過的人記憶的理由還有一個。
+persone che l'hanno bevuta, ma non è importante quanto quella.","消除喝過的人記憶的理由還有一個。
 真說起來，這理由才更重要……",,"마신 사람의 기억을 지우는 건 또 한가지 이유가 있어.
 굳이 따지자면 이쪽 이유가 더 중요하지만…","Es gibt noch einen Grund, warum ich den Menschen,
 die ihn getrunken haben, die Erinnerung nehme.
 Aber der ist weniger wichtig."
-42,4338,,"Una volta che una persona ha assaggiato il kopi jawak, il desiderio di
-berlo di nuovo può diventare totalizzante.","想再次品嚐複製．邪惡的心情，
+42,4338,,"Una volta che una persona ha assaggiato il kopi jawak,
+il desiderio di berlo di nuovo può diventare totalizzante.","想再次品嚐複製．邪惡的心情，
 有時太過強烈的慾望，會使人步上歧路。",,"다시 한번 코피 쟈악을 마시고 싶다는 마음.
 너무나 강한 욕망은 때로는 사람의 길을 잘못 들게 할 수도 있어","Wenn man Kopi Jawak mal gekostet hat, kann es
 zum überwältigenden Verlangen werden, ihn noch
@@ -198,8 +199,7 @@ dabei nichts spüren."
 52,4338,,Beh... non sono buone notizie.,那就有點麻煩了呢。,,좀 힘들었지,Also ... Das sind keine guten Neuigkeiten.
 53,2020,,?,？,,?,?
 54,4338,,"Avevo pianificato di estrarre la sua memoria mentre tu stavi
-combattendo Mushroomon, ma non mi ha permesso di avvicinarmi
-a lei.","本來是打算在你和蘑菇獸戰鬥的途中，
+combattendo Mushroomon, ma non mi ha permesso di avvicinarmi a lei.","本來是打算在你和蘑菇獸戰鬥的途中，
 將她的記憶取出。但她怎麼樣也不願意，
 極力的反抗。",,"네가 머쉬몬과 싸우고 있는 틈에 기억을 뽑아내려고
 했는데 절대 싫다고 날뛰었거든","Ich wollte ihr die Erinnerung entziehen, während
@@ -224,12 +224,13 @@ Was soll das heißen, zusätzliche Schritte?"
 話說得過於草率了。",,"이런, 미안하군.
 이야기가 너무 샛길로 빠졌군","Entschuldige, ich habe es nicht sonderlich gut
 erklärt."
-60,4338,,"Per essere precisi, ho dovuto estrarre un po' più della sua memoria di quanto farei di solito.","詳細說明的話，
+60,4338,,"Per essere precisi, ho dovuto estrarre un po'
+più della sua memoria di quanto farei di solito.","詳細說明的話，
 就是把她的記憶稍微吸取得比其他人更多一些。",,"자세하게 설명하자면 그녀로부터는 다른 사람들보다 조금 더
 많은 기억을 뽑아냈어","Genau gesagt musste ich mehr von ihrem Gedächtnis
 entfernen als normal."
-61,4338,,"Non c'è bisogno di preoccuparsi. Non influenzerà la sua
-vita di tutti i giorni.","不用擔心，
+61,4338,,"Non c'è bisogno di preoccuparsi. Non influenzerà
+la sua vita di tutti i giorni.","不用擔心，
 不會對她造成任何困擾的。",,"걱정하지 않아도 돼.
 일상 생활에 지장을 줄 일은 전혀 없어","Kein Grund zur Sorge. Es wird sie im Alltag nicht
 beeinträchtigen."
@@ -271,7 +272,8 @@ hacker che sa dell'esistenza dei Digimon.","我也會消除你知道，
 기억도 지우겠다","Ich werde auch die Erinnerung daran löschen, dass
 ich ein Hacker bin, der von Digimon weiß."
 72,2020,,!!!,！！,,!!,!!!
-73,4338,,Voglio solo continuare la mia tranquilla vita da proprietario di un caffè.,"可以的話，我想繼續像以前一樣，
+73,4338,,"Voglio solo continuare la mia tranquilla vita da
+proprietario di un caffè.","可以的話，我想繼續像以前一樣，
 悠閒的做一個咖啡廳店長。",,"가능하다면 그대로 느긋하게 카페 마스터를
 하고 싶으니까","Ich möchte mein beschauliches Leben als Besitzer
 eines Cafés fortsetzen."

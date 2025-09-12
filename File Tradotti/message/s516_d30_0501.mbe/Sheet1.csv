@@ -59,8 +59,8 @@ ich meinem Stellvertreter gegeben habe."
 25,3015,,Quindi questa è tutta una trappola per lui?!,"你這混帳……
 該不會是想設陷阱，叫又吉叔過來吧！？",,"네놈…설마 마타요시 씨를 불러내 함정에 빠뜨리려는
 속셈이었던 거냐!?",All das hier ist also eine Falle für ihn?!
-26,3015,,"Qual è il tuo problema? Smettila di provocare la polizia! Abbiamo
-cose migliori da fare!","你到底有什麼目的！
+26,3015,,"Qual è il tuo problema? Smettila di provocare la polizia!
+Abbiamo cose migliori da fare!","你到底有什麼目的！
 戲弄警察，也該有個限度！！",,"대체 뭐가 목적이냐!
 경찰을 우롱하는 것도 적당히 해라!!","Was führst du im Schilde? Hör auf damit, die
 Polizei zu verspotten! Wir haben Wichtigeres zu
@@ -127,8 +127,8 @@ mir zuhören, bis auf sie!"
 43,3015,,C-c-cosa diavolo è questo?!,"什、什、什……
 這是什麼東東啦──────────！",,"뭐, 뭐, 뭐……
 뭐야 이건―――――――――――――!",Wa-Wa-Was zur Hölle ist das denn?!
-44,3015,,"Lopmon è diventato enorme! Non promette niente di buono! Torna
-indietro!","黑大耳獸變得很大隻了喔！？！？！？
+44,3015,,"Lopmon è diventato enorme! Non promette niente di buono!
+Torna indietro!","黑大耳獸變得很大隻了喔！？！？！？
 沒問題嗎這個！？　有辦法恢復原樣嗎！？",,"로프몬이 커졌잖아!?!?!?
 괜찮은 거냐 이거!? 원래대로 돌아올 수 있는 거냐 이거!?","Lopmon ist auf einmal riesengroß! Das kann nichts
 Gutes bedeuten! Verwandle dich zurück!"
@@ -150,24 +150,24 @@ deine gute Tat danken kann! Schnappen wir ihn uns!"
 suona bene!","嘿嘿……雖然不太清楚發生了什麼，
 但這不是很可靠嗎！",,헤헤…뭔진 모르겠지만 듬직해졌구만!,"Hehe ... Ich weiß nicht, was genau los ist, aber
 das klingt gut!"
-50,3015,,Non abbiamo bisogno dell'aiuto di Matayoshi. Possiamo abbatterlo da soli!,"當然！　那種傢伙，根本不需要又吉叔出場！
+50,3015,,"Non abbiamo bisogno dell'aiuto di Matayoshi.
+Possiamo abbatterlo da soli!","當然！　那種傢伙，根本不需要又吉叔出場！
 一起打倒他吧！　聽到了沒！",,"물론이지! 이딴 놈, 마타요시 씨를 부를 것도 없어!
 같이 혼내주자고! 알겠지!","Wir brauchen Matayoshis Hilfe nicht. Wir können
 ihn selbst ausschalten!"
 51,4061,,Hai così tanta fiducia nelle tue capacità.,……原來如此，你的強大是來自於信念啊。,,……과연. 당신의 강함은 그 신념이라는 거군요,"Du hast solch starkes Vertrauen in deine
 Fähigkeiten."
-52,4061,,"Eri sulla buona strada per la vetta, ma hai
-sacrificato una promettente carriera e hai chiesto
-il trasferimento all'Unità Investigativa dei Crimini Informatici.","原先在精英組，為了幫助身為恩人的又吉刑警，
+52,4061,,"Eri sulla buona strada per la vetta, ma hai sacrificato
+una promettente carriera e hai chiesto il trasferimento
+all'Unità Investigativa dei Crimini Informatici.","原先在精英組，為了幫助身為恩人的又吉刑警，
 刻意捨棄了能夠出人頭地的道路，
 親自申請異動至電腦犯罪搜查課的忠心之人……",,"국가 공무원이면서도 은인인 마타요시 형사를
 돕기 위해 출세 코스를 버리고 전뇌범죄수사과에
 스스로 이동할 정도의 충성심…","Du bist die Karriereleiter hinaufgestürmt, aber
 dann hast du deine Aussichten für einen Wechsel
 in die Einheit für Cyberkriminalität geopfert."
-53,4061,,"E tutto questo solo per poter ripagare un debito di gratitudine al
-Detective Matayoshi. La tua lealtà è davvero
-ammirevole.",我也多少知道一些妳的經歷喔。,,당신의 경력만 봐도 그것을 알 수 있습니다,"Und alles nur, damit du dich bei Kommissar
+53,4061,,"E tutto questo solo per poter ripagare un debito di gratitudine
+al Detective Matayoshi. La tua lealtà è davvero ammirevole.",我也多少知道一些妳的經歷喔。,,당신의 경력만 봐도 그것을 알 수 있습니다,"Und alles nur, damit du dich bei Kommissar
 Matayoshi für einen Gefallen revanchieren
 konntest. Deine Loyalität ist bewundernswert."
 54,3015,,Hai fatto i compiti!,"……調查的還可真詳細啊。
@@ -175,9 +175,8 @@ konntest. Deine Loyalität ist bewundernswert."
 과연 경찰 오타쿠로구만!",Du hast deine Hausaufgaben gemacht!
 55,4061,,Certo. È essenziale conoscere il proprio nemico.,徹底調查敵人的情報，這可是當然的手法。,,적 정보를 철저하게 알아보는 건 당연한 예의입니다,"Natürlich. Es ist grundlegend, seinen Feind zu
 kennen."
-56,4061,,"Tuttavia, è ancora troppo presto per determinare se sei
-degno di essere il mio prossimo avversario dopo
-Shinjuku Matagi.","但是，是否有資格能繼新宿獵師刑警後，
+56,4061,,"Tuttavia, è ancora troppo presto per determinare se sei degno
+di essere il mio prossimo avversario dopo Shinjuku Matagi.","但是，是否有資格能繼新宿獵師刑警後，
 來當我的對手，還是非常久之後的事。",,"하지만 신주쿠 마타기 형사를 이을 제 상대로 확정하기엔
 아직 이릅니다","Allerdings ist es immer noch zu früh, um zu
 bestimmen, ob du würdig bist, meine nächste

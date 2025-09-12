@@ -2,12 +2,14 @@ ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
 1,1083,,Urgh...! Sei...così forte!,"唔……啊！
 好、好強……！",,"큭……!
 가, 강하다……!",Argh ...! Du ... bist so stark!
-2,1083,,Cosa? Non sei un intruso? Ti ha mandato la polizia?,"什麼……？　你不是可疑份子？
+2,1083,,"Cosa? Non sei un intruso?
+Ti ha mandato la polizia?","什麼……？　你不是可疑份子？
 你是因為工作才來的……？",,"뭐……? 수상한 사람이 아니야……?
 일 때문에 왔을 뿐이라고……?","Was? Du bist kein Eindringling? Du wurdest von der
 Polizei geschickt?"
 3,1083,,Bugiardo! Allora perché hai hackerato quest'area?,不要騙人了！　那你為什麼要入侵！,,거짓말하지 마라! 그렇다면 왜 해킹했냐!,Lügner! Warum hast du dann diesen Bereich gehackt?
-4,1083,,La Barriera di Sicurezza non funziona correttamente? Sei venuto per trovare la causa e ripararla?,"因為防火牆的異常動作，
+4,1083,,"La Barriera di Sicurezza non funziona correttamente?
+Sei venuto per trovare la causa e ripararla?","因為防火牆的異常動作，
 所以要找出原因，並且修好……？",,"방화벽이 이상 동작을 일으켜서
 원인을 조사해서 고치려고……?","Der Sicherheitswall funktioniert nicht richtig?
 Du bist hier, um die Ursache zu finden und zu
@@ -99,7 +101,8 @@ musste ich die Sache im Auge behalten."
 너를 신뢰하지 않는 건 아냐","Entspann dich. Es ist ja nicht so, als ob ich dir
 nicht vertraue."
 33,3007,,"E tu non hai fatto niente di male, vero?",況且實際上，你也什麼事都沒做對吧？,,실제로 넌 아무것도 안 했잖아?,"Und du hast ja nichts Schlimmes angestellt, oder?"
-34,3007,,Per ora addio. Ti contatterò di nuovo se dovesse saltare fuori qualcos'altro.,"那就這樣啦。
+34,3007,,"Per ora addio.
+Ti contatterò di nuovo se dovesse saltare fuori qualcos'altro.","那就這樣啦。
 要是再有事就拜託你啦。",,"그럼 이만.
 또 무슨 일 있으면 부탁하도록 하마","Ich verabschiede mich vorerst. Ich kontaktiere
 dich wieder, wenn etwas anliegt."

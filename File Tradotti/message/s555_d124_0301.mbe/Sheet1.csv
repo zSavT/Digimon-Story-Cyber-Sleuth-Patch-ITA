@@ -1,5 +1,6 @@
 ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
-1,1760,,"Quindi mi hai attirato qui per sconfiggermi. Un'astuta manovra, in verità...","唔……把我引過來還打敗了我。
+1,1760,,"Quindi mi hai attirato qui per sconfiggermi.
+Un'astuta manovra, in verità...","唔……把我引過來還打敗了我。
 雖然是敵人，但真有你的……",,"크으으, 나를 끌어내어 쓰러트리다니
 적이지만 훌륭하다……","Du hast mich also hergelockt, um mich zu besiegen.
 Wirklich ein schlauer Plan ..."
@@ -17,7 +18,8 @@ confusione solo per farmi una domanda?","竟然為此特地侵入伺服器，引
 你還真是大膽。",,"그러기 위해 일부러 서버에 침입해서
 소란을 일으키다니, 대담한 짓을 하는군","Du greifst also den Server an und verbreitest
 so viel Chaos, nur, um mir eine Frage zu stellen?"
-7,1760,,"Se sei sinceramente dispiaciuto, allora non voglio portare la cosa oltre.","好吧，既然你反省了，
+7,1760,,"Se sei sinceramente dispiaciuto,
+allora non voglio portare la cosa oltre.","好吧，既然你反省了，
 我也不想把事情鬧大。",,"아니, 반성하고 있다면 이쪽 입장에서도
 너무 일을 크게 만들고 싶지는 않다만","Wenn es dir wirklich leid tut, werde ich von
 weiteren Schritten absehen."
@@ -43,12 +45,14 @@ direttamente, quindi ho assunto questo umano per farlo.","對、對不起……
 이 사람에게 부탁했어요","Tut mir leid. Ich hatte nicht den Mut, dich direkt
 zu fragen, also habe ich diesen Menschen
 angeheuert."
-12,1728,,Ti ammiro davvero molto! Voglio un magnifico corpo dorato proprio come il tuo!,"因為主任是我相當崇拜的數碼寶貝！
+12,1728,,"Ti ammiro davvero molto!
+Voglio un magnifico corpo dorato
+proprio come il tuo!","因為主任是我相當崇拜的數碼寶貝！
 我也想擁有跟主任一樣的傑出金色身體！",,"그도 그럴게, 주임님은 제가
 동경하는 디지몬이니까요! 저도 주임님처럼
 훌륭한 금색 몸체가 되고 싶어요!","Ich schaue wirklich zu dir auf! Ich möchte einen
 fantastischen goldenen Körper wie deinen!"
-13,1760,,Quindi volevi solo sapere come ottenere un corpo dorato?,"原來如此，
+13,1760,,"Quindi volevi solo sapere come ottenere un corpo dorato?","原來如此，
 你想知道要如何才能變成這樣的金色身體吧。",,"그렇군, 어떻게 하면 금색 몸체가 될 수 있는지
 알고 싶었던 거로군","Du wolltest also bloß wissen, wie du einen
 goldenen Körper bekommst?"
@@ -64,7 +68,8 @@ kein Geheimnis."
 18,1760,,"Un tempo ero un Solarmon, proprio come te.","嗯。過去我也和你一樣，
 以太陽獸的身分工作。",,"음. 옛날에는 나도 자네처럼
 황금톱니몬으로서 일하고 있었는데","Ich war einmal ein Solarmon, genau wie du."
-19,1760,,Ho semplicemente lavorato sodo come guardia di sicurezza e un giorno sono Digievoluto nella mia forma attuale.,"當我勤奮地從事著警衛的工作時，
+19,1760,,"Ho semplicemente lavorato sodo come guardia di sicurezza
+e un giorno sono Digievoluto nella mia forma attuale.","當我勤奮地從事著警衛的工作時，
 進化成了現在的模樣。",,"경비 일을 열심히 하다 보니
 지금 모습으로 진화한 거다","Ich habe als Wachmann einfach hart gearbeitet
 und eines Tages bin ich zu meiner aktuellen
@@ -92,21 +97,20 @@ Wahrheit."
 你不必在意。",,"아니, 누구나 틀릴 수는 있지.
 신경 쓰지 않아도 돼","Jeder macht mal Fehler. Mach dir keinen Kopf
 darum."
-26,1760,,"Esattamente. I Digimon hanno un aspetto molto diverso dopo che si
-Digievolvono.","正是如此。數碼寶貝只要進化了，
+26,1760,,"Esattamente. I Digimon hanno un aspetto molto
+diverso dopo che si Digievolvono.","正是如此。數碼寶貝只要進化了，
 樣貌就會大幅改變。",,"그렇다. 디지몬은 진화하면
 모습이 크게 바뀌니 말이지","Genau. Digimon sehen nach der Digitation ganz
 anders aus."
-27,1760,,"Ecco come sono passato dall'essere un Solarmon a ciò
-che sono ora.",我就是這樣，從太陽獸變成了現在的模樣。,,"그래서 나는 황금톱니몬에서
+27,1760,,"Ecco come sono passato dall'essere un Solarmon a ciò che sono ora.",我就是這樣，從太陽獸變成了現在的模樣。,,"그래서 나는 황금톱니몬에서
 지금의 모습이 된 거야","So ist aus mir als Solarmon meine jetzige Form
 geworden."
 28,1760,,Non è un segreto. Non c'è bisogno che mi ringrazi.,"不…這並不算是秘訣。
 不值得你道謝。",,"아니아니, 이런 건 비결 축에도 못 끼지.
 고마워하지 않아도 돼","Das ist kein Geheimnis. Es gibt keinen Grund,
 mir zu danken."
-29,1760,,"Ma non posso credere di aver perso contro un umano. Ho ancora
-molta strada da fare come capo della sicurezza.","但是竟然會輸給人類，
+29,1760,,"Ma non posso credere di aver perso contro un umano.
+Ho ancora molta strada da fare come capo della sicurezza.","但是竟然會輸給人類，
 看來我身為警衛主任還太嫩了。",,"하지만, 인간에게 지다니
 나도 경비 주임으로서는 한참 멀었군","Aber ich kann nicht glauben, dass ich einem
 Menschen unterlegen bin. Als Leiter des
@@ -122,8 +126,7 @@ assicurarmi di essere all'altezza del compito.","我要轉換心情，
 앞으로도 매일 정진해야겠군","Ich muss meine Fähigkeiten neu unter Beweis
 stellen und mich anstrengen, damit ich den Job
 auch erledigen kann."
-32,1728,,"Wow! Invece di punirci, stai punendo
-te stesso! Sei così figo!","嗚哇～～！　不僅沒處罰我們，反而嚴以律己！
+32,1728,,"Wow! Invece di punirci, stai punendo te stesso! Sei così figo!","嗚哇～～！　不僅沒處罰我們，反而嚴以律己！
 主任你好帥！",,"우와~~! 우리를 벌하기는커녕 오히려 스스로를 다스리다니!
 주임님, 멋져요!","Wow! Statt uns zu bestrafen, arbeitest du an dir!
 Du bist echt cool!"

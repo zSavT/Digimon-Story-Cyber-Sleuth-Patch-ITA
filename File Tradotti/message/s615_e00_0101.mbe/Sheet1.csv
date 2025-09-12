@@ -1,28 +1,28 @@
 ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
-2,5004,,"È un resoconto pensato per registrare un certo evento
-per la posterità.",……這是為了把某個事件傳述後世而留的紀錄。,,"…이것은, 어느 사건을 후대에 남기기 위한 기록이다","Das ist ein Text, um ein Ereignis für die
+2,5004,,"È un resoconto pensato per registrare un certo evento per la posterità.",……這是為了把某個事件傳述後世而留的紀錄。,,"…이것은, 어느 사건을 후대에 남기기 위한 기록이다","Das ist ein Text, um ein Ereignis für die
 Nachwelt zu erhalten."
-3,5004,,"Il giorno in cui accadde, mi diressi all'agenzia come
-al solito. Qui mi riferirò alla proprietaria
-semplicemente come Q.","那一天，我一如往常地前往了事務所。
+3,5004,,"Il giorno in cui accadde, mi diressi all'agenzia come al solito.
+Qui mi riferirò alla proprietaria semplicemente come Q.","那一天，我一如往常地前往了事務所。
 有個問題人物……在這裡簡稱他為Q吧。",,"그 날, 나는 늘 그렇듯 사무소로 향하고 있었다.
 문제의 인물……여기서는 Q라고 부르도록 하자","Am Tag, an dem es geschah, ging ich wie gewöhnlich
 zur Agentur. Die Besitzerin nenne ich hier
 einfach Q."
-4,5004,,"Q mi ha chiesto di fare il suo assistente, e io ero appena stato in un certo bar a comprarle il solito.","被事務所主人Q委託＂跑腿＂的我，
+4,5004,,"Q mi ha chiesto di fare il suo assistente, e io ero appena stato in un
+certo bar a comprarle il solito.","被事務所主人Q委託＂跑腿＂的我，
 為了買“那樣東西”剛去完一趟都內的某咖啡廳。",,"사무소 주인인 Q에게 ""심부름""을 부탁받은 나는
 ""그 물건""을 사러 도내의 모 카페에 막 다녀온 참이었다","Q möchte, dass ich ihr Assistent werde. Ich war
 gerade in einem gewissen Café gewesen, um ihr das
 Übliche zu kaufen."
-5,5004,,"Quando sono tornato, Q me l'ha preso con gioia ed è subito sparito nel laboratorio, o almeno così lo chiamo io.","Q從回來的我手上，開心地接下了那樣東西。
+5,5004,,"Quando sono tornato, Q me l'ha preso con gioia ed è subito sparito
+nel laboratorio, o almeno così lo chiamo io.","Q從回來的我手上，開心地接下了那樣東西。
 一轉眼就消失在裡頭的“研究室”──
 我是如此稱呼的。",,"돌아온 나에게, Q는 희희낙락하며 그 물건을 받아 들고
 말릴 틈도 없이 안쪽 ""연구실""――나는 그렇게 부르고 있다
 ――로 사라졌다","Als ich zurückkam, nahm Q es mir vergnügt ab
 und verschwand prompt im Labor. Zumindest
 nenne ich es so."
-6,5004,,"Fu allora che iniziai a immaginare gli orrori che
-stavano per consumarsi lì.",我想像了之後，在那研究室裡發生的慘劇。,,나는 그 이후 그 연구실에서 일어날 참극을 상상했다,"Und auf einmal begann ich, mir die grauenvollen
+6,5004,,"Fu allora che iniziai a immaginare gli orrori che stavano
+per consumarsi lì.",我想像了之後，在那研究室裡發生的慘劇。,,나는 그 이후 그 연구실에서 일어날 참극을 상상했다,"Und auf einmal begann ich, mir die grauenvollen
 Dinge vorzustellen, die sich gleich dort abspielen
 würden."
 7,5004,,Q ha una brutta abitudine.,Q有一個壞毛病。,,Q에게는 한 가지 나쁜 버릇이 있다,Q hat eine schlechte Angewohnheit.
@@ -41,7 +41,8 @@ dare una sbirciatina nel laboratorio.","過了一段時間，我的心萌生了�
 그렇다……그 연구실을 엿보기로 한 것이다","Meine Neugier übermannte mich und ich beschloss,
 einen Blick ins Labor zu werfen."
 10,5004,,Il laboratorio è severamente vietato.,那裡平常是……絕對禁止進入的禁忌領域。,,그곳은…평소에는 절대 출입을 허락받을 수 없는 금단의 영역,"Es ist streng verboten, das Labor zu betreten."
-11,5004,,Ma mi sarebbe potuto costare la vita se non avessi scoperto esattamente cosa stava succedendo. Non avevo scelta.,"但是……如果繼續無法掌握情況的話，
+11,5004,,"Ma mi sarebbe potuto costare la vita se non avessi scoperto esattamente
+cosa stava succedendo. Non avevo scelta.","但是……如果繼續無法掌握情況的話，
 我遲早會丟了性命吧。
 唯有這件事，無論如何都必須避開。",,"하지만…이 이상 사태를 파악하지 못한 채로 있다가는
 언젠가 나는 목숨을 잃을 것이다.
@@ -80,8 +81,8 @@ Devono assolutamente essere inclusi.""","「對了！　也曾聽說吃了眼珠
  들은 적이 있었군. 이거 한 번 시도해봐야겠는데」","„Und ich habe gehört, die Augäpfel sollen gut für
 das Gehirn sein. Sie müssen auf alle Fälle mit
 rein.“"
-19,5004,,"""Mmm... Però sono troppo grandi per una tazza da caffè. Dovrò
-semplicemente metterli nel frullatore.""","「嗯……但是好像太大了，放不進咖啡杯…
+19,5004,,"""Mmm... Però sono troppo grandi per una tazza da caffè.
+Dovrò semplicemente metterli nel frullatore.""","「嗯……但是好像太大了，放不進咖啡杯…
 　沒辦法。一起加入攪拌機攪拌吧。」",,"「음……하지만 너무 커서 커피 컵에는 안 들어갈까…
  하는 수 없지. 한 번에 믹서에 갈아보자」","„Hm ... Aber für die Kaffeetasse sind sie zu
 groß. Ich werde sie einfach in den Mixer stecken.“"
@@ -104,8 +105,8 @@ il pulsante.","一邊如此笑著，
 in den Mixer und drückte auf den Knopf."
 24,5004,,Bzzz...bzzz...bzzz...,劈啪……,,으지끈…물컹…빠득빠득……,Bzzz ... bzzz ... bzzz ...
 25,5004,,"Gli ingredienti furono tritati fino a formare un'informe
-melma che emanava un fetore disgustoso. Q sorrideva
-per tutto il tempo, mentre il liquido schizzava in cucina.","殘酷地被攪碎的食物聲……
+melma che emanava un fetore disgustoso. Q sorrideva per
+tutto il tempo, mentre il liquido schizzava in cucina.","殘酷地被攪碎的食物聲……
 臭氣瀰漫……即使被飛出來的食物弄得全身都是，
 依舊面帶笑容的Q……",,"무참하게 부서지는 식재료의 소리…
 자욱한 냄새…
@@ -131,14 +132,15 @@ gerade herstellte, für niemand anderen bestimmt."
 gar nicht mehr."
 32,5004,,"Voglio solo che qualcuno, chiunque, lo legga un giorno.",無論是誰都行，拜託，請記得這個紀錄。,,"누구라도 좋다, 부디 이 기록을 알아주기를 바란다","Ich will nur, dass jemand, egal wer, das eines
 Tages liest."
-33,5004,,"E spero che chiunque lo faccia, farà tutto
-ciò che è in suo potere per assicurarsi che la stessa sorte non
+33,5004,,"E spero che chiunque lo faccia, farà tutto ciò che è
+in suo potere per assicurarsi che la stessa sorte non
 capiti a nessun'altra povera anima sfortunata.","然後如果我發生了什麼事，屆時……
 希望你能盡力而為，別讓更多人犧牲。",,"그리고, 내 몸이 어딘가 잘못되었을 때는…
 이 이상의 희생자가 나오지 않도록 힘써주었으면 한다","Und ich hoffe, dass die Person alles tun wird, um
 zu verhindern, dass das gleiche Schicksal
 noch mehr arme Seelen ereilt."
-34,5004,,Spero che questa registrazione non finisca persa in una montagna di dati...,希望這個過錯能不被資料埋沒地傳述下去……,,이 잘못이 데이터의 산에 묻히지 않고 전해지기를…,"Ich hoffe, diese Aufzeichnungen gehen nicht
+34,5004,,"Spero che questa registrazione non finisca persa in una montagna di
+dati...",希望這個過錯能不被資料埋沒地傳述下去……,,이 잘못이 데이터의 산에 묻히지 않고 전해지기를…,"Ich hoffe, diese Aufzeichnungen gehen nicht
 unter einem Berg von Daten verloren."
 35,5004,,Questo è il mio ultimo desiderio.,這就是我唯一的願望。,,그것만이 나의 바람이다.,Das ist mein letzter Wunsch.
 36,2020,,La registrazione termina qui.,…………紀錄在這裡結束了。,,…………기록은 여기서 끝났다,Hier enden die Aufzeichnungen.

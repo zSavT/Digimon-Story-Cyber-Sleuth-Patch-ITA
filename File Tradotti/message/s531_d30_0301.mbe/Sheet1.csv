@@ -30,7 +30,8 @@ erhältlich sind?"
 這樣也好啊，只有我們賺到！",,"글쎄? 몰라.
 하지만 상관없잖아. 이득 보는 건 우리니까!",Keine Ahnung. Aber das ist für uns von Vorteil!
 11,7320,,...,…………,,…………,...
-12,7361,,"Dovresti essere felice, Shigenobu! Finalmente ti stai rendendo utile!","幹麼啊重信？你不是也很開心嗎？
+12,7361,,"Dovresti essere felice, Shigenobu!
+Finalmente ti stai rendendo utile!","幹麼啊重信？你不是也很開心嗎？
 沒用的你可以幫上大家！",,"뭐야 시게노부~? 너도 기쁘잖아?
 둔해 빠진 네가 우리 도움이 되니까 말야!","Du solltest froh sein, Shigenobu! Endlich bist
 du nützlich!"
@@ -43,7 +44,8 @@ uns auch dankbar sein! Hahahaha!"
 15,7320,,Ahah...ah...,……哈哈哈……,,"…하하, 하……",Haha ... ha ...
 16,7320,,...,…………,,…………,...
 17,3046,,"Ecco cosa sta succedendo, allora.",……原來是這樣。,,…그런 거였군,"Aha, so machen sie das."
-18,3046,,Gli studenti di terza stanno facendo fare l'esame a Shigenobu al posto loro.,"C班的學生，強迫那個叫重信的傢伙
+18,3046,,"Gli studenti di terza stanno facendo fare
+l'esame a Shigenobu al posto loro.","C班的學生，強迫那個叫重信的傢伙
 幫所有人考試。",,"C반의 학생들은 저 시게노부란 녀석에게
 대신 시험을 치게 했던 거다","Die Schüler der dritten Klasse zwingen Shigenobu,
 die Arbeit für sie zu schreiben."
@@ -61,7 +63,8 @@ schwierig, aber 40 ..."
 23,3046,,E scrivere risposte diverse per ogni persona...,而且還得讓每個人考卷都寫不同答案……,,"심지어 답안지에 각각 다른 답을
 써야 한다면…","Und für jede Person unterschiedliche Antworten
 zu schreiben ..."
-24,3046,,Perché qualcuno così intelligente si farebbe mettere i piedi in testa da gente come loro?,"……為什麼頭腦這麼好，
+24,3046,,"Perché qualcuno così intelligente si farebbe
+mettere i piedi in testa da gente come loro?","……為什麼頭腦這麼好，
 還甘願被那群傢伙使喚啊？",,"……대체 왜 저 정도 머리를 가지고
 저런 녀석들한테 부려 먹히는 거지?","Warum lässt sich jemand, der so klug ist, von
 ihnen herumschubsen?"
@@ -101,14 +104,15 @@ Marionetten."
 這是老天爺賜給我的機會……",,"그래, 다음 시험 때다……
 이건 나에게 주어진 기회야……","Die nächste Klassenarbeit ... Das ist meine
 Chance."
-36,7320,,La pagherete... La pagherete... La pagherete tutti per quello che avete fatto!!!,"……去死……去死……
+36,7320,,"La pagherete... La pagherete...
+La pagherete tutti per quello che avete fatto!!!","……去死……去死……
 去死……去死去死去死去死……！！！",,"…해주겠어…해주겠어
 해주겠어, 해주겠어해주겠어해주겠어……!!!!","Ihr werdet bezahlen ... Ihr werdet alle dafür
 bezahlen, was ihr getan habt!!!"
 37,3046,,Questo non va bene.,……這下不太妙。,,……이거 큰일이군,Das ist nicht gut.
 38,2020,,???,？？？,,???,???
-39,3046,,"Non lo capisci? Ha il controllo temporaneo su
-più di tre dozzine di persone.","你還不懂嗎？
+39,3046,,"Non lo capisci? Ha il controllo temporaneo
+su più di tre dozzine di persone.","你還不懂嗎？
 就算只是暫時的，但他可以一次
 操縱近40個人的身體喔？",,"모르겠냐?
 저 녀석은 일시적이지만 40명 가까운 인간의 몸을 조종할 수 있다고?","Verstehst du nicht? Er hat vorübergehend über
@@ -198,8 +202,8 @@ a salire le scale! Che cos'è questo?!","喂，我們跑出教室往樓上走了
 要幹麼？這是在搞什麼啊！！",,"어, 어이, 우리가 교실을 나가서 계단을 올라가기 시작했는데!?
 어떻게 된 거야? 이거 대체 뭐야!!","Wir haben das Klassenzimmer verlassen und gehen
 die Treppe hoch! Was?!"
-76,7320,,"Dovresti saperlo. Siete voi quelli che mi hanno fatto usare
-questo strumento.","……要幹麼你們自己最清楚吧。
+76,7320,,"Dovresti saperlo. Siete voi quelli che mi hanno
+fatto usare questo strumento.","……要幹麼你們自己最清楚吧。
 誰叫你們強迫我使用這個工具。",,"…그런 거 너희들이 가장 잘 알잖아.
 너희들이 나에게 이 툴을 사용하게 시켰어","Ihr solltet es wissen. Ihr habt mich doch
 gezwungen, dieses Gerät zu benutzen."
@@ -280,8 +284,8 @@ maltrattato così tanto ora!","怎麼樣啊！？總是被你們欺負，
 ihr, ihr hättet mich nicht so herumgeschubst!"
 106,7320,,"Non ti piace quando reagisco, vero?!",你們不是都把我當笨蛋、欺負又嘲笑我嗎！？,,나를 하나같이 바보 취급하고 괴롭히고 재밌었냐!?,"Es gefällt euch nicht, wenn ich zurückschubse,
 was?!"
-107,7320,,"Questa è la mia vendetta! L'insegnante e tutti voi siete
-morti!","這就是我的復仇！！
+107,7320,,"Questa è la mia vendetta!
+L'insegnante e tutti voi siete morti!","這就是我的復仇！！
 那個老師，還有你們，全都給我去死吧！！",,"이게 복수다!!
 그 교사도, 너네도 전부 죽었어!!","Dies ist meine Rache! Der Lehrer und ihr seid alle
 tot!"
@@ -330,8 +334,7 @@ sicuramente la parola giusta.","讓全員無法反抗的這種作法，
 不是姑息是什麼？",,"전원을 저항할 수 없게 만들고 반격이라니
 얍삽 이외에 뭐가 있겠냐","Du hast dich gerächt, ohne ihnen die Chance zu
 geben, sich zu wehren. Das ist wirklich feige."
-125,3046,,"Nessuno potrebbe rispettarti per aver fatto una cosa del
-genere.","就算用這種做法來報復，
+125,3046,,"Nessuno potrebbe rispettarti per aver fatto una cosa del genere.","就算用這種做法來報復，
 ……也不會有人認同你。",,"이런 식으로 되갚아봐야
 ……아무도 너를 인정해주지 않는다",Für solch eine Tat kann dich niemand respektieren.
 126,7320,,E guarda un po'?!,不要突然跑出來，還說得好像很瞭解我一樣！,,갑자기 나타나서는 다 아는 척 지껄이지 마!,Was wisst ihr schon?!

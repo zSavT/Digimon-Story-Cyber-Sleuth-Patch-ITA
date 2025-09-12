@@ -40,7 +40,8 @@ quando riparte...ho perso.","最後會變這樣……
 그게 풀리면……이렇게 지는 거야","Dann geht gar nichts mehr, wie du siehst.
 Wenn es dann wieder weitergeht ... habe ich
 verloren."
-11,7205,,"E poi c'è la schermata delle classifiche. Strano, no? Tutti i posti dal 1°al 100°hanno il nome ""TOY"".","還有這結算畫面後的排行！
+11,7205,,"E poi c'è la schermata delle classifiche. Strano, no?
+Tutti i posti dal 1°al 100°hanno il nome ""TOY"".","還有這結算畫面後的排行！
 這也很怪啊！
 從第1名到第100名全都成了「TOY」這個名字。",,"그리고 결과 화면 다음에 나오는 랭킹!
 이것도 이상하지? 1위부터 100위까지 전부
@@ -48,18 +49,19 @@ verloren."
 oder? Alle Platzierungen von 1 bis 100 tragen den
 Namen „TOY“."
 12,2020,,???,？？？,,???,???
-13,7205,,"È bizzarro. È un gioco così bello, ma questo bug l'ha rovinato.","看到了啊？很莫名奇妙是吧？
+13,7205,,"È bizzarro. È un gioco così bello,
+ma questo bug l'ha rovinato.","看到了啊？很莫名奇妙是吧？
 遊戲明明就很讚，
 也不知道什麼時候出了這樣的問題……",,"그치? 영문을 모르겠지?
 게임은 정말 좋은데
 어느새 이런 버그가 생겨서……","Es ist bizarr. Es ist so ein tolles Spiel, aber
 der Fehler hat es ruiniert."
-14,7205,,"Prima era tutto normale. Puoi aggiustarlo,
-vero?","之前玩起來明明都很正常，
+14,7205,,"Prima era tutto normale. Puoi aggiustarlo, vero?","之前玩起來明明都很正常，
 你真的要快點修好啊。",,"그 전까지는 아무렇지 않게 플레이했는데 말이지.
 정말 빨리 좀 고쳐줘","Vorher war alles ganz normal. Du kannst es
 reparieren, nicht wahr?"
-15,2020,,(L'armadietto in sé sembra normale. Parlerò di nuovo con il proprietario.),"（……機台本身好像沒有問題，
+15,2020,,"(L'armadietto in sé sembra normale.
+Parlerò di nuovo con il proprietario.)","（……機台本身好像沒有問題，
 　再問一下店長好了）",,"(……본체 자체는 이상이 없는 것 같다.
  한 번 더 주인과 이야기를 해보자)","(Mit der Maschine selbst ist wohl alles in
 Ordnung. Ich spreche noch mal mit der Besitzerin.)"
@@ -75,6 +77,5 @@ Rangdaten berechnet werden?"
 18,7204,,Capisco. Ti invierò l'URL del server.,"原來如此，我了解了。
 我這就將伺服器的URL給你。",,"그렇군요, 알겠습니다.
 그럼 서버 URL을 알려드릴게요",Verstehe. Ich schicke dir die URL des Servers.
-19,2020,,"(Andrò al server e vedrò se riesco a trovare la
-causa.)",（飛往這個伺服器，直接調查原因吧……）,,(이 서버로 가서 직접 원인을 찾아보자…),"(Ich werde den Server besuchen und versuchen,
+19,2020,,"(Andrò al server e vedrò se riesco a trovare la causa.)",（飛往這個伺服器，直接調查原因吧……）,,(이 서버로 가서 직접 원인을 찾아보자…),"(Ich werde den Server besuchen und versuchen,
 die Ursache herauszufinden.)"

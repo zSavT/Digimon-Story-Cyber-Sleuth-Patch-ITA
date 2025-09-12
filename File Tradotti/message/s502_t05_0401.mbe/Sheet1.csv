@@ -15,7 +15,8 @@ a un team di hacker, poi ho perso i contatti con lui!","好朋友突然說「我
 연락이 끊겨버렸다고!?","Urplötzlich erzählt mir mein bester Freund, dass
 er bei einem Hackerteam mitmacht, und dann
 höre ich nichts mehr von ihm!"
-6,3048,,"Stai bene? Non ti hanno fatto niente di male, vero? Raccontami ogni minimo dettaglio!","你沒事吧？沒有被怎麼樣吧！？
+6,3048,,"Stai bene? Non ti hanno fatto niente di male, vero?
+Raccontami ogni minimo dettaglio!","你沒事吧？沒有被怎麼樣吧！？
 到底發生了什麼，詳細說給我聽！",,"괜찮은 거야? 심각한 짓을 당하진 않았지!?
 무슨 일이 있었는지 제대로 들려줘!","Alles klar bei dir? Die haben doch nichts Fieses
 mit dir angestellt, oder? Erzähl mir alle
@@ -26,14 +27,14 @@ team di hacker, eh?","所以……你就答應了那個叫龍司的邀請，
 해커팀에 들어갔다는 건가","Und dann ... hat dieser „Ryuji“ dich gebeten, bei
 seinem Hackerteam mitzumachen, was?"
 8,3048,,Ma che diavolo ti salta in mente?!,你到底在想什麼啊！,,"너, 무슨 생각을 하는 거야!",Was zum Teufel denkst du dir dabei?!
-9,3048,,"Gli hacker sono il genere di feccia che ha fatto irruzione nel tuo account, in primo luogo!",駭客可是跟獵走你帳號的傢伙是同一種人耶！,,"해커 따위, 네 계정을 사냥한 녀석들과
+9,3048,,"Gli hacker sono la feccia che ha rubato il tuo account!",駭客可是跟獵走你帳號的傢伙是同一種人耶！,,"해커 따위, 네 계정을 사냥한 녀석들과
 같은 인종이잖아!","Hacker sind doch der Abschaum, der deinen Account
 gestohlen hat!"
 10,3048,,Come puoi fidarti di gente del genere?!,而你居然還相信那種人──！,,그런 놈들을 신뢰하다니――!,Wie kannst du solchen Leuten nur trauen?!
 11,2020,,...,…………,,…………,...
 12,3048,,Ehi...cos'è questo silenzio stampa?,幹、幹麼啊……都不說話。,,"뭐, 뭐야… 갑자기 조용해져서는",Hey ... Warum schweigst du mich denn an?
 13,2020,,"Non tutti gli hacker sono cattivi.
-Eri davvero preoccupato per me, vero [p]?","駭客也不全都是壞人喔
+Eri davvero preoccupato per me?","駭客也不全都是壞人喔
 讓你擔心了呢",,"해커는 나쁜 놈들만 있는 게 아냐
 걱정해줬구나","Nicht alle Hacker sind böse.
 Du hast dir wirklich Sorgen um mich gemacht?"
@@ -44,8 +45,8 @@ Comunque, tieni alta la guardia.","……唉……你都這麼說了，那我就
 Sei aber trotzdem vorsichtig."
 15,3048,,"Oh, oh, certo! Sei il mio migliore amico, amico.",這、這是當然的啊！　我們是好朋友耶！,,"다, 당연하잖아! 친구니까","Aber klar doch! Du bist doch mein allerbester
 Freund."
-16,3048,,"Quindi, anche con il loro aiuto, alla fine non sei comunque riuscito a trovare
-il criminale, eh?","只是……雖然借助了他們的力量，
+16,3048,,"Quindi, anche con il loro aiuto, alla fine non sei
+comunque riuscito a trovare il criminale, eh?","只是……雖然借助了他們的力量，
 卻依然不知道犯人到底是誰啊。",,"하지만… 그 녀석들의 힘을 빌렸어도
 결국 범인은 알 수 없었구나","Selbst mit ihrer Hilfe konntest du den
 Verbrecher doch nicht finden, was?"
@@ -84,7 +85,7 @@ contatti con informazioni sul criminale...","但能找到犯人的情報，居�
 연락에 의존해야 한다니 뭔가 기분 나쁘지만……","Aber es ist schon komisch, dass du auf Kontakt
 von einer so zwielichtigen Person wartest, um
 Infos über den Verbrecher zu erhalten."
-24,3048,,Urgh! Non so come fai a dire cose del genere senza battere ciglio...,"嗚……！！
+24,3048,,"Urgh! Non so come fai a dire cose del genere senza battere ciglio...","嗚……！！
 我說你啊，別有時候就若無其事的說這種話啊……！",,"핫……!!
 너란 녀석은 가끔 아무렇지도 않게 그런 소리를 한다니까…!","Argh! Ich weiß nicht, wie du so etwas sagen
 kannst, ohne mit der Wimper zu zucken ..."
@@ -96,8 +97,8 @@ Mercato Nero fin dall'inizio, sai!","你在吃驚什麼啊！
 就算是黑市那次，我也是打算跟你一起去的啊。",,"뭘 놀라는 거야!
 난 암시장에도 같이 갈 생각이었어","Jetzt schau nicht so geschockt! Ich wollte doch
 ursprünglich auch zum Schwarzmarkt mitgehen!"
-29,3048,,"Poi te ne sei andat[p] senza di me...a dire la verità,
-sono rimast[p] piuttosto scioccato.","但你卻瞞著我自己一個人跑去……
+29,3048,,"Allora sei partito senza di me...
+Onestamente, ero piuttosto scioccata.","但你卻瞞著我自己一個人跑去……
 我可是很受打擊啊。",,"그런데도 말없이 혼자 가버리다니…….
 상당히 쇼크였다고","Dann bist du einfach ohne mich los ... Ehrlich
 gesagt, war ich ganz schön geschockt."
@@ -107,8 +108,8 @@ Promesso col mignolino!","下次K再聯絡你的時候，一定要跟我聯絡�
 약속이다!","Wenn K dich das nächste Mal kontaktiert, sag mir
 unbedingt Bescheid! Versprich es!"
 31,3048,,Bene.,很好。,,좋아,Gut.
-32,3048,,"Bene, farei meglio ad andare. Mi sento meglio dopo aver
-parlato con te.","……那我就走了喔。
+32,3048,,"Bene, farei meglio ad andare.
+Mi sento meglio dopo aver parlato con te.","……那我就走了喔。
 聽你說了這些後我安心多了。",,"……그럼 난 이만 갈게.
 이야기를 듣고 안심했어","Also, ich muss jetzt los. Nach unserem Gespräch
 geht es mir besser."
