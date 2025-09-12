@@ -61,21 +61,22 @@ Le percentuali quì sotto fanno riferimento alla revisione manuale dei testi, la
 # Milestone prossima versione (1.5)
 
 - [x] Terminare interamente la revisione Storia Cyber Sleuth.
-- [ ] Iniziare revisione Hacker's Memory sistemando la sola formattazione nei testi tagliati.
+- [x] Iniziare revisione Hacker's Memory sistemando la sola formattazione nei testi tagliati.
 - [x] Correzione testi con doppi genere indicati.
 - [x] Revisione Box Dialoghi NPC.
 - [x] Revisione DigiLine Parte 4.
 - [x] Revisione Quest Parte 4
 - [x] Revisione DigiBook Parte 3
-- [x] Utilizzare termine Eater al posto di Divoratore.
+- [x] Utilizzare termine "Eater" al posto di "Divoratore" e simili.
+- [ ] Utilizzare termine "Under Zero" al posto di "Sotto Zero".
 - [x] Utilizzare correttamente il termine "Tamer".
 - [x] Utilizzare correttamente il termine "Demons".
 - [x] Correzione testi o miglioramenti vari da segnalazioni utenti dirette e indirette.
 - [x] Revisione nomi e descrizione oggetti.
 - [x] Revisione nomi e descrizione mosse Digimon.
 - [x] Revisione dei testi dei menu di gioco e impostazioni.
-- [ ] Correzione texture.
-- [ ] Traduzione nuove texture.
+- [x] Correzione texture.
+- [x] Traduzione nuove texture.
 
 La lista dell'userStory è presente [qui](https://github.com/zSavT/Digimon-Story-Cyber-Sleuth-Patch-ITA/milestone/4).
 
