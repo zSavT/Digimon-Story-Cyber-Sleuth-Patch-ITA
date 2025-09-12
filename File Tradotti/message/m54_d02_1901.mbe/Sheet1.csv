@@ -131,8 +131,8 @@ lassen."
 我們——",,"류지! 너라면 알잖아!?
 우리들은――","Ryuji! Du verstehst mich doch, oder?! Schließlich
 sind wir ..."
-52,3046,,""Noi"" non siamo nulla. Tu sei scappato via.
-Non hai nulla da dire agli hacker di EDEN.,"已經不是“我們”了。
+52,3046,,"""Noi"" non siamo nulla. Tu sei scappato via.
+Non hai nulla da dire agli hacker di EDEN.","已經不是“我們”了。
 逃走的你沒有資格來評論EDEN的駭客！",,"더 이상 ""우리들""이 아냐.
 도망친 네가 EDEN의 해커를 말하지 마라","„Wir“ sind nichts. Du bist weggelaufen. Du hast
 nichts zu den Hackern von EDEN zu sagen."
@@ -224,7 +224,8 @@ gute Arbeit."
 84,3001,,... Sei dunque anche tu la vittima di un malvagio hacker.,……你也是惡質駭客的犧牲者啊。,,…너도 악질적인 해커의 희생자였구나,"... Du bist also auch das Opfer eines bösen
 Hackers."
 85,3001,,Allora non devo spiegarti nulla.,這樣的話，我不用多說什麼你也能理解吧？,,그렇다면 나 따위가 굳이 말하지 않더라도 알아주겠지,Dann brauche ich dir ja nichts erklären.
-86,3001,,Sai bene quanto danno gli hacker provocano con le loro scorribande a chi vive in EDEN.,失控的駭客，會害生活在EDEN的人多痛苦。,,"폭주하는 해커가
+86,3001,,"Sai bene quanto danno gli hacker provocano con le loro scorribande a
+chi vive in EDEN.",失控的駭客，會害生活在EDEN的人多痛苦。,,"폭주하는 해커가
 얼마나 EDEN에 머무는 자들을 괴롭히고 있는지를","Du weißt selbst, wie viel Unheil Hacker bei
 Leuten, die in EDEN leben, mit ihren Amokläufen
 stiften."
@@ -233,7 +234,7 @@ dovrebbero essere liberi.","……就像真田新說的那樣，
 我內心也認為應該放駭客自由才對。",,"……사나다 아라타 말대로 나도 근본적으로 해커는
 자유로워야 한다고 생각하고 있어","... Genau wie Arata Sanada meinte, glaube auch
 ich, dass Hacker frei sein sollten."
-88,3001,,"Ma „Libertà“ può essere interpretata in modi diversi.
+88,3001,,"Ma ""Libertà"" può essere interpretata in modi diversi.
 Ognuno deve trovare la risposta per sé stesso.","但是，“自由”因人而異也是事實，
 那個答案只能夠靠自己找出來。",,"하지만 ""자유""에는 많은 해석이 있다는 것도 사실이야.
 그 답은 한 사람 한 사람이 찾아낼 수밖에 없지","Aber „Freiheit“ kann verschieden ausgelegt werden.
