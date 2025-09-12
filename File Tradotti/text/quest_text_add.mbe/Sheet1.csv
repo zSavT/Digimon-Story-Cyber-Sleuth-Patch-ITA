@@ -757,7 +757,7 @@ nachgehen? Den sollte niemand benutzen."
 870,,Ottieni spiegazioni dal cliente,聽委託人說明詳情,,의뢰인에게서 설명을 듣자.,Hol dir eine Erklärung vom Klienten.
 871,,Chiedi alla direzione della sede centrale di Kamishiro,到神代企業營運總部詢問詳情,,카미시로 본사에서 운영진에게 이야기를 듣자.,Frag Manager in Kamishiro-Zentrale.
 872,,Dirigiti verso Under Kowloon Lv. 1,前往Under Kowloon Lv.1,,언더 쿠롱 Lv.1로 향하자.,Geh zur Ebene 1 in Unter Kowloon.
-873,,Controlla sotto Kowloon Lv. 1,調查Under Kowloon Lv.1,,언더 쿠롱 Lv.1을 조사하자.,Schau auf Ebene 1 in Unter Kowloon.
+873,,Controlla Under Kowloon Lv. 1,調查Under Kowloon Lv.1,,언더 쿠롱 Lv.1을 조사하자.,Schau auf Ebene 1 in Unter Kowloon.
 874,,Indaga su Kowloon Lv. 4.,調查Kowloon Lv.4,,쿠롱 Lv.4를 조사하자.,Ermittle auf Ebene 4 von Kowloon.
 875,,Sconfiggi Puppetmon,打倒木偶獸,,피노키몬을 쓰러뜨리자,Besiege Puppetmon.
 880,,Acquario blu,憂鬱的水族館,,블루한 수족관,Blaues Aquarium
@@ -2307,21 +2307,21 @@ ist nichts Schönes, muss aber sein!"
 2490,,Dirigiti a Ikebukuro.,前往池袋,,이케부쿠로로 향하자.,Geh nach Ikebukuro.
 2500,,L'oggetto smarrito di Lekismon,雷克斯獸的失物,,레키스몬의 분실물,Lekismons Verlust
 2501,,Lekismon,雷克斯獸,,레키스몬,Lekismon
-2502,,"È caduto a Sotto Kowloon
+2502,,"È caduto a Under Kowloon
 Lv. 1. Aiutatemi a trovarlo!",請幫我找掉在Under Kowloon Lv.1的重要物品！,,"언더 쿠롱 Lv.1에서 떨어뜨린
 소중한 것을 찾아줘!","Es ging auf Ebene 1 in Unter Kowloon
 verloren. Hilf mir bei der Suche!"
 2510,,Incontra il cliente a Under Kowloon Lv. 1,到Under Kowloon Lv.1跟委託人見面,,언더 쿠롱 Lv.1의 의뢰인을 만나자.,"Geh zum Klienten, Eb. 1 in Unter Kowloon."
-2511,,Cerca sotto Kowloon Lv. 1,在Under Kowloon Lv.1尋找,,언더 쿠롱 Lv.1의 탐색을 하자.,Suche auf Ebene 1 in Unter Kowloon.
+2511,,Cerca Under Kowloon Lv. 1,在Under Kowloon Lv.1尋找,,언더 쿠롱 Lv.1의 탐색을 하자.,Suche auf Ebene 1 in Unter Kowloon.
 2512,,Restituisci l'oggetto smarrito di Lekismon.,將失物交給雷克斯獸,,레키스몬에게 분실물을 전해주자.,Gib Lekismon das Verlorene zurück.
 2520,,Oggetto smarrito di Crescemon,新月獸的失物,,크레세몬의 분실물,Crescemons Verlust
 2521,,Crescemone,新月獸,,크레세몬,Crescemon
-2522,,"È caduto a Sotto Kowloon
+2522,,"È caduto a Under Kowloon
 Lv. 3. Aiutatemi a trovarlo!",請幫我找掉在Under Kowloon Lv.3的重要物品！,,"언더 쿠롱 Lv.3에서 떨어뜨린
 소중한 것을 찾아줘!","Es ging auf Ebene 3 in Unter Kowloon
 verloren. Hilf mir bei der Suche!"
 2530,,Incontra il cliente a Under Kowloon Lv. 3,到Under Kowloon Lv.3跟委託人見面,,언더 쿠롱 Lv.3의 의뢰인을 만나자.,"Geh zum Klienten, Eb. 3 in Unter Kowloon."
-2531,,Cerca sotto Kowloon Lv. 3,在Under Kowloon Lv.3尋找,,언더 쿠롱 Lv.3의 탐색을 하자.,Suche auf Ebene 3 in Unter Kowloon.
+2531,,Cerca Under Kowloon Lv. 3,在Under Kowloon Lv.3尋找,,언더 쿠롱 Lv.3의 탐색을 하자.,Suche auf Ebene 3 in Unter Kowloon.
 2532,,Restituisci l'oggetto smarrito di Crescemon.,將失物交給新月獸,,크레세몬의 분실물을 전해주자.,Gib Crescemon das Verlorene zurück.
 2540,,L'oggetto smarrito di Golemon.,岩石獸的失物,,록몬의 분실물,Golemons Verlust
 2541,,Golemon,岩石獸,,록몬,Golemon
@@ -2334,12 +2334,12 @@ Kowloon verloren!"
 2552,,Restituisci l'oggetto smarrito di Golemon.,將失物交給岩石獸,,록몬의 분실물을 전해주자.,Gib Golemon das Verlorene zurück.
 2560,,Oggetto smarrito di Strikedramon,強襲龍獸的失物,,스트라이크드라몬의 분실물,Strikedramons Verlust
 2561,,Strikedramon,強襲龍獸,,스트라이크드라몬,Strikedramon
-2562,,"È caduto a Sotto Kowloon
+2562,,"È caduto a Under Kowloon
 Lv. 2. Aiutatemi a trovarlo!",請幫我找掉在Under Kowloon Lv.2的重要物品！,,"언더 쿠롱 Lv.2에서 떨어뜨린
 소중한 것을 찾아줘!","Es ging auf Ebene 2 in Unter Kowloon
 verloren. Hilf mir bei der Suche!"
 2570,,Incontra il cliente a Under Kowloon Lv. 2,到Under Kowloon Lv.2跟委託人見面,,언더 쿠롱 Lv.2의 의뢰인을 만나자.,"Geh zum Klienten, Eb. 2 in Unter Kowloon."
-2571,,Cerca sotto Kowloon Lv. 2,在Under Kowloon Lv.2尋找,,언더 쿠롱 Lv.2의 탐색을 하자.,Suche auf Ebene 2 in Unter Kowloon.
+2571,,Cerca Under Kowloon Lv. 2,在Under Kowloon Lv.2尋找,,언더 쿠롱 Lv.2의 탐색을 하자.,Suche auf Ebene 2 in Unter Kowloon.
 2572,,Restituisci l'oggetto smarrito di Strikedramon,將失物交給強襲龍獸,,스트라이크드라몬의 분실물을 전해주자.,Gib Strikedramon das Verlorene zurück.
 2580,,L'oggetto perduto di Dorugoramon,多路戰龍獸的失物,,돌고라몬의 분실물,Dorugoramons Verlust
 2581,,Dorugoramon,多路戰龍獸,,돌고라몬,Dorugoramon
@@ -2379,12 +2379,12 @@ verloren. Hilf mir bei der Suche!"
 2652,,Restituisci l'oggetto smarrito di Grademon.,將失物交給黃金劍士獸,,그레이드몬의 분실물을 전해주자.,Gib Grademon das Verlorene zurück.
 2660,,L'oggetto perduto di Triceramon,三觭龍獸的失物,,트리케라몬의 분실물,Triceramons Verlust
 2661,,Triceramone,三觭龍獸,,트리케라몬,Triceramon
-2662,,"È caduto a Sotto Kowloon Lv. 3.
+2662,,"È caduto a Under Kowloon Lv. 3.
 Aiutatemi a trovarlo!",請幫我找掉在Under Kowloon Lv.3的重要物品！,,"언더 쿠롱 Lv.3에서 떨어뜨린
 소중한 것을 찾아줘!","Es ging auf Ebene 3 in Unter Kowloon
 verloren. Hilf mir bei der Suche!"
 2670,,Incontra il cliente a Under Kowloon Lv. 3,到Under Kowloon Lv.3跟委託人見面,,언더 쿠롱 Lv.3의 의뢰인을 만나자.,"Geh zum Klienten, Eb. 3 in Unter Kowloon."
-2671,,Cerca sotto Kowloon Lv. 3,在Under Kowloon Lv.3尋找,,언더 쿠롱 Lv.3의 탐색을 하자.,Suche auf Ebene 3 in Unter Kowloon.
+2671,,Cerca Under Kowloon Lv. 3,在Under Kowloon Lv.3尋找,,언더 쿠롱 Lv.3의 탐색을 하자.,Suche auf Ebene 3 in Unter Kowloon.
 2672,,Restituisci l'oggetto smarrito di Triceramon.,將失物交給三觭龍獸,,트리케라몬의 분실물을 전해주자.,Gib Triceramon das Verlorene zurück.
 2680,,Oggetto smarrito di Pandamon,熊貓獸的失物,,팬더몬의 분실물,Pandamons Verlust
 2681,,Pandamon,熊貓獸,,팬더몬,Pandamon
@@ -2397,12 +2397,12 @@ verloren. Hilf mir bei der Suche!"
 2692,,Restituisci l'oggetto smarrito di Pandamon.,將失物交給熊貓獸,,팬더몬의 분실물을 전해주자.,Gib Pandamon das Verlorene zurück.
 2700,,Oggetto smarrito di HippoGryphonmon,仙鷹獸的失物,,히포그리포몬의 분실물,HippoGryphonmons Verlust
 2701,,HippoGryphonmon,仙鷹獸,,히포그리포몬,HippoGryphonmon
-2702,,"È caduto a Sotto Kowloon Lv. 4.
+2702,,"È caduto a Under Kowloon Lv. 4.
 Aiutatemi a trovarlo!",請幫我找掉在Under Kowloon Lv.4的重要物品！,,"언더 쿠롱 Lv.4에서 떨어뜨린
 소중한 것을 찾아줘!","Es ging auf Ebene 4 in Unter Kowloon
 verloren. Hilf mir bei der Suche!"
 2710,,Incontra il cliente a Under Kowloon Lv. 4,到Under Kowloon Lv.4跟委託人見面,,언더 쿠롱 Lv.4의 의뢰인을 만나자.,"Geh zum Klient, Eb. 4 in Unter Kowloon."
-2711,,Cerca sotto Kowloon Lv. 4,在Under Kowloon Lv.4尋找,,언더 쿠롱 Lv.4의 탐색을 하자.,Suche auf Ebene 4 in Unter Kowloon.
+2711,,Cerca Under Kowloon Lv. 4,在Under Kowloon Lv.4尋找,,언더 쿠롱 Lv.4의 탐색을 하자.,Suche auf Ebene 4 in Unter Kowloon.
 2712,,Restituisci l'oggetto smarrito di HippoGryphonmon.,將失物交給仙鷹獸,,히포그리포몬의 분실물을 전해주자.,Gib HippoGryphonmon das Item zurück.
 2720,,L'oggetto perduto di Turuiemon,兔爺獸的失物,,토리에몬의 분실물,Turuiemons Verlust
 2721,,Turuiemon,兔爺獸,,토리에몬,Turuiemon
@@ -2415,12 +2415,12 @@ gelassen. Bitte finde es!"
 2732,,Restituisci l'oggetto smarrito di Turuiemon.,將失物交給兔爺獸,,토리에몬의 분실물을 전해주자.,Gib Turuiemon das Verlorene zurück.
 2740,,L'oggetto perduto di TyrantKabuterimon,暴君比多獸的失物,,타이런트캅테리몬의 분실물,TyrantKabuterimons Verlust
 2741,,Tiranno Kabuterimon,暴君比多獸,,타이런트캅테리몬,TyrantKabuterimon
-2742,,"È caduto a Sotto Kowloon
+2742,,"È caduto a Under Kowloon
 livello 5. Aiutatemi a trovarlo!",請幫我找掉在Under Kowloon Lv.5的重要物品！,,"언더 쿠롱 Lv.5에서 떨어뜨린
 소중한 것을 찾아줘!","Es ging auf Ebene 5 in Unter Kowloon
 verloren. Hilf mir bei der Suche!"
 2750,,Incontra il cliente a Under Kowloon Lv. 5,到Under Kowloon Lv.5跟委託人見面,,언더 쿠롱 Lv.5의 의뢰인을 만나자.,"Geh zum Klient, Eb. 5 in Unter Kowloon."
-2751,,Cerca sotto Kowloon Lv. 5,在Under Kowloon Lv.5尋找,,언더 쿠롱 Lv.5의 탐색을 하자.,Suche auf Ebene 5 in Unter Kowloon.
+2751,,Cerca Under Kowloon Lv. 5,在Under Kowloon Lv.5尋找,,언더 쿠롱 Lv.5의 탐색을 하자.,Suche auf Ebene 5 in Unter Kowloon.
 2752,,Restituisci l'oggetto smarrito di TyrantKabuterimon.,將失物交給暴君比多獸,,타이런트캅테리몬의 분실물을 전해주자.,Gib TyrantKabuterimon das Item.
 2760,,L'oggetto perduto di Coelamon,希拉獸的失物,,씨라몬의 분실물,Coelamons Verlust
 2761,,Celamone,希拉獸,,씨라몬,Coelamon
@@ -2451,21 +2451,21 @@ verloren. Hilf mir bei der Suche!"
 2812,,Restituisci l'oggetto smarrito di Monodramon.,將失物交給單角龍獸,,모노드라몬의 분실물을 전해주자.,Gib Monodramon das Verlorene zurück.
 2820,,Oggetto smarrito di Unimon,獨角馬獸的失物,,유니몬의 분실물,Unimons Verlust
 2821,,Unimon,獨角馬獸,,유니몬,Unimon
-2822,,"È caduto a Sotto Kowloon Lv. 2.
+2822,,"È caduto a Under Kowloon Lv. 2.
 Aiutatemi a trovarlo!",請幫我找掉在Under Kowloon Lv.2的重要物品！,,"언더 쿠롱 Lv.2에서 떨어뜨린
 소중한 것을 찾아줘!","Es ging auf Ebene 2 in Unter Kowloon
 verloren. Hilf mir bei der Suche!"
 2830,,Incontra il cliente a Under Kowloon Lv. 2,到Under Kowloon Lv.2跟委託人見面,,언더 쿠롱 Lv.2의 의뢰인을 만나자.,"Geh zum Klient, Eb. 2 in Unter Kowloon."
-2831,,Cerca sotto Kowloon Lv. 2,在Under Kowloon Lv.2尋找,,언더 쿠롱 Lv.2의 탐색을 하자.,Suche auf Ebene 2 in Unter Kowloon.
+2831,,Cerca Under Kowloon Lv. 2,在Under Kowloon Lv.2尋找,,언더 쿠롱 Lv.2의 탐색을 하자.,Suche auf Ebene 2 in Unter Kowloon.
 2832,,Restituisci l'oggetto smarrito di Unimon.,將失物交給獨角馬獸,,유니몬의 분실물을 전해주자.,Gib Unimon das Verlorene zurück.
 2840,,L'oggetto perduto di Zubamon,茲巴獸的失物,,즈바몬의 분실물,Zubamons Verlust
 2841,,Zubamon,茲巴獸,,즈바몬,Zubamon
-2842,,"È caduto a Sotto Kowloon Lv. 1.
+2842,,"È caduto a Under Kowloon Lv. 1.
 Aiutatemi a trovarlo!",請幫我找掉在Under Kowloon Lv.1的重要物品！,,"언더 쿠롱 Lv.1에서 떨어뜨린
 소중한 것을 찾아줘!","Es ging auf Ebene 1 in Unter Kowloon
 verloren. Hilf mir bei der Suche!"
 2850,,Incontra il cliente a Under Kowloon Lv. 1,到Under Kowloon Lv.1跟委託人見面,,언더 쿠롱 Lv.1의 의뢰인을 만나자.,"Geh zum Klienten, Eb. 1 in Unter Kowloon."
-2851,,Cerca sotto Kowloon Lv. 1,在Under Kowloon Lv.1尋找,,언더 쿠롱 Lv.1의 탐색을 하자.,Suche auf Ebene 1 in Unter Kowloon.
+2851,,Cerca Under Kowloon Lv. 1,在Under Kowloon Lv.1尋找,,언더 쿠롱 Lv.1의 탐색을 하자.,Suche auf Ebene 1 in Unter Kowloon.
 2852,,Restituisci l'oggetto smarrito di Zubamon.,將失物交給茲巴獸,,즈바몬의 분실물을 전해주자.,Gib Zubamon das Verlorene zurück.
 2860,,Oggetto smarrito di ZubaEagermon,兹巴伊戈獸的失物,,즈바이거몬의 분실물,ZubaEagermons Verlust
 2861,,ZubaEagermon,兹巴伊戈獸,,즈바이거몬,ZubaEagermon
