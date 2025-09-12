@@ -6,7 +6,8 @@ einige Restaurants zu geben ... Ah!"
 2,3047,,Bingo... Bersaglio acquisito!,找到了……目標確認！,,빙고……타깃 확인,Bingo ... Ziel erfasst!
 3,2020,,...?,…………？,,…………?,...?
 4,3047,,Bellissima! Proprio come sulla sua foto online.,跟在網路上看到的照片一樣……還蠻可愛的嘛！,,인터넷 영상으로 본 것보다…… 더 귀엽잖아!,Bildhübsch! Genau wie auf ihrem Foto online.
-5,3047,,"Allora, mio studente. Ora il tuo maestro ti mostrerà un po' come si fa.","來，徒弟啊。
+5,3047,,"Allora, mio studente.
+Ora il tuo maestro ti mostrerà un po' come si fa.","來，徒弟啊。
 這裡就由身為師傅的我，來為你示範一下！",,"좋다, 제자여.
 여기서는 스승인 내가 너에게 시범을 보여주마!","So, mein Schüler. Jetzt zeigt dein Meister dir
 mal, wie das geht."
@@ -14,7 +15,8 @@ mal, wie das geht."
 Avresti un momento?",HEY！　那裡的女生，可以借我一點時間嗎！,,헤이! 거기 아가씨. 잠깐 괜찮아~?,"Hallöchen, meine Hübsche!
 Hättest du einen Moment Zeit?"
 7,3003,,...,…………,,…………,...
-8,3047,,"Sei così carino, non ho potuto fare a meno! Vogliamo andare a prenderci un caffettino?","妳長得很可愛，我就覺得一定要和妳搭話才行～！
+8,3047,,"Sei così carino, non ho potuto fare a meno!
+Vogliamo andare a prenderci un caffettino?","妳長得很可愛，我就覺得一定要和妳搭話才行～！
 如果方便的話，要不要跟我去喝杯茶呀！？",,"네가 귀여워서 말을 걸어야겠다고 생각했거든~!
 괜찮다면 나랑 차라도 한 잔 어때~!?","Du bist so schnuckelig, da konnte ich nicht
 anders! Wollen wir ein Käffchen trinken gehen?"
@@ -29,7 +31,8 @@ Ti va di guardare?","那麼這樣吧，我雖然看起來這樣，
 Ich übe gleich auf einem Platz in der Nähe.
 Lust, zuzuschauen?"
 12,3003,,...,…………,,…………,...
-13,3047,,"... Ehm. A dire il vero, sono qui per la prima volta. Conosci dei buoni caffè?","啊──那個……其實我是第一次來這裡──
+13,3047,,"... Ehm. A dire il vero, sono qui per la prima volta.
+Conosci dei buoni caffè?","啊──那個……其實我是第一次來這裡──
 妳知道哪裡有咖啡廳嗎？　可不可以告訴我呢？",,"아, 그러니까……실은 여기엔 처음 왔는데
 카페가 어디에 있는지 가르쳐주지 않을래?","... Ähm. Ganz ehrlich bin ich zum ersten Mal
 hier. Kennst du gute Cafés?"
@@ -48,7 +51,8 @@ In Shibuya zeig ich dir, wie ich das mache!"
 我的戀愛心理指數……已經歸零了……",,"[p]……!
 나의 러브멘탈 포인트는……이제 제로다……","[p] ...!
 Mein Herz-mon hat keine LP mehr ..."
-18,3047,,"Il resto te lo lascio... Va' e sii di successo, mio allievo! Vendicami...","接下來我只能靠你了……！　上吧，吾之徒弟啊！
+18,3047,,"Il resto te lo lascio...
+Va' e sii di successo, mio allievo! Vendicami...","接下來我只能靠你了……！　上吧，吾之徒弟啊！
 然後，幫我復仇吧……！",,"이젠 너만이 희망이다…! 출정해라 나의 제자여!
 그리고 나의 원수를 갚아다오…!","Den Rest überlasse ich dir ... Gehe hin und sei
 erfolgreich, mein Schüler! Räche mich ..."
@@ -91,7 +95,8 @@ che tipo di meraviglia speziata sia questo piatto.","……看你這表情，
 難道你不知道這裡的蛋包飯有多美味？",,"……그 표정, 설마 모르는 건가요?
 여기 오므라이스의 맛을","... Deinem Gesicht nach ist dir nicht ganz klar,
 was dieses Gericht für ein würziges Wunder ist."
-36,3003,,... Eppure la tua scelta della bevanda all'Ospedale Centrale era così promettente... Peccato.,"……明明在中央醫院時，
+36,3003,,"... Eppure la tua scelta della bevanda all'Ospedale Centrale era così
+promettente... Peccato.","……明明在中央醫院時，
 在飲品的選擇上展現出可能性……
 這實在是太令人感嘆了。",,"……센트럴 병원에서 그만큼이나 음료에 대한
 가능성을 보여준 당신 정도 되는 사람이……한심하군요","... Dabei war deine Wahl des Getränks im
@@ -121,13 +126,15 @@ La panna è stata montata fino a una consistenza unica.","……這裡的蛋包�
 Da wurde Sahne zu einer einzigartigen Konsistenz
 geschlagen."
 43,2020,,?!,！？！？,,!?!?,?!
-44,3003,,L'omelette soffice con abbondante burro è adagiata su un buon piatto di pollo al wok con riso.,"而使用了大量這種奶油做出的軟嫩蛋包，
+44,3003,,"L'omelette soffice con abbondante burro è adagiata su un buon piatto
+di pollo al wok con riso.","而使用了大量這種奶油做出的軟嫩蛋包，
 再大量地放到炒好的雞肉飯上……",,"그 버터를 듬뿍 사용한 말랑말랑한 오믈렛이 단단한 치킨
 라이스 위에 가득 올라 있죠…","Das luftige Omelett mit jeder Menge von der Butter
 liegt auf einem guten Hühnchen-Wokgericht
 mit Reis."
 45,3003,,"Lo sai anche tu, vero?",你不會這樣想嗎？,,당신에겐 그런 적 없나요?,"Du kennst das auch, oder?"
-46,3003,,"Che si voglia scuotere un piatto con del cibo gelatinoso, anche se sono cattive maniere?","看到眼前有軟嫩的食物，明明知道這樣做沒教養，
+46,3003,,"Che si voglia scuotere un piatto con del cibo gelatinoso,
+anche se sono cattive maniere?","看到眼前有軟嫩的食物，明明知道這樣做沒教養，
 但就是會忍不住想要搖一下盤子……",,"눈앞에 살짝씩 말랑말랑 흔들리는 음식을 보고
 그래서는 안 된다는걸 알면서도 그만 접시를 흔들어버리는 경우가……","Dass man einen Teller mit wabbeligem Essen
 schütteln will, obwohl das schlechte Manieren
@@ -147,7 +154,8 @@ In questo caso, forse più 'gustare'.","那麼，百聞不如一見。
 In diesem Fall wohl eher schmecken."
 53,3003,,... Vorresti provarlo con me?,……要不要一起吃呢？,,……같이 어떠신가요?,... Möchtest du es mit mir probieren?
 54,3003,,... Puh.,……呼。,,……후우,... Puh.
-55,3003,,"Grazie a te sono riuscito a provare l'omelette Jumbo dal menù del giorno, per la quale servono almeno due persone.","多虧有你，才能夠享受到兩位以上
+55,3003,,"Grazie a te sono riuscito a provare l'omelette Jumbo dal menù del giorno,
+per la quale servono almeno due persone.","多虧有你，才能夠享受到兩位以上
 才能點餐的「爆大份套餐」。",,"당신 덕분에 둘 이상이 아니면 주문할 수 없는
 「초절 곱빼기 세트」를 즐길 수 있었습니다","Dank dir konnte ich das Jumbo-Omelette von der
 Tageskarte probieren, für das man mindestens
@@ -162,7 +170,9 @@ Ach, Rie."
 59,3003,,"No... Sono solo... Capisco.
 Arrivo subito.",沒有……並不是――我知道了，馬上就回去。,,아뇨……딱히―― 알겠습니다. 바로 돌아가겠습니다,"Nein ... Ich bin nur ... Verstehe.
 Bin gleich da."
-60,3003,,"Purtroppo devo andare... Come ringraziamento, ti avrei volentieri mostrato un altro piatto, ma questo dovrà probabilmente aspettare. Buona giornata.","對不起，有人在叫我回去了……
+60,3003,,"Purtroppo devo andare... Come ringraziamento, ti avrei volentieri
+mostrato un altro piatto, ma questo dovrà probabilmente aspettare.
+Buona giornata.","對不起，有人在叫我回去了……
 其實我本來還想帶你去另一家店答謝你。
 那麼，下次有機會的話再說吧，我先走了。",,"죄송합니다. 호출이 와서……
 사실 사례로 또 한 그릇을 대접해 드리고 싶었지만
@@ -191,12 +201,14 @@ Habt ihr euch verabredet?!"
 70,2020,,"Quando l'urlo di Chitose riecheggiò nelle mie orecchie,
 mi ricordai dell'orrore di poco fa...",聽著千歲的悲鳴，讓我回想起剛才的地獄……,,치토세의 비명을 들으면서 나는 조금 전의 지옥을 떠올리고 있었다……,"Als Chitoses Schrei in meinen Ohren hallte,
 erinnerte ich mich an den Schrecken von eben ..."
-71,2020,,"Il gigantesco, colossale omelette di riso di fronte a me e Yuuko Kamishiro.","塞滿桌面的巨大蛋包飯，
+71,2020,,"Il gigantesco, colossale omelette di riso di fronte a me
+e Yuuko Kamishiro.","塞滿桌面的巨大蛋包飯，
 那巨大的身軀就這樣躺在我，還有神代悠子的面前。",,"테이블 면적 가득한 거대 오므라이스가
 나와 카미시로 유코 앞에 그 거구를 눕히고 있다","Das riesige, überlebensgroße Reisomelett vor
 mir und Yuuko Kamishiro."
 72,3003,,"Prego, l'omelette gigante.",「這就是蛋包飯的爆大份套餐。」,,「이것이 오므라이스 초절 곱빼기 세트입니다」,"„Bitte sehr, einmal das Jumbo-Omelett.“"
-73,2020,,"Al mio fianco, nella mia disperazione, si trovava Yuuko, con i suoi capelli neri come il corvo e un luccichio negli occhi.","在感到絕望的我，身旁的那位黑髮少女――
+73,2020,,"Al mio fianco, nella mia disperazione, si trovava Yuuko,
+con i suoi capelli neri come il corvo e un luccichio negli occhi.","在感到絕望的我，身旁的那位黑髮少女――
 悠子的眼睛確實散發著光芒。",,"절망하는 내 곁에서 검은 머리 소녀――
 유코의 눈에는 확실히 빛이 깃든 듯이 느껴졌다","Neben mir in meiner Verzweiflung befand sich
 Yuuko mit ihrem rabenschwarzen Haar und einem
@@ -206,7 +218,8 @@ Quando posavo il mio cucchiaio, lo faceva anche lei.","我吃了一口，悠子�
 我放下湯匙，悠子也跟著放下湯匙。",,"내가 한 입을 먹으면 유코도 한 입을 먹는다.
 내가 숟가락을 놓으면 유코도 숟가락을 놓는다","Für jeden meiner Bissen nahm auch Yuuko einen.
 Wenn ich meinen Löffel hinlegte, tat sie es auch."
-75,2020,,... Perché?! Perché ha adattato il suo ritmo al mio?! Dovrebbe essere... considerazione?,"……為什麼！？
+75,2020,,"... Perché?! Perché ha adattato il suo ritmo al mio?!
+Dovrebbe essere... considerazione?","……為什麼！？
 為什麼她要配合我的步調一起吃呢……！？
 該不會她在顧慮我吧……！？",,"……어째서!?
 왜 그녀는 내 페이스에 맞추고 있는 거지……!?
@@ -215,7 +228,8 @@ angepasst?! Sollte das ... Rücksicht sein?"
 76,3003,,"„Vai pure, prendi tu per primo“, disse lei esitante.",「……那個，請，你先吃吧。」,,"「……저기, 드세요. 먼저 드셔주세요」","„Nur zu, nimm du zuerst“, sagte sie zögerlich."
 77,2020,,Forse ha visto quanto fossi sbalordito.,對方似乎是察覺到我的困惑，才客氣地開口。,,나의 당혹감을 알아챘는지 그녀가 조심스럽게 말했다,"Vielleicht sah sie, wie verblüfft ich war."
 78,3003,,Non posso semplicemente mangiarlo da solo.,「如果都只有我在吃，實在是不太好意思。」,,「저만 먹으면 죄송하니까요」,„Das darf ich nicht einfach alleine essen.“
-79,3003,,„Il mio obiettivo per oggi è quello di farti conoscere meglio questa meravigliosa omelette di riso...“,"「而且今天本來就是為了讓你理解
+79,3003,,"""Il mio obiettivo per oggi è quello di farti conoscere meglio questa
+meravigliosa omelette di riso...""","「而且今天本來就是為了讓你理解
 　蛋包飯的美味……」",,"「오늘은 당신에게 이곳의 오므라이스의 훌륭함을 
  이해시키는 게 목적이니까……」","„Mein Ziel für heute liegt darin, dir dieses
 wundersame Reisomelett näherzubringen ...“"
@@ -235,19 +249,23 @@ Continuai a mangiare, e Yuuko fece lo stesso.","為了能夠回應她的期待�
 悠子也跟著吃了起來，感覺相當從容。",,"그녀의 기대에 답하기 위해 필사적으로 먹었다. 계속 먹었다.
 이어서 유코도 점점 먹는다. 여유롭게 먹는다","Ich schlug zu, um ihre Erwartungen zu erfüllen.
 Ich aß weiter, und Yuuko tat es mir gleich."
-84,2020,,"Ma era troppo. Ben presto protestarono il mio stomaco, la mia gola, il mio cervello e la mia anima.","漸漸地，我的胃、喉嚨、腦，
+84,2020,,"Ma era troppo. Ben presto protestarono il mio stomaco,
+la mia gola, il mio cervello e la mia anima.","漸漸地，我的胃、喉嚨、腦，
 就連靈魂都開始發出悲鳴……",,"마침내 나의 위가, 목이, 뇌가, 혼이 비명을 지르기 시작했다……","Doch es war zu viel. Bald schon protestierten
 mein Bauch, mein Hals, mein Hirn und meine Seele."
-85,2020,,Il nostro eroe non ce la faceva più! Presto non ci sarebbe più stato ritorno!,"快放棄吧[p]……！
+85,2020,,"Il nostro eroe non ce la faceva più! Presto non ci sarebbe più
+stato ritorno!","快放棄吧[p]……！
 再這樣下去，事情一定會變得無法挽回啊[p]……！",,"이제 그만해 [p]…!
 이대로라면 분명 돌이킬 수 없는
 일이 일어난다고 [p]…!","Unser Held konnte nicht mehr! Bald würde es
 kein Zurück mehr geben!"
-86,2020,,Ma quando il modo sgarbato della ragazza si trasformò in un sorriso radioso ...,"但是，眼前原本覺得很冷淡的她，
+86,2020,,"Ma quando il modo sgarbato della ragazza si trasformò in un sorriso
+radioso ...","但是，眼前原本覺得很冷淡的她，
 竟然露出了如此燦爛的笑容……",,"하지만 눈 앞에는 무뚝뚝하게 보였던 소녀의
 눈부실 정도로 피어오르는 미소……","Doch als die unwirsche Art des Mädchens sich zu
 einem strahlenden Lächeln wandelte ..."
-87,2020,,Mi diede la determinazione! Non potevo permettere che questo sorriso si spegnesse!,"我……決定要對抗靈魂……！
+87,2020,,"Mi diede la determinazione! Non potevo permettere che questo sorriso
+si spegnesse!","我……決定要對抗靈魂……！
 絕對不能讓這笑容，染上一絲失望！",,"나는…… 혼에 항거하기로 결의했다…!
 이 미소를 어두워지게 할 수는 없어!","Gab mir das Entschlossenheit! Ich konnte nicht
 zulassen, dass dieses Lächeln erlosch!"
@@ -266,7 +284,8 @@ aus Reis und Ei verschwunden."
 我失去意識……應該只有一下子而已……！",,"설……마……그런 일이!?!?
 의식이 날아간 것은……거의 한 순간이었을 텐데……!","Ich ... konnte es nicht fassen! Ich dachte, ich
 wäre nur einen Moment weggetreten!"
-92,2020,,"Quando guardai brevemente il viso di Yuuko, un ampio sorriso sporco di ketchup mi venne incontro.","因為想確認真假，我戰戰兢兢地看向悠子的臉。
+92,2020,,"Quando guardai brevemente il viso di Yuuko,
+un ampio sorriso sporco di ketchup mi venne incontro.","因為想確認真假，我戰戰兢兢地看向悠子的臉。
 在她被番茄醬染紅的臉上，露出了最棒的笑容。",,"확인하기 위해 조심조심 유코의 얼굴을 엿보자
 케첩으로 얼굴을 붉게 물들인 그녀의
 극상의 미소가 그곳에 있었다","Als ich kurz in Yuukos Gesicht blickte, strahlte

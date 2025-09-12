@@ -1,6 +1,7 @@
 ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
 1,3012,,Hmm? È quello...?,嗯……？　怎麼……？,,응…? 뭐고…?,Hm? Ist das ...?
-2,7005,,"Oh! Quella è...? Quella è Fei, Vicecapo degli stupidi Zaxons, che sono stati appena traditi dal loro vecchio amico!","咦～在那邊的該不會是～～
+2,7005,,"Oh! Quella è...? Quella è Fei, Vicecapo degli stupidi Zaxons,
+che sono stati appena traditi dal loro vecchio amico!","咦～在那邊的該不會是～～
 之前終於被同伴背叛的蠢蛋，
 Zaxon第二把交椅的菲大人嗎？",,"어머~ 거기 있는건 혹시~~
 얼마 전에 동료에게 배신당한 얼간이 잭슨의 넘버 2
@@ -14,7 +15,8 @@ Noi, le Masked Maids, abbiamo preso il controllo di quest'area.","接下來的�
 Wir, die Masked Maids, haben dieses
 Gebiet übernommen."
 4,3012,,Cosa intendi?,……啊？,,……하아?,Wie meinen?
-5,7123,,"Dev'essere davvero difficile per voi scimmie di Zaxon, come vi combattete continuamente a vicenda!",你們Zaxon～～現在不是因為內部分裂，自顧不暇嗎～,,잭슨 여러분은~ 이번에 내부분열로 힘들잖아요~,"Muss für euch Zaxon-Affen echt schwer sein,
+5,7123,,"Dev'essere davvero difficile per voi scimmie di Zaxon,
+come vi combattete continuamente a vicenda!",你們Zaxon～～現在不是因為內部分裂，自顧不暇嗎～,,잭슨 여러분은~ 이번에 내부분열로 힘들잖아요~,"Muss für euch Zaxon-Affen echt schwer sein,
 wie ihr euch ständig gegenseitig bekämpft!"
 6,7123,,Quindi qui ci prendiamo cura di voi.,"所以啊～我們決定，
 幫你們管理一塊區域唷～",,"그래서~ 우리들이 에어리어 하나를 관리해주겠다고
@@ -27,16 +29,19 @@ Das geht mir schon länger auf den Zeiger."
 8,3012,,"... Ah, sei così trasparente.
 Non renderti ridicolo.",……哈，你們的意圖，明顯到要讓我笑掉大牙了。,,"……핫, 너무 알기 쉬워서 바보 같을 정도군예","... Ha, bist du leicht durchschaubar.
 Mach dich nicht lächerlich."
-9,3012,,"Sicuramente ora pensi, riguardo ai Demons, di avere voce in capitolo, ma non sei un po' ingenuo?","而且隨著惡魔亂舞起舞，以為自己有多了不起。
+9,3012,,"Sicuramente ora pensi, riguardo ai Demons, di avere voce in capitolo,
+ma non sei un po' ingenuo?","而且隨著惡魔亂舞起舞，以為自己有多了不起。
 ……你們的思考也太天真了吧。",,"대부분 데몬즈에 편승해서 날뛰고 있을 뿐이겠지만
 ……안이하게 생각하는 거 아닙니꺼?","Sicher denkst du jetzt bei den Demons, du hättest
 was zu melden, aber bist du nicht ein bisschen
 naiv?"
-10,3012,,Il poser non ha mai fatto parte di noi comunque. Perdere uno così non ci fa affatto male.,"像那種垃圾，原本就不在Zaxon的戰力內，
+10,3012,,"Il poser non ha mai fatto parte di noi comunque.
+Perdere uno così non ci fa affatto male.","像那種垃圾，原本就不在Zaxon的戰力內，
 就算他離開了，對我們來說也不痛不癢。",,"그런 가짜는 애초부터 잭슨의 전력이 아니었습죠.
 없다고 해도 아프지도 가렵지도 않습니더","Der Poser hat eh nie zu uns gehört. So jemanden
 zu verlieren, tut uns gar nicht weh."
-11,7123,,"Oh, come cerchi così bene di fare il duro! Hai la minima idea di cosa stia succedendo?","討厭～！　竟然虛張聲勢，真是超可愛呢！
+11,7123,,"Oh, come cerchi così bene di fare il duro!
+Hai la minima idea di cosa stia succedendo?","討厭～！　竟然虛張聲勢，真是超可愛呢！
 說起來，妳真的知道現在是什麼情況嗎？",,"싫다~! 허세라니 초 귀엽지만~!
 그런데 이 상황을 이해하고 있는거예요?","Och, wie du so schön versuchst, auf hart zu
 machen! Hast du überhaupt eine Ahnung, was gerade
@@ -47,7 +52,8 @@ dünne machen solltest."
 比起醜八怪，我更喜歡像妳這種笨蛋……",,"훗……괜찮겠지예.
 저는 못난이 이상으로 이런 바보를 좋아합니더…","Hehe ... Mir recht. Dummchen wie dich mag ich
 sogar noch mehr als Tollpatsche ..."
-14,3012,,... E quando penso di strappare quella strana maschera e rimodellare il tuo volto sottostante... mi si scalda il cuore...!,"一想到要把妳那奇怪的面具剝下來，
+14,3012,,"... E quando penso di strappare quella strana maschera e rimodellare
+il tuo volto sottostante... mi si scalda il cuore...!","一想到要把妳那奇怪的面具剝下來，
 直接毆打那張愚蠢的臉……
 我覺得……血液都要沸騰了……！",,"그 기묘한 마스크를 벗겨서, 그 안의 얼간이 같은 얼굴을 엉망진창으로
 할 것을 생각하면……왠지……몸이 뜨거워집니더…!","... Und wenn ich daran denke diese komische Maske
@@ -56,17 +62,20 @@ gestalten ... wird mir ganz warm ums Herz ...!"
 15,7123,,Bleah!!!,……呀！？,,……힉!?,Iiirks!!!
 16,2020,,...?!,……！？,,……!?,...?!
 17,3012,,"Yuugo è un ragazzo così bravo, sai...",YUGO大人就是太溫柔了……,,유고 씨는 상냥해서…,"Yuugo ist so ein netter Kerl, weißt du ..."
-18,3012,,Ultimamente mi ferma sempre proprio quando le cose si mettono davvero bene. C'è qualcosa che si è accumulato.,"最近總是在我最興奮的時候阻止我……
+18,3012,,"Ultimamente mi ferma sempre proprio quando le cose si mettono davvero bene.
+C'è qualcosa che si è accumulato.","最近總是在我最興奮的時候阻止我……
 老實說，我都有點不滿足了……",,"최근엔 언제나 딱 재미있을 때 막아버리니…
 솔직히 욕구불만이었지예…","In letzter Zeit hält er mich immer dann auf, wenn
 es richtig gut wird. Da hat sich was angestaut."
 19,3012,,Adesso lo scarico su di voi tutti!,就用你們的身體……來平息我的騷動吧！,,그 분노를……당신들의 몸으로 풀도록 하겠습니더!,Das lasse ich jetzt an euch allen ab!
-20,7123,,Cosa?! Non credere che avrai vita facile con noi solo perché indossiamo costumi da cameriera!,"哈……啊！？
+20,7123,,"Cosa?! Non credere che avrai vita facile con noi solo perché
+indossiamo costumi da cameriera!","哈……啊！？
 就算是女僕，但我們對那種奉獻精神，
 可是超敬謝不敏的喔──！？",,"하…하아!?
 메이드라고 해도 그런 봉사는 초 사절이예요!?","Wie?! Glaub nicht, dass du mit uns leichtes Spiel
 haben wirst, nur weil wir Maid-Kostüme tragen!"
-21,7123,,Ci avventiamo tutti insieme su di te! Ti mostreremo di cosa è capace una cameriera!,"我們會全體出動喔！！
+21,7123,,"Ci avventiamo tutti insieme su di te! Ti mostreremo di cosa è capace
+una cameriera!","我們會全體出動喔！！
 讓妳瞧瞧我們女僕的以下犯上────！！",,"다들, 일제히 달려들 건데요!!
 메이드의 하극상을 뼈저리게 느껴보는 게 좋을거예요―――!!","Wir stürzen uns alle auf einmal auf dich! Wir
 zeigen dir, was eine Maid so drauf hat!"

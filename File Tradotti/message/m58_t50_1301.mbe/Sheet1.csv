@@ -1,5 +1,6 @@
 ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
-1,7126,,Il protocollo di una trasmissione dall'utente di destinazione al server principale è stato registrato.,我已經將目標的通訊紀錄輸入進主網路了。,,"메인 네트워크에서 대상 유저로부터
+1,7126,,"Il protocollo di una trasmissione dall'utente di destinazione al server
+principale è stato registrato.",我已經將目標的通訊紀錄輸入進主網路了。,,"메인 네트워크에서 대상 유저로부터
 통신기록이 입력되었습니다","Das Protokoll einer Übertragung vom Zielnutzer
 zum Hauptserver wurde registriert."
 2,7126,,"Avvia la conversione

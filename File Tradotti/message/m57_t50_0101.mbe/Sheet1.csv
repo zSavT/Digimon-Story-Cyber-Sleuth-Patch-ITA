@@ -1,5 +1,6 @@
 ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
-1,3046,,Allora. Ci sono già informazioni sulla malware che abbiamo installato sul server Avalon?,"如何？在阿瓦隆伺服器設下的惡性軟體，
+1,3046,,"Allora. Ci sono già informazioni sulla malware che abbiamo installato
+sul server Avalon?","如何？在阿瓦隆伺服器設下的惡性軟體，
 有沒有得到什麼資料了？",,"어때? 아발론 서버에 심은 악성코드로
 뭔가 정보를 건졌나?","So. Gibt es von der Malware, die wir auf dem
 Avalon-Server installiert haben, schon Infos?"
@@ -17,7 +18,8 @@ Projekt voranzukommen."
 相當正式的進行調查喔。",,"스에도라는 연구자를 중심으로
 상당히 본격적으로 조사하고 있더라구","Dieser Forscher Suedou leitet es und es scheint
 wirklich gut zu laufen."
-7,3047,,Dovrò esaminare i dati piuttosto nel dettaglio. Dobbiamo semplicemente avere pazienza.,"詳細的資料，得侵入到更深層才行。
+7,3047,,"Dovrò esaminare i dati piuttosto nel dettaglio.
+Dobbiamo semplicemente avere pazienza.","詳細的資料，得侵入到更深層才行。
 接下來就只能耐心等待了。",,"상세 데이터는 꽤 깊은 데까지 잠입하지 않으면 무리야.
 남은 건 느긋하게 기다리는 수밖에 없겠는걸","Ich werde mir die Daten ziemlich genau ansehen
 müssen. Wir müssen einfach Geduld haben."
@@ -35,11 +37,12 @@ Non è un bug e non sono stati hackerati...","就算調查了也查不出原因�
 不是BUG也不是系統被入侵。",,"조사해봐도 원인을 알 수가 없어…
 버그도 아니고 해킹도 아냐","Und ich kann die Ursache absolut nicht finden ...
 Es ist kein Bug und sie wurden nicht gehackt ..."
-12,3047,,"... L'influenza di questa „anomala onda digitale“ non può essere, vero?","……說不定，
+12,3047,,"... L'influenza di questa ""anomala onda digitale"" non può essere, vero?","……說不定，
 是受到“數碼波異常＂的影響喔。",,"……어쩌면 그것도
 ""디지털 웨이브 이상""이란 놈의 영향일지도","... Der Einfluss dieser „abnormalen digitalen
 Welle“ kann es aber nicht sein, oder?"
-13,3047,,"Ah, ho sentito dire che la stessa cosa è successa anche ad Akihabara. Tutta Tokyo è sottosopra.","話說，在秋葉原也發生了之前的怪奇現象？
+13,3047,,"Ah, ho sentito dire che la stessa cosa è successa anche ad Akihabara.
+Tutta Tokyo è sottosopra.","話說，在秋葉原也發生了之前的怪奇現象？
 感覺啊，東京整體都有點奇怪。",,"그러고보니 아키하바라에서도 그 괴현상이 일어났다던데?
 뭔가 도쿄 전체가 이상한 느낌이네","Ach, ich habe gehört, dass das Gleiche auch in
 Akihabara passiert ist. Ganz Tokio steht Kopf."
@@ -51,7 +54,8 @@ Akihabara passiert ist. Ganz Tokio steht Kopf."
 Das ist wie der Weltuntergang da draußen."
 15,3046,,"Sono io. Sì... sì, okay.",是我。嗯……我知道了。,,나다. 아아……알았다,"Ich bin’s. Ja ... ja, okay."
 16,3047,,Zaxon?,是Zaxon嗎？,,잭슨이야?,Zaxon?
-17,3046,,"Sì. A quanto pare, si stia per fare sul serio con i Demons. Non vogliono che ci intromettiamo.","對。接下來要對惡魔亂舞動手了，
+17,3046,,"Sì. A quanto pare, si stia per fare sul serio con i Demons.
+Non vogliono che ci intromettiamo.","對。接下來要對惡魔亂舞動手了，
 叫我們不要多管閒事。",,"그래. 지금부터 데몬즈를 공격한다는 모양이다.
 쓸데없는 참견은 하지 말라는군","Ja. Hört sich an, als ginge es da demnächst rund
 mit den Demons. Die wollen nicht, dass wir uns

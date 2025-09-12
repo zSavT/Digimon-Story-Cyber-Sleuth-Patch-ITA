@@ -17,7 +17,8 @@ Hilf mir! Erika quält mich!"
 약간 벌을 주고 있을 뿐이잖아","Du musst dich am Riemen reißen!
 Das ist nur eine kleine Erinnerung!"
 6,2020,,Cosa?,？？？,,???,Was?
-7,3045,,"Da quando abbiamo iniziato a condividere ricordi, questo ragazzino ha imparato ad hackerare, giusto?","這孩子自從和我共享記憶後，
+7,3045,,"Da quando abbiamo iniziato a condividere ricordi,
+questo ragazzino ha imparato ad hackerare, giusto?","這孩子自從和我共享記憶後，
 就開始學會入侵了。",,"이 아이, 나랑 기억을 공유하게 되면서 해킹을
 할 수 있게 됐잖아?","Seit wir damit angefangen haben, Erinnerungen zu
 teilen, hat dieser Knirps gelernt zu hacken,
@@ -56,7 +57,9 @@ Ich habe nur deine eigenen Erinnerungen verwendet!"
 艾莉卡也做過一樣的事情喔。",,"후디에가 만들어지기 전에
 에리카도 똑같은 짓을 했었어","Aber du hast das Gleiche getan, bevor du mit
 Hudie angefangen hast!"
-18,1392,,"Per mostrare a Ryuji quanto eri bravo, hai trasformato tutti i file immagine di Ryuji e Chitose in pixel art!","為了向龍司證明自己的實力，
+18,1392,,"Per mostrare a Ryuji quanto eri bravo,
+hai trasformato tutti i file immagine di
+Ryuji e Chitose in pixel art!","為了向龍司證明自己的實力，
 就把龍司和千歲的終端圖像資料
 都變成點陣圖了！",,"류지에게 자신의 실력을 보여주려고
 류지랑 치토세의 단말의 화상 파일을
@@ -70,7 +73,9 @@ Erano tutti rosa...","你問變成什麼樣子的點陣圖？
 그거야 그거지. 핑크 토――","Was für Pixel-Art, fragst du?
 Es waren alles rosa ..."
 21,3045,,Basta! La prossima volta ti paralizzo anch'io!,你再亂說話的話，我就再加上麻痺當懲罰喔……,,쓸데없는 소리를 하면 이번엔 마비를 추가하겠어…,Das reicht! Nächstes Mal lähme ich dich auch!
-22,1392,,"Perché non posso dirlo?! Erika, allora pensavi di aver creato un capolavoro! Lo capisco perfettamente!","為什麼不可以說！？
+22,1392,,"Perché non posso dirlo?!
+Erika, allora pensavi di aver creato un capolavoro!
+Lo capisco perfettamente!","為什麼不可以說！？
 艾莉卡明明也覺得那實在是太棒了對吧？
 我都知道喔！",,"어째서 말하면 안되는데!?
 에리카, 그 때는 그게 최고로 멋지다고 생각해서 한 거였잖아?
@@ -82,7 +87,8 @@ erschaffen! Ich verstehe das voll und ganz!"
 我還以為妳會很開心！",,"그래서 그거랑 똑같은 걸 해봤을 뿐인데!
 성공했던 경험을 기반으로 했으니까 기뻐할 줄 알았는데!","Also habe ich das Gleiche getan! Ich dachte,
 du von allen Leuten würdest das verstehen!"
-24,3045,,"Beh, tu ci credi pure, perché ti sei scelto le parti migliori dai miei ricordi, ma io preferirei dimenticare quel periodo.","你那是單看過去經驗的其中一部份才會這樣想，
+24,3045,,"Beh, tu ci credi pure, perché ti sei scelto le parti migliori dai miei
+ricordi, ma io preferirei dimenticare quel periodo.","你那是單看過去經驗的其中一部份才會這樣想，
 對現在的我，那只是我想忘也忘不掉的丟臉回憶啦！",,"너는 과거의 경험을 국소적으로 빼내고 있으니까 그렇게 생각하지만
 지금의 나에게는 잊을래야 잊을 수 없는 과거의 부끄러운 기억이야","Tja, du magst das ja glauben, weil du dir die
 Rosinen aus meinen Erinnerungen rausgepickt hast,
@@ -90,7 +96,8 @@ aber ich würde diese Zeit am liebsten vergessen."
 25,3045,,"Guarda i ricordi in ordine cronologico, va bene?",好好照時間排一排，整理一下記憶吧。,,시계열을 따라 기억을 정리해봐,"Sieh dir die Erinnerungen in chronologischer
 Reihenfolge an, okay?"
 26,1392,,Eh? È difficile...,？？　太難了啦……,,?? 어려워…,Hä? Das ist schwierig ...
-27,3045,,"Wow, sei più bravo a mettere in ordine i miei ricordi di quanto non lo sia io stesso…","唉……不知從什麼時候開始，
+27,3045,,"Wow, sei più bravo a mettere in ordine i miei ricordi di quanto non lo
+sia io stesso…","唉……不知從什麼時候開始，
 那孩子比我還會搜尋我的記憶了……",,"하아… 어느 틈엔가 나보다 내 기억의 검색이
 정교해져버리다니……","Wow, du bist besser darin, meine Erinnerungen
 zu sortieren, als ich selbst ..."
@@ -105,7 +112,8 @@ nicht da bin ..."
 30,3046,,...,…………,,…………,...
 31,2020,,Hm?,？？,,??,Hm?
 32,3046,,... C'è lavoro.,……有工作了。,,……일이 들어왔다,... Es gibt Arbeit.
-33,3046,,Ora hackerò il server dell'unità investigativa per la criminalità informatica – il dipartimento di Matayoshi.,"接下來要侵入的是――
+33,3046,,"Ora hackerò il server dell'unità investigativa per la criminalità
+informatica – il dipartimento di Matayoshi.","接下來要侵入的是――
 又吉先生的部門“電腦犯罪搜查課”。",,"지금부터 마타요시 씨의 부서――
 ""전뇌범죄수사과"" 서버를 해킹한다","Ich werde jetzt den Server der Ermittlungseinheit
 für Cyberkriminalität hacken –

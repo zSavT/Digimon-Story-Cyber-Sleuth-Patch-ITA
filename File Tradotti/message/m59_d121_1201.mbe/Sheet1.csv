@@ -5,7 +5,8 @@ auch nicht ...)"
 3,2020,,Cosa diavolo...?!,！？！？,,!?!?,Was zum ...?!
 4,7131,,... Hey! Torniamo indietro?,……喂喂喂，這樣就要回去啦？,,"……어이어이, 벌써 돌아가는 거냐?",... Hey! Sollen wir zurück?
 5,7132,,"Ciao, tu razziatore di account.",嗨～侵入者。,,"헬로, 침입자 군","Hallo, du Kontenräuber."
-6,7132,,Cosa? Entri senza autorizzazione nel server di qualcuno e poi non saluti nemmeno? Che maleducato sei!,"跑進別人的伺服器來，居然連聲招呼都不打啊？
+6,7132,,"Cosa? Entri senza autorizzazione nel server di qualcuno
+e poi non saluti nemmeno? Che maleducato sei!","跑進別人的伺服器來，居然連聲招呼都不打啊？
 真是沒禮貌的傢伙。",,"남의 서버에 기어들어와놓고 인사도 없냐?
 예의를 모르는 놈이로군","Was? Du betrittst unbefugt den Server von jemandem
 und grüßt dann nicht mal? Wie unhöflich du doch
@@ -36,17 +37,21 @@ sia il mio hobby personale.","那些全部，都是我獵來的帳號。
 Man könnte sagen, dass das Sammeln von Accounts
 mein persönliches Hobby ist."
 14,2020,,?!,！？！？,,!?!?,?!
-15,7009,,"Mi è sempre piaciuto osservare la gente. Ma quando ho iniziato a lavorare in EDEN, mi sono reso conto...","我從以前就很喜歡觀察人類。
+15,7009,,"Mi è sempre piaciuto osservare la gente.
+Ma quando ho iniziato a lavorare in EDEN,
+mi sono reso conto...","我從以前就很喜歡觀察人類。
 在我為了工作來到EDEN時……突然想通了。",,"나는 옛날부터 인간 관찰을 좋아했거든.
 일 때문에 EDEN에 왔을 때……문득 깨닫게 되었지","Ich hatte schon immer Spaß daran, Leute zu
 beobachten. Aber als ich anfing, in EDEN zu
 arbeiten, wurde mir klar ..."
-16,7009,,Osservare gli avatar delle persone è ancora più divertente. Le loro peculiarità sono molto più facili da riconoscere.,"比起觀察現實中的人類，觀察EDEN的化身，
+16,7009,,"Osservare gli avatar delle persone è ancora più divertente.
+Le loro peculiarità sono molto più facili da riconoscere.","比起觀察現實中的人類，觀察EDEN的化身，
 更能徹底看出那個人的特徵。",,"현실에서 인간을 보는 것보다 EDEN 아바타를 보는 쪽이
 개인의 특징을 보다 잘 관찰할 수 있다는걸","Die Avatare von Leuten zu beobachten, macht noch
 mehr Spaß. Ihre Eigentümlichkeiten sind viel
 leichter zu erkennen."
-17,7009,,"Quando ho avuto tempo, ho iniziato a collezionare account di persone di ogni genere.","在那之後，只要有空，
+17,7009,,"Quando ho avuto tempo, ho iniziato a collezionare account di persone
+di ogni genere.","在那之後，只要有空，
 我就開始收集各種人的帳號。",,"그 이후로 틈나는 대로 여러 종류 인간의
 계정을 모으기 시작했어","Als ich Zeit hatte, begann ich, Accounts von allen
 möglichen Leuten zu sammeln."
@@ -57,7 +62,8 @@ quanto sono pieni di vita.","從老到小，從男到女。
 직업, 혹은 정신의 숙련도 등으로도 판단해서 말이지……","Von Kindern, alten Leuten, Männern, Frauen ...
 An ihren Avataren erkenne ich, was sie arbeiten,
 wie lebenslustig sie sind."
-19,7009,,Si potrebbe chiamarlo il „Museo dell'Umanità“. Il mio personalissimo museo.,"這裡可說是人類的博物館，
+19,7009,,"Si potrebbe chiamarlo il ""Museo dell'Umanità"".
+Il mio personalissimo museo.","這裡可說是人類的博物館，
 ──也就是我的美術館啊。",,"이곳은 말하자면 인간 박물관.
 ――내가 소유한 미술관이란 거다","Man könnte es das „Museum der Menschlichkeit“
 nennen. Mein ganz persönliches Museum."
@@ -67,16 +73,19 @@ Per me sono tesori.","哈哈哈，別露出那種表情嘛，
 我可是很珍惜這些帳號的啊。",,"하하, 그런 표정 하지 마.
 이렇게 보여도 난 소중하게 여겨주고 있다구","Haha, schau nicht so angewidert.
 Für mich sind das Schätze."
-22,7009,,Coloro che traggono profitto da tali account mi considerano il migliore tra tutti i cacciatori.,"利用帳號來賺錢的人裡，
+22,7009,,"Coloro che traggono profitto da tali account mi considerano
+il migliore tra tutti i cacciatori.","利用帳號來賺錢的人裡，
 可沒有多少駭客像我這麼厲害。",,"계정을 이용해서 돈을 버는 놈들에게는
 나 정도로 솜씨 좋은 해커도 그다지 없어","Diejenigen, die aus solchen Accounts Profit
 schlagen, betrachten mich als den besten aller
 Jäger."
-23,7009,,E vendere loro questi vecchi e patetici avatar mi garantisce la ricchezza desiderata.,"所以我玩膩的「人偶」，就會賣給那種傢伙，
+23,7009,,"E vendere loro questi vecchi e patetici avatar mi garantisce
+la ricchezza desiderata.","所以我玩膩的「人偶」，就會賣給那種傢伙，
 替我賺點錢來用啊。",,"질린 ""인형(아바타)""는 그런 녀석들에게 팔아주면
 내 주머니도 빵빵해진다는 거지","Und ihnen diese lahmen alten Avatare zu verkaufen,
 verschafft mir den gewünschten Wohlstand."
-24,7009,,"... Hm? A proposito, il tuo viso... mi sembra familiare. Non sei anche tu parte della mia collezione?","嗯……？　說起來，你的臉……好像在哪裡看過啊。
+24,7009,,"... Hm? A proposito, il tuo viso... mi sembra familiare.
+Non sei anche tu parte della mia collezione?","嗯……？　說起來，你的臉……好像在哪裡看過啊。
 難道，你也曾經是我的收藏之一嗎？",,"응……? 그러고보니 네 얼굴…… 기억에 있군.
 혹시 너, 내 컬렉션이었냐?","... Hm? Apropos, dein Gesicht ... Es kommt mir
 bekannt vor. Bist du nicht auch Teil meiner
@@ -90,7 +99,8 @@ Aida ... Amada ... Nein, Amasawa!"
 Dich habe ich mir vor ein paar Monaten geschnappt!"
 28,2020,,Ridami il mio account!,把我的帳號還給我！！！,,내 계정을 돌려줘!!!,Gib mir meinen Account zurück!
 29,7009,,... Hahahahaha!,……哈哈、哈哈哈！,,"……하하, 하하하!",... Hahahahaha!
-30,7009,,"Sei dunque venuto qui per riprenderti il tuo account?! Se non ricordo male, sei solo uno studente, non è vero?","所以你是專程來要回自己的帳號嗎！？
+30,7009,,"Sei dunque venuto qui per riprenderti il tuo account?!
+Se non ricordo male, sei solo uno studente, non è vero?","所以你是專程來要回自己的帳號嗎！？
 但我記得你只是一般的高中生吧？",,"일부러 자기 계정을 되찾으러 온 건가!?
 확실히 넌 평범한 고등학생이었지?","Du bist also hergekommen, um dir deinen Account
 zurückzuholen?! Wenn ich mich recht erinnere, bist
