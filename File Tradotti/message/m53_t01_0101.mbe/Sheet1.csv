@@ -1,5 +1,6 @@
 ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
-1,7107,,... Capisco. Indagheremo sul mostro che ha attaccato Shiga.,"……我知道了。
+1,7107,,"... Capisco. Indagheremo sul 
+mostro che ha attaccato Shiga.","……我知道了。
 攻擊志賀的怪物，就由我來調查吧。",,"……알겠습니다.
 시가를 습격한 그 괴물에 대해선 이쪽에서 조사해보지요","... Verstehe. Wir untersuchen das mit dem Monster,
 das Shiga angegriffen hat."
@@ -15,25 +16,29 @@ Stiamo raccogliendo informazioni proprio ora.","我們也有從其他駭客聽�
 지금은 정보를 모으는 중입니더","Von anderen Hackern haben wir Ähnliches gehört.
 Wir sammeln jetzt gerade Informationen."
 5,3047,,"Ehi, dovremmo davvero lasciare Shiga da solo?
-Forse ha finto un problema con l'account,
+Forse ha finto un problema con l'account
 per svignarsela.","喂，就這樣放走志賀沒關係嗎？
 他有可能只是假裝成帳號發生問題逃跑而已喔？",,"이봐, 시가를 내버려둬도 괜찮겠나?
 계정 에러를 가장하고 도망쳤을 뿐일지도 모르는데?","He, sollten wir Shiga wirklich allein lassen?
 Vielleicht hat er ein Accountproblem vorgetäuscht,
 um sich davonzumachen."
-6,7107,,Con un pesce così piccolo non dovremmo sprecare altro tempo.,那種小咖，再繼續追下去也只是浪費時間啦。,,그런 송사리는 이 이상 쫓아봤자 의미 없지예,"Mit so einem kleinen Fisch sollten wir nicht
+6,7107,,"Con un pesce così piccolo non 
+dovremmo sprecare altro tempo.",那種小咖，再繼續追下去也只是浪費時間啦。,,그런 송사리는 이 이상 쫓아봤자 의미 없지예,"Mit so einem kleinen Fisch sollten wir nicht
 weiter unsere Zeit verschwenden."
 7,3046,,Ma cosa significa?,……怎麼一回事？,,…무슨 뜻이지?,Was soll denn das heißen?
-8,7107,,Qualcuno ha usato Shiga e altri hacker indipendenti dietro le quinte per raccogliere account.,"有雇用跟志賀一樣的自由駭客，
+8,7107,,"Qualcuno ha usato Shiga e altri hacker
+ indipendenti dietro le quinte per raccogliere account.","有雇用跟志賀一樣的自由駭客，
 來收集帳號的「主使者」。",,"시가같은 프리 해커를 써서
 계정을 모으고 있는 ""원흉""이 있습니더","Da hat jemand hinter den Kulissen Shiga und andere
 unabhängige Hacker benutzt, um Konten zu sammeln."
-9,7107,,"Se non affrontiamo quello, non possiamo fermare il furto massivo di account.",只要這樣子的人還在……帳號狩獵就不會停止。,,그 녀석을 치지 않는 한……계정 사냥은 멈추지 않습니더,"Wenn wir uns denjenigen nicht vorknöpfen, können
+9,7107,,"Se non affrontiamo quello, non possiamo 
+fermare il furto massivo di account.",只要這樣子的人還在……帳號狩獵就不會停止。,,그 녀석을 치지 않는 한……계정 사냥은 멈추지 않습니더,"Wenn wir uns denjenigen nicht vorknöpfen, können
 wir den massenhaften Kontenraub nicht stoppen."
-10,3046,,"... Come prossimo caso, quindi daremo la caccia al burattinaio, giusto?",……下一次的依賴就是追蹤那位主使者嗎？,,……다음 의뢰는 그 원흉을 쫓는 건가,"... Als nächsten Fall spüren wir also den
+10,3046,,"...Come prossimo caso, quindi daremo la 
+caccia al burattinaio, giusto?",……下一次的依賴就是追蹤那位主使者嗎？,,……다음 의뢰는 그 원흉을 쫓는 건가,"... Als nächsten Fall spüren wir also den
 Drahtzieher auf, ja?"
-11,7107,,"Evidentemente hai capito.
-Te lo affido.",這麼快就能理解，還真是不錯。,,…이야기가 빨라서 좋군예,"Du hast offenbar verstanden.
+11,7107,,"A quanto pare lo hai capito.
+Ti affido il caso.",這麼快就能理解，還真是不錯。,,…이야기가 빨라서 좋군예,"Du hast offenbar verstanden.
 Ich überlasse das dir."
 12,7107,,"Non mi importa come fai esattamente...
 Ma non fargliela passare liscia.","我不會管你要怎麼做啦，
@@ -41,7 +46,7 @@ Ma non fargliela passare liscia.","我不會管你要怎麼做啦，
 단……봐주진 말아주시지예","Es ist mir egal, wie du es genau anstellst ...
 Aber lass ihn bloß nicht ungeschoren davonkommen."
 13,7107,,"Chi si mette contro Zaxon, la paga...
-E la paga cara per davvero!","得讓他好～好瞭解，惹火了
+E la paga molto cara!","得讓他好～好瞭解，惹火了
 Zaxon的下場會怎麼樣才行……",,"잭슨을 화나게 만들면 어떻게 되는지……
 충분히 깨닫게 해주세요","Wer sich mit Zaxon anlegt, bezahlt dafür ...
 Und zwar so richtig!"
@@ -50,38 +55,46 @@ Und zwar so richtig!"
 16,7108,,"Guarda chi si vede, è qui tutta la banda.",喂喂喂……還真有不少熟面孔啊。,,어이어이……꽤나 사람 수가 모여있구만,"Sieh mal einer an, ist ja die ganze Bande da."
 17,3047,,... Tu.,……你！,,……너,... Du.
 18,3046,,...!,…………！,,…………!,...!
-19,7107,,"Ma guarda un po' chi abbiamo qui? Arata del Team Jude, da tempo inutile!","哎呀，才正在想是誰呢――
+19,7107,,"Ma guarda un po' chi abbiamo qui? 
+Arata del Team Jude, da tempo inutile!","哎呀，才正在想是誰呢――
 這不是過去傳說的駭客隊伍……
 「Jude」的新嗎？",,"어라 누구신가 했더니――
 전 전설의 해커팀……""쥬드""의 아라타 씨가 아닙니꺼","Wen haben wir denn da? Arata vom längst
 überflüssigen Team Gamma!"
-20,1805,,"Tu sei Fei, vice-capo di Zaxon, se non mi sbaglio. Ho sentito un sacco di voci.","妳是Zaxon中排名第二的菲吧。
+20,1805,,"Tu sei Fei, vice-capo di Zaxon, se 
+non mi sbaglio. Ho sentito un 
+sacco di voci.","妳是Zaxon中排名第二的菲吧。
 我聽過很多關於妳的事喔。",,"댁은 잭슨의 넘버 2, 페이였지.
 소문은 들었다구. 여러모로, 말이지","Du bist doch Fei, stellvertretende Anführerin
 von Zaxon, wenn ich mich nicht irre.
 Ich habe eine Menge Gerüchte gehört."
 21,1805,,"... È passato tanto tempo, vero?",……喲，好久不見……了呢。,,……여어. 오랜만……이군,"... Lange ist’s her, nicht wahr?"
-22,3046,,"È piuttosto sfacciato da parte tua, farti vedere qui, Sanada.",……你還真好意思出現在我們面前啊，真田。,,"……잘도 우리들 앞에 얼굴을 내밀었군, 사나다","Ganz schön dreist von dir, hier aufzukreuzen,
+22,3046,,"È piuttosto sfacciato da parte tua, farti 
+vedere qui, Sanada.",……你還真好意思出現在我們面前啊，真田。,,"……잘도 우리들 앞에 얼굴을 내밀었군, 사나다","Ganz schön dreist von dir, hier aufzukreuzen,
 Sanada."
 23,3047,,"Ehi, Ryuji, lascia stare.",龍司，別這樣。,,"그만둬, 류지","He, Ryuji, lass gut sein."
 24,3046,,Vuoi scusarti dopo così tanto tempo?,你現在才要來道歉嗎？,,이제와서 사과하러 온 거냐,Willst du dich nach so langer Zeit entschuldigen?
-25,1805,,Ancora con la solita storia? Datti una regolata. Quel che è fatto è fatto.,"又是那件事啊……
+25,1805,,"Ancora con la solita storia? Datti una regolata. 
+Quel che è fatto è fatto.","又是那件事啊……
 真是，放過我吧。都已經是過去的事了吧。",,"또 그거냐……
 이제 그만하자. 이미 끝난 일이잖냐","Die Masche schon wieder? Krieg dich doch mal
 ein. Passiert ist passiert."
 26,3046,,Cosa hai detto?!,你說什麼……！？,,뭐라고……!?,Was hast du da gesagt?!
-27,3047,,"Lascia perdere! Fei è anche qui.
+27,3047,,"Lascia perdere! C’è anche Fei.
 Ricorda dove sei!","好了！
 菲還在這，看看場合吧。",,"그만둬!
 페이도 있잖아. 장소를 가려라","Lass einfach mal stecken! Fei ist auch hier.
 Denk mal dran, wo du hier bist!"
-28,3012,,"Forza, prendilo pure, per quanto mi riguarda. A proposito, non eravate mica entrambi da Jude, vero?","繼續也沒差呀。
+28,3012,,"Non c’è alcun tipo di problema. 
+A proposito, voi… non eravate ex membri di Jude?","繼續也沒差呀。
 說起來你們兩位都是……前Jude的成員吧。",,"계속해도 상관없습니더.
 그러고보니 당신들 두 사람도……전 쥬드 소속이었군예","Nur zu, krall ihn dir von mir aus. Da fällt mir
 ein, ihr wart doch beide bei Gamma, oder?"
 29,3046,,...,…………,,…………,...
 30,3047,,...,…………,,…………,...
-31,3012,,"Anche se la squadra si è sciolta, voi due amici dovreste comunque fare quattro chiacchiere. Non vi disturbo nemmeno, prendetevi pure il vostro tempo.","雖說你們已經解散了，既然曾經是夥伴，
+31,3012,,"Anche se la squadra si è sciolta, voi due amici 
+dovreste comunque fare quattro chiacchiere. 
+Non vi disturbo, fate con calma.","雖說你們已經解散了，既然曾經是夥伴，
 應該會想敘敘舊吧。
 我這外人就先離開了，你們請慢慢聊～",,"해산했다고는 해도 옛 동료 사이.
 방해자는 물러날테니 부디 편하게 있으시길","Auch wenn das Team sich aufgelöst hat, solltet
@@ -92,59 +105,64 @@ Qui ci sarà molto da fare!","對了，那件事還請多多幫忙。
 接下來會變得更忙碌了呢。",,"그리고 이번 건, 잘 부탁드립니더.
 앞으로 바빠지겠죠","Die andere Angelegenheit überlasse ich euch.
 Hier wird es viel zu tun geben!"
-33,1805,,"... Zaxon, come? Adesso siete tutti grandi amici, hm?","……Zaxon啊。
+33,1805,,"... Zaxon, eh? Adesso siete 
+tutti grandi amici, hm?","……Zaxon啊。
 你們已經完全變成他們的夥伴了啊。",,"……잭슨, 인가
 너희들 완전히 저 녀석들의 동료가 돼버렸구나","... Zaxon, wie? Ihr seid jetzt wohl alle dicke
 Freunde, hm?"
 34,3046,,...,…………,,…………,...
 35,1805,,"Allora, cosa succede con gli hacker di EDEN?",喂……EDEN的駭客怎麼啦？,,이봐……EDEN의 해커가 어떻게 된 거야,"Also, was ist mit den Hackern von EDEN los?"
-36,1805,,"Ultimamente i tipi si comportano in modo strano.
-Sempre più stanno impazzendo. Zaxon sostiene di mantenere la pace, ma non ne vedo nulla.","最近那些人很奇怪，失控的人不計其數。
+36,1805,,"Ultimamente la gente si comporta in modo strano.
+Sempre più persone impazziscono. Zaxon sostiene di 
+mantenere la pace, ma non la vedo.","最近那些人很奇怪，失控的人不計其數。
 Zaxon雖然說要維持秩序，但我卻看不出來。",,"요즘 녀석들이 이상해. 폭주하는 녀석이 끊이질 않아.
 잭슨은 질서를 지키겠다는 소리를 하지만 
 내 눈엔 그렇게 안 보여","Die Typen verhalten sich in letzter Zeit komisch.
 Mehr und mehr drehen durch. Zaxon behauptet, den
 Frieden zu bewahren, aber davon sehe ich nichts."
-37,1805,,"... Non era così allora. Eravamo più liberi, vero Ryuji?","……我們那時還不像現在這樣。
+37,1805,,"... Non era così al tempo. Eravamo più 
+liberi, vero Ryuji?","……我們那時還不像現在這樣。
 龍司，我們不是應該還要更加「自由」的嗎？",,"……우리들이 있던 시절엔 그렇지 않았어.
 우리들은 좀 더 ""자유""로웠잖아, 류지","... So war es damals nicht. Wir waren freier,
 oder etwa nicht Ryuji?"
-38,3046,,... Zitto! Non fare finta di sapere tutto.,……閉嘴！　不要說的一副你好像都知道一樣。,,……닥쳐! 잘 안다는 듯이 말하지 마,"... Schnauze! Tu nicht so, als würdest du alles
+38,3046,,... Zitta! Non fare finta di sapere tutto.,……閉嘴！　不要說的一副你好像都知道一樣。,,……닥쳐! 잘 안다는 듯이 말하지 마,"... Schnauze! Tu nicht so, als würdest du alles
 wissen."
 39,1805,,...!,……！,,……!,...!
-40,3046,,"Qui non si tratta di te. Dopotutto, ti sei dileguato.","跟你這個落荒而逃的人……
+40,3046,,"Qui non si tratta di te. 
+Dopotutto, ti sei dileguato.","跟你這個落荒而逃的人……
 一點關係都沒有。",,"너는 관계없어…
 도망쳐버린 너와는 말이지","Hier geht es nicht um dich. Du hast dich ja
 schließlich aus dem Staub gemacht."
 41,3047,,Ryuji!,龍司！,,류지!,Ryuji!
 42,1805,,...,…………,,…………,...
-43,1805,,"... Ridotto in polvere, vero?
-... Non posso negarlo.","……落荒而逃啊。
+43,1805,,"...Se l’è data a gambe, eh?
+...Non posso negarlo.","……落荒而逃啊。
 嗯……就是如此吧。",,"……도망쳤다, 인가.
 뭐……틀린 말은 아니지","... Aus dem Staub gemacht, wie?
 ... Das kann ich nicht abstreiten."
 44,3047,,"Aspetta, Ryuji!",等一下！　龍司！,,기다려! 류지!,"Warte, Ryuji!"
-45,3047,,"Non era davvero così. Anche lui aveva dei problemi, sai.","剛才說得有點太過頭了吧？
+45,3047,,"Non era davvero così. Anche 
+lui aveva dei problemi, sai.","剛才說得有點太過頭了吧？
 那傢伙也是……經歷了不少事情啊。",,"그런 말은 너무하잖아?
 그 녀석도……이것저것 있었으니까","So war es doch nicht wirklich. Er hatte doch
 auch Probleme, weißt du."
-46,3046,,... Mi dispiace.,……抱歉。,,……미안,... Tut mir leid.
-47,3047,,"... Quel che è successo, è successo, giusto?",……嗯，也是沒辦法的事。,,"……뭐, 어쩔 수 없지만","... Passiert ist passiert, ja?"
+46,3046,,...Mi dispiace.,……抱歉。,,……미안,... Tut mir leid.
+47,3047,,"...Quel che è fatto è fatto, no?",……嗯，也是沒辦法的事。,,"……뭐, 어쩔 수 없지만","... Passiert ist passiert, ja?"
 48,3047,,"Non fare quella faccia davanti a Erika, ok?
-Nemmeno davanti a [p], il Newbie.","在小姐的面前不要露出這種表情喔？
+Nemmeno davanti a [p], il nuovo arrivato.","在小姐的面前不要露出這種表情喔？
 還有在[p]面前也是。就是那個新人啊。",,"아가씨 앞에서는 그런 얼굴 하지 말라고?
 그리고 [p] 앞에서도. 신입","Mach vor Erika bloß nicht so ein Gesicht, ja?
 Vor [p], dem Newbie, auch nicht."
 49,3047,,Siamo finalmente Hudie!,現在的我們是……「hudie」啊！,,"지금의 우리는……""후디에""니까 말이지!",Wir sind jetzt schließlich Hudie!
-50,3046,,... Sì. Hai proprio ragione.,……的確。,,……아아. 그렇지,... Ja. Du hast ja recht.
-51,3046,,... Torno indietro non appena ho un po' raccolto i miei pensieri.,……我先去冷靜一下再回來。,,"……조금, 머리를 식히고 돌아갈게","... Ich gehe zurück, sobald ich meine Gedanken ein
+50,3046,,... Sì. Hai ragione.,……的確。,,……아아. 그렇지,... Ja. Du hast ja recht.
+51,3046,,...Prima di rientrare proverò a calmarmi un po’.,……我先去冷靜一下再回來。,,"……조금, 머리를 식히고 돌아갈게","... Ich gehe zurück, sobald ich meine Gedanken ein
 bisschen gesammelt habe."
-52,3047,,Va bene. Vado subito.,嗯，那我就先回店裡了喔。,,오우. 그럼 먼저 가게로 돌아가 있겠어,Recht so. Ich gehe jetzt gleich.
+52,3047,,Va bene. Vado.,嗯，那我就先回店裡了喔。,,오우. 그럼 먼저 가게로 돌아가 있겠어,Recht so. Ich gehe jetzt gleich.
 53,3046,,...!,……！,,……!,...!
 54,3046,,... Sono io.,……是我。,,……나다,... Ich bin’s.
 55,3046,,...,…………,,…………,...
 56,3046,,... Roger. Mandami le info.,"…………嗯，我知道了。
 再把資料傳給我。",,"…………아아, 알겠다.
 자세한 내용을 보내줘",... Roger. Schick mir die Infos.
-57,1805,,"Allora eravamo ancora più liberi, vero, Ryuji?",――我們，不是應該還要更加「自由」的嗎？,,"――우리들은 좀 더 ""자유""로웠잖아","Damals waren wir noch freier, oder Ryuji?"
-58,3046,,Non edulcorare come è stato veramente.,……還真會說這些好聽的話啊。,,……잘도 그런 번드르한 소리를 하는군,"Beschönige nicht, wie es wirklich war."
+57,1805,,"Al tempo eravamo ancora più liberi, vero, Ryuji?",――我們，不是應該還要更加「自由」的嗎？,,"――우리들은 좀 더 ""자유""로웠잖아","Damals waren wir noch freier, oder Ryuji?"
+58,3046,,Non edulcorare la verità.,……還真會說這些好聽的話啊。,,……잘도 그런 번드르한 소리를 하는군,"Beschönige nicht, wie es wirklich war."
