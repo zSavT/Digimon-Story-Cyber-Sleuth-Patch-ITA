@@ -50,11 +50,11 @@ Le percentuali quì sotto fanno riferimento alla revisione manuale dei testi, la
   - Storia Hacker's Memory: ![21%](https://progress-bar.xyz/21)
   - Quest: ![95%](https://progress-bar.xyz/95)
   - DigiBook: ![100%](https://progress-bar.xyz/100)
-  - DigiLine: ![92%](https://progress-bar.xyz/92)
+  - DigiLine: ![89%](https://progress-bar.xyz/89)
   - Dialoghi NPC: ![88%](https://progress-bar.xyz/88)
   - Abilità, Oggetti ...: ![98%](https://progress-bar.xyz/98)
   - Menu: ![100%](https://progress-bar.xyz/100)
-  - Altro: ![95%](https://progress-bar.xyz/95)
+  - Altro: ![94%](https://progress-bar.xyz/94)
   - Texture: ![93%](https://progress-bar.xyz/93)
 
 
