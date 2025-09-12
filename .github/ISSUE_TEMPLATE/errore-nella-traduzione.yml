@@ -50,6 +50,7 @@ body:
       label: Versione Patch
       description: Scegli la versione della patch che stai utilizzando.
       options:
+        - v1.5        
         - v1.4.2    
         - v1.4.1      
         - v1.4

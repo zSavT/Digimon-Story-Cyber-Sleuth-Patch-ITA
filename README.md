@@ -12,7 +12,6 @@ La realizzazione della patch è stata resa possibile in larga misura grazie al c
 
 - [Digimon Story Cyber Sleuth Patch ITA ](#digimon-story-cyber-sleuth-patch-ita-)
 - [Completamento progetto](#completamento-progetto)
-- [Milestone prossima versione (1.5)](#milestone-prossima-versione-15)
 - [Immagini progetto](#immagini-progetto)
 - [Video dimostrativo](#video-dimostrativo)
 - [Come installare la patch](#come-installare-la-patch)
@@ -44,41 +43,20 @@ Qui sotto sono riportati i progressi attuali del progetto:
   - Altro: ![98%](https://progress-bar.xyz/98)
   - Texture: ![0%](https://progress-bar.xyz/0)
 
-**Revisione e adattamento manuale dei testi (versione patch 1.4.2):**
+**Revisione e adattamento manuale dei testi (versione patch 1.5):**
 
 Le percentuali quì sotto fanno riferimento alla revisione manuale dei testi, la percentuale "mancante" è stata comunque tradotta nella pre-traduzione.
-  - Storia Cyber Sleuth: ![71%](https://progress-bar.xyz/71)
-  - Storia Hacker's Memory: ![0%](https://progress-bar.xyz/0)
-  - Quest: ![64%](https://progress-bar.xyz/64)
-  - DigiBook: ![54%](https://progress-bar.xyz/54)
-  - DigiLine: ![46%](https://progress-bar.xyz/46)
-  - Dialoghi NPC: ![59%](https://progress-bar.xyz/59)
-  - Abilità, Oggetti ...: ![59%](https://progress-bar.xyz/59)
-  - Menu: ![77%](https://progress-bar.xyz/77)
-  - Altro: ![55%](https://progress-bar.xyz/55)
-  - Texture: ![76%](https://progress-bar.xyz/76)
+  - Storia Cyber Sleuth: ![100%](https://progress-bar.xyz/100)
+  - Storia Hacker's Memory: ![21%](https://progress-bar.xyz/21)
+  - Quest: ![95%](https://progress-bar.xyz/95)
+  - DigiBook: ![100%](https://progress-bar.xyz/100)
+  - DigiLine: ![92%](https://progress-bar.xyz/92)
+  - Dialoghi NPC: ![88%](https://progress-bar.xyz/88)
+  - Abilità, Oggetti ...: ![98%](https://progress-bar.xyz/98)
+  - Menu: ![100%](https://progress-bar.xyz/100)
+  - Altro: ![95%](https://progress-bar.xyz/95)
+  - Texture: ![93%](https://progress-bar.xyz/93)
 
-# Milestone prossima versione (1.5)
-
-- [x] Terminare interamente la revisione Storia Cyber Sleuth.
-- [x] Iniziare revisione Hacker's Memory sistemando la sola formattazione nei testi tagliati.
-- [x] Correzione testi con doppi genere indicati.
-- [x] Revisione Box Dialoghi NPC.
-- [x] Revisione DigiLine Parte 4.
-- [x] Revisione Quest Parte 4
-- [x] Revisione DigiBook Parte 3
-- [x] Utilizzare termine "Eater" al posto di "Divoratore" e simili.
-- [ ] Utilizzare termine "Under Zero" al posto di "Sotto Zero".
-- [x] Utilizzare correttamente il termine "Tamer".
-- [x] Utilizzare correttamente il termine "Demons".
-- [x] Correzione testi o miglioramenti vari da segnalazioni utenti dirette e indirette.
-- [x] Revisione nomi e descrizione oggetti.
-- [x] Revisione nomi e descrizione mosse Digimon.
-- [x] Revisione dei testi dei menu di gioco e impostazioni.
-- [x] Correzione texture.
-- [x] Traduzione nuove texture.
-
-La lista dell'userStory è presente [qui](https://github.com/zSavT/Digimon-Story-Cyber-Sleuth-Patch-ITA/milestone/4).
 
 # Immagini progetto
 
