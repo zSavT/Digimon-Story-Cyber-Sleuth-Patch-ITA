@@ -68,7 +68,7 @@ Le percentuali quì sotto fanno riferimento alla revisione manuale dei testi, la
 
 # Video dimostrativo
 
-[![Digimon Story Cyber Sleuth Patch ITA v1.4 [By Lowrentio e SavT]](https://img.youtube.com/vi/tBYz0wpVthk/maxresdefault.jpg)](https://www.youtube.com/watch?v=tBYz0wpVthk)
+[![Digimon Story Cyber Sleuth Patch ITA v1.5 [By Lowrentio e SavT]](https://img.youtube.com/vi/fraxmcizetE/maxresdefault.jpg)](https://youtu.be/fraxmcizetE)
 
 
 # Come installare la patch
