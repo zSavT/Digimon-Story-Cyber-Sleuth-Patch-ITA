@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 
 # -----------------------------------------------------------------------------
-# Installer Patch ITA Digimon Story Cyber Sleuth Complete Edition
+# Installer Patch ITA Yakuza 4 Remastered
 # Autore: SavT
 # Versione: v2.2
 # -----------------------------------------------------------------------------

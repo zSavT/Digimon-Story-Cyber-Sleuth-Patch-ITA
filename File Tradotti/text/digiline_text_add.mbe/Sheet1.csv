@@ -7599,11 +7599,13 @@ Controlla la bacheca quando sei libero.","接下來你要能對應外部來的�
 有空的話，就經常確認BBS吧。",,"이제부터는 외부에서 들어온 의뢰도 맡아보도록 해.
 한가해지면 BBS를 부지런히 확인해둬.","Du kannst jetzt auch externe Fälle
 nehmen. Schau an der Tafel vorbei."
-45006,,Puoi anche accedere all'entrata principale di EDEN dal PC. Effettua il login ed entra in un luogo.,"從EDEN的主入口也能從PC登入喔。
+45006,,"Dal tuo PC puoi accedere all'ingresso principale di EDEN.
+Effettua il login e inizia a giocare.","從EDEN的主入口也能從PC登入喔。
 登入進去，指定目標地點吧。",,"EDEN의 메인 엔트런스도 PC에서 접속
 할 수 있어. 로그인해서 행선지를 지정하는 거야.","Du kommst vom PC aus zum Haupteingang
 von EDEN. Logg dich ein und leg los."
-45007,,Mi ero dimenticato: ti farò sapere come i Digimon della Fattoria stanno usando la DigiLine.,"有件事我忘了說，保管在農場的數碼寶貝，
+45007,,"Mi ero dimenticato:
+ti dirò come i Digimon usano Digiline nella fattoria.","有件事我忘了說，保管在農場的數碼寶貝，
 他們的狀況我會用數碼連線通知你。",,"전하는 걸 깜박했는데, 팜에 맡겨둔
 디지몬들의 상태를 디지라인으로 알려줄게.","Ach ja: Ich sage dir, wie die Digimon
 auf der Farm Digiline benutzen."
@@ -7617,7 +7619,8 @@ Grazie!","接下來要麻煩你們照顧了。
 請你們多多指教。",,"앞으로 당신들에게 신세질게유.
 잘 부탁해유~!","Freue mich auf unsere Zusammenarbeit!
 Danke!"
-45010,,Ci saranno altri scontri con hacker. Tieni a portata di mano oggetti di recupero ed exports.,"越來越常跟駭客戰鬥了，
+45010,,"Ci saranno altri scontri con hacker.
+Tieni a portata di mano oggetti di recupero ed exports.","越來越常跟駭客戰鬥了，
 要準備充足的回復道具跟EXPORT喔。",,"해커와 싸울 일도 늘어날 테니 회복 아이템이나
 익스포트는 넉넉하게 가지고 다녀.","Es kommen noch mehr Hackerkämpfe. Sammle
 Heilitems und Exports."
@@ -7656,7 +7659,8 @@ hacker, e che tipo di hacker.","你為什麼會想成為駭客、想成為什麼
 之後有機會的話，請一定要告訴我。",,"네가 어째서 해커가 되려는 건지, 어떤 해커를
 지향하는지 언젠가 기회가 되거든 들려줬으면 해.","Sag mir mal, warum du ein Hacker sein
 willst, und welche Art."
-45018,,Sii pronto al tuo destino quando combatti un nemico forte. Continua semplicemente a combattere!,"跟強敵戰鬥時，決定命運的是決心跟信念。
+45018,,"Sii pronto al tuo destino quando combatti un nemico forte.
+Continua semplicemente a combattere!","跟強敵戰鬥時，決定命運的是決心跟信念。
 就算是逆境，也要咬緊牙關正面迎戰。",,"강한 적과 싸울 때 승패를 가르는 것은 각오와 신념이다.
 역경에 처하더라도 굳게 마음먹고 정면으로 부딪치도록.","Sieh deinem Schicksal bei starken
 Gegnern ins Auge. Kämpf immer weiter!"
@@ -7670,7 +7674,8 @@ Andiamo a passare del tempo da qualche parte!","是[p]嗎？　我是在涉谷�
 下次一起去哪裡玩吧。",,"[p] 씨? 시부야에서 만난 치카예요.
 다음에는 어디 같이 놀러 가요.","[p]? Hier ist Chika, aus Shibuya.
 Treffen wir uns doch mal!"
-45021,,Cosa faresti se ti ritrovassi un giorno su un pianeta animale? Ti adatteresti?,"我說啊，要是你醒來後，發現到了一個
+45021,,"Cosa faresti se ti ritrovassi un giorno su un pianeta animale?
+Ti adatteresti?","我說啊，要是你醒來後，發現到了一個
 只有動物的星球會怎麼辦？　你能適應嗎？",,"너 말이야, 아침에 눈을 떴더니 동물밖에 없는 행성에
 날려져 있다면 어쩔래? 적응할 수 있을 거라 생각해?","Was machst du, wenn du auf einem
 Tierplaneten landest? Dich anpassen?"
@@ -7684,7 +7689,8 @@ abbiamo incontrato a Shibuya. Torniamoci!","小悠子也很不錯，但在涉谷
 跟女警小姐都很可愛耶！　喂，我們之後再去涉谷吧！",,"유코 양도 그렇지만, 시부야에서 만난 여자애하고 
 여경 누님도 귀여웠지! 또 시부야에 가보자고!","Yuuko ist niedlich, aber die Mädels aus
 Shibuya auch. Gehen wir noch mal hin!"
-45024,,Sono Yuuko Kamishiro. Grazie per l'altro giorno. Vieni in quel negozio con me.,"我是神代悠子。　先前受你照顧了。
+45024,,"Sono Yuuko Kamishiro. Grazie per l'altro giorno.
+Vieni in quel negozio con me.","我是神代悠子。　先前受你照顧了。
 請你下次再跟我去那家店。",,"카미시로 유코입니다. 저번에는 고마웠습니다.
 다음에 또 그 가게에 같이 가주세요.","Hier Yuuko Kamishiro. Danke für neulich.
 Geh mit mir in den Laden."
@@ -7726,7 +7732,8 @@ betrieben? Hudie? Handelt er jetzt?"
 33．11．111．22222．22．1．99",,"4444, 77777, 000, 333, 1, 8,
 33, 11, 111, 22222, 22, 1, 99","4444 77777 000 333 1 8 
 33 11 111 22222 22 1 99"
-45033,,"Ops! Ho inviato un messaggio per la mia squadra per sbaglio. Ignoralo, okay?","哎呀抱歉，不小心把給部下的訊息
+45033,,"Ops! Ho inviato un messaggio per la mia squadra per sbaglio.
+Ignoralo, okay?","哎呀抱歉，不小心把給部下的訊息
 發錯給你了。不要太在意喔。",,"이런 미안, 부하한테 보낼 메시지를 잘못
 보냈다. 신경 쓰지 마라.","Hoppla, die Nachricht war für mein Team.
 Ignoriere die, in Ordnung?"
@@ -7752,8 +7759,8 @@ Prenditi il tuo tempo, [p]!","在入侵作戰開始前，得快點把圖案換�
 Lass dir Zeit, [p]!"
 45038,,"Conosci il Tower Records a Shibuya?
 Esco prima dal lavoro, quindi non fare tardi.","你知道涉谷的淘兒唱片店吧？　就是在十字路口前面。
-我可是翹班出來的，可別讓我等太久啊─","You know Shibuya Records in Shibuya? 
-I’m leaving work early, so don’t be late","시부야의 타워 레코드, 알지? 교차로 앞이야.
+我可是翹班出來的，可別讓我等太久啊─","Conosci il Tower Records a Shibuya?
+Esco prima dal lavoro, quindi non fare tardi.","시부야의 타워 레코드, 알지? 교차로 앞이야.
 일 빼먹고 가는 거니까 너무 기다리게 하지 말라고~","Kennst du Shibuya Records in Shibuya? Ich
 gehe früh hin, also sei pünktlich."
 45039,,"Papà preparava i pancake per pranzo nei suoi giorni
@@ -7801,7 +7808,8 @@ Non dureresti cinque minuti.","喂，你也要去Under Zero嗎？
 放棄吧，只有普通實力就過去的話，只會吃苦頭而已。",,"이봐, 댁도 언더 제로에 갈 생각이야?
 그만두라고. 어중간한 실력으론 아픈 꼴을 당할 뿐이야.","Gehst du auch zu Unter Null? Vergiss es.
 Da hältst du es keine 5 Minuten aus."
-45048,,"Aspetta! Hai ricevuto quella email da Matayoshi, giusto? È finita, quindi diglielo!","說起來，之前又吉叔有沒有發暗號訊息給你？
+45048,,"Aspetta! Hai ricevuto quella email da Matayoshi, giusto?
+È finita, quindi diglielo!","說起來，之前又吉叔有沒有發暗號訊息給你？
 反正那事件已經解決了，我可以告訴你答案喔！",,"그러고 보니, 전에 마타요시 씨한테서 암호 메일 안 왔냐?
 이미 끝난 사건이니 답을 알려줄 수도 있는데!","Moment! Du hast die Mail von Matayoshi
 gekriegt, ja? Sag ihm, es ist vorbei!"
@@ -7858,7 +7866,8 @@ comporti bene. Si approfitterà della situazione.","要好好看著蟲蟲獸，�
 他一有空隙就會作亂……",,"추추몬이 주위에 민폐를 끼치지 않도록
 잘 돌봐줘. 틈만 있으면 무슨 일을 저지르니까…","Pass auf, dass Wormmon sich benimmt.
 Sonst tanzt es dir auf der Nase herum."
-45060,,L'insegnante in classe ha detto di evitare di uscire. Spero che non ci siano mostri!,"學校的老師說盡量不要出外，都待在教室裡。
+45060,,"L'insegnante in classe ha detto di evitare di uscire.
+Spero che non ci siano mostri!","學校的老師說盡量不要出外，都待在教室裡。
 希望回家時不會遇到可怕的怪物！",,"학교 선생님이 외출을 삼가라고 조례 때
 말했어. 하굣길에 무서운 괴물하고 만나지 않기를!","Unser Lehrer meinte, wir sollten nicht
 rausgehen. Ich habe Angst vor Monstern!"
@@ -7877,7 +7886,8 @@ i Rebels stanno lavorando sodo.","因為反叛者的大家都很努力，
 數碼寶貝的保護活動很順利喔☆",,"리벨리온즈의 모두가 엄청 힘내주고 있어서
 디지몬 보호 활동은 순조로워☆","Der Digimon-Schutz läuft, weil sich die
 Rebels richtig ins Zeug legen."
-45064,,"È bello essere in questo mondo reale con te, ma il Memetan di Erika mi spaventa.","雖然很開心能跟你們一樣到現實世界來，
+45064,,"È bello essere in questo mondo reale con te,
+ma il Memetan di Erika mi spaventa.","雖然很開心能跟你們一樣到現實世界來，
 但想到會被艾莉卡的小梅梅打就好可怕……",,"너희와 같은 현실 세계에 올 수 있었던 건 기쁘지만
 에리카의 메메땅으로 맞을 거라 생각하니 무섭네…","Schön, mit dir in der echten Welt zu
 sein, aber Memetan macht mir Angst."
@@ -7901,8 +7911,8 @@ Non credo a queste cose, ma questo...","結果說跟朋友一起行動的夢，�
 雖然我不相信占卜，但這種應該可以相信吧。",,"친구와 걷는 꿈은 문제가 해결되어 간다는 암시래.
 점은 믿지 않는 편이지만, 이거라면 믿어도 괜찮을지도","Der Traum bedeutet, dass die Sache bald
 gelöst ist. Hier glaube ich das ..."
-45069,,"Ryuji Mishima... Deve essere dura. Prenditi
-una pausa ogni tanto. Mangia qualcosa.","御島龍司的事情，我想很辛苦吧。
+45069,,"Ryuji Mishima... Deve essere dura.
+Prenditi una pausa ogni tanto. Mangia qualcosa.","御島龍司的事情，我想很辛苦吧。
 偶爾也要吃點好吃的東西，讓自己放鬆一下喔。",,"미시마 류지의 상태는 큰일이라고 생각합니다.
 가끔은 맛있는 것을 먹고서 휴식해주세요.","Ryuji Mishima ... Das ist sicher schwer.
 Leg Pausen ein. Iss mal was."
@@ -7946,7 +7956,8 @@ ma ne ho mangiate 120. Ho ottenuto un pass a vita!","小碗蕎麥麵，好像吃
 但我吃了120碗，還拿到了全年免費券。",,"완코소바 100그릇 먹으면 무료라고 하길래
 120그릇 먹었더니 평생 무료 티켓을 받았습니다.","Ab 100 Schüsseln Soba war’s gratis, aber
 ich habe 120 geschafft. Nie mehr zahlen!"
-45078,,La scuola era chiusa durante il panico Digimon. Niente più gite scolastiche. Che barba.,"由於數碼寶貝的騷動，學校要暫時關閉了。
+45078,,"La scuola era chiusa durante il panico Digimon.
+Niente più gite scolastiche. Che barba.","由於數碼寶貝的騷動，學校要暫時關閉了。
 今年也沒有隔宿露營了，好失望喔……",,"디지몬 소동으로 학교가 당분간 폐쇄되었어.
 수련회도 올해는 없대. 정말 실망…","Während des Digimon-Chaos war keine
 Schule. Auch keine Ausflüge. Doof."
