@@ -43,7 +43,7 @@ Qui sotto sono riportati i progressi attuali del progetto:
   - Altro: ![98%](https://progress-bar.xyz/98)
   - Texture: ![0%](https://progress-bar.xyz/0)
 
-**Revisione e adattamento manuale dei testi (versione patch 1.5):**
+**Revisione e adattamento manuale dei testi (versione patch 1.5.0.1):**
 
 Le percentuali quì sotto fanno riferimento alla revisione manuale dei testi, la percentuale "mancante" è stata comunque tradotta nella pre-traduzione.
   - Storia Cyber Sleuth: ![100%](https://progress-bar.xyz/100)
