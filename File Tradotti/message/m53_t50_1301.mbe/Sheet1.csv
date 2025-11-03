@@ -33,9 +33,8 @@ nello spazio virtuale.","每當在登入EDEN時，我們的意識就會被掃描
 ""정신 데이터""로서 가상 공간상에 업로드 되지","Unsere Gedanken werden gescannt, wenn wir uns bei
 EDEN einloggen, und als Mentaldaten in den
 virtuellen Raum hochgeladen."
-11,3047,,"Attraverso la conversione dei dati negli avatar EDEN
-manteniamo i ricordi dal mondo reale e
-possiamo agire nello spazio virtuale...","EDEN化身經由下載那項數據，
+11,3047,,"Attraverso la conversione dei dati negli avatar EDEN manteniamo
+i ricordi dal mondo reale e possiamo agire nello spazio virtuale...","EDEN化身經由下載那項數據，
 來連接我們在現實世界中的記憶，
 因而能在虛擬空間中活動。",,"EDEN 아바타가 그 데이터가 다운로드 하면
 우리들은 현실세계의 기억을 이어받아 가상 세계에서 활동을
@@ -43,8 +42,7 @@ possiamo agire nello spazio virtuale...","EDEN化身經由下載那項數據，
 behalten wir Erinnerungen aus der echten Welt und
 können im virtuellen Raum agieren ..."
 12,3047,,"Dati mentali sono pur sempre dati, quindi i programmi 
-Digimon possono influenzarli…
-In parole povere.","精神數據也只是“數據”而已，
+Digimon possono influenzarli... In parole povere.","精神數據也只是“數據”而已，
 說不定也會被數碼寶貝的程式影響。",,"정신 데이터는 어디까지나 ""데이터""니까 디지몬 프로그램의
 영향을 받는 경우도 있지 않을까~……라는 거지","Mentaldaten sind immer noch Daten, also können
 Digimon-Programme sie beeinflussen ...
@@ -76,10 +74,10 @@ essere messi in sicurezza.","從Zaxon那邊的委託是，「銷毀被盜的帳�
 빼앗긴 계정을 전부 되찾을 필요가 있어","Zaxon hat uns gebeten, gestohlene Kontendaten zu
 neutralisieren. Die gestohlenen Konten müssen alle
 gesichert werden."
-19,3046,,"Ho copiato i dati del dispositivo di Mephisto-san. 
+19,3046,,"Ho copiato i dati del dispositivo di Mephisto. 
 Erika, per favore analizzali.","我已經複製好「梅菲斯特先生」的終端情報了，
 艾莉卡，幫我分析一下。",,"「메피스토씨」의 단말정보는 복사해뒀어.
-에리카, 해석해줘","Ich habe Mephisto-sans Gerätedaten kopiert.
+에리카, 해석해줘","Ich habe Mephistos Gerätedaten kopiert.
 Erika, bitte analysiere sie."
 20,3046,,Voglio sapere cosa ha fatto con gli altri account.,我想知道他把其他的帳號給放去哪了。,,녀석이 다른 계정을 어디에 뒀는지를 알고싶어,"Ich will wissen, was er mit den anderen Accounts
 gemacht hat."
@@ -87,10 +85,10 @@ gemacht hat."
 22,1392,,Okay!,好喲──！,,알겠어유!,Okay!
 23,3047,,Aha! Ora puoi aiutarle?,喔！你已經會幫忙了嗎？,,"오! 너, 도와줄 수 있게 된 거냐?",Aha! Du kannst ihr jetzt helfen?
 24,1392,,Certo! Dopotutto Erika mi ha salvato.,對啊，是艾莉卡教我的喔！,,물론이쥬. 에리카에게 배웠어유!,Jawohl! Immerhin hat Erika mich gerettet.
-25,1392,,"Vediamo. Ci sono log di Mephisto-san, come 
-parla con altri utenti.","那個，我查到了「梅菲斯特先生」
+25,1392,,"Vediamo. Ci sono log di Mephisto,
+come parla con altri utenti.","那個，我查到了「梅菲斯特先生」
 和其他用戶的聯絡記錄了！",,"으음,「메피스토씨」가 다른 유저와 거래한
-로그가 있어유","Mal sehen. Es gibt Protokolle von Mephisto-san,
+로그가 있어유","Mal sehen. Es gibt Protokolle von Mephisto,
 wie er mit anderen Nutzern spricht."
 26,3045,,Fammi vedere.,給我看。,,보여줘,Zeig mal.
 27,3045,,"... Parla molto con utenti commerciali.
@@ -104,11 +102,11 @@ Es gibt auch ein Protokoll zur Kontenübertragung."
 31,3047,,Hm... Qui c'è chiaramente qualcosa che non quadra...,嗯～這個啊……不管怎麼想都很黑暗啊――,,"으음, 이건……아무리 봐도 어둠――",Hm ... Da ist doch eindeutig was faul ...
 32,3045,,...Sembra un brutto scherzo.,"……實在是太明顯了，
 讓人覺得已經是惡作劇的水準了。",,…너무 이름 그대로라 장난치는 수준이네,... Das klingt schon nach einem schlechten Scherz.
-33,1392,,"Mephisto-san deve aver venduto degli account a 
+33,1392,,"Mephisto deve aver venduto degli account a 
 questa azienda. Il rappresentante più importante 
 si chiama Tooru Kayaba.","「梅菲斯特先生」似乎跟這個企業做帳號買賣交易喔。
 企業中地位最大的人，叫做「茅場透」。",,"「메피스토씨」는 그 기업에 계정을 팔던 것 같아유.
-기업에서 가장 높은 사람의 이름은「카야바 토오루」예유","Mephisto-san hat diesem Unternehmen wohl Konten
+기업에서 가장 높은 사람의 이름은「카야바 토오루」예유","Mephisto hat diesem Unternehmen wohl Konten
 verkauft. Der wichtigste Vertreter heißt Tooru
 Kayaba."
 34,2020,,...!,…………！,,…………!,...!
@@ -119,14 +117,12 @@ Irrompiamo e recuperiamo i dati.","帳號的傳送點是這個企業的伺服器
 übertragen. Lasst uns einbrechen und die Daten
 zurückholen."
 36,3047,,Quindi la piccola e io siamo i rinforzi?,那麼，我和小姐就繼續事後的協助吧。,,"그럼, 나랑 아가씨는 계속해서 서포트를 하겠어",Die Kleine und ich sind dann wohl die Verstärkung?
-37,2020,,"(Tooru Kayaba... Il prossimo obiettivo 
-che K aveva menzionato.)","（茅場透……
+37,2020,,"(Tooru Kayaba... Il prossimo obiettivo che K aveva menzionato.)","（茅場透……
 　K曾經說過的，下一位目標……）",,"(카야바 토오루……
  K가 말한 다음 타깃이다……)","(Tooru Kayaba ... Das nächste Ziel, das K erwähnt
 hatte.)"
 38,2020,,(...),（…………）,,(……),(...)
-39,2020,,"(Forse dovrei raccontare a 
-Ryuji e agli altri di K.)",（K的事情，是不是要告訴龍司他們比較好……）,,(K에 대해 류지에게 알려줘야 할까……),"(Vielleicht sollte ich Ryuji und den anderen von
+39,2020,,"(Forse dovrei raccontare a Ryuji e agli altri di K.)",（K的事情，是不是要告訴龍司他們比較好……）,,(K에 대해 류지에게 알려줘야 할까……),"(Vielleicht sollte ich Ryuji und den anderen von
 K erzählen.)"
 40,3046,,[p],[p]。,,[p],[p]
 41,3046,,Tutto a posto? Dobbiamo andare.,怎麼了，快出發吧。,,"왜 그래, 가자",Alles klar bei dir? Wir müssen los.
