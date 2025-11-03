@@ -1272,7 +1272,7 @@
 7037,,Qualcosa di Simile a Erika,很像艾莉卡的某種東西,,에리카와 빼닮은 무언가,Erika ähnelndes Wesen
 7038,,Cliente fifone,非常膽小的客人,,겁많은 손님,Feiger Kunde
 7039,,Cliente Occulto,喜歡靈異的客人,,오컬트를 좋아하는 손님,Okkultisten-Kunde
-7040,,Capo dei Commercianti di Steam,蒸氣領薪族的隊長,,스팀리맨의 리더,Steam-Dealer-Anführer
+7040,,Capo dei Steam Dealers,蒸氣領薪族的隊長,,스팀리맨의 리더,Steam-Dealer-Anführer
 7041,,Membro Rivenditore Steam,蒸氣領薪族的成員,,스팀리맨의 멤버,Steam-Dealer-Mitglied
 7043,,Kayaba,茅場,,카야바,Kayaba
 7044,,Signora di mezza età che cammina,中年女性行人,,통행인 중년여성,Passantin mittl. Alters
@@ -1429,7 +1429,7 @@
 7212,,Cliente maschio dell'Acquario,水族館的男性客人,,수족관의 남자 손님,Aquarium-Besucher
 7213,,Cliente femminile dell'Aquario,水族館的女性客人,,수족관의 여자 손님,Aquarium-Besucherin
 7214,,Ragazzo con gli occhiali,眼鏡男子,,안경 남자,Vieräugiger Junge
-7216,,Generazione Reale 3,皇家三世,,로얄 3세,Royal Generation 3
+7216,,Royal Generation 3,皇家三世,,로얄 3세,Royal Generation 3
 7217,,Ragazza,少女,,소녀,Mädchen
 7218,,Rumi,露咪,,루미,Rumi
 7219,,Wakamoto,若本,,와카모토,Wakamoto
@@ -1607,9 +1607,9 @@
 8001,,Sistema di Sicurezza EDEN,EDEN安全系統,,EDEN 보안 시스템,EDEN-Sicherheitssystem
 8002,,Monitor TV,TV螢幕,,TV 모니터,Fernsehbildschirm
 8003,,Messaggio,郵件內文,,메일,Nachricht
-9000,,Guardiano dei Rivenditori di Steam,防守的蒸氣領薪族,,수비하는 스팀리맨,Steam-Dealer-Beschützer
-9001,,Classifica dei Rivenditori Steam,想得分的蒸氣領薪族,,득점을 노리는 스팀리맨,Steam-Dealer-Rangjäger
-9002,,Classifica dei Rivenditori di Steam,想得分的蒸氣領薪族,,득점을 노리는 스팀리맨,Steam-Dealer-Rangjäger
+9000,,Guardiano dei Steam Dealers,防守的蒸氣領薪族,,수비하는 스팀리맨,Steam-Dealer-Beschützer
+9001,,Classifica dei Steam Dealers,想得分的蒸氣領薪族,,득점을 노리는 스팀리맨,Steam-Dealer-Rangjäger
+9002,,Classifica dei Steam Dealers,想得分的蒸氣領薪族,,득점을 노리는 스팀리맨,Steam-Dealer-Rangjäger
 9003,,Domestiche Mascherate Selvagge,很有殺氣的假面女僕,,살벌한 마스크 메이드,Masked-Maid-Barbarin
 9004,,Classificatore delle Cameriere Mascherate,想得分的假面女僕,,득점을 노리는 마스크 메이드,Masked-Maid-Rangjägerin
 9005,,Classificatore delle Cameriere Mascherate,想得分的假面女僕,,득점을 노리는 마스크 메이드,Masked-Maid-Rangjägerin
@@ -1735,7 +1735,7 @@
 9125,,Ragazza di Nakano con la frangetta,中野條紋的女孩,,나카노 스트라이프스 소속 여자,Nakano-Stripes-Mädchen
 9126,,Ragazza dal Cuore Giovane,童心的少女,,하트 오브 차일드 소속 소녀,Young-at-Heart-Mädchen
 9127,,Ex-Hacker Jude,前Jude的駭客,,전 쥬드의 해커,Hacker (Ex-Gamma)
-9128,,Hacker Misandrico,討厭男生的駭客,,남자가 싫은 해커,Männerhassende Hackerin
+9128,,Hacker Misandrica,討厭男生的駭客,,남자가 싫은 해커,Männerhassende Hackerin
 9129,,Hacker Blocca-Strada,禁止通行的駭客,,통행을 금지한 해커,Weg blockierender Hacker
 9130,,Hacker Amante di Nakano,喜歡中野的駭客,,나카노를 좋아하는 해커,Nakano-Fan-Hackerin
 9131,,Hacker Residente di Nakano,住在中野的駭客,,나카노에 사는 해커,Hackerin aus Nakano
@@ -1760,7 +1760,7 @@
 9150,,Membro degli Angeli Leggendari,傳說天使,,레전드 천사,Legend-Angels-Mitglied
 9151,,Membro Animali Marini,海洋動物群,,오션 애니멀즈,Ocean Animal
 9152,,Membro Orecchie da Gatto,萌萌貓耳,,캣 이어,Cat-Ears-Mitglied
-9153,,Membro dei Rivenditori Steam,蒸氣領薪族,,스팀리맨,Steam Dealer
+9153,,Membro dei Steam Dealers,蒸氣領薪族,,스팀리맨,Steam Dealer
 9154,,Membro dei Dinosaurists,恐龍教,,다이너소어교,Dinosaurist
 9155,,Membro dell'Alleanza di Polvere,塵埃同盟,,더스트 동맹,Dust-Alliance-Mitglied
 9156,,Membro di Spike & Shield,尖刺與大盾,,스파이크&실드,Spike-&-Shield-Mitglied
@@ -1976,7 +1976,7 @@
 9366,,Capo dei Dinosauristi,恐龍教隊長,,다이너소어교 리더,Dinosaurist-Anführer
 9367,,Capo Flanella di Akiba,秋葉格紋隊長,,아키바 플란넬 리더,Akiba-Flannel-Anführer
 9368,,Leader degli Angeli Leggendari,傳說天使隊長,,레전드 천사 리더,Legend-Angels-Anführerin
-9369,,Capo dei Rivenditori di Steam,蒸氣領薪族隊長,,스팀리맨 리더,Steam-Dealer-Anführer
+9369,,Capo dei Steam Dealers,蒸氣領薪族隊長,,스팀리맨 리더,Steam-Dealer-Anführer
 1190,,Ryudamon,龍蛇獸,,류우다몬,Ryudamon
 1191,,Ginryumon,銀龍獸,,깅류우몬,Ginryumon
 1192,,Hisyaryumon,龍王獸,,히사류우몬,Hisyaryumon

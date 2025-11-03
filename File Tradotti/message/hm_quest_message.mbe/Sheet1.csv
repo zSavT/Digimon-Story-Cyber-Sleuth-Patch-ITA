@@ -1154,8 +1154,8 @@ un'occhiata.)","（沒有看到究極天使獸和基路比獸的蹤影啊……
  안쪽으로 가버린 걸까? 둘을 찾아보자)","(Es gibt kein Anzeichen auf Seraphimon oder
 Kerpymon. Vielleicht sind sie reingegangen.
 Mal schauen.)"
-3900,2020,,"(Sembra che Airdramon sia stato qui, ma ora
-non ce n'è traccia.)","（飛龍獸似乎有出現在這附近過
+3900,2020,,"(Sembra che Airdramon sia stato qui,
+ma ora non ce n'è traccia.)","（飛龍獸似乎有出現在這附近過
 　現在看不到蹤影呢……）",,"(에어드라몬이 있었던 건 이 근처인 것 같다.
  지금은 모습이 보이지 않는 것 같지만…)","(Anscheinend war Airdramon hier. Jetzt ist es
 nicht zu sehen.)"
@@ -1164,33 +1164,32 @@ Chiederò in giro e vedrò se ci sono testimoni.)","（說不定是躲到哪去�
 　不曉得有沒有目擊者，到處打聽看看吧）",,"(어딘가에 모습을 숨기고 있을지도 모른다.
  목격자가 없는지 다니면서 물어보자)","(Vielleicht versteckt es sich irgendwo. Ich frage
 herum, vielleicht weiß hier jemand etwas darüber.)"
-3902,2020,,"(Sembra che Airdramon sia fuggito
-dentro. Devo inseguirlo!)","（飛龍獸好像躲到裡面去了。
+3902,2020,,"(Sembra che Airdramon sia fuggito in profondità.
+Devo inseguirlo!)","（飛龍獸好像躲到裡面去了。
 　快追上去吧！）",,"(에어드라몬은 안쪽으로 도망간 것 같다.
  따라가보자!)","(Anscheinend ist Airdramon hineingeflüchtet.
 Ich werde ihm folgen müssen!)"
 3910,9301,,Airdramon? Non ne ho idea.,飛龍獸？　我不曉得。,,에어드라몬? 잘 모르겠는데,Airdramon? Keine Ahnung.
-3911,9301,,"Stai vendendo Airdramon? Il rivenditore ti
-ha assunto?","……你該不會是
+3911,9301,,"Stai vendendo Airdramon?
+Il rivenditore ti ha assunto?","……你該不會是
 被批發飛龍獸的業者給拜託了吧？",,"…혹시 너, 에어드라몬을 도매하는
 업자한테 부탁 받은 거냐?","Verkaufst du Airdramon? Hat der Händler dich
 angeheuert?"
-3912,9301,,"Il modo in cui tratta i Digimon è
-terribile. Sapevo che un giorno sarebbe successo.","那傢伙，對待數碼寶貝的態度都很隨便啊。
+3912,9301,,"Il modo in cui tratta i Digimon è terribile.
+Sapevo che un giorno sarebbe successo.","那傢伙，對待數碼寶貝的態度都很隨便啊。
 我之前就在想，會不會有天會變成這樣子呢。",,"그 녀석, 디지몬 취급이 거치니까.
 언젠가 그렇게 될 줄 알았지","Es ist furchtbar, wie er Digimon behandelt. Ich
 wusste, dass dies eines Tages passieren würde."
-3913,9358,,"Ho visto Digimon ovunque. Voglio dire,
-dopotutto questa è Kowloon.","數碼寶貝到處都看得到啊。
+3913,9358,,"Ho visto Digimon ovunque.
+Voglio dire, dopotutto questa è Kowloon.","數碼寶貝到處都看得到啊。
 這裡可是Kowloon喔？",,"디지몬이라면 여기저기서 봤어.
 그럴 수밖에 없는 게 여긴 쿠롱이잖아?","Ich habe überall Digimon gesehen. Schließlich
 sind wir in Kowloon."
 3914,4005,,Airdramon? Mmm... non l'ho visto.,"飛龍獸？
 不知道～ 我沒看到喔？",,"에어드라몬?
 글쎄~, 못 봤는데?",Airdramon? Hmm ... habe ich nicht gesehen.
-3915,4005,,"Stai con Hudie, vero? Il tuo lavoro
-dev'essere duro, correre di qua e di là e
-dappertutto.","你是hudie的人吧？
+3915,4005,,"Stai con Hudie, vero? Il tuo lavoro dev'essere duro,
+correre di qua e di là e dappertutto.","你是hudie的人吧？
 做便利店被人到處使喚，還真辛苦啊。",,"너, 후디에지?
 해결사는 여기저기서 혹사당하기만 하고 힘들겠어","Du bist bei Hudie, nicht wahr? Dein Job muss
 schwierig sein, immer unterwegs und schwer
