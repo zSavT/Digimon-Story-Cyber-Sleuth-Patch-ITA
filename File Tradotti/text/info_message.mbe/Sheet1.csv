@@ -243,7 +243,7 @@ weiteren Items aufnehmen."
 1916,,Rinunci a [4[d0]].,交出[4[d0]],,[4[d0]]을(를) 건네주었다.,[4[d0]] abgegeben.
 1917,,Rinunci a [n0] x [4[d0]].,交出[n0]個[4[d0]],,[4[d0]]을(를) [n0]개 건네주었다.,[n0] x [4[d0]] abgegeben.
 1918,,Al momento non può essere utilizzato.,現在無法使用,,지금은 사용할 수 없습니다.,Kann im Moment nicht verwendet werden.
-2000,,"Hai ricevuto la parola chiave
+2000,,"Hai ricevuto la parola chiave:
 ""[2[d0]]"".",獲得關鍵字【[2[d0]]】！,,키워드【[2[d0]]】을(를) 획득!,"Du hast das Stichwort 
 „[2[d0]]“ erhalten."
 2100,,Non puoi disconnetterti ora.,現在無法登出,,지금은 로그아웃 할 수 없습니다.,Du kannst dich jetzt nicht ausloggen.
@@ -1049,22 +1049,22 @@ gegeben."
 7218,,Ho ricevuto pasta di fagioli rossi.,獲得紅豆餡,,팥앙금을 입수했다.,Hat Rote-Bohnen-Paste erhalten.
 7219,,Ricevuto URL per il server delle uova di merluzzo.,得到「明太屋伺服器」的URL,,「명란 가게 서버」의 URL을 입수했다.,Hat URL für den Pollackrogen-Server erhalten.
 7220,,Ricevuto URL per backdoor dell'acquario.,得到「水族館後門」的URL,,「수족관의 백도어」의 URL을 입수했다.,Hat URL für die Aquariumshintertür erhalten.
-7221,,URL ricevuto per il forum di Natsume Keshikawa.,得到「芥子川夏目的討論區」的URL,,「케시카와 나츠메 포럼」의 URL을 입수했다.,Hat URL für das Natsume-Keshikawa-Forum erhalten.
+7221,,Ricevuto URL per il forum di Natsume Keshikawa.,得到「芥子川夏目的討論區」的URL,,「케시카와 나츠메 포럼」의 URL을 입수했다.,Hat URL für das Natsume-Keshikawa-Forum erhalten.
 7222,,Ricevuto URL per il server del concorso.,得到「程式編組選手權管理伺服器」的URL,,「프로그래밍 선수권 관리 서버」의 URL을 입수했다.,Hat URL für den Wettbewerbsserver erhalten.
-7223,,Ricevuto l'URL per il nascondiglio (classe 3C).,得到「3年C班避難所」的URL,,「3학년 C반의 피난소」의 URL을 입수했다.,Hat URL für den Unterschlupf (Klasse 3C) erhalten.
-7224,,Ottieni l'URL per la zona di distribuzione.,得到「送貨分配區域」的URL,,「배달 담당 구역」의 URL을 입수했다.,URL für die Verteiler-Zone erhalten.
+7223,,Ricevuto URL per il covo (classe 3C).,得到「3年C班避難所」的URL,,「3학년 C반의 피난소」의 URL을 입수했다.,Hat URL für den Unterschlupf (Klasse 3C) erhalten.
+7224,,Ricevuto URL per la zona di distribuzione.,得到「送貨分配區域」的URL,,「배달 담당 구역」의 URL을 입수했다.,URL für die Verteiler-Zone erhalten.
 7225,,Ricevuto URL per il server Death Fist.,得到「滅拳伺服器」的URL,,「멸권 서버」의 URL을 입수했다.,URL für den Death-Fist-Server erhalten.
-7226,,Ottieni l'URL per il server Engel.,得到「天使伺服器」的URL,,「천사의 서버」의 URL을 입수했다.,URL für den Engel-Server erhalten.
+7226,,Ricevuto URL per il server Engel.,得到「天使伺服器」的URL,,「천사의 서버」의 URL을 입수했다.,URL für den Engel-Server erhalten.
 7227,,Ricevuto URL per il forum sull'occultismo.,得到「靈異討論區」的URL,,「오컬트 포럼」의 URL을 입수했다.,URL für das Okkultismus-Forum erhalten.
-7228,,Ricevuto l'URL per la Beetle Arena.,得到「甲蟲決鬥場」的URL,,「딱정벌레 투기장」의 URL을 입수했다.,URL für die Käfer-Arena erhalten.
-7229,,Ottieni l'URL del computer dell'amico.,得到「同僚的電腦」的URL,,「동기의 컴퓨터」의 URL을 입수했다.,URL für den Computer des Freundes erhalten.
-7230,,Ottieni l'URL del parco divertimenti.,得到「遊樂園」的URL,,「플레이 랜드」의 URL을 입수했다.,Vergnügungspark-URL erhalten.
-7231,,Ottieni l'URL del server sperimentale.,得到「研究伺服器」的URL,,「연구 서버」의 URL을 입수했다.,Experimentalserver-URL erhalten.
-7232,,Ricevuto l'URL per l'area di staging del Dr. Datamon.,得到「分子獸博士採取場」的URL,,「데이터몬 박사의 채취장」의 URL을 입수했다.,URL für Dr. Datamons Sammelbereich erhalten.
-7233,,Ottieni l'URL per il server Abyss.,得到「深淵伺服器」的URL,,「어비스 서버」의 URL을 입수했다.,URL für den Abyss-Server erhalten.
-7234,,Ottieni l'URL per la Stanza Puzzolente.,得到「異臭空間」的URL,,「고약한 냄새가 나는 공간」의 URL을 입수했다.,URL für den Stinkenden Raum erhalten.
-7235,,Ricevuto URL per Sandman Hideout.,得到「Dreamin的基地」的URL,,「드리밍의 아지트」의 URL을 입수했다.,URL für das Sandman-Versteck erhalten.
-7236,,Ricevuto l'URL per il server Valhalla.,得到「瓦爾哈拉伺服器」的URL,,「발할라 서버」의 URL을 입수했다.,URL für den Walhalla-Server erhalten.
+7228,,Ricevuto URL per la Beetle Arena.,得到「甲蟲決鬥場」的URL,,「딱정벌레 투기장」의 URL을 입수했다.,URL für die Käfer-Arena erhalten.
+7229,,Ricevuto URL del computer dell'amico.,得到「同僚的電腦」的URL,,「동기의 컴퓨터」의 URL을 입수했다.,URL für den Computer des Freundes erhalten.
+7230,,Ricevuto URL del parco divertimenti.,得到「遊樂園」的URL,,「플레이 랜드」의 URL을 입수했다.,Vergnügungspark-URL erhalten.
+7231,,Ricevuto URL del server sperimentale.,得到「研究伺服器」的URL,,「연구 서버」의 URL을 입수했다.,Experimentalserver-URL erhalten.
+7232,,Ricevuto URL per l'area di staging del Dr. Datamon.,得到「分子獸博士採取場」的URL,,「데이터몬 박사의 채취장」의 URL을 입수했다.,URL für Dr. Datamons Sammelbereich erhalten.
+7233,,Ricevuto URL per il server Abyss.,得到「深淵伺服器」的URL,,「어비스 서버」의 URL을 입수했다.,URL für den Abyss-Server erhalten.
+7234,,Ricevuto URL per la Stanza Puzzolente.,得到「異臭空間」的URL,,「고약한 냄새가 나는 공간」의 URL을 입수했다.,URL für den Stinkenden Raum erhalten.
+7235,,Ricevuto URL per il covo Dreamin.,得到「Dreamin的基地」的URL,,「드리밍의 아지트」의 URL을 입수했다.,URL für das Sandman-Versteck erhalten.
+7236,,Ricevuto URL per il server Valhalla.,得到「瓦爾哈拉伺服器」的URL,,「발할라 서버」의 URL을 입수했다.,URL für den Walhalla-Server erhalten.
 7237,,"Errore. Al momento non è possibile accedere
 a EDEN.","ERROR
 目前無法登入EDEN",,"ERROR

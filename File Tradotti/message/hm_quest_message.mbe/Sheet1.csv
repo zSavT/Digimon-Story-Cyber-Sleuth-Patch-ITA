@@ -662,8 +662,8 @@ che andrà a Under Kowloon Lv. 1.","話說回來，剛剛有人說
 要去Under Kowloon喔。",,"그러고 보니 방금 누군가가
 언더 쿠롱 Lv.1으로 간다고 말했었어","Jemand hat erwähnt, dass sie gerade zur
 Ebene 1 in Unter Kowloon gegangen ist."
-1813,4710,,"Prese delle persone per cercare
-il nascondiglio nemico.","菲的話，她剛剛帶了幾個人出去，
+1813,4710,,"Ha portato con sé alcune persone per
+cercare il nascondiglio dei nemici.","菲的話，她剛剛帶了幾個人出去，
 說是要去找敵人的基地。",,"페이라면 적의 아지트를 찾는다고
 몇 명인가 데리고 나가버렸어","Sie hat ein paar Leute mitgenommen, um nach dem
 Versteck der Gegner zu suchen."
@@ -1104,8 +1104,8 @@ dovrà fare degli addominali.","這孩子，肚子的力量好像不太夠……
 깔끔하게 노래를 부르기 위해서, 근력 단련이 더 필요하겠어!","Ihr Bauch ist nicht besonders stark. Wenn sie
 je mit schöner Stimme singen will, muss sie
 Rumpfbeugen machen."
-3600,2020,,"(Uno dei corrieri è andato a
-Kowloon Lv. 4. Devo trovarlo.)","（好像有一位送貨員往Kowloon Lv.4走了。
+3600,2020,,"(Uno dei corrieri è andato a Kowloon Lv. 4.
+Devo trovarlo.)","（好像有一位送貨員往Kowloon Lv.4走了。
 　去找送貨員吧 ） ",,"(배달원 중 한 명은 쿠롱 Lv.4로 향한 것 같다.
  배달원을 찾으러 가자)","(Einer der Kuriere ist zur Ebene 4 von Kowloon
 gegangen. Ich muss ihn finden.) "
@@ -1129,9 +1129,8 @@ Die Lieferung wird sich verspäten."
 3700,2020,,"(Inizierò indagando sul
 gioco arcade difettoso.)",（先調查看看有問題的街機遊戲吧）,,(먼저 문제의 아케이드 게임을 조사해 보자),"(Als Erstes stelle ich Nachforschungen zu dem
 kaputten Spiel in der Spielhalle an.)"
-3701,2020,,"(Quindi il cliente è il direttore del TRF a
-Nakano Broadway. Meglio andare ad ascoltare prima i
-dettagli.)","（委託人是中野ＴＲＦ的店長……
+3701,2020,,"(Quindi il cliente è il direttore del TRF a Nakano Broadway.
+Meglio andare ad ascoltare prima i dettagli.)","（委託人是中野ＴＲＦ的店長……
 　先到中野ＴＲＦ詢問詳情吧）",,"(의뢰인은 나카노TRF의 가게 주인인가…
  우선 나카노TRF에서 자세한 의뢰내용을 들어보자)","(Der Klient ist also der Manager von TRF in Nakano
 Broadway. Ich sollte mir zuerst die Einzelheiten
@@ -1148,8 +1147,7 @@ prima possibile.","希望能盡早找出故障的原因。
 wie möglich."
 3711,7205,,Affrettatevi a risolvere il problema.,真要早點修好喔？,,진짜 빨리 좀 고쳐달라고?,Beeil dich und bring das in Ordnung.
 3800,2020,,"(Non c'è traccia di Seraphimon o
-Kerpymon. Forse sono entrati. Darò
-un'occhiata.)","（沒有看到究極天使獸和基路比獸的蹤影啊……
+Kerpymon. Forse sono entrati. Darò un'occhiata.)","（沒有看到究極天使獸和基路比獸的蹤影啊……
 　會不會是進去裡面了呢？　去尋找他們吧）",,"(세루피몬과 케루비몬의 모습은 없는 것 같다…
  안쪽으로 가버린 걸까? 둘을 찾아보자)","(Es gibt kein Anzeichen auf Seraphimon oder
 Kerpymon. Vielleicht sind sie reingegangen.
@@ -1207,19 +1205,18 @@ sentita da qualche parte. Chiederò in giro.)","（現在還沒有惡臭味…�
  어딘가에 냄새를 느낀 사람이 있을지도 모른다.
  탐문조사를 해보자)","(Hier stinkt es nicht, aber vielleicht hat jemand
 es irgendwo gerochen. Ich frage mal herum.)"
-4001,2020,,"(Per qualche ragione ci sono dati
-spazzatura ovunque, ma nessun odore strano.)","（……不知道為什麼，到處都有廢棄數據，
+4001,2020,,"(Per qualche ragione ci sono dati spazzatura
+ovunque, ma nessun odore strano.)","（……不知道為什麼，到處都有廢棄數據，
 　雖然好像沒有什麼奇怪的臭味……）",,"(…왜인지 여기저기에 쓰레기 데이터가 떨어져 있어.
  이상한 냄새는 나지 않는 것 같지만…)","(Aus irgendeinem Grund ist hier überall Datenmüll,
 aber ich bemerke keinen seltsamen Geruch.)"
-4002,2020,,"(Sembra che ci sia un posto con un
-cattivo odore. Userò l'URL per verificarlo.)","（好像真的有散發出惡臭味的地方，
+4002,2020,,"(Sembra che ci sia un posto con un cattivo odore.
+Userò l'URL per verificarlo.)","（好像真的有散發出惡臭味的地方，
 　去看看URL所指的地方吧）",,"(고약한 냄새가 나는 장소가 있다는 건 사실인 것 같다.
  URL의 장소에 가보자)","(Es soll an einer Stelle ganz gewaltig stinken.
 Ich benutze die URL, um dem nachzugehen.)"
 4010,9302,,"Non ho sentito alcun odore.
-La spazzatura è già
-abbastanza cattiva","臭味？　不～知道。
+La spazzatura è già abbastanza cattiva","臭味？　不～知道。
 雖然覺得垃圾好像變多了，但如果真的
 會發出惡臭，不就超糟糕的。",,"냄새? 모르겠는데.
 쓰레기가 늘어났다고는 생각했는데
@@ -1239,16 +1236,16 @@ habe ich tatsächlich was gerochen."
 non ricordo esattamente dove.","但是也只有一下子而已，
 詳細位置我已經忘記啦。",,그치만 한 순간이었고 자세한 장소는 까먹었어.,"Aber es war nur für einen Augenblick und ich kann
 mich nicht erinnern, wo es genau war."
-4013,9304,,"Eh? Voci di puzza a EDEN? Certo che
-le ho sentite!","嗯？　知不知道EDEN有惡臭味的傳聞？
+4013,9304,,"Eh? Voci di puzza a EDEN?
+Certo che le ho sentite!","嗯？　知不知道EDEN有惡臭味的傳聞？
 啊、我當然有聽說過喔！",,"응? EDEN에서 고약한 냄새가 난다는 소문을 모르냐고?
 아아, 물론 들은 적 있어!","Was? Gerüchte zu Gestank in EDEN? Natürlich habe
 ich die gehört!"
 4014,9304,,"Sono andato a dare un'occhiata e, ragazzi, che puzza!","我也很在意啊，結果跑過去之後沒想到！
 真的有很臭的惡臭味啊。",,"나도 신경 쓰여서 가봤는데 대~박!
 진짜로 엄청나게 고약한 냄새가 났지 뭐야","Ich habe das überprüft. Mann, hat das gestunken!"
-4015,9304,,"So che questo è il Cyberspazio, ma era così
-realistico! Forse c'è qualcosa che emana quella puzza.","明明是電腦空間，卻這麼厲害的重現，
+4015,9304,,"So che questo è il Cyberspazio, ma era così realistico!
+Forse c'è qualcosa che emana quella puzza.","明明是電腦空間，卻這麼厲害的重現，
 實在是有點佩服啊。說不定是能夠產生
 惡臭味的程式也說不定喔。",,"전뇌공간인데 재현율 대박이네 하고 감탄했어.
 고약한 냄새를 발생하게 하는 오브젝트라도 있는 거겠지","Ich weiß, wir sind im Cyberspace, aber es war so
@@ -1266,8 +1263,8 @@ quell'hacker. Proverò a chiedere di nuovo.)","（果然，那樣子很奇怪的
 　再去問一次好了）",,"(역시나 저 행동이 이상한 해커가 수상해.
  다시 한 번 물어 보자)","(Irgendetwas stimmt mit dem Hacker wirklich nicht.
 Ich werde noch mal fragen.)"
-4102,2020,,"(Si sente sicuramente un rumore. Andrò nel posto di
-cui mi hanno parlato.)","（看來的確有發出聲音，
+4102,2020,,"(Si sente sicuramente un rumore. Andrò nel
+posto di cui mi hanno parlato.)","（看來的確有發出聲音，
 　去一下他告知的地點吧） ",,"(아무래도 소리가 났다는 건 분명한 것 같다.
  알려준 장소로 가보자)","(Da ist tatsächlich ein Geräusch. Ich gehe zum
 erwähnten Ort.) "

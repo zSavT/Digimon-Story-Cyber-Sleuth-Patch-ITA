@@ -1,6 +1,6 @@
 ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
 1,2020,,...?,……？,,……?,...?
-2,5004,,„Zuppa di azuki piccante“,“RED．HOT．香辣紅豆湯”,,「레드 핫 칠리 단팥죽」,„Scharfe Azukibohnensuppe“
+2,5004,,"""Zuppa di azuki piccante""",“RED．HOT．香辣紅豆湯”,,「레드 핫 칠리 단팥죽」,„Scharfe Azukibohnensuppe“
 3,2020,,"(... Avevo fretta e ho comprato uno strano gusto.)",（……買太急了，結果買到怪東西）,,(…………당황해서 그런지 이상한 걸 사버렸다),"(... Ich hatte es eilig und habe eine seltsame
 Geschmacksrichtung gekauft.)"
 4,7072,,... Ti piacciono?,……你喜歡那個嗎？,,"……좋아하시나요, 그거",... Magst du die?
@@ -14,8 +14,8 @@ non riesco a decidermi. Cosa dovrei prendere?","但是……真的站到自動�
 어느걸 얼마나 마시면 좋을지","Aber jetzt, wo ich vor dem Automaten stehe,
 kann ich mich nicht entscheiden.
 Was soll ich nehmen?"
-9,7072,,"Cosa mi consigli? Mi fido sempre del tuo giudizio ogni volta che bisogna
-scegliere una ""strada"".","你有推薦的嗎？
+9,7072,,"Cosa mi consigli? Mi fido sempre del tuo giudizio ogni
+volta che bisogna scegliere una ""strada"".","你有推薦的嗎？
 既然是買了那個飲料的“專家”，
 你的推薦應該很可靠。",,"당신이 추천하고 싶은게 있나요?
 그걸 선택하는 ""센스""가 있다면 신뢰할 수 있어요","Was empfiehlst du mir? Ich vertraue deinem
@@ -23,7 +23,7 @@ Urteil immer dann, wenn man einen „Weg“ wählen
 muss."
 10,2020,,?!,！？！？！？,,!?!?!?,?!
 11,7072,,...,…………,,…………,...
-12,2020,,(Lei mi guarda con aspettativa... I suoi occhi dicono: „Scegli uno“.),"（被投以熱切期待的視線…
+12,2020,,"(Lei mi guarda con aspettativa... I suoi occhi dicono: ""Scegli uno"".)","（被投以熱切期待的視線…
 　似乎想要我幫她選）",,"(기대가 담긴 눈으로 보고 있다…
  골라줘, 라는 듯하다)","(Sie schaut mich erwartungsvoll an ... Ihre Augen
 sagen: „Wähle eins aus“.)"
@@ -77,7 +77,7 @@ Parfait gegessen, also habe ich keine Lust auf
 etwas Süßes ..."
 24,7072,,Qualche altro suggerimento?,……還有其他推薦的嗎？,,……다른 추천음료는 없습니까?,Irgendwelche anderen Vorschläge?
 25,7072,,ACE ...,MJ……,,MJ……,ACE ...
-26,7072,,„Succo ACE“ ...,“綜合果汁”——,,"""믹스 주스""――",„ACE-Saft“ ...
+26,7072,,"""Succo ACE"" ...",“綜合果汁”——,,"""믹스 주스""――",„ACE-Saft“ ...
 27,7072,,"In pratica è un succo di mango con le vitamine A, C ed E.",偽裝成那樣，其實是“芒果果汁”呢。,,"인 척 하면서 실은 ""망고 주스""인 그 음료수군요","Es ist im Grunde ein Mangosaft mit den Vitaminen
 A, C und E."
 28,7072,,"Anche se è un succo economico dal distributore automatico,
@@ -122,8 +122,8 @@ ci si concede un boccone enorme.","在炎熱的夏天裡，咬下一口插著竹
 맛은 어떤 기쁨과도 바꿀 수 없습니다","Der Geschmack ist genauso köstlich, wenn man sich
 ein einem heißen Sommertag einen Riesenbissen
 gönnt."
-39,7072,,"Il meglio di questo prodotto è che si scioglie in bocca quando lo si mangia.
-Disseta e allo stesso tempo sazia.","而且這項商品最大的賣點是，
+39,7072,,"Il meglio di questo prodotto è che si scioglie in bocca quando
+lo si mangia. Disseta e allo stesso tempo sazia.","而且這項商品最大的賣點是，
 邊融化邊吃不僅治癒喉嚨乾渴，
 還能解決肚子餓！",,"게다가 이 상품의 최고 강점은 녹이면서 먹으면
 갈증을 풀면서 공복도 메울 수 있다는 점에 있습니다","Das Beste an diesem Produkt ist, dass es beim
