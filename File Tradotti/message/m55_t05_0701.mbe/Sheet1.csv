@@ -15,8 +15,8 @@ mal, wie das geht."
 Avresti un momento?",HEY！　那裡的女生，可以借我一點時間嗎！,,헤이! 거기 아가씨. 잠깐 괜찮아~?,"Hallöchen, meine Hübsche!
 Hättest du einen Moment Zeit?"
 7,3003,,...,…………,,…………,...
-8,3047,,"Sei così carino, non ho potuto fare a meno!
-Vogliamo andare a prenderci un caffettino?","妳長得很可愛，我就覺得一定要和妳搭話才行～！
+8,3047,,"Sei così carina, che non ho potuto resistere!
+Ti va di andare a bere un caffè?","妳長得很可愛，我就覺得一定要和妳搭話才行～！
 如果方便的話，要不要跟我去喝杯茶呀！？",,"네가 귀여워서 말을 걸어야겠다고 생각했거든~!
 괜찮다면 나랑 차라도 한 잔 어때~!?","Du bist so schnuckelig, da konnte ich nicht
 anders! Wollen wir ein Käffchen trinken gehen?"
@@ -40,7 +40,7 @@ hier. Kennst du gute Cafés?"
 15,3047,,Uff ...! Ugh!,嗚……嗚嗚嗚……！！,,큭……크으으윽……!!,Uff ...! Ächz!
 16,2020,,"Questo basta per il momento. Ottima prestazione!
 Haha, non è servito a niente.
-A Shibuya ti mostro come lo faccio!","沒關係……你已經很努力了……！
+A Shibuya ti faccio vedere come si fa!","沒關係……你已經很努力了……！
 完全不行嘛。
 就讓你看看，我在涉谷得到力量後的搭訕技巧！",,"이제 됐어……충분히 노력했어……!
 전혀 안 먹히잖아
@@ -95,8 +95,8 @@ che tipo di meraviglia speziata sia questo piatto.","……看你這表情，
 難道你不知道這裡的蛋包飯有多美味？",,"……그 표정, 설마 모르는 건가요?
 여기 오므라이스의 맛을","... Deinem Gesicht nach ist dir nicht ganz klar,
 was dieses Gericht für ein würziges Wunder ist."
-36,3003,,"... Eppure la tua scelta della bevanda all'Ospedale Centrale era così
-promettente... Peccato.","……明明在中央醫院時，
+36,3003,,"... Eppure la tua scelta della bevanda all'Ospedale Centrale
+era così promettente... Peccato.","……明明在中央醫院時，
 在飲品的選擇上展現出可能性……
 這實在是太令人感嘆了。",,"……센트럴 병원에서 그만큼이나 음료에 대한
 가능성을 보여준 당신 정도 되는 사람이……한심하군요","... Dabei war deine Wahl des Getränks im
@@ -186,7 +186,7 @@ Quando sei diventato un pro?!","什麼嘛──！
 你是什麼時候學會了這種高難度技巧！",,"뭐냐고! 너 어느 틈에 저런 상급자를 함락시키는
 기술을 익힌 거냐!","Wie? WIE?! Da brat mir doch einer einen Storch!
 Wann bist du denn zum Profi geworden?!"
-64,3047,,"„L'ho imparato da te“? Ah, lo sapevo che avevi la stoffa!","是那個吧？　看著吾師的背影才學會的吧！？
+64,3047,,"""L'ho imparato da te""? Ah, lo sapevo che avevi la stoffa!","是那個吧？　看著吾師的背影才學會的吧！？
 我從一開始就覺得，你一定做得到的喔──！！",,"그건가? 내 등을 보며 배운거라던가!?
 처음 만났을 때부터 너는 하면 되는 놈이라고 생각하고 있었어!!","„Hab ich mir von dir abgeguckt“? Ha, ich wusste
 doch, dass du das Zeug dazu hast!"
@@ -253,8 +253,8 @@ Ich aß weiter, und Yuuko tat es mir gleich."
 la mia gola, il mio cervello e la mia anima.","漸漸地，我的胃、喉嚨、腦，
 就連靈魂都開始發出悲鳴……",,"마침내 나의 위가, 목이, 뇌가, 혼이 비명을 지르기 시작했다……","Doch es war zu viel. Bald schon protestierten
 mein Bauch, mein Hals, mein Hirn und meine Seele."
-85,2020,,"Il nostro eroe non ce la faceva più! Presto non ci sarebbe più
-stato ritorno!","快放棄吧[p]……！
+85,2020,,"Il nostro eroe non ce la faceva più!
+Presto non ci sarebbe più stato ritorno!","快放棄吧[p]……！
 再這樣下去，事情一定會變得無法挽回啊[p]……！",,"이제 그만해 [p]…!
 이대로라면 분명 돌이킬 수 없는
 일이 일어난다고 [p]…!","Unser Held konnte nicht mehr! Bald würde es
