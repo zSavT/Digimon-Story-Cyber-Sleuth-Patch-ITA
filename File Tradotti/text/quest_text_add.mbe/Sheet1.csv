@@ -1,5 +1,5 @@
 ﻿ID,Japanese,English,Chinese,EnglishCensored,Korean,German
-1,,Caso chiuso: segnalazione al BBS.,向BBS報告委託完成吧,,BBS로 의뢰 완료를 보고하자.,Abschließender Fallbericht an der ATL.
+1,,Caso chiuso: segnalazione al BBS.,向BBS報告委託完成吧,,BBS로 의뢰 완료를 보고하자.,Abschließender Fallbericht an der BBS.
 2,,Contatta gli amici.,聯絡夥伴,,동료들에게 연락하자.,Rede mit Freunden.
 3,,Eliminare il capo hacker,打倒敵人駭客隊伍的首領,,적 해커 팀 보스를 쓰러뜨리자.,Besiege Hackerboss.
 4,,Missione Sconfiggi Hacker!,接下討伐駭客任務,,해커 토벌 퀘스트를 받자.,Besiege Hackerquest!
@@ -520,9 +520,9 @@ ob du helfen kannst."
 594,,Decidi se combattere con Ryuji,選擇是否與龍司戰鬥,,류지와 싸울지 선택하자.,"Entscheide, ob du gegen Ryuji kämpfst."
 600,,Ascensore che scompare,人會消失的電梯,,사람이 사라지는 엘리베이터,Der verschwindende Aufzug
 601,,Rico,莉子,,리코,Rico
-602,,"Questo ascensore a Nakano porta in un
-posto strano, dove le ragazze
-scompaiono. Trova mia sorella!","我在中野搭電梯到了奇怪的地方
+602,,"Questo ascensore a Nakano porta in un posto strano,
+dove le ragazze scompaiono.
+Trova mia sorella!","我在中野搭電梯到了奇怪的地方
 而姊姊在那邊消失了
 請幫我找姊姊",,"나카노의 엘리베이터에서 이상한 장소가 나오더니
 그 장소에서 언니가 사라져버렸어요.
@@ -823,7 +823,7 @@ So such sie doch jemand!"
 943,,Itsuro: Adorabile cameriera,逸郎＠女僕小姐超萌,,코하마@메이드 씨 모에-,Itsuro: niedliches Mädel
 944,,"Vai alla gestione di Eden.
 Non a questo BBS!",應該去找營運方，而不是在這種布告欄發吧,,이런 게시판 말고 운영진한테 가는 게 어때?,"Gehe zur Verwaltung von EDEN,
-nicht zur ATL!"
+nicht zur BBS!"
 950,,Ottieni spiegazioni dal cliente,聽委託人說明詳情,,의뢰인에게 설명을 듣자.,Hol dir eine Erklärung vom Klienten.
 951,,Chiedi al Junk Plaza.,在破銅爛鐵公園打聽消息,,잡동사니 광장에서 탐문을 하자.,Frag an der Müll-Plaza.
 952,,Sconfiggi Lunamon,打倒露娜獸,,루나몬을 쓰러뜨리자.,Besiege Lunamon.

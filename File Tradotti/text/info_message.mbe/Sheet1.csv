@@ -13,8 +13,7 @@ gateway.","可以透過現實世界中所設置的登入地點
 穿越出入口來到電腦世界。",,"현실세계에 설치된 액세스 포인트로부터
 게이트를 통해 올 수 있습니다.","Zugangspunkte in der echten Welt fungieren als
 Tor."
-5,,"Esegui il log out, ritorni al
-mondo reale.","只要選擇登出
+5,,"Se esegui il log out, torni al mondo reale.","只要選擇登出
 就可以回到現實世界",,"로그아웃을 선택하면
 원래의 현실세계로 돌아갈 수 있습니다.","Wenn du dich ausloggst, kehrst du in die echte
 Welt zurück."
@@ -41,9 +40,9 @@ Digimon zu deiner Gruppe hinzu."
 12,,è stato aggiunto alla fattoria!,已經加入農場島了！,,이 팜에 추가되었습니다!, wurde zur Farm hinzugefügt!
 13,,Hai ricevuto un “Digivice”.,獲得【Digivice】,,"【디지바이스】
 를 입수했습니다.",Du hast ein „Digivice“ erhalten.
-14,,La barriera dei biglietti è chiusa.,剪票口閘門關閉中,,개찰구는 닫혀 있다.,Die Ticketschranke ist geschlossen.
+14,,Tornello è chiuso.,剪票口閘門關閉中,,개찰구는 닫혀 있다.,Die Ticketschranke ist geschlossen.
 15,,"Hai utilizzato il tuo biglietto gratuito per
-aprire la barriera dei biglietti.","使用通行車票
+aprire il Tornello .","使用通行車票
 開啟剪票口閘門",,"프리패스를 사용해
 개찰구를 열었다.","Du hast deine Freikarte benutzt, um die
 Ticketschranke zu öffnen."
@@ -81,7 +80,7 @@ A 버튼을 눌러주세요","Stell dich vor den Verkaufsautomaten neben dir und
 drücke den A-Knopf."
 33,,Controlla la bacheca in ufficio.,請回報至事務所裡的委託板,,"사무실에 있는
 의뢰보드에 보고해주세요.",Sieh auf dem Schwarzen Brett im Büro nach.
-37,,Hai il telefono del ragazzo più sexy.,獲得道具「帥氣男子的手機」,,아이템「훈남의 핸드폰」을 입수했다.,Du hast das Handy des heißen Typen erhalten.
+37,,Hai il telefono del ragazzo attraente.,獲得道具「帥氣男子的手機」,,아이템「훈남의 핸드폰」을 입수했다.,Du hast das Handy des heißen Typen erhalten.
 38,,Hai dato il telefono al ragazzo attraente.,將「帥氣男子的手機」交給帥氣的男子,,잘생긴 남자에게「훈남의 핸드폰」을 건넸다.,Du hast dem heißen Typen sein Handy gegeben.
 39,,Hai ricevuto la tessera dall'associazione pugilistica.,獲得道具「拳擊協會人員的名片」,,아이템「복싱협회 사람의 명함」을 입수했다.,Du hast die Karte vom Boxverband erhalten.
 40,,Hai strappato la carta.,主角撕破了名片,,주인공은 명함을 찢어버렸다.,Du hast die Karte zerrissen.
@@ -89,7 +88,7 @@ drücke den A-Knopf."
 向委託人報告吧",,"가오몬의 설득에 성공했다.
 의뢰인에게 보고하자.",Du hast Gaomon überzeugt. Melde das dem Klienten.
 42,,Dovremmo tornare da Hagurumon.,回到齒輪獸身邊,,톱니몬이 있는 곳으로 돌아가자.,Wir sollten zu Hagurumon zurückkehren.
-43,,Hai inserito l'equipaggiamento in Hagurumon.,為齒輪獸裝上齒輪,,주인공은 톱니몬에게 톱니바퀴를 끼웠다.,Du hast das Zahnrad in Hagurumon eingefügt.
+43,,Hai inserito l'ingranaggio in Hagurumon.,為齒輪獸裝上齒輪,,주인공은 톱니몬에게 톱니바퀴를 끼웠다.,Du hast das Zahnrad in Hagurumon eingefügt.
 44,,Hai ottenuto le ossa di Ogremon.,獲得奧加獸的骨頭,,우가몬의 뼈를 입수했다.,Du hast Ogremons Knochen erhalten.
 45,,Hai consegnato le ossa di Ogremon.,交出奧加獸的骨頭,,우가몬의 뼈를 건네주었다.,Du hast Ogremons Knochen abgegeben.
 46,,Hai ricevuto i noodles fatti in casa di Growlmon.,獲得古拉獸的手作拉麵,,그라우몬의 수제 라면을 입수했다.,Du hast Growlmons selbstgemachte Nudeln erhalten.
@@ -130,7 +129,7 @@ einmal vom Nintendo eShop herunterladen."
 1200,,"Non è possibile spostare i Digimon nella
 stessa posizione.",無法移動至同一個場所,,같은 장소에는 디지몬을 이동할 수 없습니다.,"Du kannst Digimon nicht an denselben Ort
 verschieben."
-1201,,"Supera lo spazio di archiviazione del gruppo e
+1201,,"Supera lo memoria di archiviazione del gruppo e
 non può essere spostato.",超過隊伍上限，無法移動,,파티 메모리를 초과하기 때문에 이동할 수 없습니다.,"Übersteigt den Gruppenspeicher und kann nicht
 verschoben werden."
 1202,,"Questo eliminerebbe tutti i Digimon dal
@@ -154,8 +153,8 @@ scansione. [d0]: [n0] % => [4[n1] %]","已回復為掃描數據
 [d0]：[n0]％⇒[4[n1]％]",,"스캔 데이터로 되돌렸습니다.
 [d0]：[n0]％⇒[4[n1]％]","In Scandaten umgewandelt.
 [d0]: [n0] % =>[4[n1] %]"
-1207,,"Il limite di spazio di archiviazione del gruppo è stato superato.
-Ridurre i requisiti di spazio di archiviazione del gruppo.","超過隊伍上限
+1207,,"Il limite di memoria di archiviazione del gruppo è stato superato.
+Ridurre i requisiti di memoria di archiviazione del gruppo.","超過隊伍上限
 請減少隊伍的消耗容量",,"파티 메모리를 초과했습니다.
 파티의 소비 메모리를 줄여주세요.","Der Gruppenspeicher wurde überschritten.
 Bitte reduziere den Speicherbedarf der Gruppe."
@@ -261,7 +260,7 @@ empfangen."
 2906,,Connessione con l'avversario persa.,連線中斷,,대전 상대에 의해 통신이 끊어졌습니다.,Verbindung zum Gegner getrennt.
 2907,,Si è verificato un errore di connessione.,連線錯誤,,통신 에러가 발생했습니다.,Es ist ein Verbindungsfehler aufgetreten.
 2908,,"Il limite di archiviazione del gruppo è stato superato.
-Ridurre lo spazio di archiviazione del gruppo a un massimo di 100.","已超過隊伍上限。
+Ridurre lo memoria di archiviazione del gruppo a un massimo di 100.","已超過隊伍上限。
 請將隊伍上限減少至100以下。",,"파티 메모리가 초과되었습니다.
 파티 메모리를 100이하로 줄여주세요.","Der Gruppenspeicher wurde überschritten. Bitte
 reduziere den Gruppenspeicher auf maximal 100."
@@ -665,10 +664,10 @@ noch einen anfangen."
 6003,,"Inizio dell'indagine:
 [d0]!",開始[d0]的委託！,,[d0]의 의뢰 개시!,Ermittlungsbeginn: [d0]!
 6004,,"""[d0]""
-fatto! Fai rapporto all'ATL!","[d0]的委託完成！
+fatto! Fai rapporto all'BBS!","[d0]的委託完成！
 上BBS報告委託完成吧！",,"[d0]의 의뢰 완료!
 BBS에서 의뢰 완료를 보고합시다!","„[d0]“ erledigt!
-Berichte davon an der ATL!"
+Berichte davon an der BBS!"
 6100,,"Questo set è già stato registrato. Elimina
 prima questo gruppo o seleziona un set gratuito.","這設定已進行登錄。
 請刪除隊伍。",,"이 세트는 이미 등록되어 있습니다.
