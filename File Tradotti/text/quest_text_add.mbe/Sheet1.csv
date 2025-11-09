@@ -92,9 +92,9 @@ könnte uns wirklich helfen."
 94,,Chiedi a Erika da che parte,跟艾莉卡討論要幫助哪邊,,어느 쪽에 협력할지 에리카와 상의하자.,Erikas Seite erfragen.
 95,,Vai al forum degli hacker,前往駭客討論區,,해커 포럼으로 향하자.,Geh zum Hackerforum.
 96,,Decidi da che parte stare,決定要幫助那邊,,어느 쪽에 협력할지 결정하자.,Entscheide dich.
-100,,Signor Navit,「NAVIT」,,「내빗씨」,Navit-san
+100,,Sig. Navit,「NAVIT」,,「내빗씨」,Navit-san
 101,,V.P. Alba Dorata,黃金黎明團-副團長-,,황금 여명회 부단장,V.P. Golden Dawn
-102,,"Trova il signor Navit, la persona misteriosa
+102,,"Trova il Sig. Navit, la persona misteriosa
 che appare a Ikebukuro, secondo le voci!","請你找出最近到處流傳，
 在池袋出沒的神秘角色「NAVIT」吧！",,"최근 거리에서 이케부쿠로에 출몰하는 소문의 수수께끼의
 마스코트 캐릭터 ""내빗씨""를 찾아주세요!","Finde den mysteriösen Navit-san in
@@ -103,15 +103,15 @@ Ikebukuro, durch die Gerüchte!"
 104,,Leggenda della città!,都市傳說來啦！,,도시 전설 떴다~!,Stadtlegende!
 105,,Nonamemon,無名獸,,이름없는몬,Inkognitomon
 106,,"Cos'è? È
-un'imitazione del signor Navit?",那啥鬼啊？　不是NAVIT吧？,,뭐야 그거? 내빗군을 잘못 쓴 거잖아?,"Was ist das? Ist das eine
+un'imitazione del Sig. Navit?",那啥鬼啊？　不是NAVIT吧？,,뭐야 그거? 내빗군을 잘못 쓴 거잖아?,"Was ist das? Ist das eine
 Fälschung von Herr Navit?"
 110,,Accettò il caso misterioso.,接下神秘委託,,수수께끼의 의뢰를 받았다.,Den mysteriösen Fall angenommen.
-111,,Raccogli dati sul signor Navit a Ikebukuro.,在池袋收集NAVIT的情報,,이케부쿠로에서 내빗씨에 대해 탐문을 하자.,Daten zu Navit-san in Ikebukuro.
+111,,Raccogli dati sul Sig. Navit a Ikebukuro.,在池袋收集NAVIT的情報,,이케부쿠로에서 내빗씨에 대해 탐문을 하자.,Daten zu Navit-san in Ikebukuro.
 112,,Dirigetevi nel luogo in cui si trovavano i testimoni.,前往有目擊情報的場所,,목격 정보가 있던 장소로 향하자.,"Gehe dorthin, wo die Zeugen waren."
 113,,Tuffati in Hudie!,逃進hudie！,,후디에로 도망치자!,Schnell zu Hudie!
 114,,Ascolta Inoden Occult!,向井之電靈異研究社打聽目擊情報,,이노덴 오컬트 연구부에게 목격정보를 들어보자.,Inoden-Club anhören!
 115,,Dirigetevi nel luogo in cui si trovavano i testimoni.,前往有目擊情報的遊樂中心,,목격정보가 있던 게임 센터로 향하자.,"Gehe dorthin, wo die Zeugen waren."
-120,,Il signor Navit ritorna!,「NAVIT」之夜,,「내빗씨」리턴즈,Navit-san kehrt zurück!
+120,,Il Sig. Navit ritorna!,「NAVIT」之夜,,「내빗씨」리턴즈,Navit-san kehrt zurück!
 121,,Data di Makiko,伊達真希子,,다테 마키코,Makiko Date
 122,,"C'è un problema a Shinjuku. 
 Dovremmo indagare sotto copertura. 
@@ -123,12 +123,12 @@ Mi aiuti? ","新宿好像有很可怕的傢伙在
 Wir sollten verdeckt ermitteln.
 Hilfst du mir dabei?"
 130,,Unisciti al cliente a Shinjuku.,在新宿跟委託人會合,,신주쿠에서 의뢰인과 합류하자.,Geh zum Klienten in Shinjuku.
-131,,Tocca l'immobile signor Navit.,接觸無法行動的NAVIT,,움직이지 않는 내빗씨에게 접촉하자.,Berühre den unbeweglichen Navit-san.
-132,,Raccogliere dati sul fuggitivo signor Navit.,收集逃走的NAVIT的情報,,도망친 내빗씨에 대해 탐문을 하자.,Daten zum flüchtigen Navit-san.
+131,,Tocca l'immobile Sig. Navit.,接觸無法行動的NAVIT,,움직이지 않는 내빗씨에게 접촉하자.,Berühre den unbeweglichen Navit-san.
+132,,Raccogliere dati sul fuggitivo Sig. Navit.,收集逃走的NAVIT的情報,,도망친 내빗씨에 대해 탐문을 하자.,Daten zum flüchtigen Navit-san.
 133,,Dirigetevi nel luogo in cui si trovavano i testimoni.,前往有目擊情報的場所,,목격 정보가 있던 장소로 향하자.,"Gehe dorthin, wo die Zeugen waren."
-140,,Signor Navit dei morti,「NAVIT」活屍,,「내빗씨」오브 더 데드,Navit-san des Todes
+140,,Sig. Navit dei morti,「NAVIT」活屍,,「내빗씨」오브 더 데드,Navit-san des Todes
 141,,V.P. Alba Dorata,黃金黎明團-副團長-,,황금 여명회 부단장,V.P. Golden Dawn
-142,,"Hai già indagato sul signor Navit, ma
+142,,"Hai già indagato sul Sig. Navit, ma
 ora sappiamo che è al Nakano BW!
 Fermalo! Il capo lo chiede, quindi per favore!","之前委託調查的神秘吉祥物“NAVIT”
 這次有出現在中野的情報！
@@ -139,7 +139,7 @@ Spur, aber jetzt ist er im Broadway!
 Halte ihn auf! Der Boss bittet dich!"
 143,,Takkun,小拓,,탓군,Takkun
 144,,"Ho visto entrare il
-signor Navit Shinjuku! Allarmante!","我有在新宿看到NAVIT喔
+Sig. Navit Shinjuku! Allarmante!","我有在新宿看到NAVIT喔
 超可怕的啦",,"내빗씨라면 신주쿠에서 봤는데
 엄청 무서웠어","Ich habe Navit-san
 in Shinjuku gesehen!"
@@ -153,7 +153,7 @@ als furchterregend."
 151,,"Raccogliere i dati dei testimoni a Nakano BW, 1F.",在中野BW1F蒐集NAVIT的目擊情報,,나카노BW 1F에서 목격정보를 모으자.,"Befrage Zeugen in Broadway, 1. St."
 152,,"Raccogliere dati sui testimoni a Nakano BW, 3F.",在中野BW3F蒐集NAVIT的目擊情報,,나카노BW 3F에서 내빗씨의 목격정보를 모으자.,"Befrage Zeugen in Broadway, 3. St."
 153,,"Raccogliere dati sui testimoni a Nakano BW, 4F.",在中野BW4F蒐集NAVIT的目擊情報,,나카노BW 4F에서 목격정보를 모으자.,"Befrage Zeugen in Broadway, 4. St."
-154,,Inseguire il fuggitivo signor Navit.,追上逃走的NAVIT,,도망친 내빗씨를 쫓아가자.,Jage den flüchtigen Navit-san.
+154,,Inseguire il fuggitivo Sig. Navit.,追上逃走的NAVIT,,도망친 내빗씨를 쫓아가자.,Jage den flüchtigen Navit-san.
 155,,Data di iscrizione a Ikebukuro.,在池袋跟伊達小姐會合,,이케부쿠로에서 다테 마키코와 합류하자.,Gehe zu Date in Ikebukuro.
 160,,Un sorriso prezioso,那份笑臉便是寶物,,그 미소가 보물,Ein kostbares Lächeln
 161,,Mina,米娜,,미나,Mina
@@ -470,7 +470,7 @@ worauf er es abgesehen hat?"
 530,,Cassa controllata dall'acquario.,確認來自水族館的委託,,수족관에서의 의뢰를 확인하자.,Fall des Aquariums geprüft.
 531,,Sconfiggi Minamo Takitsuse,打倒瀧津瀨水面,,타키츠세 미나모를 쓰러뜨리자.,Besiege Minamo Takitsuse.
 532,,Ottieni i dettagli da Ryuji,聽龍司說明事件,,류지에게서 사건의 이야기를 듣자.,Erfahre Näheres von Ryuji.
-533,,Utilizza la porta sul retro dell'Acquario in EDEN.,從EDEN前往水族館的後門,,EDEN을 통해 수족관의 백도어로 향하자.,Geh über EDEN zur Aquariumshintertür.
+533,,Utilizza la backdoor dell'Acquario in EDEN.,從EDEN前往水族館的後門,,EDEN을 통해 수족관의 백도어로 향하자.,Geh über EDEN zur Aquariumshintertür.
 540,,Biancaneve e i 10.000 nani,白雪公主與一萬名小矮人,,백설 공주와 1만 명의 난쟁이,Schneewittchen und die 10 000 Zwerge
 541,,Matayoshi,又吉,,마타요시,Matayoshi
 542,,"C'è un hackeraggio di massa degli

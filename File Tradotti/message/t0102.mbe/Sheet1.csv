@@ -1,39 +1,38 @@
 ﻿ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
-1000,4352,,"Perché lottare senza senso? È meglio fuggire.
-E questo vale per tutte le battaglie di, sai!","與其勉強應戰，視情況逃跑也是很重要的。
+1000,4352,,"Perché combattere inutilmente? A volte è meglio fuggire.
+E questo vale per ogni tipo di battaglia, sai!","與其勉強應戰，視情況逃跑也是很重要的。
 這無論在何種戰鬥都可以通用哦。",,"무리해서 싸우기 보다, 상황에 따라 도망치는 것도 중요해
 이건, 그 어떤 싸움에도 해당되는 얘기지","Warum soll man sich sinnlos abrackern? Es ist doch
 besser zu fliehen. Und das gilt für alle
 Kämpfe, weißt du!"
-1100,4353,,"Non è vero! E non puoi semplicemente
-scappare dalle presentazioni aziendali.
-Verrai licenziato.","話雖如此，你也不能逃避公司的簡報會議吧。
+1100,4353,,"Non dire sciocchezze! Non puoi semplicemente
+scappare da una presentazione aziendale.
+Finirai per essere licenziato.","話雖如此，你也不能逃避公司的簡報會議吧。
 小心被開除啊。",,"그렇다고 해서 회사의 프레젠테이션에서 도망치면 안 되지
 너, 그러다 짤린다","Ist es nicht! Und du kannst nicht einfach vor
 Firmenpräsentationen davonlaufen. Du wirst
 noch gefeuert."
-1200,4354,,"Aspetta un minuto. Non sono in
-vendita oggi i biglietti per il grande concerto?","欸！
+1200,4354,,"Aspetta un minuto. I biglietti per quel
+concerto non escono oggi?","欸！
 那個演唱會的門票不是今天開賣嗎？",,"저기, 잠깐!
 그 라이브의 티켓, 오늘 판매하는 거 아니었나?","Moment mal. Gehen die Tickets für das
 große Konzert nicht heute in den Verkauf?"
-1201,4354,,"...Allora, cosa ci fai ancora qui impalato?
-Dovresti collegarti e metterti davanti a quella biglietteria.","那你怎麼還呆站在這裡啊？
+1201,4354,,"...E allora che ci fai ancora qui impalato?
+Dovresti già essere online a fare la fila davanti alla biglietteria.","那你怎麼還呆站在這裡啊？
 不是應該早就登入排隊等買票了嗎？",,"…그럼, 넌 왜 우두커니 서 있는 거야?
 진작에 로그인해서, 부스 앞에 줄을 서야
 하는 거 아니야?","Was stehst du dann hier noch rum?
 Du solltest dich anmelden und vor der
 Verkaufsstelle stehen."
-1202,4354,,"Allora? Questi biglietti non si prenderanno da soli.
-...Dopotutto, non vedevo l'ora di andarci con te.","那你快點去買票啦！
+1202,4354,,"Allora? Quei biglietti non si comprano da soli.
+...E poi, non vedevo l'ora di andarci con te.","那你快點去買票啦！
 ……人家可是一直很期待能跟你一起去聽演唱會的耶。",,"그럼, 빨리 가서 얻어 오라구
 …너랑 같이 갈 수 있다고, 줄곧 기대하고
 있었으니까","Na? Diese Tickets kaufen sich nicht von allein.
 ... Ich habe mich schon so darauf gefreut,
 mit dir hinzugehen."
-1300,4355,,"Oh, eh, è così? Mi ricordo di qualcosa
-riguardo una vendita limitata in corso alla
-biglietteria EDEN...","啊，對、對哦……
+1300,4355,,"Ah, giusto... Mi ricordo che parlavano di una vendita
+limitata alla biglietteria speciale di EDEN...","啊，對、對哦……
 我記得門票是在EDEN的特設售票處進行限量販售的對吧……",,"아, 그, 그랬죠…
 분명, EDEN의 특설 티켓 부스에서 한정 판매를 하겠다고
 했었죠…","Ach, äh, wirklich? Da fällt mir ein, es sollte
@@ -41,11 +40,11 @@ einen Vorverkauf geben, bei der Verkaufsstelle
 in EDEN ..."
 1301,4355,,"S-sì, hai ragione come sempre...",對、對啊……應該是那樣沒錯……,,"그, 그러네요… 저도 그렇다고 생각해요…","J-Ja, du hast recht wie immer ..."
 1400,4464,,"La metropolitana di Shinjuku?
-È proprio giù per quelle scale.",新宿的地下？　哦，你只要從那裡的樓梯往下走就會到了。,,"신주쿠의 지하? 아, 저쪽 계단으로 내려가면 갈 수 있는데…","Die U-Bahnstation für Shinjuku?
+Basta scendere quelle scale.",新宿的地下？　哦，你只要從那裡的樓梯往下走就會到了。,,"신주쿠의 지하? 아, 저쪽 계단으로 내려가면 갈 수 있는데…","Die U-Bahnstation für Shinjuku?
 Die ist gleich die Treppe da runter."
-1500,4465,,"Tesoro, possiamo fermarci alla libreria?
-Voglio comprare un nuovo libro di cucina così posso
-finalmente prepararti qualcosa di buono.","欸，親愛的，可以繞去書店一下嗎？　我想買幾本新的料理書。
+1500,4465,,"Tesoro, possiamo fare un salto in libreria?
+Voglio comprare un nuovo libro di cucina per prepararti
+qualcosa di ancora più buono.","欸，親愛的，可以繞去書店一下嗎？　我想買幾本新的料理書。
 人家想做更好吃的菜給你吃……",,"저기, 서점에 들려도 돼? 새로운 요리책이 사고 싶어
 당신에게 좀 더 맛있는 밥을 만들어 주고 싶으니까…","Schatz, können wir in den Buchladen gehen?
 Ich möchte ein neues Kochbuch, damit ich dir
@@ -63,14 +62,14 @@ Chissà se succederà di nuovo?","我朋友說她之前在這裡看見了奇怪�
 Verrücktes gesehen, aber sie klang ganz verwirrt.
 Ob es wohl noch mal passiert?"
 1800,4363,,"Ho visto qualcosa di incredibile qui...
-In realtà, quando l'ho detto a mia nuora,
+Ma quando l'ho detto a mia nuora,
 non mi ha creduto...","我曾經在這裡看見了非常荒唐的東西……
 但是，就算我告訴媳婦，她也完全不相信我說的話……",,"여기서 내가, 터무니없는 걸 봐 버렸단다…
 며느리에게 말해도, 전혀 믿어 주질 않는데…","Ich habe hier etwas Unglaubliches gesehen ...
 Und als ich es meiner Schwiegertochter erzählt
 habe, hat sie mir nicht geglaubt ..."
-1801,4363,,"Ho visto una detective travestita da agente di polizia...
-E, per di più, era una vera teppista...","以前有位刑警會“扮成＂女警察……
+1801,4363,,"Ho visto una detective ""travestita"" da poliziotta...
+E, per di più, si comportava come una vera teppista...","以前有位刑警會“扮成＂女警察……
 而且那個模樣……跟“不良少年＂沒什麼兩樣……",,"여경 ""코스프레""를 한 형사 씨가 있었단다…
 게다가, 그게… 완전히 ""양아치""였단다…","Ich habe eine Kommissarin gesehen, die als
 Streifenpolizistin verkleidet war.

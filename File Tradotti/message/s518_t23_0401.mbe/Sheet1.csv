@@ -2,15 +2,15 @@ ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
 1,2020,,...!,…………！,,…………!,...!
 2,3012,,Cosa ci fai qui?!,你是……！　你來這幹什麼！,,당신…! 뭐 하러 온 겁니꺼!,Was machst du denn hier?!
 3,3012,,Ti ha mandato Yuugo?,YUGO大人委託你來幫忙……？,,유고 씨의 의뢰로 도와주러 왔다…?,Yuugo hat dich geschickt?
-4,3012,,Che cosa c'è che non va in lui? Posso occuparmi io stesso di questi farabutti.,"真是的……真是受不了那個人……
+4,3012,,"Ma cosa gli prende...
+Con gentaglia simile me la vedo da sola.","真是的……真是受不了那個人……
 這種程度的垃圾，我一個人就夠了啊……",,"정말… 어디까지 심술궂은 사람인지 그 사람은…
 이 정도의 쓰레기는 내 혼자서도 충분한데…","Was hat er denn? Mit diesem Abschaum werde ich
 allein fertig."
 5,7185,,Chi state chiamando feccia?,……妳、說、誰、是、垃圾啊？,,……누 구 더 러 쓰레기라고요?,Wen bezeichnest du hier als Abschaum?
 6,2020,,...!!!,……！！,,……!!,...!!!
-7,3012,,Questo è il leader di Dreamin'.,這傢伙就是Dreamin的隊長。,,이 녀석이 드리밍의 리더이지예,Das ist die Anführerin von Sandman.
-8,7186,,"Non credo tu colga appieno la serietà
-della situazione.",妳這傢伙……真的理解狀況嗎？,,너… 상황을 이해하고 있는 거니?,"Ich glaube, du verstehst nicht ganz, wie ernst
+7,3012,,È lei il capo dei Dreamin.,這傢伙就是Dreamin的隊長。,,이 녀석이 드리밍의 리더이지예,Das ist die Anführerin von Sandman.
+8,7186,,"Temo che tu non colga appieno la gravità della situazione.",妳這傢伙……真的理解狀況嗎？,,너… 상황을 이해하고 있는 거니?,"Ich glaube, du verstehst nicht ganz, wie ernst
 die Situation ist."
 9,7186,,"Sei sul nostro territorio, e ti abbiamo circondato.
 Non può aiutarti ora.","獨自一人跑進我的基地，
@@ -19,29 +19,28 @@ Non può aiutarti ora.","獨自一人跑進我的基地，
 이렇게 나와 동료들에게 둘러싸인 건 당신 쪽이야.
 같은 편이 한 명 늘었다고 해도 그쪽이 불리한 건 변하지 않아.","Du bist in unserem Revier und wir haben dich
 umzingelt. Er kann dir jetzt nicht helfen."
-10,7186,,"Vattene.
-Scappa via con la coda tra le gambe.","趕快夾著尾巴逃走吧，
+10,7186,,"Vattene con la coda tra le gambe, stupida hacker.","趕快夾著尾巴逃走吧，
 笨笨的駭客小姐。",,"잽싸게 꼬리를 말고 도망치지 그래.
 바보 해커 씨?","Hau ab.
 Zieh besser schnell Leine."
-11,7186,,"Sono un adulto ragionevole. Sono disposto a soprassedere
-questa volta al comportamento maleducato di voi ragazzi.","我可是溫柔的大人……現在的話，
+11,7186,,"Sono un'adulta ragionevole. Soprassederò sul vostro
+comportamento maleducato, per questa volta.","我可是溫柔的大人……現在的話，
 我還能放過個不懂事情輕重的小屁孩喔。",,"나는 친절한 어른이니까… 지금이라면 연하의 장난 하나 정돈
 눈감아 줄 수 있는데?","Ich bin eine vernünftige Erwachsene. Ich bin
 bereit, über das unhöfliche Verhalten von
 euch Jugendlichen dieses Mal hinwegzusehen."
 12,3012,,Non mi fai paura.,妳還真會說啊……,,잘도 지껄이는구만요…,Mir machst du keine Angst.
-13,3012,,Sono venuto qui da solo.,我可是故意一個人來的。,,내는 일부러 혼자서 온 겁니다,Ich bin ganz allein hergekommen.
-14,3012,,Volevo farmi perdonare dal gruppo.,"部下們受你照顧的這份情，
+13,3012,,Sono venuta qui da sola.,我可是故意一個人來的。,,내는 일부러 혼자서 온 겁니다,Ich bin ganz allein hergekommen.
+14,3012,,"Volevo saldare di persona il debito per quello che hai fatto ai miei compagni.","部下們受你照顧的這份情，
 我想自己解決啊……",,"부하를 귀여워해준 빚을
 자기 손으로 직접 받아내고 싶었으니까…",Ich wollte etwas wiedergutmachen.
-15,3012,,"Non ho nemmeno chiamato Yuugo. Posso facilmente gestire
-qualche feccia come voi!","不需要請YUGO大人出來……
+15,3012,,"Non c'è bisogno di Yuugo. Della feccia come voi
+posso occuparmene da solo!","不需要請YUGO大人出來……
 像妳這種人渣……我一個人來應付就夠了！",,"유고 씨를 부를 필요도 없지…
 당신들 같은 인간 쓰레기 상대는… 혼자서도 충분해!","Ich habe nicht mal Yuugo Bescheid gesagt. Mit
 Abschaum wie euch werde ich allein fertig!"
 16,7186,,Parli con tono spavaldo...,哎呀，還真會說大話啊……,,"어머, 멋진 말을 하는걸……",Große Worte ...
-17,7186,,Ma cambierai idea ben presto.,"但是那種台詞，
+17,7186,,Ma presto cambierai idea.,"但是那種台詞，
 還是先打破這“夢境”再來說吧……",,"하지만 그런 대사는
 이 ""꿈""을 깨고 나서 해주렴…","Aber dir werden die dicken Töne schon noch
 vergehen."
@@ -52,7 +51,7 @@ vergehen."
 20,3012,,Urgh...,嗚……嗚嗚……,,우……우우……,Argh ...
 21,2020,,?!,！？,,!?,?!
 22,3012,,"Zzz... Oh... Yuugo...
-Non è appropriato...","……啊嗯……YUGO……大人
+Non dovremmo...","……啊嗯……YUGO……大人
 不行啦，那樣子……",,"……음냐……유고…씨♥
 안 돼요, 그런 거…♥","Zzz ... Ach ... Yuugo ...
 Das sollten wir nicht tun ..."
@@ -70,8 +69,8 @@ Das macht mich ... so glücklich ..."
  이건 아까 그 해커들과 똑같아!)","(Sie verhält sich seltsam!)
 (Genau wie die Hacker vorhin!)"
 27,2020,,(Oh no!),（難道──）,,(설마――),(Oh nein!)
-28,7186,,"Ecco fatto. I bambini diventano così scontrosi quando non
-dormono abbastanza.","好啦……你也快點睡吧。
+28,7186,,"Ecco fatto. I bambini diventano così scontrosi quando
+non dormono abbastanza.","好啦……你也快點睡吧。
 好孩子該睡覺了喔……",,"자아… 너도 잠들도록 해.
 착한 아이는 잘 시간이야……","So. Kinder werden so gereizt, wenn sie nicht
 genug schlafen."
@@ -112,7 +111,7 @@ Du bist nicht Erika!"
 너는 언제나 상냥하네","Hihi, danke. Du bist so lieb."
 43,3045,,Ecco perché so che posso farla franca.,所以人家才會對你撒嬌喔。,,그래서 어리광을 부리게 돼,"Darum weiß ich, dass ich mir das erlauben kann."
 44,3045,,Ma...sono così solo con te.,但是啊……人家只有對你才會這樣喔。,,하지만…… 이런 건 너한테만 그러는 거야,Aber ... so bin ich nur mit dir.
-45,3045,,Cosa? Chi altro potrei essere?,"……？　為什麼呢？
+45,3045,,Cosa? E chi altro dovrei essere?,"……？　為什麼呢？
 我跟平常的艾莉卡沒什麼不同啊？",,"……?  어째서?
 나는 평소의 에리카인데?",Was? So bin ich immer?
 46,3045,,"Io sono la tua unica e sola Erika, giusto?",我是只屬於你的……艾莉卡對吧？,,너만의…… 에리카잖아?,Deine unvergleichliche Erika?
@@ -138,8 +137,7 @@ Und damit meine ich alles ..."
 剛才真是危險呢。",,"안녕, 눈을 떴어?
 위험했네",Bist du jetzt wach? Das war knapp.
 58,3012,,Yuugo... Perché sei qui?,Y……YUGO大人，你為什麼會在這裡……？,,"우… 유고 씨, 어떻게 여기에…?",Yuugo ... Was machst du hier?
-59,3001,,"Hai trovato il nascondiglio, ma sembra che le cose
-siano diventate troppo difficili per te.","菲，多虧了妳衝進基地啊，
+59,3001,,"Sei entrata nel loro covo, ma sei stata un po' troppo spericolata.","菲，多虧了妳衝進基地啊，
 但妳有點太亂來了。",,"네가 아지트에 돌입해준 덕분이야, 페이.
 하지만 너무 무모했던 것 같네","Du hast das Versteck gefunden, aber anscheinend
 hast du dich etwas übernommen."
@@ -149,10 +147,10 @@ Ci preoccupiamo tutti per te.","妳那搶先行動的習慣還真是困擾。
 걱정하는 동료의 입장도 생각해줘","Du stürzt dich immer in alles hinein, ohne
 nachzudenken. Wir machen uns alle Sorgen um dich."
 61,3012,,Yu... Yuugo...,Y、YUGO大人……☆,,"유, 유고 씨…♥",Yu... Yuugo ...
-62,7186,,Sono Yuugo da Zaxon!,Zaxon的……YUGO！,,잭슨의… 유고!,Yuugo von Zaxon!
+62,7186,,Yuugo di Zaxon!,Zaxon的……YUGO！,,잭슨의… 유고!,Yuugo von Zaxon!
 63,3001,,Devi essere il leader di Dreamin'.,……妳就是「Dreamin」的隊長吧。,,…네가「드리밍」의 리더로군,Du musst die Anführerin von Sandman sein.
-64,3001,,"I tuoi crimini finiscono qui. Ti farò pagare per
-aver rovinato la sacralità di EDEN.","你們的惡行就到此為止了，
+64,3001,,"I tuoi crimini finiscono qui. Pagherai per aver
+profanato il paradiso degli hacker.","你們的惡行就到此為止了，
 妳就在這償還在我們駭客樂園
 肆意妄為的罪孽吧……",,"너희들의 악행도 여기까지다.
 우리들 해커의 낙원에서 제멋대로 군 죄.
@@ -165,20 +163,20 @@ personale?","……哎呀哎呀，所以你是因為自己的遊樂場
 화가 나서 항의하러 온 거니?","Du bist also wütend, weil wir uns an deinem
 persönlichen Sandkasten zu schaffen gemacht
 haben?"
-66,7186,,"E vedo che ti sei portato dietro tanti piccoli amici.
-Non dovresti sottovalutare i grandi, sai?","還帶來了一堆朋友……真是了不起呢。
+66,7186,,"E ti sei portato anche degli amichetti...
+Non dovresti sottovalutare gli adulti, sai?","還帶來了一堆朋友……真是了不起呢。
 但是，你是不是太小看大人了呢…？",,"친구들까지 잔뜩 끌고… 훌륭한걸.
 하지만 어른을 너무 얕보는 거 아니니…?","Wie ich sehe, hast du viele kleine Freunde
 mitgebracht. Du solltest die Erwachsenen aber nicht
 unterschätzen, weißt du?"
 67,1584,,...,…………,,…………,...
-68,3001,,"Phantomon... Capisco. Quindi sei tu quello dietro i
-sogni ipnotici.","死神獸……
+68,3001,,"Phantomon... Capisco. Quindi sei tu quello
+dietro i sogni ipnotici.","死神獸……
 原來……就是你用催眠讓人們作夢的啊。",,"팬텀몬……
 그런가… 네가 최면으로 꿈을 보여준 건가","Phantomon ... Ich verstehe. Du steckst also hinter
 den hypnotischen Träumen."
-69,3001,,"Alterate la loro coscienza e poi rubate i dettagli del loro account
-e le password.","讓目標的意識產生動搖，
+69,3001,,"Alterate la loro coscienza e poi rubate i dettagli
+del loro account e le password.","讓目標的意識產生動搖，
 用這方法來問出帳號資訊以及密碼。",,"상대의 의식을 흔들어서 계정 정보나
 패스코드를 알아낸 거군","Du veränderst das Bewusstsein deiner Opfer und
 stiehlst dann ihre Kontodaten und Passwörter."
@@ -193,11 +191,10 @@ Wie hast du seinen Code geändert?!"
 73,7186,,"Non importa quanti ragazzini siate,
 non siete una sfida per noi. Ve lo farò vedere!","就讓你們知道……
 不管來了多少小孩，都不會是我們的對手吧！",,"어린애가 얼마나 모이든 우리들의 적이 아니라는 걸…
-뼈저리게 깨닫게 해주지!","Es ist egal, wie viel von euch Gören hier 
+뼈저리게 깨닫게 해주지!","Es ist egal, wie viel von euch Gören hier
 sind, mit uns könnt ihr es nicht aufnehmen.
 Das werde ich euch beweisen!"
-74,3001,,"Dopotutto, è compito di un adulto insegnare ai bambini le
-buone maniere.",這麼輕視小孩子，妳也稱不上真正的大人吧？,,"어린애에게 분별력을 보여주는 게 제대로 된
+74,3001,,"Una vera adulta dovrebbe dare il buon esempio ai più piccoli, non credi?",這麼輕視小孩子，妳也稱不上真正的大人吧？,,"어린애에게 분별력을 보여주는 게 제대로 된
 어른이 아닐까?","Schließlich ist es die Aufgabe eines Erwachsenen,
 Kindern gute Manieren beizubringen."
 75,3001,,Non sei altro che un cancro nel Cyberspazio.,你們……是蔓延在這電腦空間的癌症。,,너희들은……이 전뇌공간에 만연한 암 그 자체다,Ihr seid nichts anderes als Krebs im Cyberspace.

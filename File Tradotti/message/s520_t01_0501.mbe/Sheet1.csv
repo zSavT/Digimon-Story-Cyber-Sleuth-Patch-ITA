@@ -1,13 +1,13 @@
 ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
-1,7162,,Eccoti. Qui dovrebbe andare bene.,"到了呢。
+1,7162,,"Bene, siamo arrivati. Qui dovrebbe andare bene.","到了呢。
 接下來，就在這附近做吧。",,"왔나.
 그럼 다음엔 이 부근으로 하자",Da wären wir. Hier sollte es klappen.
-2,7162,,Memorizza quello che sto per dirti.,現在開始要記下來我所說的話喔。,,지금부터 내가 하는 말을 잘 기억하도록,"Merk dir, was ich gleich sagen werde."
+2,7162,,Ora memorizza bene quello che sto per dirti.,現在開始要記下來我所說的話喔。,,지금부터 내가 하는 말을 잘 기억하도록,"Merk dir, was ich gleich sagen werde."
 3,7162,,Okay...,那麼――,,그러면――,Okay ...
 4,7162,,Watagului tahalunafu situlufu...,哇他估陸伊　他哈魯那呼　西土魯夫……,,와타구루이 타바루나후 시토우루후…,Watagului tahalunafu situlufu ...
 5,2020,,?!,！？！？,,!?!?,?!
 6,7162,,Ha ye luji fajil mongun.,哈　阿欸──　魯基　等於　發基魯　夢棍,,하 아에 루지=파지루 몬근,Haje luji fajil mongun.
-7,7162,,Questo è tutto.,……以上,,……이상이다,Das war alles.
+7,7162,,È tutto.,……以上,,……이상이다,Das war alles.
 8,2020,,...,…………,,…………,...
 9,7162,,Non sei riuscito a memorizzarlo?,記不起來嗎？,,기억하지 못했나?,Du konntest es dir nicht merken?
 10,7162,,"Era ""Watagului tahalunafu situlufu.
@@ -16,8 +16,9 @@ Ha ye luji fajil mongun.""","「哇他估陸伊　他哈魯那呼　西土魯夫
 是這樣喔。",,"와타구루이 타바루나후 시토우루후…
 하 아에 루지=파지루 몬근……이다.","Es war „Watagului tahalunafu situlufu.
 Haje luji fajil mongun.“"
-11,7162,,Non fraintendermi.,希望你可以一字不漏的說出來。,,빠뜨리지 말고 부탁한다,Sag es bloß nicht falsch.
-12,7162,,Ti osserverò da lontano. Dillo abbastanza forte da farmi sentire.,"我會離你遠一點觀察，
+11,7162,,Non sbagliare una parola.,希望你可以一字不漏的說出來。,,빠뜨리지 말고 부탁한다,Sag es bloß nicht falsch.
+12,7162,,"Ti osserverò da una certa distanza.
+Parla a voce abbastanza alta da farti sentire fin qui.","我會離你遠一點觀察，
 聲音要大到到那裡都要能聽得見喔。",,"나는 조금 떨어져서 보고 있지.
 거기까지 들리도록 큰 목소리로 부탁한다","Ich schaue aus der Entfernung zu. Sag es laut
 genug, damit ich es höre."
@@ -32,7 +33,7 @@ Watatatai dahalufunu sidulubu...","哇他估陸伊　他哈魯那呼　西土魯
 와타타타이 다하루나후 지드우루푸…","Watagului tahalunafu situlufu ...
 Watatalui nahalufuna natulufu ...
 Watatatai dahalufunu sidulubu ..."
-16,7162,,Bene. Continua pure.,"答對了，很好！
+16,7162,,Esatto. Molto bene. Continua pure.,"答對了，很好！
 繼續吧。",,"좋아, 됐다.
 계속해줘",Schön. Und weiter.
 17,2020,,(Sembra che ci abbia preso!),（好像對了……！）,,(정답이었던 모양이다…!),(Das war also richtig!)
@@ -50,23 +51,23 @@ Haje luji fajil mongun.
 Zoje laji vajil sangun."
 22,7162,,Sbagliato. Riprova.,不對喔，再試一次吧！,,틀렸어. 다시 한번,Falsch. Versuch es noch mal.
 23,2020,,(Accidenti. Ho sbagliato.),（咒文好像唸錯了……）,,(주문이 틀렸던 모양이다…),(Mist. Das war falsch.)
-24,7162,,Buon lavoro.,嗯……非常棒……很好……直接繼續吧。,,흠… 그래… 좋아…… 그대로 계속해,Gut gemacht.
+24,7162,,Sì... ottimo lavoro... continua.,嗯……非常棒……很好……直接繼續吧。,,흠… 그래… 좋아…… 그대로 계속해,Gut gemacht.
 25,2020,,(Credo di aver indovinato.),（好像對了……！）,,(정답이었던 모양이다……),(Das war wohl richtig.)
 26,7162,,"Tutto finito. Ben fatto.
 Questa è la fine della mia indagine.","好，這樣就可以了。
 辛苦你了，這樣子調查就結束啦。",,"좋아, 이제 됐어.
 수고했군. 이걸로 조사는 종료다","So, fertig. Gute Arbeit.
 Damit ist meine Untersuchung beendet."
-27,7162,,"Guardando i risultati... Le letture qui sono
-decisamente anormali. Mi chiedo se qualcosa sta
-succedendo o sta per succedere.","就結果來看……這附近的數值，很明顯有異常。
+27,7162,,"Osservando i risultati... le letture in quest'area sono
+decisamente anomale. Chissà se qualcosa stia già accadendo,
+o se stia per accadere...","就結果來看……這附近的數值，很明顯有異常。
 是不是有什麼正在發生，或有什麼從此刻開始
 正要發生呢――",,"결과를 보면…… 이 부근의 수치는 명백하게 비정상이다.
 무언가가 일어나고 있는지, 앞으로 일어나게 될지――","Wenn ich mir die Ergebnisse anschaue ... sind die
 Werte hier definitiv ungewöhnlich. Ich frage mich,
 ob gerade etwas geschieht oder bevorsteht."
-28,7162,,"Hehe, è roba affascinante, merita sicuramente
-di essere approfondita. Meglio che mi muova.","呵呵、實在有趣。真是值得過來調查一趟，
+28,7162,,"Hehe, affascinante. Vale decisamente la pena approfondire.
+È il caso di muoversi.","呵呵、實在有趣。真是值得過來調查一趟，
 不馬上行動可不行呢。",,"후후, 실로 흥미롭군. 찾는 보람이 있다는 것이지.
 바로 움직여야겠어","Hehe, das ist faszinierend. Es lohnt sich, da
 weiter zu forschen. Ich muss los."
@@ -110,9 +111,8 @@ interferisce affatto con l'Onda Digitale.","也就是說……證明了數碼波
 被你的存在給干涉。",,"즉, 네가…… 너의 존재가 디지털 웨이브에는
 어떠한 간섭도 ""하지 않는다""고 증명해준 거지","Du hast heute gezeigt, dass deine Anwesenheit
 sich nicht auf die digitale Welle auswirkt."
-38,7162,,"Il modo più rapido sarebbe stato testarlo
-io stesso, ma non è molto pratico per me
-essere sia il soggetto che lo sperimentatore.","拿自己來測其實是最快的――
+38,7162,,"Il modo più rapido sarebbe stato fare da me, ma non è pratico
+per me essere sia la cavia che lo sperimentatore.","拿自己來測其實是最快的――
 但拿我自己來當受驗者，會有點不方便。",,"스스로 시도하는게 가장 수월하겠지만――
 나는 피실험체로는 좀 적합하지 않거든","Ein Eigentest wäre schneller gewesen, aber es ist
 nicht praktikabel, selbst das Forschungsobjekt
@@ -147,9 +147,8 @@ Qual è il tuo nome?!","所以說，大姐姐到底是何方神聖！？
 Wie heißt du?!"
 45,7162,,Non c'è bisogno di nomi.,呵，我不是什麼值得自報姓名的人物啊。,,"훗, 이름을 댈 정도의 사람은 아니야",Namen sind nicht nötig.
 46,7162,,Sono solo una umile detective.,……只是一個不太重要的偵探。,,"……그렇지, 그저 보잘것없는 탐정이라고 할까",Ich bin nur eine einfache Detektivin.
-47,7162,,"Come Cyber Detective, è mia missione raccogliere più
-informazioni possibili per scoprire la verità
-sugli eventi nel mondo reale e nel Cyberspazio.","取得既存的資訊後加以分析，面對現實與
+47,7162,,"Indagare su ogni fenomeno che si manifesta nel mondo reale e nel Cyberspazio
+per afferrare la verità... questa è la ""ricerca"" di un Cyber Detective.","取得既存的資訊後加以分析，面對現實與
 電腦空間中所發生的各種現象，盡全力的
 去追求真實……這就是電腦偵探的“探求＂。",,"기존의 정보를 받아 분석하고
 현실과 전뇌공간에서 일어나는 온갖 사상에 눈을 돌려

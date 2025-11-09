@@ -1,28 +1,27 @@
 ﻿ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
-0,4711,,"Non posso credere a quanti furti di account
-ci sono stati ultimamente.
-Dobbiamo mettere ordine in EDEN.","最近帳號狩獵好常發生啊，真是受夠了……
+0,4711,,"I furti di account sono aumentati a dismisura ultimamente.
+Dobbiamo riportare l'ordine in EDEN.","最近帳號狩獵好常發生啊，真是受夠了……
 EDEN的秩序必須由我們來守護。",,"최근 계정 사냥이 너무 많아서 두손 두발 들 정도야…
 EDEN의 질서는 우리가 지켜야만 해","Ich kann nicht glauben, wie viel Kontendiebstahl
 es in letzter Zeit gab. Wir müssen in EDEN für
 Ordnung sorgen."
-1,4710,,"Jude era una leggendaria squadra di hacker, ma è tutto finito ormai.
-Ora è tempo che Zaxon prenda il comando!","「Jude」是傳說級最強的駭客隊伍，
+1,4710,,"Jude era una squadra di hacker leggendaria, ma è tutto finito ormai.
+Ora è il momento che Zaxon prenda il comando!","「Jude」是傳說級最強的駭客隊伍，
 那也只不過是以前的事情了吧？　
 能夠刷新傳說的是我們「Zaxon」啦。",,"「쥬드」가 전설적인 최강 해커팀이었다는 건
 결국 과거의 이야기잖아? 그 전설을 덧칠한 것이
 우리「잭슨」이지","Gamma war ein legendäres Hackerteam, aber das ist
 nun vorbei. Jetzt wird es Zeit, dass Zaxon
 die Führung übernimmt!"
-100,4711,,"Tutti coloro che soffrono della sindrome
-di EDEN torneranno sicuramente.
-Perciò dobbiamo proteggere questo luogo.","患上EDEN症候群的同伴，一定某天會回來的。
+100,4711,,"I nostri compagni che soffrono della sindrome
+di EDEN un giorno torneranno.
+Per questo dobbiamo proteggere questo posto.","患上EDEN症候群的同伴，一定某天會回來的。
 所以，我們得保護好這個地方才行呀。",,"EDEN 증후군에 걸린 동료는 분명히 언젠가 돌아올 거야.
 그러니까 이 장소를 우리가 지켜야겠지","Alle, die am EDEN-Syndrom leiden, werden mit
 Sicherheit zurückkehren. Darum müssen wir diesen
 Ort schützen."
-101,4710,,"Non importa chi affrontiamo, Zaxon non sarà mai sconfitto.
-Questa è una battaglia a cui dobbiamo partecipare tutti.","不論其他隊伍的人怎麼找碴，
+101,4710,,"Non importa chi ci sfiderà, Zaxon non verrà mai sconfitto.
+Questa è la battaglia di noi che siamo rimasti.","不論其他隊伍的人怎麼找碴，
 我絕對不會讓Zaxon被擊垮。
 因為這是留下來的我們，屬於我們的戰役。",,"다른 팀이 얼마나 싸움을 걸더라도, 잭슨은
 절대로 깨지지 않아. 그것이 남은 우리들의 싸움이다","Egal, mit wem wir es aufnehmen, Zaxon wird nie
@@ -35,8 +34,8 @@ molti dei miei amici che sono finiti a Under Zero.","我負責在這裡把風，
 하지만, 언더 제로로 간 동료들 대부분은…","Seit ich hier das Kommando übernommen habe, gab es
 keine Probleme. Leider gilt das nicht für viele
 meiner Freunde, die zu Unter Null gegangen sind."
-201,4710,,"Ho sentito dire che è stata colpa di Kamishiro
-se i miei amici si sono ammalati di
+201,4710,,"Ho sentito che sono stati quelli di Kamishiro
+a far ammalare i nostri compagni della
 sindrome di EDEN a Under Zero.","我聽說了啊。在Under Zero裡，
 害同伴們變成EDEN症候群的人，
 就是神代企業的那群人吧？",,"들었어. 언더 제로에서 동료들을
@@ -58,9 +57,8 @@ Rede mitgerissen zu sein.)"
 301,2000,,(Cosa dovrei fare?),（……我該怎麼做才好？）,,(…나는 어떻게 하면 좋을까?),(Was soll ich tun?)
 302,2000,,...,………………,,………………,...
 303,2000,,(Dovrei prima tornare da Hudie.),（先回hudie好了）,,"(우선, 후디에로 돌아가자)",(Ich sollte erst mal zurück zu Hudie gehen.)
-304,2000,,"(Yuugo e Fei probabilmente sono andati a
-Kowloon per pattugliare.
-Credo che andrò anche io lì.)","（YUGO跟菲似乎都去Kowloon巡邏了，
+304,2000,,"(Yuugo e Fei dovrebbero essere a Kowloon di pattuglia.
+Credo che andrò a dare un'occhiata.)","（YUGO跟菲似乎都去Kowloon巡邏了，
 　先進去Kowloon裡看看好了……）",,"(유고와 페이는, 쿠롱을 순찰하러 간 듯하다.
  쿠롱 Lv.3으로 가보자…)","(Yuugo und Fei sind wohl nach Kowloon gegangen,
 um dort zu patrouillieren. Ich glaube,
@@ -70,8 +68,8 @@ preparativi per la distruzione dei Demons.","YUGO不在喔，
 他正忙著準備擊垮惡魔亂舞啊。",,"유고라면 없어.
 데몬즈를 쳐부수기 위한 준비로 바쁘니까 말이지","Yuugo ist nicht hier. Er kümmert sich um die
 Vorbereitungen zur Vernichtung der Demons."
-306,4710,,"Jimiken ha finto di essere dalla parte di Zaxon,
-ma non ci è voluto molto prima che mostrasse il suo vero volto!","吉米肯那混蛋，在Zaxon過得那麼好，
+306,4710,,"Quel bastardo di Jimiken... ha fatto il bello e il cattivo tempo con Zaxon
+e ora ci tradisce!","吉米肯那混蛋，在Zaxon過得那麼好，
 竟然還恩將仇報！",,"지미켄 자식, 잭슨에서 실컷 즐길 만큼
 즐겨놓고서, 은혜를 원수로 갚다니!","Jimiken hat vorgegeben, auf der Seite von Zaxon
 zu sein, aber es hat nicht lange gedauert, bis er

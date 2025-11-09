@@ -6,9 +6,10 @@ ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
 3,7162,,"È un pupazzo. Carino, vero?","這是玩偶喔。
 不覺得蠻可愛的嗎？",,"봉제인형이다.
 제법 귀엽지?","Das ist ein Kuscheltier. Niedlich, nicht wahr?"
-4,7162,,Ma c'è una storia interessante dietro.,但是那個玩偶……其實是“有問題＂的東西。,,"하지만 이 인형…… 실은 ""사연 있는 물건""이야",Aber dahinter steckt eine interessante Geschichte.
+4,7162,,Ma questo peluche... ha una sua storia.,但是那個玩偶……其實是“有問題＂的東西。,,"하지만 이 인형…… 실은 ""사연 있는 물건""이야",Aber dahinter steckt eine interessante Geschichte.
 5,2020,,?!,！？,,!?,?!
-6,7162,,Sicuramente avrai sentito dire che ogni oggetto contiene uno spirito?,"你應該也有聽過吧？
+6,7162,,"Avrai sicuramente sentito dire che gli oggetti
+possono essere posseduti da uno spirito, no?","你應該也有聽過吧？
 物品被靈之類的東西給纏上。",,"너도 한번쯤은 들은 적이 있겠지?
 사물에 영적인 것이 깃든다는 이야기","Du hast doch sicher gehört, dass jedem Objekt
 ein Geist innewohnt?"
@@ -21,21 +22,20 @@ alle grandi, come edifici. Tutti ne hanno uno.","小到玩偶或寶石……
 그러한 것들이 깃든다고 여겨지고 있지","Von kleinen Dingen wie Kuscheltieren und Schmuck
 bis hin zu großen Dingen wie Gebäuden.
 Sie alle haben einen."
-9,7162,,"La ragione per cui le persone sviluppano legami
-emotivi così forti con i soffici peluche è perché
-sono più facilmente posseduti da tali spiriti.","尤其像玩偶這種具有強烈思念的東西，
+9,7162,,"Le persone sviluppano legami emotivi così forti con i peluche
+proprio perché sono ricettacoli ideali per tali spiriti.","尤其像玩偶這種具有強烈思念的東西，
 會更容易被靈之類的給附身。",,"특히 봉제인형 등 마음이 깊이 이입되는 것에는
 영적인 것이 빙의하기 쉽다고 한다","Leute hängen so an flauschigen Kuscheltieren,
 weil sie leichter von solchen Geistern
 heimgesucht werden."
-10,7162,,"Ho acquisito questo giocattolo appositamente per la mia
-indagine. Infatti...","這個玩偶啊，是我在別的調查中拿到的東西。
+10,7162,,"Mi sono procurato questo peluche appositamente per la mia indagine.
+Infatti...","這個玩偶啊，是我在別的調查中拿到的東西。
 其實――",,"이 봉제인형은 내가 다른 조사에서 입수한 것이지.
 실은――","Dieses Kuscheltier habe ich extra für meine
 Untersuchung besorgt. Tatsächlich ..."
 11,2020,,...?!,……！？！？,,……!?!?,...?!
-12,7162,,"Oh, ecco la mia mente che va di nuovo per i fatti suoi.
-Devo concentrarmi.","哎呀，我又離題了呢。
+12,7162,,"Oh, sto di nuovo divagando.
+Devo concentrarmi sull'indagine.","哎呀，我又離題了呢。
 必須要集中於調查才行。",,"이런, 또 화제가 탈선했군.
 조사에 집중해야지","Ach, ich schweife schon wieder ab.
 Ich muss mich konzentrieren."
@@ -58,8 +58,8 @@ erschrecken."
 剛才是……開玩笑的。",,"하지만 안심하도록 해.
 방금 한 이야기는…… 농담이야",Entspann dich. Das war doch nur ... ein Scherz.
 19,2020,,?!,！？！？,,!?!?,?!
-20,7162,,"Mi aspettavo che i valori fluttuassero se ti spaventavo e dirigevo la tua
-attenzione verso il giocattolo.","我原本很期待嚇嚇你，讓你太過在意那玩偶，
+20,7162,,"Mi aspettavo che, spaventandoti e focalizzando la tua attenzione sul peluche,
+i valori avrebbero subito una fluttuazione.","我原本很期待嚇嚇你，讓你太過在意那玩偶，
 或許數值會有什麼變化。",,"너에게 겁을 줘서 인형에 의식을 향하게 하면
 수치에 변동이 있을 거라고 기대했거든","Ich habe damit gerechnet, dass die Werte
 schwanken, wenn ich dich erschrecke und dich
@@ -84,7 +84,7 @@ nuovo come questo giocattolo non sarebbe posseduto.","以這做為參考的話�
 초보적인 추리야","Daraus kann ich nur schlussfolgern, dass
 ein relativ neues Objekt wie dieses Kuscheltier
 von keinem Geist heimgesucht wird."
-25,7162,,"Anche se è possibile che degli oggetti possano essere posseduti da
+25,7162,,"Anche se non si può escludere che gli oggetti possano essere posseduti da
 qualcosa di diverso da uno spirito.","當然，被付喪神以外的東西給附身，
 可能性也並不為零喔。",,"물론 츠쿠모가미 외에 다른 것이 깃들었을 경우
 가능성이 제로는 아니겠지만","Obwohl es natürlich möglich wäre, dass Objekte

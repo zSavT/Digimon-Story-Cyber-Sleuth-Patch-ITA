@@ -7,15 +7,14 @@ ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
 서, 설마 먹어버린 건……","Wo ist die Schwester dieses Mädchens?
 Hast du sie gefressen?!"
 3,1030,,Perché dovrei mangiare un umano?,人類哪能吃啊！,,인간 따위를 먹겠냐,Warum sollte ich denn einen Menschen fressen?
-4,1030,,"Se ti riferisci all'intruso, sta dormendo
-laggiù. Era così fastidiosa; ho dovuto farla
-addormentare.","找那些入侵者的話，都睡在那邊。
+4,1030,,"Se vi riferite all'intrusa, sta dormendo laggiù.
+Era così fastidiosa che ho dovuto farla addormentare.","找那些入侵者的話，都睡在那邊。
 實在太吵了，不得已才讓他們睡著。",,"침입한 녀석이라면 저쪽에 잠재워뒀다.
 시끄러워서 견딜 수가 없으니 잠재워뒀을 뿐이다","Wenn ihr von dem Eindringling redet, der schläft
 da drüben. Sie ist mir so auf die Nerven gegangen,
 ich musste sie in einen Schlaf versetzen."
-5,1030,,"Visto che mi hai sconfitto, ti lascerò prenderla.
-Dovrebbe svegliarsi quando se ne andrà.","……我會服從贏家，人你就帶走吧。
+5,1030,,"Dato che mi avete sconfitto, vi lascerò prenderla.
+Dovrebbe svegliarsi una volta uscita da qui.","……我會服從贏家，人你就帶走吧。
 只要離開這應該就會醒來了。",,"…승자에겐 따른다. 마음대로 데리고 나가라.
 여기서 나가면 눈을 뜨겠지","Da ihr mich besiegt habt, könnt ihr sie mitnehmen.
 Sie sollte aufwachen, wenn sie hier fort ist."
@@ -23,9 +22,8 @@ Sie sollte aufwachen, wenn sie hier fort ist."
 還挺好溝通的嘛！",,"그, 그런가…
 뭐야, 말이 통하는 녀석이잖아","Verstehe. Mit dir kann man ja ganz vernünftig
 reden."
-7,4338,,"Lasciami chiederti qualcos'altro. Hai creato tu questo
-piano? Perché sembra esattamente uguale al nostro
-quarto piano?","……還想問你一件事。
+7,4338,,"Lasciami chiederti qualcos'altro. Hai creato tu questo piano?
+Perché sembra esattamente uguale al nostro quarto piano?","……還想問你一件事。
 這層樓是你做出來的嗎？
 為什麼要做的跟4樓一模一樣？",,"…또 한가지 묻고 싶은 것이 있어.
 이 층은 네가 만들어냈나?
@@ -43,8 +41,8 @@ es schon immer so ausgesehen."
 habe ich mich plötzlich hier wiedergefunden."
 10,1030,,Ma questo posto non è come EDEN. Non mi piace.,但是這裡跟EDEN不同，待起來很不舒服……,,하지만 여긴 EDEN과 달리 아무래도 불편해…,"Aber hier ist es nicht wie in EDEN. Das gefällt
 mir nicht."
-11,1030,,"Volevo un letto comodo, quindi ho modificato quest'area per farla
-assomigliare a EDEN. Ho fatto un ottimo lavoro, non credi?","為了弄個能睡覺的地方，才改造這個空間，
+11,1030,,"Volevo un posto comodo per dormire, quindi ho modificato quest'area per farla
+assomigliare a EDEN. Ho fatto un ottimo lavoro, non credete?","為了弄個能睡覺的地方，才改造這個空間，
 弄得像我熟悉的EDEN。
 怎麼樣，改得不賴吧？",,"잠자리를 만들기 위해 이 주변 공간을
 익숙한 EDEN과 비슷하게 만들었을 뿐이다.
@@ -57,9 +55,8 @@ al nostro quarto piano? Hmm, capisco...","那這一區會這麼像4樓，就不�
 ……그런가. 흠흠, 과연 그렇구나","Du warst es also gar nicht, der hier unser viertes
 Stockwerk nachgestellt hat? Verstehe ..."
 13,2020,,???,？？,,??,???
-14,1030,,"Non so di cosa tu stia parlando. Pensavo
-che sarei stato in grado di dormire qui in pace, ma gli umani
-continuano ad irrompere e a disturbarmi.","我完全不懂你在說什麼……
+14,1030,,"Non so di cosa stiate parlando. Pensavo di potermi fare una bella dormita in pace,
+ma gli umani continuano a fare irruzione e a disturbarmi.","我完全不懂你在說什麼……
 好不容易弄個能安靜睡覺的地方，
 人類卻一直闖進來吵鬧害我沒辦法睡。",,"네가 무슨 말을 하는 건지는 모르겠지만…
 기껏 조용한 잠자리를 만들었다고 생각했는데
@@ -98,9 +95,8 @@ will weg."
 才不會留在這裡。",,"여기서 나갈 방법만 안다면
 언제든 나가주지","Wenn ich wüsste, wie ich hier rauskomme, wäre ich
 schon gegangen."
-23,1030,,"Posso andare a EDEN se entro nel tuo
-terminale? Sarebbe fantastico. Desidero tornare
-a EDEN da così tanto tempo.","什麼，只要進到你的終端裡，就能帶我回EDEN？
+23,1030,,"Posso tornare a EDEN se entro nel tuo terminale? Sarebbe fantastico.
+È da tanto che desidero tornare a EDEN.","什麼，只要進到你的終端裡，就能帶我回EDEN？
 那真是幫了大忙。
 比起這詭異的空間，我更想快點回EDEN啊。",,"네 단말 속으로 들어간다면 EDEN으로 데려다줄 수 있다고?
 그건 고맙군. 이런 묘한 공간보다

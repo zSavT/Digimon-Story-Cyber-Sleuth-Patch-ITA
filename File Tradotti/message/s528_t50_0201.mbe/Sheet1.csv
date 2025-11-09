@@ -2,8 +2,8 @@ ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
 1,2020,,"(È un caso di una studentessa del liceo Inoden!
 Non riconosco il nome, ma deve conoscermi.
 Cosa dovrei fare?)","（是井之電的學生的委託……！
-　雖然是沒見過的名字，但對方說不定知道
-　我是誰…… 該怎麼辦才好……）",,"(이노덴 학생의 의뢰다…!
+雖然是沒見過的名字，但對方說不定知道
+我是誰…… 該怎麼辦才好……）",,"(이노덴 학생의 의뢰다…!
  모르는 이름이지만 저쪽은 나를
  알고 있을지도 몰라… 어쩌지…)","(Ein Fall von einer Schülerin an der Inoden High
 School! Der Name sagt mir nichts, aber die kennt
@@ -11,19 +11,18 @@ mich bestimmt. Was soll ich machen?)"
 3,3047,,"Che ti succede? Sembra che tu abbia
 visto un fantasma.",哦，怎麼啦？　一臉鐵青。,,"오, 왜 그래? 얼굴이 새파래져선","Was ist denn mit dir los? Du siehst ja aus, als
 hättest du ein Gespenst gesehen."
-4,3047,,"Hai accettato accidentalmente un caso da una studentessa del
-Liceo Inoden?",不小心接受了井之電學生的委託？,,이노덴 학생의 의뢰를 실수로 받아버렸다고?,"Du hast aus Versehen einen Fall von einer
+4,3047,,"Hai accettato per sbaglio un caso di una
+studentessa del Liceo Inoden?",不小心接受了井之電學生的委託？,,이노덴 학생의 의뢰를 실수로 받아버렸다고?,"Du hast aus Versehen einen Fall von einer
 Schülerin der Inoden High School angenommen?"
-5,3047,,"Capisco. La scuola pensa che tu sia una specie di
-hacker malintenzionato. Capisco come potrebbe essere
-difficile incontrarsi con il cliente.","啊啊～原來如此，
+5,3047,,"Ah, capisco. A scuola ti considerano un hacker malintenzionato,
+e quindi ti è difficile incontrare la cliente.","啊啊～原來如此，
 這樣一來，會被學校那邊認為是惡劣駭客，
 也不好跟委託人碰面是嗎？",,"아아~ 과연.
 넌 학교에서 악질 해커로 몰렸다고 했었지.
 의뢰인의 얼굴을 보기 괴롭다는 거네","Verstehe. Die Schule hält dich für einen bösen
 Hacker. Da wird ein Treffen mit der Klientin
 wohl eher schwierig."
-6,3047,,Lo so! Che ne dici se parlo con lei per te?,"沒問題！　既然這樣就讓我來助你一臂之力！
+6,3047,,Ci penso io! Che ne dici se parlo io con lei al posto tuo?,"沒問題！　既然這樣就讓我來助你一臂之力！
 讓我來代替你去找委託人，這樣就沒問題了吧？",,"좋았어! 그렇다면 내가 발 벗고 나서주지!
 너를 대신해 의뢰인의 이야기를 들어줄게.
 그러면 되겠지?","Ich hab’s! Ich könnte doch an deiner Stelle mit
@@ -38,12 +37,13 @@ bin Vorsitzende des Inoden-Informatikclubs."
 那關於妳想和我們商量的事情是？",,"예이예이, 안녕하세요.
 그래서 우리에게 상의하고 싶다는 게 뭐야?","Schön, dich kennenzulernen. Was können wir für
 dich tun?"
-10,7374,,"Abbiamo bisogno di qualcuno che fornisca supporto per il
-campionato di programmazione di domani.","……其實是關於明天舉行的高中生程式大賽，
+10,7374,,"Abbiamo bisogno di qualcuno che fornisca supporto per il campionato
+di programmazione di domani.","……其實是關於明天舉行的高中生程式大賽，
 我想要拜託你們當我們的幫手。",,"……실은, 내일 있을 고교생 프로그램 선수권에
 조력을 부탁드리고 싶습니다","Wir brauchen jemanden als Verstärkung für den
 Programmierwettbewerb morgen."
-11,3047,,"Eh? Pensavo che i professionisti non fossero autorizzati a partecipare?","嗯？　在高中生大賽裡要專業人士出馬，
+11,3047,,"Eh? Pensavo che i professionisti non
+fossero autorizzati a partecipare?","嗯？　在高中生大賽裡要專業人士出馬，
 這樣會不會太耍詐了？",,"응? 고등학생 대회에 프로가 나가는 건
 반칙 아냐~?","Wie? Ich dachte, dass Profis da nicht mitmachen
 dürfen."
@@ -54,16 +54,15 @@ come consiglieri.","不，因為目的是測試研究成果，
 학자나 해커를 인용해도 무방하다…
 그런 규칙이 있어요","Den Regeln zufolge dürfen Akademiker und Hacker
 als Berater tätig werden."
-13,3047,,"Le persone assunte come rinforzi potrebbero essere veramente considerate
-consulenti?",是喔……但是幫手是可以引用嗎？,,헤에…하지만 조력을 인용이라고 할 수 있어?,"Wären wir denn wirklich nur Berater, wenn ihr uns
+13,3047,,"Sarebbe un aiuto esterno, non un consulente, no?",是喔……但是幫手是可以引用嗎？,,헤에…하지만 조력을 인용이라고 할 수 있어?,"Wären wir denn wirklich nur Berater, wenn ihr uns
 als Verstärkung anheuert?"
 14,7374,,"È una zona un po' grigia, ma siamo in una
 situazione difficile.","我知道那是遊走在灰色地帶的做法，
 但是我也是有我的苦衷……",,"아슬아슬하다는 건 알고 있습니다.
 다만 사정이 있어서…","Es ist eine gewisse Grauzone, aber wir stecken in
 einer schwierigen Situation."
-15,7374,,"Abbiamo informazioni affidabili che la scuola superiore Nishinomori
-sta pianificando di sabotare le finali.","其實因為某些原因，我收到了對戰對手
+15,7374,,"Abbiamo informazioni affidabili che la scuola
+superiore Nishinomori stia pianificando di sabotare le finali.","其實因為某些原因，我收到了對戰對手
 西之森高中正試圖對我們
 進行妨礙手段……的情報。",,"실은 어느 루트를 통해 
 결승전에서 맞붙는 니시노모리 고교가 방해 공작을
@@ -76,9 +75,9 @@ di entrambe le scuole è a rischio.","詳細並不清楚。
 只是……這次的決賽賭上了兩校的名譽。",,"자세한 건 모릅니다.
 다만…이 결승전은 두 학교의 명예가 걸려있습니다","Wir wissen nichts Genaueres, aber hier steht der
 Ruf beider Schulen auf dem Spiel."
-18,7374,,"Dato che ci siamo alternati alla vittoria del campionato
-per così tanto tempo, e sono arrivati secondi l'anno scorso,
-devono essere determinati a vincere quest'anno.","我們每年都相互爭奪冠軍，
+18,7374,,"Ci siamo alternati alla vittoria del campionato per anni.
+L'anno scorso sono arrivati secondi, quindi quest'anno
+devono essere determinati a vincere.","我們每年都相互爭奪冠軍，
 去年獲得亞軍的西之森高中，
 今年應該是無論如何都想獲得優勝……",,"매년 번갈아 우승하고 있기도 해서
 작년 준우승이었던 니시노모리는 올해는 어떻게 해서든
@@ -87,13 +86,13 @@ waren letztes Jahr Sieger. Da wollen sie wohl
 dieses Jahr unbedingt gewinnen."
 19,7374,,Probabilmente ricorreranno a qualsiasi mezzo necessario.,"為了成功而不擇手段，
 會想使用卑鄙手段來取勝也完全可以理解。",,"필사적으로 이리저리 궁리한 끝에
-비겁한 수단을 쓰겠다고 마음먹었다고 해도 
+비겁한 수단을 쓰겠다고 마음먹었다고 해도
 이상할 것이 없습니다",Da wird ihnen jedes Mittel recht sein.
 20,7374,,"Spero che le nostre paure siano infondate, ma...",當然，如果最後只是我自己在杞人憂天就算了……,,물론 기우로 끝난다면 그걸로 상관없습니다만……,"Ich hoffe, dass unsere Sorge unbegründet ist,
 aber ..."
 21,3047,,È meglio essere prudenti che dispiaciuti?,但為了小心起見，還是想先做好防範對策……,,주의에 주의를 기울여 대책을 마련하고 싶다는 거구나…,Lieber auf Nummer sicher gehen?
-22,3047,,"In quel caso, lo faremo noi. In pratica avete solo bisogno di
-guardie del corpo, giusto?","嗯，如果是這樣的話，我願意接受。
+22,3047,,"In quel caso, lo faremo noi. In pratica avete
+solo bisogno di guardie del corpo, giusto?","嗯，如果是這樣的話，我願意接受。
 總之就是負責當你們的保鑣就行了吧？",,"뭐, 그런 거라면 맡아주겠어.
 요컨대 경호원을 해 달라는 거잖아?","Dann machen wir das. Ihr braucht mehr oder weniger
 nur Leibwächter, oder?"
@@ -101,8 +100,8 @@ nur Leibwächter, oder?"
 那當天就請多指教了。",,"감사합니다!
 그러면 당일에 잘 부탁드리겠습니다",Danke! Wir sehen uns morgen.
 24,3047,,Va bene?,……就是這樣，應該沒關係吧？,,…그렇다는데. 별로 상관없잖아?,Bist du damit einverstanden?
-25,3047,,"Ormai non si può tornare indietro. Aiuterò. Non posso
-ignorare una donzella in pericolo. E fare la guardia del corpo
+25,3047,,"Ormai è andata, ti do una mano. Non posso ignorare
+una ragazza in difficoltà. E poi fare la guardia del corpo
 segreta sembra divertente!","已經騎虎難下啦，也讓我幫忙吧。
 我可沒辦法放著有困難的可愛女孩坐視不管。
 最重要的是當秘密保鑣這件事好像很有趣！",,"내친김에 나도 도와줄게.

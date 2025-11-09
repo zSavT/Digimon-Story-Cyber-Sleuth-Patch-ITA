@@ -12,12 +12,12 @@ Sei la polizia?","還真虧你們能找到這裡來呢。
 너희는 경찰이야?","Es überrascht mich, dass ihr hergefunden habt.
 Seid ihr von der Polizei?"
 4,2020,,"No.
-Siamo come...detective.","不是
+Siamo una specie di... detective.","不是
 我們是類似偵探的人",,"아니야
 탐정같은 거야","Nein.
 Wir sind so etwas wie ... Detektive."
-5,7365,,"Non importa chi tu sia.
-Non hai niente contro di me.","是嗎，不管是誰都一樣。
+5,7365,,"Non importa chi siate.
+Non avete prove contro di me.","是嗎，不管是誰都一樣。
 想要抓我的話，只是白費功夫喔。",,"그래. 누구든 상관없어.
 다만 나를 잡으려고 해봤자 소용없어","Mir egal, wer ihr seid. Ihr könnt mir jedenfalls
 nichts nachweisen."
@@ -26,8 +26,8 @@ Cosa stai facendo qui?","……先讓我們問清楚狀況吧？
 這裡到底是什麼狀況？　你在這裡做什麼？",,"…일단 사정을 들려주지 않겠나?
 여긴 대체 뭐지? 여기서 뭘 하고 있나?","Könnten wir dich denn was fragen? Wo sind wir denn
 hier? Was machst du hier?"
-7,7365,,"Visto che sei arrivat{p} fin qui, ti farò fare un
-tour speciale del mio acquario.","既然你們都來了，我就特別
+7,7365,,"Visto che siete arrivati fin qui, vi farò fare
+una visita guidata speciale al mio acquario.","既然你們都來了，我就特別
 為你們介紹一下水族館吧。",,"모처럼 여기까지 와줬으니 특별히
 수족관 안을 안내해줄게","Wo ihr schon so weit gekommen seid, gebe ich euch
 extra eine Führung durch mein Aquarium."
@@ -46,8 +46,8 @@ des Gebäudes, der Einrichtung und der Tiere."
 11,7365,,È quasi completo. Ehehehe...,"離完成就只差一步而已了呢。
 呵呵呵……",,"완성까지 이제 한 걸음 남았다고나 할까.
 우후후후…",Sie ist fast fertig. Hehehe ...
-12,3046,,"Capisco. Quindi l'hai fatto per creare questo posto?
-Ma avevi davvero bisogno di ricorrere al furto?","原來如此……妳的目的就是打造這個空間。
+12,3046,,"Capisco. Quindi il tuo obiettivo era creare questo spazio.
+Ma c'era davvero bisogno di rubare?","原來如此……妳的目的就是打造這個空間。
 ……但是，有必要為此去偷竊嗎？",,"과연… 이 공간을 만드는 것이 목적이었던 거군.
 …하지만 굳이 도둑질까지 할 필요가 있었던 건가?","Verstehe. Du hast das also gemacht, um das hier
 aufzubauen? Aber musste Diebstahl wirklich sein?"
@@ -56,8 +56,8 @@ edifici nella rete.","不管是魚還是建築，類似的資料
 網路上要多少有多少吧。",,"물고기든 건물이든 비슷한 데이터라면 얼마든지
 인터넷에서 구할 수 있을 텐데","Im Netz findest du doch jede Menge ähnliche Daten
 zu Fischen und Gebäuden."
-14,7365,,"Non lo capisci. Simile non è sufficiente.
-Deve essere una riproduzione perfetta.","你真不懂呢。
+14,7365,,"Vedo che non capisci. Non basta che sia ""simile"".
+Deve essere una riproduzione ""perfetta"".","你真不懂呢。
 只是像是不行的，要完美重現才行……",,"뭘 모르네.
 비슷한 정도로는 안 돼. 완벽하게 재현하지 않으면…","Du verstehst das nicht. Ähnlich reicht nicht. Es
 musste eine perfekte Nachbildung sein."
@@ -147,8 +147,8 @@ ich doch so wenig Zeit hatte, bevor die Tiere
 wieder zurück mussten."
 31,7365,,Ho comprato un intero studio per questo.,也因此，我把一整間攝影棚都買下來了。,,그걸 위해 난 스튜디오 한채를 통째로 샀어,Dafür habe ich extra ein ganzes Studio gekauft.
 32,3046,,Quindi è solo un hobby molto costoso?,……妳是在炫耀自己很有錢嗎？,,…부자의 취미 자랑인가?,Also nur ein sehr teures Hobby?
-33,7365,,"Ci vuole più che soldi. Dovevo anche essere intelligente.
-Ecco perché non mi incastrerai mai.","我可不只花了大筆金錢，也用了智慧喔。
+33,7365,,"Non bastano i soldi, serve anche l'ingegno.
+Ecco perché nessuno può incastrarmi.","我可不只花了大筆金錢，也用了智慧喔。
 所以，誰都無法捉到我。",,"돈 뿐만이 아니라 머리도 썼어.
 그러니까 누구도 나를 잡을 순 없어","Geld allein ist nicht genug. Ich musste auch
 schlau sein. Deshalb wird man mir auch nichts
@@ -173,9 +173,9 @@ brutta che abbia mai visto, in un certo senso.","但是，兩個我都看不順�
 irgendwie das Scheußlichste, was ich je gesehen
 habe."
 39,7365,,Brutto? Cosa intendi?!,醜陋……？　你說什麼！？,,추하다…? 뭐라고!?,Scheußlich? Was soll das heißen?!
-40,3046,,"Sì, hai speso un sacco di soldi, ma non ti sei
-sporcato le mani; hai fatto fare agli altri
-per te. Tanto per il crimine perfetto.","靠著金錢不弄髒自己的雙手，把罪行都推給其他人，
+40,3046,,"Certo, hai speso un sacco di soldi, ma non ti sei
+sporcata le mani, lasciando che fossero altri a commettere il crimine.
+Bel modo di architettare un crimine perfetto.","靠著金錢不弄髒自己的雙手，把罪行都推給其他人，
 就自以為做出完全犯罪，實在是無比醜陋。",,"돈의 힘을 빌려 자신의 손을 더럽히지 않고 죄를 타인에게 뒤집어씌워
 완전범죄를 노리는 건 추악함의 극치다","Du hast viel Geld bezahlt, aber du hast dir die
 Hände nicht schmutzig gemacht. Du hast dein
@@ -202,5 +202,5 @@ allerersten Besucher vom Hals schaffen."
 Non aveva mai intenzione di farci andare via da qui.","我就覺得奇怪，妳居然講了這麼多，
 果然從一開始就打算這麼做啊。
 那女的想戰鬥喔，你退後吧。",,"술술 떠든다 싶더니 처음부터 그럴 생각이었던 거군.
-이 여자, 할 생각이다","Ich wusste doch, dass sie zu redefreudig war. Sie
+이 여자, 할 생각이다. 물러서 있어","Ich wusste doch, dass sie zu redefreudig war. Sie
 hatte nie vor, uns gehen zu lassen."
