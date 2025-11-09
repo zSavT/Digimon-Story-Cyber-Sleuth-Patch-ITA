@@ -1,12 +1,12 @@
-﻿ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
+﻿﻿ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
 0,4711,,"I furti di account sono aumentati a dismisura ultimamente.
 Dobbiamo riportare l'ordine in EDEN.","最近帳號狩獵好常發生啊，真是受夠了……
 EDEN的秩序必須由我們來守護。",,"최근 계정 사냥이 너무 많아서 두손 두발 들 정도야…
 EDEN의 질서는 우리가 지켜야만 해","Ich kann nicht glauben, wie viel Kontendiebstahl
 es in letzter Zeit gab. Wir müssen in EDEN für
 Ordnung sorgen."
-1,4710,,"Jude era una squadra di hacker leggendaria, ma è tutto finito ormai.
-Ora è il momento che Zaxon prenda il comando!","「Jude」是傳說級最強的駭客隊伍，
+1,4710,,"Jude era una squadra di hacker leggendaria, ma ormai è storia passata.
+Ora tocca a noi di Zaxon riscrivere la leggenda!","「Jude」是傳說級最強的駭客隊伍，
 那也只不過是以前的事情了吧？　
 能夠刷新傳說的是我們「Zaxon」啦。",,"「쥬드」가 전설적인 최강 해커팀이었다는 건
 결국 과거의 이야기잖아? 그 전설을 덧칠한 것이
@@ -20,8 +20,8 @@ Per questo dobbiamo proteggere questo posto.","患上EDEN症候群的同伴，�
 그러니까 이 장소를 우리가 지켜야겠지","Alle, die am EDEN-Syndrom leiden, werden mit
 Sicherheit zurückkehren. Darum müssen wir diesen
 Ort schützen."
-101,4710,,"Non importa chi ci sfiderà, Zaxon non verrà mai sconfitto.
-Questa è la battaglia di noi che siamo rimasti.","不論其他隊伍的人怎麼找碴，
+101,4710,,"Non importa chi ci sfiderà, Zaxon non crollerà mai.
+Questa è la nostra battaglia, di noi che siamo rimasti.","不論其他隊伍的人怎麼找碴，
 我絕對不會讓Zaxon被擊垮。
 因為這是留下來的我們，屬於我們的戰役。",,"다른 팀이 얼마나 싸움을 걸더라도, 잭슨은
 절대로 깨지지 않아. 그것이 남은 우리들의 싸움이다","Egal, mit wem wir es aufnehmen, Zaxon wird nie
@@ -35,16 +35,15 @@ molti dei miei amici che sono finiti a Under Zero.","我負責在這裡把風，
 keine Probleme. Leider gilt das nicht für viele
 meiner Freunde, die zu Unter Null gegangen sind."
 201,4710,,"Ho sentito che sono stati quelli di Kamishiro
-a far ammalare i nostri compagni della
-sindrome di EDEN a Under Zero.","我聽說了啊。在Under Zero裡，
+a far ammalare i nostri compagni con la
+Sindrome di EDEN a Under Zero.","我聽說了啊。在Under Zero裡，
 害同伴們變成EDEN症候群的人，
 就是神代企業的那群人吧？",,"들었어. 언더 제로에서 동료들을
 EDEN 증후군으로 만든 건, 카미시로의 녀석들이지?","Ich habe gehört, dass es die Schuld von Kamishiro
 war, dass meine Freunde bei Unter Null am
 EDEN-Syndrom erkrankt sind."
-202,4710,,"Secondo le notizie, si sta diffondendo perché EDEN
-è stato hackerato. Devono sempre essere gli
-hacker i colpevoli!","報導上卻只說，是因為駭客入侵了EDEN……
+202,4710,,"E i notiziari dicono che è colpa di un attacco hacker a EDEN...
+Maledizione, danno sempre la colpa a noi!","報導上卻只說，是因為駭客入侵了EDEN……
 可惡，竟然把駭客當成白癡耍……！",,"방송에선 해커가 EDEN을 해킹했기 때문이라고
 나오고 있어… 제길, 해커를 바보 취급하다니…!","Den Berichten zufolge breitet es sich aus, weil
 EDEN gehackt wurde. Immer sollen die Hacker
@@ -83,8 +82,8 @@ Mi chiedo che tipo sia questa persona.","你知道什麼是「電腦偵探」嗎
 …어떤 녀석인 걸까?","Hast du von einem „Cyber-Detektiv“ gehört? In
 Kowloon habe ich zuletzt oft von ihm gehört. Ich
 frage mich, wie diese Person so ist."
-308,9173,,"È ben possibile che tu sia un doppiogiochista.
-Se riveli ai Demons informazioni su di noi, sei finito.","……你就是那個雙面間諜啊。
+308,9173,,"Ah, quindi sei tu il doppiogiochista.
+Se oserai rivelare ai Demons informazioni su di noi, sei finito.","……你就是那個雙面間諜啊。
 如果你敢把我們的情報賣給惡魔亂舞，
 我就要你好看啊。",,"…너, 이중스파이였구나.
 우리 정보를 데몬즈에게 팔았다간 용서하지 않겠어","Gut möglich, dass du ein Doppelagent bist. Wenn
@@ -97,8 +96,8 @@ programma Digimon quando hanno attaccato a Under Zero!","聽說Jude在攻入Unde
 nicht hatte, als sie in Unter Null angegriffen
 haben!"
 310,9174,,"Questa è la nostra occasione per
-attaccarli! Ma dobbiamo stare attenti!
-Non vedo l'ora!","現在的我們一定可以相當輕鬆的攻下！
+attaccarli! Ma guai a sottovalutarli!
+Forza, sono carico!","現在的我們一定可以相當輕鬆的攻下！
 但輕敵當然是大禁喔！
 嗚喔～～～～～～燃～起～來～啦～～！",,"지금의 우리라면, 좀 더 여유롭게 공략할 수 있을 거야!
 물론 방심은 금물이지만!
@@ -114,9 +113,9 @@ di attaccare a Under Zero!","不管來多少自由駭客，
 우리 잭슨으로 정해져 있다고!","Ein paar freie Hacker haben sich zusammengetan,
 aber unser Zaxon-Team hat die beste Chance,
 in Unter Null anzugreifen!"
-312,9176,,"Se ci facciamo un nome con un attacco
-a Under Zero, diventeremo al 99,999%
-le prossime ""Leggende""!","只要攻略下Under Zero一舉成名，
+312,9176,,"Se ci faremo un nome con l'attacco
+a Under Zero, diventeremo le prossime ""Leggende""
+al 99,999%!","只要攻略下Under Zero一舉成名，
 成為下一個“傳說”，在歷史上永垂不朽的機率
 高達99.99999%！！",,"이 언더 제로 공략으로 이름을 떨치면, 다음 ""레전드""로
 역사에 이름이 새겨질 확률이 99.99999%네요!!","Wenn wir uns mit einem Angriff auf Unter Null

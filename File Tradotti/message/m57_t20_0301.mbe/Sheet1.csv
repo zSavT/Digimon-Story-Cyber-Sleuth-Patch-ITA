@@ -1,22 +1,25 @@
 ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
 1,2020,,...,…………,,…………,...
-2,1392,,Sei eccitato?,你在緊張嗎？,,긴장하고 있어?,Bist du aufgeregt?
+2,1392,,"Sei emozionato?",你在緊張嗎？,,긴장하고 있어?,Bist du aufgeregt?
 3,2020,,?!,！？,,!?,?!
-4,1392,,"Perché sono qui? Beh, ti stai incontrando con il misterioso Hacker K, vero?","問我為什麼會在這裡…
+4,1392,,"Perché sono qui?
+Beh, ti stai incontrando con il misterioso Hacker K, vero?","問我為什麼會在這裡…
 你接下來不是要去見神秘的駭客K嗎？",,"뭘 하고 있냐니… 이제부터 수수께끼의 해커 K를
 만나러 가는거잖아?","Warum ich hier bin? Na, du triffst dich doch
 mit dem geheimnisvollen Hacker K, oder?"
-5,1392,,"Erika ha detto: „Mi preoccupo, quindi accompagnami.“",艾莉卡說「我很擔心，你跟他一起去」喔！,,에리카가「걱정되니까 따라가」래,"Erika hat gesagt: „Ich mache mir Sorgen, also geh
 du mit.“"
-6,1392,,"Gli hai promesso di venire da solo?
-Erika ha detto che un Digimon non conta.","你跟對方約好要一個人去？
+5,1392,,"Erika mi ha detto: ""Sono preoccupata, quindi vai con lui.""",艾莉卡說「我很擔心，你跟他一起去」喔！,,에리카가「걱정되니까 따라가」래,"Erika hat gesagt: „Ich mache mir Sorgen, also geh
+du mit.“"
+6,1392,,"Gli hai promesso di andare da solo?
+Erika ha detto che ""un umano e un Digimon"" non conta come essere in due.","你跟對方約好要一個人去？
 但是，艾莉卡說「一人跟一隻就沒關係」喔！",,"혼자서 만난다는 약속이라고?
 그치만 에리카가「한 명과 한 마리라면 문제없어」…라고 했는걸","Du hast ihm versprochen, alleine zu kommen?
 Erika meinte, ein Digimon zählt nicht."
 7,2020,,...,…………,,…………,...
 8,1392,,Io personalmente trovo che non dovresti andarci affatto.,我覺得不要去比較好喔。,,"가지 않는 편이 좋을 거라고 생각하는데, 난","Ich persönlich finde, du solltest gar nicht
 hingehen."
-9,1392,,Erika trovò strano che ti dia qualcosa gratis. C'è qualcosa sotto.,"無償為你做事感覺太可疑了。
+9,1392,,"Erika pensa che sia strano che ti dia informazioni gratis.
+Dice che c'è sicuramente qualcosa sotto.","無償為你做事感覺太可疑了。
 艾莉卡也是思考過的喔，背後絕對有什麼陰謀。",,"무상으로 뭔가를 해 준다니 기분나쁘다고
 에리카도 생각하고 있었어. 틀림없이 속셈이 있을거라고","Erika fand das komisch, dass er dir etwas umsonst
 gibt. Da steckt was dahinter."
@@ -26,8 +29,8 @@ gibt. Da steckt was dahinter."
 13,3046,,Ho saputo i dettagli di Erika.,我聽艾莉卡說了。,,에리카에게 들었어,Ich habe die Details von Erika erfahren.
 14,2020,,...,…………,,…………,...
 15,3046,,Non farti più coinvolgere con K.,不要再跟K有所交集了。,,이 이상 K에겐 상관하지 마,Lass dich nicht mehr mit K ein.
-16,3046,,"Non so cosa stia tramando, ma Zaxon conficcherà i Demons nel
-terreno senza pietà. Stanne fuori.","不論那個人的目標是什麼，
+16,3046,,"Non so cosa stia tramando, ma i Demons se la vedranno con Zaxon.
+Tu stanne fuori.","不論那個人的目標是什麼，
 惡魔亂舞由Zaxon來摧毀。
 ……不要理他就好。",,"놈의 목적이 뭐였든 데몬즈는 잭슨에게 깨질 거다.
 ……내버려둬","Ich weiß nicht, was er im Schilde führt, aber
@@ -42,11 +45,10 @@ Se è pericoloso, mi occuperò io di lui.","我想要確認“K＂的目的究�
 위험한 놈이니까 내가 처리하겠어","Ich will herausfinden, was K will.
 Ich habe ihn doch in die Sache hineingezogen.
 Wenn er gefährlich ist, kümmere ich mich um ihn."
-18,3046,,"Uno come te, che non ha ancora peli sul petto,
-non dovrebbe fare il gradasso qui.","……不過是毛才剛長好的小鬼，
+18,3046,,"Un pivello come te non dovrebbe fare il gradasso.","……不過是毛才剛長好的小鬼，
 不要給我耍帥。",,……이제 갓 털이 난 꼬마가 폼 잡지 마,"Einer wie du, der noch kaum Haare am Sack hat,
 sollte hier nicht den großen Macker machen."
-19,3046,,Sai che guai passeremo se ti succede qualcosa?!,如果你出事了，我們會很困擾。,,너한테 무슨 일이 생기면 우리들이 곤란해져,"Weißt du, was wir für Ärger kriegen, wenn dir
+19,3046,,"Se ti succede qualcosa, sai che casino succede?!",如果你出事了，我們會很困擾。,,너한테 무슨 일이 생기면 우리들이 곤란해져,"Weißt du, was wir für Ärger kriegen, wenn dir
 was passiert?!"
 20,2020,,...,…………,,…………,...
 21,3046,,Se ci vai... allora vengo con te.,如果你要去……就只能兩個人一起去。,,가겠다면… 둘이서야,Wenn du hingehst ... dann komme ich mit.
