@@ -5958,785 +5958,671 @@ BEEP BOOP... Tu sei il ""Cyber Detective"".","對象，確認。
 嗶嗶……「電腦偵探」。",,"인물, 확인
 삐삑……「전뇌, 탐정」","EIN MENSCH IST ANWESEND. BESTÄTIGT.
 BIEP BUUP ... DU BIST DER ""CYBER-DETEKTIV""."
-4281,1451,"","CYBER SLEUTH, HO PERSO ""QUALCOSA DI IMPORTANTE"".
-RICHIEDO CHE TU LO TROVI.","我，弄丟了，「重要之物」。
+4281,1451,,"CYBER-DETECTIVE, HO PERSO ""COSA IMPORTANTE"".
+RICHIEDO RITROVAMENTO.","我，弄丟了，「重要之物」。
 可以幫我，找回來嗎？","","나,「소중한 물건」, 잃어버렸다
 찾아와, 줄 수 있는가？","CYBER-DETEKTIV, ICH HABE EIN ""WICHTIGES DING""
 VERLOREN. ICH BITTE DARUM, DASS DU ES FINDEST."
-4282,1451,"","I MIEI CALCOLI INDICANO CON UNA CERTEZZA DEL 99% CHE HO PERSO
-L'OGGETTO NELLE VICINANZE DI [m4040].","恐怕，是在，[m4040]弄丟了。","","잃어버린 장소는, 아마도, [m4040]","MEINE BERECHNUNGEN WEISEN MIT 99 PROZENT
+4282,1451,,"CALCOLI INDICANO PROBABILITÀ DEL 99% DI PERDITA
+OGGETTO IN [m4040].","恐怕，是在，[m4040]弄丟了。","","잃어버린 장소는, 아마도, [m4040]","MEINE BERECHNUNGEN WEISEN MIT 99 PROZENT
 SICHERHEIT DARAUF HIN, DASS ICH ES IN
 [m4040] VERLOREN HABE."
-4283,1451,"","SARAI RICOMPENSATO AL RITROVAMENTO.
-BUONA FORTUNA, CYBER SLEUTH.","我會，準備謝禮。
+4283,1451,,"IN CASO DI RITROVAMENTO, RICOMPENSA EROGATA.
+BUONA FORTUNA, CYBER-DETECTIVE.","我會，準備謝禮。
 拜託，你了。","","사례, 하겠다
 잘, 부탁한다","BEI ERFOLGREICHEM WIEDERAUFFINDEN WIRST DU
 BELOHNT. VIEL GLÜCK, CYBER-DETEKTIV."
-4290,1451,"","CYBER SLEUTH, HAI FATTO UN OTTIMO LAVORO
-TROVANDO LA MIA ""COSA IMPORTANTE.""","偵探，好厲害。
+4290,1451,,"CYBER-DETECTIVE, HAI ESEGUITO UN OTTIMO LAVORO
+TROVANDO LA MIA ""COSA IMPORTANTE"".","偵探，好厲害。
 幫我找回，「重要之物」了！","","탐정, 굉장하다
 「소중한 물건」, 찾아줬다!","CYBER-DETEKTIV, DU HAST MEIN ""WICHTIGES DING""
 GEFUNDEN. GUT GEMACHT."
-4291,1451,"","HO DISPOSTO UNA RICOMPENSA PER IL TUO UFFICIO.
-GRAZIE, CYBER SLEUTH.","謝禮，送到，事務所了。
+4291,1451,,"HO DISPOSTO UNA RICOMPENSA PER IL TUO UFFICIO.
+GRAZIE, CYBER-DETECTIVE.","謝禮，送到，事務所了。
 偵探，謝謝你。","","사례, 사무소로, 보냈다
 탐정, 고맙다","ICH HABE EINE BELOHNUNG AN DEIN BÜRO VERANLASST.
 DANKE, CYBER-DETEKTIV."
-4300,1453,"","Ehi, Detective?
-Devo proprio chiederti un favore...","偵探大人……
+4300,1453,,"Ehi, Detective? Devo proprio chiederti un favore...","偵探大人……
 我好煩惱哦，該怎麼辦才好呢……","","탐정님…
 큰일이에요, 전 어찌하면 좋을지…","He, Detektiv? Ich muss dich um einen Gefallen
 bitten ..."
-4301,1453,"","Ho perso la mia ""cosa preziosa"" e non ho idea
-di dove possa essere...","其實我弄丟「重要之物」了，
+4301,1453,,"Ho perso la mia ""cosa preziosa"" e non ho idea di dove possa essere...","其實我弄丟「重要之物」了，
 實在是束手無策……","","실은「소중한 물건」을 잃어버려서
 낙담하고 있었어요…","Ich habe mein ""wertvolles Ding"" verloren und ich
 habe keine Ahnung, wo es sein könnte ..."
-4302,1453,"","Penso di averla fatta cadere da qualche parte nei pressi di [m4040].","我想應該是掉在[m4040]。","","장소는 [m4040](이)라고 생각해요","Ich glaube, ich habe es irgendwo in
+4302,1453,,"Credo di averlo perso da qualche parte in [m4040].","我想應該是掉在[m4040]。","","장소는 [m4040](이)라고 생각해요","Ich glaube, ich habe es irgendwo in
 [m4040] verloren."
-4303,1453,"","Potresti trovarla per me?
-Ti prometto che se lo fai, ti darò qualcosa di carino in cambio!
-Ti prego! Significherebbe molto per me!","如果你願意幫我找的話，我會支付你報酬的。
+4303,1453,,"Puoi trovarlo per me? Se lo fai, ti darò anch'io qualcosa di bello!
+Ti prego, ti prego! Ci terrei tantissimo!","如果你願意幫我找的話，我會支付你報酬的。
 拜託你了，請務必幫幫我……！","","찾아와 주신다면, 보수를 드릴게요
 부탁입니다, 부디 저를 도와주세요…!","Kannst du es für mich finden? Wenn du das machst,
 gebe ich dir auch etwas Schönes! Bitte, bitte!
 Das würde mir viel bedeuten!"
-4310,1453,"","My ""precious thing""... You found it! I'm so
-relieved now!","我的「重要之物」……你幫我找到了呢！
+4310,1453,,"La mia ""cosa preziosa""... L'hai trovata! Sono così sollevata!","我的「重要之物」……你幫我找到了呢！
 太好了……可以安心了。","","저의「소중한 물건」… 찾아와 주신 거군요!
 다행이다… 안심했어요","Mein ""wertvolles Ding"" ... Du hast es gefunden!
 Ich bin so erleichtert!"
-4311,1453,"","I sent your reward to your office. It's a token of
-my thanks!","報酬已經送去事務所了。
+4311,1453,,"Ho spedito la tua ricompensa al tuo ufficio. È un segno della mia gratitudine!","報酬已經送去事務所了。
 這是作為感謝的一點心意。","","보수는 사무소로 보내두었어요
 저의 감사의 표시입니다","Deine Belohnung habe ich an dein Büro geschickt.
 Es ist ein Zeichen meiner Dankbarkeit!"
-4320,1600,"","Nice to meet you, Detective. I'm the one who
-filed this case with your office.","初次見面，偵探大人。
+4320,1600,,"Piacere di conoscerti, Detective. Sono il committente di questo caso.","初次見面，偵探大人。
 發出委託的就是我。","","처음 뵙겠습니다, 탐정님
 제가 의뢰인입니다","Freut mich, dich kennenzulernen, Detektiv.
 Ich bin der Auftraggeber für diesen Fall."
-4321,1600,"","I'll get straight to the point. I lost my
-""precious thing"" the other day and...that's not
-good. Not at all.","看我怎麼搞的，前陣子竟然弄丟了「重要之物」……
+4321,1600,,"Vado subito al sodo. Poco tempo fa ho perso il mio
+""oggetto prezioso"" e non va bene. Per niente bene.","看我怎麼搞的，前陣子竟然弄丟了「重要之物」……
 現在非常傷腦筋。","","저번에 제가 모르고「소중한 물건」을 잃어버려서…
 매우 곤란합니다","Ich komme sofort zum Thema. Vor Kurzem habe ich
 mein ""wertvolles Ding"" verloren und das ist nicht
 gut. Gar nicht gut."
-4322,1600,"","I think it probably fell out somewhere around
-[m4040]. That's my guess.","遺失地點恐怕是在[m4040]吧。","","잃어버린 장소는 아마도, [m4040](이)겠죠","Ich glaube, es muss mir aus der Tasche gefallen
+4322,1600,,"Credo mi sia caduto dalla tasca, in [m4040]. Punto su quello.","遺失地點恐怕是在[m4040]吧。","","잃어버린 장소는 아마도, [m4040](이)겠죠","Ich glaube, es muss mir aus der Tasche gefallen
 sein, in [m4040].
 Darauf tippe ich."
-4323,1600,"","If you could find it for me, I'll repay you in
-kind. I wish you luck out there, Detective.","如果你幫我找回來的話，我會給予謝禮的。
+4323,1600,,"Se tu potessi trovarlo per me, ti darò qualcosa in cambio.
+Buona fortuna, Detective.","如果你幫我找回來的話，我會給予謝禮的。
 拜託你了。","","찾아와 주신다면 보답하겠습니다
 부디, 잘 부탁드립니다","Wenn du es für mich finden könntest, gebe ich dir
 im Gegenzug etwas. Viel Glück, Detektiv."
-4330,1600,"","That's it! That's my ""precious thing"" without a
-doubt! I'm so relieved it's okay!","喔喔！　那個東西！
+4330,1600,,"Eccolo! Nessun dubbio, è il mio ""cosa preziosa"".
+Sono così felice che sia intatto!","喔喔！　那個東西！
 你幫我找回來了呢！","","오오! 그것은!
 찾아와 주신 거군요!","Das ist es! Kein Zweifel, das ist mein ""wertvolles
 Ding"". Ich bin so froh, dass es heile ist!"
-4331,1600,"","Thank you for doing all this for me, detective!
-I've already sent my thank you gift over to your
-office. I hope you like it!","謝謝你！
+4331,1600,,"Grazie per avermelo sistemato, Detective!
+Ti ho già spedito il mio ringraziamento al tuo ufficio. Spero ti piaccia!","謝謝你！
 我把謝禮送去事務所了！","","감사합니다!
 보답은 사무소로 보내두었어요!","Danke, dass du das für mich erledigt hast,
 Detektiv! Ich habe mein Dankeschön schon an dein
 Büro geschickt. Ich hoffe, es gefällt dir!"
-4340,1632,"","Hey! You're the famous Cyber Sleuth everyone's
-been talking about, right!?","就是你吧？
+4340,1632,,"Ehi! Sei tu il famoso Cyber-Detective, quello di cui tutti parlano, vero?!","就是你吧？
 傳說中的電腦偵探什麼的！","","너지?
 소문이 무성한 전뇌탐정이라는 녀석이!","He! Du bist der berühmte Cyber-Detektiv, von dem
 alle erzählen, nicht wahr?!"
-4341,1632,"","I'm gonna lay it on you straight, detective. I
-think I lost my ""precious thing"" somewhere and
-that's...not good!","其實……我一個不留神，
+4341,1632,,"Vado dritto al punto, Detective.
+Credo di aver perso il mio ""oggetto prezioso"" da qualche parte. Non va bene!","其實……我一個不留神，
 好像把「重要之物」弄丟了……真是有夠頭痛的。","","실은… 깜빡해서「소중한 물건」을
 잃어버린 모양이야, …나 참 곤란하네","Ich komme gleich zum Punkt, Detektiv. Ich glaube,
 ich habe mein ""wertvolles Ding"" irgendwo verloren.
 Das ist nicht gut!"
-4342,1632,"","I'm pretty sure I dropped it somewhere around
-[m4040].","我覺得應該是掉在[m4040]了。","","잃어버린 곳은 아마도, [m4040](이)라고 생각해","Ich bin sicher, ich habe es irgendwo in
+4342,1632,,"Sono sicuro, l'ho lasciato cadere da qualche parte in [m4040].","我覺得應該是掉在[m4040]了。","","잃어버린 곳은 아마도, [m4040](이)라고 생각해","Ich bin sicher, ich habe es irgendwo in
 [m4040] fallen gelassen."
-4343,1632,"","I'll make sure to pay you for your trouble, so
-could you go and look for it, Detective? It'd help
-me so much if you did!","報酬會給得很大方哦，你能不能幫忙找找呢？
+4343,1632,,"Ti pagherò per trovarlo. Potresti per favore cercarlo, detective?
+Mi sarebbe di così grande aiuto!","報酬會給得很大方哦，你能不能幫忙找找呢？
 拜託囉，電腦偵探大人。","","보수는 두둑이 할 테니까, 찾아와 주지 않겠어?
 부탁한다고, 전뇌탐정님","Ich werde dich für das Auffinden bezahlen. Kannst
 du bitte danach suchen, Detektiv? Das wäre mir
 eine so große Hilfe!"
-4350,1632,"","Whoa, did you actually find it!? Thanks so much!
-I really owe you one!","喔喔！　你找到了啊！
+4350,1632,,"Wow, l'hai trovato davvero?! Grazie mille! Ti devo davvero qualcosa!","喔喔！　你找到了啊！
 謝謝你啦！　感激不盡！","","오오! 찾아와 준 거야!?
 고마워! 진짜 고맙다!","Wow, du hast es wirklich gefunden?! Vielen Dank!
 Ich schulde dir wirklich was!"
-4351,1632,"","I sent out your reward to your office already.
-Make sure to check to see it's there in one piece!","報酬送去事務所了。
+4351,1632,,"Ho già mandato la ricompensa al tuo ufficio.
+Dovresti controllare che sia arrivata sana e salva!","報酬送去事務所了。
 要確實查收哦！","","보수는 사무소로 보내두었어
 확실히 확인해 달라고!","Ich habe die Belohnung schon an dein Büro
 geschickt. Du solltest überprüfen, ob sie
 auch heil angekommen ist!"
-4360,1688,"","Gwahahaha, is that the one and only Cyber Sleuth
-I see?","吼啊啊啊啊！
+4360,1688,,"Gahahaha, cosa vedono i miei occhi? Il famoso Cyber-Detective?","吼啊啊啊啊！
 你就是電腦偵探啊！","","와하하하하!
 네가 전뇌탐정인가!","Gahahaha, was sehen meine Augen? Den berühmten
 Cyber-Detektiv?"
-4361,1688,"","Since you're a big, famous detective. Maybe you
-can help me. I lost my ""precious thing"" and want
-you to, uh, go detect it back or whatever you do.","你要幫本大爺找回「重要之物」嗎！？
+4361,1688,,"Dato che sei così famoso e importante, magari puoi darmi una mano.
+Ho perso la mia ""cosa preziosa"" e voglio che tu la, ehm, rintracci.","你要幫本大爺找回「重要之物」嗎！？
 吼啊啊！　那真是太感激了！","","이 몸의「소중한 물건」을 찾아주는 거냐?
 와하하! 이거 참 고맙군!","Da du so berühmt und wichtig bist, kannst du mir
 vielleicht helfen. Ich habe mein ""wertvolles Ding""
 verloren und will, dass du es, äh, detektierst."
-4362,1688,"","If my memory's not busted, it should be out around
-[m4040], I think.","我沒記錯的話，
+4362,1688,,"Se non sbaglio, dovrebbe essere in [m4040].","我沒記錯的話，
 應該是掉在[m4040]才對！","","내 기억이 분명하다면
 [m4040]에서 잃어버렸을 거야!","Wenn meine Erinnerung mich nicht täuscht, sollte
 es in [m4040] sein."
-4363,1688,"","Now that I've asked, you better find it!
-Gwahahaha!","加把勁幫我找回來吧！　吼啊啊啊啊！","","힘내서 찾아와라! 와하하하하!","Da ich dich darum gebeten habe, solltest du
+4363,1688,,"Dato che te l'ho chiesto io, faresti meglio a trovarlo. Gahahaha!","加把勁幫我找回來吧！　吼啊啊啊啊！","","힘내서 찾아와라! 와하하하하!","Da ich dich darum gebeten habe, solltest du
 es lieber finden. Gahahaha!"
-4370,1688,"","I see you brought back my ""precious thing,"" Cyber
-Sleuth! Good job! I'm impressed!","看來你幫我找回來了！
+4370,1688,,"Vedo che hai portato la mia ""cosa preziosa"", Cyber-Detective!
+Bel lavoro! Sono impressionato!","看來你幫我找回來了！
 你相當有本事嘛！","","찾아와 준 모양이구나!
 너, 꽤나 하는구나!","Wie ich sehe, hast du mein ""wertvolles Ding""
 mitgebracht, Cyber-Detektiv! Gute Arbeit!
 Ich bin beeindruckt!"
-4371,1688,"","I went ahead and sent a little something over to
-your office as thanks. Next time I'm in a jam, I'm
-turning to you first, buster! Gwahahaha!","最起碼的謝禮送去事務所了。
+4371,1688,,"Ti ho già mandato qualcosa in ufficio come ringraziamento.
+Se mi trovo di nuovo nei guai, mi faccio vivo con te! Gahahaha!","最起碼的謝禮送去事務所了。
 下次有機會再拜託你啦！　吼啊啊！","","보잘 것 없지만 보수를 사무소로 보내두었다
 또 뭐가 있으면 잘 부탁한다고! 와하하!","Ich habe zum Dank schon mal etwas an dein Büro
 geschickt. Wenn ich wieder in der Klemme stecke,
 melde ich mich bei dir! Gahahaha!"
-4380,1703,"","Detective! You're just the person I was waiting
-for here!","偵探大人！
+4380,1703,,Detective! Ti aspettavo qui!,"偵探大人！
 我一直在等你……","","탐정님!
 당신이 오는 것을 기다리고 있었어요…","Detektiv! Auf dich hatte ich hier gewartet!"
-4381,1703,"","I won't beat around the bush. I lost my ""precious
-thing"" and I'm just worried sick about where it
-could possibly be!","我弄丟「重要之物」了……
+4381,1703,,"Vado subito al sodo.
+Ho perso il mio ""coso prezioso"" e non mi do pace dalla preoccupazione su dove sia finito!","我弄丟「重要之物」了……
 實在很焦慮。","","저,「소중한 물건」을 잃어버려서…
 너무 진정이 안 돼요","Ich komme gleich zur Sache. Ich habe mein
 ""wertvolles Ding"" verloren und bin krank vor
 Sorge, wo es sein könnte!"
-4382,1703,"","I think I dropped it somewhere around
-[m5010].","我想地點應該是在[m5010]。","","장소는 [m5010](이)라고 생각해요","Ich glaube, ich habe es irgendwo in der
+4382,1703,,Credo di averlo perso da qualche parte nella [m5010].,我想地點應該是在[m5010]。","","장소는 [m5010](이)라고 생각해요","Ich glaube, ich habe es irgendwo in der
 [m5010] verloren."
-4383,1703,"","Detective, you have to find it for me, please! I
-want, no, need it back!","偵探大人，拜託你了。
+4383,1703,,"Detective, devi trovarlo per me. Ti prego!
+Lo voglio, no, devo riaverlo!","偵探大人，拜託你了。
 請務必要幫我找回來！","","탐정님, 부탁드려요
 어떻게든 찾아와 주세요!","Detektiv, du musst es für mich finden. Bitte!
 Ich will, nein, ich muss es wiederhaben!"
-4390,1703,"","You're back! And with my ""precious thing,"" no
-less! Thank you so much, Detective!","你找到我的「重要之物」了呢。
+4390,1703,,"Sei tornato! Con la mia ""cosa preziosa""!
+Grazie, grazie mille, Detective!","你找到我的「重要之物」了呢。
 非常謝謝你！","","저의「소중한 물건」, 찾아와 주신 거군요
 감사합니다!","Du bist zurück! Mit meinem ""wertvollen Ding""!
 Vielen, vielen Dank, Detektiv!"
-4391,1703,"","You'll find my thank you gift back at your office.
-I'm so glad it's all in one piece...","我把謝禮送去事務所了。
+4391,1703,,"Nel tuo ufficio ti aspetta un mio pensierino.
+Sono così contento che sia ancora intatto...","我把謝禮送去事務所了。
 唉呀，幸好找到了……","","보수는 사무소로 보내두었습니다
 아아, 찾아서 다행이다…","In deinem Büro wartet mein Dankeschön auf dich.
 Ich bin so froh, dass es noch ganz ist ..."
-4400,1704,"","You that Cyber Sleuth or whatever? Yeah, I got a
-favor to ask you. See, I lost my ""precious thing""
-and that's no good. I need it back.","喔喔，你就是電腦偵探啊……
+4400,1704,,"Sei tu il Cyber Detective? Sì, devo chiederti un favore.
+Ho perso la mia ""cosa preziosa"" e mi serve assolutamente di nuovo.","喔喔，你就是電腦偵探啊……
 其實我弄丟了「重要之物」，正感到很傷腦筋。","","오오, 네가 전뇌탐정인가…
 실은「소중한 물건」을 잃어버려서 곤란한 참이거든","Bist du dieser Cyber-Detektiv? Ja, ich muss dich
 um einen Gefallen bitten. Ich hab mein ""wertvolles
 Ding"" verloren und brauche es unbedingt wieder."
-4401,1704,"","Only place I think I could've lost it would be
-around [m5010].","遺失地點應該是[m5010]。","","잃어버린 장소는 [m5010]일 거야","Ich kann mir nur vorstellen, dass es in der
+4401,1704,,Riesco solo a immaginare che sia nella [m5010].,遺失地點應該是[m5010]。","","잃어버린 장소는 [m5010]일 거야","Ich kann mir nur vorstellen, dass es in der
 [m5010] sein könnte."
-4402,1704,"","Think you could be a pal and go out there and see
-if you can find it for me?","你可以代替我去找找看嗎？","","나 대신에 가서
+4402,1704,,Saresti così gentile da dare un'occhiata lì?,你可以代替我去找找看嗎？,,"나 대신에 가서
 찾아와 주지 않겠어?","Wärst du so nett, dich dort danach umzusehen?"
-4403,1704,"","I'll make sure to reward you well for it.
-Okay? Good luck, Detective!","我會準備相應的報酬。
+4403,1704,,"Ti ricompenserò anche a dovere. Va bene? In bocca al lupo, Detective!","我會準備相應的報酬。
 那就拜託你了！","","그에 상응하는 보수는 준비하도록 하지
 잘 부탁한다!","Ich werde dich auch gut dafür belohnen.
 In Ordnung? Viel Glück, Detektiv!"
-4410,1704,"","Yep, that's it! That's my ""precious thing""! No
-two ways around it!","喔喔！　已經找到了啊！
+4410,1704,,"Eccola! È la mia ""cosa preziosa""! Nessun dubbio!","喔喔！　已經找到了啊！
 沒錯，這個就是我的「重要之物」！","","오오! 벌써 찾은 거야!
 그래, 이거야, 내「소중한 물건」은!","Das ist es! Das ist mein ""wertvolles Ding""!
 Kein Zweifel!"
-4411,1704,"","I sent your reward over to your office while you
-were gone. Thanks a bunch, Cyber Sleuth!","報酬送去事務所了。
+4411,1704,,"Ho mandato la tua ricompensa al tuo ufficio mentre eri in giro.
+Grazie mille, Cyber-Detective!","報酬送去事務所了。
 感謝你，電腦偵探！","","보수는 사무소로 보내두었어
 감사한다, 전뇌탐정!","Ich habe deine Belohnung an dein Büro geschickt,
 während du unterwegs warst.
 Vielen Dank, Cyber-Detektiv!"
-4420,1732,"","Gwahahaha, is that the one and only Cyber Sleuth
-I see?","吼啊啊啊啊！
+4420,1732,,"Gahahaha, cosa vedono i miei occhi? Il famoso Cyber-Detective?","吼啊啊啊啊！
 你就是電腦偵探啊！","","와하하하하!
 네가 전뇌탐정인가!","Gahahaha, was sehen meine Augen? Den berühmten
 Cyber-Detektiv?"
-4421,1732,"","Since you're a big, famous detective. Maybe you
-can help me. I lost my ""precious thing"" and want
-you to, uh, go detect it back or whatever you do.","你要幫本大爺找回「重要之物」嗎！？
+4421,1732,,"Dato che sei così famoso e importante, forse potresti aiutarmi.
+Ho perso la mia ""cosa preziosa"" e voglio che tu la, ehm, scovi.","你要幫本大爺找回「重要之物」嗎！？
 吼啊啊！　那真是太感激了！","","이 몸의「소중한 물건」을 찾아주는 거냐?
 와하하! 이거 참 고맙군!","Da du so berühmt und wichtig bist, kannst du mir
 vielleicht helfen. Ich habe mein ""wertvolles Ding""
 verloren und will, dass du es, äh, detektierst."
-4422,1732,"","If my memory's not busted, it should be out around
-[m4050], I think.","我沒記錯的話，
+4422,1732,,"Se non ricordo male, dovrebbe essere in [m4050].","我沒記錯的話，
 應該是掉在[m4050]才對！","","내 기억이 분명하다면
 [m4050]에서 잃어버렸을 거야!","Wenn meine Erinnerung mich nicht täuscht, sollte
 es in [m4050] sein."
-4423,1732,"","Now that I've asked, you better find it!
-Gwahahaha!","加把勁幫我找回來吧！　吼啊啊啊啊！","","힘내서 찾아와라! 와하하하하!","Da ich dich darum gebeten habe, solltest du
+4423,1732,,"Dato che te l'ho chiesto io, faresti meglio a trovarlo. Gahahaha!","加把勁幫我找回來吧！　吼啊啊啊啊！","","힘내서 찾아와라! 와하하하하!","Da ich dich darum gebeten habe, solltest du
 es lieber finden. Gahahaha!"
-4430,1732,"","I see you brought back my ""precious thing,"" Cyber
-Sleuth! Good job! I'm impressed!","看來你幫我找回來了！
+4430,1732,,"Come vedo, hai portato la mia ""cosa preziosa"", Cyber-Detective!
+Bel lavoro! Sono impressionato!","看來你幫我找回來了！
 你相當有本事嘛！","","찾아와 준 모양이구나!
 너, 꽤나 하는구나!","Wie ich sehe, hast du mein ""wertvolles Ding""
 mitgebracht, Cyber-Detektiv! Gute Arbeit!
 Ich bin beeindruckt!"
-4431,1732,"","I went ahead and sent a little something over to
-your office as thanks. Next time I'm in a jam, I'm
-turning to you first, buster! Gwahahaha!","最起碼的謝禮送去事務所了。
+4431,1732,,"Ti ho già spedito qualcosa al tuo ufficio come ringraziamento.
+Se mi trovo di nuovo nei guai, mi faccio vivo! Gahahaha!","最起碼的謝禮送去事務所了。
 下次有機會再拜託你啦！　吼啊啊！","","보잘 것 없지만 보수를 사무소로 보내두었다
 또 뭐가 있으면 잘 부탁한다고! 와하하!","Ich habe zum Dank schon mal etwas an dein Büro
 geschickt. Wenn ich wieder in der Klemme stecke,
 melde ich mich bei dir! Gahahaha!"
-4440,1733,"","You're late! Do you know how long I've been
-waiting for you!? You should know better than to
-treat a Digimon like that!","真是的！姍姍來遲耶！
+4440,1733,,"Sei in ritardo! Sai da quanto tempo ti sto aspettando?!
+Dovresti sapere che non si tratta così un Digimon!","真是的！姍姍來遲耶！
 我等到都快睡著了，真受不了！","","정말! 오는 게 너무 늦어!
 기다리다 지쳤다고, 정말!
 ","Du bist spät dran! Weißt du, wie lange ich auf
 dich gewartet habe?! Du solltest wissen, dass man
 ein Digimon so nicht behandelt!"
-4441,1733,"","Anyway, I dropped my ""precious thing"" somewhere
-around [m4050]... Could you go
-look there and find it for me?","我在[m4050]把「重要之物」弄丟了……
+4441,1733,,"Comunque, ho perso la mia ""cosa preziosa"" in [m4050].
+Puoi cercarla lì?","我在[m4050]把「重要之物」弄丟了……
 你能幫我找回來嗎？","","나, [m4050]에서「소중한 물건」을
 잃어버렸어… 찾아와 주지 않을래?","Jedenfalls habe ich mein ""wertvolles Ding""
 in [m4050] verloren.
 Kannst du dort danach suchen?"
-4442,1733,"","You're a Cyber Sleuth, so it should be no problem
-for you, right? I'll make sure you're rewarded
-well for you work, so do your job and find it!","你是電腦偵探吧？
+4442,1733,,"Dopotutto sei un Cyber Detective, quindi non dovrebbe essere un problema per te, no?
+Se lo trovi, riceverai anche una bella ricompensa!","你是電腦偵探吧？
 我會確實支付酬勞，你可要把事情辦好哦！","","당신 전뇌탐정이지?
 보수는 꼭 줄 테니, 제대로 일하라고!","Du bist doch ein Cyber-Detektiv, also sollte es
 kein Problem für dich sein, oder? Wenn du es
 findest, erhältst du auch eine tolle Belohnung!"
-4443,1733,"","If I don't get it back, I'll be in...in real
-trouble. So find it for me, okay?","沒有那個的話，我……會很傷腦筋……
+4443,1733,,"Se non lo recupero, finisco davvero nei guai. Quindi trovamelo, ok?","沒有那個的話，我……會很傷腦筋……
 所以拜託你了，知道嗎？","","그게 없으면, 나… 곤란해…
 그러니 부탁해, 응?","Wenn ich es nicht zurückbekomme, kriege ich echt
 Probleme. Finde es also für mich, ja?"
-4450,1733,"","Oh, that's it! You found my ""precious thing""!
-...I mean, whatever, it's not like I'm that happy
-to have it back or anything!","啊！　你找回我的「重要之物」了呢！
+4450,1733,,"Eccolo! Hai trovato la mia ""cosa preziosa""!
+... Ehm, non è che ne sia contento, eh!","啊！　你找回我的「重要之物」了呢！
 ……我、我才沒有很開心呢！","","아! 내「소중한 물건」을 찾아와 준 거구나!
 …벼, 별로 기쁘거나 하지 않거든!","Da ist es! Du hast mein ""wertvolles Ding""
 gefunden! ... Äh, nicht dass ich deswegen
 froh bin oder so!"
-4451,1733,"","You can find your reward back at your office.
-Make sure you treat it nicely! I didn't have to
-give it to you!","我把報酬送去事務所了。
+4451,1733,,"La tua ricompensa la trovi nel tuo ufficio. Spero tu la tratti bene.
+Non te la dovevo mica dare!","我把報酬送去事務所了。
 ……那、那是我的謝禮，你可要好好珍惜哦。","","보수는 사무소로 보내두었어!
 …내, 내가 준 거니까 소중히 쓰라고","Deine Belohnung findest du in deinem Büro.
 Ich hoffe, du gehst gut mit ihr um. Ich musste
 sie dir ja nicht geben!"
-4460,1734,"","Hey! You're the famous Cyber Sleuth everyone's
-been talking about, right!?","就是你吧？
+4460,1734,,"Ehi! Tu sei il famoso Cyber-Detective di cui tutti parlano, non è vero?!","就是你吧？
 傳說中的電腦偵探什麼的！","","너지?
 소문이 무성한 전뇌탐정이라는 녀석이!","He! Du bist der berühmte Cyber-Detektiv, von dem
 alle erzählen, nicht wahr?!"
-4461,1734,"","I'm gonna lay it on you straight, detective. I
-think I lost my ""precious thing"" somewhere and
-that's...not good!","其實……我一個不留神，
+4461,1734,,"Vado dritto al punto, Detective.
+Credo di aver perso il mio 'oggetto prezioso' da qualche parte. Non va bene!","其實……我一個不留神，
 好像把「重要之物」弄丟了……真是有夠頭痛的。","","실은… 깜빡해서「소중한 물건」을
 잃어버린 모양이야, …나 참 곤란하네","Ich komme gleich zum Punkt, Detektiv. Ich glaube,
 ich habe mein ""wertvolles Ding"" irgendwo verloren.
 Das ist nicht gut!"
-4462,1734,"","I'm pretty sure I dropped it somewhere around
-[m4050].","我覺得應該是掉在[m4050]了。","","잃어버린 곳은 아마도, [m4050](이)라고 생각해","Ich bin sicher, ich habe es irgendwo in
+4462,1734,,"Sono sicuro, l'ho lasciato cadere da qualche parte in [m4050].","我覺得應該是掉在[m4050]了。","","잃어버린 곳은 아마도, [m4050](이)라고 생각해","Ich bin sicher, ich habe es irgendwo in
 [m4050] fallen gelassen."
-4463,1734,"","I'll make sure to pay you for your trouble, so
-could you go and look for it, Detective? It'd help
-me so much if you did!","報酬會給得很大方哦，你能不能幫忙找找呢？
+4463,1734,,"Ti pagherò per averlo trovato. Puoi per favore cercarlo, Detective?
+Mi sarebbe di così grande aiuto!","報酬會給得很大方哦，你能不能幫忙找找呢？
 拜託囉，電腦偵探大人。","","보수는 두둑이 할 테니까, 찾아와 주지 않겠어?
 부탁한다고, 전뇌탐정님","Ich werde dich für das Auffinden bezahlen. Kannst
 du bitte danach suchen, Detektiv? Das wäre mir
 eine so große Hilfe!"
-4470,1734,"","Whoa, did you actually find it!? Thanks so much!
-I really owe you one!","喔喔！　你找到了啊！
+4470,1734,,"Wow, l'hai trovato davvero?! Grazie mille! Ti devo proprio qualcosa!","喔喔！　你找到了啊！
 謝謝你啦！　感激不盡！","","오오! 찾아와 준 거야!?
 고마워! 진짜 고맙다!","Wow, du hast es wirklich gefunden?! Vielen Dank!
 Ich schulde dir wirklich was!"
-4471,1734,"","I sent out your reward to your office already.
-Make sure to check to see it's there in one piece!","報酬送去事務所了。
+4471,1734,,"Ho già spedito la ricompensa al tuo ufficio.
+Dovresti controllare se è arrivata sana e salva!","報酬送去事務所了。
 要確實查收哦！","","보수는 사무소로 보내두었어
 확실히 확인해 달라고!","Ich habe die Belohnung schon an dein Büro
 geschickt. Du solltest überprüfen, ob sie
 auch heil angekommen ist!"
-4480,1735,"","Hmm... It's not here... Where could I have left
-it...?","嗯～沒有耶～
+4480,1735,,Mh... Non è qui... Dove l'avrò mai messo...?,"嗯～沒有耶～
 是在哪裡呢～","","음~, 없네에~
 어디에 뒀을까아~","Hm ... Hier ist es nicht ... Wo habe ich es bloß
 gelassen ...?"
-4481,1735,"","Oh, Detective! Great! I need your help so much!
-See, I lost my ""precious thing"" and I don't think
-it's anywhere around here...","啊！　偵探大人！
+4481,1735,,"Ah, Detective! Grandioso! Devi assolutamente aiutarmi!
+Ho perso la mia ""cosa preziosa"" e non è qui...","啊！　偵探大人！
 我好像弄丟「重要之物」了～","","아! 탐정님!
 나,「소중한 물건」을 잃어버린 모양이야~","Ach, Detektiv! Toll! Du musst mir unbedingt
 helfen! Ich habe nämlich mein ""wertvolles Ding""
 verloren und hier ist es nicht ..."
-4482,1735,"","The only place I think it could be would be around
-[m4050]. If you could find it
-for me, it'd really make my day.","嗯～該不會是掉在[m4050]了吧～
+4482,1735,,"Immagino solo che sia in [m4050]. Ti sarei così grato se potessi trovarlo.","嗯～該不會是掉在[m4050]了吧～
 如果你願意幫我找回來的話，我會很高興的～","","음~ 설마 [m4050]에서 잃어버린 걸까아~
 찾아와 주면 기쁠 것 같은데에~","Ich kann mir nur vorstellen, dass es in
 [m4050] ist.
 Ich wäre so dankbar, wenn du es finden könntest."
-4483,1735,"","I'm counting on you, Detective, so good luck!
-I'll just be hanging out here until you get back.","拜託你囉，偵探大人。
+4483,1735,,"Conto su di te, Detective. Buona fortuna! Ti aspetto qui.","拜託你囉，偵探大人。
 我會耐心地等待的～","","잘 부탁해애, 탐정님
 나 느긋이 기다릴 테니까아~","Ich verlasse mich auf dich, Detektiv. Viel Glück!
 Ich warte hier auf dich."
-4490,1735,"","You found it! You're the best and then some,
-Detective!","偵探大～人，你好厲害！
+4490,1735,,"L'hai trovato! Sei proprio un fenomeno, Detective!","偵探大～人，你好厲害！
 真的幫我找回來了呢～","","탐정니~임, 대단~해!
 찾아와 준 거구나아~","Du hast es gefunden! Du bist wirklich einsame
 Spitze, Detektiv!"
-4491,1735,"","I sent your reward over to your office... I think.
-Maybe? Probably. I hope so.","報酬送到事務所了……應該吧。
+4491,1735,,"Ho mandato la tua ricompensa al tuo ufficio.
+Credo. Forse? Probabilmente. Spero.","報酬送到事務所了……應該吧。
 咦？　我不太確定耶～","","보수는 사무소로 보냈을… 텐데
 어라? 어땠었지이~?","Ich habe deine Belohnung an dein Büro geschickt.
 Glaube ich. Vielleicht? Wahrscheinlich.
 Ich hoffe es."
-4500,1737,"","Hi there, Detective! How're you doing today?","Hello，偵探大人！
+4500,1737,,"Ehilà, Detective! Come va oggi?","Hello，偵探大人！
 最近還好嗎？","","헬로, 탐정님!
 잘 지내~?","Hallöchen, Detektiv! Wie läuft es denn heute?"
-4501,1737,"","This is a bit embarrassing to admit, but...I lost
-my ""precious thing"" somewhere and it's making me
-super sad!","我呀，不小心lost掉
+4501,1737,,"Mi vergogno a dirlo, ma... ho perso la mia ""cosa preziosa""
+da qualche parte e quindi sono davvero triste!","我呀，不小心lost掉
 「重要之物」了，現在非常sad……","","미 말이야,「소중한 물건」을
 어딘가에서 로스트해서 말이야, 매우 새드해…","Es ist mir peinlich, das zuzugeben, aber ...
 Ich habe irgendwo mein ""wertvolles Ding"" verloren
 und bin deshalb echt traurig!"
-4502,1737,"","I was wondering if you could go look for it round
-about, oh...I don't know,
-[m5010]?","我覺得東西
+4502,1737,,"Volevo chiederti se potessi cercarlo, in... boh, nella [m5010]?","我覺得東西
 maybe在[m5010]吧～","","그거 메이비,
 [m5010]에 있을 것 같은데~","Ich wollte fragen, ob du es suchen könntest,
 in ... ach, ich weiß nicht,
 in der [m5010]?"
-4503,1737,"","If you find it, I'll give you something fancy in
-return! What do you say? Please!?","如果你幫我find，我就會給你wonderful的報酬喲！
+4503,1737,,"Se lo trovi, in cambio ti darò qualcosa di speciale! Che ne dici? Ti prego?!","如果你幫我find，我就會給你wonderful的報酬喲！
 Please，拜託，請你幫幫忙囉！","","만약 파인드해주면, 원더풀한 보수를 줄게!
 플리즈, 부탁해, 잘 부탁해!","Wenn du es findest, gebe ich dir im Gegenzug
 etwas Ausgefallenes! Was meinst du? Bitte?!"
-4510,1737,"","Awesome, you found it, Detective! I knew you could
-do it!","偵探大～人！　Excellent！
+4510,1737,,"Fantastico! L'hai trovato, Detective! Lo sapevo che ce l'avresti fatta!","偵探大～人！　Excellent！
 你確實幫我find了！","","탐정님~! 엑셀런트!
 제대로 파인드해줬구나!","Toll! Du hast es gefunden, Detektiv!
 Ich wusste, dass du das schaffst!"
-4511,1737,"","I already sent off your reward to your office.
-Thanks a million! You're the best!","Wonderful的報酬已經send到事務所囉！
+4511,1737,,"Ho già spedito la tua ricompensa al tuo ufficio. Mille grazie, Detective!
+Sei imbattibile!","Wonderful的報酬已經send到事務所囉！
 Thank you very much，偵探大人！","","원더풀한 보수는 사무소로 센드했어!
 땡큐 베리 머치, 탐정님!","Deine Belohnung habe ich schon an dein Büro
 geschickt. Tausend Dank, Detektiv! Du bist
 unschlagbar!"
-4520,1738,"","D-D-Detective? I-I-I... I have something I
-have to ask you, if that's all right...","那、那、那、那個……電腦偵探大人。
+4520,1738,,"De-de-detective? Io-io-io... Devo chiederti qualcosa, se posso...","那、那、那、那個……電腦偵探大人。
 其、其、其實我……有一件事要拜託你。","","저, 저, 저, 저기… 전뇌탐정 씨
 시, 시, 실은… 의뢰하고 싶은 것이 있거든요","D-D-Detektiv? I-I-Ich ... Ich muss dich um etwas
 bitten, wenn ich darf ..."
-4521,1738,"","I-I really hate to, hate to impose on you like
-this, but...but I dropped my, my ""precious thing""
-somewhere.","不、不好意思，突、突然請你幫忙……
+4521,1738,,"N-N-Non vorrei proprio farlo, ma...
+ma mi è caduto il mio, il mio ""coso prezioso"" da qualche parte.","不、不好意思，突、突然請你幫忙……
 我、我好像弄丟「重要之物」了。","","죄, 죄송해요, 가, 갑자기 부탁해서…
 저, 저「소중한 물건」을 잃어버린 것 같거든요","D-D-Das mache ich wirklich ungern, aber ... aber
 ich habe mein, mein ""wertvolles Ding"" irgendwo
 fallen gelassen."
-4522,1738,"","It should be around [m5010],
-I b-believe.","地、地點應該是[m5010]。","","자, 장소는 [m5010]이었던 것 같아요","Es sollte irgendwo in der
+4522,1738,,"Dovrebbe essere da qualche parte nella [m5010], c-credo.",地、地點應該是[m5010]。,,"자, 장소는 [m5010]이었던 것 같아요","Es sollte irgendwo in der
 [m5010] sein, g-glaube ich."
-4523,1738,"","If you can... If you can find it for me, I'll give
-you something n-nice in return! I p-promise!
-So p-please, will you help me?","如、如果找到的話，我、我會給予謝禮。
+4523,1738,,"Se tu... se me lo trovi, ti do anche qualcosa di b-bello, p-promesso! M-Mi aiuti? Ti prego!","如、如果找到的話，我、我會給予謝禮。
 拜、拜託你了……！","","마, 만약 찾아내 주신다면, 보, 보답할게요
 자, 잘 부탁드립니다…!","Wenn du ... Wenn du es für mich findest, gebe
 ich dir auch etwas Sch-Schönes, v-versprochen!
 H-Hilfst du mir? Bitte!"
-4530,1738,"","You did it? You really d-did it! Th-thank you!
-Thank you so much!","你、你找到了呢！
+4530,1738,,Ce l'hai fatta? D-Davvero! G-Grazie di cuore!,"你、你找到了呢！
 非、非、非常謝謝你！","","차, 찾아내 주신 거군요!
 가, 가, 감사합니다 입니다!","Du hast es geschafft? T-Tatsächlich!
 V-Vielen herzlichen Dank!"
-4531,1738,"","Y-you should find my thank you gift back at your
-office. Th-thanks again! If I ever n-need anything
-else, I'll ask you again!","謝、謝禮請你到事務所領取。
+4531,1738,,"I-Il mio pensierino ti aspetta nel tuo ufficio! G-Grazie ancora!
+Se mi servirà di nuovo qualcosa, ti chiederò!","謝、謝禮請你到事務所領取。
 下、下次還有機會的話……再、再麻煩你了！","","보, 보답은 사무소에서 받아주셨으면 해요
 또, 또 뭔가 있다면… 자, 잘 부탁드립니다 입니다!","M-Mein Dankeschön wartet in deinem Büro auf dich!
 D-Danke noch mal! Wenn ich wieder etwas
 brauche, werde ich dich fragen!"
-4540,1739,"","Detective! You're just the person I was waiting
-for here!","偵探大人！
+4540,1739,,Detective! Ti stavo aspettando qui!,"偵探大人！
 我一直在等你……","","탐정님!
 당신이 오는 것을 기다리고 있었어요…","Detektiv! Auf dich hatte ich hier gewartet!"
-4541,1739,"","I won't beat around the bush. I lost my ""precious
-thing"" and I'm just worried sick about where it
-could possibly be!","我弄丟「重要之物」了……
+4541,1739,,"Vado subito al sodo.
+Ho perso la mia ""cosa preziosa"" e sono in ansia da morire per dove possa essere!","我弄丟「重要之物」了……
 實在很焦慮。","","저,「소중한 물건」을 잃어버려서…
 너무 진정이 안 돼요","Ich komme gleich zur Sache. Ich habe mein
 ""wertvolles Ding"" verloren und bin krank vor
 Sorge, wo es sein könnte!"
-4542,1739,"","I think I dropped it somewhere around
-[m4050].","我想地點應該是在[m4050]。","","장소는 [m4050](이)라고 생각해요","Ich glaube, ich habe es irgendwo in
+4542,1739,,Credo di averlo perso da qualche parte in [m4050].,我想地點應該是在[m4050]。,,"장소는 [m4050](이)라고 생각해요","Ich glaube, ich habe es irgendwo in
 [m4050] verloren."
-4543,1739,"","Detective, you have to find it for me, please! I
-want, no, need it back!","偵探大人，拜託你了。
+4543,1739,,"Detective, devi trovarlo per me.
+Ti prego! Lo voglio, no, devo riaverlo!","偵探大人，拜託你了。
 請務必要幫我找回來！","","탐정님, 부탁드려요
 어떻게든 찾아와 주세요!","Detektiv, du musst es für mich finden. Bitte!
 Ich will, nein, ich muss es wiederhaben!"
-4550,1739,"","You're back! And with my ""precious thing,"" no
-less! Thank you so much, Detective!","你找到我的「重要之物」了呢。
+4550,1739,,"Sei tornato! Con la mia ""cosa preziosa""! Grazie, grazie mille, Detective!","你找到我的「重要之物」了呢。
 非常謝謝你！","","저의「소중한 물건」, 찾아와 주신 거군요
 감사합니다!","Du bist zurück! Mit meinem ""wertvollen Ding""!
 Vielen, vielen Dank, Detektiv!"
-4551,1739,"","You'll find my thank you gift back at your office.
-I'm so glad it's all in one piece...","我把謝禮送去事務所了。
+4551,1739,,"Nel tuo ufficio ti aspetta il mio ringraziamento.
+Sono così contento che sia ancora intero...","我把謝禮送去事務所了。
 唉呀，幸好找到了……","","보수는 사무소로 보내두었습니다
 아아, 찾아서 다행이다…","In deinem Büro wartet mein Dankeschön auf dich.
 Ich bin so froh, dass es noch ganz ist ..."
-4560,1740,"","Ah, my good detective, I am delighted to see you
-have made it here. I am the Digimon who filed the
-case earlier.","喔喔！　閣下就是電腦偵探大人吧！？
+4560,1740,,"Oh, il bravo detective. Mi fa piacere vederti qui.
+Sono il Digimon che ha incaricato il vostro ufficio del caso.","喔喔！　閣下就是電腦偵探大人吧！？
 在下是發出委託的數碼寶貝。","","오오! 귀공이 전뇌탐정님이로구만!?
 소인은 의뢰한 디지몬이오","Ach, der gute Detektiv. Ich freue mich, dich hier
 zu sehen. Ich bin das Digimon, das euer
 Büro mit dem Fall beauftragt hat."
-4561,1740,"","I am terribly embarrassed to admit this, but I
-have lost ""something most precious"" to me.","說來丟人，在下不慎
+4561,1740,,"Mi vergogno un sacco ad ammetterlo, ma ho perso una ""cosa preziosa"".","說來丟人，在下不慎
 弄丟「重要之物」了……","","부끄럽게도 소인이 자신의「소중한 물건」을
 어딘가에서 잃어버려서 말이오…","Es ist mir furchtbar peinlich, das zuzugeben, aber
 ich habe ein ""wertvolles Ding"" verloren."
-4562,1740,"","Were I to hazard a guess, I would suppose you
-might find it around [m4050]
-or thereabouts.","恐怕是掉在[m4050]了。","","잃어버린 곳은 아마도, [m4050](이)라오","Wenn ich raten müsste, würde ich sagen, dass
+4562,1740,,"Se dovessi tirare a indovinare, direi che probabilmente potresti trovarlo in [m4050].","恐怕是掉在[m4050]了。","","잃어버린 곳은 아마도, [m4050](이)라오","Wenn ich raten müsste, würde ich sagen, dass
 du es wahrscheinlich in
 [m4050] finden könntest."
-4563,1740,"","As such, I wish to solicit your assistance in
-retrieving it back. If you could find my ""precious
-thing"" and return it I would be most appreciative.","懇請偵探大人伸出援手。
+4563,1740,,"Vorrei il tuo aiuto per riaverlo. Te ne sarei davvero grato se trovi il mio ""oggetto prezioso"".","懇請偵探大人伸出援手。
 務必幫在下找回「重要之物」。","","탐정님, 여기는 한 번 그 힘을 빌리고 싶소이다
 어떻게든「소중한 물건」을 찾아와 주셨으면 하오","Ich möchte deine Hilfe in Anspruch nehmen, um es
 zurückzubekommen. Ich würde es wirklich schätzen,
 wenn du mein ""wertvolles Ding"" findest."
-4570,1740,"","Oho, pray tell you've found my ""precious thing,""
-detective? Splendid! I knew your wits would bring
-it back to me posthaste!","喔喔！　閣下找到了嗎？
+4570,1740,,"Aha, hai trovato la mia 'preziosa cosa', Detective!
+Eccellente! Sapevo che te ne saresti occupato subito!","喔喔！　閣下找到了嗎？
 真是太好了！　在下欣喜之至！","","오오! 찾아내 주신 것이오?
 그것은, 그것은! 매우 축복할 만한 일이오!!","Aha, du hast wohl mein ""wertvolles Ding"" gefunden,
 Detektiv! Ausgezeichnet! Ich wusste, dass du dich
 umgehend darum kümmern würdest!"
-4571,1740,"","I shall endeavor to send compensation to your
-office for your marvelous work. Truly, I am most
-grateful and indebted to you.","報酬會送至事務所。
+4571,1740,,"Cercherò di farti avere una ricompensa per il tuo fantastico lavoro.
+Ti sono davvero grato.","報酬會送至事務所。
 電腦偵探大人……在下感激不盡，這次勞閣下相助了。","","보수는 사무소에 보냈소
 전뇌탐정님… 고맙기 그지없소이다, 이번에는 매우 큰 도움이 되었소","Ich werde mich bemühen, dir für deine fantastische
 Arbeit eine Belohnung zukommen zu lassen.
 Ich bin dir wirklich zu Dank verpflichtet."
-4580,1741,"","*sigh* Where could my ""precious thing"" have
-gone? I can't find it anywhere...","唉，究竟跑哪去了呢？
+4580,1741,,"*Sospiro* Dov'è finito il mio ""oggetto prezioso""?
+Non riesco a trovarlo da nessuna parte...","唉，究竟跑哪去了呢？
 那明明是我的「重要之物」啊……","","…하아, 어디로 가버린 걸까
 그건 나의「소중한 물건」인데…","*Seufz* Wo ist mein ""wertvolles Ding"" nur
 abgeblieben? Ich kann es nirgends finden ..."
-4581,1741,"","Surely I didn't lose it while I was running around
-[m4050] earlier, right?","該不會是
+4581,1741,,"Non l'avrò mica perso quando ero prima a [m4050], no?","該不會是
 掉在[m4050]了吧……","","설마, [m4050]에서
 잃어버리다니 생각도 못 했어…","Ich habe es doch nicht etwa verloren, als ich
 vorhin in [m4050] war, oder?"
-4582,1741,"","It's so far away, though. I'd hate to walk all the
-way back there to look for it... Sure would be
-nice if someone did it for me. I'd repay them...","感覺跑去找也很麻煩……
+4582,1741,,"È un sacco di strada. Non voglio fare tutta quella strada per cercarlo.
+Se solo qualcuno mi desse una mano. Pagherei per questo.","感覺跑去找也很麻煩……
 如果有人能幫我找回來的話，我就送他謝禮好了……","","찾으러 가는 것도 쉽지 않아 보이고…
 만약 누가 찾아와 준다면 답례라도 할까…","Das ist so weit. Ich will nicht so weit
 laufen, um danach zu suchen. Wenn mir doch nur
 jemand helfen würde. Ich würde dafür zahlen."
-4583,1741,"","Whoa, how long have you been there!? Well, don't
-mind me, I was just talking to myself.","！！　咦？　你什麼時候出現在那裡的？
+4583,1741,,"Oh, ma da quanto sei qui?! Ignorami e basta, sto solo parlando da solo.","！！　咦？　你什麼時候出現在那裡的？
 剛才是我在自言自語……你別在意哦！","","!! 어? 너 언제부터 거기에 있었어?
 아까 거는 그냥 혼잣말이니까… 신경 안 써도 돼!","Huch, wie lange bist du schon da?! Ignorier mich
 einfach, ich führe nur Selbstgespräche."
-4590,1741,"","Huh? You went out and found my ""precious thing""?
-Really!? You heard all of that!?","……咦？　你找到我的「重要之物」了？
+4590,1741,,"Cosa? Hai trovato la mia ""cosa preziosa""?
+Davvero?! Hai sentito tutto?!","……咦？　你找到我的「重要之物」了？
 看來你是聽到了我的自言自語吧？","","…어? 내「소중한 물건」을 찾아와 준 거야?
 너, 내 혼잣말 듣고 있었구나?","Was? Du hast mein ""wertvolles Ding"" gefunden?
 Wirklich?! Du hast alles gehört?!"
-4591,1741,"","Wow, thanks so much! I'll make sure to send a
-thank you gift for going to all that trouble for
-me! You're a real life saver!","謝謝你！
+4591,1741,,"Wow, grazie mille!
+Ti manderò un regalo, per tutta la fatica che ti sei fatto! Sei la mia salvezza!","謝謝你！
 我會確實把報酬送去事務所，請你放心。","","고마워!
 보수는 제대로 사무소로 보내둘 테니까, 안심해","Wow, vielen Dank! Ich werde dir ein Geschenk
 schicken, wegen all der Mühe, die du dir gemacht
 hast! Du bist meine Rettung!"
-4600,1742,"","My, if it isn't the Cyber Sleuth! Hard to believe
-you're right in front of me!","唉呀～就是你吧？
+4600,1742,,"Se non è il Cyber-Detective! Non ci credo che ti vedo con i miei occhi!","唉呀～就是你吧？
 叫做電腦偵探的，嗚呵呵♪","","어머~ 당신이구나?
 전뇌탐정이라는 게, 우후후♪","Wenn das nicht der Cyber-Detektiv ist!
 Schwer zu glauben, dass ich dich mit eigenen
 Augen sehe!"
-4601,1742,"","I won't waste your time detective. Basically, I
-think I dropped my ""precious thing"" somewhere.","我呀，好像把「重要之物」
+4601,1742,,"Non ti farò perdere tempo, Detective.
+È così: ho fatto cadere la mia ""cosa preziosa"" da qualche parte.","我呀，好像把「重要之物」
 遺失在某個地方了。","","나, 어딘가에서「소중한 물건」을
 잃어버린 모양이야","Ich werde deine Zeit nicht vergeuden, Detektiv.
 Es ist so: Ich habe mein ""wertvolles Ding""
 irgendwo fallen gelassen."
-4602,1742,"","I'm pretty sure I dropped it somewhere around
-[m4050].","我想應該是在[m4050]啦……","","아마도 [m4050]에서 잃어버렸다고 생각하는데…","Ich bin sicher, ich habe es irgendwo in
+4602,1742,,"Sono sicuro, l'ho lasciato cadere da qualche parte in [m4050].","我想應該是在[m4050]啦……","","아마도 [m4050]에서 잃어버렸다고 생각하는데…","Ich bin sicher, ich habe es irgendwo in
 [m4050] fallen gelassen."
-4603,1742,"","Could you be a darling and go look for it me?
-You'll be paid well in return, I promise, hehe!","可愛的偵探大人，能不能幫我找回來呢？
+4603,1742,,"Potresti essere così gentile da cercarlo per me?
+Ti pagherò anche per questo. Promesso, hehe!","可愛的偵探大人，能不能幫我找回來呢？
 謝禮會給得很大方喲？　嗚呵呵。","","귀여운 탐정님, 나 대신에 찾아와 주면 안 될까
 보답은 두둑이 할게? 우후후","Könntest du so nett sein und für mich danach
 suchen? Ich werde dich auch dafür bezahlen.
 Versprochen, hehe!"
-4610,1742,"","Oh, Detective, you're back! Did you find my
-""precious thing""? You did? Excellent!","唉呀，偵探大人。
+4610,1742,,"Oh, Detective! Sei tornato! Hai trovato la mia ""cosa preziosa""?
+Davvero? Eccellente!","唉呀，偵探大人。
 你幫我找到那個東西了是不是？","","어머, 탐정님
 전에 말했던 물건, 찾아와 준 거구나?","Ach, Detektiv! Du bist zurück! Hast du mein
 ""wertvolles Ding"" gefunden? Wirklich?
 Ausgezeichnet!"
-4611,1742,"","Your reward is waiting for you back at your
-office. I hope it's to your liking, hehehehe!","我把報酬送去事務所了。
+4611,1742,,"La tua ricompensa ti aspetta nel tuo ufficio.
+Spero che ti piaccia, hehehehe!","我把報酬送去事務所了。
 要確實查收哦♪　嗚呵呵呵呵。","","보수는 사무소로 보내두었어
 확실히 확인하렴♪ 우후후후후","Deine Belohnung wartet in deinem Büro auf dich.
 Ich hoffe, dass sie dir gefällt, hehehehe!"
-4620,1743,"","Are you the Cyber Sleuth? I've been waiting
-anxiously to meet you!","你就是電腦偵探啊……我都快急死了。","","네가 전뇌탐정인가… 기다리다 지쳤다","Bist du der Cyber-Detektiv? Ich habe schon darauf
+4620,1743,,"Sei il Cyber-Detective? Non vedevo l'ora di conoscerti!","你就是電腦偵探啊……我都快急死了。","","네가 전뇌탐정인가… 기다리다 지쳤다","Bist du der Cyber-Detektiv? Ich habe schon darauf
 gewartet, dich kennenzulernen!"
-4621,1743,"","I think I lost my ""precious thing"" somewhere when
-I wasn't looking.","看我怎麼搞的，好像把「重要之物」
+4621,1743,,"Mi sa che non ci ho fatto caso e ho perso
+il mio ""cosa preziosa"" da qualche parte.","看我怎麼搞的，好像把「重要之物」
 弄丟在某個地方了……","","나란 놈도 참,「소중한 물건」을
 어딘가에서 잃어버린 모양이야…","Ich glaube, ich habe nicht aufgepasst und mein
 ""wertvolles Ding"" irgendwo verloren."
-4622,1743,"","I think it must have fallen out somewhere around
-[m4030].","恐怕是掉在[m4030]吧。","","잃어버린 곳은 아마도, [m4030]일 거야","Ich glaube, es muss mir in [m4030]
+4622,1743,,Credo mi dev'essere caduto dalla tasca in [m4030].,恐怕是掉在[m4030]吧。,,"잃어버린 곳은 아마도, [m4030]일 거야","Ich glaube, es muss mir in [m4030]
 aus der Tasche gefallen sein."
-4623,1743,"","I'll compensate you once you've found it and
-brought it back to me. I'm counting on you, Cyber
-Sleuth! Don't let me down!","要是你幫我找回來的話，我會給予相應的報酬。
+4623,1743,,"Se lo trovi e me lo porti, ti ricompenserò!
+Conto su di te, Cyber-Detective! Non deludermi!","要是你幫我找回來的話，我會給予相應的報酬。
 那就交給你囉，電腦偵探。","","찾아와 주면, 그에 상응하는 보수를 지급하지
 부탁한다, 전뇌탐정","Wenn du es gefunden und zu mir gebracht hast,
 belohne ich dich! Ich zähle auf dich,
 Cyber-Detektiv! Lass mich nicht im Stich!"
-4630,1743,"","Wow, you really found my ""precious thing""!
-I knew I could count on the Cyber Sleuth!","喔喔！　你找到我的「重要之物」了！
+4630,1743,,"Wow, hai davvero trovato la mia ""cosa preziosa""!
+Lo sapevo che sul Cyber-Detective si può contare!","喔喔！　你找到我的「重要之物」了！
 不愧是電腦偵探！","","오오!「소중한 물건」을 찾아와 준 거구나!
 역시 전뇌탐정이다!","Wow, du hast mein ""wertvolles Ding""
 tatsächlich gefunden! Ich wusste doch, dass
 auf den Cyber-Detektiv Verlass ist!"
-4631,1743,"","You'll find your reward back at your office.
-Thank you so much! I'm so happy to have this back
-safe and sound!","報酬送去事務所了。
+4631,1743,,"Nel tuo ufficio ti aspetta la tua ricompensa.
+Mille, mille grazie! Sono così contento di averlo riavuto sano e salvo!","報酬送去事務所了。
 謝謝，我衷心感謝你。","","보수는 사무소로 보내두었다
 …고맙다, 진심으로 감사한다","In deinem Büro wartet deine Belohnung auf dich.
 Vielen, vielen Dank! Ich bin so froh, es
 heile wiederbekommen zu haben!"
-4640,1744,"","Ah, my good detective, I am delighted to see you
-have made it here. I am the Digimon who filed the
-case earlier.","喔喔！　閣下就是電腦偵探大人吧！？
+4640,1744,,"Ah, il bravo detective. Mi fa piacere vederti qui.
+Sono il Digimon che ha affidato il caso al vostro ufficio.","喔喔！　閣下就是電腦偵探大人吧！？
 在下是發出委託的數碼寶貝。","","오오! 귀공이 전뇌탐정님이로구만!?
 소인은 의뢰한 디지몬이오","Ach, der gute Detektiv. Ich freue mich, dich hier
 zu sehen. Ich bin das Digimon, das euer
 Büro mit dem Fall beauftragt hat."
-4641,1744,"","I am terribly embarrassed to admit this, but I
-have lost ""something most precious"" to me.","說來丟人，在下不慎
+4641,1744,,"Mi vergogno un sacco ad ammetterlo, ma ho perso una ""cosa preziosa"".","說來丟人，在下不慎
 弄丟「重要之物」了……","","부끄럽게도 소인이 자신의「소중한 물건」을
 어딘가에서 잃어버려서 말이오…","Es ist mir furchtbar peinlich, das zuzugeben, aber
 ich habe ein ""wertvolles Ding"" verloren."
-4642,1744,"","Were I to hazard a guess, I would suppose you
-might find it around [m4030]
-or thereabouts.","恐怕是掉在[m4030]了。","","잃어버린 곳은 아마도, [m4030](이)라오","Wenn ich raten müsste, würde ich sagen, dass
+4642,1744,,"Se dovessi indovinare, direi che probabilmente potresti trovarlo in [m4030].","恐怕是掉在[m4030]了。","","잃어버린 곳은 아마도, [m4030](이)라오","Wenn ich raten müsste, würde ich sagen, dass
 du es wahrscheinlich in
 [m4030] finden könntest."
-4643,1744,"","As such, I wish to solicit your assistance in
-retrieving it back. If you could find my ""precious
-thing"" and return it I would be most appreciative.","懇請偵探大人伸出援手。
+4643,1744,,"Vorrei il tuo aiuto per riaverlo indietro.
+Te ne sarei davvero grato se trovassi il mio ""oggetto prezioso"".","懇請偵探大人伸出援手。
 務必幫在下找回「重要之物」。","","탐정님, 여기는 한 번 그 힘을 빌리고 싶소이다
 어떻게든「소중한 물건」을 찾아와 주셨으면 하오","Ich möchte deine Hilfe in Anspruch nehmen, um es
 zurückzubekommen. Ich würde es wirklich schätzen,
 wenn du mein ""wertvolles Ding"" findest."
-4650,1744,"","Oho, pray tell you've found my ""precious thing,""
-detective? Splendid! I knew your wits would bring
-it back to me posthaste!","喔喔！　閣下找到了嗎？
+4650,1744,,"Aha, a quanto pare hai trovato la mia ""cosa preziosa"", Detective!
+Eccellente! Sapevo che te ne saresti occupato immediatamente!","喔喔！　閣下找到了嗎？
 真是太好了！　在下欣喜之至！","","오오! 찾아내 주신 것이오?
 그것은, 그것은! 매우 축복할 만한 일이오!!","Aha, du hast wohl mein ""wertvolles Ding"" gefunden,
 Detektiv! Ausgezeichnet! Ich wusste, dass du dich
 umgehend darum kümmern würdest!"
-4651,1744,"","I shall endeavor to send compensation to your
-office for your marvelous work. Truly, I am most
-grateful and indebted to you.","報酬會送至事務所。
+4651,1744,,"Mi impegnerò a farti arrivare una ricompensa per il tuo fantastico lavoro.
+Ti sono davvero grato.","報酬會送至事務所。
 電腦偵探大人……在下感激不盡，這次勞閣下相助了。","","보수는 사무소에 보냈소
 전뇌탐정님… 고맙기 그지없소이다, 이번에는 매우 큰 도움이 되었소","Ich werde mich bemühen, dir für deine fantastische
 Arbeit eine Belohnung zukommen zu lassen.
 Ich bin dir wirklich zu Dank verpflichtet."
-4660,1745,"","Are you the Cyber Sleuth? I've been waiting
-anxiously to meet you!","你就是電腦偵探啊……我都快急死了。","","네가 전뇌탐정인가… 기다리다 지쳤다","Bist du der Cyber-Detektiv? Ich habe schon darauf
+4660,1745,,Sei il Cyber-Detective? Non vedevo l'ora di conoscerti!,你就是電腦偵探啊……我都快急死了。,,네가 전뇌탐정인가… 기다리다 지쳤다,"Bist du der Cyber-Detektiv? Ich habe schon darauf
 gewartet, dich kennenzulernen!"
-4661,1745,"","I think I lost my ""precious thing"" somewhere when
-I wasn't looking.","看我怎麼搞的，好像把「重要之物」
+4661,1745,,"Credo di non aver fatto attenzione e
+di aver perso la mia ""cosa preziosa"" da qualche parte.","看我怎麼搞的，好像把「重要之物」
 弄丟在某個地方了……","","나란 놈도 참,「소중한 물건」을
 어딘가에서 잃어버린 모양이야…","Ich glaube, ich habe nicht aufgepasst und mein
 ""wertvolles Ding"" irgendwo verloren."
-4662,1745,"","I think it must have fallen out somewhere around
-[m4030].","恐怕是掉在[m4030]吧。","","잃어버린 곳은 아마도, [m4030]일 거야","Ich glaube, es muss mir in [m4030]
+4662,1745,,Mi sa che mi dev'essere caduto in [m4030] dalla tasca.,恐怕是掉在[m4030]吧。,,"잃어버린 곳은 아마도, [m4030]일 거야","Ich glaube, es muss mir in [m4030]
 aus der Tasche gefallen sein."
-4663,1745,"","I'll compensate you once you've found it and
-brought it back to me. I'm counting on you, Cyber
-Sleuth! Don't let me down!","要是你幫我找回來的話，我會給予相應的報酬。
+4663,1745,,"Se lo trovi e me lo porti, ti ricompenserò! Conto su di te, Cyber-Detective!
+Non mi deludere!","要是你幫我找回來的話，我會給予相應的報酬。
 那就交給你囉，電腦偵探。","","찾아와 주면, 그에 상응하는 보수를 지급하지
 부탁한다, 전뇌탐정","Wenn du es gefunden und zu mir gebracht hast,
 belohne ich dich! Ich zähle auf dich,
 Cyber-Detektiv! Lass mich nicht im Stich!"
-4670,1745,"","Wow, you really found my ""precious thing""!
-I knew I could count on the Cyber Sleuth!","喔喔！　你找到我的「重要之物」了！
+4670,1745,,"Wow, hai davvero trovato la mia ""cosa preziosa""! Lo sapevo io che sul Cyber-Detective ci si può contare!","喔喔！　你找到我的「重要之物」了！
 不愧是電腦偵探！","","오오!「소중한 물건」을 찾아와 준 거구나!
 역시 전뇌탐정이다!","Wow, du hast mein ""wertvolles Ding""
 tatsächlich gefunden! Ich wusste doch, dass
 auf den Cyber-Detektiv Verlass ist!"
-4671,1745,"","You'll find your reward back at your office.
-Thank you so much! I'm so happy to have this back
-safe and sound!","報酬送去事務所了。
+4671,1745,,"Nel tuo ufficio ti aspetta la tua ricompensa. Mille, mille grazie!
+Sono così contento di averlo riavuto sano e salvo!","報酬送去事務所了。
 謝謝，我衷心感謝你。","","보수는 사무소로 보내두었다
 …고맙다, 진심으로 감사한다","In deinem Büro wartet deine Belohnung auf dich.
 Vielen, vielen Dank! Ich bin so froh, es
 heile wiederbekommen zu haben!"
-4680,1747,"","Well, if it isn't the famous Cyber Sleuth everyone
-likes to talk about! It's so awesome to meet you
-in person like this!","唉呀，你就是那個偵探大人吧～
+4680,1747,,"Ma guarda un po' chi si vede, il famoso Cyber-Detective di cui tutti parlano!
+È fantastico conoscerti di persona!","唉呀，你就是那個偵探大人吧～
 真開心你願意跑來找我～♪","","어머, 당신, 그 유명한 탐정님이지~?
 나를 만나러 와주다니 기뻐~♪","Wenn das nicht der berühmte Cyber-Detektiv ist,
 von dem alle reden! Es ist so toll, dich
 persönlich kennenzulernen!"
-4681,1747,"","Great timing, too! I just lost my ""precious thing""
-and I'm really lost as to what I should do!","而且你真會選時間耶～
+4681,1747,,"E che tempismo! Ho appena perso la mia ""cosa preziosa"". Non so cosa fare!","而且你真會選時間耶～
 我剛好弄丟了「重要之物」，正感到很傷腦筋呢～","","게다가 타이밍이 아주 절묘해~
 나 마침「소중한 물건」을 잃어버려서 곤란하던 참이야~","Und tolles Timing! Ich habe nämlich gerade mein
 ""wertvolles Ding"" verloren. Ich weiß nicht,
 was ich tun soll!"
-4682,1747,"","I'm thinking I probably last saw it around
-[m4030].
-If you could help me, that'd be so great!","我想一定是掉在[m4030]了～
+4682,1747,,"Credo di averlo visto l'ultima volta in [m4030].
+Sarebbe davvero fantastico se potessi darmi una mano!","我想一定是掉在[m4030]了～
 你會幫我的吧，偵探大人♪","","분명 [m4030]에서 잃어버렸다고 생각해~
 도와줄 거지? 탐정님♪","Ich glaube, ich habe es zuletzt in
 [m4030] gesehen. Es wäre
 so toll, wenn du mir helfen könntest!"
-4683,1747,"","I'll give you something nice in return, so don't
-disappoint me, okay?","我會確～實給予謝禮的，
+4683,1747,,"Ti darò anche qualcosa di bello in cambio.
+Quindi non deludermi, ok?","我會確～實給予謝禮的，
 麻煩你去幫我找找吧♪","","제대~로 보답할 테니까
 찾아와줘♪","Ich gebe dir dafür auch etwas Schönes. Enttäusche
 mich also nicht, ja?"
-4690,1747,"","Whoooa, you really found it! You're amazing!","哇，你真厲害！
+4690,1747,,"Wow, lo hai davvero trovato! Sei forte!","哇，你真厲害！
 確～實幫我找回來了呢～♪","","우와, 굉장~해!
 제대~로 찾아와주었구나~♪","Wow, du hast es wirklich gefunden! Du bist spitze!"
-4691,1747,"","I sent my thank you gift to your office. If I
-ever need help again in the future, I know who I'm
-going to ask!","謝禮送到事務所囉～
+4691,1747,,"Ti ho spedito il mio ringraziamento in ufficio.
+Se in futuro avrò ancora bisogno d'aiuto, saprò a chi chiedere!","謝禮送到事務所囉～
 有機會再麻煩你了喲～♪","","보답은 사무소로 보내두었어~
 또 뭔가 있으면 잘 부탁해~♪","Mein Dankeschön habe ich an dein Büro geschickt.
 Wenn ich in Zukunft noch mal Hilfe brauche,
 weiß ich, wen ich frage!"
-4700,1748,"","My ""precious thing""... Umumumum... Where could it
-be, oh, where could it be...?","啊……我的「重要之物」……
+4700,1748,,"La mia ""cosa preziosa""… Mhmhmh… Dov'è mai, ah, dov'è mai…?","啊……我的「重要之物」……
 唔嗯嗯嗯嗯……","","아아… 내「소중한 물건」이
 으으으으음…","Mein ""wertvolles Ding"" ... Hmhmhm ... Wo ist es
 bloß, ach, wo ist es bloß ...?"
-4701,1748,"","I bet it lost it when I was out around
-[m4030].
-Yeah! It has to be there!","一定是去[m4030]的時候弄丟的！
+4701,1748,,"Scommetto che l'ho perso quando ero a [m4030]. Sì, deve essere lì!","一定是去[m4030]的時候弄丟的！
 沒錯！　絕對是這樣！","","분명 [m4030]에 갔을 때 잃어버린 거야!
 그래! 분명 그럴 거야!","Ich wette, ich habe es verloren, als ich in
 [m4030] war.
 Ja, dort muss es sein!"
-4702,1748,"","You there! I want your help! I'll make it worth
-your while, so just go and get it back for me!","喂，我說你！　來幫個忙吧！
+4702,1748,,"Ehi tu! Voglio che tu mi aiuti! Ne varrà la pena anche per te.
+Dai, vai e riportamelo!","喂，我說你！　來幫個忙吧！
 找到有豐厚獎賞哦！","","이봐, 너! 협력해라!
 찾아주면 듬뿍 보답을 해주겠다!","Du da! Ich möchte, dass du mir hilfst! Es wird
 sich für dich auch lohnen. Geh bitte los und
 bring es mir zurück!"
-4703,1748,"","If you're going to do it, hurry up and get to it
-already! Now! NOW!","既然這麼決定了，現在就去找吧！
+4703,1748,,"Se vuoi aiutarmi, allora sbrigati però! Svelto, SVELTO!","既然這麼決定了，現在就去找吧！
 好了，快點！　喂，快點！　唉呀，快點！","","그렇게 정했다면 지금 바로 찾으러 가는 거다!
 자, 빨리! 어서, 빨리! 해라, 빨리!","Wenn du mir helfen willst, dann beeil dich aber!
 Zack, ZACK!"
-4710,1748,"","You found it!? So you did! Yesssss!
-Now hurry up and hand it over already!","找到了嗎！　找到了啊！
+4710,1748,,"L'hai trovato?! Davvero! Evviva! Dai, dammelo!","找到了嗎！　找到了啊！
 喔喔喔喔喔——！　那趕快給我！","","찾아낸 거냐! 찾아낸 거구나!
 오오오오오―! 그렇다면 빨리 나한테 넘기는 거다!","Du hast es gefunden?! Tatsächlich! Hurra!
 Jetzt gib es schon her!"
-4711,1748,"","I sent a handsome reward over to your office.
-You did great finding this thing!","獎賞送去事務所了！
+4711,1748,,Ho spedito una generosa ricompensa al tuo ufficio. È stata una bella impresa trovarlo!,"獎賞送去事務所了！
 你還蠻能幹的嘛！","","답례는 사무소로 보내두었다!
 너, 꽤 하는구나!","Ich habe eine großzügige Belohnung an dein Büro
 geschickt. Das war eine Leistung, es zu finden!"
-4720,1749,"","Nice to meet you, Detective. I'm the one who
-filed this case with your office.","初次見面，偵探大人。
+4720,1749,,"Piacere di conoscerti, detective. Sono io il mandante di questo caso.","初次見面，偵探大人。
 發出委託的就是我。","","처음 뵙겠습니다, 탐정님
 제가 의뢰인입니다","Freut mich, dich kennenzulernen, Detektiv.
 Ich bin der Auftraggeber für diesen Fall."
-4721,1749,"","I'll get straight to the point. I lost my
-""precious thing"" the other day and...that's not
-good. Not at all.","看我怎麼搞的，前陣子竟然弄丟了「重要之物」……
+4721,1749,,"Vengo subito al punto.
+Poco tempo fa ho perso la mia ""cosa preziosa"" e non va bene. Proprio per niente bene.","看我怎麼搞的，前陣子竟然弄丟了「重要之物」……
 現在非常傷腦筋。","","저번에 제가 모르고「소중한 물건」을 잃어버려서…
 매우 곤란합니다","Ich komme sofort zum Thema. Vor Kurzem habe ich
 mein ""wertvolles Ding"" verloren und das ist nicht
 gut. Gar nicht gut."
-4722,1749,"","I think it probably fell out somewhere around
-[m4030]. That's my guess.","遺失地點恐怕是在[m4030]吧。","","잃어버린 장소는 아마도, [m4030](이)겠죠","Ich glaube, es muss mir aus der Tasche gefallen
+422,1749,,"Credo mi sia caduto di tasca, in [m4030]. Punto su quello.",遺失地點恐怕是在[m4030]吧。,,"잃어버린 장소는 아마도, [m4030](이)겠죠","Ich glaube, es muss mir aus der Tasche gefallen
 sein, in [m4030].
 Darauf tippe ich."
-4723,1749,"","If you could find it for me, I'll repay you in
-kind. I wish you luck out there, Detective.","如果你幫我找回來的話，我會給予謝禮的。
+4723,1749,,"Se potessi trovarlo per me, ti darò qualcosa in cambio.
+Buona fortuna, detective.","如果你幫我找回來的話，我會給予謝禮的。
 拜託你了。","","찾아와 주신다면 보답하겠습니다
 부디, 잘 부탁드립니다","Wenn du es für mich finden könntest, gebe ich dir
 im Gegenzug etwas. Viel Glück, Detektiv."
-4730,1749,"","That's it! That's my ""precious thing"" without a
-doubt! I'm so relieved it's okay!","喔喔！　那個東西！
+4730,1749,,"Eccolo! Senza dubbio, questa è la mia ""cosa preziosa"".
+Sono così contento che sia intatto!","喔喔！　那個東西！
 你幫我找回來了呢！","","오오! 그것은!
 찾아와 주신 거군요!","Das ist es! Kein Zweifel, das ist mein ""wertvolles
 Ding"". Ich bin so froh, dass es heile ist!"
-4731,1749,"","Thank you for doing all this for me, detective!
-I've already sent my thank you gift over to your
-office. I hope you like it!","謝謝你！
+4731,1749,,"Grazie per aver sistemato questa cosa per me, Detective!
+Ho già mandato il mio ringraziamento al tuo ufficio. Spero ti piaccia!","謝謝你！
 我把謝禮送去事務所了！","","감사합니다!
 보답은 사무소로 보내두었어요!","Danke, dass du das für mich erledigt hast,
 Detektiv! Ich habe mein Dankeschön schon an dein
 Büro geschickt. Ich hoffe, es gefällt dir!"
-4740,1754,"","Greetings, Detective.","你好，偵探大人。","","안녕하세요, 탐정님","Sei gegrüßt, Detektiv."
-4741,1754,"","It has recently come to my attention that I
-dropped my ""precious thing"" somewhere.","我不小心把「重要之物」
+4740,1754,,"Salve, Detective.",你好，偵探大人。,,"안녕하세요, 탐정님","Sei gegrüßt, Detektiv."
+4741,1754,,"Mi sono accorto da poco di aver lasciato cadere la mia ""cosa preziosa"" da qualche parte.","我不小心把「重要之物」
 遺失在某個地方了……","","저,「소중한 물건」을
 어딘가에서 잃어버려서 말이죠…","Mir ist vor Kurzem aufgefallen, dass ich mein
 ""wertvolles Ding"" irgendwo fallen gelassen habe."
-4742,1754,"","Most likely, it fell out while I was out
-strolling around in [m4030].","恐怕是去
+4742,1754,,"Probabilmente mi è caduto dalla tasca, quando andavo in giro per [m4030].","恐怕是去
 [m4030]的時候遺失的。","","잃어버린 건 아마도
 [m4030]에 갔을 때겠죠","Wahrscheinlich ist es mir aus der Tasche gefallen,
 als ich in [m4030]
 herumgelaufen bin."
-4743,1754,"","Should you find it and bring it back to me, I'll
-have a reward prepared for you. I'd greatly
-appreciate it if you could do that, Detective.","我會確實支付報酬。
+4743,1754,,"Se lo trovi e me lo porti, ti darò una ricompensa.
+Se lo fai, ti sarei molto grato, Detective.","我會確實支付報酬。
 請你務必要幫我找到。","","보수는 확실히 드리겠어요
 반드시 찾아와 주세요","Falls du es findest und mir bringst, werde ich
 eine Belohnung für dich bereitstellen. Wenn du das
 tust, wäre ich dir sehr dankbar, Detektiv."
-4750,1754,"","Why hello again, Detective. What brings you here
-this time...? Oh, I see you've found it!","你好，偵探大人。
+4750,1754,,"Oh, ciao, Detective. Cosa ti porta qui questa volta...? Ah, l'hai trovato!","你好，偵探大人。
 ……噢，那個東西！　你幫我找回來了呢！","","안녕하세요, 탐정님
 …오오 그건! 찾아와 주신 거군요!","Ach, hallo, Detektiv. Was bringt dich dieses Mal
 hierher ...? Ach, du hast es gefunden!"
-4751,1754,"","Thank you most kindly, Detective. Your reward will
-be waiting for you at your office.","萬分感謝。
+4751,1754,,"Grazie mille, Detective. La tua ricompensa ti aspetta nel tuo ufficio.","萬分感謝。
 我會將報酬送去事務所的。","","…감사합니다
 보수는 사무소로 보내둘게요","Ich danke dir vielmals, Detektiv. Deine Belohnung
 wartet in deinem Büro auf dich."
@@ -6972,7 +6858,8 @@ ich habe mein ""wertvolles Ding"" irgendwo verloren.
 Das ist nicht gut!"
 4462,1734,,"Sono sicuro, l'ho lasciato cadere da qualche parte in [m4050].",我覺得應該是掉在[m4050]了。,,"잃어버린 곳은 아마도, [m4050](이)라고 생각해","Ich bin sicher, ich habe es irgendwo in
 [m4050] fallen gelassen."
-4463,1734,,"Ti pagherò per averlo trovato. Potresti cercarlo, per favore, detective? Mi sarebbe di un aiuto così grande!","報酬會給得很大方哦，你能不能幫忙找找呢？
+4463,1734,,"Ti pagherò per averlo trovato.
+Potresti cercarlo, per favore, detective? Mi sarebbe di un aiuto così grande!","報酬會給得很大方哦，你能不能幫忙找找呢？
 拜託囉，電腦偵探大人。",,"보수는 두둑이 할 테니까, 찾아와 주지 않겠어?
 부탁한다고, 전뇌탐정님","Ich werde dich für das Auffinden bezahlen. Kannst
 du bitte danach suchen, Detektiv? Das wäre mir
@@ -7055,7 +6942,8 @@ unschlagbar!"
 其、其、其實我……有一件事要拜託你。",,"저, 저, 저, 저기… 전뇌탐정 씨
 시, 시, 실은… 의뢰하고 싶은 것이 있거든요","D-D-Detektiv? I-I-Ich ... Ich muss dich um etwas
 bitten, wenn ich darf ..."
-4521,1738,,"N-N-Non vorrei proprio farlo, ma... ma mi è caduto il mio, il mio ""coso prezioso"" da qualche parte.","不、不好意思，突、突然請你幫忙……
+4521,1738,,"N-N-Non vorrei proprio farlo, ma...
+ma mi è caduto il mio, il mio ""coso prezioso"" da qualche parte.","不、不好意思，突、突然請你幫忙……
 我、我好像弄丟「重要之物」了。",,"죄, 죄송해요, 가, 갑자기 부탁해서…
 저, 저「소중한 물건」을 잃어버린 것 같거든요","D-D-Das mache ich wirklich ungern, aber ... aber
 ich habe mein, mein ""wertvolles Ding"" irgendwo
