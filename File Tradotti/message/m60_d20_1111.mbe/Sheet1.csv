@@ -12,13 +12,16 @@ Tu codardo!","妨礙我們的是哪個傢伙啊！
 你這卑鄙小人！",,"어디 사는 어떤 놈이야~! 우리를 방해하는 놈은~!
 이 비겁한 놈~!","Wer auch immer du bist! Lass uns vorbei!
 Du Feigling!"
-6,4005,,Chi chiami qui un codardo?,你說卑鄙？　這我可不能當沒聽到。,,비겁하다고? 흘려넘길 수 없는 말인걸,Wen nennst du hier einen Feigling?
+6,4005,,"A chi hai dato del vigliacco?
+Non farò finta di non aver sentito.",你說卑鄙？　這我可不能當沒聽到。,,비겁하다고? 흘려넘길 수 없는 말인걸,Wen nennst du hier einen Feigling?
 7,3002,,Oh! Zaxon?!,嗚啊！　Z、Zaxon！？,,"으엑! 재, 잭슨!?",Huch! Zaxon?!
-8,4005,,Voi dovete essere gli amatori che Yuugo aveva menzionato. Non posso lasciarvi passare.,"YUGO說的菜鳥集團就是你們吧。
+8,4005,,"Voi dovete essere gli amatori che Yuugo aveva menzionato.
+Non posso lasciarvi passare.","YUGO說的菜鳥集團就是你們吧。
 抱歉啊，你們不能再前進了。",,"유고가 말했던 초보자 집단이라는 게 너희들이냐?
 안됐지만 이 너머론 보내지 않겠다","Ihr müsst die Amateure sein, die Yuugo erwähnt
 hatte. Ich darf euch nicht weiterlassen."
-9,4005,,La gloria di conquistare Under Zero apparterrà a Zaxon! Arrendetevi e andate a casa!,"要在Under Zero取得榮耀的人是我們Zaxon ！
+9,4005,,"La gloria di conquistare Under Zero apparterrà a Zaxon!
+Arrendetevi e andate a casa!","要在Under Zero取得榮耀的人是我們Zaxon ！
 才剛成為駭客的菜鳥，就給我放棄回家去吧！",,"언더 제로에서 영광을 쟁취하는 건, 우리들 잭슨이다!
 갓 해커가 된 초보자는 포기하고 빨리
 집으로 돌아가!","Der Ruhm, Unter Null zu erobern, wird Zaxon
@@ -34,7 +37,8 @@ agli hacker che i Digimon non sono solo strumenti!","我們要最快攻略Under 
 디지몬은 도구가 아니라는 것을 깨닫게 해주겠어!","Wir werden Unter Null als Erste einnehmen und den
 Hackern zu verstehen geben, dass Digimon nicht
 nur Werkzeuge sind!"
-12,4005,,Vi ho avvertito. Yuugo mi ha ordinato di non mostrare alcuna pietà se qualcuno tenta di fermarci.,"……我已經警告過妳了。
+12,4005,,"Vi ho avvertito.
+Yuugo mi ha ordinato di non mostrare alcuna pietà se qualcuno tenta di fermarci.","……我已經警告過妳了。
 YUGO說要是妳來礙事，就不用留情把妳打倒。",,"…경고는 했다.
 방해한다면 봐주지 말고 쓰러뜨리라고 유고가 말했지","Ich habe euch gewarnt. Yuugo hat mir aufgetragen,
 keine Gnade zu zeigen, wenn jemand versucht,

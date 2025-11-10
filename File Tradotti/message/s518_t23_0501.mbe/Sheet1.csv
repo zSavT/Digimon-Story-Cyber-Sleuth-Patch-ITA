@@ -4,12 +4,12 @@ ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
 나를 방해하다니……!","Wie könnt ihr Kleinen es wagen, mir
 in die Quere zu kommen?!"
 2,3001,,"Adulto o bambino, non fa differenza.
-A nessuno dovrebbe essere permesso di abusare di EDEN.","這跟大人還是小孩沒關係……
+Nessuno può usare EDEN per scopi illeciti.","這跟大人還是小孩沒關係……
 將EDEN用在惡途上的人，不管是誰我都不會放過。",,"어른이든 아이든… 관계없어.
 EDEN을 악용하려는 자는 누구든 용서 못 해","Erwachsen oder nicht, das macht keinen
 Unterschied. Niemand sollte EDEN für üble Zwecke
 missbrauchen dürfen."
-3,3001,,Paga per i tuoi crimini nel mondo reale.,……在現實世界中贖罪吧。,,……현실 세계에서 죄를 갚아라,Zahlt in der echten Welt für eure Verbrechen.
+3,3001,,Pagherai per i tuoi crimini nel mondo reale.,……在現實世界中贖罪吧。,,……현실 세계에서 죄를 갚아라,Zahlt in der echten Welt für eure Verbrechen.
 4,1584,,...,…………,,…………,...
 5,3001,,Usare un Digimon morente come scudo... Spregevole.,"居然讓瀕死的數碼寶貝當肉盾──
 真是難堪。",,"빈사상태인 디지몬을 방패로 내세우다니――
@@ -26,24 +26,24 @@ Ha fatto tutto di sua spontanea volontà.","死神獸從一開始，就是作為
 以自己的意識來行動的。",,"팬텀몬은 처음부터 계속
 내 파트너로서 자신의 의지를 가지고 행동하고 있어","Stattdessen war es von Anfang an mein Partner.
 Es hat alles aus freiem Willen getan."
-10,7186,,"È il mio socio in affari. Questo crimine è un'impresa congiunta
-Digimon-umano.","死神獸是我的商業夥伴……
+10,7186,,"È il mio socio in affari. Questo è un crimine commesso
+da un'alleanza tra umani e Digimon.","死神獸是我的商業夥伴……
 這可是數碼寶貝和人類聯手的犯罪。",,"팬텀몬은 나의 비즈니스 파트너…
 이건 디지몬과 인간이 손을 잡은 범죄","Es ist mein Geschäftspartner. Dieses Verbrechen
 ist ein gemeinsames Unterfangen von
 Menschen und Digimon."
-11,7186,,"È stata tutta un'idea di Phantomon truffare gli ingenui
-umani e rubare i loro soldi.","欺騙、陷害、奪走愚蠢人類的金錢……
+11,7186,,"Ingannare gli umani ingenui e rubare i loro soldi...
+è stata un'idea di Phantomon.","欺騙、陷害、奪走愚蠢人類的金錢……
 這些全都是死神獸的意思喔。",,"바보같은 인간을 속이고 함정에 빠뜨려 돈을 탐한다……
 그건 모두 팬텀몬의 의사이기도 해","Es war Phantomons Idee, leichtgläubige Menschen
 hinters Licht zu führen und ihr Geld zu stehlen."
-12,3012,,"I Digimon non hanno libero arbitrio!
-Ci credi stupidi?","數碼寶貝有……自己的思想……！？
+12,3012,,"I Digimon non hanno un libero arbitrio!
+Ci prendi per stupidi?","數碼寶貝有……自己的思想……！？
 這怎麼可能……",,"디지몬이… 의사를…!?
 말도 안 돼…","Digimon haben keinen freien Willen!
 Du musst uns für dumm halten."
 13,7186,,Simili relazioni non sono del tutto inaudite.,世界上也是有這種關係的喔。,,이 세상에는 그런 관계도 있는 거야,Solche Beziehungen gibt es schon.
-14,7186,,Ora capite quanto poco ne sapete voi ragazzini?,"你們小孩子守護著的世界，實在是太過微小了……
+14,7186,,Ora capite quanto è piccolo il mondo che voi ragazzini cercate di proteggere?,"你們小孩子守護著的世界，實在是太過微小了……
 這下妳明白了嗎？",,"너희들 어린애가 지키는 세계가 얼마나 조그만지…
 이걸로 조금은 알았을까?","Wird euch jetzt bewusst, wie wenig ihr
 Kleinen wisst?"
@@ -108,7 +108,7 @@ und noch mehr Leute ausnehmen."
 34,3012,,"E sarebbe troppo problematico tenerlo
 confinato, quindi dobbiamo eliminarlo.",繼續拘束他也很麻煩，還是早點刪除掉……,,계속 구속해두는 것도 귀찮으니 차라리 삭제해버리는 편이…,"Und es wäre zu umständlich, es gefangen zu halten.
 Wir müssen es also eliminieren."
-35,3001,,No. Non gliela farò passare liscia.,……不行，不能讓他這樣“逃掉”。,,"……아니, 그런 ""회피""는 용서할 수 없어",Nein. So leicht kommt es nicht davon.
+35,3001,,No. Non gli permetterò di cavarsela così.,……不行，不能讓他這樣“逃掉”。,,"……아니, 그런 ""회피""는 용서할 수 없어",Nein. So leicht kommt es nicht davon.
 36,3012,,...?,……？,,……?,...?
 37,3001,,"Non importa che sia un Digimon.
 Ha commesso un crimine contro EDEN.","不管是數碼寶貝還是人類，

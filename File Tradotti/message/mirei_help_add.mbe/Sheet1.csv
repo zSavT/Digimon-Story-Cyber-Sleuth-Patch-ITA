@@ -1,40 +1,39 @@
 ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
-0,3013,,"Oh mio, guarda quella faccia. Potresti esserti perso?
-Credo di sì...","唉呀，看你那張臉，
+0,3013,,"Oh, che faccia triste. Ti sei perso? Credo di sì...","唉呀，看你那張臉，
 該不會是迷路了吧？　我看看……",,"어머 너, 그 얼굴은 혹시
 길을 헤매고 있는 걸까? 그렇네……","Huch, so ein trauriges Gesicht. Hast du
 dich verlaufen? Ich glaube schon ..."
 1,3013,,Torna pure se dovessi mai perderti.,如果找不到路的話，再過來這裡吧。,,"가야 할 장소를 잃었다면, 다시 오도록 해","Komm ruhig wieder, wenn du dich verläufst."
-2,3013,,Guarda tu stesso esattamente cosa può fare il DigiLab.,"數碼實驗室的功能……
+2,3013,,Le funzioni del DigiLab... verificane l'utilità con i tuoi stessi occhi.,"數碼實驗室的功能……
 就用你的那雙眼好好的確認吧。",,"디지랩의 기능…그 눈으로 확실히
 확인하도록 해","Schau selbst, was das DigiLab genau kann."
 3,3013,,"La tua ora fatidica non sembra essere ancora giunta.
-Prova a risolvere altri casi e a stabilire
-legami più profondi con i tuoi amici e i Digimon.","看來你的命運還不到“那個時候”呢……
+Risolvi altri casi e approfondisci i legami con i tuoi
+amici e i tuoi Digimon.","看來你的命運還不到“那個時候”呢……
 完成其他委託，加深與夥伴和數碼寶貝
 之間的羈絆吧。",,"네 운명은 아직 ""그때""가 아닌 듯하네……
 다른 의뢰를 해내며 동료나 디지몬들과의 유대를
 돈독히 하렴","Deine Schicksalsstunde ist noch nicht gekommen.
 Löse noch ein paar Fälle und vertiefe das
 Verhältnis zu deinen Freunden und Digimon."
-4,3013,,"Potresti voler parlare con gli hacker nell'Hacker
-Forum e a Under Kowloon Liv. 2. La raccolta di informazioni è uno degli strumenti più utili di un hacker.","去聽聽看位於駭客廣場跟
+4,3013,,"Perché non parli con gli hacker nel Forum e a Under Kowloon Lv. 2?
+Raccogliere informazioni è una delle abilità più importanti per un hacker.","去聽聽看位於駭客廣場跟
 Under Kowloon Lv.2的駭客所說的話如何？
 “打聽”，對駭客也是很重要的技能喔。",,"해커 포럼과 언더 쿠롱 Lv.2에
 있는 해커에게 이야기를 들어보는 게 어때?
 ""탐문""은, 해커에게 있어서도 중요한 스킬이야","Sprich doch mit den Hackern im Hackerforum und
 auf Ebene 2 in Unter Kowloon. Daten sammeln gehört
 zu den wichtigsten Fähigkeiten eines Hackers."
-5,3013,,"Sembra che tu possa raggiungere il Nascondiglio degli Steam Dealer dal menu EDEN. Assicurati di essere ben
-preparato prima di andare.","蒸氣領薪族的基地，好像能從EDEN選單過去……
+5,3013,,"A quanto pare, puoi raggiungere il covo degli Steam Dealer dal menu di EDEN.
+Assicurati di essere ben preparato prima di andare.","蒸氣領薪族的基地，好像能從EDEN選單過去……
 要充分準備再前往喔。",,"스팀리맨의 아지트는
 EDEN 메뉴를 통해 갈 수 있나 봐…
 잘 준비해서 가도록 해","Anscheinend kommt man vom EDEN-Menü zum Versteck
 der Steam Dealers. Bereite dich gut vor,
 bevor du hingehst."
-6,3013,,"Il vero responsabile potrebbe essere a Kowloon Lv. 2?
-Un altro incrocio di destini. Sono incuriosito da dove
-questo potrebbe portare.","主使者的交易場所是不是在Kowloon Lv.2？
+6,3013,,"Il vero responsabile si trova forse a Kowloon Lv. 2?
+Un altro incrocio di destini... Sono curiosa di vedere
+dove porterà.","主使者的交易場所是不是在Kowloon Lv.2？
 又有一個命運交錯了嗎……
 就讓我期待注視那命運的前進吧。",,"원흉의 거래 장소는 쿠롱 Lv.2가 아닐까?
 또 하나, 운명이 엇갈려가…
@@ -42,16 +41,16 @@ questo potrebbe portare.","主使者的交易場所是不是在Kowloon Lv.2？
 Kowloon? Wieder Wege, die sich kreuzen. Es
 interessiert mich, wo dieser vielleicht hinführt."
 7,3013,,"Dovresti riuscire a raggiungere il server dell'Istituto
-Finanziario accedendo all'URL dal
-terminale. Spero che tu ci trovi un indizio.","你應該能從終端的URL來連上
+Finanziario accedendo all'URL dal terminale.
+Spero che tu ci trovi un indizio.","你應該能從終端的URL來連上
 金融企業伺服器喔。
 如果能夠找到你的帳號的線索就好了呢。",,"금융기업 서버는 단말을 통해 URL로 갈 수 있을 거야. 
 네 계정의 행방…발견하길 바래","Indem du über ein Terminal auf die URL zugreifst,
 solltest du zum Server des Finanzinstituts kommen.
 Hoffentlich findest du dort einen Hinweis."
 8,3013,,"La stai portando a Shinjuku, vero? Lascia
-Ikebukuro e dovresti arrivarci. Hee
-hee! Spero che tu trovi un rendezvous interessante!","她不是說希望你帶她去新宿嗎？
+Ikebukuro e potrai andare dove vuoi. Hehe!
+Spero che tu faccia un incontro interessante!","她不是說希望你帶她去新宿嗎？
 只要出了池袋，就能夠去想去的地方了喔。
 希望遇到有趣的相遇就好了呢……呵呵。",,"그녀가 신주쿠로 데려가 달라고 하지 않았니?
 이케부쿠로에서 나가면 가고 싶은 곳으로 갈 수 있을 거야.
@@ -67,7 +66,9 @@ nella hall dell'ospedale?","你的命運似乎正在開始動作了呢……
 병원 로비에 자판기가 있지 않았던가?","Dein Schicksal wirkt wieder, wie? Manchmal braucht
 man eben eine Pause. Gab es am Empfang des
 Krankenhauses nicht Automaten?"
-10,3013,,"La tua ora fatidica non è ancora giunta. Al momento, quello che devi fare è risolvere dei casi e legare di più con i tuoi Digimon.","命運還尚未刻劃出“時辰”……
+10,3013,,"La tua ora fatidica non è ancora giunta.
+Al momento, quello che devi fare è risolvere
+dei casi e legare di più con i tuoi Digimon.","命運還尚未刻劃出“時辰”……
 完成委託，加深與數碼寶貝們之間的羈絆
 才是現在的你所需要做的喔。",,"운명은 아직 ""시간""을 새기지 않았어…
 의뢰를 해결하고 디지몬들과의 유대를 돈독히 하는 것이야말로
@@ -83,23 +84,21 @@ di seguire l'URL del Covo dei Demons dal terminale.","K似乎是深深影響你�
 단말을 통해 ""데몬즈 아지트""의 URL로 갈 수 있을 거야","K scheint sehr bedeutsam für dein Schicksal ...
 Lass dich für den Moment einfach treiben. Öffne
 die URL zur Demons-Höhle über das Terminal."
-12,3013,,"Le correnti intorno a te si stanno combinando in modi
-intriganti. Un destino nuovo ti aspetta
-allo Zaxon Forum.","你的枝葉，開始以有趣的樣貌交纏了呢。
+12,3013,,"Le correnti intorno a te si stanno combinando in modi intriganti.
+Un destino nuovo ti aspetta allo Zaxon Forum.","你的枝葉，開始以有趣的樣貌交纏了呢。
 在“Zaxon廣場”，還有更新的命運
 在等著你喔。",,"너의 가지, 재밌는 형태로 얽혀가기 시작한 것 같네.
 ""잭슨 포럼""에서, 새로운 운명이
 너를 기다리고 있어","Die Ströme um dich kommen auf faszinierende Weise
 zusammen. Ein neueres Schicksal erwartet dich
 im Zaxon-Forum."
-13,3013,,"Non stavi cercando il leader degli Zaxon? Hmm... Hai
-provato Kowloon Lv. 3?","你正在找Zaxon的隊長嗎？
+13,3013,,"Non stavi cercando il leader degli Zaxon? Hmm...
+Hai provato Kowloon Lv. 3?","你正在找Zaxon的隊長嗎？
 我想一下……過去Kowloon Lv.3看看如何？",,"잭슨 리더를 찾고 있는 거야?
 그렇네…쿠롱 Lv.3에는 가봤어?","Suchst du nicht nach dem Anführer von Zaxon?
 Hm ... Hast du es auf Ebene 3 von Kowloon probiert?"
 14,3013,,"Il destino non arriderà a chi aspetta inattivo! Risolvi altri
-casi e stringi legami più forti con i tuoi
-Digimon.","光是一昧的休息等待，命運是不會到來的……
+casi e stringi legami più forti con i tuoi Digimon.","光是一昧的休息等待，命運是不會到來的……
 來吧，完成其他委託，加深與數碼寶貝
 之間的羈絆吧。",,"운명은 잠자코 기다려봤자 오지 않아…
 자, 다른 의뢰를 해결하고, 디지몬들과의 유대를
@@ -127,7 +126,9 @@ di accedere facilmente al Server Avalon in questo modo.","哎呀……這樣子�
 그 모습이라면 어려움 없이 ""아발론 서버""에
 들어갈 수 있을 거야","Na, schau dich einer an. So solltest du ohne
 Probleme zum Avalon-Server gelangen."
-18,3013,,"Come va lo spionaggio per i Demons? Sei un doppiogiochista per Zaxon, però, quindi non dimenticarti di fare rapporto di tanto in tanto.","惡魔亂舞的間諜做得還順利吧？
+18,3013,,"Come procede lo spionaggio per i Demons?
+Sei un doppiogiochista per Zaxon, però,
+quindi non dimenticarti di farti vedere di tanto in tanto.","惡魔亂舞的間諜做得還順利吧？
 你可是雙面間諜，偶爾也要記得去
 Zaxon露個臉啊。",,"데몬즈의 스파이는 순조로워?
 이중스파이니까 잭슨 쪽에도 착실하게
@@ -149,14 +150,17 @@ al destino... Ma per ora, dirigiti verso la Covo dei Demons.","你似乎有很�
 자, 지금은 데몬즈 아지트로 가도록 해","Du hast wirklich Glück mit deinen Freunden! Mit
 ihrer Hilfe kannst du vielleicht dem Schicksal
 trotzen ... Geh jetzt aber zur Demons-Höhle."
-21,3013,,Chi meglio di un amico per parlare di un amico? La persona che stai aspettando è a Shibuya. Vai a fare due chiacchiere!,"夥伴之間的事，還是跟夥伴商量會比較好。
+21,3013,,"Chi meglio di un amico per parlare di un amico?
+La persona che stai aspettando è a Shibuya. 
+Vai a fare due chiacchiere!","夥伴之間的事，還是跟夥伴商量會比較好。
 你所盼望的人，正在涉谷等著你。
 過去那裡，跟他們商量吧。",,"동료 문제는 동료에게 상담하는 것이 제일이야.
 네가 기다리는 사람은 시부야에 있어.
 가서 상담해보도록 해","Freunde wissen am meisten über Freunde! Die
 Person, die du erwartest, ist in Shibuya. Geh hin
 und rede mit ihr!"
-22,3013,,"È ora di dirigersi verso le profondità del Server dell'Unità Investigativa dei Crimini Informatici. Il tuo destino è in movimento ora, che ti piaccia o no.","要到電腦犯罪搜查課伺服器的內部吧。
+22,3013,,"È ora di dirigersi verso le profondità del Server dell'Unità Investigativa dei Crimini Informatici.
+Il tuo destino è in movimento ora, che ti piaccia o no.","要到電腦犯罪搜查課伺服器的內部吧。
 ……無論你是否情願，命運都不會停止轉動。",,"전뇌범죄수사과 서버 안쪽으로 가렴.
 …운명은 좋든 싫든 움직이는 것이니까","Auf zum Server der Ermittlungseinheit für
 Cyberkriminalität. Dein Schicksal ist in Bewegung,
@@ -166,36 +170,32 @@ Hudie.","你想要詢問的對象，
 不是應該在hudie裡嗎？",,"네가 이야기를 듣고 싶은 상대라면 후디에에
 있지 않을까?","Die Person, mit der du sprechen musst, gehört
 meines Wissens nach zu Hudie."
-24,3013,,"Quei hacker hanno creato un certo fermento in Under
-Zero. Perché non curiosare nel Forum Zaxon e vedere
-cosa trovi?","駭客之間，都在熱烈談論著
+24,3013,,"Quei hacker hanno creato un certo fermento in Under Zero.
+Perché non curiosare nel Forum Zaxon e vedere cosa trovi?","駭客之間，都在熱烈談論著
 Under Zero的話題呢，你也很在意吧？
 去Zaxon廣場晃晃，看看情況怎麼樣？",,"해커들은 언더 제로의 화제로 자자한 모양이네.
 너도 신경 쓰이지?
 잭슨 포럼의 상황을 보러가는 건 어때?","Die Hacker haben in Unter Null ganz schön für
 Aufsehen gesorgt. Sieh dich doch mal im
 Zaxon-Forum um und schau, was du findest."
-25,3013,,"È finalmente giunto il momento di recuperare il tuo account? Beh,
-lo sapremo per certo abbastanza presto. Sbrigati, raggiungi il
-Server Hosaka!","終於，到了你取回帳號的時刻嗎？
+25,3013,,"È finalmente giunto il momento di recuperare il tuo account? Beh, lo
+sapremo per certo abbastanza presto. Sbrigati, raggiungi il Server Hosaka!","終於，到了你取回帳號的時刻嗎？
 不……那也是即將揭曉的事。
 現在先快點前往“保坂伺服器”吧。",,"마침내 너의 계정을 되찾을 때인 걸까?
 아니…그것도 금방 알 수 있겠지.
 지금은 ""호사카 서버""로 서두르도록 해","Ist es endlich Zeit, dir dein Konto zurückzuholen?
 Wir wissen es schon bald. Schnell, geh zu
 Hosakas Server!"
-26,3013,,"Devi avvicinarti di più al tuo Digimon. Risolvi
-qualche caso in più...anche per il bene del posto a cui
-appartieni.","現在是加深和數碼寶貝羈絆的時機喔。
+26,3013,,"Devi avvicinarti di più ai tuoi Digimon. Risolvi qualche
+caso in più... anche per il bene del posto a cui appartieni.","現在是加深和數碼寶貝羈絆的時機喔。
 來吧，去完成其他的委託。
 為了你現在的歸宿……這也是必須的吧？",,"지금은 디지몬들과 인연을 돈독히 할 때야.
 자, 다른 의뢰를 해결하도록 해.
 네가 있을 곳을 위해서도…필요한 일이잖아?","Du musst ein engeres Verhältnis zu deinen Digimon
 aufbauen. Löse noch ein paar Fälle ... auch
 deiner neuen Heimat wegen."
-27,3013,,"Credo che tu sia stato convocato a Under Kowloon
-Lv. 4...e il percorso su cui ti stanno
-trascinando è certamente contorto.","你不是被叫去Under Kowloon Lv.4了嗎？
+27,3013,,"Credo che tu sia stato convocato a Under Kowloon Lv. 4...
+e il percorso su cui ti stanno trascinando è certamente contorto.","你不是被叫去Under Kowloon Lv.4了嗎？
 ……總覺得，是很熱鬧的引導呢。",,"언더 쿠롱 Lv.4로 불려가던 참 아니었어?
 ……어쩐지 꽤 소란스러운 인도가 있었나보네","Du wurdest offenbar zur Ebene 4 in Unter 
 Kowloon gerufen ... und wirst in der Tat auf 
@@ -211,9 +211,8 @@ cercando ancora più a fondo nel Server Avalon.","在阿瓦隆伺服器的更深
 在那裡有你們正在追尋的東西。",,"아발론 서버의 더욱 안쪽……거기에
 너희가 원하고 있는 것이 있을 거야","Ich denke, ihr alle solltet tief im
 Avalon-Server finden, wonach ihr sucht."
-30,3013,,"La cosa più importante che puoi fare in questo
-momento è risolvere dei casi e creare un legame più forte con i tuoi
-Digimon.","完成其他委託，加深與數碼寶貝的羈絆……
+30,3013,,"La cosa più importante che puoi fare in questo momento è risolvere dei casi
+e creare un legame più forte con i tuoi Digimon.","完成其他委託，加深與數碼寶貝的羈絆……
 這是你現在最需要做的事。",,"다른 의뢰를 해결하고 디지몬과의 인연을 돈독히 하는 것…
 지금은 그것이 너에게 있어서 가장 필요한 일이야","Das Wichtigste, was du jetzt tun musst, ist ein
 paar Fälle lösen und dein Verhältnis zu deinen
@@ -237,9 +236,9 @@ Plant Server.","圍繞著世界的巨大流動……
 자, 발전소 서버로 가도록 해","Du wirst einen Blick auf einen Strom erhaschen,
 der die ganze Welt umkreist. Geh zum Server
 des Kraftwerks."
-34,3013,,"I capricci del destino hanno portato grandi cambiamenti nel
-mondo. Osserva attentamente lo stato dell'area.
-Assicurati che ti rimanga impresso nella memoria.","這世界被命運翻弄，產生了巨大的變化。
+34,3013,,"I capricci del destino hanno portato grandi cambiamenti nel mondo.
+Osserva attentamente lo stato dell'area e assicurati
+che ti rimanga impresso nella memoria.","這世界被命運翻弄，產生了巨大的變化。
 好好看清楚城市的樣貌吧，
 並將這份記憶確實的刻印在心中。",,"운명에 농락당해, 이 세계는 크게 바뀌었어.
 거리의 모습을 잘 보도록 해.
@@ -255,26 +254,29 @@ approfondire i legami per ora.","不管怎樣著急，時機還尚未到來唷�
 가장 빠른 길이 아닐까","So sehr du dich auch beeilst, du wirst nie genug
 Zeit haben. Konzentriere dich vorerst auf deine
 Fälle und Digimon."
-36,3013,,"Non ha senso cercare di creare un legame con i Digimon se non hai un PC, giusto? Vai a prenderne uno a Nakano.","就算要加深數碼寶貝的羈絆，
+36,3013,,"Non ha senso cercare di creare un legame con i Digimon se non hai un PC, giusto?
+Vai a prenderne uno a Nakano.","就算要加深數碼寶貝的羈絆，
 沒有電腦可是不行的吧？
 快去中野那裡採買吧。",,"디지몬과의 인연을 돈독히 하기 위해서라도
 PC가 없으면 이야기가 안 되잖아?
 나카노로 가서 조달하도록 해","Ohne PC kannst du schwerlich ein Verhältnis zu
 Digimon knüpfen, nicht wahr? Geh dir in Nakano
 einen besorgen."
-37,3013,,"I legami che hai stretto con i Digimon ti saranno
-sicuramente d'aiuto. Ora, vai a risolvere qualche caso.","至今與數碼寶貝一起構成的羈絆，
+37,3013,,"I legami che hai stretto con i Digimon ti saranno sicuramente d'aiuto.
+Ora, vai a risolvere qualche caso.","至今與數碼寶貝一起構成的羈絆，
 毫無疑問的會成為你的力量喔。
 來吧，繼續去完成委託吧。",,"지금까지 쌓아올린 디지몬과의 인연은
 틀림없이 네 힘이 되어줄 거야.
 자, 의뢰를 해결하고 오도록 해","Dein Bund mit Digimon wird dir zweifelsohne
 nützlich sein. Geh jetzt ein paar Fälle lösen."
-38,3013,,La persona che cerchi dovrebbe essere nel Covo dei Demons. Preparati per bene prima di andarci.,"……你在找的人，似乎正在惡魔巢穴呢。
+38,3013,,"La persona che cerchi dovrebbe essere nel covo dei Demons.
+Preparati bene prima di andarci.","……你在找的人，似乎正在惡魔巢穴呢。
 要做好萬全的準備再前往喔。",,"…네가 찾고 있는 인물은
 데몬즈 아지트에 있는 모양이네.
 잘 준비해서 가는 게 좋을 거야","Die gesuchte Person sollte sich in der Demons-Höhle
 befinden. Bereite dich gut vor, bevor du hingehst."
-39,3013,,"Stai cercando K, giusto? Forse faresti meglio a parlare con gli hacker nel Covo dei Demons.","你是不是正在找K呢？
+39,3013,,"Stai cercando K, giusto?
+Forse faresti meglio a parlare con gli hacker nel Covo dei Demons.","你是不是正在找K呢？
 可以去問問看在惡魔巢穴裡的駭客們喔。",,"K를 찾고 있는 게 아니었니?
 데몬즈 아지트의 해커에게 이야기를 들어보는 게
 좋을 거야","Du suchst K, nicht wahr? Vielleicht solltest du
@@ -288,9 +290,8 @@ aspettando lì dentro. Vai a vedere di persona.","你找到惡魔巢穴的暗門
 가서 똑똑히 확인하고 오렴","Du hast einen Weg zurück in die Demons-Höhle
 gefunden? Die schicksalsträchtige Person
 wartet dort auf dich. Sieh selbst."
-41,3013,,"Esatto... State cercando una giunzione con
-il Mondo Digitale, vero? Provate Junk Plaza a
-Kowloon Livello 1. E siate pronti quando ci andrete.","這樣呀……你正在找和數碼世界連結的地方啊。
+41,3013,,"Esatto... State cercando una giunzione con il Mondo Digitale, vero?
+Provate Junk Plaza a Kowloon Livello 1. E siate pronti quando ci andrete.","這樣呀……你正在找和數碼世界連結的地方啊。
 那樣的話，就去Kowloon Lv.1的
 破銅爛鐵公園吧。……要好好留心注意喔。",,"그래…디지털 월드와의 접속부를 찾고 있는 거네.
 그거라면 쿠롱 Lv.1의 잡동사니 광장에 가보도록 해.
@@ -298,24 +299,24 @@ Kowloon Livello 1. E siate pronti quando ci andrete.","這樣呀……你正在�
 Digitalen Welt, ja? Versuch es an der Müll-Plaza,
 auf Ebene 1 von Kowloon. Und bereite dich gut vor."
 42,3013,,"I legami di quella ragazza con EDEN sembrano distorti, in qualche modo...
-Eppure, immagino che debba essere così. Ora usa il
-PC e dirigiti al suo Memory Server.","你那位少女夥伴，似乎跟EDEN結下了
+Eppure, immagino che debba essere così.
+Ora usa il PC e dirigiti al suo server dei ricordi.","你那位少女夥伴，似乎跟EDEN結下了
 扭曲的關係……但是，那肯定也是必要之事。
 來吧，從電腦中前往她的記憶伺服器吧。",,"너의 동료인 소녀는 EDEN과 비틀린 관계를
 맺고 있는 것 같네… 하지만 분명 그것도 필요한 일.
 자, PC로 그녀의 기억 서버에 가도록 해","Die Verbindung dieses Mädchens zu EDEN schien
 verzerrt ... aber das muss wohl so sein. Nutze
 jetzt den PC und besuche ihren Erinnerungsserver."
-43,3013,,"Il tuo caro amico sembra essere ad Akihabara,
-alle prese con il suo destino. Vai a fare quello che devi
-fare.","……你重要的夥伴，似乎在秋葉原喔。
+43,3013,,"Il tuo caro amico sembra essere ad Akihabara, alle prese con il suo destino.
+Vai a fare quello che devi fare.","……你重要的夥伴，似乎在秋葉原喔。
 他也正在為了自己的命運所苦。
 去吧，去完成你該做的事。",,"…너의 소중한 동료는 아키하바라에 있는 모양이야.
 그 또한 자신의 운명에 괴로워하고 있어.
 가서 해야 할 일을 하도록 해","Dein lieber Freund scheint in Akihabara mit seinem
 Schicksal zu ringen. Geh hin und tu, was du tun
 musst."
-44,3013,,"È nel cuore di Akihabara, dove si è verificato il Digital Shift. Se non hai intenzione di rinunciare a lui, allora
+44,3013,,"È nel cuore di Akihabara, dove si è verificato il Digital Shift.
+Se non hai intenzione di rinunciare a lui, allora
 faresti meglio ad andargli dietro.","他在秋葉原的深處――
 在發生過Digital Shift的地方喔。
 如果你不想放棄他的話，就追過去吧。",,"그는 아키하바라의 안쪽――
@@ -323,15 +324,17 @@ faresti meglio ad andargli dietro.","他在秋葉原的深處――
 그를 포기하고 싶지 않다면 쫓아가야 할 거야","Er ist tief in Akihabara, wo die digitale
 Verschiebung passiert ist. Wenn du ihn nicht
 aufgibst, solltest du ihm lieber folgen."
-45,3013,,"Sento un potente cambiamento nel tuo destino all'orizzonte, ma per ora, risolvi qualche caso e approfondisci i tuoi legami. Fa tutto parte di ciò che deve essere.","似乎有個巨大的動盪，將會影響你的命運……
+45,3013,,"Sento un potente cambiamento nel tuo destino all'orizzonte, ma per ora,
+risolvi qualche caso e approfondisci i tuoi legami.
+Fa tutto parte di ciò che deve essere.","似乎有個巨大的動盪，將會影響你的命運……
 但是現在得先完成委託，增加羈絆才行。
 那一定也是必須之事。",,"너의 운명의 커다란 흔들림이 가까워진 모양이네…
 하지만 지금은, 의뢰를 해결하며 인연을 돈독히 하도록 해.
 그건 틀림없이 필요한 일이야","Ich sehe einen entscheidenden Wandel in deinem
 Schicksal kommen, doch löse vorerst Fälle und
 vertiefe die Bande zu deinen Digimon."
-46,3013,,"Un'ombra sinistra si sta abbattendo su Odaiba.
-Vai, ma fai attenzione.","在御台場，有不祥的陰影正在接近。
+46,3013,,"Un'ombra sinistra si sta avvicinando a Odaiba.
+Vai, ma con cautela.","在御台場，有不祥的陰影正在接近。
 千萬要做好準備再過去。",,"오다이바에 불길한 그림자가 다가오고 있어.
 충분히 조심하면서 가도록 해.","Ein finsterer Schatten fällt über Odaiba. Geh hin,
 aber sei vorsichtig."
@@ -360,16 +363,16 @@ A parte quella ragazza, intendo.","至今為止辛苦你了。
 이런 형태로 지켜보게 될 줄이야…","Du schlägst dich gut. Dass du das Schicksal
 eines Menschen letztlich so hüten musstest ...
 Ich meine außer dem Mädchen."
-50,3013,,"Questa potrebbe essere la tua battaglia finale. Ma con i legami
-che hai forgiato... non hai niente da temere.","這會是最後的戰鬥吧。
+50,3013,,"Questa potrebbe essere la tua battaglia finale.
+Ma con i legami che hai forgiato... non hai nulla da temere.","這會是最後的戰鬥吧。
 但只要你有跟夥伴所建築起來的羈絆，
 你就無須畏懼。",,"이것이 최후의 싸움이 되겠지.
 하지만 겁낼 것은 없어.
 네가 쌓아올린 동료와의 유대가 있다면 말이지","Das ist womöglich dein letzter Kampf. Doch mit
 deinen engen Banden hast du nichts zu
 befürchten."
-51,3013,,"I tuoi amici ti aspettano al sottopassaggio di Nakano. Ora
-vai... Terrò d'occhio come si svolge il tuo destino.","你的伙伴在中野地下道等你喔。
+51,3013,,"I tuoi amici ti aspettano al sottopassaggio di Nakano.
+Ora vai... Terrò d'occhio come si svolge il tuo destino.","你的伙伴在中野地下道等你喔。
 ……好了，快去吧，
 讓我好好見證你的命運吧。",,"나카노 지하도에서 동료가 기다리고 있어.
 …자, 가도록 해.
@@ -390,7 +393,8 @@ qualcosa nell'area community di EDEN.","有一群小孩在EDEN的公共領域，
 不知道他們在爭吵什麼呢。",,"아이들이 EDEN의 커뮤니티 에어리어에서
 뭔가 말다툼을 벌이고 있는 모양이네","Anscheinend streiten sich ein paar Jugendliche im
 EDEN-Gemeinschaftsbereich über etwas."
-62,3013,,Sembra che una ragazza stia facendo impazzire un ragazzo con le sue richieste irragionevoli. Forse puoi aiutarlo.,"好像有個男孩子，因為女孩亂來的願望
+62,3013,,"Sembra che un ragazzo sia nei guai a causa delle richieste
+irragionevoli di una ragazza. Forse puoi aiutarlo.","好像有個男孩子，因為女孩亂來的願望
 在煩惱喔。但你應該能想到辦法幫他解決吧。",,"여자아이의 무리한 부탁 때문에 
 남자아이가 난처해하고 있나봐.
 하지만 너라면 어떻게든 해줄 수 있을지도 모르지","Anscheinend macht ein Mädchen einen Jungen mit
@@ -403,35 +407,34 @@ piano di Nakano Broadway... Non la conosci?","中野BW1F電梯前的女孩子…
 그 애는 너와 아는 사이 아니었니?","Das Mädchen vor der Rolltreppe im 1. Stock von
 Nakano-Broadway ... Ist sie nicht eine Bekannte
 von dir?"
-65,3013,,"C'è una cliente che borbotta tra sé e sé al K-Cafe
-a Nakano.","中野的K-Cafe裡，好像有客人
+65,3013,,"C'è una cliente che borbotta tra sé e sé al K-Cafe a Nakano.","中野的K-Cafe裡，好像有客人
 一直在自言自語喔。",,"나카노의 K-카페에 계속 혼잣말을 중얼대는
 손님이 있는 모양이야","Im K-Café in Nakano murmelt eine Kundin vor sich
 hin."
-66,3013,,"La reputazione del bar potrebbe risentirne se non fai
-niente per lei. Forse dovresti offrirle una mano come
-amico?","如果繼續這樣不管那孩子，說不定會影響到
+66,3013,,"La reputazione del bar potrebbe risentirne se non fai niente per lei.
+Forse dovresti offrirle una mano come amico?","如果繼續這樣不管那孩子，說不定會影響到
 店的風評……呵呵，你要不要當那孩子的
 “朋友”幫助他啊。",,"이대로 그 애를 내버려뒀다간 가게의 평판에도
 영향이 있을 지도 몰라…
 후후, 그 아이의 ""친구""로서 힘을 빌려주는 게 어떠니?","Der Ruf des Cafés könnte leiden, wenn du nichts
 unternimmst. Vielleicht solltest du deine
 Hilfe anbieten?"
-67,3013,,"Vai all'Hacker Forum. Sembra che ci siano problemi
-in arrivo, ma i destini di diverse persone
-si intrecciano lì.","到駭客討論區去吧。
+67,3013,,"Vai all'Hacker Forum. Sembra che ci siano problemi in arrivo,
+ma i destini di diverse persone si intrecciano lì.","到駭客討論區去吧。
 雖然狀況可能很火爆，但你應該能在那裡
 見到不少命運的交叉點……",,"해커 포럼에 가보도록 해.
 일을 온건하게 처리하긴 어려워 보이지만 거기서 너는
 몇 가지 운명이 교차하는 것을 목격하게 될 거야…","Geh zum Hackerforum. Anscheinend braut sich da
 was zusammen, aber die Schicksale von mehreren
 Leuten treffen dort aufeinander."
-68,3013,,"Vai e accertati dei loro destini. Questo è il tuo
-destino.","去見證他們的“命運”吧。
+68,3013,,"Vai e assisti ai loro destini.
+Perché anche questo è il tuo destino.","去見證他們的“命運”吧。
 因為那也是你的命運。",,"자, 그들의 ""운명""을 똑똑히 지켜보렴.
 그것이 너 자신의 운명이니까","Geh hin und finde heraus, was ihr Schicksal ist.
 Das ist dein Schicksal."
-69,3013,,C'è un ragazzo all'ingresso sotterraneo della stazione di Shibuya che ha qualcosa da chiederti. Vai a trovarlo. Anche se potrebbe essere leggermente fastidioso...,"在涉谷站地下入口附近好像有想找你
+69,3013,,"C'è un ragazzo all'ingresso sotterraneo della stazione
+di Shibuya che ha qualcosa da chiederti. Vai a trovarlo.
+Anche se potrebbe essere leggermente fastidioso...","在涉谷站地下入口附近好像有想找你
 說話的男孩子在喔。要不要去看看呢？
 雖然他可能有點煩人。",,"시부야 역 지하 입구 부근에 이야기를 들어주길 바라는 듯한
 남자아이가 있네. 가보는 게 어떠니?
@@ -447,33 +450,32 @@ all'incrocio di Shibuya e guarda tu stesso.","你認識的人好像拜託你某�
 거기서 무슨 일이 일어날지는 네 눈으로 확인해보도록 해","Ein Bekannter von mir möchte deine Hilfe bei
 etwas. Obwohl ... Nein, geh zur Kreuzung
 von Shibuya und finde es selbst heraus."
-71,3013,,"Kuremi non è nella sua agenzia investigativa a Nakano
-Broadway. Le persone che hanno bisogno del suo aiuto non sanno
-a chi rivolgersi.","中野BW內的暮海偵探事務所……所長好像不在呢。
+71,3013,,"Kuremi non è nella sua agenzia investigativa a Nakano Broadway.
+Le persone che hanno bisogno del suo aiuto non sanno a chi rivolgersi.","中野BW內的暮海偵探事務所……所長好像不在呢。
 好像有因此無法委託，正傷腦筋的人喔。",,"나카노BW에 있는 쿠레미 탐정사무소……아무래도 소장이
 부재중인 모양이네.
 의뢰할 수 없어서 난처해하는 사람이 있는 것 같아","Kuremi ist nicht in ihrem Detektivbüro im 
 Nakano-Broadway. Die Leute, die ihre Hilfe
 brauchen, wissen nicht weiter."
 72,3013,,"Ascolta un pettegolezzo di fronte al negozio di CD al
-secondo piano di Nakano Broadway. Il destino che
-hai perso si riaccenderà. Tutto riconduce a lui.","在中野BW2F的CD店前，到那去聽傳聞吧。
+secondo piano di Nakano Broadway. Il destino che hai perso
+si riaccenderà. Tutto riconduce a lui.","在中野BW2F的CD店前，到那去聽傳聞吧。
 一度失去聯繫的命運將會再次交錯。
 你也是、那孩子也是……都跟他很有緣呢。",,"나카노BW 2F CD숍 앞에서 어떤 소문을 듣게 되면
 한번은 끊어졌다고 생각했던 운명과 다시 한번 교차하게 될 거야.
 너도 그렇고 그 아이도 그렇고……그와는 인연이 있는 모양이네","Hör auf ein Gerücht vor dem CD-Laden im zweiten
 Stock von Nakano-Broadway. Das verlorene
 Schicksal kommt zurück. Es hat mit ihm zu tun."
-73,3013,,"C'è una voce che circola a Ikebukuro su
-un tuo amico. Devi essere preoccupato per lui dopo
-quello che è successo. Dovresti sentirla con le tue orecchie.","池袋市區，好像在流傳你朋友的傳聞喔……
+73,3013,,"C'è una voce che circola a Ikebukuro su un tuo amico.
+Devi essere preoccupato per lui dopo quello che è successo.
+Dovresti sentirla con le tue orecchie.","池袋市區，好像在流傳你朋友的傳聞喔……
 你也很在意，他在“那之後”怎麼樣了吧，
 那樣的話，你就過去問看看吧。",,"이케부쿠로 거리에서 친구에 대한 소문이 돌고 있는 것 같네…
 너도 ""그 이후""의 그가 신경쓰였을 테지.
 슬쩍 들으러 가보는 편이 좋지 않을까","In Ikebukuro kursiert ein Gerücht über deinen
 Freund. Nach den Ereignissen machst du dir sicher
 Sorgen. Hör es dir selbst an."
-74,3013,,Il tuo amico ti aspetta a Ikebukuro. Non farlo aspettare!,"你的夥伴好像在池袋等你喔。
+74,3013,,Un tuo amico ti aspetta a Ikebukuro. Non farlo aspettare!,"你的夥伴好像在池袋等你喔。
 快點去找他們比較好吧？",,"네 동료가 이케부쿠로에서 기다리고 있는 모양이네.
 빨리 맞이하러 가 주는 편이 좋지 않을까?","Dein Freund wartet in Ikebukuro auf dich. Lass ihn
 nicht warten!"
@@ -492,9 +494,9 @@ che sarebbe finito così. Ehehehe...","你不是在追夥伴嗎？
 그런 모습이 되었더라도 나에겐 전부 보여. 후후……","Folgst du deinem Freund? Dann geh lieber schnell
 zur Ebene 4 in Unter Kowloon. Ich wusste, dass er
 da landen würde. Hehehe ..."
-77,3013,,"Hmm... Questa è una strategia audace. I dati che cerchi
-sono sul Server dell'Unità Investigativa Crimini Informatici,
-vero? Ti auguro buona fortuna.","嗯……你們還真想了個大膽的作戰呢。
+77,3013,,"Hmm... Questa è una strategia audace. I dati che cerchi sono
+sul Server dell'Unità Investigativa Crimini Informatici, vero?
+Ti auguro buona fortuna.","嗯……你們還真想了個大膽的作戰呢。
 目的是電腦犯罪搜查課伺服器裡的資料吧？
 我會祈求你們好運的。",,"휴우……제법 대담한 작전을 생각했는걸.
 목적 데이터는 전뇌범죄수사과 서버에 있지?
@@ -502,7 +504,7 @@ vero? Ti auguro buona fortuna.","嗯……你們還真想了個大膽的作戰�
 Server der Ermittlungseinheit für
 Cyberkriminalität, oder? Viel Glück."
 78,3013,,"Dovresti sbrigarti ad andare all'Ufficio Metropolitano.
-Al tuo compagno non piacerà essere fatto aspettare.","哎呀，你要不要快點到新都廳去呢？
+Alla tua compagna non piacerà essere fatta aspettare.","哎呀，你要不要快點到新都廳去呢？
 要讓她等太久，你的同伴會很恐怖喔？",,"어라, 서둘러 신 도청으로 가야하지 않니?
 너무 기다리게 했다간 일행분이 무서워질걸?","Du solltest schnell zum Metropolitan-Gebäude
 gehen. Dein Begleiter wird nicht gerne warten."
@@ -511,7 +513,7 @@ testa? Ti suggerisco di tornare da Hudie.","……真是無精打采的臉，是
 總之，先回到hudie吧。",,"……개운치 못한 얼굴을 하고 있네. 고민이 많은 걸까?
 일단 후디에로 돌아가 보는 편이 좋을 거야","Du siehst niedergeschlagen aus. Betrübt dich
 etwas? Du solltest zu Hudie zurückgehen."
-80,3013,,"Hai intenzione di andare all'Open Space di EDEN? Mi chiedo come
+80,3013,,"Hai intenzione di andare allo Spazio Aperto di EDEN? Mi chiedo come
 K sia collegato al tuo destino.","你不是要去EDEN的開放空間嗎？
 那個叫K的人物……跟你的命運會如何交會呢？",,"EDEN 오픈 스페이스로 가는 거지?
 그 K라는 인물……네 운명과 어떻게 교차하는 걸까","Gehst du zum Offenen Raum von EDEN? Ich frage

@@ -11,8 +11,8 @@ ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
 嗯、嗯……",,"그럼 바로 시험해보겠습니다.
 흠, 흠……",Ich werde es probieren. Ähm ...
 6,3003,,"Ciao, ragazzone! Piacere di vedermi?",哥哥，你又過來了嗎！？　好開心喔──！,,"오빠, 또 와준거야!? 기뻐~!","Hey, Großer! Freust du dich, mich zu sehen?"
-7,3003,,"Ti cucinerò una bistecca enorme.
-Mi sono esercitato!",那個呀，我為哥哥做了好～多蛋包飯的練習喔？,,"있잖아, 나 오빠를 위해서 오므라이스 만드는
+7,3003,,"Ti cucinerò un sacco di omurice.
+Mi sono esercitata!",那個呀，我為哥哥做了好～多蛋包飯的練習喔？,,"있잖아, 나 오빠를 위해서 오므라이스 만드는
 연습 잔~뜩 했거든?","Ich werde dir ein riesiges Steak braten.
 Ich habe es geübt!"
 8,3003,,"Eh? Devi andare?
@@ -20,9 +20,9 @@ Okay, farò la brava e ti aspetterò.","咦？　已經……要回去了嗎…�
 我知道了，我會當個好孩子等你回來喔。",,"응?  벌써… 가는 거야…?
 흐응, 알았어. 그럼 얌전하게 기다리고 있을게","Was? Du musst los?
 Na gut, ich werde artig sein und auf dich warten."
-9,3003,,Ti preparerò la bistecca. Torna presto!,我會先做好特製蛋包飯等你的……要早點回來喔？,,"특제 오므라이스를 만들어둘 테니…… 
+9,3003,,Ti preparerò l'omurice. Torna presto!,我會先做好特製蛋包飯等你的……要早點回來喔？,,"특제 오므라이스를 만들어둘 테니…… 
 빨리 돌아와야 해?",Ich werde dein Steak braten. Komm schnell wieder!
-10,3003,,Uff... Come sono andato stavolta? Proprio come un amico?,"呼……這次如何？
+10,3003,,Uff... Come sono andata stavolta? Proprio come un'amica?,"呼……這次如何？
 有像是朋友的感覺嗎…？",,"후우…… 어땠나요, 괜찮았나요?
 친구처럼 보였나요…?","Puh ... Wie war ich dieses Mal? Genau wie eine
 Freundin?"
@@ -35,12 +35,12 @@ Nicht wirklich."
 13,3003,,Ehm...,但是……,,하지만……,Ähm ...
 14,3003,,Neanch'io lo pensavo.,果然……是這樣啊。,,역시… 그렇겠죠,Fand ich auch nicht.
 15,3003,,Quella non era vera amicizia.,話說這個……原本就不是跟朋友之間的關係吧？,,애초에…… 이거 친구랑은 상관없지 않나요?,Das hatte nichts wirklich mit Freundschaft zu tun.
-16,3003,,"E chi cucina una bistecca e poi la lascia lì a raffreddare?
-La cucineresti poco prima di mangiarla.","而且蛋包飯不能夠先做好的，
+16,3003,,"E chi cucina un omurice e poi lo lascia lì a raffreddare?
+Lo cucineresti poco prima di mangiarlo.","而且蛋包飯不能夠先做好的，
 應該是要在準備吃之前才做。",,"게다가 오므라이스를 만들고 기다릴 게 아니라
 먹기 직전에 만들어야죠","Und wer brät denn ein Steak und lässt es dann
 stehen? Man brät es doch und isst es dann gleich."
-17,3003,,Diventerebbe tutto freddo e duro.,先做好的話，不就會失去蛋的鬆軟感了嗎？,,계란의 폭신폭신한 느낌을 잃어버릴 거 아니에요,Sonst wird es ganz kalt und zäh.
+17,3003,,Perderebbe tutta la sua sofficità.,先做好的話，不就會失去蛋的鬆軟感了嗎？,,계란의 폭신폭신한 느낌을 잃어버릴 거 아니에요,Sonst wird es ganz kalt und zäh.
 18,3003,,Scusa il ritardo. Ti ho fatto aspettare?,"……晚來了對不起，
 讓你等很久了嗎？",,"……늦어져서 미안해.
 오래 기다렸어?","Tut mir leid, dass ich spät dran bin. Musstest du
@@ -55,7 +55,7 @@ Hai qualcosa di divertente in mente?","雖然不是陪罪，但我今晚會為�
 今天就好好的……一起享受吧？",,"사과하는 의미에서는 아니지만 오늘 밤엔 내가 쏠 테니까
 오늘은 잔뜩…… 즐겨보자?","Ich gehöre dir, die ganze Nacht.
 Hast du was Schönes geplant?"
-21,3003,,Uff... Come sono andato stavolta? Proprio come un amico?,"呼……你覺得怎麼樣？
+21,3003,,Uff... Come sono andata stavolta? Proprio come un'amica?,"呼……你覺得怎麼樣？
 有像是朋友的感覺嗎…？",,"후우…… 어땠나요, 괜찮았나요?
 친구처럼 보였나요…?","Puh ... Wie war ich dieses Mal? Genau wie eine
 Freundin?"
@@ -66,9 +66,9 @@ Non proprio.","有像朋友的感覺
 Nicht wirklich."
 23,3003,,Capisco.,唉，這樣啊。,,"하아, 그렇습니까",Verstehe.
 24,3003,,Um...,但是……,,하지만……,Ähm ...
-25,3003,,Non lo pensavo nemmeno io.,果然……是這樣啊。,,역시… 그렇겠죠,Fand ich auch nicht.
-26,3003,,"Era molto più spinto di quello che sto cercando.
-Ho bisogno di imparare come comportarmi da amico.","……第一，這已經完全是戀人之間
+25,3003,,Neanch'io lo pensavo.,果然……是這樣啊。,,역시… 그렇겠죠,Fand ich auch nicht.
+26,3003,,"Questa era chiaramente una conversazione tra innamorati.
+Ho bisogno di imparare come comportarmi da amica.","……第一，這已經完全是戀人之間
 的對話吧？我在找的是關於朋友的
 參考資料。",,"……무엇보다 이건 완전히 연인들끼리 하는 대화잖아요?
 제가 찾는 것은 친구용 참고자료입니다","Das war viel anzüglicher, als ich wollte.

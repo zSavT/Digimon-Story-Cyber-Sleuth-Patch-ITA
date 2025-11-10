@@ -127,7 +127,7 @@ ID,Japanese,English,Chinese,EnglishCensored,Korean,German
 3501,,Inizia il gioco utilizzando i dati scaricati dallo spazio di archiviazione online.,將以從網路硬碟下載之進度開始遊戲。,,온라인 스토리지로부터 다운로드한 데이터로 게임을 시작합니다.,Beginne das Spiel mit Daten vom Online-Speicher.
 2907,, ,　,,　, 
 3216,,Seleziona un accessorio da equipaggiare.,請選擇要裝備的飾品。,,장비할 액세서리를 선택해 주세요.,Wähle ein Accessoire zum Ausrüsten.
-1804,,Controlla lo stato attuale delle indagini nel BBS.,可確認駭客技能與BBS的調查狀況。,,해킹 스킬의 상세나 BBS의 조사 상황을 확인할 수 있습니다.,Prüfe Infos zur laufenden ATL-Ermittlung.
+1804,,Controlla lo stato attuale delle indagini nel BBS.,可確認駭客技能與BBS的調查狀況。,,해킹 스킬의 상세나 BBS의 조사 상황을 확인할 수 있습니다.,Prüfe Infos zur laufenden BBS-Ermittlung.
 1229,,Deposita o preleva Digimon dal DigiBank di un'altra storia.,可自其他故事的數碼銀行取出、寄放數碼寶貝。,,다른 시나리오의 디지뱅크에서 디지몬을 꺼내거나 맡길 수 있습니다.,Benutze die Digibank einer anderen Geschichte.
 1230,,Seleziona i Digimon da spostare.,請選擇要移動的數碼寶貝。,,이동할 디지몬을 선택해 주세요.,Wähle die Digimon zum Verschieben aus.
 1231,,Seleziona Digimon da spostare.,請選擇要移動的數碼寶貝。,,이동할 디지몬을 선택해 주세요.,Wähle die Digimon zum Verschieben aus.
@@ -186,7 +186,7 @@ ID,Japanese,English,Chinese,EnglishCensored,Korean,German
 3800,,Accedi a EDEN.,登入EDEN。,,EDEN에 로그인 합니다.,Logge dich bei EDEN ein.
 3801,,Vai al DigiLab.,前往數碼實驗室。,,디지랩으로 갑니다.,Geh zum DigiLab.
 3802,,Esplora l'URL acquisito ed effettua un'irruzione nel Cyber Spazio.,以獲得的URL來入侵數碼空間。,,입수한 URL을 참조해서 디지털 스페이스로 침입합니다.,Gehe zur erhaltenen URL und brich in den Digitalraum ein.
-3803,,Controlla i post BBS disponibili che puoi investigare.,確認目前可調查的電子布告欄發文。,,현재 조사 가능한 전자 게시판 투고를 확인합니다.,"Überprüfe die ATL-Beiträge, die du ermitteln kannst. "
+3803,,Controlla i post BBS disponibili che puoi investigare.,確認目前可調查的電子布告欄發文。,,현재 조사 가능한 전자 게시판 투고를 확인합니다.,"Überprüfe die BBS-Beiträge, die du ermitteln kannst. "
 3804,,Acquista Digimon dal dark web.,可以從地下網站購買數碼寶貝。,,암시장에서 디지몬을 구입할 수 있습니다.,Kaufe Digimon im Darknet.
 3805,,Analizza la Hacker's Memory acquisita.,解析獲得的「駭客記憶」。,,입수한「해커스 메모리」를 해석합니다.,Analysiere die erhaltenen „Hacker's Memory“-Dateien.
 3900,,Scegli un costume da indossare.,請選擇要更換的裝扮。,,갈아입힐 코스튬을 선택해주세요.,Bitte wähle ein Kostüm zum Anziehen.

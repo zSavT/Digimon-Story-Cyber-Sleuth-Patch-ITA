@@ -1,16 +1,14 @@
 ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
-10,9183,,"È Mr. Navit! Grazie per avermi tirato fuori da quella
-brutta situazione. Ecco un piccolo qualcosa per dirti
-grazie!","我是NAVIT喔！
+10,9183,,"È Sig. Navit! Grazie per avermi tirato fuori da quella
+brutta situazione. Ecco un piccolo qualcosa per dirti grazie!","我是NAVIT喔！
 謝謝你把我修好了！
 這個給你當作謝禮！",,"내빗군이야!
 곤란했었는데 고쳐줘서 고마워!
 답례로 이걸 줄게!!","Ich bin Herr Navit! Danke, dass du mir aus der
 Klemme geholfen hast. Hier ist ein kleines
 Dankeschön!"
-11,9183,,"Sembra che ci siano altri corrotti oltre a
-me in EDEN. Fammi un favore e sistemali se li
-trovi!","EDEN裡除了我，好像也有其他夥伴壞掉了。
+11,9183,,"Sembra che ci siano altri corrotti oltre a me
+in EDEN. Fammi un favore e sistemali se li trovi!","EDEN裡除了我，好像也有其他夥伴壞掉了。
 要是你找到他們，請你修好他們喔！",,"나 말고도 망가진 동료가 EDEN에 있는 것 같아.
 만약 발견하면 고쳐줘!","Sieht aus, als wären außer mir noch andere in EDEN
 kaputt. Sei doch so nett und repariere die
@@ -40,21 +38,24 @@ in debito con te, quindi prendi questo e vattene!","幹麼修好我啊你這混�
 빚은 안 만들어, 이걸 줄 테니까 딴 데 가버려!","Trottel! Warum hast du mich repariert?! Damit mich
 der nächste dämliche Mensch kaputt machen kann?
 Nimm das hier und geh weg!"
-50,9187,,"È inutile... Sarò di nuovo pieno di bug presto. Oh, che spreco... Tieni. Prendi questo. Grazie per avermi riparato.","不行了……不行了……
+50,9187,,"È inutile... Sarò di nuovo pieno di bug presto. Oh, che spreco... Tieni.
+Prendi questo. Grazie per avermi riparato.","不行了……不行了……
 我一定又要出現Bug了……
 這個……給你……謝謝你修好我……",,"이젠 틀렸어…틀린 거야…
 나 따위 또 금방 버그가 날 거야…
 이거…줄게…고쳐준 답례야…","Es hat keinen Zweck ... Ich bin bald schon wieder
 verbuggt. Alles umsonst ... Hier, nimm das.
 Danke dir."
-60,9188,,"DEBUG_LOG ERRORE ERRORE ERRORE ERRORE ERRORE ERRORE
-ITEM_OUTPUT","ＤＥＢＵＧ＿ＬＯＧ
+60,9188,,"DEBUG_LOG
+ERROR ERROR ERROR ERROR
+ERROR ERROR …ITEM OUTPUT","ＤＥＢＵＧ＿ＬＯＧ
 ＥＲＲＯＲ　ＥＲＲＯＲ　ＥＲＲＯＲ
 ＥＲＲＯＲ　……ＩＴＥＭ　ＯＵＴＰＵＴ",,"DEBUG_LOG
 ERROR ERROR ERROR ERROR
 ERROR ERROR …ITEM OUTPUT","DEBUG_LOG FEHLER FEHLER FEHLER FEHLER FEHLER
 OBJEKT_AUSGABE"
-70,9189,,"Ehi, mi hai aiutato! Sarebbe andato tutto bene anche restando così, ma ehi, prendi questo come ringraziamento!","是你修好我的喔～
+70,9189,,"Ehi, mi hai aiutato! Sarebbe andato tutto bene anche restando così,
+ma ehi, prendi questo come ringraziamento!","是你修好我的喔～
 繼續那樣也沒關係，但謝謝你啦～
 這個是謝禮喔～",,"네가 나를 고쳐줬구나~
 그대로 있었어도 상관은 없지만, 덕분에 살았어~
@@ -86,7 +87,8 @@ Oh! Oh, tieni, prendi questo!","真、真、真、真、真是非常謝謝你！
 저기… 다, 다, 다, 답례로 이거 드릴게요!!","V-vielen h-herzlichen D-Dank f-für die R-Rettung!
 I-Ich dachte, es wäre vorbei, als die Hacker ...
 Ah! Ach, hier, nimm das!"
-110,9193,,"Ah ah ah! Mi hai salvato la pelle. Che gioia! Tieni, prendi questo... e un grande sorriso in aggiunta!","啊哈哈！ 是你救了我啊！
+110,9193,,"Ah ah ah! Mi hai salvato la pelle. Che gioia!
+Tieni, prendi questo... e un grande sorriso in aggiunta!","啊哈哈！ 是你救了我啊！
 現在心情好開心喔！
 這是謝禮喔！ 再送你個笑臉！",,"아하하! 네가 구해줬구나!
 굉장히 해피한 기분이야!
@@ -120,8 +122,7 @@ il mio modo di dirti grazie.","只要我們壞掉，人類就會刪除我們…
 kaputt sind ... aber du bist wohl anders. Hier,
 das ist mein Dankeschön."
 150,9197,,"Ngh! Il mio corpo si sente ancora strano... ma credo che
-starà bene presto. Comunque, grazie. Prendi
-questo.","嗚，身體的狀態又不好了…
+starà bene presto. Comunque, grazie. Prendi questo.","嗚，身體的狀態又不好了…
 不過應該過一陣子就會好了吧…　
 這個送給你答謝！",,"윽, 아직 몸 상태가 이상해…
 그래도 뭐 금방 낫겠지…
@@ -129,7 +130,7 @@ questo.","嗚，身體的狀態又不好了…
 Aber das wird schon wieder werden. Danke
 jedenfalls. Nimm das."
 160,9198,,"Chi dice che sono difettoso? Sono un perfettamente capace,
-Mr. Navit che fornisce assistenza in EDEN! Sei tu l'umano
+Sig. Navit che fornisce assistenza in EDEN! Sei tu l'umano
 che mi ha salvato? Grazie, prendi questo.","我哪裡是缺陷品了啊！
 我可是好好介紹EDEN的優秀NAVIT喔！
 你就是幫我的人類嗎？ 這給你當謝禮。",,"내 어디가 불량품이라는 거냐!
@@ -137,7 +138,9 @@ che mi ha salvato? Grazie, prendi questo.","我哪裡是缺陷品了啊！
 너는 나를 구해준 인간이니? 답례를 줄게","Wer sagt denn, dass ich defekt bin? Ich bin ein
 einwandfrei funktionstüchtiger Herr Navit! Bist du
 der Mensch, der mich gerettet hat? Danke, hier."
-170,9199,,"So che mi romperò di nuovo presto. Finisce sempre così! Comunque, è meglio che ti dia qualcosa come ringraziamento per avermi riparato.","反正我馬上又會壞掉了啦。
+170,9199,,"So che mi romperò di nuovo presto. Finisce sempre così!
+Comunque, è meglio che ti dia qualcosa come
+ringraziamento per avermi riparato.","反正我馬上又會壞掉了啦。
 一定是這樣！　一定沒錯啦！
 不過還是要謝謝你修好我！",,"나 따위 또 금방 망가질 거야.
 어차피 그럴 거야! 분명 그럴 거야!

@@ -7,28 +7,27 @@ Questa forma è quella che preferisco.","呼～艾莉卡終於把我變回原來
 zurückverwandelt. Diese Gestalt habe
 ich am liebsten."
 3,1392,,... Uh? Che facce fate?,……嗯？怎麼了？看起來很沮喪的樣子。,,……응? 왜 그래? 그렇게 풀 죽어 있고,... Nanu? Was zieht ihr denn für Gesichter?
-4,1392,,"Non siete riusciti a rubare i dati dell'account?
-Ma nella memoria di Erika sembrava tutto
-aver funzionato.","奪取帳號權限的計畫失敗了？
+4,1392,,"Non siete riusciti a ottenere i dati dell'account?
+Ma nella memoria di Erika sembrava che aveste avuto successo.","奪取帳號權限的計畫失敗了？
 但是在艾莉卡的記憶裡卻是成功的唷？",,"계정 권한을 훔치는데 실패했다고?
 에리카의 기억으로는 성공한걸로 되어있는데?","Ihr habt die Accountdaten nicht stehlen können?
 Aber in Erikas Erinnerung schien alles
 funktioniert zu haben."
 5,2020,,?!,！？,,!?,?!
-6,3045,,In effetti ha funzionato. Non l'avete notato?,你成功了唷。難道你沒有發現嗎？,,성공했어. 눈치채지 못한거야?,Hat doch geklappt. Habt ihr das nicht bemerkt?
-7,3045,,"Hai toccato Makiko Date, vero? Appena l'hai fatto,
-abbiamo rubato le sue informazioni sull'account.","你和伊達真希子接觸過了對吧。
+6,3045,,Infatti ha funzionato. Non ve ne siete accorti?,你成功了唷。難道你沒有發現嗎？,,성공했어. 눈치채지 못한거야?,Hat doch geklappt. Habt ihr das nicht bemerkt?
+7,3045,,"Hai toccato Makiko Date, vero? In quel momento,
+abbiamo ottenuto le informazioni del suo account.","你和伊達真希子接觸過了對吧。
 那時候就已經拿到她的帳號了唷。",,"너, 다테 마키코와 접촉했잖아.
 그때 그녀의 계정을 입수해 두었어.","Du hast Makiko Date berührt, richtig?
 Als du das getan hast, haben wir ihre
 Accountinfos geklaut."
-8,3045,,"Le autorizzazioni di accesso di una neo-commissaria sono più che
-sufficienti. Giusto, Ryuji?","有警部補的權限就足夠了，
+8,3045,,"I privilegi di accesso di una neo-commissaria sono più che
+sufficienti. Vero, fratello?","有警部補的權限就足夠了，
 對吧，哥哥。",,"경부보의 권한 정도면 충분하니까.
 그치, 오빠","Die Zugangsberechtigungen einer frischgebackenen
 Kommissarin reichen völlig. Stimmt doch, Ryuji?"
 9,3046,,Sì.,沒錯。,,아아,Ja.
-10,3047,,"Ehi! Mi dispiace di non aver potuto prima! Come va?","嗨、久等啦──！
+10,3047,,"Ehi! Scusate il ritardo! Come sta andando?","嗨、久等啦──！
 抱歉，沒辦法一起參加！現在進行到哪啦？",,"여어, 기다렸지!
 미안, 참가하지 못해서! 지금 어디까지 왔어?","Huhu! Tut mir leid, dass ich nicht früher konnte!
 Wie läuft’s denn so?"
@@ -47,7 +46,8 @@ Leibe zu rücken, aber wir haben nichts Brauchbares
 herausgefunden."
 15,3047,,"Aha, allora vi servono dati più precisi, no?",哈哈，也就是說，得取得更多特定的數據對吧？,,"하항, 그래서 더 특정한 데이터를 공략할 필요가
 생겼다는 거?","Aha, dann braucht ihr wohl präzisere Daten, wie?"
-16,3046,,Sì. Abbiamo bisogno di dati ben specifici sui crimini informatici.,"對。就從電腦犯罪搜查課的伺服器，
+16,3046,,"Esatto. Dobbiamo estrarre ""dati specifici""
+dal server dell'Unità Investigativa Crimini Informatici.","對。就從電腦犯罪搜查課的伺服器，
 把“那個數據＂給盜取出來。",,"그래.
 전뇌범죄수사과 서버에서 ""어떤 데이터""를 빼낸다","Ja. Wir brauchen ganz bestimmte Daten
 zu Cyberverbrechen."
@@ -131,8 +131,8 @@ wird er stark gesichert sein. Ihr müsst euch die
 Sicherheitsvorkehrungen systematisch vornehmen."
 36,2020,,Cosa?,？？？,,???,Was?
 37,3047,,"Hehe, lei intende: ""Dategli un calcio nel sedere"".",嘿嘿，就是「要你徹底擊垮他們」的意思啦。,,"헤헷,「철저하게 박살내라」는 의미야","Hehe, sie meint: „Tretet ihnen in den Hintern“."
-38,1392,,"Ryuji a volte usa espressioni strane come ""far fuori""
-e ""togliere di mezzo"".","龍司他啊，偶爾會用一些很奇特的辭彙呢。
+38,1392,,"Ryuji a volte usa espressioni strane, tipo ""far fuori""
+o ""togliere di mezzo"".","龍司他啊，偶爾會用一些很奇特的辭彙呢。
 像是什麼敢死隊啦、正派人之類的。",,"류지는 가끔 이상한 말을 써.
 탄환이라던가 모범생이라던가","Ryuji verwendet manchmal komische Ausdrücke wie
 „kaltmachen“ und „um die Ecke bringen“."

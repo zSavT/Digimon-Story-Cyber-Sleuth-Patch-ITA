@@ -1,16 +1,16 @@
 ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
 1,3047,,"Cavolo, ma che sta succedendo qui!",唉呀，好像變成很不得了的事情啊。,,이야― 뭔가 엄청난 사건이 되어버렸는걸――,"Mann, was ist hier bloß los!"
 2,3047,,"Tutti gli hacker parlano della scissione di Zaxon.
-Non si parla più di altro.","駭客間都在談論Zaxon會分裂的事，
+Non si parla d'altro.","駭客間都在談論Zaxon會分裂的事，
 不論走到哪，全都是這個話題。",,"해커들 사이에선 잭슨 분열 이야기로 소문이 자자해.
 어딜 가든 그 얘기 뿐이야","Alle Hacker reden über die Spaltung von Zaxon.
 Es gibt kein anderes Thema mehr."
 3,3046,,Hai scoperto qualcosa su K?,關於K，你知道些什麼了嗎？,,K에 대해 뭔가 알아냈나?,Hast du etwas über K herausgefunden?
-4,3047,,"No, assolutamente niente. È ben possibile che sia un tipo piuttosto tosto.","沒有，完～全不知道。
+4,3047,,"No, assolutamente niente. Potrebbe essere un osso duro.","沒有，完～全不知道。
 ……這傢伙說不定是個相當難纏的對象喔。",,"아아니, 전혀.
 ……이 녀석 꽤 벅찬 상대일지도 모르겠는걸","Nein, rein gar nichts. Gut möglich, dass er
 ein ziemlich taffer Typ ist."
-5,3047,,"Se i miei informatori non sanno nulla, non esiste da molto tempo.","從我的情報網淘不出消息，
+5,3047,,"Se i miei informatori non sanno nulla, significa che non è sulla scena da molto.","從我的情報網淘不出消息，
 肯定就不是老駭客了。",,"내 정보망에 전혀 걸리지 않는다니
 고참 해커가 아닌 건 분명하겠네","Wenn meine Informanten nichts wissen, gibt es
 ihn noch nicht lange."
@@ -20,12 +20,11 @@ ihn noch nicht lange."
 7,3047,,Davvero... Allora dobbiamo solo aspettare.,"這樣啊……
 現在，只能先靜觀其變了嗎……",,"그런가……
 지금은 상황을 살필 수밖에 없겠네……",Wirklich ... Dann müssen wir einfach abwarten.
-8,3046,,"... Quello era l'ospedale. Erika può
-essere dimessa.","……從醫院打來的，
+8,3046,,"... Era l'ospedale. Hanno dato il permesso di dimettere Erika.","……從醫院打來的，
 艾莉卡可以出院了。",,"……병원이야.
 에리카의 퇴원허가가 나왔어","... Das war das Krankenhaus. Erika kann
 entlassen werden."
-9,3047,,Fantastico! Sono contento che sia andata in fretta!,喔喔，這次沒有拖太久真是太好了呢！,,"오오, 오래 끌지 않아서 다행이다!","Fantastisch! Ich bin froh, dass es schnell
+9,3047,,Fantastico! Meno male che non è andata per le lunghe!,喔喔，這次沒有拖太久真是太好了呢！,,"오오, 오래 끌지 않아서 다행이다!","Fantastisch! Ich bin froh, dass es schnell
 gegangen ist!"
 10,2020,,...!,……！,,……!,...!
 11,3046,,... Andrò a prenderli.,……我去接她回來。,,……데리러 갔다올게,... Ich werde sie abholen.
@@ -34,9 +33,9 @@ Mi chiedo perché ti abbia reclutato tra i Demons?","……話說回來，“K�
 把你叫去惡魔亂舞的目的到底是什麼啊？",,"……그런데 ""K""란 녀석.
 뭘 위해 너를 데몬즈로 불러낸 걸까?","... Aber dieser Typ, K. Ich frage mich, warum er
 dich zu den Demons beordert hat?"
-13,3047,,"Fino ad ora sappiamo che nessuno degli obiettivi di K
-– Shiga o Kayaba –
-era il criminale.","目前被K鎖定過的目標，
+13,3047,,"Per ora, sappiamo che nessuno dei bersagli di K
+– né Shiga né Kayaba –
+era il colpevole.","目前被K鎖定過的目標，
 志賀和茅場都不是犯人……",,"현재로선 K가 타깃으로 지명한
 시가도 카야바도 범인이 아니었고……","Bis jetzt wissen wir, dass keins der Ziele von
 K – Shiga oder Kayaba – der Verbrecher war ..."

@@ -1,6 +1,6 @@
 ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
-1,3047,,"Riunire tutti noi per un lavoro... È
-piuttosto stravagante. Chi è il cliente?","居然是全員一起的工作啊，還真豪華呢──
+1,3047,,"Un lavoro per tutti noi... che lusso.
+Chi è il cliente, Ryuji?","居然是全員一起的工作啊，還真豪華呢──
 龍司，委託人是誰啊？",,"전원이 모여 작업한다니 호화롭네―
 의뢰인은 누구야, 류지?","Alle von uns für einen Auftrag ... Schweres
 Geschütz. Wer ist denn der Klient?"
@@ -13,15 +13,14 @@ introdotti.","……怎麼可能啊。委託人是水族館館長。
 도난사건이로군. 이케부쿠로 수족관에 도둑이 들었다고 한다","Natürlich nicht. Der Direktor des Aquariums. Es
 geht um Diebstahl. Dort wurde wohl mehrfach
 eingebrochen."
-5,3047,,Peccato. Sembra solo un caso ordinario.,小姐，真是可惜啊，感覺只是普通的事件。,,유감이야 아가씨. 평범해보이는 사건이었네,Schade. Klingt nach einem stinknormalen Fall.
+5,3047,,Peccato, signorina. Sembra un caso fin troppo ordinario.,小姐，真是可惜啊，感覺只是普通的事件。,,유감이야 아가씨. 평범해보이는 사건이었네,Schade. Klingt nach einem stinknormalen Fall.
 6,3047,,Ma furto? Sicuramente è più una questione per la polizia?,"……但是，你說偷竊？
 那種普通小事拜託警察就好啦。",,"…그런데 도난?
 그런 흔해빠진 사건이라면 경찰에게 부탁하면 될 텐데","Aber ist Diebstahl nicht eher ein Fall für die
 Polizei?"
 7,3046,,La polizia ci ha passato il caso.,就是警察那邊，把這件事交給了我們。,,그 경찰 측에서 이쪽으로 패스한 거다,Die Polizei hat den Fall weitergereicht.
 8,3045,,Quindi non è solo un caso ordinario?,……那麼，果然不是普通的事件吧？,,…그렇다면 역시 평범하지 않은 사건이라는 뜻?,Also doch kein gewöhnlicher Fall?
-9,3007,,"Vedo che siete tutti qui. Grazie per aver accettato
-questo.","喔，全員都在啊。
+9,3007,,"Vedo che siete tutti qui. Grazie per essere venuti.","喔，全員都在啊。
 又要拜託你們啦。",,"좋아, 전원이 모였군.
 또 신세를 지겠다","Ihr seid also alle da. Danke, dass ihr euch
 bereit erklärt habt."
@@ -58,12 +57,12 @@ nicht stimmt."
 海馬也被偷走了。",,"처음에는 도미, 그 다음엔 넙치
 해마도 도난당했습니다","Zum Beispiel Seebrassen, Flundern und
 Seepferdchen."
-19,3047,,"Wow. Forse i ladri vogliono aprire un loro acquario.",什麼？　犯人是想打造龍宮城喔。,,하앙? 범인은 용궁이라도 만들려는 생각인가,"Oha. Wollen die Diebe vielleicht ein eigenes
+19,3047,,"Wow. Che si mettano in testa di aprire un acquario tutto loro?",什麼？　犯人是想打造龍宮城喔。,,하앙? 범인은 용궁이라도 만들려는 생각인가,"Oha. Wollen die Diebe vielleicht ein eigenes
 Aquarium aufmachen?"
 20,3046,,"Non è una cosa da ridere. Dovresti prenderla più seriamente.",不要開玩笑，給我認真點。,,놀고있는 게 아냐. 진지하게 해,"Das ist kein Witz hier. Du solltest das mal
 ernster nehmen."
 21,3047,,Ehi.,好～,,네이~,He.
-22,3047,,Tu ridi e lui si arrabbia con me.,喂，都是你笑了才害我被罵啊。,,"어이, 네가 웃는 바람에 나까지 혼났잖아","Du lachst, und auf mich wird er sauer."
+22,3047,,Ehi, tu ridi e quello se la prende con me.,喂，都是你笑了才害我被罵啊。,,"어이, 네가 웃는 바람에 나까지 혼났잖아","Du lachst, und auf mich wird er sauer."
 23,3046,,Cos'altro è stato rubato?,……然後呢？　其他還有什麼被偷了嗎？,,…그리고? 그 외엔 뭘 훔쳐갔지?,Was wurde denn noch gestohlen?
 24,7364,,Alcuni squali.,"有的，
 連活著的鯊魚都有直接被偷過的狀況。",,"예.
@@ -107,8 +106,7 @@ merken, dass so viele Tiere verschwunden sind?"
 36,7364,,Erm...beh...,是，就是這樣。,,예에 예에,Ähm ... also ...
 37,7364,,I ladri... Loro...impiegano metodi molto astuti.,所以，才會說他們的手法……太過巧妙了……,,그 점이 놈들의 깔끔한 수법…이라고 부를 부분이라…,"Die Diebe ... setzen ... sehr listige Methoden
 ein."
-38,3047,,"Sì, certo! Sei sicuro che non sia perché voi vecchi
-bacucchi non siete all'altezza del compito?","不對不對，不是犯人手法太過巧妙，
+38,3047,,"Ma figurati! Non sarà che voi vecchietti non siete più all'altezza?","不對不對，不是犯人手法太過巧妙，
 是大叔你們太鬆散了吧？",,"아니아니, 범인의 수법이 깔끔해서가 아니라
 아저씨들이 얼빠졌을 뿐이잖아?","Ja, schon klar! Sind Sie sicher, dass Sie nicht
 einfach nur zu alt sind, um den Durchblick zu
@@ -155,8 +153,8 @@ nicht aufgefallen."
 49,3046,,Capisco perché.,原來如此，這樣的確無法察覺……,,과연. 확실히 그래선 알아차리지 못할 만도 하지…,Das kann ich nachvollziehen.
 50,3045,,Come?,……怎麼發現的？,,…어떻게?,Wie?
 51,7364,,Mi scusi?,什麼？,,예?,Wie meinen?
-52,3047,,"Intende, come hai fatto alla fine a capire cosa stava
-succedendo?","小姐想問的，是你們怎麼在這種狀況下，
+52,3047,,"La signorina vuole sapere come avete fatto a scoprire il furto,
+vista la situazione.","小姐想問的，是你們怎麼在這種狀況下，
 發現到被人偷的。",,"아가씨가 하고 싶은 말은, 그런 상황인데 반대로
 어떻게 범행을 알아차렸냐는 거야","Soll heißen: Wie haben Sie denn überhaupt bemerkt,
 was los ist?"
@@ -202,8 +200,8 @@ ai ferri corti su come gestirlo.","你說得真是直接啊。
 실은 이 사건을 어떻게 취급할지 위에서도 옥신각신하고 있어","Wäre es normalerweise schon. Aber meine
 Vorgesetzten können sich nicht einigen, was
 zu tun ist."
-62,3007,,"Ti risparmio i dettagli,
-ma tecnicamente questo caso non è classificato come furto.","……我就省略詳細說明，
+62,3007,,"Vi risparmio i dettagli,
+ma è molto probabile che questo caso non venga classificato come furto.","……我就省略詳細說明，
 但這起事件很可能不被當成竊盜案。",,"…자세한 설명은 생략하고
 이 사건은 도난죄에는 해당하지 않을 가능성이 높아","Ich erspare euch die Details, aber dieser Fall ist
 streng genommen kein Diebstahl."
@@ -319,8 +317,8 @@ habe gehört, dass es davon viele in EDEN gibt."
 你們是「做不出這種事」的……",,"아뇨, 설마!
 당신들에 대해선 마타요시 씨로부터 들었습니다.","Natürlich nicht! Matayoshi hat mir alles über
 euch erzählt."
-987,7364,,Ha detto che non saresti stato capace di una cosa del genere.,好像是說「不到那種程度」……,,「그런 수준이 아니다」라고…,"Er meinte, so etwas könntet ihr gar nicht tun."
-88,3046,,Che gentile da parte sua dire così...,……又吉先生，我能拒絕這工作吧？,,…마타요시 씨. 이 의뢰를 거절해도 됩니까?,Wenn er das so sagt ...
+87,7364,,Ha detto che non siete il tipo da fare una cosa del genere.,好像是說「不到那種程度」……,,「그런 수준이 아니다」라고…,"Er meinte, so etwas könntet ihr gar nicht tun."
+88,3046,,...Che gentile da parte sua a dirlo.,……又吉先生，我能拒絕這工作吧？,,…마타요시 씨. 이 의뢰를 거절해도 됩니까?,Wenn er das so sagt ...
 89,3007,,"Non intendevo questo! Volevo solo dire che non saresti
 capace di commettere un crimine del genere.","不對不對，不要誤會啦！
 我只有說「你們是不會做這種事的壞傢伙」而已啊。",,"아니아니, 오해하지 마!
@@ -348,7 +346,7 @@ Sono un po' curioso di scoprire esattamente cosa sta succedendo.","……既然�
 我也有點在意這事件的真相呢。",,"……네가 그렇게 말한다면 받아들이도록 할까.
 나도 약간 진상이 신경쓰이던 참이니까","Dann nehmen wir ihn. Ich bin auch etwas neugierig,
 was genau da los ist."
-96,3046,,"Non mi piace l'idea di pulire dopo la polizia,
+96,3046,,"Non mi piace l'idea di rimediare ai casini della polizia,
 ma il detective Matayoshi ha fatto molto per noi.","……我也懂你不想幫警察收爛攤子的心情，
 但我們很受又吉先生照顧。",,"……경찰의 뒤치다꺼리를 하는 게 내키지 않는 건 알겠지만
 마타요시 씨에게는 신세를 지고 있지","Es gefällt mir zwar nicht, für die faule Polizei
@@ -358,7 +356,7 @@ für uns getan."
 對我們駭客來說也是很重要的。",,"게다가 경찰에게 은혜를 베풀어 커넥션을 만들어 두는 것도
 우리 해커에게는 중요한 일이다","Es könnte außerdem nützlich sein, wenn die Polizei
 uns einen Gefallen schuldet."
-98,3046,,Il detective Matayoshi potrebbe essere utile.,……又吉先生可是“派得上用場”的男人喔。,,"…마타요시 씨는 ""쓸만한"" 남자야",Kommissar Matayoshi könnte uns nützlich sein.
+98,3046,,Il detective Matayoshi è un uomo "che torna utile".,……又吉先生可是“派得上用場”的男人喔。,,"…마타요시 씨는 ""쓸만한"" 남자야",Kommissar Matayoshi könnte uns nützlich sein.
 99,3007,,"Non posso credere che tu l'abbia detto
 con me proprio qui.",真是的，在我本人面前還真敢說啊。,,"정말, 본인을 앞에 두고 잘도 말하는군","Unglaublich, dass du das sagst, obwohl ich direkt
 vor dir stehe."
@@ -462,7 +460,7 @@ Ci sono ancora tracce dei registri cancellati.","真是藏頭露尾的傢伙，
 把紀錄消除掉，卻留下了紀錄的痕跡。",,"머리는 숨겨도 꼬리는 숨기지 못하는 놈이군.
 로그를 지웠다는 로그 흔적을 남겼어","Sie waren vorsichtig, aber nicht vorsichtig genug.
 Es gibt noch Spuren der gelöschten Protokolle."
-132,3047,,"Dovrebbe bastare... Dannazione, hanno coperto le loro tracce.","從這邊應該能解開……
+132,3047,,"Dovrebbe bastare... Dannazione, è un vicolo cieco.","從這邊應該能解開……
 嘖，果然有偽裝啊。",,"여기서부터 역으로 추적할 수 있겠는데…
 칫, 역시 위장하고 있나","Damit sollte es klappen ... Mist, sie haben ihre
 Spuren verwischt."

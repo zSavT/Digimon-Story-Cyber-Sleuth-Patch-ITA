@@ -14,7 +14,7 @@ ID,Japanese,English,Chinese,EnglishCensored,Korean,German
 20,,Paralizzato!,因麻痺而無法動彈！,,마비로 움직일 수 없다!,Gelähmt!
 21,,Addormentato!,因睡眠而無法動彈！,,수면으로 움직일 수 없다!,Schläft!
 22,,Non puoi muoverti per il contraccolpo!,因反作用力而無法動彈！,,반동으로 움직일 수 없다!,Rückstoß – pausiert!
-1001,,Pepper Breath,小型火焰,,꼬마불꽃,Pfefferatem
+1001,,Fiammata,小型火焰,,꼬마불꽃,Pfefferatem
 1002,,Spitfire Blast,噴火,,스핏파이어,Speifeuer-Stoß
 1003,,Guscio di diamante,滾動攻擊,,롤링스톤,Diamanten-Schale
 1004,,Evoca,召喚,,서몬,Herbeirufen
@@ -82,7 +82,7 @@ ID,Japanese,English,Chinese,EnglishCensored,Korean,German
 1066,,Nuvola di Cristallo,冰晶雲,,크리스탈 클라우드,Kristallwolke
 1067,,Iper Cannone,高壓加農炮,,기관총팔,Hyperkanone
 1068,,Alito di Fuoco,火焰吐息,,불 뿜기,Feuerodem
-1069,,Zampa Fulmine,貓貓拳,,고양이 펀치,Blitzpfote
+1069,,Zampa Fulminante,貓貓拳,,고양이 펀치,Blitzpfote
 1070,,Artiglio della Morte,死亡之爪,,악마의손길,Todeskralle
 1071,,Pioggia di Aghi,尖尖碰碰拳,,바늘뿜기,Nadelfeuer
 1072,,Power Metal,強力金屬彈,,파워 메탈,Power Metal
@@ -173,7 +173,7 @@ ID,Japanese,English,Chinese,EnglishCensored,Korean,German
 1157,,Taizoukai Mandala,胎藏界曼荼羅,,태장계만다라,Taizoukai-Mandala
 1158,,Forbice Dimensionale,次元剪刀,,디멘션 시저,Scherenschwert
 1159,,Distruzione Improvvisa,破壞崩潰,,디스트로이드 크래쉬,Zerstörungsangriff
-1160,,La fine del valzer,終結華爾茲,,엔드 왈츠,Ende des Walzers
+1160,,Fine del Valzer,終結華爾茲,,엔드 왈츠,Ende des Walzers
 1161,,Giudizio Divino,天國審判,,헤븐즈저지먼트,Himmlisches Urteil
 1162,,Urlo Frantumante,粉碎之爪,,네일 크러셔,Heulendes Elend
 1163,,Mandala Ametista,金剛界曼荼羅,,금강계만다라,Amethyst-Mandala
@@ -186,12 +186,12 @@ ID,Japanese,English,Chinese,EnglishCensored,Korean,German
 1170,,Attacco Nucleo dell'Anima,魂魄芯擊,,혼백심격,Seelenangriff
 1171,,Cannone Catastrofe,大災難,,카타스트로피 캐논,Katastrophenkanone
 1172,,Inferno di Fiamme,火焰地獄,,플레임 인페르노,Flammendes Inferno
-1173,,Giostra di Fulmini,皇家槍擊,,로얄 세이버,Blitz-Tjost
+1173,,Giostra Fulminante,皇家槍擊,,로얄 세이버,Blitz-Tjost
 1174,,Alito di Viverna,飛龍之息,,브레스 오브 와이번,Lindwurmodem
 1175,,Onda di Estinzione,滅絕,,아우스 스타벤,Welle der Auslöschung
 1176,,Raggio Atomico,原子射線,,아토믹 레이,Atomstrahl
 1177,,Giudizio della Lama,轍劍制裁,,철검성패,Klingenurteil
-1178,,Pandemonio Perduto,群魔殿迷失,,판데모니엄 로스트,Verlorenes Pandämonium
+1178,,Pandemonium Perduto,群魔殿迷失,,판데모니엄 로스트,Verlorenes Pandämonium
 1179,,Pugno del Boss Scintillante,閃光番長拳,,플래시 반쵸 펀치,Glitzernder Bossschlag
 1180,,Spada di fiori,王牌飛劍,,트럼프검,Trumpfkarte
 1181,,Pestaggio di Burattini,爆炸鐵鎚,,피노키해머,Puppenhammer
@@ -204,7 +204,7 @@ ID,Japanese,English,Chinese,EnglishCensored,Korean,German
 1188,,Incubo Eterno,永恆惡夢,,이터널 나이트메어,Ewiger Albtraum
 1189,,Esplosione di Luce Stellare,星光爆破,,S익스플로전,Sternenlicht-Explosion
 1190,,Tornado di fuoco,神聖火焰,,홀리 플레임,Flammenwind
-1191,,Pungiglione Tomahawk,戰斧斯坦納,,토마호크 슈타이너,Tomahawk-Stich
+1191,,Aculeo Tomahawk,戰斧斯坦納,,토마호크 슈타이너,Tomahawk-Stich
 1192,,Degradazione del Chaos,混沌降階,,카오스 디그레이드,Chaos-Verringerung
 1193,,Amore Oceanico,海洋之愛,,오션 러브,Liebesattacke
 1194,,Rotolamento d'Attacco,強襲旋斬,,스트라이크 롤,Schlagrolle
@@ -215,7 +215,7 @@ ID,Japanese,English,Chinese,EnglishCensored,Korean,German
 1199,,Garuru Tomahawk,加魯魯戰斧,,가루루 토마호크,Garuru-Tomahawk
 1200,,Fiume di Potere,究極波浪炮,,얼티메이트 스트림,Energiefluss
 1201,,Sciame del Terrore,驚駭電磁炮,,테러스 클러스터,Schwarm des Schreckens
-1202,,Stritolata Mordace,魔顎,,로스트룸,Beißendes Zermalmen
+1202,,Morso Schiacciante,魔顎,,로스트룸,Beißendes Zermalmen
 1203,,Dolore Fantasma,幻影苦痛,,팬텀 페인,Phantomschmerz
 1204,,Lama Celestiale,天之尾羽張,,아메노오하바리,Himmelsklinge
 1205,,Mascherata a Spirale,螺旋假面舞蹈會,,스파이럴 마스커레이드,Spiral-Maskerade
@@ -356,12 +356,12 @@ ID,Japanese,English,Chinese,EnglishCensored,Korean,German
 3098,,Collasso Mentale,智能破壞,,멘탈 브레이크,Geistbrecher
 3099,,Spezzatura di velocità,速度破壞,,스피드 브레이크,Geschwindigkeitsbrecher
 3100,,Campo Carica Attacco,攻擊填充力場,,어택 차지 필드,Angriffsladung (Feld)
-3101,,Campo di Carica Protettivo,守備填充力場,,가드 차지 필드,Verteidigungsladung (F.)
-3102,,Campo di Carica Mentale,智能填充力場,,멘탈 차지 필드,Geistladung (Feld)
-3103,,Campo di Carica Velocità,速度填充力場,,스피드 차지 필드,Geschwind.-Ladung (F.)
+3101,,Campo Carica Protettivo,守備填充力場,,가드 차지 필드,Verteidigungsladung (F.)
+3102,,Campo Carica Mentale,智能填充力場,,멘탈 차지 필드,Geistladung (Feld)
+3103,,Campo Carica Velocità,速度填充力場,,스피드 차지 필드,Geschwind.-Ladung (F.)
 3104,,Campo Break Attacco,攻擊破壞力場,,어택 브레이크 필드,Ausweichangriff (Feld)
-3105,,Campo di Rottura Guardia,守備破壞力場,,가드 브레이크 필드,Verteidigungsbrech. (F.)
-3106,,Campo di Rottura Mentale,智能破壞力場,,멘탈 브레이크 필드,Geistbrecher (Feld)
+3105,,Campo Rottura Guardia,守備破壞力場,,가드 브레이크 필드,Verteidigungsbrech. (F.)
+3106,,Campo Rottura Mentale,智能破壞力場,,멘탈 브레이크 필드,Geistbrecher (Feld)
 3107,,Campo Frantumazione Velocità,速度破壞力場,,스피드 브레이크 필드,Geschwind.-Brecher (F.)
 3108,,Cura,治癒,,힐,Heilen
 3109,,X-Cura,X治癒,,엑스 힐,X-Heilung
@@ -435,7 +435,7 @@ ID,Japanese,English,Chinese,EnglishCensored,Korean,German
 3539,,Posizione di Guardia,守備態勢,,수비 태세,Deckungshaltung
 3540,,Posizione Instabile,攪亂態勢,,교란 태세,Destabil. Haltung
 3541,,Posizione d'Assalto,突擊態勢,,돌격 태세,Angriffshaltung
-3542,,Posizione di guardia,守備態勢,,수비 태세,Deckungshaltung
+3542,,Posizione di Guardia,守備態勢,,수비 태세,Deckungshaltung
 3543,,Posizione Instabile,攪亂態勢,,교란 태세,Destabil. Haltung
 3544,,Non qui...,跟不上……,,따라올 수 없을 거다…,Nicht da ...
 3545,,Mostrami la tua forza.,讓我見識你們的力量吧,,너희들의 힘을 보여봐라,Zeig mir deine Kraft.
@@ -454,7 +454,7 @@ ID,Japanese,English,Chinese,EnglishCensored,Korean,German
 3558,,Colibrì Effimero,苦戀的蜂鳥,,애달픈 허밍 버드,Kurzlebiger Kolibri
 3559,,Inizia a caricare!,開始填充！,,차지 개시!,Stürm drauf los!
 3560,,Equilibrio perso!,失去平衡！,,자세를 무너뜨렸다!,Aus dem Gleichgewicht!
-3561,,Equilibrio ristabilito!,調整戰鬥姿勢,,자세를 바로잡았다,Wieder im Gleichgewicht!
+3561,,Equilibrio ripristinato!,調整戰鬥姿勢,,자세를 바로잡았다,Wieder im Gleichgewicht!
 3562,,Equilibrio perso!,失去平衡！,,자세를 무너뜨렸다!,Aus dem Gleichgewicht!
 3563,,Equilibrio ripristinato!,調整戰鬥姿勢,,자세를 바로잡았다,Wieder im Gleichgewicht!
 3564,,Arrogante...,頭抬得太高了……,,건방져…,Arrogant ...
@@ -522,7 +522,7 @@ ID,Japanese,English,Chinese,EnglishCensored,Korean,German
 3626,,Battimani,拍手,,크랩 핸드,Klatschen
 3627,,Ferma,暫停,,스톱,Anhalten
 3628,,Riavvia,重新開始,,리스타트,Neustart
-3629,,Fermati,暫停,,스톱,Anhalten
+3629,,Ferma,暫停,,스톱,Anhalten
 3630,,Riavvia,重新開始,,리스타트,Neustart
 3631,,Inversione di Campo,顛倒力場,,리버스 필드,Feld umkehren
 3632,,Catena di connessione,登入連鎖,,커넥트 체인,Kette verbinden
@@ -572,8 +572,8 @@ ID,Japanese,English,Chinese,EnglishCensored,Korean,German
 4032,,Varco di fuga,ESCAPE GATE,,이스케이프 게이트,Fluchttor
 5000,,Attacco,攻擊,,공격,Angriff
 6000,,Cristallo Enorme,巨大的水晶,,거대한 크리스탈,Großer Kristall
-6001,,Terminale di Erode,侵食裝置,,에로드 디바이스,Terminal zerfressen
-6002,,Processore di fusione,熔解處理裝置,,멜트 프로세서,Prozessor schmelzen
+6001,,Terminale di Erosione,侵食裝置,,에로드 디바이스,Terminal zerfressen
+6002,,Processore di Fusione,熔解處理裝置,,멜트 프로세서,Prozessor schmelzen
 6003,,Memoria Divisa,記憶切割,,메모리 디바이드,Speichertrennung
 6004,,Porto del Cervello,密謀者通訊埠,,마스터 마인드 포트,Superhirnanschluss
 6005,,Gestore di Interruzioni,中斷處理程序,,인터럽트 핸들러,Handler stören
@@ -583,7 +583,7 @@ ID,Japanese,English,Chinese,EnglishCensored,Korean,German
 6009,,Gestore di Ispezioni,開端處理程序,,인셉트 핸들러,Anwender inspizieren
 6010,,Gloria di Pendragon,大龍頭之光榮,,펜드래건즈 글로리,Pendragons Ruhm
 6011,,Dialogo di Pandora,潘朵拉對話,,판도라 다이얼로그,Pandora-Dialog
-6012,,Impatto Dragonico,龍魂衝擊,,드래고닉 임팩트,Drachen-Einschlag
+6012,,Impatto Draconico,龍魂衝擊,,드래고닉 임팩트,Drachen-Einschlag
 6013,,Terminale di Erosione,侵食裝置,,에로드 디바이스,Terminal zerfressen
 6014,,Processore di Fusione,熔解處理裝置,,멜트 프로세서,Prozessor schmelzen
 6015,,Mascherata a Spirale,螺旋假面舞蹈會,,스파이럴 마스커레이드,Spiral-Maskerade
@@ -598,8 +598,8 @@ ID,Japanese,English,Chinese,EnglishCensored,Korean,German
 6024,,Mach Stinger V,馬赫刺針V,,마하스팅거V,Machstich V
 6025,,Gloria di Pendragon,大龍頭之光榮,,펜드래건즈 글로리,Pendragons Ruhm
 6026,,Impatto Draconico,龍魂衝擊,,드래고닉 임팩트,Drachen-Einschlag
-6027,,Pugno del Boss Appariscente,閃光番長拳,,플래시 반쵸 펀치,Glitzernder Bossschlag
-6028,,Pugno del Boss appariscente,閃光番長拳,,플래시 반쵸 펀치,Glitzernder Bossschlag
+6027,,Pugno del Boss Scintillante,閃光番長拳,,플래시 반쵸 펀치,Glitzernder Bossschlag
+6028,,Pugno del Boss Scintillante,閃光番長拳,,플래시 반쵸 펀치,Glitzernder Bossschlag
 6029,,Spada Trascendente,暴龍颶風劍,,그레이 소드,Graues Schwert
 6030,,Il Raggio della Vittoria,閃光V字斬,,샤이닝V포스,Strahl des Sieges
 6031,,Fine del Valzer,終結華爾茲,,엔드 왈츠,Ende des Walzers
@@ -608,7 +608,7 @@ ID,Japanese,English,Chinese,EnglishCensored,Korean,German
 6034,,Inferno di Fiamme,火焰地獄,,플레임 인페르노,Flammendes Inferno
 6035,,Inferno di Fiamme,火焰地獄,,플레임 인페르노,Flammendes Inferno
 6036,,Morso Schiacciante,魔顎,,로스트룸,Beißendes Zermalmen
-6037,,Impatto Doppio,雙重衝擊,,더블 임팩트,Doppelter Einschlag
+6037,,Doppio Impatto,雙重衝擊,,더블 임팩트,Doppelter Einschlag
 6038,,Terremoto!Esplosione!Fuoco!Padre!,地神！神鳴！神馳！親父！,,지신! 신명! 신치! 친부!,Beben!Expl.!Feuer!Vater!
 6039,,Giudizio della Lama,轍劍制裁,,철검성패,Klingenurteil
 6040,,Spada Omni,奧米加之劍,,오메가 블레이드,Omnischwert
@@ -926,7 +926,7 @@ ID,Japanese,English,Chinese,EnglishCensored,Korean,German
 8023,,Abilità Test 3,測試用技能3,,테스트용 스킬3,Testfertigkeit 3
 8024,,Abilità Test 4,測試用技能4,,테스트용 스킬4,Testfertigkeit 4
 9001,,Resurrezione Perfetta,完美復活,,퍼펙트 리바이브,Perfekte Wiederbelebung
-9002,,Spada del Re Drago,聖劍開端之刃,,성검 그레이달파,Klinge des Drachenkönigs
+9002,,Lama del Re Drago,聖劍開端之刃,,성검 그레이달파,Klinge des Drachenkönigs
 9003,,Bolle,泡泡,,거품,Blasen
 9004,,Impulso del Drago,神龍衝擊,,드래곤 임펄스,Drachenstoß
 1379,,Attacco Katana,居合刃,,이합도,Katana-Angriff

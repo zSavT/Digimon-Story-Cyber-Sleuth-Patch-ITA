@@ -3,7 +3,7 @@
 2,,Disconnettersi?,您要登出嗎？,,로그아웃하겠습니까?,Ausloggen?
 5,,Sei sicuro di voler effettuare il Salto di Connessione?,您要登入跳躍嗎？,,커넥트 점프를 하겠습니까?,Möchtest du wirklich einen Verbindungssprung durchführen?
 6,,Disconnettersi dall'ospedale?,您要登出至醫院嗎？,,병원으로 로그아웃하겠습니까?,Aus dem Krankenhaus ausloggen?
-7,,Hai dei rapporti sui casi da compilare. Vuoi farlo ora?,有可以報告的委託，您要報告嗎？,,보고 가능한 의뢰가 있습니다. 보고하겠습니까?,Einige Fallberichte sind offen. Jetzt erledigen?
+7,,Hai dei casi da chiudere. Procedere ora?,有可以報告的委託，您要報告嗎？,,보고 가능한 의뢰가 있습니다. 보고하겠습니까?,Einige Fallberichte sind offen. Jetzt erledigen?
 8,,Accettare questo caso?,您要接受這份委託嗎？,,이 의뢰를 수락하겠습니까?,Diesen Fall annehmen?
 9,,Rimandare questo caso?,您要中止這份委託嗎？,,이 의뢰를 중단하겠습니까?,Diesen Fall verschieben?
 10,,Quale strada scegli?,您要前往什麼地點？,,어디로 가겠습니까?,Welchen Weg wählst du?
@@ -130,7 +130,7 @@ In den letzten Kampf ziehen?"
 6017,,Andare all'Ospedale Centrale?,要到中央醫院去嗎？,,센트럴 병원으로 가겠습니까?,Zum Zentralkrankenhaus?
 6018,,Lasciare Abyss Server?,要離開深淵伺服器嗎？,,어비스 서버에서 나가겠습니까?,Abyss-Server verlassen?
 6019,,Combattere il leader del team nemico?,要跟敵方隊伍的隊長戰鬥嗎？,,적 팀의 리더와 싸우겠습니까?,Gegen gegnerischen Anführer kämpfen?
-6020,,Vuoi uscire da qui?,要立刻離開這裡嗎？,,이 장소에서 신속히 퇴거하겠습니까?,Willst du hier weg?
+6020,,Vuoi andartene da qui?,要立刻離開這裡嗎？,,이 장소에서 신속히 퇴거하겠습니까?,Willst du hier weg?
 1502,,Iniziare la storia di Cyber Sleuth?,要開始「網路偵探」的故事對嗎？,,「사이버 슬루스」의 이야기를 시작할거야?,Die Geschichte von Cyber Sleuth beginnen?
 1503,,Iniziare la storia di Hacker's Memory?,要開始「駭客追憶」的故事對嗎？,,「해커스 메모리」의 이야기를 시작할거야?,Die Geschichte von Hacker's Memory beginnen?
 1504,,Iniziare il gioco condividendo i dati da un'altra storia?,要繼承其他故事的資料，並開始遊戲嗎？,,다른 시나리오 데이터를 공유하여 게임을 시작하겠습니까?,Spiel beginnen und Geschichtsdaten übernehmen?

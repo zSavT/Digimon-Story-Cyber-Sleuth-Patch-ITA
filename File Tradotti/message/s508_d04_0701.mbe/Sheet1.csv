@@ -9,31 +9,32 @@ Sono sullo stesso caso per un cliente diverso.","EDEN體驗會的入場票……
 우연이로군. 나도 같은 의뢰를 다른 의뢰인으로부터 받은 참이다","Eine Eintrittskarte zur EDEN-Vorschau? So ein
 Zufall. Ich arbeite am gleichen Fall für einen
 anderen Klienten."
-4,7269,,"Non perdere tempo a chiacchierare!
-Vai a trovare il mio biglietto!","你在聊什麼天啊，快點去找入場票啦！
+4,7269,,"Smettetela di chiacchierare!
+Andate a prendermi il biglietto!","你在聊什麼天啊，快點去找入場票啦！
 我可是委託人耶！",,"무슨 얘기를 하고 있는 거야. 빨리 티켓을 찾으러 가!
 나는 의뢰인이라고!","Hör auf zu plaudern! Geh und besorg
 mir meine Eintrittskarte!"
-5,3046,,"Silenzio. Sto lavorando gratis qui, ragazzino.
-Dovresti mostrare un po' di gratitudine.","少囉唆，我可是接了這幾乎是做白工的委託，
+5,3046,,"Silenzio. Sto lavorando quasi gratis, moccioso.
+Mostra un po' di gratitudine.","少囉唆，我可是接了這幾乎是做白工的委託，
 給我感恩一點啊，臭小鬼。",,"시끄러. 거의 공짜나 다름없이 의뢰를 받아준 거다.
 조금쯤은 고마워해라, 빌어먹을 꼬마야","Sei still. Ich arbeite gratis, Kleiner. Du
 solltest mir dankbar sein."
-6,3046,,Questo ragazzino mi ha ingaggiato per ottenere un biglietto in anteprima. Ne vuole davvero uno per la sua sorellina.,"我是接了這傢伙的委託，才在找體驗會的入場票。
+6,3046,,"Questo moccioso mi ha assunto per trovare un biglietto per l'anteprima.
+A quanto pare, lo vuole a tutti i costi per sua sorella...","我是接了這傢伙的委託，才在找體驗會的入場票。
 他好像為了妹妹，不論如何都要拿到票……",,"이 녀석의 의뢰로 나도 체험회 티켓을 찾고 있었지.
 아무래도 여동생을 위해 티켓을 입수하고 싶다는 모양이라……","Dieser Bursche hat mich angeheuert, eine
 Karte für das Schnupper-Event aufzutreiben. Er
 will unbedingt eine für seine kleine Schwester."
 7,2020,,!!!,！！,,!!,!!!
-8,3046,,"Eh? Sai che sua sorella si chiama Mina?
+8,3046,,"Eh? Dici che sua sorella si chiama Mina?
 Come fai a saperlo?","嗯？　你問他妹妹是不是叫米娜？
 你怎麼知道這種事的？",,"응? 여동생의 이름은 미나가 아니냐고?
 어째서 그런 것까지 알고 있지?","Was? Du weißt, dass er eine Schwester namens Mina
 hat? Woher weißt du das?"
 9,3046,,Capisco. Sembra che abbiamo lo stesso obiettivo.,原來如此，看來我們的目的是一樣的。,,과연. 목적은 같았던 모양이로군,"Verstehe. Sieht aus, als hätten wir das gleiche
 Ziel."
-10,7270,,"Quindi...sta cercando di ottenere un biglietto da sola?
-Piuttosto intelligente.","那傢伙……居然想靠自己拿到票啊……
+10,7270,,"Allora... sta cercando di procurarsi il biglietto da sola?
+Tsk, che tipa sveglia.","那傢伙……居然想靠自己拿到票啊……
 嘖、真是會算計啊。",,"그 녀석…스스로 티켓을 손에 넣으려고 했던 건가……
 쳇, 맹랑한 짓을 하다니","Dann ... versucht sie also selbst, an eine
 Eintrittskarte zu kommen? Ziemlich schlau."
@@ -46,9 +47,8 @@ Hmph, non posso credere di essermi lasciato manipolare così da lei.","因為啊
 여동생에게 휘둘려서 바보같잖아, 나","Wenn ihr beide ein Ticket findet, haben wir eines
 zu viel. Hmpf, ich kann es nicht glauben, dass ich
 mich von ihr so habe manipulieren lassen."
-14,7270,,"È così testarda e non ascolta una
-parola di quello che dico. Ma non si arrende mai,
-devo ammetterlo. Mi fa solo venire i nervi!","那傢伙又任性、又不聽話，卻又很懂事……
+14,7270,,"È testarda, non ascolta niente di quello che le dico...
+eppure sa cavarsela da sola. Che nervi!","那傢伙又任性、又不聽話，卻又很懂事……
 真的是受不了啊。",,"제멋대로고 말도 안 듣고 그런 주제에 요령은 좋고…
 정말 귀찮아 죽겠다니까","Sie ist so stur und hört nie darauf, was ich ihr
 sage. Aber sie gibt niemals auf, das muss ich ihr
@@ -66,7 +66,7 @@ Eintrittskarte beschaffen."
 你就一起去，好好照顧妹妹吧。",,"또 한장은 네 거야.
 같이 가서 동생을 제대로 돌봐주도록 해","Du kannst die überzählige haben. Begleite sie
 und pass auf sie auf."
-19,3046,,"È compito di un fratello maggiore, giusto?",這才是……哥哥啊。,,그게……오빠라는 거다,"Das gehört sich doch so für einen großen
+19,3046,,"È questo che fa un fratello maggiore, no?",這才是……哥哥啊。,,그게……오빠라는 거다,"Das gehört sich doch so für einen großen
 Bruder, stimmt’s?"
 20,7270,,Suppongo di sì.,……嗯。,,……응,Schätze schon.
 21,3046,,Allora è deciso.,決定了。,,결정됐군,Dann ist es beschlossen.

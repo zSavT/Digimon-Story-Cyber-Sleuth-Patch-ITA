@@ -1,7 +1,7 @@
 ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
-1,3045,,Mi dispiace di aver avvertito mio fratello...,不小心跟哥哥說了，對不起……,,오빠에게 말해버려서 미안……,"Tut mir leid, dass ich meinem Bruder Bescheid
+1,3045,,Scusa se ho avvertito mio fratello...,不小心跟哥哥說了，對不起……,,오빠에게 말해버려서 미안……,"Tut mir leid, dass ich meinem Bruder Bescheid
 gesagt habe ..."
-2,3045,,"Non volevo, ma mi ha sempre smascherato quando ho qualcosa da nascondere.","本來沒有想要說的……
+2,3045,,"Non volevo, ma quando cerco di nascondergli qualcosa, mi scopre sempre.","本來沒有想要說的……
 從以前開始，只要我有隱瞞的事，馬上就會被看穿。",,"말할 생각이 아니었는데…
 옛날부터 무슨 비밀이든 바로 간파해버려","Das wollte ich nicht, aber er hat mich schon immer
 durchschaut, wenn ich etwas zu verbergen habe."
@@ -10,14 +10,15 @@ durchschaut, wenn ich etwas zu verbergen habe."
 5,3045,,"Ero collegato a Wormmon, quindi ho visto tutto.",我跟蟲蟲獸連結了通訊，全都看到了。,,추추몬과의 통신으로 전부 보고있었어,"Ich war mit Wormmon verbunden, habe also alles
 gesehen."
 6,2020,,...,…………,,…………,...
-7,3045,,"... Non ti stai lasciando scuotere da questo, vero?
-Che tu possa non essere te stesso e cose del genere?","……我想你該不會，
+7,3045,,"... Non starai mica a pensare a quello che ha detto, vero?
+A quella storia che potresti non essere te stesso...","……我想你該不會，
 還在介意那傢伙說過的話吧？
 你有可能不是你的那些話。",,"……설마 그렇진 않겠지만
 그 녀석의 말을 신경쓰고 있는 건 아니지?
 네가 너 자신이 아닐지도 모른다는 말","... Du lässt das nicht an dich ran, oder?
 Dass du eventuell nicht du bist und so?"
-8,3045,,Con quello voleva solo confonderti. Tu sei tu. Il Vero.,"那種事，只是為了想讓你混亂才說的。
+8,3045,,"L'ha detto solo per confonderti.
+Tu sei tu, punto e basta.","那種事，只是為了想讓你混亂才說的。
 你就是你，千真萬確。",,"그딴 거 너를 혼란시키기 위해 하는 소리일 뿐이야.
 틀림없이 너는 너야","Damit wollte der dich nur verwirren. Du bist
 du. Der Echte."
@@ -30,7 +31,8 @@ e appartengono a ogni individuo.","而且最重要的是，精神數據是EDEN�
 最重要的構成要素，是個人財產喔。",,"무엇보다도 정신 데이터는 EDEN의 가장 중요한 구성요소이자
 개인재산이야","Mentaldaten sind der wichtigste Teil von EDEN,
 und sie gehören jedem Individuum."
-12,3045,,Questi dati sono stati protetti con la massima sicurezza possibile contro l'accesso illegale.,"為了不讓他人非法存取，
+12,3045,,"Questi dati sono stati protetti con la massima
+sicurezza possibile contro l'accesso illegale.","為了不讓他人非法存取，
 還設定了最高難度的防範措施。",,"부정하게 액세스 하지 않도록 최고난이도의 보안이
 설정되어 있으니까","Diese Daten wurden mit der höchstmöglichen
 Sicherheit gegen illegalen Zugriff geschützt."
@@ -40,26 +42,26 @@ non potrebbe accedere ai dati mentali di una persona.","存取人的精神數據
 레전드급 해커조차 불가능한 일이야","Selbst ein legendärer Hacker wie mein Bruder
 könnte nicht auf die Mentaldaten einer Person
 zugreifen."
-14,3045,,"Intendo... dopotutto non ti aveva incontrato sul tuo ultimo account.
-Se fossi stato sostituito in quel momento, non lo saprei.","因為……我們沒有遇過之前那個帳號的你。
+14,3045,,"Voglio dire... non ti ho mai incontrato con il tuo vecchio account.
+Se ti avessero sostituito allora, non potrei saperlo...","因為……我們沒有遇過之前那個帳號的你。
 如果在那時候你就已經被替換成別人的話，
 就連我也會不知道……但是――",,"그야… 예전 계정이었을 때의 너와는 만난 적이 없으니까
 그 시점에서 다른 사람으로 바뀌어 있었다면
 나로서는 모르겠지만……그치만――","Ich meine ... schließlich hatte er dich nicht auf
 deinem letzten Konto getroffen. Wenn du in dem
 Moment ersetzt worden wärst, wüsste ich es nicht."
-15,3045,,"Questo... non è però successo, vero?",你……你不會是其他人的，對吧？,,"다……다른 사람은 아니지, 그렇지?","Das ... ist aber nicht passiert, oder?"
+15,3045,,"Ma... non è così, vero?",你……你不會是其他人的，對吧？,,"다……다른 사람은 아니지, 그렇지?","Das ... ist aber nicht passiert, oder?"
 16,2020,,...,……………………,,……………………,...
 17,3045,,... O NO?,……你是嗎！？,,……다른 사람이야!?,... ODER?
 18,3045,,...,…………,,…………,...
-19,3045,,Era solo uno scherzo.,…………被騙了。,,…………속았다,... War nur Scherz.
+19,3045,,...Stavo solo scherzando.,…………被騙了。,,…………속았다,... War nur Scherz.
 20,2020,,!,～♪,,~♪,!
 21,3045,,"... Ehi, tuuu!",……真是的！！,,……정말!!,"... Na, duuu!"
 22,2020,,...!!!,……！！！！！,,……!!!!!,...!!!
 23,3045,,Si romperà di nuovo se ti picchio con quella?,你說打你的話又會壞掉？,,때렸다간 또 고장난다고?,"Ob sie wieder kaputt geht, wenn ich
 dich damit haue?"
-24,3045,,"Non preoccuparti.
-I pezzi sono stati migliorati durante la riparazione.","放心吧。
+24,3045,,"Tranquillo.
+Quando l'ho riparato, ho anche potenziato i componenti.","放心吧。
 上次修復時，我把零件都強化了……！",,"안심해.
 얼마 전 고쳤을 때 파츠 강화를 했으니까……!","Keine Sorge.
 Die Teile wurden bei der Reparatur verbessert."

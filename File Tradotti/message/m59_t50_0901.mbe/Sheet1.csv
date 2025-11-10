@@ -1,23 +1,23 @@
 ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
 1,3046,,"... Perché sei venuto qui, Sanada?",……真田，你來做什麼？,,"……무슨 일이지, 사나다","... Warum bist du hergekommen, Sanada?"
 2,1805,,"Hai sentito il discorso di Yuugo, vero?",……你也聽到YUGO的演說了吧。,,"……유고의 연설, 들었겠지","Du hast doch Yuugos Rede gehört, oder?"
-3,3046,,Cosa dovrebbe significare?,那又怎麼樣？,,그게 어쨌는데,Was soll das heißen?
-4,1805,,Cosa intendi con „Cosa significa“?,不該說怎麼樣吧！,,"어쨌는데, 가 아니잖아!",Was meinst du mit „Was soll das heißen“?
+3,3046,,E allora?,那又怎麼樣？,,그게 어쨌는데,Was soll das heißen?
+4,1805,,Come sarebbe "E allora?"?!,不該說怎麼樣吧！,,"어쨌는데, 가 아니잖아!",Was meinst du mit „Was soll das heißen“?
 5,1805,,Nessuno sa meglio di noi quanto sia pericoloso Under Zero!,"Under Zero很危險，
 我們不是最清楚的嗎！",,"언더 제로가 위험하다는 건 우리들이 가장
 잘 알고 있잖아!","Wir wissen doch besser als alle anderen, wie
 gefährlich Unter Null ist!"
-6,1805,,"Aiutami, Ryuji. Credo che il mio amico ci venga coinvolto.","龍司，幫我一把，
+6,1805,,"Aiutami, Ryuji. I miei amici rischiano di essere coinvolti.","龍司，幫我一把，
 我的夥伴們要被捲入這麻煩了。",,"힘을 빌려줘, 류지
 친구가 휘말릴 것 같아","Hilf mir, Ryuji. Ich glaube, dass mein Freund
 darin verwickelt wird."
-7,1805,,"Chiedo anche ad altri conoscenti.
-Come vecchi membri dei Jude.","我現在也在聯絡其他的夥伴，
+7,1805,,"Sto contattando anche altri compagni.
+I vecchi membri di Jude.","我現在也在聯絡其他的夥伴，
 就是從前Jude的成員。",,"지금 다른 동료들에게도 부탁하고 있어.
 쥬드의 전 멤버에게도","Ich bitte auch andere Bekannte.
 Wie alte Gamma-Mitglieder."
-8,1805,,"Dobbiamo fermare questi hacker. Aiutami, per favore.",一定要阻止駭客們，幫我一把吧。,,해커들을 막아야 해. 힘을 빌려줘,Wir müssen diese Hacker aufhalten. Hilf bitte mir.
-9,3046,,Sono tutti qui perché li hai fatti venire?,……他們會回應你的請求嗎？,,"……네가 불러서 모인 거냐, 그 녀석들은","Sie sind alle hier, weil du sie hergebeten hast?"
+8,1805,,Dobbiamo fermarli. Ti prego, aiutami.,一定要阻止駭客們，幫我一把吧。,,해커들을 막아야 해. 힘을 빌려줘,Wir müssen diese Hacker aufhalten. Hilf bitte mir.
+9,3046,,E hanno risposto alla tua chiamata?,……他們會回應你的請求嗎？,,"……네가 불러서 모인 거냐, 그 녀석들은","Sie sind alle hier, weil du sie hergebeten hast?"
 10,1805,,"Sì. Non sono molti, ma alcuni sono venuti.",會，雖然人數不多，但是有一些人答應了。,,아아. 적지만 몇 명인가 와 줬어,"Ja. Es sind nicht viele, aber ein paar sind
 gekommen."
 11,3046,,...,…………,,…………,...
@@ -30,10 +30,10 @@ Non posso semplicemente stare a guardare che gli succeda qualcosa.","我的夥�
 말려드는 놈들을 잠자코 지켜볼 수는 없잖아","Mein Freund ist manchmal nicht der Schlauste.
 Ich kann nicht einfach zusehen, wie ihm etwas
 geschieht."
-14,3046,,Cosa hai fatto quando ti ho chiesto di tornare?,……我拜託你回來的時候，你又做了什麼？,,"…내가 너에게 돌아와 달라고 부탁했을 때, 넌 어떻게 했지","Was hast du getan, als ich dich gebeten habe
+14,3046,,E tu cosa hai fatto quando ti ho chiesto di tornare?,……我拜託你回來的時候，你又做了什麼？,,"…내가 너에게 돌아와 달라고 부탁했을 때, 넌 어떻게 했지","Was hast du getan, als ich dich gebeten habe
 zurückzukommen?"
 15,1805,,...!,……！！,,…!!,...!
 16,3046,,"Se vuoi farlo, fallo da solo.",要做你就自己去做。,,하려면 혼자서 해,"Wenn du es tun willst, mach es allein."
-17,1805,,"... Allora non mi perdonerai, vero?",……你還是，不原諒我啊。,,……아직 용서해주지 않은 건가,"... Du wirst mir also nicht vergeben, was?"
+17,1805,,"... Quindi non hai intenzione di perdonarmi, vero?",……你還是，不原諒我啊。,,……아직 용서해주지 않은 건가,"... Du wirst mir also nicht vergeben, was?"
 18,3046,,...,…………,,…………,...
 19,1805,,... E va bene.,……我知道了。,,…알았다,... Na schön.
