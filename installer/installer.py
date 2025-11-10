@@ -51,7 +51,7 @@ HEAD_ICON_PATH = resource_path("assets/head_icon.png")
 YT_ICON = resource_path("assets/youtube.png")
 GH_ICON = resource_path("assets/github.png")
 WEB_ICON = resource_path("assets/web.png")
-VERSIONE = "v1.5.0.2"
+VERSIONE = "v1.5.1"
 ALT_SITE_NAME = "Games Translator"
 ALT_SITE_URL = "https://www.gamestranslator.it/index.php?/file/826-digimon-cyber-sleuth-complete-edition/"
 CREDITI = "Patch By SavT e Lowrentio"
@@ -78,93 +78,97 @@ WEB_URL = "https://savtchannel.altervista.org/"
 DONAZIONI = "https://www.paypal.com/paypalme/verio12"
 
 # --- Stylesheet (Tema Digimon) ---
-DIGIMON_STYLESHEET = """
-QWidget {
+def get_dynamic_stylesheet():
+    v_icon_path = resource_path("assets/v.png").replace("\\", "/") 
+    
+    return f"""
+QWidget {{
     background-color: #c2d0e0;
     color: #001830;
     font-family: "Segoe UI", Arial, sans-serif;
     font-size: 10pt;
-}
+}}
 
-QLabel#TitleLabel {
+QLabel#TitleLabel {{
     font-size: 18pt;
     font-weight: bold;
     color: #2a75bb;
     margin-bottom: 15px;
-}
+}}
 
-QLabel#SubtitleLabel {
+QLabel#SubtitleLabel {{
     font-size: 11pt;
     color: #3a3a3a;
     margin-bottom: 8px;
-}
+}}
 
-QLabel#StatusLabel {
+QLabel#StatusLabel {{
     color: #2a75bb;
     font-size: 10pt;
     padding: 5px;
     min-height: 3.5em;
     qproperty-alignment: AlignCenter;
-}
+}}
 
-QPushButton {
+QPushButton {{
     background-color: #eaf2fc;
     color: #2a75bb;
     border: 2px solid #2a75bb;
     padding: 6px 20px;
     font-weight: bold;
     border-radius: 4px;
-}
-QPushButton:hover {
+}}
+QPushButton:hover {{
     background-color: #d0e4f7;
     border-color: #3a8ee0;
-}
-QPushButton:pressed {
+}}
+QPushButton:pressed {{
     background-color: #c2d0e0;
     border-color: #2a75bb;
-}
-QPushButton:disabled {
+}}
+QPushButton:disabled {{
     background-color: #f0f0f0;
     color: #aaa;
     border-color: #ccc;
-}
+}}
 
-QCheckBox {
+QCheckBox {{
     spacing: 5px;
-}
-QCheckBox::indicator {
+}}
+QCheckBox::indicator {{
     width: 16px;
     height: 16px;
     border: 1px solid #2a75bb;
     background-color: #ffffff;
-}
-QCheckBox::indicator:hover {
+}}
+QCheckBox::indicator:hover {{
     border: 1px solid #3a8ee0;
-}
-QCheckBox::indicator:checked {
+}}
+QCheckBox::indicator:checked {{
     background-color: #ff9a40;
     border: 1px solid #2a75bb;
-}
+    image: url({v_icon_path});
+}}
 
-QLineEdit, QTextEdit {
+QLineEdit, QTextEdit {{
     background-color: #ffffff;
     border: 1px solid #3a8ee0;
     padding: 6px;
     color: #001830;
     border-radius: 2px;
-}
+}}
 
-QProgressBar {
+QProgressBar {{
     border: 1px solid #2a75bb;
     border-radius: 4px;
     background-color: #ffffff;
     height: 12px;
     text-align: center;
-}
-QProgressBar::chunk {
+}}
+QProgressBar::chunk {{
     background-color: #2a75bb;
     width: 1px;
-}
+}}
 """
 
 
@@ -1297,7 +1301,7 @@ if __name__ == "__main__":
     # Crea l'applicazione Qt
     app = QApplication(sys.argv)
     app.setStyle("Fusion")
-    app.setStyleSheet(DIGIMON_STYLESHEET)
+    app.setStyleSheet(get_dynamic_stylesheet())
 
     # Crea e mostra il wizard
     wizard = InstallerWizard()
