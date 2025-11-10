@@ -1,8 +1,8 @@
 ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
 1,3047,,Argh!,嗚哇──！！,,우왁―――!!,Argh!
-2,3046,,Questa volta abbiamo vinto...,看來這次……是我們的勝利。,,이번엔……우리의 승리로군,Dieses Mal haben wir gewonnen ...
+2,3046,,Questa volta... abbiamo vinto noi.,看來這次……是我們的勝利。,,이번엔……우리의 승리로군,Dieses Mal haben wir gewonnen ...
 3,2020,,?!?!,！？！？,,!?!?,?!?!
-4,3047,,Yo. Ti sei preso tutto il tempo necessario...,喔，你慢死了…,,"느, 늦었잖아 너…",Hallo. Du hast dir reichlich Zeit gelassen ...
+4,3047,,Ehi, te la sei presa comoda...,喔，你慢死了…,,"느, 늦었잖아 너…",Hallo. Du hast dir reichlich Zeit gelassen ...
 5,3047,,Non lo capisci?! Shinonome ha assunto Ryuji!,"沒有什麼好解釋的啦……！
 龍司那傢伙被東雲雇用了……！",,"보이는 그대로야…!
 류지 자식, 시노노메에게 고용되어 있었어…!","Kapierst du es nicht?! Shinonome hat Ryuji
@@ -18,14 +18,14 @@ unserer Seite steht!"
 10,7381,,"Sei stato fantastico, Sensei!",太帥啦老師！,,"멋지십니다, 선생님!","Du warst großartig, Sensei!"
 11,7382,,"Lasciami stringere la mano, Sensei!",老師請和我握手！,,"악수해주세요, 선생님!","Bitte lass mich deine Hand schütteln, Sensei!"
 12,3046,,"Smetti di chiamarmi ""Sensei"".",不要叫我老師。,,선생님은 그만둬라,"Hört auf, mich Sensei zu nennen."
-13,3046,,"Non avrei mai pensato di dover combattere contro di te. Ma è solo lavoro.
+13,3046,,"Non pensavo di dover combattere contro di te, ma è solo lavoro.
 Niente di personale.","……沒想到會用這樣的方式和你們戰鬥，
 但工作就是工作。不要怪我。",,"……설마 이런 형태로 너희와 싸우게 될 줄이야.
 하지만 일은 일이다. 나쁘게 생각하지 마라","Ich hätte nie gedacht, dass ich mal gegen euch
 kämpfe. Aber es ist eben Arbeit. Nicht persönlich
 gemeint."
-14,3046,,"È come un'attività secondaria. A volte accetto casi diversi
-da quelli Hudie, giusto per assicurarmi di non perdere il filo.","這就是所謂的修行。
+14,3046,,"È una specie di allenamento. A volte accetto casi al di fuori
+di Hudie per non perdere la mano.","這就是所謂的修行。
 為了不讓功力退步，我偶爾也會這樣
 接受hudie以外的委託。",,"무사수행 같은 거지.
 실력이 녹슬지 않도록 후디에의 의뢰 말고도
@@ -38,9 +38,8 @@ Zack zu bleiben."
 Das hättest du uns sagen sollen!"
 16,3046,,Non me l'hai mai chiesto.,是你們沒問。,,물어보지 않았으니까,Ihr habt ja nie gefragt.
 17,3047,,...È vero.,……就知道你會這樣說。,,……이렇다니까,... Stimmt.
-18,3047,,"Erika, non possiamo farcela senza di te. Mi ha completamente
-strapazzato proprio adesso! Poteva almeno trattenersi
-un po'...","對手是龍司的話，小姐也沒辦法認真對戰……
+18,3047,,"Erika, senza di te non ce la faccio. Mi ha completamente
+asfaltato! Poteva almeno andarci piano...","對手是龍司的話，小姐也沒辦法認真對戰……
 只有我一個，根本只有挨揍的份啊！？
 拜託饒了我吧。",,"류지가 상대면 아가씨도 진지하게 싸우지 않고…
 나 혼자서 흠씬 두들겨 맞았잖아!?
@@ -62,9 +61,8 @@ Chance! Dieses Mal schaffst du es nicht, Ryuji! "
 23,3047,,Eh?! Cosa vuoi dire?,"你說什麼！？
 可、可以了？　你什麼意思？",,"뭐!?
 이, 이제 됐다고? 무슨 소리야?",Wie?! Was soll das heißen?
-24,7378,,"Vedendo quell'incredibile battaglia tra voi due proprio
-ora, tutto quello che sto facendo mi è sembrato improvvisamente
-così inutile.","……剛剛看著兩位精彩的戰鬥後，
+24,7378,,"Vedendo la vostra incredibile battaglia, tutto quello che ho fatto
+finora mi è sembrato improvvisamente inutile.","……剛剛看著兩位精彩的戰鬥後，
 總覺得自己至今所做的事情
 突然變得很沒意義……",,"……방금 전 두 분의 멋진 싸움을 보고 있었더니
 어쩐지 자신이 하고 있는 일이
@@ -78,20 +76,21 @@ plötzlich sinnlos."
 Es ist absurd."
 26,7374,,Shinonome...,東雲……,,시노노메 군……,Shinonome ...
 27,3046,,Non posso controbattere.,……嗯，說得也沒錯。,,"……뭐, 그거야 그렇겠지",Dem kann ich nicht widersprechen.
-28,3047,,Ci hai messo un bel po' a capirlo...,事到如今才注意到嗎……,,이제 와서 깨닫지 말라고…,"Hat ja lange genug gedauert, dass du es erkennst."
-29,7380,,"È stata davvero una battaglia impressionante. Sono rimasto
-affascinato dalle tattiche travolgenti di Ryuji Mishima.","不，剛剛確實讓我看到了一場
+28,3047,,Era ora che te ne accorgessi...,事到如今才注意到嗎……,,이제 와서 깨닫지 말라고…,"Hat ja lange genug gedauert, dass du es erkennst."
+29,7380,,"È stata una battaglia impressionante, mi ha aperto gli occhi.
+Sono rimasto affascinato dalla potenza travolgente
+di Ryuji Mishima.","不，剛剛確實讓我看到了一場
 足以令我清醒的精彩比賽。
 御島龍司壓倒性的力量型戰略也讓我看得入迷……",,"아니 분명 눈을 뜨이게 할 만큼 멋진 시합이었어.
 미시마 류지의 압도적인 파워형 전략에도 매료되었지만…","Es war wirklich ein fantastischer Kampf. Ich war
 fasziniert von Ryuji Mishimas überlegener Taktik."
-30,7381,,"E lo stile di combattimento tecnico di Chitose Imai era
-sbalorditivo!","嗯。
+30,7381,,"E lo stile di combattimento tecnico di Chitose Imai
+era sbalorditivo!","嗯。
 今井千歲技巧性的戰鬥方式也很出色！！",,"응.
 이마이 치토세의 테크니컬한 전투 방식도 훌륭했지!!","Und Chitose Imais Kampfstil zeigte eine exquisite
 Technik!"
-31,7378,,"Capito. È stato esaltante! Mi ha ricordato il brivido
-che ho provato la prima volta che ho costruito un programma.","是的，看著心情也不禁激動了起來！
+31,7378,,"Esatto, è stato esaltante! Mi ha ricordato l'emozione che provai
+la prima volta che ho programmato.","是的，看著心情也不禁激動了起來！
 讓我想起了第一次組程式時那種快樂的感覺……",,"예, 보고 있었더니 가슴이 두근거렸습니다!
 처음 프로그램을 짜던 시절의 즐거움을 떠올렸다고 할까…","Das war großartig! Es hat mich daran erinnert, wie
 spannend es war, zum ersten Mal ein Programm
@@ -100,14 +99,14 @@ zu schreiben."
 我好像變得有些奇怪。",,"……미안했다, 쿠라치.
 난 어떻게 돼버렸던 모양이야","Entschuldige, Kuraji. Ich weiß nicht, was ich mir
 bei der Sache gedacht habe."
-33,7378,,"Sei arrivato così lontano da quando sei andato a Inoden.
-Forse Mi sentivo come se fossi stato lasciato indietro.","妳去了井之電之後，好像變得越來越厲害了。
+33,7378,,"Da quando sei andata a Inoden hai fatto passi da gigante.
+Forse mi sono sentito messo da parte.","妳去了井之電之後，好像變得越來越厲害了。
 讓我覺得自己好像被妳拋在後頭的一樣……",,"이노덴에 간 네가 급속하게 실력이 오르는 걸 보고
 난 버려지고 말았다는 기분이 들어버린 건지도 몰라…","Du hast so viel geschafft, seit du auf Inoden
 gehst. Vielleicht fühlte ich mich abgehängt."
-34,7378,,"So che non ho il diritto di chiederlo, ma
-ci lascerete competere nel round finale? Niente
-scherzi, lo prometto.","事到如今還這樣拜託或許很奇怪……
+34,7378,,"So che non ho il diritto di chiederlo, ma...
+ci lascerete combattere l'ultimo round?
+Senza scherzi, lo prometto.","事到如今還這樣拜託或許很奇怪……
 但至少最後一場比賽，能讓我們
 堂堂正正的分出勝負嗎！？",,"이런 걸 부탁할 입장은 아닐지도 모르지만…
 마지막 시합만큼은 정정당당하게 
@@ -115,9 +114,9 @@ scherzi, lo prometto.","事到如今還這樣拜託或許很奇怪……
 dürfen wir in der letzten Runde antreten?
 Ohne Schummelei, ich verspreche es."
 35,7374,,Shinonome...,東雲……,,시노노메 군……,Shinonome ...
-36,7374,,Non desidero altro!,嗯，當然好，我求之不得！,,"응, 물론. 바라는 바야!",Nichts wäre mir lieber!
-37,7374,,"Scusa, puoi cancellare il resto del mio caso?
-Forza, Shinonome! Il round finale sta per iniziare!","不好意思，我們的委託就到此為止！
+36,7374,,Certo, non desidero altro!,嗯，當然好，我求之不得！,,"응, 물론. 바라는 바야!",Nichts wäre mir lieber!
+37,7374,,"Scusate, potete annullare il resto del caso?
+Forza, Shinonome! L'ultimo round sta per iniziare!","不好意思，我們的委託就到此為止！
 東雲，抓緊時間！　最後一戰要開始了喔！",,"죄송합니다. 저희들의 의뢰는 이걸로 충분합니다!
 서두르자, 시노노메 군! ","Entschuldigt, könnt ihr den Fall hier abbrechen?
 Komm schon, Shinonome! Die letzte Runde geht
@@ -160,8 +159,8 @@ Lasst uns das klären!"
 只要千歲一個人忍耐就沒事啦。",,"응, 나도 찬성.
 치토세가 참으면 그만이야","Finde ich auch. Krieg dich wieder ein, Chitose."
 56,3047,,Bah! Volevo prendermi una rivincita...,哼，只有我一個人被揍不是很吃虧嗎……哼哼。,,"체엣, 나만 두들겨 맞고 손해 봤잖아…","Pfff, dabei wollte ich doch eine Revanche ..."
-57,3047,,"Però forse tre combattimenti di fila sono un po' troppi.
-Che ne dici se andiamo a vedere il resto della competizione?","但說實話，連續對戰也很累人啊……
+57,3047,,"Però tre combattimenti di fila sono un po' troppi.
+Che ne dici se andiamo a vedere il resto della gara?","但說實話，連續對戰也很累人啊……
 還是默默的守護高中生們的火熱戰鬥吧……",,"뭐, 하지만 역시 연전은 힘겹지…
 이제 고교생들의 뜨거운 배틀을 지켜보도록 할까…","Aber drei Kämpfe in Folge sind vielleicht ein
 bisschen übertrieben. Schauen wir uns doch den
@@ -169,7 +168,7 @@ restlichen Wettbewerb an!"
 58,3047,,Ecco che parli come si deve!,這樣就對了！,,그렇게 나오셔야지!,Das ist doch mal eine Idee!
 59,3045,,No. Non combatterò contro mio fratello.,……我才不要和哥哥對戰呢。,,"…싫은데, 오빠랑 싸운다니",Nein. Ich kämpfe nicht gegen meinen Bruder.
 60,3046,,"Non preoccuparti per me, Erika.",不用顧慮我，艾莉卡。,,"신경 쓰지 마, 에리카","Mach dir um mich keine Sorgen, Erika."
-61,3046,,"Fammi vedere di cosa sei capace. Non dovresti
+61,3046,,"Mostrami di cosa sei capace. Non dovresti
 tirarti indietro di fronte a una sfida.","拿出你作為駭客的真本事。
 在這邊放水的話……才真的是不識趣。",,"해커로서 네 진짜 실력을 보여봐.
 여기서 봐준다면…그거야말로 풍류가 없는 짓이지","Zeig doch mal, was du kannst. Du solltest
@@ -193,18 +192,18 @@ Herausforderungen nicht meiden."
 72,3047,,"Lascia che te lo ricordi: non sarai pagato per questo
 combattimento.",先說好喔，這場戰鬥是完全沒有報酬的喔？,,말해두겠지만 여기서 이긴다고 해도 돈이 되진 않는다구?,"Ich darf daran erinnern, dass ihr für diesen Kampf
 nicht bezahlt werdet."
-73,7380,,"Combattere al fianco di Ryuji Mishima sarebbe un sogno
-che diventa realtà! Non ci importa dei soldi!","光是能和御島龍司組隊就已經像作夢一樣了！
+73,7380,,"Combattere al fianco di Ryuji Mishima
+è un sogno che si avvera! Non ci importa dei soldi!","光是能和御島龍司組隊就已經像作夢一樣了！
 才不需要另外的報酬！",,"그 미시마 류지와 함께 싸울 수 있다는 것만으로도 꿈만 같으니까!
 돈 따윈 필요 없어!","An Ryuji Mishimas Seite zu kämpfen ist ein Traum!
 Da ist uns das Geld egal!"
-74,7381,,"Invece di soldi, dovrete darci i vostri
-autografi se vinciamo!","作為交換，如果我們贏了，
+74,7381,,"Invece dei soldi, se vinciamo dovrete darci
+i vostri autografi!","作為交換，如果我們贏了，
 你們要給我們你們全部的簽名！",,그 대신 우리가 이긴다면 멤버 전원의 사인을 주세요!,"Statt Geld müsst ihr uns alle ein Autogramm geben,
 falls wir gewinnen!"
 75,7382,,Sì! Mi piace come suona!,耶！　加油啊！　哥哥們！,,휘익―! 힘내―! 형들―!,"Ja, das gefällt mir!"
-76,3045,,"Non voglio proprio farlo. Scusa, Ryuji, ma
-non mi tratterrò.","……我才不想要簽什麼名給你們。
+76,3045,,"Non ci penso proprio. Scusa, Ryuji, ma
+stavolta non mi tratterrò.","……我才不想要簽什麼名給你們。
 哥哥抱歉了，我可能會稍微拿出真本事。",,"……그런 거 절대 하기 싫어.
 미안, 오빠. 약간 진심으로 할지도","Darauf habe ich wirklich keine Lust. Tut mir leid,
 Ryuji. Jetzt gibt es keine Gnade."

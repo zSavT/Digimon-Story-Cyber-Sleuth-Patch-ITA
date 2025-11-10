@@ -8,20 +8,20 @@ Come sta Erika?","不用這麼見外啦。
 艾莉卡在那之後怎麼樣啦？",,"신경쓰지 말라고 했잖냐.
 에리카는 그 이후로 어떠냐","Du musst nicht so förmlich sein!
 Wie ist es Erika ergangen?"
-4,3046,,Lui è stato dimesso dall'ospedale abbastanza presto.,沒多久就出院了。,,금방 퇴원할 수 있었습니다,"Sie wurde recht schnell aus dem
+4,3046,,È stato dimesso dall'ospedale abbastanza in fretta.,沒多久就出院了。,,금방 퇴원할 수 있었습니다,"Sie wurde recht schnell aus dem
 Krankenhaus entlassen."
 5,3007,,"Ah, davvero? Mi fa piacere.",這樣啊……那就好。,,그런가 그런가… 그건 정말 다행이군,Ach ja? Das freut mich.
 6,3007,,È da tanto che non ci sentiamo. Come stai? Come va con il tuo lavoro?,"好久沒像這樣好好見上一面了
 ……你最近過得如何。有沒有好好工作啊？",,"느긋하게 만나는 건 오랜만이군.
 …네 쪽은 어떠냐. 착실하게 일하고 있나?","Wir haben uns lange nicht unterhalten. Wie geht
 es dir denn? Wie läuft es mit deiner Arbeit?"
-7,3046,,Non male. Sicurezza di rete. Il solito.,託您的福，目前在做安全管理的工作。,,덕분에요. 보안 관리를 맡고 있습니다,Nicht übel. Netzwerksicherheit. Das Übliche.
+7,3046,,Non c'è male. Mi occupo di sicurezza di rete. Il solito.,託您的福，目前在做安全管理的工作。,,덕분에요. 보안 관리를 맡고 있습니다,Nicht übel. Netzwerksicherheit. Das Übliche.
 8,3007,,"Oh, eccellente!
 Oggigiorno una cosa del genere sta diventando sempre più importante.","哦哦，很不錯嘛！
 這可是現代相當重視的工作呢。",,"오오, 훌륭하군!
 요즘 시대엔 꼭 필요한 일 아니냐?","Oh, hervorragend!
 Heutzutage wird so etwas ja immer wichtiger."
-9,3046,,"... Ma Commissario Matayoshi – ho bisogno
+9,3046,,"... A proposito, detective Matayoshi – avrei bisogno
 del Suo consiglio per una questione.","……話說回來，又吉先生。
 我有件事情想和您商量――",,……그런데 마타요시 씨. 상의드릴 일이 있는데――,"... Aber Kommissar Matayoshi – ich brauche
 Ihren Rat wegen einer Sache."
@@ -66,8 +66,8 @@ Na schön ..."
 Un po' almeno.",而且……還、還有……那麼一點點可愛。,,"게다가……귀, 귀엽잖아……조금","Außerdem ... i-ist es irgendwie niedlich ...
 ein bisschen zumindest."
 25,2020,,(... Ugh!),……！！,,……!!,(... Urks!)
-26,2020,,"Se non mi molla presto...!
-Sto per scoppiare dal mio Avatar...!","不快一點離開她的話……！
+26,2020,,"Se non si stacca subito...!
+Il mio avatar sta per esplodere per la troppa felicità...!","不快一點離開她的話……！
 從化身那傳來非常幸福的觸感……！",,"빨리 떨어져야 해……!
 아바타를 통해서 행복한 감촉이 전해지고 있어……!","Wenn sie mich nicht bald loslässt, ...!
 Ich platze gleich aus meinem Avatar raus ...!"
@@ -76,7 +76,8 @@ Ich platze gleich aus meinem Avatar raus ...!"
 29,3045,,Ascoltami e basta! Stai fermo!,沒關係，維持那樣不要動。,,괜찮아. 됐으니까 그대로 가만히 있어,Hör mir einfach zu! Halt still!
 30,3045,,... Pervertito.,……色狼。,,……색골,... Perversling.
 31,2020,,?!,！？,,!?,?!
-32,3045,,"Anche se hai l'aspetto di un Digimon, emani proprio pensieri perversi.","就算你現在是數碼寶貝的樣子，
+32,3045,,"Anche se hai l'aspetto di un Digimon,
+le tue onde cerebrali da pervertito sono chiaramente visibili.","就算你現在是數碼寶貝的樣子，
 我還是觀測得到你的色狼電波。",,모습이 디지몬이어도 색골 전파는 관측할 수 있어,"Du magst zwar aussehen wie ein Digimon, aber du
 verströmst förmlich versaute Gedanken."
 33,2020,,?!,！？！？,,!?!?,?!
@@ -92,7 +93,7 @@ Basta con queste sciocchezze, ridai il suo animale domestico al giovane!","喂�
 놀고있지 말고 빨리 그 녀석을 학생에게 돌려줘!","He! Date!
 Schluss mit dem Unfug, gib dem jungen
 Mann sein Haustier zurück!"
-37,3015,,Okay ... Ecco!,好～啦……拿去啦！,,예입…… 받아라!,Okay ... Hier!
+37,3015,,Okay... Ecco!,好～啦……拿去啦！,,예입…… 받아라!,Okay ... Hier!
 38,3015,,"Fai più attenzione al tuo Digimon!
 Altrimenti ti dovrò portare in centrale!","好好管好自己的數碼寶貝啊！
 不然的話，我就逮捕你喔──",,"디지몬은 똑바로 관리해라!
@@ -104,7 +105,7 @@ Questa è la mia collega Date.","正好。龍司，我跟你介紹一下。
 這是我的部下，叫伊達。",,"마침 잘됐군.
 소개하지 류지. 부하인 다테다","Perfektes Timing. Lass mich dich vorstellen,
 Ryuji. Das ist meine Kollegin Date."
-41,3007,,"Voi due siete fatti della stessa pasta.
+41,3007,,"Voi due siete dello stesso ""tipo"".
 Per questo ho pensato che doveste conoscervi.","她和你是同“類型”的人啊。
 所以我一直想找個機會讓你們見個面。",,"나와 같은 ""식구""거든.
 언젠가 만나게 해주고 싶다고 생각하고 있었지","Ihr beide seid aus dem selben Holz geschnitzt.
@@ -133,8 +134,8 @@ Voi ragazzi dovete imparare a prendervi cura l'uno dell'altro.","嘿嘿、我啊
 그렇게 되면 젊은이들끼리 서로 돕도록 하게","Hehe, ich bin ein alter Mann ... Wer weiß, wann
 meine Zeit vorbei sein wird? Ihr jungen Spunde
 müsst lernen, aufeinander aufzupassen."
-49,3015,,"Cosa...? Forza, Matayoshi, l'erba cattiva non muore mai!
-Niente ti ucciderà!","嗯……！？　怎麼會……又吉叔，您要死了嗎！？
+49,3015,,"Cosa...? Andiamo, Matayoshi, l'erba cattiva non muore mai!
+Non può succederti niente!","嗯……！？　怎麼會……又吉叔，您要死了嗎！？
 我不要您死啊！又吉叔！！",,"엑……!? 그런…… 죽지 마세요, 마타요시 씨!?
 죽으면 안 돼요, 마타요시 씨!!","Was ...?! Komm schon, Matayoshi, Unkraut vergeht
 nicht! Dich bringt nichts um!"

@@ -17,7 +17,7 @@ borbottano tra sé. Cosa posso fare?)","（……Zaxon的駭客用著迷茫的�
  중얼거리고 있다. 어떻게 해야 할까)","(Diese Zaxon-Hacker stieren und brabbeln vor
 sich hin. Was soll ich tun?!)"
 5,2020,,"Lasciali stare.
-Scuotili per farli rinsavire.","放任不管
+Schiaffeggiali per farli rinsavire.","放任不管
 打巴掌叫醒",,"내버려 둔다
 따귀를 때려 깨운다","Sie in Ruhe lassen.
 Sie aus ihrer Trance holen."
@@ -33,19 +33,18 @@ Hehe...hehehehe...","好幸……福喔……
 Hihi ... Hihihihi ..."
 8,2020,,(Non posso proprio lasciarli così!),（放著他們不管就危險了……！）,,(이대로 내버려 두면 위험해…!),(Ich muss etwas unternehmen!)
 9,7181,,Eh? Cosa stavo facendo?,……咦，我在幹什麼……？,,"……어라, 나 뭘 하고 있었지……?",Was? Wo war ich gerade?
-10,7183,,"Che è successo? Era come se stessi facendo un
-sogno così bello...","我是怎麼了啊……
+10,7183,,"Cos'è successo? Mi sembrava di stare facendo un sogno bellissimo...","我是怎麼了啊……
 好像做了一場美夢的感覺……",,"어떻게 된 걸까… 나.
 뭔가 좋은 꿈을 꾸고 있었던 기분이 드는데……","Was ist passiert? Mir kommt es vor, als ob ich
 einen schönen Traum hatte ..."
-11,7183,,Aspetta... Siamo stati attaccati da quel gruppo?!,啊，該不會……這就是敵人的攻擊！？,,"아, 이거 설마…… 그 적의 공격!?",Moment ... Wurden wir von der Gruppe angegriffen?!
+11,7183,,Aspetta... Siamo stati attaccati dal nemico?!,啊，該不會……這就是敵人的攻擊！？,,"아, 이거 설마…… 그 적의 공격!?",Moment ... Wurden wir von der Gruppe angegriffen?!
 12,7184,,Ci hai aiutato? Grazie.,是你救了我們啊，謝啦。,,네가 구해준 거야?  고마워,Hast du uns geholfen? Danke.
-13,7184,,"Quei vestiti... Devi essere di Hudie.
-Ci stai aiutando a cercare Dreamin'?","那衣服，你是hudie的人對吧，
+13,7184,,"Quell'uniforme... Sei di Hudie, vero?
+Sei qui per aiutarci a cercare i ""Dreamin'""?","那衣服，你是hudie的人對吧，
 你也是來幫忙找「Dreamin」的嗎？",,"그 옷, 후디에잖아.
 너도「드리밍」수색에 협력해주는 건가?","Diese Kleidung ... Du kommst wohl von Hudie.
 Hilfst du uns bei der Suche nach Sandman?"
-14,7183,,Dov'è Fei?! Era con noi fino a poco fa.,"對了，大姊呢！？
+14,7183,,Dov'è Fei?! Fino a un attimo fa era con noi.,"對了，大姊呢！？
 明明應該在一起的，卻沒看到她。",,"그렇지, 언니는!? 같이 있었을 텐데 주변에 없어.",Wo ist Fei?! Sie war doch eben noch hier.
 15,7183,,Hai visto Fei da qualche parte?,你有看到大姊……有看到菲嗎！？,,저기 너는 언니…… 페이 씨를 보지 못했어!?,Hast du Fei irgendwo gesehen?
 16,7184,,Starà ancora indagando.,她一定還在繼續調查吧。,,분명 아직 조사하고 있을 거야,Sie ist wohl immer noch auf der Suche.
@@ -55,15 +54,15 @@ quando ci siamo imbattuti in alcune persone sospette.","我們是跟菲一起在
 비슷한 놈들하고 마주쳤어","Wir haben mit ihr nach dem Versteck von Sandman
 gesucht. Dann sind uns ein paar suspekte Leute
 über den Weg gelaufen."
-18,7184,,"Abbiamo provato ad afferrarli, poi c'è stata una battaglia...
-La prossima cosa che so, sono qui.","我們想抓住他，結果就開始了戰鬥……
+18,7184,,"Abbiamo provato a prenderli e ne è nata una battaglia...
+e un attimo dopo, eravamo in questo stato.","我們想抓住他，結果就開始了戰鬥……
 回過神來時，就是這付慘樣了。",,"잡으려고 배틀을 했는데…
 정신을 차려보니 이 꼴이야","Wir haben versucht, sie uns zu schnappen, dann
 gab es einen Kampf ... Und plötzlich bin ich hier."
 19,7183,,Ci devono aver ipnotizzati.,我們到底是在什麼時候中了敵人的催眠攻擊呢……,,"우리는 어느 틈엔가 적의 최면공격에
 걸려버렸던 모양이네……",Sie müssen uns hypnotisiert haben.
-20,7183,,"C'era un hacker che assomigliava al loro capo.
-Fei deve esserle andato dietro.","那群人裡有看來像是隊長的傢伙在，
+20,7183,,"Tra loro c'era un hacker che sembrava il capo.
+Fei deve essersi messa al suo inseguimento.","那群人裡有看來像是隊長的傢伙在，
 大姊一定是去追那傢伙了。",,"리더로 보이는 해커가 있었으니 언니는 분명
 그 놈을 추적하러 갔을 거야","Da war eine Hackerin, die wie ihre Anführerin
 wirkte. Fei muss ihr gefolgt sein."
@@ -74,8 +73,8 @@ konntest."
 22,3001,,Quindi è andata dal loro capo da sola?,"……這樣啊，
 菲一個人去追幹部了。",,"……그런가.
 페이는 혼자서 간부를 쫓아간 거군",Und sie ist der Chefin allein hinterher?
-23,3001,,"So che sa badare a se stessa, ma sono comunque
-preoccupato. Vai a cercarla. Potrebbe aver bisogno del tuo aiuto.","雖然她的實力應該不需要擔心……但還是放心不下。
+23,3001,,"So che sa badare a se stessa, ma sono comunque preoccupato.
+Va' a cercarla. Potrebbe aver bisogno di supporto.","雖然她的實力應該不需要擔心……但還是放心不下。
 你就繼續進行，去追菲吧，
 就算是她也需要有人輔助。",,"그녀의 실력이라면 걱정 없다고 생각하지만…… 걱정이야.
 너는 그대로 페이를 따라가줘.
@@ -99,8 +98,8 @@ ruht euch aus."
 ……好像是某處的專用討論區。",,"동료가 페이의 위치를 특정했다는 모양이야.
 ……어딘가의 전용 포럼인가 보네","Wir haben Feis Aufenthaltsort aufgespürt. Sie ist
 irgendwo in einem Sonderforum."
-33,3001,,"Che cosa sta facendo? Le ho detto di contattarmi non appena avesse
-trovato il loro nascondiglio.","真是的，不是跟她說了
+33,3001,,"Che cosa sta facendo? Le ho detto di contattarmi non appena
+avesse trovato il loro nascondiglio.","真是的，不是跟她說了
 找到敵人基地要聯絡我的嗎。",,"이런이런, 적의 아지트를 발견하면 연락해달라고
 말해뒀었는데","Was tut sie da? Ich habe ihr gesagt, dass sie mich
 kontaktieren soll, sobald sie ihr Versteck

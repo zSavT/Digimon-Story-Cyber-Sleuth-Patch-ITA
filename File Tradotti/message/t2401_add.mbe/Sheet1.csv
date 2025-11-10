@@ -2,9 +2,9 @@
 0,4540,,"Benvenuto nel quartier generale
 EDEN di Kamishiro Enterprises.",歡迎來到神代企業EDEN總公司。,,카미시로 엔터프라이즈 EDEN 본사에 어서 오십시오,"Willkommen im EDEN-Hauptgeschäftssitz
 von Kamishiro Enterprises."
-1,4541,,"EDEN è l'orgoglio e la gioia della nostra compagnia: una
-esperienza sensoriale di realtà virtuale
-all'avanguardia. È il Cyberspazio della prossima generazione.","EDEN是利用敝司最引以為傲的
+1,4541,,"EDEN è l'orgoglio e la gioia della nostra compagnia:
+una esperienza sensoriale di realtà virtuale all'avanguardia.
+È il Cyberspazio della prossima generazione.","EDEN是利用敝司最引以為傲的
 最尖端虛擬實境技術，
 將各位送至次世代的全新電腦空間。",,"이곳 EDEN은 당사가 자랑하는 최첨단 가상현실 체험 기술로
 차세대에게 보내는 완전히 새로운 전뇌공간입니다","EDEN ist der ganze Stolz des Unternehmens: ein
@@ -19,16 +19,16 @@ di uno spazio confortevole e conveniente!","我們提供每位顧客各式各樣
 매일 운영과 개선 노력을 계속하고 있습니다","Wir geben uns stets Mühe, unsere Dienste zu
 optimieren, um unseren Nutzer einen bequemen
 und praktischen Raum zu bieten!"
-3,4542,,"Penso tu abbia digitato l'URL sbagliato,
-ragazzino. Questo non è un parco giochi. Sparisci.","……是不是URL有錯啊？
+3,4542,,"Penso tu abbia digitato l'URL sbagliato, ragazzino.
+Questo non è un parco giochi. Sparisci.","……是不是URL有錯啊？
 這裡可不是小孩玩的地方
 快點回家。",,"…URL을 틀린 거 아니냐?
 여기는 애가 놀러 오는 곳이 아니니까
 집으로 돌아가라","Ich glaube, du hast dich in der URL geirrt,
 Kindchen. Hier ist kein Spielplatz. Verschwinde."
 4,4543,,"Cavolo, persino il quartier generale ha
-finito il merchandising di Mr.
-Navit...immagino che dovrò ricorrere alle aste.","居然連總公司的商品專區也缺貨……
+finito il merchandising di Sig. Navit...
+immagino che dovrò ricorrere alle aste.","居然連總公司的商品專區也缺貨……
 這樣的話只能看看有沒有人在拍賣了。
 NAVIT商品……",,"본사의 굿즈 코너에서도 매진이라니…
 이렇게 되면 옥션으로 손에 넣을 수밖에 없는 걸까?
@@ -74,9 +74,8 @@ come faccio ad arrivare al Server Avalon, in ogni caso?)","（……雖然來到
 　但要怎麼樣才能去阿瓦隆伺服器呢？）",,"(…카미시로 본사에 오긴 했지만
  아발론 서버엔 어떻게 가면 되는 걸까?)","(Hm, ich bin in der Zentrale von Kamishiro, aber
 wie komme ich denn jetzt zum Avalon-Server?)"
-201,9169,,"Ah, signorina Yuuko! Non sapevo che sarebbe
-venuta oggi! Posso esserle d'aiuto in
-qualcosa?","……這不是悠子大人嗎！
+201,9169,,"Ah, signorina Yuuko! Non sapevo che sarebbe venuta oggi!
+Posso esserle d'aiuto in qualcosa?","……這不是悠子大人嗎！
 怎麼沒聽說您今日會光臨總公司呢？
 請問有什麼事嗎？",,"…유코 님!
 오늘 회사에 방문하신다는 말은 듣지 못했습니다만
@@ -92,14 +91,12 @@ sein?"
 204,9169,,"Permettetemi di farvi entrare. Da questa parte, prego.","由我來為您帶路，
 往這邊請。",,"안내해드리겠습니다.
 이쪽으로 오세요","Darf ich Sie eben begleiten? Hier entlang, bitte."
-205,9169,,"Ah, signorina Yuuko! Altre
-commissioni sul server Avalon?","這不是悠子大人嗎？
+205,9169,,"Ah, signorina Yuuko! Altre commissioni sul server Avalon?","這不是悠子大人嗎？
 您又要去阿瓦隆伺服器嗎？",,"어머, 유코 님
 다시 아발론 서버에 용무이십니까?","Ach, Fräulein Yuuko! Haben Sie noch mehr am
 Avalon-Server zu tun?"
 206,9169,,Capito. Lascia che ti faccia strada.,"遵命。
 由我來為您帶路，請往這邊。",,"알겠습니다.
 안내해드리겠습니다. 이쪽으로 오세요",Verstanden. Lassen Sie mich es Ihnen zeigen.
-207,9169,,"Non esitare a chiamare se
-succede qualcosa.",如果還有什麼吩咐，請隨時告訴我。,,"또 무슨 일이 있으시면, 말씀해주세요","Melden Sie sich bitte jederzeit, wenn Sie noch
+207,9169,,"Non esitare a chiamare se succede qualcosa.",如果還有什麼吩咐，請隨時告訴我。,,"또 무슨 일이 있으시면, 말씀해주세요","Melden Sie sich bitte jederzeit, wenn Sie noch
 etwas brauchen."

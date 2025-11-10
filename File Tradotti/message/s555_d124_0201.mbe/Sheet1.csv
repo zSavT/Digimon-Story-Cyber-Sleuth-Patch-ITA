@@ -1,8 +1,8 @@
 ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
-1,1728,,Ehi! Di qua! Fermati!,"喂～這裡這裡！
+1,1728,,"Ehi, tu! Da questa parte! Ti stavo aspettando!","喂～這裡這裡！
 等你很久了～！",,"어~이, 너, 여기야 여기!
 기다렸어~!",He! Hier drüben! Halt!
-2,1728,,"Ah, il firewall? È davvero forte.","啊，你說這裡的牆？
+2,1728,,"Ah, questo firewall? Sì, è davvero robusto.","啊，你說這裡的牆？
 嗯，非常堅固喔。",,"아, 여기 이 벽?
 응, 굉장히 튼튼해","Ach, die Firewall? Die ist wirklich solide."
 3,1728,,"Il server è stato hackerato un po' di tempo fa.
@@ -11,12 +11,14 @@ La sicurezza è stata seriamente rafforzata dopo quell'episodio.","之前曾被�
 보안이 제법 강화되었어","Der Server wurde vor Kurzem gehackt. Danach
 wurden die Sicherheitsmaßnahmen drastisch
 verschärft."
-4,1728,,"Potrebbe essere un po' difficile entrare. Sono abituato ad
-andare e venire come mi pare. Scusa se ho dimenticato di menzionarlo.","所以可能有點難進去。
+4,1728,,"Per questo potrebbe essere un po' difficile entrare.
+Io posso entrare e uscire liberamente,
+quindi mi sono dimenticato di avvisarti. Scusa!","所以可能有點難進去。
 因為我能正常進出，所以忘記告訴你了，抱歉。",,"그래서 들어가기는 조금 어려울지도
 나는 그냥 들어갈 수 있어서, 말하는 걸 깜빡해서 미안","Es könnte schwierig werden hineinzukommen. Ich
 bin gewöhnt, zu kommen und zu gehe, wie ich will.
 Tut mir leid, dass ich es nicht erwähnt habe."
-5,1728,,Puoi farcela? È un sollievo.,"咦，這點程度沒問題嗎？
+5,1728,,"Per te non è un problema? Che sollievo!
+Allora, puoi disattivarlo?","咦，這點程度沒問題嗎？
 太好了，那你能試著解除看看嗎？",,"어, 이 정도는 괜찮아?
 다행이다. 그럼 해제해줄래?",Du kriegst das schon hin? Da bin ich erleichtert.

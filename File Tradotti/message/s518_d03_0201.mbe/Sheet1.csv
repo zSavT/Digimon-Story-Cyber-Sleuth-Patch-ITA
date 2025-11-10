@@ -4,36 +4,35 @@ Presumo che tu venga da Hudie?","喔，我等你很久了喔。
 hudie是派你來啊。",,"야아, 기다리고 있었어.
 후디에에서는 네가 와준 건가","Ich habe auf dich gewartet.
 Ich nehme an, du kommst von Hudie?"
-2,3001,,"Non ho ancora visto le tue capacità di hacking. Non è
-un compito facile, ma mi aspetto che sia fatto bene.","……我還沒見識過你身為駭客的實力呢。
+2,3001,,"Non ho ancora avuto modo di vedere le tue abilità da hacker.
+Non è un compito facile, ma mi aspetto un lavoro pulito.","……我還沒見識過你身為駭客的實力呢。
 這雖然不是簡單的工作，但我很期待你的出色發揮喔。",,"…너의 해커로서의 실력은 아직까지 본 적이 없었지.
 단순한 일은 아니지만 깔끔한 일처리를 기대하고 있을게","Ich habe deine Hacking-Fertigkeiten noch nicht
 begutachtet. Es ist kein leichter Job, aber ich
 verlange gute Arbeit."
-3,3001,,"Hehe... È suonato come una minaccia? Non era mia
-intenzione. Fai solo quello che faresti di solito.","呵呵……嚇到你了嗎？
+3,3001,,"Hehe... Ti è suonata come una minaccia? Non era mia
+intenzione. Agisci come fai di solito.","呵呵……嚇到你了嗎？
 不用怕，跟你平常一樣做就好了",,"후후…… 조금 겁을 주고 말았나.
 아니, 평소처럼 해 주면 돼","Hehe ... Klang das bedrohlich? So meinte ich das
 nicht. Tu einfach, was du normalerweise tust."
-4,3001,,"Comunque, faresti meglio a farmi spiegare il caso.
+4,3001,,"Ad ogni modo, passiamo al caso.
 Hai mai sentito parlare di un'organizzazione chiamata
-""Dreamin'""?","那麼，我說明下委託內容。
+""Dreamin""?","那麼，我說明下委託內容。
 ……你知道「Dreamin」這組織嗎？",,"그럼 의뢰에 대해 설명할게.
 ……너는「드리밍」이라는 조직을 알고 있어?","Also, ich sollte den Fall erklären.
 Hast du von einer Organisation mit dem Namen
 „Sandman“ gehört?"
-5,3001,,"Dreamin' è un gruppo che abusa dei sistemi di EDEN per
-estorcere denaro alle persone.","「Dreamin」是濫用EDEN的系統，
+5,3001,,"I Dreamin sono un gruppo che abusa dei sistemi di
+EDEN per spillare soldi alla gente.","「Dreamin」是濫用EDEN的系統，
 對無辜的人騙取金錢的詐騙組織。",,"「드리밍」은 EDEN의 시스템을 악용해
 죄 없는 사람들로부터 돈을 짜내는 사기 그룹이다","Sandman ist eine Gruppe, die EDENs Systeme
 ausnutzt, um Leute auszunehmen."
-6,3001,,Questo è il loro MO...,他們的手法是……,,…수법은 이래,Sie gehen so vor ...
+6,3001,,Il loro modus operandi è questo...,他們的手法是……,,…수법은 이래,Sie gehen so vor ...
 7,3001,,"Prima ospitano un evento in EDEN e invitano le persone
 a partecipare.",首先，在EDEN主辦某種活動，徵求參加者。,,일단 EDEN에서 어떤 이벤트를 개최해 참가자를 모아,"Erst veranstalten sie ein Event in EDEN und
 laden Leute zur Teilnahme ein."
-8,3001,,"Poi ipnotizzano tutti i partecipanti. Questo
-li induce a consegnare i propri dati finanziari,
-che il gruppo usa per rubare denaro.","再對參加者下“催眠暗示”，
+8,3001,,"Poi ipnotizzano tutti i partecipanti, inducendoli a fornire
+i propri dati finanziari, che il gruppo usa per rubare denaro.","再對參加者下“催眠暗示”，
 趁機竊取個人資料，奪取大量金額。",,"모은 참가자에게 ""최면암시""를 걸고 그 틈에
 신용카드 정보를 빼내서 고액의 돈을 갈취하지","Dann werden alle Teilnehmer hypnotisiert.
 So geben sie ihre finanziellen Daten
@@ -45,22 +44,22 @@ sono sempre fuggiti senza lasciare traccia.","已經有相當多使用者受害�
 sie kommen immer wieder davon, ohne eine
 Spur zu hinterlassen."
 10,3001,,"L'ipnosi non dovrebbe essere possibile nel Cyberspazio.
-Deve essere una sorta di hack.","在電腦空間進行催眠……怎麼想都很奇怪，
+Deve trattarsi di una qualche forma di hacking.","在電腦空間進行催眠……怎麼想都很奇怪，
 可能是一種入侵的方法吧。",,"전뇌공간에서의 최면암시…라니 기묘하다고 생각하겠지만
 아마도 이건 해킹의 일종일 거야","Hypnose sollte im Cyberspace nicht möglich sein.
 Es muss sich um eine Art Hacking handeln."
-11,3001,,"La mia ipotesi è che in qualche modo disturbino le sensazioni virtuali
-ricevute dagli avatar di EDEN.","我的推測……可能是對參加者們，
+11,3001,,"La mia ipotesi è che riescano a interferire con le sensazioni virtuali
+percepite dagli avatar in EDEN.","我的推測……可能是對參加者們，
 進行某種搗亂EDEN化身接收感覺的攻擊。",,"EDEN 아바타로부터 전달되는 유사감각을 교란시키는
 공격을 참가자들에게 걸고 있다…고 나는 추측하고 있지","Ich vermute, dass sie irgendwie die virtuellen
 Gefühle manipulieren, die die EDEN-Avatare
 empfangen."
-12,3001,,Fai attenzione. Hanno truffato persino alcuni membri degli Zaxon.,"……提高警戒行動吧。
+12,3001,,Stai in guardia. Hanno truffato persino alcuni membri di Zaxon.,"……提高警戒行動吧。
 其實，Zaxon的成員內也有受害者。",,"……마음을 단단히 먹고 임해줘.
 실은 잭슨 멤버 중에도 피해자가 나왔어","Sei vorsichtig. Sie haben sogar schon Mitglieder
 von Zaxon hinters Licht geführt."
 13,2020,,!!!,！！,,!!,!!!
-14,3001,,"Utenti normali, potrei capirlo, ma anche noi siamo
+14,3001,,"Se fossero solo utenti normali, potrei capirlo, ma persino noi siamo
 vulnerabili...","如果只有一般使用者就算了，連我們
 都無法躲開的強大入侵攻擊……",,"일반 유저라면 몰라도 우리들까지 회피할 수 없는
 강력한 해킹 공격……","Bei normalen Nutzern könnte ich es ja verstehen,

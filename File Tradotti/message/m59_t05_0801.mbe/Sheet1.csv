@@ -1,7 +1,7 @@
 ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
-1,3048,,"... Wow, questo è davvero tosto.",……原來如此。,,……그렇구나,"... Wow, das ist echt heftig."
-2,3048,,"Non voglio fare il gufo, ma sembra che Ryuji abbia fatto qualcosa
-di brutto.","雖然有點難說出口……
+1,3048,,"... Capisco. Quindi è così.",……原來如此。,,……그렇구나,"... Wow, das ist echt heftig."
+2,3048,,"Sarà difficile da dire, ma... quel tipo, Ryuji, non è che sta facendo qualcosa
+di losco?","雖然有點難說出口……
 但龍司那傢伙，該不會是做了什麼壞事吧？",,"이런 말 하긴 좀 그런데…
 류지라는 녀석 뭔가 나쁜 짓이라도 하고 있는 거 아닐까","Ich will nicht den Teufel an die Wand malen,
 aber es klingt, als ob Ryuji etwas
@@ -13,12 +13,12 @@ Dato che però non l'ha fatto... beh.","不然的話，應該會跟你說清楚�
 말하지 않는다는 건 결국…그런 거겠지","Sonst hätte er mit dir geredet.
 Da er das aber nicht getan hat ... nun ja."
 5,2020,,...,…………,,…………,...
-6,3048,,"Dovresti abbandonare la vita da hacker, altrimenti
-finirai anche tu coinvolto in brutte faccende.","我說啊，別再待在什麼駭客隊伍了。
+6,3048,,"Senti, lascia perdere quel team di hacker.
+Se continui così, finirai anche tu coinvolto in qualche brutto guaio.","我說啊，別再待在什麼駭客隊伍了。
 這樣下去的話，連你都會被捲入壞事中喔。",,"있잖아, 이제 해커팀 같은 건 그만둬.
 이대로라면 너도 나쁜 일에 휘말릴 거야","Du solltest das Hacker-Dasein aufgeben, sonst
 wirst du auch noch in schlimme Sachen verwickelt."
-7,3048,,Quei tizi hanno trovato il tuo punto debole e ti stanno solo sfruttando.,"那群傢伙會抓住你的弱點，
+7,3048,,"Quelli si approfittano della tua debolezza e ti stanno solo usando.","那群傢伙會抓住你的弱點，
 只是想要徹底利用你。",,"그 녀석들 네 약점을 이용해서
 너를 좋을대로 부리고 있을 뿐이라니까","Die Typen haben deine Schwachstelle gefunden und
 nutzen dich nur aus."
@@ -27,14 +27,14 @@ nutzen dich nur aus."
 너에게 털어놓지 않는 것이 무엇보다 큰 증거잖아?","Und sie trauen dir nicht mal. Dass sie dir nichts
 erzählen, beweist es."
 9,2020,,...,…………,,…………,...
-10,3048,,"N-Non prenderla così a male!
-Credi che voglia farti sentire male?!","居、居然這麼消沉！！
+10,3048,,"N-Non abbatterti così!
+Sembra quasi che ti stia tormentando io!","居、居然這麼消沉！！
 怎麼搞得像是我在欺負你一樣啊！？",,"그, 그렇게 풀 죽지 말라니까!!
 어쩐지 내가 괴롭히고 있는 것 같잖아!?","N-Nimm es nicht so schwer!
 Meinst du, ich will, dass du dich schlecht
 fühlst?!"
-11,3048,,"Ci sono! Pago io, ok?!
-Forza, su con la testa! Cosa ti va?","對了！　就換我請你吧！
+11,3048,,"Ho un'idea! Offro io, ok?!
+Forza, tira su il morale! Cosa ti va?","對了！　就換我請你吧！
 打起精神來吧，你看，你想點什麼？",,"그렇지! 여기선 내가 쏠게!
 그러니까 기운 내라니까, 자, 뭐가 좋아?","Ich hab’s! Ich zahle, okay?!
 Also, Kopf hoch! Wonach ist dir?"
@@ -60,7 +60,7 @@ Andrò con te dovunque tu voglia!","到中野的話可以徹底轉換心情喔�
 不管要去那我都陪你啦！",,"나카노라면 실컷 기분전환 할 수 있잖아? 자!
 어디든 같이 가 줄게!","Nakano würde dich aufmuntern! Stimmt doch?
 Ich gehe mit dir hin, wo du auch willst!"
-17,3048,,"Il caffè più costoso?! Costa ben 10.000 Yen!
+17,3048,,"Il caffè più costoso?! Ma quello costa più di 10.000 yen!
 Non posso permettermelo!","最貴的咖啡……那要一萬元以上耶！
 哪付得起啊！",,"가장 비싼 커피……라니 만엔 이상이잖아!
 살 수 있겠냐!","Der teuerste Kaffee?! Der kostet ja 10 000 Yen!
@@ -73,7 +73,7 @@ dann bezahle ich es."
 那就好……",,"나랑 대화했더니 기운이 났다고?
 그렇다면 다행이지만……","Fühlst du dich jetzt besser, nach unserem
 Gespräch? Ich hoffe es ..."
-21,3048,,"Ah, a proposito... Volevo chiederti una cosa.","我、我說啊…
+21,3048,,"Ah, a proposito... c'è una cosa che volevo dirti.","我、我說啊…
 其實，我有件事一直想問你。",,"저, 저기…
 실은 네가 들어줬으면 하는 이야기가 있어","Ach, übrigens ... Ich wollte dich etwas fragen."
 22,2020,,?,？？,,??,?
@@ -99,7 +99,7 @@ Dies wird dir die Wahrheit zeigen.“"
 ……아니, 정해져 있나. 갈 거잖아 어차피","Was wirst du tun?
 ... Ich schätze, hingehen, oder?"
 32,3048,,"Lo immaginavo.
-Mi lasci di nuovo in asso.","我就猜你會這麼做。
+Ma questa volta non mi lascerai indietro, vero?","我就猜你會這麼做。
 ……這次，不要再丟下我了啊。",,"그럴 줄 알았어.
 ……이번엔 나를 두고 가지 않을 거지","Das dachte ich mir.
 Wieder lässt du mich hängen."

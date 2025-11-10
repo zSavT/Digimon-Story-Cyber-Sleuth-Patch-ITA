@@ -1,8 +1,8 @@
 ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
-1,3003,,"Oh, sei tornato. Hai trovato un libro?","啊，你好……
+1,3003,,"Oh, sei tornato. Hai trovato qualche buon libro?","啊，你好……
 如何？有找到不錯的書了嗎？",,"아, 감사합니다……
 어떤가요? 좋은 책을 찾으셨나요?","Ach, du bist zurück. Hast du ein Buch gefunden?"
-2,3003,,Hmm? Ci do un'occhiata.,"這本嗎？
+2,3003,,Hmm? Do subito un'occhiata.,"這本嗎？
 我馬上來讀讀看。",,"이것…인가요?
 바로 읽어보겠습니다",Hm? Ich schaue es mir mal an.
 3,3003,,...,…………,,…………,...
@@ -11,27 +11,28 @@ ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
 그럼 곧바로 시험해보겠습니다","Ich glaube, jetzt verstehe ich. Ich werde es
 probieren."
 5,2020,,?,？？,,??,?
-6,3003,,Fingere di essere un amico è fondamentale per il mio piano.,"接下來要進行的作戰為，
+6,3003,,"La chiave di questa operazione è ""fingersi un amico"".","接下來要進行的作戰為，
 關鍵在於「裝成朋友」。",,"이제부터 앞두고 있는 작전은
 이「친구인 척」이 핵심이 됩니다","Mich als Freundin auszugeben, ist für meinen Plan
 sehr wichtig."
-7,3003,,"Non funzionerà se non sembra naturale.
-Dimmi se la mia interpretazione è convincente.","如果有什麼奇怪的地方就糟糕了，
+7,3003,,"Se l'esecuzione non è naturale, sarà un fallimento.
+Ti chiedo di giudicare la mia interpretazione.","如果有什麼奇怪的地方就糟糕了，
 請幫我判斷一下，我的演技有沒有什麼問題。",,"위화감이 있어서는 곤란하니
 제 연기에 문제가 없는지 판정해주세요","Wenn es nicht natürlich wirkt, wird es nicht
 funktionieren. Sag mir, ob ich glaubhaft wirke."
 8,3003,,Ehm...,……嗯、嗯嗯……,,"……흠, 흠흠……",Ähm ...
-9,3003,,"Ragazza! Non importa chi tu sia!
-Devi solo fare quello che vuoi!","你這混蛋！　我才不管你是誰！
+9,3003,,"Ehi, tu! Non importa chi tu sia!
+L'importante è cosa vuoi fare tu... solo questo!","你這混蛋！　我才不管你是誰！
 最重要的是，你想要怎麼做……如此而已吧！",,"이 새끼야아아! 네놈이 어떤 놈인지는 관계없어!
 중요한 건 네놈이 어쩌고 싶은지…… 그거뿐이잖냐! ","Mädel! Es ist doch egal, wer du bist!
 Du musst einfach tun, was du willst!"
-10,3003,,Deciditi! Vuoi essere mio amico o no?!,"現在就是下定決心的時候！
+10,3003,,"È il momento di decidere!
+O siamo amici... o non lo siamo! Scegli!","現在就是下定決心的時候！
 我們有沒有成為兄弟……就來分個清楚吧！！",,"지금은 각오를 다질 때다!
 나랑 친구가 될지 말지…… 확실히 해라!","Entscheide dich! Bist du nun meine Freundin
 oder nicht?!"
 11,2020,,...,…………,,…………,...
-12,3003,,Uff... Com'è andata? Proprio come un vero amico?,"呼……你覺得…怎麼樣？
+12,3003,,Uff... Com'è andata? Proprio come una vera amica?,"呼……你覺得…怎麼樣？
 有像是朋友的感覺嗎…？",,"후우…… 어땠나요, 괜찮았나요?
 친구처럼 보였나요…?","Puh ... Wie war das? Genau wie eine echte
 Freundin?"
@@ -43,14 +44,14 @@ Nicht wirklich."
 14,3003,,Capisco.,這樣啊。,,그렇습니까,Verstehe.
 15,3003,,Ehm...,但是……,,하지만……,Ähm ...
 16,3003,,Neanch'io lo pensavo.,果然……是這樣子嗎。,,역시… 그렇습니까,Fand ich auch nicht.
-17,3003,,"Il protagonista sembra davvero appassionato all'amicizia,
-ma non è esattamente adatto a me.","雖然主角和朋友之間的熱情非常棒……
+17,3003,,"La passione che lega il protagonista e i suoi amici è ammirevole...
+ma non corrisponde all'idea di amicizia che avevo in mente.","雖然主角和朋友之間的熱情非常棒……
 但跟我想像中的朋友關係不太一樣呢。",,"주인공이 우정에 거는 뜨거운 마음은 정말 멋졌습니다만……
 제가 생각하는 친구 관계와는 맞지 않을지도 모르겠군요","Die Hauptfigur scheint sich echt für
 Freundschaft zu begeistern, aber ich glaube,
 das passt nicht richtig zu mir."
 18,2020,,...,…………,,…………,...
-19,3003,,Sette a zero... Sei davvero un rivale degno.,"這樣就2勝98敗了……
+19,3003,,"2 vittorie e 98 sconfitte... Sei una degna rivale, non c'è che dire.","這樣就2勝98敗了……
 哼，不虧是我看中的敵人。",,"이걸로 2승 98패……
 훗, 과연 내가 인정한 라이벌이네","Sieben zu null ... Du bist wirklich eine würdige
 Rivalin."
@@ -61,8 +62,7 @@ A perseguitarti finché non mi rispetterai!","不論你已經進步了多少，
 나를 인정할 때까지 언제까지고 달라붙어 따라가 주겠어!","Egal, wo du hingehst, egal, was du tust, ich werde
 da sein! Ich verfolge dich, bis du mich
 respektierst!"
-21,3003,,"E non mi importa se la gente mi chiama stalker,
-anzi!",就算……世人稱我為跟蹤狂啊！！,,그래 설령…… 세간에서 스토커라고 불리는 한이 있더라도!,"Und es ist mir auch egal, wenn ich als Stalker
+21,3003,,Anche se... il mondo dovesse chiamarmi stalker!,就算……世人稱我為跟蹤狂啊！！,,그래 설령…… 세간에서 스토커라고 불리는 한이 있더라도!,"Und es ist mir auch egal, wenn ich als Stalker
 bezeichnet werde!"
 22,3003,,Uff... Com'è andata? Proprio come una vera amica?,"呼……你覺得……怎麼樣？
 有像是朋友的感覺嗎……？",,"후우…… 어땠나요, 괜찮았나요?
@@ -76,8 +76,8 @@ Nicht wirklich."
 24,3003,,Capisco.,這樣啊。,,그렇습니까,Verstehe.
 25,3003,,Um...,但是……,,하지만……,Ähm ...
 26,3003,,Neanch'io lo pensavo.,果然……是這樣子嗎。,,역시… 그렇습니까,Fand ich auch nicht.
-27,3003,,"È una tipica storia su rivali sportivi.
-Il succo principale della storia è piuttosto buono.","這本書，是以前那種熱血運動毅力型漫畫呢。
+27,3003,,"Questo è un tipico manga sportivo vecchia scuola.
+L'idea di fondo non è male, ma...","這本書，是以前那種熱血運動毅力型漫畫呢。
 我覺得觀點還不錯，但是――",,"이 책은 고전풍 열혈 스포츠 근성 만화로군요.
 발상은 나쁘지 않았던 것 같습니다만――","Es ist eine typische Geschichte über
 rivalisierende Athleten. Der Großteil der Handlung

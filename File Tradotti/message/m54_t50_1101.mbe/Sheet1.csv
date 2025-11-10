@@ -1,8 +1,8 @@
 ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
-1,2020,,Oh! Questo numero di trasmissione è ...!,"（…………！！
+1,2020,,(Oh! Questo numero di trasmissione è ...!),"（…………！！
 　這個電話號碼是——）",,"(…………!!
  이 통신번호는――)",(Huch! Diese Übertragungsnummer ist ...!)
-2,3053,,Sono io. Spero che la ricerca stia andando bene?,"是我。
+2,3053,,Sono io. La ricerca del colpevole procede bene?,"是我。
 找尋犯人還順利嗎？",,"나다.
 범인 찾기는 순조로운가?","Ich bin’s. Ich hoffe, dass die Suche gut läuft?"
 3,2020,,...,…………,,…………,...
@@ -12,21 +12,20 @@ Allora ti dirò il nome del prossimo bersaglio.","……這樣啊，茅場也不
 그러면 다음 타깃을 가르쳐주지","... Kayaba war es also auch nicht, was? Dann
 nenne ich dir den Namen der nächsten Zielperson."
 5,2020,,...,…………,,…………,...
-6,2020,,Come scegli esattamente il bersaglio?,選擇目標的基準是什麼？,,타깃을 고르는 기준은 뭐지?,Wie genau suchst du dir das Ziel aus?
+6,2020,,Con quale criterio scegli i bersagli?,選擇目標的基準是什麼？,,타깃을 고르는 기준은 뭐지?,Wie genau suchst du dir das Ziel aus?
 7,3053,,Perché mi chiedi una cosa del genere?,為什麼要問這個？,,왜 그런 것을 묻지?,Warum fragst du mich so etwas?
 8,2020,,...,…………,,…………,...
-9,3053,,"... A quanto pare ora stai dubitando della veridicità delle mie
-informazioni.","……原來如此，
+9,3053,,"... A quanto pare, hai iniziato a dubitare delle mie informazioni.","……原來如此，
 開始懷疑我的情報是真是假了啊。",,"……과연.
 내 정보의 진위를 의심하기 시작한 모양이군","... Anscheinend zweifelst du jetzt den
 Wahrheitsgehalt meiner Informationen an."
-10,3053,,"Vuoi che ci incontriamo e parliamo?
-Significa forse che prima non ti fidi di me.","……想和我直接面對面談嗎……
+10,3053,,"Vuoi incontrarmi di persona?
+Significa che non ti fidi di me.","……想和我直接面對面談嗎……
 你的意思是，不這麼做的話就無法相信我對吧。",,"……나와 직접 만나 대화하고 싶다는 건가.
 그렇지 않으면 신뢰할 수 없다는 말이로군","Du willst, dass wir uns treffen und unterhalten?
 Das heißt wohl, vorher traust du mir nicht."
-11,3053,,"... Sembri un eccellente hacker, uno che merita la mia fiducia.
-Fin qui tutto bene.",……確實，你看起來是值得相信的優秀駭客。,,……확실히 너는 신뢰를 얻어둘 만한 우수한 해커로 보인다,"... Du scheinst ein ausgezeichneter Hacker zu
+11,3053,,"... In effetti, sembri un hacker eccellente, uno che merita la mia fiducia.
+Per ora va bene.",……確實，你看起來是值得相信的優秀駭客。,,……확실히 너는 신뢰를 얻어둘 만한 우수한 해커로 보인다,"... Du scheinst ein ausgezeichneter Hacker zu
 sein, einer, der mein Vertrauen verdient.
 So weit, so gut."
 12,3053,,Va bene. Parliamoci a quattr'occhi.,好吧，就直接見面吧。,,좋지. 직접 만나도록 하자,Na schön. Unterhalten wir uns unter vier Augen.

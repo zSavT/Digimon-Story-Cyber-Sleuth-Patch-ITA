@@ -31,12 +31,12 @@ ID,Japanese,English,Chinese,EnglishCensored,Korean,German
 29,,Spazio Digitale,數碼空間,,디지털 스페이스,Digitalraum
 30,,Server Abisso,深淵伺服器,,어비스 서버,Abyss-Server
 31,,Server di Hosaka,保坂的伺服器,,호사카의 서버,Hosakas Server
-32,,Covo dei trafficanti di Steam,蒸氣領薪族的基地,,스팀리맨의 아지트,Versteck der Steam Dealers
-33,,Covo Onirico,Dreamin的基地,,드리밍의 아지트,Sandman-Versteck
+32,,Covo dei Steam Dealers,蒸氣領薪族的基地,,스팀리맨의 아지트,Versteck der Steam Dealers
+33,,Covo Dreamin,Dreamin的基地,,드리밍의 아지트,Sandman-Versteck
 34,,Server Uova di Merluzzo,明太屋的伺服器,,명란 가게의 서버,Pollackrogen-Server
 35,,Server Digitale con Volto Misterioso,怪人數碼面相的伺服器,,괴인 디지면상의 서버,Cybergesicht-Server
 36,,Area di Raccolta del Dott. Datamon,分子獸博士的採集場,,데이터몬 박사의 채취장,Dr.-Datamon-Sammelbereich
-37,,Server Pugno Mortale,滅拳伺服器,,멸권 서버,Death-Fist-Server
+37,,Server Death-Fist,滅拳伺服器,,멸권 서버,Death-Fist-Server
 38,,Spazio Maleodorante,異臭空間,,고약한 냄새가 나는 공간,Stinkender Raum
 39,,Forum dell'Occulto,靈異討論區,,오컬트 포럼,Okkultismus-Forum
 40,,Computer di Sincronizzazione,同事的電腦,,동기의 컴퓨터,Synchronisierender Computer
@@ -49,4 +49,4 @@ ID,Japanese,English,Chinese,EnglishCensored,Korean,German
 47,,Rifugio di Grado 3 Classe C,三年C班的避難所,,3학년 C반의 피난소,"Unterschlupf (St. 3, Klasse C)"
 48,,Server di Controllo Campionato,程式編組選手權管理伺服器,,프로그래밍 선수권 관리 서버,Wettbewerb-Kontrollserver
 49,,Forum di Natsume Keshikawa,芥子川夏目的討論區,,케시카와 나츠메의 포럼,Natsume-Keshikawa-Forum
-50,,Porta sul retro dell'Aquario,水族館的後門,,수족관의 백도어,Aquariumshintertür
+50,,Backdoor dell'Aquario,水族館的後門,,수족관의 백도어,Aquariumshintertür

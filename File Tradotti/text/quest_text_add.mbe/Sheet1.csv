@@ -1,5 +1,5 @@
 ﻿ID,Japanese,English,Chinese,EnglishCensored,Korean,German
-1,,Caso chiuso: segnalazione al BBS.,向BBS報告委託完成吧,,BBS로 의뢰 완료를 보고하자.,Abschließender Fallbericht an der ATL.
+1,,Caso chiuso: segnalazione al BBS.,向BBS報告委託完成吧,,BBS로 의뢰 완료를 보고하자.,Abschließender Fallbericht an der BBS.
 2,,Contatta gli amici.,聯絡夥伴,,동료들에게 연락하자.,Rede mit Freunden.
 3,,Eliminare il capo hacker,打倒敵人駭客隊伍的首領,,적 해커 팀 보스를 쓰러뜨리자.,Besiege Hackerboss.
 4,,Missione Sconfiggi Hacker!,接下討伐駭客任務,,해커 토벌 퀘스트를 받자.,Besiege Hackerquest!
@@ -16,9 +16,9 @@ nei guai. Vado a sentire cosa ha da dire.)","（好像有困擾的數碼寶貝�
 stecken. Ich hör mir mal an, was es zu sagen hat.)"
 20,,A Ikebukuro è possibile!,可以在池袋辦到的事！,,이케부쿠로에서 할 수 있는걸!,Das geht in Ikebukuro!
 21,,Chitose,千歲,,치토세,Chitose
-22,,"C'è un Tokyo Handy a Ikebukuro.
-Ho bisogno di alcune cose da lì.
-Ti manderò una lista quando prenderai una valigia.","池袋不是有東京手創館嗎？
+22,,"C'è un Tokyo Handy a Ikebukuro. Ho bisogno
+di alcune cose da lì. Se accetti la richiesta,
+ti manderò la lista delle cose da comprare.","池袋不是有東京手創館嗎？
 在店裡有些東西希望你能去買。
 要是你接下委託，我就發給你購物清單。",,"이케부쿠로에 도쿄 핸디가 있잖아?
 거기서 몇 가지 사와줬으면 하는 것이 있어.
@@ -92,26 +92,26 @@ könnte uns wirklich helfen."
 94,,Chiedi a Erika da che parte,跟艾莉卡討論要幫助哪邊,,어느 쪽에 협력할지 에리카와 상의하자.,Erikas Seite erfragen.
 95,,Vai al forum degli hacker,前往駭客討論區,,해커 포럼으로 향하자.,Geh zum Hackerforum.
 96,,Decidi da che parte stare,決定要幫助那邊,,어느 쪽에 협력할지 결정하자.,Entscheide dich.
-100,,Signor Navit,「NAVIT」,,「내빗씨」,Navit-san
+100,,Sig. Navit,「NAVIT」,,「내빗씨」,Navit-san
 101,,V.P. Alba Dorata,黃金黎明團-副團長-,,황금 여명회 부단장,V.P. Golden Dawn
-102,,"Trova il signor Navit, la persona misteriosa
-che appare a Ikebukuro, secondo le voci!","請你找出最近到處流傳，
+102,,"Trova il Sig. Navit, il misterioso personaggio
+che, secondo le voci, si aggira per Ikebukuro!","請你找出最近到處流傳，
 在池袋出沒的神秘角色「NAVIT」吧！",,"최근 거리에서 이케부쿠로에 출몰하는 소문의 수수께끼의
 마스코트 캐릭터 ""내빗씨""를 찾아주세요!","Finde den mysteriösen Navit-san in
 Ikebukuro, durch die Gerüchte!"
 103,,Audrey,奧戴利,,오드리,Audrey
 104,,Leggenda della città!,都市傳說來啦！,,도시 전설 떴다~!,Stadtlegende!
 105,,Nonamemon,無名獸,,이름없는몬,Inkognitomon
-106,,"Cos'è? È
-un'imitazione del signor Navit?",那啥鬼啊？　不是NAVIT吧？,,뭐야 그거? 내빗군을 잘못 쓴 거잖아?,"Was ist das? Ist das eine
+106,,"Cos'è? È un'imitazione
+del Sig. Navit?",那啥鬼啊？　不是NAVIT吧？,,뭐야 그거? 내빗군을 잘못 쓴 거잖아?,"Was ist das? Ist das eine
 Fälschung von Herr Navit?"
 110,,Accettò il caso misterioso.,接下神秘委託,,수수께끼의 의뢰를 받았다.,Den mysteriösen Fall angenommen.
-111,,Raccogli dati sul signor Navit a Ikebukuro.,在池袋收集NAVIT的情報,,이케부쿠로에서 내빗씨에 대해 탐문을 하자.,Daten zu Navit-san in Ikebukuro.
+111,,Raccogli dati sul Sig. Navit a Ikebukuro.,在池袋收集NAVIT的情報,,이케부쿠로에서 내빗씨에 대해 탐문을 하자.,Daten zu Navit-san in Ikebukuro.
 112,,Dirigetevi nel luogo in cui si trovavano i testimoni.,前往有目擊情報的場所,,목격 정보가 있던 장소로 향하자.,"Gehe dorthin, wo die Zeugen waren."
 113,,Tuffati in Hudie!,逃進hudie！,,후디에로 도망치자!,Schnell zu Hudie!
-114,,Ascolta Inoden Occult!,向井之電靈異研究社打聽目擊情報,,이노덴 오컬트 연구부에게 목격정보를 들어보자.,Inoden-Club anhören!
+114,,"Ascolta il Club dell'Occulto Inoden!",向井之電靈異研究社打聽目擊情報,,이노덴 오컬트 연구부에게 목격정보를 들어보자.,Inoden-Club anhören!
 115,,Dirigetevi nel luogo in cui si trovavano i testimoni.,前往有目擊情報的遊樂中心,,목격정보가 있던 게임 센터로 향하자.,"Gehe dorthin, wo die Zeugen waren."
-120,,Il signor Navit ritorna!,「NAVIT」之夜,,「내빗씨」리턴즈,Navit-san kehrt zurück!
+120,,Il Sig. Navit ritorna!,「NAVIT」之夜,,「내빗씨」리턴즈,Navit-san kehrt zurück!
 121,,Data di Makiko,伊達真希子,,다테 마키코,Makiko Date
 122,,"C'è un problema a Shinjuku. 
 Dovremmo indagare sotto copertura. 
@@ -123,12 +123,12 @@ Mi aiuti? ","新宿好像有很可怕的傢伙在
 Wir sollten verdeckt ermitteln.
 Hilfst du mir dabei?"
 130,,Unisciti al cliente a Shinjuku.,在新宿跟委託人會合,,신주쿠에서 의뢰인과 합류하자.,Geh zum Klienten in Shinjuku.
-131,,Tocca l'immobile signor Navit.,接觸無法行動的NAVIT,,움직이지 않는 내빗씨에게 접촉하자.,Berühre den unbeweglichen Navit-san.
-132,,Raccogliere dati sul fuggitivo signor Navit.,收集逃走的NAVIT的情報,,도망친 내빗씨에 대해 탐문을 하자.,Daten zum flüchtigen Navit-san.
+131,,Tocca l'immobile Sig. Navit.,接觸無法行動的NAVIT,,움직이지 않는 내빗씨에게 접촉하자.,Berühre den unbeweglichen Navit-san.
+132,,Raccogliere dati sul fuggitivo Sig. Navit.,收集逃走的NAVIT的情報,,도망친 내빗씨에 대해 탐문을 하자.,Daten zum flüchtigen Navit-san.
 133,,Dirigetevi nel luogo in cui si trovavano i testimoni.,前往有目擊情報的場所,,목격 정보가 있던 장소로 향하자.,"Gehe dorthin, wo die Zeugen waren."
-140,,Signor Navit dei morti,「NAVIT」活屍,,「내빗씨」오브 더 데드,Navit-san des Todes
+140,,Sig. Navit dei morti,「NAVIT」活屍,,「내빗씨」오브 더 데드,Navit-san des Todes
 141,,V.P. Alba Dorata,黃金黎明團-副團長-,,황금 여명회 부단장,V.P. Golden Dawn
-142,,"Hai già indagato sul signor Navit, ma
+142,,"Hai già indagato sul Sig. Navit, ma
 ora sappiamo che è al Nakano BW!
 Fermalo! Il capo lo chiede, quindi per favore!","之前委託調查的神秘吉祥物“NAVIT”
 這次有出現在中野的情報！
@@ -139,7 +139,7 @@ Spur, aber jetzt ist er im Broadway!
 Halte ihn auf! Der Boss bittet dich!"
 143,,Takkun,小拓,,탓군,Takkun
 144,,"Ho visto entrare il
-signor Navit Shinjuku! Allarmante!","我有在新宿看到NAVIT喔
+Sig. Navit Shinjuku! Allarmante!","我有在新宿看到NAVIT喔
 超可怕的啦",,"내빗씨라면 신주쿠에서 봤는데
 엄청 무서웠어","Ich habe Navit-san
 in Shinjuku gesehen!"
@@ -153,7 +153,7 @@ als furchterregend."
 151,,"Raccogliere i dati dei testimoni a Nakano BW, 1F.",在中野BW1F蒐集NAVIT的目擊情報,,나카노BW 1F에서 목격정보를 모으자.,"Befrage Zeugen in Broadway, 1. St."
 152,,"Raccogliere dati sui testimoni a Nakano BW, 3F.",在中野BW3F蒐集NAVIT的目擊情報,,나카노BW 3F에서 내빗씨의 목격정보를 모으자.,"Befrage Zeugen in Broadway, 3. St."
 153,,"Raccogliere dati sui testimoni a Nakano BW, 4F.",在中野BW4F蒐集NAVIT的目擊情報,,나카노BW 4F에서 목격정보를 모으자.,"Befrage Zeugen in Broadway, 4. St."
-154,,Inseguire il fuggitivo signor Navit.,追上逃走的NAVIT,,도망친 내빗씨를 쫓아가자.,Jage den flüchtigen Navit-san.
+154,,Inseguire il fuggitivo Sig. Navit.,追上逃走的NAVIT,,도망친 내빗씨를 쫓아가자.,Jage den flüchtigen Navit-san.
 155,,Data di iscrizione a Ikebukuro.,在池袋跟伊達小姐會合,,이케부쿠로에서 다테 마키코와 합류하자.,Gehe zu Date in Ikebukuro.
 160,,Un sorriso prezioso,那份笑臉便是寶物,,그 미소가 보물,Ein kostbares Lächeln
 161,,Mina,米娜,,미나,Mina
@@ -169,7 +169,7 @@ Ich warte im Gemeinschaftsbereich."
 163,,Gelatina,明明膠,,제라찡,Gelatine
 164,,Non ho trovato nulla sugli aggiornamenti in EDEN.,我沒聽說EDEN要版本升級啊？,,EDEN에서 버전 업이라니 들어본 적 없는데?,Ich weiß nichts zu Updates in EDEN.
 165,,Nonamemon,無名獸,,이름없는몬,Inkognitomon
-166,,Si conclude con le medaglie! LOL!,報酬只有獎牌喔～有夠窮酸的啦～,,보수가 메달ㅋㅋㅋㅋ김 빠지네ㅋㅋㅋㅋ,Gibt Medaillen! LOL!
+166,,"Si conclude con le medaglie! LOL!",報酬只有獎牌喔～有夠窮酸的啦～,,보수가 메달ㅋㅋㅋㅋ김 빠지네ㅋㅋㅋㅋ,Gibt Medaillen! LOL!
 170,,Trova informazioni sull'anteprima dell'aggiornamento.,調查版本升級體驗會的情報,,EDEN 버전 업 체험회 정보를 모아보자.,Informationen zur Upgrade-Vorschau.
 171,,Chiedi maggiori informazioni direttamente al cliente.,直接向委託人問詳細情報,,의뢰인에게서 직접 자세한 이야기를 들어보자.,Klienten nach mehr Infos fragen.
 172,,Chiedi a Erika come acquistare i biglietti.,跟艾莉卡商量獲得參加票的方法,,티켓 입수 방법에 대해 에리카에게 상담하자.,"Frag Erika, wie du Tickets bekommst."
@@ -244,7 +244,7 @@ potresti avvisare il proprietario?","雖然很突然，但我要辭掉hudie的�
 Hudie verlassen. Könntest du es der
 Besitzerin bitte sagen?"
 250,,Ho sentito la storia di Part-Timer da Chitose.,跟千歲打聽打工妹妹的事,,치토세에게서 알바 양의 이야기를 들었다.,Von Chitose alles zur Aushilfe gehört.
-251,,Raccogli informazioni in Open Space,在開放空間打聽情報,,EDEN 오픈 스페이스에서 탐문을 하자.,Sammle Infos im Offenen Raum.
+251,,Raccogli informazioni nello Spazio Aperto Di Eden,在開放空間打聽情報,,EDEN 오픈 스페이스에서 탐문을 하자.,Sammle Infos im Offenen Raum.
 252,,Dirigiti a Under Kowloon Lv. 3.,前往Under Kowloon Lv.3,,언더 쿠롱 Lv.3에서 알바 양을 찾자.,Geh zur Ebene 3 in Unter Kowloon.
 253,,Fai rapporto a Chitose.,向千歲報告調查結果,,치토세에게 조사 내용을 보고하자.,Sprich mit Chitose.
 254,,Soccorso part-time,救出打工妹妹,,알바 양을 구출하자.,Rette die Aushilfe.
@@ -265,7 +265,7 @@ bald wie möglich ins Krankenhaus."
 273,,Sconfiggi Nokia,贏過諾奇雅,,노키아를 이기자.,Besiege Nokia.
 274,,Segnala caso chiuso.,報告委託完成,,의뢰 완료 보고를 하자.,Melde den Fall als abgeschlossen.
 280,,Quell'uomo potrebbe scappare,那男子，有種失控感,,"그 남자, 현재 폭주 중",Meister der Flucht
-281,,Ryuji,龍司,,류지,Ryuji
+281,,"Ryuji",龍司,,류지,Ryuji
 282,,"C'è una cosa che voglio farvi vedere.
 Vi aspetto a Ikebukuro.","我有件事想讓你看看
 我在池袋等你",,"너희들이 지켜봐 줬으면 하는 것이 있어.
@@ -323,9 +323,9 @@ du ihn aufheitern?"
 352,,Unisciti alla battaglia e aiuta Jimiken.,幫助參加戰鬥的吉米肯,,배틀에 참가해서 지미켄을 도와주자.,Kämpfe mit und hilf Jimiken.
 360,,La giustizia di un hacker,某位駭客的正義,,어느 해커의 정의,Gerechtigkeit eines Hackers
 361,,Yuugo,YUGO,,유고,Yuugo
-362,,"I sogni stanno creando problemi
-a EDEN. Bisogna frenarli. Aiuta
-anche Hudie.","「Dreamin」在EDEN的詐欺行為已經變成嚴重的問題
+362,,"I ""Dreamin"" stanno creando problemi a EDEN con le loro truffe.
+Bisogna frenarli. Ho chiesto aiuto
+anche a Hudie.","「Dreamin」在EDEN的詐欺行為已經變成嚴重的問題
 不能繼續放任他們，我要委託hudie也來幫忙",,"「드리밍」이 저지르는 EDEN의 사기행위가 문제시되고 있어.
 녀석들을 이대로 방치할 수는 없지.
 후디에에게도 협력을 의뢰할게.","Sandman macht Ärger in EDEN. Die
@@ -369,18 +369,18 @@ Könntest du mir Materialien suchen?"
 396,,Chiedi a Erika a Hudie,在hudie跟艾莉卡商量,,후디에로 돌아가 에리카와 상의하자.,Frag Erika bei Hudie.
 397,,Consegnare il libro scelto al cliente.,把所選的書送去給委託人,,고른 책을 의뢰인에게 가져다주자.,Bring das gewählte Buch zum Klienten.
 400,,Imparare a conoscere le onde digitali,數碼波的學習法,,디지털 웨이브를 배우는 방법,Über digitale Wellen
-401,,bu773rfly,彩蝶,,버터플라이,bu773rfly
+401,,"bu773rfly",彩蝶,,버터플라이,bu773rfly
 402,,"Ci sono troppe cose che non sai.
 Impara le basi!","你知道的事情太少了。
 至少要把基礎知識學會才行。",,"너, 이것저것 몰라도 너무 모르잖아.
 기초적인 지식 정도는 배워둬.","Du weißt viel zu vieles nicht. Lern die
 Grundlagen!"
 410,,Scopri di più sulle Onde Digitali,調查數碼波的相關資訊,,디지털 웨이브에 대해 조사하자.,Erfahre etwas über digitale Wellen.
-411,,"Andate a mettere la bionda, ha detto.",到金髮女子指定的位置,,금발의 여성이 지정한 장소로 가자.,"Zum Ort, den die Blondine erwähnte."
+411,,"Andate nel luogo indicato dalla bionda.",到金髮女子指定的位置,,금발의 여성이 지정한 장소로 가자.,"Zum Ort, den die Blondine erwähnte."
 412,,Chiedi alla bionda.,向金髮女性詢問詳情,,금발의 여성에게서 이야기를 듣자.,Frag die Blondine.
 413,,Chiedi di nuovo alla bionda.,再次向金髮女性詢問詳情,,다시 금발의 여성에게서 이야기를 듣자.,Frag die Blondine erneut.
 420,,YHS - 428,YHS★428,,YHS★428,YHS - 428
-421,,Giglio Horiguchi,洞口莉莉,,호라구치 릴리,Lily Horiguchi
+421,,"Giglio Horiguchi",洞口莉莉,,호라구치 릴리,Lily Horiguchi
 422,,"Aiuta quella ragazza che ti piace,
 Lily. Cosa intendo? Fallo con lei!","對你有興趣的那個女孩，莉莉會想辦法做點什麼的♪
 所．以．啊……來跟莉莉一起做那．個．吧♪",,"너에게 흥미를 느껴버린 그녀를 릴리가 어떻게든 해줄게♪
@@ -398,8 +398,8 @@ Was ich meine? Arbeitet zusammen!"
 440,,Vera identità del fattorino,進貨人的真實身份,,재료를 조달하는 사람의 정체,Die wahre Identität des Botenjungen
 441,,Mirei Mikagura,御神樂米蕾,,미카구라 미레이,Mirei Mikagura
 442,,"C'è una cosa che vorrei chiederti. Sono al
-solito posto. Vieni quando puoi. Ti
-spiegherò quando ci incontreremo.","我有事要拜託你
+solito posto. Vieni quando puoi.
+Ti spiegherò quando ci incontreremo.","我有事要拜託你
 我會在老地方，有空的時候就過來吧
 ……見面後再跟你說明詳細情形",,"당신한테 부탁하고 싶은 것이 있어.
 항상 있던 곳에 있으니까 여유로울 때 와줘.
@@ -415,7 +415,7 @@ Ich erkläre dann alles."
 456,,Ottieni delle uova di merluzzo perfette.,獲得極上明太子,,최고의 명란젓을 입수하자.,Besorge besten Pollackrogen.
 457,,Sconfiggi i Roe Bros!,打倒史前明太子,,명란젓's를 쓰러뜨리자.,Besiege die Rogenbrüder!
 460,,Dimensione dell'ufficio metropolitano,新都廳境界,,신 도청 디멘션,ZV-Dimension
-461,,Personale dell'ufficio metropolitano,新都廳員工,,신 도청 직원,ZV-Angestellter
+461,,"Personale dell'ufficio metropolitano",新都廳員工,,신 도청 직원,ZV-Angestellter
 462,,"Uno strano Digimon gigante si è infiltrato
 nell'Ufficio Metropolitano. Succede
 spesso. Aiutateci!","恐怖的巨大數碼寶貝侵入了新都廳大樓內
@@ -459,7 +459,7 @@ weiß ich nichts."
 520,,Ladro che non ruba,不偷竊的小偷,,훔치지 않는 도둑,"Ein Dieb, der nichts stiehlt"
 521,,"Mizushita, Direttore Acquario",池袋水族館館長-水下-,,이케부쿠로 수족관 관장 미즈시타,"Mizushita, Dir. Aquarium"
 522,,"Abbiamo uno strano ladro.
-Sembra che non rubi ni nulla. Riesci
+Sembra che non rubi nulla. Riesci
 a scoprire cosa vuole?","我們遇到了奇怪的小偷
 那小偷什麼都沒偷走
 請你確認他的真正目的",,"이상한 도둑의 피해를 받았습니다.
@@ -470,7 +470,7 @@ worauf er es abgesehen hat?"
 530,,Cassa controllata dall'acquario.,確認來自水族館的委託,,수족관에서의 의뢰를 확인하자.,Fall des Aquariums geprüft.
 531,,Sconfiggi Minamo Takitsuse,打倒瀧津瀨水面,,타키츠세 미나모를 쓰러뜨리자.,Besiege Minamo Takitsuse.
 532,,Ottieni i dettagli da Ryuji,聽龍司說明事件,,류지에게서 사건의 이야기를 듣자.,Erfahre Näheres von Ryuji.
-533,,Utilizza la porta sul retro dell'Acquario in EDEN.,從EDEN前往水族館的後門,,EDEN을 통해 수족관의 백도어로 향하자.,Geh über EDEN zur Aquariumshintertür.
+533,,Utilizza la backdoor dell'Acquario in EDEN.,從EDEN前往水族館的後門,,EDEN을 통해 수족관의 백도어로 향하자.,Geh über EDEN zur Aquariumshintertür.
 540,,Biancaneve e i 10.000 nani,白雪公主與一萬名小矮人,,백설 공주와 1만 명의 난쟁이,Schneewittchen und die 10 000 Zwerge
 541,,Matayoshi,又吉,,마타요시,Matayoshi
 542,,"C'è un hackeraggio di massa degli
@@ -520,9 +520,9 @@ ob du helfen kannst."
 594,,Decidi se combattere con Ryuji,選擇是否與龍司戰鬥,,류지와 싸울지 선택하자.,"Entscheide, ob du gegen Ryuji kämpfst."
 600,,Ascensore che scompare,人會消失的電梯,,사람이 사라지는 엘리베이터,Der verschwindende Aufzug
 601,,Rico,莉子,,리코,Rico
-602,,"Questo ascensore a Nakano porta in un
-posto strano, dove le ragazze
-scompaiono. Trova mia sorella!","我在中野搭電梯到了奇怪的地方
+602,,"Questo ascensore a Nakano porta in un posto strano,
+dove le ragazze scompaiono.
+Trova mia sorella!","我在中野搭電梯到了奇怪的地方
 而姊姊在那邊消失了
 請幫我找姊姊",,"나카노의 엘리베이터에서 이상한 장소가 나오더니
 그 장소에서 언니가 사라져버렸어요.
@@ -578,8 +578,8 @@ Können Sie mir helfen?"
 655,,Vai oltre e cerca gli studenti.,到更裡面去找出學生,,더 안쪽으로 들어가서 학생들을 찾자.,Gehe weiter und such die Schüler. 
 700,,Bella melodia,華美的旋律,,아름다운 멜로디,Wunderschöne Melodie
 701,,Ragazza della scuola di musica,上音樂學校的女孩,,음악학교를 다니는 여자애,Schülerin d. Musikschule
-702,,"Ho sentito un canto meraviglioso
-in EDEN, ma non so chi lo canta.
+702,,"Ho sentito un canto meraviglioso in EDEN,
+ma non so chi lo canta.
 Aiutatemi a scoprirlo!","在EDEN能聽見優美的歌聲
 但不知道是誰唱的……
 拜託你，請幫我找究竟是誰唱的！",,"EDEN에서 아름다운 노랫소리가 들려오지만
@@ -588,8 +588,7 @@ Aiutatemi a scoprirlo!","在EDEN能聽見優美的歌聲
 aber ich weiß nicht, wer da singt. Hilf
 mir, es herauszufinden!"
 703,,Nonamemon,無名獸,,이름없는몬,Inkognitomon
-704,,"Non è impossibile trovare
-qualcuno in EDEN?",在EDEN要找人是不可能的吧？,,EDEN에서 사람 찾기라니 무리 아냐?,"Ist es nicht unmöglich, jemanden in EDEN
+704,,"Non è impossibile trovare qualcuno in EDEN?",在EDEN要找人是不可能的吧？,,EDEN에서 사람 찾기라니 무리 아냐?,"Ist es nicht unmöglich, jemanden in EDEN
 zu finden?"
 705,,Appassionato di musica Michiko,最愛音樂的滿子,,음악 정말 좋아하는 미치코,Musikfan Michiko
 706,,"Deve essere la voce di Jimiken!
@@ -659,9 +658,9 @@ Kannst du sie dazu bringen, aufzuhören?"
 773,,Sconfiggi Seraphimon e Kerpymon (Buono).,打倒究極天使獸跟基路比獸(善),,세라피몬&켈비몬(선)을 쓰러뜨리자.,Besiege Seraphimon/Kerpymon (Gut).
 780,,La fuga di Airdramon,逃亡的飛龍獸,,도망치는 에어드라몬,Airdramons Flucht
 781,,Grossista DigiMarket,數碼市場的卸貨業者,,디지마켓 도매업자,DigiMarkt-Großhändler
-782,,"Airdramon è scappato proprio mentre avevamo
-programmato di consegnare al DigiMarket! La
-scadenza è presto! Pagheremo, quindi prendetelo!","預定要送到數碼市場的飛龍獸逃走了！
+782,,"Airdramon è scappato proprio mentre avevamo programmato
+di consegnare al DigiMarket!
+La scadenza è presto! Pagheremo, quindi prendetelo!","預定要送到數碼市場的飛龍獸逃走了！
 送達期限就是明天了！
 我會付優渥報酬的，拜託抓回他吧！",,"디지마켓에 납품 예정인 에어드라몬이 도망쳐버렸어!
 납품 기한이 가까운데!
@@ -669,19 +668,19 @@ scadenza è presto! Pagheremo, quindi prendetelo!","預定要送到數碼市場�
 an den DigiMarkt liefern wollten! Fang
 es schnell, wir zahlen auch dafür!"
 783,,Hayashida,林田,,하야시다,Hayashida
-784,,"Una volta che se ne sono andati, è tutto?",啊～都逃掉了，不太可能再抓回來吧？,,"아~아, 도망쳤다면 이미 잡는 건 무리 아니야?",Weg ist weg!
+784,,"Ah, ah, se è scappato, non è già troppo tardi per catturarlo?",啊～都逃掉了，不太可能再抓回來吧？,,"아~아, 도망쳤다면 이미 잡는 건 무리 아니야?",Weg ist weg!
 785,,Nonamemon,無名獸,,이름없는몬,Inkognitomon
-786,,Sembra che dobbiamo prenderlo!,看來只能再抓回來了,,또 잡는 수밖에 없다고 본다,Wir müssen es fangen!
+786,,Dobbiamo prenderlo!,看來只能再抓回來了,,또 잡는 수밖에 없다고 본다,Wir müssen es fangen!
 790,,Ottieni spiegazioni dal cliente,聽委託人說明詳情,,의뢰인에게서 설명을 듣자.,Hol dir eine Erklärung vom Klienten.
 791,,Dirigiti verso Under Kowloon Lv. 2,前往Under Kowloon Lv.2,,언더 쿠롱 Lv.2로 향하자.,Gehe zur Ebene 2 in Unter Kowloon.
 792,,Cercate testimoni oculari.,找出目擊者,,목격자를 찾자.,Suche Augenzeugen.
 793,,Insegui Airdramon ancora più lontano.,追著飛龍獸前往深處,,에어드라몬을 쫓아 안쪽으로 나아가자.,Verfolge Airdramon weiter.
 794,,Sconfiggi Airdramon,打倒飛龍獸,,에어드라몬을 쓰러뜨리자.,Besiege Airdramon.
-800,,Per il naso,只要捏緊鼻子,,코를 쥐면,Immer der Nase nach
+800,,Segui sempre il tuo istinto,只要捏緊鼻子,,코를 쥐면,Immer der Nase nach
 801,,Subappaltatore Kamishiro,神代企業的外包業者,,카미시로 하청업자,Kamishiro-Mitarbeiter
 802,,"Qualcuno ha scaricato illegalmente rifiuti a
-EDEN e ci sono lamentele per la puzza. Scopri
-perché e sbarazzartene.","我們接到抱怨，說EDEN內
+EDEN e ci sono lamentele per la puzza.
+Scopri perché e sbarazzartene.","我們接到抱怨，說EDEN內
 非法丟棄的垃圾發出惡臭
 希望你們能除去發出惡臭的垃圾",,"EDEN 안에 불법 투기한 쓰레기에서
 고약한 냄새가 난다는 불평이 들어왔어.
@@ -696,7 +695,7 @@ schaffe ihn weg."
 811,,Ottieni informazioni nell'area della community.,在公共領域打聽情報,,오픈 스페이스에서 정보를 모으자.,Sammle Infos im Gemeinschaftsbereich.
 812,,Dirigiti allo Spazio Odorato.,前往惡臭空間,,고약한 냄새 공간으로 향하자.,Geh zum Stinkenden Raum.
 813,,Trova la causa del cattivo odore,找出惡臭的原因,,고약한 냄새의 원인을 찾자.,Finde den Ursprung.
-814,,IT,追上加魯魯獸，阻止原因,,가루몬을 쫓아 고약한 냄새의 원인을 밝혀내자.,Verfolge Garurumon
+814,,"Insegui Garurumon e trova la causa del cattivo odore.",追上加魯魯獸，阻止原因,,가루몬을 쫓아 고약한 냄새의 원인을 밝혀내자.,Verfolge Garurumon
 815,,Sconfiggi Raremon,打倒爛泥獸,,레어몬을 쓰러뜨리자.,Besiege Raremon.
 816,,Passa il programma per distruggere i dati puzzolenti.,交出惡臭破壞程式,,고약한 냄새 데이터 파괴 프로그램을 건네주자.,Zerstöre Gestanksdaten.
 820,,Maledizione martellante,詛咒的槌聲,,저주의 망치 소리,Verfluchtes Gehämmer
@@ -804,27 +803,27 @@ nel locale. Potresti informarci?","我正在計畫，要在某處舉辦聯誼。
 Veranstaltungsort sollen Geister sein.
 Kannst du für uns nachsehen?"
 923,,TETSU,TETSU,,TETSU,TETSU 
-924,,Ti riferisci al Ragazzo Fantasma Bianco?,白色幽靈是那個“白色少年的幽靈”嗎？,,"하얀 유령이라니 그 ""하얀 소년의 유령""?",Meinst du den weißen Geisterjungen?
+924,,"Ti riferisci al Ragazzo Fantasma Bianco?",白色幽靈是那個「白色少年的幽靈」嗎？,,"하얀 유령이라니 그 ""하얀 소년의 유령""?",Meinst du den weißen Geisterjungen?
 925,,Akira,晶,,아키라,Akira
 926,,Troppa Internet,網路看太多了啦,,인터넷 너무 봤어,Zu viel Internet
 930,,Ottieni spiegazioni dal cliente,聽委託人說明詳情,,의뢰인의 설명을 듣자.,Hol dir eine Erklärung vom Klienten.
 931,,Controlla Kowloon Lv. 2.,調查Kowloon Lv.2,,쿠롱 Lv. 2를 조사하자.,Sieh auf Ebene 2 von Kowloon nach.
 932,,Sconfiggi Dracmon e Bakemon.,打倒德古獸跟猛鬼獸,,드라큐몬과 고스몬을 쓰러뜨리자.,Besiege Dracmon und Bakemon.
 940,,Ragazza scomparsa,失蹤女友,,행방불명인 그녀,Das vermisste Mädchen
-941,,Generazione Reale 3,皇家三世,,로얄 3세,Royal Generation 3
-942,,"La mia amante è scomparsa a Kowloon!
-Dov'è la mia dolce metà? Per
-favore, qualcuno la trovi!","我的戀人在Kowloon失蹤了
+941,,Royal Generation 3,皇家三世,,로얄 3세,Royal Generation 3
+942,,"La mia amata è scomparsa a Kowloon!
+Dov'è la mia dolce metà? Per favore,
+qualcuno la trovi!","我的戀人在Kowloon失蹤了
 啊，我的另一半到底到哪去了？
 誰都好，幫我找到她吧！！",,"내 애인이 쿠롱에서 행방불명이 되어버렸어.
 아아, 내 반쪽은 대체 어디로 가버린 거야?
 누구라도 좋으니까, 그녀를 찾아줘!!","Mein Schatz ist in Kowloon verschwunden!
 Wo ist meine bessere Hälfte?
 So such sie doch jemand!"
-943,,Itsuro @ Adorabile cameriera,逸郎＠女僕小姐超萌,,코하마@메이드 씨 모에-,Itsuro: niedliches Mädel
-944,,"Vai alla gestione. Non
-a questo BBS!",應該去找營運方，而不是在這種布告欄發吧,,이런 게시판 말고 운영진한테 가는 게 어때?,"Gehe zur Verwaltung von EDEN,
-nicht zur ATL!"
+943,,"Itsuro: Adorabile cameriera",逸郎＠女僕小姐超萌,,코하마@메이드 씨 모에-,Itsuro: niedliches Mädel
+944,,"Vai alla gestione di Eden.
+Non a questo BBS!",應該去找營運方，而不是在這種布告欄發吧,,이런 게시판 말고 운영진한테 가는 게 어때?,"Gehe zur Verwaltung von EDEN,
+nicht zur BBS!"
 950,,Ottieni spiegazioni dal cliente,聽委託人說明詳情,,의뢰인에게 설명을 듣자.,Hol dir eine Erklärung vom Klienten.
 951,,Chiedi al Junk Plaza.,在破銅爛鐵公園打聽消息,,잡동사니 광장에서 탐문을 하자.,Frag an der Müll-Plaza.
 952,,Sconfiggi Lunamon,打倒露娜獸,,루나몬을 쓰러뜨리자.,Besiege Lunamon.
@@ -894,7 +893,7 @@ Riesci a convincerlo a riposare?","公司內的同期員工不眠不休一直～
 부디 그를 막아주세요!","Mein Kollege isst und schläft gar nicht.
 Er hört auf niemanden! Kriegst du ihn
 dazu, sich mal zu erholen?"
-1003,,Signor Off alle Hawaii,好想去夏威夷,,하와이에 가고 싶어 씨,Hawaii-Liebhaber
+1003,,"Signor Off alle Hawaii",好想去夏威夷,,하와이에 가고 싶어 씨,Hawaii-Liebhaber
 1004,,Forse l'euforia del corridore?,這是所謂的跑者的愉悅感嗎？,,러너스 하이라는 거?,Glückshormone durch Sport?
 1005,,Gomamon,哥瑪獸,,쉬라몬,Gomamon
 1006,,"La gente è
@@ -1055,7 +1054,7 @@ sicuro, però. Puoi disattivarlo per me?","有我看不順眼的人渣在
 내 대신에 이 벽을 해제해줬으면 한다.","Es gibt diesen hässlichen Typen, den ich
 nicht mag. Der Sicherheitswall schützt
 ihn. Kannst du ihn deaktivieren?"
-1183,,Stingmon,飛蟲獸,,스팅몬,Stingmon
+1183,,"Stingmon",飛蟲獸,,스팅몬,Stingmon
 1184,,"Qualcuno ha fatto arrabbiare Beelzemon?
 Ha bisogno di imparare ad avere paura!","居然有惹墮天地獄獸生氣的傢伙……
 真是不知死活啊……",,"베르제브몬을 화나게 한 녀석이 있는 건가…
@@ -1074,7 +1073,7 @@ Vielleicht."
 1200,,Volpe spirituale e ragazza,妖狐與少女,,여우 요괴와 소녀,Das Mädchen und der Geisterfuchs
 1201,,Terriermon,大耳獸,,테리어몬,Terriermon
 1202,,"Il mio amico Renamon non tornerà da
-Asakusa. Sono preoccupato. Aiutatemi a trovarlo.","我的朋友妖狐獸去了淺草後就沒回來了
+Asakusa. Sono preoccupato. Aiutami a trovarlo.","我的朋友妖狐獸去了淺草後就沒回來了
 我很擔心他，希望你能找到他",,"친구인 레나몬이 아사쿠사에 가서 돌아오질 않아.
 걱정이니까 찾아줬으면 해.","Mein Freund Renamon kommt nicht wieder
 aus Asakusa. Hilf mir, ihn zu finden."
@@ -1083,8 +1082,8 @@ aus Asakusa. Hilf mir, ihn zu finden."
 preoccupato anch'io.",妖狐獸怎麼了嗎？　好擔心喔──,,레나몬 무슨 일 있는 걸까? 걱정이야,"Was ist mit Renamon? Ich mache mir auch
 Sorgen."
 1205,,Impmon,小妖獸,,임프몬,Impmon
-1206,,"Attento! Quella cosa è lì
-anche... eheheh","小心點比較好喔
+1206,,"Fai attenzione! Lì c'è anche
+lui... eheheh","小心點比較好喔
 畢竟現在那裡有他……嘻嘻",,"조심하는 편이 좋을걸
 뭐라 해도 지금 거기에는 그 녀석이…크큭","Vorsicht! Das Ding ist auch hier ...
 Hehehe."
@@ -1097,7 +1096,7 @@ Hehehe."
 1220,,Drago malvagio impazzito,失控的邪龍,,폭주하는 사룡,Tobender böser Drache
 1221,,Leoncino,獅子獸,,레오몬,Leomon
 1222,,"Il mio amico WarGrowlmon è nei guai!
-Per favore, aiutatemi a salvarlo!","我的朋友大古拉獸出事了！
+Per favore, aiutami a salvarlo!","我的朋友大古拉獸出事了！
 拜託，幫我救救他吧！",,"친구인 메가로그라우몬에게 큰일이 일어났다!
 부탁이다, 녀석을 구하기 위해 힘을 빌려줘!","Mein Freund WarGrowlmon steckt in der
 Klemme! Hilf mir, ihn zu retten!"
@@ -1108,10 +1107,10 @@ Shibuya? L'ho visto lì vicino, ma fa paura.","那是指在涉谷大鬧的數碼
 마침 근처에 있었는데 무서웠어","Du meinst das Digimon-Chaos in Shibuya?
 Er war da, aber er ist furchteinflößend."
 1225,,Dorumon,多路獸,,돌몬,Dorumon
-1226,,"Qualcuno, sbrigatevi!",誰快點想想辦法啊！,,누가 빨리 어떻게든 해줘!,"Hilfe, schnell!"
+1226,,"Qualcuno faccia qualcosa, presto!",誰快點想想辦法啊！,,누가 빨리 어떻게든 해줘!,"Hilfe, schnell!"
 1230,,Unisciti al cliente a Shibuya.,在涉谷和委託人會合,,시부야에서 의뢰인과 합류하자.,Geh zum Klienten in Shibuya.
 1231,,Trova Megidramon che corre impazzito,找出失控的大古拉獸,,폭주하는 메기드라몬을 찾자.,Finde das wütende Megidramon.
-1232,,Convincere Megidramon,說服大古拉獸,,메기드라몬을 설득하자.,Überzeuge Megidramon.
+1232,,Sconfiggi Megidramon,說服大古拉獸,,메기드라몬을 설득하자.,Überzeuge Megidramon.
 1233,,Vai a Shibuya.,前往涉谷,,시부야로 향하자.,Geh nach Shibuya.
 1240,,Paradiso fossile,化石樂園,,화석낙원,Fossilienparadies
 1241,,Direttore del Museo,博物館館長,,박물관 관장,Direktor des Museums
@@ -1131,7 +1130,7 @@ Ueno. Prima lo restaurano, meglio è.","小孩子最喜歡上野博物館了
 빨리 복구되면 좋겠는데","Die Kinder lieben das Museum in Ueno.
 Hoffentlich ist es bald renoviert."
 1245,,Tankmon,坦克獸,,탱크몬,Tankmon
-1246,,C'è un dolore vero lì.,也有給人添麻煩的傢伙呢,,민폐 끼치는 녀석도 다 있네,Da sind echt lästige Typen.
+1246,,"Ci sono sempre dei piantagrane.",也有給人添麻煩的傢伙呢,,민폐 끼치는 녀석도 다 있네,Da sind echt lästige Typen.
 1250,,Unisciti al cliente a Ueno.,在上野和委託人會合,,우에노에서 의뢰인과 합류하자.,Geh zum Klienten in Ueno.
 1251,,Cerca Digimon nel museo.,找出留在博物館內的數碼寶貝,,박물관에 자리 잡은 디지몬을 찾자.,Suche im Museum nach Digimon.
 1252,,Sconfiggi i Digimon nel museo.,打倒留在博物館內的數碼寶貝,,박물관에 자리 잡은 디지몬을 쓰러뜨리자.,Besiege das Digimon im Museum.
@@ -1154,7 +1153,7 @@ heil mich doch jemand!"
 1271,,Chiedi su Hacker Forum,在駭客討論區打聽消息,,해커 포럼에서 탐문을 하자.,Hör dich im Hackerforum um.
 1272,,Vai all'area di raccolta del Dr. Datamon,前往分子獸博士的採集場,,데이터몬 박사의 채취장으로 향하자.,Zum Dr.-Datamon-Sammelbereich.
 1273,,Trova il dottor Datamon,找出分子獸博士,,데이터몬 박사를 찾자.,Finde Dr. Datamon.
-1274,,Somministra la medicina a Togemon,將藥劑給予仙人掌獸,,니드몬에게 약을 투여하자.,Gib Togemon Medizin.
+1274,,"Somministra la medicina a Togemon",將藥劑給予仙人掌獸,,니드몬에게 약을 투여하자.,Gib Togemon Medizin.
 1275,,Sconfiggi Togemon furioso,打倒失控的仙人掌獸,,폭주한 니드몬을 쓰러뜨리자.,Besiege das wütende Togemon.
 1280,,Invito all'abisso,前往深淵的邀請,,심연으로의 초대,Einladung in den Abgrund
 1281,,Mirei Mikagura,御神樂米蕾,,미카구라 미레이,Mirei Mikagura
@@ -1204,8 +1203,8 @@ avevo un lavoro da fare. Trasferirmi a Hudie?","要是我出場的話就能更�
 일이 있으니 이번에는 후디에에게 양보하지","Leichte Aufgabe für mich, aber ich bin
 auf Arbeit. Ich übergebe an Hudie!"
 1305,,Hacker esperto,情報通的Zaxon駭客,,정보통 잭슨 해커,Gebildeter Hacker
-1306,,"La squadra con molti Digimon
-elettrici? Efficace quando ci sono Digimon di terra.","他們是使用大量雷屬性數碼寶貝的隊伍
+1306,,"È una squadra con molti Digimon di tipo Elettrico.
+I Digimon di tipo Terra dovrebbero essere efficaci.","他們是使用大量雷屬性數碼寶貝的隊伍
 用土屬性的數碼寶貝應該會很有利",,"전기 계열 디지몬을 많이 쓰는 팀이네
 땅 계열 디지몬이 있으면 유리하게 될 것 같아","Das Team mit den Elektro-Digimon?
 Erd-Digimon sind effektiv dagegen."
@@ -1225,8 +1224,8 @@ troverai ad affrontare una dura battaglia.","要是看他們的數碼寶貝很�
 꽤 고전할 수도 있어","Wenn du niedliche Digimon unterschätzt,
 wird das ein harter Kampf für dich."
 1325,,Hacker esperto,情報通的Zaxon駭客,,정보통 잭슨 해커,Gebildeter Hacker
-1326,,"Usano molti Digimon Antivirus. Usate i Dati per
-ottenere un vantaggio, ma fate attenzione al leader.","他們是使用許多疫苗種數碼寶貝的隊伍
+1326,,"Usano molti Digimon di tipo Antivirus. Quelli di tipo
+Dati sono avvantaggiati, ma fai attenzione al leader.","他們是使用許多疫苗種數碼寶貝的隊伍
 用資料種的數碼寶貝會很有利……但要注意隊長",,"백신종 디지몬을 많이 쓰는 팀이네
 데이터종이 유리하지만…리더는 신중하게 골라","Sie benutzen Serum-Dig. Mit Datei-Dig. hast
 du Vorteile, aber Vorsicht vor dem Anführer."
@@ -1248,8 +1247,8 @@ pazze, sono esasperanti!","居然一直用引發異常狀態的攻擊
 찔끔찔끔해대니 빡친다고!","Diese ständigen kleinen Angriffe machen
 mich wahnsinnig!"
 1345,,Hacker esperto,情報通的Zaxon駭客,,정보통 잭슨 해커,Gebildeter Hacker
-1346,,"Stanno arrivando Digimon di tipo Antivirus con attributo Buio. I Digimon di
-tipo Antivirus con attributo Luce saranno di grande aiuto.","他們有非常多的病毒種及闇屬性的數碼寶貝
+1346,,"Hanno molti Digimon di tipo Virus e attributo Oscurità.
+Usa Digimon di tipo Antivirus o attributo Luce per avere un vantaggio.","他們有非常多的病毒種及闇屬性的數碼寶貝
 用疫苗種或光屬性的數碼寶貝便十分有利",,"바이러스종인 암속성 디지몬을 많이 데리고 다니는 듯해
 백신종에 광속성이라면 압도적으로 유리해","Viele Dunkelheit-Digimon des Virustyps.
 Serum-Licht-Digimon helfen."
@@ -1315,8 +1314,8 @@ ma sto male. La prossima volta a Hudie?","要是我出場的話就能更快解�
 지금 컨디션이 안 좋으니 이번에는 후디에에게 양보하지","Wär leicht für mich gewesen, aber ich
 bin krank. Nächstes Mal bei Hudie?"
 1405,,Hacker esperto,情報通的Zaxon駭客,,정보통 잭슨 해커,Gebildeter Hacker
-1406,,"Molti Digimon fisici, quindi la magia
-funzionerà. Usa attacchi di morte istantanea.","他們有很多物理型的數碼寶貝，用魔法會很有效
+1406,,"Hanno molti Digimon fisici, quindi la magia
+è efficace. Preparati a contrastare gli attacchi a morte istantanea.","他們有很多物理型的數碼寶貝，用魔法會很有效
 先做好即死攻擊的對策會比較好喔",,"물리형 디지몬이 많으니까 마법이 유효한 모양이야
 즉사 공격에 대해선 대책을 세워두는 편이 좋을 거야","Viele physische Digimon, also wird Magie
 klappen. Nutze Soforttod-Angriffe."
@@ -1338,8 +1337,9 @@ ai dinosauri. Sembrano piuttosto potenti!","他們是用恐龍大小的巨大數
 뭔가 박력 있어서 강해 보였어","Das Team benutzt große Digimon, wie
 Dinosaurier. Sieht stark aus!"
 1425,,Hacker esperto,情報通的Zaxon駭客,,정보통 잭슨 해커,Gebildeter Hacker
-1426,,"L'equilibrio dei Digimon è buono, quindi la
-strategia è difficile. I Digimon liberi sono migliori.","他們有著相當平衡的隊伍，不好採取對策
+1426,,"Hanno un team bilanciato, quindi è difficile
+preparare una contromisura. I Digimon di tipo Libero
+possono combattere senza preoccuparsi delle affinità.","他們有著相當平衡的隊伍，不好採取對策
 但用自由種就能不用在意相性來進行戰鬥",,"종족을 밸런스 좋게 갖추고 있으니까 대책을 세우기 어려울지도
 프리종이라면 상성에 신경 쓰지 않고 싸울 수 있어","Verschiedenste Digimon, also ist die
 Strategie schwer. Freie sind besser."
@@ -1361,8 +1361,8 @@ Arrabbiarsi, ricordare le nostre perdite!","這群傢伙比想像中還強還棘
 졌을 때의 일이 떠올라서 화가나!","Die sind zäher als gedacht. Riskant.
 Ich denke an unsere Verluste!"
 1445,,Hacker esperto,情報通的Zaxon駭客,,정보통 잭슨 해커,Gebildeter Hacker
-1446,,"Un team di supporto con buone
-capacità di contatto. Taglialo e possiamo vincere.","他們是能活用輔助技能的強悍隊伍
+1446,,"È un team forte che sfrutta bene le abilità di supporto.
+Se riesci a bloccarle, dovresti vincere più facilmente.","他們是能活用輔助技能的強悍隊伍
 只要封鎖住輔助技能，應該能打得比較輕鬆",,"서포트 스킬을 잘 다루는 강한 팀인 모양이야
 서포트 스킬을 막으면 싸우기 쉬울 듯해","Zähes Team mit guter Unterstützung.
 Blockier die, dann können wir gewinnen."
@@ -1384,8 +1384,8 @@ quei Mega Digimon sono davvero tosti.","他們好像都用神聖的數碼寶貝
 궁극체인 디지몬도 있고 강한 팀이야","Viele gottgleiche Digimon. Und die
 Mega-Digimon sind harte Brocken."
 1465,,Hacker esperto,情報通的Zaxon駭客,,정보통 잭슨 해커,Gebildeter Hacker
-1466,,"Usando molti Digimon AntiVirus resistenti. Un
-Digimon Dati sarebbe utile.","他們是使用許多強大疫苗種數碼寶貝的隊伍
+1466,,"Usano molti Digimon di tipo Antivirus.
+Un Digimon di tipo Dati sarebbe utile.","他們是使用許多強大疫苗種數碼寶貝的隊伍
 用資料種的數碼寶貝會很有利",,"백신종의 강한 디지몬을 많이 사용하는 팀이네
 데이터종의 디지몬이 있으면 유리하게 될 거야","Viele zähe Serum-Digimon. Datei-Digimon
 wären hier nützlich."
@@ -1407,8 +1407,8 @@ po'. Sembra che abbia imparato qualche nuovo trucco.","好像是很久以前就�
 누군가에게 당하고 난 후 상당히 수련한 모양이지만…","Der Hacker ist schon lange Zeit
 unterwegs. Hat wohl neue Tricks gelernt."
 1485,,Hacker esperto,情報通的Zaxon駭客,,정보통 잭슨 해커,Gebildeter Hacker
-1486,,"Un sacco di Digimon con una potente
-difesa. Se ci fosse un modo per danneggiarli...","他們使用許多高DEF的數碼寶貝
+1486,,"Usano molti Digimon con DIF alta.
+Se hai un modo per infliggere danni consistenti, sarà più facile.","他們使用許多高DEF的數碼寶貝
 只要有能製造損傷的手段便能輕鬆戰鬥",,"방어력이 높은 디지몬이 많은 모양이야
 대미지를 줄 수단만 있다면 싸우기 쉬울 거야","Viele starke Defensivdigimon. Wenn du
 denen irgendwie schaden kannst ..."
@@ -1444,7 +1444,7 @@ Erteile ihnen eine Lektion."
 1523,,Ragazza di neve,冰雪女孩,,눈걸,Schneemädchen
 1524,,Davvero dura per un Digimon antico,明明是老舊的數碼寶貝卻意外的厲害呢……,,케케묵은 디지몬 주제에 의외로 강하네…,Echt zäh für ein uraltes Digimon
 1525,,Sono un mangiatore di Sukiyaki,吃壽喜燒人,,스키야키 먹는맨,Sukiyaki-Fan
-1526,,Quei vecchietti sono troppo buoni.,那爺爺也太有活力了啦,,그 할아버지들 기운이 너무 넘친다고,Diese alten Hasen sind zu gut.
+1526,,"Quei vecchietti sono troppo in gamba.",那爺爺也太有活力了啦,,그 할아버지들 기운이 너무 넘친다고,Diese alten Hasen sind zu gut.
 1527,,Contatta gli amici.,聯絡夥伴,,동료들에게 연락하자.,Rede mit Freunden.
 1528,,Eliminare il capo hacker,打倒敵方駭客隊伍的首領,,적 해커 팀의 보스를 쓰러뜨리자.,Besiege Hackerboss.
 1529,,Relazione sullo stato del caso.,報告委託完成,,의뢰달성을 보고하자.,Melde den Fallstatus.
@@ -1619,8 +1619,8 @@ mit einem Dominanzkampf."
 1723,,Hacker informato,情報通的駭客,,정보통 해커,Informierter Hacker
 1724,,Guardromon e Hagurumon si stanno comportando male.,這是指守衛獸跟齒輪獸在大鬧吧,,가드로몬과 톱니몬들이 나쁜 짓을 하는 건이네요,Guardromon und Hagurumon stiften Ärger.
 1725,,Velocità massima MAX,幹勁MAX君,,의욕MAX군,Volles Tempo
-1726,,"Tutti i virus? Eliminateli
-con i vaccini! Piano!",全都是病毒種啊！　用疫苗種來對抗應該很輕鬆吧？,,전부 바이러스잖아! 백신으로 대항하면 여유 아냐?,"Nur Virus-Digimon? Besiege sie mit
+1726,,"Sono tutti di tipo Virus? Sconfiggili
+con gli Antivirus! Facile!",全都是病毒種啊！　用疫苗種來對抗應該很輕鬆吧？,,전부 바이러스잖아! 백신으로 대항하면 여유 아냐?,"Nur Virus-Digimon? Besiege sie mit
 Serum-Digimon! Einfach!"
 1727,,Contatta gli amici.,聯絡夥伴,,동료들에게 연락하자.,Rede mit Freunden.
 1728,,Eliminare il capo hacker,打倒敵方駭客隊伍的首領,,적 해커 팀의 보스를 쓰러뜨리자.,Besiege Hackerboss.
@@ -1641,7 +1641,7 @@ Schaden entsteht."
 comportando male.",這是指惡魔獸、奧加獸、古加獸在大鬧吧,,"데블몬, 우가몬, 쿠가몬이 나쁜 짓을 하는 건이네요","Devimon, Ogremon und Kuwagamon stiften
 Ärger."
 1745,,Mamemon Fan,最愛豆豆獸,,워매몬 정말 좋아하는 아이,Mamemon-Fan
-1746,,Usa Data Digimon per eliminarli.,要是帶資料種的數碼寶貝，會全滅的喔～,,데이터 종족 디지몬으로 가면 전멸할 거야~,"Nutze Datei-Digimon, um sie umzuhauen."
+1746,,"Se usi Digimon di tipo Dati verrai spazzato via~",要是帶資料種的數碼寶貝，會全滅的喔～,,데이터 종족 디지몬으로 가면 전멸할 거야~,"Nutze Datei-Digimon, um sie umzuhauen."
 1747,,Contatta gli amici.,聯絡夥伴,,동료들에게 연락하자.,Rede mit Freunden.
 1748,,Eliminare il capo hacker,打倒敵方駭客隊伍的首領,,적 해커 팀의 보스를 쓰러뜨리자.,Besiege Hackerboss.
 1749,,Relazione sullo stato del caso.,報告委託完成,,의뢰달성을 보고하자.,Melde den Fallstatus.
@@ -1707,7 +1707,8 @@ stanno comportando male.","這是指豆豆獸、鋼鐵豆豆獸、捕捉豆豆�
 이 나쁜 짓을 하는 건이네요","Mamemon, MetalMamemon und CatchMamemon
 stiften Ärger."
 1805,,Gatto ladro,小偷貓,,도둑고양이,Diebische Katze
-1806,,Virus Digimon te lo risolverà!,"明明只要帶病毒種的數碼寶貝
+1806,,"Basta usare un Digimon di tipo Virus
+e vinci facile~!","明明只要帶病毒種的數碼寶貝
 就能輕鬆獲勝的說～！",,바이러스 종족 디지몬을 갖고 있으면 편하게 이겼을 텐데~!,Mit Virus-Digimon hast du das im Sack!
 1807,,Contatta gli amici.,聯絡夥伴,,동료들에게 연락하자.,Rede mit Freunden.
 1808,,Eliminare il capo hacker,打倒敵方駭客隊伍的首領,,적 해커 팀의 보스를 쓰러뜨리자.,Besiege Hackerboss.
@@ -1777,8 +1778,8 @@ MagnaGarurumon si stanno comportando male.","這是指帝皇龍甲獸DM、凱撒
 鎧甲加魯魯獸在大鬧吧",,"황제드라몬DM, 카이젤그레이몬,
 매그너가루몬이 나쁜 짓을 하는 건이네요","Imperialdramon DM, KaiserGreymon und
 MagnaGarurumon stiften Ärger."
-1865,,Donna GIOIA,JOY女士,,JOY우먼,Frohe Frau
-1866,,"I loro attributi? Nessuno, Fuoco e Luce.",他們的屬性好像是無、火、光喔,,"녀석들의 속성은 무, 불, 빛인 듯해","Ihre Attribute? Keins, Feuer und Licht."
+1865,,Donna Felice,JOY女士,,JOY우먼,Frohe Frau
+1866,,"I loro attributi? Neutro, Fuoco e Luce.",他們的屬性好像是無、火、光喔,,"녀석들의 속성은 무, 불, 빛인 듯해","Ihre Attribute? Keins, Feuer und Licht."
 1867,,Contatta gli amici.,聯絡夥伴,,동료들에게 연락하자.,Rede mit Freunden.
 1868,,Eliminare il capo hacker,打倒敵方駭客隊伍的首領,,적 해커 팀의 보스를 쓰러뜨리자.,Besiege Hackerboss.
 1869,,Relazione sullo stato del caso.,報告委託完成,,의뢰달성을 보고하자.,Melde den Fallstatus.
@@ -1807,8 +1808,8 @@ noch ein Digimon, aber welches ..."
 1900,,Sconfiggi gli hacker malvagi!,討伐惡劣駭客吧！,,악질 해커를 토벌해라!,Schlag die bösen Hacker!
 1901,,Mirei Mikagura,御神樂米蕾,,미카구라 미레이,Mirei Mikagura
 1902,,"C'è una cosa che vorrei chiederti. Sono al
-solito posto. Vieni quando puoi. Ti
-spiegherò quando ci incontreremo.","……我有件事要請你幫忙
+solito posto. Vieni quando puoi.
+Ti spiegherò quando ci incontreremo.","……我有件事要請你幫忙
 我會直接跟你說明詳情
 有空時就到老地方來吧",,"…당신한테 부탁하고 싶은 것이 있어.
 자세한 것은 직접 설명할게.
@@ -1818,15 +1819,15 @@ Ich erkläre dann alles."
 1903,,Ciotola di anguilla tritata,鰻魚三吃,,히츠마부시,Wiener Schnitzel
 1904,,Chi sono gli hacker cattivi?,惡劣駭客是指誰啊？,,악질 해커라니 누구야?,Wer sind die bösen Hacker?
 1905,,Nonamemon,無名獸,,이름없는몬,Inkognitomon
-1906,,Ce n'è molto a Kowloon.,那種傢伙Kowloon裡有一堆啊,,그런 거 쿠롱에 산더미처럼 있잖아,Da gibt es viele in Kowloon.
+1906,,Ce ne sono molti a Kowloon.,那種傢伙Kowloon裡有一堆啊,,그런 거 쿠롱에 산더미처럼 있잖아,Da gibt es viele in Kowloon.
 1910,,Ottieni dettagli da Mirei nel DigiLab,到數碼實驗室聽米蕾說明,,디지랩에서 미레이에게 설명을 듣자.,Erhalte Infos von Mirei im DigiLab.
 1911,,Dirigiti verso Under Kowloon Lv. 1,前往Under Kowloon Lv.1,,언더 쿠롱 Lv.1으로 향하자.,Geh zur Ebene 1 in Unter Kowloon.
 1912,,Segnala a Mirei in DigiLab,回數碼實驗室跟米蕾報告,,디지랩에서 미레이에게 보고하자.,Melde dich bei Mirei im DigiLab.
 1920,,"Fate fuori Satsuki, la fanatica dei biglietti!",討伐最快購票的五月吧！,,티켓 초고속 구입자 사츠키를 토벌해라!,"Erledige Satsuki, die Ticket-Besessene!"
 1921,,Mirei Mikagura,御神樂米蕾,,미카구라 미레이,Mirei Mikagura
-1922,,"I Digimon hanno trovato degli
-hacker nella lista nera. Su Under Kowloon
-Lv. 1. Tocca a te! Vai a prenderli!","數碼寶貝找出被列入黑名單的駭客了喔
+1922,,"I Digimon hanno trovato degli hacker nella lista nera.
+Su Under Kowloon Lv. 1. Tocca a te!
+Vai a prenderli!","數碼寶貝找出被列入黑名單的駭客了喔
 看來他在Under Kowloon Lv.1
 該你出場了，去吧",,"디지몬들이 블랙리스트 해커를 발견했어.
 아무래도 언더 쿠롱 Lv.1에 있는 모양이야.
@@ -1968,9 +1969,9 @@ So eine unsägliche Plage!"
 2090,,Vai a Kowloon Lv. 2.,前往Kowloon Lv.2,,쿠롱 Lv.2로 향하자.,"Geh nach Kowloon, Ebene 2."
 2100,,Sconfiggi l'hacker testa di legno Ittetsu!,討伐頑固駭客一鐵吧！,,고집불통 해커 잇테츠을 토벌해라!,Schlag Armleuchter Ittetsu!
 2101,,Mirei Mikagura,御神樂米蕾,,미카구라 미레이,Mirei Mikagura
-2102,,"I Digimon hanno trovato degli hacker
-nella lista nera. A Kowloon Lv. 2.
-Rimuovete gli errori!","數碼寶貝找出被列入黑名單的駭客了喔
+2102,,"I Digimon hanno trovato un hacker
+nella lista nera a Kowloon Lv. 2.
+Chi sbaglia va punito... non credi?","數碼寶貝找出被列入黑名單的駭客了喔
 看來他在Kowloon Lv.2
 你不覺得搞不清楚狀況的人……需要來點鐵鎚嗎？",,"디지몬들이 블랙리스트 해커를 발견했어.
 아무래도 쿠롱 Lv.2에 있는 모양이야.
@@ -2047,7 +2048,7 @@ Andate a picchiare i cattivi!","數碼寶貝找出被列入黑名單的駭客了
 악이 있다면. 칠뿐이야…자, 다녀오도록 해.","Digimon haben Hacker auf der schwarzen
 Liste gefunden. Auf Ebene 1 von Kowloon.
 Geh die Bösewichte vermöbeln!"
-2183,,Fan delle vendite online,最愛網購,,통신판매 정말 좋아씨,Online-Shopping-Fan
+2183,,"Fan delle vendite online",最愛網購,,통신판매 정말 좋아씨,Online-Shopping-Fan
 2184,,"I miei acquisti all'asta non
 arrivano! Sono stati spediti, ma...","我在拍賣上買的商品都沒送來──
 明明寫已出貨了……",,"옥션에서 산 물건이 오질 않아-
@@ -2122,7 +2123,7 @@ Vorsicht! Sie sind listig!"
 2263,,Grido di vento,風在哭泣,,바람이 울고 있어 씨,Heulender Wind
 2264,,Il Muro di Sicurezza è presente in tutta Kowloon.,Kowloon裡也有防火牆啊？,,쿠롱 안에 방화벽이 있었다만,Der Sicherheitswall ist in ganz Kowloon.
 2265,,Il mio nome è Nonamemon.,我的名字是無名獸,,내 이름은 이름없는몬,Ich heiße Inkognitomon
-2266,,Chi avrebbe mai montato quella cosa?,咦，是誰做這種妨礙人的事啊,,"에-, 누구야 그런 민폐스러운 짓을 한 녀석",Wer sollst du sein?
+2266,,"Chi è stato a fare una cosa tanto fastidiosa?",咦，是誰做這種妨礙人的事啊,,"에-, 누구야 그런 민폐스러운 짓을 한 녀석",Wer sollst du sein?
 2270,,Dirigiti a Under Kowloon Lv. 5.,前往Under Kowloon Lv.5,,언더 쿠롱 Lv.5로 향하자.,Geh zur Ebene 5 in Unter Kowloon.
 2280,,Sconfiggi l'hacker ribelle Gouta!,討伐落單駭客鄉太吧！,,외톨이 해커 고타를 토벌해라!,Schlag Schurken-Hacker Gouta!
 2281,,Mirei Mikagura,御神樂米蕾,,미카구라 미레이,Mirei Mikagura
@@ -2154,7 +2155,7 @@ Wohl ein froher Hacker, aber wie lang?"
 2303,,Gnocchi,麵疙瘩,,뇨키,Gnocchi
 2304,,Avevo già visto questo hacker cantare allegramente.,我剛才看到了心情好得在哼歌的駭客喔,,"아까, 기분 좋은 듯이 노래하던 해커를 봤었어",Den singenden Hacker kannte ich schon
 2305,,Matsuda,松田,,마츠다,Matsuda
-2306,,Ma quella canzone era disgustosa.,感覺唱歌的內容應該很可怕,,뭔가 노래 가사가 위험하단 느낌이었어,Aber das Lied war scheußlich.
+2306,,"Ma il testo di quella canzone era inquietante.",感覺唱歌的內容應該很可怕,,뭔가 노래 가사가 위험하단 느낌이었어,Aber das Lied war scheußlich.
 2310,,Dirigiti a Kowloon Lv. 5.,前往Kowloon Lv.5,,쿠롱 Lv.5로 향하자.,"Geh nach Kowloon, Ebene 5."
 2320,,Sconfiggi l'irritante allenatore Akira!,討伐擾人修行者章吧！,,민폐 수행자 아키라를 토벌해라!,Schlage den nervigen Trainer Akira!
 2321,,Mirei Mikagura,御神樂米蕾,,미카구라 미레이,Mirei Mikagura
@@ -2186,7 +2187,7 @@ Qualcuno che conosci? Chi vincerà?","數碼寶貝找出被列入黑名單的駭
 Liste gefunden. In Asakusa. Kennst du
 denjenigen? Wer wird gewinnen?"
 2343,,Ventilatore di coriandolo,最愛香菜,,고수 정말 좋아,Korianderfan
-2344,,Gli hacker tuttofare sono in aumento.,駭客便利店變多了呢,,해커 해결사 늘었지,Es gibt immer mehr Handymen.
+2344,,"Gli hacker tuttofare sono in aumento.",駭客便利店變多了呢,,해커 해결사 늘었지,Es gibt immer mehr Handymen.
 2345,,Nonamemon,無名獸,,이름없는몬,Inkognitomon
 2346,,Ma possiamo ancora fidarci di Hudie.,不過可靠的只有hudie吧？,,뭐 신용할만한 건 후디에 정도 아니야?,Hudie können wir aber noch trauen.
 2350,,Dirigiti ad Asakusa.,前往淺草,,아사쿠사로 향하자.,Geh nach Asakusa.
@@ -2204,7 +2205,7 @@ Spielchen mit Menschen! Halte sie auf!"
 2363,,Inviato Kawara,敕使河原,,테시가하라,Abgesandter Kawara
 2364,,Ultimamente i server dei giochi di battaglia sono lenti.,最近的遊戲對戰伺服器好卡喔,,최근 대전 게임 서버가 느려졌지,Kampfserver sind in letzter Zeit lahm.
 2365,,Kusa,草酸,,쿠사 씨,Kusa
-2366,,Sono sotto attacco.,好像偶爾會被攻擊的樣子呢,,가끔 공격받는 듯해,Sie werden angegriffen.
+2366,,"A quanto pare vengono attaccati.",好像偶爾會被攻擊的樣子呢,,가끔 공격받는 듯해,Sie werden angegriffen.
 2370,,Dirigetevi ad Akihabara!,前往秋葉原,,아키하바라로 향하자.,Geh nach Akihabara!
 2380,,Sconfiggi la principessa hacker Layla!,討伐大小姐駭客玲蘭吧！,,아가씨 해커 레이라를 토벌해라!,Schlag Prinzessin-Hackerin Layla!
 2381,,Mirei Mikagura,御神樂米蕾,,미카구라 미레이,Mirei Mikagura
@@ -2220,7 +2221,7 @@ Worte Taten folgen."
 2383,,Riso con uova,TKG,,TKG 씨,Reis mit Ei
 2384,,L'hacker sembra una principessa.,好像有個大小姐樣的駭客呢,,왠지 아가씨 같은 해커인 모양이네,Die Hackerin ist wohl eine Prinzessin.
 2385,,Il tuo dolore,沒有問題,,요소로,Yo Sorrow
-2386,,Cosa? Voglio avvicinarmi!,咦，那什麼？我想跟她認識一下,,"에, 뭐야 그거? 친해지고 싶은데",Was? Ich will näher ran!
+2386,,"Cosa? Anch'io voglio conoscerla!",咦，那什麼？我想跟她認識一下,,"에, 뭐야 그거? 친해지고 싶은데",Was? Ich will näher ran!
 2390,,Dirigetevi verso Shinjuku.,前往新宿,,신주쿠로 향하자.,Geh nach Shinjuku.
 2400,,L'hacker distaccato Kazuyoshi,孤高駭客和義,,고고한 해커 카즈요시,Reserv. Hacker Kazuyoshi
 2401,,Mirei Mikagura,御神樂米蕾,,미카구라 미레이,Mirei Mikagura
@@ -2236,7 +2237,7 @@ Bereich. Verhindere ein Chaos."
 2403,,Nonamemon,無名獸,,이름없는몬,Inkognitomon
 2404,,Ho sentito che alcuni strani hacker si sono uniti.,他突然跑來問我說要不要組駭客隊伍喔,,이상한 해커에게 팀을 짜고 있느냐고 갑자기 질문받았어,Komische Hacker tun sich zusammen.
 2405,,Yocchin,小吉,,욧친,Yocchin
-2406,,Cerchi membri del team?,他是在找隊伍夥伴嗎？,,팀 멤버라도 찾고 있었던 걸까?,Suchst du Teammitglieder?
+2406,,"Stava cercando membri per il suo team?",他是在找隊伍夥伴嗎？,,팀 멤버라도 찾고 있었던 걸까?,Suchst du Teammitglieder?
 2410,,Vai all'Area Libera.,前往自由區域,,프리 에어리어로 향하자.,Geh zum Freien Bereich.
 2420,,Sconfiggi l'amante Waifu Kazuhisa!,討伐最愛二次元老婆的和久吧！,,전뇌 신부를 좋아하는 카즈히사를 토벌해라!,Schlag den Waifu liebenden Kazuhisa!
 2421,,Mirei Mikagura,御神樂米蕾,,미카구라 미레이,Mirei Mikagura
@@ -2253,7 +2254,7 @@ Waifu? Was soll das denn heißen?"
 femmina.",是之前被女性數碼寶貝包圍的駭客吧,,전에 여성형 디지몬에게 둘러싸여 있던 해커네,"Der Hacker war von weiblichen Digimon
 umgeben."
 2425,,Nonamemon,無名獸,,이름없는몬,Inkognitomon
-2426,,Ha fatto bene a crescerli.,居然能養育到那種地步，真努力呢,,거기까지 키우다니 엄청 힘냈네,Er hat sich um sie gekümmert.
+2426,,"Ce l'ha messa tutta per allevarli fino a quel punto.",居然能養育到那種地步，真努力呢,,거기까지 키우다니 엄청 힘냈네,Er hat sich um sie gekümmert.
 2430,,Dirigiti a Under Kowloon Lv. 5.,前往Under Kowloon Lv.5,,언더 쿠롱 Lv.5로 향하자.,Geh zur Ebene 5 in Unter Kowloon.
 2440,,Sconfiggi la detective della bellezza Mika!,討伐美麗探索者美香吧！,,미의 추구자 미카를 토벌해라!,Schlag die schöne Detektivin Mika!
 2441,,Mirei Mikagura,御神樂米蕾,,미카구라 미레이,Mirei Mikagura
@@ -2271,7 +2272,7 @@ Mach Schluss damit."
 non ero carina.",只要不美麗，這駭客便會突然襲擊過來喔,,이 해커한테 아름답지 않다면서 갑자기 습격받았어,"Der Hacker sagte plötzlich, ich wäre
 nicht schön."
 2445,,Il sorriso del diavolo,惡魔微笑,,데빌즈스마일 씨,Teuflisches Lächeln
-2446,,Anch'io. E così forte!,我也遇到了，而且還超強的,,"나도야, 그런 주제에 굉장히 강했어",Ich auch. Und so stark!
+2446,,"È successo anche a me. Ed era fortissima!",我也遇到了，而且還超強的,,"나도야, 그런 주제에 굉장히 강했어",Ich auch. Und so stark!
 2450,,Vai a Shibuya.,前往涉谷,,시부야로 향하자.,Geh nach Shibuya.
 2460,,Sconfiggi Power Sleuth Junki!,討伐力量探索者純喜吧！,,힘의 탐구자 쥰키를 토벌해라!,Schlag Super-Detektiv Junki!
 2461,,Mirei Mikagura,御神樂米蕾,,미카구라 미레이,Mirei Mikagura
@@ -2287,7 +2288,7 @@ Kräfte ein!"
 2463,,Aceto balsamico,義大利香醋,,발사믹 식초,Balsamessig
 2464,,Sono andato in battaglia per migliorare i Digimon.,他說想要鑽研數碼寶貝之道，就突然要戰鬥了,,디지몬의 길을 마스터한다던가 하면서 배틀을 걸어왔었어,"Ich kämpfte, um Digimon zu verbessern."
 2465,,Nonamemon,無名獸,,이름없는몬,Inkognitomon
-2466,,Migliora Digimon! Ehi! LOL,鑽研數碼寶貝之道！笑死了,,디지몬의 길을 마스터한다!  엌ㅋㅋㅋ,Digimon verbessern! Jawoll! LOL
+2466,,"Padroneggiare la via dei Digimon! Ahah!",鑽研數碼寶貝之道！笑死了,,디지몬의 길을 마스터한다!  엌ㅋㅋㅋ,Digimon verbessern! Jawoll! LOL
 2470,,Dirigetevi verso Ueno.,前往上野,,우에노로 향하자.,Geh nach Ueno.
 2480,,Sconfiggi l'hacker Hunter Kiyomi!,討伐狩獵駭客的清美吧！,,해커 사냥꾼 키요미를 토벌해라!,Schlag Hacker-Jägerin Kiyomi!
 2481,,Mirei Mikagura,御神樂米蕾,,미카구라 미레이,Mirei Mikagura
@@ -2303,7 +2304,7 @@ ist nichts Schönes, muss aber sein!"
 2483,,Nonamemon,無名獸,,이름없는몬,Inkognitomon
 2484,,Si vocifera dell'hacker Hunter Jun.,這不是傳聞的狩獵駭客嗎？,,소문으로 돌던 해커 사냥이잖아,Angeblicher Hackerjäger Jun
 2485,,Tetchan,小鐵,,테츠짱,Tetchan
-2486,,Nessuna pietà per gli hacker? Spaventoso!,聽說他對駭客都不留情……好可怕！,,해커에게는 용서없다는 소문의…무셔!,Keine Gnade für Hacker? Übel!
+2486,,"Dicono non abbia pietà per gli hacker... che paura!",聽說他對駭客都不留情……好可怕！,,해커에게는 용서없다는 소문의…무셔!,Keine Gnade für Hacker? Übel!
 2490,,Dirigiti a Ikebukuro.,前往池袋,,이케부쿠로로 향하자.,Geh nach Ikebukuro.
 2500,,L'oggetto smarrito di Lekismon,雷克斯獸的失物,,레키스몬의 분실물,Lekismons Verlust
 2501,,Lekismon,雷克斯獸,,레키스몬,Lekismon
@@ -2313,7 +2314,7 @@ Lv. 1. Aiutatemi a trovarlo!",請幫我找掉在Under Kowloon Lv.1的重要物�
 verloren. Hilf mir bei der Suche!"
 2510,,Incontra il cliente a Under Kowloon Lv. 1,到Under Kowloon Lv.1跟委託人見面,,언더 쿠롱 Lv.1의 의뢰인을 만나자.,"Geh zum Klienten, Eb. 1 in Unter Kowloon."
 2511,,Cerca Under Kowloon Lv. 1,在Under Kowloon Lv.1尋找,,언더 쿠롱 Lv.1의 탐색을 하자.,Suche auf Ebene 1 in Unter Kowloon.
-2512,,Restituisci l'oggetto smarrito di Lekismon.,將失物交給雷克斯獸,,레키스몬에게 분실물을 전해주자.,Gib Lekismon das Verlorene zurück.
+2512,,"Restituisci l'oggetto smarrito a Lekismon.",將失物交給雷克斯獸,,레키스몬에게 분실물을 전해주자.,Gib Lekismon das Verlorene zurück.
 2520,,Oggetto smarrito di Crescemon,新月獸的失物,,크레세몬의 분실물,Crescemons Verlust
 2521,,Crescemone,新月獸,,크레세몬,Crescemon
 2522,,"È caduto a Under Kowloon
@@ -2322,7 +2323,7 @@ Lv. 3. Aiutatemi a trovarlo!",請幫我找掉在Under Kowloon Lv.3的重要物�
 verloren. Hilf mir bei der Suche!"
 2530,,Incontra il cliente a Under Kowloon Lv. 3,到Under Kowloon Lv.3跟委託人見面,,언더 쿠롱 Lv.3의 의뢰인을 만나자.,"Geh zum Klienten, Eb. 3 in Unter Kowloon."
 2531,,Cerca Under Kowloon Lv. 3,在Under Kowloon Lv.3尋找,,언더 쿠롱 Lv.3의 탐색을 하자.,Suche auf Ebene 3 in Unter Kowloon.
-2532,,Restituisci l'oggetto smarrito di Crescemon.,將失物交給新月獸,,크레세몬의 분실물을 전해주자.,Gib Crescemon das Verlorene zurück.
+2532,,"Restituisci l'oggetto smarrito a Crescemon.",將失物交給新月獸,,크레세몬의 분실물을 전해주자.,Gib Crescemon das Verlorene zurück.
 2540,,L'oggetto smarrito di Golemon.,岩石獸的失物,,록몬의 분실물,Golemons Verlust
 2541,,Golemon,岩石獸,,록몬,Golemon
 2542,,"Voglio che tu cerchi qualcosa di prezioso che ho
@@ -2331,7 +2332,7 @@ trovato a Kowloon Lv. 2!",請幫我找掉在Kowloon Lv.2的重要物品！,,"쿠
 Kowloon verloren!"
 2550,,Incontra il cliente a Kowloon Lv. 2,到Kowloon Lv.2跟委託人見面,,쿠롱 Lv.2의 의뢰인을 만나자.,"Geh zum Klienten, Eb. 2 von Kowloon."
 2551,,Cerca Kowloon Lv. 2,在Kowloon Lv.2尋找,,쿠롱 Lv.2의 탐색을 하자.,"Suche in Kowloon, Ebene 2."
-2552,,Restituisci l'oggetto smarrito di Golemon.,將失物交給岩石獸,,록몬의 분실물을 전해주자.,Gib Golemon das Verlorene zurück.
+2552,,"Restituisci l'oggetto smarrito a Golemon.",將失物交給岩石獸,,록몬의 분실물을 전해주자.,Gib Golemon das Verlorene zurück.
 2560,,Oggetto smarrito di Strikedramon,強襲龍獸的失物,,스트라이크드라몬의 분실물,Strikedramons Verlust
 2561,,Strikedramon,強襲龍獸,,스트라이크드라몬,Strikedramon
 2562,,"È caduto a Under Kowloon
@@ -2340,7 +2341,7 @@ Lv. 2. Aiutatemi a trovarlo!",請幫我找掉在Under Kowloon Lv.2的重要物�
 verloren. Hilf mir bei der Suche!"
 2570,,Incontra il cliente a Under Kowloon Lv. 2,到Under Kowloon Lv.2跟委託人見面,,언더 쿠롱 Lv.2의 의뢰인을 만나자.,"Geh zum Klienten, Eb. 2 in Unter Kowloon."
 2571,,Cerca Under Kowloon Lv. 2,在Under Kowloon Lv.2尋找,,언더 쿠롱 Lv.2의 탐색을 하자.,Suche auf Ebene 2 in Unter Kowloon.
-2572,,Restituisci l'oggetto smarrito di Strikedramon,將失物交給強襲龍獸,,스트라이크드라몬의 분실물을 전해주자.,Gib Strikedramon das Verlorene zurück.
+2572,,"Restituisci l'oggetto smarrito a Strikedramon",將失物交給強襲龍獸,,스트라이크드라몬의 분실물을 전해주자.,Gib Strikedramon das Verlorene zurück.
 2580,,L'oggetto perduto di Dorugoramon,多路戰龍獸的失物,,돌고라몬의 분실물,Dorugoramons Verlust
 2581,,Dorugoramon,多路戰龍獸,,돌고라몬,Dorugoramon
 2582,,"Voglio che tu cerchi qualcosa di prezioso che ho
@@ -2349,7 +2350,7 @@ trovato a Kowloon Lv. 5!",請幫我找掉在Kowloon Lv.5的重要物品！,,"쿠
 Kowloon verloren!"
 2590,,Incontra il cliente a Kowloon Lv. 5,到Kowloon Lv.5跟委託人見面,,쿠롱 Lv.5의 의뢰인을 만나자.,"Geh zum Klienten, Eb. 5 von Kowloon."
 2591,,Cerca Kowloon Lv. 5,在Kowloon Lv.5尋找,,쿠롱 Lv.5의 탐색을 하자.,Suche auf Ebene 5 von Kowloon.
-2592,,Restituisci l'oggetto smarrito di Dorugoramon.,將失物交給多路戰龍獸,,돌고라몬의 분실물을 전해주자.,Gib Dorugoramon das Verlorene zurück.
+2592,,"Restituisci l'oggetto smarrito a Dorugoramon.",將失物交給多路戰龍獸,,돌고라몬의 분실물을 전해주자.,Gib Dorugoramon das Verlorene zurück.
 2600,,L'oggetto perduto di Chuumon,芝蒙獸的失物,,츄몬의 분실물,Chuumons Verlust
 2601,,Chuumon,芝蒙獸,,츄몬,Chuumon
 2602,,"È caduto a Kowloon Lv. 1.
@@ -2367,7 +2368,7 @@ trovato a Kowloon Lv. 2!",請幫我找掉在Kowloon Lv.2的重要物品！,,"쿠
 Kowloon verloren!"
 2630,,Incontra il cliente a Kowloon Lv. 2,到Kowloon Lv.2跟委託人見面,,쿠롱 Lv.2의 의뢰인을 만나자.,"Geh zum Klienten, Eb. 2 von Kowloon."
 2631,,Cerca Kowloon Lv. 2,在Kowloon Lv.2尋找,,쿠롱 Lv.2의 탐색을 하자.,"Suche in Kowloon, Ebene 2."
-2632,,Restituisci l'oggetto smarrito di Raptordramon,將失物交給猛禽龍獸,,라프타드라몬의 분실물을 전해주자.,Gib Raptordramon das Item zurück.
+2632,,"Restituisci l'oggetto smarrito a Raptordramon",將失物交給猛禽龍獸,,라프타드라몬의 분실물을 전해주자.,Gib Raptordramon das Item zurück.
 2640,,Oggetto smarrito di Grademon,黃金劍士獸的失物,,그레이드몬의 분실물,Grademons Verlust
 2641,,Grademon,黃金劍士獸,,그레이드몬,Grademon
 2642,,"È caduto a Kowloon Lv. 3.
@@ -2376,7 +2377,7 @@ Aiutatemi a trovarlo!",請幫我找掉在Kowloon Lv.3的重要物品！,,"쿠롱
 verloren. Hilf mir bei der Suche!"
 2650,,Incontra il cliente a Kowloon Lv. 3,到Kowloon Lv.3跟委託人見面,,쿠롱 Lv.3의 의뢰인을 만나자.,"Geh zum Klienten, Eb. 3 von Kowloon."
 2651,,Cerca Kowloon Lv. 3,在Kowloon Lv.3尋找,,쿠롱 Lv.3의 탐색을 하자.,Suche auf Ebene 3 von Kowloon.
-2652,,Restituisci l'oggetto smarrito di Grademon.,將失物交給黃金劍士獸,,그레이드몬의 분실물을 전해주자.,Gib Grademon das Verlorene zurück.
+2652,,"Restituisci l'oggetto smarrito a Grademon.",將失物交給黃金劍士獸,,그레이드몬의 분실물을 전해주자.,Gib Grademon das Verlorene zurück.
 2660,,L'oggetto perduto di Triceramon,三觭龍獸的失物,,트리케라몬의 분실물,Triceramons Verlust
 2661,,Triceramone,三觭龍獸,,트리케라몬,Triceramon
 2662,,"È caduto a Under Kowloon Lv. 3.
@@ -2385,7 +2386,7 @@ Aiutatemi a trovarlo!",請幫我找掉在Under Kowloon Lv.3的重要物品！,,"
 verloren. Hilf mir bei der Suche!"
 2670,,Incontra il cliente a Under Kowloon Lv. 3,到Under Kowloon Lv.3跟委託人見面,,언더 쿠롱 Lv.3의 의뢰인을 만나자.,"Geh zum Klienten, Eb. 3 in Unter Kowloon."
 2671,,Cerca Under Kowloon Lv. 3,在Under Kowloon Lv.3尋找,,언더 쿠롱 Lv.3의 탐색을 하자.,Suche auf Ebene 3 in Unter Kowloon.
-2672,,Restituisci l'oggetto smarrito di Triceramon.,將失物交給三觭龍獸,,트리케라몬의 분실물을 전해주자.,Gib Triceramon das Verlorene zurück.
+2672,,"Restituisci l'oggetto smarrito a Triceramon.",將失物交給三觭龍獸,,트리케라몬의 분실물을 전해주자.,Gib Triceramon das Verlorene zurück.
 2680,,Oggetto smarrito di Pandamon,熊貓獸的失物,,팬더몬의 분실물,Pandamons Verlust
 2681,,Pandamon,熊貓獸,,팬더몬,Pandamon
 2682,,"È caduto a Kowloon livello 4.
@@ -2394,7 +2395,7 @@ Aiutatemi a trovarlo!",請幫我找掉在Kowloon Lv.4的重要物品！,,"쿠롱
 verloren. Hilf mir bei der Suche!"
 2690,,Incontra il cliente a Kowloon Lv. 4,到Kowloon Lv.4跟委託人見面,,쿠롱 Lv.4의 의뢰인을 만나자.,"Geh zum Klienten, Eb. 4 von Kowloon."
 2691,,Cerca Kowloon Lv. 4,在Kowloon Lv.4尋找,,쿠롱 Lv.4의 탐색을 하자.,Suche auf Ebene 4 von Kowloon.
-2692,,Restituisci l'oggetto smarrito di Pandamon.,將失物交給熊貓獸,,팬더몬의 분실물을 전해주자.,Gib Pandamon das Verlorene zurück.
+2692,,"Restituisci l'oggetto smarrito a Pandamon.",將失物交給熊貓獸,,팬더몬의 분실물을 전해주자.,Gib Pandamon das Verlorene zurück.
 2700,,Oggetto smarrito di HippoGryphonmon,仙鷹獸的失物,,히포그리포몬의 분실물,HippoGryphonmons Verlust
 2701,,HippoGryphonmon,仙鷹獸,,히포그리포몬,HippoGryphonmon
 2702,,"È caduto a Under Kowloon Lv. 4.
@@ -2403,7 +2404,7 @@ Aiutatemi a trovarlo!",請幫我找掉在Under Kowloon Lv.4的重要物品！,,"
 verloren. Hilf mir bei der Suche!"
 2710,,Incontra il cliente a Under Kowloon Lv. 4,到Under Kowloon Lv.4跟委託人見面,,언더 쿠롱 Lv.4의 의뢰인을 만나자.,"Geh zum Klient, Eb. 4 in Unter Kowloon."
 2711,,Cerca Under Kowloon Lv. 4,在Under Kowloon Lv.4尋找,,언더 쿠롱 Lv.4의 탐색을 하자.,Suche auf Ebene 4 in Unter Kowloon.
-2712,,Restituisci l'oggetto smarrito di HippoGryphonmon.,將失物交給仙鷹獸,,히포그리포몬의 분실물을 전해주자.,Gib HippoGryphonmon das Item zurück.
+2712,,"Restituisci l'oggetto smarrito a HippoGryphonmon.",將失物交給仙鷹獸,,히포그리포몬의 분실물을 전해주자.,Gib HippoGryphonmon das Item zurück.
 2720,,L'oggetto perduto di Turuiemon,兔爺獸的失物,,토리에몬의 분실물,Turuiemons Verlust
 2721,,Turuiemon,兔爺獸,,토리에몬,Turuiemon
 2722,,"L'ho lasciato nel Covo dei
@@ -2412,7 +2413,7 @@ Demons. Per favore, ritrovalo!",請幫我找掉在惡魔巢穴的重要物品！
 gelassen. Bitte finde es!"
 2730,,Incontra il cliente nel Covo dei Demons.,到惡魔巢穴跟委託人見面,,데몬즈 아지트의 의뢰인을 만나자.,Triff den Klienten in der Demons-Höhle.
 2731,,Esplora il Covo dei Demons.,在惡魔巢穴尋找,,데몬즈 아지트의 탐색을 하자.,Durchsuch die Demons-Höhle.
-2732,,Restituisci l'oggetto smarrito di Turuiemon.,將失物交給兔爺獸,,토리에몬의 분실물을 전해주자.,Gib Turuiemon das Verlorene zurück.
+2732,,"Restituisci l'oggetto smarrito a Turuiemon.",將失物交給兔爺獸,,토리에몬의 분실물을 전해주자.,Gib Turuiemon das Verlorene zurück.
 2740,,L'oggetto perduto di TyrantKabuterimon,暴君比多獸的失物,,타이런트캅테리몬의 분실물,TyrantKabuterimons Verlust
 2741,,Tiranno Kabuterimon,暴君比多獸,,타이런트캅테리몬,TyrantKabuterimon
 2742,,"È caduto a Under Kowloon
@@ -2421,7 +2422,7 @@ livello 5. Aiutatemi a trovarlo!",請幫我找掉在Under Kowloon Lv.5的重要�
 verloren. Hilf mir bei der Suche!"
 2750,,Incontra il cliente a Under Kowloon Lv. 5,到Under Kowloon Lv.5跟委託人見面,,언더 쿠롱 Lv.5의 의뢰인을 만나자.,"Geh zum Klient, Eb. 5 in Unter Kowloon."
 2751,,Cerca Under Kowloon Lv. 5,在Under Kowloon Lv.5尋找,,언더 쿠롱 Lv.5의 탐색을 하자.,Suche auf Ebene 5 in Unter Kowloon.
-2752,,Restituisci l'oggetto smarrito di TyrantKabuterimon.,將失物交給暴君比多獸,,타이런트캅테리몬의 분실물을 전해주자.,Gib TyrantKabuterimon das Item.
+2752,,"Restituisci l'oggetto smarrito a TyrantKabuterimon.",將失物交給暴君比多獸,,타이런트캅테리몬의 분실물을 전해주자.,Gib TyrantKabuterimon das Item.
 2760,,L'oggetto perduto di Coelamon,希拉獸的失物,,씨라몬의 분실물,Coelamons Verlust
 2761,,Celamone,希拉獸,,씨라몬,Coelamon
 2762,,"Voglio che tu cerchi qualcosa di prezioso che
@@ -2430,7 +2431,7 @@ ho perso nel forum di Zaxon!",請幫我找掉在Zaxon討論區的重要物品！
 Zaxon-Forum verloren!"
 2770,,Incontra il cliente nel forum Zaxon,到Zaxon討論區跟委託人見面,,잭슨 포럼의 의뢰인을 만나자.,Geh zum Klienten im Zaxon-Forum.
 2771,,Cerca nel forum Zaxon,在Zaxon討論區尋找,,잭슨 포럼의 탐색을 하자.,Suche im Zaxon-Forum.
-2772,,Restituisci l'oggetto smarrito di Coelamon.,將失物交給希拉獸,,씨라몬의 분실물을 전해주자.,Gib Coelamon das Verlorene zurück.
+2772,,"Restituisci l'oggetto smarrito a Coelamon.",將失物交給希拉獸,,씨라몬의 분실물을 전해주자.,Gib Coelamon das Verlorene zurück.
 2780,,L'oggetto smarrito di Monochromon,角龍獸的失物,,모노크로몬의 분실물,Monochromons Verlust
 2781,,Monocromo,角龍獸,,모노크로몬,Monochromon
 2782,,"Voglio che tu cerchi qualcosa di prezioso che
@@ -2439,7 +2440,7 @@ ho perso nel forum di Zaxon!",請幫我找掉在Zaxon討論區的重要物品！
 Zaxon-Forum verloren!"
 2790,,Incontra il cliente nel forum Zaxon,到Zaxon討論區跟委託人見面,,잭슨 포럼의 의뢰인을 만나자.,Geh zum Klienten im Zaxon-Forum.
 2791,,Cerca nel forum Zaxon,在Zaxon討論區尋找,,잭슨 포럼을 탐색하자.,Suche im Zaxon-Forum.
-2792,,Restituisci l'oggetto smarrito di Monochromon.,將失物交給角龍獸,,모노크로몬의 분실물을 전해주자.,Gib Monochromon das Item zurück.
+2792,,"Restituisci l'oggetto smarrito a Monochromon.",將失物交給角龍獸,,모노크로몬의 분실물을 전해주자.,Gib Monochromon das Item zurück.
 2800,,Oggetto smarrito di Monodramon,單角龍獸的失物,,모노드라몬의 분실물,Monodramons Verlust
 2801,,Monodramone,單角龍獸,,모노드라몬,Monodramon
 2802,,"È caduto a Kowloon
@@ -2448,7 +2449,7 @@ Lv. 1. Aiutatemi a trovarlo!",請幫我找掉在Kowloon Lv.1的重要物品！,,
 verloren. Hilf mir bei der Suche!"
 2810,,Incontra il cliente a Kowloon Lv. 1,到Kowloon Lv.1跟委託人見面,,쿠롱 Lv.1의 의뢰인을 만나자.,"Geh zum Klienten, Eb. 1 von Kowloon."
 2811,,Cerca Kowloon Lv. 1,在Kowloon Lv.1尋找,,쿠롱 Lv.1의 탐색을 하자.,Suche auf Ebene 1 von Kowloon.
-2812,,Restituisci l'oggetto smarrito di Monodramon.,將失物交給單角龍獸,,모노드라몬의 분실물을 전해주자.,Gib Monodramon das Verlorene zurück.
+2812,,"Restituisci l'oggetto smarrito a Monodramon.",將失物交給單角龍獸,,모노드라몬의 분실물을 전해주자.,Gib Monodramon das Verlorene zurück.
 2820,,Oggetto smarrito di Unimon,獨角馬獸的失物,,유니몬의 분실물,Unimons Verlust
 2821,,Unimon,獨角馬獸,,유니몬,Unimon
 2822,,"È caduto a Under Kowloon Lv. 2.
@@ -2457,7 +2458,7 @@ Aiutatemi a trovarlo!",請幫我找掉在Under Kowloon Lv.2的重要物品！,,"
 verloren. Hilf mir bei der Suche!"
 2830,,Incontra il cliente a Under Kowloon Lv. 2,到Under Kowloon Lv.2跟委託人見面,,언더 쿠롱 Lv.2의 의뢰인을 만나자.,"Geh zum Klient, Eb. 2 in Unter Kowloon."
 2831,,Cerca Under Kowloon Lv. 2,在Under Kowloon Lv.2尋找,,언더 쿠롱 Lv.2의 탐색을 하자.,Suche auf Ebene 2 in Unter Kowloon.
-2832,,Restituisci l'oggetto smarrito di Unimon.,將失物交給獨角馬獸,,유니몬의 분실물을 전해주자.,Gib Unimon das Verlorene zurück.
+2832,,"Restituisci l'oggetto smarrito a Unimon.",將失物交給獨角馬獸,,유니몬의 분실물을 전해주자.,Gib Unimon das Verlorene zurück.
 2840,,L'oggetto perduto di Zubamon,茲巴獸的失物,,즈바몬의 분실물,Zubamons Verlust
 2841,,Zubamon,茲巴獸,,즈바몬,Zubamon
 2842,,"È caduto a Under Kowloon Lv. 1.
@@ -2466,7 +2467,7 @@ Aiutatemi a trovarlo!",請幫我找掉在Under Kowloon Lv.1的重要物品！,,"
 verloren. Hilf mir bei der Suche!"
 2850,,Incontra il cliente a Under Kowloon Lv. 1,到Under Kowloon Lv.1跟委託人見面,,언더 쿠롱 Lv.1의 의뢰인을 만나자.,"Geh zum Klienten, Eb. 1 in Unter Kowloon."
 2851,,Cerca Under Kowloon Lv. 1,在Under Kowloon Lv.1尋找,,언더 쿠롱 Lv.1의 탐색을 하자.,Suche auf Ebene 1 in Unter Kowloon.
-2852,,Restituisci l'oggetto smarrito di Zubamon.,將失物交給茲巴獸,,즈바몬의 분실물을 전해주자.,Gib Zubamon das Verlorene zurück.
+2852,,"Restituisci l'oggetto smarrito a Zubamon.",將失物交給茲巴獸,,즈바몬의 분실물을 전해주자.,Gib Zubamon das Verlorene zurück.
 2860,,Oggetto smarrito di ZubaEagermon,兹巴伊戈獸的失物,,즈바이거몬의 분실물,ZubaEagermons Verlust
 2861,,ZubaEagermon,兹巴伊戈獸,,즈바이거몬,ZubaEagermon
 2862,,"L'ho lasciato nel Covo dei
@@ -2475,7 +2476,7 @@ Demons. Per favore, ritrovalo!",請幫我找掉在惡魔巢穴的重要物品！
 gelassen. Bitte finde es!"
 2870,,Incontra il cliente nel Covo dei Demons.,到惡魔巢穴跟委託人見面,,데몬즈 아지트의 의뢰인을 만나자.,Triff den Klienten in der Demons-Höhle.
 2871,,Esplora il Covo dei Demons.,在惡魔巢穴尋找,,데몬즈 아지트의 탐색을 하자.,Durchsuch die Demons-Höhle.
-2872,,Restituisci l'oggetto smarrito di ZubaEagermon.,將失物交給兹巴伊戈獸,,즈바이거몬의 분실물을 전해주자.,Gib ZubaEagermon das Item zurück.
+2872,,"Restituisci l'oggetto smarrito a ZubaEagermon.",將失物交給兹巴伊戈獸,,즈바이거몬의 분실물을 전해주자.,Gib ZubaEagermon das Item zurück.
 2880,,L'oggetto perduto di Duramon,杜蘭獸的失物,,듀라몬의 분실물,Duramons Verlust
 2881,,Duramon,杜蘭獸,,듀라몬,Duramon
 2882,,"È caduto a Kowloon Lv. 3.
@@ -2484,4 +2485,4 @@ Aiutatemi a trovarlo!",請幫我找掉在Kowloon Lv.3的重要物品！,,"쿠롱
 verloren. Hilf mir bei der Suche!"
 2890,,Incontra il cliente a Kowloon Lv. 3,到Kowloon Lv.3跟委託人見面,,쿠롱 Lv.3의 의뢰인을 만나자.,"Geh zum Klienten, Eb. 3 von Kowloon."
 2891,,Cerca Kowloon Lv. 3,在Kowloon Lv.3尋找,,쿠롱 Lv.3의 탐색을 하자.,Suche auf Ebene 3 von Kowloon.
-2892,,Restituisci l'oggetto smarrito di Duramon.,將失物交給杜蘭獸,,듀라몬의 분실물을 전해주자.,Gib Duramon das Verlorene zurück.
+2892,,"Restituisci l'oggetto smarrito a Duramon.",將失物交給杜蘭獸,,듀라몬의 분실물을 전해주자.,Gib Duramon das Verlorene zurück.

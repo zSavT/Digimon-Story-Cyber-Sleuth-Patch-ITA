@@ -1,7 +1,7 @@
 ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
 1,7214,,Ciao.,你好……,,안녕하세요……,Hallo.
-2,7214,,"Quindi non c'era nessun fantasma, dopo tutto. Era solo una
-voce.","如同駭客先生調查的，沒有幽靈。
+2,7214,,"Quindi non c'era nessun fantasma, dopotutto.
+Era solo una diceria.","如同駭客先生調查的，沒有幽靈。
 果然謠言就只是謠言啊……",,"해커 씨의 조사대로 유령은 없었어요.
 역시 소문은 소문일 뿐이었군요……","Es gab also doch keinen Geist. Es war nur ein
 Gerücht."
@@ -9,9 +9,9 @@ Gerücht."
 那一定是因為聯誼失敗了。",,"내가 별로 기운이 없어 보이는 건
 미팅이 실패했기 때문이겠죠","Ich sehe so deprimiert aus, weil die Party nicht
 gut gelaufen ist."
-4,7214,,"C'era la ragazza che mi piace, ma sembra che
-abbia ancora più paura dei fantasmi di me. Quando
-ho menzionato la storia di fantasmi, si è alzata e se n'è andata.","有個很合我興趣的女孩子參加聯誼，
+4,7214,,"C'era la ragazza che mi piace, ma sembra che abbia ancora
+più paura dei fantasmi di me. Quando ho menzionato la
+storia di fantasmi, si è alzata e se n'è andata.","有個很合我興趣的女孩子參加聯誼，
 但是她比我還怕幽靈，
 聽到那個謠言就怕得馬上回家了。",,"취향인 애가 참가해줬는데
 나보다 더 유령을 싫어해서, 그 소문 이야기를 했더니
@@ -21,8 +21,8 @@ Geistergeschichte erwähnte, lief sie schnell weg."
 5,7214,,Questo mi ha fatto infatuare ancora di più di lei...,"那相信謠言的純潔，
 還有可愛的外表都緊抓住了我的心……",,"소문을 믿는 순수함도
 귀여워서 내 하트를 꽉 잡았는데 말이죠……",Jetzt bin ich noch verrückter nach dem Mädchen.
-6,7214,,"Ma non credo che ora abbia una buona impressione di me.
-Ho provato di tutto per contattarla, ma non risponde. Penso che mi arrenderò.","不過她對我的印象應該很差吧。
+6,7214,,"Ma probabilmente ora ha una pessima impressione di me.
+Ho provato a contattarla, ma non risponde. Credo che rinuncerò.","不過她對我的印象應該很差吧。
 讓人很猶豫要不要想盡辦法連絡她，
 我在想還是放棄好了。",,"이젠 제 인상도 좋지 않을 테니
 수를 써서 연락하기도 망설여지니까
@@ -35,25 +35,25 @@ odia davvero i fantasmi?","我到底哪裡做錯了呢？
 是因為她害怕幽靈嗎？",,"뭐가 잘못이었던 걸까요.
 그 아이가 유령을 싫어했기 때문일까요","Was habe ich falsch gemacht? Liegt es daran, dass
 sie Geister wirklich hasst?"
-9,7214,,"Pensi che sia perché ho cercato di usare la storia
-di fantasmi come scusa per provarci con lei?","你說不管是不是靠幽靈話題，
+9,7214,,"Dici che è perché ho usato la storia di fantasmi
+come scusa per provarci con lei?","你說不管是不是靠幽靈話題，
 打算拿這種謠言當話題來親近就做錯了……？",,"유령 이야기든 뭐든 미끼로 삼아서
 친해지려고 했기 때문에……?","Du meinst, es liegt daran, dass ich sie mit der
 Geistergeschichte anbaggern wollte?"
-10,7214,,"Ma io uso sempre questo approccio. Mi stai dicendo che
+10,7214,,"Ma è un approccio che uso sempre. Stai dicendo che
 spaventa la gente?","明明只是大家常用的方法，
 駭客先生就覺得我是心術不正的人嗎？",,"상투적인 수단을 썼는데
 해커 씨는 내가 간사한 인간이라는 건가요?","Aber so mache ich das immer. Willst du sagen,
 dass das die Leute abschreckt?"
 11,7214,,Non ci avevo mai pensato prima.,不過，我從沒這樣想過啊。,,"하지만, 그런 건 생각해본 적도 없었네요",Auf die Idee wäre ich nie gekommen.
 12,7214,,Immagino che questa tattica sia un'arma a doppio taglio...,但是像你說的正面進攻可是雙面刃……,,"그러나, 그런 정공법은 양날의 검……",Taktik ist wohl ein zweischneidiges Schwert ...
-13,7214,,"Anche se non ho mai avuto fortuna con una ragazza a una
-festa. Forse è ora che ripensi il mio approccio.","不過從過去連戰連敗的聯誼戰績來看，
+13,7214,,"Anche se non ho mai avuto fortuna con le ragazze a una
+festa. Forse è ora di ripensare il mio approccio.","不過從過去連戰連敗的聯誼戰績來看，
 或許可以考慮看看嗎……",,"그래도, 지금까지 연전연패였던 미팅 결과를
 생각해보면 생각해볼 여지가 있으려나…","Obwohl ich noch auf keiner Party bei einem Mädchen
 Glück hatte. Vielleicht sollte ich meine
 Herangehensweise überdenken."
-14,7214,,"Visto che porto gli occhiali, forse posso in qualche modo usarli
+14,7214,,"Visto che porto gli occhiali, forse potrei usarli
 a mio vantaggio.","都戴著眼鏡了，
 說不定能利用我這外表。",,"모처럼 안경을 끼고 있으니까, 이 외모를
 안 쓸 수는 없을지도 모르겠네요","Vielleicht kann ich es zu meinem Vorteil nutzen,

@@ -10,16 +10,15 @@ ich dich extra herkommen lasse."
 4,4338,,"Sì, sono sicuro che sia l'uomo giusto per il lavoro.",是啊，我想他們的話應該沒問題。,,"그래, 이 애라면 문제없을 거라고 생각했거든","Ja. Ich bin mir sicher, dass er dafür der Richtige
 ist."
 5,4338,,"Questa giovane donna è Rico, la cliente.",這邊的小姑娘就是委託人莉子。,,이쪽 아가씨가 의뢰인인 리코야,"Die junge Dame ist Rico, die Klientin."
-6,7347,,Ehm... È mia sorella maggiore... È scomparsa.,那個……就是……姊姊不見了……所以……,,"저기…그게…언니가 없어져서…
+6,7347,,Ehm... si tratta di mia sorella... è scomparsa.,那個……就是……姊姊不見了……所以……,,"저기…그게…언니가 없어져서…
 그…","Ähm ... Es geht um meine große Schwester.
 Sie wird vermisst."
 7,2020,,???,？？,,??,???
 8,4238,,Lo metterò al corrente della situazione.,讓我來說明吧。,,제가 사정을 설명할게요,Ich erkläre ihm alles.
-9,4238,,"Hai sentito la voce sulle sparizioni
-negli ascensori?",……客人你們聽過“電梯內神秘失蹤”的謠言嗎？,,"…손님은 ""엘리베이터 행방불명""이란 소문을 알고 계신가요?","Hast du das Gerücht über Leute gehört, die im
+9,4238,,"Avete sentito la voce sulle sparizioni negli ascensori?",……客人你們聽過“電梯內神秘失蹤”的謠言嗎？,,"…손님은 ""엘리베이터 행방불명""이란 소문을 알고 계신가요?","Hast du das Gerücht über Leute gehört, die im
 Aufzug verschwinden?"
-10,4238,,"È più una leggenda metropolitana. Dice che le persone
-scompaiono misteriosamente mentre viaggiano in ascensore
+10,4238,,"È più una leggenda metropolitana. Si dice che le persone
+scompaiono misteriosamente dagli ascensori
 e vengono portate in un'altra dimensione.","與其說謠言……其實比較像都市傳說，
 據說只要搭上電梯就會神秘失蹤，
 在異次元空間中迷路。",,"소문…이라고 할까, 도시전설 같은 건데요.
@@ -49,15 +48,15 @@ mich bitte erst für diesen Monat."
 不好意思。",,"이런, 이야기가 탈선했군.
 미안하다","Wir sind ein bisschen vom Thema abgekommen.
 Entschuldigt."
-17,4338,,"Quella leggenda metropolitana circola a
-Nakano da secoli. Ogni scolaretto la conosce.","中野從以前就有神秘失蹤的都市傳說，
+17,4338,,"Questa leggenda metropolitana circola a Nakano da
+un sacco di tempo. La conoscono tutti i ragazzini.","中野從以前就有神秘失蹤的都市傳說，
 就像學校會有七大不可思議一樣。",,"이 행방불명 도시전설은 나카노에도 옛날부터 있었어.
 학교의 7대 불가사의처럼 말이지.
 어디에나 공통적으로 있는 괴담 같은 거지","Diese Legende geht schon ewig in Nakano um. Jedes
 Schulkind hört davon."
 18,4338,,Ma potrebbe essere più di una semplice leggenda metropolitana...,但是……現在卻不再是單純的謠言了。,,그렇지만…그게 소문으로 끝나지 않게 되어버린 거다,Aber vielleicht ist es mehr als nur eine Legende.
-19,4238,,"Sembra che la sorella di Rico sia scomparsa proprio in
-questo edificio.",莉子的姊姊，就是在這棟建築物內失蹤的樣子。,,"이 리코의 언니가 이 관내에서
+19,4238,,"Sembra che la sorella di Rico sia scomparsa
+proprio in questo edificio.",莉子的姊姊，就是在這棟建築物內失蹤的樣子。,,"이 리코의 언니가 이 관내에서
 행방불명이 되고 말았다고 해요","Ricos Schwester ist wohl aus diesem Gebäude
 verschwunden."
 20,4238,,E... è stato dopo essere salito in un ascensore.,而且……是在搭上電梯後。,,그것도……엘리베이터에 탄 후에,"Und zwar ... nachdem sie in einen Aufzug gestiegen
@@ -73,9 +72,8 @@ die Polizei und nicht für einen Hacker. Stimmt’s?"
 但是莉子的姊姊今年才16歲……",,"신고는 했어.
 하지만 리코의 언니가 16세라는 이유로 말이지","Wir haben es gemeldet, aber Ricos Schwester ist
 16."
-24,4238,,"La polizia dice che probabilmente è solo scappata di
-casa e sta da un'amica. Non sono
-interessati. Terribile, vero?!","所以被說搞不好是離家出走、在外遊蕩之類的，
+24,4238,,"La polizia dice che probabilmente è solo scappata di casa per
+stare da un'amica. Non se ne interessano. Terribile, vero?!","所以被說搞不好是離家出走、在外遊蕩之類的，
 警察完全不當一回事！
 是不是很過分！？",,"가출이거나 아니면 밤놀이 아니겠냐면서
 제대로 접수해주지 않아요!
@@ -135,9 +133,9 @@ nicht suchen."
 35,7347,,Beh... Siamo venuti qui insieme.,"嗯……
 就是，姊姊是和我一起來這裡的。",,"응…
 있잖아, 여기엔 언니랑 같이 왔었어",Nun ... wir sind zusammen hergekommen.
-36,7347,,"Dopo aver giocato alla macchinetta delle capsule al primo
-piano, mia sorella ha detto di andare alla sala giochi al
-quarto piano, quindi abbiamo preso l'ascensore.","我們在1樓轉了轉蛋後，
+36,7347,,"Dopo aver giocato con le macchinette al primo
+piano, mia sorella ha detto di andare in sala giochi al
+quarto, quindi abbiamo preso l'ascensore.","我們在1樓轉了轉蛋後，
 姊姊說我們去4樓的遊樂場吧。
 然後……搭了電梯……",,"1층에서 디지메달 뽑기를 하고 나서
 4층 게임 센터로 가자고 언니가 그래서…
@@ -306,9 +304,8 @@ che investigui il sistema di controllo dell'ascensore.","所以才會委託你�
 너희 후디에에 의뢰를 넣은 거다. 잘 부탁한다","Ich habe Hudie eingeschaltet, weil sich jemand
 das Steuerungssystem für die Aufzüge ansehen
 muss."
-80,7346,,"E giusto tra noi due, non sarebbe
-terrificante se fosse qualcosa che coinvolge l'
-occulto?! Uso quell'ascensore ogni giorno!","……而且偷偷跟你說。
+80,7346,,"Detto tra noi, non sarebbe terribile se si trattasse
+davvero di l'occulto?! Uso quell'ascensore ogni giorno!","……而且偷偷跟你說。
 如果真的是超自然現象不就很恐怖嗎！",,"…그리고 여기서만의 이야기인데
 혹시 정말로 오컬트라면 엄청 무섭잖아!
 나는 매일 저 엘리베이터를 쓰고 있다고!?","Ganz unter uns gesagt, wäre es nicht furchtbar,
@@ -383,8 +380,7 @@ per la sorella di Rico, questa volta te la faccio passare liscia.","我就知道
 리코와 언니를 위해서니까 이번엔 져드릴게요","Na gut. Normalerweise würde ich doppelten Lohn
 einfordern, aber da es um Ricos Schwester geht,
 lasse ich es dieses Mal gut sein."
-96,4238,,"Ma assicurati di dirmelo non appena trovi
-qualcosa!","相對的，如果有什麼進展要告訴我唷。
+96,4238,,"Ma assicurati di dirmelo non appena trovi qualcosa!","相對的，如果有什麼進展要告訴我唷。
 一定要講喔！",,"그 대신 뭔가 알아내면 가르쳐주세요.
 꼭이에요!","Aber sag mir Bescheid, sobald du etwas findest!"
 97,4338,,"Lo farò. D'accordo, andiamo!","嗯，知道了。
