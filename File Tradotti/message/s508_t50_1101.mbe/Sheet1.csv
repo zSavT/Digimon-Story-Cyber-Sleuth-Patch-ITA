@@ -3,13 +3,15 @@ ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
 委託完成了啊。",,"앗…! 어……어서 와.
 의뢰는 해결한 거구나","Ah! Willkommen zurück. Den Fall habt ihr gut
 gelöst."
-2,3046,,Grazie. Ho sentito che hai aiutato. Quella ragazza era così felice di aver ricevuto un biglietto.,"對，聽說妳也有幫忙。
+2,3046,,"Grazie. Ho sentito che hai aiutato.
+Quella ragazza era così felice di aver ricevuto un biglietto.","對，聽說妳也有幫忙。
 妹妹拿到了入場票，她很高興喔。",,"그래, 너도 도와줬다고 했었지.
 여동생은 티켓을 입수해서 기뻐하더군","Danke. Ich habe gehört, dass du geholfen hast.
 Das Mädchen hat sich sehr über ihre
 Eintrittskarte gefreut."
 3,3045,,L'ho fatto solo per il pagamento.,……我只是為了報酬才做的。,,……나는 그저 보수를 위해 했을 뿐이야,Ich habe es nur für die Bezahlung getan.
-4,3045,,Ha lasciato un commento dicendo che porterà Wooper più tardi. Non vedo l'ora.,"他們寫了留言，說蠑螈君之後會寄過來喔。
+4,3045,,"Ha lasciato un commento dicendo che porterà Wooper più tardi.
+Non vedo l'ora.","他們寫了留言，說蠑螈君之後會寄過來喔。
 真期待它寄來。",,"우파 군, 나중에 보내주겠다는 코멘트가 왔어.
 받을 때가 기대돼","Sie hat einen Kommentar hinterlassen, dass sie
 Wooper später vorbeibringt. Ich kann’s kaum
@@ -46,13 +48,15 @@ einschenkt. Trink aus."
 >　　Ist das süß!　　<
 　　　/　/　/　/　　\　\　\　\"
 17,2020,,È buono... ma troppo dolce! Troppo dolce!,好喝………………但是好甜！　太甜了！！！！！,,맛있어………………하지만 달아!  너무 달아!!!!!,Das ist nett ... aber so süß! Zu süß!
-18,2020,,È come se l'interno della mia bocca fosse stato ricoperto di sciroppo!,"喝下去的瞬間，砂糖原漿，還有各種甜味
+18,2020,,"È come se l'interno della mia bocca
+fosse stato ricoperto di sciroppo!","喝下去的瞬間，砂糖原漿，還有各種甜味
 全加進去的味道在嘴中擴散了開來……！！！",,"마시는 순간, 설탕의 원액과 온갖 감미료를 투입한 듯한 맛이
 입안 가득히 퍼져나간다……!!!","Es ist, als ob meine Mundhöhle mit Sirup
 verkleidet worden wäre!"
 19,2020,,È sicuro berlo?!,這個，是人能喝的東西嗎……！？！？,,이걸 인간이 마셔도 되는 건가……!?!?,Ist das Zeug überhaupt trinkbar?!
 20,2020,,[1AHIA!],[1嘰　　嘰　　嘰],,[1욱 신],[1AUA!]
-21,2020,,Improvvisamente ho sentito un dolore lancinante in ognuno dei miei denti.,"突然……我的臼齒，不對，是我所有牙齒
+21,2020,,"Improvvisamente ho sentito un dolore
+lancinante in ognuno dei miei denti.","突然……我的臼齒，不對，是我所有牙齒
 突然開始發出猛烈的疼痛。",,"그때 문득……나의 어금니가, 아니 모든 이가
 맹렬한 고통을 호소하기 시작했다","Ich spüre auf einmal einen quälenden Schmerz in
 jedem einzelnen meiner Zähne."
@@ -74,8 +78,8 @@ im Zahn zu haben!"
 26,3045,,"Ehi, riprenditi.",……喂，你振作點啊。,,"……잠깐, 정신 좀 차려봐","He, komm zu dir."
 27,2020,,(Sembra che la dolcezza mi abbia fatto svenire.),（好像因為太甜，昏過去了……）,,(너무 단 나머지 정신을 잃었던 모양이다…),"(Anscheinend bin ich von der Süße ohnmächtig
 geworden.)"
-28,3045,,"Ma che maleducato, crollare dopo aver bevuto un succo che qualcuno
-ha preparato per te?","……人家特地做的飲料，居然喝到昏倒，
+28,3045,,"Ma che maleducato, crollare dopo aver bevuto un
+succo che qualcuno ha preparato per te?","……人家特地做的飲料，居然喝到昏倒，
 你實在是太失禮了吧？",,"……남이 모처럼 만들어준 주스를 먹고 쓰러지다니
 실례에도 정도가 있지 않아?","Wie unhöflich muss man sein, um
 zusammenzubrechen, nachdem man Saft getrunken hat,
@@ -92,8 +96,9 @@ ich auch fürsorglich sein."
 에리카는 단것을 엄청나게 좋아해","Er war süß, stimmt’s? Sie bevorzugt ungewöhnlich
 süße Sachen."
 33,2020,,?!?!,！？！？,,!?!?,?!
-34,3045,,"Il succo che vendono non è mai abbastanza dolce. Ecco perché
-lo faccio sempre da me, nell'angolo delle bevande del bar.","市面上的果汁不夠甜，所以我每次都是自己做。
+34,3045,,"Il succo che vendono non è mai abbastanza dolce.
+Ecco perché lo faccio sempre da me,
+nell'angolo delle bevande del bar.","市面上的果汁不夠甜，所以我每次都是自己做。
 我在店裡的飲料區那邊做的喔。",,"시판되는 주스로는 당도가 부족해서 언제나 스스로 만들어.
 가게에 있는 드링크 코너에서 말이지","Die Säfte aus dem Laden sind nie süß genug.
 Darum mache ich immer meinen eigenen in der
@@ -110,19 +115,19 @@ Che ne dici di un altro bicchiere?","雖然我也覺得有點太甜了……但�
 schmeckt, wenn man sich daran gewöhnt hat.
 Möchtest du noch ein Glas?"
 37,3045,,Non c'è bisogno che tu abbia quell'aria disgustata.,……不用拒絕得那麼誇張吧。,,…그렇게까지 싫어할 건 없잖아,Du musst nicht so angewidert schauen.
-38,3045,,"Sarà forse un po' troppo dolce, ma cerco sempre di ottenere il giusto
-equilibrio di sapori.","雖然我也覺得有點太甜了……
+38,3045,,"Sarà forse un po' troppo dolce, ma cerco sempre
+di ottenere il giusto equilibrio di sapori.","雖然我也覺得有點太甜了……
 但我可是很講求味道做出來的耶。",,"그야 좀 지나치게 달다고는 생각했지만…
 맛도 제법 신경써서 만들었어","Er ist vielleicht ein bisschen zu süß, aber ich
 versuche immer, die Aromen optimal auszugleichen."
-39,3045,,"Mio fratello ne è sempre contento. Vedi, ha finito l'intero bicchiere
-in un colpo solo.","哥哥每次都是很開心的喝完喔。
+39,3045,,"Mio fratello ne è sempre contento. Vedi, ha finito
+l'intero bicchiere in un colpo solo.","哥哥每次都是很開心的喝完喔。
 現在也一樣，一口氣全部喝光了。",,"오빠는 항상 기쁘게 마셔주는걸.
 방금 전에도 전부 단숨에 마셔줬고","Meinem Bruder schmeckt er immer. Sieh nur, er hat
 das ganze Glas ex getrunken."
 40,2020,,?!,！？,,!?,?!
-41,3046,,"Non vorrei ferire i tuoi sentimenti. Sono il tuo fratello maggiore,
-dopotutto.","不能白費妹妹的心意。
+41,3046,,"Non vorrei ferire i tuoi sentimenti.
+Sono il tuo fratello maggiore, dopotutto.","不能白費妹妹的心意。
 這才是……哥哥啊。",,"여동생의 마음을 헛되게 할 수는 없지.
 그게……오빠라는 거다","Ich möchte deine Gefühle nicht verletzen.
 Immerhin bin ich dein großer Bruder."
