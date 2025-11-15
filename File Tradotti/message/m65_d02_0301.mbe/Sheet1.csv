@@ -1,10 +1,10 @@
 ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
-1,1392,,Eccovi! Da questa parte!,啊、來了來了！　在這邊在這邊！,,"아, 왔다 왔다! 여기 여기!",Da seid ihr ja! Hier drüben!
-2,1392,,Qui da qualche parte sono caduto!,就是這裡喔！　我就是掉在這附近！,,"여기야! 나, 이 부근에 떨어졌었어!",Hier irgendwo bin ich runtergefallen!
+1,1392,,Siete arrivati! Da questa parte!,啊、來了來了！　在這邊在這邊！,,"아, 왔다 왔다! 여기 여기!",Da seid ihr ja! Hier drüben!
+2,1392,,È qui! Sono caduto da queste parti!,就是這裡喔！　我就是掉在這附近！,,"여기야! 나, 이 부근에 떨어졌었어!",Hier irgendwo bin ich runtergefallen!
 3,2020,,...?,……？,,……?,...?
 4,1392,,Sono sicuro.,嗯，沒有錯喔。,,"응, 그래",Ich bin mir sicher.
 5,1392,,"Non vedo nulla che assomigli a un'interfaccia,
-ma so che siamo nel posto giusto.","現在雖然沒看到像連接處的地方，
+ma credo che sia qui da qualche parte.","現在雖然沒看到像連接處的地方，
 但我想一定在這邊。",,"지금은 접속부같은 건 보이지 않아.
 분명 이 부근이라고 생각하는데……","Ich sehe nichts, was nach einer Schnittstelle
 aussieht, aber ich weiß, dass wir hier
@@ -12,7 +12,7 @@ richtig sind."
 6,3045,,"La connessione potrebbe essere troppo instabile per essere vista.
 Aspetta. Cerco di stabilizzare i valori.","可能是連接太不安定了，所以才無法視認出來。
 等我一下，我試試看把數值安定下來。",,"접속이 너무 불안정해서 가시화하지 않은 것뿐일지도.
-기다려. 수치를 안정화시켜 볼게","Die Verbindung ist vielleicht zu instabil, um sie
+기다려. 수치를 안정화시켜 볼게","Die Verbindung ist vielleicht zu instabil, um sie zu
 zu sehen. Warte. Ich versuche, die Werte
 zu stabilisieren."
 7,2020,,...!,……！,,……!,...!
@@ -36,7 +36,7 @@ habe nur versucht, eine Verbindung herzustellen."
 13,2020,,...,…………,,…………,...
 14,1392,,Non potrai tornare nel Mondo Digitale attraverso questo buco.,用這個洞穴的話，能不能回到數碼世界呢？,,이 구멍을 통해 디지털 월드로도 돌아갈 수 있지 않을까,"Du wirst durch dieses Loch nicht zurück in die
 Digitale Welt gelangen können."
-15,3045,,"Sto usando la rete degli Eater per tenerla
+15,3045,,"L'ho forzato usando la rete degli Eater,
 aperta, quindi è impossibile.","這是我利用了侵食網路，強行打開的洞。
 所以是沒辦法的。",,"이터 네트워크를 사용해서 억지로 열었을 뿐.
 그러니 무리야","Ich verwende das Netzwerk der Verschlinger,
@@ -54,7 +54,7 @@ die Digitale Welt anzulegen."
 19,1392,,Davvero?!,真的嗎！？,,정말!?,Wirklich?!
 20,3045,,Sì.,嗯。,,응,Ja.
 21,3045,,"Okay, adesso conta.",好了，現在才是開始。,,"자, 여기부터가 진짜야","Okay, jetzt gilt es."
-22,3045,,"Una volta infiltrati nella rete dei Eater,
+22,3045,,"Una volta infiltrati nella rete degli Eater,
 dovremo mettere le mani su un Eater.",侵入侵食網路後，最少要捉到一隻侵食者。,,이터 네트워크에 침입하면 한 마리라도 좋으니까 이터를 확보해서,"Sobald wir das Netzwerk der Verschlinger
 infiltriert haben, müssen wir einen Verschlinger
 in die Hände kriegen."
@@ -73,7 +73,7 @@ Se saremo circondati dai Eater,
 li hackerò tutti!","交給我吧，艾莉卡！
 就算被侵食者包圍，我也會成功入侵他們的！",,"맡겨둬, 에리카!
 이터에 둘러싸여도 내가 해킹으로 해치워줄게!","Überlasst alles mir! Wenn wir von Verschlingern
-umzingelt werden, werde ich sie alle hacken!"
+umzingelt werden, werde ich sie alle hacken!" 
 26,3045,,Devi rimanere qui e fare la guardia.,你要負責留在這裡。,,너는 여기서 자리를 지켜,Du musst hierbleiben und Wache halten.
 27,1392,,Cosa?! Perché?,咦！？　……為什麼？,,에에!? …어째서어?,Was?! Wieso?
 28,3045,,"Qualcuno deve occuparsene qui.
@@ -110,7 +110,7 @@ Und der zukünftige Vorreiter!"
 37,1392,,Ci penso io!,好～要上了喔────！,,"좋아, 해낼 거야――――!",Ich mach das schon!
 38,3045,,...,…………,,…………,...
 39,2020,,?,？,,?,?
-40,3045,,"Non so cosa accadrà non appena entreremo nella rete dei Eater.","噓──畢竟我們不知道
+40,3045,,"Non so cosa accadrà non appena entreremo nella rete degli Eater.","噓──畢竟我們不知道
 在侵食網路裡會發生什麼。",,"쉿. 이터 네트워크 속에서는
 무슨 일이 일어날지 모르잖아","Ich weiß nicht, was passieren wird, sobald wir
 das Netzwerk der Verschlinger betreten."
@@ -118,7 +118,7 @@ das Netzwerk der Verschlinger betreten."
 42,3045,,"Wormmon non è per niente affidabile,
 e poi è anche un gran pasticcione...","今天的蟲蟲獸，總覺得非常危險。
 雖然他一直都少根筋……",,"오늘의 추추몬은 어쩐지 위태로워 보이는걸.
-뭐, 덜렁이인건 평소에도 그렇지만……","Wormmon ist nicht gerade zuverlässig, und ein
+뭐, 덜렁이인건 평소에도 그렇지만……","Wormmon ist nicht gerade zuverlässig, und ein Tollpatsch
 Tollpatsch ist er außerdem ..."
 43,3045,,Però vorrei proprio che qualcuno sorvegliasse l'ingresso.,但需要人看守入口是真的。,,누군가가 입구를 지키고 있기를 원한 건 사실이니까,"Aber ich möchte tatsächlich, dass jemand
 den Eingang bewacht."

@@ -2,14 +2,12 @@ ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
 1,1392,,Questo era il ricordo di Erika.,剛才的……是艾莉卡的記憶吧。,,방금 그건……에리카의 기억이네,Das war Erikas Erinnerung.
 2,2020,,...?,……？,,……?,...?
 3,1392,,"Non ti ricordi?
-Sul server di K... Yu è successo qualcosa di simile.","你忘了嗎？
+Sul server di K... di Yu, è successa una cosa simile.","你忘了嗎？
 在K……優的伺服器不是也有類似的狀況嗎？",,"저기, 기억 안나?
 K……유우의 서버에서도 비슷한 일이 있었잖아","Weißt du nicht mehr?
 Auf K... Yus Server ist etwas Ähnliches passiert."
-4,1392,,"Toccando il corpo di dati,
-che assomigliava a Yu,
-siamo riusciti a richiamare
-i suoi dati di memoria.","碰了跟優很像的資料體後，
+4,1392,,"Toccando quel corpo di dati che assomigliava a Yu,
+abbiamo potuto vedere i suoi ricordi.","碰了跟優很像的資料體後，
 我們就能看他的記憶資料了。",,"유우랑 똑같은 데이터체를 만졌더니 우리들이
 그의 기억 데이터를 열람할 수 있게 됐었지","Indem wir den Datenkorpus berührten,
 der wie Yu aussah, konnten wir seine
@@ -30,8 +28,8 @@ geschaffen wurde."
 8,2020,,???,？？？,,???,???
 9,1392,,Il manuale di Suedo dice quanto segue:,嗯，依據末堂明實給的手冊──,,그러니까 스에도 아케미에게서 받은 매뉴얼에 따르면――,Suedous Handbuch sagt Folgendes:
 10,1392,,"Quando estraiamo i ricordi dal server,
-Erika può accedervi in tempo reale,
-proprio come a dei normali ricordi.","艾莉卡在將記憶從伺服器取出時，能夠像普通的記憶一樣，
+Erika può accedervi quasi in tempo reale,
+proprio come con i ricordi normali.","艾莉卡在將記憶從伺服器取出時，能夠像普通的記憶一樣，
 以網路連結幾乎即時性的處理……",,"에리카의 기억을 서버에서 꺼낼 때 통상 기억과
 마찬가지로 거의 실시간으로 네트워크가 가능하지만…","Wenn wir die Erinnerungen vom Server ziehen,
 kann Erika in Echtzeit darauf zugreifen,
@@ -39,11 +37,11 @@ wie auf gewöhnliche Erinnerungen auch."
 11,1392,,"Con l'utilizzo, si attivano processi speciali,
 a cui segue uno strano „Tempo di ricerca“.","但原則上使用時，應該會因為要插入特殊處理
 而發生“奇怪的空檔(讀取時間)”。",,"원래는 그것을 사용할 때 특수한 처리가 추가되어서
-""탐색 시간""이 발생해","Bei der Verwendung setzen besondere Prozesse ein,
+""탐색 시간""이 발생해","Bei der Verwendung setzen besondere Prozesse ein, auf
 auf die eine merkwürdige „Suchzeit“ folgt."
 12,1392,,"Questo rende impossibile recuperare correttamente i dati,
 e rende difficile l'instaurazione di una comunicazione.","也因此，無法取出正確的資訊，
-很難將此機能運用在對話上。",,"그 때문에 정확한 정보를 끌어내지 못해서
+很難將此機能運用在對話上。",,"그 때문에 정확한 정보를 끌어내지 못해서 커뮤니케이션
 커뮤니케이션 이용이 어려워지게 돼","Das macht es unmöglich, Daten korrekt abzurufen,
 und erschwert den Aufbau von Kommunikation."
 13,1392,,"In altre parole, affinché i ricordi funzionino correttamente,
@@ -78,7 +76,7 @@ Welt gesehen hast."
 20,1392,,Forse ha qualcosa a che fare con lo spostamento digitale.,但應該，也是Digital Shift造成的影響吧,,이것도 디지털 시프트의 영향일지도 모르겠네,"Vielleicht hat es etwas mit der digitalen
 Verschiebung zu tun."
 21,2020,,...,…………,,…………,...
-22,1392,,"Ad ogni modo, andiamo avanti.",總之，往前進吧。,,어쨌든 앞으로 나아가자,Wie dem auch sei – gehen wir weiter.
+22,1392,,"In ogni caso, andiamo avanti.",總之，往前進吧。,,어쨌든 앞으로 나아가자,Wie dem auch sei – gehen wir weiter.
 23,1392,,"Ripristinare i ricordi di Erika ha la massima priorità.
 Cerchiamo il backup.","現在該做的是取回艾莉卡的記憶。
 找出有備份記憶的地方吧。",,"지금은 에리카의 기억을 되찾는게 선결이야.

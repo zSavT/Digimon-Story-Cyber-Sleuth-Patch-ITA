@@ -3,11 +3,11 @@ ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
 2,3015,,Dov'è? Dov'è Ryuji?!,那傢伙──龍司到哪去了！？,,그 녀석은―― 류지는 어디 갔냐!?,Wo steckt er? Wo ist Ryuji?!
 3,2020,,?!,！？,,!?,?!
 4,3015,,"Ho sentito cose terribili su di lui.
-Che dà la caccia a tutti gli hacker di EDEN!","我聽到不少跟他有關的糟糕傳聞，
+Che sta dando la caccia a tutti gli hacker di EDEN!","我聽到不少跟他有關的糟糕傳聞，
 例如在EDEN內狩獵駭客等等一類的……！",,"그 녀석에 대해서 좋지 않은 소문을 들었다고.
 EDEN에서 해커를 사냥하고 있다던가 뭐라던가…!","Ich habe Schlimmes über ihn gehört.
 Dass er Jagd auf alle Hacker in EDEN macht!"
-5,3015,,"Quindi glielo chiederò io stesso!
+5,3015,,"Sono qui per chiederglielo di persona!
 Ditemi dov'è! Ditemi dov'è, o vi arresterò!","所以我直接來問他到底發生什麼事了！
 告訴我他在哪裡，不然我就逮捕你啊！",,"무슨 일이 있었는지 직접 들으러 왔다!
 그 녀석의 위치를 불어, 안 그러면 체포한다 임마!","Also werde ich ihn selbst fragen! Sagt mir, wo er
@@ -25,7 +25,7 @@ indagini di polizia, ti porto subito con me!","妳才是，妳是哪裡來的傢
 polizeiliche Ermittlungen einmischst, nehme ich
 dich auch gleich mit!"
 8,3012,,"No, grazie. Non hai niente di meglio
-da fare che tormentare la gente?","哎呀真討厭……居然有時間在這打混，
+da fare che perdere tempo qui?","哎呀真討厭……居然有時間在這打混，
 警察都是這樣閒閒沒事做嗎？",,"아아 싫다… 이런데서 게으름을 피울 정도로
 경찰 씨는 한가한가아?","Nein, danke. Hast du nichts Besseres zu tun, als
 Leute zu piesacken?"
@@ -70,7 +70,7 @@ hat unser Mr. Nobody dich informiert?"
 20,3012,,Devi aiutarci a catturare Ryuji.,我們要抓到龍司，希望妳也來幫忙。,,류지를 잡는데 협력해 주시죠,"Du sollst uns helfen, Ryuji zu schnappen."
 21,3045,,... Lo so. Ci sto. Non possiamo semplicemente abbandonare Ryuji.,"……我知道，我也會參加。
 不能放著哥哥繼續這樣下去。",,"……알고 있어. 나도 참가할 거야.
-오빠를 이대로 내버려둘 수는 없으니까","... Weiß ich. Ich bin dabei.
+오빠를 이대로 내버려둘 수는 없으니까","... Weiß ich. Ich bin dabei. Wir können Ryuji nicht
 Wir können Ryuji nicht einfach aufgeben."
 22,3012,,Bene. Mi piace quando qualcuno va dritto al punto.,妳能快速理解，真是幫了大忙呢。,,"이거, 이야기가 빨라서 좋네예","Gut. Gefällt mir, wenn jemand direkt zur Sache
 kommt."
@@ -99,7 +99,7 @@ Questo non potevo saperlo!","別、別別、別人家……！？
 서서서, 설마, 너 류지의…… 그거냐…!?","Familie?! Du und Ryuji, ihr seid also ein Paar ...
 Das konnte ich ja nicht wissen!"
 29,3012,,Cosa dovrebbe significare?!,啊…………什麼啊！？,,하…………하아!?,Was soll das denn heißen?!
-30,3012,,"No, non siamo una coppia!
+30,3012,,"Ma che dici?! Non siamo una coppia!
 Intendevo dire, gli hacker sono una famiglia!","妳在那胡亂會錯意什麼啊！？
 我是指駭客圈內的意思啦！",,"무슨 불쾌한 착각을 하는 겁니까!?
 같은 해커팀이라는 의미의 식구란 말입니다!","Nein, wir sind kein Paar!
@@ -111,7 +111,7 @@ Ancora una parola, e ti meno, moralista!","我的心已經是YUGO大人的了！
 또 한번 말했다간 때려눕혀주겠습니다, 이 불량 경찰!","Ich habe nur Yuugo ins Herz geschlossen!
 Noch ein Wort, und es setzt was, Politesse!"
 32,3015,,"Non chiamarmi vigilessa!
-Subito ti spacco quel tuo sudicio muso!
+Ti spacco quel tuo muso!
 Questo è resistenza a pubblico ufficiale!","妳叫誰是流氓啊！
 用那種找碴口氣的明明是妳這混蛋吧！
 小心我用侮辱公務員罪逮捕妳啊！？",,"누가 불량이냐 임마! 헷갈리게 말한 건 네놈이잖아!
@@ -156,7 +156,7 @@ Ryuji, lei calcolerà il luogo del suo accesso.","妹妹就跟我一起先到EDE
 鎖定龍司的登入點位置。",,"여동생은 내와 함께 EDEN으로 가서
 내가 류지를 막고 있는 동안
 류지의 로그인 장소의 위치 정보를 알아내도록 해주시지요","Schwesterherz hier geht mit mir nach EDEN. Während
-ich Ryuji festhalte, wird sie den Ort seines
+ich Ryuji festhalte, wird sie den Ort seines Einloggens
 Einloggens berechnen."
 41,3012,,Allora ti diciamo dove si è loggato...,鎖定登入點位置後，你們就──,,댁이 로그인 장소를 알아내면――,"Dann sagen wir dir, wo er sich eingeloggt hat ..."
 42,3015,,"E poi io e lui andremo a prendere Ryuji!
