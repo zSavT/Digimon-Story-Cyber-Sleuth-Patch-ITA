@@ -1,12 +1,12 @@
 ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
-1,3046,,"Sanada...",真……田……,,사나…… 다……,Sanada ...
+1,3046,,"Sanada...","真……田……",,"사나…… 다……","Sanada ..."
 2,3046,,"Perché hai abbandonato Jude?
 Se fossi rimasto, la squadra non si sarebbe sciolta...","你為什麼，要捨棄Jude……
 只要有你在，隊伍就能繼續下去……但你卻……",,"어째서 쥬드를 버렸지……
 네가 있었으면 팀은 계속 이어졌어…… 그런데도…","Warum hast du Gamma verlassen?
 Wärst du geblieben, wäre das Team noch zusammen."
-3,1805,,"...",…………,,…………,...
-4,3046,,"Tutti ti ammiravano.",大家都是欣賞你才聚集而來的。,,"모두, 너에게 심취해서 모여들었다",Alle haben dich gemocht.
+3,1805,,"...","…………",,"…………","..."
+4,3046,,"Tutti ti ammiravano.","大家都是欣賞你才聚集而來的。",,"모두, 너에게 심취해서 모여들었다","Alle haben dich gemocht."
 5,3046,,"Io non ce la potevo fare...
 Solo tu potevi... eri l'unico!","靠我是不行的……
 不是你的話……就不行啊……！",,"나로는 안 돼……
@@ -16,7 +16,7 @@ Du warst der Einzige, der es konnte."
 ……回答我，真田！",,"어째서 이유도 말하지 않고 사라진 거냐
 ……대답해라, 사나다!","Warum bist du gegangen, ohne den Grund
 zu nennen? Antworte mir!"
-7,1805,,"...",………………,,………………,...
+7,1805,,"...","………………",,"………………","..."
 8,1805,,"Non è che non volessi dire il motivo... è che non potevo.","……我不是不說理由，
 而是無法說出來。",,"……말하지 않은 게 아냐.
 말하지 못한 거다","Es war nicht so, dass ich den Grund nicht nennen
@@ -46,7 +46,7 @@ Ma avevo dimenticato tutto.","在很久以前開始，我就沒有
 然而，我卻忘記了這件事。",,"한참 전부터 나에겐 사람 위에 설 자격같은 건 없었어.
 그런데도 나는 그걸 계속 잊고 있었다","Ich habe nie zum Anführer getaugt.
 Aber ich hatte vergessen, was passiert war."
-16,1805,,"È per questo che i nostri compagni di Jude sono morti.",Jude的夥伴們，也是因為這樣才犧牲的,,쥬드의 동료는 그 때문에 희생되고 말았어,"Das war es, was unsere Freunde von Gamma
+16,1805,,"È per questo che i nostri compagni di Jude sono morti.","Jude的夥伴們，也是因為這樣才犧牲的",,"쥬드의 동료는 그 때문에 희생되고 말았어","Das war es, was unsere Freunde von Gamma
 das Leben gekostet hat."
 17,1805,,"Quando abbiamo perso i nostri compagni in Under Zero,
 ho ""ricordato"" tutto.
@@ -68,7 +68,7 @@ zum Anführer gemacht."
 ……這樣有回答到你了嗎？",,"쥬드를 떠난 건 그게 이유다.
 ……답이 되었냐","Deshalb habe ich Gamma verlassen.
 Bist du jetzt zufrieden?"
-21,3046,,Sanada ...,……真田。,,……사나다,Sanada ...
+21,3046,,"Sanada ...","……真田。",,"……사나다","Sanada ..."
 22,1805,,"E anche se dici che non ne saresti stato capace...",……而且，雖然你說做不來。,,……게다가 자기는 못한다고 그러지만,"Du sagst, du hättest es nicht gekonnt."
 23,1805,,"...penso che saresti stato un ottimo leader.
 Hudie è una grande squadra, no?","但我覺得，你很適合當隊長啊。
@@ -113,22 +113,22 @@ Torniamo a casa, insieme.","艾莉卡在等著
 함께 돌아가자","Erika wartet.
 Chitose wartet.
 Gehen wir gemeinsam zurück."
-37,3046,,"Come potrei tornare indietro... dopo tutto quello che ho fatto?","現在……我哪還有臉…… ,,이제와서…… 무슨 면목으로……,"Wie kann ich zurück ... nach allem,
+37,3046,,"Come potrei tornare indietro... dopo tutto quello che ho fatto?","現在……我哪還有臉……",,"이제와서…… 무슨 면목으로……","Wie kann ich zurück ... nach allem,
 was ich getan habe?"
 38,3046,,"Né come leader di Hudie, né come fratello di Erika...","不管是作為hudie的隊長，還是艾莉卡的哥哥。
 我都……",,"후디에의 리더로서도 에리카의 오빠로서도
 나는……","Sei es als Anführer von Hudie oder als
 Erikas Bruder ..."
 39,3047,,"Smettila di piangerti addosso.","……別在那撒嬌了。",,"…응석부리지 마","Spar dir dein Selbstmitleid."
-40,3046,,Chitose!,千……歲……！,,치…토세……!,Chitose!
+40,3046,,"Chitose!","千……歲……！",,"치…토세……!","Chitose!"
 41,3047,,"Ho chiesto a Matayoshi di farmi uscire dall'ospedale. Scommetto che ora lì dentro è il caos più totale. Hehe.","我拜託又吉先生把我帶出醫院了。
 現在醫院應該大亂了吧，嘿嘿。",,"마타요시 씨에게 부탁해서 병원에서 데리고 나가달라고 했지.
 지금쯤 병원에선 대소동이 났을걸, 헤헷","Ich habe Matayoshi gebeten, mich aus dem
 Krankenhaus zu holen. Ich wette, da drüben
 herrscht jetzt das reinste Chaos. Hehe."
 42,3007,,"Farsi rapire dalla polizia... che razza di idea!","真是……居然叫警察來綁架，
-真是太誇張了啊！",,정말…… 경찰에게 유괴를 시키다니 터무니없는 자식이야!,Von der Polizei entführt! Unfassbar!
-43,3046,,"Chitose... stai bene... davvero.","千歲……你沒事了……是真的啊。,,치토세……무사…했었냐……정말로,Chitose ... Dir geht es wirklich gut.
+真是太誇張了啊！",,"정말…… 경찰에게 유괴를 시키다니 터무니없는 자식이야!","Von der Polizei entführt! Unfassbar!"
+43,3046,,"Chitose... stai bene... davvero.","千歲……你沒事了……是真的啊。",,"치토세……무사…했었냐……정말로","Chitose ... Dir geht es wirklich gut."
 44,3047,,"Sì. Sto benissimo.","喔，就是這樣。",,"물론, 그렇지","Jepp. Mir geht’s prima."
 45,3047,,"Ryuji ... Tu ...","龍司……你啊──",,"류지…… 너――","Ryuji ... Du ..."
 48,3047,,"Mettere a soqquadro EDEN e Tokyo?! Ma che ti è saltato in mente?!
@@ -203,5 +203,5 @@ Non far piangere i tuoi ""fratellini""... capo!","不用想那些理由藉口，
 ""아우""를 울리지 말라고…… 형님!","Du musst gar nichts sagen. Komm nur zurück.
 Wir warten alle auf dich."
 59,3046,,"Chitose ...","……千歲。",,"……치토세","Chitose ..."
-60,3007,,"Hehe, mi ha tolto le parole di bocca.",……嘿嘿，我想說的全都被說完了啊。,,"……헤헷, 내가 하고 싶은 말은 이걸로 전부 해버렸네","Hehe, das wollte ich gerade sagen."
-61,3046,,Io...,…………我──,,…………나는――,Ich ...
+60,3007,,"Hehe, mi ha tolto le parole di bocca.","……嘿嘿，我想說的全都被說完了啊。",,"……헤헷, 내가 하고 싶은 말은 이걸로 전부 해버렸네","Hehe, das wollte ich gerade sagen."
+61,3046,,"Io...","…………我──",,"…………나는――","Ich ..."

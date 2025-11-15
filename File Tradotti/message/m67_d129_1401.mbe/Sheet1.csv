@@ -1,22 +1,22 @@
 ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
-1,3045,,Gnh...,嗯……,,응……,Argh ...
-2,3045,,Dove sono?,這裡是……？,,여긴……?,Wo bin ich?
-3,3045,,Un Eater?,侵食者……？,,이터…?,Ein Verschlinger?
-4,1800,,Non... tro...,沒……有……,,없…… 어……,Ka... fi...
-5,3045,,"Stai... parlando?","……你，會說話嗎？,,"……너, 말을?","Versuchst du, was zu sagen?"
-6,1800,,Non... trovo...,沒有……找不到……,,없어… 안 보여……,Kann ... nicht finden ...
-7,3045,,Cosa stai cercando?,……你在找什麼？,,……뭘 찾고 있는거야?,Wonach suchst du?
+1,3045,,"Gnh...","嗯……",,"응……","Argh ..."
+2,3045,,"Dove sono?","這裡是……？",,"여긴……?","Wo bin ich?"
+3,3045,,"Un Eater?","侵食者……？",,"이터…?","Ein Verschlinger?"
+4,1800,,"Non... tro...","沒……有……",,"없…… 어……","Ka... fi..."
+5,3045,,"Stai... parlando?","……你，會說話嗎？",,"……너, 말을?","Versuchst du, was zu sagen?"
+6,1800,,"Non... trovo...","沒有……找不到……",,"없어… 안 보여……","Kann ... nicht finden ..."
+7,3045,,"Cosa stai cercando?","……你在找什麼？",,"……뭘 찾고 있는거야?","Wonach suchst du?"
 8,1800,,"Voglio... andare...
 nel... Mondo... Digitale...","……我想去…………
 數……世……",,"……싶어…………
 월……드……","Wi... in ...
 Digi... we..."
-9,1800,,Voglio... andare...,……想……去,,……가……싶어,Ich will ... in die ...
+9,1800,,"Voglio... andare...","……想……去",,"……가……싶어","Ich will ... in die ..."
 10,3045,,"Ah! Sei tu!","……！
 你……！",,"……!
 너……!",He! Du bist es!
-11,1392,,...Erika... Erika!,……莉卡……艾莉卡！,,……리카…… 에리카!,...rika ... Erika ...
-12,3045,,Wormmon?!,蟲蟲獸！？,,추추몬!?,Wormmon?!
+11,1392,,"...Erika... Erika!","……莉卡……艾莉卡！",,"……리카…… 에리카!","...rika ... Erika ..."
+12,3045,,"Wormmon?!","蟲蟲獸！？",,"추추몬!?","Wormmon?!"
 13,1392,,"Meno male! Stai bene!
 Ti sto contattando tramite il tuo server di memoria!","太好了！沒事就好！
 我現在是透過艾莉卡的記憶伺服器才連結上的！",,"다행이다! 무사했구나!
@@ -35,7 +35,7 @@ I miei dati mentali lo hanno influenzato.","怎麼辦……都是我的錯。
 因為我的精神數據……害這孩子被我影響了。",,"어쩌지……나 때문이야.
 내 정신 데이터 때문에…… 이 아이가 영향을 받아버렸어","Was kann ich tun? Es ist meine Schuld.
 Meine Mentaldaten haben ihm das angetan."
-18,3045,,Sono stata io!,被我給……！,,내가……!,Ich war es!
+18,3045,,"Sono stata io!","被我給……！",,"내가……!","Ich war es!"
 19,1392,,"Calmati, Erika! Ti salveremo!
 Dov'è adesso?","冷靜一點艾莉卡！我們會去救妳的！
 妳現在在哪裡！？",,"진정해, 에리카! 우리가 구하러 갈게!
@@ -64,4 +64,4 @@ Eri...","艾莉卡！？……聽不到……聽……
 艾……莉―――",,"에리카!? ……안 들……려……
 에…리―――","Erika?! Ich kann ... ni... hö...
 Eri..."
-24,3045,,Wormmon!,蟲蟲獸！,,추추몬!,Wormmon!
+24,3045,,"Wormmon!","蟲蟲獸！",,"추추몬!","Wormmon!"

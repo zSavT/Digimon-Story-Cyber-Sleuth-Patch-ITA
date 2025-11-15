@@ -1,20 +1,20 @@
 ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
-1,3046,,"Che succede?!",怎麼了！？,,무슨 일이야!?,Was ist passiert?!
+1,3046,,"Che succede?!","怎麼了！？",,"무슨 일이야!?","Was ist passiert?!"
 2,1392,,"[p] non può farcela da solo!
-Di questo passo...!",只有[p]一個人擋不住！　這樣下去的話……！,,[p] 혼자서는 돌파할 수 없어! 이대로라면……!,"[p] schafft es nicht allein!
+Di questo passo...!","只有[p]一個人擋不住！　這樣下去的話……！",,"[p] 혼자서는 돌파할 수 없어! 이대로라면……!","[p] schafft es nicht allein!
 Das wird nichts!"
-3,3047,,"Maledizione, se solo potessimo andare anche noi...!",可惡，要是我們也能去那裡的話──！,,젠장 우리들도 그쪽으로 갈 수만 있다면――!,Wir müssen da hin!
+3,3047,,"Maledizione, se solo potessimo andare anche noi...!","可惡，要是我們也能去那裡的話──！",,"젠장 우리들도 그쪽으로 갈 수만 있다면――!","Wir müssen da hin!"
 4,7071,,"Basta così... Fermatevi.","已經夠了……
 住手吧。",,"이제 됐어…
-이제 그만해",Es ist schon gut. Ihr könnt jetzt aufhören.
-5,1392,,Erika?!,艾莉卡！？,,에리카!?,Erika?!
+이제 그만해","Es ist schon gut. Ihr könnt jetzt aufhören."
+5,1392,,"Erika?!","艾莉卡！？",,"에리카!?","Erika?!"
 6,3045,,"L'erosione degli Eater non può più essere fermata.
 Prendi gli altri e fuggite.","已經無法阻止侵食者的侵蝕了，
 快帶著哥哥他們逃走吧。",,"이터의 침식은 이제 막을 수 없어.
 오빠들을 데리고 도망가","Die Abtragung durch den Verschlinger kann nicht
 beendet werden. Nimm die anderen mit und
 bringt euch in Sicherheit."
-7,2020,,...!,……！！,,……!!,...!
+7,2020,,"...!","……！！",,"……!!","...!"
 8,2020,,"Non possiamo arrenderci!
 Non dire una cosa simile!
 ...","不能放棄！
@@ -30,18 +30,18 @@ Anche se li sconfiggerete, io...","我的身體……已經完全被侵食者占
 이터를 쓰러뜨린다고 해도 이제 나는――","Mein Körper wurde von dem Verschlinger vollständig
 assimiliert. Wenn ihr ihn tötet, werde ich
 aufhören zu existieren."
-10,3046,,No!,什……！,,뭐라고……!,Nein!
-11,3047,,"Siamo... arrivati troppo tardi...?!",我們……來不及了嗎……！？,,우리들…… 너무 늦었던 거야…!?,Sind wir zu spät gekommen?!
-12,2020,,...!,……！,,……!,...!
+10,3046,,"No!","什……！",,"뭐라고……!","Nein!"
+11,3047,,"Siamo... arrivati troppo tardi...?!","我們……來不及了嗎……！？",,"우리들…… 너무 늦었던 거야…!?","Sind wir zu spät gekommen?!"
+12,2020,,"...!","……！",,"……!","...!"
 13,3045,,"Per favore, andatevene. Farò in modo che l'erosione non si diffonda nel mondo reale.","所以回去吧，
 我會想辦法阻止侵食者侵蝕到外面的世界的。",,"그러니까 돌아가. 이터의 침식이 바깥 세계까지 퍼지는 것만큼은
 내가 어떻게든 막을 테니까","Bitte geht. Ich kann verhindern, dass sich die
 Abtragung auf die echte Welt ausbreitet."
-14,3045,,"Non permetterò agli Eater di fuggire, anche se dovesse costarmi la vita!","就算我會消失，也絕對不會讓侵食者往外侵蝕……！,,"설령 이대로 사라져버린다 해도 
+14,3045,,"Non permetterò agli Eater di fuggire, anche se dovesse costarmi la vita!","就算我會消失，也絕對不會讓侵食者往外侵蝕……！",,"설령 이대로 사라져버린다 해도 
 이터를 밖으로는 내보내지 않겠어…!","Ich kann nicht zulassen, dass der Verschlinger
 entwischt, auch wenn es mich mein Leben kostet!"
-15,1392,,Non può essere vero!,……妳騙人！,,……거짓말이야!,Das kann nicht wahr sein!
-16,3045,,Wormmon ...,……蟲蟲獸。,,……추추몬,Wormmon ...
+15,1392,,"Non può essere vero!","……妳騙人！",,"……거짓말이야!","Das kann nicht wahr sein!"
+16,3045,,"Wormmon ...","……蟲蟲獸。",,"……추추몬","Wormmon ..."
 17,1392,,"Erika non lo vorrebbe! ""Io"" non lo voglio!","艾莉卡絕對不會這麼希望！
 因為……“我”不想要那樣！",,"에리카는 그런걸 원하지 않아!
 왜냐면… ""나""는 그런 것을 생각하지 않는걸!",Erika würde das nicht wollen! Ich will es nicht!
@@ -53,8 +53,7 @@ Erinnerung mit mir geteilt."
 19,1392,,"Io sono Erika, e Erika è me...!
 Il mio desiderio è il desiderio di Erika!","我就是艾莉卡，艾莉卡就是我……！
 所以我的願望，就是艾莉卡的願望！",,"나는 에리카, 에리카는 나…!
-나의 소원은 에리카의 소원이야!","Ich bin Erika und sie ist ich! Ich will, was sie
-will!"
+나의 소원은 에리카의 소원이야!","Ich bin Erika und sie ist ich! Ich will, was sie will!"
 20,1392,,"Più di chiunque altro, Erika... vuole tornare da Hudie!","艾莉卡……其實比任何人都還想回到hudie才對！,,에리카는…… 사실은 누구보다도 후디에로 돌아오고 싶잖아!,"Mehr als alles andere will sie zu Hudie
 zurück!"
 21,1392,,"Ci sono ancora tante cose che vuole vedere e fare!
@@ -62,7 +61,7 @@ Facciamole tutte!","想做的事、想看的事應該還有很多！
 全部都去做吧！",,"하고 싶은 일도, 보고 싶은 것도 아직 잔뜩 있었잖아!
 전부 하자!","Es gibt noch so vieles, was sie sehen und tun
 möchte! Und das ist auch der Plan!"
-22,1392,,Andiamo insieme al Mondo Digitale!,也一起去數碼世界吧！,,같이 디지털 월드에도 가자!,Gehen wir gemeinsam zur Digitalen Welt!
+22,1392,,"Andiamo insieme al Mondo Digitale!","也一起去數碼世界吧！",,"같이 디지털 월드에도 가자!","Gehen wir gemeinsam zur Digitalen Welt!"
 23,1392,,"Andiamo all'avventura! Con Ryuji, Chitose...
 e [p]... tutti insieme!","走吧，去冒險吧！
 和龍司、千歲……還有[p]……大家一起！",,"가서 모험하자!
@@ -78,7 +77,7 @@ Che facciamo, Ryuji?","我聽到了。小姐的夢想，還是這麼的宏大啊
 怎麼辦啊，龍司？",,"다 들리는데.
 이건 또 장대한 꿈을 가지고 있었네, 아가씨. 어쩌지 류지","Hast du das gehört? Sie hatte noch so viele
 Träume. Was können wir tun?"
-26,3046,,Non lo so.,……一言難盡啊。,,…어쩌고 자시고도 없지,Ich weiß es nicht.
+26,3046,,"Non lo so.","……一言難盡啊。",,"…어쩌고 자시고도 없지","Ich weiß es nicht."
 27,3046,,"Erika, lasciami scusare.
 Perdonami per essere stato un fratello così inutile...","艾莉卡，給我一個道歉的機會，
 都是我這個沒用哥哥的錯……",,"에리카, 너에게 사과하게 해줘.
@@ -86,17 +85,17 @@ Perdonami per essere stato un fratello così inutile...","艾莉卡，給我一�
 Bruder sein, den du gebraucht hast."
 28,3046,,"Ma le scuse a parole non servono a nulla.
 Quindi...","但是光口頭上說說也無法表達我的歉意。
-所以──",,"그렇지만 말로만 하는 사죄로는 아무 해결도 안돼.
+所以──",,"그렇지만 말로만 하는 사죄로는 아무 해결도 안 돼.
 그러니까――","Aber ich weiß, dass eine Entschuldigung nichts als
 heiße Luft ist also ..."
-29,3046,,D'ora in poi, esaudirò ogni tuo capriccio!,所以從今以後，不管妳有多任性的要求，我都會聽！,,그러니까 앞으로는 네가 어떤 억지를 부리더라도 들어주지!,"Also werde ich ab jetzt alles tun, was du willst!"
-30,3046,,Torna da noi! Erika! A qualunque costo!,回來吧！　艾莉卡！　不管用什麼辦法！,,돌아와! 에리카! 무슨 수를 써서라도!,"Komm nur zurück! Erika! Egal, was dafür nötig ist!"
+29,3046,,"D'ora in poi, esaudirò ogni tuo capriccio!","所以從今以後，不管妳有多任性的要求，我都會聽！",,"그러니까 앞으로는 네가 어떤 억지를 부리더라도 들어주지!","Also werde ich ab jetzt alles tun, was du willst!"
+30,3046,,"Torna da noi! Erika! A qualunque costo!","回來吧！　艾莉卡！　不管用什麼辦法！",,"돌아와! 에리카! 무슨 수를 써서라도!","Komm nur zurück! Erika! Egal, was dafür nötig ist!"
 31,3046,,"Ti porterò ovunque tu voglia!
 Nel Mondo Digitale o in qualsiasi altro posto!","以後妳想去數碼世界還是任何地方，
 我都會帶妳去！",,"디지털 월드든 어디든
 원하는 곳으로 데려가 주겠어!","Ich bringe dich hin, wo du willst! In die Digitale
 Welt oder wohin auch immer!"
-32,3045,,...!,…………！,,…………!,...!
+32,3045,,"...!","…………！",,"…………!","...!"
 33,3047,,"Ahah... dici sul serio?
 Parli bene, fratellone...","哈哈……真的嗎？
 講得那麼輕鬆，這個哥哥啊……",,"하하… 진짜냐
@@ -112,17 +111,17 @@ Digitalen Welt sein könnten!"
 E tu?! Leader!","我也贊成，小姐！
 你呢！？　隊長！",,"나도 찬성이야, 아가씨!
 너는 어때!? 리더!","Ich bin dabei! Was ist mit dir, Anführer?!"
-36,3045,,Io...,大家……,,모두들……,Ich ...
-37,3045,,Io...,我……,,난……,Ich ...
+36,3045,,"Io...","大家……",,"모두들……","Ich ..."
+37,3045,,"Io...","我……",,"난……","Ich ..."
 38,3045,,"Anch'io voglio andare...
 con tutti voi...!","我也想去……
 和大家一起──！",,"나도, 가고싶어……
 모두와 함께――!",Ich will auch mitkommen ... mit euch allen!
-39,2020,,...!,……！！,,……!!,...!
-40,3046,,Erika?!,艾莉卡！？,,에리카!?,Erika?!
-41,2020,,...?!,……！？！？,,……!?!?,...?!
-42,7157,,...,…………,,…………,...
-43,2020,,...,…………,,…………,...
+39,2020,,"...!","……！！",,"……!!","...!"
+40,3046,,"Erika?!","艾莉卡！？",,"에리카!?","Erika?!"
+41,2020,,"...?!","……！？！？",,"……!?!?","...?!"
+42,7157,,"...","…………",,"…………","..."
+43,2020,,"...","…………",,"…………","..."
 44,2020,,"Wormmon?
 Erika?
 Cosa sei diventata...?","蟲蟲獸？
@@ -137,10 +136,10 @@ La nuova forma... nata da Erika e Wormmon.","我是……“羽蝶獸”。
 這是艾莉卡和蟲蟲獸的……新容貌。",,"나는…… ""후디에몬""
 에리카와 추추몬의…… 새로운 모습","Ich bin Hudiemon. Ich bin neu ... aus
 Erika und Wormmon entstanden."
-46,2020,,...?! ,……！？！？,,…!?!?,...?! 
+46,2020,,"...?!","……！？！？",,"…!?!?","...?!" 
 47,7158,,"Le spiegazioni per dopo!
 Ora... dobbiamo fermarlo!","之後再詳細說明！
 現在……要想辦法阻止那傢伙！",,"자세한 설명은 나중이야!
 지금은…… 저 녀석을 어떻게든 하자!","Ich erkläre es später!
 Bringen wir das erst mal zu Ende!"
-48,2020,,...!,……！,,…!,...!
+48,2020,,"...!","……！",,"…!","...!"

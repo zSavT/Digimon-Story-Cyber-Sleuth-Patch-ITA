@@ -4,10 +4,10 @@ Che sta succedendo?!","一段時間連絡不上……
 發生了什麼事……！？",,"통신이 끊긴지 한참 지났는데…
 어떻게 됐지…!?","Die Kommunikation war länger nicht möglich.
 Was passiert gerade?"
-2,3046,,...,…………,,…………,...
-3,7057,,...!,……！！,,……!!,...!
-4,1022,,"È finita... La Legione Eater è stata annientata.",結束了……消滅侵食者軍團了。,,끝났어…… 이터 레기온은 소멸했어,Es ist vorbei. Der Verschlinger-Ableger ist weg.
-5,3046,,Questa voce... Sei tu... Erika?!,這個聲音……妳……是艾莉卡嗎！？,,그 목소리…… 너…… 에리카인가!?,Diese Stimme ... Bist das du ... Erika?!
+2,3046,,"...","…………",,"…………","..."
+3,7057,,"...!","……！！",,"……!!","...!"
+4,1022,,"È finita... La Legione Eater è stata annientata.","結束了……消滅侵食者軍團了。",,"끝났어…… 이터 레기온은 소멸했어","Es ist vorbei. Der Verschlinger-Ableger ist weg."
+5,3046,,"Questa voce... Sei tu... Erika?!","這個聲音……妳……是艾莉卡嗎！？",,"그 목소리…… 너…… 에리카인가!?","Diese Stimme ... Bist das du ... Erika?!"
 6,1022,,"Non è così semplice.
 Sono Erika... e allo stesso tempo non lo sono.","……有點不太一樣，
 我既是艾莉卡，也不完全是艾莉卡。",,"……조금 달라.
@@ -22,10 +22,10 @@ von der alten Erika."
 8,3047,,"Una nuova forma...?! Quindi ora sei un Digimon?!","小姐的……新姿態！？！？
 這是說小姐變成數碼寶貝了嗎！？",,"아가씨의…… 새로운 모습!?!?
 아가씨가 디지몬이 됐다는 거야!?",Eine neue Erika?! Bist du jetzt ein Digimon?!
-9,3046,,...,…………,,…………,...
-10,3046,,...,…………,,…………,...
-11,3047,,...,…………,,…………,...
-12,2020,,...,…………,,…………,...
+9,3046,,"...","…………",,"…………","..."
+10,3046,,"...","…………",,"…………","..."
+11,3047,,"...","…………",,"…………","..."
+12,2020,,"...","…………",,"…………","..."
 13,1022,,"Eh? Oh? Dov'è [p]?
 Pensavo fosse uscito dal server dei ricordi con me...","嗯？　咦？　[p]去哪裡了？
 不是和我一起跑來記憶伺服器了嗎……",,"응? 어라? [p], 어디 갔지?
@@ -36,8 +36,8 @@ Non ti avevo proprio visto...","咦！？　你在我的腳下做什麼啊！？
 我完全沒有發現呢……",,"에엑!? 너 그런 데서 뭐해!?
 전혀 알아차리지 못했어","Was? Was machst du denn hier? Ich habe dich
 nicht gesehen."
-914,1022,,Ops... ecco fatto...,嘿咻……,,영차……,Hm. Na schön ...
-15,2020,,...,…………,,…………,...
+914,1022,,"Ops... ecco fatto...","嘿咻……",,"영차……","Hm. Na schön ..."
+15,2020,,"...","…………",,"…………","..."
 16,1022,,"...Ehm!
 Allora? Che ne pensi?
 Il mio nuovo io è forte, no?","……嗯哼！
@@ -54,9 +54,9 @@ sie mich an Wormmon."
 Ehm... tu che ne pensi, fratellone?","……竟然可以這樣？
 艾莉卡的哥哥，你……覺得心情如何？",,"……이런게 가능해?
 어……어떻습니까, 오빠가 보기에는",Ist das überhaupt möglich? Was meinst du?
-19,3046,,... Mi dispiace. Ho bisogno di un momento.,"…………………………對不起，
+19,3046,,"... Mi dispiace. Ho bisogno di un momento.","…………………………對不起，
 稍微……給我一點時間。",,"……………………………………
-……미안, 좀……시간을 줘",... Tut mir leid. Ich brauche einen Moment.
+……미안, 좀……시간을 줘","... Tut mir leid. Ich brauche einen Moment."
 20,3047,,"Già! Certo!
 Se tua sorella si trasforma all'improvviso in un Digimon, è normale aver bisogno di un attimo!
 È una reazione più che comprensibile, Ryuji!","嗯！　也是！
@@ -66,11 +66,11 @@ Se tua sorella si trasforma all'improvviso in un Digimon, è normale aver bisogn
 그거 제대로 된 반응이라고 생각해, 류지이!","Ja! Das bräuchte ich auch, wenn meine Schwester
 sich gerade in ein Digimon verwandelt hätte!
 Das ist durchaus verständlich!"
-21,2020,,...,…………,,…………,...
-22,2020,,"...A dire il vero, sono confuso anch'io.",……老實說，我也很困惑。,,……나도 솔직히 당황했어,"Ich muss zugeben, dass ich verwirrt bin."
-23,1022,,...,…………,,…………,...
+21,2020,,"...","…………",,"…………","..."
+22,2020,,"...A dire il vero, sono confuso anch'io.","……老實說，我也很困惑。",,"……나도 솔직히 당황했어","Ich muss zugeben, dass ich verwirrt bin."
+23,1022,,"...","…………",,"…………","..."
 24,2020,,"Ma... sento che sei proprio tu, Erika.",但是……的確是艾莉卡。,,"그렇지만…… 분명히 ""에리카""가 느껴져","Aber ... ich glaube schon, dass es Erika ist."
-25,1022,,...!,……！,,……!,...!
+25,1022,,"...!","……！",,"……!","...!"
 26,3047,,"...Beh, che dire...
 Il modo in cui ci siamo riuniti è stato un po'... anzi, molto sorprendente,
 ma finalmente Hudie è di nuovo al completo!","……也是，雖然最後匯合方式有一點，
@@ -90,9 +90,9 @@ solche Sorgen gemacht!"
 28,3046,,"...Già. Non importa che aspetto tu abbia, sei sempre tu.",…………對，不管是什麼樣子，妳就是妳。,,…………아아. 어떤 형태든 너는 너야,"Genau. Egal, wie du aussiehst, du bist immer
 noch du."
 29,3046,,"Bentornata, Erika.",……歡迎回來，艾莉卡。,,"……잘 돌아왔어, 에리카","Willkommen zurück, Erika."
-30,1022,,"...Sì! Sono a casa!",……嗯，我回來了！,,"……응, 다녀왔어!","Danke! Es ist schön, wieder hier zu sein!"
-31,3046,,Cosa diavolo...?!,怎麼了……！？,,뭐지……!?,Was zum ...?!
-32,3047,,Gli Eater si stanno radunando sul server dei ricordi di Erika?!,侵食者往小姐的伺服器聚集而來了……！？,,이터가 아가씨의 기억 서버로 몰려들고 있어…!?,"Die Verschlinger versammeln sich auf Erikas
+30,1022,,"...Sì! Sono a casa!","……嗯，我回來了！",,"……응, 다녀왔어!","Danke! Es ist schön, wieder hier zu sein!"
+31,3046,,"Cosa diavolo...?!","怎麼了……！？",,"뭐지……!?","Was zum ...?!"
+32,3047,,"Gli Eater si stanno radunando sul server dei ricordi di Erika?!","侵食者往小姐的伺服器聚集而來了……！？",,"이터가 아가씨의 기억 서버로 몰려들고 있어…!?","Die Verschlinger versammeln sich auf Erikas
 Server?!"
 33,1022,,"Anche se la Legione è stata sconfitta, l'erosione di EDEN non si ferma...
 L'influenza dell'io di Erika si è diffusa fin qui...!","明明就打倒了軍團，EDEN的侵蝕卻沒有停下來……
@@ -172,7 +172,7 @@ la ""curiosità"" per il mondo esterno e... la ""nostalgia"".","我給了那孩�
 그건 바깥 세계에 대한 ""호기심""과… ""향수""야","Er trägt zwei meiner Erinnerungen: Neugier, was
 die Welt da draußen angeht, und ... Heimweh."
 54,1022,,"Questi due ricordi sembrano molto diversi,
-ma in fondo sono la stessa cosa.","這兩個記憶看似毫無關連，但其實是相同的。,,그 두가지는 완전히 다른 것 같으면서도 같은 것,"Das klingt wie zwei sehr verschiedene Sachen,
+ma in fondo sono la stessa cosa.","這兩個記憶看似毫無關連，但其實是相同的。",,"그 두가지는 완전히 다른 것 같으면서도 같은 것","Das klingt wie zwei sehr verschiedene Sachen,
 aber im Grunde ist es das Gleiche."
 55,1022,,"Il desiderio di fuggire da un mondo piccolo, di vedere un mondo sconosciuto...
 e il desiderio di tornare in un luogo familiare.","想從狹小的世界中飛奔出去、想見識未知的世界，
@@ -185,23 +185,23 @@ Proprio come me, un tempo.","那孩子也這麼想，
 就像我曾經想過的一樣。",,"저 아이도 그렇게 생각하고 있어.
 내가 그랬던 것처럼","So habe ich mich gefühlt, und er will jetzt das
 Gleiche."
-57,2020,,...,…………,,…………,...
+57,2020,,"...","…………",,"…………","..."
 58,1022,,"Anche quella è una forma di ""Erika"".
 Non è diverso da me, che mi sono evoluto da lei.","那也是“艾莉卡”的其中一個容貌，
 和從艾莉卡進化的我，是一樣的。",,"저것도 ""에리카""의 한 가지 모습.
 에리카로부터 ""진화""한 나와 조금도 다르지 않아","Er ist eine weitere Erika. Er hat sich ebenso wie
 ich aus ihr entwickelt."
-59,3047,,"E noi... dobbiamo sconfiggerlo...?",我們……只能將他打倒了嗎……,,그걸… 우리는 쓰러뜨려야 한다는 건가…,Müssen wir ihn zerstören?
-60,1022,,"""Io""... voglio sconfiggerlo.","“我”……想打倒他。,,"""나""는…… 쓰러뜨리고 싶어","Ich glaube, das wäre das Beste."
+59,3047,,"E noi... dobbiamo sconfiggerlo...?","我們……只能將他打倒了嗎……",,"그걸… 우리는 쓰러뜨려야 한다는 건가…","Müssen wir ihn zerstören?"
+60,1022,,"""Io""... voglio sconfiggerlo.","“我”……想打倒他。",,"""나""는…… 쓰러뜨리고 싶어","Ich glaube, das wäre das Beste."
 61,1022,,"Non solo per riprenderci EDEN.
 Voglio riportarlo nel luogo a cui appartiene.","不只是為了奪回EDEN，
 也是為了讓那孩子回到他的居所。",,"EDEN을 되찾기 위해서만이 아냐.
 저 아이를 원래 장소로 돌려보내주고 싶어","Aber nicht, um EDEN wiederzubekommen. Ich möchte,
 dass er wieder dort ist, wo er hingehört."
-62,1022,,Anche se questo è solo un mio egoismo.,……就算這只是我的自私。,,……설령 그게 나의 이기심일 뿐이라고 해도,Selbst wenn er nur mein Geist ist.
+62,1022,,"Anche se questo è solo un mio egoismo.","……就算這只是我的自私。",,"……설령 그게 나의 이기심일 뿐이라고 해도","Selbst wenn er nur mein Geist ist."
 63,1022,,"L'erosione si è estesa a tutto EDEN.
 Il nostro avversario è l'intero cyberspazio.","侵蝕已經擴散到整個EDEN了，
 我們的對手是這整個電腦空間。",,"이제 침식은 EDEN 전체에 미치고 있어.
 이미 이 전뇌공간 그 자체가 상대야","In ganz EDEN wurden Teile abgetragen.
 Wir müssen es mit dem Cyberspace selbst aufnehmen."
-64,1022,,"Anche così... combatterete?",就算這樣──你們也要戰鬥嗎？,,그래도―― 싸울 생각이 있어?,Seid ihr trotzdem bereit zu kämpfen?
+64,1022,,"Anche così... combatterete?","就算這樣──你們也要戰鬥嗎？",,"그래도―― 싸울 생각이 있어?","Seid ihr trotzdem bereit zu kämpfen?"
