@@ -1,5 +1,5 @@
 ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
-1,3015,,Sembra che abbiano iniziato.,……好像開始了呢！,,……시작된 모양이야!,Sie haben wohl begonnen.
+1,3015,,"Sembra che abbiano iniziato.",……好像開始了呢！,,……시작된 모양이야!,Sie haben wohl begonnen.
 2,3046,,"Mi dispiace, Matayoshi...",……又吉先生，不好意思。,,…………마타요시 씨. 죄송합니다,"Tut mir leid, Matayoshi ..."
 3,3015,,Non preoccuparti per lui. Sa quello che fa.,別在意，又吉叔之前說過：,,신경쓰지 마. 마타요시 씨가 말했어,"Mach dir keine Sorgen um ihn. Er weiß, was er tut."
 4,3015,,"Ha detto: ""Avere un'ultima occasione per fare faville prima
@@ -10,20 +10,20 @@ Quando sarà tutto finito, andremo a bere qualcosa con lui! Intesi?","“在退�
 모든 것이 끝나면 마타요시 씨와 다 같이 마시러 가자고! 알겠지!","Er meinte: „Das mache ich gern. Vor meiner
 Pensionierung zeig ich noch, wo der Hammer hängt.“
 Wir werden ihm wohl ein paar Drinks schulden."
-5,3046,,...Sì.,……好。,,……그래,Oh ...
+5,3046,,"...Sì.",……好。,,……그래,Oh ...
 6,7062,,"C'è un trambusto al piano di sopra. Radunate gli uomini.
 Io mi occupo di questo posto!","上面好像發生了什麼事，把人都召集過來。
 這裡交給你了！",,"위에서 소동이 일어났다. 사람을 모아라.
 여기는 맡긴다!","Da oben herrscht Chaos. Gehen Sie hin und helfen
 Sie! Ich regle das hier!"
-7,7063,,Agli ordini!,是！,,넵!,Jawohl!
+7,7063,,"Agli ordini!",是！,,넵!,Jawohl!
 8,7063,,"Certo che è un bel disastro...
 Speriamo solo che non salti fuori qualche strano mostro...","唉呀唉呀……真是災難啊，
 希望別出現什麼可怕的怪物──",,"이런이런…… 큰일이로군.
 묘한 괴물이 나오지 않았으면 좋겠는데――","Das hat mir gerade noch gefehlt. Hoffentlich
 taucht Bakemon nicht auf."
-9,3015,,Ehilà.,──嗨！,,――여어,He.
-10,7063,,A-aah! Un mostro?!,呀、呀啊啊啊啊！！　怪、怪物……！？,,"갸, 갸아아아!! 괴, 괴…!?",Argh! Ein Monster?!
+9,3015,,"Ehilà.",──嗨！,,――여어,He.
+10,7063,,"A-aah! Un mostro?!",呀、呀啊啊啊啊！！　怪、怪物……！？,,"갸, 갸아아아!! 괴, 괴…!?",Argh! Ein Monster?!
 11,3015,,"Mostro a chi?! Eh?!
 Non mi importa se sei della squadra di difesa o altro, ti arresto!","誰是怪物啊！　啊！？
 不管你是防衛隊還是什麼隊，我要逮捕你！！",,"누가 괴물이야! 누가!
@@ -35,12 +35,12 @@ Direi che è abbastanza mostruoso.","……一拳就把現任防衛隊員擊昏�
 這不是怪物是什麼。",,……현직 방위대원을 일격에……충분히 괴물이잖아,"Einen Schutzpolizisten auf Anhieb k. o.
 geschlagen. Das könnte man schon als monströs
 bezeichnen."
-13,3015,,Macchina assicurata! Al lavoro!,拿到機器了！　快點開始吧！,,머신은 확보했다! 빨리 시작해버려!,Maschine gesichert! An die Arbeit!
-14,3047,,Cos'è questa roba?! Che succede?!,……怎麼了，發生了什麼事！？,,……뭐냐 이거. 어떻게 된 거지!?,Was zur Hölle ist denn das?!
+13,3015,,"Macchina assicurata! Al lavoro!",拿到機器了！　快點開始吧！,,머신은 확보했다! 빨리 시작해버려!,Maschine gesichert! An die Arbeit!
+14,3047,,"Cos'è questa roba?! Che succede?!",……怎麼了，發生了什麼事！？,,……뭐냐 이거. 어떻게 된 거지!?,Was zur Hölle ist denn das?!
 15,3012,,"Non pensavo che sarebbe stato facile da hackerare, ma questo...",雖然我不覺得有辦法輕易入侵進去──,,그렇게 쉽게 해킹할 수 있다고는 생각하진 않았지만――,"Ich hatte nicht gedacht, dass es leicht zu
 hacken sein würde, aber das ..."
-16,3046,,Questo... sarà un problema.,這……有點難辦了。,,이건…… 애먹겠군,Das kapiere ich nicht.
-17,3015,,Ehi, ehi, tutto bene?,喂、喂喂，沒問題吧？,,"어, 어이어이 괜찮은 거지?",Alles klar?
+16,3046,,"Questo... sarà un problema.",這……有點難辦了。,,이건…… 애먹겠군,Das kapiere ich nicht.
+17,3015,,"Ehi, ehi, tutto bene?",喂、喂喂，沒問題吧？,,"어, 어이어이 괜찮은 거지?",Alles klar?
 18,3047,,È programmato in modo piuttosto complesso.,看來是相當複雜的程式。,,"제법 복잡하게 프로그래밍 되어있어, 이거",So komplizierten Code habe ich noch nie gesehen.
 19,3047,,"Dobbiamo far entrare più persone da una sola macchina...
 Non è impossibile, ma ci mancano le persone...","畢竟要用一台機器讓好幾個人登入──
@@ -49,9 +49,9 @@ Non è impossibile, ma ci mancano le persone...","畢竟要用一台機器讓好
 schicken. Es ist nicht unmöglich, aber wir sind
 etwas unterbesetzt."
 20,2020,,...,…………,,…………,...
-21,3015,,Ehi, sta arrivando qualcuno.,……喂，有人來了！,,"…이봐, 누군가 온다","He, da kommt jemand."
-22,3046,,Questi sono...,那些傢伙是……,,저 녀석들은……,Das sind ...
-23,3012,,Gli hacker di EDEN...!,EDEN的駭客們……！,,EDEN의 해커들이…!,Die EDEN-Hacker!
+21,3015,,"Ehi, sta arrivando qualcuno.",……喂，有人來了！,,"…이봐, 누군가 온다","He, da kommt jemand."
+22,3046,,"Questi sono...",那些傢伙是……,,저 녀석들은……,Das sind ...
+23,3012,,"Gli hacker di EDEN...!",EDEN的駭客們……！,,EDEN의 해커들이…!,Die EDEN-Hacker!
 24,7149,,"Fei! Che modi sono questi!
 Coinvolgere un altro team in una cosa così divertente e non noi!","菲大人！　妳真是太見外了！
 這麼有趣的事，竟然找外面的隊伍不找我們！",,"페이 씨! 서운하다고요!
@@ -70,12 +70,12 @@ Wir helfen euch!"
 …잭슨과 후디에만 멋진 모습을 보이게 할 수는 없지","Ihr wollt das Monster aus dem Weg räumen, ja?
 Wir lassen nicht zu, dass Zaxon und Hudie den
 ganzen Spaß haben."
-27,3012,,Come fate a...?,你們為什麼會在這裡……,,당신들 어떻게 그걸……,Warum tust du das?
+27,3012,,"Come fate a...?",你們為什麼會在這裡……,,당신들 어떻게 그걸……,Warum tust du das?
 28,2020,,...!,……！！,,……!!,...!
-29,7064,,Io... sono solo... un hacker di passaggio.,……我……我只是……碰巧經過的駭客。,,……나……나는……지나가던 해커다,Ich ... Ich war gerade zufällig hier.
+29,7064,,"Io... sono solo... un hacker di passaggio.",……我……我只是……碰巧經過的駭客。,,……나……나는……지나가던 해커다,Ich ... Ich war gerade zufällig hier.
 30,2020,,...,…………,,…………,...
-31,2020,,Yu?,……優？,,……유우?,Yu?
-32,7065,,Di cosa stai parlando?,你、你在說什麼……？,,"무, 무슨 말이지…?",Wovon redest du da?
+31,2020,,"Yu?",……優？,,……유우?,Yu?
+32,7065,,"Di cosa stai parlando?",你、你在說什麼……？,,"무, 무슨 말이지…?",Wovon redest du da?
 33,7065,,"Ho solo sentito che il nostro cyberspazio è stato invaso da un mostro sconosciuto,
 e così ho radunato un po' di gente.","我只是聽說我們的電腦世界，
 被不知到哪來的怪物給大肆破壞，
@@ -90,9 +90,9 @@ ehm... potrei darvi una mano...","你們看起來也正因為入侵而煩惱…�
 그…힘을 빌려줘도……","Ihr scheint mit dem Hacken Probleme zu haben.
 Ich helfe gern."
 35,2020,,"Tu sei Yu, vero?",你是優吧？,,유우지?,"Du bist Yu, nicht wahr?"
-36,7066,,No... come ho detto...,不……我剛就說了……,,아니……그러니까……,"Ich ... Ich weiß nicht, wovon du redest."
-37,2020,,Tu sei Yu. Lo so per certo!,你、是、優、吧？,,유 우 인 거 지?,Du bist Yu. Ich weiß es genau!
-38,7066,,Ehm...,嗚……嗚嗚……,,우……우우…,Ähm ...
+36,7066,,"No... come ho detto...",不……我剛就說了……,,아니……그러니까……,"Ich ... Ich weiß nicht, wovon du redest."
+37,2020,,"Tu sei Yu. Lo so per certo!",你、是、優、吧？,,유 우 인 거 지?,Du bist Yu. Ich weiß es genau!
+38,7066,,"Ehm...",嗚……嗚嗚……,,우……우우…,Ähm ...
 39,3015,,"Ah, che seccatura!
 Quando parlate con la gente, toglietevi quella maschera!
 È da maleducati!","啊──！　真煩！！
@@ -101,7 +101,7 @@ Quando parlate con la gente, toglietevi quella maschera!
 이놈이고 저놈이고 사람이랑 대화할 땐 얼굴을 까! 실례잖아!","Was ist denn los mit dir?! Nimm diese blöde Maske
 ab, wenn du mit Leuten redest. Das ist so
 unhöflich!"
-40,3048,,Ehm...,啊……,,앗……,Ähm ...
+40,3048,,"Ehm...",啊……,,앗……,Ähm ...
 41,3048,,...,…………,,…………,...
 42,2020,,...,…………,,…………,...
 43,3048,,"Io... io... non avevo il coraggio di farmi vedere da te...
@@ -116,7 +116,7 @@ Sono venuto per chiederti perdono.","……我知道，這只是個藉口。
 我是來向你謝罪的。",,"……알아. 그런 건 그냥 변명이지.
 나는 너에게 사과하러 온 거야","Aber egal. Ich bin gekommen, um mich zu
 entschuldigen."
-46,3048,,Mi dispiace.,……對不起。,,……미안,Es tut mir leid.
+46,3048,,"Mi dispiace.",……對不起。,,……미안,Es tut mir leid.
 47,2020,,...,…………,,…………,...
 48,3048,,"Non ti chiederò di perdonarmi,
 ma lasciami espiare le mie colpe.","我不會說要你原諒我，
@@ -134,7 +134,7 @@ ma sei riuscito a chiamare così tanti team diversi.","召集……先不提Zaxo
 其他的隊伍你也能找來這麼多人啊。",,"모아왔다니…… 잭슨이나 데몬즈는 둘째치고
 잘도 다른 팀까지 이 정도로 모아왔구만","Und es sind viele Leute, nicht nur von Zaxon und
 den Demons, sondern auch von anderen Teams."
-51,3048,,Saranno... i contatti che ho raccolto quando ero K.
+51,3048,,"Saranno... i contatti che ho raccolto quando ero K.
 Conoscevo i recapiti di molti team...","應該是……K那時候掌握到的吧，
 取得了很多隊伍的連絡方式……",,"K였을 때의 인맥……일까
 여러 팀의 연락처를 파악하고 있었으니까……","Während meiner Zeit mit K habe ich viele Teams
@@ -352,7 +352,7 @@ Dobbiamo fare ancora qualche aggiustamento, visto che abbiamo forzato il sistema
 강행공사니까 조정도 해둬야 하니까","Überlasst uns die Maschine zum Einloggen. Wir
 waren so unter Zeitdruck, dass wir jetzt noch
 etwas anpassen müssen."
-117,3048,,Da allora, ho continuato a pensare...,從那之後我一直在思考……,,그 이후로 생각했어 나…,"Nach dem, was geschehen ist, denke ich ständig ..."
+117,3048,,"Da allora, ho continuato a pensare...",從那之後我一直在思考……,,그 이후로 생각했어 나…,"Nach dem, was geschehen ist, denke ich ständig ..."
 118,3048,,Che forse il posto più importante per te...
 è proprio Hudie.","對你來說最重要的地方，
 果然就是這個hudie吧。",,"너에게 있어서 가장 중요한 장소는 
@@ -365,7 +365,7 @@ Per questo... ero così invidioso.","和這些傢伙相遇後，你就好像
 넌 몰라볼 정도로 멋있어졌으니까.
 그래서 더 부러웠던거야… 난 ","Du hast dich so verändert, seit du bei ihnen bist.
 Ich bin schon etwas eifersüchtig."
-120,2020,,...,…………,,…………,...
+120,2020,,"...",…………,,…………,...
 121,3048,,"Ma...
 proprio per questo, non posso arrendermi.","但是啊，
 就是因為這樣，所以我不會放棄。",,"그렇지만 말이지
@@ -377,7 +377,7 @@ Questa volta, voglio essere davvero al tuo fianco!","我不想只是站在你身
 이번에야말로 제대로 네 옆에 나란히 설 수 있게 되겠어!","Und nicht nur deswegen. Dieses Mal werde ich alles
 geben, um mir den Platz an deiner Seite zu
 verdienen!"
-123,3048,,Allora...,所以──,,그러니까――,Also ...
+123,3048,,"Allora...",所以──,,그러니까――,Also ...
 124,3048,,"...Torna sano e salvo.
 Io mi fido di te.","……你一定要平安回來，
 我相信你。",,"……꼭 무사히 돌아와.
@@ -388,7 +388,7 @@ Mi sento molto più tranquillo.","嘿嘿……大家都在這裡真是太好了�
 總覺得非常的安心。",,"에헤헤…… 모두가 있어서 다행이네.
 왠지 무척 든든해","Wow, es ist toll, dass alle hier sind.
 Das ist echt inspirierend."
-126,1392,,Allora? Vi loggate adesso?,怎麼樣？　要馬上登入嗎？,,어떻게 할래? 바로 로그인할 거야?,Also? Loggt ihr euch jetzt ein?
+126,1392,,"Allora? Vi loggate adesso?",怎麼樣？　要馬上登入嗎？,,어떻게 할래? 바로 로그인할 거야?,Also? Loggt ihr euch jetzt ein?
 127,3046,,"Vorrei, ma...
 l'interno sarà probabilmente un nido di Eater.","雖然我很想立刻這麼做──
 但是裡面恐怕是侵食者的巢穴。",,"그러고 싶은 참이지만――

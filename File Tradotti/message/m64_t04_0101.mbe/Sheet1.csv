@@ -1,12 +1,12 @@
 ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
-1,3012,,...,…………,,…………,...
+1,3012,,"...","…………",,"…………","..."
 2,3012,,"... Sei tu.
 Mi hai vista in un momento davvero imbarazzante.","……是你啊。
 居然讓你看到這麼難堪的樣子。",,"……당신인가.
 한심한 모습을 보이고 말았네","... Also? Jetzt hast du mich in meinem peinlichsten
 Moment gesehen."
-3,2020,,...,…………,,…………,...
-4,3012,,Cosa è successo alla sorella di Ryuji?,龍司的妹妹怎麼樣了？,,류지의 동생은 어떻습니까예?,Was ist mit Ryujis Schwester passiert?
+3,2020,,"...","…………",,"…………","..."
+4,3012,,"Cosa è successo alla sorella di Ryuji?","龍司的妹妹怎麼樣了？",,"류지의 동생은 어떻습니까예?","Was ist mit Ryujis Schwester passiert?"
 5,3012,,"Sono riuscita a usare il potere di TigerVespamon
 per salvarla quando il caffè è crollato, ma...
 del resto non ricordo più niente.","我雖然讓虎蜂獸從店面崩毀中救了她，
@@ -19,21 +19,21 @@ Ma pensavo che non fosse ferita...","她在加護病房，進行治療……？
 她應該沒有受傷才對……",,"특별치료실에서 치료를……?
 상처는 없는 줄 알았는데……","Sie wird im Sondertherapieraum behandelt?
 Aber ich dachte, sie wäre nicht verletzt ..."
-7,3012,,"... Capisco. Ricordo ancora, che ha una qualche strana malattia.",……對了，她好像有說得了奇怪的病。,,"……그러고보니, 확실히 묘한 병을 앓고 있다고 했었지예","... Verstehe. Ich weiß noch,
+7,3012,,"... Capisco. Ricordo ancora, che ha una qualche strana malattia.","……對了，她好像有說得了奇怪的病。",,"……그러고보니, 확실히 묘한 병을 앓고 있다고 했었지예","... Verstehe. Ich weiß noch,
 dass sie irgendeine komische Krankheit hat."
-8,3012,,...,…………,,…………,... 
+8,3012,,"...","…………",,"…………","..." 
 9,3012,,"La distruzione di Hudie... è stata opera di Ryuji.
 Il suo obiettivo ero io.","hudie的崩毀……那是龍司做的。
 他的目標，就是我。",,"후디에의 붕괴사고…… 그건 류지의 짓입니다
 녀석이 노리는 건 내였습니다","Hudie ist tot ... Jetzt fehlt Ryuji also seine Arbeit
 und sein Daseinszweck ..."
-10,2020,,...,…………,,…………,...
-11,3012,,È colpa mia...,都是我不好……,,내 잘못이었어…,Das war meine Schuld ...
+10,2020,,"...","…………",,"…………","..."
+11,3012,,"È colpa mia...","都是我不好……",,"내 잘못이었어…","Das war meine Schuld ..."
 12,3012,,"Sono andata su tutte le furie quando ha infangato
 il nome di Yuugo, e ho attaccato senza ascoltare.","聽到他打算對YUGO大人下手後，我就失去理智……
 什麼都聽不下去，對他發動了攻擊。",,"유고 씨의 이름이 나오니 머리에 피가 몰려버려서…
-이야기도 듣지 않고 공격해 버렸습니더","Ich bin ausgeflippt, als er Yuugos Namen in den Dreck Dreck
-Dreck gezogen hat, und habe angegriffen, ohne
+이야기도 듣지 않고 공격해 버렸습니더","Ich bin ausgeflippt, als er Yuugos Namen in den Dreck
+gezogen hat, und habe angegriffen, ohne
 zuzuhören."
 13,3012,,"Poi il suo Digimon è improvvisamente digievoluto...
 e questo è il risultato.","結果，讓他的數碼寶貝急遽進化──
@@ -46,9 +46,9 @@ guardare Yuugo negli occhi.","雖然我是想阻止他，卻把事情變得這�
 면목이 없어서 유고 씨의 얼굴도 제대로 볼 수가 없어……","... Und ich habe etwas Unverzeihliches getan.
 Ich schäme mich so, ich kann Yuugo nie wieder
 in die Augen sehen."
-15,2020,,...,…………,,…………,...
-16,3003,,... Scusi. Vorrei visitare qualcuno.,……真是抱歉，我在不適當的時機前來探望。,,……제가 안 좋을때 병문안을 와 버렸군요,... Entschuldigung. Ich möchte jemanden besuchen.
-17,3012,,Yuu...!,Y……！,,유……!,Yuu...!
+15,2020,,"...","…………",,"…………","..."
+16,3003,,"... Scusi. Vorrei visitare qualcuno.","……真是抱歉，我在不適當的時機前來探望。",,"……제가 안 좋을때 병문안을 와 버렸군요","... Entschuldigung. Ich möchte jemanden besuchen."
+17,3012,,"Yuu...!",Y……！,,유……!,Yuu...!
 18,3003,,"Spero non ti dispiaccia se mi presento così, Fei...",不過，跟這邊的我見面就沒關係了吧，菲。,,"하지만 그 표정을 보면 괜찮은 것 같군요, 페이","Ich hoffe, es macht dir nichts aus, dass ich mit diesem
 Gesicht vorbeikomme, Fei ..."
 19,3012,,"Hmpf... Come puoi dire una cosa così?
@@ -57,7 +57,7 @@ Außerdem ist es zu spät ..."
 20,2020,,???,？？,,??,???
 21,3003,,"... È da tanto che non ti vedo, [p].
 Per favore, non essere troppo severo con lei.","……好久不見了，[p]先生。
-請你不要太責備菲了。",,"……오랜만입니다. [p] 씨.
+請你不要太責備菲了。",,"……오랜만입니다, [p] 씨.
 그녀를 너무 책망하지 말아주세요","... Lange nicht gesehen, [p]. Sei bitte nicht zu
 Sei bitte nicht zu streng mit ihr."
 22,3003,,"La furia di Ryuji Mishima è stata colpa mia.
@@ -67,7 +67,7 @@ Perché non sono riuscita a fermare il piano di Rie Kishibe in Under Zero.","御
 저지하지 못했던 ""저""의 책임입니다","Ryuji Mishimas Amoklauf war meine Schuld. Weil ich es
 es nicht geschafft habe, Rie Kishibes Plan in
 Unter Null aufzuhalten."
-23,3003,,... Chiedo scusa a nome di Zaxon.,……我在這，代表“Zaxon”向你謝罪。,,"……""잭슨""을 대표해서 사죄드립니다",... Ich bitte im Namen Zaxons um Entschuldigung.
+23,3003,,"... Chiedo scusa a nome di Zaxon.","……我在這，代表“Zaxon”向你謝罪。",,"……""잭슨""을 대표해서 사죄드립니다","... Ich bitte im Namen Zaxons um Entschuldigung."
 24,2020,,???,？？？？,,????,???
 25,3003,,"... Oh, scusate. Probabilmente non
 l'avete ancora capito.","……啊，真是抱歉，
@@ -82,10 +82,10 @@ uso due identità diverse: una per l'azienda e una da hacker.","為了從內外�
 한 명의 해커로서의 얼굴을 번갈아 쓰고 있었어요","Um Kamishiro von innen und außen zu schützen,
 benutze ich ein Gesicht im Inneren und eines für
 Hacker draußen."
-29,3003,,Grazie per il vostro aiuto nella questione del server Avalon.,阿瓦隆伺服器那件事，也受您照顧了。,,아발론 서버 때는 신세를 졌습니다,"Danke für eure Hilfe in der Sache mit dem
+29,3003,,"Grazie per il vostro aiuto nella questione del server Avalon.","阿瓦隆伺服器那件事，也受您照顧了。",,"아발론 서버 때는 신세를 졌습니다","Danke für eure Hilfe in der Sache mit dem
 Avalon-Server."
 30,3003,,"Non pensarci troppo a lungo.
-Sono ancora la stessa con cui hai mangiato l'omelette di riso.","請不要想太深，
+Sono ancora la stessa con cui hai mangiato l'omelette di riso.","請不要想得太深，
 現在的我，是跟你一起吃蛋包飯的神代悠子。",,"너무 깊게 생각하지 말아주세요.
 지금의 저는 오므라이스를 함께 먹었던 카미시로 유코입니다","Denk nicht zu lange darüber nach. Ich bin immer noch
 noch die Gleiche, mit der du das Reisomelette
@@ -103,24 +103,24 @@ dell'azienda... quindi ho una certa autorità.","我目前，是類似神代企�
 能夠行使某種程度的權限。",,"지금 저는 카미시로의 사장 대리와 같은 위치에 있어서……
 이 정도의 권한 사용은 허용됩니다","Ich bin quasi der Ersatz für den Direktor des Unternehmens ...
 also habe ich eine gewisse Autorität."
-35,3003,,... Ho saputo della sua unica malattia.,……我聽說了她那特殊的病情。,,……들었습니다. 그녀의 특수한 병에 대해서,"... Ich habe von ihrer einzigartigen Krankheit
+35,3003,,"... Ho saputo della sua unica malattia.","……我聽說了她那特殊的病情。",,"……들었습니다. 그녀의 특수한 병에 대해서","... Ich habe von ihrer einzigartigen Krankheit
 gehört."
-36,3003,,Ho anche saputo dell'accordo segreto tra Rie Kishibe e Ryuji Mishima.,御島龍司因此，跟岸部里繪有私下約定的事情也是。,,그 때문에 키시베 리에와 미시마 류지 사이에 밀약이 있었다는 것도,"Ich habe auch von der geheimen Absprache zwischen
+36,3003,,"Ho anche saputo dell'accordo segreto tra Rie Kishibe e Ryuji Mishima.","御島龍司因此，跟岸部里繪有私下約定的事情也是。",,"그 때문에 키시베 리에와 미시마 류지 사이에 밀약이 있었다는 것도","Ich habe auch von der geheimen Absprache zwischen
 Rie Kishibe und Ryuji Mishima gehört."
-37,3003,,Che lei abbia usato una vita umana per costringerlo al suo sporco lavoro è imperdonabile.,"她居然用人命為籌碼，讓人去做骯髒的勾當，
+37,3003,,"Che lei abbia usato una vita umana per costringerlo al suo sporco lavoro è imperdonabile.","她居然用人命為籌碼，讓人去做骯髒的勾當，
 這是絕對無法原諒的。",,"사람의 생명을 저울에 달고 더러운 일을 시키다니
 절대로 용서받을 수 없는 일입니다","Dass sie ein Menschenleben benutzt hat, um ihn zu ihrer
 ihrer Drecksarbeit zu zwingen, ist unverzeihlich."
 38,3003,,"... In qualità di rappresentante di Kamishiro,
 chiedo ancora una volta umilmente scusa per il fatto
 che le sue riprovevoli azioni siano rimaste inosservate.","……而我就在神代企業內，
-卻沒能察覺她所作的惡行，
+卻沒能察覺她所做的惡行，
 真的是非常抱歉。",,"……카미시로에 있었으면서도 그 사람의 악행을 알아차리지 못해 정말로
 죄송합니다","... Als Vertreterin Kamishiros bitte ich noch einmal
 einmal demütigst um Entschuldigung dafür, dass
 ihre verwerflichen Handlungen unbemerkt blieben."
-39,3003,,Chiedo sinceramente scusa.,這只能算是我微薄的陪罪。,,이것은 그 일에 대한 작은 속죄입니다,Ich bitte aufrichtig um Entschuldigung.
-40,3012,,"Non era mica colpa tua, Yuuko!",悠子大人沒有錯！,,유코 씨는 나쁘지 않습니다!,"Das war doch nicht deine Schuld, Yuuko!"
+39,3003,,"Chiedo sinceramente scusa.","這只能算是我微薄的陪罪。",,"이것은 그 일에 대한 작은 속죄입니다","Ich bitte aufrichtig um Entschuldigung."
+40,3012,,"Non era mica colpa tua, Yuuko!","悠子大人沒有錯！",,"유코 씨는 나쁘지 않습니다!","Das war doch nicht deine Schuld, Yuuko!"
 41,3012,,"È stata Kishibe a usare l'avatar di Yuugo,
 manipolando persino le azioni di Yuuko a suo vantaggio!","那是岸部用了YUGO的化身，
 就連悠子大人的行動，
@@ -133,15 +133,15 @@ Se la vedo di nuovo, la faccio a pezzi!","啊……光是回想起來都好生�
 다음에 만나면 반드시 내 손으로 아작을 내주겠어…!","Grrr ... schon beim Gedanken daran werde ich wütend!
 Wenn ich die noch einmal sehe, zerreiße ich sie in
 der Luft!"
-43,3003,,"... Grazie, Fei.",……謝謝妳，菲。,,"…고마워, 페이.","... Danke, Fei."
+43,3003,,"... Grazie, Fei.","……謝謝妳，菲。",,"…고마워, 페이.","... Danke, Fei."
 44,3003,,"Ma per ora, ti prego, concentrati sul rimetterti in sesto.
 Se non ci sei tu a guardarmi le spalle, non sono tranquilla.","但是，現在就請妳專注恢復傷勢吧，
-畢竟要是妳不跟在我身後，我就覺得無法安心啊。",,"하지만 지금은 상처 치료에 전념해주세요.
+畢竟要是妳不跟在我身後，我就覺得無法安心啊。",,"하지만 지금은 상처 치료에 전념해 주세요.
 당신이 뒤에 있어주지 않으면 어쩐지 진정되지 않으니까","Aber schau, dass es dir erst mal besser geht. Ohne
 dich ist es nicht das Gleiche."
-45,3012,,Yuuko ...,悠子大人……,,유코 씨…,Yuuko ...
-46,2020,,...,…………,,…………,...
-47,3003,,Come? Chiedi in che rapporto siamo?,咦？　你問我們兩人……是什麼關係嗎？,,네? 두 사람은 어떤 관계……냐고요?,Wie? In welchem Verhältnis wir zueinander stehen?
+45,3012,,"Yuuko ...","悠子大人……",,"유코 씨…","Yuuko ..."
+46,2020,,"...","…………",,"…………","..."
+47,3003,,"Come? Chiedi in che rapporto siamo?","咦？　你問我們兩人……是什麼關係嗎？",,"네? 두 사람은 어떤 관계……냐고요?","Wie? In welchem Verhältnis wir zueinander stehen?"
 48,3012,,"Ma che domanda è!
 Yuuko ed io siamo solo, ehm... beh...","你、你問這什麼問題啊！
 我跟悠子大人，只是……只是……那個……",,"무, 무슨 묘한걸 묻는 겁니까!
@@ -150,12 +150,12 @@ Yuuko und ich sind nur, äh ... nun ..."
 49,3003,,"... Ho lo stesso problema.
 Quando qualcuno me lo chiede,
 mi mancano sempre le parole giuste...","……說得也是呢，
-被這樣問後……我也找不到適當的說法。",,"……그렇군요.
+被這樣問後……我也找不到適當的說法。",,"……그렇군요. 
 새삼스럽게 물어보면… 저도 적절한 단어를 찾을 수가 없군요","... Ich habe das gleiche Problem. wenn mich das jemand
 jemand fragt, fehlen mir immer die richtigen
 Worte ..."
-50,3003,,Cosa intendi?,你是怎麼想的呢？,,당신은 어떻게 생각하나요?,Was meinst du?
-51,2020,,...,…………,,…………,...
+50,3003,,"Cosa intendi?","你是怎麼想的呢？",,"당신은 어떻게 생각하나요?","Was meinst du?"
+51,2020,,"...","…………",,"…………","..."
 52,2020,,"Sembrate vecchie amiche.
 È la tua serva?
 Sembrate una coppia.","永遠的好朋友，感覺就是摯友
@@ -165,10 +165,10 @@ Sembrate una coppia.","永遠的好朋友，感覺就是摯友
 연인으로 보여…","Ihr scheint alte Freundinnen zu sein.
 Ist sie deine Dienerin?
 Ihr seht aus wie ein Paar."
-53,3003,,"Vecchie amiche, mh.",摯友……也就是說，朋友嗎？,,"절친… 그러니까 친한 친구, 란 말이군요","Alte Freundinnen, hm."
-54,3012,,Beh... ci conosciamo già da un po'.,嗯、嗯……雖然不太對，但也差不多啦。,,"뭐, 뭐어… 답에 가깝다고도 멀다고도 할 수 있나",Nun ja ... wir kennen uns schon eine Weile.
-55,3003,,... Credo che la parola non si adatti del tutto.,……我總覺得有點不一樣呢。,,……저는 그렇게 딱 와닿지 않네요,"... Ich glaube, das Wort passt nicht ganz."
-56,3003,,"Amiche scherzano, si coprono a vicenda con delle
+53,3003,,"Vecchie amiche, mh.","摯友……也就是說，朋友嗎？",,"절친… 그러니까 친한 친구, 란 말이군요","Alte Freundinnen, hm."
+54,3012,,"Beh... ci conosciamo già da un po'.","嗯、嗯……雖然不太對，但也差不多啦。",,"뭐, 뭐어… 답에 가깝다고도 멀다고도 할 수 있나","Nun ja ... wir kennen uns schon eine Weile."
+55,3003,,"... Credo che la parola non si adatti del tutto.","……我總覺得有點不一樣呢。",,"……저는 그렇게 딱 와닿지 않네요","... Ich glaube, das Wort passt nicht ganz."
+56,3003,,"Amiche scherzano, si coprono a vicenda con delle 
 scuse e parlano di chi gli piace in questo momento...","我所知道的朋友，是能「故意講冷笑話」，
 就算約見面遲到也能輕鬆帶過，一整天
 都在說喜歡誰討厭誰，一直說下去──",,"제 조사에 따르면 친구 관계는「일부러 잘못 말하는 개그」를
@@ -176,23 +176,23 @@ scuse e parlano di chi gli piace in questo momento...","我所知道的朋友，
 내내 누군가가 좋거나 싫다는 이야기로 밤을 지새우거나――","Freundinnen scherzen herum, decken sich gegenseitig
 gegenseitig mit Ausreden und unterhalten sich
 drüber, wen sie gerade gernhaben ..."
-57,3003,,"Secondo me, è così che funziona con le amiche.",是這樣子的關係才對。,,그런 관계를 말한다고 알고 있어요,So ist das meiner Meinung nach bei Freundinnen.
+57,3003,,"Secondo me, è così che funziona con le amiche.","是這樣子的關係才對。",,"그런 관계를 말한다고 알고 있어요","So ist das meiner Meinung nach bei Freundinnen."
 58,3003,,"Fei ed io non siamo tipe da scherzi, e siamo sempre puntuali ai nostri appuntamenti.",但
 我跟菲都不是會講笑話的人，
 約要見面也都很守時。",,"저도 페이도 개그를 하는 취미는 없고 서로 약속 시간도 정확하게 지켜요","Fei und ich mögen keine Scherze und brauchen keine
-Ausreden."
+Ausreden." 
 59,3003,,"Le ho già chiesto chi le piace,
 ma in qualche modo non mi risponde mai...","雖然也有問過之前有沒有喜歡的人……
 但那時候都被含糊帶過了──",,"전에 좋아한 사람이 있냐고 물은 적도 있지만…
 그때는 얼버무려버렸고――","Ich habe sie schon mal gefragt, wen sie gernhat, aber
 aber sie antwortet mir irgendwie nie ..."
-60,3012,,"Beh, è perché... beh, sai, no?",不是……那只是……有不能說的理由……啊嗚啊嗚。,,아니… 그거야 그…… 말할 수 없는 이유가 있었고… 우물우물,"Na, das liegt daran ... na, du weißt schon ..."
-61,3003,,"... Sì, come dicevo. „Amiche“ non rende l'idea.",……嗯，我跟菲果然不是這種關係呢。,,"……음, 역시, 저와 페이에게는 들어맞지 않네요","... Ja, wie gesagt. „Freundinnen“ trifft es nicht."
-62,3003,,"Serva, intendi?",奴隸啊……,,부하…… 인가요,"Dienerin, meinst du?"
+60,3012,,"Beh, è perché... beh, sai, no?","不是……那只是……有不能說的理由……啊嗚啊嗚。",,"아니… 그거야 그…… 말할 수 없는 이유가 있었고… 우물우물","Na, das liegt daran ... na, du weißt schon ..."
+61,3003,,"... Sì, come dicevo. „Amiche“ non rende l'idea.","……嗯，我跟菲果然不是這種關係呢。",,"……음, 역시, 저와 페이에게는 들어맞지 않네요","... Ja, wie gesagt. „Freundinnen“ trifft es nicht."
+62,3003,,"Serva, intendi?","奴隸啊……",,"부하…… 인가요","Dienerin, meinst du?"
 63,3012,,"... Ora ascoltami.
 Se continui a prendermi in giro, te ne
 pentirai, non appena esco dall'ospedale.","……你啊，
-要是說得太過火了，等我出院可是會很恐怖的喔。",,"……당신
+要是說得太過火了，等我出院可是會很恐怖的喔。",,"……당신 
 너무 까불면 퇴원한 후에 무서운 일이 일어날걸…?","... Jetzt hör mir mal zu.
 Wenn du mich noch weiter veralberst, wird dir das
 leidtun, sobald ich aus dem Krankenhaus komme."
@@ -200,15 +200,13 @@ leidtun, sobald ich aus dem Krankenhaus komme."
 65,3012,,"Io sono la mano destra di Yuuko.
 Né più né meno.","我就是悠子大人的得力助手，
 除此之外，什麼都不是。",,"내는 유코 씨의 오른팔입니다. 그 이하도 그 이상도 아니지예","Ich bin Yuukos rechte Hand.
-그 이하도 그 이상도 아니지예","Ich bin Yuukos rechte Hand.
 Nicht mehr und nicht weniger."
-66,3012,,"Giusto, Yuuko?",是這樣沒錯吧，悠子大人？,,"그렇죠, 유코 씨?","Stimmt’s, Yuuko?"
-67,3003,,...,…………,,…………,...
+66,3012,,"Giusto, Yuuko?","是這樣沒錯吧，悠子大人？",,"그렇죠, 유코 씨?","Stimmt’s, Yuuko?"
+67,3003,,"...","…………",,"…………","..."
 68,3012,,"... Hm? Yuuko?
 ... Perché non dici niente?","……咦？　悠子大人？
 ……為什麼都不說話？",,"……어? 유코 씨? ……왜 입을 다무는 거죠?","... Hm? Yuuko?
-……왜 입을 다무는 거죠?","... Hm? Yuuko?
-... Warum sagst du denn nichts?"
+-... Warum sagst du denn nichts?"
 69,3012,,"Non mi consideri mica la tua serva,
 dopo tutto quello che abbiamo passato?","難道真的是奴隸沒錯嗎──
 不會有這種事的對吧？",,"설마 부하가 딱 와닿았다던가――
@@ -220,20 +218,18 @@ haben, doch nicht etwa für deine Dienerin?"
 71,3012,,"Ehi, ma dai.
 Non è affatto carino... hihi.",討……討厭啦……妳真的心眼很壞呢……哈哈,,아……아니이이이… 정말 심술궂다니까요… 하하,"He, jetzt aber.
 Das ist gar nicht nett ... hihi."
-72,3012,,Come?!,啊……啥！？,,하…하아!?,Wie bitte?!
+72,3012,,"Come?!","啊……啥！？",,"하…하아!?","Wie bitte?!"
 73,3012,,"Ma dai!
 Cosa dici, Signor Nessuno?","討、討厭啦～！！
 你這大眾臉，在那亂講什麼啊～！",,"아, 아니이이이~!!
 이 잔챙이 얼굴이 무슨 소리를 하는 거야~?","Ach, jetzt komm aber! Was redest du da, Mr. Nobody?"
-Was redest du da, Mr. Nobody?"
-74,3012,,Non è così tra me e Yuuko!,人家跟悠子大人才不是那種關係呢～！,,내랑 유코 씨가 그런 관계일 리가 없잖습니까~!,So ist das nicht mit mir und Yuuko!
+74,3012,,"Non è così tra me e Yuuko!","人家跟悠子大人才不是那種關係呢～！",,"내랑 유코 씨가 그런 관계일 리가 없잖습니까~!","So ist das nicht mit mir und Yuuko!"
 75,3012,,"Suona bene, ma non si prendono in giro i più anziani, lo sai, no?","雖然聽起來真的很舒服……
 但不可以講這種話捉弄大人喔～",,"확실히 울림은 나쁘지 않지만…… 그런 말로 연상을 놀리면 못 씁니다~?","Klingt zwar gut, aber ältere Leute soll man nicht
-그런 말로 연상을 놀리면 못 씁니다~?","Klingt zwar gut, aber ältere Leute soll man nicht
 auf den Arm nehmen, das weißt du, ja?"
 76,3012,,"Quando uscirò dall'ospedale, me la pagherai.
 Ti farò assaggiare un sacco di delizioso cibo di Kyoto...","等我出院你就給我記住，
-我會讓你吃一堆超～好吃的京都料理喔……",,"퇴원하면 두고 보라고?
+我會讓你吃一堆超～好吃的京都料理喔……",,"퇴원하면 두고 보라고? 
 맛있는 교토 요리를 잔뜩 먹여줄 거~니~까…","Wenn ich wieder rauskomme, ja? Dann gibt’s leckeres
 Essen aus Kyoto ..."
 77,2020,,...,…………,,…………,...
@@ -245,8 +241,8 @@ Non è vero, Yuuko?","……總、總而言之！
 그런 말을 하면 유코 씨가 곤란하잖습니까! 그쵸, 유코 씨?","... Egal!
 Yuuko mag das sicher nicht, wenn Leute so was
 behaupten. Nicht wahr, Yuuko?"
-79,3003,,... Cosa?,…………咦？,,…………네?,... Was?
-80,3003,,"Oh, scusa.",啊、對不起。,,"아, 죄송해요","Ach, entschuldige."
+79,3003,,"... Cosa?","…………咦？",,"…………네?","... Was?"
+80,3003,,"Oh, scusa.","啊、對不起。",,"아, 죄송해요","Ach, entschuldige."
 81,3003,,"Stavo pensando a quale sia esattamente il rapporto tra me e Fei...
 e non vi ho sentite.","我一直在想，我跟菲到底是什麼關係……
 就都沒聽到妳們說話了。",,"스스로도 페이와 제가 무슨 관계인지를 생각하고 있어서…
@@ -255,7 +251,7 @@ Frage nicht gehört."
 82,3003,,... Cos'hai detto di nuovo?,……妳們說了什麼嗎？,,……뭐라고 했나요?,... Was hast du noch mal gesagt?
 83,7082,,...,…………,,…………,...
 84,3003,,"... Ci ho già pensato anch'io, e non credo
-che il nostro rapporto si possa racchiudere
+che il nostro rapporto si possa racchiudere 
 adeguatamente in una sola parola.","……我自己也仔細想了想，
 但用目前的任何一個字，都不太符合我們的關係。",,"……스스로도 곰곰히 생각해 봤지만
 저희들의 관계를 기존의 단어로 표현하는건 좀 아닌 것 같아요","... Ich habe selbst schon darüber nachgedacht,
@@ -266,12 +262,12 @@ Diciamo solo che Fei è molto importante per me.","雖然不好說明……
 但菲……就說她是我“重要的人”吧。",,"잘 표현할 순 없지만……
 페이는 저에게 ""소중한 사람"" ……이라는 느낌이에요","Ich kann es auch nicht gut ausdrücken, aber ... Sagen
 Sagen wir einfach, dass Fei mir sehr wichtig ist."
-86,3003,,Risponde questo alla tua domanda?,這樣有回答到你嗎？,,이걸로 대답이 되었나요?,Beantwortet das deine Frage?
-87,3012,,Yuuko ...,悠子大人……,,유코 씨……,Yuuko ...
+86,3003,,"Risponde questo alla tua domanda?","這樣有回答到你嗎？",,"이걸로 대답이 되었나요?","Beantwortet das deine Frage?"
+87,3012,,"Yuuko ...","悠子大人……",,"유코 씨……","Yuuko ..."
 88,3003,,"Kamishiro ed EDEN...
-Sono stati entrambi creati da mio padre.",神代企業……EDEN是我父親一手打造出來的。,,카미시로는…… EDEN은 제 아버지가 만들어낸 것입니다,"Kamishiro und EDEN ... Wurden beide von meinem Vater
-Wurden beide von meinem Vater erschaffen."
-89,2020,,...,…………,,…………,...
+Sono stati entrambi creati da mio padre.","神代企業……EDEN是我父親一手打造出來的。",,"카미시로는…… EDEN은 제 아버지가 만들어낸 것입니다","Kamishiro und EDEN ... Wurden beide von meinem Vater
+erschaffen."
+89,2020,,"...","…………",,"…………","..."
 90,3003,,"EDEN racchiude per me molti ricordi.
 Di mio fratello, prima che si ammalasse
 incurabilmente, e di mio padre morto ...","EDEN對我來說，是跟去世的父親，
@@ -280,7 +276,7 @@ incurabilmente, e di mio padre morto ...","EDEN對我來說，是跟去世的父
 불치의 병으로 눈을 뜨지 못하는 오빠와의 추억의 장소입니다","EDEN hält für mich viele Erinnerungen. An meinen
 Bruder, bevor er unheilbar krank geworden ist, und
 meinen toten Vater ..."
-91,3003,,È mio dovere proteggere EDEN.,保護那地方就是我的使命。,,그 장소를 지키는 것이 저의 사명이에요,"Es ist meine Pflicht, EDEN zu beschützen."
+91,3003,,"È mio dovere proteggere EDEN.","保護那地方就是我的使命。",,"그 장소를 지키는 것이 저의 사명이에요","Es ist meine Pflicht, EDEN zu beschützen."
 92,3003,,"E anche se sono stata, per così dire, manipolata,
 ora siete miei buoni amici, dopo avervi conosciuto come Yuugo.","而且，就算我被里繪姐玩弄在掌心，
 但你們也能和YUGO建立起牽絆，
@@ -288,7 +284,7 @@ ora siete miei buoni amici, dopo avervi conosciuto come Yuugo.","而且，就算
 유고로서 관계를 맺은 당신들도 지금은 소중한 동료","Und auch wenn ich sozusagen manipuliert wurde – jetzt
 seid ihr mir gute Freunde, nachdem ich euch als
 Yuugo kennengelernt habe."
-93,3003,,... Mi lasciate la faccenda di Rie Kishibe?,"……岸部里繪，之後能不能就交給我來處理呢？",,……키시베 리에에 대해선 이후로 저에게 맡겨주실 수 없나요?,... Überlasst ihr die Sache mit Rie Kishibe mir?
+93,3003,,"... Mi lasciate la faccenda di Rie Kishibe?","……岸部里繪，之後能不能就交給我來處理呢？",,"……키시베 리에에 대해선 이후로 저에게 맡겨주실 수 없나요?","... Überlasst ihr die Sache mit Rie Kishibe mir?"
 94,2020,,!!!,！！,,!!,!!!
 95,3003,,"Non solo ha danneggiato il mio posto preferito,
 ma ha anche fatto del male a molte persone.
@@ -303,16 +299,15 @@ mich also persönlich um sie kümmern."
 도쿄를 덮친 괴현상은 모두 그녀가 꾸민 짓","... Sie hat ihre gemeinen Pläne nicht aufgegeben.
 Sie ist für die seltsamen Vorfälle in Tokio
 verantwortlich."
-97,3003,,"Se non succede qualcosa, temo che peggiorerà ancora.",這樣下去，一定會變得難以收拾……,,이대로라면 분명 터무니없는 일이 일어납니다…,"Wenn nicht etwas geschieht, fürchte ich, dass es
+97,3003,,"Se non succede qualcosa, temo che peggiorerà ancora.","這樣下去，一定會變得難以收拾……",,"이대로라면 분명 터무니없는 일이 일어납니다…","Wenn nicht etwas geschieht, fürchte ich, dass es
 noch schlimmer wird."
-98,3003,,Ma non lo permetterò. Li fermerò e li farò pagare per i loro crimini.,"但是，絕不能讓那種事發生，
-一定要阻止她的野心，償還至今的罪過。",,"하지만 그런 짓은 절대로 하게 놔두지 않겠습니다.
+98,3003,,"Ma non lo permetterò. Li fermerò e li farò pagare per i loro crimini.","但是，絕不能讓那種事發生，一定要阻止她的野心，償還至今的罪過。",,"하지만 그런 짓은 절대로 하게 놔두지 않겠습니다.
 그녀의 야망을 저지하고 이제까지의 죄를 갚게 할 겁니다","Doch das werde ich nicht zulassen. Ich werde sie
 aufhalten und für ihre Verbrechen bezahlen lassen."
-99,3003,,No... lo faremo.,就由我……不對，是“我們”才對。,,"제가…… 아니 ""저희들""이",Nein ... wir werden das tun.
-100,2020,,...,…………,,…………,...
-101,3003,,Grazie.,非常感謝你。,,감사합니다,Danke.
+99,3003,,"No... lo faremo.","就由我……不對，是“我們”才對。",,"제가…… 아니 ""저희들""이","Nein ... wir werden das tun."
+100,2020,,"...","…………",,"…………","..."
+101,3003,,"Grazie.","非常感謝你。",,"감사합니다","Danke."
 102,3003,,"Quando tutto questo sarà finito,
  andremo di nuovo a mangiare omelette di riso.",結束這一切後，請再跟我一起吃蛋包飯吧。,,모든 것이 해결되면 또 오므라이스를 먹으러 함께 가주세요,"Wenn das alles vorbei ist, gehen wir wieder
 Reisomelettes essen."
-103,2020,,...,…………,,…………,...
+103,2020,,"...","…………",,"…………","..."
