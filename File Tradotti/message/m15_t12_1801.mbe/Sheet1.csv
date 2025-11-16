@@ -10,13 +10,13 @@ wenig und fordere ihn dann heraus!"
 5,3014,,"Va bene, ad ogni modo. Aspetta!
 No! Niente è bello!",那就算了。應該說，我才不要！,,"그거 좋네, 가 아니라, 싫어!","Na schön, wie auch immer. Moment! Nein!
 Nichts ist schön!"
-6,3014,,"Se vuoi questo, allora fallo da sola!
+6,3014,,"Se vuoi questo, allora fallo da solo!
 Voglio guardare la TV e leggere manga...","想挑戰的話，VV自己去不就得了！
 因為人家想看電視呀～還想看漫畫呀～",,"할 거면 브이브이 혼자서 하면 되잖아!
 나, 텔레비전도 보고 싶고~, 만화도 읽고 싶은걸~","Wenn du das willst, dann mach das alleine!
 Ich will Fernseher gucken und Mangas lesen ..."
-7,4104,,"Di cosa parli? Dovrei accettare che mi è
-stato rubato il mio potere?!","妳說什麼話！
+7,4104,,"Di cosa parli? Dovrei accettare che mi
+è stato rubato il mio potere?!","妳說什麼話！
 就算我的力量永遠回不來也沒關係嗎！？",,"무슨 소리야!
 영영 내 힘이 뺏긴 채여도 괜찮은 거야!?","Was redest du da? Ich soll akzeptieren, dass mir
 meine Macht gestohlen wurde?!"
@@ -98,9 +98,8 @@ Entriamo, e poi lo riduci in poltiglia!","巴爾巴爾那傢伙就躲在那邊�
 Wir gehen rein, und dann haust du ihn zu Brei!"
 28,2000,,?!,！？！？,,!?!?,?!
 29,4104,,Mi dispiace. Rina è sempre così.,抱歉呀，莉娜她總是這樣子。,,"…미안해, 리나는 항상 이렇거든",Tut mir leid. Rina ist immer so.
-30,4104,,"In poche parole: Davanti a voi c'è un'area
-in cui lo spazio è distorto. Lì c'è
-Barbamon. Lo sconfiggeremo.","我翻譯一下……她的意思是，前面有個空間扭曲的地方，
+30,4104,,"In poche parole: Davanti a voi c'è un'area in cui lo spazio
+è distorto. Lì c'è Barbamon. Lo sconfiggeremo.","我翻譯一下……她的意思是，前面有個空間扭曲的地方，
 去打倒那裡面的巴爾巴獸吧！",,"번역하자면… 이 앞에 공간이 일그러진 것 같은 장소가 있는데
 그 안에 있는 발바몬을 쓰러뜨리러 가자, 라는 거야","Im Klartext: Vor euch liegt ein Bereich, in dem
 der Raum gekrümmt ist. Dort ist Barbamon.
@@ -110,27 +109,24 @@ Lui è un Digimon Mega.","巴爾巴獸被稱作「七大魔王」，
 是其中一個究極體的數碼寶貝。",,"발바몬은「7대 마왕」이라 불리는
 궁극체 디지몬 중 하나야","Barbamon ist einer der Sieben Dämonenkönige.
 Er ist ein Mega-Digimon."
-32,4104,,"Rina e io lo abbiamo già
-sconfitto una volta, ma...",我和莉娜曾經打倒過巴爾巴獸一次。,,"나와 리나는, 한 번은 발바몬을 쓰러뜨렸는데","Rina und ich haben ihn zwar schon einmal
+32,4104,,"Rina e io lo abbiamo già sconfitto una volta, ma...",我和莉娜曾經打倒過巴爾巴獸一次。,,"나와 리나는, 한 번은 발바몬을 쓰러뜨렸는데","Rina und ich haben ihn zwar schon einmal
 geschlagen, aber ..."
 33,4104,,"... Il Barbamon resuscitato ha poi rubato tutto
 il potere che avevo accumulato fino ad allora.","復活後的巴爾巴獸
 將我之前累積的力量全部奪走了…",,"부활한 발바몬에게
 지금까지 쌓아온 내 힘을 전부 빼앗겨 버렸어…","... Der wiederbelebte Barbamon hat dann alle Macht
 gestohlen, die ich bis dahin angesammelt hatte."
-34,3014,,"Quindi sconfiggiamo BarBar e recuperiamo il
-potere di Veevee! Ma per sconfiggerlo sarai tu il
-principale responsabile!","所以要痛打巴爾巴爾，把VV的力量要回來！
+34,3014,,"Quindi sconfiggiamo BarBar e recuperiamo il potere di Veevee!
+Ma per sconfiggerlo sarai tu il principale responsabile!","所以要痛打巴爾巴爾，把VV的力量要回來！
 主要是你去！",,"그래서 발발이를 패서, 브이브이의 힘을 되찾겠어―!
 …주로 네가!","Also plätten wir BarBar und holen Veevees Macht
 zurück! Aber für das Plätten wirst hauptsächlich
 du zuständig sein!"
-35,3014,,"Allora, aiutante da un mondo di
-caramello... Ora combatti con noi per vendetta!","那麼，從平平世界來的幫手呀……
+35,3014,,"Allora, aiutante da un mondo di caramello...
+Ora combatti con noi per vendetta!","那麼，從平平世界來的幫手呀……
 請你陪我們打一場復仇之戰吧！",,"그럼, 레로레로 월드에서 온 도우미여…
 우리들의 리벤지 배틀에 어울려 주세요!","So, Gehilfe aus einer Karamellwelt ...
 Du kämpfst jetzt mit uns um Rache!"
-36,3014,,"Ehi, quello... doveva solo voler dire che mi
-piaci!",呀啊！我……說出口了———！,,"…꺅, 나… 고백해 버렸어―――!","He, das ... sollte gerade heißen, dass ich dich
+36,3014,,"Ehi, quello... doveva solo voler dire che mi piaci!",呀啊！我……說出口了———！,,"…꺅, 나… 고백해 버렸어―――!","He, das ... sollte gerade heißen, dass ich dich
 mag!"
 37,2000,,...,……,,………,...
