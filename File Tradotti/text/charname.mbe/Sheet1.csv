@@ -442,7 +442,7 @@
 4136,,Zaxon Cattivo 1,不良Zaxon1,,불량 잭슨 1,Böser Zaxon-Typ 1
 4137,,Zaxon Malvagio 2,不良Zaxon2,,불량 잭슨 2,Böser Zaxon-Typ 2
 4138,,Studente delle superiori 1,男高中生1,,남고교생 1,Schuljunge 1
-4139,,Studente Liceale 2,男高中生2,,남고교생 2,Schuljunge 2
+4139,,Studente delle superiori 2,男高中生2,,남고교생 2,Schuljunge 2
 4140,,Principessa Digimoon,數碼寶貝公主,,프린세스 디지몬,Prinzessin Digimoon
 4141,,Beelzemon Ghiottone,暴食墮天地獄獸,,폭식의 베르제브몬,Gefräßiges Beelzemon
 4197,,"Takeshi, truffatore di fatture",付費詐騙者健司,,청구 사기꾼 타케시,Werbebetrüger Takeshi
@@ -480,15 +480,15 @@
 4229,,Kristina Sachiyo,克莉絲汀幸代,,크리스티나 유키요,Kristina Sachiyo
 4230,,Uomo delle Medaglie,獎牌大叔,,메달 아저씨,Medaillensammler
 4231,,Commerciante,商店店員,,숍 점원,Ladenbesitzer
-4232,,Venditrice (Donna),商店店員(女),,숍 점원(여),Ladenbesitzerin
+4232,,Venditrice,商店店員(女),,숍 점원(여),Ladenbesitzerin
 4233,,Commesso Hacker Maschio,駭客店員(男),,해커 점원(남),Hacker-Verkäufer
-4234,,Impiegata Hacker (Donna),駭客店員(女),,해커 점원(여),Hacker-Verkäuferin
+4234,,"Hacker (Donna)",駭客店員(女),,해커 점원(여),Hacker-Verkäuferin
 4235,,Oruru,麻瑠瑠,,오루루,Oruru
 4236,,Sig. Navit,NAVIT,,내빗군,Herr Navit
 4237,,Cameriera,女服務生,,웨이트리스,Kellnerin
 4238,,Sacchan,小莎,,밋짱,Sacchan
 4239,,Direttore Kamishiro,神代幹部,,카미시로 간부,Kamishiro-Manager
-4240,,Distributore di Bonus DLC,DLC發送員,,DLC배달원,Spielinhalt-Verteilerin
+4240,,Distributrice di Bonus DLC,DLC發送員,,DLC배달원,Spielinhalt-Verteilerin
 4241,,Arata Sanada,真田新,,사나다 아라타,Arata Sanada
 4242,,Sig. Navit?,NAVIT？,,내빗군?,Herr Navit?
 4243,,Uomo dall'aria da hacker,疑似駭客的男子,,해커같은 남자,Hackermäßiger Mann
@@ -717,7 +717,7 @@
 4466,,Marito Affettuoso,最愛老婆的老公,,아내를 좋아하는 남편,Schwärmerischer Ehemann
 4500,,Bella Donna,美麗的姊姊,,예쁜 누님,Schöne Frau
 4501,,Donna Meravigliosa,出色的姊姊,,멋진 누님,Wundervolle Frau
-4502,,Ragazzo dell'occulto,喜愛超自然的青年,,오컬트를 좋아하는 청년,Junger Okkultist
+4502,,Ragazzo dell'Occulto,喜愛超自然的青年,,오컬트를 좋아하는 청년,Junger Okkultist
 4503,,Uomo d'affari moderno,時髦的上班族,,요즘 샐러리맨,Moderner Geschäftsmann
 4504,,Ragazzo appariscente,輕浮的青年,,경박한 청년,Prahlender Junge
 4505,,Uomo d'affari scontento,似乎不服氣的上班族,,불만스러워 보이는 샐러리맨,Mürrischer Geschäftsmann
