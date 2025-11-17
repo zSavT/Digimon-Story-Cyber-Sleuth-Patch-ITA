@@ -3,16 +3,15 @@ ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
 1,5004,,Analisi dati completata,資料分析成功。,,데이터의 해석에 성공했다,Datenanalyse abgeschlossen
 2,5038,,[4Codice di sblocco...>],[4Unlock code･･･＞],,[4Unlock code･･･＞],[4Freischaltcode ...>]
 3,5004,,Si tratta di una specie di dato bloccato...,有某些資料被上鎖……,,어떤 데이터가 록 되어 있다…,Es sind irgendwelche gesperrten Daten ...
-4,5004,,"Sembra il registro di un hacker che è passato
-molto tempo fa, lasciato come messaggio
-per gli hacker che verranno.","這似乎是以前來過這裡的駭客所留下的記錄……
+4,5004,,"Sembra il registro di un hacker che è passato molto tempo fa,
+lasciato come messaggio per gli hacker che verranno.","這似乎是以前來過這裡的駭客所留下的記錄……
 他留了一些訊息要給之後來的駭客。",,"전에 이곳을 지나간 해커의 로그인 모양이다…
 뒤따라 올 해커를 위한 메시지가 남겨져 있다","Sieht nach dem Protokoll eines Hackers aus, das er
 vor langer Zeit als Nachricht an zukünftige
 Hacker hier hinterlassen hat."
 100,5038,,"[4Se vuoi andare più a fondo, incolla
-i dati rossi sul piedistallo di
-destra. da　[c4101]]","[4想到深處去的人，
+i dati rossi sul piedistallo di destra.
+da　[c4101]]","[4想到深處去的人，
 就把RED資料貼到右邊的台座上。
 by　[c4101]]",,"[4안쪽으로 가고 싶은 자는
 오른쪽의 받침대에, RED 데이터를 페이스트하라
@@ -112,7 +111,7 @@ PATTERN VIOLA: ERRORE!]","[4PATTERN YELLOW ：ERROR!
 PATTERN PURPLE ：ERROR!]",,"[4PATTERN YELLOW ：ERROR!
 PATTERN PURPLE ：ERROR!]","[4GELBES MUSTER: FEHLER!
 LILA MUSTER: FEHLER!]"
-200330,5038,,"[4SCHEMA BLU: ERRORE!
+200330,5038,,"[4PATTERN BLU: ERRORE!
 SCHEMA VERDE: ERRORE!]","[4PATTERN BLUE   ：ERROR!
 PATTERN GREEN  ：ERROR!]",,"[4PATTERN BLUE   ：ERROR!
 PATTERN GREEN  ：ERROR!]","[4BLAUES MUSTER: FEHLER!
@@ -122,7 +121,7 @@ PATTERN VIOLA: ERRORE!]","[4PATTERN YELLOW ：OK
 PATTERN PURPLE ：ERROR!]",,"[4PATTERN YELLOW ：OK
 PATTERN PURPLE ：ERROR!]","[4GELBES MUSTER: O.K.
 LILA MUSTER: FEHLER!]"
-200340,5038,,"[4SCHEMA BLU: ERRORE!
+200340,5038,,"[4PATTERN BLU: ERRORE!
 SCHEMA VERDE: OK]","[4PATTERN BLUE   ：ERROR!
 PATTERN GREEN  ：OK]",,"[4PATTERN BLUE   ：ERROR!
 PATTERN GREEN  ：OK]","[4BLAUES MUSTER: FEHLER!
@@ -137,9 +136,8 @@ DOWNLOAD DATI COMPLETATO]","[4登入伺服器……
 資料下載完畢。]",,"[4서버에 접속…
 데이터의 다운로드를 완료했습니다]","[4ZUGRIFF AUF SERVER ...
 DOWNLOAD ABGESCHLOSSEN]"
-70308,2000,,"Sembra il registro di un hacker che è passato
-molto tempo fa, lasciato come messaggio
-per gli hacker che verranno.","這似乎是以前來過這裡的駭客所留下的記錄……
+70308,2000,,"Sembra il registro di un hacker che è passato molto tempo fa,
+lasciato come messaggio per gli hacker che verranno.","這似乎是以前來過這裡的駭客所留下的記錄……
 他留了一些訊息要給之後來的駭客。",,"전에 이곳을 지나간 해커의 로그인 모양이다…
 뒤따라 올 해커를 위한 메시지가 남겨져 있다","Sieht nach dem Protokoll eines Hackers aus, das er
 vor langer Zeit als Nachricht an zukünftige
