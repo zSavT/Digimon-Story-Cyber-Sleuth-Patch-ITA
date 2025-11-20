@@ -1,18 +1,19 @@
 ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
 1,2020,,...?!,……！？,,……!?,...?!
-2,2020,,Questo è... il K-Café di Nakano? Non sembra affatto il Cyberspazio.,"這裡……是中野的K-Cafe？
+2,2020,,"Questo è... il K-Café di Nakano?
+Sembra che solo questo posto non sia nello Cyberspazio...","這裡……是中野的K-Cafe？
 好像只有這裡不是電腦空間……",,"여기는…… 나카노의 K-카페?
 여기만 전뇌공간이 아닌 것 같아……","Das ist ... das K-Café in Nakano? 
 Das wirkt gar nicht wie Cyberspace."
-3,1392,,"Sì, sembra il mondo reale. Ma è solo una simulazione.
+3,1392,,"Sì, è identico al mondo reale... ma è solo una copia ben fatta.
 Siamo ancora sul server di K.","嗯，和現實世界長得一模一樣……
 但是，好像是做得很精緻的冒牌貨，
 這裡還在K的伺服器裡面。",,"응, 현실 세계 그대로네……
 하지만 잘 만든 가짜같아. 여긴 아직 K의 서버야","Ja, sieht aus wie die echte Welt. Aber es ist nur
 eine Simulation. Wir sind immer noch auf Ks
 Server."
-4,3053,,"... È terribile.
-Simulare così il nostro posticino speciale.","……說什麼冒牌貨，還真過分。
+4,3053,,"... Una copia? Che cattiveria.
+Questo per noi è un posto importante.","……說什麼冒牌貨，還真過分。
 這裡對我們來說，是很重要的地方喔。",,"……너무하네. 가짜라니.
 우리들의 소중한 장소라고?","... Das ist ja schlimm. Unser besonderes
 Fleckchen so zu simulieren."
@@ -61,13 +62,13 @@ Nur eine Rolle, die du gespielt hast?"
 18,3048,,"... Pensi che sia folle?
 Lo pensi, vero?!",……你覺得我很笨嗎？　覺得我很傻吧！？,,……어처구니없다고 생각해? 생각하지!?,"... Hältst du das für durchgeknallt?
 Das tust du, oder?!"
-19,3048,,"Ma come potrei dirti la verità?
-Come potrei spiegarti i miei veri sentimenti?","可是啊，我怎麼可能把真心話說出口啊？
+19,3048,,"Ma come avrei potuto dirti la verità?
+Come avrei potuto spiegarti i miei veri sentimenti?","可是啊，我怎麼可能把真心話說出口啊？
 說我到底是怎樣看待你──",,"그렇지만 말할 수 있을 리가 없잖아, 진정한 마음 같은 건.
 내가 너를 어떻게 생각하는지 같은 건――","Aber wie sollte ich dir die Wahrheit sagen?
 Wie könnte ich dir meine wahren Gefühle erklären?"
-20,3048,,Non mi bastava più essere solo un tuo caro amico!,我已經無法忍受跟你只是朋友了啊！,,친구 입장으론 만족할 수 없게 됐다는 것 따윈!,"Es hat mir nicht mehr gereicht, nur ein enger
-Freund von dir zu sein!"
+20,3048,,Non potevo più accontentarmi di essere solo tuo amico!,我已經無法忍受跟你只是朋友了啊！,,친구 입장으론 만족할 수 없게 됐다는 것 따윈!,"Es hat mir nicht mehr gereicht, nur ein enger Freund
+von dir zu sein!"
 21,2020,,...,…………,,…………,...
 22,3048,,"... Ma poi ho finalmente capito.
 „La Voce“ me l'ha detto.","……但是，我終於明白了。
@@ -132,14 +133,14 @@ nicht wahr?"
 37,3048,,"Oh gioia...! Ora sono diventato il vero ""io""!",那期待吧……接下來，“我”就要成為“我”了！,,"기뻐하라고…… 앞으로는 ""내""가 ""나""다!","Oh Freude ...! Jetzt bin ich zum wahren „Ich“
 geworden!"
 41,2020,,!!!,！！,,!!,!!!
-42,1392,,"Aaahhh ...!
+42,1392,,"Aaaahhh...!
 La sua faccia ... è sparita?!","咿咿……！
 臉、臉不見了！？！？",,"히에에……!
 어, 얼굴이 없어졌어!?!?","Aaahhh ...!
 Sein Gesicht ... ist weg?!"
 43,1031,,Dimenticalo.,那種傢伙就別管他了。,,그런 녀석 내버려 둬,Vergiss ihn.
-44,1031,,"Era solo un misero verme che per troppo odio
-di sé e adorazione per gli eroi è impazzito!","他不就是在渺小的自卑感和憧憬之間一頭熱，
+44,1031,,"Era solo un misero insetto che, diviso tra autocommiserazione e adorazione,
+è impazzito e ti ha manipolato!","他不就是在渺小的自卑感和憧憬之間一頭熱，
 還把你耍得團團轉的螻蟻嗎？",,"조그만 열등감과 동경 사이에서 분별을 잃고
 너를 휘둘러댄 빌어먹을 벌레잖아?","Der war nur ein erbärmlicher Wurm, der vor lauter
 Selbsthass und Heldenverehrung irre geworden ist!"
@@ -218,8 +219,8 @@ Dunkelheit! Ich sollte ein unbesiegbarer Held
 sein ..."
 60,1031,,Non devo perdere!,絕對不可能會輸啊！！！！,,질 리가 없는데!!!!,Ich sollte nicht verlieren!
 61,1031,,Sì... Non devo perdere!,沒錯……不可能會輸！！,,그래…… 질 리가 없어!!,Jawohl ... Ich darf nicht verlieren!
-62,1031,,"Mi rifiuto di perdere!
-Perché devo perdere contro qualcuno come te?!","不可能會輸！！
+62,1031,,"Non posso perdere!
+Perché dovrei perdere contro uno come te?!","不可能會輸！！
 為什麼我一定要輸給你不可啊！？",,"질 리가 없단 말이다!!!
 왜 내가 너한테 지지 않으면 안 되는 거냐!?","Ich weigere mich, zu verlieren!
 Warum muss ich gegen so jemanden wie dich

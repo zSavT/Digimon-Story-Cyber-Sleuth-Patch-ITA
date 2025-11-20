@@ -2,7 +2,7 @@ ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
 1,1392,,Erika ...,艾莉卡……,,에리카…,Erika ...
 2,2020,,...?,……？,,……?,...?
 3,1392,,"Ehi! Ascolta!
-Erika ha commesso una stupidaggine, mentre non stavo attento!","啊！　聽我說聽我說──！
+Erika ne ha combinata un'altra, appena mi sono distratto!","啊！　聽我說聽我說──！
 艾莉卡真是的！
 趁我稍微沒注意的時候又亂來了……！",,"아! 들어봐!
 에리카가 내가 눈을 뗀 사이에 또 무리를……!","He! Hör zu! Erika hat eine Dummheit begangen,
@@ -47,9 +47,9 @@ Vorher war ich ihm zu nichts nütze."
 gefunden. Sag mir, wo es ist."
 19,1392,,... No.,…………………………才不告訴妳。,,…………………………가르쳐줄 수 없어,... Nein.
 20,3045,,Wormmon!,蟲蟲獸。,,추추몬,Wormmon!
-21,1392,,"Se te lo dico, te ne vai.",……如果我說了，艾莉卡就會跑去那裡了！,,……말하면 에리카는 거기로 갈 거잖아,"Wenn ich es dir sage, gehst du."
+21,1392,,"Se te lo dico, ci andrai subito!",……如果我說了，艾莉卡就會跑去那裡了！,,……말하면 에리카는 거기로 갈 거잖아,"Wenn ich es dir sage, gehst du."
 22,3045,,Sì – proprio per questo ho fatto i Bits!,我就是為了這樣才做出位元！,,그러려고 비트를 만들었으니까,Ja – genau deshalb habe ich die Bits doch gemacht!
-23,1392,,No! Rimani in ospedale!,不行！　艾莉卡要好好待在醫院！,,안돼! 에리카는 병원에 있어야 해!,Nein! Bleib im Krankenhaus!
+23,1392,,No! Tu rimani in ospedale!,不行！　艾莉卡要好好待在醫院！,,안돼! 에리카는 병원에 있어야 해!,Nein! Bleib im Krankenhaus!
 24,1392,,"Chitose non può ancora venire.
 [p] e io andremo ad affrontare l'Arkadimon!","千歲也還不能動……
 就由我跟[p]，兩個人一起打倒阿卡迪獸！",,"치토세도 아직 움직일 수 없고…
@@ -73,7 +73,7 @@ Perdere la famiglia è molto triste.","我看到艾莉卡的記憶後就知道�
 失去家人是一件很哀傷的事對吧……",,"난 에리카의 기억을 봐서 알고 있어.
 가족이 없어진다는 건 굉장히 슬픈 일이지","Das weiß ich aus deinen Erinnerungen.
 Die Familie zu verlieren, ist sehr traurig."
-34,1392,,Non posso perderti.,所以我也一定會……,,그러니 나도 분명……,Ich kann dich nicht verlieren.
+34,1392,,E io non posso perdere te..,所以我也一定會……,,그러니 나도 분명……,Ich kann dich nicht verlieren.
 35,3045,,Wormmon ...,……蟲蟲獸。,,……추추몬,Wormmon ...
 36,3045,,...,…………,,…………,...
 37,3045,,Allora capirai perché voglio salvare mio fratello.,"這樣的話，你應該會理解
@@ -104,7 +104,7 @@ Ti odio! Ti odio!","……艾莉卡這個笨蛋！！　笨蛋笨蛋笨蛋！　
 에리카 따윈 싫어! 싫어싫어 정~~~~말 싫어!","Erika, du Idiotin! Du bist so blöd!
 Ich hasse dich! Ich hasse dich!"
 52,1392,,Ma ti amo anch'io.,…………………但是喜歡妳。,,………………하지만 좋아해,Aber ich liebe dich auch.
-53,3045,,Eh?! Amore?!,………咦！？　喜……喜歡！？,,………헤!? 조……좋!?,Hä?! Liebe?!
+53,3045,,Eh?! Bene?!,………咦！？　喜……喜歡！？,,………헤!? 조……좋!?,Hä?! Liebe?!
 54,1392,,"Ti amo, ma ti odio.
 E ti odio, ma ti amo.",雖然喜歡但是討厭妳，討厭妳但是喜歡妳喔。,,"좋아하지만 싫고, 싫지만 좋아하는 거야","Ich liebe dich, aber ich hasse dich.
 Und ich hasse dich, aber ich liebe dich."
@@ -118,7 +118,7 @@ Sei troppo testardo, perché io possa lasciarti andare da solo.","……我也�
 無法放這種頑固的傢伙一個人啊。",,"……나도 같이 갈래.
 이런 고집쟁이를 혼자 둘 순 없으니까","Ich komme mit. Du bist zu stur, als dass ich dich
 allein gehen lassen könnte."
-57,3045,,Sei tu il cocciuto qui.,……頑固的人是你吧。,,……고집쟁이는 너잖아,Du bist hier der Sturkopf.
+57,3045,,Sei tu il cocciuto.,……頑固的人是你吧。,,……고집쟁이는 너잖아,Du bist hier der Sturkopf.
 58,1392,,"No, sei molto più testardo di me.
 Mi dai ragione, non è vero?","才不是呢，艾莉卡比我還更加頑固啊。
 你也是這樣想的吧？",,"아냐, 에리카 쪽이 월등한 고집쟁이야.
@@ -130,7 +130,7 @@ Du stimmst mir doch zu, nicht wahr?"
 지금이라면 뭐든 할 수 있겠다는 기분이 들어","Jetzt komme ich mir vor, als könnte ich
 alles erreichen."
 61,3045,,"Andiamo!
-Questa volta recupereremo mio fratello definitivamente... e anche Hudie!","…走吧！
+Questa volta recupereremo mio fratello... e anche Hudie!","…走吧！
 這次絕對要把哥哥……把hudie給奪回來！",,"…가자!
 이번에야말로 오빠를…… 후디에를 되찾는 거야!","Gehen wir! Dieses Mal holen wir meinen Bruder
 definitiv zurück ... und Hudie auch!"

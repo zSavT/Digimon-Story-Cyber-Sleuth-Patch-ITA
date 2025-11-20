@@ -1,5 +1,5 @@
 ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
-1,3047,,"Scusate, non ce l'abbiamo fatta in tempo.","抱歉，小姐……
+1,3047,,"Scusaci, non ce l'abbiamo fatta in tempo.","抱歉，小姐……
 結果還是沒趕上啊。",,"미안, 아가씨……
 결국 너무 늦어버렸어","Entschuldigung, wir haben es nicht
 rechtzeitig geschafft."
@@ -8,26 +8,24 @@ rechtzeitig geschafft."
 阿卡迪獸的失控，不管是誰都沒有辦法能阻止。",,"모두의 탓이 아니야.
 알카디몬의 폭주는 누구도 막을 수 없었어","Es war nicht eure Schuld. Niemand hätte
 das Arkadimon aufhalten können."
-4,3045,,"La prossima volta verrò con voi.
-Salveremo mio fratello.","……這次我也要去，
+4,3045,,"La prossima volta verrò con voi. Salveremo mio fratello.","……這次我也要去，
 我要去救哥哥。",,"……이번엔 나도 갈게.
 오빠를 구할 거야","Nächstes Mal komme ich mit euch.
 Wir werden meinen Bruder retten."
 5,3047,,Come intendi?,想救也沒法……,,구한다고 해도……,Wie meinst du das?
-6,3045,,Sconfiggere l'Arkadimon e liberarlo.,"打倒阿卡迪獸
+6,3045,,"Sconfiggere l'Arkadimon e liberarlo.","打倒阿卡迪獸
 讓哥哥從他身上解脫！",,"알카디몬을 완전히 쓰러뜨리고
 오빠를 그놈으로부터 해방시킬 거야",Das Arkadimon besiegen und ihn befreien.
 7,3047,,Beh... Non che non l'abbia voluto...,雖然我也想要這樣做……,,그야…… 나도 그렇게 하고 싶지만,Na ja ... Nicht dass ich das nicht wollte ...
-8,3047,,"Ma non sappiamo dove sia l'Arkadimon,
-e gli informatori di Fei non sanno neanche dove sia.","但是我們連阿卡迪獸在哪都不知道喔？
+8,3047,,"Ma non sappiamo dove sia l'Arkadimon, e gli informatori di Fei non sanno neanche dove sia.","但是我們連阿卡迪獸在哪都不知道喔？
 菲他們那邊的情報網也都沒有消息的樣子。",,"알카디몬이 어디에 있는지도 모르는데?
 페이네의 정보망에도 걸리지 않는 모양이고","Aber wir wissen nicht, wo das Arkadimon ist,
 und Feis Informanten wissen auch nichts über
 seinen Verbleib."
-9,3045,,Non fa niente. Ho questo qui.,沒問題，有這個。,,괜찮아. 이게 있어,Das macht nichts. Ich habe den hier.
+9,3045,,"Non fa niente, ho questo qui.",沒問題，有這個。,,괜찮아. 이게 있어,Das macht nichts. Ich habe den hier.
 10,2020,,...!,……！！,,……!!,...!
 11,3047,,Un Eater?!,侵、侵食者！？,,"이, 이터!?",Einen Verschlinger?!
-12,3045,,Non ti preoccupare. Non ci attaccherà. Questo è un Bit Eater.,"不要擔心，他不會襲擊我們的。
+12,3045,,"Non ti preoccupare, non ci attaccherà. Questo è un Bit Eater.","不要擔心，他不會襲擊我們的。
 這是「侵食位元」。",,"안심해. 덤벼들진 않으니까.
 이건「이터 비트」","Keine Sorge. Er wird uns nicht angreifen.
 Das ist ein Verschlinger-Bit."
@@ -37,19 +35,17 @@ ho estratto quanti più dati possibile.","我在救千歲的時候，不是入�
 그 때 되도록 많은 정보를 빼내뒀어","Als ich den Verschlinger gehackt habe, um Chitose
 zu retten, habe ich so viele Daten rausgezogen,
 wie ich konnte."
-14,3045,,"Questo è un nuovo tipo di Eater che ho
-programmato sulla base di questi dati.","我將那些資料做為來源，設計了一個程式。
+14,3045,,"Questo è un nuovo tipo di Eater che ho programmato sulla base di questi dati.","我將那些資料做為來源，設計了一個程式。
 設計出來的產物就是「新侵食者」喔。",,"이건 그 정보를 기반으로 내가 프로그래밍 해서 만든
 ""새로운 이터""야","Das hier ist eine neue Art Verschlinger, den ich
 auf Grundlage dieser Daten programmiert habe."
 15,3047,,Un nuovo Eater?!,新侵食者……！？,,새로운 이터…!?,Ein neuer Verschlinger?!
-16,3045,,"Se ne impiego a Tokyo,
-dovrebbero poterci aiutare a trovare l'Arkadimon.","把這個設置在東京中，監視的眼線就會變多了。
+16,3045,,"Se ne impiego a Tokyo, dovrebbero poterci aiutare a trovare l'Arkadimon.","把這個設置在東京中，監視的眼線就會變多了。
 這樣應該就能找到阿卡迪獸了。",,"이걸 도쿄 전체에 배치하면 감시의 눈을 늘릴 수 있어.
 알카디몬도 찾아낼 수 있을 거야","Wenn ich solche in Tokio einsetze, sollten sie uns
 helfen können, das Arkadimon zu finden."
-17,3047,,"Avresti dovuto dormire! Non posso credere
-che tu l'abbia fatto! Hai bisogno di riposo!","小姐！　原來妳都沒在睡覺嗎！
+17,3047,,"Avresti dovuto dormire! Non posso credere che tu l'abbia fatto!
+Hai bisogno di riposo!","小姐！　原來妳都沒在睡覺嗎！
 怎麼還做出了這種東西！不好好休息是不行的！",,"아가씨! 자고 있던 거 아니었어?
 왜 이런 걸 만든 거야! 제대로 쉬어두지 않으면 안되잖아!","Du hättest schlafen sollen! Ich kann nicht
 glauben, dass du das getan hast! Du brauchst Ruhe!"
@@ -59,13 +55,13 @@ Dammi un po' di tempo. Presto sarò pronto.","如果要救出哥哥，只好這�
 시간을 줘. 바로 준비할 테니까","Es ist der einzige Weg, meinen Bruder zu retten.
 Gib mir etwas Zeit. Bald werde ich bereit sein."
 19,2020,,...!,……！,,……!,...!
-20,1392,,"Mi preoccupo anche per te.
+20,1392,,"Anch'io sono preoccupato per te.
 Hai bisogno del tuo trattamento.","我、我也很擔心喔，艾莉卡。
 至少要好好的接受一次治療嘛。",,"나, 나도 걱정이야, 에리카.
 한번 제대로 치료를 받아보자","Ich mache mir auch Sorgen um dich.
 Du brauchst deine Behandlung."
-21,1392,,"Hai fatto in modo che Yuuko Kamishiro ricevesse il
-suo trattamento, ma ora ti stai opponendo tu stesso.","好不容易，神代悠子都說要幫妳治療了……
+21,1392,,"Hai fatto in modo che Yuuko Kamishiro ricevesse il suo trattamento,
+ma ora ti stai opponendo tu stessa.","好不容易，神代悠子都說要幫妳治療了……
 艾莉卡卻完全不好好的休息。",,"모처럼 카미시로 유코가 치료를 받을 수 있게
 해줬는데… 에리카는 전혀 얌전히 있어주질 않아","Du hast dafür gesorgt, dass Yuuko Kamishiro ihre
 Behandlung bekommen hat, aber jetzt wehrst du
@@ -82,7 +78,7 @@ Come pensi che si sentirà altrimenti?","……如果龍司回來了，
 의미가 없으니까","Es muss dir wieder gut gehen, wenn er zurückkommt.
 Was meinst du, wie er sich sonst fühlen wird?"
 24,3045,,"No. Prima devo trovare mio fratello.
-Devo ancora impostare i Bits. Solo io posso farlo.","……我不要。要先找到哥哥才行。
+Devo ancora impostare i Bit. Solo io posso farlo.","……我不要。要先找到哥哥才行。
 就連位元的調整也還沒完成，
 我不能交給其他人來做。",,"……싫어. 오빠를 찾는 게 먼저야.
 비트의 조정도 남았어. 남에게 맡길 수는 없어","Nein. Zuerst muss ich meinen Bruder finden. Ich
@@ -90,20 +86,20 @@ muss noch die Bits einstellen. Das kann nur ich."
 25,3047,,"Sì, ma...",但是啊……,,아니 그래도……,"Ja, aber ..."
 26,3045,,No.,不行。,,안 돼,Nein.
 27,3047,,Ma ...,就算妳這樣說……,,그렇게 말해도……,Aber ...
-28,3045,,"No! Me ne vado, e con questo è finita!",不行、不要，絕、對、不、要！！,,"무리, 싫어, 절, 대, 로, 싫, 어!!","Nein! Ich gehe, und damit hat sich’s!"
+28,3045,,"No! Non se ne parla, è fuori discussione!",不行、不要，絕、對、不、要！！,,"무리, 싫어, 절, 대, 로, 싫, 어!!","Nein! Ich gehe, und damit hat sich’s!"
 29,3047,,Eh...,小姐～,,아가씨~……,He ...
 30,2020,,...,…………,,…………,...
 31,1392,,Erika ...,艾莉卡……,,에리카……,Erika ...
-32,3045,,Non anche tu?!,幹麼啦，怎麼連你也這樣――,,"뭐야, 너까지――",Nicht du auch noch?!
-33,1392,,"Ma sì, anch'io!",吃我這招！！,,우랴아앗!!,"Doch, ich auch noch!"
+32,3045,,"Non anche tu?!",幹麼啦，怎麼連你也這樣――,,"뭐야, 너까지――",Nicht du auch noch?!
+33,1392,,"Certo che sì, anch'io!",吃我這招！！,,우랴아앗!!,"Doch, ich auch noch!"
 34,3045,,Argh!,唔！！！！,,하으으!!!!,Argh!
 35,3045,,Urgh ...,嗚、嗚……,,"우, 우웅……",Urgh ...
 36,2020,,?!,！？！？！？,,!?!?!?,?!
-37,3047,,Cosa stai combinando?! È malata!,"什麼……！？！？
+37,3047,,"Cosa stai combinando?! È malata!","什麼……！？！？
 你在做什麼啊蠢蛋──！！！！！
 對象是病人喔！！！",,"무…!?!? 무슨 짓이야 멍청아!!!!!!!
 상대는 환자라고!!!",Was treibst du denn da?! Sie ist krank!
-38,1392,,Non preoccuparti. So cosa faccio!,放心吧……我是用刀背！！！！！！,,안심해…… 칼등으로 쳤어!!!!!!,"Keine Sorge. Ich weiß, was ich tue!"
+38,1392,,"Non preoccuparti, so cosa faccio!",放心吧……我是用刀背！！！！！！,,안심해…… 칼등으로 쳤어!!!!!!,"Keine Sorge. Ich weiß, was ich tue!"
 39,3047,,Che intendi?!,哪裡有刀背啦！！！,,칼등이 어딘데!!!,Wie meinst du das?!
 40,1392,,"Era l'unico modo. È troppo testarda.
 Non avrebbe mai ascoltato la voce della ragione.","……沒辦法嘛。
@@ -116,44 +112,38 @@ per assicurarsi che io portassi a termine la mia cura.","如果我是艾莉卡�
 에리카가 나라도 이렇게 해서 치료를 받게 할 거라고 생각해","An meiner Stelle hätte sie das Gleiche getan,
 um sicherzugehen, dass ich meine Behandlung
 zu Ende bringe."
-42,3047,,Cosa ti è successo?,你、你是誰，你……？,,"뭐, 뭐냐 너……?",Was ist mit dir passiert?
-43,3047,,"Le assomigli sempre di più!
-È forse perché condividete i vostri ricordi?","感覺越來越像小姐了喔！？
+42,3047,,"Cosa ti è successo?",你、你是誰，你……？,,"뭐, 뭐냐 너……?",Was ist mit dir passiert?
+43,3047,,"Le assomigli sempre di più! È forse perché condividete i vostri ricordi?","感覺越來越像小姐了喔！？
 這也是跟小姐記憶共享化的影響嗎……？ ",,"왠지 점점 아가씨처럼 되어가고 있는데!?
 이것도 아가씨와 기억을 공유한 영향인가…?","Du wirst ihr immer ähnlicher! Liegt das daran,
 dass ihr eure Erinnerungen miteinander teilt? "
-44,1392,,"Già. Faccio quello che lei farebbe!
-Quindi è tutto a posto!","沒錯。也就是說，我所做的事
+44,1392,,"Già. Faccio quello che lei farebbe! Quindi è tutto a posto!","沒錯。也就是說，我所做的事
 等於是艾莉卡的意志！
 所以沒問題的！",,"맞아. 즉, 내가 하는 행동은 에리카의 의지이기도 하다는 뜻!
 그러니까 괜찮아!","Jepp. Ich tue, was sie tun würde!
 Also ist alles okay!"
-45,1392,,È meglio che la riportiamo nella sua stanza.,來吧來吧、趁現在把艾莉卡搬回治療室去吧！,,"자아자아, 이 틈에 에리카를 치료실까지 옮기자!",Wir bringen sie besser zurück auf ihr Zimmer.
-46,3047,,Probabilmente... Ma non posso rimanere in piedi a lungo...,"這、這樣子啊……？
+45,1392,,"È meglio che la riportiamo nella sua stanza.",來吧來吧、趁現在把艾莉卡搬回治療室去吧！,,"자아자아, 이 틈에 에리카를 치료실까지 옮기자!",Wir bringen sie besser zurück auf ihr Zimmer.
+46,3047,,"Probabilmente... Ma non posso rimanere in piedi a lungo...","這、這樣子啊……？
 ……算了，反正我也還沒辦法
 長時間起來活動――",,"그, 그런 건가……?
 ……뭐, 나도 아직은 오래 나돌아다니지 못하니까――","Wahrscheinlich ... Aber ich kann auch nicht lange
 auf den Beinen bleiben ..."
-47,3047,,"Hai fatto un buon lavoro finora.
-Per favore, tienila d'occhio, Wormmon.","你變成一位好監視官了呢。
+47,3047,,"Sei diventato un buon supervisore. Per favore, tienila d'occhio, Wormmon.","你變成一位好監視官了呢。
 小姐就拜託你囉，蟲蟲獸。",,"좋은 감시역이 생긴 걸로 칠까.
 아가씨를 잘 부탁한다, 추추몬","Du hast bisher gute Arbeit geleistet.
 Bitte behalte sie weiter im Auge, Wormmon."
-48,1392,,Nessun problema! E userò anche i Bit Eater!,"交給我吧！
+48,1392,,"Nessun problema! E userò anche i Bit Eater!","交給我吧！
 侵食位元的配置也是，我會好好代替她做的！",,"맡겨둬!
 이터 비트의 배치도 내가 대신 해둘게!","Kein Problem! Und ich werde auch die
 Verschlinger-Bits einsetzen!"
-49,3047,,Haha... Cosa faremmo senza di te?,哈哈……這還真是可靠啊。,,하하… 그거 믿음직스럽네,Haha ... Was würden wir nur ohne dich tun?
-50,3047,,"So che questo forse non è il
-momento più adatto...",……那個，雖然我知道現在不是做這個的時候――,,"……저기, 그럴 상황이 아니라는건 알지만――","Ich weiß, das ist vielleicht nicht der
+49,3047,,"Ahah... sei davvero affidabile.",哈哈……這還真是可靠啊。,,하하… 그거 믿음직스럽네,Haha ... Was würden wir nur ohne dich tun?
+50,3047,,"So che questo forse non è il momento più adatto...",……那個，雖然我知道現在不是做這個的時候――,,"……저기, 그럴 상황이 아니라는건 알지만――","Ich weiß, das ist vielleicht nicht der
 passendste Moment ..."
-51,3047,,"Potresti controllare i casi sulla bacheca,
-se hai tempo, [p]?","[p]你有時間的話，
+51,3047,,"Potresti controllare i casi sulla bacheca, se hai tempo, [p]?","[p]你有時間的話，
 可以幫我去看一下布告欄的委託嗎？",,"[p], 시간 있으면
 게시판의 의뢰를 봐주지 않을래?","Könntest du nach den Fällen an der
 Anschlagtafel sehen, wenn du Zeit hast, [p]?"
-52,3047,,"Con tutto quello che c'è sempre da fare, non
-so nemmeno se arrivano ancora incarichi o no.","雖然引起了這樣子的騷動，
+52,3047,,"Con tutto quello che è successo, non so nemmeno se arrivano ancora incarichi.","雖然引起了這樣子的騷動，
 不曉得還會不會有委託……",,이런 소동을 일으켰는데도 의뢰가 왔을지는 모르겠지만…,"So viel, wie immer los ist, weiß ich gar nicht,
 ob noch Aufträge eingehen oder nicht."
 53,3047,,"Voglio che Hudie continui ad avere successo finché Ryuji non torna.","hudie是……龍司的歸宿。

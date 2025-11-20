@@ -56,8 +56,7 @@ classe.","現在驅動現實教室裡那40個人的就是重信。
 Klassenzimmers aus."
 20,3046,,...,…………,,…………,...
 21,3046,,È impressionante.,那個叫重信的傢伙，很厲害。,,"대단한데, 저 시게노부란 녀석",Er ist beeindruckend.
-22,3046,,"Controllare una o due persone è già abbastanza difficile, ma
-40...","一兩個就算了，居然一口氣操控
+22,3046,,"Controllare una o due persone è già abbastanza difficile, ma 40...","一兩個就算了，居然一口氣操控
 連自己在內40個人的身體……",,"한두 명이면 몰라도, 자기를 포함해서 40명의 몸을 조작한다니…","Ein oder zwei Leute zu beherrschen, das ist schon
 schwierig, aber 40 ..."
 23,3046,,E scrivere risposte diverse per ogni persona...,而且還得讓每個人考卷都寫不同答案……,,"심지어 답안지에 각각 다른 답을
@@ -70,7 +69,7 @@ mettere i piedi in testa da gente come loro?","……為什麼頭腦這麼好，
 ihnen herumschubsen?"
 25,2020,,...,…………,,…………,...
 26,2020,,"Nessuna idea.
-È intelligente ma non forte.","我想不透。
+È intelligente ma non è un tipo coraggioso.","我想不透。
 這跟頭腦好不好是兩回事。",,"전혀 모르겠다
 머리가 좋은 거랑 그런 거는 별개야","Keine Ahnung.
 Er ist klug, aber nicht hart im Nehmen."
@@ -111,8 +110,7 @@ La pagherete tutti per quello che avete fatto!!!","……去死……去死…�
 bezahlen, was ihr getan habt!!!"
 37,3046,,Questo non va bene.,……這下不太妙。,,……이거 큰일이군,Das ist nicht gut.
 38,2020,,???,？？？,,???,???
-39,3046,,"Non lo capisci? Ha il controllo temporaneo
-su più di tre dozzine di persone.","你還不懂嗎？
+39,3046,,"Non lo capisci? Ha temporaneamente sotto controllo più di 40 studenti.","你還不懂嗎？
 就算只是暫時的，但他可以一次
 操縱近40個人的身體喔？",,"모르겠냐?
 저 녀석은 일시적이지만 40명 가까운 인간의 몸을 조종할 수 있다고?","Verstehst du nicht? Er hat vorübergehend über
@@ -123,8 +121,7 @@ controllo su di me.",要是我，絕對不會給自己平常欺負的人那種�
 절대 저런 물건을 쥐여주지 않아","Wenn ich jemanden so schikanieren würde, würde
 ich nie zulassen, dass mein Opfer solche
 Kontrolle über mich hat."
-41,3046,,"Sembra che non sappiano nemmeno che lui può
-controllarli.",那些傢伙，對這事情的嚴重性——,,"저 녀석들, 그걸 알고――","Sie scheinen nicht zu wissen, dass er die
+41,3046,,"Sembra che non sappiano nemmeno che lui può controllarli.",那些傢伙，對這事情的嚴重性——,,"저 녀석들, 그걸 알고――","Sie scheinen nicht zu wissen, dass er die
 Kontrolle über sie hat."
 42,3046,,"A giudicare da come si sono comportati prima, non
 sembrano avere la minima idea di come funzionino le spie...","……應該不懂。
@@ -152,7 +149,7 @@ wahrscheinlich aufhalten ..."
 leiden."
 47,2020,,???,……？？？,,……???,???
 48,5004,,Il giorno dopo...,隔天——,,다음 날――,Am nächsten Tag ...
-49,7362,,Non un altro test!,啊～今天又要考試～好煩～～,,"아~아, 오늘도 시험인가~
+49,7362,,Un altro esame! Che noia!,啊～今天又要考試～好煩～～,,"아~아, 오늘도 시험인가~
 지루해~",Nicht noch eine Klassenarbeit!
 50,7317,,Calma. Non è che dobbiamo per forza accettarlo.,沒差啦，反正又不是我們考！,,"괜찮잖아, 딱히 우리가 하는 것도 아니고",Entspann dich. Wir müssen sie ja nicht schreiben.
 51,7362,,Hai ragione su questo. Ahahaha!,說的也是～嘻嘻嘻！,,그건 그렇네. 아하하!,Stimmt. Hahaha!
@@ -165,15 +162,15 @@ gleich an!"
 54,7361,,Shigenobu?,重信？,,시게노부?,Shigenobu?
 55,7320,,No.,……我不要。,,……싫어,Nein.
 56,7361,,"Eh? Cosa intendi con ""no""?",哈？你說什麼？,,뭐어? 뭔 소리야?,Hä? Was meinst du mit „Nein“?
-57,7320,,I-I-I'ho finito di fare quello che dici!,我、我、我……我不會再受你們指使了……！,,"더, 더, 더는…너희들의 말은, 듣지 않아…!","I-Ich habe genug davon, nach eurer Pfeife zu
+57,7320,,B-b-basta... non farò più quello che dite!,我、我、我……我不會再受你們指使了……！,,"더, 더, 더는…너희들의 말은, 듣지 않아…!","I-Ich habe genug davon, nach eurer Pfeife zu
 tanzen!"
-58,7320,,Guarda! Oggi non devi fare un test!,"看這個！
+58,7320,,Guardate! Oggi non farete nessun esame!,"看這個！
 你們……今天才沒去考試……！",,"이걸 봐.
 너희들은…오늘은 시험을 보지 않아…!",Ihr schreibt heute keine Klassenarbeit!
-59,7320,,Stai facendo qualcos'altro!,是去做別的事情……！！！！,,다른 일을 하는 거야…!!!!,Ihr macht heute etwas anderes!
+59,7320,,Farete qualcos'altro!,是去做別的事情……！！！！,,다른 일을 하는 거야…!!!!,Ihr macht heute etwas anderes!
 60,7361,,Cos'è quello? La nostra classe?,這影像是什麼……？是我們的教室嗎？,,"뭐야, 이 영상…? 이거 우리 반 교실인가?",Was denn? Unser Klassenzimmer?
-61,7318,,"Eh? Si sono alzati tutti. Ma la campanella non è
-ancora suonata. Il test non è ancora finito, giusto?","咦……？大家都站起來了，下課鐘還沒響吧？
+61,7318,,"Eh? Si sono alzati tutti. Ma la campanella non è ancora suonata.
+Il test non è ancora finito, giusto?","咦……？大家都站起來了，下課鐘還沒響吧？
 考試又還沒結束，為什麼？",,"어라…? 다들 일제히 일어났는데
 아직 종 안 쳤지?
 시험 안 끝났는데 어째서?","Hä? Alle stehen auf. Aber es hat doch noch gar
@@ -184,7 +181,7 @@ vorbei!"
 63,7319,,Cosa?! Argh!,『呃！？嗚哇！！』,,『으극!? ……으악!!』,Was?! Argh!
 64,7317,,Eh?! Sto colpendo il professore?!,欸！？討厭！！我為什麼要打老師！？,,어!? 싫어! 내가 선생님을 때리잖아!?,Was?! Ich schlage den Lehrer?!
 65,7316,,Ehi! Che cosa stai facendo?!,等一下……！？喂！你在幹什麼！,,"잠……!? 야, 뭐 하는 거야!",He! Warum machst du das?!
-66,7317,,Non lo sono! Il mio corpo si sta muovendo da solo!,"不是我！我才不會做這種事！
+66,7317,,Non sono io! Il mio corpo si sta muovendo da solo!,"不是我！我才不會做這種事！
 是身體自己動起來了！",,"아니야! 난 저런 짓 안 했어!
 몸이 멋대로 움직이는 거야!","Das bin nicht ich! Mein Körper bewegt sich von
 selbst!"
@@ -195,32 +192,30 @@ Händen?!"
 70,7319,,No... Vi prego... fermatevi! FERMATEVI!,『……不要，快點住手，不要殺我啊～～～！！』,,"『…하지 마, 하지마 하지마 하지마, 하지 말아줘~~~!!』",Nein ... Bitte ... aufhören! AUFHÖREN!
 71,7319,,Oh no...,『呃啊……』,,『크헉……』,"Oh, nein ..."
 72,7319,,...,『………………』,,『………………』,...
-73,7318,,No... Non possiamo aver...,騙、騙人的吧……大家……把老師……,,"마, 말도 안 돼……모두가…선생님을……",Nein ... Das kann nicht sein ...
+73,7318,,No... Non possiamo averlo...,騙、騙人的吧……大家……把老師……,,"마, 말도 안 돼……모두가…선생님을……",Nein ... Das kann nicht sein ...
 74,7362,,Che sta succedendo?,怎麼會……,,이런 일은……,Was geht da vor sich?
 75,7361,,"Siamo usciti dalla classe e abbiamo iniziato
-a salire le scale! Che cos'è questo?!","喂，我們跑出教室往樓上走了耶！？
+a salire le scale! Cosa sta succedendo?!","喂，我們跑出教室往樓上走了耶！？
 要幹麼？這是在搞什麼啊！！",,"어, 어이, 우리가 교실을 나가서 계단을 올라가기 시작했는데!?
 어떻게 된 거야? 이거 대체 뭐야!!","Wir haben das Klassenzimmer verlassen und gehen
 die Treppe hoch! Was?!"
-76,7320,,"Dovresti saperlo. Siete voi quelli che mi hanno
-fatto usare questo strumento.","……要幹麼你們自己最清楚吧。
+76,7320,,"Dovreste saperlo.
+Siete stati voi a costringermi a usare questo strumento.","……要幹麼你們自己最清楚吧。
 誰叫你們強迫我使用這個工具。",,"…그런 거 너희들이 가장 잘 알잖아.
 너희들이 나에게 이 툴을 사용하게 시켰어","Ihr solltet es wissen. Ihr habt mich doch
 gezwungen, dieses Gerät zu benutzen."
 77,7361,,Cosa? Non stavi facendo l'esame per noi?!,你在說什麼！你不是代替我們去考試嗎！,,"무슨 소리야! 너 우리 대신
 시험 쳤던 거 아니였냐!","Was? Hast du die Klassenarbeit nicht für uns
 geschrieben?!"
-78,7320,,"Sì, stavo controllando i vostri corpi e sostenendo il
-test. Poi ho pensato di fare un piccolo esperimento,
-e capire quanto controllo ho su di voi.","是啊，操控你們的身體寫考卷。
+78,7320,,"Sì, controllavo i vostri corpi per fare l'esame. E poi...
+ho fatto un piccolo ""test"" per vedere fin dove potevo spingermi.","是啊，操控你們的身體寫考卷。
 然後……能操控到什麼程度，也順便“測試”了一下！",,"그래, 너희들의 몸을 조종해서 시험을 치고 있었지.
 그리고……몸을 어디까지 움직일 수 있는지
 그것도 ""시험""하고 있었던 거야","Ja, ich habe eure Körper beherrscht und die Arbeit
 geschrieben. Dann wollte ich ausprobieren, wie
 viel Kontrolle ich über euch habe."
 79,7320,,"Non vi è nemmeno passato per la testa?!
-Se posso farvi scrivere le risposte, cos'altro
-potrei farvi fare?!","難道你們都沒想過嗎……！
+Se posso farvi scrivere le risposte, cos'altro potrei farvi fare?!","難道你們都沒想過嗎……！
 既然能在考卷上寫答案…………
 那也能做其它事吧……像這樣！",,"조금이라도 생각 안 해봤냐…!
 답안에 답을 쓸 수 있다면……다른 것도 할 수 있다는 걸…말이야!","Habt ihr daran überhaupt nicht gedacht?! Wenn ich
@@ -241,13 +236,12 @@ dopo l'altro. Una fila così ordinata di studenti.","快看啊～
 모두가 옥상 난간을 순서대로 넘어가고 있어.
 제대로 한 줄로 나란히 서 있어","Schaut mal, ihr klettert alle nacheinander über
 die Brüstung. Schön ordentlich in einer Reihe."
-85,7320,,"Osservate attentamente. Sembrate dei lemming impazziti, non credete?","看仔細一點嘛，
+85,7320,,"Osservate attentamente. Sembrate un branco di topi impazziti, non trovate?","看仔細一點嘛，
 很像發瘋的老鼠對吧？",,"잘 봐봐.
 정신 나간 쥐 같지 않아?","Schaut genau hin. Ihr seht aus wie verrückt
 gewordene Lemminge, findet ihr nicht?"
 86,7320,,Chi vuole iniziare?,好啦～誰先呢？,,"자, 누구부터 갈까?",Wer will zuerst dran sein?
-87,7320,,"Lo so. Andiamo in ordine alfabetico. Abe è il
-primo.","對了，照姓名發音序順好了？
+87,7320,,"Lo so. Facciamo in ordine di appello. Abe è il primo.","對了，照姓名發音序順好了？
 從阿部開始吧。",,"그래, 이름순으로 할까.
 아베 군부터야","Ich weiß. Gehen wir nach dem Alphabet vor. Abe
 als Erster."
@@ -259,14 +253,14 @@ als Erster."
 93,7363,,Il m-mio corpo... È s-s-saltato giù dal tetto...,"我我我我我我的身體…
 從頂樓上跳跳跳跳跳下去……",,"나, 나, 내, 내 몸……이
 옥상에서, 뛰, 뛰어, 뛰어내렸……",M-Mein Körper ... E-Er ist vom Dach gesprungen ...
-94,7320,,Ora per i prossimi dieci.,再來10個人。,,다음 10명이야,Und jetzt die nächsten Zehn.
+94,7320,,E ora, i prossimi dieci.,再來10個人。,,다음 10명이야,Und jetzt die nächsten Zehn.
 95,7320,,Eccoci.,跳～,,영차,Los geht’s.
-96,5004,,[1Tonfi tonfi tonfi],[1啪唰　啪唰　啪唰],,[1풀썩 풀썩 풀썩],"[1Rums, rums, rums!]"
+96,5004,,[1Tonfo tonfo tonfo],[1啪唰　啪唰　啪唰],,[1풀썩 풀썩 풀썩],"[1Rums, rums, rums!]"
 97,7321,,[1Tonfo tonfo tonfo],嗚哇啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊！！,,으아아아아아아아아아아아아아아아아아아아아아아아악!!,"[1Rums, rums, rums!]"
 98,7320,,Sta diventando noioso. Ora tocca al resto di voi.,有點煩了，剩下的全部一起跳吧～,,"이제 귀찮으니까
 마지막에는 전부 한 번에","Langsam wird es langweilig. Jetzt der Rest von
 euch."
-99,5004,,[1Tonfi tonfi tonfi tonfi],[1啪唰　啪唰　啪唰　啪唰],,[1철퍽 철퍽 철퍽 철퍽],"[1Rums, rums, rums, rums!]"
+99,5004,,[1Tonfo tonfo tonfo tonfo],[1啪唰　啪唰　啪唰　啪唰],,[1철퍽 철퍽 철퍽 철퍽],"[1Rums, rums, rums, rums!]"
 100,5004,,[1Tonfo],[1啪刷],,[1풀썩],[1Rums!]
 101,7321,,...,………………,,………………,...
 102,7320,,"Ecco, non ci è voluto molto. Siete saltati tutti dal tetto!","你看，才一下子，
@@ -277,12 +271,11 @@ alle vom Dach gesprungen!"
 104,7320,,"Sì, morti stecchiti. Tutti quanti!","對啊，會死啊。
 ……你們全部都會死啊！",,"그래, 죽었어.
 …너희들 전부, 죽은 거야!",Jep. Mausetot. Ihr alle!
-105,7320,,"Ti piace questo?! Scommetto che vorresti non avermi
-maltrattato così tanto ora!","怎麼樣啊！？總是被你們欺負，
+105,7320,,"Come vi sentite?! Vi piace essere manovrati da me, dopo avermi sempre trattato come un idiota?!","怎麼樣啊！？總是被你們欺負，
 現在被我玩弄的感覺如何啊！",,"어때!? 계속 바보 취급하던 나에게
 마음대로 취급당한 기분은!","Wie gefällt euch das?! Ich wette, jetzt wünscht
 ihr, ihr hättet mich nicht so herumgeschubst!"
-106,7320,,"Non ti piace quando reagisco, vero?!",你們不是都把我當笨蛋、欺負又嘲笑我嗎！？,,나를 하나같이 바보 취급하고 괴롭히고 재밌었냐!?,"Es gefällt euch nicht, wenn ich zurückschubse,
+106,7320,,"Vi divertivate a prendermi in giro e a tormentarmi, vero?!",你們不是都把我當笨蛋、欺負又嘲笑我嗎！？,,나를 하나같이 바보 취급하고 괴롭히고 재밌었냐!?,"Es gefällt euch nicht, wenn ich zurückschubse,
 was?!"
 107,7320,,"Questa è la mia vendetta!
 L'insegnante e tutti voi siete morti!","這就是我的復仇！！
@@ -295,7 +288,7 @@ tot!"
 109,7363,,Ehi! Non riesco a disconnettermi!,"喂、喂！　怎麼不能登出啊！？
 這……難道是……！",,"어, 어이! 로그아웃이 안 되는데!?
 이거…설마…!",He! Ich kann mich nicht ausloggen!
-110,7320,,Non hai un corpo a cui tornare!,你們的身體已經不在了啊！,,너희들의 몸은 이제 없어!,"Ihr habt keinen Körper, in den ihr zurückkönnt!"
+110,7320,,Non avete più un corpo in cui tornare!,你們的身體已經不在了啊！,,너희들의 몸은 이제 없어!,"Ihr habt keinen Körper, in den ihr zurückkönnt!"
 111,7320,,"E ho creato io questo Cyberspazio! Se lo cancello,
 sparirai per sempre! Ahahaha! Ahahaha!","做出這電腦空間的人也是我！
 只要我刪除掉這空間，你們就都會消失啦！
@@ -309,8 +302,8 @@ Hahaha! Hahahaha!"
 114,3046,,Ti senti meglio adesso?,……你滿足了嗎？,,……속은 풀렸냐?,Fühlst du dich jetzt besser?
 115,7320,,?!,！？,,!?,?!
 116,7320,,Chi sei tu?!,你、你們是誰啊！,,"너, 너네 누구야!",Wer seid ihr?!
-117,3046,,"Hacker assoldati dal tuo insegnante. Siamo venuti a
-confiscare le spie.","我是你們老師委託的駭客，
+117,3046,,"Siamo hacker assoldati dal vostro insegnante.
+Siamo venuti a confiscare le talpe.","我是你們老師委託的駭客，
 我來回收鼴鼠的。",,"너네들 선생한테 의뢰받은 해커다.
 두더지를 회수하러 왔다","Wir sind Hacker, die euer Lehrer angeheuert hat.
 Wir sind hier, um die Maulwürfe zu konfiszieren."
@@ -337,7 +330,7 @@ geben, sich zu wehren. Das ist wirklich feige."
 125,3046,,"Nessuno potrebbe rispettarti per aver fatto una cosa del genere.","就算用這種做法來報復，
 ……也不會有人認同你。",,"이런 식으로 되갚아봐야
 ……아무도 너를 인정해주지 않는다",Für solch eine Tat kann dich niemand respektieren.
-126,7320,,E guarda un po'?!,不要突然跑出來，還說得好像很瞭解我一樣！,,갑자기 나타나서는 다 아는 척 지껄이지 마!,Was wisst ihr schon?!
+126,7320,,E voi che ne sapete?! Non parlate come se mi conosceste!,不要突然跑出來，還說得好像很瞭解我一樣！,,갑자기 나타나서는 다 아는 척 지껄이지 마!,Was wisst ihr schon?!
 127,7320,,"Non capisci! Mi prendono in giro, ogni singolo
 giorno! Mi tormentano e si prendono gioco di me!","你們到底懂什麼啊！
 我被全班拿來使喚，每天每天
