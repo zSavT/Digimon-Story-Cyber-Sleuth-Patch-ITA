@@ -1,19 +1,19 @@
 ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
 1,7299,,Urgh!,嗚…！,,크…!,Argh!
-2,3047,,Ora vattene da lei!,好了，給我乖乖的離開打工妹妹！,,"자, 얌전히 알바 양을 놔줘!",Jetzt lasst sie in Ruhe!
+2,3047,,Adesso lasciatela in pace!,好了，給我乖乖的離開打工妹妹！,,"자, 얌전히 알바 양을 놔줘!",Jetzt lasst sie in Ruhe!
 3,7299,,"N-non avvicinarti! Fai un altro passo e
 distruggerò il suo account!","不、不准靠近……！
 你一旦靠近的話，我就把由里的帳號給破壞掉！",,"다, 다가오지 마…!
 가까이 오면 유리의 계정을 파괴하겠어!","B-Bleib, wo du bist! Wenn du noch einen Schritt
 machst, lösche ich ihren Account!"
 4,2020,,...!,……！,,……!,...!
-5,3047,,Che prevedibile! La tua squadra mi disgusta!,"這是什麼老套的威脅……！
+5,3047,,Che prevedibili! La vostra squadra mi disgusta!,"這是什麼老套的威脅……！
 真是差勁的隊伍啊！",,"무슨 더러운 협박을…!
 정말 최저의 팀이로군!",Wie berechenbar! Euer Team widert mich an!
 6,3047,,Eh?,……嗯？,,……응?,Was?
 7,7299,,Argh!,呀！,,꺅!,Argh!
 8,2020,,?!?!,！？！？,,!?!?,?!
-9,3047,,"Da dove è sbucato?! Yuri, adesso! Qui!","剛才的是從哪……！？
+9,3047,,"Da dove è sbucato?! Yuri, adesso! Da questa parte!","剛才的是從哪……！？
 總之，打工妹妹！　趁現在快點過來！",,"방금 어디서…!?
 어쨌든 알바 양! 이틈에 이쪽으로!","Wo kam das denn her?! Yuri, jetzt! Hier drüben!"
 10,7299,,No!,糟了……！,,아차…!,Nein!
@@ -24,13 +24,13 @@ bonario, ma hai superato il limite.","竟然把打工妹妹當成盾牌……
 也可是忍耐到極限了啊。",,"알바 양을 방패로 삼다니…아무리 온후한 치토세 씨라도
 인내심의 끈이 끊어지고 말았단 말이다","Sie als Schild zu benutzen ... Ich bin ein
 gutmütiger Mensch, aber das geht zu weit."
-13,3047,,Sei pronto?,……妳們做好覺悟了吧？,,너희들…각오는 됐겠지?,Bist du bereit?
+13,3047,,Sei pronta?,……妳們做好覺悟了吧？,,너희들…각오는 됐겠지?,Bist du bereit?
 14,7300,,Ahi!,咿、咿咿───！,,히이익―――!,Hilfe!
 15,3047,,Nah! Non userei mai la violenza contro una ragazza.,"……開玩笑的唷♪
 不管怎麼樣，我都不會對女孩子出手的。",,"……뭐 농담이지♪
 아무리 그래도 여자를 상대로 폭력을 휘두르진 않아",Pah! Ich würde nie einem Mädchen Gewalt antun.
 16,3047,,"Ma ho usato malware per rubare le loro informazioni personali.
-Se mai sgarrare, posso fargliela pagare. Non preoccuparti, Yuri.","……但是，我已經用惡性軟體把那些人的個人情報
+Se mai dovessero sgarrare, posso fargliela pagare. Non preoccuparti, Yuri.","……但是，我已經用惡性軟體把那些人的個人情報
 都先盜取出來了。如果她們又對妳出手，
 隨時都可以懲罰她們。妳就安心吧，打工妹妹☆",,"…하지만 악성코드로 저 녀석들의 개인정보를 훔쳐뒀으니
 또 무슨 짓을 하려고 든다면 언제든 응징해줄게.
@@ -94,16 +94,15 @@ gekämpft hat."
 我一定會好好珍惜的。",,"……알았어, 알바 양.
 반드시 소중히 해줄게",Okay. Ich werde mich gut um ihn kümmern.
 34,7298,,"Bene, allora, ci vediamo entrambi di nuovo al bar!",……那麼，兩位！ 之後在店裡見囉！,,…그럼 가게에서 다시 만나자! 둘 다!,"Also dann, wir sehen uns im Café!"
-35,7298,,"E...anche se continuerò a lavorare per
-te, ti pagherò comunque per questo caso!","啊……雖然還是要繼續打工，
+35,7298,,"E...anche se continuerò a lavorare per voi,
+vi pagherò comunque per questo caso!","啊……雖然還是要繼續打工，
 但委託報酬我還是會付的喔！",,"아…결국 알바를 계속하게 됐지만
 의뢰 보수는 제대로 지불해둘게!","Und ... Obwohl ich weiter für euch arbeiten
 werde, bezahle ich euch für den Fall!"
 36,7298,,Grazie mille. Siete stati entrambi fantastici!,"真的很感謝你們。
 ……你們兩位都很帥氣唷！",,"정말 고마워.
 …멋있었어, 두 사람 모두!",Vielen Dank. Ihr wart beide fantastisch!
-37,3047,,"L'hai sentito?! Incredibile?! Pensa che io sia
-incredibile!","很……很帥氣啊～～～～！！！
+37,3047,,"L'hai sentito?! Incredibile?! Pensa che io sia incredibile!","很……很帥氣啊～～～～！！！
 剛才說的你聽到了沒有！？
 打工妹妹說我很帥氣唷！",,"머……멋있었대~~~~!!!! 들었냐 방금!?
 알바 양이 나보고 멋있었대!","Hast du das gehört?! Fantastisch! Sie findet mich
