@@ -45,7 +45,7 @@ Qui sotto sono riportati i progressi attuali del progetto:
 
 **Revisione e adattamento manuale dei testi (versione patch 1.5.1):**
 
-Le percentuali quì sotto fanno riferimento alla revisione manuale dei testi, la percentuale "mancante" è stata comunque tradotta nella pre-traduzione.
+Le percentuali qui sotto fanno riferimento alla revisione manuale dei testi, la percentuale "mancante" è stata comunque tradotta nella pre-traduzione.
   - Storia Cyber Sleuth: ![100%](https://progress-bar.xyz/100)
   - Storia Hacker's Memory: ![35%](https://progress-bar.xyz/35)
   - Quest: ![96%](https://progress-bar.xyz/96)
@@ -113,7 +113,7 @@ I file di testo sono presenti in due cartelle:
 - **message**
   - Sono presenti i dialoghi degli NPC, Storia ecc...
 - **text**
-  - Sono presenti tutte i testi relativi alla descrizione degli oggetti, menu ecc... 
+  - Sono presenti tutti i testi relativi alla descrizione degli oggetti, menu ecc... 
 
 Per quanto riguarda i testi relativi ai box dei dialoghi, esistono due tipologie di box di dialogo:
 - "**Completo**"
@@ -122,7 +122,7 @@ Per quanto riguarda i testi relativi ai box dei dialoghi, esistono due tipologie
 ![Immagine](./img/EsCompleto.png)
 
 - "**Classico**"
-  - Questa tipologia di box, non occupa tutto lo schermo e può contenere, leggermente meno caratteri.
+  - Questa tipologia di box non occupa tutto lo schermo e può contenere leggermente meno caratteri.
   - Lunghezza max: 70 (volendo anche 75 se necessario)
 ![Immagine](./img/EsClassico.png)
 
@@ -140,31 +140,31 @@ Altri menu sono:
 ![Immagine](./img/DigiBook.jpg)
 
 - **Quest Book**
-  - La lunghezza **massima è 50 caratteri** (51 se vogliamo inserire anche un carrattere punto o, se proprio necessario, un ulteriore carattere per non interrompere una parola).
+  - La lunghezza **massima è 50 caratteri** (51 se vogliamo inserire anche un carattere punto o, se proprio necessario, un ulteriore carattere per non interrompere una parola).
 ![Immagine](./img/Quest.jpg)
 
 Altri menu di gioco, come per esempio le descrizioni degli oggetti, possono essere visualizzati da interfacce differenti con dimensioni differenti, ma il testo originale è lo stesso, quindi non si può precisare la dimensione massima, in questi casi, è preferibile seguire la formattazione originale.<p>
 **NOTA BENE**
 
-Anche la dimensioni dei singoli caratteri nel font utilizzato può influire sul limite dei caratteri massimi.
+Anche la dimensione dei singoli caratteri nel font utilizzato può influire sul limite dei caratteri massimi.
 
 In ogni caso:
-- **Lista Oggetti - Menu Oggetti**
-  - La lunghezza **massima è 55 caratteri** (56 se vogliamo inserire anche un carrattere punto o, se proprio necessario, un ulteriore carattere per non interrompere una parola).
+- **Lista Oggetti - Menù Oggetti**
+  - La lunghezza **massima è 55 caratteri** (56 se vogliamo inserire anche un carattere punto o, se proprio necessario, un ulteriore carattere per non interrompere una parola).
 ![Immagine](./img/Oggetto1.jpg)
-- **Lista Oggetti - Menu Battaglia**
-  - La lunghezza **massima è 48 caratteri** (49 se vogliamo inserire anche un carrattere punto o, se proprio necessario, un ulteriore carattere per non interrompere una parola).
+- **Lista Oggetti - Menù Battaglia**
+  - La lunghezza **massima è 48 caratteri** (49 se vogliamo inserire anche un carattere punto o, se proprio necessario, un ulteriore carattere per non interrompere una parola).
 ![Immagine](./img/Oggetto2.jpg)
 
 ## Modifica delle texture
 
-Le texture del gioco sono presenti nella cartella "**images**". Tutte le immagini sono in formato "**.img**". Per poterle modificare, bisogna modificare l'estensione con "**.dds**" e successivamente utilizzare tool di modifica delle immagini che supportano i DDS (Come [Gimp](https://www.gimp.org/downloads/)). L'esportazione deve avere come formato il DXT5 (BX3).
+Le texture del gioco sono presenti nella cartella "**images**". Tutte le immagini sono in formato "**.img**". Per poterle modificare, bisogna modificare l'estensione con "**.dds**" e successivamente utilizzare un tool di modifica delle immagini che supportano i DDS (Come [Gimp](https://www.gimp.org/downloads/)). L'esportazione deve avere come formato il DXT5 (BX3).
 Per chi utilizza Photoshop, deve installare il [plugin di NVIDIA](https://developer.nvidia.com/texture-tools-exporter) per la gestione dei file DDS.
 Dopo aver fatto le modifiche, bisogna salvare sempre in formato DDS e successivamente cambiare l'estensione in IMG.
 
 **NOTA BENE**
 
-Tutte le texture sono specchiate orizzontalmente e ruotate di 180°. L’output finale deve mantenere questo orientamento!. 
+Tutte le texture sono specchiate orizzontalmente e ruotate di 180°. L’output finale deve mantenere questo orientamento! 
 
 
 ## Funzionamento installer (Per chi vuole auto generarsi l'installer)
@@ -185,7 +185,7 @@ pip install -r requirements.txt
 
 ## Creazione dell'eseguibile
 
-Per poter creare correttamente l'installer bisogna prima di tutto utilizzare ```packager.py``` per poter generare il file criptato della cartella dove sono presenti tutti i file patchati (Bisogno comunque prima fare un passaggio con il programma "[SimpleDSCSModManager](https://gamebanana.com/tools/8918)"). Lo script è guidato e bisogna solo indicare il percorso della cartella con le modifiche della Patch ed il nome del file pkg criptato. Nel file "chiave.txt" bisogna inserire la chiave di criptazione scelta.
+Per poter creare correttamente l'installer bisogna prima di tutto utilizzare ```packager.py``` per poter generare il file criptato della cartella dove sono presenti tutti i file patchati (Bisogna comunque prima fare un passaggio con il programma "[SimpleDSCSModManager](https://gamebanana.com/tools/8918)"). Lo script è guidato e bisogna solo indicare il percorso della cartella con le modifiche della Patch ed il nome del file pkg criptato. Nel file "chiave.txt" bisogna inserire la chiave di criptazione scelta.
 
 ### Windows
 
@@ -197,7 +197,7 @@ Nella cartella "_dist_", è presente l'eseguibile.
 ### Linux (Steam Deck)
 
 Per generare l'eseguibile per Linux, bisogna fare qualche passaggio in più. L'installer è creato tramite la WSL per Windows.
-Per prima cosa bisogna creare l'ambiente virtuale per python tramite il comando:
+Per prima cosa bisogna creare l'ambiente virtuale per Python tramite il comando:
 ```ps
 python3 -m venv venv
 ```
@@ -227,12 +227,12 @@ Successivamente bisogna avviare il comando per la creazione del file eseguibile:
 pyinstaller --onefile --windowed --hidden-import=webbrowser --hidden-import=pyzipper --hidden-import=sys --hidden-import=os --hidden-import=platform --hidden-import=traceback --hidden-import=PyQt6 --icon=assets/logo.png --add-data "assets:assets" --add-data "patch.pkg:." --add-data "chiave.txt:." installer.py
 ```
 
-Una volta terminato, si può disattivare l'ambiente con il commando:
+Una volta terminato, si può disattivare l'ambiente con il comando:
 ```ps
 deactivate
 ```
 **N.B.**<br>
-Il logo dell'eseguibile su linux non è supportato.
+Il logo dell'eseguibile su Linux non è supportato.
 
 Nella cartella "_dist_", è presente l'eseguibile (la versione per Linux non ha tipo/estensione).
 
