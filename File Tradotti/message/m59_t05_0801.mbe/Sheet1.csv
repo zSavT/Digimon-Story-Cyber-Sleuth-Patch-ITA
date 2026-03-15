@@ -77,7 +77,7 @@ Gespräch? Ich hoffe es ..."
 其實，我有件事一直想問你。",,"저, 저기…
 실은 네가 들어줬으면 하는 이야기가 있어","Ach, übrigens ... Ich wollte dich etwas fragen."
 22,2020,,?,？？,,??,?
-23,3048,,In realtà vorrei...,其實我對你……,,"사실은 나, 너에게…",Eigentlich möchte ich ...
+23,3048,,"In realtà, io vorrei...",其實我對你……,,"사실은 나, 너에게…",Eigentlich möchte ich ...
 24,2020,,...!,…………！！,,………!!,...!
 25,3048,,Che c'è? Sei appena diventato tutto bianco...,怎麼了，表情都變了……,,"왜 그래, 안색이 변해선……",Was denn? Du bist gerade ganz weiß geworden ...
 26,3048,,"... Un messaggio da K?!
@@ -91,7 +91,7 @@ Zeig mal her!"
 Dies wird dir die Wahrheit zeigen.“"
 28,3048,,Hosaka ...? È lui la prossima vittima?,保坂……就是下個目標嗎？,,호사카라니… 다음 타깃이야?,Hosaka ...? Ist er das nächste Opfer?
 29,2020,,...!,……！,,……!,...!
-30,3048,,Sembra un server di dati per i dati personali.,這個……看起來是個人管理資料用的檔案伺服器。,,이거… 개인이 데이터를 관리하기 위한 파일 서버같은데,Sieht aus wie ein Datenserver für Personalien.
+30,3048,,Sembra un file server per la gestione dei dati personali.,這個……看起來是個人管理資料用的檔案伺服器。,,이거… 개인이 데이터를 관리하기 위한 파일 서버같은데,Sieht aus wie ein Datenserver für Personalien.
 31,3048,,"Cosa farai?
 ... Immagino che ci andrò, no?","該怎麼做呢？
 ……不過，你已經決定好了吧。
@@ -109,16 +109,16 @@ Wieder lässt du mich hängen."
 이번에야말로 너와 함께 싸우고 싶어","Für Shiga konnte ich nichts tun, aber dieses
 Mal gehe ich mit dir."
 35,3048,,Sono pronto.,我也是做了些準備喔。,,내 나름대로 준비를 해 뒀다구,Ich bin bereit.
-36,3048,,"Potrei non essere bravo come te, ma io
-sono anche un buon ""Computer-Cowboy"".","雖然還是比不上你，
+36,3048,,"Potrei non essere bravo come te, ma sono
+anche io un buon ""Computer-Cowboy"".","雖然還是比不上你，
 但我也是出色的「電腦牛仔」喔。",,"너 정도는 아니더라도 훌륭한
 ""컴퓨터 카우보이""야, 나 역시","Ich bin vielleicht nicht so gut wie du, aber ich
 bin auch ein ganz guter „Computer-Cowboy“."
 37,2020,,?,？？,,??,?
 38,3048,,Non ti dice niente? È dal libro che ti ho prestato.,我在說什麼……之前不是借了你書嗎？,,"뭐냐니… 너에게 빌려줬잖아, 책","Das sagt dir nichts? Das ist aus dem Buch, das
 ich dir geliehen habe."
-39,2020,,"Ricordo ancora che l'ho preso in prestito.
-Mi ha aiutato ad addormentarmi ieri sera.","好像有借過
+39,2020,,"Sì, ricordo di averlo preso in prestito.
+Ieri sera è stato un ottimo sonnifero.","好像有借過
 好像是很棒的入睡用書籍",,"빌렸던 것 같기도
 괜찮은 수면제였던 것 같아","Ich weiß noch, dass ich es mir geliehen habe.
 Es half mir gestern Abend beim Einschlafen."

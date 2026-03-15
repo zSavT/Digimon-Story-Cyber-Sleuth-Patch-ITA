@@ -4,11 +4,11 @@ ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
 3,7009,,Bzzz ... zzzz ...,啊……嗚…………,,가……아…………,Bzzz ... zzzz ...
 4,2020,,...?!,……！？,,……!?,...?!
 5,3048,,"[p], tutto a posto?!",[p]，你沒事吧！？,,"[p], 괜찮아!?","[p], alles in Ordnung?!"
-6,3048,,"Sì, ce l'ho fatta! Ce l'ho fatta davvero! Ho cancellato il suo account!","對，是我做的喔！　我做到了！
+6,3048,,"Sì, ce l'ho fatta! Ce l'ho fatta davvero! Ho distrutto il suo account!","對，是我做的喔！　我做到了！
 我把那傢伙的帳號給毀了！",,"아아, 내가 해냈어! 해치웠어!
 그 녀석의 계정, 박살냈어!","Ja, ich habe es geschafft! Ich habe es wirklich
 geschafft! Ich habe seinen Account gelöscht!"
-7,3048,,"È stata la prima volta che ho cancellato un account!
+7,3048,,"È stata la prima volta che ho distrutto un account!
 Come sono stato?!","雖然是我第一次破壞帳號，
 但很成功對吧！？",,"계정 파괴 같은 건 처음 해봤는데
 멋지게 해냈지?!","Das war das erste Mal, dass ich einen Account
@@ -66,7 +66,7 @@ Ich möchte der „Vorreiter“ sein."
 這是駭客的稱號。",,"EDEN에 버려진 낡은 데이터 파일에서 본 적이 있어.
 그런 해커의 칭호가 있다고","Das habe ich in einer alten Datei in EDEN gesehen.
 Es ist ein Hackertitel."
-24,3048,,Nessuna leggenda o nerd è inteso con ciò.,這跟傳說或科技怪才那種稱號都不一樣。,,그건 레전드와도 기크와도 달라,Keine Legende oder Nerd ist damit gemeint.
+24,3048,,È un titolo diverso da "Leggenda" o "Nerd".,這跟傳說或科技怪才那種稱號都不一樣。,,그건 레전드와도 기크와도 달라,Keine Legende oder Nerd ist damit gemeint.
 25,3048,,"Non si tratta di essere il migliore.
 Si tratta di guidare altri hacker.","不是獨自一人達到頂點，
 而是引導眾多駭客的人專屬的稱號。",,"혼자서 정점에 도달하는 것이 아니라 많은 해커를
@@ -97,7 +97,7 @@ Wir könnten die „Hacker-Helden“ von EDEN werden!"
 werden."
 31,2020,,...,…………,,…………,...
 32,3048,,... Perché no?!,……為、為什麼啊！,,"……어, 어째서야!",... Warum nicht?!
-33,3048,,Perché sei da Hudie?!,因為你現在是hudie的一員……嗎？,,지금의 자신은 후디에니까…라고?,Weil du bei Hudie bist?!
+33,3048,,Perché sei un membro di Hudie?!,因為你現在是hudie的一員……嗎？,,지금의 자신은 후디에니까…라고?,Weil du bei Hudie bist?!
 34,3048,,Tu ti fidi ancora di loro? Davvero?,你啊……還在相信他們嗎？,,너……아직도 그 녀석들을 믿고 있는 거야?,Du vertraust ihnen noch? Wirklich?
 35,3048,,"... Ok, capisco.
 Adesso mostri il tuo vero volto.","……這，也是啦。

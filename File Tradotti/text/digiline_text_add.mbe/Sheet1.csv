@@ -962,7 +962,8 @@ una balena, uno squalo o un'orca?","問答題！　鯨魚、鯊魚、虎鯨之�
 誰才是魚類呢？",,"퀴즈! 고래, 상어, 범고래 중에서
 어류인 것은 뭐~게?","Quizzeit! Welcher ist ein Fisch: ein
 Wal, ein Hai oder ein Orca?"
-4095,,È il momento del quiz! Quale dei seguenti è il fiume più lungo?,問答題！　世界最長的河流是？,,퀴즈! 세계에서 가장 긴 강은 뭐~게?,"Quizzeit! Welcher der folgenden ist 
+4095,,"È il momento del quiz!
+Quale dei seguenti è il fiume più lungo?",問答題！　世界最長的河流是？,,퀴즈! 세계에서 가장 긴 강은 뭐~게?,"Quizzeit! Welcher der folgenden ist 
 der längste Fluss?"
 4096,,"È l'ora del quiz! Quale di questi è un anfibio:
 un geco o un tritone?",問答題！　壁虎跟蠑螈，誰才是兩棲類？,,"퀴즈! 도마뱀과 도롱뇽, 양서류인 것은 어느 쪽이게?","Quizzeit! Welcher ist eine Amphibie, ein
@@ -1861,7 +1862,8 @@ una balena, uno squalo o un'orca?","來進行問答題吧！　鯨魚、鯊魚�
 誰才是魚類呢？",,"자아 퀴즈다! 고래, 상어, 범고래 중에서
 어류인 것은 어느 것인지 알아?","Test! Welcher ist ein Fisch: ein
 Wal, ein Hai oder ein Orca?"
-6095,,Quiz a sorpresa! Quale dei seguenti è il fiume più lungo?,來進行問答題吧！　世界最長的河流是？,,자아 퀴즈다! 세계에서 가장 긴 강은 뭐야?,"Test! Welcher der folgenden
+6095,,"Quiz a sorpresa!
+Quale dei seguenti è il fiume più lungo?",來進行問答題吧！　世界最長的河流是？,,자아 퀴즈다! 세계에서 가장 긴 강은 뭐야?,"Test! Welcher der folgenden
 ist der längste Fluss?"
 6096,,"Quiz a sorpresa! Quale di questi è un anfibio:
 un geco o un tritone?",來進行問答題吧！　壁虎跟蠑螈，誰才是兩棲類？,,"자아 퀴즈다! 도마뱀과 도롱뇽
@@ -7803,8 +7805,8 @@ che la sua nuova canzone mi piacerebbe molto.","你知道JimmyKen嗎？
 我的朋友好推薦他出的新歌喔。",,"너 지미KEN이라고 알아?
 친구가 신곡을 엄청 추천한다고 하더라고","Kennst du Jimiken? Ein Freund meinte,
 sein neues Lied würde mir gefallen."
-45029,,"Se hai un momento, potresti dirmi
-se nelle vicinanze vendono carote e curry roux a buon mercato?","抱歉，任何情報都沒關係。
+45029,,"Se hai un momento, potresti dirmi se nelle vicinanze
+vendono carote e curry roux a buon mercato?","抱歉，任何情報都沒關係。
 告訴我附近有沒有賣便宜的胡蘿蔔跟咖喱塊的店。",,"미안하지만, 의뢰 중 겸사겸사라도 좋으니까 근처에서
 당근하고 카레 가루를 싸게 팔거든 가르쳐줘.","Könntest du mir sagen, ob es hier
 irgendwo günstig Karotten gibt?"
@@ -7823,8 +7825,8 @@ betrieben? Hudie? Handelt er jetzt?"
 33．11．111．22222．22．1．99",,"4444, 77777, 000, 333, 1, 8,
 33, 11, 111, 22222, 22, 1, 99","4444 77777 000 333 1 8 
 33 11 111 22222 22 1 99"
-45033,,"Ops! Ho inviato un messaggio per la mia squadra per sbaglio.
-Ignoralo, okay?","哎呀抱歉，不小心把給部下的訊息
+45033,,"Ops! Ho inviato un messaggio per la mia squadra per
+sbaglio. Ignoralo, okay?","哎呀抱歉，不小心把給部下的訊息
 發錯給你了。不要太在意喔。",,"이런 미안, 부하한테 보낼 메시지를 잘못
 보냈다. 신경 쓰지 마라.","Hoppla, die Nachricht war für mein Team.
 Ignoriere die, in Ordnung?"
@@ -8166,7 +8168,7 @@ dopo che ha fissato una cameriera.","如果是千歲的話，他在顧店的時�
 一直色咪咪地看著打工的女生。",,"치토세가 알바하는 여자애한테 홀딱 반해서
 가게를 보기도 해","Chitose muss auch verkaufen, nachdem er
 eine Kellnerin angeglotzt hat."
-46033,,Questo è criptato? Rotto!,這是暗號吧？　我解開了喔。,,이거 암호죠? 풀었어요,Soll das ein Code sein? Der ist kaputt!
+46033,,Questo è un codice criptato? È rotto!,這是暗號吧？　我解開了喔。,,이거 암호죠? 풀었어요,Soll das ein Code sein? Der ist kaputt!
 47033,,Che diavolo è questa parola...,這是什麼啊？　這串文字……,,뭐죠? 이 문자열…,Was soll denn dieses Wort heißen ...
 46034,,Erika si arrabbierà. Ha grandi aspirazioni.,艾莉卡會生氣的說「別說這種奢侈的事」喔？,,"「사치스러운 소리 하지마」
 라고 에리카한테 혼날걸?","Das wird Erika nicht gefallen. Du bist
@@ -8446,8 +8448,8 @@ auf der Straße gar nicht erkennen!"
 我記得這是吉米肯的支持者的稱呼吧？",,"와…너도「밀랍 인형」이구나…
 분명 지미켄 팬을 그렇게 불렀었지?","Du bist also auch eine Wachsfigur ...
 So heißen Jimikens Fans."
-56029,,"Sì. Erika ODIA le carote. Bisogna
-tritarle finissime per ingannarla.","對，因為艾莉卡最討厭胡蘿蔔了，
+56029,,"Sì. Erika ODIA le carote.
+Bisogna tritarle finissime per ingannarla.","對，因為艾莉卡最討厭胡蘿蔔了，
 得把胡蘿蔔細細磨成泥才行。",,"그래. 에리카가 큰 당근을 싫어해서 먹이려면
 당근을 잘게 썰어서 넣어 먹어야되니까.","Ja, Erika kann Karotten nicht ausstehen.
 Musst sie schon sehr fein pürieren."

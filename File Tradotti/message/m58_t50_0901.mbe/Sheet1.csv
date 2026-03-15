@@ -123,7 +123,7 @@ quindi state in guardia.","進行下載時，是最沒有防備的時候。
 一定要加倍小心。",,다운로드할 때 가장 무방비해지니 조심해,"Während des Downloads sind wir besonders
 angreifbar – bleibt also wachsam."
 35,3046,,"Anche se è un server di riserva, sarà pesantemente protetto.
-Chiunque si avvicini, fatelo fuori.","……雖說是保留區的伺服器，但戒備還是很森嚴。
+Qualsiasi nemico vi si pari davanti, fatelo fuori.","……雖說是保留區的伺服器，但戒備還是很森嚴。
 到時候，只要是朝我們過來的傢伙就通通做掉。",,"…예비 서버라곤 해도 보안은 엄중할 테지.
 달려드는 녀석은 닥치는 대로 자귓밥을 먹여주도록 해","Auch wenn es sich um einen Ersatzserver handelt,
 wird er stark gesichert sein. Ihr müsst euch die
@@ -161,7 +161,7 @@ zu analysieren."
 我們趁亂入侵主網路內部。",,"그 틈에 남겨진 다테의「통신기록」에 섞여들어가서
 메인 네트워크 내에 침입","Dann verwenden wir Dates Übertragungsprotokoll,
 um ins Hauptnetzwerk zu schlüpfen."
-48,3045,,Scambiamo il protocollo di ispezione con quello di trasmissione.,把「閱覽紀錄」掉包成「通訊紀錄」。,,「열람기록」을「통신기록」으로 바꿔친다,"Wir tauschen das Inspektionsprotokoll gegen
+48,3045,,Scambiamo il protocollo di visualizzazione con quello di trasmissione.,把「閱覽紀錄」掉包成「通訊紀錄」。,,「열람기록」을「통신기록」으로 바꿔친다,"Wir tauschen das Inspektionsprotokoll gegen
 das Übertragungsprotokoll."
 49,3047,,"Buona idea. Così possiamo accedere alla rete senza lasciare tracce.","原來如此，這樣一來就算直接存取網路，
 也不會被抓到證據。",,"과연. 그거면 직접 네트워크에 접속하지 않더라도
