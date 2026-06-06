@@ -5,7 +5,7 @@ Possiamo parlarne? È urgente.","啊，你就是接下委託案的偵探嗎？
 곧바로 의뢰에 대해 이야기해도 될까?","Ach, du bist der Detektiv, der sich um meinen Fall
 kümmert? Können wir darüber
 reden? Es ist dringend."
-101,4039,,"Questa smartphone ci sono foto di fiori,
+101,4039,,"Su questo smartphone ci sono foto di fiori,
 ma non ricordo nemmeno di averle scattate.
 Inquietante, vero?","我這支手機會自己儲存一些
 我根本不記得有拍過的花朵照片，很噁心對吧？",,"이 휴대폰, 찍은 기억이 없는 꽃 사진이 멋대로 저장돼
@@ -21,17 +21,17 @@ pieno di foto di fiori! Ho fatto tipo whaa'!?","最近我想給我的女性朋�
 정말 놀랐어","Neulich wollte ich einer Freundin von mir ein Foto
 von meinem Hund zeigen, aber auf meinem Handy
 waren nur Blumenfotos! Komisch, was?!"
-103,4039,,"Quindi la mia amica mi fa tipo ""Ehi, ti piacciono i fiori o
-qualcosa del genere?"". Era completamente fuori di testa.
-Ma seriamente, a me non piacciono i fiori, amico.","我的女性朋友們看到也有點嚇了一跳，
+103,4039,,"La mia amica mi fa: ""Ehi, ti piacciono i fiori o cose così?"".
+Era rimasta del tutto allibita. Ma dico sul serio,
+a me i fiori non piacciono proprio.","我的女性朋友們看到也有點嚇了一跳，
 說什麼「原來你喜歡花啊」。
 拜託，我根本就不喜歡什麼花好嗎～～",,"「너, 꽃에 관심이 있었구나」라며
 여자 지인이 나를 피하더라
 난 꽃에 전혀 관심 없는데 말이지―","Meine Freundin hat gefragt, ob ich auf Blumen
 stehe. Sie war total verwirrt. Aber echt mal,
 ich mag keine Blumen."
-104,4039,,"Anche se non sto dicendo che penso che
-un tizio abbia usato il mio telefono quando non ero nei paraggi.","但是感覺也不像有人趁我沒看到的時候
+104,4039,,"Ma escludo che qualcuno possa aver usato
+il mio telefono a mia insaputa.","但是感覺也不像有人趁我沒看到的時候
 用這支手機拍照。",,"하지만, 내가 보지 않는 사이에 다른 녀석이
 이 휴대폰으로 사진을 찍는 것도 아닌 것 같아","Ich glaube aber eigentlich nicht, dass
 irgendwer mein Handy benutzt hat,
@@ -123,9 +123,9 @@ Dimmi per favore che sei riuscito a sbarazzartene completamente!","我的手機�
 你有幫我清除它了吧？",,"내 휴대폰이 그런 거에 감염됐었다니…
 그래서 너, 제대로 치료해준 거겠지!?","Mein Handy war so schlimm infiziert?! Bitte sag
 mir, dass du alles komplett entfernt hast!"
-204,4039,,"Cosa? È innocuo e non scombina il mio telefono?
-È...scusa? Il virus è? Io, io non ci capisco
-molto, ma immagino che se è innocuo...","什麼？　它現在無害了所以沒有清除？
+204,4039,,"Cosa? È diventato innocuo e non danneggerà il mio telefono?
+E... scusa? Il virus si è pentito? Io non ne capisco molto,
+ma immagino che se è inoffensivo...","什麼？　它現在無害了所以沒有清除？
 而且本人也反省過了……病、病毒竟然會……反省？
 雖然不是很懂……不過既然它無害的話……",,"…뭐? 무해해졌으니까 치료하진 않는다고?
 본인도 반성했다…라니, 바, 바이러스가… 반성!?
@@ -211,7 +211,7 @@ La sua ragazza potrebbe pensare che gli piacciono i fiori.","什麼都沒說。
 꽃에 관심이 있다고 오해받아서, 여자 지인과 사이가 멀어졌어","Nichts Besonderes. 
 Er fand dich irgendwie süß.
 Seine Freundin könnte denken, dass er Blumen mag."
-354,1359,,"Cosa? Impossibile! Ne ho presi
+354,1359,,"Cosa? Impossibile! Ne ho scattate
 un
 sacco! Dai, cosa ha detto davvero?","什麼～～不會吧！
 我拍了很多照片耶！
@@ -265,7 +265,7 @@ qualsiasi chiamata che riceve da donne!","我待在這裡時，要是發現他�
 就會切斷他和那女人的通話。",,"……여기 있다가 혹시 그가 여자랑 잘될 것 같으면
 그 녀석과의 통화 도중에 전화를 끊어주겠어","Ich kann hierbleiben und immer auflegen, wenn
 er von Frauen angerufen wird!"
-365,1359,,"Heehee... Non prendertela con una ragazza innamorata!",呵呵呵……戀愛中的少女是很堅強的！,,우후후… 사랑을 하는 소녀는 강하다구!,"Hihi ... Leg dich nicht mit einem verliebten
+365,1359,,Heehee... Non prendertela con una ragazza innamorata!,呵呵呵……戀愛中的少女是很堅強的！,,우후후… 사랑을 하는 소녀는 강하다구!,"Hihi ... Leg dich nicht mit einem verliebten
 Mädchen an!"
 400,1359,,"Quando l'ho visto in EDEN è stato amore a prima vista.
 Mi sono intrufolata nel suo cellulare e sono andata con
