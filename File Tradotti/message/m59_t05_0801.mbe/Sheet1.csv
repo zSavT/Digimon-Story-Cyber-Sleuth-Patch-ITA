@@ -1,5 +1,5 @@
 ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
-1,3048,,"... Capisco. Quindi è così.",……原來如此。,,……그렇구나,"... Wow, das ist echt heftig."
+1,3048,,... Capisco. Quindi è così.,……原來如此。,,……그렇구나,"... Wow, das ist echt heftig."
 2,3048,,"Sarà difficile da dire, ma... quel tipo, Ryuji, non è che sta facendo qualcosa
 di losco?","雖然有點難說出口……
 但龍司那傢伙，該不會是做了什麼壞事吧？",,"이런 말 하긴 좀 그런데…
@@ -18,7 +18,7 @@ Se continui così, finirai anche tu coinvolto in qualche brutto guaio.","我說�
 這樣下去的話，連你都會被捲入壞事中喔。",,"있잖아, 이제 해커팀 같은 건 그만둬.
 이대로라면 너도 나쁜 일에 휘말릴 거야","Du solltest das Hacker-Dasein aufgeben, sonst
 wirst du auch noch in schlimme Sachen verwickelt."
-7,3048,,"Quelli si approfittano della tua debolezza e ti stanno solo usando.","那群傢伙會抓住你的弱點，
+7,3048,,Quelli si approfittano della tua debolezza e ti stanno solo usando.,"那群傢伙會抓住你的弱點，
 只是想要徹底利用你。",,"그 녀석들 네 약점을 이용해서
 너를 좋을대로 부리고 있을 뿐이라니까","Die Typen haben deine Schwachstelle gefunden und
 nutzen dich nur aus."
@@ -49,8 +49,7 @@ O forse in un negozio di figure usate?","那麼，我們去書店轉換心情吧
 還是要去模型店？",,"그러면 기분전환 삼아 서점이라도 갈래?
 아니면 중고 피규어 가게라던가?","Okay. Sollen wir zu einem Buchladen gehen?
 Oder zu einem Laden mit Second-Hand-Figuren?"
-15,3048,,"Io personalmente vorrei comprare alcuni romanzi di fantascienza usati.
-Tu sei più per i manga, vero?","我是蠻想去找找科幻小說啦
+15,3048,,"Sei più per i manga, vero?","我是蠻想去找找科幻小說啦
 但你喜歡的是漫畫。",,"나는 중고 SF소설을 구하러 다니고 싶지만
 너는 만화같은 걸 좋아하니까","Ich persönlich würde gern ein paar gebrauchte
 Science-Fiction-Romane kaufen. Du stehst
@@ -85,7 +84,7 @@ Fammi vedere!","……K發的訊息！？
 也讓我看看！",,"……K로부터 온 메시지!?
 어이, 나한테도 보여줘!","... Eine Nachricht von K?!
 Zeig mal her!"
-27,7130,,""Informazioni su Akira Hosaka. Questo ti mostrerà la verità."","「發給你保坂晶的情報。
+27,7130,,"Informazioni su Akira Hosaka. Questo ti mostrerà la verità.""""","「發給你保坂晶的情報。
 　希望你能掌握真相」",,"「""호사카 아키라""의 정보를 보내주겠다.
  이걸로 진실을 잡아보도록」","„Informationen zu Akira Hosaka.
 Dies wird dir die Wahrheit zeigen.“"

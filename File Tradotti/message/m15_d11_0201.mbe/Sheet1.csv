@@ -68,7 +68,7 @@ Ero in ufficio. Kyoko mi ha mandato qui!","太好了！趕上了！
 我去事務所遇到杏子姊，是她告訴我這個地方的！",,"다행이다~! 안 늦었어!
 사무소에 갔더니 쿄코 씨가 계셔서, 이 장소를 가르쳐 주셨어!","Prima, ich komme noch rechtzeitig.
 Ich war im Büro. Kyoko hat mich hergeschickt!"
-21,3002,,"Sei Magnamon? Ti ho cercato per parecchio tempo!",你就是金甲龍獸吧？我們找你好久了！,,네가 매그너몬이지? 엄청 찾았다구!?,"Du bist Magnamon? Dich habe ich ganz schön lange
+21,3002,,Sei Magnamon? Ti ho cercato per parecchio tempo!,你就是金甲龍獸吧？我們找你好久了！,,네가 매그너몬이지? 엄청 찾았다구!?,"Du bist Magnamon? Dich habe ich ganz schön lange
 gesucht!"
 22,1382,,Ah sì?,妳是……？,,너는…?,Ach ja?
 23,3002,,"Guardate, ragazzi! Finalmente l'abbiamo trovato!",喂！大家！總算找到了！,,"자, 모두! 드디어 찾았어!","Schaut, Leute! Wir haben ihn endlich gefunden!"
@@ -87,7 +87,7 @@ die Beste! Jetzt wissen wir, wo sich die
 meisten Royal Knights aufhalten!"
 29,3002,,"Ora siamo tutti riuniti! Vero, Omnimon?",這樣子大家就都到齊了！喂！奧米加獸！,,"이것으로 모두 합류했어! 그렇지, 오메가몬!","Jetzt sind wir alle beisammen! Stimmt’s, Omnimon?"
 30,1382,,Omnimon?!,奧米加獸……？,,…오메가몬!?,Omnimon?!
-31,1382,,"Omnimon? Stai forse dalla parte degli umani?",奧米加獸，你和人類一起行動嗎？,,"오메가몬… 당신, 인간과 행동을 함께 하고 있었던 건가요?","Omnimon? Stehst du etwa auf der Seite der
+31,1382,,Omnimon? Stai forse dalla parte degli umani?,奧米加獸，你和人類一起行動嗎？,,"오메가몬… 당신, 인간과 행동을 함께 하고 있었던 건가요?","Omnimon? Stehst du etwa auf der Seite der
 Menschen?"
 32,1088,,"Infatti. Devi capire perché, Magnamon.
 Considerarli una minaccia e distruggerli è un errore.","沒錯，金甲龍獸，你應該能瞭解。
@@ -95,7 +95,7 @@ Considerarli una minaccia e distruggerli è un errore.","沒錯，金甲龍獸�
 인간을 위험한 존재라 판단하고 제거하는 건 잘못된 선택이라는 것을","In der Tat. Du musst verstehen, warum, Magnamon.
 Sie als Gefahr anzusehen und zu vernichten
 ist ein Fehler."
-33,1382,,"Ma loro sono responsabili per la devastazione del nostro mondo...",但是，使我們的世界陷入慘況的是……,,"하지만, 우리 세계의 그 참상을 만들어 낸 것은…","Aber sie sind für die Verwüstung unserer Welt
+33,1382,,Ma loro sono responsabili per la devastazione del nostro mondo...,但是，使我們的世界陷入慘況的是……,,"하지만, 우리 세계의 그 참상을 만들어 낸 것은…","Aber sie sind für die Verwüstung unserer Welt
 verantwortlich ..."
 34,1088,,"Anche Nokia e gli altri ora lo sanno.
 Vogliono aiutare a rimediare.",諾奇雅他們很清楚人類是罪魁禍首，並希望打破現狀。,,…노키아 일행은 그 사실을 알면서도 현상의 타개를 원하고 있어,"Das wissen Nokia und die anderen jetzt auch.
@@ -161,8 +161,8 @@ Hmpf! Du Narr."
 49,1382,,Dynasmon!,杜納斯獸……！,,…듀나스몬!,Dynasmon!
 50,1738,,"Magnamon, non ascoltare le loro false, dolci parole!",金甲龍獸，別聽他們的花言巧語！,,"매그너몬, 녀석들의 감언이설에 귀를 기울여선 안 돼!","Magnamon, hör nicht auf ihre falschen, süßen
 Worte!"
-51,1738,,"Hai dimenticato i Eater, come si sono scagliati sul
-nostro mondo? O le grida dei nostri compagni caduti?","你忘了我們在數碼世界和侵食者戰鬥的艱困歲月嗎！
+51,1738,,"Hai dimenticato gli Eater, come si sono scagliati sul
+nostro mondo? Non posso stare a guardare!","你忘了我們在數碼世界和侵食者戰鬥的艱困歲月嗎！
 快想起被侵食者吃掉的伙伴們痛苦的叫聲！",,"디지털 월드에서 우리들이 이터와 싸웠던 고난의 나날을 잊은 거냐!
 이터에게 먹힌 동료들의 괴로운 절규를 기억해내!","Hast du die Verschlinger vergessen, wie sie sich
 auf unsere Welt stürzten? Oder die Schreie

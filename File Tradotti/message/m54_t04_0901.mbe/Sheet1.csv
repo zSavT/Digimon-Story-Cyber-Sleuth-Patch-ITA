@@ -1,7 +1,7 @@
 ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
 1,2020,,...?,……？,,……?,...?
 2,5004,,"""Zuppa di azuki piccante""",“RED．HOT．香辣紅豆湯”,,「레드 핫 칠리 단팥죽」,„Scharfe Azukibohnensuppe“
-3,2020,,"(... Avevo fretta e ho comprato uno strano gusto.)",（……買太急了，結果買到怪東西）,,(…………당황해서 그런지 이상한 걸 사버렸다),"(... Ich hatte es eilig und habe eine seltsame
+3,2020,,(... Avevo fretta e ho comprato uno strano gusto.),（……買太急了，結果買到怪東西）,,(…………당황해서 그런지 이상한 걸 사버렸다),"(... Ich hatte es eilig und habe eine seltsame
 Geschmacksrichtung gekauft.)"
 4,7072,,... Ti piacciono?,……你喜歡那個嗎？,,"……좋아하시나요, 그거",... Magst du die?
 5,2020,,?!,！？,,!?,?!
@@ -92,7 +92,7 @@ Qualcosa per intenditori.","不斷出現喝下後因為太過美味而升天的�
 ""미라클 주스""라는 이명이 있는 숨겨진 명품입니다","... Er wird auch als „Magiesaft“ bezeichnet, von
 Leuten, die den Geschmack himmlisch finden.
 Etwas für Kenner."
-30,7072,,"A quanto pare persino famosi intrattenitori e cestisti amano questa roba.",聽說連知名藝人和籃球選手也都相當愛喝……,,"유명한 연예인이나 농구 선수까지 애호한다는
+30,7072,,A quanto pare persino famosi intrattenitori e cestisti amano questa roba.,聽說連知名藝人和籃球選手也都相當愛喝……,,"유명한 연예인이나 농구 선수까지 애호한다는
 소문이 있을 정도로……","Angeblich lieben sogar berühmte Entertainer und
 Basketballspieler dieses Zeug."
 31,7072,,"Se lo scegli, dimostra che fai tutto a modo tuo.",會選擇這個，你果然和一般人不太一樣呢。,,그걸 고르다니 과연 미식가로군요,"Wenn du ihn wählst, zeigt es, dass du alles auf
@@ -148,7 +148,7 @@ Pfirsichen."
 auf ihn hören."
 46,7072,,Mi rendo conto che ti intendi davvero di queste cose...,連這方面都這麼可靠啊……,,그런 부분까지 제대로 챙기다니……,"Ich merke schon, dass du wirklich etwas von
 solchen Sachen verstehst ..."
-47,7072,,Tu sei davvero diverso dagli altri. Sono contento di averti conosciuto.,"你果然和其他人不太一樣，
+47,7072,,Sei davvero diverso dagli altri. Sono contento di averti conosciuto.,"你果然和其他人不太一樣，
 能遇到你真是太好了。",,"역시 당신은 다른 분과 다른 미식가인 것 같네요.
 만나게 되어서 반갑습니다","Du bist echt anders als andere. Ich bin froh,
 dich kennengelernt zu haben."

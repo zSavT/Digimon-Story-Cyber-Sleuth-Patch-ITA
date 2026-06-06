@@ -29,12 +29,12 @@ unterkriegen“, was?"
 8,2020,,!!!,……！！！,,……!!!,!!!
 9,7052,,Wow!!!,嗚哇……！？,,우옷…!?,Boah!!!
 10,3046,,"... Sei sempre il solito pasticcione, eh?",……你還是老樣子總會掉以輕心啊。,,"……여전히 마무리가 허술하군, 넌","... Du bist so schludrig wie immer, was?"
-11,7052,,"... Ryuji!",……龍司！,,……류지!,... Ryuji!
-12,7052,,"... Mi dispiace. Mi hai tirato fuori dai guai.",抱歉……謝謝你救了我。,,미안. ……덕분에 살았다,"... Tut mir leid. Du hast mir aus der Patsche
+11,7052,,... Ryuji!,……龍司！,,……류지!,... Ryuji!
+12,7052,,... Mi dispiace. Mi hai tirato fuori dai guai.,抱歉……謝謝你救了我。,,미안. ……덕분에 살았다,"... Tut mir leid. Du hast mir aus der Patsche
 geholfen."
-13,3046,,"Non fraintendere. Non sono venuto a salvare te.",不要會錯意了，我沒有想要救你的意思。,,착각하지 마. 너를 구한게 아냐,"So solltest du es nicht sehen. Ich bin nicht
+13,3046,,Non fraintendere. Non sono venuto a salvare te.,不要會錯意了，我沒有想要救你的意思。,,착각하지 마. 너를 구한게 아냐,"So solltest du es nicht sehen. Ich bin nicht
 gekommen, um dich zu retten."
-14,3046,,"E perché stai con le mani in mano? Hai già trovato Yuugo e Fei?","你在這裡摸什麼魚，
+14,3046,,E perché stai con le mani in mano? Hai già trovato Yuugo e Fei?,"你在這裡摸什麼魚，
 找到YUGO跟菲了嗎？",,"뭘 한눈팔고 있는 거야.
 유고와 페이는 찾았나?","Und warum drehst du Däumchen? Hast du Yuugo und
 Fei schon gefunden?"
@@ -43,7 +43,7 @@ Fei schon gefunden?"
 ……有沒有受傷？",,"위험했군.
 ……다치치 않았어?","Das war ziemlich gefährlich vorhin.
 ... Bist du verletzt?"
-19,7052,,"... Yuugo?",……YUGO？,,……유고인가,... Yuugo?
+19,7052,,... Yuugo?,……YUGO？,,……유고인가,... Yuugo?
 20,2020,,...!,…………！,,…………!,...!
 21,7053,,"Mi chiedevo già chi potesse essere.
 Ma guarda un po'!",才在想會是誰，沒想到是你們啊。,,누군가 했더니 당신이었구만요,"Ich habe mich schon gefragt, wer das sein könnte.
@@ -60,13 +60,13 @@ Piacere di conoscerti.","……就是這麼一回事，
 我就是真田新，再次多多指教啦。",,"……뭐, 그렇게 된 거지.
 내가 사나다 아라타다. 새삼 잘 부탁해","... Mist, jetzt kommt alles raus. Ich bin Arata
 Sanada. Ist mir ein Vergnügen."
-26,3001,,"Tu sei il novellino di Hudie?",你就是剛進hudie的新人嗎？,,네가 후디에에 새로 들어간 신입인가?,Du bist der Neuling bei Hudie?
+26,3001,,Sei il novellino di Hudie?,你就是剛進hudie的新人嗎？,,네가 후디에에 새로 들어간 신입인가?,Du bist der Neuling bei Hudie?
 27,3001,,...,…………,,…………,...
 28,2020,,...,…………,,…………,...
 29,3001,,...,………………,,………………,...
 30,2020,,...?,………………？,,………………?,...?
-31,3001,,"... Capisco. Nulla sfugge al tuo sguardo.",……原來如此，你的眼神不錯。,,……과연. 좋은 눈을 하고 있군,... Verstehe. Deinem Blick entgeht nichts.
-32,3001,,"E i nostri "interessi" sembrano coincidere.",而且……感覺“興趣”也蠻合的。,,"게다가……""취미""도 맞을 것 같아","Und unsere „Interessen“ scheinen sich zu
+31,3001,,... Capisco. Nulla sfugge al tuo sguardo.,……原來如此，你的眼神不錯。,,……과연. 좋은 눈을 하고 있군,... Verstehe. Deinem Blick entgeht nichts.
+32,3001,,"E i nostri interessi"" sembrano coincidere.""",而且……感覺“興趣”也蠻合的。,,"게다가……""취미""도 맞을 것 같아","Und unsere „Interessen“ scheinen sich zu
 überschneiden."
 33,2020,,???,？？？,,???,???
 34,3001,,Sei venuto qui apposta per presentarlo?,該不會是為了要介紹他，才特地跑來見我吧？,,그를 소개해주려고 일부러 찾아온 거야?,"Du bist extra hergekommen, um ihn vorzustellen?"
@@ -119,7 +119,7 @@ come è stato il vostro caso.","不是所有人都能像以前的你們一樣，
 靠自身信念來約束自己。",,"누구나가 한 때의 너희들처럼 스스로의 신념만으로
 자신을 규제할 수 있는 것이 아냐","Es ist nicht so, als ob alle sich aus Überzeugung
 beherrschen können, wie es bei euch der Fall war."
-47,3001,,"Io credo che regole fisse siano necessarie, ovunque ci si trovi.",我認為不論在哪裡，都需要存在明確規則。,,명확한 규율은 어떤 장소에서든 필요한 것이라고 생각해,"Ich glaube, dass feste Regeln notwendig sind,
+47,3001,,"Credo che regole fisse siano necessarie, ovunque ci si trovi.",我認為不論在哪裡，都需要存在明確規則。,,명확한 규율은 어떤 장소에서든 필요한 것이라고 생각해,"Ich glaube, dass feste Regeln notwendig sind,
 egal, wo man ist."
 48,1805,,Dico solo che gli hacker non si lasciano imporre nulla.,我想說的是，駭客不該被任何東西所束縛。,,"내가 하고 싶은 말은 해커는 무엇에도
 얽매여선 안된다는 거다","Ich sage nur, dass Hacker sich nichts vorschreiben
@@ -196,7 +196,7 @@ die Ordnung in EDEN zu bewahren."
 72,3001,,Prego che tu ti dimostri degno di un guardiano.,希望你能做出符合守護者該有的行為。,,네가 수호자에 걸맞는 행동을 하길 기원할게,"Ich bete, dass du dich eines Hüters würdig
 verhältst."
 73,2020,,...!,……！,,……!,...!
-74,3053,,Io sono un custode di EDEN.,我是，EDEN的“守護者”喔。,,"나는 EDEN의 ""수호자""거든",Ich bin ein Hüter von EDEN.
+74,3053,,Sono un custode di EDEN.,我是，EDEN的“守護者”喔。,,"나는 EDEN의 ""수호자""거든",Ich bin ein Hüter von EDEN.
 75,2020,,...,…………,,…………,...
 76,3001,,Cosa? Se per caso conosco un hacker che si fa chiamare K?,什麼…？　你問我對叫K的駭客有沒有印象？,,뭐…? K라는 해커로 짐작되는 사람이 없냐고?,"Was? Ob ich zufällig einen Hacker kenne, der
 sich K nennt?"
@@ -209,8 +209,8 @@ sich K nennt?"
 일일히 기억하고 있을 리가 없잖습니꺼","Aber wir kennen ja auch nicht jeden einzelnen
 Hacker, der für uns arbeitet."
 80,3001,,Perché chiedi?,那位駭客怎麼了嗎？,,그 해커가 어쨌는데?,Warum fragst du?
-81,3046,,"Lui è la ragione per cui questo tipo qui è coinvolto nella faccenda.
-Potrebbe essere un Demons-Hacker...","他就是把這傢伙捲入麻煩事的元兇啦。
+81,3046,,"È la ragione per cui questo tipo qui è coinvolto
+nella faccenda. Potrebbe essere un Demons-Hacker...","他就是把這傢伙捲入麻煩事的元兇啦。
 我猜他可能是惡魔亂舞的駭客……",,"이 녀석이 휘말린 귀찮은 상황의 원인이다.
 아마도 데몬즈 해커라고 생각하지만…","Er ist der Grund, warum dieser Typ hier in die
 Sache verwickelt ist. Möglicherweise ist er ein
@@ -240,7 +240,7 @@ Ognuno deve trovare la risposta per sé stesso.","但是，“自由”因人而
 Jeder muss die Antwort für sich selbst finden."
 89,3001,,Non vedo l'ora di scoprire che tipo di hacker diventerai alla fine.,你會成為怎樣的駭客……我很期待喔。,,네가 어떤 해커가 될지……기대하고 있을게,"Ich freue mich darauf, herauszufinden, was für ein
 Hacker du letztendlich wirst."
-90,3001,,"Probabilmente avremo presto un grande incarico per te. Ti contatterò.","近期可能會委託你們一件大工作，
+90,3001,,Probabilmente avremo presto un grande incarico per te. Ti contatterò.,"近期可能會委託你們一件大工作，
 我再連絡你們。",,"가까운 시일 내에 큰 일을 부탁하게 될 것 같아.
 또 연락할게","Wir haben wohl bald einen großen Auftrag für dich.
 Ich melde mich bei dir."
