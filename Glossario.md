@@ -20,6 +20,9 @@ Questo glossario definisce la terminologia ufficiale e le linee guida di adattam
 | **Seven Great Demon Lords** | **Seven Great Demon Lords** | I sette potenti Digimon di tipo virus che rappresentano i peccati capitali. |
 | **Celestial Digimon** | **Celestial Digimon** | Il triumvirato composto da Seraphimon, Cherubimon e Ophanimon. |
 | **Chrome Digizoid** | **Chrome Digizoid** | Il metallo super-resistente che compone le armature di molti Digimon. Invariato. |
+| **King Drasil / Yggdrasill** | **Re Drasil** | Il computer host/divinità che governa il Digi World. Nelle traduzioni italiane è reso come *Re Drasil* (mentre la versione tedesca/inglese usa *König/King Drasil*). |
+| **DigiCore** | **DigiCore** | Il nucleo vitale/anima dei Digimon. Mantenuto in inglese. |
+| **Olympos XII** | **Olympos XII** | Il gruppo di 12 Digimon divinità dell'Iliad Server. Invariato. |
 
 ---
 
@@ -43,6 +46,10 @@ Questo glossario definisce la terminologia ufficiale e le linee guida di adattam
 | **Memory Server** | **Server di Memoria** | Dispositivi o aree digitali contenenti dati o ricordi importanti. |
 | **Connect Jump** | **Salto di Connessione** | Abilità speciale del protagonista di viaggiare fisicamente attraverso la rete usando i terminali. |
 | **Digital Labyrinth** | **Labirinto Digitale** | Dimensione creata dallo slittamento digitale dei dati. |
+| **Jude** | **Jude** | La leggendaria squadra di hacker precedentemente capitanata da Arata Sanada. Invariato. |
+| **Kamishiro Enterprise** | **Kamishiro Enterprise** / **Kamishiro** | La multinazionale tecnologica che gestisce EDEN. Invariato. |
+| **Kuremi Detective Agency** | **Agenzia Investigativa Kuremi** | L'agenzia di detective a Nakano Broadway gestita da Kyoko. |
+| **Nile Corporation** | **Nile Corporation** / **Nile Corp** | Azienda tecnologica concorrente minore. |
 
 ---
 
