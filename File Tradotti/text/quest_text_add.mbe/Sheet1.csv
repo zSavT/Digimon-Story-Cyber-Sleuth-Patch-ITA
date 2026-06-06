@@ -38,7 +38,7 @@ gli hacker. Ti mando una lista della spesa.","在中野有駭客認證的PC商�
 사 왔으면 하는 목록 보낼 테니까, 심부름 부탁할게.","In Nakano gibt’s einen Ersatzteilladen.
 Ich schicke eine Einkaufsliste."
 43,,Erika,艾莉卡,,에리카,Erika
-44,,Più compito che caso.,與其說這是委託，不如說只是“跑腿”吧。,,"의뢰라기보단 이건 그냥 ""심부름""",Eher Bitte als Fall.
+44,,Più una commissione che un incarico.,與其說這是委託，不如說只是“跑腿”吧。,,"의뢰라기보단 이건 그냥 ""심부름""",Eher Bitte als Fall.
 45,,Chitose,千歲,,치토세,Chitose
 46,,Inizia con questo!,一開始做這些就好了啦！,,처음엔 이 정도면 충분하다니까!,Fang hiermit an!
 50,,Ho controllato la lista della spesa.,已確認購物清單,,구입할 목록을 확인했다.,Einkaufsliste überprüft.
@@ -48,7 +48,7 @@ Ich schicke eine Einkaufsliste."
 60,,Evangelista dell'Amore! Sistermon!,愛的傳教！修女獸！,,사랑의 전도! 시스터몬!,Liebespredigerin Sistermon!
 61,,Ciel,漆黑,Ciel,느와르,Ciel
 62,,"Cercasi aiuto alla palestra Digimon di Ciel
-e Blanc! Cerchi un capo tosto e carino?
+e Blanc! Vuoi lavorare per dei capi tosti ma carini?
 Vieni a trovarci a Kowloon Lv. 3!","漆黑與雪白的數碼寶貝健身房，現正徵求助手！！
 想在強悍的女孩底下工作的你！想不想來我們身邊
 工作啊！？　我們在Kowloon Lv.3等著你！","Cercasi aiuto alla palestra Digimon di Ciel
@@ -157,9 +157,9 @@ als furchterregend."
 155,,Data di iscrizione a Ikebukuro.,在池袋跟伊達小姐會合,,이케부쿠로에서 다테 마키코와 합류하자.,Gehe zu Date in Ikebukuro.
 160,,Un sorriso prezioso,那份笑臉便是寶物,,그 미소가 보물,Ein kostbares Lächeln
 161,,Mina,米娜,,미나,Mina
-162,,"Voglio un biglietto per l'anteprima
-dell'aggiornamento EDEN. Ho bisogno che tu me
-ne prenda uno. Ti aspetto nell'area community.","我想要EDEN辦的“版本升級體驗會”參加票喔！
+162,,"Mi serve un biglietto per l'anteprima
+dell'aggiornamento EDEN. Procuramene uno, ti prego!
+Ti aspetto nell'Area Comune.","我想要EDEN辦的“版本升級體驗會”參加票喔！
 拜託便利店幫我拿到票
 米娜會在公共區域等你",,"EDEN ""버전 업 체험회""라는 것이 있대.
 해결사 씨, 부탁이야! 미나에게 티켓을 구해줬으면 해.
@@ -211,7 +211,7 @@ warte an der Spielhalle in Akihabara."
 214,,Dirigiti al museo.,前往博物館,,박물관으로 향하자.,Geh zum Museum.
 215,,Cerca l'amico di Arata nel museo.,在博物館內找新的朋友,,박물관 안에서 아라타의 친구를 찾자.,Suche Aratas Freund im Museum.
 216,,Lascia il museo con Arata e il suo amico.,跟新一行人逃離博物館,,아라타와 친구를 데리고 박물관에서 탈출하자.,Mit Arata und Freund aus Museum.
-220,,"Yasu, distrutto dall'amore",戀愛煩惱的阿康心,,사랑에 고민하는 야스의 마음,Liebestoller Yasu
+220,,"Yasu malato d'amore",戀愛煩惱的阿康心,,사랑에 고민하는 야스의 마음,Liebestoller Yasu
 221,,Il ribelle Yasu,反叛者的阿康,,리벨리온즈의 야스,Rebel Yasu
 222,,"Ho bisogno del tuo aiuto per proteggere i
 Digimon! Devo essere un membro più forte dei Rebels
@@ -276,9 +276,9 @@ warte in Ikebukuro."
 292,,Segnala caso chiuso.,報告委託完成,,의뢰의 완료 보고를 하자.,Melde den Fall als abgeschlossen.
 300,,Il folle viaggio di Rina Shinomiya,四之宮莉娜的邂逅美食之旅,,시노미야 리나의 미식 대모험,Rina Shinomiyas verrückte Reise
 301,,Rina Shinomiya,四之宮莉娜,,시노미야 리나,Rina Shinomiya
-302,,"È vero che i tuttofare possono risolvere le cose
-in fretta? Ho bisogno di una guida per mangiare
-bene. Aiuta me e i miei amici a mangiare!","嘿～！　便利店什麼事情都能迅速解決是真的嗎？
+302,,"È vero che i tuttofare risolvono tutto in fretta?
+Ho bisogno di una guida gastronomica.
+Aiuta me e i miei amici a riempirci la pancia!","嘿～！　便利店什麼事情都能迅速解決是真的嗎？
 那就拜託帶我去找“這邊世界”的美味食物吧～～～！
 要讓莉娜跟夥伴們都能吃飽飽喔！",,"헤이! 해결사면 뭐든 바로 해결해준다는 게 진짜!?
 ""이쪽 세계""의 맛집 순례 안내를 부탁해~~~~!
@@ -381,8 +381,8 @@ Grundlagen!"
 413,,Chiedi di nuovo alla bionda.,再次向金髮女性詢問詳情,,다시 금발의 여성에게서 이야기를 듣자.,Frag die Blondine erneut.
 420,,YHS - 428,YHS★428,,YHS★428,YHS - 428
 421,,"Giglio Horiguchi",洞口莉莉,,호라구치 릴리,Lily Horiguchi
-422,,"Aiuta quella ragazza che ti piace,
-Lily. Cosa intendo? Fallo con lei!","對你有興趣的那個女孩，莉莉會想辦法做點什麼的♪
+422,,"Lily darà una mano a quella ragazza a cui piaci.
+Cosa intendo? Che lavoreremo 'insieme'!","對你有興趣的那個女孩，莉莉會想辦法做點什麼的♪
 所．以．啊……來跟莉莉一起做那．個．吧♪",,"너에게 흥미를 느껴버린 그녀를 릴리가 어떻게든 해줄게♪
 그 러 니 까……릴리하고 같이 그 거 하자♪","Hilf dem Mädchen, das du magst, Lily.
 Was ich meine? Arbeitet zusammen!"
@@ -485,9 +485,9 @@ Finde bei Hudie raus, von wem und warum."
 554,,Guarda il video di Punsuka.,看「森七七」的轉播影片,,『분스카』의 생방송을 보자.,Sieh dir das Punsuka-Video an.
 560,,Amore cieco,溺愛,,지나친 사랑,Liebe macht blind
 561,,Shizuko Kawauchi,川內靜子,,카와우치 시즈코,Shizuko Kawauchi
-562,,"Questo amico è diventato un recluso.
-È un po' strano, quindi aiutalo
-se puoi.","我的男生朋友變成繭居族了……
+562,,"Un mio amico è diventato un hikikomori.
+Si comporta in modo un po' strano,
+quindi aiutalo se puoi.","我的男生朋友變成繭居族了……
 而且他的狀況還很奇怪
 請一定要救他出來",,"친구인 남성이 은둔형 외톨이가 되었는데요…
 심지어 조금 이상한 상태라
@@ -547,9 +547,9 @@ war normal."
 617,,Andate alla deserta Nakano Broadway.,前往無人的中野BW,,인적 없는 나카노BW로 가자.,Zum verlassenen Nakano-Broadway.
 620,,Ci sono dieci persone qui!,有十個人在！,,10명 있다!,Zehn Leute hier!
 621,,Ken Akao,赤尾賢,,아카오 켄,Ken Akao
-622,,"Non riesco a dimenticarlo. Stavamo giocando a un
-gioco quando improvvisamente è apparsa questa cosa
-senza caratteristiche. Guardatela!","我忘不了那時候的事情。在玩籠中鳥的時候
+622,,"Non riesco a dimenticarlo. Stavamo giocando
+quando improvvisamente è apparsa questa creatura
+senza volto. Indagate, per favore!","我忘不了那時候的事情。在玩籠中鳥的時候
 一回頭卻出現了無臉怪……
 到底發生了什麼，請你找出真相",,"그때의 일이 머리에서 떠나질 않아. 카고메카고메를
 하다가 돌아보면 달걀귀신이 거기에…
@@ -603,9 +603,9 @@ Unbedingt!"
 714,,Sconfiggi Lalamon,打倒拉拉獸,,라라몬을 쓰러뜨리자.,Besiege Lalamon.
 720,,Consegna immediata,立即送達！,,바로 전해드리겠습니다!,Eillieferung
 721,,Digitamamon,蛋蛋獸,,디지타몬,Digitamamon
-722,,"I clienti sono arrabbiati perché
-gli ordini non arrivano! Anche i
-fattorini non tornano. Aiuto!","客人因為下訂的商品一直沒送到在生氣了！
+722,,"I clienti si lamentano! Gli ordini non arrivano!
+E per di più i fattorini non fanno ritorno...
+Aiutatemi, vi prego!","客人因為下訂的商品一直沒送到在生氣了！
 出門送貨的員工也一直沒回來
 現在非常緊急，想點辦法啊～～～！",,"주문한 상품이 도착하지 않았다고 손님이 화냈어!
 배달 간 스태프는 전혀 돌아오지 않고
@@ -678,9 +678,9 @@ es schnell, wir zahlen auch dafür!"
 794,,Sconfiggi Airdramon,打倒飛龍獸,,에어드라몬을 쓰러뜨리자.,Besiege Airdramon.
 800,,Segui sempre il tuo istinto,只要捏緊鼻子,,코를 쥐면,Immer der Nase nach
 801,,Subappaltatore Kamishiro,神代企業的外包業者,,카미시로 하청업자,Kamishiro-Mitarbeiter
-802,,"Qualcuno ha scaricato illegalmente rifiuti a
-EDEN e ci sono lamentele per la puzza.
-Scopri perché e sbarazzartene.","我們接到抱怨，說EDEN內
+802,,"Qualcuno ha scaricato illegalmente rifiuti in EDEN
+e ci sono arrivate lamentele per la puzza.
+Scopri la causa e sbarazzatene.","我們接到抱怨，說EDEN內
 非法丟棄的垃圾發出惡臭
 希望你們能除去發出惡臭的垃圾",,"EDEN 안에 불법 투기한 쓰레기에서
 고약한 냄새가 난다는 불평이 들어왔어.
@@ -700,9 +700,9 @@ schaffe ihn weg."
 816,,Passa il programma per distruggere i dati puzzolenti.,交出惡臭破壞程式,,고약한 냄새 데이터 파괴 프로그램을 건네주자.,Zerstöre Gestanksdaten.
 820,,Maledizione martellante,詛咒的槌聲,,저주의 망치 소리,Verfluchtes Gehämmer
 821,,Obo,小尾,,오비,Obo
-822,,"Ho sentito questo martellare a Under
-Kowloon, dicono che maledirà chiunque lo
-ascolti. Non credo alle maledizioni, ma è forte.","我在Under Kowloon聽到了
+822,,"Ho sentito un martellare in Under Kowloon, dicono
+che maledica chiunque lo ascolti. Non credo alle
+maledizioni, ma è davvero assordante.","我在Under Kowloon聽到了
 傳說只要聽到就會受詛咒的槌聲……
 雖然我不相信詛咒，但請你去阻止那聲音",,"들은 사람은 저주에 걸린다는 소문인 저주의 망치 소리를
 언더 쿠롱에서 들어버렸어……
@@ -741,9 +741,9 @@ Finde die Katze und heb den Fluch auf."
 854,,Spiega a BlackGatomon,說服黑迪路獸,,블랙가트몬을 설득하자.,Kläre BlackGatomon auf.
 860,,Fantasmi Cyber-crimini fantasma,神出鬼沒的電腦幽靈,,신출귀몰한 전뇌 유령,Cybergeister
 861,,Miyuki,美雪,,미유키,Miyuki
-862,,"Ho visto l'avatar di un amico morto
-in EDEN. Cos'era? Potresti
-darci un'occhiata? Nessuno dovrebbe usarlo.","我在EDEN看到了已經死去朋友的化身
+862,,"Ho visto l'avatar di un mio amico defunto
+in EDEN. Che cosa significa? Potresti
+indagare? Nessuno dovrebbe poterlo usare.","我在EDEN看到了已經死去朋友的化身
 那到底是什麼……你能幫我調查嗎？",,"죽어서 사용될 리 없는
 친구의 아바타를 EDEN에서 봤어요.
 그건 뭐였는지……조사해주실 수 없나요?","Ich habe den Avatar eines toten Freundes
@@ -830,9 +830,9 @@ nicht zur BBS!"
 953,,Convincere Lunamon,說服露娜獸,,루나몬을 설득하자.,Überzeuge Lunamon.
 960,,Combattere gli scarafaggi,戰鬥甲蟲,,싸우는 딱정벌레,Kampfkäfer
 961,,Entomologo autodidatta,自稱蟲博士,,자칭 벌레박사,Insektenkundler
-962,,"Stavo cercando insetti online quando ho trovato un
-coleottero che non avevo mai visto prima! Ho
-bisogno che tu ne sappia di più!","我在影片網站調查昆蟲時
+962,,"Stavo facendo ricerche online e ho trovato
+un coleottero che non avevo mai visto prima!
+Ho bisogno che tu indaghi per me!","我在影片網站調查昆蟲時
 居然發現了我不知道的甲蟲！
 我無論如何都想知道真實身份，請幫我調查！",,"영상 사이트에서 곤충을 조사하고 있었더니
 이 내가 모르는 딱정벌레가 있었어!
@@ -884,9 +884,9 @@ Bitte mach schnell was."
 995,,Sconfiggi i Mega e Ultra Digimon uccello.,打倒究極體、完全體的鳥類數碼寶貝,,"궁극체, 완전체 새 디지몬들을 쓰러뜨리자.",Besiege Mega- und Ultra-Vogel-Digimon.
 1000,,Gran lavoratore,工作狂,,하드 워커,Arbeitsmoral
 1001,,Wakamoto,若本,,와카모토,Wakamoto
-1002,,"Il mio collega non si ferma mai senza
+1002,,"Il mio collega lavora ininterrottamente senza
 mangiare né dormire. Non ascolta nessuno!
-Riesci a convincerlo a riposare?","公司內的同期員工不眠不休一直～在工作著
+Riesci a convincerlo a riposarsi?","公司內的同期員工不眠不休一直～在工作著
 就算周遭人都勸他也不聽……
 請阻止他吧！",,"회사의 동기가 자지도 먹지도 않고 계~속 일을 하고 있습니다.
 주위에서 막으려고 해도 듣지도 않고……
@@ -1369,8 +1369,8 @@ Blockier die, dann können wir gewinnen."
 1460,,Cattura del territorio: Angeli leggendari,領域爭奪戰：傳說天使,,엠블럼 쟁탈전 : 레전드 천사,Revierübernahme: Legend Angels
 1461,,Fei,菲,,페이,Fei
 1462,,"Adoro questi hacker. Vorrei
-occuparmene io, ma tu puoi occupartene.
-Schiaccia le loro belle faccine.","我最喜歡這種駭客了
+occuparmene di persona, ma lascio l'onore a te.
+Spacca le loro belle faccine.","我最喜歡這種駭客了
 雖然我想親自出手，但就交給你們了
 把他們的美麗臉孔給狠狠打爛吧",,"이런 해커는 내가 가장 좋아해서
 내가 직접 나서고 싶지만 맡기지예.
@@ -1620,7 +1620,7 @@ mit einem Dominanzkampf."
 1724,,Guardromon e Hagurumon si stanno comportando male.,這是指守衛獸跟齒輪獸在大鬧吧,,가드로몬과 톱니몬들이 나쁜 짓을 하는 건이네요,Guardromon und Hagurumon stiften Ärger.
 1725,,Velocità massima MAX,幹勁MAX君,,의욕MAX군,Volles Tempo
 1726,,"Sono tutti di tipo Virus? Sconfiggili
-con gli Antivirus! Facile!",全都是病毒種啊！　用疫苗種來對抗應該很輕鬆吧？,,전부 바이러스잖아! 백신으로 대항하면 여유 아냐?,"Nur Virus-Digimon? Besiege sie mit
+con quelli di tipo Vaccino! Facile!",全都是病毒種啊！　用疫苗種來對抗應該很轻松吧？,,전부 바이러스잖아! 백신으로 대항하면 여유 아냐?,"Nur Virus-Digimon? Besiege sie mit
 Serum-Digimon! Einfach!"
 1727,,Contatta gli amici.,聯絡夥伴,,동료들에게 연락하자.,Rede mit Freunden.
 1728,,Eliminare il capo hacker,打倒敵方駭客隊伍的首領,,적 해커 팀의 보스를 쓰러뜨리자.,Besiege Hackerboss.

@@ -11,7 +11,7 @@ def trova_testi_lunghi(cartella_iniziale):
             if nome_file.endswith(".csv"):
                 percorso_file = os.path.join(root, nome_file)
                 try:
-                    if "tradotto" in root:
+                    if "tradotti" in root.lower() or "tradotto" in root.lower():
                         with open(percorso_file, 'r', encoding='utf-8') as file_csv:
                             # Leggi la prima riga per trovare l'intestazione
                             reader = csv.reader(file_csv, delimiter=',')

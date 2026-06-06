@@ -73,8 +73,8 @@ E' vero?","聽說在名為偵探的人類指導下，
 就會變得很擅長調查！　你也是偵探對吧？",,"탐정이라는 이름을 가진 인간에게 배우면 조사가
 잘 된대! 너도 탐정이지?","Einer von euch „Detektiven“ kann mir
 beim Ermitteln helfen! Stimmt das?"
-1110,,"Ultimamente mi piace molto prendere il sole.
-Spaziare sotto il Signor Sole è il massimo!","我最近喜歡上了日光浴～
+1110,,"Ultimamente mi piace prendere il sole.
+Incantarsi sotto il Signor Sole è il massimo!","我最近喜歡上了日光浴～
 我很喜歡像這樣在太陽底下發呆的時光……",,"요즘엔 일광욕을 좋아해. 이렇게 햇님
 아래에서 멍하니 있는 시간이 좋아...","In letzter Zeit sonne ich mich so gerne.
 Mit Frau Sonne ist es am schönsten."
@@ -480,8 +480,8 @@ Rilassarsi al sole è fantastico, vero?","我最近很喜歡日光浴。一邊�
 然後一邊發呆，感覺很舒服唷～",,"요즘 일광욕을 좋아해. 밖에서 햇볕을 
 쬐면서 멍하니 있는거. 기분 좋아~","Neuerdings stehe ich auf Sonnenbaden.
 In der Sonne entspannen ist toll, oder?"
-1411,,"Cavolo, credo che mi stia venendo qualcosa...",嗯～身體狀況似乎有些不太好……,,"으음, 컨디션이 좀 나쁠지도…","Mann, ich glaub, ich hab mir was
-eingefangen ..."
+1411,,"Accidenti, credo di starmi ammalando...",嗯～身體狀況似乎有些不太好……,,"으음, 컨디션이 좀 나쁠지도…","Mann, ich glaub, ich hab mir was
+eingefangen ..."
 1412,,"Che ne dici di raccontarmi qualcosa che
 ti piace? Voglio saperne di più su di te.","你願意告訴我，你喜歡什麼嗎？
 因為還不太了解你，所以想多知道一些你的事",,"네가 좋아하는 걸 가르쳐줄래? 아직 잘 모르니까
@@ -765,7 +765,7 @@ Non so nemmeno cosa ti piace...","方便的話，請你告訴我有關你的事�
 뭘 좋아하는지조차 모르고 있다는걸 깨달아서…","Kannst du mir etwas über dich erzählen?
 Ich weiß gar nicht, was du magst ..."
 1613,,"Indagare per recuperare oggetti e
-valigie, eh? Sembra difficile, ma farò del mio meglio.","所謂調查，就是去尋找委託或道具的工作吧
+risolvere casi? Difficile, ma farò del mio meglio.","所謂調查，就是去尋找委託或道具的工作吧
 似乎是挺辛苦的工作，但我會努力的",,"조사란 의뢰나 아이템을 찾아오는 작업이군요.
 제법 힘들어보이는 작업이지만 열심히 하겠습니다.","Ermitteln für Items und Fälle, ja?
 Klingt hart, aber ich tu, was ich kann."
@@ -892,7 +892,7 @@ elencarle tutte. Impariamo molto l'uno dell'altro!","我喜歡的東西太多了
 많이 대화하며 서로를 알아가자.","Ich mag vieles, ich kann gar nicht alles
 aufzählen. Lernen wir uns besser kennen!"
 1713,,"Potrebbe essere dura, ma fai del tuo meglio!",或許是個很辛苦的工作，但加油喔！,,힘든 작업일지도 모르겠지만 화이팅!,"Es ist zwar hart, aber gib dein Bestes!"
-1714,,"Troppo fa male! Mantieni questo ritmo e
+1714,,"Non esagerare! Mantieni questo ritmo e
 diventerai più forte col tempo.","太勉強自己的話，身體會受不了喔
 只要保持現在的訓練量繼續努力，肯定能自然地變強",,"너무 무리하면 몸을 망쳐.
 지금처럼 오랫동안 계속하면 자연스럽게 강해질거야.","Übertreib es nicht! Mach so weiter, dann
@@ -2575,8 +2575,8 @@ cresciuto. Eh, mi è venuta voglia di dirlo!","吶，能受到你的培育，真
 呵呵……我只是想這樣說而已唷",,"있지, 네가 키워줘서 다행이야.
 후후…살짝 말해보고 싶었을 뿐이야.","Ich bin froh, dass du mich großgezogen
 hast. Das musste ich mal sagen!"
-3502,,"Ehi, sai cosa? Voglio passare
-più tempo con te. Mettimi nella tua festa!","吶，拜託你，我想多多陪在你身邊！
+3502,,"Ehi, sai una cosa? Voglio passare
+più tempo con te. Inseriscimi in squadra!","吶，拜託你，我想多多陪在你身邊！
 所以讓我進隊伍嘛！",,"저기 부탁이야. 너와 더더욱 함께 있고 싶어!
 그러니 파티에 데려가줘!","Hey, ich will mehr Zeit mit dir
 verbringen. Ich will in deine Gruppe!"
@@ -3265,7 +3265,7 @@ gli oggetti che terminano con ""Patch""?","問答題！　名稱有「～修正�
 아이템을 디지몬에게 사용하면 어떤 효과가 있을까?","Quizzeit! Welchen Effekt haben alle
 Items, die auf „Patch“ enden?"
 4059,,"È ora del quiz! Qual è il primo
-posto in cui hai saltato Connect?","問答題！　你最初使用登入跳躍時
+luogo in cui hai usato il Salto di Connessione?","問答題！　你最初使用登入跳躍時
 抵達的目的地是哪裡？",,"퀴즈! 네가 처음으로 커넥트 점프를 했을 때
 도착한 장소는 어디였을까요?","Quizzeit! An welchen Ort bist du als
 Erstes per Verbindungssprung gelangt?"
@@ -3309,8 +3309,8 @@ Alessandrite, Rubino o Giada?","問答題！　變石、紅寶石、翡翠之中
 最有價值的換錢道具是？",,"퀴즈! 알렉산드라이트, 루비, 비취 중
 가장 고가의 환전 아이템은 뭐―게?","Quizzeit! Was ist am teuersten:
 Alexandrit, Rubin oder Jade?"
-4068,,"È ora del quiz! Una domanda sui tipi:
-a quali tipi di dati fanno più danni?","問答題！　是關於種族的問題呢。資料種
+4068,,"È ora del quiz! Domanda sui Tipi:
+a quale Tipo i Digimon Dati fanno più danni?","問答題！　是關於種族的問題呢。資料種
 對上什麼種族的敵人時，能給予對方大量傷害？",,"퀴즈! 종족에 대한 문제야. 데이터종에게
 큰 대미지를 입힐 수 있는 것은 어느 종족 상대일 때지?","Quiz! Typus-Frage: Welchem Typus fügen
 Datei-Typen den meisten Schaden zu, hm?"
@@ -10749,8 +10749,8 @@ Ryota ha detto che mi hai salvato... Grazie.","雖然休息了一陣子，從今
 聽良太說，是你幫了我……謝謝",,"조금 쉬어버렸지만 오늘부터 학교에 나가!
 네가 구해줬다는걸 료타에게 들었어… 고마워.","Ich gehe jetzt wieder zur Schule! Laut
 Ryota hast du mich gerettet ... Danke."
-40049,,"Il controllore del traffico non c'è,
-solo un tizio che copre... Cosa hai fatto?","嘖，說什麼指揮交通的傢伙請假
+40049,,"Il vigile urbano non c'è e mi hanno messo
+a coprire il turno... Tu cosa stai facendo?","嘖，說什麼指揮交通的傢伙請假
 突然要我來代班……你現在在做什麼？",,"칫, 교통정리 담당 녀석이 휴가를 내겠다고
 갑자기 대역을 부탁하잖아… 너, 지금 뭐해?","Der Verkehrslotse ist nicht da, nur die
 Vertretung ... Was hast du angestellt?"
@@ -10759,8 +10759,8 @@ Ci vorranno un paio di settimane per riceverli.","我剛才寄了餅乾給你。
 喜歡的口味。大概2～3週就能送到你手上了唷",,"아까 쿠키를 보냈어. 네가 좋아할만한 맛이라고 
 생각했거든. 2~3주 정도면 그쪽에 도착할거야.","Ich habe dir Kekse geschickt! Dürfte ein
 paar Wochen dauern, bis sie da sind."
-40051,,"L'area libera di EDEN è buona?
-Incontriamoci lì subito! Vi aspetto!","明白了嗎？　在EDEN的自由區域！
+40051,,"Va bene l'Area Libera di EDEN come posto?
+Incontriamoci subito lì! Ti aspetto!","明白了嗎？　在EDEN的自由區域！
 立刻集合！　我等著你喔～",,"알겠어? EDEN의 프리 에어리어라고!
 즉시 집합! 기다릴테니까.","Wie wär’s mit EDENs Freiem Bereich? 
 Da treffen wir uns! Ich erwarte dich!"
@@ -10905,7 +10905,7 @@ cliccateci sopra se vi va!","我只是和VV它們隨便四處晃晃而已唷
 偶爾也要關～～～心一下它們嘛！",,"나는 투덜이 브이브이네랑 투덜투덜하고 있어.
 가끔은 양보 좀 해 줬으면!","Veevee und ich gehen voll ab,
 dich bringen wir auch auf Trab!"
-40081,,"...Wow, davvero, davvero tutta quella rima!?
+40081,,"...Wow, ho davvero fatto tutte quelle rime!?
 Caspita, sono forse un genio del rap?","是說！？　VV和晃晃……聽起來……超像的！！
 嗚哦……我是天災？　不不，是天才嗎！？",,"어엇!? 투덜이와 투덜투덜…이…센스!!
 우와…나란 인간 천재? 아니아니 천재잖아!?","... Wow, hat sich das alles gereimt?!
