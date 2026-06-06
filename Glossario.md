@@ -111,8 +111,11 @@ Questo glossario definisce la terminologia ufficiale e le linee guida di adattam
 * **Erika Mishima**: Hacker geniale di Hudie, legata a Wormmon.
 * **Fei Wong Tomoe**: Leader in seconda dei Zaxon, fedele a Yuugo.
 
-### Altri
-* **Mirei Mikagura**: Gestore del DigiLab (Digi-Laboratorio).
+### Personaggi Ospiti / Crossover (da Digimon World Re:Digitize)
+* **Taiga**: Protagonista di *Digimon World Re:Digitize*, citato e presente come ospite/DLC.
+* **Rina Shinomiya**: Tamer allegra e iperattiva, compagna di avventure di Mirei.
+* **Veevee** (VV): Il partner Digimon di Rina (un UlforceVeedramon).
+* **Mirei Mikagura**: Gestore del DigiLab (Digi-Laboratorio), proveniente dall'universo di Re:Digitize.
 
 ---
 
