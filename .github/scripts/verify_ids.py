@@ -30,56 +30,71 @@ def verify_csv_alignment():
                     failures += 1
                     continue
                 
-                # Read original IDs (first two data rows)
-                orig_ids = []
+                # Read original (ID and Speaker columns for all rows)
+                orig_data = []
                 try:
                     with open(orig_filepath, 'r', encoding='utf-8', newline='') as f:
                         reader = csv.reader(f)
                         try:
-                            header = next(reader)
+                            header = next(reader) # skip header
                         except StopIteration:
-                            # Empty file
                             pass
                         
-                        for _ in range(2):
-                            try:
-                                row = next(reader)
-                                if row:
-                                    orig_ids.append(row[0])
-                            except StopIteration:
-                                break
+                        for line_num, row in enumerate(reader, start=2):
+                            if row:
+                                if len(row) < 2:
+                                    print(f"WARNING: Row {line_num} in original file '{rel_path}' has fewer than 2 columns.")
+                                    # Still append whatever is there to compare
+                                    orig_data.append((row[0] if len(row) > 0 else '', '', line_num))
+                                else:
+                                    orig_data.append((row[0], row[1], line_num))
                 except Exception as e:
                     print(f"ERROR: Failed to read original file {orig_filepath}: {e}")
                     failures += 1
                     continue
                 
-                # Read translated IDs (first two data rows)
-                tran_ids = []
+                # Read translated (ID and Speaker columns for all rows)
+                tran_data = []
                 try:
                     with open(tran_filepath, 'r', encoding='utf-8', newline='') as f:
                         reader = csv.reader(f)
                         try:
-                            header = next(reader)
+                            header = next(reader) # skip header
                         except StopIteration:
                             pass
                         
-                        for _ in range(2):
-                            try:
-                                row = next(reader)
-                                if row:
-                                    tran_ids.append(row[0])
-                            except StopIteration:
-                                break
+                        for line_num, row in enumerate(reader, start=2):
+                            if row:
+                                if len(row) < 2:
+                                    tran_data.append((row[0] if len(row) > 0 else '', '', line_num))
+                                else:
+                                    tran_data.append((row[0], row[1], line_num))
                 except Exception as e:
                     print(f"ERROR: Failed to read translated file {tran_filepath}: {e}")
                     failures += 1
                     continue
                 
-                # Compare
-                if orig_ids != tran_ids:
-                    print(f"MISMATCH in file '{rel_path}':")
-                    print(f"  Original first IDs:   {orig_ids}")
-                    print(f"  Translated first IDs: {tran_ids}")
+                # Compare row by row
+                if len(orig_data) != len(tran_data):
+                    print(f"MISMATCH in file '{rel_path}': Row count differs!")
+                    print(f"  Original rows:   {len(orig_data)}")
+                    print(f"  Translated rows: {len(tran_data)}")
+                    failures += 1
+                    continue
+                
+                file_has_error = False
+                for i in range(len(orig_data)):
+                    orig_id, orig_speaker, orig_line = orig_data[i]
+                    tran_id, tran_speaker, tran_line = tran_data[i]
+                    
+                    if orig_id != tran_id or orig_speaker != tran_speaker:
+                        print(f"MISMATCH in file '{rel_path}' at row index {i} (Original line {orig_line}, Translated line {tran_line}):")
+                        print(f"  Original:   ID={orig_id}, Speaker={orig_speaker}")
+                        print(f"  Translated: ID={tran_id}, Speaker={tran_speaker}")
+                        file_has_error = True
+                        break
+                        
+                if file_has_error:
                     failures += 1
                 
                 checked_files += 1
@@ -89,7 +104,7 @@ def verify_csv_alignment():
         print(f"Verification failed with {failures} error(s).")
         sys.exit(1)
     else:
-        print("Verification completed successfully! All files are aligned.")
+        print("Verification completed successfully! All files are fully aligned.")
         sys.exit(0)
 
 if __name__ == "__main__":
