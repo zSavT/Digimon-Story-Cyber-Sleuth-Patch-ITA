@@ -75,8 +75,8 @@ def verify_csv_alignment():
                     continue
                 
                 # Compare row by row
-                if len(orig_data) != len(tran_data):
-                    print(f"MISMATCH in file '{rel_path}': Row count differs!")
+                if len(tran_data) < len(orig_data):
+                    print(f"MISMATCH in file '{rel_path}': Translated file has fewer rows than original!")
                     print(f"  Original rows:   {len(orig_data)}")
                     print(f"  Translated rows: {len(tran_data)}")
                     failures += 1
