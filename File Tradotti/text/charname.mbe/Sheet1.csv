@@ -482,7 +482,7 @@
 4231,,Commerciante,商店店員,,숍 점원,Ladenbesitzer
 4232,,Venditrice,商店店員(女),,숍 점원(여),Ladenbesitzerin
 4233,,Commesso Hacker Maschio,駭客店員(男),,해커 점원(남),Hacker-Verkäufer
-4234,,"Hacker (Donna)",駭客店員(女),,해커 점원(여),Hacker-Verkäuferin
+4234,,Hacker (Donna),駭客店員(女),,해커 점원(여),Hacker-Verkäuferin
 4235,,Oruru,麻瑠瑠,,오루루,Oruru
 4236,,Sig. Navit,NAVIT,,내빗군,Herr Navit
 4237,,Cameriera,女服務生,,웨이트리스,Kellnerin
@@ -836,7 +836,7 @@
 4618,,Hacker Impaziente,焦躁的駭客,,조급한 해커,Ungeduldiger Hacker
 4619,,Hacker Deluso,感到掃興的駭客,,맥이 풀린 해커,Enttäuschter Hacker
 4620,,Hacker Rinunciatario,輕易放棄的駭客,,포기가 빠른 해커,Nachgiebige Hackerin
-9244,,Hacker Zaxon Sconfitto,放棄的Zaxon駭客,,포기한 잭슨 해커,Besiegter Zaxon-Hacker
+4621,,Hacker Zaxon Sconfitto,放棄的Zaxon駭客,,포기한 잭슨 해커,Besiegter Zaxon-Hacker
 4622,,Hacker con le Lacrime,嚎啕大哭的駭客,,눈물로 지새운 해커,Verweinte Hackerin
 4700,,Uomo d'affari Apatico,自暴自棄的上班族,,자포자기한 샐러리맨,Apathischer Unternehmer
 4701,,Donna Nervosa,神經質的姊姊,,신경과민 누님,Nervöse Frau
@@ -846,7 +846,7 @@
 4705,,Uomo d'affari intellettuale,有教養的上班族,,인텔리 샐러리맨,Gebildeter Geschäftsmann
 4706,,Donna Codarda,膽小的姊姊,,겁먹은 누님,Feige Frau
 4707,,Hacker Ex-Zaxon Triste,陰沉的前Zaxon駭客,,음침한 전 잭슨 해커,Trauriger Ex-Zaxon
-9253,,Hacker Sanguigno,血氣方剛的駭客,,혈기왕성한 해커,Energischer Hacker
+4708,,Hacker Sanguigno,血氣方剛的駭客,,혈기왕성한 해커,Energischer Hacker
 4709,,Hacker Zaxon Affidabile,穩重的Zaxon駭客,,견실한 잭슨 해커,Bewährter Zaxon-Hacker
 4710,,Hacker Zaxon Prepotente,蠻橫的Zaxon駭客,,고압적인 잭슨 해커,Gebieterischer Zaxon
 4711,,Bellissimo Hacker Zaxon,美麗的Zaxon駭客,,예쁜 잭슨 해커,Schöne Zaxon-Hackerin
@@ -859,7 +859,7 @@
 4718,,Commesso della Libreria,書店店員,,서점 점원 씨,Buchverkäufer
 4719,,Donna indecisa,遲疑不定的姊姊,,망설이는 누님,Unentschlossene Frau
 4720,,Super Cameriera Gatto,貓咪女僕,,냥냥 메이드 씨,Super-Maid-Kätzchen
-9264,,Ragazzo Vivace,充滿活力的男孩,,활달한 남자,Fröhlicher Junge
+4721,,Ragazzo Vivace,充滿活力的男孩,,활달한 남자,Fröhlicher Junge
 4722,,Infermiera Indaffarata,忙碌的護理師,,바쁜 간호사,Eifrige Krankenschwester
 4723,,Vecchio Uomo Coraggioso,有膽量的老爺爺,,배짱 좋은 할아버지,Tapferer alter Mann
 4724,,Ragazzo amante dei CD,喜愛CD的少年,,CD를 사랑하는 소년,CD-begeisterter Junge
@@ -874,7 +874,7 @@
 4733,,Hacker Zaxon Villano,粗魯的Zaxon駭客,,거친 잭슨 해커,Grobe Zaxon-Hackerin
 4734,,Ragazzo Nerd dei Manga,喜愛漫畫的御宅族青年,,만화 오타쿠 청년,Manga-Nerd
 4735,,Ragazzo Nerd Amante della Bellezza,喜愛美少女的御宅族青年,,미소녀 오타쿠 청년,Nerd-Ästhet
-9276,,Studentessa alla Moda,時髦的女學生,,요즘 여학생,Moderne Schülerin
+4736,,Studentessa alla Moda,時髦的女學生,,요즘 여학생,Moderne Schülerin
 4737,,Donna golosa,嗜吃甜食的姊姊,,단 것을 좋아하는 누님,Naschkatze
 4738,,Dipendente Kamishiro Sospettoso,疑心病重的神代職員,,의심많은 카미시로 사원,Besorgter K.-Mitarbeiter
 4739,,Hacker Zaxon Scattante,帥氣的Zaxon駭客,,늠름한 잭슨 해커,Schneidiger Zaxon-Hacker
@@ -886,7 +886,7 @@
 4745,,Cameriera Indegna,不好的女僕,,나쁜 메이드 씨,Tückische Maid
 4746,,Hacker Ostruzionista,擋人去路的駭客,,길을 가로막은 해커,Widerspenstiger Hacker
 4747,,Hacker Playboy,游手好閒駭客,,방탕아 해커,Playboy-Hacker
-9287,,Hacker Solare,開朗的駭客,,밝은 해커,Fröhlicher Hacker
+4748,,Hacker Solare,開朗的駭客,,밝은 해커,Fröhlicher Hacker
 4749,,Hacker Capriccioso,依賴他人的駭客,,남에게 떠맡기는 해커,Launische Hackerin
 4750,,Hacker Perdente,人生失敗組駭客,,패배자 해커,Verlierer-Hacker
 4751,,Hacker Vincente,人生勝利組駭客,,승리자 해커,Gewinner-Hacker
@@ -895,7 +895,7 @@
 4754,,Madre Gentile,看上去很溫柔的母親,,다정해보이는 어머니,Nette Mutter
 4755,,Ragazza in cerca di un amico,尋找朋友的女孩,,친구를 찾고있는 여자아이,Suchendes Mädchen
 4756,,Studentessa Irrequieta,苦苦等待的女學生,,기다리다 지친 여학생,Ruhelose Schülerin
-9296,,Proprietario Chiosco Takoyaki,章魚燒攤販的老闆,,타코야키 가게 아저씨,Takoyaki-Standbetreiber
+4757,,Proprietario Chiosco Takoyaki,章魚燒攤販的老闆,,타코야키 가게 아저씨,Takoyaki-Standbetreiber
 4758,,Signora della Libreria dell'Usato,二手書店的姊姊,,중고서점 누님,Secondhand-Buchhändlerin
 4759,,Buttafuori Zaxon,阻擋去路的Zaxon駭客,,제지하는 잭슨 해커,Zaxon-Türsteher
 4760,,Hacker Blocca Strada,堵住道路的駭客,,길을 가로막은 해커,Blockierender Hacker

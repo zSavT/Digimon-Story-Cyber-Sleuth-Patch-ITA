@@ -24,7 +24,7 @@ Pensavo saresti stato più giù di morale.","……看來你沒事了，
 Ich hätte erwartet, dass du betrübter wärst."
 8,3045,,"Ma a quanto pare, sei pronto per l'azione.",但這樣看來，馬上就能開始作戰了。,,그 모습이라면 바로 작전을 시작할 수 있겠네,"Aber wie’s aussieht, bist du einsatzbereit."
 9,2020,,?,？？,,??,?
-10,3045,,"Ho finalmente analizzato la ricerca che mi ha dato Akemi Suedou.","從那個人──
+10,3045,,Ho finalmente analizzato la ricerca che mi ha dato Akemi Suedou.,"從那個人──
 末堂明實那拿到的論文，終於分析完了。",,"그 사람――
 스에도 아케미에게 받은 논문을 겨우 해석했어","Ich habe endlich die Arbeit analysiert, die Akemi
 Suedou mir gegeben hat."
@@ -39,9 +39,8 @@ ein. Wir fangen an, wenn ich damit fertig bin."
 我終於知道千歲發生了什麼事。",,"스에도 아케미가 준 자료를 읽고
 치토세에게 무슨 일이 일어났는지 드디어 알았어","Nachdem ich die Info von Suedou gelesen habe,
 weiß ich endlich, was Chitose passiert ist."
-15,3045,,"I suoi dati mentali sono stati assimilati da un Eater.",千歲……他的精神資料被侵食者吞噬了。,,치토세는…… 이터에게 정신 데이터를 먹힌 거야,"Seine Mentaldaten wurden von einem
+15,3045,,I suoi dati mentali sono stati assimilati da un Eater.,千歲……他的精神資料被侵食者吞噬了。,,치토세는…… 이터에게 정신 데이터를 먹힌 거야,"Seine Mentaldaten wurden von einem
 Verschlinger assimiliert."
-15,3045,,"I suoi dati mentali sono stati assimilati da un Eater.",千歲……他的精神資料被侵食者吞噬了。,,치토세는…… 이터에게 정신 데이터를 먹힌 거야,"Seine Mentaldaten wurden von einem Verschlinger assimiliert."
 16,2020,,...?!,……！？,,……!?,...?!
 17,3045,,"Guarda qui.
 Questa è la ricerca di Suedou sugli Eater.","看看這個，
@@ -59,7 +58,7 @@ Questo è il loro principale schema comportamentale.","他們在外部收集各�
 這就是侵食者的主要行動模式。",,"외부로부터 온갖 정보를 모아 한 곳으로 보낸다…
 그것이 이터의 주요 행동 패턴","Sie sammeln und versenden Daten.
 Das ist ihr Hauptverhaltensmuster."
-22,3045,,"La Sindrome EDEN è la conseguenza di un errore che si verifica quando un Eater assorbe i dati mentali umani.","EDEN症候群，就是人類的精神資料
+22,3045,,La Sindrome EDEN è la conseguenza di un errore che si verifica quando un Eater assorbe i dati mentali umani.,"EDEN症候群，就是人類的精神資料
 轉換成檔案後，被侵食者奪走所產生的錯誤現象。",,"EDEN 증후군은 정보로 변환된 인간의 정신 데이터를
 이터에게 빼앗겨 일어나는 에러 현상이었다는 거야","Das EDEN-Syndrom ist die Folge eines Fehlers,
 der auftritt, wenn ein Verschlinger umgewandelte 
@@ -101,7 +100,6 @@ Wenn das so ist, bin ich bereit,
 Suedou zu vertrauen."
 33,1392,,So cosa Ryuji direbbe in un momento come questo.,而且平常的龍司，在這種時候一定會說！,,"게다가 이럴 땐, 평소의 류지라면 분명 이렇게 말할 거야!","Ich weiß, was Ryuji in so einem Moment
 sagen würde."
-33,1392,,E poi, so cosa direbbe Ryuji in un momento come questo.,而且平常的龍司，在這種時候一定會說！,,"게다가 이럴 땐, 평소의 류지라면 분명 이렇게 말할 거야!","Ich weiß, was Ryuji in so einem Moment sagen würde."
 34,1392,,"""Essere un hacker significa correre dei rischi!""... giusto?",「駭客身邊總是伴隨著風險」……對吧！,,「해커에겐 위험이 따르기 마련이지」……라고!,"„Ein Hacker zu sein bedeutet, Risiken einzugehen!“"
 35,3045,,...,…………,,…………,...
 36,1392,,Eheh... che ne dici? Gli somiglio?,嘻嘻……有像嗎？,,에헤…… 비슷해?,Wie war das? Habe ich geklungen wie er?
@@ -119,22 +117,18 @@ per la Procreatrice Eater.","那麼就開始作戰吧，
 Erst müssen wir eine Route finden, die uns zur
 Verschlinger-Procreatrice führt."
 44,1392,,Una rotta?,入侵路徑？,,진입로?,Eine Route?
-45,3045,,"È, come dicesti al nostro primo incontro.",我們剛認識的時候，你不是說了嗎？,,처음 만났을 때 네가 그랬잖아,"Es ist, wie du bei unserer ersten
-Begegnung meintest."
-45,3045,,"È come hai detto tu quando ci siamo incontrati la prima volta.",我們剛認識的時候，你不是說了嗎？,,처음 만났을 때 네가 그랬잖아,"Es ist, wie du bei unserer ersten Begegnung meintest."
+45,3045,,È come hai detto tu quando ci siamo incontrati la prima volta.,我們剛認識的時候，你不是說了嗎？,,처음 만났을 때 네가 그랬잖아,"Es ist, wie du bei unserer ersten Begegnung meintest."
 46,3045,,"C'è un luogo in EDEN connesso al Mondo Digitale.
 Sei caduto da lì.","你是從EDEN的某處，
 和數碼世界相連接的地方掉下來的。",,"EDEN의 어딘가에 디지털 월드와 연결된 장소가 있고
 자신은 거기에서 떨어졌다고","Es gibt einen Ort in EDEN, der mit der Digitalen
 Welt verbunden ist. Da bist du rausgefallen."
-47,3045,,"Sono sicura che quel posto sia un'interfaccia tra EDEN e il Mondo Digitale.","我想那個地方，一定就是連接EDEN
+47,3045,,Sono sicura che quel posto sia un'interfaccia tra EDEN e il Mondo Digitale.,"我想那個地方，一定就是連接EDEN
 與數碼世界的「連接處」。",,"그 장소는 분명 EDEN과 디지털 월드를 잇는
 「접속부」라고 생각해","Ich bin mir sicher, dass es sich um eine
 Schnittstelle zwischen EDEN und der
 Digitalen Welt handelt."
-48,3045,,Possiamo usarla come rotta per la Procreatrice del Eater.,從那邊的話，就能到達侵食者母體的入侵路徑。,,거기를 써서 마더 이터로의 침입로를 확보하는 거야,"Wir können sie als Route zur
-Verschlinger-Procreatrice verwenden."
-48,3045,,Possiamo usarla come rotta per la Procreatrice Eater.,從那邊的話，就能到達侵食者母體的入侵路徑。,,거기를 써서 마더 이터로의 침입로를 확보하는 거야,"Wir können sie als Route zur Verschlinger-Procreatrice verwenden."
+48,3045,,Possiamo usarla come rotta per la Procreatrice Eater.,從那邊的話，就能到達侵食者母體的入侵路徑。,,거기를 써서 마더 이터로의 침입로를 확보하는 거야,Wir können sie als Route zur Verschlinger-Procreatrice verwenden.
 49,1392,,"Ah, capisco!
 Creare una nuova rotta sarebbe difficile, ma usarne una già esistente...!","這樣啊！
 要做出新路徑很難，但只要用既有的路徑……！",,"그렇구나!
@@ -146,7 +140,7 @@ Das klingt viel einfacher!"
 마더 이터로 직접 액세스가 가능할지도 모른다는 거지","Wenn wir das Netzwerk der Verschlinger
 zurückverfolgen, sollten wir schnurstracks zu
 ihrer Procreatrice gelangen."
-51,1392,,"Fantastico! C'era scritto anche questo nella ricerca di Suedou?",好厲害喔！　這方法也有寫在末堂的論文上嗎？,,굉장해! 그 방법도 스에도의 논문에 써있었어?,Prima! Steht das in Suedous Arbeit?
+51,1392,,Fantastico! C'era scritto anche questo nella ricerca di Suedou?,好厲害喔！　這方法也有寫在末堂的論文上嗎？,,굉장해! 그 방법도 스에도의 논문에 써있었어?,Prima! Steht das in Suedous Arbeit?
 52,3045,,"No, questa è una mia idea.",沒有喔，這是我想到的。,,"으응, 이건 내 아이디어","Nein, das ist meine Idee."
 53,3045,,"La ricerca descriveva un altro modo per raggiungere la Procreatrice Eater,
 ma non sono riuscita a decifrarlo.","論文上雖然也寫了其他接觸侵食者母體的方法，
@@ -190,8 +184,6 @@ Keine Ahnung."
 나는 거기서 이쪽 세계로 떨어졌어!","Ja! Das ist es!
 Dort bin ich in diese Welt gefallen!"
 61,1392,,"No, non era lì.",嗯～好像不是那裡耶……,,"으음, 그런 곳이 아니었던 것 같은데…","Nein, da war es nicht."
-62,3045,,Credo che possa essere stato al Piazzale dei Rifiuti.,……是不是破銅爛鐵公園啊？,,……잡동사니 광장 아냐?,"Ich glaube, es könnte auf der Müll-Plaza
-gewesen sein."
 62,3045,,Forse la Piazza dei Rifiuti?,……是不是破銅爛鐵公園啊？,,……잡동사니 광장 아냐?,"Ich glaube, es könnte auf der Müll-Plaza gewesen sein."
 63,3045,,"Ora è abbandonata, ma un tempo era l'ingresso di EDEN.
 Me l'ha detto mio fratello.","現在雖然很冷清了，但那裡從前是EDEN的入口。

@@ -12,11 +12,11 @@ Wie ist es Erika ergangen?"
 4,3046,,È stata dimessa dall'ospedale abbastanza in fretta.,沒多久就出院了。,,금방 퇴원할 수 있었습니다,"Sie wurde recht schnell aus dem
 Krankenhaus entlassen."
 5,3007,,"Ah, davvero? Mi fa piacere.",這樣啊……那就好。,,그런가 그런가… 그건 정말 다행이군,Ach ja? Das freut mich.
-6,3007,,"È da tanto che non ci vediamo. Come stai? Il lavoro procede bene?","好久沒像這樣好好見上一面了
+6,3007,,È da tanto che non ci vediamo. Come stai? Il lavoro procede bene?,"好久沒像這樣好好見上一面了
 ……你最近過得如何。有沒有好好工作啊？",,"느긋하게 만나는 건 오랜만이군.
 …네 쪽은 어떠냐. 착실하게 일하고 있나?","Wir haben uns lange nicht unterhalten. Wie geht
 es dir denn? Wie läuft es mit deiner Arbeit?"
-7,3046,,"Non c'è male. Mi occupo di sicurezza di rete. Il solito.",託您的福，目前在做安全管理的工作。,,덕분에요. 보안 관리를 맡고 있습니다,Nicht übel. Netzwerksicherheit. Das Übliche.
+7,3046,,Non c'è male. Mi occupo di sicurezza di rete. Il solito.,託您的福，目前在做安全管理的工作。,,덕분에요. 보안 관리를 맡고 있습니다,Nicht übel. Netzwerksicherheit. Das Übliche.
 8,3007,,"Oh, eccellente!
 Oggigiorno una cosa del genere sta diventando sempre più importante.","哦哦，很不錯嘛！
 這可是現代相當重視的工作呢。",,"오오, 훌륭하군!
@@ -30,7 +30,7 @@ Ihren Rat wegen einer Sache."
 11,3045,,"... Okay, si comincia!",……好了，作戰開始。,,……좋았어. 작전개시,"... Okay, leg los!"
 12,3007,,Ma? Cosa sta combinando quello?,嗯？這傢伙是怎麼回事啊……,,응? 뭐냐 이 녀석은…,Nanu? Was hat der denn vor?
 13,2020,,!!!,！！,,!!,!!!
-14,3046,,"... Sembra un Digimon. Sarà arrivato qui da Kowloon.","……好像是隻數碼寶貝。
+14,3046,,... Sembra un Digimon. Sarà arrivato qui da Kowloon.,"……好像是隻數碼寶貝。
 是從Kowloon跑過來的嗎？",,"……디지몬 같은데요.
 쿠롱에서 흘러들었겠죠","... Sieht wie ein Digimon aus.
 Das muss von Kowloon hierhergekommen sein."
@@ -60,8 +60,8 @@ Va bene...","唉呀唉呀，世界快完蛋了啊……
 어디 보자…","Meine Güte, was ist nur mit der Welt los ...
 Na schön ..."
 22,3048,,... Ah.,……啊。,,……앗,... Ah.
-23,3015,,"Hm, non sembra pericoloso...",呼～看起來沒有危險性呢……,,"흐~음, 위험하진 않은 것 같군…","Hm, es sieht nicht gefährlich aus ..."
-24,3015,,"E poi... è anche carino... almeno un po'.",而且……還、還有……那麼一點點可愛。,,"게다가……귀, 귀엽잖아……조금","Außerdem ... i-ist es irgendwie niedlich ...
+23,7125,,"Hm, non sembra pericoloso...",呼～看起來沒有危險性呢……,,"흐~음, 위험하진 않은 것 같군…","Hm, es sieht nicht gefährlich aus ..."
+24,7125,,E poi... è anche carino... almeno un po'.,而且……還、還有……那麼一點點可愛。,,"게다가……귀, 귀엽잖아……조금","Außerdem ... i-ist es irgendwie niedlich ...
 ein bisschen zumindest."
 25,2020,,(... Ugh!),……！！,,……!!,(... Urks!)
 26,2020,,"(Se non si stacca subito...!
@@ -92,7 +92,7 @@ Basta con queste sciocchezze, ridai il suo animaletto a quel ragazzo!","喂、�
 Schluss mit dem Unfug, gib dem jungen
 Mann sein Haustier zurück!"
 37,3015,,Okay... Ecco!,好～啦……拿去啦！,,예입…… 받아라!,Okay ... Hier!
-38,3015,,"Fai più attenzione al tuo Digimon! Altrimenti ti porto in centrale!","好好管好自己的數碼寶貝啊！
+38,3015,,Fai più attenzione al tuo Digimon! Altrimenti ti porto in centrale!,"好好管好自己的數碼寶貝啊！
 不然的話，我就逮捕你喔──",,"디지몬은 똑바로 관리해라!
 안 그러면 체포해버린다―","Pass besser auf dein Digimon auf!
 Sonst muss ich dich mit aufs Revier nehmen!"
@@ -117,10 +117,10 @@ du mal in Schwierigkeiten steckst."
 45,3007,,"Lo stesso vale per te, Date. Ryuji ha fegato. Garantisco per lui.","伊達，妳也是哦。
 龍司的勇氣跟毅力可是我掛保證的。",,"다테, 너도다. 류지의 의협심과 근성은 내가 보증하지","Das Gleiche gilt für dich, Date. Ryuji hat Mumm.
 Ich bürge für ihn."
-46,3007,,"... Il suo unico difetto è che è un hacker che non mostra alcun rimorso. Hahaha.","……要說他這個人有哪裡不好，
+46,3007,,... Il suo unico difetto è che è un hacker che non mostra alcun rimorso. Hahaha.,"……要說他這個人有哪裡不好，
 大概就是他是個駭客吧，哈哈哈！",,……해커라는게 옥의 티지만. 핫핫핫,"... Sein einziger Makel ist, dass er ein Hacker
 ist, der keine Reue zeigt. Hahaha."
-47,3046,,"... Detective Matayoshi...",……又吉先生。,,……마타요시 씨,"... Uff, ist das so offensichtlich?"
+47,3046,,... Detective Matayoshi...,……又吉先生。,,……마타요시 씨,"... Uff, ist das so offensichtlich?"
 48,3007,,"Heh, sono un vecchio... Chissà quando arriverà la mia ora.
 Voi giovani dovete imparare a prendervi cura l'uno dell'altro.","嘿嘿、我啊，年紀也不小了……
 什麼時候會發生什麼事，都說不準。
@@ -142,7 +142,7 @@ du freche Göre!"
 51,3046,,...,…………,,…………,...
 52,3007,,Ma...? Accidenti.,嗯……這下糟糕了。,,음……이거 곤란하군,Nanu ...? Verflixt.
 53,3015,,La centrale?,總部打來的嗎？,,본부의 연락입니까?,Die Zentrale?
-54,3007,,"Sì. Un informatore ci ha dato una soffiata su un hacker ricercato.","嗯，剛剛有密告提供
+54,3007,,Sì. Un informatore ci ha dato una soffiata su un hacker ricercato.,"嗯，剛剛有密告提供
 一位通緝中駭客的現身情報。",,"아아, 지명수배된 해커가 쿠롱에 나타났다는군.
 밀고가 들어왔다는 연락이 왔다","Ja. Ein Informant hat uns einen Tipp bezüglich
 eines flüchtigen Hackers gegeben, für den es
@@ -152,7 +152,7 @@ auf frischer Tat!"
 56,3007,,"Mi dispiace, Ryuji. Dovremo rimandare la nostra chiacchierata!","不好意思啊龍司，
 要找我商量的事，我之後一定會好好聽你說！",,"미안하다 류지, 상담 문제는 다음에 반드시 듣겠다!","Tut mir leid, Ryuji. Du wirst noch eine Weile
 auf meinen Rat verzichten müssen!"
-57,3046,,"Riguarda un hacker? Allora vengo anch'io.",是和駭客有關的事件嗎？也讓我一起去吧。,,해커 관련입니까? 그렇다면 저도 가겠습니다,"Es geht um einen Hacker?
+57,3046,,Riguarda un hacker? Allora vengo anch'io.,是和駭客有關的事件嗎？也讓我一起去吧。,,해커 관련입니까? 그렇다면 저도 가겠습니다,"Es geht um einen Hacker?
 Dann komme ich mit."
 58,3007,,"Ci saresti di grande aiuto! Forza, andiamo!","那真是幫了我一個大忙！
 ……走吧！龍司，伊達！ ",,"그거 고맙군!  ……가자, 류지, 다테!","Du wärst uns eine große Hilfe!
@@ -164,17 +164,17 @@ Los, ihr zwei, gehen wir!"
 etwa in deinem Aufzug die Verfolgung
 aufnehmen, oder?!"
 61,3048,,Ma è pazzesco! Ehi!,太亂來了啦！喂──！,,무모하다니까! 어이!,Das ist doch verrückt! He!
-62,3048,,"Hmpf... Mi ha lasciato qui da solo...",搞什麼嘛……就這樣丟下我一個人走掉了……,,뭐야… 두고 가버리다니……,Hmpf ... Lässt mich hier einfach sitzen ...
-63,7125,,"Ah, lasciali andare.",……也沒什麼不好的啊，就讓他去吧。,,"……상관없잖아, 내버려둬도","... Ach, lass sie einfach ziehen."
+62,3048,,Hmpf... Mi ha lasciato qui da solo...,搞什麼嘛……就這樣丟下我一個人走掉了……,,뭐야… 두고 가버리다니……,Hmpf ... Lässt mich hier einfach sitzen ...
+63,7160,,"Ah, lasciali andare.",……也沒什麼不好的啊，就讓他去吧。,,"……상관없잖아, 내버려둬도","... Ach, lass sie einfach ziehen."
 64,3048,,Ma...,可是……,,하지만……,Aber ...
-65,7125,,Puoi prestarglielo per un po'.,就借給他們一下吧。,,잠시동안 그 놈들에게 빌려주면 돼,Du kannst ihnen das Ding eine Weile borgen.
-66,7125,,"... Sono tuoi amici, no?
+65,7160,,Puoi prestarglielo per un po'.,就借給他們一下吧。,,잠시동안 그 놈들에게 빌려주면 돼,Du kannst ihnen das Ding eine Weile borgen.
+66,7160,,"... Sono tuoi amici, no?
 Non preoccuparti, torneranno da te.","……那傢伙，是你最好的朋友吧？
 那就沒什麼好操心的，他一定會再回來的……",,"……그 녀석은 네 친구잖아?
 걱정하지 않아도 반드시 네 곁으로 돌아올 거야…","... Sind das Freunde von dir?
 Keine Sorge, die kommen schon wieder."
 67,3048,,... Speriamo.,這樣嗎……,,"……그런, 걸까",... Hoffentlich.
-68,7125,,Lo faranno... Ne sono sicura.,對啊……一定是這樣沒錯喔。,,그래… 분명 그럴거야,Das werden sie ... Ich bin mir sicher.
-69,7125,,"Dico sempre la verità. O forse no?",我說的話從來沒有出過差錯吧？,,내 말은 틀렸던 적이 없잖아?,"Ich spreche immer die Wahrheit.
+68,7160,,Lo faranno... Ne sono sicura.,對啊……一定是這樣沒錯喔。,,그래… 분명 그럴거야,Das werden sie ... Ich bin mir sicher.
+69,7160,,Dico sempre la verità. O forse no?,我說的話從來沒有出過差錯吧？,,내 말은 틀렸던 적이 없잖아?,"Ich spreche immer die Wahrheit.
 Oder etwa nicht?"
 70,3048,,"Sì, già...",……嗯，說的也是。,,"……아아, 그랬지","Ja, schon ..."

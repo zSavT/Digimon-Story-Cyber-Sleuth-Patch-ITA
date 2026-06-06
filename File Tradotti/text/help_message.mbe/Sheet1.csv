@@ -118,12 +118,12 @@ ID,Japanese,English,Chinese,EnglishCensored,Korean,German
 2220,,Regola la BGM in gioco.,變更遊戲內播放的BGM。,,게임 도중 재생할 BGM을 변경합니다.,Passe die Hintergrundmusik im Spiel an.
 2221,,Le impostazioni verranno modificate dopo che verrà visualizzata la schermata dell'accordo sull'utilizzo dei dati.,變更使用資料的相關同意畫面顯示設定。,,데이터 사용에 관한 동의 화면이 표시되어 설정을 변경합니다.,"Die Einstellungen werden geändert, nachdem der Zustimmungsbildschirm zur Datennutzung angezeigt wurde."
 2231,,Le impostazioni verranno modificate dopo la visualizzazione della schermata dell'accordo sull'utilizzo dei dati.,變更使用資料的相關同意畫面顯示設定。,,데이터 사용에 관한 동의 화면이 표시되어 설정을 변경합니다.,"Die Einstellungen werden geändert, nachdem der Zustimmungsbildschirm zur Datennutzung angezeigt wurde."
+2222,,Modifica la configurazione dei tasti.,設定按鍵功能。,,키 설정을 변경합니다.,Hiermit wird die Tastenbelegung angepasst.
+2223,,Modifica le impostazioni grafiche.,設定畫面顯示選項。,,그래픽 설정을 변경합니다.,Hiermit werden Grafikoptionen angepasst.
+2232,,Modifica la configurazione dei tasti.,設定按鍵功能。,,키 설정을 변경합니다.,Hiermit wird die Tastenbelegung angepasst.
+2233,,Modifica le impostazioni grafiche.,設定畫面顯示選項。,,그래픽 설정을 변경합니다.,Hiermit werden Grafikoptionen angepasst.
+2224,,La modifica al controller si rifletterà sull'icona al riavvio.,變更控制器時，重新啟動後將會顯示圖示,,컨트롤러를 교체하면 재기동 후 아이콘에 반영됩니다.,Ersetzte Controller werden nach Neustart im Symbol gezeigt.
 3500,,Salva i tuoi progressi attuali.,線上備份目前進度。,,현재 진행 상황을 백업합니다.,Sichere deinen aktuellen Fortschritt.
-2222,"","Modifica la configurazione dei tasti.","設定按鍵功能。","","키 설정을 변경합니다.","Hiermit wird die Tastenbelegung angepasst."
-2223,"","Modifica le impostazioni grafiche.","設定畫面顯示選項。","","그래픽 설정을 변경합니다.","Hiermit werden Grafikoptionen angepasst."
-2232,"","Modifica la configurazione dei tasti.","設定按鍵功能。","","키 설정을 변경합니다.","Hiermit wird die Tastenbelegung angepasst."
-2233,"","Modifica le impostazioni grafiche.","設定畫面顯示選項。","","그래픽 설정을 변경합니다.","Hiermit werden Grafikoptionen angepasst."
-2224,"","La modifica al controller si rifletterà sull'icona al riavvio.","變更控制器時，重新啟動後將會顯示圖示","","컨트롤러를 교체하면 재기동 후 아이콘에 반영됩니다.","Ersetzte Controller werden nach Neustart im Symbol gezeigt."
 3501,,Inizia il gioco utilizzando i dati scaricati dallo spazio di archiviazione online.,將以從網路硬碟下載之進度開始遊戲。,,온라인 스토리지로부터 다운로드한 데이터로 게임을 시작합니다.,Beginne das Spiel mit Daten vom Online-Speicher.
 2907,, ,　,,　, 
 3216,,Seleziona un accessorio da equipaggiare.,請選擇要裝備的飾品。,,장비할 액세서리를 선택해 주세요.,Wähle ein Accessoire zum Ausrüsten.
@@ -208,8 +208,8 @@ ID,Japanese,English,Chinese,EnglishCensored,Korean,German
 2985,,Imposta la chiave della stanza da utilizzare nei criteri di ricerca.,在搜尋條件設定房間密碼。,,검색 조건으로 지정할 룸 키를 입력합니다.,Lege Raumschlüssel für Suchkriterien fest.
 2986,,Cerca stanze che soddisfino i criteri attuali.,搜尋符合目前條件的房間。,,현재 조건과 일치하는 룸을 검색합니다.,"Suche Räume, die zu diesen Kriterien passen."
 2946,,Seleziona una stanza a cui partecipare.,請選擇要加入的房間。,,참가할 룸을 선택해주세요.,Bitte wähle einen Raum zum Betreten aus.
-4000,,"Attiva o disattiva la profondità di campo.","設定是否開啟景深。",,"피사계 심도의 활성화 여부를 설정합니다.","Hiermit wird die Schärfentiefe eingestellt."
-4001,,"Attiva o disattiva l'antialiasing.","設定是否開啟反鋸齒。",,"앤티에일리어싱의 활성화 여부를 설정합니다.","Hiermit wird das Antialiasing eingestellt."
-4002,,"Cambia la modalità schermo.","變更視窗模式。",,"스크린 모드를 변경합니다.","Ändert den Bildschirmmodus."
-4003,,"Cambia la risoluzione.","變更解析度。",,"해상도를 변경합니다.","Ändert die Auflösung."
-4100,,"Utilizzato per configurare le impostazioni dei pulsanti.","設定按鍵功能。",,"키보드 입력 설정을 변경합니다.","Hiermit wird die Tastenbelegung angepasst."
+4000,,Attiva o disattiva la profondità di campo.,設定是否開啟景深。,,피사계 심도의 활성화 여부를 설정합니다.,Hiermit wird die Schärfentiefe eingestellt.
+4001,,Attiva o disattiva l'antialiasing.,設定是否開啟反鋸齒。,,앤티에일리어싱의 활성화 여부를 설정합니다.,Hiermit wird das Antialiasing eingestellt.
+4002,,Cambia la modalità schermo.,變更視窗模式。,,스크린 모드를 변경합니다.,Ändert den Bildschirmmodus.
+4003,,Cambia la risoluzione.,變更解析度。,,해상도를 변경합니다.,Ändert die Auflösung.
+4100,,Utilizzato per configurare le impostazioni dei pulsanti.,設定按鍵功能。,,키보드 입력 설정을 변경합니다.,Hiermit wird die Tastenbelegung angepasst.

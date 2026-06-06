@@ -20,7 +20,7 @@ eingebrochen."
 Polizei?"
 7,3046,,La polizia ci ha passato il caso.,就是警察那邊，把這件事交給了我們。,,그 경찰 측에서 이쪽으로 패스한 거다,Die Polizei hat den Fall weitergereicht.
 8,3045,,Quindi non è solo un caso ordinario?,……那麼，果然不是普通的事件吧？,,…그렇다면 역시 평범하지 않은 사건이라는 뜻?,Also doch kein gewöhnlicher Fall?
-9,3007,,"Vedo che siete tutti qui. Grazie per essere venuti.","喔，全員都在啊。
+9,3007,,Vedo che siete tutti qui. Grazie per essere venuti.,"喔，全員都在啊。
 又要拜託你們啦。",,"좋아, 전원이 모였군.
 또 신세를 지겠다","Ihr seid also alle da. Danke, dass ihr euch
 bereit erklärt habt."
@@ -57,9 +57,9 @@ nicht stimmt."
 海馬也被偷走了。",,"처음에는 도미, 그 다음엔 넙치
 해마도 도난당했습니다","Zum Beispiel Seebrassen, Flundern und
 Seepferdchen."
-19,3047,,"Wow. Che si mettano in testa di aprire un acquario tutto loro?",什麼？　犯人是想打造龍宮城喔。,,하앙? 범인은 용궁이라도 만들려는 생각인가,"Oha. Wollen die Diebe vielleicht ein eigenes
+19,3047,,Wow. Che si mettano in testa di aprire un acquario tutto loro?,什麼？　犯人是想打造龍宮城喔。,,하앙? 범인은 용궁이라도 만들려는 생각인가,"Oha. Wollen die Diebe vielleicht ein eigenes
 Aquarium aufmachen?"
-20,3046,,"Non è una cosa da ridere. Dovresti prenderla più seriamente.",不要開玩笑，給我認真點。,,놀고있는 게 아냐. 진지하게 해,"Das ist kein Witz hier. Du solltest das mal
+20,3046,,Non è una cosa da ridere. Dovresti prenderla più seriamente.,不要開玩笑，給我認真點。,,놀고있는 게 아냐. 진지하게 해,"Das ist kein Witz hier. Du solltest das mal
 ernster nehmen."
 21,3047,,Ehi.,好～,,네이~,He.
 22,3047,,Ehi, tu ridi e quello se la prende con me.,喂，都是你笑了才害我被罵啊。,,"어이, 네가 웃는 바람에 나까지 혼났잖아","Du lachst, und auf mich wird er sauer."
@@ -106,7 +106,7 @@ merken, dass so viele Tiere verschwunden sind?"
 36,7364,,Erm...beh...,是，就是這樣。,,예에 예에,Ähm ... also ...
 37,7364,,I ladri... Loro...impiegano metodi molto astuti.,所以，才會說他們的手法……太過巧妙了……,,그 점이 놈들의 깔끔한 수법…이라고 부를 부분이라…,"Die Diebe ... setzen ... sehr listige Methoden
 ein."
-38,3047,,"Ma figurati! Non sarà che voi vecchietti non siete più all'altezza?","不對不對，不是犯人手法太過巧妙，
+38,3047,,Ma figurati! Non sarà che voi vecchietti non siete più all'altezza?,"不對不對，不是犯人手法太過巧妙，
 是大叔你們太鬆散了吧？",,"아니아니, 범인의 수법이 깔끔해서가 아니라
 아저씨들이 얼빠졌을 뿐이잖아?","Ja, schon klar! Sind Sie sicher, dass Sie nicht
 einfach nur zu alt sind, um den Durchblick zu
@@ -235,7 +235,7 @@ di sprecare risorse per indagare su questo caso al momento.","……也因此，
 延後再進行搜查。",,"…즉 윗쪽의 판단으로는 이 사건의 조사는
 뒤로 미루라는 거다","Meine Vorgesetzten haben entschieden, dass wir für
 diesen Fall aktuell keine Ressourcen übrig haben."
-68,3047,,"Piantala! Sembra solo una scusa per essere pigro!","那種都是你們的理由啊！
+68,3047,,Piantala! Sembra solo una scusa per essere pigro!,"那種都是你們的理由啊！
 在我聽來，你們只是在怠慢職務吧。",,"그런 거 제멋대로잖아!
 직무태만을 변명하는 걸로밖에 들리지 않네","Ach, Quatsch! Das klingt nach einer Ausrede für
 Faulheit!"
@@ -317,7 +317,7 @@ habe gehört, dass es davon viele in EDEN gibt."
 你們是「做不出這種事」的……",,"아뇨, 설마!
 당신들에 대해선 마타요시 씨로부터 들었습니다.","Natürlich nicht! Matayoshi hat mir alles über
 euch erzählt."
-87,7364,,Ha detto che non siete il tipo da fare una cosa del genere.,好像是說「不到那種程度」……,,「그런 수준이 아니다」라고…,"Er meinte, so etwas könntet ihr gar nicht tun."
+987,7364,,Ha detto che non siete il tipo da fare una cosa del genere.,好像是說「不到那種程度」……,,「그런 수준이 아니다」라고…,"Er meinte, so etwas könntet ihr gar nicht tun."
 88,3046,,...Che gentile da parte sua a dirlo.,……又吉先生，我能拒絕這工作吧？,,…마타요시 씨. 이 의뢰를 거절해도 됩니까?,Wenn er das so sagt ...
 89,3007,,"Non intendevo questo! Volevo solo dire che non saresti
 capace di commettere un crimine del genere.","不對不對，不要誤會啦！
@@ -331,7 +331,7 @@ Verbrechen würdet ihr nie begehen."
 是我說話的方法不對……",,"아, 예! 죄송합니다.
 제 표현이 좋지 않았었나 봅니다…","Genau! Entschuldigung, ich habe das schlecht
 formuliert."
-92,7364,,"Vorrei davvero che Hudie scoprisse la verità e catturasse i colpevoli.","請hudie的各位，一定要找出
+92,7364,,Vorrei davvero che Hudie scoprisse la verità e catturasse i colpevoli.,"請hudie的各位，一定要找出
 這事件的真相，捉出幕後的犯人。",,"부디 후디에 여러분께서 이 사건의 진상을
 밝히고 범인을 잡아주셨으면 합니다","Es wäre mir wirklich lieb, wenn Hudie die
 Wahrheit herausfände und die Schuldigen stellte."
@@ -356,7 +356,7 @@ für uns getan."
 對我們駭客來說也是很重要的。",,"게다가 경찰에게 은혜를 베풀어 커넥션을 만들어 두는 것도
 우리 해커에게는 중요한 일이다","Es könnte außerdem nützlich sein, wenn die Polizei
 uns einen Gefallen schuldet."
-98,3046,,Il detective Matayoshi è un uomo "che torna utile".,……又吉先生可是“派得上用場”的男人喔。,,"…마타요시 씨는 ""쓸만한"" 남자야",Kommissar Matayoshi könnte uns nützlich sein.
+98,3046,,"Il detective Matayoshi è un uomo ""che torna utile"".",……又吉先生可是“派得上用場”的男人喔。,,"…마타요시 씨는 ""쓸만한"" 남자야",Kommissar Matayoshi könnte uns nützlich sein.
 99,3007,,"Non posso credere che tu l'abbia detto
 con me proprio qui.",真是的，在我本人面前還真敢說啊。,,"정말, 본인을 앞에 두고 잘도 말하는군","Unglaublich, dass du das sagst, obwohl ich direkt
 vor dir stehe."
@@ -383,7 +383,7 @@ Steinen oder sonstigem, was nicht hingehört."
 109,7364,,Lo farò. Cosa dovrei fare se trovo qualcosa?,"我知道了。
 要是有發現的話，我們該怎麼做呢？",,"알겠습니다.
 그 뭔가를 발견했을 경우, 어떻게 할까요?",Mache ich. Und wenn ich etwas finde?
-110,3046,,"Contattaci immediatamente. Assicurati di non toccarlo.","立刻聯絡我。
+110,3046,,Contattaci immediatamente. Assicurati di non toccarlo.,"立刻聯絡我。
 找到東西的話，完全不要碰觸。",,"바로 나에게 연락해.
 발견한 것엔 일절 손대지 말고","Kommen Sie direkt zu uns und berühren es auf
 keinen Fall."
@@ -449,7 +449,7 @@ verbunden und werde die Protokolle des
 Sicherheitssystems durchgehen."
 127,3047,,Mmm...,……嗯～,,…음~,Hm ...
 128,3046,,Hai trovato qualcosa?,你發現什麼了嗎？,,뭔가 단서를 잡을 것 같나?,Hast du was gefunden?
-129,3047,,"Sembra che i ladri vi abbiano avuto accesso tramite il Cyberspazio.",他們好像有從電腦空間登入伺服器喔。,,그 놈들 전뇌공간에서 서버로 엑세스 한 모양이야,"Die Diebe haben wohl über den Cyberspace darauf
+129,3047,,Sembra che i ladri vi abbiano avuto accesso tramite il Cyberspazio.,他們好像有從電腦空間登入伺服器喔。,,그 놈들 전뇌공간에서 서버로 엑세스 한 모양이야,"Die Diebe haben wohl über den Cyberspace darauf
 zugegriffen."
 130,3047,,"Hanno cancellato i registri, ma non è abbastanza per fermarmi.","他們雖然消除了整個侵入紀錄，
 但可逃不過我的法眼喔。",,"침입한 로그 자체는 지운 것 같지만
