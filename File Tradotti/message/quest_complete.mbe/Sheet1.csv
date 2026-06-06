@@ -1,7 +1,6 @@
 ﻿ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
-10,3006,,"Rintracciare oggetti smarriti è tra le abilità più basilari che un buon
-detective possiede, quindi assicurati di tenerti sempre aggiornato
-su questi casi.","『尋找失物』在偵探的工作中是基礎中的基礎。
+10,3006,,"Rintracciare oggetti smarriti è la base del lavoro di ogni buon
+detective, quindi assicurati di occupartene sempre con dedizione.","『尋找失物』在偵探的工作中是基礎中的基礎。
 今後也要請你好好地完成工作囉。",,"""유실물 찾기""는 탐정의 일 중에서도 기본 중의 기본이다
 앞으로도 확실히 해나가도록","Das Auffinden von verlorenen Items ist
 ein wichtiges Talent für einen guten Detektiv.
@@ -14,8 +13,8 @@ Sembrate aver sviluppato una dinamica piuttosto unica, se posso dirlo.","米蕾�
 네게 준 것 같군","Wie ich sehe, hast du dich für Mirei ins Zeug
 gelegt. Ihr zwei entwickelt langsam eine
 einzigartige Dynamik, wenn ich das so sagen darf."
-30,3006,,"Ottimo lavoro. Che ne dici se ti verso una
-tazza di caffè per il disturbo?","辛苦你了。
+30,3006,,"Ottimo lavoro. Ti va una bella tazza di caffè
+come ricompensa per il disturbo?","辛苦你了。
 要不要幫你泡杯咖啡？",,"수고했다
 커피라도 타 줄까?","Gute Arbeit. Wie wäre es, wenn ich dir zur
 Belohnung etwas Kaffee mache?"
@@ -37,16 +36,16 @@ in una grande star del cinema in futuro.","喔，辛苦你了。
 거물 영화배우의 꽃을 피우는 것을 기대하도록 하지","Ich danke dir wie immer für deine gute Arbeit.
 Wir können nur hoffen, dass dein geretteter
 „Setzling“ zu einem großen Filmstar heranwächst."
-190,3006,,"Usare Digimon come parte di una promozione idol...
-Ora non è qualcosa che si sente tutti i giorni.
-Devo tanto di cappello all'organizzatore dell'evento per questa.","使用數碼寶貝來宣傳偶像啊……
+190,3006,,"Usare i Digimon per promuovere un'idol...
+Non è certo una cosa che si sente tutti i giorni.
+Tanto di cappello all'organizzatore dell'evento per l'idea.","使用數碼寶貝來宣傳偶像啊……
 企劃這個活動的人所想的點子還真有趣。",,"디지몬을 아이돌의 프로모션으로 사용하다니
 그 이벤트의 기획자는 꽤나 재미있는 생각을 하는군","Digimon zum Marketing für ein Idol zu benutzen ...
 Das ist ungewöhnlich. Da muss man schon
 den Hut vor dem Veranstalter ziehen."
-200,3006,,"Ti capita mai di essere colpito da un'improvvisa ondata di nostalgia
-quando ascolti un carillon? Heehee, anche a me...
-Non preoccuparti. Stavo solo pensando ad alta voce...","聽到音樂盒的樂曲後，你不會突然產生一股鄉愁感嗎？
+200,3006,,"Ti capita mai di provare un'improvvisa ondata di nostalgia
+quando ascolti un carillon? Hehe, succede anche a me...
+Non farci caso. Stavo solo pensando ad alta voce...","聽到音樂盒的樂曲後，你不會突然產生一股鄉愁感嗎？
 我也……呵呵，沒事。",,"오르골 소리를 들으면 문득 향수를 느낄 때 없나?
 나도… 후후, 아무것도 아니다","Überkommt dich jemals Nostalgie, wenn du einer
 Spieluhr zuhörst? Haha, mich auch ...
@@ -56,9 +55,9 @@ Heehee, è così che le ha chiamate il cliente, non io.","勞煩你跑一趟了�
 ……呵呵，因為委託內容是這麼寫的啊。",,"심부름, 수고했다
 …후후, 의뢰내용에 그렇게 쓰여 있었으니까 말이지","Danke, dass du diese „Botengänge“ erledigt hast.
 Haha, der Klient hat sie so genannt, nicht ich."
-240,3006,,"Digipedia? Sì, certo che la conosco. Anzi, come
-hai fatto ad andare avanti così tanto senza sentirne parlare?
-Sono sorpresa, considerando la tua età.","數碼百科？　喔，我當然知道啊。
+240,3006,,"Digipedia? Sì, certo che la conosco. Piuttosto, com'è possibile
+che tu non ne avessi ancora mai sentito parlare?
+È sorprendente, considerando la tua età.","數碼百科？　喔，我當然知道啊。
 倒不如說，身為助手的你竟然到現在才知道……？",,"디지디지피디아? 아아, 물론 알고 있다
 오히려 조수, 너는 지금까지 몰랐던 건가…?","Digipedia? Natürlich habe ich davon gehört.
 Wie kommt es, dass du noch nicht davon gehört
@@ -80,8 +79,8 @@ Sembra che tu sia immerso nei pensieri. Che succede?","拯救數碼寶貝脫離�
 ……응? 왜 그런 복잡한 얼굴을 하고 있지?","Es war also medizinische Forschung, um Digimon
 vor Krankheiten zu schützen. Hoffentlich gibt es 
 einen Durchbruch. Du wirkst so nachdenklich ...?"
-270,3006,,"Parlando di esperimenti, ho inventato un nuovo gusto di caffè.
-È caffè italiano con pasta di pomodoro e basilico guarnito con prosciutto.
+270,3006,,"A proposito di esperimenti, ho creato una nuova miscela di caffè.
+Caffè italiano con pomodoro, basilico e guarnito con prosciutto crudo.
 Forza, assaggiane un po'!","聽到藥物實驗後，我才想起剛才研發出新口味的咖啡了。
 是添加了番茄、羅勒泥和生火腿的義大利咖啡。
 怎麼樣？要不要來一杯嚐嚐？",,"약의 실험이라고 하니 생각났는데, 방금 신작 커피가 완성되었다
@@ -98,9 +97,9 @@ Questo è quello che sento. Abbiamo ancora molto da fare.","不管是人還是�
 ……자, 조수, 우리에게도 아직 할일이 있잖나?","Sowohl Menschen als auch Digimon sind auf die
 Großzügigkeit und Güte anderer angewiesen. Das ist
 meine Meinung. Es gibt noch viel zu tun."
-500,3006,,"Penso che il vero ""Criminale Multiforme"" fosse una specie di fan
-della polizia e degli investigatori privati. Probabilmente
-è il primo tipo di personalità ""caldo-freddo"" di sempre.","回想起來，原作的怪人二十面相
+500,3006,,"Penso che il vero ""Criminale Multiforme"" fosse una specie
+di fan della polizia e degli investigatori. Probabilmente
+è stato il primo caso di personalità ""tsundere"" della storia.","回想起來，原作的怪人二十面相
 從不同角度看的話，也是個喜歡警察和偵探的人物。
 或許就是時下所講的“傲嬌”的先鋒吧。",,"생각해 보면 진짜 괴인 20면상도
 보는 방법에 따라선 경찰이나 탐정을 좋아하는 인물이었다
@@ -115,8 +114,8 @@ quando sei arrivato tu.","商量要送給單戀對象的禮物嗎？
 Liebe, was? Weißt du, unsere Fälle sind echt
 vielfältiger geworden, seit du mir hilfst."
 520,3006,,"Le persone sono una fonte inesauribile di sorprese.
-Non mi sarei mai immaginato Arata come il tipo da frequentare gruppi
-di otaku.","每個人都有意想不到的一面……
+Non avrei mai immaginato che Arata fosse il tipo
+da frequentare gruppi di otaku.","每個人都有意想不到的一面……
 真田新有那樣的交友關係，
 讓人有點意外呢。",,"사람에게는 생각지도 못한 면이 있다고 하지만
 사나다 아라타에게 그런 교우관계가 있었을 줄이야
@@ -131,8 +130,8 @@ Dovresti assolutamente andare a darci un'occhiata quando hai tempo.","田和玲�
 모처럼이니 시간이 있을 때 보러 가도록 해라","Reiko hat eine Ecke nur für Etemon-CDs
 eingerichtet. Du musst sie dir unbedingt anhören,
 wenn du Zeit hast."
-540,3006,,"Devi essere pronto a scoppiare dopo tutti quei ristoranti.
-Che ne dici di un caffè? Possiamo provare una nuova miscela...
+540,3006,,"Starai per scoppiare dopo aver girato tutti quei ristoranti.
+Che ne dici di un caffè? Potremmo provare una nuova miscela...
 Yuzukosho e panna acida!","跑了這麼多家店，想必你肚子一定很脹吧。
 飯後來一杯咖啡怎麼樣？
 我請你喝一杯用柚子胡椒和酸奶油全新調製的咖啡吧。",,"많은 가게를 돌아다녀서 분명 배탈이 난 거겠지
@@ -150,13 +149,13 @@ dispiegarsi proprio davanti a me...","數碼寶貝和你自己每天都在大幅
 erwachsen, ohne dass ihr es merkt. Es ist schön,
 das mitanzusehen ..."
 570,3006,,"Riesci ad attrarre un gruppo di persone piuttosto eterogeneo.
-Non sai quanto sia raro per un detective avere questa qualità.","你身邊聚集著形形色色的有趣人們呢。
+Non hai idea di quanto sia rara questa dote in un detective.","你身邊聚集著形形色色的有趣人們呢。
 以一名偵探來說，這是非常稀有的資質哦？",,"네 주위에는 이런저런 재미있는 사람들이 모여드는군
 탐정으로서 그건 매우 좋은 자질이다","Du bist geradezu ein Magnet für die
 verschiedensten Leute. Du hast keine Ahnung,
 wie selten das für einen Detektiv ist."
-580,3006,,"Sono curioso di vedere come questo amore nascente finirà alla fine.
-Gli auguro buona fortuna là fuori nel corteggiarla...","不管怎樣，他的戀情發展真令人在意呢。
+580,3006,,"Sono curiosa di vedere come andrà a finire questo amore sbocciato.
+Gli auguro buona fortuna con il suo corteggiamento...","不管怎樣，他的戀情發展真令人在意呢。
 只能祈禱他順利修成正果了……",,"어쨌든 그의 사랑의 행방이 신경 쓰이는군
 훌륭히 성취하기를 바랄 뿐이지만","Ich bin neugierig, was aus dieser jungen Romanze
 letztendlich wird. Ich wünsche ihm viel Glück,
@@ -191,9 +190,9 @@ a questo punto?","委託似乎順利地進行當中，辛苦了……
 슬슬 미카구라 미레이의 준비도 끝나지 않았을까?","Gute Arbeit. Deine Fälle scheinen gut zu laufen.
 Ach ja, sollte Mirei jetzt nicht mit ihren
 Vorbereitungen fertig sein?"
-660,3006,,"Ottimo lavoro con quel caso. So che è decisamente penduto più verso
-il lato strano delle cose, ma...
-a volte è bene uscire dai sentieri battuti.","辛苦了。
+660,3006,,"Ottimo lavoro con questo caso. So che è stato decisamente
+più bizzarro del solito, ma...
+ogni tanto fa bene uscire dagli schemi.","辛苦了。
 這次委託很奇怪吧……
 不過，偶爾接到這種的也不錯，對吧？",,"수고했다
 특이한 의뢰였겠지만…
@@ -364,9 +363,9 @@ assicuratevi che voi due andiate d'accordo, capito?","皮特也是我們重要�
 你們好好相處吧。",,"피트도 우리의 소중한 사원이다
 사이좋게 지내도록","Pete ist ein wichtiges Mitglied des Teams.
 Versucht also, euch zu vertragen, ja?"
-1540,3006,,"Il confine tra sogni e realtà può essere confuso.
-È per questo che non posso escludere del tutto la possibilità.
-Chi siamo noi per dire che non viviamo in un sogno?","我們也不能說無法區分夢境和現實是不可能的事。
+1540,3006,,"Il confine tra sogno e realtà può essere molto sottile.
+È per questo che non posso escludere del tutto l'ipotesi.
+Chi siamo noi per affermare con certezza di non vivere in un sogno?","我們也不能說無法區分夢境和現實是不可能的事。
 畢竟誰也無法斷言，這個世界不是一場夢……",,"꿈과 현실을 구분하지 못하게 된다…
 있을 수 없는 이야기라고는 할 수 없군
 이 세계가 꿈이 아니라고 그 누구도 단언할 수 없으니까…","Nur ein schmaler Grat trennt Träume von der
@@ -390,9 +389,9 @@ Meglio trovare altri clienti per tenerli al caldo.","又變成只有你和我兩
 …뭘, 의뢰인으로 메꿔 버리면 된다","Jetzt sind wir hier wohl wieder zu zweit.
 Die Sofas wirken ohne Pete so leer ...
 Wir brauchen mehr Klienten, um sie warm zu halten."
-1590,3006,,"Heehee, un altro lavoro ben fatto su quel caso.
-Mi porta grande gioia vederti crescere e diventare un
-detective così bravo e forte. Questo merita un caffè!","呵呵……辛苦了。
+1590,3006,,"Hehe, un altro lavoro ben fatto su questo caso.
+È una vera gioia vederti crescere e diventare un
+detective così in gamba. Questo successo merita un caffè!","呵呵……辛苦了。
 我的助手能夠成長茁壯，實在讓人開心無比。
 要不要我泡杯咖啡給你當獎勵？",,"후후… 수고했다
 우리 조수 군이 늠름하게 자라 주어서 기쁘기 그지없다

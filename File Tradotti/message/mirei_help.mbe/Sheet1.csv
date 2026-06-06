@@ -6,14 +6,14 @@ ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
 So wirkt es jedenfalls ..."
 1001,3013,,"Hihi... Se ti perdi di nuovo, torna pure.",呵呵呵，如果你不知道接下來該怎麼辦的話，就再來找我吧。,,"우후후, 만약 길을 잃으면 언제든 찾아 오렴","Hihi ... Wenn du dich wieder verirrst,
 komm ruhig zurück."
-1010,3013,,"Di nuovo, il tempo ci sta scappando.
+1010,3013,,"Ancora una volta, il tempo stringe.
 Forse dovresti occuparti del tuo vero lavoro, ""Cyber-Detective""?","時候還沒到呢。
 你只要繼續從事本行……繼續當你的偵探就行了吧？",,"아직, 때는 되지 않았어
 본직… 탐정 업무를 하면 괜찮지 않을까?","Wieder einmal läuft uns die Zeit davon. Vielleicht
 solltest du dich um deinen richtigen
 Job kümmern, „Cyber-Detektiv“?"
 1020,3013,,"Perché non dici a Kyoko quello che hai scoperto?
-A me piace chiacchierare, ma è il tuo lavoro riferirle.","試著把獲得的情報告訴在事務所的杏子如何？
+A me piace chiacchierare, ma fare rapporto è compito tuo.","試著把獲得的情報告訴在事務所的杏子如何？
 我不是不了解你想見我一面的心情，
 但你應該報告的對象可不是我哦。",,"입수한 정보를, 사무소의 쿄코에게 전해 주는 건 어때?
 나를 보고 싶은 마음을 모르진 않지만,
@@ -51,7 +51,7 @@ Il negozio è a Nakano-Broadway.","你有跟唱片行前面的女孩子說話嗎
 커피콩을 살 수 있는 가게는, 나카노 관내에 있어","Hast du mit der Frau vor dem CD-Laden gesprochen?
 Und vergiss nicht Kyokos Bitte um mehr
 Kaffeebohnen. Das Geschäft ist in Nakano-Broadway."
-2005,3013,,Ma davvero. Hai dimenticato dove volevi andare?,……你已經不知道該做些什麼了？,,"…정말이지, 목적지를 까먹은 거니?","Also wirklich. Hast du vergessen, wo du
+2005,3013,,Dico sul serio. Hai già dimenticato dove volevi andare?,……你已經不知道該做些什麼了？,,"…정말이지, 목적지를 까먹은 거니?","Also wirklich. Hast du vergessen, wo du
 hinwolltest?"
 2006,3013,,Ascolta. Devi guardarti intorno bene a Nakano Broadway.,聽好囉？　總之你先徹底走遍整個中野館內吧。,,"잘 들어. 일단, 나카노 관내를 구석구석까지 걸어 보렴","Hör zu. Du musst dich in
 Nakano-Broadway genau umschauen."
@@ -100,7 +100,7 @@ Du kommst per Terminal oder EDEN-Station
 dorthin. Gute Reise!"
 2050,3013,,"Quindi hai trovato una maschera Zaxon.
 Con quella puoi continuare a esplorare Kowloon.
-E questo... Guarda tu stesso.","你已經拿到「Zaxon的面具」了吧。
+E riguardo al resto... Scoprilo con i tuoi occhi.","你已經拿到「Zaxon的面具」了吧。
 只要有那個東西，你應該就能進入Kowloon的深處囉。
 而正在那裡等著你的……　呵呵，你就用自己的眼睛去確認吧。",,"「잭슨의 가면」을 손에 넣었구나
 그게 있으면, 쿠롱의 안쪽으로 나아갈 수 있을 거야
@@ -248,7 +248,7 @@ Se ascolti bene tutti, dovresti raccogliere qualche buon indizio.","你是基於
 ermitteln? Wenn du allen gut zuhörst, solltest
 du ein paar gute Hinweise bekommen."
 6010,3013,,"Il commesso del negozio di fiori... Mh.
-Hai interrogato la gente del posto? Non è l'ABC del lavoro da detective?","「花店的店員」嗎……
+Hai fatto domande in giro? Non sono le basi del lavoro da detective?","「花店的店員」嗎……
 總之，你先去找那附近的人們打聽看看吧。
 那是偵探最基本的工作吧？",,"「꽃집 점원」이구나…
 어쨌든, 주위 사람들에게 탐문 조사를 해 보는 건 어떨까?
@@ -377,7 +377,7 @@ Setaccia tutto e tieni le orecchie aperte.","可能會有線索的那兩人似�
 in Nakano. Durchforste alles und
 halte die Ohren offen."
 7040,3013,,"Hai ottenuto informazioni sul bambino scomparso, ma non sai dov'è...
-Perché non torni in ufficio con Kyoko?","雖然獲得了那個下落不明的女孩子的情報，
+Perché non torni in ufficio a parlarne con Kyoko?","雖然獲得了那個下落不明的女孩子的情報，
 卻仍不知道她身在何處嗎……
 你就先回事務所一趟，去找杏子商量看看吧。",,"행방불명이 된 아이의 정보는 얻었지만
 장소까지는 모르는, 거구나…
@@ -429,7 +429,7 @@ Ti è forse sfuggito un posto?","不見得是搞錯調查地點，
 어쩌면, 아직 조사하지 않은 장소가 있지 않을까","Deine Nachforschungen waren nicht völlig abwegig.
 Hast du vielleicht einen Ort übersehen?"
 8060,3013,,"Trovi davvero le cose più strane. Che destino interessante...
-Continua così. Ritirati se ti fai male.","是經常遭遇事件的那個人啊……你的命運果然很令人感興趣呢。
+Continua così, ma ritirati se le cose si mettono male.","是經常遭遇事件的那個人啊……你的命運果然很令人感興趣呢。
 總之，你就先試著前進吧。
 如果有東西擋在你面前，你只要除掉它就行了。",,"사건과 자주 조우를 하는 아이구나… 역시 네 운명은 흥미로워
 어쨌든 앞으로 나아가 보렴
@@ -607,8 +607,8 @@ Chiedi in giro. Tornerà di sicuro.","依我的判斷，山科誠應該是沒有
 병원 내에서 탐문 조사를 해 보면, 머지않아 찾을 수 있지 않을까","Soweit ich sehen kann, hat Makoto Yamashina das
 Krankenhaus nicht verlassen. Frag herum.
 Er wird sicher wieder auftauchen."
-14035,3013,,"Lo spostamento digitale dei dati di salvataggio è stato molto sorprendente.
-Togliere la protezione è facile, ma pericoloso. Attenzione.","雖然我對記憶資料的Digital Shift感到吃驚，
+14035,3013,,"Il Digital Shift dei dati di salvataggio è stato molto sorprendente.
+Rimuovere la protezione è facile, ma pericoloso. Fai attenzione.","雖然我對記憶資料的Digital Shift感到吃驚，
 不過你果斷的行動力也讓我很驚訝呢。
 要解除資料的防護是不難，但是也很麻煩哦，記得要做好足夠的準備再去。",,"기억 데이터의 디지털 시프트에도 놀랐지만,
 너의 순간적인 행동력에도 깜짝 놀랐어
@@ -817,7 +817,7 @@ Vedrai il tuo destino con i tuoi stessi occhi.","你很在意自己現在身處�
 네 운명을 자신의 눈으로 확인하렴","Fragst du dich, wo die Reise hingeht? ... Wenn du
 ankommst, wirst du es wissen. Du wirst dein
 Schicksal mit eigenen Augen sehen."
-18010,3013,,"Mi senti? [p] non c'è più, quindi ti aiuterò.
+18010,3013,,"Mi senti? Visto che [p] non c'è, ti darò una mano io.
 Chiudi gli occhi...","聽得見嗎？
 [p]不在，所以我現在先把力量借給妳們。
 好了，把眼睛閉上……",,"…들려?

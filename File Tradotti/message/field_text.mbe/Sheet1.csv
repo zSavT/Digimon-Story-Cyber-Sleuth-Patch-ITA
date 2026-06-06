@@ -6,8 +6,8 @@ Proverò a parlare con alcuni degli avatar EDEN qui!","還沒有找到那兩人�
 말을 걸어 보자…！","Hm, noch nicht gefunden ...
 Ich spreche mal mit ein paar EDEN-Avataren hier!"
 1,5004,,"C'è un tipo che sembra un ""hacker"" che
-gironzola nei dintorni dell'entrata... Forse sa
-come arrivare a Kowloon Galacta Park?","似乎有個像是「駭客」的男人正待在入口處那裡……
+gironzola qui all'entrata... Forse sa
+come arrivare alla Junk Plaza di Kowloon?","似乎有個像是「駭客」的男人正待在入口處那裡……
 他會不會知道怎麼去「Kowloon的破銅爛鐵公園」呢？",,"「해커」같은 남자가 엔트런스에 있는 모양이야…
 「쿠롱의 잡동사니 공원」으로 가는 방법을 알고 있을까…?","Am Eingang hängt ein Typ herum, der wie ein
 „Hacker“ aussieht ... Vielleicht weiß er, wie man
@@ -113,7 +113,7 @@ vedere cosa c'è più avanti, potremmo capire qualcosa.","喂喂，你是打算�
 안쪽을 조사해 보자. 뭔가 알아낼 수 있을지도 모르니까","He, du gehst einfach? Schauen wir doch weiter
 rein, vielleicht fällt uns was ein."
 800,3005,,"Ehi, non dirmi che ti stai tirando indietro. Forza,
-non possiamo semplicemente lasciare Che la cosa cada
+non possiamo semplicemente lasciare che la cosa cada
 nel dimenticatoio.","喂喂，你是現在才覺得害怕嗎？
 先試著前進吧，總不能放著這件事不管吧？",,"야야, 이제 와서 겁먹은 거야?
 나아가 보자고, 내버려 둘 수도 없잖아","He, dich verlässt doch nicht etwa der Mut.
@@ -150,8 +150,9 @@ all'Agenzia Investigativa Kuremi?","……咦？
 쿠레미 탐정사무소네의 신인?","... Hm?
 Du bist neu im Detektivbüro Kuremi?"
 1012,2100,,"In tal caso, sei anche tu un Nakanoite!
-Benvenuto a Broadway! È un po' strano,
-ma è molto interessante, non credi?","唉呀，這麼說，你也是這個中野的居民囉！
+In tal caso, anche tu sei di Nakano!
+Benvenuto a Broadway! È un posto un po' strano,
+ma molto interessante, non credi?","唉呀，這麼說，你也是這個中野的居民囉！
 歡迎來到百老匯！
 這裡有點怪，不過也很有趣哦。",,"어머어머, 그럼 너도 이 나카노의 주민이구나!
 브로드웨이에 잘 왔어, 환영할게!
@@ -180,7 +181,7 @@ Sparisci.","抱歉啊，這裡無法通行。
 你走其他地方吧。",,"미안하구만… 여기는 지나갈 수 없거든
 저리 가시지","Weiter kommst du leider nicht.
 Zieh Leine."
-2001,4760,,...Perché? Come se lo sapessi.,……原因？那種事我怎麼可能會知道。,,"…이유? 그런 거, 내가 알겠냐",... Warum? Woher soll ich das wissen?
+2001,4760,,...Perché? E che ne so io.,……原因？那種事我怎麼可能會知道。,,"…이유? 그런 거, 내가 알겠냐",... Warum? Woher soll ich das wissen?
 2100,4761,,"Spiacente, è chiuso.
 Andate via, andate via.","好了好了，這裡現在禁止通止喲～
 閃邊去閃邊去。",,"네에네~에, 여긴 지금, 통행금지야~
@@ -230,17 +231,17 @@ Prendi--prendi questo e vattene!","唉喲！　你那樣會害我被發現啦！
 이거 줄 테니까 저리 가!","Hör auf, oder die finden mich!
 Nimm das hier und geh weg!"
 8002,4032,,Shhh!!!,噓！！,,쉬잇―!!,Pssst!!!
-9000,4763,,"Vuoi lottare? Pensi di avere una possibilità?
-Vedi il Flamedramon dietro di me, giusto?
-O stai guardando qui perché vuoi una lotta?","你想跟我對戰？
+9000,4763,,"Cerchi rogne? Pensi di avere qualche possibilità?
+Lo vedi il Flamedramon qui dietro di me, vero?
+O vuoi batterti pur avendolo notato?","你想跟我對戰？
 你看不見我身後的烈焰獸嗎？
 還是說，你是因為看見了才來找我碴的？",,"나랑 배틀을 하고 싶다고? 너…
 내 뒤에 있는 화염드라몬이 안 보이는 거야?
 아니면, 보이는데도 싸움을 거는 거야?","Tänzchen gefällig? Meinst du, du hast ’ne Chance?
 Du siehst Flamedramon hinter mir, oder? Oder
 guckst du uns an, weil du kämpfen willst?　"
-9001,4763,,"Agh! M-mi dispiace di essermi comportato da sbruffone...
-Sono io quello che non ha davvero visto la forza del tuo Digimon.
+9001,4763,,"Agh! M-mi dispiace di aver fatto lo sbruffone...
+Sono io che non mi sono reso conto della forza del tuo Digimon.
 Pe-perdonami!","噫！　對不起，我剛才不該那麼囂張的。
 是我沒看到你的數碼寶貝。
 我、我告辭了————！！！！！",,"히익…! 거만한 태도를 취해서 죄송했습니다…
@@ -250,7 +251,7 @@ habe ... Ich habe die Stärke deiner Digimon
 nicht erkannt. Verzeih mir!"
 10000,5004,,Non ho motivo di andare laggiù.,沒什麼特別的事要到地下去……,,지하에 볼일은 없어…,"Ich habe keinen Grund, da runter zu gehen."
 10010,2000,,"Questa zona di logout è ancora rotta. Immagino che
-qualunque cosa Arata abbia fatto fosse temporanea...","這個登出區又故障了……
+l'intervento di Arata fosse solo temporaneo...","這個登出區又故障了……
 原來新並沒有徹底修好它嗎……",,"이 로그아웃 존… 다시 부숴져 있어…
 아라타가 고친 건 일시적이었던 걸까…","Dieser Ausloggbereich ist immer noch defekt.
 Aratas Lösung war wohl nur provisorisch ..."
