@@ -1,6 +1,6 @@
-﻿ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
-1000,4410,,"Se hai un appuntamento, per favore registra la tua
-presenza e aspetta alla reception.","你是來看病的？　那請你到櫃台那裡領取病歷表填寫
+﻿﻿ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
+1000,4410,,"Se hai un appuntamento, per favore registrati
+alla reception e attendi il tuo turno.","你是來看病的？　那請你到櫃台那裡領取病歷表填寫
 基本資料，然後找個位子稍微等候一會兒。",,"진찰을 받으러 오셨나요? 그러시다면, 접수처에서 문진표를 받아서
 작성하신 다음 기다려 주세요","Wenn du einen Termin hast, melde dich bitte an
 und warte an der Rezeption."
@@ -40,7 +40,7 @@ Il reparto generale è al 12°piano.","你是來探病的嗎？
 엘리베이터로 12F에 가면, 일반 병동으로 갈 수 있단다","Bist du hier, um jemanden zu besuchen?
 Die Normalstation ist im 12. Stock."
 1500,4415,,"Un piano sopra il Reparto Generale c'è il Reparto Speciale.
-È destinato ai pazienti con malattie particolarmente difficili.","普通病房的樓上是特殊病房的樓層，
+È destinato a pazienti con malattie particolarmente gravi.","普通病房的樓上是特殊病房的樓層，
 聽說那裡都是患有特殊疾病的病患呢。",,"일반 병동의 위층에는 특별 병동 층이 있는데
 특별한 병에 걸린 환자들이 있는 병동이래","Ein Stock über der Normalstation ist die
 Spezialstation. Die ist für Patienten mit

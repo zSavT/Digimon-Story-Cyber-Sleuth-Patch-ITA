@@ -13,12 +13,12 @@ Questo glossario definisce la terminologia ufficiale e le linee guida di adattam
 | **Digivolution** / **Evolution** | **Digievoluzione** | Il processo di crescita e mutamento dei Digimon. |
 | **De-Digivolution** / **Degeneration** | **De-Digievoluzione** | Il processo inverso della digievoluzione (il Digimon regredisce allo stadio precedente). |
 | **Digivice** | **Digivice** | Dispositivo portatile usato dai Tamer per interagire con i Digimon. Invariato. |
-| **Digital World** | **Mondo Digitale** | L'universo in cui vivono i Digimon. |
+| **Digital World** | **Digi World** | L'universo in cui vivono i Digimon. |
 | **Real World** | **Mondo Reale** | Il mondo degli umani. |
 | **Net Ocean** | **Oceano della Rete** | La parte del Mondo Digitale assimilabile a un immenso oceano di dati. |
-| **Royal Knights** | **Cavalieri Reali** | L'ordine dei 13 Digimon sacri protettori del Mondo Digitale. |
-| **Seven Great Demon Lords** | **Sette Grandi Signori Demoniaci** | I sette potenti Digimon di tipo virus che rappresentano i peccati capitali. |
-| **Celestial Digimon** | **Digimon Celesti** | Il triumvirato composto da Seraphimon, Cherubimon e Ophanimon. |
+| **Royal Knights** | **Royal Knights** | L'ordine dei 13 Digimon sacri protettori del Mondo Digitale. |
+| **Seven Great Demon Lords** | **Seven Great Demon Lords** | I sette potenti Digimon di tipo virus che rappresentano i peccati capitali. |
+| **Celestial Digimon** | **Celestial Digimon** | Il triumvirato composto da Seraphimon, Cherubimon e Ophanimon. |
 | **Chrome Digizoid** | **Chrome Digizoid** | Il metallo super-resistente che compone le armature di molti Digimon. Invariato. |
 
 ---
@@ -29,19 +29,19 @@ Questo glossario definisce la terminologia ufficiale e le linee guida di adattam
 | :--- | :--- | :--- |
 | **Cyber Space EDEN** | **Spazio Cibernetico EDEN** | O semplicemente **EDEN**. La rete virtuale globale in cui si svolge parte del gioco. |
 | **Kowloon** | **Kowloon** | Il bassofondo digitale di EDEN infestato dagli hacker. Invariato. |
-| **Under Zero** | **Sotto Zero** | L'area sotterranea segreta al di sotto di Kowloon. |
+| **Under Zero** | **Under Zero** | L'area sotterranea segreta al di sotto di Kowloon. |
 | **Hacker** | **Hacker** | Invariante al plurale. Si riferisce agli utenti che utilizzano i Digimon come programmi. |
 | **Hudie** | **Hudie** | La squadra di hacker capitanata da Ryuji Mishima. Significa "farfalla" in cinese. Invariato (maiuscolo). |
 | **Zaxon** | **Zaxon** | La più grande e potente fazione di hacker in EDEN. Invariato. |
 | **Demons** | **Demons** | Fazione hacker rivale e ribelle. Invariato. |
 | **Digital Shift** | **Anomalia Digitale** / **Anomalie Digitali** | Fenomeno di sovrapposizione tra Mondo Reale e Mondo Digitale. Nei nomi delle mappe è tradotto come *Anomalia/Anomalie Digitali* o *Trasformazione Digitale* (es. *Shibuya: Anomalia Digitale*, *Akihabara: Trasformazione Digitale*). |
 | **Eater** | **Eater** | Creature misteriose che divorano dati e la mente degli utenti di EDEN. Invariato. |
-| **Eater Eve** | **Vigilia degli Eater** | Una delle forme principali assunte dagli Eater nella trama. |
+| **Eater Eve** | **Eater Eve** | Una delle forme principali assunte dagli Eater nella trama. |
 | **Eater Adam** | **Eater Adam** | Altra forma evolutiva chiave degli Eater. |
 | **Mother Eater** | **Mother Eater** | La forma suprema degli Eater. |
 | **EDEN Syndrome** | **Sindrome di EDEN** / **Sindrome EDEN** | Malattia reale che colpisce gli utenti le cui menti vengono consumate dagli Eater. |
 | **Memory Server** | **Server di Memoria** | Dispositivi o aree digitali contenenti dati o ricordi importanti. |
-| **Connect Jump** | **Connessione Jump** | Abilità speciale del protagonista di viaggiare fisicamente attraverso la rete usando i terminali. |
+| **Connect Jump** | **Salto di Connessione** | Abilità speciale del protagonista di viaggiare fisicamente attraverso la rete usando i terminali. |
 | **Digital Labyrinth** | **Labirinto Digitale** | Dimensione creata dallo slittamento digitale dei dati. |
 
 ---
