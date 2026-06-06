@@ -257,7 +257,7 @@ Sono sia qui che non qui, giusto?","那些孩子的事很難說。要說它們�
 있다고 한다면 있고, 없다고 한다면 없는― 같은?","Was kann ich über sie sagen? Nichts!
 Sie sind hier und doch gleichzeitig nicht hier,
 stimmt’s?"
-3603,,"La cattura di Digimon non esiste più (o non ancora?).","雖然數碼寶貝捕捉器
+3603,,La cattura di Digimon non esiste più (o non ancora?).,"雖然數碼寶貝捕捉器
 已經不存在了。（尚未存在？）",,"디지몬 캡처는
 이제(…아직?) 존재하지 않지만","Digimon-Fang existiert nicht mehr
 (oder noch nicht?)."
@@ -329,7 +329,7 @@ Sono Kyoko Kuremi. Una Detective.","呿，逃走了啊……哎呀，抱歉，�
 Ich bin nicht verwirrt. Ich bin Kyoko Kuremi.
 Detektivin."
 3803,,"Sono stata male per un po'...
-Il mio intuito si è un po' arrugginito...","我病才剛好呢……　所以“直覺”還有點遲鈍——",,"병상에서 일어난 직후라… 아직 ""감""이 돌아오지 않아서―","Ich war eine ganze Weile krank ...
+Il mio intuito si è un po' arrugginito...",我病才剛好呢……　所以“直覺”還有點遲鈍——,,"병상에서 일어난 직후라… 아직 ""감""이 돌아오지 않아서―","Ich war eine ganze Weile krank ...
 Meine Reflexe haben nachgelassen ..."
 3804,,Hai un modo strano di bere...,真是奇特的……與眾不同的喝法呢……,,마시는 방법이 색다른걸…,Du trinkst vielleicht komisch ...
 3805,,"Beh, ognuno ha i suoi gusti. Potrebbe essere davvero buono.
@@ -410,7 +410,7 @@ battaglia di espandersi...","雖然金甲龍獸和究極V龍獸
 似乎正努力阻止戰鬥的擴大……",,"매그너몬과 알포스브이드라몬이
 사태가 확대되는 것을 막고있는 것 같지만…","Magnamon und UlforceVeedramon verhindern,
 dass das Ganze sich ausweitet ..."
-4203,,"È solo questione di tempo prima che la portata aumenti.",但規模的擴張，只是時間的問題吧。,,규모가 커지는건 시간 문제겠지,"Doch es ist nur eine Frage der Zeit, bis alles
+4203,,È solo questione di tempo prima che la portata aumenti.,但規模的擴張，只是時間的問題吧。,,규모가 커지는건 시간 문제겠지,"Doch es ist nur eine Frage der Zeit, bis alles
 viel heftiger wird."
 4204,,"E c'è un potente campo di forza vicino al
 livello superiore dell'Ufficio Metropolitano.","而且，在新都廳大樓的最上層附近，
@@ -498,8 +498,7 @@ hätte!“"
 5902,,Buon lavoro...,……看來好像成功啦,,…잘 된 모양이군,Gute Arbeit ...
 5903,,Gli Eater vengono rimandati indietro...,侵食者……被送返回去了……,,이터가…송환되고 있어…,Die Verschlinger werden zurückgeschickt ...
 10101,,Benvenuto al DigiLab.,歡迎來到數碼實驗室。,,디지랩에 온 것을 환영해,Willkommen im DigiLab.
-10102,,"Questo luogo ha una debole connessione con il Mondo
-Digitale. È una porta nel Cyberspazio.","這裡是與數碼世界有著些微交錯，
+10102,,Questo luogo ha una debole connessione con il Digi World. È una porta nel Cyberspazio.,"這裡是與數碼世界有著些微交錯，
 電腦空間的縫隙。",,"여기는 디지털 월드와 희미하게 교차하는
 전뇌공간의 틈새야","Hier besteht eine schwache Verbindung mit der
 Digitalen Welt. Ein Zugang zum Cyberspace."
@@ -515,7 +514,7 @@ zuzugreifen, mit dem dieser Ort geprägt wurde."
 어느 쪽 가지를 따라갈 것인가…","Welches dieser beiden Schicksale willst du dir
 zu eigen machen?"
 10107,,"Di fronte a te giace la registrazione di una storia che
-si è dipanata quando il mondo reale e il Mondo Digitale
+si è dipanata quando il mondo reale e il Digi World
 si sono intersecati.","在你面前的是現實世界
 與電腦世界交錯所引發的故事紀錄喔。",,"네 앞에 있는 것은
 현실 세계와 전뇌 세계가 교차하며 생겨난 어느 이야기의 기록이야","Vor dir liegt die Aufzeichnung einer Geschichte,
@@ -577,7 +576,7 @@ Quale destino accetterai questa volta?","那麼，就請你「選擇」吧
 Welches Schicksal wirst du dieses Mal annehmen?"
 10301,,Benvenuto al DigiLab.,歡迎來到數碼實驗室。,,디지랩에 온 것을 환영해,Willkommen im DigiLab.
 10302,,"Questo luogo ha una debole connessione con il
-Mondo Digitale. È una porta verso il Cyberspazio.","這裡是與數碼世界有著些微交錯，
+Digi World. È una porta verso il Cyberspazio.","這裡是與數碼世界有著些微交錯，
 電腦空間的縫隙。",,"여기는 디지털 월드와 희미하게 교차하는
 전뇌공간의 틈새야","Hier besteht eine schwache Verbindung mit der
 Digitalen Welt. Ein Zugang zum Cyberspace."
@@ -638,7 +637,7 @@ zuzugreifen, mit dem dieser Ort geprägt wurde."
 11101,,...Che succede tutto questo trambusto?,……是在吵什麼？,,……무슨 소동이지?,"... He, was soll denn all der Krach?"
 11102,,?!,！？,,!?,?!
 11201,,Ma chi diavolo...?!,嗚……！,,윽……!,Wer zum ...?!
-11202,,"Come osi...entrare nella mia stanza... senza permesso!",不要……隨便……跑進來！！,,멋대로……들어오지……마!!!,"Wie kannst du es wagen ... mein Zimmer ohne
+11202,,Come osi...entrare nella mia stanza... senza permesso!,不要……隨便……跑進來！！,,멋대로……들어오지……마!!!,"Wie kannst du es wagen ... mein Zimmer ohne
 meine Erlaubnis zu betreten!"
 11301,,...!,……！,,……!,...!
 11302,,?!,！？！？,,!?!?,?!

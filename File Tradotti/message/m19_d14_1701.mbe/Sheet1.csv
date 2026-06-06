@@ -24,7 +24,7 @@ i tempi sarebbero stati migliori.","或者，如果準備好，就和我們聯�
 也可以配合時機會合啊……",,"아니면 준비가 끝난 시점에서, 저희들에게 통신을 주셨으면…
 타이밍을 맞춰서 합류할 수도 있었던 거 아닌가요…","Wenn du dich gemeldet hättest, sobald du bereit
 warst, wäre das Timing besser gewesen."
-9,3002,,"Eh? Ma alla riunione strategica...","嗯…………？
+9,3002,,Eh? Ma alla riunione strategica...,"嗯…………？
 咦？但是，在作戰會議……？",,"…………응?
 어라? 하지만, 작전 회의에서……?","Hä?
 Aber bei der Strategiebesprechung ..."
@@ -103,24 +103,24 @@ nein, meinen Plan durchkreuzen? Wie kann das sein?"
 39,4837,,Mi chiamo Alphamon.,我的名字是——「阿爾法獸」。,,내 이름은―「알파몬」,Ich heiße Alphamon.
 40,1739,,Alphamon?!,你說……「阿爾法獸」！？,,「알파몬」… 이라고!?,Alphamon?!
 41,1088,,C-Cosa?!,居、居然……！,,"뭐, 뭐라고…!",W-Was?!
-42,1088,,"Il leggendario 13° Royal Knight! Esisti davvero!","傳說中第13號的皇家騎士……！
+42,1088,,Il leggendario 13° Royal Knight! Esisti davvero!,"傳說中第13號的皇家騎士……！
 沒想到……居然實際存在……！",,"전설의 13번째 로얄 나이츠…!
 설마… 실재하고 있었다니…!","Der legendäre 13. Royal Knight!
 Es gibt dich tatsächlich!"
 43,1739,,"Perché appari proprio ora?
 E per di più come mio nemico?!",事到如今，你為何現身？而且還與我為敵！,,"무엇 때문에 이제 와서, 모습을 드러낸 거지? 그것도, 내 적으로서!","Warum erscheinst du ausgerechnet jetzt?
 Und noch dazu als mein Feind?!"
-44,1416,,"Io esisto per dominare i Royal Knights.",我是做為皇家騎士的抑止力的存在。,,난 로얄 나이츠의 억제력으로서 존재하는 자,"Ich existiere, um die Royal Knights zu
+44,1416,,Io esisto per dominare i Royal Knights.,我是做為皇家騎士的抑止力的存在。,,난 로얄 나이츠의 억제력으로서 존재하는 자,"Ich existiere, um die Royal Knights zu
 beherrschen."
-45,1416,,"Il mio compito è assicurarmi che non si scatenino alla cieca.",阻止皇家騎士的失控，就是我的存在理由。,,"로얄 나이츠의 폭주를 막는 것이, 내 존재 이유다","Es ist meine Aufgabe, dafür zu sorgen, dass sie
+45,1416,,Il mio compito è assicurarmi che non si scatenino alla cieca.,阻止皇家騎士的失控，就是我的存在理由。,,"로얄 나이츠의 폭주를 막는 것이, 내 존재 이유다","Es ist meine Aufgabe, dafür zu sorgen, dass sie
 nicht blind wüten."
 46,1739,,"Infuriarsi, dici?!",你說……失控！？,,"폭주, 라고…!?","Wüten, sagst du?!"
 47,1739,,"È la volontà di Re Drasil, di distruggere il mondo
-degli umani e di proteggere il Mondo Digitale!","消滅人類世界、保護數碼世界
+degli umani e di proteggere il Digi World!","消滅人類世界、保護數碼世界
 是世界樹的意志！",,"인간 세계를 소멸시켜, 디지털 월드를 지키는 것은
 위그드라실의 의지다!","Es ist der Wille König Drasils, die Menschenwelt zu
 zerstören und die Digitale Welt zu beschützen!"
-48,1416,,"In effetti. Ma anch'io sono qui per volere di Re Drasil.","原來如此。
+48,1416,,In effetti. Ma anch'io sono qui per volere di Re Drasil.,"原來如此。
 不過，將我送去人類世界，也是世界樹的意志。",,"…그렇군
 하지만, 날 인간 세계에 보낸 것 또한, 위그드라실의 의지다","In der Tat.
 Doch auch ich bin durch König Drasils Willen hier."
@@ -163,7 +163,7 @@ allora è dunque anche la sua volontà che siamo avversari!","既然兩者都是
 우리들의 대립도 또한 위그드라실의 의지!","Wenn wir beide für König Drasils Willen stehen,
 dann ist es eben auch sein Wille, dass wir
 Gegner sind!"
-58,1739,,"Detto altrimenti... Il vincitore esegue la vera volontà di Re Drasil!","也就是說！
+58,1739,,Detto altrimenti... Il vincitore esegue la vera volontà di Re Drasil!,"也就是說！
 獲得勝利的人，才是正義！才是世界樹真正的意志！",,"즉―!
 승리하여 남은 자만이 정의! 진정한 위그드라실의 의지다!","Anders gesagt ...
 Der Sieger vollstreckt König Drasils wahren Willen!"
@@ -174,7 +174,7 @@ compagno d'armi solo per dirgli addio!","……真是遺憾，總算和最後的
 居然是道別的瞬間（時刻）啊！",,"…유감이다, 겨우 최후의 동포와 만난 찰나가
 이별의 순간이라니!","Wie traurig, dass ich meinen letzten Mitstreiter
 nur treffe, um mich von ihm zu verabschieden!"
-62,1739,,"Hai osato rubarmi la forza! Non deridermi!",不過是奪走了我一丁點的力量，別小看我……！,,"내 힘의 일부를 빼앗은 정도로, 얕보지 마라…!","Du hast es gewagt, mir Kraft zu rauben!
+62,1739,,Hai osato rubarmi la forza! Non deridermi!,不過是奪走了我一丁點的力量，別小看我……！,,"내 힘의 일부를 빼앗은 정도로, 얕보지 마라…!","Du hast es gewagt, mir Kraft zu rauben!
 Verspotte mich nicht!"
 63,1739,,Sono Duftmon! Il più potente dei Knights!,我是芳香獸！既是聖騎士，也是最強的獅子！,,난 두프트몬! 성기사이자 최강의 사자!,Ich bin Duftmon! Der mächtigste der Knights!
 64,1739,,Grrrr ... Raaaaarrrrgh!!!,嗚喔……嗚啊啊啊喔喔喔喔喔！,,가오우… 그라아아오오오오오우!!,Grrrr ... Raaaaarrrrgh!!!

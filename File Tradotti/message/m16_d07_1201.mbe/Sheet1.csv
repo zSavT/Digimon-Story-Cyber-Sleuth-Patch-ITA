@@ -58,7 +58,7 @@ Se sì, allora devo...","末堂先生……你也和爸爸的死有關嗎？
 만약 그렇다면… 전, 당신을…!","Warst du auch am Tod meines Vaters beteiligt?
 Wenn ja, dann muss ich ..."
 17,3009,,La morte di tuo padre è stata una tragedia.,對於令尊的死，我感到非常遺憾。,,"…아버님의 죽음은, 참으로 유감스럽습니다",Der Tod deines Vaters war eine Tragödie.
-18,3009,,"Mi dispiace ancora di non essere riuscito a fermare Crusadermon.","沒能阻止劍皇獸的失控，
+18,3009,,Mi dispiace ancora di non essere riuscito a fermare Crusadermon.,"沒能阻止劍皇獸的失控，
 我到現在還很後悔。",,"로드나이트몬의 폭주를 막지 못했던 것을
 전 지금도 후회하고 있습니다","Es tut mir immer noch leid, dass ich Crusadermon
 keinen Einhalt gebieten konnte."
@@ -68,10 +68,10 @@ keinen Einhalt gebieten konnte."
 저에게 있어서는 얼마 없는, 진심으로 존경하는 분이셨습니다","Das Ideal deines Vaters für EDEN war wunderbar.
 Er ist einer von sehr wenigen Menschen, die
 ich je wirklich respektiert habe."
-20,3009,,"Inoltre so quanto sia doloroso perdere i propri cari.",而且，我認為我能理解失去家人的傷痛。,,"…그리고, 가족을 잃는 슬픔은 저도 이해합니다","Ich weiß außerdem, wie schmerzhaft es ist,
+20,3009,,Inoltre so quanto sia doloroso perdere i propri cari.,而且，我認為我能理解失去家人的傷痛。,,"…그리고, 가족을 잃는 슬픔은 저도 이해합니다","Ich weiß außerdem, wie schmerzhaft es ist,
 Angehörige zu verlieren."
 21,3003,,"Crusadermon dice che l'EDEN di mio
-padre ha provocato la rovina del Mondo Digitale.","劍皇獸說，爸爸創造的EDEN
+padre ha provocato la rovina del Digi World.","劍皇獸說，爸爸創造的EDEN
 侵蝕了數碼世界……",,"로드나이트몬은, 아버지가 만든 EDEN이
 디지털 월드를 좀먹었다고…","Crusadermon sagt, dass das EDEN meines Vaters
 den Untergang der Digitalen Welt ausgelöst hat."
@@ -91,7 +91,7 @@ abbia riavuto i suoi tristi ricordi.","請別這樣……
 恢復悲傷記憶的人，只要新一個人就夠了。",,"…그만 두세요
 슬픈 기억을 되찾는 건, 아라타 군만으로 충분합니다","Bitte frag nicht weiter. Es reicht, dass Arata
 seine traurigen Erinnerungen wiederhat."
-26,3009,,"Eppure ... se la mia visione deve diventare realtà ...",但是，只要我的理想能夠實現——,,"하지만, 제 이상이 이루어지면―","Und doch ... wenn meine Vision Wirklichkeit
+26,3009,,Eppure ... se la mia visione deve diventare realtà ...,但是，只要我的理想能夠實現——,,"하지만, 제 이상이 이루어지면―","Und doch ... wenn meine Vision Wirklichkeit
 werden soll ..."
 27,3009,,"Allora tutte le persone verranno liberate dalla sofferenza.
 Io e tu e tutti quelli che ti sono cari...","所有的人類，都會從悲傷中解放。
@@ -112,12 +112,12 @@ Non può essere possibile!","胡、胡說八道……我無法認為你的精神
 那種事情，明明是不可能辦到的……！",,"어, 엉망진창이에요… 제 정신이 아니군요
 그런 게, 가능할 리 없는데…!","D-Das ist Wahnsinn ... Du musst wahnsinnig sein.
 Das kann gar nicht möglich sein!"
-33,3009,,"Hai ragione. Non è possibile... Non ancora.",是呀，不可能呢……“現在”是不可能的。,,"그러네요, 불가능하지요… ""지금""은","Da hast du recht. Es ist nicht möglich ...
+33,3009,,Hai ragione. Non è possibile... Non ancora.,是呀，不可能呢……“現在”是不可能的。,,"그러네요, 불가능하지요… ""지금""은","Da hast du recht. Es ist nicht möglich ...
 Noch nicht."
 34,3009,,Un altro triste fatto.,這也是令人悲傷的事實之一。,,"이것도, 슬픈 사실 중 하나입니다",Eine weitere traurige Tatsache.
-35,3009,,"Arrivederci. E ci rivedremo sicuramente.",那麼，後會有期了。,,"그럼 또, 언젠가 뵙도록 하죠","Auf Wiedersehen. Und wiedersehen werden wir uns
+35,3009,,Arrivederci. E ci rivedremo sicuramente.,那麼，後會有期了。,,"그럼 또, 언젠가 뵙도록 하죠","Auf Wiedersehen. Und wiedersehen werden wir uns
 ganz bestimmt."
-36,3003,,"L'eradicazione di ogni dolore? Evoluzione dell'umanità?","想消除悲傷？
+36,3003,,L'eradicazione di ogni dolore? Evoluzione dell'umanità?,"想消除悲傷？
 想讓人類……進化？",,"슬픔을 없애고 싶어?
 인간을… 진화시킨다고?","Das Tilgen allen Kummers?
 Weiterentwicklung der Menschheit?"
@@ -126,7 +126,7 @@ Parla come un bambino capriccioso!","那種事情，一定是不可能的……
 也太幼稚了……！",,"그런 거, 불가능할 게 뻔해요…
 너무 애 같은 생각이에요…!","So etwas ist einfach nicht möglich.
 Er redet wie ein trotziges Kind!"
-38,3003,,"Eppure non suonava come sogni assurdi o deliri...","但是，他看起來不像是在做白日夢……
+38,3003,,Eppure non suonava come sogni assurdi o deliri...,"但是，他看起來不像是在做白日夢……
 也不像是瘋了……",,"하지만, 허풍을 떠는 것처럼은 보이지 않았어요…
 미친 것처럼도…","Und doch klang es nicht nach aberwitzigen Träumen
 oder Wahnvorstellungen ..."

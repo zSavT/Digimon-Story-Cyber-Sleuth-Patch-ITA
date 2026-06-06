@@ -40,7 +40,7 @@ Was machst du hier so ganz allein?"
 好像被捲進電腦犯罪了。",,"네, 실은… 저
 전뇌범죄에 말려든 걸지도 몰라요","Ach, nun ja, ich ... bin möglicherweise in ein
 Verbrechen im Cyberspace verwickelt."
-203,3006,,"Cybercrimine? Sei andata dalla polizia?","電腦犯罪……？
+203,3006,,Cybercrimine? Sei andata dalla polizia?,"電腦犯罪……？
 已經報警了嗎？",,"전뇌범죄에…?
 경찰한테는 가 봤나?","Verbrechen im Cyberspace? Hast du das der
 Polizei gemeldet?"
@@ -167,7 +167,7 @@ quei messaggi sono stati inviati nel cuore della notte.","有問題的訊息被�
 從紀錄上來看是深夜之後…….",,"문제의 메시지가 포스팅된 건
 로그에 의하면 심야 이후…","Wenn ich mir anschaue, wann diese Posts
 erschienen sind, war das mitten in der Nacht."
-238,3006,,"A quel punto avresti dovuto dormire profondamente già da un pezzo.",在這段期間妳應該處於睡眠狀態。,,그 동안 너는 수면 상태였을 거다,"Zu dem Zeitpunkt hättest du tief und fest schlafen
+238,3006,,A quel punto avresti dovuto dormire profondamente già da un pezzo.,在這段期間妳應該處於睡眠狀態。,,그 동안 너는 수면 상태였을 거다,"Zu dem Zeitpunkt hättest du tief und fest schlafen
 sollen."
 239,4120,,Okay...e poi cosa?,……所、所以？,,"…그, 그게?",Na gut ... und weiter?
 240,3006,,"Alla fine del 1800, c'era un accademico di
@@ -208,7 +208,7 @@ tief in mir ..."
 249,3006,,"Non è per qualche problema mentale...
 Ecco, dai un'occhiata a questo.",不是因為妳有精神疾病……妳看看這個。,,정신질환이 아니다… 이걸 보도록,"Es ist kein psychisches Problem ...
 Hier, schau mal."
-250,4861,,"[1> P R O V A  A  T R O V A R M I !]",[1>　來　找　看　看　啊　！],,[1＞ 찾 아 내 봐 라 !],"[1>V E R S U C H  D O C H,  M I C H  Z U
+250,4861,,[1> P R O V A  A  T R O V A R M I !],[1>　來　找　看　看　啊　！],,[1＞ 찾 아 내 봐 라 !],"[1>V E R S U C H  D O C H,  M I C H  Z U
 F I N D E N!]"
 251,3006,,"Questo è stato appena postato sul tuo account.
 È una risposta a quello che ho scritto sulla tua Digiline.","就在剛才，妳的帳號貼出這個訊息。
@@ -259,7 +259,7 @@ Fakten zu deiner Person basieren, ja?"
 262,4120,,"Beh, non so se si tratta di fatti, quanto piuttosto...
 solo come penso e sento, in realtà...",與、與其說是事實……應該說是我在心裡想的事……,,"사, 사실이라고 할까… 생각하고 있는 것, 이에요…","Nun ja, ich würde es nicht als Fakten bezeichnen.
 Eher, was ich denke und fühle ..."
-263,3006,,"Eri connessa a EDEN prima di addormentarti?",妳在睡覺前會登入EDEN嗎？,,자기 전에 EDEN에 로그인했나?,"Warst du in EDEN angemeldet, als du eingeschlafen
+263,3006,,Eri connessa a EDEN prima di addormentarti?,妳在睡覺前會登入EDEN嗎？,,자기 전에 EDEN에 로그인했나?,"Warst du in EDEN angemeldet, als du eingeschlafen
 bist?"
 264,4120,,S-sì. Lo faccio ogni sera.,是、是的……每天晚上都會。,,"네, 네… 매일밤 하고 있어요",J-Ja. Das mache ich jeden Abend.
 265,3006,,"Capito. Allora, da come la vedo io, scommetto che il colpevole ha
@@ -288,7 +288,7 @@ ist das wieder eine andere Sache."
 271,3006,,"Non preoccuparti. Per ora, accedi a EDEN questa sera come faresti normalmente.",總之，妳今天晚上也跟平常一樣登入EDEN。,,"아무튼 오늘 밤도 평소처럼
 EDEN에 로그인하도록","Keine Bange. Melde dich heute Abend ganz einfach
 in EDEN an, wie sonst auch."
-272,3006,,"Avrò il mio assistente ad aspettarti nella hall.",我會叫我們家的助手在大廳等妳。,,로비에 우리 조수를 대기시키도록 하겠다,"Mein Hilfsdetektiv wird in der Lobby auf dich
+272,3006,,Avrò il mio assistente ad aspettarti nella hall.,我會叫我們家的助手在大廳等妳。,,로비에 우리 조수를 대기시키도록 하겠다,"Mein Hilfsdetektiv wird in der Lobby auf dich
 warten."
 273,4120,,"Va bene...
 Ma cosa hai intenzione di fare di preciso?","我、我知道了……
@@ -498,7 +498,7 @@ alle Daten des Nutzers und löscht sie."
 513,4863,,E sono io che lo gestisco.,那個系統，是我負責運作的。,,"그거, 내가 운영하고 있어",Und ich organisiere das.
 514,2001,,!?,！？,,!?,?!
 515,4863,,"Non devi sembrare così sorpreso. I bambini sono semplicemente più
-in sintonia con il mondo digitale degli adulti.","這沒什麼好驚訝的，
+in sintonia con il digi world degli adulti.","這沒什麼好驚訝的，
 因為比起大人，小孩更能適應電腦世界啊。",,"딱히 놀랄만한 일은 아니야
 어른보다도 아이가 더 전뇌세계에 잘 적응하고 있다고","Jetzt tu nicht so überrascht. Kinder verstehen die
 digitale Welt einfach besser als Erwachsene."
@@ -602,7 +602,7 @@ visto l'apparente interesse che ha suscitato.","所以啊，我就把看過的�
 아무래도 기억 데이터를 엄청 좋아하는 것 같아","Ich gebe deinem Hilfsdetektiv, was ich kopiert
 habe, da ihr euch dafür zu interessieren scheint."
 535,4863,,"...Sembra proprio un Baku, non è vero?",它就像隻真正的貘吧？,,…마치 진짜 바쿠 같지 않아?,"Es ... ist wirklich wie ein Baku, nicht wahr?"
-536,3006,,"Credo di aver più o meno afferrato la situazione attuale ora.",我瞭解大致的情況了。,,대강의 사태는 파악했다,"Ich glaube, ich verstehe die aktuelle Situation
+536,3006,,Credo di aver più o meno afferrato la situazione attuale ora.,我瞭解大致的情況了。,,대강의 사태는 파악했다,"Ich glaube, ich verstehe die aktuelle Situation
 jetzt mehr oder weniger."
 537,3006,,"""Io sono ciò che non sono""... Penso che possa essere il modo migliore
 per descrivere cosa il tuo partner è per questo mondo,
@@ -638,7 +638,7 @@ gut gewählt. Das bewundere ich."
 gestire il Baku?",那隻貘，能交給我嗎？,,그 바쿠는 내게 맡겨주지 않겠나?,"Wäre es für dich in Ordnung, wenn ich mich um
 den Baku kümmere?"
 543,4863,,Hai intenzione di...disfartene?,你要消滅它嗎？,,…처분할 거야?,Willst du ihn ... zerstören?
-544,3006,,"Vedremo... Dipende da come vanno le cose.",視情況而定。,,…상황에 따라서,"Wir werden sehen ... Es hängt davon ab, was
+544,3006,,Vedremo... Dipende da come vanno le cose.,視情況而定。,,…상황에 따라서,"Wir werden sehen ... Es hängt davon ab, was
 passiert."
 545,4863,,Okay... Mi fido del tuo giudizio.,……我知道了，我相信大姊姊的判斷。,,"…알았어, 누나의 판단을 믿을게","Also gut, ich vertraue deinem Urteil."
 546,4863,,"Lo troverai caricato su un sito.
@@ -673,7 +673,7 @@ Um Geld geht es dabei nicht!"
 553,4120,,"Sai, mi sono appena ricordato...
 Ci siamo incontrati qui in EDEN prima, non è vero?",……我想起來了。我曾經在EDEN見過你吧？,,"…생각났어. 너, EDEN에서 만난 적 있지","Gerade ist mir eingefallen, dass wir uns in EDEN
 schon mal begegnet sind, nicht wahr?"
-554,4120,,"Abbiamo parlato un po' mentre aspettavo di incontrare un amico.","你是在我等朋友時，
+554,4120,,Abbiamo parlato un po' mentre aspettavo di incontrare un amico.,"你是在我等朋友時，
 跟我聊了一會兒的孩子。",,"내가 친구를 기다리고 있을 때
 잠깐 이야기 상대가 되어줬던 아이야","Wir haben uns kurz unterhalten, während ich auf
 jemanden gewartet habe."
@@ -738,7 +738,7 @@ Il colpevole non aveva alcuna possibilità di nascondersi per sempre!","呵呵�
 was digitale Wellen und Sondernetzwerke angeht.
 Der Schuldige konnte sich nicht ewig verstecken!"
 601,4863,,Dipende da lei cosa succederà a Baku ora...,……那傢伙，就交給偵探大人你們了。,,…그 녀석은 탐정님들한테 맡길게,"Es liegt jetzt an ihr, was mit Baku geschieht ..."
-611,4120,,"State attento! Nel frattempo torno al tuo ufficio.","你們要小心哦。
+611,4120,,State attento! Nel frattempo torno al tuo ufficio.,"你們要小心哦。
 我先回事務所等你們。",,"조심해 주세요
 저는 사무소로 돌아가서 기다릴게요","Sei vorsichtig! Ich gehe in der Zwischenzeit
 zurück zum Büro."
@@ -760,7 +760,7 @@ qualsiasi traccia rimasta della coscienza di quel Digimon.","看來是受到程�
 자아는 이미 남아 있지 않은 것 같다","Hier bringen Argumente gar nichts. Das Programm
 hat jegliches Empfindungsvermögen des Digimon
 gelöscht."
-656,3006,,"I Digimon sono facilmente influenzabili da programmi creati dall'uomo...",數碼寶貝很容易受人工程式的影響……,,디지몬은 인공 프로그램의 영향을 받기 쉽지…,"Digimon lassen sich durch künstliche Programme
+656,3006,,I Digimon sono facilmente influenzabili da programmi creati dall'uomo...,數碼寶貝很容易受人工程式的影響……,,디지몬은 인공 프로그램의 영향을 받기 쉽지…,"Digimon lassen sich durch künstliche Programme
 leicht beeinflussen ..."
 657,3006,,"È uno dei motivi per cui alcuni non li considerano esseri autonomi
 con un proprio senso di volontà.","這也是數碼寶貝被視為
@@ -884,7 +884,7 @@ Inoltre, apri abbastanza porte e finirai per--","因為它是從「時空膠囊�
 befreit, in der er die ganze Zeit geschlafen
 hatte. Und wenn man genug Türen öffnet, dann–"
 776,3006,,Hai davvero bisogno di una ragione per farlo?,……再講下去就太不識趣了。,,"…이런, 멋이 없군",Brauchst du wirklich einen Grund dafür?
-777,3006,,"A differenza del mondo digitale, il mondo reale è stracolmo di cose
+777,3006,,"A differenza del digi world, il mondo reale è stracolmo di cose
 che non hanno una vera ragione per essere ciò che sono.","現實和數碼世界不同，
 充滿了“沒有理由的事物＂。",,"현실은 디지털 세계와는 달리
 ""이유가 없는 것""들로 흘러넘치고 있다","Im Gegensatz zur Digitalen Welt wimmelt es in der echten

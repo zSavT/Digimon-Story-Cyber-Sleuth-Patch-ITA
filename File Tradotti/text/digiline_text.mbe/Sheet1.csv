@@ -9,7 +9,7 @@ incluso [d0].","像是[d0]等等，
 農場島裡有好幾隻LV MAX的數碼寶貝囉",,"[d0] 등, 팜에 
 몇 마리 정도 최대 레벨에 도달한 디지몬이 있어","Auf der Farm sind Digimon auf
 Höchstlevel, unter anderem [d0]."
-101,,"[d0] nella fattoria è al livello massimo.","農場島裡的[d0]
+101,,[d0] nella fattoria è al livello massimo.,"農場島裡的[d0]
 已經達到LV MAX了呢",,"팜의 [d0]이(가)
 Lv. MAX가 된 것 같아.","Auf der Farm hat [d0]
 das Höchstlevel erreicht."
@@ -194,7 +194,7 @@ volta che vieni a trovarci? Del cibo sarebbe l'ideale.","下次你來農場島�
 如果是食物就太感謝了",,"다음에 팜에 올 땐 뭔가 선물같은걸
 준비할 수 없나? 먹을거면 고맙겠어.","Bring bei deinem nächsten Besuch doch
 eine Kleinigkeit mit. Essen wäre gut."
-1207,,"Non ti spaventi quando affronti un hacker cattivo?","當你面對壞蛋駭客的時候
+1207,,Non ti spaventi quando affronti un hacker cattivo?,"當你面對壞蛋駭客的時候
 不會感到恐懼嗎？",,"너는 나쁜 해커와 맞설 때
 공포를 느끼진 않나?","Hast du keine Angst, wenn du gegen einen
 bösen Hacker kämpfst?"
@@ -214,7 +214,7 @@ vado a rilassarmi sotto un raggio di sole.","我最近很喜歡日光浴。只�
 받으며 멍하니 지내고 있어.","In letzter Zeit sonne ich mich gerne.
 Das ist meine Freizeitentspannung."
 1211,,Ugh... non mi sento tanto bene.,不妙……身體狀況似乎不太好,,안되겠군…아무래도 몸 상태가 좋지 않은 것 같다.,Puh ... Mir geht’s nicht so gut.
-1212,,"Che tipo di cose ti piacciono? Non so molto di te.","你喜歡什麼東西？
+1212,,Che tipo di cose ti piacciono? Non so molto di te.,"你喜歡什麼東西？
 沒什麼……只是覺得對你還不太了解",,"너는 어떤 것을 좋아하지?
 아니…너에 대해 아직 잘 모르는 것 같아서.","Was magst du so? Ich weiß nicht
 besonders viel über dich."
@@ -276,7 +276,7 @@ della tua scuola elementare, è vero?","我聽說……比賽用抹布擦地板�
 是你小學時唯一能自豪的事，這是真的嗎？",,"들은 이야기인데…걸레질 경쟁에서 항상 톱이었다는게
 초등학생 시절의 유일한 자랑이었다는게 사실인가?","Du sollst an deiner Schule der beste
 Tafelputzer gewesen sein. Stimmt das?"
-1226,,"Mi chiedevo solo se hai fratelli o sorelle.",我有點好奇，你有兄弟姊妹嗎？,,조금 신경쓰이는데 너에게 형제는 있나?,"Ich hab mich gerade gefragt, hast du
+1226,,Mi chiedevo solo se hai fratelli o sorelle.,我有點好奇，你有兄弟姊妹嗎？,,조금 신경쓰이는데 너에게 형제는 있나?,"Ich hab mich gerade gefragt, hast du
 eigentlich Geschwister?"
 1227,,"Qui è così sicuro. È così facile rilassarsi...
 ma è davvero una buona cosa?","這裡是安全的地方，讓人很平靜
@@ -411,7 +411,7 @@ colazione il giorno della gara di atletica e hai perso!","欸，我聽說囉！�
 因為忘記帶中午的便當，結果以跑百米的速度衝回家啊！",,"이봐, 들었어! 운동회 당일 점심 도시락을 잊어서
 경기 할 때 같은 스피드로 집으로 돌아간 적이 있다며!","Hast du vor dem Schulwettlauf echt das
 Frühstück vergessen und dann verloren?"
-1326,,"Chiedo solo per curiosità... Hai fratelli e sorelle?",吶，雖然有點唐突……你有兄弟姊妹嗎？,,"이봐, 갑작스럽지만… 너 형제는 있어?","Ich frag einfach mal ins Blaue ...
+1326,,Chiedo solo per curiosità... Hai fratelli e sorelle?,吶，雖然有點唐突……你有兄弟姊妹嗎？,,"이봐, 갑작스럽지만… 너 형제는 있어?","Ich frag einfach mal ins Blaue ...
 Hast du Geschwister?"
 1327,,"Sono contenta che la fattoria sia così sicura, potrei
 fare un pisolino tutto il giorno! ...Okay, non proprio.","農場島是安全地帶，真是太好了
@@ -884,7 +884,7 @@ Mi piacerebbe unirmi a voi qualche volta.","那似乎蠻舒服的呢
 真想和你一起躺在農場島做日光浴吶",,"그건 기분 좋을 것 같네.
 팜에서 같이 뒹굴면서 일광욕 하고 싶어.","Das klingt super! Ich würde gern mal
 mitmachen."
-1711,,"Stai bene? Riposati e guarisci.",不要緊嗎？　好好休養，快點好起來喔,,괜찮아? 제대로 쉬면 좋아질거야.,"Alles in Ordnung? Ruh dich aus und
+1711,,Stai bene? Riposati e guarisci.,不要緊嗎？　好好休養，快點好起來喔,,괜찮아? 제대로 쉬면 좋아질거야.,"Alles in Ordnung? Ruh dich aus und
 erhol dich."
 1712,,"Mi piacciono così tante cose che non riesco a
 elencarle tutte. Impariamo molto l'uno dell'altro!","我喜歡的東西太多了，寫也寫不完吶
@@ -2909,7 +2909,7 @@ nächstes Mal bist du dran!"
 3711,,"Anche oggi sto bene.
 Grazie per avermelo chiesto!",我今天也很有精神，謝謝你替我操心,,오늘도 건강하게 있어. 걱정해줘서 고마워.,"Mir geht’s heute auch gut.
 Danke für die Nachfrage!"
-3712,,"Sembra fantastico! Chissà cosa dovrei chiedere?",這可真令人高興，我該提出什麼要求呢？,,그건 기쁜걸. 뭘 주문해볼까?,"Das klingt toll! Was soll ich mir bloß
+3712,,Sembra fantastico! Chissà cosa dovrei chiedere?,這可真令人高興，我該提出什麼要求呢？,,그건 기쁜걸. 뭘 주문해볼까?,"Das klingt toll! Was soll ich mir bloß
 wünschen?"
 3713,,"Certo, certo! Mi piacerebbe un oggetto utile.",嗯，當然！　如果做出了有用的道具，我會很開心,,"응, 물론! 도움이 되는 아이템이면 기쁘겠는걸.","Ja, natürlich! Ich würde mich über ein
 nützliches Item freuen!"
@@ -3003,7 +3003,7 @@ digievolvere da BlackWarGreymon. Cosa c'è dentro ____?","問答題！　可以�
 오메가몬 ○○○. ○○○에는 뭐가 들어갈까?","Quizzeit! Omnimon ____ kann aus
 BlackWarGreymon digitieren. Fülle aus!"
 4004,,"È ora del quiz! Quanti Digimon ci sono nei
-Royal Knight, i guardiani del Mondo Digitale?","問答題！　有數碼世界守護神之稱的
+Royal Knight, i guardiani del Digi World?","問答題！　有數碼世界守護神之稱的
 皇家騎士，是由幾隻數碼寶貝組成？",,"퀴즈! 디지털 월드의 수호신으로 불리는
 로얄 나이츠는 몇 마리의 디지몬으로 구성될까?","Quizzeit! Wie viele Digimon sind Royal
 Knights, Hüter der Digitalen Welt?"
@@ -3020,7 +3020,7 @@ Gallantmon einen Speer ein?"
 4007,,È ora del quiz! Come si chiama la lancia di Craniamon?,"問答題！　顱骨獸擁有的
 長槍的名字是？",,"퀴즈! 크레니엄몬이 가진 
 창의 이름이 뭐―게?",Quizzeit! Wie heißt Craniamons Speer?
-4008,,"È ora del quiz! Quanti piedi ha Kentaurosmon?",問答題！　八腳馬獸有幾隻腳？,,퀴즈! 슬레이프몬의 다리는 몇 개일까?,"Quizzeit! Wie viele Füße hat
+4008,,È ora del quiz! Quanti piedi ha Kentaurosmon?,問答題！　八腳馬獸有幾隻腳？,,퀴즈! 슬레이프몬의 다리는 몇 개일까?,"Quizzeit! Wie viele Füße hat
 Kentaurosmon?"
 4009,,"È ora del quiz! Che tipo di esame è
 quello per diventare Royal Knight?","問答題！　身為皇家騎士的
@@ -3042,8 +3042,7 @@ digievolve Magnamon: Dorumon, Lalamon o Veemon?","問答題！　多路獸、拉
 能進化為金甲龍獸的數碼寶貝是？",,"퀴즈! 돌몬, 라라몬, 브이몬 중
 매그너몬으로 진화하는 디지몬은 누구게?","Quizzeit! Welches Digimon digitiert zu
 Magnamon: Dorumon, Lalamon oder Veemon?"
-4013,,"È ora del quiz! Quale Digimon Cavaliere
-Reale può trasformarsi in Modalità Leopardo?","問答題！　能變化為獵豹型態的
+4013,,È ora del quiz! Quale Digimon Royal Knight può trasformarsi in Modalità Leopardo?,"問答題！　能變化為獵豹型態的
 皇家騎士數碼寶貝的名字是？",,"퀴즈! 레오파드 모드가 가능한
 로얄 나이츠 디지몬의 이름은 뭐―게?","Quizzeit! Welches Royal-Knight-Digimon
 kann in den Leopardenmodus wechseln?"
@@ -3228,7 +3227,7 @@ si diverte a beccare Tanemon sulla testa?","問答題！　哪隻雛鳥型數碼
 아기새형 디지몬은?","Quizzeit! Welches Vogelküken-Digimon
 pickt gern auf Tanemons Kopf herum?"
 4051,,"È ora del quiz! Come chiama Kyoko la tua
-capacità di entrare nel mondo digitale?","問答題！　你所具有的能夠從電腦等終端飛到
+capacità di entrare nel digi world?","問答題！　你所具有的能夠從電腦等終端飛到
 電腦世界的特殊能力，杏子稱它為什麼？",,"퀴즈! PC 등의 단말로부터 전뇌세계로 날 수 있는
 네 특수능력, 쿄코는 뭐라고 불렀지?","Quizzeit! Wie nennt Kyoko die Fähigkeit,
 die Digitale Welt zu betreten?"
@@ -3389,7 +3388,7 @@ speciale di Lilamon a tema lilla, Lila Shower?","問答題！　有著丁香花�
 필살기「라일라 샤워」는 어떤 기술?","Quizzeit! Was ist Lila Dusche, der
 Spezialmove des Blüten-Digimons Lilamon?"
 4084,,"È ora del quiz! Quale Digimon macchina è
-considerato il più forte nel Mondo Digitale?","問答題！　哪隻機械型數碼寶貝
+considerato il più forte nel Digi World?","問答題！　哪隻機械型數碼寶貝
 有數碼世界最強的稱號，全身100%都是金屬？",,"퀴즈! 디지털 월드 최강이라고도 전해지는
 전신 100% 풀 메탈 머신형 디지몬은?","Quizzeit! Welches Maschinen-Digimon gilt
 als stärkstes in der Digitalen Welt?"
@@ -3480,7 +3479,7 @@ digievolvere da BlackWarGreymon. Cosa c'entra ___, eh?","問答題。可以由�
 오메가몬 ○○○. ○○○에는 뭐가 들어갈까?","Quiz! Omnimon ____ kann aus
 BlackWarGreymon digitieren. Fülle aus!"
 5004,,"Curiosità! Quanti Digimon ci sono nel gruppo di
-guardiani del Mondo Digitale, i Royal Knight?","問答題。有數碼世界守護神之稱的
+guardiani del Digi World, i Royal Knight?","問答題。有數碼世界守護神之稱的
 皇家騎士，是由幾隻數碼寶貝組成？",,"퀴즈다. 디지털 월드의 수호신으로 불리는 
 로얄 나이츠는 몇 마리의 디지몬으로 구성되어 있지?","Quiz! Wie viele Digimon sind Hüter der
 Digitalen Welt, also Royal Knights?"
@@ -3520,8 +3519,7 @@ Quale digievolve in Magnamon, eh?","問答題。多路獸、拉拉獸、V仔獸�
 能進化為金甲龍獸的數碼寶貝是？",,"퀴즈다. 돌몬, 라라몬, 브이몬 중
 매그너몬으로 진화하는 디지몬은 누구지?","Quiz! Dorumon, Lalamon oder Veemon:
 Wer digitiert zu Magnamon, hm?"
-5013,,"Curiosità! Quale Digimon Cavaliere
-Reale può trasformarsi in Modalità Leopardo, eh?","問答題。能變化為獵豹型態的
+5013,,"Curiosità! Quale Digimon Royal Knight può trasformarsi in Modalità Leopardo, eh?","問答題。能變化為獵豹型態的
 皇家騎士數碼寶貝的名字是？",,"퀴즈다. 레오파드 모드가 가능한 로얄 나이츠
 디지몬의 이름은 뭐라고 하지?","Quiz! Welches Royal-Knight-Digimon
 kann in den Leopardenmodus wechseln, hm?"
@@ -3540,8 +3538,7 @@ speciale a quattro lame, Spiral Masquerade, eh?","問答題。哪隻數碼寶貝
 長出4把刀，將敵人撕裂的「螺旋假面舞蹈會」？",,"퀴즈다. 갑옷에서 뻗어나온 4종의 칼날로 적을 베는
 「스파이럴 마스커레이드」가 필살기인 디지몬은?","Quiz! Welches Digimon hat den 4-Klingen-
 Spezialmove „Spiral-Maskerade“, hm?"
-5017,,"Curiosità! Quale Digimon Cavaliere
-Reale veloce indossa l'armatura Digizoide Blu, eh?","問答題。身穿藍數碼合金鎧甲
+5017,,"Curiosità! Quale Digimon Royal Knight veloce indossa l'armatura Digizoide Blu, eh?","問答題。身穿藍數碼合金鎧甲
 具有驚人神速的皇家騎士數碼寶貝是？",,"퀴즈다. 블루디지조이드 갑옷을 입고
 신속의 스피드를 가진 로얄 나이츠 디지몬은?","Quiz! Welches schnelle Royal-Knight-
 Digimon hat eine blaue Digizoid-Rüstung?"
@@ -3705,7 +3702,7 @@ si diverte a beccare Tanemon sulla testa, eh?","問答題。哪隻雛鳥型數�
 아기새형 디지몬의 이름은?","Quiz! Welches Vogelküken-Digimon
 pickt gern auf Tanemons Kopf herum, hm?"
 5051,,"Curiosità! Come chiama Kyoko la tua
-capacità di entrare nel Mondo Digitale, eh?","問答題。你所具有的能夠從電腦等終端飛到
+capacità di entrare nel Digi World, eh?","問答題。你所具有的能夠從電腦等終端飛到
 電腦世界的特殊能力，暮海杏子稱它為什麼？",,"퀴즈다. PC등의 단말로부터 전뇌세계로 날 수 있는
 너의 특수능력, 쿠레미 쿄코는 뭐라고 불렀지?","Quiz! Wie nennt Kyoko deine Fähigkeit,
 die Digitale Welt zu betreten, hm?"
@@ -3867,7 +3864,7 @@ speciale di Lilamon a tema lilla, la Doccia di Lila, eh?","問答題。有著丁
 필살기「라일라 샤워」는 어떤 기술?","Quiz! Was ist Lila Dusche, der
 Spezialmove des Blüten-Digimons Lilamon?"
 5084,,"Curiosità! Quale Digimon meccanico è
-considerato il più forte nel Mondo Digitale, eh?","問答題。哪隻機械型數碼寶貝
+considerato il più forte nel Digi World, eh?","問答題。哪隻機械型數碼寶貝
 有數碼世界最強的稱號，全身100%都是金屬？",,"퀴즈다. 디지털 월드 최강이라고도 전해지는
 전신 100% 풀 메탈 머신형 디지몬은?","Quiz! Welches Maschinen-Digimon gilt
 als stärkstes in der Digitalen Welt, hm?"
@@ -3956,7 +3953,7 @@ digievolvere da BlackWarGreymon. Cosa c'è dentro ____?","來進行問答題吧�
 오메가몬 ○○○. ○○○에는 뭐가 들어가지?","Test! Omnimon ____ kann aus
 BlackWarGreymon digitieren. Fülle aus!"
 6004,,"Quiz a sorpresa! Quanti Digimon ci sono nei
-Royal Knight, i guardiani del Mondo Digitale?","來進行問答題吧！　有數碼世界守護神之稱的
+Royal Knight, i guardiani del Digi World?","來進行問答題吧！　有數碼世界守護神之稱的
 皇家騎士，是由幾隻數碼寶貝組成？",,"자아 퀴즈다! 디지털 월드의 수호신으로 불리는
 로얄 나이츠는 몇 마리의 디지몬으로 구성되지?","Test! Wie viele Digimon sind Royal
 Knights, Hüter der Digitalen Welt?"
@@ -3994,8 +3991,7 @@ Dorumon, Lalamon o Veemon?","來進行問答題吧！　多路獸、拉拉獸、
 能進化為金甲龍獸的數碼寶貝是？",,"자아 퀴즈다! 돌몬, 라라몬, 브이몬 중
 매그너몬으로 진화하는 디지몬은 누구지?","Test! Welches Digimon digitiert zu
 Magnamon: Dorumon, Lalamon oder Veemon?"
-6013,,"Quiz a sorpresa! Quale Digimon Cavaliere
-Reale può trasformarsi in Modalità Leopardo?","來進行問答題吧！　能變化為獵豹型態的
+6013,,Quiz a sorpresa! Quale Digimon Royal Knight può trasformarsi in Modalità Leopardo?,"來進行問答題吧！　能變化為獵豹型態的
 皇家騎士數碼寶貝的名字是？",,"자아 퀴즈다! 레오파드 모드가 가능한
 로얄 나이츠 디지몬의 이름은 뭐지?","Test! Welches Royal-Knight-Digimon
 kann in den Leopardenmodus wechseln?"
@@ -4181,7 +4177,7 @@ Digimon si diverte a beccare Tanemon sulla testa?","來進行問答題吧！　�
 아기새형 디지몬은?","Test! Welches Vogelküken-Digimon
 pickt gern auf Tanemons Kopf herum?"
 6051,,"Quiz a sorpresa! Come chiama Kyoko la tua
-capacità di entrare nel mondo digitale?","來進行問答題吧！　你所具有的能夠從電腦等終端飛到
+capacità di entrare nel digi world?","來進行問答題吧！　你所具有的能夠從電腦等終端飛到
 電腦世界的特殊能力，杏子稱它為什麼？",,"자아 퀴즈다! PC 등의 단말로부터 전뇌세계로 날 수 있는
 네 특수능력, 쿄코는 뭐라고 불렀지?","Test! Wie nennt Kyoko deine Fähigkeit,
 die Digitale Welt zu betreten?"
@@ -4343,7 +4339,7 @@ speciale di Lilamon, la Doccia di Lila, a tema lilla?","來進行問答題吧！
 라일라몬의 필살기「라일라 샤워」는 어떤 기술?","Test! Was ist Lila Dusche, der
 Spezialmove des Blüten-Digimons Lilamon?"
 6084,,"Quiz a sorpresa! Quale Digimon macchina è
-considerato il più forte nel Mondo Digitale?","來進行問答題吧！　哪隻機械型數碼寶貝
+considerato il più forte nel Digi World?","來進行問答題吧！　哪隻機械型數碼寶貝
 有數碼世界最強的稱號，全身100%都是金屬？",,"자아 퀴즈다! 디지털 월드 최강이라고도 전해지는
 전신 100% 풀 메탈 머신형 디지몬은?","Test! Welches Maschinen-Digimon gilt
 als stärkstes in der Digitalen Welt?"
@@ -4434,7 +4430,7 @@ digievolvere da BlackWarGreymon. Cosa c'è dentro ____?","出個問答題唷。�
 오메가몬 ○○○. ○○○에는 뭐가 들어갈까?","Hör zu. Omnimon ____ kann aus
 BlackWarGreymon digitieren. Fülle aus!"
 7004,,"Controlla. Quanti Digimon ci sono nei
-Royal Knight, i guardiani del Mondo Digitale?","出個問答題唷。有數碼世界守護神之稱的
+Royal Knight, i guardiani del Digi World?","出個問答題唷。有數碼世界守護神之稱的
 皇家騎士，是由幾隻數碼寶貝組成的呢？",,"퀴즈야. 디지털 월드의 수호신으로 불리는
 로얄 나이츠는 몇 마리의 디지몬으로 구성될까?","Hör zu. Wie viele Digimon sind Royal
 Knights, Hüter der Digitalen Welt?"
@@ -4472,8 +4468,7 @@ Dorumon, Lalamon o Veemon?","出個問答題唷。多路獸、拉拉獸、V仔�
 能進化為金甲龍獸的數碼寶貝是？",,"퀴즈야. 돌몬, 라라몬, 브이몬 중
 매그너몬으로 진화하는 디지몬은 누구였을까?","Hör zu. Welches Digimon digitiert zu
 Magnamon: Dorumon, Lalamon oder Veemon?"
-7013,,"Controlla. Quale Digimon Cavaliere
-Reale può passare alla Modalità Leopardo?","出個問答題唷。能變化為獵豹型態的
+7013,,Controlla. Quale Digimon Royal Knight può passare alla Modalità Leopardo?,"出個問答題唷。能變化為獵豹型態的
 皇家騎士數碼寶貝的名字是？",,"퀴즈야. 레오파드 모드가 가능한
 로얄 나이츠 디지몬의 이름은 뭐였을까?","Hör zu. Welches Royal-Knight-Digimon
 kann in den Leopardenmodus wechseln?"
@@ -4492,8 +4487,7 @@ mossa speciale a 4 lame chiamata Spiral Masquerade?","出個問答題唷。哪�
 長出4把刀，將敵人撕裂的「螺旋假面舞蹈會」？",,"퀴즈야. 갑옷에서 뻗어나온 4종의 칼날로 적을 베는
 「스파이럴 마스커레이드」가 필살기인 디지몬은?","Hör zu. Welches Digimon benutzt den
 4-Klingen-Spezialmove „Spiral-Maskerade“?"
-7017,,"Controlla. Quale veloce Cavaliere
-Reale Digimon indossa l'armatura Digizoide Blu?","出個問答題唷。身穿藍數碼合金鎧甲
+7017,,Controlla. Quale veloce Royal Knight Digimon indossa l'armatura Digizoide Blu?,"出個問答題唷。身穿藍數碼合金鎧甲
 具有驚人神速的皇家騎士數碼寶貝是？",,"퀴즈야. 블루디지조이드 갑옷을 입고
 신속의 스피드를 가진 로얄 나이츠 디지몬은?","Hör zu. Welches schnelle Royal Knight-
 Digimon hat eine blaue Digizoid-Rüstung?"
@@ -4551,7 +4545,7 @@ soccorso è indicato per un dito leggermente ustionato?","出個問答題唷。�
 正確的急救處理方式是？",,"퀴즈야. 손 끝에 가벼운 화상을 입었을 때
 응급 처치로 올바른 것은 무엇일까요?","Hör zu. Was ist die Erste Hilfe bei
 einer leicht verbrannten Fingerspitze?"
-7029,,"Controlla. Qual è l'unica festa a ottobre?",出個問答題唷。10月裡唯一的國定假日是？,,퀴즈야. 10월에 있는 유일한 축일은 뭐게?,"Hör zu. Welcher Feiertag ist der
+7029,,Controlla. Qual è l'unica festa a ottobre?,出個問答題唷。10月裡唯一的國定假日是？,,퀴즈야. 10월에 있는 유일한 축일은 뭐게?,"Hör zu. Welcher Feiertag ist der
 einzige im Oktober?"
 7030,,"Controlla. Domanda di
 matematica: Quanto fa 3 x 4 + 12 / 6 x 4 + 3?","出個問答題唷。是一道算術題
@@ -4659,7 +4653,7 @@ diverte a beccare Tanemon sulla testa?","出個問答題唷。哪隻雛鳥型數
 아기새형 디지몬은?","Hör zu. Welches Vogelküken-Digimon
 pickt gern auf Tanemons Kopf herum?"
 7051,,"Controlla. Come chiama Kyoko la tua
-capacità di entrare nel Mondo Digitale?","出個問答題唷。你所具有的能夠從電腦等終端飛到
+capacità di entrare nel Digi World?","出個問答題唷。你所具有的能夠從電腦等終端飛到
 電腦世界的特殊能力，杏子稱它為什麼呢？",,"퀴즈야. PC 등의 단말로부터 전뇌세계로 날 수 있는
 네 특수능력, 쿄코는 뭐라고 이름을 붙였지?","Hör zu. Wie nennt Kyoko deine Fähigkeit,
 die Digitale Welt zu betreten?"
@@ -4820,7 +4814,7 @@ speciale di Lilamon, la Doccia di Lila, a tema lilla?","出個問答題唷。有
 필살기「라일라 샤워」는 어떤 기술?","Hör zu. Was ist Lila Dusche, der
 Spezialmove des Blüten-Digimons Lilamon?"
 7084,,"Controlla. Quale Digimon macchina è
-considerato il più forte nel Mondo Digitale?","出個問答題唷。哪隻機械型數碼寶貝
+considerato il più forte nel Digi World?","出個問答題唷。哪隻機械型數碼寶貝
 有數碼世界最強的稱號，全身100%都是金屬？",,"퀴즈야. 디지털 월드 최강이라고도 전해지는
 전신 100% 풀 메탈 머신형 디지몬은?","Hör zu. Welches Maschinen-Digimon gilt
 als stärkstes der Digitalen Welt?"
@@ -4871,9 +4865,9 @@ mammiferi. Cosa sono i pipistrelli?","出個問答題唷。這題是關於擁有
 青蛙是兩生類，猴子是哺乳類，那麼蝙蝠是？",,"퀴즈야. 등뼈를 가진 동물의 분류에 대해 낼게.
 개구리는 양서류, 원숭이는 포유류. 그럼 박쥐는?","Hör zu. Frösche sind Amphibien, Affen
 sind Säugetiere. Was sind Fledermäuse?"
-7095,,"Controlla. Qual è la montagna più alta del Giappone?",出個問答題唷。日本的最高峰是？,,퀴즈야. 일본에서 가장 높은 산은 어딜까요?,"Hör zu. Wie heißt der höchste Berg
+7095,,Controlla. Qual è la montagna più alta del Giappone?,出個問答題唷。日本的最高峰是？,,퀴즈야. 일본에서 가장 높은 산은 어딜까요?,"Hör zu. Wie heißt der höchste Berg
 Japans?"
-7096,,"Controlla. Di quali nutrienti sono ricche le carote?","出個問答題唷。是關於食品五大營養成分的題目
+7096,,Controlla. Di quali nutrienti sono ricche le carote?,"出個問答題唷。是關於食品五大營養成分的題目
 紅蘿蔔最豐富的營養成分是？",,"퀴즈야. 식품의 다섯가지 영양소에 대한 문제야.
 당근에는 특히 어떤 영양소가 많을까?","Hör zu. Was ist in Karotten reichlich
 enthalten?"
@@ -4909,7 +4903,7 @@ digievolvere da BlackWarGreymon. Cosa ci metti dentro ____?","那我來出問答
 오메가몬 ○○○. ○○○에는 뭐가 들어가지?","Pass auf. Omnimon ____ kann aus
 BlackWarGreymon digitieren. Fülle aus!"
 8004,,"Ascolta. Quanti Digimon ci sono nei
-Royal Knight, i guardiani del Mondo Digitale?","我出問答題囉。有數碼世界守護神之稱的
+Royal Knight, i guardiani del Digi World?","我出問答題囉。有數碼世界守護神之稱的
 皇家騎士，是由幾隻數碼寶貝組成的？",,"퀴즈. 디지털 월드의 수호신으로 불리는
 로얄 나이츠는 몇 마리의 디지몬으로 구성되지?","Pass auf. Wie viele Digimon sind Royal
 Knights, Hüter der Digitalen Welt?"
@@ -4926,7 +4920,7 @@ Gallantmon einen Speer ein?"
 8007,,Ascolta. Come si chiama la lancia di Craniamon?,"那我來出問答題囉。顱骨獸擁有的
 長槍的名字是什麼呢？",,"그럼, 퀴즈. 크레니엄몬이 가진 
 창의 이름이 뭘까?",Pass auf. Wie heißt Craniamons Speer?
-8008,,"Ascolta. Quanti metri ha il Kentaurosmon?",那我來出問答題囉。八腳馬獸有幾隻腳？,,"자, 퀴즈. 슬레이프몬의 다리는 몇 개일까?","Pass auf. Wie viele Füße hat
+8008,,Ascolta. Quanti metri ha il Kentaurosmon?,那我來出問答題囉。八腳馬獸有幾隻腳？,,"자, 퀴즈. 슬레이프몬의 다리는 몇 개일까?","Pass auf. Wie viele Füße hat
 Kentaurosmon?"
 8009,,"Ascolta. Che tipo di esame è quello
 per diventare Royal Knight?","那我來出問答題囉。身為皇家騎士的
@@ -4948,8 +4942,7 @@ Dorumon, Lalamon o Veemon?","那我來出問答題囉。多路獸、拉拉獸、
 能進化為金甲龍獸的數碼寶貝是？",,"자, 퀴즈. 돌몬, 라라몬, 브이몬 중
 매그너몬으로 진화하는 디지몬은 누굴까?","Pass auf. Welches Digimon digitiert zu
 Magnamon: Dorumon, Lalamon oder Veemon?"
-8013,,"Ascolta. Quale Digimon Cavaliere
-Reale può trasformarsi in Modalità Leopardo?","那我來出問答題囉。能變化為獵豹型態的
+8013,,Ascolta. Quale Digimon Royal Knight può trasformarsi in Modalità Leopardo?,"那我來出問答題囉。能變化為獵豹型態的
 皇家騎士數碼寶貝的名字是？",,"자, 퀴즈.  레오파드 모드가 가능한
 로얄 나이츠 디지몬의 이름은 뭐지?","Pass auf. Welches Royal-Knight-Digimon
 kann in den Leopardenmodus wechseln?"
@@ -5027,7 +5020,7 @@ soccorso è indicato per un dito leggermente ustionato?","那我來出問答題�
 正確的急救處理方式是？",,"그럼, 퀴즈. 손 끝에 가벼운 화상을 입었을 때
 응급 처치로 올바른 것은 무엇일까?","Pass auf. Was ist die Erste Hilfe bei
 einer leicht verbrannten Fingerspitze?"
-8029,,"Ascolta. Qual è l'unica festa a ottobre?",那我來出問答題囉。10月裡唯一的國定假日是？,,"그럼, 퀴즈. 10월에 있는 유일한 축일은 뭐지?","Pass auf. Welcher Feiertag ist der
+8029,,Ascolta. Qual è l'unica festa a ottobre?,那我來出問答題囉。10月裡唯一的國定假日是？,,"그럼, 퀴즈. 10월에 있는 유일한 축일은 뭐지?","Pass auf. Welcher Feiertag ist der
 einzige im Oktober?"
 8030,,"Ascolta.
 Domanda di matematica: quanto fa 3 x 4 + 12 / 6 x 4 + 3?","那我來出問答題囉。是一道算術題
@@ -5135,7 +5128,7 @@ diverte a beccare Tanemon sulla testa?","那我來出問答題囉。哪隻雛鳥
 아기새형 디지몬은?","Pass auf. Welches Vogelküken-Digimon
 pickt gern auf Tanemons Kopf herum?"
 8051,,"Ascolta. Come chiama Kyoko la tua
-capacità di entrare nel mondo digitale?","那我來出問答題囉。你所具有的能夠從電腦等終端飛到
+capacità di entrare nel digi world?","那我來出問答題囉。你所具有的能夠從電腦等終端飛到
 電腦世界的特殊能力，杏子稱它為什麼呢？",,"퀴즈. PC 등의 단말로부터 전뇌세계로 날 수 있는
 네 특수능력, 쿄코는 뭐라고 불렀지?","Pass auf. Wie nennt Kyoko die Fähigkeit,
 die Digitale Welt zu betreten?"
@@ -5157,7 +5150,7 @@ Haarschmuck deiner Freundin Nokia?"
 8055,,"Ascolta. Di che colore sono i capelli del
 tuo amico Arata?",那我來出問答題囉。你的朋友「新」的髮色是什麼顏色？,,"자, 퀴즈. 네 친구 아라타의 머리색은 무슨 색이지?","Pass auf. Welche Haarfarbe hat dein
 Freund Arata?"
-8056,,"Ascolta. Che programma usi per catturare i Digimon?",那我來出問答題囉。用於捕捉數碼寶貝的程式名稱是？,,"그럼, 퀴즈. 디지몬을 잡기 위한 프로그램의 
+8056,,Ascolta. Che programma usi per catturare i Digimon?,那我來出問答題囉。用於捕捉數碼寶貝的程式名稱是？,,"그럼, 퀴즈. 디지몬을 잡기 위한 프로그램의 
 이름은 뭘까?","Pass auf. Mit welchem Programm kannst
 du Digimon fangen?"
 8057,,"Ascolta. Come si chiama la donna
@@ -5296,7 +5289,7 @@ speciale di Lilamon a tema lilla, Lila Shower?","那我來出問答題囉。有�
 필살기「라일라 샤워」는 어떤 기술?","Pass auf. Was ist Lila Dusche, der
 Spezialmove des Blüten-Digimons Lilamon?"
 8084,,"Ascolta. Quale Digimon macchina è
-considerato il più forte nel Mondo Digitale?","那我來出問答題囉。哪隻機械型數碼寶貝
+considerato il più forte nel Digi World?","那我來出問答題囉。哪隻機械型數碼寶貝
 有數碼世界最強的稱號，全身100%都是金屬？",,"자, 퀴즈. 디지털 월드 최강이라고도 전해지는
 전신 100% 풀 메탈 머신형 디지몬은?","Pass auf. Welches Maschinen-Digimon gilt
 als stärkstes der Digitalen Welt?"
@@ -5387,7 +5380,7 @@ digievolvere da BlackWarGreymon. Cosa c'è dentro ____?","以下是問答題。�
 오메가몬 ○○○. ○○○에는 뭐가 들어가죠?","Frage! Omnimon ____ kann aus
 BlackWarGreymon digitieren. Fülle aus!"
 9004,,"Domanda! Quanti Digimon ci sono nei
-Royal Knight, i guardiani del Mondo Digitale?","以下是問答題。有數碼世界守護神之稱的
+Royal Knight, i guardiani del Digi World?","以下是問答題。有數碼世界守護神之稱的
 皇家騎士，是由幾隻數碼寶貝組成的？",,"퀴즈입니다. 디지털 월드의 수호신으로 불리는
 로얄 나이츠는 몇 마리의 디지몬으로 구성되죠?","Frage! Wie viele Digimon sind Royal
 Knights, Hüter der Digitalen Welt?"
@@ -5425,8 +5418,7 @@ digievolve Magnamon: Dorumon, Lalamon o Veemon?","以下是問答題。多路獸
 能進化為金甲龍獸的數碼寶貝是？",,"여기서 퀴즈입니다. 돌몬, 라라몬, 브이몬 중
 매그너몬으로 진화하는 디지몬은 누구일까요?","Frage! Welches Digimon digitiert zu
 Magnamon: Dorumon, Lalamon oder Veemon?"
-9013,,"Domanda! Quale Digimon Cavaliere
-Reale può trasformarsi in Modalità Leopardo?","以下是問答題。能變化為獵豹型態的
+9013,,Domanda! Quale Digimon Royal Knight può trasformarsi in Modalità Leopardo?,"以下是問答題。能變化為獵豹型態的
 皇家騎士數碼寶貝的名字是？",,"여기서 퀴즈입니다. 레오파드 모드가 가능한
 로얄 나이츠 디지몬의 이름은?","Frage! Welches Royal-Knight-Digimon
 kann in den Leopardenmodus wechseln?"
@@ -5445,8 +5437,7 @@ speciale a quattro lame chiamata Spiral Masquerade?","以下是問答題。哪�
 長出4把刀，將敵人撕裂的「螺旋假面舞蹈會」？",,"퀴즈입니다. 갑옷에서 뻗어나온 4종의 칼날로 적을 베는
 「스파이럴 마스커레이드」가 필살기인 디지몬은?","Frage! Welches Digimon benutzt den
 4-Klingen-Spezialmove „Spiral-Maskerade“?"
-9017,,"Domanda! Quale Digimon, il Cavaliere
-Reale più veloce, indossa l'armatura Digizoide Blu?","以下是問答題。身穿藍數碼合金鎧甲
+9017,,"Domanda! Quale Digimon, il Royal Knight più veloce, indossa l'armatura Digizoide Blu?","以下是問答題。身穿藍數碼合金鎧甲
 具有驚人神速的皇家騎士數碼寶貝是？",,"여기서 퀴즈입니다. 블루디지조이드 갑옷을 입고
 신속의 스피드를 가진 로얄 나이츠 디지몬은?","Frage! Welches schnelle Royal-Knight-
 Digimon hat eine blaue Digizoid-Rüstung?"
@@ -5505,7 +5496,7 @@ soccorso è indicato per un dito leggermente ustionato?","以下是問答題。�
 正確的急救處理方式是？",,"여기서 퀴즈입니다. 손 끝에 가벼운 화상을 입었을 때
 응급 처치로 올바른 것은 무엇일까요?","Frage! Was ist die Erste Hilfe bei
 einer leicht verbrannten Fingerspitze?"
-9029,,"Domanda! Qual è l'unica festa di ottobre?",以下是問答題。10月裡唯一的國定假日是？,,"여기서 퀴즈입니다.
+9029,,Domanda! Qual è l'unica festa di ottobre?,以下是問答題。10月裡唯一的國定假日是？,,"여기서 퀴즈입니다.
 10월에 있는 유일한 축일은 뭘까요?","Frage! Welcher Feiertag ist der
 einzige im Oktober?"
 9030,,"Domanda!
@@ -5553,7 +5544,7 @@ sul petto di MetalEtemon?","以下是問答題。寫在鋼鐵悟空獸胸前的�
 是什麼？　提示是2個漢字的詞彙",,"퀴즈입니다. 메탈에테몬의 가슴에 적혀있는 문자는
 뭘까요? 힌트는 한자 2글자의 단어입니다.","Frage! Was bedeuten die Zeichen auf
 MetalEtemons Brust?"
-9039,,"Domanda! Quale Digimon usa due fucili come arma?","以下是問答題。以2把霰彈槍為武器的
+9039,,Domanda! Quale Digimon usa due fucili come arma?,"以下是問答題。以2把霰彈槍為武器的
 數碼寶貝的名字是？",,"여기서 퀴즈입니다. 2정의 샷건을 무기로 삼은
 디지몬의 이름은 뭘까요?","Frage! Welches Digimon benutzt zwei
 Flinten als Waffen?"
@@ -5613,7 +5604,7 @@ beccare Tanemon sulla testa?","以下是問答題。哪隻雛鳥型數碼寶貝
 아기새형 디지몬은?","Frage! Welches Vogelküken-Digimon
 pickt gern auf Tanemons Kopf herum?"
 9051,,"Domanda! Come definisce Kyoko la tua
-capacità di entrare nel Mondo Digitale?","以下是問答題。你所具有的能夠從電腦等終端飛到
+capacità di entrare nel Digi World?","以下是問答題。你所具有的能夠從電腦等終端飛到
 電腦世界的特殊能力，暮海杏子稱它為什麼？",,"퀴즈입니다. PC 등의 단말로부터 전뇌세계로 날 수 
 있는 당신의 특수능력, 쿠레미 쿄코는 뭐라고 불렀죠?","Frage! Wie nennt Kyoko deine Fähigkeit,
 die Digitale Welt zu betreten?"
@@ -5776,7 +5767,7 @@ speciale di Lilamon a tema lilla, Lila Shower?","以下是問答題。有著丁�
 라일라몬의 필살기「라일라 샤워」는 어떤 기술?","Frage! Was ist Lila Dusche, der
 Spezialmove des Blüten-Digimons Lilamon?"
 9084,,"Domanda! Quale Digimon meccanico è
-considerato il più forte nel Mondo Digitale?","以下是問答題。哪隻機械型數碼寶貝
+considerato il più forte nel Digi World?","以下是問答題。哪隻機械型數碼寶貝
 有數碼世界最強的稱號，全身100%都是金屬？",,"퀴즈입니다. 디지털 월드 최강이라고도 전해지는
 전신 100% 풀 메탈 머신형 디지몬은?","Frage! Welches Maschinen-Digimon gilt
 als stärkstes der Digitalen Welt?"
@@ -11123,10 +11114,10 @@ gar nicht einsam sein!"
 42047,,"È vero? Buono a sapersi...
 Sono un po' sollevato.",這樣啊，太好了……我放心了,,"그렇구나, 잘됐다… 안심했어.","Ach ja? Das freut mich ... Da bin ich
 etwas erleichtert."
-41048,,"Non sforzarti se sei ancora in via di guarigione.",妳才大病初癒，可別太逞強了喔,,병상에서 막 일어난 참이니 너무 무리하지 마.,"Überanstreng dich nicht, wenn du dich
+41048,,Non sforzarti se sei ancora in via di guarigione.,妳才大病初癒，可別太逞強了喔,,병상에서 막 일어난 참이니 너무 무리하지 마.,"Überanstreng dich nicht, wenn du dich
 noch erholen musst."
 42048,,Bene! Anche Ryota sarà felice.,太好了！　良太也很高興喔,,잘됐다! 료타도 기뻐할거야.,Gut! Ryota wird auch froh sein.
-41049,,"Cammino per la città nel mio tempo libero.",我正在鎮上閒晃,,한가해서 거리에서 어슬렁대고 있어요.,"In meiner Freizeit wandere ich durch die
+41049,,Cammino per la città nel mio tempo libero.,我正在鎮上閒晃,,한가해서 거리에서 어슬렁대고 있어요.,"In meiner Freizeit wandere ich durch die
 Stadt."
 42049,,Non sono esattamente libero in questo momento...,我、我沒空喔……？,,"하, 한가하지 않은데요…?",Ich habe gerade nicht viel Zeit ...
 41050,,Davvero? Fantastico!,真的？　太好了！,,정말? 야호!,Wirklich? Toll!
@@ -11135,7 +11126,7 @@ Non va bene...",……媽媽真的記得我喜歡什麼口味？　有點擔心�
 Das ist nicht gut ..."
 41052,,È vero? Esatto!,這樣啊！　太好了呢！,,그랬구나! 잘됐네!,Stimmt das? Das stimmt!
 42052,,Wow... E poi cosa è successo?,哦……之後怎麼樣了？,,헤에…그러고나서 어떻게 됐어?,Wow ... Und was ist dann passiert?
-41053,,"Quando pensi che tornerai in Giappone?",妳大概什麼時候能回日本啊？,,언제쯤 일본에 돌아올 것 같아?,"Was denkst du, wann du wieder nach Japan
+41053,,Quando pensi che tornerai in Giappone?,妳大概什麼時候能回日本啊？,,언제쯤 일본에 돌아올 것 같아?,"Was denkst du, wann du wieder nach Japan
 kommst?"
 42053,,Vuoi tornare presto?,想早一點回來嗎？,,빨리 이쪽으로 돌아오고 싶어?,Möchtest du bald wiederkommen?
 41054,,"Beh, non sforzarti troppo.",希望你們不要太逞強了,,너무 무리하지 말아줘.,"Tja, überanstreng dich nicht."
@@ -11173,7 +11164,7 @@ Non me l'aspettavo.",妳喜歡甜食？　感覺有點意外呢,,단걸 좋아�
 erwartet."
 41066,,"Capito. Fai attenzione anche tu, Makiko!",我明白了，真希子姊也小心點！,,알겠습니다. 마키코 씨도 조심하세요!,"Verstanden. Sei du auch vorsichtig,
 Makiko!"
-41067,,"Qui stiamo bene! E là?",我這裡不要緊！　你那裡呢？,,이쪽은 괜찮아! 그쪽은?,"Hier ist alles gut! Wie sieht es da
+41067,,Qui stiamo bene! E là?,我這裡不要緊！　你那裡呢？,,이쪽은 괜찮아! 그쪽은?,"Hier ist alles gut! Wie sieht es da
 drüben aus?"
 41068,,"Grazie. Se c'è qualcosa che puoi fare, te lo farò
 sapere.","謝謝
@@ -11182,7 +11173,7 @@ sapere.","謝謝
 ich dir Bescheid."
 41069,,"Sto bene, non preoccuparti!",不要緊的，所以冷靜點！,,괜찮아. 그러니까 진정해!,"Ich bin okay, keine Sorge!"
 42069,,"Calmati, mamma.",媽媽妳太緊張了,,엄마 너무 당황하는거 아냐?,"Entspann dich mal, Mama."
-41070,,"Dovrei portarti con me quando esco?",妳要外出的時候，需要我陪妳嗎？,,외출할 때 따라갈까?,"Soll ich dich mitnehmen, wenn ich
+41070,,Dovrei portarti con me quando esco?,妳要外出的時候，需要我陪妳嗎？,,외출할 때 따라갈까?,"Soll ich dich mitnehmen, wenn ich
 ausgehe?"
 42070,,Perché non chiedi a Ryota?,拜託良太看看呢？,,료타에게 의지해보는건 어때?,Warum fragst du nicht Ryota?
 41071,,"Non è così male come pensi, mamma,
@@ -11205,10 +11196,10 @@ Mamas selbstgekochtes Essen."
 42079,,Cosa è successo all'improvviso?,怎麼突然這麼說？,,갑자기 왜?,Was ist denn auf einmal los?
 41085,,Questo non è assolutamente normale.,的確不尋常吶,,확실히 평범하진 않은걸.,Das ist auf keinen Fall normal.
 42085,,Finora non è stato così...,到前陣子為止，還不是這樣的……,,얼마 전까진 이러진 않았는데 말이지…,Bis jetzt war es nicht so ...
-43085,,"Faremo del nostro meglio in questo mondo!",這裡的世界，加油啊！,,"이쪽 세계, 힘낸다!","Wir werden in dieser Welt unser Bestes
+43085,,Faremo del nostro meglio in questo mondo!,這裡的世界，加油啊！,,"이쪽 세계, 힘낸다!","Wir werden in dieser Welt unser Bestes
 geben!"
 41086,,"Certo, prima o poi...",嗯，之後會想的……,,뭐어 조만간…,"Klar, früher oder später ..."
-42086,,"Penso che ci sia qualcosa che voglio fare.",我隱約有了想要做的事,,어렴풋하게 하고 싶은 일은 있어.,"Ich glaube, es gibt da was,
+42086,,Penso che ci sia qualcosa che voglio fare.,我隱約有了想要做的事,,어렴풋하게 하고 싶은 일은 있어.,"Ich glaube, es gibt da was,
 das ich tun will."
 41087,,Lascia fare a me!,交給我吧！,,맡겨둬!,Überlass das mir!
 41088,,"Dubito che i nostri parchi di divertimento
@@ -11220,11 +11211,11 @@ Erledigungen gemacht habe."
 41090,,Veramente!?,當真！？,,정말로!?,Wirklich?!
 42090,,È stato più veloce di quanto mi aspettassi!,意外地快速呢！,,의외로 빠른걸!,Das ging schneller als gedacht!
 41091,,Makiko sta bene?,真希子姊不要緊嗎？,,마키코 씨는 괜찮으신가요?,Ist Makiko in Ordnung?
-42091,,"Sono preoccupato per il Detective Matayoshi.",又吉刑警……令人擔心呢,,마타요시 형사…걱정이네요.,"Ich mache mir Sorgen wegen
+42091,,Sono preoccupato per il Detective Matayoshi.,又吉刑警……令人擔心呢,,마타요시 형사…걱정이네요.,"Ich mache mir Sorgen wegen
 Kommissar Matayoshi."
-41092,,"Non sono alla ricerca di un apprendista!",我不收徒弟！,,제자는 받지 않습니다!,"Ich bin nicht auf der Suche nach einem
+41092,,Non sono alla ricerca di un apprendista!,我不收徒弟！,,제자는 받지 않습니다!,"Ich bin nicht auf der Suche nach einem
 Lehrling!"
-42092,,"Potrei avere un lavoro per te.",如果是雜務，倒是可以交給妳喔～,,잡일꾼이라면 맡겨줄 수 있는데?,"Ich hätte da vielleicht einen Job für
+42092,,Potrei avere un lavoro per te.,如果是雜務，倒是可以交給妳喔～,,잡일꾼이라면 맡겨줄 수 있는데?,"Ich hätte da vielleicht einen Job für
 dich."
 43092,,Mi aiuterai nel mio prossimo caso?,下次能幫我處理委託嗎？,,다음에 의뢰를 도와줄래?,Hilfst du mir bei meinem nächsten Fall?
 41093,,Grazie!,謝謝！,,고마워!,Danke!

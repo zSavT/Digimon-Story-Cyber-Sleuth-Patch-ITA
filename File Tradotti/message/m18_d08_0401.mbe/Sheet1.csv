@@ -11,7 +11,7 @@ Allora perché non ti fermi anche tu, Nokia?","但是，如果有危險……
 喂，小「諾奇雅」，妳也來阻止他們吧？",,"하지만, 만약, 위험한 거라면…
 저기,「노키아」도 말려 줘","Aber wenn es gefährlich ist ...
 Warum bleibst du dann nicht auch stehen, Nokia?"
-5,4960,,"No... Va già tutto bene!","嗯～
+5,4960,,No... Va già tutto bene!,"嗯～
 沒～問題、沒～問題♪",,"으~응…
 괜찮아, 괜찮아♪","Nein ...
 Es ist schon in Ordnung!"
@@ -35,7 +35,7 @@ Du kommst auch mit, oder, [p]?"
 12,3002,,Questa luce!,這、這道光是……,,"이, 이 빛은…",Dieses Licht!
 13,3003,,Impossibile ...,該不會……,,설마…,Unmöglich ...
 14,4835,,Ne siete sicuri?,真的要去嗎？,,―괜찮겠니?,Seid ihr euch da sicher?
-15,4835,,"Oltre questa luce giace il passato...",過去、在那道光的對面沈睡著……,,"그 빛의 건너편에는, 과거가 잠들어 있어…","Jenseits dieses Lichts schlummert die
+15,4835,,Oltre questa luce giace il passato...,過去、在那道光的對面沈睡著……,,"그 빛의 건너편에는, 과거가 잠들어 있어…","Jenseits dieses Lichts schlummert die
 Vergangenheit ..."
 16,4835,,Il lungo... dimenticato... passato.,失落的——被遺忘的、過去。,,"잃어버린― 잊혀진, 과거가",Die lange ... vergessene ... Vergangenheit.
 17,3003,,Mio ... fratello?!,哥……哥哥！？,,오… 오빠!?,Mein ... Bruder?!
@@ -75,8 +75,8 @@ Non voglio mettervi in pericolo.","我不能說得太清楚……
 因為我不想讓悠子你們遇到危險……",,"…자세한 건 말할 수 없어
 너희들을 위험에 빠뜨리고 싶지 않으니까…","Ich sage euch nicht, wo.
 Ich möchte euch nicht in Gefahr bringen."
-30,3036,,È comunque un luogo nel Mondo Digitale.,我只能說，是在「數碼世界的某個地方」。,,"「디지털 월드의 어느 장소」라고만, 말해 둘게",Es ist jedenfalls ein Ort in der Digitalen Welt.
-31,3002,,Nel Mondo Digitale!,數碼世界……！,,디지털 월드…!,In der Digitalen Welt!
+30,3036,,È comunque un luogo nel Digi World.,我只能說，是在「數碼世界的某個地方」。,,"「디지털 월드의 어느 장소」라고만, 말해 둘게",Es ist jedenfalls ein Ort in der Digitalen Welt.
+31,3002,,Nel Digi World!,數碼世界……！,,디지털 월드…!,In der Digitalen Welt!
 32,3036,,E da lì...,我一直在那個地方——,,"그 장소에서, 난―",Und von dort aus ...
 33,3036,,... ho badato a tutti voi.,關心著你們。,,너희들을 지켜보고 있었어,... habe ich auf euch alle aufgepasst.
 34,3036,,"A volte mi sono mostrato, credo.
@@ -95,16 +95,16 @@ che il Eater aveva digitalizzato.","那是侵食者將我
 「記憶的片斷」數碼化的產物。",,"…그건, 내「기억의 단편」을
 이터가 디지털화한 거야","Das war ein Fragment meines Gedächtnisses, das der
 Verschlinger digitalisiert hatte."
-37,3036,,"Siete ora convinti che io non sia un vero fantasma?",真面目不是幽靈，妳放心了嗎？,,"정체가 유령이 아니라서, 안심했니?","Seid ihr jetzt überzeugt, dass ich kein echtes
+37,3036,,Siete ora convinti che io non sia un vero fantasma?,真面目不是幽靈，妳放心了嗎？,,"정체가 유령이 아니라서, 안심했니?","Seid ihr jetzt überzeugt, dass ich kein echtes
 Gespenst bin?"
-38,3002,,"Penso di sì. Ma chi ha paura dei fantasmi...",沒、沒有啦！我才不怕什麼幽靈咧！,,"따, 딱히? 유령 따위 무섭지 않거든요?","Ich denke schon. Aber wer hat schon Angst vor
+38,3002,,Penso di sì. Ma chi ha paura dei fantasmi...,沒、沒有啦！我才不怕什麼幽靈咧！,,"따, 딱히? 유령 따위 무섭지 않거든요?","Ich denke schon. Aber wer hat schon Angst vor
 Gespenstern ..."
 39,3003,,"Quindi, se si dice che un ragazzo in
 bianco appare ovunque appaiano i Eater...","那麼，白色少年會在
 侵食者出現的地方被目擊，是因為……",,"그럼, 이터의 출현 장소에서
 하얀 소년이 목격된다는 건…","Wenn es also heißt, ein Junge in Weiß taucht
 überall dort auf, wo Verschlinger es tun ..."
-40,3036,,"Si potrebbe dire che io sono lo stesso del Eater.",我和侵食者可以說是同樣的存在。,,"나와 이터는, 말하자면 동일 존재야","Man könnte sagen, dass ich das Gleiche bin wie die
+40,3036,,Si potrebbe dire che io sono lo stesso del Eater.,我和侵食者可以說是同樣的存在。,,"나와 이터는, 말하자면 동일 존재야","Man könnte sagen, dass ich das Gleiche bin wie die
 Verschlinger."
 41,3036,,I Eater sono tutti un grande tutt'uno.,所謂的侵食者，就是“一生萬物”。,,"이터란, ""개개이자 전체""",Die Verschlinger sind alle ein großes Ganzes.
 42,3036,,"Tutti i Eater hanno una memoria condivisa
@@ -120,14 +120,14 @@ Viceversa, non posso esistere senza di loro.","所以，有侵食者在的地方
 Umgekehrt kann ich ohne sie nicht existieren."
 45,3003,,Yuugo...,哥哥……,,오빠…,Yuugo ...
 46,3036,,Yuuko ... vuoi davvero andare?,悠子……妳真的要去嗎？,,유코… 정말로 갈 거니?,Yuuko ... willst du wirklich gehen?
-47,3036,,"Dietro questa luce si trova il Mondo Digitale...
+47,3036,,"Dietro questa luce si trova il Digi World...
 Lì ti aspetta un passato dimenticato.","這道光的前面是數碼世界——
 在那等著妳的，是失落的過去。",,"이 빛의 너머에 있는 건, 디지털 월드―
 그곳에서 기다리고 있는 건, 잃어버린 과거","Hinter diesem Licht liegt die Digitale Welt ...
 Dort erwartet dich eine vergessene Vergangenheit."
-48,3036,,"Ci vuole molto coraggio per affrontare la verità.",知道真相，需要……非常大的勇氣。,,"진실을 아는 건, 매우… 용기가 필요해","Es braucht viel Mut, um sich der Wahrheit zu
+48,3036,,Ci vuole molto coraggio per affrontare la verità.,知道真相，需要……非常大的勇氣。,,"진실을 아는 건, 매우… 용기가 필요해","Es braucht viel Mut, um sich der Wahrheit zu
 stellen."
-49,3003,,"Ho imparato ad essere coraggiosa. Da papà e da te...","我得到了非常多的勇氣。
+49,3003,,Ho imparato ad essere coraggiosa. Da papà e da te...,"我得到了非常多的勇氣。
 從爸爸和哥哥那裡……",,"전 많은 용기를 받았어요
 아빠와 오빠에게서…","Ich habe gelernt, mutig zu sein.
 Von Papa und von dir ..."

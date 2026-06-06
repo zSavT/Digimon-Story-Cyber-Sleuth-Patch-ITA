@@ -14,7 +14,7 @@ zu lösen. Viel Glück!"
 100,2000,,Forse dovremmo tornare dal cliente...,回去委託人那裡吧……,,의뢰인에게 돌아갈까…,Vielleicht sollten wir wieder zum Klienten gehen.
 150,2000,,"Oggi, concentriamoci solo sul caso in questione.",現在還是專注在眼前的委託好了……,,지금은 눈앞의 의뢰에 집중하자…,"Konzentrieren wir uns heute lieber auf
 den aktuellen Fall."
-200,3013,,"Ho sentito che hai battuto Rina e UlforceVeedramon!?","聽說你打贏
+200,3013,,Ho sentito che hai battuto Rina e UlforceVeedramon!?,"聽說你打贏
 莉娜和究極V龍獸了？",,"이야기 들었어
 리나와 알포스브이드라몬에게 이겼다면서?","Wie ich höre, hast du Rina und
 UlforceVeedramon besiegt?!"
@@ -45,7 +45,7 @@ Se sei interessato, fai pure un salto lì.","第一個對手在「Zaxon廣場」
 ist im Zaxon-Forum. Wenn du Interesse hast,
 solltest du unbedingt hingehen."
 250,1382,,Accetto la sfida!,這場戰鬥，我接下了！,,"그 승부, 받아주겠다!",Ich nehme die Herausforderung an!
-251,1751,,"Ti mostrerò la grande differenza che c'è tra noi!",讓你看看我們力量的差距！,,역량의 차이를 보여주겠다!,"Ich werde dir zeigen, wie unterschiedlich wir
+251,1751,,Ti mostrerò la grande differenza che c'è tra noi!,讓你看看我們力量的差距！,,역량의 차이를 보여주겠다!,"Ich werde dir zeigen, wie unterschiedlich wir
 sind!"
 300,3013,,"Sembra che tu abbia battuto Magnamon.
 Bene, allora, prossimo passo... vai al Tokyo Metropolitan Office.
@@ -56,7 +56,7 @@ Di sicuro non resterai deluso!","看來你連金甲龍獸也打贏了呢。
 분명 너도 만족할 수 있을 거야","Du hast also Magnamon besiegt. Na schön.
 Geh als Nächstes zum Tokioer Metropolitan-
 Gebäude. Du wirst nicht enttäuscht werden!"
-350,1739,,"Sono un maestro della strategia. Assaggia questo!",讓你嘗嘗我崇高智謀的厲害！,,나의 숭고한 수많은 지략들을 충분히 맛보아라!,"Ich bin ein Meister der Strategie.
+350,1739,,Sono un maestro della strategia. Assaggia questo!,讓你嘗嘗我崇高智謀的厲害！,,나의 숭고한 수많은 지략들을 충분히 맛보아라!,"Ich bin ein Meister der Strategie.
 Mal sehen, wie dir das schmeckt!"
 400,3013,,"Sembra che tu abbia battuto Leopardmon.
 Bene, allora, il prossimo... vai a Kowloon Lv. 5.
@@ -133,10 +133,10 @@ Mi stai dicendo che hai battuto questi tre? ...
 설마 정말로 그 3마리를 이기다니… 굉장해","Omnimon, Alphamon und Gallantmon ...
 Willst du mir sagen, du hast die drei besiegt?
 ... Das ist unglaublich!"
-901,3013,,"Sono sicuro che abbatterai Imperialdramon senza problemi...",這樣你一定也可以打贏帝皇龍甲獸的……,,"너라면 분명
+901,3013,,Sono sicuro che abbatterai Imperialdramon senza problemi...,這樣你一定也可以打贏帝皇龍甲獸的……,,"너라면 분명
 황제드라몬도 쓰러뜨릴 수 있을 거야…","Du wirst Imperialdramon sicher ohne Probleme aus
 dem Weg räumen ..."
-902,3013,,È nel Mondo Digitale. Vai a fargli vedere di che pasta sei fatto!,"它就在數碼世界，
+902,3013,,È nel Digi World. Vai a fargli vedere di che pasta sei fatto!,"它就在數碼世界，
 讓它瞧瞧你的實力吧！",,"그는 디지털 월드에 있어
 너의 힘을 보여줘!","Er ist in der Digitalen Welt. Zeig ihm, was du kannst!"
 950,1420,,"Mi piacerebbe ammirare le tue abilità di combattimento.

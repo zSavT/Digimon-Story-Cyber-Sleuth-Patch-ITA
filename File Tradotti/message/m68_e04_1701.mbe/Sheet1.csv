@@ -1,9 +1,9 @@
 ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
-1,1022,,"...Spero che le mie ultime parole li abbiano raggiunti.",……你有聽到我最後的話吧？,,"……마지막 말, 들렸을까","Ich hoffe, sie haben gehört, was ich als Letztes
+1,1022,,...Spero che le mie ultime parole li abbiano raggiunti.,……你有聽到我最後的話吧？,,"……마지막 말, 들렸을까","Ich hoffe, sie haben gehört, was ich als Letztes
 gesagt habe."
 2,1392,,"Li hanno raggiunti, ne sono sicuro.",一定有聽到吧？,,"들렸을 거야, 틀림없이","Ich bin mir sicher, dass sie es gehört haben."
 3,2020,,...?!,……！？,,……!?,...?!
-4,3045,,"...Davvero non riesci a dire addio in modo sincero?",……真是的，你沒辦法坦率的說再見嗎？,,……정말. 순순히 작별하지 못하겠니? 너,"Hättest du dich nicht einfach verabschieden
+4,3045,,...Davvero non riesci a dire addio in modo sincero?,……真是的，你沒辦法坦率的說再見嗎？,,……정말. 순순히 작별하지 못하겠니? 너,"Hättest du dich nicht einfach verabschieden
 können?"
 5,3045,,"Il mondo è stato riscritto, proprio come avevo detto.",我剛剛說過了吧，世界被改變了。,,말했잖아. 세계는 개변된 거야,"Die Welt hat sich gewandelt, genau, wie ich es
 gesagt hatte."
@@ -23,7 +23,7 @@ Wir können nichts dagegen tun."
 ci sono cose che possiamo fare.","……但正因為現在是改變分歧點，
 所以也有能做的事。",,……하지만 개변의 경계에 있는 지금이니까 가능한 것도 있어,"Aber es gibt da etwas, das ich tun kann, jetzt,
 wo der Wandel bevorsteht."
-10,1022,,"...Resterò Hudiemon e andrò nel Mondo Digitale.","……我將會以羽蝶獸的身分，
+10,1022,,...Resterò Hudiemon e andrò nel Digi World.,"……我將會以羽蝶獸的身分，
 去數碼世界。",,"……나는 이대로 후디에몬이 되어 
 디지털 월드로 갈게",Ich gehe als Hudiemon in die Digitale Welt.
 11,2020,,?!,！？,,!?,?!
@@ -130,7 +130,7 @@ Ich nehme dieses Schicksal nicht so hin."
 35,1022,,Per questo rinascerò, portando con me i ricordi che ho condiviso con tutti.,所以我抱著和大家共度的回憶轉生了。,,"그러니까 다시 태어나는 거야.
 모두와 보낸 이 기억을 끌어안은 채로","Also werde ich neu geboren und die Erinnerungen
 von allen behalten."
-36,1022,,"E andrò nel Mondo Digitale. Vedrò cose mai viste,
+36,1022,,"E andrò nel Digi World. Vedrò cose mai viste,
 vivrò avventure e imparerò un sacco di cose che non so.","然後在數碼世界裡四處冒險，
 見識從來沒見識過的事物，得到很多不懂的知識。",,"그리고 디지털 월드에서 아직 본 적 없는 것을 보고
 모험해서 모르는 것도 잔뜩 알 거야","Und ich werde zur Digitalen Welt gehen, um ganz 
@@ -152,12 +152,12 @@ Ti hanno seguito fin qui?","那個是哥哥和千歲的……！
 他們是跟著[p]追過來的嗎？",,"저건 오빠와 치토세의……!
 [p]의 뒤를 따라 쫓아온 거야?","Die Digimon von meinem Bruder und Chitose!
 Sind sie dir hierher gefolgt?"
-46,1022,,"Ah... ahahah! Questo significa che qui nasce la nuova Hudie?","哈……哈哈哈！　也就是說，
+46,1022,,Ah... ahahah! Questo significa che qui nasce la nuova Hudie?,"哈……哈哈哈！　也就是說，
 新hudie在此誕生了嗎？",,"아… 아하하! 신생 후디에, 여기에 결성이란 뜻?","Hahaha! Dies ist also die Geburt eines neuen
 Hudie?"
 47,1022,,Grazie.,……謝謝。,,……고마워,Danke.
 48,1022,,"Allora diventeremo tutti delle avanguardie per proteggere il
-Mondo Digitale dalle minacce?
+Digi World dalle minacce?
 ...Scherzo, eheh.","這麼一來，大家就成為了守護
 數碼世界的先鋒了嗎？
 ……說笑的，呵呵。",,"그럼 다 같이 디지털 월드를 위협으로부터 지키는
@@ -172,7 +172,7 @@ gedacht, hihi!"
 fehlen werden."
 53,1392,,Non ti dirò addio.,我不會說再見的。,,안녕이라고는 하지 않을게,Ich werde mich nicht verabschieden.
 54,1392,,"Anche se il mondo verrà riscritto...
-il Mondo Digitale e il vostro mondo saranno sempre connessi da qualche parte.
+il Digi World e il vostro mondo saranno sempre connessi da qualche parte.
 Perciò...","就算世界改變了……數碼世界和你們的世界，
 一定會在某個地方連接著，所以──",,"세계가 바뀌어도…… 디지털 월드와 너희들의 세계는
 어딘가에서 이어져 있어. 그러니까――","Selbst wenn sich diese Welt verändert hat, wird

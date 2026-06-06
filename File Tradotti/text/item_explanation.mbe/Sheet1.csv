@@ -40,31 +40,31 @@ wieder her (gilt für kämpfende Digimon)."
 （戰鬥時僅限戰鬥成員）",,"아군 전체의 HP와 SP를 완전 회복한다.
 (배틀 시 배틀 멤버 한정)","Stellt alle TP & SP aller Verbündeten
 wieder her (gilt für kämpfende Digimon)."
-14,,"Rimuove Veleno da un alleato e ripristina 100 HP.","解除我方單體的劇毒
+14,,Rimuove Veleno da un alleato e ripristina 100 HP.,"解除我方單體的劇毒
 並回復100HP",,"아군 1마리의 맹독을 해제하고
 HP를 100 회복한다.","Hebt bei einem Verbündeten Gift auf
 und stellt 100 TP wieder her."
-15,,"Rimuove Confusione da un alleato e ripristina 100 HP.","解除我方單體的混亂
+15,,Rimuove Confusione da un alleato e ripristina 100 HP.,"解除我方單體的混亂
 並回復100HP",,"아군 1마리의 혼란을 해제하고
 HP를 100 회복한다.","Hebt bei einem Verbündeten Verwirrung
 auf und stellt 100 TP wieder her."
-16,,"Rimuove Paralisi da un alleato e ripristina 100 HP.","解除我方單體的麻痺
+16,,Rimuove Paralisi da un alleato e ripristina 100 HP.,"解除我方單體的麻痺
 並回復100HP",,"아군 1마리의 마비를 해제하고
 HP를 100 회복한다.","Hebt bei einem Verbündeten Lähmung auf
 und stellt 100 TP wieder her."
-17,,"Rimuove Sonno da un alleato e ripristina 100 HP.","解除我方單體的睡眠
+17,,Rimuove Sonno da un alleato e ripristina 100 HP.,"解除我方單體的睡眠
 並回復100HP",,"아군 1마리의 수면을 해제하고
 HP를 100 회복한다.","Hebt bei einem Verbündeten Schlaf auf
 und stellt 100 TP wieder her."
-18,,"Rimuove Stordimento da un alleato e ripristina 100 HP.","解除我方單體的暈眩
+18,,Rimuove Stordimento da un alleato e ripristina 100 HP.,"解除我方單體的暈眩
 並回復100HP",,"아군 1마리의 스턴을 해제하고
 HP를 100 회복한다.","Hebt bei einem Verbündeten Betäubung auf
 und stellt 100 TP wieder her."
-19,,"Rimuove Dot da un alleato e ripristina 100 HP.","解除我方單體的液晶化
+19,,Rimuove Dot da un alleato e ripristina 100 HP.,"解除我方單體的液晶化
 並回復100HP",,"아군 1마리의 액정화를 해제하고
 HP를 100 회복한다.","Hebt bei einem Verbündeten Verpixelung
 auf und stellt 100 TP wieder her."
-20,,"Rimuove Bug da un alleato e ripristina 100 HP.","解除我方單體的Bug
+20,,Rimuove Bug da un alleato e ripristina 100 HP.,"解除我方單體的Bug
 並回復100HP",,"아군 1마리의 버그를 해제하고
 HP를 100 회복한다.","Hebt bei einem Verbündeten Fehler auf
 und stellt 100 TP wieder her."
@@ -78,11 +78,11 @@ combattenti e ripristina 100 HP.","解除全體戰鬥成員的異常狀態
 並回復100HP",,"배틀 멤버 전체의 상태이상을 해제하고
 HP를 100 회복한다.","Heilt alle Verbündeten von Statusleiden
 und stellt 100 TP wieder her."
-23,,"Rianima un alleato con  il 50% degli HP massimi.","回復我方單體的無法戰鬥狀態
+23,,Rianima un alleato con  il 50% degli HP massimi.,"回復我方單體的無法戰鬥狀態
 並回復50%HP",,"아군 1마리의 전투불능을 회복하고
 HP를 50% 회복한다.","Belebt einen Verbündeten mit 50 % der
 maximalen TP wieder."
-24,,"Riporta in vita un alleato con HP al massimo.","回復我方單體的無法戰鬥狀態
+24,,Riporta in vita un alleato con HP al massimo.,"回復我方單體的無法戰鬥狀態
 並回復所有HP",,"아군 1마리의 전투불능을 회복하고
 HP를 완전 회복한다.","Belebt einen Verbündeten mit vollen TP
 wieder."
@@ -140,9 +140,9 @@ zurückkehren."
 58,,"Riporta immediatamente il gruppo all'entrata del
 dungeon.",瞬間返回迷宮的入口,,순식간에 던전 입구로 돌아간다.,"Bringt die Gruppe zum Dungeon-Eingang
 zurück."
-60,,"Un Digi-Uovo inciso con uno stemma coraggioso.",刻有勇氣徽章的數碼裝甲,,용기의 문장이 새겨진 디지멘탈,"Ein Digi-Ei, in das ein Tapferkeitswappen
+60,,Un Digi-Uovo inciso con uno stemma coraggioso.,刻有勇氣徽章的數碼裝甲,,용기의 문장이 새겨진 디지멘탈,"Ein Digi-Ei, in das ein Tapferkeitswappen
 eingraviert ist."
-61,,"Un DigiUovo inciso con un stemma miracoloso.",刻有奇蹟徽章的數碼裝甲,,기적의 문장이 새겨진 디지멘탈,"Ein Digi-Ei, in das ein Wunderwappen
+61,,Un DigiUovo inciso con un stemma miracoloso.,刻有奇蹟徽章的數碼裝甲,,기적의 문장이 새겨진 디지멘탈,"Ein Digi-Ei, in das ein Wunderwappen
 eingraviert ist."
 62,,Un DigiUovo inciso con lo stemma del destino.,刻有命運徽章的數碼裝甲,,운명의 문장이 새겨진 디지멘탈,"Ein Digi-Ei, in das ein Schicksalswappen
 eingraviert ist."
@@ -251,7 +251,7 @@ un Digimon.","稍微降低單體數碼寶貝
 強化後的最大HP",,"디지몬 1마리의
 강화한 최대 HP를 약간 떨어뜨린다.","Reduziert leicht die erhöhten max. TP
 eines Digimon."
-111,,"Riduce gli HP massimi potenziati di un Digimon.","降低單體數碼寶貝
+111,,Riduce gli HP massimi potenziati di un Digimon.,"降低單體數碼寶貝
 強化後的最大HP",,"디지몬 1마리의
 강화한 최대 HP를 떨어뜨린다.","Reduziert die erhöhten max. TP
 eines Digimon."
@@ -280,7 +280,7 @@ un Digimon.","稍微降低單體數碼寶貝
 強化後的ATK",,"디지몬 1마리의
 강화한 공격력을 약간 떨어뜨린다.","Reduziert leicht den erhöhten ANG-Wert
 eines Digimon."
-117,,"Riduce l'ATK potenziato di un Digimon.","降低單體數碼寶貝
+117,,Riduce l'ATK potenziato di un Digimon.,"降低單體數碼寶貝
 強化後的ATK",,"디지몬 1마리의
 강화한 공격력을 떨어뜨린다.","Reduziert den erhöhten ANG-Wert
 eines Digimon."
@@ -294,7 +294,7 @@ un Digimon.","稍微降低單體數碼寶貝
 強化後的DEF",,"디지몬 1마리의
 강화한 방어력을 약간 떨어뜨린다.","Reduziert den erhöhten VER-Wert
 eines Digimon."
-120,,"Riduce la DEF potenziata di un Digimon.","降低單體數碼寶貝
+120,,Riduce la DEF potenziata di un Digimon.,"降低單體數碼寶貝
 強化後的DEF",,"디지몬 1마리의
 강화한 방어력을 떨어뜨린다.","Reduziert deutlich den erhöhten VER-Wert
 eines Digimon."
@@ -308,7 +308,7 @@ un Digimon.","稍微降低單體數碼寶貝
 強化後的INT",,"디지몬 1마리의
 강화한 지력을 약간 떨어뜨린다.","Reduziert leicht den erhöhten INT-Wert
 eines Digimon."
-123,,"Riduce l'INT potenziata di un Digimon.","降低單體數碼寶貝
+123,,Riduce l'INT potenziata di un Digimon.,"降低單體數碼寶貝
 強化後的INT",,"디지몬 1마리의
 강화한 지력을 떨어뜨린다.","Reduziert den erhöhten INT-Wert
 eines Digimon."
@@ -322,11 +322,11 @@ un Digimon.","稍微降低單體數碼寶貝
 強化後的SPD",,"디지몬 1마리의
 강화한 민첩을 약간 떨어뜨린다.","Reduziert leicht den erhöhten GES-Wert
 eines Digimon."
-126,,"Riduce la SPD potenziata di un Digimon.","降低單體數碼寶貝
+126,,Riduce la SPD potenziata di un Digimon.,"降低單體數碼寶貝
 強化後的SPD",,"디지몬 1마리의
 강화한 민첩을 떨어뜨린다.","Reduziert den erhöhten GES-Wert
 eines Digimon."
-127,,"Riduce notevolmente la SPD potenziata di un Digimon.","大幅降低單體數碼寶貝
+127,,Riduce notevolmente la SPD potenziata di un Digimon.,"大幅降低單體數碼寶貝
 強化後的SPD",,"디지몬 1마리의
 강화한 민첩을 크게 떨어뜨린다.","Reduziert deutlich den erhöhten GES-Wert
 eines Digimon."
@@ -1265,7 +1265,7 @@ Cosa succederà quando li avrai raccolti tutti?","七大魔王之一的莉莉絲
 打倒所有魔王，湊齊七個碎片後將會……？",,"7대 마왕 중 하나, 리리스몬의 몸조각.
 모든 마왕을 물리치고 파편을 일곱 개 모으면…?","Lilithmon-Fragment (7 Dämonenkönige).
 Was passiert, wenn du sie alle sammelst?"
-629,,"Frammento di Lucemon (7 Digimon Demoniaci).
+629,,"Frammento di Lucemon (Seven Great Demon Lords).
 Cosa succederà quando li avrai raccolti tutti?","七大魔王之一的光明獸身體的碎片
 打倒所有魔王，湊齊七個碎片後將會……？",,"7대 마왕 중 하나, 루체몬의 몸조각.
 모든 마왕을 물리치고 파편을 일곱 개 모으면…?","Lucemon-Fragment (7 Dämonenkönige).
@@ -1280,7 +1280,7 @@ Cosa succederà quando li avrai raccolti tutti?","七大魔王之一的利維坦
 打倒所有魔王，湊齊七個碎片後將會……？",,"7대 마왕 중 하나, 리바이어몬의 몸조각.
 모든 마왕을 물리치고 파편을 일곱 개 모으면…?","Leviamon-Fragment (7 Dämonenkönige).
 Was passiert, wenn du sie alle sammelst?"
-632,,"Frammento di Belphemon (7 Digimon Demoniaci).
+632,,"Frammento di Belphemon (Seven Great Demon Lords).
 Cosa succederà quando li avrai raccolti tutti?","七大魔王之一的貝爾菲獸身體的碎片
 打倒所有魔王，湊齊七個碎片後將會……？",,"7대 마왕 중 하나, 벨페몬의 몸조각.
 모든 마왕을 물리치고 파편을 일곱 개 모으면…?","Belphemon-Fragment (7 Dämonenkönige).
@@ -5466,13 +5466,12 @@ una pasta di fagioli di soia schiacciati. /Accessorio","賞月時獻給月亮的
 搭上毛豆泥的樣式／飾品",,"대보름에 달님에게 올리는 경단. 즌다맛
 즌다는 풋콩을 으깬 페이스트를 의미 /액세서리","Ein Kloß für den Mond.
 Mit Sojabohnen-Paste. /Accessoire"
-14001,,"Cappello da studioso dell'Accademia del Mondo Digitale.
+14001,,"Cappello da studioso dell'Accademia del Digi World.
 Indossalo per sembrare intelligente. /Accessorio","據說是數碼世界大學的博士帽。
 戴上就會看來很聰明／飾品",,"디지털 월드 대학의 것이라고 생각되는 박사 모자.
 쓰면 현명해 보인다 /액세서리","Gelehrten-Hut der Akademie der Digitalen
 Welt. Damit wirkst du klug. /Accessoire"
-14101,,"Cappello da studioso dell'Accademia del Mondo
-Digitale. Si dice sia per tipi premium. /Accessorio","據說是數碼世界大學的博士帽。
+14101,,Cappello da studioso dell'Accademia del Digi World. Si dice sia per tipi premium. /Accessorio,"據說是數碼世界大學的博士帽。
 謠傳相當高級／飾品",,"디지털 월드 대학의 것이라고 생각되는 박사 모자.
 상당한 고급품이라는 소문도 /액세서리","Gelehrten-Hut der Akademie der Digitalen
 Welt. Für Überflieger. /Accessoire"

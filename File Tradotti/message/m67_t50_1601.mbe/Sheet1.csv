@@ -1,9 +1,9 @@
 ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
-1,3045,,"Allora raccontami qualcos'altro.\nForse così ti crederò.","……再跟我說具體一點啦。
+1,3045,,Allora raccontami qualcos'altro.\nForse così ti crederò.,"……再跟我說具體一點啦。
 這樣的話，我說不定就會相信你了。",,"……그렇다면 좀 더 구체적으로 말해줘.
 그러면 믿을 마음이 들 지도 모르잖아","Also erzähl mir mehr darüber.
 Dann glaube ich dir vielleicht."
-2,1392,,"Ok! Da dove comincio?",可以啊！剛剛講到哪邊了？,,좋아유! 그럼 어디부터 이야기할까유?,Okay! Wo soll ich anfangen?
+2,1392,,Ok! Da dove comincio?,可以啊！剛剛講到哪邊了？,,좋아유! 그럼 어디부터 이야기할까유?,Okay! Wo soll ich anfangen?
 3,3045,,"Hehe, vediamo... Com'è la spiaggia dei Link?","呵呵，我想想喔……
 超連結的海灘是個什麼樣的地方？",,"후후, 그러면……
 링크의 해변이라는건 어떤 곳이야?","Hehe, nun ... Wie ist es so am Strand der Links?"
@@ -12,7 +12,7 @@ Sulla riva si trova ogni sorta di cose portate dal mare elettromagnetico.","在�
 會從電磁的海面上漂過來各式各樣的漂流物喔。",,"링크의 해변에는 말이쥬.
 전자의 바다에서 여러가지 표류물이 흘러들어와유","Ah, der Strand der Links. Alles Mögliche wird
 dort vom elektromagnetischen Meer angespült."
-5,1392,,"Scatole mai viste e a volte persino degli edifici.",沒看過的箱子之類的，就連建築物也會漂來過喔。,,본 적도 없는 상자나 건물까지 흘러드는 경우도 있어유,Merkwürdige Kisten und manchmal Gebäude.
+5,1392,,Scatole mai viste e a volte persino degli edifici.,沒看過的箱子之類的，就連建築物也會漂來過喔。,,본 적도 없는 상자나 건물까지 흘러드는 경우도 있어유,Merkwürdige Kisten und manchmal Gebäude.
 6,1392,,"Vicino alla spiaggia c'è un bosco che conduce a
 una valle piena di edifici. In questo bosco...","在海灘的附近呀，
 有個大樓林立的山谷，那邊還有一個森林……
@@ -34,14 +34,14 @@ möchte ich ihn unbedingt sehen."
 12,3045,,"No, scherzavo.",開玩笑的……,,"뭐 그냥, 농담……","Nö, war nur ein Scherz."
 13,1392,,Andiamo!,走吧！,,가봐유!,Gehen wir!
 14,3045,,Cosa?,咦？,,어?,Was?
-15,1392,,"Vieni con me nel Mondo Digitale!
+15,1392,,"Vieni con me nel Digi World!
 Hudie è un team di hacker, no?","艾莉卡也一起去數碼世界吧！
 雖然還不太了解，
 但hudie是駭客團隊對不對？",,"에리카도 같이 디지털 월드로 가유!
 아직 잘 모르겠지만
 후디에란 건 해커팀이쥬?","Komm mit mir in die Digitale Welt. Hudie
 ist schließlich ein Hackerteam, oder nicht?"
-16,1392,,"Se un team di hacker così forte andasse nel Mondo Digitale,
+16,1392,,"Se un team di hacker così forte andasse nel Digi World,
 saremmo invincibili!","如果很厲害的駭客團隊去了數碼世界，
 一定會天下無敵的！",,"디지털 월드에 솜씨 좋은 해커팀이 가면
 분명 무적이에유!","Stell dir vor, wie genial es wäre, wenn so ein
@@ -54,13 +54,13 @@ wo sie sich befindet."
 但是，一定過不久就會找得到的！",,"그야 아직 돌아갈 방법은 모르겠지만……
 그래도 조만간 분명 발견될 거예유!","Noch haben wir den Rückweg nicht gefunden,
 aber eines Tages stoßen wir bestimmt darauf!"
-19,1392,,"Perché il Mondo Digitale esiste davvero, questo è certo!",因為數碼世界是真實存在的喔！,,왜냐면 디지털 월드는 진짜로 있으니까유!,"Immerhin existiert die Digitale Welt, 
+19,1392,,"Perché il Digi World esiste davvero, questo è certo!",因為數碼世界是真實存在的喔！,,왜냐면 디지털 월드는 진짜로 있으니까유!,"Immerhin existiert die Digitale Welt, 
 so viel steht fest!"
 20,3045,,...,…………,,…………,...
 21,3045,,"...Già. Se lo trovassimo, non sarebbe male.","……應該吧。
 如果真的找到的話，或許也不錯呢。",,"……그러네.
 혹시 진짜 발견하면 그것도 좋을지도","Es wäre wirklich großartig, wenn wir sie fänden."
-22,1392,,"Sì! E ti farò da guida!",對啊！這樣的話換我在那邊帶路！,,물론이에유! 그러면 지가 저쪽을 안내할게유!,Ja! Und dann kann ich dir alles zeigen!
+22,1392,,Sì! E ti farò da guida!,對啊！這樣的話換我在那邊帶路！,,물론이에유! 그러면 지가 저쪽을 안내할게유!,Ja! Und dann kann ich dir alles zeigen!
 23,1392,,"E se appare un Digimon spaventoso, mi proteggerai, vero?","那如果有恐怖的數碼寶貝出現的話――
 妳要保護我喔？",,"그 대신 무서운 디지몬이 나오면――
 지를 지켜주셔야 해유?","Und wenn ein Furcht einflößendes Digimon
@@ -79,7 +79,7 @@ incontrare persone nuove...","任誰都不知道的世界，
 모르는 사람을 만나고……","In eine unbekannte Welt zu reisen, Entdeckungen
 zu machen, neuen Leuten zu begegnen ..."
 27,3045,,"Io, che non sono ancora del tutto arrivata in questo mondo...
-se potessi vivere un'avventura nel Mondo Digitale...","就連理所當然的事情都辦不到的我。
+se potessi vivere un'avventura nel Digi World...","就連理所當然的事情都辦不到的我。
 如果能去遙遠的世界――去數碼世界冒險的話……",,"평범하게 살아가는 것조차 힘든 내가
 먼 세계를―― 디지털 월드를 모험할 수 있다면……","Ich weiß, ich bin noch nicht einmal ganz in dieser
 Welt angekommen, aber ich hätte trotzdem Lust auf
@@ -93,7 +93,7 @@ non ho il diritto di dire una cosa simile.","我害哥哥那麼痛苦，
 沒有資格去說這些。",,"오빠를 저렇게 괴롭혀온 내가
 그런 것을 말할 자격은 없어","Nach allem, was ich meinem Bruder zugemutet habe,
 habe ich kein Recht, solche Sachen zu sagen."
-33,7070,,"Vivere un'avventura... scoprire cose nuove...","想要去冒險這種話――
+33,7070,,Vivere un'avventura... scoprire cose nuove...,"想要去冒險這種話――
 想要知道更多事物這種話。",,"모험을 떠나고 싶다고――
 좀 더 많은 것을 보고 싶다고","Ein Abenteuer in der Digitalen Welt ...
 Entdeckungen zu machen ..."
