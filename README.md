@@ -243,9 +243,13 @@ Nella cartella "_dist_", è presente l'eseguibile (la versione per Linux non ha 
 
 # Altri progetti di traduzione realizzati da me
 [Valkyria Chronicles Patch ITA](https://github.com/zSavT/Valkyria-Chronicles-Patch-ITA)
+
 [Yakuza 4 Patch ITA](https://github.com/zSavT/Yakuza4-Patch-ITA)
+
 [Yakuza 5 Patch ITA](https://github.com/zSavT/Yakuza5-Patch-ITA)
+
 [Yakuza 6 Patch ITA](https://github.com/zSavT/Yakuza6-Patch-ITA)
+
 [SoulFlow Patch ITA](https://github.com/zSavT/SoulFlow-Patch-ITA)
 
 
