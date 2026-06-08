@@ -43,14 +43,14 @@ Qui sotto sono riportati i progressi attuali del progetto:
   - Altro: ![98%](https://progress-bar.xyz/98)
   - Texture: ![0%](https://progress-bar.xyz/0)
 
-**Revisione e adattamento manuale dei testi (versione patch 1.5.1):**
+**Revisione e adattamento manuale dei testi (versione patch 1.9):**
 
 Le percentuali qui sotto fanno riferimento alla revisione manuale dei testi, la percentuale "mancante" è stata comunque tradotta nella pre-traduzione.
   - Storia Cyber Sleuth: ![100%](https://progress-bar.xyz/100)
-  - Storia Hacker's Memory: ![35%](https://progress-bar.xyz/35)
+  - Storia Hacker's Memory: ![41%](https://progress-bar.xyz/41)
   - Quest: ![96%](https://progress-bar.xyz/96)
   - DigiBook: ![100%](https://progress-bar.xyz/100)
-  - DigiLine: ![92%](https://progress-bar.xyz/92)
+  - DigiLine: ![93%](https://progress-bar.xyz/93)
   - Dialoghi NPC: ![95%](https://progress-bar.xyz/95)
   - Abilità, Oggetti ...: ![99%](https://progress-bar.xyz/99)
   - Menu: ![100%](https://progress-bar.xyz/100)
