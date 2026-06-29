@@ -11,7 +11,7 @@ meglio di chiunque altro?","但是啊，你的做法錯了。
 這件事……你是最瞭解的吧？",,"하지만 방식이 틀렸어.
 그건……네가 제일 잘 알지?","Aber du bist mit der Sache falsch umgegangen. Du
 weißt das doch sicher am besten?"
-5,7320,,...Lo faccio.,………是啊。,,……그래,... Ja.
+5,7320,,...Sì.,………是啊。,,……그래,... Ja.
 6,7320,,"Dovrei sentirmi meglio... ma sento solo rimpianto.
 Cosa ho fatto?","我應該滿足了才對…但是，我現在只有後悔。
 我做出了什麼事情啊……",,"속이 풀렸을………텐데, 후회밖에 없어.
@@ -24,9 +24,9 @@ es nur. Was habe ich getan?"
 9,7361,,Pensi che piangere serva a qualcosa?! Assassino!,"這可不是哭就能解決的啊！
 你這殺人犯！！",,울어도 해결할 수 없잖아! 이 살인자!!,"Meinst du, es wird besser, wenn du heulst?! Du
 Mörder!"
-10,7317,,Sì! Cosa hai intenzione di fare?,對啊！　你要怎麼負責啊！！,,그래! 어떻게 해 줄 거야!!,So! Was werdet ihr unternehmen?!
+10,7317,,Sì! E come pensi di rimediare?!,對啊！　你要怎麼負責啊！！,,그래! 어떻게 해 줄 거야!!,So! Was werdet ihr unternehmen?!
 11,2020,,"Quello che ha fatto è sbagliato.
-Non hai il diritto di biasimarlo. Te lo sei meritato.","……他的確是做錯事了
+Non avete il diritto di biasimarlo. Ve lo siete meritati.","……他的確是做錯事了
 你們沒有責備他的資格，自作自受啦！",,"…확실히, 그가 한 행동은 잘못됐어
 시게노부를 책망할 자격은 없어, 자업자득이다!","Was er getan hat, war falsch.
 Er hat keine Schuld. Ihr habt es verdient."
@@ -45,9 +45,8 @@ du das nicht weißt."
 會變成這樣子，都是我們的錯。",,"……훌쩍……말하지 않아도 알아.
 이렇게 된 책임이 우리한테 있다는 것 정도는","Hmpf ... Das wissen wir. Das müsst ihr nicht
 sagen."
-18,7363,,"Lo abbiamo bullizzato e maltrattato per
-così tanto tempo. È naturale che ci odi. Mi
-dispiace, Shigenobu...","逼著你去到處跑腿，至今對你做了一堆好事，
+18,7363,,"Lo abbiamo costretto a fare di tutto per noi e lo abbiamo maltrattato.
+È naturale che ci odi. Mi dispiace, Shigenobu...","逼著你去到處跑腿，至今對你做了一堆好事，
 會被恨也是當然的啊……對不起，重信……",,"싫어하는 시게노부를 심부름꾼처럼 부려먹고, 지금까지 멋대로 굴었으니까.
 원망하는 것도 당연하지……미안, 시게노부……","Wir haben ihn so lange schikaniert und
 herumgeschubst. Es ist normal, dass er uns hasst.
@@ -72,9 +71,8 @@ Shigenobu."
 sono realmente accadute.",說是記憶，但並不是實際發生的事件紀錄。,,"기억이란 건, 실제로 일어난 것만을
 가리키는 게 아니거든","Erinnerungen sind nicht nur ein Protokoll von
 Dingen, die wirklich passiert sind."
-29,3046,,"Ho estratto la fantasia di quello che stava pianificando
-di farti, l'ho convertita in dati e l'ho ricreata
-nel Cyberspazio.","而是這傢伙，想對你們下手計畫的“想像”
+29,3046,,"Ho estratto la fantasia di ciò che stava pianificando di farvi,
+l'ho convertita in dati e ricreata nel Cyberspazio.","而是這傢伙，想對你們下手計畫的“想像”
 的記憶部份，將其取出並資料化後，
 在電腦空間上重現。",,"이 녀석이 너네들에게 시키려고 계획했던 ""공상""의
 기억을 잘라내고 데이터화해서, 전뇌공간에 실현시켰어","Ich habe seinen erdachten Plan extrahiert, ihn in
@@ -162,8 +160,8 @@ keine zweite Chance."
 ……我不會再做這種事情了。",,"그래, 알아.
 ……이제 두 번 다시, 이런 짓은 안 할게","Ich verstehe schon. Ich werde so etwas nicht
 noch mal tun."
-47,3046,,"E tu ci racconterai tutto su come tu
-e tuo padre avete avuto le talpe.","還有，你和你老爸是怎麼拿到鼴鼠的，
+47,3046,,"E tu dovrai spiegarci per filo e per segno come tu
+e tuo padre avete ottenuto le talpe.","還有，你和你老爸是怎麼拿到鼴鼠的，
 好好把過程說清楚吧。",,"그리고, 너랑 네 아버지는 두더지의 입수경로를 똑바로
 불어줘야겠어","Und du wirst uns genau sagen, wie du und dein
 Vater an die Maulwürfe gekommen seid."
@@ -181,7 +179,7 @@ davvero?","……光是在虛擬世界裡……就已經這麼痛苦了，
 현실에서 사람을 죽였다면 나……어떻게 되었을까","Wenn ich mich so schlecht fühle, obwohl es nur
 virtuell war, wie würde ich mich fühlen, wenn
 ich sie wirklich getötet hätte?"
-54,3046,,Hai passato una simulazione infernale.,還真是一個不得了的模擬體驗啊。,,엄청난 유사체험을 해버렸군,"Du hast eine wirklich mörderische Simulation
+54,3046,,"Una bella esperienza simulata, non c'è che dire.",還真是一個不得了的模擬體驗啊。,,엄청난 유사체험을 해버렸군,"Du hast eine wirklich mörderische Simulation
 mitgemacht."
 55,7320,,Grazie per avermi fermato.,"……謝謝你們阻止我。
 真的，很謝謝你們。",,"……막아줘서, 고마워.
@@ -207,8 +205,7 @@ ripeteranno la terza elementare.""","「當然，不可以作弊。
  망친 녀석이 있을 때는 전원 유급」……이라는데","„Wenn jemand beim Schummeln erwischt wird,
 müssen alle die 3. Klasse wiederholen.“"
 60,7321,,Cosa?!,咦～～！？,,뭐~~!?,Was?!
-61,3046,,"Cosa vuoi dire con ""cosa""? Direi che è fin troppo
-indulgente.",咦～～什麼咦！　這不是理所當然的嗎。,,"뭐~, 가 아니지! 당연하잖냐","Was meint ihr? Ich finde, ihr kommt glimpflich
+61,3046,,"Altro che ""cosa""?! È il minimo!",咦～～什麼咦！　這不是理所當然的嗎。,,"뭐~, 가 아니지! 당연하잖냐","Was meint ihr? Ich finde, ihr kommt glimpflich
 davon."
 62,7363,,"Immagino che fare esami di recupero e ripetere la
 terza elementare non siano niente in confronto all'essere morti.","……唉，補考也好，留級也罷。

@@ -1,39 +1,40 @@
 ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
-1,3047,,"Scusa se ti ho fatto venire fin qui,
-ma non posso fare pause troppo lunghe dal lavoro.","抱歉，還讓你特地跑來這裡。
+1,3047,,"Scusa se ti ho fatto venire fin qui, ma non
+posso fare pause troppo lunghe dal lavoro.","抱歉，還讓你特地跑來這裡。
 工作的時候不太能離開崗位呢。",,"미안한걸, 일부러 오라고 해서.
 일하고 있을 때는 나가기가 어렵거든","Entschuldige, dass du so weit herkommen musstest,
 aber ich kann bei der Arbeit nicht so lange
 Pausen einlegen."
 2,2020,,Hm?,？？,,??,Hm?
-3,3047,,Tu credi che il lavoretto per Hudie sia il mio unico lavoro?,你說我不是在hudie打工的嗎？,,후디에에서 알바하는 거 아니냐고?,"Du glaubst, der Nebenjob für Hudie wäre
+3,3047,,Pensi che il lavoretto per Hudie sia il mio unico lavoro?,你說我不是在hudie打工的嗎？,,후디에에서 알바하는 거 아니냐고?,"Du glaubst, der Nebenjob für Hudie wäre
 meine einzige Arbeit?"
-4,3047,,Sbagliato! Sono un tecnico... Tecnico! Do una mano lì solo quando posso!,"才不是咧！！我可是工程師喔，工程師！
+4,3047,,"Niente affatto! Sono un tecnico... un tecnico!
+Lì do solo una mano quando posso!","才不是咧！！我可是工程師喔，工程師！
 店裡的打工只不過是在幫忙而已！",,"아니야! 엔지니어야 엔지니어!
 가게 알바는 그냥 도와주는 거야!","Falsch! Ich bin Techniker ... Techniker!
 Ich helfe dort nur aus, wenn ich kann!"
-5,3047,,"Ryuji ed Erika gestiscono il negozio in modo un po' approssimativo, no?
+5,3047,,"Ryuji ed Erika gestiscono il negozio in modo un po' approssimativo, non trovi?
 Ci sono sempre buchi nei turni e finisco per dover dare una mano io.","小姐也好龍司也好，該說對店裡的經營
 態度過於隨便呢……不，應該算放任吧？
 常常會沒人值班，我才好心幫忙的喔。",,"아가씨도 류지도 가게 운영은 건성이라고 할지… 대충이잖아?
 자주 알바 자리가 비니까 어쩔 수 없이 돕고 있는 거야","Ryuji und Erika halten den Laden mehr schlecht als
 recht zusammen, nicht wahr? Immer sind Lücken im
 Personalplan und ich muss dauernd aushelfen."
-6,3047,,"Non è che lo faccio perché le ragazze part-time mi chiedono di sostituirle con gli occhi dolci...
-Chiaro?","絕對不是因為被打工妹妹
+6,3047,,"E non è assolutamente perché le ragazze mi chiedono con
+gli occhi dolci di fare il cambio turno... Chiaro?","絕對不是因為被打工妹妹
 用撒嬌的語氣說「幫人家代班☆」
 ……絕對不是因為這樣！",,"딱히 알바 양이「바꿔줘♥」하고
 부탁해서… 같은 이유가 아니라니까","Ich geh nicht bei den Teilzeitlern hausieren und
 frag, ob ich ihre Schichten übernehmen darf.
 Klaro?"
-7,3047,,"Mi sono detto che sarebbe stato un guaio se il nostro team avesse perso
+7,3047,,"Ho pensato che sarebbe stato un guaio se il nostro team avesse perso
 il suo punto di ritrovo, così sono intervenuto. Capito?","我是想到如果隊伍的據點不見會很麻煩，
 才特地到店裡幫忙值班的喔，嗯。",,"팀 아지트가 없어지면 난처할거라고 생각해서
 특별히 가게를 지키고 있는 거지, 응","Ich hab' mir gedacht, es wäre übel, wenn 
 unser Team seinen Treffpunkt verlieren würde,
 also bin ich eingesprungen. Kapiert?"
 8,3047,,"Allora, cosa vuoi da me?",所以？你找我有什麼事？,,그런데? 무슨 일이야?,"Also, was willst du von mir?"
-9,3047,,"L'unità investigativa per la criminalità informatica?
+9,3047,,"L'Unità Investigativa Crimini Informatici?
 Sul serio? Non di nuovo il negozio di Matayoshi...","電腦犯罪搜查課啊……真的假的？
 那不是又吉先生的部門嗎。",,"전뇌범죄수사과라니…… 진짜냐?
 마타요시 씨의 부서잖아","Die Ermittlungseinheit für Cyberkriminalität?
@@ -44,15 +45,15 @@ Metterebbe i brividi a chiunque.","就算是Zaxon的委託，
 경찰에 손을 대다니… 역시 좀 그렇네","Selbst in Zaxons Auftrag – bei der Polizei
 einzubrechen, riecht nach Ärger ... Da lägen bei
 mir auch die Nerven bloß."
-11,3047,,"Comunque, andrà sicuramente storto.",……不過，應該沒有問題吧？,,"…하지만, 뭐어 괜찮잖아?","Wobei, wird schon schiefgehen."
-12,3047,,"Dobbiamo parecchio a Matayoshi.
-Ryuji non combinerà niente di troppo grave.","又吉先生是我們的恩人，
+11,3047,,"Comunque, non dovrebbe essere un problema.",……不過，應該沒有問題吧？,,"…하지만, 뭐어 괜찮잖아?","Wobei, wird schon schiefgehen."
+12,3047,,"Dobbiamo molto a Matayoshi.
+Ryuji non farà niente di troppo grave.","又吉先生是我們的恩人，
 龍司應該也不會做出對他們不利的事。",,"마타요시 씨는 우리들의 은인이야.
 류지도 나쁘게는 하지 않을걸?","Wir schulden Matayoshi so einiges.
 Ryuji wird nichts allzu Schlimmes anstellen."
 13,2020,,...?,……？,,……?,...?
-14,3047,,"Oh, non te l'ho nemmeno raccontato.",啊，這麼說來，好像還沒和你提過呢。,,"아아, 그러고보니 말하지 않았었지","Ach, hab ich dir wohl gar nicht erzählt."
-15,3047,,Matayoshi ci ha fregati.,我們啊，曾經被又吉先生逮捕過。,,"우리들, 마타요시 씨에게 잡힌 적 있었어",Matayoshi hat uns hochgenommen.
+14,3047,,"Ah, a proposito, non te l'ho mai raccontato.",啊，這麼說來，好像還沒和你提過呢。,,"아아, 그러고보니 말하지 않았었지","Ach, hab ich dir wohl gar nicht erzählt."
+15,3047,,Una volta Matayoshi ci ha arrestati.,我們啊，曾經被又吉先生逮捕過。,,"우리들, 마타요시 씨에게 잡힌 적 있었어",Matayoshi hat uns hochgenommen.
 16,2020,,?!,！？,,!?,?!
 17,3047,,"È successo qualche anno fa.
 Un nostro compagno è stato ricattato da un hacker senza scrupoli
@@ -61,25 +62,25 @@ che aveva scoperto una sua debolezza.","那是好幾年前的事了。
 친구가 악질 해커에게 약점을 잡혀서 협박당했거든","Ist schon ein paar Jahre her. Ein raffinierter
 Hacker hatte heikle Sachen über mich rausgefunden
 und mich erpresst."
-18,3047,,"Ho tentato di sottrarre nuovamente i dati all'hacker,
+18,3047,,"Ho tentato di recuperare i dati da quell'hacker,
 ma sono caduto in una trappola.","我啊，為了從那些駭客手中拿回
 做為把柄的證據，而向他們挑戰，
 沒想到反而掉入他們設下的圈套。",,"해커로부터 약점의 증거를 되찾으려고 도전했다가
 반대로 함정에 빠져버렸던 거야, 나","Ich versuchte, die Daten von dem Hacker
 zurückzustehlen, bin aber in eine Falle getappt."
-19,3047,,"Ryuji allora era lui stesso un hacker e venne coinvolto nella
+19,3047,,"Ryuji, che all'epoca era un hacker, venne coinvolto nella
 faccenda quando cercò di aiutarmi.","那時，和我一起入侵的龍司，
 也為了要救我而被牽扯了進來。",,"당시 함께 해킹을 했던 류지도
 나를 구하려다가 휘말려서――","Ryuji war damals selbst ein Hacker und wurde
 in die Sache reingezogen, als er versuchte,
 mir zu helfen."
-20,3047,,"Alla fine siamo stati entrambi presi dalla polizia.
-Il commissario responsabile allora era Matayoshi.","我們倆就這樣被警察逮捕啦。
+20,3047,,"Alla fine siamo stati presi entrambi dalla polizia.
+Il commissario responsabile era Matayoshi.","我們倆就這樣被警察逮捕啦。
 然後，那時候負責的刑警就是又吉先生。",,"둘이 같이 체포됐었는데
 그 때 담당 형사가 마타요시 씨","Am Ende wurden wir beide von der Polizei
 geschnappt. Der zuständige Kommissar damals
 war Matayoshi."
-21,3047,,"È un tipo all'antica, di quelli che non si vedono più.
+21,3047,,"È un tipo all'antica, di quelli che non se ne vedono più.
 Ti fa una ramanzina infinita e non ci pensa due volte a usare le mani...
 Comunque, dopo avergli spiegato la situazione...","他是現今難得一見的古板人物啊。
 說教時間超長的，揍人也超大力……
@@ -88,22 +89,21 @@ Comunque, dopo avergli spiegato la situazione...","他是現今難得一見的�
 그래도 사정을 이야기했더니――","Das ist so ein Kerl vom alten Schlag. Labert viel,
 lässt aber noch lieber die Fäuste sprechen. Wie
 dem auch sei, wir haben ihm die Lage erklärt ..."
-22,3047,,"""È davvero ammirevole da parte tua aiutare il tuo amico a uscire dai guai!""
-Ci ha davvero lodati!","「居然為了夥伴做到這種地步，
+22,3047,,"""È davvero ammirevole da parte vostra aiutare un amico a uscire dai guai!""
+...Ci ha persino lodati!","「居然為了夥伴做到這種地步，
 　我對你們另眼相看了！」
 ……他居然這樣稱讚我們。",,"「친구를 위해 그렇게까지 하다니 훌륭한 마음가짐이로군!」
 …하고 칭찬받기도 했지","„Schwer in Ordnung von dir, deinem Freund aus der
 Patsche zu helfen!“ Er hat uns tatsächlich gelobt!"
 23,3047,,"Ci ha preso in custodia protettiva, invece di incriminarci.
-Poi è andato lui stesso e ha acciuffato il tizio che mi aveva ricattato.","他對我們很通融，讓我們只要接受輔導就好。
+Poi è andato da solo ad acciuffare il tizio che mi aveva ricattato.","他對我們很通融，讓我們只要接受輔導就好。
 之後他還單獨行動，把威脅我們夥伴的人
 抓了起來……",,"여러가지 편의도 봐 주고 우리들도 경고 정도로 끝났어.
 그 후 독자적으로 움직여 친구를 협박한 범인도 잡아줬지…","Er hat uns in Schutzgewahrsam genommen, statt uns
 zu verknacken. Dann ist er selbst losgezogen und
 hat den Kerl geschnappt, der mich erpresst hatte."
-24,3047,,Perciò gli dobbiamo un bel po'.,就是因為這樣……才會說他是我們的恩人。,,은인이라는 건…… 그런 의미야,Daher hat er bei uns einiges gut.
-25,3047,,"Quindi non preoccuparti troppo.
-Ryuji non gli darà fastidio.","所以沒什麼好擔心的。
+24,3047,,Ecco perché gli dobbiamo così tanto.,就是因為這樣……才會說他是我們的恩人。,,은인이라는 건…… 그런 의미야,Daher hat er bei uns einiges gut.
+25,3047,,"Quindi non preoccuparti troppo. Ryuji non gli creerà mai problemi.","所以沒什麼好擔心的。
 那傢伙是絕對不可能會做出
 給自己恩人添麻煩的事啦。",,"그러니까 걱정하지 마.
 그 녀석이 그런 사람에게 폐를 끼칠만한 짓을 할 리가 없으니까","Mach dir also nicht zu große Sorgen.
@@ -115,14 +115,14 @@ Mmmh, se lo dici tu, immagino sia qualcosa di serio.","你覺得龍司的樣子�
 一定是有非常在意的地方吧。",,"류지의 상태가 이상한 것 같다고……?
 으음……뭐, 그렇게까지 말한다면 어지간히 신경쓰이는 거겠지","Du sagst, Ryuji benimmt sich seltsam ...?
 Hm, jetzt hast du mich auch verunsichert."
-28,3047,,"... Beh, suppongo che non resti nulla.
-Indagherò sulla faccenda.","……沒辦法，為了我可愛的後輩，
+28,3047,,"... Beh, non c'è altra scelta.
+Indagherò sulla faccenda per il mio kouhai preferito.","……沒辦法，為了我可愛的後輩，
 我就稍稍來調查一下吧。",,"…어쩔 수 없구만, 후배를 위해
 좀 조사해보실까","... Tja, ich schätze, da bleibt nichts.
 Ich werd der Sache nachgehen."
 29,2020,,Hm?,？,,?,Hm?
-30,3047,,"Ryuji. Andrò a parlargli.
-Questo ti toglierà le preoccupazioni, vero?","我在說龍司啦。我來調查看看
+30,3047,,"Parlo di Ryuji. Vedrò di capire se sta combinando qualcosa di strano.
+Questo ti tranquillizzerà, no?","我在說龍司啦。我來調查看看
 他有沒有做奇怪的事情。
 弄清楚之後，你也比較能放心對吧。",,"류지 말야. 묘한 짓을 하고 있진 않은지 조사해주겠다고.
 사정을 알아내면 너도 안심할 거 아냐?","Ryuji. Ich werd bei ihm anklopfen.
@@ -133,10 +133,10 @@ Digli che avevo un altro impegno o qualcosa del genere.","如果他們問起來�
 일하느라 바쁘다던가","Tu mir einen Gefallen. Bremse ihn ein bisschen.
 Sag ihm, du hättest einen anderen Job oder so was."
 32,2020,,?!,！？,,!?,?!
-33,3047,,Non preoccupatevi. Tornerò prima che irrompiate nel server. A dopo!,"不用擔心啦，在潛入伺服器之前我就會回來了。
+33,3047,,"Non preoccuparti. Tornerò prima che facciate irruzione nel server. A dopo!","不用擔心啦，在潛入伺服器之前我就會回來了。
 那就先這樣啦！",,"걱정하지 않아도 서버 잠입까지는 돌아올 거야.
 그럼 이만!","Keine Sorge. Ich komme zurück, bevor ihr in den
 Server einbrecht. Bis später!"
 34,2020,,"(... Chitose, cosa hai in mente?)",（……千歲，他到底打算要做什麼？）,,(……치토세는 뭘 할 생각인걸까?),"(... Chitose, was hast du vor?)"
-35,2020,,"(Comunque, farei meglio a tornare da Hudie.)",（總之，現在就相信千歲，先回hudie吧）,,(어쨌든 후디에로 돌아가자),"(Wie dem auch sei, ich sollte besser zurück zu
+35,2020,,"(Comunque, per ora mi fiderò di Chitose e tornerò da Hudie.)",（總之，現在就相信千歲，先回hudie吧）,,(어쨌든 후디에로 돌아가자),"(Wie dem auch sei, ich sollte besser zurück zu
 Hudie.)"

@@ -2,12 +2,11 @@ ID,Japanese,English,Chinese,EnglishCensored,Korean,German
 1,,Battaglia di Classifica,排名戰,,랭킹 배틀,Rangkampf
 2,,Battaglia Locale,區域對戰,,로컬 배틀,Lokaler Kampf
 3,,Ricerca Avversario,搜尋對戰對手,,대전 상대를 찾는다,Gegnersuche
-4,,Vedi i primi 100,檢視TOP 100,,TOP 100을 본다,Top 100 zeigen
-5,,Vedi il Mio Grado,檢視個人排名,,마이 랭킹을 본다,Mein Rang
-1001,,"*Impossibile combattere se la Memoria della Squadra supera
-150.
-*Tutti i livelli dei Digimon nelle battaglie di trasmissione
-sono impostati a Lv. 50 per la battaglia.","・隊伍上限超過150的玩家無法進行對戰。
+4,,Mostra la Top 100,檢視TOP 100,,TOP 100을 본다,Top 100 zeigen
+5,,La mia posizione,檢視個人排名,,마이 랭킹을 본다,Mein Rang
+1001,,"*Impossibile lottare se la Memoria della Squadra supera 150.
+*Tutti i Digimon nelle battaglie online
+verranno portati al Livello 50.","・隊伍上限超過150的玩家無法進行對戰。
 
 ・連線對戰時使用的數碼寶貝的等級一律為50
   （僅限戰鬥中）。",,"*파티 메모리가 150 이하가 아니면 대전할 수 없습니다.
@@ -59,31 +58,31 @@ Accessoire: [d1]"
 301,,Recluta Avversario,募集對戰對手,,대전 상대를 모집,Gegner rekrutieren
 302,,Abbinamento Rapido,快速配對,,퀵 매칭,Schnellsuche
 303,,Combatti NPC,與NPC戰鬥,,NPC와 대전,Gegen NSC kämpfen
-401,,Vicino a te,與自己相近,,자신과 동급,Ähnlich wie du
-402,,Più in alto di te,比自己高,,자신보다 상급,Besser als du
+401,,Stesso Grado,與自己相近,,자신과 동급,Ähnlich wie du
+402,,Grado Superiore,比自己高,,자신보다 상급,Besser als du
 403,,Nessuna Restrizione,無限制,,제한 없음,Keine Einschränk.
 501,,Domestico,國內,,국내,Lokal
 502,,Tutti,所有,,전체,Alle
 211,,Regole,規則方針,,룰 방침,Regeln
-212,,Commento di reclutamento,募集評語,,모집 코멘트,Suchkommentar
+212,,Messaggio della stanza,募集評語,,모집 코멘트,Suchkommentar
 213,,Chiave della stanza,房間密碼,,룸 키,Raumschlüssel
 214,,Crea una stanza con queste impostazioni.,以此設定製作房間,,이 설정으로 룸을 작성합니다.,Raum mit Einstell. einr.
 215,,Trova una stanza con queste impostazioni.,以此條件搜尋房間,,이 조건으로 룸을 검색합니다.,Raum mit Beding. suchen
 601,,Lotta Libera,自由對戰,,자유롭게 대전,Freier Kampf
-602,,Regole Piatte,平等規則,,플랫 룰,Normale Regeln
-603,,Restrizione,無限制對戰,,무제한 룰,Sonderregeln
+602,,Regole Standard,平等規則,,플랫 룰,Normale Regeln
+603,,Senza Restrizioni,無限制對戰,,무제한 룰,Sonderregeln
 701,,Va bene chiunque,歡迎所有人,,아무나 오세요,Alle willkommen
-702,,Scontro Reale,認真對戰,,진지하게 합시다,Echter Kampf
-703,,Combattimento Amichevole,輕鬆對戰,,적당하게 합시다,Freundschaftskampf
+702,,Lotta Seria,認真對戰,,진지하게 합시다,Echter Kampf
+703,,Lotta Amichevole,輕鬆對戰,,적당하게 합시다,Freundschaftskampf
 704,,Combattere con gli Amici,與好友進行對戰,,친구와 대전하고 있습니다,Kampf mit Freunden
 801,,Nessuna Designazione,不指定,,룰 지정 없습니다,Nicht festgelegt
 802,,Non impostato,無設定,,미설정,–
 901,,[n0]P [d0] è entrato nella stanza.,[n0]P [d0]已進入房間。,,[n0]P [d0]님이 입실하셨습니다.,S[n0] [d0] hat den Raum betreten.
 902,,[n0]P [d0] ha lasciato la stanza.,[n0]P [d0]已退出房間。,,[n0]P [d0]님이 퇴실하셨습니다.,S[n0] [d0] hat den Raum verlassen.
-903,,[n0]P [d0] è diventato l'ospite.,[n0]P [d0]已成為房主。,,[n0]P [d0]님이 호스트가 되셨습니다.,S[n0] [d0] ist nun Gastgeber.
+903,,[n0]P [d0] è diventato l'host.,[n0]P [d0]已成為房主。,,[n0]P [d0]님이 호스트가 되셨습니다.,S[n0] [d0] ist nun Gastgeber.
 904,,[d0]: [d1],[d0] : [d1],,[d0] : [d1],[d0]: [d1]
-1002,,"- Livelli dei Digimon impostati a 50 durante la battaglia
-- Memoria della squadra 100 o meno","．戰鬥中，數碼寶貝的等級將固定在50級
+1002,,"- Livello Digimon fisso a 50 durante la battaglia
+- Memoria della squadra a 100 o inferiore","．戰鬥中，數碼寶貝的等級將固定在50級
 ．隊伍容量在100以下",,"・배틀할 디지몬의 레벨을 50으로 고정합니다.
 ・파티 메모리 100 이하.","- Digimonlevel während Kampf auf 50 gesetzt
 - Gruppenspeicher 100 oder weniger"

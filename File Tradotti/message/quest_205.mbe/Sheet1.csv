@@ -208,7 +208,7 @@ Ich werde versuchen, etwas über das
 ""Super Iper Ultra Sosias"" o qualcosa del genere...",我記得名字是「超級極度激似人偶」之類的……,,분명「초 하이퍼 정말 꼭 닮은 인형」같은 그런 이름의…,"Ich glaube, die Puppen heißen „tolle mega-ultra
 Doppelgänger“ oder so was in der Art ..."
 301,4869,,"Tu, laggiù!",我說你！,,거기 당신!,He da!
-302,4869,,"Si capisce dal tuo linguaggio del corpo che sei frustrato e infelice!",……全身表現出慾求不滿又不幸的你！,,"…욕구불만과 운이 없음을 온몸으로 구현시킨 듯한
+302,4869,,Si capisce dal tuo linguaggio del corpo che sei frustrato e infelice!,……全身表現出慾求不滿又不幸的你！,,"…욕구불만과 운이 없음을 온몸으로 구현시킨 듯한
 거기 당신!","Deine Körpersprache verrät mir, dass du frustriert
 und unglücklich bist!"
 303,2001,,!?,！？,,!?,?!
@@ -307,7 +307,7 @@ vivente e respirante.","這個服務能真實重現出理想少女，
 방에 파견할 수 있는 서비스입니다","Mit diesem Projekt kann ich das ideale Mädchen
 für dich erschaffen lassen und es als lebendigen
 Menschen direkt in dein Wohnzimmer schicken."
-330,4869,,"C'è solo una condizione che devi rispettare se usi questo servizio.",我們只需要客人做到＂唯一的條件＂……,,"손님께 부탁드리는 건
+330,4869,,C'è solo una condizione che devi rispettare se usi questo servizio.,我們只需要客人做到＂唯一的條件＂……,,"손님께 부탁드리는 건
 ""단 하나의 조건""을 만족시키는 것 뿐","Es gibt nur eine Bedingung, die du erfüllen musst,
 wenn du diesen Dienst nutzt."
 331,4869,,"Solo una condizione e potrai liberarti dalla noia con cui hai convissuto
@@ -368,7 +368,7 @@ Se sei interessato, vieni semplicemente a parlarmi... Mwahaha!","完美女孩計
 흥미가 생기면 다시 말을 걸어 주십시오… 우후후후후","Das „Projekt: Perfektes Mädchen“ ist ein streng
 geheimer Dienst, der von Jorogumo Co., Ltd.
 angeboten wird. Sprich mich bei Interesse an!"
-401,3006,,"Come procede la tua indagine sulla macchina LDC?",怎麼樣？　調查Liviclu的情況還順利嗎？,,어떤가? 리비크러라는 것의 조사는 순조롭나?,"Wie geht es mit deiner Ermittlung zur KLP-Maschine
+401,3006,,Come procede la tua indagine sulla macchina LDC?,怎麼樣？　調查Liviclu的情況還順利嗎？,,어떤가? 리비크러라는 것의 조사는 순조롭나?,"Wie geht es mit deiner Ermittlung zur KLP-Maschine
 voran?"
 402,3006,,Ah... quindi stai per iniziare.,嗯……現在正在調查啊。,,"…흐음, 지금 한창 조사하는 중인가","Ach, du fängst also gleich damit an."
 403,3006,,"Ottimo tempismo, perché sto rilevando una debole firma
@@ -415,7 +415,7 @@ WER, WAS BIST DU?"
 455,1627,,QUALSIASI INTERFERENZA DEVE ESSERE PUNITÀ,絕不原諒阻礙我的人。,,"방해하는 녀석, 용서하지 않아","WER STÖRT, WIRD BESTRAFT!"
 456,1627,,QUALSIASI INTERFERENZA DEVEEEE ESSERE PUNIITAAAAAAA!!!,我絕不原諒阻礙我的人——！！,,"방해하는 녀석, 용서하지 않아아아아―――!!","WER STÖRT, WIRD BESTRAAAAAAFT!"
 480,2001,,C'è qualcosa a terra...,好像有什麼東西掉下來了……,,무언가 떨어져 있는 것 같다…,Da liegt etwas auf dem Boden ...
-501,4869,,"S-s-sei appena uscito...dalla...dalla macchina LDC?","你、你、你、你剛剛……
+501,4869,,S-s-sei appena uscito...dalla...dalla macchina LDC?,"你、你、你、你剛剛……
 是、是、是從Liviclu裡面出來的吧？",,"지, 지, 지, 지금 당신…
 리, 리, 리비크러 안에서 나왔죠?","B-B-Bist du gerade aus ... aus der KLP-Maschine
 gekommen?"
@@ -512,7 +512,8 @@ Mädchen“ eigentlich?"
 che ne fanno parte stanno scomparendo, giusto?",之前好像說使用者相繼失蹤之類的……,,이용자가 연이어 실종됐다고 하셨던가요…,"Ich glaube, Detektivin Kuremi hatte erwähnt, dass
 die Teilnehmer vermisst werden, richtig?"
 612,3006,,"Infatti. [p] ha effettivamente raccolto alcune
-informazioni piuttosto utili su cosa è richiesto a chiunque si unisca al progetto.","關於那件事，
+informazioni piuttosto utili su cosa è richiesto a chiunque si unisca al
+progetto.","關於那件事，
 [p]聽來的參加條件很奇怪。",,"그것에 대한 정보는 [p]가(이) 얻어 왔다
 참가를 위한 조건이라는 게 수상하다는 것 같다","So ist es. [p] ist auf nützliche
 Informationen gestoßen, was von den Teilnehmern
@@ -729,7 +730,7 @@ Tanto vale vedere se possiamo ancora chiamarlo.","但或許還有救。
 한번 이쪽에서 불러보도록 하지","Andererseits könnten wir noch eine Chance haben,
 ihn zu retten. Wir sollten versuchen, mit ihm
 Kontakt aufzunehmen."
-828,3006,,"Ma dovremmo essere preparati al peggio...",雖然也有可能已經遲了……,,이미 늦었을 가능성도 있지만 말이야…,"Aber wir sollten uns auf das Schlimmste
+828,3006,,Ma dovremmo essere preparati al peggio...,雖然也有可能已經遲了……,,이미 늦었을 가능성도 있지만 말이야…,"Aber wir sollten uns auf das Schlimmste
 gefasst machen ..."
 901,4870,,Hmm? Cos'è questo?,……嗯？　這是什麼？,,…응? 뭐야 이거,Hm? Was ist denn das?
 902,4870,,"""Per favore, devi disconnetterti""...",「請你登出」……？,,「로그아웃 해 주세요」…라고?,„Bitte logge dich aus“ ...

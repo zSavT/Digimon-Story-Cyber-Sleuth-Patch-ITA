@@ -36,7 +36,7 @@ il grande Cyber Detective, al lavoro!","我也想看看你這個電腦偵探的�
 我會到事務所發出委託的！",,"전뇌탐정으로 일하는 네 모습도 보고 싶고 말야
 사무소에 의뢰 보내둘게!","Ich schicke eine Anfrage an dein Büro und schaue
 dir, dem großen Cyber-Detektiv, beim Arbeiten zu!"
-201,3017,,"Oh! Hai accettato il mio caso! Grazie!","喔！　你接下委託了吧。
+201,3017,,Oh! Hai accettato il mio caso! Grazie!,"喔！　你接下委託了吧。
 謝啦！",,"오! 의뢰 받아준 거구나
 고마워!","Ach, du hast meinen Fall übernommen!
 Danke!"
@@ -158,7 +158,7 @@ persone qui a Nakano, troveremo qualcosa per lui.","在中野找“看起來像�
 물어보면 분명 뭔가 찾아낼 수 있겠지","Wenn wir hier in Nakano „bestimmte Leute“ fragen,
 ohne viel Aufhebens zu machen, finden wir
 sicher etwas für ihn."
-306,3006,,"Ho sentito parlare di lavori comodi e loschi abbastanza vicini a qui.",可疑又好賺的差事，或許意外地就在這附近哦。,,수상하고 꿀 빠는 이야기는 의외로 가까이에 굴러다니고 있는 법이다,"Ich habe von leichten, zwielichtigen Jobs hier
+306,3006,,Ho sentito parlare di lavori comodi e loschi abbastanza vicini a qui.,可疑又好賺的差事，或許意外地就在這附近哦。,,수상하고 꿀 빠는 이야기는 의외로 가까이에 굴러다니고 있는 법이다,"Ich habe von leichten, zwielichtigen Jobs hier
 in der Nähe gehört."
 307,3006,,...,……,,……,...
 308,3006,,"Ad ogni modo, se ha bisogno urgentemente di soldi...
@@ -272,7 +272,7 @@ machen, was?"
 放心，工作很簡單，任何人都可以勝任。",,"그거라면 좋은 아르바이트를 소개하지
 뭘, 누구든지 할 수 있는 간단한 일이다","Na gut, ich empfehle dich für den Job.
 Er ist so einfach, das kann jeder."
-344,4883,,"Voglio che tu faccia delle foto ai fantasmi in EDEN.","我要你在EDEN
+344,4883,,Voglio che tu faccia delle foto ai fantasmi in EDEN.,"我要你在EDEN
 「拍攝靈異照片」。",,"EDEN 내에서
 「심령사진 촬영」을 해줬으면 한다","Ich will, dass du in EDEN Fotos von Geistern
 machst."
@@ -484,7 +484,7 @@ idiota.","真是夠了……會為這件事大驚小怪的人，
 我真的覺得是一群笨蛋。",,"정말이지… 이 얘기로 떠드는 녀석들은
 정말 바보라고 생각해","Ja ... Ich finde, dass alle, die wegen so was
 ausflippen, echte Idioten sind."
-492,4886,,"Okay? Questo è un Mondo Digitale. Il mondo reale è una storia diversa,
+492,4886,,"Okay? Questo è un Digi World. Il mondo reale è una storia diversa,
 ma questo non significa che i fantasmi possano apparire qui.","聽好囉？　這裡可是電腦空間耶？
 現實世界我是不清楚啦，
 但這種地方哪有可能會出現幽靈啊。",,"알겠어? 여긴 전뇌공간이라고?
@@ -535,7 +535,7 @@ Sì... no grazie, passo.",那個畢竟有點那個，感覺怪可怕的，我放
 508,3017,,Intendi dire che vuoi falsificare la foto?,你說捏造，是捏造靈異照片嗎？,,"조작한다니, 심령사진을 말이야?","Das heißt, dass du das Foto fälschen willst?"
 509,3017,,...,……,,……,...
 510,3017,,Questa è... in realtà una buona idea!,這說不定是個好主意！,,그거 좋은 생각일지도 모르겠네!,Das ist ... tatsächlich eine gute Idee!
-511,3017,,"Quel vecchio stupido dovrebbe essere facile da raggirare!",那個瘋狂大叔感覺應該很好騙！,,"그런 비상식적인 아저씨
+511,3017,,Quel vecchio stupido dovrebbe essere facile da raggirare!,那個瘋狂大叔感覺應該很好騙！,,"그런 비상식적인 아저씨
 간단히 속일 수 있을 것 같고!","Diesen dummen alten Mann kann man sicher leicht
 hereinlegen!"
 512,3017,,"Bene, se facciamo questo, [p],
@@ -593,7 +593,7 @@ Ti mostrerò come fotografare un fantasma correttamente...","真沒辦法，
 내가 심령사진을 찍는 법을 알려주겠다","Das spielt keine Rolle. Setzt euch. Ich zeige
 euch, wie man ein richtiges Foto von einem
 Geist macht ..."
-556,3006,,"Il terrore nasce fondamentalmente dall'immaginazione umana.",恐怖這種東西，基本上是透過人類想像力所產生的。,,공포란 기본적으로 사람의 상상력에 의해 태어나는 것이다,"Horror ist ein Produkt der menschlichen
+556,3006,,Il terrore nasce fondamentalmente dall'immaginazione umana.,恐怖這種東西，基本上是透過人類想像力所產生的。,,공포란 기본적으로 사람의 상상력에 의해 태어나는 것이다,"Horror ist ein Produkt der menschlichen
 Vorstellungskraft."
 557,3006,,"""Qualunque cosa sembra un volto dalla giusta angolazione.""
 È così che puoi stimolare l'immaginazione di una persona con
@@ -602,7 +602,7 @@ una fotografia...","“看的方法不同，就有可能會看成人臉”，
 그런 사람의 상상력을 자극하는 포인트를 사진 안에 만드는…","„Mit der richtigen Perspektive sieht alles wie ein
 Gesicht aus.“ So kurbelt man mit einem Foto
 die Fantasie der Leute an ..."
-558,3006,,"Quella è la tecnica chiave nella fotografia spiritica.",這才是讓相片看起來像靈異照片的訣竅。,,그것이야말로 심령사진처럼 보이게 만드는 비법이다,"Das ist die wichtigste Methode in der
+558,3006,,Quella è la tecnica chiave nella fotografia spiritica.,這才是讓相片看起來像靈異照片的訣竅。,,그것이야말로 심령사진처럼 보이게 만드는 비법이다,"Das ist die wichtigste Methode in der
 Geisterfotografie."
 559,3006,,"Quindi, devi solo invocare il fenomeno
 unicamente umano della pareidolia...",這關係到人類一種叫做擬像現象的特性……,,"이것엔 인간의 특성인 시뮬라크르 현상이라는 것이
@@ -696,5 +696,5 @@ Torniamo da Ryota.","情報收集完畢，
 回去良太那裡吧。",,"정보는 모였다
 료타에게 돌아가자","Okay, ich habe die Informationen.
 Gehen wir zurück zu Ryota."
-601,4883,,"Sembra che ci siano stati avvistamenti di un fantasma a Kowloon Lv. 3.",Kowloon Lv. 3好像常有人目擊到幽靈。,,유령은 쿠롱 Lv.3에서 곧잘 목격된다고 해요,"Anscheinend wurde ein Geist auf der dritten Ebene 
+601,4883,,Sembra che ci siano stati avvistamenti di un fantasma a Kowloon Lv. 3.,Kowloon Lv. 3好像常有人目擊到幽靈。,,유령은 쿠롱 Lv.3에서 곧잘 목격된다고 해요,"Anscheinend wurde ein Geist auf der dritten Ebene 
 in Kowloon gesichtet."

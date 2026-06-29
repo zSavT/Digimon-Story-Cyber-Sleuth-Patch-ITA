@@ -4,7 +4,7 @@
 를 입수했습니다.","Du hast eine „Freikarte“
 erhalten."
 2,,Guida pratica 1,新手教學1,,필드 튜토리얼 1,Praxisanleitung 1
-3,,"Questo è un mondo digitale creato
+3,,"Questo è un digi world creato
 da un programma per computer.",這裡是由電腦程式所創造出來的電腦世界。,,"이곳은 컴퓨터 프로그램에 의해서
 창조된 전뇌세계입니다.","Dies ist eine digitale Welt, die von einem
 Computerprogramm erschaffen wird."
@@ -18,7 +18,7 @@ Tor."
 원래의 현실세계로 돌아갈 수 있습니다.","Wenn du dich ausloggst, kehrst du in die echte
 Welt zurück."
 6,,Guida pratica 2,新手教學2,,필드 튜토리얼 2,Praxisanleitung 2
-7,,"Nel mondo digitale ci sono delle Digifarm in
+7,,"Nel digi world ci sono delle Digifarm in
 cui puoi cambiare gruppo.",電腦世界裡有可以整編隊伍的數碼農場,,"전뇌세계에는 파티 편성을 변경할 수 있는
 디지팜이 있습니다.","In der Digitalen Welt gibt es Digifarmen, auf denen du
 deine Gruppe verändern kannst."
@@ -129,7 +129,7 @@ einmal vom Nintendo eShop herunterladen."
 1200,,"Non è possibile spostare i Digimon nella
 stessa posizione.",無法移動至同一個場所,,같은 장소에는 디지몬을 이동할 수 없습니다.,"Du kannst Digimon nicht an denselben Ort
 verschieben."
-1201,,"Supera lo memoria di archiviazione del gruppo e
+1201,,"Supera la memoria di archiviazione del gruppo e
 non può essere spostato.",超過隊伍上限，無法移動,,파티 메모리를 초과하기 때문에 이동할 수 없습니다.,"Übersteigt den Gruppenspeicher und kann nicht
 verschoben werden."
 1202,,"Questo eliminerebbe tutti i Digimon dal
@@ -137,8 +137,8 @@ gruppo. Il Digimon non può quindi essere selezionato.","因隊伍中將沒有�
 故無法選擇此數碼寶貝",,"파티에 디지몬이 없어지기 때문에
 이 디지몬은 선택할 수 없습니다.","Dies würde alle Digimon aus der Gruppe entfernen.
 Das Digimon kann daher nicht ausgewählt werden."
-1203,,"Al momento la conversione digitale non è possibile
-perché la Digibank è piena.","銀行空間不足
+1203,,"Al momento la Conversione Digitale non è possibile
+perché la DigiBank è piena.","銀行空間不足
 無法孵化數碼寶貝",,"뱅크에 빈 공간이 없어
 디지털 컨버트를 할 수 없습니다.","Digi-Umwandlung ist zurzeit nicht möglich, da die
 Digibank voll ist."
@@ -148,13 +148,13 @@ Convertirli in dati di scansione non è quindi possibile.","因隊伍中將沒�
 故無法回復為掃描數據",,"파티에 디지몬이 없어지기 때문에
 이 디지몬은 스캔 데이터로 되돌릴 수 없습니다.","Dies würde alle Digimon aus der Gruppe entfernen.
 Das Umwandeln in Scandaten ist daher nicht möglich."
-1206,,"Convertito in dati di
-scansione. [d0]: [n0] % => [4[n1] %]","已回復為掃描數據
+1206,,"Convertito in dati di 
+scansione. [d0]: [n0]% => [4[n1] %]","已回復為掃描數據
 [d0]：[n0]％⇒[4[n1]％]",,"스캔 데이터로 되돌렸습니다.
 [d0]：[n0]％⇒[4[n1]％]","In Scandaten umgewandelt.
 [d0]: [n0] % =>[4[n1] %]"
-1207,,"Il limite di memoria di archiviazione del gruppo è stato superato.
-Ridurre i requisiti di memoria di archiviazione del gruppo.","超過隊伍上限
+1207,,"Il limite della Memoria di Squadra è stato superato.
+Riduci i requisiti della Memoria di Squadra.","超過隊伍上限
 請減少隊伍的消耗容量",,"파티 메모리를 초과했습니다.
 파티의 소비 메모리를 줄여주세요.","Der Gruppenspeicher wurde überschritten.
 Bitte reduziere den Speicherbedarf der Gruppe."
@@ -259,8 +259,8 @@ empfangen."
 2905,,Non è stato possibile stabilire la connessione.,連線失敗,,접속할 수 없습니다.,Verbindung konnte nicht hergestellt werden.
 2906,,Connessione con l'avversario persa.,連線中斷,,대전 상대에 의해 통신이 끊어졌습니다.,Verbindung zum Gegner getrennt.
 2907,,Si è verificato un errore di connessione.,連線錯誤,,통신 에러가 발생했습니다.,Es ist ein Verbindungsfehler aufgetreten.
-2908,,"Il limite di archiviazione del gruppo è stato superato.
-Ridurre lo memoria di archiviazione del gruppo a un massimo di 100.","已超過隊伍上限。
+2908,,"Il limite di archiviazione del gruppo è superato.
+Riduci la memoria di archiviazione a massimo 100.","已超過隊伍上限。
 請將隊伍上限減少至100以下。",,"파티 메모리가 초과되었습니다.
 파티 메모리를 100이하로 줄여주세요.","Der Gruppenspeicher wurde überschritten. Bitte
 reduziere den Gruppenspeicher auf maximal 100."
@@ -634,8 +634,8 @@ completata! Hai ricevuto una ricompensa!","達成戰鬥任務[n0]！
 보수를 입수했습니다!","Kampfmission [n0] abgeschlossen!
 Du hast eine Belohnung erhalten!"
 2925,,Non puoi partecipare perché la sala è piena.,由於參加人數已滿，無法進入房間。,,참가 인원이 가득 차서 룸에 입실하지 못했습니다.,"Du kannst nicht beitreten, da der Raum voll ist."
-2926,,"Hai superato lo spazio di archiviazione
-consentito per il gruppo.",參加隊伍容量已超過上限。,,사용할 파티의 메모리가 부족합니다.,"Du hast den erlaubten Gruppenspeicher
+2926,,"Hai superato la Memoria di Squadra
+consentita.",參加隊伍容量已超過上限。,,사용할 파티의 메모리가 부족합니다.,"Du hast den erlaubten Gruppenspeicher
 überschritten."
 2927,,"La stanza è stata abbandonata. Torna alla
 schermata di creazione/ricerca della stanza.","已退出房間。
@@ -734,7 +734,7 @@ alleati vengono cristallizzati in battaglia!","由於敵方駭客隊伍的徽章
 『배틀 도중 아군에게 액정화』가 발생 중!","Gegnerisches Emblem aktiv:
 Verbündete werden im Kampf kristallisiert!"
 7017,,"Emblema nemico attivo: Gli
-alleati mostrano difetti in combattimento!","由於敵方駭客隊伍的徽章效果，
+alleati subiscono l'effetto Bug in battaglia!","由於敵方駭客隊伍的徽章效果，
 『戰鬥時，我方陷入Bug狀態』！",,"적 해커팀의 엠블럼 효과로 인해
 『배틀 도중 아군에게 버그』가 발생 중!","Gegnerisches Emblem aktiv:
 Verbündete weisen im Kampf Fehler auf!"
@@ -769,7 +769,7 @@ GEN degli alleati aumentato in battaglia!","由於敵方駭客隊伍的徽章效
 『배틀 도중 아군에게 명중률 상승』이 발생 중!","Gegnerisches Emblem aktiv:
 GEN von Verbündeten im Kampf erhöht!"
 7024,,"Emblema nemico attivo:
-AWN degli alleati aumentato in battaglia!","由於敵方駭客隊伍的徽章效果，
+EVA degli alleati aumentata in battaglia!","由於敵方駭客隊伍的徽章效果，
 『戰鬥時，我方EVA提昇』！",,"적 해커팀의 엠블럼 효과로 인해
 『배틀 도중 아군에게 회피율 상승』이 발생 중!","Gegnerisches Emblem aktiv:
 AWN von Verbündeten im Kampf erhöht!"
@@ -893,13 +893,13 @@ Gli hacker nemici vengono storditi in combattimento!","由於hudie的徽章效�
 『戰鬥時，敵駭客陷入暈眩狀態』！",,"후디에의 엠블럼 효과로 인해
 『배틀 도중 적 해커팀에게 스턴』이 발생 중!","Emblem von Hudie aktiv:
 Gegnerische Hacker werden im Kampf betäubt!"
-7056,,"Emblema di Hudie
-attivo: Gli hacker nemici vengono cristallizzati in battaglia!","由於hudie的徽章效果，
+7056,,"Emblema di Hudie attivo:
+Gli hacker nemici vengono cristallizzati in battaglia!","由於hudie的徽章效果，
 『戰鬥時，敵駭客陷入液晶化狀態』！",,"후디에의 엠블럼 효과로 인해
 『배틀 도중 적 해커팀에게 액정화』가 발생 중!","Emblem von Hudie aktiv:
 Gegnerische Hacker werden im Kampf kristallisiert!"
 7057,,"Emblema di Hudie attivo: I
-nemici mostrano difetti in combattimento!","由於hudie的徽章效果，
+nemici subiscono l'effetto Bug in battaglia!","由於hudie的徽章效果，
 『戰鬥時，敵駭客陷入Bug狀態』！",,"후디에의 엠블럼 효과로 인해
 『배틀 도중 적 해커팀에게 버그』가 발생 중!","Emblem von Hudie aktiv:
 Gegner weisen im Kampf Fehler auf!"
@@ -934,7 +934,7 @@ GEN dei nemici aumentato in battaglia!","由於hudie的徽章效果，
 『배틀 도중 적 해커팀에게 명중률 상승』이 발생 중!","Emblem von Hudie aktiv:
 GEN von Gegnern im Kampf erhöht!"
 7064,,"Emblema di Hudie attivo:
-Aumenta l'AWN dei nemici in battaglia!","由於hudie的徽章效果，
+EVA dei nemici aumentata in battaglia!","由於hudie的徽章效果，
 『戰鬥時，敵駭客EVA提昇』！",,"후디에의 엠블럼 효과로 인해
 『배틀 도중 적 해커팀에게 회피율 상승』이 발생 중!","Emblem von Hudie aktiv:
 AWN von Gegnern im Kampf erhöht!"
@@ -1040,7 +1040,7 @@ erhalten."
 7207,,Ricevuto l'URL per il server della centrale elettrica.,得到「發電廠伺服器」的URL,,「발전소 서버」의 URL을 입수했다.,URL für den Server des Kraftwerks erhalten.
 7208,,Ricevuto l'URL del server di promemoria.,得到「記憶伺服器」的URL,,「기억 서버」의 URL을 입수했다.,Erinnerungsserver-URL erhalten.
 7209,,Ricevuto l'URL per il server Cyberface.,得到「怪人數碼面相伺服器」的URL,,「괴인 디지면상 서버」의 URL을 입수했다.,URL für den Server des Cybergesichts erhalten.
-7216,,"Ha dato il cuore a un sogno androide inespressivo.","交出「吾乃傲嬌　月亮會夢見
+7216,,Ha dato il cuore a un sogno androide inespressivo.,"交出「吾乃傲嬌　月亮會夢見
 無表情的人造人嗎」",,"「나는 츤데레, 달은 무표정한 안드로이드의
  꿈을 꾸는가」를 건네줬다.","Hat das Herz eines ausdruckslosen Androidentraum
 gegeben."
@@ -1129,8 +1129,8 @@ Costume di V. Uchida","下載內容
 獲得V內田套裝",,"다운로드 콘텐츠
 V우치다 코스튬을 입수했습니다.","Herunterladbaren Inhalt erhalten:
 V.-Uchida-Kostüm"
-8008,,"Hai ricevuto contenuti bonus: Set di
-oggetti per addestramento e guarigione","下載內容
+8008,,"Hai ricevuto contenuti bonus:
+Set di oggetti Cura e Allenamento","下載內容
 已獲得培育＆恢復道具組",,"다운로드 콘텐츠
 육성&회복 아이템 세트를 입수했다","Du hast einen Bonusinhalt erhalten:
 Training und Heilungsitem Set"
@@ -1150,7 +1150,7 @@ T-shirt con logo Beelzemon","下載內容
 B엠블럼 티셔츠를 입수했습니다.","Herunterladbaren Inhalt erhalten:
 T-Shirt „Beelzemon-Logo“"
 8012,,"Hai ricevuto contenuti bonus:
-addestramento, oggetto curativo e set di equipaggiamento","下載內容
+Set Cura, Allenamento ed Equipaggiamento","下載內容
 已獲得培育＆恢復＆裝備道具組",,"다운로드 콘텐츠
 육성&회복&장비 아이템 세트를 입수했다","Du hast einen Bonusinhalt erhalten:
 Training, Heilungsitem und Ausrüstung Set"

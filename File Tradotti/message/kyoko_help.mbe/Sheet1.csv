@@ -3,9 +3,9 @@
 Si prega di segnalarlo.","遊戲中若跑出這段文字就表示有BUG。
 到時候請記得回報。",,,"Wenn dieser Text im Spiel erscheint, ist das ein
 Fehler. Bitte melden."
-1000,3006,,"...Sei libero? Di cosa stai parlando?
-I detective non hanno tempo libero. Bene, ecco un compito per te.
-Scopri cosa dovresti fare.","嗯？　什麼？　……你說你很閒？　你是在說些什麼啊？
+1000,3006,,"...Hai del tempo libero? Ma che vai dicendo?
+I detective non hanno tempo da perdere. Senti, ecco un incarico per te.
+Cerca di capire da solo cosa fare.","嗯？　什麼？　……你說你很閒？　你是在說些什麼啊？
 偵探可沒有時間摸魚哦。
 你必須自行判斷自己該做的事。",,"응? 뭐? …한가하다고? 넌 대체 무슨 소리를 하는 건가…
 탐정에게 한가한 시간 같은 건 존재하지 않아
@@ -17,7 +17,7 @@ destra della mia scrivania.","這樣好了，你先面向我的辦公桌，
 然後確認放在右邊的白板上面的內容。",,"그렇군, 우선 내 데스크를 향했을 때 오른쪽에 있는
 화이트보드를 체크해 보도록","Schau zuerst auf das Schwarze Brett rechts von
 meinem Schreibtisch."
-2005,3006,,Sembra che tu sia stato in grado di accettare un caso.,看來你順利接下委託了呢。,,아무래도 무사히 의뢰를 수주한 모양이군,Du scheinst einen Fall akzeptiert zu haben.
+2005,3006,,Vedo che sei riuscito ad accettare un caso.,看來你順利接下委託了呢。,,아무래도 무사히 의뢰를 수주한 모양이군,Du scheinst einen Fall akzeptiert zu haben.
 2006,3006,,"È piuttosto semplice. Quando vuoi accettare
 un nuovo caso, prendine uno dalla lavagna,
 proprio così.","在接受委託時，
@@ -26,7 +26,7 @@ proprio così.","在接受委託時，
 annehmen möchtest, hol dir einen vom Schwarzen
 Brett."
 2007,3006,,"Aggiungerò nuovi casi di tanto in tanto,
-quindi assicurati di controllarlo ogni tanto.","你可以偶爾確認一下白板。
+quindi ricordati di darle un'occhiata regolarmente.","你可以偶爾確認一下白板。
 有時會追加新的委託。",,"때때로 화이트보드를 체크해 보도록
 새로운 의뢰가 추가되어 있는 경우도 있으니까 말이지","Ich werde öfter neue Fälle hinzufügen.
 Schau also hin und wieder vorbei."
@@ -62,9 +62,9 @@ continua semplicemente ad andare avanti.","目標地點是新宿。
 어렵게 생각하지 말고, 우선 앞으로 나아가 보도록","Geh nach Shinjuku. Wir wissen nicht alles, aber es
 ist wichtig, einen Anfang zu machen. Überleg nicht
 zu lange, mach einfach weiter."
-2040,3006,,"L'hackeraggio di account sta iniziando a
-essere un vero problema. Vai a
-chiedere in giro a EDEN, vedi cosa riesci a scoprire.","畢竟是鬧得這麼大的『帳號狩獵』。
+2040,3006,,"Il furto di account sta diventando
+un vero problema. Fai qualche domanda in giro
+in EDEN e vedi cosa riesci a scoprire.","畢竟是鬧得這麼大的『帳號狩獵』。
 只要到EDEN走一趟，應該能獲得某些情報吧。",,"이렇게나 소동이 되고 있는『계정 사냥』이다
 EDEN에 가면 무언가 정보를 입수할 수 있겠지","Kontendiebstahl ist langsam echt ein
 Problem. Hör dich in EDEN um.
@@ -91,8 +91,8 @@ fare? Ah... Vai a parlare con Mirei Mikagura, ti aiuterà.","……如果不曉�
 그렇군…「미카구라 미레이」라면, 여러모로 도움이 되어 주겠지","Was, wenn du nicht weiterweißt?
 Ach ... Geh zu Mirei Mikagura. Sie hilft dir."
 3000,3006,,"Non dovevi incontrare Nokia a Galacta Park?
-Amici o no, un caso è un caso.
-Non rilassarti.","你是跟諾奇雅約在「破銅爛鐵公園」碰面對吧？
+Amici o meno, un incarico è un incarico.
+Non battere la fiacca.","你是跟諾奇雅約在「破銅爛鐵公園」碰面對吧？
 就算對方是朋友，但委託就是委託……　你可要好好調查啊，呵呵。",,"「잡동사니 공원」에서 노키아와 만나기로 하지 않았나?
 친구가 부탁했다 해도, 의뢰는 의뢰… 확실히 조사하도록, 후후…","Solltest du nicht Nokia im Galacta-Park treffen?
 Auch bei Freunden gilt: Ein Fall ist ein Fall.
@@ -102,26 +102,26 @@ Vai a controllare Shinjuku--prima che ci arrivi la polizia.","你應該有收到
 在警察開始行動之前，快點去調查新宿吧。",,"통신을 받았겠지?
 경찰이 본격적으로 움직이기 전에, 신주쿠에서 조사를 진행하도록","Du hast die Übertragung erhalten, oder? Schau dich
 in Shinjuku um, bevor die Polizei es tut."
-4999,3006,,"A pensarci bene, siamo senza fagioli.
-Prendine un po', per favore? Li ho usati
-tutti ieri creando una nuova ricetta.","這麼說來，咖啡豆沒了呢。
+4999,3006,,"A pensarci bene, abbiamo finito il caffè in grani.
+Potresti andarne a comprare un po'? Li ho usati
+tutti ieri per provare una nuova ricetta.","這麼說來，咖啡豆沒了呢。
 你可以去幫我買一下嗎？
 昨晚為了開發新口味可用掉不少啊。",,"그러고 보니, 커피콩이 다 떨어졌군
 사와 줄 수 있겠나?
 어젯밤 새로운 레시피를 고안해 내는데 대량으로 써 버려서 말이지","Mir fällt gerade ein, wir haben keine Bohnen mehr.
 Kannst du welche besorgen? Ich habe gestern
 alle für ein neues Rezept benutzt."
-5000,3006,,"Oho? Pensi che ti stia facendo lavorare troppo?
-...Hai un bel coraggio. Chi esattamente ti sta
-dando vitto e alloggio, di nuovo?","哦……你是想從我身上搾出錢來嗎？
+5000,3006,,"Oh? Pensi che ti stia facendo lavorare troppo?
+...Hai un bel coraggio. Ricordami un po':
+chi è che ti offre vitto e alloggio?","哦……你是想從我身上搾出錢來嗎？
 挺有膽量的嘛。
 你以為你的食衣住都是由誰出錢的？",,"호오… 나에게서 착취하겠다는 건가?
 …배짱이 좋군
 너의 의식주를 제공해 주고 있는 게 누구라고 생각하지?","Aha? Du meinst, du musst zu viel arbeiten?
 ... Du bist ja ganz schön mutig.
 Wer gibt dir denn Kost und Logis?"
-5010,3006,,"Vai al posto di Makoto Yamashina.
-E questa volta, lo fai parlare.
+5010,3006,,"Vai a casa di Makoto Yamashina.
+E questa volta vedi di farlo parlare.
 ...Conto su di te.","你去山科誠的家吧。
 這次一定要讓他招供，交給你囉。",,"넌 야마시나 마코토의 집으로 향하도록
 이번만큼은, 반드시 입을 열게 하는 거다… 부탁한다","Statte Makoto Yamashina einen Besuch ab.
@@ -301,8 +301,7 @@ Anche tu devi andare a Odaiba.","瞭解作戰內容了吧？
 너도 서둘러 오다이바로 향하도록","Hast du den Plan verstanden?
 Nokia ist schon unterwegs.
 Du solltest auch nach Odaiba aufbrechen."
-16010,3006,,"Quindi, per essere chiari, i cinque Cavalieri
-Reali rimanenti sono Examon, Craniamon,
+16010,3006,,"Quindi, per essere chiari, i cinque Royal Knights rimanenti sono Examon, Craniamon,
 Crusadermon, Dynasmon e Leopardmon.","稍微整理一下情報吧……　剩下的皇家騎士有
 艾克薩獸、顱骨獸、劍皇獸、
 杜納斯獸、芳香獸等五位。",,"조금 정보를 정리해 둘까… 남은 로얄 나이츠는
@@ -387,9 +386,9 @@ Vai a fare qualcosa di produttivo. Accetta qualche caso.","對於艾克薩獸的
 의뢰라도 완수하면서, 시간을 효과적으로 쓰도록","Examon ist für den Moment sicher.
 Geh und erledige was Produktives.
 Nimm ein paar Fälle an."
-16040,3006,,"...Odi dover solo startene lì ad
-aspettare? Non è che le persone aspettino
-sempre qualcosa? ...Non che io sia diverso.","……只能等待很痛苦嗎？
+16040,3006,,"...Odi doverti limitare a stare lì ad
+aspettare? Non credi che le persone aspettino
+sempre qualcosa? ...Non che io sia diversa.","……只能等待很痛苦嗎？
 但是，人總是一直等待著什麼……我也是一樣的。",,"…그저 계속 기다리는 것이, 괴로운가?
 하지만, 인간은 언제나 무언가를 기다리는 존재다… 나도, 말이지","Hasst du es, warten zu müssen?
 Warten wir nicht immer auf irgendwas?

@@ -7,7 +7,7 @@
 104,4126,,Non sento assolutamente niente... Neanche...una cosa...,我沒有……實感……,,실감이… 나지 않아,Ich spüre gar nichts ... kein ... bisschen ...
 105,2001,,!?,……！？,,…윽!!?,?!
 106,3006,,Cos'è successo?,怎麼了？,,왜 그러지?,Was ist geschehen?
-107,3006,,"Cosa...? Pete è scomparso davanti a te?",……什麼？　皮特不見了？,,…뭐? 피트가 없어졌다고?,"Was ...? Pete ist direkt vor deinen Augen
+107,3006,,Cosa...? Pete è scomparso davanti a te?,……什麼？　皮特不見了？,,…뭐? 피트가 없어졌다고?,"Was ...? Pete ist direkt vor deinen Augen
 verschwunden?"
 108,3006,,"Hmm... Per ora torna qui. È appena arrivato
 un nuovo caso che è motivo di preoccupazione.","……你先回來一趟吧。
@@ -15,7 +15,7 @@ un nuovo caso che è motivo di preoccupazione.","……你先回來一趟吧。
 마침 신경 쓰이는 의뢰가 들어온 참이다","Hm ... Komm erst mal wieder her.
 Wir haben gerade einen neuen Fall erhalten,
 der mir Sorgen macht."
-109,3006,,"Potrebbe essere collegato a quello a cui hai appena assistito.",或許跟皮特的事有關係。,,뭔가 관계가 있을지도 모른다,"Es könnte mit dem zu tun haben, was du gesehen
+109,3006,,Potrebbe essere collegato a quello a cui hai appena assistito.,或許跟皮特的事有關係。,,뭔가 관계가 있을지도 모른다,"Es könnte mit dem zu tun haben, was du gesehen
 hast."
 110,4126,,"Non sento niente... Nemmeno di essere...
 davvero qui...",不只這樣，我明明在這裡，卻沒有……實感。,,"뿐만 아니라 여기에 있는데도, 실감이… 나지 않아","Ich spüre nichts ... noch nicht mal, dass ich ...
@@ -177,7 +177,7 @@ C'è solo un modo per scoprirlo...","皮特……到底發生了什麼事？
 往前進吧……",,"피트… 대체 무슨 일이?
 앞으로 나아가자","Was ist mit Pete los?
 Es gibt nur einen Weg, das herauszufinden ..."
-501,4878,,"Perché... Perché devi sapere chi sono veramente...?",為什麼……你試圖想了解我……,,어째서…… 나를 알려고 하는 거야……,"Warum ... Warum musst du wissen, wer ich
+501,4878,,Perché... Perché devi sapere chi sono veramente...?,為什麼……你試圖想了解我……,,어째서…… 나를 알려고 하는 거야……,"Warum ... Warum musst du wissen, wer ich
 wirklich bin ...?"
 502,2001,,Nessuna risposta.,……沒有回應。,,…답이 없다,Keine Antwort.
 503,2001,,Troviamo Pete!,去找皮特吧……！,,피트를 찾자…!,Suchen wir nach Pete!
@@ -487,7 +487,7 @@ Sicherheit ein!"
 1302,4879,,Qualcuno... chiunque... ditemi...,誰來……告訴我……,,누군가…… 알려줘,Sag ... es mir ... doch jemand ...
 1401,4879,,Per favore... Chi sono... Io...?,我是……誰……告訴我……,,나는…… 누구…… 알려줘……,Bitte ... Wer bin ... ich ...?
 1402,4879,,Pete...?,皮特……？,,피트…?,Pete ...?
-1403,4879,,"No... Non è... corretto... Non è corretto!",不……對……不對！,,아니… 야… 아니야!,"Nein ... Das ... stimmt nicht ... Das stimmt
+1403,4879,,No... Non è... corretto... Non è corretto!,不……對……不對！,,아니… 야… 아니야!,"Nein ... Das ... stimmt nicht ... Das stimmt
 nicht!"
 1404,4879,,Yoshito...Mizushima?,水嶋……嘉人……？,,미즈시마… 요시토…?,Yoshito ... Mizushima?
 1405,4879,,"Ah, aaaaaugh! No, non sono io!
@@ -496,7 +496,7 @@ Ich bin ...!"
 1406,4879,,Miko...?,咪子……？,,미코…?,Miko ...?
 1407,4879,,"Io sono... Miko... Ah, aaaaargh!",我是……咪子……啊，啊啊啊啊！,,"나는… 미코…… 아아, 아아아아!","Ich bin ... Miko ... Ah, aaaaaargh!"
 1501,4880,,"Sì, esatto... Il mio nome è Miko...",對啊……我是咪子。,,"맞아… 나는, 미코","Ja, das stimmt ... Mein Name ist Miko ..."
-1502,4880,,"Yoshito è...un mio amico. Pete è...un tuo amico...","嘉人是……我的朋友。
+1502,4880,,Yoshito è...un mio amico. Pete è...un tuo amico...,"嘉人是……我的朋友。
 皮特是……你的朋友。",,"요시토는…… 친구
 피트는…… 네 친구","Yoshito ist ... mein Freund.
 Pete ist ... dein Freund ..."
@@ -551,7 +551,7 @@ io vivevo in questo edificio, lontano dalla mia famiglia.","喔……其實，�
 Raum mit dem Röhrencomputer noch gab, wohnte
 ich in diesem Gebäude, nicht bei meiner Familie."
 1709,4133,,Quella stanza dei computer era dove lavoravo prima.,因為我的工作地點就是電腦室。,,컴퓨터 룸은 내 직장이었지,In dem Computerraum habe ich gearbeitet.
-1710,4133,,"L'unica famiglia che ho avuto con me in tutto quel tempo è stata Miko qui.",唯一一個帶來這裡的家人，就是咪子。,,"유일하게 데려온 가족이, 이 미코란다","Miko war die ganze Zeit über die einzige
+1710,4133,,L'unica famiglia che ho avuto con me in tutto quel tempo è stata Miko qui.,唯一一個帶來這裡的家人，就是咪子。,,"유일하게 데려온 가족이, 이 미코란다","Miko war die ganze Zeit über die einzige
 Familie, die ich hatte."
 1711,4133,,"Ho parlato con Miko di tutto ciò che c'era... 
 I miei ricordi della mia famiglia, Fuyume Yuki...
@@ -625,12 +625,13 @@ Computer verschmolzen und ein Digimon geworden."
 [p]?",那就是我們所知的“皮特＂。,,"그것이 우리가 아는 ""피트""다","Der alte Kater hat ganz schön was erlebt, meinst
 du nicht, [p]?"
 1805,3006,,"Non possiamo dire con certezza cosa comportasse l'effettivo processo di
-assimilazione, ma a questo punto, sappiamo che è meglio non dubitare che sia successo.","雖然不知道它被同化的詳細過程，
+assimilazione, ma a questo punto, sappiamo che è meglio non dubitare che sia
+successo.","雖然不知道它被同化的詳細過程，
 但我們可以知道這種事是有可能發生的。",,"동화한 자세한 프로세스는 불명이지만
 우리는 그런 현상이 일어날 수 있다는 걸 알고 있다","Wir wissen nicht mit Sicherheit, wie die
 Verschmelzung passiert ist, aber es gibt keine
 Zweifel, dass sie stattgefunden hat."
-1806,3006,,"È stupefacente quanto il mondo digitale e il mondo reale si sovrappongano,
+1806,3006,,"È stupefacente quanto il Digi World e il mondo reale si sovrappongano,
 e allo stesso tempo quanto poco lo facciano.",電腦世界與現實世界的牆相當厚，也相當薄……,,"전뇌세계와 현실세계의 벽은 두껍기도 하고, 얇기도 하다…","Es ist erstaunlich, wie sehr und wie wenig die
 Digitale Welt und die echte Welt sich überschneiden ..."
 1807,3006,,"Immagino che la ragione per cui Pete si è rifatto vivo dopo tutti
@@ -675,7 +676,7 @@ le nostre risposte piuttosto facilmente...","如果調查看看這個人，
 或許會比較容易得到解答。",,"이 인물을 조사한다면
 쉽게 답을 얻을지도 모르겠군","Wenn wir uns seine Vorgeschichte ansehen, finden
 wir vielleicht schnell unsere Antworten ..."
-1819,3006,,"Cosa ne pensi? Scaviamo un altro po'?",你想確認看看嗎？,,너는 그걸 확인하고 싶은가?,"Was meinst du? Sollten wir noch etwas
+1819,3006,,Cosa ne pensi? Scaviamo un altro po'?,你想確認看看嗎？,,너는 그걸 확인하고 싶은가?,"Was meinst du? Sollten wir noch etwas
 nachforschen?"
 1820,4878,,"""Vi prego, lasciateci stare... Non venite a cercarci.""",“不要找尋　我們＂,,"""우리를 찾지 말아줘""","„Bitte lasst uns in Ruhe ... Sucht nicht nach
 uns.“"
@@ -690,7 +691,7 @@ Bescheid sagen. Das wäre ein gefundenes
 Fressen für sie."
 1823,3006,,"Voglio dire, si sono trovati faccia a faccia con un vero...",畢竟，他們看到的是真正的——,,뭐니뭐니 해도 그들이 직접 본 건 진짜로―,"Ich meine, sie haben persönlich einen echten–"
 1824,3006,,"...Sai cosa, no, teniamolo per noi.",……呵，不，還是算了。,,"……훗, 아니, 그만두지",... Weißt du was? Behalten wir es für uns.
-1901,3006,,"Non tutti i misteri in questo mondo devono essere risolti.",這世界上有很多謎是不需要解開的。,,해명할 필요가 없는 수수께끼도 이 세상에는 잔뜩 있다,"Nicht alle Rätsel in dieser Welt müssen gelöst
+1901,3006,,Non tutti i misteri in questo mondo devono essere risolti.,這世界上有很多謎是不需要解開的。,,해명할 필요가 없는 수수께끼도 이 세상에는 잔뜩 있다,"Nicht alle Rätsel in dieser Welt müssen gelöst
 werden."
 1902,3006,,Nakano Broadway unisce molte cose...,中野這個地方……,,"여기는, 이 나카노는…",Nakano-Broadway verbindet viele Dinge ...
 1903,3006,,Il mondo degli spiriti e il mondo dei viventi...,黃泉與現世。,,영계와 현세,Die Geisterwelt und die Welt der Lebenden ...

@@ -1,4 +1,4 @@
-﻿ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
+﻿﻿ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
 0,4581,,"I forti, gli intelligenti e i tosti! 
 Kowloon appartiene a noi hacker!","很強的傢伙！　聰明的傢伙！　還有自由的傢伙！
 「Kowloon」是屬於我們這些駭客的東西！",,"강한 녀석! 영리한 녀석! 그리고 자유로운 녀석!
@@ -12,9 +12,9 @@ sono limitati, quindi devi trovare un equilibrio.","有關數碼寶貝戰鬥，�
 균형을 생각하면서 파티를 잘 짜둬야 해!","Bei einem Digimon-Kampf ist die Affinität zwischen
 Spezies und Attribut sehr wichtig. Aber man kann
 nur wenige mitnehmen und muss sie gut auswählen."
-2,4583,,"I Digimon con un'alta SPD sono buoni perché possono muovere
-subito dopo l'inizio della battaglia, ma molti di loro
-sono deboli e hanno un basso ATK.","「SPD」高的數碼寶貝，在戰鬥開始時，很快就能
+2,4583,,"I Digimon con alta SPD sono utili perché possono agire
+subito all'inizio della battaglia, ma molti di
+loro sono fragili e hanno un basso ATK.","「SPD」高的數碼寶貝，在戰鬥開始時，很快就能
 行動，所以很方便。但缺點則是較脆弱，以及
 攻擊力低的數碼寶貝居多。",,"「민첩」이 높은 디지몬은
 배틀을 개시했을 때, 빨리 행동할 수 있으니까 편리하지.
@@ -28,8 +28,8 @@ equipaggiamento che le resista e le annulli.","千萬不要小看異常狀態喔
 상태 이상 내성이라던가, 무효 효과가 붙은 장비는 뺄 수가 없어","Statusleiden sind schlimm, vor allem Verwirrung.
 Deshalb braucht man Ausrüstung, die gegen sie
 resistent macht oder sie negiert."
-100,4581,,"Il cielo può essersi aperto e possono star
-piovendo Digimon, ma Kowloon appartiene a noi hacker!","……不管是天空破個洞也好，還是有數碼寶貝
+100,4581,,"Anche se il cielo si è squarciato e piovono
+Digimon, Kowloon appartiene solo a noi hacker!","……不管是天空破個洞也好，還是有數碼寶貝
 從那個洞掉下來也好……
 這「Kowloon」都是我們駭客的東西！！",,"…하늘이 갈라지든, 거기서 디지몬이 내려오든…
 이「쿠롱」은 우리 해커의 것이다아앗!!","Auch wenn der Himmel aufgebrochen ist und es
@@ -43,9 +43,9 @@ funziona per te, puoi competere con i migliori hacker!","你有注意「種族�
 너도 누구 못지않은 해커야!","Behältst du die Affinität zwischen Spezies und
 Attributen im Augen? Wenn deine Gruppe gut ist,
 kannst du es mit den besten Hackern aufnehmen!"
-102,4583,,"Avevo un party composto solo da Digimon con SPD alta. Hanno
-tutti attaccato non appena è iniziata la
-battaglia! Ottenere il primo colpo fa tutta la differenza!","組了個只有「SPD」高的數碼寶貝的隊伍，
+102,4583,,"Avevo un gruppo composto solo da Digimon con SPD alta. Hanno
+attaccato tutti non appena è iniziata la
+battaglia! Colpire per primi fa la differenza!","組了個只有「SPD」高的數碼寶貝的隊伍，
 在剛開始戰鬥時，全部一起攻擊真是爽快！
 先下手為強啊！",,"「민첩」이 높은 디지몬만으로 파티를 짰어
 배틀이 시작된 직후에 일제 공격할 수 있어서 상쾌해! 선수 필승이지!","Ich hatte eine Gruppe, bei der alle Digimon hohe

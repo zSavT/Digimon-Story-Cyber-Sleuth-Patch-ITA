@@ -1,5 +1,5 @@
 ﻿ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
-1,3002,,"Cosa?! Come?! Era quello... un Eater?","咦……？咦、咦咦？
+1,3002,,Cosa?! Come?! Era quello... un Eater?,"咦……？咦、咦咦？
 奇、奇怪？侵、侵食者呢……？",,"……에? 에, 에에!?
 어, 어라…? 이, 이터는…?","Wie? Was?!
 War das ... ein Verschlinger?"
@@ -11,7 +11,7 @@ Non ci posso credere! Cosa succede?!","咦！？又出現了厲害的數碼寶�
 真是的……到底是怎樣啦……！？",,"에!? 또, 굉장해 보이는 디지몬이 나타났는데!?
 잠깐, 정말… 뭐가 어떻게 된 거야…!?","Wie? Noch ein unglaubliches Digimon!
 Nicht zu fassen! Was ist nur los?!"
-6,3003,,Tu vuoi ... proteggerci?,他是在……保護我們嗎？,,우리들을… 지켜 주는 거야?,Du willst uns ... beschützen?
+6,3003,,Vuoi ... proteggerci?,他是在……保護我們嗎？,,우리들을… 지켜 주는 거야?,Du willst uns ... beschützen?
 7,1703,,Tu! Tu osi intrometterti?!,你這傢伙！是打算妨礙我嗎？,,네놈…! 날 방해하려는 거냐!?,"Du! Du wagst es, dich einzumischen?!"
 8,1703,,"Non so cosa tu sia, ma togliti di mezzo!
 No, distruggila! Cancella subito!","雖然不知道你是誰，給我讓開……！
@@ -19,7 +19,7 @@ No, distruggila! Cancella subito!","雖然不知道你是誰，給我讓開…�
 아니, 그 녀석들을 뭉개 버려! 당장 딜리트해 버려!","Ich weiß nicht, was du sein sollst, aber geh mir
 aus dem Weg! Nein, vernichte sie!
 Lösche sie, sofort!"
-9,1703,,"Queste persone hanno distrutto il nostro Mondo Digitale!
+9,1703,,"Queste persone hanno distrutto il nostro Digi World!
 Sono criminali che non potremo mai perdonare!","那些人類，是讓我們數碼世界崩壞的罪人！
 不可饒恕！",,"그 인간들은, 우리들의 디지털 월드를 붕괴시킨
 용서할 수 없는 죄인이다!","Diese Menschen haben unsere Digitale Welt zerstört!
@@ -75,7 +75,7 @@ sfaccettature forse non sono così facili da riconoscere per te?","而且，那�
 eine Seite. Sind ihre anderen Facetten vielleicht
 nicht so leicht zu erkennen für dich?"
 22,1703,,"Digimon paragonabile agli umani?!
-Anche tu sei stato umanizzato! Tu sei pazzo!","數碼寶貝和人類是一樣的……！？
+Anche tu sei stato umanizzato! Sei pazzo!","數碼寶貝和人類是一樣的……！？
 你這傢伙……是和人類同化，精神錯亂了嗎？",,"디지몬과 인간이, 같다고…!?
 네놈… 인간과 동화해서, 미친 거냐!?","Digimon vergleichbar mit Menschen?!
 Du wurdest auch schon vermenschlicht!
@@ -96,15 +96,15 @@ Gahaha, muahaha!"
 26,4963,,"Oh, cielo. Tali parole non si addicono a un nobile Royal Knight.","哎呀……真難以想像，
 這居然是無上榮耀的皇家騎士說出的話。",,"…이거이거, 긍지높은 로얄 나이츠의 말이라고는 생각하기 힘들군","Meine Güte. Solche Worte geziemen sich nicht für
 einen edlen Royal Knight."
-27,1703,,"Basta chiacchiere! Cosa ne sa mai qualcuno come te sui Royal Knights?","少廢話！像你這種來路不明的數碼寶貝，
+27,1703,,Basta chiacchiere! Cosa ne sa mai qualcuno come te sui Royal Knights?,"少廢話！像你這種來路不明的數碼寶貝，
 哪裡了解皇家騎士……！？",,"닥쳐라! 네놈 같은 정체 모를 녀석이
 로얄 나이츠의 뭘 안다는 거냐…!?","Genug mit dem Geschwätz! Was weiß jemand wie du
 schon über die Royal Knights?"
-28,4963,,"Non so niente. È per questo che faccio tutte queste domande.","我也不知道，
+28,4963,,Non so niente. È per questo che faccio tutte queste domande.,"我也不知道，
 所以我才要一直問你。",,"나도 모른다
 그렇기 때문에, 계속 묻고 있지","Ich weiß gar nichts.
 Deshalb stelle ich ja all diese Fragen."
-29,1703,,"Alla fine sei proprio come loro. Ignorante!",哼……也就是說，你也和人類一樣蒙昧無知……！,,"흥… 요컨대 네놈도 인간과 마찬가지로, 무지몽매한 거로군…!","Letztendlich bist du genau wie sie.
+29,1703,,Alla fine sei proprio come loro. Ignorante!,哼……也就是說，你也和人類一樣蒙昧無知……！,,"흥… 요컨대 네놈도 인간과 마찬가지로, 무지몽매한 거로군…!","Letztendlich bist du genau wie sie.
 Ignorant!"
 30,1703,,"Allora, vieni qui!
 Eliminerò questa spazzatura adesso!","快來吧！
@@ -123,11 +123,11 @@ Insieme a Nokia Shiramine e Yuuko Kamishiro?","還是說……你要如那傢伙
 시라미네 노키아, 카미시로 유코… 그녀들과 함께","Oder ... verschwindest du einfach, so wie sie das
 will? Zusammen mit Nokia Shiramine und
 Yuuko Kamishiro?"
-34,3002,,"Un momento... Come scusa? Cosa sta succedendo qui?","等……咦？
+34,3002,,Un momento... Come scusa? Cosa sta succedendo qui?,"等……咦？
 這、這是……怎麼一回事？",,"잠, 깐… 에?
 이, 이거… 어떻게 된 거야?","Einen Moment ... Wie bitte?
 Was läuft hier eigentlich?"
-35,3002,,"Ci conosci? Chi... sei?!","你為什麼認識我們……？
+35,3002,,Ci conosci? Chi... sei?!,"你為什麼認識我們……？
 你……是誰！？",,"우리들을, 알고 있어…?
 너… 누구야!?","Du kennst uns?
 Wer ... bist du?!"

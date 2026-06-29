@@ -1,8 +1,8 @@
 ID,Japanese,English,Chinese,EnglishCensored,Korean,German
 20,,Broadway in fiamme!,灼熱百老匯,,작열 브로드웨이,Brandheißes Broadway!
-21,,"C'è qualcosa che non va con l'aria condizionata 
-di Broadway. Fa decisamente troppo caldo!
-Vuoi controllare qual è il problema?","百老匯裡的空調又出了狀況
+21,,"L'aria condizionata di Broadway ha qualche
+problema. Fa decisamente troppo caldo!
+Puoi scoprire qual è la causa?","百老匯裡的空調又出了狀況
 這次是因為溫度上升而熱得不得了呀……
 能拜託你調查原因嗎？",,"또 브로드웨이 내의 공기 상태가 이상해.
 이번엔 온도가 올라가서 무덥기 짝이 없어…
@@ -16,9 +16,9 @@ Luogo: Broadway 1F","【委託人】中式餐廳店長
 Ort: Broadway – 1. Stock"
 23,,Dai un'occhiata a Broadway.,調查BW館內，尋找空調失靈的原因,,BW관내를 조사하여 공조이상의 원인을 찾자.,Untersuche Broadway
 26,,La ricompensa è all'agenzia,在事務所領取報酬,,사무소에서 보상을 받는다.,Belohnung im Büro
-40,,"Un Gioco, un Bug e un Lavoro in Pericolo",遊戲和錯誤和解雇,,게임과 에러와 나의 목,"Ein Spiel, ein Fehler, ein Job in Gefahr"
-41,,"Il mio gioco per telefono è uscito, ma c'è
-un bug davvero enorme! Aaaahhh! Per favore
+40,,"Un gioco, un bug e un lavoro in pericolo",遊戲和錯誤和解雇,,게임과 에러와 나의 목,"Ein Spiel, ein Fehler, ein Job in Gefahr"
+41,,"La mia app di gioco è uscita, ma c'è un bug
+gravissimo! Aaaahhh! Per favore, 
 aiutatemi!","公司發行了一款手機遊戲APP
 卻出現原因不明的重大錯誤！
 ……啊啊啊啊啊！　快幫幫我啊！！",,"휴대게임 앱을 발매했는데
@@ -48,8 +48,9 @@ Luogo: Shinjuku","【委託人】帥氣的男子
 【장소】신주쿠","Klient: Heißer Typ
 Ort: Shinjuku"
 63,,Esegui un Salto di Connessione,在手機上登入跳躍，尋找原因,,핸드폰으로 커넥트 점프하여 원인을 찾아내자.,Verbindungssprung machen
-80,,Pugni Rossi e Sudore che Cola!,熱血之拳、沸騰汗水！,,"붉게 타오르는 주먹, 끓어오르는 땀!",Rote Fäuste und rinnender Schweiß!
-81,,"Le visualizzazioni del sito per l'associazione sono
+80,,Pugni infuocati e fiumi di sudore!,熱血之拳、沸騰汗水！,,"붉게 타오르는 주먹, 끓어오르는 땀!",Rote Fäuste und rinnender Schweiß!
+81,,"Le visualizzazioni del sito per l'associazione
+sono
 alle stelle! Il sito è andato giù...
 Qualcuno ci sta sabotando?","協會官方網站的流量急遽增加！
 害伺服器一直斷線，抱怨聲如雪片般飛來啊
@@ -72,7 +73,7 @@ Ort: K-Café"
 100,,Una Crisi di Vita!?,生命危險！？,,생명의 위기!?,Lebensgefahr?!
 101,,"Click... Ho perso... un ingranaggio... Click...
 Se... non lo... click... trovo...
-Click... morirò! Aiuto... click... mi serve!","嗄吱……身體的齒輪……少了一個……
+Click... morirò! Aiutatemi... click... vi prego!","嗄吱……身體的齒輪……少了一個……
 再這樣下去……嗄吱、我會死掉的……
 ……拜託你，快來救我……！！",,"기긱…몸의 톱니바퀴를 하나…잃어버렸어…
 이대로라면…기긱, 난 죽어…
@@ -104,8 +105,8 @@ Ort: Unklar"
 123,,DemiDevimon in città,尋找徘徊在某條街上的小惡魔獸,,어떤 거리에 있는 피코데블몬을 찾자.,DemiDevimon in Stadt
 140,,Sogno del Cielo,翱翔天際的心願,,하늘에 거는 마음,Der Traum vom Fliegen
 141,,"Il sogno di Biyomon è volare nel cielo!
-Ma non importa quanto Biyomon ci provi,
-non ce la fa... Aiuta Biyomon!","比丘獸的夢想就是在天空中自由翱翔！
+Ma per quanto si sforzi, non ci 
+riesce... Per favore, aiuta Biyomon!","比丘獸的夢想就是在天空中自由翱翔！
 但是，不管怎麼練習還是飛不起來
 該怎麼做才好呢？　聽聽我的煩惱吧",,"피요몬의 꿈은 말야, 자유롭게 하늘을 나는거야!
 그치만 아무리 연습해도 잘 날 수가 없어.
@@ -140,7 +141,7 @@ Ort: Broadway – 3. Stock"
 166,,Growlmon hacker di EDEN,在EDEN裡找出古拉獸的駭客主人,,EDEN에서 그라우몬의 주인 해커를 찾아라.,Hackerin in EDEN
 180,,Svelare il Settimo Enigma,校園七大不可思議，第7項的真相,,"학교 7대 불가사의, 7번째의 정체",Die Lösung des siebten Rätsels
 181,,"Ci sono sette indovinelli nella scuola.
-E ho visto il mostro del settimo!
+E io ho visto il mostro del settimo!
 Aiutami a scoprire la sua vera identità!","學校裡流傳著七大不可思議
 我看見了第7項的妖怪呀！
 你也幫我一起揭發那傢伙的真面目吧！",,"학교에 전해지는 7대 불가사의가 있는데
@@ -157,9 +158,9 @@ Ort: Broadway-Kartenladen"
 184,,Il vero mostro è?,去勸誡妖怪的真身,,괴물의 정체!?에 주의하며 가자.,Das Monster ist ...
 185,,Attento a Wizardmon,去勸誡巫師獸,,위자몬에 주의하러 가자.,"Vorsicht, Wizardmon"
 200,,Sonno Interrotto,妨礙睡眠,,수면 방해,Gestörter Schlaf
-201,,"È trrrrrroppo rumoroso fuori! Quei
-Digimon non smettono di combattersi.
-Vai a dirgli di smetterla. Ho paura...","吵死了、吵死了－－！　外頭好吵啊！
+201,,"C'è trooooppo baccano fuori! Quei
+Digimon non smettono di azzuffarsi.
+Vai a dirgli di piantarla. Ho paura...","吵死了、吵死了－－！　外頭好吵啊！
 都是那些腦充血的數碼寶貝的打鬥害的
 我太害怕了不敢去，你去警告它們吧。",,"시끄러, 시끄러워어어! 바깥이 소란스러워!
 텁수룩한 디지몬끼리 싸우는 탓이야.
@@ -207,8 +208,8 @@ Ort: Akihabara"
 243,,Trova il Digimon,尋找徘徊在某條街上的惡魔獸,,어떤 거리에 있는 데블몬을 찾자.,Das Digimon finden
 260,,Il giocatore numero 1!,最強的玩家！,,최강의 게이머!,Der beste Gamer!
 261,,"Voglio che tu dia un'occhiata al tipo che mi ha
-sottratto il titolo di campione al Top Grappler.
-Quel tipo è un imbroglione!?","現今最熱門的格鬥遊戲「摔角生死鬥」
+sottratto il titolo di campione a Top Grappler.
+Non starà mica barando!?","現今最熱門的格鬥遊戲「摔角生死鬥」
 幫我調查奪取我最強寶座位置的男人
 最近才冒出的，強成那樣……不是作弊嗎？",,"지금 인기 격투 게임「TOP 그래플러」
 여기서 내 최강의 칭호를 뺏은 남자의 조사를 부탁해.
@@ -242,9 +243,9 @@ Ort: Broadway – 3. Stock"
 284,,Vai nello Spazio Digitale,前往數碼空間的深處,,디지털 스페이스의 안쪽으로 향하자.,In den Digitalraum
 285,,Combatti Justimon,接受來自裁決獸的挑戰,,저스티몬의 승부를 받아들이자.,Justimon bekämpfen
 300,,Vanto Costante,自吹自擂也該適可而止,,자랑도 적당히,Dauerprahlen
-301,,"BanchoLeomon non smetterà di vantarsi! Il mio
-amico mi aveva avvertito... Qualcuno,
-per favore, faccia smettere BanchoLeomon!","我的朋友找我商量
+301,,"BanchoLeomon non la smette più di vantarsi!
+Il mio amico mi aveva avvertito... Qualcuno
+faccia smettere BanchoLeomon, vi prego!","我的朋友找我商量
 說番長獅子獸一吹噓起來就沒完沒了
 有沒有人可以阻止它呀？",,"나도 친구한테 전해들은 이야기지만
 반쵸레오몬의 자랑 이야기가 너무 길대.
@@ -261,8 +262,8 @@ Ort: Akihabara"
 305,,Ferma BanchoLeomon,阻止番長獅子獸,,반쵸레오몬을 막자.,BanchoLeomon stoppen
 320,,Guardia di sicurezza domestica,自宅警備員,,자택경비원,Haushüter
 321,,"Mio figlio hikikomori ama chattare online.
-C'è una ragazza che gli piace davvero ma
-devo sapere se è reale.","不肯上學的兒子沉迷於網聊
+Gli piace molto una ragazza, ma devo
+sapere se esiste davvero.","不肯上學的兒子沉迷於網聊
 似乎和聊天室認識的女性很親密……
 請你調查我兒子有沒有被女性詐騙",,"등교거부 아들이 채팅에 빠져 있어.
 거기서 만난 여성과 친해진 것 같은데…
@@ -418,7 +419,7 @@ Luogo: K-Cafe","【委託人】線上百科網站站長
 【所在地】K-Cafe",,"【의뢰인】사전 사이트 관리인
 【장소】K-카페","Klient: Lexikon-Administratorin
 Ort: K-Café"
-483,,Connettiti al Jump K-Cafe,在K-Cafe的電腦上登入跳躍,,K-카페의 PC로 커넥트 점프를 하자.,Verbindungssprung K-Café
+483,,Effettua un Salto di Connessione al K-Cafe,在K-Cafe的電腦上登入跳躍,,K-카페의 PC로 커넥트 점프를 하자.,Verbindungssprung K-Café
 484,,Trova il criminale,在數碼空間裡尋找犯人,,디지털 스페이스에서 범인을 찾자.,Verbrecher finden
 500,,Ulteriori problemi con Digipedia,續‧奇怪的免費線上百科,,이상한 프리 백과사전2,Weitere Probleme mit der Digipedia
 501,,"Lo stesso problema si è ripresentato.
@@ -435,7 +436,7 @@ Luogo: K-Cafe","【委託人】線上百科網站站長
 【所在地】K-Cafe",,"【의뢰인】사전 사이트 관리인
 【장소】K-카페","Klient: Lexikon-Administratorin
 Ort: K-Café"
-503,,Connettiti al Jump K-Cafe,在K-Cafe的電腦上登入跳躍,,K-카페의 PC로 커넥트 점프를 하자.,Verbindungssprung K-Café
+503,,Effettua un Salto di Connessione al K-Cafe,在K-Cafe的電腦上登入跳躍,,K-카페의 PC로 커넥트 점프를 하자.,Verbindungssprung K-Café
 504,,Trova il criminale,在數碼空間裡尋找犯人,,디지털 스페이스에서 범인을 찾자.,Verbrecher finden
 520,,Il Dott. Datamon Sviluppa una Medicina,分子獸博士的新藥開發,,데이터몬 박사의 신약 개발,Dr. Datamon entwickelt Medizin
 521,,"Sono un famoso esperto nella creazione di 
@@ -491,8 +492,8 @@ Ort: Zentralkrankenhaus"
 564,,Trova RustTyranomon,尋找終極巨龍獸,,러스트티라노몬을 찾자.,Suche RustTyrannomon
 1000,,Wow! Volto Digitale Misterioso,追蹤！怪人數碼面相,,추적! 괴인 디지면상,Wow! Mysteriöses Cybergesicht!
 1001,,"Questo è un caso personale... Aiutami con
-il caso Matayoshi senza essere
-notato. È richiesta discrezione.","這次的委託是我私人的委託……
+il caso Matayoshi senza farti
+notare. È richiesta discrezione.","這次的委託是我私人的委託……
 請在暗中協助又吉刑警
 千萬不要被他發現了……",,"이번 의뢰는 내 개인적인 것이다…
 남몰래 마타요시 형사를 도와줘.
@@ -614,8 +615,8 @@ Ort: Galacta-Park, Kowloon"
 1124,,Nokia Kowloon Lv. 1,在Kowloon Lv. 1裡尋找諾奇雅,,쿠롱 Lv.1에서 노키아를 찾자.,"Nokia Kowloon, Ebene 1"
 1125,,Nokia Kowloon Liv. 2,在Kowloon Lv. 2裡尋找諾奇雅,,쿠롱 Lv.2에서 노키아를 찾자.,"Nokia Kowloon, Ebene 2"
 1140,,Non è l'ideale,La Misère（貧困）,,라 미셀,Nicht ideal
-1141,,"Ho alcune preoccupazioni riguardo a Nokia.
-C'è qualcosa che devo chiederti...","我想跟你商量有關諾奇雅的事
+1141,,"Nokia ultimamente mi preoccupa.
+C'è una cosa che devo chiederti...","我想跟你商量有關諾奇雅的事
 特別是你……我希望你能聽我說",,"노키아 문제로 상담할게 있어.
 너는…특히 들어두었으면 해.","Ich habe einige Bedenken wegen Nokia.
 Ich muss dich etwas fragen ..."
@@ -714,7 +715,8 @@ Luogo: Ufficio Metropolitano di Tokyo","【委託人】真田新
 Ort: Tokioer Metropolitan-Geb."
 1243,,A Server Valhalla,前往瓦爾哈拉伺服器,,발할라 서버로 가자.,Zum Walhalla-Server
 1244,,Verso Under Zero,走向深處，前往Under Zero,,안쪽에서 언더 제로로 나아가자.,Zu Unter Null
-1260,,Una giornata incredibile di un caporedattore (Ometti),責任編輯的非日常（排除）,,담당 편집자의 비일상(실격),TollerTag des Chefredakteurs (entfällt)
+1260,,"Una giornata incredibile di un caporedattore
+(Ometti)",責任編輯的非日常（排除）,,담당 편집자의 비일상(실격),TollerTag des Chefredakteurs (entfällt)
 1261,,No Shueisha (Ometti),由於沒有集英社了，所以排除,,슈에이사가 없어져서 실격,Kein Shueisha (–)
 1262,,"Cliente: Caso di Prova 14
 Luogo: Nakano Broadway","【委託人】臨時委託14
@@ -744,7 +746,7 @@ Ort: Nakano-Unterführung"
 1287,,Vai all'Ufficio Metropolitano di Tokyo,調查六本木的新都廳內部,,롯폰기의 신 도청 내부를 조사하자.,Zum Tokioer Metropolitan-Gebäude
 1288,,Esplora lo Spazio Digitale,調查數碼空間內部,,디지털 스페이스 내를 조사하자.,Digitalraum erkunden
 1300,,Yuuko e Yuugo,悠子與YUGO,,유코와 유고,Yuuko und Yuugo
-1301,,"Voglio discutere i dettagli di persona.
+1301,,"Voglio parlartene di persona.
 Riguarda Yuugo. Ti aspetterò nella
 stanza d'ospedale di mio fratello.","詳細情形我會當面說明
 ……是有關“YUGO”的事
@@ -920,7 +922,7 @@ Luogo: Agenzia Investigativa Kuremi","【委託人】大耳獸
 【장소】쿠레미 탐정사무소","Klient: Terriermon
 Ort: Detektivbüro Kuremi"
 1483,,Trova il mangia-e-fuggi,查明吃霸王餐的犯人,,먹튀 범인을 알아내자.,Blitzesser finden
-1484,,Controlla Digital Shift,前往Digital Shift的深處,,디지털 시프트 안쪽으로 나아가보자.,Digitale Verschiebung
+1484,,Controlla Spostamento Digitale,前往Digital Shift的深處,,디지털 시프트 안쪽으로 나아가보자.,Digitale Verschiebung
 1500,,"Mondo Parallelo, Ragazza & Destino: Fanatici",平行世界和少女和命運　狂熱的探求,,"병행세계와 소녀와 운명, 광신의 탐구",Schicksal aus d. Parallelwelt: Fanatiker
 1501,,"I Sette Grandi Demoni Digimon sono caduti...
 Questo è l'inizio di un nuovo destino.
@@ -958,9 +960,9 @@ Ort: DigiLab"
 1526,,1 [m3010] hacker,打到[m3010]的最後一名駭客,,[m3010]의 해커 남은 1명을 쓰러뜨려라.,1 Hacker in [m3010]
 1527,,Riporta a Mirei,向米蕾報告,,미레이에게 보고하자.,Mit Mirei sprechen
 2000,,La sfida di Rina Shinomiya,四之宮莉娜的挑戰書,,시노미야 리나의 도전장,Rina Shinomiyas Herausforderung
-2001,,"Voglio un incontro con te! Voglio mostrarti
-la mia passione! La mia zuppa mattutina mi
-mantiene forte! Ahaha!","我要向你提出挑戰！
+2001,,"Voglio battermi con te! Voglio mostrarti
+la mia passione! La zuppa di miso mattutina
+mi dà una carica pazzesca! Ahaha!","我要向你提出挑戰！
 接受我熱血沸騰的鬥志吧！
 早上喝味噌湯對內臟很好！哇哈哈！",,"너에게 승부를 신청하겠다!
 내 불타오르는 투지를 받아보아라―!
@@ -1038,9 +1040,9 @@ Ort: DigiLab"
 2083,,Più informazioni da Mirei,向米蕾聽取詳細的委託內容,,미레이에게 자세한 의뢰 내용을 듣자.,Mehr Infos von Mirei
 2084,,Laboratorio Sotterraneo di Roppongi,在六本木地下研究設施裡小試身手,,롯폰기 지하 연구시설에서 힘을 시험하자.,Roppongi – U-Labor
 2100,,Grande Sfida 5,偉大的挑戰⑤,,위대한 도전⑤,Große Herausforderung 5
-2101,,"L'hai fatto sembrare una passeggiata.
-Non mi è rimasto molto per sfidarti... 
-Che ne dici di un viaggio a Odaiba?","竟然輕輕鬆鬆地打倒了……
+2101,,"Per te è stata una passeggiata, eh?
+Non mi resta molto per sfidarti... 
+Che ne dici di fare un salto a Odaiba?","竟然輕輕鬆鬆地打倒了……
 雖然我也快要沒有伎倆了
 對了……御台場如何呢？很懷念吧？",,"그렇게 쉽게 쓰러뜨려버릴 줄이야…
 내 쪽 도전자가 슬슬 떨어지고 있지만
@@ -1089,7 +1091,7 @@ Ort: DigiLab"
 2144,,Server Valhalla,在瓦爾哈拉伺服器裡小試身手,,발할라 서버에서 힘을 시험하자.,Walhalla-Server
 2160,,Grande Sfida 8,偉大的挑戰⑧,,위대한 도전⑧,Große Herausforderung 8
 2161,,"A dire il vero... Posso chiederti una cosa?
-Conosci la Spada Omni?
+Conosci la Spada Omega?
 Questa è l'ultima sfida!","……對了，我能問你一件事嗎？
 你知道奧米加之劍是什麼嗎？
 來吧，這是最後一場了！",,"…그렇지, 한 가지 물어도 될까?
@@ -1103,7 +1105,7 @@ Luogo: DigiLab","【委託人】御神樂米蕾
 【장소】디지랩","Klient: Mirei Mikagura
 Ort: DigiLab"
 2163,,Più informazioni da Mirei,向米蕾聽取詳細的委託內容,,미레이에게 자세한 의뢰 내용을 듣자.,Mehr Infos von Mirei
-2164,,Vai nel Mondo Digitale,在數碼世界裡小試身手,,디지털 월드에서 힘을 시험하자.,In der Digitalen Welt
+2164,,Vai nel Digi World,在數碼世界裡小試身手,,디지털 월드에서 힘을 시험하자.,In der Digitalen Welt
 3000,,Capsula del Tempo Donna delle Nevi,時間膠囊雪女,,타임 캡슐 설녀,Zeitkapsel-Schneefrau
 3001,,"C'è qualcosa che non va con l'aria
 condizionata a Broadway.

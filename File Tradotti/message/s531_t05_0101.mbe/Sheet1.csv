@@ -1,6 +1,6 @@
 ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
-1,2020,,"(È un caso da un insegnante di Inoden!
-Non mi ha mai insegnato, ma potrebbe riconoscere la mia faccia.)","（來自井之電老師的委託……！
+1,2020,,"(È un caso da un insegnante dell'istituto Inoden!
+Non mi ha mai insegnato, ma potrebbe riconoscermi.)","（來自井之電老師的委託……！
 　雖然不是我的班導，但也可能被認出來……！）",,"(이노덴 교사에게서 온 의뢰다…!!
  담임은 아니지만 나를 알 가능성도 있다…)","(Das ist ein Fall von einem Inoden-Lehrer! Er
 hat mich zwar nicht unterrichtet, aber vielleicht
@@ -17,7 +17,7 @@ reden. Ich bitte Ryuji darum.)"
 7,3046,,"Parlerò con lui per te, se vuoi.","……我知道了。
 既然這樣，就讓我代替你連絡吧。",,"…알았어.
 그런 거라면, 내가 대신 이야기를 들어주지","Wenn du möchtest, rede ich mit ihm."
-8,3046,,Stai fuori dalla vista.,"只要不面對面就可以了吧？
+8,3046,,E tu rimani fuori dalla vista.,"只要不面對面就可以了吧？
 那你在後面躲好。",,"직접 대화하는 게 아니면 문제없잖아.
 너는 뒤에 빠져 있어",Und du bleibst außer Sichtweite.
 9,7319,,Piacere di conoscerti. Grazie per aver accettato il mio caso.,"你好，
@@ -26,19 +26,19 @@ hudie的人吧？",,"처음 뵙겠습니다.
 당신이 저의 의뢰를 받아주신
 후디에 분이시군요","Freut mich, Sie kennenzulernen. Danke, dass Sie
 meinen Fall übernommen haben."
-10,7319,,"Sono Matsuyama. Insegno giapponese alla Inoden High
-School. Sono anche l'orientatore scolastico.","我是井之電高中的國語教師松山，
+10,7319,,"Sono Matsuyama. Insegno giapponese al liceo Inoden,
+Sono anche l'orientatore scolastico.","我是井之電高中的國語教師松山，
 在學校也擔任訓導老師。",,"저는 이노덴 고등학교의 국어 교사인 마츠야마라고 합니다.
 그곳에서 생활지도를 담당하고 있습니다","Ich bin Matsuyama. Ich lehre Japanisch in der
 Inoden-Schule und bin der Vertrauenslehrer."
-11,7319,,"Ti ho contattato per indagare su un incidente di
-imbroglio di gruppo in una certa classe.",這次想麻煩你，幫忙調查一件集體作弊的事情……,,"이번에는, 어느 반의 집단 커닝 사건에 대해
+11,7319,,"Vi contatto per indagare su un caso di imbrogli
+di gruppo in una determinata classe.",這次想麻煩你，幫忙調查一件集體作弊的事情……,,"이번에는, 어느 반의 집단 커닝 사건에 대해
 조사를 부탁드리고 싶어서 말이죠…","Ich habe Sie kontaktiert, um einem Fall von
 Gruppenschummeln in einer bestimmten Klasse
 nachzugehen."
-12,7319,,"Non voglio che si diffondano notizie di questo. Il
-futuro degli studenti è a rischio. Qualunque cosa facciate, non fate
-sapere nulla alla polizia.","……那個，這件事我不希望張揚。
+12,7319,,"Non voglio che si diffondano la notizie di questo avvertimento.
+Il futuro degli studenti è a rischio. Qualunque cosa facciate,
+non fate sapere nulla alla polizia.","……那個，這件事我不希望張揚。
 也為了學生的將來著想…………千萬不能鬧到警局…………",,"…저기, 이 건에 관해서는 공표하고 싶지 않습니다.
 학생의 장래도 걸려있으니……부디 경찰 사태는……","Ich will nicht, dass jemand davon erfährt. Die
 Zukunft der Schüler steht auf dem Spiel. Schalten
@@ -89,8 +89,8 @@ di rubare il compito in classe, ma ha fallito.","考試時當然有禁止攜帶�
 zur Klassenarbeit mitbringen. Ein Schüler wollte
 die Fragen stehlen, hat es aber nicht geschafft."
 22,7319,,"Da quell'incidente, i fogli d'esame sono stati
-tenuti sotto chiave, ma questo non ha impedito
-a questa classe di imbrogliare in qualche modo.","從此之後，考卷打樣一律都用碎紙機銷毀。
+tenuti sotto chiave, ma questo non ha impedito a
+questa classe di imbrogliare in qualche modo.","從此之後，考卷打樣一律都用碎紙機銷毀。
 但就算這麼做，還是沒有杜絕集體作弊。",,"그 사건 이후로 시험지의 시험인쇄본은
 철저하게 파쇄기에 넣어 처리하고 있습니다.
 하지만, 그래도 집단 커닝은 없어지지 않았습니다","Seit dem Zwischenfall werden die Klassenarbeiten
@@ -109,8 +109,8 @@ di rubare il compito in classe, per esempio.","那如果抓住可疑學生，嚴
 예를 들면, 문제지를 훔치려고 했던 그 학생이라던가","Warum knöpfen Sie sich nicht einen Schüler vor,
 machen Druck und lassen ihn beichten? Vielleicht
 der, der den Diebstahl versucht hat."
-25,7319,,"Era Shigenobu della terza elementare, classe C. Gli abbiamo
-già parlato più volte.","我已經跟想偷考卷打樣的學生……
+25,7319,,"Era Shigenobu della terza elementare, classe C.
+Gli abbiamo già parlato più volte.","我已經跟想偷考卷打樣的學生……
 3年C班的重信同學問過好幾次話。",,"시험인쇄본을 훔치려고 했던 학생…
 3학년 C반의 시게노부 군에게는 이미 몇 번 이야기를 했습니다","Das war Shigenobu aus Klasse 3C. Wir haben schon
 mehrmals mit ihm gesprochen."
@@ -118,9 +118,9 @@ mehrmals mit ihm gesprochen."
 不肯再多說什麼。",,"하지만「전 아무것도 모릅니다」로 일관해서…
 그 이상 말해주지 않습니다","Er beteuert nur immer wieder, dass er nichts davon
 weiß. Mehr sagt er nicht."
-27,7319,,"I ragazzi in classe lo bullizzano costringendolo a fare cose per loro.
-Abbiamo provato a risolvere la situazione,
-ma lo hanno minacciato di non dirlo a nessuno.","重信同學被C班的學生當作跑腿使喚，
+27,7319,,"I compagni di classe lo costringono a fare cose per loro.
+Stiamo cercando di risolvere la situazione, ma lo minacciano
+per non fargli dire nulla","重信同學被C班的學生當作跑腿使喚，
 雖然老師們有多留意著，
 但學生們好像威脅他『不准跟老師說』。",,"시게노부 군은 C반 학생들에게 심부름꾼으로 부려지고 있어서요.
 저희도 주시는 하고 있지만, 아무래도 학생들에게
@@ -142,8 +142,8 @@ haben. Wir sind nicht wie Lehrer früher, dass
 wir versuchen, das zu erzwingen."
 30,3046,,Dev'essere dura fare l'insegnante di questi tempi.,最近的高中老師還真辛苦……,,요즘 고등학교 선생은 큰일이군…,"Es ist sicher nicht leicht, heutzutage ein Lehrer
 zu sein."
-31,7319,,"Certamente. Allora, cosa ne pensi di questo
-incidente? Mi piacerebbe sentire il tuo parere.","真的……那你對這事件有什麼看法嗎？
+31,7319,,"Certamente. Allora, cosa ne pensi di questo incidente?
+Mi piacerebbe sentire il vostro parere.","真的……那你對這事件有什麼看法嗎？
 請讓我聽聽你們的建議。",,"네에……그래서, 이 건에 대해 어떻게 생각하십니까?
 당신들의 의견을 들려주십시오","Das ist wohl wahr. Was halten Sie also von
 diesem Zwischenfall? Ihre Meinung interessiert
@@ -151,7 +151,7 @@ mich."
 32,3046,,Sembra che abbiano usato una specie di dispositivo.,……我想，他們應該是拿了什麼終端來做壞事沒錯。,,"……아마 뭔가 단말을 악용한 건
 틀림없겠지","Es klingt, als ob sie irgendein Gerät benutzt
 haben."
-33,3046,,"Ora ce ne sono di più piccoli di un pisello,
+33,3046,,"Oggi ce ne sono di più piccoli di un pisello,
 ma dubito che studenti delle superiori sarebbero in grado
 di mettere le mani su qualcosa di così sofisticato.","雖然不覺得高中生有門路獲得，
 但確實存在豆子那麼小的終端。",,"고등학생이 손에 넣을 수 있을지는 의문이지만
@@ -159,13 +159,12 @@ di mettere le mani su qualcosa di così sofisticato.","雖然不覺得高中生�
 aber wahrscheinlich kommen Schüler an so etwas
 Fortschrittliches nicht heran."
 34,3046,,"Se lo avessero fatto, nemmeno una perquisizione a
-fondo sarebbe stata in grado di trovarli.","如果用了那種東西，
+fondo sarebbe in grado di trovarli.","如果用了那種東西，
 就算脫光調查也抓不到……",,"그걸 써버리면 알몸으로 조사해도
 모르는 경우도 있다…","Wenn doch, könnte man das auch mit einer
 Leibesvisitation nicht finden."
-35,3046,,"Ci sono limiti a ciò che può essere rilevato a occhio
-nudo. Hai considerato di rivolgerti a uno
-specialista?","光靠人力監視也有極限，
+35,3046,,"Ci sono limiti a ciò che può essere rilevato a occhio nudo.
+Hai considerato di rivolgerti a uno specialista?","光靠人力監視也有極限，
 拜託專門業者看看呢？",,"인간 감시원이 체크하기에는 한계가 있다.
 전문 업자에게 상담해보는 건 어떠냐?","Das bloße Auge kann nur begrenzt Dinge erkennen.
 Haben Sie mal überlegt, einen Spezialisten
@@ -337,7 +336,7 @@ schnell!"
 76,3046,,"Certo, ma non fare ancora niente.","當然，
 但是請先別動作。",,"물론이지.
 하지만, 아직 움직이지 마",Natürlich. Aber unternehmen Sie vorerst nichts.
-77,3046,,"Se diamo troppo nell'occhio, alcuni ragazzi potrebbero
+77,3046,,"Se diamo troppo nell'occhio, alcuni di loro potrebbero
 sbarazzarsi dei dispositivi. Per assicurarci di non perderne
 neanche uno, dobbiamo coglierli sul fatto.","要是我們打草驚蛇，搞不好會有學生隨便丟棄終端。
 為了能全數回收，必須要一次逮到所有人。",,"이쪽의 움직임이 들키면, 
@@ -349,8 +348,7 @@ müssen wir sie auf frischer Tat ertappen!"
 79,3046,,Quando è il prossimo esame?,老師，下次考試是什麼時候？,,"선생님, 다음 시험은 언제지?",Wann findet die nächste Klassenarbeit statt?
 80,7319,,Domani. È il primo giorno delle finali.,明天開始是期末考……,,내일부터입니다. 기말고사가 시작됩니다,"Morgen. Das ist die erste Prüfung
 von den Abschlussprüfungen."
-81,3046,,"Bene. Dai l'esame come al solito e li coglieremo
-sul fatto.","好，那請照舊進行考試。
+81,3046,,"Bene. Dai l'esame come al solito e li coglieremo sul fatto.","好，那請照舊進行考試。
 我們會控制住現場。",,"좋아, 그 시험은 예정대로 해줘.
 우리가 현장을 확보하도록 하지","Gut. Führen Sie die Klassenarbeit normal
 durch, dann erwischen wir sie auf frischer Tat."

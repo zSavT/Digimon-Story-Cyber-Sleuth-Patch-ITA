@@ -37,9 +37,9 @@ Sempre circondato da amici e sempre splendente. Come un sempliciotto...","你真
 친구나 사이 좋은 사람들에게 둘러싸여서… 항상, 실실 웃고","Du bist wirklich ein ... „Sonnenschein“, nicht
 wahr? Immer von Freunden umgeben und strahlst
 immer. Wie ein Einfaltspinsel ..."
-13,3003,,"Ti sono grata per avermi allora... salvato.",我很感謝……你之前救了我。,,"…예전에, 구해주셨던 건… 감사하고 있어요","Ich bin dir dafür dankbar, dass du mich damals ...
+13,3003,,Ti sono grata per avermi allora... salvato.,我很感謝……你之前救了我。,,"…예전에, 구해주셨던 건… 감사하고 있어요","Ich bin dir dafür dankbar, dass du mich damals ...
 gerettet hast."
-14,3003,,"Ma per favore non fare adesso finta come se fossimo migliori amici.",但可以不要裝作是朋友，在那瞎操心嗎？,,"하지만, 친구인 것처럼 묘한 마음을 쓰는 건 그만 둬 주시겠어요?","Aber bitte tu jetzt nicht so, als wären wir
+14,3003,,Ma per favore non fare adesso finta come se fossimo migliori amici.,但可以不要裝作是朋友，在那瞎操心嗎？,,"하지만, 친구인 것처럼 묘한 마음을 쓰는 건 그만 둬 주시겠어요?","Aber bitte tu jetzt nicht so, als wären wir
 dickste Freunde."
 15,3003,,"Non so cosa sia successo nel mio cuore,
 ma... Non siamo amici.","雖然不知道你在我的心裡看到了什麼……
@@ -72,7 +72,7 @@ Ich wollte dir schöne Augen machen."
 23,2000,,Era solo uno scherzo.,開～玩笑的。,,……장~난이에요,War nur ein Scherz.
 24,3003,,Come?!,什麼！？,,…하!?,Wie bitte?!
 25,3003,,... Cosa?,………！,,………읏!,... Was?
-26,3003,,"Sei così... Mi mancano le parole...","真是的……你這個人……！
+26,3003,,Sei così... Mi mancano le parole...,"真是的……你這個人……！
 受不了——",,"정말이지… 다, 당신이란 사람은…!
 기막혀서, 말도―","Du bist ja so ...
 Mir fehlen die Worte ..."
@@ -112,7 +112,7 @@ Alles in allem für beide Seiten befriedigend."
 37,3003,,"Questa non è una risposta.
 Che diavolo gli è successo?",你沒有回答我的問題……你到底對新做了什麼？,,대답이 안 됐어요 …아라타 씨에게 대체 무슨 짓을?,"Das ist keine Antwort. Was zum Teufel ist mit ihm
 passiert?"
-38,3009,,"Diciamo che ho dato una spinta alla sua evoluzione.",姑且稱之為“促使他的進化”吧。,,"""진화를 촉구했다"", 라고 해 두도록 할까요","Sagen wir mal, dass ich seiner Evolution auf die
+38,3009,,Diciamo che ho dato una spinta alla sua evoluzione.,姑且稱之為“促使他的進化”吧。,,"""진화를 촉구했다"", 라고 해 두도록 할까요","Sagen wir mal, dass ich seiner Evolution auf die
 Sprünge geholfen habe."
 39,3009,,Desiderava potere... grande potere.,他想要力量……而且還是非常強大的力量。,,"그는 힘을 갈구하고 있었습니다… 그것도, 터무니없이 강대한 힘을",Er wünschte sich Macht ... große Macht.
 40,3009,,"Ma anche se fosse disponibile, il suo corpo
@@ -120,7 +120,7 @@ poteva assorbire solo una quantità limitata.","但是，以他現在的肉體�
 就算能取得力量，也是有限度的。",,"하지만, 지금 육체로는
 가령 힘을 손에 넣는다 하더라도 한계가 있었지요","Doch selbst, wenn die zur Verfügung stünde, konnte
 sein Körper nur eine begrenzte Menge aufnehmen."
-41,3009,,"Quindi gli consigliai di assimilare un Eater.",所以，我建議他“與侵食者同化”。,,"그래서, 그에게 ""이터와의 동화""를 권유해 보았습니다","Also empfahl ich ihm, einen Verschlinger zu
+41,3009,,Quindi gli consigliai di assimilare un Eater.,所以，我建議他“與侵食者同化”。,,"그래서, 그에게 ""이터와의 동화""를 권유해 보았습니다","Also empfahl ich ihm, einen Verschlinger zu
 assimilieren."
 42,2000,,?!,！？！,,!?!,?!
 43,3009,,"Lui accettò questo consiglio, assorbì un Eater dentro
@@ -147,7 +147,7 @@ un Eater sono stati molto utili.","悠子小姐，妳和侵食者同化時的資
 도움이 되었습니다","Yuuko, die Daten aus deiner Assimilierung mit
 einem Verschlinger waren sehr nützlich."
 48,3003,,Come...?!,咦……！？,,에…!?,Wie ...?!
-49,3009,,"Sono contento di aver monitorato il tuo stato di nascosto.",還、還好我有偷偷監視。,,"이거, 몰래 모니터 해 두길 잘했습니다","Ich bin froh, dass ich deinen Status
+49,3009,,Sono contento di aver monitorato il tuo stato di nascosto.,還、還好我有偷偷監視。,,"이거, 몰래 모니터 해 두길 잘했습니다","Ich bin froh, dass ich deinen Status
 stillschweigend überwacht habe."
 50,3009,,"Sei stata completamente dominata,
 eppure sei qui ora... Quindi non preoccuparti!","雖然妳那時候完全被控制住了……
@@ -165,7 +165,7 @@ Perché siete così arrabbiati? E con chi?","嗯？
 你為什麼要生氣？",,"…그런데?
 당신은 어째서, 무엇 때문에 화내시는 거죠?","Wie?
 Warum seid ihr so wütend? Und auf wen?"
-54,3009,,Ha completato l'evoluzione che si era desiderata!",,그는, 그가 바라던 대로 진화하고 있는데 말이지요?,"Er hat die Weiterentwicklung durchlaufen, die er
+54,3009,,"Ha completato l'evoluzione che si era desiderata!""",,그는, 그가 바라던 대로 진화하고 있는데 말이지요?,"Er hat die Weiterentwicklung durchlaufen, die er
 sich gewünscht hatte!"
 55,3009,,"Volete negargli i suoi desideri? Come nel
 mondo reale con le sue regole e impossibilità?","你是在否定他的期望嗎？
@@ -178,7 +178,7 @@ E le hai comunque aiutato?","末堂先生……當時你已經察覺到里繪姊
 卻還幫她？",,"스에도 씨… 당신은 리에 씨의 정체를 눈치채고 계셨나요?
 그럼에도 불구하고, 협력을?","Wusstest du, wer Fräulein Rie wirklich ist?
 Und hast du ihr trotzdem geholfen?"
-58,3009,,"Ho notato che la sua psiche non fosse umana.","我有察覺到她的精神不是人類，
+58,3009,,Ho notato che la sua psiche non fosse umana.,"我有察覺到她的精神不是人類，
 而是某種生物。",,"그녀의 정신이 인간이 아닌 무언가라는 것은
 눈치 채고 있었습니다","Mir ist aufgefallen, dass ihre Psyche keine
 menschliche war."
@@ -189,7 +189,7 @@ konnte ich nicht wissen."
 60,3009,,"Inoltre, il suo operato ha sconvolto anche me.","順帶一提……
 對於她的行為，我也是束手無策。",,"덧붙이자면…
 그녀의 행위에는, 저도 몹시 난처해 하고 있습니다",Darüberhinaus hat ihr Vorgehen auch mich bestürzt.
-61,3009,,"Lei vuole mettere fine non solo
+61,3009,,"Vuole mettere fine non solo
 all'umanità, ma all'intero mondo.",不只是人類，她還打算把世界本身導向毀滅。,,"그녀는 인류만이 아닌, 세계 그 자체를 파멸로 이끌고자 하고 있습니다","Sie möchte nicht nur der Menschheit, sondern der
 ganzen Welt ein Ende setzen."
 62,3009,,"Ciò non corrisponde affatto ai miei desideri.

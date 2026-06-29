@@ -1,20 +1,22 @@
 ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
-1,3046,,"Allora. Ci sono già informazioni sulla malware che abbiamo installato
-sul server Avalon?","如何？在阿瓦隆伺服器設下的惡性軟體，
+1,3046,,"Allora, novità dal malware che abbiamo installato sul server Avalon?","如何？在阿瓦隆伺服器設下的惡性軟體，
 有沒有得到什麼資料了？",,"어때? 아발론 서버에 심은 악성코드로
 뭔가 정보를 건졌나?","So. Gibt es von der Malware, die wir auf dem
 Avalon-Server installiert haben, schon Infos?"
-2,3047,,"Nemmeno un bit. Nessun dato significativo, per ora.","完～全不行。
+2,3047,,"Nemmeno l'ombra di un bit.
+Nessun dato significativo, per ora.","完～全不行。
 決定性的資料都沒出現呢。",,"전혀 없어.
 결정적인 정보는 흘러들지 않는걸","Kein Bit-chen! Keinerlei aufschlusskräftige
 Daten sind bisher reingekommen."
-3,3047,,"Anche se, a dire il vero, di dati sulle Onde Digitali ne stanno arrivando parecchi...",倒是關於數碼波的資料很頻繁的出現……,,"디지털 웨이브와 관련된 데이터는 꽤 빈번하게
+3,3047,,"Però, a dire il vero, di dati sulle Onde Digitali
+ne stanno arrivando parecchi...","倒是關於數碼波的資料很頻繁的出現……",,"디지털 웨이브와 관련된 데이터는 꽤 빈번하게
 교환되고 있는 것 같지만……","Es sieht aber aus, als würden jede Menge Daten zu
 digitalen Wellen reinkommen ..."
 4,3046,,Onde Digitali?,數碼波……？,,디지털 웨이브…?,Digitale Wellen?
 5,3047,,"Sì, sembra che stiano portando avanti un qualche grosso progetto che le utilizza.",嗯，似乎正在進行使用數碼波的大規模企劃。,,아아. 그것을 이용한 대규모 프로젝트가 진행중인가봐,"Ja, die nutzen sie wohl, um mit irgendeinem großen
 Projekt voranzukommen."
-6,3047,,"A quanto pare, un ricercatore di nome Suedou ne è a capo, e sembra una cosa seria.","好像是以一位叫末堂的研究者為中心，
+6,3047,,"A quanto pare, un ricercatore di nome Suedou ne è a capo,
+e sembra una cosa piuttosto seria.","好像是以一位叫末堂的研究者為中心，
 相當正式的進行調查喔。",,"스에도라는 연구자를 중심으로
 상당히 본격적으로 조사하고 있더라구","Dieser Forscher Suedou leitet es und es scheint
 wirklich gut zu laufen."
@@ -26,8 +28,7 @@ müssen. Wir müssen einfach Geduld haben."
 8,3046,,... Capisco.,……這樣啊。,,……그런가,... Verstehe.
 9,3047,,Il lavoro ti tiene impegnato?,你工作很忙嗎？,,바쁜 거야? 일,Hält die Arbeit dich auf Trab?
 10,3046,,"... Ultimamente sono sempre in giro.
-Malfunzionamenti del sistema di rete si verificano ora
-molto spesso.","……最近這陣子，到處都有網路系統
+Ci sono continui malfunzionamenti ai sistemi di rete.","……最近這陣子，到處都有網路系統
 頻繁發生不良狀況的情形。",,"……요즘 여기저기서
 네트워크 시스템 오류가 빈발하고 있어","... In letzter Zeit bin ich überall unterwegs.
 Fehlfunktionen des Netzwerksystems treten jetzt
@@ -37,35 +38,34 @@ Non è un bug e non sono stati hackerati...","就算調查了也查不出原因�
 不是BUG也不是系統被入侵。",,"조사해봐도 원인을 알 수가 없어…
 버그도 아니고 해킹도 아냐","Und ich kann die Ursache absolut nicht finden ...
 Es ist kein Bug und sie wurden nicht gehackt ..."
-12,3047,,"... L'influenza di questa ""anomala onda digitale"" non può essere, vero?","……說不定，
+12,3047,,"... Non sarà per caso l'influenza di questa ""anomala onda digitale""?","……說不定，
 是受到“數碼波異常＂的影響喔。",,"……어쩌면 그것도
 ""디지털 웨이브 이상""이란 놈의 영향일지도","... Der Einfluss dieser „abnormalen digitalen
 Welle“ kann es aber nicht sein, oder?"
-13,3047,,"Ah, ho sentito dire che la stessa cosa è successa anche ad Akihabara.
-Tutta Tokyo è sottosopra.","話說，在秋葉原也發生了之前的怪奇現象？
+13,3047,,"A proposito, ho sentito che lo stesso strano fenomeno è successo anche ad Akihabara.
+Sembra che tutta Tokyo sia sottosopra.","話說，在秋葉原也發生了之前的怪奇現象？
 感覺啊，東京整體都有點奇怪。",,"그러고보니 아키하바라에서도 그 괴현상이 일어났다던데?
 뭔가 도쿄 전체가 이상한 느낌이네","Ach, ich habe gehört, dass das Gleiche auch in
 Akihabara passiert ist. Ganz Tokio steht Kopf."
-14,3047,,"Tutto sta diventando più rumoroso e caotico...
-È come la fine del mondo là fuori.","總覺得空氣比先前都還要更加混濁，
+14,3047,,"C'è qualcosa nell'aria... un'agitazione palpabile.
+Che stia per finire il mondo?","總覺得空氣比先前都還要更加混濁，
 似乎有什麼在躁動。
 ……是世界末日要到了嗎？",,"평소보다 어두침침한 느낌이랄까 술렁대는 느낌이랄까
 ……세상의 종말이라도 오는 걸까","Alles wird lauter und chaotischer ...
 Das ist wie der Weltuntergang da draußen."
 15,3046,,"Sono io. Sì... sì, okay.",是我。嗯……我知道了。,,나다. 아아……알았다,"Ich bin’s. Ja ... ja, okay."
 16,3047,,Zaxon?,是Zaxon嗎？,,잭슨이야?,Zaxon?
-17,3046,,"Sì. A quanto pare, si stia per fare sul serio con i Demons.
-Non vogliono che ci intromettiamo.","對。接下來要對惡魔亂舞動手了，
+17,3046,,"Sì. A quanto pare, stanno per attaccare i Demons.
+Ci hanno detto di non intrometterci.","對。接下來要對惡魔亂舞動手了，
 叫我們不要多管閒事。",,"그래. 지금부터 데몬즈를 공격한다는 모양이다.
 쓸데없는 참견은 하지 말라는군","Ja. Hört sich an, als ginge es da demnächst rund
 mit den Demons. Die wollen nicht, dass wir uns
 einmischen."
 18,3046,,Loro lo risolveranno da soli.,他們打算靠自己來解決。,,전부 자기들의 손으로 결판을 내겠다고 하는데,Die werden das alleine lösen.
-19,3047,,"Uff, la prendono davvero sul serio.
-Jimiken ne vedrà delle belle.","哎呀呀，他們是認真的。
+19,3047,,"Uff, la prendono davvero sul serio. Jimiken ne vedrà delle belle.","哎呀呀，他們是認真的。
 吉米肯還真是不幸啊。",,"어라라, 녀석들 진심이네.
 지미켄에겐 재난이겠군","Uff, die nehmen das ganz schön ernst.
 Jimiken kann sich auf was gefasst machen."
 20,3046,,"Ehi, dov'è [p]?",……[p]去哪了？,,……[p] 녀석은 어디있지?,"He, wo ist denn [p]?"
-21,3047,,Non ne ho idea. Non l'ho ancora visto oggi.,不知道喔？　今天還沒有看到人。,,글쎄? 오늘은 아직 못봤는데,Keine Ahnung. Hab ihn heute noch nicht gesehen.
+21,3047,,"Non ne ho idea. Oggi non l'ho ancora visto.",不知道喔？　今天還沒有看到人。,,글쎄? 오늘은 아직 못봤는데,Keine Ahnung. Hab ihn heute noch nicht gesehen.
 22,3046,,...,…………,,…………,...

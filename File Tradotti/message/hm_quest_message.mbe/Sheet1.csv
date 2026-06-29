@@ -1,4 +1,4 @@
-﻿ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
+ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
 100,2020,,"(Dovrei riuscire a prendere tutto quello che c'è
 sulla lista a Ikebukuro. Inizierò dal Tokyo Handy.)","（購物清單上的東西，池袋應該都有。
 　先去東京手創館看看吧）",,"(구매목록에 있던 것은 전부 이케부쿠로에서 살 수 있을 거야.
@@ -11,8 +11,8 @@ bar. Mi rifugierò da Hudie!)","（應該不至於會跟來店裡，
 　趕快躲進hudie吧！）",,"(어쨌든 가게 안까지는 따라 들어오지 않을 거야.
  후디에로 도망가자!)","(Es sollte mir nicht ins Café folgen.
 Ich verstecke mich bei Hudie!)"
-510,9108,,"Oh, è il Sig. Navit, che si occupa di affari
-anche nella realtà. Questo sì che è darsi da fare.
+510,9108,,"Oh, è il Sig. Navit, che si occupa di pubbliche
+relazioni anche nella realtà. Questo sì che è darsi da fare.
 Potresti imparare un paio di cose!","喔，這不是NAVIT嗎。連在現實世界
 都在宣傳啊，還真是厲害的業務魂！
 你也給我學習一下啊！",,"오오, 내빗군이잖아.
@@ -60,7 +60,7 @@ giocosi come loro.","對呀，我們的孫子，如果也能跟那孩子一樣
 那麼有精神就好了呢。",,"그러네, 우리 손자도 저 정도로 건강하게 
 자라주면 좋겠네","Nicht wahr? Ich hoffe, meine Enkel werden auch so
 aufgeweckt sein."
-518,4121,,"Il Sig. Navit sta rapidamente diventando l'ultima leggenda
+518,4121,,"Il Sig. Navit sta rapidamente diventando la nuova leggenda
 metropolitana di Ikebukuro!","NAVIT，是目前池袋的最新都市傳說，
 正被大家密切關注！",,"내빗씨는 이케부쿠로에 나타난 최신 도시전설로
 주목 받고 있어요!","Navit-san wird in Ikebukuro zur neuesten
@@ -151,7 +151,7 @@ parlano? Faresti meglio a non parlargli.","那是傳說中的NAVIT吧？　那�
 말 걸지 않는 편이 좋아","Ist das der Navit-san, von dem alle reden? Du
 solltest lieber nicht mit ihm sprechen."
 614,7700,,"Dubito che risponderebbe anche se ci
-provassi. Sta emanando un'aria
+provassi. Emana un'aura
 davvero inavvicinabile.","就算跟他說話也不會有回應，
 最重要的是，那毫不留情、生人勿近的氣場。",,"말 걸어도 대답도 없고, 무엇보다 가까이 오지 말라는 오오라를
 엄청나게 내뿜고 있어","Ich bezweifle, dass er überhaupt antworten würde,
@@ -163,7 +163,7 @@ irgendwie komisch."
 616,7243,,Cosa sta facendo quella persona? Perché non si muove?,"那個人在幹嘛？
 為什麼一直都不動？",,"저기 있잖아, 저 사람 뭐하는 거야?
 왜 계속 움직이지 않는 거야?",Was macht dieser Kerl? Warum bewegt er sich nicht?
-617,7244,,Ehi! Non indicare!,真是的！　不可以用手指！,,얘! 손가락질하는 거 아니야!,He! Man zeigt nicht auf andere Leute!
+617,7244,,Ehi! Non si indica col dito!,真是的！　不可以用手指！,,얘! 손가락질하는 거 아니야!,He! Man zeigt nicht auf andere Leute!
 618,3015,,"Dove diavolo è?! Ero
 sicuro che fosse qui.","可惡，到底是跑去哪了！？
 應該是在這附近沒錯啊……",,"젠장, 어디 가버린 거야!?
@@ -226,8 +226,8 @@ Navit-san in Nakano."
 走路的方式很扭捏……",,"그렇군…나카노의 내빗씨는 
 흐느적흐느적 걷고 있었다…고",Der Navit-san in Nakano schleicht also nur herum.
 715,4121,,"Aspetta! E se non fosse il Sig. Navit, ma una
-creatura sconosciuta? Se così fosse, potremmo
-essere carne morta se ci vedesse.","務必要小心！如果那個不是NAVIT，
+creatura sconosciuta? Se così fosse, saremmo
+spacciati se ci vedesse.","務必要小心！如果那個不是NAVIT，
 而是有名的UMA「扭扭捏捏」的話，
 在被看到瞬間，有可能會變成廢人……",,"조심하세요!
 만약에 그게 내빗씨가 아니라 유명한 UMA 
@@ -422,8 +422,7 @@ una squadra che sta combattendo contro Zaxon?","你是，hudie的人？
 你為什麼要找跟Zaxon敵對隊伍的駭客？",,"당신, 후디에? 잭슨과 적대하고 있는 팀의 해커는 
 찾아서 뭐하려고?","Bist du bei Hudie? Warum suchst du eine Hackerin
 von einem Team, das gegen Zaxon kämpft?"
-1216,4532,,"Ho sentito dire che un altro team di hacker
-è stato in agguato in questi giorni.
+1216,4532,,"Ho sentito dire che c'è un altro gruppo di hacker che sta facendo danni.
 Di quale si tratta?","之前又聽到有駭客隊伍出來滋事的傳聞，
 他們是叫什麼來著……",,"요즘 다시 해커팀이 날뛰고 있다는 소문을 들었어.
 뭐라 그랬더라…","Ich habe ein Gerücht gehört, dass ein weiteres
@@ -914,9 +913,9 @@ Sembra provenire dal K-Cafe.)","（好像聽到了很可怕的叫聲……！
 　是從K-Café來的嗎？）",,"(뭔가 무시무시한 울음소리 같은 것이 들렸다……!
  K-카페 쪽인가?)","(Was ist das für ein schreckliches Geheul? Klingt,
 als käme es aus dem K-Café.)"
-3010,4338,,"Hai sentito qualcosa come un cane feroce che
-ululava? Proveniva dal mio bar?","剛、剛才的聲音是什麼？
-好像是從我們店裡面傳出來的聲音……",,"바, 방금 사나운 개가 짖는 것 같은 소리가 들리지 않았어?
+3010,4338,,"Hai sentito una specie di cane feroce che
+ululava? Proveniva dal mio locale?","剛、剛才的聲音是什麼？
+好像是從我們店裡面傳出來的聲音……",,"바, 방금 사나운 개가 짖는 소리가 들리지 않았어?
 우리 가게 안에서 들리는 것 같은데…","Hast du einen wilden Hund heulen gehört?
 Kam das aus meinem Café?"
 3011,4338,,"Ehi, dove stai andando? Non è quella la strada.","喂喂、你要去哪裡。
@@ -1265,7 +1264,7 @@ posto di cui mi hanno parlato.)","（看來的確有發出聲音，
 　去一下他告知的地點吧） ",,"(아무래도 소리가 났다는 건 분명한 것 같다.
  알려준 장소로 가보자)","(Da ist tatsächlich ein Geräusch. Ich gehe zum
 erwähnten Ort.) "
-4110,9305,,"Vuoi sapere del maledetto martellamento?
+4110,9305,,"Vuoi sapere del suono del martello maledetto?
 Credi davvero a questa voce? Ahah, esilarante.","要我告訴你關於詛咒的槌聲？
 竟然會相信那種傳聞啊，呵呵呵，真好笑。",,"저주의 망치 소리에 관해서 알고 있는 걸 알려달라고?
 그 소문을 믿나 보네? 크크큭, 웃기지도 않아","Du willst etwas über den Hammer-Fluch wissen?
@@ -1287,7 +1286,7 @@ questione di mente.","那就是運作詛咒的方式。
 比把事情鬧大的傢伙不對啊。",,"그게 저주의 메커니즘이란 거지.
 악플로 털어버리는 것보다도 훨씬 더 악질이야.","So funktionieren Flüche. Es spielt sich alles nur
 im Kopf ab."
-4114,9306,,"Oh, il maledetto martellamento. È un argomento
+4114,9306,,"Oh, il suono del martello maledetto. È un argomento
 caldo sui forum di occultismo in questo momento.","啊，你說詛咒的槌聲事件啊？
 現在靈異版上很多人在討論啊。",,"아아, 저주의 망치 소리 말이지?
 지금 오컬트 게시판에서 화제인 모양이야.","Ach, der Hammer-Fluch. Das ist momentan ein
@@ -1311,21 +1310,21 @@ L'ho sentita con le mie orecchie!","你說槌聲的詛咒嗎，呵呵呵呵。
 들었어, 분명히 이 귀로 말이지!!","Der Hammer-Fluch? Hahahaha! Den habe ich mit
 meinen eigenen Ohren gehört!"
 4118,9307,,"Ahahah, vuoi saperne di più?
-Guardami. Non sono proprio normale, vero?","啊哈哈哈，你想要問詳細狀況？
+Guardami. Non ho proprio l'aria di stare bene, vero?","啊哈哈哈，你想要問詳細狀況？
 你看我不就知道了？
 你看，這可不是一般狀況吧。",,"아하하핫, 자세하게 듣고 싶어?
 나를 보면 알 거 아냐?
 이거 보라구, 평범하지 않잖아","Hahaha, du willst mehr wissen? Schau mich doch
 einfach an. Ich bin nicht wirklich normal, oder?"
 4119,9307,,"Devo essere maledetto, ahahah. Se senti il
-​​martellamento maledetto, vieni
+​​suono del martello maledetto, vieni
 maledetto. Capito?","我已經被詛咒了，啊哈哈哈。
 聽到詛咒的槌聲，我就被詛咒啊，你懂嗎？",,"이미 저주받은 거야, 아하하핫
 저주의 망치 소리를 들어버리면
 그 저주에 걸리고 마는 거야, 알겠어?","Ich muss verflucht sein, hahaha. Wenn du den
 Hammer-Fluch hörst, wirst du verflucht.
 Verstehst du?"
-4120,9307,,"È tutta una mia immaginazione? Stai zitto!
+4120,9307,,"Sarebbe solo frutto della mia immaginazione? Stai zitto!
 Non ti parlo più!","胡思亂想？
 吵死了，我已經跟你無話可說了！",,"상상 아니냐고?
 시끄러워, 더 이상 너랑 이야기 하고 싶지 않아!","Nur eingebildet? Halt die Klappe! Mit dir rede ich
@@ -1335,12 +1334,12 @@ nicht mehr!"
 말했잖아!","Jetzt hör auf! Ich habe doch gesagt, mit dir rede
 ich nicht mehr."
 4122,9307,,"Anche se in un certo senso lo capisco.
-È divertente dare un calcio alla gente quando è a terra.","……但是、對了，我知道了。
+È divertente infierire su chi è a terra.","……但是、對了，我知道了。
 你很喜歡嘲笑別人的不幸對吧。",,"……그래, 그렇구나? 알았다.
 사람의 불행을 이용하는 게 재미있구나","Auch wenn ich es irgendwie nachvollziehen kann.
 Es macht Spaß, Leute zu treten, wenn sie am
 Boden sind."
-4123,9307,,"Ahah, ho sentito il martellamento qui dentro.",啊哈、聽到槌聲的地方就在這裡面喔。,,"아핫, 망치 소리를 들었던 장소는 이 안쪽이야","Haha, ich habe das Gehämmere hier drin gehört."
+4123,9307,,"Ahah, ho sentito il suono del martello qui dentro.",啊哈、聽到槌聲的地方就在這裡面喔。,,"아핫, 망치 소리를 들었던 장소는 이 안쪽이야","Haha, ich habe das Gehämmere hier drin gehört."
 4124,9307,,"Spero che tu lo senta e che venga maledetto anche tu! Ahahah!","你也去聽到那詛咒的槌聲被詛咒吧！
 啊哈、啊哈哈哈哈！！",,"너도 그 저주의 망치 소리를 듣고
 저주 받으렴. 아핫, 아하하하하!","Ich hoffe, du hörst es und wirst auch verflucht!
@@ -1441,8 +1440,8 @@ ihn zu Tränen gerührt?"
 4412,9312,,"Vuoi sapere se ho visto qualcuno piangere nell'acquario?",有沒有看到在水族館裡哭的人？,,수족관에서 울고 있던 사람을 보지 못했냐고?,"Du willst wissen, ob ich gesehen habe, wie jemand
 im Aquarium geweint hat?"
 4413,9312,,"Beh, di certo non ho pianto! 
-Non c'è modo che un annuncio possa far piangere un adulto
-perfettamente normale come me!","我、我才沒有哭咧！
+È impossibile che un annuncio faccia piangere
+un adulto perfettamente normale come me!","我、我才沒有哭咧！
 都已經是大人了聽廣播就哭，怎麼可能嘛。",,"나, 나는 딱히 울거나 한 적 없어!
 다 큰 어른이 방송을 듣고 울다니, 그럴 리 없잖아.","Ich habe mit Sicherheit nicht geweint! So eine
 Ankündigung würde einen ganz normalen Erwachsenen
@@ -1568,7 +1567,7 @@ noch nie von ihr gehört."
 4713,9317,,Non essere timido. Sei carino.,"沒什麼好害羞的啦～♪
 你還真可愛呢～♪",,"부끄러워 하긴~♪
 오빠 귀엽네~♪",Sei nicht schüchtern. Du bist süß.
-4714,9317,,"Perché non ti dimentichi di questo Rumi e non
+4714,9317,,"Perché non ti dimentichi di questa Rumi e non
 mi fai divertire? Che ne dici?","就當作是代替小露咪，
 要不要跟大姐姐我一起玩呀？
 好不好嘛～？",,"있지, 루미 양 대신에
@@ -1658,17 +1657,17 @@ quale delle seguenti è la sua mossa speciale?","自稱為「悟空大王」的�
 그의 필살기는 다음 중 무엇일까요?","KingEtemon trägt den Titel „König der Könige“.
 Aber was ist sein Spezialmove?"
 5119,5038,,"・Chiave inglese
-・Banana scimmia
-・Dente di scimmia","．耍猴戲
+・Banana Scimmia
+・Inganno Scimmiesco","．耍猴戲
 ．滑猴戲
 ．猴子也會從樹上跌下來",,"・원숭이 연극
 ・원숭이 미끄러지기
 ・원숭이도 나무에서 떨어진다","・Affenspiel
 ・Affenbanane
 ・Affenzahn"
-5120,5038,,"Per Monkey Wrench, prendi il sentiero a sinistra.
-Per Monkey Banana, prendi il sentiero centrale.
-Per Monkey Business, prendi il sentiero a destra.","認為是耍猴戲的話請走左邊的路，
+5120,5038,,"Per Chiave Inglese, prendi il sentiero a sinistra.
+Per Banana Scimmia, prendi il sentiero centrale.
+Per Inganno Scimmiesco, prendi il sentiero a destra.","認為是耍猴戲的話請走左邊的路，
 滑猴戲的話請走中間的路，
 認為是猴子也會從樹上跌下來，請往右邊的路走！",,"원숭이 연극이라고 생각하면 왼쪽 길로
 원숭이 미끄러지기라고 생각하면 중앙쪽 길로
@@ -1841,8 +1840,8 @@ almeno è così che mi sembra.)",（……好像踩到什麼柔軟的東西了�
  ……느낌이 든다)","(Ich bin in etwas Weiches getreten ... Oder
 zumindest fühlt es sich so an.)"
 5404,5004,,*crepa*,喀啦喀啦……,,푸스스……,*Knack*
-5405,2020,,"(Sembra che questa volta abbia
-rovinato tutto.)",（……這次好像不小心踢飛了某個乾燥的物體）,,(……이번에는 건조된 물체를 발로 찬 것 같다),"(Dieses Mal habe ich wohl gegen etwas Trockenes
+5405,2020,,"(Sembra che questa volta io abbia
+calciato qualcosa di secco.)",（……這次好像不小心踢飛了某個乾燥的物體）,,(……이번에는 건조된 물체를 발로 찬 것 같다),"(Dieses Mal habe ich wohl gegen etwas Trockenes
 getreten.)"
 5406,2020,,"(Sento i piedi pesanti, come se stessi
 camminando in una palude.)","（……有種在泥沼中前進的感覺，
@@ -1875,7 +1874,7 @@ Die Anomalie muss einen anderen Ursprung haben.)"
 problemi con il sistema di alimentazione.)",（入侵終端，調查電源系統是否有異常吧）,,"(단말에 해킹을 걸어서 전원 시스템에
  이상이 없는지 조사해보자)","(Ich sollte sie hacken und nachsehen, ob es
 Probleme mit der Stromversorgung gibt.)"
-5606,2020,,"(Sembra che il punto di curvatura sia
+5606,2020,,"(Sembra che il punto di teletrasporto sia
 stato attivato quando l'energia è stata
 ripristinata a questo piano.)","（把這樓層的電力復原，
 　好像也啟動了跳躍點）",,"(이 층의 전력이 원래대로 돌아온 덕분에
@@ -2014,7 +2013,7 @@ möglich verkaufst."
 有時候會發生這種事呢。",,"디지몬이 병에 걸렸다고?
 그런 경우가 가끔 있지",Ein Digimon ist krank? Das kommt ab und zu vor.
 6313,9325,,"Qualche tempo fa, il mio Digimon si è innamorato perdutamente
-di un simpatico Digimon ed è rimasto senza parole.","之前呀，我的數碼寶貝也是。
+di un Digimon carino e si è ammalato d'amore.","之前呀，我的數碼寶貝也是。
 對可愛的數碼寶貝一見鍾情了呀，
 患上了名為戀愛的病呢。",,"이전에 우리 디지몬도 말이지
 귀여운 디지몬한테 한눈에 반해서
