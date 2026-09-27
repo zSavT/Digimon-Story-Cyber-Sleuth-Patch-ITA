@@ -32,9 +32,9 @@ Ich schicke eine Einkaufsliste."
 32,,Occupati del compito Tokyo Handy.,在東京手創館完成委託,,도쿄 핸디에 가서 심부름을 마치자.,Besorgung bei „Tokyo Handy“.
 40,,A Nakano è possibile!,可以在中野辦到的事！,,나카노에서 할 수 있는걸!,Das geht in Nakano!
 41,,Chitose,千歲,,치토세,Chitose
-42,,"C'è un negozio di PC usati a Nakano dove si
-ritrovano
-gli hacker. Ti mando una lista della spesa.","在中野有駭客認證的PC商店，
+42,,"C'è un negozio di PC usati a Nakano dove
+si ritrovano gli hacker. Ti mando una
+lista della spesa.","在中野有駭客認證的PC商店，
 我會把要買的購物清單發給你，麻煩你跑腿啦。",,"나카노 해커 상인들의 PC 정크상이 있어.
 사 왔으면 하는 목록 보낼 테니까, 심부름 부탁할게.","In Nakano gibt’s einen Ersatzteilladen.
 Ich schicke eine Einkaufsliste."
@@ -165,8 +165,7 @@ als furchterregend."
 161,,Mina,米娜,,미나,Mina
 162,,"Mi serve un biglietto per l'anteprima
 dell'aggiornamento EDEN. Procuramene uno, ti
-prego!
-Ti aspetto nell'Area Comune.","我想要EDEN辦的“版本升級體驗會”參加票喔！
+prego! Ti aspetto nell'Area Comune.","我想要EDEN辦的“版本升級體驗會”參加票喔！
 拜託便利店幫我拿到票
 米娜會在公共區域等你",,"EDEN ""버전 업 체험회""라는 것이 있대.
 해결사 씨, 부탁이야! 미나에게 티켓을 구해줬으면 해.
@@ -336,17 +335,16 @@ du ihn aufheitern?"
 360,,La giustizia di un hacker,某位駭客的正義,,어느 해커의 정의,Gerechtigkeit eines Hackers
 361,,Yuugo,YUGO,,유고,Yuugo
 362,,"I ""Dreamin"" stanno creando problemi a EDEN con le
-loro truffe.
-Bisogna frenarli. Ho chiesto aiuto
-anche a Hudie.","「Dreamin」在EDEN的詐欺行為已經變成嚴重的問題
+loro truffe. Bisogna frenarli. Ho chiesto
+aiuto anche a Hudie.","「Dreamin」在EDEN的詐欺行為已經變成嚴重的問題
 不能繼續放任他們，我要委託hudie也來幫忙",,"「드리밍」이 저지르는 EDEN의 사기행위가 문제시되고 있어.
 녀석들을 이대로 방치할 수는 없지.
 후디에에게도 협력을 의뢰할게.","Sandman macht Ärger in EDEN. Die
 brauchen einen Dämpfer. Hilf außerdem
 Hudie."
 363,,Amante dei Digimon,最愛數碼寶貝人,,디지몬 정말 좋아맨,Digimonfreund
-364,,"Anche i miei amici hanno
-fatto male ai sogni! Prendili, Hudie!","我的朋友也被Dreamin給害了！
+364,,"Sandman ha fatto del male anche ai miei amici!
+Prendili, Hudie!","我的朋友也被Dreamin給害了！
 收拾掉他們吧，hudie！",,"드리밍이라면 친구도 피해를 받았었어!
 해치워버려, 후디에!","Sandman hat auch meinen Freunden
 wehgetan! Schnappt sie euch, Hudie!"
@@ -364,9 +362,8 @@ und bitte um Details.)"
 374,,Sconfiggi il Leader dei Sogni,前往Dreamin的首領,,드리밍 리더를 쓰러뜨리자.,Besiege die Sandman-Anführerin.
 380,,Cosa sono gli amici?,請教我何謂朋友,,친구에 대해 가르쳐주세요,Was sind Freunde?
 381,,Yuuko,悠子,,유코,Yuuko
-382,,"Vorrei scoprire qualcosa
-sull'amicizia, ma è difficile per me
-approfondirla.
+382,,"Vorrei scoprire qualcosa sull'amicizia,
+ma è difficile per me approfondirla.
 Potresti aiutarmi a trovare del materiale?","我很想理解「朋友」
 所以我做了各種調查，但對我來說有點困難……
 你能陪我找參考資料嗎？",,"「친구」라는 것에 대해
@@ -537,8 +534,7 @@ ob du helfen kannst."
 600,,Ascensore che scompare,人會消失的電梯,,사람이 사라지는 엘리베이터,Der verschwindende Aufzug
 601,,Rico,莉子,,리코,Rico
 602,,"Questo ascensore a Nakano porta in un posto
-strano,
-dove le ragazze scompaiono.
+strano, dove le ragazze scompaiono.
 Trova mia sorella!","我在中野搭電梯到了奇怪的地方
 而姊姊在那邊消失了
 請幫我找姊姊",,"나카노의 엘리베이터에서 이상한 장소가 나오더니
@@ -547,7 +543,7 @@ Trova mia sorella!","我在中野搭電梯到了奇怪的地方
 einfach, und Mädchen mit ihm.
 Finde meine Schwester!"
 603,,Nonamemon,無名獸,,이름없는몬,Inkognitomon
-604,,Questa squadra aiuterà a trovarla?,這隊伍連找人都會幫忙嗎？,,"이 팀, 사람 수색까지 하는 거야?",Wird dieses Team helfen?
+604,,Ma questa squadra aiuta anche a cercare le persone?,這隊伍連找人都會幫忙嗎？,,"이 팀, 사람 수색까지 하는 거야?",Wird dieses Team helfen?
 605,,Tarojiro,太郎次郎,,타로지로,Tarojiro
 606,,"Sono stato su quell'ascensore di Nakano,
 ma era normale.","我也坐過中野的電梯，
@@ -676,10 +672,8 @@ Kannst du sie dazu bringen, aufzuhören?"
 780,,La fuga di Airdramon,逃亡的飛龍獸,,도망치는 에어드라몬,Airdramons Flucht
 781,,Grossista DigiMarket,數碼市場的卸貨業者,,디지마켓 도매업자,DigiMarkt-Großhändler
 782,,"Airdramon è scappato proprio mentre avevamo
-programmato
-di consegnare al DigiMarket!
-La scadenza è presto! Pagheremo, quindi
-prendetelo!","預定要送到數碼市場的飛龍獸逃走了！
+programmato di consegnare al DigiMarket! La
+scadenza è presto! Pagheremo, quindi prendetelo!","預定要送到數碼市場的飛龍獸逃走了！
 送達期限就是明天了！
 我會付優渥報酬的，拜託抓回他吧！",,"디지마켓에 납품 예정인 에어드라몬이 도망쳐버렸어!
 납품 기한이 가까운데!
@@ -699,8 +693,7 @@ catturarlo?",啊～都逃掉了，不太可能再抓回來吧？,,"아~아, 도�
 800,,Segui sempre il tuo istinto,只要捏緊鼻子,,코를 쥐면,Immer der Nase nach
 801,,Subappaltatore Kamishiro,神代企業的外包業者,,카미시로 하청업자,Kamishiro-Mitarbeiter
 802,,"Qualcuno ha scaricato illegalmente rifiuti in
-EDEN
-e ci sono arrivate lamentele per la puzza.
+EDEN e ci sono arrivate lamentele per la puzza.
 Scopri la causa e sbarazzatene.","我們接到抱怨，說EDEN內
 非法丟棄的垃圾發出惡臭
 希望你們能除去發出惡臭的垃圾",,"EDEN 안에 불법 투기한 쓰레기에서
@@ -1911,12 +1904,11 @@ Auf sie, zum Wohl der Digimon!"
 1945,,Piyopon,小雞兔子,,피요퐁,Piyopon
 1946,,Trucchi? Ho sentito parlare solo di succo.,密技？我只有聽過果汁的傳聞啊？,,숨겨진 기술? 나는 주스 이야기 밖에 못 들었는데?,Hacks? Ich weiß nur was von Saft.
 1950,,Dirigiti a Kowloon Lv. 1,前往Kowloon Lv.1,,쿠롱 Lv.1으로 향하자,"Geh nach Kowloon, Ebene 1."
-1960,,"Sconfiggi l'eroe hacker della ventola della
-capsula!",討伐喜歡轉蛋的駭客廣吧！,,뽑기 좋아하는 해커 히로를 토벌해라!,Schlag Kapselfan-Hacker Hero!
+1960,,Sconfiggi l'eroe hacker capsula!,討伐喜歡轉蛋的駭客廣吧！,,뽑기 좋아하는 해커 히로를 토벌해라!,Schlag Kapselfan-Hacker Hero!
 1961,,Mirei Mikagura,御神樂米蕾,,미카구라 미레이,Mirei Mikagura
 1962,,"I Digimon hanno trovato degli
-hacker nella lista nera. A Kowloon Lv.
-1. Aiuto, per i Digimon!","數碼寶貝找出被列入黑名單的駭客了喔
+hacker nella lista nera. A Kowloon Lv. 1.
+Aiuto, per i Digimon!","數碼寶貝找出被列入黑名單的駭客了喔
 看來他在Kowloon Lv.1
 為了數碼寶貝們，請你盡一份力吧",,"디지몬들이 블랙리스트 해커를 발견했어.
 아무래도 쿠롱 Lv.1에 있는 모양이야.
