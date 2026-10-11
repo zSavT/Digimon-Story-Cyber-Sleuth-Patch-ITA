@@ -156,6 +156,32 @@ In ogni caso:
   - La lunghezza **massima è 48 caratteri** (49 se vogliamo inserire anche un carattere punto o, se proprio necessario, un ulteriore carattere per non interrompere una parola).
 ![Immagine](./img/Oggetto2.jpg)
 
+### Grammatica csv
+
+I file CSV presentano la seguente struttura:
+```R
+ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
+200,3045,"","Huh? There was a cat here just now. Where's it
+gone?","咦……剛才的貓，不見了。
+到哪去了啊？","","어라……조금 전까지 있었던 고양이가 사라졌어.
+어디로 간 걸까?","Wie? Da war doch gerade eine Katze. Wo ist sie
+denn hin?"
+```
+
+Ogni file ha la seguente intestazione:
+ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
+Dove:
+
+- ID
+  - Codice ID della singola riga.
+- Speaker
+  - Codice ID del personaggio che parla. Il codice ID corrisponde a quello presente nel file nella cartella *charname.mbe*.
+- Le colonne per ogni lingua ufficialmente supportata dal gioco.
+
+Essendo un CSV ogni colonna è separata da ",". Se una cella di una colonna va a capo, in automatico il gioco porterà il testo a capo come nel csv.
+**NOTA BENE**
+Quando si va a capo, bisogna raggruppare l'intera cella con le virgolette ". In caso contrario il tool per la creazione della patch fallirà.
+
 ## Modifica delle texture
 
 Le texture del gioco sono presenti nella cartella "**images**". Tutte le immagini sono in formato "**.img**". Per poterle modificare, bisogna modificare l'estensione con "**.dds**" e successivamente utilizzare un tool di modifica delle immagini che supportano i DDS (Come [Gimp](https://www.gimp.org/downloads/)). L'esportazione deve avere come formato il DXT5 (BX3).
