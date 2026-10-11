@@ -169,6 +169,7 @@ denn hin?"
 ```
 
 Ogni file ha la seguente intestazione:
+
 ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
 Dove:
 
@@ -179,7 +180,10 @@ Dove:
 - Le colonne per ogni lingua ufficialmente supportata dal gioco.
 
 Essendo un CSV ogni colonna è separata da ",". Se una cella di una colonna va a capo, in automatico il gioco porterà il testo a capo come nel csv.
+
 **NOTA BENE**
+
+
 Quando si va a capo, bisogna raggruppare l'intera cella con le virgolette ". In caso contrario il tool per la creazione della patch fallirà.
 
 ## Modifica delle texture
