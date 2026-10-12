@@ -92,12 +92,14 @@ Basta con queste sciocchezze, ridai il suo animaletto a quel ragazzo!","喂、�
 Schluss mit dem Unfug, gib dem jungen
 Mann sein Haustier zurück!"
 37,3015,,Okay... Ecco!,好～啦……拿去啦！,,예입…… 받아라!,Okay ... Hier!
-38,3015,,Fai più attenzione al tuo Digimon! Altrimenti ti porto in centrale!,"好好管好自己的數碼寶貝啊！
+38,3015,,"Fai più attenzione al tuo Digimon!
+Altrimenti ti porto in centrale!","好好管好自己的數碼寶貝啊！
 不然的話，我就逮捕你喔──",,"디지몬은 똑바로 관리해라!
 안 그러면 체포해버린다―","Pass besser auf dein Digimon auf!
 Sonst muss ich dich mit aufs Revier nehmen!"
 39,3048,,Scusa!,好、好～的……不好意思。,,"예, 예… 죄송합니다―",Entschuldigung!
-40,3007,,"Tempismo perfetto. Lascia che ti presenti, Ryuji. Questa è la mia collega, Date.","正好。龍司，我跟你介紹一下。
+40,3007,,"Tempismo perfetto. Lascia che ti presenti, Ryuji.
+Questa è la mia collega, Date.","正好。龍司，我跟你介紹一下。
 這是我的部下，叫伊達。",,"마침 잘됐군.
 소개하지 류지. 부하인 다테다","Perfektes Timing. Lass mich dich vorstellen,
 Ryuji. Das ist meine Kollegin Date."
@@ -114,10 +116,12 @@ Puoi contare su di lei se mai ti trovassi in difficoltà.","雖然看起來有�
 곤란할 때는 언제든 의지하도록 해라","Sie sieht zwar merkwürdig aus, aber sie ist eine
 gute Polizistin. Du kannst auf sie zählen, falls
 du mal in Schwierigkeiten steckst."
-45,3007,,"Lo stesso vale per te, Date. Ryuji ha fegato. Garantisco per lui.","伊達，妳也是哦。
+45,3007,,"Lo stesso vale per te, Date. Ryuji ha fegato.
+Garantisco per lui.","伊達，妳也是哦。
 龍司的勇氣跟毅力可是我掛保證的。",,"다테, 너도다. 류지의 의협심과 근성은 내가 보증하지","Das Gleiche gilt für dich, Date. Ryuji hat Mumm.
 Ich bürge für ihn."
-46,3007,,... Il suo unico difetto è che è un hacker che non mostra alcun rimorso. Hahaha.,"……要說他這個人有哪裡不好，
+46,3007,,"... Il suo unico difetto è che è un hacker
+che non mostra alcun rimorso. Hahaha.","……要說他這個人有哪裡不好，
 大概就是他是個駭客吧，哈哈哈！",,……해커라는게 옥의 티지만. 핫핫핫,"... Sein einziger Makel ist, dass er ein Hacker
 ist, der keine Reue zeigt. Hahaha."
 47,3046,,... Detective Matayoshi...,……又吉先生。,,……마타요시 씨,"... Uff, ist das so offensichtlich?"
@@ -147,7 +151,8 @@ du freche Göre!"
 밀고가 들어왔다는 연락이 왔다","Ja. Ein Informant hat uns einen Tipp bezüglich
 eines flüchtigen Hackers gegeben, für den es
 einen Haftbefehl gibt."
-55,3015,,Ottimo! Se siamo fortunati, lo cogliamo in flagrante!,好！如果順利，就能以現行犯逮捕他！,,좋았어! 잘 되면 현행범 체포가 가능하겠군요!,"Spitze! Vielleicht ertappen wir ihn
+55,3015,,"Ottimo! Se siamo fortunati,
+lo cogliamo in flagrante!",好！如果順利，就能以現行犯逮捕他！,,좋았어! 잘 되면 현행범 체포가 가능하겠군요!,"Spitze! Vielleicht ertappen wir ihn
 auf frischer Tat!"
 56,3007,,"Mi dispiace, Ryuji. Dovremo rimandare la nostra chiacchierata!","不好意思啊龍司，
 要找我商量的事，我之後一定會好好聽你說！",,"미안하다 류지, 상담 문제는 다음에 반드시 듣겠다!","Tut mir leid, Ryuji. Du wirst noch eine Weile
@@ -158,7 +163,8 @@ Dann komme ich mit."
 ……走吧！龍司，伊達！ ",,"그거 고맙군!  ……가자, 류지, 다테!","Du wärst uns eine große Hilfe!
 Los, ihr zwei, gehen wir!"
 59,3048,,... Cosa ne sarà del nostro piano?,……作戰情況怎麼樣啦？,,……작전은 어떻게 됐어?,... Was wird aus unserem Plan?
-60,3048,,"Ehi! Dove stai andando? Non vorrai mica seguirli conciato così, vero?!","等等……喂！你是要去哪裡啊！
+60,3048,,"Ehi! Dove stai andando?
+Non vorrai mica seguirli conciato così, vero?!","等等……喂！你是要去哪裡啊！
 你該不會想要追過去吧！？就你現在這樣子！？",,"잠깐… 어이! 어딜 가는 거야!
 설마 뒤따라갈 생각이야!? 그 모습으로!?","He! Wo willst du denn hin? Du willst doch nicht
 etwa in deinem Aufzug die Verfolgung
