@@ -1,18 +1,17 @@
 ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
-0,5004,,Qualcosa è scritto sopra...,上頭寫著某些字……,,무언가 적혀 있다…,Es steht etwas geschrieben ...
+0,5004,,C'è scritto qualcosa...,上頭寫著某些字……,,무언가 적혀 있다…,Es steht etwas geschrieben ...
 1,5004,,Analisi dati completata,資料分析成功。,,데이터의 해석에 성공했다,Datenanalyse abgeschlossen
 2,5038,,[4Codice di sblocco...>],[4Unlock code･･･＞],,[4Unlock code･･･＞],[4Freischaltcode ...>]
-3,5004,,Si tratta di una specie di dato bloccato...,有某些資料被上鎖……,,어떤 데이터가 록 되어 있다…,Es sind irgendwelche gesperrten Daten ...
-4,5004,,"Sembra il registro di un hacker che è passato
-molto tempo fa, lasciato come messaggio
-per gli hacker che verranno.","這似乎是以前來過這裡的駭客所留下的記錄……
+3,5004,,Si tratta di dati protetti...,有某些資料被上鎖……,,어떤 데이터가 록 되어 있다…,Es sind irgendwelche gesperrten Daten ...
+4,5004,,"Sembra il registro lasciato molto tempo fa da un hacker,
+un messaggio per tutti quelli che verranno dopo di lui.","這似乎是以前來過這裡的駭客所留下的記錄……
 他留了一些訊息要給之後來的駭客。",,"전에 이곳을 지나간 해커의 로그인 모양이다…
 뒤따라 올 해커를 위한 메시지가 남겨져 있다","Sieht nach dem Protokoll eines Hackers aus, das er
 vor langer Zeit als Nachricht an zukünftige
 Hacker hier hinterlassen hat."
-100,5038,,"[4Se vuoi andare più a fondo, incolla
-i dati rossi sul piedistallo di
-destra. da　[c4101]]","[4想到深處去的人，
+100,5038,,"[4Se vuoi spingerti più a fondo, inserisci
+i dati rossi sul piedistallo di destra.
+Firmato: [c4101]]","[4想到深處去的人，
 就把RED資料貼到右邊的台座上。
 by　[c4101]]",,"[4안쪽으로 가고 싶은 자는
 오른쪽의 받침대에, RED 데이터를 페이스트하라
@@ -71,8 +70,8 @@ Queste restrizioni non si applicano a noi.]","[4無論是別人擅自認定無�
 해커에게는 소용없어]","[4„Verbotene“ Wege, „geheime“ Türen?
 Für uns gelten diese Beschränkungen nicht.]"
 70305,5038,,[4Nessuno può dire a un hacker cosa fare.],[4任何人都無法限制駭客的行動。],,[4그 누구도 해커의 행동을 제한할 수 없어],"[4Niemand sagt einem Hacker, was er tun soll.]"
-70306,5038,,"[4Anche se andare avanti o tornare indietro,
-è qualcosa che dovresti decidere tu stesso.]","[4自己要前進與否，
+70306,5038,,"[4Tuttavia, decidere se andare avanti o tornare indietro
+è una scelta che spetta solo a te.]","[4自己要前進與否，
 自己決定就行了。]",,"[4네가 이 앞으로 나아갈지, 나아가지 않을지도
 네가 정하면 돼]","[4Auch die Frage, ob du weitergehst oder
 umdrehst, solltest du selbst entscheiden.]"
@@ -81,34 +80,34 @@ Chi non risica, non rosica.]","[4但是，最好不要忘記「不入虎穴焉�
 這句話哦。]",,"[4하지만, 호랑이를 잡으려면 이라는 말을
 잊지 않는 편이 좋아]","[4Aber denk dran ...
 Wer nicht wagt, der nicht gewinnt.]"
-180201,5038,,[4PATTERN ROSSO: OK],[4PATTERN RED  ：OK],,[4PATTERN RED  ：OK],[4ROTES MUSTER: O.K.]
-180301,5038,,"[4SINISTRA MOTIVO BLU: OK
-DESTRA MOTIVO VERDE: OK]","[4LEFT PATTERN BLUE ：OK
+180201,5038,,[4SCHEMA ROSSO: OK],[4PATTERN RED  ：OK],,[4PATTERN RED  ：OK],[4ROTES MUSTER: O.K.]
+180301,5038,,"[4SCHEMA BLU SINISTRA: OK
+SCHEMA VERDE DESTRA: OK]","[4LEFT PATTERN BLUE ：OK
 RIGHT PATTERN GREEN ：OK]",,"[4LEFT PATTERN BLUE ：OK
 RIGHT PATTERN GREEN ：OK]","[4BLAUES MUSTER LINKS: O.K.
 GRÜNES MUSTER RECHTS: O.K.]"
-200201,5038,,"[4PATTERN ROSSO: ERRORE!
-PATTERN ROSSO: ERRORE!]","[4PATTERN RED   ：ERROR!
+200201,5038,,"[4SCHEMA ROSSO: ERRORE!
+SCHEMA ROSSO: ERRORE!]","[4PATTERN RED   ：ERROR!
 PATTERN RED   ：ERROR!]",,"[4PATTERN RED   ：ERROR!
 PATTERN RED   ：ERROR!]","[4ROTES MUSTER: FEHLER!
 ROTES MUSTER: FEHLER!]"
-200310,5038,,"[4PATTERN BLU: ERRORE!
-PATTERN VERDE: OK]","[4PATTERN BLUE  ：ERROR!
+200310,5038,,"[4SCHEMA BLU: ERRORE!
+SCHEMA VERDE: OK]","[4PATTERN BLUE  ：ERROR!
 PATTERN GREEN  ：OK]",,"[4PATTERN BLUE  ：ERROR!
 PATTERN GREEN  ：OK]","[4BLAUES MUSTER: FEHLER!
 GRÜNES MUSTER: O.K.]"
-200311,5038,,"[4PATTERN GIALLO: ERRORE!
-PATTERN VIOLA: ERRORE!]","[4PATTERN YELLOW ：ERROR!
+200311,5038,,"[4SCHEMA GIALLO: ERRORE!
+SCHEMA VIOLA: ERRORE!]","[4PATTERN YELLOW ：ERROR!
 PATTERN PURPLE ：ERROR!]",,"[4PATTERN YELLOW ：ERROR!
 PATTERN PURPLE ：ERROR!]","[4GELBES MUSTER: FEHLER!
 LILA MUSTER: FEHLER!]"
-200320,5038,,"[4PATTERN BLU: OK
-PATTERN VERDE: ERRORE!]","[4PATTERN BLUE   ：OK
+200320,5038,,"[4SCHEMA BLU: OK
+SCHEMA VERDE: ERRORE!]","[4PATTERN BLUE   ：OK
 PATTERN GREEN  ：ERROR!]",,"[4PATTERN BLUE   ：OK
 PATTERN GREEN  ：ERROR!]","[4BLAUES MUSTER: O.K.
 GRÜNES MUSTER: FEHLER!]"
-200321,5038,,"[4PATTERN GIALLO: ERRORE!
-PATTERN VIOLA: ERRORE!]","[4PATTERN YELLOW ：ERROR!
+200321,5038,,"[4SCHEMA GIALLO: ERRORE!
+SCHEMA VIOLA: ERRORE!]","[4PATTERN YELLOW ：ERROR!
 PATTERN PURPLE ：ERROR!]",,"[4PATTERN YELLOW ：ERROR!
 PATTERN PURPLE ：ERROR!]","[4GELBES MUSTER: FEHLER!
 LILA MUSTER: FEHLER!]"
@@ -117,8 +116,8 @@ SCHEMA VERDE: ERRORE!]","[4PATTERN BLUE   ：ERROR!
 PATTERN GREEN  ：ERROR!]",,"[4PATTERN BLUE   ：ERROR!
 PATTERN GREEN  ：ERROR!]","[4BLAUES MUSTER: FEHLER!
 GRÜNES MUSTER: FEHLER!]"
-200331,5038,,"[4PATTERN GIALLO: OK
-PATTERN VIOLA: ERRORE!]","[4PATTERN YELLOW ：OK
+200331,5038,,"[4SCHEMA GIALLO: OK
+SCHEMA VIOLA: ERRORE!]","[4PATTERN YELLOW ：OK
 PATTERN PURPLE ：ERROR!]",,"[4PATTERN YELLOW ：OK
 PATTERN PURPLE ：ERROR!]","[4GELBES MUSTER: O.K.
 LILA MUSTER: FEHLER!]"
@@ -127,8 +126,8 @@ SCHEMA VERDE: OK]","[4PATTERN BLUE   ：ERROR!
 PATTERN GREEN  ：OK]",,"[4PATTERN BLUE   ：ERROR!
 PATTERN GREEN  ：OK]","[4BLAUES MUSTER: FEHLER!
 GRÜNES MUSTER: O.K.]"
-200341,5038,,"[4PATTERN GIALLO: ERRORE!
-PATTERN VIOLA: ERRORE!]","[4PATTERN YELLOW ：ERROR!
+200341,5038,,"[4SCHEMA GIALLO: ERRORE!
+SCHEMA VIOLA: ERRORE!]","[4PATTERN YELLOW ：ERROR!
 PATTERN PURPLE ：ERROR!]",,"[4PATTERN YELLOW ：ERROR!
 PATTERN PURPLE ：ERROR!]","[4GELBES MUSTER: FEHLER!
 LILA MUSTER: FEHLER!]"
@@ -137,9 +136,8 @@ DOWNLOAD DATI COMPLETATO]","[4登入伺服器……
 資料下載完畢。]",,"[4서버에 접속…
 데이터의 다운로드를 완료했습니다]","[4ZUGRIFF AUF SERVER ...
 DOWNLOAD ABGESCHLOSSEN]"
-70308,2000,,"Sembra il registro di un hacker che è passato
-molto tempo fa, lasciato come messaggio
-per gli hacker che verranno.","這似乎是以前來過這裡的駭客所留下的記錄……
+70308,2000,,"Sembra il registro lasciato molto tempo fa da un hacker,
+un messaggio per tutti quelli che verranno dopo di lui.","這似乎是以前來過這裡的駭客所留下的記錄……
 他留了一些訊息要給之後來的駭客。",,"전에 이곳을 지나간 해커의 로그인 모양이다…
 뒤따라 올 해커를 위한 메시지가 남겨져 있다","Sieht nach dem Protokoll eines Hackers aus, das er
 vor langer Zeit als Nachricht an zukünftige

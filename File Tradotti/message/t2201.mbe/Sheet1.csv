@@ -1,6 +1,6 @@
 ﻿ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
 100,4529,,"Non vorrai mai rimanere a corto di oggetti per
-fuggire dai dungeon! La tua ""Esportazione"", il tuo ""Portale di Casa""...","只要是能脫離迷宮的道具，我都會想攜帶充足的數量。
+fuggire dai dungeon! Tipo ""Export"" o ""Home Gate""...","只要是能脫離迷宮的道具，我都會想攜帶充足的數量。
 像是EXPORT啦，HOMEGATE啦……",,"던전에서 탈출할 수 있는 아이템은 항상 충분히 갖고 있고 싶어.
 그 있잖아, 익스포트라든가 홈 게이트라든가…","Achte darauf, dass dir die Fluchtitems
 für Dungeons nie ausgehen! Exporte,
@@ -16,14 +16,14 @@ unternehmen müssen!"
 是發生了什麼錯誤嗎？　還是被駭客攻擊了？",,"어떻게 하면 그렇게 되는 거야…?
 뭔가 에러? 해킹?","Wie kommt es denn, dass du so aussiehst?!
 Ist das ein Fehler? Wurdest du gehackt?"
-110,4529,,"Non vorrai mai rimanere a corto di oggetti per fuggire dai dungeon!
-La tua ""Esportazione"", il tuo ""Portale di Casa""...","只要是能脫離迷宮的道具，我都會想攜帶充足的數量。
+110,4529,,"Assicurati di avere sempre con te gli oggetti
+per fuggire dai dungeon! Tipo ""Export"" o ""Home Gate""...","只要是能脫離迷宮的道具，我都會想攜帶充足的數量。
 像是EXPORT啦，HOMEGATE啦……",,"던전에서 탈출할 수 있는 아이템은 항상 충분히 갖고 있고 싶어.
 그 있잖아, 익스포트라든가 홈 게이트라든가…","Achte darauf, dass dir die Fluchtitems
 für Dungeons nie ausgehen! Exporte,
 und Heimattore ..."
-150,4529,,"Non vorrai mai rimanere a corto di oggetti per fuggire dai dungeon!
-La tua ""Esportazione"", il tuo ""Portale di Casa""...","只要是能脫離迷宮的道具，我都會想攜帶充足的數量。
+150,4529,,"Assicurati di avere sempre con te gli oggetti
+per fuggire dai dungeon! Tipo ""Export"" o ""Home Gate""...","只要是能脫離迷宮的道具，我都會想攜帶充足的數量。
 像是EXPORT啦，HOMEGATE啦……",,"던전에서 탈출할 수 있는 아이템은 항상 충분히 갖고 있고 싶어.
 그 있잖아, 익스포트라든가 홈 게이트라든가…","Achte darauf, dass dir die Fluchtitems
 für Dungeons nie ausgehen! Exporte,
@@ -69,8 +69,8 @@ Mi proteggerò, da solo!","我正在學習強化資安防護的相關程式。
 schlaugemacht. Ich werde mich
 ganz allein schützen!"
 311,4531,,"E poi sei piombato dentro senza invito?
-Argh! Dimmi come hai fatto, subito! Devo aggiungere questi
-dati al mio programma di difesa!","呃，你也是擅自闖進來的吧！？　真討厭！
+Argh! Dimmi subito come hai fatto! Devo inserire
+questi dati nel mio programma di difesa!","呃，你也是擅自闖進來的吧！？　真討厭！
 快告訴我你是如何入侵的啦！
 我要進行分析，然後寫出程式來對抗你！",,"앗, 너도 무단으로 들어왔잖아!? 정말―!
 어떻게 침입한 건지 가르쳐 줘!
@@ -116,8 +116,8 @@ einfach machen können, was sie wollen!"
 reingeschlichen! Ich wusste, dass du einer
 von diesen Hackern bist!"
 500,4533,,"Non ci sono mai troppi oggetti di recupero...
-Questa è conoscenza comune tra hacker.
-Io ne ho sempre uno o tre in più.","回復道具多帶一點反而剛剛好。
+È la regola d'oro di ogni hacker che si rispetti.
+Io ne tengo sempre un po' di scorta.","回復道具多帶一點反而剛剛好。
 這是駭客的常識呢。
 我時常會多帶一些在身上哦。",,"회복 아이템은 넘치는 정도가 딱 좋아…
 해커의 상식이지
@@ -132,8 +132,8 @@ visto... Forza, sparisci.","……呃，我是在跟你這種來路不明的人�
 Hoffentlich hat das niemand gesehen ...
 Los, zieh Leine."
 510,4533,,"Non si hanno mai troppi oggetti di recupero...
-Questa è semplice conoscenza comune da hacker.
-Io ne ho sempre uno o tre in più.","回復道具多帶一點反而剛剛好。
+È la regola d'oro di ogni hacker che si rispetti.
+Io ne tengo sempre un po' di scorta.","回復道具多帶一點反而剛剛好。
 這是駭客的常識呢。
 我時常會多帶一些在身上哦。",,"회복 아이템은 넘치는 정도가 딱 좋아…
 해커의 상식이지
@@ -148,8 +148,8 @@ Ma nemmeno per sogno! Il mondo dell'hacking
 Du träumst wohl! So freundlich ist die
 Welt der Hacker nicht!"
 550,4533,,"Non si hanno mai troppi oggetti curativi...
-È una regola fondamentale per gli hacker.
-Ne ho sempre uno o tre di scorta.","回復道具多帶一點反而剛剛好。
+È la regola d'oro di ogni hacker che si rispetti.
+Io ne tengo sempre un po' di scorta.","回復道具多帶一點反而剛剛好。
 這是駭客的常識呢。
 我時常會多帶一些在身上哦。",,"회복 아이템은 넘치는 정도가 딱 좋아…
 해커의 상식이지

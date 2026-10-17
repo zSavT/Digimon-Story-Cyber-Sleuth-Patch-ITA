@@ -1,5 +1,5 @@
 ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
-1,3048,,"... Capisco. Quindi è così.",……原來如此。,,……그렇구나,"... Wow, das ist echt heftig."
+1,3048,,... Capisco. Quindi è così.,……原來如此。,,……그렇구나,"... Wow, das ist echt heftig."
 2,3048,,"Sarà difficile da dire, ma... quel tipo, Ryuji, non è che sta facendo qualcosa
 di losco?","雖然有點難說出口……
 但龍司那傢伙，該不會是做了什麼壞事吧？",,"이런 말 하긴 좀 그런데…
@@ -18,7 +18,7 @@ Se continui così, finirai anche tu coinvolto in qualche brutto guaio.","我說�
 這樣下去的話，連你都會被捲入壞事中喔。",,"있잖아, 이제 해커팀 같은 건 그만둬.
 이대로라면 너도 나쁜 일에 휘말릴 거야","Du solltest das Hacker-Dasein aufgeben, sonst
 wirst du auch noch in schlimme Sachen verwickelt."
-7,3048,,"Quelli si approfittano della tua debolezza e ti stanno solo usando.","那群傢伙會抓住你的弱點，
+7,3048,,Quelli si approfittano della tua debolezza e ti stanno solo usando.,"那群傢伙會抓住你的弱點，
 只是想要徹底利用你。",,"그 녀석들 네 약점을 이용해서
 너를 좋을대로 부리고 있을 뿐이라니까","Die Typen haben deine Schwachstelle gefunden und
 nutzen dich nur aus."
@@ -49,8 +49,7 @@ O forse in un negozio di figure usate?","那麼，我們去書店轉換心情吧
 還是要去模型店？",,"그러면 기분전환 삼아 서점이라도 갈래?
 아니면 중고 피규어 가게라던가?","Okay. Sollen wir zu einem Buchladen gehen?
 Oder zu einem Laden mit Second-Hand-Figuren?"
-15,3048,,"Io personalmente vorrei comprare alcuni romanzi di fantascienza usati.
-Tu sei più per i manga, vero?","我是蠻想去找找科幻小說啦
+15,3048,,"Sei più per i manga, vero?","我是蠻想去找找科幻小說啦
 但你喜歡的是漫畫。",,"나는 중고 SF소설을 구하러 다니고 싶지만
 너는 만화같은 걸 좋아하니까","Ich persönlich würde gern ein paar gebrauchte
 Science-Fiction-Romane kaufen. Du stehst
@@ -77,7 +76,7 @@ Gespräch? Ich hoffe es ..."
 其實，我有件事一直想問你。",,"저, 저기…
 실은 네가 들어줬으면 하는 이야기가 있어","Ach, übrigens ... Ich wollte dich etwas fragen."
 22,2020,,?,？？,,??,?
-23,3048,,In realtà vorrei...,其實我對你……,,"사실은 나, 너에게…",Eigentlich möchte ich ...
+23,3048,,"In realtà, io vorrei...",其實我對你……,,"사실은 나, 너에게…",Eigentlich möchte ich ...
 24,2020,,...!,…………！！,,………!!,...!
 25,3048,,Che c'è? Sei appena diventato tutto bianco...,怎麼了，表情都變了……,,"왜 그래, 안색이 변해선……",Was denn? Du bist gerade ganz weiß geworden ...
 26,3048,,"... Un messaggio da K?!
@@ -85,13 +84,13 @@ Fammi vedere!","……K發的訊息！？
 也讓我看看！",,"……K로부터 온 메시지!?
 어이, 나한테도 보여줘!","... Eine Nachricht von K?!
 Zeig mal her!"
-27,7130,,""Informazioni su Akira Hosaka. Questo ti mostrerà la verità."","「發給你保坂晶的情報。
+27,7130,,"Informazioni su Akira Hosaka. Questo ti mostrerà la verità.""""","「發給你保坂晶的情報。
 　希望你能掌握真相」",,"「""호사카 아키라""의 정보를 보내주겠다.
  이걸로 진실을 잡아보도록」","„Informationen zu Akira Hosaka.
 Dies wird dir die Wahrheit zeigen.“"
 28,3048,,Hosaka ...? È lui la prossima vittima?,保坂……就是下個目標嗎？,,호사카라니… 다음 타깃이야?,Hosaka ...? Ist er das nächste Opfer?
 29,2020,,...!,……！,,……!,...!
-30,3048,,Sembra un server di dati per i dati personali.,這個……看起來是個人管理資料用的檔案伺服器。,,이거… 개인이 데이터를 관리하기 위한 파일 서버같은데,Sieht aus wie ein Datenserver für Personalien.
+30,3048,,Sembra un file server per la gestione dei dati personali.,這個……看起來是個人管理資料用的檔案伺服器。,,이거… 개인이 데이터를 관리하기 위한 파일 서버같은데,Sieht aus wie ein Datenserver für Personalien.
 31,3048,,"Cosa farai?
 ... Immagino che ci andrò, no?","該怎麼做呢？
 ……不過，你已經決定好了吧。
@@ -109,16 +108,16 @@ Wieder lässt du mich hängen."
 이번에야말로 너와 함께 싸우고 싶어","Für Shiga konnte ich nichts tun, aber dieses
 Mal gehe ich mit dir."
 35,3048,,Sono pronto.,我也是做了些準備喔。,,내 나름대로 준비를 해 뒀다구,Ich bin bereit.
-36,3048,,"Potrei non essere bravo come te, ma io
-sono anche un buon ""Computer-Cowboy"".","雖然還是比不上你，
+36,3048,,"Potrei non essere bravo come te, ma sono
+anche io un buon ""Computer-Cowboy"".","雖然還是比不上你，
 但我也是出色的「電腦牛仔」喔。",,"너 정도는 아니더라도 훌륭한
 ""컴퓨터 카우보이""야, 나 역시","Ich bin vielleicht nicht so gut wie du, aber ich
 bin auch ein ganz guter „Computer-Cowboy“."
 37,2020,,?,？？,,??,?
 38,3048,,Non ti dice niente? È dal libro che ti ho prestato.,我在說什麼……之前不是借了你書嗎？,,"뭐냐니… 너에게 빌려줬잖아, 책","Das sagt dir nichts? Das ist aus dem Buch, das
 ich dir geliehen habe."
-39,2020,,"Ricordo ancora che l'ho preso in prestito.
-Mi ha aiutato ad addormentarmi ieri sera.","好像有借過
+39,2020,,"Sì, ricordo di averlo preso in prestito.
+Ieri sera è stato un ottimo sonnifero.","好像有借過
 好像是很棒的入睡用書籍",,"빌렸던 것 같기도
 괜찮은 수면제였던 것 같아","Ich weiß noch, dass ich es mir geliehen habe.
 Es half mir gestern Abend beim Einschlafen."

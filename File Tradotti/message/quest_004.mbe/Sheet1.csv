@@ -12,9 +12,9 @@ il nostro sito Web ufficiale.","我是日本拳擊發展協會的人。
 협회 공식 사이트에 생긴 이변에 대해 상담하고 싶어","Ich komme vom japanischen Boxverband. Ich möchte
 ein seltsames Phänomen besprechen, das auf
 unserer offiziellen Website auftritt."
-103,4038,,"Recentemente, le visite che il sito sta ricevendo sono salite
-alle stelle, e i video sul sito sono davvero popolari.
-Affollano il sito come bambini davanti alle caramelle!","最近官網的流量突然急遽增加。
+103,4038,,"Recentemente le visite del sito sono salite alle stelle,
+e i nostri video sono popolarissimi.
+I visitatori accorrono come bambini davanti alle caramelle!","最近官網的流量突然急遽增加。
 連網站上面的影片，播放次數也是節節高升呢！",,"최근 들어 갑자기 공식 사이트의 방문자 수가 늘어났어
 사이트 내에 있는 영상 재생수도 그야말로 승승장구라고!","In letzter Zeit wird die Seite oft aufgerufen
 und unsere Videos sind sehr beliebt.
@@ -40,8 +40,8 @@ io e gli altri nel club eravamo tutti sorpresi anche noi.","你在懷疑我嗎�
 나나 협회의 모두도 놀라고 있어","Du bezweifelst es?
 Das ist normal. Ich und die anderen im Club
 waren auch überrascht."
-107,4038,,"...Eh!? Caramella?
-No, ho detto ""accorrendo come bambini alle caramelle,"" ahah.","……什麼？　竹筍？
+107,4038,,"...Eh!? Caramelle?
+No, ho detto ""come bambini davanti alle caramelle"", ahah.","……什麼？　竹筍？
 對喔……因為是「節節高升」嘛，哈哈。",,"……뭐!? 장구?
 아, 그건가…「승승장구」니까… 하하","Was?! Bonbons?
 Nein, ich meinte, „Alle kommen in Scharen,
@@ -253,7 +253,7 @@ quindi ovviamente è più facile vederlo.","對喔……我想起來了。
 여기, 공식 사이트 서버 안이었지
 쉽게 볼 수 있는 게 당연했어","Ach ja, jetzt erinnere ich mich. Wir sind im
 Server, deshalb kann man sie leichter sehen."
-301,1055,,"Eravamo a fissare così tanti schermi qui che abbiamo rotto il server?","是因為我們在這裡大量連線，
+301,1055,,Eravamo a fissare così tanti schermi qui che abbiamo rotto il server?,"是因為我們在這裡大量連線，
 伺服器才連不上去嗎？",,"우리가 여기서 사이트를 잔뜩 보고 있어서
 서버가 다운된 건가…","Wir haben hier auf so viele Monitore gestarrt,
 dass der Server kaputtging?"
@@ -405,7 +405,7 @@ Proverò ad andare in una palestra di boxe.","光看拳擊網站都不動的話�
 auf der Website zu sein ... Ich werde mal
 zu einem Boxclub gehen."
 650,1055,,Ah... Ora va meglio.,啊……好幸福喔……,,아―… 행복해…,Ach ... Das ist besser.
-651,1055,,"Eh? Sei venuto qui perché sei un fan del pugilato anche tu!?","嗯？居然會來這種地方，
+651,1055,,Eh? Sei venuto qui perché sei un fan del pugilato anche tu!?,"嗯？居然會來這種地方，
 難道你也是拳擊迷！？",,"응? 이런 곳에 오다니
 혹시 너도 복싱 마니아!?","Was? Bist du hergekommen, weil du auch ein Boxfan
 bist?!"
@@ -426,16 +426,16 @@ Beh, bisogna fare quello che bisogna fare. Lo farò per te, amico!","嗯？　�
 ich die Seite anschaue? Wenn es sein muss.
 Für dich mache ich das doch gerne, Freundchen!"
 682,1055,,"...Da quando siamo diventati amici?
-Non l'abbiamo appena dimostrato? Forza! Ci siamo affrontati sul ring,
-questo è un legame sacro!","你問我們什麼時候變成摯友了？
+Ma come, non si è visto? Abbiamo appena incrociato i guantoni sul ring,
+e questo crea un legame sacro!","你問我們什麼時候變成摯友了？
 那還用說嗎？就是在剛剛啊。
 你和我可是熱鬥過一場的人！",,"……언제부터 친구가 된 거냐고?
 그런 거, 방금 전인 게 당연하잖아
 그도 그럴 게, 너랑 나는 한 번 뜨거운 주먹을 나눈 사이인걸!","... Seit wann wir Freunde sind? Haben wir das
 nicht gerade gezeigt? Komm schon! Wir waren
 zusammen im Ring, das ist ein heiliger Bund!"
-683,1055,,"Quando pugno incontra pugno si formano veri legami...
-Questo è ciò che rappresenta la boxe!","拳頭和拳頭交織而成的強烈羈絆……
+683,1055,,"Quando i pugni si incrociano, si creano veri legami...
+Questo è il vero spirito della boxe!","拳頭和拳頭交織而成的強烈羈絆……
 這不就是拳擊嗎！！",,"주먹과 주먹으로 맺는 강한 친애의 인연…
 이거야말로 복싱이잖아!!","Wenn Fäuste aufeinandertreffen, entstehen echte
 Freundschaften ... Darum geht es beim Boxen!"

@@ -1,14 +1,14 @@
-﻿ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
-100,4319,,"Rrraaaaaaah!!! Okay!!! Se non compro oggi
-la statuetta che desidero da tanto, non la
-comprerò mai! Quindi oggi è il giorno in cui sarà mia!!!","唔噢噢—————！！！
+﻿﻿ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
+100,4319,,"Uoooh!!! Okay!!! Se non compro oggi
+la figure che desidero da tanto, non la
+comprerò mai più! Oggi deve essere mia a tutti i costi!!!","唔噢噢—————！！！
 今天不買我一直想要的模型，是要何時買！
 我非買不可，就算貴得要死，我今天也一定要買———！！",,"우오오―――――!!!
 갖고 싶었던 피규어, 오늘 안 사면 언제 사겠다는 거냐!
 사 주마, 비싸더라도 오늘이야말로 사 주고야 말고―――!!","ARGH! Okay! Wenn ich die Figur
 heute nicht kaufe, tue ich es nie!
 Heute schlage ich zu, ganz bestimmt!"
-150,4319,,"L'ho comprata... la statuina da 200.000 yen!
+150,4319,,"L'ho comprata... la figure da 200.000 yen!
 Ora la porterò a casa e mi rifarò gli occhi!
 ...Eh? Sta succedendo qualcosa fuori?","20萬日圓的模型，我真的買下去了……
 快回去好好欣賞一番吧！
@@ -49,13 +49,13 @@ Argh, ich wünschte, es gäbe keine Hacker."
 verschwinden würden!"
 500,4758,,B-ben-venuto... Entra!,歡、歡歡歡、歡迎、光臨光臨光臨……！,,"어, 어어어, 어서 오, 세요세요세요…!",W-Will-Willkommen ... Komm rein!
 501,4758,,"S-sei il nuovo assunto all'agenzia
-investigativa? E sei qui solo per salutare?","什、什麼……？偵探事務所的新人……？
+investigativa? Sei solo venuto a farti un giro di saluti?","什、什麼……？偵探事務所的新人……？
 啊，你正在到處跟大家打招呼……？",,"네, 네…? 탐정사무소의 신인…?
 아, 인사를 하고 다니고 있다고요…?","D-Du hast gerade im Detektivbüro angefangen?
 Und du wolltest nur mal Hallo sagen?"
 502,4758,,"Ohhh, quindi sei anche tu un novellino! Anche io! Ho
 iniziato solo questa settimana, e sono così nervoso!
-Io n-n-non riesco a smettere di fare casini...","原、原來你也是新人啊……！我也是呢！
+Io n-n-non faccio altro che combinare guai...","原、原來你也是新人啊……！我也是呢！
 我是這個星期開始工作的……所、所以一直都很緊張……
 犯錯犯個不停……",,"너, 너도 신인이구나…! 나도야!
 이번 주에 막 들어온 참이라… 계, 계속 긴장해서…
@@ -70,7 +70,7 @@ sarei abituato... Mi impegnerò molto...quindi impegnati anche tu!","總、總�
 reden, um mich dran zu gewöhnen ...
 Wir sollten uns beide ins Zeug legen, du und ich!"
 520,4758,,"B, b-benvenuto, avanti!",歡、歡歡歡、歡迎、光臨光臨……！,,"어, 어어어, 어서 오, 세요세요…!",W-Willkomm rein!
-540,4758,,B-benvenuto!,歡、歡迎瓜離！,,"어, 어서 오혜효!",W-Willkamen!
+540,4758,,B-benvenoto!,歡、歡迎瓜離！,,"어, 어서 오혜효!",W-Willkamen!
 541,4758,,"Oh no, questo, questo non era giusto...",……嗚嗚，咬、咬到舌頭了。,,"…으으, 혀, 혀를 깨물어 버렸어요","Ach, nein, so wird das nichts ..."
 560,4758,,"Benvenuto,
 ciao! Grazie per il tuo
@@ -102,5 +102,5 @@ posti, eheheh.","因為那裡很危險，我才會來到中野。
 이곳도 서브 컬처의 성지니까요… 우후후","Es ist jetzt viel sicherer, hier nach Nakano
 zu kommen. Und Indie-Scifi gibt es hier
 auch, haha."
-700,2000,,"È scortese usare la scala mobile nella direzione sbagliata.",逆向走電扶梯是違反禮儀的……,,에스컬레이터를 역주행하는 건 매너 위반이다…,"Es ist frech, die Rolltreppe in die falsche
+700,2000,,"Camminare contromano sulle scale mobili è maleducazione.",逆向走電扶梯是違反禮儀的……,,에스컬레이터를 역주행하는 건 매너 위반이다…,"Es ist frech, die Rolltreppe in die falsche
 Richtung zu benutzen."

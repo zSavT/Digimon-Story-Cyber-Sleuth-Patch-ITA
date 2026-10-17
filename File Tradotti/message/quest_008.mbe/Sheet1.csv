@@ -4,8 +4,8 @@ Grazie per averlo accettato.","啊，你是因為委託案過來的吧。
 謝謝你接下委託。",,"아, 의뢰 때문에 와 준 거구나
 받아줘서 고마워","Ach, du bist wegen des Falls hier, richtig?
 Danke, dass du dich darum kümmerst."
-101,1078,,"La verità è che, ultimamente, la mia master non si è sentita bene.
-Ha perso l'appetito e non ha mangiato i suoi pasti.","是這樣的……最近主人很沒有精神。
+101,1078,,"La verità è che, ultimamente, la mia Tamer non si è sentita bene.
+Ha perso l'appetito e non tocca cibo.","是這樣的……最近主人很沒有精神。
 她也沒什麼食慾，都不吃飯。",,"실은… 최근 주인님이 기운이 없으셔
 식욕도 없어져서 밥을 전혀 드시지 않아","Um ehrlich zu sein, fühlt sich meine Meisterin
 in letzter Zeit nicht so gut. Sie hat keinen
@@ -51,13 +51,13 @@ Ho preparato il ramen!","大功告成！
 拉麵煮好了！",,"됐다!
 라면이 완성됐어!","Fertig!
 Ich habe Ramen gekocht!"
-122,1078,,"Vorrei che tu lo portassi al mio maestro in EDEN.","我想請你幫我送去給
+122,1078,,Vorrei che tu lo portassi alla mia Tamer in EDEN.,"我想請你幫我送去給
 在EDEN的主人。",,"이걸 EDEN에 있는
 주인님에게 전하고 와줬으면 해","Ich möchte, dass du sie meiner Meisterin in EDEN
 bringst."
 123,1078,,...Vuoi che lo porti a lei di persona?,……我直接送去給她就好了？,,……내가 직접 전해주러 가면 된다고?,"Du willst, dass ich sie ihr persönlich bringe?"
 124,1078,,"Non potevo, è troppo imbarazzante.
-È la prima volta che faccio un regalo al mio master, capisci....","呃，那樣我會有點害羞。
+È la prima volta che faccio un regalo alla mia Tamer, capisci...","呃，那樣我會有點害羞。
 因為這是我送給主人的第一個禮物……",,"아니, 그건 좀 부끄러워
 주인님에게 처음으로 드리는 선물이고…","Ich kann das nicht, es ist mir zu peinlich.
 Ich habe meiner Meisterin nämlich noch
@@ -67,7 +67,7 @@ quindi se non ti dispiacesse...","主人一定就在EDEN入口。
 那就麻煩你囉。",,"주인님은 분명 EDEN 엔트런스에 있을 거라고 생각하니까 말야
 그럼, 잘 부탁해","Meine Meisterin sollte am Eingang zu EDEN sein.
 Wenn es dir also nichts ausmacht ..."
-130,1078,,"Il mio master dovrebbe essere all'entrata di EDEN.
+130,1078,,"La mia Tamer dovrebbe essere all'entrata di EDEN.
 Chissà se le piacerà...?","主人應該在EDEN入口。
 她會喜歡我做的拉麵嗎……？",,"주인님은 EDEN 엔트런스에 있을 거라고 생각해
 라면, 기뻐해 주실까…?","Meine Meisterin sollte am Eingang zu EDEN sein.
@@ -89,8 +89,8 @@ ricomincerà sicuramente a mangiare.","不過已經沒事了！
 분명 드셔주시겠지","Aber jetzt geht es ihr wieder gut!
 Nachdem sie die leckeren Ramen bekommen hat,
 wird sie sicher wieder anfangen zu essen."
-142,1078,,"Grazie mille per il tuo aiuto!
-Se non fosse stato per te, il mio master non si sarebbe ripreso.","謝謝你的幫忙。
+142,1078,,"Grazie mille per il tuo aiuto! Se non fosse stato per te,
+la mia Tamer non si sarebbe ripresa.","謝謝你的幫忙。
 托你的福，主人才可以恢復精神。",,"도와줘서 정말 고마워
 주인님이 기운을 되찾으신 것도 네 덕분이야","Vielen Dank für deine Hilfe!
 Ohne dich hätte meine Meisterin sich
@@ -131,14 +131,14 @@ Sei pronto!?","只要你能打贏我，我就把大骨借你。
 準備好了嗎？",,"나한테 이기면 뼈를 빌려줄게
 준비는 됐겠지!?","Wenn du mich besiegst, leihe ich dir den Knochen!
 Bist du bereit?!"
-170,1394,,"Uff... Ho sudato un bel po'!",呼……啊～～流了一身汗真舒服！,,"후우… 아―, 실컷 땀을 흘렸네!","Hmpf ... Ich bin wirklich ganz schön ins
+170,1394,,Uff... Ho sudato un bel po'!,呼……啊～～流了一身汗真舒服！,,"후우… 아―, 실컷 땀을 흘렸네!","Hmpf ... Ich bin wirklich ganz schön ins
 Schwitzen gekommen!"
 171,1394,,"Una promessa è una promessa, suppongo.
 Tieni, prendilo.","我們說好了。
 沒關係，你就拿去吧。",,"약속이니까
 좋아, 가지고 가","Ein Versprechen muss gehalten werden.
 Hier, nimm ihn."
-172,1394,,"Assicurati di dire a Growlmon di riportarmelo quando ha finito!","幫我跟古拉獸說一聲，
+172,1394,,Assicurati di dire a Growlmon di riportarmelo quando ha finito!,"幫我跟古拉獸說一聲，
 叫他用完後一定要記得還給我！",,"다 사용한 후엔 꼭 돌려달라고
 그라우몬에게 말해줘―!","Aber richte Growlmon aus, dass ich ihn wiederhaben
 will, wenn er damit fertig ist!"

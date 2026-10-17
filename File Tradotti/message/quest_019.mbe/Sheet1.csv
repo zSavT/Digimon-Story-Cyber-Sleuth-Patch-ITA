@@ -219,7 +219,7 @@ quindi assicurati di controllarla!","請找這6隻數碼寶貝蓋章！
 힌트는 수시로 디지라인으로 보내겠습니다― 필히 체크입니다!","Holt euch sechs Stempel von allen sechs Digimon!
 Hin und wieder verschicken wir Hinweise über
 Digiline, also schaut unbedingt drauf!"
-201,4048,,"Pri...Pri...La Princess me lo darà personalmente!?",小、小……小媛媛親手拿給我……！,,"히, 히… 히메짱이 직접 건네준다니……!","Pri ... Pri ... Prinzessin wird sie mir
+201,4048,,Pri...Pri...La Princess me lo darà personalmente!?,小、小……小媛媛親手拿給我……！,,"히, 히… 히메짱이 직접 건네준다니……!","Pri ... Pri ... Prinzessin wird sie mir
 persönlich geben?!"
 202,4048,,"...Eh!? Come mai non sei ancora andato
 a cercare il Digimon!?","怎麼搞的！
@@ -297,7 +297,7 @@ Ich schaue mal auf Digiline nach ..."
 你是參加小媛媛活動的人吧？",,"아, 안녕―!
 히메짱의 이벤트에 참가 중인 사람이지?","Ach, hallo! Du machst bei dem Prinzessin-Event
 mit, nicht wahr?"
-251,1387,,"Allora ti serve un timbro. Ecco a te!","那我幫你蓋章。
+251,1387,,Allora ti serve un timbro. Ecco a te!,"那我幫你蓋章。
 來，給你。",,"그럼 스탬프를 찍을게
 자, 여기 있어","Dann willst du wohl einen Stempel.
 Hier, bitte!"
@@ -340,7 +340,7 @@ Hast du dich verlaufen?"
 401,1325,,"Eh? Io sono, ehm...",咦？　我……,,어? 나는…,"Wie? Ich bin, äh ..."
 402,4051,,"Oh, capisco. Ti sei perso nel mondo umano con
 tutti questi strani fenomeni che accadono,
-giusto? Okay, in quel caso sarò il tuo nuovo master!","啊～我知道了，
+giusto? Okay, in quel caso sarò la tua nuova Tamer!","啊～我知道了，
 你是因為之前那起異常事件才誤入這個世界的吧。
 好，那大姐姐來當你的主人！",,"아― 알겠다―
 요전의 이변 소동으로 이 세계에 흘러들어온 거구나
@@ -391,16 +391,16 @@ a separare Tokomon e me con bugie del genere!?","你是怎樣，不惜說謊
 나랑 토코몬을 갈라놓고 싶은 거야!?","Für wen hältst du dich eigentlich, dass du
 versuchst, Tokomon und mich mit Lügen
 auseinanderzutreiben?!"
-456,4051,,"Perché non potete lasciarmi in pace con Tokomon!?","可以請你不要打擾
+456,4051,,Perché non potete lasciarmi in pace con Tokomon!?,"可以請你不要打擾
 我和可愛小迪哥獸的歡樂時光嗎！？",,"나랑 귀엽고 귀여운 토코몬의
 즐거운 시간을 방해하지 말아 줄래!?","Warum kannst du Tokomon und mich nicht einfach
 in Ruhe lassen?!"
-500,4051,,"...Eh? Tokomon, hai un altro master?","什麼？　這隻小迪哥獸
+500,4051,,"...Eh? Tokomon, hai già un altro Tamer?","什麼？　這隻小迪哥獸
 已經另外有主人了？",,"…뭐? 이 토코몬,
 주인이 따로 있는 거야?","... Was? Tokomon, hast du einen anderen Meister?"
 501,1325,,"Uffa, è quello che ho cercato di dire tutto il tempo!",所以我剛才就一直想說這件事啊！,,그러니까 몇 번이나 그렇게 말하려고 했다고―!,"Argh, ich versuche doch schon die ganze Zeit,
 dir das zu sagen!"
-502,4051,,"Va bene, basta! Allora andrò a cercare un Tokomon senza un master!","這樣啊……沒關係！
+502,4051,,"Va bene, basta! Allora andrò a cercare un Tokomon senza Tamer!","這樣啊……沒關係！
 我再去找沒有主人的迪哥獸就是了！",,"그렇구나… 괜찮아!
 주인이 없는 토코몬을 찾아올 거니까!","Na schön! Dann suche ich eben ein Tokomon, das
 keinen Meister hat!"
@@ -427,7 +427,7 @@ Ok, non morderò le persone...","待在街上還挺危險的呢。
 brenzlig wird, habe ich ja meine Reißzähne!
 Na gut, ich werde keine Leute beißen ..."
 600,1514,,"Mmmm... Questo profuma deliziosamente...
-L'hai preparato davvero bene, master!","嗯……這股濃醇的香氣，
+L'hai preparato davvero bene, Tamer!","嗯……這股濃醇的香氣，
 老闆的手藝真好……",,"으음―… 이 진한 고급스러운 향기
 마스터, 좋은 걸 만드는걸…","Mmmh ... Das riecht lecker ...
 Das hast du wirklich gut gemacht, Meister!"
@@ -468,7 +468,7 @@ Troppo giovane per il caffè, suppongo...","你……真是可憐。
 그렇게 젊은데 커피에 뭔가
 트라우마 같은 게 있는 건가…?","Ach, du armes Ding.
 Wahrscheinlich bist du zu jung für Kaffee."
-609,1514,,"...Oh! Mi ero dimenticato del mio lavoro!","呃啊！！
+609,1514,,...Oh! Mi ero dimenticato del mio lavoro!,"呃啊！！
 我忘記要工作了！",,"……가 아니지이이이!!
 일을 잊고 있었어!","... Ach!
 Ich habe meine Aufgabe ganz vergessen!"
@@ -593,8 +593,8 @@ Ok, dammi la tua scheda e te la timbro.","什麼？　你也想要印章嗎？
 그럼 찍을 테니 카드를 보여줄래?","... Was? Du willst einen Stempel? Okay, gib mir
 deine Karte, dann stempele ich sie für dich."
 903,1510,,Incredibile! Fantastico! Ora li hai tutti!,好棒喔！　這樣就全部收集完畢了！,,"굉장해, 굉장해! 이걸로 전부 모았구나!",Fantastisch! Super! Jetzt hast du alle!
-904,1510,,"Okay, tornate lì al più presto!
-Se consegnerete quella carta al mio maestro,
+904,1510,,"Okay, tornate là al più presto!
+Se consegnerete quella carta alla mia Tamer,
 riceverete un CD autografato in cambio!","快點回去吧！
 只要把那張卡交給主人
 就可以換到簽名CD了。",,"자, 빨리 돌아가서!
@@ -701,7 +701,7 @@ Grazie!!! Io... non so nemmeno cosa dire!","都要感謝[p]！
 그, 그게… 저, 뭐라고 하면 좋을지!!","Vielen, vielen Dank, [p]!
 Danke!
 Ich ... Ich weiß gar nicht, was ich sagen soll!"
-974,4048,,"C-scusa. Sono un po' troppo emozionato...",抱、抱歉，我的情緒這麼激動……,,"미, 미안해요. 흥분이 가라앉지 않아서…","T-Tut mir leid.
+974,4048,,C-scusa. Sono un po' troppo emozionato...,抱、抱歉，我的情緒這麼激動……,,"미, 미안해요. 흥분이 가라앉지 않아서…","T-Tut mir leid.
 Ich bin etwas aufgedreht ..."
 975,4048,,"È stato davvero difficile collezionare tutti i timbri?
 Grazie mille!","收集印章很辛苦吧？
@@ -750,7 +750,7 @@ Mi sono arreso quando non riuscivo a trovare Bukamon...","出現CD第一位得�
 난 둥실몬을 찾을 수가 없어서 포기했어","Die erste Person hat schon die CD erhalten ...?
 Ich habe aufgegeben, als ich Bukamon nicht
 finden konnte ..."
-1005,5004,,"Sei riuscito a trovare il Digimon solo da quegli indizi? Wow...","你居然只靠那麼一點提示
+1005,5004,,Sei riuscito a trovare il Digimon solo da quegli indizi? Wow...,"你居然只靠那麼一點提示
 就找出那些數碼寶貝了……真厲害。",,"너 그 정도의 힌트로
 잘도 디지몬들을 찾아냈네… 굉장해","Du hast nur mit den Hinweisen die Digimon
 gefunden? Wow ..."

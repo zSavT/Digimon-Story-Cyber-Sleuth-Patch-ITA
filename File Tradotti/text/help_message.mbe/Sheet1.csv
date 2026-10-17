@@ -4,9 +4,9 @@ ID,Japanese,English,Chinese,EnglishCensored,Korean,German
 1001,,Seleziona i dati da caricare.,請選擇您要讀取的檔案。,,불러올 데이터를 선택하십시오.,Wähle die zu ladenden Daten.
 1200,,"Sposta i tuoi Digimon nel Party, DigiBank o Isola Fattoria.",可以將持有數碼寶貝移動到隊伍、數碼銀行、農場島中。,,"소유한 디지몬을 파티, 디지털 뱅크, 팜 섬으로 이동할 수 있습니다.","Verschiebe Digimon in die Gruppe, Digibank oder Farminsel."
 1201,,Digievolvi o De-Digievolvi il tuo Digimon.,可以使持有數碼寶貝進化、退化。,,"소유한 디지몬의 진화, 퇴화가 가능합니다.",Lass deine Digimon digitieren oder de-digitieren.
-1202,,Consuma fino a cinque Digimon per potenziare uno dei tuoi Digimon.,最多可以消耗5隻持有數碼寶貝來強化1隻數碼寶貝。,,소유한 디지몬을 최대 5마리 소비하여 1마리의 디지몬을 강화합니다.,"Absorbiere bis zu fünf Digimon, um ein Digimon zu stärken."
+1202,,Assorbi fino a cinque Digimon per potenziarne un altro.,最多可以消耗5隻持有數碼寶貝來強化1隻數碼寶貝。,,소유한 디지몬을 최대 5마리 소비하여 1마리의 디지몬을 강화합니다.,"Absorbiere bis zu fünf Digimon, um ein Digimon zu stärken."
 1203,,Materializza i Digimon con percentuali di Scan superiori al 100%.,掃描率超過100%的數碼寶貝將會實體化。,,스캔율이 100%를 넘어선 디지몬을 실체화합니다.,Materialisiere Digimon mit einem Scanwert über 100 %.
-1204,,Convertire i Digimon in dati di scansione.,將持有數碼寶貝回復為掃描數據。,,소유한 디지몬을 스캔 데이터로 되돌립니다.,Wandle deine Digimon in Scandaten um.
+1204,,Converti i Digimon in dati di scansione.,將持有數碼寶貝回復為掃描數據。,,소유한 디지몬을 스캔 데이터로 되돌립니다.,Wandle deine Digimon in Scandaten um.
 1205,,Seleziona Digimon da spostare.,請選擇要移動的數碼寶貝。,,이동할 디지몬을 선택해주세요.,Wähle die Digimon zum Verschieben aus.
 1206,,Seleziona i Digimon da spostare.,請選擇要移動的數碼寶貝。,,이동할 디지몬을 선택해주세요.,Wähle die Digimon zum Verschieben aus.
 1207,,"Controlla le statistiche, l'equipaggiamento e le abilità dei tuoi Digimon.",可以確認數碼寶貝的狀態、裝備、技能。,,디지몬의 스테이터스/장비/스킬을 확인할 수 있습니다.,"Prüfe Werte, Ausrüstung und Fertigkeiten deiner Digimon."
@@ -17,8 +17,8 @@ ID,Japanese,English,Chinese,EnglishCensored,Korean,German
 1212,,Seleziona Digimon per Digievoluzione o De-Digievoluzione.,請選擇進化後、退化後的數碼寶貝。,,진화/퇴화할 디지몬을 선택해주세요.,Wähle ein Digimon für die Digitation oder De-Digitiation aus.
 1213,,"Controlla le statistiche, l'equipaggiamento e le abilità dei tuoi Digimon.",可以確認數碼寶貝的狀態、裝備、技能。,,디지몬의 스테이터스/장비/스킬을 확인할 수 있습니다.,"Prüfe Werte, Ausrüstung und Fertigkeiten deiner Digimon."
 1214,,Seleziona Digimon per la DNA Digievoluzione.,請選擇要合體進化的數碼寶貝。,,조그레스 할 디지몬을 선택해주세요.,Wähle Digimon für die DNA-Digitation aus.
-1215,,"Controlla le statistiche, l'equipaggiamento e le skill dei tuoi Digimon.",可以確認數碼寶貝的狀態、裝備、技能。,,디지몬의 스테이터스/장비/스킬을 확인할 수 있습니다.,"Prüfe Werte, Ausrüstung und Fertigkeiten deiner Digimon."
-1216,,"Controlla le statistiche, l'equipaggiamento e le skill dei tuoi Digimon.",可以確認數碼寶貝的狀態、裝備、技能。,,디지몬의 스테이터스/장비/스킬을 확인할 수 있습니다.,"Prüfe Werte, Ausrüstung und Fertigkeiten deiner Digimon."
+1215,,"Controlla statistiche, equipaggiamento e abilità dei tuoi Digimon.",可以確認數碼寶貝的狀態、裝備、技能。,,디지몬의 스테이터스/장비/스킬을 확인할 수 있습니다.,"Prüfe Werte, Ausrüstung und Fertigkeiten deiner Digimon."
+1216,,"Controlla statistiche, equipaggiamento e abilità dei tuoi Digimon.",可以確認數碼寶貝的狀態、裝備、技能。,,디지몬의 스테이터스/장비/스킬을 확인할 수 있습니다.,"Prüfe Werte, Ausrüstung und Fertigkeiten deiner Digimon."
 1217,,X: Salvataggio riuscito. Ritorna alla DigiBanca.,×：設定完成，返回數碼銀行。,,"X : 세팅 종료, 디지뱅크로 돌아간다.",X: Speichern erfolgreich. Zurück zur Digibank.
 1218,,Seleziona Digimon da potenziare.,請選擇要強化的數碼寶貝。,,강화할 디지몬을 선택해주세요.,Wähle das Digimon zum Stärken aus.
 1219,,"Controlla le Statistiche, l'Equipaggiamento e le Abilità dei tuoi Digimon.",可以確認數碼寶貝的狀態、裝備、技能。,,디지몬의 스테이터스/장비/스킬을 확인할 수 있습니다.,"Prüfe Werte, Ausrüstung und Fertigkeiten deiner Digimon."
@@ -31,8 +31,8 @@ ID,Japanese,English,Chinese,EnglishCensored,Korean,German
 1226,,"Controlla le statistiche, l'equipaggiamento e le abilità dei tuoi Digimon.",可以確認數碼寶貝的狀態、裝備、技能。,,디지몬의 스테이터스/장비/스킬을 확인할 수 있습니다.,"Prüfe Werte, Ausrüstung und Fertigkeiten deiner Digimon."
 1227,,"Controlla le Statistiche, l'Equipaggiamento e le Abilità dei tuoi Digimon.",可以確認數碼寶貝的狀態、裝備、技能。,,디지몬의 스테이터스/장비/스킬을 확인할 수 있습니다.,"Prüfe Werte, Ausrüstung und Fertigkeiten deiner Digimon."
 1228,,"Controlla le statistiche, l'equipaggiamento e le abilità dei tuoi Digimon.",可以確認數碼寶貝的狀態、裝備、技能。,,디지몬의 스테이터스/장비/스킬을 확인할 수 있습니다.,"Prüfe Werte, Ausrüstung und Fertigkeiten deiner Digimon."
-1300,,Seleziona un caso da investigare.,請選擇要調查的委託。,,조사할 의뢰를 선택해주세요.,Wähle einen Fall zum Ermitteln aus.
-1301,,Seleziona un caso da investigare.,請選擇要調查的委託。,,조사할 의뢰를 선택해주세요.,Wähle einen Fall zum Ermitteln aus.
+1300,,Seleziona un caso su cui indagare.,請選擇要調查的委託。,,조사할 의뢰를 선택해주세요.,Wähle einen Fall zum Ermitteln aus.
+1301,,Seleziona un caso su cui indagare.,請選擇要調查的委託。,,조사할 의뢰를 선택해주세요.,Wähle einen Fall zum Ermitteln aus.
 1600,,Seleziona un Digimon per visualizzare maggiori informazioni.,請選擇要確認詳細資訊的數碼寶貝。,,자세한 정보를 확인하고 싶은 디지몬을 선택해주세요.,"Wähle ein Digimon aus, um mehr Informationen zu erhalten."
 1601,,Seleziona un Digimon per visualizzare maggiori informazioni.,請選擇要確認詳細資訊的數碼寶貝。,,자세한 정보를 확인하고 싶은 디지몬을 선택해주세요.,"Wähle ein Digimon aus, um mehr Informationen zu erhalten."
 1602,,Controlla stato e abilità.,確認狀態或技能。,,스테이터스나 스킬을 확인할 수 있습니다.,Prüfe Status und Fertigkeiten.
@@ -57,7 +57,7 @@ ID,Japanese,English,Chinese,EnglishCensored,Korean,German
 2207,,Ripristina tutte le impostazioni predefinite.,將所有項目回復初期設定。,,모든 항목을 초기설정으로 되돌립니다.,Setze alles auf die Standardeinstellungen zurück.
 2208,,Applica le impostazioni attuali.,套用目前設定的內容。,,지금 설정한 내용을 반영합니다.,Zeigt die aktuellen Einstellungen an.
 2500,,Seleziona un messaggio a cui rispondere.,請選擇要回覆的訊息。,,답신할 메시지를 선택해주세요.,"Wähle eine Nachricht aus, um darauf zu antworten."
-2700,,Seleziona un dungeon da cui entrare.,請選擇要前往的迷宮。,,가고 싶은 던전을 선택해주세요.,"Wähle einen Dungeon aus, den du betreten möchtest."
+2700,,Seleziona un dungeon in cui entrare.,請選擇要前往的迷宮。,,가고 싶은 던전을 선택해주세요.,"Wähle einen Dungeon aus, den du betreten möchtest."
 2800,,Questa è la collezione di medaglie dell'uomo delle medaglie.,獎牌大叔的獎牌收藏。,,메달 아저씨의 메달 컬렉션입니다.,Dies ist die Sammlung des Medaillensammlers.
 2900,,Affronta battaglie su Internet.,使用網路進行連線對戰。,,인터넷을 이용하여 통신대전을 합니다.,Kämpfe über das Internet.
 2901,,Combatti tramite comunicazione locale.,以鄰近主機通訊進行通訊對戰。,,로컬 통신을 이용해 통신 대전을 합니다.,Spiele einen lokalen Kampf.
@@ -69,19 +69,19 @@ ID,Japanese,English,Chinese,EnglishCensored,Korean,German
 3000,,Seleziona un'Isola Fattoria per dare un'occhiata.,請選擇要確認狀況的農場島。,,상태를 확인하고 싶은 팜 섬을 선택해주세요.,Wähle eine Farminsel aus.
 3001,,Usa un Kit di sviluppo Farm per costruire una nuova Isola Fattoria.,使用「農場島開發套件」增加新的農場島。,,"""팜 개발키트""를 사용해 새로운 팜 섬을 만듭니다.",Errichte mit einem Farmentwicklungs-Kit eine Farminsel.
 3002,,Seleziona un oggetto da prendere.,請選擇要領取的道具。,,받을 아이템을 선택해주세요.,"Wähle ein Item aus, um es dir zu nehmen."
-3003,,"Comanda i tuoi Digimon per allenarsi, digievolvere o investigare.",可以對數碼寶貝下達特訓、開發、調查的指令。,,디지몬들의 특훈/개발/조사 지시를 할 수 있습니다.,"Lass Digimon trainieren, etwas entwickeln oder ermitteln."
+3003,,"Ordina ai tuoi Digimon di allenarsi, sviluppare o indagare.",可以對數碼寶貝下達特訓、開發、調查的指令。,,디지몬들의 특훈/개발/조사 지시를 할 수 있습니다.,"Lass Digimon trainieren, etwas entwickeln oder ermitteln."
 3004,,Cambia il leader dell'Isola Fattoria.,可以變更農場島的隊長。,,팜 섬의 리더를 변경할 수 있습니다.,Ändere den Anführer auf der Farminsel.
 3005,,Imposta i Prodotti Fattoria per un'Isola Fattoria.,可以設定農場島上設置的農場道具。,,팜 섬에 설치할 팜 굿즈를 설정할 수 있습니다.,Wähle Farmprodukte für eine Farminsel aus.
 3006,,Usa un Plugin di Espansione della Farm per aumentare il grado dell'Isola Fattoria.,可以使用「島嶼擴張外掛」提升農場島的位階。,,"""팜 확장 플러그인""을 사용해 팜 섬의 랭크를 올립니다.",Steigere per Farmerweiterungs-Plugin den Rang einer Insel.
 3007,,Osserva o nutri il tuo Digimon.,可以觀察數碼寶貝或給予食物。,,디지몬의 관찰이나 먹이를 줄 수 있습니다.,Beobachte oder füttere deine Digimon.
 3008,,Allena i tuoi Digimon per potenziarne le abilità.,特訓可以強化數碼寶貝的能力。,,훈련으로 디지몬의 능력를 강화할 수 있습니다.,"Trainiere deine Digimon, um ihre Fähigkeiten zu verbessern."
-3009,,Paga i costi di sviluppo per sviluppare oggetti.,開發可以支付開發經費製作道具。,,개발로 개발 자금을 지불할 아이템을 작성할 수 있습니다.,Entwickle gegen Entwicklungskosten Items.
+3009,,Sostieni i costi di sviluppo per creare nuovi oggetti.,開發可以支付開發經費製作道具。,,개발로 개발 자금을 지불할 아이템을 작성할 수 있습니다.,Entwickle gegen Entwicklungskosten Items.
 3010,,Indaga per scoprire casi e oggetti.,調查可以發現委託及道具。,,조사로 의뢰나 아이템을 발견할 수 있습니다.,"Ermittle, um Fälle und Items zu entdecken."
 3011,,Seleziona un corso di allenamento.,請選擇特訓難度。,,훈련하고 싶은 코스를 선택해주세요.,Wähle einen Trainingskurs aus.
 3012,,Seleziona il costo di sviluppo da pagare.,請選擇開發時要支付的開發經費。,,개발에 지불할 개발 자금을 선택해주세요.,Wähle die Entwicklungskosten aus.
 3013,,Seleziona il Digimon che sarà il leader.,請選擇要變更為隊長的數碼寶貝。,,리더로 변경할 디지몬을 선택해주세요.,Wähle ein Digimon als Anführer aus.
 3014,,Seleziona il luogo per i Prodotti Fattoria.,請選擇農場道具的設置場所。,,팜 굿즈를 설치할 장소를 선택해주세요.,Wähle einen Ort für die Farmprodukte aus.
-3015,,Seleziona i Beni per la Fattoria da impostare.,請選擇要設置的農場道具。,,설치할 팜 굿즈를 선택해주세요.,Wähle Farmprodukte aus.
+3015,,Seleziona i Prodotti Fattoria da posizionare.,請選擇要設置的農場道具。,,설치할 팜 굿즈를 선택해주세요.,Wähle Farmprodukte aus.
 3100,,Seleziona una mappa in cui vuoi andare.,請選擇要前往的地圖。,,가고싶은 맵을 선택해주세요.,"Wähle eine Karte aus, um dich dorthin zu begeben."
 3200,,Organizza o imposta il gruppo.,可以整編、設定隊伍。,,파티의 편성/세팅을 할 수 있습니다.,Verwalte oder erstelle die Gruppe.
 3201,,Usa o esamina oggetti.,可以使用、確認道具。,,아이템의 사용/확인을 할 수 있습니다.,Benutze oder untersuche Items.
@@ -91,7 +91,7 @@ ID,Japanese,English,Chinese,EnglishCensored,Korean,German
 3205,,Consulta le informazioni sui Digimon registrati nella Guida sul Campo.,可以確認登錄於圖鑑上的數碼寶貝詳細資訊。,,도감에 등록한 디지몬의 자세한 정보를 확인할 수 있습니다.,Schau dir die Infos zu den erfassten Digimon im Digiführer an.
 3206,,Leggi e rispondi ai messaggi ricevuti.,可以確認或回覆收到的訊息。,,수신한 메시지의 확인 및 답장을 할 수 있습니다.,Lies und beantworte empfangene Nachrichten.
 3207,,Salva la partita.,可以進行保存。,,저장을 할 수 있습니다.,Speichere das Spiel.
-3208,,Scambia Digimon Combattenti o In Riserva.,可以交換戰鬥成員和候補成員。,,배틀 멤버와 리저브 멤버의 교체가 가능합니다.,Tausche kämpfende oder Reserve-Digimon aus.
+3208,,Scambia i Digimon in combattimento con quelli di riserva.,可以交換戰鬥成員和候補成員。,,배틀 멤버와 리저브 멤버의 교체가 가능합니다.,Tausche kämpfende oder Reserve-Digimon aus.
 3209,,"Modifica il nome, le Skill e le impostazioni dell'Equipaggiamento del tuo Digimon.",可以設定數碼寶貝的名稱、技能、裝備。,,디지몬의 이름/기술/장비품의 설정을 할 수 있습니다.,"Ändere die Namen, Fertigkeiten und Ausrüstung deiner Digimon."
 3210,,Seleziona Digimon.,請選擇數碼寶貝。,,디지몬을 선택해주세요.,Wähle Digimon aus.
 3211,,Seleziona un'Abilità da equipaggiare.,請選擇要裝備的技能。,,장비할 스킬을 선택해주세요.,Wähle eine Fertigkeit aus.
@@ -118,12 +118,12 @@ ID,Japanese,English,Chinese,EnglishCensored,Korean,German
 2220,,Regola la BGM in gioco.,變更遊戲內播放的BGM。,,게임 도중 재생할 BGM을 변경합니다.,Passe die Hintergrundmusik im Spiel an.
 2221,,Le impostazioni verranno modificate dopo che verrà visualizzata la schermata dell'accordo sull'utilizzo dei dati.,變更使用資料的相關同意畫面顯示設定。,,데이터 사용에 관한 동의 화면이 표시되어 설정을 변경합니다.,"Die Einstellungen werden geändert, nachdem der Zustimmungsbildschirm zur Datennutzung angezeigt wurde."
 2231,,Le impostazioni verranno modificate dopo la visualizzazione della schermata dell'accordo sull'utilizzo dei dati.,變更使用資料的相關同意畫面顯示設定。,,데이터 사용에 관한 동의 화면이 표시되어 설정을 변경합니다.,"Die Einstellungen werden geändert, nachdem der Zustimmungsbildschirm zur Datennutzung angezeigt wurde."
+2222,,Modifica la configurazione dei tasti.,設定按鍵功能。,,키 설정을 변경합니다.,Hiermit wird die Tastenbelegung angepasst.
+2223,,Modifica le impostazioni grafiche.,設定畫面顯示選項。,,그래픽 설정을 변경합니다.,Hiermit werden Grafikoptionen angepasst.
+2232,,Modifica la configurazione dei tasti.,設定按鍵功能。,,키 설정을 변경합니다.,Hiermit wird die Tastenbelegung angepasst.
+2233,,Modifica le impostazioni grafiche.,設定畫面顯示選項。,,그래픽 설정을 변경합니다.,Hiermit werden Grafikoptionen angepasst.
+2224,,La modifica al controller si rifletterà sull'icona al riavvio.,變更控制器時，重新啟動後將會顯示圖示,,컨트롤러를 교체하면 재기동 후 아이콘에 반영됩니다.,Ersetzte Controller werden nach Neustart im Symbol gezeigt.
 3500,,Salva i tuoi progressi attuali.,線上備份目前進度。,,현재 진행 상황을 백업합니다.,Sichere deinen aktuellen Fortschritt.
-2222,"","Modifica la configurazione dei tasti.","設定按鍵功能。","","키 설정을 변경합니다.","Hiermit wird die Tastenbelegung angepasst."
-2223,"","Modifica le impostazioni grafiche.","設定畫面顯示選項。","","그래픽 설정을 변경합니다.","Hiermit werden Grafikoptionen angepasst."
-2232,"","Modifica la configurazione dei tasti.","設定按鍵功能。","","키 설정을 변경합니다.","Hiermit wird die Tastenbelegung angepasst."
-2233,"","Modifica le impostazioni grafiche.","設定畫面顯示選項。","","그래픽 설정을 변경합니다.","Hiermit werden Grafikoptionen angepasst."
-2224,"","A replaced controller is reflected in the icon after reboot.","變更控制器時，重新啟動後將會顯示圖示","","컨트롤러를 교체하면 재기동 후 아이콘에 반영됩니다.","Ersetzte Controller werden nach Neustart im Symbol gezeigt."
 3501,,Inizia il gioco utilizzando i dati scaricati dallo spazio di archiviazione online.,將以從網路硬碟下載之進度開始遊戲。,,온라인 스토리지로부터 다운로드한 데이터로 게임을 시작합니다.,Beginne das Spiel mit Daten vom Online-Speicher.
 2907,, ,　,,　, 
 3216,,Seleziona un accessorio da equipaggiare.,請選擇要裝備的飾品。,,장비할 액세서리를 선택해 주세요.,Wähle ein Accessoire zum Ausrüsten.
@@ -182,12 +182,12 @@ ID,Japanese,English,Chinese,EnglishCensored,Korean,German
 1003,,Seleziona una partita salvata per continuare.,請選擇要繼承的資料。,,계승할 데이터를 선택해 주세요.,"Wähle einen Spielstand, um fortzufahren."
 1004,,Seleziona una partita salvata per continuare.,請選擇要繼承的資料。,,계승할 데이터를 선택해 주세요.,"Wähle einen Spielstand, um fortzufahren."
 1005,,Seleziona una posizione di salvataggio per i dati importati.,請選擇繼承資料的保存位置。,,계승할 데이터를 보존할 위치를 선택해 주세요.,Bitte wähle einen Speicherort für importierte Daten.
-3502,,Dati importati scaricati dallo spazio di archiviazione online.,繼承自線上儲存空間下載的資料。,,온라인 스토리지로부터 다운로드 한 데이터를 이어받습니다.,Importiere Daten aus dem Online-Speicher.
+3502,,Importa i dati scaricati dallo spazio di archiviazione online.,繼承自線上儲存空間下載的資料。,,온라인 스토리지로부터 다운로드 한 데이터를 이어받습니다.,Importiere Daten aus dem Online-Speicher.
 3800,,Accedi a EDEN.,登入EDEN。,,EDEN에 로그인 합니다.,Logge dich bei EDEN ein.
 3801,,Vai al DigiLab.,前往數碼實驗室。,,디지랩으로 갑니다.,Geh zum DigiLab.
 3802,,Esplora l'URL acquisito ed effettua un'irruzione nel Cyber Spazio.,以獲得的URL來入侵數碼空間。,,입수한 URL을 참조해서 디지털 스페이스로 침입합니다.,Gehe zur erhaltenen URL und brich in den Digitalraum ein.
-3803,,Controlla i post BBS disponibili che puoi investigare.,確認目前可調查的電子布告欄發文。,,현재 조사 가능한 전자 게시판 투고를 확인합니다.,"Überprüfe die BBS-Beiträge, die du ermitteln kannst. "
-3804,,Acquista Digimon dal dark web.,可以從地下網站購買數碼寶貝。,,암시장에서 디지몬을 구입할 수 있습니다.,Kaufe Digimon im Darknet.
+3803,,Controlla i post sulla BBS su cui puoi indagare.,確認目前可調查的電子布告欄發文。,,현재 조사 가능한 전자 게시판 투고를 확인합니다.,"Überprüfe die BBS-Beiträge, die du ermitteln kannst. "
+3804,,Acquista Digimon al mercato nero.,可以從地下網站購買數碼寶貝。,,암시장에서 디지몬을 구입할 수 있습니다.,Kaufe Digimon im Darknet.
 3805,,Analizza la Hacker's Memory acquisita.,解析獲得的「駭客記憶」。,,입수한「해커스 메모리」를 해석합니다.,Analysiere die erhaltenen „Hacker's Memory“-Dateien.
 3900,,Scegli un costume da indossare.,請選擇要更換的裝扮。,,갈아입힐 코스튬을 선택해주세요.,Bitte wähle ein Kostüm zum Anziehen.
 2970,,Trova un avversario.,搜尋對戰對手。,,대전 상대를 검색합니다.,Finde einen Gegner.
@@ -208,8 +208,8 @@ ID,Japanese,English,Chinese,EnglishCensored,Korean,German
 2985,,Imposta la chiave della stanza da utilizzare nei criteri di ricerca.,在搜尋條件設定房間密碼。,,검색 조건으로 지정할 룸 키를 입력합니다.,Lege Raumschlüssel für Suchkriterien fest.
 2986,,Cerca stanze che soddisfino i criteri attuali.,搜尋符合目前條件的房間。,,현재 조건과 일치하는 룸을 검색합니다.,"Suche Räume, die zu diesen Kriterien passen."
 2946,,Seleziona una stanza a cui partecipare.,請選擇要加入的房間。,,참가할 룸을 선택해주세요.,Bitte wähle einen Raum zum Betreten aus.
-4000,,"Utilizzato per configurare le impostazioni della profondità di campo.","設定是否開啟景深。",,"피사계 심도의 활성화 여부를 설정합니다.","Hiermit wird die Schärfentiefe eingestellt."
-4001,,"Utilizzato per configurare le impostazioni dell'antialiasing.","設定是否開啟反鋸齒。",,"앤티에일리어싱의 활성화 여부를 설정합니다.","Hiermit wird das Antialiasing eingestellt."
-4002,,"Cambia la modalità schermo.","變更視窗模式。",,"스크린 모드를 변경합니다.","Ändert den Bildschirmmodus."
-4003,,"Cambia la risoluzione.","變更解析度。",,"해상도를 변경합니다.","Ändert die Auflösung."
-4100,,"Utilizzato per configurare le impostazioni dei pulsanti.","設定按鍵功能。",,"키보드 입력 설정을 변경합니다.","Hiermit wird die Tastenbelegung angepasst."
+4000,,Attiva o disattiva la profondità di campo.,設定是否開啟景深。,,피사계 심도의 활성화 여부를 설정합니다.,Hiermit wird die Schärfentiefe eingestellt.
+4001,,Attiva o disattiva l'antialiasing.,設定是否開啟反鋸齒。,,앤티에일리어싱의 활성화 여부를 설정합니다.,Hiermit wird das Antialiasing eingestellt.
+4002,,Cambia la modalità schermo.,變更視窗模式。,,스크린 모드를 변경합니다.,Ändert den Bildschirmmodus.
+4003,,Cambia la risoluzione.,變更解析度。,,해상도를 변경합니다.,Ändert die Auflösung.
+4100,,Utilizzato per configurare le impostazioni dei pulsanti.,設定按鍵功能。,,키보드 입력 설정을 변경합니다.,Hiermit wird die Tastenbelegung angepasst.

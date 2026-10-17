@@ -12,7 +12,7 @@ Fa troppo caldo, vero?","這幾天百老匯館內的空調好像故障了，
 너도 느끼지? …너무 덥지 않아?","Die letzten paar Tage war die Klimaanlage im
 Broadway-Gebäude kaputt. Spürst du das?
 Es ist zu heiß, oder?"
-102,4034,,"Non è strano? Il condizionatore è acceso ma fa ancora così caldo...","很奇怪對不對？
+102,4034,,Non è strano? Il condizionatore è acceso ma fa ancora così caldo...,"很奇怪對不對？
 都開冷氣了還這麼熱。",,"이상하지?
 냉방으로 설정해도 이렇게 더워","Ist das nicht komisch? Die Klimaanlage ist an,
 aber trotzdem ist es so heiß ..."
@@ -109,31 +109,32 @@ zu sein. Hast du das erledigt?"
 Mi hai davvero aiutato!",雖然不清楚是怎麼回事，不過很謝謝你的幫忙。,,잘 모르겠지만 고마워. 덕분에 살았어,"Das verstehe ich nicht wirklich, aber ... danke.
 Du warst eine große Hilfe!"
 303,4034,,...Hmm? Non fa un po' freddo qui intorno?,嗯？　你問這一區是不是有點冷？,,……응? 여기 조금 춥지 않냐고?,Hm? Ist es hier nicht etwas kühl?
-304,4034,,"Esatto, l'aria condizionata non funziona correttamente.
-Si sta surriscaldando, quindi ho abbassato le impostazioni del
-riscaldamento ovunque nell'edificio.","對了，之前因為空調不是很冷導致室內很熱，
+304,4034,,"Esatto, il condizionatore non funziona a dovere.
+Si sta surriscaldando, quindi ho abbassato al minimo
+la temperatura in tutto l'edificio.","對了，之前因為空調不是很冷導致室內很熱，
 於是將館內的空調都設成低溫了。",,"그래, 맞아. 지금까지 에어컨이 고장나서 더웠으니까
 관내 가게들은 모두 온도 설정을 낮춰뒀었어","Genau, die Klimaanlage funktioniert nicht richtig.
 Es wird immer heißer, also habe ich die
 Temperatur im ganzen Gebäude runtergedreht."
-305,4034,,"Quindi, l'aria condizionata era stata riparata e all'improvviso è
-diventato freddo! Sono andato nel panico e sono passato alle
-impostazioni originali. Va bene, tornerà presto alla normalità.","所以空調一修好就突然冷了起來。
+305,4034,,"Quindi, l'aria condizionata è stata riparata e all'improvviso è
+diventato freddo! Preso dal panico, ho ripristinato le
+impostazioni originali. Tra poco tornerà tutto alla normalità.","所以空調一修好就突然冷了起來。
 我剛才已趕緊調回原來的設定，
 放心，馬上就會變舒適了。",,"그래서 에어컨이 고쳐진 순간, 갑자기 너무 추워져버린 거지
 아까 서둘러서 설정을 원래대로 돌려놓았어
 괜찮아. 곧 적당한 온도가 될 거야","Die Klimaanlage war repariert und auf einmal
 wurde es kalt! Ich habe schnell die Einstellungen
 zurückgesetzt. Bald ist alles wieder normal."
-306,4034,,"Dirò agli altri negozi che l'aria condizionata è riparata.",我會轉告其他店家空調已經修好的事。,,다른 가게에도 에어컨이 고쳐졌다고 전해둘 테니까,"Ich werde bei den anderen Geschäften Bescheid
+306,4034,,Dirò agli altri negozi che l'aria condizionata è riparata.,我會轉告其他店家空調已經修好的事。,,다른 가게에도 에어컨이 고쳐졌다고 전해둘 테니까,"Ich werde bei den anderen Geschäften Bescheid
 sagen, dass die Klimaanlage repariert ist."
 307,4034,,"Grazie mille!
 Invio il pagamento al tuo ufficio.","真的很謝謝你，
 報酬我會送去事務所的。",,"정말 고마워
 보수는 사무소로 보내 놓을게","Danke vielmals!
 Ich werde das Geld an dein Büro schicken."
-400,4034,,"Comunque, sei bravo per essere uno nuovo!
-Kyoko si è presa un buon lavoratore, così ora può rilassarsi un po'.","話說回來，你還是新人就這麼厲害。
+400,4034,,"Comunque, te la cavi bene per essere un novellino!
+Kyoko ha trovato un ottimo aiutante, così ora potrà
+battere un po' la fiacca!","話說回來，你還是新人就這麼厲害。
 杏子找到一個可靠的部下應該也很放心吧。",,"그건 그렇고, 신입인데도 굉장하구나, 너
 쿄코도 믿음직스러운 부하직원이 생겨서 든든하겠어","Für einen Neuling bist du jedenfalls gut! Da hat
 Kyoko eine gute Wahl getroffen und kann sich
@@ -153,8 +154,8 @@ Non è ovvio?","啊？　你問我在幹嘛？
 一看就知道了吧。",,"뭐? 내가 뭘 하고 있냐고?
 보면 알잖아","Hä? Was ich mache?
 Ist das nicht offensichtlich?"
-503,1177,,"Sto pensando di farla finita con Meramon.
-Sapevi che quel tipo mi ha chiamato ""Meramon Mark 2""? Ugh...","我正在想一個挫挫火焰獸氣勢的法子，
+503,1177,,"Voglio proprio dare una bella lezione a Meramon.
+Sapevi che quel tipo mi ha chiamato ""Meramon 2""? Che rabbia...","我正在想一個挫挫火焰獸氣勢的法子，
 那傢伙居然敢叫我「火焰獸2號」……",,"메라몬 녀석을 찍소리 못하게 할 방법을 생각하는 중이야
 그 녀석, 나를「메라몬 2호」라고 불러대기나 하고…","Ich überlege, mich mit Meramon anzulegen.
 Kannst du es glauben? Er hat mich

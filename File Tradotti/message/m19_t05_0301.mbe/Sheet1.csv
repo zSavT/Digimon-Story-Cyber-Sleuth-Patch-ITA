@@ -104,7 +104,7 @@ Beh, sarebbe pratico, no?","也不至於。
 Nein, das ist doch ein Kompliment für mich!
 Na, wäre doch praktisch!"
 27,3006,,"Ahah, proprio questo mi sarei aspettato da te.",呵呵，真像你會說的答案啊。,,"…후후, 너다운 대답이로군","Haha, genau das hätte ich von dir erwartet."
-28,1088,,"Il solo pensiero che tu abbia vissuto come un umano!",沒想到，你居然以人類的身分生活……,,"설마, 인간으로서 지내고 있었다니…","Allein der Gedanke, dass du wie ein Mensch gelebt
+28,1088,,Il solo pensiero che tu abbia vissuto come un umano!,沒想到，你居然以人類的身分生活……,,"설마, 인간으로서 지내고 있었다니…","Allein der Gedanke, dass du wie ein Mensch gelebt
 hast!"
 29,3002,,"Ah, già! Perfino Omnimon non se n'è accorto.
 In quel caso non avevamo alcuna possibilità.","這樣啊，奧米加獸也沒有發現啊。
@@ -138,7 +138,7 @@ Quindi non hai convinto del tutto come umano!","雖然我也曾經想過
 妳簡直不是人類！？妳和妳的味覺都是未確認生物！？",,"진짜 인간이 아니야!? 미각까지 UMA!? 라고는?
 생각하기도 하지만―","Du dachtest echt, dass der gut schmeckt! Also
 hast du nicht so ganz überzeugt als Mensch!"
-36,3006,,"Hmm... capisco. Le mie creazioni erano quindi ancora migliorabili?","嗯……這樣啊，妳的意思是，
+36,3006,,Hmm... capisco. Le mie creazioni erano quindi ancora migliorabili?,"嗯……這樣啊，妳的意思是，
 我過去的作品無法滿足妳嗎？",,"흐음… 그런가, 지금까지의 작품으로는 부족하다고
 말하고 싶은 거로군?","Hmm ... verstehe. Meine Kreationen waren also
 noch verbesserungswürdig?"
@@ -158,11 +158,11 @@ EDEN症候群和侵食者……",,"쿄코 씨는, 줄곧 EDEN 증후군이나 �
 어떻게든 하려고 해 주기도 했고…","Kyoko hat schon die ganze Zeit versucht, etwas
 wegen dem EDEN-Syndrom und den Verschlingern
 zu unternehmen."
-40,3002,,"Non capite che non possiamo NON fidarci di lei?",事到如今還說什麼相信不相信的，真是太離譜了！,,"지금 와서 신용을 한다던가 안 한다던가, 있을 수 없다는 얘기예요!","Versteht ihr nicht, dass wir ihr nicht NICHT
+40,3002,,Non capite che non possiamo NON fidarci di lei?,事到如今還說什麼相信不相信的，真是太離譜了！,,"지금 와서 신용을 한다던가 안 한다던가, 있을 수 없다는 얘기예요!","Versteht ihr nicht, dass wir ihr nicht NICHT
 vertrauen können?"
 41,3003,,"Un momento, Nokia. Vuol dire adesso sì o no?",諾、諾奇雅小姐……妳到底是相信，還是不相信？,,"노, 노키아 씨… 결국 그거, 어느 쪽인 거예요…?","Moment mal, Nokia. Heißt das jetzt ja oder nein?"
 42,3003,,"Vorrei chiederti qualcosa, Kyoko.
-Siamo la ragione per cui i Eater sono apparsi nel Mondo Digitale.","我反而想問杏子姊，
+Perché gli Eater ti hanno rapito?","我反而想問杏子姊，
 數碼世界裡會出現侵食者，
 是因為我們……",,"…쿄코 씨에게는, 반대로 여쭙고 싶어요
 디지털 월드에 이터가 출현한 원인은
@@ -179,10 +179,10 @@ da wart ihr ja alle so jung. Ihr hättet doch gar
 nichts tun können, oder?"
 46,3003,,...,………,,………,...
 47,3002,,Ma ... è comunque tutto così terribile.,但……我心裡還是有點難受……,,"하지만… 역시, 좀 힘드네…",Aber ... es ist trotzdem alles so schrecklich.
-48,3002,,"Con il Mondo Digitale è successo qualcosa di brutto ed è solo colpa nostra.",都是我們害得數碼世界變成這樣……,,"우리들 때문에 디지털 월드가
+48,3002,,Con il Digi World è successo qualcosa di brutto ed è solo colpa nostra.,都是我們害得數碼世界變成這樣……,,"우리들 때문에 디지털 월드가
 위험해 졌다니…","Mit der Digitalen Welt ist etwas Schlimmes passiert
 und es ist allein unsere Schuld."
-49,3006,,"Preferiresti non ricordartelo più?",妳是覺得不要想起來比較好嗎？,,기억해내지 않는 편이 좋았을 거라고 생각하는가?,"Wäre es dir lieber, dich doch nicht daran zu
+49,3006,,Preferiresti non ricordartelo più?,妳是覺得不要想起來比較好嗎？,,기억해내지 않는 편이 좋았을 거라고 생각하는가?,"Wäre es dir lieber, dich doch nicht daran zu
 erinnern?"
 50,3002,,No ...,嗯……,,으~응…,Nein ...
 51,3002,,"Non credo. È una cosa orribile...
@@ -207,12 +207,12 @@ Non dobbiamo dimenticarli. I ricordi sono preziosi!","那個時候認識的朋�
 잊어서는 안 되는, 소중한 추억인걸!","Unsere Freunde von damals.
 Die dürfen wir nicht vergessen.
 Die Erinnerungen sind kostbar!"
-56,3003,,"Ora che so di nuovo di mio fratello... e anche di Arata...","既然想起來了，哥哥……
+56,3003,,Ora che so di nuovo di mio fratello... e anche di Arata...,"既然想起來了，哥哥……
 還有新……",,"기억해 낸 이상, 오빠를…
 …겸사겸사, 아라타 씨도","Jetzt, wo ich das mit meinem Bruder wieder
 weiß ... und auch mit Arata ..."
 57,3002,,"Dobbiamo andare da loro, vero?",我們一定要去迎接他們，是吧！,,"마중하러 가야, 겠지!","Wir müssen zu ihnen, stimmt’s?"
-58,3006,,"Haha! È proprio questo che mi aspetto da voi due. Inoltre...","呵，很像你們會說的答案。
+58,3006,,Haha! È proprio questo che mi aspetto da voi due. Inoltre...,"呵，很像你們會說的答案。
 更重要的是——",,"훗, 너희들다운 대답이군
 그리고 무엇보다―","Haha! Genau das erwarte ich von euch beiden.
 Außerdem ..."

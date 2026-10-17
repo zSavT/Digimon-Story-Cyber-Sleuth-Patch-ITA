@@ -1,6 +1,6 @@
 ﻿ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
 301,3013,,Questo è quello che ho visto.,我看到了……,,보였어…,Dies habe ich gesehen.
-303,3013,,"Il destino ti guiderà a sconfiggere i Sette Digimon Demoniaci.",你要遵從命運的指引，打倒七大魔王。,,운명이 이끄는 대로 7대 마왕을 쓰러뜨리는 거야,"Das Schicksal wird dir helfen, die Sieben
+303,3013,,Il destino ti guiderà a sconfiggere i Seven Great Demon Lords.,你要遵從命運的指引，打倒七大魔王。,,운명이 이끄는 대로 7대 마왕을 쓰러뜨리는 거야,"Das Schicksal wird dir helfen, die Sieben
 Dämonenkönige zu besiegen."
 310,3013,,"Sembra che uno dei Sette Grandi Demoni chiamato Creepymon
 si trovi all'Ospedale Centrale...","七大魔王之一的究極魔獸
@@ -79,7 +79,7 @@ Sette Grandi Demoni Digimon che devi sconfiggere...","呵呵呵……我來占�
 점쳐 줄게","Muhaha ... Ich werde dir sagen, wo sich der
 nächste der Sieben Dämonenkönige aufhält,
 den du besiegen musst ..."
-900,3019,,"Sono un campione del Colosseo nell'altro mondo.","我在另一邊的世界
+900,3019,,Sono un campione del Colosseo nell'altro mondo.,"我在另一邊的世界
 可是競技場的冠軍哦。",,"나, 건너편 세계에선
 콜로세움의 챔피언이었어","In der anderen Welt bin ein Champion des
 Kolosseums."
@@ -126,7 +126,7 @@ Cosa!? No... non mi è mai successo!","不過要是太得意忘形的話，小�
 ……我、我才沒有吃到什麼苦頭呢！",,"………하지만 방심하다간 호되게 당할 거야
 …따! 딱히 나는 당했던 적 없지만!","... Aber übertreib es nicht, sonst wirst du dafür
 zahlen. Was?! Nein ... Mir ist das nie passiert!"
-920,3019,,"Hmm...Lilithmon...consigli per combattere Lilithmon...","嗯～莉莉絲獸啊……
+920,3019,,Hmm...Lilithmon...consigli per combattere Lilithmon...,"嗯～莉莉絲獸啊……
 和莉莉絲獸戰鬥的要點……",,"으음~, 리리스몬이라…
 리리스몬전의 힌트…","Hm ... Lilithmon. Tipps für den Kampf gegen
 Lilithmon ..."
@@ -146,9 +146,9 @@ ma a te è stato affidato tutto...","真不甘心……我明明也是馴獸師�
 卻只能把一切都交給你……",,"분하네… 나도 테이머인데
 네게 전부 맡겨야만 하다니…","Das ist gemein ... Ich bin auch ein Zähmer, aber
 alles liegt in deinen Händen ..."
-931,3019,,"...Eh? I miei consigli saranno utili nella battaglia?",什麼？　我的建議會在戰鬥中派上用場……？,,………뭐? 내 어드바이스가 배틀에 도움이 된다고…?,"... Was? Mein Rat wird für den Kampf nützlich
+931,3019,,...Eh? I miei consigli saranno utili nella battaglia?,什麼？　我的建議會在戰鬥中派上用場……？,,………뭐? 내 어드바이스가 배틀에 도움이 된다고…?,"... Was? Mein Rat wird für den Kampf nützlich
 sein?"
-932,3019,,"Cosa!? Ovvio! Non ho certo bisogno che me lo dica tu!","……那、那是當然的囉！
+932,3019,,Cosa!? Ovvio! Non ho certo bisogno che me lo dica tu!,"……那、那是當然的囉！
 不用你說我也知道！",,"………다, 당연하지!
 네가 말하지 않아도 알고 있다고!","Was?! Natürlich!
 Das musst du mir nicht sagen!"
@@ -206,7 +206,7 @@ Dianamon le era stata tolta?","說到這個，米蕾小姐有提到過狄安娜�
 디아나몬이 없어졌다고 했잖아…?","... Da fällt mir ein, meinte Mirei nicht, dass sie
 Dianamon verloren hat? Zur Strafe, weil sie
 die Sieben Dämonenkönige besiegt hat?"
-953,3019,,"Quindi...se sconfiggi i Sette Grandi Lord Demoni di questo mondo...",那麼……打倒這個世界的七大魔王……,,그럼… 이 세계의 7대 마왕을 쓰러뜨리면…,"Wenn du also die Sieben Dämonenkönige in dieser
+953,3019,,Quindi...se sconfiggi i Sette Grandi Lord Demoni di questo mondo...,那麼……打倒這個世界的七大魔王……,,그럼… 이 세계의 7대 마왕을 쓰러뜨리면…,"Wenn du also die Sieben Dämonenkönige in dieser
 Welt besiegst ..."
 954,3019,,Cosa succederà?,又會發生什麼事情呢……？,,어떻게 되는 걸까…?,Was geschieht dann?
 960,3019,,"Lucemon può usare ""knockback"" (sostituzione forzata),

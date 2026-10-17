@@ -1,47 +1,45 @@
 ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
-1,7205,,Ehi. Sono un giocatore abituale qui.,"啊，你等等，就是你。
+1,7205,,"Ehi, tu. Sì, dico a te. Io? Sono un cliente abituale qui.","啊，你等等，就是你。
 我嗎？我是這間店的老玩家。",,"아~너, 잠깐, 너.
 난 이 가게의 단골 게이머인데",Hallo. Ich spiele hier regelmäßig.
-2,7205,,"Ho sentito dire poco fa. Siete qui per riparare Death
-Fist 5, giusto?","剛才你和店長的對話我可是聽到了。
+2,7205,,"Ho sentito la vostra conversazione.
+Sei qui per riparare Death Fist 5, giusto?","剛才你和店長的對話我可是聽到了。
 你是被找來修理「滅拳5」的？",,"아까 이야기 들었어!
 너,「멸권5」를 고치려고 불려왔다며?","Ich habe gerade zufällig euer Gespräch gehört.
 Du sollst Death Fist 5 reparieren, richtig?"
-3,7205,,Ottimo! Sbrigati. Ci stanno giocando tutti.,"真的假的！那就快處理吧。
+3,7205,,Davvero?! Allora sbrigati! È il gioco del momento!,"真的假的！那就快處理吧。
 那款遊戲現在超流行的。",,"정말이냐! 그럼 빨리 좀 해줘.
 그 아케이드 게임 진짜 지금 유행이라서",Toll! Beeil dich. Alle wollen es spielen.
-4,7205,,"Se perdo anche solo poche sessioni, altri giocatori
-supereranno il mio punteggio in men che non si dica.",只要有點空窗期，分數馬上會被其他玩家追過。,,"조금이라도 공백기가 생기면 순식간에 다른 플레이어한테
+4,7205,,"Se salto anche solo qualche partita, gli altri
+giocatori mi supereranno in classifica in un attimo.",只要有點空窗期，分數馬上會被其他玩家追過。,,"조금이라도 공백기가 생기면 순식간에 다른 플레이어한테
 스코어가 밀려버리거든","Wenn ich nur ein paar Runden verpasse,
 überbieten andere im Nu meinen Punktestand."
 5,2020,,...!,……！,,……!,...!
-6,7205,,Cosa? Vuoi che ti mostri il problema?,"嗯？如果我很拿手的話，希望我能協助調查？
+6,7205,,Cosa? Vuoi che ti faccia vedere il problema?,"嗯？如果我很拿手的話，希望我能協助調查？
 你要我試玩給你看看嗎？",,"음? 잘하는 게임이라면 조사에 협력해달라고?
 시험 삼아 플레이해보라고?","Was? Ich soll dir zeigen, was das Problem ist?"
-7,7205,,"Okay. Guarda, è praticamente ingiocabile.","我知道了。
+7,7205,,"Ok. Guarda bene, è praticamente ingiocabile.","我知道了。
 看好了，這真的會玩不下去啊。",,"알았어.
 잘 보라고~ 정말 게임이 안 되니까","Na gut. Siehst du, es ist so gut wie unspielbar."
-8,7205,,"Le schermate del menu vanno bene, ma non appena una battaglia
-inizia...","選單和準備畫面都很普通，
+8,7205,,"I menu e le schermate di caricamento sono normali, ma non appena inizia lo scontro...","選單和準備畫面都很普通，
 但是只要一開始對戰就……",,"메뉴나 준비화면은 멀쩡해.
 그런데 정작 대전이 시작되면……","Die Menüanzeigen sind in Ordnung, aber sobald
 der Kampf beginnt ..."
-9,7205,,"Visto! I frame continuano a calare! Anche se questa è la modalità
-single-player, il lag è terribile!","你看！你看到了吧！畫面掉幀數了！
+9,7205,,"Visto?! C'è un calo di frame!
+Anche se è una partita contro la CPU, lagga da morire!","你看！你看到了吧！畫面掉幀數了！
 明明是對CPU，但是延遲的超級嚴重！",,"봐봐! 지금 봤지! 프레임 드랍!
 CPU 전인데도 이 랙좀 봐!","Siehst du! Die Bildrate geht runter! Es laggt so
 furchtbar, obwohl es ein Spiel für Einzelspieler
 ist!"
-10,7205,,"Poi si blocca completamente, proprio così.
-E quando riparte...ho perso.","最後會變這樣……
+10,7205,,"Alla fine si blocca quasi del tutto, così... E quando si riprende... ho perso.","最後會變這樣……
 幾乎都定格了……
 等畫面恢復正常時……就這樣輸掉了。",,"최종적으로는 이렇게……
 거의 굳어버려서……
 그게 풀리면……이렇게 지는 거야","Dann geht gar nichts mehr, wie du siehst.
 Wenn es dann wieder weitergeht ... habe ich
 verloren."
-11,7205,,"E poi c'è la schermata delle classifiche. Strano, no?
-Tutti i posti dal 1°al 100°hanno il nome ""TOY"".","還有這結算畫面後的排行！
+11,7205,,"E poi guarda la classifica dopo la partita.
+È strano, no? Tutti i posti dal 1° al 100° hanno il nome ""TOY"".","還有這結算畫面後的排行！
 這也很怪啊！
 從第1名到第100名全都成了「TOY」這個名字。",,"그리고 결과 화면 다음에 나오는 랭킹!
 이것도 이상하지? 1위부터 100위까지 전부
@@ -49,33 +47,32 @@ Tutti i posti dal 1°al 100°hanno il nome ""TOY"".","還有這結算畫面後�
 oder? Alle Platzierungen von 1 bis 100 tragen den
 Namen „TOY“."
 12,2020,,???,？？？,,???,???
-13,7205,,"È bizzarro. È un gioco così bello,
-ma questo bug l'ha rovinato.","看到了啊？很莫名奇妙是吧？
+13,7205,,"Visto? È assurdo.
+Il gioco è una bomba, ma da un po' di tempo c'è questo problema...","看到了啊？很莫名奇妙是吧？
 遊戲明明就很讚，
 也不知道什麼時候出了這樣的問題……",,"그치? 영문을 모르겠지?
 게임은 정말 좋은데
 어느새 이런 버그가 생겨서……","Es ist bizarr. Es ist so ein tolles Spiel, aber
 der Fehler hat es ruiniert."
-14,7205,,"Prima era tutto normale. Puoi aggiustarlo, vero?","之前玩起來明明都很正常，
+14,7205,,"Prima funzionava tutto alla perfezione. Devi sistemarlo, ok?","之前玩起來明明都很正常，
 你真的要快點修好啊。",,"그 전까지는 아무렇지 않게 플레이했는데 말이지.
 정말 빨리 좀 고쳐줘","Vorher war alles ganz normal. Du kannst es
 reparieren, nicht wahr?"
-15,2020,,"(L'armadietto in sé sembra normale.
-Parlerò di nuovo con il proprietario.)","（……機台本身好像沒有問題，
+15,2020,,"(Il cabinato in sé non sembra avere problemi.
+Parlerò di nuovo con la proprietaria.)","（……機台本身好像沒有問題，
 　再問一下店長好了）",,"(……본체 자체는 이상이 없는 것 같다.
  한 번 더 주인과 이야기를 해보자)","(Mit der Maschine selbst ist wohl alles in
 Ordnung. Ich spreche noch mal mit der Besitzerin.)"
-16,7204,,Il server di distribuzione del Death Fist 5?,什麼？你問「滅拳5」的服務伺服器嗎？,,어?「멸권5」의 배포 서버요?,Der Verteilserver für Death Fist 5?
-17,7204,,"L'armadietto in sé sembra normale, quindi vuoi
-controllare il server di distribuzione dove i dati
-della classifica vengono compilati?","你說既然機台本身沒有問題，
+16,7204,,Il server di Death Fist 5?,什麼？你問「滅拳5」的服務伺服器嗎？,,어?「멸권5」의 배포 서버요?,Der Verteilserver für Death Fist 5?
+17,7204,,"Dici che il cabinato non ha problemi, quindi vuoi controllare
+il server dove vengono elaborati i dati della classifica?","你說既然機台本身沒有問題，
 就打算調查排行榜資料所在的服務伺服器嗎？",,"본체 그 자체에는 이상이 없는 것 같으니
 랭킹 데이터의 기초가 되는
 통신 서버를 조사하고 싶다고요?","Mit der Maschine ist alles in Ordnung, deshalb
 willst du den Verteilserver überprüfen, wo die
 Rangdaten berechnet werden?"
-18,7204,,Capisco. Ti invierò l'URL del server.,"原來如此，我了解了。
+18,7204,,Capisco. Ti invio subito l'URL del server.,"原來如此，我了解了。
 我這就將伺服器的URL給你。",,"그렇군요, 알겠습니다.
 그럼 서버 URL을 알려드릴게요",Verstehe. Ich schicke dir die URL des Servers.
-19,2020,,"(Andrò al server e vedrò se riesco a trovare la causa.)",（飛往這個伺服器，直接調查原因吧……）,,(이 서버로 가서 직접 원인을 찾아보자…),"(Ich werde den Server besuchen und versuchen,
+19,2020,,"(Andrò direttamente al server per indagare sulla causa.)",（飛往這個伺服器，直接調查原因吧……）,,(이 서버로 가서 직접 원인을 찾아보자…),"(Ich werde den Server besuchen und versuchen,
 die Ursache herauszufinden.)"

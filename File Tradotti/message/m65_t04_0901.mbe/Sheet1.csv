@@ -1,12 +1,12 @@
 ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
-1,1392,,Ha forse perso la memoria?,怎麼會，艾莉卡的記憶消失了……,,설마 에리카의 기억이 없어져 버릴 줄은…,Hat sie etwa ihr Gedächtnis verloren?
+1,1392,,Non può essere... i ricordi di Erika sono spariti...,怎麼會，艾莉卡的記憶消失了……,,설마 에리카의 기억이 없어져 버릴 줄은…,Hat sie etwa ihr Gedächtnis verloren?
 2,2020,,...,…………,,…………,...
-3,4014,,Sarebbe probabilmente meglio tornare domani.,今天就先回去會比較好喔。,,오늘은 이만 돌아가는게 좋겠어,"Es wäre wohl am besten, morgen wiederzukommen."
+3,4014,,Per oggi è meglio che torniate. Potete ripassare domani.,今天就先回去會比較好喔。,,오늘은 이만 돌아가는게 좋겠어,"Es wäre wohl am besten, morgen wiederzukommen."
 4,4014,,"Mi dispiace.
 Non sappiamo ancora molto sulle sue condizioni.",對不起，目前還沒辦法說她的狀態到底如何。,,미안해. 병세는 아직 뭐라고 할 수 없어,"Es tut mir leid.
 Wir wissen noch nicht viel über ihren Zustand."
-5,4014,,"A quanto ho sentito, la causa sarebbe stata che la loro
-connessione al server è stata interrotta da uno spegnimento.","原因雖然是因為關閉伺服器的影響，
+5,4014,,"A quanto pare, la causa è l'interruzione della sua
+connessione al server, dovuta allo spegnimento...","原因雖然是因為關閉伺服器的影響，
 切斷了和伺服器的連接……",,"셧다운의 영향으로 서버와의 링크가 끊어진 것이
 원인이라고 하지만……","Wobei ich gehört habe, die Ursache wäre gewesen,
 dass ihre Verbindung zum Server durch ein
@@ -19,7 +19,7 @@ Faremo per lei tutto il possibile.","但是艾莉卡的治療是很特殊的，�
 gründlich arbeiten, und es wird eine Weile dauern.
 Wir tun für sie, was wir können."
 7,1392,,"Dubito che possiamo aiutare.
-In momenti come questi, vorrei che Ryuji fosse qui.","我們什麼忙都幫不上嗎……
+In momenti come questi, vorrei che Ryuji fosse qui...","我們什麼忙都幫不上嗎……
 在我們這樣的時候……龍司他也……",,"우리가 할 수 있는 일은 아무것도 없는 걸까
 이러고 있는 동안에도…류지는……","Ich bezweifle, dass wir helfen können.
 In solchen Momenten wünschte ich, Ryuji wäre hier."
@@ -27,7 +27,7 @@ In solchen Momenten wünschte ich, Ryuji wäre hier."
 9,7140,,"Ah, voi siete anche qui?",哎呀哎呀，你們也來了啊。,,"야아야아, 당신들도 와 있었습니까","Ah, Sie sind auch hier?"
 10,2020,,?!,！？,,!?,?!
 11,1392,,"Suedou?!
-Che ci fa qui?","末堂明實！？
+Che ci fai qui?","末堂明實！？
 你怎麼會在這……？",,"스에도 아케미!?
 어째서 여기에…?","Suedou?!
 Was tun Sie hier?"
@@ -38,7 +38,7 @@ die Grundlage für ihre Behandlung ist."
 13,2020,,?!,！？！？,,!?!?,?!
 14,1392,,Hanno sviluppato il loro trattamento?,艾莉卡的治療方法……是你！？,,에리카의 치료 방법을… 당신이!?,Sie haben ihre Behandlung entwickelt?
 15,3009,,"Esatto. Dunque, la teoria fondamentale al riguardo proviene da me.
-Con il loro trattamento in sé non ho nulla a che fare.","對，是我。
+Con il suo trattamento in sé non ho nulla a che fare.","對，是我。
 話雖如此，但我只有建構出基本理論，
 沒有參與到治療……",,"예에, 그렇습니다.
 뭐 기초적인 이론을 구축했을 뿐, 치료에는 관여하지 않았지만…","Ganz recht. Also, die grundlegende Theorie dazu
@@ -53,7 +53,7 @@ einen Blick auf den Fall zu werfen."
 17,1392,,"Allora, sa come la sua memoria può essere ripristinata?!",那麼，你知道讓艾莉卡的記憶恢復的方法嗎！？,,그렇다면 에리카의 기억을 원래대로 되돌릴 방법도 알아!?,"Also wissen Sie, wie ihr Gedächtnis
 wiederhergestellt werden kann?!"
 18,1392,,"A quanto pare, la connessione è stata interrotta durante
-lo spegnimento del loro server dei ricordi.","好像是我太亂來，關閉了記憶伺服器的錯，
+lo spegnimento del suo server dei ricordi.","好像是我太亂來，關閉了記憶伺服器的錯，
 才中斷了連線……！",,"억지로 기억 서버를 종료한 탓에
 링크가 끊어져버린 모양이야…!","Wie es aussieht, wurde die Verbindung beim
 Herunterfahren ihres Erinnerungsservers
@@ -61,16 +61,16 @@ unterbrochen."
 19,3009,,Hm... Raccontami tutto.,嗯……能告訴我詳細情況嗎？,,흠……자세하게 들려주시겠습니까?,Hm ... Erzähl mir alles.
 20,3009,,Hmpf... Quindi è così che è successo?!,呵、呵呵呵……哎呀哎呀，原來是這樣啊！,,"쿠후, 쿠후후… 아니아니 그랬습니까!",Hmpf ... So ist das also passiert?!
 21,3009,,"Ha decifrato il mio lavoro e ha ottenuto
-l'accesso diretto alla Procreatrice Eater!",解讀了我的論文，直接登入侵食者母體……！,,제 논문을 해독해서 마더 이터에게 직접 액세스를…!,"Sie hat meine Arbeit entziffert und sich direkten
+l'accesso diretto a Mother Eater!",解讀了我的論文，直接登入侵食者母體……！,,제 논문을 해독해서 마더 이터에게 직접 액세스를…!,"Sie hat meine Arbeit entziffert und sich direkten
 Zugriff auf die Verschlinger-Procreatrice
 verschafft!"
 22,3009,,"Stupefacente!
-La creatività della gioventù mi stupisce sempre di nuovo!","這真是有趣！
+La creatività dei giovani mi stupisce sempre!","這真是有趣！
 年輕人的感性真是美好啊！",,"이건 재미있군요!
 역시 젊은이의 감성은 굉장합니다!","Faszinierend! Die Kreativität der Jugend verblüfft
 mich stets aufs Neue!"
 23,3009,,"Nonostante le condizioni avverse,
-è un metodo efficace per accedere alla Procreatrice Eater.","雖說條件太過特殊相當困難，
+è un metodo efficace per accedere a Mother Eater.","雖說條件太過特殊相當困難，
 但登入侵食者母體真是非常快速有效的手段啊！",,"조건이 너무 특수해서 어려움은 있습니다만
 마더 이터에 접속하는덴 매우 즉효성 있는 수단입니다!","Trotz der erschwerenden Bedingungen ist es eine
 effektive Methode, auf die Verschlinger-
@@ -80,15 +80,15 @@ E questo è il risultato.","但是……好像太過小看侵食者了啊，
 才會有這樣的結果。",,"하지만… 이터를 너무 만만하게 보셨나 보군요.
 그 결과가 이것입니다","Aber wie es aussieht, hat sie die Verschlinger
 unterschätzt. Und das ist das Ergebnis."
-25,3009,,"Per comprendere a fondo i Eater,
-bisogna cambiare il proprio punto di vista.","要從根本掌握侵食者的話，
+25,3009,,"Per comprendere a fondo gli Eater,
+è necessaria una mole maggiore di dati.","要從根本掌握侵食者的話，
 得再換個視點才能對應啊。",,"이터를 근본적으로 장악하려면
 좀 더 시각을 바꾸어 대응하지 않으면 안 됩니다","Um die Verschlinger grundsätzlich zu verstehen,
 muss man seinen Blickwinkel ändern."
 26,3009,,"Ad esempio, immedesimandosi in un Eater.",例如說，變成侵食者本身、或者是一部分──,,예를 들면 이터 그 자체나 그 일부가 된다던가――,"Zum Beispiel, indem man sich in einen Verschlinger
 hineinversetzt."
 27,3009,,"Sì, questo è un approccio eccellente, se posso lodarmi da solo.
-Devo darci seguito.","喔、哦喔……？　我也真是想出了好點子啊！
+Devo approfondire.","喔、哦喔……？　我也真是想出了好點子啊！
 就來徹底探討這辦法吧。",,"야, 야야야…? 제 생각이지만 이건 좋은 생각이군요!
 진지하게 검토해보도록 하죠","Ja, das ist ein ausgezeichneter Ansatz, wenn ich
 mich selbst loben darf. Dem muss ich nachgehen."
@@ -214,7 +214,7 @@ Lass es mich dir erklären."
 59,3009,,Il mondo è sull'orlo di un drastico cambiamento.,這世界……馬上就要改變了，所有的一切都會改變。,,이 세계는……곧 바뀝니다. 모든 것이,Die Welt steht vor einem drastischen Wandel.
 60,2020,,...?,…………？,,…………?,...?
 61,3009,,"Lo strano fenomeno che si manifesta in questo mondo
-è il risultato di una catastrofe nel Mondo Digitale.","襲擊這世界的奇怪現象，起因是在
+è il risultato di una catastrofe nel Digi World.","襲擊這世界的奇怪現象，起因是在
 與我們世界相鄰的其他世界，數碼世界裡。",,"이 세계를 휩쓸고 있는 괴현상은 우리들의 세계와 인접한
 다른 세계, 디지털 월드의 이변에서 비롯되어 일어난 것입니다","Das seltsame Phänomen, das in dieser Welt
 auftritt, ist das Resultat einer Katastrophe
@@ -244,8 +244,8 @@ wird verschwinden."
 66,2020,,???,？？？,,???,???
 67,3009,,Hehehe... Non mi aspetto da voi che lo capiate.,呵呵呵……無法理解也是沒辦法的。,,"쿠후후… 뭐, 이해하지 못하는 것도 무리는 아닙니다","Hehehe ... Ich erwarte nicht von euch, dass ihr
 es versteht."
-68,3009,,"Neanche io so esattamente cosa accadrà dopo
-che il mondo è stato sovrascritto.","改寫世界究竟會帶來什麼樣的結果……
+68,3009,,"Nemmeno io so esattamente cosa accadrà dopo
+che il mondo sarà stato sovrascritto.","改寫世界究竟會帶來什麼樣的結果……
 我也無法確定。",,"세계를 다시 쓴 결과 어떤 작용이 일어날지……
 저도 확실한 것은 모르니까요","Nicht einmal ich weiß nicht genau, was passieren
 wird, nachdem die Welt überschrieben wurde."
