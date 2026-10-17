@@ -4,8 +4,8 @@ sulla lista a Ikebukuro. Inizierò dal Tokyo Handy.)","（購物清單上的東�
 　先去東京手創館看看吧）",,"(구매목록에 있던 것은 전부 이케부쿠로에서 살 수 있을 거야.
  일단은 도쿄 핸디에서 심부름을 끝마치자)","(In Ikebukuro sollte ich alles auf der Liste
 bekommen. Ich gehe zu „Tokyo Handy“.)"
-110,4058,,Vi invitiamo a visitare il Cyberspazio EDEN.,請務必光臨電腦空間「EDEN」。,,저희가 운영하는 전뇌공간「EDEN」에 꼭 방문해주세요,Bitte komm zum EDEN-Cyberspace.
-410,7238,,Conto su di te, anche per il bene dei Digimon!,就算是為了數碼寶貝們，還請多指教喔！,,디지몬들을 위해서라도 잘 부탁드릴게요!,Tu es für die Digimon!
+110,4058,,Vi invitiamo a visitare lo Spazio Cibernetico EDEN.,請務必光臨電腦空間「EDEN」。,,저희가 운영하는 전뇌공간「EDEN」에 꼭 방문해주세요,Bitte komm zum EDEN-Cyberspace.
+410,7238,,"Conto su di te, anche per il bene dei Digimon!",就算是為了數碼寶貝們，還請多指教喔！,,디지몬들을 위해서라도 잘 부탁드릴게요!,Tu es für die Digimon!
 500,2020,,"(Non dovrebbe seguirmi nel
 bar. Mi rifugierò da Hudie!)","（應該不至於會跟來店裡，
 　趕快躲進hudie吧！）",,"(어쨌든 가게 안까지는 따라 들어오지 않을 거야.
@@ -27,7 +27,7 @@ Non mi sembra! Anzi, non è lui, impossibile!","那、那個是NAVIT嗎！？
 뭔가 다르지 않슴까!?
 완전 아닌 것 같지 않슴까!?","Ist das Herr Navit? Ich glaube nicht. Ich bin mir
 sogar ziemlich sicher, dass er es nicht ist!"
-512,9101,,"Che schifo! Cos'è quella cosa brutta dietro di te?!","呀！
+512,9101,,Che schifo! Cos'è quella cosa brutta dietro di te?!,"呀！
 後面那個噁心的東西是什麼！？",,"꺄악!
 뒤쪽에 있는 징그러운 건 뭐야!?","Igitt! Was ist denn das hässliche Ding hinter
 dir?!"
@@ -75,21 +75,23 @@ alla sala giochi?","一定要找到！　到底在哪裡～！
 게임 센터 근처가 좀 수상한가!?","Ich muss ihn unbedingt sehen! Ich frage mich, wo
 er ist! Anscheinend geht in der Spielhalle
 etwas vor sich?"
-521,4120,,"Smettila. Non provo questi sentimenti per Kenji.
-Ti prendi sempre gioco di me, Lily.","真是的……
+521,4120,,"Ma insomma...
+Non è che mi comporto così solo per Kenji...
+Lily, la smetti di prenderti sempre gioco di me?","真是的……
 我又不是只對健二這樣子而已……
 莉莉真是的，每次都故意鬧我……",,"정말…
 켄지에 대해서는 별로 그런 거 아니니까…
 릴리는 항상 그렇게 놀린다니까…","Hör auf. Es stimmt nicht, dass ich mich für Kenji
 interessiere. Immer machst du dich über mich
 lustig, Lily."
-522,4120,,"Lo sto cercando! Ho sentito che è stato
-avvistato al negozio di scarpe!","我、我有好好在找啦！
+522,4120,,"Io sto cercando sul serio! Ho sentito dire
+che è stato avvistato vicino al negozio di scarpe!","我、我有好好在找啦！
 也有聽說在鞋店附近有看到過！",,"제, 제대로 찾고 있어!
 신발가게 근처에서 봤다는 이야기도 들었고!","Ich suche ihn! Ich habe gehört, dass er im
 Schuhladen gesehen wurde!"
-523,4122,,"Eri così gelosa di Mei poco fa,
-vero? Dai, ammettilo, Manaka!","我說啊，剛才的真中絕對是在吃社長的醋吧～？　
+523,4122,,"Dico, poco fa eri assolutamente gelosa
+della presidente, vero, Manaka~?
+Dai, ammettilo~!","我說啊，剛才的真中絕對是在吃社長的醋吧～？　
 是不是啊～？　對不對？",,"있잖아, 마나카 아까 분명히 부장한테 질투했지~? 
 그치? 그치?","Du warst gerade echt eifersüchtig auf Mei,
 nicht wahr? Na los, gib es zu, Manaka!"
@@ -346,7 +348,7 @@ fermato e mi hanno detto che era troppo pericoloso.","我雖然想要抄捷徑�
 但是他們說那邊很危險，不能過去。",,"지름길로 가려고 생각했는데
 위험하니까 지나가면 안 된다는 말을 들었어","Ich wollte eine Abkürzung nehmen, aber ich wurde
 angehalten. Es hieß, es sei zu gefährlich."
-1017,7702,,"Ho appena sentito delle urla provenire dal museo.",我剛才聽到，從博物館的方向傳來了慘叫聲。,,아까 박물관 쪽에서 비명이 들렸어,"Gerade eben habe ich aus dem Museum Schreie
+1017,7702,,Ho appena sentito delle urla provenire dal museo.,我剛才聽到，從博物館的方向傳來了慘叫聲。,,아까 박물관 쪽에서 비명이 들렸어,"Gerade eben habe ich aus dem Museum Schreie
 gehört."
 1018,7702,,"Potrebbero esserci anche dei mostri lì? Non
 mi fanno paura!","該不會是有幽靈跑出來了吧？
@@ -422,7 +424,8 @@ una squadra che sta combattendo contro Zaxon?","你是，hudie的人？
 你為什麼要找跟Zaxon敵對隊伍的駭客？",,"당신, 후디에? 잭슨과 적대하고 있는 팀의 해커는 
 찾아서 뭐하려고?","Bist du bei Hudie? Warum suchst du eine Hackerin
 von einem Team, das gegen Zaxon kämpft?"
-1216,4532,,"Ho sentito dire che c'è un altro gruppo di hacker che sta facendo danni.
+1216,4532,,"Ho sentito dire che c'è un altro
+gruppo di hacker che sta facendo danni.
 Di quale si tratta?","之前又聽到有駭客隊伍出來滋事的傳聞，
 他們是叫什麼來著……",,"요즘 다시 해커팀이 날뛰고 있다는 소문을 들었어.
 뭐라 그랬더라…","Ich habe ein Gerücht gehört, dass ein weiteres
@@ -655,7 +658,7 @@ Fei. Raggiungila non appena sai dove si trova.","討論區裡應該有人知道�
 목적지를 알았다면 그대로 합류해 줘","Jemand im Forum sollte wissen, wo Fei sich
 aufhält. Geh zu ihr, sobald du es weißt."
 1811,3001,,Mi aspetto grandi cose da te.,期待你的表現喔。,,깔끔한 일처리를 기대할게,Ich erhoffe mir Großes von dir.
-1812,4711,,"Qualcuno ha detto che andrà a Under Kowloon Lv. 1.","話說回來，剛剛有人說
+1812,4711,,Qualcuno ha detto che andrà a Under Kowloon Lv. 1.,"話說回來，剛剛有人說
 要去Under Kowloon喔。",,"그러고 보니 방금 누군가가
 언더 쿠롱 Lv.1으로 간다고 말했었어","Jemand hat erwähnt, dass sie gerade zur
 Ebene 1 in Unter Kowloon gegangen ist."
@@ -714,7 +717,7 @@ Ricevuto.","只要到hudie的網站寫下委託就好了吧，
 我知道了。",,"후디에라는 홈페이지에 의뢰를 적어두면 되는 거군요.
 알겠습니다","Ich beschreibe den Fall einfach auf einer Seite
 namens „Hudie“? Verstanden."
-1912,3003,,"Resterò qui e aspetterò che tu porti il ​​libro.","那個……我會待在這裡，
+1912,3003,,Resterò qui e aspetterò che tu porti il libro.,"那個……我會待在這裡，
 參考資料就麻煩你了。",,"저기……전 여기서 기다리고 있을 테니
 참고자료에 대해선 잘 부탁드립니다","Ich bleibe hier und warte, bis du das Buch
 bringst."
@@ -771,8 +774,9 @@ Quando ti senti solo... devi andare giù...""","不小心看到了……♪　�
 ""도달하면 언럭키""","„Wer ihn passiert, dessen Hoffnung schwindet.“
 „Dessen Hoffnung schwindet ...“"
 2210,3013,,"Conto su di te, hacker.",請多指教喔，駭客先生。,,잘 부탁해 해커 씨,"Ich verlasse mich auf dich, Hacker."
-2211,3013,,"Per prima cosa mi serve una confezione da 300 g di pasta di fagioli rossi.
-Il negozio è sulla strada per il quartiere commerciale di Shinjuku.","首先是，300克一袋的「紅豆餡」，
+2211,3013,,"Per prima cosa mi serve una confezione da 300 g
+di pasta di fagioli rossi. Il negozio è sulla
+strada per il quartiere commerciale di Shinjuku.","首先是，300克一袋的「紅豆餡」，
 店就在要往新宿繁華街路上的正前方。",,"먼저, 300g 팩의「팥앙금」이야.
 가게는 신주쿠 번화가로 가는 길의 앞쪽에 있어","Als Erstes brauche ich ein Päckchen mit 300 g
 Rote-Bohnen-Paste. Der Laden ist auf der
@@ -784,9 +788,8 @@ un po' in farmacia ad Akihabara.","接下來是藍色包裝的「蘋果醋」，
 아키하바라의 드러그스토어에 있을 거야","Jetzt brauche ich etwas von dem Apfelessig mit der
 blauen Verpackung. In der Drogerie in
 Akihabara sollte es welchen geben."
-2213,3013,,"Il prossimo ingrediente è l'uva marina. Il mio amico mi
-aspetta al cancello di Asakusa. Ho già pagato. Puoi andare a
-prenderla?","下一項的食材是「海葡萄」喔
+2213,3013,,"Il prossimo ingrediente è l'uva marina. Il mio amico mi aspetta
+al cancello di Asakusa. Ho già pagato. Puoi andare a prenderla?","下一項的食材是「海葡萄」喔
 在淺草的大門前有我認識的人，
 錢我已經先付好了，能替我過去拿一下嗎？",,"다음 식재료는「바다포도」야.
 아사쿠사의 대문 앞에 지인을 불러뒀어.
@@ -808,7 +811,7 @@ con la confezione blu.","不好意思。
 藍色包裝的「蘋果醋」已經賣完了。",,"죄송합니다.
 파란 패키지 디자인의「사과 식초」는 매진되었어요","Der Apfelessig mit der blauen Verpackung ist
 leider ausverkauft."
-2217,7194,,"Potrebbero averne un po' alla Fiera della Salute di Ikebukuro.",如果是池袋的健康特賣會，說不定有在賣喔？,,이케부쿠로의 건강페어에서라면 팔고 있을지도 몰라요,"Bei der Gesundheitsmesse in Ikebukuro könnte es
+2217,7194,,Potrebbero averne un po' alla Fiera della Salute di Ikebukuro.,如果是池袋的健康特賣會，說不定有在賣喔？,,이케부쿠로의 건강페어에서라면 팔고 있을지도 몰라요,"Bei der Gesundheitsmesse in Ikebukuro könnte es
 welchen geben."
 2218,4009,,"Sei riuscito a comprare quello che cercavi?
 L'ultimo? Che fortuna.","有買到想要的東西了嗎？
@@ -1329,7 +1332,7 @@ Non ti parlo più!","胡思亂想？
 吵死了，我已經跟你無話可說了！",,"상상 아니냐고?
 시끄러워, 더 이상 너랑 이야기 하고 싶지 않아!","Nur eingebildet? Halt die Klappe! Mit dir rede ich
 nicht mehr!"
-4121,9307,,"Basta! Ti ho detto che non ti parlo più.","你很煩啊！　我不是說
+4121,9307,,Basta! Ti ho detto che non ti parlo più.,"你很煩啊！　我不是說
 我已經無話可說了嗎！",,"끈질기네 정말! 할 이야기가 없다고
 말했잖아!","Jetzt hör auf! Ich habe doch gesagt, mit dir rede
 ich nicht mehr."
@@ -1340,7 +1343,7 @@ ich nicht mehr."
 Es macht Spaß, Leute zu treten, wenn sie am
 Boden sind."
 4123,9307,,"Ahah, ho sentito il suono del martello qui dentro.",啊哈、聽到槌聲的地方就在這裡面喔。,,"아핫, 망치 소리를 들었던 장소는 이 안쪽이야","Haha, ich habe das Gehämmere hier drin gehört."
-4124,9307,,"Spero che tu lo senta e che venga maledetto anche tu! Ahahah!","你也去聽到那詛咒的槌聲被詛咒吧！
+4124,9307,,Spero che tu lo senta e che venga maledetto anche tu! Ahahah!,"你也去聽到那詛咒的槌聲被詛咒吧！
 啊哈、啊哈哈哈哈！！",,"너도 그 저주의 망치 소리를 듣고
 저주 받으렴. 아핫, 아하하하하!","Ich hoffe, du hörst es und wirst auch verflucht!
 Hahaha!"
@@ -1353,15 +1356,16 @@ dritto davanti.","你問我有沒有看到奇怪的黑貓？
 啊、之前牠有從我面前走過去喔。",,"이상한 검은 고양이를 보지 못했냐고?
 아, 그러고 보니 요전에 앞을 가로질러 갔었어","Eine seltsame schwarze Katze? Ja, die lief direkt
 vor mir her."
-4211,9308,,"Poi, quando ho provato a camminare, sono inciampato e
-sono caduto.","之後，我想往前走的時候，
+4211,9308,,"Poi, quando ho provato a camminare,
+sono inciampato e sono caduto.","之後，我想往前走的時候，
 不曉得為什麼腳被絆倒，還摔了個狗吃屎。",,"그리고 걸어가려고 했더니
 왜인지 발이 걸려 엄청 심하게 넘어져버렸어","Als ich dann gehen wollte, bin ich gestolpert und
 gefallen."
 4212,9308,,"Sono certo che fosse uno spirito
 korobashi!",那一定是妖怪「滾怪」的一種！,,그건 분명 요괴「넘어뜨리기」의 한 종류인 거야!,"Ich bin mir sicher, dass es ein Korobashi-Geist
 war!"
-4213,9308,,"""Korobashi"" è un termine usato in Giappone per indicare gli spiriti che
+4213,9308,,"""Korobashi"" è un termine usato in
+Giappone per indicare gli spiriti che
 fanno cadere le persone.","是日本各地都知曉的，
 會讓人類跌倒的一種妖怪的總稱！",,일본 각지에 전해지는 사람을 넘어뜨리는 요괴를 그렇게 불러!,"„Korobashi“ nennt man in Japan Geister, die Leute
 zu Fall bringen."
@@ -1437,7 +1441,7 @@ Forse era commosso fino alle lacrime per i pesci?","但是，之前看過有人�
 감동적인 전시라도 하고 있었던 걸까?","Aber ich habe jemanden gesehen, der vor einem
 Becken geweint hat. Vielleicht haben die Fische
 ihn zu Tränen gerührt?"
-4412,9312,,"Vuoi sapere se ho visto qualcuno piangere nell'acquario?",有沒有看到在水族館裡哭的人？,,수족관에서 울고 있던 사람을 보지 못했냐고?,"Du willst wissen, ob ich gesehen habe, wie jemand
+4412,9312,,Vuoi sapere se ho visto qualcuno piangere nell'acquario?,有沒有看到在水族館裡哭的人？,,수족관에서 울고 있던 사람을 보지 못했냐고?,"Du willst wissen, ob ich gesehen habe, wie jemand
 im Aquarium geweint hat?"
 4413,9312,,"Beh, di certo non ho pianto! 
 È impossibile che un annuncio faccia piangere
@@ -1574,11 +1578,11 @@ mi fai divertire? Che ne dici?","就當作是代替小露咪，
 이 누나랑 같이 놀지 않을래?
 응? 응? 좋지~?","Warum vergisst du Rumi nicht und vergnügst dich
 lieber mit mir? Was sagst du?"
-4715,7046,,"Rumi? Mai sentito parlare di lei. Scomparsa? Davvero?","露咪？　那種傢伙我不知道啦。
+4715,7046,,Rumi? Mai sentito parlare di lei. Scomparsa? Davvero?,"露咪？　那種傢伙我不知道啦。
 失蹤了？　哈、真的假的？",,"루미? 몰라 그런 녀석.
 행방불명? 하, 진짜?","Rumi? Noch nie von ihr gehört. Verschwunden?
 Wirklich?"
-4716,7046,,"Sei sicuro che non si sia appena disconnessa da EDEN?","應該是登出了EDEN後，
+4716,7046,,Sei sicuro che non si sia appena disconnessa da EDEN?,"應該是登出了EDEN後，
 在哪裡過得很開心吧？",,"EDEN에서 로그아웃하고
 어딘가에서 재밌게 잘 지내는거 아냐?","Bist du sicher, dass sie sich nicht einfach aus
 EDEN ausgeloggt hat?"
@@ -1618,7 +1622,8 @@ per salire sul tetto.)","（好像有很多生活在新都廳的數碼寶貝，
  엘리베이터를 타고 옥상을 향해 가보자)","(Die Digimon, die in die Zentralverwaltung
 eingezogen sind, sind noch da. Ich nehme den
 Lift bis zum Dach.)"
-4901,2020,,"(I Digimon che si sono stabiliti nell'Ufficio Metropolitano sono ancora lì.
+4901,2020,,"(I Digimon che si sono stabiliti
+nell'Ufficio Metropolitano sono ancora lì.
 Prenderò l'ascensore per salire sul tetto.)","（好像有很多生活在新都廳的數碼寶貝，
 　搭乘電梯上去頂樓看看吧）",,"(신 도청에 정착한 디지몬은 아직도 있다고 한다.
  엘리베이터를 타고 옥상을 향해 가보자)","(Die Digimon, die in die Zentralverwaltung
