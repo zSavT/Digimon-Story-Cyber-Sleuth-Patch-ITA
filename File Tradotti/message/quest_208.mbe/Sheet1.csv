@@ -21,8 +21,9 @@ hast."
 davvero qui...",不只這樣，我明明在這裡，卻沒有……實感。,,"뿐만 아니라 여기에 있는데도, 실감이… 나지 않아","Ich spüre nichts ... noch nicht mal, dass ich ...
 wirklich hier bin ..."
 201,3006,,Questo caso arriva dal Vecchio Mizushima.,委託是來自水嶋老人的「尋貓」。,,의뢰는 미즈시마 할아버지로부터의「고양이 찾기」다,Dieser Fall kommt von dem alten Mizushima.
-202,3006,,"Potresti ricordarlo come colui che stava dietro quelle quattro leggende
-urbane che hai indagato di recente con i membri del club dell'occulto.","這位老先生就是超自然研究社之前解開的
+202,3006,,"Dovresti ricordarlo: è proprio l'anziano che si celava dietro
+le quattro leggende metropolitane di Nakano su cui hai indagato di
+recente con i ragazzi del Club dell'Occulto.","這位老先生就是超自然研究社之前解開的
 中野都市傳說的真相，你還記得嗎？",,"이 분은 전에 오컬트 연구부와 해명한 나카노의 도시전설 사건의
 정체였던 인물인데, 기억하고 있나?","Vielleicht erinnerst du dich an ihn. Er steckte
 hinter den Großstadtlegenden, die du vor Kurzem
@@ -138,8 +139,8 @@ lì dentro.","震動雖然停了，但濃度依舊強烈，
 마치 큰 소용돌이나… 커다란 폭풍 같군","Die Vibrationen haben erst mal aufgehört, aber
 die digitalen Wellen sind immer noch so intensiv.
 Irgendwas Großes bahnt sich da an."
-326,3006,,"Come sospettavo prima, provengono da quel vecchio computer a valvole
-dentro il muro.",原因是真空管式電腦。,,원인은 진공관식 컴퓨터다,"Wie ich vermutet hatte, kommen sie aus dem alten
+326,3006,,"Come sospettavo prima, provengono da quel vecchio
+computer a valvole dentro il muro.",原因是真空管式電腦。,,원인은 진공관식 컴퓨터다,"Wie ich vermutet hatte, kommen sie aus dem alten
 Röhrencomputer in der Wand."
 327,3006,,"Le Onde Digitali sgorgano proprio da lì dalle vecchie linee intranet
 a cui quel computer è collegato.","以電腦為中心，在舊線路的內部網路中，
@@ -551,11 +552,12 @@ io vivevo in questo edificio, lontano dalla mia famiglia.","喔……其實，�
 Raum mit dem Röhrencomputer noch gab, wohnte
 ich in diesem Gebäude, nicht bei meiner Familie."
 1709,4133,,Quella stanza dei computer era dove lavoravo prima.,因為我的工作地點就是電腦室。,,컴퓨터 룸은 내 직장이었지,In dem Computerraum habe ich gearbeitet.
-1710,4133,,L'unica famiglia che ho avuto con me in tutto quel tempo è stata Miko qui.,唯一一個帶來這裡的家人，就是咪子。,,"유일하게 데려온 가족이, 이 미코란다","Miko war die ganze Zeit über die einzige
+1710,4133,,"L'unica famiglia che ho avuto con me
+in tutto quel tempo è stata Miko qui.",唯一一個帶來這裡的家人，就是咪子。,,"유일하게 데려온 가족이, 이 미코란다","Miko war die ganze Zeit über die einzige
 Familie, die ich hatte."
-1711,4133,,"Ho parlato con Miko di tutto ciò che c'era... 
-I miei ricordi della mia famiglia, Fuyume Yuki...
-Qualsiasi cosa per aiutare a tenere a bada la mia solitudine lì dentro.","我對咪子說了很多與家人的回憶，
+1711,4133,,"Ho parlato con Miko di tutto ciò che c'era... I miei ricordi
+della mia famiglia, Fuyume Yuki... Qualsiasi cosa per aiutare a tenere
+a bada la mia solitudine lì dentro.","我對咪子說了很多與家人的回憶，
 以及喜歡偶像雪冬女的熱情，
 藉此消除寂寞。",,"미코를 상대로 가족과의 추억이나
 마음에 드는 아이돌 유우키 후유메를 향한 뜨거운 마음을 이야기하며
@@ -601,7 +603,8 @@ Ora possiamo tornare a vivere di nuovo insieme...","謝謝……謝謝你……
 Jetzt können wir wieder zusammenleben!"
 1720,4133,,"Grazie. Non dimenticherò mai, mai più questo giorno!",真的，很謝謝你……！,,"정말, 고맙다…！","Danke. Diesen Tag werde ich nie im Leben
 vergessen!"
-1801,3006,,"Capisco... Bel lavoro. Posso solo immaginare quanto sia stato difficile,
+1801,3006,,"Capisco... Bel lavoro. Posso solo
+immaginare quanto sia stato difficile,
 ma hai davvero fatto un buon lavoro.","這樣啊——
 辛苦你了。",,"그렇군―
 수고했다","Ich verstehe ... Gute Arbeit. Ich kann mir nur
@@ -624,9 +627,9 @@ Computer verschmolzen und ein Digimon geworden."
 1804,3006,,"Quel vecchio gatto ne ha passate tante, non credi,
 [p]?",那就是我們所知的“皮特＂。,,"그것이 우리가 아는 ""피트""다","Der alte Kater hat ganz schön was erlebt, meinst
 du nicht, [p]?"
-1805,3006,,"Non possiamo dire con certezza cosa comportasse l'effettivo processo di
-assimilazione, ma a questo punto, sappiamo che è meglio non dubitare che sia
-successo.","雖然不知道它被同化的詳細過程，
+1805,3006,,"Non possiamo dire con certezza cosa comportasse l'effettivo processo
+di assimilazione, ma a questo punto, sappiamo che è meglio non
+dubitare che sia successo.","雖然不知道它被同化的詳細過程，
 但我們可以知道這種事是有可能發生的。",,"동화한 자세한 프로세스는 불명이지만
 우리는 그런 현상이 일어날 수 있다는 걸 알고 있다","Wir wissen nicht mit Sicherheit, wie die
 Verschmelzung passiert ist, aber es gibt keine
@@ -651,8 +654,8 @@ Geschichte stört mich immer noch etwas."
 sagte: „Jetzt können wir wieder zusammenleben!“
 Richtig?"
 1811,3006,,...Cosa pensi volesse dire con questo?,你覺得……那是什麼意思呢？,,그건… 어떤 의미라고 생각하나?,... Was er damit wohl gemeint hat?
-1812,3006,,"Non solo, ma nel caso che hai risolto prima dove era lui quello dietro
-alle leggende metropolitane...
+1812,3006,,"Non solo, ma nel caso che hai risolto prima dove
+era lui quello dietro alle leggende metropolitane...
 Come faceva a continuare a entrare nell'edificio?","而且，在我們知道水嶋老人是都市傳說真相的事件中——
 他是怎麼入侵至館內的？",,"게다가 미즈시마 할아버지가 도시전설의 정체라는 걸 알게 된 사건―…
 그는 어떻게 관내에 침입했던 거지?","Nicht nur das. Auch bei dem Fall, den ihr
@@ -683,13 +686,14 @@ uns.“"
 1821,3006,,"Ah, è comprensibile... Allora probabilmente è meglio che lasciamo che
 i cani che dormono continuino a dormire.",……是啊……對，那才是正確解答吧。,,"…그렇군… 그래, 그게 정답이겠지","Ach, das ist verständlich ... Dann ist es wohl am
 besten, schlafende Hunde nicht zu wecken."
-1822,3006,,"Altrimenti, potremmo far sapere ai ragazzi del club dell'occulto.
-Scommetto che si divertirebbero un mondo a dargli la caccia.","不過，若是讓超自然研究社的人聽到，
+1822,3006,,"Anche se, a dirla tutta, se lo venissero
+a sapere quelli del Club dell'Occulto
+farebbero i salti di gioia.","不過，若是讓超自然研究社的人聽到，
 應該會欣喜若狂吧。",,"하지만 오컬트 연구부 녀석들이 알게 되면
 분명 기뻐서 춤을 추겠지","Oder wir könnten den Kids vom Okkultismus-Club
 Bescheid sagen. Das wäre ein gefundenes
 Fressen für sie."
-1823,3006,,"Voglio dire, si sono trovati faccia a faccia con un vero...",畢竟，他們看到的是真正的——,,뭐니뭐니 해도 그들이 직접 본 건 진짜로―,"Ich meine, sie haben persönlich einen echten–"
+1823,3006,,"Dopotutto, si sono trovati faccia a faccia con un autentico...",畢竟，他們看到的是真正的——,,뭐니뭐니 해도 그들이 직접 본 건 진짜로―,"Ich meine, sie haben persönlich einen echten–"
 1824,3006,,"...Sai cosa, no, teniamolo per noi.",……呵，不，還是算了。,,"……훗, 아니, 그만두지",... Weißt du was? Behalten wir es für uns.
 1901,3006,,Non tutti i misteri in questo mondo devono essere risolti.,這世界上有很多謎是不需要解開的。,,해명할 필요가 없는 수수께끼도 이 세상에는 잔뜩 있다,"Nicht alle Rätsel in dieser Welt müssen gelöst
 werden."

@@ -1,22 +1,22 @@
-﻿ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
+ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
 100,4856,,Perché nessuno mi presta attenzione...?,為什麼，大家都沒注意到我呢……,,모두 어째서 눈치채주지 않는 거야…,Warum werde ich nicht beachtet ...?
 101,4856,,Non si accorgono mai di me... nessuno...,都沒有任何人注意到我……,,아무도 날 눈치채주지 않아……,Niemand bemerkt mich ... nicht eine Person ...
-102,4856,,"""Ma guai a te che troverai lì l'entrata...""",……找到的話就不快樂——,,…발견해 버리면 언해피―,"„Aber wehe dem, der den Eingang findet ...“"
-103,4857,,"""Perché se ci riuscirai, incontrerai solo la disperazione.""
-Kyahahahaha!","……到達的話就不幸運——
+102,4856,,"""Se la trovi, nessuna felicità...""",……找到的話就不快樂——,,…발견해 버리면 언해피―,"„Aber wehe dem, der den Eingang findet ...“"
+103,4857,,"""Se ci arrivi, nessuna fortuna...""
+Kyahahahahaha!","……到達的話就不幸運——
 哈哈……啊哈哈哈哈哈——！",,"…도달하면 언럭키
 하하… 꺄하하하하하―――!","„Wer ihn passiert, dessen Hoffnung schwindet.“
 Muhahahaha!"
 104,2001,,...?,……？？,,…??,...?
-151,2001,,"(Vediamo se c'è un nuovo caso da investigare...)",（去事務所接個委託好了……）,,(사무소에서 의뢰라도 받을까…),"(Ich sollte mal schauen, ob es einen neuen Fall
+151,2001,,(Vediamo se c'è un nuovo caso da investigare...),（去事務所接個委託好了……）,,(사무소에서 의뢰라도 받을까…),"(Ich sollte mal schauen, ob es einen neuen Fall
 gibt, den ich bearbeiten kann ...)"
-201,3006,,"Quindi tu sei il presidente del Club di Ricerca Occulto Inoden,
-corretto?",妳是井之電超自然研究社的社長嗎？,,"이노덴 오컬트 연구부의 부장님, 인가","Du bist also die Präsidentin des
+201,3006,,"Quindi tu saresti la presidente del Club dell'Occulto dell'Inoden,
+giusto?",妳是井之電超自然研究社的社長嗎？,,"이노덴 오컬트 연구부의 부장님, 인가","Du bist also die Präsidentin des
 Inoden-Okkultismus-Clubs, ja?"
-202,4858,,"Sì, e il mio nome è Mei Kokusho.",是的，我是社長國生芽衣。,,네. 저는 부장인 코쿠쇼 메이라고 합니다,"Ja, und ich heiße Mei Kokusho."
+202,4858,,"Esatto, sono la presidente Mei Kokusho.",是的，我是社長國生芽衣。,,네. 저는 부장인 코쿠쇼 메이라고 합니다,"Ja, und ich heiße Mei Kokusho."
 203,3006,,"Bene, cosa ci hai portato oggi?",那麼，妳的委託是？,,"그래서, 의뢰라는 건?","Gut, was hast du denn heute für uns?"
-204,4858,,"Beh, mi chiedevo se potessi aiutare a condurre un esperimento per testare
-una leggenda urbana e vedere se è vera o meno.","那個，我想請您幫忙進行
+204,4858,,"Beh, vorrei che ci aiutaste a condurre un esperimento per verificare
+una leggenda metropolitana e vedere se è reale o meno.","那個，我想請您幫忙進行
 關於某個都市傳說的驗證實驗。",,"그게, 어떤 도시전설에 관한
 실증 실험을 도와주셨으면 해요","Ich möchte, dass ihr für mich ein Experiment
 durchführt, um eine Großstadtlegende auf ihren
@@ -34,10 +34,10 @@ ognuna delle quali va in una direzione separata.","在涉谷人車分離十字�
 有五條通往五個方向的斜坡……",,"시부야의 스크램블 교차로는
 다섯 방향에 다섯 개의 고갯길이 있는데…","In der Nähe der Shibuya-Kreuzung befinden
 sich fünf Hügel, jeder in einer anderen Richtung."
-209,4858,,"Hai diviso cinque persone diverse,
-una su ogni strada lungo quelle colline.",在那五條路上分別站一個人，,,그 다섯 길에 각각 한 명씩 흩어져서,"Wenn man fünf Personen auf den fünf Straßen in
+209,4858,,"Si posiziona una persona diversa su ognuna
+delle cinque strade lungo quelle salite.",在那五條路上分別站一個人，,,그 다섯 길에 각각 한 명씩 흩어져서,"Wenn man fünf Personen auf den fünf Straßen in
 Richtung dieser Hügel schickt ..."
-210,4858,,"Poi, li fai andare tutti verso l'incrocio di Shibuya
+210,4858,,"Poi, avanzano tutte verso il centro dell'incrocio
 mentre cantano la ""Canzone di Hirasaka"".","同時邊唱著「比良坂之歌」，
 邊走向人車分離十字路口。",,"「히라사카 노래」를 부르며
 스크램블 교차로의 중심을 향해 걸어가는 거예요","Und sie auf ihrem Weg zur Kreuzung das
@@ -48,11 +48,11 @@ nello stesso momento esatto in cui finiscono di cantare...","如果在唱完歌�
 다섯 명이 교차로의 중심에 도착하면―","Und wenn sie dann die Mitte der Kreuzung
 erreichen, während sie gleichzeitig das Lied zu
 Ende singen ..."
-212,3006,,Cosa...? I loro desideri si avverano o qualcosa del genere?,……就能實現願望嗎？,,…소원이라도 이뤄지는 건가?,"Was ...? Werden dann ihre Wünsche wahr, oder was?"
-213,4858,,"No... una persona morta viene riportata in vita.",不，聽說死者會復活。,,"아뇨, 죽은 자가 되살아난다고 해요","Nein ... Dann wird eine tote Person wieder zum
+212,3006,,...E a quel punto si avvera un desiderio o qualcosa del genere?,……就能實現願望嗎？,,…소원이라도 이뤄지는 건가?,"Was ...? Werden dann ihre Wünsche wahr, oder was?"
+213,4858,,No... si dice che un defunto torni in vita.,不，聽說死者會復活。,,"아뇨, 죽은 자가 되살아난다고 해요","Nein ... Dann wird eine tote Person wieder zum
 Leben erweckt."
-214,3006,,"Mh, non posso dire di averla mai sentita.
-Mi ricorda alcune vecchie storie shintoiste.","嗯……我還是第一次聽到這個都市傳說呢。
+214,3006,,"Mmh... non ne avevo mai sentito parlare.
+Hirasaka... che derivi dallo ""Yomotsu Hirasaka""?","嗯……我還是第一次聽到這個都市傳說呢。
 比良坂，是模仿“黃泉比良坂＂之類的嗎？",,"흐음… 처음 듣는 도시전설이군
 히라사카라는 건 ""요모츠히라사카""에서 따온 건가?","Hm, die Legende kenne ich noch nicht.
 Sie erinnert mich an alte Shinto-Geschichten."
@@ -66,64 +66,64 @@ bis zur Mitte schaffen und dabei singen ..."
 216,3006,,Non sarà così semplice da gestire.,"的確，
 要實際實行「涉谷比良坂」的話似乎很困難。",,"확실히, 실제로 이「시부야 히라사카」를 실행하는 건
 어려워 보이는군","Es wird gar nicht so einfach, das zu schaffen."
-217,4858,,"Infatti. Abbiamo provato diverse volte al club,
-ma o ci scontriamo con le persone o veniamo fermati da un semaforo.","是的，我們已經嘗試過好幾次了，
+217,4858,,"Infatti. Abbiamo provato diverse volte noi del club,
+ma o ci scontriamo con la folla o veniamo fermati dai semafori.","是的，我們已經嘗試過好幾次了，
 不是撞到人，就是因為等紅綠燈而無法順利到達……",,"네… 저희들끼리 몇 번인가 시도해 봤지만
 다른 사람이랑 부딪히거나 신호에 걸려서 잘 안 돼요…","Genau. Wir haben es mit unserem Club mehrere Male
 versucht, aber entweder halten uns Leute
 oder Ampeln auf."
-218,4858,,"Ma abbiamo sentito delle voci sulla tua organizzazione,
-quindi ho pensato di vedere se potevi aiutarci in qualche modo.","所以，我才會想來拜託看看，
+218,4858,,"Però avevamo sentito delle voci sulla vostra agenzia,
+quindi ho pensato di vedere se potevate aiutarci in qualche modo.","所以，我才會想來拜託看看，
 我從以前就有聽說您這邊的傳聞……",,"그래서 전부터 소문으로 유명했던 여기에
 부탁해보자고 생각했습니다","Aber wir haben Gerüchte über eure Agentur
 gehört, also wollte ich fragen, ob ihr uns
 helfen könnt."
 219,3006,,Voci? Tipo quali?,傳聞？,,소문?,Gerüchte? Was erzählt man sich denn so?
-220,4858,,"Oh, tipo come, c'è, uh... un'agenzia investigativa a Nakano che si
-occupa di occulto che ha, uh,
-legami soprannaturali con un altro mondo...","啊……不是，那個……
+220,4858,,"Oh, tipo come, c'è, uh... un'agenzia investigativa
+a Nakano che si occupa di occulto e che ha, uh,
+legami soprannaturali con l'aldilà...","啊……不是，那個……
 就是中野的超自然偵探事務所……跟異界有聯繫的傳聞……",,"앗… 아뇨, 그게…
 나카노의 오컬트 탐정사무소는… 이계와 연결되어 있다는 소문이…","Zum Beispiel, dass äh ... ein Detektivbüro in
 Nakano sich um okkulte Fälle kümmert und, äh,
 Verbindungen zu einer anderen Welt hat."
 221,3006,,...,……,,………,...
-222,4858,,"E se ci vai alle 2:22 del mattino, appare una porta per quell'altro
-mondo... Cose del genere.","據說這間事務所位在這個世界與那個世界的夾縫中，
+222,4858,,"E che si trova in una fenditura tra questo e l'altro mondo, e la porta
+appare solo ogni mercoledì notte alle 2:22... Cose del genere.","據說這間事務所位在這個世界與那個世界的夾縫中，
 那扇門只在每週的星期三深夜2點22分會出現……之類的。",,"이 세계와 저쪽 세계의 틈에 위치하고 있어서
 매주 수요일 새벽 2시 22분에만 그 문이 나타난다… 같은","Und wenn man um 2:22 Uhr dort hingeht, erscheint
 eine Tür zu dieser anderen Welt ...
 Solche Sachen."
 223,2001,,...,……,,………,...
 224,3006,,"Accidenti, so che lavoriamo nell'ombra qui e tutto,
-ma pensare che siamo così famigerati da avere persone che
+ma pensare che siamo così famosi da avere persone che
 inventano leggende metropolitane su di noi... Wow!","唉……畢竟我們的工作比較隱密，被誤會也沒辦法。
 不過那樣的話，這個事務所本身就像是都市傳說了嘛。",,"이런이런… 뒤에서 일하는 직업인 만큼 어쩔 수 없나
 그럼 마치 이 사무소가 도시전설 그 자체로군","Oh, ich weiß ja, dass wir im Verborgenen arbeiten,
 aber dass wir so berühmt sind, dass wir unsere
 eigenen Großstadtlegenden haben ... Wow."
-225,4858,,"N-Non fraintendermi! Ma, comunque, se potessimo provare che quella
-leggenda è vera, sarebbe...
-Hehe, sarebbe una vera manna per il mio club!","不、不好意思！但是，如果連那個傳聞也能一起證實的話，
+225,4858,,"N-Non fraintendermi! Ma, se riuscissimo a
+dimostrare anche quella leggenda, sarebbe...
+Hehe, sarebbe un gran colpo per il nostro Club dell'Occulto!","不、不好意思！但是，如果連那個傳聞也能一起證實的話，
 也會成為超自然研究社的成果之一～沒有啦……嘿嘿……",,"죄, 죄송합니다…! 하지만 덤으로 그 소문까지 실증하면
 오컬트 연구부의 성과도 되겠지~ 하고 생각해서… 에헤헤…","V-Versteh das nicht falsch! Aber wenn wir beweisen
 können, dass die Legende wahr ist, wäre das ...
 Hihi, es wäre echt toll für meinen Club!"
-226,4858,,"Che ne pensi? So che il tuo lavoro principale
-qui è dare la caccia a fantasmi e spiriti, ma lo farai per noi?","順帶一提，聽說杏子小姐真正的職業是「妖怪獵人」，
+226,4858,,"A proposito... gira voce che la vera professione della detective
+Kyoko sia la ""cacciatrice di yokai"", è vero?","順帶一提，聽說杏子小姐真正的職業是「妖怪獵人」，
 請問這是真的嗎？",,"덧붙여 쿄코 씨의 진짜 직업은
 「요괴 헌터」라는 이야기가 있는데 정말인가요?","Was meinst du? Ich weiß, ihr jagt hier
 hauptsächlich Geister und so, aber würdet ihr
 das für uns machen?"
-227,3006,,"Aspetta, cosa? Dare la caccia ai fantasmi e...
-Cosa spinge la gente a pensare una cosa del genere?
+227,3006,,"Aspetta, cosa? Cacciatrice di yokai...?
+Ma da dove salta fuori una voce del genere?
 Ora mi hai proprio incuriosito...","這種事到底是從哪裡傳開的？
 我反而很在意這點呢。",,"대체 어디서 그런 이야기가 나온 거야…?
 반대로 궁금해지는군","Moment, wie bitte? Geister jagen ...? Wie kommen
 die Leute bloß darauf? Langsam werde ich echt
 neugierig ..."
-228,4858,,"Beh, la mia assistente... non ne sa assolutamente
-nulla... Sì... Non so nemmeno dove l'ho sentito.
-Ahah, che sciocco...",至於助手——到現在是還沒有聽到相關的傳聞啦……,,조수님―에 대한 소문은 아직까진 듣지 못했지만…,"Also, mein Assistent ... weiß nichts darüber ...
+228,4858,,"Beh, riguardo all'[p]... non si dice ancora
+nulla in giro... Sì... Non so nemmeno dove l'ho sentito.
+Ahah, che sbadataggine...",至於助手——到現在是還沒有聽到相關的傳聞啦……,,조수님―에 대한 소문은 아직까진 듣지 못했지만…,"Also, mein Assistent ... weiß nichts darüber ...
 Ja ... weiß nicht, wo ich das gehört habe.
 Haha, ich Dummerchen ..."
 229,3006,,"Non preoccuparti. Prenderemo in mano il tuo caso.
@@ -140,133 +140,137 @@ quindi li aspetterò fuori.","好、好的，謝謝您！
 다른 부원들도 와 있으니까 밖에서 기다리겠습니다","Ach, vielen, vielen Dank!
 Es kommen noch andere Mitglieder, also warte
 ich einfach draußen auf sie."
-231,3006,,"Sembra che abbiamo un altro strano caso tra le mani...",又來了一件奇怪的委託……,,또 이상한 의뢰가 들어왔군…,"Da haben wir wohl wieder einen seltsamen Fall
+231,3006,,Sembra che abbiamo un altro strano caso tra le mani...,又來了一件奇怪的委託……,,또 이상한 의뢰가 들어왔군…,"Da haben wir wohl wieder einen seltsamen Fall
 erwischt ..."
-232,3006,,"Ma un caso è un caso.
-Cosa hai intenzione di fare? 
-Inizierò a prepararmi per il nostro esperimento di Shibuya Hirasaka.","總之，委託就是委託。
+232,3006,,"Comunque, un caso è un caso.
+Io inizierò i preparativi per il nostro
+esperimento su ""Shibuya Hirasaka"".","總之，委託就是委託。
 我去處理實行「涉谷比良坂」的準備工作。",,"어쨌든 의뢰는 의뢰다
 나는「시부야 히라사카」실행을 위한 준비에 들어가겠다","Aber ein Fall ist ein Fall. Was wirst du tun?
 Ich werde mich auf unser Experiment
 „Shibuya-Hirasaka“ vorbereiten."
-233,3006,,"Perché non vai a parlare con gli altri membri del club e impari
-di più sulla leggenda?",你去問問社員們有關都市傳說的事。,,너는 각 부원들에게 그 도시전설에 대해 물어보도록,"Wie wäre es, wenn du mit den anderen Mitgliedern
+233,3006,,"Tu intanto vai a parlare con gli altri membri del club per saperne
+di più su questa leggenda.",你去問問社員們有關都市傳說的事。,,너는 각 부원들에게 그 도시전설에 대해 물어보도록,"Wie wäre es, wenn du mit den anderen Mitgliedern
 des Clubs redest und mehr über die Legende in
 Erfahrung bringst?"
-251,3006,,"Dovrebbero essere tutti all'interno dell'edificio qui.
-Parla con loro e vedi cosa riesci a scoprire.","委託本案的超自然研究社社員都在這棟建築物裡吧。
+251,3006,,"I membri del Club dell'Occulto dovrebbero
+essere tutti qui nell'edificio.
+Perché non vai a farti raccontare qualcosa su ""Shibuya Hirasaka""?","委託本案的超自然研究社社員都在這棟建築物裡吧。
 你去問問關於「涉谷比良坂」的事如何？",,"의뢰인인 오컬트 부원들은 이 건물 내에 있다고 했지
 「시부야 히라사카」이야기라도 물어보면 어때?","Sie sollten alle hier im Gebäude sein.
 Rede mit ihnen und finde so viel wie
 möglich heraus."
-301,4858,,"Hai mai sentito le parole della Canzone di Hirasaka? 
-Fanno così...",你有聽過比良坂之歌嗎？,,히라사카 노래를 들어본 적이 없나요?,"Kennst du den Text des Hirasaka-Lieds?
+301,4858,,"Hai mai sentito la Canzone di Hirasaka? 
+Fa così...",你有聽過比良坂之歌嗎？,,히라사카 노래를 들어본 적이 없나요?,"Kennst du den Text des Hirasaka-Lieds?
 Es geht so ..."
-302,4858,,"""Sentirne parlare è una maledizione"".
-""Vederlo è anche peggio""","只聽見此歌　就會受詛咒
+302,4858,,"""Basta ascoltarla per cadere in maledizione""
+""Se la vedi, verrai portato via""","只聽見此歌　就會受詛咒
 不小心看見　就會被擄走",,"듣기만 해도 저주받지
 봐 버린다면 끌려간다네","„Verflucht, wenn man es hört“
 „Schlimmer, wenn man es sieht“"
-303,4858,,"""Le profondità diShibuya"".
-""È dove tutti dobbiamo attraversare""","涉谷的最底處　在何處
+303,4858,,"""Nel fondo più profondo di Shibuya""
+""Proprio al centro del pentagramma""","涉谷的最底處　在何處
 在五角形的正中央",,"시부야의 밑바닥 어디에 있을까
 오각형의 한가운데에","„Tief in Shibuya“
 „Müssen wir alle hinübergehen“"
-304,4858,,"""Quando ti senti solo, devi scendere"".
-""Quando ti senti giù, devi scendere""","如果感到寂寞　就走下坡道
+304,4858,,"""Se ti senti solo, scendi lungo il pendio""
+""Se ti senti triste, scendi lungo il pendio""","如果感到寂寞　就走下坡道
 如果覺得厭煩　就走下坡道",,"외로워지면 고개를 내려와
 힘들어지면 고개를 내려와","„Bist du allein, musst du tief hinab“
 „Bist du traurig, musst du tief hinab“"
-305,4858,,"""In fondo giace un mondo segreto e nascosto""
-""Ma guai a te che ne trovi l'entrata""","在坡道的更下方　在那前方
+305,4858,,"""Laggiù in fondo, ancor più avanti""
+""C'è l'entrata per un mondo segreto""","在坡道的更下方　在那前方
 是秘密世界的出入口",,"아주 깊은 곳 그 안쪽에
 비밀 세계의 출입구","„Ganz unten wartet eine geheime Welt“
 „Aber wehe dem, der den Eingang findet“"
-306,4858,,"""Perché, se ci riuscirai, incontrerai solo la disperazione""
-""Incontrerai solo la disperazione...""","找到的話就不快樂
+306,4858,,"""Se la trovi, nessuna felicità""
+""Se ci arrivi, nessuna fortuna...""","找到的話就不快樂
 到達的話就不幸運",,"발견해버리면 언해피
 도달하면 언럭키","„Wer ihn passiert, dessen Hoffnung schwindet.“
 „Dessen Hoffnung schwindet ...“"
-307,4858,,"Devi cantarla mentre ti dirigi verso il centro dell'incrocio di Shibuya,
-perché la leggenda di Shibuya Hirasaka funzioni.","邊唱著這首歌，邊往十字路口的中心走去，
+307,4858,,"Bisogna cantarla mentre ci si dirige
+verso il centro dell'incrocio di Shibuya
+affinché il rito di Shibuya Hirasaka funzioni.","邊唱著這首歌，邊往十字路口的中心走去，
 就是「涉谷比良坂」。",,"이걸 부르면서 교차로의 중심까지 걸어가는 게
 「시부야 히라사카」입니다","Das musst du singen, während du zur Mitte der
 Shibuya-Kreuzung gehst, damit die Legende
 „Shibuya-Hirasaka“ wahr wird."
-311,4123,,"Shibuya è piena zeppa di colline, non importa dove guardi.
-Ci sono Konnosaka, Masaka, Organzaka...","涉谷到處都是坡道啊。
+311,4123,,"A Shibuya è pieno zeppo di salite ovunque guardi.
+Ci sono Dogenzaka, Miyamasuzaka, Spain-zaka...","涉谷到處都是坡道啊。
 金王坂、間坂、管風琴坂……",,"시부야는 여기저기 고개 투성이에요
 콘노자카, 마사카, 오르간자카…","Egal, wo man in Shibuya hinschaut, überall sind
 Hügel. Da wären Konnosaka, Masaka,
 Organ-zaka ..."
-312,4123,,"A dire il vero, si potrebbe dire che Shibuya è come la valle per
-tutta Tokyo, e non intendo solo geograficamente.",涉谷的街道本身有如其名，是東京的「谷底」……,,시부야 거리 자체가 이름대로 도쿄의「골짜기」인 모양이라…,"Man könnte fast sagen, dass Shibuya das Tal von
+312,4123,,"A dire il vero, la città di Shibuya è proprio come dice il suo nome:
+una ""valle"" nel cuore di Tokyo, e non solo geograficamente.",涉谷的街道本身有如其名，是東京的「谷底」……,,시부야 거리 자체가 이름대로 도쿄의「골짜기」인 모양이라…,"Man könnte fast sagen, dass Shibuya das Tal von
 ganz Tokio ist. Und das meine ich nicht
 nur geografisch."
-313,4123,,"C'è così tanta informazione ed energia che vi confluisce da ogni lato.
-Mei pensa che sia per questo che Shibuya è così popolare, prima di tutto.","我們社長推測，因為情報資訊及能量從各方位傳進涉谷，
+313,4123,,"Informazioni ed energie vi confluiscono da ogni direzione.
+La nostra presidente pensa sia per questo
+che è diventata il centro delle mode.","我們社長推測，因為情報資訊及能量從各方位傳進涉谷，
 所以才會變成流行中心。",,"모든 방향에서 정보나 에너지가 흘러들어오니까
 유행의 중심이 된 게 아닐가 하고 부장이 추측했었죠","Von allen Seiten fließen so viele Informationen
 und Energien nach Shibuya. Mei glaubt, dass
 Shibuya deshalb so beliebt ist."
-321,4124,,"Ci sono cinque specifiche salite che devi usare per Shibuya Hirasaka:
+321,4124,,"Ci sono cinque strade in salita specifiche per Shibuya Hirasaka:
 Dogenzaka, Bunkamura-dori,
-Koen-dori, Miyamasu-zaka e Meiji-dori.","實行「涉谷比良坂」的坡道有五條……
+Koen-dori, Miyamasuzaka e Meiji-dori.","實行「涉谷比良坂」的坡道有五條……
 道玄坂、文化村通、公園通、宮益坂、明治通。",,"「시부야 히라사카」를 위해 사용하는 고개는 다섯 개…
 도겐자카, 분카무라도리, 코엔도리, 미야마스자카, 메이지도리입니다","Die fünf Hügel in „Shibuya-Hirasaka“ sind:
 Dogenzaka, Bunkamura-dori, Koen-dori,
 Miyamasu-zaka und Meiji-dori."
-322,4124,,"Se li guardi su una mappa, formano persino un pentagramma...
+322,4124,,"Se le guardi su una mappa, formano persino un pentagramma...
 Aspetta, cosa intendi che non lo vedi?",從地圖上確認的話，這五條路看起來就像「五芒星」……咦？不像嗎？,,지도에서 확인하면「오망성」으로 보이죠… 어? 보이지 않는다고요?,"Wenn man sie auf einer Karte betrachtet, ergeben
 sie sogar ein Pentagramm ... Was, das kannst du
 nicht sehen?"
-331,4125,,"Hmm? Perché indosso questo vestito da cameriera?
-Perché devo tornare al lavoro non appena abbiamo finito qui.","咦？　為什麼只有我穿女僕裝？
+331,4125,,"Eh? Perché solo io indosso un vestito da cameriera?
+In realtà sono un membro fantasma~ Appena finisce
+questo esperimento devo correre al lavoro part-time.","咦？　為什麼只有我穿女僕裝？
 其實我是幽靈社員～做完這個實驗後我就要回去打工啦。",,"어? 왜 나만 메이드복이냐고?
 저 유령부원이에요~. 이거 끝나면 알바하러 가야 해","Hm? Warum ich dieses Maid-Kostüm trage? Weil ich
 wieder zur Arbeit muss, wenn wir hier fertig sind."
-332,4125,,"Sono venuto qui perché Mei aveva bisogno di un numero sufficiente di persone,
-ma non posso dire che sia super entusiasta della cosa.","是他們說今天無論如何都希望我來，所以我只是來湊人數的，
+332,4125,,"Oggi mi hanno pregata in ginocchio di venire per fare numero,
+ma a dire il vero non è che ne avessi tutta questa voglia~","是他們說今天無論如何都希望我來，所以我只是來湊人數的，
 說實在沒有很想參加～",,"오늘도 제발 부탁이라고 하길래 머릿수 맞추려고 온 것뿐
 그닥 하고 싶은 마음은 없어~","Ich bin hergekommen, weil Mei genug Leute
 brauchte, aber ehrlich gesagt, hält
 sich meine Begeisterung in Grenzen."
-333,4125,,"Voglio dire, c'è stata una ragazza vera che è morta facendo questo,
+333,4125,,"Voglio dire, c'è persino una ragazza che è morta facendolo,
 sai!",因為～有人死掉了喔～？,,그치만~ 죽어 버린 애도 있다구~?,"Ein Mädchen, das das ausprobiert hat, ist sogar
 gestorben!"
-334,4125,,"A quanto pare, stava facendo tutto quello che fai tu per
-Shibuya Hirasaka ed è stata investita da un camion proprio quando ha
-iniziato ad attraversare la strada...","聽說在實行「涉谷比良坂」，剛要走過十字路口時，
+334,4125,,"A quanto pare, mentre faceva il rito di ""Shibuya Hirasaka""
+ed è arrivata all'incrocio, è stata investita da un camion...","聽說在實行「涉谷比良坂」，剛要走過十字路口時，
 就被卡車輾過的樣子……",,"「시부야 히라사카」를 하면서 교차로를 건너기 시작했을 때
 트럭한테 치였다는 것 같아…","Sie hat sich an die Anweisungen für „Shibuya-
 Hirasaka“ gehalten und wurde von einem LKW
 überfahren, als sie über die Straße gehen wollte."
-335,4125,,"Voglio solo sbrigarmi e farla finita così posso andarmene subito!",真是的～我好想早點結束，趕快回家哦。,,정말― 빨리 끝내고 돌아가고 싶어,"Ich will es nur schnell hinter mich bringen, damit
+335,4125,,Uffa~ Vorrei solo sbrigarmi e finire in fretta per tornarmene a casa!,真是的～我好想早點結束，趕快回家哦。,,정말― 빨리 끝내고 돌아가고 싶어,"Ich will es nur schnell hinter mich bringen, damit
 ich abhauen kann!"
 401,2001,,"Shibuya, l'incrocio, un camion, e un incidente...",涉谷、人車分離十字路口、卡車、事故……,,"시부야, 스크램블 교차로, 트럭, 사고…","Shibuya, die Kreuzung, ein LKW und ein
 Unfall ..."
-402,4856,,"""Ma guai a te che troverai l'entrata lì...""",……找到的話就不快樂。,,…발견해 버리면 언해피―,"„Aber wehe dem, der den Eingang findet ...“"
-403,4856,,"""Se ce la fai...""",到達的話……,,도달하면…,"„Wer ihn passiert ..."""
-404,3006,,"Bene, ho preparato tutto.
-Raduna i membri del club e portali a Shibuya.","準備完成了。
+402,4856,,"""...Se la trovi, nessuna felicità...""",……找到的話就不快樂。,,…발견해 버리면 언해피―,"„Aber wehe dem, der den Eingang findet ...“"
+403,4856,,"""Se ci arrivi...""",到達的話……,,도달하면…,"„Wer ihn passiert ..."""
+404,3006,,"I preparativi sono completati.
+Raduna i membri del club e andate a Shibuya.","準備完成了。
 麻煩你集合社員們，前往涉谷。",,"준비가 끝났다
 부원들을 모아서 시부야로 향하도록","Also gut, ich habe alles vorbereitet. Rufen wir
 alle Mitglieder des Clubs zusammen und
 bringen sie nach Shibuya."
-405,3006,,"Darò ordini da qui. Nel frattempo, voglio che tu ti unisca e aiuti
-a eseguire ""Shibuya Hirasaka"" come una delle cinque persone.","我會透過無線電指示你們。
+405,3006,,"Io vi darò ordini via radio. Tu parteciperai
+come quinta persona per eseguire ""Shibuya Hirasaka"".","我會透過無線電指示你們。
 你要作為第五個人參加「涉谷比良坂」的實驗。",,"내가 통신으로 지시를 내리겠다
 너는 다섯 명째 역할로「시부야 히라사카」에 참가하는 거다","Ich übernehme das Kommando. Du solltest in der
 Zwischenzeit als eine der fünf Personen
 bei „Shibuya-Hirasaka“ helfen."
 501,3006,,"Mi sentite tutti?
-Ora daremo inizio alla verifica della leggenda di ""Shibuya Hirasaka.""","所有人都聽得到吧？
+Bene, diamo inizio alla verifica della
+leggenda metropolitana ""Shibuya Hirasaka"".","所有人都聽得到吧？
 那麼，現在我們來驗證都市傳說「涉谷比良坂」吧。",,"모두 들리지?
 그럼 지금부터 도시전설「시부야 히라사카」의 검증을 시작하겠다","Können alle mich hören? Wir beginnen jetzt
 damit, die Legende „Shibuya-Hirasaka“ zu
 überprüfen."
-502,3006,,"Ho hackerato le telecamere all'incrocio di Shibuya.
-Vi osserverò tutti da qui e vi darò i comandi necessari.","我已經先控制了涉谷人車分離十字路口的監視器，
+502,3006,,"Ho preso il controllo delle telecamere di sorveglianza dell'incrocio.
+Vi osserverò tutti da qui per coordinare i tempi e darvi istruzioni.","我已經先控制了涉谷人車分離十字路口的監視器，
 我會邊監視你們五人邊發出指示。",,"시부야 스크램블 교차로의 감시 카메라는 강탈해 뒀다
 내가 다섯 명의 타이밍을 감독해 지시하겠다","Ich habe die Kameras an der Kreuzung gehackt.
 Ich werde euch alle von hier aus beobachten
@@ -276,13 +280,13 @@ Ora, cominciamo.","麻煩你們各自臨機應變。
 那麼，開始驗證。",,"각자 임기응변으로 대응하도록
 그럼, 검증 개시다","Haltet eure Augen und Ohren offen und seid auf
 alles vorbereitet. Jetzt geht es los."
-504,4119,,"""Sentirne parlare è una maledizione""
-""Vederlo è ancora peggio""","“只聽見此歌　就會受詛咒＂
+504,4119,,"""Basta ascoltarla per cadere in maledizione""
+""Se la vedi, verrai portato via""","“只聽見此歌　就會受詛咒＂
 “不小心看見　就會被擄走＂",,"""듣기만 해도 저주받지""
 ""봐 버린다면 끌려간다네""","„Verflucht, wenn man es hört“
 „Schlimmer, wenn man es sieht“"
-505,4121,,"""Le profondità di Shibuya""
-""È dove tutti noi dobbiamo passare""","“涉谷的最底處　在何處＂
+505,4121,,"""Nel fondo più profondo di Shibuya""
+""Proprio al centro del pentagramma""","“涉谷的最底處　在何處＂
 “在五角形的正中央＂",,"""시부야의 밑바닥 어디에 있을까""
 ""오각형의 한가운데에""","„Tief in Shibuya“
 „Müssen wir alle hinübergehen“"
@@ -291,8 +295,8 @@ Lily, ho bisogno che tu acceleri un po' di più.","很好，你繼續以這個�
 莉莉同學，再稍微加快速度。",,"좋아, 너는 그 속도로 계속 나아가라
 릴리 군은 조금만 더 빠르게 걷도록","Das macht ihr toll, macht in dem Tempo weiter.
 Lily, du musst etwas schneller sein."
-507,4122,,"""Quando ti senti solo, devi andare giù""
-""Quando ti senti giù di morale, devi andare giù""","“如果感到寂寞　就走下坡道＂
+507,4122,,"""Se ti senti solo, scendi lungo il pendio""
+""Se ti senti triste, scendi lungo il pendio""","“如果感到寂寞　就走下坡道＂
 “如果覺得厭煩　就走下坡道＂",,"""외로워지면 고개를 내려와""
 ""힘들어지면 고개를 내려와""","„Bist du allein, musst du tief hinab“
 „Bist du traurig, musst du tief hinab“"
@@ -308,13 +312,13 @@ attraversa.","以防萬一，我先對十字路口的紅綠燈動了“手腳＂
 안심하고 나아가도록","Um ganz sicherzugehen, habe ich sie manipuliert,
 damit sie uns nicht in die Quere kommen.
 Ihr könnt also einfach hinübergehen."
-510,2001,,"""In fondo giace un mondo segreto e nascosto""
-""Ma guai a te che ne trovi l'entrata""","“在坡道的更下方　在那前方＂
+510,2001,,"""Laggiù in fondo, ancor più avanti""
+""C'è l'entrata per un mondo segreto""","“在坡道的更下方　在那前方＂
 “是秘密世界的出入口＂",,"""아주 깊은 곳 그 안쪽에""
 ""비밀 세계의 출입구""","„Ganz unten wartet eine geheime Welt“
 „Aber wehe dem, der den Eingang findet“"
-511,4966,,"""Perché se ce la fai, incontrerai solo la disperazione""
-""Incontrerai solo la disperazione...""","“找到的話就不快樂＂
+511,4966,,"""Se la trovi, nessuna felicità""
+""Se ci arrivi, nessuna fortuna...""","“找到的話就不快樂＂
 “到達的話就不幸運＂",,"""발견해버리면 언해피""
 ""도달하면 언럭키""","„Wer ihn passiert, dessen Hoffnung schwindet.“
 „Dessen Hoffnung schwindet ...“"
@@ -351,15 +355,15 @@ Wann ist Shibuya jemals so ruhig?"
 631,4122,,"Lo sapevo...
 Sapevo che non avrei dovuto aggregarmi per questa cosa.",果然……不該來參加的吧。,,역시… 참가하지 말았어야 했던… 걸까,"Ich wusste es doch ... Ich wusste, ich hätte
 nicht mitmachen sollen."
-635,2000,,Non posso lasciarli indietro.,我不能丟下芽衣她們不管。,,…메이네를 그냥 둘 수는 없다,Ich kann nicht einfach alle zurücklassen.
-641,4856,,"""Perché nessuno mi presta attenzione?""",“為什麼大家　都沒注意到呢？＂,,"　""어째서 모두 눈치채지 못하는 거야?""",　„Warum werde ich nicht beachtet?“
-642,4856,,"""O forse...in realtà mi notano.""",“其實大家　都注意到了吧？＂,,"　""사실은 모두 눈치챈 거 아니야?""",　„Oder vielleicht ... bemerken sie mich doch.“
-651,4856,,"""Non posso più vivere qui.""",“在這裡　是不能活命的＂,,"　""여기선 살아 있으면 안 돼""",　„Ich kann hier nicht mehr leben.“
-652,4856,,"""Non posso più vivere ed essere qui.""",“活著的話　將無法待在這裡＂,,"　""살아 있으면 여기에 있을 수 없어""",　„Ich kann hier nicht mehr leben und sein.“
-661,4856,,"""Quindi io...""",“所以＂,,"　""그러니까""",　„Also werde ich ...“
+635,2000,,Non posso abbandonare Mei e gli altri...,我不能丟下芽衣她們不管。,,…메이네를 그냥 둘 수는 없다,Ich kann nicht einfach alle zurücklassen.
+641,4856,,"""Perché nessuno si accorge di me?""",“為什麼大家　都沒注意到呢？＂,,"　""어째서 모두 눈치채지 못하는 거야?""",　„Warum werde ich nicht beachtet?“
+642,4856,,"""O forse... in realtà tutti mi vedono.""",“其實大家　都注意到了吧？＂,,"　""사실은 모두 눈치챈 거 아니야?""",　„Oder vielleicht ... bemerken sie mich doch.“
+651,4856,,"""Qui non posso restare viva.""",“在這裡　是不能活命的＂,,"　""여기선 살아 있으면 안 돼""",　„Ich kann hier nicht mehr leben.“
+652,4856,,"""Se resto viva non posso appartenere a questo luogo.""",“活著的話　將無法待在這裡＂,,"　""살아 있으면 여기에 있을 수 없어""",　„Ich kann hier nicht mehr leben und sein.“
+661,4856,,"""E quindi...""",“所以＂,,"　""그러니까""",　„Also werde ich ...“
 701,4119,,"Ehi, chi sei!? Da quanto tempo sei qui!?",什、什麼！？　妳是誰！？,,"뭐, 뭐야!? 당신, 누구야!?","He, wer bist du? Wie lange bist du schon da?!"
-702,4856,,"""Morirò e resterò qui.""",“我已經死去　留在此處＂,,"""나는 죽어서 여기에 있어""",„Ich werde sterben und hierbleiben.“
-703,4856,,"""Qui, nel profondo di Shibuya, nell'Altro Mondo.""",“在涉谷的最底處　在另一個世界＂,,"""시부야의 밑바닥 저쪽 세계""","„Hier, ganz unten in Shibuya, in der anderen
+702,4856,,"""Sono morta e rimarrò qui.""",“我已經死去　留在此處＂,,"""나는 죽어서 여기에 있어""",„Ich werde sterben und hierbleiben.“
+703,4856,,"""Nel fondo di Shibuya, nell'altro mondo.""",“在涉谷的最底處　在另一個世界＂,,"""시부야의 밑바닥 저쪽 세계""","„Hier, ganz unten in Shibuya, in der anderen
 Welt.“"
 704,4121,,S-scomparsa...?,不、不見了……？,,"사, 사라졌어…?",S-Sie ist verschwunden ...?
 705,4120,,Aaaaaaah!!!,呀啊啊啊啊！！？！,,"꺄, 꺄아아아!!?!",Aaaaaah!
@@ -376,7 +380,8 @@ Welt.“"
 716,4119,,Aaah!,呀！？,,꺅!?,Aaah!
 717,4121,,Togliti di mezzo!,快避開！,,피해!,Aus dem Weg!
 718,4121,,Quella era... quella era per poco.,好、好險……,,"아, 위험했어…",Das ... Das war knapp.
-719,4121,,"Se non avessimo sentito la tua voce proprio ora, quel camion...","要是沒聽見你的聲音，
+719,4121,,"Se non avessimo sentito la voce dell'[p],
+quel camion ci avrebbe presi in pieno tutti e quattro...","要是沒聽見你的聲音，
 我們四個人都會被卡車——",,"조수님의 목소리가 들리지 않았더라면
 네 명 모두 트럭에―","Wenn wir nicht gerade deine Stimme gehört hätten,
 hätte der LKW ..."
@@ -393,8 +398,8 @@ Und jetzt ist wieder alles normal ..."
 722,4120,,C-cosa sta succedendo qui?,這……這是怎麼回事？,,"어, 어떻게 된 거야?",W-Was geht hier vor sich?
 723,2001,,...,……,,………,...
 801,3006,,"Dobbiamo molto al detective Matayoshi per averci aiutato di nuovo.
-Non solo ha riportato la calma, ma ha anche portato l'autista del camion
-per interrogarlo.","從事件的收拾到做筆錄，
+Non solo ha riportato la calma, ma ha anche portato l'autista
+del camion per interrogarlo.","從事件的收拾到做筆錄，
 這次又受到又吉刑警照顧了啊。",,"이번 소동의 수습부터 사정청취까지
 …또 마타요시 형사님께 신세를 졌군","Wir schulden Kommissar Matayoshi mal wieder was
 für seine Hilfe. Er hat die Aufregung beendet
@@ -414,11 +419,11 @@ aber ihr habt nicht auf ihre Warnungen reagiert."
 804,3006,,"È come se voi ragazzi non foste stati in grado di vedere o sentire
 niente di quello che succedeva intorno a voi.","你們就像看不見周圍一樣。
 不僅如此，還說你們好像連聲音都聽不見。",,"마치 너희들은 주변이 보이지 않는 것처럼,
-아니 오히려 목소리조차도 들리지 않는 것처럼, 말이지","Es war fast, als ob ihr nicht sehen oder hören
+아니 오히려 목소리조查도 들리지 않는 것처럼, 말이지","Es war fast, als ob ihr nicht sehen oder hören
 konntet, was um euch herum vor sich ging."
-805,4119,,"Già, in effetti era così...",實際上，是這樣沒錯……,,실제로 그랬어요…,So war es wirklich ...
-806,4119,,"Non sapevamo che ci fossero ancora altre persone in giro finché il
-tuo assistente non ha parlato...","在聽到助手的聲音前，
+805,4119,,"Sì, in effetti era così...",實際上，是這樣沒錯……,,실제로 그랬어요…,So war es wirklich ...
+806,4119,,"Finché non abbiamo sentito la voce dell'[p],
+non ci eravamo accorti affatto che ci fosse gente intorno...","在聽到助手的聲音前，
 我們完全沒看到周圍有人……",,"조수님의 목소리가 들릴 때까지
 주변에 사람이 있었다고는 전혀…","Wir wussten nicht, dass noch andere Leute da
 waren, bis dein Hilfsdetektiv etwas gesagt hat."
@@ -444,16 +449,17 @@ mit unseren eigenen Augen gesehen, direkt vor uns!"
 818,4122,,"Non te lo ricordi?
 È così che va la leggenda di Shibuya Hirasaka!",是都市傳說……是「涉谷比良坂」的都市傳說！,,도시전설…「시부야 히라사카」의 도시전설이야!,"Erinnert ihr euch nicht? Das ist doch die Legende
 von „Shibuya-Hirasaka“!"
-819,3006,,"Hmph. Quindi quello che voi cinque avete visto laggiù era il morto
-riportato in vita, allora.","呵呵，你們說看到了已經死去的人。
+819,3006,,"Eh eh. Quindi avete visto una persona defunta.
+Il che significa che i morti tornano in vita per davvero.","呵呵，你們說看到了已經死去的人。
 也就是說，真的能讓死者復活啊。",,"후훗, 죽은 사람을 너희들은 봤다고 한다
 즉, 정말 죽은 사람이 되살아났다는 얘기지","Hmpf. Ihr fünf habt also eine Tote gesehen, die
 wiederauferstanden ist."
 820,4119,,Io non... nemmeno...,"……啊。
 ……怎、怎麼會……",,"…앗
 …그, 그런…",Ich weiß nicht recht ...
-821,3006,,"Ho fatto qualche ricerca. Shibuya oggi è una valle che è stata tagliata
-dal fiume Shibuya, che a sua volta ora scorre sotto l'incrocio di Shibuya.","我調查了一下。
+821,3006,,"Ho fatto qualche ricerca. Shibuya oggi è una valle che è stata
+tagliata dal fiume Shibuya, che a sua volta ora
+scorre sotto l'incrocio di Shibuya.","我調查了一下。
 涉谷是「涉谷川」流經所形成的河谷。
 現在，那條涉谷川就在人車分離十字路口的地下流動。",,"조사해 봤는데
 시부야는「시부야강」에 의해 깎여 만들어진 골짜기
@@ -482,19 +488,20 @@ Hirasaka è reale e ci siamo riusciti.","不管怎麼樣，你們的委託完成
 Wir wollten beweisen, dass „Shibuya-Hirasaka“
 wahr ist und das haben wir getan."
 825,4119,,"Davvero!? Te ne vai così, e basta?",咦！？　但、但是——,,"네!? 하, 하지만―",Wirklich?! Du willst einfach–
-826,3006,,"Lasciare quella ragazza in pace? È questo che vuoi chiedere?
-Hm, potresti essere confuso sul nostro ruolo.","妳說就這樣放著女高中生不管嗎？
+826,3006,,"Lasciare stare quella studentessa? È questo che vorresti chiedere?
+Eh eh, mi sa che avete un po' frainteso le cose.","妳說就這樣放著女高中生不管嗎？
 呵呵，你們似乎有點誤會了。",,"여고생은 내버려 두는 거냐고?
 후훗, 너희들은 착각을 하고 있는 것 같군","Das Mädchen in Ruhe lassen? Willst du das fragen?
 Hm, vielleicht bist du verwirrt, was wir
 hier machen."
-827,3006,,"Non dimenticare, non siamo ""cacciatori di fantasmi"" e non siamo
-""esorcisti"". Non è questo quello che facciamo.","我們不是“靈媒＂，也不是“驅魔師＂，
+827,3006,,"Non dimenticare, non siamo ""medium"" e non siamo
+""esorcisti"", e tanto meno ""cacciatori di yokai"".
+Non è questo quello che facciamo.","我們不是“靈媒＂，也不是“驅魔師＂，
 更不是“妖怪獵人＂。",,"우리는 ""무당""도 아닐 뿐더러 ""엑소시스트""
 하물며 ""요괴 헌터""도 아니다","Vergiss nicht, dass wir keine „Geisterjäger“ oder
 „Exorzisten“ sind. Das ist nicht unser Job."
 828,3006,,"Siamo ""Cyber Detective"". Né più né meno.
-Apprezzerei se te lo ricordassi da ora in poi.",我們是電腦偵探——今後，也請多多指教。,,"우리는 전뇌탐정이다 ―이후, 부디 기억해 주시길","Wir sind „Cyber-Detektive“. Nicht mehr, nicht
+Tenetelo bene a mente per il futuro.",我們是電腦偵探——今後，也請多多指教。,,"우리는 전뇌탐정이다 ―이후, 부디 기억해 주시길","Wir sind „Cyber-Detektive“. Nicht mehr, nicht
 weniger. Es wäre schön, wenn du dir das jetzt
 merken würdest."
 829,4119,,...,……,,………,...
@@ -513,6 +520,6 @@ avresti solo fatto nascere un'altra leggenda metropolitana, heehee...","如果�
 새로운 도시전설로 이름을 알렸을 텐데… 후후","Aber ich glaube, wenn du sie vor den Augen der
 Kids benutzt hättest, wäre nur eine weitere
 Großstadtlegende entstanden, hihi ..."
-833,4856,,"[1""Se uccido tutti, questo mi porterà fortuna!""]",[1“殺了所有人　我就會很幸運”],,"[1""모두 죽이고 나 럭키""]","[1„Wenn ich alle töte, bringt mir das Glück!“]"
-834,4856,,"[1""E se tutti muoiono, questo mi renderà felice!""]",[1“所有人死掉的話　是啊　會變得很快樂”],,"[1""다함께 죽으면 봐, 해피""]","[1„Und wenn alle sterben, bin ich glücklich!“]"
+833,4856,,"[1""Se li uccido tutti, sarò fortunata!""]",[1“殺了所有人　我就會很幸運”],,"[1""모두 죽이고 나 럭키""]","[1„Wenn ich alle töte, bringt mir das Glück!“]"
+834,4856,,"[1""Se muoiono tutti, vedi? Sarò felice!""]",[1“所有人死掉的話　是啊　會變得很快樂”],,"[1""다함께 죽으면 봐, 해피""]","[1„Und wenn alle sterben, bin ich glücklich!“]"
 835,4857,,[1Muhahahahaaa!],[1啊哈哈哈哈哈哈——！],,[1꺄하하하하하하―!],[1Muhahahahaaa!]
