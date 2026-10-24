@@ -844,20 +844,20 @@ nicht zur BBS!"
 951,,Chiedi al Junk Plaza.,在破銅爛鐵公園打聽消息,,잡동사니 광장에서 탐문을 하자.,Frag an der Müll-Plaza.
 952,,Sconfiggi Lunamon,打倒露娜獸,,루나몬을 쓰러뜨리자.,Besiege Lunamon.
 953,,Convincere Lunamon,說服露娜獸,,루나몬을 설득하자.,Überzeuge Lunamon.
-960,,Combattere gli scarafaggi,戰鬥甲蟲,,싸우는 딱정벌레,Kampfkäfer
-961,,Entomologo autodidatta,自稱蟲博士,,자칭 벌레박사,Insektenkundler
-962,,"Stavo facendo ricerche online e ho trovato
-un coleottero che non avevo mai visto prima!
-Ho bisogno che tu indaghi per me!","我在影片網站調查昆蟲時
+960,,Coleotteri da combattimento,戰鬥甲蟲,,싸우는 딱정벌레,Kampfkäfer
+961,,Sedicente entomologo,自稱蟲博士,,자칭 벌레박사,Insektenkundler
+962,,"Cercando insetti online mi sono imbattuto in
+dei coleotteri mai visti prima!
+Vorrei tanto che tu indagassi per me!","我在影片網站調查昆蟲時
 居然發現了我不知道的甲蟲！
 我無論如何都想知道真實身份，請幫我調查！",,"영상 사이트에서 곤충을 조사하고 있었더니
 이 내가 모르는 딱정벌레가 있었어!
 어떻게 해서든 이 녀석들의 정체를 밝혀내고 싶으니까 조사해줘!!","Ich habe einen Käfer gefunden, den ich
 noch nie gesehen habe! Du musst mehr
 darüber herausfinden!"
-963,,Ventaglio Pomerania,最愛博美了,,포메라니안 정말 좋아 씨,Zwergspitzfan
-964,,"Possono dare un'occhiata alle nuove specie di
-insetti presenti al museo per voi.","如果把可能是新品種的蟲帶到博物館
+963,,Fan dei Pomerania,最愛博美了,,포메라니안 정말 좋아 씨,Zwergspitzfan
+964,,"Al museo possono verificare per te se si
+tratta di una nuova specie di insetto.","如果把可能是新品種的蟲帶到博物館
 好像就能請他們調查唷",,"신종일지도 모르는 벌레를 발견해서 박물관에 가져다주면
 조사해주는 듯해","Neue Insektenarten können sie im Museum
 für dich prüfen."
@@ -867,12 +867,12 @@ insetti pensi che ci siano in Giappone?","絕對不是新品種啦
 你以為光日本就有多少蟲啊",,"절대 신종은 아니야
 일본에 벌레가 얼마나 있는 줄 알기나 해?","Das ist keine neue Art! Was glaubst du,
 wie viele Insekten es in Japan gibt?"
-970,,Ottieni spiegazioni dal cliente,聽委託人說明詳情,,의뢰인에게 설명을 듣자.,Hol dir eine Erklärung vom Klienten.
-971,,Controlla Beetle Arena,調查甲蟲決鬥場,,딱정벌레 결투장을 조사하자.,Prüfe die Käfer-Arena.
+970,,Ascolta la richiesta del cliente,聽委託人說明詳情,,의뢰인에게 설명을 듣자.,Hol dir eine Erklärung vom Klienten.
+971,,Ispeziona l'Arena dei coleotteri,調查甲蟲決鬥場,,딱정벌레 결투장을 조사하자.,Prüfe die Käfer-Arena.
 972,,Sconfiggi Cherrymon e Woodmon,打倒祖利獸跟朽木獸,,쥬레이몬과 우드몬을 쓰러뜨리자.,Besiege Cherrymon und Woodmon.
-973,,Cerca coleotteri,尋找甲蟲,,딱정벌레들을 찾자.,Suche nach Käfern.
-974,,Ottieni la linfa da una pianta Digimon.,從植物數碼寶貝拿到樹液,,식물 디지몬으로부터 수액을 받자.,Hol Saft von einem Pflanzen-Digimon.
-975,,Consegnare la linfa,交出拿到的樹液,,손에 넣은 수액을 가져다주자.,Gib den Saft ab.
+973,,Cerca i coleotteri,尋找甲蟲,,딱정벌레들을 찾자.,Suche nach Käfern.
+974,,Ottieni la linfa da un Digimon pianta.,從植物數碼寶貝拿到樹液,,식물 디지몬으로부터 수액을 받자.,Hol Saft von einem Pflanzen-Digimon.
+975,,Consegna la linfa,交出拿到的樹液,,손에 넣은 수액을 가져다주자.,Gib den Saft ab.
 980,,Controllo dei parassiti degli uccelli,驅除鳥害,,새로 인한 피해 구제,Die Vögel
 981,,Donna dell'ufficio metropolitano,新都廳的女性員工,,신 도청의 여성 직원,Frau aus der ZV
 982,,"Ci sono un sacco di mostri-uccello in cima al
