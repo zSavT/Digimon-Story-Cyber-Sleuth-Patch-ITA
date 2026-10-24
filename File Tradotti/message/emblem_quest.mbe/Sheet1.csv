@@ -29,7 +29,8 @@ Il Team Potenza di Fuoco brucerà il nemico!","燃燒炙熱胸口的這份氣勢
 aufzuhalten! Team Firepower wird den Feind
 einäschern!"
 5,9164,,"Guarda che muscoli fantastici, fra'!
-Prurito di allenamento! Pensi di poter gestire Muscle Gym?!","寄宿在鍛鍊肌肉的強悍靈魂！
+Ho una gran voglia di allenarmi! Pensi di essere
+all'altezza della Muscle Gym?!","寄宿在鍛鍊肌肉的強悍靈魂！
 揮灑的汗水相當美麗！
 「肌肉健身房」，登場！！",,"단련된 근육에 깃드는 것은 강인한 영혼!
 날리는 땀은 아름답다!「머슬 짐」, 간다!!","Zieh dir meine Muckis rein! Die juckt es nach
@@ -382,8 +383,8 @@ Devo andare in bagno! Non tornerò per un po'!","奇、奇怪……肚子好像�
 잠깐 화장실 다녀올게! 당분간 안 돌아올 거야!","Uff, ich habe Bauchweh. Ich muss aufs Klo!
 Und das wird eine Weile dauern."
 125,9364,,"Quindi abbiamo perso...
-Ce ne andremo rapidamente e senza intoppi,
-come essere scaricati in un water!","是我們輸了嗎……
+Spariremo rapidamente e in un attimo,
+proprio come l'acqua dello sciacquone!","是我們輸了嗎……
 就跟沖廁所一般，我們會清爽的離開！",,"우리가 졌군…….
 변기 물에 휩쓸리지 않도록 상쾌하게 떠나가겠어!","Wir haben also verloren ... Wir verschwinden
 ganz flugs, wie wenn man ein Klo spült!"
@@ -463,8 +464,8 @@ Non vedo l'ora del nostro prossimo incontro!","哼，明明只是小鬼，還真
 期待之後再遇到你啊！",,"흥, 애송이 주제에 꽤 하는구만……
 다시 만날 때를 기대하마!","Hm, gar nicht schlecht für einen Jungspund. Freue
 mich auf unsere nächste Begegnung!"
-141,3002,,"Oggi ci sono andato leggero con te!
-Se te ne rendi conto, potresti avere del potenziale!","今天的我，是刻意不發揮真正的實力！
+141,3002,,"Oggi ci sono andato piano con te!
+Se te ne sei accorto, potresti avere del potenziale!","今天的我，是刻意不發揮真正的實力！
 你如果有注意到的話，將來會很不得了喔！",,"오늘은 내가 일부러 최선을 다하지 않았다고!
 당신, 그걸 알아챘다면 장래성이 있어!","Ich habe dich heute geschont! Wenn dir das klar
 ist, hast du vielleicht Potenzial!"
@@ -488,7 +489,7 @@ Pensi di poter gestire i miei Digimon fighi?!","好好看著吧，這傢伙鍛�
 자, 내 디지몬을 천천히 감상하고 가거라!","Zieh dir die fetten Muskeln rein! Glaubst du,
 du kommst gegen meine starken Digimon klar?!"
 504,3002,,Ehi! Ti sfido a una battaglia!,你好！　請和我比試一下！！,,안녕하십니까! 본인과 한판 대결 부탁드립니다!!,He! Ich fordere dich zu einem Kampf heraus!
-505,9154,,"Fuori di qui! Nessuno si prende gioco di noi e la passa liscia!","給我從那讓開！
+505,9154,,Fuori di qui! Nessuno si prende gioco di noi e la passa liscia!,"給我從那讓開！
 如果敢打擾我們，我決不客氣！！",,"거기 비켜!
 우릴 방해하겠다면 용서하지 않겠다!!","Hau ab hier! Mit uns legt sich niemand
 ungestraft an!"
@@ -650,7 +651,7 @@ Ehehe, cosa hanno tutti in comune?","我喜歡的數碼寶貝呀～是大便獸�
 還有亞伯獸唷！　嘿嘿～共通點是什麼呢！？",,"내가 좋아하는 디지몬은 말이지~ 스카몬이랑
 워매몬이랑 모야몬이야! 헤헤~ 공통점이 뭐게?!","Meine liebsten Digimon sind Sukamon, Numemon und
 Nanimon! Hihi, und was haben die gemeinsam?"
-537,9155,,"Ti farò una schiacciata sulla testa!
+537,9155,,"Ti farò una schiacciata in testa!
 Ma non con una palla. Con la cacca!","對大哥哥的頭灌籃！！
 不是用球，是用那個灌籃喔！",,"오빠 머리에 덩크 슛!!
 공이 아니라 그걸로 덩크하는 거지만!","Ich hau dir ordentlich eine rein! Aber nicht mit
@@ -660,7 +661,7 @@ Puoi imparare molto su qualcuno da ciò che gli esce!","不要小看那東西啊
 那可是滿滿的濃縮了人類的重要資訊！",,"그걸 바보 취급하지 말라고!
 그것엔 인간의 중요한 정보가 가득 담겨있어!","Rümpf nicht die Nase über Kacke! Ihre
 Ausscheidungen sagen viel über eine Person aus!"
-539,9155,,"Avvicinati e ti lancerò addosso cacca matura come ShellNumemon!","你繼續靠近我的話，我就跟貝殼鼻涕獸一樣，
+539,9155,,Avvicinati e ti lancerò addosso cacca matura come ShellNumemon!,"你繼續靠近我的話，我就跟貝殼鼻涕獸一樣，
 用熟成後的那個來問候你啊！",,"그 이상 다가오면 달팽이워매몬처럼
 숙성된 그걸 던져버릴 거야!","Komm näher, dann beschmeiß ich dich mit dampfender
 Kacke wie ShellNumemon!"
@@ -719,7 +720,8 @@ dovrò farti sloggiare!","就憑你們，我超──簡單就能解決喔──
 in die Quere kommst, muss ich dich hier
 rausschmeißen!"
 551,9152,,"Assicurarsi che un master sia correttamente disciplinato
-fa parte del lavoro di una cameriera! Il che significa: ATTACCAA!","管教主人大人，也是女僕的重要工作喵！
+Assicurarsi che il Padrone sia ben educato
+fa parte del lavoro di una cameriera! Il che significa: ALL'ATTACCO!","管教主人大人，也是女僕的重要工作喵！
 所以說～……突擊喵～～～☆",,"주인님께 예의범절을 가르치는 것도 메이드의 어엿한 업무다냥!
 그러니까……돌격이다냐~~~앙♥","Dafür zu sorgen, dass ein Meister sich ordentlich
 verhält, ist die Aufgabe einer Maid! Das bedeutet:
@@ -749,7 +751,7 @@ dreimal im Jahr vorkommen kann?"
 왜냐면 우린 무적이자 불사신인 존재거든☆","Du kannst es nicht mit uns aufnehmen.
 Wir sind unverwundbar und unsterblich."
 558,9163,,"Oh, adoro un bel bagno di sangue!
-La mia piccola ascia e io ti faremo una visita!","我是華麗的傑森♪
+Io e la mia piccola ascia verremo a farti visita!","我是華麗的傑森♪
 今日也將會拿著空氣斧頭，跑去襲擊你家喔♪",,"난 화려한 살인귀♪
 오늘도 에어 도끼를 들고 당신 집으로 쳐들어가지♪","Oh, ich liebe ein nettes Blutbad! Meine kleine
 Axt und ich kommen doch gern mal bei dir vorbei!"
@@ -776,7 +778,7 @@ Se vinco io, che ne dici di coprirmi il turno domani?","啊，你很適合呢！
 如果我贏的話，你明天能幫我代班嗎？",,"앗, 네가 적임자야!
 저기, 내가 이기면 내일 일 좀 대신 해주지 않을래?","Ach, du reichst mir! Wenn ich gewinne, übernimmst
 du dann meine Schicht morgen?"
-564,3002,,"Benvenuto, Ma... No, intendo... Salve!","歡迎回來，主……說錯了。
+564,3002,,"Benvenuto, Pa... No, intendo... Salve!","歡迎回來，主……說錯了。
 客人歡迎光臨！！",,"어서 오세요, 주인……이 아니지.
 어서 오세요, 손님!!","Willkommen, Meis... äh, ich wollte sagen ...
 Grüß dich!"
@@ -939,7 +941,8 @@ credo nemmeno per un secondo!","怎麼會！！　我的數碼寶貝居然輸了
 믿을 수 없어!!","Wie?! Meine Digimon verlieren?! Unmöglich! Das
 kann ich niemals glauben!"
 831,9150,,"Attento. Vola troppo vicino al sole e
-ti brucerai.","你要是太囂張，
+Fai attenzione. A tirare troppo la corda,
+prima o poi si spezza.","你要是太囂張，
 總有一天會吃苦的喔。",,"당신, 너무 우쭐대다간
 언젠가 큰코다칠 거야","Pass du nur auf. Überflieger verbrennen sich
 schnell mal die Finger."
@@ -967,8 +970,8 @@ sie gernhaben?!"
 真無聊，我要回去了～！！",,"아~아, 져버렸어!
 시시하니까 이젠 가야지~!!","Wie, ich habe verloren?! Das ist langweilig hier!
 Ich gehe nach Hause!"
-838,9155,,"Forza! I tuoi Digimon sono così forti che è
-praticamente barare!",真卑鄙！　居然用那麼強的數碼寶貝！！,,치사해! 그렇게 강해 보이는 디지몬을 쓰다니!!,"Menno! Deine Digimon sind so stark, das ist
+838,9155,,"Ma dai! I tuoi Digimon sono così forti che è
+praticamente come barare!",真卑鄙！　居然用那麼強的數碼寶貝！！,,치사해! 그렇게 강해 보이는 디지몬을 쓰다니!!,"Menno! Deine Digimon sind so stark, das ist
 schon fast Schummelei!"
 839,9155,,"Ehi, metti *quello* davanti! Non è un qualche sprovveduto qualsiasi!","大哥擱在那東西的面前，
 也一步都不後退，真不是簡單人物！！",,"오빠, 그걸 눈앞에 두고
@@ -1655,9 +1658,7 @@ Vorrei che ci lasciassero divertire un po'.","只要把攻過來的笨蛋都打�
 조금은 즐기게 해줬으면 좋겠군요","Zeit, uns bei den Idioten für den Angriff zu
 revanchieren, nicht wahr? Dabei hatte ich
 eigentlich auf eine kleine Pause gehofft."
-1309,3003,,"Hackers nemici sono all'attacco? Bene, se non
-ascoltano la ragione, non abbiamo altra scelta che
-combattere.","敵方的駭客朝這攻過來了啊。
+1309,3003,,"Hacker nemici sono all'attacco? Bene, se non","敵方的駭客朝這攻過來了啊。
 既然是無法溝通的對象，就只好戰鬥了。",,"적 해커들이 이쪽으로 쳐들어온 건가요.
 말해봤자 듣지 않는 상대라면 싸울 수밖에 없겠네요","Feindliche Hacker greifen an? Nun, wenn sie auf
 Vernunft nicht hören wollen, dann werden wir wohl
@@ -1864,7 +1865,7 @@ meinst, dann probieren wir es!"
 1450,1050,,"Non preoccuparti degli altri emblemi!
 Li abbiamo presi noi!",其他的徽章就交給我們吧！,,다른 엠블럼이라면 우리에게 맡겨줘!,"Mach dir keinen Kopf wegen der anderen Embleme!
 Wir kümmern uns!"
-1451,1151,,"Li proteggeremo così bene che sarà come se non te ne fossi mai andato!",我們會代替你，好好保護的喔！,,"너 대신, 잘 지킬 테니까!","Wir passen so gut auf, als wärst du die ganze
+1451,1151,,Li proteggeremo così bene che sarà come se non te ne fossi mai andato!,我們會代替你，好好保護的喔！,,"너 대신, 잘 지킬 테니까!","Wir passen so gut auf, als wärst du die ganze
 Zeit hier!"
 1412,1391,,"Vuoi che protegga gli emblemi? Suppongo, ma ho i
 miei dubbi.","……要我保護其他徽章嗎？
@@ -1977,7 +1978,8 @@ Quindi andiamo a riprenderlo in fretta! Possiamo farcela!","徽章被搶走了�
 我們的話就做得到！",,"엠블럼을 뺏겨버렸어…
 그래도 바로 되찾자. 우리라면 할 수 있어!","Wir haben ein Emblem verloren. Holen wir es
 schnell zurück! Wir schaffen das!"
-1543,3048,,"Maledizione, ti pentirai amaramente del giorno in cui hai preso ciò che è nostro!","可惡……！　居然敢搶我們的徽章……！
+1543,3048,,"Maledizione, ti pentirai amaramente del giorno in cui hai preso ciò che è
+nostro!","可惡……！　居然敢搶我們的徽章……！
 我一定要讓你後悔……！",,"젠장…! 용케도 우리 엠블럼을…!
 반드시 후회하게 해주겠어…!","Verdammt, ihr werdet es bereuen, uns etwas
 weggenommen zu haben!"

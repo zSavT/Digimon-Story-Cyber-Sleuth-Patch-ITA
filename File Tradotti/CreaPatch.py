@@ -75,13 +75,13 @@ def collect_csv_with_structure(source_dirs, destination_dir="Patch", log_file="l
                         print(f"    Nessun file CSV trovato in '{current_parent_path}' (dopo l'assenza di 'tradotto').")
                         log.write(f"    ATTENZIONE: Cartella 'tradotto' non trovata e nessun file CSV presente in '{current_parent_path}'.\n")
                         
-    # --- Riepilogo Finale ---
-    if found_files_count > 0:
-        print(f"\n--- Operazione completata! ---\nTotale {found_files_count} file CSV copiati nella cartella '{destination_dir}', mantenendo la struttura originale.")
-        log.write(f"\n--- Operazione completata! ---\nTotale {found_files_count} file CSV copiati con successo in '{destination_dir}'.\n")
-    else:
-        print(f"\n--- Operazione completata! ---\nNessun file CSV trovato e copiato.")
-        log.write(f"\n--- Operazione completata! ---\nNessun file CSV è stato copiato.\n")
+        # --- Riepilogo Finale ---
+        if found_files_count > 0:
+            print(f"\n--- Operazione completata! ---\nTotale {found_files_count} file CSV copiati nella cartella '{destination_dir}', mantenendo la struttura originale.")
+            log.write(f"\n--- Operazione completata! ---\nTotale {found_files_count} file CSV copiati con successo in '{destination_dir}'.\n")
+        else:
+            print(f"\n--- Operazione completata! ---\nNessun file CSV trovato e copiato.")
+            log.write(f"\n--- Operazione completata! ---\nNessun file CSV è stato copiato.\n")
 
 def try_copy_file(source_path, destination_path, log_handle):
     """Funzione helper per provare a copiare un file e loggare il risultato."""

@@ -105,7 +105,8 @@ Sembra che stia succedendo qualcosa di strano.","但當他們還在談價錢時�
 anderen Seite des Tors ein seltsames Stöhnen zu
 hören. Sehr bizarr, das Ganze."
 176,2001,,!?,！？,,!?,?!
-177,3006,,"Il produttore aveva una brutta sensazione al riguardo e non voleva aprire il cancello,
+177,3006,,"Il produttore aveva una brutta sensazione al riguardo e non voleva aprire il
+cancello,
 ma il governo sospettava attività criminali e chiamò Matayoshi.","業者感到害怕而不願進行作業，
 但這關乎到防盜問題，所以區公所去找又吉刑警商量——",,"기분이 나쁘다며 업자도 작업을 꺼리는 데다
 방범 문제도 있어서 관공서가 마타요시 형사님께 상담―","Der Hersteller hatte ein ungutes Gefühl und wollte
@@ -133,7 +134,7 @@ quindi naturalmente c'è un Cyberspazio al suo interno.","有問題的門是使�
 당연히 안에는 전뇌공간이 있겠지","Das besagte Tor hat ein elektronisches Schloss.
 Das heißt, dass sich darin ein Cyberspace
 befindet."
-182,3006,,"Sei l'unico che può entrare nel cancello senza distruggerlo.","如果是你的話，就算不破壞門，
+182,3006,,Sei l'unico che può entrare nel cancello senza distruggerlo.,"如果是你的話，就算不破壞門，
 只要觸碰便可入侵。",,"너라면 문을 파괴하지 않아도
 접촉만으로 침입이 가능하다는 얘기다","Nur du kannst das Tor öffnen, ohne es zu
 zerstören."
@@ -219,7 +220,7 @@ Wie seltsam ..."
 rete al suo interno...",只要是電子鎖，應該都具備某些網路功能……,,"전자 록인 이상 어느 정도의 네트워크는
 존재할 텐데…","Es ist ein elektronisches Schloss. Es muss darin
 also eine Art Netzwerk geben ..."
-305,3006,,"Forse è solo che non hai attivato il Salto di Connessione correttamente?",說不定，只是因為你還不太會使用登入跳躍。,,"어쩌면 아직 커넥트 점프를
+305,3006,,Forse è solo che non hai attivato il Salto di Connessione correttamente?,說不定，只是因為你還不太會使用登入跳躍。,,"어쩌면 아직 커넥트 점프를
 잘 사용하지 못하는 것뿐일수도 있겠군","Vielleicht hast du denVerbindungssprung
 bloß nicht richtig aktiviert?"
 306,3006,,Alza la mano...,總之，你把手放上去試試。,,일단 손을 들어보도록,Heb deine Hand ...
@@ -250,7 +251,7 @@ deluso.","看來，似乎是你失望的“那一瞬間＂
 發動了登入跳躍。",,"아무래도 네가 실망한 ""반동""으로
 커넥트 점프가 발동한 듯하다","Du kannst wohl nur einen Verbindungssprung
 durchführen, wenn du enttäuscht bist."
-403,3006,,"Se dovessi ipotizzare una teoria sul funzionamento del tuo Salto…",如果硬要針對你的登入跳躍做出假設……,,"네 커넥트 점프에
+403,3006,,Se dovessi ipotizzare una teoria sul funzionamento del tuo Salto…,如果硬要針對你的登入跳躍做出假設……,,"네 커넥트 점프에
 한 가지 억지로 가설을 세워본다면…","Wenn ich erklären müsste, wie dein 
 Verbindungssprung funktioniert ..."
 404,3006,,"La tua abilità individua un'Onda Digitale, si aggancia ad essa per
@@ -311,7 +312,7 @@ considerata la tua abilità.","似乎解開了，辛苦你了。
 역시 네 능력에 걸리면 쉬운 안건이었군","Du hast es geschafft, das Tor zu öffnen. Danke
 dafür. Dank deiner Fertigkeiten muss das
 für dich einfach gewesen sein."
-503,3006,,"Cosa? C'è una specie di labirinto nel tunnelsotterraneo?","……？什麼？
+503,3006,,Cosa? C'è una specie di labirinto nel tunnelsotterraneo?,"……？什麼？
 地下道出現了一點異空間？",,"…? 뭐?
 지하도가 약간 마요이가를 일으키고 있다고?","Was? In dem unterirdischen Tunnel ist eine Art
 Labyrinth?"
@@ -322,7 +323,7 @@ Labyrinth?"
 …거기 이터나 디지몬의 기척이 있나?","Was meinst du denn mit „eine Art“?
 ... Gibt es Anzeichen, dass sich dort Digimon
 oder Verschlinger aufhalten?"
-506,3006,,"Capisco... È strano vedere solo una piccola sezione di labirinto...","這樣啊，　
+506,3006,,Capisco... È strano vedere solo una piccola sezione di labirinto...,"這樣啊，　
 輕度的異空間還真少見呢……",,"그런가…
 가벼운 마요이가라는 것도 흔치 않은 예군…","Ich verstehe ... Es ist seltsam, nur einen kleinen
 Teil des Labyrinths zu sehen ..."
@@ -332,7 +333,7 @@ ma non mi aspettavo questo...","呵呵……雖然說不知道會出現什麼，
 정말 흔치 않은 것과 조우할 줄이야","Hehe ... Ich weiß, ich habe gesagt, dass wir nicht
 wissen können, was wir finden werden, aber
 damit hatte ich nicht gerechnet ..."
-508,3006,,"...Credo che abbiamo assistito a un evento speciale di Onde Digitali.","的確，在我這邊的觀測，
+508,3006,,...Credo che abbiamo assistito a un evento speciale di Onde Digitali.,"的確，在我這邊的觀測，
 看起來就像發生了獨特的數碼波。",,"…확실히 이쪽의 관측으로도
 독특한 디지털 웨이브가 발생하고 있는 것처럼 보인다","... Ich glaube, wir wurden Zeugen einer besonderen
 digitalen Welle."
@@ -436,7 +437,7 @@ Onde Digitali di continuare a fluire in perpetuo.
 언제나 디지털 웨이브가 흐르는 특이한 길이 생겼다…","Der künstlich geschaffene Tunnel über ihr lässt
 die digitalen Wellen unbegrenzt fließen. Da unten
 geht etwas Seltsames vor sich."
-527,3006,,"Ecco cosa sta producendo questo quasi-labirinto che vedi di fronte a te.",也就是說，經常會發生輕度的異空間。,,즉 항상 가벼운 마요이가가 일어나고 있다는 말이다,"So entsteht das vermeintliche Labyrinth, vor dem
+527,3006,,Ecco cosa sta producendo questo quasi-labirinto che vedi di fronte a te.,也就是說，經常會發生輕度的異空間。,,즉 항상 가벼운 마요이가가 일어나고 있다는 말이다,"So entsteht das vermeintliche Labyrinth, vor dem
 du dich befindest."
 528,3006,,"Sapendo ciò, quelle strane voci che le persone a quanto pare sentono
 probabilmente appartengono a Digimon che stanno apparendo come risultato.","傳聞中的奇怪聲音，
@@ -466,7 +467,7 @@ non possiamo proprio ignorare questa tua nuova scoperta, però.","雖然委託�
 이 상태로 내버려 둘 수는 없다","Dein Auftrag ist jetzt eigentlich erledigt, aber
 wir können deine neue Entdeckung nicht
 einfach so ignorieren."
-533,3006,,"Perché non vai un po' più avanti e controlli le cose per me?",調查看看吧，你繼續前進。,,조사해보도록 하지. 앞으로 나아가도록,"Warum gehst du nicht noch ein Stück hinein und
+533,3006,,Perché non vai un po' più avanti e controlli le cose per me?,調查看看吧，你繼續前進。,,조사해보도록 하지. 앞으로 나아가도록,"Warum gehst du nicht noch ein Stück hinein und
 schaust dich für mich um?"
 601,3006,,"Aspetta... sto ricevendo letture che indicano che il tunnel è diventato
 un labirinto. Non è grave come quello a cui siamo abituati,
@@ -661,7 +662,7 @@ potrebbero benissimo partire dalla nostra zona, che ci crediate o no.","環繞�
 나카노일지도 모른다","Einfach gesagt: Alle Ley-Linien, die Tokio
 durchziehen, kommen möglicherweise aus unserem
 eigenen Revier. Unglaublich, oder?"
-709,3006,,"Non sarebbe incredibile pensarlo se si rivelasse vero?",……怎麼樣？　挺有趣的吧？,,…어떤가? 꽤 유쾌한 이야기지?,"Wäre das nicht fantastisch, wenn es wirklich
+709,3006,,Non sarebbe incredibile pensarlo se si rivelasse vero?,……怎麼樣？　挺有趣的吧？,,…어떤가? 꽤 유쾌한 이야기지?,"Wäre das nicht fantastisch, wenn es wirklich
 so wäre?"
 801,3006,,Fermo lì! Non andare oltre.,在那裡停下。,,거기서 멈추도록,Stopp! Keinen Schritt weiter.
 802,2001,,?,？？,,??,?
@@ -697,16 +698,16 @@ du gekommen bist, zurück. Wir sehen uns
 dann im Büro."
 901,3006,,"Anche se non è forte come siamo abituati, quel tunnel sta
 causando uno Spostamento Digitale.
-Dovremmo probabilmente tenerlo chiuso come prima, dopo tutto.","雖說是輕度，但那個地下道發生了Digital Shift……
+Dovremmo probabilmente tenerlo chiuso come prima, dopo tutto.","雖說是輕度，但那個地下道發生了Spostamento Digitale……
 還是跟之前一樣上鎖比較好吧。",,"가볍다고는 해도 그 지하도는 디지털 시프트를 일으킨다…
 지금까지처럼 잠가두는 편이 좋겠지","Auch wenn sie nicht so stark ist, wie die übrigen,
 verursacht der Tunnel eine digitale Verschiebung.
 Vielleicht gehört er doch zugesperrt."
-902,3006,,"Non ho idea di come spiegherò tutto questo al nostro cliente...",唉，該怎麼跟區公所解釋才好……,,"이런이런, 관공서에는 뭐라고 설명해야 좋을지…","Ich habe keine Ahnung, wie ich das Ganze unserem
+902,3006,,Non ho idea di come spiegherò tutto questo al nostro cliente...,唉，該怎麼跟區公所解釋才好……,,"이런이런, 관공서에는 뭐라고 설명해야 좋을지…","Ich habe keine Ahnung, wie ich das Ganze unserem
 Klienten erklären soll ..."
 903,3006,,"Comunque la si metta, probabilmente sarà tutto un bel boccone da
 digerire. Non mi sorprenderei se ne uscissimo con un'aria ancora più
-losca di quanto non lo siamo già.","說是發生Digital Shift，還有龍脈等等，他們也很難理解吧。
+losca di quanto non lo siamo già.","說是發生Spostamento Digitale，還有龍脈等等，他們也很難理解吧。
 我們公司給人的印象本來就有點奇怪，這樣會變得更可疑啊……",,"디지털 시프트나 용맥이라고 설명해도 이해받기 어려울 테고
 안 그래도 수상한 우리 회사의 인상이 더더욱 수상해질 테니 말이다","Egal, wie man es dreht, da gibt es einiges zu
 verdauen. Wahrscheinlich wirken wir im Endeffekt
@@ -890,11 +891,11 @@ sie gern nutzen."
 dell'edificio sia completato.",直到完工之前，本廳將作為多用途廣場提供各位使用。,,"준공될 때까지 여러분의 다용도 포럼으로
 이용하실 수 있습니다","Es wird für verschiedene Zwecke genutzt, während
 die Bauarbeiten abgeschlossen werden."
-1106,2001,,"Qui sta avvenendo un piccolo Digital Shift...",……有輕微的Digital Shift。,,…아주 약간 디지털 시프트가 일어나고 있다,"Hier findet gerade eine kleinere digitale
+1106,2001,,Qui sta avvenendo un piccolo Spostamento Digitale...,……有輕微的Spostamento Digitale。,,…아주 약간 디지털 시프트가 일어나고 있다,"Hier findet gerade eine kleinere digitale
 Verschiebung statt ..."
 1201,3006,,"C'è qualcosa che non va là fuori? ...Oh?
-Hai trovato un terminale che si sta Digital Shifting un po'?","發生什麼事了嗎？
-……嗯？　有終端發生了輕微的Digital Shift？",,"무슨 일이 있었나?
+Hai trovato un terminale che si sta ""Spostando digitalmente"" un po'?","發生什麼事了嗎？
+……嗯？　有終端發生了輕微的Spostamento Digitale？",,"무슨 일이 있었나?
 …응? 약간 디지털 시프트가 일어나고 있는 단말기가 있다고?","Stimmt da drüben etwas nicht?... Ach? Du hast ein
 Terminal gefunden, bei dem eine kleine
 digitale Verschiebung stattfindet?"
@@ -912,7 +913,7 @@ quindi stai in guardia, d'accordo?","你先試著登入跳躍看看。
 …뭐가 있을지 모른다, 부디 조심하도록―","Versuch es erst mal mit einem Verbindungssprung.
 Aber da wir nicht wissen, was sich im
 Inneren befindet, pass gut auf dich auf!"
-1301,3006,,"Hmm... Quindi alla fine hai trovato un Eater lì dentro.","……嗯。
+1301,3006,,Hmm... Quindi alla fine hai trovato un Eater lì dentro.,"……嗯。
 這樣啊，果然有侵食者……",,"…흐음
 그렇군, 역시 이터가 있었나…","Hm ... Du hast da drin also doch einen
 Verschlinger gefunden."

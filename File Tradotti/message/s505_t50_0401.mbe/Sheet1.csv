@@ -7,7 +7,8 @@ euch es geschafft hat, ihn zu schnappen."
 5,4120,,È strano... Era un vicolo cieco.,真奇怪……那邊明明沒有能通過的路啊。,,"이상하네… 저쪽에 샛길 같은 건
 없었을 텐데",Es ist merkwürdig ... Es war eine Sackgasse.
 6,4119,,*sigh*,嗚嗚～,,우우~,*Seufz*
-7,4122,,Non prendertela così, presidentessa. Non è la fine del mondo.,"社長～妳太消沉了啦～！
+7,4122,,"Non prendertela così, presidentessa.
+Non è la fine del mondo.","社長～妳太消沉了啦～！
 不要在意☆",,"부장도 차암~ 너무 풀 죽었잖아~!
 괜찮아☆","Du nimmst dir das zu sehr zu Herzen. Mach dir
 keinen Kopf."
@@ -21,7 +22,7 @@ wir das Ding!"
 Fahrt."
 10,4119,,...,…………,,…………,...
 11,4119,,Hai ragione. Non posso arrendermi proprio adesso.,沒錯，我怎麼能放棄啊……,,그렇지. 포기할까 보냐……,Du hast recht. Wir dürfen jetzt nicht aufgeben.
-12,4119,,Un giorno svelerò la tua vera identità, Sig. Navit!,"“NAVIT”……
+12,4119,,"Un giorno svelerò la tua vera identità, Sig. Navit!","“NAVIT”……
 有天我一定要揭露你的真面目──────！！",,"""내빗씨""……
 언젠가 반드시 정체를 폭로해 주겠어―――――!!","Eines Tages werde ich Navit-sans wahre Identität
 ans Licht bringen!"
@@ -31,12 +32,12 @@ Ci si vede!","那麼，今天就這樣解散吧～☆
 莉莉也要去打工了♪　辛苦啦～♪",,"그럼, 오늘은 이쯤에서 해산이란 걸로~☆
 릴리도 알바알바♪ 수고했어~♪","Ich schätze, für heute sind wir fertig. Ich muss
 zur Arbeit. Ciao!"
-15,4121,,Anche oggi non sono riuscito a fare bella figura con la presidentessa...,"哎呀呀……
+15,4121,,Anche oggi non sono riuscito a fare bella figura con la presidente...,"哎呀呀……
 這次也沒讓社長看到我帥氣的一面……",,"하아아……
 오늘도 부장에게 멋진 모습을 보여주지 못했어……",Ich habe Mei schon wieder enttäuscht ...
 16,4121,,Torno a casa.,……回家吧。,,……돌아가자,Ich gehe nach Hause.
 17,4121,,Eh? Tu sei...,……嗯？　那個，你是……,,"……응? 어어, 넌……",Was? Du ...
-18,4121,,Ah! Ma noi ci siamo già visti! Sei il tipo della "sincronicità"!,"啊啊！！
+18,4121,,"Ah! Ma noi ci siamo già visti! Sei il tipo della ""sincronicità""!","啊啊！！
 你不是之前遇到的那個共時性的人嗎！",,"아아!
 전에 만났던 싱크로니시티한 사람이잖아!","Ah! Ich kenn dich doch! Du bist der mit der
 Synchronizität!"
@@ -49,12 +50,12 @@ Anschlagtafel!"
 20,4121,,Sei con Hudie? Hai accettato il mio caso?,"難道你就是hudie的人嗎？
 你接下了我的委託嗎？",,"혹시 네가 후디에 사람이었어?
 내 의뢰를 받아준 거지?",Bist du von Hudie? Nehmt ihr meinen Fall an?
-21,4121,,"Sono io, il Vice Presidente dell'Alba Dorata!",是我啊，「黃金黎明團．副團長」！,,"나야,「황금여명회 부단장」!","Ich bin es, der Vizepräsident von Golden Dawn ..."
+21,4121,,"Sono io, il Vicepresidente dell'Alba Dorata!",是我啊，「黃金黎明團．副團長」！,,"나야,「황금여명회 부단장」!","Ich bin es, der Vizepräsident von Golden Dawn ..."
 22,2020,,!!!,！！,,!!,!!!
 23,4121,,"Con quel nickname, era difficile capire che fossi io.",因為那是化名，應該很難懂吧。,,닉네임이라 알아보기 어려웠구나,"Wegen meines Nicknames war es wohl schwierig,
 darauf zu kommen, dass ich es war."
-24,4121,,"L'Alba Dorata era una società segreta britannica
-fondata nel XIX secolo.","「黃金黎明團」，據說是受到
+24,4121,,"L'Alba Dorata era una società segreta
+britannica fondata nel XIX secolo.","「黃金黎明團」，據說是受到
 薔薇十字團的影響，在十九世紀末
 真實存在於英國的祕密團體喔。",,"「황금여명회」라는 건
 장미십자회의 영향을 받았다고 전해지는
@@ -66,8 +67,9 @@ ne fu brevemente membro.","被人稱為“世界最邪惡的男人”的克勞�
 據說也曾經短暫地屬於這個團體……",,"""세계에서 가장 사악한 남자""로 불리는 크로울리도
 짧은 기간이었지만 재적하고 있었다고 하고…","Sogar Aleister Crowley, der als bösester Mensch
 der Welt bekannt war, war kurz ein Mitglied."
-26,4121,,"I loro insegnamenti erano incentrati sulla Kabbalah, e
-la loro gerarchia era basata sull'Albero della Vita della Kabbalah. Infatti...","教義似乎以卡巴拉思想為中心融合了其他理論。
+26,4121,,"I loro insegnamenti erano incentrati sulla Kabbalah,
+e la loro gerarchia era basata sull'Albero
+della Vita della Kabbalah. Infatti...","教義似乎以卡巴拉思想為中心融合了其他理論。
 有著模仿卡巴拉之樹的位階存在，還有……",,"교의는 카발라라는 사상을 중심으로 체계화되었던 모양인지
 카발라 생명의 나무에서 따온 위계가 존재하고 있어서……","Im Zentrum der Lehren stand die Kabbala und die
 Hierarchie basierte auf dem Lebensbaum aus der
@@ -79,8 +81,8 @@ non riesco più a fermarmi.","啊，抱歉抱歉。西方歷史是靈異題材�
 이야기하기 시작하면 멈출 수가 없게 돼","Tut mir leid. Die Geschichte des Westens ist eine
 Goldgrube an okkultem Wissen. Wenn ich davon
 spreche, kann ich mich einfach nicht bremsen."
-28,4121,,"Pensa che la settimana scorsa ne ho parlato al
-telefono con la presidentessa per sei ore...",之前也跟社長講了六小時的電話……,,얼마 전에도 부장하고 6시간 동안 전화로 이야기해버려서……,"Ich habe letzte Woche sechs Stunden mit Mei
+28,4121,,"Pensa che l'altra sera ne ho parlato al telefono
+con la presidente per sei ore di fila...",之前也跟社長講了六小時的電話……,,얼마 전에도 부장하고 6시간 동안 전화로 이야기해버려서……,"Ich habe letzte Woche sechs Stunden mit Mei
 darüber telefoniert."
 29,4121,,"Stavi cercando me? Pensavo stessi
 portando il Sig. Navit.","難道你是在找我嗎？
@@ -99,7 +101,7 @@ seguirà anche me?!","既然我跟你有共時性，
 那我也有可能會被NAVIT追囉！？",,"너와 싱크로니시티하니까
 나도 내빗씨에게 쫓길 가능성이 있지 않을까!?","Da ich synchronistisch mit dir verbunden bin, wird
 er mir vielleicht auch folgen!"
-34,4121,,Devo farlo sapere a Mei! Grazie per le info!,"不好了，得趕快告訴社長才行！
+34,4121,,Devo farlo sapere a Mei! Grazie per le informazioni!,"不好了，得趕快告訴社長才行！
 謝謝你喔！",,"큰일이다, 바로 부장에게 알려야 해!
 고마워, 너!!",Das muss ich Mei erzählen! Danke für die Info!
 35,4121,,Mi assicurerò di inviare il pagamento!,報酬我也會好好支付的喔！,,보수는 제대로 지불해둘 테니까!,Ich werde dich dafür bezahlen!
@@ -126,7 +128,7 @@ sono riuscito a completarlo.)","（雖然是個搞不太懂的委託……
  아무래도 의뢰는 달성한 모양이다)","(Das war vielleicht ein bizarrer Fall, aber
 irgendwie habe ich es geschafft, ihn
 abzuschließen.)"
-41,2020,,(È ora di tornare a Hudie...),（回hudie去吧……）,,(후디에로 돌아가자……),"(Zeit, zu Hudie zurückzukehren.)"
+41,2020,,(È ora di tornare all'Hudie...),（回hudie去吧……）,,(후디에로 돌아가자……),"(Zeit, zu Hudie zurückzukehren.)"
 42,2020,,...!,…………！,,…………!,...!
 43,2020,,(Avevo la sensazione di essere osservato...),（感覺好像從某處傳來一股視線……）,,(어디선가 시선이 느껴진 기분이 들었는데……),"(Ich hatte das Gefühl, beobachtet zu werden ...)"
 44,2020,,...,…………,,…………,...

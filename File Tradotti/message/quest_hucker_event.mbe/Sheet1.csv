@@ -6,12 +6,12 @@ dati i tuoi stretti legami con i Digimon.","如果是和數碼寶貝之間有相
 我想一定就會過來。",,"디지몬과의 인연으로 맺어진 너라면
 당연히 와 줄 거라고 생각했어","Ich dachte mir schon, dass du kommst, da du
 dich mit den Digimon so gut verstehst."
-202,3013,,"Comunque, andiamo subito al dunque, ci stai?
-Sei già stato a Kowloon in EDEN prima, sì?","我們現在就來談委託的內容。
+202,3013,,"Comunque, veniamo al sodo.
+Sei già stato a Kowloon in EDEN, vero?","我們現在就來談委託的內容。
 你……已經見到Kowloon的駭客了嗎？",,"…바로 의뢰에 대한 내용인데
 너… 이미 쿠롱의 해커랑 만났어?","Wie dem auch sei, kommen wir gleich zum Punkt, ja?
 Du warst in EDEN schon in Kowloon, oder?"
-203,3013,,Allora questo renderà la conversazione molto più veloce.,是嗎？那我們可以長話短說了。,,"그렇구나, 그럼 이야기가 빠르겠네",Das macht diese Unterhaltung sehr viel kürzer.
+203,3013,,Questo ci farà risparmiare molto tempo.,是嗎？那我們可以長話短說了。,,"그렇구나, 그럼 이야기가 빠르겠네",Das macht diese Unterhaltung sehr viel kürzer.
 204,3013,,"EDEN è pieno zeppo di hacker che considerano i Digimon
 poco più che meri strumenti per fare i loro comodi.","在這個世界……EDEN裡橫行霸道的駭客們，
 只把數碼寶貝當作便利的道具來看待而已……",,"이 세계… EDEN에 만연한 해커들은
@@ -20,9 +20,9 @@ Werkzeuge für ihre Absichten ansehen."
 205,3013,,"Naturalmente, le loro intenzioni sono piuttosto malvagie e illegali,
 per farla breve.",不僅如此，還將它們用在犯罪行為上。,,그 뿐만이 아니라 그들을 범죄 행위에 이용하고 있어,"Natürlich sind ihre Absichten ziemlich böse und
 illegal, um es kurz zu machen."
-206,3013,,"Ecco perché ho cercato il tuo aiuto in questo caso.
-Vorrei che tu andassi a dare la caccia a uno di questi hacker e,
-diciamo, li ""disciplinassi"" per queste terribili buffonate.","這次的委託，是希望你能以同樣是駭客的身分開戰，
+206,3013,,"Per questo ho richiesto il tuo aiuto.
+Vorrei che dessi la caccia a uno di questi hacker
+e gli ""insegnassi l'educazione"", per così dire.","這次的委託，是希望你能以同樣是駭客的身分開戰，
 藉以處罰那些駭客。",,"이번 의뢰는 말이지, 그런 해커를 혼내줬으면 하는 거야
 같은 해커로서, 배틀로 말이지","Darum möchte ich für diesen Fall deine Hilfe.
 Ich möchte, dass du einem solchen Hacker nachsetzt
@@ -50,8 +50,8 @@ soffrire terribilmente...","不過，壞蛋駭客的存在也是事實。
 디지몬들은 지금도 악용당해 괴로워하고 있어","Das ändert aber nichts daran, dass es da draußen
 doch faule Eier gibt, die ihre Digimon
 missbrauchen und schrecklich leiden lassen ..."
-212,3013,,"Quindi apprezzerei comunque se aumentassi la pressione su questi hacker,
-per così dire.","為了讓它們能夠輕鬆一點，
+212,3013,,"Quindi ti sarei grata se dessi a questi hacker
+una bella strigliata, per così dire.","為了讓它們能夠輕鬆一點，
 可以請你修理修理那些駭客嗎？",,"그들이 조금이라도 편해지도록
 해커들에게 따끔한 맛을 보여주지 않을래?","Deshalb würde ich es schätzen, wenn du solchen
 Hackern sozusagen die Hölle heiß machst."
@@ -60,8 +60,8 @@ causa così importante.","謝謝你。
 我就知道你一定會答應。",,"…고마워
 너라면 받아줄 거라고 생각했어","Danke. Ich wusste, dass du mir bei einer so
 wichtigen Angelegenheit helfen würdest."
-214,3013,,"Ho già trovato un hacker particolarmente malevolo che si aggirava
-all'interno di EDEN.","我已經先把EDEN裡的壞蛋駭客
+214,3013,,"Ho già individuato un hacker particolarmente pericoloso
+che si aggira all'interno di EDEN.","我已經先把EDEN裡的壞蛋駭客
 都挑出來了。",,"EDEN에서도 특히 질 나쁜 해커를
 미리 픽업해 뒀어","Ich habe bereits einen besonders böswilligen
 Hacker in EDEN ausfindig gemacht."
@@ -98,8 +98,8 @@ Mi aspetto grandi cose da te anche in futuro.","總之，辛苦你了。
 ""앞으로도"" 잘 부탁해","Wie dem auch sei, danke für all deine Mühe heute.
 Auch in Zukunft erwarte ich gute Arbeit von dir."
 304,2000,,...?,……？,,…?,...?
-305,3013,,"Oh, non pensavi che avessimo finito solo con questo hacker di
-cui ti sei preso cura, vero?",你怎麼一副事情已經解決的樣子？,,…뭘 이제 다 끝났다고 생각하고 있는 거야?,"Ach, du dachtest doch wohl nicht, dass mit diesem
+305,3013,,"Oh, non pensavi mica che avessimo finito
+solo perché hai sistemato un hacker, vero?",你怎麼一副事情已經解決的樣子？,,…뭘 이제 다 끝났다고 생각하고 있는 거야?,"Ach, du dachtest doch wohl nicht, dass mit diesem
 einen Hacker, den du erledigt hast, schon alles
 abgehakt ist, oder?"
 306,3013,,"Purtroppo, ci sono ancora numerosi hacker là fuori che maltrattano
@@ -127,8 +127,8 @@ scrupolosa delle riflessioni.","咦？人數太多？
 이것도 엄선한 건데?","Du meinst, die Zahl ist ziemlich hoch? Ich
 versichere dir, dass diese Zusammenstellung
 auf reiflichen Überlegungen basiert."
-311,3013,,"State tranquillo, non dovrai cercare tutti gli hacker rimanenti da solo.
-So che sei una sola persona, dopotutto.","不過……你放心吧。
+311,3013,,"Tranquillo, non dovrai cercare gli hacker rimanenti da solo.
+Dopotutto, sei pur sempre uno solo.","不過……你放心吧。
 我並不是要你一個人去找
 那些駭客的所在地。",,"하지만… 안심해
 너 혼자서 해커들이 있는 곳을
@@ -149,9 +149,9 @@ schnell nachholen."
 그들이 발견해 줄 거야","Der Grund ist folgender: Wenn du für die Digimon
 auf deiner Digifarm „Ermitteln“ auswählst, finden
 sie für dich heraus, wo die anderen Hacker sind."
-314,3013,,"Una volta che le loro posizioni saranno state coperte,
-li manderò da te immediatamente come nuovi casi da controllare.
-Puoi gestirli allo stesso modo di quelli di oggi.","一旦得知駭客的所在地，
+314,3013,,"Una volta scoperta la loro posizione, li aggiungerò
+subito alla bacheca come nuovi casi da accettare.
+Potrai gestirli esattamente come hai fatto oggi.","一旦得知駭客的所在地，
 馬上就會在委託板上新增委託。
 用和剛才一樣的步驟來完成就可以了。",,"해커들이 있는 곳이 파악되면
 바로 의뢰 보드에 의뢰가 추가되니까
@@ -234,9 +234,9 @@ di crescere oltre, allora.","這樣啊……他們是三兄弟。
 그렇다면 내버려 뒀어도 규모가 커지진 않았겠네","Ich verstehe, es waren also drei Geschwister.
 Hätten wir nichts unternommen, wäre die
 Gruppe wahrscheinlich nicht angewachsen."
-451,3013,,"Però, in questo modo abbiamo preso tre piccioni con una fava e siamo
-riusciti a farli cambiare idea prima che fosse troppo tardi,
-quindi sono contenta.","不過，也因此一次就讓
+451,3013,,"Così facendo abbiamo preso tre piccioni con una fava e
+li abbiamo fatti redimere prima che fosse troppo tardi.
+Ne sono davvero soddisfatta.","不過，也因此一次就讓
 三個駭客洗心革面了……",,"하지만 덕분에 한 번에 세 명이나 해커를
 개심시킬 수 있었어…","Aber so haben wir drei auf einen Streich erledigt
 und sie dazu gebracht, ihre Meinung zu ändern,
@@ -286,8 +286,8 @@ abilità di hacker in modi pratici ""sul campo"".","她希望能讓你以駭客�
 進行“武者修行”。",,"너를 해커로서
 ""무사수행""시켜 달라고","Sie wollte, dass ich dir helfe, deine Fertigkeiten
 als Hacker „im Einsatz“ praktisch anzuwenden."
-507,3013,,"Questo fa di lei la persona che è stata davvero dietro questi casi.
-Ti ha proprio gettato nella fossa dei leoni, si potrebbe dire.","所以說，真正的委託人其實是杏子。
+507,3013,,"Questo la rende la vera mandante di questi casi.
+Si potrebbe dire che ti abbia gettato nella fossa dei leoni.","所以說，真正的委託人其實是杏子。
 也就是獅子會將幼獅推下萬丈深谷……這樣的概念。",,"그러니까 진짜 의뢰인은 쿄코라는 얘기야…
 사자는 벼랑으로 자신의 새끼를 떨어뜨린다…라는 거지","Sie steckt also in Wirklichkeit hinter all den
 Fällen. Sie hat dich sozusagen in die Höhle des

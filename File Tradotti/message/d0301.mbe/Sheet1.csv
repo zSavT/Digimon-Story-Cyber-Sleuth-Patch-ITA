@@ -1,12 +1,13 @@
-﻿ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
-100,4711,,"Il nostro leader tende a stare per conto suo. Anzi, posso
-contare sulle dita di una mano le volte che l'ho persino vista.","我們隊長不太會出現在眾人面前。
+﻿﻿ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
+100,4711,,"Il nostro leader è un tipo solitario. Anzi, posso
+contare sulle dita di una mano le volte in cui
+l'ho vista di persona.","我們隊長不太會出現在眾人面前。
 我也只見過他幾次而已……",,"우리 리더는… 너무 사람에게 모습을 안 보여
 나도, 손에 꼽을 정도밖에 만나지 못했어…","Unser Anführer bleibt gern für sich. Ich kann an
 einer Hand abzählen, wie oft ich ihn gesehen habe."
-150,4711,,"Ho sentito cosa è successo a [m5021].
-Ho giurato di fare tutto il possibile. Non c'è modo che
-lasci che i miei amici cadano vittima della sindrome EDEN.","我有聽說[m5021]的事囉。
+150,4711,,"Ho saputo cos'è successo a [m5021].
+Ho giurato di fare tutto il possibile. Non permetterò
+mai che i miei amici contraggano la Sindrome di EDEN.","我有聽說[m5021]的事囉。
 為了罹患EDEN症候群的同伴，
 我也想做些自己辦得到的事……！",,"[m5021]에 대해서 들었어
 EDEN 증후군이 된 동료들을 위해서
@@ -29,9 +30,9 @@ Zaxon! Come possiamo combattere tutto questo?!","是神代那群人害我們的�
 젠장, 우리들은 왜 이렇게 무력한 거야…!","Die Leute von Kamishiro haben den EDEN-Virus
 verbreitet! Die Nachrichten geben immer nur Zaxon
 die Schuld! Was machen wir da?!"
-300,4709,,"Non sistemiamo i [k120] da molto tempo.
-Per non parlare del fatto che il loro leader se ne
-va in giro da qualche parte.","最近連[k120]也一點都不團結啊。
+300,4709,,"Ultimamente nel gruppo [k120] regna il caos.
+Senza contare che il loro leader se ne va
+a zonzo chissà dove.","最近連[k120]也一點都不團結啊。
 就連隊長也不知道跑去哪裡蹓躂了。",,"최근, [k120]도 통솔이 안 돼
 리더도 어딜 싸돌아 다니는 건지","Mit [k120] liegt es schon länger im Argen.
 Mal abgesehen davon, dass der Anführer
@@ -163,9 +164,9 @@ potenziale. Forse possiamo ristabilire un po' di ordine.","所以我們Zaxon才�
 EDEN의 질서를 되찾기 위해 움직이고 있어","Wir sind alle unterwegs, um uns mit einem Teil
 der Neuen anzufreunden. Mit denen, die Potenzial
 haben. So schaffen wir vielleicht wieder Ordnung."
-1100,4560,,"È un po' folle, non credi? Voglio dire, per tutto questo tempo
-siamo qui seduti a chiederci chi sia persino Sig. Navit! Tutto
-quello che sappiamo è che è dannatamente bravo.","「NAVIT」的真面目連我們也還沒有掌握到。
+1100,4560,,"Assurdo, non credi? Insomma, siamo ancora
+qui a chiederci chi diavolo sia Mr. Navit!
+Sappiamo solo che è davvero in gamba.","「NAVIT」的真面目連我們也還沒有掌握到。
 ……總之，是個非常厲害的駭客。",,"「내빗군」의 정체는, 우리들도 알아내지 못했어
 …어쨌든, 엄청난 해커야","Ganz schön verrückt, was? Wir hocken hier und
 fragen uns, wer Herr Navit überhaupt ist!

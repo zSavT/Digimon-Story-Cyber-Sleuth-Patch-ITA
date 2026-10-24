@@ -26,7 +26,7 @@ centinaia di partecipanti selezionati.","嗯，招募了數百名參加人員，
 進行EDEN內部的β測試——。",,"그래, 수백 명의 참가자를 초대해서 실시했던
 EDEN의 클로즈 β테스트―","Ja. Es war eine geschlossene Beta mit einigen
 Hundert ausgewählten Teilnehmern."
-10,4821,,"Abbiamo testato la tecnica e l'esperienza di gioco.",是一場兼具運轉實驗的試玩活動。,,"운용 실험도 겸한, 테스트 플레이였어","Wir haben die Technik und das Spielerlebnis
+10,4821,,Abbiamo testato la tecnica e l'esperienza di gioco.,是一場兼具運轉實驗的試玩活動。,,"운용 실험도 겸한, 테스트 플레이였어","Wir haben die Technik und das Spielerlebnis
 getestet."
 11,4821,,"Allora ho lavorato per la Nile Corporation,
 che Kamishiro a quel tempo aveva già rilevato.",當時我所屬的尼羅河公司已經被神代收購了。,,"당시 내가 소속하고 있었던 나일 코프는
@@ -103,14 +103,14 @@ dovevamo fare finta che non fosse successo nulla.","為了報告「測試是成�
 모든 건 없었던 일이 되어 버렸어…","Um den Test als Erfolg verkaufen zu können,
 mussten wir so tun, als wäre nichts gewesen."
 27,3003,,Ma che ne è di questi bambini?,那麼，誰也不知道孩子們的事情……,,"그럼, 누구도 그 아이들에 대해서는…",Aber was ist mit diesen Kindern?
-28,4821,,"Credo che solo Suedou abbia mai parlato con loro.",不，應該只有末堂和他們說過話。,,"…아니, 스에도만은, 그들과 대화를 했었을 거야","Ich glaube, nur Suedou hat sich überhaupt mit
+28,4821,,Credo che solo Suedou abbia mai parlato con loro.,不，應該只有末堂和他們說過話。,,"…아니, 스에도만은, 그들과 대화를 했었을 거야","Ich glaube, nur Suedou hat sich überhaupt mit
 ihnen unterhalten."
 29,4821,,"Quando si sono svegliati, i quattro
 hanno parlato di cose strane.","那四個小孩在意識回復後，
 好像異口同聲地說了奇異的故事……",,"4명의 아이들은, 의식이 돌아오자 마자 입을 모아서
 기묘한 얘기를 하게 되었다고 해…","Als sie aufgewacht sind, haben die vier von
 seltsamen Dingen gesprochen."
-30,4821,,Lei ha descritto un mondo fiabesco.,聽說那簡直就像童話故事中的世界。,,"그건 마치, 동화에 나올 법한 세계의 얘기였다나 봐",Sie haben eine märchenhafte Welt beschrieben.
+30,4821,,Ha descritto un mondo fiabesco.,聽說那簡直就像童話故事中的世界。,,"그건 마치, 동화에 나올 법한 세계의 얘기였다나 봐",Sie haben eine märchenhafte Welt beschrieben.
 31,4821,,"La maggior parte dei ricercatori giunse alla
 conclusione che l'enorme stress aveva portato a uno
 stato isterico.","雖然許多研究人員解釋為，
@@ -119,7 +119,7 @@ stato isterico.","雖然許多研究人員解釋為，
 der enorme Stress zu einem hysterischen Zustand
 geführt hatte."
 32,4821,,"Suedou, tuttavia, no.",但末堂不一樣。,,스에도는 달랐어,Suedou jedoch nicht.
-33,4821,,"Lui solo ha ascoltato ogni parola dei quattro bambini.","四個孩子說的話，
+33,4821,,Lui solo ha ascoltato ogni parola dei quattro bambini.,"四個孩子說的話，
 只有他半句都沒聽漏！",,"그만은, 4명의 아이들의 말을
 단 한 마디 말도 빠뜨리지 않고 들으려 했어","Er alleine hat jedem Wort der vier Kinder
 gelauscht."
@@ -167,7 +167,7 @@ anche se so che è egoista.","對了……我很清楚這是任性的請求，
 너희들에게 부탁하고 싶은 게 있어","Ich habe übrigens eine Bitte an euch, auch wenn
 ich weiß, dass sie egoistisch ist."
 45,3003,,?,？,,?,?
-46,4821,,"Potreste per favore rimettere in quarantena i miei ricordi?",可以再次封印我的記憶嗎？,,"―내 기억을, 다시 한 번 봉인해 주지 않겠어?","Könntet ihr meine Erinnerungen bitte wieder
+46,4821,,Potreste per favore rimettere in quarantena i miei ricordi?,可以再次封印我的記憶嗎？,,"―내 기억을, 다시 한 번 봉인해 주지 않겠어?","Könntet ihr meine Erinnerungen bitte wieder
 unter Quarantäne stellen?"
 47,3003,,Cosa?!,咦……！？,,에…!?,Was?!
 48,4821,,"Il mio vecchio io era ossessionato dal lavoro.

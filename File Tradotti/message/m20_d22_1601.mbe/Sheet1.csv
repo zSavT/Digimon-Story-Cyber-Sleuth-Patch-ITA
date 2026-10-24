@@ -1,9 +1,9 @@
 ﻿ID,Speaker,Japanese,English,Chinese,EnglishCensored,Korean,German
 1,3005,,Affiorano dei ricordi.,真懷念啊……,,…그리운걸,Da kommen Erinnerungen hoch.
-2,3002,,"Sì! Questo è il Mondo Digitale, così come era allora!",嗯！是那時看見的數碼世界！,,응! 그때 봤던 디지털 월드야…!,"Ja! Das ist die Digitale Welt, so wie sie damals war!"
+2,3002,,"Sì! Questo è il Digi World, così come era allora!",嗯！是那時看見的數碼世界！,,응! 그때 봤던 디지털 월드야…!,"Ja! Das ist die Digitale Welt, so wie sie damals war!"
 3,3003,,È così bello.,好漂亮……,,아름다워…,Sie ist so wunderschön.
 4,3036,,Cos'è quello?,那個是？,,저건…?,Was ist das denn?
-5,1416,,"I dati mentali memorizzati dalla rete dei Eater.",是許多在侵食者網路中被保護的精神資料。,,이터의 네트워크 내에 보호되어 있었던 수많은 정신 데이터들이다,"Die gespeicherten Mentaldaten aus dem
+5,1416,,I dati mentali memorizzati dalla rete dei Eater.,是許多在侵食者網路中被保護的精神資料。,,이터의 네트워크 내에 보호되어 있었던 수많은 정신 데이터들이다,"Die gespeicherten Mentaldaten aus dem
 Netzwerk der Verschlinger."
 6,3003,,Tutti?,咦？全部都是？,,"저것들, 전부가요?",Alle?
 7,1416,,Sì. Re Drasil li rimanda indietro nel vostro mondo.,嗯，世界樹正把資料送回人類世界。,,"그래, 위그드라실이 인간 세계로 돌려보내고 있다",Ja. König Drasil schickt sie zurück in eure Welt.
@@ -29,7 +29,7 @@ Yuugo und [p] werden aufwachen?!"
 這個超可愛的耶！",,"에, 뭐야뭐야!?
 이거, 엄청 귀여운데요!","Moment, was ist denn jetzt los?!
 Ach, wie niedlich!"
-18,1416,,"Questa è la forma originale del Eater.",那個球體是侵食者本來的樣子。,,"그 구체가, 이터의 본래 모습이다","Das ist die ursprüngliche Gestalt der
+18,1416,,Questa è la forma originale del Eater.,那個球體是侵食者本來的樣子。,,"그 구체가, 이터의 본래 모습이다","Das ist die ursprüngliche Gestalt der
 Verschlinger."
 19,3002,,Cosa?,咦？,,……헤?,Was?
 20,3002,,Iiih!,呀～～～！？！！,,으갹―――!?!!,Iiieeeh!
@@ -51,8 +51,7 @@ visualizzazioni di un Eater in un'onda digitale.","“發光體”被視為靈�
 waren vielleicht Visualisierungen eines
 Verschlingers in einer digitalen Welle."
 24,1416,,"È possibile che i cosiddetti fenomeni plasmatici,
-ovvero i Eater nella loro forma energetica, fossero
-presenti durante la trasmissione di dati. Secondo le descrizioni.","雖然這被當作是等離子現象之類的，
+causati dagli Eater, si diffondano qui?","雖然這被當作是等離子現象之類的，
 但若這些現象其實是傳播資訊的能源體——侵食者，
 種種舉動、性質和目擊證言會更加合理。",,"플라즈마 현상이라고 되어 있지만
 정보를 전파하는 에너지체인 이터라면
@@ -76,7 +75,7 @@ Volevo solo vederti completamente sopraffatta un'ultima volta.","不好意思…
 sich verabschiedet. Ich wollte dich nur noch
 ein letztes Mal total überfordert sehen."
 29,3002,,Cosa?,咦？,,…에?,Was?
-30,1416,,"Forse mi risulta anche semplicemente difficile dire addio.",不，還是說……我是捨不得和你們分開呢？,,"아니, 아니면… 너희들과의 작별을 아쉬워하고 있는 건가","Vielleicht fällt mir auch einfach nur der
+30,1416,,Forse mi risulta anche semplicemente difficile dire addio.,不，還是說……我是捨不得和你們分開呢？,,"아니, 아니면… 너희들과의 작별을 아쉬워하고 있는 건가","Vielleicht fällt mir auch einfach nur der
 Abschied schwer."
 31,3003,,Con addio intendi...,分開……也就是說……,,작별이라니… 즉…,Mit Abschied meinst du ...
 32,1416,,"È proprio quello che intendo.
@@ -85,19 +84,19 @@ Re Drasil vi rimanderà presto nel vostro mondo.","就是這樣。
 위그드라실이, 신속하게 너희들을 인간 세계로 돌려보낼 거다","Genau das meine ich.
 König Drasil wird euch bald in eure Welt
 zurückschicken."
-33,1416,,"Per ripristinare completamente il Mondo Digitale,
+33,1416,,"Per ripristinare completamente il Digi World,
 dobbiamo rimuovere tutti i corpi estranei.","聽說要使數碼世界完全復原，
 需要消除“異物”。",,"디지털 월드를 완전히 복구하기 위해서는
 ""이물""을 없앨 필요가 있는 모양이다","Um die Digitale Welt komplett wiederherzustellen,
 müssen wir alle Fremdkörper entfernen."
 34,3005,,Bah. Ci trattano come parassiti...,呿，結果我們還是被當成“異物（Bug）”……,,"…칫, 결국 ""이물(버그)"" 취급이냐…",Pah. Wir werden wie Ungeziefer behandelt ...
-35,3036,,"Il Re Drasil vuole far tornare il Mondo Digitale
+35,3036,,"Il Re Drasil vuole far tornare il Digi World
 allo stato in cui era prima del nostro arrivo?","世界樹是不是希望將數碼世界
 回復到我們來訪前的狀態呢？",,"위그드라실은, 디지털 월드를
 우리들이 찾아오기 전의 상태로 되돌리고 싶은 게 아닐까?","Möchte König Drasil die Digitale Welt wieder so
 werden lassen, wie sie vor unserer Ankunft war?"
 36,3036,,Più di otto anni fa?,回復到比八年前更早以前的狀態。,,"…8년 전보다, 이전의 상태로",Vor mehr als acht Jahren?
-37,3002,,"Ancora più a lungo? Un momento... Questo significa...","咦，以前的……等一下……
+37,3002,,Ancora più a lungo? Un momento... Questo significa...,"咦，以前的……等一下……
 那樣的話……",,"에, 이전의 상태라니… 잠깐만…
 그렇다면…","Noch länger? Moment ...
 Das heißt ja ..."
@@ -108,7 +107,7 @@ Ci dimenticheremo tutti?","難道我們……會變成從來沒有相遇過？
 Wir werden uns alle vergessen?"
 39,1050,,Forse.,或許是……,,…그럴지도 몰라,Vielleicht.
 40,3002,,Ma ... questo è ...,怎、怎麼這樣——,,"그, 그런 거―",Aber ... das ist ...
-41,1151,,"Ma in quel caso possiamo semplicemente incontrarci di nuovo!",不過！即便如此，只要我們再相遇就好了！,,"하지만! 만약 그렇게 된다 해도, 다시 만나면 돼…!","Aber in dem Fall können wir uns ja einfach
+41,1151,,Ma in quel caso possiamo semplicemente incontrarci di nuovo!,不過！即便如此，只要我們再相遇就好了！,,"하지만! 만약 그렇게 된다 해도, 다시 만나면 돼…!","Aber in dem Fall können wir uns ja einfach
 wieder treffen!"
 42,1050,,Andrà tutto bene! Di certo!,總會有辦法的，一定是這樣！,,"어떻게든 될 거야, 분명!",Das wird schon alles! Ganz bestimmt!
 43,3002,,"Sì... Esatto!
